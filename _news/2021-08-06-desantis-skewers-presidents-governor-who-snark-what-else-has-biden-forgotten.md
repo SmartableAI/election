@@ -63,6 +63,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden admin targets DeSantis ban on mask mandates, offers cash to Florida school districts defying governor"
+    excerpt: "The Biden administration this week offered federal financial support to Florida school districts defying Gov. Ron DeSantis’ ban on mask mandates as the coronavirus surges in the state, according to reports. "
+    publishedDateTime: 2021-08-14T10:17:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vli3CbMgO9Y/biden-admin-targets-desantis-ban-on-mask-mandates-offers-cash-to-florida-school-districts-defying-governor"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-targets-desantis-ban-on-mask-mandates-offers-cash-to-florida-school-districts-defying-governor.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-targets-desantis-ban-on-mask-mandates-offers-cash-to-florida-school-districts-defying-governor.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c353853-8226-4465-bfff-bd0081527b46/6e291030-5ef5-4a11-8046-711ebd3ef1c0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden To Abbott, DeSantis: If You Won't Help With Pandemic, \"At Least Get Out Of The Way\""
     excerpt: "President Joe Biden called out the governors of Texas and Florida, Greg Abbott and Ron DeSantis, for not helping curb the COVID-19 pandemic. \"Just two states, Florida and Texas, account for one-third of all new COVID-19 cases in the entire country."
     publishedDateTime: 2021-08-03T22:39:00Z

@@ -1178,54 +1178,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-08-donald-trump-is-still-the-leader-of-republican-party-rnc-chair-says.md",
-      "title": "Donald Trump is still the leader of Republican Party, RNC chair says",
-      "excerpt": "Former President Donald Trump is still calling the shots for the GOP, as is evident by his more than $100 million war chest, a party honcho said Sunday.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/08/08/trump-still-leader-of-republican-party-rnc-chair-ronna-mcdaniel/",
-      "originalUrl": "https://nypost.com/2021/08/08/trump-still-leader-of-republican-party-rnc-chair-ronna-mcdaniel/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-rally-053.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/08/08/trump-still-leader-of-republican-party-rnc-chair-ronna-mcdaniel/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/08/trump-still-leader-of-republican-party-rnc-chair-ronna-mcdaniel/amp/",
-      "publishedDateTime": "2021-08-08T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-08-08-donald-trump-100m-people-might-have-died-without-operation-warp-speed.md",
       "title": "Donald Trump: 100M people might have died without Operation Warp Speed",
       "excerpt": "I think if we didn’t come up during the Trump administration with the vaccine, you could have 100 million people dead, just like you had in 1917,” Trump said in an interview on",
@@ -1456,6 +1408,58 @@
         "name": "The Journal News",
         "domain": "lohud.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-cuomo-jams-democrats-with-trump-playbook-the-note.md",
+      "title": "Cuomo jams Democrats with Trump playbook: The Note",
+      "excerpt": "Gov. Andrew Cuomo is clinging to office by running plays made familiar by former President Trump, mixing indignant denials with what-aboutism and an instinct to fight.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/cuomo-jams-democrats-trump-playbook-note/story?id=79245633",
+      "originalUrl": "https://abcnews.go.com/Politics/cuomo-jams-democrats-trump-playbook-note/story?id=79245633",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/governor-como-gty-jt-210803_1628032388719_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/cuomo-jams-democrats-trump-playbook-note/story?id=79245633",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/cuomo-jams-democrats-trump-playbook-note/story?id=79245633",
+      "publishedDateTime": "2021-08-04T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

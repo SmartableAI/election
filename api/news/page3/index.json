@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-10-biden-checking-if-he-has-power-to-intervene-against-florida-and-texas-mask-mandate-bans.md",
+      "title": "Biden 'checking' if he has power to intervene against Florida and Texas mask mandate bans",
+      "excerpt": "Biden said he is “checking” on if his presidential powers could give him the ability to intervene in states banning mask mandates",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cZ5oDR8JHqo/biden-checking-if-he-has-power-to-intervene-on-florida-and-texas-mask-mandates",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cZ5oDR8JHqo/biden-checking-if-he-has-power-to-intervene-on-florida-and-texas-mask-mandates",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f971513-f578-48ec-aafe-1356cbb35b0f/7990aed3-d0fa-45d5-b33f-11ab72e7de2f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-checking-if-he-has-power-to-intervene-on-florida-and-texas-mask-mandates.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-checking-if-he-has-power-to-intervene-on-florida-and-texas-mask-mandates.amp",
+      "publishedDateTime": "2021-08-10T15:15:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-biden-on-cuomos-resignation-i-respect-the-governors-decision.md",
       "title": "Biden on Cuomo's resignation: 'I respect the governor's decision'",
       "excerpt": "President Joe Biden said Tuesday that he respects New York Gov. Andrew Cuomo's decision to resign after the President called on Cuomo to step down last week following an official report that said Cuomo sexually harassed multiple women.\n    \n",
@@ -1104,54 +1160,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-08-donald-trump-is-still-the-leader-of-republican-party-rnc-chair-says.md",
-      "title": "Donald Trump is still the leader of Republican Party, RNC chair says",
-      "excerpt": "Former President Donald Trump is still calling the shots for the GOP, as is evident by his more than $100 million war chest, a party honcho said Sunday.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/08/08/trump-still-leader-of-republican-party-rnc-chair-ronna-mcdaniel/",
-      "originalUrl": "https://nypost.com/2021/08/08/trump-still-leader-of-republican-party-rnc-chair-ronna-mcdaniel/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-rally-053.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/08/08/trump-still-leader-of-republican-party-rnc-chair-ronna-mcdaniel/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/08/trump-still-leader-of-republican-party-rnc-chair-ronna-mcdaniel/amp/",
-      "publishedDateTime": "2021-08-08T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-08-08-trumps-acting-attorney-general-revealed-frightening-activity-at-justice-department-senate-judiciary-chair-says.md",
       "title": "Trump's acting attorney general revealed 'frightening' activity at Justice Department, Senate Judiciary chair says",
       "excerpt": "Senate Judiciary Chairman Dick Durbin said Sunday that former acting Attorney General Jeffrey Rosen revealed in testimony this weekend \"frightening\" information about what had occurred at the Justice Department during the waning days of the Trump administration.\n    \n",
@@ -1220,7 +1228,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 235,
+      "heat": 255,
       "tags": null,
       "images": [
         {

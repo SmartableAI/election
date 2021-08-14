@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-12-what-rosen-told-us-senators-trump-applied-persistent-pressure-to-get-justice-to-discredit-election.md",
+      "title": "What Rosen told U.S. senators: Trump applied ‘persistent’ pressure to get Justice to discredit election",
+      "excerpt": "Trump’s last attorney general told lawmakers he had to “persuade the president not to pursue a different path.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/national-security/rosen-senate-judiciary-testimony-trump/2021/08/12/4b500618-fabd-11eb-8a67-f14cd1d28e47_story.html",
+      "originalUrl": "https://www.washingtonpost.com/national-security/rosen-senate-judiciary-testimony-trump/2021/08/12/4b500618-fabd-11eb-8a67-f14cd1d28e47_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EOFJRDH3DQI6XCTH6FGNDUUOI4.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-12T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-12-cuomo-avenatti-the-lincoln-project-the-medias-anti-trump-idols-whove-collapsed-in-disgrace.md",
       "title": "Cuomo, Avenatti, The Lincoln Project: The media's anti-Trump idols who've collapsed in disgrace",
       "excerpt": "Democratic New York Gov. Andrew Cuomo was not only hailed by the media as a hero of the coronavirus pandemic; he was also being floated as a presidential candidate.",
@@ -1263,62 +1315,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-biden-checking-if-he-has-power-to-intervene-against-florida-and-texas-mask-mandate-bans.md",
-      "title": "Biden 'checking' if he has power to intervene against Florida and Texas mask mandate bans",
-      "excerpt": "Biden said he is “checking” on if his presidential powers could give him the ability to intervene in states banning mask mandates",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cZ5oDR8JHqo/biden-checking-if-he-has-power-to-intervene-on-florida-and-texas-mask-mandates",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cZ5oDR8JHqo/biden-checking-if-he-has-power-to-intervene-on-florida-and-texas-mask-mandates",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f971513-f578-48ec-aafe-1356cbb35b0f/7990aed3-d0fa-45d5-b33f-11ab72e7de2f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-checking-if-he-has-power-to-intervene-on-florida-and-texas-mask-mandates.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-checking-if-he-has-power-to-intervene-on-florida-and-texas-mask-mandates.amp",
-      "publishedDateTime": "2021-08-10T15:15:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

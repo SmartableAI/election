@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden’s credibility has been shredded in Afghanistan"
 excerpt: "Since it is Joe Biden in the White House there is instead, largely, an embarrassed silence. It is true that Trump set the US on the path out of Afghanistan and began the delusional peace talks with the Taliban that have gone nowhere."
 publishedDateTime: 2021-08-13T11:03:00Z
-originalUrl: "https://www.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
-webUrl: "https://www.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
+originalUrl: "https://www.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2?shareType=nongift"
+webUrl: "https://www.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2?shareType=nongift"
 ampWebUrl: "https://amp.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
 type: article
@@ -142,6 +142,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210708&t=2&i=1568307985&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH6712B"
         width: 817
         height: 545
+        isCached: true
+  - title: "Critics round on Joe Biden as US pulls out of Afghanistan"
+    excerpt: "Joe Biden campaigned on a promise to end America’s longest war, but his presidency risks being remembered instead for presiding over the violent overthrow of Afghanistan’s government by the Taliban. Republicans have sought to capitalise on what is emerging as the biggest setback of Biden’s presidency with an eye on elections next year in which control of Congress is at stake."
+    publishedDateTime: 2021-08-14T10:00:00Z
+    webUrl: "https://www.ft.com/content/f163b68f-c93c-4e5c-ac26-0bde2060d97e"
+    ampWebUrl: "https://amp.ft.com/content/f163b68f-c93c-4e5c-ac26-0bde2060d97e"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/f163b68f-c93c-4e5c-ac26-0bde2060d97e"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 125
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F33785e6c-b05b-4939-be3d-2a97bb95eff8.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
   - title: "Biden to withdraw U.S. troops from Afghanistan by Sept. 11, officials say"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden has decided to withdraw the remaining U.S. troops from Afghanistan by Sept. 11, 2021, 20 years to the day after al Qaeda’s attacks triggered America’s longest war, U.S. officials said on Tuesday. U.S ..."
@@ -585,6 +601,6 @@ related:
         height: 707
         isCached: true
 
-secured: "gavaRKyI3u8WqfkXTy2TEFBcX+CoBk8WhYurG3UrbOJONuzisNrvd6rcXSNlz0IlnSYmPdN+dpIGGugg+qE6dApane34VJcPaNKFBzNvYxQ12MruZJfrhD4RJfgCDzg65rZgP+FBvmIVbOHOIxirpDTvVsjwVyrNcDYgvHwfePHA5IJDHzW8lo1aoyJZascLmGvBpdRaeM/AWtoz2LHPv/1+AkFnaBwei8c0srogTNX1q93t0DgYTFCUm5F7/zGC+NhD7qlIE2cZyN2QAwHYRVSwpPfXwHz8i7qKv7hUhdDglpS+LZ5cOmbIjvd4GND6xPIHifj9y8iPzPfWe9vINrIJvaF1ICGEwaTNiCcGIsoKODINxDqPMdtDeZsbRtNrlASr85lyKcb9ETcEVkI5/tTCDBMzgrEHdiRJvSJqVV2vjx36fJQAw1672OvGrI3ImRwZQd0Rfk/EBq7kEj2qvi+47bEs/5uMlhLVVA2hLe66lYMRPUNpv2dh0SioW3p9rdygHPAOO8fcHHX7oRfbig==;3hQuUG6bGpDL8OVrbg/58A=="
+secured: "jca+CIpzUlZKh9w+VAvOYPW3kNIvH3J6zBbOYaU9Q6up0YIYyHIP7zNKoxaUsuMiF8fvVb4bbfeQ2FhLAIGc2J7+WYT90X5CaPp2Ky+/iwxAcFKnp66Z5cYqnorXWf1F6yNtEZ+Rx83ohEHSlf9wWEEcE4d0QpQgggRnuVJeSSXnSoyyq4MwtqsfUCv14PW1OvngENYtA/iHvlWdS411lT1LryOMSPfgpmeNclm1IRZ1TkQlOGcZ1eecizgMASF12ILUm4Eb2FzfKAxcjSFQoBcHrNg050JIUUao+jjMmhCd0VHTECMDmSLleGIhQ5+UquLmhgQWwPf7777bMwJfGItssrzhPmi660wguM9Ejzg=;NlqAR40cL5Dec5LNLQLFHg=="
 ---
 

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden to withdraw US troops from Afghanistan by September 11"
-excerpt: "Last modified on Tue 13 Apr 2021 12.41 EDT Joe Biden will withdraw all the remaining US troops from Afghanistan by September 11, the 20th anniversary of the al-Qaida terrorist attacks on New York and Washington, a senior administration official has confirmed."
-publishedDateTime: 2021-04-13T16:41:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/apr/13/biden-withdraw-troops-afghanistan-september-11"
-webUrl: "https://www.theguardian.com/us-news/2021/apr/13/biden-withdraw-troops-afghanistan-september-11"
-ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/13/biden-withdraw-troops-afghanistan-september-11"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/13/biden-withdraw-troops-afghanistan-september-11"
+title: "Critics round on Joe Biden as US pulls out of Afghanistan"
+excerpt: "Joe Biden campaigned on a promise to end America’s longest war, but his presidency risks being remembered instead for presiding over the violent overthrow of Afghanistan’s government by the Taliban. Republicans have sought to capitalise on what is emerging as the biggest setback of Biden’s presidency with an eye on elections next year in which control of Congress is at stake."
+publishedDateTime: 2021-08-14T10:00:00Z
+originalUrl: "https://www.ft.com/content/f163b68f-c93c-4e5c-ac26-0bde2060d97e"
+webUrl: "https://www.ft.com/content/f163b68f-c93c-4e5c-ac26-0bde2060d97e"
+ampWebUrl: "https://amp.ft.com/content/f163b68f-c93c-4e5c-ac26-0bde2060d97e"
+cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/f163b68f-c93c-4e5c-ac26-0bde2060d97e"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: The Financial Times
+  domain: ft.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ft.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/37632e836ec1ba4bd404290e5b127ec1610c3c04/0_42_3400_2040/master/3400.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=685bece44856763791fcb15fda30c35c"
-    width: 600
-    height: 360
+  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F33785e6c-b05b-4939-be3d-2a97bb95eff8.jpg?source=google-amp&fit=scale-down&width=500"
+    width: 500
+    height: 281
     isCached: true
 
 related:
@@ -46,6 +46,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210413&t=2&i=1558314068&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3C17V"
         width: 795
         height: 545
+        isCached: true
+  - title: "Biden to withdraw US troops from Afghanistan by September 11"
+    excerpt: "Last modified on Tue 13 Apr 2021 12.41 EDT Joe Biden will withdraw all the remaining US troops from Afghanistan by September 11, the 20th anniversary of the al-Qaida terrorist attacks on New York and Washington, a senior administration official has confirmed."
+    publishedDateTime: 2021-04-13T16:41:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/13/biden-withdraw-troops-afghanistan-september-11"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/13/biden-withdraw-troops-afghanistan-september-11"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/13/biden-withdraw-troops-afghanistan-september-11"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/37632e836ec1ba4bd404290e5b127ec1610c3c04/0_42_3400_2040/master/3400.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=685bece44856763791fcb15fda30c35c"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden: 9/11 ‘cannot explain’ keeping troops in Afghanistan"
     excerpt: "WASHINGTON — President Joe Biden says the Sept. 11 attacks “cannot explain” why U.S. troops should remain in Afghanistan 20 years later as he details the timeline for withdrawing them from America’s longest war. Support our journalism. Subscribe today."
@@ -140,22 +156,6 @@ related:
     quality: 125
     images:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F59ee2303-20bc-436e-af84-5c0b95f486a1.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
-  - title: "Critics round on Joe Biden as US pulls out of Afghanistan"
-    excerpt: "Joe Biden campaigned on a promise to end America’s longest war, but his presidency risks being remembered instead for presiding over the violent overthrow of Afghanistan’s government by the Taliban. Republicans have sought to capitalise on what is emerging as the biggest setback of Biden’s presidency with an eye on elections next year in which control of Congress is at stake."
-    publishedDateTime: 2021-08-14T10:00:00Z
-    webUrl: "https://www.ft.com/content/f163b68f-c93c-4e5c-ac26-0bde2060d97e"
-    ampWebUrl: "https://amp.ft.com/content/f163b68f-c93c-4e5c-ac26-0bde2060d97e"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/f163b68f-c93c-4e5c-ac26-0bde2060d97e"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 125
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F33785e6c-b05b-4939-be3d-2a97bb95eff8.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
         isCached: true
@@ -601,6 +601,6 @@ related:
         height: 707
         isCached: true
 
-secured: "MeLBtEiyl4nWiqNCt9626DROyR8yB0QMb9QVXiQsVpCgmFYsle+zLE6VrSUF2K2zkq+cY0HJVjpnzZf4wgVAgi5DUo3U0ByFzilOU7iyRifQAv6fsJK2mpxYnCTtLvYq/AT05rZjabQjKqZsszglA4wCu9udbXALJrXBHY8RKVLZfG8m6suI9sMyt0uKoytouagPE6ZPpjxS2DasjE7Hv3k2KQP/xd5Xb5/DyV8YJVt4inSuMN2WSnMpuS9qGsQwMg2g6/zog9WI9zgbeWCOIXx8nRSJK5M4ZW/6KRUwPX1EAbG6RH3XZeJkkCp3O20paXStyEiRyEv3az2uJ1VD07BejDoUomI4v5ZPNs1nV4c=;Oo8U9RBEpOWdAe4wB5EgdA=="
+secured: "R7VM1v9zrcmnOmieIWmcVCNvbxsMc/AMxoXFsU+iZ6Z3NMbL2xqlFk9ECE1GcpxW7fIpUvHmWn9rEF3kuhNeLk/quPTHYz0+0Ro5smMzXYcwNiM81yhi1j+441wINZRc+MpRKxwfCcckvTkM2h31qAc1HAZBQ8S6CFuKHIfLIgiCSynU6Za7nc+CR4pnlfWBEq9a7CakYXgIoI2IZt1pLnMIoefVUg3ioq90zcyZRaGo/b2A7R+BD3jRIN9vr9fPIwmctTePca3b2lCAu1irJNodOxxRMZtWpgb6UtKMQvmR4F7jdoCSboChqcIDCgTNit/OZhZzNnm5WNNUNAFEZYp1DXjptp95V3U4NFI8RyE=;ukySU2zE2AT4madocD5EOw=="
 ---
 

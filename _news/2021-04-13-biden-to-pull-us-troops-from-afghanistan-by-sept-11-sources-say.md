@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C028S"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C028S"
 type: article
 quality: 125
-heat: 865
+heat: 885
 published: true
 
 provider:
@@ -130,7 +130,7 @@ related:
   - title: "Joe Biden’s credibility has been shredded in Afghanistan"
     excerpt: "Since it is Joe Biden in the White House there is instead, largely, an embarrassed silence. It is true that Trump set the US on the path out of Afghanistan and began the delusional peace talks with the Taliban that have gone nowhere."
     publishedDateTime: 2021-08-13T11:03:00Z
-    webUrl: "https://www.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
+    webUrl: "https://www.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2?shareType=nongift"
     ampWebUrl: "https://amp.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
     cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
     type: article
@@ -140,6 +140,22 @@ related:
     quality: 125
     images:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F59ee2303-20bc-436e-af84-5c0b95f486a1.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
+  - title: "Critics round on Joe Biden as US pulls out of Afghanistan"
+    excerpt: "Joe Biden campaigned on a promise to end America’s longest war, but his presidency risks being remembered instead for presiding over the violent overthrow of Afghanistan’s government by the Taliban. Republicans have sought to capitalise on what is emerging as the biggest setback of Biden’s presidency with an eye on elections next year in which control of Congress is at stake."
+    publishedDateTime: 2021-08-14T10:00:00Z
+    webUrl: "https://www.ft.com/content/f163b68f-c93c-4e5c-ac26-0bde2060d97e"
+    ampWebUrl: "https://amp.ft.com/content/f163b68f-c93c-4e5c-ac26-0bde2060d97e"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/f163b68f-c93c-4e5c-ac26-0bde2060d97e"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 125
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F33785e6c-b05b-4939-be3d-2a97bb95eff8.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
         isCached: true

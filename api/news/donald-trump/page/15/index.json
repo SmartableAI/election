@@ -2,63 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2021-04-29-manhattan-district-attorney-candidates-walk-tightrope-on-trump-probe.md",
-      "title": "Manhattan District Attorney Candidates Walk Tightrope on Trump Probe",
-      "excerpt": "For Manhattan district attorney candidates talking about their experience in white-collar crime cases has become a sort of proxy for indirectly addressing the Trump investigation, which is both the office’s biggest case and off limits for debate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/manhattan-district-attorney-candidates-walk-tightrope-on-trump-probe-11619704972",
-      "originalUrl": "https://www.wsj.com/articles/manhattan-district-attorney-candidates-walk-tightrope-on-trump-probe-11619704972",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-330783/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/manhattan-district-attorney-candidates-walk-tightrope-on-trump-probe-11619704972",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/manhattan-district-attorney-candidates-walk-tightrope-on-trump-probe-11619704972",
-      "publishedDateTime": "2021-04-29T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-29-a-great-patriot-trump-defends-giuliani-after-federal-agents-raid-home-and-office.md",
       "title": "‘A great patriot’: Trump defends Giuliani after federal agents raid home and office",
       "excerpt": "Investigators execute search warrants at Rudy Giuliani’s Manhattan residence and office as part of Ukraine investigation",
@@ -1579,6 +1522,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-trump-says-being-president-was-very-traumatic-but-he-loved-doing-it-because-he-helped-people.md",
+      "title": "Trump says being president was 'very traumatic' but he 'loved doing it' because he 'helped people'",
+      "excerpt": "\"I had a great life, great company, great business, no problems,\" Trump told Fox News. \"And now all I do is, people go after you. It's vicious.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-being-president-was-traumatic-but-he-enjoyed-helping-people-2021-4",
+      "originalUrl": "https://www.businessinsider.com/trump-being-president-was-traumatic-but-he-enjoyed-helping-people-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/607eca9574da0300181e2a86?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-being-president-was-traumatic-but-he-enjoyed-helping-people-2021-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-being-president-was-traumatic-but-he-enjoyed-helping-people-2021-4?amp",
+      "publishedDateTime": "2021-04-20T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

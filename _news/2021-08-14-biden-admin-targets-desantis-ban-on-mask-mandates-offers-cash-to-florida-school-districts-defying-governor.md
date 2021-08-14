@@ -1,12 +1,12 @@
 ---
 category: news
-title: "DeSantis to Biden: 'I don't want to hear blip about COVID from you' until you do your job and secure border"
-excerpt: "Florida Gov. Ron DeSantis blasted President Joe Biden on Wednesday telling him to do his job and secure the southern border and not say “blip” about the coronavirus until he does."
-publishedDateTime: 2021-08-04T20:19:51Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/x8zMRXcz6wU/desantis-biden-do-job-secure-border"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/x8zMRXcz6wU/desantis-biden-do-job-secure-border"
-ampWebUrl: "https://www.foxnews.com/politics/desantis-biden-do-job-secure-border.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/desantis-biden-do-job-secure-border.amp"
+title: "Biden admin targets DeSantis ban on mask mandates, offers cash to Florida school districts defying governor"
+excerpt: "The Biden administration this week offered federal financial support to Florida school districts defying Gov. Ron DeSantis’ ban on mask mandates as the coronavirus surges in the state, according to reports. "
+publishedDateTime: 2021-08-14T10:17:43Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vli3CbMgO9Y/biden-admin-targets-desantis-ban-on-mask-mandates-offers-cash-to-florida-school-districts-defying-governor"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vli3CbMgO9Y/biden-admin-targets-desantis-ban-on-mask-mandates-offers-cash-to-florida-school-districts-defying-governor"
+ampWebUrl: "https://www.foxnews.com/politics/biden-admin-targets-desantis-ban-on-mask-mandates-offers-cash-to-florida-school-districts-defying-governor.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-targets-desantis-ban-on-mask-mandates-offers-cash-to-florida-school-districts-defying-governor.amp"
 type: article
 quality: 157
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/907e1608-1228-4e6c-974d-a50b0739f4eb/ebc82b9e-a42e-4cbc-9d42-56fb5dadf1c0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c353853-8226-4465-bfff-bd0081527b46/6e291030-5ef5-4a11-8046-711ebd3ef1c0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -63,19 +63,19 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Biden admin targets DeSantis ban on mask mandates, offers cash to Florida school districts defying governor"
-    excerpt: "The Biden administration this week offered federal financial support to Florida school districts defying Gov. Ron DeSantis’ ban on mask mandates as the coronavirus surges in the state, according to reports. "
-    publishedDateTime: 2021-08-14T10:17:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vli3CbMgO9Y/biden-admin-targets-desantis-ban-on-mask-mandates-offers-cash-to-florida-school-districts-defying-governor"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-targets-desantis-ban-on-mask-mandates-offers-cash-to-florida-school-districts-defying-governor.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-targets-desantis-ban-on-mask-mandates-offers-cash-to-florida-school-districts-defying-governor.amp"
+  - title: "DeSantis to Biden: 'I don't want to hear blip about COVID from you' until you do your job and secure border"
+    excerpt: "Florida Gov. Ron DeSantis blasted President Joe Biden on Wednesday telling him to do his job and secure the southern border and not say “blip” about the coronavirus until he does."
+    publishedDateTime: 2021-08-04T20:19:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/x8zMRXcz6wU/desantis-biden-do-job-secure-border"
+    ampWebUrl: "https://www.foxnews.com/politics/desantis-biden-do-job-secure-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/desantis-biden-do-job-secure-border.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 157
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c353853-8226-4465-bfff-bd0081527b46/6e291030-5ef5-4a11-8046-711ebd3ef1c0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/907e1608-1228-4e6c-974d-a50b0739f4eb/ebc82b9e-a42e-4cbc-9d42-56fb5dadf1c0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -96,6 +96,6 @@ related:
         height: 562
         isCached: true
 
-secured: "DKMwzowaDjz8swmtDYZ0sSn4ugrXJktnhAqEZQqbArsbkYJHk/+tGc86L5htjA+jM2PQVlt+XKkHS0BGA2G23/6Q5NaNYtbHqG84mWQhyKz6F5v/9dnCqf1Gg2g36T+B2W7HLL26ANT2acLP2Zv3k6JZlAsv6F4TEvuaoVyUXJBYsHfLjhHzVo5VFBSPP4BtzEBagJYRzrbEmCNKGg1fHcIznHOt2jIqnQd9xVVVGkmrbG5JbRRjhrcn4bYnz5gKPtR0FlbTuApDMFoItDewWR6Z50vEiFM3eAPso0SfOCjOMHvlnoabi/E0VczIKc6Kt3gVi2mMeCx6NlK+wfaWv1vXXPaG4Iz0dBFE4wKfYU4=;T+WYCNSEc+K1cDNoU4+2hA=="
+secured: "2tPmh+GxywSj3Kf637Bhb+CApVysp2jrhx1n5TKtgW5paDFJw3rvaiXFg88yJH4YMUl+0nbeeN1v+K/WJkSasNRCpMoqpG9n3wVNS0KX2EMaN+WGoQDkp5CE+KPywZFeC8BiXbAh1T/wN9AypUx8P5yDbGm90HnH0WB7j7kwPi2uXj1mukp7Gat1+lcYOm9X77Jy1oi+rL/SRWdd50lBoXWTkejgCCf/9Yo3TEO5vaw7+RklReRW4Qc2WM7gtYj3RUFnUHNQNuLdyT7NX0jimukc+QiX9zJ6qKUQciikz6p4426hqBAvpJlKHC4Eqh9BcmpRSF48BbFMyX/1vYyZ/Wc6sxp4qZSQWm/ojx02Ft8=;hCvYNCGeK2Zg4ybIKVBcbg=="
 ---
 
