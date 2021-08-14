@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Federal judge orders Biden administration to revive Trump-era border policy"
+    excerpt: "A federal judge in Texas has ordered the Biden administration to revive a Trump-era border policy that required migrants to stay in Mexico until their US immigration court date.\n    \n"
+    publishedDateTime: 2021-08-14T16:29:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_NnD2M1n1qs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/14/politics/biden-remain-in-mexico-border-policy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/14/politics/biden-remain-in-mexico-border-policy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 188
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210814113925-01-remain-in-mexico-migrants-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden White House removes Trump-era scientist from overseeing climate report"
     excerpt: "White House officials have transferred Trump-appointed scientist Betsy Weatherhead from her position overseeing the US government's report on the effects of climate change, a senior administration official told CNN.\n    \n"
     publishedDateTime: 2021-04-19T17:19:19Z

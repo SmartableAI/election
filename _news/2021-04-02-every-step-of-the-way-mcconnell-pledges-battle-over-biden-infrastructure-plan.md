@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tougher battles ahead for Joe Biden after Senate approval of sweeping infrastructure bill"
+    excerpt: "Joe Biden celebrates victory on infrastructure but faces even more difficult decisions on COVID-19, voting rights, police reform and other issues."
+    publishedDateTime: 2021-08-11T18:01:00Z
+    webUrl: "https://www.statesman.com/story/news/politics/2021/08/11/tougher-battles-await-biden-after-senate-approves-infrastructure-bill/5468863001/"
+    ampWebUrl: "https://amp.statesman.com/amp/5468863001"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/5468863001"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/10/USAT/6a559b4c-beb5-44eb-9359-6cf6ace821b1-Biden-infrastructure-pic.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump blames McConnell for infrastructure bill’s passage: ‘Most overrated man in politics’"
     excerpt: "Former President Donald Trump slammed Senate Minority Leader Mitch McConnell on Tuesday for helping pass the White House’s $1.2 trillion infrastructure bill, saying the Kentucky Republican is the “most overrated man in politics."
     publishedDateTime: 2021-08-10T15:22:00Z
@@ -133,15 +149,6 @@ related:
       name: The Bellingham Herald
       domain: bellinghamherald.com
     quality: 45
-  - title: "Tougher battles ahead for Joe Biden after Senate approval of sweeping infrastructure bill"
-    excerpt: "Joe Biden celebrates victory on infrastructure but faces even more difficult decisions on COVID-19, voting rights, police reform and other issues."
-    publishedDateTime: 2021-08-11T18:01:00Z
-    webUrl: "https://www.freep.com/story/news/politics/2021/08/11/tougher-battles-await-biden-after-senate-approves-infrastructure-bill/5468863001/"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 26
 
 secured: "iOM8NMOGFi09oQNSD+izqCj82a6aIJF2Cy5agz+CqdQXzGGn0MXiHpmzqI5X+ZZ58BefP503uZkaPpGHVT4d5FGVNGNuvypUw/czF8p7YCWicnpUTmLAKC/hBGuzLS0RR+mLofiDCUIABH52Sp/X3dGZfQ+hcRijh4pyfOEWz+THYAGSgoiguTA+v8WL91Kvk/YBwj4yI1g9aF1w4pySJmxilFPbFODZ3vWt+eL3A6hwBqj44Wp4jU70UaVlEKvokgFjy6SF/T5tAcbh5d4/QplJWTOG4/c3mmF8x7eI64ED2i2NORBv1dKhrQLYpKSijSqotiFuBvexBcHaLl5IWSt3v9qCqcpBq95MGtr6nGY=;VIw82YlNULwvW85TRBkr/g=="
 ---

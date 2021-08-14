@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden administration projects ongoing need for shelter capacity for migrant children"
-excerpt: "The Biden administration will need to continue to build up bed capacity and drastically reduce the time it takes to release unaccompanied migrant children to a sponsor like a parent or relative in the US to avoid backlogs in Border Patrol facilities in the coming months, according to internal government"
-publishedDateTime: 2021-04-06T21:28:19Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4UGuYlzHG5Y/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4UGuYlzHG5Y/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/us-mexico-border-children/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/us-mexico-border-children/index.html"
+title: "Federal judge orders Biden administration to revive Trump-era border policy"
+excerpt: "A federal judge in Texas has ordered the Biden administration to revive a Trump-era border policy that required migrants to stay in Mexico until their US immigration court date.\n    \n"
+publishedDateTime: 2021-08-14T16:29:30Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_NnD2M1n1qs/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_NnD2M1n1qs/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/08/14/politics/biden-remain-in-mexico-border-policy/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/14/politics/biden-remain-in-mexico-border-policy/index.html"
 type: article
-quality: 168
+quality: 188
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210402143317-01-mexico-us-border-0322-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210814113925-01-remain-in-mexico-migrants-2020-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -60,22 +60,6 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310215341-abortion-protest-file-012420-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Federal judge orders Biden administration to revive Trump-era border policy"
-    excerpt: "A federal judge in Texas has ordered the Biden administration to revive a Trump-era border policy that required migrants to stay in Mexico until their US immigration court date.\n    \n"
-    publishedDateTime: 2021-08-14T16:29:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_NnD2M1n1qs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/14/politics/biden-remain-in-mexico-border-policy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/14/politics/biden-remain-in-mexico-border-policy/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 188
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210814113925-01-remain-in-mexico-migrants-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -412,6 +396,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210324163902-refugee-camp-fire-video-thumbnail-lon-orig-na-super-tease.jpeg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration projects ongoing need for shelter capacity for migrant children"
+    excerpt: "The Biden administration will need to continue to build up bed capacity and drastically reduce the time it takes to release unaccompanied migrant children to a sponsor like a parent or relative in the US to avoid backlogs in Border Patrol facilities in the coming months, according to internal government"
+    publishedDateTime: 2021-04-06T21:28:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4UGuYlzHG5Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/us-mexico-border-children/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/us-mexico-border-children/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210402143317-01-mexico-us-border-0322-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1011,6 +1011,6 @@ related:
       domain: nytimes.com
     quality: 108
 
-secured: "0NCkw0Zn8+hyMV+LMGyHBWfFNoF+JYzWw0aCPrtmZn/zSvsMehkWCb+IkKqnQcugd01xOyr0L/d7GnAHHKZXDqRpbJA2B2Om7auDu4kWByi1UFyy83RvK6KvG5um4no3gtgEqTpfgtj5zcPA+DWbtfADcQsnvDEw/lpP4o7i2l5PHqbXY4LnorlEi7iWIkr7ynTiKugOLRjQuZtoRftKmlnETNU6/hmEWRKeOW1qZ2UrlfamHcGxAO9NIx5M4+mQ6uovCCwugklG1YsmIanyH09p9V0uzZXFgbz7xTs0RMZplG2mbrM3Nburm4S3tVyixV9O9nfCnUHlNVJBbxbZg6bTDv+ZRNhfBXvfUkaGoHQ=;ZqIRY0ANDIW6rSQzPNHBcg=="
+secured: "BLEAkiGkdBLxDn+uL+SQgK5XPaSBhFu7amrZMcqZLsYmGM4iDMRMJOjutGJSHvcbnxYS2Z6sbVIy9S2gZcWrO9ZG7YRJdeDJTKUFWYrlMHwxYvPLS+9cKyq6srCbw2dfGXTX4MuRTHTNZsMt/dsl2NSNF9kMWv8L8pVqVWq/MrZWAuols1ZOZiKNaeWgd/BhF7+vDUetqbjUDA1LfCZFCRVnj4FL9Cx2JtPb4XChKk4BGOuCTSeOPFI1Tp5HX+DcL3V9f4ZyUvZK7Ril4/XJNFSFQH9MoX71MukXqCUQ6svuP1BQdK5v2WT9wJ1cyzsdhy6aBX82CwIt1Ei2Ae5pTn+s1eVqTpLbuJb01NFNqZU=;pVEYFYzXI4mL3sAUJMpcqg=="
 ---
 

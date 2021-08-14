@@ -3,20 +3,28 @@ category: news
 title: "Tougher battles ahead for Joe Biden after Senate approval of sweeping infrastructure bill"
 excerpt: "Joe Biden celebrates victory on infrastructure but faces even more difficult decisions on COVID-19, voting rights, police reform and other issues."
 publishedDateTime: 2021-08-11T18:01:00Z
-originalUrl: "https://www.freep.com/story/news/politics/2021/08/11/tougher-battles-await-biden-after-senate-approves-infrastructure-bill/5468863001/"
-webUrl: "https://www.freep.com/story/news/politics/2021/08/11/tougher-battles-await-biden-after-senate-approves-infrastructure-bill/5468863001/"
+originalUrl: "https://www.statesman.com/story/news/politics/2021/08/11/tougher-battles-await-biden-after-senate-approves-infrastructure-bill/5468863001/"
+webUrl: "https://www.statesman.com/story/news/politics/2021/08/11/tougher-battles-await-biden-after-senate-approves-infrastructure-bill/5468863001/"
+ampWebUrl: "https://amp.statesman.com/amp/5468863001"
+cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/5468863001"
 type: article
-quality: 26
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: Austin American-Statesman
+  domain: statesman.com
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://www.gannett-cdn.com/presto/2021/08/10/USAT/6a559b4c-beb5-44eb-9359-6cf6ace821b1-Biden-infrastructure-pic.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Will McConnell lift roadblock of Biden for infrastructure?"
@@ -138,6 +146,6 @@ related:
       domain: bellinghamherald.com
     quality: 45
 
-secured: "LGSqduayXpdoSdNnCTpOgrV6hk6t635lrurrZykZ3TiiYB9AADON60eBJ38WD9RgihFXkDVLxpoPnIMsTkXIk/ilrDh75+WZUStAitKjNYb4YAP9BIB+kI/jkq0IhcxMksMdPNGIZzd35Aa79ntNcQEcYd1ehH4E96cuxHdJkEkfp/I8JaCBxVaV92eVOL47hSkqi7ezvqVDLmsI+2vNthcfB/JhwykUXoEVJsX0gAwK787bdfCPxtwmpuudRDu3TUqPNvyz1U74RxleGhJ7C+gFe4izZnikOCDZGI7Q24DGYjhicVs/wCiphVYQbdWM2QChG6lYujusajYqdbya/L9tOvp6Ean5qqZhZzxS+Pmr+LsUtL2DDVGN3zUy2wqrBZlfaLCcEIOMMQOmdvxZV/sicQgGFvsf3YuKIyskYXbeIxaO3l+rno06vh1qU5XPIjhBq4Hc5gC4CitEIwT/c9j81YrPNv2w9CvnOsUm5KI4BdJL682CABElKoXKisTjYyn9MjPZqlK4KKUdiYhzow==;6dxK2biVgmQwgl6mzvZ3xA=="
+secured: "WOE9GdfVv8FDwTVd/MCvUY8zPl9Mf7BJfIg5pPVLCRMTLj80aKkI/CVgNZqsYEvnJ5CL6pV/Q/Ar5Dxd7ti8GBK+7/0+Tiqh8nMPw3DgPQHu0fP32XTivsW9Yit+L3DxM0Y0pd3K7iVOCc7bgpym+fzPXeJIt/j4/AzMVkY1p2oCC71Nvw3QQFVwRY2v9fhl9hcwFN0rYv43ws+c2O2pnfg5L4Qm0Opnc/pfeozR9JGYdyqubTPNO5eziTGKCE4eIEZFl201uSb+noM912RBKuFvnJkaK3OIFmajR1UbGnepJxZQDhBvzqtVPuakuweGwccrRTCzyS5JhNEAXyPnNKoTMNd/+/LBJOrkI/SdyjI=;sU/TMs53JtKe7WzQh75vhA=="
 ---
 

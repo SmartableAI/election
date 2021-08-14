@@ -107,6 +107,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tougher battles ahead for Joe Biden after Senate approval of sweeping infrastructure bill"
+    excerpt: "Joe Biden celebrates victory on infrastructure but faces even more difficult decisions on COVID-19, voting rights, police reform and other issues."
+    publishedDateTime: 2021-08-11T18:01:00Z
+    webUrl: "https://www.statesman.com/story/news/politics/2021/08/11/tougher-battles-await-biden-after-senate-approves-infrastructure-bill/5468863001/"
+    ampWebUrl: "https://amp.statesman.com/amp/5468863001"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/5468863001"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/10/USAT/6a559b4c-beb5-44eb-9359-6cf6ace821b1-Biden-infrastructure-pic.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden nudges Senate over ‘historic’ $1T infrastructure bill"
     excerpt: "Despite a rocky week of fits and starts, President Joe Biden on Friday praised the Senate for edging the bipartisan infrastructure plan closer to passage, ahead of a key vote on the $1 trillion package."
     publishedDateTime: 2021-08-08T23:12:00Z
@@ -129,15 +145,6 @@ related:
       name: The Bellingham Herald
       domain: bellinghamherald.com
     quality: 45
-  - title: "Tougher battles ahead for Joe Biden after Senate approval of sweeping infrastructure bill"
-    excerpt: "Joe Biden celebrates victory on infrastructure but faces even more difficult decisions on COVID-19, voting rights, police reform and other issues."
-    publishedDateTime: 2021-08-11T18:01:00Z
-    webUrl: "https://www.freep.com/story/news/politics/2021/08/11/tougher-battles-await-biden-after-senate-approves-infrastructure-bill/5468863001/"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 26
 
 secured: "+/vAfYu2DyBSAxdS5kwSCn0Kjrtzg0Iq0wQXgfX7LBc3g1nr3b1y6lkVZ5oeR21+qog2w83WCRKDS9dPy/eJIdrhb0pQnlChchS5bIyOzEr3SWlnInV6TNvVSuqgN56XPKmIxbxiNSwhtUy+LQIrz81lxiULmpO9x6EyG/U0fDGiKuLCZZyGjT/+74sGzLuMAlRLz+RzCt2lEm8OoHv98Cw7hsENc+DDdJbKVYv25iBaBGXL8s4HUWS8NUqb3G13O2PGDojmCpHSbhanKKYk5l7cPYAShBURpoQdrjFLkM90+Pe3W84F65kgUy6dVE0bpXXMlChtufEIxAfkEoTnulsENM3Gy4YbYhmGQ06uqMnCZHXftH/Vt6Nw0uzhxUIdcx21ayhnPub33dty6TfUd3eggbntBP1UXhurAufqZglCjImmgfM4fcp0NTww+dQUdI3eKEmJmAkvY5heUbXutbppM16/i//aIWS1JdGxHr+KyCcQap0iJvi/+4WMFKugNGQVSBFLXoVGw4fv0N9PiQ==;YHucIRgVDQYBBXgqPzetnQ=="
 ---
