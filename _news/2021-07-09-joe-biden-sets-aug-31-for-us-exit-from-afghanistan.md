@@ -665,6 +665,28 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Biden orders 1,000 more troops to aid Afghanistan departure"
+    excerpt: "President Joe Biden authorized on Saturday an additional 1,000 U.S. troops for deployment to Afghanistan, raising to roughly 5,000 the number of U.S. troops to ensure what Biden called an “orderly and safe drawdown” of American and allied personnel."
+    publishedDateTime: 2021-08-15T19:28:00Z
+    webUrl: "https://www.kentucky.com/news/business/article253488379.html"
+    ampWebUrl: "https://amp.kentucky.com/news/business/article253488379.html"
+    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/article253488379.html"
+    type: article
+    provider:
+      name: Lexington Herald Leader
+      domain: kentucky.com
+    quality: 55
+  - title: "The Latest: Biden sending 1,000 more troops to Afghanistan"
+    excerpt: "A defense official says President Joe Biden has authorized an additional 1,000 U.S. troops for deployment to Afghanistan."
+    publishedDateTime: 2021-08-15T19:44:00Z
+    webUrl: "https://www.bnd.com/news/nation-world/national/article253491799.html"
+    ampWebUrl: "https://amp.bnd.com/news/nation-world/national/article253491799.html"
+    cdnAmpWebUrl: "https://amp-bnd-com.cdn.ampproject.org/c/s/amp.bnd.com/news/nation-world/national/article253491799.html"
+    type: article
+    provider:
+      name: BND
+      domain: bnd.com
+    quality: 55
 
 secured: "ySLH90kPYsTnM5WtTQa7KJKnwL0suag71fU0kJe6Uj1VaJsciRdRguIxxGfa+/CS+HZ6DVmdYH9awcF+MYTs/WI840sQPL6RrbiCXTHYrzoFolK43xirznPqZwCJTt5yzIyYuO9N9+mDepjZxPbVwRIaNNiwfTc60DCxDakOmaxeCV4EzO8JXf0rnTnWAYlM/+iPYH+xo4rx5Bm0zM8Zdf7qP8U3gYc/yJ4wxDsop9+qdX4lI2QXQDuH+czoU5tSTLe3Gzp+Z3QowIz+8bQI8qVS2Q7l42mHNUCrZTBKL1FhwyXzttednwna4KzCnLDCYG1CoWyt/ISwdLOHKkn0vtd/T4LWV07aPuK2XXdilVQ=;b2YG7UPjZY4/ZHiUykSpng=="
 ---

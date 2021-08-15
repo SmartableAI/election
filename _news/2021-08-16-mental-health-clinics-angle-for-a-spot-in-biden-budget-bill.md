@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Taliban's Afghanistan advance tests Biden's 'America is back' foreign policy promise"
-excerpt: "As the Taliban routs Afghan forces at lightning speed, the U.S. retreat from the country raises questions about Biden's \"America is back\" foreign policy."
-publishedDateTime: 2021-08-15T17:44:00Z
-originalUrl: "https://www.statesman.com/story/news/politics/2021/08/14/talibans-afghanistan-advance-tests-bidens-america-back-policy/8121040002/"
-webUrl: "https://www.statesman.com/story/news/politics/2021/08/14/talibans-afghanistan-advance-tests-bidens-america-back-policy/8121040002/"
-ampWebUrl: "https://amp.statesman.com/amp/8121040002"
-cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8121040002"
+title: "Mental health clinics angle for a spot in Biden budget bill"
+excerpt: "An innovative program to help people with mental health and substance abuse problems is being primed for a major expansion as the COVID-19 pandemic deepens struggles with drug"
+publishedDateTime: 2021-08-15T19:21:00Z
+originalUrl: "https://www.phillytrib.com/news/health/mental-health-clinics-angle-for-a-spot-in-biden-budget-bill/article_0395d94e-fdfe-11eb-8619-e3d0d0614cb9.html"
+webUrl: "https://www.phillytrib.com/news/health/mental-health-clinics-angle-for-a-spot-in-biden-budget-bill/article_0395d94e-fdfe-11eb-8619-e3d0d0614cb9.html"
 type: article
-quality: 68
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Austin American-Statesman
-  domain: statesman.com
+  name: Philadelphia Tribune
+  domain: phillytrib.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/08/13/USAT/48779946-06c1-444e-8210-dbb82736a907-AFP_AFP_9L24C3.jpg?auto=webp&crop=3391,1908,x0,y0&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/assets/v3/editorial/3/ab/3ab94190-fdfe-11eb-a03a-7f2805fa6072/611969b77180e.image.jpg?resize=945%2C630"
+    width: 945
+    height: 630
     isCached: true
 
 related:
@@ -169,6 +167,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Taliban's Afghanistan advance tests Biden's 'America is back' foreign policy promise"
+    excerpt: "As the Taliban routs Afghan forces at lightning speed, the U.S. retreat from the country raises questions about Biden's \"America is back\" foreign policy."
+    publishedDateTime: 2021-08-15T17:44:00Z
+    webUrl: "https://www.statesman.com/story/news/politics/2021/08/14/talibans-afghanistan-advance-tests-bidens-america-back-policy/8121040002/"
+    ampWebUrl: "https://amp.statesman.com/amp/8121040002"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8121040002"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 68
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/13/USAT/48779946-06c1-444e-8210-dbb82736a907-AFP_AFP_9L24C3.jpg?auto=webp&crop=3391,1908,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "President Biden urges no vote in Gavin Newsom recall, showing California governor support"
     excerpt: "President Joe Biden on Thursday urged Californians to vote no in the upcoming election to recall Gov. Gavin Newsom in a show of support for the embattled Democratic governor. In a statement released by Newsom’s campaign,"
     publishedDateTime: 2021-08-13T01:57:00Z
@@ -268,20 +282,6 @@ related:
       name: BND
       domain: bnd.com
     quality: 55
-  - title: "Mental health clinics angle for a spot in Biden budget bill"
-    excerpt: "An innovative program to help people with mental health and substance abuse problems is being primed for a major expansion as the COVID-19 pandemic deepens struggles with drug"
-    publishedDateTime: 2021-08-15T19:21:00Z
-    webUrl: "https://www.phillytrib.com/news/health/mental-health-clinics-angle-for-a-spot-in-biden-budget-bill/article_0395d94e-fdfe-11eb-8619-e3d0d0614cb9.html"
-    type: article
-    provider:
-      name: Philadelphia Tribune
-      domain: phillytrib.com
-    quality: 55
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/assets/v3/editorial/3/ab/3ab94190-fdfe-11eb-a03a-7f2805fa6072/611969b77180e.image.jpg?resize=945%2C630"
-        width: 945
-        height: 630
-        isCached: true
   - title: "Biden Says He Does Not Believe He Can Intervene in States Banning Mask Mandates"
     excerpt: "President Joe Biden said on Tuesday that he did not believe he had the power to intervene in U.S. states that have banned mask mandates but said his administration was looking into the issue. \"I don't believe that I do,"
     publishedDateTime: 2021-08-10T19:49:00Z
@@ -292,6 +292,6 @@ related:
       domain: usnews.com
     quality: 31
 
-secured: "sizwFPpAmUGOO4JLoptUcUv8IiggPfMb/vCRj2jV0sdgP6/BU6QX8kWv3V/r5loCoFQknIG+iWl3dRlqHA9SHljrWtfkchH79R+LpaPr6Ic4vFNnS5HWAPKug8zZpBvYnPVfyYcH+pe9Dbcvuj/TpZ0BTMNAgt80Yb+yevs5cEBmYZWBP8yXG/6yRLgoitQRT+WtjgRJgR7U3f+MdOjrjGxj3zKH44OBza741c/b7NSs7y2MBx8IJWPF4+2vwLSFFPaHYmvLV5MMsQOAf6BFZp0CM6PVkJ0JGOaKUvMbD7sVzbj39xoTY5VLp3LjMyWi4BAJIFpQXnMoPKSjUcOWda4zp3/2cVE4ho6YeXytxhk=;PvVKKYtabotAQSQeebOHrg=="
+secured: "BeTjfG++c7SWm9dxsm0COKO3Wm2heuGADcu1eBzyILUf4BQeL6jZp88WC+OAMPWBCgNICtQNJd5UVqe5Sm1In6MCmMWu0ZB/5586fWf2tWfbpayoQ26nf2b8kcTMVAuc2UTUAJEgZXjfeTOkZW5POMoyhMwsqYklMLl4U+EaTBMeHgCtPKTQ6sVQMAjVtvoGxzjpH0TeKavOtlQfgbQtKNNX9G4lk9yUn9o+VcnfxhnaqXUaHp5cQyHzLTqaRz3euQTO7UhB+Y4cdo9AH3aR2Dw/ngG6PMPyWFMaOMmwlPyFiYaorUESkC3JXqxgd/a0DOjU5HIt3V01cKjv+cnzqoIs8OnD4KaYHjNDw8YQr8Y=;Egg6ct5m0ubZUum/2GV72A=="
 ---
 

@@ -665,6 +665,28 @@ related:
         width: 1200
         height: 707
         isCached: true
+  - title: "Biden orders 1,000 more troops to aid Afghanistan departure"
+    excerpt: "President Joe Biden authorized on Saturday an additional 1,000 U.S. troops for deployment to Afghanistan, raising to roughly 5,000 the number of U.S. troops to ensure what Biden called an “orderly and safe drawdown” of American and allied personnel."
+    publishedDateTime: 2021-08-15T19:28:00Z
+    webUrl: "https://www.kentucky.com/news/business/article253488379.html"
+    ampWebUrl: "https://amp.kentucky.com/news/business/article253488379.html"
+    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/article253488379.html"
+    type: article
+    provider:
+      name: Lexington Herald Leader
+      domain: kentucky.com
+    quality: 55
+  - title: "The Latest: Biden sending 1,000 more troops to Afghanistan"
+    excerpt: "A defense official says President Joe Biden has authorized an additional 1,000 U.S. troops for deployment to Afghanistan."
+    publishedDateTime: 2021-08-15T19:44:00Z
+    webUrl: "https://www.bnd.com/news/nation-world/national/article253491799.html"
+    ampWebUrl: "https://amp.bnd.com/news/nation-world/national/article253491799.html"
+    cdnAmpWebUrl: "https://amp-bnd-com.cdn.ampproject.org/c/s/amp.bnd.com/news/nation-world/national/article253491799.html"
+    type: article
+    provider:
+      name: BND
+      domain: bnd.com
+    quality: 55
 
 secured: "iC5DQH5eY31SOGamcmXfRhaQ9rkJ7TReChkt4jNAn/Pt9yCceOxu4D1orVegMK/VGc5MKVe39lJV/m2Uv3566pS+JpEWYtayIM+6eKrLZFpLXkjrtOR1tqkVHtHhVSQDpWmsusUbcHY9t0lXRQ/x5FCDUYGWHDBQI8B9vY1qPwfDQcW9E+vVPBZ7T9FkVyVgll5IhWGXd/PSsSwnT6SplCRXWCnJgaTzHR9n2SmozK4WrXjGHV+ihEeYhpT1/XGQUIsYQ/1JQW6F+2ugmdu7kSfiLov57znuAvWTxj5VGOPKIwgj/eHXH744WR/Vi66YkmNZV3KNnzjENNFhylks+MEmVMBmSqpN/qjLN/XVtfgeXdFAT7OVhQQPOKLGqWmcqa0kjfcBgxR2khUJggN2G+ldJiKWuTop6VYqiSwHXfkWs2fHmJNumfHNfRxFYzUX+YxRXV1dQ8libSDrWckY1U1UX8TmRE/dlijLSHyvg1FVsTsss8YkJG37E7XMpFI4CzsXzsjk5pIITA1MPSh2bg==;gUci+AsB9T1fm/WO5+U8sQ=="
 ---

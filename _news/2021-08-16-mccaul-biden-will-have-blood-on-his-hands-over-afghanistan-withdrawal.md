@@ -1,33 +1,30 @@
 ---
 category: news
-title: "McConnell calls on Biden to change course in Afghanistan before it's too late"
-excerpt: "McConnell urged President Joe Biden reverse course in Afghanistan as the security situation deteriorates"
-publishedDateTime: 2021-08-12T23:00:33Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vWeO-07zj5w/mcconnell-calls-on-biden-to-change-course-in-afghanistan-before-its-too-late"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vWeO-07zj5w/mcconnell-calls-on-biden-to-change-course-in-afghanistan-before-its-too-late"
-ampWebUrl: "https://www.foxnews.com/politics/mcconnell-calls-on-biden-to-change-course-in-afghanistan-before-its-too-late.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-calls-on-biden-to-change-course-in-afghanistan-before-its-too-late.amp"
+title: "McCaul: Biden will have ‘blood on his hands’ over Afghanistan withdrawal"
+excerpt: "The top Republican on the House Foreign Relations Committee on Sunday said President Biden will have “blood on his hands” over the withdrawal of the US military from Afghanistan."
+publishedDateTime: 2021-08-15T19:15:00Z
+originalUrl: "https://nypost.com/2021/08/15/rep-mccaul-says-afghanistan-withdrawal-has-been-a-disaster/"
+webUrl: "https://nypost.com/2021/08/15/rep-mccaul-says-afghanistan-withdrawal-has-been-a-disaster/"
+ampWebUrl: "https://nypost.com/2021/08/15/rep-mccaul-says-afghanistan-withdrawal-has-been-a-disaster/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/15/rep-mccaul-says-afghanistan-withdrawal-has-been-a-disaster/amp/"
 type: article
-quality: 172
+quality: 134
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c505be5b-7fe5-4a10-b256-fbc6b1e6a2f1/272c5604-5105-47e9-88ac-0be2cd6b1b4d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/biden-afghanistan-04.jpg?quality=90&strip=all&w=1024"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -92,6 +89,22 @@ related:
     quality: 173
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5ea11597-34c5-4d7b-8aa8-0598d069a7e2/0e21a2d7-7861-47cc-8133-17278c5f44c5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "McConnell calls on Biden to change course in Afghanistan before it's too late"
+    excerpt: "McConnell urged President Joe Biden reverse course in Afghanistan as the security situation deteriorates"
+    publishedDateTime: 2021-08-12T23:00:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vWeO-07zj5w/mcconnell-calls-on-biden-to-change-course-in-afghanistan-before-its-too-late"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-calls-on-biden-to-change-course-in-afghanistan-before-its-too-late.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-calls-on-biden-to-change-course-in-afghanistan-before-its-too-late.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c505be5b-7fe5-4a10-b256-fbc6b1e6a2f1/272c5604-5105-47e9-88ac-0be2cd6b1b4d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -255,22 +268,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "McCaul: Biden will have ‘blood on his hands’ over Afghanistan withdrawal"
-    excerpt: "The top Republican on the House Foreign Relations Committee on Sunday said President Biden will have “blood on his hands” over the withdrawal of the US military from Afghanistan."
-    publishedDateTime: 2021-08-15T19:15:00Z
-    webUrl: "https://nypost.com/2021/08/15/rep-mccaul-says-afghanistan-withdrawal-has-been-a-disaster/"
-    ampWebUrl: "https://nypost.com/2021/08/15/rep-mccaul-says-afghanistan-withdrawal-has-been-a-disaster/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/15/rep-mccaul-says-afghanistan-withdrawal-has-been-a-disaster/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 134
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/biden-afghanistan-04.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "FLASHBACK: President Biden Said Last Month Taliban Retaking Afghanistan Was \"Not Inevitable\""
     excerpt: "President Biden said last month that the Taliban would not quickly retake the country as U.S. troops leave the country."
     publishedDateTime: 2021-08-15T19:04:00Z
@@ -295,6 +292,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "E1jgSTWugSzW3ESsFgNrdZGe3UEpDCYYyrbKhJICpqg/axx1xLhxGAAkEyqj+JYHwNsvs+vkjiXKaOeRiH6+O+goNyJLnBbt2AS6JbPzD5bGu4O46fIC1PPNIiCrxFv3JBqKKnWmyg7BwflIA5TKW30vBum6NuSNQ97lTyd77uMC8+gPNwmzugBD8QEqaKJ4RezuytC3a1SXxprX4h/CMl3z4FN+olQUig8k6ObWtsttVIo93haLPdfPce9fJRMmpH/sVY471Z8Ds/D6FYPJUM2OhFpMwpFT+nqsLAiUyOcie+0E/B40T5aNh1SOURjL9vU1Jy4RkRRyjJ+n4/EMN1WmJeR3qqEYqgqScz8UJLY=;i5pT0lSvLBMiNVw8Qa+rqw=="
+secured: "Edk/0rmYTzhuoxeEkRt4YypbwtGmKo+3zXtw4Cj124R+ODB9EJAcQ6Fkgizhb3IvHcbyHMpCWgK4w+3LDdG4TTk+W/0Q6WzljDLEiScPGxRrPXDnDmZAiTwAoIUawuq/m1+8xcwhlYnf+cuZYVLE2LWSn+eGh/b0nVGBp/cgrJVVn/SbWR4ukkqhB79GzHetsK4UaHQ45eFeTdhyaPhDwbQbYae3Ogq1rudqeoYJ+sRLyJynUa8a6+7F+VgIKoZnq/fecjx/CGCqcCyzLXGpozJhZoH2YS9+vnoBaYLMv5/uvjfCjX5Qz4iFLpxoKNdBI/ugKoNWsR6dOCbnNGjI1wIu+xRuVGjGpg/fu+BUMuo=;00SS9mLJr7Uwo19m7zt3fA=="
 ---
 

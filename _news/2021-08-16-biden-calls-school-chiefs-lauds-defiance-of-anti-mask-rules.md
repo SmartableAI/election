@@ -1,30 +1,24 @@
 ---
 category: news
-title: "Taliban's Afghanistan advance tests Biden's 'America is back' foreign policy promise"
-excerpt: "As the Taliban routs Afghan forces at lightning speed, the U.S. retreat from the country raises questions about Biden's \"America is back\" foreign policy."
-publishedDateTime: 2021-08-15T17:44:00Z
-originalUrl: "https://www.statesman.com/story/news/politics/2021/08/14/talibans-afghanistan-advance-tests-bidens-america-back-policy/8121040002/"
-webUrl: "https://www.statesman.com/story/news/politics/2021/08/14/talibans-afghanistan-advance-tests-bidens-america-back-policy/8121040002/"
-ampWebUrl: "https://amp.statesman.com/amp/8121040002"
-cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8121040002"
+title: "Biden calls school chiefs, lauds defiance of anti-mask rules"
+excerpt: "President Joe Biden has called school district superintendents in Florida and Arizona, praising them for doing what he called “the right thing” after their respective boards implemented mask requirements in defiance of their Republican governors amid growing COVID-19 infections."
+publishedDateTime: 2021-08-15T18:05:00Z
+originalUrl: "https://www.bnd.com/news/article253497254.html"
+webUrl: "https://www.bnd.com/news/article253497254.html"
+ampWebUrl: "https://amp.bnd.com/news/article253497254.html"
+cdnAmpWebUrl: "https://amp-bnd-com.cdn.ampproject.org/c/s/amp.bnd.com/news/article253497254.html"
 type: article
-quality: 68
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Austin American-Statesman
-  domain: statesman.com
+  name: BND
+  domain: bnd.com
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://www.gannett-cdn.com/presto/2021/08/13/USAT/48779946-06c1-444e-8210-dbb82736a907-AFP_AFP_9L24C3.jpg?auto=webp&crop=3391,1908,x0,y0&format=pjpg&width=1200"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "Grim Afghan news raises risk for Biden of Taliban takeover"
@@ -169,6 +163,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Taliban's Afghanistan advance tests Biden's 'America is back' foreign policy promise"
+    excerpt: "As the Taliban routs Afghan forces at lightning speed, the U.S. retreat from the country raises questions about Biden's \"America is back\" foreign policy."
+    publishedDateTime: 2021-08-15T17:44:00Z
+    webUrl: "https://www.statesman.com/story/news/politics/2021/08/14/talibans-afghanistan-advance-tests-bidens-america-back-policy/8121040002/"
+    ampWebUrl: "https://amp.statesman.com/amp/8121040002"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8121040002"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 68
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/13/USAT/48779946-06c1-444e-8210-dbb82736a907-AFP_AFP_9L24C3.jpg?auto=webp&crop=3391,1908,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "President Biden urges no vote in Gavin Newsom recall, showing California governor support"
     excerpt: "President Joe Biden on Thursday urged Californians to vote no in the upcoming election to recall Gov. Gavin Newsom in a show of support for the embattled Democratic governor. In a statement released by Newsom’s campaign,"
     publishedDateTime: 2021-08-13T01:57:00Z
@@ -257,17 +267,6 @@ related:
       name: Biloxi Sun Herald
       domain: sunherald.com
     quality: 55
-  - title: "Biden calls school chiefs, lauds defiance of anti-mask rules"
-    excerpt: "President Joe Biden has called school district superintendents in Florida and Arizona, praising them for doing what he called “the right thing” after their respective boards implemented mask requirements in defiance of their Republican governors amid growing COVID-19 infections."
-    publishedDateTime: 2021-08-15T18:05:00Z
-    webUrl: "https://www.bnd.com/news/article253497254.html"
-    ampWebUrl: "https://amp.bnd.com/news/article253497254.html"
-    cdnAmpWebUrl: "https://amp-bnd-com.cdn.ampproject.org/c/s/amp.bnd.com/news/article253497254.html"
-    type: article
-    provider:
-      name: BND
-      domain: bnd.com
-    quality: 55
   - title: "Mental health clinics angle for a spot in Biden budget bill"
     excerpt: "An innovative program to help people with mental health and substance abuse problems is being primed for a major expansion as the COVID-19 pandemic deepens struggles with drug"
     publishedDateTime: 2021-08-15T19:21:00Z
@@ -292,6 +291,6 @@ related:
       domain: usnews.com
     quality: 31
 
-secured: "sizwFPpAmUGOO4JLoptUcUv8IiggPfMb/vCRj2jV0sdgP6/BU6QX8kWv3V/r5loCoFQknIG+iWl3dRlqHA9SHljrWtfkchH79R+LpaPr6Ic4vFNnS5HWAPKug8zZpBvYnPVfyYcH+pe9Dbcvuj/TpZ0BTMNAgt80Yb+yevs5cEBmYZWBP8yXG/6yRLgoitQRT+WtjgRJgR7U3f+MdOjrjGxj3zKH44OBza741c/b7NSs7y2MBx8IJWPF4+2vwLSFFPaHYmvLV5MMsQOAf6BFZp0CM6PVkJ0JGOaKUvMbD7sVzbj39xoTY5VLp3LjMyWi4BAJIFpQXnMoPKSjUcOWda4zp3/2cVE4ho6YeXytxhk=;PvVKKYtabotAQSQeebOHrg=="
+secured: "LuJp4sUBKjsHy4KjvxO0j67YXR9uewY0PipNz4bJmJvzRXmTcxFiQIYyaT+S+NK3eD/sVemHDFCRkSswsxljlDxitA9sJEg1QlQlxBcx1jWgOKXriCemg4UFTT9yG6ssE/z5PkGnF3WwKpk3Xso3zlJlfMVAYbm55d4LvBh8WlO+QvRjUAZWNir3e571/37vuMBCA+X9lCwS0VNKt70NQNnp/wwp/8rUC7kQqYbz2hofR2VBhKxEf7etiHlUU0Dbo2b/mOM1nUJWLiFkuYEQeyxnOvTgFYWw9SydKklkLkfTRUCeln6gw/KOlT+ihCqe5GU/Erj4cbqaNFy2fJzMJV/kbM8UlFO0iZ07QhdDSvFzOWpAvFyCI4ROYeepjowg9iSpHu4mOeiA1ClxvXQwOQKMpNHkYDIwblu3LnQYaseeilJ9cunBrQCPBqQR2/9iOwLFRg19yigxJC3imEQm3sewZEHvRNeKTWbX1KBM1H6FYkHg/KPAByHBd49C4pwDYVZAZgLBtBbmwOId9Ri0DA==;vT4hxWcjde/fwUdBxyAstw=="
 ---
 

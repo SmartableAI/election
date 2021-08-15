@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pompeo-biden-admin-failed-in-afghan
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-biden-admin-failed-in-afghanistan-taliban-takeover.amp"
 type: article
 quality: 182
-heat: 462
+heat: 522
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 180
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef4773e1-c6e3-456a-821b-b9147f44bb39/f7e732ff-b006-4030-aaad-5715e7df8fcb/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "World leaders blame Biden, express disappointment with Afghanistan"
+    excerpt: "Boris Johnson placed least some of the blame on the United States and President Joe Biden"
+    publishedDateTime: 2021-08-15T21:02:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2RlIlcQjpxk/boris-johnson-blames-us-and-biden-for-afghanistan-collapse"
+    ampWebUrl: "https://www.foxnews.com/politics/boris-johnson-blames-us-and-biden-for-afghanistan-collapse.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boris-johnson-blames-us-and-biden-for-afghanistan-collapse.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c4a4745c-08bf-4e12-ba0b-2ab8b3241fb2/49ccd27b-a5e0-4b1e-abed-dcfd6ce683b5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -238,6 +254,36 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/joe-biden-weekend-taliban-hp.jpg?quality=90&strip=all&w=1024"
         width: 1024
         height: 682
+        isCached: true
+  - title: "McCaul: Biden will have ‘blood on his hands’ over Afghanistan withdrawal"
+    excerpt: "The top Republican on the House Foreign Relations Committee on Sunday said President Biden will have “blood on his hands” over the withdrawal of the US military from Afghanistan."
+    publishedDateTime: 2021-08-15T19:15:00Z
+    webUrl: "https://nypost.com/2021/08/15/rep-mccaul-says-afghanistan-withdrawal-has-been-a-disaster/"
+    ampWebUrl: "https://nypost.com/2021/08/15/rep-mccaul-says-afghanistan-withdrawal-has-been-a-disaster/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/15/rep-mccaul-says-afghanistan-withdrawal-has-been-a-disaster/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/biden-afghanistan-04.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "FLASHBACK: President Biden Said Last Month Taliban Retaking Afghanistan Was \"Not Inevitable\""
+    excerpt: "President Biden said last month that the Taliban would not quickly retake the country as U.S. troops leave the country."
+    publishedDateTime: 2021-08-15T19:04:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/08/15/flashback_president_biden_said_last_month.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 54
+    images:
+      - url: "https://assets.realclear.com/images/54/547620.jpg"
+        width: 750
+        height: 562
         isCached: true
   - title: "This Afghan Rout Is Entirely on Joe Biden"
     excerpt: "RealClearPolitics"

@@ -1,34 +1,24 @@
 ---
 category: news
-title: "Biden to speak about Afghanistan, translators amid swift U.S. pullout"
-excerpt: "President Joe Biden on Thursday will offer his most extensive comments to date about the U.S. withdrawal from Afghanistan, a pullout that is raising concerns about a civil war there and drawing Republican criticism."
-publishedDateTime: 2021-07-08T20:07:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-afghanistan-idUKKCN2EE0CZ"
-webUrl: "https://www.reuters.com/article/us-usa-biden-afghanistan-idUKKCN2EE0CZ"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKCN2EE178"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKCN2EE178"
+title: "Biden orders 1,000 more troops to aid Afghanistan departure"
+excerpt: "President Joe Biden authorized on Saturday an additional 1,000 U.S. troops for deployment to Afghanistan, raising to roughly 5,000 the number of U.S. troops to ensure what Biden called an “orderly and safe drawdown” of American and allied personnel."
+publishedDateTime: 2021-08-15T19:28:00Z
+originalUrl: "https://www.kentucky.com/news/business/article253488379.html"
+webUrl: "https://www.kentucky.com/news/business/article253488379.html"
+ampWebUrl: "https://amp.kentucky.com/news/business/article253488379.html"
+cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/article253488379.html"
 type: article
-quality: 125
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Lexington Herald Leader
+  domain: kentucky.com
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210708&t=2&i=1568307985&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH6712B"
-    width: 817
-    height: 545
-    isCached: true
 
 related:
   - title: "Biden to pull U.S. troops from Afghanistan by Sept. 11, sources say"
@@ -126,6 +116,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_dcf8539db7ea433ca2d9c837d1edb250_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden to speak about Afghanistan, translators amid swift U.S. pullout"
+    excerpt: "President Joe Biden on Thursday will offer his most extensive comments to date about the U.S. withdrawal from Afghanistan, a pullout that is raising concerns about a civil war there and drawing Republican criticism."
+    publishedDateTime: 2021-07-08T20:07:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-afghanistan-idUKKCN2EE0CZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKCN2EE178"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKCN2EE178"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210708&t=2&i=1568307985&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH6712B"
+        width: 817
+        height: 545
         isCached: true
   - title: "Critics round on Joe Biden as US pulls out of Afghanistan"
     excerpt: "Joe Biden campaigned on a promise to end America’s longest war, but his presidency risks being remembered instead for presiding over the violent overthrow of Afghanistan’s government by the Taliban. Republicans have sought to capitalise on what is emerging as the biggest setback of Biden’s presidency with an eye on elections next year in which control of Congress is at stake."
@@ -669,17 +675,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Biden orders 1,000 more troops to aid Afghanistan departure"
-    excerpt: "President Joe Biden authorized on Saturday an additional 1,000 U.S. troops for deployment to Afghanistan, raising to roughly 5,000 the number of U.S. troops to ensure what Biden called an “orderly and safe drawdown” of American and allied personnel."
-    publishedDateTime: 2021-08-15T19:28:00Z
-    webUrl: "https://www.kentucky.com/news/business/article253488379.html"
-    ampWebUrl: "https://amp.kentucky.com/news/business/article253488379.html"
-    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/article253488379.html"
-    type: article
-    provider:
-      name: Lexington Herald Leader
-      domain: kentucky.com
-    quality: 55
   - title: "The Latest: Biden sending 1,000 more troops to Afghanistan"
     excerpt: "A defense official says President Joe Biden has authorized an additional 1,000 U.S. troops for deployment to Afghanistan."
     publishedDateTime: 2021-08-15T19:44:00Z
@@ -692,6 +687,6 @@ related:
       domain: bnd.com
     quality: 55
 
-secured: "35YOIoncjd0KJXssjmwhzj9z5xUu5j0WCs2CGvHii+VYLEIOhQWuw8/iG2lZthXtr0bnCRHsdfhkomgyvStyzYL/zH71i6R+Z/GR7wfohn60ArURE0tO1l4idDUS4paSEdzL1FayfXfzPTZBIcM3UdOtrhBEMCWOMv03eQd5XNmpaeGdWxrjj1nSc80H00wJIOtP4ncVleJFFosxcl9QtBFPlOOThX3vlqo+tSbYetaeDOjox9GXKozKLOMjwJf98Rkk6DNNA2mYY595JFPYYmbGEsjR5ZECqDNmxYz/poGA1VIouLbmpe0RsCiDCciQBCh5cS4YLwc6CrPuJS85+ud2ZATwXJCi44rHkS3L/aI=;h3kv2a+Apkt6poP41QcvHQ=="
+secured: "VabAcS/hIrXwAaCjO2l8GlD1HMFeP2fcSU32pm50hhMNVrH7P386eNl3Ll/w4eypn7nqzuxueK7u9QbaH8LXhBewuF+7MLlZsKarcbebRp/00eXYnLwtFd1H6njQs0bVU5G1JTcsMP6uJt25SHBsp70KzNjvhiukqutiSSKuSdJwnhtW5Ga6y7OJ3kto17sBphHmnrIpJ/pZu/NWT51EJLb59cGt3aem1I8DQEiZszs1SejtMPiNfDi1hC6+NtSL461tkCFWON6PsisKmG7M8MMm94fJTHz/YvekUPL/fgvWaZI0Dt5j+S739w3zU5PFYoLaqVkPnTIK/WWzwCd6SkNjfNpQXLhzrb4Id6oUFuc9c1H8qK0/r2hE8R3UWzMw0NKPA4ZSieND9S9QbghEoUyk7blgvgrn+uNv4UsQJr2O7v1AAsBVjO8ZTdZygS/uDzwsyPO68f0Prl+eGMp5wxNlKlB8cHb3HVQMs/RpBZnhTEK5BugBpvQav0v3J5sj7TH3kl+djiE+1yNqDu+E5g==;6mev1yQfEPlVkxfvZ263kw=="
 ---
 

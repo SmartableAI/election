@@ -668,6 +668,28 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Biden orders 1,000 more troops to aid Afghanistan departure"
+    excerpt: "President Joe Biden authorized on Saturday an additional 1,000 U.S. troops for deployment to Afghanistan, raising to roughly 5,000 the number of U.S. troops to ensure what Biden called an “orderly and safe drawdown” of American and allied personnel."
+    publishedDateTime: 2021-08-15T19:28:00Z
+    webUrl: "https://www.kentucky.com/news/business/article253488379.html"
+    ampWebUrl: "https://amp.kentucky.com/news/business/article253488379.html"
+    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/article253488379.html"
+    type: article
+    provider:
+      name: Lexington Herald Leader
+      domain: kentucky.com
+    quality: 55
+  - title: "The Latest: Biden sending 1,000 more troops to Afghanistan"
+    excerpt: "A defense official says President Joe Biden has authorized an additional 1,000 U.S. troops for deployment to Afghanistan."
+    publishedDateTime: 2021-08-15T19:44:00Z
+    webUrl: "https://www.bnd.com/news/nation-world/national/article253491799.html"
+    ampWebUrl: "https://amp.bnd.com/news/nation-world/national/article253491799.html"
+    cdnAmpWebUrl: "https://amp-bnd-com.cdn.ampproject.org/c/s/amp.bnd.com/news/nation-world/national/article253491799.html"
+    type: article
+    provider:
+      name: BND
+      domain: bnd.com
+    quality: 55
 
 secured: "H4g4aWNZSCRIR/yOTpUF7Bq1lnsgZof44VbcFUfFGn8N8H0m1bQumAdu9y2m5jFENNAMRCaaAe0LObdrY/xtSkHW2c3AP7hHzFEFWOW3z8K3CJSiU4VHlM3cRFeP4Dyr+g5UGQKvElZdm+6nSJgUyDsbT7bpPEORMPa3EWU4BSTJ4lc/3a5/7HxJkzVb9HKwFoQeTv9N8fIgHQBhQBeEYkHapaswievA7/Tu+m33Y2KaL2HWwA7zPdkHUDXsYfdG4MomjH+o5oZeWog5OMo/WluYTBS/3OWethM1pyiqev52GXE0PglX4koXDMWbFd1UfNpF+XUK2eH8b9oAFqc9WDAvlIYGJ5jWI5CpEYk74Gi7zVB/PWecIvzISjdTymQJvHD+eRn6Ua0E9F3NyCeC3PgJZbMov4YKgixUEG310fNAyE0kDwHb7A1RcOx74b0UFoDok8fKfZw1nH1OjNgsDuCIW2bARNmIJzneaqNBEsKJJUQsJ3LjaCkka3uVFhL2DHAyBx4IPTjqFaIipmCEfA==;t9Tcw8MWabmaKOfeIq3Yzg=="
 ---

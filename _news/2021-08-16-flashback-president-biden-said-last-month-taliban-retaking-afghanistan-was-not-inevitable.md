@@ -1,33 +1,28 @@
 ---
 category: news
-title: "McConnell calls on Biden to change course in Afghanistan before it's too late"
-excerpt: "McConnell urged President Joe Biden reverse course in Afghanistan as the security situation deteriorates"
-publishedDateTime: 2021-08-12T23:00:33Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vWeO-07zj5w/mcconnell-calls-on-biden-to-change-course-in-afghanistan-before-its-too-late"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vWeO-07zj5w/mcconnell-calls-on-biden-to-change-course-in-afghanistan-before-its-too-late"
-ampWebUrl: "https://www.foxnews.com/politics/mcconnell-calls-on-biden-to-change-course-in-afghanistan-before-its-too-late.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-calls-on-biden-to-change-course-in-afghanistan-before-its-too-late.amp"
+title: "FLASHBACK: President Biden Said Last Month Taliban Retaking Afghanistan Was \"Not Inevitable\""
+excerpt: "President Biden said last month that the Taliban would not quickly retake the country as U.S. troops leave the country."
+publishedDateTime: 2021-08-15T19:04:00Z
+originalUrl: "https://www.realclearpolitics.com/video/2021/08/15/flashback_president_biden_said_last_month.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/08/15/flashback_president_biden_said_last_month.html"
 type: article
-quality: 172
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c505be5b-7fe5-4a10-b256-fbc6b1e6a2f1/272c5604-5105-47e9-88ac-0be2cd6b1b4d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://assets.realclear.com/images/54/547620.jpg"
+    width: 750
+    height: 562
     isCached: true
 
 related:
@@ -92,6 +87,22 @@ related:
     quality: 173
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5ea11597-34c5-4d7b-8aa8-0598d069a7e2/0e21a2d7-7861-47cc-8133-17278c5f44c5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "McConnell calls on Biden to change course in Afghanistan before it's too late"
+    excerpt: "McConnell urged President Joe Biden reverse course in Afghanistan as the security situation deteriorates"
+    publishedDateTime: 2021-08-12T23:00:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vWeO-07zj5w/mcconnell-calls-on-biden-to-change-course-in-afghanistan-before-its-too-late"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-calls-on-biden-to-change-course-in-afghanistan-before-its-too-late.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-calls-on-biden-to-change-course-in-afghanistan-before-its-too-late.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c505be5b-7fe5-4a10-b256-fbc6b1e6a2f1/272c5604-5105-47e9-88ac-0be2cd6b1b4d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -271,20 +282,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "FLASHBACK: President Biden Said Last Month Taliban Retaking Afghanistan Was \"Not Inevitable\""
-    excerpt: "President Biden said last month that the Taliban would not quickly retake the country as U.S. troops leave the country."
-    publishedDateTime: 2021-08-15T19:04:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/08/15/flashback_president_biden_said_last_month.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 54
-    images:
-      - url: "https://assets.realclear.com/images/54/547620.jpg"
-        width: 750
-        height: 562
-        isCached: true
   - title: "This Afghan Rout Is Entirely on Joe Biden"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-08-13T11:28:00Z
@@ -295,6 +292,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "E1jgSTWugSzW3ESsFgNrdZGe3UEpDCYYyrbKhJICpqg/axx1xLhxGAAkEyqj+JYHwNsvs+vkjiXKaOeRiH6+O+goNyJLnBbt2AS6JbPzD5bGu4O46fIC1PPNIiCrxFv3JBqKKnWmyg7BwflIA5TKW30vBum6NuSNQ97lTyd77uMC8+gPNwmzugBD8QEqaKJ4RezuytC3a1SXxprX4h/CMl3z4FN+olQUig8k6ObWtsttVIo93haLPdfPce9fJRMmpH/sVY471Z8Ds/D6FYPJUM2OhFpMwpFT+nqsLAiUyOcie+0E/B40T5aNh1SOURjL9vU1Jy4RkRRyjJ+n4/EMN1WmJeR3qqEYqgqScz8UJLY=;i5pT0lSvLBMiNVw8Qa+rqw=="
+secured: "bejuWumYCO3pVj+n/ymm5qNm66Body0igT909gxAAuoBJ3/ZN/IAdeN6Hwu6rMwZzfY0s491jP1pDpWUUjEWOtbG7H97WmugbG+YbY1CK+AZA1gNvvDhn119GBBhkGWsKwvJutOimg/7vjPf4OKY1chVTrU5+I4V4CZ+PdKOFzd02zPoNUhavJvbIez1Y7uwkgIpqxsiXIRA0rPEfdee8fOeXcKhg4FS1ivXru0tVS0rHeLFtmpSoCJjRGJKBPONJqQk3aHk6FwJ0isUsOxmjIa2rF7XpUeYLsPt+8rBNRdwCYazCnLd2vr0Eqtz/jXAsNSoogqZTKweP3ZBxPW+1L6R2ow/mBTD8VacjBIc4N4=;4f5WYXllWpBKJ9MOp7bqVA=="
 ---
 

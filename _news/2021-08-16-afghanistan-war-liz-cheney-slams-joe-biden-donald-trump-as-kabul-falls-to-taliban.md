@@ -1,29 +1,34 @@
 ---
 category: news
-title: "Taliban's Afghanistan advance tests Biden's 'America is back' foreign policy promise"
-excerpt: "As the Taliban routs Afghan forces at lightning speed, the U.S. retreat from the country raises questions about Biden's \"America is back\" foreign policy."
-publishedDateTime: 2021-08-15T17:44:00Z
-originalUrl: "https://www.statesman.com/story/news/politics/2021/08/14/talibans-afghanistan-advance-tests-bidens-america-back-policy/8121040002/"
-webUrl: "https://www.statesman.com/story/news/politics/2021/08/14/talibans-afghanistan-advance-tests-bidens-america-back-policy/8121040002/"
-ampWebUrl: "https://amp.statesman.com/amp/8121040002"
-cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8121040002"
+title: "Afghanistan War: Liz Cheney Slams Joe Biden, Donald Trump As Kabul Falls To Taliban"
+excerpt: "Wyo., slammed the Trump and Biden administrations for its handling of the U.S. withdrawal from Afghanistan. She suggested Trump instigated the problem and now Biden has continued it. Afghanistan President Ashraf Ghani fled the country on Sunday,"
+publishedDateTime: 2021-08-15T20:42:00Z
+originalUrl: "https://ibtimes.com/afghanistan-war-liz-cheney-slams-joe-biden-donald-trump-kabul-falls-taliban-3273963"
+webUrl: "https://ibtimes.com/afghanistan-war-liz-cheney-slams-joe-biden-donald-trump-kabul-falls-taliban-3273963"
+ampWebUrl: "https://www.ibtimes.com/afghanistan-war-liz-cheney-slams-joe-biden-donald-trump-kabul-falls-taliban-3273963?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/afghanistan-war-liz-cheney-slams-joe-biden-donald-trump-kabul-falls-taliban-3273963?amp=1"
 type: article
-quality: 68
+quality: 94
 heat: -1
 published: false
 
 provider:
-  name: Austin American-Statesman
-  domain: statesman.com
+  name: International Business Times
+  domain: ibtimes.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/08/13/USAT/48779946-06c1-444e-8210-dbb82736a907-AFP_AFP_9L24C3.jpg?auto=webp&crop=3391,1908,x0,y0&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/05/us-house-republican-liz-cheney-and-senate-minority.jpg"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -137,22 +142,6 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "Afghanistan War: Liz Cheney Slams Joe Biden, Donald Trump As Kabul Falls To Taliban"
-    excerpt: "Wyo., slammed the Trump and Biden administrations for its handling of the U.S. withdrawal from Afghanistan. She suggested Trump instigated the problem and now Biden has continued it. Afghanistan President Ashraf Ghani fled the country on Sunday,"
-    publishedDateTime: 2021-08-15T20:42:00Z
-    webUrl: "https://ibtimes.com/afghanistan-war-liz-cheney-slams-joe-biden-donald-trump-kabul-falls-taliban-3273963"
-    ampWebUrl: "https://www.ibtimes.com/afghanistan-war-liz-cheney-slams-joe-biden-donald-trump-kabul-falls-taliban-3273963?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/afghanistan-war-liz-cheney-slams-joe-biden-donald-trump-kabul-falls-taliban-3273963?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 94
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/05/us-house-republican-liz-cheney-and-senate-minority.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "EXPLAINER: The impact of Joe Biden's new fuel economy rules"
     excerpt: "President Joe Biden wants to erase Donald Trump's rollback of automobile pollution and fuel economy standards. He proposed new rules Thursday and unveiled a nonbinding deal with most automakers to have electric,"
     publishedDateTime: 2021-08-06T11:21:00Z
@@ -168,6 +157,22 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Taliban's Afghanistan advance tests Biden's 'America is back' foreign policy promise"
+    excerpt: "As the Taliban routs Afghan forces at lightning speed, the U.S. retreat from the country raises questions about Biden's \"America is back\" foreign policy."
+    publishedDateTime: 2021-08-15T17:44:00Z
+    webUrl: "https://www.statesman.com/story/news/politics/2021/08/14/talibans-afghanistan-advance-tests-bidens-america-back-policy/8121040002/"
+    ampWebUrl: "https://amp.statesman.com/amp/8121040002"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8121040002"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 68
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/13/USAT/48779946-06c1-444e-8210-dbb82736a907-AFP_AFP_9L24C3.jpg?auto=webp&crop=3391,1908,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "President Biden urges no vote in Gavin Newsom recall, showing California governor support"
     excerpt: "President Joe Biden on Thursday urged Californians to vote no in the upcoming election to recall Gov. Gavin Newsom in a show of support for the embattled Democratic governor. In a statement released by Newsom’s campaign,"
@@ -292,6 +297,6 @@ related:
       domain: usnews.com
     quality: 31
 
-secured: "sizwFPpAmUGOO4JLoptUcUv8IiggPfMb/vCRj2jV0sdgP6/BU6QX8kWv3V/r5loCoFQknIG+iWl3dRlqHA9SHljrWtfkchH79R+LpaPr6Ic4vFNnS5HWAPKug8zZpBvYnPVfyYcH+pe9Dbcvuj/TpZ0BTMNAgt80Yb+yevs5cEBmYZWBP8yXG/6yRLgoitQRT+WtjgRJgR7U3f+MdOjrjGxj3zKH44OBza741c/b7NSs7y2MBx8IJWPF4+2vwLSFFPaHYmvLV5MMsQOAf6BFZp0CM6PVkJ0JGOaKUvMbD7sVzbj39xoTY5VLp3LjMyWi4BAJIFpQXnMoPKSjUcOWda4zp3/2cVE4ho6YeXytxhk=;PvVKKYtabotAQSQeebOHrg=="
+secured: "koasMIfRq0UlKwlp3TBPV+Ns+WzBfyEE8SjJRcQO4xThbk2cZWyD5XM8Ik+RV7FNP44JwMcO32Owsa3ZIuXXrWHX4Nil3QkRnZYH+8FQKN5qTvn+turFOKjZYyanx4mRLsUDPhKxYxQqG5+JTKCHApphsym5Y1hABIj3/DWkSn5mCAdxHWPe4Zgo6ZDrVYJxehiua0HVDN4pUF4mMeMSshKDXwQTiGxSPQBxCe7W+ttYBJuHh6qEfqyPFrb50lGRfcHiFae7Mc5IV6+WObQy/x7L/+H6USm2LBi6HdHFoXVq7mhX5rfKlx6cTs0Nl97+R3anQAVeEmN9RhlMeZuh4/UQodPtRKHUAZrDVHniWog=;7M5eGDiDAn1EnBNiTsHEiA=="
 ---
 

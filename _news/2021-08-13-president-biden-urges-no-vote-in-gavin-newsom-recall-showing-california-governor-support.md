@@ -107,6 +107,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Lindsey Graham Says Biden 'Seems Oblivious' to Terrorist Threats Posed by Taliban-Run Afghanistan"
+    excerpt: "\"Jihadists all over the world are celebrating this event,\" Graham warned on Sunday as the Taliban seized control."
+    publishedDateTime: 2021-08-15T21:20:00Z
+    webUrl: "https://www.newsweek.com/lindsey-graham-says-biden-seems-oblivious-terrorist-threats-posed-taliban-run-afghanistan-1619529"
+    ampWebUrl: "https://www.newsweek.com/lindsey-graham-says-biden-seems-oblivious-terrorist-threats-posed-taliban-run-afghanistan-1619529?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lindsey-graham-says-biden-seems-oblivious-terrorist-threats-posed-taliban-run-afghanistan-1619529?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 112
+    images:
+      - url: "https://d.newsweek.com/en/full/1871575/kabul-police.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
   - title: "Rush of troops to Kabul tests Biden’s withdrawal deadline"
     excerpt: "The last-minute decision to send 3,000 U.S. troops to Afghanistan to help partially evacuate the U.S. Embassy is calling into question whether President Joe Biden will meet his Aug."
     publishedDateTime: 2021-08-14T13:22:00Z
@@ -120,6 +136,22 @@ related:
       - url: "https://storage.googleapis.com/afs-prod/media/dec2f2acfe554fdb96500f958a8762d0/3000.jpeg"
         width: 3000
         height: 2000
+        isCached: true
+  - title: "Afghanistan War: Liz Cheney Slams Joe Biden, Donald Trump As Kabul Falls To Taliban"
+    excerpt: "Wyo., slammed the Trump and Biden administrations for its handling of the U.S. withdrawal from Afghanistan. She suggested Trump instigated the problem and now Biden has continued it. Afghanistan President Ashraf Ghani fled the country on Sunday,"
+    publishedDateTime: 2021-08-15T20:42:00Z
+    webUrl: "https://ibtimes.com/afghanistan-war-liz-cheney-slams-joe-biden-donald-trump-kabul-falls-taliban-3273963"
+    ampWebUrl: "https://www.ibtimes.com/afghanistan-war-liz-cheney-slams-joe-biden-donald-trump-kabul-falls-taliban-3273963?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/afghanistan-war-liz-cheney-slams-joe-biden-donald-trump-kabul-falls-taliban-3273963?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 94
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/05/us-house-republican-liz-cheney-and-senate-minority.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "EXPLAINER: The impact of Joe Biden's new fuel economy rules"
     excerpt: "President Joe Biden wants to erase Donald Trump's rollback of automobile pollution and fuel economy standards. He proposed new rules Thursday and unveiled a nonbinding deal with most automakers to have electric,"
@@ -225,6 +257,31 @@ related:
       name: Biloxi Sun Herald
       domain: sunherald.com
     quality: 55
+  - title: "Biden calls school chiefs, lauds defiance of anti-mask rules"
+    excerpt: "President Joe Biden has called school district superintendents in Florida and Arizona, praising them for doing what he called “the right thing” after their respective boards implemented mask requirements in defiance of their Republican governors amid growing COVID-19 infections."
+    publishedDateTime: 2021-08-15T18:05:00Z
+    webUrl: "https://www.bnd.com/news/article253497254.html"
+    ampWebUrl: "https://amp.bnd.com/news/article253497254.html"
+    cdnAmpWebUrl: "https://amp-bnd-com.cdn.ampproject.org/c/s/amp.bnd.com/news/article253497254.html"
+    type: article
+    provider:
+      name: BND
+      domain: bnd.com
+    quality: 55
+  - title: "Mental health clinics angle for a spot in Biden budget bill"
+    excerpt: "An innovative program to help people with mental health and substance abuse problems is being primed for a major expansion as the COVID-19 pandemic deepens struggles with drug"
+    publishedDateTime: 2021-08-15T19:21:00Z
+    webUrl: "https://www.phillytrib.com/news/health/mental-health-clinics-angle-for-a-spot-in-biden-budget-bill/article_0395d94e-fdfe-11eb-8619-e3d0d0614cb9.html"
+    type: article
+    provider:
+      name: Philadelphia Tribune
+      domain: phillytrib.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/assets/v3/editorial/3/ab/3ab94190-fdfe-11eb-a03a-7f2805fa6072/611969b77180e.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
+        isCached: true
   - title: "Biden Says He Does Not Believe He Can Intervene in States Banning Mask Mandates"
     excerpt: "President Joe Biden said on Tuesday that he did not believe he had the power to intervene in U.S. states that have banned mask mandates but said his administration was looking into the issue. \"I don't believe that I do,"
     publishedDateTime: 2021-08-10T19:49:00Z

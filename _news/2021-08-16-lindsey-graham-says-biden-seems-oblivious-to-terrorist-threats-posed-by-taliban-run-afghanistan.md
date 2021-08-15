@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Taliban's Afghanistan advance tests Biden's 'America is back' foreign policy promise"
-excerpt: "As the Taliban routs Afghan forces at lightning speed, the U.S. retreat from the country raises questions about Biden's \"America is back\" foreign policy."
-publishedDateTime: 2021-08-15T17:44:00Z
-originalUrl: "https://www.statesman.com/story/news/politics/2021/08/14/talibans-afghanistan-advance-tests-bidens-america-back-policy/8121040002/"
-webUrl: "https://www.statesman.com/story/news/politics/2021/08/14/talibans-afghanistan-advance-tests-bidens-america-back-policy/8121040002/"
-ampWebUrl: "https://amp.statesman.com/amp/8121040002"
-cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8121040002"
+title: "Lindsey Graham Says Biden 'Seems Oblivious' to Terrorist Threats Posed by Taliban-Run Afghanistan"
+excerpt: "\"Jihadists all over the world are celebrating this event,\" Graham warned on Sunday as the Taliban seized control."
+publishedDateTime: 2021-08-15T21:20:00Z
+originalUrl: "https://www.newsweek.com/lindsey-graham-says-biden-seems-oblivious-terrorist-threats-posed-taliban-run-afghanistan-1619529"
+webUrl: "https://www.newsweek.com/lindsey-graham-says-biden-seems-oblivious-terrorist-threats-posed-taliban-run-afghanistan-1619529"
+ampWebUrl: "https://www.newsweek.com/lindsey-graham-says-biden-seems-oblivious-terrorist-threats-posed-taliban-run-afghanistan-1619529?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lindsey-graham-says-biden-seems-oblivious-terrorist-threats-posed-taliban-run-afghanistan-1619529?amp=1"
 type: article
-quality: 68
+quality: 112
 heat: -1
 published: false
 
 provider:
-  name: Austin American-Statesman
-  domain: statesman.com
+  name: Newsweek
+  domain: newsweek.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/08/13/USAT/48779946-06c1-444e-8210-dbb82736a907-AFP_AFP_9L24C3.jpg?auto=webp&crop=3391,1908,x0,y0&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://d.newsweek.com/en/full/1871575/kabul-police.jpg"
+    width: 2500
+    height: 1666
     isCached: true
 
 related:
@@ -107,22 +111,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Lindsey Graham Says Biden 'Seems Oblivious' to Terrorist Threats Posed by Taliban-Run Afghanistan"
-    excerpt: "\"Jihadists all over the world are celebrating this event,\" Graham warned on Sunday as the Taliban seized control."
-    publishedDateTime: 2021-08-15T21:20:00Z
-    webUrl: "https://www.newsweek.com/lindsey-graham-says-biden-seems-oblivious-terrorist-threats-posed-taliban-run-afghanistan-1619529"
-    ampWebUrl: "https://www.newsweek.com/lindsey-graham-says-biden-seems-oblivious-terrorist-threats-posed-taliban-run-afghanistan-1619529?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lindsey-graham-says-biden-seems-oblivious-terrorist-threats-posed-taliban-run-afghanistan-1619529?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 112
-    images:
-      - url: "https://d.newsweek.com/en/full/1871575/kabul-police.jpg"
-        width: 2500
-        height: 1666
-        isCached: true
   - title: "Rush of troops to Kabul tests Biden’s withdrawal deadline"
     excerpt: "The last-minute decision to send 3,000 U.S. troops to Afghanistan to help partially evacuate the U.S. Embassy is calling into question whether President Joe Biden will meet his Aug."
     publishedDateTime: 2021-08-14T13:22:00Z
@@ -168,6 +156,22 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Taliban's Afghanistan advance tests Biden's 'America is back' foreign policy promise"
+    excerpt: "As the Taliban routs Afghan forces at lightning speed, the U.S. retreat from the country raises questions about Biden's \"America is back\" foreign policy."
+    publishedDateTime: 2021-08-15T17:44:00Z
+    webUrl: "https://www.statesman.com/story/news/politics/2021/08/14/talibans-afghanistan-advance-tests-bidens-america-back-policy/8121040002/"
+    ampWebUrl: "https://amp.statesman.com/amp/8121040002"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8121040002"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 68
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/13/USAT/48779946-06c1-444e-8210-dbb82736a907-AFP_AFP_9L24C3.jpg?auto=webp&crop=3391,1908,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "President Biden urges no vote in Gavin Newsom recall, showing California governor support"
     excerpt: "President Joe Biden on Thursday urged Californians to vote no in the upcoming election to recall Gov. Gavin Newsom in a show of support for the embattled Democratic governor. In a statement released by Newsom’s campaign,"
@@ -292,6 +296,6 @@ related:
       domain: usnews.com
     quality: 31
 
-secured: "sizwFPpAmUGOO4JLoptUcUv8IiggPfMb/vCRj2jV0sdgP6/BU6QX8kWv3V/r5loCoFQknIG+iWl3dRlqHA9SHljrWtfkchH79R+LpaPr6Ic4vFNnS5HWAPKug8zZpBvYnPVfyYcH+pe9Dbcvuj/TpZ0BTMNAgt80Yb+yevs5cEBmYZWBP8yXG/6yRLgoitQRT+WtjgRJgR7U3f+MdOjrjGxj3zKH44OBza741c/b7NSs7y2MBx8IJWPF4+2vwLSFFPaHYmvLV5MMsQOAf6BFZp0CM6PVkJ0JGOaKUvMbD7sVzbj39xoTY5VLp3LjMyWi4BAJIFpQXnMoPKSjUcOWda4zp3/2cVE4ho6YeXytxhk=;PvVKKYtabotAQSQeebOHrg=="
+secured: "JO8j0xNl6xWH1gKFoYS+f9+sbvVOQBJDG3UjE5oTrwEF18SGczrKFdPo43K9S39mf92as4u8Zl0T58xmeA7i1U1Uejh+APL5mXQa6pGkm+X+uf1zsAEg/DqnwEEUV8K2MCshnEi6nOvVmlLqrP/h3Xz7dk5V8AT1mAkDrXgb8D82kIXi47RxyLCMeQeO6aZyUh6QFO7hX6GQgJytC2hpJ9q4CVsy/MWVKmY2naRNVyQ2cf6E4XJGoS2mYTbCviRooOzDcY2XPqCpZrtzUaHJmN4iaLNds2CtbXKIQxzWLJz++lVb+RO+yYLoZMBYuc7TN7tTFVKaYbF3cZIS9rEQDfdhJzU/a2JQ5CTxRZi5ixE=;7cl3vV9YKXuqJ+5gUSR+hw=="
 ---
 
