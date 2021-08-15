@@ -72,6 +72,15 @@ related:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 45
+  - title: "Biden Administration Joins Florida School Mask Fight"
+    excerpt: "President Joe Biden even called Broward's superintendent Friday night, the Miami Herald reported, to offer his support for district rules requiring students to wear masks. On the call, he said his administration stands ready to support their school districts and communities to get back to safe,"
+    publishedDateTime: 2021-08-15T11:08:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/08/15/biden_administration_joins_florida_school_mask_fight_549465.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "9RuJFLBEqXIxPCqHN/8xMRNIDXe+WpKSJSOyH2nRQSx537dpFBCXKhAc/2p2diUBHuI4d04y2Xj/Z2Q2216CyrQ47rDGdLc1LGKdJMFb81Sn6ck6PBXFHUP2+TWoGH1FLJYaxgQ401sHjxK59uILExWt0o4O2MasZpTM5uF4pTIdf9SEbs0XST1zDQIe2VxCxwwYi0NDFPIpBWSy5wxb2fycz+GFdf5IwwruYZkArYjZIl6Yq/GDCXjxr83gRS9sHWavheZxvyHx7XY4ZL0gpHlTJ1PELpJNW1pkM2Ss0SNKqpoz+8B+NPHrRBM16qDZ7EwXNmrBG14aChsHS8neTEu6UowYBmjIX+Kg9gt5KHQ=;4N6/32K/Gs/Y7ToeInCR6w=="
 ---

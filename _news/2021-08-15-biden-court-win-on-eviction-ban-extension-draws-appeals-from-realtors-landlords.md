@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-court-eviction-ban-extension-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-court-eviction-ban-extension-appeals-realtors-landlords.amp"
 type: article
 quality: 170
-heat: 230
+heat: 250
 published: true
 
 provider:
@@ -67,6 +67,15 @@ related:
     excerpt: "Just hours after being sworn into office on January 20, 2021, President Joe Biden signed an executive order canceling the Keystone XL pipeline. The move killed thousands of union jobs,"
     publishedDateTime: 2021-08-12T11:38:00Z
     webUrl: "https://www.realclearpolitics.com/2021/08/12/biden_destroys_us_energy_production_begs_opec_to_pump_549252.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
+  - title: "Biden Administration Joins Florida School Mask Fight"
+    excerpt: "President Joe Biden even called Broward's superintendent Friday night, the Miami Herald reported, to offer his support for district rules requiring students to wear masks. On the call, he said his administration stands ready to support their school districts and communities to get back to safe,"
+    publishedDateTime: 2021-08-15T11:08:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/08/15/biden_administration_joins_florida_school_mask_fight_549465.html"
     type: article
     provider:
       name: RealClearPolitics

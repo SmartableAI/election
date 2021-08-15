@@ -1,35 +1,23 @@
 ---
 category: news
-title: "Biden accuser Tara Reade reacts to Cuomo's resignation, calls for 'real investigation' into president"
-excerpt: "Tara Reade, the former Senate staffer who alleged last year that Joe Biden sexually assaulted her in 1993, weighed in on the stunning resignation of Democratic New York Gov. Andrew Cuomo amid his sexual harassment scandal."
-publishedDateTime: 2021-08-10T17:25:00Z
-originalUrl: "https://www.foxnews.com/media/tara-reade-cuomo-resignation-biden"
-webUrl: "https://www.foxnews.com/media/tara-reade-cuomo-resignation-biden"
-ampWebUrl: "https://www.foxnews.com/media/tara-reade-cuomo-resignation-biden.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tara-reade-cuomo-resignation-biden.amp"
+title: "Biden Administration Joins Florida School Mask Fight"
+excerpt: "President Joe Biden even called Broward's superintendent Friday night, the Miami Herald reported, to offer his support for district rules requiring students to wear masks. On the call, he said his administration stands ready to support their school districts and communities to get back to safe,"
+publishedDateTime: 2021-08-15T11:08:00Z
+originalUrl: "https://www.realclearpolitics.com/2021/08/15/biden_administration_joins_florida_school_mask_fight_549465.html"
+webUrl: "https://www.realclearpolitics.com/2021/08/15/biden_administration_joins_florida_school_mask_fight_549465.html"
 type: article
-quality: 120
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
   - Joe Biden
   - Republican Voice
-
-images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/66326c66-e604-4c69-8e1c-60288fe28032/004b93fc-2b6c-48e2-b00d-9265d18ce4a5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
-    isCached: true
 
 related:
   - title: "Biden court win on eviction ban extension draws appeals from Realtors, landlords"
@@ -64,6 +52,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden accuser Tara Reade reacts to Cuomo's resignation, calls for 'real investigation' into president"
+    excerpt: "Tara Reade, the former Senate staffer who alleged last year that Joe Biden sexually assaulted her in 1993, weighed in on the stunning resignation of Democratic New York Gov. Andrew Cuomo amid his sexual harassment scandal."
+    publishedDateTime: 2021-08-10T17:25:00Z
+    webUrl: "https://www.foxnews.com/media/tara-reade-cuomo-resignation-biden"
+    ampWebUrl: "https://www.foxnews.com/media/tara-reade-cuomo-resignation-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tara-reade-cuomo-resignation-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/66326c66-e604-4c69-8e1c-60288fe28032/004b93fc-2b6c-48e2-b00d-9265d18ce4a5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden Destroys U.S. Energy Production, Begs OPEC to Pump"
     excerpt: "Just hours after being sworn into office on January 20, 2021, President Joe Biden signed an executive order canceling the Keystone XL pipeline. The move killed thousands of union jobs,"
     publishedDateTime: 2021-08-12T11:38:00Z
@@ -73,16 +77,7 @@ related:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 45
-  - title: "Biden Administration Joins Florida School Mask Fight"
-    excerpt: "President Joe Biden even called Broward's superintendent Friday night, the Miami Herald reported, to offer his support for district rules requiring students to wear masks. On the call, he said his administration stands ready to support their school districts and communities to get back to safe,"
-    publishedDateTime: 2021-08-15T11:08:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/08/15/biden_administration_joins_florida_school_mask_fight_549465.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
-secured: "JL3eX76T8FhfksuQFkLeA3LIroevslhWF3EF4LhVLGQyTIsK22sHOU8MkT4ySFkSbl3qnQixa/Gt12lEOlZjE9I93JxrTqksKlnTcEdgUamjkR02elv46Lzzowu02jDmhQQEeNokOucGU48ylxPPTlvqRVeQQiWJM9OR1wV0enU5hFRIXsc+VdV7fnDosvYZVeyJJHQrx8ST95kOZUSdI10oYqJ9qrb5x3nubAnr+HzUJA6QXHVhEbq6IlQ3jjf3SsuTe/9U/dmePFfdQ/8FNtz0c3oJD/1eKslNeI4bcNzol2qyAw2+GoPKuy1LJAfeTzRYnH7P8VezLV1gkQlJPjpgWS+20/m4K0uUmhBorc4=;2dwGe5lRtf/E+474MYedMw=="
+secured: "g8rUw2T3LX6SKNNNfOi61H7wFfN8oJRIXUpDzAiXZRFyg6APTjUscwbc06GE9VdeWKVmya5RwP8XH5Dxg2Vj5bd7sjjPYDs1O7XW9dbORQ1mmqcVZzl9nbT724JFlNjoySMTvsSB1eqHKWGVNPV0Qa6mytDdUj146Oc9Ky6BeW6PCeTxSmrTk6FNnOdEtLEJvHaRH6+wBxjlvhJoyzu75xOkrwS7FPV2YXinPG1NvQ2nJ2Tndoa+nJghthhLakjD3ZLtYyBzZ73AtLLXNRRuHArmY6OR0bspMyBI6XboboiuDJAcrfYGFNe1JEw+ZHXFU0zYLB6mSQgb9nc9Xa0jitjb4/wQFLjiyWKHwYxo960=;7cNc05tJmH64eKd9rnCfoA=="
 ---
 
