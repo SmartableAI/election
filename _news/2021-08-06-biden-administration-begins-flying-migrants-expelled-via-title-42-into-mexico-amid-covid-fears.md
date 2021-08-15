@@ -79,6 +79,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Psaki dismisses concerns over legality of Biden's renewed eviction moratorium"
+    excerpt: "White House press secretary Jen Psaki dismissed concerns about the constitutionality of the extension of the eviction moratorium."
+    publishedDateTime: 2021-08-04T19:08:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5-zwqGhnHwY/psaki-dismisses-concerns-constitutionality-eviction-moratorium-extension"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-dismisses-concerns-constitutionality-eviction-moratorium-extension.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-dismisses-concerns-constitutionality-eviction-moratorium-extension.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/194cfd99-d8dd-4036-81fc-e39671e8b9ad/617f57d9-b89d-4869-86d6-d3bf28cf1184/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden sidesteps question on justification for letting unvaccinated migrants into US"
     excerpt: "President Biden did not directly address a question from Fox News’ Peter Doocy Tuesday asking why his administration is continuing to allow untested and unvaccinated illegal immigrants into the country while at the same time urging and in some cases mandating that Americans take the coronavirus vaccine."
     publishedDateTime: 2021-08-03T22:06:40Z
@@ -188,6 +204,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/61f482a1-6ccc-4e0c-8369-96a5aedb833a/81e94bfb-ca2d-49df-aff6-426577c98636/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Oh, Joe: Biden mistakenly says 350M Americans vaccinated"
+    excerpt: "Biden, 78, is often accused of being in mental decline and then-President Donald Trump made his cognitive fitness a central campaign issue last year."
+    publishedDateTime: 2021-08-06T18:56:00Z
+    webUrl: "https://nypost.com/2021/08/06/biden-mistakenly-says-350m-americans-are-vaccinated/"
+    ampWebUrl: "https://nypost.com/2021/08/06/biden-mistakenly-says-350m-americans-are-vaccinated/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/06/biden-mistakenly-says-350m-americans-are-vaccinated/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/joe-biden-vaccine-600.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Lt. Gov. Patrick torches Biden over border failure, COVID crisis: 'This is insanity'"
     excerpt: "President Biden's border crisis is spiraling out of control while coronavirus cases are spiking throughout the US."

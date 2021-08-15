@@ -48,6 +48,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Stephen Miller's group accuses Biden admin of hiding docs on Supreme Court commission"
+    excerpt: "Fox News exclusively obtained the letter AFL sent to the Biden administration regarding documents pertaining to the Presidential Commission on the Supreme Court."
+    publishedDateTime: 2021-08-12T21:11:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/78fDYJFl9lI/biden-supreme-court-commission-america-first-legal"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-supreme-court-commission-america-first-legal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-supreme-court-commission-america-first-legal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d9359c2d-9958-4ec7-a829-482f4c382329/b3ff4e74-7195-482f-b18f-15b23d3e7099/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Speculation about Saigon rooftop replay in Kabul despite Biden assertion it couldn't happen"
     excerpt: "Biden administration officials are reportedly worried about a replay of the Vietnam War as they move to evacuate American diplomats from Afghanistan despite Biden’s firm claim that a similar scenario would not unfold."
     publishedDateTime: 2021-08-12T21:15:35Z

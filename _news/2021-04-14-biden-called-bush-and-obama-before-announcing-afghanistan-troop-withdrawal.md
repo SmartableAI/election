@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-called-bush-obama-afghanistan
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-called-bush-obama-afghanistan-troop-withdrawal.amp"
 type: article
 quality: 173
-heat: 413
+heat: 393
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "McConnell calls on Biden to change course in Afghanistan before it's too late"
-    excerpt: "McConnell urged President Joe Biden reverse course in Afghanistan as the security situation deteriorates"
-    publishedDateTime: 2021-08-12T23:00:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vWeO-07zj5w/mcconnell-calls-on-biden-to-change-course-in-afghanistan-before-its-too-late"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-calls-on-biden-to-change-course-in-afghanistan-before-its-too-late.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-calls-on-biden-to-change-course-in-afghanistan-before-its-too-late.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c505be5b-7fe5-4a10-b256-fbc6b1e6a2f1/272c5604-5105-47e9-88ac-0be2cd6b1b4d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Lindsey Graham: Biden 'paving the way' for another 9/11 with Afghanistan withdrawal"
     excerpt: "Sen. Lindsey Graham warned that President Biden is \"paving the way\" for another 9/11 with his commitment to fully withdraw all American troops from Afghanistan by September. "
     publishedDateTime: 2021-04-14T21:12:51Z

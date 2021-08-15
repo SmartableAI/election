@@ -80,6 +80,15 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "6 Things Biden Could Do About Covid If He Is Serious"
+    excerpt: "Here's what Joe Biden should do if he is actually serious about handling the pandemic and not just playing politics. Read Full Article »"
+    publishedDateTime: 2021-08-08T19:31:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/08/08/6_things_biden_could_do_about_covid_if_he_is_serious_548998.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "688fiJ975C4fdVn05Q43SJHQkvfCzX8nCDAE4tQRRTj0nRWDSd674CqiQTvExlmEycDkfdfjnnk1uXjZJLRb+doEx4s3NnPXW391kW+vfrPvIktJx8QRaPpKSVdss0TDDLlDfb1xZagn+wbubdEQmrVa883lRDsxkZPfCO+4KS1+KqnPPxkd1pg6vyBd1d8G3WjE4POTT/COwywoXuQZuAlD2WgM6hVPfzOT0QenJ0XGS6Smt6fc2Mri2skVqg6wDZJtJBvkro9klkRtm1gMNMe0badZZSC8+s91DkW48w3Ej4/YL2a2BHxwiWkTFdrbKKUE2vNaZQ3y49iX16jEq+HFnjuQekTB7GTWgzLica0=;BVdx/qnAyLJjSSjzG+Zifg=="
 ---

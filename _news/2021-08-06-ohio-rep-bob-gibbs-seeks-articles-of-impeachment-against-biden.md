@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/ohio-bob-gibbs-articles-impeachment
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-bob-gibbs-articles-impeachment-biden.amp"
 type: article
 quality: 175
-heat: 335
+heat: 375
 published: true
 
 provider:
@@ -158,6 +158,36 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/402fd5d2-59ec-48df-9708-940138d5ec89/67f32827-ee50-4b97-9c0e-47148a82b3ce/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Psaki grilled on Cuomo, Biden sexual harassment allegations, says claims against president already ‘litigated’"
+    excerpt: "White House press secretary Jen Psaki fended off questions about sexual misconduct allegations leveled against President Biden Wednesday following the commander-in-chief’s decision to call on embattled New York Gov. Andrew Cuomo to resign following a harassment probe."
+    publishedDateTime: 2021-08-04T23:34:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/o8HBXmciIzY/psaki-cuomo-biden-sexual-harassment"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-cuomo-biden-sexual-harassment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-cuomo-biden-sexual-harassment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/720/405/AP21216625636317-e1628113969608.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden Admits Green New Deal Is a Dream"
+    excerpt: "\"What the IPCC told us is what President Biden has believed all along,\" White House press secretary Jen Psaki noted on Tuesday. \"Climate change is an urgent threat that requires bold action.\" The very next day,"
+    publishedDateTime: 2021-08-13T11:28:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/08/13/biden_admits_green_new_deal_is_a_dream_146243.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/55/550662_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "Ql3hqu9wZuR+H5AbOMWFCBH3ZDUf78m6OfD/op+qK4UqVJr7uuW7NYQ5URqyAOYe9Cqsy7AWpwVtx+ybcifRJzmQPSWpr6ZOyYjxTvSwut8EMaJEGx5EKKGHDsahj3gDU1/JA38IAOUp9hF/Cdp15U5xHtSZeDcPlti3Gne7iqcXIefFWdr86uMy0SJwz7lC6+lRQ54vpLqNLfucpxFO5WCEnswhIk70SJnnBPJ5JwzSkTGkZ16WzW3oECnuswMiH+Bb1AnS9f6VcQVDeq4tKm1qPATrK5l97TsOBfdaODD90UgGays0lzhgHKlwNZUyUl1gGplwu0HCBToW08ZzIJddgBbBk8fAblQ86Y6Xo08=;om4vgJz9zuxyIxzzTszf5A=="

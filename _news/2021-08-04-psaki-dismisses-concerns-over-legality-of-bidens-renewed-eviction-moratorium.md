@@ -31,163 +31,177 @@ images:
     isCached: true
 
 related:
-  - title: "Psaki grilled on whether Biden created vaccine hesitancy with 2020 comments slamming Trump"
-    excerpt: "White House press secretary Jen Psaki was grilled on whether or not President Biden encouraged vaccine hesitancy with comments he made last year cautioning he did not “trust” former President Donald Trump"
-    publishedDateTime: 2021-08-11T18:15:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RSjUmFvLMBw/psaki-grilled-biden-vaccine-hesitancy-2020-comments-trust-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-grilled-biden-vaccine-hesitancy-2020-comments-trust-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-grilled-biden-vaccine-hesitancy-2020-comments-trust-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 180
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef4773e1-c6e3-456a-821b-b9147f44bb39/f7e732ff-b006-4030-aaad-5715e7df8fcb/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden won’t release Delaware visitor logs despite 17 trips home"
-    excerpt: "White House Press Secretary Jen Psaki said Wednesday that President Biden won’t release visitor logs from his Delaware residences, despite making 17 trips home in six months."
-    publishedDateTime: 2021-08-12T00:20:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mat7QE4KDq4/biden-wont-release-delaware-visitor-logs-despite-17-trips-home"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-wont-release-delaware-visitor-logs-despite-17-trips-home.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-wont-release-delaware-visitor-logs-despite-17-trips-home.amp"
+  - title: "Biden says Americans should expect more COVID restrictions"
+    excerpt: "President Biden warned Friday that increased COVID-related restrictions could again become a possibility as the U.S. sees spiking coronavirus cases nationwide."
+    publishedDateTime: 2021-07-31T00:41:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zDpxbYydvl0/biden-expect-more-coronavirus-restrictions"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-expect-more-coronavirus-restrictions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-expect-more-coronavirus-restrictions.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef4773e1-c6e3-456a-821b-b9147f44bb39/f7e732ff-b006-4030-aaad-5715e7df8fcb/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/08eaf3c1-0bc0-4ab7-b748-5b27bb6cb6f8/dc1cea00-c153-4975-837b-757c68b29702/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Sec. Mayorkas blames Trump, rule of law for huge spike in illegal immigration during Biden administration"
-    excerpt: "Homeland Security Secretary Alejandro Mayorkas blamed former President Donald Trump’s administration for the record rise of border crossings occurring during the Biden administration."
-    publishedDateTime: 2021-08-13T14:23:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PuWNHNiZe2I/migrant-surge-mayorkas-blames-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/migrant-surge-mayorkas-blames-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/migrant-surge-mayorkas-blames-trump.amp"
+  - title: "Majority of Americans don't think Biden will run in 2024: poll"
+    excerpt: "Fifty-four percent of Americans say they think that President Biden won't run for reelection in 2024, according to a new poll."
+    publishedDateTime: 2021-08-04T19:34:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4hKX5zYJRtE/will-biden-will-run-in-2024-poll"
+    ampWebUrl: "https://www.foxnews.com/politics/will-biden-will-run-in-2024-poll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-biden-will-run-in-2024-poll.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5ea11597-34c5-4d7b-8aa8-0598d069a7e2/0e21a2d7-7861-47cc-8133-17278c5f44c5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden says Cuomo should resign following damning sexual harassment report"
+    excerpt: "President Biden says Cuomo should resign. Gov. Cuomo sexually harassed current and past staff members."
+    publishedDateTime: 2021-08-03T20:55:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ShvpoGEG1Qk/biden-cuomo-resign-sexual-harassment-report"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cuomo-resign-sexual-harassment-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cuomo-resign-sexual-harassment-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7da2adab-7141-4f0e-a23e-a48537b34302/d8b2f2f3-4e32-4066-98ab-1a4350e6527a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Biden prepares plan requiring foreign travelers to be vaccinated amid border crisis"
-    excerpt: "The Biden administration is currently working on a plan to require foreign nationals traveling into the U.S. to be vaccinated against the coronavirus except for some \"limited exceptions.”"
-    publishedDateTime: 2021-08-05T15:26:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pTJI0t9C_q0/biden-admin-plan-foreign-travelers-vaccinated-border-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-plan-foreign-travelers-vaccinated-border-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-plan-foreign-travelers-vaccinated-border-crisis.amp"
+  - title: "Biden sidesteps question on justification for letting unvaccinated migrants into US"
+    excerpt: "President Biden did not directly address a question from Fox News’ Peter Doocy Tuesday asking why his administration is continuing to allow untested and unvaccinated illegal immigrants into the country while at the same time urging and in some cases mandating that Americans take the coronavirus vaccine."
+    publishedDateTime: 2021-08-03T22:06:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fiA3HesDRxI/biden-dodges-question-on-justification-for-letting-unvaccinated-migrants-into-u-s"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-dodges-question-on-justification-for-letting-unvaccinated-migrants-into-u-s.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dodges-question-on-justification-for-letting-unvaccinated-migrants-into-u-s.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 169
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c33b7e0-001d-4a0e-8e91-cc0189bc3f5b/2fe53756-18f9-4283-ba7b-76d927593c5d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a609792-e0aa-4756-97db-ba0e3880e19a/b30deb6c-d2d1-4a00-b7dc-d68cf274f80d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Stephen Miller's group accuses Biden admin of hiding docs on Supreme Court commission"
-    excerpt: "Fox News exclusively obtained the letter AFL sent to the Biden administration regarding documents pertaining to the Presidential Commission on the Supreme Court."
-    publishedDateTime: 2021-08-12T21:11:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/78fDYJFl9lI/biden-supreme-court-commission-america-first-legal"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-supreme-court-commission-america-first-legal.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-supreme-court-commission-america-first-legal.amp"
+  - title: "Biden administration begins flying migrants expelled via Title 42 into Mexico amid COVID fears"
+    excerpt: "The Biden administration has started flying migrants removed under Title 42 health protections deep into the Mexican interior amid fears over not just rising border numbers, but also an increase in COVID-19 cases related to the delta variant."
+    publishedDateTime: 2021-08-06T16:45:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BrqU4fl7nHE/biden-migrants-expelled-title-42-mexico-covid-fears"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-migrants-expelled-title-42-mexico-covid-fears.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-migrants-expelled-title-42-mexico-covid-fears.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 163
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d9359c2d-9958-4ec7-a829-482f4c382329/b3ff4e74-7195-482f-b18f-15b23d3e7099/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/93f5fa13-ac74-4790-a3c7-d30fac83942b/43215d9f-d3a1-448b-a8eb-da3616e567eb/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Psaki grilled on Cuomo, Biden sexual harassment allegations, says claims against president already ‘litigated’"
-    excerpt: "White House press secretary Jen Psaki fended off questions about sexual misconduct allegations leveled against President Biden Wednesday following the commander-in-chief’s decision to call on embattled New York Gov. Andrew Cuomo to resign following a harassment probe."
-    publishedDateTime: 2021-08-04T23:34:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/o8HBXmciIzY/psaki-cuomo-biden-sexual-harassment"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-cuomo-biden-sexual-harassment.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-cuomo-biden-sexual-harassment.amp"
+  - title: "Biden administration reportedly planning to vaccinate migrants at border to prevent COVID spread"
+    excerpt: "With the number of migrants coming across the border continuing to surge, the Biden administration is reportedly preparing to vaccinate migrants coming into U.S. custody -- amid continued fears of a risk of COVID-19 spreading between migrants, law enforcement and the American public."
+    publishedDateTime: 2021-08-04T15:47:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wvlQ3A0WItY/covid-spread-biden-planning-vaccinate-migrants-border"
+    ampWebUrl: "https://www.foxnews.com/politics/covid-spread-biden-planning-vaccinate-migrants-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/covid-spread-biden-planning-vaccinate-migrants-border.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 155
+    quality: 162
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/720/405/AP21216625636317-e1628113969608.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5ea40f38-5c87-45e1-9db4-d10e1571ec67/f9a1b54b-3116-4eb8-9e4b-4204e771e7b3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Psaki won't say if Biden admin will require migrants to be vaccinated as it considers mandate for legal travel"
-    excerpt: "White House press secretary Jen Psaki did not say Thursday whether the Biden administration will require vaccines for migrants coming across the southern border even as she acknowledged that the administration is considering mandating vaccines for foreign travelers entering the United States."
-    publishedDateTime: 2021-08-05T19:38:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jswom-CdCpw/psaki-biden-migrants-vaccine-covid-foreign-travelers"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-migrants-vaccine-covid-foreign-travelers.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-migrants-vaccine-covid-foreign-travelers.amp"
+  - title: "Republicans torch Biden over report that migrants released without court dates are disappearing into the US"
+    excerpt: "The Biden administration released 50,000 undocumented migrants into the U.S., with only 13% of them appearing to the ICE officials they’re supposed to meet, according to a new report."
+    publishedDateTime: 2021-07-27T22:47:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PwjKVSa1Y34/republicans-torch-biden-migrants-released-no-court-date"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-torch-biden-migrants-released-no-court-date.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-torch-biden-migrants-released-no-court-date.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 155
+    quality: 157
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/116c2c14-b0c6-4e9c-ac6c-9f85a136399b/cef12722-ea7d-473a-ab61-ebc81c17b120/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden to urge Americans to 'stay vigilant' amid COVID threat as he pushes federal workers to get vaccinated"
+    excerpt: "President Biden is expected to deliver a \"strong message\" to vaccinated and unvaccinated Americans Thursday afternoon about the \"need to stay vigilant\" as the nation deals with the spread of the COVID-19 delta variant, sources told Fox News."
+    publishedDateTime: 2021-07-29T19:10:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cuzWpBc3Am4/biden-covid-vaccination-speech-federal-workers"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-covid-vaccination-speech-federal-workers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-covid-vaccination-speech-federal-workers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "‘Do you miss me yet?’: Trump slams Biden over Afghanistan, inflation"
-    excerpt: "Former President Donald Trump lashed out at the Biden administration’s handling of Afghanistan, rising inflation and illegal immigrants, asking: “Do you miss me yet?” The attack came as the"
-    publishedDateTime: 2021-08-13T15:32:00Z
-    webUrl: "https://nypost.com/2021/08/13/trump-criticizes-joe-biden-over-afghanistan-in-email-blast/"
-    ampWebUrl: "https://nypost.com/2021/08/13/trump-criticizes-joe-biden-over-afghanistan-in-email-blast/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/13/trump-criticizes-joe-biden-over-afghanistan-in-email-blast/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-miss-afghanistan-hp.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "McConnell Credits Biden for Infrastructure Breakthrough, Dismisses Trump Criticism"
-    excerpt: "The Senate minority leader credited the president with helping to get the infrastructure bill passed in the Senate, but said he doesn’t anticipate many more opportunities for Republicans to work with Democrats."
-    publishedDateTime: 2021-08-11T08:00:00Z
-    webUrl: "https://www.wsj.com/articles/mcconnell-credits-biden-for-infrastructure-breakthrough-dismisses-trump-criticism-11628672401"
-    ampWebUrl: "https://www.wsj.com/amp/articles/mcconnell-credits-biden-for-infrastructure-breakthrough-dismisses-trump-criticism-11628672401"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/mcconnell-credits-biden-for-infrastructure-breakthrough-dismisses-trump-criticism-11628672401"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 144
-    images:
-      - url: "https://images.wsj.net/im-383642/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Pompeo: Biden failing to execute Afghan withdrawal, Trump warned Taliban of consequences"
-    excerpt: "Former Secretary of State Mike Pompeo called out the Biden administration for what he described as poor planning and poor execution of a U.S. troop withdrawal from Afghanistan, which may lead to the nation's capital of Kabul to fall to Taliban insurgents within the next 3 months."
-    publishedDateTime: 2021-08-12T22:25:00Z
-    webUrl: "https://www.foxnews.com/media/pompeo-biden-failing-to-execute-afghan-withdrawal-trump-warned-taliban-of-consequences"
-    ampWebUrl: "https://www.foxnews.com/media/pompeo-biden-failing-to-execute-afghan-withdrawal-trump-warned-taliban-of-consequences.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/pompeo-biden-failing-to-execute-afghan-withdrawal-trump-warned-taliban-of-consequences.amp"
+  - title: "Army combat veteran who owns steel company asks Biden to bring back 'Made in America' showcase"
+    excerpt: "An Alabama Army combat veteran whose business had taken a hit because of rising steel prices is calling on President Joe Biden to reinstate a Trump Administration tradition to honor American-made products at a time, he says, when businesses could really use the morale boost. "
+    publishedDateTime: 2021-07-25T00:49:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sUxypw7MHEQ/army-combat-veteran-who-owns-steel-company-asks-biden-to-bring-back-made-in-america-showcase"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 141
+    quality: 143
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c505be5b-7fe5-4a10-b256-fbc6b1e6a2f1/272c5604-5105-47e9-88ac-0be2cd6b1b4d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Colin-Wayne-Redline-Steel.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Washington Post gushes over Biden's Buy American initiative after torching Trump's 'racist' approach"
+    excerpt: "Former President Trump's \"Buy American\" initiative was once dismissed as \"dark,\" isolating, and even \"racist\" among mainstream media outlets, who repeatedly tore into the former president over his administration's unconventional economic approach."
+    publishedDateTime: 2021-07-30T01:06:00Z
+    webUrl: "https://www.foxnews.com/media/selective-amnesia-wapo-gushes-over-bidens-buy-american-initiative-after-torching-trumps-racist-approach"
+    ampWebUrl: "https://www.foxnews.com/media/selective-amnesia-wapo-gushes-over-bidens-buy-american-initiative-after-torching-trumps-racist-approach.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/selective-amnesia-wapo-gushes-over-bidens-buy-american-initiative-after-torching-trumps-racist-approach.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3b52f2ee-e833-4cda-ad75-60a7b185cb35/3bad51d7-54b2-4df2-a69b-e7c719eac993/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "'Judge Jeanine' on Biden's COVID messaging, defund the police movement"
+    excerpt: "The charity needs to tell the local officials especially if they are COVID positive. And what I'm asking from the Biden administration is to do a pass. Do a pass. (END VIDEO CLIP) PIRRO: When Texas Governor Greg Abbott had enough of Biden's releasing COVID infected illegals into Texas border towns,"
+    publishedDateTime: 2021-08-02T12:38:00Z
+    webUrl: "https://www.foxnews.com/transcript/judge-jeanine-on-bidens-covid-messaging-defund-the-police-movement"
+    ampWebUrl: "https://www.foxnews.com/transcript/judge-jeanine-on-bidens-covid-messaging-defund-the-police-movement.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/judge-jeanine-on-bidens-covid-messaging-defund-the-police-movement.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/61f482a1-6ccc-4e0c-8369-96a5aedb833a/81e94bfb-ca2d-49df-aff6-426577c98636/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -207,70 +221,70 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Tara Reade fires back after Jen Psaki claims Biden allegations were 'heavily litigated' during election"
-    excerpt: "Tara Reade, the former Senate staffer who alleged last year that Joe Biden sexually assaulted her in 1993, fired back at White House Press Secretary Jen Psaki claimed that the allegations made against the president were “heavily litigated” during the 2020 election cycle."
-    publishedDateTime: 2021-08-05T02:13:00Z
-    webUrl: "https://www.foxnews.com/media/tara-reade-jen-psaki-biden-allegations-cuomo"
-    ampWebUrl: "https://www.foxnews.com/media/tara-reade-jen-psaki-biden-allegations-cuomo.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tara-reade-jen-psaki-biden-allegations-cuomo.amp"
+  - title: "Lt. Gov. Patrick torches Biden over border failure, COVID crisis: 'This is insanity'"
+    excerpt: "President Biden's border crisis is spiraling out of control while coronavirus cases are spiking throughout the US."
+    publishedDateTime: 2021-07-29T19:12:00Z
+    webUrl: "https://www.foxnews.com/media/lt-gov-patrick-torches-biden-over-border-failure"
+    ampWebUrl: "https://www.foxnews.com/media/lt-gov-patrick-torches-biden-over-border-failure.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lt-gov-patrick-torches-biden-over-border-failure.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 134
+    quality: 128
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/217a58f3-a01e-4ac1-8f6d-dec17ec267fb/fce8c9ce-aef7-41f3-adbb-2a597c5e53dc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0676ce2c-ec81-4fd6-b6b4-f77de2c49983/0325e996-59ca-4eb1-a758-172087d82910/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Psaki ‘not aware of plans’ for Joe Biden to attend Hunter’s pricey art show"
-    excerpt: "The first son is asking as much as $500,000 for his paintings from anonymous buyers, which ethics experts say are inflated prices based on his dad’s official position."
-    publishedDateTime: 2021-08-11T19:43:00Z
-    webUrl: "https://nypost.com/2021/08/11/psaki-not-aware-of-plans-for-joe-biden-to-attend-hunters-pricey-art-show/"
-    ampWebUrl: "https://nypost.com/2021/08/11/psaki-not-aware-of-plans-for-joe-biden-to-attend-hunters-pricey-art-show/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/11/psaki-not-aware-of-plans-for-joe-biden-to-attend-hunters-pricey-art-show/amp/"
+  - title: "Gutfeld: Biden struck 'right tone' in COVID speech, but returned to 'us versus them political bifurcation'"
+    excerpt: "The panel on \"The Five\" reacted Thursday to President Biden's White House address on the federal government's COVID-19 standards and his personal reservations about Americans who remain unvaccinated."
+    publishedDateTime: 2021-07-29T22:37:00Z
+    webUrl: "https://www.foxnews.com/media/gutfeld-biden-struck-right-tone-in-covid-speech-but-returned-to-us-versus-them-political-bifurcation"
+    ampWebUrl: "https://www.foxnews.com/media/gutfeld-biden-struck-right-tone-in-covid-speech-but-returned-to-us-versus-them-political-bifurcation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/gutfeld-biden-struck-right-tone-in-covid-speech-but-returned-to-us-versus-them-political-bifurcation.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 133
+      name: Fox News
+      domain: foxnews.com
+    quality: 117
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/hunter-biden-art-show-hp.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2cf5cb1c-d5e9-45fd-b1a8-8b05f1559f00/9d26c49a-dc88-4028-8313-4a83dcedf3a7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
-  - title: "Biden Admits Green New Deal Is a Dream"
-    excerpt: "\"What the IPCC told us is what President Biden has believed all along,\" White House press secretary Jen Psaki noted on Tuesday. \"Climate change is an urgent threat that requires bold action.\" The very next day,"
-    publishedDateTime: 2021-08-13T11:28:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/08/13/biden_admits_green_new_deal_is_a_dream_146243.html"
+  - title: "DeSantis To Biden On COVID Restrictions: \"I'm Standing In Your Way\""
+    excerpt: "Biden shared his disapproval of Florida's response to the coronavirus pandemic during a speech Tuesday, lamenting that \"just two states, Florida and Texas, account for one-third of all new COVID-19 cases in the entire country."
+    publishedDateTime: 2021-08-04T19:29:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/08/04/desantis_fires_back_at_biden_on_covid_restictions_im_standing_in_your_way.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/08/04/desantis_fires_back_at_biden_on_covid_restictions_im_standing_in_your_way.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/08/04/desantis_fires_back_at_biden_on_covid_restictions_im_standing_in_your_way.amp.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 65
+    quality: 85
     images:
-      - url: "https://assets.realclear.com/images/55/550662_5_.jpg"
+      - url: "https://assets.realclear.com/images/54/549916.jpg"
         width: 750
-        height: 500
+        height: 562
         isCached: true
-  - title: "6 Things Biden Could Do About Covid If He Is Serious"
-    excerpt: "Here's what Joe Biden should do if he is actually serious about handling the pandemic and not just playing politics. Read Full Article »"
-    publishedDateTime: 2021-08-08T19:31:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/08/08/6_things_biden_could_do_about_covid_if_he_is_serious_548998.html"
+  - title: "Glenn Greenwald: The Biden Administration Is Launching A \"Second War On Terror\" Against American Citizens"
+    excerpt: "Glenn Greenwald discusses reporting that FBI agents were involved more closely in an alleged 2020 plot to kidnap the governor of Michigan than they previously admitted. JESSE WATTERS: \"BuzzFeed\" is reporting there are twice as many FBI agents involved in this plot than there were plotters."
+    publishedDateTime: 2021-07-25T18:13:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/25/glenn_greenwald_the_biden_administration_is_launching_a_second_war_on_terror_against_american_citizens.html?jwsource=cl#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/25/glenn_greenwald_the_biden_administration_is_launching_a_second_war_on_terror_against_american_citizens.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/25/glenn_greenwald_the_biden_administration_is_launching_a_second_war_on_terror_against_american_citizens.amp.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 45
-  - title: "This Afghan Rout Is Entirely on Joe Biden"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-08-13T11:28:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/08/12/this_afghan_rout_is_entirely_on_joe_biden_549316.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
+    quality: 68
+    images:
+      - url: "https://assets.realclear.com/images/52/525625.jpg"
+        width: 808
+        height: 606
+        isCached: true
 
 secured: "+XJ8mABX30SctVmYeqfFEJhgGwpBHHdq2BPFK6ucdHx5GJVe1V3OyiM6sm9knm16xxq9GEfGHWAw8wun9yM1nGpMvpffUTFoWxgI8LunHfJxFImRYoeqBS3SoRsqklxI/xn69BGYKOJ0VkXUoWPoXmJcrnJuwF4Do4/5DIXCdabRuUyEIZ4t0y+L57m7SFz9uWKqAH0hK9ufhQC2evUMEcQEV0F3Tbp3y2Lm88c/xUm4fcfaWdhT3U1MiS1nAs8FhQ+MhV3F9gHQaezdFBCqVXD1wdNCBkSl1HS22EbaJfogXoh/EfrcAN3TG7hQhY0rNrmiUQcH5xK+a87H3iXVDK5smfsSGffujK56nrk81mc=;Fj9+eXeEsjtUX8/eRYf/zw=="
 ---

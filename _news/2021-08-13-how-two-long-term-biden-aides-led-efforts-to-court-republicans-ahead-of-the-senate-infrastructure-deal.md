@@ -191,6 +191,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Top Republican on foreign affairs committee slams Biden over 'unmitigated disaster' in Afghanistan"
+    excerpt: "The top Republican on the House Foreign Affairs Committee slammed the Biden administration over the rapidly deteriorating situation in Afghanistan on Sunday, calling it an \"unmitigated disaster of epic proportions\" that could lead to dire consequences.\n    \n"
+    publishedDateTime: 2021-08-15T15:24:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2H4YWLWlQcE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/15/politics/michael-mccaul-afghanistan-withdrawal-criticism-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/15/politics/michael-mccaul-afghanistan-withdrawal-criticism-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210530134015-michael-mccaul-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Joe Biden is taking a calculated risk in Afghanistan"
     excerpt: "While the US is leaving the war, the people of Afghanistan can't. The President's decision could hasten the Taliban's toppling of Afghanistan's tenuous democracy, ushering in a new fundamentalist dark age."
     publishedDateTime: 2021-04-15T23:19:00Z

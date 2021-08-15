@@ -159,6 +159,36 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Psaki grilled on Cuomo, Biden sexual harassment allegations, says claims against president already ‘litigated’"
+    excerpt: "White House press secretary Jen Psaki fended off questions about sexual misconduct allegations leveled against President Biden Wednesday following the commander-in-chief’s decision to call on embattled New York Gov. Andrew Cuomo to resign following a harassment probe."
+    publishedDateTime: 2021-08-04T23:34:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/o8HBXmciIzY/psaki-cuomo-biden-sexual-harassment"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-cuomo-biden-sexual-harassment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-cuomo-biden-sexual-harassment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/720/405/AP21216625636317-e1628113969608.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden Admits Green New Deal Is a Dream"
+    excerpt: "\"What the IPCC told us is what President Biden has believed all along,\" White House press secretary Jen Psaki noted on Tuesday. \"Climate change is an urgent threat that requires bold action.\" The very next day,"
+    publishedDateTime: 2021-08-13T11:28:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/08/13/biden_admits_green_new_deal_is_a_dream_146243.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/55/550662_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "IOb/PAuS9UJ5dGalAlRPMbsKaDwGKgzAcvtCnYUQJIwQ5rebXANyPx2HZHjyfvZCA/z3OKmtdN3HqokewxbTYpxR4F7cd762lWZ0JVahi0OFaK3Dbt0te36NsqO2WT31otELDpdnVvs2NZXKLvuDKmG7IAZMBjVNuc4664ZE/ALWBD9LNam45FWICKzVu4HfkLwio2QdIW+2yUo/MMbhqLy2hyzzIIT1J4By6h4znx3vZa9i+fesXGBzLZD1XI0UaUOpcKIuTJ8qYfoQPmhmO0g1zZrBtL1HacgLs24knJvUXaiBvMn4zKhdqUCcRM0JZnj32hY6z2yl+q5KM00856mSlDhO6nmF7sN/9YCIg3s=;fFQfywuFKeFs+VvFiCkFhQ=="
 ---

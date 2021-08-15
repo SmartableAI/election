@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-adviser-anita-dunn-leaves-whi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-adviser-anita-dunn-leaves-white-house.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -79,6 +79,15 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "6 Things Biden Could Do About Covid If He Is Serious"
+    excerpt: "Here's what Joe Biden should do if he is actually serious about handling the pandemic and not just playing politics. Read Full Article »"
+    publishedDateTime: 2021-08-08T19:31:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/08/08/6_things_biden_could_do_about_covid_if_he_is_serious_548998.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "PYQWJ06sq8KlLW0E6HiaNHmWUq13FzgNZ56Lj3GZ3hSL/oOB7ipDLNm70Alrfd6TbBkTmZZ6jiKzNICol6dV1XlDwJdAUPROSq8h63/NbU/k7t82OIKYz2RNEDdbttFI6Bw+jOpSZE+SRX0UogDk3qZK3yfNid10J0aNpNWzK5ijCpy+bAHw0cNP9scAaSKHBliYYfLw3mowXKM4S0QEEbBO3ByKwoxuzGeRLHJYGseHJhAlMSSVmmZGa4abXUYpZuw5UA6A0oHEPuf6vZlqsoDHRQBEbVCylbRYNnolYE26kyVIa0Xh7WZb6q5t8Zf4Mim/PgeppcaXrXZPSbwsm8QbYJOVpgoY2Bk9+inntqA=;344kX97mObq/6b40ebTPHw=="
 ---

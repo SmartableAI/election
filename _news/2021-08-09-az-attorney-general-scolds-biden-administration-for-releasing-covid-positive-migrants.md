@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/az-attorney-general-scolds-biden-ad
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/az-attorney-general-scolds-biden-administration-for-releasing-covid-positive-migrants.amp"
 type: article
 quality: 168
-heat: 208
+heat: 228
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3d62eb1e-9fd6-41ee-a672-2512e5fbcd11/834d4d79-eb36-4eae-857d-a375eadbcdf0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Immigration advocates blast Biden’s ‘cruel, unlawful’ migrant policy"
+    excerpt: "Scores of immigration advocacy groups slammed the Biden administration’s “cruel, unlawful and ineffective” policy that involves sending migrants arrested at the US-Mexican border"
+    publishedDateTime: 2021-08-15T15:36:00Z
+    webUrl: "https://nypost.com/2021/08/15/immigration-advocates-blast-bidens-migrant-policy/"
+    ampWebUrl: "https://nypost.com/2021/08/15/immigration-advocates-blast-bidens-migrant-policy/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/15/immigration-advocates-blast-bidens-migrant-policy/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/border-migrants-005.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "TnHrQnXqB45OJV4KH0fFwL+2BhrxP5hx289ARdw0f+tXDVK2qb4nHSY9ZK6frunXzrqK9E5rz745A8lz42CsWoK2wkX2N1Z8RTWk1OiOJGg9YD3FF+9MuKigKf0i4KlK5fxR3r1clMemNkGOT8j+mtoIZrijl/rW02voRokj8gBWAXldYT/NKey4rLxKKXG/kblpFJksDCgx+zfM1Y5P2tVdfUE1AnXia3peG5iwrGPfotXbnh1Cwrrbp56jNzAJx/xssxlxlSwqMj3nLQugjOs+u+AyQmHMK7GxSCzAZIfYBRznTdGI//72kS0IJjhxJ+N00It20HdtQcRAexTzQu7dCI72xZeN9RUIDGy7+4E=;1Xz0Krti5KKlugZczWq1/A=="

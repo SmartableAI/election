@@ -63,6 +63,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Immigration advocates blast Biden’s ‘cruel, unlawful’ migrant policy"
+    excerpt: "Scores of immigration advocacy groups slammed the Biden administration’s “cruel, unlawful and ineffective” policy that involves sending migrants arrested at the US-Mexican border"
+    publishedDateTime: 2021-08-15T15:36:00Z
+    webUrl: "https://nypost.com/2021/08/15/immigration-advocates-blast-bidens-migrant-policy/"
+    ampWebUrl: "https://nypost.com/2021/08/15/immigration-advocates-blast-bidens-migrant-policy/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/15/immigration-advocates-blast-bidens-migrant-policy/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/border-migrants-005.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "5uDxhCN0eYq/9AcKm3WG+lBBwMeVcDnOBhmR9/wPrWcg5pzEpR44BYaZTQfA1A8LnPWQx+t24oG2KGZUMFEUEDCiKeZskVZPGtpiwOl97Aknj8cluorOlCcFmgEECJKsKkvLXaCVJeik14B8ExH5EKEnvrLSHfeFd2AhtNvVvkbuMDnID9tJTQ6dLUG1+pkqe73QBDinv+urZjIPP8vvoleN+2YMvCMUS6+nSYT41PGJHn4KS5gYB4295bl1ALyjElcwypBvUp/P5HF/BVohZmzuF86qPe5okhX1c1uMysZgKAAY7vVtRNYpb6Fv/7JioKL45gGbAM5pl1HSuPigEIfjgbP1zsug/xsoIpnbL20=;h/moUajm2K2mVk7Wwckhrw=="
 ---

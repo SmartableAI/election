@@ -89,6 +89,22 @@ related:
         width: 3000
         height: 2001
         isCached: true
+  - title: "CNN's Jake Tapper Confronts Blinken on Biden Bearing Blame for 'Disastrous' Afghanistan Exit"
+    excerpt: "\"The rapidity, the hastiness,\" Tapper said. \"Does President Biden not bear the blame for this disastrous exit from Afghanistan?\""
+    publishedDateTime: 2021-08-15T15:14:00Z
+    webUrl: "https://www.newsweek.com/cnns-jake-tapper-confronts-blinken-biden-bearing-blame-disastrous-afghanistan-exit-1619486"
+    ampWebUrl: "https://www.newsweek.com/cnns-jake-tapper-confronts-blinken-biden-bearing-blame-disastrous-afghanistan-exit-1619486?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cnns-jake-tapper-confronts-blinken-biden-bearing-blame-disastrous-afghanistan-exit-1619486?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1871505/antony-blinken-biden-afghanistan.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "EXPLAINER: The impact of Joe Biden's new fuel economy rules"
     excerpt: "President Joe Biden wants to erase Donald Trump's rollback of automobile pollution and fuel economy standards. He proposed new rules Thursday and unveiled a nonbinding deal with most automakers to have electric,"
     publishedDateTime: 2021-08-06T11:21:00Z

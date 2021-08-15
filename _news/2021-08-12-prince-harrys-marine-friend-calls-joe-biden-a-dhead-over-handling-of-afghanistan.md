@@ -79,6 +79,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "CNN's Jake Tapper Confronts Blinken on Biden Bearing Blame for 'Disastrous' Afghanistan Exit"
+    excerpt: "\"The rapidity, the hastiness,\" Tapper said. \"Does President Biden not bear the blame for this disastrous exit from Afghanistan?\""
+    publishedDateTime: 2021-08-15T15:14:00Z
+    webUrl: "https://www.newsweek.com/cnns-jake-tapper-confronts-blinken-biden-bearing-blame-disastrous-afghanistan-exit-1619486"
+    ampWebUrl: "https://www.newsweek.com/cnns-jake-tapper-confronts-blinken-biden-bearing-blame-disastrous-afghanistan-exit-1619486?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cnns-jake-tapper-confronts-blinken-biden-bearing-blame-disastrous-afghanistan-exit-1619486?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1871505/antony-blinken-biden-afghanistan.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Rush of troops to Kabul tests Biden’s withdrawal deadline"
     excerpt: "The last-minute decision to send 3,000 U.S. troops to Afghanistan to help partially evacuate the U.S. Embassy is calling into question whether President Joe Biden will meet his Aug."
     publishedDateTime: 2021-08-14T13:22:00Z

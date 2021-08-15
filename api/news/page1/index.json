@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-15-biden-administration-struggles-to-project-order-as-taliban-enters-kabul.md",
+      "title": "Biden administration struggles to project order as Taliban enters Kabul",
+      "excerpt": "President Joe Biden and his administration struggled Sunday to project order amid a race by American and other foreign personnel to evacuate Afghanistan as Taliban fighters entered Kabul.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oD9xOBuzblk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oD9xOBuzblk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210815102517-antony-blinken-august-15-2021-screengrab-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/15/politics/biden-administration-taliban-kabul-afghanistan/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/15/politics/biden-administration-taliban-kabul-afghanistan/index.html",
+      "publishedDateTime": "2021-08-15T08:03:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-15-pompeo-biden-failed-in-afghanistan-withdrawal-plan-is-pathetic-for-blaming-trump.md",
+      "title": "Pompeo: Biden 'failed' in Afghanistan withdrawal plan, is 'pathetic' for blaming Trump",
+      "excerpt": "Former Secretary of State Mike Pompeo said that the Biden administration has \"failed\" in its withdrawal from Afghanistan as the Taliban is poised to retake control of the country as the U.S. is ending its nearly 20-year military presence there.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3_jx8XD5USY/pompeo-biden-admin-failed-in-afghanistan-taliban-takeover",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3_jx8XD5USY/pompeo-biden-admin-failed-in-afghanistan-taliban-takeover",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 442,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pompeo-biden-admin-failed-in-afghanistan-taliban-takeover.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-biden-admin-failed-in-afghanistan-taliban-takeover.amp",
+      "publishedDateTime": "2021-08-15T07:16:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-15-heres-what-happened-at-mike-lindells-cyber-symposium-from-him-storming-offstage-to-bolsonaros-son-giving-him-a-maga-hat-signed-by-trump.md",
       "title": "Here's what happened at Mike Lindell's cyber symposium, from him storming offstage to Bolsonaro's son giving him a MAGA hat signed by Trump",
       "excerpt": "Speakers at Mike Lindell's 72-hour cyber symposium event included Ronald Watkins, Steve Bannon, and the son of Brazilian President Jair Bolsonaro.",
@@ -66,7 +178,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 250,
+      "heat": 270,
       "tags": null,
       "images": [
         {
@@ -245,62 +357,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-14-mccarthy-slams-bidens-afghanistan-withdrawal-as-embarrassment-to-our-nation.md",
-      "title": "McCarthy slams Biden's Afghanistan withdrawal as 'embarrassment to our nation'",
-      "excerpt": "House Minority Leader Kevin McCarthy, R-Calif., slammed President Biden's \"complete mismanagement\" of the withdrawal of troops from Afghanistan and called for the U.S. military to continue to provide \"close air support\" to combat the surging Taliban forces. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dHVp8WEUaCE/mccarthy-slams-biden-afghanistan-withdrawal",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dHVp8WEUaCE/mccarthy-slams-biden-afghanistan-withdrawal",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 251,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mccarthy-slams-biden-afghanistan-withdrawal.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-slams-biden-afghanistan-withdrawal.amp",
-      "publishedDateTime": "2021-08-14T11:13:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     },
     {
@@ -989,7 +1045,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 235,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -1237,62 +1293,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-biden-epa-nominee-touted-defund-the-police-on-chinese-state-tv.md",
-      "title": "Biden EPA nominee touted ‘defund the police’ on Chinese state TV",
-      "excerpt": "President Biden’s controversial nominee for a leadership position at the EPA touted the “defund the police” movement during an appearance on Chinese state television last year.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YoXnpKby1wM/biden-epa-nominee-touted-defund-the-police-on-chinese-state-tv",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YoXnpKby1wM/biden-epa-nominee-touted-defund-the-police-on-chinese-state-tv",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b3ac8cfd-6cc0-4eab-8ee3-3a37e79ac5ab/2c2cc00c-5c03-457f-9374-f7cfdea369c1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-epa-nominee-touted-defund-the-police-on-chinese-state-tv.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-epa-nominee-touted-defund-the-police-on-chinese-state-tv.amp",
-      "publishedDateTime": "2021-08-12T13:04:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

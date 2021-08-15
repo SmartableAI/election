@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/11/politics/fda-chief-nomination-str
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/11/politics/fda-chief-nomination-struggles/index.html"
 type: article
 quality: 165
-heat: 165
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Biden administration struggles to project order as Taliban enters Kabul"
+    excerpt: "President Joe Biden and his administration struggled Sunday to project order amid a race by American and other foreign personnel to evacuate Afghanistan as Taliban fighters entered Kabul.\n    \n"
+    publishedDateTime: 2021-08-15T15:03:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oD9xOBuzblk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/15/politics/biden-administration-taliban-kabul-afghanistan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/15/politics/biden-administration-taliban-kabul-afghanistan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210815102517-antony-blinken-august-15-2021-screengrab-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "RqtvBiGIDltnxmADmN6zKOJ4vxCLfiM7/TDpS3U8TFve/bRDc0LgDUVwuJk2D3YR1B6ijeF0fTqX4gDVb3dalkgxBLANtxJvq6cPC07SVlfH79N+mE1wdWbhXHCeNsOyu2V36rW3svCvkKBcUEXHcmemWxgFNhK3Hs9CFDp5FkYwXDbZ6YmyJJ81AlUo9Yx4CrWe1W8wM6JtP3RV//9mNM12Ny8YMoUaJXAUR9BtrHK42L4XinG7JxvBTc0/Zj554EbWoEEzc3A8rhk1IimFoE3eZkipDqyT/Nc4GWN7xOOvJwvUPPCWH8siz3bN2uUn4HyloAINfreVi30L85YzW9e7RORWPsUQwFjCtUFeUZk=;fZDYaV9+HXnJak5s7LzbCw=="
 ---

@@ -63,22 +63,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "All eyes on Biden's response to COVID variants, Afghanistan, border crisis, inflation"
-    excerpt: ""
-    publishedDateTime: 2021-08-14T15:05:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jnGeOElIWNk/biden-response-covid-afghanistan-border-inflation"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-response-covid-afghanistan-border-inflation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-response-covid-afghanistan-border-inflation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd25a285-c918-41c0-9457-cc079ae539d2/3ab06f84-ef1f-4f92-9e7f-0cfefaac564b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Taliban surges as Biden pulls US troops out of Afghanistan, with experts warning of 'foreign policy disaster'"
     excerpt: "Taliban forces are gaining momentum, pushing the Afghanistan government's forces out of several districts and taking control of various weapons and military vehicles in the process, while the U.S. withdraws from the country."
     publishedDateTime: 2021-07-06T14:47:25Z
