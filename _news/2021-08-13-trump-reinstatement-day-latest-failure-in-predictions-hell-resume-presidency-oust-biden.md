@@ -175,20 +175,20 @@ related:
         height: 632
         isCached: true
   - title: "The Latest: Biden praises school leaders for mask stance"
-    excerpt: "President Joe Biden has called school district superintendents in Florida and Arizona, praising them for doing what he called “the right thing” after their respective boards implemented mask requirements in defiance of their Republican governors amid growing COVID-19 infections."
-    publishedDateTime: 2021-08-15T03:46:00Z
-    webUrl: "https://www.bellinghamherald.com/entertainment/article253489409.html"
-    ampWebUrl: "https://amp.bellinghamherald.com/entertainment/article253489409.html"
-    cdnAmpWebUrl: "https://amp-bellinghamherald-com.cdn.ampproject.org/c/s/amp.bellinghamherald.com/entertainment/article253489409.html"
+    excerpt: "The White House said in a statement Saturday that the Democratic president had spoken with interim Broward Superintendent Vickie Cartwright in Florida and Phoenix Union High School District Superintendent Chad Gestson in Arizona."
+    publishedDateTime: 2021-08-15T05:40:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/The-Latest-Australia-state-reports-record-daily-16386751.php"
+    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/The-Latest-Australia-state-reports-record-daily-16386751.php"
+    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/The-Latest-Australia-state-reports-record-daily-16386751.php"
     type: article
     provider:
-      name: The Bellingham Herald
-      domain: bellinghamherald.com
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
     quality: 75
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998020001/5e584b6a-e29d-498e-b7a1-33a26295d55c/dee19b34-74d4-485d-95ef-7b27f95faf7e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "President Joe Biden orders 1,000 more troops to aid Afghanistan departure"
     excerpt: "President Joe Biden authorized on Saturday an additional 1,000 U.S. troops for deployment to Afghanistan, raising to roughly 5,000 the number of U.S. troops to ensure what Biden called an “orderly and safe drawdown” of American and allied personnel."

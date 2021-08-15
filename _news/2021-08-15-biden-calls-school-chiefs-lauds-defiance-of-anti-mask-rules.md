@@ -1,30 +1,24 @@
 ---
 category: news
 title: "Biden calls school chiefs, lauds defiance of anti-mask rules"
-excerpt: "The President commended their leadership and courage to do the right thing for the health and well-being of their students, teachers, and schools,” the statement said."
-publishedDateTime: 2021-08-14T23:34:00Z
-originalUrl: "https://www.detroitnews.com/story/news/nation/coronavirus/2021/08/14/biden-calls-school-chiefs-lauds-defiance-anti-mask-rules/8139636002/"
-webUrl: "https://www.detroitnews.com/story/news/nation/coronavirus/2021/08/14/biden-calls-school-chiefs-lauds-defiance-anti-mask-rules/8139636002/"
-ampWebUrl: "https://amp.detroitnews.com/amp/8139636002"
-cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/8139636002"
+excerpt: "President Joe Biden has called school district superintendents in Florida and Arizona, praising them for doing what he called “the right thing” after their respective boards implemented mask requirements in defiance of their Republican governors amid growing COVID-19 infections."
+publishedDateTime: 2021-08-15T04:30:00Z
+originalUrl: "https://www.sunherald.com/news/health/article253497254.html"
+webUrl: "https://www.sunherald.com/news/health/article253497254.html"
+ampWebUrl: "https://amp.sunherald.com/news/health/article253497254.html"
+cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/health/article253497254.html"
 type: article
-quality: 75
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Detroit News
-  domain: detroitnews.com
+  name: Biloxi Sun Herald
+  domain: sunherald.com
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://www.gannett-cdn.com/presto/2021/08/14/PDTN/e19d9fd7-07f7-42ce-bcc4-feb694b857bd-AP21222489639893.jpg?auto=webp&crop=4199,2362,x0,y0&format=pjpg&width=1200"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "Grim Afghan news raises risk for Biden of Taliban takeover"
@@ -208,6 +202,6 @@ related:
       domain: usnews.com
     quality: 31
 
-secured: "2i3pyBigBW+G99nMQyhQVfla/nYq770yq0gMjcEPLN+OAeORfyeqRgyv7PIjdoEVqUjdWuknFBNwp/SHU2GRrZmp6pvEY/ghFB1OWxTyhTTohCjXJmfwkJMD7cy7cNi86PuK6Hcry0TzO7ayIrUCHk4G+VreWGTePvU1XPL4Bfm0bi+DVUleTME80WEsNiSJNv4FEOxlCJWiKx9y8tLVbUfqHJILpljYCAYz7yPzGeLF7qgvU1P4iju0bKm7X+c4bKB9N40XjirqcMUmq6/RxYbwwRPvQmKaZcBSQCpKKv4hp/Puk9rieG3RV8qCGUPkKK6gt7mPb3SzdAUJP5kpPN+c5WgNSahATBFnHxLJ9cg=;WVM6HojnbeAsb6JhGvNsZA=="
+secured: "c/eH1upqKQwXBwNM+V2SSkP6agEIslPlCk/8UWqlaVUB6TOWlkR+34dokHzE5kuzilAYpMJn85YG5Z6Wge+AANw61yIoWJ4BncDCbSh/SvO18JNkh5JqwYpzLes5weWFaVssRYUuBWse6NmXlWiLuHOJ7CVFmcSIj1eCkfgAV67+In+JfBJveiR2M+E3MIscImlkEDnDm97CRDwMdmCmj0MCQ+YF3h7E2jEjFPZDLXvgWpsPliFNfENDIksFFB3aVqxj8zyBsxaCU52yapRkkEFfZozr9ur5pIhhNbKWp0SK787yoYZzExnoB9Lm0xfXltwjZ4o5bxvu7huBPockcy+OxgDIZPr31Q+WD9ilqG4gkE/CoDKGcmLB/iGKxUpICeDkh0DCFRNWEncTMS7QbOWrBjW+Hylciv0qpx5FUXDNcWLUCgaRwbfK8ibEgU/UsB/EDz4D+dMx7476eOaXvtQcdn7KYn9E5iozyqWa/hbUQQ6Z/cQNQFYrQoS96sQMg8UJ/aXkGR0iXtlpjUTIag==;ZvRuF+0TBgSWOdw7ZQvaCw=="
 ---
 
