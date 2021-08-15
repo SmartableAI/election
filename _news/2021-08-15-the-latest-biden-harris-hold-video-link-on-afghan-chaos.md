@@ -1,27 +1,29 @@
 ---
 category: news
 title: "The Latest: Biden, Harris hold video link on Afghan chaos"
-excerpt: "The Latest developments on Afghanistan, where a weeklong Taliban offensive is now approaching the outskirts of the capital, Kabul, after the insurgents captured most of the north, west and south"
-publishedDateTime: 2021-08-14T19:45:00Z
-originalUrl: "https://www.djournal.com/news/nation-world/the-latest-biden-harris-hold-video-link-on-afghan-chaos/article_d5883392-7025-5f1e-9fd6-727e5bbe8a5b.html"
-webUrl: "https://www.djournal.com/news/nation-world/the-latest-biden-harris-hold-video-link-on-afghan-chaos/article_d5883392-7025-5f1e-9fd6-727e5bbe8a5b.html"
+excerpt: "WASHINGTON — President Joe Biden and Vice President Kamala Harris have held a secure video conference on Saturday morning with national security officials in response to the worsening situation in Afghanistan."
+publishedDateTime: 2021-08-15T00:53:00Z
+originalUrl: "https://www.mrt.com/news/article/The-Latest-Czech-diplomats-to-be-evacuated-to-16387129.php"
+webUrl: "https://www.mrt.com/news/article/The-Latest-Czech-diplomats-to-be-evacuated-to-16387129.php"
+ampWebUrl: "https://www.mrt.com/news/amp/The-Latest-Czech-diplomats-to-be-evacuated-to-16387129.php"
+cdnAmpWebUrl: "https://www-mrt-com.cdn.ampproject.org/c/s/www.mrt.com/news/amp/The-Latest-Czech-diplomats-to-be-evacuated-to-16387129.php"
 type: article
-quality: 70
+quality: 90
 heat: -1
 published: false
 
 provider:
-  name: Daily Journal
-  domain: djournal.com
+  name: Midland Reporter-Telegram
+  domain: mrt.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/d/c0/dc0f927b-405b-5673-8433-e90fe94c3a68/6117e19da3aa3.image.jpg?resize=1120%2C630"
-    width: 1120
-    height: 630
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -1705,6 +1707,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "/rifwlPSWmbwqMfyGjwUwy4WLz9C/BTumo89PPe3dR5eyKS6u+xYN98SqeA/KgVp43abXblw0t6sadqRergq3hmuNvmSVa2h2ZUO3pzArkX8G/OUmcG+b4eKLczF2iOgC8XLKGz+C8ctw01wSvgunqzLbgcpCEDmZ9hJ9+EGiXHnbekZDbXCrPOHF1E4K48vfZHMcT0e0NKTqpLQHCKD5Out4tNBUKIK5JdxkzN5pYrPmYI8gRb5wSB3JlKCB/Us4RKF9/Jjv6srD7jIYWgylSwU/qSYhvhYCmncICetbYaxxsONKxjIjfzATaxqEVPBeoml+8pgJBn76n3flq6l/5nW5iabK1/ZcYy2ce97xwg=;bguPuDA9bab2fMN/RjdaTg=="
+secured: "T6AAOyWUa4lfRxXuwDsqqZFIYUTIIrD7VW5sAaB23RfegY1kN76iqckSYxwBSUYBIaWYVLyuv23ICPgmf6Q5XieQYSUQkp1x4XjSL8OEHiq7gj9Xf+FKhH4a83AbMbgnhVQ/u0/pwlmTschNARNA9XeiFW6E7CSAOpwd7glKVnHZDFdRzVa7rZ7b+eZUew/dPM0WRQ6+DSwy22NHMJiZO657OGvvdlm5agPsLtNpPvr1y+sslNaQefZcDe4kn23wX1W48bR82BZuj60socas7aqMmFs+PrH8joMhcIDJcAXq+Mb2qy4bRiH9OFiwEn6XsmXMFZU6beGjqJrcvGrgMbmm3dxPrBd0r7500P9EI/Q=;i4TZn/cy3UJEkRP0YakS3g=="
 ---
 

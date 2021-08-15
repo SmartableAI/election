@@ -1008,6 +1008,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "The Latest: Biden, Harris hold video link on Afghan chaos"
+    excerpt: "WASHINGTON — President Joe Biden and Vice President Kamala Harris have held a secure video conference on Saturday morning with national security officials in response to the worsening situation in Afghanistan."
+    publishedDateTime: 2021-08-15T00:53:00Z
+    webUrl: "https://www.mrt.com/news/article/The-Latest-Czech-diplomats-to-be-evacuated-to-16387129.php"
+    ampWebUrl: "https://www.mrt.com/news/amp/The-Latest-Czech-diplomats-to-be-evacuated-to-16387129.php"
+    cdnAmpWebUrl: "https://www-mrt-com.cdn.ampproject.org/c/s/www.mrt.com/news/amp/The-Latest-Czech-diplomats-to-be-evacuated-to-16387129.php"
+    type: article
+    provider:
+      name: Midland Reporter-Telegram
+      domain: mrt.com
+    quality: 90
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Kamala Harris, Nancy Pelosi will be historic duo at Biden's address to Congress"
     excerpt: "When Joe Biden delivers his first speech as president to Congress on Wednesday, history will be made behind him. For the first time during a joint address to Congress, the majority of politicians on the dais in the House of Representatives will be women,"
     publishedDateTime: 2021-04-28T11:18:00Z
@@ -1454,20 +1470,6 @@ related:
       name: Biloxi Sun Herald
       domain: sunherald.com
     quality: 70
-  - title: "The Latest: Biden, Harris hold video link on Afghan chaos"
-    excerpt: "The Latest developments on Afghanistan, where a weeklong Taliban offensive is now approaching the outskirts of the capital, Kabul, after the insurgents captured most of the north, west and south"
-    publishedDateTime: 2021-08-14T19:45:00Z
-    webUrl: "https://www.djournal.com/news/nation-world/the-latest-biden-harris-hold-video-link-on-afghan-chaos/article_d5883392-7025-5f1e-9fd6-727e5bbe8a5b.html"
-    type: article
-    provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 70
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/d/c0/dc0f927b-405b-5673-8433-e90fe94c3a68/6117e19da3aa3.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "How to watch VP Kamala Harris jobs speech in Greensboro NC | Raleigh News & Observer"
     excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point Harris’s plane landed at 10:30 a.m. on a rainy day in Greensboro, where Gov."
     publishedDateTime: 2021-04-18T03:00:00Z

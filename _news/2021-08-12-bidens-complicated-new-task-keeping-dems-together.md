@@ -119,6 +119,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Biden calls school chiefs, lauds defiance of anti-mask rules"
+    excerpt: "The President commended their leadership and courage to do the right thing for the health and well-being of their students, teachers, and schools,” the statement said."
+    publishedDateTime: 2021-08-14T23:34:00Z
+    webUrl: "https://www.detroitnews.com/story/news/nation/coronavirus/2021/08/14/biden-calls-school-chiefs-lauds-defiance-anti-mask-rules/8139636002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/8139636002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/8139636002"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/14/PDTN/e19d9fd7-07f7-42ce-bcc4-feb694b857bd-AP21222489639893.jpg?auto=webp&crop=4199,2362,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "President Biden urges no vote in Gavin Newsom recall, showing California governor support"
     excerpt: "President Joe Biden on Thursday urged Californians to vote no in the upcoming election to recall Gov. Gavin Newsom in a show of support for the embattled Democratic governor. In a statement released by Newsom’s campaign,"
     publishedDateTime: 2021-08-13T01:57:00Z
@@ -171,6 +187,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Rush of troops to Kabul tests Biden’s withdrawal deadline"
+    excerpt: "The last-minute decision to send 3,000 U.S. troops to Afghanistan to help partially evacuate the U.S. Embassy is calling into question whether President Joe Biden will meet his Aug. 31 deadline for fully withdrawing combat forces."
+    publishedDateTime: 2021-08-14T23:40:00Z
+    webUrl: "https://www.sunherald.com/news/business/article253488379.html"
+    ampWebUrl: "https://amp.sunherald.com/news/business/article253488379.html"
+    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/business/article253488379.html"
+    type: article
+    provider:
+      name: Biloxi Sun Herald
+      domain: sunherald.com
+    quality: 55
   - title: "Biden Says He Does Not Believe He Can Intervene in States Banning Mask Mandates"
     excerpt: "President Joe Biden said on Tuesday that he did not believe he had the power to intervene in U.S. states that have banned mask mandates but said his administration was looking into the issue. \"I don't believe that I do,"
     publishedDateTime: 2021-08-10T19:49:00Z

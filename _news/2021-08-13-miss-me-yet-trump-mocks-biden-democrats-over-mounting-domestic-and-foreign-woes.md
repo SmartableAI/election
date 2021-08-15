@@ -169,6 +169,38 @@ related:
         width: 1200
         height: 632
         isCached: true
+  - title: "The Latest: Biden praises school leaders for mask stance"
+    excerpt: "The White House said in a statement Saturday that the Democratic president had spoken with interim Broward Superintendent Vickie Cartwright in Florida and Phoenix Union High School District Superintendent Chad Gestson in Arizona."
+    publishedDateTime: 2021-08-15T01:31:00Z
+    webUrl: "https://www.mysanantonio.com/business/article/The-Latest-Australia-state-reports-record-daily-16386751.php"
+    ampWebUrl: "https://www.mysanantonio.com/news/amp/The-Latest-Australia-state-reports-record-daily-16386751.php"
+    cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/The-Latest-Australia-state-reports-record-daily-16386751.php"
+    type: article
+    provider:
+      name: My San Antonio
+      domain: mysanantonio.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "President Joe Biden orders 1,000 more troops to aid Afghanistan departure"
+    excerpt: "President Joe Biden authorized on Saturday an additional 1,000 U.S. troops for deployment to Afghanistan, raising to roughly 5,000 the number of U.S. troops to ensure what Biden called an “orderly and safe drawdown” of American and allied personnel."
+    publishedDateTime: 2021-08-14T22:53:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/aug/14/president-joe-biden-orders-1000-more-troops-to-aid/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/aug/14/president-joe-biden-orders-1000-more-troops-to-aid/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/aug/14/president-joe-biden-orders-1000-more-troops-to-aid/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 74
+    images:
+      - url: "https://thumb.spokesman.com/Zd0urnWTYVfdHvcLM9quan11290=/480x0/media.spokesman.com/photos/2021/08/12/6115d622e4b57.image.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Senate votes to advance President Joe Biden’s $1 trillion infrastructure bill"
     excerpt: "The measure would provide a massive injection of federal money for a range of public works programs, from roads and bridges to broadband internet access, drinking water and more."
     publishedDateTime: 2021-08-07T22:12:00Z
@@ -216,6 +248,22 @@ related:
       - url: "https://timesofsandiego.com/wp-content/uploads/2021/03/Pierside-Vaccinations.jpg"
         width: 960
         height: 640
+        isCached: true
+  - title: "Federal judge orders Biden administration to reinstate 'Remain in Mexico' policy"
+    excerpt: "A federal judge revived a Trump-era policy that ordered asylum-seekers to remain in Mexico as they wait for their U.S. court hearings."
+    publishedDateTime: 2021-08-14T23:46:00Z
+    webUrl: "https://www.app.com/story/news/politics/2021/08/14/judge-orders-biden-administration-reinstate-remain-mexico-rule/8136111002/"
+    ampWebUrl: "https://amp.app.com/amp/8136111002"
+    cdnAmpWebUrl: "https://amp-app-com.cdn.ampproject.org/c/s/amp.app.com/amp/8136111002"
+    type: article
+    provider:
+      name: app.com
+      domain: app.com
+    quality: 70
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/04/USAT/119f62ef-919c-4fcd-951a-ff82e394d695-GettyImages-1312341688.jpg?auto=webp&crop=8191,4608,x0,y417&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "A third of Native Americans aren’t registered to vote. Can President Biden change that?"
     excerpt: "Native American voters could play a major role in deciding the next presidential election in key battleground states."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-harris-immigration-root-cause
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-immigration-root-causes-strategy.amp"
 type: article
 quality: 200
-heat: 640
+heat: 660
 published: true
 
 provider:
@@ -239,6 +239,20 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/kamala-harris-crisis-dinner-01.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Biden, Harris Discuss Ongoing Evacuation Efforts With National Security Team"
+    excerpt: "President Biden and Vice President Kamala Harris held a secure video conference Saturday morning with national security officials regarding the administration's efforts to [reduce the number of U.S. c"
+    publishedDateTime: 2021-08-14T23:04:00Z
+    webUrl: "https://www.wsj.com/livecoverage/live-afghanistan-taliban-news/card/RrvITOGUOSgimnDv5KcQ"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 127
+    images:
+      - url: "https://images.wsj.net/im-385737?size=1.5"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Kamala Harris immediately puts on mask, forces reporters to as CDC pivot spurs confusion"
     excerpt: "Vice President Kamala Harris on Tuesday went beyond new CDC mask guidelines by putting on a face covering and forcing reporters and guests to do so as well — even though Washington did not"

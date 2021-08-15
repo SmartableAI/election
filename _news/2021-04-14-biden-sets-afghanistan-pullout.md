@@ -94,6 +94,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden authorizes 1,000 more troops to be sent to Afghanistan"
+    excerpt: "President Joe Biden announced the authorization of an additional direct deployment of 1,000 troops to Afghanistan in a statement Saturday.\n    \n"
+    publishedDateTime: 2021-08-14T23:43:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uU8vCErvG9Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/14/politics/biden-afghanistan-troops/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/14/politics/biden-afghanistan-troops/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210814115852-kabul-afghanistan-view-08-14-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden spoke with Obama and Bush ahead of Afghanistan withdrawal announcement"
     excerpt: "Former President Barack Obama on Wednesday praised President Joe Biden's \"bold leadership\" for his decision to withdraw all US troops from Afghanistan by September 11, saying that \"it is time to recognize that we have accomplished all that we can militarily\" in America's longest war.\n    \n"
     publishedDateTime: 2021-04-15T02:37:32Z

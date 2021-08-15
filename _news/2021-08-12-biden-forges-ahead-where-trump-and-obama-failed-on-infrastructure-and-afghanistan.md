@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/12/politics/joe-biden-donald-trump-b
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/12/politics/joe-biden-donald-trump-barack-obama-afghanistan-infrastructure/index.html"
 type: article
 quality: 185
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210810152440-06-biden-harris-remarks-0810-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden authorizes 1,000 more troops to be sent to Afghanistan"
+    excerpt: "President Joe Biden announced the authorization of an additional direct deployment of 1,000 troops to Afghanistan in a statement Saturday.\n    \n"
+    publishedDateTime: 2021-08-14T23:43:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uU8vCErvG9Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/14/politics/biden-afghanistan-troops/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/14/politics/biden-afghanistan-troops/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210814115852-kabul-afghanistan-view-08-14-2021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

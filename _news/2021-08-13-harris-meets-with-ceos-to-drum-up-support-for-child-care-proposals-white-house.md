@@ -96,18 +96,18 @@ related:
         height: 630
         isCached: true
   - title: "Vice President Kamala Harris visits Unity Health Care's Brentwood Health Center"
-    excerpt: "U.S. Vice President Kamala Harris speaks about health care affordability at Unity Health Care's Brentwood Health Center on Tuesday, August 10, 20010 in Washington, DC. Photo by Oliver Contreras/UPI"
+    excerpt: "U.S. Vice President Kamala Harris arrives to talks to health care workers before speaking about health care affordability at Unity Health Care's Brentwood Health Center on Tuesday, August 10, 20010 in Washington,"
     publishedDateTime: 2021-08-10T18:13:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/57a86ff633df2b4522be0d816b953da4/Vice-President-Kamala-Harris-visits-Unity-Health-Cares-Brentwood-Health-Center/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/00e5874dedd6a72d1cb2dfb2c94e00b6/Vice-President-Kamala-Harris-visits-Unity-Health-Cares-Brentwood-Health-Center/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 51
     images:
-      - url: "https://cdnph.upi.com/pv/upi/57a86ff633df2b4522be0d816b953da4/HARRIS-HEALTH-CARE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/00e5874dedd6a72d1cb2dfb2c94e00b6/HARRIS-HEALTH-CARE.jpg"
         width: 650
-        height: 433
+        height: 975
         isCached: true
 
 secured: "ckwhcVKKD+iE4Z5v5XwY2bgis0oIGo72/+0vsKJGeDNhMkqEwAH1mhozazqAuhTSi3nEe709bpIcihm8Z5LvOh7svI+owIrAFHE/6H4k9O8YvY8v0YlntvW+RI/lOmsg1Xd0rUgIkQvYVyi+H9NddG6hKtcEWxCaYczLA8zsG45oYKeBTgqYf1LuKatNrgxnAUTK8HvsKe/jb1jTGoO2NPhYXyDRJ6/Ijkpcb508QWCdTZ7dw5LwqELUOfotV7EXudcNnH9ZOm2SeSvrI/2pWrYRQwFSZPfa2vRrtyX2EoTk6naEUZ2MTcLur6wGsXOI5qNzoqyEGRmUye4HdHXkO5d9wK6uKADZZhomoiCTRRc=;/yunh+NJSPZdCK2B+Rnc7w=="

@@ -252,6 +252,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden, Harris Discuss Ongoing Evacuation Efforts With National Security Team"
+    excerpt: "President Biden and Vice President Kamala Harris held a secure video conference Saturday morning with national security officials regarding the administration's efforts to [reduce the number of U.S. c"
+    publishedDateTime: 2021-08-14T23:04:00Z
+    webUrl: "https://www.wsj.com/livecoverage/live-afghanistan-taliban-news/card/RrvITOGUOSgimnDv5KcQ"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 127
+    images:
+      - url: "https://images.wsj.net/im-385737?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Kamala Harris under water in latest polling amid surging border crisis and veep office gripes"
     excerpt: "The polls have not been kind to Vice President Kamala Harris of late, with the Real Clear Average of surveys now putting her at an under-water favorability of 44.3 percent."
     publishedDateTime: 2021-07-23T20:35:00Z

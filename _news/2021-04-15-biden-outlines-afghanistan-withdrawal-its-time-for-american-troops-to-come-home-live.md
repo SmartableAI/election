@@ -410,6 +410,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden to send 5,000 U.S. troops to Afghanistan"
+    excerpt: "U.S. President Joe Biden said on Saturday that he had approved additional military forces to go to Kabul to help safely draw down the American embassy and remove personnel from Afghanistan. Conway G."
+    publishedDateTime: 2021-08-14T23:43:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP8v3?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/61184eb9e4b085d396fce9a0-1628982969632?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden says it's 'time to end America's longest war' as he reveals plans to bring US troops home from Afghanistan"
     excerpt: "Biden said he was the fourth president to preside over the Afghanistan conflict, adding: \"I will not pass this responsibility on to a fifth.\""
     publishedDateTime: 2021-04-14T21:28:00Z
@@ -524,6 +538,38 @@ related:
       - url: "https://www.pilotonline.com/resizer/qt6G6h6LD1Kq06Qrz210cRwnUfo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/G7LXEZMMHZAHASB6FTOTCY3V4E.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Biden orders 1,000 more troops to aid Afghanistan departure"
+    excerpt: "President Joe Biden authorized on Saturday an additional 1,000 U.S. troops for deployment to Afghanistan, raising to roughly 5,000 the number of U.S. troops to ensure what Biden called an “orderly and safe drawdown” of American and allied personnel."
+    publishedDateTime: 2021-08-15T01:58:00Z
+    webUrl: "https://www.beaumontenterprise.com/news/article/Marine-vanguard-lands-in-Kabul-as-US-speeds-up-16386614.php"
+    ampWebUrl: "https://www.beaumontenterprise.com/news/amp/Marine-vanguard-lands-in-Kabul-as-US-speeds-up-16386614.php"
+    cdnAmpWebUrl: "https://www-beaumontenterprise-com.cdn.ampproject.org/c/s/www.beaumontenterprise.com/news/amp/Marine-vanguard-lands-in-Kabul-as-US-speeds-up-16386614.php"
+    type: article
+    provider:
+      name: The Beaumont Enterprise
+      domain: beaumontenterprise.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "The Latest: Biden sending 1,000 more troops to Afghanistan"
+    excerpt: "A defense official says President Joe Biden has authorized an additional 1,000 U.S. troops for deployment to Afghanistan. That raises to roughly 5,000 the number of U.S. troops to ensure what Biden calls an “orderly and safe drawdown” of American and allied personnel."
+    publishedDateTime: 2021-08-15T01:57:00Z
+    webUrl: "https://www.newstimes.com/news/article/The-Latest-Czech-diplomats-to-be-evacuated-to-16387129.php"
+    ampWebUrl: "https://www.newstimes.com/news/amp/The-Latest-Czech-diplomats-to-be-evacuated-to-16387129.php"
+    cdnAmpWebUrl: "https://www-newstimes-com.cdn.ampproject.org/c/s/www.newstimes.com/news/amp/The-Latest-Czech-diplomats-to-be-evacuated-to-16387129.php"
+    type: article
+    provider:
+      name: NewsTimes Danbury
+      domain: newstimes.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Joe Biden’s Tale of Russian Bounties in Afghanistan Collapses Completely"
     excerpt: "Biden and the Democrats knew the Russian bounties story was likely fake news, a hoax, a scam, whatever else you want to call it. But they didn’t care."
