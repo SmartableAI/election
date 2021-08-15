@@ -71,6 +71,20 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Biden to reopen public comment on TennCare block grant"
+    excerpt: "President Joe Biden's administration says it will keep a drastic overhaul of Tennessee's Medicaid program in place while it seeks more public comment and considers what to do with the plan approved under former President Donald Trump."
+    publishedDateTime: 2021-08-15T13:00:00Z
+    webUrl: "https://www.timesfreepress.com/news/breakingnews/story/2021/aug/15/biden-reopen-public-comment-tenncare-block-grant/552277/"
+    type: article
+    provider:
+      name: Times Free Press
+      domain: timesfreepress.com
+    quality: 55
+    images:
+      - url: "https://media.timesfreepress.com/img/photos/2021/08/05/1628190952_101973052-7c9660dbd2044bd4b449434e346b681d_gs_t1070_h2637bd2cff9ebeed8954a74ad16668e191686df8.jpg"
+        width: 1070
+        height: 713
+        isCached: true
 
 secured: "PG6qA4pH7061jzsD8jCybnGpEGVbOSkvrrQ8C9zBKGojSQKf0IeYhdk6ztmSgJK6tsIsxqQoeUW/bV0niGSKZoZ1sxFgAz7jNiy1h058FlO5X0R6PruuRRxsjEw44E3SyMT82ydSimh+Xo8UZ35paQV/9P9EZ1bb9Azssw1cyg6va1dtHb+xqXBd0RdnMD4YyUndnjXalqz2iP6WK/iJE3nfSO9RUeJY6Lbf9koFCoNhWnz3Nyb7u3pX3d+db1jiMGj06VrAD+SvctNjPFVvVZbmZYXsxxwRNWM6tOryIwI23J+vIbLUXoil9sfSkzuecLnjXKo9vwWoi7UGgEDJeYZrZewKYoAOAHX6lv4eSEk=;DjQllqXvrJTDBriVQxe0NA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/07/politics/joe-biden-jill-biden-tea
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/07/politics/joe-biden-jill-biden-team-usa-olympics/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "With debt limit, Biden tests GOP's willingness to play with economic fire"
+    excerpt: "The Trumpist Republican Party has shown it will toy with democracy. Now President Joe Biden is testing its willingness to play with economic fire.\n    \n"
+    publishedDateTime: 2021-08-15T04:06:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DYOTuRrKU18/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/15/politics/biden-gop-debt-limit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/15/politics/biden-gop-debt-limit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210814172922-biden-gop-debt-limit-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to meet with CEOs requiring their employees get vaccinated, urge others to follow their lead"
     excerpt: "President Joe Biden will meet Wednesday with the heads of several companies and institutions that are requiring their employees get vaccinated against Covid-19, aiming to encourage more companies to follow suit, a White House official said.\n    \n"
     publishedDateTime: 2021-08-11T14:15:17Z
