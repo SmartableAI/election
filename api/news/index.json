@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-15-rep-scalise-slams-bidens-saigon-moment-in-afghanistan-says-admin-got-this-devastatingly-wrong.md",
+      "title": "Rep. Scalise slams ‘Biden’s Saigon moment’ in Afghanistan, says admin 'got this devastatingly wrong'",
+      "excerpt": "House Minority Whip Rep. Steve Scalise on Sunday slammed “President Biden’s Saigon moment” in Afghanistan amid reports that Taliban insurgents had seized Kabul and most of the region after the U.S. began withdrawing troops.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/t2Fi9Vfst5I/rep-scalise-slams-bidens-saigon-moment-in-afghanistan-says-admin-got-this-devastatingly-wrong",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/t2Fi9Vfst5I/rep-scalise-slams-bidens-saigon-moment-in-afghanistan-says-admin-got-this-devastatingly-wrong",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/GettyImages-1229658899.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-15T09:28:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-15-biden-administration-struggles-to-project-order-as-taliban-enters-kabul.md",
       "title": "Biden administration struggles to project order as Taliban enters Kabul",
       "excerpt": "President Joe Biden and his administration struggled Sunday to project order amid a race by American and other foreign personnel to evacuate Afghanistan as Taliban fighters entered Kabul.\n    \n",
@@ -70,7 +126,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 442,
+      "heat": 462,
       "tags": null,
       "images": [
         {
@@ -1250,49 +1306,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-van-orden-receives-trump-endorsement-for-wisconsin-race.md",
-      "title": "Van Orden receives Trump endorsement for Wisconsin race",
-      "excerpt": "MADISON, Wis. (AP) — Former President Donald Trump on Thursday gave his “Complete and Total Endorsement!” to the Republican seeking to flip a southwestern Wisconsin congressional district held by Democratic Rep. Ron Kind since 1997. Derrick Van Orden ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mrt.com/news/article/Van-Orden-receives-Trump-endorsement-for-16382562.php",
-      "originalUrl": "https://www.mrt.com/news/article/Van-Orden-receives-Trump-endorsement-for-16382562.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mrt.com/news/amp/Van-Orden-receives-Trump-endorsement-for-16382562.php",
-      "cdnAmpWebUrl": "https://www-mrt-com.cdn.ampproject.org/c/s/www.mrt.com/news/amp/Van-Orden-receives-Trump-endorsement-for-16382562.php",
-      "publishedDateTime": "2021-08-12T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Midland Reporter-Telegram",
-        "domain": "mrt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

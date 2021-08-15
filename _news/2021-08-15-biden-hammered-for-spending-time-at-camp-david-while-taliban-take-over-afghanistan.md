@@ -1,14 +1,14 @@
 ---
 category: news
-title: "McConnell calls on Biden to change course in Afghanistan before it's too late"
-excerpt: "McConnell urged President Joe Biden reverse course in Afghanistan as the security situation deteriorates"
-publishedDateTime: 2021-08-12T23:00:33Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vWeO-07zj5w/mcconnell-calls-on-biden-to-change-course-in-afghanistan-before-its-too-late"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vWeO-07zj5w/mcconnell-calls-on-biden-to-change-course-in-afghanistan-before-its-too-late"
-ampWebUrl: "https://www.foxnews.com/politics/mcconnell-calls-on-biden-to-change-course-in-afghanistan-before-its-too-late.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-calls-on-biden-to-change-course-in-afghanistan-before-its-too-late.amp"
+title: "Biden hammered for spending time at Camp David while Taliban take over Afghanistan"
+excerpt: "Republican members of Congress criticized President Biden on Sunday for spending time at the Camp David presidential retreat instead of the White House as the Taliban fought to finalize a takeover of Afghanistan."
+publishedDateTime: 2021-08-15T17:16:08Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fboykm0E3oc/biden-camp-david-afghanistan-taliban-republican-criticism"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fboykm0E3oc/biden-camp-david-afghanistan-taliban-republican-criticism"
+ampWebUrl: "https://www.foxnews.com/politics/biden-camp-david-afghanistan-taliban-republican-criticism.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-camp-david-afghanistan-taliban-republican-criticism.amp"
 type: article
-quality: 172
+quality: 169
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c505be5b-7fe5-4a10-b256-fbc6b1e6a2f1/272c5604-5105-47e9-88ac-0be2cd6b1b4d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/50a08577-a45d-40d0-bace-075a66d6fd9d/31d62f1c-ad58-4562-9669-673826dc0a6f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -79,6 +79,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "McConnell calls on Biden to change course in Afghanistan before it's too late"
+    excerpt: "McConnell urged President Joe Biden reverse course in Afghanistan as the security situation deteriorates"
+    publishedDateTime: 2021-08-12T23:00:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vWeO-07zj5w/mcconnell-calls-on-biden-to-change-course-in-afghanistan-before-its-too-late"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-calls-on-biden-to-change-course-in-afghanistan-before-its-too-late.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-calls-on-biden-to-change-course-in-afghanistan-before-its-too-late.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c505be5b-7fe5-4a10-b256-fbc6b1e6a2f1/272c5604-5105-47e9-88ac-0be2cd6b1b4d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "McCarthy slams Biden's Afghanistan withdrawal as 'embarrassment to our nation'"
     excerpt: "House Minority Leader Kevin McCarthy, R-Calif., slammed President Biden's \"complete mismanagement\" of the withdrawal of troops from Afghanistan and called for the U.S. military to continue to provide \"close air support\" to combat the surging Taliban forces. "
     publishedDateTime: 2021-08-14T18:13:18Z
@@ -108,22 +124,6 @@ related:
     quality: 170
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/858ee941-d24c-488c-a9b4-e553d23c6170/61a55a57-4c87-4f5c-a011-bf338d451d68/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden hammered for spending time at Camp David while Taliban take over Afghanistan"
-    excerpt: "Republican members of Congress criticized President Biden on Sunday for spending time at the Camp David presidential retreat instead of the White House as the Taliban fought to finalize a takeover of Afghanistan."
-    publishedDateTime: 2021-08-15T17:16:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fboykm0E3oc/biden-camp-david-afghanistan-taliban-republican-criticism"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-camp-david-afghanistan-taliban-republican-criticism.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-camp-david-afghanistan-taliban-republican-criticism.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/50a08577-a45d-40d0-bace-075a66d6fd9d/31d62f1c-ad58-4562-9669-673826dc0a6f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -249,6 +249,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "E1jgSTWugSzW3ESsFgNrdZGe3UEpDCYYyrbKhJICpqg/axx1xLhxGAAkEyqj+JYHwNsvs+vkjiXKaOeRiH6+O+goNyJLnBbt2AS6JbPzD5bGu4O46fIC1PPNIiCrxFv3JBqKKnWmyg7BwflIA5TKW30vBum6NuSNQ97lTyd77uMC8+gPNwmzugBD8QEqaKJ4RezuytC3a1SXxprX4h/CMl3z4FN+olQUig8k6ObWtsttVIo93haLPdfPce9fJRMmpH/sVY471Z8Ds/D6FYPJUM2OhFpMwpFT+nqsLAiUyOcie+0E/B40T5aNh1SOURjL9vU1Jy4RkRRyjJ+n4/EMN1WmJeR3qqEYqgqScz8UJLY=;i5pT0lSvLBMiNVw8Qa+rqw=="
+secured: "za9FdNCaATxXbPCdp6nCSgw//xnKePkFoyO8vLBLy4usZrmqcZI9Z5bEfbETfnGj7a7X5O7efn9hXoZ3vztTMy+a5UaKsZMsZaSoC0ISSrkQEvHBFQBgHX2qXDAqpYLsyaRbrfJSDZ1WzjW5ugtssMCQo2ULmwxrsokB38Cf+HZE/u/jBLqHgdfimO3CUU9wcx6DW1xjkJFyFha0AAjAbZSvwPXOhkmKRDW/C28anv6YG+C5fx8FOHyX3PhdhEgMBx911ynRr8rMC2NJ6tdyaliqbhV9e2+bSMuznRnKPO6SB0sQOKbKGdjF3iuZ/jt9+pwA5jH30eg0YeTqI9g9MiwvSAmJFX1bZ6Niid/CBgM=;kXos4l/qqfkZK+LzGtWL6A=="
 ---
 

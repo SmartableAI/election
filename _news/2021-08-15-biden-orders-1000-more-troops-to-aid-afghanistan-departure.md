@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Biden orders 1,000 more troops to aid Afghanistan departure"
-excerpt: "President Joe Biden authorized on Saturday an additional 1,000 U.S. troops for deployment to Afghanistan, raising to roughly 5,000 the number of U.S. troops to ensure what Biden called an “orderly and safe drawdown” of American and allied personnel."
-publishedDateTime: 2021-08-15T01:58:00Z
-originalUrl: "https://www.beaumontenterprise.com/news/article/Marine-vanguard-lands-in-Kabul-as-US-speeds-up-16386614.php"
-webUrl: "https://www.beaumontenterprise.com/news/article/Marine-vanguard-lands-in-Kabul-as-US-speeds-up-16386614.php"
-ampWebUrl: "https://www.beaumontenterprise.com/news/amp/Marine-vanguard-lands-in-Kabul-as-US-speeds-up-16386614.php"
-cdnAmpWebUrl: "https://www-beaumontenterprise-com.cdn.ampproject.org/c/s/www.beaumontenterprise.com/news/amp/Marine-vanguard-lands-in-Kabul-as-US-speeds-up-16386614.php"
+excerpt: "The last-minute decision reflected the dire state of security, as the Taliban seized control of multiple Afghan cities in a few short days."
+publishedDateTime: 2021-08-15T16:56:00Z
+originalUrl: "https://www.boston.com/news/politics/2021/08/15/biden-orders-1000-more-troops-to-aid-afghanistan-departure/"
+webUrl: "https://www.boston.com/news/politics/2021/08/15/biden-orders-1000-more-troops-to-aid-afghanistan-departure/"
+ampWebUrl: "https://www.boston.com/news/politics/2021/08/15/biden-orders-1000-more-troops-to-aid-afghanistan-departure/?amp=1"
+cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/politics/2021/08/15/biden-orders-1000-more-troops-to-aid-afghanistan-departure/?amp=1"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: The Beaumont Enterprise
-  domain: beaumontenterprise.com
+  name: Boston.com
+  domain: boston.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://bdc2020.o0bc.com/wp-content/uploads/2021/08/Afghanistan_US_34371-6117cb07bd1c8-scaled.jpg"
+    width: 2560
+    height: 1688
     isCached: true
 
 related:
@@ -666,6 +666,6 @@ related:
         height: 683
         isCached: true
 
-secured: "t0EZEB8cSQrrxSekKSQlbXtPJHfjNrQR7u0Zv9cBpsbZLLZcDLV/CG2GjWuHDi5qmjlOZ1E7WHcbgsgs5tb3iKh6Uhr6FLY/sL9I4ueB0GcyUxwNBuNrkv32cNYzXYPorTWLvQZTDUbWT+PlQdEQ3q22OuWmOX6K5ekWfkJD6yL9KRy45sCL7YZmCUe542WFqFCARDLw79mrKjMBG3g5yLyWdDuwNYSCBlgoLrDUvkutH0Hhh3kEWLGjP7yLBs3zzyVxJ1AT2K0SRziJKFrZuLTNhAzojhsg/38UvlVFb1l1IDpvTKJGYClZcXlOyuSB1ydyf+Pfr7Hy/KXXU81cScU15zLEzwOfHYflu+iZdS4=;+prGmrU/uuyICUviVkt1hQ=="
+secured: "34wE6INRQ1SV1mUXzOqFQXkcdRkA2skzZCBxBdvzYSRObyJKpRVclN0Su9wrtQDUoSldkdIi6xKTZ9gPpGQzGQHjCvkFRCCIPK7xPC0xGK25iYMEPzumtjTORgJRbWQQW4bJt2Tj0TTmQHsoaI+4zBIivxdPVcJPm6R4vU5uehU08u4pTRGmgd+2L40vPE1tJHLbsqgcBkJtastcTYGESStyiFEfvXRAgBSrNBfU5tgtrPZL8RxeEwETLWxbUcqMrtoZoK8f5loDQi6/Ut4UbTbALsX6Ga8aKkmv8zxZLnz4mskkv+QjTCbBYjHmeddZZaNEN9fzWruoKjv7kKnjM6NQxQy01xWhkLUi0M4J4tU=;loln5hNsaYbvFB8oX4V00Q=="
 ---
 

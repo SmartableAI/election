@@ -546,20 +546,20 @@ related:
         height: 800
         isCached: true
   - title: "Biden orders 1,000 more troops to aid Afghanistan departure"
-    excerpt: "President Joe Biden authorized on Saturday an additional 1,000 U.S. troops for deployment to Afghanistan, raising to roughly 5,000 the number of U.S. troops to ensure what Biden called an “orderly and safe drawdown” of American and allied personnel."
-    publishedDateTime: 2021-08-15T01:58:00Z
-    webUrl: "https://www.beaumontenterprise.com/news/article/Marine-vanguard-lands-in-Kabul-as-US-speeds-up-16386614.php"
-    ampWebUrl: "https://www.beaumontenterprise.com/news/amp/Marine-vanguard-lands-in-Kabul-as-US-speeds-up-16386614.php"
-    cdnAmpWebUrl: "https://www-beaumontenterprise-com.cdn.ampproject.org/c/s/www.beaumontenterprise.com/news/amp/Marine-vanguard-lands-in-Kabul-as-US-speeds-up-16386614.php"
+    excerpt: "The last-minute decision reflected the dire state of security, as the Taliban seized control of multiple Afghan cities in a few short days."
+    publishedDateTime: 2021-08-15T16:56:00Z
+    webUrl: "https://www.boston.com/news/politics/2021/08/15/biden-orders-1000-more-troops-to-aid-afghanistan-departure/"
+    ampWebUrl: "https://www.boston.com/news/politics/2021/08/15/biden-orders-1000-more-troops-to-aid-afghanistan-departure/?amp=1"
+    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/politics/2021/08/15/biden-orders-1000-more-troops-to-aid-afghanistan-departure/?amp=1"
     type: article
     provider:
-      name: The Beaumont Enterprise
-      domain: beaumontenterprise.com
+      name: Boston.com
+      domain: boston.com
     quality: 75
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://bdc2020.o0bc.com/wp-content/uploads/2021/08/Afghanistan_US_34371-6117cb07bd1c8-scaled.jpg"
+        width: 2560
+        height: 1688
         isCached: true
   - title: "Joe Biden’s Tale of Russian Bounties in Afghanistan Collapses Completely"
     excerpt: "Biden and the Democrats knew the Russian bounties story was likely fake news, a hoax, a scam, whatever else you want to call it. But they didn’t care."

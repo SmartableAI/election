@@ -124,6 +124,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden hammered for spending time at Camp David while Taliban take over Afghanistan"
+    excerpt: "Republican members of Congress criticized President Biden on Sunday for spending time at the Camp David presidential retreat instead of the White House as the Taliban fought to finalize a takeover of Afghanistan."
+    publishedDateTime: 2021-08-15T17:16:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fboykm0E3oc/biden-camp-david-afghanistan-taliban-republican-criticism"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-camp-david-afghanistan-taliban-republican-criticism.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-camp-david-afghanistan-taliban-republican-criticism.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/50a08577-a45d-40d0-bace-075a66d6fd9d/31d62f1c-ad58-4562-9669-673826dc0a6f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "All eyes on Biden's response to COVID variants, Afghanistan, border crisis, inflation"
     excerpt: ""
     publishedDateTime: 2021-08-14T15:05:33Z

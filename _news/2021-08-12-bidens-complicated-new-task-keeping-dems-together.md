@@ -135,6 +135,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Taliban's Afghanistan advance tests Biden's 'America is back' foreign policy promise"
+    excerpt: "As the Taliban routs Afghan forces at lightning speed, the U.S. retreat from the country raises questions about Biden's \"America is back\" foreign policy."
+    publishedDateTime: 2021-08-15T17:44:00Z
+    webUrl: "https://www.statesman.com/story/news/politics/2021/08/14/talibans-afghanistan-advance-tests-bidens-america-back-policy/8121040002/"
+    ampWebUrl: "https://amp.statesman.com/amp/8121040002"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8121040002"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 68
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/13/USAT/48779946-06c1-444e-8210-dbb82736a907-AFP_AFP_9L24C3.jpg?auto=webp&crop=3391,1908,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "President Biden urges no vote in Gavin Newsom recall, showing California governor support"
     excerpt: "President Joe Biden on Thursday urged Californians to vote no in the upcoming election to recall Gov. Gavin Newsom in a show of support for the embattled Democratic governor. In a statement released by Newsom’s campaign,"
     publishedDateTime: 2021-08-13T01:57:00Z

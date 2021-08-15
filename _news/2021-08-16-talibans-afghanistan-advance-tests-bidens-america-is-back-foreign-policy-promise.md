@@ -1,24 +1,30 @@
 ---
 category: news
-title: "Biden Unmoved On Afghan Exit As Taliban Sweep Provinces"
-excerpt: "The Taliban are making swift gains in Afghanistan but President Joe Biden is standing firm on a US exit with limited options appearing to be on the table to reverse the insurgents' momentum."
-publishedDateTime: 2021-08-09T21:24:00Z
-originalUrl: "https://www.barrons.com/news/biden-unmoved-on-afghan-exit-as-taliban-sweep-provinces-01628529907?refsec=afp-news"
-webUrl: "https://www.barrons.com/news/biden-unmoved-on-afghan-exit-as-taliban-sweep-provinces-01628529907?refsec=afp-news"
-ampWebUrl: "https://www.barrons.com/amp/news/biden-unmoved-on-afghan-exit-as-taliban-sweep-provinces-01628529907"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/biden-unmoved-on-afghan-exit-as-taliban-sweep-provinces-01628529907"
+title: "Taliban's Afghanistan advance tests Biden's 'America is back' foreign policy promise"
+excerpt: "As the Taliban routs Afghan forces at lightning speed, the U.S. retreat from the country raises questions about Biden's \"America is back\" foreign policy."
+publishedDateTime: 2021-08-15T17:44:00Z
+originalUrl: "https://www.statesman.com/story/news/politics/2021/08/14/talibans-afghanistan-advance-tests-bidens-america-back-policy/8121040002/"
+webUrl: "https://www.statesman.com/story/news/politics/2021/08/14/talibans-afghanistan-advance-tests-bidens-america-back-policy/8121040002/"
+ampWebUrl: "https://amp.statesman.com/amp/8121040002"
+cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8121040002"
 type: article
-quality: 55
+quality: 68
 heat: -1
 published: false
 
 provider:
-  name: Barron's
-  domain: barrons.com
+  name: Austin American-Statesman
+  domain: statesman.com
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://www.gannett-cdn.com/presto/2021/08/13/USAT/48779946-06c1-444e-8210-dbb82736a907-AFP_AFP_9L24C3.jpg?auto=webp&crop=3391,1908,x0,y0&format=pjpg&width=1200"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Grim Afghan news raises risk for Biden of Taliban takeover"
@@ -131,22 +137,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Taliban's Afghanistan advance tests Biden's 'America is back' foreign policy promise"
-    excerpt: "As the Taliban routs Afghan forces at lightning speed, the U.S. retreat from the country raises questions about Biden's \"America is back\" foreign policy."
-    publishedDateTime: 2021-08-15T17:44:00Z
-    webUrl: "https://www.statesman.com/story/news/politics/2021/08/14/talibans-afghanistan-advance-tests-bidens-america-back-policy/8121040002/"
-    ampWebUrl: "https://amp.statesman.com/amp/8121040002"
-    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8121040002"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 68
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/08/13/USAT/48779946-06c1-444e-8210-dbb82736a907-AFP_AFP_9L24C3.jpg?auto=webp&crop=3391,1908,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "President Biden urges no vote in Gavin Newsom recall, showing California governor support"
     excerpt: "President Joe Biden on Thursday urged Californians to vote no in the upcoming election to recall Gov. Gavin Newsom in a show of support for the embattled Democratic governor. In a statement released by Newsom’s campaign,"
     publishedDateTime: 2021-08-13T01:57:00Z
@@ -173,6 +163,17 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
+    quality: 55
+  - title: "Biden Unmoved On Afghan Exit As Taliban Sweep Provinces"
+    excerpt: "The Taliban are making swift gains in Afghanistan but President Joe Biden is standing firm on a US exit with limited options appearing to be on the table to reverse the insurgents' momentum."
+    publishedDateTime: 2021-08-09T21:24:00Z
+    webUrl: "https://www.barrons.com/news/biden-unmoved-on-afghan-exit-as-taliban-sweep-provinces-01628529907?refsec=afp-news"
+    ampWebUrl: "https://www.barrons.com/amp/news/biden-unmoved-on-afghan-exit-as-taliban-sweep-provinces-01628529907"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/biden-unmoved-on-afghan-exit-as-taliban-sweep-provinces-01628529907"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
     quality: 55
   - title: "Biden nominates US Attorneys for Manhattan, Brooklyn"
     excerpt: "President Joe Biden on Tuesday announced his nominees to lead high-profile U.S. Attorney offices in Manhattan and Brooklyn."
@@ -234,6 +235,6 @@ related:
       domain: usnews.com
     quality: 31
 
-secured: "gv53q88sP9EVsn27+C737levohFZXZbYwEGW2aQkpd+6rrqrAk+hMIB3fecSQ4F5nCLfpH7rejkN5FsyNZ6g2wmq7ufkIbL1xYbI5Yyy4SM7ukgYACJgTtC/vHN/uduZZoeFDGLtDVouA4GltEbMrBp6uJemOuJ+dto7AHKhrCqJRh2G/qpaRyRg73tyRpWSIM6tnab4nT7nUfIbStTv/oFvy6jzRWGsHXl8vWKQVXpAvp4ppUWgtpG4lQr4thvYl2Ls4pvwhPO+3jRF3jKIzGGBCQnYMowixfCFK+nm+qKetUDH57v42c3jv2dDH9mJ17UF8+/Xxl06K5nS4Zed0BVL/QgAH/KVkFjIqjYlPzE=;AEhKKKpuIxOWKY9jRzAWjg=="
+secured: "sizwFPpAmUGOO4JLoptUcUv8IiggPfMb/vCRj2jV0sdgP6/BU6QX8kWv3V/r5loCoFQknIG+iWl3dRlqHA9SHljrWtfkchH79R+LpaPr6Ic4vFNnS5HWAPKug8zZpBvYnPVfyYcH+pe9Dbcvuj/TpZ0BTMNAgt80Yb+yevs5cEBmYZWBP8yXG/6yRLgoitQRT+WtjgRJgR7U3f+MdOjrjGxj3zKH44OBza741c/b7NSs7y2MBx8IJWPF4+2vwLSFFPaHYmvLV5MMsQOAf6BFZp0CM6PVkJ0JGOaKUvMbD7sVzbj39xoTY5VLp3LjMyWi4BAJIFpQXnMoPKSjUcOWda4zp3/2cVE4ho6YeXytxhk=;PvVKKYtabotAQSQeebOHrg=="
 ---
 
