@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/speculation-about-saigon-rooftop-re
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/speculation-about-saigon-rooftop-replay-in-kabul-despite-biden-denial-it-could-happen.amp"
 type: article
 quality: 165
-heat: 185
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Biden court win on eviction ban extension draws appeals from Realtors, landlords"
+    excerpt: "Groups against President Biden’s extension of the coronavirus eviction moratorium appealed one day after a federal judge ruled it could stand, according to reports."
+    publishedDateTime: 2021-08-15T06:24:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iIbQMmjsgN0/biden-court-eviction-ban-extension-appeals-realtors-landlords"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-court-eviction-ban-extension-appeals-realtors-landlords.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-court-eviction-ban-extension-appeals-realtors-landlords.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65634db6-d537-4f58-92ba-b491e437f557/18f65754-e325-4017-9d84-5920e08b5632/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden accuser Tara Reade reacts to Cuomo's resignation, calls for 'real investigation' into president"
+    excerpt: "Tara Reade, the former Senate staffer who alleged last year that Joe Biden sexually assaulted her in 1993, weighed in on the stunning resignation of Democratic New York Gov. Andrew Cuomo amid his sexual harassment scandal."
+    publishedDateTime: 2021-08-10T17:25:00Z
+    webUrl: "https://www.foxnews.com/media/tara-reade-cuomo-resignation-biden"
+    ampWebUrl: "https://www.foxnews.com/media/tara-reade-cuomo-resignation-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tara-reade-cuomo-resignation-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/66326c66-e604-4c69-8e1c-60288fe28032/004b93fc-2b6c-48e2-b00d-9265d18ce4a5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden Destroys U.S. Energy Production, Begs OPEC to Pump"
     excerpt: "Just hours after being sworn into office on January 20, 2021, President Joe Biden signed an executive order canceling the Keystone XL pipeline. The move killed thousands of union jobs,"
     publishedDateTime: 2021-08-12T11:38:00Z

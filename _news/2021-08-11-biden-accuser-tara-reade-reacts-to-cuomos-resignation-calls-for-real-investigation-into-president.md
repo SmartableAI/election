@@ -32,54 +32,47 @@ images:
     isCached: true
 
 related:
-  - title: "Biden blasted for having called NY Gov. Andrew Cuomo the 'gold standard' of leadership"
-    excerpt: "President Joe Biden is facing criticism for referring to New York Gov. Andrew Cuomo as the “gold standard” of leadership in the past following a report from New York’s Attorney General concluding the governor sexually harassed multiple women."
-    publishedDateTime: 2021-08-03T22:15:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rjf5yKhU0Aw/biden-blasted-for-calling-cuomo-gold-standard-of-leadership-amid-damning-sexual-harassment-report"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-blasted-for-calling-cuomo-gold-standard-of-leadership-amid-damning-sexual-harassment-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blasted-for-calling-cuomo-gold-standard-of-leadership-amid-damning-sexual-harassment-report.amp"
+  - title: "Biden court win on eviction ban extension draws appeals from Realtors, landlords"
+    excerpt: "Groups against President Biden’s extension of the coronavirus eviction moratorium appealed one day after a federal judge ruled it could stand, according to reports."
+    publishedDateTime: 2021-08-15T06:24:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iIbQMmjsgN0/biden-court-eviction-ban-extension-appeals-realtors-landlords"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-court-eviction-ban-extension-appeals-realtors-landlords.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-court-eviction-ban-extension-appeals-realtors-landlords.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4fc9c59f-f638-41c9-967a-fbeb72bb4377/c98ea31a-14fe-45e8-8171-39c5518bb33a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65634db6-d537-4f58-92ba-b491e437f557/18f65754-e325-4017-9d84-5920e08b5632/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Biden says he 'respects' Cuomo decision to resign, say disgraced gov did 'a hell of a job'"
-    excerpt: "President Biden on Tuesday backed embattled Gov. Andrew Cuomo's decision to resign amid a scathing investigation into sexual harassment allegations while saying the New York governor did “a hell of a job.\""
-    publishedDateTime: 2021-08-10T19:46:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-lvC99EzNRg/biden-respects-cuomo-decision-resign-sexual-harrassment-allegations"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-respects-cuomo-decision-resign-sexual-harrassment-allegations.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-respects-cuomo-decision-resign-sexual-harrassment-allegations.amp"
+  - title: "Speculation about Saigon rooftop replay in Kabul despite Biden assertion it couldn't happen"
+    excerpt: "Biden administration officials are reportedly worried about a replay of the Vietnam War as they move to evacuate American diplomats from Afghanistan despite Biden’s firm claim that a similar scenario would not unfold."
+    publishedDateTime: 2021-08-12T21:15:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4W53YUu1BOI/speculation-about-saigon-rooftop-replay-in-kabul-despite-biden-denial-it-could-happen"
+    ampWebUrl: "https://www.foxnews.com/politics/speculation-about-saigon-rooftop-replay-in-kabul-despite-biden-denial-it-could-happen.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/speculation-about-saigon-rooftop-replay-in-kabul-despite-biden-denial-it-could-happen.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 165
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Rep. Elise Stefanik says Biden must call for Gov. Cuomo's resignation"
-    excerpt: "New York GOP Rep. Elise Stefanik joined \"America Reports\" following the breaking news that the New York Attorney general found that Governor Andrew Cuomo sexually harassed multiple women, violating state and federal laws."
-    publishedDateTime: 2021-08-03T19:51:00Z
-    webUrl: "https://www.foxnews.com/media/governor-andrew-cuomo-resignation-elise-stefanik"
-    ampWebUrl: "https://www.foxnews.com/media/governor-andrew-cuomo-resignation-elise-stefanik.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/governor-andrew-cuomo-resignation-elise-stefanik.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/262bdae6-ea59-45c3-aad1-1b68d408f5fc/e68c58ee-1373-49d8-be38-6369a2b383a5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9a21eae-3044-43dd-b5f9-7c8d2000669e/afd3b02e-f294-438d-92a6-773e386f7e88/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
+  - title: "Biden Destroys U.S. Energy Production, Begs OPEC to Pump"
+    excerpt: "Just hours after being sworn into office on January 20, 2021, President Joe Biden signed an executive order canceling the Keystone XL pipeline. The move killed thousands of union jobs,"
+    publishedDateTime: 2021-08-12T11:38:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/08/12/biden_destroys_us_energy_production_begs_opec_to_pump_549252.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "JL3eX76T8FhfksuQFkLeA3LIroevslhWF3EF4LhVLGQyTIsK22sHOU8MkT4ySFkSbl3qnQixa/Gt12lEOlZjE9I93JxrTqksKlnTcEdgUamjkR02elv46Lzzowu02jDmhQQEeNokOucGU48ylxPPTlvqRVeQQiWJM9OR1wV0enU5hFRIXsc+VdV7fnDosvYZVeyJJHQrx8ST95kOZUSdI10oYqJ9qrb5x3nubAnr+HzUJA6QXHVhEbq6IlQ3jjf3SsuTe/9U/dmePFfdQ/8FNtz0c3oJD/1eKslNeI4bcNzol2qyAw2+GoPKuy1LJAfeTzRYnH7P8VezLV1gkQlJPjpgWS+20/m4K0uUmhBorc4=;2dwGe5lRtf/E+474MYedMw=="
 ---

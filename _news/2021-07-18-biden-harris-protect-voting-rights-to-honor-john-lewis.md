@@ -1000,22 +1000,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "The Latest: Biden, Harris hold video link on Afghan chaos"
-    excerpt: "WASHINGTON — President Joe Biden and Vice President Kamala Harris have held a secure video conference on Saturday morning with national security officials in response to the worsening situation in Afghanistan."
-    publishedDateTime: 2021-08-15T00:53:00Z
-    webUrl: "https://www.mrt.com/news/article/The-Latest-Czech-diplomats-to-be-evacuated-to-16387129.php"
-    ampWebUrl: "https://www.mrt.com/news/amp/The-Latest-Czech-diplomats-to-be-evacuated-to-16387129.php"
-    cdnAmpWebUrl: "https://www-mrt-com.cdn.ampproject.org/c/s/www.mrt.com/news/amp/The-Latest-Czech-diplomats-to-be-evacuated-to-16387129.php"
-    type: article
-    provider:
-      name: Midland Reporter-Telegram
-      domain: mrt.com
-    quality: 90
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Vice President Kamala Harris casts first tie-breaking vote for Biden nominee"
     excerpt: "The Senate deadlocked 50-50 on a straight party-line procedural vote to discharge Colin Kahl’s nomination from the Armed Services Committee, requiring Vice President Kamala Harris to break"
     publishedDateTime: 2021-04-21T22:37:00Z
@@ -1110,6 +1094,17 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "The Latest: Biden, Harris hold video link on Afghan chaos"
+    excerpt: "President Joe Biden and Vice President Kamala Harris have held a secure video conference with national security officials in response to the worsening situation in Afghanistan."
+    publishedDateTime: 2021-08-15T07:53:00Z
+    webUrl: "https://www.sanluisobispo.com/news/nation-world/national/article253491799.html"
+    ampWebUrl: "https://amp.sanluisobispo.com/news/nation-world/national/article253491799.html"
+    cdnAmpWebUrl: "https://amp-sanluisobispo-com.cdn.ampproject.org/c/s/amp.sanluisobispo.com/news/nation-world/national/article253491799.html"
+    type: article
+    provider:
+      name: SanLuisObispo
+      domain: sanluisobispo.com
+    quality: 80
   - title: "Fact check: Kamala Harris didn't say Joe Biden would 'do whatever the Chinese tell you' at debate"
     excerpt: "A meme claims Kamala Harris said during the 2020 Democratic presidential primary that Joe Biden would do what China told him to. That is false."
     publishedDateTime: 2021-04-29T22:11:00Z

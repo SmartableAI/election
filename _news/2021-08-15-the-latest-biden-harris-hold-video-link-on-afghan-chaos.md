@@ -1,30 +1,25 @@
 ---
 category: news
 title: "The Latest: Biden, Harris hold video link on Afghan chaos"
-excerpt: "WASHINGTON — President Joe Biden and Vice President Kamala Harris have held a secure video conference on Saturday morning with national security officials in response to the worsening situation in Afghanistan."
-publishedDateTime: 2021-08-15T00:53:00Z
-originalUrl: "https://www.mrt.com/news/article/The-Latest-Czech-diplomats-to-be-evacuated-to-16387129.php"
-webUrl: "https://www.mrt.com/news/article/The-Latest-Czech-diplomats-to-be-evacuated-to-16387129.php"
-ampWebUrl: "https://www.mrt.com/news/amp/The-Latest-Czech-diplomats-to-be-evacuated-to-16387129.php"
-cdnAmpWebUrl: "https://www-mrt-com.cdn.ampproject.org/c/s/www.mrt.com/news/amp/The-Latest-Czech-diplomats-to-be-evacuated-to-16387129.php"
+excerpt: "President Joe Biden and Vice President Kamala Harris have held a secure video conference with national security officials in response to the worsening situation in Afghanistan."
+publishedDateTime: 2021-08-15T07:53:00Z
+originalUrl: "https://www.sanluisobispo.com/news/nation-world/national/article253491799.html"
+webUrl: "https://www.sanluisobispo.com/news/nation-world/national/article253491799.html"
+ampWebUrl: "https://amp.sanluisobispo.com/news/nation-world/national/article253491799.html"
+cdnAmpWebUrl: "https://amp-sanluisobispo-com.cdn.ampproject.org/c/s/amp.sanluisobispo.com/news/nation-world/national/article253491799.html"
 type: article
-quality: 90
+quality: 80
 heat: -1
 published: false
 
 provider:
-  name: Midland Reporter-Telegram
-  domain: mrt.com
+  name: SanLuisObispo
+  domain: sanluisobispo.com
 
 topics:
   - Election
+  - Joe Biden
   - Kamala Harris
-
-images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
-    isCached: true
 
 related:
   - title: "Watch live: Biden, Harris speak at virtual climate summit"
@@ -1707,6 +1702,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "T6AAOyWUa4lfRxXuwDsqqZFIYUTIIrD7VW5sAaB23RfegY1kN76iqckSYxwBSUYBIaWYVLyuv23ICPgmf6Q5XieQYSUQkp1x4XjSL8OEHiq7gj9Xf+FKhH4a83AbMbgnhVQ/u0/pwlmTschNARNA9XeiFW6E7CSAOpwd7glKVnHZDFdRzVa7rZ7b+eZUew/dPM0WRQ6+DSwy22NHMJiZO657OGvvdlm5agPsLtNpPvr1y+sslNaQefZcDe4kn23wX1W48bR82BZuj60socas7aqMmFs+PrH8joMhcIDJcAXq+Mb2qy4bRiH9OFiwEn6XsmXMFZU6beGjqJrcvGrgMbmm3dxPrBd0r7500P9EI/Q=;i4TZn/cy3UJEkRP0YakS3g=="
+secured: "gf9RXLmksi0jqmV6fZFbNFt1dVpT6/6GVdjcqTItI0yowrZixo1RyWZn00JhmdXyYGfBFvHPdHyEsWqXjtBp/tbiLxkQ6PbQh9khhJi5j5lcue2uTJ+KVeysb5Pnjh4A/VTHByP7AXXrt5OFXUSl/f6EfSjbSOPXV5oGY96neTm4LKfEa+TMvne3qHve1wa7IEymTSVUmycwwbbxUNuNO6qdnQjuORqb2P1ZmCU3aqGWK6OEDAad78s60wxfAtR4d2iMpl67RAMxs2xIIJ8XPXhpVWqxeO3QG9b1PjtobJaIE4jY/M6mZNsiQlEsSTCywflrVc/x8sod763vSx7ypwjMdBDf06OjmuXPZAoU+segH6EGTiGO2CufaJvFXen6V7F9cisZ+TyNw08ziksLszcJPnmsm5JDz1Fdyyp+RxTFzDuQy6FW0DF6CtdNpzCzuqcNxH8vlui/yR8SP2LbemBdm6gqFgOAhs96YNRi9MC3F8qxA2Ymlg7QWaqpnP0XXdsfmyJ4cRu/Dxgnh/OOmA==;RNOWw1XhygNbWFw2RXCqDA=="
 ---
 

@@ -1,41 +1,36 @@
 ---
 category: news
-title: "Biden Destroys U.S. Energy Production, Begs OPEC to Pump"
-excerpt: "Just hours after being sworn into office on January 20, 2021, President Joe Biden signed an executive order canceling the Keystone XL pipeline. The move killed thousands of union jobs,"
-publishedDateTime: 2021-08-12T11:38:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/08/12/biden_destroys_us_energy_production_begs_opec_to_pump_549252.html"
-webUrl: "https://www.realclearpolitics.com/2021/08/12/biden_destroys_us_energy_production_begs_opec_to_pump_549252.html"
+title: "Biden court win on eviction ban extension draws appeals from Realtors, landlords"
+excerpt: "Groups against President Biden’s extension of the coronavirus eviction moratorium appealed one day after a federal judge ruled it could stand, according to reports."
+publishedDateTime: 2021-08-15T06:24:40Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iIbQMmjsgN0/biden-court-eviction-ban-extension-appeals-realtors-landlords"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iIbQMmjsgN0/biden-court-eviction-ban-extension-appeals-realtors-landlords"
+ampWebUrl: "https://www.foxnews.com/politics/biden-court-eviction-ban-extension-appeals-realtors-landlords.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-court-eviction-ban-extension-appeals-realtors-landlords.amp"
 type: article
-quality: 45
-heat: -1
-published: false
+quality: 170
+heat: 230
+published: true
 
 provider:
-  name: RealClearPolitics
-  domain: realclearpolitics.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Joe Biden
   - Republican Voice
 
+images:
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65634db6-d537-4f58-92ba-b491e437f557/18f65754-e325-4017-9d84-5920e08b5632/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
+    isCached: true
+
 related:
-  - title: "Biden court win on eviction ban extension draws appeals from Realtors, landlords"
-    excerpt: "Groups against President Biden’s extension of the coronavirus eviction moratorium appealed one day after a federal judge ruled it could stand, according to reports."
-    publishedDateTime: 2021-08-15T06:24:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iIbQMmjsgN0/biden-court-eviction-ban-extension-appeals-realtors-landlords"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-court-eviction-ban-extension-appeals-realtors-landlords.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-court-eviction-ban-extension-appeals-realtors-landlords.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65634db6-d537-4f58-92ba-b491e437f557/18f65754-e325-4017-9d84-5920e08b5632/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Speculation about Saigon rooftop replay in Kabul despite Biden assertion it couldn't happen"
     excerpt: "Biden administration officials are reportedly worried about a replay of the Vietnam War as they move to evacuate American diplomats from Afghanistan despite Biden’s firm claim that a similar scenario would not unfold."
     publishedDateTime: 2021-08-12T21:15:35Z
@@ -68,7 +63,16 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden Destroys U.S. Energy Production, Begs OPEC to Pump"
+    excerpt: "Just hours after being sworn into office on January 20, 2021, President Joe Biden signed an executive order canceling the Keystone XL pipeline. The move killed thousands of union jobs,"
+    publishedDateTime: 2021-08-12T11:38:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/08/12/biden_destroys_us_energy_production_begs_opec_to_pump_549252.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
-secured: "p4UScQtnaiOF21r84DW5ggZJPVMJWypHadsypbUTcWxD4zNoI79lwPHvalZlBYLygM9jLrtpyo6cVI0NsOyRU/S5YIqw/JYWZKSJ6ks5Zd7EHH082uONs00pQ/R/nwBZj00Hp40n6IxDUEUsmZlVlYQW9OBiaQrWV0Ym9zk7oieuQ1w7XuSkSSRjJKRPLYvn7YGfJ5SiXfZjjF5ZslVmm8vCdT5OrjkUH0EJKYcTvm3PynkV9HjtIw//CVOC4Bz8hTKrwpfrToFZR0QfGepsBql9GEHwoXrjaYwfR4xdXmojcyN81ttt72QMS6NAD2eIpQEgzIt2pV/zvPUjz/K5A+/aBHx4tmCW+jIjaElZMYg=;aVxwYbm/QfrcreVIqPhmeA=="
+secured: "9SW1Rj3O72wXEW4jSorLhvFFAWdPO9Wrvi3duwaWAQQmcf81/yuIeJxI0c+wsleCPFkSGd4tHdhJygEqnfJx89EmxH0WAsiL6T7Lv84uDH2IUgq0sUlicNYWvCq1GlnDr2W0B7Xpq1avYO12l+KxKkeSW5uUmrgML5s7h6YnHkoFYp5d0mE7Rl7+5vBf52GIwNJN+FKOzzOWOQ7kppdqjHiYb+olXbklTNJRD8In8Rhk7EX7LzCc8Z4PcbnVpduicJniMXtgRd24JxvLRue8a8LwnhcHG0SAsnJS3jsk5VhFHYUYst46u7Yd0ARzuWIGTof5wlPOg2mic3m8Bw6PoWU9WZS7M45O7bENtEVAKIw=;HgWwzwr4RjFOcZ8AHYb3VA=="
 ---
 

@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-15-biden-court-win-on-eviction-ban-extension-draws-appeals-from-realtors-landlords.md",
+      "title": "Biden court win on eviction ban extension draws appeals from Realtors, landlords",
+      "excerpt": "Groups against President Biden’s extension of the coronavirus eviction moratorium appealed one day after a federal judge ruled it could stand, according to reports.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iIbQMmjsgN0/biden-court-eviction-ban-extension-appeals-realtors-landlords",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iIbQMmjsgN0/biden-court-eviction-ban-extension-appeals-realtors-landlords",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 230,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65634db6-d537-4f58-92ba-b491e437f557/18f65754-e325-4017-9d84-5920e08b5632/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-court-eviction-ban-extension-appeals-realtors-landlords.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-court-eviction-ban-extension-appeals-realtors-landlords.amp",
+      "publishedDateTime": "2021-08-14T23:24:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-15-donald-trump-blasts-former-secretary-of-state-rex-tillerson-dumb-as-a-rock.md",
       "title": "Donald Trump blasts former secretary of state Rex Tillerson; ‘Dumb as a rock’",
       "excerpt": "President Trump denounced his former Secretary of State Thursday following reports Rex Tillerson quietly met with the House Foreign Affairs Committee and testified about his time in the Trump administration.",
@@ -1129,62 +1185,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-speculation-about-saigon-rooftop-replay-in-kabul-despite-biden-assertion-it-couldnt-happen.md",
-      "title": "Speculation about Saigon rooftop replay in Kabul despite Biden assertion it couldn't happen",
-      "excerpt": "Biden administration officials are reportedly worried about a replay of the Vietnam War as they move to evacuate American diplomats from Afghanistan despite Biden’s firm claim that a similar scenario would not unfold.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4W53YUu1BOI/speculation-about-saigon-rooftop-replay-in-kabul-despite-biden-denial-it-could-happen",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4W53YUu1BOI/speculation-about-saigon-rooftop-replay-in-kabul-despite-biden-denial-it-could-happen",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9a21eae-3044-43dd-b5f9-7c8d2000669e/afd3b02e-f294-438d-92a6-773e386f7e88/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/speculation-about-saigon-rooftop-replay-in-kabul-despite-biden-denial-it-could-happen.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/speculation-about-saigon-rooftop-replay-in-kabul-despite-biden-denial-it-could-happen.amp",
-      "publishedDateTime": "2021-08-12T14:15:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     },
     {
