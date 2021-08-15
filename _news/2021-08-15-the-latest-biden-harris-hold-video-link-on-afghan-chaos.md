@@ -2,23 +2,22 @@
 category: news
 title: "The Latest: Biden, Harris hold video link on Afghan chaos"
 excerpt: "President Joe Biden and Vice President Kamala Harris have held a secure video conference with national security officials in response to the worsening situation in Afghanistan."
-publishedDateTime: 2021-08-15T07:53:00Z
-originalUrl: "https://www.sanluisobispo.com/news/nation-world/national/article253491799.html"
-webUrl: "https://www.sanluisobispo.com/news/nation-world/national/article253491799.html"
-ampWebUrl: "https://amp.sanluisobispo.com/news/nation-world/national/article253491799.html"
-cdnAmpWebUrl: "https://amp-sanluisobispo-com.cdn.ampproject.org/c/s/amp.sanluisobispo.com/news/nation-world/national/article253491799.html"
+publishedDateTime: 2021-08-15T08:50:00Z
+originalUrl: "https://www.sunherald.com/news/nation-world/national/article253491799.html"
+webUrl: "https://www.sunherald.com/news/nation-world/national/article253491799.html"
+ampWebUrl: "https://amp.sunherald.com/news/nation-world/national/article253491799.html"
+cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/nation-world/national/article253491799.html"
 type: article
-quality: 80
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: SanLuisObispo
-  domain: sanluisobispo.com
+  name: Biloxi Sun Herald
+  domain: sunherald.com
 
 topics:
   - Election
-  - Joe Biden
   - Kamala Harris
 
 related:
@@ -1702,6 +1701,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "gf9RXLmksi0jqmV6fZFbNFt1dVpT6/6GVdjcqTItI0yowrZixo1RyWZn00JhmdXyYGfBFvHPdHyEsWqXjtBp/tbiLxkQ6PbQh9khhJi5j5lcue2uTJ+KVeysb5Pnjh4A/VTHByP7AXXrt5OFXUSl/f6EfSjbSOPXV5oGY96neTm4LKfEa+TMvne3qHve1wa7IEymTSVUmycwwbbxUNuNO6qdnQjuORqb2P1ZmCU3aqGWK6OEDAad78s60wxfAtR4d2iMpl67RAMxs2xIIJ8XPXhpVWqxeO3QG9b1PjtobJaIE4jY/M6mZNsiQlEsSTCywflrVc/x8sod763vSx7ypwjMdBDf06OjmuXPZAoU+segH6EGTiGO2CufaJvFXen6V7F9cisZ+TyNw08ziksLszcJPnmsm5JDz1Fdyyp+RxTFzDuQy6FW0DF6CtdNpzCzuqcNxH8vlui/yR8SP2LbemBdm6gqFgOAhs96YNRi9MC3F8qxA2Ymlg7QWaqpnP0XXdsfmyJ4cRu/Dxgnh/OOmA==;RNOWw1XhygNbWFw2RXCqDA=="
+secured: "+AASIfHMudMZQuakFOl3wHS5g6p4Hrsb1n6Pr7zCFXjZLtREIkHmj8s3OYguDfRZoI3En4Z9g0HWf+oCxZbRT4JU/88bi4wfocZmJx6s9ooBICeNjSndeI9OdQoVylPBhqRDU1+tN0QjSr6hdjdQIEBbvESGr/d4N8WMNWvxXpZc6RWnSaOem0kCq1k/ONF3EVI2p144ooDd44UewbqNJi+HB9aCMIGixZgl6AZIZNha737kCfgoAS9fxAvnTUSu8JpTO4buOtdEVpMyeV0hCicSfXoHWefLc+ZjTa7aEAZNwru9UfpGhfOp/D0xCOx4e8dHvt9Yt8Ec2GcZxTQ5hKlkr/gPFPD/fDRiUloBV2DgG0lwrcxu1pwWOREqt7lhRD+ebWn1bWwZHia60AomcdMlZoSsNdQY3Ge3O1wW42P88khCDPPpJbH5QJVBZKPx9HAzTeegOd3fuwUKr02aoB1vHXksDFlXuwA7kF1wCDvwFesvzC4tUV7fls4xMqVvYumcv+7KyaSYY4sXh5LcSg==;S7fSaYq9fK8/oN8c9P4KPg=="
 ---
 

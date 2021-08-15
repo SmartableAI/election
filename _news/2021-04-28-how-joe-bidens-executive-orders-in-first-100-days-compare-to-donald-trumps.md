@@ -623,6 +623,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Liz Cheney Faces Backlash After Blaming Trump and Biden for Afghan Collapse"
+    excerpt: "Twitter users pointed out that Cheney failed to acknowledge her father and former Vice President Dick Cheney's role in starting the war in Afghanistan."
+    publishedDateTime: 2021-08-15T09:24:00Z
+    webUrl: "https://www.newsweek.com/liz-cheney-faces-backlash-after-blaming-trump-biden-afghan-collapse-1619468"
+    ampWebUrl: "https://www.newsweek.com/liz-cheney-faces-backlash-after-blaming-trump-biden-afghan-collapse-1619468?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/liz-cheney-faces-backlash-after-blaming-trump-biden-afghan-collapse-1619468?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 138
+    images:
+      - url: "https://d.newsweek.com/en/full/1871451/liz-cheney.jpg"
+        width: 2500
+        height: 1799
+        isCached: true
   - title: "Joe Biden Mocking Donald Trump by Drinking Water With One Hand in Viral Video"
     excerpt: "A video of President Biden making a point of drinking with one hand has been viewed more than 576,000 times on Twitter."
     publishedDateTime: 2021-07-24T11:39:00Z

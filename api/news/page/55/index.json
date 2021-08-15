@@ -2,6 +2,63 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2021-04-23-kamala-harris-ripped-by-new-hampshire-gop-for-visiting-wrong-border.md",
+      "title": "Kamala Harris ripped by New Hampshire GOP for visiting 'wrong border'",
+      "excerpt": "The New Hampshire Republican Party called out Vice President Kamala Harris for visiting the \"wrong border\" as she heads to the Granite State for a visit.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GPxyKiKgp5U/kamala-harris-ripped-by-new-hampshire-gop-for-visiting-wrong-border",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GPxyKiKgp5U/kamala-harris-ripped-by-new-hampshire-gop-for-visiting-wrong-border",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/713e9f33-c4eb-4a97-8cf1-837ab5291ca0/cf878f8f-09af-4cf4-8926-35bdddacd5dc/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-ripped-by-new-hampshire-gop-for-visiting-wrong-border.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-ripped-by-new-hampshire-gop-for-visiting-wrong-border.amp",
+      "publishedDateTime": "2021-04-23T11:33:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-04-23-biden-set-to-make-maiden-foreign-trip-in-june-to-uk-and-belgium.md",
       "title": "Biden set to make maiden foreign trip in June to UK and Belgium",
       "excerpt": "President Joe Biden will embark upon his first foreign trip in June, the White House said on Friday, with plans to attend the Group of 7 summit in southwestern England and diplomatic meetings in Brussels.\n    \n",
@@ -1277,58 +1334,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-donald-trump-spokesperson-katrina-pierson-on-david-dukes-support.md",
-      "title": "Donald Trump spokesperson Katrina Pierson on David Duke's support",
-      "excerpt": "Donald Trump is hammering Hillary Clinton for saying half of his supporters were \"deplorables.\" One of those supporters is former KKK grand wizard, David Duke. Trump spokesperson Katrina Pierson joins CBSN's Vladimir Duthiers with more on Duke's support of Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/donald-trump-spokesperson-katrina-pierson-on-david-dukes-support-1/",
-      "originalUrl": "https://www.cbsnews.com/video/donald-trump-spokesperson-katrina-pierson-on-david-dukes-support-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/21/a179b816-e7bb-4b60-b84c-10cfa09d9ab1/thumbnail/1200x630/5bb76f63916dded2637062c244317c52/0913-cbsn-gcb-trumpspokesperson-1123271-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T16:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

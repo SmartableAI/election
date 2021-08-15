@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-12-biden-on-anti-mask-ordinances-this-isnt-about-politics-this-is-about-keeping-our-children-safe.md",
+      "title": "Biden on anti-mask ordinances: 'This isn't about politics -- this is about keeping our children safe'",
+      "excerpt": "President Joe Biden on Thursday hit out at anti-masking protesters for politicizing the Covid-19 pandemic, saying he was particularly disturbed by scenes at a school board meeting in Tennessee earlier this week.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qkATPJa-UMY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qkATPJa-UMY/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210810152440-06-biden-harris-remarks-0810-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/12/politics/joe-biden-anti-mask-ordinances-prescription-drug-prices/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/12/politics/joe-biden-anti-mask-ordinances-prescription-drug-prices/index.html",
+      "publishedDateTime": "2021-08-12T12:29:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-harris-to-meet-with-ceos-on-child-care-proposals-white-house.md",
       "title": "Harris to meet with CEOs on child care proposals -White House",
       "excerpt": "U.S. Vice President Kamala Harris will meet with the chief executives of seven companies including Microsoft Corp on Thursday to discuss the Biden administration's child care proposals as the White House seeks broad support for its agenda.",
@@ -1236,62 +1292,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/11/politics/biden-elizabeth-prelogar-solicitor-general/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/11/politics/biden-elizabeth-prelogar-solicitor-general/index.html",
       "publishedDateTime": "2021-08-11T04:45:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-federal-prosecutors-came-to-suspect-trump-org-cfo-allen-weisselberg-lied.md",
-      "title": "Federal prosecutors came to suspect Trump Org CFO Allen Weisselberg lied",
-      "excerpt": "New York federal prosecutors came to suspect the Trump Organization's chief financial officer, Allen Weisselberg, lied in testimony during their investigation of former Trump personal attorney Michael Cohen three years ago, according to four people familiar with prosecutors' thinking.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VqvsG_cStZ8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VqvsG_cStZ8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 234,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210701151604-weisselberg-leaves-court-0701-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/11/politics/weisselberg-lied-federal-prosecutors-suspect/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/11/politics/weisselberg-lied-federal-prosecutors-suspect/index.html",
-      "publishedDateTime": "2021-08-11T03:18:04-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

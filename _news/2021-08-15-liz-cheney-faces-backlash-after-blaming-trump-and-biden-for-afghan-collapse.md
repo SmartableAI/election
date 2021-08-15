@@ -1,31 +1,33 @@
 ---
 category: news
-title: "Biden's capital gains tax plan could backfire, says 8VC founder Joe Lonsdale"
-excerpt: "President Joe Biden's $3.5 trillion tax plan includes a hike on the capital gains tax to 39.6% in order to increase revenue. Joe Lonsdale, founding partner at 8VC and Palantir co-founder, joined \"Squawk Box\" on Thursday to discuss why he thinks the proposal may actually do the economy more harm than good."
-publishedDateTime: 2021-05-06T16:18:00Z
-originalUrl: "https://www.cnbc.com/video/2021/05/06/joe-lonsdale-capital-gain-tax-hike-proposal.html"
-webUrl: "https://www.cnbc.com/video/2021/05/06/joe-lonsdale-capital-gain-tax-hike-proposal.html"
+title: "Liz Cheney Faces Backlash After Blaming Trump and Biden for Afghan Collapse"
+excerpt: "Twitter users pointed out that Cheney failed to acknowledge her father and former Vice President Dick Cheney's role in starting the war in Afghanistan."
+publishedDateTime: 2021-08-15T09:24:00Z
+originalUrl: "https://www.newsweek.com/liz-cheney-faces-backlash-after-blaming-trump-biden-afghan-collapse-1619468"
+webUrl: "https://www.newsweek.com/liz-cheney-faces-backlash-after-blaming-trump-biden-afghan-collapse-1619468"
+ampWebUrl: "https://www.newsweek.com/liz-cheney-faces-backlash-after-blaming-trump-biden-afghan-collapse-1619468?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/liz-cheney-faces-backlash-after-blaming-trump-biden-afghan-collapse-1619468?amp=1"
 type: article
-quality: 102
+quality: 138
 heat: -1
 published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://image.cnbcfm.com/api/v1/image/106879107-16203028511620302846-15908151650-1080pnbcnews.jpg?v=1620302850"
-    width: 1920
-    height: 1080
+  - url: "https://d.newsweek.com/en/full/1871451/liz-cheney.jpg"
+    width: 2500
+    height: 1799
     isCached: true
 
 related:
@@ -620,22 +622,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/PsvvOCW8rq5Chh93ItISMtMfE-0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/IPIYWAREEF436YIDR75P2MOKME.aspx"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Liz Cheney Faces Backlash After Blaming Trump and Biden for Afghan Collapse"
-    excerpt: "Twitter users pointed out that Cheney failed to acknowledge her father and former Vice President Dick Cheney's role in starting the war in Afghanistan."
-    publishedDateTime: 2021-08-15T09:24:00Z
-    webUrl: "https://www.newsweek.com/liz-cheney-faces-backlash-after-blaming-trump-biden-afghan-collapse-1619468"
-    ampWebUrl: "https://www.newsweek.com/liz-cheney-faces-backlash-after-blaming-trump-biden-afghan-collapse-1619468?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/liz-cheney-faces-backlash-after-blaming-trump-biden-afghan-collapse-1619468?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 138
-    images:
-      - url: "https://d.newsweek.com/en/full/1871451/liz-cheney.jpg"
-        width: 2500
-        height: 1799
         isCached: true
   - title: "How Joe Biden's Executive Orders in First 100 Days Compare to Donald Trump's"
     excerpt: "The executive orders give a snapshot of the differing priorities between the two administrations soon after taking office."
@@ -2039,6 +2025,20 @@ related:
         width: 1200
         height: 730
         isCached: true
+  - title: "Biden's capital gains tax plan could backfire, says 8VC founder Joe Lonsdale"
+    excerpt: "President Joe Biden's $3.5 trillion tax plan includes a hike on the capital gains tax to 39.6% in order to increase revenue. Joe Lonsdale, founding partner at 8VC and Palantir co-founder, joined \"Squawk Box\" on Thursday to discuss why he thinks the proposal may actually do the economy more harm than good."
+    publishedDateTime: 2021-05-06T16:18:00Z
+    webUrl: "https://www.cnbc.com/video/2021/05/06/joe-lonsdale-capital-gain-tax-hike-proposal.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 102
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106879107-16203028511620302846-15908151650-1080pnbcnews.jpg?v=1620302850"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Donald Trump uses US border visit to pressure Joe Biden on immigration"
     excerpt: "Donald Trump will join Texas governor Greg Abbott at the US-Mexico border on Wednesday, as the former American president seeks to recapture the national limelight by returning to a hallmark issue of his political career."
     publishedDateTime: 2021-06-30T09:00:00Z
@@ -2682,6 +2682,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "YRBzuJc+4NgC8J9n12nFwlTpliI0eVlKQo6E23dBPHBlj2YijdKyPdbiNf74VDesBNiZblY01+N+ttk2qAznyt7569C5Kqtx6HFOf80P8Yg+IxHbr/8vigINDyXn9ooRp0McIBQg1TN49r5IGRRG6YQqZCM6nKV2Pu2ivrnxR+7YADQ19LJcfXiyxKDN1HdbDa04gfE8JI4Rn/J+jHN5aVpukQ0Nuxa/p01vLsaSEufMt+AZn+TDlwBMGrCSeQ+hVovdJLsSpiRirKEDhneMBahPm8XEBEVcX1bNschAz2v/X/vyQ24wxdbl3DYdjUgvxk47hqJ09mZw35zkLWceuj7MoHPKhH/5qMyz0UC6z40=;MrfTgUhP/YvNpLlWWTaf1w=="
+secured: "he6/yQwBTKH8AcnX2ZvSk+dWarX94NWmTnTAjrsV751hDaYBRHLc8Kf1QxYw8T4XEIb1TksYSJF+ffaao78wrBSvcgqTnvSo4R3wIA4AO8uEyj5QLhGkIGXlis34WORHQ5fve0I3K1MYIlACJtqFO8KXy5P82P+Mx7gFy718eNDXdt8BfT5l0CSR35SqYsj9s3Uyuo7U4w32SH+7MKWp29A9/GkRQ0ONzffvcKl8v+xgWoN/Tl1PEj6sJDphRVSpeYOxfbBWoSwi6HlabNJ1h+CNr7VDVVBwE6tnbE9G760SpPfy/1FDtoRp6FSHuuFusKDTs8ljI1h/sJMYl0TN0rRMIifsiOA9Qg9BbbHUto0=;Q8vrkO6m9oh2HBZpedyj2Q=="
 ---
 

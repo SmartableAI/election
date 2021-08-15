@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-56975402.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp"
 type: article
 quality: 150
-heat: 3690
+heat: 3710
 published: true
 
 provider:
@@ -607,6 +607,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/PsvvOCW8rq5Chh93ItISMtMfE-0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/IPIYWAREEF436YIDR75P2MOKME.aspx"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Liz Cheney Faces Backlash After Blaming Trump and Biden for Afghan Collapse"
+    excerpt: "Twitter users pointed out that Cheney failed to acknowledge her father and former Vice President Dick Cheney's role in starting the war in Afghanistan."
+    publishedDateTime: 2021-08-15T09:24:00Z
+    webUrl: "https://www.newsweek.com/liz-cheney-faces-backlash-after-blaming-trump-biden-afghan-collapse-1619468"
+    ampWebUrl: "https://www.newsweek.com/liz-cheney-faces-backlash-after-blaming-trump-biden-afghan-collapse-1619468?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/liz-cheney-faces-backlash-after-blaming-trump-biden-afghan-collapse-1619468?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 138
+    images:
+      - url: "https://d.newsweek.com/en/full/1871451/liz-cheney.jpg"
+        width: 2500
+        height: 1799
         isCached: true
   - title: "How Joe Biden's Executive Orders in First 100 Days Compare to Donald Trump's"
     excerpt: "The executive orders give a snapshot of the differing priorities between the two administrations soon after taking office."
