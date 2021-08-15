@@ -2,6 +2,63 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-06-25-devastation-in-south-florida-the-complicated-dance-between-desantis-and-trump-democrats-aging-problem-rip-famus-frederick-humphries.md",
+      "title": "Devastation in South Florida — The complicated dance between DeSantis and Trump — Democrats' aging problem — R.I.P. FAMU's Frederick Humphries",
+      "excerpt": "The search for dozens of missing people — including the grim task of recovering bodies — goes on amid the rubble. President Joe Biden shortly after midnight declared a state of emergency exists and ordered the federal government to offer assistance to local and state officials.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/florida-playbook/2021/06/25/devastation-in-south-florida-the-complicated-dance-between-desantis-and-trump-democrats-aging-problem-rip-famus-frederick-humphries-493369",
+      "originalUrl": "https://www.politico.com/newsletters/florida-playbook/2021/06/25/devastation-in-south-florida-the-complicated-dance-between-desantis-and-trump-democrats-aging-problem-rip-famus-frederick-humphries-493369",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg",
+          "width": 900,
+          "height": 1165,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-25T03:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-in-this-rural-virginia-district-a-young-republican-turns-toward-trump-in-faceoff-against-blm-supporter.md",
       "title": "In this rural Virginia district, a young Republican turns toward Trump in faceoff against BLM supporter",
       "excerpt": "Newcomer Wren Williams, who worked on the Trump campaign recount, faces a November contest with Black Lives Matter advocate Bridgette Craighead.",
@@ -1508,59 +1565,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-19-mike-pence-not-a-traitor-says-kevin-mccarthy-stood-right-by-president-trump.md",
-      "title": "Mike Pence 'Not a Traitor' Says Kevin McCarthy, 'Stood Right by President Trump'",
-      "excerpt": "Pence continues to face strong criticism from some supporters of former President Donald Trump for his role on January 6.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mike-pence-not-traitor-kevin-mccarthy-stood-right-president-trump-1602240",
-      "originalUrl": "https://www.newsweek.com/mike-pence-not-traitor-kevin-mccarthy-stood-right-president-trump-1602240",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1825772/mike-pence-addresses-gops-lincoln-reagan-dinner.jpg",
-          "width": 2814,
-          "height": 1876,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mike-pence-not-traitor-kevin-mccarthy-stood-right-president-trump-1602240?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-not-traitor-kevin-mccarthy-stood-right-president-trump-1602240?amp=1",
-      "publishedDateTime": "2021-06-19T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Mike Pence"
       ]
     }
   ],

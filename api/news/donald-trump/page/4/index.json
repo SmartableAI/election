@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-21-mccarthy-appoints-0-republicans-who-voted-to-impeach-trump-to-capitol-riot-committee.md",
+      "title": "McCarthy Appoints 0 Republicans Who Voted to Impeach Trump to Capitol Riot Committee",
+      "excerpt": "McCarthy leaving Republicans who voted to impeach Trump off the committee indicates they plan to push back on the idea that Trump is responsible for the riot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920",
+      "originalUrl": "https://www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 178,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1829552/trump-republicans-select-committee-impeachment.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920?amp=1",
+      "publishedDateTime": "2021-07-20T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-biden-will-certainly-welcome-help-from-trump-to-get-more-americans-vaccinated.md",
       "title": "Biden Will 'Certainly Welcome' Help From Trump To Get More Americans Vaccinated",
       "excerpt": "White House press secretary Jen Psaki has said that President Joe Biden will “certainly welcome” help from his predecessor Donald Trump to combat vaccine hesitancy amid a surge of COVID-19 cases. During a press briefing Monday,",
@@ -1472,58 +1524,6 @@
         "name": "Indianapolis Star",
         "domain": "indystar.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-chicago-banker-convicted-in-loans-for-trump-job-scheme.md",
-      "title": "Chicago banker convicted in loans-for-Trump job scheme",
-      "excerpt": "A Manhattan jury has convicted a Chicago banker of criminal charges for enabling Paul Manafort to get $16 million in loans as the former campaign manager for ex-President Donald Trump helped him get a",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/chicago-banker-convicted-in-loans-for-trump-job-scheme/2021/07/13/f69eaaca-e3f6-11eb-88c5-4fd6382c47cb_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/chicago-banker-convicted-in-loans-for-trump-job-scheme/2021/07/13/f69eaaca-e3f6-11eb-88c5-4fd6382c47cb_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OBHSMSXD7EI6XCGFJ7LDQLCHZM.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/business/chicago-banker-convicted-in-loans-for-trump-job-scheme/2021/07/13/f69eaaca-e3f6-11eb-88c5-4fd6382c47cb_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/chicago-banker-convicted-in-loans-for-trump-job-scheme/2021/07/13/f69eaaca-e3f6-11eb-88c5-4fd6382c47cb_story.html?outputType=amp",
-      "publishedDateTime": "2021-07-13T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

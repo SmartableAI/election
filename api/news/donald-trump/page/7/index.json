@@ -2,6 +2,63 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-07-02-trump-organization-voting-rights-cloud-gaming-your-thursday-evening-briefing.md",
+      "title": "Trump Organization, Voting Rights, Cloud Gaming: Your Thursday Evening Briefing",
+      "excerpt": "The Trump Organization and its C.F.O. were charged with fraud and tax crimes. The real estate business that catapulted Donald Trump to tabloid fame, television riches and ultimately the White House was charged with criminal tax fraud,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/07/01/briefing/trump-organization-voting-rights-cloud-gaming.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/01/briefing/trump-organization-voting-rights-cloud-gaming.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/01/multimedia/01PMBriefing-Trump-promo/01PMBriefing-Trump-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/01/briefing/trump-organization-voting-rights-cloud-gaming.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/01/briefing/trump-organization-voting-rights-cloud-gaming.amp.html",
+      "publishedDateTime": "2021-07-01T15:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-02-iowa-federal-judge-apologizes-for-comments-about-trump-pardons.md",
       "title": "Iowa federal judge apologizes for comments about Trump pardons",
       "excerpt": "An Iowa federal judge is apologizing for comments criticizing then-President Trump for multiple pardons that he issued in his last days in office.",
@@ -1553,63 +1610,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-devastation-in-south-florida-the-complicated-dance-between-desantis-and-trump-democrats-aging-problem-rip-famus-frederick-humphries.md",
-      "title": "Devastation in South Florida — The complicated dance between DeSantis and Trump — Democrats' aging problem — R.I.P. FAMU's Frederick Humphries",
-      "excerpt": "The search for dozens of missing people — including the grim task of recovering bodies — goes on amid the rubble. President Joe Biden shortly after midnight declared a state of emergency exists and ordered the federal government to offer assistance to local and state officials.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/florida-playbook/2021/06/25/devastation-in-south-florida-the-complicated-dance-between-desantis-and-trump-democrats-aging-problem-rip-famus-frederick-humphries-493369",
-      "originalUrl": "https://www.politico.com/newsletters/florida-playbook/2021/06/25/devastation-in-south-florida-the-complicated-dance-between-desantis-and-trump-democrats-aging-problem-rip-famus-frederick-humphries-493369",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg",
-          "width": 900,
-          "height": 1165,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-25T03:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

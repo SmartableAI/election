@@ -1,29 +1,29 @@
 ---
 category: news
 title: "The Latest: Biden praises school leaders for mask stance"
-excerpt: "The White House said in a statement Saturday that the Democratic president had spoken with interim Broward Superintendent Vickie Cartwright in Florida and Phoenix Union High School District Superintendent Chad Gestson in Arizona."
-publishedDateTime: 2021-08-15T01:31:00Z
-originalUrl: "https://www.mysanantonio.com/business/article/The-Latest-Australia-state-reports-record-daily-16386751.php"
-webUrl: "https://www.mysanantonio.com/business/article/The-Latest-Australia-state-reports-record-daily-16386751.php"
-ampWebUrl: "https://www.mysanantonio.com/news/amp/The-Latest-Australia-state-reports-record-daily-16386751.php"
-cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/The-Latest-Australia-state-reports-record-daily-16386751.php"
+excerpt: "President Joe Biden has called school district superintendents in Florida and Arizona, praising them for doing what he called “the right thing” after their respective boards implemented mask requirements in defiance of their Republican governors amid growing COVID-19 infections."
+publishedDateTime: 2021-08-15T03:46:00Z
+originalUrl: "https://www.bellinghamherald.com/entertainment/article253489409.html"
+webUrl: "https://www.bellinghamherald.com/entertainment/article253489409.html"
+ampWebUrl: "https://amp.bellinghamherald.com/entertainment/article253489409.html"
+cdnAmpWebUrl: "https://amp-bellinghamherald-com.cdn.ampproject.org/c/s/amp.bellinghamherald.com/entertainment/article253489409.html"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: My San Antonio
-  domain: mysanantonio.com
+  name: The Bellingham Herald
+  domain: bellinghamherald.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998020001/5e584b6a-e29d-498e-b7a1-33a26295d55c/dee19b34-74d4-485d-95ef-7b27f95faf7e/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -484,6 +484,6 @@ related:
       domain: cincinnati.com
     quality: 13
 
-secured: "Rv4N1Z4JfE4mKC72xxreLgP4g3SPqeBdBxQ9Pu7hcmd0FtLoNvOBsf3aPq7m9pJjmkNzV/T65FyAJs67k+S/FIZd19M1Sh6bsd4svpcP/I9tZ1ykKR+WgR7VqsELQHrhZeQf9jB1jux1Q9ROamfmP+PxEl2/3jXQZGtJauQG20gxnmFu2nXrPs2OHI1seLPVXCtli0IPcfqtzlIgjbsTGInvpeNyQzVLxazMrJbTo0OtbP7VJKxuamdKKyA1bmsMqUue88eUih/JonTUwgddu5rUA1eY92qU7nKYJsBQQ5GCqhV8+Vrzp1oWuFcE6KL/YJ6k3BOR4cjX6B8kvgDznwcEAO1kCyX/ZO3tdMDQUfk=;PpzXLi/Wvc9aeFb/BafSLA=="
+secured: "cWtyOROz76OphgWveWRRkeMmIzR6WynoWbYjpnqECR0Xy+plWcP6+doq5B6OGzsWyM9tRK57irnBTgTbjIWQZKClSnPD5yf9ZEWB7jVA2dHPzv9XQRSOr29Z3YGpwscLRju9n3cZYvMaxcXnZ7dwFjXHrxfBQ1hBRKzXxbQe3Qa8Vw66E+oMXSHgIeLciqSWlKlXjHOahGyGAVbnyeJTgMCoRESjUZ8Z3AwZhq0igWMdeLNsLYNw/En+sJHhsgKvfOwrQYK8sGxJqvQgJQUkGlkF+40+hwexVxyodKxyLCicAL2+0F0RbBa6PDxL62JfjQLteH2JktNQjYPtl7NL1K7oya0zPs+NLq2pKoCLnj4=;EprVeq2pawkGATxsFalptg=="
 ---
 

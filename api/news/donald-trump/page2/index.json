@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-05-trump-targeted-by-protesters-at-winged-foot-golf-club-in-mamaroneck.md",
+      "title": "Trump targeted by protesters at Winged Foot Golf Club in Mamaroneck",
+      "excerpt": "Former President Donald Trump was reportedly being honored at a tribute banquet at the Mamaroneck golf course, where people gathered to protest.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lohud.com/story/news/local/westchester/2021/08/05/winged-foot-banquet-trump-draws-protesters-westchester/5481261001/",
+      "originalUrl": "https://www.lohud.com/story/news/local/westchester/2021/08/05/winged-foot-banquet-trump-draws-protesters-westchester/5481261001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/08/04/PWES/dca1503e-9983-4e39-aa0a-2b3ebd94bb7a-sh080421Trump011.JPG?auto=webp&crop=4724,2658,x0,y46&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.lohud.com/amp/5481261001",
+      "cdnAmpWebUrl": "https://amp-lohud-com.cdn.ampproject.org/c/s/amp.lohud.com/amp/5481261001",
+      "publishedDateTime": "2021-08-04T17:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Journal News",
+        "domain": "lohud.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-cuomo-jams-democrats-with-trump-playbook-the-note.md",
       "title": "Cuomo jams Democrats with Trump playbook: The Note",
       "excerpt": "Gov. Andrew Cuomo is clinging to office by running plays made familiar by former President Trump, mixing indignant denials with what-aboutism and an instinct to fight.",
@@ -1485,58 +1528,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-audio-shows-a-profanity-laced-voicemail-that-dc-officer-michael-fanone-got-from-a-trump-supporter-while-he-was-testifying-to-congress.md",
-      "title": "Audio shows a profanity-laced voicemail that DC officer Michael Fanone got from a Trump supporter while he was testifying to Congress",
-      "excerpt": "The DC police officer had told Congress on Tuesday that he was beaten unconscious and almost killed by Capitol rioters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/michael-fanone-plays-explicit-voicemail-during-january-6-testimony-2021-7",
-      "originalUrl": "https://www.businessinsider.com/michael-fanone-plays-explicit-voicemail-during-january-6-testimony-2021-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/610121ec0d35a90018258b3e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/michael-fanone-plays-explicit-voicemail-during-january-6-testimony-2021-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michael-fanone-plays-explicit-voicemail-during-january-6-testimony-2021-7?amp",
-      "publishedDateTime": "2021-07-28T02:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

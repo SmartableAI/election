@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-08-former-trump-acting-ag-rosen-testifies-for-nearly-7-hours-before-committee-investigating-election-interference.md",
+      "title": "Former Trump acting AG Rosen testifies for nearly 7 hours before committee investigating election interference",
+      "excerpt": "Former Trump administration acting Attorney General Jeff Rosen testified before senators behind closed doors for nearly seven hours on Saturday in a session focused on possible election interference, Fox News has learned.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cX3oDNsSwPE/former-trump-acting-ag-rosen-testifies-nearly-7-hours-senate-committee-election-interference",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cX3oDNsSwPE/former-trump-acting-ag-rosen-testifies-nearly-7-hours-senate-committee-election-interference",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/former-trump-acting-ag-rosen-testifies-nearly-7-hours-senate-committee-election-interference.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-trump-acting-ag-rosen-testifies-nearly-7-hours-senate-committee-election-interference.amp",
+      "publishedDateTime": "2021-08-08T11:58:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-08-trumps-acting-attorney-general-revealed-frightening-activity-at-justice-department-senate-judiciary-chair-says.md",
       "title": "Trump's acting attorney general revealed 'frightening' activity at Justice Department, Senate Judiciary chair says",
       "excerpt": "Senate Judiciary Chairman Dick Durbin said Sunday that former acting Attorney General Jeffrey Rosen revealed in testimony this weekend \"frightening\" information about what had occurred at the Justice Department during the waning days of the Trump administration.\n    \n",
@@ -230,7 +286,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 475,
+      "heat": 495,
       "tags": null,
       "images": [
         {
@@ -1288,49 +1344,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-trump-targeted-by-protesters-at-winged-foot-golf-club-in-mamaroneck.md",
-      "title": "Trump targeted by protesters at Winged Foot Golf Club in Mamaroneck",
-      "excerpt": "Former President Donald Trump was reportedly being honored at a tribute banquet at the Mamaroneck golf course, where people gathered to protest.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lohud.com/story/news/local/westchester/2021/08/05/winged-foot-banquet-trump-draws-protesters-westchester/5481261001/",
-      "originalUrl": "https://www.lohud.com/story/news/local/westchester/2021/08/05/winged-foot-banquet-trump-draws-protesters-westchester/5481261001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/08/04/PWES/dca1503e-9983-4e39-aa0a-2b3ebd94bb7a-sh080421Trump011.JPG?auto=webp&crop=4724,2658,x0,y46&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.lohud.com/amp/5481261001",
-      "cdnAmpWebUrl": "https://amp-lohud-com.cdn.ampproject.org/c/s/amp.lohud.com/amp/5481261001",
-      "publishedDateTime": "2021-08-04T17:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Journal News",
-        "domain": "lohud.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Democratic organizations prepare to defend the Biden agenda during August recess "
-excerpt: "A range of Democratic committees and organizations are gearing up to defend President Joe Biden's agenda with what they hope will be a cohesive message during Congress' August recess, a sign of how critical Biden's popularity is to the party's success in 2022 and beyond.\n    \n"
-publishedDateTime: 2021-08-11T15:34:21Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DJSp6RViDHE/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DJSp6RViDHE/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/08/11/politics/democratic-organizations-to-push-biden-agenda-during-recess/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/11/politics/democratic-organizations-to-push-biden-agenda-during-recess/index.html"
+title: "Landlords aim to block Biden's new eviction moratorium in appeals court"
+excerpt: "Landlord groups challenging the Biden administration's eviction moratorium are now turning to the US Court of Appeals for the DC Circuit to try to block the extension of the moratorium.\n    \n"
+publishedDateTime: 2021-08-15T02:38:21Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mU1z1EZd7jo/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mU1z1EZd7jo/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/08/14/politics/eviction-moratorium-landlords-appeal/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/14/politics/eviction-moratorium-landlords-appeal/index.html"
 type: article
-quality: 170
+quality: 175
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210810154841-08-biden-harris-remarks-0810-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210814150207-eviction-moratorium-landlords-appeal-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -79,22 +79,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Landlords aim to block Biden's new eviction moratorium in appeals court"
-    excerpt: "Landlord groups challenging the Biden administration's eviction moratorium are now turning to the US Court of Appeals for the DC Circuit to try to block the extension of the moratorium.\n    \n"
-    publishedDateTime: 2021-08-15T02:38:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mU1z1EZd7jo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/14/politics/eviction-moratorium-landlords-appeal/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/14/politics/eviction-moratorium-landlords-appeal/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210814150207-eviction-moratorium-landlords-appeal-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden's new eviction moratorium can remain in place for now, judge rules"
     excerpt: "A federal judge in Washington, DC, on Friday allowed the Biden administration's revised eviction moratorium to remain in place, but acknowledged the moratorium faces an uncertain legal future.\n    \n"
     publishedDateTime: 2021-08-13T17:48:01Z
@@ -124,6 +108,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210803165508-01-biden-0803-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Democratic organizations prepare to defend the Biden agenda during August recess "
+    excerpt: "A range of Democratic committees and organizations are gearing up to defend President Joe Biden's agenda with what they hope will be a cohesive message during Congress' August recess, a sign of how critical Biden's popularity is to the party's success in 2022 and beyond.\n    \n"
+    publishedDateTime: 2021-08-11T15:34:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DJSp6RViDHE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/11/politics/democratic-organizations-to-push-biden-agenda-during-recess/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/11/politics/democratic-organizations-to-push-biden-agenda-during-recess/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210810154841-08-biden-harris-remarks-0810-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -286,6 +286,6 @@ related:
         height: 773
         isCached: true
 
-secured: "+Y/lKo0F0fjQBht1fNbwOF+aQFEGtZbxsrHFjAG2DJ1pCNuPkROrd7A7KgFEPoUVeQEPatsSQq4iTGUijp28mh246UTN4wJUd1ziTMuMuhXsp0DJu5fm6PrxxEuYsFwJ/fNmHTAib271Cl4+FsYriOqBlOf0426RVpt5VZZAOgqlPUEfSqsOSq6XFicmZTL4UL2Q5gMR71GfR73wFNc8NgOCZARdoNkDLPDa78EsFecAJ3lNyrXhDm9KVKYdqr7I+FAGhGLd5qyNn9ycHXdlmwYjBONH0AWxlYP/9MPQC4+9UcgrU6xFO4bDXbfwu0S4To+CWWqcyxuoSJD44i5YS4wkONzzWt1z+LXxaQIpoaI=;hvgc8GekLFJaB+EfYQXotg=="
+secured: "Dut+dgZxA1u72DdGCkPYe3x2u1nkbnr8ooB+QT1ZLAiQghcwCWKwOPMP0n60mVNVcRmQ8T+eP1oIDc0K9SGq0H+4769f1VKulb7OXRv0rOtxsznBRB1Odb1Ay+Jku0hHYhKdqzkLvTNueNljGDuIakJ33m2lA2Ck6n0+S7tDoNo4g9sMqozKYzmap12N5VNksAd2XMa03dbIWSy5QROBcgSpXJtjoj0sEOILVNuJCE3UY8at1OxmkFhA4tpFeJo96Qr6pIjEeexsOgm4nNU7hS0QMdB7HBOassjJ+dResi/eh5QlsAmbZC1viy1R/pdLR2jGMeMCJLRbs4NxpWr1E39pu+ZB3y+30fIU+aHudsQ=;GJMs6EDPfC5BTiKZX2FvlA=="
 ---
 

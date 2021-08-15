@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-15-donald-trump-blasts-former-secretary-of-state-rex-tillerson-dumb-as-a-rock.md",
+      "title": "Donald Trump blasts former secretary of state Rex Tillerson; ‘Dumb as a rock’",
+      "excerpt": "President Trump denounced his former Secretary of State Thursday following reports Rex Tillerson quietly met with the House Foreign Affairs Committee and testified about his time in the Trump administration.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/donald-trump-europe-rex-tillerson-96b455a30118c4b2ac668418b27073f2",
+      "originalUrl": "https://apnews.com/article/donald-trump-europe-rex-tillerson-96b455a30118c4b2ac668418b27073f2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/ShareLogo2.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-14T20:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-15-mary-trump-says-gop-voter-suppression-laws-may-convince-donald-trump-to-run-in-2024.md",
       "title": "Mary Trump Says GOP 'Voter Suppression Laws' May 'Convince' Donald Trump to Run in 2024",
       "excerpt": "\"Republicans are going to use those accusations of fraud—those grievances that are really stirring up the base and spreading by the way—to enact these voter suppression laws,\" said the niece of former President Donald Trump.",
@@ -1417,49 +1460,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-trump-targeted-by-protesters-at-winged-foot-golf-club-in-mamaroneck.md",
-      "title": "Trump targeted by protesters at Winged Foot Golf Club in Mamaroneck",
-      "excerpt": "Former President Donald Trump was reportedly being honored at a tribute banquet at the Mamaroneck golf course, where people gathered to protest.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lohud.com/story/news/local/westchester/2021/08/05/winged-foot-banquet-trump-draws-protesters-westchester/5481261001/",
-      "originalUrl": "https://www.lohud.com/story/news/local/westchester/2021/08/05/winged-foot-banquet-trump-draws-protesters-westchester/5481261001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/08/04/PWES/dca1503e-9983-4e39-aa0a-2b3ebd94bb7a-sh080421Trump011.JPG?auto=webp&crop=4724,2658,x0,y46&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.lohud.com/amp/5481261001",
-      "cdnAmpWebUrl": "https://amp-lohud-com.cdn.ampproject.org/c/s/amp.lohud.com/amp/5481261001",
-      "publishedDateTime": "2021-08-04T17:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Journal News",
-        "domain": "lohud.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

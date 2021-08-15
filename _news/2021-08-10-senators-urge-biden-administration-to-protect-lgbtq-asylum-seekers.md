@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Landlords aim to block Biden's new eviction moratorium in appeals court"
+    excerpt: "Landlord groups challenging the Biden administration's eviction moratorium are now turning to the US Court of Appeals for the DC Circuit to try to block the extension of the moratorium.\n    \n"
+    publishedDateTime: 2021-08-15T02:38:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mU1z1EZd7jo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/14/politics/eviction-moratorium-landlords-appeal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/14/politics/eviction-moratorium-landlords-appeal/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210814150207-eviction-moratorium-landlords-appeal-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's new eviction moratorium can remain in place for now, judge rules"
     excerpt: "A federal judge in Washington, DC, on Friday allowed the Biden administration's revised eviction moratorium to remain in place, but acknowledged the moratorium faces an uncertain legal future.\n    \n"
     publishedDateTime: 2021-08-13T17:48:01Z
