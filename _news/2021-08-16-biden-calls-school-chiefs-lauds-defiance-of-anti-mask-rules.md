@@ -2,19 +2,19 @@
 category: news
 title: "Biden calls school chiefs, lauds defiance of anti-mask rules"
 excerpt: "President Joe Biden has called school district superintendents in Florida and Arizona, praising them for doing what he called “the right thing” after their respective boards implemented mask requirements in defiance of their Republican governors amid growing COVID-19 infections."
-publishedDateTime: 2021-08-15T18:05:00Z
-originalUrl: "https://www.bnd.com/news/article253497254.html"
-webUrl: "https://www.bnd.com/news/article253497254.html"
-ampWebUrl: "https://amp.bnd.com/news/article253497254.html"
-cdnAmpWebUrl: "https://amp-bnd-com.cdn.ampproject.org/c/s/amp.bnd.com/news/article253497254.html"
+publishedDateTime: 2021-08-15T21:44:00Z
+originalUrl: "https://www.bellinghamherald.com/news/article253497254.html"
+webUrl: "https://www.bellinghamherald.com/news/article253497254.html"
+ampWebUrl: "https://amp.bellinghamherald.com/news/article253497254.html"
+cdnAmpWebUrl: "https://amp-bellinghamherald-com.cdn.ampproject.org/c/s/amp.bellinghamherald.com/news/article253497254.html"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: BND
-  domain: bnd.com
+  name: The Bellingham Herald
+  domain: bellinghamherald.com
 
 topics:
   - Election
@@ -291,6 +291,6 @@ related:
       domain: usnews.com
     quality: 31
 
-secured: "LuJp4sUBKjsHy4KjvxO0j67YXR9uewY0PipNz4bJmJvzRXmTcxFiQIYyaT+S+NK3eD/sVemHDFCRkSswsxljlDxitA9sJEg1QlQlxBcx1jWgOKXriCemg4UFTT9yG6ssE/z5PkGnF3WwKpk3Xso3zlJlfMVAYbm55d4LvBh8WlO+QvRjUAZWNir3e571/37vuMBCA+X9lCwS0VNKt70NQNnp/wwp/8rUC7kQqYbz2hofR2VBhKxEf7etiHlUU0Dbo2b/mOM1nUJWLiFkuYEQeyxnOvTgFYWw9SydKklkLkfTRUCeln6gw/KOlT+ihCqe5GU/Erj4cbqaNFy2fJzMJV/kbM8UlFO0iZ07QhdDSvFzOWpAvFyCI4ROYeepjowg9iSpHu4mOeiA1ClxvXQwOQKMpNHkYDIwblu3LnQYaseeilJ9cunBrQCPBqQR2/9iOwLFRg19yigxJC3imEQm3sewZEHvRNeKTWbX1KBM1H6FYkHg/KPAByHBd49C4pwDYVZAZgLBtBbmwOId9Ri0DA==;vT4hxWcjde/fwUdBxyAstw=="
+secured: "LZkmMovh2A71VIVTvEuYZboaHzOp85UUoImbvDYoov99kbVS94rBNtmpsp6vmXJQv2q6EpcEgZu+obuGnWmwxup2F0aDDIQw5rIHLQQef8+Hhk6GBrTNN4NtBFDd+Nun4rTZeoiVMN7jorW2tOfEwiLb2A71tpzUVDOPVdyBZ30Y0oSzU1FGWYTwiuvCGz6tKD0mmdkAzln3lXb/FCGjVGl9SMqOrKT6eg2Vql41pDJk6XBnFnZJM9owLDYYvoJcZ9H7hZvIFecakhlif3QdaIJEDkaxso82glrs5C3EEsYSQ/QEPQAjb59NiQLQNzQ7fERvLkUVVvp6wNxW2R7cg85lYhqQnDV9QcHkLqCUM4z6WsEnfQxtpAStRIGjGT7KLlonN/LBtpMxD07YOL/X/7cXstcyzotqxV1yoRWYGW+L2iNuSva8Ka2Kf9a1rNfglWZmaGWdJxsLTuInSOtdBRHJD7LNQD9rgUyev9rBioHrk5h91VVGNb1AG66xmS0sepnpG5MoJsiW6VmSPvt3Bg==;57N86jDZhO348jPW4kGyaA=="
 ---
 

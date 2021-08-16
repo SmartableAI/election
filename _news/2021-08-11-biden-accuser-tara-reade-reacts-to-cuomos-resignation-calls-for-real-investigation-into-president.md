@@ -32,67 +32,58 @@ images:
     isCached: true
 
 related:
-  - title: "Biden court win on eviction ban extension draws appeals from Realtors, landlords"
-    excerpt: "Groups against President Biden’s extension of the coronavirus eviction moratorium appealed one day after a federal judge ruled it could stand, according to reports."
-    publishedDateTime: 2021-08-15T06:24:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iIbQMmjsgN0/biden-court-eviction-ban-extension-appeals-realtors-landlords"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-court-eviction-ban-extension-appeals-realtors-landlords.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-court-eviction-ban-extension-appeals-realtors-landlords.amp"
+  - title: "Biden backs Newsom as California recall election looms, urges residents to 'vote no'"
+    excerpt: "President Joe Biden delivered his strongest endorsement to date for embattled Democratic Gov. Gavin Newsom on Thursday, urging Californians to reject an effort to recall the governor in an upcoming special election."
+    publishedDateTime: 2021-08-13T01:49:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zNBK8tUn23w/biden-backs-newsom-california-recall-election"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-backs-newsom-california-recall-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backs-newsom-california-recall-election.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 183
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65634db6-d537-4f58-92ba-b491e437f557/18f65754-e325-4017-9d84-5920e08b5632/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f18efe6-404a-4e2c-b361-15a6d9a9bc12/671f0271-fb6b-47cd-b5e6-d2efaf051978/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Stephen Miller's group accuses Biden admin of hiding docs on Supreme Court commission"
-    excerpt: "Fox News exclusively obtained the letter AFL sent to the Biden administration regarding documents pertaining to the Presidential Commission on the Supreme Court."
-    publishedDateTime: 2021-08-12T21:11:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/78fDYJFl9lI/biden-supreme-court-commission-america-first-legal"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-supreme-court-commission-america-first-legal.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-supreme-court-commission-america-first-legal.amp"
+  - title: "Biden departs for vacation as multiple crises escalate"
+    excerpt: "Biden departed the White House for a vacation in Wilmington as multiple crises escalated Thursday"
+    publishedDateTime: 2021-08-12T21:56:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dPjuYw6QT58/biden-departs-for-vacation-as-multiple-crises-escalate"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-departs-for-vacation-as-multiple-crises-escalate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-departs-for-vacation-as-multiple-crises-escalate.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d9359c2d-9958-4ec7-a829-482f4c382329/b3ff4e74-7195-482f-b18f-15b23d3e7099/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c505be5b-7fe5-4a10-b256-fbc6b1e6a2f1/272c5604-5105-47e9-88ac-0be2cd6b1b4d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Speculation about Saigon rooftop replay in Kabul despite Biden assertion it couldn't happen"
-    excerpt: "Biden administration officials are reportedly worried about a replay of the Vietnam War as they move to evacuate American diplomats from Afghanistan despite Biden’s firm claim that a similar scenario would not unfold."
-    publishedDateTime: 2021-08-12T21:15:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4W53YUu1BOI/speculation-about-saigon-rooftop-replay-in-kabul-despite-biden-denial-it-could-happen"
-    ampWebUrl: "https://www.foxnews.com/politics/speculation-about-saigon-rooftop-replay-in-kabul-despite-biden-denial-it-could-happen.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/speculation-about-saigon-rooftop-replay-in-kabul-despite-biden-denial-it-could-happen.amp"
+  - title: "President Biden urges voters to vote ‘no’ in Newsom’s recall vote"
+    excerpt: "President Joe Biden made a statement on Thursday supporting California Governor Gavin Newsom and urging voters to vote “no” in the recall election."
+    publishedDateTime: 2021-08-13T02:00:00Z
+    webUrl: "https://nypost.com/2021/08/12/president-biden-urges-voters-to-vote-no-in-newsoms-recall-vote/"
+    ampWebUrl: "https://nypost.com/2021/08/12/president-biden-urges-voters-to-vote-no-in-newsoms-recall-vote/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/12/president-biden-urges-voters-to-vote-no-in-newsoms-recall-vote/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
+      name: New York Post
+      domain: nypost.com
+    quality: 135
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9a21eae-3044-43dd-b5f9-7c8d2000669e/afd3b02e-f294-438d-92a6-773e386f7e88/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/biden-newsom-recall-600.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "Biden Destroys U.S. Energy Production, Begs OPEC to Pump"
-    excerpt: "Just hours after being sworn into office on January 20, 2021, President Joe Biden signed an executive order canceling the Keystone XL pipeline. The move killed thousands of union jobs,"
-    publishedDateTime: 2021-08-12T11:38:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/08/12/biden_destroys_us_energy_production_begs_opec_to_pump_549252.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
-  - title: "Biden Administration Joins Florida School Mask Fight"
-    excerpt: "President Joe Biden even called Broward's superintendent Friday night, the Miami Herald reported, to offer his support for district rules requiring students to wear masks. On the call, he said his administration stands ready to support their school districts and communities to get back to safe,"
-    publishedDateTime: 2021-08-15T11:08:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/08/15/biden_administration_joins_florida_school_mask_fight_549465.html"
+  - title: "It's Up to Democrats to Stop Biden's Radical Agenda"
+    excerpt: "Senate Democrats released a 92-page outline of President Joe Biden's agenda Monday morning. It is nothing short of a blueprint for a far-left, radical remaking of the United States."
+    publishedDateTime: 2021-08-10T11:58:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/08/10/its_up_to_democrats_to_stop_bidens_radical_agenda_549108.html"
     type: article
     provider:
       name: RealClearPolitics

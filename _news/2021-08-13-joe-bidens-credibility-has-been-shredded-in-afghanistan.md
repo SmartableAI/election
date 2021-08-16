@@ -3,10 +3,12 @@ category: news
 title: "Joe Biden’s credibility has been shredded in Afghanistan"
 excerpt: "Since it is Joe Biden in the White House there is instead, largely, an embarrassed silence. It is true that Trump set the US on the path out of Afghanistan and began the delusional peace talks with the Taliban that have gone nowhere."
 publishedDateTime: 2021-08-13T11:03:00Z
-originalUrl: "https://www.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2?sharetype=gift?token=9a0f6249-c77d-49d9-9e40-5d60a284c26c"
-webUrl: "https://www.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2?sharetype=gift?token=9a0f6249-c77d-49d9-9e40-5d60a284c26c"
+originalUrl: "https://www.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
+webUrl: "https://www.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
+ampWebUrl: "https://amp.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
+cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
 type: article
-quality: 85
+quality: 125
 heat: -1
 published: false
 
@@ -21,6 +23,12 @@ provider:
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F59ee2303-20bc-436e-af84-5c0b95f486a1.jpg?source=google-amp&fit=scale-down&width=500"
+    width: 500
+    height: 281
+    isCached: true
 
 related:
   - title: "Biden to pull U.S. troops from Afghanistan by Sept. 11, sources say"
@@ -580,6 +588,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "President Joe Biden’s team surprised by rapid Taliban gains in Afghanistan"
+    excerpt: "President Joe Biden and other top U.S. officials were stunned on Sunday by the pace of the Taliban's nearly complete takeover of Afghanistan, as the planned withdrawal of American forces urgently became a mission to ensure a safe evacuation."
+    publishedDateTime: 2021-08-15T22:48:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/aug/15/president-joe-bidens-team-surprised-by-rapid-talib/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/aug/15/president-joe-bidens-team-surprised-by-rapid-talib/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/aug/15/president-joe-bidens-team-surprised-by-rapid-talib/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 73
+    images:
+      - url: "https://thumb.spokesman.com/AWDsH854wFcBy6zmIjWYANCXlFw=/480x0/media.spokesman.com/photos/2021/08/15/611996d81ee05.hires.jpg"
+        width: 480
+        height: 320
+        isCached: true
   - title: "Biden authorizes 5,000 troops to Afghanistan to assist with 'orderly and safe' withdrawal"
     excerpt: "Biden said he's authorized additional troops to help with \"an orderly and safe drawdown\" in Afghanistan as the Taliban continued to make rapid gains."
     publishedDateTime: 2021-08-14T21:35:00Z
@@ -691,6 +715,6 @@ related:
       domain: bnd.com
     quality: 55
 
-secured: "gQD0R/e4j6GrrZ3Tsj1PXO+uJ858cm9opI4PYH8M6Bl4kk5tgi9BfrHYSGYhiwMzTzpiJ/RM+9sRxPuieZQkvhEktkSo6OqNW1uxOFM1Wwm14N16u5rPY89HtIzBFhtouuFSQqInjKQHuonD9JKqf9KBbQc8FakcA4e3gx/YFX96Iu6pK4qyWrZej+HFPXOII9cKcOA0XzdN7a/+p5JHup5ECsw/Tx8QgsvJDJ4HW90q3Jx3CmssLUG7Q1ZWHsPTHiox79zHYPBOap3Cvyt73H6YVh5J0kaRrfCs8l/h0IGTjv27G3ZevqdiUEafNAPyyxQxhUIh+JFxkmb70Vrk0VXXf4M5PxFpVLLd1ehRT1Sz0lsQXSr16BFXTt2UCdwDwSXRGRuGp0OOHefRlmhxV7ebHven/no2PSlixKULWKHceqWee347/50h/ibx8SlFkR121IGRUIUolZkMK8sG/gXcSwmvaq8u+pI6jINz9v40WpxV/fWV5exJsplDsZ2sU7sqWRHXwwaQIfDvUtB+kw==;+vcIg3RUIdQ7ndLKmbBpGQ=="
+secured: "Yrccu3HXAWdbKYwgEVtHoc2NXkiymhqUAeL0Bk/XqxU9E2zMZvXMid0K4s52pIQ1hruSOXhuBaKYsM29ZtlcickFRdJ2wcoDgsv6Qu1+2ok1emJrvM85dahpk3YWvuM1JL12/sF8K88iOEFr0AnMYDvNEmcBEekWZtO5Dz4ACFJoRR4u5SN8wBsGq0d8tVXpay34u7KeFzrY6FBJYIJvIzB/hdyYcRhyPZRbnM7bT91T/eJfcFykm6bQpAO9mApdPJxFlvy6uHHwKjNVhhS/sMKL2NzvmjdQ+JN8Z/ER5RHlJwUf/RbrfBiQRElNuHutqhFaXPSVHGR+C9eZn6NANSPMNMG3ckBku2eBlzP6IWQ=;YMpGqXtIMvQ8lBlwYA1X/Q=="
 ---
 

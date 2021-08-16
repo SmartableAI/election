@@ -89,6 +89,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "‘Resign in disgrace’: Trump calls for Biden to step down"
+    excerpt: "Former President Donald Trump called on President Biden to “resign in disgrace” as the Taliban moved to control Afghanistan in response to the withdrawal of U.S. troops."
+    publishedDateTime: 2021-08-15T22:40:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/aug/15/trump-calls-biden-resign-disgrace/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/15/trump-calls-biden-resign-disgrace/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/15/trump-calls-biden-resign-disgrace/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 90
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/08/11/trump_financial_records_86507_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Trump told Cali. to sweep the forest floors. What’s Biden’s plan to combat wildfires?"
     excerpt: "Gavin Newsom stood side by side, in a forest that burned badly a year ago, pledging to work together against California’s raging wildfires. Vilsack, acknowledging criticisms that the U.S. Forest Service hasn’t done enough to fight fires,"
     publishedDateTime: 2021-08-09T15:38:00Z

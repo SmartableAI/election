@@ -63,22 +63,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Biden departs for vacation as multiple crises escalate"
-    excerpt: "Biden departed the White House for a vacation in Wilmington as multiple crises escalated Thursday"
-    publishedDateTime: 2021-08-12T21:56:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dPjuYw6QT58/biden-departs-for-vacation-as-multiple-crises-escalate"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-departs-for-vacation-as-multiple-crises-escalate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-departs-for-vacation-as-multiple-crises-escalate.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c505be5b-7fe5-4a10-b256-fbc6b1e6a2f1/272c5604-5105-47e9-88ac-0be2cd6b1b4d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Biden-linked lobbyists see sharp increase in cash streams"
     excerpt: "Several lobbying firms with connections to President Biden are experiencing a sharp increase in cash as the influence industry has pivoted to access the White House."
     publishedDateTime: 2021-08-12T15:23:32Z
@@ -174,20 +158,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/720/405/AP21216625636317-e1628113969608.jpg?ve=1&tl=1"
         width: 720
         height: 405
-        isCached: true
-  - title: "Biden Admits Green New Deal Is a Dream"
-    excerpt: "\"What the IPCC told us is what President Biden has believed all along,\" White House press secretary Jen Psaki noted on Tuesday. \"Climate change is an urgent threat that requires bold action.\" The very next day,"
-    publishedDateTime: 2021-08-13T11:28:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/08/13/biden_admits_green_new_deal_is_a_dream_146243.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/55/550662_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "i2D5T28ov9fk0hOCcVpvjJOheV8ja8DJ9SJxfN8KLQDa+0eYSQ3woeSwlbrZSd/EBJRw6jPdKGQ1lg+xvYZ1O7fwWQwM5i+8KVpYNWGnTEpQKwhjLtwcXRGvV2hxv1PqTVzEUFIvONPjiBfA9gfKDjGNMEFMIob9vMHKrSQyXtRj2ordbyYLK/GRpQwM3nO58Fc2g1XSu9NTChd0phgx1I46uD+4gndlfe97nO95Cx3XFRG+f2rcepjwnwap3cpUDzuT70J9c1VS26TEJD9LGTZ54ZNI273Mlp4h63+MiND32kmcqMlxQqMrNqj9JTcwOJhwN6TmraAiRL5Dh3YBXiFLsP5/NgRG4XOjLZN084c=;5qILtBGl+ACB1H2LFRwfWA=="

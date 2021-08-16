@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/trump-reinstatement-day-latest-failure-pred
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152?amp=1"
 type: article
 quality: 140
-heat: 780
+heat: 800
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HNOMQDXOHUI6XANSTNYGDJMC3A.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "‘Resign in disgrace’: Trump calls for Biden to step down"
+    excerpt: "Former President Donald Trump called on President Biden to “resign in disgrace” as the Taliban moved to control Afghanistan in response to the withdrawal of U.S. troops."
+    publishedDateTime: 2021-08-15T22:40:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/aug/15/trump-calls-biden-resign-disgrace/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/15/trump-calls-biden-resign-disgrace/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/15/trump-calls-biden-resign-disgrace/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 90
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/08/11/trump_financial_records_86507_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Federal Judge Orders Biden to Resume Trump’s ‘Remain in Mexico’ Immigration Policy"
     excerpt: "U.S. District Judge Matthew Kacsmaryk, a Trump appointee, stayed his decision for a week to allow the Biden administration to appeal."

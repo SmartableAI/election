@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "California Gov. Newsom confirms Biden, Harris will campaign for him in a 'matter of weeks'"
-    excerpt: "Embattled California Gov. Gavin Newsom confirmed Friday that President Biden and Vice President Kamala Harris would campaign on his behalf in the coming weeks as he attempts to stave off a recall vote."
-    publishedDateTime: 2021-08-13T22:03:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qi_21MX4m6E/california-gov-newsom-biden-harris-campaign-recall"
-    ampWebUrl: "https://www.foxnews.com/politics/california-gov-newsom-biden-harris-campaign-recall.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-gov-newsom-biden-harris-campaign-recall.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cec80a1-b696-4f84-98d7-a096e98659e3/1c756d90-99fa-4394-8aac-ef9932071362/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Biden backs Newsom as California recall election looms, urges residents to 'vote no'"
     excerpt: "President Joe Biden delivered his strongest endorsement to date for embattled Democratic Gov. Gavin Newsom on Thursday, urging Californians to reject an effort to recall the governor in an upcoming special election."
     publishedDateTime: 2021-08-13T01:49:48Z
@@ -60,20 +44,47 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Kamala Harris Utterly Flubbing Her Job as Veep"
-    excerpt: "Kamala Harris isn't very good at this. The vice president has never won an election on her own outside of the hothouse of California politics, and it shows. On paper, she was a strong"
-    publishedDateTime: 2021-08-09T11:33:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/08/09/kamala_harris_utterly_flubbing_her_job_as_veep_549009.html"
+  - title: "Biden departs for vacation as multiple crises escalate"
+    excerpt: "Biden departed the White House for a vacation in Wilmington as multiple crises escalated Thursday"
+    publishedDateTime: 2021-08-12T21:56:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dPjuYw6QT58/biden-departs-for-vacation-as-multiple-crises-escalate"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-departs-for-vacation-as-multiple-crises-escalate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-departs-for-vacation-as-multiple-crises-escalate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c505be5b-7fe5-4a10-b256-fbc6b1e6a2f1/272c5604-5105-47e9-88ac-0be2cd6b1b4d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden accuser Tara Reade reacts to Cuomo's resignation, calls for 'real investigation' into president"
+    excerpt: "Tara Reade, the former Senate staffer who alleged last year that Joe Biden sexually assaulted her in 1993, weighed in on the stunning resignation of Democratic New York Gov. Andrew Cuomo amid his sexual harassment scandal."
+    publishedDateTime: 2021-08-10T17:25:00Z
+    webUrl: "https://www.foxnews.com/media/tara-reade-cuomo-resignation-biden"
+    ampWebUrl: "https://www.foxnews.com/media/tara-reade-cuomo-resignation-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tara-reade-cuomo-resignation-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/66326c66-e604-4c69-8e1c-60288fe28032/004b93fc-2b6c-48e2-b00d-9265d18ce4a5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "It's Up to Democrats to Stop Biden's Radical Agenda"
+    excerpt: "Senate Democrats released a 92-page outline of President Joe Biden's agenda Monday morning. It is nothing short of a blueprint for a far-left, radical remaking of the United States."
+    publishedDateTime: 2021-08-10T11:58:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/08/10/its_up_to_democrats_to_stop_bidens_radical_agenda_549108.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/55/550314_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
+    quality: 45
 
 secured: "cGhwENVpcVpvZwIAACHT/WiKr9RPjEl+cp9dEnUB0Nzwqj9kEO32eNcYb+m4oueEkk4G8CNkXJtLNReVrybyKOMYMPLyINxese6FN3niGgeDu9wxGM8d9YCtlI4z/cGdcehn7J13B4ujusLnzpJyOKq08gqel5VfSebCoCWvGyfiO6NugP2KODnvRsij6xlzNyZ+ZB55RII3o70hGRM8DSGcCTZ60Qil5c+Rir9G3vtRxZMhD1jyoMUI0E7sjARRUKtPHnjG/Ud5xMCBYTUC1pAUpZZ+2spb3YMufZYHwI3Lm7ynm61bv0mud4DI6yxLx9vF5U9iVTZG8t9+YNqN9APdoh4TK2aYPgXaOOXqeMM=;EThkWN1m3aAboNKySnmr+A=="
 ---

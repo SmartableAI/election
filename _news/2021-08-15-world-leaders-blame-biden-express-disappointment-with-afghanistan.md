@@ -111,38 +111,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "McConnell pushes Biden to 'hammer' Taliban with airstrikes as Afghanistan spirals"
-    excerpt: "Senate Minority Leader Mitch McConnell, R-Ky., pressed President Biden to order airstrikes against Taliban forces on Friday following what he described as an “urgent conversation” with Afghanistan’s ambassador to the United States, Adela Raz."
-    publishedDateTime: 2021-08-13T23:23:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9qUk9PhvYIk/mcconnell-biden-taliban-airstrikes-afghanistan"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-biden-taliban-airstrikes-afghanistan.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-biden-taliban-airstrikes-afghanistan.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/858ee941-d24c-488c-a9b4-e553d23c6170/61a55a57-4c87-4f5c-a011-bf338d451d68/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden hammered for spending time at Camp David while Taliban take over Afghanistan"
-    excerpt: "Republican members of Congress criticized President Biden on Sunday for spending time at the Camp David presidential retreat instead of the White House as the Taliban fought to finalize a takeover of Afghanistan."
-    publishedDateTime: 2021-08-15T17:16:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fboykm0E3oc/biden-camp-david-afghanistan-taliban-republican-criticism"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-camp-david-afghanistan-taliban-republican-criticism.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-camp-david-afghanistan-taliban-republican-criticism.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/50a08577-a45d-40d0-bace-075a66d6fd9d/31d62f1c-ad58-4562-9669-673826dc0a6f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "All eyes on Biden's response to COVID variants, Afghanistan, border crisis, inflation"
     excerpt: ""
     publishedDateTime: 2021-08-14T15:05:33Z
@@ -175,6 +143,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Trump calls on Biden to ‘resign in disgrace’ over crisis in Afghanistan"
+    excerpt: "Former President Donald Trump Sunday called on President Joe Biden to “resign in disgrace” over his handling of the Afghanistan withdrawal and other issues."
+    publishedDateTime: 2021-08-15T23:38:00Z
+    webUrl: "https://nypost.com/2021/08/15/trump-calls-on-biden-to-resign-in-disgrace-over-crisis-in-afghanistan/"
+    ampWebUrl: "https://nypost.com/2021/08/15/trump-calls-on-biden-to-resign-in-disgrace-over-crisis-in-afghanistan/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/15/trump-calls-on-biden-to-resign-in-disgrace-over-crisis-in-afghanistan/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "McConnell Credits Biden for Infrastructure Breakthrough, Dismisses Trump Criticism"
     excerpt: "The Senate minority leader credited the president with helping to get the infrastructure bill passed in the Senate, but said he doesn’t anticipate many more opportunities for Republicans to work with Democrats."
     publishedDateTime: 2021-08-11T08:00:00Z
@@ -190,70 +174,6 @@ related:
       - url: "https://images.wsj.net/im-383642/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Pompeo: Biden failing to execute Afghan withdrawal, Trump warned Taliban of consequences"
-    excerpt: "Former Secretary of State Mike Pompeo called out the Biden administration for what he described as poor planning and poor execution of a U.S. troop withdrawal from Afghanistan, which may lead to the nation's capital of Kabul to fall to Taliban insurgents within the next 3 months."
-    publishedDateTime: 2021-08-12T22:25:00Z
-    webUrl: "https://www.foxnews.com/media/pompeo-biden-failing-to-execute-afghan-withdrawal-trump-warned-taliban-of-consequences"
-    ampWebUrl: "https://www.foxnews.com/media/pompeo-biden-failing-to-execute-afghan-withdrawal-trump-warned-taliban-of-consequences.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/pompeo-biden-failing-to-execute-afghan-withdrawal-trump-warned-taliban-of-consequences.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 141
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c505be5b-7fe5-4a10-b256-fbc6b1e6a2f1/272c5604-5105-47e9-88ac-0be2cd6b1b4d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Afghan ambassador to US slams Biden for political solution to Taliban"
-    excerpt: "The Afghan ambassador to the US criticized the Biden administration for suggesting that lasting peace in her country is possible only through a political solution."
-    publishedDateTime: 2021-08-12T15:09:00Z
-    webUrl: "https://nypost.com/2021/08/12/afghan-ambassador-to-us-slams-biden-for-taliban-response/"
-    ampWebUrl: "https://nypost.com/2021/08/12/afghan-ambassador-to-us-slams-biden-for-taliban-response/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/12/afghan-ambassador-to-us-slams-biden-for-taliban-response/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/afghan-ambassador-biden-hp.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Pompeo slams Biden’s actions in Afghanistan amid Taliban attacks"
-    excerpt: "Former Secretary of State Mike Pompeo ripped President Biden over his administration’s “panicked” tactics in Afghanistan, saying in a TV interview that “weakness begets war.”"
-    publishedDateTime: 2021-08-13T17:00:00Z
-    webUrl: "https://nypost.com/2021/08/13/mike-pompeo-slams-joe-biden-amid-taliban-attacks-in-afghanistan/"
-    ampWebUrl: "https://nypost.com/2021/08/13/mike-pompeo-slams-joe-biden-amid-taliban-attacks-in-afghanistan/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/13/mike-pompeo-slams-joe-biden-amid-taliban-attacks-in-afghanistan/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/pompeo-biden-afghanistan1.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Critics slam Biden’s long-weekend silence as Afghanistan falls to Taliban"
-    excerpt: "Republican leaders are slamming President Biden for taking a long weekend out of the public eye as major cities fall to the Taliban in Afghanistan. The mounting crisis comes as the US prepares to"
-    publishedDateTime: 2021-08-13T17:15:00Z
-    webUrl: "https://nypost.com/2021/08/13/critics-slam-bidens-long-weekend-as-afghanistan-falls-to-taliban/"
-    ampWebUrl: "https://nypost.com/2021/08/13/critics-slam-bidens-long-weekend-as-afghanistan-falls-to-taliban/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/13/critics-slam-bidens-long-weekend-as-afghanistan-falls-to-taliban/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 134
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/joe-biden-weekend-taliban-hp.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 682
         isCached: true
   - title: "McCaul: Biden will have ‘blood on his hands’ over Afghanistan withdrawal"
     excerpt: "The top Republican on the House Foreign Relations Committee on Sunday said President Biden will have “blood on his hands” over the withdrawal of the US military from Afghanistan."
@@ -271,29 +191,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "FLASHBACK: President Biden Said Last Month Taliban Retaking Afghanistan Was \"Not Inevitable\""
-    excerpt: "President Biden said last month that the Taliban would not quickly retake the country as U.S. troops leave the country."
-    publishedDateTime: 2021-08-15T19:04:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/08/15/flashback_president_biden_said_last_month.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 54
-    images:
-      - url: "https://assets.realclear.com/images/54/547620.jpg"
-        width: 750
-        height: 562
-        isCached: true
-  - title: "This Afghan Rout Is Entirely on Joe Biden"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-08-13T11:28:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/08/12/this_afghan_rout_is_entirely_on_joe_biden_549316.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "h9RHxTAXD7faNSqWDv0lW5KmRHWkRwb3mqV2QY6qFe82dSmI4PD/NKzAojOJITtpaGSG8c7YsIjEsp4VaprccFX6c5UgO5XkY1Wy15j2LsWdw55aA7lbhEUpKYgWp42S6A9MiTT98RRIGXcQvsFE34j3qPECC015nb2wC8xrSh3d2SpGn6MWioORlYjJ6xtBcSZ/kehdea/WYKel8ZWFlqli6IphviuBtOJO0nNCk3JOl+Y0Uu2VSHeE0SygAWDDvhnEXNVcp9cQCtastPTZ3YnuHVPI2lI+FY+sucLel4euOqLXxGtSjCSTayEdyPdP6vDYv7u8QBa7z5I+uS7qAApZInEjW3hAYOJ5X8mAJgs=;dW2HWBIYNo55l52DblWqqA=="
 ---

@@ -33,209 +33,147 @@ images:
     isCached: true
 
 related:
-  - title: "Harris lands new job pushing American Jobs Plan through Congress for Biden"
-    excerpt: "Vice President Kamala Harris was given a new assignment during President Biden’s address to Congress Wednesday night, tasked to lead the effort to push through his approximately $2 trillion American Jobs Plan."
-    publishedDateTime: 2021-04-29T02:14:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kvIjU6HcwYQ/harris-lands-new-job-pushing-american-jobs-plan-through-congress-for-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/harris-lands-new-job-pushing-american-jobs-plan-through-congress-for-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-lands-new-job-pushing-american-jobs-plan-through-congress-for-biden.amp"
+  - title: "President Biden, VP Harris avoid the cameras as Kabul falls to Taliban"
+    excerpt: "President Joe Biden and Vice President Kamala Harris have avoided going on camera as Kabul, the capital city of Afghanistan, fell to the Taliban on Sunday."
+    publishedDateTime: 2021-08-16T00:04:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qgIYygS-uqU/president-biden-vp-harris-avoid-the-cameras-as-kabul-falls"
+    ampWebUrl: "https://www.foxnews.com/politics/president-biden-vp-harris-avoid-the-cameras-as-kabul-falls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-biden-vp-harris-avoid-the-cameras-as-kabul-falls.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 198
+    quality: 200
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/a7c45c05-13ef-414e-bd78-df2ca9c04bd6/8ee8f7ef-a529-4602-b58d-2cd66be7fa62/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0c3a394f-685b-453c-ac2b-05b0905892d0/c7f01fde-630e-487d-8fd9-d6ad36cb8df9/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Boebert appears to troll Biden, Harris on border crisis by unfurling Mylar blanket"
-    excerpt: "Without speaking a word, U.S. Rep. Lauren Boebert appeared to tell President Biden and Vice President Harris on Wednesday night that she was thinking about their handling of the migrant crisis at the U.S.-Mexico border."
-    publishedDateTime: 2021-04-29T06:13:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-2BwtMKOq70/boebert-appears-to-troll-biden-harris-on-border-crisis-by-unfurling-mylar-blanket"
-    ampWebUrl: "https://www.foxnews.com/politics/boebert-appears-to-troll-biden-harris-on-border-crisis-by-unfurling-mylar-blanket.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boebert-appears-to-troll-biden-harris-on-border-crisis-by-unfurling-mylar-blanket.amp"
+  - title: "Texas congressmen from both parties urge Biden, Harris visit southern border"
+    excerpt: "Senator John Cornyn, R-Texas, alongside Reps. Tony Gonzales, R-Texas, and Henry Cuellar, D-Texas, penned an opinion piece in the Dallas Morning News on Tuesday, noting the over doubled numbers of border apprehensions between 2019 and 2014, when Biden was vice president."
+    publishedDateTime: 2021-06-22T20:13:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cw1_mnQ6wb4/texas-congressmen-biden-harris-visit-border"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-congressmen-biden-harris-visit-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-congressmen-biden-harris-visit-border.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 194
+    quality: 197
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/522e72be-65f2-473f-8823-84318f6b4e6d/8481d89c-08ca-462e-9332-681511900b26/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5e22cdeb-0e12-4cad-86cb-360c401a498a/a4fd0f48-6960-47df-8560-e367b837d7b3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Harris says she spoke to leaders of Japan, Finland about combating migrant crisis"
-    excerpt: "Vice President Kamala Harris on Tuesday said she has spoken to leaders of countries such as Japan, Finland and Ireland about helping Northern Triangle countries, as part of the response to the migration crisis at the southern U.S. border."
-    publishedDateTime: 2021-05-04T20:42:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mRQwVOg5V4s/harris-japan-finland-migrant-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/harris-japan-finland-migrant-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-japan-finland-migrant-crisis.amp"
+  - title: "California Gov. Newsom confirms Biden, Harris will campaign for him in a 'matter of weeks'"
+    excerpt: "Embattled California Gov. Gavin Newsom confirmed Friday that President Biden and Vice President Kamala Harris would campaign on his behalf in the coming weeks as he attempts to stave off a recall vote."
+    publishedDateTime: 2021-08-13T22:03:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qi_21MX4m6E/california-gov-newsom-biden-harris-campaign-recall"
+    ampWebUrl: "https://www.foxnews.com/politics/california-gov-newsom-biden-harris-campaign-recall.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-gov-newsom-biden-harris-campaign-recall.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 180
+    quality: 190
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/522168c6-fcb3-4c3e-bd13-73e602efa01a/55e12e22-50d2-4aa1-af41-481d1e901615/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cec80a1-b696-4f84-98d7-a096e98659e3/1c756d90-99fa-4394-8aac-ef9932071362/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Kamala Harris isn't at the southern border -- but migrant kids are getting Veep's book"
-    excerpt: "Vice President Kamala Harris hasn’t been to the border to address a crisis she was tasked to help fix — but a children’s book she wrote is waiting there for young migrants who are being welcomed into the country."
-    publishedDateTime: 2021-04-24T13:02:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QPXIQl1v3EE/kamala-harris-southern-border-migrant-kids-veeps-book"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-southern-border-migrant-kids-veeps-book.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-southern-border-migrant-kids-veeps-book.amp"
+  - title: "McConnell pushes Biden to 'hammer' Taliban with airstrikes as Afghanistan spirals"
+    excerpt: "Senate Minority Leader Mitch McConnell, R-Ky., pressed President Biden to order airstrikes against Taliban forces on Friday following what he described as an “urgent conversation” with Afghanistan’s ambassador to the United States, Adela Raz."
+    publishedDateTime: 2021-08-13T23:23:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9qUk9PhvYIk/mcconnell-biden-taliban-airstrikes-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-biden-taliban-airstrikes-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-biden-taliban-airstrikes-afghanistan.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 177
+    quality: 170
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/156b921d-22d3-41f3-aff2-08200f0aa640/bf10c32e-934b-4df7-ab46-f69738a062a9/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/858ee941-d24c-488c-a9b4-e553d23c6170/61a55a57-4c87-4f5c-a011-bf338d451d68/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
-  - title: "Biden praises Harris for 'great job' on border despite taking months to get there"
-    excerpt: "President Biden backed Vice President Kamala Harris Thursday ahead of her trip to the US-Mexico border, telling reporters his besieged second-in-command has “done a great job so far” on the issue despite waiting more than three months to visit the beleaguered region."
-    publishedDateTime: 2021-06-25T02:12:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XOmvn-MmaY0/biden-praises-harris-for-great-job-on-border-despite-taking-months-to-get-there"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Biden-Infrastructure-AP-4.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Republican states lambaste alleged legal defects of Biden's 'radical' climate plan"
-    excerpt: "Republican state attorneys general are taking issue with legal defects in President Biden's plan to reduce U.S. carbon emissions in half from 2005 levels by 2030."
-    publishedDateTime: 2021-04-22T21:07:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ibvfKNigYDE/republicans-biden-emissions-plan-legal"
-    ampWebUrl: "https://www.foxnews.com/politics/republicans-biden-emissions-plan-legal.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-emissions-plan-legal.amp"
+  - title: "Biden hammered for spending time at Camp David while Taliban take over Afghanistan"
+    excerpt: "Republican members of Congress criticized President Biden on Sunday for spending time at the Camp David presidential retreat instead of the White House as the Taliban fought to finalize a takeover of Afghanistan."
+    publishedDateTime: 2021-08-15T17:16:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fboykm0E3oc/biden-camp-david-afghanistan-taliban-republican-criticism"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-camp-david-afghanistan-taliban-republican-criticism.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-camp-david-afghanistan-taliban-republican-criticism.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 169
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3eabcf86-60bd-46d5-80b5-a8276bcc0a72/af664b23-6b18-4678-9ab3-bc0559005cef/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Ted Cruz: Corporate America trying to 'punish' anyone who disagrees with Biden agenda"
-    excerpt: "EXCUSIVE: Sen. Ted Cruz says corporate America is trying to use its \"economic power\" to \"punish\" anyone who disagrees with President Biden’s agenda, warning that corporations are \"playing with fire\" by wading into politics."
-    publishedDateTime: 2021-04-30T18:52:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/83OT3H0w3ys/ted-cruz-pac-donations-2024-biden-agenda-corporate-america"
-    ampWebUrl: "https://www.foxnews.com/politics/ted-cruz-pac-donations-2024-biden-agenda-corporate-america.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ted-cruz-pac-donations-2024-biden-agenda-corporate-america.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden says, 'I don't think the American people are racist,' despite finding 'systemic racism'"
-    excerpt: "President Biden reiterated his call for the United States to combat systemic racism through policy initiatives on Thursday in his first public response to remarks made by Republican Sen. Tim Scott of South Carolina."
-    publishedDateTime: 2021-04-30T00:20:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kJPwys3V63o/biden-responds-tim-scott-gop-rebuttal-speech-i-dont-think-the-american-people-are-racist"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-responds-tim-scott-gop-rebuttal-speech-i-dont-think-the-american-people-are-racist.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-responds-tim-scott-gop-rebuttal-speech-i-dont-think-the-american-people-are-racist.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/83c2c7e5-b82b-44dc-b6de-bada8b77ace6/7c2b5790-6a5d-4900-a5dd-984a8e46ab00/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/50a08577-a45d-40d0-bace-075a66d6fd9d/31d62f1c-ad58-4562-9669-673826dc0a6f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Venezuela transfers 6 jailed American oil execs to house arrest as Biden weighs policy options"
-    excerpt: "Venezuela transferred six American oil executives to house arrest on Friday as the Biden administration mulled next steps in its relationship with Nicolas Maduro’s socialist regime."
-    publishedDateTime: 2021-05-01T01:46:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jF_XzanijwM/venezuela-6-jailed-american-oil-execs-house-arrest-biden-weighs-policy-options"
-    ampWebUrl: "https://www.foxnews.com/politics/venezuela-6-jailed-american-oil-execs-house-arrest-biden-weighs-policy-options.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/venezuela-6-jailed-american-oil-execs-house-arrest-biden-weighs-policy-options.amp"
+  - title: "Jen Psaki 'out of the office' as Biden remains silent on Taliban takeover of Afghanistan"
+    excerpt: "Press Secretary Jen Psaki is taking a break from her duties as the crisis unfolds in the Middle East"
+    publishedDateTime: 2021-08-16T01:51:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Bc-YNJg0ks0/jen-psaki-out-of-office-as-biden-remains-silent-on-taliban-takeover-of-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/jen-psaki-out-of-office-as-biden-remains-silent-on-taliban-takeover-of-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jen-psaki-out-of-office-as-biden-remains-silent-on-taliban-takeover-of-afghanistan.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 166
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/26b2595f-106b-4afe-87c5-d67bef930299/1dc49e81-ee56-43ec-a666-b968f01aa9c5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/60a2911b-006a-4958-874d-8f1bdaa7801d/875f3a54-1dc2-40a0-b042-07a297d0e573/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Sen. Rand Paul: If Biden wants more Americans vaccinated, he should 'burn his mask' on national TV"
-    excerpt: "If President Biden wants to motivate more Americans to get vaccinated against the coronavirus, he should \"go on national TV, take his mask off and burn it,\" Sen. Rand Paul, R-Ky., told \"The Story\" Wednesday."
-    publishedDateTime: 2021-04-21T22:08:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-qlPBshNU1A/rand-paul-biden-burn-mask-get-more-americans-vaccinated"
-    ampWebUrl: "https://www.foxnews.com/politics/rand-paul-biden-burn-mask-get-more-americans-vaccinated.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rand-paul-biden-burn-mask-get-more-americans-vaccinated.amp"
+  - title: "Speculation about Saigon rooftop replay in Kabul despite Biden assertion it couldn't happen"
+    excerpt: "Biden administration officials are reportedly worried about a replay of the Vietnam War as they move to evacuate American diplomats from Afghanistan despite Biden’s firm claim that a similar scenario would not unfold."
+    publishedDateTime: 2021-08-12T21:15:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4W53YUu1BOI/speculation-about-saigon-rooftop-replay-in-kabul-despite-biden-denial-it-could-happen"
+    ampWebUrl: "https://www.foxnews.com/politics/speculation-about-saigon-rooftop-replay-in-kabul-despite-biden-denial-it-could-happen.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/speculation-about-saigon-rooftop-replay-in-kabul-despite-biden-denial-it-could-happen.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9a21eae-3044-43dd-b5f9-7c8d2000669e/afd3b02e-f294-438d-92a6-773e386f7e88/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Taliban poised to impose Sharia law in Afghanistan, threatening people Biden professes to fight for"
+    excerpt: "Fears are growing that the Taliban will move to reimplement Sharia Law with their trademark brutal enforcement"
+    publishedDateTime: 2021-08-15T23:01:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mZPOziTLZHU/taliban-poised-to-impose-sharia-law-threatening-people-biden-professes-to-fight-for"
+    ampWebUrl: "https://www.foxnews.com/politics/taliban-poised-to-impose-sharia-law-threatening-people-biden-professes-to-fight-for.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/taliban-poised-to-impose-sharia-law-threatening-people-biden-professes-to-fight-for.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 161
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/df732b09-612e-49ce-966f-70453d96d143/8366965f-b769-4e65-80fc-df7b6a6e7adf/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fd708252-3b5e-443b-9172-5346e6dfe4a1/310c2fc4-e8ed-44df-b061-7cfbeb2b431f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
-  - title: "20 Republican AGs oppose 'alarming' court-packing efforts in letter to Biden, congressional leaders"
-    excerpt: "Florida Attorney General Ashley Moody and 19 other Republican state attorneys general sent a letter to President Biden and congressional leaders opposing efforts to alter the makeup of the Supreme Court."
-    publishedDateTime: 2021-04-22T17:59:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yveOH163qDA/20-republican-ags-oppose-alarming-court-packing-efforts-in-letter-to-biden-congressional-leaders"
-    ampWebUrl: "https://www.foxnews.com/politics/20-republican-ags-oppose-alarming-court-packing-efforts-in-letter-to-biden-congressional-leaders.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/20-republican-ags-oppose-alarming-court-packing-efforts-in-letter-to-biden-congressional-leaders.amp"
+  - title: "Biden State Dept. official deletes tweet warning Afghan women 'stand to lose everything' as Taliban surges"
+    excerpt: "Deputy Assistant Secretary for European and Eurasian Affairs Molly Montgomery posted a tweet early Friday morning as the Taliban continues to gain territory and power amid the US troop withdrawal."
+    publishedDateTime: 2021-08-13T17:17:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B55X7l1ueb4/afghanistan-women-biden-state-department-official-deletes-tweet"
+    ampWebUrl: "https://www.foxnews.com/politics/afghanistan-women-biden-state-department-official-deletes-tweet.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/afghanistan-women-biden-state-department-official-deletes-tweet.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 157
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Blackburn predicts Biden will 'push left' in address, slams 'lack of leadership' in first 100 days"
-    excerpt: "EXCLUSIVE: Republican Sen. Marsha Blackburn says she expects President Biden's address to a joint session of Congress Wednesday night to focus on a \"litany of issues\" that will \"change the way people live their lives on a day-to-day basis.\""
-    publishedDateTime: 2021-04-28T13:07:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vj2BxJHeEBM/blackburn-biden-address-congress-first-100-days"
-    ampWebUrl: "https://www.foxnews.com/politics/blackburn-biden-address-congress-first-100-days.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blackburn-biden-address-congress-first-100-days.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Progressives take credit for Biden's huge spending plan: 'We are setting the agenda for the Democratic Party'"
-    excerpt: "Progressive lawmakers and advocacy groups are hailing President Biden's sweeping multitrillion-dollar tax and spending plan as a major victory for the left-wing faction of the Democratic Party. "
-    publishedDateTime: 2021-04-29T18:21:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Na-43TRuNWA/progressives-take-credit-biden-huge-spending-plan"
-    ampWebUrl: "https://www.foxnews.com/politics/progressives-take-credit-biden-huge-spending-plan.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/progressives-take-credit-biden-huge-spending-plan.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 156
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00d96b73-38ef-46ff-9e67-c4882f4368a5/02975826-568a-4e97-b558-34896c8336e2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f6b24dc-3cc0-438d-a4cc-fe5eeff4b3ae/e7adff49-0242-41bc-ad81-9ea3f64c68cc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -255,97 +193,85 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "House Republicans question Biden's 'naive' plan to send cash to Central America to stop migration"
-    excerpt: "EXCLUSIVE: Republicans on the House Oversight and Budget committees are questioning a reported plan by the Biden administration to send cash payments to Central America as part of a strategy to combat the root causes of the migrant crisis -- accusing the Biden administration of trying to buy its way"
-    publishedDateTime: 2021-05-03T14:00:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_UPR4QZ7R6E/house-republicans-biden-central-america-cash-transfer-program-migrants"
+  - title: "Pompeo: Biden failing to execute Afghan withdrawal, Trump warned Taliban of consequences"
+    excerpt: "Former Secretary of State Mike Pompeo called out the Biden administration for what he described as poor planning and poor execution of a U.S. troop withdrawal from Afghanistan, which may lead to the nation's capital of Kabul to fall to Taliban insurgents within the next 3 months."
+    publishedDateTime: 2021-08-12T22:25:00Z
+    webUrl: "https://www.foxnews.com/media/pompeo-biden-failing-to-execute-afghan-withdrawal-trump-warned-taliban-of-consequences"
+    ampWebUrl: "https://www.foxnews.com/media/pompeo-biden-failing-to-execute-afghan-withdrawal-trump-warned-taliban-of-consequences.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/pompeo-biden-failing-to-execute-afghan-withdrawal-trump-warned-taliban-of-consequences.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 142
+    quality: 141
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Houston-Migrant-Facility-Children-Buses-AP.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Lawmakers urge Biden to push Iranian regime on rights abuses, amid bipartisan support for resolution"
-    excerpt: "Two lawmakers have written to President Biden urging him to place human rights, and holding human rights abusers accountable, at the center of his Iran policy -- just as a resolution backing a secular and democratic Iran has picked up majority support in the House."
-    publishedDateTime: 2021-04-28T22:09:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IsLocHx4GFM/lawmakers-biden-iranian-regime-rights-abuses-resolution"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 140
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/99754ab5-555f-4417-922f-b01b86858d02/1a03bcf5-509f-4b01-aa92-5bcde8886425/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Kamala Harris reacts to Tim Scott speech, remarks on racism in America"
-    excerpt: "Vice President Kamala Harris on Thursday reacted to Republican South Carolina Sen. Tim Scott's response to President Biden's Wednesday address before Congress."
-    publishedDateTime: 2021-04-29T15:05:00Z
-    webUrl: "https://www.foxnews.com/politics/kamala-harris-reacts-tim-scott-speech-racism"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-reacts-tim-scott-speech-racism.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-reacts-tim-scott-speech-racism.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55f5b4c3-ee66-4a16-9c29-bb4bd704d088/4b38eb2d-0333-453e-a6c5-7415cceaf2a4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c505be5b-7fe5-4a10-b256-fbc6b1e6a2f1/272c5604-5105-47e9-88ac-0be2cd6b1b4d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Laura Ingraham: Biden announces attack on American wealth"
-    excerpt: "Laura Ingraham slammed Biden's first address to a joint session of Congress and policy proposals Wednesday, saying it is \"insanity to ask hard-working Americans...to give more to a bunch of bureaucrats in Washington."
-    publishedDateTime: 2021-04-29T04:59:00Z
-    webUrl: "https://www.foxnews.com/media/laura-ingraham-biden-announces-attack-on-american-wealth"
-    ampWebUrl: "https://www.foxnews.com/media/laura-ingraham-biden-announces-attack-on-american-wealth.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/laura-ingraham-biden-announces-attack-on-american-wealth.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d60341dd-d164-4bd7-a111-8ed5a95f492d/bd1e5336-552f-44f1-abd2-c3906aeb2921/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "VP Kamala Harris finally sets date for trip to Mexico, Guatemala"
-    excerpt: "Vice President Kamala Harris, the Biden administration’s migration czar, has set dates for her first trips to Mexico and Central America."
-    publishedDateTime: 2021-05-05T23:55:00Z
-    webUrl: "https://nypost.com/2021/05/05/vp-kamala-harris-finally-sets-date-for-trip-to-mexico-guatemala/"
-    ampWebUrl: "https://nypost.com/2021/05/05/vp-kamala-harris-finally-sets-date-for-trip-to-mexico-guatemala/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/05/vp-kamala-harris-finally-sets-date-for-trip-to-mexico-guatemala/amp/"
+  - title: "Harris to talk vaccines with Mexican president amid COVID case surge"
+    excerpt: "Vice President Kamala Harris is expected to speak Monday with Mexican President Andres Manuel Lopez Obrador to discuss COVID-19 vaccine distribution."
+    publishedDateTime: 2021-08-09T16:42:00Z
+    webUrl: "https://nypost.com/2021/08/09/harris-to-talk-vaccines-with-mexican-president-amid-covid-surge/"
+    ampWebUrl: "https://nypost.com/2021/08/09/harris-to-talk-vaccines-with-mexican-president-amid-covid-surge/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/09/harris-to-talk-vaccines-with-mexican-president-amid-covid-surge/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
     quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-harris-latin-america-trip-690.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/mexico-kamala-vaccines-60.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Gingrich: Biden's congressional speech will be the 'weirdest' in American history"
-    excerpt: "Guests: Jamie McBride, Leonydus Johnson, Newt Gingrich, Peter McCullough, Maggie Williams, Stephen Williams, Dave Turnbull, Dinesh D'Souza, Kurt Schlichter"
-    publishedDateTime: 2021-04-30T01:07:00Z
-    webUrl: "https://www.foxnews.com/transcript/gingrich-bidens-congressional-speech-will-be-the-weirdest-in-american-history"
-    ampWebUrl: "https://www.foxnews.com/transcript/gingrich-bidens-congressional-speech-will-be-the-weirdest-in-american-history.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/gingrich-bidens-congressional-speech-will-be-the-weirdest-in-american-history.amp"
+  - title: "Afghan ambassador to US slams Biden for political solution to Taliban"
+    excerpt: "The Afghan ambassador to the US criticized the Biden administration for suggesting that lasting peace in her country is possible only through a political solution."
+    publishedDateTime: 2021-08-12T15:09:00Z
+    webUrl: "https://nypost.com/2021/08/12/afghan-ambassador-to-us-slams-biden-for-taliban-response/"
+    ampWebUrl: "https://nypost.com/2021/08/12/afghan-ambassador-to-us-slams-biden-for-taliban-response/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/12/afghan-ambassador-to-us-slams-biden-for-taliban-response/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 130
+      name: New York Post
+      domain: nypost.com
+    quality: 135
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/698e0949-38b7-4fb4-99e0-76eeb265afff/7bf55267-6b4a-4e90-a5de-2104e62d440e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/afghan-ambassador-biden-hp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Pompeo slams Biden’s actions in Afghanistan amid Taliban attacks"
+    excerpt: "Former Secretary of State Mike Pompeo ripped President Biden over his administration’s “panicked” tactics in Afghanistan, saying in a TV interview that “weakness begets war.”"
+    publishedDateTime: 2021-08-13T17:00:00Z
+    webUrl: "https://nypost.com/2021/08/13/mike-pompeo-slams-joe-biden-amid-taliban-attacks-in-afghanistan/"
+    ampWebUrl: "https://nypost.com/2021/08/13/mike-pompeo-slams-joe-biden-amid-taliban-attacks-in-afghanistan/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/13/mike-pompeo-slams-joe-biden-amid-taliban-attacks-in-afghanistan/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/pompeo-biden-afghanistan1.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Critics slam Biden’s long-weekend silence as Afghanistan falls to Taliban"
+    excerpt: "Republican leaders are slamming President Biden for taking a long weekend out of the public eye as major cities fall to the Taliban in Afghanistan. The mounting crisis comes as the US prepares to"
+    publishedDateTime: 2021-08-13T17:15:00Z
+    webUrl: "https://nypost.com/2021/08/13/critics-slam-bidens-long-weekend-as-afghanistan-falls-to-taliban/"
+    ampWebUrl: "https://nypost.com/2021/08/13/critics-slam-bidens-long-weekend-as-afghanistan-falls-to-taliban/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/13/critics-slam-bidens-long-weekend-as-afghanistan-falls-to-taliban/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/joe-biden-weekend-taliban-hp.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Why Harris is treading carefully in Biden world, and taking flak from the press"
     excerpt: "There are signs that the press is unhappy with Vice President Harris, or at least getting impatient. Why doesn’t she make more news? Why is she so cautious?"
@@ -361,22 +287,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Biden's Turning Point on Police Reform"
-    excerpt: "Minnesota Attorney General Keith Ellison called the guilty-verdict sweep against Derek Chauvin, the police officer who killed George Floyd, an"
-    publishedDateTime: 2021-04-21T11:25:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/04/21/bidens_turning_point_on_police_reform__145630.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/21/bidens_turning_point_on_police_reform__145630.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/21/bidens_turning_point_on_police_reform__145630.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/54/541090_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Radical Nation: Biden & Harris's Dangerous Plan for America"
     excerpt: "The following is an exclusive excerpt from Sean Spicer's new book, Radical Nation: Joe Biden & Kamala Harris's Dangerous Plan for America, available on October 26. Read Full Artic"
     publishedDateTime: 2021-08-10T18:46:00Z
@@ -391,50 +301,57 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "VP Kamala Harris: We Must Focus On \"Root Causes\" Of Migration Crisis In Central America"
-    excerpt: "Vice President Kamala Harris spoke about the migration crisis in Latin America during remarks to the 51st annual Washington Conference on Tuesday. It is one of the first times she has discussed the idea in detail since the administration announced she would be spearheading efforts to stop a surge of immigrants on the Southern border."
-    publishedDateTime: 2021-05-04T15:15:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/05/04/vp_kamala_harris_central_american_migrants_do_not_want_to_leave.html#!"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/04/vp_kamala_harris_central_american_migrants_do_not_want_to_leave.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/04/vp_kamala_harris_central_american_migrants_do_not_want_to_leave.amp.html"
+  - title: "Kamala Harris Utterly Flubbing Her Job as Veep"
+    excerpt: "Kamala Harris isn't very good at this. The vice president has never won an election on her own outside of the hothouse of California politics, and it shows. On paper, she was a strong"
+    publishedDateTime: 2021-08-09T11:33:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/08/09/kamala_harris_utterly_flubbing_her_job_as_veep_549009.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 77
+    quality: 65
     images:
-      - url: "https://assets.realclear.com/images/54/542318.jpg"
+      - url: "https://assets.realclear.com/images/55/550314_5_.jpg"
         width: 750
-        height: 562
+        height: 500
         isCached: true
-  - title: "Full Interview: VP Kamala Harris On Policing, Gun Safety, George Floyd, Working With Biden"
-    excerpt: "Vice President Kamala Harris sits down for a wide-ranging interview with CNN's Dana Bash. Full transcript, via CNN: DANA BASH, CNN HOST: In the days since George Floyd's family and communities across America celebrated the Derek Chauvin guilty verdict,"
-    publishedDateTime: 2021-04-25T16:30:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/04/25/vp_kamala_harris_on_policing_gun_safety_border_crisis_working_with_biden.html"
+  - title: "Biden Admits Green New Deal Is a Dream"
+    excerpt: "\"What the IPCC told us is what President Biden has believed all along,\" White House press secretary Jen Psaki noted on Tuesday. \"Climate change is an urgent threat that requires bold action.\" The very next day,"
+    publishedDateTime: 2021-08-13T11:28:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/08/13/biden_admits_green_new_deal_is_a_dream_146243.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 70
+    quality: 65
     images:
-      - url: "https://assets.realclear.com/images/54/541429.jpg"
+      - url: "https://assets.realclear.com/images/55/550662_5_.jpg"
         width: 750
-        height: 562
+        height: 500
         isCached: true
-  - title: "Kamala Harris To Tim Scott: \"No, I Don't Think America Is A Racist Country,\" But Racism Exists"
-    excerpt: "Vice President Kamala Harris responded to GOP Sen. Tim Scott's statement that America is \"not a racist country\" and we can't \"fight discrimination with more discrimination\" during an appearance Thursday on \"Good Morning America."
-    publishedDateTime: 2021-04-29T16:08:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/04/29/kamala_harris_no_i_dont_think_america_is_a_racist_country_but_racism_exists.html#!"
+  - title: "FLASHBACK: President Biden Said Last Month Taliban Retaking Afghanistan Was \"Not Inevitable\""
+    excerpt: "President Biden said last month that the Taliban would not quickly retake the country as U.S. troops leave the country."
+    publishedDateTime: 2021-08-15T19:04:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/08/15/flashback_president_biden_said_last_month.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 53
+    quality: 54
     images:
-      - url: "https://assets.realclear.com/images/54/541903.jpg"
+      - url: "https://assets.realclear.com/images/54/547620.jpg"
         width: 750
         height: 562
         isCached: true
+  - title: "This Afghan Rout Is Entirely on Joe Biden"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-08-13T11:28:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/08/12/this_afghan_rout_is_entirely_on_joe_biden_549316.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "smo8XaYBSZt1yaYzDNz0LQwva5c5rQ75+wwW9+htB2gAlgTczV1oy87wpooxoD2BiKOjQ24UZSezFfhR7qvGR/30lhBmo1WaMUnCOGtgquZy+Q/eRz6kmW8XCRULMcgnt2hz3RaNUU/MncgkIzjfOOKAXABjxMLKFfFpoFUehSbWxJLr3XRCMI26uN1QxkUUGBLO/aW3N7jxvmzec7SCSUvcCVKi3ihT/XRiaDqCM3e0+e15Ddzh5y2ksVPnogDk6knVe0RcZFK8lYkqvhQWjuIRSGHl2ltztMQyhO44yCIK/Qd75v1+7I6ZkujqXxGWoXB9se/2VOxeAK67A2wl/J28ez9yIeMvGoweX/ZdwWGlS9IMr3BOHelCq4yPnF99fbtVx2YbDv4BTrNpdaUhoj3xURTuloAjMJ33L5MoSJOU+zzgiMnrMiBxuc2SthpfT1RDGIzfzzW9cY4ZLi2Wbg51apwo8A5dKHEkHdldtOCURCntwF85EfOOHQjw+tPz7F/c7RBsPFiVMa24oIulXA==;epTJfxtYYf6JdV9KhmOJVg=="
 ---

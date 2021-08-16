@@ -205,22 +205,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Tucker: Biden-Harris have lost control of the border"
-    excerpt: "The driver wasn't given any information beyond that, she was just told to take those children deep into the interior of the United States, away from the border and do it as quickly as possible, quote: \"There have been some drop-offs in Nashville,"
-    publishedDateTime: 2021-06-30T18:40:00Z
-    webUrl: "https://www.foxnews.com/transcript/tucker-biden-harris-have-lost-control-of-the-border"
-    ampWebUrl: "https://www.foxnews.com/transcript/tucker-biden-harris-have-lost-control-of-the-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/tucker-biden-harris-have-lost-control-of-the-border.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/adf11577-32a7-49ed-899c-bb631c6498ac/d6946b41-1d3b-42fe-a157-85748f379bad/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Progressives take credit for Biden's huge spending plan: 'We are setting the agenda for the Democratic Party'"
     excerpt: "Progressive lawmakers and advocacy groups are hailing President Biden's sweeping multitrillion-dollar tax and spending plan as a major victory for the left-wing faction of the Democratic Party. "
     publishedDateTime: 2021-04-29T18:21:04Z
@@ -236,22 +220,6 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00d96b73-38ef-46ff-9e67-c4882f4368a5/02975826-568a-4e97-b558-34896c8336e2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
-        isCached: true
-  - title: "Biden, Harris stepping onto the world stage for first foreign trips"
-    excerpt: "The White House is taking a business trip. President Biden is headed off the the UK and Europe while Vice President Biden is heading south to Guatemala."
-    publishedDateTime: 2021-06-05T23:37:00Z
-    webUrl: "https://nypost.com/2021/06/05/biden-harris-stepping-onto-the-world-stage-for-first-foreign-trips/"
-    ampWebUrl: "https://nypost.com/2021/06/05/biden-harris-stepping-onto-the-world-stage-for-first-foreign-trips/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/05/biden-harris-stepping-onto-the-world-stage-for-first-foreign-trips/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/biden-harris-1.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "House Republicans question Biden's 'naive' plan to send cash to Central America to stop migration"
     excerpt: "EXCLUSIVE: Republicans on the House Oversight and Budget committees are questioning a reported plan by the Biden administration to send cash payments to Central America as part of a strategy to combat the root causes of the migrant crisis -- accusing the Biden administration of trying to buy its way"
@@ -345,20 +313,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Why Harris is treading carefully in Biden world, and taking flak from the press"
-    excerpt: "There are signs that the press is unhappy with Vice President Harris, or at least getting impatient. Why doesn’t she make more news? Why is she so cautious?"
-    publishedDateTime: 2021-05-19T07:00:00Z
-    webUrl: "https://www.foxnews.com/media/why-harris-is-treading-carefully-in-biden-world-and-taking-flak-from-the-press"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 126
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/AP21137642542411.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Biden's Turning Point on Police Reform"
     excerpt: "Minnesota Attorney General Keith Ellison called the guilty-verdict sweep against Derek Chauvin, the police officer who killed George Floyd, an"
     publishedDateTime: 2021-04-21T11:25:00Z
@@ -372,20 +326,6 @@ related:
     quality: 85
     images:
       - url: "https://assets.realclear.com/images/54/541090_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Radical Nation: Biden & Harris's Dangerous Plan for America"
-    excerpt: "The following is an exclusive excerpt from Sean Spicer's new book, Radical Nation: Joe Biden & Kamala Harris's Dangerous Plan for America, available on October 26. Read Full Artic"
-    publishedDateTime: 2021-08-10T18:46:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/08/10/radical_nation_biden_amp_harriss_dangerous_plan_for_america_549096.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 80
-    images:
-      - url: "https://assets.realclear.com/images/55/550407_5_.jpg"
         width: 750
         height: 500
         isCached: true

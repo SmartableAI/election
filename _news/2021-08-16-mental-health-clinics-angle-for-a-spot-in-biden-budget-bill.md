@@ -273,14 +273,14 @@ related:
     quality: 55
   - title: "Biden calls school chiefs, lauds defiance of anti-mask rules"
     excerpt: "President Joe Biden has called school district superintendents in Florida and Arizona, praising them for doing what he called “the right thing” after their respective boards implemented mask requirements in defiance of their Republican governors amid growing COVID-19 infections."
-    publishedDateTime: 2021-08-15T18:05:00Z
-    webUrl: "https://www.bnd.com/news/article253497254.html"
-    ampWebUrl: "https://amp.bnd.com/news/article253497254.html"
-    cdnAmpWebUrl: "https://amp-bnd-com.cdn.ampproject.org/c/s/amp.bnd.com/news/article253497254.html"
+    publishedDateTime: 2021-08-15T21:44:00Z
+    webUrl: "https://www.bellinghamherald.com/news/article253497254.html"
+    ampWebUrl: "https://amp.bellinghamherald.com/news/article253497254.html"
+    cdnAmpWebUrl: "https://amp-bellinghamherald-com.cdn.ampproject.org/c/s/amp.bellinghamherald.com/news/article253497254.html"
     type: article
     provider:
-      name: BND
-      domain: bnd.com
+      name: The Bellingham Herald
+      domain: bellinghamherald.com
     quality: 55
   - title: "Biden Says He Does Not Believe He Can Intervene in States Banning Mask Mandates"
     excerpt: "President Joe Biden said on Tuesday that he did not believe he had the power to intervene in U.S. states that have banned mask mandates but said his administration was looking into the issue. \"I don't believe that I do,"
