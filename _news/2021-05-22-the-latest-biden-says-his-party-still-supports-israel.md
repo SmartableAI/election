@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-eu-hails-gaza-cea
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-eu-hails-gaza-cease-fire-calls-for-peace-talks/2021/05/21/12fb6d5c-ba17-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -135,6 +135,22 @@ related:
       - url: "https://thehill.com/sites/default/files/netanyahu.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "The Latest: Adviser says Biden 'stands by' US withdrawal"
+    excerpt: "WASHINGTON — U.S. National Security Adviser Jake Sullivan says the failure of the Afghan military is to blame for the Taliban’s swift takeover of Afghanistan. Sullivan said Monday that President Joe Biden didn’t want the U."
+    publishedDateTime: 2021-08-16T15:58:00Z
+    webUrl: "https://www.registercitizen.com/news/article/The-Latest-Saudi-embassy-evacuated-N-Zealand-16389151.php"
+    ampWebUrl: "https://www.registercitizen.com/news/amp/The-Latest-Saudi-embassy-evacuated-N-Zealand-16389151.php"
+    cdnAmpWebUrl: "https://www-registercitizen-com.cdn.ampproject.org/c/s/www.registercitizen.com/news/amp/The-Latest-Saudi-embassy-evacuated-N-Zealand-16389151.php"
+    type: article
+    provider:
+      name: The Register Citizen
+      domain: registercitizen.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
 
 secured: "7KEPMHl5afjk+lzkhyHseK9XUOn+cdNZfYcUeuckWwrYkq101kTu785qqLYHKWqpTvtz7q1TYa/Fj2aq7ePjwQx5S6wyi1pUzCNxnhQ8/KoqkWGl6uxOJBuGC94VkyHxdAJCgcFukBlb0rJPzX3eJd/ikcYc34vAoxX3PZL1H2wVRIFnkQs95ZqETb2k+dt7kW11FC/vLW4yObnDfhDx5mjAUSlRqQ8dPqoSEuChyTPZncRmG0rrkm34C6tH5s2L5rm4XQqcCauYjyt2b4+qZ3nAvFlqq1A07P+xn9TvyAcem/76l+EaJcJaWtJE4p+3RPMnHUwZo6veoivoE7WxaX5fyWgbY3Mr+5M8+IrcyTbiy5W6ktIOZZWn5zRsSI/qOkSBaJycjA8r8urWIx0zR+L9+CKWPL2t1tPcDa/ts07z9eoIrlJvodOZj3bnTZ3HCQxbvJl0LWqQR+rKwOEM0c5xoH41HYUelpTzz0iXJYrmnZW/QZk0PMum1T4GMeSvgBYFemGAy5QmXOO7DtFYTw==;Nh0ZEZsZ0WPD8zp1nTEldQ=="

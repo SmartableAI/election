@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-16-rashida-tlaib-stands-by-call-for-trump-impeachment-despite-backlash.md",
+      "title": "Rashida Tlaib stands by call for Trump impeachment despite backlash",
+      "excerpt": "Rep. Rashida Tlaib on Friday refused to back down from her controversial call to impeach President Trump, despite mounting criticism. Ms. Tlaib told a crowd hours after being sworn in Thursday night that Democrats would go after the president.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/rashida-tlaib-impeachments-1f5cf09310702363ba2de9f74712b1ba",
+      "originalUrl": "https://apnews.com/article/rashida-tlaib-impeachments-1f5cf09310702363ba2de9f74712b1ba",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/ShareLogo2.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-16-candace-owens-says-joe-biden-hiding-like-a-little-b-as-afghanistan-falls.md",
       "title": "Candace Owens Says Joe Biden Hiding 'Like a Little B****' as Afghanistan Falls",
       "excerpt": "The decision to withdraw from Afghanistan was first made under the Trump administration. However, the full withdrawal was carried out under Biden.",
@@ -122,7 +165,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 620,
+      "heat": 640,
       "tags": null,
       "images": [
         {
@@ -291,7 +334,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 422,
+      "heat": 442,
       "tags": null,
       "images": [
         {
@@ -826,7 +869,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 167,
+      "heat": 187,
       "tags": null,
       "images": [
         {
@@ -878,7 +921,7 @@
       "originalUrl": "https://www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152",
       "featuredContent": null,
       "highlight": null,
-      "heat": 840,
+      "heat": 860,
       "tags": null,
       "images": [
         {
@@ -1226,62 +1269,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-backs-newsom-california-recall-election.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backs-newsom-california-recall-election.amp",
       "publishedDateTime": "2021-08-12T18:49:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-biden-adviser-anita-dunn-leaves-the-white-house.md",
-      "title": "Biden adviser Anita Dunn leaves the White House",
-      "excerpt": "Top Biden adviser Anita Dunn is leaving her position at the White House",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RZdpDdqjgVU/biden-adviser-anita-dunn-leaves-white-house",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RZdpDdqjgVU/biden-adviser-anita-dunn-leaves-white-house",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3bd93983-0d45-4518-a3ae-8fdf28291a81/f1d5bc39-6a20-418b-8eab-9e12b6cdc361/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-adviser-anita-dunn-leaves-white-house.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-adviser-anita-dunn-leaves-white-house.amp",
-      "publishedDateTime": "2021-08-12T18:03:09-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

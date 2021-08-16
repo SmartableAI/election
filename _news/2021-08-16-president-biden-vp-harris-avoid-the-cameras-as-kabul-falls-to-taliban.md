@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/president-biden-vp-harris-avoid-the
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-biden-vp-harris-avoid-the-cameras-as-kabul-falls.amp"
 type: article
 quality: 200
-heat: 620
+heat: 640
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/858ee941-d24c-488c-a9b4-e553d23c6170/61a55a57-4c87-4f5c-a011-bf338d451d68/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden to return to White House, address nation after Afghanistan falls to Taliban"
+    excerpt: "President Biden will deliver an address from the White House at 3:45 p.m. ET Monday amid a dire situation in Afghanistan that forced Americans to abandon their Kabul embassy Sunday as the Taliban swept into control of the country."
+    publishedDateTime: 2021-08-16T15:15:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/d2DxYovEoyY/biden-afghanistan-speech-taliban-takeover"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-afghanistan-speech-taliban-takeover.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-afghanistan-speech-taliban-takeover.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden hammered for spending time at Camp David while Taliban take over Afghanistan"
     excerpt: "Republican members of Congress criticized President Biden on Sunday for spending time at the Camp David presidential retreat instead of the White House as the Taliban fought to finalize a takeover of Afghanistan."

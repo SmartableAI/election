@@ -136,6 +136,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The Latest: Adviser says Biden 'stands by' US withdrawal"
+    excerpt: "WASHINGTON — U.S. National Security Adviser Jake Sullivan says the failure of the Afghan military is to blame for the Taliban’s swift takeover of Afghanistan. Sullivan said Monday that President Joe Biden didn’t want the U."
+    publishedDateTime: 2021-08-16T15:58:00Z
+    webUrl: "https://www.registercitizen.com/news/article/The-Latest-Saudi-embassy-evacuated-N-Zealand-16389151.php"
+    ampWebUrl: "https://www.registercitizen.com/news/amp/The-Latest-Saudi-embassy-evacuated-N-Zealand-16389151.php"
+    cdnAmpWebUrl: "https://www-registercitizen-com.cdn.ampproject.org/c/s/www.registercitizen.com/news/amp/The-Latest-Saudi-embassy-evacuated-N-Zealand-16389151.php"
+    type: article
+    provider:
+      name: The Register Citizen
+      domain: registercitizen.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "rHu6M1tB5UjBc4akfK3QNaHWe6i5/2gYj7jo+AMkkJ+J6Fkxk9Hm49/Na4NkZ5ocDRrgD5LLzhSASkb9tAIca7brp/N4Egjyv890wf7N93XkRTC7uEzVCDW0X21/E1qDFF5iimewM6TFfSHV01zYEbHaCpUe7py8VNABfQC5vnkYWBRuOigSW0qKP2TYjrh7jv2J6Le4nq7Dr9lNccFIyAyJVuzg0arGRFLpXHGVpM98wTBsrNJGtF/DJTDdWgYu7WMF1InepRW9XZbOSTVZYdcu64ADfMZlvS1/WWg9JdptAplucoXED6DTKm6JwhjKj5F/Q2QSbMsxI1lbdursMkkO6cGv7IJrNW+06kwneg+7wmwZevG8uTUJazgOp75bf9+tReUvLMHK3WgeUqjXFIOiIK6iN5avtx1P0rIOSioFJ+C7mSnTyyGIld/k6ZP4gnaedJPGKy7tHjbGypx9UDrx10CQ3tAOpTbNimY8CpL4AffNwEAM3LMqkyi6sb+MnFf3pGb7gdoBBvuQ6LFd9g==;Q4JY57ddnBiuWk4t1KuMXA=="
 ---

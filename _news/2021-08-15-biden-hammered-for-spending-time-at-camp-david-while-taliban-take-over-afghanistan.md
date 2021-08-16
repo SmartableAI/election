@@ -95,6 +95,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden to return to White House, address nation after Afghanistan falls to Taliban"
+    excerpt: "President Biden will deliver an address from the White House at 3:45 p.m. ET Monday amid a dire situation in Afghanistan that forced Americans to abandon their Kabul embassy Sunday as the Taliban swept into control of the country."
+    publishedDateTime: 2021-08-16T15:15:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/d2DxYovEoyY/biden-afghanistan-speech-taliban-takeover"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-afghanistan-speech-taliban-takeover.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-afghanistan-speech-taliban-takeover.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Jen Psaki 'out of the office' as Biden remains silent on Taliban takeover of Afghanistan"
     excerpt: "Press Secretary Jen Psaki is taking a break from her duties as the crisis unfolds in the Middle East"
     publishedDateTime: 2021-08-16T01:51:58Z

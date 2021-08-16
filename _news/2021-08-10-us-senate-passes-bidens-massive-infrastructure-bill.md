@@ -107,6 +107,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "John Bolton: Afghanistan failure will go down as ‘the Trump-Biden policy’"
+    excerpt: "John R. Bolton says the calamitous U.S. withdrawal from Afghanistan will go down in history as “the Trump-Biden policy.”"
+    publishedDateTime: 2021-08-16T15:29:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/aug/16/john-bolton-afghanistan-failure-will-go-down-trump/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/16/john-bolton-afghanistan-failure-will-go-down-trump/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/16/john-bolton-afghanistan-failure-will-go-down-trump/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 89
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/07/20/john_bolton_speech_46252_c0-0-4896-2856_s1200x700.jpg?d195eefbea5bdd6a6b826ec06c42d87d1ca6f1b8"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Federal Judge Orders Biden to Resume Trump’s ‘Remain in Mexico’ Immigration Policy"
     excerpt: "U.S. District Judge Matthew Kacsmaryk, a Trump appointee, stayed his decision for a week to allow the Biden administration to appeal."
     publishedDateTime: 2021-08-14T20:51:00Z

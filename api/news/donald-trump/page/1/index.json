@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-16-rashida-tlaib-stands-by-call-for-trump-impeachment-despite-backlash.md",
+      "title": "Rashida Tlaib stands by call for Trump impeachment despite backlash",
+      "excerpt": "Rep. Rashida Tlaib on Friday refused to back down from her controversial call to impeach President Trump, despite mounting criticism. Ms. Tlaib told a crowd hours after being sworn in Thursday night that Democrats would go after the president.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/rashida-tlaib-impeachments-1f5cf09310702363ba2de9f74712b1ba",
+      "originalUrl": "https://apnews.com/article/rashida-tlaib-impeachments-1f5cf09310702363ba2de9f74712b1ba",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/ShareLogo2.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-15-heres-what-happened-at-mike-lindells-cyber-symposium-from-him-storming-offstage-to-bolsonaros-son-giving-him-a-maga-hat-signed-by-trump.md",
       "title": "Here's what happened at Mike Lindell's cyber symposium, from him storming offstage to Bolsonaro's son giving him a MAGA hat signed by Trump",
       "excerpt": "Speakers at Mike Lindell's 72-hour cyber symposium event included Ronald Watkins, Steve Bannon, and the son of Brazilian President Jair Bolsonaro.",
@@ -291,7 +334,7 @@
       "originalUrl": "https://www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152",
       "featuredContent": null,
       "highlight": null,
-      "heat": 840,
+      "heat": 860,
       "tags": null,
       "images": [
         {
@@ -1004,7 +1047,7 @@
       "originalUrl": "https://www.washingtontimes.com/news/2021/aug/10/china-hawk-gallagher-bridges-gops-establishment-tr/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -1422,54 +1465,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-trump-backer-elliot-broidy-accused-of-orchestrating-covert-campaign-against-qatar.md",
-      "title": "Trump backer Elliot Broidy accused of orchestrating covert campaign against Qatar",
-      "excerpt": "A top GOP donor and Donald Trump ally was paid millions of dollars by the United Arab Emirates to engineer a smear campaign against rival Persian Gulf state Qatar, according to an explosive",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/08/05/elliot-broidy-accused-of-orchestrating-campaign-against-qatar/",
-      "originalUrl": "https://nypost.com/2021/08/05/elliot-broidy-accused-of-orchestrating-campaign-against-qatar/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/elliott-broidy-trump-backer-0006.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/08/05/elliot-broidy-accused-of-orchestrating-campaign-against-qatar/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/05/elliot-broidy-accused-of-orchestrating-campaign-against-qatar/amp/",
-      "publishedDateTime": "2021-08-05T16:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

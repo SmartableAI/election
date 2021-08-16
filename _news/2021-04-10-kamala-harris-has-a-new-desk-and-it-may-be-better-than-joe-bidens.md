@@ -1007,6 +1007,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Van Drew calls for Biden, Harris to resign over Afghanistan"
+    excerpt: "Congressman Jeff Van Drew, R-2nd, called for the resignations of President Biden, Vice President Kamala Harris, and other over the country’s chaotic exit from Afghanistan that he said has left"
+    publishedDateTime: 2021-08-16T14:01:00Z
+    webUrl: "https://pressofatlanticcity.com/news/national/van-drew-calls-for-biden-harris-to-resign-over-afghanistan/article_7d84b8aa-fe9a-11eb-8c70-1b6c7051d7a9.html"
+    ampWebUrl: "https://pressofatlanticcity.com/news/national/van-drew-calls-for-biden-harris-to-resign-over-afghanistan-withdrawal/article_7d84b8aa-fe9a-11eb-8c70-1b6c7051d7a9.amp.html"
+    cdnAmpWebUrl: "https://pressofatlanticcity-com.cdn.ampproject.org/c/s/pressofatlanticcity.com/news/national/van-drew-calls-for-biden-harris-to-resign-over-afghanistan-withdrawal/article_7d84b8aa-fe9a-11eb-8c70-1b6c7051d7a9.amp.html"
+    type: article
+    provider:
+      name: The Press of Atlantic City
+      domain: pressofatlanticcity.com
+    quality: 90
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/assets/v3/editorial/e/5c/e5ce882a-7240-560e-9074-4b6451e3ab23/6057e9bab24c8.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Vice President Kamala Harris casts first tie-breaking vote for Biden nominee"
     excerpt: "The Senate deadlocked 50-50 on a straight party-line procedural vote to discharge Colin Kahl’s nomination from the Armed Services Committee, requiring Vice President Kamala Harris to break"
     publishedDateTime: 2021-04-21T22:37:00Z

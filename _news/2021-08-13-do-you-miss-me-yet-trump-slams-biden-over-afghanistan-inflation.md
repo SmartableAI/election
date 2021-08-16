@@ -172,6 +172,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Obama-era Afghanistan ambassador has 'grave questions' about Biden's 'ability to lead' US"
+    excerpt: "A former Obama-era ambassador to Afghanistan says he has \"grave questions\" about President Biden's \"ability to lead\" America as commander in chief following the stunning collapse of Afghanistan."
+    publishedDateTime: 2021-08-16T14:31:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UjfkvcOGch4/obama-afghanistan-ambassador-grave-questions-biden-ability-lead"
+    ampWebUrl: "https://www.foxnews.com/politics/obama-afghanistan-ambassador-grave-questions-biden-ability-lead.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-afghanistan-ambassador-grave-questions-biden-ability-lead.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/998f5457-223e-4d04-a124-24d3e7d832f9/59eee0b4-4473-4400-8ede-b8ca36bdf67c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Trump calls on Biden to ‘resign in disgrace’ over crisis in Afghanistan"
     excerpt: "Former President Donald Trump Sunday called on President Joe Biden to “resign in disgrace” over his handling of the Afghanistan withdrawal and other issues."
     publishedDateTime: 2021-08-15T23:38:00Z

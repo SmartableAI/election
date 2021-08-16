@@ -2,6 +2,58 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-06-12-feds-will-repeal-or-replace-trump-era-decision-to-lift-logging-road-building-restrictions-in-alaskas-tongass-national-forest.md",
+      "title": "Feds will 'repeal or replace' Trump-era decision to lift logging, road building restrictions in Alaska's Tongass National Forest",
+      "excerpt": "Republican Alaska Gov. Mike Dunleavy criticized the Biden's administration's plan and vowed to use \"every tool available to push back\" against it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/nation/2021/06/11/alaska-tongass-national-forest-trump-roadless-rule/7662402002/",
+      "originalUrl": "https://www.usatoday.com/story/news/nation/2021/06/11/alaska-tongass-national-forest-trump-roadless-rule/7662402002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2018/11/06/USAT/07f2e10a-a895-4a3b-8a78-4ca7d17513ae-Alaska_110618.jpg?auto=webp&crop=599,335,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7662402002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7662402002",
+      "publishedDateTime": "2021-06-11T16:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-migrant-childrens-flights-prompt-iowa-tennessee-governors-to-demand-answers-from-biden-administration.md",
       "title": "Migrant childrens' flights prompt Iowa, Tennessee governors to demand answers from Biden administration",
       "excerpt": "The governors of Iowa and Tennessee are calling for hearings into what they describe as a lack of transparency from the Biden administration about the transportation of unaccompanied migrant children into their states.",
@@ -1256,58 +1308,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-piers-morgan-writes-10-point-memo-to-joe-biden-ahead-of-g7.md",
-      "title": "Piers Morgan Writes '10-Point Memo' to Joe Biden Ahead of G7",
-      "excerpt": "The British journalist has advised the president to \"grovel\" to Queen Elizabeth II and not mention Meghan and Harry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/piers-morgan-writes-10-point-memo-joe-biden-ahead-g7-1599363",
-      "originalUrl": "https://www.newsweek.com/piers-morgan-writes-10-point-memo-joe-biden-ahead-g7-1599363",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1817632/joe-biden-arrives-uk.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/piers-morgan-writes-10-point-memo-joe-biden-ahead-g7-1599363?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/piers-morgan-writes-10-point-memo-joe-biden-ahead-g7-1599363?amp=1",
-      "publishedDateTime": "2021-06-10T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

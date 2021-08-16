@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/12/politics/joe-biden-donald-trump-b
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/12/politics/joe-biden-donald-trump-barack-obama-afghanistan-infrastructure/index.html"
 type: article
 quality: 185
-heat: 505
+heat: 525
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210814115852-kabul-afghanistan-view-08-14-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to return to White House for address on Afghanistan "
+    excerpt: "President Joe Biden will address the situation in Afghanistan from the White House on Monday afternoon, as he faces mounting questions about his administration's apparent failure to prepare for the collapse of that nation's government.\n    \n"
+    publishedDateTime: 2021-08-16T15:15:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j960qeCIaG0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/16/politics/biden-afghanistan-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/16/politics/biden-afghanistan-speech/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210816043050-joe-biden-camp-david-afghanistan-briefing-0815-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

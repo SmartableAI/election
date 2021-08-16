@@ -2,6 +2,58 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-07-12-john-dean-a-key-figure-in-the-watergate-scandal-said-hed-pay-to-handle-trumps-deposition-which-he-thinks-could-sell-tickets.md",
+      "title": "John Dean, a key figure in the Watergate scandal, said he'd 'pay to handle' Trump's deposition which he thinks could 'sell tickets'",
+      "excerpt": "\"He's always said 'I'm willing to give a deposition,' just like he's always said 'I'm going to turn over my tax returns,'\" Dean said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/key-watergate-figure-john-dean-hed-pay-handle-trump-deposition-2021-7",
+      "originalUrl": "https://www.businessinsider.com/key-watergate-figure-john-dean-hed-pay-handle-trump-deposition-2021-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60eb7da0ca74780018ae8cba?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/key-watergate-figure-john-dean-hed-pay-handle-trump-deposition-2021-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/key-watergate-figure-john-dean-hed-pay-handle-trump-deposition-2021-7?amp",
+      "publishedDateTime": "2021-07-11T19:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-11-trump-easily-wins-cpac-2024-gop-presidential-nomination-straw-poll.md",
       "title": "Trump easily wins CPAC 2024 GOP presidential nomination straw poll",
       "excerpt": "Former Presidentv Donald Trump easily won the 2024 GOP presidential nomination poll at the Conservative Political Action Conference (CPAC) gathering this weekend in Texas.",
@@ -1292,58 +1344,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-watchdog-2-trump-epa-appointees-defrauded-agency-of-130k.md",
-      "title": "Watchdog: 2 Trump EPA appointees defrauded agency of $130K",
-      "excerpt": "A report by an internal watchdog says two high-ranking political appointees of Donald Trump's at the Environmental Protection Agency engaged in fraudulent payroll activities that cost the agency more than $130,",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/watchdog-trump-epa-appointees-defrauded-agency-130k-78761617",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/watchdog-trump-epa-appointees-defrauded-agency-130k-78761617",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_252b8fa9604645bf98f587e8fe77fbaf_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/watchdog-trump-epa-appointees-defrauded-agency-130k-78761617",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/watchdog-trump-epa-appointees-defrauded-agency-130k-78761617",
-      "publishedDateTime": "2021-07-09T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

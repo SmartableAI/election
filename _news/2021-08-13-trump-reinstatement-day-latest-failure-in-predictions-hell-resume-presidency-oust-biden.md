@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/trump-reinstatement-day-latest-failure-pred
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152?amp=1"
 type: article
 quality: 140
-heat: 840
+heat: 860
 published: true
 
 provider:
@@ -91,6 +91,22 @@ related:
     quality: 90
     images:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/08/11/trump_financial_records_86507_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "John Bolton: Afghanistan failure will go down as ‘the Trump-Biden policy’"
+    excerpt: "John R. Bolton says the calamitous U.S. withdrawal from Afghanistan will go down in history as “the Trump-Biden policy.”"
+    publishedDateTime: 2021-08-16T15:29:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/aug/16/john-bolton-afghanistan-failure-will-go-down-trump/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/16/john-bolton-afghanistan-failure-will-go-down-trump/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/16/john-bolton-afghanistan-failure-will-go-down-trump/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 89
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/07/20/john_bolton_speech_46252_c0-0-4896-2856_s1200x700.jpg?d195eefbea5bdd6a6b826ec06c42d87d1ca6f1b8"
         width: 1200
         height: 700
         isCached: true
