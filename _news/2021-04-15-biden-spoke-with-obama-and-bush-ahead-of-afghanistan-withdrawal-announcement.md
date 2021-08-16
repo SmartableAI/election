@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's botched Afghan exit is a disaster at home and abroad long in the making"
+    excerpt: "The debacle of the US defeat and chaotic retreat in Afghanistan is a political disaster for Joe Biden, whose failure to orchestrate an urgent and orderly exit will further rock a presidency plagued by crises and stain his legacy.\n    \n"
+    publishedDateTime: 2021-08-16T06:12:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DauauVXUhBI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/16/politics/afghanistan-joe-biden-donald-trump-kabul-politics/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/16/politics/afghanistan-joe-biden-donald-trump-kabul-politics/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210816002128-taliban-flag-ghazni-0815-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "GOP Senate candidates align with Trump in bashing bipartisan infrastructure bill"
     excerpt: "Sen. Rob Portman, the longtime Washington veteran and savvy deal-cutter, is on the cusp of achieving a major bipartisan achievement that would amount to a capstone of his three decades of public service: The Senate's passage of a roughly $1 trillion package to rebuild the nation's infrastructure.\n  "
     publishedDateTime: 2021-08-06T17:54:49Z
@@ -238,6 +254,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/05/19/opinion/19scahill/19scahill-videoSixteenByNine3000.jpg"
         width: 3000
         height: 1689
+        isCached: true
+  - title: "A defiant Biden mostly silent amid Afghanistan criticism as WH weighs response"
+    excerpt: "Democrats on Capitol Hill and former Obama administration officials joined Republicans over the weekend in publicly criticizing the president’s handling of the situation."
+    publishedDateTime: 2021-08-16T11:51:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-weighs-address-nation-afghanistan-crumbles-n1276885"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1276885"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1276885"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 131
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_32/3498568/210812-joe-biden-jm-0947.jpg"
+        width: 2500
+        height: 1603
         isCached: true
   - title: "Biden sets Afghanistan pullout"
     excerpt: "Act on the news with POLITICO Pro. — President Joe Biden is set to order all U.S. troops out of Afghanistan by Sept. 11, setting off a fierce debate over who will fill the vacuum. — The nomination of Colin Kahl should be delayed pending a review of new ..."

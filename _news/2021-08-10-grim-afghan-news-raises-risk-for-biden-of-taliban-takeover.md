@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/policy/defense/567049-grim-afghan-news-raises-ri
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/567049-grim-afghan-news-raises-risk-for-biden-of-taliban-takeover?amp"
 type: article
 quality: 125
-heat: 525
+heat: 545
 published: true
 
 provider:
@@ -172,6 +172,22 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "The Latest: Adviser says Biden ‘stands by’ US withdrawal"
+    excerpt: "WASHINGTON — U.S. National Security Adviser Jake Sullivan says the failure of the Afghan military is to blame for the Taliban’s swift takeover of Afghanistan. Sullivan said Monday that President Joe Biden didn’t want the U."
+    publishedDateTime: 2021-08-16T11:54:00Z
+    webUrl: "https://www.bostonherald.com/2021/08/16/the-latest-adviser-says-biden-stands-by-us-withdrawal/"
+    ampWebUrl: "https://www.bostonherald.com/2021/08/16/the-latest-adviser-says-biden-stands-by-us-withdrawal/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/08/16/the-latest-adviser-says-biden-stands-by-us-withdrawal/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 75
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2021/08/APTOPIX_Afghanistan_94956-2.jpg?w=1024&#038;h=682"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Taliban's Afghanistan advance tests Biden's 'America is back' foreign policy promise"
     excerpt: "As the Taliban routs Afghan forces at lightning speed, the U.S. retreat from the country raises questions about Biden's \"America is back\" foreign policy."

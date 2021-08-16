@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Biden set to speak following major infrastructure wins in the Senate"
-excerpt: "President Joe Biden is set to deliver remarks from the White House Wednesday afternoon addressing his recovery agenda following the Senate passage of his infrastructure bill and a budget resolution encompassing much of the rest of his domestic legislative goals.\n    \n"
-publishedDateTime: 2021-08-11T15:47:35Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E_uce8J3D7A/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E_uce8J3D7A/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/08/11/politics/joe-biden-infrastructure-passage-speech/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/11/politics/joe-biden-infrastructure-passage-speech/index.html"
+title: "A defiant Biden mostly silent amid Afghanistan criticism as WH weighs response"
+excerpt: "Democrats on Capitol Hill and former Obama administration officials joined Republicans over the weekend in publicly criticizing the president’s handling of the situation."
+publishedDateTime: 2021-08-16T11:51:00Z
+originalUrl: "https://www.nbcnews.com/politics/white-house/biden-weighs-address-nation-afghanistan-crumbles-n1276885"
+webUrl: "https://www.nbcnews.com/politics/white-house/biden-weighs-address-nation-afghanistan-crumbles-n1276885"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1276885"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1276885"
 type: article
-quality: 175
+quality: 131
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210810152440-06-biden-harris-remarks-0810-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_32/3498568/210812-joe-biden-jm-0947.jpg"
+    width: 2500
+    height: 1603
     isCached: true
 
 related:
@@ -76,6 +77,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210805094717-02-joe-biden-0729-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden set to speak following major infrastructure wins in the Senate"
+    excerpt: "President Joe Biden is set to deliver remarks from the White House Wednesday afternoon addressing his recovery agenda following the Senate passage of his infrastructure bill and a budget resolution encompassing much of the rest of his domestic legislative goals.\n    \n"
+    publishedDateTime: 2021-08-11T15:47:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E_uce8J3D7A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/11/politics/joe-biden-infrastructure-passage-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/11/politics/joe-biden-infrastructure-passage-speech/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210810152440-06-biden-harris-remarks-0810-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -255,22 +272,6 @@ related:
         width: 3000
         height: 1689
         isCached: true
-  - title: "A defiant Biden mostly silent amid Afghanistan criticism as WH weighs response"
-    excerpt: "Democrats on Capitol Hill and former Obama administration officials joined Republicans over the weekend in publicly criticizing the president’s handling of the situation."
-    publishedDateTime: 2021-08-16T11:51:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-weighs-address-nation-afghanistan-crumbles-n1276885"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1276885"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1276885"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 131
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_32/3498568/210812-joe-biden-jm-0947.jpg"
-        width: 2500
-        height: 1603
-        isCached: true
   - title: "Biden sets Afghanistan pullout"
     excerpt: "Act on the news with POLITICO Pro. — President Joe Biden is set to order all U.S. troops out of Afghanistan by Sept. 11, setting off a fierce debate over who will fill the vacuum. — The nomination of Colin Kahl should be delayed pending a review of new ..."
     publishedDateTime: 2021-04-14T14:01:00Z
@@ -286,6 +287,6 @@ related:
         height: 629
         isCached: true
 
-secured: "QD0wZr24kED7dea3fV57DNPYmIzuzziDVeWkBfoFT2L1rS9Zd9kEPcKQFNRYUIjs/t1lbWUQ9/+5tG8zSNeUMkEFDjJppo8xldweYpXgQMzz5UA0NGtawhEZkoTb7SkUIfwB6C7hrM6eAMeqnWs10yyv1Q/cP9fYqh/hg5J9ubT1V43x8bk40v7ypmFePgfT+auU8Vstypk1z3o/iyNGh/9myyWidprlV7XHXX828ILZUNKyQ+YofbxhkQ86g4IzMEB/XltL51Y31AcZBQp4iFYuEiP4//i2FOkjLP8xSRTj3A09af2iPrC3XAImp10tDQtHHaopQxq+Ndv8BBdxE6dumDannJmRy5IQrCjHocU=;+0QTVQK/P43wp6M6gTMhWw=="
+secured: "m7R8q+nmNlbNN7sJQE8mbZ7JLr0cYkF17nXLrYfMa3NfOh/CKRe3jfaJi7QMWm800243ThweQfIRoBrYt06VsRb4TOSRJHmJBcVnsqtkapmjuogXRvvY0QGOGWWP0H3zgmbDDiDjKK+W+wB+43l7sVlRGrp5jrX9A+0b+aX4x+HwbKrAS/3Iu+jHjOKb4RbBaTeCaJ3WW+h/eEqdJD5pfggb37K/WHnaMrjOU3iqyEneyAkM+mmcYA4QZrr1+no9iugyNw/LCHmHuMkXRkkViGanV+JUr4InCL0WqUMbF4NNAqbHkWmto6ZlGtF72kT0rT7GX3CZqfSsOeQe5Y2dUZMPLO+TE+CtyfbgB2j4Gp8=;a1qEptIqZFZ6ZYsZCZvoiw=="
 ---
 

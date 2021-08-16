@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Biden orders 1,000 more troops to aid Afghanistan departure"
-excerpt: "President Joe Biden authorized on Saturday an additional 1,000 U.S. troops for deployment to Afghanistan, raising to roughly 5,000 the number of U.S. troops to ensure what Biden called an “orderly and safe drawdown” of American and allied personnel."
-publishedDateTime: 2021-08-15T19:28:00Z
-originalUrl: "https://www.kentucky.com/news/business/article253488379.html"
-webUrl: "https://www.kentucky.com/news/business/article253488379.html"
-ampWebUrl: "https://amp.kentucky.com/news/business/article253488379.html"
-cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/article253488379.html"
+title: "Biden to Marshal International Community on Rights in Afghanistan -Adviser"
+excerpt: "U.S. National Security Adviser Jake Sullivan on Monday said that President Joe Biden is prepared to marshal the international community on human rights in Afghanistan, where the Taliban is seizing power."
+publishedDateTime: 2021-08-16T11:47:00Z
+originalUrl: "https://www.usnews.com/news/world/articles/2021-08-16/biden-to-marshal-international-community-on-rights-in-afghanistan-adviser"
+webUrl: "https://www.usnews.com/news/world/articles/2021-08-16/biden-to-marshal-international-community-on-rights-in-afghanistan-adviser"
 type: article
-quality: 55
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Lexington Herald Leader
-  domain: kentucky.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -691,6 +693,17 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Biden orders 1,000 more troops to aid Afghanistan departure"
+    excerpt: "President Joe Biden authorized on Saturday an additional 1,000 U.S. troops for deployment to Afghanistan, raising to roughly 5,000 the number of U.S. troops to ensure what Biden called an “orderly and safe drawdown” of American and allied personnel."
+    publishedDateTime: 2021-08-15T19:28:00Z
+    webUrl: "https://www.kentucky.com/news/business/article253488379.html"
+    ampWebUrl: "https://amp.kentucky.com/news/business/article253488379.html"
+    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/article253488379.html"
+    type: article
+    provider:
+      name: Lexington Herald Leader
+      domain: kentucky.com
+    quality: 55
   - title: "The Latest: Biden sending 1,000 more troops to Afghanistan"
     excerpt: "A defense official says President Joe Biden has authorized an additional 1,000 U.S. troops for deployment to Afghanistan."
     publishedDateTime: 2021-08-15T19:44:00Z
@@ -702,16 +715,7 @@ related:
       name: BND
       domain: bnd.com
     quality: 55
-  - title: "Biden to Marshal International Community on Rights in Afghanistan -Adviser"
-    excerpt: "U.S. National Security Adviser Jake Sullivan on Monday said that President Joe Biden is prepared to marshal the international community on human rights in Afghanistan, where the Taliban is seizing power."
-    publishedDateTime: 2021-08-16T11:47:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2021-08-16/biden-to-marshal-international-community-on-rights-in-afghanistan-adviser"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 33
 
-secured: "VabAcS/hIrXwAaCjO2l8GlD1HMFeP2fcSU32pm50hhMNVrH7P386eNl3Ll/w4eypn7nqzuxueK7u9QbaH8LXhBewuF+7MLlZsKarcbebRp/00eXYnLwtFd1H6njQs0bVU5G1JTcsMP6uJt25SHBsp70KzNjvhiukqutiSSKuSdJwnhtW5Ga6y7OJ3kto17sBphHmnrIpJ/pZu/NWT51EJLb59cGt3aem1I8DQEiZszs1SejtMPiNfDi1hC6+NtSL461tkCFWON6PsisKmG7M8MMm94fJTHz/YvekUPL/fgvWaZI0Dt5j+S739w3zU5PFYoLaqVkPnTIK/WWzwCd6SkNjfNpQXLhzrb4Id6oUFuc9c1H8qK0/r2hE8R3UWzMw0NKPA4ZSieND9S9QbghEoUyk7blgvgrn+uNv4UsQJr2O7v1AAsBVjO8ZTdZygS/uDzwsyPO68f0Prl+eGMp5wxNlKlB8cHb3HVQMs/RpBZnhTEK5BugBpvQav0v3J5sj7TH3kl+djiE+1yNqDu+E5g==;6mev1yQfEPlVkxfvZ263kw=="
+secured: "gSHp61Yvdsa/80YxYGHsDMr6c29yrg3X6bzLHLeEzYD8ctzgU3AXrxHZnnfLurLXltG/Wx+4fYjBCIaO09Z4gy6zusYOPg3ftkbgHiJoxcoL3o0jafX07ScliqhxzvXrZRvP1xOiTtkSJ0xNb+ioSOc3tf3iukc64O47XIOIXGZcGvvo1ClR0ZtJLdOweFjwQoniR6e1vEWnHlUtuWqZeEof2fYMyTh3nI42GPWl41A2C9Fs19usSxkANlKap9MbjCTp/ro77unho1uLkVEY8apsJq9IN6pEZxrCgY454PrKdBP2HdtdyEMrslh6o0Jrq9rLhk2gk5bekgCe/1sL82B4zBZi5voZYJQlpfLlrmVaRbBRoFNA+9jk9jCv+Kci+WASzGV/u4ZeTSxc/BKlZYI0ddEx443jKS8OFfkTzRyn5x4+7+7pabROjZHX6DK5Xw6Q/dxx/KrtOX0JE4XeMFwxoeqEM70UWXQ5E0mcZo+uZli+bQ9g/NqXzG/23/nGmDgWVBSI75k2v8FiD1Q6/w==;y9xdMvaQcdziLQ5w4VOaLA=="
 ---
 

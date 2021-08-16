@@ -185,6 +185,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "The Latest: Adviser says Biden ‘stands by’ US withdrawal"
+    excerpt: "WASHINGTON — U.S. National Security Adviser Jake Sullivan says the failure of the Afghan military is to blame for the Taliban’s swift takeover of Afghanistan. Sullivan said Monday that President Joe Biden didn’t want the U."
+    publishedDateTime: 2021-08-16T11:54:00Z
+    webUrl: "https://www.bostonherald.com/2021/08/16/the-latest-adviser-says-biden-stands-by-us-withdrawal/"
+    ampWebUrl: "https://www.bostonherald.com/2021/08/16/the-latest-adviser-says-biden-stands-by-us-withdrawal/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/08/16/the-latest-adviser-says-biden-stands-by-us-withdrawal/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 75
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2021/08/APTOPIX_Afghanistan_94956-2.jpg?w=1024&#038;h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "President Biden urges no vote in Gavin Newsom recall, showing California governor support"
     excerpt: "President Joe Biden on Thursday urged Californians to vote no in the upcoming election to recall Gov. Gavin Newsom in a show of support for the embattled Democratic governor. In a statement released by Newsom’s campaign,"
     publishedDateTime: 2021-08-13T01:57:00Z

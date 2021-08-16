@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden set to speak following major infrastructure wins in the Senate"
-excerpt: "President Joe Biden is set to deliver remarks from the White House Wednesday afternoon addressing his recovery agenda following the Senate passage of his infrastructure bill and a budget resolution encompassing much of the rest of his domestic legislative goals.\n    \n"
-publishedDateTime: 2021-08-11T15:47:35Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E_uce8J3D7A/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E_uce8J3D7A/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/08/11/politics/joe-biden-infrastructure-passage-speech/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/11/politics/joe-biden-infrastructure-passage-speech/index.html"
+title: "Biden's botched Afghan exit is a disaster at home and abroad long in the making"
+excerpt: "The debacle of the US defeat and chaotic retreat in Afghanistan is a political disaster for Joe Biden, whose failure to orchestrate an urgent and orderly exit will further rock a presidency plagued by crises and stain his legacy.\n    \n"
+publishedDateTime: 2021-08-16T06:12:42Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DauauVXUhBI/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DauauVXUhBI/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/08/16/politics/afghanistan-joe-biden-donald-trump-kabul-politics/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/16/politics/afghanistan-joe-biden-donald-trump-kabul-politics/index.html"
 type: article
-quality: 175
+quality: 171
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210810152440-06-biden-harris-remarks-0810-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210816002128-taliban-flag-ghazni-0815-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden set to speak following major infrastructure wins in the Senate"
+    excerpt: "President Joe Biden is set to deliver remarks from the White House Wednesday afternoon addressing his recovery agenda following the Senate passage of his infrastructure bill and a budget resolution encompassing much of the rest of his domestic legislative goals.\n    \n"
+    publishedDateTime: 2021-08-11T15:47:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E_uce8J3D7A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/11/politics/joe-biden-infrastructure-passage-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/11/politics/joe-biden-infrastructure-passage-speech/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210810152440-06-biden-harris-remarks-0810-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden authorizes 1,000 more troops to be sent to Afghanistan"
     excerpt: "President Joe Biden announced the authorization of an additional direct deployment of 1,000 troops to Afghanistan in a statement Saturday.\n    \n"
     publishedDateTime: 2021-08-14T23:43:59Z
@@ -108,22 +124,6 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210414143405-02-biden-afghanistan-remarks-0414-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden's botched Afghan exit is a disaster at home and abroad long in the making"
-    excerpt: "The debacle of the US defeat and chaotic retreat in Afghanistan is a political disaster for Joe Biden, whose failure to orchestrate an urgent and orderly exit will further rock a presidency plagued by crises and stain his legacy.\n    \n"
-    publishedDateTime: 2021-08-16T06:12:42Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DauauVXUhBI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/16/politics/afghanistan-joe-biden-donald-trump-kabul-politics/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/16/politics/afghanistan-joe-biden-donald-trump-kabul-politics/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210816002128-taliban-flag-ghazni-0815-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -286,6 +286,6 @@ related:
         height: 629
         isCached: true
 
-secured: "QD0wZr24kED7dea3fV57DNPYmIzuzziDVeWkBfoFT2L1rS9Zd9kEPcKQFNRYUIjs/t1lbWUQ9/+5tG8zSNeUMkEFDjJppo8xldweYpXgQMzz5UA0NGtawhEZkoTb7SkUIfwB6C7hrM6eAMeqnWs10yyv1Q/cP9fYqh/hg5J9ubT1V43x8bk40v7ypmFePgfT+auU8Vstypk1z3o/iyNGh/9myyWidprlV7XHXX828ILZUNKyQ+YofbxhkQ86g4IzMEB/XltL51Y31AcZBQp4iFYuEiP4//i2FOkjLP8xSRTj3A09af2iPrC3XAImp10tDQtHHaopQxq+Ndv8BBdxE6dumDannJmRy5IQrCjHocU=;+0QTVQK/P43wp6M6gTMhWw=="
+secured: "4evFCxSSw8fRM68dw6ObPV2Qtam0ieMWBCaauC3BQLQjr8zlbExdK9x5LnKwep4XY/ZfCSRAiA2/V3lBFIKamrt9sr5hSgvwysHN4MG2yQ4A9MPyeY8Cd2w3eMVx5sEx40BvV9f1AZjsYJce59n/HnkVR2Ok8sNvDgi7o4iJ9Qyu7v6S+Th3RV6rHpm2+pxPuvhbrRRTV4fIs+4XCXgMyds2CmPfBYHM7NYOLTIJZwzYuTsjrlUSUATo1WzPvS2OxObM+KjT1rU1Ec2uSbiHy59EttgOHf4GIb/gpE5i/08tLD3di4R/AAEyb58YprqYunjcy//Q7nqprrWzR4odssGTpaWf/ZWmD1HC4PfH6F0=;gaEEarJXyHRjPJWO+qd4bQ=="
 ---
 

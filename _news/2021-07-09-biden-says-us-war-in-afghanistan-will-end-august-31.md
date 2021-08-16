@@ -707,6 +707,15 @@ related:
       name: BND
       domain: bnd.com
     quality: 55
+  - title: "Biden to Marshal International Community on Rights in Afghanistan -Adviser"
+    excerpt: "U.S. National Security Adviser Jake Sullivan on Monday said that President Joe Biden is prepared to marshal the international community on human rights in Afghanistan, where the Taliban is seizing power."
+    publishedDateTime: 2021-08-16T11:47:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-08-16/biden-to-marshal-international-community-on-rights-in-afghanistan-adviser"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 33
 
 secured: "hPqfGtWh4loQEsuzWdZZIhcb7G1b2Zz+ubwjfdYkswYKWXqUcdX93DO/7mcE5CLDM8dMzt5wO+cG12f6icC1sUFlDt5hNwgXwOyrEucFmdyUNStxWwxEQDZNvMkQKC+4H9u4ukUCmkpob3lNbiIxqNkDpdtGRpH/zG36PevpfzknGjeN7Ogc/cXYdDEPzRX6MxB5M7dKRKMlKe8rY7B+zVxskh8Naq7z2wkqy4VL9mGUJPaI/x6KwKtJqEeovL52DGhTNHs4ATmsVsrGmwWt2yd7G8tEioCHn4SsU/Y+mcfWL+G1NaHy3NITWknKiYbaqrll45gMj/ERFC+Dm/iXHAcIgwiWWvag8seyifAiMRU=;ugTH0ZdMZtJ1lLJnS045eA=="
 ---

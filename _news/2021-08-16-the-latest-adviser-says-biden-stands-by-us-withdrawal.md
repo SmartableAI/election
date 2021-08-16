@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Biden's complicated new task: keeping Dems together"
-excerpt: "President Joe Biden overcame skepticism, deep political polarization and legislative gamesmanship to win bipartisan approval in the Senate this week of his $1 trillion infrastructure bill."
-publishedDateTime: 2021-08-12T02:40:00Z
-originalUrl: "https://www.texarkanagazette.com/news/national/story/2021/aug/12/bidens-complicated-new-task-keeping-dems-together/883254/"
-webUrl: "https://www.texarkanagazette.com/news/national/story/2021/aug/12/bidens-complicated-new-task-keeping-dems-together/883254/"
+title: "The Latest: Adviser says Biden ‘stands by’ US withdrawal"
+excerpt: "WASHINGTON — U.S. National Security Adviser Jake Sullivan says the failure of the Afghan military is to blame for the Taliban’s swift takeover of Afghanistan. Sullivan said Monday that President Joe Biden didn’t want the U."
+publishedDateTime: 2021-08-16T11:54:00Z
+originalUrl: "https://www.bostonherald.com/2021/08/16/the-latest-adviser-says-biden-stands-by-us-withdrawal/"
+webUrl: "https://www.bostonherald.com/2021/08/16/the-latest-adviser-says-biden-stands-by-us-withdrawal/"
+ampWebUrl: "https://www.bostonherald.com/2021/08/16/the-latest-adviser-says-biden-stands-by-us-withdrawal/amp/"
+cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/08/16/the-latest-adviser-says-biden-stands-by-us-withdrawal/amp/"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Texarkana Gazette
-  domain: texarkanagazette.com
+  name: Boston Herald
+  domain: bostonherald.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://media-cdn.wehco.com/img/photos/2021/07/27/bideneconomy4374046600_t1070_h62d769030b5428c8067704a70df1574b25cff470.jpg"
-    width: 1070
-    height: 714
+  - url: "https://www.bostonherald.com/wp-content/uploads/2021/08/APTOPIX_Afghanistan_94956-2.jpg?w=1024&#038;h=682"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -183,22 +185,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "The Latest: Adviser says Biden ‘stands by’ US withdrawal"
-    excerpt: "WASHINGTON — U.S. National Security Adviser Jake Sullivan says the failure of the Afghan military is to blame for the Taliban’s swift takeover of Afghanistan. Sullivan said Monday that President Joe Biden didn’t want the U."
-    publishedDateTime: 2021-08-16T11:54:00Z
-    webUrl: "https://www.bostonherald.com/2021/08/16/the-latest-adviser-says-biden-stands-by-us-withdrawal/"
-    ampWebUrl: "https://www.bostonherald.com/2021/08/16/the-latest-adviser-says-biden-stands-by-us-withdrawal/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/08/16/the-latest-adviser-says-biden-stands-by-us-withdrawal/amp/"
-    type: article
-    provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 75
-    images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2021/08/APTOPIX_Afghanistan_94956-2.jpg?w=1024&#038;h=682"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Taliban's Afghanistan advance tests Biden's 'America is back' foreign policy promise"
     excerpt: "As the Taliban routs Afghan forces at lightning speed, the U.S. retreat from the country raises questions about Biden's \"America is back\" foreign policy."
     publishedDateTime: 2021-08-15T17:44:00Z
@@ -267,6 +253,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden's complicated new task: keeping Dems together"
+    excerpt: "President Joe Biden overcame skepticism, deep political polarization and legislative gamesmanship to win bipartisan approval in the Senate this week of his $1 trillion infrastructure bill."
+    publishedDateTime: 2021-08-12T02:40:00Z
+    webUrl: "https://www.texarkanagazette.com/news/national/story/2021/aug/12/bidens-complicated-new-task-keeping-dems-together/883254/"
+    type: article
+    provider:
+      name: Texarkana Gazette
+      domain: texarkanagazette.com
+    quality: 55
+    images:
+      - url: "https://media-cdn.wehco.com/img/photos/2021/07/27/bideneconomy4374046600_t1070_h62d769030b5428c8067704a70df1574b25cff470.jpg"
+        width: 1070
+        height: 714
+        isCached: true
   - title: "Biden calls school chiefs, lauds defiance of anti-mask rules"
     excerpt: "President Joe Biden has called school district superintendents in Florida and Arizona, praising them for doing what he called “the right thing” after their respective boards implemented mask requirements in defiance of their Republican governors amid growing COVID-19 infections."
     publishedDateTime: 2021-08-15T04:30:00Z
@@ -324,6 +324,6 @@ related:
       domain: usnews.com
     quality: 31
 
-secured: "hE2T5tP5Ii5cGu3SDeDd1TgLdprp5b3tQmG8cBWDJG0TXagb9OLYTXhU/NZIDWMGdoMHUPTKPxIwTJkO33IimkJXgfeD+S8WgRZAjBsnGXQ8jIjD9XaIRe51INr9yXuG/TfDC/Ca8IWpiugAOYJbH9Hi0DmQfwRJxBTrqh8iD050oSabI3JNFbV5ygCHVg5AD+cn2EtYOMDYSK0U1Jo5X3JImLXEBtz/jGAwv06IF/wVz2EFRCzYcR3+4fQ4rJZQjsKee16hH4YwXgMhMVAKE9rCEZl3/4hF+++pfZhW+y62smm0m1SqXyMTjkFVz2eEyRxdhrTtNUEyguhCFYZKKqzbfwFr/FL5UnAug7Fi/HU=;talOEzEdP5D3JFxm9zX1EA=="
+secured: "T/uSBTjxK+bNTk80MExUxCPwK5RbbOFm5VtPSB3lUPnxx71HPZdayI7Js+sncQ5+tmrmf0rbmqUTR4iFJqeh8zPLyt4KHv5odHV/njgn2jvZuUfPs5UKiOklTbirlLn8v5+9LUdzpoHpJyW/KjNyPwLthtSXANnGZTza2jS4OKt7hmy+ylQjJGc3YdfinMq/Xd55y6y+YYMhCEGQIn6RkWWwHHwoj6kWZhrGPz27W5bmjeS6LKC5G2f+MweNuGLBnTUk0seVkpAfE6ezUaSnznVmVaalQ+rbKsRtngm9X+KLYrkhjQ9AkwkKhfnhtDEoREPLKaY6I5QnJWSy+vdg3i3hQUl67Y5o2Lhja9h5TfA=;kT7lY4SInQzAmG7SUgxkgQ=="
 ---
 

@@ -173,6 +173,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "The Latest: Adviser says Biden ‘stands by’ US withdrawal"
+    excerpt: "WASHINGTON — U.S. National Security Adviser Jake Sullivan says the failure of the Afghan military is to blame for the Taliban’s swift takeover of Afghanistan. Sullivan said Monday that President Joe Biden didn’t want the U."
+    publishedDateTime: 2021-08-16T11:54:00Z
+    webUrl: "https://www.bostonherald.com/2021/08/16/the-latest-adviser-says-biden-stands-by-us-withdrawal/"
+    ampWebUrl: "https://www.bostonherald.com/2021/08/16/the-latest-adviser-says-biden-stands-by-us-withdrawal/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/08/16/the-latest-adviser-says-biden-stands-by-us-withdrawal/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 75
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2021/08/APTOPIX_Afghanistan_94956-2.jpg?w=1024&#038;h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Taliban's Afghanistan advance tests Biden's 'America is back' foreign policy promise"
     excerpt: "As the Taliban routs Afghan forces at lightning speed, the U.S. retreat from the country raises questions about Biden's \"America is back\" foreign policy."
     publishedDateTime: 2021-08-15T17:44:00Z
@@ -312,6 +328,6 @@ related:
       domain: usnews.com
     quality: 31
 
-secured: "B5NTG/+ZzsGABMuUbDwVbmkCM+1T45NNoFXQCMf3yHkdRncNS3AD4GOUm4BlbH/rtIWiBDv4k3M42PgmGHZZT6WCFJnYBGp/+SPmC0lmvOCW6npsPXgQsEHxul56hlqdKbWAuam9d8wkkK0u+T/WB+bqdgx8zJ9jUmNpQqQGpZwAIRwEXerFwjDrpvCi1fc+9G8jHQ1igJHpcU4XRKOAghwxD8NgAXmPztWymjRY5B5ocTdv/VzSGTVsiTMqSz2BiMYpfz7ywFsOInAVvCv05Lb4EbyXskMEMtLujGGNDOu2xZg8er7Wc9VvzPtFxBngkDzo17V5sc3tfiBT5S3RLbd2/qPU2k+OA3IBpSZcEsE=;kkLj8+kREgVwf61pNF7K0A=="
+secured: "XSsYb3RZIuW8ETbeib6/ZCvDvbGvOhWejKzf5bBvOsr9Rb72i8IiX3LZ/QDpbFb0ebmTiCERm7x+x4ypD1TOrTt6X1/uSOa13cBpWe9BW6ASh2uyq4JIwPrhzw3HSlfHoVH7dannLL9xGfHAp/Er6aog5/aJc01s6QEpcNUsYBblSAm/Dow9/h+8cmAHy4n/KzfzBHZpF0Y5PsTRXBe43IttqABGWUejjmoe2wpDmwGg+8IhYqNCcSfQg5cHjKbcPt1MO9wROXbSEIgbqtnNtxCxSv9HPmQ2BB2AHf5aQiOk0BMQoMnYcV7C+tUQT0eHUoZl8wBbQ7+num7Jl6yX3wbLgY4ExKZeffA1aE8yxSNYCb2ZhZuXhIfn3S73WuokRfaniWRD56a4AR5Q4qxgyAxi4hV/HkILHs9fltQ1t0pgFK+JKS6R7RiExUvsLp/ueg9A1vqv4mDxvEraUgHLKuKZYW3Ayce1JSEFJ4mY2PrTwEyf9yhJ6gT8xazs1QrFY7qGWAZbywFsBiousPDkPQ==;eaS5yfnVMytCMHL1t3SV8w=="
 ---
 

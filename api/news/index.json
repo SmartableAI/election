@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-16-trump-ally-in-georgia-running-for-lieutenant-governor-vows-to-expose-all-voter-fraud.md",
+      "title": "Trump ally in Georgia running for lieutenant governor vows to 'expose all voter fraud'",
+      "excerpt": "A state senator in Georgia who’s a strong supporter of former President Trump is vowing to \"investigate and expose all voter fraud\" as he runs next year for lieutenant governor.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z1KXyAFdmwc/trump-ally-georgia-lieutenant-governor-voter-fraud",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z1KXyAFdmwc/trump-ally-georgia-lieutenant-governor-voter-fraud",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-ally-georgia-lieutenant-governor-voter-fraud.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-ally-georgia-lieutenant-governor-voter-fraud.amp",
+      "publishedDateTime": "2021-08-16T04:02:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-16-president-biden-vp-harris-avoid-the-cameras-as-kabul-falls-to-taliban.md",
       "title": "President Biden, VP Harris avoid the cameras as Kabul falls to Taliban",
       "excerpt": "President Joe Biden and Vice President Kamala Harris have avoided going on camera as Kabul, the capital city of Afghanistan, fell to the Taliban on Sunday.",
@@ -1254,62 +1310,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-biden-said-in-july-taliban-overrunning-everything-was-highly-unlikely.md",
-      "title": "Biden said in July Taliban 'overrunning everything' was 'highly unlikely'",
-      "excerpt": "The Washington Post’s resident fact-checker dinged President Joe Biden on Thursday for claiming that it is “highly unlikely” the Taliban regains control of Afghanistan.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2BRsqAUCqhs/wapo-fact-checker-calls-out-biden-on-for-july-comment-saying-taliban-takeover-in-afghanistan-highly-unlikely",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2BRsqAUCqhs/wapo-fact-checker-calls-out-biden-on-for-july-comment-saying-taliban-takeover-in-afghanistan-highly-unlikely",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/554dc1ff-8f47-4c8c-b30c-e8f4e2e73a49/369a7538-7180-415c-848f-7ed1c3aa223b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/wapo-fact-checker-calls-out-biden-on-for-july-comment-saying-taliban-takeover-in-afghanistan-highly-unlikely.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wapo-fact-checker-calls-out-biden-on-for-july-comment-saying-taliban-takeover-in-afghanistan-highly-unlikely.amp",
-      "publishedDateTime": "2021-08-12T16:10:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],
