@@ -143,6 +143,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Joe Biden’s credibility has been shredded in Afghanistan"
+    excerpt: "Since it is Joe Biden in the White House there is instead, largely, an embarrassed silence. It is true that Trump set the US on the path out of Afghanistan and began the delusional peace talks with the Taliban that have gone nowhere."
+    publishedDateTime: 2021-08-13T11:03:00Z
+    webUrl: "https://www.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
+    ampWebUrl: "https://amp.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 125
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F59ee2303-20bc-436e-af84-5c0b95f486a1.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Critics round on Joe Biden as US pulls out of Afghanistan"
     excerpt: "Joe Biden campaigned on a promise to end America’s longest war, but his presidency risks being remembered instead for presiding over the violent overthrow of Afghanistan’s government by the Taliban. Republicans have sought to capitalise on what is emerging as the biggest setback of Biden’s presidency with an eye on elections next year in which control of Congress is at stake."
     publishedDateTime: 2021-08-14T10:00:00Z
@@ -508,15 +524,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 90
-  - title: "Joe Biden’s credibility has been shredded in Afghanistan"
-    excerpt: "Since it is Joe Biden in the White House there is instead, largely, an embarrassed silence. It is true that Trump set the US on the path out of Afghanistan and began the delusional peace talks with the Taliban that have gone nowhere."
-    publishedDateTime: 2021-08-13T11:03:00Z
-    webUrl: "https://www.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2?sharetype=gift?token=9a0f6249-c77d-49d9-9e40-5d60a284c26c"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 85
   - title: "President Biden says US war in Afghanistan will end August 31"
     excerpt: "President Joe Biden on Thursday said the U.S. military mission in Afghanistan will conclude on Aug. 31, saying “speed is safety” as the United States seeks to end the nearly 20-year war."
     publishedDateTime: 2021-07-08T19:27:00Z

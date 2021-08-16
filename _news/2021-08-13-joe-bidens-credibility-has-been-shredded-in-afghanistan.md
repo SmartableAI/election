@@ -3,10 +3,12 @@ category: news
 title: "Joe Biden’s credibility has been shredded in Afghanistan"
 excerpt: "Since it is Joe Biden in the White House there is instead, largely, an embarrassed silence. It is true that Trump set the US on the path out of Afghanistan and began the delusional peace talks with the Taliban that have gone nowhere."
 publishedDateTime: 2021-08-13T11:03:00Z
-originalUrl: "https://www.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2?sharetype=gift?token=9a0f6249-c77d-49d9-9e40-5d60a284c26c"
-webUrl: "https://www.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2?sharetype=gift?token=9a0f6249-c77d-49d9-9e40-5d60a284c26c"
+originalUrl: "https://www.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
+webUrl: "https://www.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
+ampWebUrl: "https://amp.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
+cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
 type: article
-quality: 85
+quality: 125
 heat: -1
 published: false
 
@@ -21,6 +23,12 @@ provider:
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F59ee2303-20bc-436e-af84-5c0b95f486a1.jpg?source=google-amp&fit=scale-down&width=500"
+    width: 500
+    height: 281
+    isCached: true
 
 related:
   - title: "Biden to pull U.S. troops from Afghanistan by Sept. 11, sources say"
@@ -707,6 +715,6 @@ related:
       domain: bnd.com
     quality: 55
 
-secured: "MshW3O9EumMrfqOr0E0zJtlPd/OLo9hhPxb2EfreTJBtA9388CDESkkjigczHhA9zeQxh1qGiWjPPbmHSG1RVx7bkghBbgBzSIL+IMT3XOb9IPTyBmQeJfuAnE+QISsA1/+7cdek/bnQmzMKNko2wFa71ZQ6rnM4TQ0AWzuET/A6gtaXRUdViZ5wnTF9emCACUWO31qAmt1slPUvLTpmU7YO88EGYdtp3B/BLVfnc6C3bnM+2v0k834jED1oGgY817tyX7BgdU5AqrGRR+oSjk0OdTugDTSoOYig0ikt+qbeTZV07Ornb3E0JPR9NyDovofngNS/b493n2MtfbDSRuuHv5yLchojYpq5rChBBMIvyXAgCHkcS6hUZff6ry35uE8kYsMKcrB3xXKBexZDH9kuCrxhetwnfCtGi3Sm14HRaWATAwWfSjFcR8OPzmQtuJ8GjiZGG4aZchAnFD4FB3nkMm0ZjO5a25/Dibhi/myeGk9lk8Ob+FqwUsVwpYRDr9YFgGbY2foyPOjkLOkV/w==;TiMkAhfvcv2TrrpSAieMFg=="
+secured: "hF02gX1y7WKoRXtAo7sHs+vo7MJyQoDlkIYR6V2L0GOiJSCqz6ZCWaraq2aG7l4+zu46ihQJcElR1/5spuNg0lX2LGzo/w5gWGWLzzUoeGJ8iHkg2t95OP9BZbW0rAYwlnPJAkNf92BDlD/vE+9Ks9WrVSTbJHCRuc+nvs42CkFvPwimZtGvVlmYEzwLxIlNy2FYgtVDdGXlZnTIWZlZaZMOKTzI77+vhB8g9gaVoPvlX/14/XdBIKY7J+P5+9v//e2hXAWph5Wgq5vOY9Y0YOV05TAsmX/UHbfoKxJMEqWl+1STHmw7dddQUPW8CWCtEz79sdiA1lfsRortB/qi9iUTGXbaCG8SgLrVbRqOFic=;O5eIspCvvrRYPgxj3X5/FQ=="
 ---
 
