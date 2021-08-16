@@ -514,6 +514,20 @@ related:
       name: The Journal News
       domain: lohud.com
     quality: 32
+  - title: "President Joe Biden Issues a Proclamation on National Employer Support of the Guard and Reserve Week, from August 15th through the 21st of 2021"
+    excerpt: "President Joe Biden Issues a Proclamation on National Employer Support of the Guard and Reserve Week, from August 15th through the 21st of 2021"
+    publishedDateTime: 2021-08-16T12:56:00Z
+    webUrl: "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/32246-president-joe-biden-issues-a-proclamation-on-national-employer-support-of-the-guard-and-reserve-week-from-august-15th-through-the-21st-of-2021?tmpl=component"
+    type: article
+    provider:
+      name: Sierra Sun Times
+      domain: goldrushcam.com
+    quality: 19
+    images:
+      - url: "https://goldrushcam.com/sierrasuntimes/images/2020/white-house-gov.jpg"
+        width: 679
+        height: 357
+        isCached: true
 
 secured: "dayK6+toqLZYrEpgBz4wE/TKRqvMjY37saUH7XwCGzd+NdMVw5Yp9eDkw+EAytF0ZJucSYJ6k2By2Y6iwGRvdXvBsluUTj7E/uqZpIoIS7qRg8H/bQtKwy2i7bWNNC26nFct5uTzL59JHmVEuDaiVK50txYUpB1D9BC/tBiQAvYEjVmp3/4U7Gs2b9BAup4G1KH9NbsuUQKOag9HVKoXEO4+KMUb9PzRAaC+7cwOrQ5AsStfU6IX3Wts1CYbXdrMi2xMejIYi8j4GgDf0mHPs78hv0TAWYzPSQIvD0Fl7Wr+XtR+/asB9NSP1yoQti+ukDgQiTlwXLK5uNFMwMvV3ZS/D73jN0nNNhx/cNPkbFELWk6wQeIeYc8twJ7RYwDU8xqmtqRDMHRF6p8YfGiuGeiJpSDazpM/brwblH8k+grrrfGrj+QJcMmdtPUrd51Iojl8Err819tduQfhcZmb17CvFrhUh54cHKnShfjPhfzJx3CEpitAxRIfb8qrZOdeGugLT1k8jzYQClC+d3uW+g==;ok1uSsOZdEEmgCj5QxtyKw=="
 ---

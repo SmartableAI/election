@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pompeo-biden-admin-failed-in-afghan
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-biden-admin-failed-in-afghanistan-taliban-takeover.amp"
 type: article
 quality: 182
-heat: 402
+heat: 422
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c505be5b-7fe5-4a10-b256-fbc6b1e6a2f1/272c5604-5105-47e9-88ac-0be2cd6b1b4d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Top Biden official admits fall of Afghanistan 'unfolded at unexpected speed'"
+    excerpt: "White House National Security Adviser Jake Sullivan on Monday said the security situation in Afghanistan “unfolded at unexpected speed,” while maintaining that President Biden stands by his decision to withdraw U.S. troops."
+    publishedDateTime: 2021-08-16T13:18:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UGmU5z_MA4Y/biden-official-afghanistan-fell-unexpected-speed"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-official-afghanistan-fell-unexpected-speed.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-official-afghanistan-fell-unexpected-speed.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "McCarthy slams Biden's Afghanistan withdrawal as 'embarrassment to our nation'"
     excerpt: "House Minority Leader Kevin McCarthy, R-Calif., slammed President Biden's \"complete mismanagement\" of the withdrawal of troops from Afghanistan and called for the U.S. military to continue to provide \"close air support\" to combat the surging Taliban forces. "

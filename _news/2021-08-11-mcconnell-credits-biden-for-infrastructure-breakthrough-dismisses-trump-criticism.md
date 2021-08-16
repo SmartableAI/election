@@ -128,6 +128,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Top Biden official admits fall of Afghanistan 'unfolded at unexpected speed'"
+    excerpt: "White House National Security Adviser Jake Sullivan on Monday said the security situation in Afghanistan “unfolded at unexpected speed,” while maintaining that President Biden stands by his decision to withdraw U.S. troops."
+    publishedDateTime: 2021-08-16T13:18:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UGmU5z_MA4Y/biden-official-afghanistan-fell-unexpected-speed"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-official-afghanistan-fell-unexpected-speed.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-official-afghanistan-fell-unexpected-speed.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "McCarthy slams Biden's Afghanistan withdrawal as 'embarrassment to our nation'"
     excerpt: "House Minority Leader Kevin McCarthy, R-Calif., slammed President Biden's \"complete mismanagement\" of the withdrawal of troops from Afghanistan and called for the U.S. military to continue to provide \"close air support\" to combat the surging Taliban forces. "
     publishedDateTime: 2021-08-14T18:13:18Z

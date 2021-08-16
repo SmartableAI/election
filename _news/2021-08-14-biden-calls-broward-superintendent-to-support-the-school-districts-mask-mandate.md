@@ -59,6 +59,22 @@ related:
         width: 320
         height: 214
         isCached: true
+  - title: "Joe Biden does a Barack Obama and flees accountability"
+    excerpt: "Rome burns as Nero fiddles. Afghanistan churns as President Biden vacations. But what to expect from a man who campaigned for the highest office in the land from the safety and security of his man-cav"
+    publishedDateTime: 2021-08-16T12:51:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/aug/16/joe-biden-does-barack-obama-and-flees-accountabili/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/16/joe-biden-does-barack-obama-and-flees-accountabili/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/16/joe-biden-does-barack-obama-and-flees-accountabili/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/08/13/Biden_25722.jpg-846a3_c0-142-3401-2125_s1200x700.jpg?fcd4bdd22a52f7b00fdd30ce74f59719c12c6c6a"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "k3o4lCDdnOqOZilAxvm+P3HqwpA+BBS96lMrCzvnwHSFvzRreC+BVT+TLkj9+ErdqtAsAKmapXZkVKYQmrz5JIsRhJ79z1q2IPji76gcByklq2Zrb7lLfgcBDoF0c2DzIhIsbhDwahfFskonAnekrhczSIKJLn89iFHji3kEsbe0Z33U+Rur0tWwjw+LrvFyG5GEAhFYalCsLGDzrMSX5gwr5prLm0u4dLPb1pZo+vFH1wO266j5GvCww98ud6rq2y+/cz6MYWcbNgU1apbmzkEpDKJJaoapGF9vff/aEYqSX7yocvToi+RDqvpypUU6X/BLYHlW5VHYoJHwvknrm0ycdLlwaJqDA18QCwPt0sQ=;87RVDYZUydOq5hqoPEL0rw=="
 ---

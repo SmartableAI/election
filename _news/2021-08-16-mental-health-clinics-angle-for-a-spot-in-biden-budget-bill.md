@@ -314,6 +314,17 @@ related:
       name: The Bellingham Herald
       domain: bellinghamherald.com
     quality: 55
+  - title: "The Latest: Taliban takeover stuns Biden, other US officials"
+    excerpt: "President Joe Biden and other top U.S. officials have been stunned by the Taliban’s nearly complete takeover of Afghanistan as the planned withdrawal of American forces urgently became a mission to ensure a safe evacuation."
+    publishedDateTime: 2021-08-16T13:55:00Z
+    webUrl: "https://www.kentucky.com/news/business/article253505194.html"
+    ampWebUrl: "https://amp.kentucky.com/news/business/article253505194.html"
+    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/article253505194.html"
+    type: article
+    provider:
+      name: Lexington Herald Leader
+      domain: kentucky.com
+    quality: 55
   - title: "Biden Says He Does Not Believe He Can Intervene in States Banning Mask Mandates"
     excerpt: "President Joe Biden said on Tuesday that he did not believe he had the power to intervene in U.S. states that have banned mask mandates but said his administration was looking into the issue. \"I don't believe that I do,"
     publishedDateTime: 2021-08-10T19:49:00Z

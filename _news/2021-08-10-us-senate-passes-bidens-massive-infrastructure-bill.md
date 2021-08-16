@@ -510,6 +510,20 @@ related:
       name: The Journal News
       domain: lohud.com
     quality: 32
+  - title: "President Joe Biden Issues a Proclamation on National Employer Support of the Guard and Reserve Week, from August 15th through the 21st of 2021"
+    excerpt: "President Joe Biden Issues a Proclamation on National Employer Support of the Guard and Reserve Week, from August 15th through the 21st of 2021"
+    publishedDateTime: 2021-08-16T12:56:00Z
+    webUrl: "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/32246-president-joe-biden-issues-a-proclamation-on-national-employer-support-of-the-guard-and-reserve-week-from-august-15th-through-the-21st-of-2021?tmpl=component"
+    type: article
+    provider:
+      name: Sierra Sun Times
+      domain: goldrushcam.com
+    quality: 19
+    images:
+      - url: "https://goldrushcam.com/sierrasuntimes/images/2020/white-house-gov.jpg"
+        width: 679
+        height: 357
+        isCached: true
   - title: "Evictions win is latest example of House progressives' influence on Biden. That may affect the infrastructure bill"
     excerpt: "Progressive lawmakers, emboldened by a win on extending a federal eviction moratorium, are turning their attention to other aims."
     publishedDateTime: 2021-08-10T11:29:00Z

@@ -326,6 +326,17 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "The Latest: Taliban takeover stuns Biden, other US officials"
+    excerpt: "President Joe Biden and other top U.S. officials have been stunned by the Taliban’s nearly complete takeover of Afghanistan as the planned withdrawal of American forces urgently became a mission to ensure a safe evacuation."
+    publishedDateTime: 2021-08-16T13:55:00Z
+    webUrl: "https://www.kentucky.com/news/business/article253505194.html"
+    ampWebUrl: "https://amp.kentucky.com/news/business/article253505194.html"
+    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/article253505194.html"
+    type: article
+    provider:
+      name: Lexington Herald Leader
+      domain: kentucky.com
+    quality: 55
 
 secured: "FR79J5xt9xW98YAxq/rRdIgSLHqPLKuX6IJ8gvmrR0gQaGnwDFN2GhnIV9WoVND0GICL2H0y9HFmwIJgRg3zgPtGnFg07Bh6c4+3lulaVTThvFwptjbVFOImsZA7TswmOnTHbSMtR7568Eo5E7OSsW+r2wB4BEStSh12OLGJTaYRsb1InPAPuQmqpTAtdqif31uRIVw0wi4HmvHsEpnNPXhZYmjLXoNmC3Tbv0EQOj5PfF7OGWxoRtLIBkJjtnO8qHFSHe/DaqhEffeNzSg/cu6zNIu6XfGBtfkRPprJ6Z04Z+ntnJCwR4ITtZrgLJFihja12z1FS76Hy1HltYVJzTW+pOWO+tLCEx48SsZQ/1hCIq3nE+X+DpMnXqsK3f3Mysi3C6JWRyBgGT0wutlvMSo5O2kNxfEvB18Crqq3v6bgDGViVs9uTj7kSD2hMfI51X/dJKm0iIooG4ycTHAFzKQYjTbRCS+g88J6RGtMs3JxqR6jhN2MljwOrpnbgVzfPIJawpqN5Xb4nwrAPfiDWQ==;b2D5HOHEnvJiS0RaX8gXSw=="
 ---
