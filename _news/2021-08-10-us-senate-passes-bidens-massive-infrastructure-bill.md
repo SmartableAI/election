@@ -77,6 +77,20 @@ related:
         width: 3431
         height: 2282
         isCached: true
+  - title: "Biden says the ‘buck stops with me’ — while pinning blame on Trump and lots of Afghans"
+    excerpt: "I am president of the United States of America, and the buck stops with me,” President Biden said toward the end of his address Monday on the debacle in Afghanistan. The vast majority of what Biden said before then,"
+    publishedDateTime: 2021-08-16T20:51:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/08/16/biden-says-buck-stops-with-me-while-pinning-blame-trump-lots-afghans/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/08-16-2021/t_e02cad664df847728848b52c02d70928_name_1c28bc70_fecf_11eb_87e0_7e07bd9ce270_scaled.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Texas Rep. Dan Crenshaw told supporters Trump lost to Biden. The Republican was heckled and called a RINO."
     excerpt: "A fellow Republican heckled Rep. Dan Crenshaw after the Texas congressman said former president Donald Trump lost the 2020 election."
     publishedDateTime: 2021-08-13T08:09:00Z

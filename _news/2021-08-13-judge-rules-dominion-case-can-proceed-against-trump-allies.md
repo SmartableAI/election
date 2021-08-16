@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Ex-Michigan congressman who quit GOP over Trump claim dies"
+    excerpt: "A former Michigan congressman who quit the Republican Party to protest GOP efforts to overturn Joe Biden’s victory over Donald Trump has died. Paul Mitchell died Sunday, according to a statement his family provided to CNN."
+    publishedDateTime: 2021-08-16T20:54:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/Ex-Michigan-congressman-who-quit-GOP-over-Trump-16390391.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Ex-Michigan-congressman-who-quit-GOP-over-Trump-16390391.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Ex-Michigan-congressman-who-quit-GOP-over-Trump-16390391.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 125
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/36/51/21359203/3/400x0.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "House Can Have Access to Some of Donald Trump's Financial Records, Judge Rules"
     excerpt: "U.S. District Judge Amit Mehta's ruling cited separation of power concerns, but the House was entitled to some financial records from 2017 and 2018."
     publishedDateTime: 2021-08-11T21:04:00Z

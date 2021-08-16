@@ -73,6 +73,20 @@ related:
         width: 3431
         height: 2282
         isCached: true
+  - title: "Biden says the ‘buck stops with me’ — while pinning blame on Trump and lots of Afghans"
+    excerpt: "I am president of the United States of America, and the buck stops with me,” President Biden said toward the end of his address Monday on the debacle in Afghanistan. The vast majority of what Biden said before then,"
+    publishedDateTime: 2021-08-16T20:51:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/08/16/biden-says-buck-stops-with-me-while-pinning-blame-trump-lots-afghans/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/08-16-2021/t_e02cad664df847728848b52c02d70928_name_1c28bc70_fecf_11eb_87e0_7e07bd9ce270_scaled.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Texas Rep. Dan Crenshaw told supporters Trump lost to Biden. The Republican was heckled and called a RINO."
     excerpt: "A fellow Republican heckled Rep. Dan Crenshaw after the Texas congressman said former president Donald Trump lost the 2020 election."
     publishedDateTime: 2021-08-13T08:09:00Z
@@ -560,6 +574,6 @@ related:
       domain: cincinnati.com
     quality: 13
 
-secured: "Sm17euw6OCzHfjq6XRys+rD9cOP8ckjF2Zb58Ieu11r6pezWFV7xHtqy1YS4DqqCTGMjG91AYShL2XP54P2jlq5ZfSYYoKjMbXDDszFSd9wPU6AsqJdIn6HVmnjKbmC7nX/M9inQVGuK+OVj8ojYZj4v/aGqa7eYztsWRaIXAi17eCTQGzijEruNJ0+Tnx9F/uyuMxRQElacGHnrAlf375v2pqM3MsA13Tr/en8QadnFQTfjBXiizC+3uhjS3Q/HR5wjdVe+EFy08+JKVh6L8tcjDbJTrzykTG9YwU/WV7r3RVZX7kAVo0cdG9BeG0VtX7JSpAnpnrCYnzH0sTndh8K1BtgaJCJVbHr0UgEM2GY=;zYT+eSPHJIdsONHXzWXUnw=="
+secured: "HgXfNZ9FUHz+WsC/jW9L/2N8/S4qbFYFYJkz26RkOmPYSw44HeC+PMbPgGVcyGHbPCZtY5VJKPdgjsl1o9CBffl3SJanQ3o2G11v78qywDdblGwELhas5Hakld/OzLHkK53J1qEFXzlWBgwpxoJwTgsZe1SAZTJks3Up+1EyC9wimRjvWE7CdeYowlw1Mz2T+o2CeOMUSx3xofXc4pw5J4FL2TxZEwEK+AdG1+fNhNFIqUSWOy4Gz11638uCu2tC8EeGtUWv7xuSI37IQ5DWQ6YfliUcpsSfr8biq3SK1mZcKXyt/e/LU41ojUZpFTOMlzPSntNlXnYHFCOEb2Ttqxv6xVl0/2K0XSXlUFV6UbPo8Q6OrZyrZ2Cp9FRYXwrmPLe5dHXq1F7tq9n5DRY9dlxyebfEpbc1v92K3P70Jc417Brs+7bNwlGVd7croPAgfZsggaO3pcnp59h0Z7IN8fhYnHtHAtKtO8Z0n64S8GCKWNz9pV2s2D9GOgLOpk2Ee2C7DPaNmKeWFWDIt4YToQ==;SXAd5AKJLjWe/2icI7uxaA=="
 ---
 
