@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris Utterly Flubbing Her Job as Veep"
 excerpt: "Kamala Harris isn't very good at this. The vice president has never won an election on her own outside of the hothouse of California politics, and it shows. On paper, she was a strong"
 publishedDateTime: 2021-08-09T11:33:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/08/09/kamala_harris_utterly_flubbing_her_job_as_veep_549009.html"
-webUrl: "https://www.realclearpolitics.com/2021/08/09/kamala_harris_utterly_flubbing_her_job_as_veep_549009.html"
+originalUrl: "https://www.realclearpolitics.com/2021/08/09/kamala_harris_utterly_flubbing_her_job_as_veep_549009.html#!"
+webUrl: "https://www.realclearpolitics.com/2021/08/09/kamala_harris_utterly_flubbing_her_job_as_veep_549009.html#!"
 type: article
 quality: 65
 heat: -1
@@ -71,6 +71,22 @@ related:
     quality: 190
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cec80a1-b696-4f84-98d7-a096e98659e3/1c756d90-99fa-4394-8aac-ef9932071362/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "White House walks back Biden's failed predictions about Afghanistan withdrawal"
+    excerpt: "According to the White House’s list of talking points for allies defending President Biden’s handling of Afghanistan, the administration knew there was a \"distinct\" possibility that the capital of Kabul would fall to Taliban insurgents."
+    publishedDateTime: 2021-08-16T19:16:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OMyMpTKRT3Q/white-house-biden-afghanistan-predictions"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-biden-afghanistan-predictions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-biden-afghanistan-predictions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/19e4cb37-99df-4e47-a256-3dce8df3211a/fe775d2d-4eff-4e97-a5e2-45e080a7f071/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -364,6 +380,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "WpA29pLPBnPhPolqclauY+l3RrdKle3fzu/zJzPTq7uGOkcDrz01hmgJLiRKeRs60PfF4Yph3Klbzeclc4eN7fgOw7jrmvpFHHfUtGZzZ6LeludB2+IskV/fTuJU7/ibjtSQfgcUrdCFFE5f2TORGRZZO5fmVepn40jDd9IQDA6QXOGr3fTB32/LpNRFtYkslC8KG6p12V2abz+NlBp8eampVx6/i86oV2opa6VQpROpzGs2zrPs5ZvFznbbFZHIbppWRKwhNgqDyXAvTKb74sX60+pt+vyElAFiWd8RhXF6DuhSKW84FnNi6grIcVuoWS2l+UEwlOHTa8NaqUaDLugCkAw3qhhDjVUtgCAoKZw=;OFX1IZ05SiMchRMX2LRdWg=="
+secured: "o6GzfzRmsjy/3F+hyBnO/99i4eY3En4KHl3wL3KBmTYhvVpzCIcb7hCZG2r1+0iYk0fzvmpTqrwdN1mxg3fU/NGVjkothfQwog9+RE5v7j9IlQ6tVvOjZ9VGGfdTDRzqtKNh+65V0A9HWiP58+KE3eRSF10Ec16Brm9bB0aw3ucxuY/Ytw+4esPCLzdNXerrX/x7OFF0YIw2SfXHSl8S/gs5qgGJjdBb9EGFs30ggUQ5wMHSDpYfwBg1gvoOYLqKEbKa89Ryciy9pNrtXjKsqiX56pt5bIQczKpbmdguMRYlMjMlSUFRRQqAgvBnz0rvu+7SO/sdrgW+qJSz/w7ZYGDG0hhEDw+lVQiG80liAvg=;FmjYGDuXQACTZ9zGP6N/Lw=="
 ---
 

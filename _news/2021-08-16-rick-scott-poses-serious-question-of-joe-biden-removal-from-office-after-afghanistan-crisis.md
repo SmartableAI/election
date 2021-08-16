@@ -339,6 +339,20 @@ related:
       name: Lexington Herald Leader
       domain: kentucky.com
     quality: 55
+  - title: "Susan Collins hits Joe Biden for Afghanistan ‘chaos’ with Maine delegation split over exit"
+    excerpt: "As the Taliban consolidates its sweeping control over Afghanistan, the opportunity exists for the country to once again become a safe haven for Islamist terrorist groups targeting our country,” Collins said."
+    publishedDateTime: 2021-08-16T19:34:00Z
+    webUrl: "https://bangordailynews.com/2021/08/16/politics/susan-collins-hits-joe-biden-for-afghanistan-chaos-with-maine-delegation-split-over-exit/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 45
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/Virus-Outbreak-Congress-1-1.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Biden Says He Does Not Believe He Can Intervene in States Banning Mask Mandates"
     excerpt: "President Joe Biden said on Tuesday that he did not believe he had the power to intervene in U.S. states that have banned mask mandates but said his administration was looking into the issue. \"I don't believe that I do,"
     publishedDateTime: 2021-08-10T19:49:00Z

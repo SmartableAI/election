@@ -325,6 +325,20 @@ related:
       name: Lexington Herald Leader
       domain: kentucky.com
     quality: 55
+  - title: "Susan Collins hits Joe Biden for Afghanistan ‘chaos’ with Maine delegation split over exit"
+    excerpt: "As the Taliban consolidates its sweeping control over Afghanistan, the opportunity exists for the country to once again become a safe haven for Islamist terrorist groups targeting our country,” Collins said."
+    publishedDateTime: 2021-08-16T19:34:00Z
+    webUrl: "https://bangordailynews.com/2021/08/16/politics/susan-collins-hits-joe-biden-for-afghanistan-chaos-with-maine-delegation-split-over-exit/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 45
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/Virus-Outbreak-Congress-1-1.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Rick Scott poses ‘serious question’ of Joe Biden removal from office after Afghanistan crisis"
     excerpt: "Biden plans to address the American people later Monday. But for Scott, the President’s words are too little too late, as he calls for Biden to leave the White House. “After the disastrous events in Afghanistan,"
     publishedDateTime: 2021-08-16T16:27:00Z
@@ -349,6 +363,6 @@ related:
       domain: usnews.com
     quality: 31
 
-secured: "4sYkeUIy0NZ+LCb2y1nDO3Fl4TsP1vTc41AjVuEs0ydL9IkcjNqRnCDsg/9YMasZjZaxoiIUpJ0Hr3OtZJEj79mU0u9FOHBswh+zI4CSRyjvS1ZSVPGvOqEc5nFhqjwEwGUOAVW+tkVRpKOTDEQ8VZvomNJ33Z/i5gvs1kSB9HM8ixhaE50899Q/mXRdPEe6JpjSeev/w50Vpff6KDsDIaVVHkMpPXe3P8tp6a8Fo7VLsrXmVbGGIIzKeNlZCUxLALcRZ3Pxf4OJ9+ZCYK7QQe88J7noCrOc243Eo4HFBUiZQlGV2IU64fq+HFMGgLKu6f1EdOIiR/uhhqrmJckOxlMFWoy8wI2IW9SpArEW698=;smwmr6cMufNHXVnuY4byUA=="
+secured: "GY4j2zV5MTwPFvFSI/g8apwYXJ5HFvRQ2oB+Uz91IvQaQdV2SDVpGe7ZEpPYSciaxie5ssu65moOV6UNMS4nBwICvMwUYFmYNqeMEXoGReMh4/XyU8ZsMaEjYP3KVck9upDIwFV33+OKkFndVAQkgGNnrU/Zz3lPwb1Ljf/U7hq0P3Fff+mP5y4v06vPHFl7D8p3itWr2DIk8iF9gchGtUsS8R9arYXn/5tFSucdW0DIBKIIe6xdVM27I0i3sRL0BuC5gd6icUV8TyNy+YBfbTCpcWur+XhWLYaVHb5NULHXpLz9SwofOYOcSdGdGF8g325bO13FqtiAKXCrzDvVMHu6Wx6/Qzo3fx7OfGyxM7EOYduLqOqTqsb/74bOOGc04R0a6fCAccv00lEU8+hcQzLZSmNejncuWOOPpAjdVtytR1ym3IhO+47fvMSC84t6WAzMAVp4+thWroq4e1XbSjfNwGcleYojAAc4lTJiduE2/VcwLODJpubVL4IYOu5czZSyLk9hQR87oIxLeFd7Cw==;2PbrpCE3RJ0FTH6MR2m9sQ=="
 ---
 

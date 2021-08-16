@@ -74,6 +74,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "White House walks back Biden's failed predictions about Afghanistan withdrawal"
+    excerpt: "According to the White House’s list of talking points for allies defending President Biden’s handling of Afghanistan, the administration knew there was a \"distinct\" possibility that the capital of Kabul would fall to Taliban insurgents."
+    publishedDateTime: 2021-08-16T19:16:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OMyMpTKRT3Q/white-house-biden-afghanistan-predictions"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-biden-afghanistan-predictions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-biden-afghanistan-predictions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/19e4cb37-99df-4e47-a256-3dce8df3211a/fe775d2d-4eff-4e97-a5e2-45e080a7f071/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "McConnell pushes Biden to 'hammer' Taliban with airstrikes as Afghanistan spirals"
     excerpt: "Senate Minority Leader Mitch McConnell, R-Ky., pressed President Biden to order airstrikes against Taliban forces on Friday following what he described as an “urgent conversation” with Afghanistan’s ambassador to the United States, Adela Raz."
     publishedDateTime: 2021-08-13T23:23:15Z
@@ -315,7 +331,7 @@ related:
   - title: "Kamala Harris Utterly Flubbing Her Job as Veep"
     excerpt: "Kamala Harris isn't very good at this. The vice president has never won an election on her own outside of the hothouse of California politics, and it shows. On paper, she was a strong"
     publishedDateTime: 2021-08-09T11:33:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/08/09/kamala_harris_utterly_flubbing_her_job_as_veep_549009.html"
+    webUrl: "https://www.realclearpolitics.com/2021/08/09/kamala_harris_utterly_flubbing_her_job_as_veep_549009.html#!"
     type: article
     provider:
       name: RealClearPolitics

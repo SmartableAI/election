@@ -428,6 +428,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden to speak on Afghanistan this afternoon – live"
+    excerpt: "Blinken spoke today with Russian Foreign Minister Sergey Lavrov about developments in Afghanistan, including the security situation and our efforts to bring U.S. citizens and vulnerable Afghans to safety."
+    publishedDateTime: 2021-08-16T17:19:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live?page=with:block-611aaa7e8f08d30d155036a9"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/4bf99e9b33a417586b62ca6d94dbfe4d249bc0a6/0_39_2000_1201/master/2000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=d33c74c197e6d9907f33009bb6884d1c"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden says it's 'time to end America's longest war' as he reveals plans to bring US troops home from Afghanistan"
     excerpt: "Biden said he was the fourth president to preside over the Afghanistan conflict, adding: \"I will not pass this responsibility on to a fifth.\""
     publishedDateTime: 2021-04-14T21:28:00Z
@@ -796,6 +810,20 @@ related:
       name: BND
       domain: bnd.com
     quality: 55
+  - title: "WATCH LIVE: President Joe Biden Addresses The Nation Amid Afghanistan Collapse"
+    excerpt: "President Joe Biden is expected to address the nation on the U.S. evacuation from Afghanistan. Biden plans to speak to the nation Monday, April 16, 2021, at 1:45 p.m. MST. Colorado Public Radio will carry live coverage on the radio and online."
+    publishedDateTime: 2021-08-16T18:47:00Z
+    webUrl: "https://www.cpr.org/2021/08/16/watch-live-president-joe-biden-address-afghanistan/"
+    type: article
+    provider:
+      name: Colorado Public Radio
+      domain: cpr.org
+    quality: 51
+    images:
+      - url: "https://i2.wp.com/wp-cpr.s3.amazonaws.com/uploads/2021/08/AP21228642654210.jpg?resize=1200,600"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden to Marshal International Community on Rights in Afghanistan -Adviser"
     excerpt: "U.S. National Security Adviser Jake Sullivan on Monday said that President Joe Biden is prepared to marshal the international community on human rights in Afghanistan, where the Taliban is seizing power."
     publishedDateTime: 2021-08-16T11:47:00Z

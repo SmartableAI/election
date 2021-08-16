@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mlive.com/news/saginaw-bay-city/2021/06/michigan-man-get
 cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/saginaw-bay-city/2021/06/michigan-man-gets-prison-for-email-threat-to-trump-whistleblowers-attorney.html?outputType=amp"
 type: article
 quality: 73
-heat: 93
+heat: 113
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Congress weighs whistleblower safeguards after Trump saga"
+    excerpt: "The committee’s new intelligence authorization bill would enable spy agency whistleblowers to more easily communicate concerns straight to Congress."
+    publishedDateTime: 2021-08-16T19:24:00Z
+    webUrl: "https://bangordailynews.com/2021/08/16/national-politics/congress-weighs-whistleblower-safeguards-after-trump-saga/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/Federal-Agencies-Hacked-Courts-1.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "ZME8ifGsFbJgiyzs4yYGe3tFEXuNCIhqgt05Kxw0tWfri9KLreBRno/lh+eRYMzv7vJBi3ad1Yj0hTIbbH5JUNcz6NeNJbw89VapiP3qzeZ1vd0iPiIECCQRPQllsKv7VvIIIw1GtsCKmwsJh5LbrGmPvB5ESB8oku867HIHiz3BtJW7lAZ40tJZ44vCTaP3X5sn8bk5iXlVGFtJ49na3SrcCeSaGHXuaMmnVxqXwxGGBCi07HbwrB7mLj1JEwDDeeL8H4MeHPMkz7pxT28wSx0ujJKuFbpORWji+pRGVXRh/oz1isDepAHmsC8ep9S4AY2lAdtR31KzTPM4K6uqEZ5cF8cIl5yHrwvWgatfkkac45BFJndLNALQ/VexiVWLxiS71lbOgPuGglQsqXACQnEHF6gNMAsM7ws+f6uLE3RVAkWBN5E9yUAdhUX7udDQKigPt9ZaVaviFDmz1+fo3hx7Oqie3cFGYBJAAPkwwGDNr8vyqJGiDdqrj/t4JENNyfPEyDfMOB0TFAfJNuW4TA==;uEmH4o2Zze0ztgy47c+xng=="

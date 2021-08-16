@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Arrives at Fort McNair in DC"
 excerpt: "President Joe Biden arrives at Fort McNair in Washington, DC from Camp David on Monday, August 16, 2021. President Biden is expected to make remarks on the situation in Afghanistan later this afternoon."
 publishedDateTime: 2021-08-16T17:47:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/345466ca02bc57917abd3e926cddebfe/President-Joe-Biden-Arrives-at-Fort-McNair-in-DC/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/345466ca02bc57917abd3e926cddebfe/President-Joe-Biden-Arrives-at-Fort-McNair-in-DC/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/efbfdcaedaf2160ee05ec88b5aefb886/President-Joe-Biden-Arrives-at-Fort-McNair-in-DC/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/efbfdcaedaf2160ee05ec88b5aefb886/President-Joe-Biden-Arrives-at-Fort-McNair-in-DC/"
 type: article
 quality: 55
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/345466ca02bc57917abd3e926cddebfe/BIDEN-AFGHANISTAN.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/efbfdcaedaf2160ee05ec88b5aefb886/BIDEN-AFGHANISTAN.jpg"
     width: 650
-    height: 433
+    height: 975
     isCached: true
 
 related:
@@ -560,6 +560,6 @@ related:
       domain: cincinnati.com
     quality: 13
 
-secured: "oDtv7ybVBthn5i/FencNTnushu94FuovQxN9Ry7IBqxSUm7/yTzZBROsvl1MyNSMJx5Ep3OWd9TKq7vHCEfIVb2xMAAncNd6WtbtvirrVS2snU/2B2yOnR32NDbbNYMi0FBzG1UL3xfcQxHwMtvtRzEvC0XeP4uAY+alpPDw3KMGlbdU/zVH0xrGYHnCNnrVtpKr8WzmV2sK1gmvtDxuz4WhY5heqO7nkPm5nkamD0Y1wDvaJwdI6V6FBwsSyqVxH+j1WlGdXLJ6kfBLNaEijijClaONto3KGKor32UarA0W00mbHNs7rs0axljjvqAbucnN32KCV9DSplZfCgdhEL22fvsh13Wz08fUCwC5NlY=;S9cUXfC+ZUNHE4l94it/aA=="
+secured: "Sm17euw6OCzHfjq6XRys+rD9cOP8ckjF2Zb58Ieu11r6pezWFV7xHtqy1YS4DqqCTGMjG91AYShL2XP54P2jlq5ZfSYYoKjMbXDDszFSd9wPU6AsqJdIn6HVmnjKbmC7nX/M9inQVGuK+OVj8ojYZj4v/aGqa7eYztsWRaIXAi17eCTQGzijEruNJ0+Tnx9F/uyuMxRQElacGHnrAlf375v2pqM3MsA13Tr/en8QadnFQTfjBXiizC+3uhjS3Q/HR5wjdVe+EFy08+JKVh6L8tcjDbJTrzykTG9YwU/WV7r3RVZX7kAVo0cdG9BeG0VtX7JSpAnpnrCYnzH0sTndh8K1BtgaJCJVbHr0UgEM2GY=;zYT+eSPHJIdsONHXzWXUnw=="
 ---
 

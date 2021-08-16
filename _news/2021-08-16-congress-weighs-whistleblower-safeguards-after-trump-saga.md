@@ -41,6 +41,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Congress weighs whistleblower safeguards after Trump saga"
+    excerpt: "The committee’s new intelligence authorization bill would enable spy agency whistleblowers to more easily communicate concerns straight to Congress."
+    publishedDateTime: 2021-08-16T19:24:00Z
+    webUrl: "https://bangordailynews.com/2021/08/16/national-politics/congress-weighs-whistleblower-safeguards-after-trump-saga/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/Federal-Agencies-Hacked-Courts-1.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "3BfGyQrCGloHjR6tPRcEjd9Xdp47AZGrwUQoYBb8NFSFQykhpUfawqNLIWmHd4T48Y1a21Lb+HwJAPHbE1KF/vSDw++i0QhJq81AgfaORKIUw9G8s5cKjUcQu2Fs32iyd84vzqtaiUv+v7kFbRrT95IBuiXzLR7RdO4gqDHUfDC7b0LwPc84tZWomv192A9gRulhKmLKPkUARUUDPhNyJNqfzcrwbuhwCdT/0ie2VRbSWbcC4fW/eqz9xsO1VKICJaZsAz3Xa6LhL24vCCY/AAurFdZqobRCCcUmw3WHGgi5JZn5Ion/MO8BM8lI8Q4yn5FuLiL63xwJWZlh/BCOCC/YNpUIRwZyiriAFW119QQ=;9Sm5M2JfBnlTixPUn9wsVw=="
 ---
