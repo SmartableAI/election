@@ -63,6 +63,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "White House defends helicopter evacuation from US Embassy after Biden said it wouldn't happen"
+    excerpt: "The White House defended the helicopter evacuation from the U.S. Embassy in Kabul Monday after President Biden said last week there would be \"no circumstance\" in Afghanistan that would call for that method of removal for U.S. officials. "
+    publishedDateTime: 2021-08-16T17:17:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y2E7oN4wT3k/white-house-defends-helicopter-evacuation-us-embassy-biden-prediction"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-defends-helicopter-evacuation-us-embassy-biden-prediction.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-defends-helicopter-evacuation-us-embassy-biden-prediction.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "CNN anchor praises Biden adviser Anita Dunn as a 'bada--' trailblazer"
     excerpt: "CNN's Dana Bash called White House adviser Anita Dunn as a \"trailblazing\" and \"badass\" woman of Washington in her continuing Badass Women of Washington series."
     publishedDateTime: 2021-08-08T21:40:00Z

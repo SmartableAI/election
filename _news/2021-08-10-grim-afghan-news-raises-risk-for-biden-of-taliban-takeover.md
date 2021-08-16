@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/policy/defense/567049-grim-afghan-news-raises-ri
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/567049-grim-afghan-news-raises-risk-for-biden-of-taliban-takeover?amp"
 type: article
 quality: 125
-heat: 545
+heat: 585
 published: true
 
 provider:
@@ -173,6 +173,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Watch: President Joe Biden to speak Monday about Afghanistan after Taliban takeover"
+    excerpt: "President Joe Biden will address the world from the White House at 3:45 p.m. Monday after a day of chaos in Afghanistan, where Taliban leaders walked into the capital city of Kabul after a swift siege across the country and where American diplomats and thousands of civilians are scrambling to exit."
+    publishedDateTime: 2021-08-16T16:53:00Z
+    webUrl: "https://www.masslive.com/politics/2021/08/watch-president-joe-biden-to-speak-monday-about-afghanistan-after-taliban-takeover.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/08/watch-president-joe-biden-to-speak-monday-about-afghanistan-after-taliban-takeover.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/08/watch-president-joe-biden-to-speak-monday-about-afghanistan-after-taliban-takeover.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 69
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FBD33FF3BZGHDGB7PB74JCYFVU.jpg"
+        width: 5606
+        height: 3737
+        isCached: true
   - title: "Taliban's Afghanistan advance tests Biden's 'America is back' foreign policy promise"
     excerpt: "As the Taliban routs Afghan forces at lightning speed, the U.S. retreat from the country raises questions about Biden's \"America is back\" foreign policy."
     publishedDateTime: 2021-08-15T17:44:00Z
@@ -313,6 +329,20 @@ related:
       name: Lexington Herald Leader
       domain: kentucky.com
     quality: 55
+  - title: "Rick Scott poses ‘serious question’ of Joe Biden removal from office after Afghanistan crisis"
+    excerpt: "Biden plans to address the American people later Monday. But for Scott, the President’s words are too little too late, as he calls for Biden to leave the White House. “After the disastrous events in Afghanistan,"
+    publishedDateTime: 2021-08-16T16:27:00Z
+    webUrl: "https://floridapolitics.com/archives/450579-rick-scott-poses-serious-question-of-joe-biden-removal-from-office-after-afghanistan-crisis/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 44
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2018/08/Rick-Scott-Bill-Nelson-Florida-Senate-race-tests-value-of-campaign-cash.jpg"
+        width: 660
+        height: 330
+        isCached: true
   - title: "Biden Says He Does Not Believe He Can Intervene in States Banning Mask Mandates"
     excerpt: "President Joe Biden said on Tuesday that he did not believe he had the power to intervene in U.S. states that have banned mask mandates but said his administration was looking into the issue. \"I don't believe that I do,"
     publishedDateTime: 2021-08-10T19:49:00Z

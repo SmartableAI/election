@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pompeo-biden-admin-failed-in-afghan
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-biden-admin-failed-in-afghanistan-taliban-takeover.amp"
 type: article
 quality: 182
-heat: 442
+heat: 462
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5ea11597-34c5-4d7b-8aa8-0598d069a7e2/0e21a2d7-7861-47cc-8133-17278c5f44c5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Afghanistan collapse raises questions about Biden's foreign policy prowess"
+    excerpt: "The quick collapse of the Afghan government amid the lighting-fast Taliban takeover of Afghanistan calls into question President Biden's prowess when it comes to foreign policy."
+    publishedDateTime: 2021-08-16T16:59:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LefYVgjdH2U/afghanistan-collapse-biden-foreign-policy"
+    ampWebUrl: "https://www.foxnews.com/politics/afghanistan-collapse-biden-foreign-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/afghanistan-collapse-biden-foreign-policy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "McConnell calls on Biden to change course in Afghanistan before it's too late"
     excerpt: "McConnell urged President Joe Biden reverse course in Afghanistan as the security situation deteriorates"

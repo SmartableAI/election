@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/trump-reinstatement-day-latest-failure-pred
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152?amp=1"
 type: article
 quality: 140
-heat: 860
+heat: 880
 published: true
 
 provider:
@@ -494,6 +494,20 @@ related:
       - url: "https://images.newrepublic.com/6a48af4fc22862edb36978efa4bd6cd5eaa2f4c8.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg"
         width: 1109
         height: 577
+        isCached: true
+  - title: "President Joe Biden Arrives at Fort McNair in DC"
+    excerpt: "President Joe Biden arrives at Fort McNair in Washington, DC from Camp David on Monday, August 16, 2021. President Biden is expected to make remarks on the situation in Afghanistan later this afternoon."
+    publishedDateTime: 2021-08-16T17:47:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/345466ca02bc57917abd3e926cddebfe/President-Joe-Biden-Arrives-at-Fort-McNair-in-DC/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/345466ca02bc57917abd3e926cddebfe/BIDEN-AFGHANISTAN.jpg"
+        width: 650
+        height: 433
         isCached: true
   - title: "President Biden Tells U.S. Olympic Squad It 'Restored The Soul Of America'"
     excerpt: "The president praised Team USA athletes for their \"moral courage\" during a Zoom call on Saturday, with special shoutouts to gymnast Simone Biles and swimmer Katie Ledecky."

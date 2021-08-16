@@ -173,22 +173,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Joe Biden to speak on Afghanistan this afternoon – live"
-    excerpt: "Joe Biden will deliver remarks this afternoon on the situation in Afghanistan, the White House has just announced in an update to the president’s schedule for the day. According to the updated schedule,"
-    publishedDateTime: 2021-08-16T14:19:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/4bf99e9b33a417586b62ca6d94dbfe4d249bc0a6/0_39_2000_1201/master/2000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a1ddeaeaad0f377cbb2d4d97c4e0bbf3"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Biden to withdraw U.S. troops from Afghanistan by Sept. 11, officials say"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden has decided to withdraw the remaining U.S. troops from Afghanistan by Sept. 11, 2021, 20 years to the day after al Qaeda’s attacks triggered America’s longest war, U.S. officials said on Tuesday. U.S ..."
     publishedDateTime: 2021-04-13T15:55:00Z
@@ -443,6 +427,20 @@ related:
       - url: "https://ajo.prod.reuters.tv/api/v2/img/61184eb9e4b085d396fce9a0-1628982969632?location=LANDSCAPE"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Joe Biden to speak on Afghanistan this afternoon – live"
+    excerpt: "You can find out more in our privacy policy and cookie policy, and manage your choices by going to ‘California resident – Do Not Sell’ at the bottom of any page. The great Washington Post reporter Bob Woodward’s third book about Donald Trump will be called Peril – completing a trilogy begun with Fear and Rage – and will also include sections on the start of Joe Biden’s presidency."
+    publishedDateTime: 2021-08-16T16:18:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live?page=with:block-611a98b48f08d30d155035a8"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/4bf99e9b33a417586b62ca6d94dbfe4d249bc0a6/0_39_2000_1201/master/2000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=d33c74c197e6d9907f33009bb6884d1c"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden says it's 'time to end America's longest war' as he reveals plans to bring US troops home from Afghanistan"
     excerpt: "Biden said he was the fourth president to preside over the Afghanistan conflict, adding: \"I will not pass this responsibility on to a fifth.\""

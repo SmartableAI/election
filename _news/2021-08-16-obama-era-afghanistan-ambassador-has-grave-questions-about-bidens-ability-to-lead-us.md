@@ -111,6 +111,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Afghanistan collapse raises questions about Biden's foreign policy prowess"
+    excerpt: "The quick collapse of the Afghan government amid the lighting-fast Taliban takeover of Afghanistan calls into question President Biden's prowess when it comes to foreign policy."
+    publishedDateTime: 2021-08-16T16:59:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LefYVgjdH2U/afghanistan-collapse-biden-foreign-policy"
+    ampWebUrl: "https://www.foxnews.com/politics/afghanistan-collapse-biden-foreign-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/afghanistan-collapse-biden-foreign-policy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "McConnell calls on Biden to change course in Afghanistan before it's too late"
     excerpt: "McConnell urged President Joe Biden reverse course in Afghanistan as the security situation deteriorates"
     publishedDateTime: 2021-08-12T23:00:33Z

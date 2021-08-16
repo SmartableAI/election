@@ -160,6 +160,15 @@ related:
         width: 800
         height: 419
         isCached: true
+  - title: "Tammy Baldwin seeks panel to probe election hacking; Ron Johnson echoes Donald Trump’s Russia stance"
+    excerpt: "Democratic U.S. Sen. Tammy Baldwin this week called for a new committee to probe Russian meddling in the recent U.S. election, while her Republican counterpart from Wisconsin, Sen. Ron Johnson, echoed President-elect Donald Trump's call for warmer Russian relations."
+    publishedDateTime: 2021-08-16T16:21:00Z
+    webUrl: "https://apnews.com/article/donald-trump-europe-russia-elections-tammy-baldwin-bc0ab25ed3c4460ab7c7c2762e468fcd"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 85
   - title: "Man sentenced for shooting Black girl at Iowa Trump rally"
     excerpt: "A 26-year-old supporter of former President Donald Trump has been sentenced to up to 10 years in prison for shooting into a car carrying Black girls after an Iowa Trump rally, injuring a teenager"
     publishedDateTime: 2021-08-10T04:50:00Z
@@ -224,6 +233,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tammy Baldwin calls GOP tax bill a boon for wealthy; Republican foes cheer Donald Trump’s efforts"
+    excerpt: "A Republican remake of the federal tax code bound for a U.S. Senate vote as soon as next week is being decried by Democratic Sen. Tammy Baldwin as a “giveaway to the wealthiest few,” while her potential GOP challengers are cheering President Donald Trump’s bid for a once-in-a-generation tax-code overhaul."
+    publishedDateTime: 2021-08-16T16:35:00Z
+    webUrl: "https://apnews.com/article/donald-trump-business-bills-personal-taxes-tammy-baldwin-1976e8f3e6184b289a876a648e18919a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 72
   - title: "Former President Donald Trump to hold rally in Cullman. What to know before you go"
     excerpt: "Former President Donald Trump is scheduled to speak at a \"Save America\" rally in Cullman, Alabama, on Aug. 21, 2021."
     publishedDateTime: 2021-08-05T11:01:00Z

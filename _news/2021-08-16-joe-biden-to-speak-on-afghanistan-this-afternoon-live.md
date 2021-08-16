@@ -1,14 +1,12 @@
 ---
 category: news
 title: "Joe Biden to speak on Afghanistan this afternoon – live"
-excerpt: "Joe Biden will deliver remarks this afternoon on the situation in Afghanistan, the White House has just announced in an update to the president’s schedule for the day. According to the updated schedule,"
-publishedDateTime: 2021-08-16T14:19:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live"
-webUrl: "https://www.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live"
-ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live"
+excerpt: "You can find out more in our privacy policy and cookie policy, and manage your choices by going to ‘California resident – Do Not Sell’ at the bottom of any page. The great Washington Post reporter Bob Woodward’s third book about Donald Trump will be called Peril – completing a trilogy begun with Fear and Rage – and will also include sections on the start of Joe Biden’s presidency."
+publishedDateTime: 2021-08-16T16:18:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live?page=with:block-611a98b48f08d30d155035a8"
+webUrl: "https://www.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live?page=with:block-611a98b48f08d30d155035a8"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
@@ -25,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/4bf99e9b33a417586b62ca6d94dbfe4d249bc0a6/0_39_2000_1201/master/2000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a1ddeaeaad0f377cbb2d4d97c4e0bbf3"
-    width: 600
-    height: 360
+  - url: "https://i.guim.co.uk/img/media/4bf99e9b33a417586b62ca6d94dbfe4d249bc0a6/0_39_2000_1201/master/2000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=d33c74c197e6d9907f33009bb6884d1c"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -808,6 +806,6 @@ related:
       domain: usnews.com
     quality: 33
 
-secured: "3sG08MZAykhV2XLRzR1jHZDO4XxStfqbswm+fW4FBFcjstmB62g8hPbAse+hqEly56Jsb9RAkjOYG0juydlAgnckzslZO8OBX9AZrP0aQSUXwspOr5wdFDZx6iGQwWvR2hcT6LnwhgP22dU33ZYuXFt6AhRrT52T3b6/zau4O2BN+56fz6wDsL3ViRdqxymcH9fcdAo/jKb4stFKH4v6ngTmoFnpV7Qn5Ii2ebVY9G/V0fUQiT0i0ilsIKXHuYa+sPNV92gk9JqyoGG58lKL5H/KXN2FppVqdxojYHJBMBJBu3dJJFuVYc/v5vl/KzRFmJtfgP98YNr3/yr2ohyNywc6qfgGZ6hrz4RmlQUSZ6Q=;orHo7/QPguYviZB/9RANAg=="
+secured: "Xr9b9GUrW9NPY23YWHjVBGI5py3HV+WOcet7aGdJtnRTHsZrY4bBn062qQgo2LmJFTEgw8IUD8KZckqbBHbDE15D7FaJt8k8OiviJJNnvZmsqSxcDOyRzz28TXwXkjffTrWCfb/S6CKd/9kAWqO037a2eDB3HhnQ/uxsX+wKIoKIPlqlc5XXjxARG/CnYcrmFyBIdVhasb2Qb2n3zE4IBSTroYp59RiPRRegnKRAcsjVzmYvjMZ7Aajt1rLhrwwFaepqenXv9GjWmJA7StxWyCkbFeBSZNwnNg2J/9THdWMZJ9iY+VY/kwG7Q3+WYN1tI0p8cTS46eS32fR4XXwh1wq4O7tJ8K3l8vqaWDbuXtQ=;F2a2yiF36D3pzeFl9ndouA=="
 ---
 
