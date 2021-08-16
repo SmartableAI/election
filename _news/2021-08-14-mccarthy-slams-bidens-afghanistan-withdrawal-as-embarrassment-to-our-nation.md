@@ -79,6 +79,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden's Afghanistan prediction fails spectacularly"
+    excerpt: "President Joe Biden promised Americans that the Taliban would not storm the U.S. Embassy in Kabul resulting in a helicopter airlift reminiscent of Saigon in 1975. The opposite just happened."
+    publishedDateTime: 2021-08-16T02:08:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JiodtN1-gg0/bidens-afghanistan-prediction-fails-spectacularly"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-afghanistan-prediction-fails-spectacularly.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-afghanistan-prediction-fails-spectacularly.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/19a00d1f-c699-4729-b3dd-f8ab2871d650/b6fd2222-6c75-495e-a8b0-072f88d99d64/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Sec. Mayorkas blames Trump, rule of law for huge spike in illegal immigration during Biden administration"
     excerpt: "Homeland Security Secretary Alejandro Mayorkas blamed former President Donald Trump’s administration for the record rise of border crossings occurring during the Biden administration."
     publishedDateTime: 2021-08-13T14:23:58Z
@@ -127,6 +143,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Trump calls on Biden to ‘resign in disgrace’ over crisis in Afghanistan"
+    excerpt: "Former President Donald Trump Sunday called on President Joe Biden to “resign in disgrace” over his handling of the Afghanistan withdrawal and other issues."
+    publishedDateTime: 2021-08-15T23:38:00Z
+    webUrl: "https://nypost.com/2021/08/15/trump-calls-on-biden-to-resign-in-disgrace-over-crisis-in-afghanistan/"
+    ampWebUrl: "https://nypost.com/2021/08/15/trump-calls-on-biden-to-resign-in-disgrace-over-crisis-in-afghanistan/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/15/trump-calls-on-biden-to-resign-in-disgrace-over-crisis-in-afghanistan/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 160
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "‘Do you miss me yet?’: Trump slams Biden over Afghanistan, inflation"
     excerpt: "Former President Donald Trump lashed out at the Biden administration’s handling of Afghanistan, rising inflation and illegal immigrants, asking: “Do you miss me yet?” The attack came as the"
     publishedDateTime: 2021-08-13T15:32:00Z
@@ -142,22 +174,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-miss-afghanistan-hp.jpg?quality=90&strip=all&w=1024"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Trump calls on Biden to ‘resign in disgrace’ over crisis in Afghanistan"
-    excerpt: "Former President Donald Trump Sunday called on President Joe Biden to “resign in disgrace” over his handling of the Afghanistan withdrawal and other issues."
-    publishedDateTime: 2021-08-15T23:38:00Z
-    webUrl: "https://nypost.com/2021/08/15/trump-calls-on-biden-to-resign-in-disgrace-over-crisis-in-afghanistan/"
-    ampWebUrl: "https://nypost.com/2021/08/15/trump-calls-on-biden-to-resign-in-disgrace-over-crisis-in-afghanistan/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/15/trump-calls-on-biden-to-resign-in-disgrace-over-crisis-in-afghanistan/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 683
         isCached: true
   - title: "McConnell Credits Biden for Infrastructure Breakthrough, Dismisses Trump Criticism"
     excerpt: "The Senate minority leader credited the president with helping to get the infrastructure bill passed in the Senate, but said he doesn’t anticipate many more opportunities for Republicans to work with Democrats."

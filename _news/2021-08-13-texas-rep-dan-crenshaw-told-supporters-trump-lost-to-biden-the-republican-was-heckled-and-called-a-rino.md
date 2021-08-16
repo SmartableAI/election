@@ -141,6 +141,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Trump Asks Biden To 'Resign In Disgrace'; Blames POTUS For Afghanistan, 'Border Catastrophe'"
+    excerpt: "Former President Donald Trump has called on President Joe Biden to step down from his post as the Taliban take control of Afghanistan. In a statement Sunday, Trump blamed the current situation in Afghanistan on Biden’s decision to withdraw American troops by Sept."
+    publishedDateTime: 2021-08-16T02:48:00Z
+    webUrl: "https://www.ibtimes.com/trump-asks-biden-resign-disgrace-blames-potus-afghanistan-border-catastrophe-3274092"
+    ampWebUrl: "https://www.ibtimes.com/trump-asks-biden-resign-disgrace-blames-potus-afghanistan-border-catastrophe-3274092?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-asks-biden-resign-disgrace-blames-potus-afghanistan-border-catastrophe-3274092?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 79
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/16/gevers-managed-to-access-trumps-twitter-account-twice.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "President Biden’s complicated new task: keeping Democrats together"
     excerpt: "With exceedingly slim majorities in Congress, Biden can’t afford many defections in a party whose members include moderates and progressives."
     publishedDateTime: 2021-08-12T11:44:00Z

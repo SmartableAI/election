@@ -8,7 +8,7 @@ webUrl: "https://nypost.com/2021/08/15/trump-calls-on-biden-to-resign-in-disgrac
 ampWebUrl: "https://nypost.com/2021/08/15/trump-calls-on-biden-to-resign-in-disgrace-over-crisis-in-afghanistan/amp/"
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/15/trump-calls-on-biden-to-resign-in-disgrace-over-crisis-in-afghanistan/amp/"
 type: article
-quality: 150
+quality: 160
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ topics:
   - Election
   - Donald Trump
   - Republican Voice
+  - Joe Biden
 
 images:
   - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump.jpg?quality=90&strip=all&w=1024"
@@ -73,6 +74,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c4a4745c-08bf-4e12-ba0b-2ab8b3241fb2/49ccd27b-a5e0-4b1e-abed-dcfd6ce683b5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden's Afghanistan prediction fails spectacularly"
+    excerpt: "President Joe Biden promised Americans that the Taliban would not storm the U.S. Embassy in Kabul resulting in a helicopter airlift reminiscent of Saigon in 1975. The opposite just happened."
+    publishedDateTime: 2021-08-16T02:08:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JiodtN1-gg0/bidens-afghanistan-prediction-fails-spectacularly"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-afghanistan-prediction-fails-spectacularly.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-afghanistan-prediction-fails-spectacularly.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/19a00d1f-c699-4729-b3dd-f8ab2871d650/b6fd2222-6c75-495e-a8b0-072f88d99d64/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -189,6 +206,6 @@ related:
         height: 682
         isCached: true
 
-secured: "sZNmJN3eZFlZgrsGk1qFeIhr+evUhsZWW13x8HoPX9eD28CrWNTJxbtRzT1kkEqHATrQ81/kFwvI4bOeg1mMj4oddTWq1xNEUjeny/KkNNUSKjxIibrL0JkAK40Fmkv5AUe68T3gkvRQr7ZiN52y00ZenGMXMP2XT9tbV6lqUHdY4t+nhC5gH/ZGelnhFTQvGq/d/VmABWY9LHQbm/YvKx7E56BlYO+kIg9ODq5L+/DAZo82w5aG1O/ymVfrTJs/40V6gTcMmnMHPluAXv4qc0ePfLMrPjYCgkBGjoAGnqGkrWv3D77WzVNWHT4k5n/Ptl/x5KeXGmPikYnJRW7AUSCE7upnAVbTC9nOGJtro20=;LKTl3xAOqIm5b8jqzUx/lw=="
+secured: "FiktqKY6rBbVK8mU0nsE17JEfrDNsrOottyDhgg1qDsTq8MAgeVDaT8BWycSBI8FUn5x+gz0vL1gSEFzB6IrlSifjsWCfmtDTGPskqAXS7AzPnpKQeuhKeJ9z+rsedzAMd9dfMSxGdaf1dvFbRca6xwzTZol5uVtv6TSiKY+dZll83hvFLfoIN7/pKEnljR/sgf/ZiD7CFSIrpBcEECZm/YZ9f07+s6xa3zY67EL8G3IyfMDuLIaYYWlREsZigrD4NDmWmbdpcAVH7WArbz+uE/ADZbR+LNJ7KnymygT2UqeYf+US8FEEaJNis17tGoq6WvLS7o1Nb2vDJvy4I0zsf4RbfmPLCcD0LwPl29jQxlTBeNuuLKA3Tjo43ld2J4rrtlmPDFVX04d6NePyiZh/3ZHYL0GyaC5fjvZF354quPqaBSKf4DTopvkkw5dR6t3KGjHqNPtIQID0Zb2+5Jd97Ab0UPkht1AFTAVFsH772MTASXPr3Fglsrhpd3vYRG1NNbspxBNvort0NvLl9SEuQ==;B77O/HZtZ8t0yNzGTxPC6A=="
 ---
 

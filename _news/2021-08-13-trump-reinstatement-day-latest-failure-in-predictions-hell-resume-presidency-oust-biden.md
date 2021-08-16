@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/trump-reinstatement-day-latest-failure-pred
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152?amp=1"
 type: article
 quality: 140
-heat: 800
+heat: 820
 published: true
 
 provider:
@@ -141,6 +141,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/07/30/Trump_Justice_Department_56084.jpg-e702c_c0-0-3600-2100_s1200x700.jpg?bd461f07e95b0f5f36779822774ec445b04d6d07"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Trump Asks Biden To 'Resign In Disgrace'; Blames POTUS For Afghanistan, 'Border Catastrophe'"
+    excerpt: "Former President Donald Trump has called on President Joe Biden to step down from his post as the Taliban take control of Afghanistan. In a statement Sunday, Trump blamed the current situation in Afghanistan on Biden’s decision to withdraw American troops by Sept."
+    publishedDateTime: 2021-08-16T02:48:00Z
+    webUrl: "https://www.ibtimes.com/trump-asks-biden-resign-disgrace-blames-potus-afghanistan-border-catastrophe-3274092"
+    ampWebUrl: "https://www.ibtimes.com/trump-asks-biden-resign-disgrace-blames-potus-afghanistan-border-catastrophe-3274092?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-asks-biden-resign-disgrace-blames-potus-afghanistan-border-catastrophe-3274092?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 79
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/16/gevers-managed-to-access-trumps-twitter-account-twice.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "President Biden’s complicated new task: keeping Democrats together"
     excerpt: "With exceedingly slim majorities in Congress, Biden can’t afford many defections in a party whose members include moderates and progressives."

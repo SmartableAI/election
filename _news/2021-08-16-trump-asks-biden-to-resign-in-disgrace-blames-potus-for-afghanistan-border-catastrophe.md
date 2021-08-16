@@ -1,22 +1,34 @@
 ---
 category: news
-title: "President Biden Meets With Governors and Mayors on Infrastructure"
-excerpt: "President Biden meets with governors and mayors at the White House to discuss the administration’s infrastructure proposals. President Joe Biden touted his administration’s achievements during a Cabinet meeting marking his first six months"
-publishedDateTime: 2021-08-11T17:15:00Z
-originalUrl: "https://www.c-span.org/video/?514037-1/president-biden-meets-governors-mayors-infrastructure"
-webUrl: "https://www.c-span.org/video/?514037-1/president-biden-meets-governors-mayors-infrastructure"
+title: "Trump Asks Biden To 'Resign In Disgrace'; Blames POTUS For Afghanistan, 'Border Catastrophe'"
+excerpt: "Former President Donald Trump has called on President Joe Biden to step down from his post as the Taliban take control of Afghanistan. In a statement Sunday, Trump blamed the current situation in Afghanistan on Biden’s decision to withdraw American troops by Sept."
+publishedDateTime: 2021-08-16T02:48:00Z
+originalUrl: "https://www.ibtimes.com/trump-asks-biden-resign-disgrace-blames-potus-afghanistan-border-catastrophe-3274092"
+webUrl: "https://www.ibtimes.com/trump-asks-biden-resign-disgrace-blames-potus-afghanistan-border-catastrophe-3274092"
+ampWebUrl: "https://www.ibtimes.com/trump-asks-biden-resign-disgrace-blames-potus-afghanistan-border-catastrophe-3274092?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-asks-biden-resign-disgrace-blames-potus-afghanistan-border-catastrophe-3274092?amp=1"
 type: article
-quality: 35
+quality: 79
 heat: -1
 published: false
 
 provider:
-  name: C-SPAN
-  domain: c-span.org
+  name: International Business Times
+  domain: ibtimes.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
+
+images:
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/16/gevers-managed-to-access-trumps-twitter-account-twice.jpg"
+    width: 1024
+    height: 683
+    isCached: true
 
 related:
   - title: "Trump 'Reinstatement Day' Latest Failure in Predictions He'll Resume Presidency, Oust Biden"
@@ -144,22 +156,6 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/07/30/Trump_Justice_Department_56084.jpg-e702c_c0-0-3600-2100_s1200x700.jpg?bd461f07e95b0f5f36779822774ec445b04d6d07"
         width: 1200
         height: 700
-        isCached: true
-  - title: "Trump Asks Biden To 'Resign In Disgrace'; Blames POTUS For Afghanistan, 'Border Catastrophe'"
-    excerpt: "Former President Donald Trump has called on President Joe Biden to step down from his post as the Taliban take control of Afghanistan. In a statement Sunday, Trump blamed the current situation in Afghanistan on Biden’s decision to withdraw American troops by Sept."
-    publishedDateTime: 2021-08-16T02:48:00Z
-    webUrl: "https://www.ibtimes.com/trump-asks-biden-resign-disgrace-blames-potus-afghanistan-border-catastrophe-3274092"
-    ampWebUrl: "https://www.ibtimes.com/trump-asks-biden-resign-disgrace-blames-potus-afghanistan-border-catastrophe-3274092?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-asks-biden-resign-disgrace-blames-potus-afghanistan-border-catastrophe-3274092?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 79
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/16/gevers-managed-to-access-trumps-twitter-account-twice.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "President Biden’s complicated new task: keeping Democrats together"
     excerpt: "With exceedingly slim majorities in Congress, Biden can’t afford many defections in a party whose members include moderates and progressives."
@@ -496,6 +492,15 @@ related:
         width: 948
         height: 711
         isCached: true
+  - title: "President Biden Meets With Governors and Mayors on Infrastructure"
+    excerpt: "President Biden meets with governors and mayors at the White House to discuss the administration’s infrastructure proposals. President Joe Biden touted his administration’s achievements during a Cabinet meeting marking his first six months"
+    publishedDateTime: 2021-08-11T17:15:00Z
+    webUrl: "https://www.c-span.org/video/?514037-1/president-biden-meets-governors-mayors-infrastructure"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
   - title: "Condo owners at Trump Tower in White Plains vote to dump ex-president's brand"
     excerpt: "Trump Tower at City Place in White Plains opened in 2005, but owners voted to banish the former president's name."
     publishedDateTime: 2021-08-12T09:02:00Z
@@ -515,6 +520,6 @@ related:
       domain: cincinnati.com
     quality: 13
 
-secured: "CYn53UyauwXvnK6mmS4RNc8KAPQu9g8Nitwkm7pHPzlxlclm0Lj5YsF1QPldEzzWRk1b+mRWnCC/Lej+es0N6IpW/m2x8oueB379BDw3fy+9LccTxrhbW1UpTlgGq7Yv6eXU+1M6oBlCfuhulT80fj6CdIkSMdVrUlqGU6GQf98MHJG5/NHlMcuHnmOa74SHEMQ/O92PioKBeE5z7LnBszmh5w+afVYF86kzGGER1HOGbum70i7b6glPkWdbDI1g0wIjVQ7wkUs9XqCdcwWP17kpq/77s99UbLSbODKNQXYVN0gHQUkrq6GxZ5o8y1nyTdBNUF6paNanYXOlgoSDyOXLJ+qugFyg50WG7BsKFjW2gf/Tf4q5n6njg3l+Dshki8V2RXW/WJ+37u1uXYuLQyCvxQxwPy6EEWGKooGsU018BJLWSZnhFxHxeE7R0UUIHW9eRR/KTar8UBjS6RwSTIi7Kid89D5rNSP72u2WrPf54RNIRCiEVUMG8LBXirAvG66M5iuh7TaW6lTACTrA6g==;Gy+Bus6c3bI1ZT4DJlzLtQ=="
+secured: "7WkSwNxlc9MpdvOkRi/R4Gt8yGMnaMAao00h02gmfOYsrPYrLqiDp1VvT2VZVjDbgYreLisQKoGNByvHzZvtYU2OXi/MxTtgWZFlBkCKXpODYjhQQH6pp4jr/U2VWpTEtdVeNstc5fiec1PK4moS+e7xVANedblfke5hw6EV0bkp+3G1nHkMlxnP5HoHPXhzJzaNFcPCXn6WDYy8XMh0MmXFmOVPlQKqkSdmnOKOlFdXwwsVCBT8lESz8uYavnSGCanJd4vPu+Lh5czjdD75cz2R2CtmEGh2rfxVT3ysjdHPSUW5F6e0V3vCKSmkBQ4B6dzlAQXk0Q/tuiRJOlMOuL6wRhVZYsdC2d1UcoJ57hI=;Icu3+iSzruDvQ/IqiUjefg=="
 ---
 

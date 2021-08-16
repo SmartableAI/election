@@ -1,30 +1,33 @@
 ---
 category: news
-title: "McCaul: Biden will have ‘blood on his hands’ over Afghanistan withdrawal"
-excerpt: "The top Republican on the House Foreign Relations Committee on Sunday said President Biden will have “blood on his hands” over the withdrawal of the US military from Afghanistan."
-publishedDateTime: 2021-08-15T19:15:00Z
-originalUrl: "https://nypost.com/2021/08/15/rep-mccaul-says-afghanistan-withdrawal-has-been-a-disaster/"
-webUrl: "https://nypost.com/2021/08/15/rep-mccaul-says-afghanistan-withdrawal-has-been-a-disaster/"
-ampWebUrl: "https://nypost.com/2021/08/15/rep-mccaul-says-afghanistan-withdrawal-has-been-a-disaster/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/15/rep-mccaul-says-afghanistan-withdrawal-has-been-a-disaster/amp/"
+title: "Biden's Afghanistan prediction fails spectacularly"
+excerpt: "President Joe Biden promised Americans that the Taliban would not storm the U.S. Embassy in Kabul resulting in a helicopter airlift reminiscent of Saigon in 1975. The opposite just happened."
+publishedDateTime: 2021-08-16T02:08:20Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JiodtN1-gg0/bidens-afghanistan-prediction-fails-spectacularly"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JiodtN1-gg0/bidens-afghanistan-prediction-fails-spectacularly"
+ampWebUrl: "https://www.foxnews.com/politics/bidens-afghanistan-prediction-fails-spectacularly.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-afghanistan-prediction-fails-spectacularly.amp"
 type: article
-quality: 134
+quality: 175
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/biden-afghanistan-04.jpg?quality=90&strip=all&w=1024"
-    width: 1024
-    height: 682
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/19a00d1f-c699-4729-b3dd-f8ab2871d650/b6fd2222-6c75-495e-a8b0-072f88d99d64/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
@@ -73,22 +76,6 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c4a4745c-08bf-4e12-ba0b-2ab8b3241fb2/49ccd27b-a5e0-4b1e-abed-dcfd6ce683b5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden's Afghanistan prediction fails spectacularly"
-    excerpt: "President Joe Biden promised Americans that the Taliban would not storm the U.S. Embassy in Kabul resulting in a helicopter airlift reminiscent of Saigon in 1975. The opposite just happened."
-    publishedDateTime: 2021-08-16T02:08:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JiodtN1-gg0/bidens-afghanistan-prediction-fails-spectacularly"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-afghanistan-prediction-fails-spectacularly.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-afghanistan-prediction-fails-spectacularly.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/19a00d1f-c699-4729-b3dd-f8ab2871d650/b6fd2222-6c75-495e-a8b0-072f88d99d64/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -204,7 +191,23 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "McCaul: Biden will have ‘blood on his hands’ over Afghanistan withdrawal"
+    excerpt: "The top Republican on the House Foreign Relations Committee on Sunday said President Biden will have “blood on his hands” over the withdrawal of the US military from Afghanistan."
+    publishedDateTime: 2021-08-15T19:15:00Z
+    webUrl: "https://nypost.com/2021/08/15/rep-mccaul-says-afghanistan-withdrawal-has-been-a-disaster/"
+    ampWebUrl: "https://nypost.com/2021/08/15/rep-mccaul-says-afghanistan-withdrawal-has-been-a-disaster/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/15/rep-mccaul-says-afghanistan-withdrawal-has-been-a-disaster/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/biden-afghanistan-04.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
 
-secured: "Edk/0rmYTzhuoxeEkRt4YypbwtGmKo+3zXtw4Cj124R+ODB9EJAcQ6Fkgizhb3IvHcbyHMpCWgK4w+3LDdG4TTk+W/0Q6WzljDLEiScPGxRrPXDnDmZAiTwAoIUawuq/m1+8xcwhlYnf+cuZYVLE2LWSn+eGh/b0nVGBp/cgrJVVn/SbWR4ukkqhB79GzHetsK4UaHQ45eFeTdhyaPhDwbQbYae3Ogq1rudqeoYJ+sRLyJynUa8a6+7F+VgIKoZnq/fecjx/CGCqcCyzLXGpozJhZoH2YS9+vnoBaYLMv5/uvjfCjX5Qz4iFLpxoKNdBI/ugKoNWsR6dOCbnNGjI1wIu+xRuVGjGpg/fu+BUMuo=;00SS9mLJr7Uwo19m7zt3fA=="
+secured: "pLmRbpmcuWVA9/KWEQWhH5dqdcIErtPReLekw61UmHPhuI0JnrYU1MVE8SFRKLcVaI2KwXP6nWiqatEPZVVc62HqNM8P5CDd3QawLs59cKx/WHffsxdVMyArIFN1GHLe3qE9kwayy+RBqN9eeAVbzpfVvarOMV2vvLUGRMtwauJ+/kMdiJ+2+k4U5e8x1g+eg6wHp5T2/ZiMBdhnxtMEqSeaM0/NXhbstTXv/dLtfeLwFs9+V9AgTDNSlyHinv2hutxx+eBCzO5yFOJX/PGdVlvwpS3h28yGPxkE+cXbS+PjmsARMCAlBONO8tUBGLCzwnLWUzYBmWPVSkKSqfUnTKlqLSU4DUZYJMeO/j8FKtU=;i26YhAjKoAkwMJDpil/8FQ=="
 ---
 
