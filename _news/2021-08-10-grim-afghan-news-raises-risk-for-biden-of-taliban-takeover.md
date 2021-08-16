@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/policy/defense/567049-grim-afghan-news-raises-ri
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/567049-grim-afghan-news-raises-risk-for-biden-of-taliban-takeover?amp"
 type: article
 quality: 125
-heat: 505
+heat: 525
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fefa1b988-77e3-4674-a926-3d2abfdf3a82.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+        isCached: true
+  - title: "CNN Turns on Joe Biden as Afghanistan Actions Called 'a Political Disaster'"
+    excerpt: "The Biden administration is under fire amid the chaotic U.S. withdrawal from Afghanistan and Taliban victory there."
+    publishedDateTime: 2021-08-16T08:33:00Z
+    webUrl: "https://www.newsweek.com/cnn-turns-joe-biden-afghanistan-political-disaster-kabul-airport-1619570"
+    ampWebUrl: "https://www.newsweek.com/cnn-turns-joe-biden-afghanistan-political-disaster-kabul-airport-1619570?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cnn-turns-joe-biden-afghanistan-political-disaster-kabul-airport-1619570?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1871615/joe-biden-speaks-white-house.jpg"
+        width: 3712
+        height: 2472
         isCached: true
   - title: "Joe Biden urges Afghans to ‘fight for their nation’ as Taliban advance continues"
     excerpt: "With insurgents now controlling two-thirds of the country, the US president says local forces must rally"

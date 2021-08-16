@@ -158,6 +158,20 @@ related:
         width: 800
         height: 419
         isCached: true
+  - title: "Trump calls Swedish lawmaker in thanks for Nobel nomination"
+    excerpt: "STOCKHOLM (AP) — A Swedish lawmaker who nominated U.S. President Donald Trump for the 2021 Nobel Peace Prize for his efforts in the Middle East says he got a phone call of thanks from the American leader. Magnus Jacobsson, a member of Sweden’s ..."
+    publishedDateTime: 2021-08-16T09:55:00Z
+    webUrl: "https://apnews.com/article/europe-middle-east-business-nobel-prizes-41707747be09079794dfcd69d0456803"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Man sentenced for shooting Black girl at Iowa Trump rally"
     excerpt: "A 26-year-old supporter of former President Donald Trump has been sentenced to up to 10 years in prison for shooting into a car carrying Black girls after an Iowa Trump rally, injuring a teenager"
     publishedDateTime: 2021-08-10T04:50:00Z

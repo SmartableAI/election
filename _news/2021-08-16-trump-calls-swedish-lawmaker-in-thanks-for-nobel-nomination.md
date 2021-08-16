@@ -1,36 +1,46 @@
 ---
 category: news
-title: "Judge rules Dominion defamation case against Trump allies can proceed"
-excerpt: "A federal judge cleared the way for a defamation case​ by Dominion Voting Systems to proceed against Sidney Powell, Rudy Giuliani and Mike Lindell."
-publishedDateTime: 2021-08-12T13:19:00Z
-originalUrl: "https://www.cbsnews.com/news/dominion-defamation-case-rudy-giuliani-sidney-powell-mike-lindell/"
-webUrl: "https://www.cbsnews.com/news/dominion-defamation-case-rudy-giuliani-sidney-powell-mike-lindell/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/dominion-defamation-case-rudy-giuliani-sidney-powell-mike-lindell/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/dominion-defamation-case-rudy-giuliani-sidney-powell-mike-lindell/"
+title: "Trump calls Swedish lawmaker in thanks for Nobel nomination"
+excerpt: "STOCKHOLM (AP) — A Swedish lawmaker who nominated U.S. President Donald Trump for the 2021 Nobel Peace Prize for his efforts in the Middle East says he got a phone call of thanks from the American leader. Magnus Jacobsson, a member of Sweden’s ..."
+publishedDateTime: 2021-08-16T09:55:00Z
+originalUrl: "https://apnews.com/article/europe-middle-east-business-nobel-prizes-41707747be09079794dfcd69d0456803"
+webUrl: "https://apnews.com/article/europe-middle-east-business-nobel-prizes-41707747be09079794dfcd69d0456803"
 type: article
-quality: 125
-heat: 625
-published: true
+quality: 105
+heat: -1
+published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/08/12/0be33b12-830d-4c03-9278-d82c0bb76461/thumbnail/1200x630g1/bed7589c1d9e274f1896636b27e28722/gettyimages-1229757105.jpg"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/ShareLogo2.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
+  - title: "Judge rules Dominion defamation case against Trump allies can proceed"
+    excerpt: "A federal judge cleared the way for a defamation case​ by Dominion Voting Systems to proceed against Sidney Powell, Rudy Giuliani and Mike Lindell."
+    publishedDateTime: 2021-08-12T13:19:00Z
+    webUrl: "https://www.cbsnews.com/news/dominion-defamation-case-rudy-giuliani-sidney-powell-mike-lindell/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/dominion-defamation-case-rudy-giuliani-sidney-powell-mike-lindell/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/dominion-defamation-case-rudy-giuliani-sidney-powell-mike-lindell/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/08/12/0be33b12-830d-4c03-9278-d82c0bb76461/thumbnail/1200x630g1/bed7589c1d9e274f1896636b27e28722/gettyimages-1229757105.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Judge rules Dominion case can proceed against Trump allies"
     excerpt: "Sidney Powell, Rudy Giuliani and Mike Lindell, allies of former President Donald Trump, all falsely accused the company of rigging the 2020 election."
     publishedDateTime: 2021-08-12T20:09:00Z
@@ -149,20 +159,6 @@ related:
       - url: "https://www.reuters.com/resizer/UOUOEUYW-9C0qKO0w1QqQEP-A6w=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/O5BYTKEK2FMHPH3GSJ3XOCH7FI.jpg"
         width: 800
         height: 419
-        isCached: true
-  - title: "Trump calls Swedish lawmaker in thanks for Nobel nomination"
-    excerpt: "STOCKHOLM (AP) — A Swedish lawmaker who nominated U.S. President Donald Trump for the 2021 Nobel Peace Prize for his efforts in the Middle East says he got a phone call of thanks from the American leader. Magnus Jacobsson, a member of Sweden’s ..."
-    publishedDateTime: 2021-08-16T09:55:00Z
-    webUrl: "https://apnews.com/article/europe-middle-east-business-nobel-prizes-41707747be09079794dfcd69d0456803"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 105
-    images:
-      - url: "https://apnews.com/images/ShareLogo2.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Man sentenced for shooting Black girl at Iowa Trump rally"
     excerpt: "A 26-year-old supporter of former President Donald Trump has been sentenced to up to 10 years in prison for shooting into a car carrying Black girls after an Iowa Trump rally, injuring a teenager"
@@ -395,6 +391,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "8KeaZErHowd8SJG/wD+g6W97c2GZzeT4hITcignrzvN4xviGg3helSxwjUW8DMmAQZS3dl9q0AEhB1aIQQqkPLvPBPCpYZJ4Vb3tSn7vaUzHp8mn1SNzDATi4yakqR5QMHqARt4pbtr7dCvsvk1YIxXM21JAa074hIufslKMefIht/ubd3Fbrkbi25vmytNrLYBv2qziApbVX7JW1RfRMr7tB0Ge53nBFHjHPiONr5IclqAIiK600tapfqhtqt3GKl2tbIt2NIwgTS2UfzNAyOshUiz7Yk7RryzeiEMsafovvFvmPQ15Gj7G9t/gsE3XLFbWb5qId6/krdM9y5vD4oAT/f2gZRSKaIfXpA06G6b1f+aPmGTXVfqvm3BEPbSp3bp6KDbJ+5w4GH1YMoXvfsog0F8Uw7frPHxpIPOdloPoUHkngLHASgsR/mqPL72OjA4LU64et+AivlKtAhgB1TfE1MOd266Y33O9VuO9fuhWkSXW0d+2A7rdWjTjwUD2SahA8yIZuZu/bNgwheDLRA==;YcAbGI2INY1u3c0BjdWm1Q=="
+secured: "zQhjTRaDD49MdH/sBkR5JObW3BFjQdBIzOQEpatVRR0/LAKoK9VE4PuT9rM/qxGmLSFcAQ5+L0PCuSWUygJMxCt3FiNdqnIGw0zMs/nKGkjPGwbV3tt+ytWqE4qSilfJjJQ29wIUrigG3lWivilV0r4OR6qhuPGfibJkhzsIGiSdE5HP5px4YV5JmhgjSSdWN3CFFwiu3eMgzYNjIii0DNgvzq1ruarl82hkgA5zNtwcYtYSabntXzU4GrRxCoMDg8bZKf0S/9MlnWjL9CtRmy5hP9P+nPd9RAJVrsznY9mD6Ky+E1qY3xvJxGsc0jmd0kA/iaizzB40aHp8CeRHH/Dh8VKksV1l054NiOgk9n0=;DGci4vjRC2NYFDGn5HF7HA=="
 ---
 

@@ -1,24 +1,34 @@
 ---
 category: news
-title: "EXPLAINER: The impact of Joe Biden’s new fuel economy rules"
-excerpt: "President Joe Biden's new standards are basically a return to those adopted under Obama, requiring new vehicles to average 5% in carbon dioxide emissions cuts every model year through 2025."
-publishedDateTime: 2021-08-08T04:28:00Z
-originalUrl: "https://www.seattletimes.com/business/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules/"
-webUrl: "https://www.seattletimes.com/business/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules/"
-ampWebUrl: "https://www.seattletimes.com/business/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules/?amp=1"
+title: "CNN Turns on Joe Biden as Afghanistan Actions Called 'a Political Disaster'"
+excerpt: "The Biden administration is under fire amid the chaotic U.S. withdrawal from Afghanistan and Taliban victory there."
+publishedDateTime: 2021-08-16T08:33:00Z
+originalUrl: "https://www.newsweek.com/cnn-turns-joe-biden-afghanistan-political-disaster-kabul-airport-1619570"
+webUrl: "https://www.newsweek.com/cnn-turns-joe-biden-afghanistan-political-disaster-kabul-airport-1619570"
+ampWebUrl: "https://www.newsweek.com/cnn-turns-joe-biden-afghanistan-political-disaster-kabul-airport-1619570?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cnn-turns-joe-biden-afghanistan-political-disaster-kabul-airport-1619570?amp=1"
 type: article
-quality: 55
+quality: 123
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Newsweek
+  domain: newsweek.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://d.newsweek.com/en/full/1871615/joe-biden-speaks-white-house.jpg"
+    width: 3712
+    height: 2472
+    isCached: true
 
 related:
   - title: "Grim Afghan news raises risk for Biden of Taliban takeover"
@@ -52,22 +62,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fefa1b988-77e3-4674-a926-3d2abfdf3a82.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
-        isCached: true
-  - title: "CNN Turns on Joe Biden as Afghanistan Actions Called 'a Political Disaster'"
-    excerpt: "The Biden administration is under fire amid the chaotic U.S. withdrawal from Afghanistan and Taliban victory there."
-    publishedDateTime: 2021-08-16T08:33:00Z
-    webUrl: "https://www.newsweek.com/cnn-turns-joe-biden-afghanistan-political-disaster-kabul-airport-1619570"
-    ampWebUrl: "https://www.newsweek.com/cnn-turns-joe-biden-afghanistan-political-disaster-kabul-airport-1619570?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cnn-turns-joe-biden-afghanistan-political-disaster-kabul-airport-1619570?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 123
-    images:
-      - url: "https://d.newsweek.com/en/full/1871615/joe-biden-speaks-white-house.jpg"
-        width: 3712
-        height: 2472
         isCached: true
   - title: "Joe Biden urges Afghans to ‘fight for their nation’ as Taliban advance continues"
     excerpt: "With insurgents now controlling two-thirds of the country, the US president says local forces must rally"
@@ -211,6 +205,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "EXPLAINER: The impact of Joe Biden’s new fuel economy rules"
+    excerpt: "President Joe Biden's new standards are basically a return to those adopted under Obama, requiring new vehicles to average 5% in carbon dioxide emissions cuts every model year through 2025."
+    publishedDateTime: 2021-08-08T04:28:00Z
+    webUrl: "https://www.seattletimes.com/business/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules/"
+    ampWebUrl: "https://www.seattletimes.com/business/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
   - title: "Biden Unmoved On Afghan Exit As Taliban Sweep Provinces"
     excerpt: "The Taliban are making swift gains in Afghanistan but President Joe Biden is standing firm on a US exit with limited options appearing to be on the table to reverse the insurgents' momentum."
     publishedDateTime: 2021-08-09T21:24:00Z
@@ -307,6 +312,6 @@ related:
       domain: usnews.com
     quality: 31
 
-secured: "KrCw/mymGVEsAQ9O2P7JCkIlvqBPnALUiDWO4vdG3yzi5USaYyCCOgVPIgPvFK+myH+pcvleRHkYfoipbnFqRLpS+EQvPABPwnlXcNulHM7oiwd0VWat9IAZh3WL8Yab/peGlu8ozZGXrStztlcVTl9h9g3+bfEzsz5r6cPS2Dzy98qUYPBOa6Oqu1CsdcpiuLOhJW21CNH4rfCP8M1tgViU4EyUBmZYEI//G6sbs/YCnVHrQKcu3Dh0s246kf5C2N0G6Wzi400+N5Tior72+0EIXjKT3Grk5x/gCf+iC2zSH/NPny6KznsQoMJoA2/cfPxgV8nHoDQGqfcxhj9qMJldFyiBxpQlVEruvZ73hOG7iWuYnTxb9F0ifrYQD1Mwk0j70jU066vSJdXadmZE5c+djOIq8USBBKTYLcmWL2qzDCMoFM0XdwUX9zEW/PAgHf3tDvODop/i8AsneQSILkdxJIb3XlgWCzQ+iH3L/GD/32DXJ7YKqsXeo+osYwTL8PdZR5M5UoNrmLkUWGDbTw==;Ju2IMR2njQ9C8hjL8YKmtQ=="
+secured: "B5NTG/+ZzsGABMuUbDwVbmkCM+1T45NNoFXQCMf3yHkdRncNS3AD4GOUm4BlbH/rtIWiBDv4k3M42PgmGHZZT6WCFJnYBGp/+SPmC0lmvOCW6npsPXgQsEHxul56hlqdKbWAuam9d8wkkK0u+T/WB+bqdgx8zJ9jUmNpQqQGpZwAIRwEXerFwjDrpvCi1fc+9G8jHQ1igJHpcU4XRKOAghwxD8NgAXmPztWymjRY5B5ocTdv/VzSGTVsiTMqSz2BiMYpfz7ywFsOInAVvCv05Lb4EbyXskMEMtLujGGNDOu2xZg8er7Wc9VvzPtFxBngkDzo17V5sc3tfiBT5S3RLbd2/qPU2k+OA3IBpSZcEsE=;kkLj8+kREgVwf61pNF7K0A=="
 ---
 

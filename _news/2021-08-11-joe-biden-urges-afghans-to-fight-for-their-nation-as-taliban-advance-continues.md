@@ -63,6 +63,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "CNN Turns on Joe Biden as Afghanistan Actions Called 'a Political Disaster'"
+    excerpt: "The Biden administration is under fire amid the chaotic U.S. withdrawal from Afghanistan and Taliban victory there."
+    publishedDateTime: 2021-08-16T08:33:00Z
+    webUrl: "https://www.newsweek.com/cnn-turns-joe-biden-afghanistan-political-disaster-kabul-airport-1619570"
+    ampWebUrl: "https://www.newsweek.com/cnn-turns-joe-biden-afghanistan-political-disaster-kabul-airport-1619570?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cnn-turns-joe-biden-afghanistan-political-disaster-kabul-airport-1619570?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1871615/joe-biden-speaks-white-house.jpg"
+        width: 3712
+        height: 2472
+        isCached: true
   - title: "Prince Harry's Marine Friend Calls Joe Biden a 'D***head' Over Handling of Afghanistan"
     excerpt: "Ben McBean, a former Royal Marine and a double amputee, said President Joe Biden knows Afghan troops cannot stop the Taliban alone."
     publishedDateTime: 2021-08-12T15:45:00Z

@@ -55,6 +55,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "CNN Turns on Joe Biden as Afghanistan Actions Called 'a Political Disaster'"
+    excerpt: "The Biden administration is under fire amid the chaotic U.S. withdrawal from Afghanistan and Taliban victory there."
+    publishedDateTime: 2021-08-16T08:33:00Z
+    webUrl: "https://www.newsweek.com/cnn-turns-joe-biden-afghanistan-political-disaster-kabul-airport-1619570"
+    ampWebUrl: "https://www.newsweek.com/cnn-turns-joe-biden-afghanistan-political-disaster-kabul-airport-1619570?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cnn-turns-joe-biden-afghanistan-political-disaster-kabul-airport-1619570?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1871615/joe-biden-speaks-white-house.jpg"
+        width: 3712
+        height: 2472
+        isCached: true
   - title: "Joe Biden urges Afghans to ‘fight for their nation’ as Taliban advance continues"
     excerpt: "With insurgents now controlling two-thirds of the country, the US president says local forces must rally"
     publishedDateTime: 2021-08-11T04:44:00Z
