@@ -2,9 +2,9 @@
 category: news
 title: "Afghanistan live news: chaos at Kabul airport as Joe Biden speaks for first time in a week"
 excerpt: "US president has begun speaking on Afghanistan – and opened by saying the US has achieved its goal"
-publishedDateTime: 2021-08-16T20:49:00Z
-originalUrl: "https://www.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates?page=with:block-611ad9af8f08d30d155038b1"
-webUrl: "https://www.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates?page=with:block-611ad9af8f08d30d155038b1"
+publishedDateTime: 2021-08-16T19:50:00Z
+originalUrl: "https://www.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates?page=with:block-611abbb78f08aeaec2f21009"
+webUrl: "https://www.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates?page=with:block-611abbb78f08aeaec2f21009"
 ampWebUrl: "https://amp.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates"
 type: article
@@ -393,6 +393,20 @@ related:
       name: Lexington Herald Leader
       domain: kentucky.com
     quality: 55
+  - title: "Joe Biden on Afghanistan: 'I stand squarely behind my decision'"
+    excerpt: "The US president says the quick collapse of the Afghan government shows why America had to withdraw."
+    publishedDateTime: 2021-08-16T21:15:00Z
+    webUrl: "https://www.bbc.co.uk/news/world-us-canada-58238557"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/16693/production/_119959719_p09sds1d.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Susan Collins hits Joe Biden for Afghanistan ‘chaos’ with Maine delegation split over exit"
     excerpt: "As the Taliban consolidates its sweeping control over Afghanistan, the opportunity exists for the country to once again become a safe haven for Islamist terrorist groups targeting our country,” Collins said."
     publishedDateTime: 2021-08-16T19:34:00Z
@@ -431,6 +445,6 @@ related:
       domain: usnews.com
     quality: 31
 
-secured: "zDBTZqmaD742LFuniODS+UusotftBDsP2VB5xlsAcX8o3tJseryHBD3Rv6NbEmj4m9hlrkUNw8jMBx0eqwldQP5SqllTkZeMEvyTMlVm1dt+FkarF5B6xQRFNir2+sNiaM/XaZvsrIZ/+1QQuBWmvJvGEQ87J1nkKwsamRJge4T8Cto7fgUgT6hy8NrMv19FVT+81hMRwJsTM+J9m10b/YMubYKlp4e+HrBVs0u5q6PS/nmAnt5Rj6dI5zriLzZdfJFrP6ryqO6rUsu9+qUCA+aVQROvCpVRb7sKb3l86xgPURT1cySGolcALMgn8N4SiKZQOTDP8zQ3lsbWehrgoM2Z1IsiEKavMSh9ZVpTLQXGXb1tLyxjUl+/EQOBdMEySy3ctYz+ey9mGPMDW31f1KC2kZoxGjaJI0TOpZmyhHiF/geJNX3Bplu6gtLN1nSHwFZp2Mi+t5ErYEw7Yol9dyZsDdMj3f4ozbTpeflLKw7JAuY2dm/31M/WtNuzi2UELEEVAwaokc8QBLKqAEG6NA==;iheGe6bf8tUE0sD+05MJlQ=="
+secured: "99l4DQnP4Z7Ns2U1b0NVkI3uuI/ha4g5SrWL96KZ/Bj+j0eB77cUImqBj4y0HEC2gTCrjmVeIYXfZjgqHReCg4imcbgqJysJOcehYFmrKrliuntWaLQFr4r+6SXKBoZctgllauFd5TD7hCqdNL8DAkOZXD8LPkLER5yYYbRV7KQhJ2+LUhNSFFvaTHSToZY2wsI/gLaxspLbyRfXMT3hDVnS97E1Ukih4vf54kdpvScLL/Pw0mi86vrcXtIB8IjNbHsI+b+Nt9LaT3X64tvVTFIV/wh0nMPLoZmQyVRCkaeJyObtwVw0m2fJr9Ahb9LTPRnyLbWrj4RK63crFks9mX642Yr3xVxrj3QXNqH8aek=;UPgUS0ZztZLFCjQ5dWZ//Q=="
 ---
 

@@ -47,20 +47,6 @@ related:
         width: 3391
         height: 2362
         isCached: true
-  - title: "Joe Biden on Afghanistan: 'I stand squarely behind my decision'"
-    excerpt: "I stand squarely behind my decision' Up Next. Afghans cling to US plane taking off from Kabul. Video, 00:01:10Afghans cling to US plane taking off from Kabul Video, 00:00:32'I can't believe the world abandoned Afghanistan' 'Women won't be silenced by the Taliban' Video,"
-    publishedDateTime: 2021-08-16T21:03:00Z
-    webUrl: "https://www.bbc.com/news/av/world-us-canada-58238557"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 105
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/16693/production/_119959719_p09sds1d.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "AVQtWeZT+2NLhiDOYUCx5wqiRBn/1E3P9Yx6cvHHI7BIuBLqYQjDE/0M90p444Z+YQrnj/HZkzrNFUT4PenNfjRxzM6P9NzzKIM/aXUYFveImNkRJNNF0u4kwFoMuGrk0J3PR0xA9LdTEhk3G71sTKqZfFDrIIGmW93VoV1WzdgG6+jcW1tD2wB15PM96u5tMqpYmXb88pB/W1/7ZNJ+NC/YZZcFWjUsy58e2lxJP09HzZldO0C8nkyC7ixLbu2/3fQtM9zc4B80JKrgJWA/WaHgYq5oIsyOS9TIozDAVeRdmnGNBSbqI/xiLtW0Fe5PuHhJiRnJXFRbujaupf2+M1HVE6bbWwK53/qLiyf9/Xg4zLMZodkS/2qWQAnK6xbKBVExPH1PMvmmnD7cHz63s+CV5AySbEu47zUP/PSYUXUD/ISorP4venMdo1MqX/JWP5+/FElO5RYDVBnuI6VNPMwadr2skJHoU4kGarepVDtew9hodgHx1n8ln6UOFH8wkU5GmW4q1Oxn2ue0Jts4CA==;bo+Opliueh7lhLOFf0iM+A=="
 ---

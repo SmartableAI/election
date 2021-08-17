@@ -129,8 +129,8 @@ related:
         isCached: true
   - title: "Afghanistan live news: chaos at Kabul airport as Joe Biden speaks for first time in a week"
     excerpt: "US president has begun speaking on Afghanistan – and opened by saying the US has achieved its goal"
-    publishedDateTime: 2021-08-16T20:49:00Z
-    webUrl: "https://www.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates?page=with:block-611ad9af8f08d30d155038b1"
+    publishedDateTime: 2021-08-16T19:50:00Z
+    webUrl: "https://www.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates?page=with:block-611abbb78f08aeaec2f21009"
     ampWebUrl: "https://amp.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates"
     type: article
@@ -393,6 +393,20 @@ related:
       name: Lexington Herald Leader
       domain: kentucky.com
     quality: 55
+  - title: "Joe Biden on Afghanistan: 'I stand squarely behind my decision'"
+    excerpt: "The US president says the quick collapse of the Afghan government shows why America had to withdraw."
+    publishedDateTime: 2021-08-16T21:15:00Z
+    webUrl: "https://www.bbc.co.uk/news/world-us-canada-58238557"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/16693/production/_119959719_p09sds1d.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Susan Collins hits Joe Biden for Afghanistan ‘chaos’ with Maine delegation split over exit"
     excerpt: "As the Taliban consolidates its sweeping control over Afghanistan, the opportunity exists for the country to once again become a safe haven for Islamist terrorist groups targeting our country,” Collins said."
     publishedDateTime: 2021-08-16T19:34:00Z
@@ -431,6 +445,6 @@ related:
       domain: usnews.com
     quality: 31
 
-secured: "1VdmDIQotFaFziGCKVdo6D6w0tMpINipDAPj6pHVaGEbhr/UvKf01TKoQCOF1yt9VZtEsiYXIF0SdqwYy5HxiZPN+hw5X3k0Xs+4cT7X/fao+zNlobfZH6/A/XWMYdCL3Pgh+jS8HCOstQMnuymAfxXyHMEC4DGeZ7UiwEYEiRvCXqA3+o+nqbRuYLwERfibJvrKSJnrf1lA05Q0Fev2IOkaXAarFQworQxuD8XXlBGTzsB42zhDoj/Q0WqdSIOOgh8S/z7WMBGNicz+Kdq5aAl2zkVdZUb1Vxmar9FVU023IA5VN4CLhXH2Br77kjGLwT2RwzHnVA1FUz8pSc/e4Mxxa+urCGyOa3slQKTqamU=;loZLL5XmhSJYHvXVa69TAA=="
+secured: "VI2YA2N7OfPCE+FxpzH0R/5XGogUt81tkGJ+UQloSOd+IgbwMG0ZG5oyzAh1SVwHBXR8GGloHl7BjWFsME1JISH1nIVif8pmsEhwXL4+hclS2vZT2fhvfVdkCUskpe+KM/yybXDTqp4L1oLDnmDecchJjGacp9JP15LVqp0FI1SdNsFExGKnIlg1ES4KXoCiPDEYZOpAfCBNWOF4cxgXJfJaYNBrWwaccvWXD4ZfCmHr2VhKH5QsUHZOgGxWzSgIc4/KdP1sr8pkUsYX5qylnp2iSUSp00ft0cnCd15RaQaJQV8aeWkyuG/5oV2Mba78CMhMtD+yljL/+rIE5TN6Km3Un8SQ9NispWhE9rl2Nd19VT9LZmnCW3j0Nakd+E8Mw+l66cjhsTQ/gnvh75yHptART60aaJv8FKaqekDIm5Ytpi50SbBdQXwWhTeW+CrMj05GdBThpIccPR2e/GaIWN0fqGfMeZ4WDPBhNrsSBOGIPXpwcPIAXc0xsEJuPjtFLfihpjVYzNDk5t2Ni19jyQ==;go/SWJgE6/FGoV4Tivy1Ng=="
 ---
 

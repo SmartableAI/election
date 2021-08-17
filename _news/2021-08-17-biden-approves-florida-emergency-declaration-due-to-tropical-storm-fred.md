@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Biden 'checking' if he has power to intervene against Florida and Texas mask mandate bans"
-excerpt: "Biden said he is “checking” on if his presidential powers could give him the ability to intervene in states banning mask mandates"
-publishedDateTime: 2021-08-10T22:15:34Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cZ5oDR8JHqo/biden-checking-if-he-has-power-to-intervene-on-florida-and-texas-mask-mandates"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cZ5oDR8JHqo/biden-checking-if-he-has-power-to-intervene-on-florida-and-texas-mask-mandates"
-ampWebUrl: "https://www.foxnews.com/politics/biden-checking-if-he-has-power-to-intervene-on-florida-and-texas-mask-mandates.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-checking-if-he-has-power-to-intervene-on-florida-and-texas-mask-mandates.amp"
+title: "Biden approves Florida emergency declaration due to Tropical Storm Fred"
+excerpt: "Biden ordered federal assistance to supplement state, tribal, and local response efforts -- because of emergency conditions resulting from the storm, according to a statement from the White House."
+publishedDateTime: 2021-08-17T05:34:23Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iaz9kUaS7QM/biden-florida-emergency-declaration-federal-assistance-tropical-storm-fred"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iaz9kUaS7QM/biden-florida-emergency-declaration-federal-assistance-tropical-storm-fred"
+ampWebUrl: "https://www.foxnews.com/politics/biden-florida-emergency-declaration-federal-assistance-tropical-storm-fred.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-florida-emergency-declaration-federal-assistance-tropical-storm-fred.amp"
 type: article
-quality: 166
-heat: -1
-published: false
+quality: 175
+heat: 255
+published: true
 
 provider:
   name: Fox News
@@ -25,28 +25,12 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f971513-f578-48ec-aafe-1356cbb35b0f/7990aed3-d0fa-45d5-b33f-11ab72e7de2f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/720/405/AP21228746281121.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
 
 related:
-  - title: "Biden approves Florida emergency declaration due to Tropical Storm Fred"
-    excerpt: "Biden ordered federal assistance to supplement state, tribal, and local response efforts -- because of emergency conditions resulting from the storm, according to a statement from the White House."
-    publishedDateTime: 2021-08-17T05:34:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iaz9kUaS7QM/biden-florida-emergency-declaration-federal-assistance-tropical-storm-fred"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-florida-emergency-declaration-federal-assistance-tropical-storm-fred.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-florida-emergency-declaration-federal-assistance-tropical-storm-fred.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/720/405/AP21228746281121.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Biden court win on eviction ban extension draws appeals from Realtors, landlords"
     excerpt: "Groups against President Biden’s extension of the coronavirus eviction moratorium appealed one day after a federal judge ruled it could stand, according to reports."
     publishedDateTime: 2021-08-15T06:24:40Z
@@ -60,6 +44,22 @@ related:
     quality: 170
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65634db6-d537-4f58-92ba-b491e437f557/18f65754-e325-4017-9d84-5920e08b5632/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden 'checking' if he has power to intervene against Florida and Texas mask mandate bans"
+    excerpt: "Biden said he is “checking” on if his presidential powers could give him the ability to intervene in states banning mask mandates"
+    publishedDateTime: 2021-08-10T22:15:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cZ5oDR8JHqo/biden-checking-if-he-has-power-to-intervene-on-florida-and-texas-mask-mandates"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-checking-if-he-has-power-to-intervene-on-florida-and-texas-mask-mandates.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-checking-if-he-has-power-to-intervene-on-florida-and-texas-mask-mandates.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f971513-f578-48ec-aafe-1356cbb35b0f/7990aed3-d0fa-45d5-b33f-11ab72e7de2f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -82,6 +82,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "mTKcZOTWG8Bz8wPpKV3Yiomt+8WFT8YTe769okULJZBV61cZUO7/cyegulY0+Dw4saYyAZpPhuSo7+l2PTCVKG9HokypaB8sumBzWoJxYkFRHTskrJdjxteI+2uE9B9MdfAHqaRoVTHbVgVAyf9EXLDcpk8wcEVH8UKWaZvxr8V7gfO4ApUAhJceuXNwuzrRLgYRQBtPLE/RoqHCpBXY++yn3K4FsUXsFS7iN2Q5wHvWvCitBahhRatddZ8WLJQfeJx3RE9zaZYZFMtIPkOYRf//VdcdjLO2QTNRbYw/yVyAHQKpvphZkrzQBdvU8ShQxZ5td3WY8gaxL49YZpNxZoHNVHHMbX9iOJr83nC6ID0=;BdmSfgNUNQ7APBxa/EzUIQ=="
+secured: "XcGFysN3pKZky2vyLw5x/IsiijNUOTmTHW6rhR4C0xJLZrvLO7VU5t5QDGgi8iglgCxuUJfSf3twYpc/G0oTW7owDBgr0a76VlDrvCynkHvR7VdGoZiviCWD6xOH4EapdRN5ReI8JJylOZ6E3rv5lmdhm3i9mDaFXCcb0NCSZFGDzdg/7TokwJTgzx3WxT1C3bb3R4kxi7De5cCuLmm4wEzOIqn34rd2B+WA0npzLbA4ZAYET7nJoJvGWMVSb36g+v/BW/mVt0gDXapMBctf0Xn6Ibzp+ZU282CAuZ7PZqqD93A1pftiqcmijNioDvGRqtsaxihWHTGe0/fKd/Ly+vOxWEnXDDz4IxdxLVzOJwU=;HUimZWEYaIey2sh7kNckzg=="
 ---
 
