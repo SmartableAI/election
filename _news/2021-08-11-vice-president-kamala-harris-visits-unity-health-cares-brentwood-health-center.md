@@ -3,8 +3,8 @@ category: news
 title: "Vice President Kamala Harris visits Unity Health Care's Brentwood Health Center"
 excerpt: "U.S. Vice President Kamala Harris arrives to talks to health care workers before speaking about health care affordability at Unity Health Care's Brentwood Health Center on Tuesday, August 10, 20010 in Washington,"
 publishedDateTime: 2021-08-10T18:13:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/b9df6aec35c1c3009eb4a288f1ced78d/Vice-President-Kamala-Harris-visits-Unity-Health-Cares-Brentwood-Health-Center/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/b9df6aec35c1c3009eb4a288f1ced78d/Vice-President-Kamala-Harris-visits-Unity-Health-Cares-Brentwood-Health-Center/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/00e5874dedd6a72d1cb2dfb2c94e00b6/Vice-President-Kamala-Harris-visits-Unity-Health-Cares-Brentwood-Health-Center/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/00e5874dedd6a72d1cb2dfb2c94e00b6/Vice-President-Kamala-Harris-visits-Unity-Health-Cares-Brentwood-Health-Center/"
 type: article
 quality: 51
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/b9df6aec35c1c3009eb4a288f1ced78d/HARRIS-HEALTH-CARE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/00e5874dedd6a72d1cb2dfb2c94e00b6/HARRIS-HEALTH-CARE.jpg"
     width: 650
-    height: 433
+    height: 975
     isCached: true
 
 related:
@@ -106,6 +106,6 @@ related:
         height: 630
         isCached: true
 
-secured: "V1zsZAAUz+5A9DRezEeUW9ZWFwYpCoFkhW9K4lTAhTFfto6Mo2nQLebxhq525fZHRkGWONdYcNkEU8/WZREnuWEsL3JqaEun3qd+MFO0mCTRnFYjx5cE1QBdU7Ovv8x3F9QZ6i4cN0dkUm5SgoRvRheH6p419gV8LXcoX7rKgzRLCe00ajNtIev7x51t/iGgduobFuxNDh9GGNOo2YIwteqmroc4LY543fSj7hSW5S9FC3r5p9A80d7SmyUly9tYYWHdYhYthY9+uifmDVVygwloHYEkKQWbSQch0s4UsKfBEroHWezwKbLnbQPDJKLg+0IoOnKgAF4KoUAbPmxwAdUvoSww/RhpeKTQ0c1hNfI=;uGtjdD3O1C4EyzezZ0/JNA=="
+secured: "+G8/PfevDA7mcfy2jeX3qsWZDCZnZ7zWzMgZxQMQOvgzeI+VT/t0v01PBQwquDaLKGk4ofcotrkZir/y6NT/8iHMm5PswjMmEh/foVInPbUWS//NKqkTr3u7Smb4uNVAX9UIuRu2uAG+NOwiezaRiaCDcxET44O8GcVVurX+Q49qc4JXTH+0u4GTP2ijeGSvJui/irkv+bBQyvk0FqhIQIXKrDiLqyTJjyRCgNb/f6NBMAQHhpTmOWqis8EB0VA7gXe6fHNddLI0PiUc7Xvh0hzC5OuVW5hUC94SjpRNqVfryB9NTSMR7TTLsVuXdbkkTEMAGVKq5zNK5T2O3B/oUVGadCTZjPNGWkOXXF4s5NE=;uAxDczi1kwyQBcnoMYvBuQ=="
 ---
 

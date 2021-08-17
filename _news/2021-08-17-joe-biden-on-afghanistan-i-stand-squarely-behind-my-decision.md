@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden on Afghanistan: 'I stand squarely behind my decision'"
-excerpt: "I stand squarely behind my decision' Up Next. How it happened: The Taliban advance. Video, 00:01:49How it happened: The Taliban advance Images show decline of California's 'life source' Video, 00:02:49Images show decline of California's 'life source' Afghans cling to US plane taking off from Kabul."
+excerpt: "I stand squarely behind my decision' Up Next. Afghans cling to US plane taking off from Kabul. Video, 00:01:10Afghans cling to US plane taking off from Kabul Video, 00:00:32'I can't believe the world abandoned Afghanistan' 'Women won't be silenced by the Taliban' Video,"
 publishedDateTime: 2021-08-16T21:03:00Z
-originalUrl: "https://www.bbc.com/news/av/world-us-canada-58238557?at_campaign=64&at_custom2=twitter&at_custom4=736F426C-FED2-11EB-BDD5-D9FE4744363C&at_custom1=%5Bpost+type%5D&at_medium=custom7"
-webUrl: "https://www.bbc.com/news/av/world-us-canada-58238557?at_campaign=64&at_custom2=twitter&at_custom4=736F426C-FED2-11EB-BDD5-D9FE4744363C&at_custom1=%5Bpost+type%5D&at_medium=custom7"
+originalUrl: "https://www.bbc.com/news/av/world-us-canada-58238557"
+webUrl: "https://www.bbc.com/news/av/world-us-canada-58238557"
 type: article
 quality: 105
 heat: -1
@@ -61,7 +61,21 @@ related:
         width: 1024
         height: 662
         isCached: true
+  - title: "Anna Paulina Luna addresses troops, Amanda Makki calls for Joe Biden resignation in response to Afghanistan crisis"
+    excerpt: "Florida’s 13th Congressional District GOP candidates Amanda Makki and Anna Paulina Luna are responding to the fall of Kabul to Taliban control after American troops were pulled from Afghanistan. The candidates,"
+    publishedDateTime: 2021-08-17T16:29:00Z
+    webUrl: "https://floridapolitics.com/archives/450940-anna-paulina-luna-addresses-troops-amanda-makki-calls-for-joe-biden-resignation-in-response-to-afghanistan-crisis/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 33
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/08/makki_Luna-scaled.jpg"
+        width: 2560
+        height: 1920
+        isCached: true
 
-secured: "2cKVfB1tNkV1aUh1InQ5pLPASu1VGBx3Wb8DXL6LwikIECQ6hSsJPN/b8wBP/ccTiiCNuQYIeduSmaViS7v/61omfJpSDeE5nxIfD02BrpU+UDPZitkMQRr6RCvOQe1t3mNYwzQclJxi+ilkFrMLYXJz6gRLjLnyB+faUwNNw8it5OJ1L8+6ZL56oirfgcvDWedzBYGSNBH/kziG60ATM3GOm/qGXsPwsoI18YitzE2vRDiy1PoDWL4fRgMxAKp+qIa4u7s1gPrInzq7Oe+VZp/7Bc59MKrv05WVatR3x8Y4tYBdRaL0XVM1KGMijPS5qOyhjnWEZAEEZibuktux/H/uZFChNRDKaoVbiuNukEt8YnjISmANPD0VZ+KprpU/YX0lc8TVl0PdTaXz5k7hRfL+NJe3nH+NnDgRtnFPYgDU7Vo+i7iE+fw+5Z+0675BDI8m+53imm8f420bT5af9pFtV/4pbG1Z9Wt+QPkKKjs0GLV7dNthZH3ybUusVsei4z5ltJyrM/yNywRxF4q5Eg==;LhYWeMSoT/ULFKag1mb0ww=="
+secured: "OCMetw912iSjTNbgWXASVt7P/aq/X2S6CxyDhRby2G/65KkZyyYBgQgTlGZPhhewxB/Wi+zO7HUB1KwQDMVn+TSobelbN54eEAa2mKXawgkQhGwrjIWqMiRbq24klJsn2VubDZ274uTGN5cOtxT6D+K+9din/h4NYKSikV0ASocD3XahmPQR7m5udQlyAWQZFPizh/gc/9Icp1er4OzcbRI8m8AEx+0Tg4SIrsrXZF/b84qAB5Yr93UEt7OLfqD7wFDfy416vY9jKrRz0yhOjO3S9aGEvJACy0DWFFh7gLZ9iMBFuKSx2w3dgg9gCLvT80spcg9T7K7U96u/pGRLcZ0lqiqBUkFikxVYJ2s6lxo=;zRz9ihcf5bEOx4wtQA8pwQ=="
 ---
 

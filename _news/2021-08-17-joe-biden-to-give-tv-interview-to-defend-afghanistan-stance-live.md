@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden to give TV interview to defend Afghanistan stance – live"
-excerpt: "President to speak to ABC’s George Stephanopoulos on Wednesday after n"
-publishedDateTime: 2021-08-17T13:14:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news?page=with:block-611bbe038f08cf238eadd1fa"
-webUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news?page=with:block-611bbe038f08cf238eadd1fa"
+excerpt: "President to speak to ABC’s George Stephanopoulos after n"
+publishedDateTime: 2021-08-17T12:22:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
+webUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
 type: article
@@ -866,6 +866,6 @@ related:
       domain: usnews.com
     quality: 33
 
-secured: "Msc0QrW2Y2OYqCkVe8oVBpXwPp1p8UdfLnOykw8glMBIMjgM2UxQPgmzN5ah2+ErQlNEFm7zsvo6GfBNgHj6gR1YjmLDI/owhatrSvLTUbFVwtfk7HauM3XmJ0/S9/SLx+PxZsoU9lo+51jzsYP/Q/9R2+CbK7u+XHma2vLBYYQXO6WdrdbNTjMGmpnXwKQF2sVFXoRJAtco1dAkcinmj2MjhVQs4yUoUQyICQCr2IE+LSqxLRkGZqJvVeIDenJTM0PohhcQcKJb8Pw1DKQ1dnJufvHMN0hTJTeEfuToNEpNs+gLBcR42LhHaUrFP7V+pfhESGONjR8YSG4SgDpaL+CQtu5CqtejmYg96ajt0jw=;F0i1w8evyQpRY3mxfdYDoA=="
+secured: "oqXo+Aeya97FPdQNlQmJuQrrdsQoenLNCryrqFESsrpSyz9n2IsOhTrmnMtx5EqRISu3EOmfjJ01SuCwMwDjd2HkqHvYT+exPgoQ54cLp4Wf6l7K6JUH08m16TZZQig902JNrnPGLsbPJJPQKPRQydo0xKVBRdzsfwyk18l39lcRhXrREkt84Mr8p7oJSOPJzNymeKpiXHOOeTZWxggmgVSdk37RaoJwF4B6N6kAmSuTVFtq0fq+m8m70VF/m87Y1ACDa0K5+BC2zEBDcsTRZ1pHqZpRc1gXlewgM0jWRDvgO2MLJBj8GJ4F5Fvok4Nh5Lq4x2YLIwuO+WWTjV5C6oPeOPRCVkvwuS4kA5cVh/c=;P6Nc6p/SkJDLxmJbWxFr+w=="
 ---
 

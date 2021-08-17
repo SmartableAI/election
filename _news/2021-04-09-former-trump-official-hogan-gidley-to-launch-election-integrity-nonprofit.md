@@ -127,6 +127,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden, Trump trade accusations on Afghanistan"
+    excerpt: "Amid the chaotic scramble at Kabul’s airport to evacuate the remaining Americans and U.S. allies out of Afghanistan following the lightning fast collapse of the Afghan government and military at the hands of the repressive Taliban forces, a blame game of sorts has broken out among President Biden and"
+    publishedDateTime: 2021-08-17T16:07:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2m55mPR097o/biden-trump-trade-accusations-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-trade-accusations-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-trade-accusations-afghanistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden administration announces sky-high border numbers, looks to blame Trump"
     excerpt: "Border officials encountered 172,000 migrants at the border in March, a 71% increase from February and the latest indicator of the extent of the crisis at the southern border -- but one that Biden officials are trying to blame on the Trump administration."
     publishedDateTime: 2021-04-08T14:17:10Z

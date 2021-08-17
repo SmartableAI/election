@@ -368,6 +368,38 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Gavin Newsom 'incredibly proud' of Biden amid Afghanistan debacle, doubles down on campaigning with him"
+    excerpt: "Embattled California Gov. Gavin Newsom said he is \"incredibly proud\" of President Biden amid the blowback from his botched Afghanistan withdrawal and doubled down on campaigning with him."
+    publishedDateTime: 2021-08-17T17:06:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NpRk0ShaEsU/gavin-newsom-biden-afghanistan-debacle-campaign"
+    ampWebUrl: "https://www.foxnews.com/politics/gavin-newsom-biden-afghanistan-debacle-campaign.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gavin-newsom-biden-afghanistan-debacle-campaign.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f18efe6-404a-4e2c-b361-15a6d9a9bc12/671f0271-fb6b-47cd-b5e6-d2efaf051978/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "House Armed Services GOP demand Biden plan to prevent terror groups from using Afghanistan as 'safe haven'"
+    excerpt: "Republicans on the House Armed Services Committee demanded President Biden provide Congress with a plan to prevent terror groups from using Afghanistan as a \"safe haven\" after the Taliban takeover, while criticizing his response to the worsening security and humanitarian situation unfolding. "
+    publishedDateTime: 2021-08-17T16:30:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RC7e4wJkRa8/house-armed-services-gop-demand-biden-afghanistan-plan-terror-groups"
+    ampWebUrl: "https://www.foxnews.com/politics/house-armed-services-gop-demand-biden-afghanistan-plan-terror-groups.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-armed-services-gop-demand-biden-afghanistan-plan-terror-groups.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "‘Do you miss me yet?’: Trump slams Biden over Afghanistan, inflation"
     excerpt: "Former President Donald Trump lashed out at the Biden administration’s handling of Afghanistan, rising inflation and illegal immigrants, asking: “Do you miss me yet?” The attack came as the"
     publishedDateTime: 2021-08-13T15:32:00Z

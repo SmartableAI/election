@@ -296,13 +296,13 @@ related:
   - title: "What President Joe Biden said in his address on Afghanistan"
     excerpt: "As criticism of the president mounted, Biden addressed the country as the Taliban took control of Afghanistan and chaos overtook the Kabul airport."
     publishedDateTime: 2021-08-16T23:06:00Z
-    webUrl: "https://www.statesman.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
-    ampWebUrl: "https://amp.statesman.com/amp/8157340002"
-    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8157340002"
+    webUrl: "https://www.azcentral.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/8157340002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/8157340002"
     type: article
     provider:
-      name: Austin American-Statesman
-      domain: statesman.com
+      name: The Arizona Republic
+      domain: azcentral.com
     quality: 75
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/08/16/USAT/d4d75f62-840d-41fd-beeb-ff0dd19fe7ce-AP_Biden_US_Afghanistan.jpg?auto=webp&crop=4783,2691,x0,y159&format=pjpg&width=1200"
@@ -622,6 +622,6 @@ related:
       domain: cincinnati.com
     quality: 13
 
-secured: "RlCCPMFC9R/qpKkghDhkZP0Q+t6mUwjq2hWaVFNW/lMMQh7hQPejJ0qrySR44X+Fdw25uPXZIVicX+y98nj8IPxQ3W5FipqwLqN7i+/J7N/TgYGonQKS926ViKjPKIevpy7Iwcp9C9hQnByygke4zUiQ0VubkEYUwzOCf3rZTp6rY6in7gHJbZtagNtoj9kQeRzKCOdXsVJBW6spVQuF0ux80+7iwui8Iglnks2Qwrrg0oiGrM/Q8T1OZJHravyoBth/w6fKMlV2viPujnrRLrbTSPJkFLlCQ62FBwwJyZ3/eQVZ47yWn3mGnNppk5nE0zRpZxgOegnVjLMyDYf3M04x2JZ8p7mJVGc7OjpTyXQ=;b6zQwWfRbtsiFoDxMNTgkQ=="
+secured: "YsNblr72emBPu3DCz7xL7pPQ4xGSMVXCtaMcYOiukOXN7inqKP3hfKv4E+AVqlwpKfPLEUjV98oh/38Ez0R5AGXmfNgf1DGBsx9S7tErR2TR37OAWmdKhRw1xFTy/6nHv0QM1M+WitrBEEUyazqtSQXdWfWBCYkYFIFaLLxkCaZHF22uu2S2sQzfygRkTIX4DIrtCg8JTnRoEOwwA6oJZjuWTYabYCgDWwj4lbpVmE11w8QmNuNEW6TMs0ELPCndTWdGlQ+uB0diYVGwB9u+B5Sk329SD30CEM8jBaY+fFiTwzAR6Juqp+i6wAkkz14DRhJAUEMj0qsXDMHsQNCAY26hErdDR+nZtBwATyAE8UYihNFZU0pf+aQts4votCVlEKQeZSHAoDNZnivZG3FP+GUlRxsCkn+tYBdkr+zg5ivAgqoL0DeNuzXTl2bCXOKXKv+FLHYMY+cryBqv9O58kxnWADsACCMmwnXILTFzl5BSU3KyjU29LLWMrQ517TEKqbUOgB6jKJklG/aXrVJLig==;S8+S2SFr577jnOCRJYYUdA=="
 ---
 

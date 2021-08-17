@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Joe Biden’s Kabul Is Not Gerald Ford’s Saigon"
+    excerpt: "Americans saw Ford as a president who had lost control of the levers—abroad and at home. That’s not the case for Biden yet."
+    publishedDateTime: 2021-08-17T17:04:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/08/17/kabul-biden-afghanistan-ford-saigon-505552"
+    ampWebUrl: "https://www.politico.com/amp/news/magazine/2021/08/17/kabul-biden-afghanistan-ford-saigon-505552"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2021/08/17/kabul-biden-afghanistan-ford-saigon-505552"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/c3/8a/54ce2ab14f8d9278b296d85eb663/ap353665549628-1.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
 
 secured: "HaQ6HcraHKdN5kWCdhKdUVrpQep4+uqeD3AsaAIef9OZBlGeYoGRFmSElN2v0E5v35xTiZLftoNWJ/rkoDvwb4EvB6Di3SxQz+ISbTAr+z0Je0VIwCLl31UyI5YFNWJOe9cJrCVhUnDGncJIbnMhEITAT2g/FUKgBONghYuc9sTBp18tn0DIZy1ktLAqZLch9ZKndRX5Ar44MU7W1+o9EsBSd6tM+/QhZy6WUUMDxbZDMoY1AjlmHucpYJBQXuGzRuvm8+pOIEPWlK3ru/5UEwyjjtAZ+xz40uZc0/Zj/0jtzKX87Z9bXrb4jnOTKQ1R2Npn4WTDlejfX+97a1PEIezk9eePeGu+lc8RGhoBVs4=;/wXpcYCJ6VBnt//PAUQmcg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/candace-owens-says-joe-biden-hiding-like-li
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/candace-owens-says-joe-biden-hiding-like-little-b-afghanistan-falls-1619586?amp=1"
 type: article
 quality: 121
-heat: 161
+heat: 181
 published: true
 
 provider:
@@ -32,9 +32,9 @@ images:
 
 related:
   - title: "Joe Biden on Afghanistan: 'I stand squarely behind my decision'"
-    excerpt: "I stand squarely behind my decision' Up Next. How it happened: The Taliban advance. Video, 00:01:49How it happened: The Taliban advance Images show decline of California's 'life source' Video, 00:02:49Images show decline of California's 'life source' Afghans cling to US plane taking off from Kabul."
+    excerpt: "I stand squarely behind my decision' Up Next. Afghans cling to US plane taking off from Kabul. Video, 00:01:10Afghans cling to US plane taking off from Kabul Video, 00:00:32'I can't believe the world abandoned Afghanistan' 'Women won't be silenced by the Taliban' Video,"
     publishedDateTime: 2021-08-16T21:03:00Z
-    webUrl: "https://www.bbc.com/news/av/world-us-canada-58238557?at_campaign=64&at_custom2=twitter&at_custom4=736F426C-FED2-11EB-BDD5-D9FE4744363C&at_custom1=%5Bpost+type%5D&at_medium=custom7"
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-58238557"
     type: article
     provider:
       name: BBC
@@ -60,6 +60,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/facebook-and-twitter-banned-donald-trump-over-his.jpg"
         width: 1024
         height: 662
+        isCached: true
+  - title: "Anna Paulina Luna addresses troops, Amanda Makki calls for Joe Biden resignation in response to Afghanistan crisis"
+    excerpt: "Florida’s 13th Congressional District GOP candidates Amanda Makki and Anna Paulina Luna are responding to the fall of Kabul to Taliban control after American troops were pulled from Afghanistan. The candidates,"
+    publishedDateTime: 2021-08-17T16:29:00Z
+    webUrl: "https://floridapolitics.com/archives/450940-anna-paulina-luna-addresses-troops-amanda-makki-calls-for-joe-biden-resignation-in-response-to-afghanistan-crisis/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 33
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/08/makki_Luna-scaled.jpg"
+        width: 2560
+        height: 1920
         isCached: true
 
 secured: "wkNJnMNgSm975jNBsv3uIuYsHwjwBK37Lfro2lAhUjEVS/mrJiKtJdZe6wc5uE3++TL4KLkLhap66uV9qSEfc1xcQGNqWrgulty9ibcX1CYwXXGo85GqasiOXqU35lLX1FHN6vyDLy/z6R8AsTnIIWscAWdfhhceJNZPOCUVBoKcfHI0u5f8wyGCt63R4RNJNRYZaEm76X9Tb6zKmEChH4VTjGs+q6Vfh3r0yTcRKBH4BNO2yx2PKp9Pe2Zyur25IFy9TnycCeqw4tuXPlEznuSMQA0CS7oYVz2mOZckcFhCP5dEMY6NV7+m+wSdS1BUrUQCbym0+68Hk+FCLZfzFxGKgv2qoTqEvMypsbN+ZT+zbMVWHqoACPBu4LwlOdiUNofsTg/5bVb2PIkYQhULIL4JViu0shLm+4mLHtNCqSJCTqKLKcJuNO07h4CgFufPVkOWpg4hB2tPbyc/c8crr/DA+nK6yVzEJIuNP0A0sQN93IJCBs6P7oqv3SU/eo/ktS7ittSVDyHuHFruQWO95g==;RkXGoSknHbM8O28tOm5w9A=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/15/politics/biden-administration-tal
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/15/politics/biden-administration-taliban-kabul-afghanistan/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210810154230-07-biden-harris-remarks-0810-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Joe Biden’s Kabul Is Not Gerald Ford’s Saigon"
+    excerpt: "Americans saw Ford as a president who had lost control of the levers—abroad and at home. That’s not the case for Biden yet."
+    publishedDateTime: 2021-08-17T17:04:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/08/17/kabul-biden-afghanistan-ford-saigon-505552"
+    ampWebUrl: "https://www.politico.com/amp/news/magazine/2021/08/17/kabul-biden-afghanistan-ford-saigon-505552"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2021/08/17/kabul-biden-afghanistan-ford-saigon-505552"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/c3/8a/54ce2ab14f8d9278b296d85eb663/ap353665549628-1.jpg"
+        width: 3000
+        height: 2000
         isCached: true
 
 secured: "/SqI6bT2Nu7rPVCEckKKhPo89dm1epXDWKA9FdhhfwYB8qnVQ0jxmHen3puGx8mespVJVPQAjUdYds/CyqoD30MS6cd4Ar995ehRrwUN8bOsmrHLLFW06zi37+sAjXhvQbAWqluA596qGuLQt0DNgK1TAUAvBwivHxQkpXCZB7HQxaUyh7N6iHPX7bMvPCCU8EZbhvyjtA0s4VsffypH0tTCT64FPjkAsYoShx/F5d2LRD1A0FFbLLI/f2M93rFsut1uM/CIC/OAouXbNgCm5SQfP7rMc6jEcQ2U/0I34BpLX7cD+s0WYTFjYf3/QjBtX18Z9hvoam6NkLfogRuN/LfDD1ga7FX+ANGzBUFS/+0=;sJRCfHc4G84BBBz7fsBT5g=="
