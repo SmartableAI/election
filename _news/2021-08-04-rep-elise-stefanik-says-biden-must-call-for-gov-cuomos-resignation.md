@@ -48,22 +48,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Biden says he 'respects' Cuomo decision to resign, say disgraced gov did 'a hell of a job'"
-    excerpt: "President Biden on Tuesday backed embattled Gov. Andrew Cuomo's decision to resign amid a scathing investigation into sexual harassment allegations while saying the New York governor did “a hell of a job.\""
-    publishedDateTime: 2021-08-10T19:46:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-lvC99EzNRg/biden-respects-cuomo-decision-resign-sexual-harrassment-allegations"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-respects-cuomo-decision-resign-sexual-harrassment-allegations.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-respects-cuomo-decision-resign-sexual-harrassment-allegations.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "gMa6avX3BBZHpNZF09OF0vrSZq+w89oPIj1BSE/hFKbic7KFmymVacCPCzaXsR0g/4ivleW+e3GD9tqsSOyhoc2Wr3OSwvywFISaxuUqMgwZZGjSgOPEwT+P/wAqWvNerdZlpt5yKKctTEGbucNpNH9kUpgq/QWNKHq84odgNlusHscbxPRTaSybIhXnKNYhtUYQvF4ONA1Q7LYLWxVQfqedhy/BjILeqBnDPQftPgHWoTJsFFVpygBbqU4eK7KMe9gzUmm7Db4Jn/nztDJVGvJONpEAVFcK0QyWDoAee4jZCzwhQoDLcd4kqa3ZFRCinreekel6ydt3HY4gAE9nbwBIK76tw/uRj4Zu3d1nR3o=;kAAx1g9TlMXwyaEmYtaVEQ=="
 ---

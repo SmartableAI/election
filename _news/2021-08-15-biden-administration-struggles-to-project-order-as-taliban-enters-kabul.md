@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/15/politics/biden-administration-tal
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/15/politics/biden-administration-taliban-kabul-afghanistan/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden administration expected to advise Covid booster shots for most Americans"
+    excerpt: "Top health officials in the Biden administration are coalescing around an agreement that most Americans should get Covid booster shots eight months after becoming fully vaccinated, two sources familiar with the discussions tell CNN.\n    \n"
+    publishedDateTime: 2021-08-17T03:27:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DwyirojZha8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/16/politics/covid-19-booster-shots-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/16/politics/covid-19-booster-shots-biden-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401061941-01-moderna-covid-19-vaccine-texas-0329-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden struggles to find a permanent FDA chief as agency nears approval of Covid-19 vaccine"
     excerpt: "The US Food and Drug Administration is on the cusp of approving the nation's first Covid-19 vaccine without a permanent leader at the helm, and a nomination doesn't appear to be in sight.\n    \n"
     publishedDateTime: 2021-08-11T17:19:56Z

@@ -176,14 +176,14 @@ related:
   - title: "Afghanistan War: Liz Cheney Slams Joe Biden, Donald Trump As Kabul Falls To Taliban"
     excerpt: "Wyo., slammed the Trump and Biden administrations for its handling of the U.S. withdrawal from Afghanistan. She suggested Trump instigated the problem and now Biden has continued it. Afghanistan President Ashraf Ghani fled the country on Sunday,"
     publishedDateTime: 2021-08-15T20:42:00Z
-    webUrl: "https://ibtimes.com/afghanistan-war-liz-cheney-slams-joe-biden-donald-trump-kabul-falls-taliban-3273963"
+    webUrl: "https://www.ibtimes.com/afghanistan-war-liz-cheney-slams-joe-biden-donald-trump-kabul-falls-taliban-3273963"
     ampWebUrl: "https://www.ibtimes.com/afghanistan-war-liz-cheney-slams-joe-biden-donald-trump-kabul-falls-taliban-3273963?amp=1"
     cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/afghanistan-war-liz-cheney-slams-joe-biden-donald-trump-kabul-falls-taliban-3273963?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 94
+    quality: 84
     images:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/05/us-house-republican-liz-cheney-and-senate-minority.jpg"
         width: 1024
@@ -393,20 +393,6 @@ related:
       name: Lexington Herald Leader
       domain: kentucky.com
     quality: 55
-  - title: "Joe Biden on Afghanistan: 'I stand squarely behind my decision'"
-    excerpt: "The US president says the quick collapse of the Afghan government shows why America had to withdraw."
-    publishedDateTime: 2021-08-16T21:15:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-us-canada-58238557"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 55
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/16693/production/_119959719_p09sds1d.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Susan Collins hits Joe Biden for Afghanistan ‘chaos’ with Maine delegation split over exit"
     excerpt: "As the Taliban consolidates its sweeping control over Afghanistan, the opportunity exists for the country to once again become a safe haven for Islamist terrorist groups targeting our country,” Collins said."
     publishedDateTime: 2021-08-16T19:34:00Z

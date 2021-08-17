@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Arrives at Fort McNair in DC"
 excerpt: "President Joe Biden arrives at Fort McNair in Washington, DC from Camp David on Monday, August 16, 2021. President Biden is expected to make remarks on the situation in Afghanistan later this afternoon."
 publishedDateTime: 2021-08-16T17:47:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/efbfdcaedaf2160ee05ec88b5aefb886/President-Joe-Biden-Arrives-at-Fort-McNair-in-DC/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/efbfdcaedaf2160ee05ec88b5aefb886/President-Joe-Biden-Arrives-at-Fort-McNair-in-DC/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/09c2052fb62aecdd8f1bb3b42640ae29/President-Joe-Biden-Arrives-at-Fort-McNair-in-DC/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/09c2052fb62aecdd8f1bb3b42640ae29/President-Joe-Biden-Arrives-at-Fort-McNair-in-DC/"
 type: article
 quality: 55
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/efbfdcaedaf2160ee05ec88b5aefb886/BIDEN-AFGHANISTAN.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/09c2052fb62aecdd8f1bb3b42640ae29/BIDEN-AFGHANISTAN.jpg"
     width: 650
-    height: 975
+    height: 433
     isCached: true
 
 related:
@@ -606,6 +606,6 @@ related:
       domain: cincinnati.com
     quality: 13
 
-secured: "HgXfNZ9FUHz+WsC/jW9L/2N8/S4qbFYFYJkz26RkOmPYSw44HeC+PMbPgGVcyGHbPCZtY5VJKPdgjsl1o9CBffl3SJanQ3o2G11v78qywDdblGwELhas5Hakld/OzLHkK53J1qEFXzlWBgwpxoJwTgsZe1SAZTJks3Up+1EyC9wimRjvWE7CdeYowlw1Mz2T+o2CeOMUSx3xofXc4pw5J4FL2TxZEwEK+AdG1+fNhNFIqUSWOy4Gz11638uCu2tC8EeGtUWv7xuSI37IQ5DWQ6YfliUcpsSfr8biq3SK1mZcKXyt/e/LU41ojUZpFTOMlzPSntNlXnYHFCOEb2Ttqxv6xVl0/2K0XSXlUFV6UbPo8Q6OrZyrZ2Cp9FRYXwrmPLe5dHXq1F7tq9n5DRY9dlxyebfEpbc1v92K3P70Jc417Brs+7bNwlGVd7croPAgfZsggaO3pcnp59h0Z7IN8fhYnHtHAtKtO8Z0n64S8GCKWNz9pV2s2D9GOgLOpk2Ee2C7DPaNmKeWFWDIt4YToQ==;SXAd5AKJLjWe/2icI7uxaA=="
+secured: "YYv+/T7/GeeJ9Hdc9X+bDtIHfJzDEJa8niJr4p/o9ql0SVt96Mt+zAJFQ3ODQcpBQstr2RTWa5Hm7aQ3jsJCvhlOgxVQNLrJ4YuOHv5cNM7jnYlh8mMqZ9dTNXyoZTZm0+ZX3fYtt5O9i5zXv5YwFd1lKkhnceBT3G2Y15MSuy3EMEHkbOmKMs3c+k9Fk7Z+b+5U0zylUlI877GXTlnqqM1zIDVuxsARkOsAUg9QD0Ds2FZ86+BU1ecbcc9xLlsCzq4pLUlVeJNo6qcwd2Ee1zKeHYd5K0pFUXofVxc8KmvtkbiQPvBOb5RqgY+zi/n3zq2CZFA4Z4HjgGfYAUSCp0pMeShLHsJFbWMbgNgPgRU=;jnM0R58aUb0bfohnpyIH3A=="
 ---
 

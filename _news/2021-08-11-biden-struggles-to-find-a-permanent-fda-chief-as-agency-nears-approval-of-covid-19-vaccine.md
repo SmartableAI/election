@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration expected to advise Covid booster shots for most Americans"
+    excerpt: "Top health officials in the Biden administration are coalescing around an agreement that most Americans should get Covid booster shots eight months after becoming fully vaccinated, two sources familiar with the discussions tell CNN.\n    \n"
+    publishedDateTime: 2021-08-17T03:27:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DwyirojZha8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/16/politics/covid-19-booster-shots-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/16/politics/covid-19-booster-shots-biden-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401061941-01-moderna-covid-19-vaccine-texas-0329-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "RqtvBiGIDltnxmADmN6zKOJ4vxCLfiM7/TDpS3U8TFve/bRDc0LgDUVwuJk2D3YR1B6ijeF0fTqX4gDVb3dalkgxBLANtxJvq6cPC07SVlfH79N+mE1wdWbhXHCeNsOyu2V36rW3svCvkKBcUEXHcmemWxgFNhK3Hs9CFDp5FkYwXDbZ6YmyJJ81AlUo9Yx4CrWe1W8wM6JtP3RV//9mNM12Ny8YMoUaJXAUR9BtrHK42L4XinG7JxvBTc0/Zj554EbWoEEzc3A8rhk1IimFoE3eZkipDqyT/Nc4GWN7xOOvJwvUPPCWH8siz3bN2uUn4HyloAINfreVi30L85YzW9e7RORWPsUQwFjCtUFeUZk=;fZDYaV9+HXnJak5s7LzbCw=="
 ---

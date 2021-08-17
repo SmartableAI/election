@@ -3,12 +3,12 @@ category: news
 title: "Afghanistan War: Liz Cheney Slams Joe Biden, Donald Trump As Kabul Falls To Taliban"
 excerpt: "Wyo., slammed the Trump and Biden administrations for its handling of the U.S. withdrawal from Afghanistan. She suggested Trump instigated the problem and now Biden has continued it. Afghanistan President Ashraf Ghani fled the country on Sunday,"
 publishedDateTime: 2021-08-15T20:42:00Z
-originalUrl: "https://ibtimes.com/afghanistan-war-liz-cheney-slams-joe-biden-donald-trump-kabul-falls-taliban-3273963"
-webUrl: "https://ibtimes.com/afghanistan-war-liz-cheney-slams-joe-biden-donald-trump-kabul-falls-taliban-3273963"
+originalUrl: "https://www.ibtimes.com/afghanistan-war-liz-cheney-slams-joe-biden-donald-trump-kabul-falls-taliban-3273963"
+webUrl: "https://www.ibtimes.com/afghanistan-war-liz-cheney-slams-joe-biden-donald-trump-kabul-falls-taliban-3273963"
 ampWebUrl: "https://www.ibtimes.com/afghanistan-war-liz-cheney-slams-joe-biden-donald-trump-kabul-falls-taliban-3273963?amp=1"
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/afghanistan-war-liz-cheney-slams-joe-biden-donald-trump-kabul-falls-taliban-3273963?amp=1"
 type: article
-quality: 94
+quality: 84
 heat: -1
 published: false
 
@@ -23,7 +23,6 @@ provider:
 topics:
   - Election
   - Donald Trump
-  - Joe Biden
 
 images:
   - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/05/us-house-republican-liz-cheney-and-senate-minority.jpg"
@@ -394,20 +393,6 @@ related:
       name: Lexington Herald Leader
       domain: kentucky.com
     quality: 55
-  - title: "Joe Biden on Afghanistan: 'I stand squarely behind my decision'"
-    excerpt: "The US president says the quick collapse of the Afghan government shows why America had to withdraw."
-    publishedDateTime: 2021-08-16T21:15:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-us-canada-58238557"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 55
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/16693/production/_119959719_p09sds1d.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Susan Collins hits Joe Biden for Afghanistan ‘chaos’ with Maine delegation split over exit"
     excerpt: "As the Taliban consolidates its sweeping control over Afghanistan, the opportunity exists for the country to once again become a safe haven for Islamist terrorist groups targeting our country,” Collins said."
     publishedDateTime: 2021-08-16T19:34:00Z
@@ -446,6 +431,6 @@ related:
       domain: usnews.com
     quality: 31
 
-secured: "Iphhq7BALX8TReMpgi8RhBOHI+MqdM9Qsq/HIZ1PP9MJH/y7QzqXUG5v8mP6RuXfhygnI2hPPY24DaSy3sKn9OPDEqhH0E8ZvVAc78NNuFTUCYGkUwngDg/h4Tl2VHHixaFuwIitbOH0zHfi+pFmnS8B24CFHGhmaJoYv1xgKJk/zTwWpclbL/sjyWt1dlEwcoHE2lEydcnu242MQTqtTvaq5cYB+NHnUYicFcqE8sbZPhHluiegaJxWUWJ6X8VmpjSf2zrh1cJoTsV+KNKPPaeqVvGRKkgpa2LjBZkmHtlslbHFbEXVuOM+A2ghMhQIMT0oilxr5yPtCVLtv4x8x80n5ZmPmypL9jIGLXAVNcsi9R/M45wRorKmaHbrc1w8u0oWVH8VDkhkUt8AWKTwHfF6jVqjPmgjFDxzl/34NzsQm8JBsiWe8zDOxQMDcnlghbPSC0EmV87ClZMu2f24HRjTFJjAiL3YY+ftobkjyWJh7qN4sbhtGw9VUV+PPgqUWX3WZtGHjbHFYOGkwbVjnw==;edWle5Si9VUuq+MjJHWC9g=="
+secured: "1VdmDIQotFaFziGCKVdo6D6w0tMpINipDAPj6pHVaGEbhr/UvKf01TKoQCOF1yt9VZtEsiYXIF0SdqwYy5HxiZPN+hw5X3k0Xs+4cT7X/fao+zNlobfZH6/A/XWMYdCL3Pgh+jS8HCOstQMnuymAfxXyHMEC4DGeZ7UiwEYEiRvCXqA3+o+nqbRuYLwERfibJvrKSJnrf1lA05Q0Fev2IOkaXAarFQworQxuD8XXlBGTzsB42zhDoj/Q0WqdSIOOgh8S/z7WMBGNicz+Kdq5aAl2zkVdZUb1Vxmar9FVU023IA5VN4CLhXH2Br77kjGLwT2RwzHnVA1FUz8pSc/e4Mxxa+urCGyOa3slQKTqamU=;loZLL5XmhSJYHvXVa69TAA=="
 ---
 

@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump calls on Biden to 'resign in disgrace' over crisis in Afghanistan"
+    excerpt: "Former President Donald Trump Sunday called on President Biden to “resign in disgrace” over his handling of the Afghanistan withdrawal and other issues."
+    publishedDateTime: 2021-08-17T02:08:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cyT6YUTIljA/trump-biden-resign-crisis-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-resign-crisis-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-resign-crisis-afghanistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ecd8df71-ba81-431f-8bdf-f6e8d97bea4c/f44d298e-4ca6-4f7c-b579-34b93f98f4cd/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Pompeo: Biden 'failed' in Afghanistan withdrawal plan, is 'pathetic' for blaming Trump"
     excerpt: "Former Secretary of State Mike Pompeo said that the Biden administration has \"failed\" in its withdrawal from Afghanistan as the Taliban is poised to retake control of the country as the U.S. is ending its nearly 20-year military presence there."
     publishedDateTime: 2021-08-15T14:16:14Z
@@ -271,6 +287,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden says he 'respects' Cuomo decision to resign, say disgraced gov did 'a hell of a job'"
+    excerpt: "President Biden on Tuesday backed embattled Gov. Andrew Cuomo's decision to resign amid a scathing investigation into sexual harassment allegations while saying the New York governor did “a hell of a job.\""
+    publishedDateTime: 2021-08-10T19:46:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-lvC99EzNRg/biden-respects-cuomo-decision-resign-sexual-harrassment-allegations"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-respects-cuomo-decision-resign-sexual-harrassment-allegations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-respects-cuomo-decision-resign-sexual-harrassment-allegations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden ignores questions, resumes Camp David retreat after addressing Afghanistan catastrophe"
     excerpt: "Biden did not take any questions after addressing the nation and plans to return to Camp David"
     publishedDateTime: 2021-08-16T20:56:36Z
@@ -349,6 +381,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Rep. Scalise slams ‘Biden’s Saigon moment’ in Afghanistan, says admin 'got this devastatingly wrong'"
+    excerpt: "House Minority Whip Rep. Steve Scalise on Sunday slammed “President Biden’s Saigon moment” in Afghanistan amid reports that Taliban insurgents had seized Kabul and most of the region after the U.S. began withdrawing troops."
+    publishedDateTime: 2021-08-15T16:28:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/t2Fi9Vfst5I/rep-scalise-slams-bidens-saigon-moment-in-afghanistan-says-admin-got-this-devastatingly-wrong"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 140
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/GettyImages-1229658899.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "McCaul: Biden will have ‘blood on his hands’ over Afghanistan withdrawal"
     excerpt: "The top Republican on the House Foreign Relations Committee on Sunday said President Biden will have “blood on his hands” over the withdrawal of the US military from Afghanistan."
     publishedDateTime: 2021-08-15T19:15:00Z
@@ -365,6 +411,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Biden Making a Major Mistake on Afghanistan"
+    excerpt: "David A. Andelman writes that President Joe Biden should not be setting a date for withdrawal of US troops from Afghanistan since the reason the US first entered the country -- to address a major terrorist threat -- has not been fully addressed."
+    publishedDateTime: 2021-04-14T11:37:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/14/biden_making_a_major_mistake_on_afghanistan_540470.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "eYJguYgmbkTGVHL97MeyNlFAs0AgKO6KnPWNPIgKPY9LSQkH8O2dgVFCw61yrD4zdg6jcFVY2AMphu+kQcLUZFWMLRvyuQQfwBKYrKID0714dDyE7LfzwnEJ+PKLBkjOxlj6MsfR1O8KlzqF5ha+vuOYFsclx96B9Ex7jbKZ2q05AMs5SfifieNsvd0J8iep71o6P0mybzr65Gcg77GHvDwlxCIBwNkskIzFm7Qahs9mhs8MEwEAMkINv+s5BCL2PHX8rree0//bdiFQ/m0I4J2kPz8Pupa7B94HJm2dsCRCoTcGtOBz7lN3YvKJQoPU+s33OjtwUgrNIcwSr4CuhBLWkPZeBsMmd24d3wiWOXU=;LufqEXrl9EisZcvqwsls7w=="
 ---

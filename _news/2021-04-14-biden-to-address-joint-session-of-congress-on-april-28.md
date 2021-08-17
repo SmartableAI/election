@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pelosi-invites-biden-to-address-joi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-invites-biden-to-address-joint-congress-session-on-april-28.amp"
 type: article
 quality: 175
-heat: 395
+heat: 375
 published: true
 
 provider:
@@ -189,15 +189,6 @@ related:
         width: 4871
         height: 3248
         isCached: true
-  - title: "Biden Making a Major Mistake on Afghanistan"
-    excerpt: "David A. Andelman writes that President Joe Biden should not be setting a date for withdrawal of US troops from Afghanistan since the reason the US first entered the country -- to address a major terrorist threat -- has not been fully addressed."
-    publishedDateTime: 2021-04-14T11:37:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/14/biden_making_a_major_mistake_on_afghanistan_540470.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "Oiy74vWel4M+NAMcPjcbhk8ssjjW224zLPJubqqRx12RnXSvO8dpEnIuWbvmU49LahJlC3Ks/VeRDESCTw9s9tlvk1/rDwkuW6YCYe8B5rLyw02PBFv9JpTZu3rKzNL4d15bGJ3UAa+mhS0ciKCC0fKBGGdyCxKgzbZYa0LaddEqq1QZdzXgEHYdADe9J9GCZ3eJa4gpxFSMRz1SPt7Wm8o0GmqfZPYD9TN5Jwrs6lrkcaQqvd6X+q1RFcLzQg5SZ3OgLz80tbJxrf4x+mQ51RlTiq58eLSbYNstM0TpWaPfA0tH0ECXd/xdDnB+vuEq4V3RHaVHzniVPfyShag5lR7hlHc5aRGXuaO+DpnfExc=;mCL2S4La6jM0/qv4DDg28g=="
 ---
