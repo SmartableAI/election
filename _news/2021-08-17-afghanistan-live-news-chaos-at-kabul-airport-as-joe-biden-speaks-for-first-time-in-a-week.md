@@ -2,9 +2,9 @@
 category: news
 title: "Afghanistan live news: chaos at Kabul airport as Joe Biden speaks for first time in a week"
 excerpt: "US president has begun speaking on Afghanistan – and opened by saying the US has achieved its goal"
-publishedDateTime: 2021-08-16T21:07:00Z
-originalUrl: "https://www.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates?page=with:block-611acbc28f08aeaec2f2108e"
-webUrl: "https://www.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates?page=with:block-611acbc28f08aeaec2f2108e"
+publishedDateTime: 2021-08-16T20:49:00Z
+originalUrl: "https://www.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates?page=with:block-611ad9af8f08d30d155038b1"
+webUrl: "https://www.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates?page=with:block-611ad9af8f08d30d155038b1"
 ampWebUrl: "https://amp.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates"
 type: article
@@ -445,6 +445,6 @@ related:
       domain: usnews.com
     quality: 31
 
-secured: "HYDTr+QgRcrdZ2ok+T9vtvCQmV4juShFPdwF77sro9zl79AM3wh6LsvGsqn2Fnow7Mk49ieVQYNc3Ahqwii30JAeLhmwwphuNMvXtLcCILZ8QEjhenII0kNFJYKyvUqGUSMZYkYLPjOLyzP8Jm4APndKimZrwG3YnJgh5oS/E3xaOacvW3UtJcHtjeGgOJuRIc6jFp//ToODdeMXC3oB6PIBf1B/U4C3JGUd/LWcGSqvEqyBNQKU+0ulSXbvcP10NQQ1/RvBR+QdOz07Zpi1v2uxEVliq9goUKFoRmL9mm5PM7ORaSk8gs2a3TQrYx4sg7iQG8PVXdfmQerjd3JAbD6vAAStAgTWFScgu4Hf/7E=;7KDnJcDNRDDtkuI0Vle7jw=="
+secured: "wUhrIr7SIMqcDRXSHEt/HvmcdUJQ56aBcyS8hbiAAx0RGsoOyNJtWX13gewXOAoZYW8RQNxy1QUdnXg9SycR91r8HKpN1q80CiJtl5U7O9sx17zpeClg1A/Oj8PsGdzdsV3joK9qzZJN/h4yi9HiUA4W5+hwiDbi+eeR205WeGN6MyuGXy2W5dz4Kg9kIwK9wzrpuHBKME/Sjfz6ZknsywXWAw14YRUd8sNHdY5t1k8vJukdTMF6e+ywWDIxN58gNt2+Bw/EpnWtFBltCxaWmMtW2VdeCeYh/VbVBB++U9lDW04zdd02byjVPOHv69uJrCojRD+QrXwtFXk1T/yPnAS2I8hdMsAcno0VBjBNcOM=;dBsmddnGCdLWh5RazAz7qw=="
 ---
 

@@ -1,27 +1,29 @@
 ---
 category: news
-title: "President Joe Biden Makes Remarks on American Jobs Plan"
-excerpt: "President Joe Biden makes remarks during a meeting with with a bipartisan group of Members of Congress to discuss historic investments in the American Jobs Plan, in the Oval Office at the White House on Monday,"
-publishedDateTime: 2021-04-19T18:17:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/7ab59151b0e68dd9bb8daaac04173cc5/President-Joe-Biden-Makes-Remarks-on-American-Jobs-Plan/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/7ab59151b0e68dd9bb8daaac04173cc5/President-Joe-Biden-Makes-Remarks-on-American-Jobs-Plan/"
+title: "President Joe Biden defends Afghanistan withdrawal of troops | Charlotte Observer"
+excerpt: "Biden’s experience is drawing scrutiny as the president navigates the first major global crisis of his presidency in Afghanistan."
+publishedDateTime: 2021-08-17T00:22:00Z
+originalUrl: "https://www.charlotteobserver.com/news/politics-government/article253533464.html"
+webUrl: "https://www.charlotteobserver.com/news/politics-government/article253533464.html"
+ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article253533464.html"
+cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article253533464.html"
 type: article
-quality: 55
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: Charlotte Observer
+  domain: charlotteobserver.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/7ab59151b0e68dd9bb8daaac04173cc5/BIDEN-JOBS.jpg"
-    width: 650
-    height: 433
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/346c4d4c-0ebe-4577-bdbf-21c5f8e914af/554385c1-d5d0-4f0c-9b03-7bab5722a707/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -699,22 +701,6 @@ related:
         width: 480
         height: 320
         isCached: true
-  - title: "President Joe Biden defends Afghanistan withdrawal of troops | Charlotte Observer"
-    excerpt: "Biden’s experience is drawing scrutiny as the president navigates the first major global crisis of his presidency in Afghanistan."
-    publishedDateTime: 2021-08-17T00:22:00Z
-    webUrl: "https://www.charlotteobserver.com/news/politics-government/article253533464.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article253533464.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article253533464.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 70
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/346c4d4c-0ebe-4577-bdbf-21c5f8e914af/554385c1-d5d0-4f0c-9b03-7bab5722a707/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden authorizes 5,000 troops to Afghanistan to assist with 'orderly and safe' withdrawal"
     excerpt: "Biden said he's authorized additional troops to help with \"an orderly and safe drawdown\" in Afghanistan as the Taliban continued to make rapid gains."
     publishedDateTime: 2021-08-14T21:35:00Z
@@ -746,6 +732,20 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UUBCGQS7UNA33MIQ7EM4662YNU.jpg"
         width: 5472
         height: 3648
+        isCached: true
+  - title: "President Joe Biden Makes Remarks on American Jobs Plan"
+    excerpt: "President Joe Biden makes remarks during a meeting with with a bipartisan group of Members of Congress to discuss historic investments in the American Jobs Plan, in the Oval Office at the White House on Monday,"
+    publishedDateTime: 2021-04-19T18:17:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/7ab59151b0e68dd9bb8daaac04173cc5/President-Joe-Biden-Makes-Remarks-on-American-Jobs-Plan/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/7ab59151b0e68dd9bb8daaac04173cc5/BIDEN-JOBS.jpg"
+        width: 650
+        height: 433
         isCached: true
   - title: "Joe Biden sets Aug. 31 for US exit from Afghanistan"
     excerpt: "President Joe Biden says the U.S. military operation in Afghanistan will end on Aug. 31, delivering an impassioned argument for exiting the nearly 20-year war without sacrificing more American lives even as he bluntly acknowledged there will be no “mission accomplished” moment to celebrate."
@@ -846,6 +846,6 @@ related:
       domain: usnews.com
     quality: 33
 
-secured: "vWvZp0GAgj0EwlEAceDXLP1KUJ0Ga1lJVLa6lZ6He4hsHbhBq9HPmV37hva736JcOeOcyotVT6VQ1Wn00l3SL13g8X6nrxj8nGTEI/p7iI7TnFaBWNo5hK9ZVb80zJg0G+QNj6vLovRXhrJTAXP49OvauqXeZm4+7Nxlp/NLEf/PDD3AmQCyIlyolEcxGOQtSt1tqGFghNuI9W9N88RWzGZtK7WwFoWz7Y+ixKO93fHRlDi+HTlrseDRP00nYxKbdRNQajwt+WrQA8AgMAAL4Z++peuyOamnJCG6UUxj8kZtt8rmifMXN3YnG37t9MdC0lXzHPRTcB9dWqG+KoPBNYhyC3EzdSrmEAHQ26T9mEU=;3tc5UHLoqfPEZ5l6lB2SkA=="
+secured: "tjE9YskzkDEDCgYl7Ub8YMTTS1jf0D6EQ8ASVFkYU74WivouO5W7Fk+zfavbR+LrLtmmCD5Ek8OETt6Q5Z7KHmi5cI+48f+4HHZa28OEsDW0JbshDJ7XaBhq4zro6zUKiMBhS33y+6ZZwzSqsVdjg1rvyROe89E4kWDR0leTOTZTFPmA9uDPoSIn3a2Kuvn3qLU6NiUWwJc4UIE3PerbFWcqX11M53bP1grdH3ZWMw5afcjUCTIvOAP1/kPm2AN73Pny0kJLJstLdRoamaOsmV6WA6Kzg8Q4hvPB38ZreUqcFX0s/mh0aoZx0vFfNIqlw8ZDSawOXv0oLmHpZ4J3RdyYWu9umbpNzYtzZPdqDU8=;+w8JFmtzMXcG9RbgooTR1Q=="
 ---
 

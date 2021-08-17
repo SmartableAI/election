@@ -113,8 +113,8 @@ related:
         isCached: true
   - title: "Afghanistan live news: chaos at Kabul airport as Joe Biden speaks for first time in a week"
     excerpt: "US president has begun speaking on Afghanistan – and opened by saying the US has achieved its goal"
-    publishedDateTime: 2021-08-16T21:07:00Z
-    webUrl: "https://www.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates?page=with:block-611acbc28f08aeaec2f2108e"
+    publishedDateTime: 2021-08-16T20:49:00Z
+    webUrl: "https://www.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates?page=with:block-611ad9af8f08d30d155038b1"
     ampWebUrl: "https://amp.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates"
     type: article
@@ -445,6 +445,6 @@ related:
       domain: usnews.com
     quality: 31
 
-secured: "FqMLpIZY7Pv8CVB1SwnzFqHFsLRcwqMLEHjt1Jq7ipotoyPLBd8y+fB95LCrsgqvNAmEq6hk+KZLnv9kLgq9eAxPiMz55w4nHsGxbINhTbZsTTpPyh9OyM60xd17Z5fyF9RyWFVDIvICQ7gv2zmbwPn8hi010Bm4pAkotkYw6G3qTQYtEkGm1Px+ccT48eE7TXieyWMVO/++1TErq1kDuzRPLia+3aoeBBoiDPc2WvoKF75lAu7z5fLb7wsnV0/pwCDCVz6Cs0vVjEg/6R2o3dGyxmi1H4QpkF2VSLyCaSy9pTeMaGJPie9vl7Mr/9MxZ4T6A16tM9K350g4K0e2ZJSf6V4pfEJabrqUjl1e6vk=;tVteEQhfThEGrpLaPtfnaQ=="
+secured: "Y8mz/sRTXNeP1N3oeJdwa1yidclMfODtdyYuPrcy6yITWf6MsmxX1n33j3AW/38Rv5WbWFumnvpqUDWFk2FYLD1YCMOFIAf81wjXy3519sIE+bCJs0g+ZmqDn1JCA/aEitpuiG79pOHC2Rrvzv0aHsLIfHb+Ziyp/YsFiX91b4DYJxyMi5+gEH7iODlAkp97stv/8gKz39ohS1IERjF0u1aOUeapHfQ0BWTzeewvm0U4Ky4HvI/n+3IYZ0niEUt2YLBcYouaSNS3E/CGPJqR0XDXOU7zSjKFpS9pichAWwBqtwPFE7ipys6KsIO9TD2FSq+XW/iJdKKOKsTTWMB4rAOi4ODiv/gCBtLFQ94FZcqJ96V7dOP9mgqqOByWq9WO+zOCg/TwmAYL0ZTiFQNYs1KUkNTvDDUvGThlokU6NDvbQjc2mDGj6FZXxr/xFt/S935dU+xuyqHXGtlTPpCB6tzpqPnzSuFm7p6cWUClWKIUsVcF/51NkJlej76t9jUfa3HI4YxtchhKqeziOyNJ6g==;SW3WFfSG0ZTzLHwIf8s1yg=="
 ---
 

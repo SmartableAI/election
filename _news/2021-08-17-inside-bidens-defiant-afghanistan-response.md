@@ -1,14 +1,14 @@
 ---
 category: news
-title: "GOP Senate candidates align with Trump in bashing bipartisan infrastructure bill"
-excerpt: "Sen. Rob Portman, the longtime Washington veteran and savvy deal-cutter, is on the cusp of achieving a major bipartisan achievement that would amount to a capstone of his three decades of public service: The Senate's passage of a roughly $1 trillion package to rebuild the nation's infrastructure.\n  "
-publishedDateTime: 2021-08-06T17:54:49Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KO4QOhKUq7Y/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KO4QOhKUq7Y/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/08/06/politics/infrastructure-republican-senate-candidates/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/06/politics/infrastructure-republican-senate-candidates/index.html"
+title: "Inside Biden's defiant Afghanistan response"
+excerpt: "By the time images of desperate Afghans clinging to American warplanes began emerging from Kabul on Monday morning, President Joe Biden had conceded to aides he had little choice but to interrupt his stay at Camp David to return to the White House.\n    \n"
+publishedDateTime: 2021-08-17T00:42:32Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Uj6tzd6qzXE/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Uj6tzd6qzXE/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/08/16/politics/white-house-afghanistan-biden-crises/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/16/politics/white-house-afghanistan-biden-crises/index.html"
 type: article
-quality: 170
+quality: 175
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210806094525-josh-mandel-2014-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210816162517-03-biden-afghanistan-remarks-0816-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -127,22 +127,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Inside Biden's defiant Afghanistan response"
-    excerpt: "By the time images of desperate Afghans clinging to American warplanes began emerging from Kabul on Monday morning, President Joe Biden had conceded to aides he had little choice but to interrupt his stay at Camp David to return to the White House.\n    \n"
-    publishedDateTime: 2021-08-17T00:42:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Uj6tzd6qzXE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/16/politics/white-house-afghanistan-biden-crises/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/16/politics/white-house-afghanistan-biden-crises/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210816162517-03-biden-afghanistan-remarks-0816-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden spoke with Obama and Bush ahead of Afghanistan withdrawal announcement"
     excerpt: "Former President Barack Obama on Wednesday praised President Joe Biden's \"bold leadership\" for his decision to withdraw all US troops from Afghanistan by September 11, saying that \"it is time to recognize that we have accomplished all that we can militarily\" in America's longest war.\n    \n"
     publishedDateTime: 2021-04-15T02:37:32Z
@@ -172,6 +156,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210816002128-taliban-flag-ghazni-0815-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "GOP Senate candidates align with Trump in bashing bipartisan infrastructure bill"
+    excerpt: "Sen. Rob Portman, the longtime Washington veteran and savvy deal-cutter, is on the cusp of achieving a major bipartisan achievement that would amount to a capstone of his three decades of public service: The Senate's passage of a roughly $1 trillion package to rebuild the nation's infrastructure.\n  "
+    publishedDateTime: 2021-08-06T17:54:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KO4QOhKUq7Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/06/politics/infrastructure-republican-senate-candidates/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/06/politics/infrastructure-republican-senate-candidates/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210806094525-josh-mandel-2014-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -334,6 +334,6 @@ related:
         height: 629
         isCached: true
 
-secured: "WR91QzcOXJyWXipuVF2jkJdbaOZXcp1vaYiOt1KIQGH5D5CjJ/1J2ZgTOHeSIjCBdKUUsuFmaHIFb7HA12yXnFeoMmuFfIfHSviWWCoQJkdxt5HfrNqstxw33NUgf79lsGGr0hlNZi4bagkkpz7Zd1AOsRI+azLdA5x5Ckc9ry7+g7kMWC9m3//4+RjVpcprnw2hkA2OwguXfa1QtgbsVBS/rse/Y2J1iPSpuFwA23TrzRBdcBVtJcrQZuaCGcgDwtVIjC9pVtMW+OYvbW1EnU2tf+IjPiYFJdItH9v01yZXEn9+b8yu5xo7Rq9ooyCXX7KkDIUV75WgHZMtGYmDnzJ4OoaquKIO6+6XExWk+xg=;iLMn7MW/+1eTxEcrTtmo8Q=="
+secured: "5ZVHYOqQ/hA4y0cIRlxYFeYeCzk6BIb23xSSEpVUSHmJSJpgRsFORpJvPoL/069Adl3/a8v662dqT7eY8Lk0nygJbc8QHFYjJRNWmIWxMxT0i25NBv8mYhUXc/YokmBgXZAj760nioUQXDChkATLv/xObdivbqg6+nZqeAjug+y9WeCcQhwZv9QzcYTc5cBP6ZPgHpR8FDMhugSHjvy5x5YibbW/q+rRXsHL8h+TVsnIpAiFoBZhyutGLu2HVk+ngGM6iWVIH2NEmLpajKVWwylAfGpQcddJIxK1SSyHAKFhgdSYA+I/XRY9BO97MkQw27PMRnwcAFtIBjunWj2DbA15jEsLZKckAxqAtIq6O+Q=;jFpr8MsiKsAKkPwdDCZ0jQ=="
 ---
 

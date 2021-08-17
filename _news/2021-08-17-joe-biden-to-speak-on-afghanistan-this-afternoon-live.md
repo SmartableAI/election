@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden to speak on Afghanistan this afternoon – live"
-excerpt: "Greenfield, told the emergency security council meeting this morning, essentially, that countries other than Afghanistan need to prevent Afghanistan becoming a base for international terrorism again."
-publishedDateTime: 2021-08-16T17:03:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live?ref=upstract.com&curator=upstract.com"
-webUrl: "https://www.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live?ref=upstract.com&curator=upstract.com"
+excerpt: "Blinken spoke today with Russian Foreign Minister Sergey Lavrov about developments in Afghanistan, including the security situation and our efforts to bring U.S. citizens and vulnerable Afghans to safety."
+publishedDateTime: 2021-08-16T17:19:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live?page=with:block-611aaa7e8f08d30d155036a9"
+webUrl: "https://www.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live?page=with:block-611aaa7e8f08d30d155036a9"
 type: article
 quality: 105
 heat: -1
@@ -689,6 +689,22 @@ related:
         width: 480
         height: 320
         isCached: true
+  - title: "President Joe Biden defends Afghanistan withdrawal of troops | Charlotte Observer"
+    excerpt: "Biden’s experience is drawing scrutiny as the president navigates the first major global crisis of his presidency in Afghanistan."
+    publishedDateTime: 2021-08-17T00:22:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article253533464.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article253533464.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article253533464.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/346c4d4c-0ebe-4577-bdbf-21c5f8e914af/554385c1-d5d0-4f0c-9b03-7bab5722a707/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden authorizes 5,000 troops to Afghanistan to assist with 'orderly and safe' withdrawal"
     excerpt: "Biden said he's authorized additional troops to help with \"an orderly and safe drawdown\" in Afghanistan as the Taliban continued to make rapid gains."
     publishedDateTime: 2021-08-14T21:35:00Z
@@ -834,6 +850,6 @@ related:
       domain: usnews.com
     quality: 33
 
-secured: "8lLqq0n+7G25BwfZefEtMiQc8lwXQS7fEndMIga2+hYp6puh0uFrDsrPUUE0n3db8oB9owhf6xd7DoR6C1iNDv0YgB0KrcaXmhjxJV/w4hy+Gg1V2NfpxDVjua3efZektMFa3/O+B82OoZBWVvV+D8sIwz4I31kkc2vxL101BVtFpqtYVYzyz98EBgqz2TSz4/AJGsuOuJOk03Yaw+q7ue/4rJjltZ7l1/v0MD2CxJfhO/QVhjoEUM2b8remJu8U2mo4Y4Yit3/IyTaJw7XolnosGekbtKHIpFeUD3acqgLvCjwUKb88gcnqPYv4AxXk4cK76BFI13hqN/XI60pN2kmGS4uSPmjZQyfS7pks9Jg=;VO1l+rPxGGqcE65MvFxUdQ=="
+secured: "JSLU24/auJVlwdVmYtEpKTcAKHFcNY+5s7yMBC3tLGAjkRrf4dx89Z9Gy8CIPGoI/EnVt5W5jvLNy5Rvx1cn/XXRlUZNLh+HVbLx73g4FXH2Fsso7H77tLZcTRGCHi5UsoGu6Esd6WlvxmLHa3+9M1U3Y97JVHqm5MoYkXBFOv9oZGQ4kQjyyZlmzAmg+Ztwm6YsDRHr7fdK18ptph14TRsAxxP+mypH2jb/6owZlPmQlGvx7laF86eV3SYM+MKaNJM7LAA7hB4RmfLgS8fVs9k4f9ArMeq8ZnyYpNqa2TVwFPnhABK4NuBuSPfAXPpoaLtawqw+8WUAubtoc5CMHAaiMvLwjQSSKWwwC6ImDpI=;caC0+2nhkS2GLvP7Ir5p3A=="
 ---
 
