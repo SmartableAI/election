@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris Utterly Flubbing Her Job as Veep"
 excerpt: "Kamala Harris isn't very good at this. The vice president has never won an election on her own outside of the hothouse of California politics, and it shows. On paper, she was a strong"
 publishedDateTime: 2021-08-09T11:33:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/08/09/kamala_harris_utterly_flubbing_her_job_as_veep_549009.html"
-webUrl: "https://www.realclearpolitics.com/2021/08/09/kamala_harris_utterly_flubbing_her_job_as_veep_549009.html"
+originalUrl: "https://www.realclearpolitics.com/2021/08/09/kamala_harris_utterly_flubbing_her_job_as_veep_549009.html#!"
+webUrl: "https://www.realclearpolitics.com/2021/08/09/kamala_harris_utterly_flubbing_her_job_as_veep_549009.html#!"
 type: article
 quality: 65
 heat: -1
@@ -89,6 +89,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/19e4cb37-99df-4e47-a256-3dce8df3211a/fe775d2d-4eff-4e97-a5e2-45e080a7f071/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden hasn't spoken to any foreign leaders since fall of Afghanistan to Taliban"
+    excerpt: "National Security Adviser Jake Sullivan said Tuesday that President Biden has not spoken with any other world leaders this week since Afghanistan fell to the Taliban, as the president remains at Camp David amid frantic efforts to evacuate Americans and U.S. allies from the country."
+    publishedDateTime: 2021-08-17T19:30:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IrYze6IS5QI/biden-afghanistan-foreign-leaders"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-afghanistan-foreign-leaders.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-afghanistan-foreign-leaders.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "McConnell pushes Biden to 'hammer' Taliban with airstrikes as Afghanistan spirals"
     excerpt: "Senate Minority Leader Mitch McConnell, R-Ky., pressed President Biden to order airstrikes against Taliban forces on Friday following what he described as an “urgent conversation” with Afghanistan’s ambassador to the United States, Adela Raz."
@@ -298,6 +314,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Biden admin depends on Taliban to give Americans 'safe passage' 6 weeks after Biden said he doesn't trust them"
+    excerpt: "National Security Advisor Jake Sullivan joined White House press secretary Jen Psaki on the podium for a press conference on Tuesday, where they took questions about the administration’s bungling of the troop withdrawal from Afghanistan."
+    publishedDateTime: 2021-08-17T19:41:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7UFYunQos80/biden-afghanistan-taliban-safe-passage-kabul-airport"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/AP21137641774544.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Critics slam Biden’s long-weekend silence as Afghanistan falls to Taliban"
     excerpt: "Republican leaders are slamming President Biden for taking a long weekend out of the public eye as major cities fall to the Taliban in Afghanistan. The mounting crisis comes as the US prepares to"
     publishedDateTime: 2021-08-13T17:15:00Z
@@ -380,6 +410,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "/RifKkWYNmPrNXveUa3JsSLT/AfTdxA6bgX9hp2K4K+xILnheec6FQSFRzMn6O/h95vMHsDleuuuUEAoa5zW85r/8zjgW7BTeAZgT5AjA/FnrayBtxfN5H4fi3QG0mIKpTueYwoiUrEtO+gQv3TM7yz3yiYG4NsrBnskt/mCkaKZydxOLZ2s3eMUZV5mkh4Mutu2k6fKbDfdyAyR8YEVbG0hriCehG/MOG9LNMTMHaUDrrLkxMLk9u2uoBwx6miTcceX+xvW4ra54o9rieFp+Rpb13AR1xO1H/2MFdcEMjKtCTuUWqSrnGzivnT7E1rhlibSs82Ep2BYmuSxCfAUnEPNqE2TrYnvQW+Tfym/JF8=;eO0rIL2OOZZRs+OB4BPBQA=="
+secured: "lScz4e9QQeKa+UeyQp25vKnmx9C7vfWld7Loxex8FutyKMnnCVk9Dmp0oW1ua3gh+wQhqqN3lztHnW2CJINVsD1vOZMQhyAg6DWLK0oL340bFQmDOAn7AmRIwXR4kcPg0CG6Jpabn6dZjYq2FpL3clayXAEgJf4O6C30S96ng5MCAXlkVwBv58tJke+cVkQObBjnJ9fTI7p0K0btLZQRvCr0I3u4CixFfKL6AgPy/SOS9zsBPYRFkGC12Gee64Tg3JtnhXb/sG+jWpsG8u2Bzjcr35ZycO/aXZev2KnEHySOnHpBN1z8GHnsCWncwk2Zgx4DC9U5RBgw3elrmX3I0wWXtKatDc1LZW9ei0wwUO4=;Y63qhtje1GL96xnnOH9AEw=="
 ---
 

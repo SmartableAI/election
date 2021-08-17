@@ -2529,6 +2529,20 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 66
+  - title: "Biden keeps many Trump tariffs in place, confounding businesses hoping for reprieve"
+    excerpt: "After winning exemptions during the Trump administration, hundreds, possibly thousands, of American companies are now paying tariffs while the Biden team debates the right approach to Beijing."
+    publishedDateTime: 2021-08-17T19:16:00Z
+    webUrl: "https://www.adn.com/nation-world/2021/08/17/biden-keeps-many-trump-tariffs-in-place-confounding-businesses-hoping-for-reprieve/"
+    type: article
+    provider:
+      name: Alaska Dispatch News
+      domain: adn.com
+    quality: 64
+    images:
+      - url: "https://www.adn.com/resizer//UHlW2ago0Vo2TzPCrpRF0IT6APE=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/adn/ZITEA4GKB5GTXNR4VZJKPNK4OM.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Jill Biden Urged To 'Restore Jackie Kennedy's Rose Garden' After Melania Trump's Revamp"
     excerpt: "A petition has been launched urging first lady Dr. Jill Biden to restore the White House Rose Garden after Melania Trump renovated it last year."
     publishedDateTime: 2021-04-29T09:30:00Z

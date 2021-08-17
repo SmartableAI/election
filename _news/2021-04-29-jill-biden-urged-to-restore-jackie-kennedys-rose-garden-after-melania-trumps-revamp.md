@@ -2543,6 +2543,20 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 66
+  - title: "Biden keeps many Trump tariffs in place, confounding businesses hoping for reprieve"
+    excerpt: "After winning exemptions during the Trump administration, hundreds, possibly thousands, of American companies are now paying tariffs while the Biden team debates the right approach to Beijing."
+    publishedDateTime: 2021-08-17T19:16:00Z
+    webUrl: "https://www.adn.com/nation-world/2021/08/17/biden-keeps-many-trump-tariffs-in-place-confounding-businesses-hoping-for-reprieve/"
+    type: article
+    provider:
+      name: Alaska Dispatch News
+      domain: adn.com
+    quality: 64
+    images:
+      - url: "https://www.adn.com/resizer//UHlW2ago0Vo2TzPCrpRF0IT6APE=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/adn/ZITEA4GKB5GTXNR4VZJKPNK4OM.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden Plays Golf For First Time As President, Months After Trump Played His First Round As POTUS"
     excerpt: "In 2014, while he was vice-president, Biden joked that running for president could potentially hurt his golf game. “If you want to keep your handicap in golf don’t run for pre"
     publishedDateTime: 2021-04-18T17:14:00Z

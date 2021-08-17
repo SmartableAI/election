@@ -335,6 +335,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden says American troops should not be dying in Afghanistan; 18 months since last US death"
+    excerpt: "President Biden justified the withdrawal of American forces from Afghanistan by stating that U.S. troops should not be losing their lives in a conflict where the Afghans are not fighting themselves, but the last American military casualty was a year and a half ago."
+    publishedDateTime: 2021-08-17T19:01:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/x_9K3nzHha8/biden-american-troops-not-die-afghanistan-year-last-us-death"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-american-troops-not-die-afghanistan-year-last-us-death.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-american-troops-not-die-afghanistan-year-last-us-death.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden hit with bipartisan criticism over Afghanistan debacle: 'Our dire warnings fell on deaf ears'"
     excerpt: "President Biden is the target of relentless criticism for his handling of the military drawdown from Afghanistan, which has resulted in a swift Taliban takeover of the nation, the abandonment of the American embassy and desperate scenes at the Kabul airport."
     publishedDateTime: 2021-08-17T15:41:32Z
@@ -382,6 +398,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f18efe6-404a-4e2c-b361-15a6d9a9bc12/671f0271-fb6b-47cd-b5e6-d2efaf051978/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden White House accepts responsibility for 'chaos' in Afghanistan, says it is 'vigilant' on terror threat"
+    excerpt: "President Biden and his national security team are \"taking responsibility\" for \"every decision\" the U.S. government took with respect to Afghanistan, White House national security adviser Jake Sullivan said Tuesday."
+    publishedDateTime: 2021-08-17T19:32:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J8oJ5X3pXTs/biden-white-house-afghanistan-responsibility"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-afghanistan-responsibility.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-afghanistan-responsibility.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "‘Do you miss me yet?’: Trump slams Biden over Afghanistan, inflation"
     excerpt: "Former President Donald Trump lashed out at the Biden administration’s handling of Afghanistan, rising inflation and illegal immigrants, asking: “Do you miss me yet?” The attack came as the"

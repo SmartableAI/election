@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden to give TV interview to defend Afghanistan stance – live"
 excerpt: "President to speak to ABC’s George Stephanopoulos after n"
-publishedDateTime: 2021-08-17T12:22:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
-webUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
+publishedDateTime: 2021-08-17T12:39:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news?page=with:block-611bb53f8f08cf238eadd16b"
+webUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news?page=with:block-611bb53f8f08cf238eadd16b"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/27f5fab66768bfceb557636a24497ebf2b9e8e80/0_111_3338_2004/master/3338.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f3deaebe135e5363c16b05454a824596"
+  - url: "https://i.guim.co.uk/img/media/e5835f4c244ac326cb376185f42ab910faac55a0/0_0_3257_1954/master/3257.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2654ed0ecdd78f480207ec0121bf5a8f"
     width: 600
     height: 360
     isCached: true
@@ -866,6 +866,6 @@ related:
       domain: usnews.com
     quality: 33
 
-secured: "oqXo+Aeya97FPdQNlQmJuQrrdsQoenLNCryrqFESsrpSyz9n2IsOhTrmnMtx5EqRISu3EOmfjJ01SuCwMwDjd2HkqHvYT+exPgoQ54cLp4Wf6l7K6JUH08m16TZZQig902JNrnPGLsbPJJPQKPRQydo0xKVBRdzsfwyk18l39lcRhXrREkt84Mr8p7oJSOPJzNymeKpiXHOOeTZWxggmgVSdk37RaoJwF4B6N6kAmSuTVFtq0fq+m8m70VF/m87Y1ACDa0K5+BC2zEBDcsTRZ1pHqZpRc1gXlewgM0jWRDvgO2MLJBj8GJ4F5Fvok4Nh5Lq4x2YLIwuO+WWTjV5C6oPeOPRCVkvwuS4kA5cVh/c=;P6Nc6p/SkJDLxmJbWxFr+w=="
+secured: "xXOBqT27RpE5fWxnC9TsWkNxcVfqicDMVmCski8tJGwkGljP0/QoE1Mfeda1r6UWd1zm07Rd4ghsFAa92JTKBDTghwaCRZMpi25qFf+xLrjNYaR2hFKg/BgsaYqZsmFip50MAMmTxPtCJqYPz1LDZZnxL05HpyOcINsgm8Uc3Ij9SpsJUrsVNtJDYDGe2Yvd8eEbA/PT78OKToTu5V6s7vmiVWFjTsZFJQjAzESvQ6Lk5PsUg8jxclDQEN4bQhU68+Ou+y2MPr0kBAylJ7dPqZ9h7bx/3uDe7y/PmI/hQvQ9nXHD1GLJwrQ6FEGACpkPbCjD0V5mAauOV4oG+RT8gf3ybBQ083Hj5wayTd3l9N0=;4XmgL4B7Kr31MzDn+vkuLA=="
 ---
 

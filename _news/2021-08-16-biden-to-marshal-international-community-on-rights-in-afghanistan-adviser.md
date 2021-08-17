@@ -169,8 +169,8 @@ related:
         isCached: true
   - title: "Joe Biden to give TV interview to defend Afghanistan stance – live"
     excerpt: "President to speak to ABC’s George Stephanopoulos after n"
-    publishedDateTime: 2021-08-17T12:22:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
+    publishedDateTime: 2021-08-17T12:39:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news?page=with:block-611bb53f8f08cf238eadd16b"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
     type: article
@@ -179,7 +179,7 @@ related:
       domain: theguardian.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/27f5fab66768bfceb557636a24497ebf2b9e8e80/0_111_3338_2004/master/3338.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f3deaebe135e5363c16b05454a824596"
+      - url: "https://i.guim.co.uk/img/media/e5835f4c244ac326cb376185f42ab910faac55a0/0_0_3257_1954/master/3257.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2654ed0ecdd78f480207ec0121bf5a8f"
         width: 600
         height: 360
         isCached: true

@@ -320,6 +320,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's national security adviser says Taliban committed to allowing safe passage for civilians looking to escape Afghanistan"
+    excerpt: "White House national security adviser Jake Sullivan on Tuesday defended the US' chaotic withdrawal from Afghanistan, telling reporters that President Joe Biden \"is taking responsibility for every decision the United States government took with respect to Afghanistan.\"\n    \n"
+    publishedDateTime: 2021-08-17T19:11:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pSt0EYCq7jw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/17/politics/biden-jake-sullivan-afghanistan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/17/politics/biden-jake-sullivan-afghanistan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 148
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210502114359-jake-sullivan-0204-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Why Biden Is Right to Leave Afghanistan"
     excerpt: "The president should ignore the powerful voices in Washington pushing him to reverse course and not end our longest war."
     publishedDateTime: 2021-05-20T19:00:00Z

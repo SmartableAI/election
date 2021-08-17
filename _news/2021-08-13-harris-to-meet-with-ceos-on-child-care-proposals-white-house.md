@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2FD18R"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2FD18R"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Meet 12 Democratic women power brokers doing damage control for Kamala Harris after some tough press"
+    excerpt: "Some of the most influential women in Washington are defending Vice President Kamala Harris after tough stories about her office culture."
+    publishedDateTime: 2021-08-17T08:00:00Z
+    webUrl: "https://www.businessinsider.com/kamala-harris-khive-defenders-democratic-women-2021-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 90
+    images:
+      - url: "https://i.insider.com/611ac663a4b07b0018add5fa?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Harris' spouse to represent US at Paralympic Games in Tokyo"
     excerpt: "Doug Emhoff, the spouse of Vice President Kamala Harris, is taking his first solo trip abroad and will lead a delegation to the Paralympic Games in Tokyo"
     publishedDateTime: 2021-08-10T13:02:00Z
@@ -96,18 +110,18 @@ related:
         height: 630
         isCached: true
   - title: "Vice President Kamala Harris visits Unity Health Care's Brentwood Health Center"
-    excerpt: "U.S. Vice President Kamala Harris arrives to talks to health care workers before speaking about health care affordability at Unity Health Care's Brentwood Health Center on Tuesday, August 10, 20010 in Washington,"
+    excerpt: "U.S. Vice President Kamala Harris speaks about health care affordability at Unity Health Care's Brentwood Health Center on Tuesday, August 10, 20010 in Washington, DC. Photo by Oliver Contreras/UPI"
     publishedDateTime: 2021-08-10T18:13:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/00e5874dedd6a72d1cb2dfb2c94e00b6/Vice-President-Kamala-Harris-visits-Unity-Health-Cares-Brentwood-Health-Center/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/57a86ff633df2b4522be0d816b953da4/Vice-President-Kamala-Harris-visits-Unity-Health-Cares-Brentwood-Health-Center/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 51
     images:
-      - url: "https://cdnph.upi.com/pv/upi/00e5874dedd6a72d1cb2dfb2c94e00b6/HARRIS-HEALTH-CARE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/57a86ff633df2b4522be0d816b953da4/HARRIS-HEALTH-CARE.jpg"
         width: 650
-        height: 975
+        height: 433
         isCached: true
 
 secured: "z+fW27NsAvF7qk9eYmnX8CHXIR0TC9i7GBH+ZMeDvGlXhVYjx/gnDJ2Tv6xl2tz+XXeQ9B1TfEEx8JSQyQLI7SAhR5286TeQp7PJGdIP5kwSw9CLbONiBIS3lfDDNTAHP885K4w3nUZ3y/d2Csv1rNEASI+a1H5wbVk83r/jkhOja/5tswFtW3kYIoXJXOpzGi055a6rnhe0vpyJ1wi9wLMIrn2jUrNjPNVcWjAvDAVPi5vgd78kQSQs05ah4y0Sl14F5IB4XES8UXolI0YkWH06UIZxTW2lD/5vM+pqDeY0K0IafGMmwlG4K8QKC/bgyR9PRKhrBTrwS8kNwigzA8ffnTucxqkbcusXJDPe70E=;SIB9c28HeOKUHsYkdDo3Mg=="

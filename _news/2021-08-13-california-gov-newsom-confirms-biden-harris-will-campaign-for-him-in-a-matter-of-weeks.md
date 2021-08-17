@@ -80,6 +80,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden hasn't spoken to any foreign leaders since fall of Afghanistan to Taliban"
+    excerpt: "National Security Adviser Jake Sullivan said Tuesday that President Biden has not spoken with any other world leaders this week since Afghanistan fell to the Taliban, as the president remains at Camp David amid frantic efforts to evacuate Americans and U.S. allies from the country."
+    publishedDateTime: 2021-08-17T19:30:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IrYze6IS5QI/biden-afghanistan-foreign-leaders"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-afghanistan-foreign-leaders.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-afghanistan-foreign-leaders.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "McConnell pushes Biden to 'hammer' Taliban with airstrikes as Afghanistan spirals"
     excerpt: "Senate Minority Leader Mitch McConnell, R-Ky., pressed President Biden to order airstrikes against Taliban forces on Friday following what he described as an “urgent conversation” with Afghanistan’s ambassador to the United States, Adela Raz."
     publishedDateTime: 2021-08-13T23:23:15Z
@@ -288,6 +304,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Biden admin depends on Taliban to give Americans 'safe passage' 6 weeks after Biden said he doesn't trust them"
+    excerpt: "National Security Advisor Jake Sullivan joined White House press secretary Jen Psaki on the podium for a press conference on Tuesday, where they took questions about the administration’s bungling of the troop withdrawal from Afghanistan."
+    publishedDateTime: 2021-08-17T19:41:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7UFYunQos80/biden-afghanistan-taliban-safe-passage-kabul-airport"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/AP21137641774544.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Critics slam Biden’s long-weekend silence as Afghanistan falls to Taliban"
     excerpt: "Republican leaders are slamming President Biden for taking a long weekend out of the public eye as major cities fall to the Taliban in Afghanistan. The mounting crisis comes as the US prepares to"
     publishedDateTime: 2021-08-13T17:15:00Z
@@ -335,7 +365,7 @@ related:
   - title: "Kamala Harris Utterly Flubbing Her Job as Veep"
     excerpt: "Kamala Harris isn't very good at this. The vice president has never won an election on her own outside of the hothouse of California politics, and it shows. On paper, she was a strong"
     publishedDateTime: 2021-08-09T11:33:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/08/09/kamala_harris_utterly_flubbing_her_job_as_veep_549009.html"
+    webUrl: "https://www.realclearpolitics.com/2021/08/09/kamala_harris_utterly_flubbing_her_job_as_veep_549009.html#!"
     type: article
     provider:
       name: RealClearPolitics
