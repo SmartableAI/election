@@ -1,29 +1,29 @@
 ---
 category: news
-title: "President Biden’s complicated new task: keeping Democrats together"
-excerpt: "With exceedingly slim majorities in Congress, Biden can’t afford many defections in a party whose members include moderates and progressives."
-publishedDateTime: 2021-08-12T11:44:00Z
-originalUrl: "https://www.cleveland.com/nation/2021/08/president-bidens-complicated-new-task-keeping-democrats-together.html"
-webUrl: "https://www.cleveland.com/nation/2021/08/president-bidens-complicated-new-task-keeping-democrats-together.html"
-ampWebUrl: "https://www.cleveland.com/nation/2021/08/president-bidens-complicated-new-task-keeping-democrats-together.html?outputType=amp"
-cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/08/president-bidens-complicated-new-task-keeping-democrats-together.html?outputType=amp"
+title: "What President Joe Biden said in his address on Afghanistan"
+excerpt: "As criticism of the president mounted, Biden addressed the country as the Taliban took control of Afghanistan and chaos overtook the Kabul airport."
+publishedDateTime: 2021-08-16T23:06:00Z
+originalUrl: "https://www.statesman.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
+webUrl: "https://www.statesman.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
+ampWebUrl: "https://amp.statesman.com/amp/8157340002"
+cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8157340002"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Cleveland.com
-  domain: cleveland.com
+  name: Austin American-Statesman
+  domain: statesman.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/O2PFTKOXIRAA7LGGHI6QX7C3WQ.jpg"
-    width: 1024
-    height: 683
+  - url: "https://www.gannett-cdn.com/presto/2021/08/16/USAT/d4d75f62-840d-41fd-beeb-ff0dd19fe7ce-AP_Biden_US_Afghanistan.jpg?auto=webp&crop=4783,2691,x0,y159&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -231,6 +231,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "President Biden’s complicated new task: keeping Democrats together"
+    excerpt: "With exceedingly slim majorities in Congress, Biden can’t afford many defections in a party whose members include moderates and progressives."
+    publishedDateTime: 2021-08-12T11:44:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/08/president-bidens-complicated-new-task-keeping-democrats-together.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/08/president-bidens-complicated-new-task-keeping-democrats-together.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/08/president-bidens-complicated-new-task-keeping-democrats-together.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/O2PFTKOXIRAA7LGGHI6QX7C3WQ.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "President Biden eyes tougher vaccine rules"
     excerpt: "Even as Biden becomes more aggressive in pressuring Americans to get vaccinated, he has refrained from using all his powers."
     publishedDateTime: 2021-08-13T15:04:00Z
@@ -278,22 +294,6 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
-        isCached: true
-  - title: "What President Joe Biden said in his address on Afghanistan"
-    excerpt: "As criticism of the president mounted, Biden addressed the country as the Taliban took control of Afghanistan and chaos overtook the Kabul airport."
-    publishedDateTime: 2021-08-16T23:06:00Z
-    webUrl: "https://www.statesman.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
-    ampWebUrl: "https://amp.statesman.com/amp/8157340002"
-    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8157340002"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/08/16/USAT/d4d75f62-840d-41fd-beeb-ff0dd19fe7ce-AP_Biden_US_Afghanistan.jpg?auto=webp&crop=4783,2691,x0,y159&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "President Joe Biden orders 1,000 more troops to aid Afghanistan departure"
     excerpt: "President Joe Biden authorized on Saturday an additional 1,000 U.S. troops for deployment to Afghanistan, raising to roughly 5,000 the number of U.S. troops to ensure what Biden called an “orderly and safe drawdown” of American and allied personnel."
@@ -622,6 +622,6 @@ related:
       domain: cincinnati.com
     quality: 13
 
-secured: "4HUB3iGlYMnIDE3aEwEW8I2dqYUp73OvJjYCjTa+Yao94+1L7+wTw/AJJqMiAN0SU5kByAWUDhBJFIxPs7cX78ri/jS2TQWJXUVs3vT1Po0I5OexJKGeBAOh5Pdp2mCDcaKcKgQS5G1ALF6m1t3pOe7Zvzf48cTVvYZb2COcTzVcmyPJqLJmBRnCRMfDbaU1/E49xsZ9/0JqrgQrTc9/LOWeuU8mYC+vYMZmTWksUO2+9sAd/cYt7FlXxlZdDABT52/BV5JJoOaHCHfYtJ/j2+ntkXBJUjxbVU+fkoBp7Ggr0x/iftYGi+IZ7UM4P8fD719J+xNRlSHh4MLcqhCwkVMCdTgiIV3N2f8xz9ohiQ4=;oxDNn7P4M9jjH1SZgNAUEQ=="
+secured: "JLW43L2oBoh5ktyWg1tNoTh8DlVZFDaWDmqeJgGr4baRzfmaN5LEk7HLzAZ+K2e8FrVk7Hu82lMVpSqYSBYnAaw22NBTkdPToKIDxjxgC/JFOobhy2P8b7R7DrugY946Xv9+KHzUXFVtvKwMMEAwNqRvbtq8ereuRXrnR2SwLPRTjKau/hMFgO0xIbZBWK5ver4ptI/77+692PfNA4w4YG8y44D5UU6mf3yahI8Iq5QwuyG7KTFnESfiAZw39F294bPA0qZtWmUkwxOuktZxz/O3/LB+DXpojYMEj/+VumG00kvxwUrVq8FBZ4ST6ts7j/F43Ubio9Y2Cmd3CsK0wTQ5Hj9frtXDUxaO3Gnw4pI=;bCYGF5z20RankhEIYC5Wyw=="
 ---
 

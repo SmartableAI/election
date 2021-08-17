@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Arrives at Fort McNair in DC"
 excerpt: "President Joe Biden arrives at Fort McNair in Washington, DC from Camp David on Monday, August 16, 2021. President Biden is expected to make remarks on the situation in Afghanistan later this afternoon."
 publishedDateTime: 2021-08-16T17:47:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/efbfdcaedaf2160ee05ec88b5aefb886/President-Joe-Biden-Arrives-at-Fort-McNair-in-DC/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/efbfdcaedaf2160ee05ec88b5aefb886/President-Joe-Biden-Arrives-at-Fort-McNair-in-DC/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/09c2052fb62aecdd8f1bb3b42640ae29/President-Joe-Biden-Arrives-at-Fort-McNair-in-DC/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/09c2052fb62aecdd8f1bb3b42640ae29/President-Joe-Biden-Arrives-at-Fort-McNair-in-DC/"
 type: article
 quality: 55
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/efbfdcaedaf2160ee05ec88b5aefb886/BIDEN-AFGHANISTAN.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/09c2052fb62aecdd8f1bb3b42640ae29/BIDEN-AFGHANISTAN.jpg"
     width: 650
-    height: 975
+    height: 433
     isCached: true
 
 related:
@@ -292,6 +292,22 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "What President Joe Biden said in his address on Afghanistan"
+    excerpt: "As criticism of the president mounted, Biden addressed the country as the Taliban took control of Afghanistan and chaos overtook the Kabul airport."
+    publishedDateTime: 2021-08-16T23:06:00Z
+    webUrl: "https://www.statesman.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
+    ampWebUrl: "https://amp.statesman.com/amp/8157340002"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8157340002"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/16/USAT/d4d75f62-840d-41fd-beeb-ff0dd19fe7ce-AP_Biden_US_Afghanistan.jpg?auto=webp&crop=4783,2691,x0,y159&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "President Joe Biden orders 1,000 more troops to aid Afghanistan departure"
     excerpt: "President Joe Biden authorized on Saturday an additional 1,000 U.S. troops for deployment to Afghanistan, raising to roughly 5,000 the number of U.S. troops to ensure what Biden called an “orderly and safe drawdown” of American and allied personnel."
@@ -606,6 +622,6 @@ related:
       domain: cincinnati.com
     quality: 13
 
-secured: "xoiD0anoWEHlAS1XYYt9wj518LC7P/pb3iTdYvO8lFM28lstjpUmEIMY1kSl0kliaRhYvYqXNiFoPvH8+f1xuxLR7o0btKXWLGsxXJP1/V2VU0Y13b1TFdRivimMdX2L3HJ4B1yDI5ZCdj5YQRtRyibC2Ot7moYluvQTWAdFCMqkezo5zgU0ILZ3pTx28CWU3IldMLH3XE1FyQp65jlQ84IrrutUIMcHZE9X5YcbBCE4iexHArvUHN27LjT087ILC5cS1K7o8SJfXpbDa/r8M+0iqWFqt5K+CelMyLqRTdoAOgLhVDICRU74j4+pLKbq8ua9xrCbhdwAVW2I3mgWnA8qMDlAh/zKJyzgnKk93X4=;Bsszeul1ZDKzE1WM74nJdQ=="
+secured: "iqcEcHY0NBq5l3kKeHUmZNB/Vlz9JxzV8LbSnVTsynD1VSL3MMUlI3xtGCcNF3/0mVea7eDrAEP6HWIj4Rvj8KYb+Lhx6HBSqUtp5eKRohLJiAq8UP+nuM8/AhfVV6c+OVVYq+eHSko8RjxlQl2Fzhdig/5E6EXRVyIMomfHUQBt4pJTxKOFCN7XtttURVm22VNCg7Y5mzc8gnZzXvw34BzbXkRm3dVx5bvT7EpuJtMThxcstUzTDhiNC8OZaw4weLA607MfFu84FajptIeln5bEZDJYJrN5+xMCBKn0dB/IrOul7//jgxExvm6gR50NGkGKxzYdR3Qik8Q7K/YZ/SwmxPRap1mGdMiYmOsPl7M=;wcC/A0nRAv/+5j3dcN0Kwg=="
 ---
 
