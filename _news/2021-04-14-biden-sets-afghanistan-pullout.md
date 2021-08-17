@@ -126,6 +126,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Desperate scenes lay bare an Afghan defeat that Biden cannot deny"
+    excerpt: "Instantly iconic imagery now bookends the lost war in Afghanistan, telling a poignant tale of a just venture born out of national tragedy ending in a chaotic US retreat on President Joe Biden's watch.\n    \n"
+    publishedDateTime: 2021-08-17T10:04:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PzyqwuPdLsI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/17/politics/joe-biden-afghanistan-defeat/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/17/politics/joe-biden-afghanistan-defeat/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210816160754-02-biden-afghanistan-remarks-0816-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Inside Biden's defiant Afghanistan response"
     excerpt: "By the time images of desperate Afghans clinging to American warplanes began emerging from Kabul on Monday morning, President Joe Biden had conceded to aides he had little choice but to interrupt his stay at Camp David to return to the White House.\n    \n"
     publishedDateTime: 2021-08-17T00:42:32Z
@@ -171,6 +187,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210816002128-taliban-flag-ghazni-0815-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration reverts to internal blame-shifting amid Afghanistan chaos "
+    excerpt: "Factions within the Biden administration are embroiled in a blame game over why the US government didn't act sooner to withdraw American citizens and Afghans who helped the US over two decades of war, leading to a rushed and dangerous evacuation.\n    \n"
+    publishedDateTime: 2021-08-17T11:01:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wGi18KLL_QU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/17/politics/biden-afghanistan-blame-shifting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/17/politics/biden-afghanistan-blame-shifting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210816162517-03-biden-afghanistan-remarks-0816-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

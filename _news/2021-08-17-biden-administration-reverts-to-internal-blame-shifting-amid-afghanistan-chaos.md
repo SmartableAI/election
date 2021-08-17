@@ -1,14 +1,14 @@
 ---
 category: news
-title: "GOP Senate candidates align with Trump in bashing bipartisan infrastructure bill"
-excerpt: "Sen. Rob Portman, the longtime Washington veteran and savvy deal-cutter, is on the cusp of achieving a major bipartisan achievement that would amount to a capstone of his three decades of public service: The Senate's passage of a roughly $1 trillion package to rebuild the nation's infrastructure.\n  "
-publishedDateTime: 2021-08-06T17:54:49Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KO4QOhKUq7Y/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KO4QOhKUq7Y/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/08/06/politics/infrastructure-republican-senate-candidates/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/06/politics/infrastructure-republican-senate-candidates/index.html"
+title: "Biden administration reverts to internal blame-shifting amid Afghanistan chaos "
+excerpt: "Factions within the Biden administration are embroiled in a blame game over why the US government didn't act sooner to withdraw American citizens and Afghans who helped the US over two decades of war, leading to a rushed and dangerous evacuation.\n    \n"
+publishedDateTime: 2021-08-17T11:01:04Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wGi18KLL_QU/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wGi18KLL_QU/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/08/17/politics/biden-afghanistan-blame-shifting/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/17/politics/biden-afghanistan-blame-shifting/index.html"
 type: article
-quality: 170
+quality: 171
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210806094525-josh-mandel-2014-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210816162517-03-biden-afghanistan-remarks-0816-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -191,19 +191,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration reverts to internal blame-shifting amid Afghanistan chaos "
-    excerpt: "Factions within the Biden administration are embroiled in a blame game over why the US government didn't act sooner to withdraw American citizens and Afghans who helped the US over two decades of war, leading to a rushed and dangerous evacuation.\n    \n"
-    publishedDateTime: 2021-08-17T11:01:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wGi18KLL_QU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/17/politics/biden-afghanistan-blame-shifting/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/17/politics/biden-afghanistan-blame-shifting/index.html"
+  - title: "GOP Senate candidates align with Trump in bashing bipartisan infrastructure bill"
+    excerpt: "Sen. Rob Portman, the longtime Washington veteran and savvy deal-cutter, is on the cusp of achieving a major bipartisan achievement that would amount to a capstone of his three decades of public service: The Senate's passage of a roughly $1 trillion package to rebuild the nation's infrastructure.\n  "
+    publishedDateTime: 2021-08-06T17:54:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KO4QOhKUq7Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/06/politics/infrastructure-republican-senate-candidates/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/06/politics/infrastructure-republican-senate-candidates/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 171
+    quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210816162517-03-biden-afghanistan-remarks-0816-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210806094525-josh-mandel-2014-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -366,6 +366,6 @@ related:
         height: 629
         isCached: true
 
-secured: "WR91QzcOXJyWXipuVF2jkJdbaOZXcp1vaYiOt1KIQGH5D5CjJ/1J2ZgTOHeSIjCBdKUUsuFmaHIFb7HA12yXnFeoMmuFfIfHSviWWCoQJkdxt5HfrNqstxw33NUgf79lsGGr0hlNZi4bagkkpz7Zd1AOsRI+azLdA5x5Ckc9ry7+g7kMWC9m3//4+RjVpcprnw2hkA2OwguXfa1QtgbsVBS/rse/Y2J1iPSpuFwA23TrzRBdcBVtJcrQZuaCGcgDwtVIjC9pVtMW+OYvbW1EnU2tf+IjPiYFJdItH9v01yZXEn9+b8yu5xo7Rq9ooyCXX7KkDIUV75WgHZMtGYmDnzJ4OoaquKIO6+6XExWk+xg=;iLMn7MW/+1eTxEcrTtmo8Q=="
+secured: "UKDeP2ZstQuRCIC9fqFaBvGKKgVSZzkmgCpag6KDvGqwjvpYquGr92g/SirD6ys6Dv4VZv6qcoOYvZ5cWLlWRY52ArHPMI0UEeo1kRUTf/AoK09ZYbaYAEZAtNDyND6HeogTQmA8I7K+wXCsYWALW67omlwkPeUGkAIagLrXNMe3lL3/aO9bcYyl4N5+uIq9Kkm7Ue4TvGrqPDE1XWeFrZQaiRde0QSd8j755up1ed6lViKOj0IBRzlLX+RApWt1TDFsC4LcXXZ+PBCoJnsO41olE5wk6gxEzIYBHkTtJ6V8i7ZBrZYHfJhfP+tl0iHCXtThnTVXX5acPO/3/shJ7bVNDwpQ1OP3jCqWSzc3kKc=;dJaj9WcLav9+jkS58bNWIg=="
 ---
 

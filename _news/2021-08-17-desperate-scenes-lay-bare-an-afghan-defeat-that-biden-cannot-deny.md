@@ -1,14 +1,14 @@
 ---
 category: news
-title: "GOP Senate candidates align with Trump in bashing bipartisan infrastructure bill"
-excerpt: "Sen. Rob Portman, the longtime Washington veteran and savvy deal-cutter, is on the cusp of achieving a major bipartisan achievement that would amount to a capstone of his three decades of public service: The Senate's passage of a roughly $1 trillion package to rebuild the nation's infrastructure.\n  "
-publishedDateTime: 2021-08-06T17:54:49Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KO4QOhKUq7Y/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KO4QOhKUq7Y/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/08/06/politics/infrastructure-republican-senate-candidates/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/06/politics/infrastructure-republican-senate-candidates/index.html"
+title: "Desperate scenes lay bare an Afghan defeat that Biden cannot deny"
+excerpt: "Instantly iconic imagery now bookends the lost war in Afghanistan, telling a poignant tale of a just venture born out of national tragedy ending in a chaotic US retreat on President Joe Biden's watch.\n    \n"
+publishedDateTime: 2021-08-17T10:04:54Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PzyqwuPdLsI/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PzyqwuPdLsI/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/08/17/politics/joe-biden-afghanistan-defeat/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/17/politics/joe-biden-afghanistan-defeat/index.html"
 type: article
-quality: 170
+quality: 175
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210806094525-josh-mandel-2014-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210816160754-02-biden-afghanistan-remarks-0816-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -127,22 +127,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Desperate scenes lay bare an Afghan defeat that Biden cannot deny"
-    excerpt: "Instantly iconic imagery now bookends the lost war in Afghanistan, telling a poignant tale of a just venture born out of national tragedy ending in a chaotic US retreat on President Joe Biden's watch.\n    \n"
-    publishedDateTime: 2021-08-17T10:04:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PzyqwuPdLsI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/17/politics/joe-biden-afghanistan-defeat/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/17/politics/joe-biden-afghanistan-defeat/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210816160754-02-biden-afghanistan-remarks-0816-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Inside Biden's defiant Afghanistan response"
     excerpt: "By the time images of desperate Afghans clinging to American warplanes began emerging from Kabul on Monday morning, President Joe Biden had conceded to aides he had little choice but to interrupt his stay at Camp David to return to the White House.\n    \n"
     publishedDateTime: 2021-08-17T00:42:32Z
@@ -204,6 +188,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210816162517-03-biden-afghanistan-remarks-0816-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "GOP Senate candidates align with Trump in bashing bipartisan infrastructure bill"
+    excerpt: "Sen. Rob Portman, the longtime Washington veteran and savvy deal-cutter, is on the cusp of achieving a major bipartisan achievement that would amount to a capstone of his three decades of public service: The Senate's passage of a roughly $1 trillion package to rebuild the nation's infrastructure.\n  "
+    publishedDateTime: 2021-08-06T17:54:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KO4QOhKUq7Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/06/politics/infrastructure-republican-senate-candidates/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/06/politics/infrastructure-republican-senate-candidates/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210806094525-josh-mandel-2014-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -366,6 +366,6 @@ related:
         height: 629
         isCached: true
 
-secured: "WR91QzcOXJyWXipuVF2jkJdbaOZXcp1vaYiOt1KIQGH5D5CjJ/1J2ZgTOHeSIjCBdKUUsuFmaHIFb7HA12yXnFeoMmuFfIfHSviWWCoQJkdxt5HfrNqstxw33NUgf79lsGGr0hlNZi4bagkkpz7Zd1AOsRI+azLdA5x5Ckc9ry7+g7kMWC9m3//4+RjVpcprnw2hkA2OwguXfa1QtgbsVBS/rse/Y2J1iPSpuFwA23TrzRBdcBVtJcrQZuaCGcgDwtVIjC9pVtMW+OYvbW1EnU2tf+IjPiYFJdItH9v01yZXEn9+b8yu5xo7Rq9ooyCXX7KkDIUV75WgHZMtGYmDnzJ4OoaquKIO6+6XExWk+xg=;iLMn7MW/+1eTxEcrTtmo8Q=="
+secured: "aTYTGwP2hZdb4ljA4oqas/CE5jzs3XGpDVxMHzzWk8l/WYVTMeFUl9ulMbt4MUu8pLEqARb3bDYAkoNKhePpo3+gEKRLZRuuIhtl/ONdJiurEC3uBccpSXP3CsG1y+EVyWIyuZdBcPV9azhvX0OsYjmDkM1BljiiA/QIviiOcBBSEW3uteY8kJZwA2OVTGy4ennaxNunXHHJpYgbvbVduaY/WAw2IP6HaUxQJIRsd5WexkUnMNnA849h/ubHD4BTvHQfOS5oNhQh/jIRtFQiCVKCulF8b7l8mLnMQ2h/nYsdjghPMrVdZym1eGTB8vxsiFhdAFzm6rkaezxSIN0H7VVEoA9PKE/bSzgazrE89cY=;5xWH4w7sIKeCotdbyXDyvQ=="
 ---
 
