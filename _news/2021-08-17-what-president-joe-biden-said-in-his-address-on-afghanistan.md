@@ -3,18 +3,18 @@ category: news
 title: "What President Joe Biden said in his address on Afghanistan"
 excerpt: "As criticism of the president mounted, Biden addressed the country as the Taliban took control of Afghanistan and chaos overtook the Kabul airport."
 publishedDateTime: 2021-08-16T23:06:00Z
-originalUrl: "https://www.statesman.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
-webUrl: "https://www.statesman.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
-ampWebUrl: "https://amp.statesman.com/amp/8157340002"
-cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8157340002"
+originalUrl: "https://www.indystar.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
+webUrl: "https://www.indystar.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
+ampWebUrl: "https://amp.indystar.com/amp/8157340002"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/8157340002"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Austin American-Statesman
-  domain: statesman.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -622,6 +622,6 @@ related:
       domain: cincinnati.com
     quality: 13
 
-secured: "BgQiO34jgT4kViwDt8yv4JsQfnUkAwfIv/hEb4zjZA8OtkNS+dTTVqdG0cl8K8bEjn4QQNOutzwLCRqdjqBGzr46KEk5odlPSwbew8ogx+erw9hi1gMNBEe4KDDU9b+afk2ruDe7GpEARQt83oC143t//NCiyxbHo/6P6QHN4Ig8G2H9ME+lKI7okpm/1f8/fBUvng4JrLrEVV7elGvg3aKI2ZkkUnTOQCfVAG6sLyyi/hkrhu8b4IyWep20IEYK8FNZG4+FRvn9cKOHW3LMEVmYc/Nz2kUNHMqroKLLMfSXdglaBrbslYJtGTlOCBOMAsoxL35WNnJPzz1Hu30FXhAwPi0vQzB+ODqoCg9WzrA=;QKfAQgkE/PXCkTY+rVTggw=="
+secured: "M7PyinyAsDqnKI8fKADuyWMMhFTfGyio5+qihT6OIDUVCLPRpYupXGnv3kbfc1VUDhH+7/xlsXqvFW8dwQwPDWs+R58Z+3lgsamd1XKUtvnkP/UDxMZ9lxdQu8YwkTNDmVVayF+I+RqWQH9/fzGseCG4hAF/0A+vG0AYZWtPjUivOSIK6LWpps0QnDhtrv5VlnHedCoeDDhVVVx+6O1w6DN80/MaikkuNDVBPgKqH515taR0gwDIxNc8E+MZ4pPHUcNKRI05saoqaJQQSQotHi1xNHQU8zhXJC/JRJyUiurZj2N3DZX8TDJWiS1EyF3yzuhOTjDoLCULTIZ2/N3BRtAdKISttkqSOK2rILTweG0=;OUBLb2ULLGLjmrWf/td2jA=="
 ---
 

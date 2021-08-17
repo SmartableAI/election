@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact-checking Biden's assertion that the Afghan military was '300,000 strong'"
+    excerpt: "Defending his withdrawal of US troops from Afghanistan, President Joe Biden and his administration have emphasized how many people served in the Afghan military before its collapse.\n    \n"
+    publishedDateTime: 2021-08-17T21:22:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q-FJh5t1t_A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/17/politics/fact-check-biden-afghan-military-size-forces-police/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/17/politics/fact-check-biden-afghan-military-size-forces-police/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210817072728-biden-afghanistan-washington-0816-file-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration expected to advise Covid booster shots for most Americans"
     excerpt: "Top health officials in the Biden administration are coalescing around an agreement that most Americans should get Covid booster shots eight months after becoming fully vaccinated, two sources familiar with the discussions tell CNN.\n    \n"
     publishedDateTime: 2021-08-17T03:27:04Z

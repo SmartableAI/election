@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/12/politics/joe-biden-donald-trump-b
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/12/politics/joe-biden-donald-trump-barack-obama-afghanistan-infrastructure/index.html"
 type: article
 quality: 185
-heat: 625
+heat: 645
 published: true
 
 provider:
@@ -300,6 +300,22 @@ related:
     quality: 159
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210811152502-07-wh-infrastructure-ricchetti-terrell-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Ex-defense secretary: Trump's push to get US troops out of Afghanistan possibly 'undermined' deal with Taliban"
+    excerpt: "Former Defense Secretary Mark Esper said Tuesday that he was concerned that then-President Donald Trump \"undermined\" the US' 2020 agreement with the Taliban by pushing for US forces to leave Afghanistan without the Taliban meeting the conditions of the deal.\n    \n"
+    publishedDateTime: 2021-08-17T21:06:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DojV4CnXtSE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/17/politics/mark-esper-donald-trump-taliban-afghanistan-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/17/politics/mark-esper-donald-trump-taliban-afghanistan-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200714171751-01-mark-esper-0709-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden to give TV interview to defend Afghanistan stance – live"
 excerpt: "President to speak to ABC’s George Stephanopoulos after n"
 publishedDateTime: 2021-08-17T12:39:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news?page=with:block-611bb53f8f08cf238eadd16b"
-webUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news?page=with:block-611bb53f8f08cf238eadd16b"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news?page=with:block-611bb2a78f089f8318278c0a"
+webUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news?page=with:block-611bb2a78f089f8318278c0a"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/e5835f4c244ac326cb376185f42ab910faac55a0/0_0_3257_1954/master/3257.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2654ed0ecdd78f480207ec0121bf5a8f"
+  - url: "https://i.guim.co.uk/img/media/aa1d8cf55f1125cd0c7e2cac79fed0d88a6d7370/0_233_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=66ebe58881300bb33576d65685341866"
     width: 600
     height: 360
     isCached: true
@@ -445,9 +445,9 @@ related:
         height: 630
         isCached: true
   - title: "Joe Biden to speak on Afghanistan this afternoon – live"
-    excerpt: "Greenfield, told the emergency security council meeting this morning, essentially, that countries other than Afghanistan need to prevent Afghanistan becoming a base for international terrorism again."
-    publishedDateTime: 2021-08-16T17:03:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live?ref=upstract.com&curator=upstract.com"
+    excerpt: "Blinken spoke today with Russian Foreign Minister Sergey Lavrov about developments in Afghanistan, including the security situation and our efforts to bring U.S. citizens and vulnerable Afghans to safety."
+    publishedDateTime: 2021-08-16T17:19:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live?page=with:block-611aa3be8f08aeaec2f20ed6"
     type: article
     provider:
       name: The Guardian
@@ -866,6 +866,6 @@ related:
       domain: usnews.com
     quality: 33
 
-secured: "xXOBqT27RpE5fWxnC9TsWkNxcVfqicDMVmCski8tJGwkGljP0/QoE1Mfeda1r6UWd1zm07Rd4ghsFAa92JTKBDTghwaCRZMpi25qFf+xLrjNYaR2hFKg/BgsaYqZsmFip50MAMmTxPtCJqYPz1LDZZnxL05HpyOcINsgm8Uc3Ij9SpsJUrsVNtJDYDGe2Yvd8eEbA/PT78OKToTu5V6s7vmiVWFjTsZFJQjAzESvQ6Lk5PsUg8jxclDQEN4bQhU68+Ou+y2MPr0kBAylJ7dPqZ9h7bx/3uDe7y/PmI/hQvQ9nXHD1GLJwrQ6FEGACpkPbCjD0V5mAauOV4oG+RT8gf3ybBQ083Hj5wayTd3l9N0=;4XmgL4B7Kr31MzDn+vkuLA=="
+secured: "XDXWWUMuftlREs6fG+OB5yMZdlfY+A4RzNqnwglzkHBrqe8Y9sLlxoOC+PIPUwxvs5JEqql7rGxZy7XCFIag8KewKfuy/lxqaPvIx0YhdwU6BzCigs9zgiQ5tblmGOLK92hwrR+0r3Lj6gk2ez2pTpPO+8f5YQbgeH6DExEo7qoBPDiO/YBUzTo5u0Z2FMIijiHUKmREdd3WSnZhcn/oIyuH2dBogtoWVtXzgb/bYf027JD+2jauvoeZBkBHcv6W6IK1jvwlPbro/aATMm0m1Lq+VwoLviNme944geXWCzGghqEt43wyNjEP+nt0fiKN044xdmR7ts1lS2wr+RYf2s+8rWnj+V0l5rTmnEQOhCc=;w2y9dEPvjqyfPZjph5SvlA=="
 ---
 

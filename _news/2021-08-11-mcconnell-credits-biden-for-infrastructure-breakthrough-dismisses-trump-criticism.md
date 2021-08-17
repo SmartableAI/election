@@ -432,6 +432,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Republicans demand resignations over Biden's Afghanistan debacle"
+    excerpt: "A handful of Republican congressmen are calling for heads to roll in the administration for the botched handling of the troop withdrawal from Afghanistan."
+    publishedDateTime: 2021-08-17T21:19:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZGLUxDm5Eyk/biden-afghanistan-republicans-demand-resignations"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/GettyImages-1208918824.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "‘Do you miss me yet?’: Trump slams Biden over Afghanistan, inflation"
     excerpt: "Former President Donald Trump lashed out at the Biden administration’s handling of Afghanistan, rising inflation and illegal immigrants, asking: “Do you miss me yet?” The attack came as the"
     publishedDateTime: 2021-08-13T15:32:00Z

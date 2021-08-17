@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris Utterly Flubbing Her Job as Veep"
 excerpt: "Kamala Harris isn't very good at this. The vice president has never won an election on her own outside of the hothouse of California politics, and it shows. On paper, she was a strong"
 publishedDateTime: 2021-08-09T11:33:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/08/09/kamala_harris_utterly_flubbing_her_job_as_veep_549009.html#!"
-webUrl: "https://www.realclearpolitics.com/2021/08/09/kamala_harris_utterly_flubbing_her_job_as_veep_549009.html#!"
+originalUrl: "https://www.realclearpolitics.com/2021/08/09/kamala_harris_utterly_flubbing_her_job_as_veep_549009.html"
+webUrl: "https://www.realclearpolitics.com/2021/08/09/kamala_harris_utterly_flubbing_her_job_as_veep_549009.html"
 type: article
 quality: 65
 heat: -1
@@ -410,6 +410,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "lScz4e9QQeKa+UeyQp25vKnmx9C7vfWld7Loxex8FutyKMnnCVk9Dmp0oW1ua3gh+wQhqqN3lztHnW2CJINVsD1vOZMQhyAg6DWLK0oL340bFQmDOAn7AmRIwXR4kcPg0CG6Jpabn6dZjYq2FpL3clayXAEgJf4O6C30S96ng5MCAXlkVwBv58tJke+cVkQObBjnJ9fTI7p0K0btLZQRvCr0I3u4CixFfKL6AgPy/SOS9zsBPYRFkGC12Gee64Tg3JtnhXb/sG+jWpsG8u2Bzjcr35ZycO/aXZev2KnEHySOnHpBN1z8GHnsCWncwk2Zgx4DC9U5RBgw3elrmX3I0wWXtKatDc1LZW9ei0wwUO4=;Y63qhtje1GL96xnnOH9AEw=="
+secured: "EMljjqpmrSeHHMeBBdrHQMWb5o0Ag2Webd46LU4QBEYei8kPziaq0wXKGSwQ/M388McT3PMmK6anPB0/OF4jMWn61PqMvPgjapqrNMqQB4CpJnwbIETLyPWGePs/0/2FuiYP9Y+wJEwVEqTKzltfCzBcb4UUhCNXTj1rkGm+FIxADI5ev79koMGu+mxybb1jJeT2Tn6ZdBCvhzVsOz40EIIjXIgMkkae2cYRKzmve8Dmh8xlZZEn26fTymsqGFDRETvKESuTxCZajRVtZDoW2xIw+rFDdICljkzaByBtAMJmzGMNMhIZ3zZlCvH0WmN9Y94e//Q18nxC9aUavmJPu96C6eG2sFQwflUjkf+Gk7M=;/D+GMZYZUlVuvjjmWOg0Ow=="
 ---
 
