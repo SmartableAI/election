@@ -175,6 +175,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Joe Biden to give TV interview to defend Afghanistan stance – live"
+    excerpt: "President to speak to ABC’s George Stephanopoulos after n"
+    publishedDateTime: 2021-08-17T12:22:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/27f5fab66768bfceb557636a24497ebf2b9e8e80/0_111_3338_2004/master/3338.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f3deaebe135e5363c16b05454a824596"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden to withdraw all US forces from Afghanistan by 9/11: Defense official"
     excerpt: "On Location: April 13, 2021 A U.S. defense official confirmed to ABC News Tuesday that President Joe Biden will withdraw all U.S. forces from Afghanistan by Sept. 11, the 20th anniversary of ..."
     publishedDateTime: 2021-04-13T16:38:00Z

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Blinken visits Afghanistan in show of support after Biden announces withdrawal"
-excerpt: "U.S. Secretary of State Antony Blinken made an unannounced visit to Kabul on Thursday to show support for the Afghan government and civil society a day after President Joe Biden said he was pulling out American forces after nearly 20 years of war."
-publishedDateTime: 2021-04-15T19:03:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-afghanistan-blinken-idAFKBN2C21HU"
-webUrl: "https://www.reuters.com/article/us-usa-afghanistan-blinken-idAFKBN2C21HU"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2C21HU"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2C21HU"
+title: "Joe Biden to give TV interview to defend Afghanistan stance – live"
+excerpt: "President to speak to ABC’s George Stephanopoulos after n"
+publishedDateTime: 2021-08-17T12:22:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
+webUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
+ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
 type: article
-quality: 121
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210415&t=2&i=1558579629&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3E0R5"
-    width: 817
-    height: 545
+  - url: "https://i.guim.co.uk/img/media/27f5fab66768bfceb557636a24497ebf2b9e8e80/0_111_3338_2004/master/3338.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f3deaebe135e5363c16b05454a824596"
+    width: 600
+    height: 360
     isCached: true
 
 related:
@@ -175,22 +175,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Joe Biden to give TV interview to defend Afghanistan stance – live"
-    excerpt: "President to speak to ABC’s George Stephanopoulos after n"
-    publishedDateTime: 2021-08-17T12:22:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/27f5fab66768bfceb557636a24497ebf2b9e8e80/0_111_3338_2004/master/3338.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f3deaebe135e5363c16b05454a824596"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Biden to withdraw U.S. troops from Afghanistan by Sept. 11, officials say"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden has decided to withdraw the remaining U.S. troops from Afghanistan by Sept. 11, 2021, 20 years to the day after al Qaeda’s attacks triggered America’s longest war, U.S. officials said on Tuesday. U.S ..."
     publishedDateTime: 2021-04-13T15:55:00Z
@@ -270,6 +254,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1777278/president-joe-biden.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Blinken visits Afghanistan in show of support after Biden announces withdrawal"
+    excerpt: "U.S. Secretary of State Antony Blinken made an unannounced visit to Kabul on Thursday to show support for the Afghan government and civil society a day after President Joe Biden said he was pulling out American forces after nearly 20 years of war."
+    publishedDateTime: 2021-04-15T19:03:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-afghanistan-blinken-idAFKBN2C21HU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2C21HU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2C21HU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210415&t=2&i=1558579629&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3E0R5"
+        width: 817
+        height: 545
         isCached: true
   - title: "Biden to say in Afghanistan speech ‘it’s time to end America’s longest war’ – live"
     excerpt: "Lawmakers of both parties have criticized Joe Biden’s plan to withdraw all US troops from Afghanistan, with some accusing the president of abandoning America’s commitment to the Afghan people. In his speech this afternoon, Biden will emphasize that ..."
@@ -866,6 +866,6 @@ related:
       domain: usnews.com
     quality: 33
 
-secured: "LSYrmNCb580sGLnZkphHpTCopxdwWIVL2fkGkf/1W6U5YYprZ6zQaJt5fTjj9C9Q4d/abAeptW26icnbJC6ZAR91b+YHfmXBNkF0i4jYUKelCL6O2mrn1RD5GWE8OJG0YXZ7AQHih8QMxpK51Q6Js0FnY6D/M/JA8abdvRO4CSNkNNRM8hkQO4E8WYocS5d1Q4ugK4BSeqUOyr+SO/x6kgAbr7ZpTvf2VLmVrKywEcD7JoHg0x4GINl3bu2lVGOttffWgJoNYfQAFOrSeJ2bMjubCJKVCtqtf45TQJ9f99Da9oOfSPGTNlErHsoHzGylbf1g7euWUH3QCd0n/skK+uY7mzuisq0D+UC3prd6kI67SQKt9keRYAeab73rvVaXDy/wgCcAAx7Z6gKmYK5GbqqDxmjLMLmuc5mwX4hoEG8syi3xGdXUzRIetBhR88SE7adgB0CrzVUXvY7wOTmOZNsMPCY4hcI9Ffgr0zZlWwYHQI9Mjf0hO4poirAoHenHXTZet7lwXw0N2i42PFb1Cw==;8OuL5aZTigqw8KAZ8w+IwA=="
+secured: "CLmYYIylXFZqCc3wl2hmnv57vVA/RwHMnraCoXsKRX5MG6Cq94uufoAJz8E7ZQ2jauPSg4QObg6cLM0mLm59m/5wneea0hlHyiBqnR9Si3hLlUBp7GTu8QHS1/FRGWje4/2X7KxNSbeaCanf+nOXS008o+LgrfbkmAT2iKvMAVsw3RwZ85/TjIDOikPLqKR+Kb7FPxgJX0sbyPPTbKcVGkVsPPr+M4/8vfXy3hKizt3Rb2iOGmrNIjQsaRJDW+GsMR5a9M4SyAXFb/b/TkX7DeP4fmMh6piTLKT0mpRUFgr6Mf05Sg/ElZM9cCTRsI0l7mAYWNbEtJY3Cw7ArkXrTDwNdTJsX8Nh31AhE/d6Du0=;KPM6UYB+yFrhvCW78ZiTHg=="
 ---
 

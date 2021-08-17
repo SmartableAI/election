@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C028S"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C028S"
 type: article
 quality: 125
-heat: 1245
+heat: 1265
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
     quality: 125
     images:
       - url: "https://i.guim.co.uk/img/media/4bf99e9b33a417586b62ca6d94dbfe4d249bc0a6/0_39_2000_1201/master/2000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a1ddeaeaad0f377cbb2d4d97c4e0bbf3"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Joe Biden to give TV interview to defend Afghanistan stance – live"
+    excerpt: "President to speak to ABC’s George Stephanopoulos after n"
+    publishedDateTime: 2021-08-17T12:22:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/27f5fab66768bfceb557636a24497ebf2b9e8e80/0_111_3338_2004/master/3338.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f3deaebe135e5363c16b05454a824596"
         width: 600
         height: 360
         isCached: true

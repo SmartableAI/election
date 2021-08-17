@@ -173,6 +173,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Joe Biden to give TV interview to defend Afghanistan stance – live"
+    excerpt: "President to speak to ABC’s George Stephanopoulos after n"
+    publishedDateTime: 2021-08-17T12:22:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/27f5fab66768bfceb557636a24497ebf2b9e8e80/0_111_3338_2004/master/3338.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f3deaebe135e5363c16b05454a824596"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden to withdraw U.S. troops from Afghanistan by Sept. 11, officials say"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden has decided to withdraw the remaining U.S. troops from Afghanistan by Sept. 11, 2021, 20 years to the day after al Qaeda’s attacks triggered America’s longest war, U.S. officials said on Tuesday. U.S ..."
     publishedDateTime: 2021-04-13T15:55:00Z
@@ -850,6 +866,6 @@ related:
       domain: usnews.com
     quality: 33
 
-secured: "Xr9b9GUrW9NPY23YWHjVBGI5py3HV+WOcet7aGdJtnRTHsZrY4bBn062qQgo2LmJFTEgw8IUD8KZckqbBHbDE15D7FaJt8k8OiviJJNnvZmsqSxcDOyRzz28TXwXkjffTrWCfb/S6CKd/9kAWqO037a2eDB3HhnQ/uxsX+wKIoKIPlqlc5XXjxARG/CnYcrmFyBIdVhasb2Qb2n3zE4IBSTroYp59RiPRRegnKRAcsjVzmYvjMZ7Aajt1rLhrwwFaepqenXv9GjWmJA7StxWyCkbFeBSZNwnNg2J/9THdWMZJ9iY+VY/kwG7Q3+WYN1tI0p8cTS46eS32fR4XXwh1wq4O7tJ8K3l8vqaWDbuXtQ=;F2a2yiF36D3pzeFl9ndouA=="
+secured: "CVLk8Abt440kd3uejdIQF7ZYk8OsJZ7BKRvrGtGnrIesJ7vJ0KoR1bUZ0VGywSNYIPveStnQ2dRiGTkMc1WRp6tC047vdcXL1mS1YS9y4ZNLQczA61Ci1Kzh+leU006w0N9HxzoNluv6GhMlHZ6E12is1TJAaS7k4opupnjxStuGs3JmYVUmCPo9TyDy5we8q3z3o5N2jstwl/bSen4PZH0scSXodcKduoG8bbsLXox+5R6AjC9nSWPxF/p9DPYHc+2eEp9PVjbbYl5ET+q296hqs8Oj7GdeQ9Ie5bXNF7JYUhm4e3lLP725stKs2Lb0HdYJrUi3AX99oq449vBtU9X166ANB6XcnGzod5bMQ6GrU9+1K9+rBN29B4klohYU7OT1jT/isc7vfNEH5IFEh5t+AGkMmGQGEu/7gGC8N1AfPi8NrumczOI7nOzNNXi3JkPwrr590BAQ6QbY5AuBkVWS91pB9l0xiJpdv+maxU6uMvHLoYg7Ei3noWXrE5SyseTOJHwb8ewAZ9TVQ1RfVg==;FZOujzs1BHPg6WlNwHMrkg=="
 ---
 
