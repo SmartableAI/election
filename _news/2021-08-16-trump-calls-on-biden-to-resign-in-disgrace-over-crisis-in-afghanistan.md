@@ -333,6 +333,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden hit with bipartisan criticism over Afghanistan debacle: 'Our dire warnings fell on deaf ears'"
+    excerpt: "President Biden is the target of relentless criticism for his handling of the military drawdown from Afghanistan, which has resulted in a swift Taliban takeover of the nation, the abandonment of the American embassy and desperate scenes at the Kabul airport."
+    publishedDateTime: 2021-08-17T15:41:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FUKZaOAHak0/biden-bipartisan-criticism-afghanistan-debacle"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-bipartisan-criticism-afghanistan-debacle.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-bipartisan-criticism-afghanistan-debacle.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "‘Do you miss me yet?’: Trump slams Biden over Afghanistan, inflation"
     excerpt: "Former President Donald Trump lashed out at the Biden administration’s handling of Afghanistan, rising inflation and illegal immigrants, asking: “Do you miss me yet?” The attack came as the"
     publishedDateTime: 2021-08-13T15:32:00Z

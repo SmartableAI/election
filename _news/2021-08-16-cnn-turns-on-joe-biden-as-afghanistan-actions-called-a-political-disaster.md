@@ -113,8 +113,8 @@ related:
         isCached: true
   - title: "Afghanistan live news: chaos at Kabul airport as Joe Biden speaks for first time in a week"
     excerpt: "US president has begun speaking on Afghanistan – and opened by saying the US has achieved its goal"
-    publishedDateTime: 2021-08-16T19:50:00Z
-    webUrl: "https://www.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates?page=with:block-611abbb78f08aeaec2f21009"
+    publishedDateTime: 2021-08-16T20:49:00Z
+    webUrl: "https://www.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates?page=with:block-611ad9af8f08d30d155038b1"
     ampWebUrl: "https://amp.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates"
     type: article
