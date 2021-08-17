@@ -60,9 +60,9 @@ related:
         height: 281
         isCached: true
   - title: "Joe Biden Blamed Afghan Leaders For Giving Up As The Taliban Took Control"
-    excerpt: "Last updated on August 16, 2021, at 5:14 p.m. ET Posted on August 16, 2021, at 4:48 p.m. ET President Joe Biden delivers remarks on Afghanistan from the East Room of the White House on Aug. 16. President Joe Biden blamed Afghanistan’s exiled president and military on Monday for the “gut-wrenching” fallout of the US's withdrawal from the country as the Taliban retakes power after two decades of war."
-    publishedDateTime: 2021-08-16T21:50:00Z
-    webUrl: "https://www.buzzfeednews.com/article/nidhiprakash/biden-afghanistan-speech-taliban-take-over?ref=bfnsplash"
+    excerpt: "In an address from the White House, Biden stood by his decision to withdraw US forces from Afghanistan, insisting he would not repeat past mistakes."
+    publishedDateTime: 2021-08-16T21:14:00Z
+    webUrl: "https://www.buzzfeednews.com/article/nidhiprakash/biden-afghanistan-speech-taliban-take-over"
     ampWebUrl: "https://www.buzzfeednews.com/amphtml/nidhiprakash/biden-afghanistan-speech-taliban-take-over"
     cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/nidhiprakash/biden-afghanistan-speech-taliban-take-over"
     type: article
@@ -125,8 +125,8 @@ related:
         isCached: true
   - title: "Afghanistan live news: chaos at Kabul airport as Joe Biden speaks for first time in a week"
     excerpt: "US president has begun speaking on Afghanistan – and opened by saying the US has achieved its goal"
-    publishedDateTime: 2021-08-16T20:00:00Z
-    webUrl: "https://www.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates?page=with:block-611ab8858f08aeaec2f20fef"
+    publishedDateTime: 2021-08-16T21:07:00Z
+    webUrl: "https://www.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates?page=with:block-611acbc28f08aeaec2f2108e"
     ampWebUrl: "https://amp.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates"
     type: article
@@ -216,6 +216,22 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Livestream: Joe Biden to speak about Afghanistan after Taliban takeover"
+    excerpt: "The president was expected to address the nation from the White House at 3:45 p.m. Watch live on Boston.com."
+    publishedDateTime: 2021-08-16T23:25:00Z
+    webUrl: "https://www.boston.com/news/politics/2021/08/16/joe-biden-afghanistan-livestream-video/"
+    ampWebUrl: "https://www.boston.com/news/politics/2021/08/16/joe-biden-afghanistan-livestream-video/?amp=1"
+    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/politics/2021/08/16/joe-biden-afghanistan-livestream-video/?amp=1"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 75
+    images:
+      - url: "https://bdc2020.o0bc.com/wp-content/uploads/2021/08/Biden_84639-611abb2b2715f-scaled.jpg"
+        width: 2560
+        height: 1706
         isCached: true
   - title: "Watch: President Joe Biden to speak Monday about Afghanistan after Taliban takeover"
     excerpt: "President Joe Biden will address the world from the White House at 3:45 p.m. Monday after a day of chaos in Afghanistan, where Taliban leaders walked into the capital city of Kabul after a swift siege across the country and where American diplomats and thousands of civilians are scrambling to exit."
@@ -425,6 +441,6 @@ related:
       domain: usnews.com
     quality: 31
 
-secured: "8SywirrncbTWQKgKNInrxSKSoVgbfJ3V77tyeIKn3Wn7vLOZcmhjyNGgOrOIUIYKj3gax45QmVMJwvdIuegNLUXfpdx996uRC+k/Vu0tR2KTdt/0bdTMhIbeZWNx43tj1f4GnowsLZnewDu1aIYyIKj3S0VrO7UOxVEgpU47hlEfZBwMX/sq7tkXgOywa/2Jze0j3TOX84KXKXxbLlLjWsxv4xHzuD9SH0tt8Ppf29qqiY1YQMoW3k6+0osqyDlplSERCgyiRnmtJvrT50P/PLKGfJ5DTKN1Qe8dsdphbSb0ZFotlht0SCcVAYG3Posi+j4OUJBafpBYorJuGq56z/JBa7yc/DDA0n32DLmelW4=;Mh6UyZZciBoF9mozYcqxBg=="
+secured: "khPD1H6msQVa4HNUli5n/wY9GlznDFzvLZaYAJYB2VX5DLA9wOLm7TXHnmBQZRSqIDNExm9Q25ZsVWhdoWpN3cSMVEFYsMnNuxx2nselCGCM28hkijhgUOInzg25E4cyyGxGFHqNjj3LaP1UgyZU73k4x+xR2GxJKtk8x6xKhoWFurXFNOzJdRWznBdUO5wJRir9mQTsILe3wWrldNpbWqyvU7kkhzr1SyBznwsPs5fKAOiCE+oJWNaf79wYMntswohPDeh5tRpBq42pRlj95/7fkCRTeNdwFtQNtkcwiLk2i7IPStTahdztNu5xTUg7AGCpN+x6tNsDbC32st2Fm5jgDe2/lqfx7rDIu2GDlm7r0R1Cn/KokVWnxmpF+ZXs6Hh7eW6l34NW4LCDTl4fpR1yFpOXDTqa8ARy4UGn2q8ZRqKVcM8jPRJEyge2fIpVJDgLuvZGAuVu2+TQZ/zHiwAXh3V4FBS3PjKGNgXEXWU6RYZ0PvtMGfgKZRJCQpHh3RBAJ+Q/tj21YB0HZ4TKag==;1k+ksQMh0FaDbrmDPo80pg=="
 ---
 

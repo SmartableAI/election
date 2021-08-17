@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-10-biden-covid-origin-investigation-expected-to-end-soon-charlotte-observer.md",
+      "title": "Biden COVID origin investigation expected to end soon | Charlotte Observer",
+      "excerpt": "A 90-day intelligence review into the origins of COVID-19 ordered by President Joe Biden is expected to end largely where it began, without high confidence in how the coronavirus first emerged, government officials told McClatchy. Biden will receive a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.charlotteobserver.com/news/coronavirus/article253365748.html",
+      "originalUrl": "https://www.charlotteobserver.com/news/coronavirus/article253365748.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557046001/12b39f35-3a05-423f-a838-37e72ee371d0/e503dd4e-6739-4b6c-8212-c4272a4fecad/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.charlotteobserver.com/news/coronavirus/article253365748.html",
+      "cdnAmpWebUrl": "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/coronavirus/article253365748.html",
+      "publishedDateTime": "2021-08-09T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Charlotte Observer",
+        "domain": "charlotteobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-09-biden-pushes-sanctions-against-belarus-lukashenko-regime.md",
       "title": "Biden pushes sanctions against Belarus' Lukashenko regime",
       "excerpt": "President Joe Biden on Monday said the United States is levying new sanctions against Belarus.",
@@ -1280,58 +1323,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-woke-means-you-lose-donald-trump-rails-at-uswnt-after-olympic-bronze.md",
-      "title": "‘Woke means you lose’: Donald Trump rails at USWNT after Olympic bronze",
-      "excerpt": "Donald Trump has taken aim at one of his favourite targets, the US national women’s soccer team, after they won bronze at Tokyo 2020",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/football/2021/aug/05/donald-trump-uswnt-usa-soccer-olympics-bronze-megan-rapinoe-tokyo-2020",
-      "originalUrl": "https://www.theguardian.com/football/2021/aug/05/donald-trump-uswnt-usa-soccer-olympics-bronze-megan-rapinoe-tokyo-2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/fc024b3640fb35fce3693f00f1ec177e42aa0322/0_77_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f73ba05b1fca33d077b94bd2db247dd8",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/football/2021/aug/05/donald-trump-uswnt-usa-soccer-olympics-bronze-megan-rapinoe-tokyo-2020",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/football/2021/aug/05/donald-trump-uswnt-usa-soccer-olympics-bronze-megan-rapinoe-tokyo-2020",
-      "publishedDateTime": "2021-08-05T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

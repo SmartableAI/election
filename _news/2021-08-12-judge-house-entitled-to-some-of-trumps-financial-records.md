@@ -261,6 +261,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Jerry Brown: Trump’s coal policies a ‘declaration of war against America and all of humanity’"
+    excerpt: "Gov. Jerry Brown told his constituents in the Golden State on Tuesday that \"war\" has been declared on \"all of humanity\" by President Trump. The White House's decision to roll back Obama-era regulations on coal-fired power plants enraged the California Democrat so much that he framed himself as environmental revolutionary."
+    publishedDateTime: 2021-08-16T23:18:00Z
+    webUrl: "https://apnews.com/article/business-jerry-brown-b3460d04ffbbeda181c3a128dd9bbe97"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 74
   - title: "Tammy Baldwin calls GOP tax bill a boon for wealthy; Republican foes cheer Donald Trump’s efforts"
     excerpt: "A Republican remake of the federal tax code bound for a U.S. Senate vote as soon as next week is being decried by Democratic Sen. Tammy Baldwin as a “giveaway to the wealthiest few,” while her potential GOP challengers are cheering President Donald Trump’s bid for a once-in-a-generation tax-code overhaul."
     publishedDateTime: 2021-08-16T16:35:00Z

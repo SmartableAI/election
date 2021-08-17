@@ -76,6 +76,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden should have seen Afghanistan collapse coming, Kelly Ayotte says"
+    excerpt: "Former Sen. Kelly Ayotte, R-N.H., sounded off in a Monday phone interview after President Biden’s speech on the fall of Kabul, saying it was “not an accident that the military did not recommend this course of action.”"
+    publishedDateTime: 2021-08-16T23:55:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZDGQB7ANvTY/ayotte-biden-afghan-collapse-coming"
+    ampWebUrl: "https://www.foxnews.com/politics/ayotte-biden-afghan-collapse-coming.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ayotte-biden-afghan-collapse-coming.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/56749b46-6f47-4b2c-862b-204954345e65/41fbcb37-911f-4218-84a0-15c84ff78cfa/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden's Afghanistan prediction fails spectacularly"
     excerpt: "President Joe Biden promised Americans that the Taliban would not storm the U.S. Embassy in Kabul resulting in a helicopter airlift reminiscent of Saigon in 1975. The opposite just happened."
     publishedDateTime: 2021-08-16T02:08:20Z
@@ -172,6 +188,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Lindsey Graham slams Biden Afghanistan speech: 'No one to blame but himself'"
+    excerpt: "Senator Lindsey Graham took aim at President Joe Biden's speech, insisting Biden take more responsibility for failures in Afghanistan"
+    publishedDateTime: 2021-08-16T23:58:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cC2h-yNlQc0/lindsey-graham-slams-biden-speech-no-one-to-blame-but-himself"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-slams-biden-speech-no-one-to-blame-but-himself.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-slams-biden-speech-no-one-to-blame-but-himself.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd9f3aff-80ee-4ead-b58b-95378c552380/353d4471-c575-42c6-be66-0de459d50f7b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Top Biden official admits fall of Afghanistan 'unfolded at unexpected speed'"
     excerpt: "White House National Security Adviser Jake Sullivan on Monday said the security situation in Afghanistan “unfolded at unexpected speed,” while maintaining that President Biden stands by his decision to withdraw U.S. troops."
     publishedDateTime: 2021-08-16T13:18:48Z
@@ -203,6 +235,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden promises military mission in Afghanistan will be short, limited in scope"
+    excerpt: "Biden said the military mission in Afghanistan will be short in duration and limited in scope"
+    publishedDateTime: 2021-08-16T22:21:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GFByAcEIrqE/biden-promises-military-mission-in-afghanistan-will-be-short-limited-in-scope"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-promises-military-mission-in-afghanistan-will-be-short-limited-in-scope.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-promises-military-mission-in-afghanistan-will-be-short-limited-in-scope.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa4d2dca-ffca-4c65-9b74-7634b1be29b1/94c5088d-68a9-4829-8e45-d5285306e28b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "All eyes on Biden's response to COVID variants, Afghanistan, border crisis, inflation"
     excerpt: ""
@@ -267,6 +315,20 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump.jpg?quality=90&strip=all&w=1024"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Biden points fingers for Afghanistan debacle after promising he wouldn't 'blame others'"
+    excerpt: "During his speech today, Biden said he had “inherited” the deal former President Trump struck with the Taliban which required him to either follow through on the agreement or risk “escalating the conflict and sending thousands of American troops back into Afghanistan.”"
+    publishedDateTime: 2021-08-16T23:09:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4uf7iWNlhkg/biden-afghanistan-points-fingers-blame-others"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 147
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/Biden-head-down.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "McConnell Credits Biden for Infrastructure Breakthrough, Dismisses Trump Criticism"
     excerpt: "The Senate minority leader credited the president with helping to get the infrastructure bill passed in the Senate, but said he doesn’t anticipate many more opportunities for Republicans to work with Democrats."

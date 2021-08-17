@@ -268,6 +268,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "Former President Trump To Hold Rally On Saturday At Cullman, Ala."
+    excerpt: "Former President Donald Trump will hold a rally this Saturday in Cullman, Ala. It will be held at the York Family Farms, 1872 County Road 469. Cullman is 125 miles from Chattanooga. A tip from a citizen led to an investigation of abandoned chicken houses at 15687 Alabama Hwy."
+    publishedDateTime: 2021-08-16T22:46:00Z
+    webUrl: "https://www.chattanoogan.com/2021/8/16/432979/Former-President-Trump-To-Hold-Rally.aspx"
+    type: article
+    provider:
+      name: Chattanoogan.com
+      domain: chattanoogan.com
+    quality: 35
 
 secured: "c6s5DuHr/4RpACRTJcGn80TBwGgs3zoRwSXSjN1ok0v1VyqxP0ahoyG7o737tD7ocF/yFr+KjWVk5bsLarCkDTlcPo62TsSKBPb+J2ZBcZ0Ja4Etrhcc0jCIX/Nywur9supI30C7MCDVhE5TanvLNG3JcxB/px7gFCAIpmR6YXdKpNXdOgEbM44ilmYGNuvi+YYgeSewSGFjiK7zpoM6g1n9WK69HM65PA4ns/rFOAozYIkA54T0C7eTy1AFjq3IF33fCKSVXfeKC07jOEtnV0JWN0bazTIplWsZ3QWcmk40UA+BZCcsGncwXzEKtsRJlkz4lIfebjgDv20OuGIbf2m23LEiDmfyKBU8tDU1KYDxgXsmEZOGhuz0odWOCIFaXmXda/QnyHG3DRJRqB4VWobdO/AVx1eQGhjiZtsduhZPHAAmC/ShuTIfe3kJSEbQIlKz8TwF/kGCqyyKiUMe9xE71tYFAsqxURiuoON7O+SC3vEDANS0VhRrNVuEXAo8azm5BWbDsjaONdFrr37Cow==;B9w3PvD8F8bYzDO+ZptO2A=="
 ---

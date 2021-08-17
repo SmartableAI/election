@@ -69,6 +69,22 @@ related:
         width: 3431
         height: 2282
         isCached: true
+  - title: "Joe Biden: U.S. Conflict in Afghanistan 'Will Not Extend to a Fifth President'"
+    excerpt: "U.S. President Joe Biden is defending his decision to pull troops from Afghanistan, despite the turmoil the country has seen as the Taliban has seized control."
+    publishedDateTime: 2021-08-16T21:02:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-us-conflict-afghanistan-will-not-extend-fifth-president-1619908"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-us-conflict-afghanistan-will-not-extend-fifth-president-1619908?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-us-conflict-afghanistan-will-not-extend-fifth-president-1619908?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1872192/biden-addresses-chaos-afghanistan.jpg"
+        width: 3366
+        height: 2244
+        isCached: true
   - title: "Biden says the ‘buck stops with me’ — while pinning blame on Trump and lots of Afghans"
     excerpt: "I am president of the United States of America, and the buck stops with me,” President Biden said toward the end of his address Monday on the debacle in Afghanistan. The vast majority of what Biden said before then,"
     publishedDateTime: 2021-08-16T20:51:00Z
@@ -176,6 +192,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/07/30/Trump_Justice_Department_56084.jpg-e702c_c0-0-3600-2100_s1200x700.jpg?bd461f07e95b0f5f36779822774ec445b04d6d07"
         width: 1200
         height: 700
+        isCached: true
+  - title: "'A stain on the entire nation': Kinzinger blasts Trump and Biden for Afghanistan crisis"
+    excerpt: "In a scathing statement and series of tweets over the past two days, Afghanistan War veteran and U.S. Rep. Adam Kinzinger blasted the rapid withdrawal of American forces from the war-torn nation that's now once again under Taliban rule."
+    publishedDateTime: 2021-08-16T22:31:00Z
+    webUrl: "https://www.dailyherald.com/news/20210816/a-stain-on-the-entire-nation-kinzinger-blasts-trump-and-biden-for-afghanistan-crisis"
+    ampWebUrl: "https://www.dailyherald.com/amp-article/20210816/news/210819433/"
+    cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20210816/news/210819433/"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 82
+    images:
+      - url: "https://www.dailyherald.com/storyimage/DA/20210816/news/210819433/AR/0/AR-210819433.jpg&updated=202108161831&MaxW=800&MaxH=800&noborder"
+        width: 800
+        height: 533
         isCached: true
   - title: "Trump Asks Biden To 'Resign In Disgrace'; Blames POTUS For Afghanistan, 'Border Catastrophe'"
     excerpt: "Former President Donald Trump has called on President Joe Biden to step down from his post as the Taliban take control of Afghanistan. In a statement Sunday, Trump blamed the current situation in Afghanistan on Biden’s decision to withdraw American troops by Sept."

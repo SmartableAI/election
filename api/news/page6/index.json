@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-08-04-biden-set-to-comment-on-cuomo-as-white-house-calls-report-findings-abhorrent.md",
+      "title": "Biden set to comment on Cuomo as White House calls report findings ‘abhorrent’",
+      "excerpt": "President to address issue later on Tuesday, spokesperson says, as New York senators and members of Congress urge Cuomo to quit",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 281,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/d50c4bf5178356705905e065c63f90202161f50f/0_0_6930_4158/master/6930.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fe9d94f9a41a7a9ee93197fd08cd8132",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation",
+      "publishedDateTime": "2021-08-03T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-19-ags-to-epa-roll-back-trumps-clean-water-rule-asap.md",
       "title": "19 AGs to EPA: Roll back Trump's clean-water rule ASAP",
       "excerpt": "A coalition of 19 attorneys general led by California, Washington and New York urged the Environmental Protection Agency in a letter to repeal a Trump-era rule that they say curtails their authority to deny permits for projects that could harm their waterways.",
@@ -1282,54 +1334,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-abc-political-director-calls-out-biden-admins-confusing-covid-messaging-were-seeing-this-backslide.md",
-      "title": "ABC political director calls out Biden admin's 'confusing' COVID messaging: 'We're seeing this backslide'",
-      "excerpt": "ABC political director and analyst Rick Klein called out the Biden administration for what he called \"mixed messaging\" following the president's new COVID-19 guidance, which Klein argued was a \"backslide\" from comments the president made a few weeks earlier.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/abc-political-director-biden-confusing-covid-messaging",
-      "originalUrl": "https://www.foxnews.com/media/abc-political-director-biden-confusing-covid-messaging",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 78,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-01T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     }

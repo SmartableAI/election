@@ -238,6 +238,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Democrats grapple with Afghanistan fallout after Biden administration ignored their previous warnings"
+    excerpt: "Democrats on Capitol Hill are grappling with the political fallout in Washington of a crisis they warned the Biden administration months ago could become a fiasco on the world stage, as horrific images pour out of Kabul with residents desperately trying to flee.\n    \n"
+    publishedDateTime: 2021-08-16T22:25:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pe8tUbUG6FI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/16/politics/democratic-reaction-biden-afghanistan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/16/politics/democratic-reaction-biden-afghanistan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180428152112-senator-mark-warner-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "How two long-term Biden aides led efforts to court Republicans ahead of the Senate infrastructure deal"
     excerpt: "In touting the $1.2 trillion infrastructure bill hours after it passed the Senate with 19 Republican votes on Tuesday, President Joe Biden took a moment to needle his critics.\n    \n"
     publishedDateTime: 2021-08-13T10:00:56Z

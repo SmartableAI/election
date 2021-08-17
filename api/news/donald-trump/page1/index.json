@@ -140,6 +140,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-15-newsom-paints-larry-elder-as-right-of-donald-trump-as-recall-election-heats-up.md",
+      "title": "Newsom paints Larry Elder as ‘right of Donald Trump’ as recall election heats up",
+      "excerpt": "Gov. Gavin Newsom was joined by prominent San Francisco politicians at Manny’s in San Francisco’s Mission District on Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesheraldonline.com/2021/08/14/newsom-recall-election-heats-up-as-governor-and-candidates-hit-the-campaign-trail-2/",
+      "originalUrl": "https://www.timesheraldonline.com/2021/08/14/newsom-recall-election-heats-up-as-governor-and-candidates-hit-the-campaign-trail-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.timesheraldonline.com/wp-content/uploads/2021/08/SJM-L-CAMPAIGN-0814-09-1.jpg?w=1024&#038;h=685",
+          "width": 1024,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesheraldonline.com/2021/08/14/newsom-recall-election-heats-up-as-governor-and-candidates-hit-the-campaign-trail-2/amp/",
+      "cdnAmpWebUrl": "https://www-timesheraldonline-com.cdn.ampproject.org/c/s/www.timesheraldonline.com/2021/08/14/newsom-recall-election-heats-up-as-governor-and-candidates-hit-the-campaign-trail-2/amp/",
+      "publishedDateTime": "2021-08-14T16:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vallejo Times Herald",
+        "domain": "timesheraldonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-15-mary-trump-says-gop-voter-suppression-laws-may-convince-donald-trump-to-run-in-2024.md",
       "title": "Mary Trump Says GOP 'Voter Suppression Laws' May 'Convince' Donald Trump to Run in 2024",
       "excerpt": "\"Republicans are going to use those accusations of fraud—those grievances that are really stirring up the base and spreading by the way—to enact these voter suppression laws,\" said the niece of former President Donald Trump.",
@@ -334,7 +377,7 @@
       "originalUrl": "https://www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152",
       "featuredContent": null,
       "highlight": null,
-      "heat": 900,
+      "heat": 940,
       "tags": null,
       "images": [
         {
@@ -648,7 +691,7 @@
       "originalUrl": "https://www.cbsnews.com/news/dominion-defamation-case-rudy-giuliani-sidney-powell-mike-lindell/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 685,
+      "heat": 705,
       "tags": null,
       "images": [
         {
@@ -1413,58 +1456,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-07-trumps-recurring-donation-tactics-led-to-128m-in-refunds-but-his-pac-is-still-using-pre-checked-boxes-to-steer-supporters-into-unwitting.md",
-      "title": "Trump's recurring donation tactics led to $12.8m in refunds, but his PAC is still using pre-checked boxes to steer supporters into unwitting payments",
-      "excerpt": "Trump and the GOP refunded millions to donors in the first half of 2021 after using the controversial fundraising tactic, per The New York Times.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-pre-checked-box-donation-tactic-leads-millions-in-refunds-2021-8",
-      "originalUrl": "https://www.businessinsider.com/trump-pre-checked-box-donation-tactic-leads-millions-in-refunds-2021-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/610e7ba12a24d00018624384?width=1200&format=jpeg",
-          "width": 695,
-          "height": 347,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-pre-checked-box-donation-tactic-leads-millions-in-refunds-2021-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pre-checked-box-donation-tactic-leads-millions-in-refunds-2021-8?amp",
-      "publishedDateTime": "2021-08-07T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

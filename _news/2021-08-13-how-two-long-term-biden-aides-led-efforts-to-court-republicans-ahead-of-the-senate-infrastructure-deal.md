@@ -239,6 +239,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Democrats grapple with Afghanistan fallout after Biden administration ignored their previous warnings"
+    excerpt: "Democrats on Capitol Hill are grappling with the political fallout in Washington of a crisis they warned the Biden administration months ago could become a fiasco on the world stage, as horrific images pour out of Kabul with residents desperately trying to flee.\n    \n"
+    publishedDateTime: 2021-08-16T22:25:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pe8tUbUG6FI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/16/politics/democratic-reaction-biden-afghanistan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/16/politics/democratic-reaction-biden-afghanistan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180428152112-senator-mark-warner-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Joe Biden is taking a calculated risk in Afghanistan"
     excerpt: "While the US is leaving the war, the people of Afghanistan can't. The President's decision could hasten the Taliban's toppling of Afghanistan's tenuous democracy, ushering in a new fundamentalist dark age."
     publishedDateTime: 2021-04-15T23:19:00Z

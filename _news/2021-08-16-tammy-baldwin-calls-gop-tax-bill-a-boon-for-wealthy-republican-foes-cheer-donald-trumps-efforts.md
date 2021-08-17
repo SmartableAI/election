@@ -257,6 +257,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Jerry Brown: Trump’s coal policies a ‘declaration of war against America and all of humanity’"
+    excerpt: "Gov. Jerry Brown told his constituents in the Golden State on Tuesday that \"war\" has been declared on \"all of humanity\" by President Trump. The White House's decision to roll back Obama-era regulations on coal-fired power plants enraged the California Democrat so much that he framed himself as environmental revolutionary."
+    publishedDateTime: 2021-08-16T23:18:00Z
+    webUrl: "https://apnews.com/article/business-jerry-brown-b3460d04ffbbeda181c3a128dd9bbe97"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 74
   - title: "Former President Donald Trump to hold rally in Cullman. What to know before you go"
     excerpt: "Former President Donald Trump is scheduled to speak at a \"Save America\" rally in Cullman, Alabama, on Aug. 21, 2021."
     publishedDateTime: 2021-08-05T11:01:00Z

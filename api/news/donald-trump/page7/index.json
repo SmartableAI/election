@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-07-02-trump-fighting-to-toss-out-subpoena-offered-to-give-house-democrats-peek-at-financial-statements.md",
+      "title": "Trump, fighting to toss out subpoena, offered to give House Democrats peek at financial statements",
+      "excerpt": "Two-year fight for accounting records returns to federal court as Congress says eight bills could be influenced by Trump data",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/local/legal-issues/trump-taxes-financial-statements-hearing/2021/07/01/78166a2c-da9f-11eb-9bbb-37c30dcf9363_story.html",
+      "originalUrl": "https://www.washingtonpost.com/local/legal-issues/trump-taxes-financial-statements-hearing/2021/07/01/78166a2c-da9f-11eb-9bbb-37c30dcf9363_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F7YGZZW2X4I6XG53G7BQ3T4TMM.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/local/legal-issues/trump-taxes-financial-statements-hearing/2021/07/01/78166a2c-da9f-11eb-9bbb-37c30dcf9363_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/trump-taxes-financial-statements-hearing/2021/07/01/78166a2c-da9f-11eb-9bbb-37c30dcf9363_story.html?outputType=amp",
+      "publishedDateTime": "2021-07-01T21:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-02-donald-trump-jr-blasts-weisselberg-indictment-as-banana-republic-stuff.md",
       "title": "Donald Trump Jr. blasts Weisselberg indictment as ‘banana republic stuff’",
       "excerpt": "Donald Trump Jr. blasted the Manhattan DA’s office for bringing tax fraud and other charges against the company’s chief financial officer, calling the case “political persecution",
@@ -1346,7 +1398,7 @@
       "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-ohio-rally-20210626-l56sucpdizbihjurroesoiksba-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 445,
+      "heat": 465,
       "tags": null,
       "images": [
         {
@@ -1532,58 +1584,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-trump-organization-cfo-weisselberg-could-face-charges-in-da-probe.md",
-      "title": "Trump Organization, CFO Weisselberg could face charges in DA probe",
-      "excerpt": "Attorneys have told former President Donald Trump's lawyers that the Trump Organization and its CFO Allen Weisselberg could face charges as a result of the continuing probe by the Manhattan district a",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges",
-      "originalUrl": "https://thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1465,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumps_weisselbergallen_01112017getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges?amp",
-      "publishedDateTime": "2021-06-25T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

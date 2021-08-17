@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-ohio-ral
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-ohio-rally-20210626-l56sucpdizbihjurroesoiksba-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 445
+heat: 465
 published: true
 
 provider:
@@ -267,6 +267,15 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
+    quality: 35
+  - title: "Former President Trump To Hold Rally On Saturday At Cullman, Ala."
+    excerpt: "Former President Donald Trump will hold a rally this Saturday in Cullman, Ala. It will be held at the York Family Farms, 1872 County Road 469. Cullman is 125 miles from Chattanooga. A tip from a citizen led to an investigation of abandoned chicken houses at 15687 Alabama Hwy."
+    publishedDateTime: 2021-08-16T22:46:00Z
+    webUrl: "https://www.chattanoogan.com/2021/8/16/432979/Former-President-Trump-To-Hold-Rally.aspx"
+    type: article
+    provider:
+      name: Chattanoogan.com
+      domain: chattanoogan.com
     quality: 35
 
 secured: "CNfgC2cWyxI7IYHyHRtYtmMYvpIEYsZRzUE2ncw22u7mRw4s/Iv/dAFn9HngWgpMG3l9Dt+rqk1zlSAR+FZfr1z6GK0iGCYu0T41vZ9i8w5N1dA2pFEDv8n4160IC5bnQe1YKKDgOQ8h8eEqWWVQfConTW/TOJERrvmsMSjQSqdu2WbMK+qznsMd/f3sIacDPGzrA6omuxWLj0F7ZJwM4BVpOz+IUsWjFprCplUBS0airZ4bs8UXQX2kBOVdmbcRrK6ut+hE88yGKRylDLNkN03P1N3ke8rwT6RZoZODaAhWg5PDPTt5+LfmH4WitX39PiewBYuZazBXVVXu/X6SjATDdbM8bKEXpy8RRqn25n+YXr+DjEt5fFqvNOrx+Jc88V5euMdL9ZjXIVhvs3bnx8/Jjm4RnF2UIVPCSjvcu5M5T5yUzsACim24zlAzsD/RhmQnWkb/ROyVt4bWjg4zXD1/1VCxdcXnqqqfnZoyFYyRyYz9LeV9f7B5j6TvHkuXBIFH8rPdbF3xfcrXoPAG4Q==;OBHlzrRm+cfmbQyJlbtzJg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/candace-owens-says-joe-biden-hiding-like-li
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/candace-owens-says-joe-biden-hiding-like-little-b-afghanistan-falls-1619586?amp=1"
 type: article
 quality: 121
-heat: 121
+heat: 141
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     height: 2362
     isCached: true
 
-secured: "SR2vAdA790JNC5q+wBMEIJX9KZ9xQyIO/hUpc+jcwCGBeIj7cETH16C/PKgA+n2UiKFZr8/Ssxi1RNrgBwrJ7xoNcDsos1Uf/nuLJPoB64LE68+3YpuDMkk8TCjdNqgdSDvXJPm+JxavB8O/6fmW3X1iBePuTeOshA7X8O7imp2sxsv/b1qdnTvNq3L8RsYJS55ONDwvZ5zXW6u8BuLHUh0BZDMRr5C+PUuaGjDg6eWwXySCU5cEL8OdJ8nmG2YII8t6PTUy6kwXYm0s09xgQZRutGA0kxFl7LwhwQ39piypcvNhxiWq7gQtW5qzWLQGY0eIr33G25vC7gn+OPpgBKyjKsWFBiJJZ/JIySdMZgt5gGNCQMb6qb9ISk3//iS8mp47uIiZy3LYvBL6FEn1E56Yw5UymSiBkDPhP9p+xu4kwvag1P06z9iIXGj1wL2ElZr4rWZf5j6fBJjDsBh82pwjwTr2g3bIsJMul8fSCNSCnBBOwgFJRarTPwqDgSK1/It9YTNa0SW7ehnngm0HGg==;F7VSc1N21uAKKfQBuS6ykQ=="
+related:
+  - title: "What Donald Trump Said In April About Pulling Out US Troops From Afghanistan"
+    excerpt: "Donald Trump slammed Biden's decision to withdraw from Afghanistan despite applauding the move months earlier."
+    publishedDateTime: 2021-08-16T22:23:00Z
+    webUrl: "https://www.ibtimes.com/what-donald-trump-said-april-about-pulling-out-us-troops-afghanistan-3274760"
+    ampWebUrl: "https://www.ibtimes.com/what-donald-trump-said-april-about-pulling-out-us-troops-afghanistan-3274760?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/what-donald-trump-said-april-about-pulling-out-us-troops-afghanistan-3274760?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 72
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/facebook-and-twitter-banned-donald-trump-over-his.jpg"
+        width: 1024
+        height: 662
+        isCached: true
+
+secured: "wkNJnMNgSm975jNBsv3uIuYsHwjwBK37Lfro2lAhUjEVS/mrJiKtJdZe6wc5uE3++TL4KLkLhap66uV9qSEfc1xcQGNqWrgulty9ibcX1CYwXXGo85GqasiOXqU35lLX1FHN6vyDLy/z6R8AsTnIIWscAWdfhhceJNZPOCUVBoKcfHI0u5f8wyGCt63R4RNJNRYZaEm76X9Tb6zKmEChH4VTjGs+q6Vfh3r0yTcRKBH4BNO2yx2PKp9Pe2Zyur25IFy9TnycCeqw4tuXPlEznuSMQA0CS7oYVz2mOZckcFhCP5dEMY6NV7+m+wSdS1BUrUQCbym0+68Hk+FCLZfzFxGKgv2qoTqEvMypsbN+ZT+zbMVWHqoACPBu4LwlOdiUNofsTg/5bVb2PIkYQhULIL4JViu0shLm+4mLHtNCqSJCTqKLKcJuNO07h4CgFufPVkOWpg4hB2tPbyc/c8crr/DA+nK6yVzEJIuNP0A0sQN93IJCBs6P7oqv3SU/eo/ktS7ittSVDyHuHFruQWO95g==;RkXGoSknHbM8O28tOm5w9A=="
 ---
 

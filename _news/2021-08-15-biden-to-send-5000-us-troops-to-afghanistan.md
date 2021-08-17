@@ -428,6 +428,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden to speak on Afghanistan this afternoon – live"
+    excerpt: "Greenfield, told the emergency security council meeting this morning, essentially, that countries other than Afghanistan need to prevent Afghanistan becoming a base for international terrorism again."
+    publishedDateTime: 2021-08-16T17:03:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live?ref=upstract.com&curator=upstract.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/ed8bc026814d385abeba1c36af93d727c3cd6422/0_371_5568_3341/master/5568.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=f47c7c5a02fd0dc264ee61a1e7c3d5e0"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden says it's 'time to end America's longest war' as he reveals plans to bring US troops home from Afghanistan"
     excerpt: "Biden said he was the fourth president to preside over the Afghanistan conflict, adding: \"I will not pass this responsibility on to a fifth.\""
     publishedDateTime: 2021-04-14T21:28:00Z
@@ -530,15 +544,6 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
-    quality: 85
-  - title: "Joe Biden to speak on Afghanistan this afternoon – live"
-    excerpt: "Blinken spoke today with Russian Foreign Minister Sergey Lavrov about developments in Afghanistan, including the security situation and our efforts to bring U.S. citizens and vulnerable Afghans to safety."
-    publishedDateTime: 2021-08-16T17:19:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live?page=with:block-611aa3be8f08aeaec2f20ed6"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
     quality: 85
   - title: "Top Republican Congressman Slams Joe Biden For Afghanistan Withdrawal"
     excerpt: "Republican Michael McCaul of the House Foreign Affairs Committee voiced his disapproval of President Biden's decision to remove most of the remaining U.S. troops in Afghanistan saying \"a vacuum will be filled with terrorists,"

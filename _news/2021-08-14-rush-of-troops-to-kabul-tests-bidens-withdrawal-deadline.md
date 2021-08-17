@@ -58,9 +58,9 @@ related:
         height: 281
         isCached: true
   - title: "Joe Biden Blamed Afghan Leaders For Giving Up As The Taliban Took Control"
-    excerpt: "Last updated on August 16, 2021, at 5:14 p.m. ET Posted on August 16, 2021, at 4:48 p.m. ET President Joe Biden delivers remarks on Afghanistan from the East Room of the White House on Aug. 16. President Joe Biden blamed Afghanistan’s exiled president and military on Monday for the “gut-wrenching” fallout of the US's withdrawal from the country as the Taliban retakes power after two decades of war."
-    publishedDateTime: 2021-08-16T21:50:00Z
-    webUrl: "https://www.buzzfeednews.com/article/nidhiprakash/biden-afghanistan-speech-taliban-take-over?ref=bfnsplash"
+    excerpt: "In an address from the White House, Biden stood by his decision to withdraw US forces from Afghanistan, insisting he would not repeat past mistakes."
+    publishedDateTime: 2021-08-16T21:14:00Z
+    webUrl: "https://www.buzzfeednews.com/article/nidhiprakash/biden-afghanistan-speech-taliban-take-over"
     ampWebUrl: "https://www.buzzfeednews.com/amphtml/nidhiprakash/biden-afghanistan-speech-taliban-take-over"
     cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/nidhiprakash/biden-afghanistan-speech-taliban-take-over"
     type: article
@@ -123,8 +123,8 @@ related:
         isCached: true
   - title: "Afghanistan live news: chaos at Kabul airport as Joe Biden speaks for first time in a week"
     excerpt: "US president has begun speaking on Afghanistan – and opened by saying the US has achieved its goal"
-    publishedDateTime: 2021-08-16T20:00:00Z
-    webUrl: "https://www.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates?page=with:block-611ab8858f08aeaec2f20fef"
+    publishedDateTime: 2021-08-16T21:07:00Z
+    webUrl: "https://www.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates?page=with:block-611acbc28f08aeaec2f2108e"
     ampWebUrl: "https://amp.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates"
     type: article
@@ -200,6 +200,22 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Livestream: Joe Biden to speak about Afghanistan after Taliban takeover"
+    excerpt: "The president was expected to address the nation from the White House at 3:45 p.m. Watch live on Boston.com."
+    publishedDateTime: 2021-08-16T23:25:00Z
+    webUrl: "https://www.boston.com/news/politics/2021/08/16/joe-biden-afghanistan-livestream-video/"
+    ampWebUrl: "https://www.boston.com/news/politics/2021/08/16/joe-biden-afghanistan-livestream-video/?amp=1"
+    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/politics/2021/08/16/joe-biden-afghanistan-livestream-video/?amp=1"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 75
+    images:
+      - url: "https://bdc2020.o0bc.com/wp-content/uploads/2021/08/Biden_84639-611abb2b2715f-scaled.jpg"
+        width: 2560
+        height: 1706
         isCached: true
   - title: "President Joe Biden says he stands ‘squarely behind’ Afghanistan withdrawal"
     excerpt: "President Joe Biden said Monday that he stands “squarely behind” his decision to withdraw U.S. forces from Afghanistan and that the government’s collapse was quicker than anticipated. Speaking about the chaotic situation in Afghanistan,"

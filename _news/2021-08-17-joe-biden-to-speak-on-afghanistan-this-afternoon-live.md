@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Joe Biden to speak on Afghanistan this afternoon – live"
-excerpt: "Blinken spoke today with Russian Foreign Minister Sergey Lavrov about developments in Afghanistan, including the security situation and our efforts to bring U.S. citizens and vulnerable Afghans to safety."
-publishedDateTime: 2021-08-16T17:19:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live?page=with:block-611aa3be8f08aeaec2f20ed6"
-webUrl: "https://www.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live?page=with:block-611aa3be8f08aeaec2f20ed6"
+excerpt: "Greenfield, told the emergency security council meeting this morning, essentially, that countries other than Afghanistan need to prevent Afghanistan becoming a base for international terrorism again."
+publishedDateTime: 2021-08-16T17:03:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live?ref=upstract.com&curator=upstract.com"
+webUrl: "https://www.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live?ref=upstract.com&curator=upstract.com"
 type: article
-quality: 85
+quality: 105
 heat: -1
 published: false
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://i.guim.co.uk/img/media/ed8bc026814d385abeba1c36af93d727c3cd6422/0_371_5568_3341/master/5568.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=f47c7c5a02fd0dc264ee61a1e7c3d5e0"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Biden to pull U.S. troops from Afghanistan by Sept. 11, sources say"
@@ -828,6 +834,6 @@ related:
       domain: usnews.com
     quality: 33
 
-secured: "X5cxvaawEbpqT4HYgYbzc6VrGv0z673WiDTGhEyFxOtLKJd3W7e+KABSXbWdFhJlb6viPCrjkb9nw70lIgsZIzvIfPAAZOF1iCDNGEUWitikLGBAHR9W1G52RS1+ejmzW19+x8tN6OQGuBC7zsa95XpIxf5ME34KXpO9XbdmBmRyfhZRKF6UlXO5t9Vzty0hwKsCD1IZyCk6WpbpHHOAOR52Xk1gaE6xIS+lULivwbHFUfgEk9nWfU9IkQa7GMfrggI2bXP9RBBWrfOtryitkbZE6pdBbgqz/xzcdstmLfExBj0sSLo1CJPOvQwfqsAOmTckOIBCpiaGQ5B4OHny2AxlL6U9KNhsF/m04l5XO2l+Mayfwj0drlRnaOCdKa9UaI6klIRT/MXfaOpS8WC/anobTJRwB9eza6bHP7c9iBZ1eDx5074FtfGh+s+NLZmXAavkiTOAqmvRblwU6TcJWgcIzA4293D1zry2T0GA4Ug/Dn6i4TwP6wBoH53kw+WBFxDAPj0/OBAyAB429BXQVQ==;q4o8f4ib211mQk0DGez/mQ=="
+secured: "8lLqq0n+7G25BwfZefEtMiQc8lwXQS7fEndMIga2+hYp6puh0uFrDsrPUUE0n3db8oB9owhf6xd7DoR6C1iNDv0YgB0KrcaXmhjxJV/w4hy+Gg1V2NfpxDVjua3efZektMFa3/O+B82OoZBWVvV+D8sIwz4I31kkc2vxL101BVtFpqtYVYzyz98EBgqz2TSz4/AJGsuOuJOk03Yaw+q7ue/4rJjltZ7l1/v0MD2CxJfhO/QVhjoEUM2b8remJu8U2mo4Y4Yit3/IyTaJw7XolnosGekbtKHIpFeUD3acqgLvCjwUKb88gcnqPYv4AxXk4cK76BFI13hqN/XI60pN2kmGS4uSPmjZQyfS7pks9Jg=;VO1l+rPxGGqcE65MvFxUdQ=="
 ---
 
