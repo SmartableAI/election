@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/candace-owens-says-joe-biden-hiding-like-li
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/candace-owens-says-joe-biden-hiding-like-little-b-afghanistan-falls-1619586?amp=1"
 type: article
 quality: 121
-heat: 141
+heat: 161
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Joe Biden on Afghanistan: 'I stand squarely behind my decision'"
+    excerpt: "I stand squarely behind my decision' Up Next. How it happened: The Taliban advance. Video, 00:01:49How it happened: The Taliban advance Images show decline of California's 'life source' Video, 00:02:49Images show decline of California's 'life source' Afghans cling to US plane taking off from Kabul."
+    publishedDateTime: 2021-08-16T21:03:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-58238557?at_campaign=64&at_custom2=twitter&at_custom4=736F426C-FED2-11EB-BDD5-D9FE4744363C&at_custom1=%5Bpost+type%5D&at_medium=custom7"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/16693/production/_119959719_p09sds1d.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "What Donald Trump Said In April About Pulling Out US Troops From Afghanistan"
     excerpt: "Donald Trump slammed Biden's decision to withdraw from Afghanistan despite applauding the move months earlier."
     publishedDateTime: 2021-08-16T22:23:00Z

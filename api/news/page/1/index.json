@@ -377,7 +377,7 @@
       "originalUrl": "https://www.newsweek.com/candace-owens-says-joe-biden-hiding-like-little-b-afghanistan-falls-1619586",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -685,49 +685,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-15-newsom-paints-larry-elder-as-right-of-donald-trump-as-recall-election-heats-up.md",
-      "title": "Newsom paints Larry Elder as ‘right of Donald Trump’ as recall election heats up",
-      "excerpt": "Gov. Gavin Newsom was joined by prominent San Francisco politicians at Manny’s in San Francisco’s Mission District on Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesheraldonline.com/2021/08/14/newsom-recall-election-heats-up-as-governor-and-candidates-hit-the-campaign-trail-2/",
-      "originalUrl": "https://www.timesheraldonline.com/2021/08/14/newsom-recall-election-heats-up-as-governor-and-candidates-hit-the-campaign-trail-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.timesheraldonline.com/wp-content/uploads/2021/08/SJM-L-CAMPAIGN-0814-09-1.jpg?w=1024&#038;h=685",
-          "width": 1024,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesheraldonline.com/2021/08/14/newsom-recall-election-heats-up-as-governor-and-candidates-hit-the-campaign-trail-2/amp/",
-      "cdnAmpWebUrl": "https://www-timesheraldonline-com.cdn.ampproject.org/c/s/www.timesheraldonline.com/2021/08/14/newsom-recall-election-heats-up-as-governor-and-candidates-hit-the-campaign-trail-2/amp/",
-      "publishedDateTime": "2021-08-14T16:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vallejo Times Herald",
-        "domain": "timesheraldonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-08-15-mary-trump-says-gop-voter-suppression-laws-may-convince-donald-trump-to-run-in-2024.md",
       "title": "Mary Trump Says GOP 'Voter Suppression Laws' May 'Convince' Donald Trump to Run in 2024",
       "excerpt": "\"Republicans are going to use those accusations of fraud—those grievances that are really stirring up the base and spreading by the way—to enact these voter suppression laws,\" said the niece of former President Donald Trump.",
@@ -876,6 +833,49 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-14-newsom-paints-larry-elder-as-right-of-donald-trump-as-recall-election-heats-up.md",
+      "title": "Newsom paints Larry Elder as ‘right of Donald Trump’ as recall election heats up",
+      "excerpt": "Gov. Gavin Newsom was joined by prominent San Francisco politicians at Manny’s in San Francisco’s Mission District on Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eastbaytimes.com/2021/08/13/newsom-recall-election-heats-up-as-governor-and-candidates-hit-the-campaign-trail/",
+      "originalUrl": "https://www.eastbaytimes.com/2021/08/13/newsom-recall-election-heats-up-as-governor-and-candidates-hit-the-campaign-trail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2021/08/SJM-L-CAMPAIGN-0814-09-1.jpg?w=1024&#038;h=685",
+          "width": 1024,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eastbaytimes.com/2021/08/13/newsom-recall-election-heats-up-as-governor-and-candidates-hit-the-campaign-trail/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/08/13/newsom-recall-election-heats-up-as-governor-and-candidates-hit-the-campaign-trail/amp/",
+      "publishedDateTime": "2021-08-13T23:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {

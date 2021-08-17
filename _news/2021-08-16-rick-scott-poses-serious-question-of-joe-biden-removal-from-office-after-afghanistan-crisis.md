@@ -123,8 +123,8 @@ related:
         isCached: true
   - title: "Afghanistan live news: chaos at Kabul airport as Joe Biden speaks for first time in a week"
     excerpt: "US president has begun speaking on Afghanistan – and opened by saying the US has achieved its goal"
-    publishedDateTime: 2021-08-16T19:50:00Z
-    webUrl: "https://www.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates?page=with:block-611abbb78f08aeaec2f21009"
+    publishedDateTime: 2021-08-16T20:49:00Z
+    webUrl: "https://www.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates?page=with:block-611ad9af8f08d30d155038b1"
     ampWebUrl: "https://amp.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates"
     type: article
@@ -403,20 +403,6 @@ related:
       name: Lexington Herald Leader
       domain: kentucky.com
     quality: 55
-  - title: "Joe Biden on Afghanistan: 'I stand squarely behind my decision'"
-    excerpt: "The US president says the quick collapse of the Afghan government shows why America had to withdraw."
-    publishedDateTime: 2021-08-16T21:15:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-us-canada-58238557"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 55
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/16693/production/_119959719_p09sds1d.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Susan Collins hits Joe Biden for Afghanistan ‘chaos’ with Maine delegation split over exit"
     excerpt: "As the Taliban consolidates its sweeping control over Afghanistan, the opportunity exists for the country to once again become a safe haven for Islamist terrorist groups targeting our country,” Collins said."
     publishedDateTime: 2021-08-16T19:34:00Z
