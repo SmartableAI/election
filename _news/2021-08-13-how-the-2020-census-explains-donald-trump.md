@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/13/politics/how-the-2020-census-expl
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/13/politics/how-the-2020-census-explains-donald-trump/index.html"
 type: article
 quality: 175
-heat: 395
+heat: 415
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002125747-03-mark-meadows-1002-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Mary Trump asked if she thinks her uncle will run for President again. Hear her reply."
+    excerpt: "CNN's Jake Tapper talks with Mary Trump about her new book and her uncle, former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-08-17T22:27:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ze45MVDvouc/mary-trump-new-book-intv-lead-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/08/17/mary-trump-new-book-intv-lead-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/08/17/mary-trump-new-book-intv-lead-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210817180628-mary-trump-tapper-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

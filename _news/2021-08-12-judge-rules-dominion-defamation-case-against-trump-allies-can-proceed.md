@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/dominion-defamation-case-rudy-giuli
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/dominion-defamation-case-rudy-giuliani-sidney-powell-mike-lindell/"
 type: article
 quality: 125
-heat: 725
+heat: 745
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/21/36/51/21359203/3/400x0.jpg"
         width: 400
         height: 225
+        isCached: true
+  - title: "Kushner pal hit with state charges months after Trump pardon"
+    excerpt: "A newspaper editor friend of former President Donald Trump’s son-in-law Jared Kushner was hit Wednesday with state cyberstalking charges in New York, seven months after Trump pardoned him in a similar"
+    publishedDateTime: 2021-08-18T19:37:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/kushner-pal-hit-state-charges-months-trump-pardon-79523724"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/kushner-pal-hit-state-charges-months-trump-pardon-79523724"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/kushner-pal-hit-state-charges-months-trump-pardon-79523724"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/WNT/210720_wn_moran_646_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "House Can Have Access to Some of Donald Trump's Financial Records, Judge Rules"
     excerpt: "U.S. District Judge Amit Mehta's ruling cited separation of power concerns, but the House was entitled to some financial records from 2017 and 2018."

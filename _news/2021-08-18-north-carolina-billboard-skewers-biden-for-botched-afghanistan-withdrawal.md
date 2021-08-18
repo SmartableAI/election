@@ -127,6 +127,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden's entire national security team should resign: Rep. Andy Barr"
+    excerpt: "FIRST ON FOX: A prominent House Republican is calling for the resignations of every individual on President Biden's national security team as part of a reckoning for what he called its \"disorderly retreat from Afghanistan.\""
+    publishedDateTime: 2021-08-18T18:28:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zPBEMGuYiQA/biden-national-security-team-resign-barr"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-national-security-team-resign-barr.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-national-security-team-resign-barr.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/07/340/340/mike-emanuel-headshot.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Sec. Mayorkas blames Trump, rule of law for huge spike in illegal immigration during Biden administration"
     excerpt: "Homeland Security Secretary Alejandro Mayorkas blamed former President Donald Trump’s administration for the record rise of border crossings occurring during the Biden administration."
     publishedDateTime: 2021-08-13T14:23:58Z
@@ -271,6 +287,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Republican senators question Biden's fitness for office amid Afghanistan debacle"
+    excerpt: "Florida Sen. Rick Scott said it's time to \"ask the serious question of whether Joe Biden is fit to lead our nation as commander in chief,\" while Wisconsin Sen. Ron Johnson said that the Afghanistan debacle is further evidence that Biden is \"unfit for office.\""
+    publishedDateTime: 2021-08-18T18:58:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gkUsvCux_-E/republican-senators-biden-fitness-afghanistan-debacle"
+    ampWebUrl: "https://www.foxnews.com/politics/republican-senators-biden-fitness-afghanistan-debacle.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republican-senators-biden-fitness-afghanistan-debacle.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/631cab49-18a1-49c6-a99c-496ecde34793/708ce250-b61e-4d70-b135-374292ef1f95/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "All eyes on Biden's response to COVID variants, Afghanistan, border crisis, inflation"
     excerpt: ""
     publishedDateTime: 2021-08-14T15:05:33Z
@@ -383,6 +415,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Biden pledge to renew America's standing around world in peril as Afghanistan debacle sparks outrage"
+    excerpt: "President Joe Biden's pledge to renew America's standing on the world stage is in jeopardy as international leaders express outrage over his rushed withdrawal from Afghanistan."
+    publishedDateTime: 2021-08-18T18:25:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eGoaeWR-9W8/biden-pledge-america-standing-peril-afghanistan-debacle-outrage"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-pledge-america-standing-peril-afghanistan-debacle-outrage.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pledge-america-standing-peril-afghanistan-debacle-outrage.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c2f958fe-201f-417f-bb2a-7b0bcee44233/24d0364b-6c2e-4dfc-8095-303c4d42385b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "US officials warn Biden's Aug. 31 deadline to withdraw troops from Afghanistan will be 'challenging'"
     excerpt: "U.S. officials are privately warning that it will be \"challenging\" to meet President Biden's Aug. 31 deadline to withdraw U.S. troops from Afghanistan, Fox News has learned."
     publishedDateTime: 2021-08-18T15:37:24Z
@@ -476,6 +524,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-miss-afghanistan-hp.jpg?quality=90&strip=all&w=1024"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Trump blasts media, Biden admin over Hunter Biden ‘blackmail’ tape"
+    excerpt: "Former President Donald Trump is blasting the Biden administration for not prosecuting Hunter Biden amid a recently revealed video clip showing the naked first son talking with a woman about"
+    publishedDateTime: 2021-08-18T19:08:00Z
+    webUrl: "https://nypost.com/2021/08/18/trump-blasts-media-biden-admin-over-hunter-biden-blackmail-tape/"
+    ampWebUrl: "https://nypost.com/2021/08/18/trump-blasts-media-biden-admin-over-hunter-biden-blackmail-tape/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/18/trump-blasts-media-biden-admin-over-hunter-biden-blackmail-tape/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/hunter-biden-trump-02.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Biden points fingers for Afghanistan debacle after promising he wouldn't 'blame others'"
     excerpt: "During his speech today, Biden said he had “inherited” the deal former President Trump struck with the Taliban which required him to either follow through on the agreement or risk “escalating the conflict and sending thousands of American troops back into Afghanistan.”"

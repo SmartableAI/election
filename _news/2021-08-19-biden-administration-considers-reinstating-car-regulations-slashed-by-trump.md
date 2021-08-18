@@ -2192,6 +2192,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Biden kept Trump’s promise about Afghanistan | Letters"
+    excerpt: "Trump’s reelection campaign theme that year was “Promises made, promises kept.” Trump may have made the promises, but current President Joe Biden kept them. The withdrawal of U.S. troops from Afghanistan is a predictably messy process."
+    publishedDateTime: 2021-08-18T19:19:00Z
+    webUrl: "https://www.nj.com/opinion/2021/08/biden-kept-trumps-promise-about-afghanistan-letters.html"
+    ampWebUrl: "https://www.nj.com/opinion/2021/08/biden-kept-trumps-promise-about-afghanistan-letters.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/opinion/2021/08/biden-kept-trumps-promise-about-afghanistan-letters.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 90
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GZPDBGYIWNBH3BLQX4LOLG5CJA.jpg"
+        width: 5297
+        height: 3531
+        isCached: true
   - title: "Wendy Davis, others sue Trump supporters over 'Trump Train' harassing Biden bus in Texas"
     excerpt: "A group of people traveling on a President Joe Biden campaign bus on a Texas highway last fall when it was surrounded and followed by former President Donald Trump’s supporters have filed a lawsuit against at least seven people who allegedly were following the bus,"
     publishedDateTime: 2021-06-24T21:00:00Z

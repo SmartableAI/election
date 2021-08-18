@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden to give TV interview to defend Afghanistan stance – live"
 excerpt: "President to speak to ABC’s George Stephanopoulos after n"
-publishedDateTime: 2021-08-17T12:39:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news?page=with:block-611bb53f8f08cf238eadd16b"
-webUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news?page=with:block-611bb53f8f08cf238eadd16b"
+publishedDateTime: 2021-08-17T12:22:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news?page=with:block-611bb6758f08cf238eadd180"
+webUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news?page=with:block-611bb6758f08cf238eadd180"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
 type: article
@@ -882,6 +882,6 @@ related:
       domain: usnews.com
     quality: 33
 
-secured: "V0j1LCpEQLgdEy85XXIAgFn3ASdJd7CbOxdcQ0KT2kE1xg1YQgbuLGnOPQwkqSLO4iAvYsBix6P/WRGnWXccO7+QreC9JJtGZWCL+0Izv2hyR1ZJ6SkoO448U4Ac9tU55cP0i7rOmZYGEM1XzruYkchfFlPCk3bxK8FzeXDPfY6hYGLqNUoTFJJwD4KbZ+yEnwbcPf/8drB5Ey+rpxh0wJ4fCE1Q1HsRUt7ytTftkwTHt3qNYe9YGTOkqvsKrPF8fNj9jOC9+mtFrZjXVpBzFYeYPFzHO/YjZpMn4zbqkZoiniO74HIzOjoOqATjpUiYwN+SshiSncx+cQUpk1lkNQO43iJ6g9YtZ4dgsHy/O1s=;huLPiQqJkE+pBfNp8g0APA=="
+secured: "KdN86L/fUYd2tKHQQ79isJ/zD6o99mSRkVSMO59ZUpynOMJOsgZhLSkap0VkM3J/HbA8u5PzakZIqkKAU34gSmvymwMS3bTmdOck0ad5bcWJL1Y1SsbOI5Hb/E/qfJVqdQSTqlGHy6JAlfLclSD85VeceAUWwCCycZ98sSiKgFSq5ILrQa+SSWQUkKWHkoD9H7CR9vvNSJbvuwCW9+rvfdZ1/tlY3hSm5LLoBYHiWwC7ckuygPouMYlfhESJDCqn7jhBxuFcbdw3o4DbjD0IfnLnxwGjqE7fGtAfgfXfXyobVgopwCMWeLxFMx11KBGSI1tpde6pt9moJSUA4yCQ44EMYKy0NwKk5taEOQ64Pls=;IU0wrfwcVL0eUHGHiopWuw=="
 ---
 

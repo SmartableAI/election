@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Mary Trump asked if she thinks her uncle will run for President again. Hear her reply."
+    excerpt: "CNN's Jake Tapper talks with Mary Trump about her new book and her uncle, former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-08-17T22:27:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ze45MVDvouc/mary-trump-new-book-intv-lead-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/08/17/mary-trump-new-book-intv-lead-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/08/17/mary-trump-new-book-intv-lead-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210817180628-mary-trump-tapper-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Atlanta US attorney who quit amid Trump's attacks to speak to Senate Judiciary Committee"
     excerpt: "The Senate Judiciary Committee on Wednesday will interview Byung \"BJay\" Pak, the former US attorney in Atlanta who departed abruptly from the role amid then-President Donald Trump's attacks on Georgia's election results.\n    \n"
     publishedDateTime: 2021-08-11T09:02:44Z

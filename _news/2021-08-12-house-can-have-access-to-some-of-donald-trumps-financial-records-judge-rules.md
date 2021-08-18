@@ -79,6 +79,22 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Kushner pal hit with state charges months after Trump pardon"
+    excerpt: "A newspaper editor friend of former President Donald Trump’s son-in-law Jared Kushner was hit Wednesday with state cyberstalking charges in New York, seven months after Trump pardoned him in a similar"
+    publishedDateTime: 2021-08-18T19:37:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/kushner-pal-hit-state-charges-months-trump-pardon-79523724"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/kushner-pal-hit-state-charges-months-trump-pardon-79523724"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/kushner-pal-hit-state-charges-months-trump-pardon-79523724"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/WNT/210720_wn_moran_646_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump Ally Roger Stone Hit With $5M Defamation Suit From Judicial Watch Founder"
     excerpt: "Larry Klayman filed the suit after Stone claimed that the Judicial Watch founder was a \"warped former lawyer that the 11th circuit found guilty of molesting his own children.\""
     publishedDateTime: 2021-08-12T20:55:00Z

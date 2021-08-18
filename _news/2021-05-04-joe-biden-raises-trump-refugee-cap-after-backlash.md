@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-56975402.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp"
 type: article
 quality: 150
-heat: 3750
+heat: 3770
 published: true
 
 provider:
@@ -2180,6 +2180,22 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Biden kept Trump’s promise about Afghanistan | Letters"
+    excerpt: "Trump’s reelection campaign theme that year was “Promises made, promises kept.” Trump may have made the promises, but current President Joe Biden kept them. The withdrawal of U.S. troops from Afghanistan is a predictably messy process."
+    publishedDateTime: 2021-08-18T19:19:00Z
+    webUrl: "https://www.nj.com/opinion/2021/08/biden-kept-trumps-promise-about-afghanistan-letters.html"
+    ampWebUrl: "https://www.nj.com/opinion/2021/08/biden-kept-trumps-promise-about-afghanistan-letters.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/opinion/2021/08/biden-kept-trumps-promise-about-afghanistan-letters.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 90
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GZPDBGYIWNBH3BLQX4LOLG5CJA.jpg"
+        width: 5297
+        height: 3531
         isCached: true
   - title: "Biden administration considers reinstating car regulations slashed by Trump"
     excerpt: "The National Highway Administration is considering reinstating regulations slashed in the last days of the Trump administration."
