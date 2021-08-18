@@ -137,6 +137,15 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "User Clip: Little Lobbyists Laura LeBrun Hatcher and Vice President Kamala Harris Remarks on Affordable Health Care"
+    excerpt: "Little Lobbyists Laura LeBrun Hatcher shares her family's story about the importance of Medicaid and the ACA before introducing Vice President Kamala Harris who made remarks on the importance of high"
+    publishedDateTime: 2021-08-10T00:00:00Z
+    webUrl: "https://www.c-span.org/video/?c4973790/user-clip-lobbyists-laura-lebrun-hatcher-vice-president-kamala-harris-remarks-affordable-health"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 13
 
 secured: "ckwhcVKKD+iE4Z5v5XwY2bgis0oIGo72/+0vsKJGeDNhMkqEwAH1mhozazqAuhTSi3nEe709bpIcihm8Z5LvOh7svI+owIrAFHE/6H4k9O8YvY8v0YlntvW+RI/lOmsg1Xd0rUgIkQvYVyi+H9NddG6hKtcEWxCaYczLA8zsG45oYKeBTgqYf1LuKatNrgxnAUTK8HvsKe/jb1jTGoO2NPhYXyDRJ6/Ijkpcb508QWCdTZ7dw5LwqELUOfotV7EXudcNnH9ZOm2SeSvrI/2pWrYRQwFSZPfa2vRrtyX2EoTk6naEUZ2MTcLur6wGsXOI5qNzoqyEGRmUye4HdHXkO5d9wK6uKADZZhomoiCTRRc=;/yunh+NJSPZdCK2B+Rnc7w=="
 ---

@@ -1,32 +1,22 @@
 ---
 category: news
-title: "How DC's ultimate version of the #KHive is swarming to defend Vice President Kamala Harris"
-excerpt: "Some of the most influential women in Washington are defending Vice President Kamala Harris after tough stories about her office culture."
-publishedDateTime: 2021-08-18T03:40:00Z
-originalUrl: "https://www.businessinsider.com/kamala-harris-khive-defenders-democratic-women-2021-8"
-webUrl: "https://www.businessinsider.com/kamala-harris-khive-defenders-democratic-women-2021-8"
+title: "User Clip: Little Lobbyists Laura LeBrun Hatcher and Vice President Kamala Harris Remarks on Affordable Health Care"
+excerpt: "Little Lobbyists Laura LeBrun Hatcher shares her family's story about the importance of Medicaid and the ACA before introducing Vice President Kamala Harris who made remarks on the importance of high"
+publishedDateTime: 2021-08-10T00:00:00Z
+originalUrl: "https://www.c-span.org/video/?c4973790/user-clip-lobbyists-laura-lebrun-hatcher-vice-president-kamala-harris-remarks-affordable-health"
+webUrl: "https://www.c-span.org/video/?c4973790/user-clip-lobbyists-laura-lebrun-hatcher-vice-president-kamala-harris-remarks-affordable-health"
 type: article
-quality: 95
+quality: 13
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: C-SPAN
+  domain: c-span.org
 
 topics:
   - Election
   - Kamala Harris
-
-images:
-  - url: "https://i.insider.com/611c8102a4b07b0018ae1e1b?width=1200&format=jpeg"
-    width: 1200
-    height: 600
-    isCached: true
 
 related:
   - title: "Harris to meet with CEOs on child care proposals -White House"
@@ -69,6 +59,20 @@ related:
       - url: "https://www.reuters.com/resizer/vWeUXoXPr63S1VwZ6JdVQZ5qbnI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R7FAD6C7JRJA5IFP2NRAYAB7SE.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "How DC's ultimate version of the #KHive is swarming to defend Vice President Kamala Harris"
+    excerpt: "Some of the most influential women in Washington are defending Vice President Kamala Harris after tough stories about her office culture."
+    publishedDateTime: 2021-08-18T03:40:00Z
+    webUrl: "https://www.businessinsider.com/kamala-harris-khive-defenders-democratic-women-2021-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 95
+    images:
+      - url: "https://i.insider.com/611c8102a4b07b0018ae1e1b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Meet 12 Democratic women power brokers doing damage control for Kamala Harris after some tough press"
     excerpt: "Some of the most influential women in Washington are defending Vice President Kamala Harris after tough stories about her office culture."
@@ -137,16 +141,7 @@ related:
         width: 650
         height: 433
         isCached: true
-  - title: "User Clip: Little Lobbyists Laura LeBrun Hatcher and Vice President Kamala Harris Remarks on Affordable Health Care"
-    excerpt: "Little Lobbyists Laura LeBrun Hatcher shares her family's story about the importance of Medicaid and the ACA before introducing Vice President Kamala Harris who made remarks on the importance of high"
-    publishedDateTime: 2021-08-10T00:00:00Z
-    webUrl: "https://www.c-span.org/video/?c4973790/user-clip-lobbyists-laura-lebrun-hatcher-vice-president-kamala-harris-remarks-affordable-health"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 13
 
-secured: "arSPYgmbyl9rVXKnE0MV6Wynxun9ndx5XtJmI97QUwptQ7GDE0gizZmGVYlPssYf3ooN1zBeJ7hE1G1r1SFOwghUKGK2owezUEkUr7EyRhB5z19ajzbyqFeOIgTNvmW1lghJxudFGF7szHXrZrgNDp5xecKf/uNGllyp6r+Tpi1ZeuV7AuJdrpO9yqItkD2/6GLB6M9K/aziB7ehzJr+/ZsDWLYKj2ERL8TN/S0My2ou1ezBsH+A1vo4Z1/xYvd4wY/ZIYn2MMetU/hjreA5QJiBr9NHyqBxOw8Yv438gedCjzR2p7KVLaagFtFsQDDJ25CByNhFGDWzWBUzExYecXdsVnPXQXd8mVOH8CnvI+2ofU8F37T0Z0ZcBPYv+pWH591TjVecErej6VHG8dktqTbt8kydwvtB9EP7GBB1nJJAwS2sF1klB5jCMcJy5ri2hGx4ikLHmsxQiiTSeh9bPd2GpfFDN9LMl37bO0Am0+E/cIF7YvHlaxzgqb4gPM+vyXLhNDgNa8/lCVYFZqEdcw==;2Yy63lyTgyV86oanegxBGA=="
+secured: "RV530SLYWzAkpo4mjjTNJ8NuHuivWgF+kPQQeQzAoDJLdRwUjMXT8wU7/shBMRjXslbY3ilanTOWemuMZC14coAePkD1osb1Mls1fvXzz49az3rqpelpqDUWQUnQEg9HnaokjiDowt23Barx3vE/Ho0XifPq7KEgHlCumF55j9fLtheRoUyWOe5RjZfnOtp+kzRZJmX07IA89OdRJtSVdnQcxkSzyhz9lgCXbDtjgCJ2+4XtuWhFUUrl2SSCE3gdZxQnnedLHKAwTTmkO8iECxT+uhxb1CwFx4C8hwv/7yMoy5ygtXxSKF4tVoze6FvTdSK4N12IPQcydRahLqltGf+bt1A7YQyLrrkDWOTowSMRYjwVIexrDhCPImAzCDumf+y70Czv/fdOtk0p8QvxDKjYpNgWZsfo641xeENNEix54OHDB8bOa1e+buNFyV1UhImW4ZX7pKQA6lQlf1awuKnXL0TVmQWyyX5SsBXAovnaehPmK0g9pRpjzbbQ9127jhrvtSwfIX7JcOaNO3AQKQ==;4S7XkkUDw66LDU126l/FmQ=="
 ---
 

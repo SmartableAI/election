@@ -1,33 +1,30 @@
 ---
 category: news
-title: "House Armed Services GOP demand Biden plan to prevent terror groups from using Afghanistan as 'safe haven'"
-excerpt: "Republicans on the House Armed Services Committee demanded President Biden provide Congress with a plan to prevent terror groups from using Afghanistan as a \"safe haven\" after the Taliban takeover, while criticizing his response to the worsening security and humanitarian situation unfolding. "
-publishedDateTime: 2021-08-17T16:30:39Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RC7e4wJkRa8/house-armed-services-gop-demand-biden-afghanistan-plan-terror-groups"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RC7e4wJkRa8/house-armed-services-gop-demand-biden-afghanistan-plan-terror-groups"
-ampWebUrl: "https://www.foxnews.com/politics/house-armed-services-gop-demand-biden-afghanistan-plan-terror-groups.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-armed-services-gop-demand-biden-afghanistan-plan-terror-groups.amp"
+title: "Trump calls Afghanistan collapse ‘most humiliating’ moment for US"
+excerpt: "Former President Donald Trump described the ongoing mayhem in Afghanistan as the worst humiliation in American history Tuesday, while defending the agreement his administration struck with the"
+publishedDateTime: 2021-08-18T04:26:00Z
+originalUrl: "https://nypost.com/2021/08/18/trump-calls-afghanistan-collapse-most-humiliating-moment-for-us/"
+webUrl: "https://nypost.com/2021/08/18/trump-calls-afghanistan-collapse-most-humiliating-moment-for-us/"
+ampWebUrl: "https://nypost.com/2021/08/18/trump-calls-afghanistan-collapse-most-humiliating-moment-for-us/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/18/trump-calls-afghanistan-collapse-most-humiliating-moment-for-us/amp/"
 type: article
-quality: 157
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-afghanistan-humiliating-index.jpg?quality=90&strip=all&w=1024"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -415,6 +412,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "House Armed Services GOP demand Biden plan to prevent terror groups from using Afghanistan as 'safe haven'"
+    excerpt: "Republicans on the House Armed Services Committee demanded President Biden provide Congress with a plan to prevent terror groups from using Afghanistan as a \"safe haven\" after the Taliban takeover, while criticizing his response to the worsening security and humanitarian situation unfolding. "
+    publishedDateTime: 2021-08-17T16:30:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RC7e4wJkRa8/house-armed-services-gop-demand-biden-afghanistan-plan-terror-groups"
+    ampWebUrl: "https://www.foxnews.com/politics/house-armed-services-gop-demand-biden-afghanistan-plan-terror-groups.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-armed-services-gop-demand-biden-afghanistan-plan-terror-groups.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Republicans demand resignations over Biden's Afghanistan debacle"
     excerpt: "A handful of Republican congressmen are calling for heads to roll in the administration for the botched handling of the troop withdrawal from Afghanistan."
     publishedDateTime: 2021-08-17T21:19:44Z
@@ -505,22 +518,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Trump calls Afghanistan collapse ‘most humiliating’ moment for US"
-    excerpt: "Former President Donald Trump described the ongoing mayhem in Afghanistan as the worst humiliation in American history Tuesday, while defending the agreement his administration struck with the"
-    publishedDateTime: 2021-08-18T04:26:00Z
-    webUrl: "https://nypost.com/2021/08/18/trump-calls-afghanistan-collapse-most-humiliating-moment-for-us/"
-    ampWebUrl: "https://nypost.com/2021/08/18/trump-calls-afghanistan-collapse-most-humiliating-moment-for-us/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/18/trump-calls-afghanistan-collapse-most-humiliating-moment-for-us/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-afghanistan-humiliating-index.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "McCaul: Biden will have ‘blood on his hands’ over Afghanistan withdrawal"
     excerpt: "The top Republican on the House Foreign Relations Committee on Sunday said President Biden will have “blood on his hands” over the withdrawal of the US military from Afghanistan."
     publishedDateTime: 2021-08-15T19:15:00Z
@@ -547,6 +544,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "zUOBTV+URaesAYdmLYv2uCqCz9Q7alTo898UF5yt1Oxqzl5yFoEIm7A1LsMEyPK6xfkumRjTMARy61nNrO5G7d2fYkBMAfXHxXOtVtwKydciTx1Kl5zLQNrHE4Qv1bdjgXBBT5kY1aZO8Fs1+AFx1XXbAFjexpqgenoNCnAHF8UR8idC1R+Fh0jqQ4FYoWs8roBZaCnSaO8rUuzKDRCqpbxJ0p7d6GlMHCa7N7L47xVLOY/ZDkfawHXm62cp8u8hDHrnDdQRpjkndRzBXwUQlggkl8lrkA5cqYxEOP5hwEiiXugbOzMcfYgmKSd8RugZd6qs2oKNbcy+sEEJWLar18sCOpUZsCqr+z5e9AenZLE=;q1e/0Ae4w/nexc5mCCdt/Q=="
+secured: "I617W4doldzckVtsnefLEDT3ac//oEMnhpsvcr6kHDj/Fg0d5+wAS5TcykwBv5RNSRsqFeU41giXdPGY/+LR2kSGixmrTP/qlLiC8gS6RPKoxzPQPLMq3Dt0Ger0Bsm2OEHw7+0xATIcryU0MWKnk4I2F5DkZAscb3BjTmTzIXvilLg7I5sVEqAqjpTe3OOuJdyuy3AeqaRchpC1PsUEfamh/11zEKHSTYcGqmbmuX2bwfa9Q6DDAg772Iw1VM3HtmFwwlr4L+pdltPIUGoA+njncD/CJ53LOHNR1yq7gLGlWRVVrPapJ88EFM7zKzv3IkQFZrf9xPvrTyimcVPsRtD7EkKpmtrX/LzFIV7g0ZQ=;5UsZ6BkWLYkLJzXlBNQCEA=="
 ---
 

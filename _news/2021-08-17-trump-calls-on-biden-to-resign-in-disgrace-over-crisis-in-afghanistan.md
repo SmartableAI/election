@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-biden-resign-crisis-afghanist
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-resign-crisis-afghanistan.amp"
 type: article
 quality: 190
-heat: 830
+heat: 850
 published: true
 
 provider:
@@ -504,6 +504,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/57ba0a12-26b2-44bf-8ae4-a9ac7f5f21ff/02f50c46-2dde-4c91-9674-193a315cfc9c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Trump calls Afghanistan collapse ‘most humiliating’ moment for US"
+    excerpt: "Former President Donald Trump described the ongoing mayhem in Afghanistan as the worst humiliation in American history Tuesday, while defending the agreement his administration struck with the"
+    publishedDateTime: 2021-08-18T04:26:00Z
+    webUrl: "https://nypost.com/2021/08/18/trump-calls-afghanistan-collapse-most-humiliating-moment-for-us/"
+    ampWebUrl: "https://nypost.com/2021/08/18/trump-calls-afghanistan-collapse-most-humiliating-moment-for-us/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/18/trump-calls-afghanistan-collapse-most-humiliating-moment-for-us/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-afghanistan-humiliating-index.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
   - title: "McCaul: Biden will have ‘blood on his hands’ over Afghanistan withdrawal"
     excerpt: "The top Republican on the House Foreign Relations Committee on Sunday said President Biden will have “blood on his hands” over the withdrawal of the US military from Afghanistan."

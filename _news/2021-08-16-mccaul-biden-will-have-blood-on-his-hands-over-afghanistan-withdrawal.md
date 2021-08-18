@@ -518,6 +518,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Trump calls Afghanistan collapse ‘most humiliating’ moment for US"
+    excerpt: "Former President Donald Trump described the ongoing mayhem in Afghanistan as the worst humiliation in American history Tuesday, while defending the agreement his administration struck with the"
+    publishedDateTime: 2021-08-18T04:26:00Z
+    webUrl: "https://nypost.com/2021/08/18/trump-calls-afghanistan-collapse-most-humiliating-moment-for-us/"
+    ampWebUrl: "https://nypost.com/2021/08/18/trump-calls-afghanistan-collapse-most-humiliating-moment-for-us/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/18/trump-calls-afghanistan-collapse-most-humiliating-moment-for-us/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-afghanistan-humiliating-index.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Biden Making a Major Mistake on Afghanistan"
     excerpt: "David A. Andelman writes that President Joe Biden should not be setting a date for withdrawal of US troops from Afghanistan since the reason the US first entered the country -- to address a major terrorist threat -- has not been fully addressed."
     publishedDateTime: 2021-04-14T11:37:00Z
