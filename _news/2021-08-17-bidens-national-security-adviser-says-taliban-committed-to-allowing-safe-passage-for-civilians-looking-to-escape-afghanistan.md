@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Democrats ramp up oversight over Biden's Afghan withdrawal"
+    excerpt: "Congressional Democrats are preparing a series of hearings on the US withdrawal from Afghanistan amid rising anger about the Biden administration's handling of the end of the war, with the Taliban rapidly taking control and the US chaotically scrambling to evacuate Americans and vulnerable Afghan allies.\n"
+    publishedDateTime: 2021-08-18T14:23:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PyN92fsmKW8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/18/politics/democratic-response-afghanistan-withdrawal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/18/politics/democratic-response-afghanistan-withdrawal/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210311103227-08-blinken-diversity-state-dept-menendez-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden spoke with Obama and Bush ahead of Afghanistan withdrawal announcement"
     excerpt: "Former President Barack Obama on Wednesday praised President Joe Biden's \"bold leadership\" for his decision to withdraw all US troops from Afghanistan by September 11, saying that \"it is time to recognize that we have accomplished all that we can militarily\" in America's longest war.\n    \n"
     publishedDateTime: 2021-04-15T02:37:32Z

@@ -312,13 +312,13 @@ related:
   - title: "What President Joe Biden said in his address on Afghanistan"
     excerpt: "As criticism of the president mounted, Biden addressed the country as the Taliban took control of Afghanistan and chaos overtook the Kabul airport."
     publishedDateTime: 2021-08-16T23:06:00Z
-    webUrl: "https://www.statesman.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
-    ampWebUrl: "https://amp.statesman.com/amp/8157340002"
-    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8157340002"
+    webUrl: "https://www.indystar.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
+    ampWebUrl: "https://amp.indystar.com/amp/8157340002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/8157340002"
     type: article
     provider:
-      name: Austin American-Statesman
-      domain: statesman.com
+      name: Indianapolis Star
+      domain: indystar.com
     quality: 75
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/08/16/USAT/d4d75f62-840d-41fd-beeb-ff0dd19fe7ce-AP_Biden_US_Afghanistan.jpg?auto=webp&crop=4783,2691,x0,y159&format=pjpg&width=1200"
@@ -652,6 +652,6 @@ related:
       domain: cincinnati.com
     quality: 13
 
-secured: "tvmE27M05Gp/5vu0PjdYjIvaWXec3X2Mp8saSDFFnlfbHpJBgjCkf3WP3lCLDcVM6P8XOl5wdMXeJTtapp7u2e8wl9ERpkm0tDKpIxgG/znhAIuDxQf33+YBSIW8sJsa2q2SsUB3l446hLq6DmfQXyCCxD2l6CSoHh7zdHZnFYuuuI9S8ElqyJNeAy0sba7N7CwAqfh9/G8hNRyQgWuNND9USIHZ1mbCRjacsOI48PtY3sMYUFEluPdLR0zaDWnl8glElGU1v4tWDcFpTEvNIeMKkMEFZQHhWFHL3v1/JGfeZ/2011xdhqN5BFz8ZHMWsn6dZ3qCZ2GbVJAt/Jqa4FXakxVzAPqfQfltrnURS0k=;sQT5najSobxVXJAYAzBINw=="
+secured: "MrwqZ/dCkNsZEjbr5lXJr5kVfuSkfkiCCx6TNycmV/sqI3q7d12BYn1+z95czw1MvuuQuqrbUgEuuYS1203yXjN7IQRTdpel8jo7oRdbE5HSyT/235Z2dd/9PpYt/HvHIPr2uLImrYZa8gUU7ELbtfkl2vFFkuyndjzURLeNlmPj2A2k0ILMijfQXGDn1Z/o7LDn7elTrL9gwHqIY/EOafQ3HWDTy9DsmTueuQ+dw/UcmEG1tpbng05HyEKYJiI0vtpJnFef8UCWKNKEAe8c6BfVwaMLbNWXn3F6tUdWMLJfPYdHaWsaeQHvTvrejvpTVlaXU5G68xVch4/eQMCMPJXkgRPUnzfcr/mkOEbQ4NUyhiV9y+zwajgbKbsAEZIINb5EfWnwYkpoBTreEx3EzeulashMtnOo+FwGzkoyyCK5cXqZi97gFTPZ1sDIJI4VRJWM/ukobrf/Is9WByJU6Z7KbV+HiaHZi0onv0NCJ5aySxyeimw5aD7J6QQ4psQTUJ6fSFThsA8MZoFKf1MSBw==;fQSj9vvECh+M0Wx7BnAhcA=="
 ---
 

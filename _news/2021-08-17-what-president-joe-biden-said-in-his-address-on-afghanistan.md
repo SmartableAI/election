@@ -3,18 +3,18 @@ category: news
 title: "What President Joe Biden said in his address on Afghanistan"
 excerpt: "As criticism of the president mounted, Biden addressed the country as the Taliban took control of Afghanistan and chaos overtook the Kabul airport."
 publishedDateTime: 2021-08-16T23:06:00Z
-originalUrl: "https://www.statesman.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
-webUrl: "https://www.statesman.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
-ampWebUrl: "https://amp.statesman.com/amp/8157340002"
-cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8157340002"
+originalUrl: "https://www.indystar.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
+webUrl: "https://www.indystar.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
+ampWebUrl: "https://amp.indystar.com/amp/8157340002"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/8157340002"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Austin American-Statesman
-  domain: statesman.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -652,6 +652,6 @@ related:
       domain: cincinnati.com
     quality: 13
 
-secured: "AdBtq7CSysJxkfysxuAb3Tm3nNzwoVTyQIyIhEZLI9Zc+CUehGaD9jR/zoQ00EL8Yq74eKlmPA9YwsPBLC4mDlngJFtMJmYa3QTmkmpAR285K2AydJrlHMPhqwueJl4YZF4RVPd8cl4nDywDExk27lZu2H+qYcnvTNJ9/1jYyzh1mSaWXLd9WUEhWPDvQv/IEYPzTH8igM5I3U9kL4U5VBBt5xcSOctxMK3KO0bm+KvRVRgq5z7Em8A3ZD+GQwariGf16cLeZW0f6Lc1jwpJSqOixHNFRI4pBptRsFCjCYYC6hFb/6GMcP5vl4ZBZaNERRpw+eOmCZjUR82mje2WhyKejKb2p2sNjCFqfhMIy1Y=;tfsALv4GGO0lVbNR/7mQQA=="
+secured: "tT2P+jZ6/qh4HJW4KMiQZoLPaFVOp6LnDTDosq3K5cMF+Tg99MG5XJCVPJB58gUp4nzmbDhtJIEHoFk2VFyziQUrkQzr3rfMejF09xXdhaNEK1rXUWoMPZ7SLuoALBUfaaB5jGzd7WaeQGL6xNwOXcW561eU5nf3aC46ItAUNUaGOkSd21YmKxt7CTDghzK3u4feaTdNXL/WYXXeLczJtyF04sdcUB29yIcjuIRORKIZKRtlU3fQfCKUmt/zNKUjWnJ3aMrmjU4iyg3QxgxnkGJYo5mGBJqK0n2wZWgb4BPn68/gS0Ub2PQs9zZf9Vfvwu8zgKuE5IfuJENaceBXNPFy+SAtxUBVuyWtGyvYWLk=;zO5bVlAEiDK5jwjwodtM8g=="
 ---
 

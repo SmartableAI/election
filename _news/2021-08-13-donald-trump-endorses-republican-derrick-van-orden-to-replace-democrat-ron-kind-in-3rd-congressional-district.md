@@ -424,6 +424,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Posts correct about Trump administration’s role in releasing key Taliban leader"
+    excerpt: "The man next to Mike Pompeo in a November 2020 photo “is the guy the Trump administration helped get out of jail in 2018 and who is now the 'president' of Afghanistan.\" Then-Secretary of State Mike Pompeo meets with Mullah Abdul Ghani Baradar,"
+    publishedDateTime: 2021-08-18T15:26:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/aug/18/instagram-posts/posts-correct-about-trump-administrations-role-rel/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 51
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-mostly-true.jpg"
+        width: 438
+        height: 392
+        isCached: true
   - title: "Judge: House Entitled to Some of Trump's Financial Records"
     excerpt: "House Democrats who have spent years investigating Donald Trump are entitled to some of the former president’s financial records."
     publishedDateTime: 2021-08-12T00:18:00Z

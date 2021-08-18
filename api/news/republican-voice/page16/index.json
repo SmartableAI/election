@@ -2,6 +2,62 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-05-11-biden-says-he-expects-a-more-aggressive-effort-to-relax-cdc-guidance-for-fully-vaccinated-people.md",
+      "title": "Biden says he expects ‘a more aggressive effort’ to relax CDC guidance for fully vaccinated people",
+      "excerpt": "President Biden predicted \"a more aggressive effort\" within his administration to increase the \"desire\" to get vaccinated by relaxing the Centers for Disease Control and Prevention's guidance on what fully vaccinated people can do safely. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uqfuJ5lhgOQ/biden-more-aggressive-effort-relax-cdc-guidance-fully-vaccinated",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uqfuJ5lhgOQ/biden-more-aggressive-effort-relax-cdc-guidance-fully-vaccinated",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/GettyImages-1312682563.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-more-aggressive-effort-relax-cdc-guidance-fully-vaccinated.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-more-aggressive-effort-relax-cdc-guidance-fully-vaccinated.amp",
+      "publishedDateTime": "2021-05-11T13:36:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-mike-pompeo-bidens-stance-on-israel-and-iran-emboldens-terrorists.md",
       "title": "Mike Pompeo: Biden's stance on Israel and Iran 'emboldens terrorists'",
       "excerpt": "Former Secretary of State Mike Pompeo tore into President Biden's foreign policy regarding Israel and Iran, saying its stance on the long-standing disputes in the region \"emboldens terrorists.\"",
@@ -1581,62 +1637,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-pushes-big-spending-package-celebrates-amtraks-50th-anniversary.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pushes-big-spending-package-celebrates-amtraks-50th-anniversary.amp",
       "publishedDateTime": "2021-04-30T14:20:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-biden-administration-to-pursue-practical-north-korea-nuclear-diplomacy.md",
-      "title": "Biden administration to pursue 'practical' North Korea nuclear diplomacy",
-      "excerpt": "The White House Friday confirmed the Biden Administration has completed a months-long review of North Korea policy and will chart a different path than former President Donald Trump in an effort to end North Korea’s nuclear and ballistic missile program.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SsYdkh90qU4/biden-admin-practical-north-korea-nuclear-diplomacy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SsYdkh90qU4/biden-admin-practical-north-korea-nuclear-diplomacy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-admin-practical-north-korea-nuclear-diplomacy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-practical-north-korea-nuclear-diplomacy.amp",
-      "publishedDateTime": "2021-04-30T14:01:56-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

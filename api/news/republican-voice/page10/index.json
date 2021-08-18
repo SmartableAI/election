@@ -2,6 +2,63 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-06-18-axios-mocked-for-blaming-worker-burnout-on-capitol-riot-fallout-from-the-trump-presidency.md",
+      "title": "Axios mocked for blaming worker burnout on Capitol riot, 'fallout from the Trump presidency'",
+      "excerpt": "Many Americans have declined to return to work following coronavirus shutdowns and enhanced unemployment benefits, but Axios feels the labor shortage is largely former President Donald Trump’s fault.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/axios-mocked-worker-burnout-capitol-riot-trump",
+      "originalUrl": "https://www.foxnews.com/media/axios-mocked-worker-burnout-capitol-riot-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/340/340/Flood-pic.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/axios-mocked-worker-burnout-capitol-riot-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/axios-mocked-worker-burnout-capitol-riot-trump.amp",
+      "publishedDateTime": "2021-06-17T13:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-arizona-sheriff-says-no-distinct-border-changes-from-biden-administration-despite-sec-mayorkas-meetings.md",
       "title": "Arizona sheriff says 'no distinct' border changes from Biden administration despite Sec. Mayorkas meetings",
       "excerpt": "An Arizona sheriff says there have been no changes in policy, messaging or results from the Biden administration on the crisis at the southern border -- despite multiple meetings between sheriffs and Homeland Security Secretary Alejandro Mayorkas.",
@@ -1579,62 +1636,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/aocs-aunt-says-blame-puerto-rico-pols-not-trump-for-abuela-misery-report.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aocs-aunt-says-blame-puerto-rico-pols-not-trump-for-abuela-misery-report.amp",
       "publishedDateTime": "2021-06-11T21:26:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-putin-calls-trump-an-extraordinary-individual-biden-a-career-man.md",
-      "title": "Putin calls Trump an ‘extraordinary individual,’ Biden, a ‘career man’",
-      "excerpt": "Russian President Vladimir Putin compared his relationship with former President Trump, who he praised as an “extraordinary individual,” and President Biden, who he called a “career man.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UZbmxPirZSc/putin-trump-extraordinary-individual-biden-career-man",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UZbmxPirZSc/putin-trump-extraordinary-individual-biden-career-man",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 570,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/Russia-Vladimir-Putin-AP.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/putin-trump-extraordinary-individual-biden-career-man.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/putin-trump-extraordinary-individual-biden-career-man.amp",
-      "publishedDateTime": "2021-06-11T17:38:50-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

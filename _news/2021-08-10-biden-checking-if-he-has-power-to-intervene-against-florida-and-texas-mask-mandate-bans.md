@@ -63,6 +63,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden administration announces rule to speed up asylum processing as part of border strategy"
+    excerpt: "The Biden administration announced Wednesday a new rule to speed up asylum processing at the southern border, both with quicker entry into the U.S. as well as a broader scope for removal -- as the administration looks to tackle the continuing crisis at the border."
+    publishedDateTime: 2021-08-18T14:58:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rt-rSRJ9cOQ/biden-administration-rule-speed-up-asylum-processing-border-strategy"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-rule-speed-up-asylum-processing-border-strategy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-rule-speed-up-asylum-processing-border-strategy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2e1303da-8218-4497-af76-cf242c86cc69/b453413d-8e7c-43d1-89f5-aec507881226/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden Destroys U.S. Energy Production, Begs OPEC to Pump"
     excerpt: "Just hours after being sworn into office on January 20, 2021, President Joe Biden signed an executive order canceling the Keystone XL pipeline. The move killed thousands of union jobs,"
     publishedDateTime: 2021-08-12T11:38:00Z

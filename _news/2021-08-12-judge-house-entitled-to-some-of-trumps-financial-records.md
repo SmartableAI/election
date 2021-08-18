@@ -422,6 +422,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Posts correct about Trump administration’s role in releasing key Taliban leader"
+    excerpt: "The man next to Mike Pompeo in a November 2020 photo “is the guy the Trump administration helped get out of jail in 2018 and who is now the 'president' of Afghanistan.\" Then-Secretary of State Mike Pompeo meets with Mullah Abdul Ghani Baradar,"
+    publishedDateTime: 2021-08-18T15:26:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/aug/18/instagram-posts/posts-correct-about-trump-administrations-role-rel/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 51
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-mostly-true.jpg"
+        width: 438
+        height: 392
+        isCached: true
   - title: "Donald Trump endorses Republican Derrick Van Orden to replace Democrat Ron Kind in 3rd Congressional District"
     excerpt: "Former President Donald Trump is throwing his support behind the Republican candidate for Wisconsin's 3rd District congressional seat being vacated by Democratic U.S. Rep. Ron Kind. Derrick Van Orden received the former president's approval this week after the long-time incumbent Kind announced he would not seek another term."
     publishedDateTime: 2021-08-12T18:29:00Z

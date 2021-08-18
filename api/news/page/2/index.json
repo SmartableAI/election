@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-14-jill-biden-wears-medical-boot-after-foot-injury-in-hawaii.md",
+      "title": "Jill Biden wears medical boot after foot injury in Hawaii",
+      "excerpt": "Jill Biden is wearing a medical boot following a recent foot injury on a Hawaiian beach. The boot was on the first lady's left foot Friday as she and President Joe Biden boarded a helicopter in Delaware to fly to the Camp David presidential retreat in Maryland.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ctpost.com/news/article/Jill-Biden-wears-medical-boot-after-foot-injury-16385810.php",
+      "originalUrl": "https://www.ctpost.com/news/article/Jill-Biden-wears-medical-boot-after-foot-injury-16385810.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ctpost.com/news/amp/Jill-Biden-wears-medical-boot-after-foot-injury-16385810.php",
+      "cdnAmpWebUrl": "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Jill-Biden-wears-medical-boot-after-foot-injury-16385810.php",
+      "publishedDateTime": "2021-08-13T16:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Connecticut Post",
+        "domain": "ctpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-14-lamborn-dismissed-pandemic-as-hoax-meant-to-derail-trumps-reelection-ex-staffer-says-in-sworn-statement.md",
       "title": "Lamborn dismissed pandemic as hoax meant to derail Trump’s reelection, ex-staffer says in sworn statement",
       "excerpt": "Allegations that U.S. Rep. Doug Lamborn, R-Colorado Springs, fired a staffer in retaliation after the staffer sought to protect himself and others during the pandemic are true, another former",
@@ -1238,7 +1281,7 @@
       "originalUrl": "https://www.cbsnews.com/news/dominion-defamation-case-rudy-giuliani-sidney-powell-mike-lindell/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 705,
+      "heat": 725,
       "tags": null,
       "images": [
         {
@@ -1279,58 +1322,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-meet-joe-bidens-secret-weapon-the-woman-who-wrangles-with-congress.md",
-      "title": "Meet Joe Biden’s secret weapon: the woman who wrangles with Congress",
-      "excerpt": "Louisa Terrell, White House director of the office of legislative affairs, is the tip of the spear of Biden’s team as she fulfills one of the most difficult jobs in a deeply divided political landscap",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/74a2c7eb79f9c8ef9db653798c8fcb347c1a4719/654_0_3346_2007/master/3346.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cb7abaeb929f3807f0f8aaed493fc44b",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress",
-      "publishedDateTime": "2021-08-12T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

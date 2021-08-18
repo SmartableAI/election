@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-florida-emergency-declaration
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-florida-emergency-declaration-federal-assistance-tropical-storm-fred.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 166
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f971513-f578-48ec-aafe-1356cbb35b0f/7990aed3-d0fa-45d5-b33f-11ab72e7de2f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden administration announces rule to speed up asylum processing as part of border strategy"
+    excerpt: "The Biden administration announced Wednesday a new rule to speed up asylum processing at the southern border, both with quicker entry into the U.S. as well as a broader scope for removal -- as the administration looks to tackle the continuing crisis at the border."
+    publishedDateTime: 2021-08-18T14:58:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rt-rSRJ9cOQ/biden-administration-rule-speed-up-asylum-processing-border-strategy"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-rule-speed-up-asylum-processing-border-strategy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-rule-speed-up-asylum-processing-border-strategy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2e1303da-8218-4497-af76-cf242c86cc69/b453413d-8e7c-43d1-89f5-aec507881226/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

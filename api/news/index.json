@@ -2,6 +2,54 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-18-cnns-jeffrey-toobin-ripped-over-column-arguing-against-prosecuting-trump.md",
+      "title": "CNN’s Jeffrey Toobin ripped over column arguing against prosecuting Trump",
+      "excerpt": "CNN legal analyst Jeffrey Toobin is facing backlash on social media over a column urging Attorney General Merrick Garland not to seek criminal prosecution of former",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/08/18/jeffrey-toobin-ripped-over-column-arguing-against-prosecuting-trump/",
+      "originalUrl": "https://nypost.com/2021/08/18/jeffrey-toobin-ripped-over-column-arguing-against-prosecuting-trump/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/Jeffrey-Toobin-03.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/08/18/jeffrey-toobin-ripped-over-column-arguing-against-prosecuting-trump/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/18/jeffrey-toobin-ripped-over-column-arguing-against-prosecuting-trump/amp/",
+      "publishedDateTime": "2021-08-18T07:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-18-pelosi-top-house-dems-wont-budge-in-infrastructure-tussle-with-moderates-tout-biden-support-for-her-rule.md",
       "title": "Pelosi, top House Dems won't budge in infrastructure tussle with moderates, tout Biden support for her 'rule'",
       "excerpt": "House Speaker Nancy Pelosi and her leadership team are mounting a pressure campaign on centrist Democrats to get them to support their party's budget resolution without a vote on the bipartisan infrastructure bill.",
@@ -352,7 +400,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -408,7 +456,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 850,
+      "heat": 890,
       "tags": null,
       "images": [
         {
@@ -1257,49 +1305,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-14-jill-biden-wears-medical-boot-after-foot-injury-in-hawaii.md",
-      "title": "Jill Biden wears medical boot after foot injury in Hawaii",
-      "excerpt": "Jill Biden is wearing a medical boot following a recent foot injury on a Hawaiian beach. The boot was on the first lady's left foot Friday as she and President Joe Biden boarded a helicopter in Delaware to fly to the Camp David presidential retreat in Maryland.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ctpost.com/news/article/Jill-Biden-wears-medical-boot-after-foot-injury-16385810.php",
-      "originalUrl": "https://www.ctpost.com/news/article/Jill-Biden-wears-medical-boot-after-foot-injury-16385810.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ctpost.com/news/amp/Jill-Biden-wears-medical-boot-after-foot-injury-16385810.php",
-      "cdnAmpWebUrl": "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Jill-Biden-wears-medical-boot-after-foot-injury-16385810.php",
-      "publishedDateTime": "2021-08-13T16:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Connecticut Post",
-        "domain": "ctpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Democrats ramp up oversight over Biden's Afghan withdrawal"
+    excerpt: "Congressional Democrats are preparing a series of hearings on the US withdrawal from Afghanistan amid rising anger about the Biden administration's handling of the end of the war, with the Taliban rapidly taking control and the US chaotically scrambling to evacuate Americans and vulnerable Afghan allies.\n"
+    publishedDateTime: 2021-08-18T14:23:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PyN92fsmKW8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/18/politics/democratic-response-afghanistan-withdrawal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/18/politics/democratic-response-afghanistan-withdrawal/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210311103227-08-blinken-diversity-state-dept-menendez-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's botched Afghan exit is a disaster at home and abroad long in the making"
     excerpt: "The debacle of the US defeat and chaotic retreat in Afghanistan is a political disaster for Joe Biden, whose failure to orchestrate an urgent and orderly exit will further rock a presidency plagued by crises and stain his legacy.\n    \n"
     publishedDateTime: 2021-08-16T06:12:42Z

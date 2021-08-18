@@ -125,6 +125,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "North Carolina billboard skewers Biden for botched Afghanistan withdrawal"
+    excerpt: "A billboard in Wilmington, North Carolina, skewered Biden for his botched withdrawal from Afghanistan that saw the Taliban take over the country and stranded thousands of Americans."
+    publishedDateTime: 2021-08-18T14:57:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6sBO_ES9hSQ/north-carolina-billboard-biden-afghanistan-withdrawal"
+    ampWebUrl: "https://www.foxnews.com/politics/north-carolina-billboard-biden-afghanistan-withdrawal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/north-carolina-billboard-biden-afghanistan-withdrawal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1b99b375-97b4-421f-9367-ac15ad21908e/1abaf49a-d36e-4eda-b6d5-3488c5643605/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Sec. Mayorkas blames Trump, rule of law for huge spike in illegal immigration during Biden administration"
     excerpt: "Homeland Security Secretary Alejandro Mayorkas blamed former President Donald Trump’s administration for the record rise of border crossings occurring during the Biden administration."
     publishedDateTime: 2021-08-13T14:23:58Z
@@ -362,6 +378,22 @@ related:
     quality: 161
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "US officials warn Biden's Aug. 31 deadline to withdraw troops from Afghanistan will be 'challenging'"
+    excerpt: "U.S. officials are privately warning that it will be \"challenging\" to meet President Biden's Aug. 31 deadline to withdraw U.S. troops from Afghanistan, Fox News has learned."
+    publishedDateTime: 2021-08-18T15:37:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WTBziftWPlI/biden-deadline-withdraw-afghanistan-troops-challenging"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-deadline-withdraw-afghanistan-troops-challenging.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-deadline-withdraw-afghanistan-troops-challenging.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
