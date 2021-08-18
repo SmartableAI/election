@@ -62,6 +62,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "How DC's ultimate version of the #KHive is swarming to defend Vice President Kamala Harris"
+    excerpt: "Some of the most influential women in Washington are defending Vice President Kamala Harris after tough stories about her office culture."
+    publishedDateTime: 2021-08-18T03:40:00Z
+    webUrl: "https://www.businessinsider.com/kamala-harris-khive-defenders-democratic-women-2021-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 95
+    images:
+      - url: "https://i.insider.com/611c8102a4b07b0018ae1e1b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Meet 12 Democratic women power brokers doing damage control for Kamala Harris after some tough press"
     excerpt: "Some of the most influential women in Washington are defending Vice President Kamala Harris after tough stories about her office culture."
     publishedDateTime: 2021-08-17T08:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/president-biden-vp-harris-avoid-the
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-biden-vp-harris-avoid-the-cameras-as-kabul-falls.amp"
 type: article
 quality: 200
-heat: 700
+heat: 720
 published: true
 
 provider:
@@ -175,6 +175,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9a21eae-3044-43dd-b5f9-7c8d2000669e/afd3b02e-f294-438d-92a6-773e386f7e88/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Pence claims Biden broke Trump administration’s deal with Taliban"
+    excerpt: "Former Vice President Mike Pence claimed Tuesday that President Joe Biden reneged on the cease-fire deal his predecessor, former President Donald Trump, agreed with the Taliban in February 2020."
+    publishedDateTime: 2021-08-18T03:46:00Z
+    webUrl: "https://nypost.com/2021/08/17/pence-claims-biden-broke-trump-administrations-deal-with-taliban/"
+    ampWebUrl: "https://nypost.com/2021/08/17/pence-claims-biden-broke-trump-administrations-deal-with-taliban/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/17/pence-claims-biden-broke-trump-administrations-deal-with-taliban/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 165
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/mike-pense-taliban-agreement-index.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Taliban poised to impose Sharia law in Afghanistan, threatening people Biden professes to fight for"
     excerpt: "Fears are growing that the Taliban will move to reimplement Sharia Law with their trademark brutal enforcement"

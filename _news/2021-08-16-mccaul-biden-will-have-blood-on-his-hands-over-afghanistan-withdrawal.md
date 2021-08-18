@@ -502,6 +502,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump rips Biden's Afghan actions: 'Our country has never been so humiliated'; 'blows Vietnam away'"
+    excerpt: "Former President Donald J. Trump strongly condemned President Joe Biden and the catastrophe unfolding in Kabul, Afghanistan since the weekend, in an interview with \"Hannity\" on Tuesday."
+    publishedDateTime: 2021-08-18T02:50:00Z
+    webUrl: "https://www.foxnews.com/media/trump-biden-afghanistan-actions-humiliated"
+    ampWebUrl: "https://www.foxnews.com/media/trump-biden-afghanistan-actions-humiliated.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-biden-afghanistan-actions-humiliated.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 136
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/57ba0a12-26b2-44bf-8ae4-a9ac7f5f21ff/02f50c46-2dde-4c91-9674-193a315cfc9c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden Making a Major Mistake on Afghanistan"
     excerpt: "David A. Andelman writes that President Joe Biden should not be setting a date for withdrawal of US troops from Afghanistan since the reason the US first entered the country -- to address a major terrorist threat -- has not been fully addressed."
     publishedDateTime: 2021-04-14T11:37:00Z

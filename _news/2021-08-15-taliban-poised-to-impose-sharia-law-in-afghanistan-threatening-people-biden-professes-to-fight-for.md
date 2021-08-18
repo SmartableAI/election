@@ -191,6 +191,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Pence claims Biden broke Trump administration’s deal with Taliban"
+    excerpt: "Former Vice President Mike Pence claimed Tuesday that President Joe Biden reneged on the cease-fire deal his predecessor, former President Donald Trump, agreed with the Taliban in February 2020."
+    publishedDateTime: 2021-08-18T03:46:00Z
+    webUrl: "https://nypost.com/2021/08/17/pence-claims-biden-broke-trump-administrations-deal-with-taliban/"
+    ampWebUrl: "https://nypost.com/2021/08/17/pence-claims-biden-broke-trump-administrations-deal-with-taliban/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/17/pence-claims-biden-broke-trump-administrations-deal-with-taliban/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 165
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/mike-pense-taliban-agreement-index.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Tucker: Biden-Harris have lost control of the border"
     excerpt: "The driver wasn't given any information beyond that, she was just told to take those children deep into the interior of the United States, away from the border and do it as quickly as possible, quote: \"There have been some drop-offs in Nashville,"
     publishedDateTime: 2021-06-30T18:40:00Z

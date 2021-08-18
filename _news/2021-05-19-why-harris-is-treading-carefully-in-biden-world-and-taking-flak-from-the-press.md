@@ -190,6 +190,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Pence claims Biden broke Trump administration’s deal with Taliban"
+    excerpt: "Former Vice President Mike Pence claimed Tuesday that President Joe Biden reneged on the cease-fire deal his predecessor, former President Donald Trump, agreed with the Taliban in February 2020."
+    publishedDateTime: 2021-08-18T03:46:00Z
+    webUrl: "https://nypost.com/2021/08/17/pence-claims-biden-broke-trump-administrations-deal-with-taliban/"
+    ampWebUrl: "https://nypost.com/2021/08/17/pence-claims-biden-broke-trump-administrations-deal-with-taliban/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/17/pence-claims-biden-broke-trump-administrations-deal-with-taliban/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 165
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/mike-pense-taliban-agreement-index.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Taliban poised to impose Sharia law in Afghanistan, threatening people Biden professes to fight for"
     excerpt: "Fears are growing that the Taliban will move to reimplement Sharia Law with their trademark brutal enforcement"
     publishedDateTime: 2021-08-15T23:01:12Z
