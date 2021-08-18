@@ -175,6 +175,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden on chaotic Afghanistan withdrawal: 'I don't think it was a failure'"
+    excerpt: "President Joe Biden on Wednesday defiantly defended his administration's execution of the withdrawal of US troops from Afghanistan, saying that he doesn't think the crisis represents a failure and there was no way to better handle the end to the nation's longest war.\n    \n"
+    publishedDateTime: 2021-08-18T21:22:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9HPzv7E2ukU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/18/politics/joe-biden-afghanistan-failure/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/18/politics/joe-biden-afghanistan-failure/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210818163614-01-biden-covid-remarks-0818-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden spoke with Obama and Bush ahead of Afghanistan withdrawal announcement"
     excerpt: "Former President Barack Obama on Wednesday praised President Joe Biden's \"bold leadership\" for his decision to withdraw all US troops from Afghanistan by September 11, saying that \"it is time to recognize that we have accomplished all that we can militarily\" in America's longest war.\n    \n"
     publishedDateTime: 2021-04-15T02:37:32Z

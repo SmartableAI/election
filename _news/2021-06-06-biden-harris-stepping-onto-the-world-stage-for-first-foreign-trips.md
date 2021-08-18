@@ -252,6 +252,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden admin moved to dismantle protections for citizens trapped overseas months before Kabul’s fall: report"
+    excerpt: "The Biden administration moved in June to dismantle a system designed to protect American citizens trapped abroad — just months before the Taliban took over Afghanistan, stranding thousands of Americans in the Central Asian country."
+    publishedDateTime: 2021-08-18T21:49:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pAkosFH0JW4/biden-admin-dismantled-ccr-kabul"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-dismantled-ccr-kabul.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-dismantled-ccr-kabul.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f850f181-a8b7-4e53-aff1-b2f6a57a4421/b2dd30f1-028f-4be2-90c5-01a4b4eaf1d4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Pompeo: Biden failing to execute Afghan withdrawal, Trump warned Taliban of consequences"
     excerpt: "Former Secretary of State Mike Pompeo called out the Biden administration for what he described as poor planning and poor execution of a U.S. troop withdrawal from Afghanistan, which may lead to the nation's capital of Kabul to fall to Taliban insurgents within the next 3 months."
     publishedDateTime: 2021-08-12T22:25:00Z

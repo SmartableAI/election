@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Kushner pal Ken Kurson hit with state charges months after Trump pardon"
+    excerpt: "The former Chicago musician and New York Observer editor is accused of cyberstalking his wife during heated divorce proceedings."
+    publishedDateTime: 2021-08-18T20:44:00Z
+    webUrl: "https://chicago.suntimes.com/2021/8/18/22631265/ken-kurson-cyberstalking-charges-jared-kushner-donald-trump-pardon-new-york-observer-green"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2021/8/18/22631265/ken-kurson-cyberstalking-charges-jared-kushner-donald-trump-pardon-new-york-observer-green"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/8/18/22631265/ken-kurson-cyberstalking-charges-jared-kushner-donald-trump-pardon-new-york-observer-green"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 75
+    images:
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "E6z7J/psSvATJIjYkGVSOeQSv8UtdFCkvzV49FlkkuTsLVBMDvtuvqEwrOl1wLlGvWRE4z+hrdFF47QX7J6wE9x5uwM0HTMX0bCxXysD7jaMZQ4A0SjnYo+eoAamamNclaNLdO0FZZmUcP8jVLEfi+UxY61BsbeV30+0dNS/lNnz/AQUFSxe7lr9AaaJw/ogE0nFEwb5wHfRfFv47V0+68qRFhzjpng6qy7MN98rxwLCOWwbGDuSNLRXCbbcG7c9vXslct6KNMi6b6E1+1pFq4pYVy+6QgAIBJa6+Teu+wtNkkVaDgwQOQ85sJMlI0EJXBNBIqDT3o93WlSH+73+hG+z5rm7ErCjOQ9ivh/A+go=;GRxhdXXX9NS55qWrncM5sQ=="
 ---

@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Kushner pal Ken Kurson hit with state charges months after Trump pardon"
+    excerpt: "The former Chicago musician and New York Observer editor is accused of cyberstalking his wife during heated divorce proceedings."
+    publishedDateTime: 2021-08-18T20:44:00Z
+    webUrl: "https://chicago.suntimes.com/2021/8/18/22631265/ken-kurson-cyberstalking-charges-jared-kushner-donald-trump-pardon-new-york-observer-green"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2021/8/18/22631265/ken-kurson-cyberstalking-charges-jared-kushner-donald-trump-pardon-new-york-observer-green"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/8/18/22631265/ken-kurson-cyberstalking-charges-jared-kushner-donald-trump-pardon-new-york-observer-green"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 75
+    images:
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Derrick Van Orden gets Trump endorsement in race for seat held by retiring Rep. Ron Kind"
     excerpt: "Derrick Van Orden, R-Prairie du Chien, a loyal Trump ally, is now the only candidate in the race for the seat after longtime Rep. Ron Kind, D-La Crosse, announced his"
     publishedDateTime: 2021-08-13T16:15:00Z

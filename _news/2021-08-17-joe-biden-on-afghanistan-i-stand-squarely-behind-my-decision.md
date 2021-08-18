@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden on Afghanistan: 'I stand squarely behind my decision'"
-excerpt: "I stand squarely behind my decision' Up Next. Afghans cling to US plane taking off from Kabul. Video, 00:01:10Afghans cling to US plane taking off from Kabul Video, 00:00:32'I can't believe the world abandoned Afghanistan' 'Women won't be silenced by the Taliban' Video,"
+excerpt: "I stand squarely behind my decision' Up Next. How it happened: The Taliban advance. Video, 00:01:49How it happened: The Taliban advance Images show decline of California's 'life source' Video, 00:02:49Images show decline of California's 'life source' Afghans cling to US plane taking off from Kabul."
 publishedDateTime: 2021-08-16T21:03:00Z
-originalUrl: "https://www.bbc.com/news/av/world-us-canada-58238557"
-webUrl: "https://www.bbc.com/news/av/world-us-canada-58238557"
+originalUrl: "https://www.bbc.com/news/av/world-us-canada-58238557?at_campaign=64&at_custom2=twitter&at_custom4=736F426C-FED2-11EB-BDD5-D9FE4744363C&at_custom1=%5Bpost+type%5D&at_medium=custom7"
+webUrl: "https://www.bbc.com/news/av/world-us-canada-58238557?at_campaign=64&at_custom2=twitter&at_custom4=736F426C-FED2-11EB-BDD5-D9FE4744363C&at_custom1=%5Bpost+type%5D&at_medium=custom7"
 type: article
 quality: 105
 heat: -1
@@ -45,6 +45,28 @@ related:
         width: 3391
         height: 2362
         isCached: true
+  - title: "Afghanistan live news: Joe Biden says there was no way to exit without ‘chaos’"
+    excerpt: "Ousted president Ashraf Ghani confirms he is in UAE; UN says it will still support Afghan people; at least one dead after clash over Taliban flag"
+    publishedDateTime: 2021-08-18T20:50:00Z
+    webUrl: "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis?page=with:block-611d76ea8f08a25db9839fe0"
+    ampWebUrl: "https://amp.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 101
+  - title: "Afghanistan live news: Joe Biden says there was no way to exit Afghanistan without ‘chaos’"
+    excerpt: "Ousted president Ashraf Ghani confirms he is in UAE; UN says it will still support Afghan people; at least one dead after clash over Taliban flag"
+    publishedDateTime: 2021-08-18T20:16:00Z
+    webUrl: "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis?page=with:block-611d70618f08e83ac7bdef0a"
+    ampWebUrl: "https://amp.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 95
   - title: "What Donald Trump Said In April About Pulling Out US Troops From Afghanistan"
     excerpt: "Donald Trump slammed Biden's decision to withdraw from Afghanistan despite applauding the move months earlier."
     publishedDateTime: 2021-08-16T22:23:00Z
@@ -90,6 +112,6 @@ related:
         height: 1920
         isCached: true
 
-secured: "B82LxshPRR/PkDKK5ASgroVKVhE15oxsUdCg8+zsTMdtiYCQs2z36IkFukTaERET8cdxqPnIKjRz/ETbT1SEdybx0nh1pI/4QSiPrtmtsChW4oir0OPLEAPBFyPyi1txdX4KQe/D9aB0tjS7fAiQRWwk5b/QLJFgTdih+9Ma05oxLHoisrgqw5nYsmWQjrIAJktVk/o8VaVzOzL0r+3020w6Zs8kr1c1CK5DsuTAE7bafyPfFRE8UHYi4aByITIJDiVQhdQIaCBkcvC8OL5rixNPdq0WnrXR7mjLHZeskLraaNQmgtwSWbcJrqyktiRgagb5nMN4mFAtq+sCS3WPHoA/P9CbG1QqJAIwXJ/wMZU=;nSwLv/dav59tW0Tub0MDlQ=="
+secured: "D+FgsxbR9QX9QDxBnESA2+Uzh+VHlMx7JNfEahkYxuSeHnlLbH/dQAy3FR9so2TLsq1jkZqH82EhIGWqnDrws1BSMnxScvBsCdx4OxwGMzuhgXnJi8T29Upok7QPepDr95WVydF6M4tnpdlQVibvfqqWB/dnoV2QQO3HjKaHwSj7GFB/7G5X448p7BobZFXjLBS4qbKqKH/sPcfA7HD8EfgKZogb8xqH1HcuWHKtOKHg12b/RDx25PZ0ihwXni1oelDW7+v4S50zSWsyqjHHxYy0zF9rWjgcMg/g0Q5NGYCW9NIgrpq5pQO/japh1zw9BNNbIQIV4Z9gS14BkukToosDcZ9IUPAaEaIY2ty4yiw=;o9EG2w66/IELTuEwd+VtOQ=="
 ---
 

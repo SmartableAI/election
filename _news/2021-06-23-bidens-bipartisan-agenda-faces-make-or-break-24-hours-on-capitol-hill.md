@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden admin bans pesticide tied to children's health problems, reversing Trump-era decision"
+    excerpt: "A widely used pesticide that could cause potential health issues in children can no longer be used on food in the US, the Environmental Protection Agency said Wednesday, reversing a Trump-era decision not to ban the controversial chemical.\n    \n"
+    publishedDateTime: 2021-08-18T21:26:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/y3N_AE3YYL4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/18/politics/epa-pesticide-ban-children-health/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/18/politics/epa-pesticide-ban-children-health/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210818162511-epa-buildng-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Why Biden didn't do more to avert voting rights defeat"
     excerpt: "If the expansive voting rights bill suffocated in the Senate on Tuesday was the most critical defense of American democracy in decades, it seems odd that a President who put that very goal at the core of his administration didn't do more to pass it.\n    \n"
     publishedDateTime: 2021-06-23T10:45:14Z

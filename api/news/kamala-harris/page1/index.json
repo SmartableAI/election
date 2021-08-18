@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-18-white-house-doubles-down-on-harris-asia-trip-amid-afghan-crisis-many-interests-around-the-world.md",
+      "title": "White House doubles down on Harris' Asia trip amid Afghan crisis: 'Many interests around the world'",
+      "excerpt": "The White House doubled down on Kamala Harris' East Asia trip amid the Afghanistan crisis. An official said the United States \"has many interests around the world.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YnD8Ucb7cHk/white-house-harris-asia-trip-amid-afghan-crisis-interests-around-world",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YnD8Ucb7cHk/white-house-harris-asia-trip-amid-afghan-crisis-interests-around-world",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43dec90e-50bf-4981-97ed-2fc0ac19fae8/df9afa57-897f-48c4-9c09-2cd422aefcb3/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/white-house-harris-asia-trip-amid-afghan-crisis-interests-around-world.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-harris-asia-trip-amid-afghan-crisis-interests-around-world.amp",
+      "publishedDateTime": "2021-08-18T13:40:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-08-19-vivek-ramaswamy-calls-out-kamala-harris-silence-on-afghan-women-shes-totally-lost.md",
       "title": "Vivek Ramaswamy calls out Kamala Harris' silence on Afghan women: 'She's totally lost'",
       "excerpt": "Vivek Ramaswamy, author of Woke, Inc., called out Vice President Kamala Harris for her silence as some Afghan women face civil rights violations at the hands of the Taliban. Ramaswamy called it a ‘wasted opportunity’ for the vice president who could have positioned herself as a leader on women's rights.",
@@ -128,7 +185,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 720,
+      "heat": 740,
       "tags": null,
       "images": [
         {
@@ -1564,63 +1621,6 @@
       ],
       "topics": [
         "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-white-house-goes-into-damage-control-mode-after-reports-of-dysfunction-in-kamala-harris-office.md",
-      "title": "White House goes into damage control mode after reports of dysfunction in Kamala Harris' office",
-      "excerpt": "The White House dove into damage control this week after reports of dysfunction and infighting in Vice President Kamala Harris' office, with the administration trying to stop a drama-filled narrative from taking hold, according to five people who spoke to CNN about the dynamics within Harris' office.\n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0-tFEWrG7mM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0-tFEWrG7mM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210702133753-01-kamala-harris-0623-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/02/politics/kamala-harris-office-dynamics/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/kamala-harris-office-dynamics/index.html",
-      "publishedDateTime": "2021-07-02T12:20:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
         "Kamala Harris"
       ]
     }

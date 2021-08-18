@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/12/politics/joe-biden-donald-trump-b
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/12/politics/joe-biden-donald-trump-barack-obama-afghanistan-infrastructure/index.html"
 type: article
 quality: 185
-heat: 705
+heat: 725
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210311103227-08-blinken-diversity-state-dept-menendez-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden on chaotic Afghanistan withdrawal: 'I don't think it was a failure'"
+    excerpt: "President Joe Biden on Wednesday defiantly defended his administration's execution of the withdrawal of US troops from Afghanistan, saying that he doesn't think the crisis represents a failure and there was no way to better handle the end to the nation's longest war.\n    \n"
+    publishedDateTime: 2021-08-18T21:22:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9HPzv7E2ukU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/18/politics/joe-biden-afghanistan-failure/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/18/politics/joe-biden-afghanistan-failure/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210818163614-01-biden-covid-remarks-0818-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

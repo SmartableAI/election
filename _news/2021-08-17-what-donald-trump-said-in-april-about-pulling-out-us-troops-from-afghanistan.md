@@ -48,9 +48,9 @@ related:
         height: 2362
         isCached: true
   - title: "Joe Biden on Afghanistan: 'I stand squarely behind my decision'"
-    excerpt: "I stand squarely behind my decision' Up Next. Afghans cling to US plane taking off from Kabul. Video, 00:01:10Afghans cling to US plane taking off from Kabul Video, 00:00:32'I can't believe the world abandoned Afghanistan' 'Women won't be silenced by the Taliban' Video,"
+    excerpt: "I stand squarely behind my decision' Up Next. How it happened: The Taliban advance. Video, 00:01:49How it happened: The Taliban advance Images show decline of California's 'life source' Video, 00:02:49Images show decline of California's 'life source' Afghans cling to US plane taking off from Kabul."
     publishedDateTime: 2021-08-16T21:03:00Z
-    webUrl: "https://www.bbc.com/news/av/world-us-canada-58238557"
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-58238557?at_campaign=64&at_custom2=twitter&at_custom4=736F426C-FED2-11EB-BDD5-D9FE4744363C&at_custom1=%5Bpost+type%5D&at_medium=custom7"
     type: article
     provider:
       name: BBC
@@ -61,6 +61,28 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Afghanistan live news: Joe Biden says there was no way to exit without ‘chaos’"
+    excerpt: "Ousted president Ashraf Ghani confirms he is in UAE; UN says it will still support Afghan people; at least one dead after clash over Taliban flag"
+    publishedDateTime: 2021-08-18T20:50:00Z
+    webUrl: "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis?page=with:block-611d76ea8f08a25db9839fe0"
+    ampWebUrl: "https://amp.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 101
+  - title: "Afghanistan live news: Joe Biden says there was no way to exit Afghanistan without ‘chaos’"
+    excerpt: "Ousted president Ashraf Ghani confirms he is in UAE; UN says it will still support Afghan people; at least one dead after clash over Taliban flag"
+    publishedDateTime: 2021-08-18T20:16:00Z
+    webUrl: "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis?page=with:block-611d70618f08e83ac7bdef0a"
+    ampWebUrl: "https://amp.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 95
   - title: "Yes, former President Trump made a deal with the Taliban to pull US troops out of Afghanistan by May 2021"
     excerpt: "Former President Donald Trump made a deal to remove U.S. forces by May 2021, and Biden extended the withdrawal deadline to Sept. 11. 2021"
     publishedDateTime: 2021-08-17T22:32:00Z

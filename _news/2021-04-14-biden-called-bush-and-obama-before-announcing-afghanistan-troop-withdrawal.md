@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-called-bush-obama-afghanistan
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-called-bush-obama-afghanistan-troop-withdrawal.amp"
 type: article
 quality: 173
-heat: 393
+heat: 373
 published: true
 
 provider:
@@ -190,22 +190,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Missing Deadline, Biden Delays Afghan Withdrawal Timeline to September"
-    excerpt: "President Joe Biden will withdraw all U.S. troops from Afghanistan by Sept. 11, the 20th anniversary of the terrorist attacks on"
-    publishedDateTime: 2021-04-16T11:16:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/04/14/missing_deadline_biden_to_delay_afghan_troop_withdrawal_until_september.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/14/missing_deadline_biden_to_delay_afghan_troop_withdrawal_until_september.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/14/missing_deadline_biden_to_delay_afghan_troop_withdrawal_until_september.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/53/539938_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "sJ/hElXc1VtaOKZmHA5OYO46aFKDWx1tcecEd4bGOOIeGxXrSO7Mlhpi/z+PC6owIsU1eyn4E1blY9sGoVNvgz88Xx+lhkRAoGBaMRVEf2G11JexXgozsXlLnYcq+ZShbX+oLwg5h6ZmNEDI94aUjTiJPnOV6d5jwqg+zXz8eG95D5lT6882ZkeJUdC9uIfFgYKni28e6RscmRRulCY8MikeGh4xDsFZq204X8PkvU/SOGPF/W3kk5sGOByDQqhon07tr8DIb2bNCLl1OM7T1medhQKPNbdGddoB3IMLNetqfPGDXSj8gNlPxQEBDj7bXf6ZWFafkBJDAHjRc18zchzJgZxFLErnK8A/gtLIXPE=;1i/HHcBiQJV6FMggWgsa9Q=="
