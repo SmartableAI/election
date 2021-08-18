@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden to give TV interview to defend Afghanistan stance – live"
-excerpt: "President to speak to ABC’s George Stephanopoulos on Wednesday after n"
-publishedDateTime: 2021-08-17T13:14:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news?page=with:block-611bc3268f08729d9f06b41a"
-webUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news?page=with:block-611bc3268f08729d9f06b41a"
+excerpt: "President to speak to ABC’s George Stephanopoulos after n"
+publishedDateTime: 2021-08-17T12:39:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news?page=with:block-611bb9208f089f8318278c67"
+webUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news?page=with:block-611bb9208f089f8318278c67"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
 type: article
@@ -882,6 +882,6 @@ related:
       domain: usnews.com
     quality: 33
 
-secured: "nK44yjVlXMvmAVkd5KUHWDtDIFOpLsK9/8xi/ysM0NvsO7mK2AMkirpmi51eVn09RcQ5r1RwtfjtC+S2byxub3lY5PSXjp/Xj1sftooIeGNWGToJC5Fo0bjTVP4boKE/vMB1DagQVZxw9T9p4V2BJ//SBKBSnAtQyEsa0K74Pp1+/jFGaj+YGNeH9b1ZCuFG8KNyFjcroSALA9+WaBG531NNQpQQggwonh03IZ2X78E3kzbEhsynUqFYVZLrj6xwYbntNp5fOVs4PVFW1H7sFhN8PnnP8nP5WmurJezUwGuZuOllPYWHzSdmlCbw0K3iHLqFb5xJ/zlZd9WXFy1rQVXuBReOAm6iJQjpOEr96ww=;Tq8+YkVqrMS+5KezBW6E/A=="
+secured: "ePr2P4+/6iRP1aszpMEeD7pyOlFJXybJ68lzACTZeUI3i4FyGDzM+2KrReOmmqY4YfR9TzTqDiV5cPGggnXyLtAiS4El1+3S5/0biGUvGUjnNBvXOwW5jVXDUG7k+Qw27iwpqx9R+QfRCReUUuR4fuR4q3Nb5k1ulzglHLJumrS8diLgK3+YVkrEEdP6YpVrRKgElEhIUqB9LCvaccb5Rmxl8Hp21kLloLvIGu9lN2u//hkJlF046PGhh8dpKZ/l7YgrZ+yv1gOB4B6nqpeWMZCeeH1iIVWdRne++bmf2yATZyH+rHAmX1+lEgIBZz4nwmzEjuGlI8jIXWXfvtDbyZ331Qk/MS3qUWNcbHgfWFo=;w+SgLUu8z0CS5U57+sQbig=="
 ---
 

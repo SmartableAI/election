@@ -3,18 +3,18 @@ category: news
 title: "What President Joe Biden said in his address on Afghanistan"
 excerpt: "As criticism of the president mounted, Biden addressed the country as the Taliban took control of Afghanistan and chaos overtook the Kabul airport."
 publishedDateTime: 2021-08-16T23:06:00Z
-originalUrl: "https://www.indystar.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
-webUrl: "https://www.indystar.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
-ampWebUrl: "https://amp.indystar.com/amp/8157340002"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/8157340002"
+originalUrl: "https://www.statesman.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
+webUrl: "https://www.statesman.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
+ampWebUrl: "https://amp.statesman.com/amp/8157340002"
+cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8157340002"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: Austin American-Statesman
+  domain: statesman.com
 
 topics:
   - Election
@@ -582,6 +582,20 @@ related:
         width: 1109
         height: 577
         isCached: true
+  - title: "President Joe Biden Arrives at Fort McNair in DC"
+    excerpt: "President Joe Biden arrives at Fort McNair in Washington, DC from Camp David on Monday, August 16, 2021. President Biden is expected to make remarks on the situation in Afghanistan later this afternoon."
+    publishedDateTime: 2021-08-16T17:47:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/efbfdcaedaf2160ee05ec88b5aefb886/President-Joe-Biden-Arrives-at-Fort-McNair-in-DC/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/efbfdcaedaf2160ee05ec88b5aefb886/BIDEN-AFGHANISTAN.jpg"
+        width: 650
+        height: 975
+        isCached: true
   - title: "President Biden Tells U.S. Olympic Squad It 'Restored The Soul Of America'"
     excerpt: "The president praised Team USA athletes for their \"moral courage\" during a Zoom call on Saturday, with special shoutouts to gymnast Simone Biles and swimmer Katie Ledecky."
     publishedDateTime: 2021-08-08T23:39:00Z
@@ -604,15 +618,6 @@ related:
     provider:
       name: C-SPAN
       domain: c-span.org
-    quality: 35
-  - title: "President Joe Biden Arrives at Fort McNair in DC"
-    excerpt: "President Joe Biden arrives at Fort McNair in Washington, DC from Camp David on Monday, August 16, 2021. President Biden is expected to make remarks on the situation in Afghanistan later this afternoon."
-    publishedDateTime: 2021-08-16T17:47:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/345466ca02bc57917abd3e926cddebfe/President-Joe-Biden-Arrives-at-Fort-McNair-in-DC/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
     quality: 35
   - title: "Condo owners at Trump Tower in White Plains vote to dump ex-president's brand"
     excerpt: "Trump Tower at City Place in White Plains opened in 2005, but owners voted to banish the former president's name."
@@ -647,6 +652,6 @@ related:
       domain: cincinnati.com
     quality: 13
 
-secured: "E5kdSnQc8iEsczkYXCKRUon/HJhpDmhLPmlFv3SA+pHp35S+NWUs63bmca3YHa+0TtPu01zWc+VxVaETM9Wyw2Y+zGCIY4igwB7a38TeLpTyOa6oGHr9tchBSALbhs3HF9SEBLWGd0FHyxsA4U4M0egO9tLIcyX28qFNcnnqwtVhqp+AtDL8Z2+eW/NSww0UoQEIlxGZ7II2mcJhdQ2Q9gj9KQQUX0x8in8G+MwL6MfqL74NPZC7vWV5EkxeUeRXPJ/ctz4DAV1Z747I6v9RorAm9NmNuIUSUdkd2PGPbuNfcK6fGdPJYlgRm1o9qEbKLUrQvIvb3A3TxUHVSZtEYUnC+kceow9mXbIZJs7VrUo=;6+23R4clvzQno/TzHYUBcA=="
+secured: "AdBtq7CSysJxkfysxuAb3Tm3nNzwoVTyQIyIhEZLI9Zc+CUehGaD9jR/zoQ00EL8Yq74eKlmPA9YwsPBLC4mDlngJFtMJmYa3QTmkmpAR285K2AydJrlHMPhqwueJl4YZF4RVPd8cl4nDywDExk27lZu2H+qYcnvTNJ9/1jYyzh1mSaWXLd9WUEhWPDvQv/IEYPzTH8igM5I3U9kL4U5VBBt5xcSOctxMK3KO0bm+KvRVRgq5z7Em8A3ZD+GQwariGf16cLeZW0f6Lc1jwpJSqOixHNFRI4pBptRsFCjCYYC6hFb/6GMcP5vl4ZBZaNERRpw+eOmCZjUR82mje2WhyKejKb2p2sNjCFqfhMIy1Y=;tfsALv4GGO0lVbNR/7mQQA=="
 ---
 

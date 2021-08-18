@@ -3,10 +3,10 @@ category: news
 title: "President Joe Biden Arrives at Fort McNair in DC"
 excerpt: "President Joe Biden arrives at Fort McNair in Washington, DC from Camp David on Monday, August 16, 2021. President Biden is expected to make remarks on the situation in Afghanistan later this afternoon."
 publishedDateTime: 2021-08-16T17:47:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/345466ca02bc57917abd3e926cddebfe/President-Joe-Biden-Arrives-at-Fort-McNair-in-DC/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/345466ca02bc57917abd3e926cddebfe/President-Joe-Biden-Arrives-at-Fort-McNair-in-DC/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/efbfdcaedaf2160ee05ec88b5aefb886/President-Joe-Biden-Arrives-at-Fort-McNair-in-DC/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/efbfdcaedaf2160ee05ec88b5aefb886/President-Joe-Biden-Arrives-at-Fort-McNair-in-DC/"
 type: article
-quality: 35
+quality: 55
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://cdnph.upi.com/pv/upi/efbfdcaedaf2160ee05ec88b5aefb886/BIDEN-AFGHANISTAN.jpg"
+    width: 650
+    height: 975
+    isCached: true
 
 related:
   - title: "Trump 'Reinstatement Day' Latest Failure in Predictions He'll Resume Presidency, Oust Biden"
@@ -306,13 +312,13 @@ related:
   - title: "What President Joe Biden said in his address on Afghanistan"
     excerpt: "As criticism of the president mounted, Biden addressed the country as the Taliban took control of Afghanistan and chaos overtook the Kabul airport."
     publishedDateTime: 2021-08-16T23:06:00Z
-    webUrl: "https://www.indystar.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
-    ampWebUrl: "https://amp.indystar.com/amp/8157340002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/8157340002"
+    webUrl: "https://www.statesman.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
+    ampWebUrl: "https://amp.statesman.com/amp/8157340002"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8157340002"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
+      name: Austin American-Statesman
+      domain: statesman.com
     quality: 75
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/08/16/USAT/d4d75f62-840d-41fd-beeb-ff0dd19fe7ce-AP_Biden_US_Afghanistan.jpg?auto=webp&crop=4783,2691,x0,y159&format=pjpg&width=1200"
@@ -646,6 +652,6 @@ related:
       domain: cincinnati.com
     quality: 13
 
-secured: "2NUjOR5KyuEbjMvUL5p50d4Hp8Zkq7WPnKzmdDPN15SYvXEJsXf80Xqsdq/Jb3A8UbbF6I+cuV8xp1tAH8MaILdml3mKjRpjC328hgJn6bRJWbUggVdSAaUA8BMnimYDL0AXKxLsEd99xnDOp8/vUT3YRT4FyKLvsh5uTSBZ7kme8pHEV7s/4YCJjXofVEyMT1wVfVMWC/kkWSAuK7RrrNOXG6z2ERwOVlGTp536IXk74/Q+qFAZAmX3T1JFZ1eQb8+z2HbK4pvNy2yw05OltCy1zC5BpMPZj18/IedRRwZC191ZE62K6dycmmuKCKp8h5oMOX/xr2CkdZZ6BomoMaAOsFb8Z9PNI9Xo/qKBKYxosh7hWo6QvmMulsfgMLYPD1vXY4IfqDTtZJAdQ/rchqAMJO/MMxlhBP8D4ZY2mQjOcChi/63ToPj0u2KdLr6iM1KmX52mjfOq2R6tsARcRUHJpXVEcYcCq/+1TB6UHpx+SsUjE4vsT2Ua0b55UyQDC+UFzJe9YybAVuo+zqYkIw==;pBI6TqI/6LQRyD08MvN3TA=="
+secured: "tvmE27M05Gp/5vu0PjdYjIvaWXec3X2Mp8saSDFFnlfbHpJBgjCkf3WP3lCLDcVM6P8XOl5wdMXeJTtapp7u2e8wl9ERpkm0tDKpIxgG/znhAIuDxQf33+YBSIW8sJsa2q2SsUB3l446hLq6DmfQXyCCxD2l6CSoHh7zdHZnFYuuuI9S8ElqyJNeAy0sba7N7CwAqfh9/G8hNRyQgWuNND9USIHZ1mbCRjacsOI48PtY3sMYUFEluPdLR0zaDWnl8glElGU1v4tWDcFpTEvNIeMKkMEFZQHhWFHL3v1/JGfeZ/2011xdhqN5BFz8ZHMWsn6dZ3qCZ2GbVJAt/Jqa4FXakxVzAPqfQfltrnURS0k=;sQT5najSobxVXJAYAzBINw=="
 ---
 
