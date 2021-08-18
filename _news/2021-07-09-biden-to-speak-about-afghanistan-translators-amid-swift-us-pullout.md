@@ -175,6 +175,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "UK politicians decry Joe Biden’s defence of Afghanistan pullout"
+    excerpt: "Senior Tory and Labour MPs united in their criticism of US president’s approach to Afghan crisis"
+    publishedDateTime: 2021-08-17T11:49:00Z
+    webUrl: "https://www.theguardian.com/politics/2021/aug/17/uk-politicians-decry-joe-bidens-defence-of-afghanistan-pullout"
+    ampWebUrl: "https://amp.theguardian.com/politics/2021/aug/17/uk-politicians-decry-joe-bidens-defence-of-afghanistan-pullout"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/2021/aug/17/uk-politicians-decry-joe-bidens-defence-of-afghanistan-pullout"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/e7e2cd26ce1d0b673ad6b4ad6bf9a6d96d2817a2/0_104_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0d5f05a85674002c394a4e8a4c5a8e75"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden to withdraw U.S. troops from Afghanistan by Sept. 11, officials say"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden has decided to withdraw the remaining U.S. troops from Afghanistan by Sept. 11, 2021, 20 years to the day after al Qaeda’s attacks triggered America’s longest war, U.S. officials said on Tuesday. U.S ..."
     publishedDateTime: 2021-04-13T15:55:00Z

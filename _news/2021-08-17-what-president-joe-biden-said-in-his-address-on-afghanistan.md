@@ -3,18 +3,18 @@ category: news
 title: "What President Joe Biden said in his address on Afghanistan"
 excerpt: "As criticism of the president mounted, Biden addressed the country as the Taliban took control of Afghanistan and chaos overtook the Kabul airport."
 publishedDateTime: 2021-08-16T23:06:00Z
-originalUrl: "https://www.desmoinesregister.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
-webUrl: "https://www.desmoinesregister.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
-ampWebUrl: "https://amp.desmoinesregister.com/amp/8157340002"
-cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/8157340002"
+originalUrl: "https://www.statesman.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
+webUrl: "https://www.statesman.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
+ampWebUrl: "https://amp.statesman.com/amp/8157340002"
+cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8157340002"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Des Moines Register
-  domain: desmoinesregister.com
+  name: Austin American-Statesman
+  domain: statesman.com
 
 topics:
   - Election
@@ -571,16 +571,16 @@ related:
   - title: "President Joe Biden Arrives at Fort McNair in DC"
     excerpt: "President Joe Biden arrives at Fort McNair in Washington, DC from Camp David on Monday, August 16, 2021. President Biden is expected to make remarks on the situation in Afghanistan later this afternoon."
     publishedDateTime: 2021-08-16T17:47:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/09c2052fb62aecdd8f1bb3b42640ae29/President-Joe-Biden-Arrives-at-Fort-McNair-in-DC/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/efbfdcaedaf2160ee05ec88b5aefb886/President-Joe-Biden-Arrives-at-Fort-McNair-in-DC/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/09c2052fb62aecdd8f1bb3b42640ae29/BIDEN-AFGHANISTAN.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/efbfdcaedaf2160ee05ec88b5aefb886/BIDEN-AFGHANISTAN.jpg"
         width: 650
-        height: 433
+        height: 975
         isCached: true
   - title: "President Biden Tells U.S. Olympic Squad It 'Restored The Soul Of America'"
     excerpt: "The president praised Team USA athletes for their \"moral courage\" during a Zoom call on Saturday, with special shoutouts to gymnast Simone Biles and swimmer Katie Ledecky."
@@ -638,6 +638,6 @@ related:
       domain: cincinnati.com
     quality: 13
 
-secured: "jIolcHuyzkaqsMsKwpRVkJo0DBbY3zXUDgVY4ItFueY0fjDG9V8oz+R8TjXMePhTEtOEDMiq2L4im8rpnZgkfAYqaXpSyJ4n2R6Ni+1W/ZlSj+/gKqWaPdENf89x2B7pX2Fz1MM7z5GCC8zEU7aKhwQp/DSVkLY6QbAy89s9tFrqXuNyZzA/ijnPJWhwlY3F/AivQbc8bKikA7Ax1N5T4fznQmq1Q+pFlEq6Djtb9zxFHk3jE+pb90wvMeKbFyzLJu7oXHMJM71ZSrLOZRzTFear6OBwwtTlsTHS7nnRrZLC5Tb16TDrkrVDtAJTC46uZLTKzAqXtDjkFNCO/fRcxmU8d3TwiXXUUS5ldoETzL4=;mGA5Y6atiBSTfX5nXWMTUA=="
+secured: "02qUF+MVUPZqIPk7hF82i0lN8a1aOEuXS1/aSJ8ANJ4yYy43extMQn2MyRnWaIiNjPODZ0KKBleqsrOzw5o3mhnjbeg415CNQ9MNM/L/74Yz2OzDyd2Hl1LjNYpaOknuZ2KH7vdX8RWwVCkc/bdEh8D7nSIRPj4u90a3zna/WG84mux0RgxjFKkXxIeopkG/uK9Eafe8rzf1zOqeJMi2u/JvnE4963ykzl/yO21bfo82QIqwNbjUN/3dzUielwYBmXnUAJ9SXRanuxc3piSOx6///wb7/IUgGy7KsCChDrwxsrdoTwT1+hmrawxyG6rBd2iMJLUWHv9ziymEYG+U31iWNvN5Z4p/D+0bDKws7Uk=;FySYcCpaMC5oWMNSK57MRA=="
 ---
 

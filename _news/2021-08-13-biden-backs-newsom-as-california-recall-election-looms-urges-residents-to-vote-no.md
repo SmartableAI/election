@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-backs-newsom-california-recal
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backs-newsom-california-recall-election.amp"
 type: article
 quality: 183
-heat: 263
+heat: 283
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c505be5b-7fe5-4a10-b256-fbc6b1e6a2f1/272c5604-5105-47e9-88ac-0be2cd6b1b4d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden cuts vacation short, returns to the White House"
+    excerpt: "President Joe Biden returned to the White House from Camp David Tuesday night a day before originally scheduled as he faces vocal criticism from both sides of the aisle over the chaos unfolding during the American withdrawal from Afghanistan."
+    publishedDateTime: 2021-08-18T01:20:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b_HeVFdu1po/biden-cuts-vacation-short-returns-to-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cuts-vacation-short-returns-to-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cuts-vacation-short-returns-to-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3bfe5ca9-a8eb-47fb-9e82-d015447f2748/36ba7bed-9c3a-4a1b-b8c1-33cd39b207d6/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

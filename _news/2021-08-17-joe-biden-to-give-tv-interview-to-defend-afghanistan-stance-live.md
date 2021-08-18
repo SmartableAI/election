@@ -175,6 +175,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "UK politicians decry Joe Biden’s defence of Afghanistan pullout"
+    excerpt: "Senior Tory and Labour MPs united in their criticism of US president’s approach to Afghan crisis"
+    publishedDateTime: 2021-08-17T11:49:00Z
+    webUrl: "https://www.theguardian.com/politics/2021/aug/17/uk-politicians-decry-joe-bidens-defence-of-afghanistan-pullout"
+    ampWebUrl: "https://amp.theguardian.com/politics/2021/aug/17/uk-politicians-decry-joe-bidens-defence-of-afghanistan-pullout"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/2021/aug/17/uk-politicians-decry-joe-bidens-defence-of-afghanistan-pullout"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/e7e2cd26ce1d0b673ad6b4ad6bf9a6d96d2817a2/0_104_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0d5f05a85674002c394a4e8a4c5a8e75"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden to withdraw U.S. troops from Afghanistan by Sept. 11, officials say"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden has decided to withdraw the remaining U.S. troops from Afghanistan by Sept. 11, 2021, 20 years to the day after al Qaeda’s attacks triggered America’s longest war, U.S. officials said on Tuesday. U.S ..."
     publishedDateTime: 2021-04-13T15:55:00Z
@@ -866,6 +882,6 @@ related:
       domain: usnews.com
     quality: 33
 
-secured: "hS7hGNRqUhZGeAJlJas9YepDmGE/IPXMPIl2xLYMWI6VZA2dzTC5oM1sO0FrXUPFyklcXbq0ZOxh3P5FtaHw+EAKQ5a/DKzCPNOSbzRhODkXvttZKCNsIRjK6sEP4bF974w0Z6rfNetQRnlPz++TBUX3nYZBG3wtUsGczDJXP3nGTNglFxWIO8L+MFf7JQz4V5FQWtAhsVpcaiKU4xnuuzxw/OuzuYWPHn4VxePp2jgO9wq5av8G0uIpYZWFOXwB+vwHNa+DfcMXfD/CK+YPmvGOGJmv/l3JGZH/PPNmaiQCI4DEWf1l/gWFxRw2/hPkRzn4HAYem1WgbkS+cLaEkzHiUXT83pWJXrLVyNkgDQM=;GX5WZXUUzvnuHKLU77RHnQ=="
+secured: "w+TZj5b81d49HX/v9u5+BoBRgf6i0XmYtpz9G1hjqoJry54GKDyZZ73abgMJ7FUGuR/39Ova0HpGiaYKz6at/X8hlepp2oeSeDBTb1b9/HZ9bZVVjTXe745EOE+5HC5iJ4+bduVCtkknE0iRcrW3+aNPUz1FmyBDXa1OGoLcR05rfi5XKPeAUVjvz8N4bu5FhE0oyHrgThWrAmSpqMCNbmykf8vwBVslu1gcsCEDL/qh31WSkEVzb8HWBxWRwbQQi9PR42LLMxrkVsTNwnJjw2VH60+zRWLPFp75rgge20Co1RjQVGu1bRHCrBBTq1p157+tdlkAYSBD1DtlBqx8zUqbUCG5drXkGsr659mVcht89/JjUtFEtkc0yv7gI1PbQ20Oy+8yd1EAJl88wy06XMfDLk+mCarr+HSBPhFFhO9mCz1wzo6I8nLvpwRVLLTDLHUmrCNO08w2y3jus7qi3Uy92CeZMAjRX52PKTPaeQK0z8TxZezDsJKBUDY5R1QpkP266vkqE28r6/OZ9vdLEw==;sG/QUM7i4BxGnpF5+F2UAg=="
 ---
 
