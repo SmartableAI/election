@@ -586,20 +586,6 @@ related:
         width: 1109
         height: 577
         isCached: true
-  - title: "President Joe Biden Arrives at Fort McNair in DC"
-    excerpt: "President Joe Biden arrives at Fort McNair in Washington, DC from Camp David on Monday, August 16, 2021. President Biden is expected to make remarks on the situation in Afghanistan later this afternoon."
-    publishedDateTime: 2021-08-16T17:47:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/49daad176c1bf4ea14bea392f119e160/President-Joe-Biden-Arrives-at-Fort-McNair-in-DC/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/49daad176c1bf4ea14bea392f119e160/BIDEN-AFGHANISTAN.jpg"
-        width: 650
-        height: 974
-        isCached: true
   - title: "President Biden Tells U.S. Olympic Squad It 'Restored The Soul Of America'"
     excerpt: "The president praised Team USA athletes for their \"moral courage\" during a Zoom call on Saturday, with special shoutouts to gymnast Simone Biles and swimmer Katie Ledecky."
     publishedDateTime: 2021-08-08T23:39:00Z
@@ -622,6 +608,15 @@ related:
     provider:
       name: C-SPAN
       domain: c-span.org
+    quality: 35
+  - title: "President Joe Biden Arrives at Fort McNair in DC"
+    excerpt: "President Joe Biden arrives at Fort McNair in Washington, DC from Camp David on Monday, August 16, 2021. President Biden is expected to make remarks on the situation in Afghanistan later this afternoon."
+    publishedDateTime: 2021-08-16T17:47:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/345466ca02bc57917abd3e926cddebfe/President-Joe-Biden-Arrives-at-Fort-McNair-in-DC/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
     quality: 35
   - title: "Condo owners at Trump Tower in White Plains vote to dump ex-president's brand"
     excerpt: "Trump Tower at City Place in White Plains opened in 2005, but owners voted to banish the former president's name."

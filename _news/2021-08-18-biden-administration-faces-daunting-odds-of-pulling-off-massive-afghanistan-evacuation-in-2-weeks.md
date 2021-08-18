@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Inside Biden's defiant Afghanistan response"
-excerpt: "By the time images of desperate Afghans clinging to American warplanes began emerging from Kabul on Monday morning, President Joe Biden had conceded to aides he had little choice but to interrupt his stay at Camp David to return to the White House.\n    \n"
-publishedDateTime: 2021-08-17T00:42:32Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Uj6tzd6qzXE/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Uj6tzd6qzXE/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/08/16/politics/white-house-afghanistan-biden-crises/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/16/politics/white-house-afghanistan-biden-crises/index.html"
+title: "Biden administration faces daunting odds of pulling off massive Afghanistan evacuation in 2 weeks"
+excerpt: "The Biden administration is still struggling to answer basic questions about whether it can successfully evacuate tens of thousands of Americans and vulnerable Afghans in a race against a ticking clock ahead of the US military's August 31 Afghanistan withdrawal date.\n    \n"
+publishedDateTime: 2021-08-18T11:01:38Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PYCL5DayScs/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PYCL5DayScs/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/08/18/politics/biden-afghanistan-evacuation-daunting-odds/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/18/politics/biden-afghanistan-evacuation-daunting-odds/index.html"
 type: article
-quality: 175
+quality: 162
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210816162517-03-biden-afghanistan-remarks-0816-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210817084902-32-taliban-afghanistan-unf-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -140,6 +140,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210816160754-02-biden-afghanistan-remarks-0816-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Inside Biden's defiant Afghanistan response"
+    excerpt: "By the time images of desperate Afghans clinging to American warplanes began emerging from Kabul on Monday morning, President Joe Biden had conceded to aides he had little choice but to interrupt his stay at Camp David to return to the White House.\n    \n"
+    publishedDateTime: 2021-08-17T00:42:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Uj6tzd6qzXE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/16/politics/white-house-afghanistan-biden-crises/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/16/politics/white-house-afghanistan-biden-crises/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210816162517-03-biden-afghanistan-remarks-0816-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -268,22 +284,6 @@ related:
     quality: 162
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210812072501-us-military-afghanistan-biden-0502-file-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden administration faces daunting odds of pulling off massive Afghanistan evacuation in 2 weeks"
-    excerpt: "The Biden administration is still struggling to answer basic questions about whether it can successfully evacuate tens of thousands of Americans and vulnerable Afghans in a race against a ticking clock ahead of the US military's August 31 Afghanistan withdrawal date.\n    \n"
-    publishedDateTime: 2021-08-18T11:01:38Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PYCL5DayScs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/18/politics/biden-afghanistan-evacuation-daunting-odds/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/18/politics/biden-afghanistan-evacuation-daunting-odds/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210817084902-32-taliban-afghanistan-unf-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -430,6 +430,6 @@ related:
         height: 629
         isCached: true
 
-secured: "5ZVHYOqQ/hA4y0cIRlxYFeYeCzk6BIb23xSSEpVUSHmJSJpgRsFORpJvPoL/069Adl3/a8v662dqT7eY8Lk0nygJbc8QHFYjJRNWmIWxMxT0i25NBv8mYhUXc/YokmBgXZAj760nioUQXDChkATLv/xObdivbqg6+nZqeAjug+y9WeCcQhwZv9QzcYTc5cBP6ZPgHpR8FDMhugSHjvy5x5YibbW/q+rRXsHL8h+TVsnIpAiFoBZhyutGLu2HVk+ngGM6iWVIH2NEmLpajKVWwylAfGpQcddJIxK1SSyHAKFhgdSYA+I/XRY9BO97MkQw27PMRnwcAFtIBjunWj2DbA15jEsLZKckAxqAtIq6O+Q=;jFpr8MsiKsAKkPwdDCZ0jQ=="
+secured: "ZemNVqwbR5s3Jej8fIXT4dp77In0IBMm377w7R+ef+9quVfqcSTHOZ9fY+lwUHkp3MMvzXZshvCrN/kRjhuQfYQrYA9MAfF5YzdaHxViNYM9xzjQFAwSNJRcKgU8OlLmJwD1bhWK9p2rLFVxSTns6HaA+G9VzcfWBTFt72Cn7tpjK0ULKOfq7UFIs5dhYqzmbqfHN9kZjbwP8t48pM/LFzSTGd+bAQZgcqGFnCJjg/WsYNX8H7O/kFXG8NMlhbVdaGy11ruqKj69yDmPK8bR05YADjb5BfINMbShed/GIt6EqzXY4bYi+1rOlDACufX5jAuvioQcMBr2b1mTna6vP0e0HqN2Agm+9dVW3hzwZ24=;EQU9tqa2xMOcejNEz8zYjA=="
 ---
 

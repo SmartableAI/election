@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden on Afghanistan: 'I stand squarely behind my decision'"
-excerpt: "I stand squarely behind my decision' Up Next. Afghans cling to US plane taking off from Kabul. Video, 00:01:10Afghans cling to US plane taking off from Kabul Video, 00:00:32'I can't believe the world abandoned Afghanistan' 'Women won't be silenced by the Taliban' Video,"
+excerpt: "I stand squarely behind my decision' Up Next. How it happened: The Taliban advance. Video, 00:01:49How it happened: The Taliban advance Images show decline of California's 'life source' Video, 00:02:49Images show decline of California's 'life source' Afghans cling to US plane taking off from Kabul."
 publishedDateTime: 2021-08-16T21:03:00Z
-originalUrl: "https://www.bbc.com/news/av/world-us-canada-58238557"
-webUrl: "https://www.bbc.com/news/av/world-us-canada-58238557"
+originalUrl: "https://www.bbc.com/news/av/world-us-canada-58238557?at_campaign=64&at_custom2=twitter&at_custom4=736F426C-FED2-11EB-BDD5-D9FE4744363C&at_custom1=%5Bpost+type%5D&at_medium=custom7"
+webUrl: "https://www.bbc.com/news/av/world-us-canada-58238557?at_campaign=64&at_custom2=twitter&at_custom4=736F426C-FED2-11EB-BDD5-D9FE4744363C&at_custom1=%5Bpost+type%5D&at_medium=custom7"
 type: article
 quality: 105
 heat: -1
@@ -90,6 +90,6 @@ related:
         height: 1920
         isCached: true
 
-secured: "7jmB9cX9lcTSkI5b+wNQbLyw/A0nd6ASkG+ECsjz1plWX8F7y6xfj4eP7N61v3SKYy70K6hAkSEhHnhJndgJV94GZFz+8SlwrKNdtzI7le+Qlqx5cncXVp2DEquMCtRQ6OQJXQ4YIASu4k3sePOiV8oAAnb0UUngXVD0RCuqXT7FKGnhvoYmd55MPwW+QttAsERj/rzfdwZ5ze4a9jxOwcKRx0AsCvlZx/BwrVfw+HPisF4LQLWnGC8I1c+DOVcHI0gMS3Q9uYDY2Mo9E3GU2E/pz1/aKZ9Zal2AeRsEMC/1DZzMD7tyAfkjdnNC4UcFx3bcB8KfE6enDfjX9loarTIhHlezhTyPxQxOl+fpj2c=;Ag1wM0z5dGg9+I2Ra7GmnQ=="
+secured: "o30jz9deA0A7owd8rkGiNSvLAED6JuTJmQ+Sy2YJS+xME35tryrMGOd55sEbyJs9EJU7D3HF4IkCCvCb+N0sfF9BIYumQB9d4/jVfCWsJtuiULZy4MxNUyOS7mSfg6n52lNzhToyA68pEX60UMm9vCBWrpVtBRYMwsS7N2kM+istienIpoXfaNJO6l1ufN07f9aKpLGjITEBfZl/nQvXYOcRvnAe4ikugJcwdl2LYkFqmPgL6knK6q9c9gjDkFhk78wRUIxYQQR62FkpHjOIzU3gR5Cs1bq20DjKBj8WQYFC6jakGftsTkcD39g4xKCz/K0gH6v7YlkLUkfwQF5Ue56sChtRLeIDekvkfH9IUSM=;E7CW9mTd1lbouTSh9nVUAQ=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden to give TV interview to defend Afghanistan stance – live"
-excerpt: "President to speak to ABC’s George Stephanopoulos after n"
-publishedDateTime: 2021-08-17T12:39:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news?page=with:block-611bb53f8f08cf238eadd16b"
-webUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news?page=with:block-611bb53f8f08cf238eadd16b"
+excerpt: "President to speak to ABC’s George Stephanopoulos on Wednesday after n"
+publishedDateTime: 2021-08-17T13:14:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news?page=with:block-611bc3268f08729d9f06b41a"
+webUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news?page=with:block-611bc3268f08729d9f06b41a"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
 type: article
@@ -882,6 +882,6 @@ related:
       domain: usnews.com
     quality: 33
 
-secured: "w+TZj5b81d49HX/v9u5+BoBRgf6i0XmYtpz9G1hjqoJry54GKDyZZ73abgMJ7FUGuR/39Ova0HpGiaYKz6at/X8hlepp2oeSeDBTb1b9/HZ9bZVVjTXe745EOE+5HC5iJ4+bduVCtkknE0iRcrW3+aNPUz1FmyBDXa1OGoLcR05rfi5XKPeAUVjvz8N4bu5FhE0oyHrgThWrAmSpqMCNbmykf8vwBVslu1gcsCEDL/qh31WSkEVzb8HWBxWRwbQQi9PR42LLMxrkVsTNwnJjw2VH60+zRWLPFp75rgge20Co1RjQVGu1bRHCrBBTq1p157+tdlkAYSBD1DtlBqx8zUqbUCG5drXkGsr659mVcht89/JjUtFEtkc0yv7gI1PbQ20Oy+8yd1EAJl88wy06XMfDLk+mCarr+HSBPhFFhO9mCz1wzo6I8nLvpwRVLLTDLHUmrCNO08w2y3jus7qi3Uy92CeZMAjRX52PKTPaeQK0z8TxZezDsJKBUDY5R1QpkP266vkqE28r6/OZ9vdLEw==;sG/QUM7i4BxGnpF5+F2UAg=="
+secured: "nK44yjVlXMvmAVkd5KUHWDtDIFOpLsK9/8xi/ysM0NvsO7mK2AMkirpmi51eVn09RcQ5r1RwtfjtC+S2byxub3lY5PSXjp/Xj1sftooIeGNWGToJC5Fo0bjTVP4boKE/vMB1DagQVZxw9T9p4V2BJ//SBKBSnAtQyEsa0K74Pp1+/jFGaj+YGNeH9b1ZCuFG8KNyFjcroSALA9+WaBG531NNQpQQggwonh03IZ2X78E3kzbEhsynUqFYVZLrj6xwYbntNp5fOVs4PVFW1H7sFhN8PnnP8nP5WmurJezUwGuZuOllPYWHzSdmlCbw0K3iHLqFb5xJ/zlZd9WXFy1rQVXuBReOAm6iJQjpOEr96ww=;Tq8+YkVqrMS+5KezBW6E/A=="
 ---
 

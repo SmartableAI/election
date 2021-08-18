@@ -3,10 +3,10 @@ category: news
 title: "President Joe Biden Arrives at Fort McNair in DC"
 excerpt: "President Joe Biden arrives at Fort McNair in Washington, DC from Camp David on Monday, August 16, 2021. President Biden is expected to make remarks on the situation in Afghanistan later this afternoon."
 publishedDateTime: 2021-08-16T17:47:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/49daad176c1bf4ea14bea392f119e160/President-Joe-Biden-Arrives-at-Fort-McNair-in-DC/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/49daad176c1bf4ea14bea392f119e160/President-Joe-Biden-Arrives-at-Fort-McNair-in-DC/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/345466ca02bc57917abd3e926cddebfe/President-Joe-Biden-Arrives-at-Fort-McNair-in-DC/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/345466ca02bc57917abd3e926cddebfe/President-Joe-Biden-Arrives-at-Fort-McNair-in-DC/"
 type: article
-quality: 55
+quality: 35
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://cdnph.upi.com/pv/upi/49daad176c1bf4ea14bea392f119e160/BIDEN-AFGHANISTAN.jpg"
-    width: 650
-    height: 974
-    isCached: true
 
 related:
   - title: "Trump 'Reinstatement Day' Latest Failure in Predictions He'll Resume Presidency, Oust Biden"
@@ -652,6 +646,6 @@ related:
       domain: cincinnati.com
     quality: 13
 
-secured: "2Zn9Nlu8EYF5HpKuVas5NHWpkKGZbbUl7gjGSSpKnHCaBQHL50jeSVO7qQLb2+tJDjNi/Mk/hEsxFh5PznE/dj/8P8C+OumIXgiYg/4ACxbTVhkXcVN3v4azK+XfLJ1Hq8Icy2ObgPS+c8JvbcW1RXE21sdoHcsgH0W37MwfSskcHGq1kYhFLCjDQr3aVJZKLOKg+5E38nJJTkyo9JODa9hqLZ1VVbW0gPOMBtjyDIWoDXhnIVyVqzNPHTOn93ISsD0+zh/koKPP7XweiSWAeBRs0F9t/wvFuDfNRzlz0BoDr7rlFALh4z4fsnprogUTvXojfERgTdUzdwG96OJhiOO4hCQGHHeSc7yrgaXHGm4=;WTOu9I2e/py5aOVYSOeCkg=="
+secured: "2NUjOR5KyuEbjMvUL5p50d4Hp8Zkq7WPnKzmdDPN15SYvXEJsXf80Xqsdq/Jb3A8UbbF6I+cuV8xp1tAH8MaILdml3mKjRpjC328hgJn6bRJWbUggVdSAaUA8BMnimYDL0AXKxLsEd99xnDOp8/vUT3YRT4FyKLvsh5uTSBZ7kme8pHEV7s/4YCJjXofVEyMT1wVfVMWC/kkWSAuK7RrrNOXG6z2ERwOVlGTp536IXk74/Q+qFAZAmX3T1JFZ1eQb8+z2HbK4pvNy2yw05OltCy1zC5BpMPZj18/IedRRwZC191ZE62K6dycmmuKCKp8h5oMOX/xr2CkdZZ6BomoMaAOsFb8Z9PNI9Xo/qKBKYxosh7hWo6QvmMulsfgMLYPD1vXY4IfqDTtZJAdQ/rchqAMJO/MMxlhBP8D4ZY2mQjOcChi/63ToPj0u2KdLr6iM1KmX52mjfOq2R6tsARcRUHJpXVEcYcCq/+1TB6UHpx+SsUjE4vsT2Ua0b55UyQDC+UFzJe9YybAVuo+zqYkIw==;pBI6TqI/6LQRyD08MvN3TA=="
 ---
 

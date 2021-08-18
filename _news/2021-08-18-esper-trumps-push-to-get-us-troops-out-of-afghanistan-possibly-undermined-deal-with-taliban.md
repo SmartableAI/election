@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Inside Biden's defiant Afghanistan response"
-excerpt: "By the time images of desperate Afghans clinging to American warplanes began emerging from Kabul on Monday morning, President Joe Biden had conceded to aides he had little choice but to interrupt his stay at Camp David to return to the White House.\n    \n"
-publishedDateTime: 2021-08-17T00:42:32Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Uj6tzd6qzXE/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Uj6tzd6qzXE/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/08/16/politics/white-house-afghanistan-biden-crises/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/16/politics/white-house-afghanistan-biden-crises/index.html"
+title: "Esper: Trump's push to get US troops out of Afghanistan possibly 'undermined' deal with Taliban"
+excerpt: "Former Defense Secretary Mark Esper said Tuesday that he was concerned that then-President Donald Trump \"undermined\" the US' 2020 agreement with the Taliban by pushing for US forces to leave Afghanistan without the Taliban meeting the conditions of the deal.\n    \n"
+publishedDateTime: 2021-08-18T11:01:01Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DojV4CnXtSE/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DojV4CnXtSE/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/08/17/politics/mark-esper-donald-trump-taliban-afghanistan-cnntv/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/17/politics/mark-esper-donald-trump-taliban-afghanistan-cnntv/index.html"
 type: article
-quality: 175
+quality: 163
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210816162517-03-biden-afghanistan-remarks-0816-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200714171751-01-mark-esper-0709-file-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Inside Biden's defiant Afghanistan response"
+    excerpt: "By the time images of desperate Afghans clinging to American warplanes began emerging from Kabul on Monday morning, President Joe Biden had conceded to aides he had little choice but to interrupt his stay at Camp David to return to the White House.\n    \n"
+    publishedDateTime: 2021-08-17T00:42:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Uj6tzd6qzXE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/16/politics/white-house-afghanistan-biden-crises/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/16/politics/white-house-afghanistan-biden-crises/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210816162517-03-biden-afghanistan-remarks-0816-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden spoke with Obama and Bush ahead of Afghanistan withdrawal announcement"
     excerpt: "Former President Barack Obama on Wednesday praised President Joe Biden's \"bold leadership\" for his decision to withdraw all US troops from Afghanistan by September 11, saying that \"it is time to recognize that we have accomplished all that we can militarily\" in America's longest war.\n    \n"
     publishedDateTime: 2021-04-15T02:37:32Z
@@ -236,22 +252,6 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210812140239-01-biden-0812-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Esper: Trump's push to get US troops out of Afghanistan possibly 'undermined' deal with Taliban"
-    excerpt: "Former Defense Secretary Mark Esper said Tuesday that he was concerned that then-President Donald Trump \"undermined\" the US' 2020 agreement with the Taliban by pushing for US forces to leave Afghanistan without the Taliban meeting the conditions of the deal.\n    \n"
-    publishedDateTime: 2021-08-18T11:01:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DojV4CnXtSE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/17/politics/mark-esper-donald-trump-taliban-afghanistan-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/17/politics/mark-esper-donald-trump-taliban-afghanistan-cnntv/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200714171751-01-mark-esper-0709-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -430,6 +430,6 @@ related:
         height: 629
         isCached: true
 
-secured: "5ZVHYOqQ/hA4y0cIRlxYFeYeCzk6BIb23xSSEpVUSHmJSJpgRsFORpJvPoL/069Adl3/a8v662dqT7eY8Lk0nygJbc8QHFYjJRNWmIWxMxT0i25NBv8mYhUXc/YokmBgXZAj760nioUQXDChkATLv/xObdivbqg6+nZqeAjug+y9WeCcQhwZv9QzcYTc5cBP6ZPgHpR8FDMhugSHjvy5x5YibbW/q+rRXsHL8h+TVsnIpAiFoBZhyutGLu2HVk+ngGM6iWVIH2NEmLpajKVWwylAfGpQcddJIxK1SSyHAKFhgdSYA+I/XRY9BO97MkQw27PMRnwcAFtIBjunWj2DbA15jEsLZKckAxqAtIq6O+Q=;jFpr8MsiKsAKkPwdDCZ0jQ=="
+secured: "ZZLzEdvMPC/cnCP2c7JXsar6KyFIpNWQsgegoS6aDsEQPkeseYSfJNzTYz1nbj6pPkGGBDjh/7m4Y/aEKA2tpOAMwuyWYiO6tRYn8BQs8b9o4tqoQONullUm1AfznE7tJrYu6M2akEBdKuCNJJ0whNGZjBahWpnWxSCcVcxr+fTuSUhLTjm8j40slLxCXJcXeduZM3aL9BYSPCR/RGWKyBZiDBORbtga16EuNNE1AVjMU1iCQL39Y26z9GLKC8zhxTsQRA7nSmk6dHD4ifA3mv6/BZz2VmdlsoRnB2bmHV1VFF3AzZTojj4IwNySYSD7bQw3gne+ej0mVTOhCkHaB4r0LvNojeNeJGV3L4T2xBM=;kYcjS6UpMsmqfJ1l3ndOaw=="
 ---
 

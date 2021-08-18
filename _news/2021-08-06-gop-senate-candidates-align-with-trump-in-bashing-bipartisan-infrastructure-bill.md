@@ -239,6 +239,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Esper: Trump's push to get US troops out of Afghanistan possibly 'undermined' deal with Taliban"
+    excerpt: "Former Defense Secretary Mark Esper said Tuesday that he was concerned that then-President Donald Trump \"undermined\" the US' 2020 agreement with the Taliban by pushing for US forces to leave Afghanistan without the Taliban meeting the conditions of the deal.\n    \n"
+    publishedDateTime: 2021-08-18T11:01:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DojV4CnXtSE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/17/politics/mark-esper-donald-trump-taliban-afghanistan-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/17/politics/mark-esper-donald-trump-taliban-afghanistan-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200714171751-01-mark-esper-0709-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Afghanistan's quick unraveling jolts national security officials, threatens to stain Biden legacy"
     excerpt: "The security situation in Afghanistan has deteriorated faster than President Joe Biden and his most senior national security officials had anticipated, leaving the White House rushing to stave off the worst effects of a Taliban takeover.\n    \n"
     publishedDateTime: 2021-08-13T10:00:14Z
@@ -252,6 +268,22 @@ related:
     quality: 162
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210812072501-us-military-afghanistan-biden-0502-file-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration faces daunting odds of pulling off massive Afghanistan evacuation in 2 weeks"
+    excerpt: "The Biden administration is still struggling to answer basic questions about whether it can successfully evacuate tens of thousands of Americans and vulnerable Afghans in a race against a ticking clock ahead of the US military's August 31 Afghanistan withdrawal date.\n    \n"
+    publishedDateTime: 2021-08-18T11:01:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PYCL5DayScs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/18/politics/biden-afghanistan-evacuation-daunting-odds/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/18/politics/biden-afghanistan-evacuation-daunting-odds/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210817084902-32-taliban-afghanistan-unf-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
