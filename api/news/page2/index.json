@@ -114,7 +114,7 @@
       "originalUrl": "https://www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152",
       "featuredContent": null,
       "highlight": null,
-      "heat": 980,
+      "heat": 1000,
       "tags": null,
       "images": [
         {
@@ -864,6 +864,63 @@
       ]
     },
     {
+      "path": "_news/2021-08-13-miranda-devine-kamala-harris-inches-closer-to-2024-and-dems-are-terrified.md",
+      "title": "Miranda Devine: Kamala Harris inches closer to 2024 and Dems are terrified",
+      "excerpt": "Wednesday that Kamala Harris was announced as Joe Biden’s running mate. That auspicious moment catapulted her into prime time, a heartbeat away from the Oval Office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/kamala-harris-2024-democrats-miranda-devine",
+      "originalUrl": "https://www.foxnews.com/opinion/kamala-harris-2024-democrats-miranda-devine",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/22c44787-0d2a-4a77-a89d-680775135204/a28385c8-4809-4e82-9655-7cb6502df422/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/kamala-harris-2024-democrats-miranda-devine.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/kamala-harris-2024-democrats-miranda-devine.amp",
+      "publishedDateTime": "2021-08-12T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-harris-to-meet-with-ceos-on-child-care-proposals-white-house.md",
       "title": "Harris to meet with CEOs on child care proposals -White House",
       "excerpt": "U.S. Vice President Kamala Harris will meet with the chief executives of seven companies including Microsoft Corp on Thursday to discuss the Biden administration's child care proposals as the White House seeks broad support for its agenda.",
@@ -872,7 +929,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-companies-idUSKBN2FD18R",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 345,
       "tags": null,
       "images": [
         {
@@ -1286,63 +1343,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-kamala-harris-invites-business-leaders-to-the-white-house-to-discuss-child-care.md",
-      "title": "Kamala Harris invites business leaders to the White House to discuss child care.",
-      "excerpt": "Executives from companies like Airbnb, Chobani, Etsy and Microsoft were invited in an effort to drum up support for a key pillar of President Biden's $3.5 trillion budget.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/08/12/business/kamala-harris-child-care-business.html",
-      "originalUrl": "https://www.nytimes.com/2021/08/12/business/kamala-harris-child-care-business.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/08/12/business/12econ-brf-whitehouse/12econ-brf-whitehouse-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/08/12/business/kamala-harris-child-care-business.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/12/business/kamala-harris-child-care-business.amp.html",
-      "publishedDateTime": "2021-08-12T01:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
         "Democratic Voice"
       ]
     }

@@ -302,13 +302,13 @@ related:
   - title: "What President Joe Biden said in his address on Afghanistan"
     excerpt: "As criticism of the president mounted, Biden addressed the country as the Taliban took control of Afghanistan and chaos overtook the Kabul airport."
     publishedDateTime: 2021-08-16T23:06:00Z
-    webUrl: "https://www.statesman.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
-    ampWebUrl: "https://amp.statesman.com/amp/8157340002"
-    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8157340002"
+    webUrl: "https://www.indystar.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
+    ampWebUrl: "https://amp.indystar.com/amp/8157340002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/8157340002"
     type: article
     provider:
-      name: Austin American-Statesman
-      domain: statesman.com
+      name: Indianapolis Star
+      domain: indystar.com
     quality: 75
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/08/16/USAT/d4d75f62-840d-41fd-beeb-ff0dd19fe7ce-AP_Biden_US_Afghanistan.jpg?auto=webp&crop=4783,2691,x0,y159&format=pjpg&width=1200"
@@ -394,6 +394,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/06/04/USAT/119f62ef-919c-4fcd-951a-ff82e394d695-GettyImages-1312341688.jpg?auto=webp&crop=8191,4608,x0,y417&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Strange Bedfellows Indeed: The Trump-Biden Consensus On Afghanistan"
+    excerpt: "The last four U.S. presidents have found themselves mired in Afghanistan. The last two saw the war as an unwanted inheritance and an albatross, and they were determined to end the American role."
+    publishedDateTime: 2021-08-18T09:04:00Z
+    webUrl: "https://www.northcountrypublicradio.org/news/npr/1028607717/strange-bedfellows-indeed-the-trump-biden-consensus-on-afghanistan"
+    type: article
+    provider:
+      name: Northcountrypublicradio.org
+      domain: northcountrypublicradio.org
+    quality: 70
+    images:
+      - url: "https://media.npr.org/assets/img/2021/08/17/gettyimages-1234719791-93ec2f448f98f21eb9f6f39f3c3ccf972eb92ec0.jpg?s=6"
+        width: 948
+        height: 710
         isCached: true
   - title: "A third of Native Americans aren’t registered to vote. Can President Biden change that?"
     excerpt: "Native American voters could play a major role in deciding the next presidential election in key battleground states."
@@ -575,16 +589,16 @@ related:
   - title: "President Joe Biden Arrives at Fort McNair in DC"
     excerpt: "President Joe Biden arrives at Fort McNair in Washington, DC from Camp David on Monday, August 16, 2021. President Biden is expected to make remarks on the situation in Afghanistan later this afternoon."
     publishedDateTime: 2021-08-16T17:47:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/efbfdcaedaf2160ee05ec88b5aefb886/President-Joe-Biden-Arrives-at-Fort-McNair-in-DC/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/49daad176c1bf4ea14bea392f119e160/President-Joe-Biden-Arrives-at-Fort-McNair-in-DC/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/efbfdcaedaf2160ee05ec88b5aefb886/BIDEN-AFGHANISTAN.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/49daad176c1bf4ea14bea392f119e160/BIDEN-AFGHANISTAN.jpg"
         width: 650
-        height: 975
+        height: 974
         isCached: true
   - title: "President Biden Tells U.S. Olympic Squad It 'Restored The Soul Of America'"
     excerpt: "The president praised Team USA athletes for their \"moral courage\" during a Zoom call on Saturday, with special shoutouts to gymnast Simone Biles and swimmer Katie Ledecky."

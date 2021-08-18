@@ -160,6 +160,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "What Law School Taught Kamala Harris About Political Change"
+    excerpt: "The future VP arrived at UC Hastings as the daughter of activists and came out as a prosecutor — an evolution that shaped the politician she is today."
+    publishedDateTime: 2021-08-18T08:30:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/08/18/kamala-harris-law-school-politics-503924"
+    ampWebUrl: "https://www.politico.com/amp/news/magazine/2021/08/18/kamala-harris-law-school-politics-503924"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2021/08/18/kamala-harris-law-school-politics-503924"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/c7/7b/94eb81604a6988583da0d6a5ce75/kamala-final-revised.png"
+        width: 2320
+        height: 1546
+        isCached: true
 
 secured: "Qykpur6NfFXgsPz9sF+t6XUwvPr3aVYR/fSUj23pqCzl95ra/oVmZFGKqObKwqBwVaxGrr0m2/dwIcS7hp/wcxkPgK+gSRCcnka+WWtxuMNYiFrTmkOOAU9k0o2+2kx3gotbMrBMD7sjMa+mqR/U8chB2jT/Qs9b7JUuCcxGtvKv5t19xn06fCqJbjn8HlIU+a5CF3tZOivS1NrAkFS2Islg1D1ZE3zg9ZenxBmqzoCtYM639aI5xAGFQ4Oe82Iv3hNdpPSRb2xGdYarcCm0VLEhSp+pK4B6FS0dnK2zoF6SQPa/4zxlu02k5qkh6qlu6AoiARK38FhmkfJ8FGFFdKGDoNlScOJnRmZIhuJ5arpz0zyPioRp4YvEBe4JwlC/sxsJkNju39NpDq9lek+ESZIvOwriy6ha8G9xZgOcNNZCr2otW5YbJGtqIsOMbLLHO++ZgaZmXLbhtHnKqn8VL/QzAcKpHwdclUeMhmOcMlXqI1AHOJ2F4ypKmR+5k2qtEeqEr/cs/P1+xaTemjM5Xg==;nV6xE6B8Z8O4IUEIeM2mgg=="
 ---

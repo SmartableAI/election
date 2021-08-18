@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden to speak on Afghanistan this afternoon – live"
 excerpt: "Blinken spoke today with Russian Foreign Minister Sergey Lavrov about developments in Afghanistan, including the security situation and our efforts to bring U.S. citizens and vulnerable Afghans to safety."
 publishedDateTime: 2021-08-16T17:19:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live?page=with:block-611aaa7e8f08d30d155036a9"
-webUrl: "https://www.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live?page=with:block-611aaa7e8f08d30d155036a9"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live?page=with:block-611aa3be8f08aeaec2f20ed6"
+webUrl: "https://www.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live?page=with:block-611aa3be8f08aeaec2f20ed6"
 type: article
 quality: 105
 heat: -1
@@ -882,6 +882,6 @@ related:
       domain: usnews.com
     quality: 33
 
-secured: "ofqWDy6G20l9E2xHqCu97SD2Wy2pGdE10eNh+FRpXgNTeooJ9yHuw8pcK+6G9MSiWh4LdDz/s5glb0TEBd58IOwzRNomyaqfnO0wpKirHZkX0jYqyWDmq4I8zsj0yP8tIS8W50qekiFqxXxJHX+33RLfExEPNCQkIhsBUyMeqm+FFifkNhKfQ8JUHxurIeRQdc9GpavK7SZyZk/ZXjBLmWyRnbamPUdUKHad+P6i1S2WMCzdu09/To/FeA3DBjpZ0OS3RTXbdxMhE3BBNrFOdBL/+NR6FSCM4E10WwRQp02ONh3cu/Has9Q3NBM9YwYp2p5RVoMAVMsn21JRtopsyd9Ix4oi959mgDzF3+ueuUJIgiP0nXGC8+ic2dvdTvQEw+/jRtgetfURHReYxoJ8vrXnyOA7e32QhR85434gGyQ8Lh7m49iPiZYQ5r9eMAmAarmCb5QtRrpCv7hcw0boAS5WJXQHJHQZB6pwKHqHnwZM+KCWYwvDJFm76Q3szEaw9Vt7Tkrv1D1FUSBu7GOuVw==;J6V1g7XaFkbDuKZEEcWo5Q=="
+secured: "T7QsOtG4Y5tpSVLJUoJuCMP8rzlFfp6j/zFOrKbcFzMSjWj2vAWop1i2T7zg4L1CrYA+3xbgZS88aTuhCpEJzZyPmmHtmihY6rWNfl5S5cpH4G940q1Nv/COI2QAxROvCvXkqQKCOztDLpuXsMdg7qSMNAjORcVago/TIlMpXKHdtD+v/xdtCU/YSoFDnezlnzniDSk6jEbtVX6cnJA/rjXLzL2doHGkEH5EncQ1+pR5cOrKe7g+qYXn+hlQbbiU+8R53rD8a2mzbyP/FeylBjvctQWZ2oF9prmRT7IhqhsDGjZnJV0CdexbE5soMKOVRa1yjADh5gUgwOIprzBkUO1cCLTBUST/QduLcLMI4P8=;KSkY/QW8Gyd2UMq0Ps7tdw=="
 ---
 

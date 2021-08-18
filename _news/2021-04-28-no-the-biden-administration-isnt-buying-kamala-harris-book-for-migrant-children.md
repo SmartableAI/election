@@ -1541,6 +1541,20 @@ related:
         width: 667
         height: 596
         isCached: true
+  - title: "Kamala Harris: Joe Biden marks one year since announcing VP as his running mate"
+    excerpt: "During Joe Bidens campaign in 2020 as the Democratic nominee, there was a lot of speculation regarding possibly choosing then-Senator Kamala Harris as his running mate. Biden recently took to social media to celebrate"
+    publishedDateTime: 2021-08-13T06:18:00Z
+    webUrl: "https://www.econotimes.com/Kamala-Harris-Joe-Biden-marks-one-year-since-announcing-VP-as-his-running-mate-1614964"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 66
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/20210812515285a47b3f39eb6_th_1024x0.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Vice President Harris meets with nonprofit leaders to discuss root causes of Central American migration"
     excerpt: "Harris told foundation leaders that she hopes to correct the conditions that drive people out of Guatemala, El Salvador and Honduras, instead of just increasing security at the U.S. border with Mexico."
     publishedDateTime: 2021-04-22T17:55:00Z

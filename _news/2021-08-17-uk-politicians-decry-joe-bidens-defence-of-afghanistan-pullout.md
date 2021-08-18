@@ -463,7 +463,7 @@ related:
   - title: "Joe Biden to speak on Afghanistan this afternoon – live"
     excerpt: "Blinken spoke today with Russian Foreign Minister Sergey Lavrov about developments in Afghanistan, including the security situation and our efforts to bring U.S. citizens and vulnerable Afghans to safety."
     publishedDateTime: 2021-08-16T17:19:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live?page=with:block-611aaa7e8f08d30d155036a9"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live?page=with:block-611aa3be8f08aeaec2f20ed6"
     type: article
     provider:
       name: The Guardian
@@ -882,6 +882,6 @@ related:
       domain: usnews.com
     quality: 33
 
-secured: "CqMYii5/R1+ujf8pdk1ap7PeL+wLWuLF30g432djBjhR+GFlBNQMhALHz2pdVypm6Sc38RA25BtwHebXN3kzRclYjA/ffLf7enjTrTIKvl8SXny1LJsPeX7IaFXv0r+C2pdwDX90K957R8ky3K9OabsJpKwQ8Y9Bth+kn52DZtjyYBtneHO2rthyNzmbCJByCPRI2WPkYCkhMWdoeAdoJBZ94GgVmvHSkHslUERdGGpWmpaZ5WrbSuK2ZJMLwQu3iVNdriI3cRqAzNJgNtenKSPf9ZPVi5LOwpD5sF6X6vfPe9xY2YqjnxBQnvE5i/JpYaXIUK+C48CIm6xaw0YlYPqG9p3+gHFmGFeyUXo8VzU=;MyYFcu+svz4P6Z78MYwTkQ=="
+secured: "KvTDPehF2GFV6zqX/+SqjwKRdllh/W5/cf7dFbTWOHlrezuIDo6vgWDKSt2KXwIjoCqvvCI/9w/u5W5tFp5Mww8q/nCpv0brbsR6bfbF+WBik1afYyC4CRk04/3k9HFrggHcqJ3KYfooa2w7d7W3BEXe7ToZtlEMw9snWlbO817KMnYSkM2nlkJrTeyxI/kOiy4qrbpeDMRoRGVkjaVQlcEH1XZwcRwtQf3wMcEi8G60AHh8DyhcMgrnHy+JqmZSBm8q0xEe9xStwk4GdHRMEb32XnhtdWqTBspoGlW6E3AqfLmEQWZ4Yk3KJhObh1I/QMY/QxpBCnyjbq+kDEI3bnbH8G1puhu4AEWflTNJULblP7uTogPFpfU6mpLNFr0qTjxrJvZc0pAwalUWD0leguZ9AyeHqjjZxh9ZrUIhzN4AZ9e5WCqftkFpp45ai9DR9u2xsVdsuc5CLq+8zv21ZMNPxGHVGBbIHTTSso9to39Gb2R8LEJWpDVrXs8FGu5E/Hc81LySkkNcUX3IXKFbqQ==;lSX4ism2BnFFkOpC8OJGOA=="
 ---
 

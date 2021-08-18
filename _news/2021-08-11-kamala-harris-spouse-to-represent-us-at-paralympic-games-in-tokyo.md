@@ -94,6 +94,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Kamala Harris' stepdaughter surprises fans with revelation about appearance"
+    excerpt: "BST Hannah Hargrave Vice President Kamala Harris' model stepdaughter surprised fans with an announcement about her appearance Vice President Kamala Harris' stepdaughter, Ella Emhoff, earned herself a modelling contract with her edgy appearance and now she's ready to shake things up."
+    publishedDateTime: 2021-08-17T15:18:00Z
+    webUrl: "https://www.hellomagazine.com/healthandbeauty/hair/20210817119769/kamala-harris-stepdaughter-makes-announcement-about-appearance-hair-vice-president/"
+    ampWebUrl: "https://www.hellomagazine.com/healthandbeauty/hair/20210817119769/kamala-harris-stepdaughter-makes-announcement-about-appearance-hair-vice-president/?viewas=amp"
+    cdnAmpWebUrl: "https://www-hellomagazine-com.cdn.ampproject.org/c/s/www.hellomagazine.com/healthandbeauty/hair/20210817119769/kamala-harris-stepdaughter-makes-announcement-about-appearance-hair-vice-president/?viewas=amp"
+    type: article
+    provider:
+      name: HELLO! Magazine
+      domain: hellomagazine.com
+    quality: 73
+    images:
+      - url: "https://www.hellomagazine.com/imagenes/healthandbeauty/hair/20210817119769/kamala-harris-stepdaughter-makes-announcement-about-appearance-hair-vice-president/0-579-226/kamala-harris-ella-kemhoff-photo-t.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "Harris' spouse to represent US at Paralympic Games in Tokyo"
     excerpt: "Doug Emhoff, the spouse of Vice President Kamala Harris, is taking his first solo trip abroad and will lead a delegation to the Paralympic Games in Tokyo"
     publishedDateTime: 2021-08-10T13:02:00Z
@@ -119,6 +135,20 @@ related:
       name: BND
       domain: bnd.com
     quality: 55
+  - title: "Kamala Harris defends decision to withdraw from Afghanistan"
+    excerpt: "The recent chaos that occurred in Afghanistans capital of Kabul comes in the heels of the insurgent group Talibans advancing and overthrowing of the Afghan government. As US President Joe Biden and his administration"
+    publishedDateTime: 2021-08-18T08:40:00Z
+    webUrl: "https://www.econotimes.com/Kamala-Harris-defends-decision-to-withdraw-from-Afghanistan-1615288"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 55
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/202108184e0297f5d44477942_th_1024x0.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Vice President Kamala Harris visits Unity Health Care's Brentwood Health Center"
     excerpt: "U.S. Vice President Kamala Harris speaks about health care affordability at Unity Health Care's Brentwood Health Center on Tuesday, August 10, 20010 in Washington, DC. Photo by Oliver Contreras/UPI"
     publishedDateTime: 2021-08-10T18:13:00Z

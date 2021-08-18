@@ -3,18 +3,18 @@ category: news
 title: "What President Joe Biden said in his address on Afghanistan"
 excerpt: "As criticism of the president mounted, Biden addressed the country as the Taliban took control of Afghanistan and chaos overtook the Kabul airport."
 publishedDateTime: 2021-08-16T23:06:00Z
-originalUrl: "https://www.statesman.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
-webUrl: "https://www.statesman.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
-ampWebUrl: "https://amp.statesman.com/amp/8157340002"
-cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8157340002"
+originalUrl: "https://www.indystar.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
+webUrl: "https://www.indystar.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
+ampWebUrl: "https://amp.indystar.com/amp/8157340002"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/8157340002"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Austin American-Statesman
-  domain: statesman.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -391,6 +391,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Strange Bedfellows Indeed: The Trump-Biden Consensus On Afghanistan"
+    excerpt: "The last four U.S. presidents have found themselves mired in Afghanistan. The last two saw the war as an unwanted inheritance and an albatross, and they were determined to end the American role."
+    publishedDateTime: 2021-08-18T09:04:00Z
+    webUrl: "https://www.northcountrypublicradio.org/news/npr/1028607717/strange-bedfellows-indeed-the-trump-biden-consensus-on-afghanistan"
+    type: article
+    provider:
+      name: Northcountrypublicradio.org
+      domain: northcountrypublicradio.org
+    quality: 70
+    images:
+      - url: "https://media.npr.org/assets/img/2021/08/17/gettyimages-1234719791-93ec2f448f98f21eb9f6f39f3c3ccf972eb92ec0.jpg?s=6"
+        width: 948
+        height: 710
+        isCached: true
   - title: "A third of Native Americans aren’t registered to vote. Can President Biden change that?"
     excerpt: "Native American voters could play a major role in deciding the next presidential election in key battleground states."
     publishedDateTime: 2021-08-13T17:18:00Z
@@ -571,16 +585,16 @@ related:
   - title: "President Joe Biden Arrives at Fort McNair in DC"
     excerpt: "President Joe Biden arrives at Fort McNair in Washington, DC from Camp David on Monday, August 16, 2021. President Biden is expected to make remarks on the situation in Afghanistan later this afternoon."
     publishedDateTime: 2021-08-16T17:47:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/efbfdcaedaf2160ee05ec88b5aefb886/President-Joe-Biden-Arrives-at-Fort-McNair-in-DC/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/49daad176c1bf4ea14bea392f119e160/President-Joe-Biden-Arrives-at-Fort-McNair-in-DC/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/efbfdcaedaf2160ee05ec88b5aefb886/BIDEN-AFGHANISTAN.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/49daad176c1bf4ea14bea392f119e160/BIDEN-AFGHANISTAN.jpg"
         width: 650
-        height: 975
+        height: 974
         isCached: true
   - title: "President Biden Tells U.S. Olympic Squad It 'Restored The Soul Of America'"
     excerpt: "The president praised Team USA athletes for their \"moral courage\" during a Zoom call on Saturday, with special shoutouts to gymnast Simone Biles and swimmer Katie Ledecky."
@@ -638,6 +652,6 @@ related:
       domain: cincinnati.com
     quality: 13
 
-secured: "kzmT71gE1fxMC75TobgxtuCLIq0+OnKbHvopaV8uZu3Q3nslZN4U8jgiZppSseVbrL2UXOEPdoL19t052i6ot8OhxDhZcVEdiw3TLHUBw3Q8MSjOxi8TqrWbyf76/x6gxWOh462fQOBOQAUFwBnqvfR5a30ACy4uG0eXvcGSi4XpOkhMctnG/nV9GNrJBVv0SSXpHmRNrskacexiFVQ8ilO9nL4X25h4APFMZlhpwWC5fteEdaeRlXBFgKSRKWnD8DZL/1cWhpoEWOCTkIvWHLhIxmNTD5+zWeKU5GMTT6YzJ4c3C6DfEST67YnBFBQGD0A4CwIqdZ0dYj5GvJTrvSuBdRedyaghvWmBZd185UhXnb9s3ibvNQq+yjoRauWbvTZ+5ct7Fkx5b2+N2ZRMG8kNVaafypxVy/+zNfjR2bjy4WXLOK2nyXcO25HqvLPpwmsMFj8THe/sLzxl7n768syx6rtnT+Bt2xjI8be1AJ3UF7mCTbvAF8mhkLAI4vfPfwCDa77UCgq0t6hqATdAtA==;DuaU+7b7sBgGot8Frv5+AQ=="
+secured: "E5kdSnQc8iEsczkYXCKRUon/HJhpDmhLPmlFv3SA+pHp35S+NWUs63bmca3YHa+0TtPu01zWc+VxVaETM9Wyw2Y+zGCIY4igwB7a38TeLpTyOa6oGHr9tchBSALbhs3HF9SEBLWGd0FHyxsA4U4M0egO9tLIcyX28qFNcnnqwtVhqp+AtDL8Z2+eW/NSww0UoQEIlxGZ7II2mcJhdQ2Q9gj9KQQUX0x8in8G+MwL6MfqL74NPZC7vWV5EkxeUeRXPJ/ctz4DAV1Z747I6v9RorAm9NmNuIUSUdkd2PGPbuNfcK6fGdPJYlgRm1o9qEbKLUrQvIvb3A3TxUHVSZtEYUnC+kceow9mXbIZJs7VrUo=;6+23R4clvzQno/TzHYUBcA=="
 ---
 
