@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden to give TV interview to defend Afghanistan stance – live"
 excerpt: "President to speak to ABC’s George Stephanopoulos after n"
 publishedDateTime: 2021-08-17T12:39:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news?page=with:block-611bb9208f089f8318278c67"
-webUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news?page=with:block-611bb9208f089f8318278c67"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news?page=with:block-611bb53f8f08cf238eadd16b"
+webUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news?page=with:block-611bb53f8f08cf238eadd16b"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
 type: article
@@ -882,6 +882,6 @@ related:
       domain: usnews.com
     quality: 33
 
-secured: "lDXOXVGD6r58AnwvKZlT/6F9LM4IfsoHsjILtullA8//cAGRCxXueqEMJHgW7tYVyt7Apo2IOw2EnbcbbwGOFqFFsh3FfVtTFIWkizHfed8Mo/SBhNtylOn51XnBB+0s3F/vHZddMdmlgiznpZHb9BiiGXGvU15FIsyfesjkfP+nDI5gQJOCzijigmj1voGml+6XfplQ/rd76svZ7IAjRgHKWncVNSOD8Jl7zcdkq7NltxlfzhGuxmo0XXDi2mb15ZZ3dyUikt5Fl9UgbGqM8MntQJ56UfsLTke6jtGHPfD6LJuMiZ7opTh66VWmW8KlDnvxlZzl3smCPkjE8Mou2q+itGHqMLwDwrs0fZo/9UAp5lfNTXTsPlbCVDkCzEAojdq/zHcXIKvEPAXTcOxRqxDxfDLM4IaGZZUi2kKaM2e5p6ajSrWE+el2i+NwbzK50GjWdQvTbQIFvitvAhkrF5BErgacHRZtna1Ed+nV04LPLXHdzBdHKR32Mu5jhP0wer6EhxpogpUF0crA7nX3qA==;au2dOU6BXTDdEMcxFzbdLg=="
+secured: "V0j1LCpEQLgdEy85XXIAgFn3ASdJd7CbOxdcQ0KT2kE1xg1YQgbuLGnOPQwkqSLO4iAvYsBix6P/WRGnWXccO7+QreC9JJtGZWCL+0Izv2hyR1ZJ6SkoO448U4Ac9tU55cP0i7rOmZYGEM1XzruYkchfFlPCk3bxK8FzeXDPfY6hYGLqNUoTFJJwD4KbZ+yEnwbcPf/8drB5Ey+rpxh0wJ4fCE1Q1HsRUt7ytTftkwTHt3qNYe9YGTOkqvsKrPF8fNj9jOC9+mtFrZjXVpBzFYeYPFzHO/YjZpMn4zbqkZoiniO74HIzOjoOqATjpUiYwN+SshiSncx+cQUpk1lkNQO43iJ6g9YtZ4dgsHy/O1s=;huLPiQqJkE+pBfNp8g0APA=="
 ---
 

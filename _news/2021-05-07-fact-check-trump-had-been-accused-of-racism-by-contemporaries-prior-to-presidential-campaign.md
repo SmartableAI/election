@@ -2179,6 +2179,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Biden administration considers reinstating car regulations slashed by Trump"
+    excerpt: "The National Highway Administration is considering reinstating regulations slashed in the last days of the Trump administration."
+    publishedDateTime: 2021-08-18T17:52:00Z
+    webUrl: "https://www.foxbusiness.com/politics/biden-considers-car-regulations-trump"
+    ampWebUrl: "https://www.foxbusiness.com/politics/biden-considers-car-regulations-trump.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/biden-considers-car-regulations-trump.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 88
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cda2c4b9-302c-4a9c-a6ff-7ccd94b863c4/37687a85-2e7a-4ff3-b7cb-e60920b3755e/1280x720/match/image.jpg?pubId=854081161001"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Wendy Davis, others sue Trump supporters over 'Trump Train' harassing Biden bus in Texas"
     excerpt: "A group of people traveling on a President Joe Biden campaign bus on a Texas highway last fall when it was surrounded and followed by former President Donald Trump’s supporters have filed a lawsuit against at least seven people who allegedly were following the bus,"
     publishedDateTime: 2021-06-24T21:00:00Z

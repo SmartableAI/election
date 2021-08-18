@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Governor cancels fundraiser being co-hosted by Trump backer"
-excerpt: "McKee had been scheduled to attend a May 12 event co-hosted by Gerald Zarrella, a Republican who was co-chair of Trump’s Rhode Island re-election campaign. But when the Democrat learned who was behind the fundraiser,"
-publishedDateTime: 2021-05-09T18:28:00Z
-originalUrl: "https://www.chron.com/news/article/Governor-cancels-fundraiser-being-co-hosted-by-16163748.php"
-webUrl: "https://www.chron.com/news/article/Governor-cancels-fundraiser-being-co-hosted-by-16163748.php"
-ampWebUrl: "https://www.chron.com/news/amp/Governor-cancels-fundraiser-being-co-hosted-by-16163748.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Governor-cancels-fundraiser-being-co-hosted-by-16163748.php"
+title: "Biden administration considers reinstating car regulations slashed by Trump"
+excerpt: "The National Highway Administration is considering reinstating regulations slashed in the last days of the Trump administration."
+publishedDateTime: 2021-08-18T17:52:00Z
+originalUrl: "https://www.foxbusiness.com/politics/biden-considers-car-regulations-trump"
+webUrl: "https://www.foxbusiness.com/politics/biden-considers-car-regulations-trump"
+ampWebUrl: "https://www.foxbusiness.com/politics/biden-considers-car-regulations-trump.amp"
+cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/biden-considers-car-regulations-trump.amp"
 type: article
-quality: 75
+quality: 88
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Fox Business
+  domain: foxbusiness.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cda2c4b9-302c-4a9c-a6ff-7ccd94b863c4/37687a85-2e7a-4ff3-b7cb-e60920b3755e/1280x720/match/image.jpg?pubId=854081161001"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -2192,22 +2192,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Biden administration considers reinstating car regulations slashed by Trump"
-    excerpt: "The National Highway Administration is considering reinstating regulations slashed in the last days of the Trump administration."
-    publishedDateTime: 2021-08-18T17:52:00Z
-    webUrl: "https://www.foxbusiness.com/politics/biden-considers-car-regulations-trump"
-    ampWebUrl: "https://www.foxbusiness.com/politics/biden-considers-car-regulations-trump.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/biden-considers-car-regulations-trump.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 88
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cda2c4b9-302c-4a9c-a6ff-7ccd94b863c4/37687a85-2e7a-4ff3-b7cb-e60920b3755e/1280x720/match/image.jpg?pubId=854081161001"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Wendy Davis, others sue Trump supporters over 'Trump Train' harassing Biden bus in Texas"
     excerpt: "A group of people traveling on a President Joe Biden campaign bus on a Texas highway last fall when it was surrounded and followed by former President Donald Trump’s supporters have filed a lawsuit against at least seven people who allegedly were following the bus,"
     publishedDateTime: 2021-06-24T21:00:00Z
@@ -2340,6 +2324,22 @@ related:
     webUrl: "https://www.chron.com/politics/article/how-tall-is-joe-biden-jimmy-carter-16153265.php"
     ampWebUrl: "https://www.chron.com/politics/amp/how-tall-is-joe-biden-jimmy-carter-16153265.php"
     cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/politics/amp/how-tall-is-joe-biden-jimmy-carter-16153265.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Governor cancels fundraiser being co-hosted by Trump backer"
+    excerpt: "McKee had been scheduled to attend a May 12 event co-hosted by Gerald Zarrella, a Republican who was co-chair of Trump’s Rhode Island re-election campaign. But when the Democrat learned who was behind the fundraiser,"
+    publishedDateTime: 2021-05-09T18:28:00Z
+    webUrl: "https://www.chron.com/news/article/Governor-cancels-fundraiser-being-co-hosted-by-16163748.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Governor-cancels-fundraiser-being-co-hosted-by-16163748.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Governor-cancels-fundraiser-being-co-hosted-by-16163748.php"
     type: article
     provider:
       name: Houston Chronicle
@@ -2708,6 +2708,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "kcU3dzTA7BhiE5JohUwekldO3PJ3vzLVl3/MA3y2ZD8f3SinzvtsZXHTmhapyYaWx70A6Ll75JNPZ9+Rwe1KIkhsD/7iyczL5/XyxPMJM84Rs+tsGTRLzzo/u/gATMcSX7CMH27MCzrGdZ7P6ZoEw+f9V8rUNxg4Y+TJpC+9v48wjSKyCCresI9B0tG7coa3ruF+pbiixIzTlKSJd7j4GQmb3WyHqO1Dx7lBTxbI6LxuCDBsAypLtL7DYy3SqHkaUFS2/ih1H1RaoeGbjsdTj2UC95qf1AWyzPW7Q2kFe1HlSgJLvK3ppmNrRc4BhNispSKH+UuD9my+gx6TuMrKsLZ3uKI1zIZus6OFosfLTCw=;jKlN4gOUONCtzhutpXygNw=="
+secured: "Z+sIxzJvhUNutQ4LNff4qh1POPGLmcbGUhaYiP7R1AK2Ei7Z1dqYh/k3zK5yS+G/u0RWMYcxIoWX9qGA9i1MkZPJeH9NgZ8VnwQHcx1hiVVtdZkPRrrhECG6y1C5c25FkhIun+RSrKxVOzpUuXTylH2fzuk9VupfHGPpxSWbly2UmVa+GfQuQoX0xidrm+iW+mVL4PBZUMcYSvcRlogxZbaRF7I6sRgUF7BsdSTSjjGQudDrI/NFxJEwp1Czve50WKx1/qgPmjjmRUCbdv+5bujWXArbMllUUjaBKVEissZagGrQZQ5K8M5NjIuUp+sKDmZ1vU99mQxYGTZwRi6UILBopKQ+ahZvk8IaQMDNhg0=;T8AsIVGtg494llGG5MTgRA=="
 ---
 
