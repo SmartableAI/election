@@ -61,6 +61,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Yes, former President Trump made a deal with the Taliban to pull US troops out of Afghanistan by May 2021"
+    excerpt: "Former President Donald Trump made a deal to remove U.S. forces by May 2021, and Biden extended the withdrawal deadline to Sept. 11. 2021"
+    publishedDateTime: 2021-08-17T22:32:00Z
+    webUrl: "https://www.khou.com/video/news/verify/national-verify/yes-former-president-trump-made-a-deal-with-the-taliban-to-pull-us-troops-out-of-afghanistan-by-may-2021/536-a396bac1-5c40-4d0d-ab36-ac0bebf5a158"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 38
+    images:
+      - url: "https://media.khou.com/assets/VERIFY/images/b1fd9db6-f067-4227-aff2-ad144357f1ed/b1fd9db6-f067-4227-aff2-ad144357f1ed_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Anna Paulina Luna addresses troops, Amanda Makki calls for Joe Biden resignation in response to Afghanistan crisis"
     excerpt: "Florida’s 13th Congressional District GOP candidates Amanda Makki and Anna Paulina Luna are responding to the fall of Kabul to Taliban control after American troops were pulled from Afghanistan. The candidates,"
     publishedDateTime: 2021-08-17T16:29:00Z

@@ -176,7 +176,7 @@ related:
   - title: "Joe Biden to give TV interview to defend Afghanistan stance – live"
     excerpt: "President to speak to ABC’s George Stephanopoulos after n"
     publishedDateTime: 2021-08-17T12:39:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news?page=with:block-611bb2a78f089f8318278c0a"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news?page=with:block-611bb53f8f08cf238eadd16b"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
     type: article
@@ -461,7 +461,7 @@ related:
   - title: "Joe Biden to speak on Afghanistan this afternoon – live"
     excerpt: "Blinken spoke today with Russian Foreign Minister Sergey Lavrov about developments in Afghanistan, including the security situation and our efforts to bring U.S. citizens and vulnerable Afghans to safety."
     publishedDateTime: 2021-08-16T17:19:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live?page=with:block-611aa3be8f08aeaec2f20ed6"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live?page=with:block-611aaa7e8f08d30d155036a9"
     type: article
     provider:
       name: The Guardian

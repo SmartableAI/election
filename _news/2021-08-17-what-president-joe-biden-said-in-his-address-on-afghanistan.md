@@ -3,18 +3,18 @@ category: news
 title: "What President Joe Biden said in his address on Afghanistan"
 excerpt: "As criticism of the president mounted, Biden addressed the country as the Taliban took control of Afghanistan and chaos overtook the Kabul airport."
 publishedDateTime: 2021-08-16T23:06:00Z
-originalUrl: "https://www.indystar.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
-webUrl: "https://www.indystar.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
-ampWebUrl: "https://amp.indystar.com/amp/8157340002"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/8157340002"
+originalUrl: "https://www.desmoinesregister.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
+webUrl: "https://www.desmoinesregister.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/8157340002"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/8157340002"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
@@ -166,6 +166,22 @@ related:
       - url: "https://timesofsandiego.com/wp-content/uploads/2021/03/MEXICO3.jpg"
         width: 1200
         height: 750
+        isCached: true
+  - title: "Garcia: Unpopular opinion: Trump and Biden had the most correct take on Afghanistan"
+    excerpt: "Democratic defenders of President Joe Biden examine the clumsy execution of the U.S. withdrawal from Afghanistan and shift the blame to Biden’s Republican predecessor, Donald Trump. They point out that it was Trump who negotiated a deal with the Taliban last year calling for a May 2021 U."
+    publishedDateTime: 2021-08-17T22:31:00Z
+    webUrl: "https://www.expressnews.com/news/news_columnists/gilbert_garcia/article/Garcia-Unpopular-opinion-Trump-Biden-afghanistan-16393729.php"
+    ampWebUrl: "https://www.expressnews.com/news/news_columnists/gilbert_garcia/amp/Garcia-Unpopular-opinion-Trump-Biden-afghanistan-16393729.php"
+    cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/news_columnists/gilbert_garcia/amp/Garcia-Unpopular-opinion-Trump-Biden-afghanistan-16393729.php"
+    type: article
+    provider:
+      name: San Antonio Express-News
+      domain: expressnews.com
+    quality: 84
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/37/67/21364173/3/0x400.jpg"
+        width: 315
+        height: 400
         isCached: true
   - title: "Trump told Cali. to sweep the forest floors. What’s Biden’s plan to combat wildfires?"
     excerpt: "Gavin Newsom stood side by side, in a forest that burned badly a year ago, pledging to work together against California’s raging wildfires. Vilsack, acknowledging criticisms that the U.S. Forest Service hasn’t done enough to fight fires,"
@@ -555,16 +571,16 @@ related:
   - title: "President Joe Biden Arrives at Fort McNair in DC"
     excerpt: "President Joe Biden arrives at Fort McNair in Washington, DC from Camp David on Monday, August 16, 2021. President Biden is expected to make remarks on the situation in Afghanistan later this afternoon."
     publishedDateTime: 2021-08-16T17:47:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/efbfdcaedaf2160ee05ec88b5aefb886/President-Joe-Biden-Arrives-at-Fort-McNair-in-DC/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/09c2052fb62aecdd8f1bb3b42640ae29/President-Joe-Biden-Arrives-at-Fort-McNair-in-DC/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/efbfdcaedaf2160ee05ec88b5aefb886/BIDEN-AFGHANISTAN.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/09c2052fb62aecdd8f1bb3b42640ae29/BIDEN-AFGHANISTAN.jpg"
         width: 650
-        height: 975
+        height: 433
         isCached: true
   - title: "President Biden Tells U.S. Olympic Squad It 'Restored The Soul Of America'"
     excerpt: "The president praised Team USA athletes for their \"moral courage\" during a Zoom call on Saturday, with special shoutouts to gymnast Simone Biles and swimmer Katie Ledecky."
@@ -622,6 +638,6 @@ related:
       domain: cincinnati.com
     quality: 13
 
-secured: "M7PyinyAsDqnKI8fKADuyWMMhFTfGyio5+qihT6OIDUVCLPRpYupXGnv3kbfc1VUDhH+7/xlsXqvFW8dwQwPDWs+R58Z+3lgsamd1XKUtvnkP/UDxMZ9lxdQu8YwkTNDmVVayF+I+RqWQH9/fzGseCG4hAF/0A+vG0AYZWtPjUivOSIK6LWpps0QnDhtrv5VlnHedCoeDDhVVVx+6O1w6DN80/MaikkuNDVBPgKqH515taR0gwDIxNc8E+MZ4pPHUcNKRI05saoqaJQQSQotHi1xNHQU8zhXJC/JRJyUiurZj2N3DZX8TDJWiS1EyF3yzuhOTjDoLCULTIZ2/N3BRtAdKISttkqSOK2rILTweG0=;OUBLb2ULLGLjmrWf/td2jA=="
+secured: "jIolcHuyzkaqsMsKwpRVkJo0DBbY3zXUDgVY4ItFueY0fjDG9V8oz+R8TjXMePhTEtOEDMiq2L4im8rpnZgkfAYqaXpSyJ4n2R6Ni+1W/ZlSj+/gKqWaPdENf89x2B7pX2Fz1MM7z5GCC8zEU7aKhwQp/DSVkLY6QbAy89s9tFrqXuNyZzA/ijnPJWhwlY3F/AivQbc8bKikA7Ax1N5T4fznQmq1Q+pFlEq6Djtb9zxFHk3jE+pb90wvMeKbFyzLJu7oXHMJM71ZSrLOZRzTFear6OBwwtTlsTHS7nnRrZLC5Tb16TDrkrVDtAJTC46uZLTKzAqXtDjkFNCO/fRcxmU8d3TwiXXUUS5ldoETzL4=;mGA5Y6atiBSTfX5nXWMTUA=="
 ---
 

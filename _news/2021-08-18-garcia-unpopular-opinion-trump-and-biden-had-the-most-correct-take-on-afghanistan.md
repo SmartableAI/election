@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Secretary of Defense, President Biden to Require COVID-19 Vaccine For Military"
-excerpt: "U.S. Secretary of Defense Lloyd J. Austin III's announcement Monday that he is seeking approval from President Joe Biden to make the COVID-19 vaccine mandatory for all service members by Sept. 15."
-publishedDateTime: 2021-08-09T19:05:00Z
-originalUrl: "https://timesofsandiego.com/uncategorized/2021/08/09/secretary-of-defense-president-biden-to-require-covid-19-vaccine-for-military/"
-webUrl: "https://timesofsandiego.com/uncategorized/2021/08/09/secretary-of-defense-president-biden-to-require-covid-19-vaccine-for-military/"
-ampWebUrl: "https://timesofsandiego.com/uncategorized/2021/08/09/secretary-of-defense-president-biden-to-require-covid-19-vaccine-for-military/"
-cdnAmpWebUrl: "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/uncategorized/2021/08/09/secretary-of-defense-president-biden-to-require-covid-19-vaccine-for-military/"
+title: "Garcia: Unpopular opinion: Trump and Biden had the most correct take on Afghanistan"
+excerpt: "Democratic defenders of President Joe Biden examine the clumsy execution of the U.S. withdrawal from Afghanistan and shift the blame to Biden’s Republican predecessor, Donald Trump. They point out that it was Trump who negotiated a deal with the Taliban last year calling for a May 2021 U."
+publishedDateTime: 2021-08-17T22:31:00Z
+originalUrl: "https://www.expressnews.com/news/news_columnists/gilbert_garcia/article/Garcia-Unpopular-opinion-Trump-Biden-afghanistan-16393729.php"
+webUrl: "https://www.expressnews.com/news/news_columnists/gilbert_garcia/article/Garcia-Unpopular-opinion-Trump-Biden-afghanistan-16393729.php"
+ampWebUrl: "https://www.expressnews.com/news/news_columnists/gilbert_garcia/amp/Garcia-Unpopular-opinion-Trump-Biden-afghanistan-16393729.php"
+cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/news_columnists/gilbert_garcia/amp/Garcia-Unpopular-opinion-Trump-Biden-afghanistan-16393729.php"
 type: article
-quality: 71
+quality: 84
 heat: -1
 published: false
 
 provider:
-  name: Times of San Diego
-  domain: timesofsandiego.com
+  name: San Antonio Express-News
+  domain: expressnews.com
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://timesofsandiego.com/wp-content/uploads/2021/03/Pierside-Vaccinations.jpg"
-    width: 960
-    height: 640
+  - url: "https://s.hdnux.com/photos/01/21/37/67/21364173/3/0x400.jpg"
+    width: 315
+    height: 400
     isCached: true
 
 related:
@@ -166,22 +166,6 @@ related:
       - url: "https://timesofsandiego.com/wp-content/uploads/2021/03/MEXICO3.jpg"
         width: 1200
         height: 750
-        isCached: true
-  - title: "Garcia: Unpopular opinion: Trump and Biden had the most correct take on Afghanistan"
-    excerpt: "Democratic defenders of President Joe Biden examine the clumsy execution of the U.S. withdrawal from Afghanistan and shift the blame to Biden’s Republican predecessor, Donald Trump. They point out that it was Trump who negotiated a deal with the Taliban last year calling for a May 2021 U."
-    publishedDateTime: 2021-08-17T22:31:00Z
-    webUrl: "https://www.expressnews.com/news/news_columnists/gilbert_garcia/article/Garcia-Unpopular-opinion-Trump-Biden-afghanistan-16393729.php"
-    ampWebUrl: "https://www.expressnews.com/news/news_columnists/gilbert_garcia/amp/Garcia-Unpopular-opinion-Trump-Biden-afghanistan-16393729.php"
-    cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/news_columnists/gilbert_garcia/amp/Garcia-Unpopular-opinion-Trump-Biden-afghanistan-16393729.php"
-    type: article
-    provider:
-      name: San Antonio Express-News
-      domain: expressnews.com
-    quality: 84
-    images:
-      - url: "https://s.hdnux.com/photos/01/21/37/67/21364173/3/0x400.jpg"
-        width: 315
-        height: 400
         isCached: true
   - title: "Trump told Cali. to sweep the forest floors. What’s Biden’s plan to combat wildfires?"
     excerpt: "Gavin Newsom stood side by side, in a forest that burned badly a year ago, pledging to work together against California’s raging wildfires. Vilsack, acknowledging criticisms that the U.S. Forest Service hasn’t done enough to fight fires,"
@@ -374,6 +358,22 @@ related:
       - url: "https://media.11alive.com/assets/WXIA/images/a0f1d29b-515a-4486-ad7b-d43953d35f49/a0f1d29b-515a-4486-ad7b-d43953d35f49_1140x641.jpg"
         width: 1140
         height: 641
+        isCached: true
+  - title: "Secretary of Defense, President Biden to Require COVID-19 Vaccine For Military"
+    excerpt: "U.S. Secretary of Defense Lloyd J. Austin III's announcement Monday that he is seeking approval from President Joe Biden to make the COVID-19 vaccine mandatory for all service members by Sept. 15."
+    publishedDateTime: 2021-08-09T19:05:00Z
+    webUrl: "https://timesofsandiego.com/uncategorized/2021/08/09/secretary-of-defense-president-biden-to-require-covid-19-vaccine-for-military/"
+    ampWebUrl: "https://timesofsandiego.com/uncategorized/2021/08/09/secretary-of-defense-president-biden-to-require-covid-19-vaccine-for-military/"
+    cdnAmpWebUrl: "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/uncategorized/2021/08/09/secretary-of-defense-president-biden-to-require-covid-19-vaccine-for-military/"
+    type: article
+    provider:
+      name: Times of San Diego
+      domain: timesofsandiego.com
+    quality: 71
+    images:
+      - url: "https://timesofsandiego.com/wp-content/uploads/2021/03/Pierside-Vaccinations.jpg"
+        width: 960
+        height: 640
         isCached: true
   - title: "Federal judge orders Biden administration to reinstate 'Remain in Mexico' policy"
     excerpt: "A federal judge revived a Trump-era policy that ordered asylum-seekers to remain in Mexico as they wait for their U.S. court hearings."
@@ -638,6 +638,6 @@ related:
       domain: cincinnati.com
     quality: 13
 
-secured: "eZUajnl+tpsIn7Z9oRm0SSUU3N7nsHJTe6SNn4sUyREweYZMSqP2iBMlWbwVEnfCNWPo4icHIqdbB19rPDgKsFrTmk5zbUiiDXFB11hX1tqjKcRWiJoCQnP1oSPJGlZAvmJhby08feCBxvn437zfdnCM45DB1dbvc7y4w1GW7Ob3dUbp7bQcUyvEsTc2ybcvz8UDuRmWeRd1pVVz+w/H0zmfan/UpM0O8CdwgMVBOzTOKJylU4eOyCSzSv/cVAFNBrhnYTzIMCcfLpsK5OdSinHMYDY9hwKAskq5gbv4Mn6enqyNTwqhNk+OljKae35Rul0jrQx++gJMBG0gGH2idKa/rmGkKZjcS56FabJ4IWILzHAUMn8Ua0WF6M3ZXI1FAKpznyK8dScPwUMmxayaggsO8cdSeC7lojfnhcurSdSw8whTOSyXcuOIQ8dSM4RbDW/5c+A2vR/dZKB+R5+3HlHasg7urhN4++i7OHB0y94d3tokQvCTaOzsjSletGUvxRHmPqj6/W9mwPcXcAzgGQ==;/UoSAGpiDIpho5tv5LpF2g=="
+secured: "PkxKIy+RXXyFbwJl8JuEF1nTwyJhAlDEvQCRKed17FagFXV4QXk+mgFFaxl5NWIEQQyZhHfPAzt5WCG6eoe5porP0tmgGW5mhVR9ZQGew/qGBOWxR3WECdRFXNZne6stmh6uuGihNE9FDkDrVBExlBvAHX0JDurB6AYbgxquqdPwEbBbZ4TQrGHByX68sVOE3HZUEo9XjD2qKPSaiLxUQXS//rl1a2zE6dMjitmmMPki0kmnUO8TMQ9uI0DasAi3+jiwOkCzEMsqBpqdkQX54RoL+gwMVThxHFjg7ltmb/rj5MF691+j+5cTzf79CZ49+pwU7JsZYL7bX9yIDF6SDTTU2RaO3zGOQzuFCbOpbv0=;K5cwW1Sz7WkFcVsmMCnSmw=="
 ---
 

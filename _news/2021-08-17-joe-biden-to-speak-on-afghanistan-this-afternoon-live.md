@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden to speak on Afghanistan this afternoon – live"
 excerpt: "Blinken spoke today with Russian Foreign Minister Sergey Lavrov about developments in Afghanistan, including the security situation and our efforts to bring U.S. citizens and vulnerable Afghans to safety."
 publishedDateTime: 2021-08-16T17:19:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live?page=with:block-611aa3be8f08aeaec2f20ed6"
-webUrl: "https://www.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live?page=with:block-611aa3be8f08aeaec2f20ed6"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live?page=with:block-611aaa7e8f08d30d155036a9"
+webUrl: "https://www.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live?page=with:block-611aaa7e8f08d30d155036a9"
 type: article
 quality: 105
 heat: -1
@@ -176,7 +176,7 @@ related:
   - title: "Joe Biden to give TV interview to defend Afghanistan stance – live"
     excerpt: "President to speak to ABC’s George Stephanopoulos after n"
     publishedDateTime: 2021-08-17T12:39:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news?page=with:block-611bb2a78f089f8318278c0a"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news?page=with:block-611bb53f8f08cf238eadd16b"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/17/joe-biden-afghanistan-republicans-democrats-us-politics-live-latest-news"
     type: article
@@ -866,6 +866,6 @@ related:
       domain: usnews.com
     quality: 33
 
-secured: "LOCqAlF2BoVfb9ih7jC9rUhhDdsa39hedTppeTg7lJRgVUhXHD/oqxTaL3gsKbCjPPM2ambMI+v7WUNuERlDNLY5kVa08uDiJhh0c2V+ROSse8uHVDLjsArC3NDvhMl3JPfjHYzMuvStXQLZ7ZYNkTBmYcg6KblrusbPPYp+hwjIVW5J3roGkjsiWtsUf93/Azt7+ohqMM9jgixyY+AdI9pa5OHjlTbtQw3OzBzDzT3srSii2WUZbnae5ME/dzN1WWHgfAgv/rGVn9vJdFXHgS9LFlMoeiSdbL7df7ITvmT//+v5kuXfcU2HEaZwf1VkccMM5V/ObrW/LmnixA7LR1j49qWNticwwy3ka+rspi0=;Ho0TGpdm8a5idoIRFkghLw=="
+secured: "RZcGFekjMSjyD7oPA1ppYqK3jixsEEQKqqFG46F4n+bB29s54VvWYHKlcp/D/HczmRpwz0Rc7xASHacXpo1QxmiXt7Xe9Vf7dfebUS3/cblxO6PSQ85iN9C155QA+paLXXoJxphiqRSEOt3ALYb7TlpBeNQkzZ7OUqVjNo6GqTtJ3fGl2cvwjmXVYVksFFbxgtCpevdfySwd2KL5S8NUudVKDqEY6fpBra/r4zm+hDRJWPOOt8Wpa0XhDOOmIDZ58Flpsr17LuFbW/m/vbzXMjyf8i7OFd3LJgKPizoV06MVZ3KkJ0XeIjSTGmha201vY+icGYzoXUytkqAjuyECqAHL4nIKEIFhhNf8yXPdPLk=;JtcOyLLeVGWvg4bw3w8qSg=="
 ---
 

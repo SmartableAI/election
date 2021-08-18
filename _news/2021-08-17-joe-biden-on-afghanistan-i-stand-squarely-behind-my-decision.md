@@ -61,6 +61,20 @@ related:
         width: 1024
         height: 662
         isCached: true
+  - title: "Yes, former President Trump made a deal with the Taliban to pull US troops out of Afghanistan by May 2021"
+    excerpt: "Former President Donald Trump made a deal to remove U.S. forces by May 2021, and Biden extended the withdrawal deadline to Sept. 11. 2021"
+    publishedDateTime: 2021-08-17T22:32:00Z
+    webUrl: "https://www.khou.com/video/news/verify/national-verify/yes-former-president-trump-made-a-deal-with-the-taliban-to-pull-us-troops-out-of-afghanistan-by-may-2021/536-a396bac1-5c40-4d0d-ab36-ac0bebf5a158"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 38
+    images:
+      - url: "https://media.khou.com/assets/VERIFY/images/b1fd9db6-f067-4227-aff2-ad144357f1ed/b1fd9db6-f067-4227-aff2-ad144357f1ed_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Anna Paulina Luna addresses troops, Amanda Makki calls for Joe Biden resignation in response to Afghanistan crisis"
     excerpt: "Florida’s 13th Congressional District GOP candidates Amanda Makki and Anna Paulina Luna are responding to the fall of Kabul to Taliban control after American troops were pulled from Afghanistan. The candidates,"
     publishedDateTime: 2021-08-17T16:29:00Z
@@ -76,6 +90,6 @@ related:
         height: 1920
         isCached: true
 
-secured: "v5Km7HUmpt8jed79dur4ruBrjt4OHknP96KH54DYgpAgGbWFmGKscsBuBcdL3xtf9he3BI9JaJRM2VtE2oAXw6ggcnmlvBEVpSxpePoiCHc7G6DBkS0nuxqIqRR4/BC1bOVss44No1XBtCjZDdhd/Hkzu9J/iSWkeuZ4dQI/CuXzYDwTsx4D4N9OhA5VGwwZlCq7TTEWXh4k6t60SEmSDiqiwIzblATklnRx4wztW+SOBLvojdpDmJVaYGjvkueTKm+1Ru2DdEz9+v2oQBDYWZJFrfgVx1hDnifIo33cTFAgyeYRUe/QIxNR0UIuaO+ajQRAgbs2vP245VsN9arU2K+8kqsuMr4SLlqbKI4ZbwQ=;HWNLJ7exOmUpXL321Qd9fA=="
+secured: "2kuP0IiFggc5fieCDYiwKvfNa7OHXPZPhtjGKwehcdiZEix9RDJJkzumVqHOg2DHdta+n/j/kDijjIsDtWjR7AJGeVZERIzZAOmnV2ZzSMlaeU+Tvml/qlBhST2LwcU+frMWtVYR8uJSuBt9SxDQVnkZspA+p1y5LdEPhd+GuaRG6o9QlD0EBhwaqDBMKVcUKJwSWOz3Hg9u5uGjopMKss8oyACNbnXPGCfdMl+oxrKsvQ1HMWsnWvA6VsbeutepBNaQwqfdiea8Csl9cgnaiEC0RdVgLqZoJ4WdT2jYzr1oj70OAjhf4gVqyrpYMidM/5fwDb9uIBcY1fmIak7T1CVVyQajp2xh3vShErn/6pWkPAaEGvnoA9S0xvBYzBHtbzV4Ck1PmZBz1+kbqsci9ZwySoQifyVfAli7AhyqwzzcOY8cI8/DvK6P+tj+nFqdEKN+/5l1Z7gyU4q/Wnb995/rIUbiaob6qZyEBMCW0Mc/3pyVkkZGkUb7nChzdTLNZuzD1viGaHJN2df3GNzSaw==;A7WShD8ZyWO9QObR5shFow=="
 ---
 

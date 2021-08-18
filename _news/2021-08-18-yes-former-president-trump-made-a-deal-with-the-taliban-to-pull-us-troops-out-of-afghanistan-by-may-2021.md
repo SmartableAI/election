@@ -1,36 +1,46 @@
 ---
 category: news
-title: "Candace Owens Says Joe Biden Hiding 'Like a Little B****' as Afghanistan Falls"
-excerpt: "The decision to withdraw from Afghanistan was first made under the Trump administration. However, the full withdrawal was carried out under Biden."
-publishedDateTime: 2021-08-16T13:06:00Z
-originalUrl: "https://www.newsweek.com/candace-owens-says-joe-biden-hiding-like-little-b-afghanistan-falls-1619586"
-webUrl: "https://www.newsweek.com/candace-owens-says-joe-biden-hiding-like-little-b-afghanistan-falls-1619586"
-ampWebUrl: "https://www.newsweek.com/candace-owens-says-joe-biden-hiding-like-little-b-afghanistan-falls-1619586?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/candace-owens-says-joe-biden-hiding-like-little-b-afghanistan-falls-1619586?amp=1"
+title: "Yes, former President Trump made a deal with the Taliban to pull US troops out of Afghanistan by May 2021"
+excerpt: "Former President Donald Trump made a deal to remove U.S. forces by May 2021, and Biden extended the withdrawal deadline to Sept. 11. 2021"
+publishedDateTime: 2021-08-17T22:32:00Z
+originalUrl: "https://www.khou.com/video/news/verify/national-verify/yes-former-president-trump-made-a-deal-with-the-taliban-to-pull-us-troops-out-of-afghanistan-by-may-2021/536-a396bac1-5c40-4d0d-ab36-ac0bebf5a158"
+webUrl: "https://www.khou.com/video/news/verify/national-verify/yes-former-president-trump-made-a-deal-with-the-taliban-to-pull-us-troops-out-of-afghanistan-by-may-2021/536-a396bac1-5c40-4d0d-ab36-ac0bebf5a158"
 type: article
-quality: 121
-heat: 201
-published: true
+quality: 38
+heat: -1
+published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KHOU 11
+  domain: khou.com
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://d.newsweek.com/en/full/1871760/candace-owens-hosting-her-candace-show.jpg"
-    width: 3391
-    height: 2362
+  - url: "https://media.khou.com/assets/VERIFY/images/b1fd9db6-f067-4227-aff2-ad144357f1ed/b1fd9db6-f067-4227-aff2-ad144357f1ed_1140x641.jpg"
+    width: 1140
+    height: 641
     isCached: true
 
 related:
+  - title: "Candace Owens Says Joe Biden Hiding 'Like a Little B****' as Afghanistan Falls"
+    excerpt: "The decision to withdraw from Afghanistan was first made under the Trump administration. However, the full withdrawal was carried out under Biden."
+    publishedDateTime: 2021-08-16T13:06:00Z
+    webUrl: "https://www.newsweek.com/candace-owens-says-joe-biden-hiding-like-little-b-afghanistan-falls-1619586"
+    ampWebUrl: "https://www.newsweek.com/candace-owens-says-joe-biden-hiding-like-little-b-afghanistan-falls-1619586?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/candace-owens-says-joe-biden-hiding-like-little-b-afghanistan-falls-1619586?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1871760/candace-owens-hosting-her-candace-show.jpg"
+        width: 3391
+        height: 2362
+        isCached: true
   - title: "Joe Biden on Afghanistan: 'I stand squarely behind my decision'"
     excerpt: "I stand squarely behind my decision' Up Next. How it happened: The Taliban advance. Video, 00:01:49How it happened: The Taliban advance Images show decline of California's 'life source' Video, 00:02:49Images show decline of California's 'life source' Afghans cling to US plane taking off from Kabul."
     publishedDateTime: 2021-08-16T21:03:00Z
@@ -61,20 +71,6 @@ related:
         width: 1024
         height: 662
         isCached: true
-  - title: "Yes, former President Trump made a deal with the Taliban to pull US troops out of Afghanistan by May 2021"
-    excerpt: "Former President Donald Trump made a deal to remove U.S. forces by May 2021, and Biden extended the withdrawal deadline to Sept. 11. 2021"
-    publishedDateTime: 2021-08-17T22:32:00Z
-    webUrl: "https://www.khou.com/video/news/verify/national-verify/yes-former-president-trump-made-a-deal-with-the-taliban-to-pull-us-troops-out-of-afghanistan-by-may-2021/536-a396bac1-5c40-4d0d-ab36-ac0bebf5a158"
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 38
-    images:
-      - url: "https://media.khou.com/assets/VERIFY/images/b1fd9db6-f067-4227-aff2-ad144357f1ed/b1fd9db6-f067-4227-aff2-ad144357f1ed_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Anna Paulina Luna addresses troops, Amanda Makki calls for Joe Biden resignation in response to Afghanistan crisis"
     excerpt: "Florida’s 13th Congressional District GOP candidates Amanda Makki and Anna Paulina Luna are responding to the fall of Kabul to Taliban control after American troops were pulled from Afghanistan. The candidates,"
     publishedDateTime: 2021-08-17T16:29:00Z
@@ -90,6 +86,6 @@ related:
         height: 1920
         isCached: true
 
-secured: "wkNJnMNgSm975jNBsv3uIuYsHwjwBK37Lfro2lAhUjEVS/mrJiKtJdZe6wc5uE3++TL4KLkLhap66uV9qSEfc1xcQGNqWrgulty9ibcX1CYwXXGo85GqasiOXqU35lLX1FHN6vyDLy/z6R8AsTnIIWscAWdfhhceJNZPOCUVBoKcfHI0u5f8wyGCt63R4RNJNRYZaEm76X9Tb6zKmEChH4VTjGs+q6Vfh3r0yTcRKBH4BNO2yx2PKp9Pe2Zyur25IFy9TnycCeqw4tuXPlEznuSMQA0CS7oYVz2mOZckcFhCP5dEMY6NV7+m+wSdS1BUrUQCbym0+68Hk+FCLZfzFxGKgv2qoTqEvMypsbN+ZT+zbMVWHqoACPBu4LwlOdiUNofsTg/5bVb2PIkYQhULIL4JViu0shLm+4mLHtNCqSJCTqKLKcJuNO07h4CgFufPVkOWpg4hB2tPbyc/c8crr/DA+nK6yVzEJIuNP0A0sQN93IJCBs6P7oqv3SU/eo/ktS7ittSVDyHuHFruQWO95g==;RkXGoSknHbM8O28tOm5w9A=="
+secured: "nbt/1PbS0AaIjRsrCWIAw6jPcCmSLfGUlmWu0O7T2MnCbwviXAyr2Zrxz8j1ofSkkZksUJnsPApDp4cKHysx33lhdbc7GBzeh74xNxTYEDPw297hKFzFiRSpyp2os4uFuQYjC9mJ1IP65AzThSUTwrtNOZ8Y5brDWib/AFxn4zJ2zq8qPCsDmdFBn99dSlfnBcu9k6AHi5e8Yb+VwWxgr6AQ4EgJQAoilPeggl4PyFhwDon3a0/Jslvc6pOgMro2Hzfn9z5FwvgjQEo8CasV79SXVZa+KjAh5tyIjmL5EuBF6nLUFXNHGkJ3/5swwpumUWstS88Ljy7Q+uL0Io5w3l8+/wG7jl0WMxkuVaEfYkY=;EJsCb3dHJ6S5OncqLvjNHg=="
 ---
 
