@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/12/joe-biden-secret-wea
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/d20/eac/39b3bfb35ff2c0d192dbf652b09eab40f1-tucker-carlson.1x.rsocial.w1200.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Joe Biden's political honeymoon is officially over"
+    excerpt: "The shine has worn off Joe Biden. His average approval ratings is now below 50% in the running averages maintained by 538 ( 49.3%) and Real Clear Politics ( 49.6% ). (Hat tip to Politico's Playbook for first noting it!"
+    publishedDateTime: 2021-08-18T22:21:00Z
+    webUrl: "https://www.wthitv.com/content/national/575122642.html"
+    ampWebUrl: "http://www.wthitv.com/templates/AMP?contentID=575122642"
+    cdnAmpWebUrl: "https://www-wthitv-com.cdn.ampproject.org/c/www.wthitv.com/templates/AMP?contentID=575122642"
+    type: article
+    provider:
+      name: WTHI-TV
+      domain: wthitv.com
+    quality: 75
+    images:
+      - url: "http://media.heartlandtv.com/designimages/wthi-story-default-image-640x380.png"
+        width: 640
+        height: 380
         isCached: true
   - title: "The US secretary of energy explains why Biden won't mandate a switch to electric cars — even though some experts say that's what's needed"
     excerpt: "The US Secretary of Energy says Biden won't enforce the kind of EV mandate that some experts recommend."

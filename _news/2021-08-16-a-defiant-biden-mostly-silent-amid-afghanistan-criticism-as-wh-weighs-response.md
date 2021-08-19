@@ -480,6 +480,22 @@ related:
         width: 3000
         height: 1689
         isCached: true
+  - title: "Joe Biden bets a war-weary America will reward him for leaving Afghanistan"
+    excerpt: "WASHINGTON — President Joe Biden is standing firmly by his decision to withdraw U.S. forces from Afghanistan, despite chaotic scenes of the Taliban rapidly seizing control and the U.S. rushing to airlift diplomats out of the country. Behind his ..."
+    publishedDateTime: 2021-08-19T09:52:00Z
+    webUrl: "https://www.nbcnews.com/politics/joe-biden/joe-biden-bets-war-weary-america-will-reward-him-leaving-n1277104"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1277104"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1277104"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_33/3499768/210817-biden-mb-1912.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden sets Afghanistan pullout"
     excerpt: "Act on the news with POLITICO Pro. — President Joe Biden is set to order all U.S. troops out of Afghanistan by Sept. 11, setting off a fierce debate over who will fill the vacuum. — The nomination of Colin Kahl should be delayed pending a review of new ..."
     publishedDateTime: 2021-04-14T14:01:00Z

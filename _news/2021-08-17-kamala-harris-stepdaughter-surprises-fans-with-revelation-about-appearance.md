@@ -96,6 +96,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Kamala Harris is taunted over planned Vietnam visit as Afghanistan crisis compared to fall of Saigon"
+    excerpt: "KAMALA Harris has been taunted over her planned visit to Vietnam after the crisis in Afghanistan was compared to the fall of Saigon. The vice president is due to visit the country as part of a"
+    publishedDateTime: 2021-08-18T15:01:00Z
+    webUrl: "https://www.the-sun.com/news/3496632/kamala-harris-vietnam-afghanistan-fall-of-saigon/"
+    ampWebUrl: "https://www.the-sun.com/news/3496632/kamala-harris-vietnam-afghanistan-fall-of-saigon/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3496632/kamala-harris-vietnam-afghanistan-fall-of-saigon/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 60
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/NA-Kamala-Vietnam-offplatform.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Harris' spouse to represent US at Paralympic Games in Tokyo"
     excerpt: "Doug Emhoff, the spouse of Vice President Kamala Harris, is taking his first solo trip abroad and will lead a delegation to the Paralympic Games in Tokyo"
     publishedDateTime: 2021-08-10T13:02:00Z
@@ -149,6 +165,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Kamala Harris' visit to Southeast Asia to improve ties in the region"
+    excerpt: "This coming week would be US Vice President Kamala Harriss visits to Vietnam and Singapore as her second overseas engagement as vice president. Experts believe that her upcoming visits to the Southeast Asian region"
+    publishedDateTime: 2021-08-19T09:03:00Z
+    webUrl: "https://www.econotimes.com/Kamala-Harris-visit-to-Southeast-Asia-to-improve-ties-in-the-region-1615390"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 55
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/2021081932b38afad0e4db617_th_1024x0.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Vice President Kamala Harris visits Unity Health Care's Brentwood Health Center"
     excerpt: "U.S. Vice President Kamala Harris speaks about health care affordability at Unity Health Care's Brentwood Health Center on Tuesday, August 10, 20010 in Washington, DC. Photo by Oliver Contreras/UPI"
     publishedDateTime: 2021-08-10T18:13:00Z
@@ -173,6 +203,6 @@ related:
       domain: c-span.org
     quality: 13
 
-secured: "Jajrm2FE5upn8YqvNNFgpbbYjw2/aHqKJBiIQvKnuABdY7mL1guXn1fK+j2da29dXJAS1LdakpMG69aRrEHewposfmUax+U0YqJLvUZ0ap4ueyxowiZh2eTtgJGPM2rocJAzhxPrDXiNhURtx6s7llepRKzJHIWS/I8GwsIcQPAXVgvtnkef8+8edqR6xW/ZP1MIzWSzIby8CjJLYcZU7WXI2GaxM2gbkyDZh+TaPurt1V1P/XK+is6UWPsw+UQi77aty8tE6zZGFThHNimtXKw3MiTCcB++9vzc3RqtGOP6FX3peId+7k1DraWHzuZdmLhXUCagsPZclUPpnLf4owFyMDw9ykeF1aifJQerwPU=;WChVLiRObwR7gf3Plc5tkg=="
+secured: "TfkZM4i40RdGsV4e6IpmnFKa5dnatF0KnqOmaGE2oXq90tNUuJavs6veNiqWuU37CXHWIMCPpBijsNMD3LVXSi0Dm+qxHNn0rzLlT0PLtmss64OqqGIuR2RVQQZuenn64/yOX9VnS3rj9Z3AIgeIenuT2e6D7+9Cy5o+MTx3sLj/oEGK/9V/mxd737sngBFsOvcSy1Q40nOaVhykwLcX4gyd/Wlps60DgBETvhsj8YQ4xm7+PYQQ2FLqoJ46PtMCgMVIChwu10CR6TLdsWmJ2iSPZ/SKAuLuczq5Bm1rmNcBasGH2h4FLJ/XtqNVnmSErsSUEGcfsOrLuJbTd38549N1PzBE/NQAq+0XaPbocY+4uJJrCHswBG1FQ/mqVUCt+PFMT/C9bm93Fs2DvUl2DIJAE5p7QDY9iXOMJD3K4vwivFqQ/VmjRV4G9f4msstk/0WQM8HHvUkE3n4dik0oNbrqCRPcLSi7nF7eVFWamccyQlyJvtgF5lPVM3M2GXffgTc6q2UxZlhlEXhL42MdlA==;Pbc7LSxvWTimOnMt+ao6hQ=="
 ---
 

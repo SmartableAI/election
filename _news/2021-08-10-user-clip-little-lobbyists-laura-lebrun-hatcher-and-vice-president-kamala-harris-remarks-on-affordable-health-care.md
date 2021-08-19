@@ -104,6 +104,22 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Kamala Harris is taunted over planned Vietnam visit as Afghanistan crisis compared to fall of Saigon"
+    excerpt: "KAMALA Harris has been taunted over her planned visit to Vietnam after the crisis in Afghanistan was compared to the fall of Saigon. The vice president is due to visit the country as part of a"
+    publishedDateTime: 2021-08-18T15:01:00Z
+    webUrl: "https://www.the-sun.com/news/3496632/kamala-harris-vietnam-afghanistan-fall-of-saigon/"
+    ampWebUrl: "https://www.the-sun.com/news/3496632/kamala-harris-vietnam-afghanistan-fall-of-saigon/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3496632/kamala-harris-vietnam-afghanistan-fall-of-saigon/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 60
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/NA-Kamala-Vietnam-offplatform.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Harris' spouse to represent US at Paralympic Games in Tokyo"
     excerpt: "Doug Emhoff, the spouse of Vice President Kamala Harris, is taking his first solo trip abroad and will lead a delegation to the Paralympic Games in Tokyo"
     publishedDateTime: 2021-08-10T13:02:00Z
@@ -154,6 +170,20 @@ related:
     quality: 55
     images:
       - url: "https://s1.econotimes.com/assets/uploads/202108184e0297f5d44477942_th_1024x0.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Kamala Harris' visit to Southeast Asia to improve ties in the region"
+    excerpt: "This coming week would be US Vice President Kamala Harriss visits to Vietnam and Singapore as her second overseas engagement as vice president. Experts believe that her upcoming visits to the Southeast Asian region"
+    publishedDateTime: 2021-08-19T09:03:00Z
+    webUrl: "https://www.econotimes.com/Kamala-Harris-visit-to-Southeast-Asia-to-improve-ties-in-the-region-1615390"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 55
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/2021081932b38afad0e4db617_th_1024x0.jpg"
         width: 800
         height: 533
         isCached: true

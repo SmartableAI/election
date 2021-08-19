@@ -217,6 +217,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Joe Biden is facing a crisis of competence"
+    excerpt: "At the heart of Joe Biden's 2020 presidential campaign was a single word: competence. After four years of Donald Trump's incompetence in, well, everything, the Biden argument was that the country badly needed a steady hand on the tiller -- someone who had been there and done that."
+    publishedDateTime: 2021-08-16T15:21:00Z
+    webUrl: "https://www.wthitv.com/content/national/575106612.html"
+    ampWebUrl: "http://www.wthitv.com/templates/AMP?contentID=575106612"
+    cdnAmpWebUrl: "https://www-wthitv-com.cdn.ampproject.org/c/www.wthitv.com/templates/AMP?contentID=575106612"
+    type: article
+    provider:
+      name: WTHI-TV
+      domain: wthitv.com
+    quality: 75
+    images:
+      - url: "http://media.heartlandtv.com/designimages/wthi-story-default-image-640x380.png"
+        width: 640
+        height: 380
+        isCached: true
   - title: "Livestream: Joe Biden to speak about Afghanistan after Taliban takeover"
     excerpt: "The president was expected to address the nation from the White House at 3:45 p.m. Watch live on Boston.com."
     publishedDateTime: 2021-08-16T23:25:00Z

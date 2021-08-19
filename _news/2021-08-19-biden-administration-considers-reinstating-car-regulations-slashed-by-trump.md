@@ -2208,6 +2208,22 @@ related:
         width: 5297
         height: 3531
         isCached: true
+  - title: "Was Biden handcuffed by Trump's Taliban deal in Doha?"
+    excerpt: "President Joe Biden is pointing to the agreement signed in Doha, Qatar, as he tries to deflect blame for the Taliban overrunning Afghanistan in a blitz. He says it bound him to withdraw U.S. troops, setting the stage for the chaos engulfing the country."
+    publishedDateTime: 2021-08-19T13:14:00Z
+    webUrl: "https://www.seattlepi.com/news/article/Was-Biden-handcuffed-by-Trump-s-Taliban-deal-in-16396943.php"
+    ampWebUrl: "https://www.seattlepi.com/news/amp/Was-Biden-handcuffed-by-Trump-s-Taliban-deal-in-16396943.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Was-Biden-handcuffed-by-Trump-s-Taliban-deal-in-16396943.php"
+    type: article
+    provider:
+      name: seattlepi.com
+      domain: seattlepi.com
+    quality: 90
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Wendy Davis, others sue Trump supporters over 'Trump Train' harassing Biden bus in Texas"
     excerpt: "A group of people traveling on a President Joe Biden campaign bus on a Texas highway last fall when it was surrounded and followed by former President Donald Trump’s supporters have filed a lawsuit against at least seven people who allegedly were following the bus,"
     publishedDateTime: 2021-06-24T21:00:00Z

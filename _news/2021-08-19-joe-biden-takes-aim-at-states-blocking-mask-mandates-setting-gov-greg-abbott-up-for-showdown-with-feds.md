@@ -1,32 +1,48 @@
 ---
 category: news
-title: "Joe Biden takes aim at states blocking mask mandates, setting Gov. Greg Abbott up for showdown with feds"
+title: "Joe Biden Takes Aim At States Blocking Mask Mandates, Setting Gov. Greg Abbott Up For Showdown With Feds"
 excerpt: "Biden said he will use the U.S. Department of Education’s civil rights enforcement authority to deter states from blocking mask mandates in classrooms."
-publishedDateTime: 2021-08-18T22:31:00Z
-originalUrl: "https://www.texastribune.org/2021/08/18/greg-abbott-joe-biden-texas-mask-mandates/"
-webUrl: "https://www.texastribune.org/2021/08/18/greg-abbott-joe-biden-texas-mask-mandates/"
-ampWebUrl: "https://www.texastribune.org/2021/08/18/greg-abbott-joe-biden-texas-mask-mandates/amp/"
-cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/08/18/greg-abbott-joe-biden-texas-mask-mandates/amp/"
+publishedDateTime: 2021-08-19T12:38:00Z
+originalUrl: "https://www.houstonpublicmedia.org/articles/news/politics/2021/08/19/406397/joe-biden-takes-aim-at-states-blocking-mask-mandates-setting-gov-greg-abbott-up-for-showdown-with-feds/"
+webUrl: "https://www.houstonpublicmedia.org/articles/news/politics/2021/08/19/406397/joe-biden-takes-aim-at-states-blocking-mask-mandates-setting-gov-greg-abbott-up-for-showdown-with-feds/"
+ampWebUrl: "https://www.houstonpublicmedia.org/articles/news/politics/2021/08/19/406397/joe-biden-takes-aim-at-states-blocking-mask-mandates-setting-gov-greg-abbott-up-for-showdown-with-feds/amp/"
+cdnAmpWebUrl: "https://www-houstonpublicmedia-org.cdn.ampproject.org/c/s/www.houstonpublicmedia.org/articles/news/politics/2021/08/19/406397/joe-biden-takes-aim-at-states-blocking-mask-mandates-setting-gov-greg-abbott-up-for-showdown-with-feds/amp/"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: -1
+published: false
 
 provider:
-  name: Texas Tribune
-  domain: texastribune.org
+  name: Houston Public Media
+  domain: houstonpublicmedia.org
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://thumbnails.texastribune.org/QCGScGkOdgn7z6M7CjbTbiaZvo4=/1200x630/filters:quality(95)/static.texastribune.org/media/files/0825c12ccde17a1e73e5eb5a698491d2/Biden%20COVID%20REUTERS%20TT.jpg"
-    width: 1200
-    height: 630
+  - url: "https://cdn.hpm.io/wp-content/uploads/2021/08/19073712/AP21230761435558-1000x667.jpg"
+    width: 1000
+    height: 667
     isCached: true
 
 related:
+  - title: "Joe Biden takes aim at states blocking mask mandates, setting Gov. Greg Abbott up for showdown with"
+    excerpt: "Texas Gov. Greg Abbott may soon be fighting a war on two fronts — with local officials and the federal government — to stave off mandatory COVID-19 prevention efforts after the Biden administration announced Wednesday it was going after states like Texas that try to ban universal masking at schools."
+    publishedDateTime: 2021-08-19T02:36:00Z
+    webUrl: "https://www.expressnews.com/news/local/article/Joe-Biden-takes-aim-at-states-blocking-mask-16396786.php"
+    ampWebUrl: "https://www.expressnews.com/news/local/amp/Joe-Biden-takes-aim-at-states-blocking-mask-16396786.php"
+    cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/local/amp/Joe-Biden-takes-aim-at-states-blocking-mask-16396786.php"
+    type: article
+    provider:
+      name: San Antonio Express-News
+      domain: expressnews.com
+    quality: 61
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/40/57/21367760/3/400x0.jpg"
+        width: 400
+        height: 266
+        isCached: true
   - title: "Rick Scott doubles down on calls to remove Joe Biden from office"
     excerpt: "Rick Scott reiterated Tuesday that the time had come to consider removing President Joe Biden from office under provisions of the 25th Amendment to the U.S. Constitution. The Senator had made that call on Monday via press release,"
     publishedDateTime: 2021-08-17T13:00:00Z
@@ -42,6 +58,6 @@ related:
         height: 457
         isCached: true
 
-secured: "1153E0DAwxhCIiMJ3VE0Fri8JjeDo+kM3FQy1HWlqjWH4EDqO9xxERi1fFk9iUKl0neHHTP1v36yOIrNZ05AP5I8EDHaimHFGOyYeq7pmCuqOHS5OuiUwFO8srjMgO4ahaAo1qpirmT3350ffXxNz5o2A+UnvNZefrrZlIivcXmKNseQxIJ+u19OAsx5lEPCNxpRothuHIityE7C12NJ5/hxY1qir9u1n2ZkNQwbms4X/+AfrGbH3fNGN8TDxCHMdJQgYOW0vCJ1LE8AibKx9RwAfJCGgWLFKimF6fbPNnExH5gsWfrhjB2s3e39cocZCUGABavZiKQx2MiiSZHtUhAkqVmLbS6gSnyEOJNAG4xwjZ7I/lKkv6qXowZfK1fIrVPH6hFD+k1lvnvjtf2OgkkGxFWsHV9whFB6eUa8wvAOhzmKgogJo+D0u3ROumSUpD+4l7FCTkGsfhCnubrzGGrlSPLi5bRf8qRB7cGEjBYPozUBxCnNUOlCNB5xycsdnyHcSFU8VJo9cUg138KdVg==;VLlwo5zfoHvpDnF8l8xCcg=="
+secured: "1qZdhOpZ76EUmrGg5As6pltxxDwON/ZpfZQV/Islhboofu4ZLL9HvO8+ckyujgKEYHf1/Ws/qEmJ6ZjumFBGsowdDtBHZ8MppVWWCOUay4z5Cvrsu0N4yPvV3HMsZesRjOaJlqzrV9e62yhFZ07P7viclAl2yuccoebcAkORP9Pbpz6FTqhdI+n7VNfFblCpSCtRJzPp+Atn0dhLXq34HgxqzjcKbjz6oLHd0STeyT4NL4sXDl1hpOLWlhfs+BhCwT9kFn5YMJ3aabwSS60aSYekTj9Sysy5XJs/szgD8dGSHFhYcXkSmH5UFv34deeYmMI3dypD/7NiDby7Y/a33PgAv9tMhI0XPvZqc3Z4SFE=;q3LTsdPtT/wECYVF1LkAfg=="
 ---
 

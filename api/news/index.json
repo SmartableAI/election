@@ -149,21 +149,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-19-joe-biden-takes-aim-at-states-blocking-mask-mandates-setting-gov-greg-abbott-up-for-showdown-with-feds.md",
-      "title": "Joe Biden takes aim at states blocking mask mandates, setting Gov. Greg Abbott up for showdown with feds",
-      "excerpt": "Biden said he will use the U.S. Department of Education’s civil rights enforcement authority to deter states from blocking mask mandates in classrooms.",
+      "path": "_news/2021-08-19-joe-biden-takes-aim-at-states-blocking-mask-mandates-setting-gov-greg-abbott-up-for-showdown-with.md",
+      "title": "Joe Biden takes aim at states blocking mask mandates, setting Gov. Greg Abbott up for showdown with",
+      "excerpt": "Texas Gov. Greg Abbott may soon be fighting a war on two fronts — with local officials and the federal government — to stave off mandatory COVID-19 prevention efforts after the Biden administration announced Wednesday it was going after states like Texas that try to ban universal masking at schools.",
       "sourceUrl": null,
-      "webUrl": "https://www.texastribune.org/2021/08/18/greg-abbott-joe-biden-texas-mask-mandates/",
-      "originalUrl": "https://www.texastribune.org/2021/08/18/greg-abbott-joe-biden-texas-mask-mandates/",
+      "webUrl": "https://www.expressnews.com/news/local/article/Joe-Biden-takes-aim-at-states-blocking-mask-16396786.php",
+      "originalUrl": "https://www.expressnews.com/news/local/article/Joe-Biden-takes-aim-at-states-blocking-mask-16396786.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 101,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbnails.texastribune.org/QCGScGkOdgn7z6M7CjbTbiaZvo4=/1200x630/filters:quality(95)/static.texastribune.org/media/files/0825c12ccde17a1e73e5eb5a698491d2/Biden%20COVID%20REUTERS%20TT.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://s.hdnux.com/photos/01/21/40/57/21367760/3/400x0.jpg",
+          "width": 400,
+          "height": 266,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -171,13 +171,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.texastribune.org/2021/08/18/greg-abbott-joe-biden-texas-mask-mandates/amp/",
-      "cdnAmpWebUrl": "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/08/18/greg-abbott-joe-biden-texas-mask-mandates/amp/",
-      "publishedDateTime": "2021-08-18T15:31:00-07:00",
+      "ampWebUrl": "https://www.expressnews.com/news/local/amp/Joe-Biden-takes-aim-at-states-blocking-mask-16396786.php",
+      "cdnAmpWebUrl": "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/local/amp/Joe-Biden-takes-aim-at-states-blocking-mask-16396786.php",
+      "publishedDateTime": "2021-08-18T19:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Texas Tribune",
-        "domain": "texastribune.org",
+        "name": "San Antonio Express-News",
+        "domain": "expressnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -356,7 +356,7 @@
       "originalUrl": "https://abcnews.go.com/US/trump-family-friend-associate-ken-kurson-arrested-cyber/story?id=79507632",
       "featuredContent": null,
       "highlight": null,
-      "heat": 201,
+      "heat": 221,
       "tags": null,
       "images": [
         {
@@ -617,6 +617,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-18-joe-biden-furious-with-barack-obama-over-pandemic-birthday-bash.md",
+      "title": "Joe Biden Furious With Barack Obama Over Pandemic Birthday Bash?",
+      "excerpt": "Are President Joe Biden and former President Barack Obama locked in a bitter feud over Obama's 60th birthday bash? One tabloid insists the prideful",
+      "sourceUrl": null,
+      "webUrl": "https://www.gossipcop.com/joe-biden-furious-with-barack-obama-over-pandemic-birthday-bash/2570136/",
+      "originalUrl": "https://www.gossipcop.com/joe-biden-furious-with-barack-obama-over-pandemic-birthday-bash/2570136/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://upload.gossipcop.com/gc/uploads/2021/08/Untitled-design-71.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gossipcop.com/joe-biden-furious-with-barack-obama-over-pandemic-birthday-bash/2570136/?amp",
+      "cdnAmpWebUrl": "https://www-gossipcop-com.cdn.ampproject.org/c/s/www.gossipcop.com/joe-biden-furious-with-barack-obama-over-pandemic-birthday-bash/2570136/?amp",
+      "publishedDateTime": "2021-08-18T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gossip Cop",
+        "domain": "gossipcop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-18-kamala-harris-plans-vietnam-visit-just-as-afghanistan-draws-comparisons-to-fall-of-saigon.md",
       "title": "Kamala Harris plans Vietnam visit – just as Afghanistan draws comparisons to fall of Saigon",
       "excerpt": "Kamala Harris’ planned trip to Vietnam next week comes as the current crisis in Afghanistan has drawn comparisons to the fall of Saigon in the 1970s.",
@@ -671,6 +714,49 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-08-18-joe-biden-said-america-is-back-pity-it-doesnt-have-your-back.md",
+      "title": "Joe Biden said: ‘America is back.’ Pity it doesn’t have your back…",
+      "excerpt": "REMEMBER when Joe Biden was installed as President of the United States? Remember all the thrills and ”hosannas” from the liberal Left? At last America had done the right thing, they said. They",
+      "sourceUrl": null,
+      "webUrl": "https://www.the-sun.com/news/3493266/joe-biden-america-doesnt-have-your-back/",
+      "originalUrl": "https://www.the-sun.com/news/3493266/joe-biden-america-doesnt-have-your-back/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/tp-composite-douglas-murray-new-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.the-sun.com/news/3493266/joe-biden-america-doesnt-have-your-back/amp/",
+      "cdnAmpWebUrl": "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3493266/joe-biden-america-doesnt-have-your-back/amp/",
+      "publishedDateTime": "2021-08-17T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun",
+        "domain": "the-sun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -742,7 +828,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 170,
+      "heat": 190,
       "tags": null,
       "images": [
         {
@@ -967,7 +1053,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1010,
+      "heat": 1030,
       "tags": null,
       "images": [
         {
@@ -1220,101 +1306,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-rashida-tlaib-stands-by-call-for-trump-impeachment-despite-backlash.md",
-      "title": "Rashida Tlaib stands by call for Trump impeachment despite backlash",
-      "excerpt": "Rep. Rashida Tlaib on Friday refused to back down from her controversial call to impeach President Trump, despite mounting criticism. Ms. Tlaib told a crowd hours after being sworn in Thursday night that Democrats would go after the president.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/rashida-tlaib-impeachments-1f5cf09310702363ba2de9f74712b1ba",
-      "originalUrl": "https://apnews.com/article/rashida-tlaib-impeachments-1f5cf09310702363ba2de9f74712b1ba",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/ShareLogo2.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T07:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-candace-owens-says-joe-biden-hiding-like-a-little-b-as-afghanistan-falls.md",
-      "title": "Candace Owens Says Joe Biden Hiding 'Like a Little B****' as Afghanistan Falls",
-      "excerpt": "The decision to withdraw from Afghanistan was first made under the Trump administration. However, the full withdrawal was carried out under Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/candace-owens-says-joe-biden-hiding-like-little-b-afghanistan-falls-1619586",
-      "originalUrl": "https://www.newsweek.com/candace-owens-says-joe-biden-hiding-like-little-b-afghanistan-falls-1619586",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 261,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1871760/candace-owens-hosting-her-candace-show.jpg",
-          "width": 3391,
-          "height": 2362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/candace-owens-says-joe-biden-hiding-like-little-b-afghanistan-falls-1619586?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/candace-owens-says-joe-biden-hiding-like-little-b-afghanistan-falls-1619586?amp=1",
-      "publishedDateTime": "2021-08-16T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

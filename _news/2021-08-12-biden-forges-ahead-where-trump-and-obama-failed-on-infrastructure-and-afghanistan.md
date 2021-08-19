@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/12/politics/joe-biden-donald-trump-b
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/12/politics/joe-biden-donald-trump-barack-obama-afghanistan-infrastructure/index.html"
 type: article
 quality: 185
-heat: 765
+heat: 785
 published: true
 
 provider:
@@ -462,6 +462,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/05/19/opinion/19scahill/19scahill-videoSixteenByNine3000.jpg"
         width: 3000
         height: 1689
+        isCached: true
+  - title: "Joe Biden bets a war-weary America will reward him for leaving Afghanistan"
+    excerpt: "WASHINGTON — President Joe Biden is standing firmly by his decision to withdraw U.S. forces from Afghanistan, despite chaotic scenes of the Taliban rapidly seizing control and the U.S. rushing to airlift diplomats out of the country. Behind his ..."
+    publishedDateTime: 2021-08-19T09:52:00Z
+    webUrl: "https://www.nbcnews.com/politics/joe-biden/joe-biden-bets-war-weary-america-will-reward-him-leaving-n1277104"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1277104"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1277104"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_33/3499768/210817-biden-mb-1912.JPG"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "A defiant Biden mostly silent amid Afghanistan criticism as WH weighs response"
     excerpt: "Democrats on Capitol Hill and former Obama administration officials joined Republicans over the weekend in publicly criticizing the president’s handling of the situation."

@@ -2195,6 +2195,22 @@ related:
         width: 5297
         height: 3531
         isCached: true
+  - title: "Was Biden handcuffed by Trump's Taliban deal in Doha?"
+    excerpt: "President Joe Biden is pointing to the agreement signed in Doha, Qatar, as he tries to deflect blame for the Taliban overrunning Afghanistan in a blitz. He says it bound him to withdraw U.S. troops, setting the stage for the chaos engulfing the country."
+    publishedDateTime: 2021-08-19T13:14:00Z
+    webUrl: "https://www.seattlepi.com/news/article/Was-Biden-handcuffed-by-Trump-s-Taliban-deal-in-16396943.php"
+    ampWebUrl: "https://www.seattlepi.com/news/amp/Was-Biden-handcuffed-by-Trump-s-Taliban-deal-in-16396943.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Was-Biden-handcuffed-by-Trump-s-Taliban-deal-in-16396943.php"
+    type: article
+    provider:
+      name: seattlepi.com
+      domain: seattlepi.com
+    quality: 90
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Biden administration considers reinstating car regulations slashed by Trump"
     excerpt: "The National Highway Administration is considering reinstating regulations slashed in the last days of the Trump administration."
     publishedDateTime: 2021-08-18T17:52:00Z

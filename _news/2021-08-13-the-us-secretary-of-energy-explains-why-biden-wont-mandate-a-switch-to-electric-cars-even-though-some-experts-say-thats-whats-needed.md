@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden's political honeymoon is officially over"
+    excerpt: "The shine has worn off Joe Biden. His average approval ratings is now below 50% in the running averages maintained by 538 ( 49.3%) and Real Clear Politics ( 49.6% ). (Hat tip to Politico's Playbook for first noting it!"
+    publishedDateTime: 2021-08-18T22:21:00Z
+    webUrl: "https://www.wthitv.com/content/national/575122642.html"
+    ampWebUrl: "http://www.wthitv.com/templates/AMP?contentID=575122642"
+    cdnAmpWebUrl: "https://www-wthitv-com.cdn.ampproject.org/c/www.wthitv.com/templates/AMP?contentID=575122642"
+    type: article
+    provider:
+      name: WTHI-TV
+      domain: wthitv.com
+    quality: 75
+    images:
+      - url: "http://media.heartlandtv.com/designimages/wthi-story-default-image-640x380.png"
+        width: 640
+        height: 380
+        isCached: true
   - title: "Fresno Mayor Jerry Dyer will meet Wednesday with Joe Biden. Here’s what they’ll discuss"
     excerpt: "Fresno Mayor Jerry Dyer will meet virtually with President Joe Biden and other leaders nationwide on Wednesday to discuss bipartisan infrastructure investment, White House officials confirmed. The meeting comes one day after Senate Democrats and Republicans came together to approve a $1 trillion infrastructure bill."
     publishedDateTime: 2021-08-10T22:59:00Z

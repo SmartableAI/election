@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact-checking Biden's claim that Afghans didn't want to leave"
+    excerpt: "The Biden administration has been working to mitigate the fallout from the situation in Afghanistan after the Taliban's surprisingly swift takeover of the country. As scenes of Afghans desperate to leave went viral, President Joe Biden announced Monday that the US military will provide assistance to"
+    publishedDateTime: 2021-08-19T13:27:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iHSRoWnR154/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/biden-afghan-visa-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/biden-afghan-visa-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210818080453-05-afghanistan-0818-kabul-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's new eviction moratorium can remain in place for now, judge rules"
     excerpt: "A federal judge in Washington, DC, on Friday allowed the Biden administration's revised eviction moratorium to remain in place, but acknowledged the moratorium faces an uncertain legal future.\n    \n"
     publishedDateTime: 2021-08-13T17:48:01Z

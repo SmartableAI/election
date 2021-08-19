@@ -107,6 +107,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Ron DeSantis calls Joe Biden ‘obsessed’ with masking kindergarteners amid Afghanistan crisis"
+    excerpt: "Ron DeSantis says President Joe Biden is “obsessed” with masking children with schools after the President leveled another attack admonishment against Republican governors blocking local mask orders."
+    publishedDateTime: 2021-08-19T02:11:00Z
+    webUrl: "https://floridapolitics.com/archives/451535-ron-desantis-calls-joe-biden-obsessed-with-masking-kindergarteners-amid-afghanistan-crisis/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 44
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/08/Ron-DeSantis-AP.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Anna Paulina Luna addresses troops, Amanda Makki calls for Joe Biden resignation in response to Afghanistan crisis"
     excerpt: "Florida’s 13th Congressional District GOP candidates Amanda Makki and Anna Paulina Luna are responding to the fall of Kabul to Taliban control after American troops were pulled from Afghanistan. The candidates,"
     publishedDateTime: 2021-08-17T16:29:00Z

@@ -1690,6 +1690,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 48
+  - title: "US: Biden, Kamala Harris briefed by national security team on Afghan situation"
+    excerpt: "US President Joe Biden and Vice President Kamala Harris were briefed by the national security team on the evolving situation in Afghanistan on Wednesday morning, according to a White House official. Besides Biden and Harris,"
+    publishedDateTime: 2021-08-19T08:15:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/World/20210819/3805328.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 46
   - title: "LIVE: Minnesota Gov. Tim Walz joins other governors to discuss wildfires with President Joe Biden, Vice President Kamala Harris"
     excerpt: "Minnesota Gov. Tim Walz will join six other governors in a discussion on wildfires with President Joe Biden and Vice President Kamala Harris at 10:45 a.m. Watch a stream here."
     publishedDateTime: 2021-07-30T15:15:00Z
@@ -1732,6 +1741,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "80UbmE+qc0Jm6pqkOmHJ35ZaTnRNlKSWv3LyKzplfBJPp0OsHjAm8tKDP1rEMQbqSmnnBKgQscTff5KymqcFdpBYvZdz2+0FIxNejzzwK5XpRQbWjMXnHRY/bvvd8qrppzmv+D7npr4CTIgSdrlrhzsAzAe1wjMykYHTTOWCyTUAfNaHcSzDQwJE0/wVnYYXdEzT0i5XEIkUwzRFMaj4mijhucrn4kG7zQFq3plefh3HINkbRDY1Q+s+akyJxtsErz/d8/zjq+qY1W39G5glKedIlN9pU4dSnqhi1FCajXvllZGFIwyDKP67dBYn5JcPzHr0pwNHhUt2hHnoYZXfs0Ro5Y2mJauwClhjMjpVb4Y=;zF2PqAKsYQl4NIjCHgR1FQ=="
+secured: "rFEsEjTdtvWz7cVGryt6j5RDaaWx3bGzkBgh7DR//wVTL3NFKnHprKg7q4/BKyOdhv4amu4WiX9UFExLJNiqhY7zG2evRZwaD+vM3JEVrlXcNpVzyWwQSFf3sJwTgnlYSQe0u7ihBRE8tvFYxmpfWZb6PcBnDOPoYnv4A2nyDA77jDmHIk89BsUY25CKjSCaew/VK+SpGfwDpkTjPAxn1bJ3xjsKjpw60nuWmO6ksjbh+tuhZ3Oi8VGElkecb7PAM71g69wjqMgbER7+DhM4XFv1XdVwP+H4ri+9YsRzdlcHeTPZKYr7zNgeySHqcFonLV6/OeDM2JYPKCms4YpJUdTaWVgDuRm7XOW9VU+IlTHZ8HLSUcBZmLGslMYNowY2QLTV7UtliBwA+fUydSQg5ONAuTy2z37tEM5ipxLa3iMEXoDRi6XThXbu+gE2xe+fJuy/H9O4AR1sIXxmvBDc74oVzEfx+EGnJBqSSdR1nJ4gwpe2sMluwmGtFTFiG1+R5uHK2GL68mgHcu8Vzzyysw==;ZWrFEiToHfERuX1tqDlJaw=="
 ---
 

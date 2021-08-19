@@ -89,6 +89,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Kushner friend, pardoned by Trump, now faces state charges in New York"
+    excerpt: "Ken Kurson, a friend of Jared Kushner who was pardoned by President Donald Trump in a cyberstalking case, now faces state cyberstalking charges in New York. Prosecutors say Kurson hacked his then-wife's online accounts and sent threatening messages during their divorce proceedings."
+    publishedDateTime: 2021-08-19T12:23:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/aug/18/kushner-friend-pardoned-trump-now-faces-state-char/?appnews"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2021/08/18/AP20297783355729_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 419
+        isCached: true
 
 secured: "fU/ul3qPViHf8yEaI3HhZhhrZlmZt4qa0ds5skdULvmo1hdJL0G5leMQ7tM1w9ikTqmhnHLhmNOT+m4bVpnX3OvRG/zf1hJxkG/p76RH3+2gfdyw28MVLNgaRE57mso/fBNcpiBgpKC5NoRgXFrpUAp/BaNBAUO7p49dshI8AXiSA/j8GmCh4S5DiRFGBnBH/HKfVyTX4WKwk2LEOUqpqfwq9F6YGmH9EDf1ae4LAVhKsU1uFNel1t8oCXVN6hXuS6QGGz/iaVDc+N/+GTdXrh+tJMZnCzBqPrnpC3wYRDcujWyiSxtB1+tRAfNuOhC3TgtzlqCmCNxXbFvz4VnhHaSKm7RCALx6okx/BxdDiDQ=;hqdw4A91IwegZM7lLD13Og=="
 ---

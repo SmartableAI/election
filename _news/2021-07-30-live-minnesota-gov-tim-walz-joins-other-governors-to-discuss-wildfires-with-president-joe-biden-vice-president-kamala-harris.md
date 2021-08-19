@@ -1704,6 +1704,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 48
+  - title: "US: Biden, Kamala Harris briefed by national security team on Afghan situation"
+    excerpt: "US President Joe Biden and Vice President Kamala Harris were briefed by the national security team on the evolving situation in Afghanistan on Wednesday morning, according to a White House official. Besides Biden and Harris,"
+    publishedDateTime: 2021-08-19T08:15:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/World/20210819/3805328.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 46
   - title: "Kamala Harris to Speak With Guatemalan President on Monday: Axios"
     excerpt: "U.S. Vice President Kamala Harris will meet virtually on Monday with Guatemalan President Alejandro Giammattei to discuss solutions to the surge of migration, Axios reported on Wednesday, citing a senior White House official."
     publishedDateTime: 2021-04-22T01:02:00Z

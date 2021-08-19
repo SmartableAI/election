@@ -37,6 +37,20 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Local Democrats hope Joe Biden will fulfill promise to forgive (at least some) student loans"
+    excerpt: "President Joe Biden’s administration announced last week that it will extend the pause on federal student loan payments one last time, until January 31 st. The president is also on record as saying he supports cancelling $10,"
+    publishedDateTime: 2021-08-11T22:04:00Z
+    webUrl: "https://www.baynews9.com/fl/tampa/news/2021/08/11/local-democrats-hope-joe-biden-will-cancel-some-student-debt"
+    type: article
+    provider:
+      name: Bay News 9
+      domain: baynews9.com
+    quality: 44
+    images:
+      - url: "https://s7d2.scene7.com/is/image/TWCNews/cesar_hernandez-crop"
+        width: 1280
+        height: 721
+        isCached: true
 
 secured: "HJsFIMLE3Rm1kz45NoP6cjD8PKTM/TgeSV/OoIIKV0HpWsjo+hK1qWqwk5kTPeQSCL/zDMQ6Tflwe+SYnm0jiDE3KTDiqlHA80bUF03GOocDEVqZuVviBBepETaNcr+FVmwV9MfehrKUG1gZT5stpPZj4ZZ8sGKbRkG9FVgDh6Jvy9sbpfp1yJmACEifpDI3rQrBAF9FWsZqeiwu6MXQPozlMRGs3rvh6NjOpWdj/WLq5BSExEj6sZEpwSB1amtv66tWTEr56rcAxBgwsjPtWLnlj34352pk+SdYbWI5FY5tk5z4pc5VFJgM8OOlxl46Z/BMTtt/xKee0MGL8PLm8fwnvEowI8xZ0AyrHmI0FM4=;CmFZ9wHuIw7KosM5tuznwA=="
 ---

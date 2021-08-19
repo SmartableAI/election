@@ -383,6 +383,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Amid Afghanistan chaos, Biden asks for 'legal actions' against governors who ban mask mandates"
+    excerpt: "President Biden on Wednesday said he's asking Education Secretary Miguel Cardona to go after states with bans on mask mandates in schools, up to and including taking \"legal action\" against them, even as a crisis rages on in Afghanistan."
+    publishedDateTime: 2021-08-19T12:20:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wMPIvIkV_34/biden-afghanistan-school-mask-mandate-governors-legal-action-cardona-department-education"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-afghanistan-school-mask-mandate-governors-legal-action-cardona-department-education.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-afghanistan-school-mask-mandate-governors-legal-action-cardona-department-education.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden hit with bipartisan criticism over Afghanistan debacle: 'Our dire warnings fell on deaf ears'"
     excerpt: "President Biden is the target of relentless criticism for his handling of the military drawdown from Afghanistan, which has resulted in a swift Taliban takeover of the nation, the abandonment of the American embassy and desperate scenes at the Kabul airport."
     publishedDateTime: 2021-08-17T15:41:32Z

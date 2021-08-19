@@ -93,6 +93,20 @@ related:
         width: 1024
         height: 662
         isCached: true
+  - title: "Ron DeSantis calls Joe Biden ‘obsessed’ with masking kindergarteners amid Afghanistan crisis"
+    excerpt: "Ron DeSantis says President Joe Biden is “obsessed” with masking children with schools after the President leveled another attack admonishment against Republican governors blocking local mask orders."
+    publishedDateTime: 2021-08-19T02:11:00Z
+    webUrl: "https://floridapolitics.com/archives/451535-ron-desantis-calls-joe-biden-obsessed-with-masking-kindergarteners-amid-afghanistan-crisis/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 44
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/08/Ron-DeSantis-AP.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Yes, former President Trump made a deal with the Taliban to pull US troops out of Afghanistan by May 2021"
     excerpt: "Former President Donald Trump made a deal to remove U.S. forces by May 2021, and Biden extended the withdrawal deadline to Sept. 11. 2021"
     publishedDateTime: 2021-08-17T22:32:00Z

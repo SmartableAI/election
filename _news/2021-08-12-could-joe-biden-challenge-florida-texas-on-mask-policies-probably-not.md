@@ -41,6 +41,20 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Joe Biden takes aim at Texas blocking mask mandates"
+    excerpt: "By James Barragán, The Texas Tribune Texas Gov. Greg Abbott may soon be fighting a war on two fronts — with local officials and the federal government — to stave off mandatory COVID-19 prevention efforts after the Biden administration announced Wednesday it was going after states like Texas that try to ban universal masking at"
+    publishedDateTime: 2021-08-19T09:12:00Z
+    webUrl: "https://www.crosstimbersgazette.com/2021/08/18/joe-biden-takes-aim-at-texas-blocking-mask-mandates/"
+    type: article
+    provider:
+      name: The Cross Timbers Gazette
+      domain: crosstimbersgazette.com
+    quality: 55
+    images:
+      - url: "https://www.crosstimbersgazette.com/crosstimbersgazette/wp-content/uploads/2021/08/biden.jpg"
+        width: 848
+        height: 570
+        isCached: true
 
 secured: "NisWAlbIvfBqo2egAY07xCvj8Bw1+7OT6PwJnLC2jdAv9P67C8reZ0/6sj0HPd7JRP1o1W0/yGMTWDaimkFi4qaE4F71VOQ4K/JT+gkt2KF7JZnYHW9nFfRQfJAyJFIQc4wXzHEjKr5WyDXa3daRwcUdA6Hn1uCEXOholIL/Ttlr8SeiayKrFq0v8brHJW4xbJq9xt5aerbHsZAZ1x733CFXR10JP3Etb8lD6OgU3jlGCCkU0HVbjn/1KPrNDiXMnaCB3mS7R6nM+lzrGkbQK9AIHugiwilDdzEL8ey1ZY5QTZ/xNFetOfpgyVO8YVe8xIr8VpvyrXza8y0MxUWzaB3YiPuSZ5dkF2cSIsxcqBo=;DoUPnOkpz20+8m2stQqXiA=="
 ---

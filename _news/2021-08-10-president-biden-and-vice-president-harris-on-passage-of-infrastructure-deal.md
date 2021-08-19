@@ -1689,6 +1689,15 @@ related:
       name: Las Vegas Sun
       domain: lasvegassun.com
     quality: 50
+  - title: "US: Biden, Kamala Harris briefed by national security team on Afghan situation"
+    excerpt: "US President Joe Biden and Vice President Kamala Harris were briefed by the national security team on the evolving situation in Afghanistan on Wednesday morning, according to a White House official. Besides Biden and Harris,"
+    publishedDateTime: 2021-08-19T08:15:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/World/20210819/3805328.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 46
   - title: "LIVE: Minnesota Gov. Tim Walz joins other governors to discuss wildfires with President Joe Biden, Vice President Kamala Harris"
     excerpt: "Minnesota Gov. Tim Walz will join six other governors in a discussion on wildfires with President Joe Biden and Vice President Kamala Harris at 10:45 a.m. Watch a stream here."
     publishedDateTime: 2021-07-30T15:15:00Z

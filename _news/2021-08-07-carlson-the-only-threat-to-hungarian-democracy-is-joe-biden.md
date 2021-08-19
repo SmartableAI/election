@@ -43,6 +43,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Joe Biden's political honeymoon is officially over"
+    excerpt: "The shine has worn off Joe Biden. His average approval ratings is now below 50% in the running averages maintained by 538 ( 49.3%) and Real Clear Politics ( 49.6% ). (Hat tip to Politico's Playbook for first noting it!"
+    publishedDateTime: 2021-08-18T22:21:00Z
+    webUrl: "https://www.wthitv.com/content/national/575122642.html"
+    ampWebUrl: "http://www.wthitv.com/templates/AMP?contentID=575122642"
+    cdnAmpWebUrl: "https://www-wthitv-com.cdn.ampproject.org/c/www.wthitv.com/templates/AMP?contentID=575122642"
+    type: article
+    provider:
+      name: WTHI-TV
+      domain: wthitv.com
+    quality: 75
+    images:
+      - url: "http://media.heartlandtv.com/designimages/wthi-story-default-image-640x380.png"
+        width: 640
+        height: 380
+        isCached: true
   - title: "The US secretary of energy explains why Biden won't mandate a switch to electric cars — even though some experts say that's what's needed"
     excerpt: "The US Secretary of Energy says Biden won't enforce the kind of EV mandate that some experts recommend."
     publishedDateTime: 2021-08-13T09:14:00Z

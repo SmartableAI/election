@@ -513,6 +513,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Did Joe Biden admin fail to prepare for Kabul fall? State dept shut evacuation team months ago"
+    excerpt: "The State Department shut the Trump-era Crisis Response Bureau that would've helped plan a swift evacuation from Kabul after lessons from Benghazi"
+    publishedDateTime: 2021-08-19T02:24:00Z
+    webUrl: "https://meaww.com/state-department-program-ccrb-shut-june-opmed-successor-evacuations"
+    ampWebUrl: "https://meaww.com/amp/state-department-program-ccrb-shut-june-opmed-successor-evacuations"
+    cdnAmpWebUrl: "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/state-department-program-ccrb-shut-june-opmed-successor-evacuations"
+    type: article
+    provider:
+      name: Meaww
+      domain: meaww.com
+    quality: 63
+    images:
+      - url: "https://cheesecake.articleassets.meaww.com/545707/uploads/3fba17d0-008a-11ec-a81a-719e7da32e9a_800_420.jpeg"
+        width: 800
+        height: 420
+        isCached: true
   - title: "Trump told California to sweep the forest floors. What’s Biden’s plan to combat wildfires?"
     excerpt: "Agriculture Secretary Tom Vilsack and Gov. Gavin Newsom stood side by side, in a forest that burned badly a year ago, pledging to work together against California’s raging wildfires."
     publishedDateTime: 2021-08-09T16:26:00Z
@@ -657,6 +673,20 @@ related:
       - url: "https://media.npr.org/assets/img/2021/08/08/gettyimages-1234491481-085b93524935d80a972e93d0d98e909365bdfeae.jpg?s=6"
         width: 948
         height: 711
+        isCached: true
+  - title: "Joe Biden threatens legal action against governors blocking school mask mandates"
+    excerpt: "President Joe Biden says he has ordered his administration to curb bans against mask mandates, even pursuing legal action if necessary. Gov. Ron DeSantis and the Florida Department of Health have issued rules against mask mandates in public schools amid the state’s fourth COVID-19 surge."
+    publishedDateTime: 2021-08-19T01:49:00Z
+    webUrl: "https://floridapolitics.com/archives/451436-joe-biden-threatens-legal-action-against-governors-blocking-school-mask-mandates/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 50
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/08/DeSantis-biden.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "President Biden Meets With Governors and Mayors on Infrastructure"
     excerpt: "President Biden meets with governors and mayors at the White House to discuss the administration’s infrastructure proposals. President Joe Biden touted his administration’s achievements during a Cabinet meeting marking his first six months"

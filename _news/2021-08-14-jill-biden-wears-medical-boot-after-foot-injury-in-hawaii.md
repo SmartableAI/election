@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ctpost.com/news/amp/Jill-Biden-wears-medical-boot-after-
 cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Jill-Biden-wears-medical-boot-after-foot-injury-16385810.php"
 type: article
 quality: 75
-heat: 95
+heat: 115
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 52
+  - title: "Local Democrats hope Joe Biden will fulfill promise to forgive (at least some) student loans"
+    excerpt: "President Joe Biden’s administration announced last week that it will extend the pause on federal student loan payments one last time, until January 31 st. The president is also on record as saying he supports cancelling $10,"
+    publishedDateTime: 2021-08-11T22:04:00Z
+    webUrl: "https://www.baynews9.com/fl/tampa/news/2021/08/11/local-democrats-hope-joe-biden-will-cancel-some-student-debt"
+    type: article
+    provider:
+      name: Bay News 9
+      domain: baynews9.com
+    quality: 44
+    images:
+      - url: "https://s7d2.scene7.com/is/image/TWCNews/cesar_hernandez-crop"
+        width: 1280
+        height: 721
+        isCached: true
 
 secured: "uAwTaBGmgPE7dHOYsDXh/cAsCJlivaQHGidz8ypU4Rd5B+cH+DZIlje3zLxxnrx+JBCpVKX8THSZez8sPPBpWDVNEtvEhZLAwTQlrwxlHrjSSxoq0AWvOvM4BwTUgs9AU+Z9Zt3oG9iyHURnoO9QVAheWT5QREg3ipUgQn3sE8fBOOyiCt7P+CngZ9SC81HTPK3ukaiTQYqlHqvDwqSmSPb1xCff3jcs2fwl3C4mn4z83TA/REGfmyFFwMOmcQfAISsi41wfABSpg8IxadY+uWNWtFUwBNhuBhX4ZNSpGm5v0PQkDRN9/wtAgv562iMmlFG5qOKCMzuJ/OWXFeTaC17dzB30SpxtVzu5ET2Atus=;nPmyXWj5sdeF4gU+gzKpUw=="
 ---
