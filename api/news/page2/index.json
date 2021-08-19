@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-15-donald-trump-blasts-former-secretary-of-state-rex-tillerson-dumb-as-a-rock.md",
+      "title": "Donald Trump blasts former secretary of state Rex Tillerson; ‘Dumb as a rock’",
+      "excerpt": "President Trump denounced his former Secretary of State Thursday following reports Rex Tillerson quietly met with the House Foreign Affairs Committee and testified about his time in the Trump administration.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/donald-trump-europe-rex-tillerson-96b455a30118c4b2ac668418b27073f2",
+      "originalUrl": "https://apnews.com/article/donald-trump-europe-rex-tillerson-96b455a30118c4b2ac668418b27073f2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/ShareLogo2.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-14T20:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-15-mary-trump-says-gop-voter-suppression-laws-may-convince-donald-trump-to-run-in-2024.md",
+      "title": "Mary Trump Says GOP 'Voter Suppression Laws' May 'Convince' Donald Trump to Run in 2024",
+      "excerpt": "\"Republicans are going to use those accusations of fraud—those grievances that are really stirring up the base and spreading by the way—to enact these voter suppression laws,\" said the niece of former President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mary-trump-says-gop-voter-suppression-laws-may-convince-donald-trump-run-2024-1619437",
+      "originalUrl": "https://www.newsweek.com/mary-trump-says-gop-voter-suppression-laws-may-convince-donald-trump-run-2024-1619437",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1871391/mary-trump-donald-trump-gop-election-reform.jpg",
+          "width": 2500,
+          "height": 1665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mary-trump-says-gop-voter-suppression-laws-may-convince-donald-trump-run-2024-1619437?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mary-trump-says-gop-voter-suppression-laws-may-convince-donald-trump-run-2024-1619437?amp=1",
+      "publishedDateTime": "2021-08-14T14:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-15-biden-praises-arizona-florida-school-chiefs-on-mask-wearing.md",
       "title": "Biden praises Arizona, Florida school chiefs on mask-wearing",
       "excerpt": "President Joe Biden has commended the leadership of two Arizona and Florida school district superintendents after the districts' boards recently implemented mask requirements in defiance of their Republican governors.",
@@ -385,7 +480,7 @@
       "originalUrl": "https://www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1000,
+      "heat": 1040,
       "tags": null,
       "images": [
         {
@@ -1188,106 +1283,6 @@
       "topics": [
         "Election",
         "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-harris-to-meet-with-ceos-on-child-care-proposals-white-house.md",
-      "title": "Harris to meet with CEOs on child care proposals -White House",
-      "excerpt": "U.S. Vice President Kamala Harris will meet with the chief executives of seven companies including Microsoft Corp on Thursday to discuss the Biden administration's child care proposals as the White House seeks broad support for its agenda.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-companies-idUSKBN2FD18R",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-companies-idUSKBN2FD18R",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 345,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210812&t=2&i=1571728730&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH7B0NU",
-          "width": 836,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2FD18R",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2FD18R",
-      "publishedDateTime": "2021-08-12T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-bidens-approval-rating-sinks-to-new-low-of-50-amid-economic-fears-polls-show.md",
-      "title": "Biden’s approval rating sinks to new low of 50% amid economic fears, polls show",
-      "excerpt": "Support for President Joe Biden is taking a hit with his average approval rating sinking to a record low of 50 percent, new polls show.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/08/12/bidens-approval-rating-sinks-to-record-low-of-50-polls-show/",
-      "originalUrl": "https://nypost.com/2021/08/12/bidens-approval-rating-sinks-to-record-low-of-50-polls-show/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/rcp-poll-biden-01.jpg?quality=90&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/08/12/bidens-approval-rating-sinks-to-record-low-of-50-polls-show/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/12/bidens-approval-rating-sinks-to-record-low-of-50-polls-show/amp/",
-      "publishedDateTime": "2021-08-12T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     }

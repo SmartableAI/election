@@ -400,6 +400,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden promised allies 'America is back.' Chaotic Afghanistan withdrawal is making them fear it's still 'America First.'"
+    excerpt: "Visiting Brussels earlier this summer, President Joe Biden was single-minded in his message to American allies.\n    \n"
+    publishedDateTime: 2021-08-18T23:00:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7nZQgGcGVL8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/18/politics/america-is-back-joe-biden-afghanistan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/18/politics/america-is-back-joe-biden-afghanistan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 151
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210816160754-02-biden-afghanistan-remarks-0816-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's national security adviser says Taliban committed to allowing safe passage for civilians looking to escape Afghanistan"
     excerpt: "White House national security adviser Jake Sullivan on Tuesday defended the US' chaotic withdrawal from Afghanistan, telling reporters that President Joe Biden \"is taking responsibility for every decision the United States government took with respect to Afghanistan.\"\n    \n"
     publishedDateTime: 2021-08-17T19:11:00Z

@@ -69,6 +69,22 @@ related:
         width: 3431
         height: 2282
         isCached: true
+  - title: "Joe Biden Is Putting Pressure On Nursing Homes To Vaccinate Employees"
+    excerpt: "President Joe Biden on Wednesday announced a series of new steps to try to stem the resurgence of COVID-19, with a new vaccination requirement for nursing home employees and a push against states that are blocking mask mandates in schools."
+    publishedDateTime: 2021-08-18T21:26:00Z
+    webUrl: "https://www.buzzfeednews.com/article/kadiagoba/biden-nursing-homes-vaccine-mandate"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/kadiagoba/biden-nursing-homes-vaccine-mandate"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/kadiagoba/biden-nursing-homes-vaccine-mandate"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 125
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-12/22/16/campaign_images/d501ee3b6aaa/biden-has-vowed-to-put-science-first-to-beat-the--2-7904-1608653059-13_dblbig.jpg"
+        width: 625
+        height: 415
+        isCached: true
   - title: "Joe Biden: U.S. Conflict in Afghanistan 'Will Not Extend to a Fifth President'"
     excerpt: "U.S. President Joe Biden is defending his decision to pull troops from Afghanistan, despite the turmoil the country has seen as the Taliban has seized control."
     publishedDateTime: 2021-08-16T21:02:00Z
@@ -98,6 +114,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/08-16-2021/t_e02cad664df847728848b52c02d70928_name_1c28bc70_fecf_11eb_87e0_7e07bd9ce270_scaled.jpg&w=1440"
         width: 1440
         height: 810
+        isCached: true
+  - title: "Trump and some Republicans are praising the Taliban to criticize Biden despite years of chest-thumping over jihadist terrorism"
+    excerpt: "Trump called the Taliban \"smart\" and said it had \"good fighters,\" while Rep. Gaetz said it was more legitimate than the Biden administration."
+    publishedDateTime: 2021-08-18T22:17:00Z
+    webUrl: "https://www.businessinsider.com/trump-republicans-praise-taliban-despite-chest-thumping-jihadist-terrorism-2021-8"
+    ampWebUrl: "https://www.businessinsider.com/trump-republicans-praise-taliban-despite-chest-thumping-jihadist-terrorism-2021-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-republicans-praise-taliban-despite-chest-thumping-jihadist-terrorism-2021-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/60fdb1e717cf960019ee0b4a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Texas Rep. Dan Crenshaw told supporters Trump lost to Biden. The Republican was heckled and called a RINO."
     excerpt: "A fellow Republican heckled Rep. Dan Crenshaw after the Texas congressman said former president Donald Trump lost the 2020 election."
