@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/president-biden-vp-harris-avoid-the
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-biden-vp-harris-avoid-the-cameras-as-kabul-falls.amp"
 type: article
 quality: 200
-heat: 740
+heat: 760
 published: true
 
 provider:
@@ -363,6 +363,22 @@ related:
     quality: 134
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/joe-biden-weekend-taliban-hp.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Where’s Kamala? ‘Last person in room’ Harris silent 6 days amid Afghan pullout chaos"
+    excerpt: "Vice President Kamala Harris has kept a conspicuously low profile since the swift fall of Afghanistan to the Taliban."
+    publishedDateTime: 2021-08-19T00:12:00Z
+    webUrl: "https://nypost.com/2021/08/18/kamala-harris-keeps-low-profile-after-afghanistan-chaos/"
+    ampWebUrl: "https://nypost.com/2021/08/18/kamala-harris-keeps-low-profile-after-afghanistan-chaos/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/18/kamala-harris-keeps-low-profile-after-afghanistan-chaos/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 128
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/kamala-harris-002.jpg?quality=90&strip=all&w=1024"
         width: 1024
         height: 682
         isCached: true

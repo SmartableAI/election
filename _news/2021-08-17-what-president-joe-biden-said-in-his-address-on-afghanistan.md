@@ -3,18 +3,18 @@ category: news
 title: "What President Joe Biden said in his address on Afghanistan"
 excerpt: "As criticism of the president mounted, Biden addressed the country as the Taliban took control of Afghanistan and chaos overtook the Kabul airport."
 publishedDateTime: 2021-08-16T23:06:00Z
-originalUrl: "https://www.indystar.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
-webUrl: "https://www.indystar.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
-ampWebUrl: "https://amp.indystar.com/amp/8157340002"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/8157340002"
+originalUrl: "https://www.statesman.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
+webUrl: "https://www.statesman.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
+ampWebUrl: "https://amp.statesman.com/amp/8157340002"
+cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8157340002"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: Austin American-Statesman
+  domain: statesman.com
 
 topics:
   - Election
@@ -214,6 +214,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/21/37/67/21364173/3/0x400.jpg"
         width: 315
         height: 400
+        isCached: true
+  - title: "Trump Slams Biden Over Hunter's Nude 'Blackmail' Video: 'Son Doesnt Get Prosecuted'"
+    excerpt: "The video showed a naked Hunter Biden airing his concerns over possible blackmail attempts against him with a naked woman in 2019."
+    publishedDateTime: 2021-08-19T01:25:00Z
+    webUrl: "https://www.ibtimes.com/trump-slams-biden-over-hunters-nude-blackmail-video-son-doesnt-get-prosecuted-3276478"
+    ampWebUrl: "https://www.ibtimes.com/trump-slams-biden-over-hunters-nude-blackmail-video-son-doesnt-get-prosecuted-3276478?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-slams-biden-over-hunters-nude-blackmail-video-son-doesnt-get-prosecuted-3276478?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 84
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/18/us-president-elect-joe-biden-r-has-expressed.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Trump told Cali. to sweep the forest floors. What’s Biden’s plan to combat wildfires?"
     excerpt: "Gavin Newsom stood side by side, in a forest that burned badly a year ago, pledging to work together against California’s raging wildfires. Vilsack, acknowledging criticisms that the U.S. Forest Service hasn’t done enough to fight fires,"
@@ -684,6 +700,6 @@ related:
       domain: cincinnati.com
     quality: 13
 
-secured: "ouEUSa93gVPCbvt2RT+wso5S7HZe8bFyo/rqF0I4uNBNBFd0D78P+w0i7JxUI1DarJPBT83xycXP4uavUc+FlAzUHjZXrC4Ej5EjEUtHcfHUXgjZ+d2U0m4DGY7ruyqdTisH/lT558Cdk9uo5x5amEJ6UCC1HnZdMpabgcYEWGt+5xZlosNqiWYeFcWziqwbTnDyUsFkZmYyX0y5CigXQxZq3UKiMJkCv0UmIBvw9quOX6/VF9pcbterAkbvhuhdQYCA2wjDqvGzllzRDcWacb5gUc/eQcDKEoOTNpAYadHrVQhYjIRAzpabeBS4ClehpCZh7ZSy1VoNCRNJ+mNKNruMY+3NdZ/JskpmhN/CLmmLsEO4vGFawHAJWPqta0LOAfm44ptPD39vDLZjC2PDpE3chI6ehDI54Cpahb1XmLvtqRUk1ga+280C9KB1W3iNtuDzkc0ENtepQxipGGcSsfcrr92Lx9mwJL38U6ltStDHY7VYYJagVkOf4sYPdkfez3yr6cgNdGuN0klQ7BEYWQ==;VaATgKddy1glWccY4TDMWw=="
+secured: "15pArJW46p1oH5lTh44RzkIV6kFLJH9X+Gh/sPRZ1HcGEgPFjyR59bXWGDnxRfQMjERVt2wjmF7BadbA9dhD7WYEpPmsrioivyU99fH4SpgHHp8j3IMogNKvXepOj8WGzfuGeUWQdZ5ocaAW2O+ZpkSt7n7GReSLeh848wJHoQJ1uUKJMHghHlWWSam58cq3Fii0ISBMnjiGRPn6V8ZXbwJgrq15HItVcBqDl/LdLsRIGecagBVtabSe7PyHYHFyGuJSZn1H31C/XRn/+Tert31FM1r1PJxcA0naIsm+e4E314lttoCwwiODH7Qb04RYkpnrYcpUNn0AEvUKq2XS8DDkE717SWteTlQMbO87dEY=;n5tqrQQxPGRkvjSEdrn0rg=="
 ---
 

@@ -83,6 +83,20 @@ related:
         width: 1024
         height: 662
         isCached: true
+  - title: "Afghanistan: Joe Biden said chaos was 'inevitable'"
+    excerpt: "In an exclusive interview with ABC News' George Stephanopoulos, Joe Biden said nobody could have anticipated the speed of the Taliban's takeover. The US president has been criticised for his handling of the withdrawal."
+    publishedDateTime: 2021-08-19T00:44:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/world-us-canada-58264718"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/B308/production/_120023854_p09sm318.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Yes, former President Trump made a deal with the Taliban to pull US troops out of Afghanistan by May 2021"
     excerpt: "Former President Donald Trump made a deal to remove U.S. forces by May 2021, and Biden extended the withdrawal deadline to Sept. 11. 2021"
     publishedDateTime: 2021-08-17T22:32:00Z
@@ -112,6 +126,6 @@ related:
         height: 1920
         isCached: true
 
-secured: "D+FgsxbR9QX9QDxBnESA2+Uzh+VHlMx7JNfEahkYxuSeHnlLbH/dQAy3FR9so2TLsq1jkZqH82EhIGWqnDrws1BSMnxScvBsCdx4OxwGMzuhgXnJi8T29Upok7QPepDr95WVydF6M4tnpdlQVibvfqqWB/dnoV2QQO3HjKaHwSj7GFB/7G5X448p7BobZFXjLBS4qbKqKH/sPcfA7HD8EfgKZogb8xqH1HcuWHKtOKHg12b/RDx25PZ0ihwXni1oelDW7+v4S50zSWsyqjHHxYy0zF9rWjgcMg/g0Q5NGYCW9NIgrpq5pQO/japh1zw9BNNbIQIV4Z9gS14BkukToosDcZ9IUPAaEaIY2ty4yiw=;o9EG2w66/IELTuEwd+VtOQ=="
+secured: "gBsG6AsfBUul2FyHWf7vZCBWVEIHa490jZvXYNw0vF1QTZ/BmFKm4l7LkHDUu5kLEHaayzo4FiHNv/SmVM8aerwG8KVeBAsj5Px2iRCHSqNQcxTnbj+/xGt4Omb/Bh+DdHZSLwrsezmiWUjzWN5zUktXLbl9ZkL0AV1chuhcTQkcINE8q+3NJ7qOz+1eQkvRQHGAUxezQ7YTX7SdV4WpLhq+yeu1IobxOsxSBhW7jHjBQpvA1Cm+ZQlBeOJy2YPZon9KykmQPqhbnF4/iw2hkfyDouLpL89no46DceGzF41p13ewCANkeYglZ+4MQYAMjjdmcSqxJ/Ma6v1slp9M4UF5x/5ss4s4P0c1r9KwC5JCEzASba5SsmVcMSTqvsQcQnOIRy8xsIMGNUIgWULuG5DzrSbZbp6qSUajIcrVe6e9cxQdsuxjwBHdrP0s9pg+UrwDIFa1EjLcUg8rJGkMt80qt0ykjtfD2FhZSpcbAPLsUIunPvM58GW4W9HGx7x4mMEQexLy9PYc040QvSWf9g==;x6UGdGxPVkrPKkNyuPro3A=="
 ---
 

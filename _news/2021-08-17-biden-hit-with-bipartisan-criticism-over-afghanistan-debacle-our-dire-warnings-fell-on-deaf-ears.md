@@ -399,6 +399,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "McCarthy, McConnell send letter to Biden requesting 'Gang of 8' briefing on Afghanistan evacuation"
+    excerpt: "House Minority Leader Kevin McCarthy and Senate Minority Leader Mitch McConnell sent a letter to President Biden requesting a “Gang of 8” briefing on the rapidly deteriorating situation in Afghanistan where the U.S. military is attempting to evacuate Americans from the Taliban controlled capital."
+    publishedDateTime: 2021-08-19T00:39:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e5-J3HTZbgo/mccarthy-mcconnell-send-letter-to-biden-requesting-gang-of-8-briefing-on-afghanistan-evacuation"
+    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-mcconnell-send-letter-to-biden-requesting-gang-of-8-briefing-on-afghanistan-evacuation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-mcconnell-send-letter-to-biden-requesting-gang-of-8-briefing-on-afghanistan-evacuation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/01160f89-96b3-437b-b1df-04d8d0c28cad/78098fe8-c11f-41a4-b46a-cd33c5efd58d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Trump calls on Biden to ‘resign in disgrace’ over crisis in Afghanistan"
     excerpt: "Former President Donald Trump Sunday called on President Joe Biden to “resign in disgrace” over his handling of the Afghanistan withdrawal and other issues."
     publishedDateTime: 2021-08-15T23:38:00Z

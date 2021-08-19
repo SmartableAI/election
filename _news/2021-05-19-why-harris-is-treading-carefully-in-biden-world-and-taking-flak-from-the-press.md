@@ -380,6 +380,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Where’s Kamala? ‘Last person in room’ Harris silent 6 days amid Afghan pullout chaos"
+    excerpt: "Vice President Kamala Harris has kept a conspicuously low profile since the swift fall of Afghanistan to the Taliban."
+    publishedDateTime: 2021-08-19T00:12:00Z
+    webUrl: "https://nypost.com/2021/08/18/kamala-harris-keeps-low-profile-after-afghanistan-chaos/"
+    ampWebUrl: "https://nypost.com/2021/08/18/kamala-harris-keeps-low-profile-after-afghanistan-chaos/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/18/kamala-harris-keeps-low-profile-after-afghanistan-chaos/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 128
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/kamala-harris-002.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Radical Nation: Biden & Harris's Dangerous Plan for America"
     excerpt: "The following is an exclusive excerpt from Sean Spicer's new book, Radical Nation: Joe Biden & Kamala Harris's Dangerous Plan for America, available on October 26. Read Full Artic"
     publishedDateTime: 2021-08-10T18:46:00Z

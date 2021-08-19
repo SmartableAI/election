@@ -1,33 +1,29 @@
 ---
 category: news
 title: "Kushner pal hit with state charges months after Trump pardon"
-excerpt: "A newspaper editor friend of former President Donald Trump’s son-in-law Jared Kushner was hit Wednesday with state cyberstalking charges in New York, seven months after Trump pardoned him in a similar"
-publishedDateTime: 2021-08-18T19:37:00Z
-originalUrl: "https://abcnews.go.com/Entertainment/wireStory/kushner-pal-hit-state-charges-months-trump-pardon-79523724"
-webUrl: "https://abcnews.go.com/Entertainment/wireStory/kushner-pal-hit-state-charges-months-trump-pardon-79523724"
-ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/kushner-pal-hit-state-charges-months-trump-pardon-79523724"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/kushner-pal-hit-state-charges-months-trump-pardon-79523724"
+excerpt: "A newspaper editor friend of former President Donald Trump’s son-in-law Jared Kushner was hit Wednesday with state cyberstalking charges in New York, seven months after Trump pardoned him in a similar federal case just before leaving office."
+publishedDateTime: 2021-08-19T00:31:00Z
+originalUrl: "https://www.myrtlebeachonline.com/entertainment/article253583399.html"
+webUrl: "https://www.myrtlebeachonline.com/entertainment/article253583399.html"
+ampWebUrl: "https://amp.myrtlebeachonline.com/entertainment/article253583399.html"
+cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/entertainment/article253583399.html"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Sun News
+  domain: myrtlebeachonline.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/WNT/210720_wn_moran_646_hpMain_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154290001/354f0e7a-264c-4e92-9637-8018ba0bfe25/f5a73d3a-da5f-4869-8484-a14bac7ba509/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -468,6 +464,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "JppWg/kZWCEfQZS3PIFV1XvGkK9Tvnths92sluFnaE72PKrCl4bnwd8PxqJHRFBkX68+08i3JNtFwQxSgYRWGz60MGluUNLIXlUtO6qpwcx2RZFXAXTjcONzVLrwNRPZB3CKUKM2KQJZZ9RU7up0fvNYYYGvkFzy41NyuPUz2UkSAtgP1B03qngwt6z78A00TAMcwJQQ7iFnKtkzGGKTXLZXdCGkAvUSsjqpK4ZgLicqZcA2mzYfBhfSL1xsycTGwkb0w91DegVqOnB3rBYe3RrzbaoxCqLdlEp313TKzhPfp1OZQDJUGNTgHXjK11U//QaO2OMyzm99xuB69fO80qEFgCzS2PuJQvjK8cUr59s=;445nKVF3foGXAijhn4fjvw=="
+secured: "Ci6zJl9XKEmII1m0oVAG3nYWP6k8GB+UayU0+EIxmrkVtHkhOPHu1xnMUn3Z1LHI4G2dynZijS60WM0u/wQ/Afz7HghUsjk2SasI42HxUNi/71NC0hQ6u6bSIMdUuG8fKI9IfqF7m1Hq5VAsX6CMGHkNYt1507iHq7EJWF9LpM9ArE7IrCQq5VA0sbRP/M+OyJIh3ISmecApssJOCq1tf42BBX9RpxW3XiqrnACc7k2G1m3nvdR4/T5TOYM/bX4cgSvRP/7F1ECAMm5Z4vbuTUjtWzlM1eESpfnOb63D7W+7h9T/m8OTVGyE+PkagjvmuTU3OCW6Xj5ISm27tP4Z/yLRtJ0yjvu9mNT8rSAcghE=;5/iA4I77UE0oNfLbVNp9Cw=="
 ---
 

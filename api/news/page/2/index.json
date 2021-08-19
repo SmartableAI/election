@@ -480,7 +480,7 @@
       "originalUrl": "https://www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1040,
+      "heat": 1060,
       "tags": null,
       "images": [
         {
@@ -796,6 +796,49 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-billy-long-touts-trump-ties-during-senate-seat-campaign-rally-in-joplin.md",
+      "title": "Billy Long touts Trump ties during Senate seat campaign rally in Joplin",
+      "excerpt": "Mo., touted his strong friendship with former President Donald Trump during a Thursday morning campaign rally stop at Cunningham Park.",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/news/billy-long-touts-trump-ties-during-senate-seat-campaign-rally-in-joplin/article_87dc1e7a-fba1-11eb-9adf-0b3478643ab3.html",
+      "originalUrl": "https://www.joplinglobe.com/news/billy-long-touts-trump-ties-during-senate-seat-campaign-rally-in-joplin/article_87dc1e7a-fba1-11eb-9adf-0b3478643ab3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/1/34/134c0f34-fba6-11eb-b9e6-bf4cfe2dcb45/61157abb2e912.image.jpg?resize=957%2C630",
+          "width": 957,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-12T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -1227,63 +1270,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-miranda-devine-kamala-harris-inches-closer-to-2024-and-dems-are-terrified.md",
-      "title": "Miranda Devine: Kamala Harris inches closer to 2024 and Dems are terrified",
-      "excerpt": "Wednesday that Kamala Harris was announced as Joe Biden’s running mate. That auspicious moment catapulted her into prime time, a heartbeat away from the Oval Office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/kamala-harris-2024-democrats-miranda-devine",
-      "originalUrl": "https://www.foxnews.com/opinion/kamala-harris-2024-democrats-miranda-devine",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/22c44787-0d2a-4a77-a89d-680775135204/a28385c8-4809-4e82-9655-7cb6502df422/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/opinion/kamala-harris-2024-democrats-miranda-devine.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/kamala-harris-2024-democrats-miranda-devine.amp",
-      "publishedDateTime": "2021-08-12T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
       ]
     }
   ],

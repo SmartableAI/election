@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/candace-owens-says-joe-biden-hiding-like-li
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/candace-owens-says-joe-biden-hiding-like-little-b-afghanistan-falls-1619586?amp=1"
 type: article
 quality: 121
-heat: 241
+heat: 261
 published: true
 
 provider:
@@ -82,6 +82,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/facebook-and-twitter-banned-donald-trump-over-his.jpg"
         width: 1024
         height: 662
+        isCached: true
+  - title: "Afghanistan: Joe Biden said chaos was 'inevitable'"
+    excerpt: "In an exclusive interview with ABC News' George Stephanopoulos, Joe Biden said nobody could have anticipated the speed of the Taliban's takeover. The US president has been criticised for his handling of the withdrawal."
+    publishedDateTime: 2021-08-19T00:44:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/world-us-canada-58264718"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/B308/production/_120023854_p09sm318.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Yes, former President Trump made a deal with the Taliban to pull US troops out of Afghanistan by May 2021"
     excerpt: "Former President Donald Trump made a deal to remove U.S. forces by May 2021, and Biden extended the withdrawal deadline to Sept. 11. 2021"

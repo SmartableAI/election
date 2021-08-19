@@ -199,6 +199,22 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Trump Slams Biden Over Hunter's Nude 'Blackmail' Video: 'Son Doesnt Get Prosecuted'"
+    excerpt: "The video showed a naked Hunter Biden airing his concerns over possible blackmail attempts against him with a naked woman in 2019."
+    publishedDateTime: 2021-08-19T01:25:00Z
+    webUrl: "https://www.ibtimes.com/trump-slams-biden-over-hunters-nude-blackmail-video-son-doesnt-get-prosecuted-3276478"
+    ampWebUrl: "https://www.ibtimes.com/trump-slams-biden-over-hunters-nude-blackmail-video-son-doesnt-get-prosecuted-3276478?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-slams-biden-over-hunters-nude-blackmail-video-son-doesnt-get-prosecuted-3276478?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 84
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/18/us-president-elect-joe-biden-r-has-expressed.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Trump told Cali. to sweep the forest floors. What’s Biden’s plan to combat wildfires?"
     excerpt: "Gavin Newsom stood side by side, in a forest that burned badly a year ago, pledging to work together against California’s raging wildfires. Vilsack, acknowledging criticisms that the U.S. Forest Service hasn’t done enough to fight fires,"
     publishedDateTime: 2021-08-09T15:38:00Z
@@ -330,13 +346,13 @@ related:
   - title: "What President Joe Biden said in his address on Afghanistan"
     excerpt: "As criticism of the president mounted, Biden addressed the country as the Taliban took control of Afghanistan and chaos overtook the Kabul airport."
     publishedDateTime: 2021-08-16T23:06:00Z
-    webUrl: "https://www.indystar.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
-    ampWebUrl: "https://amp.indystar.com/amp/8157340002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/8157340002"
+    webUrl: "https://www.statesman.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
+    ampWebUrl: "https://amp.statesman.com/amp/8157340002"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8157340002"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
+      name: Austin American-Statesman
+      domain: statesman.com
     quality: 75
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/08/16/USAT/d4d75f62-840d-41fd-beeb-ff0dd19fe7ce-AP_Biden_US_Afghanistan.jpg?auto=webp&crop=4783,2691,x0,y159&format=pjpg&width=1200"

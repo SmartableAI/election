@@ -367,6 +367,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Where’s Kamala? ‘Last person in room’ Harris silent 6 days amid Afghan pullout chaos"
+    excerpt: "Vice President Kamala Harris has kept a conspicuously low profile since the swift fall of Afghanistan to the Taliban."
+    publishedDateTime: 2021-08-19T00:12:00Z
+    webUrl: "https://nypost.com/2021/08/18/kamala-harris-keeps-low-profile-after-afghanistan-chaos/"
+    ampWebUrl: "https://nypost.com/2021/08/18/kamala-harris-keeps-low-profile-after-afghanistan-chaos/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/18/kamala-harris-keeps-low-profile-after-afghanistan-chaos/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 128
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/kamala-harris-002.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Why Harris is treading carefully in Biden world, and taking flak from the press"
     excerpt: "There are signs that the press is unhappy with Vice President Harris, or at least getting impatient. Why doesn’t she make more news? Why is she so cautious?"
     publishedDateTime: 2021-05-19T07:00:00Z

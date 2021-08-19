@@ -73,22 +73,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Kushner pal hit with state charges months after Trump pardon"
-    excerpt: "A newspaper editor friend of former President Donald Trump’s son-in-law Jared Kushner was hit Wednesday with state cyberstalking charges in New York, seven months after Trump pardoned him in a similar"
-    publishedDateTime: 2021-08-18T19:37:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/kushner-pal-hit-state-charges-months-trump-pardon-79523724"
-    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/kushner-pal-hit-state-charges-months-trump-pardon-79523724"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/kushner-pal-hit-state-charges-months-trump-pardon-79523724"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/WNT/210720_wn_moran_646_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "House Can Have Access to Some of Donald Trump's Financial Records, Judge Rules"
     excerpt: "U.S. District Judge Amit Mehta's ruling cited separation of power concerns, but the House was entitled to some financial records from 2017 and 2018."
     publishedDateTime: 2021-08-11T21:04:00Z
@@ -278,6 +262,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/08/12/NMWD/a0b7d36f-f202-484a-a9a3-1b50399ec91c-Judy_Collins_Photo_by_Brad_Trent.jpg?auto=webp&crop=1872,1053,x0,y720&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Kushner pal hit with state charges months after Trump pardon"
+    excerpt: "A newspaper editor friend of former President Donald Trump’s son-in-law Jared Kushner was hit Wednesday with state cyberstalking charges in New York, seven months after Trump pardoned him in a similar federal case just before leaving office."
+    publishedDateTime: 2021-08-19T00:31:00Z
+    webUrl: "https://www.myrtlebeachonline.com/entertainment/article253583399.html"
+    ampWebUrl: "https://amp.myrtlebeachonline.com/entertainment/article253583399.html"
+    cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/entertainment/article253583399.html"
+    type: article
+    provider:
+      name: The Sun News
+      domain: myrtlebeachonline.com
+    quality: 75
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154290001/354f0e7a-264c-4e92-9637-8018ba0bfe25/f5a73d3a-da5f-4869-8484-a14bac7ba509/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Jerry Brown: Trump’s coal policies a ‘declaration of war against America and all of humanity’"
     excerpt: "Gov. Jerry Brown told his constituents in the Golden State on Tuesday that \"war\" has been declared on \"all of humanity\" by President Trump. The White House's decision to roll back Obama-era regulations on coal-fired power plants enraged the California Democrat so much that he framed himself as environmental revolutionary."
