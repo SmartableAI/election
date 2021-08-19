@@ -57,8 +57,8 @@ related:
         isCached: true
   - title: "Afghanistan live news: Joe Biden says there was no way to exit without ‘chaos’"
     excerpt: "Ousted president Ashraf Ghani confirms he is in UAE; UN says it will still support Afghan people; at least one dead after clash over Taliban flag"
-    publishedDateTime: 2021-08-18T21:35:00Z
-    webUrl: "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis?page=with:block-611d87688f08e83ac7bdefef"
+    publishedDateTime: 2021-08-18T21:19:00Z
+    webUrl: "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis"
     ampWebUrl: "https://amp.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis"
     type: article
@@ -122,6 +122,6 @@ related:
         height: 1920
         isCached: true
 
-secured: "6AvZR7R+OYLw9wUNs1ribQEeDI1Kg5OKoV9D15g+aoFqhw4EUtlbxHRSzsimkhTTeuTxMFV4bb3O7N+HfXQrO9KcIZeCr4/Ukvh8eAGj1trSw9LMKhPqfgQEDmBOf85oWnfqnsnLJhwywn8vcjIZ9QCeK7/4xf7jDouOCrD2wXqx/14H8Fu4hb9eVtA9jQIQ7B5Em2uj7nwOlCPj9rPSbtcyEVNeJz1VwDzKu/z6xS47VJWpEXI1LSExHCAR9VuE5cIjQMIRQ35dynMfcjVVHdDBBXqEgZgAJ+DQDuobo/niEQD1xVtx+ILbBwj9b5kOpbgQztxVe2Dtwv5MtIdebT6m8rWiObjUXZ30NJyw19o=;A8+FEtDxV6a/TVAI+IGI6w=="
+secured: "vRRpJZAGnGwsxdqVRR2das68mqRko8ezHQYGQNzH1CJCJqv56iIW3xBYL44Js2tJdDmWZBcCxjt5qu6/TsxczBowemIj/i4i1ePDFanE8TxwvFetznoKIO/NdeNWfr5MJW5MXLbTmcs1DQIHVOXooJDlhddQ4thpspQs19CVotXcG4UWoAtOyHH/c6ZlE1/4XpVGGSBba0XKEcAPSrVLa7fkWZaCr/eYbH0D0M2RoTLnwa2jv8d6YWCQxST+K4OYkunsNz5vP+bpl8BphHq62Z1L4/cRy3pPstxiN9jnsfpUGRiz3gPBxhcdvnAUXScYJfQqqfoGZ9q60mS199dRvvUyHgedg/kRi7DFoe5WXOnFSTf94AoAPPGigo48nPsOhQesmRxq4gDDj59wwyaI20S5FXavO+TFVsyn4omLdN9LkuqbFR4+XVQ7KuY2oYwjXxeSV8mctMXANQ7Qx0D2A3caiu1CE1P4B1d5iFAsKguN/hkvlKa07t6kfBIrtZdx0rFdSbUyfR3cVEsHwc3PbQ==;LOmOpQRNADrqikS2Px8YFQ=="
 ---
 
