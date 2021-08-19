@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Arrives at Fort McNair in DC"
 excerpt: "President Joe Biden arrives at Fort McNair in Washington, DC from Camp David on Monday, August 16, 2021. President Biden is expected to make remarks on the situation in Afghanistan later this afternoon."
 publishedDateTime: 2021-08-16T17:47:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/efbfdcaedaf2160ee05ec88b5aefb886/President-Joe-Biden-Arrives-at-Fort-McNair-in-DC/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/efbfdcaedaf2160ee05ec88b5aefb886/President-Joe-Biden-Arrives-at-Fort-McNair-in-DC/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/345466ca02bc57917abd3e926cddebfe/President-Joe-Biden-Arrives-at-Fort-McNair-in-DC/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/345466ca02bc57917abd3e926cddebfe/President-Joe-Biden-Arrives-at-Fort-McNair-in-DC/"
 type: article
 quality: 55
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/efbfdcaedaf2160ee05ec88b5aefb886/BIDEN-AFGHANISTAN.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/345466ca02bc57917abd3e926cddebfe/BIDEN-AFGHANISTAN.jpg"
     width: 650
-    height: 975
+    height: 433
     isCached: true
 
 related:
@@ -360,13 +360,13 @@ related:
   - title: "What President Joe Biden said in his address on Afghanistan"
     excerpt: "As criticism of the president mounted, Biden addressed the country as the Taliban took control of Afghanistan and chaos overtook the Kabul airport."
     publishedDateTime: 2021-08-16T23:06:00Z
-    webUrl: "https://www.statesman.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
-    ampWebUrl: "https://amp.statesman.com/amp/8157340002"
-    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8157340002"
+    webUrl: "https://www.desmoinesregister.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/8157340002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/8157340002"
     type: article
     provider:
-      name: Austin American-Statesman
-      domain: statesman.com
+      name: Des Moines Register
+      domain: desmoinesregister.com
     quality: 75
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/08/16/USAT/d4d75f62-840d-41fd-beeb-ff0dd19fe7ce-AP_Biden_US_Afghanistan.jpg?auto=webp&crop=4783,2691,x0,y159&format=pjpg&width=1200"
@@ -700,6 +700,6 @@ related:
       domain: cincinnati.com
     quality: 13
 
-secured: "MrwqZ/dCkNsZEjbr5lXJr5kVfuSkfkiCCx6TNycmV/sqI3q7d12BYn1+z95czw1MvuuQuqrbUgEuuYS1203yXjN7IQRTdpel8jo7oRdbE5HSyT/235Z2dd/9PpYt/HvHIPr2uLImrYZa8gUU7ELbtfkl2vFFkuyndjzURLeNlmPj2A2k0ILMijfQXGDn1Z/o7LDn7elTrL9gwHqIY/EOafQ3HWDTy9DsmTueuQ+dw/UcmEG1tpbng05HyEKYJiI0vtpJnFef8UCWKNKEAe8c6BfVwaMLbNWXn3F6tUdWMLJfPYdHaWsaeQHvTvrejvpTVlaXU5G68xVch4/eQMCMPJXkgRPUnzfcr/mkOEbQ4NUyhiV9y+zwajgbKbsAEZIINb5EfWnwYkpoBTreEx3EzeulashMtnOo+FwGzkoyyCK5cXqZi97gFTPZ1sDIJI4VRJWM/ukobrf/Is9WByJU6Z7KbV+HiaHZi0onv0NCJ5aySxyeimw5aD7J6QQ4psQTUJ6fSFThsA8MZoFKf1MSBw==;fQSj9vvECh+M0Wx7BnAhcA=="
+secured: "HdcJB1zwByw/tsD0fiM1MDu/eC60vczQNN3Vjf8l4CjymH8VUGKOqelxG5oZA1eaZJ3CD/WyFiibdhEr+niYgAXSfHqNbuV6k3k/eTvcnwKVffZa4V9/GiPQp3sY9QdL4ArnftBPJpKmb0RMGtYAL4MLoPjrGYp/HzeArt2IqYp9If3MQWCt/7ExZezCPB1MM5JYNrktOiDeWxOLgT+Y+Atwq0T7qf/0lmYb87BAhfi5SPyDbQDGAoU2M9gyvDK7fxLNPGHU6QGQ7mGByLWKmO9NasN2I+7zOz1RIZbBE+Ye62RFjB/3OvrW6PNKsmVQj7j+qeG+LEe3NUOf6kKefFwYuCgOh+B8atAReyaVOH0=;uCULxTkNTJMawjA3NjTBJg=="
 ---
 

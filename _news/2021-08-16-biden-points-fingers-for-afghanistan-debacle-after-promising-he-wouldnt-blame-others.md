@@ -525,6 +525,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Former Army Rangers blast Biden for Afghanistan 'dumpster fire': Admin 'did not plan and does not have one'"
+    excerpt: "Two former U.S. Army rangers who served in Afghanistan are blasting President Biden for having \"no plan\" for withdrawing from the country and then blaming others for the \"dumpster fire\" that ensued."
+    publishedDateTime: 2021-08-19T10:40:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9g2xT2_qf7o/army-rangers-blast-biden-afghanistan-dumpster-fire"
+    ampWebUrl: "https://www.foxnews.com/politics/army-rangers-blast-biden-afghanistan-dumpster-fire.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/army-rangers-blast-biden-afghanistan-dumpster-fire.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Republicans demand resignations over Biden's Afghanistan debacle"
     excerpt: "A handful of Republican congressmen are calling for heads to roll in the administration for the botched handling of the troop withdrawal from Afghanistan."
     publishedDateTime: 2021-08-17T21:19:44Z

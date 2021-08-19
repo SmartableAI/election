@@ -175,6 +175,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's presidency is under scrutiny as never before over Afghan chaos"
+    excerpt: "President Joe Biden is struggling against an intensifying examination of his judgment, competence and even his empathy over the chaotic US exit from Afghanistan. And each attempt the administration makes to quell a furor that's tarnishing America's image only provokes more questions about its failures"
+    publishedDateTime: 2021-08-19T06:43:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7Dz6QRLgD9Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/joe-biden-presidency-under-scrutiny/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/joe-biden-presidency-under-scrutiny/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210818181116-02-biden-remarks-081821-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden on chaotic Afghanistan withdrawal: 'I don't think it was a failure'"
     excerpt: "President Joe Biden on Wednesday defiantly defended his administration's execution of the withdrawal of US troops from Afghanistan, saying that he doesn't think the crisis represents a failure and there was no way to better handle the end to the nation's longest war.\n    \n"
     publishedDateTime: 2021-08-18T21:22:41Z

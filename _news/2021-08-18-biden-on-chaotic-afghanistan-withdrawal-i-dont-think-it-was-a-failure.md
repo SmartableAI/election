@@ -175,6 +175,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's presidency is under scrutiny as never before over Afghan chaos"
+    excerpt: "President Joe Biden is struggling against an intensifying examination of his judgment, competence and even his empathy over the chaotic US exit from Afghanistan. And each attempt the administration makes to quell a furor that's tarnishing America's image only provokes more questions about its failures"
+    publishedDateTime: 2021-08-19T06:43:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7Dz6QRLgD9Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/joe-biden-presidency-under-scrutiny/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/joe-biden-presidency-under-scrutiny/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210818181116-02-biden-remarks-081821-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden spoke with Obama and Bush ahead of Afghanistan withdrawal announcement"
     excerpt: "Former President Barack Obama on Wednesday praised President Joe Biden's \"bold leadership\" for his decision to withdraw all US troops from Afghanistan by September 11, saying that \"it is time to recognize that we have accomplished all that we can militarily\" in America's longest war.\n    \n"
     publishedDateTime: 2021-04-15T02:37:32Z
