@@ -60,6 +60,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Real estate agent who asked Trump for a pardon pleads guilty in Capitol riot"
+    excerpt: "A Texas real estate agent who went viral after asking former President Donald Trump to pardon her for storming the Capitol pleaded guilty Thursday to a misdemeanor for her role in the riot.\n    \n"
+    publishedDateTime: 2021-08-19T16:04:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j3gJv6Pfkmc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/jenna-ryan-misdemeanor-capitol-riot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/jenna-ryan-misdemeanor-capitol-riot/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210727153745-capitol-riot-file-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Senate Judiciary chairman wants to interview former Trump chief of staff Mark Meadows"
     excerpt: "The Trump White House is facing increased scrutiny on Capitol Hill as a powerful committee chairman wants to interview then-President Donald Trump's former chief of staff to determine the extent of the pressure the Justice Department faced to try to overturn Joe Biden's victory.\n    \n"
     publishedDateTime: 2021-08-10T20:10:33Z

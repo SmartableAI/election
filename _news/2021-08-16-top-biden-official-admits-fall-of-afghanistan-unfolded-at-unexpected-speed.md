@@ -255,6 +255,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Over 50 senators urge Biden to accelerate evacuation of Afghan SIV applicants"
+    excerpt: "A bipartisan group of more than 50 senators is calling on President Biden to immediately evacuate Afghan SIV applicants and their families as Afghanistan falls further into chaos."
+    publishedDateTime: 2021-08-19T17:11:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Utr3_gIwGyI/senators-biden-accelerate-evacuation-afghan-siv-applicants"
+    ampWebUrl: "https://www.foxnews.com/politics/senators-biden-accelerate-evacuation-afghan-siv-applicants.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senators-biden-accelerate-evacuation-afghan-siv-applicants.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a6311a4-fd3a-4a2c-af1e-efb5505de674/d246c280-e48e-4e22-82d4-da2a00d67c91/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "McCarthy slams Biden's Afghanistan withdrawal as 'embarrassment to our nation'"
     excerpt: "House Minority Leader Kevin McCarthy, R-Calif., slammed President Biden's \"complete mismanagement\" of the withdrawal of troops from Afghanistan and called for the U.S. military to continue to provide \"close air support\" to combat the surging Taliban forces. "
     publishedDateTime: 2021-08-14T18:13:18Z
@@ -332,6 +348,22 @@ related:
     quality: 166
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/998f5457-223e-4d04-a124-24d3e7d832f9/59eee0b4-4473-4400-8ede-b8ca36bdf67c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Afghanistan withdrawal: Biden continues bunker strategy after widely panned ABC interview"
+    excerpt: "The president took all public remarks, press briefings and press conferences off his schedule on Thursday as he and his administration deal with the blowback from their botched troop withdrawal that saw Kabul fall into the hands of the Taliban."
+    publishedDateTime: 2021-08-19T17:01:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G0YP1d6uK_4/afghanistan-withdrawal-biden-bunker-strategy-clears-schedule"
+    ampWebUrl: "https://www.foxnews.com/politics/afghanistan-withdrawal-biden-bunker-strategy-clears-schedule.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/afghanistan-withdrawal-biden-bunker-strategy-clears-schedule.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0fc1c584-ee37-4060-ae21-48ebe072348d/570387cd-51ee-4162-9515-c4075dd83de4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

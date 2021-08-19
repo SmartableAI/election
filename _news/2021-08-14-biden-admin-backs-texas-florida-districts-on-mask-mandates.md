@@ -27,54 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden’s own Delaware homies hit back hard at vaccine mandates"
-    excerpt: "Hundreds of Delaware medical professionals and their supporters are bucking a mandate from the state’s largest hospital that all employees get vaccinated against COVID-19 as a condition of employment."
-    publishedDateTime: 2021-08-10T15:23:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/aug/10/joe-bidens-own-delaware-homies-hit-back-hard-vacci/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/10/joe-bidens-own-delaware-homies-hit-back-hard-vacci/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/10/joe-bidens-own-delaware-homies-hit-back-hard-vacci/"
+  - title: "Marjorie Taylor Greene Launches Foul-Mouthed Broadside at Joe Biden in Video"
+    excerpt: "Representative Marjorie Taylor Greene harshly criticized President Joe Biden in a video on Wednesday over the situation in Afghanistan and the COVID-19 pandemic. Greene, a Republican who represents Georgia's 14th congressional district,"
+    publishedDateTime: 2021-08-19T13:23:00Z
+    webUrl: "https://www.newsweek.com/marjorie-taylor-greene-foul-mouthed-broadside-joe-biden-video-1620960"
+    ampWebUrl: "https://www.newsweek.com/marjorie-taylor-greene-foul-mouthed-broadside-joe-biden-video-1620960?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/marjorie-taylor-greene-foul-mouthed-broadside-joe-biden-video-1620960?amp=1"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/08/04/biden_67143_c0-160-3844-2402_s1200x700.jpg?2e1baba47e212a77841cb42932b8eabe976cc3ff"
-        width: 1200
-        height: 700
+      - url: "https://d.newsweek.com/en/full/1874692/marjorie-taylor-greene-holds-press-conference.jpg"
+        width: 2500
+        height: 1664
         isCached: true
-  - title: "Joe Biden does a Barack Obama and flees accountability"
-    excerpt: "Rome burns as Nero fiddles. Afghanistan churns as President Biden vacations. But what to expect from a man who campaigned for the highest office in the land from the safety and security of his man-cav"
-    publishedDateTime: 2021-08-16T12:51:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/aug/16/joe-biden-does-barack-obama-and-flees-accountabili/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/16/joe-biden-does-barack-obama-and-flees-accountabili/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/16/joe-biden-does-barack-obama-and-flees-accountabili/"
+  - title: "Joe Biden takes aim at Texas blocking mask mandates"
+    excerpt: "By James Barragán, The Texas Tribune Texas Gov. Greg Abbott may soon be fighting a war on two fronts — with local officials and the federal government — to stave off mandatory COVID-19 prevention efforts after the Biden administration announced Wednesday it was going after states like Texas that try to ban universal masking at"
+    publishedDateTime: 2021-08-19T09:12:00Z
+    webUrl: "https://www.crosstimbersgazette.com/2021/08/18/joe-biden-takes-aim-at-texas-blocking-mask-mandates/"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
+      name: The Cross Timbers Gazette
+      domain: crosstimbersgazette.com
+    quality: 55
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/08/13/Biden_25722.jpg-846a3_c0-142-3401-2125_s1200x700.jpg?fcd4bdd22a52f7b00fdd30ce74f59719c12c6c6a"
-        width: 1200
-        height: 700
+      - url: "https://www.crosstimbersgazette.com/crosstimbersgazette/wp-content/uploads/2021/08/biden.jpg"
+        width: 848
+        height: 570
         isCached: true
-  - title: "Biden calls Broward superintendent to support the school district’s mask mandate"
-    excerpt: "President Joe Biden on Friday night called Broward County Schools interim superintendent Vickie Cartwright to say he supports the district’s staying the course on mask mandates in defiance of Gov. Ron DeSantis’ order,"
-    publishedDateTime: 2021-08-14T15:26:00Z
-    webUrl: "https://www.miamiherald.com/news/politics-government/article253491299.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article253491299.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article253491299.html"
+  - title: "Biden to increase food stamp benefits by largest margin in program’s history"
+    excerpt: "Average food stamp benefits in October will go up by more than 25 percent from pre-pandemic levels for the 42 million people in the program."
+    publishedDateTime: 2021-08-15T19:04:00Z
+    webUrl: "https://www.bostonglobe.com/2021/08/15/nation/biden-increase-food-stamp-benefits-by-largest-margin-programs-history/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/08/15/nation/biden-increase-food-stamp-benefits-by-largest-margin-programs-history/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/08/15/nation/biden-increase-food-stamp-benefits-by-largest-margin-programs-history/?outputType=amp"
     type: article
     provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 70
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/d15725ae-ed58-4b96-8823-c15eeeeb6014/ffe52e48-2ec3-40dd-ada9-09adfce4283d/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 52
 
 secured: "aJoRenVB2kVe3CG//wGKpHr1OWTN8e0MWwmeB+emPRSGY8/6J8r0Yb2wofPSM1oxoqhj02ADMzYaylxcyKt9/4Yb4tyjSzAoQyRdY+faIcq0AeFqqAhsw9uLVuK5LiC8Mub9HTYn8TZ4ny+dTsLTwVGYgFWqByHHOgMMRYOnl+BFp6j+dx8QmvTWPVmYMzRnkscuCz4deL51Z6VUyJFIvjCRD2bBoKjR1kLyxir0Bk+T1f7Q/CKUcRkFBnbMC5VHB9J4U0nBplXqeJ+U3nxw8eZX5bD2tpqFAf5kVAY8c8PY5sqPhgUlmOHEzcUmjrM+1Eq7YA8RSGNBNGyxg0LYXK0Mfgqb4S6XlyFqjY0d9qc=;NXW6R3BZSwWQ8oYsbx5v9g=="
 ---

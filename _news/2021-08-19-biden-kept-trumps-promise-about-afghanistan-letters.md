@@ -635,6 +635,22 @@ related:
         width: 2500
         height: 1799
         isCached: true
+  - title: "Joe Biden's Approval Rating Slumps Again, Still Higher Than Donald Trump's"
+    excerpt: "President Joe Biden's approval rating has slumped again in recent days as he has faced criticism for his handling of the situation in Afghanistan and defended his administration's position. The president's approval rating on August 18 stood at 49.3 percent ..."
+    publishedDateTime: 2021-08-19T15:35:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-approval-rating-slumps-again-still-higher-donald-trump-1621013"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-approval-rating-slumps-again-still-higher-donald-trump-1621013?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-approval-rating-slumps-again-still-higher-donald-trump-1621013?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 138
+    images:
+      - url: "https://d.newsweek.com/en/full/1874817/president-joe-biden-delivers-remarks-covid-19.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "How Joe Biden's Executive Orders in First 100 Days Compare to Donald Trump's"
     excerpt: "The executive orders give a snapshot of the differing priorities between the two administrations soon after taking office."
     publishedDateTime: 2021-04-28T09:28:00Z
@@ -2192,22 +2208,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Was Biden handcuffed by Trump's Taliban deal in Doha?"
-    excerpt: "President Joe Biden is pointing to the agreement signed in Doha, Qatar, as he tries to deflect blame for the Taliban overrunning Afghanistan in a blitz. He says it bound him to withdraw U.S. troops, setting the stage for the chaos engulfing the country."
-    publishedDateTime: 2021-08-19T13:14:00Z
-    webUrl: "https://www.seattlepi.com/news/article/Was-Biden-handcuffed-by-Trump-s-Taliban-deal-in-16396943.php"
-    ampWebUrl: "https://www.seattlepi.com/news/amp/Was-Biden-handcuffed-by-Trump-s-Taliban-deal-in-16396943.php"
-    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Was-Biden-handcuffed-by-Trump-s-Taliban-deal-in-16396943.php"
-    type: article
-    provider:
-      name: seattlepi.com
-      domain: seattlepi.com
-    quality: 90
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Biden administration considers reinstating car regulations slashed by Trump"
     excerpt: "The National Highway Administration is considering reinstating regulations slashed in the last days of the Trump administration."
     publishedDateTime: 2021-08-18T17:52:00Z
@@ -2547,6 +2547,17 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
+    quality: 70
+  - title: "Was Biden handcuffed by Trump’s Taliban deal in Doha?"
+    excerpt: "President Joe Biden and his national security team say the Trump administration tied their hands when it came to the U.S. withdrawal from Afghanistan."
+    publishedDateTime: 2021-08-19T15:31:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/national-politics/article253598898.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/national-politics/article253598898.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/national-politics/article253598898.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
     quality: 70
   - title: "Eric Trump’s Pants on Fire claim that Joe Biden’s White House doesn’t travel"
     excerpt: "President Joe Biden steps off Air Force One to board Marine One at Andrews Air Force Base, Md., on May 19, 2021, for a trip back to the White House after speaking at the commencement for the U.S. Coast Guard Academy in New London,"

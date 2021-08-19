@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/12/politics/joe-biden-donald-trump-b
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/12/politics/joe-biden-donald-trump-barack-obama-afghanistan-infrastructure/index.html"
 type: article
 quality: 185
-heat: 805
+heat: 825
 published: true
 
 provider:
@@ -172,6 +172,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210818181116-02-biden-remarks-081821-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact-checking Biden's ABC interview on Afghanistan"
+    excerpt: "President Joe Biden sat down with ABC News anchor George Stephanopoulos on Wednesday for an interview that focused on the US withdrawal from Afghanistan.\n    \n"
+    publishedDateTime: 2021-08-19T19:56:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LGaw364N-_k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/fact-check-biden-abc-interview-afghanistan-stephanopoulos/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/fact-check-biden-abc-interview-afghanistan-stephanopoulos/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210818173332-joe-biden-abc-news-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

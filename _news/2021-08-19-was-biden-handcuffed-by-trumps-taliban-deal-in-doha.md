@@ -1,30 +1,24 @@
 ---
 category: news
-title: "Was Biden handcuffed by Trump's Taliban deal in Doha?"
-excerpt: "President Joe Biden is pointing to the agreement signed in Doha, Qatar, as he tries to deflect blame for the Taliban overrunning Afghanistan in a blitz. He says it bound him to withdraw U.S. troops, setting the stage for the chaos engulfing the country."
-publishedDateTime: 2021-08-19T13:14:00Z
-originalUrl: "https://www.seattlepi.com/news/article/Was-Biden-handcuffed-by-Trump-s-Taliban-deal-in-16396943.php"
-webUrl: "https://www.seattlepi.com/news/article/Was-Biden-handcuffed-by-Trump-s-Taliban-deal-in-16396943.php"
-ampWebUrl: "https://www.seattlepi.com/news/amp/Was-Biden-handcuffed-by-Trump-s-Taliban-deal-in-16396943.php"
-cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Was-Biden-handcuffed-by-Trump-s-Taliban-deal-in-16396943.php"
+title: "Was Biden handcuffed by Trump’s Taliban deal in Doha?"
+excerpt: "President Joe Biden and his national security team say the Trump administration tied their hands when it came to the U.S. withdrawal from Afghanistan."
+publishedDateTime: 2021-08-19T15:31:00Z
+originalUrl: "https://www.newsobserver.com/news/politics-government/national-politics/article253598898.html"
+webUrl: "https://www.newsobserver.com/news/politics-government/national-politics/article253598898.html"
+ampWebUrl: "https://amp.newsobserver.com/news/politics-government/national-politics/article253598898.html"
+cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/national-politics/article253598898.html"
 type: article
-quality: 90
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: seattlepi.com
-  domain: seattlepi.com
+  name: Raleigh News & Observer
+  domain: newsobserver.com
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
-    isCached: true
 
 related:
   - title: "Joe Biden raises Trump refugee cap after backlash"
@@ -634,6 +628,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1871451/liz-cheney.jpg"
         width: 2500
         height: 1799
+        isCached: true
+  - title: "Joe Biden's Approval Rating Slumps Again, Still Higher Than Donald Trump's"
+    excerpt: "President Joe Biden's approval rating has slumped again in recent days as he has faced criticism for his handling of the situation in Afghanistan and defended his administration's position. The president's approval rating on August 18 stood at 49.3 percent ..."
+    publishedDateTime: 2021-08-19T15:35:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-approval-rating-slumps-again-still-higher-donald-trump-1621013"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-approval-rating-slumps-again-still-higher-donald-trump-1621013?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-approval-rating-slumps-again-still-higher-donald-trump-1621013?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 138
+    images:
+      - url: "https://d.newsweek.com/en/full/1874817/president-joe-biden-delivers-remarks-covid-19.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "How Joe Biden's Executive Orders in First 100 Days Compare to Donald Trump's"
     excerpt: "The executive orders give a snapshot of the differing priorities between the two administrations soon after taking office."
@@ -2740,6 +2750,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "k1d2cFJC2rldzhMR4ZAkdcKH1wfMo45XtKwj+aq/7IYuBkjYLYFXAFS3qMkMMxcyOpSsu21eTnxYaIZ6QQXrIPeNJCRVFGFe+xUBlAdKOqHYrwV0ih3eFLdDk4312wT61R+oyjVtQl9wuLwWPaSMkVae2coIBO2NgQHeN1kX9932psvYT6hA3gH10r6dBIsxw53OskTAhjI8/nkmmVd4Ih4JmHnj/kbggEqgiODVbiEj1NExbRuxLu/frh9akWAgTftlFzjuPQcECuLsIvCCxhIAwkuj/hXdj04Pj+4gvy8EOqr3YIF/lsaeYMRHbOafHL3iFMcvroyPWOENoUYVmHTYDrlN+Tz+W0dPpEoPzoo=;ddgXzNMvzTbb6S1JlQylJw=="
+secured: "b6jcxaSQinvv9tnYQHZo4w4u9xiDtMhDFvzNAaZ5Jef5vQr5cmGbRESY4hYDaV8bBAJqQ9wAByd8bFu4NNxFLKfEgSCzzB4icElU5rD9Qk1Xp5yyJhyiNXYboWbi6W+Hkngc+62CFFM8mkCu8MeNAu1G5aWo+Cu35oVu8ZilAWU7y2F5M1ZwaDeulu3aa5+NuhfoK33Y2S8smFeB0QRN7uho14vnAps5aTn2bb51TKMffGXpW480wFSi+D/gjsqQ1Ty/kY2dQqA18ihX9pDAths3xzy21JYlclzuOzz5l69DcnPguX6qqCFvBek2lN+1bkwgQZ3NrwMfN2QFzrNuKJ2Iv4B4mmUNRQ+i7gauZL9OhAby2wwmN9WFOdINpdrgLRQe2a/IJBkBmr58RCxfYnCcYZLrMmros2C8LMBwiXeJfu+XiQXZiKPCXk9J3Q4vpM/nZYAmvPhqW8KZkfmvoccVAAe5P+Y5ofNpiCbmdRsguaBe3HQZ803TwRKiTvs8l+fZc9T4hs3NsrkFBkw7mA==;PINXYc9AazSvp2rlQ1IROg=="
 ---
 

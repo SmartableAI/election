@@ -41,17 +41,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Biden to increase food stamp benefits by largest margin in program’s history"
-    excerpt: "Average food stamp benefits in October will go up by more than 25 percent from pre-pandemic levels for the 42 million people in the program."
-    publishedDateTime: 2021-08-15T19:04:00Z
-    webUrl: "https://www.bostonglobe.com/2021/08/15/nation/biden-increase-food-stamp-benefits-by-largest-margin-programs-history/"
-    ampWebUrl: "https://www.bostonglobe.com/2021/08/15/nation/biden-increase-food-stamp-benefits-by-largest-margin-programs-history/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/08/15/nation/biden-increase-food-stamp-benefits-by-largest-margin-programs-history/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 52
 
 secured: "6d5gmm6Wc1ZYMY4Y79LlDVCH67hmraelafmcDaZ/0FSfiORgnnQuyLsNwzgVG9Z7srQrJn9BkecsFAAhkNC7FVoMEk5Ngamhm8C3+o8mL2tnK5gIV6xuTeNuU3qVJQiPZh4gBp0LOgbYxR91T98oBVJp/ijEpTFJxgn2B5cKEd/v8xHVUp9oMVMOHGloYjgjV5IQkaPZzLyDYZc6PC4GHVW8KeUu07Iz6zMKJOyEERdRcOHAmUF42rmNbP1kLRFean8xYC5tg8A9LsyRTQ3ySTzs/RgClkl86pbFrakxHT9kz+PMNqK3wpxJpVQxt8U8X3nS8jnN3W/VoRG0kNxsWSyuAe//biOwzow/SODHVkE=;1kMnsVjdSRYQjGrMaETZsg=="
 ---

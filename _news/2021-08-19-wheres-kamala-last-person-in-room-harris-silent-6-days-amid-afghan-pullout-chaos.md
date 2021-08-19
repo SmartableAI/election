@@ -220,6 +220,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Biden tells allies they can trust the US, despite waning confidence in his foreign policy prowess"
+    excerpt: "President Biden is attempting to reassure American allies who are casting doubt on his ability to skillfully manage foreign policy in the wake of the botched Afghanistan withdrawal. "
+    publishedDateTime: 2021-08-19T16:30:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mQXcwGYUo0U/biden-allies-trust-us-waning-confidence"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-allies-trust-us-waning-confidence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-allies-trust-us-waning-confidence.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00f4bf63-df69-4086-9f9e-5af276e2f2b6/7d283902-9de9-4356-9fb8-596edbc83d4b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Taliban poised to impose Sharia law in Afghanistan, threatening people Biden professes to fight for"
     excerpt: "Fears are growing that the Taliban will move to reimplement Sharia Law with their trademark brutal enforcement"
     publishedDateTime: 2021-08-15T23:01:12Z
@@ -284,6 +300,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden says Taliban in 'existential crisis,' as Islamic militant group terrorizes Afghans after US withdrawal"
+    excerpt: "Biden was interviewed by ABC about the withdrawal from Afghanistan"
+    publishedDateTime: 2021-08-19T16:18:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_87Mh5M7qgc/biden-taliban-existential-crisis-trust"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-taliban-existential-crisis-trust.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-taliban-existential-crisis-trust.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden, Harris stepping onto the world stage for first foreign trips"
     excerpt: "The White House is taking a business trip. President Biden is headed off the the UK and Europe while Vice President Biden is heading south to Guatemala."
     publishedDateTime: 2021-06-05T23:37:00Z
@@ -299,6 +331,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/biden-harris-1.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Mike Pence: Biden Broke Our Deal With the Taliban"
+    excerpt: "It’s a foreign-policy humiliation unlike anything our country has endured since the Iran hostage crisis."
+    publishedDateTime: 2021-08-17T21:19:00Z
+    webUrl: "https://www.wsj.com/articles/mike-pence-biden-broke-our-deal-with-the-taliban-11629238764"
+    ampWebUrl: "https://www.wsj.com/amp/articles/mike-pence-biden-broke-our-deal-with-the-taliban-11629238764"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/mike-pence-biden-broke-our-deal-with-the-taliban-11629238764"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-386887/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Pompeo: Biden failing to execute Afghan withdrawal, Trump warned Taliban of consequences"
     excerpt: "Former Secretary of State Mike Pompeo called out the Biden administration for what he described as poor planning and poor execution of a U.S. troop withdrawal from Afghanistan, which may lead to the nation's capital of Kabul to fall to Taliban insurgents within the next 3 months."
@@ -394,6 +442,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Mike Pence: Biden broke our deal with the Taliban – it's a humiliation not seen since Iran hostage crisis"
+    excerpt: "The Biden administration’s disastrous withdrawal from Afghanistan is a foreign-policy humiliation unlike anything our country has endured since the Iran hostage crisis."
+    publishedDateTime: 2021-08-18T14:42:00Z
+    webUrl: "https://www.foxnews.com/opinion/biden-deal-taliban-iran-mike-pence"
+    ampWebUrl: "https://www.foxnews.com/opinion/biden-deal-taliban-iran-mike-pence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/biden-deal-taliban-iran-mike-pence.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c7d15fb-2d44-4a17-92f0-354974c2091c/14977800-7f47-4db1-b723-2269ef9cf2ca/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Why Harris is treading carefully in Biden world, and taking flak from the press"
     excerpt: "There are signs that the press is unhappy with Vice President Harris, or at least getting impatient. Why doesn’t she make more news? Why is she so cautious?"
     publishedDateTime: 2021-05-19T07:00:00Z
@@ -407,6 +471,20 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/AP21137642542411.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "WSJ Opinion: The Taliban Capture Joe Biden"
+    excerpt: "With the Democratic Party's relentless leftward lurch, how long will the president’s old pals, the moderate Democrats, continue w"
+    publishedDateTime: 2021-08-19T17:35:00Z
+    webUrl: "https://www.wsj.com/video/series/wonder-land-henninger/wsj-opinion-the-taliban-capture-joe-biden/B60465EC-DAFD-4C85-902E-AC1B076CD74A"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "http://m.wsj.net/video/20210818/081821opvidwl/081821opvidwl_1280x720.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Radical Nation: Biden & Harris's Dangerous Plan for America"
     excerpt: "The following is an exclusive excerpt from Sean Spicer's new book, Radical Nation: Joe Biden & Kamala Harris's Dangerous Plan for America, available on October 26. Read Full Artic"

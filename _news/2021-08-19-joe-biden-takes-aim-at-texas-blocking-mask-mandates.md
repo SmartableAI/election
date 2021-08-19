@@ -25,36 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "Biden praises Arizona, Florida school chiefs on mask-wearing"
-    excerpt: "President Joe Biden has commended the leadership of two Arizona and Florida school district superintendents after the districts' boards recently implemented mask requirements in defiance of their Republican governors."
-    publishedDateTime: 2021-08-14T19:46:00Z
-    webUrl: "https://www.nhregister.com/news/article/Biden-praises-Arizona-Florida-school-chiefs-on-16387253.php"
-    ampWebUrl: "https://www.nhregister.com/news/amp/Biden-praises-Arizona-Florida-school-chiefs-on-16387253.php"
-    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Biden-praises-Arizona-Florida-school-chiefs-on-16387253.php"
+  - title: "Marjorie Taylor Greene Launches Foul-Mouthed Broadside at Joe Biden in Video"
+    excerpt: "Representative Marjorie Taylor Greene harshly criticized President Joe Biden in a video on Wednesday over the situation in Afghanistan and the COVID-19 pandemic. Greene, a Republican who represents Georgia's 14th congressional district,"
+    publishedDateTime: 2021-08-19T13:23:00Z
+    webUrl: "https://www.newsweek.com/marjorie-taylor-greene-foul-mouthed-broadside-joe-biden-video-1620960"
+    ampWebUrl: "https://www.newsweek.com/marjorie-taylor-greene-foul-mouthed-broadside-joe-biden-video-1620960?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/marjorie-taylor-greene-foul-mouthed-broadside-joe-biden-video-1620960?amp=1"
     type: article
     provider:
-      name: New Haven Register
-      domain: nhregister.com
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
+    images:
+      - url: "https://d.newsweek.com/en/full/1874692/marjorie-taylor-greene-holds-press-conference.jpg"
+        width: 2500
+        height: 1664
+        isCached: true
+  - title: "Biden admin backs Texas, Florida districts on mask mandates"
+    excerpt: "President Joe Biden’s administration is offering its full-throated support for local cities and school boards in Texas and Florida that are defying orders by their Republican governors that prohibit m"
+    publishedDateTime: 2021-08-14T05:37:00Z
+    webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-13/biden-admin-backs-texas-florida-districts-on-mask-mandates"
+    ampWebUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-13/biden-admin-backs-texas-florida-districts-on-mask-mandates?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2021-08-13/biden-admin-backs-texas-florida-districts-on-mask-mandates?_amp=true"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
     quality: 75
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/399e1a4/2147483647/strip/true/crop/3648x2440+0+148/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa3%2F6d%2Fd6fe6349dcfb4bad22a3bbbcdffc%2F18cf34c5ce1143509d2ae694f42f956b"
+        width: 320
+        height: 214
         isCached: true
-  - title: "Could Joe Biden challenge Florida, Texas on mask policies? Probably not"
-    excerpt: "The White House has expressed concern about efforts by some Republican-led states to prevent school districts from imposing mask mandates. • Under the 10th Amendment to the Constitution, the federal government’s ability to overrule states and localities on matters such as public health laws are limited,"
-    publishedDateTime: 2021-08-12T00:00:00Z
-    webUrl: "https://www.politifact.com/article/2021/aug/12/could-joe-biden-challenge-florida-texas-mask-polic/"
+  - title: "Biden to increase food stamp benefits by largest margin in program’s history"
+    excerpt: "Average food stamp benefits in October will go up by more than 25 percent from pre-pandemic levels for the 42 million people in the program."
+    publishedDateTime: 2021-08-15T19:04:00Z
+    webUrl: "https://www.bostonglobe.com/2021/08/15/nation/biden-increase-food-stamp-benefits-by-largest-margin-programs-history/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/08/15/nation/biden-increase-food-stamp-benefits-by-largest-margin-programs-history/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/08/15/nation/biden-increase-food-stamp-benefits-by-largest-margin-programs-history/?outputType=amp"
     type: article
     provider:
-      name: Politifact
-      domain: politifact.com
-    quality: 55
-    images:
-      - url: "https://static.politifact.com/CACHE/images/politifact/photos/AP_21222711656883/771d98a7e6520a9168fb0cd7b578f6d0.jpg"
-        width: 1024
-        height: 584
-        isCached: true
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 52
 
 secured: "avPfA+xI+pVAtaubGGRNxt3z5sgkIJAhyeDaplAJbP9Xg3+mFRnNXpnjsT/x4Nz7bRAPvyl95pv1eHmooWO9EDzaSRrKk7AuadfXNwlB6bHIa0T/GDKDc25ucXYr4aI57ooPUWVfhNxcfF1CZnzSNNcLa0eEhZNPAu9YXR2KiHdwvqi2/MTz4Oz6cHtP+OogPOuNSeTERS6GbJYN38YVMVb4JmqDcWH2TLjgObe2Aimsk4AuJsJhSehqdjtd3E9NQ+nCHRdM5fDKXK+d+uWWv+5wSj/AYCWvZ3k7W1ij8R7FjVc0FO5CtC7k8EQYQ/s+PCFsWHL2GPOgnMG3m8DU09i1cQNTQd5gnvZ8ShFJghU=;Zc8h1d82l6o4j31nyx01JA=="
 ---

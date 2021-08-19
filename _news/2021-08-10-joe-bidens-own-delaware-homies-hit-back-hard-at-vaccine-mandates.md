@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/10/joe-bidens-own-dela
 cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/10/joe-bidens-own-delaware-homies-hit-back-hard-vacci/"
 type: article
 quality: 75
-heat: 135
+heat: 115
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden admin backs Texas, Florida districts on mask mandates"
-    excerpt: "President Joe Biden’s administration is offering its full-throated support for local cities and school boards in Texas and Florida that are defying orders by their Republican governors that prohibit m"
-    publishedDateTime: 2021-08-14T05:37:00Z
-    webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-13/biden-admin-backs-texas-florida-districts-on-mask-mandates"
-    ampWebUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-13/biden-admin-backs-texas-florida-districts-on-mask-mandates?_amp=true"
-    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2021-08-13/biden-admin-backs-texas-florida-districts-on-mask-mandates?_amp=true"
-    type: article
-    provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 75
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/399e1a4/2147483647/strip/true/crop/3648x2440+0+148/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa3%2F6d%2Fd6fe6349dcfb4bad22a3bbbcdffc%2F18cf34c5ce1143509d2ae694f42f956b"
-        width: 320
-        height: 214
-        isCached: true
   - title: "Joe Biden does a Barack Obama and flees accountability"
     excerpt: "Rome burns as Nero fiddles. Afghanistan churns as President Biden vacations. But what to expect from a man who campaigned for the highest office in the land from the safety and security of his man-cav"
     publishedDateTime: 2021-08-16T12:51:00Z

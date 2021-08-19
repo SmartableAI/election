@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-19-marjorie-taylor-greene-launches-foul-mouthed-broadside-at-joe-biden-in-video.md",
+      "title": "Marjorie Taylor Greene Launches Foul-Mouthed Broadside at Joe Biden in Video",
+      "excerpt": "Representative Marjorie Taylor Greene harshly criticized President Joe Biden in a video on Wednesday over the situation in Afghanistan and the COVID-19 pandemic. Greene, a Republican who represents Georgia's 14th congressional district,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/marjorie-taylor-greene-foul-mouthed-broadside-joe-biden-video-1620960",
+      "originalUrl": "https://www.newsweek.com/marjorie-taylor-greene-foul-mouthed-broadside-joe-biden-video-1620960",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1874692/marjorie-taylor-greene-holds-press-conference.jpg",
+          "width": 2500,
+          "height": 1664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/marjorie-taylor-greene-foul-mouthed-broadside-joe-biden-video-1620960?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/marjorie-taylor-greene-foul-mouthed-broadside-joe-biden-video-1620960?amp=1",
+      "publishedDateTime": "2021-08-19T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-19-full-transcript-of-abc-news-george-stephanopoulos-interview-with-president-joe-biden.md",
       "title": "Full transcript of ABC News' George Stephanopoulos' interview with President Joe Biden",
       "excerpt": "Stephanopoulos spoke to Biden in an exclusive interview Wednesday. Read the full transcript of President Joe Biden's exclusive interview with ABC News' George Stephanopoulos on Wednesday. GEORGE STEPHANOPOULOS: Mr.",
@@ -151,10 +203,10 @@
     {
       "path": "_news/2021-08-19-joe-biden-says-there-was-no-way-to-exit-without-chaos-as-it-happened.md",
       "title": "Joe Biden says there was no way to exit without ‘chaos’ – as it happened",
-      "excerpt": "Nicola Slawson, Ben Quinn, Kevin Rawlinson, Rachel Hall and Ben Doherty (earlier) This blog is now closed – we’ve launched a new blog with the latest live coverage at the link below: Up to 15,000 Americans remain in Afghanistan after the Taliban took full control of the nation last weekend.",
+      "excerpt": "This blog is now closed, You can find our latest live coverage here.",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis?page=with:block-611d8fbe8f08e83ac7bdf03d",
-      "originalUrl": "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis?page=with:block-611d8fbe8f08e83ac7bdf03d",
+      "webUrl": "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis?traffic_source=Connatix",
+      "originalUrl": "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis?traffic_source=Connatix",
       "featuredContent": null,
       "highlight": null,
       "heat": 104,
@@ -286,7 +338,7 @@
       "originalUrl": "https://www.newsweek.com/candace-owens-says-joe-biden-hiding-like-little-b-afghanistan-falls-1619586",
       "featuredContent": null,
       "highlight": null,
-      "heat": 281,
+      "heat": 301,
       "tags": null,
       "images": [
         {
@@ -338,7 +390,7 @@
       "originalUrl": "https://www.nhregister.com/news/article/Biden-praises-Arizona-Florida-school-chiefs-on-16387253.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -381,7 +433,7 @@
       "originalUrl": "https://www.ctpost.com/news/article/Jill-Biden-wears-medical-boot-after-foot-injury-16385810.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -986,7 +1038,7 @@
       "originalUrl": "https://www.washingtontimes.com/news/2021/aug/10/joe-bidens-own-delaware-homies-hit-back-hard-vacci/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -1435,58 +1487,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-biden-set-to-comment-on-cuomo-as-white-house-calls-report-findings-abhorrent.md",
-      "title": "Biden set to comment on Cuomo as White House calls report findings ‘abhorrent’",
-      "excerpt": "President to address issue later on Tuesday, spokesperson says, as New York senators and members of Congress urge Cuomo to quit",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 281,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/d50c4bf5178356705905e065c63f90202161f50f/0_0_6930_4158/master/6930.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fe9d94f9a41a7a9ee93197fd08cd8132",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation",
-      "publishedDateTime": "2021-08-03T11:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

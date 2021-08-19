@@ -451,6 +451,17 @@ related:
       name: Lexington Herald Leader
       domain: kentucky.com
     quality: 55
+  - title: "Kushner pal hit with state charges months after Trump pardon"
+    excerpt: "A newspaper editor friend of former President Donald Trump’s son-in-law Jared Kushner was hit Wednesday with state cyberstalking charges in New York, seven months after Trump pardoned him in a similar federal case just before leaving office."
+    publishedDateTime: 2021-08-19T18:25:00Z
+    webUrl: "https://www.myrtlebeachonline.com/entertainment/article253583399.html"
+    ampWebUrl: "https://amp.myrtlebeachonline.com/entertainment/article253583399.html"
+    cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/entertainment/article253583399.html"
+    type: article
+    provider:
+      name: The Sun News
+      domain: myrtlebeachonline.com
+    quality: 55
   - title: "Donald Trump endorses Republican Derrick Van Orden to replace Democrat Ron Kind in 3rd Congressional District"
     excerpt: "Former President Donald Trump is throwing his support behind the Republican candidate for Wisconsin's 3rd District congressional seat being vacated by Democratic U.S. Rep. Ron Kind. Derrick Van Orden received the former president's approval this week after the long-time incumbent Kind announced he would not seek another term."
     publishedDateTime: 2021-08-12T18:29:00Z

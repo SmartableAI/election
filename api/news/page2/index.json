@@ -2,6 +2,105 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-17-former-president-coming-to-heart-of-trump-country-on-return-to-alabama.md",
+      "title": "Former president coming to ‘heart of Trump country’ on return to Alabama",
+      "excerpt": "John Wahl said he started working to bring former President Donald Trump back to Alabama right after the state Republican Party picked him as chairman in February. Earlier efforts fell through, including a planned rally July 3 at the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.al.com/news/2021/08/former-president-coming-to-heart-of-trump-country-on-return-to-alabama.html",
+      "originalUrl": "https://www.al.com/news/2021/08/former-president-coming-to-heart-of-trump-country-on-return-to-alabama.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CG36TSTRSZB4ZN7NW5OAVVCW7A.jpg",
+          "width": 819,
+          "height": 461,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.al.com/news/2021/08/former-president-coming-to-heart-of-trump-country-on-return-to-alabama.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/08/former-president-coming-to-heart-of-trump-country-on-return-to-alabama.html?outputType=amp",
+      "publishedDateTime": "2021-08-16T17:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "al.com",
+        "domain": "al.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-16-fareed-zakaria-this-withdrawal-is-a-stain-on-bidens-foreign-policy.md",
+      "title": "Fareed Zakaria: This withdrawal is a stain on Biden's foreign policy ",
+      "excerpt": "CNN's Anderson Cooper talks with Fareed Zakaria about the crisis unfolding in Afghanistan and what this means for President Joe Biden's foreign policy. Watch \"Full Circle\" Monday, Wednesday and Friday 6p E.T.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mNAv79ZlOjM/fareed-zakaria-afghanistan-biden-acfc-sot-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mNAv79ZlOjM/fareed-zakaria-afghanistan-biden-acfc-sot-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210816192228-fareed-acfc-2-desktop-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/world/2021/08/16/fareed-zakaria-afghanistan-biden-acfc-sot-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2021/08/16/fareed-zakaria-afghanistan-biden-acfc-sot-vpx.cnn",
+      "publishedDateTime": "2021-08-16T16:41:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-16-title-cover-and-details-of-new-trump-book-from-bob-woodward-robert-costa.md",
       "title": "Title, cover and details of new Trump book from Bob Woodward, Robert Costa",
       "excerpt": "First it was \"Fear,\" then it was \"Rage,\" now it is \"Peril.\" That is the title of the highly-anticipated third book about President Trump from legendary journalist Bob Woodward, this time written with co-author Robert Costa, a Washington Post national political reporter.\n    \n",
@@ -109,7 +208,7 @@
       "originalUrl": "https://www.newsweek.com/candace-owens-says-joe-biden-hiding-like-little-b-afghanistan-falls-1619586",
       "featuredContent": null,
       "highlight": null,
-      "heat": 281,
+      "heat": 301,
       "tags": null,
       "images": [
         {
@@ -221,7 +320,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 780,
+      "heat": 880,
       "tags": null,
       "images": [
         {
@@ -425,7 +524,7 @@
       "originalUrl": "https://www.nhregister.com/news/article/Biden-praises-Arizona-Florida-school-chiefs-on-16387253.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -610,7 +709,7 @@
       "originalUrl": "https://www.ctpost.com/news/article/Jill-Biden-wears-medical-boot-after-foot-injury-16385810.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -961,7 +1060,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 415,
+      "heat": 435,
       "tags": null,
       "images": [
         {
@@ -1159,118 +1258,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-biden-backs-newsom-as-california-recall-election-looms-urges-residents-to-vote-no.md",
-      "title": "Biden backs Newsom as California recall election looms, urges residents to 'vote no'",
-      "excerpt": "President Joe Biden delivered his strongest endorsement to date for embattled Democratic Gov. Gavin Newsom on Thursday, urging Californians to reject an effort to recall the governor in an upcoming special election.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zNBK8tUn23w/biden-backs-newsom-california-recall-election",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zNBK8tUn23w/biden-backs-newsom-california-recall-election",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 283,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f18efe6-404a-4e2c-b361-15a6d9a9bc12/671f0271-fb6b-47cd-b5e6-d2efaf051978/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-backs-newsom-california-recall-election.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backs-newsom-california-recall-election.amp",
-      "publishedDateTime": "2021-08-12T18:49:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-biden-adviser-anita-dunn-leaves-the-white-house.md",
-      "title": "Biden adviser Anita Dunn leaves the White House",
-      "excerpt": "Top Biden adviser Anita Dunn is leaving her position at the White House",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RZdpDdqjgVU/biden-adviser-anita-dunn-leaves-white-house",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RZdpDdqjgVU/biden-adviser-anita-dunn-leaves-white-house",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3bd93983-0d45-4518-a3ae-8fdf28291a81/f1d5bc39-6a20-418b-8eab-9e12b6cdc361/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-adviser-anita-dunn-leaves-white-house.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-adviser-anita-dunn-leaves-white-house.amp",
-      "publishedDateTime": "2021-08-12T18:03:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

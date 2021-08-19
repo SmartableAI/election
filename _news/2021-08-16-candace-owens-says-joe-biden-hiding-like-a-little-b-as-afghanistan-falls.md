@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/candace-owens-says-joe-biden-hiding-like-li
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/candace-owens-says-joe-biden-hiding-like-little-b-afghanistan-falls-1619586?amp=1"
 type: article
 quality: 121
-heat: 281
+heat: 301
 published: true
 
 provider:
@@ -82,6 +82,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/facebook-and-twitter-banned-donald-trump-over-his.jpg"
         width: 1024
         height: 662
+        isCached: true
+  - title: "Pence Rips Into Biden for 'Disastrous Withdrawal' From Afghanistan"
+    excerpt: "Former Vice President Mike Pence is laying into President Joe Biden for what he says is a “disastrous” withdrawal from Afghanistan. In an op-ed published in The Wall Street Journal on Tuesday, Pence recalled Biden’s prediction that the Taliban would not overrun Afghanistan."
+    publishedDateTime: 2021-08-18T17:51:00Z
+    webUrl: "https://ijr.com/pence-rips-biden-disastrous-withdrawal-afghanistan/"
+    type: article
+    provider:
+      name: ijr.com
+      domain: ijr.com
+    quality: 70
+    images:
+      - url: "https://ijr.com/wp-content/uploads/2021/08/photomix-image-10.png"
+        width: 800
+        height: 450
         isCached: true
   - title: "Afghanistan: Joe Biden said chaos was 'inevitable'"
     excerpt: "In an exclusive interview with ABC News' George Stephanopoulos, Joe Biden said nobody could have anticipated the speed of the Taliban's takeover. The US president has been criticised for his handling of the withdrawal."

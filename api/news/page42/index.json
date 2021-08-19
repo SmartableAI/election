@@ -2,6 +2,118 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-05-27-fired-conservative-radio-host-ive-lost-everything-for-being-anti-trump.md",
+      "title": "Fired conservative radio host: I've lost everything for being anti-Trump",
+      "excerpt": "Joe Walsh, a former Republican congressman who primaried Donald Trump in the 2020 election, says he was fired from Conservative radio group GAB Radio Network because he is an outspoken critic of the former President. CNN has reached out to GAB Radio Network for comment and has not heard back.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WL7psR7DjaQ/joe-walsh-radio-show-canceled-anti-trump-sot-newday-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WL7psR7DjaQ/joe-walsh-radio-show-canceled-anti-trump-sot-newday-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210527101248-joe-walsh-screengrab-from-tv-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/media/2021/05/27/joe-walsh-radio-show-canceled-anti-trump-sot-newday-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/media/2021/05/27/joe-walsh-radio-show-canceled-anti-trump-sot-newday-vpx.cnn",
+      "publishedDateTime": "2021-05-27T07:14:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-paul-ryan-to-enter-gops-civil-war-by-criticizing-trumps-hold-on-party.md",
+      "title": "Paul Ryan to enter GOP's civil war by criticizing Trump's hold on party",
+      "excerpt": "Former House Speaker Paul Ryan is set to criticize former President Donald Trump and his hold on the Republican Party during a speech Thursday night, according to excerpts obtained by CNN.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wiRgtgBedXw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wiRgtgBedXw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/181030173316-01-paul-ryan-1008-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/27/politics/paul-ryan-donald-trump-gop-reagan-presidential-library-republicans/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/paul-ryan-donald-trump-gop-reagan-presidential-library-republicans/index.html",
+      "publishedDateTime": "2021-05-27T05:22:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-gop-governors-on-hannity-biden-making-them-pay-the-price-for-being-fiscally-responsible.md",
       "title": "GOP governors on 'Hannity': Biden making them 'pay the price' for being fiscally responsible",
       "excerpt": "Members of the Republican Governors Association joined “Hannity” on Wednesday for a town hall event.",
@@ -1238,115 +1350,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-desantis-shuts-down-reporters-suggestion-that-big-tech-bill-is-for-trump.md",
-      "title": "DeSantis shuts down reporter's suggestion that Big Tech bill is 'for' Trump",
-      "excerpt": "Florida Gov. Ron DeSantis, R., shot down a Miami Herald reporter on Monday who accused him of introducing his new Big Tech censorship bill that allows residents to sue Big Tech companies solely for the benefit of former President Donald Trump,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/gov-desantis-reporter-suggesting-big-tech-bill-trump",
-      "originalUrl": "https://www.foxnews.com/media/gov-desantis-reporter-suggesting-big-tech-bill-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dea61b83-1533-43df-9888-9c98a0f4fe96/57b7fe76-0438-4557-9512-c821a89dfda8/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/gov-desantis-reporter-suggesting-big-tech-bill-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/gov-desantis-reporter-suggesting-big-tech-bill-trump.amp",
-      "publishedDateTime": "2021-05-25T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-doj-releases-part-of-memo-behind-barrs-decision-not-to-charge-trump-for-obstructing-russia-probe.md",
-      "title": "DOJ releases part of memo behind Barr's decision not to charge Trump for obstructing Russia probe",
-      "excerpt": "The DOJ is appealing an order to release the full text of a memo used by former AG William Barr to justify his decision not to prosecute Donald Trump in the Russia probe.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/doj-releases-part-memo-barrs-decision-charge-trump/story?id=77891506",
-      "originalUrl": "https://abcnews.go.com/US/doj-releases-part-memo-barrs-decision-charge-trump/story?id=77891506",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/william-barr-gty-jc-210525_1621955343791_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/doj-releases-part-memo-barrs-decision-charge-trump/story?id=77891506",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/doj-releases-part-memo-barrs-decision-charge-trump/story?id=77891506",
-      "publishedDateTime": "2021-05-25T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-19-federal-judge-blocks-biden-admins-ice-rules-that-narrowed-illegal-immigrant-arrest-priorities.md",
+      "title": "Federal judge blocks Biden admin's ICE rules that narrowed illegal immigrant arrest priorities",
+      "excerpt": "A federal judge on Thursday imposed a preliminary injunction on the Biden administration’s rules for ICE officers that narrowed the categories of illegal immigrants targeted for arrest and deportation.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/C3NPTrhLrA0/judge-blocks-biden-ice-rules-narrowed-illegal-immigrant-arrest",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/C3NPTrhLrA0/judge-blocks-biden-ice-rules-narrowed-illegal-immigrant-arrest",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a07002e9-c9e3-4f38-993b-2d984efbab65/0c121321-b8d7-49f4-86c7-9ff1e98965e7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/judge-blocks-biden-ice-rules-narrowed-illegal-immigrant-arrest.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/judge-blocks-biden-ice-rules-narrowed-illegal-immigrant-arrest.amp",
+      "publishedDateTime": "2021-08-19T10:55:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-trump-acting-dni-grenell-taliban-should-hear-very-tough-message-slams-biden-for-ignoring-the-conditions.md",
+      "title": "Trump acting DNI Grenell: Taliban should hear 'very tough message,' slams Biden for 'ignoring the conditions'",
+      "excerpt": "Former acting Director of National Intelligence Ric Grenell slammed President Biden for having \"ignored the conditions\" set by former President Donald Trump in his 2020 agreement with the Taliban.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ozgsh4PwXpo/grenell-taliban-biden-ignored-conditions",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ozgsh4PwXpo/grenell-taliban-biden-ignored-conditions",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/grenell-taliban-biden-ignored-conditions.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/grenell-taliban-biden-ignored-conditions.amp",
+      "publishedDateTime": "2021-08-19T09:03:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-18-biden-pushes-for-vaccine-booster-shots-starting-in-september.md",
       "title": "Biden pushes for vaccine booster shots starting in September",
       "excerpt": "Biden announced a plan to offer COVID-19 vaccine booster shots beginning the week of September 20",
@@ -389,62 +501,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-17-biden-admin-pledges-to-crack-down-on-schools-that-dont-allow-trans-athletes-in-girls-sports.md",
-      "title": "Biden admin pledges to crack down on schools that don't allow trans athletes in girls' sports",
-      "excerpt": "The Biden administration issued a \"back-to-school\" video for transgender students, pledging to crack down on states seeking to ban transgender students from girls’ sports, bathrooms and receiving transition-related care.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s6py_E75OsI/biden-admin-schools-trans-athletes-girls-sports",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s6py_E75OsI/biden-admin-schools-trans-athletes-girls-sports",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/Transgender-Back-to-School-copy.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-17T13:39:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-08-17-vivek-ramaswamy-blasts-twitters-staggering-hypocrisy-on-taliban-and-trump.md",
       "title": "Vivek Ramaswamy blasts Twitter's 'staggering' hypocrisy on Taliban and Trump",
       "excerpt": "Biotech CEO and ‘Woke Inc.’ author Vivek Ramaswamy criticized Twitter on Tuesday for allowing the Taliban to utilize their social media platform while censoring others, including former President Donald Trump.",
@@ -626,7 +682,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1070,
+      "heat": 1110,
       "tags": null,
       "images": [
         {
@@ -795,7 +851,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 780,
+      "heat": 880,
       "tags": null,
       "images": [
         {
@@ -1125,7 +1181,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 295,
+      "heat": 315,
       "tags": null,
       "images": [
         {
@@ -1601,54 +1657,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-trump-gop-slam-dems-35t-budget-as-communist-plan-to-destroy-us.md",
-      "title": "Trump, GOP slam Dems’ $3.5T budget as ‘Communist plan to destroy’ US",
-      "excerpt": "Former President Donald Trump led the Republican criticism after a 15-hour “vote-a-rama” overnight that saw senators pass the $3.5 trillion budget reconciliation package.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/08/11/trump-gop-slam-dems-3-5t-budget-as-communist-plan-to-destroy-us/",
-      "originalUrl": "https://nypost.com/2021/08/11/trump-gop-slam-dems-3-5t-budget-as-communist-plan-to-destroy-us/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/gop-oppose-infrastructure.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/08/11/trump-gop-slam-dems-3-5t-budget-as-communist-plan-to-destroy-us/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/11/trump-gop-slam-dems-3-5t-budget-as-communist-plan-to-destroy-us/amp/",
-      "publishedDateTime": "2021-08-11T13:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

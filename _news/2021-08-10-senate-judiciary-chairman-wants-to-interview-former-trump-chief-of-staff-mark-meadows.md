@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Real estate agent who asked Trump for a pardon pleads guilty in Capitol riot"
+    excerpt: "A Texas real estate agent who went viral after asking former President Donald Trump to pardon her for storming the Capitol pleaded guilty Thursday to a misdemeanor for her role in the riot.\n    \n"
+    publishedDateTime: 2021-08-19T16:04:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j3gJv6Pfkmc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/jenna-ryan-misdemeanor-capitol-riot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/jenna-ryan-misdemeanor-capitol-riot/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210727153745-capitol-riot-file-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Mary Trump asked if she thinks her uncle will run for President again. Hear her reply."
     excerpt: "CNN's Jake Tapper talks with Mary Trump about her new book and her uncle, former President Donald Trump.\n    \n"
     publishedDateTime: 2021-08-17T22:27:04Z

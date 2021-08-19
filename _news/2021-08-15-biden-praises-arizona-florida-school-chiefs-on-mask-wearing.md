@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nhregister.com/news/amp/Biden-praises-Arizona-Florida-sc
 cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Biden-praises-Arizona-Florida-school-chiefs-on-16387253.php"
 type: article
 quality: 75
-heat: 115
+heat: 95
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://static.politifact.com/CACHE/images/politifact/photos/AP_21222711656883/771d98a7e6520a9168fb0cd7b578f6d0.jpg"
         width: 1024
         height: 584
-        isCached: true
-  - title: "Joe Biden takes aim at Texas blocking mask mandates"
-    excerpt: "By James Barragán, The Texas Tribune Texas Gov. Greg Abbott may soon be fighting a war on two fronts — with local officials and the federal government — to stave off mandatory COVID-19 prevention efforts after the Biden administration announced Wednesday it was going after states like Texas that try to ban universal masking at"
-    publishedDateTime: 2021-08-19T09:12:00Z
-    webUrl: "https://www.crosstimbersgazette.com/2021/08/18/joe-biden-takes-aim-at-texas-blocking-mask-mandates/"
-    type: article
-    provider:
-      name: The Cross Timbers Gazette
-      domain: crosstimbersgazette.com
-    quality: 55
-    images:
-      - url: "https://www.crosstimbersgazette.com/crosstimbersgazette/wp-content/uploads/2021/08/biden.jpg"
-        width: 848
-        height: 570
         isCached: true
 
 secured: "Ce2kV4T9wsurcfjoNWrs1G3YVzJENQnGqU8MP/+QphFvVrRty0S1Up07M10ZEtVbZ+sJu8oBBvfqDz5uT8owUKK4suBWWRqh0aROQVM9iqSSvIrCVh2Ammi2q1hrDH79Ky00GjiPEXf9ZvFtfIO2JQcAZMEff7z917C794NbHClANqGbNooLUmXLXTs4TFHjEyEgmCILbNTApdbkRc74Ud2coehHQ72piGck6KkBgh/1UB50VNzsduDo7mjt8Bbt8MBrex7WS7+6dEKa7MGQMlUSJI/1mKjMuj3Rh/yaDGVdBmgkn3MmpzWrVuNzo5apx8ne1LZE1omz76eX16cuuLn3p9ieoL03S5tW/WiA4nk=;fJ16YfLAATImOCIAjTFULQ=="

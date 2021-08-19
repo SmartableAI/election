@@ -82,6 +82,20 @@ related:
         width: 1024
         height: 662
         isCached: true
+  - title: "Pence Rips Into Biden for 'Disastrous Withdrawal' From Afghanistan"
+    excerpt: "Former Vice President Mike Pence is laying into President Joe Biden for what he says is a “disastrous” withdrawal from Afghanistan. In an op-ed published in The Wall Street Journal on Tuesday, Pence recalled Biden’s prediction that the Taliban would not overrun Afghanistan."
+    publishedDateTime: 2021-08-18T17:51:00Z
+    webUrl: "https://ijr.com/pence-rips-biden-disastrous-withdrawal-afghanistan/"
+    type: article
+    provider:
+      name: ijr.com
+      domain: ijr.com
+    quality: 70
+    images:
+      - url: "https://ijr.com/wp-content/uploads/2021/08/photomix-image-10.png"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Afghanistan: Joe Biden said chaos was 'inevitable'"
     excerpt: "In an exclusive interview with ABC News' George Stephanopoulos, Joe Biden said nobody could have anticipated the speed of the Taliban's takeover. The US president has been criticised for his handling of the withdrawal."
     publishedDateTime: 2021-08-19T00:44:00Z

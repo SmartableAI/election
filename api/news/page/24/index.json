@@ -2,6 +2,114 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-07-01-trump-calls-indictment-against-his-company-and-long-serving-cfo-shameful-and-a-disgrace.md",
+      "title": "Trump calls indictment against his company and long-serving CFO 'shameful' and a 'disgrace'",
+      "excerpt": "Former President Trump called the criminal charges unsealed Thursday against his company's CFO \"shameful\" -- but the CFO's former daughter-in-law called them \"justice.\"",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/trumps-long-serving-chief-financial-officer-allen-weisselberg/story?id=78601956",
+      "originalUrl": "https://abcnews.go.com/Politics/trumps-long-serving-chief-financial-officer-allen-weisselberg/story?id=78601956",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/weisselberg-01-rd-iwb-210628_1625145907105_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trumps-long-serving-chief-financial-officer-allen-weisselberg/story?id=78601956",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-long-serving-chief-financial-officer-allen-weisselberg/story?id=78601956",
+      "publishedDateTime": "2021-07-01T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-presidential-historian-trump-should-not-be-happy-with-this.md",
+      "title": "Presidential historian: Trump should not be happy with this",
+      "excerpt": "CNN presidential historian Tim Naftali analyzes a C-SPAN poll that ranks former President Donald Trump as the worst living President.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xGk-gulZFAA/donald-trump-presidential-c-span-poll-naftali-newday-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xGk-gulZFAA/donald-trump-presidential-c-span-poll-naftali-newday-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210113140558-02-trump-impeachment-centered-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/07/01/donald-trump-presidential-c-span-poll-naftali-newday-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/07/01/donald-trump-presidential-c-span-poll-naftali-newday-vpx.cnn",
+      "publishedDateTime": "2021-07-01T06:32:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-gop-house-hopefuls-come-out-swinging-at-vulnerable-dems-retire-nancy-pelosi-put-a-check-on-joe-biden.md",
       "title": "GOP House hopefuls come out swinging at vulnerable Dems: 'Retire Nancy Pelosi,' 'Put a check on Joe Biden'",
       "excerpt": "Two new Republican challengers eying vulnerable Democratic House members are announcing their candidacies Thursday morning.",
@@ -1259,106 +1367,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-both-biden-and-republicans-are-saying-their-1-trillion-infrastructure-plan-is-paid-for-an-expert-says-its-more-like-pixie-dust.md",
-      "title": "Both Biden and Republicans are saying their $1 trillion infrastructure plan is paid for - an expert says it's more like 'pixie dust'",
-      "excerpt": "A Tax Policy Center expert said the bipartisan group's ideas to fund infrastructure is \"a daydream\" and it can't be financed without raising taxes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-republican-bipartisan-infrastructure-plan-paid-for-pixie-dust-2021-6",
-      "originalUrl": "https://www.businessinsider.com/biden-republican-bipartisan-infrastructure-plan-paid-for-pixie-dust-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60d4d96a5f52060018bbef31?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-republican-bipartisan-infrastructure-plan-paid-for-pixie-dust-2021-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-republican-bipartisan-infrastructure-plan-paid-for-pixie-dust-2021-6?amp",
-      "publishedDateTime": "2021-06-29T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-biden-high-speed-internet-is-now-a-necessity-like-water-and-electricity.md",
-      "title": "Biden: High-Speed Internet Is \"Now A Necessity Like Water And Electricity\"",
-      "excerpt": "President Biden spoke in favor of a bipartisan infrastructure deal in La Crosse, Wisconsin on Tuesday. \"This is a generational investment to modernize our infrastructure, creating millions of good-paying jobs,",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/06/29/president_biden_high-speed_internet_is_now_a_necessity_like_water_and_electricity.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/29/president_biden_high-speed_internet_is_now_a_necessity_like_water_and_electricity.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/54/546905.jpg",
-          "width": 750,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/06/29/president_biden_high-speed_internet_is_now_a_necessity_like_water_and_electricity.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/29/president_biden_high-speed_internet_is_now_a_necessity_like_water_and_electricity.amp.html",
-      "publishedDateTime": "2021-06-29T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

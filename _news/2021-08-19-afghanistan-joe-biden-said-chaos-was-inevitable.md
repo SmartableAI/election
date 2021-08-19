@@ -93,6 +93,20 @@ related:
         width: 1024
         height: 662
         isCached: true
+  - title: "Pence Rips Into Biden for 'Disastrous Withdrawal' From Afghanistan"
+    excerpt: "Former Vice President Mike Pence is laying into President Joe Biden for what he says is a “disastrous” withdrawal from Afghanistan. In an op-ed published in The Wall Street Journal on Tuesday, Pence recalled Biden’s prediction that the Taliban would not overrun Afghanistan."
+    publishedDateTime: 2021-08-18T17:51:00Z
+    webUrl: "https://ijr.com/pence-rips-biden-disastrous-withdrawal-afghanistan/"
+    type: article
+    provider:
+      name: ijr.com
+      domain: ijr.com
+    quality: 70
+    images:
+      - url: "https://ijr.com/wp-content/uploads/2021/08/photomix-image-10.png"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Ron DeSantis calls Joe Biden ‘obsessed’ with masking kindergarteners amid Afghanistan crisis"
     excerpt: "Ron DeSantis says President Joe Biden is “obsessed” with masking children with schools after the President leveled another attack admonishment against Republican governors blocking local mask orders."
     publishedDateTime: 2021-08-19T02:11:00Z
@@ -136,6 +150,6 @@ related:
         height: 1920
         isCached: true
 
-secured: "vRRpJZAGnGwsxdqVRR2das68mqRko8ezHQYGQNzH1CJCJqv56iIW3xBYL44Js2tJdDmWZBcCxjt5qu6/TsxczBowemIj/i4i1ePDFanE8TxwvFetznoKIO/NdeNWfr5MJW5MXLbTmcs1DQIHVOXooJDlhddQ4thpspQs19CVotXcG4UWoAtOyHH/c6ZlE1/4XpVGGSBba0XKEcAPSrVLa7fkWZaCr/eYbH0D0M2RoTLnwa2jv8d6YWCQxST+K4OYkunsNz5vP+bpl8BphHq62Z1L4/cRy3pPstxiN9jnsfpUGRiz3gPBxhcdvnAUXScYJfQqqfoGZ9q60mS199dRvvUyHgedg/kRi7DFoe5WXOnFSTf94AoAPPGigo48nPsOhQesmRxq4gDDj59wwyaI20S5FXavO+TFVsyn4omLdN9LkuqbFR4+XVQ7KuY2oYwjXxeSV8mctMXANQ7Qx0D2A3caiu1CE1P4B1d5iFAsKguN/hkvlKa07t6kfBIrtZdx0rFdSbUyfR3cVEsHwc3PbQ==;LOmOpQRNADrqikS2Px8YFQ=="
+secured: "1nnB0E+zXMVSC+eo/1u/npiDSvAZXCHz4dsD1oHNePtTNVg/G60IN7ZwzJvc36g98lSqPb4p7p4ytdXsU2pBrVfgdsRp5ZYFmFT+QEIjVp8G/ulCs01xT/u5EsDx4DuTczwdIiJck7rNEwnYZ55dbZqR/YF/qwAUdR67PtQKo6PUaHUZgoiyId5L15MhlvO+O/AJgxQ/k2Aa03o+W2qm45oCQWp6AJ1hgSc1smqPQJo0N/scPCEQd3YsN1MFyamnNto+srbzDW6o+MkCjFJ5JRu9CHiv7NPRO2zCJ0B+/Z2SFkbma1WdVKmKIpHCPn5RAnIbmO5amZrZEsjjuTRqp+5a7hQvE5KIR+rg2UEfelMq4xQbuKgoYNqnISDcncBqFrHK7BGvYCsDywj1CfoQd/kaQSjpLBALMMHnC+tXwuI0Gnq/13FSbT/rgM5BVd36I9LmiF5OcsToGxy8uBldH5pVqQT6avzmr2HDUVHrT4JmRhLkSDbXfxVGR2UJYzf4zPlQn0W20z57nwAUAy74pg==;Cj9VvOMkkAFk99qdBZ2XBw=="
 ---
 

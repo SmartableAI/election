@@ -2,6 +2,170 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-19-federal-judge-blocks-biden-admins-ice-rules-that-narrowed-illegal-immigrant-arrest-priorities.md",
+      "title": "Federal judge blocks Biden admin's ICE rules that narrowed illegal immigrant arrest priorities",
+      "excerpt": "A federal judge on Thursday imposed a preliminary injunction on the Biden administration’s rules for ICE officers that narrowed the categories of illegal immigrants targeted for arrest and deportation.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/C3NPTrhLrA0/judge-blocks-biden-ice-rules-narrowed-illegal-immigrant-arrest",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/C3NPTrhLrA0/judge-blocks-biden-ice-rules-narrowed-illegal-immigrant-arrest",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a07002e9-c9e3-4f38-993b-2d984efbab65/0c121321-b8d7-49f4-86c7-9ff1e98965e7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/judge-blocks-biden-ice-rules-narrowed-illegal-immigrant-arrest.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/judge-blocks-biden-ice-rules-narrowed-illegal-immigrant-arrest.amp",
+      "publishedDateTime": "2021-08-19T10:55:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-trump-acting-dni-grenell-taliban-should-hear-very-tough-message-slams-biden-for-ignoring-the-conditions.md",
+      "title": "Trump acting DNI Grenell: Taliban should hear 'very tough message,' slams Biden for 'ignoring the conditions'",
+      "excerpt": "Former acting Director of National Intelligence Ric Grenell slammed President Biden for having \"ignored the conditions\" set by former President Donald Trump in his 2020 agreement with the Taliban.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ozgsh4PwXpo/grenell-taliban-biden-ignored-conditions",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ozgsh4PwXpo/grenell-taliban-biden-ignored-conditions",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/grenell-taliban-biden-ignored-conditions.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/grenell-taliban-biden-ignored-conditions.amp",
+      "publishedDateTime": "2021-08-19T09:03:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-marjorie-taylor-greene-launches-foul-mouthed-broadside-at-joe-biden-in-video.md",
+      "title": "Marjorie Taylor Greene Launches Foul-Mouthed Broadside at Joe Biden in Video",
+      "excerpt": "Representative Marjorie Taylor Greene harshly criticized President Joe Biden in a video on Wednesday over the situation in Afghanistan and the COVID-19 pandemic. Greene, a Republican who represents Georgia's 14th congressional district,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/marjorie-taylor-greene-foul-mouthed-broadside-joe-biden-video-1620960",
+      "originalUrl": "https://www.newsweek.com/marjorie-taylor-greene-foul-mouthed-broadside-joe-biden-video-1620960",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1874692/marjorie-taylor-greene-holds-press-conference.jpg",
+          "width": 2500,
+          "height": 1664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/marjorie-taylor-greene-foul-mouthed-broadside-joe-biden-video-1620960?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/marjorie-taylor-greene-foul-mouthed-broadside-joe-biden-video-1620960?amp=1",
+      "publishedDateTime": "2021-08-19T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-19-full-transcript-of-abc-news-george-stephanopoulos-interview-with-president-joe-biden.md",
       "title": "Full transcript of ABC News' George Stephanopoulos' interview with President Joe Biden",
       "excerpt": "Stephanopoulos spoke to Biden in an exclusive interview Wednesday. Read the full transcript of President Joe Biden's exclusive interview with ABC News' George Stephanopoulos on Wednesday. GEORGE STEPHANOPOULOS: Mr.",
@@ -246,10 +410,10 @@
     {
       "path": "_news/2021-08-19-joe-biden-says-there-was-no-way-to-exit-without-chaos-as-it-happened.md",
       "title": "Joe Biden says there was no way to exit without ‘chaos’ – as it happened",
-      "excerpt": "Nicola Slawson, Ben Quinn, Kevin Rawlinson, Rachel Hall and Ben Doherty (earlier) This blog is now closed – we’ve launched a new blog with the latest live coverage at the link below: Up to 15,000 Americans remain in Afghanistan after the Taliban took full control of the nation last weekend.",
+      "excerpt": "This blog is now closed, You can find our latest live coverage here.",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis?page=with:block-611d8fbe8f08e83ac7bdf03d",
-      "originalUrl": "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis?page=with:block-611d8fbe8f08e83ac7bdf03d",
+      "webUrl": "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis?traffic_source=Connatix",
+      "originalUrl": "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis?traffic_source=Connatix",
       "featuredContent": null,
       "highlight": null,
       "heat": 104,
@@ -812,62 +976,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-17-biden-admin-pledges-to-crack-down-on-schools-that-dont-allow-trans-athletes-in-girls-sports.md",
-      "title": "Biden admin pledges to crack down on schools that don't allow trans athletes in girls' sports",
-      "excerpt": "The Biden administration issued a \"back-to-school\" video for transgender students, pledging to crack down on states seeking to ban transgender students from girls’ sports, bathrooms and receiving transition-related care.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s6py_E75OsI/biden-admin-schools-trans-athletes-girls-sports",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s6py_E75OsI/biden-admin-schools-trans-athletes-girls-sports",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/Transgender-Back-to-School-copy.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-17T13:39:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-08-17-us-to-ship-first-of-the-500-million-pfizer-doses-biden-pledged-to-donate-globally.md",
       "title": "US to ship first of the 500 million Pfizer doses Biden pledged to donate globally",
       "excerpt": "The Biden administration on Tuesday is shipping the first of the 500 million Covid-19 doses that President Joe Biden pledged to share with countries around the world at the Group of Seven summit earlier this year. \n    \n",
@@ -1105,7 +1213,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1070,
+      "heat": 1110,
       "tags": null,
       "images": [
         {
@@ -1203,105 +1311,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-former-president-coming-to-heart-of-trump-country-on-return-to-alabama.md",
-      "title": "Former president coming to ‘heart of Trump country’ on return to Alabama",
-      "excerpt": "John Wahl said he started working to bring former President Donald Trump back to Alabama right after the state Republican Party picked him as chairman in February. Earlier efforts fell through, including a planned rally July 3 at the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.al.com/news/2021/08/former-president-coming-to-heart-of-trump-country-on-return-to-alabama.html",
-      "originalUrl": "https://www.al.com/news/2021/08/former-president-coming-to-heart-of-trump-country-on-return-to-alabama.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CG36TSTRSZB4ZN7NW5OAVVCW7A.jpg",
-          "width": 819,
-          "height": 461,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.al.com/news/2021/08/former-president-coming-to-heart-of-trump-country-on-return-to-alabama.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/08/former-president-coming-to-heart-of-trump-country-on-return-to-alabama.html?outputType=amp",
-      "publishedDateTime": "2021-08-16T17:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "al.com",
-        "domain": "al.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-fareed-zakaria-this-withdrawal-is-a-stain-on-bidens-foreign-policy.md",
-      "title": "Fareed Zakaria: This withdrawal is a stain on Biden's foreign policy ",
-      "excerpt": "CNN's Anderson Cooper talks with Fareed Zakaria about the crisis unfolding in Afghanistan and what this means for President Joe Biden's foreign policy. Watch \"Full Circle\" Monday, Wednesday and Friday 6p E.T.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mNAv79ZlOjM/fareed-zakaria-afghanistan-biden-acfc-sot-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mNAv79ZlOjM/fareed-zakaria-afghanistan-biden-acfc-sot-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210816192228-fareed-acfc-2-desktop-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/world/2021/08/16/fareed-zakaria-afghanistan-biden-acfc-sot-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2021/08/16/fareed-zakaria-afghanistan-biden-acfc-sot-vpx.cnn",
-      "publishedDateTime": "2021-08-16T16:41:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Biden admin backs Texas, Florida districts on mask mandates"
-    excerpt: "President Joe Biden’s administration is offering its full-throated support for local cities and school boards in Texas and Florida that are defying orders by their Republican governors that prohibit m"
-    publishedDateTime: 2021-08-14T05:37:00Z
-    webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-13/biden-admin-backs-texas-florida-districts-on-mask-mandates"
-    ampWebUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-13/biden-admin-backs-texas-florida-districts-on-mask-mandates?_amp=true"
-    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2021-08-13/biden-admin-backs-texas-florida-districts-on-mask-mandates?_amp=true"
-    type: article
-    provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 75
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/399e1a4/2147483647/strip/true/crop/3648x2440+0+148/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa3%2F6d%2Fd6fe6349dcfb4bad22a3bbbcdffc%2F18cf34c5ce1143509d2ae694f42f956b"
-        width: 320
-        height: 214
-        isCached: true
   - title: "Biden calls Broward superintendent to support the school district’s mask mandate"
     excerpt: "President Joe Biden on Friday night called Broward County Schools interim superintendent Vickie Cartwright to say he supports the district’s staying the course on mask mandates in defiance of Gov. Ron DeSantis’ order,"
     publishedDateTime: 2021-08-14T15:26:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ctpost.com/news/amp/Jill-Biden-wears-medical-boot-after-
 cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Jill-Biden-wears-medical-boot-after-foot-injury-16385810.php"
 type: article
 quality: 75
-heat: 115
+heat: 95
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to increase food stamp benefits by largest margin in program’s history"
-    excerpt: "Average food stamp benefits in October will go up by more than 25 percent from pre-pandemic levels for the 42 million people in the program."
-    publishedDateTime: 2021-08-15T19:04:00Z
-    webUrl: "https://www.bostonglobe.com/2021/08/15/nation/biden-increase-food-stamp-benefits-by-largest-margin-programs-history/"
-    ampWebUrl: "https://www.bostonglobe.com/2021/08/15/nation/biden-increase-food-stamp-benefits-by-largest-margin-programs-history/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/08/15/nation/biden-increase-food-stamp-benefits-by-largest-margin-programs-history/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 52
   - title: "Local Democrats hope Joe Biden will fulfill promise to forgive (at least some) student loans"
     excerpt: "President Joe Biden’s administration announced last week that it will extend the pause on federal student loan payments one last time, until January 31 st. The president is also on record as saying he supports cancelling $10,"
     publishedDateTime: 2021-08-11T22:04:00Z
