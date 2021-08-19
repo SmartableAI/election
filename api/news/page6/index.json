@@ -2,6 +2,62 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-08-04-biden-has-no-plans-to-call-cuomo-to-ask-for-resignation-wont-weigh-in-on-new-york-impeachment-psaki.md",
+      "title": "Biden has 'no plans' to call Cuomo to ask for resignation, won't weigh in on New York impeachment: Psaki",
+      "excerpt": "White House press secretary Jen Psaki said Wednesday that President Biden has \"no plans\" to personally call embattled New York Gov. Andrew Cuomo and ask for his resignation.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9zV5DK66Smg/biden-cuomo-call-sexual-harassment-impeachment-resignation-psaki",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9zV5DK66Smg/biden-cuomo-call-sexual-harassment-impeachment-resignation-psaki",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 178,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-cuomo-call-sexual-harassment-impeachment-resignation-psaki.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cuomo-call-sexual-harassment-impeachment-resignation-psaki.amp",
+      "publishedDateTime": "2021-08-04T11:26:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-missouri-senate-gop-primary-a-race-to-spotlight-loyalty-to-trump.md",
       "title": "Missouri Senate GOP primary a race to spotlight loyalty to Trump",
       "excerpt": "Trump ally Rep. Billy Long is the latest Republican to jump into the 2022 Missouri Senate primary campaign.",
@@ -1261,58 +1317,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-ex-illinois-governor-who-trump-freed-from-jail-files-lawsuit-to-run-for-office-again.md",
-      "title": "Ex-Illinois Governor, Who Trump Freed from Jail, Files Lawsuit to Run for Office Again",
-      "excerpt": "\"The issues are very clear,\" former Illinois Governor Rod Blagojevich said to reporters Monday. \"It's about right to vote and it's about due process.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/ex-illinois-governor-who-trump-freed-jail-files-lawsuit-run-office-again-1615491",
-      "originalUrl": "https://www.newsweek.com/ex-illinois-governor-who-trump-freed-jail-files-lawsuit-run-office-again-1615491",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 217,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1860656/rod-blagojevich.jpg",
-          "width": 3000,
-          "height": 2001,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/ex-illinois-governor-who-trump-freed-jail-files-lawsuit-run-office-again-1615491?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ex-illinois-governor-who-trump-freed-jail-files-lawsuit-run-office-again-1615491?amp=1",
-      "publishedDateTime": "2021-08-02T15:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

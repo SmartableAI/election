@@ -83,6 +83,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Texans in Congress have mixed views on President Joe Biden’s handling of the Afghanistan withdrawal. But bipartisan criticism has emerged."
+    excerpt: "Texas Republicans have doused the Biden administration in criticism. Democratic Texans in Congress have had varied reactions — but some also fault for the president for a frantic scramble after the Taliban swiftly took control."
+    publishedDateTime: 2021-08-19T02:02:00Z
+    webUrl: "https://www.texastribune.org/2021/08/18/texas-congress-biden-afghanistan/"
+    ampWebUrl: "https://www.texastribune.org/2021/08/18/texas-congress-biden-afghanistan/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/08/18/texas-congress-biden-afghanistan/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 41
+    images:
+      - url: "https://thumbnails.texastribune.org/qNfrp87N4j3zcwx89ZG2LB9qO7c=/1200x630/filters:quality(95)/static.texastribune.org/media/files/afc2620915acb68297a561caafd976f4/Joe%20Biden%20Afghanistan%20REUTERS%20TT%2001.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ItNWw3S3xTNMZJQrs5KxTVnFSHCQnXs7yxx4n2WdpceBR/dPUYgkbr1raOdr+7NUTKUPWwCRZmamh06mKsLcA4ZAHJaVbHoDbKaN6WQkT3kpgfDhMHjDapaKsWAG4xntisH7/qVAwSqYck1R0fqIzaAtNeTEWb4lSSQJkWpvsPYe6NpSouYfgvKsPBV1k8fcqf2goax3GZUBGeSysJk9OFxtm4iYMuIAM/d+0MRvVgndY7Fi9Ti94gm9N9iij5zC10Lkqc2gT0b+AOa/2lonLtP3slcOE8BDl+xcEVPqsqOi7NfKx1w0/lFxodQs6yJReDoD3MTC7NmRYZbPdqxLRCFGcZhOhZIV4eRWk+EqUTY=;4ar5rYFaF9yEejbT7LP3SQ=="
 ---

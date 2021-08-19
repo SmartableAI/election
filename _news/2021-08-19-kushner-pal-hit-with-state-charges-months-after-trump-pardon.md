@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Kushner pal hit with state charges months after Trump pardon"
-excerpt: "A newspaper editor friend of former President Donald Trump’s son-in-law Jared Kushner was hit Wednesday with state cyberstalking charges in New York, seven months after Trump pardoned him in a similar federal case just before leaving office."
-publishedDateTime: 2021-08-19T00:31:00Z
-originalUrl: "https://www.myrtlebeachonline.com/entertainment/article253583399.html"
-webUrl: "https://www.myrtlebeachonline.com/entertainment/article253583399.html"
-ampWebUrl: "https://amp.myrtlebeachonline.com/entertainment/article253583399.html"
-cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/entertainment/article253583399.html"
+excerpt: "A newspaper editor friend of former President Donald Trump’s son-in-law Jared Kushner was hit Wednesday with state cyberstalking charges in New York, seven months after Trump pardoned him in a similar"
+publishedDateTime: 2021-08-19T02:37:00Z
+originalUrl: "https://www.sandiegouniontribune.com/entertainment/national/story/2021-08-18/kushner-pal-hit-with-state-charges-months-after-trump-pardon"
+webUrl: "https://www.sandiegouniontribune.com/entertainment/national/story/2021-08-18/kushner-pal-hit-with-state-charges-months-after-trump-pardon"
+ampWebUrl: "https://www.sandiegouniontribune.com/entertainment/national/story/2021-08-18/kushner-pal-hit-with-state-charges-months-after-trump-pardon?_amp=true"
+cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/entertainment/national/story/2021-08-18/kushner-pal-hit-with-state-charges-months-after-trump-pardon?_amp=true"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: The Sun News
-  domain: myrtlebeachonline.com
+  name: San Diego Union-Tribune
+  domain: sandiegouniontribune.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154290001/354f0e7a-264c-4e92-9637-8018ba0bfe25/f5a73d3a-da5f-4869-8484-a14bac7ba509/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/748fe81/2147483647/strip/true/crop/3000x2006+0+122/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3b%2F1d%2F7746231db9eb8437b2ecdf23df92%2F267ccf796ea04278ade2bf5ee44f6f32"
+    width: 320
+    height: 214
     isCached: true
 
 related:
@@ -464,6 +464,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "Ci6zJl9XKEmII1m0oVAG3nYWP6k8GB+UayU0+EIxmrkVtHkhOPHu1xnMUn3Z1LHI4G2dynZijS60WM0u/wQ/Afz7HghUsjk2SasI42HxUNi/71NC0hQ6u6bSIMdUuG8fKI9IfqF7m1Hq5VAsX6CMGHkNYt1507iHq7EJWF9LpM9ArE7IrCQq5VA0sbRP/M+OyJIh3ISmecApssJOCq1tf42BBX9RpxW3XiqrnACc7k2G1m3nvdR4/T5TOYM/bX4cgSvRP/7F1ECAMm5Z4vbuTUjtWzlM1eESpfnOb63D7W+7h9T/m8OTVGyE+PkagjvmuTU3OCW6Xj5ISm27tP4Z/yLRtJ0yjvu9mNT8rSAcghE=;5/iA4I77UE0oNfLbVNp9Cw=="
+secured: "Khz0E52KL/hxc9bAJuSXi3tDCvniet5+QgERcb6RX/pTq4gcnOTD3uLM8tAsW+MxOL/NzZbDm9jARrrMSIJof4YE5ZMobsFqhUpPUiK+7r637R9A7dHOCyEdC63agEvLrddpM/4QLleeHXwPApupl2cLQvEueNlzjoZZfe8b8lc/Ry2tpF7JcmpYQ9i3xBsH9szNHY1vMqB2kHLunWmo8jLpmgMDr2RneYTdvwkcX5AAXaxA/Ga9u6+7nC4AW8AZgP6AZjCoY0Jfunm2lEa0SCnVkkJUd3zV4Ey0LbklI7hKQh+mGEoTkDCnTWPFPMbtcJQtB2sc3PqJ75gawfaOhTMAN/FTa3QDXXd/S1w1OWo=;PveaCIoiQUbE5b09ixV9Kg=="
 ---
 

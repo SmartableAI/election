@@ -2,6 +2,62 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-07-27-trump-snubs-bush-by-endorsing-paxton-in-texas-ag-race.md",
+      "title": "Trump snubs Bush by endorsing Paxton in Texas AG race",
+      "excerpt": "Former President Donald Trump has endorsed Texas Attorney General Ken Paxton in his bid for re-election, snubbing George P. Bush despite his firm support after Trump has belittled some members of the Bush family.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/q1G0IFZMBog/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/q1G0IFZMBog/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210727082321-ken-paxton-07-11-2021-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/27/politics/donald-trump-george-p-bush-ken-paxton-endorsement/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/donald-trump-george-p-bush-ken-paxton-endorsement/index.html",
+      "publishedDateTime": "2021-07-27T06:35:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-sarah-sanders-promotes-trump-vaccine-but-says-americans-should-pray-about-it.md",
       "title": "Sarah Sanders promotes ‘Trump vaccine’ but says Americans should ‘pray about it’",
       "excerpt": "Former Trump press secretary criticises ‘arrogant’ medical experts but admits the benefits of the shot outweigh any potential risks",
@@ -1251,58 +1307,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-arizona-secretary-of-state-tells-trump-before-election-lie-rally-get-over-it.md",
-      "title": "Arizona secretary of state tells Trump before election lie rally: get over it",
-      "excerpt": "Democrat Katie Hobbs says ‘this is nothing more than being a sore loser’ as ex-president heads to Phoenix for event",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jul/24/arizona-donald-trump-2020-election-katie-hobbs",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jul/24/arizona-donald-trump-2020-election-katie-hobbs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 437,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/274b71ffa728f51467d86bfb18529a226c27cbf3/0_180_3600_2160/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9f8b06ce6f4b954493ef7f27f5896593",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jul/24/arizona-donald-trump-2020-election-katie-hobbs",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/24/arizona-donald-trump-2020-election-katie-hobbs",
-      "publishedDateTime": "2021-07-24T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

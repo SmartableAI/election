@@ -1,36 +1,48 @@
 ---
 category: news
-title: "Meet Joe Biden’s secret weapon: the woman who wrangles with Congress"
-excerpt: "Louisa Terrell, White House director of the office of legislative affairs, is the tip of the spear of Biden’s team as she fulfills one of the most difficult jobs in a deeply divided political landscap"
-publishedDateTime: 2021-08-12T13:00:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress"
-webUrl: "https://www.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress"
-ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress"
+title: "Texans in Congress have mixed views on President Joe Biden’s handling of the Afghanistan withdrawal. But bipartisan criticism has emerged."
+excerpt: "Texas Republicans have doused the Biden administration in criticism. Democratic Texans in Congress have had varied reactions — but some also fault for the president for a frantic scramble after the Taliban swiftly took control."
+publishedDateTime: 2021-08-19T02:02:00Z
+originalUrl: "https://www.texastribune.org/2021/08/18/texas-congress-biden-afghanistan/"
+webUrl: "https://www.texastribune.org/2021/08/18/texas-congress-biden-afghanistan/"
+ampWebUrl: "https://www.texastribune.org/2021/08/18/texas-congress-biden-afghanistan/amp/"
+cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/08/18/texas-congress-biden-afghanistan/amp/"
 type: article
-quality: 125
-heat: 225
-published: true
+quality: 41
+heat: -1
+published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Texas Tribune
+  domain: texastribune.org
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/74a2c7eb79f9c8ef9db653798c8fcb347c1a4719/654_0_3346_2007/master/3346.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cb7abaeb929f3807f0f8aaed493fc44b"
-    width: 600
-    height: 360
+  - url: "https://thumbnails.texastribune.org/qNfrp87N4j3zcwx89ZG2LB9qO7c=/1200x630/filters:quality(95)/static.texastribune.org/media/files/afc2620915acb68297a561caafd976f4/Joe%20Biden%20Afghanistan%20REUTERS%20TT%2001.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
+  - title: "Meet Joe Biden’s secret weapon: the woman who wrangles with Congress"
+    excerpt: "Louisa Terrell, White House director of the office of legislative affairs, is the tip of the spear of Biden’s team as she fulfills one of the most difficult jobs in a deeply divided political landscap"
+    publishedDateTime: 2021-08-12T13:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/74a2c7eb79f9c8ef9db653798c8fcb347c1a4719/654_0_3346_2007/master/3346.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cb7abaeb929f3807f0f8aaed493fc44b"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Carlson: The Only Threat to Hungarian Democracy Is Joe Biden"
     excerpt: "When Tucker Carlson embarked on a weeklong publicity tour of Viktor Orbán’s Hungary, Fox News personality Glenn Greenwald cast the decision as the kind of intrepid reporting we should all admire. “Is it now considered immoral or something for journalists to visit other countries to report on what they see and hear there?"
     publishedDateTime: 2021-08-06T17:18:00Z
@@ -88,23 +100,7 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 50
-  - title: "Texans in Congress have mixed views on President Joe Biden’s handling of the Afghanistan withdrawal. But bipartisan criticism has emerged."
-    excerpt: "Texas Republicans have doused the Biden administration in criticism. Democratic Texans in Congress have had varied reactions — but some also fault for the president for a frantic scramble after the Taliban swiftly took control."
-    publishedDateTime: 2021-08-19T02:02:00Z
-    webUrl: "https://www.texastribune.org/2021/08/18/texas-congress-biden-afghanistan/"
-    ampWebUrl: "https://www.texastribune.org/2021/08/18/texas-congress-biden-afghanistan/amp/"
-    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/08/18/texas-congress-biden-afghanistan/amp/"
-    type: article
-    provider:
-      name: Texas Tribune
-      domain: texastribune.org
-    quality: 41
-    images:
-      - url: "https://thumbnails.texastribune.org/qNfrp87N4j3zcwx89ZG2LB9qO7c=/1200x630/filters:quality(95)/static.texastribune.org/media/files/afc2620915acb68297a561caafd976f4/Joe%20Biden%20Afghanistan%20REUTERS%20TT%2001.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "tosebXcoW/h2g1DuUs0lk22IBNgmxkmkkdTVWEHSso5SLl1SEPh+P8OG1h6poi50zdmnFoWSVqhK14l7+lFpZV3pz/bYA/ur4O/vksHfMoMthCLGcSfEHCRKfOWPdK6WvQEhTU3VqqqNXjLbAsn/gtxiTDhZTb+gTJwnuMXawiqhld/D6t5QjDXzgwibeGccLuJ80gUBWEpXFo+FHTF0FDhRDaI0vl741v96kOMC05Gx3dOf+pWTuixoGeQp63K2ZVMIrGtTizNmShB8lFUzjOG/5zMzU6jbb1qes09cb7XBAfq6vitXPi2ucdmwfmzjXEexG1lbecZhHy85fSwHkRuM/dWLkpCv+AVCLpyOmYZuHzveOcJY0286sLU8ziTgdCW5fTePEAJw0qj8eKxk4rOEUAA7c96YjLqkl/gUHSX3tyFnlBEZWn5N7kbJEVM4J0YNs3dB8FUIzCUleceilToatyN/dQsWm/0ZtZEosa+sOPBpKHeClCLeY2qdG1rEkN7qQlcvW5oHZK7Xqrz8rQ==;O/whbzawXki1by4UgAtu7g=="
+secured: "OOXauJfr3a9k22ZxneDDvzaJq5BdpfZZu5QA4HsQvawY7bA/Hb0193WT9Yqol9Zn5ATLRzub2C2eJ0BDgh5pPPFbCVTCzRMrETusX3giAWA1eQd7u0Ohjkl3YjmdnmpSjO5ZiqPV8qGxedRXq78vvJcltlrENNyOuxMEVN7k3SduScc2tyilC2M37dnnZl25EPETOPHp6e1nwV4EtLreYMRuVoDSrNMQCNiXiZCXCZlbrDlRcS80eNB8P+DkAb9ExsQxdWKkkLoF8m2Qkf4XhfsxcFvR7B7IY+2XNQkCwFjf3Tim/xUtVpgblg0ifv0D2fK/79dUqBKb1MAKAtL9oo9vLv0wqkEJMxcN2HaNgdU=;zHfd+6309N1CAqQnyAD9ng=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-07-24-arizona-secretary-of-state-tells-trump-before-election-lie-rally-get-over-it.md",
+      "title": "Arizona secretary of state tells Trump before election lie rally: get over it",
+      "excerpt": "Democrat Katie Hobbs says ‘this is nothing more than being a sore loser’ as ex-president heads to Phoenix for event",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jul/24/arizona-donald-trump-2020-election-katie-hobbs",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jul/24/arizona-donald-trump-2020-election-katie-hobbs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 437,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/274b71ffa728f51467d86bfb18529a226c27cbf3/0_180_3600_2160/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9f8b06ce6f4b954493ef7f27f5896593",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jul/24/arizona-donald-trump-2020-election-katie-hobbs",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/24/arizona-donald-trump-2020-election-katie-hobbs",
+      "publishedDateTime": "2021-07-24T09:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-24-senate-gop-report-finds-biden-administration-spending-2b-to-suspend-border-wall-construction.md",
       "title": "Senate GOP report finds Biden administration spending $2B to suspend border wall construction",
       "excerpt": "A new report by Republicans on a Senate subcommittee has concluded that the Biden administration is spending a minimum of approximately $2 billion to suspend construction of the wall at the southern border, even amid a continuing migrant crisis.",
@@ -1284,62 +1336,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-this-is-way-beyond-collaborative-young-leaders-see-their-feedback-reflected-in-bidens-plans.md",
-      "title": "'This is way beyond collaborative': Young leaders see their feedback reflected in Biden's plans",
-      "excerpt": "When Joe Biden campaigned for the presidency, he called himself a bridge to a new generation of leaders in the Democratic Party. While some frustrations remain, young leaders are saying the President Biden's administration is making good progress on Candidate Biden's pledge.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SpDLuA6RRNQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SpDLuA6RRNQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210721154356-01-biden-0721-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/22/politics/build-back-better-young-americans/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/build-back-better-young-americans/index.html",
-      "publishedDateTime": "2021-07-22T05:58:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

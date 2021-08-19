@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-15-biden-administration-struggles-to-project-order-as-taliban-enters-kabul.md",
+      "title": "Biden administration struggles to project order as Taliban enters Kabul",
+      "excerpt": "President Joe Biden and his administration struggled Sunday to project order amid a race by American and other foreign personnel to evacuate Afghanistan as Taliban fighters entered Kabul.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oD9xOBuzblk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oD9xOBuzblk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210815102517-antony-blinken-august-15-2021-screengrab-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/15/politics/biden-administration-taliban-kabul-afghanistan/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/15/politics/biden-administration-taliban-kabul-afghanistan/index.html",
+      "publishedDateTime": "2021-08-15T08:03:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-15-donald-trump-blasts-former-secretary-of-state-rex-tillerson-dumb-as-a-rock.md",
       "title": "Donald Trump blasts former secretary of state Rex Tillerson; ‘Dumb as a rock’",
       "excerpt": "President Trump denounced his former Secretary of State Thursday following reports Rex Tillerson quietly met with the House Foreign Affairs Committee and testified about his time in the Trump administration.",
@@ -1214,62 +1270,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-biden-on-anti-mask-ordinances-this-isnt-about-politics-this-is-about-keeping-our-children-safe.md",
-      "title": "Biden on anti-mask ordinances: 'This isn't about politics -- this is about keeping our children safe'",
-      "excerpt": "President Joe Biden on Thursday hit out at anti-masking protesters for politicizing the Covid-19 pandemic, saying he was particularly disturbed by scenes at a school board meeting in Tennessee earlier this week.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qkATPJa-UMY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qkATPJa-UMY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210810152440-06-biden-harris-remarks-0810-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/12/politics/joe-biden-anti-mask-ordinances-prescription-drug-prices/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/12/politics/joe-biden-anti-mask-ordinances-prescription-drug-prices/index.html",
-      "publishedDateTime": "2021-08-12T12:29:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

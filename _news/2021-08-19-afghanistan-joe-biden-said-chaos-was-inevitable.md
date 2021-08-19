@@ -2,17 +2,21 @@
 category: news
 title: "Afghanistan: Joe Biden said chaos was 'inevitable'"
 excerpt: "In an exclusive interview with ABC News' George Stephanopoulos, Joe Biden said nobody could have anticipated the speed of the Taliban's takeover. The US president has been criticised for his handling of the withdrawal."
-publishedDateTime: 2021-08-19T00:44:00Z
-originalUrl: "https://www.bbc.co.uk/news/av/world-us-canada-58264718"
-webUrl: "https://www.bbc.co.uk/news/av/world-us-canada-58264718"
+publishedDateTime: 2021-08-19T01:07:00Z
+originalUrl: "https://www.bbc.com/news/av/world-us-canada-58264718"
+webUrl: "https://www.bbc.com/news/av/world-us-canada-58264718"
 type: article
-quality: 55
+quality: 105
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -122,6 +126,6 @@ related:
         height: 1920
         isCached: true
 
-secured: "Rvv5drK0zaOd05ETMJe/UM/8adVRUpyPfGUs2opnu63jkw5uwNFcyZMYqDx1+uGxstfqMqC1hBOXTnF7rzv9VuRwr65ETcLWWXeZJM/hLiGuksvGG3FQ4PrDZyUYfZgvlyXPnJW1SJFxtiL3bQEthyklbVjutrAcJENW5d9nZOlovXuNcVm5yJfevpK9cQbvbw5omh2USMm90+C3eDy+Rw+CYlukGm25XD0hdD1gQDez+vxwRhidUJohMcsAZEbbb5IxWWn8FnklH4Y1vzgAtRBUVBdFgpILtfdiPCxzJoApr8DL3M5K82af5K8U6qVnUTbohwo8CvWomNAWS5Zwq3BIXGAV9qhBADJlAvneC3E=;XsQ9PMQoiPyv9J5w5ytoVg=="
+secured: "kIlNQdmTeVqR6UF00nev497AePgA24R/QnMY2AU77cgW5qPNcKohI95T79UcBPAv/HH1z9vpFn/BNY/GPn/H1BUlk7tNcztHntokQ6vHtuetm5ZoXerHNnhd8vz+SL/3O8fhRyjSomP6xVLPSyAH5UEgjc6oTCJK8veQDBb8CXsKOLRZyciAj0C/BAMl7pUKu0elhcOa4uEhR06jXSeilKRCKBxGUPbb+Qcq9CgDbxlo4ozswp9CV9Lbiu7aVBcKomT39Z7KVoLsatkqbXYnEgrVf16On9M3NwUtlrJWB34jsaOXvPuX8MVbx5rMLFLeQjxiw+VhBdfM8IMG7xgldY042evqUdgD4hmbfecxxVs=;U5+GNkhjZmV2XMmvn1Xj5g=="
 ---
 

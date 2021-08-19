@@ -258,20 +258,20 @@ related:
         height: 675
         isCached: true
   - title: "Kushner pal hit with state charges months after Trump pardon"
-    excerpt: "A newspaper editor friend of former President Donald Trump’s son-in-law Jared Kushner was hit Wednesday with state cyberstalking charges in New York, seven months after Trump pardoned him in a similar federal case just before leaving office."
-    publishedDateTime: 2021-08-19T00:31:00Z
-    webUrl: "https://www.myrtlebeachonline.com/entertainment/article253583399.html"
-    ampWebUrl: "https://amp.myrtlebeachonline.com/entertainment/article253583399.html"
-    cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/entertainment/article253583399.html"
+    excerpt: "A newspaper editor friend of former President Donald Trump’s son-in-law Jared Kushner was hit Wednesday with state cyberstalking charges in New York, seven months after Trump pardoned him in a similar"
+    publishedDateTime: 2021-08-19T02:37:00Z
+    webUrl: "https://www.sandiegouniontribune.com/entertainment/national/story/2021-08-18/kushner-pal-hit-with-state-charges-months-after-trump-pardon"
+    ampWebUrl: "https://www.sandiegouniontribune.com/entertainment/national/story/2021-08-18/kushner-pal-hit-with-state-charges-months-after-trump-pardon?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/entertainment/national/story/2021-08-18/kushner-pal-hit-with-state-charges-months-after-trump-pardon?_amp=true"
     type: article
     provider:
-      name: The Sun News
-      domain: myrtlebeachonline.com
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
     quality: 75
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154290001/354f0e7a-264c-4e92-9637-8018ba0bfe25/f5a73d3a-da5f-4869-8484-a14bac7ba509/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/748fe81/2147483647/strip/true/crop/3000x2006+0+122/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3b%2F1d%2F7746231db9eb8437b2ecdf23df92%2F267ccf796ea04278ade2bf5ee44f6f32"
+        width: 320
+        height: 214
         isCached: true
   - title: "Tammy Baldwin calls GOP tax bill a boon for wealthy; Republican foes cheer Donald Trump’s efforts"
     excerpt: "A Republican remake of the federal tax code bound for a U.S. Senate vote as soon as next week is being decried by Democratic Sen. Tammy Baldwin as a “giveaway to the wealthiest few,” while her potential GOP challengers are cheering President Donald Trump’s bid for a once-in-a-generation tax-code overhaul."
