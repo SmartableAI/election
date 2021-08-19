@@ -3,18 +3,18 @@ category: news
 title: "What President Joe Biden said in his address on Afghanistan"
 excerpt: "As criticism of the president mounted, Biden addressed the country as the Taliban took control of Afghanistan and chaos overtook the Kabul airport."
 publishedDateTime: 2021-08-16T23:06:00Z
-originalUrl: "https://www.statesman.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
-webUrl: "https://www.statesman.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
-ampWebUrl: "https://amp.statesman.com/amp/8157340002"
-cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8157340002"
+originalUrl: "https://www.indystar.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
+webUrl: "https://www.indystar.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002/"
+ampWebUrl: "https://amp.indystar.com/amp/8157340002"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/8157340002"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Austin American-Statesman
-  domain: statesman.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -700,6 +700,6 @@ related:
       domain: cincinnati.com
     quality: 13
 
-secured: "D69x6oRjhow0brU7TaaF3ERrM0x5HD4nPbLZ9N6Gr23RpuBZAQ5EWjEsYI/Ikc1iVHGln6cbDrjn+ymT8ff/o1FJW918QKAKZFrDTLksGY6nkvmHHRpFCfKbl9wC0PhsOcgMZUuZLQeniAswPGebkVZsDJgqoAtwbNmnQioIDEMQOoNj9T4T5fi/cUY1P4xsysc81DijierSRnhb+AWX1bVvHZ+diuRG3939xaxnA6UbqGJULtlIpUS/VmT0baYxGC+m7RoVMcB0NE0AVHmgOwzcgn/+1vDxlapdvXpJ04lMVSWqd7DyRU6ILVf8APBUNqNj5aqxeN0nOyzFF4xcLIbgW4vMsLCjzCaC46zLEvpxwaf6fTV4hkXCOGE2avBS7tJr95FawMxxT4rfVB9aMo8yhDb8zkLcGVnHVBa/6pDN5vHA3Tt4H7QHBAKQWH0LC3e48oTReddW+fHZCm8DsS8HD/zV0Ok5JM77f6yerqd+PkSp/3nJl4LHCsxAVtmVI3PBgj1fHUjK156yO8vykw==;xOIXUWWZsCjiNK+6HoXYsw=="
+secured: "Fys0bMwhSyZf06WOuQNT9UeJSrfxrNfVx9FBgkqX5QmI3XvE57iYOt41FRhHtXl/l5LzKXJ/2BT+U/hFFwsBlCwybOVWwdkbP+xbvyThiFG7s3E06vKaznx9GkOCFDdyjOZjcgIxHGX00sf6uXznWW/SAiuJtvEg44D1qrP1R3+CehkeqNeyhlAFUtOgPsADF3EEcAv7s/2r9QwirOhVyW9l4RzsF1xnYvGTpDjo9tvRVVpNA1VuIM+5s1HbEFerqx2OMoGzmiBQCDPMaorMkRCcAiYwOm5NlHZXjwCxS+53XNXeWgHbcTEVeovtHOZsqiHZtbhcJ8vb5tw1Z5cw7ny39/B8EG9YxbGFqR9XfyQ=;69MFvfNSLwfsf5jIIBXg6A=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden says there was no way to exit without ‘chaos’ – as it happened"
-excerpt: "This blog is now closed, You can find our latest live coverage here."
+excerpt: "Nicola Slawson, Ben Quinn, Kevin Rawlinson, Rachel Hall and Ben Doherty (earlier) This blog is now closed – we’ve launched a new blog with the latest live coverage at the link below: Up to 15,000 Americans remain in Afghanistan after the Taliban took full control of the nation last weekend."
 publishedDateTime: 2021-08-18T22:01:00Z
-originalUrl: "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis?page=with:block-611d0a1f8f0883925e57fa7d"
-webUrl: "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis?page=with:block-611d0a1f8f0883925e57fa7d"
+originalUrl: "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis?page=with:block-611d8fbe8f08e83ac7bdf03d"
+webUrl: "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis?page=with:block-611d8fbe8f08e83ac7bdf03d"
 ampWebUrl: "https://amp.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis"
 type: article
@@ -24,6 +24,6 @@ topics:
   - Election
   - Joe Biden
 
-secured: "+0JVwqpTiTgTrmdxmV+MuOd3lnv8abKp2IiwRHgYNiceO7Op4ag9XzVy/y3AQlfqzM7CIRUwllzyVtpM/4WHw4SSGW1JhKWXMmPFdYb7+udzAF3m7dB/lr04c/HN7jjL/GlQTNdveM82f1KLu0u2ag/odKXlMYT2j0ngrWP/TWfZi38rvJFIm05EMLFTU0x8pPLWrMtTan4LC4z4mgTOr3t6kkiZjZOxy1Pr/+gSDoydB9VOCrO+33F6LvWsphNH4rhVnBtvfMOyRH0KpH9sY63HmYMS79p9GMYO0lFYEXJkSASd3LjMb9gnqKIPelv60upF7KN7Z79lpXLA7kUF9SnaoN4UGWIBJVl3lmAV2/tydoQGgDqbtAEUdUmAYsTrk/FgwNlW40jgfa8yQAjnHaaWCoehCnkQNPO/A2i/PINHQpgRRNewnIz2TvH7iBYClU3gL2hMBa4YKOjNPhmj/wOuGSoVu2hel+Y2oTHMFA7uoSi3CVNdGSGL3rh+5J7OuNCQi6XZRww714KcCpHBUQ==;eI98sVh0ui5zORy29NyoHQ=="
+secured: "WEz7uY5LV4hNv3ekKe9lLPe00W70rSj/eB/ZKTWmpyP5xB76wjNjDrrBYWPjHg0AQDPmNe1i9KO3eqSjqfnUai+haRvfJUQRZXEcmn4vnS4PNTvKJIBO3TWb65fCv3Dhiiy3Jn0jxyuSa8MDcTOOHH1mPS8XKNalIr5yvOezqQaUHZB93F211iupHkfsWnuCg27dLNj36m3YDPCWgT76TyJacblJijkjO8kWOxzre3p+mEDtB1WNPli5cE+HWwEyhxB7Z67L3wo9hXfpH/os/l5QQek9BuDsbkjsybqiMbvWjcUZTHwPnoLLaYebjbKRoffxyDKLuvuvuJ8uLvn4jvYVGlkFCaICAg+liMe6qrEF+NMxS3zQU4vo4xzIFG09Gt23uhwuPAStqMREEMGyy2ZqL27t+vmy2NCj4d1f9L4BreCZ7x/yfmY4PVy9U3zlM2alAq7MyLW7NXnZk8zpE9vRRii0NHCq/xaYDdIxMZS6ZgyqzLkJBbAG9LUiCRtly0Q1b00oPTfb3J6iHaOdrQ==;wXyET/rKKQk1H9kRbZYW1g=="
 ---
 

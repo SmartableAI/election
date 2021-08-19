@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Kushner pal hit with state charges months after Trump pardon"
-excerpt: "A newspaper editor friend of former President Donald Trump’s son-in-law Jared Kushner was hit Wednesday with state cyberstalking charges in New York, seven months after Trump pardoned him in a similar"
-publishedDateTime: 2021-08-19T02:37:00Z
-originalUrl: "https://www.sandiegouniontribune.com/entertainment/national/story/2021-08-18/kushner-pal-hit-with-state-charges-months-after-trump-pardon"
-webUrl: "https://www.sandiegouniontribune.com/entertainment/national/story/2021-08-18/kushner-pal-hit-with-state-charges-months-after-trump-pardon"
-ampWebUrl: "https://www.sandiegouniontribune.com/entertainment/national/story/2021-08-18/kushner-pal-hit-with-state-charges-months-after-trump-pardon?_amp=true"
-cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/entertainment/national/story/2021-08-18/kushner-pal-hit-with-state-charges-months-after-trump-pardon?_amp=true"
+title: "Manhattan DA charges Ken Kurson months after being pardoned by Trump"
+excerpt: "Kenneth Kurson, the former editor of the New York Observer, was charged by New York State prosecutors with spying on his former wife, months after being pardoned by then-outgoing President Donald Trump."
+publishedDateTime: 2021-08-19T05:45:00Z
+originalUrl: "https://www.upi.com/Top_News/US/2021/08/19/Manhattan-district-attorney-charges-Kenneth-Kurson-with-spying-on-former-wife/8621629348007/"
+webUrl: "https://www.upi.com/Top_News/US/2021/08/19/Manhattan-district-attorney-charges-Kenneth-Kurson-with-spying-on-former-wife/8621629348007/"
+ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/08/19/Manhattan-district-attorney-charges-Kenneth-Kurson-with-spying-on-former-wife/8621629348007/"
+cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/19/Manhattan-district-attorney-charges-Kenneth-Kurson-with-spying-on-former-wife/8621629348007/"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: San Diego Union-Tribune
-  domain: sandiegouniontribune.com
+  name: UPI.com
+  domain: upi.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://ca-times.brightspotcdn.com/dims4/default/748fe81/2147483647/strip/true/crop/3000x2006+0+122/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3b%2F1d%2F7746231db9eb8437b2ecdf23df92%2F267ccf796ea04278ade2bf5ee44f6f32"
-    width: 320
-    height: 214
+  - url: "https://cdnph.upi.com/ph/st/th/8621629348007/2021/upi_com/7b56630f286d8a2f0d4e2dae8b7119fe/v1.5/Manhattan-DA-charges-Ken-Kurson-months-after-being-pardoned-by-Trump.jpg?lg=2"
+    width: 800
+    height: 532
     isCached: true
 
 related:
@@ -265,21 +265,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Manhattan DA charges Ken Kurson months after being pardoned by Trump"
-    excerpt: "Kenneth Kurson, the former editor of the New York Observer, was charged by New York State prosecutors with spying on his former wife, months after being pardoned by then-outgoing President Donald Trump."
-    publishedDateTime: 2021-08-19T05:45:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/08/19/Manhattan-district-attorney-charges-Kenneth-Kurson-with-spying-on-former-wife/8621629348007/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/08/19/Manhattan-district-attorney-charges-Kenneth-Kurson-with-spying-on-former-wife/8621629348007/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/19/Manhattan-district-attorney-charges-Kenneth-Kurson-with-spying-on-former-wife/8621629348007/"
+  - title: "Kushner pal hit with state charges months after Trump pardon"
+    excerpt: "A newspaper editor friend of former President Donald Trump’s son-in-law Jared Kushner was hit Wednesday with state cyberstalking charges in New York, seven months after Trump pardoned him in a similar"
+    publishedDateTime: 2021-08-19T02:37:00Z
+    webUrl: "https://www.sandiegouniontribune.com/entertainment/national/story/2021-08-18/kushner-pal-hit-with-state-charges-months-after-trump-pardon"
+    ampWebUrl: "https://www.sandiegouniontribune.com/entertainment/national/story/2021-08-18/kushner-pal-hit-with-state-charges-months-after-trump-pardon?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/entertainment/national/story/2021-08-18/kushner-pal-hit-with-state-charges-months-after-trump-pardon?_amp=true"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
     quality: 75
     images:
-      - url: "https://cdnph.upi.com/ph/st/th/8621629348007/2021/upi_com/7b56630f286d8a2f0d4e2dae8b7119fe/v1.5/Manhattan-DA-charges-Ken-Kurson-months-after-being-pardoned-by-Trump.jpg?lg=2"
-        width: 800
-        height: 532
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/748fe81/2147483647/strip/true/crop/3000x2006+0+122/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3b%2F1d%2F7746231db9eb8437b2ecdf23df92%2F267ccf796ea04278ade2bf5ee44f6f32"
+        width: 320
+        height: 214
         isCached: true
   - title: "Jerry Brown: Trump’s coal policies a ‘declaration of war against America and all of humanity’"
     excerpt: "Gov. Jerry Brown told his constituents in the Golden State on Tuesday that \"war\" has been declared on \"all of humanity\" by President Trump. The White House's decision to roll back Obama-era regulations on coal-fired power plants enraged the California Democrat so much that he framed himself as environmental revolutionary."
@@ -480,6 +480,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "Khz0E52KL/hxc9bAJuSXi3tDCvniet5+QgERcb6RX/pTq4gcnOTD3uLM8tAsW+MxOL/NzZbDm9jARrrMSIJof4YE5ZMobsFqhUpPUiK+7r637R9A7dHOCyEdC63agEvLrddpM/4QLleeHXwPApupl2cLQvEueNlzjoZZfe8b8lc/Ry2tpF7JcmpYQ9i3xBsH9szNHY1vMqB2kHLunWmo8jLpmgMDr2RneYTdvwkcX5AAXaxA/Ga9u6+7nC4AW8AZgP6AZjCoY0Jfunm2lEa0SCnVkkJUd3zV4Ey0LbklI7hKQh+mGEoTkDCnTWPFPMbtcJQtB2sc3PqJ75gawfaOhTMAN/FTa3QDXXd/S1w1OWo=;PveaCIoiQUbE5b09ixV9Kg=="
+secured: "ODSlSUduVwBRXGosR4zPoOb2A4gYI9leBlxiZ2AhQou29ZLLTcAGCv+iiJe+A6ztcKidIAGrkayyW+pG1Gm99+LDLl5tsn9ewlypwwVbq4TFCjNfCNLWGeapyL9GNOvfioCmOewo0tBCZtlZ753o7cYjuGY1VPwkDv41YtMuDlfeDfeAFyHlWRAhLHpqLb/CUkpf7TVuxuzqOd3a7hJBo+hyFB0o4MHc1KaOvD5WA4ODo8pF/TGURSH/wb+9//LSUo3u+Z7pb1oiL5RVf2JY9HP3z2x0y/e4d+qJ8dDNUNXRwliN6/szCK7siWdS70IQbx60mox370PcjhUtigpcatBt5eLemRBXrog2/vCOxHE=;ojHxn9DmOVr6iK2BQwyvTA=="
 ---
 

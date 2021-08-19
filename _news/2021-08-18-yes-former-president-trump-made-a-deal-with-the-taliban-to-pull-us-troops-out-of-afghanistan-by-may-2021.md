@@ -55,24 +55,10 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Afghanistan: Joe Biden said chaos was 'inevitable'"
-    excerpt: "In an exclusive interview with ABC News' George Stephanopoulos, Joe Biden said nobody could have anticipated the speed of the Taliban's takeover. The US president has been criticised for his handling of the withdrawal."
-    publishedDateTime: 2021-08-19T01:07:00Z
-    webUrl: "https://www.bbc.com/news/av/world-us-canada-58264718"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 105
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/B308/production/_120023854_p09sm318.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Afghanistan live news: Joe Biden says there was no way to exit without ‘chaos’"
     excerpt: "Ousted president Ashraf Ghani confirms he is in UAE; UN says it will still support Afghan people; at least one dead after clash over Taliban flag"
-    publishedDateTime: 2021-08-18T21:19:00Z
-    webUrl: "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis"
+    publishedDateTime: 2021-08-18T21:35:00Z
+    webUrl: "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis?page=with:block-611d87688f08e83ac7bdefef"
     ampWebUrl: "https://amp.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis"
     type: article
@@ -106,6 +92,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/facebook-and-twitter-banned-donald-trump-over-his.jpg"
         width: 1024
         height: 662
+        isCached: true
+  - title: "Afghanistan: Joe Biden said chaos was 'inevitable'"
+    excerpt: "In an exclusive interview with ABC News' George Stephanopoulos, Joe Biden said nobody could have anticipated the speed of the Taliban's takeover. The US president has been criticised for his handling of the withdrawal."
+    publishedDateTime: 2021-08-19T00:44:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/world-us-canada-58264718"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/B308/production/_120023854_p09sm318.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Anna Paulina Luna addresses troops, Amanda Makki calls for Joe Biden resignation in response to Afghanistan crisis"
     excerpt: "Florida’s 13th Congressional District GOP candidates Amanda Makki and Anna Paulina Luna are responding to the fall of Kabul to Taliban control after American troops were pulled from Afghanistan. The candidates,"

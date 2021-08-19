@@ -2,21 +2,17 @@
 category: news
 title: "Afghanistan: Joe Biden said chaos was 'inevitable'"
 excerpt: "In an exclusive interview with ABC News' George Stephanopoulos, Joe Biden said nobody could have anticipated the speed of the Taliban's takeover. The US president has been criticised for his handling of the withdrawal."
-publishedDateTime: 2021-08-19T01:07:00Z
-originalUrl: "https://www.bbc.com/news/av/world-us-canada-58264718"
-webUrl: "https://www.bbc.com/news/av/world-us-canada-58264718"
+publishedDateTime: 2021-08-19T00:44:00Z
+originalUrl: "https://www.bbc.co.uk/news/av/world-us-canada-58264718"
+webUrl: "https://www.bbc.co.uk/news/av/world-us-canada-58264718"
 type: article
-quality: 105
+quality: 55
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - Election
@@ -61,8 +57,8 @@ related:
         isCached: true
   - title: "Afghanistan live news: Joe Biden says there was no way to exit without ‘chaos’"
     excerpt: "Ousted president Ashraf Ghani confirms he is in UAE; UN says it will still support Afghan people; at least one dead after clash over Taliban flag"
-    publishedDateTime: 2021-08-18T21:19:00Z
-    webUrl: "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis"
+    publishedDateTime: 2021-08-18T21:35:00Z
+    webUrl: "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis?page=with:block-611d87688f08e83ac7bdefef"
     ampWebUrl: "https://amp.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis"
     type: article
@@ -126,6 +122,6 @@ related:
         height: 1920
         isCached: true
 
-secured: "kIlNQdmTeVqR6UF00nev497AePgA24R/QnMY2AU77cgW5qPNcKohI95T79UcBPAv/HH1z9vpFn/BNY/GPn/H1BUlk7tNcztHntokQ6vHtuetm5ZoXerHNnhd8vz+SL/3O8fhRyjSomP6xVLPSyAH5UEgjc6oTCJK8veQDBb8CXsKOLRZyciAj0C/BAMl7pUKu0elhcOa4uEhR06jXSeilKRCKBxGUPbb+Qcq9CgDbxlo4ozswp9CV9Lbiu7aVBcKomT39Z7KVoLsatkqbXYnEgrVf16On9M3NwUtlrJWB34jsaOXvPuX8MVbx5rMLFLeQjxiw+VhBdfM8IMG7xgldY042evqUdgD4hmbfecxxVs=;U5+GNkhjZmV2XMmvn1Xj5g=="
+secured: "6AvZR7R+OYLw9wUNs1ribQEeDI1Kg5OKoV9D15g+aoFqhw4EUtlbxHRSzsimkhTTeuTxMFV4bb3O7N+HfXQrO9KcIZeCr4/Ukvh8eAGj1trSw9LMKhPqfgQEDmBOf85oWnfqnsnLJhwywn8vcjIZ9QCeK7/4xf7jDouOCrD2wXqx/14H8Fu4hb9eVtA9jQIQ7B5Em2uj7nwOlCPj9rPSbtcyEVNeJz1VwDzKu/z6xS47VJWpEXI1LSExHCAR9VuE5cIjQMIRQ35dynMfcjVVHdDBBXqEgZgAJ+DQDuobo/niEQD1xVtx+ILbBwj9b5kOpbgQztxVe2Dtwv5MtIdebT6m8rWiObjUXZ30NJyw19o=;A8+FEtDxV6a/TVAI+IGI6w=="
 ---
 

@@ -268,6 +268,22 @@ related:
         width: 320
         height: 214
         isCached: true
+  - title: "Manhattan DA charges Ken Kurson months after being pardoned by Trump"
+    excerpt: "Kenneth Kurson, the former editor of the New York Observer, was charged by New York State prosecutors with spying on his former wife, months after being pardoned by then-outgoing President Donald Trump."
+    publishedDateTime: 2021-08-19T05:45:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/08/19/Manhattan-district-attorney-charges-Kenneth-Kurson-with-spying-on-former-wife/8621629348007/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/08/19/Manhattan-district-attorney-charges-Kenneth-Kurson-with-spying-on-former-wife/8621629348007/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/19/Manhattan-district-attorney-charges-Kenneth-Kurson-with-spying-on-former-wife/8621629348007/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/ph/st/th/8621629348007/2021/upi_com/7b56630f286d8a2f0d4e2dae8b7119fe/v1.5/Manhattan-DA-charges-Ken-Kurson-months-after-being-pardoned-by-Trump.jpg?lg=2"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Jerry Brown: Trump’s coal policies a ‘declaration of war against America and all of humanity’"
     excerpt: "Gov. Jerry Brown told his constituents in the Golden State on Tuesday that \"war\" has been declared on \"all of humanity\" by President Trump. The White House's decision to roll back Obama-era regulations on coal-fired power plants enraged the California Democrat so much that he framed himself as environmental revolutionary."
     publishedDateTime: 2021-08-16T23:18:00Z

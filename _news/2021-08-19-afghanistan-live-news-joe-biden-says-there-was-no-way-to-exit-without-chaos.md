@@ -2,9 +2,9 @@
 category: news
 title: "Afghanistan live news: Joe Biden says there was no way to exit without ‘chaos’"
 excerpt: "Ousted president Ashraf Ghani confirms he is in UAE; UN says it will still support Afghan people; at least one dead after clash over Taliban flag"
-publishedDateTime: 2021-08-18T21:19:00Z
-originalUrl: "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis"
-webUrl: "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis"
+publishedDateTime: 2021-08-18T21:35:00Z
+originalUrl: "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis?page=with:block-611d87688f08e83ac7bdefef"
+webUrl: "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis?page=with:block-611d87688f08e83ac7bdefef"
 ampWebUrl: "https://amp.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis"
 type: article
@@ -55,20 +55,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Afghanistan: Joe Biden said chaos was 'inevitable'"
-    excerpt: "In an exclusive interview with ABC News' George Stephanopoulos, Joe Biden said nobody could have anticipated the speed of the Taliban's takeover. The US president has been criticised for his handling of the withdrawal."
-    publishedDateTime: 2021-08-19T01:07:00Z
-    webUrl: "https://www.bbc.com/news/av/world-us-canada-58264718"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 105
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/B308/production/_120023854_p09sm318.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Afghanistan live news: Joe Biden says there was no way to exit Afghanistan without ‘chaos’"
     excerpt: "Ousted president Ashraf Ghani confirms he is in UAE; UN says it will still support Afghan people; at least one dead after clash over Taliban flag"
     publishedDateTime: 2021-08-18T20:16:00Z
@@ -95,6 +81,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/facebook-and-twitter-banned-donald-trump-over-his.jpg"
         width: 1024
         height: 662
+        isCached: true
+  - title: "Afghanistan: Joe Biden said chaos was 'inevitable'"
+    excerpt: "In an exclusive interview with ABC News' George Stephanopoulos, Joe Biden said nobody could have anticipated the speed of the Taliban's takeover. The US president has been criticised for his handling of the withdrawal."
+    publishedDateTime: 2021-08-19T00:44:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/world-us-canada-58264718"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/B308/production/_120023854_p09sm318.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Yes, former President Trump made a deal with the Taliban to pull US troops out of Afghanistan by May 2021"
     excerpt: "Former President Donald Trump made a deal to remove U.S. forces by May 2021, and Biden extended the withdrawal deadline to Sept. 11. 2021"
@@ -125,6 +125,6 @@ related:
         height: 1920
         isCached: true
 
-secured: "yaJRhvEtvqkl8sD6cVLC43UJRu1wTYQoF1BG7/MGLvj8L6PVuxEJ0hWfYE/QC3GvPYHDfuQKaDTBT6uHNBIByplm8LPp/y/vkTKPh7xEI1FhkL0nrEjZgmwwIF5AqY4D4VoqjJR555DQm5NraqtqtdWJx458NRfEW1Gz4c0cr3Xeo/lTbqioEWGKyhw4vZM7zkvb4jyTyymTab8huGaF/kyeBDPuzmQ63CzQYwHPK62NbskFH/dEeNqm6CFRlL5MYS1mjzVkp0MJlTV04KDpOJWV6GU7bf/MFhxkKJO/9AWWDLAWogHQwE62PTjY97l7ZSkMipBNAROkuJYBU94zno8DaC0tHw+dug1ZDGSi9fULYiDZPdVMuFr1/fMyYZu0EhKU0OFuQzfoiIbhZNZ1MHpMt0GiegcfQm39GA7fVAgyvuwyNEm89JR7kz7XHYxvtxNamSVUrbyAmvnv4jrmJKfUlizT9goX1Voihw9LSCE9AvVWNvkgEBgipzjUOPLOXIqWLPF2X91RA4mdZ5b3yw==;5E4nzcEVc++iV4K+0whpTQ=="
+secured: "U3CDNIxrtXDJnAoiCP1A0sun2EbhpBD76c1vNSZarh66/TOg+4uP/A/tSlxxd3DPmj0n2jsFZW00Ons83uaBdVTwZxj6V7oMRLjvZ6s7m78SK/Ak6ILx5ENn52WmrkLSPvIE5QB9edL4WNX6gtEJw7qoWIis1m4wL/YWN6SNxwxmTATIFm+72LF0LNyBIS2itZBhXkRAiP2e5WRvwYWiy3AlRKz5Wm+SqKOQh6wI3FsjyiRERaicWQ66ix/01V46A9Phw78asGyKRiwBkGN+0oBCiEYR70I2htqfoM/RwHape6VV3KJlTKCUkfhZdjo36JG46nNiXc4L7hH6j0/EjvH6kqkZ6IKqbe/KKF4Rcx7ZRrQAyfVgooI3aLg5eNRw2ABUv6Acxp+NV4Y6rImpUtbF6rvPLzBKB07Y/KEmmpyJfVzffuUez/gnal3EKtWKwYCNkbI6YJxk+yMZg/8zEaIhw7zo8IQBJXnD4hNv4JDAbBd66g3bIORo7cj3RhZNNbEZID98O1A1mxOYpcQ56Q==;N39YlrkvZpNV7yaD7+5oug=="
 ---
 

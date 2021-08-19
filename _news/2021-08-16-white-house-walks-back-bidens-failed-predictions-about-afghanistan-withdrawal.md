@@ -79,6 +79,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden says as many as 15,000 Americans looking to flee Afghanistan"
+    excerpt: "As many as 15,000 American citizens may remain inside Afghanistan, struggling to get out, days after the Asian nation fell to control of Taliban terrorists, President Biden said Wednesday."
+    publishedDateTime: 2021-08-19T05:17:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0Nerg1nLK_M/biden-says-as-many-as-15000-americans-looking-to-flee-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-as-many-as-15000-americans-looking-to-flee-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-as-many-as-15000-americans-looking-to-flee-afghanistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f850f181-a8b7-4e53-aff1-b2f6a57a4421/b2dd30f1-028f-4be2-90c5-01a4b4eaf1d4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden hasn't spoken to any foreign leaders since fall of Afghanistan to Taliban"
     excerpt: "National Security Adviser Jake Sullivan said Tuesday that President Biden has not spoken with any other world leaders this week since Afghanistan fell to the Taliban, as the president remains at Camp David amid frantic efforts to evacuate Americans and U.S. allies from the country."
     publishedDateTime: 2021-08-17T19:30:40Z

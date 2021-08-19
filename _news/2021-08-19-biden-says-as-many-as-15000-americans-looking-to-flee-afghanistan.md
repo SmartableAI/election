@@ -1,30 +1,33 @@
 ---
 category: news
-title: "Critics slam Biden’s long-weekend silence as Afghanistan falls to Taliban"
-excerpt: "Republican leaders are slamming President Biden for taking a long weekend out of the public eye as major cities fall to the Taliban in Afghanistan. The mounting crisis comes as the US prepares to"
-publishedDateTime: 2021-08-13T17:15:00Z
-originalUrl: "https://nypost.com/2021/08/13/critics-slam-bidens-long-weekend-as-afghanistan-falls-to-taliban/"
-webUrl: "https://nypost.com/2021/08/13/critics-slam-bidens-long-weekend-as-afghanistan-falls-to-taliban/"
-ampWebUrl: "https://nypost.com/2021/08/13/critics-slam-bidens-long-weekend-as-afghanistan-falls-to-taliban/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/13/critics-slam-bidens-long-weekend-as-afghanistan-falls-to-taliban/amp/"
+title: "Biden says as many as 15,000 Americans looking to flee Afghanistan"
+excerpt: "As many as 15,000 American citizens may remain inside Afghanistan, struggling to get out, days after the Asian nation fell to control of Taliban terrorists, President Biden said Wednesday."
+publishedDateTime: 2021-08-19T05:17:53Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0Nerg1nLK_M/biden-says-as-many-as-15000-americans-looking-to-flee-afghanistan"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0Nerg1nLK_M/biden-says-as-many-as-15000-americans-looking-to-flee-afghanistan"
+ampWebUrl: "https://www.foxnews.com/politics/biden-says-as-many-as-15000-americans-looking-to-flee-afghanistan.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-as-many-as-15000-americans-looking-to-flee-afghanistan.amp"
 type: article
-quality: 134
+quality: 175
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/joe-biden-weekend-taliban-hp.jpg?quality=90&strip=all&w=1024"
-    width: 1024
-    height: 682
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f850f181-a8b7-4e53-aff1-b2f6a57a4421/b2dd30f1-028f-4be2-90c5-01a4b4eaf1d4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
@@ -73,22 +76,6 @@ related:
     quality: 190
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cec80a1-b696-4f84-98d7-a096e98659e3/1c756d90-99fa-4394-8aac-ef9932071362/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden says as many as 15,000 Americans looking to flee Afghanistan"
-    excerpt: "As many as 15,000 American citizens may remain inside Afghanistan, struggling to get out, days after the Asian nation fell to control of Taliban terrorists, President Biden said Wednesday."
-    publishedDateTime: 2021-08-19T05:17:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0Nerg1nLK_M/biden-says-as-many-as-15000-americans-looking-to-flee-afghanistan"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-says-as-many-as-15000-americans-looking-to-flee-afghanistan.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-as-many-as-15000-americans-looking-to-flee-afghanistan.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f850f181-a8b7-4e53-aff1-b2f6a57a4421/b2dd30f1-028f-4be2-90c5-01a4b4eaf1d4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -378,6 +365,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Critics slam Biden’s long-weekend silence as Afghanistan falls to Taliban"
+    excerpt: "Republican leaders are slamming President Biden for taking a long weekend out of the public eye as major cities fall to the Taliban in Afghanistan. The mounting crisis comes as the US prepares to"
+    publishedDateTime: 2021-08-13T17:15:00Z
+    webUrl: "https://nypost.com/2021/08/13/critics-slam-bidens-long-weekend-as-afghanistan-falls-to-taliban/"
+    ampWebUrl: "https://nypost.com/2021/08/13/critics-slam-bidens-long-weekend-as-afghanistan-falls-to-taliban/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/13/critics-slam-bidens-long-weekend-as-afghanistan-falls-to-taliban/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/joe-biden-weekend-taliban-hp.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Where’s Kamala? ‘Last person in room’ Harris silent 6 days amid Afghan pullout chaos"
     excerpt: "Vice President Kamala Harris has kept a conspicuously low profile since the swift fall of Afghanistan to the Taliban."
     publishedDateTime: 2021-08-19T00:12:00Z
@@ -474,6 +477,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "SulcOT4Cm2ItV5/bXantdMLN+KQMReN9rNGsFKUMrljHbjX825T7Xx0YyaBFYSRDfcEIW+5CKXbvutBENqbwz65zIO0Hqg0MqHa1mLoNt9UNO1f7PD8HOVQ3IN+ZB3O26UpU45zAUAfW/b09nmM2ST4fpaoPY1Qc8+x1DGm3g9gEXGntu0vh+ZMBLoNt4pFFi78h1yE6FtVZM6bYKcULuupdg3y0jA/WPBHMno3SveKi0jwDBNfrTyzUwl+J0CUOiJJ0JpwsGH61a1cf8drj8MvK+wxJUgdSMWs54BdddxTWGPyMNK2IqwLNK//k9/0FIm2J6X+FArFdPmmezd4WfL/sE2ebjNXHXMR5GihTdjA=;ZHcm4fUWmJ5pT/miNcUiXw=="
+secured: "XlXj7DC/NNBRkkPeFRuccCxhi4zCqHLSA7w7BYQNP5kSSPzYFv9OvCkNk1uwdMLQ2t9mSrDsMz81WIFifgc93+yIG0a2U9Rkmeek/jsVB8jc8clRJ6FX0GEL09iEYkrpZhoLYcIP6Dq9hSCK2Z/BjF2Xat8kVg1lRb5xwe8POE64bZ8yplIDQ480d+yV+s9EcScZ6iNAt28AvNEaYR2icWekoEW+GKRc9VvAqUlP3jcFO3vlJFd0/40+mEE9WYRllUWrpdLpABLR7qaPlp+kSJoMDh5qOZqDEWxUF/U5domRYj7chCLa1OUOjSGwR4KIDe2EXHgb5Dq6S6nOBpMo+nUL9ITSAj0H6tB72MeT2jI=;1JmzkYmWl4bO/rXPhQY1zw=="
 ---
 
