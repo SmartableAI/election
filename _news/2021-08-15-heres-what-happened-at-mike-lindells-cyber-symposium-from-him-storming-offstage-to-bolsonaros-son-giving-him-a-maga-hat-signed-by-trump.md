@@ -79,6 +79,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Kushner friend Trump pardoned rearrested in cyberstalking case"
+    excerpt: "A newspaper editor friend of former President Donald Trump's son-in-law Jared Kushner was hit Wednesday with state cyberstalking charges in New York, seven months after Trump pardoned him in a similar federal case just before leaving office."
+    publishedDateTime: 2021-08-19T09:23:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/aug/19/kushner-friend-trump-pardoned-rearrested-cyberstal/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "zWOhoPFQXZwCTlsgaKPTWUfTP0nDhShhLDEJHOD40hP92YpzGoWMq61eydrXhYyTInz6mARV5kEfwGAz0kBnQTaBBJQINAYczHv8lKS8p/JEqYUpri1q1yMV6zQw817ToNqM/PwSdawBN6pVtq/OkXxLsLp8mmYTTcgsX2em4+cSU+9q15F8AKa1hmd52U3ClK9boQk1F5FSckaeYVM1jgdyzhXPPtfVpP909Cs3SOUnKoCp9vvk+NCak+e36KbM7P+8FBsm52GjfTQhF1ICLLdpeWG1z9yAtenkCF3y8EblMg0ZqCS2pUM03I0OkGTbyI3TICPwBK7aPJv2ru4VCs+FOIAsSQxlz+w7NWRgRtI=;8TuyhQbYNkpI95EJB6N2ig=="
 ---

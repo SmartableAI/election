@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/US/trump-family-friend-associate-ken-kurs
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/trump-family-friend-associate-ken-kurson-arrested-cyber/story?id=79507632"
 type: article
 quality: 121
-heat: 181
+heat: 201
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/e/fc/efc59a83-57df-5335-9878-13ee995e9b45/611695e07a9bb.image.jpg?resize=1024%2C682"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Kushner friend Trump pardoned rearrested in cyberstalking case"
+    excerpt: "A newspaper editor friend of former President Donald Trump's son-in-law Jared Kushner was hit Wednesday with state cyberstalking charges in New York, seven months after Trump pardoned him in a similar federal case just before leaving office."
+    publishedDateTime: 2021-08-19T09:23:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/aug/19/kushner-friend-trump-pardoned-rearrested-cyberstal/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
+        width: 800
+        height: 400
         isCached: true
 
 secured: "AgpLjKw7bY/Je3OM+J1XX6GF4cLDBCs73ZVKAcXhuROk8CU4qYVnEMkevg7FmFi2YiXI5VJPexloBX5A7d2v4vXVvATuDn+bw70r1qtBw5LA4GNkwciOJtFE4f2jcxwRxWQz2XNqP1hZrAhKZAjpkdqPESFK57gP6QrHCMQ1ORw19oGVvrCDF+/qN6Yi4gXZM3aGaUB0Y6kKMHXVNDaI0wYtjquRQAdyUCBOShxaTZzzfqvzFg7uahyhqYLo1U4hqcsi6L4naDHxUrguKrF7/k/9yOzU5V5nPWero+jxFrvTAal1A1grIvnbLx1B2/lfLXsxk4Twbq+7mE/rivNWBzitcH0HoRsJ0hqbt2GL50w=;BcS6bCcap9fVD84Pnad9PQ=="

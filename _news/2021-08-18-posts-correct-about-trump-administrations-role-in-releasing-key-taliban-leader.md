@@ -263,22 +263,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Kushner pal hit with state charges months after Trump pardon"
-    excerpt: "A newspaper editor friend of former President Donald Trump’s son-in-law Jared Kushner was hit Wednesday with state cyberstalking charges in New York, seven months after Trump pardoned him in a similar"
-    publishedDateTime: 2021-08-19T02:37:00Z
-    webUrl: "https://www.sandiegouniontribune.com/entertainment/national/story/2021-08-18/kushner-pal-hit-with-state-charges-months-after-trump-pardon"
-    ampWebUrl: "https://www.sandiegouniontribune.com/entertainment/national/story/2021-08-18/kushner-pal-hit-with-state-charges-months-after-trump-pardon?_amp=true"
-    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/entertainment/national/story/2021-08-18/kushner-pal-hit-with-state-charges-months-after-trump-pardon?_amp=true"
-    type: article
-    provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 75
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/748fe81/2147483647/strip/true/crop/3000x2006+0+122/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3b%2F1d%2F7746231db9eb8437b2ecdf23df92%2F267ccf796ea04278ade2bf5ee44f6f32"
-        width: 320
-        height: 214
-        isCached: true
   - title: "Manhattan DA charges Ken Kurson months after being pardoned by Trump"
     excerpt: "Kenneth Kurson, the former editor of the New York Observer, was charged by New York State prosecutors with spying on his former wife, months after being pardoned by then-outgoing President Donald Trump."
     publishedDateTime: 2021-08-19T05:45:00Z
@@ -456,6 +440,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kushner pal hit with state charges months after Trump pardon"
+    excerpt: "A newspaper editor friend of former President Donald Trump’s son-in-law Jared Kushner was hit Wednesday with state cyberstalking charges in New York, seven months after Trump pardoned him in a similar federal case just before leaving office."
+    publishedDateTime: 2021-08-19T08:41:00Z
+    webUrl: "https://www.kentucky.com/entertainment/celebrities/article253583399.html"
+    ampWebUrl: "https://amp.kentucky.com/entertainment/celebrities/article253583399.html"
+    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/entertainment/celebrities/article253583399.html"
+    type: article
+    provider:
+      name: Lexington Herald Leader
+      domain: kentucky.com
+    quality: 55
   - title: "Donald Trump endorses Republican Derrick Van Orden to replace Democrat Ron Kind in 3rd Congressional District"
     excerpt: "Former President Donald Trump is throwing his support behind the Republican candidate for Wisconsin's 3rd District congressional seat being vacated by Democratic U.S. Rep. Ron Kind. Derrick Van Orden received the former president's approval this week after the long-time incumbent Kind announced he would not seek another term."
     publishedDateTime: 2021-08-12T18:29:00Z

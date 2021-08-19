@@ -1,30 +1,24 @@
 ---
 category: news
 title: "Kushner pal hit with state charges months after Trump pardon"
-excerpt: "A newspaper editor friend of former President Donald Trump’s son-in-law Jared Kushner was hit Wednesday with state cyberstalking charges in New York, seven months after Trump pardoned him in a similar"
-publishedDateTime: 2021-08-19T02:37:00Z
-originalUrl: "https://www.sandiegouniontribune.com/entertainment/national/story/2021-08-18/kushner-pal-hit-with-state-charges-months-after-trump-pardon"
-webUrl: "https://www.sandiegouniontribune.com/entertainment/national/story/2021-08-18/kushner-pal-hit-with-state-charges-months-after-trump-pardon"
-ampWebUrl: "https://www.sandiegouniontribune.com/entertainment/national/story/2021-08-18/kushner-pal-hit-with-state-charges-months-after-trump-pardon?_amp=true"
-cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/entertainment/national/story/2021-08-18/kushner-pal-hit-with-state-charges-months-after-trump-pardon?_amp=true"
+excerpt: "A newspaper editor friend of former President Donald Trump’s son-in-law Jared Kushner was hit Wednesday with state cyberstalking charges in New York, seven months after Trump pardoned him in a similar federal case just before leaving office."
+publishedDateTime: 2021-08-19T08:41:00Z
+originalUrl: "https://www.kentucky.com/entertainment/celebrities/article253583399.html"
+webUrl: "https://www.kentucky.com/entertainment/celebrities/article253583399.html"
+ampWebUrl: "https://amp.kentucky.com/entertainment/celebrities/article253583399.html"
+cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/entertainment/celebrities/article253583399.html"
 type: article
-quality: 75
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: San Diego Union-Tribune
-  domain: sandiegouniontribune.com
+  name: Lexington Herald Leader
+  domain: kentucky.com
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://ca-times.brightspotcdn.com/dims4/default/748fe81/2147483647/strip/true/crop/3000x2006+0+122/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3b%2F1d%2F7746231db9eb8437b2ecdf23df92%2F267ccf796ea04278ade2bf5ee44f6f32"
-    width: 320
-    height: 214
-    isCached: true
 
 related:
   - title: "Judge rules Dominion defamation case against Trump allies can proceed"
@@ -480,6 +474,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "Khz0E52KL/hxc9bAJuSXi3tDCvniet5+QgERcb6RX/pTq4gcnOTD3uLM8tAsW+MxOL/NzZbDm9jARrrMSIJof4YE5ZMobsFqhUpPUiK+7r637R9A7dHOCyEdC63agEvLrddpM/4QLleeHXwPApupl2cLQvEueNlzjoZZfe8b8lc/Ry2tpF7JcmpYQ9i3xBsH9szNHY1vMqB2kHLunWmo8jLpmgMDr2RneYTdvwkcX5AAXaxA/Ga9u6+7nC4AW8AZgP6AZjCoY0Jfunm2lEa0SCnVkkJUd3zV4Ey0LbklI7hKQh+mGEoTkDCnTWPFPMbtcJQtB2sc3PqJ75gawfaOhTMAN/FTa3QDXXd/S1w1OWo=;PveaCIoiQUbE5b09ixV9Kg=="
+secured: "iwnxCxl5OrbjVTvalroVOLX0VEPNV5gbcG/IYBfsZiNvsph+HTJKhZU8ySqxrCxAKahpdWmUaUJC8bt/qcKs3SU1kz6unt3Lb7O/nZVxiXCyxIth3UA4k55A/+El9Q9y2t5vagRaSG1ZYjrUMH3T+yUkrHzmxOhzY+qAVYtN3lkY+Eao8QYGLvtTOz0P8UJ91uZ7iXKo5veT4rPqfoalWLi3hwVBOfOtKf0i/yYvUXtLZRFl2HwyC47KruxROx+dX6BYTKjWRJN4YJtxI1ZUT9O9ishig48F0O9tLCJmGbbdUA9sQ4AEELlIq5LAGs/9LXc9A9bZnyz2izJ9miAgAhmIx4fMiNMp1odM/Oqulpg=;5m7I5HRbIg/dnc1+jLi5qA=="
 ---
 

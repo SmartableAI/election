@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Kushner pal Ken Kurson hit with state charges months after Trump pardon"
-excerpt: "The former Chicago musician and New York Observer editor is accused of cyberstalking his wife during heated divorce proceedings."
-publishedDateTime: 2021-08-18T20:44:00Z
-originalUrl: "https://chicago.suntimes.com/2021/8/18/22631265/ken-kurson-cyberstalking-charges-jared-kushner-donald-trump-pardon-new-york-observer-green"
-webUrl: "https://chicago.suntimes.com/2021/8/18/22631265/ken-kurson-cyberstalking-charges-jared-kushner-donald-trump-pardon-new-york-observer-green"
-ampWebUrl: "https://chicago.suntimes.com/platform/amp/2021/8/18/22631265/ken-kurson-cyberstalking-charges-jared-kushner-donald-trump-pardon-new-york-observer-green"
-cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/8/18/22631265/ken-kurson-cyberstalking-charges-jared-kushner-donald-trump-pardon-new-york-observer-green"
+title: "Kushner friend Trump pardoned rearrested in cyberstalking case"
+excerpt: "A newspaper editor friend of former President Donald Trump's son-in-law Jared Kushner was hit Wednesday with state cyberstalking charges in New York, seven months after Trump pardoned him in a similar federal case just before leaving office."
+publishedDateTime: 2021-08-19T09:23:00Z
+originalUrl: "https://www.arkansasonline.com/news/2021/aug/19/kushner-friend-trump-pardoned-rearrested-cyberstal/"
+webUrl: "https://www.arkansasonline.com/news/2021/aug/19/kushner-friend-trump-pardoned-rearrested-cyberstal/"
 type: article
-quality: 75
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Chicago Sun-Times
-  domain: suntimes.com
+  name: Arkansas Democrat-Gazette
+  domain: arkansasonline.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
+    width: 800
+    height: 400
     isCached: true
 
 related:
@@ -59,6 +57,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Kushner pal Ken Kurson hit with state charges months after Trump pardon"
+    excerpt: "The former Chicago musician and New York Observer editor is accused of cyberstalking his wife during heated divorce proceedings."
+    publishedDateTime: 2021-08-18T20:44:00Z
+    webUrl: "https://chicago.suntimes.com/2021/8/18/22631265/ken-kurson-cyberstalking-charges-jared-kushner-donald-trump-pardon-new-york-observer-green"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2021/8/18/22631265/ken-kurson-cyberstalking-charges-jared-kushner-donald-trump-pardon-new-york-observer-green"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/8/18/22631265/ken-kurson-cyberstalking-charges-jared-kushner-donald-trump-pardon-new-york-observer-green"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 75
+    images:
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Derrick Van Orden gets Trump endorsement in race for seat held by retiring Rep. Ron Kind"
     excerpt: "Derrick Van Orden, R-Prairie du Chien, a loyal Trump ally, is now the only candidate in the race for the seat after longtime Rep. Ron Kind, D-La Crosse, announced his"
     publishedDateTime: 2021-08-13T16:15:00Z
@@ -75,21 +89,7 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Kushner friend Trump pardoned rearrested in cyberstalking case"
-    excerpt: "A newspaper editor friend of former President Donald Trump's son-in-law Jared Kushner was hit Wednesday with state cyberstalking charges in New York, seven months after Trump pardoned him in a similar federal case just before leaving office."
-    publishedDateTime: 2021-08-19T09:23:00Z
-    webUrl: "https://www.arkansasonline.com/news/2021/aug/19/kushner-friend-trump-pardoned-rearrested-cyberstal/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 55
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
-        width: 800
-        height: 400
-        isCached: true
 
-secured: "FE3PrpbZ52woeZh+edszMiNCRN5Az1F7JC7qAA3pKwQVFB5o4A0OwhJA6L2P4G6GbSWszVzNIQAcV8FBOVDkvaPYGldEk9YIW5KlN7sT+UMArjxXTXKTdO52Br8Ne7KKSsZG5izHZ7/PvNVNXWjbN2Pjk69RDmblgUNPDv3k93P+kvYnmmvzhR5di/oTLXgmM9huExlh7LeHD0nXq9bI1w+D9aZddnFakv4Vrd5aBrOUgMfG0BcXoQybbfSM9sq6afh4wLM0rVgIiUUQI0aHDYICADeiSZEjJmsu+AQ5IrJjTgyWpkXcmAQgs205mbwknLNErh4A60wQxQS7T8zpAeNpm50bATwnRTqg0/uhzgs=;FlyJN4O/OxLwGGx5MtV0tA=="
+secured: "fU/ul3qPViHf8yEaI3HhZhhrZlmZt4qa0ds5skdULvmo1hdJL0G5leMQ7tM1w9ikTqmhnHLhmNOT+m4bVpnX3OvRG/zf1hJxkG/p76RH3+2gfdyw28MVLNgaRE57mso/fBNcpiBgpKC5NoRgXFrpUAp/BaNBAUO7p49dshI8AXiSA/j8GmCh4S5DiRFGBnBH/HKfVyTX4WKwk2LEOUqpqfwq9F6YGmH9EDf1ae4LAVhKsU1uFNel1t8oCXVN6hXuS6QGGz/iaVDc+N/+GTdXrh+tJMZnCzBqPrnpC3wYRDcujWyiSxtB1+tRAfNuOhC3TgtzlqCmCNxXbFvz4VnhHaSKm7RCALx6okx/BxdDiDQ=;hqdw4A91IwegZM7lLD13Og=="
 ---
 

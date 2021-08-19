@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-12-biden-epa-nominee-touted-defund-the-police-on-chinese-state-tv.md",
+      "title": "Biden EPA nominee touted ‘defund the police’ on Chinese state TV",
+      "excerpt": "President Biden’s controversial nominee for a leadership position at the EPA touted the “defund the police” movement during an appearance on Chinese state television last year.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YoXnpKby1wM/biden-epa-nominee-touted-defund-the-police-on-chinese-state-tv",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YoXnpKby1wM/biden-epa-nominee-touted-defund-the-police-on-chinese-state-tv",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b3ac8cfd-6cc0-4eab-8ee3-3a37e79ac5ab/2c2cc00c-5c03-457f-9374-f7cfdea369c1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-epa-nominee-touted-defund-the-police-on-chinese-state-tv.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-epa-nominee-touted-defund-the-police-on-chinese-state-tv.amp",
+      "publishedDateTime": "2021-08-12T13:04:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-12-biden-on-anti-mask-ordinances-this-isnt-about-politics-this-is-about-keeping-our-children-safe.md",
       "title": "Biden on anti-mask ordinances: 'This isn't about politics -- this is about keeping our children safe'",
       "excerpt": "President Joe Biden on Thursday hit out at anti-masking protesters for politicizing the Covid-19 pandemic, saying he was particularly disturbed by scenes at a school board meeting in Tennessee earlier this week.\n    \n",
@@ -1237,62 +1293,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/11/politics/biden-elizabeth-prelogar-solicitor-general/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/11/politics/biden-elizabeth-prelogar-solicitor-general/index.html",
       "publishedDateTime": "2021-08-11T04:45:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-federal-prosecutors-came-to-suspect-trump-org-cfo-allen-weisselberg-lied.md",
-      "title": "Federal prosecutors came to suspect Trump Org CFO Allen Weisselberg lied",
-      "excerpt": "New York federal prosecutors came to suspect the Trump Organization's chief financial officer, Allen Weisselberg, lied in testimony during their investigation of former Trump personal attorney Michael Cohen three years ago, according to four people familiar with prosecutors' thinking.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VqvsG_cStZ8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VqvsG_cStZ8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 234,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210701151604-weisselberg-leaves-court-0701-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/11/politics/weisselberg-lied-federal-prosecutors-suspect/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/11/politics/weisselberg-lied-federal-prosecutors-suspect/index.html",
-      "publishedDateTime": "2021-08-11T03:18:04-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
