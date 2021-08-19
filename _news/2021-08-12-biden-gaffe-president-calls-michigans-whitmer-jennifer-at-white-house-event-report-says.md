@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Would a Republican House majority impeach Biden in 2023?"
+    excerpt: "House GOP leader Rep. Kevin McCarthy says that if his party wins back the majority in the chamber in the 2022 midterm elections, House Republicans wouldn't use impeachment as a political weapon against President Biden in 2023."
+    publishedDateTime: 2021-08-19T15:04:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HXXIMdKaQHc/would-republican-house-majority-impeach-biden-2023"
+    ampWebUrl: "https://www.foxnews.com/politics/would-republican-house-majority-impeach-biden-2023.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/would-republican-house-majority-impeach-biden-2023.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "White House defends helicopter evacuation from US Embassy after Biden said it wouldn't happen"
     excerpt: "The White House defended the helicopter evacuation from the U.S. Embassy in Kabul Monday after President Biden said last week there would be \"no circumstance\" in Afghanistan that would call for that method of removal for U.S. officials. "
     publishedDateTime: 2021-08-16T17:17:17Z

@@ -48,6 +48,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says he doesn't believe Taliban have changed"
+    excerpt: "President Joe Biden said Thursday he doesn't believe the Taliban have changed, as the people of Afghanistan and the international community wait to see how the militants who have seized control of Afghanistan will govern.\n    \n"
+    publishedDateTime: 2021-08-19T15:38:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rlscGiwprLw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/biden-taliban-not-changed/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/biden-taliban-not-changed/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210819003059-joe-biden-remarks-0818-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Chalian: Biden doesn't often miss moments to express empathy"
+    excerpt: "CNN's David Chalian and Kaitlan Collins discuss President Joe Biden's interview on ABC News, and how they are surprised by his lack of both empathy and foreign policy savvy on the troop withdrawal from Afghanistan.\n    \n"
+    publishedDateTime: 2021-08-19T15:15:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rbUS1RmwWjk/biden-abc-news-lack-of-empathy-foreign-policy-chalian-collins-newday-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/08/19/biden-abc-news-lack-of-empathy-foreign-policy-chalian-collins-newday-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/08/19/biden-abc-news-lack-of-empathy-foreign-policy-chalian-collins-newday-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210818173332-joe-biden-abc-news-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact-checking Biden's assertion that the Afghan military was '300,000 strong'"
     excerpt: "Defending his withdrawal of US troops from Afghanistan, President Joe Biden and his administration have emphasized how many people served in the Afghan military before its collapse.\n    \n"
     publishedDateTime: 2021-08-17T21:22:16Z

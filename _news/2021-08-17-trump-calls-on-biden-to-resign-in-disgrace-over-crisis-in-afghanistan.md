@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-biden-resign-crisis-afghanist
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-resign-crisis-afghanistan.amp"
 type: article
 quality: 190
-heat: 1030
+heat: 1070
 published: true
 
 provider:
@@ -527,6 +527,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden says 'no one's being killed' in Afghanistan, can't 'recall' advisers telling him to delay withdrawal"
+    excerpt: "While there have been reports of deaths in Kabul, President Biden said Tuesday that \"no one's being killed.\""
+    publishedDateTime: 2021-08-19T14:16:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ftrdFn9FKiA/biden-no-one-being-killed-in-afghanistan-advisers-withdrawal"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-no-one-being-killed-in-afghanistan-advisers-withdrawal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-one-being-killed-in-afghanistan-advisers-withdrawal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Former Army Rangers blast Biden for Afghanistan 'dumpster fire': Admin 'did not plan and does not have one'"
     excerpt: "Two former U.S. Army rangers who served in Afghanistan are blasting President Biden for having \"no plan\" for withdrawing from the country and then blaming others for the \"dumpster fire\" that ensued."
     publishedDateTime: 2021-08-19T10:40:54Z
@@ -538,6 +554,22 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden suggests 'chaos' in Afghanistan withdrawal was inevitable despite predicting no 'Saigon' moment in July"
+    excerpt: "President Biden denied that his administration made any mistakes in how it has handled the withdrawal from Afghanistan, even as the Taliban has swiftly taken over the country and Americans and their allies have scrambled to escape."
+    publishedDateTime: 2021-08-19T15:32:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xoKsALHvrHw/biden-chaos-inevitable-afghanistan-withdrawal"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-chaos-inevitable-afghanistan-withdrawal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-chaos-inevitable-afghanistan-withdrawal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
         width: 340

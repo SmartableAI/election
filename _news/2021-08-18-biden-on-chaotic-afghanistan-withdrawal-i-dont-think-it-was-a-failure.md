@@ -191,6 +191,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "More than 50 senators urge Biden to quickly evacuate Afghan allies"
+    excerpt: "A bipartisan group of 53 senators is urging President Joe Biden to quickly evacuate Afghan Special Immigrant Visa (SIV) applicants and their families and fully implement changes to the program signed into law in late July.\n    \n"
+    publishedDateTime: 2021-08-19T14:24:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y7dOGN5l6mA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/biden-senators-siv-letter/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/biden-senators-siv-letter/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210816160554-01-biden-afghanistan-remarks-0816-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden spoke with Obama and Bush ahead of Afghanistan withdrawal announcement"
     excerpt: "Former President Barack Obama on Wednesday praised President Joe Biden's \"bold leadership\" for his decision to withdraw all US troops from Afghanistan by September 11, saying that \"it is time to recognize that we have accomplished all that we can militarily\" in America's longest war.\n    \n"
     publishedDateTime: 2021-04-15T02:37:32Z

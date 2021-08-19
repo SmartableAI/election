@@ -192,6 +192,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "More than 50 senators urge Biden to quickly evacuate Afghan allies"
+    excerpt: "A bipartisan group of 53 senators is urging President Joe Biden to quickly evacuate Afghan Special Immigrant Visa (SIV) applicants and their families and fully implement changes to the program signed into law in late July.\n    \n"
+    publishedDateTime: 2021-08-19T14:24:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y7dOGN5l6mA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/biden-senators-siv-letter/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/biden-senators-siv-letter/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210816160554-01-biden-afghanistan-remarks-0816-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden on chaotic Afghanistan withdrawal: 'I don't think it was a failure'"
     excerpt: "President Joe Biden on Wednesday defiantly defended his administration's execution of the withdrawal of US troops from Afghanistan, saying that he doesn't think the crisis represents a failure and there was no way to better handle the end to the nation's longest war.\n    \n"
     publishedDateTime: 2021-08-18T21:22:41Z

@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Would a Republican House majority impeach Biden in 2023?"
+    excerpt: "House GOP leader Rep. Kevin McCarthy says that if his party wins back the majority in the chamber in the 2022 midterm elections, House Republicans wouldn't use impeachment as a political weapon against President Biden in 2023."
+    publishedDateTime: 2021-08-19T15:04:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HXXIMdKaQHc/would-republican-house-majority-impeach-biden-2023"
+    ampWebUrl: "https://www.foxnews.com/politics/would-republican-house-majority-impeach-biden-2023.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/would-republican-house-majority-impeach-biden-2023.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden gaffe: President calls Michigan’s Whitmer ‘Jennifer’ at White House event, report says"
     excerpt: "In 2020, when Joe Biden was running for president, Michigan Gov. Gretchen Whitmer was reportedly close to becoming Biden’s running mate. On Wednesday, Biden couldn’t remember her name."
     publishedDateTime: 2021-08-12T07:45:47Z

@@ -2,9 +2,9 @@
 category: news
 title: "Afghanistan live news: Joe Biden says there was no way to exit without ‘chaos’"
 excerpt: "Ousted president Ashraf Ghani confirms he is in UAE; UN says it will still support Afghan people; at least one dead after clash over Taliban flag"
-publishedDateTime: 2021-08-18T21:35:00Z
-originalUrl: "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis?page=with:block-611d87688f08e83ac7bdefef"
-webUrl: "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis?page=with:block-611d87688f08e83ac7bdefef"
+publishedDateTime: 2021-08-18T21:19:00Z
+originalUrl: "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis"
+webUrl: "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis"
 ampWebUrl: "https://amp.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis"
 type: article
@@ -139,6 +139,6 @@ related:
         height: 1920
         isCached: true
 
-secured: "KBcxI30R2qnYCtlOpHmC2z7TNQkOHsYO2hAPXNAkAvMpEg7lCWU5MeBFMhoaeCGJiuoaVYbt8SlplGJU4kBTkHdmOpuAvKwvEKlswd2qOJ6H1hoS452MOAmjfXBNwVajY70TIAhDpWe6FzYFiYdYzi0VPyRKhZWYq/PNYHpm/zIWMRNkaVH7etdJ+Un0+xaBbSjBh1K6yrUuiALicNm5vzcG91UcR253kviC5KIpkMFZsCUAV1XBdC5mpvlvb5o3bEQ2GBiFZ40Oxem0As0+BF4P/frggcAhNXAVP5F2uH806L7ZtyJykb9Hl6zBb053M1h+Qh3oP3LsKO95g6ZLnD+mIZ12A1+ODORj4QhdsgHRKSJfR8ejNM6/txfYgHZ95g4OzhZcbKsYBNB1+cQOfqGCOnvYbSKpHKBbWVxdCDVEDUJotwAHDApTHf4tiXnP7yRk00EOrAqmtNLSGEgoouAu2ucWgs0T4iufoOZdTj+i4XqXX1SJ+WMRXZhtFh7mQz9ceSkh3u0qBMJAmHFDCA==;GJonbhe5m0+tqnGi8XnfBg=="
+secured: "hn9vAJu7ugwjwTHPZDYT1uufTJHs9V2zsqQnRtECD+RavDF7XViDAhaCT+epIWju2Wa/dETZeHf2X3IN7W2NEoK+qIZuyp6M+BH8/PwQJXqaLstTx5k68dmcUShxei8mXtNEL2tl8GMcW9RJpP56iM18y31JVn9p9lpjq+ZqxC5l/HlSBLX/hFqPCM4PtoT6WnAhkM8LJ0pleFHDutyXQIBcWINm1FI2ZrJVuBkSCQjbUoWNtUcfW288BZiMKv+5wDcxLzWPbRodFfMde6YE8aNuLKjborbZLolPcLPIpmb4kSzv62WI3iWZz2WbP4aUgVr89U6ZhVeOJpmS9XDEPyo2t+EgqEtLSPO9zQCIfC9sXKFiwFE1GQtrovribZ9TdqRGWdidLxLBl/cZ2uK6DjbpNx85PmMoxugUUpEZYJbPZCZpU3U0/aRYxNyhJ4Oq9yTnxuJDp+zlcm9y737NxPl4PMRaOVhlR1UpJeQsR4O5pI+x6HCtIaU7d2MJ9TSNFghEXrjF5ULRt/fXqGYI+Q==;ZV4hb7cxlEdZDCvPNMKEPA=="
 ---
 
