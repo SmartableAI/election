@@ -9,7 +9,7 @@ ampWebUrl: "https://www.expressnews.com/news/local/amp/Joe-Biden-takes-aim-at-st
 cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/local/amp/Joe-Biden-takes-aim-at-states-blocking-mask-16396786.php"
 type: article
 quality: 61
-heat: 101
+heat: 81
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://thumbnails.texastribune.org/QCGScGkOdgn7z6M7CjbTbiaZvo4=/1200x630/filters:quality(95)/static.texastribune.org/media/files/0825c12ccde17a1e73e5eb5a698491d2/Biden%20COVID%20REUTERS%20TT.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Rick Scott doubles down on calls to remove Joe Biden from office"
-    excerpt: "Rick Scott reiterated Tuesday that the time had come to consider removing President Joe Biden from office under provisions of the 25th Amendment to the U.S. Constitution. The Senator had made that call on Monday via press release,"
-    publishedDateTime: 2021-08-17T13:00:00Z
-    webUrl: "https://floridapolitics.com/archives/450880-scott-biden-remove/"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 55
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2019/10/rick_scott_132810311.jpg"
-        width: 810
-        height: 457
         isCached: true
 
 secured: "C7NivfjrtlU4qj497KkGS2pCE7/a4U5JXwDD+F2jFQBxNt/MAPv+u93CW0WbZaU9R8QLiIAM5NBxa5SqC5H6ZbidSjY9ffWJsZoiQy+pQzNYsATlQczyFxA9wtZtFlv0vOZrQaxSBkpYSxaU0aQpGQUPNZGUObuEOF99zfz+vrrZGERBTaJHYvz82tBY2KdG1nIH5qhl20uXilW/tWXe9ICv/i+caGS2DwgdPS2P/lo2rDud+zc8I6ipd4uzk8kDfUAgAHe7rec97Hr4zeTiX9HqOlEzQ218b9flnXbne8D9krlUILKRM//aL8LiFvJE88SJVgOEQeGx/JuyTgYZiHWjs7R2GdMEhdTJs7OjCDs=;Fc/2hy0PobyRYI8BIh6qSA=="

@@ -25,49 +25,80 @@ images:
     isCached: true
 
 related:
-  - title: "Marjorie Taylor Greene Launches Foul-Mouthed Broadside at Joe Biden in Video"
-    excerpt: "Representative Marjorie Taylor Greene harshly criticized President Joe Biden in a video on Wednesday over the situation in Afghanistan and the COVID-19 pandemic. Greene, a Republican who represents Georgia's 14th congressional district,"
-    publishedDateTime: 2021-08-19T13:23:00Z
-    webUrl: "https://www.newsweek.com/marjorie-taylor-greene-foul-mouthed-broadside-joe-biden-video-1620960"
-    ampWebUrl: "https://www.newsweek.com/marjorie-taylor-greene-foul-mouthed-broadside-joe-biden-video-1620960?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/marjorie-taylor-greene-foul-mouthed-broadside-joe-biden-video-1620960?amp=1"
+  - title: "Joe Biden says he and first lady plan on getting Covid booster shot"
+    excerpt: "President defends shots as millions worldwide are unvaccinated: US has ‘provided more to the rest of the world than all the rest of the world combined’"
+    publishedDateTime: 2021-08-19T21:46:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 122
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1874692/marjorie-taylor-greene-holds-press-conference.jpg"
-        width: 2500
-        height: 1664
+      - url: "https://i.guim.co.uk/img/media/588c63ebaadccad8a6667c54fcab67b69ae81af7/212_0_4688_2813/master/4688.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=96e3db49456f8f393dbe8c5408ee3aa9"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Biden admin backs Texas, Florida districts on mask mandates"
-    excerpt: "President Joe Biden’s administration is offering its full-throated support for local cities and school boards in Texas and Florida that are defying orders by their Republican governors that prohibit m"
-    publishedDateTime: 2021-08-14T05:37:00Z
-    webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-13/biden-admin-backs-texas-florida-districts-on-mask-mandates"
-    ampWebUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-13/biden-admin-backs-texas-florida-districts-on-mask-mandates?_amp=true"
-    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2021-08-13/biden-admin-backs-texas-florida-districts-on-mask-mandates?_amp=true"
+  - title: "Joe Biden announces Covid booster shots from September – video"
+    excerpt: "President says anyone who was fully vaccinated eight months prior will be eligible"
+    publishedDateTime: 2021-08-19T02:23:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/aug/19/joe-biden-announces-covid-booster-shots-from-september-video"
     type: article
     provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/63285a96192526ebc972487aa573ba48717fe966/0_0_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1442da941e74be16c3172d778c5c64ce"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Jill Biden wears medical boot after foot injury in Hawaii"
+    excerpt: "Jill Biden is wearing a medical boot following a recent foot injury on a Hawaiian beach. The boot was on the first lady's left foot Friday as she and President Joe Biden boarded a helicopter in Delaware to fly to the Camp David presidential retreat in Maryland."
+    publishedDateTime: 2021-08-13T23:13:00Z
+    webUrl: "https://www.ctpost.com/news/article/Jill-Biden-wears-medical-boot-after-foot-injury-16385810.php"
+    ampWebUrl: "https://www.ctpost.com/news/amp/Jill-Biden-wears-medical-boot-after-foot-injury-16385810.php"
+    cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Jill-Biden-wears-medical-boot-after-foot-injury-16385810.php"
+    type: article
+    provider:
+      name: Connecticut Post
+      domain: ctpost.com
     quality: 75
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/399e1a4/2147483647/strip/true/crop/3648x2440+0+148/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa3%2F6d%2Fd6fe6349dcfb4bad22a3bbbcdffc%2F18cf34c5ce1143509d2ae694f42f956b"
-        width: 320
-        height: 214
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
-  - title: "Biden to increase food stamp benefits by largest margin in program’s history"
-    excerpt: "Average food stamp benefits in October will go up by more than 25 percent from pre-pandemic levels for the 42 million people in the program."
-    publishedDateTime: 2021-08-15T19:04:00Z
-    webUrl: "https://www.bostonglobe.com/2021/08/15/nation/biden-increase-food-stamp-benefits-by-largest-margin-programs-history/"
-    ampWebUrl: "https://www.bostonglobe.com/2021/08/15/nation/biden-increase-food-stamp-benefits-by-largest-margin-programs-history/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/08/15/nation/biden-increase-food-stamp-benefits-by-largest-margin-programs-history/?outputType=amp"
+  - title: "Biden to reopen public comment on TennCare block grant"
+    excerpt: "President Joe Biden's administration says it will keep a drastic overhaul of Tennessee's Medicaid program in place while it seeks more public comment and considers what to do with the plan approved under former President Donald Trump."
+    publishedDateTime: 2021-08-15T13:00:00Z
+    webUrl: "https://www.timesfreepress.com/news/breakingnews/story/2021/aug/15/biden-reopen-public-comment-tenncare-block-grant/552277/"
     type: article
     provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 52
+      name: Times Free Press
+      domain: timesfreepress.com
+    quality: 55
+    images:
+      - url: "https://media.timesfreepress.com/img/photos/2021/08/05/1628190952_101973052-7c9660dbd2044bd4b449434e346b681d_gs_t1070_h2637bd2cff9ebeed8954a74ad16668e191686df8.jpg"
+        width: 1070
+        height: 713
+        isCached: true
+  - title: "Rick Scott doubles down on calls to remove Joe Biden from office"
+    excerpt: "Rick Scott reiterated Tuesday that the time had come to consider removing President Joe Biden from office under provisions of the 25th Amendment to the U.S. Constitution. The Senator had made that call on Monday via press release,"
+    publishedDateTime: 2021-08-17T13:00:00Z
+    webUrl: "https://floridapolitics.com/archives/450880-scott-biden-remove/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2019/10/rick_scott_132810311.jpg"
+        width: 810
+        height: 457
+        isCached: true
 
 secured: "avPfA+xI+pVAtaubGGRNxt3z5sgkIJAhyeDaplAJbP9Xg3+mFRnNXpnjsT/x4Nz7bRAPvyl95pv1eHmooWO9EDzaSRrKk7AuadfXNwlB6bHIa0T/GDKDc25ucXYr4aI57ooPUWVfhNxcfF1CZnzSNNcLa0eEhZNPAu9YXR2KiHdwvqi2/MTz4Oz6cHtP+OogPOuNSeTERS6GbJYN38YVMVb4JmqDcWH2TLjgObe2Aimsk4AuJsJhSehqdjtd3E9NQ+nCHRdM5fDKXK+d+uWWv+5wSj/AYCWvZ3k7W1ij8R7FjVc0FO5CtC7k8EQYQ/s+PCFsWHL2GPOgnMG3m8DU09i1cQNTQd5gnvZ8ShFJghU=;Zc8h1d82l6o4j31nyx01JA=="
 ---

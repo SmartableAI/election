@@ -43,20 +43,6 @@ related:
         width: 400
         height: 266
         isCached: true
-  - title: "Rick Scott doubles down on calls to remove Joe Biden from office"
-    excerpt: "Rick Scott reiterated Tuesday that the time had come to consider removing President Joe Biden from office under provisions of the 25th Amendment to the U.S. Constitution. The Senator had made that call on Monday via press release,"
-    publishedDateTime: 2021-08-17T13:00:00Z
-    webUrl: "https://floridapolitics.com/archives/450880-scott-biden-remove/"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 55
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2019/10/rick_scott_132810311.jpg"
-        width: 810
-        height: 457
-        isCached: true
 
 secured: "1kKN0AwwjaAzJtj9Nec7WIi5XHxCH3Yk+BsiQtJh1XrUXj+Z8tD6OZx6xvJQD7QRLRY2kRb55hAuAT5QEj+gWNsYlotH6+imvJ5TLtp2BOeGYwcxmC5XwkuQloQipqGoFHelGRujigIU6PUO7Gipac5486GiSOfeb0MM/9X78VN6H7xTsFdnQt4myx/lwn1uOcBj6g2VfwgiDoYcF8LECvNlzrgzFuZLKCrFijLbXCNvtH1Ef6t6HImP9/dcA0VHW/uWVA0E+/t27U6/zEReYISJaLndj++pE9ajJ5Mw60ZUX5i7e2dDUnyQzue8aWVE5NnDjZkGJ0w3jEUcXW8joQXywxTTWaV+FIuLEuiimJJe10q88bIuBOjUXMsQJ1ES63QUT7uGnmvyEimvU5SsbJQQN0Y1f05q1SxxC4v7xfUvJQs5HZmiqHlkuo4QDsBeethIpvkXfSFz7fuxds9kDnaX9R7pHRgnoLsAV8Auej1zCuTW9g9yYGD30uGm7CJZhZxCnOKpSuYC3q3jVdjseA==;RVJIrJXGpUCw+DgEWn5ZAA=="
 ---

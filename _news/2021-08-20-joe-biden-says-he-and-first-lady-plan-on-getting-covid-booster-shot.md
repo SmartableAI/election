@@ -1,46 +1,36 @@
 ---
 category: news
-title: "Biden to reopen public comment on TennCare block grant"
-excerpt: "President Joe Biden's administration says it will keep a drastic overhaul of Tennessee's Medicaid program in place while it seeks more public comment and considers what to do with the plan approved under former President Donald Trump."
-publishedDateTime: 2021-08-15T13:00:00Z
-originalUrl: "https://www.timesfreepress.com/news/breakingnews/story/2021/aug/15/biden-reopen-public-comment-tenncare-block-grant/552277/"
-webUrl: "https://www.timesfreepress.com/news/breakingnews/story/2021/aug/15/biden-reopen-public-comment-tenncare-block-grant/552277/"
+title: "Joe Biden says he and first lady plan on getting Covid booster shot"
+excerpt: "President defends shots as millions worldwide are unvaccinated: US has ‘provided more to the rest of the world than all the rest of the world combined’"
+publishedDateTime: 2021-08-19T21:46:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
+webUrl: "https://www.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
 type: article
-quality: 55
-heat: -1
-published: false
+quality: 125
+heat: 225
+published: true
 
 provider:
-  name: Times Free Press
-  domain: timesfreepress.com
+  name: The Guardian
+  domain: theguardian.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://media.timesfreepress.com/img/photos/2021/08/05/1628190952_101973052-7c9660dbd2044bd4b449434e346b681d_gs_t1070_h2637bd2cff9ebeed8954a74ad16668e191686df8.jpg"
-    width: 1070
-    height: 713
+  - url: "https://i.guim.co.uk/img/media/588c63ebaadccad8a6667c54fcab67b69ae81af7/212_0_4688_2813/master/4688.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=96e3db49456f8f393dbe8c5408ee3aa9"
+    width: 600
+    height: 360
     isCached: true
 
 related:
-  - title: "Joe Biden says he and first lady plan on getting Covid booster shot"
-    excerpt: "President defends shots as millions worldwide are unvaccinated: US has ‘provided more to the rest of the world than all the rest of the world combined’"
-    publishedDateTime: 2021-08-19T21:46:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/588c63ebaadccad8a6667c54fcab67b69ae81af7/212_0_4688_2813/master/4688.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=96e3db49456f8f393dbe8c5408ee3aa9"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Joe Biden announces Covid booster shots from September – video"
     excerpt: "President says anyone who was fully vaccinated eight months prior will be eligible"
     publishedDateTime: 2021-08-19T02:23:00Z
@@ -71,6 +61,20 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Biden to reopen public comment on TennCare block grant"
+    excerpt: "President Joe Biden's administration says it will keep a drastic overhaul of Tennessee's Medicaid program in place while it seeks more public comment and considers what to do with the plan approved under former President Donald Trump."
+    publishedDateTime: 2021-08-15T13:00:00Z
+    webUrl: "https://www.timesfreepress.com/news/breakingnews/story/2021/aug/15/biden-reopen-public-comment-tenncare-block-grant/552277/"
+    type: article
+    provider:
+      name: Times Free Press
+      domain: timesfreepress.com
+    quality: 55
+    images:
+      - url: "https://media.timesfreepress.com/img/photos/2021/08/05/1628190952_101973052-7c9660dbd2044bd4b449434e346b681d_gs_t1070_h2637bd2cff9ebeed8954a74ad16668e191686df8.jpg"
+        width: 1070
+        height: 713
+        isCached: true
   - title: "Rick Scott doubles down on calls to remove Joe Biden from office"
     excerpt: "Rick Scott reiterated Tuesday that the time had come to consider removing President Joe Biden from office under provisions of the 25th Amendment to the U.S. Constitution. The Senator had made that call on Monday via press release,"
     publishedDateTime: 2021-08-17T13:00:00Z
@@ -100,6 +104,6 @@ related:
         height: 570
         isCached: true
 
-secured: "KqVT8ta9j73bjoTw9oPIeUnzvchqCkoaK5BNdScg46wLz/KLr1Ee8w+/t/BIkUeq/7giu8CZIDx6dLOmtAm/aPu0gI/32BgU6DbHiT/d7S16cgAsLYJpr/ignnUpsRCXFKDqdp2HaHSGT+KCDIojsk831Sjk2SaVfwR+VvKZ75xDvoarx8ZM9RIDeNVscxcNxCsNSB+tEPge/1zA9P+rG0VBTEAz7a3VB23PF1xBhDjzAG76fiPW9BZE7HvmWOIGphroraZMAFyz5v3UjDktlNnOcQV/TNDn5768EXF/pwP+lalqC2/WslcUEZ9b+PLAAEuKahsRTSuMfZhBYIoDQzm3oSVsT4vAIHZlHxg88Jc=;MiyHlpOxVuqVfq+lv3F3AA=="
+secured: "AdJs3Ayy8cRqletf1kCj/X8PVHDSkWVBoMgSzfQ7Ot+E2voutR+Ng3EiQlbInUIwIHcG54nSO3KbRi51qXfnO5w1QHZiEehepRiqrOzMVGHCKbLDzAV7IERtaRe4jMBfzD8VaoAWEOq2WeCZNhFafi1LM1ATZ4MntQskUcxw36ARmSsKq8+mqGfXaU9zavLyuQXGq5kstDFgkw8UBPKhesfagg/GQOHS+kXzTlqeGbyDtx8X+2GtNcdCd5FPP9lZeSuCE9Xz4qvfA/MGzecaqw8hMbd3SAix2hdNnJWtOM94vv1Ii1dtNj2nhQfM2smqLhPwWT6IEBLjVbLXiqtrdU/kORF1sbyclATLAVnCRGY=;Ig8gUnj2McjoDXTTXAyccg=="
 ---
 

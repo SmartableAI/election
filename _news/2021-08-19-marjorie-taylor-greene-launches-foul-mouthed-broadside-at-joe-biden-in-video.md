@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/marjorie-taylor-greene-foul-mouthed-broadsi
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/marjorie-taylor-greene-foul-mouthed-broadside-joe-biden-video-1620960?amp=1"
 type: article
 quality: 122
-heat: 182
+heat: 162
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/399e1a4/2147483647/strip/true/crop/3648x2440+0+148/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa3%2F6d%2Fd6fe6349dcfb4bad22a3bbbcdffc%2F18cf34c5ce1143509d2ae694f42f956b"
         width: 320
         height: 214
-        isCached: true
-  - title: "Joe Biden takes aim at Texas blocking mask mandates"
-    excerpt: "By James Barragán, The Texas Tribune Texas Gov. Greg Abbott may soon be fighting a war on two fronts — with local officials and the federal government — to stave off mandatory COVID-19 prevention efforts after the Biden administration announced Wednesday it was going after states like Texas that try to ban universal masking at"
-    publishedDateTime: 2021-08-19T09:12:00Z
-    webUrl: "https://www.crosstimbersgazette.com/2021/08/18/joe-biden-takes-aim-at-texas-blocking-mask-mandates/"
-    type: article
-    provider:
-      name: The Cross Timbers Gazette
-      domain: crosstimbersgazette.com
-    quality: 55
-    images:
-      - url: "https://www.crosstimbersgazette.com/crosstimbersgazette/wp-content/uploads/2021/08/biden.jpg"
-        width: 848
-        height: 570
         isCached: true
   - title: "Biden to increase food stamp benefits by largest margin in program’s history"
     excerpt: "Average food stamp benefits in October will go up by more than 25 percent from pre-pandemic levels for the 42 million people in the program."

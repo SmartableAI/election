@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Jill Biden wears medical boot after foot injury in Hawaii"
-    excerpt: "Jill Biden is wearing a medical boot following a recent foot injury on a Hawaiian beach. The boot was on the first lady's left foot Friday as she and President Joe Biden boarded a helicopter in Delaware to fly to the Camp David presidential retreat in Maryland."
-    publishedDateTime: 2021-08-13T23:13:00Z
-    webUrl: "https://www.ctpost.com/news/article/Jill-Biden-wears-medical-boot-after-foot-injury-16385810.php"
-    ampWebUrl: "https://www.ctpost.com/news/amp/Jill-Biden-wears-medical-boot-after-foot-injury-16385810.php"
-    cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Jill-Biden-wears-medical-boot-after-foot-injury-16385810.php"
+  - title: "Biden administration issues 'final extension' of student loan payment pause: Is cancellation next?"
+    excerpt: "Federal student loan borrowers will not have to make payments on their federal loans until February 2022, thanks to the “final extension” from Education Department."
+    publishedDateTime: 2021-08-09T17:39:00Z
+    webUrl: "https://www.foxbusiness.com/personal-finance/biden-student-loan-payment-pause-extension-is-cancellation-next"
+    ampWebUrl: "https://www.foxbusiness.com/personal-finance/biden-student-loan-payment-pause-extension-is-cancellation-next.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/personal-finance/biden-student-loan-payment-pause-extension-is-cancellation-next.amp"
     type: article
     provider:
-      name: Connecticut Post
-      domain: ctpost.com
-    quality: 75
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 61
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2021/08/Credible-Biden-admin-extends-student-loan-pause-is-cancellation-next-iStock-1098109720.jpg"
+        width: 1254
+        height: 705
         isCached: true
 
 secured: "6d5gmm6Wc1ZYMY4Y79LlDVCH67hmraelafmcDaZ/0FSfiORgnnQuyLsNwzgVG9Z7srQrJn9BkecsFAAhkNC7FVoMEk5Ngamhm8C3+o8mL2tnK5gIV6xuTeNuU3qVJQiPZh4gBp0LOgbYxR91T98oBVJp/ijEpTFJxgn2B5cKEd/v8xHVUp9oMVMOHGloYjgjV5IQkaPZzLyDYZc6PC4GHVW8KeUu07Iz6zMKJOyEERdRcOHAmUF42rmNbP1kLRFean8xYC5tg8A9LsyRTQ3ySTzs/RgClkl86pbFrakxHT9kz+PMNqK3wpxJpVQxt8U8X3nS8jnN3W/VoRG0kNxsWSyuAe//biOwzow/SODHVkE=;1kMnsVjdSRYQjGrMaETZsg=="

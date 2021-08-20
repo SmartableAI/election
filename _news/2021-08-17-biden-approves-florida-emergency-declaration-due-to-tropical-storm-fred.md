@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-florida-emergency-declaration
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-florida-emergency-declaration-federal-assistance-tropical-storm-fred.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden’s comment on Taiwan clarified by administration official"
+    excerpt: "President Biden’s recent comments during a televised interview with ABC News raised questions if the U.S.’s position of “strategic ambiguity” has changed when it comes to Taiwan."
+    publishedDateTime: 2021-08-20T04:38:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/F9uGvvXZcIE/bidens-comment-on-taiwan-clarified-by-administration-official"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-comment-on-taiwan-clarified-by-administration-official.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-comment-on-taiwan-clarified-by-administration-official.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden court win on eviction ban extension draws appeals from Realtors, landlords"
     excerpt: "Groups against President Biden’s extension of the coronavirus eviction moratorium appealed one day after a federal judge ruled it could stand, according to reports."
     publishedDateTime: 2021-08-15T06:24:40Z

@@ -25,37 +25,79 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden takes aim at states blocking mask mandates, setting Gov. Greg Abbott up for showdown with"
-    excerpt: "Texas Gov. Greg Abbott may soon be fighting a war on two fronts — with local officials and the federal government — to stave off mandatory COVID-19 prevention efforts after the Biden administration announced Wednesday it was going after states like Texas that try to ban universal masking at schools."
-    publishedDateTime: 2021-08-19T02:36:00Z
-    webUrl: "https://www.expressnews.com/news/local/article/Joe-Biden-takes-aim-at-states-blocking-mask-16396786.php"
-    ampWebUrl: "https://www.expressnews.com/news/local/amp/Joe-Biden-takes-aim-at-states-blocking-mask-16396786.php"
-    cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/local/amp/Joe-Biden-takes-aim-at-states-blocking-mask-16396786.php"
+  - title: "Joe Biden says he and first lady plan on getting Covid booster shot"
+    excerpt: "President defends shots as millions worldwide are unvaccinated: US has ‘provided more to the rest of the world than all the rest of the world combined’"
+    publishedDateTime: 2021-08-19T21:46:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
     type: article
     provider:
-      name: San Antonio Express-News
-      domain: expressnews.com
-    quality: 61
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
     images:
-      - url: "https://s.hdnux.com/photos/01/21/40/57/21367760/3/400x0.jpg"
-        width: 400
-        height: 266
+      - url: "https://i.guim.co.uk/img/media/588c63ebaadccad8a6667c54fcab67b69ae81af7/212_0_4688_2813/master/4688.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=96e3db49456f8f393dbe8c5408ee3aa9"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Joe Biden takes aim at states blocking mask mandates, setting Gov. Greg Abbott up for showdown with feds"
-    excerpt: "Biden said he will use the U.S. Department of Education’s civil rights enforcement authority to deter states from blocking mask mandates in classrooms."
-    publishedDateTime: 2021-08-18T22:31:00Z
-    webUrl: "https://www.texastribune.org/2021/08/18/greg-abbott-joe-biden-texas-mask-mandates/"
-    ampWebUrl: "https://www.texastribune.org/2021/08/18/greg-abbott-joe-biden-texas-mask-mandates/amp/"
-    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/08/18/greg-abbott-joe-biden-texas-mask-mandates/amp/"
+  - title: "Joe Biden announces Covid booster shots from September – video"
+    excerpt: "President says anyone who was fully vaccinated eight months prior will be eligible"
+    publishedDateTime: 2021-08-19T02:23:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/aug/19/joe-biden-announces-covid-booster-shots-from-september-video"
     type: article
     provider:
-      name: Texas Tribune
-      domain: texastribune.org
-    quality: 58
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
     images:
-      - url: "https://thumbnails.texastribune.org/QCGScGkOdgn7z6M7CjbTbiaZvo4=/1200x630/filters:quality(95)/static.texastribune.org/media/files/0825c12ccde17a1e73e5eb5a698491d2/Biden%20COVID%20REUTERS%20TT.jpg"
+      - url: "https://i.guim.co.uk/img/media/63285a96192526ebc972487aa573ba48717fe966/0_0_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1442da941e74be16c3172d778c5c64ce"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Jill Biden wears medical boot after foot injury in Hawaii"
+    excerpt: "Jill Biden is wearing a medical boot following a recent foot injury on a Hawaiian beach. The boot was on the first lady's left foot Friday as she and President Joe Biden boarded a helicopter in Delaware to fly to the Camp David presidential retreat in Maryland."
+    publishedDateTime: 2021-08-13T23:13:00Z
+    webUrl: "https://www.ctpost.com/news/article/Jill-Biden-wears-medical-boot-after-foot-injury-16385810.php"
+    ampWebUrl: "https://www.ctpost.com/news/amp/Jill-Biden-wears-medical-boot-after-foot-injury-16385810.php"
+    cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Jill-Biden-wears-medical-boot-after-foot-injury-16385810.php"
+    type: article
+    provider:
+      name: Connecticut Post
+      domain: ctpost.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Biden to reopen public comment on TennCare block grant"
+    excerpt: "President Joe Biden's administration says it will keep a drastic overhaul of Tennessee's Medicaid program in place while it seeks more public comment and considers what to do with the plan approved under former President Donald Trump."
+    publishedDateTime: 2021-08-15T13:00:00Z
+    webUrl: "https://www.timesfreepress.com/news/breakingnews/story/2021/aug/15/biden-reopen-public-comment-tenncare-block-grant/552277/"
+    type: article
+    provider:
+      name: Times Free Press
+      domain: timesfreepress.com
+    quality: 55
+    images:
+      - url: "https://media.timesfreepress.com/img/photos/2021/08/05/1628190952_101973052-7c9660dbd2044bd4b449434e346b681d_gs_t1070_h2637bd2cff9ebeed8954a74ad16668e191686df8.jpg"
+        width: 1070
+        height: 713
+        isCached: true
+  - title: "Joe Biden takes aim at Texas blocking mask mandates"
+    excerpt: "By James Barragán, The Texas Tribune Texas Gov. Greg Abbott may soon be fighting a war on two fronts — with local officials and the federal government — to stave off mandatory COVID-19 prevention efforts after the Biden administration announced Wednesday it was going after states like Texas that try to ban universal masking at"
+    publishedDateTime: 2021-08-19T09:12:00Z
+    webUrl: "https://www.crosstimbersgazette.com/2021/08/18/joe-biden-takes-aim-at-texas-blocking-mask-mandates/"
+    type: article
+    provider:
+      name: The Cross Timbers Gazette
+      domain: crosstimbersgazette.com
+    quality: 55
+    images:
+      - url: "https://www.crosstimbersgazette.com/crosstimbersgazette/wp-content/uploads/2021/08/biden.jpg"
+        width: 848
+        height: 570
         isCached: true
 
 secured: "t9Pp+aGw+sWQaAI+si9b4g26TdCS4kkTYktJn9MwhpMfilZFO7tDVQL9ETgzPfCuUSBGd2OJ3PyLwGcDMocV0DLiwnYSGhZjThmeEQQ+S3uGfiRBb3fFGA3bUqS3cnbcR+8s77YQTRCN8005PBy+WsChBFAMU3Esi6jWD65d/ugSVLfw9C4XbXZqZux32kg8mWpSrp1wcI0QYR+0DegAIrBDgXdg3G3V6ZfE06ctDJf7ifaUfA/tfwcOLZ6o7SAnnSqNKHTjx4WxmAZd3wWVaUvwwI4wktjNobxURWxIQmN0lUcuqtDYo/C4tnGt/eEd5C91aOlY9gWHMdo9+cfKLr2OkiH/RE0KtrtGZEuGU14=;nTsTWplVo63/+V1q0StCMw=="

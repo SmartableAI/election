@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/biden-reacts-anti-mask-protest-video-our-he
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-reacts-anti-mask-protest-video-our-healthcare-workers-are-heroes-1618974?amp=1"
 type: article
 quality: 122
-heat: 202
+heat: 182
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://media.timesfreepress.com/img/photos/2021/08/13/1628895651_101984343-c1352563b7554dba9d9e29939bc31c32_gs_t1070_hc784f5babc252e37d8eb15efdd950bd0d1a4c367.jpg"
         width: 1070
         height: 594
-        isCached: true
-  - title: "Biden to reopen public comment on TennCare block grant"
-    excerpt: "President Joe Biden's administration says it will keep a drastic overhaul of Tennessee's Medicaid program in place while it seeks more public comment and considers what to do with the plan approved under former President Donald Trump."
-    publishedDateTime: 2021-08-15T13:00:00Z
-    webUrl: "https://www.timesfreepress.com/news/breakingnews/story/2021/aug/15/biden-reopen-public-comment-tenncare-block-grant/552277/"
-    type: article
-    provider:
-      name: Times Free Press
-      domain: timesfreepress.com
-    quality: 55
-    images:
-      - url: "https://media.timesfreepress.com/img/photos/2021/08/05/1628190952_101973052-7c9660dbd2044bd4b449434e346b681d_gs_t1070_h2637bd2cff9ebeed8954a74ad16668e191686df8.jpg"
-        width: 1070
-        height: 713
         isCached: true
 
 secured: "dpyoozmTWZtOB1lk2hwoKtpD8m2VMj//pyxbFt6lpIgLc4GUBUP192wmFi+xLYya1c6alFR/jgc92qUsjD/wQXCmU48tc9Gs4/4sF4xYlOyEs+EgzUYty33mzs9l2TkV2blemapl4RxGj8li81OOkoFf7imIWnYcbkgaXl7SC1qsTZxk5TMtCZ6K6jGl+6HlhZ99MGr5UgrdNfW5hUfcJq03VJMCYhJtabo+jDkNtrHW9TU3Z64EUnnUN8YzgY37lgGbpoum6SdOUcwHrWnyKX7kxjhA+WIlN8wxtxe67TajH1rtnrliVbaDXQVWSy1uTP8sIHL8vx0Lt6c/FwSRSKNNGYL2DkElt+qC48BzKtk=;r7Ov+QapXhAzZCn8caA5YA=="
