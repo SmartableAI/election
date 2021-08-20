@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Esper: Trump's push to get US troops out of Afghanistan possibly 'undermined' deal with Taliban"
-excerpt: "Former Defense Secretary Mark Esper said Tuesday that he was concerned that then-President Donald Trump \"undermined\" the US' 2020 agreement with the Taliban by pushing for US forces to leave Afghanistan without the Taliban meeting the conditions of the deal.\n    \n"
-publishedDateTime: 2021-08-18T11:01:01Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DojV4CnXtSE/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DojV4CnXtSE/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/08/17/politics/mark-esper-donald-trump-taliban-afghanistan-cnntv/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/17/politics/mark-esper-donald-trump-taliban-afghanistan-cnntv/index.html"
+title: "US is working directly with Taliban leaders on the ground trying to salvage Biden's crisis in Afghanistan"
+excerpt: "While the US State Department continues to engage in high-level diplomatic talks with the Taliban in the neutral setting of Doha, Qatar, as it has for the past year, the real negotiations have moved to the chaotic streets of Kabul in recent days, where American military commanders are in constant communication"
+publishedDateTime: 2021-08-19T23:49:25Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZK2kKfvQbtY/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZK2kKfvQbtY/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/taliban-talks-salvage-afghanistan-crisis/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/taliban-talks-salvage-afghanistan-crisis/index.html"
 type: article
-quality: 163
+quality: 158
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200714171751-01-mark-esper-0709-file-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210819151250-01-afghanistan-women-taliban-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -351,6 +351,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Esper: Trump's push to get US troops out of Afghanistan possibly 'undermined' deal with Taliban"
+    excerpt: "Former Defense Secretary Mark Esper said Tuesday that he was concerned that then-President Donald Trump \"undermined\" the US' 2020 agreement with the Taliban by pushing for US forces to leave Afghanistan without the Taliban meeting the conditions of the deal.\n    \n"
+    publishedDateTime: 2021-08-18T11:01:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DojV4CnXtSE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/17/politics/mark-esper-donald-trump-taliban-afghanistan-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/17/politics/mark-esper-donald-trump-taliban-afghanistan-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200714171751-01-mark-esper-0709-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Afghanistan's quick unraveling jolts national security officials, threatens to stain Biden legacy"
     excerpt: "The security situation in Afghanistan has deteriorated faster than President Joe Biden and his most senior national security officials had anticipated, leaving the White House rushing to stave off the worst effects of a Taliban takeover.\n    \n"
     publishedDateTime: 2021-08-13T10:00:14Z
@@ -428,22 +444,6 @@ related:
     quality: 159
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210811152502-07-wh-infrastructure-ricchetti-terrell-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "US is working directly with Taliban leaders on the ground trying to salvage Biden's crisis in Afghanistan"
-    excerpt: "While the US State Department continues to engage in high-level diplomatic talks with the Taliban in the neutral setting of Doha, Qatar, as it has for the past year, the real negotiations have moved to the chaotic streets of Kabul in recent days, where American military commanders are in constant communication"
-    publishedDateTime: 2021-08-19T23:49:25Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZK2kKfvQbtY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/taliban-talks-salvage-afghanistan-crisis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/taliban-talks-salvage-afghanistan-crisis/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 158
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210819151250-01-afghanistan-women-taliban-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -574,6 +574,6 @@ related:
         height: 629
         isCached: true
 
-secured: "ZZLzEdvMPC/cnCP2c7JXsar6KyFIpNWQsgegoS6aDsEQPkeseYSfJNzTYz1nbj6pPkGGBDjh/7m4Y/aEKA2tpOAMwuyWYiO6tRYn8BQs8b9o4tqoQONullUm1AfznE7tJrYu6M2akEBdKuCNJJ0whNGZjBahWpnWxSCcVcxr+fTuSUhLTjm8j40slLxCXJcXeduZM3aL9BYSPCR/RGWKyBZiDBORbtga16EuNNE1AVjMU1iCQL39Y26z9GLKC8zhxTsQRA7nSmk6dHD4ifA3mv6/BZz2VmdlsoRnB2bmHV1VFF3AzZTojj4IwNySYSD7bQw3gne+ej0mVTOhCkHaB4r0LvNojeNeJGV3L4T2xBM=;kYcjS6UpMsmqfJ1l3ndOaw=="
+secured: "V37Zdr0hproUPGgg7+fzUNsUwdETNcyvA/uEGagTSm4htUxrZbWNUjh99Uzf9u16S/J9jDHYmk7vi8FMa+1k1TtrcprkI96Myo/m0e0UOC1Bq0FLSOyHPeMWZWjkpftXHzAvk4PPAUV6yOKwEXZKncClbEojbkY6lr/77nkVpBdxfsOwQ15wRSPqYWd18N1C0bh83n6I6Xh/avYwSeES/hQWMlsxredcXgM10dsjDAE2rDP/GlYHnijHbe47o1FoJSDCHH7Vy52p1NcaEG/oFUMmE5ezccPZRK6kc74/i71ZiZxdFzehtd5NDQHrVUZbbVaJXq3h6dB29tsBOT+/1I4obpwLMs2WgfHFa35ltCM=;TtEh7YlQug7gh39NQ/q52A=="
 ---
 

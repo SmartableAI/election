@@ -351,6 +351,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Alabama vet who nearly died in Afghanistan calls Biden withdrawal strategy 'disgusting'"
+    excerpt: "Alabama Army combat veteran Colin Wayne Erwin, who nearly died in Afghanistan, criticized President Joe Biden’s chaotic withdrawal from Afghanistan as \"disgusting\" to watch and a \"disheartening\" end to the 20 years of sacrifices made by members of the military and others."
+    publishedDateTime: 2021-08-19T23:12:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rrThO906e1w/alabama-vet-who-nearly-died-in-afghanistan-calls-biden-withdrawal-strategy-disgusting"
+    ampWebUrl: "https://www.foxnews.com/politics/alabama-vet-who-nearly-died-in-afghanistan-calls-biden-withdrawal-strategy-disgusting.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/alabama-vet-who-nearly-died-in-afghanistan-calls-biden-withdrawal-strategy-disgusting.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Obama-era Afghanistan ambassador has 'grave questions' about Biden's 'ability to lead' US"
     excerpt: "A former Obama-era ambassador to Afghanistan says he has \"grave questions\" about President Biden's \"ability to lead\" America as commander in chief following the stunning collapse of Afghanistan."
     publishedDateTime: 2021-08-16T14:31:25Z

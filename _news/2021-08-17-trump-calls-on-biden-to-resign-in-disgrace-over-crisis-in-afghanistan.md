@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-biden-resign-crisis-afghanist
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-resign-crisis-afghanistan.amp"
 type: article
 quality: 190
-heat: 1110
+heat: 1130
 published: true
 
 provider:
@@ -334,6 +334,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd25a285-c918-41c0-9457-cc079ae539d2/3ab06f84-ef1f-4f92-9e7f-0cfefaac564b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Alabama vet who nearly died in Afghanistan calls Biden withdrawal strategy 'disgusting'"
+    excerpt: "Alabama Army combat veteran Colin Wayne Erwin, who nearly died in Afghanistan, criticized President Joe Biden’s chaotic withdrawal from Afghanistan as \"disgusting\" to watch and a \"disheartening\" end to the 20 years of sacrifices made by members of the military and others."
+    publishedDateTime: 2021-08-19T23:12:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rrThO906e1w/alabama-vet-who-nearly-died-in-afghanistan-calls-biden-withdrawal-strategy-disgusting"
+    ampWebUrl: "https://www.foxnews.com/politics/alabama-vet-who-nearly-died-in-afghanistan-calls-biden-withdrawal-strategy-disgusting.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/alabama-vet-who-nearly-died-in-afghanistan-calls-biden-withdrawal-strategy-disgusting.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Obama-era Afghanistan ambassador has 'grave questions' about Biden's 'ability to lead' US"
     excerpt: "A former Obama-era ambassador to Afghanistan says he has \"grave questions\" about President Biden's \"ability to lead\" America as commander in chief following the stunning collapse of Afghanistan."

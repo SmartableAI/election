@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Lindsey Graham slams Biden Afghanistan speech: 'No one to blame but himself'"
-excerpt: "Senator Lindsey Graham took aim at President Joe Biden's speech, insisting Biden take more responsibility for failures in Afghanistan"
-publishedDateTime: 2021-08-16T23:58:19Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cC2h-yNlQc0/lindsey-graham-slams-biden-speech-no-one-to-blame-but-himself"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cC2h-yNlQc0/lindsey-graham-slams-biden-speech-no-one-to-blame-but-himself"
-ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-slams-biden-speech-no-one-to-blame-but-himself.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-slams-biden-speech-no-one-to-blame-but-himself.amp"
+title: "Alabama vet who nearly died in Afghanistan calls Biden withdrawal strategy 'disgusting'"
+excerpt: "Alabama Army combat veteran Colin Wayne Erwin, who nearly died in Afghanistan, criticized President Joe Biden’s chaotic withdrawal from Afghanistan as \"disgusting\" to watch and a \"disheartening\" end to the 20 years of sacrifices made by members of the military and others."
+publishedDateTime: 2021-08-19T23:12:22Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rrThO906e1w/alabama-vet-who-nearly-died-in-afghanistan-calls-biden-withdrawal-strategy-disgusting"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rrThO906e1w/alabama-vet-who-nearly-died-in-afghanistan-calls-biden-withdrawal-strategy-disgusting"
+ampWebUrl: "https://www.foxnews.com/politics/alabama-vet-who-nearly-died-in-afghanistan-calls-biden-withdrawal-strategy-disgusting.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/alabama-vet-who-nearly-died-in-afghanistan-calls-biden-withdrawal-strategy-disgusting.amp"
 type: article
-quality: 172
+quality: 167
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd9f3aff-80ee-4ead-b58b-95378c552380/353d4471-c575-42c6-be66-0de459d50f7b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -239,6 +239,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Lindsey Graham slams Biden Afghanistan speech: 'No one to blame but himself'"
+    excerpt: "Senator Lindsey Graham took aim at President Joe Biden's speech, insisting Biden take more responsibility for failures in Afghanistan"
+    publishedDateTime: 2021-08-16T23:58:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cC2h-yNlQc0/lindsey-graham-slams-biden-speech-no-one-to-blame-but-himself"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-slams-biden-speech-no-one-to-blame-but-himself.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-slams-biden-speech-no-one-to-blame-but-himself.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd9f3aff-80ee-4ead-b58b-95378c552380/353d4471-c575-42c6-be66-0de459d50f7b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Top Biden official admits fall of Afghanistan 'unfolded at unexpected speed'"
     excerpt: "White House National Security Adviser Jake Sullivan on Monday said the security situation in Afghanistan “unfolded at unexpected speed,” while maintaining that President Biden stands by his decision to withdraw U.S. troops."
     publishedDateTime: 2021-08-16T13:18:48Z
@@ -334,22 +350,6 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd25a285-c918-41c0-9457-cc079ae539d2/3ab06f84-ef1f-4f92-9e7f-0cfefaac564b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
-        isCached: true
-  - title: "Alabama vet who nearly died in Afghanistan calls Biden withdrawal strategy 'disgusting'"
-    excerpt: "Alabama Army combat veteran Colin Wayne Erwin, who nearly died in Afghanistan, criticized President Joe Biden’s chaotic withdrawal from Afghanistan as \"disgusting\" to watch and a \"disheartening\" end to the 20 years of sacrifices made by members of the military and others."
-    publishedDateTime: 2021-08-19T23:12:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rrThO906e1w/alabama-vet-who-nearly-died-in-afghanistan-calls-biden-withdrawal-strategy-disgusting"
-    ampWebUrl: "https://www.foxnews.com/politics/alabama-vet-who-nearly-died-in-afghanistan-calls-biden-withdrawal-strategy-disgusting.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/alabama-vet-who-nearly-died-in-afghanistan-calls-biden-withdrawal-strategy-disgusting.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Obama-era Afghanistan ambassador has 'grave questions' about Biden's 'ability to lead' US"
     excerpt: "A former Obama-era ambassador to Afghanistan says he has \"grave questions\" about President Biden's \"ability to lead\" America as commander in chief following the stunning collapse of Afghanistan."
@@ -771,6 +771,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "7iVS4H1CNS71Tb+dIxylxsBJ6rjMpg/yiBkpQj6qg52t7lG3+2kCP0q9sm3YFRBBXG/ykZRLCSnbCQeD857KRvyn8F42WRyUGYEEEsZE0EyBPI3ycYZ9305RfB9N+n0hdXeaLtHug0NfzEktguFwn0CwugmXfBym/GQh5GPP7nu1WOGBC1vREocSt3K6d7yMdRmcckG1weL3hUBdmPVlmcZdj5c8yDFKAPpkjTfrFHrHDp89Ox6ou2EVZfSBUKgIvFprGKNT2k+4mHao7eVU2ovsaD9vBFi8nFAP/znl65QahCciKxr0AXVX8oC8z1XuwajIWK6bjG75Oqki7Hw15aR4rAyxY0EwgJB2KUKWFAU=;5I2F1k9+ciV9v0Efk0fTHA=="
+secured: "gIMl+ssRsNsFdlrUCs6+i/0bZi9vJLQZyiH3gFR+hOJF9+xxRLwQ6Zh0qs7x0+xI7NefTn0lhHsRD3HmNsiWvbQcZDOgWTV/8GlJ03pgZnCD9CqBmSrqq9SR9qr5Gp1sy5YXoKpeJiaHAH84hi23DW50pvWmdpxYbEXhL3dyMPZuS0WlKIWFc+JBRKk38CkhbOzLCB7lYMRqTom19sOdbin6nh9risOn9WUkSw4lHYj/cok4ClLSqEOwqJgSh/u4N4+kdP7Vw742BOUyj+qLw2bQ05pRFUadrxHN9C5qKm30wQz1JSr18J0jDyimUW/a8v1uQUruWxblxFBcId3737znN9PVSsZDzv0rZzjN/MM=;FNM2hwuKlSctRlEirmZpLQ=="
 ---
 

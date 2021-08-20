@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Esper: Trump's push to get US troops out of Afghanistan possibly 'undermined' deal with Taliban"
-excerpt: "Former Defense Secretary Mark Esper said Tuesday that he was concerned that then-President Donald Trump \"undermined\" the US' 2020 agreement with the Taliban by pushing for US forces to leave Afghanistan without the Taliban meeting the conditions of the deal.\n    \n"
-publishedDateTime: 2021-08-18T11:01:01Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DojV4CnXtSE/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DojV4CnXtSE/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/08/17/politics/mark-esper-donald-trump-taliban-afghanistan-cnntv/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/17/politics/mark-esper-donald-trump-taliban-afghanistan-cnntv/index.html"
+title: "As White House scrambles on Afghanistan, Biden faces some of most dire days of his presidency"
+excerpt: "Two photographs of President Joe Biden this week neatly illustrated the White House's fight to contain the fallout of the biggest crisis of his presidency.\n    \n"
+publishedDateTime: 2021-08-19T23:23:19Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3jKoHTjvJGU/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3jKoHTjvJGU/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/joe-biden-afghanistan-dire-days-of-presidency/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/joe-biden-afghanistan-dire-days-of-presidency/index.html"
 type: article
-quality: 163
+quality: 164
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200714171751-01-mark-esper-0709-file-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210819174626-01-afghanistan-siv-processing-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -335,19 +335,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "As White House scrambles on Afghanistan, Biden faces some of most dire days of his presidency"
-    excerpt: "Two photographs of President Joe Biden this week neatly illustrated the White House's fight to contain the fallout of the biggest crisis of his presidency.\n    \n"
-    publishedDateTime: 2021-08-19T23:23:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3jKoHTjvJGU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/joe-biden-afghanistan-dire-days-of-presidency/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/joe-biden-afghanistan-dire-days-of-presidency/index.html"
+  - title: "Esper: Trump's push to get US troops out of Afghanistan possibly 'undermined' deal with Taliban"
+    excerpt: "Former Defense Secretary Mark Esper said Tuesday that he was concerned that then-President Donald Trump \"undermined\" the US' 2020 agreement with the Taliban by pushing for US forces to leave Afghanistan without the Taliban meeting the conditions of the deal.\n    \n"
+    publishedDateTime: 2021-08-18T11:01:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DojV4CnXtSE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/17/politics/mark-esper-donald-trump-taliban-afghanistan-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/17/politics/mark-esper-donald-trump-taliban-afghanistan-cnntv/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 164
+    quality: 163
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210819174626-01-afghanistan-siv-processing-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200714171751-01-mark-esper-0709-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -574,6 +574,6 @@ related:
         height: 629
         isCached: true
 
-secured: "ZZLzEdvMPC/cnCP2c7JXsar6KyFIpNWQsgegoS6aDsEQPkeseYSfJNzTYz1nbj6pPkGGBDjh/7m4Y/aEKA2tpOAMwuyWYiO6tRYn8BQs8b9o4tqoQONullUm1AfznE7tJrYu6M2akEBdKuCNJJ0whNGZjBahWpnWxSCcVcxr+fTuSUhLTjm8j40slLxCXJcXeduZM3aL9BYSPCR/RGWKyBZiDBORbtga16EuNNE1AVjMU1iCQL39Y26z9GLKC8zhxTsQRA7nSmk6dHD4ifA3mv6/BZz2VmdlsoRnB2bmHV1VFF3AzZTojj4IwNySYSD7bQw3gne+ej0mVTOhCkHaB4r0LvNojeNeJGV3L4T2xBM=;kYcjS6UpMsmqfJ1l3ndOaw=="
+secured: "qCK33tGWPHNt5piRl5Ml/n7x1mFZ0AKMtGr5ImCuYgOYjWT35k8wEku/LMxJkbkD3I05Fjwj+rOGKvnShai3BcGG0nae7Jf3LgWxBKftKsUZtj4aYsBN2rlsDNJq7pHBXE8fDP1WTqUwWqJLBi3Uegh+vHp8R1s7e9SJW7jTGY6X9JLFf8/DZToAWbmYBg6D8hz2DbRp55eE+NsKla4LG8DJ2igpq9ucKhGUF7C4dO/kSrb76pSjGQicua6PZS9Se7S1YXFCgsSV9yfn3yumm4eTxDE1qsxcKJ6oO39+AYJS2q4YCP8gYcPBFqlGtyLuP0UCM+Y7VxQxUTsn9p4r1zjq6511SvS9jo5ezyQDkow=;YTX+xwQg3EAvN+kgTMZ3Wg=="
 ---
 

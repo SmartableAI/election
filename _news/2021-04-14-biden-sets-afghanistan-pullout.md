@@ -334,6 +334,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "As White House scrambles on Afghanistan, Biden faces some of most dire days of his presidency"
+    excerpt: "Two photographs of President Joe Biden this week neatly illustrated the White House's fight to contain the fallout of the biggest crisis of his presidency.\n    \n"
+    publishedDateTime: 2021-08-19T23:23:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3jKoHTjvJGU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/joe-biden-afghanistan-dire-days-of-presidency/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/joe-biden-afghanistan-dire-days-of-presidency/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210819174626-01-afghanistan-siv-processing-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Esper: Trump's push to get US troops out of Afghanistan possibly 'undermined' deal with Taliban"
     excerpt: "Former Defense Secretary Mark Esper said Tuesday that he was concerned that then-President Donald Trump \"undermined\" the US' 2020 agreement with the Taliban by pushing for US forces to leave Afghanistan without the Taliban meeting the conditions of the deal.\n    \n"
     publishedDateTime: 2021-08-18T11:01:01Z
@@ -427,6 +443,22 @@ related:
     quality: 159
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210811152502-07-wh-infrastructure-ricchetti-terrell-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "US is working directly with Taliban leaders on the ground trying to salvage Biden's crisis in Afghanistan"
+    excerpt: "While the US State Department continues to engage in high-level diplomatic talks with the Taliban in the neutral setting of Doha, Qatar, as it has for the past year, the real negotiations have moved to the chaotic streets of Kabul in recent days, where American military commanders are in constant communication"
+    publishedDateTime: 2021-08-19T23:49:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZK2kKfvQbtY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/taliban-talks-salvage-afghanistan-crisis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/taliban-talks-salvage-afghanistan-crisis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210819151250-01-afghanistan-women-taliban-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
