@@ -1,34 +1,29 @@
 ---
 category: news
-title: "Biden's entire national security team should resign: Rep. Andy Barr"
-excerpt: "FIRST ON FOX: A prominent House Republican is calling for the resignations of every individual on President Biden's national security team as part of a reckoning for what he called its \"disorderly retreat from Afghanistan.\""
-publishedDateTime: 2021-08-18T18:28:06Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zPBEMGuYiQA/biden-national-security-team-resign-barr"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zPBEMGuYiQA/biden-national-security-team-resign-barr"
-ampWebUrl: "https://www.foxnews.com/politics/biden-national-security-team-resign-barr.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-national-security-team-resign-barr.amp"
+title: "Joe Biden has always been a disaster on foreign policy"
+excerpt: "President Joe Biden campaigned in 2020 on his supposed foreign policy chops, promising everyone he’d usher in a new, golden era of competent and effective U.S. diplomacy."
+publishedDateTime: 2021-08-20T00:27:00Z
+originalUrl: "https://www.washingtonexaminer.com/opinion/joe-biden-has-always-been-a-disaster-on-foreign-policy"
+webUrl: "https://www.washingtonexaminer.com/opinion/joe-biden-has-always-been-a-disaster-on-foreign-policy"
+ampWebUrl: "https://www.washingtonexaminer.com/opinion/joe-biden-has-always-been-a-disaster-on-foreign-policy?_amp=true"
+cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/joe-biden-has-always-been-a-disaster-on-foreign-policy?_amp=true"
 type: article
-quality: 175
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
+  name: Washington Examiner
+  domain: washingtonexaminer.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonexaminer.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
-
-images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/07/340/340/mike-emanuel-headshot.png?ve=1&tl=1"
-    width: 340
-    height: 340
-    isCached: true
 
 related:
   - title: "Trump calls on Biden to 'resign in disgrace' over crisis in Afghanistan"
@@ -126,6 +121,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/19a00d1f-c699-4729-b3dd-f8ab2871d650/b6fd2222-6c75-495e-a8b0-072f88d99d64/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden's entire national security team should resign: Rep. Andy Barr"
+    excerpt: "FIRST ON FOX: A prominent House Republican is calling for the resignations of every individual on President Biden's national security team as part of a reckoning for what he called its \"disorderly retreat from Afghanistan.\""
+    publishedDateTime: 2021-08-18T18:28:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zPBEMGuYiQA/biden-national-security-team-resign-barr"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-national-security-team-resign-barr.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-national-security-team-resign-barr.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/07/340/340/mike-emanuel-headshot.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "North Carolina billboard skewers Biden for botched Afghanistan withdrawal"
     excerpt: "A billboard in Wilmington, North Carolina, skewered Biden for his botched withdrawal from Afghanistan that saw the Taliban take over the country and stranded thousands of Americans."
@@ -777,17 +788,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Joe Biden has always been a disaster on foreign policy"
-    excerpt: "President Joe Biden campaigned in 2020 on his supposed foreign policy chops, promising everyone he’d usher in a new, golden era of competent and effective U.S. diplomacy."
-    publishedDateTime: 2021-08-20T00:27:00Z
-    webUrl: "https://www.washingtonexaminer.com/opinion/joe-biden-has-always-been-a-disaster-on-foreign-policy"
-    ampWebUrl: "https://www.washingtonexaminer.com/opinion/joe-biden-has-always-been-a-disaster-on-foreign-policy?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/joe-biden-has-always-been-a-disaster-on-foreign-policy?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 65
   - title: "Biden Making a Major Mistake on Afghanistan"
     excerpt: "David A. Andelman writes that President Joe Biden should not be setting a date for withdrawal of US troops from Afghanistan since the reason the US first entered the country -- to address a major terrorist threat -- has not been fully addressed."
     publishedDateTime: 2021-04-14T11:37:00Z
@@ -798,6 +798,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "cJ4fXoURPmyJFAhkt2eBtwhnJit6wlFU2TNPlr6DPzBHMiYkVBxQa6SyItvc0xV2vuwU/P/hovS7sX4ub62UITgfmUp0v36YJZBlQu+eQ2+oKzu7199W+9YalJTbKZB8CgPcfDUHR4cY7LpZXRt/iReRar9stKNCJ8kNODxG+7L7w0V+w3L9vP/il7mF0G+cNn7HaIVGj4BzYK4AcWc82pZl4T04gOnrdx4Cafvhya6u9ZwLLSF1Sz1cvhJkdjJ9WoET4hGRpr9mMR+fAz+SEOuXxDxNFFXX14jn5ZNvJ26XvQcUCWtRrWezgO3GNdtN0poOzNVxm0WfBAe2Lh3k5a5XARkm/LgQUjPqc5UFc0U=;TlZUW59ZUAK6D5Quf7WjCw=="
+secured: "7Tf5/RmTqStxp0VeFz00n9OT61Jflvwzeo2NV45Ir+LnJGHoT2JHb+IuSLQXBQgk2IV1Ae5vhT+wdq+NbmbO/PuSrRbfDiWVy76GRVCA7oXIBRg4JKzA024RVDlgPp/FKoSg1juU55uCv8MSSw4nm2DditJESKePnQJisQKO8Y5qjQ7rmHzuJcxc9rHuXJ7TQL4uHWyrnlVbeU9zLcUUblfSWLFvklYHvzcgz3SbNJGJryAJqpT+VPVL6/eC7sB8KKBHzF3gThl1RKVjuI7H5lWljXEALVqCf6aDWDKJtt1nrod+m0RZfwoP2AzhKQgmcWiLT2ix8QhhoiIU9hUxKwyevva05ODmI6tKjekj17H+uKHA/10zXoDx/Up2tAsVBLEbGeisyb8EOP+JaZ+Y9FyjB/S5/tvAhb4oNmn0dqFyH088MdKmdSWJypAw33lQX6AnU6jvuNofUsPwXqcGDUsJK0YIDoeclFAVxSH9ddoVpmh4PFO086dFocE7eYf0XiJ5jmfAQi04KbETnav82Q==;PIOGGqENzyC/H27Mai1rqg=="
 ---
 

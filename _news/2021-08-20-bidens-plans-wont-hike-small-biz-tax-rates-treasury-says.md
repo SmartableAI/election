@@ -1,36 +1,42 @@
 ---
 category: news
-title: "Joe Biden says he and first lady plan on getting Covid booster shot"
-excerpt: "President defends shots as millions worldwide are unvaccinated: US has ‘provided more to the rest of the world than all the rest of the world combined’"
-publishedDateTime: 2021-08-19T21:46:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
-webUrl: "https://www.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
-ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
+title: "Biden's Plans Won't Hike Small-Biz Tax Rates, Treasury Says"
+excerpt: "Most small-business owners won't face higher tax rates and millions of entrepreneurs will actually see their taxes decline under President Joe Biden's economic growth proposals, a senior U.S. Treasury Department official said Thursday."
+publishedDateTime: 2021-08-20T07:43:00Z
+originalUrl: "https://www.law360.com/articles/1414453/biden-s-plans-won-t-hike-small-biz-tax-rates-treasury-says"
+webUrl: "https://www.law360.com/articles/1414453/biden-s-plans-won-t-hike-small-biz-tax-rates-treasury-says"
+ampWebUrl: "https://www.law360.com/amp/articles/1414453"
+cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1414453"
 type: article
-quality: 125
-heat: 265
-published: true
+quality: 55
+heat: -1
+published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Law360
+  domain: law360.com
 
 topics:
   - Election
   - Joe Biden
 
-images:
-  - url: "https://i.guim.co.uk/img/media/588c63ebaadccad8a6667c54fcab67b69ae81af7/212_0_4688_2813/master/4688.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=96e3db49456f8f393dbe8c5408ee3aa9"
-    width: 600
-    height: 360
-    isCached: true
-
 related:
+  - title: "Joe Biden says he and first lady plan on getting Covid booster shot"
+    excerpt: "President defends shots as millions worldwide are unvaccinated: US has ‘provided more to the rest of the world than all the rest of the world combined’"
+    publishedDateTime: 2021-08-19T21:46:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/588c63ebaadccad8a6667c54fcab67b69ae81af7/212_0_4688_2813/master/4688.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=96e3db49456f8f393dbe8c5408ee3aa9"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Joe Biden announces Covid booster shots from September – video"
     excerpt: "President says anyone who was fully vaccinated eight months prior will be eligible"
     publishedDateTime: 2021-08-19T02:23:00Z
@@ -117,18 +123,7 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Biden's Plans Won't Hike Small-Biz Tax Rates, Treasury Says"
-    excerpt: "Most small-business owners won't face higher tax rates and millions of entrepreneurs will actually see their taxes decline under President Joe Biden's economic growth proposals, a senior U.S. Treasury Department official said Thursday."
-    publishedDateTime: 2021-08-20T07:43:00Z
-    webUrl: "https://www.law360.com/articles/1414453/biden-s-plans-won-t-hike-small-biz-tax-rates-treasury-says"
-    ampWebUrl: "https://www.law360.com/amp/articles/1414453"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1414453"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 55
 
-secured: "V3xpiXtuyzUM8+l4faxCGzruxGdoNvLF+GJqG7tbwv3Z7HRqLmj6E0ThHmYnSji3Yng1b1DiKj5k+IiM7iJ/QzLRt9YBZQmX9kiLCEcBe40HiZfKUf3BMPzOKxokfdYp0gl1DzzJktSTFIFwpLhQv49d295A6zgrxVeezZcTPWQGmYqZQiAB8THfSZ9Ii6dVmLbn8otUwlzvvZquh/XIR4udMOKAcNVWWC4CcXUaVwAX6hpeI7aI6rx2g9WjpFTXO4/+HW/jITHq/3i34OdztyR0KxJ+vxpKxo6eYm4cIji3lBohFaFASb/O8moTjcWrL1mSx3WqKlUOJ+aZCcYKk+BYsLZ+THozgjv5lCKJNYM=;RHDpuxZvbZLy07Kx7eRcDg=="
+secured: "H7kuotdwPJCj7ZFouGJ1n69s7G8hFydQUPnExkiKYBQzUQ+48kDjWFv/knEV34hPFNYnvimrEzGNNof7StzcSjh+t0cGp5DOrUs3DNcRNs201iT0RJL6U+9tU+Yd4bRTZ0ekumpL+qwVTOmNboKWKZvR1EoaV7BLbgT4nBCy3d5BSz4B0ZSjBpwJiMXV1+y2HUrI/jGBgh6BBGDX+NFRkwb5RGiTiSO8J7YyTrRYgI2lJN5oh6fJxflenyLSgXSFHWspzL8kC5WLmKzl5hOgSZhymimSiPFZiNm4TnE1kwapqM7Guc5QDLBvjDb4J2USapiiDLN7TSy4rq7VPkYGUPdWUpGesonuN8ySeIXA/GI=;YQGIRDkJifgUbmdnn74aGQ=="
 ---
 

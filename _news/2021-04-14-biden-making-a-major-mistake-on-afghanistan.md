@@ -782,6 +782,17 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Joe Biden has always been a disaster on foreign policy"
+    excerpt: "President Joe Biden campaigned in 2020 on his supposed foreign policy chops, promising everyone he’d usher in a new, golden era of competent and effective U.S. diplomacy."
+    publishedDateTime: 2021-08-20T00:27:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/joe-biden-has-always-been-a-disaster-on-foreign-policy"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/joe-biden-has-always-been-a-disaster-on-foreign-policy?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/joe-biden-has-always-been-a-disaster-on-foreign-policy?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
 
 secured: "f3bLgmbObKJ9c/3WjnXamNGXWDy2zoCbZZHaf06t1xN0jHq6DhGzhDTr6+qsVz98IPagzmoKuJ45nD1BgbycyNUmrJj9UvLIS3AnBSZHWmCrclmFxobeGmkTnbxj6CWp59CbGZYEGOi/a+Z7Tc8M7fnRC07Llk9tr2im26WV7nmVb9ARYy1mHU8Q4gcimKih952Swo/Y0JeZj0W61cL+GtTvXaMADltrvgiB+1XpTbsmOPAnVrN7jUpYSMaKVMRP2g0cAGA6EhROHMdsEgB8ZVfcZb35BNBuXCCZ/4wMhesj9pQZyb6EpA9i+bCFu20ROntmkVqeBRujjSnvb60KIZtYEaFVYJQEidbicEPkGxo=;lOSvJJx62gMkzybCc/EooA=="
 ---

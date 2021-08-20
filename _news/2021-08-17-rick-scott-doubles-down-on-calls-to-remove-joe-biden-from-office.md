@@ -99,6 +99,31 @@ related:
         width: 848
         height: 570
         isCached: true
+  - title: "Rick Scott says Joe Biden ‘unfit’ for presidency after Afghan exit"
+    excerpt: "Florida’s junior Senator continued his scathing criticism of President Joe Biden Thursday. “Incompetent. Unhinged. Incoherent. Unfit,” tweeted Scott, in a four-word excoriation of Biden’s performance in an interview with ABC the night before."
+    publishedDateTime: 2021-08-19T15:07:00Z
+    webUrl: "https://floridapolitics.com/archives/451620-scott-biden-unfit/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2018/02/rick-scott-senate-2.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Biden's Plans Won't Hike Small-Biz Tax Rates, Treasury Says"
+    excerpt: "Most small-business owners won't face higher tax rates and millions of entrepreneurs will actually see their taxes decline under President Joe Biden's economic growth proposals, a senior U.S. Treasury Department official said Thursday."
+    publishedDateTime: 2021-08-20T07:43:00Z
+    webUrl: "https://www.law360.com/articles/1414453/biden-s-plans-won-t-hike-small-biz-tax-rates-treasury-says"
+    ampWebUrl: "https://www.law360.com/amp/articles/1414453"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1414453"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 55
 
 secured: "t9Pp+aGw+sWQaAI+si9b4g26TdCS4kkTYktJn9MwhpMfilZFO7tDVQL9ETgzPfCuUSBGd2OJ3PyLwGcDMocV0DLiwnYSGhZjThmeEQQ+S3uGfiRBb3fFGA3bUqS3cnbcR+8s77YQTRCN8005PBy+WsChBFAMU3Esi6jWD65d/ugSVLfw9C4XbXZqZux32kg8mWpSrp1wcI0QYR+0DegAIrBDgXdg3G3V6ZfE06ctDJf7ifaUfA/tfwcOLZ6o7SAnnSqNKHTjx4WxmAZd3wWVaUvwwI4wktjNobxURWxIQmN0lUcuqtDYo/C4tnGt/eEd5C91aOlY9gWHMdo9+cfKLr2OkiH/RE0KtrtGZEuGU14=;nTsTWplVo63/+V1q0StCMw=="
 ---

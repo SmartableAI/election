@@ -425,6 +425,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "This debacle has exposed Joe Biden as a failed president"
+    excerpt: "President Joe Biden’s meager interview with ABC’s George Stephanopoulos on the Afghanistan crisis shows how utterly incompetent he is as American’s commander-in-chief,."
+    publishedDateTime: 2021-08-20T02:56:00Z
+    webUrl: "https://nypost.com/2021/08/19/afghan-debacle-has-exposed-joe-biden-as-a-failed-president/"
+    ampWebUrl: "https://nypost.com/2021/08/19/afghan-debacle-has-exposed-joe-biden-as-a-failed-president/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/19/afghan-debacle-has-exposed-joe-biden-as-a-failed-president/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/BidenAfghanistan.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Critics slam Biden’s long-weekend silence as Afghanistan falls to Taliban"
     excerpt: "Republican leaders are slamming President Biden for taking a long weekend out of the public eye as major cities fall to the Taliban in Afghanistan. The mounting crisis comes as the US prepares to"
     publishedDateTime: 2021-08-13T17:15:00Z

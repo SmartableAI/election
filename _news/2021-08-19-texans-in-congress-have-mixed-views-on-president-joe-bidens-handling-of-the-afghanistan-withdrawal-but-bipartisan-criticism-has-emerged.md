@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden isn't talking. At least not to the media."
+    excerpt: "Joe Biden sat for an interview with ABC's George Stephanopoulos on Wednesday to talk Afghanistan and Covid-19 -- among other things. The real news in the interview, however, was that Biden was doing it at all."
+    publishedDateTime: 2021-08-19T16:11:00Z
+    webUrl: "https://www.wthitv.com/content/national/575130822.html"
+    ampWebUrl: "http://www.wthitv.com/templates/AMP?contentID=575130822"
+    cdnAmpWebUrl: "https://www-wthitv-com.cdn.ampproject.org/c/www.wthitv.com/templates/AMP?contentID=575130822"
+    type: article
+    provider:
+      name: WTHI-TV
+      domain: wthitv.com
+    quality: 75
+    images:
+      - url: "http://media.heartlandtv.com/designimages/wthi-story-default-image-640x380.png"
+        width: 640
+        height: 380
+        isCached: true
   - title: "Joe Biden's political honeymoon is officially over"
     excerpt: "The shine has worn off Joe Biden. His average approval ratings is now below 50% in the running averages maintained by 538 ( 49.3%) and Real Clear Politics ( 49.6% ). (Hat tip to Politico's Playbook for first noting it!"
     publishedDateTime: 2021-08-18T22:21:00Z
@@ -116,6 +132,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 50
+  - title: "President Joe Biden mandates COVID-19 vaccines in nursing homes, what does this mean for the workforce?"
+    excerpt: "President Joe Biden said in an address on Wednesday that his administration is requiring nursing home staff to be vaccinated against COVID-19. “Studies show that highly vaccinated nursing home staff is associated with at least 30 percent less COVID-19 cases among long-term care residents,"
+    publishedDateTime: 2021-08-19T18:24:00Z
+    webUrl: "https://www.wymt.com/2021/08/19/president-joe-biden-mandates-covid-19-vaccines-nursing-homes-what-does-this-mean-workforce/"
+    type: article
+    provider:
+      name: WYMT
+      domain: wymt.com
+    quality: 39
+    images:
+      - url: "https://gray-wymt-prod.cdn.arcpublishing.com/resizer/rsHGANX940Lnh4BZoAkzaoErI04=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/7WUPGDZ2UNEZLPXSCZTZJRGYSI.PNG"
+        width: 980
+        height: 549
+        isCached: true
 
 secured: "2FVknic0U3p+Q9ZltAAtvDEtOXnIyx8OMtTZMjL2u0QAOwmQJDs1jKuXqqFYSxIKI6AxReIbv90vzX5cClbdnaVsM+vSQdcRDbbBtzppWlCVXx06fwMbvyZD5VXm9M8wCN0DINY8/Z/xZwsa1/M4PGnnIEy/ruqQGXWXQ21scPfrIczhWPzj8w94PsLqBdVBwo8vfGgCdq6zc6n6MAMuFcSIAB6y713bFqNfal3E3UdWmW7k2h3V8SGwp/fD4mn5dNOz233OnkWoiDyRsvc2nVOK/xx23qStM9t69DJEcRiXiTdCZC51Cr9jr26jBLbVjJK+v7cYoGGlMyguY23m8Oa9HXzKi/iZhyaT4aCwdTteEvcAuKzCNkI9y06DMcGu/ksDnzbAa3xV+GnG/NGaYw2yPyBIFAyqmQPOFxigoYyI96HP9x7+8zUBWpK1ZjIBIAtOPjWWRSj+IVbRhOv07bM3orkqY1/BfOW0erMY26HcbPa+LAVVzQvvcRb4bYz3O8q95h4ZFt9/3wJgk+8SDg==;JnH3vWV7TD0If7fzECfnFA=="
 ---

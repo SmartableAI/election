@@ -1,33 +1,30 @@
 ---
 category: news
-title: "Biden tells allies they can trust the US, despite waning confidence in his foreign policy prowess"
-excerpt: "President Biden is attempting to reassure American allies who are casting doubt on his ability to skillfully manage foreign policy in the wake of the botched Afghanistan withdrawal. "
-publishedDateTime: 2021-08-19T16:30:38Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mQXcwGYUo0U/biden-allies-trust-us-waning-confidence"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mQXcwGYUo0U/biden-allies-trust-us-waning-confidence"
-ampWebUrl: "https://www.foxnews.com/politics/biden-allies-trust-us-waning-confidence.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-allies-trust-us-waning-confidence.amp"
+title: "This debacle has exposed Joe Biden as a failed president"
+excerpt: "President Joe Biden’s meager interview with ABC’s George Stephanopoulos on the Afghanistan crisis shows how utterly incompetent he is as American’s commander-in-chief,."
+publishedDateTime: 2021-08-20T02:56:00Z
+originalUrl: "https://nypost.com/2021/08/19/afghan-debacle-has-exposed-joe-biden-as-a-failed-president/"
+webUrl: "https://nypost.com/2021/08/19/afghan-debacle-has-exposed-joe-biden-as-a-failed-president/"
+ampWebUrl: "https://nypost.com/2021/08/19/afghan-debacle-has-exposed-joe-biden-as-a-failed-president/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/19/afghan-debacle-has-exposed-joe-biden-as-a-failed-president/amp/"
 type: article
-quality: 162
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00f4bf63-df69-4086-9f9e-5af276e2f2b6/7d283902-9de9-4356-9fb8-596edbc83d4b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/BidenAfghanistan.jpg?quality=90&strip=all&w=1024"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -223,6 +220,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Biden tells allies they can trust the US, despite waning confidence in his foreign policy prowess"
+    excerpt: "President Biden is attempting to reassure American allies who are casting doubt on his ability to skillfully manage foreign policy in the wake of the botched Afghanistan withdrawal. "
+    publishedDateTime: 2021-08-19T16:30:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mQXcwGYUo0U/biden-allies-trust-us-waning-confidence"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-allies-trust-us-waning-confidence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-allies-trust-us-waning-confidence.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00f4bf63-df69-4086-9f9e-5af276e2f2b6/7d283902-9de9-4356-9fb8-596edbc83d4b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Taliban poised to impose Sharia law in Afghanistan, threatening people Biden professes to fight for"
     excerpt: "Fears are growing that the Taliban will move to reimplement Sharia Law with their trademark brutal enforcement"
     publishedDateTime: 2021-08-15T23:01:12Z
@@ -413,22 +426,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "This debacle has exposed Joe Biden as a failed president"
-    excerpt: "President Joe Biden’s meager interview with ABC’s George Stephanopoulos on the Afghanistan crisis shows how utterly incompetent he is as American’s commander-in-chief,."
-    publishedDateTime: 2021-08-20T02:56:00Z
-    webUrl: "https://nypost.com/2021/08/19/afghan-debacle-has-exposed-joe-biden-as-a-failed-president/"
-    ampWebUrl: "https://nypost.com/2021/08/19/afghan-debacle-has-exposed-joe-biden-as-a-failed-president/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/19/afghan-debacle-has-exposed-joe-biden-as-a-failed-president/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/BidenAfghanistan.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Critics slam Biden’s long-weekend silence as Afghanistan falls to Taliban"
     excerpt: "Republican leaders are slamming President Biden for taking a long weekend out of the public eye as major cities fall to the Taliban in Afghanistan. The mounting crisis comes as the US prepares to"
     publishedDateTime: 2021-08-13T17:15:00Z
@@ -585,6 +582,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "dN5FKLyx3J3siP01zXA3AZtihcInU6xhLebPs9f4vXbeDCve9tpZaG6ZaJ2WmJo20jJxtmoINQyZJ5U6BSNbTdAdv9Bv8g4wcBSM2tp3MfFQ8LIwO05oRX4RCaZE8PUgCKVgEHzV7WcloQ5obznIphQUSq1g1dz9DnI5iBh1SIAcpk+5Q8C+djhHZ2xL5pzbz5MvzR9F3ukoWa4j0Jz3A1ATEtu4YYz+lajfFBtylyCsfoi+sCoFplnbCn2G53CgNe5oyIVuUiVakjlKBJP5x2j6X/5MY8+kFiuOUO0CZsAykQB4fK+FIuWv5+SXYXfwZIwUAcA9CTEexk9DQS09l0X+Q/jlvmMilVgfubnsZxg=;2w5N7Zklr5yXPIJ4dPD3hw=="
+secured: "0+T1flDHKmwaj7KrLfwRE/fGn1Pg7aIB1x9g0VVsnuWdZvHqfNLRxWX2Ok55UKAplFpNVcjrzcRN4IFsBRSpOP4JfvAFFyV1t67DUPew0dqLdCgE9c3Ksc1kWlByZn9eqseccoJ7SArLgzvALiK2032t/HsAIIZMmR6Dy5bUBpOTKmDVBhTOKdIT6VM4wU2cHwPVmlnBFr4SXNIqHklyOHp0wEOo5ToAeM+cw0pBmDK8P5xLdJ6abxL9r/kCeB45zZOig7XkXE8bN1ekv5mZexLUY4vDqEASRTnelLxLFu32QgdV/KBF0JQBdLccmvdVzDLakFpjygVmeqbY652C7ZhrjFO/UV81Kv2MSM7H7h4=;6haomKkUHg84ZxP3JXZMsg=="
 ---
 

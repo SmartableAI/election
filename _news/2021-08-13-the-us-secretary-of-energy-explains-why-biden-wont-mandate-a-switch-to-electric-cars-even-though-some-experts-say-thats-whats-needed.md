@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden isn't talking. At least not to the media."
+    excerpt: "Joe Biden sat for an interview with ABC's George Stephanopoulos on Wednesday to talk Afghanistan and Covid-19 -- among other things. The real news in the interview, however, was that Biden was doing it at all."
+    publishedDateTime: 2021-08-19T16:11:00Z
+    webUrl: "https://www.wthitv.com/content/national/575130822.html"
+    ampWebUrl: "http://www.wthitv.com/templates/AMP?contentID=575130822"
+    cdnAmpWebUrl: "https://www-wthitv-com.cdn.ampproject.org/c/www.wthitv.com/templates/AMP?contentID=575130822"
+    type: article
+    provider:
+      name: WTHI-TV
+      domain: wthitv.com
+    quality: 75
+    images:
+      - url: "http://media.heartlandtv.com/designimages/wthi-story-default-image-640x380.png"
+        width: 640
+        height: 380
+        isCached: true
   - title: "Joe Biden's political honeymoon is officially over"
     excerpt: "The shine has worn off Joe Biden. His average approval ratings is now below 50% in the running averages maintained by 538 ( 49.3%) and Real Clear Politics ( 49.6% ). (Hat tip to Politico's Playbook for first noting it!"
     publishedDateTime: 2021-08-18T22:21:00Z
@@ -119,6 +135,20 @@ related:
       - url: "https://thumbnails.texastribune.org/qNfrp87N4j3zcwx89ZG2LB9qO7c=/1200x630/filters:quality(95)/static.texastribune.org/media/files/afc2620915acb68297a561caafd976f4/Joe%20Biden%20Afghanistan%20REUTERS%20TT%2001.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "President Joe Biden mandates COVID-19 vaccines in nursing homes, what does this mean for the workforce?"
+    excerpt: "President Joe Biden said in an address on Wednesday that his administration is requiring nursing home staff to be vaccinated against COVID-19. “Studies show that highly vaccinated nursing home staff is associated with at least 30 percent less COVID-19 cases among long-term care residents,"
+    publishedDateTime: 2021-08-19T18:24:00Z
+    webUrl: "https://www.wymt.com/2021/08/19/president-joe-biden-mandates-covid-19-vaccines-nursing-homes-what-does-this-mean-workforce/"
+    type: article
+    provider:
+      name: WYMT
+      domain: wymt.com
+    quality: 39
+    images:
+      - url: "https://gray-wymt-prod.cdn.arcpublishing.com/resizer/rsHGANX940Lnh4BZoAkzaoErI04=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/7WUPGDZ2UNEZLPXSCZTZJRGYSI.PNG"
+        width: 980
+        height: 549
         isCached: true
 
 secured: "0ZE7ZGMUVLbwLWE6GDC95v5qutRB/Lbyo7Xf2zd064A3XGLsHOrmHGLp/oqD+CLvTXSSXhIb4BVR4ncr5TseaJo1CdIXDOWmtaa8WrixK17FAGHQ3DnBmWioXy30OZdMPmFJ3xGB9kVTSfYzORWKLHCax36Fg2kH0PVEFqfLFW/b6vHZFHoCIu+7FCNh9IymJNiOVqbelmk6etbvvSGzxxwPJk7LdxKo2Jht+1ey4pvuDMgP4JsU/cuiT7syIG/Ot+WGngc+lOTth0LgsVnCIu/G3l0EDLoAnYx1Uw6sA37yargHEAT4Gw15qrYWBpWa54+1rRhfe1e+28RweY7jr/pOrI1Rsa8j4rAm0cVsq1w=;qQu6O6OcepQolo118+MVQg=="

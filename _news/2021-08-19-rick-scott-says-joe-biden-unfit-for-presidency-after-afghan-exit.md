@@ -1,36 +1,46 @@
 ---
 category: news
-title: "Joe Biden says he and first lady plan on getting Covid booster shot"
-excerpt: "President defends shots as millions worldwide are unvaccinated: US has ‘provided more to the rest of the world than all the rest of the world combined’"
-publishedDateTime: 2021-08-19T21:46:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
-webUrl: "https://www.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
-ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
+title: "Rick Scott says Joe Biden ‘unfit’ for presidency after Afghan exit"
+excerpt: "Florida’s junior Senator continued his scathing criticism of President Joe Biden Thursday. “Incompetent. Unhinged. Incoherent. Unfit,” tweeted Scott, in a four-word excoriation of Biden’s performance in an interview with ABC the night before."
+publishedDateTime: 2021-08-19T15:07:00Z
+originalUrl: "https://floridapolitics.com/archives/451620-scott-biden-unfit/"
+webUrl: "https://floridapolitics.com/archives/451620-scott-biden-unfit/"
 type: article
-quality: 125
-heat: 265
-published: true
+quality: 55
+heat: -1
+published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Florida Politics
+  domain: floridapolitics.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/588c63ebaadccad8a6667c54fcab67b69ae81af7/212_0_4688_2813/master/4688.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=96e3db49456f8f393dbe8c5408ee3aa9"
-    width: 600
-    height: 360
+  - url: "https://floridapolitics.com/wp-content/uploads/2018/02/rick-scott-senate-2.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
+  - title: "Joe Biden says he and first lady plan on getting Covid booster shot"
+    excerpt: "President defends shots as millions worldwide are unvaccinated: US has ‘provided more to the rest of the world than all the rest of the world combined’"
+    publishedDateTime: 2021-08-19T21:46:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/588c63ebaadccad8a6667c54fcab67b69ae81af7/212_0_4688_2813/master/4688.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=96e3db49456f8f393dbe8c5408ee3aa9"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Joe Biden announces Covid booster shots from September – video"
     excerpt: "President says anyone who was fully vaccinated eight months prior will be eligible"
     publishedDateTime: 2021-08-19T02:23:00Z
@@ -103,20 +113,6 @@ related:
         width: 848
         height: 570
         isCached: true
-  - title: "Rick Scott says Joe Biden ‘unfit’ for presidency after Afghan exit"
-    excerpt: "Florida’s junior Senator continued his scathing criticism of President Joe Biden Thursday. “Incompetent. Unhinged. Incoherent. Unfit,” tweeted Scott, in a four-word excoriation of Biden’s performance in an interview with ABC the night before."
-    publishedDateTime: 2021-08-19T15:07:00Z
-    webUrl: "https://floridapolitics.com/archives/451620-scott-biden-unfit/"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 55
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2018/02/rick-scott-senate-2.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Biden's Plans Won't Hike Small-Biz Tax Rates, Treasury Says"
     excerpt: "Most small-business owners won't face higher tax rates and millions of entrepreneurs will actually see their taxes decline under President Joe Biden's economic growth proposals, a senior U.S. Treasury Department official said Thursday."
     publishedDateTime: 2021-08-20T07:43:00Z
@@ -129,6 +125,6 @@ related:
       domain: law360.com
     quality: 55
 
-secured: "V3xpiXtuyzUM8+l4faxCGzruxGdoNvLF+GJqG7tbwv3Z7HRqLmj6E0ThHmYnSji3Yng1b1DiKj5k+IiM7iJ/QzLRt9YBZQmX9kiLCEcBe40HiZfKUf3BMPzOKxokfdYp0gl1DzzJktSTFIFwpLhQv49d295A6zgrxVeezZcTPWQGmYqZQiAB8THfSZ9Ii6dVmLbn8otUwlzvvZquh/XIR4udMOKAcNVWWC4CcXUaVwAX6hpeI7aI6rx2g9WjpFTXO4/+HW/jITHq/3i34OdztyR0KxJ+vxpKxo6eYm4cIji3lBohFaFASb/O8moTjcWrL1mSx3WqKlUOJ+aZCcYKk+BYsLZ+THozgjv5lCKJNYM=;RHDpuxZvbZLy07Kx7eRcDg=="
+secured: "D60qe46CVBFqDm5aEMqwwhsDtjaVsHOckFjswHMKTl2p5OC+HCkSu7eqKF/0tlgT6V6+2TFYMKNUehhdJBpOYYqAqLv6M6yZfI+oqDk/wT00rtEt1i5EmalmCXkass2bVQDfczbXvBK/DxtEeiCXsSglQpFGwtc2lP6M0OrNe617zN77KuiigqS3WThjbgXD2+IB3M0lv7Uho96BhCqvXuJ3Hk88sDzXKQjaNRBL5vK7+/uB6ID67NzJuF8nYriGCTtizXrzFmiEOxjEGdKRkDnN7L1l0qX614+c/kwObmRpaAuZhJVp0rjbMX3xNM/eGb2JcvEgnt1ZfOQRjbOA/6LtcRe1iZJKSUSzk7USxCY=;bucAX7VExNl/XCks2gQKpw=="
 ---
 

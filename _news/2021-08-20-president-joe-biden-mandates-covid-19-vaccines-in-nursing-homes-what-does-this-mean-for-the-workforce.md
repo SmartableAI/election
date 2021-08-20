@@ -1,24 +1,28 @@
 ---
 category: news
-title: "Biden’s agenda confronts tripwires everywhere in Congress; here’s the path ahead"
-excerpt: "The central pieces of President Joe Biden’s $4.1 trillion economic agenda are now moving through Congress on a precarious two-track path that’s further complicated by a September showdown over the debt ceiling."
-publishedDateTime: 2021-08-12T15:21:00Z
-originalUrl: "https://www.seattletimes.com/nation-world/nation-politics/bidens-agenda-confronts-tripwires-everywhere-in-congress-heres-the-path-ahead/"
-webUrl: "https://www.seattletimes.com/nation-world/nation-politics/bidens-agenda-confronts-tripwires-everywhere-in-congress-heres-the-path-ahead/"
-ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/bidens-agenda-confronts-tripwires-everywhere-in-congress-heres-the-path-ahead/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/bidens-agenda-confronts-tripwires-everywhere-in-congress-heres-the-path-ahead/?amp=1"
+title: "President Joe Biden mandates COVID-19 vaccines in nursing homes, what does this mean for the workforce?"
+excerpt: "President Joe Biden said in an address on Wednesday that his administration is requiring nursing home staff to be vaccinated against COVID-19. “Studies show that highly vaccinated nursing home staff is associated with at least 30 percent less COVID-19 cases among long-term care residents,"
+publishedDateTime: 2021-08-19T18:24:00Z
+originalUrl: "https://www.wymt.com/2021/08/19/president-joe-biden-mandates-covid-19-vaccines-nursing-homes-what-does-this-mean-workforce/"
+webUrl: "https://www.wymt.com/2021/08/19/president-joe-biden-mandates-covid-19-vaccines-nursing-homes-what-does-this-mean-workforce/"
 type: article
-quality: 50
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: WYMT
+  domain: wymt.com
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://gray-wymt-prod.cdn.arcpublishing.com/resizer/rsHGANX940Lnh4BZoAkzaoErI04=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/7WUPGDZ2UNEZLPXSCZTZJRGYSI.PNG"
+    width: 980
+    height: 549
+    isCached: true
 
 related:
   - title: "Meet Joe Biden’s secret weapon: the woman who wrangles with Congress"
@@ -115,6 +119,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden’s agenda confronts tripwires everywhere in Congress; here’s the path ahead"
+    excerpt: "The central pieces of President Joe Biden’s $4.1 trillion economic agenda are now moving through Congress on a precarious two-track path that’s further complicated by a September showdown over the debt ceiling."
+    publishedDateTime: 2021-08-12T15:21:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/bidens-agenda-confronts-tripwires-everywhere-in-congress-heres-the-path-ahead/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/bidens-agenda-confronts-tripwires-everywhere-in-congress-heres-the-path-ahead/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/bidens-agenda-confronts-tripwires-everywhere-in-congress-heres-the-path-ahead/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 50
   - title: "Texans in Congress have mixed views on President Joe Biden’s handling of the Afghanistan withdrawal. But bipartisan criticism has emerged."
     excerpt: "Texas Republicans have doused the Biden administration in criticism. Democratic Texans in Congress have had varied reactions — but some also fault for the president for a frantic scramble after the Taliban swiftly took control."
     publishedDateTime: 2021-08-19T02:02:00Z
@@ -131,21 +146,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "President Joe Biden mandates COVID-19 vaccines in nursing homes, what does this mean for the workforce?"
-    excerpt: "President Joe Biden said in an address on Wednesday that his administration is requiring nursing home staff to be vaccinated against COVID-19. “Studies show that highly vaccinated nursing home staff is associated with at least 30 percent less COVID-19 cases among long-term care residents,"
-    publishedDateTime: 2021-08-19T18:24:00Z
-    webUrl: "https://www.wymt.com/2021/08/19/president-joe-biden-mandates-covid-19-vaccines-nursing-homes-what-does-this-mean-workforce/"
-    type: article
-    provider:
-      name: WYMT
-      domain: wymt.com
-    quality: 39
-    images:
-      - url: "https://gray-wymt-prod.cdn.arcpublishing.com/resizer/rsHGANX940Lnh4BZoAkzaoErI04=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/7WUPGDZ2UNEZLPXSCZTZJRGYSI.PNG"
-        width: 980
-        height: 549
-        isCached: true
 
-secured: "ItNWw3S3xTNMZJQrs5KxTVnFSHCQnXs7yxx4n2WdpceBR/dPUYgkbr1raOdr+7NUTKUPWwCRZmamh06mKsLcA4ZAHJaVbHoDbKaN6WQkT3kpgfDhMHjDapaKsWAG4xntisH7/qVAwSqYck1R0fqIzaAtNeTEWb4lSSQJkWpvsPYe6NpSouYfgvKsPBV1k8fcqf2goax3GZUBGeSysJk9OFxtm4iYMuIAM/d+0MRvVgndY7Fi9Ti94gm9N9iij5zC10Lkqc2gT0b+AOa/2lonLtP3slcOE8BDl+xcEVPqsqOi7NfKx1w0/lFxodQs6yJReDoD3MTC7NmRYZbPdqxLRCFGcZhOhZIV4eRWk+EqUTY=;4ar5rYFaF9yEejbT7LP3SQ=="
+secured: "gSUGnnhUbxQWcVJWh5BGo8z0nmL8yKs6ymRmPMAeNMiSB9sgfrAQu+UGZvCZdckM6IRkkQoaXvdQyXqAEi613oh4+3ONkmNnig01GNVddd1z/4wvVPHJV8NP/Vy2F2mRsiUpPWJ0SxJqjvJE5e2j/N7ugfXcLw4qIO6YwwJOJtj5IzssJNoWvMkWRYzL4yVk9qvR/Y1bgY2ZvH08sjkyybONkJf9ORoqCDgydUFGydIyhkK/S9rvahpNpXuFpsndo0n0k3X4LR+IdwyVfizwx/c8CjGEYzSS1mqR5X0BBvi0MjxJ9yAPwwwEQfz4wsbaHxXMaah8Ijf25+MsfB9DmylwMU/Rr4NH1dCYAxVeSyw=;zWuuHflUqNd13kt/jrrv0g=="
 ---
 

@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Joe Biden takes aim at states blocking mask mandates, setting Gov. Greg Abbott up for showdown with feds"
+title: "Joe Biden Takes Aim At States Blocking Mask Mandates, Setting Gov. Greg Abbott Up For Showdown With Feds"
 excerpt: "Biden said he will use the U.S. Department of Education’s civil rights enforcement authority to deter states from blocking mask mandates in classrooms."
-publishedDateTime: 2021-08-18T22:31:00Z
-originalUrl: "https://www.texastribune.org/2021/08/18/greg-abbott-joe-biden-texas-mask-mandates/"
-webUrl: "https://www.texastribune.org/2021/08/18/greg-abbott-joe-biden-texas-mask-mandates/"
-ampWebUrl: "https://www.texastribune.org/2021/08/18/greg-abbott-joe-biden-texas-mask-mandates/amp/"
-cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/08/18/greg-abbott-joe-biden-texas-mask-mandates/amp/"
+publishedDateTime: 2021-08-19T12:38:00Z
+originalUrl: "https://www.houstonpublicmedia.org/articles/news/politics/2021/08/19/406397/joe-biden-takes-aim-at-states-blocking-mask-mandates-setting-gov-greg-abbott-up-for-showdown-with-feds/"
+webUrl: "https://www.houstonpublicmedia.org/articles/news/politics/2021/08/19/406397/joe-biden-takes-aim-at-states-blocking-mask-mandates-setting-gov-greg-abbott-up-for-showdown-with-feds/"
+ampWebUrl: "https://www.houstonpublicmedia.org/articles/news/politics/2021/08/19/406397/joe-biden-takes-aim-at-states-blocking-mask-mandates-setting-gov-greg-abbott-up-for-showdown-with-feds/amp/"
+cdnAmpWebUrl: "https://www-houstonpublicmedia-org.cdn.ampproject.org/c/s/www.houstonpublicmedia.org/articles/news/politics/2021/08/19/406397/joe-biden-takes-aim-at-states-blocking-mask-mandates-setting-gov-greg-abbott-up-for-showdown-with-feds/amp/"
 type: article
 quality: 58
 heat: -1
 published: false
 
 provider:
-  name: Texas Tribune
-  domain: texastribune.org
+  name: Houston Public Media
+  domain: houstonpublicmedia.org
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://thumbnails.texastribune.org/QCGScGkOdgn7z6M7CjbTbiaZvo4=/1200x630/filters:quality(95)/static.texastribune.org/media/files/0825c12ccde17a1e73e5eb5a698491d2/Biden%20COVID%20REUTERS%20TT.jpg"
-    width: 1200
-    height: 630
+  - url: "https://cdn.hpm.io/wp-content/uploads/2021/08/19073712/AP21230761435558-1000x667.jpg"
+    width: 1000
+    height: 667
     isCached: true
 
 related:
@@ -44,6 +44,6 @@ related:
         height: 266
         isCached: true
 
-secured: "1kKN0AwwjaAzJtj9Nec7WIi5XHxCH3Yk+BsiQtJh1XrUXj+Z8tD6OZx6xvJQD7QRLRY2kRb55hAuAT5QEj+gWNsYlotH6+imvJ5TLtp2BOeGYwcxmC5XwkuQloQipqGoFHelGRujigIU6PUO7Gipac5486GiSOfeb0MM/9X78VN6H7xTsFdnQt4myx/lwn1uOcBj6g2VfwgiDoYcF8LECvNlzrgzFuZLKCrFijLbXCNvtH1Ef6t6HImP9/dcA0VHW/uWVA0E+/t27U6/zEReYISJaLndj++pE9ajJ5Mw60ZUX5i7e2dDUnyQzue8aWVE5NnDjZkGJ0w3jEUcXW8joQXywxTTWaV+FIuLEuiimJJe10q88bIuBOjUXMsQJ1ES63QUT7uGnmvyEimvU5SsbJQQN0Y1f05q1SxxC4v7xfUvJQs5HZmiqHlkuo4QDsBeethIpvkXfSFz7fuxds9kDnaX9R7pHRgnoLsAV8Auej1zCuTW9g9yYGD30uGm7CJZhZxCnOKpSuYC3q3jVdjseA==;RVJIrJXGpUCw+DgEWn5ZAA=="
+secured: "UMvk2/v76Ep3MaEpmPV8rHHuObyKnqDjDid0N6PtgZRFIyZIKyYB+NZDD+VfN1pwiXxyqV5aIEtnhdVpCEvyQ4pcUYjCiaz30H0EOH2QdXPVZ6hoMkOLqHWYdb5AcJHGFhZ6/+SYFRTNWmb9ET0glLViSztUw+ppTOsN4ZQL7ocbQnaPLIbO2AM3tQx+FV3GvDXjHfCOBK43Lq0G7yAQgecbVrgbXGbddWXiNCOUh6Ei7T0sV6v3VsyIhhVVeUrX2c37hzAkJOGnyr2cuD3AUVsKVDf1mV7E/WzhVinlB+O4ZrYhPsePp2egbwxaSQRbJgzuFc9IM2rKN+Y4TjAQaOnqTsIzQHlj+EXc5BPxMpk=;KDSWeVyt5gbpHuxFG8ifNQ=="
 ---
 

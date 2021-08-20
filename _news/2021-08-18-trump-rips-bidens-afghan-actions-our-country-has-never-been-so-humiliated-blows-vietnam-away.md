@@ -778,6 +778,17 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Joe Biden has always been a disaster on foreign policy"
+    excerpt: "President Joe Biden campaigned in 2020 on his supposed foreign policy chops, promising everyone he’d usher in a new, golden era of competent and effective U.S. diplomacy."
+    publishedDateTime: 2021-08-20T00:27:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/joe-biden-has-always-been-a-disaster-on-foreign-policy"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/joe-biden-has-always-been-a-disaster-on-foreign-policy?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/joe-biden-has-always-been-a-disaster-on-foreign-policy?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
   - title: "Biden Making a Major Mistake on Afghanistan"
     excerpt: "David A. Andelman writes that President Joe Biden should not be setting a date for withdrawal of US troops from Afghanistan since the reason the US first entered the country -- to address a major terrorist threat -- has not been fully addressed."
     publishedDateTime: 2021-04-14T11:37:00Z
