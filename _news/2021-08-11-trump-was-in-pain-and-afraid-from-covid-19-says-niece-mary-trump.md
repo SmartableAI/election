@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/changing-america/well-being/mental-health/567303
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/mental-health/567303-trump-was-in-pain-and-afraid-from-covid-19-says?amp"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/10/donald-trump-returned-to-the-white-house-on.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Donald Trump Is Personally Responsible for Hundreds of Thousands of COVID Deaths"
+    excerpt: "As emergency rooms once again overflow with Covid patients and hospital systems in several areas near their breaking point, I cannot help but think about blame. There is plenty to go around, beginning with elected officials at every level and going right up to god."
+    publishedDateTime: 2021-08-17T16:25:00Z
+    webUrl: "https://inthesetimes.com/article/donald-trump-covid-pandemic-deaths-masks-vaccines"
+    type: article
+    provider:
+      name: In These Times
+      domain: inthesetimes.com
+    quality: 50
+    images:
+      - url: "https://s3.us-east-1.amazonaws.com/in-these-times/_1200x630_crop_center-center_82_none/GettyImages-1278688238.jpg?mtime=1629216161"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Lil Wayne on planning a festival during COVID, DaBaby's troubles and that meeting with Trump"
     excerpt: "Lil Wayne admits it’s been a rough couple of weeks in the Carter household for sports fandom. First, the 38-year-old rapper, born Dwayne Michael Carter Jr., watched in courtside agony as his good pal Chris Paul’s Phoenix Suns lost in the NBA Finals to the Milwaukee Bucks."

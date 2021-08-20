@@ -375,6 +375,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden’s Perfect Foreign Policy Storm"
+    excerpt: "COVID is raging, the Taliban are back, and the planet is on fire — an ideal opportunity for the U.S. to change the way it acts."
+    publishedDateTime: 2021-08-19T20:00:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/08/joe-bidens-perfect-foreign-policy-storm.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/08/joe-bidens-perfect-foreign-policy-storm.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/08/joe-bidens-perfect-foreign-policy-storm.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/dff/26a/42450a6c3faf8e42d336cb313387100979-tunisia.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "President Joe Biden orders 1,000 more troops to aid Afghanistan departure"
     excerpt: "President Joe Biden authorized on Saturday an additional 1,000 U.S. troops for deployment to Afghanistan, raising to roughly 5,000 the number of U.S. troops to ensure what Biden called an “orderly and safe drawdown” of American and allied personnel."
     publishedDateTime: 2021-08-14T22:53:00Z
@@ -529,6 +545,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Joe Biden Afghanistan crisis: Donald Trump makes similar statement to POTUS about Afghan army"
+    excerpt: "The administration of US President Joe Biden is facing a lot of pressure and criticism over the Afghanistan withdrawal that began with the deal made under his predecessor Donald Trump. In a recent interview,"
+    publishedDateTime: 2021-08-19T06:26:00Z
+    webUrl: "https://www.econotimes.com/Joe-Biden-Afghanistan-crisis-Donald-Trump-makes-similar-statement-to-POTUS-about-Afghan-army-1615380"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 59
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/2021081919cab15d469f1dcdd_th_1024x0.jpg"
+        width: 800
+        height: 534
+        isCached: true
   - title: "Senate votes to advance Biden’s $1T infrastructure bill"
     excerpt: "Senators have convened for a second consecutive weekend session on the bipartisan infrastructure bill as they edge toward a vote."
     publishedDateTime: 2021-08-08T14:24:00Z
@@ -660,6 +690,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "The Case Against Prosecuting Donald Trump"
+    excerpt: "Jeffrey Toobin writes that Attorney General Merrick Garland should not seek criminal prosecution of former President Donald Trump.\"It's one thing to describe the former president's behavior as disgrac"
+    publishedDateTime: 2021-08-17T18:48:00Z
+    webUrl: "https://politicalwire.com/2021/08/17/the-case-against-prosecuting-donald-trump/"
+    type: article
+    provider:
+      name: Political Wire
+      domain: politicalwire.com
+    quality: 55
+    images:
+      - url: "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg"
+        width: 1400
+        height: 1400
+        isCached: true
   - title: "President Biden Tells U.S. Olympic Squad It 'Restored The Soul Of America'"
     excerpt: "The president praised Team USA athletes for their \"moral courage\" during a Zoom call on Saturday, with special shoutouts to gymnast Simone Biles and swimmer Katie Ledecky."
     publishedDateTime: 2021-08-08T23:39:00Z
@@ -673,6 +717,20 @@ related:
       - url: "https://media.npr.org/assets/img/2021/08/08/gettyimages-1234491481-085b93524935d80a972e93d0d98e909365bdfeae.jpg?s=6"
         width: 948
         height: 711
+        isCached: true
+  - title: "Donald Trump Jr. Received Swift Comeuppance After He Gloated About The Fall Of Afghanistan On Biden’s Watch"
+    excerpt: "People were quick to remind Donald Trump Jr. who did the dealmaking in Afghanistan that led to the Fall of Kabul."
+    publishedDateTime: 2021-08-16T14:05:00Z
+    webUrl: "https://uproxx.com/viral/donald-trump-jr-afghanistan/"
+    type: article
+    provider:
+      name: Uproxx
+      domain: uproxx.com
+    quality: 52
+    images:
+      - url: "https://uproxx.com/wp-content/uploads/2021/01/don-jr-feat.jpg?w=710"
+        width: 710
+        height: 400
         isCached: true
   - title: "Joe Biden threatens legal action against governors blocking school mask mandates"
     excerpt: "President Joe Biden says he has ordered his administration to curb bans against mask mandates, even pursuing legal action if necessary. Gov. Ron DeSantis and the Florida Department of Health have issued rules against mask mandates in public schools amid the state’s fourth COVID-19 surge."

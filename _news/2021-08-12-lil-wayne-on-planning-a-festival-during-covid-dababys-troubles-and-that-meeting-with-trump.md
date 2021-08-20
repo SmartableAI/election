@@ -73,6 +73,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Donald Trump Is Personally Responsible for Hundreds of Thousands of COVID Deaths"
+    excerpt: "As emergency rooms once again overflow with Covid patients and hospital systems in several areas near their breaking point, I cannot help but think about blame. There is plenty to go around, beginning with elected officials at every level and going right up to god."
+    publishedDateTime: 2021-08-17T16:25:00Z
+    webUrl: "https://inthesetimes.com/article/donald-trump-covid-pandemic-deaths-masks-vaccines"
+    type: article
+    provider:
+      name: In These Times
+      domain: inthesetimes.com
+    quality: 50
+    images:
+      - url: "https://s3.us-east-1.amazonaws.com/in-these-times/_1200x630_crop_center-center_82_none/GettyImages-1278688238.jpg?mtime=1629216161"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "U.S. Settles Scientist's Whistleblower Complaint About Trump COVID-19 Response"
     excerpt: "The U.S. government has agreed to compensate a scientist who filed a whistleblower complaint that said former President Donald Trump's administration botched its early response to the coronavirus pandemic,"
     publishedDateTime: 2021-08-09T19:26:00Z

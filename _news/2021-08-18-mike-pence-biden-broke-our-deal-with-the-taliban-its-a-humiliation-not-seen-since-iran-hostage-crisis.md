@@ -490,6 +490,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Mark Levin: Where Is Joe Biden Right Now? Harris? Generals? Mattis? John Kelly?"
+    excerpt: "Mark Levin on President Joe Biden's absence while Afghanistan: \"I have another question, who's running running this government? Joe Biden said to Camp David most of the time, he doesn't take a single question or make himself available today."
+    publishedDateTime: 2021-08-19T18:19:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/08/19/mark_levin_where_is_joe_biden_right_now_harris_generals_mattis_john_kelly.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 86
+    images:
+      - url: "https://assets.realclear.com/images/55/551209.png"
+        width: 500
+        height: 375
+        isCached: true
   - title: "Radical Nation: Biden & Harris's Dangerous Plan for America"
     excerpt: "The following is an exclusive excerpt from Sean Spicer's new book, Radical Nation: Joe Biden & Kamala Harris's Dangerous Plan for America, available on October 26. Read Full Artic"
     publishedDateTime: 2021-08-10T18:46:00Z
@@ -556,6 +570,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "xsfmxYoLwYeIaLrhcRrvNAe3QAUN8A8mdqfpEas4bpzltMWtgQhMS533zH+wDLrcjYPaNM/7zu0tANsEB/y0P8aczVZN4uH3Ztkmltv5t/d5JkJ3HZzfWGw8fZ47gGf6Z5lz7DcKIrin8Ee5UNM3yFWY6aKd0EI8dfa8SyWjsQLqW2+FmzmPNGpu897xqN24Kva+hLSt4dhjzoabo1W6vx1W3SnDrUBcl/Gn9QoU2u4nvx9czmRDgzPu4io4YKKd1dmYzrqNxicL4OqwFWuh4qeDw7cNQ8i7vBpn662MLbjZzPQ4Lj1cl8oQNdfPAR0Bps+G7fruc8Ha7V8cRAseMz5vXpMx1DX/A45CnBwWD30=;7WaTlmQjcwbb1X5Fp7elFA=="
+secured: "pu2SPwE7Aiz8iZykJl55X1BtbwOIg2sExOJ7/OHBu5srmp0uabFcNMON0r67oR4I4g3FJmRW7CwRtxXhyjnC8QSH80JjO8LgES+2i5iMmS4luHVZyu7PJ00pSSj1Mv1woC2zuT1u7coevaUDmlEHPix5SCbSwuX7dUJsMgiRrUsrhXYit0KUId25B9WMzj5FbHULsvPaPCSowPzlwYclqC4nvAkis2ZGaAPQKNNRg1ux/0MZSEp7YnT/iNq5ybUnpi74DKYso/ZKJ/KOuwSu5I9CvBolZ4uPYhlD8mx287L4LMlhvNTjL3Ial8YLW+JdelT2E9WwhM1Ed76TuJIA9w44Ea7UHTNfQXXxCSeL6/KA72KnxCCyx7E3v+xVLxSoNk5gksMiHFLGH4slOL/ELr8AmnqquF7mfoaJigpMbUnLdGft5jLSUOIX+2P8PzF93eOQNbXdb9bIf0AC2dHTHgJm95UjOljyFa6e5JQFlBv8/bdwSnOkNgjNPrZ39g3aKRmXd+Sny91nFAKXqXId9Q==;XkXB7puJCqMjAuGMhdWh3w=="
 ---
 

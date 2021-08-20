@@ -239,6 +239,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Former Trump official says US 'pulled the rug out from under the Afghans'"
+    excerpt: "A former Trump administration official said Thursday evening that the Biden administration's decision to stick with the US' 2020 agreement with the Taliban is \"why we are where we are now\" and that the US has \"literally pulled the rug out from under the Afghans.\"\n    \n"
+    publishedDateTime: 2021-08-20T03:05:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ocb8chhv1ds/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/afghanistan-biden-trump-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/afghanistan-biden-trump-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210819153621-02-afghanistan-0819-kabul-taliban-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden spoke with Obama and Bush ahead of Afghanistan withdrawal announcement"
     excerpt: "Former President Barack Obama on Wednesday praised President Joe Biden's \"bold leadership\" for his decision to withdraw all US troops from Afghanistan by September 11, saying that \"it is time to recognize that we have accomplished all that we can militarily\" in America's longest war.\n    \n"
     publishedDateTime: 2021-04-15T02:37:32Z
@@ -319,6 +335,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How the Biden administration plans to process the influx of people fleeing Afghanistan"
+    excerpt: "The Biden administration is ramping up efforts to process the influx of Afghans rushing to flee Afghanistan as the Taliban overtakes the country.\n    \n"
+    publishedDateTime: 2021-08-20T00:51:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TrfY_2RIoVU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/afghanistan-siv-processing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/afghanistan-siv-processing/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210819174643-02-afghanistan-siv-processing-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "US holding direct and daily talks with Taliban in effort to ease Biden's Afghanistan crisis"
+    excerpt: "While the US State Department continues to engage in high-level diplomatic talks with the Taliban in the neutral setting of Doha, Qatar, as it has for the past year, the real negotiations have moved to the chaotic streets of Kabul in recent days, where American military commanders are in constant communication"
+    publishedDateTime: 2021-08-20T01:34:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZK2kKfvQbtY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/taliban-talks-salvage-afghanistan-crisis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/taliban-talks-salvage-afghanistan-crisis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210819151250-01-afghanistan-women-taliban-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "As White House scrambles on Afghanistan, Biden faces some of most dire days of his presidency"
     excerpt: "Two photographs of President Joe Biden this week neatly illustrated the White House's fight to contain the fallout of the biggest crisis of his presidency.\n    \n"
     publishedDateTime: 2021-08-19T23:23:19Z
@@ -380,6 +428,22 @@ related:
     quality: 162
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210817084902-32-taliban-afghanistan-unf-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "As White House scrambles on Afghanistan, Biden faces some of the most dire days of his presidency"
+    excerpt: "Two photographs of President Joe Biden this week neatly illustrated the White House's fight to contain the fallout of the biggest crisis of his presidency.\n    \n"
+    publishedDateTime: 2021-08-20T00:21:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3jKoHTjvJGU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/joe-biden-afghanistan-dire-days-of-presidency/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/joe-biden-afghanistan-dire-days-of-presidency/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210819174626-01-afghanistan-siv-processing-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -45,22 +45,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Panic attack: Democrats fear Trump"
-    excerpt: "Former President Donald Trump still holds sway over the political marketplace and the Democrats know that. They’re nervous about it, even paranoid. Mr. Trump’s been out of office for almost seven months — and in no way took the typical route of most former presidents who linger on the sidelines and write a book."
-    publishedDateTime: 2021-08-08T20:38:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/aug/8/inside-beltway-panic-attack-democrats-fear-trump/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/8/inside-beltway-panic-attack-democrats-fear-trump/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/8/inside-beltway-panic-attack-democrats-fear-trump/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/08/08/BELTWAY_Election_2021_Trump_Ohio_59092.jpg-6c212_c0-150-3600-2250_s1200x700.jpg?187bc123cc4510feb7f1966081317bdd024739c4"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "Why Andrew Cuomo's job is more vulnerable to scandal than Donald Trump's was"
     excerpt: "Andrew Cuomo. Cuomo went from being talked about as a potential presidential candidate in the spring of 2020 – thanks in large part to his handling of the COVID-19 pandemic in New York state – to media ridicule and possible state senate impeachment now,"
     publishedDateTime: 2021-08-07T00:05:00Z

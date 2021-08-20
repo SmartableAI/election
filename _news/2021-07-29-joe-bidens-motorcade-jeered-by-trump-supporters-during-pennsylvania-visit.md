@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters-pennsylvania-1614258?amp=1"
 type: article
 quality: 148
-heat: 628
+heat: 648
 published: true
 
 provider:
@@ -111,6 +111,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/0433e6538ffb27b06647f179a2363e56cccc5b60/0_267_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=46e33120c346f6ccbfc7515f6a2b01e4"
         width: 600
         height: 360
+        isCached: true
+  - title: "Fact Check: Does Donald Trump Want His Supporters to Carry 'Trump Cards'?"
+    excerpt: "The Claim Images of designs for an \"Official Trump Card,\" intended to be carried by supporters of former President Donald Trump, have been shared widely on social media. Memes related to these and ..."
+    publishedDateTime: 2021-08-05T08:23:00Z
+    webUrl: "https://www.newsweek.com/fact-check-donald-trump-supporters-carry-trump-cards-1616443"
+    ampWebUrl: "https://www.newsweek.com/fact-check-donald-trump-supporters-carry-trump-cards-1616443?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-donald-trump-supporters-carry-trump-cards-1616443?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1863266/donald-trump-official-supporter-cards.png"
+        width: 905
+        height: 603
         isCached: true
   - title: "Biden attacks Trump at Virginia rally, tying McAuliffe’s opponent to ex-president"
     excerpt: "After mostly avoiding direct attacks on Trump, Biden says Friday he “whipped Donald Trump in Virginia” and so will McAuliffe, highlighting a key strategy for Democratic candidates: linking opponents to Trump."

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-11-china-hawk-mike-gallagher-bridges-gops-establishment-trump-wings.md",
+      "title": "China hawk Mike Gallagher bridges GOP’s establishment, Trump wings",
+      "excerpt": "Mike Gallagher never intended to be in Washington for the long haul. Since being elected in 2016, the Wisconsin Republican has advocated for congressional reforms such as term limits and lobbying restrictions for officeholders.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2021/aug/10/china-hawk-gallagher-bridges-gops-establishment-tr/",
+      "originalUrl": "https://www.washingtontimes.com/news/2021/aug/10/china-hawk-gallagher-bridges-gops-establishment-tr/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2020/07/11/wisconsin_republicans_99295_c0-99-3045-1875_s1200x700.jpg?6dd222043ace9bd30a2cfe94c2947fd8a83f4703",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.washingtontimes.com/news/2021/aug/10/china-hawk-gallagher-bridges-gops-establishment-tr/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/10/china-hawk-gallagher-bridges-gops-establishment-tr/",
+      "publishedDateTime": "2021-08-10T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-trump-cant-say-hasta-la-vista-to-celebrity-apprentice.md",
       "title": "Trump can’t say ‘Hasta la vista’ to ‘Celebrity Apprentice’",
       "excerpt": "President Donald Trump can't seem to bring himself to say \"Hasta la vista, baby\" to \"Celebrity Apprentice.\" Twice in the past month, Trump, who once hosted the NBC reality TV show, has taken pot shots at the current host,",
@@ -539,7 +582,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/cuomo-jams-democrats-trump-playbook-note/story?id=79245633",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -686,7 +729,7 @@
       "originalUrl": "https://www.houstonchronicle.com/news/houston-texas/texas/article/pro-trump-flag-texas-rangers-game-ejected-16360984.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -730,21 +773,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-03-19-ags-to-epa-roll-back-trumps-clean-water-rule-asap.md",
-      "title": "19 AGs to EPA: Roll back Trump's clean-water rule ASAP",
-      "excerpt": "A coalition of 19 attorneys general led by California, Washington and New York urged the Environmental Protection Agency in a letter to repeal a Trump-era rule that they say curtails their authority to deny permits for projects that could harm their waterways.",
+      "path": "_news/2021-08-03-a-trump-bombshell-quietly-dropped-last-week-and-it-should-shock-us-all.md",
+      "title": "A Trump bombshell quietly dropped last week. And it should shock us all",
+      "excerpt": "By all accounts, he is running for president again in 2024. Donald Trump’s proto-fascism poses the largest internal threat to American democracy since the civil war. What to do about it?",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/legal/litigation/19-ags-epa-roll-back-trumps-clean-water-rule-asap-2021-08-03/",
-      "originalUrl": "https://www.reuters.com/legal/litigation/19-ags-epa-roll-back-trumps-clean-water-rule-asap-2021-08-03/",
+      "webUrl": "https://www.theguardian.com/commentisfree/2021/aug/03/donald-trump-memo-election-corrupt-justice-department",
+      "originalUrl": "https://www.theguardian.com/commentisfree/2021/aug/03/donald-trump-memo-election-corrupt-justice-department",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 265,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/resizer/lFcl35QjaJ9jyIN8G7bzyKTXK3k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HFYJIIZSIJLHPKI645TG52YCPI.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://i.guim.co.uk/img/media/d2d5a649ce41f4ca8f6966c51cd98f587d11de8a/0_156_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9f3928ea47de4072c77e7a4f4c1dd1c9",
+          "width": 600,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -752,16 +795,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T09:43:00-07:00",
+      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2021/aug/03/donald-trump-memo-election-corrupt-justice-department",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2021/aug/03/donald-trump-memo-election-corrupt-justice-department",
+      "publishedDateTime": "2021-08-03T03:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "The Guardian",
+        "domain": "theguardian.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -769,49 +812,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-trump-stokes-anti-muslim-sentiment-censured-in-us-abroad.md",
-      "title": "Trump stokes anti-Muslim sentiment; censured in US, abroad",
-      "excerpt": "Stoking the same anti-Islam sentiments he fanned on the campaign trail, President Donald Trump on Wednesday retweeted a string of inflammatory videos from a fringe British political group purporting to show violence being committed by Muslims.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/technology-government-and-politics-europe-migration-united-states-government-32dbf5643327442eab350bd87ff57242",
-      "originalUrl": "https://apnews.com/article/technology-government-and-politics-europe-migration-united-states-government-32dbf5643327442eab350bd87ff57242",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/afs-prod/media/9c3f605796f649369323fe2c0c54acc4/3000.jpeg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-02T19:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -833,7 +833,7 @@
       "originalUrl": "https://www.newsweek.com/ex-illinois-governor-who-trump-freed-jail-files-lawsuit-run-office-again-1615491",
       "featuredContent": null,
       "highlight": null,
-      "heat": 217,
+      "heat": 197,
       "tags": null,
       "images": [
         {

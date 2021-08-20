@@ -43,22 +43,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "Texas audit proposed by GOP would miss minor but real errors that still wouldn't impact Trump's loss"
-    excerpt: "A group of Texas Republicans wants to audit the 2020 election results in just the large, mostly Democratic counties across the state. If they get their way, they'll miss many of the real — but minor — errors in the state's vote count."
-    publishedDateTime: 2021-08-02T15:09:00Z
-    webUrl: "https://www.chron.com/politics/article/Texas-Election-Discrepancies-16357439.php"
-    ampWebUrl: "https://www.chron.com/politics/amp/Texas-Election-Discrepancies-16357439.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/politics/amp/Texas-Election-Discrepancies-16357439.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 60
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
 
 secured: "bPSgpUncE2hRbW2JMBAdjiBQ6dD876Eoi3cn/r5QtbnqQluvZJ6KU6umNKybdkb2ZsjVBmpfMDOVrBt7ztkyJMFQfp85HECQS7Snwwucoq+gWP6Zc1n3KGQgHEgyfbpRTqolupqv9QESUq/ZibOCRce2/0m7slaBca8G64+raC1a2+gxb+I0XaLPj9C947ggstHvjm9/gyjfD9aecQDAO7a/gR91OZALm9NvM/ALYRe4FPZGfL3rHO3dKQMn6QDSIfgWMis12cc+nH8dw7G/VxN82OFjm5B1IDZi70cm6GvEl3FJoRC20nnWN0u/DZLrSWGqkAemGiOsgYUFQS2BNKf1Ti5sbncchWWQwdw7TEoIoX6BLvCy9JoIy7EcDYyUY5fhBC35J1kR0FDU2AiDkj9Lz492/VxPUIUIZUM6Qlak1hSooIjUxehe4PLjS+MGjPFIo3f7EhProKKSK0vGObdk4IPZpH1ZNWU0jb3RMu9oL8qE7AINzla3sGRsTgaTZImK/VkCIdJbx+ofjCS9nA==;rVczOAN3kxywNsdXRC5LOQ=="
 ---

@@ -8,7 +8,7 @@ webUrl: "https://www.newsweek.com/joe-biden-approval-rating-slumps-again-still-h
 ampWebUrl: "https://www.newsweek.com/joe-biden-approval-rating-slumps-again-still-higher-donald-trump-1621013?amp=1"
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-approval-rating-slumps-again-still-higher-donald-trump-1621013?amp=1"
 type: article
-quality: 138
+quality: 148
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://d.newsweek.com/en/full/1874817/president-joe-biden-delivers-remarks-covid-19.jpg"
@@ -2211,6 +2212,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GZPDBGYIWNBH3BLQX4LOLG5CJA.jpg"
         width: 5297
         height: 3531
+        isCached: true
+  - title: "Was Biden handcuffed by Trump’s Taliban deal in Doha?"
+    excerpt: "President Joe Biden is pointing to an agreement signed by President Donald Trump’s administration in Doha, Qatar, as he tries to deflect blame for the Taliban overrunning Afghanistan in a blitz. He says it bound him to withdraw U."
+    publishedDateTime: 2021-08-20T03:04:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/aug/19/was-biden-handcuffed-by-trumps-taliban-deal-in-doh/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/aug/19/was-biden-handcuffed-by-trumps-taliban-deal-in-doh/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/aug/19/was-biden-handcuffed-by-trumps-taliban-deal-in-doh/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 90
+    images:
+      - url: "https://thumb.spokesman.com/WXx_1aLHiLZRb3uzzlOpksgGyd0=/480x0/media.spokesman.com/photos/2021/08/19/611ea0fd0f7c6.hires.jpg"
+        width: 480
+        height: 320
         isCached: true
   - title: "Biden administration considers reinstating car regulations slashed by Trump"
     excerpt: "The National Highway Administration is considering reinstating regulations slashed in the last days of the Trump administration."

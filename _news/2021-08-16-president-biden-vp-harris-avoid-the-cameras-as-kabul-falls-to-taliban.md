@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/president-biden-vp-harris-avoid-the
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-biden-vp-harris-avoid-the-cameras-as-kabul-falls.amp"
 type: article
 quality: 200
-heat: 880
+heat: 900
 published: true
 
 provider:
@@ -489,6 +489,20 @@ related:
       - url: "http://m.wsj.net/video/20210818/081821opvidwl/081821opvidwl_1280x720.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Mark Levin: Where Is Joe Biden Right Now? Harris? Generals? Mattis? John Kelly?"
+    excerpt: "Mark Levin on President Joe Biden's absence while Afghanistan: \"I have another question, who's running running this government? Joe Biden said to Camp David most of the time, he doesn't take a single question or make himself available today."
+    publishedDateTime: 2021-08-19T18:19:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/08/19/mark_levin_where_is_joe_biden_right_now_harris_generals_mattis_john_kelly.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 86
+    images:
+      - url: "https://assets.realclear.com/images/55/551209.png"
+        width: 500
+        height: 375
         isCached: true
   - title: "Radical Nation: Biden & Harris's Dangerous Plan for America"
     excerpt: "The following is an exclusive excerpt from Sean Spicer's new book, Radical Nation: Joe Biden & Kamala Harris's Dangerous Plan for America, available on October 26. Read Full Artic"

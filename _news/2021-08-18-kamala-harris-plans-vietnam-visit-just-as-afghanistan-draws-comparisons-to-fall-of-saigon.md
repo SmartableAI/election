@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-vietnam-afghanistan-c
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-vietnam-afghanistan-comparisons-fall-of-saigon.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "LA Times: Kamala Harris ‘owns’ Afghanistan policy after touting her role in withdrawal decision"
+    excerpt: "Vice President Kamala Harris \"owns\" the execution of America's withdrawal from Afghanistan following her touting the role she played in President Joe Biden's decision, The Los Angeles Times reported Wednesday."
+    publishedDateTime: 2021-08-19T20:23:00Z
+    webUrl: "https://www.foxnews.com/media/los-angeles-times-vice-president-kamala-harris-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/media/los-angeles-times-vice-president-kamala-harris-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/los-angeles-times-vice-president-kamala-harris-afghanistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b3659956-ec32-48a6-9338-92fbfdfe45c3/4a58742e-936c-4934-9287-58a550f22749/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "pNF0dVRR7BwrNrPwQWGQVy4YV7vCsZKrvWVn09ps/+T5e7BxCLorSU8p3wLc1+2JAtnwAI53BM+m+7GwrBQdhd3U+tb7IZi6eWDBlyDtygZ/IvfPuVNqfC7+YDIZgF6PCbKJCJdxTvbv/vVJLwIePSoXB6dTp7PypOIL1i9uTeX0VVdTioORFokqqJwCYdDMMHCnhOe7Zh62d6zXylA5CSeT/MyC93jALoCa2JKeJwvxZV1Doai+Xi90+gEsOlTv4Be6388lzjIoB+QwZOWeI7Nx7/i6ifTWloKUx2WRkPUZ+zfFDY0gMDFaKY61JFeEAn7cJFUQSvQNShc01DlcSmrjmCyh4dvfvBCPSoUWrgM=;sTFL495iKrPlJ2DCQNn1dg=="
 ---

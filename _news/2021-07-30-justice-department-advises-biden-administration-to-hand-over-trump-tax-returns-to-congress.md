@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/biden-justice-department
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-justice-department-olc-trump-tax-returns-house/index.html"
 type: article
 quality: 180
-heat: 1180
+heat: 1200
 published: true
 
 provider:
@@ -702,6 +702,22 @@ related:
       - url: "https://static.politico.com/9b/6f/ed3e9fde471391260bd15bb13a01/20210727-jan6selectcommittee-getty-773.jpg"
         width: 1161
         height: 773
+        isCached: true
+  - title: "How Strong Is Trump’s Grip on the G.O.P.?"
+    excerpt: "This was a week of setbacks for Donald Trump in his attempt to maintain a firm hold on the Republican Party till 2024 and beyond. In Texas, one of his endorsed candidates lost a special election ..."
+    publishedDateTime: 2021-07-31T18:30:00Z
+    webUrl: "https://www.nytimes.com/2021/07/31/opinion/sunday/donald-trump-2024.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/31/opinion/sunday/donald-trump-2024.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/31/opinion/sunday/donald-trump-2024.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/08/01/opinion/sunday/31douthat-lead/31douthat-lead-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Trump plans to fight the release of his tax returns to Congress."
     excerpt: "Trump plans to fight the release of his tax returns to Congress, a lawyer for Mr. Trump said on Monday. The comments from the lawyer, Ronald P. Fischetti, came days after a legal opinion was issued by the Justice Department that said that the Treasury Department must turn over six years of the former president’s tax returns to congressional investigators."

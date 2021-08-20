@@ -201,22 +201,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 85
-  - title: "Man sentenced for shooting Black girl at Iowa Trump rally"
-    excerpt: "A 26-year-old supporter of former President Donald Trump has been sentenced to up to 10 years in prison for shooting into a car carrying Black girls after an Iowa Trump rally, injuring a teenager"
-    publishedDateTime: 2021-08-10T04:50:00Z
-    webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-09/man-sentenced-for-shooting-black-girl-at-iowa-trump-rally"
-    ampWebUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-09/man-sentenced-for-shooting-black-girl-at-iowa-trump-rally?_amp=true"
-    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2021-08-09/man-sentenced-for-shooting-black-girl-at-iowa-trump-rally?_amp=true"
-    type: article
-    provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 75
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/dfe408c/2147483647/strip/true/crop/5150x3444+8+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff3%2F73%2Fc52d529a5c7aef00c2b6b68f5f30%2Fe5e0390469b54193a0ae4e33394b6505"
-        width: 320
-        height: 214
-        isCached: true
   - title: "Judge says accounting firm must hand over Trump financial records"
     excerpt: "A federal judge on Wednesday ruled that an accounting firm must hand over some of former President Donald Trump's personal financial records to a House committee investigating him."
     publishedDateTime: 2021-08-11T18:37:00Z
@@ -248,6 +232,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/08/12/NMWD/a0b7d36f-f202-484a-a9a3-1b50399ec91c-Judy_Collins_Photo_by_Brad_Trent.jpg?auto=webp&crop=1872,1053,x0,y720&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Attorney General Merrick Garland, don't prosecute Donald Trump"
+    excerpt: "He pressured his acting attorney general, Jeffrey Rosen, to open an investigation of purported fraud in the vote count in Georgia, even though there was no evidence of such wrongdoing. In one call, Trump apparently directed Rosen to \"just say the election was corrupt,"
+    publishedDateTime: 2021-08-16T19:00:00Z
+    webUrl: "https://www.wthitv.com/content/national/575107882.html"
+    ampWebUrl: "http://www.wthitv.com/templates/AMP?contentID=575107882"
+    cdnAmpWebUrl: "https://www-wthitv-com.cdn.ampproject.org/c/www.wthitv.com/templates/AMP?contentID=575107882"
+    type: article
+    provider:
+      name: WTHI-TV
+      domain: wthitv.com
+    quality: 75
+    images:
+      - url: "http://media.heartlandtv.com/designimages/wthi-story-default-image-640x380.png"
+        width: 640
+        height: 380
         isCached: true
   - title: "Manhattan DA charges Ken Kurson months after being pardoned by Trump"
     excerpt: "Kenneth Kurson, the former editor of the New York Observer, was charged by New York State prosecutors with spying on his former wife, months after being pardoned by then-outgoing President Donald Trump."

@@ -21,20 +21,45 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Trump stokes anti-Muslim sentiment; censured in US, abroad"
-    excerpt: "Stoking the same anti-Islam sentiments he fanned on the campaign trail, President Donald Trump on Wednesday retweeted a string of inflammatory videos from a fringe British political group purporting to show violence being committed by Muslims."
-    publishedDateTime: 2021-08-03T02:27:00Z
-    webUrl: "https://apnews.com/article/technology-government-and-politics-europe-migration-united-states-government-32dbf5643327442eab350bd87ff57242"
+  - title: "Charlie Kirk’s pro-Trump youth group stokes vaccine resistance as covid surges again"
+    excerpt: "Charlie Kirk’s Turning Point USA and its affiliates are urging students to resist mandates and spreading baseless claims about “medical raids,” part of a bid for donations."
+    publishedDateTime: 2021-07-29T13:41:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/07/29/vaccine-mandates-charlie-kirk-tpusa/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 105
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 98
     images:
-      - url: "https://storage.googleapis.com/afs-prod/media/9c3f605796f649369323fe2c0c54acc4/3000.jpeg"
-        width: 3000
-        height: 2000
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TIVJHDHUOYI6VN4WFXIJSYTETQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
+  - title: "CDC extents Trump-era policy expelling migrants over COVID-19 fears"
+    excerpt: "The Biden administration has extended a Trump-era policy that allows border officials to expel migrants entering the United States due to COVID-19 fears."
+    publishedDateTime: 2021-08-03T09:56:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/08/03/Centers-for-Disease-Control-and-Prevent-extend-Title-42-to-expel-migrants-due-to-COVID-19-pandemic/6411627980154/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/08/03/Centers-for-Disease-Control-and-Prevent-extend-Title-42-to-expel-migrants-due-to-COVID-19-pandemic/6411627980154/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/03/Centers-for-Disease-Control-and-Prevent-extend-Title-42-to-expel-migrants-due-to-COVID-19-pandemic/6411627980154/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/6411627980154/2021/1/921233e611540bc932a2d3593bd47559/v1.5/CDC-extends-Trump-era-policy-expelling-migrants-over-COVID-19-fears.jpg"
+        width: 800
+        height: 532
+        isCached: true
+  - title: "Beshear Uses Ex-Trump Official's Words in Urging COVID Shots"
+    excerpt: "Kentucky’s Democratic governor is highlighting a warning from a Trump administration health official in urging people to get the COVID-19 vaccine."
+    publishedDateTime: 2021-07-22T19:04:00Z
+    webUrl: "https://www.usnews.com/news/best-states/kentucky/articles/2021-07-22/beshear-uses-ex-trump-officials-words-in-urging-covid-shots"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "p7BwaYP1ATah2NaEvB1IFctMKSphbunIiblq24FQC1tEWBCBAsPJWZqrUBKesoi89B0d5H6o6UCY+7+ITo1fiziq7K9sTueS+0cRHM/QHSG5I5vnCvPb3gHnkZNRhw4e21fHm8LXA4aBLKiBIiP+0RRlo119RBT41FxSwcTT9PPlQ0H7AxSLdvgkpoLIhqkRYhq5+pmzvSi3upvc4spROHzhXv07i/s+sG1SCedflo9rS9e4fovsyJ6yj8KpfjUfVO3Z1OgUP3wrCGGNB3ETzxmA12btFc+fnpNFjKJoupK0SV4w2LCpm3qhEKsKMoYRSepQ+RC9vE4GiXrD5VjvDLeB1hHU0ogBOgkj61KIg32r8HAQxx1QmfhDjvTwFBUQnBoojlMZgZ4FL/BTUvIt01LXqyN5xOFl8Hy26cUwI6Ix7i9syF/xqkKHxs4JDiKPlM6WCafEgOKbY6ItaLu0CvgHbmOrg4vBloK/0ackELckxBi0u5vnjoUYXbjpdbllBDvzU2nYeDyHkDpsbJ6REQ==;ixGB64tgzR/YoQmE6wK1Mg=="
 ---

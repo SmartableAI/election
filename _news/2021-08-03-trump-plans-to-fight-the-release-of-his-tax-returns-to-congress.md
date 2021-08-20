@@ -720,6 +720,22 @@ related:
         width: 1161
         height: 773
         isCached: true
+  - title: "How Strong Is Trump’s Grip on the G.O.P.?"
+    excerpt: "This was a week of setbacks for Donald Trump in his attempt to maintain a firm hold on the Republican Party till 2024 and beyond. In Texas, one of his endorsed candidates lost a special election ..."
+    publishedDateTime: 2021-07-31T18:30:00Z
+    webUrl: "https://www.nytimes.com/2021/07/31/opinion/sunday/donald-trump-2024.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/31/opinion/sunday/donald-trump-2024.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/31/opinion/sunday/donald-trump-2024.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/08/01/opinion/sunday/31douthat-lead/31douthat-lead-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "The Exodus of Expertise Under Trump"
     excerpt: "Hundreds of scientists and policy analysts left the government during the last administration. That’s a problem for President Biden’s climate agenda."
     publishedDateTime: 2021-08-04T16:19:00Z

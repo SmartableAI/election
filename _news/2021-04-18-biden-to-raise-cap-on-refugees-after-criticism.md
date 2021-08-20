@@ -61,6 +61,22 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Joe Biden's Approval Rating Slumps Again, Still Higher Than Donald Trump's"
+    excerpt: "President Joe Biden's approval rating has slumped again in recent days as he has faced criticism for his handling of the situation in Afghanistan and defended his administration's position. The president's approval rating on August 18 stood at 49.3 percent ..."
+    publishedDateTime: 2021-08-19T15:35:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-approval-rating-slumps-again-still-higher-donald-trump-1621013"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-approval-rating-slumps-again-still-higher-donald-trump-1621013?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-approval-rating-slumps-again-still-higher-donald-trump-1621013?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 148
+    images:
+      - url: "https://d.newsweek.com/en/full/1874817/president-joe-biden-delivers-remarks-covid-19.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden allows Trump ban on temporary foreign workers to expire"
     excerpt: "The Democratic president has rolled back some of former President Donald Trump’s immigration policies since taking office on Jan. 20 including last month revoking a proclamation that had blocked many immigrant visa applicants from entering the United States."
     publishedDateTime: 2021-04-02T02:51:00Z
@@ -636,22 +652,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1871451/liz-cheney.jpg"
         width: 2500
         height: 1799
-        isCached: true
-  - title: "Joe Biden's Approval Rating Slumps Again, Still Higher Than Donald Trump's"
-    excerpt: "President Joe Biden's approval rating has slumped again in recent days as he has faced criticism for his handling of the situation in Afghanistan and defended his administration's position. The president's approval rating on August 18 stood at 49.3 percent ..."
-    publishedDateTime: 2021-08-19T15:35:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-approval-rating-slumps-again-still-higher-donald-trump-1621013"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-approval-rating-slumps-again-still-higher-donald-trump-1621013?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-approval-rating-slumps-again-still-higher-donald-trump-1621013?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 138
-    images:
-      - url: "https://d.newsweek.com/en/full/1874817/president-joe-biden-delivers-remarks-covid-19.jpg"
-        width: 2500
-        height: 1667
         isCached: true
   - title: "How Joe Biden's Executive Orders in First 100 Days Compare to Donald Trump's"
     excerpt: "The executive orders give a snapshot of the differing priorities between the two administrations soon after taking office."
@@ -2211,6 +2211,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GZPDBGYIWNBH3BLQX4LOLG5CJA.jpg"
         width: 5297
         height: 3531
+        isCached: true
+  - title: "Was Biden handcuffed by Trump’s Taliban deal in Doha?"
+    excerpt: "President Joe Biden is pointing to an agreement signed by President Donald Trump’s administration in Doha, Qatar, as he tries to deflect blame for the Taliban overrunning Afghanistan in a blitz. He says it bound him to withdraw U."
+    publishedDateTime: 2021-08-20T03:04:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/aug/19/was-biden-handcuffed-by-trumps-taliban-deal-in-doh/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/aug/19/was-biden-handcuffed-by-trumps-taliban-deal-in-doh/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/aug/19/was-biden-handcuffed-by-trumps-taliban-deal-in-doh/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 90
+    images:
+      - url: "https://thumb.spokesman.com/WXx_1aLHiLZRb3uzzlOpksgGyd0=/480x0/media.spokesman.com/photos/2021/08/19/611ea0fd0f7c6.hires.jpg"
+        width: 480
+        height: 320
         isCached: true
   - title: "Biden administration considers reinstating car regulations slashed by Trump"
     excerpt: "The National Highway Administration is considering reinstating regulations slashed in the last days of the Trump administration."

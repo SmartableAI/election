@@ -41,6 +41,17 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Charlie Kirk’s pro-Trump youth group stokes vaccine resistance as COVID-19 surges again"
+    excerpt: "Groups like Charlie Kirk's pro-Trump Turning Point USA are using anti-vaccine misinformation to stoke fundraising efforts, cashing in by calling the rise of the delta variant a media ploy to re-engage mask and vaccine mandates."
+    publishedDateTime: 2021-07-29T19:20:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/charlie-kirks-pro-trump-youth-group-stokes-vaccine-resistance-as-covid-19-surges-again/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/charlie-kirks-pro-trump-youth-group-stokes-vaccine-resistance-as-covid-19-surges-again/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/charlie-kirks-pro-trump-youth-group-stokes-vaccine-resistance-as-covid-19-surges-again/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 47
   - title: "Beshear Uses Ex-Trump Official's Words in Urging COVID Shots"
     excerpt: "Kentucky’s Democratic governor is highlighting a warning from a Trump administration health official in urging people to get the COVID-19 vaccine."
     publishedDateTime: 2021-07-22T19:04:00Z

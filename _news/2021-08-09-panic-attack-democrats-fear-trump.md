@@ -27,66 +27,105 @@ images:
     isCached: true
 
 related:
-  - title: "Cuomo jams Democrats with Trump playbook: The Note"
-    excerpt: "Gov. Andrew Cuomo is clinging to office by running plays made familiar by former President Trump, mixing indignant denials with what-aboutism and an instinct to fight."
-    publishedDateTime: 2021-08-04T10:05:00Z
-    webUrl: "https://abcnews.go.com/Politics/cuomo-jams-democrats-trump-playbook-note/story?id=79245633"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/cuomo-jams-democrats-trump-playbook-note/story?id=79245633"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/cuomo-jams-democrats-trump-playbook-note/story?id=79245633"
+  - title: "A Trump bombshell quietly dropped last week. And it should shock us all"
+    excerpt: "By all accounts, he is running for president again in 2024. Donald Trump’s proto-fascism poses the largest internal threat to American democracy since the civil war. What to do about it?"
+    publishedDateTime: 2021-08-03T10:20:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2021/aug/03/donald-trump-memo-election-corrupt-justice-department"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2021/aug/03/donald-trump-memo-election-corrupt-justice-department"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2021/aug/03/donald-trump-memo-election-corrupt-justice-department"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/governor-como-gty-jt-210803_1628032388719_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://i.guim.co.uk/img/media/d2d5a649ce41f4ca8f6966c51cd98f587d11de8a/0_156_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9f3928ea47de4072c77e7a4f4c1dd1c9"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Why Andrew Cuomo is more vulnerable to scandal than Donald Trump was"
-    excerpt: "New York Gov. Andrew Cuomo is taking a Trump-like response to misconduct accusations, but Cuomo faces three big obstacles that Trump did not."
-    publishedDateTime: 2021-08-10T16:04:00Z
-    webUrl: "https://www.businessinsider.com/andrew-cuomo-is-more-vulnerable-to-scandal-than-donald-trump-2021-8"
+  - title: "19 AGs to EPA: Roll back Trump's clean-water rule ASAP"
+    excerpt: "A coalition of 19 attorneys general led by California, Washington and New York urged the Environmental Protection Agency in a letter to repeal a Trump-era rule that they say curtails their authority to deny permits for projects that could harm their waterways."
+    publishedDateTime: 2021-08-03T16:43:00Z
+    webUrl: "https://www.reuters.com/legal/litigation/19-ags-epa-roll-back-trumps-clean-water-rule-asap-2021-08-03/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Reuters
+      domain: reuters.com
     quality: 105
     images:
-      - url: "https://i.insider.com/5faf9b0e402d49001924efbc?width=1200&format=jpeg"
+      - url: "https://www.reuters.com/resizer/lFcl35QjaJ9jyIN8G7bzyKTXK3k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HFYJIIZSIJLHPKI645TG52YCPI.jpg"
         width: 1200
-        height: 600
+        height: 628
         isCached: true
-  - title: "Why Andrew Cuomo's job is more vulnerable to scandal than Donald Trump's was"
-    excerpt: "Andrew Cuomo. Cuomo went from being talked about as a potential presidential candidate in the spring of 2020 – thanks in large part to his handling of the COVID-19 pandemic in New York state – to media ridicule and possible state senate impeachment now,"
-    publishedDateTime: 2021-08-07T00:05:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/article/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
-    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
-    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
+  - title: "Trump stokes anti-Muslim sentiment; censured in US, abroad"
+    excerpt: "Stoking the same anti-Islam sentiments he fanned on the campaign trail, President Donald Trump on Wednesday retweeted a string of inflammatory videos from a fringe British political group purporting to show violence being committed by Muslims."
+    publishedDateTime: 2021-08-03T02:27:00Z
+    webUrl: "https://apnews.com/article/technology-government-and-politics-europe-migration-united-states-government-32dbf5643327442eab350bd87ff57242"
     type: article
     provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 72
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/9c3f605796f649369323fe2c0c54acc4/3000.jpeg"
+        width: 3000
+        height: 2000
+        isCached: true
+  - title: "Trump-commuted exec settles $4 mln fraud lawsuit with feds"
+    excerpt: "The former chief executive officer of Tennessee pain management company Comprehensive Pain Specialists has agreed to a permanent exclusion from Medicare and other federal healthcare programs to settle a lawsuit that he submitted false claims to the government for reimbursement."
+    publishedDateTime: 2021-08-03T21:51:00Z
+    webUrl: "https://www.reuters.com/legal/government/trump-commuted-exec-settles-4-mln-fraud-lawsuit-with-feds-2021-08-03/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/eAVCHt0XL4FzEfho4ojVLr7Jzog=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BYEA4NIQOJKIRIEUBUSDAZJW7I.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Man sentenced for shooting Black girl at Iowa Trump rally"
+    excerpt: "A 26-year-old supporter of former President Donald Trump has been sentenced to up to 10 years in prison for shooting into a car carrying Black girls after an Iowa Trump rally, injuring a teenager"
+    publishedDateTime: 2021-08-10T04:50:00Z
+    webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-09/man-sentenced-for-shooting-black-girl-at-iowa-trump-rally"
+    ampWebUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-09/man-sentenced-for-shooting-black-girl-at-iowa-trump-rally?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2021-08-09/man-sentenced-for-shooting-black-girl-at-iowa-trump-rally?_amp=true"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 75
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/dfe408c/2147483647/strip/true/crop/5150x3444+8+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff3%2F73%2Fc52d529a5c7aef00c2b6b68f5f30%2Fe5e0390469b54193a0ae4e33394b6505"
+        width: 320
+        height: 214
+        isCached: true
+  - title: "Texas audit proposed by GOP would miss minor but real errors that still wouldn't impact Trump's loss"
+    excerpt: "A group of Texas Republicans wants to audit the 2020 election results in just the large, mostly Democratic counties across the state. If they get their way, they'll miss many of the real — but minor — errors in the state's vote count."
+    publishedDateTime: 2021-08-02T15:09:00Z
+    webUrl: "https://www.chron.com/politics/article/Texas-Election-Discrepancies-16357439.php"
+    ampWebUrl: "https://www.chron.com/politics/amp/Texas-Election-Discrepancies-16357439.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/politics/amp/Texas-Election-Discrepancies-16357439.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 60
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
         isCached: true
-  - title: "Andrew Cuomo, Donald Trump: How are their sexual harassment accusations different?"
-    excerpt: "\"In the end, neither of these men are fit to hold public office, now or in the future. One has done the right thing. The other? Not so much,\" Ethan Strimling writes."
-    publishedDateTime: 2021-08-12T05:00:00Z
-    webUrl: "https://bangordailynews.com/2021/08/12/opinion/contributors/andrew-cuomo-donald-trump-how-are-their-sexual-harassment-accusations-different/"
+  - title: "Trump push for faster but wasteful dishwashers headed for rinse cycle"
+    excerpt: "President Joe Biden's Energy Department said it planned to reverse the Trump-era changes, which weren't supported by manufacturers."
+    publishedDateTime: 2021-08-04T16:59:00Z
+    webUrl: "https://www.detroitnews.com/story/business/2021/08/04/trump-push-faster-but-wasteful-dishwashers-headed-rinse-cycle-tdn/5484955001/"
     type: article
     provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 49
-    images:
-      - url: "https://i2.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/07/AgreeDisagree-3-1.jpg?fit=2500%2C1521&#038;ssl=1"
-        width: 2500
-        height: 1521
-        isCached: true
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 35
 
 secured: "Iva1Q1MsIR92dv7mhFSm1ddBgEkTGUR/PnoOJiAfXJLP7xSthGmYKpS8o/GIVAidh3nCTjcwumC5Q8hdEgMJwLfAB5oe8hRBAIlUrX9gdhDn3KLiYNY/8SzDDecCj8XkvhrqtslzK65pic3rex8O327Z55J7C6PTdvZGHuOhKS9ZXwQ3QA/SLqdjpUux86aqKEfHJPXxBHJ57G47g+v9XWx0Xy8+7uo2eWfEKW1kowAcBPoxdsX/NuQegb5HO0TeQTVSHhTlM5CjcDPQu0LCm2So/iOwMwKLB/05vNwywPS/6aoho9LvhdS/Y4ZAkDB61tUjnoCKvZteunzM0Z4G2UQsRDR+ksfn/PsltfyuUMA=;PKyZycVgbvKb+h47yWcSKQ=="
 ---

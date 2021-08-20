@@ -500,6 +500,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Mark Levin: Where Is Joe Biden Right Now? Harris? Generals? Mattis? John Kelly?"
+    excerpt: "Mark Levin on President Joe Biden's absence while Afghanistan: \"I have another question, who's running running this government? Joe Biden said to Camp David most of the time, he doesn't take a single question or make himself available today."
+    publishedDateTime: 2021-08-19T18:19:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/08/19/mark_levin_where_is_joe_biden_right_now_harris_generals_mattis_john_kelly.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 86
+    images:
+      - url: "https://assets.realclear.com/images/55/551209.png"
+        width: 500
+        height: 375
+        isCached: true
   - title: "Kamala Harris Utterly Flubbing Her Job as Veep"
     excerpt: "Kamala Harris isn't very good at this. The vice president has never won an election on her own outside of the hothouse of California politics, and it shows. On paper, she was a strong"
     publishedDateTime: 2021-08-09T11:33:00Z
