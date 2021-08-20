@@ -2,6 +2,62 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-06-24-biden-says-he-wont-sign-bipartisan-spending-deal-without-democrats-infrastructure-wish-list.md",
+      "title": "Biden says he won't sign bipartisan spending deal without Democrats' infrastructure wish list",
+      "excerpt": "President Biden on Thursday touted a new major bipartisan spending deal but warned he wouldn't sign the roughly $1 trillion in roads, bridges and broadband investments unless Congress passes a separate bill on human infrastructure filled with Democratic priorities on expanding the social safety net. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LkBkwjoPDhM/biden-bipartisan-spending-deal-democrats-infrastructure-wish-list",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LkBkwjoPDhM/biden-bipartisan-spending-deal-democrats-infrastructure-wish-list",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-bipartisan-spending-deal-democrats-infrastructure-wish-list.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-bipartisan-spending-deal-democrats-infrastructure-wish-list.amp",
+      "publishedDateTime": "2021-06-24T12:48:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-24-biden-crackdown-on-rogue-gun-dealers-unlikely-to-stop-violent-crime.md",
       "title": "Biden crackdown on 'rogue' gun dealers unlikely to stop violent crime",
       "excerpt": "President Biden's pledged crackdown on “rogue” gun dealers is unlikely to put a dent in gun crime, only a tiny minority of which is committed with weapons bought from licensed dealers, according to federal statistics.",
@@ -1570,62 +1626,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/dem-bidens-decision-extend-canadian-border-restrictions.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-bidens-decision-extend-canadian-border-restrictions.amp",
       "publishedDateTime": "2021-06-18T12:09:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-trump-endorses-murkowski-primary-opponent-kelly-tshibaka.md",
-      "title": "Trump endorses Murkowski primary opponent Kelly Tshibaka",
-      "excerpt": "Former President Donald Trump endorsed the primary opponent to Sen. Lisa Murkowski on Friday, declaring his support for Kelly Tshibaka Alaska's former commissioner of administration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v47bFDv9SJQ/trump-endorses-murkowski-primary-opponent-kelly-tshibaka",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v47bFDv9SJQ/trump-endorses-murkowski-primary-opponent-kelly-tshibaka",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-endorses-murkowski-primary-opponent-kelly-tshibaka.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-murkowski-primary-opponent-kelly-tshibaka.amp",
-      "publishedDateTime": "2021-06-18T11:06:10-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

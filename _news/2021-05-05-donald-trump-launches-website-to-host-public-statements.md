@@ -491,6 +491,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Joe Biden Afghanistan Criticism Set to Be Donald Trump Rally Focus"
+    excerpt: "The former president has been vocal in his criticism of his successor amid the unfolding events in Afghanistan."
+    publishedDateTime: 2021-08-20T09:02:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-afghanistan-criticism-donald-trump-rally-focus-1621336"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-afghanistan-criticism-donald-trump-rally-focus-1621336?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-afghanistan-criticism-donald-trump-rally-focus-1621336?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 140
+    images:
+      - url: "https://d.newsweek.com/en/full/1875416/donald-trump-arizona-rally.jpg"
+        width: 2500
+        height: 1665
+        isCached: true
   - title: "Poll: More voters say Biden, not Trump, is responsible for border crisis"
     excerpt: "while 28 percent said former President Trump Donald Trump Biden should look to 'Ostpolitik' to negotiate with autocrats The Memo: Biden's bet on taxes Why some Republicans think vaccine passports ..."
     publishedDateTime: 2021-04-05T18:20:00Z
@@ -2224,22 +2240,6 @@ related:
         width: 5297
         height: 3531
         isCached: true
-  - title: "Was Biden handcuffed by Trump’s Taliban deal in Doha?"
-    excerpt: "President Joe Biden is pointing to an agreement signed by President Donald Trump’s administration in Doha, Qatar, as he tries to deflect blame for the Taliban overrunning Afghanistan in a blitz. He says it bound him to withdraw U."
-    publishedDateTime: 2021-08-20T03:04:00Z
-    webUrl: "https://www.spokesman.com/stories/2021/aug/19/was-biden-handcuffed-by-trumps-taliban-deal-in-doh/"
-    ampWebUrl: "https://www.spokesman.com/stories/2021/aug/19/was-biden-handcuffed-by-trumps-taliban-deal-in-doh/?amp-content=amp"
-    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/aug/19/was-biden-handcuffed-by-trumps-taliban-deal-in-doh/?amp-content=amp"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 90
-    images:
-      - url: "https://thumb.spokesman.com/WXx_1aLHiLZRb3uzzlOpksgGyd0=/480x0/media.spokesman.com/photos/2021/08/19/611ea0fd0f7c6.hires.jpg"
-        width: 480
-        height: 320
-        isCached: true
   - title: "Biden administration considers reinstating car regulations slashed by Trump"
     excerpt: "The National Highway Administration is considering reinstating regulations slashed in the last days of the Trump administration."
     publishedDateTime: 2021-08-18T17:52:00Z
@@ -2574,6 +2574,17 @@ related:
     provider:
       name: Raleigh News & Observer
       domain: newsobserver.com
+    quality: 70
+  - title: "Was Biden handcuffed by Trump’s Taliban deal in Doha?"
+    excerpt: "President Joe Biden and his national security team say the Trump administration tied their hands when it came to the U.S. withdrawal from Afghanistan."
+    publishedDateTime: 2021-08-20T15:57:00Z
+    webUrl: "https://www.centredaily.com/news/politics-government/national-politics/article253598898.html"
+    ampWebUrl: "https://amp.centredaily.com/news/politics-government/national-politics/article253598898.html"
+    cdnAmpWebUrl: "https://amp-centredaily-com.cdn.ampproject.org/c/s/amp.centredaily.com/news/politics-government/national-politics/article253598898.html"
+    type: article
+    provider:
+      name: Centre Daily Times
+      domain: centredaily.com
     quality: 70
   - title: "Eric Trump’s Pants on Fire claim that Joe Biden’s White House doesn’t travel"
     excerpt: "President Joe Biden steps off Air Force One to board Marine One at Andrews Air Force Base, Md., on May 19, 2021, for a trip back to the White House after speaking at the commencement for the U.S. Coast Guard Academy in New London,"

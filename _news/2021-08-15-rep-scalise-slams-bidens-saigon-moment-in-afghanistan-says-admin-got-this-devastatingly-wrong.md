@@ -397,6 +397,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "16 GOP senators urge Biden to use all means necessary to rescue Americans in Afghanistan"
+    excerpt: "Sixteen Republican senators sent a letter to President Biden calling on the president to use all means necessary to rescue Americans and Afghan allies trapped in Afghanistan."
+    publishedDateTime: 2021-08-20T18:29:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DSIJgLyGNw4/gop-senators-urge-biden-rescue-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-senators-urge-biden-rescue-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-urge-biden-rescue-afghanistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9d4fe3b6-be98-4b32-a462-37360bbaa327/525f714a-7d57-4722-a977-c235a6ddc39d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden says he 'respects' Cuomo decision to resign, say disgraced gov did 'a hell of a job'"
     excerpt: "President Biden on Tuesday backed embattled Gov. Andrew Cuomo's decision to resign amid a scathing investigation into sexual harassment allegations while saying the New York governor did “a hell of a job.\""
     publishedDateTime: 2021-08-10T19:46:57Z
@@ -410,6 +426,22 @@ related:
     quality: 165
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden needs to authorize military to save stranded Americans in Afghanistan, Crenshaw says"
+    excerpt: "President Biden must authorize the U.S. military to expand the perimeter around the Kabul airport and save Americans who are, in effect, “hostages of the Taliban,” Sen. Tom Cotton, R-Ark., said in a blistering statement late Thursday."
+    publishedDateTime: 2021-08-20T08:54:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BNI3XmFo6pQ/biden-needs-expand-military-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-needs-expand-military-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-needs-expand-military-afghanistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -461,6 +493,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden will ditch D.C. yet again as Afghanistan crisis rages, en route Delaware Friday afternoon"
+    excerpt: "It's unclear if the president will answer press questions during his remarks Friday"
+    publishedDateTime: 2021-08-20T13:31:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-vVtbAufAsY/biden-leave-dc-wilmington-delaware-afghanistan-address-press-questions"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-leave-dc-wilmington-delaware-afghanistan-address-press-questions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-leave-dc-wilmington-delaware-afghanistan-address-press-questions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden hit with bipartisan criticism over Afghanistan debacle: 'Our dire warnings fell on deaf ears'"
     excerpt: "President Biden is the target of relentless criticism for his handling of the military drawdown from Afghanistan, which has resulted in a swift Taliban takeover of the nation, the abandonment of the American embassy and desperate scenes at the Kabul airport."
     publishedDateTime: 2021-08-17T15:41:32Z
@@ -492,6 +540,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/01160f89-96b3-437b-b1df-04d8d0c28cad/78098fe8-c11f-41a4-b46a-cd33c5efd58d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden finally answers questions about Afghanistan from White House reporters after intense pressure"
+    excerpt: "President Biden avoided answering reporters' questions twice earlier this week"
+    publishedDateTime: 2021-08-20T18:06:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LHEEv7RxtRY/biden-afghanistan-white-house-questions"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-afghanistan-white-house-questions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-afghanistan-white-house-questions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump calls on Biden to ‘resign in disgrace’ over crisis in Afghanistan"
     excerpt: "Former President Donald Trump Sunday called on President Joe Biden to “resign in disgrace” over his handling of the Afghanistan withdrawal and other issues."
@@ -538,6 +602,38 @@ related:
     quality: 160
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Adam Laxalt says it's 'unconscionable' Biden admin didn't secure Bagram prison in Afghanistan pullout"
+    excerpt: "Republican Nevada U.S. Senate candidate and Iraq War veteran Adam Laxalt says that the Biden administration's handling of detainees in the Afghanistan withdrawal was \"unconscionable,\" particularly the fact it failed to secure the prison in Bagram Airfield."
+    publishedDateTime: 2021-08-20T15:00:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PzjQ1flAe20/adam-laxalt-biden-afghanistan-bagram-prison"
+    ampWebUrl: "https://www.foxnews.com/politics/adam-laxalt-biden-afghanistan-bagram-prison.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/adam-laxalt-biden-afghanistan-bagram-prison.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden administration won’t launch Afghanistan airstrikes during evacuations, official tells Fox News"
+    excerpt: "The Biden administration reportedly is considering launching airstrikes against American-made aircraft and other large equipment provided to the Afghan army that has now been seized the Taliban following their capture of the country."
+    publishedDateTime: 2021-08-20T12:19:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZXy9HzYjLjU/biden-administration-wont-launch-afghanistan-airstrikes-during-evacuations"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-wont-launch-afghanistan-airstrikes-during-evacuations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-wont-launch-afghanistan-airstrikes-during-evacuations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-zxjs75c-xl.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -634,6 +730,22 @@ related:
     quality: 156
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden says 'we will get you home' to Americans trapped in Afghanistan exit, but not sure how many still there"
+    excerpt: "President Biden told Americans stuck in Afghanistan that the government will bring them back to the U.S. even as it is not sure how many Americans remain in country now controlled by the Taliban."
+    publishedDateTime: 2021-08-20T19:38:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xc23sHffAl4/biden-we-will-get-you-home-afghanistan-americans-not-sure-number"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-we-will-get-you-home-afghanistan-americans-not-sure-number.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-we-will-get-you-home-afghanistan-americans-not-sure-number.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -744,6 +856,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-afghanistan-humiliating-index.jpg?quality=90&strip=all&w=1024"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Joe Biden’s Afghanistan Challenges Mount After Rough Week"
+    excerpt: "Lawmakers are calling for hearings, and the president has said troops could stay past Aug. 31 if more Americans need to be evacuated."
+    publishedDateTime: 2021-08-20T12:52:00Z
+    webUrl: "https://www.wsj.com/articles/joe-bidens-afghanistan-challenges-mount-after-rough-week-11629467539"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-bidens-afghanistan-challenges-mount-after-rough-week-11629467539"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-afghanistan-challenges-mount-after-rough-week-11629467539"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-388879/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "McCaul: Biden will have ‘blood on his hands’ over Afghanistan withdrawal"
     excerpt: "The top Republican on the House Foreign Relations Committee on Sunday said President Biden will have “blood on his hands” over the withdrawal of the US military from Afghanistan."

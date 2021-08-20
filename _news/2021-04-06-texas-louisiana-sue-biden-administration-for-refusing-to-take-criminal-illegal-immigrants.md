@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Appeals court denies Biden administration's effort to delay 'Remain in Mexico' ruling"
+    excerpt: "A federal appeals court on Thursday ruled against the Biden administration’s efforts to delay implementation of an order that requires it to reinstate the Trump-era Migrant Protection Protocols (MPP) — yet another legal defeat for the Biden administration on immigration."
+    publishedDateTime: 2021-08-20T17:41:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CY2YvB26_Is/appeals-court-biden-delay-remain-in-mexico-ruling"
+    ampWebUrl: "https://www.foxnews.com/politics/appeals-court-biden-delay-remain-in-mexico-ruling.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/appeals-court-biden-delay-remain-in-mexico-ruling.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f834fb4-6e58-4b30-8966-90fdac014a42/bbbd9f69-99fc-4fd2-9528-9187d26b867d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Texas Gov. Abbott blames Biden as allegations emerge of sexual assault at child migrant facility"
     excerpt: "Texas Republican Gov. Greg Abbott demanded that the White House close a San Antonio facility housing migrant children Wednesday following allegations that children there were being sexually assaulted."
     publishedDateTime: 2021-04-07T23:42:42Z

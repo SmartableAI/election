@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/world/2021/08/16/fareed-zakaria-afgha
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2021/08/16/fareed-zakaria-afghanistan-biden-acfc-sot-vpx.cnn"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "New pandemic school year is a nightmare for parents and a new test for Biden"
+    excerpt: "America's kids, more vulnerable than ever to Covid-19 and in the crossfire of a political war over masks, are going back to class in a timeless rite transformed into a moment of fear by the pandemic that interrupted their childhood.\n    \n"
+    publishedDateTime: 2021-08-20T04:01:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WS6tP868Gzg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/20/politics/biden-pandemic-school-year/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/20/politics/biden-pandemic-school-year/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210818012218-02-school-covid-test-ky-0817-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "GiBsgHfql91BanshyJs0kqpPSi9vcMvjZc8BPorrGesnESOFqKZ2PAnVYSjR+IeehprlS3ZZ3+OOjgaIKt86RjDYNTDlyw86mials6dIXAF3rt0z8iLNaaUNULAzsgIlCQ2pnqukKTxCh2/VyX/xv6T6c7jT2PjxzuKDpt0GrSyvoM/o9bkmVzgPQ2GRbt7OmsAUaKn9QWPIswVhg7GWLOwI78GpwKLrzFDTn/UoFrqLqjvkxVEpWimMzJVmdhC5XPyCRkSayQrtWWnD++FFlWyDLNzjaG4c/yRBWh2a8YaAoQSNRIULxBiAVUYcTuUZl2BRJ460QYAGiUM02tDdS0ubohntPxN7ApfsjCpP4zw=;L4bPKtIxlYhS1jYeuc25iQ=="
 ---

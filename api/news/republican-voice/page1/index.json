@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-20-republicans-torch-white-house-for-claiming-biden-never-shies-away-from-questions.md",
+      "title": "Republicans torch White House for claiming Biden never 'shies away' from questions",
+      "excerpt": "GOP lawmakers are smashing Biden over White House communications director Kate Bedingfield’s Friday claim that the president does not turn away from questions.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rs35_dacLko/republicans-torch-white-house-claim-biden-never-shies-away-questions",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rs35_dacLko/republicans-torch-white-house-claim-biden-never-shies-away-questions",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/25684f3a-65f3-4e86-999a-f1deb767a447/82c540db-f631-4b89-9efc-17f0257f7e3f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/republicans-torch-white-house-claim-biden-never-shies-away-questions.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-torch-white-house-claim-biden-never-shies-away-questions.amp",
+      "publishedDateTime": "2021-08-20T09:02:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-19-federal-judge-blocks-biden-admins-ice-rules-that-narrowed-illegal-immigrant-arrest-priorities.md",
       "title": "Federal judge blocks Biden admin's ICE rules that narrowed illegal immigrant arrest priorities",
       "excerpt": "A federal judge on Thursday imposed a preliminary injunction on the Biden administration’s rules for ICE officers that narrowed the categories of illegal immigrants targeted for arrest and deportation.",
@@ -239,7 +295,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 174,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -682,7 +738,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1170,
+      "heat": 1330,
       "tags": null,
       "images": [
         {
@@ -851,7 +907,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 920,
+      "heat": 1000,
       "tags": null,
       "images": [
         {
@@ -1599,54 +1655,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-wh-reporters-roiled-by-spacing-constraints-excuse-to-limit-access-to-biden-qas.md",
-      "title": "WH reporters roiled by ‘spacing constraints’ excuse to limit access to Biden Q&As",
-      "excerpt": "President Joe Biden’s interactions with reporters in the White House East Room have resembled press conferences but his staff selects which reporters attend, citing “spacing",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/08/11/wh-journos-roiled-by-spacing-constraints-to-biden-pressers/",
-      "originalUrl": "https://nypost.com/2021/08/11/wh-journos-roiled-by-spacing-constraints-to-biden-pressers/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/white-house-reporters-roiled-434.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/08/11/wh-journos-roiled-by-spacing-constraints-to-biden-pressers/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/11/wh-journos-roiled-by-spacing-constraints-to-biden-pressers/amp/",
-      "publishedDateTime": "2021-08-11T16:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

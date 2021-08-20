@@ -703,6 +703,20 @@ related:
         width: 2400
         height: 1599
         isCached: true
+  - title: "Poll: Donald Trump would lose Florida to Joe Biden if election were held today"
+    excerpt: "A St. Pete Polls survey commissioned by Florida Politics indicates Florida voters, right now, favor sitting President Joe Biden 48% to 47% of voters in Trump’s adopted home state. Biden’s less-than-a-percentage-point edge certainly falls within the poll’s 2."
+    publishedDateTime: 2021-08-18T12:54:00Z
+    webUrl: "https://floridapolitics.com/archives/451231-poll-donald-trump-could-lose-florida-to-joe-biden-if-election-were-held-today/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 81
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2020/10/biden-trump-ap-gty-er-190429_hpMain_16x9_1600-1.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "President Election 2024: Will Republicans Look To Ron DeSantis As The Alternative To Donald Trump?"
     excerpt: "Republican Primary may not begin for another two years but there are whispers Florida Governor Ron DeSantis could possibly present a challenge to a Trump 2024 run."
     publishedDateTime: 2021-07-01T22:55:00Z

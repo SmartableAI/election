@@ -124,6 +124,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden to address Afghanistan evacuations amid torrent of criticism over crisis"
+    excerpt: "President Biden on Friday will address the bid to evacuate American citizens and Afghan allies from Afghanistan in the face of the Taliban takeover of the country, as Biden faces a torrent of criticism for his handling of the U.S. withdrawal."
+    publishedDateTime: 2021-08-20T15:35:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/deCAzUnwXy0/biden-address-afghanistan-criticism-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-address-afghanistan-criticism-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-address-afghanistan-criticism-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b36f19d5-df1b-4a39-8f6f-0aedb9810430/a2efa34f-1878-4af3-8c59-bd4de5008666/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "McConnell pushes Biden to 'hammer' Taliban with airstrikes as Afghanistan spirals"
     excerpt: "Senate Minority Leader Mitch McConnell, R-Ky., pressed President Biden to order airstrikes against Taliban forces on Friday following what he described as an “urgent conversation” with Afghanistan’s ambassador to the United States, Adela Raz."
     publishedDateTime: 2021-08-13T23:23:15Z
@@ -332,6 +348,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Miranda Devine: Kamala Harris noticeably absent amid Afghan crisis as Joe Biden 'stinks of failure'"
+    excerpt: "Vice President Kamala Harris is choosing the wrong time to take a scheduled trip to Vietnam as she remains largely and noticeably absent from the aftermath of President Biden's disastrous withdrawal from Afghanistan,"
+    publishedDateTime: 2021-08-19T22:15:00Z
+    webUrl: "https://www.foxnews.com/media/miranda-devine-kamala-harris-noticeably-absent-amid-afghan-crisis-as-joe-biden-stinks-of-failure"
+    ampWebUrl: "https://www.foxnews.com/media/miranda-devine-kamala-harris-noticeably-absent-amid-afghan-crisis-as-joe-biden-stinks-of-failure.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/miranda-devine-kamala-harris-noticeably-absent-amid-afghan-crisis-as-joe-biden-stinks-of-failure.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7ce0f117-855d-485a-8378-a18e1f86533d/96814e03-85f8-4119-901f-cf23f0104adc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Pompeo: Biden failing to execute Afghan withdrawal, Trump warned Taliban of consequences"
     excerpt: "Former Secretary of State Mike Pompeo called out the Biden administration for what he described as poor planning and poor execution of a U.S. troop withdrawal from Afghanistan, which may lead to the nation's capital of Kabul to fall to Taliban insurgents within the next 3 months."
     publishedDateTime: 2021-08-12T22:25:00Z
@@ -442,6 +474,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Kamala Harris tanking in poll as she goes to ground on Afghan withdrawal"
+    excerpt: "Americans have further soured on Vice President Kamala Harris as she continues her radio silence on the withdrawal of US forces from Afghanistan, a new poll indicates."
+    publishedDateTime: 2021-08-20T01:09:00Z
+    webUrl: "https://nypost.com/2021/08/19/kamala-harris-tanking-in-poll-as-she-goes-to-ground-on-afghan-withdrawal/"
+    ampWebUrl: "https://nypost.com/2021/08/19/kamala-harris-tanking-in-poll-as-she-goes-to-ground-on-afghan-withdrawal/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/19/kamala-harris-tanking-in-poll-as-she-goes-to-ground-on-afghan-withdrawal/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/kamala-harris-afghan-withdrawal-index.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Mike Pence: Biden broke our deal with the Taliban – it's a humiliation not seen since Iran hostage crisis"
     excerpt: "The Biden administration’s disastrous withdrawal from Afghanistan is a foreign-policy humiliation unlike anything our country has endured since the Iran hostage crisis."
     publishedDateTime: 2021-08-18T14:42:00Z
@@ -457,6 +505,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c7d15fb-2d44-4a17-92f0-354974c2091c/14977800-7f47-4db1-b723-2269ef9cf2ca/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Vice President Kamala Harris to Focus on Countering China on Southeast Asia Trip"
+    excerpt: "The visit will give the Biden administration a chance to put the focus on countering China at a time when the U.S.’s chaotic exit from Afghanistan raises questions about its reliability as an ally."
+    publishedDateTime: 2021-08-20T11:20:00Z
+    webUrl: "https://www.wsj.com/articles/vice-president-kamala-harris-to-focus-on-countering-china-on-southeast-asia-trip-11629462039"
+    ampWebUrl: "https://www.wsj.com/amp/articles/vice-president-kamala-harris-to-focus-on-countering-china-on-southeast-asia-trip-11629462039"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/vice-president-kamala-harris-to-focus-on-countering-china-on-southeast-asia-trip-11629462039"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 130
+    images:
+      - url: "https://images.wsj.net/im-388795/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Where’s Kamala? ‘Last person in room’ Harris silent 6 days amid Afghan pullout chaos"
     excerpt: "Vice President Kamala Harris has kept a conspicuously low profile since the swift fall of Afghanistan to the Taliban."

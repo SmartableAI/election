@@ -41,6 +41,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "A Man Who Had Ranted Against Joe Biden Surrendered To Police After Threatening To Blow Up His Truck In DC"
+    excerpt: "The man appeared to have been livestreaming and threatening President Joe Biden and Democrats before surrendering Thursday afternoon."
+    publishedDateTime: 2021-08-19T18:53:00Z
+    webUrl: "https://www.buzzfeednews.com/article/ellievhall/capitol-evacuated-truck-bomb-threat"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/ellievhall/capitol-evacuated-truck-bomb-threat"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ellievhall/capitol-evacuated-truck-bomb-threat"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 108
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2021-01/6/23/campaign_images/a33e60e64038/congress-members-described-what-it-was-like-when--2-30714-1609974635-14_dblbig.jpg"
+        width: 625
+        height: 415
+        isCached: true
   - title: "Carlson: The Only Threat to Hungarian Democracy Is Joe Biden"
     excerpt: "When Tucker Carlson embarked on a weeklong publicity tour of Viktor Orbán’s Hungary, Fox News personality Glenn Greenwald cast the decision as the kind of intrepid reporting we should all admire. “Is it now considered immoral or something for journalists to visit other countries to report on what they see and hear there?"
     publishedDateTime: 2021-08-06T17:18:00Z

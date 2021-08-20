@@ -1,30 +1,24 @@
 ---
 category: news
 title: "Was Biden handcuffed by Trump’s Taliban deal in Doha?"
-excerpt: "President Joe Biden is pointing to an agreement signed by President Donald Trump’s administration in Doha, Qatar, as he tries to deflect blame for the Taliban overrunning Afghanistan in a blitz. He says it bound him to withdraw U."
-publishedDateTime: 2021-08-20T03:04:00Z
-originalUrl: "https://www.spokesman.com/stories/2021/aug/19/was-biden-handcuffed-by-trumps-taliban-deal-in-doh/"
-webUrl: "https://www.spokesman.com/stories/2021/aug/19/was-biden-handcuffed-by-trumps-taliban-deal-in-doh/"
-ampWebUrl: "https://www.spokesman.com/stories/2021/aug/19/was-biden-handcuffed-by-trumps-taliban-deal-in-doh/?amp-content=amp"
-cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/aug/19/was-biden-handcuffed-by-trumps-taliban-deal-in-doh/?amp-content=amp"
+excerpt: "President Joe Biden and his national security team say the Trump administration tied their hands when it came to the U.S. withdrawal from Afghanistan."
+publishedDateTime: 2021-08-20T15:57:00Z
+originalUrl: "https://www.centredaily.com/news/politics-government/national-politics/article253598898.html"
+webUrl: "https://www.centredaily.com/news/politics-government/national-politics/article253598898.html"
+ampWebUrl: "https://amp.centredaily.com/news/politics-government/national-politics/article253598898.html"
+cdnAmpWebUrl: "https://amp-centredaily-com.cdn.ampproject.org/c/s/amp.centredaily.com/news/politics-government/national-politics/article253598898.html"
 type: article
-quality: 90
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: The Spokesman-Review
-  domain: spokesman.com
+  name: Centre Daily Times
+  domain: centredaily.com
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://thumb.spokesman.com/WXx_1aLHiLZRb3uzzlOpksgGyd0=/480x0/media.spokesman.com/photos/2021/08/19/611ea0fd0f7c6.hires.jpg"
-    width: 480
-    height: 320
-    isCached: true
 
 related:
   - title: "Joe Biden raises Trump refugee cap after backlash"
@@ -490,6 +484,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/4F7B/production/_119774302_gettyimages-1234112014.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Joe Biden Afghanistan Criticism Set to Be Donald Trump Rally Focus"
+    excerpt: "The former president has been vocal in his criticism of his successor amid the unfolding events in Afghanistan."
+    publishedDateTime: 2021-08-20T09:02:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-afghanistan-criticism-donald-trump-rally-focus-1621336"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-afghanistan-criticism-donald-trump-rally-focus-1621336?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-afghanistan-criticism-donald-trump-rally-focus-1621336?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 140
+    images:
+      - url: "https://d.newsweek.com/en/full/1875416/donald-trump-arizona-rally.jpg"
+        width: 2500
+        height: 1665
         isCached: true
   - title: "Poll: More voters say Biden, not Trump, is responsible for border crisis"
     excerpt: "while 28 percent said former President Trump Donald Trump Biden should look to 'Ostpolitik' to negotiate with autocrats The Memo: Biden's bet on taxes Why some Republicans think vaccine passports ..."
@@ -2767,6 +2777,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "4E7TmLWTCx2iqfwFGXG7MrACcSF4sWI2uPQTP1Qr7ZNlYllzmak7f7l6jbtwFVtGPQb5kQT1q4WVjrt2kY59K1fkty2wjSHvRA7b/s8lMvNCgZL2tEvlznzF18J8hIX2qDDYWshqwyvwC0BZh3veDjS7sQktp644lXoho4V87ZLakaitCDi8arK9TaM9ZCuqiU19vd+ACzktMqcVI8waei1EhL66O9sClnacWnAlJ+sTbX+0xAL6eQ/8gof1RjjC9EbVy0yHimtXeqVys55Iebzu2r3ch2oeuhxk9p6tHxJ4AAkQZXL8FZlB/RyuOblYcZIIduexLkbyu8H3/94i3v3IujLho2UFSWtYknZDaelfDzzTC33KqKvjp4Z05GfWk1NhMzVZFzQBXpTRE37xQN8OObHYWNrsPAoBwcCCp/ZLcCNXS85SXD02GaR3lDa/cce18tQVKhcXtYudBudtxXdZJXnqu9L7A+fNhx3a+UAWieIHd/+esMnEXgKz54dGgBJMwQVEwAKZ4ycoJm7vYQ==;PmzKhH++zaQ33BcDc37NeA=="
+secured: "q+Rddah5kOKEYA/mMWCftSILpNCYnpUx0TU0P6JD1CQg+/TbQI+icrEKZNJii5+ZUrShu1OEmn69cgzdDN0g8IhFz8swgrNrSLJQXXG7g8sz+EX817OSIsToOYLKTvO7R4rKbV2l4c23iDhWI5HTBT8VCA2fef3wNni7gp7yyqt3jAPfEpQ6ZPn9JaiNDElVFqEqOL6PnO7DNpmgTrVm8akQWj19saEH7SC1rUWD92Q5QHuRGTKBcbluL6D/gPvJft3f6eVUTfJM/3xmFX8Uy46kwkP7qZNybP8fjmR2Q6wxPEWvCr53vQbKkVUGctV7WjJHUpEMmAnfuUD6ObowD3Pd59dzXwwF8WaR7811DCXiQ0NQthSZ59lUZQ2a4e3o0mmEm5GMzOU7ka8pztibceEwIQX9L6xlyZRnGz3auzyXtchjajkjEMSykeGFnq3Nlm/2epwN7CTiimO6H3V3POC2kJDis9B+HGkIqNE8O9y8Nut+rDx8xGDDyL0/sAZnbmeEbN7f7DCrIDJ9uffgLg==;hpVATqBNUXdSmFEuP2Imkg=="
 ---
 

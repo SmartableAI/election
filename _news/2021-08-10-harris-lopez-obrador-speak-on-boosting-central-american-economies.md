@@ -41,6 +41,22 @@ related:
         width: 836
         height: 545
         isCached: true
+  - title: "News Corp fires back over press council ruling criticising ‘offensive’ Kamala Harris cartoon"
+    excerpt: "Johannes Leak cartoon caused ‘substantial offence and prejudice’. Plus: the mystery of the missing Sky News videos"
+    publishedDateTime: 2021-08-20T02:27:00Z
+    webUrl: "https://www.theguardian.com/media/2021/aug/20/news-corp-fires-back-over-press-council-ruling-criticising-kamala-harris-cartoon"
+    ampWebUrl: "https://amp.theguardian.com/media/2021/aug/20/news-corp-fires-back-over-press-council-ruling-criticising-kamala-harris-cartoon"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2021/aug/20/news-corp-fires-back-over-press-council-ruling-criticising-kamala-harris-cartoon"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 114
+    images:
+      - url: "https://i.guim.co.uk/img/media/7ef75fc03081e93b8172fefebec07f03c1ea64f3/0_0_6006_3605/master/6006.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cb2d3c9d7d4640edf9f5f4d8807e9b9f"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Harris meets with CEOs to drum up support for child care proposals -White House"
     excerpt: "Vice President Kamala Harris underscored the importance of affordable childcare for improving U.S. competitiveness during a meeting with top executives of seven companies including Microsoft Corp (MSFT."
     publishedDateTime: 2021-08-12T19:42:00Z
@@ -98,6 +114,22 @@ related:
       - url: "https://www.hellomagazine.com/imagenes/healthandbeauty/hair/20210817119769/kamala-harris-stepdaughter-makes-announcement-about-appearance-hair-vice-president/0-579-226/kamala-harris-ella-kemhoff-photo-t.jpg"
         width: 1200
         height: 720
+        isCached: true
+  - title: "Vice President Kamala Harris’ Asia trip carries new urgency after Afghan collapse"
+    excerpt: "WASHINGTON >> The Taliban takeover of Afghanistan has given new urgency to Vice President Kamala Harris’ tour of southeast Asia, where she will attempt to reassure allies of American resolve following the chaotic end of a two-decade war."
+    publishedDateTime: 2021-08-20T06:55:00Z
+    webUrl: "https://www.staradvertiser.com/2021/08/19/breaking-news/vice-president-kamala-harris-asia-trip-carries-new-urgency-after-afghan-collapse/"
+    ampWebUrl: "https://www.staradvertiser.com/2021/08/19/breaking-news/vice-president-kamala-harris-asia-trip-carries-new-urgency-after-afghan-collapse/amp/"
+    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2021/08/19/breaking-news/vice-president-kamala-harris-asia-trip-carries-new-urgency-after-afghan-collapse/amp/"
+    type: article
+    provider:
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 70
+    images:
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2021/08/web1_11629436-918eb558ae52400e940bc5a3ab4173d0.jpg"
+        width: 760
+        height: 507
         isCached: true
   - title: "Kamala Harris is taunted over planned Vietnam visit as Afghanistan crisis compared to fall of Saigon"
     excerpt: "KAMALA Harris has been taunted over her planned visit to Vietnam after the crisis in Afghanistan was compared to the fall of Saigon. The vice president is due to visit the country as part of a"

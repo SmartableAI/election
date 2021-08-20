@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-22-joe-biden-town-hall-in-cincinnati-heres-the-full-cnn-transcript.md",
+      "title": "Joe Biden town hall in Cincinnati: Here's the full CNN transcript",
+      "excerpt": "Transcript of the July 21, 2021 CNN town hall with President Joe Biden at Mount St. Joseph University in Delhi Township, Ohio DON LEMON, CNN HOST: Good evening, everyone. We are live in Cincinnati, Ohio,",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/07/21/joe-biden-cnn-town-hall-transcript/8051311002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/07/21/joe-biden-cnn-town-hall-transcript/8051311002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/07/22/PCIN/5d848fd6-8ebf-4f8c-b9b8-e8bdafae7a84-AP21203038237183.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/8051311002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8051311002",
+      "publishedDateTime": "2021-07-21T19:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-biden-nominates-victoria-kennedy-for-austria-ambassadorship.md",
       "title": "Biden nominates Victoria Kennedy for Austria ambassadorship",
       "excerpt": "President Joe Biden is nominating Victoria Kennedy, an attorney and the widow of Sen. Ted Kennedy, to serve as his ambassador to Austria WASHINGTON -- President Joe Biden is nominating Victoria ...",
@@ -1508,63 +1560,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-hannity-biden-called-georgia-voter-law-jim-crow-but-heres-the-truth-about-his-home-state.md",
-      "title": "Hannity: Biden called Georgia voter law 'Jim Crow' but here's the truth about his home state",
-      "excerpt": "Sean Hannity, host of \"Hannity,\" slammed President Joe Biden and the left for now supporting a push for voter ID laws. Hannity pointed out Wednesday that if Democrats want to be taken seriously, then Democrat-run states such as Delaware,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/hannity-biden-delaware-democrats-voter-restrictions",
-      "originalUrl": "https://www.foxnews.com/media/hannity-biden-delaware-democrats-voter-restrictions",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/hannity-biden-delaware-democrats-voter-restrictions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-biden-delaware-democrats-voter-restrictions.amp",
-      "publishedDateTime": "2021-07-08T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

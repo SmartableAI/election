@@ -2,6 +2,279 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-06-25-brian-stelter-hoax-donald-trump-fox-news-and-the-dangerous-distortion-of-truth.md",
+      "title": "Brian Stelter, “Hoax: Donald Trump, Fox News, and the Dangerous Distortion of Truth”",
+      "excerpt": "Brian Stelter, CNN chief media correspondent and anchor of “Reliable Sources,” crafted his book \"Hoax: Donald Trump, Fox News, and the Dangerous Distortion of Truth” from three years of interviews with more than 300 current and former Fox News staffers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/video/washington-post-live/brian-stelter-hoax-donald-trump-fox-news-and-the-dangerous-distortion-of-truth/2021/06/24/faf99a85-6353-470a-af0c-248bd8904bbc_live.html",
+      "originalUrl": "https://www.washingtonpost.com/video/washington-post-live/brian-stelter-hoax-donald-trump-fox-news-and-the-dangerous-distortion-of-truth/2021/06/24/faf99a85-6353-470a-af0c-248bd8904bbc_live.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-18-2021/t_1610981357bb4aef815449ea6155220a_name_StelterBranding.jpg&w=1080",
+          "width": 1080,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-24T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-nbc-reporter-to-kamala-harris-husband-are-attacks-on-her-motivated-by-her-race-or-sex.md",
+      "title": "NBC reporter to Kamala Harris' husband: Are attacks on her motivated by her race or sex?",
+      "excerpt": "NBC White House correspondent Peter Alexander caught flak Thursday for asking Second Gentleman Douglas Emhoff if Republican criticisms of his wife, Vice President Kamala Harris, were motivated by racism or sexism.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex",
+      "originalUrl": "https://www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad72c4da-8a99-401d-9171-f6eb09076278/70f38fe0-04e0-46b1-a998-fd5eeb4e9e80/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex.amp",
+      "publishedDateTime": "2021-06-24T13:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-exclusive-trumps-controversial-israel-ambassador-will-write-tell-all-memoir-titled-sledgehammer.md",
+      "title": "Exclusive: Trump’s controversial Israel ambassador will write tell-all Memoir titled 'Sledgehammer'",
+      "excerpt": "Former President Trump's controversial ambassador to Israel David Friedman is set to publish a tell-all memoir of his time in office entitled, “Sledgehammer,” Fox News has learned.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8-lPQQKNOsA/exclusive-trumps-controversial-israel-ambassador-will-write-tell-all-memoir-entitled-sledgehammer",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8-lPQQKNOsA/exclusive-trumps-controversial-israel-ambassador-will-write-tell-all-memoir-entitled-sledgehammer",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/720/405/AmbFriedmanIsrael.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/exclusive-trumps-controversial-israel-ambassador-will-write-tell-all-memoir-entitled-sledgehammer.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/exclusive-trumps-controversial-israel-ambassador-will-write-tell-all-memoir-entitled-sledgehammer.amp",
+      "publishedDateTime": "2021-06-24T12:54:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-biden-says-he-wont-sign-bipartisan-spending-deal-without-democrats-infrastructure-wish-list.md",
+      "title": "Biden says he won't sign bipartisan spending deal without Democrats' infrastructure wish list",
+      "excerpt": "President Biden on Thursday touted a new major bipartisan spending deal but warned he wouldn't sign the roughly $1 trillion in roads, bridges and broadband investments unless Congress passes a separate bill on human infrastructure filled with Democratic priorities on expanding the social safety net. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LkBkwjoPDhM/biden-bipartisan-spending-deal-democrats-infrastructure-wish-list",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LkBkwjoPDhM/biden-bipartisan-spending-deal-democrats-infrastructure-wish-list",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-bipartisan-spending-deal-democrats-infrastructure-wish-list.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-bipartisan-spending-deal-democrats-infrastructure-wish-list.amp",
+      "publishedDateTime": "2021-06-24T12:48:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-trump-calls-mcbrooms-michigan-election-report-a-cover-up-asks-supporters-to-call-his-office.md",
+      "title": "Trump Calls McBroom's Michigan Election Report a 'Cover Up,' Asks Supporters to Call His Office",
+      "excerpt": "In the statement, the former president also referred to the city of Detroit as the \"most corrupt election city in the U.S.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-calls-mcbrooms-michigan-election-report-cover-asks-supporters-call-his-office-1603909",
+      "originalUrl": "https://www.newsweek.com/trump-calls-mcbrooms-michigan-election-report-cover-asks-supporters-call-his-office-1603909",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1829403/president-donald-trump.jpg",
+          "width": 2500,
+          "height": 1767,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-calls-mcbrooms-michigan-election-report-cover-asks-supporters-call-his-office-1603909?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-calls-mcbrooms-michigan-election-report-cover-asks-supporters-call-his-office-1603909?amp=1",
+      "publishedDateTime": "2021-06-24T12:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-college-wont-revoke-trump-adviser-flynns-honorary-degree.md",
       "title": "College won't revoke Trump adviser Flynn's honorary degree",
       "excerpt": "The University of Rhode Island has decided not to revoke an honorary degree bestowed upon Michael Flynn, an alumnus who briefly served as President Donald Trump’s national security adviser",
@@ -1059,271 +1332,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/23/politics/joe-biden-xi-jinping-meeting-planning/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/joe-biden-xi-jinping-meeting-planning/index.html",
       "publishedDateTime": "2021-06-23T07:54:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-chris-hayes-red-states-suffering-from-the-toxic-legacy-of-donald-trump.md",
-      "title": "Chris Hayes: Red States Suffering From The Toxic Legacy Of Donald Trump",
-      "excerpt": "We are seeing the effects of the toxic, devastating legacy of Donald Trump right now in the places that supported him the most,” MSNBC's Chris Hayes said Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/48/482369.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.amp.html",
-      "publishedDateTime": "2021-06-23T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-in-central-america-kamala-harris-ignored-our-best-hope-catholic-bishops.md",
-      "title": "In Central America, Kamala Harris ignored our best hope: Catholic bishops",
-      "excerpt": "The Central American bishops are strong opponents of abortion and gay marriage, but they have also prophetically denounced exploitation of the poor and government corruption. In t",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/religion/in-central-america-kamala-harris-ignored-our-best-hope-catholic-bishops/2021/06/23/5c933bc8-d431-11eb-b39f-05a2d776b1f4_story.html",
-      "originalUrl": "https://www.washingtonpost.com/religion/in-central-america-kamala-harris-ignored-our-best-hope-catholic-bishops/2021/06/23/5c933bc8-d431-11eb-b39f-05a2d776b1f4_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/religion/in-central-america-kamala-harris-ignored-our-best-hope-catholic-bishops/2021/06/23/5c933bc8-d431-11eb-b39f-05a2d776b1f4_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/in-central-america-kamala-harris-ignored-our-best-hope-catholic-bishops/2021/06/23/5c933bc8-d431-11eb-b39f-05a2d776b1f4_story.html?outputType=amp",
-      "publishedDateTime": "2021-06-23T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-cornyn-calls-on-biden-and-harris-to-visit-southern-border-yall-come-visit.md",
-      "title": "Cornyn calls on Biden and Harris to visit southern border: 'Y'all come visit'",
-      "excerpt": "Sen. John Cornyn (R-Texas) has called on President Biden and Vice President Harris to visit the U.S.- Mexico border amid an ongoing surge of immigrants.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/senate/559777-cornyn-calls-on-biden-and-harris-to-visit-southern-border-yall-come-visit",
-      "originalUrl": "https://thehill.com/homenews/senate/559777-cornyn-calls-on-biden-and-harris-to-visit-southern-border-yall-come-visit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/cornynjohn_052621gn_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/senate/559777-cornyn-calls-on-biden-and-harris-to-visit-southern-border-yall-come-visit?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/559777-cornyn-calls-on-biden-and-harris-to-visit-southern-border-yall-come-visit?amp",
-      "publishedDateTime": "2021-06-23T06:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-ivanka-trump-and-jared-kushner-distance-themselves-from-the-former-president-and-his-constant-complaints.md",
-      "title": "Ivanka Trump and Jared Kushner distance themselves from the former President and his constant complaints",
-      "excerpt": "With each passing day away from Washington, former President Donald Trump's grievances continue unabated. And those complaints appear to be driving away two of the people who were closest to him during his White House tenure: his daughter Ivanka Trump and son-in-law, Jared Kushner.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LZI63cf9jwY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LZI63cf9jwY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210115071514-file-01-jared-kushner-ivanka-trump-2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/23/politics/donald-trump-ivanka-trump-jared-kushner/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/donald-trump-ivanka-trump-jared-kushner/index.html",
-      "publishedDateTime": "2021-06-23T05:50:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-biden-made-it-easier-to-get-a-work-visa-heres-why-foreign-workers-still-cant-get-to-the-us.md",
-      "title": "Biden made it easier to get a work visa. Here's why foreign workers still can't get to the US.",
-      "excerpt": "When President Joe Biden revoked a Trump-era executive order in February that had temporarily banned some immigrant visas during the coronavirus pandemic, he touted the way US industries could again \"utilize talent from around the world.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xTgxTBKu4-8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xTgxTBKu4-8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200623101306-j1-visa-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/23/politics/biden-visa-explainer/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/biden-visa-explainer/index.html",
-      "publishedDateTime": "2021-06-23T04:35:09-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

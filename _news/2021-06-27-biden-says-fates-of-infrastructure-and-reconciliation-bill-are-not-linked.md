@@ -89,6 +89,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "First Thing: pressure piles on Joe Biden to speed up visas for Afghans"
+    excerpt: "Congress members say those who aided US military are in grave danger, plus OnlyFans announces it will ban adult material from its site"
+    publishedDateTime: 2021-08-20T09:50:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/aug/20/first-thing-thousands-stranded-in-kabul-as-taliban-go-door-to-door"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/20/first-thing-thousands-stranded-in-kabul-as-taliban-go-door-to-door"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/20/first-thing-thousands-stranded-in-kabul-as-taliban-go-door-to-door"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/bc9bdf4671050d3fb9570c5ef02f2557069efe46/0_0_2560_1537/master/2560.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7c59b7a90bc2c182ba836f8ab2086b97"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Migrants turned away at border under Biden face shocking abuse in Mexico"
     excerpt: "Human Rights First report records 3,300 incidents of kidnap, rape, trafficking or assault linked to Trump-era Title 42 health protocol"
     publishedDateTime: 2021-06-22T16:29:00Z

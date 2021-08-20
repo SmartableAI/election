@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden bets a war-weary America will reward him for leaving Afghanistan"
-excerpt: "WASHINGTON — President Joe Biden is standing firmly by his decision to withdraw U.S. forces from Afghanistan, despite chaotic scenes of the Taliban rapidly seizing control and the U.S. rushing to airlift diplomats out of the country. Behind his ..."
-publishedDateTime: 2021-08-19T09:52:00Z
-originalUrl: "https://www.nbcnews.com/politics/joe-biden/joe-biden-bets-war-weary-america-will-reward-him-leaving-n1277104"
-webUrl: "https://www.nbcnews.com/politics/joe-biden/joe-biden-bets-war-weary-america-will-reward-him-leaving-n1277104"
+excerpt: "\"It's hard to see Republicans winning elections on a campaign promise to go back to war in Afghanistan in 2022 or 2024,\" says a Democratic consultant."
+publishedDateTime: 2021-08-19T14:10:00Z
+originalUrl: "https://www.nbcnews.com/politics/white-house/joe-biden-bets-war-weary-america-will-reward-him-leaving-n1277104"
+webUrl: "https://www.nbcnews.com/politics/white-house/joe-biden-bets-war-weary-america-will-reward-him-leaving-n1277104"
 ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1277104"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1277104"
 type: article
@@ -26,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_33/3499768/210817-biden-mb-1912.JPG"
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_33/3500168/210819-soldiers-depart-afghanistan-al-1002.jpg"
     width: 2500
-    height: 1667
+    height: 1406
     isCached: true
 
 related:
@@ -624,6 +624,22 @@ related:
         width: 2500
         height: 1603
         isCached: true
+  - title: "President Biden faces backlash with American citizens still struggling to flee Afghanistan"
+    excerpt: "U.S. officials say another 6,000 people made it safely to the Kabul airport and are awaiting evacuation. Pressed repeatedly, State Department officials could not say how many Americans still need to be rescued."
+    publishedDateTime: 2021-08-19T23:21:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/president-biden-faces-backlash-with-american-citizens-still-struggling-to-flee-afghanistan-119076421973"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo119076421973"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo119076421973"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 125
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_08/1629415080844_nn_kod_biden_afghanistan_fallout_210819_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden sets Afghanistan pullout"
     excerpt: "Act on the news with POLITICO Pro. — President Joe Biden is set to order all U.S. troops out of Afghanistan by Sept. 11, setting off a fierce debate over who will fill the vacuum. — The nomination of Colin Kahl should be delayed pending a review of new ..."
     publishedDateTime: 2021-04-14T14:01:00Z
@@ -639,6 +655,6 @@ related:
         height: 629
         isCached: true
 
-secured: "194L60ZHpirZC6+0rO0HnnWJMlaz3Zcb9NNPuQ58Sz/jA/PI9NcXVP6cLzq3zPC+9e/qzoN4f4+Ybpzew3eZF/VyTftLAcTn0M262YYBlpwm+F+ttMnLKBJ/DptQGRGPfyYFoUorL1x52JyjLkC5jRgangtCzBdPfRnMOkHjT7QllTDth/gCrczr0g5amdnss6lNuMJ+ypC1H3RQ9ZYHNi2UPhE/LKM0yyAgap1dk3Xk5Ekk3MAJpviSOzRiLibN20fwjIqKFtK9DMDtKXKZrQOylv4jflWRgpZ8ypFB5wwNJpmnZsgIiVIc0MJjcELueLMzyRBrHRvfzeMWL6QqZj+LDTLI23xuagrivmBWz8A=;WRNZfATaP+UORcTmATzv9A=="
+secured: "Iarj7GKL0HN8218SqMKojVe2odLKjfjiufxDtskElgzDZKIBSbirE+Jl77GLJAoIqhxNT5DOy7BL2CnNxVNx04i68sU7YAxfO5Gf9Mo6DeXCsu+dOSOwrbWq70PntaAo9yOkhtmUVIVEPqpyW6Ru4S+SQmrBeI3BFey5wuWAA+SJxfLHlmjl7+2gOsUcefbn3HPCufAD1fsM8zx003F6OOtE/sFf8JTKFf9gaR12BoYF/mF59m8v0JMJEyDT/PLaZ+OH95c2CCWrxyrD9pO9R6aFhR3lrszC6qOPgV/Es4r1gzxYsV0lF5YjEfNoOmZBwXKMM78jtgjws4mv2OXY0ZtFWliw8eIkKp/8XeGyAjbbELBMUnBAkC0HI3udFGDv+y26k5Y97/rbIrOvtWWTwCt9J7TbZaTJepqgmvwFa4e041hLBTuxVFQZmW9ueyIfS8sodstU8EQ5U24joBc87NKKIqx95YBQwVnB0T4JP8tB29mRfpGFMpeFuOxIEMZ2g8tEe3gfdn50kkolR8GJZw==;KneNtE37QtkfB62xH/Alkg=="
 ---
 

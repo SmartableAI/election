@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -128,7 +128,21 @@ related:
       name: Law360
       domain: law360.com
     quality: 55
+  - title: "Ron DeSantis slams Joe Biden ‘lack of leadership’ at event highlighting COVID-19 treatment"
+    excerpt: "Ron DeSantis turned his attention from COVID-19 to the White House. DeSantis aired grievances yet again about a perceived “lack of leadership” from President Joe Biden, showing that even at an event focused on the virus,"
+    publishedDateTime: 2021-08-19T18:28:00Z
+    webUrl: "https://floridapolitics.com/archives/451698-lack-leadership/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 45
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/08/DeSantis-biden.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
-secured: "V3xpiXtuyzUM8+l4faxCGzruxGdoNvLF+GJqG7tbwv3Z7HRqLmj6E0ThHmYnSji3Yng1b1DiKj5k+IiM7iJ/QzLRt9YBZQmX9kiLCEcBe40HiZfKUf3BMPzOKxokfdYp0gl1DzzJktSTFIFwpLhQv49d295A6zgrxVeezZcTPWQGmYqZQiAB8THfSZ9Ii6dVmLbn8otUwlzvvZquh/XIR4udMOKAcNVWWC4CcXUaVwAX6hpeI7aI6rx2g9WjpFTXO4/+HW/jITHq/3i34OdztyR0KxJ+vxpKxo6eYm4cIji3lBohFaFASb/O8moTjcWrL1mSx3WqKlUOJ+aZCcYKk+BYsLZ+THozgjv5lCKJNYM=;RHDpuxZvbZLy07Kx7eRcDg=="
+secured: "OdDZo8/B/AJxg8ohzpdxfd3el68v0BLi6TGUKWMX2tJbHwr1/LJ/kUYh5ULYb2VUSBfQC8TvaUQpuWRbICXLYrf1VeiRxpK2hTuthMj7BhzmNwc+uFuVcWDuDtwCCOJIDAgkgTZk58t1L1DX58CORdrJMlORUKy1Bb9Sbj497O6LSFBnAzz2E1wn4QdGcZm5U7QtI9jjXxVa/lo48iAlzFPsjVvaWiBwjsWH3MB9gx1uHVNn/FTKgaSR8u1eJ3KbTgrnmQiXpBhrhge9NA34tsbpjzuLB1Bi7UdF9I4YyRMIqQZpqjczbscbeQpJcp0su1e+ec5pv95vYrV46JDChFw1IcjUukL1fhYLs8beUPYpEtUxbbvOUQ3DgJ9FL4clxZMVoi+6EhrpHYRD6twLBHTQyWBeuGsLgEN+BmyftTSGjd6YugCH4VRnxQVNd+zdwCbOxWMbnHvqSXDXvXJYq8jaecfn+I0kT2PUEWpJtkfpolKPubSF3L60dkdVLbtGiXutPCl3n0iaF2h6I7nJCA==;wOYiloT8Z0DswPZ4rWthRw=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-20-tucker-carlson-says-joe-biden-interview-edited-to-make-him-less-incoherent-confused.md",
+      "title": "Tucker Carlson Says Joe Biden Interview Edited to Make Him Less 'Incoherent, Confused'",
+      "excerpt": "ABC News released a transcript of Biden's interview featuring a section that was left out of the TV broadcast.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/tucker-carlson-joe-biden-interview-edited-less-incoherent-confused-1621325",
+      "originalUrl": "https://www.newsweek.com/tucker-carlson-joe-biden-interview-edited-less-incoherent-confused-1621325",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1875406/tucker-carlson-speaks-while-visiting-hungary.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/tucker-carlson-joe-biden-interview-edited-less-incoherent-confused-1621325?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/tucker-carlson-joe-biden-interview-edited-less-incoherent-confused-1621325?amp=1",
+      "publishedDateTime": "2021-08-20T01:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-20-joe-biden-says-he-and-first-lady-plan-on-getting-covid-booster-shot.md",
       "title": "Joe Biden says he and first lady plan on getting Covid booster shot",
       "excerpt": "President defends shots as millions worldwide are unvaccinated: US has ‘provided more to the rest of the world than all the rest of the world combined’",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -695,7 +747,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -1430,63 +1482,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-tara-reade-fires-back-after-jen-psaki-claims-biden-allegations-were-heavily-litigated-during-election.md",
-      "title": "Tara Reade fires back after Jen Psaki claims Biden allegations were 'heavily litigated' during election",
-      "excerpt": "Tara Reade, the former Senate staffer who alleged last year that Joe Biden sexually assaulted her in 1993, fired back at White House Press Secretary Jen Psaki claimed that the allegations made against the president were “heavily litigated” during the 2020 election cycle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/tara-reade-jen-psaki-biden-allegations-cuomo",
-      "originalUrl": "https://www.foxnews.com/media/tara-reade-jen-psaki-biden-allegations-cuomo",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/217a58f3-a01e-4ac1-8f6d-dec17ec267fb/fce8c9ce-aef7-41f3-adbb-2a597c5e53dc/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/tara-reade-jen-psaki-biden-allegations-cuomo.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tara-reade-jen-psaki-biden-allegations-cuomo.amp",
-      "publishedDateTime": "2021-08-04T19:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

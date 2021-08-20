@@ -30,21 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris invites business leaders to the White House to discuss child care."
-    excerpt: "Executives from companies like Airbnb, Chobani, Etsy and Microsoft were invited in an effort to drum up support for a key pillar of President Biden's $3.5 trillion budget."
-    publishedDateTime: 2021-08-12T08:25:00Z
-    webUrl: "https://www.nytimes.com/2021/08/12/business/kamala-harris-child-care-business.html"
-    ampWebUrl: "https://www.nytimes.com/2021/08/12/business/kamala-harris-child-care-business.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/12/business/kamala-harris-child-care-business.amp.html"
+  - title: "Harris heads to Southeast Asia in search of a foreign policy win amid Afghanistan crisis "
+    excerpt: "Vice President Kamala Harris faces a steep challenge next week when she travels to Singapore and Vietnam, as a once-low-risk trip to friendly nations comes at the same time as a bungled US withdrawal from Afghanistan.\n    \n"
+    publishedDateTime: 2021-08-20T09:20:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pd7DCnDigyE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/20/politics/kamala-harris-southeast-asia-trip-afghanistan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/20/politics/kamala-harris-southeast-asia-trip-afghanistan/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 130
+      name: CNN
+      domain: cnn.com
+    quality: 176
     images:
-      - url: "https://static01.nyt.com/images/2021/08/12/business/12econ-brf-whitehouse/12econ-brf-whitehouse-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210614180815-kamala-harris-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "qcN6fBxCFrDUw0YTyUgRQlOm4DBJzyZajaPDUkobwZZkxU8vxaYADXBnwhd2J+HQ8KhCnLYcNVKRNDppyAKadEmTSJeIoyI5mOlj+sLGfYbxswljnktK8xUcnzrDoVpYU8m7k7CW9Ae8dHUNqOhnwXkMIjk0kJBrU11p/YjzFpmUdfO50kRHOlerA2wQmXkA2Wbv+U9EyUTxZOHhyHdj0FOcZv3t61FkpEBISWeuJfONdqJV8qWkW9r1+W1e71PE5/DoXw0wriYWGHAQMJk714UhoC6ySd/ShafzCIuGLFteN0BoZ70pNnla4V+Vn6imTI8gm1k2pVQxhT0XyxAa3JxIec2sow9HZ8PixaxdGtbhoZB1En9NKYOglD3AqwuzTEnPuGqjFnJBpe/BfHFxLZ0QIGFBdIBYKoOHRaUEr4Np+WrqcTS+os0NUbcsTqk/AX+l7R1iVWA73a+F15zeeBOpgL8ud8CGiA2PXEyHzDK8l7mKCKLt8SEOG3HCSgwOLCXUQ9Z2vAm0aoGpLA/4lw==;hsZP+UdTN5gC5mtp/i5SkA=="

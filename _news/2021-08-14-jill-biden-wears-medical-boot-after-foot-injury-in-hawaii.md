@@ -124,6 +124,20 @@ related:
       name: Law360
       domain: law360.com
     quality: 55
+  - title: "Ron DeSantis slams Joe Biden ‘lack of leadership’ at event highlighting COVID-19 treatment"
+    excerpt: "Ron DeSantis turned his attention from COVID-19 to the White House. DeSantis aired grievances yet again about a perceived “lack of leadership” from President Joe Biden, showing that even at an event focused on the virus,"
+    publishedDateTime: 2021-08-19T18:28:00Z
+    webUrl: "https://floridapolitics.com/archives/451698-lack-leadership/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 45
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/08/DeSantis-biden.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "uAwTaBGmgPE7dHOYsDXh/cAsCJlivaQHGidz8ypU4Rd5B+cH+DZIlje3zLxxnrx+JBCpVKX8THSZez8sPPBpWDVNEtvEhZLAwTQlrwxlHrjSSxoq0AWvOvM4BwTUgs9AU+Z9Zt3oG9iyHURnoO9QVAheWT5QREg3ipUgQn3sE8fBOOyiCt7P+CngZ9SC81HTPK3ukaiTQYqlHqvDwqSmSPb1xCff3jcs2fwl3C4mn4z83TA/REGfmyFFwMOmcQfAISsi41wfABSpg8IxadY+uWNWtFUwBNhuBhX4ZNSpGm5v0PQkDRN9/wtAgv562iMmlFG5qOKCMzuJ/OWXFeTaC17dzB30SpxtVzu5ET2Atus=;nPmyXWj5sdeF4gU+gzKpUw=="
 ---
