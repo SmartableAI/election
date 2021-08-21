@@ -80,6 +80,22 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 95
+  - title: "Joe Biden to Americans in Afghanistan: 'We will get you home'"
+    excerpt: "US President Joe Biden has continued to defend the chaotic evacuation effort out of Kabul as desperation grows for those still stranded in Afghanistan. Speaking at the White House, Mr Biden said the US had evacuated 13,"
+    publishedDateTime: 2021-08-20T19:38:00Z
+    webUrl: "https://www.bbc.co.uk/news/world-us-canada-58285923"
+    ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-58285923.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-58285923.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 75
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/170AB/production/_120097349_bidenindex.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "What Donald Trump Said In April About Pulling Out US Troops From Afghanistan"
     excerpt: "Donald Trump slammed Biden's decision to withdraw from Afghanistan despite applauding the move months earlier."
     publishedDateTime: 2021-08-16T22:23:00Z
@@ -95,6 +111,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/facebook-and-twitter-banned-donald-trump-over-his.jpg"
         width: 1024
         height: 662
+        isCached: true
+  - title: "Joe Biden vows every American who wants out of Afghanistan will be evacuated"
+    excerpt: "US President Joe Biden pledged on Friday that every American who wanted to would be evacuated from Taliban-ruled Afghanistan, with about 13,000 brought home so far. Facing a torrent of criticism for his handling of the US troop withdrawal,"
+    publishedDateTime: 2021-08-20T23:21:00Z
+    webUrl: "https://www.newshub.co.nz/home/world/2021/08/joe-biden-vows-every-american-who-wants-out-of-afghanistan-will-be-evacuated.html"
+    ampWebUrl: "https://www.newshub.co.nz/home/world/2021/08/joe-biden-vows-every-american-who-wants-out-of-afghanistan-will-be-evacuated.amp.html"
+    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/world/2021/08/joe-biden-vows-every-american-who-wants-out-of-afghanistan-will-be-evacuated.amp.html"
+    type: article
+    provider:
+      name: Newshub
+      domain: newshub.co.nz
+    quality: 72
+    images:
+      - url: "https://www.newshub.co.nz/home/politics/2021/08/afghanistan-how-new-zealand-defence-force-plans-to-get-inside-chaotic-kabul/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1629425486688/NZ-Defence-Force-Taliban-Getty-1120.jpg"
+        width: 768
+        height: 438
         isCached: true
   - title: "Pence Rips Into Biden for 'Disastrous Withdrawal' From Afghanistan"
     excerpt: "Former Vice President Mike Pence is laying into President Joe Biden for what he says is a “disastrous” withdrawal from Afghanistan. In an op-ed published in The Wall Street Journal on Tuesday, Pence recalled Biden’s prediction that the Taliban would not overrun Afghanistan."

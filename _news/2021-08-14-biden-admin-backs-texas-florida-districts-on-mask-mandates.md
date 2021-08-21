@@ -54,6 +54,22 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 52
+  - title: "Rep Marjorie Taylor Greene filing articles of impeachment against President Joe Biden and calls him a ‘pathetic puppet’"
+    excerpt: "GOP Rep. Marjorie Taylor Greene announced she will file articles of impeachment against President Biden during an America First rally in Des Moines Thursday night. Greene said at the rally:"
+    publishedDateTime: 2021-08-20T04:57:00Z
+    webUrl: "https://www.the-sun.com/news/3507321/rep-marjorie-taylor-greene-articles-impeachment-president-joe-biden/"
+    ampWebUrl: "https://www.the-sun.com/news/3507321/rep-marjorie-taylor-greene-articles-impeachment-president-joe-biden/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3507321/rep-marjorie-taylor-greene-articles-impeachment-president-joe-biden/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 51
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/BB-MTG-IMPEACH-COMP-V2.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "aJoRenVB2kVe3CG//wGKpHr1OWTN8e0MWwmeB+emPRSGY8/6J8r0Yb2wofPSM1oxoqhj02ADMzYaylxcyKt9/4Yb4tyjSzAoQyRdY+faIcq0AeFqqAhsw9uLVuK5LiC8Mub9HTYn8TZ4ny+dTsLTwVGYgFWqByHHOgMMRYOnl+BFp6j+dx8QmvTWPVmYMzRnkscuCz4deL51Z6VUyJFIvjCRD2bBoKjR1kLyxir0Bk+T1f7Q/CKUcRkFBnbMC5VHB9J4U0nBplXqeJ+U3nxw8eZX5bD2tpqFAf5kVAY8c8PY5sqPhgUlmOHEzcUmjrM+1Eq7YA8RSGNBNGyxg0LYXK0Mfgqb4S6XlyFqjY0d9qc=;NXW6R3BZSwWQ8oYsbx5v9g=="
 ---

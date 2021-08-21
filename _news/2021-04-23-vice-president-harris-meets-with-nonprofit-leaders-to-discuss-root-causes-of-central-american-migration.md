@@ -1557,6 +1557,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Kamala Harris hides her face as she’s seen at Biden’s side after days of silence on Afghan chaos that she green-lighted"
+    excerpt: "KAMALA Harris has finally been seen at Joe Biden’s side after days of silence on the chaos in Afghanistan that she green-lighted. The Vice President appears to have wanted to keep a low"
+    publishedDateTime: 2021-08-19T14:44:00Z
+    webUrl: "https://www.the-sun.com/news/3503036/kamala-harris-hides-biden-silence-afghanistan/"
+    ampWebUrl: "https://www.the-sun.com/news/3503036/kamala-harris-hides-biden-silence-afghanistan/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3503036/kamala-harris-hides-biden-silence-afghanistan/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 66
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/KAMALA-HARRIS-FACE-HIDE-COMP-JF.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "No, the Biden administration isn’t buying Kamala Harris’ book for migrant children"
     excerpt: "On April 23, the New York Post reported that migrant children routed from the U.S.-Mexico border to a shelter in Long Beach, Calif., will be given a copy of Vice President Kamala Harris’ 2019 children’s book called \"Superheroes are Everywhere."
     publishedDateTime: 2021-04-27T17:31:00Z
@@ -1571,6 +1587,15 @@ related:
         width: 438
         height: 392
         isCached: true
+  - title: "Joe Biden, Kamala Harris under fire for Afghanistan fiasco"
+    excerpt: "Under attack for the botched withdrawal that has stranded thousands of Americans and Afghan cohorts in the strife-torn country, Biden is scheduled address the issue later on Friday, with vice-president Kamala Harris -- who is also under fire for being indifferent to the plight of women -- by his side."
+    publishedDateTime: 2021-08-20T22:46:00Z
+    webUrl: "https://www.nagalandpost.com/joe-biden-kamala-harris-under-fire-for-afghanistan-fiasco/238691.html"
+    type: article
+    provider:
+      name: Nagaland Post
+      domain: nagalandpost.com
+    quality: 60
   - title: "Joe Biden pressed on emissions goal as climate summit nears"
     excerpt: "When President Joe Biden convenes a virtual climate summit on Thursday, he faces a vexing task: how to put forward a nonbinding but symbolic goal to reduce greenhouse gas emissions that will have a tangible impact on climate change efforts not only in the U."
     publishedDateTime: 2021-04-19T11:49:00Z

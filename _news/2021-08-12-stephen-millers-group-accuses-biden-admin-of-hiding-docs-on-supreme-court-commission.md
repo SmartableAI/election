@@ -63,6 +63,17 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "A stagflation swamp: Joe Biden is Jimmy Carter 2.0"
+    excerpt: "The year is 1977. In August, President Jimmy Carter is seven months into his presidency. Inflation has cleared 6%, while the U.S. labor force participation rate is stuck at 62.3%. The New York Times warns of a “stagflation swamp."
+    publishedDateTime: 2021-08-20T08:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/op-eds/a-stagflation-swamp-joe-biden-is-jimmy-carter-2-0"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/op-eds/a-stagflation-swamp-joe-biden-is-jimmy-carter-2-0?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/op-eds/a-stagflation-swamp-joe-biden-is-jimmy-carter-2-0?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
 
 secured: "mPOvhuOo7QFEjB7iaalQVzsnZYs1pIOn/jgKBExNQaGny2XfbxnFowiB933yxt5CJpZfz0C3/aUp5hEqrEOMBIsjxPayI4VJ75tm55DlH8Wx40PsyV6WVB8tzP9HYSokG01eDWScQ6iC8yPW1mHiBLiCD6ORWE6+4AdGryBFzrg+6hRhYdErwUyy48XF70MBUSIkJAG0mLakmqnxY3LzFtXG6xWA8Mg1+mohuUnv0duof2UuTMHEpV9laWvFt9HEBQo9m24Ue/GVx42U6KCd0NaMWLj7NvTxUYFc8gdjxoqo4gbPijmKNZdS80EDZFPZV1eG+H4bRyadZVd2053YWBgNyadW7BnduUNEi2058sQ=;+C3P83ohSZFUKBiy9s1LPg=="
 ---

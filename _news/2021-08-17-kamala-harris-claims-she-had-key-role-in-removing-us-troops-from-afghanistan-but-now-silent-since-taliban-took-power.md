@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris heads to Vietnam while Afghanistan images rekindle the past"
+    excerpt: "White House officials did not anticipate the comparisons with Afghanistan when they charted Vice President Kamala Harris' trip to Vietnam."
+    publishedDateTime: 2021-08-20T15:05:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-08-20/kamala-harris-heading-to-vietnam-while-afghanistan-images-rekindle-the-past"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-08-20/kamala-harris-heading-to-vietnam-while-afghanistan-images-rekindle-the-past?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-08-20/kamala-harris-heading-to-vietnam-while-afghanistan-images-rekindle-the-past?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 124
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/d9b7fa2/2147483647/strip/true/crop/4920x3290+138+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7e%2F38%2F635d86aa2db3dd896c89aaebc540%2F985f1f775bb340a6bdbd3191945db757"
+        width: 320
+        height: 214
+        isCached: true
   - title: "Kamala Harris’ Asia trip carries new urgency after Afghan collapse"
     excerpt: "The Taliban takeover of Afghanistan has given new urgency to Vice President Kamala Harris’ tour of southeast Asia, where she will attempt to reassure allies of American resolve following the"
     publishedDateTime: 2021-08-20T16:04:00Z
@@ -42,6 +58,22 @@ related:
       - url: "https://www.denverpost.com/wp-content/uploads/2021/08/Harris_Asia_44906.jpg?w=1024&#038;h=682"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Harris' Asia trip carries new urgency after Afghan collapse"
+    excerpt: "The Taliban takeover of Afghanistan has given new urgency to Vice President Kamala Harris' tour of Southeast Asia, where she will attempt to reassure allies of American resolve following the chaotic end of a two-decade war."
+    publishedDateTime: 2021-08-20T23:46:00Z
+    webUrl: "https://www.expressnews.com/news/article/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
+    ampWebUrl: "https://www.expressnews.com/news/amp/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
+    cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/amp/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
+    type: article
+    provider:
+      name: San Antonio Express-News
+      domain: expressnews.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/42/17/21373947/3/400x0.jpg"
+        width: 400
+        height: 266
         isCached: true
   - title: "Kamala Harris' trip to Asia has new urgency amid collapse of Afghan government"
     excerpt: "The Taliban takeover of Afghanistan is giving new urgency to Vice President Kamala Harris' tour of southeast Asia, where she will attempt to reassure allies of American resolve following the chaotic end of a two-decade war."
@@ -70,15 +102,6 @@ related:
       name: News Tribune
       domain: thenewstribune.com
     quality: 55
-  - title: "Harris’ Asia trip carries new urgency after Afghan collapse"
-    excerpt: "The Taliban takeover of Afghanistan has given new urgency to Vice President Kamala Harris' tour of southeast Asia, where she will attempt to reassure allies of American resolve following the chaotic end of a two-decade war."
-    publishedDateTime: 2021-08-20T19:39:00Z
-    webUrl: "https://lasvegassun.com/news/2021/aug/20/harris-asia-trip-carries-new-urgency-after-afghan/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 35
 
 secured: "4O9GEnSkhx1z7AFe+vWALScWtllnu5qbhY7jhx7+mOqT3RSf9fXQsuclGWCTXS4bQEsALOa4K4CzUHR/ycEweA5pseA+qlwZT5TRw28RR40xNYrNBFQPHP9EsdT4T2EGBp5ren0dU/g6RNHk2YiPEUMSKz2HaqYTOl7XGTcLe8npaJ6KC1/mMUAA7oxUb0Lmc3SJ3H5erxZWxJkrlFIQZvn/xZVDpj9YpaHOLNMypxO0Lp1cm/Ao8ay5mcAb87TLMo66dasLsp1b+WiMFDvMft/iVCQ0FPD/n/o4KuyhXt5hnHFJ0sS9H5L2rDuJUNCwmpg9mze9EI253c2uU4EYVRk1I2Kzedt8tW76XNRTozM=;T6tpPHespXErGtx66j29hQ=="
 ---

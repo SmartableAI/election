@@ -143,6 +143,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Marjorie Taylor Greene seeks to impeach Biden over Afghanistan crisis"
+    excerpt: "Rep. Marjorie Taylor Greene introduced a trio of impeachment resolutions against President Biden on Friday, calling for him to be removed from office over his handling of the withdrawal of U.S. troops from Afghanistan and other alleged offenses."
+    publishedDateTime: 2021-08-20T23:06:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KBpekpvquTs/marjorie-taylor-greene-impeach-biden-afghanistan-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/marjorie-taylor-greene-impeach-biden-afghanistan-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/marjorie-taylor-greene-impeach-biden-afghanistan-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d4aa0198-a3a7-4d72-a73d-e3ea5b9fd4cf/2f2b50d7-decc-4855-a7a5-2482256a3bdb/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "North Carolina billboard skewers Biden for botched Afghanistan withdrawal"
     excerpt: "A billboard in Wilmington, North Carolina, skewered Biden for his botched withdrawal from Afghanistan that saw the Taliban take over the country and stranded thousands of Americans."
     publishedDateTime: 2021-08-18T14:57:33Z
@@ -335,6 +351,38 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden's Afghanistan speech panned for being 'divorced' from reality on the ground"
+    excerpt: "Lawmakers quickly called out President Biden Friday for his White House speech on Afghanistan for not accurately depicting the reality on the ground."
+    publishedDateTime: 2021-08-20T20:56:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lcj4ElR3iOg/biden-afghanistan-speech-panned-divorced-reality"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-afghanistan-speech-panned-divorced-reality.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-afghanistan-speech-panned-divorced-reality.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden has only spent 4 of 15 full days in White House since Afghanistan crisis began"
+    excerpt: "President Biden has spent four full days at White House in 15 days since Afghanistan crisis began, six days entirely at Camp David or in Delaware."
+    publishedDateTime: 2021-08-20T23:39:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k4tcwrpPGoc/biden-time-white-house-camp-david-wilmington"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-time-white-house-camp-david-wilmington.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-time-white-house-camp-david-wilmington.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Alabama vet who nearly died in Afghanistan calls Biden withdrawal strategy 'disgusting'"
     excerpt: "Alabama Army combat veteran Colin Wayne Erwin, who nearly died in Afghanistan, criticized President Joe Biden’s chaotic withdrawal from Afghanistan as \"disgusting\" to watch and a \"disheartening\" end to the 20 years of sacrifices made by members of the military and others."
     publishedDateTime: 2021-08-19T23:12:22Z
@@ -350,6 +398,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Sen. Ron Johnson slams Biden 'disaster' in Afghanistan: 'It didn't have to go this way'"
+    excerpt: "Sen. Ron Johnson slammed President Joe Biden’s Friday remarks on the evacuation of Americans from Afghanistan referring to the unfolding chaos in the Middle East a “disaster.”"
+    publishedDateTime: 2021-08-20T22:49:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ck0TcQYaVII/ron-johnson-slams-biden-afghanistan-disaster"
+    ampWebUrl: "https://www.foxnews.com/politics/ron-johnson-slams-biden-afghanistan-disaster.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ron-johnson-slams-biden-afghanistan-disaster.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5a346e2b-8db8-4fa3-86ec-c8ae633a7a37/e74b9240-515b-45b8-a892-dc8c1f4a81bd/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Obama-era Afghanistan ambassador has 'grave questions' about Biden's 'ability to lead' US"
     excerpt: "A former Obama-era ambassador to Afghanistan says he has \"grave questions\" about President Biden's \"ability to lead\" America as commander in chief following the stunning collapse of Afghanistan."
@@ -494,6 +558,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Pentagon admits al Qaeda has a ‘presence’ in Afghanistan minutes after Biden says they are ‘gone’"
+    excerpt: "The Pentagon appeared to back track on President Joe Biden’s implication that al Qaeda was “gone” from Afghanistan and admitted the terror group still has a “presence” in the region."
+    publishedDateTime: 2021-08-20T20:21:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3DfkutEOx84/pentagon-admits-al-qaeda-has-a-presence-in-afghanistan-minutes-after-biden-says-they-are-gone"
+    ampWebUrl: "https://www.foxnews.com/politics/pentagon-admits-al-qaeda-has-a-presence-in-afghanistan-minutes-after-biden-says-they-are-gone.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pentagon-admits-al-qaeda-has-a-presence-in-afghanistan-minutes-after-biden-says-they-are-gone.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/75f8cb66-7037-4f05-8af6-9917b0ba748c/f35bacdb-cd6c-453c-bcec-6ad9f46bcdd3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Biden hit with bipartisan criticism over Afghanistan debacle: 'Our dire warnings fell on deaf ears'"
     excerpt: "President Biden is the target of relentless criticism for his handling of the military drawdown from Afghanistan, which has resulted in a swift Taliban takeover of the nation, the abandonment of the American embassy and desperate scenes at the Kabul airport."

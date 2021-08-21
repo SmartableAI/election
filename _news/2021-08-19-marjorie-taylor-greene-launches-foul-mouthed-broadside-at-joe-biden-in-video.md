@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/marjorie-taylor-greene-foul-mouthed-broadsi
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/marjorie-taylor-greene-foul-mouthed-broadside-joe-biden-video-1620960?amp=1"
 type: article
 quality: 122
-heat: 162
+heat: 182
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 52
+  - title: "Rep Marjorie Taylor Greene filing articles of impeachment against President Joe Biden and calls him a ‘pathetic puppet’"
+    excerpt: "GOP Rep. Marjorie Taylor Greene announced she will file articles of impeachment against President Biden during an America First rally in Des Moines Thursday night. Greene said at the rally:"
+    publishedDateTime: 2021-08-20T04:57:00Z
+    webUrl: "https://www.the-sun.com/news/3507321/rep-marjorie-taylor-greene-articles-impeachment-president-joe-biden/"
+    ampWebUrl: "https://www.the-sun.com/news/3507321/rep-marjorie-taylor-greene-articles-impeachment-president-joe-biden/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3507321/rep-marjorie-taylor-greene-articles-impeachment-president-joe-biden/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 51
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/BB-MTG-IMPEACH-COMP-V2.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "QO0fi3okDyrYf6Lo0ZjsNtgobzfC5PmvnDx9mvJC4ONJy0jRtdQ4HilOy2NFc5ENz0uf9L16u+XnAS9fPMBCKb20psQYKSX4kyZlYDp4LEI46Urw590cPnFd99q/yXqhuTMkycD2bNkCNwfAKVLkF/zIwvdJwD5Z1vT4bSzU2quf62quZpF9Mb1X+GnN5Oa2LA9henIzBUdqserB5Ky6IT79Tj2dfVCH4x9KVnGJ9McMxaJdUJSwaxG0AwAo68TBINzEdj+OJ25ICcbmgtkdsTLvjqhFkEKISjoIpkkgUTm/ixitlhcSEyqUAmTL7+jtJCsG8aOM+9zWuTaoGxEaOa9xtHdDfVtaNksCM54bRcDwbCEk8jFkk1xGQkPA6WGFp4sXLSdgE8Nl8B06rX1BYdC/k1EDiqbhlnSqfR5ZcSJ+sqcNNBBum9MHCYvma/t6TTbtAtySx40cMWm9laHebsZjpWVxV0WkMk14ItCVhI7NPcPaDutqZObkjLLA3Wdv5D1P/XCod8Gbw4qqmZlJ9w==;P3aM9vehMPulFYjOGzHNgg=="
 ---

@@ -47,6 +47,22 @@ related:
         width: 836
         height: 545
         isCached: true
+  - title: "U.S. Vice President Kamala Harris To Visit Asia As Fallout Mounts From Afghanistan Crisis"
+    excerpt: "Vice President Kamala Harris reportedly will visit Singapore and Vietnam later this month as fallout and criticism continues to mount from the crisis surrounding the Biden administration’s handling of the U."
+    publishedDateTime: 2021-08-20T04:49:00Z
+    webUrl: "https://www.forbes.com/sites/russellflannery/2021/08/20/us-vice-president-kamala-harris-to-visit-asia-as-fallout-mounts-from-afghanistan-crisis/"
+    ampWebUrl: "https://www.forbes.com/sites/russellflannery/2021/08/20/us-vice-president-kamala-harris-to-visit-asia-as-fallout-mounts-from-afghanistan-crisis/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/russellflannery/2021/08/20/us-vice-president-kamala-harris-to-visit-asia-as-fallout-mounts-from-afghanistan-crisis/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 116
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611f31269f923dbbf742b14b%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Harris, Lopez Obrador speak on boosting Central American economies"
     excerpt: "U.S. Vice President Kamala Harris and Mexican President Andres Manuel Lopez Obrador spoke by phone on Monday and agreed on the need to focus on strengthening the economies of Central America, particularly through investment in agriculture and climate resilience,"
     publishedDateTime: 2021-08-09T23:18:00Z
@@ -131,6 +147,22 @@ related:
       - url: "https://www.staradvertiser.com/wp-content/uploads/2021/08/web1_11629436-918eb558ae52400e940bc5a3ab4173d0.jpg"
         width: 760
         height: 507
+        isCached: true
+  - title: "Kamala Harris’ tour of southeast Asia carries new urgency following Afghan collapse"
+    excerpt: "The Taliban takeover of Afghanistan has given new urgency to Vice President Kamala Harris’ tour of southeast Asia, where she will attempt to reassure allies of American resolve following the"
+    publishedDateTime: 2021-08-20T04:49:00Z
+    webUrl: "https://ktla.com/news/nationworld/kamala-harris-tour-of-southeast-asia-carries-new-urgency-following-afghan-collapse/"
+    ampWebUrl: "https://ktla.com/news/nationworld/kamala-harris-tour-of-southeast-asia-carries-new-urgency-following-afghan-collapse/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/nationworld/kamala-harris-tour-of-southeast-asia-carries-new-urgency-following-afghan-collapse/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 69
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2021/08/AP21232015944906.jpg?w=1280"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Kamala Harris is taunted over planned Vietnam visit as Afghanistan crisis compared to fall of Saigon"
     excerpt: "KAMALA Harris has been taunted over her planned visit to Vietnam after the crisis in Afghanistan was compared to the fall of Saigon. The vice president is due to visit the country as part of a"

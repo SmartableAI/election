@@ -27,31 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Biden COVID origin investigation expected to end soon | Charlotte Observer"
-    excerpt: "A 90-day intelligence review into the origins of COVID-19 ordered by President Joe Biden is expected to end largely where it began, without high confidence in how the coronavirus first emerged, government officials told McClatchy. Biden will receive a ..."
-    publishedDateTime: 2021-08-09T17:39:00Z
-    webUrl: "https://www.charlotteobserver.com/news/coronavirus/article253365748.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/coronavirus/article253365748.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/coronavirus/article253365748.html"
+  - title: "Biden pledges to Americans in Kabul: 'We will get you home'"
+    excerpt: "President Joe Biden is pledging to Americans still trapped in Afghanistan: “We will get you home.” Biden also said Friday the United States is committed to evacuating all Afghans who assisted the war effort — a potentially vast expansion of the administration's commitments on the airlift so far,"
+    publishedDateTime: 2021-08-20T23:57:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/US-struggles-to-speed-Kabul-airlift-despite-16399637.php"
+    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/US-struggles-to-speed-Kabul-airlift-despite-16399637.php"
+    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/US-struggles-to-speed-Kabul-airlift-despite-16399637.php"
     type: article
     provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 73
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 75
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557046001/12b39f35-3a05-423f-a838-37e72ee371d0/e503dd4e-6739-4b6c-8212-c4272a4fecad/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://s.hdnux.com/photos/01/21/42/55/21375845/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
-  - title: "Biden says rising prices are temporary, 'no serious' economist predicting spiraling inflation | Charlotte Observer"
-    excerpt: "President Joe Biden sought to alleviate Americans' concerns that price spikes would persist in an economic speech from the White House July 2021."
-    publishedDateTime: 2021-08-13T15:16:00Z
-    webUrl: "https://www.charlotteobserver.com/news/politics-government/article253468574.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 13
 
 secured: "UQbRbBJiFXpm+EKP4ktNzLy1QARsGsnjQuwrr98wlby8ktQkxgeq00a8puBGEjHTdvTwUeOJBPiSQbzwUUz1wkRYBdtHW4Ltr8cDsA5oxrTIJ9v0MQIlqczXjryBt4RXDcJUA2U4F+SRDPXBCMJy9ZxL0epObDj2mUQ/XqMMaXXeturCEbHTLz7S0JOKQTHelTekigxOvXNAcRw0fP4tRhwp5MmO0UL47tRAhR1eAYlD2kXEqjmWn5CX5myLeVXYYarSMzT2fwIRAd3t9sXnmcAv5999SyVCLqPnA32Pc6H31e0Hu/pewloEnc/DIb2rlUFXn8NK7uvZ2PNPSXAhhUDWY1UmkTXmoxHUHnK0vlSqQGNrpOdfA5m+R4YXIN86RSkLlSx2SPhS/Z26hWQe1y5AAFR/2+iiCocP8S8a8v9FZ6uy9gwEua4FaX1Zphovc5sP3qK4xDPUWXn7nALxzUbGCqPMYieuTre8xPP7OMLSDLC85qGOa85vjGHGuQP5xdCl3pwvvUDCm9DKSATbFw==;rT2wffj5j5nH0KgL3ytKFA=="
 ---

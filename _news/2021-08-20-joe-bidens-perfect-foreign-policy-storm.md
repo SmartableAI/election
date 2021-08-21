@@ -375,6 +375,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Afghanistan creates crisis of confidence in Joe Biden"
+    excerpt: "US President Joe Biden comments on Afghanistan in the East Room of the White House in Washington, DC, United States on August 16, 2021. | Photo: SHAWN THEW / Agence EFE Many Americans are probably increasingly aware of the rapidly diminishing confidence in Joe Biden’s competence as President of the United States."
+    publishedDateTime: 2021-08-20T00:06:00Z
+    webUrl: "https://manometcurrent.com/afghanistan-creates-crisis-of-confidence-in-joe-biden/"
+    ampWebUrl: "https://manometcurrent.com/afghanistan-creates-crisis-of-confidence-in-joe-biden/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/afghanistan-creates-crisis-of-confidence-in-joe-biden/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 75
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/49b316f115a469a03be09d160f01a4170ac3b4ffw-660x372.jpg"
+        width: 660
+        height: 372
+        isCached: true
   - title: "President Joe Biden orders 1,000 more troops to aid Afghanistan departure"
     excerpt: "President Joe Biden authorized on Saturday an additional 1,000 U.S. troops for deployment to Afghanistan, raising to roughly 5,000 the number of U.S. troops to ensure what Biden called an “orderly and safe drawdown” of American and allied personnel."
     publishedDateTime: 2021-08-14T22:53:00Z
@@ -764,6 +780,20 @@ related:
       name: The Journal News
       domain: lohud.com
     quality: 32
+  - title: "Osama bin Laden Banned al Qaeda From Trying To Assassinate Joe Biden Because He Believed He Would Be An Incompetent President - Report"
+    excerpt: "Osama bin Laden Banned al Qaeda From Trying To Assassinate Joe Biden Because He Believed He Would Be An Incompetent President - Report"
+    publishedDateTime: 2021-08-20T23:22:00Z
+    webUrl: "https://www.peacefmonline.com/pages/local/news/202108/450447.php"
+    type: article
+    provider:
+      name: Peace FM Online
+      domain: peacefmonline.com
+    quality: 23
+    images:
+      - url: "https://w5p2r8x5.stackpathcdn.com/photos/news/202108/272942371_912074.jpg"
+        width: 600
+        height: 417
+        isCached: true
   - title: "President Joe Biden Issues a Proclamation on National Employer Support of the Guard and Reserve Week, from August 15th through the 21st of 2021"
     excerpt: "President Joe Biden Issues a Proclamation on National Employer Support of the Guard and Reserve Week, from August 15th through the 21st of 2021"
     publishedDateTime: 2021-08-16T12:56:00Z

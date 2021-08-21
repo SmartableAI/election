@@ -938,6 +938,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Kamala Harris tanking in polls after Afghan withdrawal"
+    excerpt: "Americans have further soured on Vice President Kamala Harris as she continues her radio silence on the chaotic and tragic withdrawal of US forces from Afghanistan, a new poll indicates. According to a Rasmussen Reports survey,"
+    publishedDateTime: 2021-08-20T19:03:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=865050"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 55
+    images:
+      - url: "http://www.daijiworld.in/images3/plywood_082021_1.jpg"
+        width: 580
+        height: 386
+        isCached: true
   - title: "VP Kamala Harris visits Rhode Island with Commerce Secretary Gina Raimondo"
     excerpt: "Vice President Kamala Harris answers questions during a visit to RI with Commerce Secretary Gina Raimondo. Providence Journal video/ Kris Craig]"
     publishedDateTime: 2021-05-05T21:35:00Z

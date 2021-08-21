@@ -853,6 +853,34 @@ related:
       name: BND
       domain: bnd.com
     quality: 55
+  - title: "Live: Joe Biden delivers speech on Afghanistan evacuation"
+    excerpt: "Live: Joe Biden delivers speech on Afghanistan evacuation. The President claims the UK and NATO allies 'had a choice' to stay in the country"
+    publishedDateTime: 2021-08-20T13:41:00Z
+    webUrl: "https://ynuk.tv/2021/08/20/live-joe-biden-delivers-speech-on-afghanistan-evacuation/"
+    type: article
+    provider:
+      name: ynuk.tv
+      domain: ynuk.tv
+    quality: 55
+    images:
+      - url: "https://ynuk.tv/wp-content/uploads/2021/08/biden--e1629482628210.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Watch Live: Biden Gives an Update on Afghanistan Evacuations"
+    excerpt: "President Biden is delivering another speech about Afghanistan, as a scramble to evacuate American citizens and vulnerable Afghans continues."
+    publishedDateTime: 2021-08-20T23:38:00Z
+    webUrl: "https://wdet.org/posts/2021/08/20/91352-watch-live-biden-gives-an-update-on-afghanistan-evacuations/"
+    type: article
+    provider:
+      name: WDET
+      domain: wdet.org
+    quality: 55
+    images:
+      - url: "https://wdet.org/media/wdet/assets/2019/05/16/Whitehouse-photo.jpg"
+        width: 3000
+        height: 1987
+        isCached: true
   - title: "WATCH LIVE: President Joe Biden Addresses The Nation Amid Afghanistan Collapse"
     excerpt: "President Joe Biden is expected to address the nation on the U.S. evacuation from Afghanistan. Biden plans to speak to the nation Monday, April 16, 2021, at 1:45 p.m. MST. Colorado Public Radio will carry live coverage on the radio and online."
     publishedDateTime: 2021-08-16T18:47:00Z
@@ -866,6 +894,20 @@ related:
       - url: "https://i2.wp.com/wp-cpr.s3.amazonaws.com/uploads/2021/08/AP21228642654210.jpg?resize=1200,600"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Joe Biden Afghanistan crisis: POTUS expects around 50,000 Afghans to be flown out"
+    excerpt: "US President Joe Biden continues to face criticism and backlash over the withdrawal of the US from Afghanistan as the Taliban took over. In a recent interview, Biden revealed that he had expected the withdrawal from"
+    publishedDateTime: 2021-08-20T06:02:00Z
+    webUrl: "https://www.econotimes.com/Joe-Biden-Afghanistan-crisis-POTUS-expects-around-50000-Afghans-to-be-flown-out-1615448"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 50
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/20210819b72c66b719ed6123f_th_1024x0.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "Biden to Marshal International Community on Rights in Afghanistan -Adviser"
     excerpt: "U.S. National Security Adviser Jake Sullivan on Monday said that President Joe Biden is prepared to marshal the international community on human rights in Afghanistan, where the Taliban is seizing power."

@@ -53,6 +53,22 @@ related:
         width: 320
         height: 214
         isCached: true
+  - title: "Rep Marjorie Taylor Greene filing articles of impeachment against President Joe Biden and calls him a ‘pathetic puppet’"
+    excerpt: "GOP Rep. Marjorie Taylor Greene announced she will file articles of impeachment against President Biden during an America First rally in Des Moines Thursday night. Greene said at the rally:"
+    publishedDateTime: 2021-08-20T04:57:00Z
+    webUrl: "https://www.the-sun.com/news/3507321/rep-marjorie-taylor-greene-articles-impeachment-president-joe-biden/"
+    ampWebUrl: "https://www.the-sun.com/news/3507321/rep-marjorie-taylor-greene-articles-impeachment-president-joe-biden/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3507321/rep-marjorie-taylor-greene-articles-impeachment-president-joe-biden/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 51
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/BB-MTG-IMPEACH-COMP-V2.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "HJsFIMLE3Rm1kz45NoP6cjD8PKTM/TgeSV/OoIIKV0HpWsjo+hK1qWqwk5kTPeQSCL/zDMQ6Tflwe+SYnm0jiDE3KTDiqlHA80bUF03GOocDEVqZuVviBBepETaNcr+FVmwV9MfehrKUG1gZT5stpPZj4ZZ8sGKbRkG9FVgDh6Jvy9sbpfp1yJmACEifpDI3rQrBAF9FWsZqeiwu6MXQPozlMRGs3rvh6NjOpWdj/WLq5BSExEj6sZEpwSB1amtv66tWTEr56rcAxBgwsjPtWLnlj34352pk+SdYbWI5FY5tk5z4pc5VFJgM8OOlxl46Z/BMTtt/xKee0MGL8PLm8fwnvEowI8xZ0AyrHmI0FM4=;CmFZ9wHuIw7KosM5tuznwA=="
 ---

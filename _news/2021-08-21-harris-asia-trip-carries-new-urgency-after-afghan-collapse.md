@@ -1,24 +1,48 @@
 ---
 category: news
-title: "Harris’ Asia trip carries new urgency after Afghan collapse"
-excerpt: "The Taliban takeover of Afghanistan has given new urgency to Vice President Kamala Harris' tour of southeast Asia, where she will attempt to reassure allies of American resolve following the chaotic end of a two-decade war."
-publishedDateTime: 2021-08-20T19:39:00Z
-originalUrl: "https://lasvegassun.com/news/2021/aug/20/harris-asia-trip-carries-new-urgency-after-afghan/"
-webUrl: "https://lasvegassun.com/news/2021/aug/20/harris-asia-trip-carries-new-urgency-after-afghan/"
+title: "Harris' Asia trip carries new urgency after Afghan collapse"
+excerpt: "The Taliban takeover of Afghanistan has given new urgency to Vice President Kamala Harris' tour of Southeast Asia, where she will attempt to reassure allies of American resolve following the chaotic end of a two-decade war."
+publishedDateTime: 2021-08-20T23:46:00Z
+originalUrl: "https://www.expressnews.com/news/article/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
+webUrl: "https://www.expressnews.com/news/article/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
+ampWebUrl: "https://www.expressnews.com/news/amp/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
+cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/amp/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
 type: article
-quality: 35
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Las Vegas Sun
-  domain: lasvegassun.com
+  name: San Antonio Express-News
+  domain: expressnews.com
 
 topics:
   - Election
   - Kamala Harris
 
+images:
+  - url: "https://s.hdnux.com/photos/01/21/42/17/21373947/3/400x0.jpg"
+    width: 400
+    height: 266
+    isCached: true
+
 related:
+  - title: "Kamala Harris heads to Vietnam while Afghanistan images rekindle the past"
+    excerpt: "White House officials did not anticipate the comparisons with Afghanistan when they charted Vice President Kamala Harris' trip to Vietnam."
+    publishedDateTime: 2021-08-20T15:05:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-08-20/kamala-harris-heading-to-vietnam-while-afghanistan-images-rekindle-the-past"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-08-20/kamala-harris-heading-to-vietnam-while-afghanistan-images-rekindle-the-past?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-08-20/kamala-harris-heading-to-vietnam-while-afghanistan-images-rekindle-the-past?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 124
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/d9b7fa2/2147483647/strip/true/crop/4920x3290+138+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7e%2F38%2F635d86aa2db3dd896c89aaebc540%2F985f1f775bb340a6bdbd3191945db757"
+        width: 320
+        height: 214
+        isCached: true
   - title: "Kamala Harris’ Asia trip carries new urgency after Afghan collapse"
     excerpt: "The Taliban takeover of Afghanistan has given new urgency to Vice President Kamala Harris’ tour of southeast Asia, where she will attempt to reassure allies of American resolve following the"
     publishedDateTime: 2021-08-20T16:04:00Z
@@ -79,6 +103,6 @@ related:
         height: 800
         isCached: true
 
-secured: "XZ6+k8T2GTJDvmytL6VneVV+gXaCgcrrcV71XVviV8cHS/PbO9g6X7Qv+8I53jPLZ8HILogMmNoR6mlkg/otSWFk6SAcmFmsbR3r0u/3ktmAk+ag6Cv0V3yr+uyLg9ZaSA35g2aInWHVxpwJ1qQ7a+YzFlpDpbmXgUU88oFgyKN9pkOtWOYcs/TP6N76bpSts/XrYSdI2ipjoXXWUYkWKJsNzAfGMOF4/EK8jYli9u2HASQggc3s7ClhATf2xxExm7zJweitdYvS6FbSfjR3Yvce62wF6+aMhUy4AG81FeIOEU18N2nBkPkfaJLBlmXr/wVGyPnkh1PwAcIspa3bSR3KyOo/Kr1K43KNLtDx3j1HzMUCzmxIl4s84mcjx7o3cb2/zqLE2WgBsESLnNhtZerWmsRut2m0q4RUqSIA67AiogYJXd50/jSLYtGFbwdoHxL2VZSv326zr5OMAPEhG0udAVSRLSxVxJo7t0I56Z4dYKIM+Iul3CFelbHi/HXjtuWFhAyvfGhBurEv/EJDQQ==;WUQtj3OBvKWwhvTkKqdnew=="
+secured: "0/QO1J91F1r3VLv37d2/6JEB4TR8qmHH1ykDyeXvkCowY/iqH6fDzTT/oUjoZUI6aUsA2gZg1ZSPa0NIJSF4ppMxHRBZFK3i4VKlNzglyTw2O4Nogx4dJIztDl+N/8o2t7bkwMx5dHDFLZ35d8RXEv2h2IMb8yQvoR4Dz+XsgaeF8u6ZZPlDgCwBHShQ0jnQ748B38GfUh85ECFtAA/3zOkK5aqss+ZKF0UoCScTVnQjuxOy5zHsfDGTmO5qfwU9UZmPS6s7Ul3c0Vm8t33EJZLKWvzCPcRkY068H9irOGddTczASMELbT6oVphJikgZr2nygtHobfN3mmbie8Uo+T9O2h0BPisDENarVtaj5AQ=;LzFqoElW16olbR6pEwUWaw=="
 ---
 

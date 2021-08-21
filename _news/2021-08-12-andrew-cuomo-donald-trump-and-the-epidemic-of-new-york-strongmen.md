@@ -44,6 +44,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's conduct needs a federal investigation"
+    excerpt: "As alarming testimony and facts have continued to emerge about the former president's efforts to overturn the election that he lost, Donald Ayer and Norman Eisen disagree with commentators who say there is \"little reason\" to open an investigation, write Donald Ayer and Norman Eisen. And should he choose"
+    publishedDateTime: 2021-08-20T19:08:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Tpu9bksSR0s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/20/opinions/trump-conduct-needs-federal-investigation-ayer-eisen/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/20/opinions/trump-conduct-needs-federal-investigation-ayer-eisen/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210222191414-trump-rodgers-oped-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Interviews with former DOJ officials provide new details on Trump efforts to undermine election results "
     excerpt: "Two top former Justice Department officials provided interviews to the Senate Judiciary Committee and provided detailed accounts of a tumultuous period in late December and early January during which a senior Justice Department lawyer sought to deploy the department's resources in support of false voting"
     publishedDateTime: 2021-08-08T16:28:42Z

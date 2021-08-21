@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-pushes-for-vaccine-booster-sh
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pushes-for-vaccine-booster-shots-starting-in-september.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -63,6 +63,17 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "A stagflation swamp: Joe Biden is Jimmy Carter 2.0"
+    excerpt: "The year is 1977. In August, President Jimmy Carter is seven months into his presidency. Inflation has cleared 6%, while the U.S. labor force participation rate is stuck at 62.3%. The New York Times warns of a “stagflation swamp."
+    publishedDateTime: 2021-08-20T08:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/op-eds/a-stagflation-swamp-joe-biden-is-jimmy-carter-2-0"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/op-eds/a-stagflation-swamp-joe-biden-is-jimmy-carter-2-0?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/op-eds/a-stagflation-swamp-joe-biden-is-jimmy-carter-2-0?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
 
 secured: "E4aOq6q4Yrm3/qnBh/Lgk84UBLrsVJD7aOGpRAKzu0Nf4SjR6hDI1k1y040IJC7O1Flvm7ms01C2cwFTMMDToIEFRSbSz3TKteuUxjYg15AH1eU8AkW3SyIshzIp+61L+SiSL3XNdPgPPad6jAJmWPmQSSHiGUrlTpPOs9TQHi7bRYwin/Ai2mWAd6M44yIaWnwBla997osuipsjRVoNV6ymtY1tiD1nGFbYwKGmgiMSW4h4c7VYino9M0gx5Szj4hxNqzFMvBZYpUsbYZyGxIxGyMQNoW2S02uXbBFa6y8shPBvLF9JyAtoaQOWq4dl71DUQ+/815uYpfxy9IwQzpfv/ci9fc3OG3RRtRYW0Pg=;LrlB0nJeMX6ESPTGhQP9sw=="
 ---

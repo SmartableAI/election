@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-08-20-kamala-harris-asia-trip-carries-new-urgency-after-afghan-collapse.md",
-      "title": "Kamala Harris’ Asia trip carries new urgency after Afghan collapse",
-      "excerpt": "The Taliban takeover of Afghanistan has given new urgency to Vice President Kamala Harris’ tour of southeast Asia, where she will attempt to reassure allies of American resolve following the",
+      "path": "_news/2021-08-20-kamala-harris-heads-to-vietnam-while-afghanistan-images-rekindle-the-past.md",
+      "title": "Kamala Harris heads to Vietnam while Afghanistan images rekindle the past",
+      "excerpt": "White House officials did not anticipate the comparisons with Afghanistan when they charted Vice President Kamala Harris' trip to Vietnam.",
       "sourceUrl": null,
-      "webUrl": "https://www.denverpost.com/2021/08/20/kamala-harris-asia-trip/",
-      "originalUrl": "https://www.denverpost.com/2021/08/20/kamala-harris-asia-trip/",
+      "webUrl": "https://www.latimes.com/politics/story/2021-08-20/kamala-harris-heading-to-vietnam-while-afghanistan-images-rekindle-the-past",
+      "originalUrl": "https://www.latimes.com/politics/story/2021-08-20/kamala-harris-heading-to-vietnam-while-afghanistan-images-rekindle-the-past",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 224,
       "tags": null,
       "images": [
         {
-          "url": "https://www.denverpost.com/wp-content/uploads/2021/08/Harris_Asia_44906.jpg?w=1024&#038;h=682",
-          "width": 1024,
-          "height": 682,
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/d9b7fa2/2147483647/strip/true/crop/4920x3290+138+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7e%2F38%2F635d86aa2db3dd896c89aaebc540%2F985f1f775bb340a6bdbd3191945db757",
+          "width": 320,
+          "height": 214,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,65 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.denverpost.com/2021/08/20/kamala-harris-asia-trip/amp/",
-      "cdnAmpWebUrl": "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/08/20/kamala-harris-asia-trip/amp/",
-      "publishedDateTime": "2021-08-20T09:04:00-07:00",
+      "ampWebUrl": "https://www.latimes.com/politics/story/2021-08-20/kamala-harris-heading-to-vietnam-while-afghanistan-images-rekindle-the-past?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-08-20/kamala-harris-heading-to-vietnam-while-afghanistan-images-rekindle-the-past?_amp=true",
+      "publishedDateTime": "2021-08-20T08:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Denver Post",
-        "domain": "denverpost.com",
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-08-20-vp-kamala-harris-to-return-to-california-to-campaign-for-newsom-next-week.md",
+      "title": "VP Kamala Harris to return to California to campaign for Newsom next week",
+      "excerpt": "WASHINGTON — Vice President Kamala Harris will campaign for Gov. Gavin Newsom next week as the Democratic Party rallies around the California governor in his recall battle. The vice president and former California senator will visit her home state next ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sfchronicle.com/politics/article/VP-Kamala-Harris-to-return-to-California-to-16400277.php",
+      "originalUrl": "https://www.sfchronicle.com/politics/article/VP-Kamala-Harris-to-return-to-California-to-16400277.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/21/42/32/21374623/3/400x0.jpg",
+          "width": 400,
+          "height": 266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sfchronicle.com/politics/amp/VP-Kamala-Harris-to-return-to-California-to-16400277.php",
+      "cdnAmpWebUrl": "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/VP-Kamala-Harris-to-return-to-California-to-16400277.php",
+      "publishedDateTime": "2021-08-20T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "San Francisco Chronicle",
+        "domain": "sfchronicle.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -285,7 +337,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1000,
+      "heat": 1040,
       "tags": null,
       "images": [
         {
@@ -395,7 +447,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-companies-idUSKBN2FD18R",
       "featuredContent": null,
       "highlight": null,
-      "heat": 425,
+      "heat": 465,
       "tags": null,
       "images": [
         {
@@ -1560,63 +1612,6 @@
       ],
       "topics": [
         "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-biden-and-harris-to-focus-on-voting-rights-thursday-expand-dnc-program.md",
-      "title": "Biden and Harris to focus on voting rights Thursday, expand DNC program ",
-      "excerpt": "President Joe Biden and Vice President Kamala Harris will hold separate events Thursday to focus attention on Democratic efforts to combat voter suppression and protect voting rights nationwide, Democratic officials tell CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ea4SvK5UNG4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ea4SvK5UNG4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 399,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210624141126-01-biden-infrastructure-0624-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/06/politics/voting-rights-biden-harris/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/voting-rights-biden-harris/index.html",
-      "publishedDateTime": "2021-07-06T15:54:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
         "Kamala Harris"
       ]
     }

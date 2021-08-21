@@ -9,8 +9,8 @@ ampWebUrl: "https://www.denverpost.com/2021/08/20/kamala-harris-asia-trip/amp/"
 cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/08/20/kamala-harris-asia-trip/amp/"
 type: article
 quality: 75
-heat: 155
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Denver Post
@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris heads to Vietnam while Afghanistan images rekindle the past"
+    excerpt: "White House officials did not anticipate the comparisons with Afghanistan when they charted Vice President Kamala Harris' trip to Vietnam."
+    publishedDateTime: 2021-08-20T15:05:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-08-20/kamala-harris-heading-to-vietnam-while-afghanistan-images-rekindle-the-past"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-08-20/kamala-harris-heading-to-vietnam-while-afghanistan-images-rekindle-the-past?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-08-20/kamala-harris-heading-to-vietnam-while-afghanistan-images-rekindle-the-past?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 124
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/d9b7fa2/2147483647/strip/true/crop/4920x3290+138+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7e%2F38%2F635d86aa2db3dd896c89aaebc540%2F985f1f775bb340a6bdbd3191945db757"
+        width: 320
+        height: 214
+        isCached: true
+  - title: "Harris' Asia trip carries new urgency after Afghan collapse"
+    excerpt: "The Taliban takeover of Afghanistan has given new urgency to Vice President Kamala Harris' tour of Southeast Asia, where she will attempt to reassure allies of American resolve following the chaotic end of a two-decade war."
+    publishedDateTime: 2021-08-20T23:46:00Z
+    webUrl: "https://www.expressnews.com/news/article/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
+    ampWebUrl: "https://www.expressnews.com/news/amp/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
+    cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/amp/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
+    type: article
+    provider:
+      name: San Antonio Express-News
+      domain: expressnews.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/42/17/21373947/3/400x0.jpg"
+        width: 400
+        height: 266
+        isCached: true
   - title: "Kamala Harris' trip to Asia has new urgency amid collapse of Afghan government"
     excerpt: "The Taliban takeover of Afghanistan is giving new urgency to Vice President Kamala Harris' tour of southeast Asia, where she will attempt to reassure allies of American resolve following the chaotic end of a two-decade war."
     publishedDateTime: 2021-08-20T14:12:00Z
@@ -70,16 +102,7 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Harris’ Asia trip carries new urgency after Afghan collapse"
-    excerpt: "The Taliban takeover of Afghanistan has given new urgency to Vice President Kamala Harris' tour of southeast Asia, where she will attempt to reassure allies of American resolve following the chaotic end of a two-decade war."
-    publishedDateTime: 2021-08-20T19:39:00Z
-    webUrl: "https://lasvegassun.com/news/2021/aug/20/harris-asia-trip-carries-new-urgency-after-afghan/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 35
 
-secured: "gLC4FET+Fcsd7wtzYkpDcKrguRldz0ejnl9S67yh0OZZXRe31chd4VvNBPkRHR1H3EvF/EsaJNWgevRrM0Onm3IVFtBwjRGNyTv+5BbhlMhvWaIdTaoI4xNQCgduN18AuOpwJB7FvksqjGVvwwQqzij9QCi+zfn5KGzw9L27OCTsZ2nYpn516JbkfLNZijTkBXKZ58QKM5M+ocIZVbYGmMUx41oestdxiSMxpEXIz9u3MZ2lm50WETDS8nPRBVEFM52KN7B57XPJDQr/Cw70Gi79wtBTw0mwP/bRNc4do4W/yXFjgebi2vsQYhPBXykDz96/KVVcImtyauT8J1wfRDab7x7hH+AGfE4d5tObrsU=;RVT0wuP/0lxCAdGDAMVpEQ=="
+secured: "hkdE9t95Ao96oUcajbpwgHn92McvbTHr95mP3n91Yu5ddh0ZHbsUoVFlnrmlvKred1UIen3OPX+8rCEP0QHT+oMO4MZCv88gSVumc5aPOY3KEMwqxrTuPfo9npPQ+KCeAqYLW41TiFqFxOWQVTh7/I52bjnfJ5EQKM6s3+D5ayLlGZivyL6eP2dcIR7VLYWmN+ACzNtea4iwYx+VVqrU+CiA1Oj5wCipGYVlPr7yiJJPoMjMYvgLEAQYLowAXXbP1mRfT1RGQIA5pDwS6ej6ZGkXh3TzeRl1NwHWhQMBQMtDmQUZev01gJ8GcwOj7zd/gGOffE4zFnWE4vZzoQYv9mmZHQTtwbX+RhgMs3o2qyE45PzoLwM3cPy+SnzUnDiKYmqyLmUMrIygHZ1KHxqZFKG2O2qDE72KICiq1JDvFhS7N5LsGALWBwQl0y8LMfHavsNLYD/ckNsQA3OhHGv0fj9kGthfTHMlauGNrvzxYTu0RVdiLyBy1TQYkXYcTm3XRLGJxr4Bp5UUSjY3i2X8XA==;FVkf00YAui6ogN/zSsuN2w=="
 ---
 

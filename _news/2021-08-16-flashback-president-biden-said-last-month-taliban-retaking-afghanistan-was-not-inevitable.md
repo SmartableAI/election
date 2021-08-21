@@ -74,6 +74,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "VP Harris leaves for trip to Vietnam, Singapore amid Afghanistan fiasco"
+    excerpt: "Vice President Kamala Harris on Friday is leaving for a trip to Vietnam and Singapore, just as the Biden administration is grappling with ongoing chaos in Afghanistan."
+    publishedDateTime: 2021-08-20T21:06:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RCl-gpmgQdE/harris-trip-vietnam-singapore-amid-afghanistan-fiasco"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-trip-vietnam-singapore-amid-afghanistan-fiasco.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-trip-vietnam-singapore-amid-afghanistan-fiasco.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43dec90e-50bf-4981-97ed-2fc0ac19fae8/df9afa57-897f-48c4-9c09-2cd422aefcb3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden says as many as 15,000 Americans looking to flee Afghanistan"
     excerpt: "As many as 15,000 American citizens may remain inside Afghanistan, struggling to get out, days after the Asian nation fell to control of Taliban terrorists, President Biden said Wednesday."
     publishedDateTime: 2021-08-19T05:17:53Z
@@ -279,6 +295,22 @@ related:
     quality: 160
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/adf11577-32a7-49ed-899c-bb631c6498ac/d6946b41-1d3b-42fe-a157-85748f379bad/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Defense Secretary Austin contradicts Biden, says Americans beaten by Taliban trying to reach airport"
+    excerpt: "Secretary of Defense Lloyd Austin contradicted President Biden on Friday, telling House lawmakers on a phone call that multiple Americans trying to reach the Kabul airport have been beaten by Taliban fighters, two lawmakers told Fox News.  "
+    publishedDateTime: 2021-08-20T20:13:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/10ZpTTNvmKY/defense-secretary-austin-contradicts-biden-americans-beaten-taliban-airport"
+    ampWebUrl: "https://www.foxnews.com/politics/defense-secretary-austin-contradicts-biden-americans-beaten-taliban-airport.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/defense-secretary-austin-contradicts-biden-americans-beaten-taliban-airport.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9b2733bf-3c94-4743-b56c-03b821489030/1b34ef9b-5ac3-4559-9d53-4b5069c7cb60/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

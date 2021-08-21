@@ -47,6 +47,22 @@ related:
         width: 781
         height: 551
         isCached: true
+  - title: "Biden backs end to wolf protections but hunting worries grow"
+    excerpt: "President Joe Biden’s administration is sticking by former President Donald Trump's decision to lift protections for gray wolves across most of the U.S. But a top federal wildlife official on Friday told The Associated Press there is growing concern over aggressive hunting and trapping for the animals in the Great Lakes and northern Rocky Mountains."
+    publishedDateTime: 2021-08-20T23:46:00Z
+    webUrl: "https://www.click2houston.com/news/politics/2021/08/20/biden-backs-end-to-wolf-protections-but-hunting-worries-grow/"
+    ampWebUrl: "https://www.click2houston.com/news/politics/2021/08/20/biden-backs-end-to-wolf-protections-but-hunting-worries-grow/?outputType=amp"
+    cdnAmpWebUrl: "https://www-click2houston-com.cdn.ampproject.org/c/s/www.click2houston.com/news/politics/2021/08/20/biden-backs-end-to-wolf-protections-but-hunting-worries-grow/?outputType=amp"
+    type: article
+    provider:
+      name: Click2Houston
+      domain: click2houston.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/PFQDBFIYQZFDZHCD5M4RWFNZDU.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "rLYtsnT4gHamUFBixUsFcjKdH9dFExfVNdTRYrWgEBO2zKtFZfiN7Sl9YrIij2WKxIuJsbkM6f3NAMKbrS1yUyMxZ7iRVN2tYNZ9sFABg3KF3gMaq5hpo5J8b3hIol+0OAVVE/MD4t6Sf/uDjY9UWF3N6JapDwvU+Xaxn3QJI3eGckdaQUxIkCEOnA/L2flRbGYVnqkGJGCk2swpwTlOJ9rs+C4bQHJ3RMz8OpoLccXSho+u6nFJXkgCfy6HfbD4s9QR/6bfHCwTQ+VtVg2nUonEvAuKT6K7WkzX9iR4dn6oZxqXQyhyJk9xuivs89KV5yzYxtnFPG5IKREKAUzIFjFyGke6U1prtFmYrLUcnXWM7rJqxhuS1zZYa6LJUcCEykNPgr0F5SmEjzkq3cehNTdUJ3p7mC2Ngnb7IBmetX4Rbl0KInKfKH/0vTQMFhHAEh+8yzcuxKMB1F9cH32m7Ag5vHyeLTzQDiaDfobhWuZVxtj6WnKAMxqlA45aTjKmaPe4ehVgMUSSa2evLcsQ7w==;Nq8e+CftGcw7cQeHCiqqgQ=="
 ---
