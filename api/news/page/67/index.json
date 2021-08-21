@@ -2,6 +2,63 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2021-04-07-steyn-biden-consciously-enriching-cartels-with-entirely-dissolved-southern-border.md",
+      "title": "Steyn: Biden 'consciously enriching cartels' with 'entirely dissolved' southern border",
+      "excerpt": "In his \"Fox News Primetime\" monologue on Tuesday, host Mark Steyn lamented the exponential increase in human smuggling into the United States as the Biden administration fails to secure the southern b",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/steyn-biden-consciously-enriching-cartels-with-entirely-dissolved-southern-border",
+      "originalUrl": "https://www.foxnews.com/politics/steyn-biden-consciously-enriching-cartels-with-entirely-dissolved-southern-border",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f2d6dc0-4bc4-4aa4-b5dc-699a52c0278c/dc452007-fbad-423d-be76-3a780d567600/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/steyn-biden-consciously-enriching-cartels-with-entirely-dissolved-southern-border.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/steyn-biden-consciously-enriching-cartels-with-entirely-dissolved-southern-border.amp",
+      "publishedDateTime": "2021-04-06T18:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-harris-vaccinated-can-be-role-models-for-friends-family.md",
       "title": "Harris: Vaccinated can be 'role models' for friends, family",
       "excerpt": "Vice President Kamala Harris on Tuesday urged Chicago union members to share their experience receiving a COVID-19 vaccine and act as “role models\" for family and friends who may be reluctant even as Illinois prepares to open access to all adults.",
@@ -1295,58 +1352,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-a-miracle-hunter-biden-says-a-blind-date-with-his-future-wife-rescued-him-from-crack-addiction.md",
-      "title": "A \"miracle\": Hunter Biden says a blind date with his future wife rescued him from crack addiction",
-      "excerpt": "Biden's mother, Neilia Biden, and his one-year-old sister, Naomi, were killed in a car crash in 1972. He and his older brother, Beau, just two and three at the time, were critically injured, but survived. Their father, Joe, was sworn in to his first term ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/hunter-biden-crack-addition-blind-date-future-wife/",
-      "originalUrl": "https://www.cbsnews.com/news/hunter-biden-crack-addition-blind-date-future-wife/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/05/ebb7e532-69f6-4ada-9dd2-64f6cd707bdb/thumbnail/1200x630/c65d58112a1f5beed214fd35a5924ac5/0405-ctm-hunter.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/hunter-biden-crack-addition-blind-date-future-wife/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/hunter-biden-crack-addition-blind-date-future-wife/",
-      "publishedDateTime": "2021-04-05T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

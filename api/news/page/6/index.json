@@ -2,6 +2,62 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-08-07-911-families-tell-biden-to-stay-away-from-memorial-service-if-he-doesnt-authorize-release-of-records-related-to-attacks.md",
+      "title": "9/11 families tell Biden to stay away from memorial service if he doesn't authorize release of records related to attacks",
+      "excerpt": "More than 1,600 people affected by the September 11 attacks are asking President Joe Biden to refrain from coming to Ground Zero to mark the 20th anniversary of the event unless he releases documents and information related to the attacks, according to a letter released by the group.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9Po5li0GG28/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9Po5li0GG28/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200911154718-03-joe-biden-0911-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/06/politics/joe-biden-9-11-records-memorial-service/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/06/politics/joe-biden-9-11-records-memorial-service/index.html",
+      "publishedDateTime": "2021-08-06T17:48:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-07-pence-is-joining-other-gop-officials-in-pushing-the-covid-19-vaccine-telling-young-conservatives-i-got-the-shot.md",
       "title": "Pence is joining other GOP officials in pushing the COVID-19 vaccine, telling young conservatives: 'I got the shot'",
       "excerpt": "Pence joins the ranks of other GOP officials who are asking their Republican base to get vaccinated.",
@@ -1274,62 +1330,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-boston-mayor-uses-slavery-trump-to-shoot-down-questions-about-vaccine-passports.md",
-      "title": "Boston mayor uses slavery, Trump to shoot down questions about vaccine passports",
-      "excerpt": "Acting Boston Mayor Kim Janey shot down talks of enforcing vaccine passports in the city, comparing such papers to the Jim Crow era and former President Donald Trump’s birtherism theories.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5WZ_sj_NUq4/boston-mayor-vaccine-passports-new-york-city",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5WZ_sj_NUq4/boston-mayor-vaccine-passports-new-york-city",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5a29dc84-ff99-4991-ad67-439ad4c35eec/a0545df5-b69a-4b20-8cda-e2fb50bc90f7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/boston-mayor-vaccine-passports-new-york-city.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boston-mayor-vaccine-passports-new-york-city.amp",
-      "publishedDateTime": "2021-08-04T06:28:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

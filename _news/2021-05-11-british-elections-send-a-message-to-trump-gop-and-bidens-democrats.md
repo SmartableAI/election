@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/british-elections-send-a-mes
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/british-elections-send-a-message-to-trump-gop-and-bidens-democrats/2021/05/10/40b7beec-b1d6-11eb-9059-d8176b9e3798_story.html?outputType=amp"
 type: article
 quality: 155
-heat: 1475
+heat: 1495
 published: true
 
 provider:
@@ -730,6 +730,22 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20210518&i=OVEDHV4DB&r=OVEDHV4DB&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "Trump would beat Biden in 2020 election do-over, new poll shows"
+    excerpt: "U.S. voters may be experiencing buyer’s remorse when it comes to President Biden, according to a newly released poll."
+    publishedDateTime: 2021-08-21T18:39:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/aug/19/trump-would-beat-biden-2020-election-do-over-new-p/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/19/trump-would-beat-biden-2020-election-do-over-new-p/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/19/trump-would-beat-biden-2020-election-do-over-new-p/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 105
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/07/30/Trump_Justice_Department_56084.jpg-e702c_c0-0-3600-2100_s1200x700.jpg?bd461f07e95b0f5f36779822774ec445b04d6d07"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Trump's triumphs extend to GOP rewriting history of Nov. 3 and Jan. 6: The Note"
     excerpt: "Many of Rep. Liz Cheney's colleagues are well along in crafting their own Trumpian and patently false narratives of both the election and the subsequent attack on Jan. 6."

@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Analysis: Why Americans may ultimately not care about Biden's Afghanistan performance "
+    excerpt: "Poll of the week: A new AP-NORC poll shows President Joe Biden's approval rating on foreign policy has fallen to 47%, while his approval rating stands at 51%. It's the fi​​rst time in his presidency that Biden's approval rating on foreign policy is below his disapproval rating in the AP-NORC poll.\n "
+    publishedDateTime: 2021-08-21T19:02:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SX7ZNK85m8I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/21/politics/biden-afghanistan-polling-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/21/politics/biden-afghanistan-polling-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210820141557-05-biden-presser-afghanistan-0820-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact check: Biden claims al Qaeda is 'gone' from Afghanistan. Then the Pentagon confirms it's still there"
     excerpt: "Defending the withdrawal of US troops from Afghanistan, President Joe Biden said at the White House on Friday: \"Look, let's put this thing in perspective. What interest do we have in Afghanistan at this point, with al Qaeda gone? We went to Afghanistan for the express purpose of getting rid of al Qaeda"
     publishedDateTime: 2021-08-21T00:14:23Z

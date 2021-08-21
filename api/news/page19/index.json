@@ -2,6 +2,63 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-07-10-vp-harris-talks-about-multiple-assignments-from-biden-maybe-i-dont-say-no-enough.md",
+      "title": "VP Harris talks about multiple assignments from Biden: 'Maybe I don't say 'no' enough'",
+      "excerpt": "Vice President Kamala Harris marveled at her full plate of major White House responsibilities quipping that she'll have to work on saying \"no\" to President Biden more often.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IdETTSvdkG4/vp-harris-talks-about-multiple-assignments-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IdETTSvdkG4/vp-harris-talks-about-multiple-assignments-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 232,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/vp-harris-talks-about-multiple-assignments-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-harris-talks-about-multiple-assignments-biden.amp",
+      "publishedDateTime": "2021-07-10T11:53:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-07-10-budd-trump-endorsement-really-accelerated-gop-run-for-senate-in-north-carolina.md",
       "title": "Budd: Trump endorsement ‘really accelerated’ GOP run for Senate in North Carolina",
       "excerpt": "Rep. Ted Budd says former President Trump’s endorsement of his 2022 campaign for Senate in North Carolina “really clarified things” in the battle for the Republican nomination.",
@@ -1311,58 +1368,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-trump-says-global-warming-efforts-dont-work-because-rest-of-the-world-is-filthy.md",
-      "title": "Trump Says Global Warming Efforts Don't Work Because 'Rest of the World' is 'Filthy'",
-      "excerpt": "Trump blamed China and India for creating massive air pollution from coal plants while the U.S. focuses on \"stupid\" windmills that provide renewable energy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-says-global-warming-efforts-dont-work-because-rest-world-filthy-1608129",
-      "originalUrl": "https://www.newsweek.com/trump-says-global-warming-efforts-dont-work-because-rest-world-filthy-1608129",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1841386/oreilly-trump-global-warming-climate-change-filthy.jpg",
-          "width": 2500,
-          "height": 1554,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-says-global-warming-efforts-dont-work-because-rest-world-filthy-1608129?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-global-warming-efforts-dont-work-because-rest-world-filthy-1608129?amp=1",
-      "publishedDateTime": "2021-07-08T15:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

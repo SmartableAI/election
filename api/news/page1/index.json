@@ -2,6 +2,120 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-21-analysis-why-americans-may-ultimately-not-care-about-bidens-afghanistan-performance.md",
+      "title": "Analysis: Why Americans may ultimately not care about Biden's Afghanistan performance ",
+      "excerpt": "Poll of the week: A new AP-NORC poll shows President Joe Biden's approval rating on foreign policy has fallen to 47%, while his approval rating stands at 51%. It's the fi​​rst time in his presidency that Biden's approval rating on foreign policy is below his disapproval rating in the AP-NORC poll.\n ",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SX7ZNK85m8I/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SX7ZNK85m8I/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210820141557-05-biden-presser-afghanistan-0820-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/21/politics/biden-afghanistan-polling-analysis/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/21/politics/biden-afghanistan-polling-analysis/index.html",
+      "publishedDateTime": "2021-08-21T12:02:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-22-former-pence-aide-says-trump-and-miller-stymied-afghan-refugee-efforts.md",
+      "title": "Former Pence aide says Trump and Miller stymied Afghan refugee efforts.",
+      "excerpt": "Olivia Troye recalled sitting in meetings where Stephen Miller, Mr. Trump’s top immigration adviser, demanded restrictions on refugees, including those from Afghanistan and Iraq.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/08/21/world/asia/pence-troye-trump-miller-afghan-refugees.html",
+      "originalUrl": "https://www.nytimes.com/2021/08/21/world/asia/pence-troye-trump-miller-afghan-refugees.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/08/21/world/21afghanistan-briefing-troye-trump/21afghanistan-briefing-troye-trump-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/08/21/world/asia/pence-troye-trump-miller-afghan-refugees.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/21/world/asia/pence-troye-trump-miller-afghan-refugees.amp.html",
+      "publishedDateTime": "2021-08-21T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-21-pence-aide-blames-stephen-miller-for-devastating-visa-system-for-afghans.md",
       "title": "Pence aide blames Stephen Miller for 'devastating' visa system for Afghans",
       "excerpt": "Olivia Troye said Stephen Miller, a senior adviser to former President Donald Trump, undermined anyone trying to get the allies out of Afghanistan.",
@@ -53,7 +167,7 @@
       "originalUrl": "https://www.sunherald.com/news/politics-government/national-politics/article253632053.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 110,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -65,6 +179,49 @@
       "provider": {
         "name": "Biloxi Sun Herald",
         "domain": "sunherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-21-donald-trump-speaking-in-alabama-for-the-first-time-in-4-years.md",
+      "title": "Donald Trump speaking in Alabama for the first time in 4 years",
+      "excerpt": "Trump will speak tonight in Cullman, his first political event in Alabama since 2017. (AP Photo/Ross D. Franklin, File) AP Six years to the day after a rally in Mobile gave an early glimpse of Donald Trump’s ability to generate the excitement that would propel him to the White House,",
+      "sourceUrl": null,
+      "webUrl": "https://www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for-the-first-time-in-4-years.html",
+      "originalUrl": "https://www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for-the-first-time-in-4-years.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NFUPH4M6QRDLLKJBN7DOE4AXCM.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for-the-first-time-in-4-years.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for-the-first-time-in-4-years.html?outputType=amp",
+      "publishedDateTime": "2021-08-21T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "al.com",
+        "domain": "al.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -232,62 +389,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-fact-check-biden-claims-al-qaeda-is-gone-from-afghanistan-then-the-pentagon-confirms-its-still-there.md",
-      "title": "Fact check: Biden claims al Qaeda is 'gone' from Afghanistan. Then the Pentagon confirms it's still there",
-      "excerpt": "Defending the withdrawal of US troops from Afghanistan, President Joe Biden said at the White House on Friday: \"Look, let's put this thing in perspective. What interest do we have in Afghanistan at this point, with al Qaeda gone? We went to Afghanistan for the express purpose of getting rid of al Qaeda",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/S_Na-cJiO94/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/S_Na-cJiO94/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210820141557-05-biden-presser-afghanistan-0820-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/20/politics/fact-check-al-qaeda-gone-afghanistan-biden/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/20/politics/fact-check-al-qaeda-gone-afghanistan-biden/index.html",
-      "publishedDateTime": "2021-08-20T17:14:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     },
     {
@@ -1157,115 +1258,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-white-house-doubles-down-on-harris-asia-trip-amid-afghan-crisis-many-interests-around-the-world.md",
-      "title": "White House doubles down on Harris' Asia trip amid Afghan crisis: 'Many interests around the world'",
-      "excerpt": "The White House doubled down on Kamala Harris' East Asia trip amid the Afghanistan crisis. An official said the United States \"has many interests around the world.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YnD8Ucb7cHk/white-house-harris-asia-trip-amid-afghan-crisis-interests-around-world",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YnD8Ucb7cHk/white-house-harris-asia-trip-amid-afghan-crisis-interests-around-world",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43dec90e-50bf-4981-97ed-2fc0ac19fae8/df9afa57-897f-48c4-9c09-2cd422aefcb3/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/white-house-harris-asia-trip-amid-afghan-crisis-interests-around-world.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-harris-asia-trip-amid-afghan-crisis-interests-around-world.amp",
-      "publishedDateTime": "2021-08-18T13:40:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-trump-family-friend-associate-ken-kurson-re-arrested-on-cyber-stalking-charges.md",
-      "title": "Trump family friend, associate Ken Kurson re-arrested on cyber-stalking charges",
-      "excerpt": "Seven months after he was granted a pardon by then-President Trump, Ken Kurson, a friend of Trump's son-in-law, was arrested Wednesday on new charges.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/trump-family-friend-associate-ken-kurson-arrested-cyber/story?id=79507632",
-      "originalUrl": "https://abcnews.go.com/US/trump-family-friend-associate-ken-kurson-arrested-cyber/story?id=79507632",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 221,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/jared-kushner-ken-kurson-gty-jt-210817_1629240427687_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/trump-family-friend-associate-ken-kurson-arrested-cyber/story?id=79507632",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/trump-family-friend-associate-ken-kurson-arrested-cyber/story?id=79507632",
-      "publishedDateTime": "2021-08-18T12:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

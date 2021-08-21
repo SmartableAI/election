@@ -2,6 +2,62 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-07-24-biden-heckled-at-terry-mcauliffe-rally-plagued-by-another-small-crowd.md",
+      "title": "Biden heckled at Terry McAuliffe rally, plagued by another small crowd",
+      "excerpt": "President Biden was heckled by an audience member during an appearance in Virginia on Friday and stopped his speech to address the individual.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rlc-o-UYTto/biden-heckled-plagued-by-another-small-crowd-at-mcauliffe-event",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rlc-o-UYTto/biden-heckled-plagued-by-another-small-crowd-at-mcauliffe-event",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7fbf889c-b70b-48da-8ae6-495e8e02a8ee/840bcc45-5e37-4994-9e60-a1f39dd62771/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-heckled-plagued-by-another-small-crowd-at-mcauliffe-event.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-heckled-plagued-by-another-small-crowd-at-mcauliffe-event.amp",
+      "publishedDateTime": "2021-07-23T17:40:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-24-such-a-disgrace-trump-blasts-cleveland-indians-name-change.md",
       "title": "‘Such a disgrace’: Trump blasts Cleveland Indians name change",
       "excerpt": "Former President Donald Trump blasted the Cleveland Indians Friday over their name change announcement. “Can anybody believe that the Cleveland Indians, a storied and cherished baseball franchise since taking the name in 1915,",
@@ -1289,58 +1345,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-audio-trump-says-he-spoke-to-a-loving-crowd-at-jan-6-rally.md",
-      "title": "Audio: Trump says he spoke to a ‘loving crowd’ at Jan. 6 rally",
-      "excerpt": "In an exclusive interview for the new book \"I Alone Can Fix It,\" the former president described the atmosphere on Jan. 6 before the storming of the Capitol as largely friendly and peaceful.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/07/21/trump-interview-i-alone-can-fix-it/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/07/21/trump-interview-i-alone-can-fix-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NWR5U4SQJMI6XIPV7WXSRT6KSA.jpg&w=1440",
-          "width": 1440,
-          "height": 936,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-22T00:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

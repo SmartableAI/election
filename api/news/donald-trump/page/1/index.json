@@ -2,6 +2,64 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-22-former-pence-aide-says-trump-and-miller-stymied-afghan-refugee-efforts.md",
+      "title": "Former Pence aide says Trump and Miller stymied Afghan refugee efforts.",
+      "excerpt": "Olivia Troye recalled sitting in meetings where Stephen Miller, Mr. Trump’s top immigration adviser, demanded restrictions on refugees, including those from Afghanistan and Iraq.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/08/21/world/asia/pence-troye-trump-miller-afghan-refugees.html",
+      "originalUrl": "https://www.nytimes.com/2021/08/21/world/asia/pence-troye-trump-miller-afghan-refugees.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/08/21/world/21afghanistan-briefing-troye-trump/21afghanistan-briefing-troye-trump-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/08/21/world/asia/pence-troye-trump-miller-afghan-refugees.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/21/world/asia/pence-troye-trump-miller-afghan-refugees.amp.html",
+      "publishedDateTime": "2021-08-21T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-21-trump-fueled-election-audit-sparks-senate-gop-turmoil.md",
       "title": "Trump-fueled election ‘audit’ sparks Senate GOP turmoil",
       "excerpt": "The top Republican in the Pennsylvania Senate says he’s putting a different senator in charge of an “election integrity” undertaking and removing a senator who had aimed to carry out an Arizona-style “forensic investigation” of Pennsylvania’s 2020 presidential election.",
@@ -10,7 +68,7 @@
       "originalUrl": "https://www.sunherald.com/news/politics-government/national-politics/article253632053.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 110,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -22,6 +80,49 @@
       "provider": {
         "name": "Biloxi Sun Herald",
         "domain": "sunherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-21-donald-trump-speaking-in-alabama-for-the-first-time-in-4-years.md",
+      "title": "Donald Trump speaking in Alabama for the first time in 4 years",
+      "excerpt": "Trump will speak tonight in Cullman, his first political event in Alabama since 2017. (AP Photo/Ross D. Franklin, File) AP Six years to the day after a rally in Mobile gave an early glimpse of Donald Trump’s ability to generate the excitement that would propel him to the White House,",
+      "sourceUrl": null,
+      "webUrl": "https://www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for-the-first-time-in-4-years.html",
+      "originalUrl": "https://www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for-the-first-time-in-4-years.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NFUPH4M6QRDLLKJBN7DOE4AXCM.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for-the-first-time-in-4-years.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for-the-first-time-in-4-years.html?outputType=amp",
+      "publishedDateTime": "2021-08-21T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "al.com",
+        "domain": "al.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -437,49 +538,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-former-president-coming-to-heart-of-trump-country-on-return-to-alabama.md",
-      "title": "Former president coming to ‘heart of Trump country’ on return to Alabama",
-      "excerpt": "John Wahl said he started working to bring former President Donald Trump back to Alabama right after the state Republican Party picked him as chairman in February. Earlier efforts fell through, including a planned rally July 3 at the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.al.com/news/2021/08/former-president-coming-to-heart-of-trump-country-on-return-to-alabama.html",
-      "originalUrl": "https://www.al.com/news/2021/08/former-president-coming-to-heart-of-trump-country-on-return-to-alabama.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CG36TSTRSZB4ZN7NW5OAVVCW7A.jpg",
-          "width": 819,
-          "height": 461,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.al.com/news/2021/08/former-president-coming-to-heart-of-trump-country-on-return-to-alabama.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/08/former-president-coming-to-heart-of-trump-country-on-return-to-alabama.html?outputType=amp",
-      "publishedDateTime": "2021-08-16T17:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "al.com",
-        "domain": "al.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1390,58 +1448,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-donald-trump-calls-35t-budget-plan-assault-on-our-nation-after-measure-clears-senate.md",
-      "title": "Donald Trump Calls $3.5T Budget Plan 'Assault on Our Nation' After Measure Clears Senate",
-      "excerpt": "Former President Donald Trump said Americans are being \"robbed\" after the Democrats' $3.5 trillion budget plan \"Good morning, America!",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-calls-35t-budget-plan-assault-our-nation-after-measure-clears-senate-1618410",
-      "originalUrl": "https://www.newsweek.com/donald-trump-calls-35t-budget-plan-assault-our-nation-after-measure-clears-senate-1618410",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1868613/trump-slams-35t-budget-plan.jpg",
-          "width": 2500,
-          "height": 1665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-calls-35t-budget-plan-assault-our-nation-after-measure-clears-senate-1618410?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-calls-35t-budget-plan-assault-our-nation-after-measure-clears-senate-1618410?amp=1",
-      "publishedDateTime": "2021-08-11T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],
