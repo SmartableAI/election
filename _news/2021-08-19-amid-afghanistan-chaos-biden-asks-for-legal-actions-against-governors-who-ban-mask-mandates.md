@@ -543,6 +543,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Former Army Ranger: Biden's Afghanistan speech was 'a bunch of diplomatic catchphrase bingo'"
+    excerpt: "A former Army Ranger who served three terms in Afghanistan said President Biden’s Friday address on the evacuation in the Central Asian country sounded like \"a bunch of diplomatic catchphrase bingo.\"  "
+    publishedDateTime: 2021-08-21T00:03:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cCMAINxj6IU/joe-biden-afghanistan-army-ranger-address-reaction"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-afghanistan-army-ranger-address-reaction.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-afghanistan-army-ranger-address-reaction.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/28e96580-42b3-4cf8-b197-9163a632552c/87bad67c-09b2-41fd-98b1-2e3a8c0cbfd8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden will ditch D.C. yet again as Afghanistan crisis rages, en route Delaware Friday afternoon"
     excerpt: "It's unclear if the president will answer press questions during his remarks Friday"
     publishedDateTime: 2021-08-20T13:31:29Z

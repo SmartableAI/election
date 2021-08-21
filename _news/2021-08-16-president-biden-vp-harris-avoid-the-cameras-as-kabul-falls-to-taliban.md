@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/president-biden-vp-harris-avoid-the
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-biden-vp-harris-avoid-the-cameras-as-kabul-falls.amp"
 type: article
 quality: 200
-heat: 1040
+heat: 1060
 published: true
 
 provider:
@@ -93,6 +93,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f850f181-a8b7-4e53-aff1-b2f6a57a4421/b2dd30f1-028f-4be2-90c5-01a4b4eaf1d4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Pompeo: Biden Friday speech failed to 'strike fear' into the Taliban"
+    excerpt: "EXCLUSIVE - Former Secretary of State Mike Pompeo issued a blistering response to President Joe Biden’s remarks on the current situation in Afghanistan saying that the president “failed” to adequately respond to the ongoing crisis."
+    publishedDateTime: 2021-08-21T00:48:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r_7_sdbijH8/pompeo-labels-bidens-friday-address-a-failure-shows-biden-not-a-reliable-partner-to-allies"
+    ampWebUrl: "https://www.foxnews.com/politics/pompeo-labels-bidens-friday-address-a-failure-shows-biden-not-a-reliable-partner-to-allies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-labels-bidens-friday-address-a-failure-shows-biden-not-a-reliable-partner-to-allies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f0b27d4-c2fb-4923-901f-691ababbcce2/1324fd48-e1bf-47a4-93b3-a614da6ccaab/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

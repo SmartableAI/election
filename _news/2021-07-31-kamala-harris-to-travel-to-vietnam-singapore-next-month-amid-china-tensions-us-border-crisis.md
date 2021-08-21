@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-vietnam-singapore-chi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-vietnam-singapore-china-tensions-border-migrant-crisis.amp"
 type: article
 quality: 173
-heat: 213
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -32,35 +32,35 @@ images:
     isCached: true
 
 related:
-  - title: "Dems worried about Kamala Harris approval: ‘More harm than good’"
-    excerpt: "As Vice President Kamala Harris’ poll numbers remain underwater, some Democrats are worried that she could become a drag on their efforts to maintain control of congress in the 2022 midterm"
-    publishedDateTime: 2021-07-29T19:23:00Z
-    webUrl: "https://nypost.com/2021/07/29/democrats-worried-about-kamala-harris-approval-numbers/"
-    ampWebUrl: "https://nypost.com/2021/07/29/democrats-worried-about-kamala-harris-approval-numbers/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/29/democrats-worried-about-kamala-harris-approval-numbers/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/kamala-harris-ratings-04.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Border Patrol union official says situation still 'horrific': ‘No progress’ since Kamala Harris visit"
-    excerpt: "National Border Patrol Council VP Art Del Cueto told “America’s Newsroom” Tuesday that the migrant surge is “horrific” and there’s been zero progress since Vice President Kamala Harris last visited the southern border."
-    publishedDateTime: 2021-08-03T17:26:00Z
-    webUrl: "https://www.foxnews.com/media/border-patrol-del-cueto-migrant-surge-kamala-harris"
-    ampWebUrl: "https://www.foxnews.com/media/border-patrol-del-cueto-migrant-surge-kamala-harris.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/border-patrol-del-cueto-migrant-surge-kamala-harris.amp"
+  - title: "Harris to campaign for Gov. Gavin Newsom in California after Vietnam, Singapore trip"
+    excerpt: "Vice President Kamala Harris will be making a campaign pit-stop in California next week to support Gov. Gavin Newsom in his race to overcome the recall election."
+    publishedDateTime: 2021-08-21T01:10:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ty3BtETzYUg/harris-to-campaign-for-newsom-in-california-after-vietnam-singapore-trip"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-to-campaign-for-newsom-in-california-after-vietnam-singapore-trip.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-to-campaign-for-newsom-in-california-after-vietnam-singapore-trip.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 120
+    quality: 178
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/098c09e1-5b32-40b2-aca6-8fa85de4aa8e/d16ba95d-5167-4d6c-8cee-5c758971c911/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8495bcff-9b88-4652-a881-c8b9c0e8662d/db7b172a-bb2e-43bc-b3a6-5ac1f6dcf567/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Kamala Harris plans Vietnam visit – just as Afghanistan draws comparisons to fall of Saigon"
+    excerpt: "Kamala Harris’ planned trip to Vietnam next week comes as the current crisis in Afghanistan has drawn comparisons to the fall of Saigon in the 1970s."
+    publishedDateTime: 2021-08-18T03:17:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/co29pDoySOU/kamala-harris-vietnam-afghanistan-comparisons-fall-of-saigon"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-vietnam-afghanistan-comparisons-fall-of-saigon.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-vietnam-afghanistan-comparisons-fall-of-saigon.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/98cc8f46-bb4f-4562-9c0a-4acf73ccfd0a/094faee1-0a8a-42b8-9dd1-011ad8daa6f7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

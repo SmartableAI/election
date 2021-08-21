@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/15/politics/biden-administration-tal
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/15/politics/biden-administration-taliban-kabul-afghanistan/index.html"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210810154230-07-biden-harris-remarks-0810-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden focuses on 'getting this job done' as the chaotic evacuation from Afghanistan grows desperate"
+    excerpt: "President Joe Biden will deliver remarks on Friday about the ongoing US military evacuations of American citizens and vulnerable Afghans as chaos ensues at and around Kabul's international airport.\n    \n"
+    publishedDateTime: 2021-08-21T00:54:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OiF3OcupmTA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/20/politics/biden-afghanistan-evacuation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/20/politics/biden-afghanistan-evacuation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210820140340-04-biden-presser-afghanistan-0820-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

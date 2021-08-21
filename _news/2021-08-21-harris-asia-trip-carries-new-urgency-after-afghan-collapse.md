@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Harris' Asia trip carries new urgency after Afghan collapse"
-excerpt: "The Taliban takeover of Afghanistan has given new urgency to Vice President Kamala Harris' tour of Southeast Asia, where she will attempt to reassure allies of American resolve following the chaotic end of a two-decade war."
-publishedDateTime: 2021-08-20T23:46:00Z
-originalUrl: "https://www.expressnews.com/news/article/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
-webUrl: "https://www.expressnews.com/news/article/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
-ampWebUrl: "https://www.expressnews.com/news/amp/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
-cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/amp/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
+excerpt: "The Taliban takeover of Afghanistan has given new urgency to"
+publishedDateTime: 2021-08-20T17:11:00Z
+originalUrl: "https://www.thetelegraph.com/news/article/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
+webUrl: "https://www.thetelegraph.com/news/article/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
+ampWebUrl: "https://www.thetelegraph.com/news/amp/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
+cdnAmpWebUrl: "https://www-thetelegraph-com.cdn.ampproject.org/c/s/www.thetelegraph.com/news/amp/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: San Antonio Express-News
-  domain: expressnews.com
+  name: The Telegraph
+  domain: thetelegraph.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://s.hdnux.com/photos/01/21/42/17/21373947/3/400x0.jpg"
-    width: 400
-    height: 266
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -103,6 +103,6 @@ related:
         height: 800
         isCached: true
 
-secured: "0/QO1J91F1r3VLv37d2/6JEB4TR8qmHH1ykDyeXvkCowY/iqH6fDzTT/oUjoZUI6aUsA2gZg1ZSPa0NIJSF4ppMxHRBZFK3i4VKlNzglyTw2O4Nogx4dJIztDl+N/8o2t7bkwMx5dHDFLZ35d8RXEv2h2IMb8yQvoR4Dz+XsgaeF8u6ZZPlDgCwBHShQ0jnQ748B38GfUh85ECFtAA/3zOkK5aqss+ZKF0UoCScTVnQjuxOy5zHsfDGTmO5qfwU9UZmPS6s7Ul3c0Vm8t33EJZLKWvzCPcRkY068H9irOGddTczASMELbT6oVphJikgZr2nygtHobfN3mmbie8Uo+T9O2h0BPisDENarVtaj5AQ=;LzFqoElW16olbR6pEwUWaw=="
+secured: "PCd2KYRMSfF07iJxjLdS+OeLQsDpSqJydBNa/A4/SlPaNVufAhz8NnAH1w6kQL+aMe17Xsb/NWGRpzRu9GrH4tLKJ9HQhyvwObyBMCVfs6Yy2useHEt4CAR4TQS6Xs4kecKTqKhs+jnwm/1TP5YfPrtjAuSsQ7PT5aplJbQAu7bgGczMSoXh+sJCwfxx/AaJc4H4CWTA49CQFKbFmlBUmDUmw+rSHY6ifEgcBl/zWLkquuGPESRlkuELaagmLXa2sOUyYvx+Zx7I5RRduHSsYx6R97BbOY8GBq6sfsQsc1mGxvD+j/4gnx1t/+2fEHUdP494ooyQpAai4DQC+vMxzbYKkb3K29fVu+ORWqjB3Qk=;3Vv8ehSfkQI4ft3OWrvTDw=="
 ---
 

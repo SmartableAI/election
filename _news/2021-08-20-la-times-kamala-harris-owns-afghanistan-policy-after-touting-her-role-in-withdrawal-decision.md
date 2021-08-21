@@ -32,19 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris plans Vietnam visit – just as Afghanistan draws comparisons to fall of Saigon"
-    excerpt: "Kamala Harris’ planned trip to Vietnam next week comes as the current crisis in Afghanistan has drawn comparisons to the fall of Saigon in the 1970s."
-    publishedDateTime: 2021-08-18T03:17:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/co29pDoySOU/kamala-harris-vietnam-afghanistan-comparisons-fall-of-saigon"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-vietnam-afghanistan-comparisons-fall-of-saigon.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-vietnam-afghanistan-comparisons-fall-of-saigon.amp"
+  - title: "White House doubles down on Harris' Asia trip amid Afghan crisis: 'Many interests around the world'"
+    excerpt: "The White House doubled down on Kamala Harris' East Asia trip amid the Afghanistan crisis. An official said the United States \"has many interests around the world.\""
+    publishedDateTime: 2021-08-18T20:40:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YnD8Ucb7cHk/white-house-harris-asia-trip-amid-afghan-crisis-interests-around-world"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-harris-asia-trip-amid-afghan-crisis-interests-around-world.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-harris-asia-trip-amid-afghan-crisis-interests-around-world.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 171
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/98cc8f46-bb4f-4562-9c0a-4acf73ccfd0a/094faee1-0a8a-42b8-9dd1-011ad8daa6f7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43dec90e-50bf-4981-97ed-2fc0ac19fae8/df9afa57-897f-48c4-9c09-2cd422aefcb3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

@@ -54,20 +54,20 @@ related:
         height: 682
         isCached: true
   - title: "Harris' Asia trip carries new urgency after Afghan collapse"
-    excerpt: "The Taliban takeover of Afghanistan has given new urgency to Vice President Kamala Harris' tour of Southeast Asia, where she will attempt to reassure allies of American resolve following the chaotic end of a two-decade war."
-    publishedDateTime: 2021-08-20T23:46:00Z
-    webUrl: "https://www.expressnews.com/news/article/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
-    ampWebUrl: "https://www.expressnews.com/news/amp/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
-    cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/amp/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
+    excerpt: "The Taliban takeover of Afghanistan has given new urgency to"
+    publishedDateTime: 2021-08-20T17:11:00Z
+    webUrl: "https://www.thetelegraph.com/news/article/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
+    ampWebUrl: "https://www.thetelegraph.com/news/amp/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
+    cdnAmpWebUrl: "https://www-thetelegraph-com.cdn.ampproject.org/c/s/www.thetelegraph.com/news/amp/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
     type: article
     provider:
-      name: San Antonio Express-News
-      domain: expressnews.com
+      name: The Telegraph
+      domain: thetelegraph.com
     quality: 75
     images:
-      - url: "https://s.hdnux.com/photos/01/21/42/17/21373947/3/400x0.jpg"
-        width: 400
-        height: 266
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Kamala Harris' trip to Asia has new urgency amid collapse of Afghan government"
     excerpt: "The Taliban takeover of Afghanistan is giving new urgency to Vice President Kamala Harris' tour of southeast Asia, where she will attempt to reassure allies of American resolve following the chaotic end of a two-decade war."

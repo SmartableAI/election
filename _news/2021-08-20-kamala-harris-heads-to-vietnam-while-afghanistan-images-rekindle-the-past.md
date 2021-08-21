@@ -48,20 +48,20 @@ related:
         height: 682
         isCached: true
   - title: "Harris' Asia trip carries new urgency after Afghan collapse"
-    excerpt: "The Taliban takeover of Afghanistan has given new urgency to Vice President Kamala Harris' tour of Southeast Asia, where she will attempt to reassure allies of American resolve following the chaotic end of a two-decade war."
-    publishedDateTime: 2021-08-20T23:46:00Z
-    webUrl: "https://www.expressnews.com/news/article/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
-    ampWebUrl: "https://www.expressnews.com/news/amp/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
-    cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/amp/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
+    excerpt: "The Taliban takeover of Afghanistan has given new urgency to"
+    publishedDateTime: 2021-08-20T17:11:00Z
+    webUrl: "https://www.thetelegraph.com/news/article/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
+    ampWebUrl: "https://www.thetelegraph.com/news/amp/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
+    cdnAmpWebUrl: "https://www-thetelegraph-com.cdn.ampproject.org/c/s/www.thetelegraph.com/news/amp/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
     type: article
     provider:
-      name: San Antonio Express-News
-      domain: expressnews.com
+      name: The Telegraph
+      domain: thetelegraph.com
     quality: 75
     images:
-      - url: "https://s.hdnux.com/photos/01/21/42/17/21373947/3/400x0.jpg"
-        width: 400
-        height: 266
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Kamala Harris' trip to Asia has new urgency amid collapse of Afghan government"
     excerpt: "The Taliban takeover of Afghanistan is giving new urgency to Vice President Kamala Harris' tour of southeast Asia, where she will attempt to reassure allies of American resolve following the chaotic end of a two-decade war."
@@ -107,6 +107,6 @@ related:
         height: 800
         isCached: true
 
-secured: "/CGKS3183+kwyf1hiB5cGYlMl+c1WMe6gXp1F/ppdV9uzrISEP0wH5mEbJdiq+Qe/xtTJZNqlPN7Nlwr4O10dB0nJBJaH7YAzVi5JTr9aoC4GuRER1y2dGYb6Y+2H0lsBOx2C2LbJHx7LX5DwP3zAf2dxo9lDp/U+uEqAF6S8ilcGf7K7ATQNPvBitFJBUEwthLyTvrXmzSGHZmqZ5wypuK5YO7BOrePZiim3dw8qbbs3jW6cmzUM9y/qIaOnxttaFQBah5zk+tTTkyA8fjGXZi11Tzj3DKXKTw8e/cukGqqwGFkBp++UD+yu8CZArL2gXtv3pA3TnSUYD9MzzfSPv2Mx5+kNJ9RdZlm8ZEw4Xs=;E7e3ZJyiIXwf2nYJu6lg7g=="
+secured: "3Gs65ZZm5TTtFmmUbYl9Dz81XZCq0Il9FCZLZlmPFIyvHBy06lJIUnUOaivrNNBFiaOL9At6mAIao9leU3li9OB7g+XTJNnnRkzAVGSl+H7NX6RjzGW0qPk3O9B1lWUr14Xyk92BffdC8V0xKeB2O+C1cSUoIjsSdcGZ/4pDCBA7PLATqPX42+F5gA5pNIurunEc0a6nlef8/2KhgcihffmhP57hCpXlxLxlmJVeEt9+4vjcpUuR4zL8xKuravGrfGNPXxqVwNsKoSPo9iXs4CZOvjiEZ1PA4uI12trZjD3xqGLR6jah/XU1flJzuGHS9c6sBbM3kQ+eGHoq41Q+1nyonRjrmjGgvqQRqDnkj3ugvqxQVznXw++HJwFcAPYG26eEHNh9Z31006dcr4W4NBnOtcHsoDZ1F9cf5iMujaKFrcvGp1yMkcMUQ5i3Jyud0LwUrNTmbZleqwwcIX4HzXWLrhNOA5iQeKn8T0kPTi+18lNLfEjCrMhT5l4PQerv88n2NJFhpMGp1U4nHiARUw==;zY8QTv3+KnokZXOif8Wh7g=="
 ---
 

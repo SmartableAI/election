@@ -2,23 +2,23 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-08-20-this-makes-benghazi-look-like-a-much-smaller-issue-house-republicans-vow-to-probe-bidens-afghanistan-exit-if-they-win-in-2022.md",
-      "title": "'This makes Benghazi look like a much smaller issue': House Republicans vow to probe Biden's Afghanistan exit if they win in 2022",
-      "excerpt": "Some Republicans see the fallout over the US exit from Afghanistan as their new Benghazi -- a foreign policy blunder ripe for investigation that could provide just the political ammunition they need to dent a popular Democratic President.\n    \n",
+      "path": "_news/2021-08-21-fact-check-biden-claims-al-qaeda-is-gone-from-afghanistan-then-the-pentagon-confirms-its-still-there.md",
+      "title": "Fact check: Biden claims al Qaeda is 'gone' from Afghanistan. Then the Pentagon confirms it's still there",
+      "excerpt": "Defending the withdrawal of US troops from Afghanistan, President Joe Biden said at the White House on Friday: \"Look, let's put this thing in perspective. What interest do we have in Afghanistan at this point, with al Qaeda gone? We went to Afghanistan for the express purpose of getting rid of al Qaeda",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AOA9gQHtcWk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AOA9gQHtcWk/index.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/S_Na-cJiO94/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/S_Na-cJiO94/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 146,
+      "heat": 178,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210729152353-us-capitol-building-0726-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210820141557-05-biden-presser-afghanistan-0820-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -28,9 +28,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/20/politics/house-republicans-afghanistan-biden-benghazi/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/20/politics/house-republicans-afghanistan-biden-benghazi/index.html",
-      "publishedDateTime": "2021-08-20T03:01:10-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/20/politics/fact-check-al-qaeda-gone-afghanistan-biden/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/20/politics/fact-check-al-qaeda-gone-afghanistan-biden/index.html",
+      "publishedDateTime": "2021-08-20T17:14:23-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -295,7 +295,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 355,
+      "heat": 375,
       "tags": null,
       "images": [
         {

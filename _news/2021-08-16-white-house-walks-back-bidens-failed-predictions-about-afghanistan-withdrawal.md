@@ -111,6 +111,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Pompeo: Biden Friday speech failed to 'strike fear' into the Taliban"
+    excerpt: "EXCLUSIVE - Former Secretary of State Mike Pompeo issued a blistering response to President Joe Biden’s remarks on the current situation in Afghanistan saying that the president “failed” to adequately respond to the ongoing crisis."
+    publishedDateTime: 2021-08-21T00:48:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r_7_sdbijH8/pompeo-labels-bidens-friday-address-a-failure-shows-biden-not-a-reliable-partner-to-allies"
+    ampWebUrl: "https://www.foxnews.com/politics/pompeo-labels-bidens-friday-address-a-failure-shows-biden-not-a-reliable-partner-to-allies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-labels-bidens-friday-address-a-failure-shows-biden-not-a-reliable-partner-to-allies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f0b27d4-c2fb-4923-901f-691ababbcce2/1324fd48-e1bf-47a4-93b3-a614da6ccaab/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden hasn't spoken to any foreign leaders since fall of Afghanistan to Taliban"
     excerpt: "National Security Adviser Jake Sullivan said Tuesday that President Biden has not spoken with any other world leaders this week since Afghanistan fell to the Taliban, as the president remains at Camp David amid frantic efforts to evacuate Americans and U.S. allies from the country."
     publishedDateTime: 2021-08-17T19:30:40Z

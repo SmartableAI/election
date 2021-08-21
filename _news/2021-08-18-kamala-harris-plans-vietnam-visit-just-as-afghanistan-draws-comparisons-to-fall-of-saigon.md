@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-vietnam-afghanistan-c
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-vietnam-afghanistan-comparisons-fall-of-saigon.amp"
 type: article
 quality: 175
-heat: 195
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -32,19 +32,35 @@ images:
     isCached: true
 
 related:
-  - title: "LA Times: Kamala Harris ‘owns’ Afghanistan policy after touting her role in withdrawal decision"
-    excerpt: "Vice President Kamala Harris \"owns\" the execution of America's withdrawal from Afghanistan following her touting the role she played in President Joe Biden's decision, The Los Angeles Times reported Wednesday."
-    publishedDateTime: 2021-08-19T20:23:00Z
-    webUrl: "https://www.foxnews.com/media/los-angeles-times-vice-president-kamala-harris-afghanistan"
-    ampWebUrl: "https://www.foxnews.com/media/los-angeles-times-vice-president-kamala-harris-afghanistan.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/los-angeles-times-vice-president-kamala-harris-afghanistan.amp"
+  - title: "Harris to campaign for Gov. Gavin Newsom in California after Vietnam, Singapore trip"
+    excerpt: "Vice President Kamala Harris will be making a campaign pit-stop in California next week to support Gov. Gavin Newsom in his race to overcome the recall election."
+    publishedDateTime: 2021-08-21T01:10:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ty3BtETzYUg/harris-to-campaign-for-newsom-in-california-after-vietnam-singapore-trip"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-to-campaign-for-newsom-in-california-after-vietnam-singapore-trip.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-to-campaign-for-newsom-in-california-after-vietnam-singapore-trip.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 123
+    quality: 178
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b3659956-ec32-48a6-9338-92fbfdfe45c3/4a58742e-936c-4934-9287-58a550f22749/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8495bcff-9b88-4652-a881-c8b9c0e8662d/db7b172a-bb2e-43bc-b3a6-5ac1f6dcf567/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Kamala Harris to travel to Vietnam, Singapore next month amid China tensions, US border crisis"
+    excerpt: "Vice President Kamala Harris has another big trip ahead – but it won't be a return visit to the U.S.-Mexico border."
+    publishedDateTime: 2021-07-31T05:14:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rZ4nafHqb1s/kamala-harris-vietnam-singapore-china-tensions-border-migrant-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-vietnam-singapore-china-tensions-border-migrant-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-vietnam-singapore-china-tensions-border-migrant-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1598a130-2526-4c35-96e5-9a43f8e5205e/ac2e8573-7c88-43b6-98fc-9fd51511f45b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden focuses on 'getting this job done' as the chaotic evacuation from Afghanistan grows desperate"
+    excerpt: "President Joe Biden will deliver remarks on Friday about the ongoing US military evacuations of American citizens and vulnerable Afghans as chaos ensues at and around Kabul's international airport.\n    \n"
+    publishedDateTime: 2021-08-21T00:54:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OiF3OcupmTA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/20/politics/biden-afghanistan-evacuation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/20/politics/biden-afghanistan-evacuation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210820140340-04-biden-presser-afghanistan-0820-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Federal appeals court denies Biden administration request to halt order reviving 'remain in Mexico' policy"
     excerpt: "A federal appeals court denied the Biden administration's request to pause a lower court order requiring the revival of a controversial Trump-era border policy forcing migrants to stay in Mexico until their US immigration court date.\n    \n"
     publishedDateTime: 2021-08-20T13:03:10Z

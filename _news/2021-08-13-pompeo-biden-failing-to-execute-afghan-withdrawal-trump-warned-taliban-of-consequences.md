@@ -112,6 +112,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Pompeo: Biden Friday speech failed to 'strike fear' into the Taliban"
+    excerpt: "EXCLUSIVE - Former Secretary of State Mike Pompeo issued a blistering response to President Joe Biden’s remarks on the current situation in Afghanistan saying that the president “failed” to adequately respond to the ongoing crisis."
+    publishedDateTime: 2021-08-21T00:48:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r_7_sdbijH8/pompeo-labels-bidens-friday-address-a-failure-shows-biden-not-a-reliable-partner-to-allies"
+    ampWebUrl: "https://www.foxnews.com/politics/pompeo-labels-bidens-friday-address-a-failure-shows-biden-not-a-reliable-partner-to-allies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-labels-bidens-friday-address-a-failure-shows-biden-not-a-reliable-partner-to-allies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f0b27d4-c2fb-4923-901f-691ababbcce2/1324fd48-e1bf-47a4-93b3-a614da6ccaab/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "White House walks back Biden's failed predictions about Afghanistan withdrawal"
     excerpt: "According to the White House’s list of talking points for allies defending President Biden’s handling of Afghanistan, the administration knew there was a \"distinct\" possibility that the capital of Kabul would fall to Taliban insurgents."
     publishedDateTime: 2021-08-16T19:16:31Z
