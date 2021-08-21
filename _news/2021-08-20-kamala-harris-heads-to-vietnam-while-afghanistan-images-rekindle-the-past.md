@@ -48,15 +48,15 @@ related:
         height: 682
         isCached: true
   - title: "Harris' Asia trip carries new urgency after Afghan collapse"
-    excerpt: "The Taliban takeover of Afghanistan has given new urgency to"
-    publishedDateTime: 2021-08-20T17:11:00Z
-    webUrl: "https://www.thetelegraph.com/news/article/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
-    ampWebUrl: "https://www.thetelegraph.com/news/amp/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
-    cdnAmpWebUrl: "https://www-thetelegraph-com.cdn.ampproject.org/c/s/www.thetelegraph.com/news/amp/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
+    excerpt: "The Taliban takeover of Afghanistan has given new urgency to Vice President Kamala Harris' tour of S The trip, which began Friday and has stops in Singapore and Vietnam, will provide a forum for Harris to assert herself more directly in foreign affairs."
+    publishedDateTime: 2021-08-21T05:29:00Z
+    webUrl: "https://www.chron.com/news/article/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
     type: article
     provider:
-      name: The Telegraph
-      domain: thetelegraph.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 75
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
