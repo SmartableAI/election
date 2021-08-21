@@ -490,6 +490,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden gives update on situation in Afghanistan – video"
+    excerpt: "President Joe Biden has warned that the operation to evacuate thousands through Kabul airport carries risks, but promised Americans in the country that 'we will get you home'"
+    publishedDateTime: 2021-08-20T14:47:00Z
+    webUrl: "https://www.theguardian.com/world/video/2021/aug/20/joe-biden-gives-update-on-situation-in-afghanistan-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/f37cf3f319051bcbf2cdd14682535afff6e8a349/232_748_7411_4449/master/7411.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d8408443ce47eaa400ec856e5250545f"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Daily 202: Biden says he has no Afghanistan withdrawal regrets. But."
     excerpt: "Welcome to The Daily 202 newsletter! Tell your friends to sign up here. On this day in 2014, the world lost actress Lauren Bacall. “You know how to whistle, don’t you Steve? You just put your lips together,"
     publishedDateTime: 2021-08-12T19:56:00Z

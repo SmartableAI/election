@@ -2,6 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-21-trump-fueled-election-audit-sparks-senate-gop-turmoil.md",
+      "title": "Trump-fueled election ‘audit’ sparks Senate GOP turmoil",
+      "excerpt": "The top Republican in Pennsylvania’s Senate said Friday that he is putting a different senator in charge of an “election integrity” undertaking and removed a senator who had made waves",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesleader.com/news/1508317/trump-fueled-election-audit-sparks-senate-gop-turmoil-2",
+      "originalUrl": "https://www.timesleader.com/news/1508317/trump-fueled-election-audit-sparks-senate-gop-turmoil-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s24526.pcdn.co/wp-content/uploads/2021/08/127484839_web1_127484839-056eb7e63db7438ebb2b9e11f65c5037.jpg.optimal.jpg",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesleader.com/news/1508317/trump-fueled-election-audit-sparks-senate-gop-turmoil-2/amp",
+      "cdnAmpWebUrl": "https://www-timesleader-com.cdn.ampproject.org/c/s/www.timesleader.com/news/1508317/trump-fueled-election-audit-sparks-senate-gop-turmoil-2/amp",
+      "publishedDateTime": "2021-08-21T01:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times Leader",
+        "domain": "timesleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-21-donald-trump-endorses-ex-nevada-ag-adam-laxalt-for-senate.md",
+      "title": "Donald Trump endorses ex-Nevada AG Adam Laxalt for Senate",
+      "excerpt": "The endorsement, released Friday night, comes days after former Nevada Attorney General Adam Laxalt officially announced his candidacy for U.S. Senate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reviewjournal.com/news/politics-and-government/nevada/donald-trump-endorses-ex-nevada-ag-adam-laxalt-for-senate-2424479/",
+      "originalUrl": "https://www.reviewjournal.com/news/politics-and-government/nevada/donald-trump-endorses-ex-nevada-ag-adam-laxalt-for-senate-2424479/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reviewjournal.com/wp-content/uploads/2021/08/15507549_web1_trumplaxalt2018.jpg?w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.reviewjournal.com/news/politics-and-government/nevada/donald-trump-endorses-ex-nevada-ag-adam-laxalt-for-senate-2424479/amp/",
+      "cdnAmpWebUrl": "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/news/politics-and-government/nevada/donald-trump-endorses-ex-nevada-ag-adam-laxalt-for-senate-2424479/amp/",
+      "publishedDateTime": "2021-08-20T19:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Las Vegas Review-Journal",
+        "domain": "reviewjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-19-how-the-trump-tax-law-created-a-loophole-that-lets-top-executives-net-millions-by-slashing-their-own-salaries.md",
       "title": "How the Trump Tax Law Created a Loophole That Lets Top Executives Net Millions by Slashing Their Own Salaries",
       "excerpt": "The 2017 tax cuts made it more attractive for certain company owners to be paid in profits instead of wages. Some cut their own wages, expanding a loophole that was already costing the U.S. billions.",
@@ -1365,106 +1451,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-secret-irs-files-reveal-how-much-the-ultrawealthy-gained-by-shaping-trumps-big-beautiful-tax-cut.md",
-      "title": "Secret IRS Files Reveal How Much the Ultrawealthy Gained by Shaping Trump’s “Big, Beautiful Tax Cut”",
-      "excerpt": "Billionaire business owners deployed lobbyists to make sure Trump’s 2017 tax bill was tailored to their benefit. Confidential IRS records show the windfall that followed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.propublica.org/article/secret-irs-files-reveal-how-much-the-ultrawealthy-gained-by-shaping-trumps-big-beautiful-tax-cut",
-      "originalUrl": "https://www.propublica.org/article/secret-irs-files-reveal-how-much-the-ultrawealthy-gained-by-shaping-trumps-big-beautiful-tax-cut",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-c3.propublica.org/images/series/_threeTwo400w/series-3x2.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.propublica.org/article/secret-irs-files-reveal-how-much-the-ultrawealthy-gained-by-shaping-trumps-big-beautiful-tax-cut/amp",
-      "cdnAmpWebUrl": "https://www-propublica-org.cdn.ampproject.org/c/s/www.propublica.org/article/secret-irs-files-reveal-how-much-the-ultrawealthy-gained-by-shaping-trumps-big-beautiful-tax-cut/amp",
-      "publishedDateTime": "2021-08-11T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ProPublica",
-        "domain": "propublica.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-msnbc-opinion-piece-argues-why-ron-desantis-is-more-dangerous-than-trump-ahead-of-2024.md",
-      "title": "MSNBC opinion piece argues 'Why Ron DeSantis is more dangerous than Trump' ahead of 2024",
-      "excerpt": "Conservative pundits have long predicted ahead of 2024 that members of the media would insist that Republican Florida Gov. Ron DeSantis would be a “worse” president than President Trump. Well, one MSNBC opinion piece is way ahead of schedule.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/msnbc-why-ron-desantis-is-more-dangerous-than-trump",
-      "originalUrl": "https://www.foxnews.com/media/msnbc-why-ron-desantis-is-more-dangerous-than-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/66326c66-e604-4c69-8e1c-60288fe28032/004b93fc-2b6c-48e2-b00d-9265d18ce4a5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/msnbc-why-ron-desantis-is-more-dangerous-than-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/msnbc-why-ron-desantis-is-more-dangerous-than-trump.amp",
-      "publishedDateTime": "2021-08-10T15:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],
