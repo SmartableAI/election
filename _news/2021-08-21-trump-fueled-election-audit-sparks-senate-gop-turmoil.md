@@ -23,14 +23,14 @@ topics:
 related:
   - title: "Trump-fueled election ‘audit’ sparks Senate GOP turmoil"
     excerpt: "The top Republican in the Pennsylvania Senate says he’s putting a different senator in charge of an “election integrity” undertaking and removing a senator who had aimed to carry out an Arizona-style “forensic investigation” of Pennsylvania’s 2020 presidential election."
-    publishedDateTime: 2021-08-21T19:45:00Z
-    webUrl: "https://www.thestate.com/news/politics-government/national-politics/article253632053.html"
-    ampWebUrl: "https://amp.thestate.com/news/politics-government/national-politics/article253632053.html"
-    cdnAmpWebUrl: "https://amp-thestate-com.cdn.ampproject.org/c/s/amp.thestate.com/news/politics-government/national-politics/article253632053.html"
+    publishedDateTime: 2021-08-21T21:43:00Z
+    webUrl: "https://www.bellinghamherald.com/news/politics-government/national-politics/article253632053.html"
+    ampWebUrl: "https://amp.bellinghamherald.com/news/politics-government/national-politics/article253632053.html"
+    cdnAmpWebUrl: "https://amp-bellinghamherald-com.cdn.ampproject.org/c/s/amp.bellinghamherald.com/news/politics-government/national-politics/article253632053.html"
     type: article
     provider:
-      name: The State
-      domain: thestate.com
+      name: The Bellingham Herald
+      domain: bellinghamherald.com
     quality: 70
   - title: "A Pennsylvania town’s ‘election integrity law’ shows how Trump’s lies can hijack local politics and government"
     excerpt: "T]he following election integrity laws will be adhered to throughout the Lehigh Township community,” it began. It read like a proclamation straight from the Trump campaign. No more mail ballots, drop boxes,"

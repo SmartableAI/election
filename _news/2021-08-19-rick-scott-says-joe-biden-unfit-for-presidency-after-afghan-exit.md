@@ -57,6 +57,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Joe Biden Said He Is Committed To Helping Evacuate Afghan Allies Who Worked With The US Government"
+    excerpt: "In a speech at the White House, Biden again stood by his decision to withdraw US forces from the country. By Clarissa-Jan Lim Posted on August 20, 2021, at 3:05 p.m. ET President Joe Biden delivers remarks on the ongoing evacuation efforts in Afghanistan,"
+    publishedDateTime: 2021-08-20T23:13:00Z
+    webUrl: "https://www.buzzfeednews.com/article/clarissajanlim/biden-afghanistan-evacuations?origin=web-hf"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/clarissajanlim/biden-afghanistan-evacuations"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/clarissajanlim/biden-afghanistan-evacuations"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 111
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2017-04/12/11/campaign_images/buzzfeed-prod-fastlane-02/trump-says-the-us-wont-go-into-syria-even-though--2-24885-1492010278-4_dblbig.jpg"
+        width: 625
+        height: 415
+        isCached: true
   - title: "Joe Biden Said He Is Committed To Helping Evacuate Afghan Allies Who Have Worked With The US Government"
     excerpt: "In a speech at the White House, Biden again stood by his decision to withdraw US forces from the country. President Joe Biden once again stood by his decision to withdraw US forces from Afghanistan in a speech Friday and said he is committed to helping Afghans who have worked with the US government evacuate the country."
     publishedDateTime: 2021-08-21T10:27:00Z
@@ -201,6 +217,20 @@ related:
       - url: "https://s3.amazonaws.com/rbweb-ap-photos/6891ef4613ef4129889d8bd3fb3bc435.jpg"
         width: 640
         height: 427
+        isCached: true
+  - title: "Joe Biden sees dip in support amid surge in COVID-19 infections"
+    excerpt: "President Joe Biden is facing a summer slump, with Americans taking a notably less positive view of his handling of the coronavirus pandemic and his job approval rating ticking down. A new poll from-NORC Center for Public Affairs Research finds that 54 percent of Americans approve of Biden’s job performance,"
+    publishedDateTime: 2021-08-21T14:32:00Z
+    webUrl: "https://bangordailynews.com/2021/08/21/national-politics/joe-biden-sees-dip-in-support-amid-surge-in-covid-19-infections/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/AP-Poll-Biden.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Ron DeSantis slams Joe Biden ‘lack of leadership’ at event highlighting COVID-19 treatment"
     excerpt: "Ron DeSantis turned his attention from COVID-19 to the White House. DeSantis aired grievances yet again about a perceived “lack of leadership” from President Joe Biden, showing that even at an event focused on the virus,"

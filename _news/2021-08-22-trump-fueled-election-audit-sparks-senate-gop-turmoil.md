@@ -2,19 +2,19 @@
 category: news
 title: "Trump-fueled election ‘audit’ sparks Senate GOP turmoil"
 excerpt: "The top Republican in the Pennsylvania Senate says he’s putting a different senator in charge of an “election integrity” undertaking and removing a senator who had aimed to carry out an Arizona-style “forensic investigation” of Pennsylvania’s 2020 presidential election."
-publishedDateTime: 2021-08-21T19:45:00Z
-originalUrl: "https://www.thestate.com/news/politics-government/national-politics/article253632053.html"
-webUrl: "https://www.thestate.com/news/politics-government/national-politics/article253632053.html"
-ampWebUrl: "https://amp.thestate.com/news/politics-government/national-politics/article253632053.html"
-cdnAmpWebUrl: "https://amp-thestate-com.cdn.ampproject.org/c/s/amp.thestate.com/news/politics-government/national-politics/article253632053.html"
+publishedDateTime: 2021-08-21T21:43:00Z
+originalUrl: "https://www.bellinghamherald.com/news/politics-government/national-politics/article253632053.html"
+webUrl: "https://www.bellinghamherald.com/news/politics-government/national-politics/article253632053.html"
+ampWebUrl: "https://amp.bellinghamherald.com/news/politics-government/national-politics/article253632053.html"
+cdnAmpWebUrl: "https://amp-bellinghamherald-com.cdn.ampproject.org/c/s/amp.bellinghamherald.com/news/politics-government/national-politics/article253632053.html"
 type: article
 quality: 70
 heat: -1
 published: false
 
 provider:
-  name: The State
-  domain: thestate.com
+  name: The Bellingham Herald
+  domain: bellinghamherald.com
 
 topics:
   - Election
@@ -47,6 +47,6 @@ related:
         height: 630
         isCached: true
 
-secured: "4yNQBBIiBDT3Vca+Khce3W5QPHSv1O2pnEAkYbAS8z4Px0RTvJsecwG4BTFXehPjyTAJiKDFlcKoG1oC3veul5gpnEejR0Kec6u+Y/vQ+Ie4Oip/Pq06WEUE6ACyZfE3KtGG7nqJREIEdX0BzAJVQsioaF3q1W+pp8wHbm9sG2jnCiD7JhY3WVylu4eomBN/snI5PMyKzBefCxT1/jo+lVGvkyzdvnEYNZ++f/r7zy70WxnieqkDTff1ItjyoyNfdWLG9JiTLSV+0zdkDOzvwBd6rnbLHR5qM5xmxuSi/pyTL7J/gB7LFDU47KY+60ivc5qlE+ORRgJbCTvaOGKB1WPyZhRhmn5sEJT4ogpBBaQaDBSs365CANfN7xoAYbkOX0ZNiKNiYR+rEVGFTxqm/OBtB9rJacyjiYsLoB36rOa8zLTcQsfCBWxgybl/MSLKYG4Xvhk8ZyW8rKOVYEPtyREHUsxDz2IR89cucBEVWsuL+pJIesjpPLzltsE3rf1fmvtngwocCgggHM6cR3SZvg==;93mCBbfUwlwADyVsSdd7iQ=="
+secured: "/BcWBc5h31BuWmsVdHyIMxjfIHblRKPfqfBWhAfalLCPjs3pUGmQaTu/btPrLgBrJ66DOD8+rd7pTSLMQfkUk+7uoTzu4xAIjbmMsQLhwEo0ziUbf5BuRWjv7IIWzHwo1EoZYQmT1wv4vU8wDblNCW40T8UIlFd0Mh0rUm3wWCTbaJGJChQjZTS4IsVFzS6fWkvdUPp/z77fE3Zj/CCOxRdyd5ftNp31k/61YpaQ7nm18Eu/wEzL5YZowLhaWwuFo9RagwF/45IVSp1Amsaq8udJexSN29hxeeL9Nsdg5/CjTKHjYsW1+pZy3Npjvv7bYpiT1eVncFAr8xCdrBDLQl5XsaC53xCIVBxOnL8T+6CNpxFTFXNynO5fknP82rsaDpDxXXIJ5JO3MzGOpIJZsh+h0XUOfil00u02v8FSHRYiTuXXgb6S0Am7fWqd9MqwKGB+DL6g5f+pctc0gkC5vUsqV1+hVDrFBwICd7GJ0/lOuUIXHwf4pPfJ5iTomkk+JiKWqNsN1dbYunIfD0E7Sg==;NYDkkHX1iSC7c/dFRaE+0w=="
 ---
 

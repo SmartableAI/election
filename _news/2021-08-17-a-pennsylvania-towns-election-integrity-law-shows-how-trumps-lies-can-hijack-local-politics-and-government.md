@@ -38,14 +38,14 @@ related:
     quality: 70
   - title: "Trump-fueled election ‘audit’ sparks Senate GOP turmoil"
     excerpt: "The top Republican in the Pennsylvania Senate says he’s putting a different senator in charge of an “election integrity” undertaking and removing a senator who had aimed to carry out an Arizona-style “forensic investigation” of Pennsylvania’s 2020 presidential election."
-    publishedDateTime: 2021-08-21T19:45:00Z
-    webUrl: "https://www.thestate.com/news/politics-government/national-politics/article253632053.html"
-    ampWebUrl: "https://amp.thestate.com/news/politics-government/national-politics/article253632053.html"
-    cdnAmpWebUrl: "https://amp-thestate-com.cdn.ampproject.org/c/s/amp.thestate.com/news/politics-government/national-politics/article253632053.html"
+    publishedDateTime: 2021-08-21T21:43:00Z
+    webUrl: "https://www.bellinghamherald.com/news/politics-government/national-politics/article253632053.html"
+    ampWebUrl: "https://amp.bellinghamherald.com/news/politics-government/national-politics/article253632053.html"
+    cdnAmpWebUrl: "https://amp-bellinghamherald-com.cdn.ampproject.org/c/s/amp.bellinghamherald.com/news/politics-government/national-politics/article253632053.html"
     type: article
     provider:
-      name: The State
-      domain: thestate.com
+      name: The Bellingham Herald
+      domain: bellinghamherald.com
     quality: 70
 
 secured: "TiSt6Ym2DpO3kXGjnru7PkFQtgW9zUliBtiDrs1oDAZXmJdadMg6wTsox+CX+aOiEuGhFCbR+nhmG8ipAYq/8myOCifcODSRtVaUKJXu2WtKMmjkoxkBRg/0wtE5mHlPBzco5V+iFhLG6ndUhHRFbz9zEAT0wC/JkOLwGvVy+geh4A+vkIN+NnyR2JnQ9M6yNGPxIXHLd0SNJ51zvSlF51esuAYgeorERoYkrl87RxH0mvs0esSI3k34j0V7gWZLMKRPUuN8WmyEtPnK32zqd+kn7i/T/IrGsbBzHXm2QDgLPlNKz+IPoJt34Miv0owKpQYvGu3CliyGD4rwM9q18FUM16BPQyhxrojOxRFzaIQ=;UZjJTuPF3wqRKnyBrtUeDA=="
