@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-to-campaign-for-newsom-in-ca
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-to-campaign-for-newsom-in-california-after-vietnam-singapore-trip.amp"
 type: article
 quality: 178
-heat: 218
+heat: 238
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1598a130-2526-4c35-96e5-9a43f8e5205e/ac2e8573-7c88-43b6-98fc-9fd51511f45b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Kamala Harris heads to Vietnam and Singapore after staying quiet amid Afghanistan chaos"
+    excerpt: "As large crowds swarm Kabul airport to flee the Taliban, Vice President Kamala Harris is embarking on a trip to Asia with stops in Singapore and Vietnam — ironically, the sites of previous US-UK"
+    publishedDateTime: 2021-08-20T21:59:00Z
+    webUrl: "https://nypost.com/2021/08/20/kamala-harris-heads-to-vietnam-and-singapore-sites-of-other-us-uk-defeats/"
+    ampWebUrl: "https://nypost.com/2021/08/20/kamala-harris-heads-to-vietnam-and-singapore-sites-of-other-us-uk-defeats/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/20/kamala-harris-heads-to-vietnam-and-singapore-sites-of-other-us-uk-defeats/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 127
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/kamala-harris-heads-to-Singapore-and-Vietnam-featured.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "voVJqjjFxhowlL87O9FGe1wOFs2TUr7Asb+Dk5mTOThvhfLKfpSGIiykV7rN6YrSqHq0pWZTwRRU5FveogAqBSNtarqKPAevibiFu1nF/XIKwT9IWKrpE5OHyibLt/pIE/qG03ClMbrvyg6xSu6eAQE/wEUsaFBj6y9IvoKfllxIUMtXAfqPa60m3w22OV0kxsWlo/zrIIU5PCbKGCc1pPKc00AR2WVTUp70VQ8T+vCKhsLmTnQTHOEprHGl8BXlmhPLbqylDGzMWgxrQQRCg7oMqY2PWdZVAxllYQPY8o0N1c8wO6Swv3HVVTqHBa7HXBUXEh5KGyidrQomoECgnFvhrqvDZ8OUnV1E6DoXn6c=;H6bFDUpdwev7YEdCm0Z3Sg=="

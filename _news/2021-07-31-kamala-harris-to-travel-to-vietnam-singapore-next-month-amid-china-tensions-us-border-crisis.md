@@ -64,6 +64,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Kamala Harris heads to Vietnam and Singapore after staying quiet amid Afghanistan chaos"
+    excerpt: "As large crowds swarm Kabul airport to flee the Taliban, Vice President Kamala Harris is embarking on a trip to Asia with stops in Singapore and Vietnam — ironically, the sites of previous US-UK"
+    publishedDateTime: 2021-08-20T21:59:00Z
+    webUrl: "https://nypost.com/2021/08/20/kamala-harris-heads-to-vietnam-and-singapore-sites-of-other-us-uk-defeats/"
+    ampWebUrl: "https://nypost.com/2021/08/20/kamala-harris-heads-to-vietnam-and-singapore-sites-of-other-us-uk-defeats/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/20/kamala-harris-heads-to-vietnam-and-singapore-sites-of-other-us-uk-defeats/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 127
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/kamala-harris-heads-to-Singapore-and-Vietnam-featured.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "Psia7NAXczPXL/vPJYd02/BSv+Pabl9DD6d8LAk0UhjSY+Jnw+X5oBJ/3vuobzqwVG2PrW10eeRc4Jc/vvl44Kq6zZG4T1Lk6gOLOKzDdJ5WyyWp843waa3jhLW1iGKN3nvU17vSb56AXM7IGV0gzI4ZFcYvskq/D1E6r4TpNj+sNn8feQeUXhtmgYUl4jneLgNjkhHP4U7MInJFwzkX+MImErcR7r18kN0+ufOfnq5CmP0GliXqAHiUU3HIV4ht6eCCVaoR1FGFEHbLJClodnCuvnBtNxgEMr9+2MLwWowdpU7KfCuInBLixGLhIUqAjPRLZTXjqaVpk0GdTuYsZOWCImRHbplIFeMgFdohYrA=;g9AkU9l75FvAloIx6j9gPg=="
 ---

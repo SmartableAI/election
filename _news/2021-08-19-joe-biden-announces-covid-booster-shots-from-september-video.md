@@ -45,6 +45,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden warns lives could be lost in Kabul airlift"
+    excerpt: "US President Joe Biden has again defended a chaotic evacuation effort out of Kabul as desperation grows for those still stranded in Afghanistan. \"This is one of the largest, most difficult airlifts in history,"
+    publishedDateTime: 2021-08-20T18:27:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-58285923"
+    ampWebUrl: "https://www.bbc.com/news/world-us-canada-58285923.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-58285923.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/170AB/production/_120097349_bidenindex.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Joe Biden Said He Is Committed To Helping Evacuate Afghan Allies Who Have Worked With The US Government"
     excerpt: "In a speech at the White House, Biden again stood by his decision to withdraw US forces from the country. President Joe Biden once again stood by his decision to withdraw US forces from Afghanistan in a speech Friday and said he is committed to helping Afghans who have worked with the US government evacuate the country."
     publishedDateTime: 2021-08-21T10:27:00Z
@@ -76,6 +92,38 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Poll: Biden sees dip in support amid new COVID cases"
+    excerpt: "President Joe Biden is facing a summer slump, with Americans taking a notably less positive view of his handling of the coronavirus pandemic."
+    publishedDateTime: 2021-08-21T15:31:00Z
+    webUrl: "https://www.detroitnews.com/story/news/nation/2021/08/21/ap-norc-poll-biden-sees-dip-support-amid-new-covid-cases/8227975002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/8227975002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/8227975002"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/21/PDTN/fb7d1e6f-94da-429a-8b38-ea8819869cbc-AP21232687538135.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Joe Biden goes on HOLIDAY again! POTUS has worked for only 4 days during Afghan fiasco"
+    excerpt: "Biden has worked only four days out of the last 15, ever since the Taliban captured their first regional capital"
+    publishedDateTime: 2021-08-21T10:05:00Z
+    webUrl: "https://meaww.com/joe-biden-goes-on-holiday-again-president-has-worked-four-days-out-of-15-amid-afghan-fiasco"
+    ampWebUrl: "https://meaww.com/amp/joe-biden-goes-on-holiday-again-president-has-worked-four-days-out-of-15-amid-afghan-fiasco"
+    cdnAmpWebUrl: "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/joe-biden-goes-on-holiday-again-president-has-worked-four-days-out-of-15-amid-afghan-fiasco"
+    type: article
+    provider:
+      name: Meaww
+      domain: meaww.com
+    quality: 67
+    images:
+      - url: "https://cheesecake.articleassets.meaww.com/545963/uploads/b255a2d0-0262-11ec-825b-8bf8cf07839e_800_420.jpeg"
+        width: 800
+        height: 420
         isCached: true
   - title: "Biden to reopen public comment on TennCare block grant"
     excerpt: "President Joe Biden's administration says it will keep a drastic overhaul of Tennessee's Medicaid program in place while it seeks more public comment and considers what to do with the plan approved under former President Donald Trump."
@@ -144,6 +192,20 @@ related:
       name: Law360
       domain: law360.com
     quality: 55
+  - title: "Biden sees dip in support amid new COVID cases: AP-NORC poll"
+    excerpt: "President Joe Biden is facing a summer slump, with Americans taking a notably less positive view of his handling of the coronavirus"
+    publishedDateTime: 2021-08-21T15:19:00Z
+    webUrl: "https://www.riverbender.com/sports-news/details.cfm?id=352561"
+    type: article
+    provider:
+      name: RiverBender.com
+      domain: riverbender.com
+    quality: 55
+    images:
+      - url: "https://s3.amazonaws.com/rbweb-ap-photos/6891ef4613ef4129889d8bd3fb3bc435.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Ron DeSantis slams Joe Biden ‘lack of leadership’ at event highlighting COVID-19 treatment"
     excerpt: "Ron DeSantis turned his attention from COVID-19 to the White House. DeSantis aired grievances yet again about a perceived “lack of leadership” from President Joe Biden, showing that even at an event focused on the virus,"
     publishedDateTime: 2021-08-19T18:28:00Z

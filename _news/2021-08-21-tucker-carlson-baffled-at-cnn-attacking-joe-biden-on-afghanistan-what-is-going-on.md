@@ -207,6 +207,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Lindsey Graham adds to calls to impeach Joe Biden saying he ‘deserves’ it if he leaves Americans behind in Afghanistan"
+    excerpt: "SENATOR Lindsey Graham said on Friday that President Joe Biden “deserves to be impeached” if any Americans or Afghan allies are left behind during the United States’ evacuation"
+    publishedDateTime: 2021-08-21T00:28:00Z
+    webUrl: "https://www.the-sun.com/news/3513375/lindsey-graham-adds-for-calls-biden-to-be-impeached/"
+    ampWebUrl: "https://www.the-sun.com/news/3513375/lindsey-graham-adds-for-calls-biden-to-be-impeached/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3513375/lindsey-graham-adds-for-calls-biden-to-be-impeached/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 51
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/SF-lindsey-graham-calls-for-biden-impeachment-UPDATe-OFF-PLTFRM-COMP-.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Ron DeSantis calls Joe Biden ‘obsessed’ with masking kindergarteners amid Afghanistan crisis"
     excerpt: "Ron DeSantis says President Joe Biden is “obsessed” with masking children with schools after the President leveled another attack admonishment against Republican governors blocking local mask orders."
     publishedDateTime: 2021-08-19T02:11:00Z
@@ -221,6 +237,15 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "How long can America put up with Joe Biden?"
+    excerpt: "Murie, you have absolutely no clue what’s going in the world outside of your house and fox “news” channel. Maybe you’d find some peace if you take up a hobby? Perhaps crochet. Or if you really do live in Russia u could make nesting dolls. Either way, good luck and please keep up the comedy. It’s not exceedingly funny, but good for a chuckle as we say here in the US."
+    publishedDateTime: 2021-08-21T14:36:00Z
+    webUrl: "https://www.tigernet.com/clemson-forum/message/re-how-long-can-america-put-up-with-joe-biden-29300251"
+    type: article
+    provider:
+      name: TigerNet
+      domain: tigernet.com
+    quality: 35
   - title: "Anna Paulina Luna addresses troops, Amanda Makki calls for Joe Biden resignation in response to Afghanistan crisis"
     excerpt: "Florida’s 13th Congressional District GOP candidates Amanda Makki and Anna Paulina Luna are responding to the fall of Kabul to Taliban control after American troops were pulled from Afghanistan. The candidates,"
     publishedDateTime: 2021-08-17T16:29:00Z
@@ -236,6 +261,6 @@ related:
         height: 1920
         isCached: true
 
-secured: "g+XVE89uKwr6SD55uZawLzg1jnTkOdTlF6Gdcry5PzFkhJEzjNd+WKUw6ZFbDMMdGSamj7EV6VPQy0wIFF8kZEP/flu3orJUjiJnBcKsUjzeThWbVQWUV1goSKSqs1sI5beKsuQMvteLXy37IRjbIjFSXHP/cnMg674idxYBGH6VEG+m44MKpPZWK6UNOKOGy7kbhyZdBqwFGJqlT37V85lzCNjJjLP4q96cBnBMhgM7MuD9LwoiKmfJhbaSaYeoHcnJotD6f1c77lWNERU6fPQ44N9/wL1TocM3WBNPv1RSjJJcDBOl7IKKcnbi1opzQ9htBAua1FKyZSEGuw51qMu3c8KXqjvDHmYfjgpnXsM=;ukAsgEM11NHFvoxlCN+7wA=="
+secured: "jBg1NWnr1LVk1zWeIHX5A5MGhGMxb3dkW6RuiPauAp5KwIFfGUd79JRsIWQSaMHxAejRtw03chKH+NFMkSheYFe6tA63th/3WPN0TdJ1y1Pp1fyDmaumg9UPQSf2JMw9NXczP2VB/45/sS8nibQbULaufSCzS1sq2/dUoA3EXu2BkHFbQqa0bZ1we+d/J7PrapYsId7eZda/eN+/kMQt74pDGUJgrWa7ITdqB3XA7K8GZqx4uNNin4GRep32Qmm4IHRGqkbo0CU9py71c7o87fSKCQDojSiFEmgnSbTqqWhQx8hAyFtPuKIs28RgLIZyBsoEn2IDgDwTb454w18R2VxG987viN7YkGW5ChKeOXROXGs+yWoQot2YDjAsa/K6v5zFeWsoH43PMX+iFRTf0MDFV+uSPkO6lnn7mlQwSgO9RWQpgrZGzfKGgTBWdFYWIgYOGA5mUgwT5TH/ubqUe9jDwYP6ozute/J5rBd0prJ01bhbdjwPRkkuEyIBtKEiUAmSnyPYd5PJ0YCTm+X6Xg==;Z99OtR6uEnG+grBYU5OcXA=="
 ---
 

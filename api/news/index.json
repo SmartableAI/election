@@ -2,6 +2,83 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-21-pence-aide-blames-stephen-miller-for-devastating-visa-system-for-afghans.md",
+      "title": "Pence aide blames Stephen Miller for 'devastating' visa system for Afghans",
+      "excerpt": "Olivia Troye said Stephen Miller, a senior adviser to former President Donald Trump, undermined anyone trying to get the allies out of Afghanistan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indystar.com/story/news/politics/2021/08/21/mike-pence-aide-blames-stephen-miller-wrecking-afghan-visa-system/8228495002/",
+      "originalUrl": "https://www.indystar.com/story/news/politics/2021/08/21/mike-pence-aide-blames-stephen-miller-wrecking-afghan-visa-system/8228495002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2019/11/13/USAT/53207fad-8816-4697-bd9b-a3dd79d8e3f3-VPC_STEPHEN_MILLER_DESK_THUMB.00_00_52_15.Still001.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.indystar.com/amp/8228495002",
+      "cdnAmpWebUrl": "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/8228495002",
+      "publishedDateTime": "2021-08-21T09:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indianapolis Star",
+        "domain": "indystar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-08-21-trump-fueled-election-audit-sparks-senate-gop-turmoil.md",
+      "title": "Trump-fueled election ‘audit’ sparks Senate GOP turmoil",
+      "excerpt": "The top Republican in the Pennsylvania Senate says he’s putting a different senator in charge of an “election integrity” undertaking and removing a senator who had aimed to carry out an Arizona-style “forensic investigation” of Pennsylvania’s 2020 presidential election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sunherald.com/news/politics-government/national-politics/article253632053.html",
+      "originalUrl": "https://www.sunherald.com/news/politics-government/national-politics/article253632053.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.sunherald.com/news/politics-government/national-politics/article253632053.html",
+      "cdnAmpWebUrl": "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/politics-government/national-politics/article253632053.html",
+      "publishedDateTime": "2021-08-21T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biloxi Sun Herald",
+        "domain": "sunherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-21-trump-heads-to-alabama-but-his-covid-politics-are-everywhere.md",
       "title": "Trump heads to Alabama but his Covid politics are everywhere",
       "excerpt": "Former President Donald Trump still towers over the GOP, and he's set to appear Saturday at an Alabama rally. And ambitious Republicans eyeing future White House bids are increasingly emulating his brand of confrontational, fact-challenged politics on Covid. \n    \n",
@@ -55,49 +132,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-trump-fueled-election-audit-sparks-senate-gop-turmoil.md",
-      "title": "Trump-fueled election ‘audit’ sparks Senate GOP turmoil",
-      "excerpt": "The top Republican in Pennsylvania’s Senate said Friday that he is putting a different senator in charge of an “election integrity” undertaking and removed a senator who had made waves",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesleader.com/news/1508317/trump-fueled-election-audit-sparks-senate-gop-turmoil-2",
-      "originalUrl": "https://www.timesleader.com/news/1508317/trump-fueled-election-audit-sparks-senate-gop-turmoil-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s24526.pcdn.co/wp-content/uploads/2021/08/127484839_web1_127484839-056eb7e63db7438ebb2b9e11f65c5037.jpg.optimal.jpg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesleader.com/news/1508317/trump-fueled-election-audit-sparks-senate-gop-turmoil-2/amp",
-      "cdnAmpWebUrl": "https://www-timesleader-com.cdn.ampproject.org/c/s/www.timesleader.com/news/1508317/trump-fueled-election-audit-sparks-senate-gop-turmoil-2/amp",
-      "publishedDateTime": "2021-08-21T01:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times Leader",
-        "domain": "timesleader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -156,7 +190,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 218,
+      "heat": 238,
       "tags": null,
       "images": [
         {
@@ -265,7 +299,7 @@
       "originalUrl": "https://www.bbc.com/news/world-us-canada-58285923",
       "featuredContent": null,
       "highlight": null,
-      "heat": 405,
+      "heat": 445,
       "tags": null,
       "images": [
         {
@@ -629,7 +663,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -1232,62 +1266,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-uk-member-of-parliament-shameful-for-biden-to-claim-afghan-troops-ran.md",
-      "title": "UK member of Parliament: 'Shameful' for Biden to claim Afghan troops ran",
-      "excerpt": "United Kingdom Member of Parliament Tom Tugendhat lamented the rise of the Taliban in Afghanistan while chastising President Biden for how he has blamed Afghan forces by accusing them of giving up.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d-0kxDoCZ0k/uk-mp-shameful-biden-afghan-troops-ran",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d-0kxDoCZ0k/uk-mp-shameful-biden-afghan-troops-ran",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/uk-mp-shameful-biden-afghan-troops-ran.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/uk-mp-shameful-biden-afghan-troops-ran.amp",
-      "publishedDateTime": "2021-08-18T12:32:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

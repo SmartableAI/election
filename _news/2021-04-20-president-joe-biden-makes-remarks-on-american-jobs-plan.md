@@ -713,6 +713,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "As Biden monitors Afghanistan, no weekend stay in Delaware"
+    excerpt: "President Joe Biden will not spend the weekend at his home in Delaware after all. The White House said Saturday that Biden would no longer travel to Wilmington as planned. No immediate explanation was given."
+    publishedDateTime: 2021-08-21T15:49:00Z
+    webUrl: "https://www.wbal.com/article/529879/170/as-biden-monitors-afghanistan-no-weekend-stay-in-delaware"
+    ampWebUrl: "https://www.wbal.com/article/529879/170/as-biden-monitors-afghanistan-no-weekend-stay-in-delaware/amp"
+    cdnAmpWebUrl: "https://www-wbal-com.cdn.ampproject.org/c/s/www.wbal.com/article/529879/170/as-biden-monitors-afghanistan-no-weekend-stay-in-delaware/amp"
+    type: article
+    provider:
+      name: WBAL
+      domain: wbal.com
+    quality: 75
+    images:
+      - url: "https://cdn.s3-media.wbal.com/Media/2021/08/21/2d13315a-2636-4eca-aa64-85f6a0444dc6/original.jpg"
+        width: 512
+        height: 341
+        isCached: true
   - title: "Joe Biden’s Tale of Russian Bounties in Afghanistan Collapses Completely"
     excerpt: "Biden and the Democrats knew the Russian bounties story was likely fake news, a hoax, a scam, whatever else you want to call it. But they didn’t care."
     publishedDateTime: 2021-04-15T17:46:00Z
@@ -881,6 +897,34 @@ related:
       - url: "https://ynuk.tv/wp-content/uploads/2021/08/biden--e1629482628210.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Blame Joe Biden for the Afghanistan Disaster. No One Else."
+    excerpt: "I am President of the United States of America, and the buck stops with me.” That was President Joe Biden earlier this week,  appropriating former President Harry Truman’s rhetoric in a vain attempt to depict himself as a stand-up guy willing to take the heat for making tough decisions."
+    publishedDateTime: 2021-08-21T14:05:00Z
+    webUrl: "https://www.heritage.org/defense/commentary/blame-joe-biden-the-afghanistan-disaster-no-one-else"
+    type: article
+    provider:
+      name: The Heritage Foundation
+      domain: heritage.org
+    quality: 55
+    images:
+      - url: "https://www.heritage.org/sites/default/files/styles/facebook_optimized/public/images/2021-08/GettyImages-1234779132.jpg?itok=XqeT9tnP"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Commentary: Biden's Afghanistan Withdrawal"
+    excerpt: "\"Thank you for finding us. We conceived RoseBud just for these moments in news, and the first impressions of history that media documents. After a long and rewarding career in media, our two"
+    publishedDateTime: 2021-08-21T15:58:00Z
+    webUrl: "https://www.mailtribune.com/top-videos/2021/08/20/commentary-bidens-afghanistan-withdrawal/"
+    type: article
+    provider:
+      name: Mail Tribune
+      domain: mailtribune.com
+    quality: 55
+    images:
+      - url: "https://imengine.editorial.prod.med.navigacloud.com/?uuid=a8f46962-2561-5648-bae4-e9ce644a8f6f&function=fit&type=preview"
+        width: 500
+        height: 281
         isCached: true
   - title: "Watch Live: Biden Gives an Update on Afghanistan Evacuations"
     excerpt: "President Biden is delivering another speech about Afghanistan, as a scramble to evacuate American citizens and vulnerable Afghans continues."

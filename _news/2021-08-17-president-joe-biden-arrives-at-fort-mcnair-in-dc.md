@@ -545,6 +545,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Joe Biden speech LIVE – President blames Trump for ISIS threat and says number of Americans still in Afghanistan unclear"
+    excerpt: "PRESIDENT Biden addressed the nation about the US’ evacuation efforts in Afghanistan today amid fierce criticism — and blamed Donald Trump for the Taliban prisoner release. Speaking at the"
+    publishedDateTime: 2021-08-21T02:01:00Z
+    webUrl: "https://www.the-sun.com/news/3510096/president-biden-afghanistan-evacuation-address/"
+    ampWebUrl: "https://www.the-sun.com/news/3510096/president-biden-afghanistan-evacuation-address/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3510096/president-biden-afghanistan-evacuation-address/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 65
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/JOE-BIDEN-UNHAPPY-BLOG-JF.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Did Joe Biden admin fail to prepare for Kabul fall? State dept shut evacuation team months ago"
     excerpt: "The State Department shut the Trump-era Crisis Response Bureau that would've helped plan a swift evacuation from Kabul after lessons from Benghazi"
     publishedDateTime: 2021-08-19T02:24:00Z
@@ -719,6 +735,20 @@ related:
       - url: "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg"
         width: 1400
         height: 1400
+        isCached: true
+  - title: "Joe Biden Is Not Just Inept. He’s Malicious."
+    excerpt: "T. Becket Adams All those media analyses last year praising President Joe Biden’s supposed empathy look pretty damn stupid right now. The"
+    publishedDateTime: 2021-08-20T13:45:00Z
+    webUrl: "https://www.citizensjournal.us/joe-biden-is-not-just-inept-hes-malicious/"
+    type: article
+    provider:
+      name: Pros
+      domain: citizensjournal.us
+    quality: 55
+    images:
+      - url: "https://www.citizensjournal.us/wp-content/uploads/2021/07/beckett.jpeg"
+        width: 512
+        height: 512
         isCached: true
   - title: "President Biden Tells U.S. Olympic Squad It 'Restored The Soul Of America'"
     excerpt: "The president praised Team USA athletes for their \"moral courage\" during a Zoom call on Saturday, with special shoutouts to gymnast Simone Biles and swimmer Katie Ledecky."

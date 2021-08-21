@@ -713,6 +713,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "As Biden monitors Afghanistan, no weekend stay in Delaware"
+    excerpt: "President Joe Biden will not spend the weekend at his home in Delaware after all. The White House said Saturday that Biden would no longer travel to Wilmington as planned. No immediate explanation was given."
+    publishedDateTime: 2021-08-21T15:49:00Z
+    webUrl: "https://www.wbal.com/article/529879/170/as-biden-monitors-afghanistan-no-weekend-stay-in-delaware"
+    ampWebUrl: "https://www.wbal.com/article/529879/170/as-biden-monitors-afghanistan-no-weekend-stay-in-delaware/amp"
+    cdnAmpWebUrl: "https://www-wbal-com.cdn.ampproject.org/c/s/www.wbal.com/article/529879/170/as-biden-monitors-afghanistan-no-weekend-stay-in-delaware/amp"
+    type: article
+    provider:
+      name: WBAL
+      domain: wbal.com
+    quality: 75
+    images:
+      - url: "https://cdn.s3-media.wbal.com/Media/2021/08/21/2d13315a-2636-4eca-aa64-85f6a0444dc6/original.jpg"
+        width: 512
+        height: 341
+        isCached: true
   - title: "Joe Biden’s Tale of Russian Bounties in Afghanistan Collapses Completely"
     excerpt: "Biden and the Democrats knew the Russian bounties story was likely fake news, a hoax, a scam, whatever else you want to call it. But they didn’t care."
     publishedDateTime: 2021-04-15T17:46:00Z
@@ -896,6 +912,34 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Blame Joe Biden for the Afghanistan Disaster. No One Else."
+    excerpt: "I am President of the United States of America, and the buck stops with me.” That was President Joe Biden earlier this week,  appropriating former President Harry Truman’s rhetoric in a vain attempt to depict himself as a stand-up guy willing to take the heat for making tough decisions."
+    publishedDateTime: 2021-08-21T14:05:00Z
+    webUrl: "https://www.heritage.org/defense/commentary/blame-joe-biden-the-afghanistan-disaster-no-one-else"
+    type: article
+    provider:
+      name: The Heritage Foundation
+      domain: heritage.org
+    quality: 55
+    images:
+      - url: "https://www.heritage.org/sites/default/files/styles/facebook_optimized/public/images/2021-08/GettyImages-1234779132.jpg?itok=XqeT9tnP"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Commentary: Biden's Afghanistan Withdrawal"
+    excerpt: "\"Thank you for finding us. We conceived RoseBud just for these moments in news, and the first impressions of history that media documents. After a long and rewarding career in media, our two"
+    publishedDateTime: 2021-08-21T15:58:00Z
+    webUrl: "https://www.mailtribune.com/top-videos/2021/08/20/commentary-bidens-afghanistan-withdrawal/"
+    type: article
+    provider:
+      name: Mail Tribune
+      domain: mailtribune.com
+    quality: 55
+    images:
+      - url: "https://imengine.editorial.prod.med.navigacloud.com/?uuid=a8f46962-2561-5648-bae4-e9ce644a8f6f&function=fit&type=preview"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Watch Live: Biden Gives an Update on Afghanistan Evacuations"
     excerpt: "President Biden is delivering another speech about Afghanistan, as a scramble to evacuate American citizens and vulnerable Afghans continues."
     publishedDateTime: 2021-08-20T23:38:00Z
@@ -934,6 +978,6 @@ related:
       domain: usnews.com
     quality: 33
 
-secured: "jmYwuMM5h0RafQisbNfGtzXvkHbM7TaQlqMvz1/cssJicAI+ABQQ/C1PCGzCZFDv39xjztvfoLBiHB8jKZwOwqMvfbuH4KSNz5X7oiQ8uv68A393N6mtiB2U8U71pBwqjdCcoUpDmIagAn1Hpfyc8hpaFUkC9KQzUFgGhjk4sYkIGxDqhKuFWaJqOBAnCHunFOqlB6/GhYsa0/if8H9a20OpPme2w1IEGxPUlcaXjyNf+yNN+DBKHeb5LauPehLdJubPDDBTG9a47fjA+v5WRbBitAUm+OdZxxX4W0wD989VpIPTyiIKks1snhme1gwYMwZ2XlqvDfbqbt/uP3ohrop6/K1DU5H1t44kXU4Pc1M=;ck0FY7fPl2mtaBqUfkyhdA=="
+secured: "DO0kK97Cs5umhgfbADEddElPJDMr2JhGFTb/85Y+9t9/cL8jz6YbUtdmx00a8i3CkQMnUWvXO7lfO/YuJrt0iBR4OZm0+c9YXq9HzNC+/8DwjkRbJuzrZm4xGXS+SPkOkFag75q2+J83P3FQu6cIW40HSkxvsztDluO/QsbnKvkjC6016tF+CaYweJSkR7N89mzzkTz7/a1vTzs+TladmaNk3aMdNOE77JLsJdPfUiTnKCRRl49kXBTpEHTzt0IulZiYs9FHKSkzuUuir3XcbHN7dxMA1PD14q2ssAohog+zmsAJJNJ3myMKQxei7bC/gk8Gp4CK8buuYa3qSbEqErzsr8hYsWjoSaENPXUZgD7sIakLYxhUPlruFkcoP8Ubu9X+SUwn0fzaQlVJejoHrQ+CcicGWHRqO1ZaK4KJpm3wxaCXY/G+5x8tL4XMGiW9l4jOIiLAwM5nqEm7cEzBI+7vURpDqlbRqCvH+rUcYXYUF+n6zWOTuh0rTH4BmtTwFXdqbBp/qW1iMt1UpAzJiw==;oeYnZYkFZ/YpnGQAzaG+Zg=="
 ---
 

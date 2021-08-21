@@ -996,6 +996,38 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Meghan McCain ‘furious’ with Joe Biden over handling of Afghanistan"
+    excerpt: "After comparing the current president to a former Democratic commander-in-chief on a hallucinogenic drug, McCain said she was “physically ill” due to the disturbing fallout from"
+    publishedDateTime: 2021-08-20T15:09:00Z
+    webUrl: "https://nypost.com/2021/08/20/meghan-mccain-blasts-joe-biden-over-handling-of-afghanistan/"
+    ampWebUrl: "https://nypost.com/2021/08/20/meghan-mccain-blasts-joe-biden-over-handling-of-afghanistan/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/20/meghan-mccain-blasts-joe-biden-over-handling-of-afghanistan/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/meghan-mccain-2.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Joe Biden delays Delaware R&R amid Afghanistan evacuation turmoil"
+    excerpt: "President Joe Biden has delayed plans to relax at his home in Delaware, as US and Afghan citizens remain stranded in Kabul amid the Taliban takeover."
+    publishedDateTime: 2021-08-20T20:49:00Z
+    webUrl: "https://nypost.com/2021/08/20/joe-biden-delays-delaware-trip-amid-afghan-evacuation-turmoil/"
+    ampWebUrl: "https://nypost.com/2021/08/20/joe-biden-delays-delaware-trip-amid-afghan-evacuation-turmoil/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/20/joe-biden-delays-delaware-trip-amid-afghan-evacuation-turmoil/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/biden-camp-david-1.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "McCaul: Biden will have ‘blood on his hands’ over Afghanistan withdrawal"
     excerpt: "The top Republican on the House Foreign Relations Committee on Sunday said President Biden will have “blood on his hands” over the withdrawal of the US military from Afghanistan."
     publishedDateTime: 2021-08-15T19:15:00Z
