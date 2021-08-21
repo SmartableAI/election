@@ -175,6 +175,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Biden's reassurances on Afghanistan contradict chaotic images on the ground, capping week of bad optics for his administration"
+    excerpt: "As Americans watched chaotic and often heartbreaking scenes of desperation around the airport in Kabul this week, President Joe Biden on Friday vowed to do everything in his power to bring Americans home safely from Afghanistan as that nation descends into chaos under Taliban control.\n    \n"
+    publishedDateTime: 2021-08-21T04:01:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-1OHUjmYm64/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/21/politics/joe-biden-afghanistan-bad-optics/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/21/politics/joe-biden-afghanistan-bad-optics/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 142
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210820135922-03-biden-presser-afghanistan-0820-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Joe Biden’s Kabul Is Not Gerald Ford’s Saigon"
     excerpt: "Americans saw Ford as a president who had lost control of the levers—abroad and at home. That’s not the case for Biden yet."
     publishedDateTime: 2021-08-17T17:04:00Z

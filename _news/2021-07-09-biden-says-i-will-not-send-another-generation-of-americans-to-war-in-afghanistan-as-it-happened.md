@@ -63,6 +63,22 @@ related:
         width: 3391
         height: 2362
         isCached: true
+  - title: "Tucker Carlson Baffled at CNN Attacking Joe Biden on Afghanistan: 'What Is Going On?'"
+    excerpt: "Fox News host Tucker Carlson has said it \"does not make sense\" that journalists on CNN have criticized President Joe Biden over the ongoing situation in Afghanistan. Carlson told his prime-time audience on Friday that those who work for CNN don't decide what they say for themselves but instead \"say precisely what they are told to say\" by management,"
+    publishedDateTime: 2021-08-21T09:09:00Z
+    webUrl: "https://www.newsweek.com/tucker-carlson-baffled-cnn-attacking-joe-biden-afghanistan-1621732"
+    ampWebUrl: "https://www.newsweek.com/tucker-carlson-baffled-cnn-attacking-joe-biden-afghanistan-1621732?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/tucker-carlson-baffled-cnn-attacking-joe-biden-afghanistan-1621732?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 118
+    images:
+      - url: "https://d.newsweek.com/en/full/1877015/tucker-carlson-speaks-esztergom-hungary.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden says ‘I will not send another generation of Americans to war in Afghanistan’ – live"
     excerpt: "Joe Biden speaks on US troop withdrawal after 20 years at war – follow all the day’s political news"
     publishedDateTime: 2021-07-08T21:48:00Z

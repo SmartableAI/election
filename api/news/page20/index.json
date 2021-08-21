@@ -2,6 +2,49 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-07-09-mike-pence-reportedly-once-lost-it-after-trump-threw-a-crumpled-newspaper-article-at-him.md",
+      "title": "Mike Pence reportedly once 'lost it' after Trump threw a crumpled newspaper article at him",
+      "excerpt": "Former Vice President Mike Pence reportedly \"lost it\" and \"snarled\" at former President Donald Trump in 2018 after getting a crumpled up newspaper article thrown at him. At the time, Pence's political committee had just hired Trump's adviser Corey Lewandowski,",
+      "sourceUrl": null,
+      "webUrl": "https://theweek.com/mike-pence/1002422/mike-pence-reportedly-once-lost-it-after-trump-threw-a-crumpled-newspaper",
+      "originalUrl": "https://theweek.com/mike-pence/1002422/mike-pence-reportedly-once-lost-it-after-trump-threw-a-crumpled-newspaper",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediacloud.theweek.com/image/upload/f_auto,t_primary-image-mobile@1/v1625768503/GettyImages-1208915582%20%281%29.jpg",
+          "width": 375,
+          "height": 211,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theweek.com/mike-pence/1002422/mike-pence-reportedly-once-lost-it-after-trump-threw-a-crumpled-newspaper?amp",
+      "cdnAmpWebUrl": "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/mike-pence/1002422/mike-pence-reportedly-once-lost-it-after-trump-threw-a-crumpled-newspaper?amp",
+      "publishedDateTime": "2021-07-08T12:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "THE WEEK",
+        "domain": "theweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-biden-changes-end-of-us-combat-mission-in-afghanistan-from-sept-11-to-aug-31.md",
       "title": "Biden changes end of US combat mission in Afghanistan from Sept. 11 to Aug. 31",
       "excerpt": "President Biden said U.S. troops will be out of Afghanistan sooner than his original Sept. 11 deadline, telling reporters Thursday U.S. forces will be home by Aug. 31. ",
@@ -1275,58 +1318,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-trump-told-chief-of-staff-hitler-did-a-lot-of-good-things-book-says.md",
-      "title": "Trump told chief of staff Hitler ‘did a lot of good things’, book says",
-      "excerpt": "Remark shocked John Kelly, author Michael Bender reports, detailing former president’s ‘stunning disregard for history’",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-michael-bender-book",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-michael-bender-book",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/32d9b4b7b6aa0703e0a39545dc45fb0535a661b9/54_0_1905_1143/master/1905.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=abc0f3c3e0e837a7f56c6c1a89f887ca",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-michael-bender-book",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-michael-bender-book",
-      "publishedDateTime": "2021-07-07T05:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

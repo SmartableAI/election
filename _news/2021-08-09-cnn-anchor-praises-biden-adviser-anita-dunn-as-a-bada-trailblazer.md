@@ -128,6 +128,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Graham: If We Leave Any Afghan Behind, Joe Biden Deserves To Be Impeached For Dereliction Of Duty"
+    excerpt: "Senate Judiciary Committee member Sen. Lindsey Graham (R-SC) said on Friday if President Joe Biden leaves behind any American or Afghani ally behind then he should be impeached. \"We're duty-bound to get every American citizen out."
+    publishedDateTime: 2021-08-20T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/08/20/graham_if_we_leave_any_afghan_behind_joe_biden_deserves_to_be_impeached_for_dereliction_of_duty.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 52
+    images:
+      - url: "https://assets.realclear.com/images/55/551499.jpg"
+        width: 1018
+        height: 762
+        isCached: true
   - title: "6 Things Biden Could Do About Covid If He Is Serious"
     excerpt: "Here's what Joe Biden should do if he is actually serious about handling the pandemic and not just playing politics. Read Full Article »"
     publishedDateTime: 2021-08-08T19:31:00Z
