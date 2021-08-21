@@ -2,19 +2,19 @@
 category: news
 title: "Harris' Asia trip carries new urgency after Afghan collapse"
 excerpt: "The Taliban takeover of Afghanistan has given new urgency to Vice President Kamala Harris' tour of S The trip, which began Friday and has stops in Singapore and Vietnam, will provide a forum for Harris to assert herself more directly in foreign affairs."
-publishedDateTime: 2021-08-21T05:29:00Z
-originalUrl: "https://www.chron.com/news/article/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
-webUrl: "https://www.chron.com/news/article/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
-ampWebUrl: "https://www.chron.com/news/amp/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
+publishedDateTime: 2021-08-21T07:29:00Z
+originalUrl: "https://www.seattlepi.com/news/article/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
+webUrl: "https://www.seattlepi.com/news/article/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
+ampWebUrl: "https://www.seattlepi.com/news/amp/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
+cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: seattlepi.com
+  domain: seattlepi.com
 
 topics:
   - Election
@@ -103,6 +103,6 @@ related:
         height: 800
         isCached: true
 
-secured: "vGSAsFFe8Mkya61DrJVArAaMzpUVwP5e6r5SRzQFGl+kzeI8znq5aOjqHe8NZ26ivTO1MBQW/OBCWqtqzpYSeeaDikJfvSTRhwjk57MLzz4v7bMzF1vMDRbDVs29gATSGniFPL7jwq2MdcE9cq52FesYw6BAb8A0qo64Mhr9tt1zA2di3WQS0JLxgwDu7mRmlQHJ95/UI1DRCAvVBKt7InVPZisTt5TUugj/a2XdeNyx/AJXIz79hv+PAnuG6kh/+kosaMLQl3lhZsD4KNyaGykfTZaIjOmoCH0rTzrYMQEbBeXmHDA3DAQKpWJEE1UH8gNGTH0tA7aWgPrzcL5GQUMQb3NpKEqmQdVRkXe4axM=;GbuFMHGCDkyH4AF8JE+rPQ=="
+secured: "Lhp9cTQTwF4Lefa1sLWwAX6XWZ9g7Iv7HcH3WRgo1+z37EfMja6dCrlQkJQNbido3gdZwgKGVODDC6lCdBcz/i5gYXxQncgjPY9QUw822HHM46+/OcJOx9VDQsNY29/nEsMPCA1Ki2VtrMbUvaOT+zyRAKUtyfCaFFFj4jwFIExHv+a6tyf6J5mYRt+OH14Bt0An4AaQDOBXkZIL/OHKL9rIwA/ynkKh2ShWF4ouYW8AiQxZ/p8Euxeibu4bq3xEYVa8HxpB5VT/9Bmkcz+L83nihOpgfVnxko0FFqxLqna42+TbpbdpqSwNNDrG9o8BwaxlqPlZgVYvi+8VRlHk+xPFZo/zeJZNJ7EXA0dbIAI=;Q6s6yuvnJKxywSnPO3/NVg=="
 ---
 

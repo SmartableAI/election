@@ -1,20 +1,24 @@
 ---
 category: news
 title: "Joe Biden to Americans in Afghanistan: 'We will get you home'"
-excerpt: "US President Joe Biden has continued to defend the chaotic evacuation effort out of Kabul as desperation grows for those still stranded in Afghanistan. Speaking at the White House, Mr Biden said the US had evacuated 13,"
-publishedDateTime: 2021-08-20T19:38:00Z
-originalUrl: "https://www.bbc.co.uk/news/world-us-canada-58285923"
-webUrl: "https://www.bbc.co.uk/news/world-us-canada-58285923"
-ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-58285923.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-58285923.amp"
+excerpt: "US President Joe Biden has again defended a chaotic evacuation effort out of Kabul as desperation grows for those still stranded in Afghanistan. \"This is one of the largest, most difficult airlifts in history,"
+publishedDateTime: 2021-08-20T18:27:00Z
+originalUrl: "https://www.bbc.com/news/world-us-canada-58285923"
+webUrl: "https://www.bbc.com/news/world-us-canada-58285923"
+ampWebUrl: "https://www.bbc.com/news/world-us-canada-58285923.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-58285923.amp"
 type: article
-quality: 75
-heat: -1
-published: false
+quality: 125
+heat: 385
+published: true
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -42,6 +46,38 @@ related:
       - url: "https://d.newsweek.com/en/full/1871760/candace-owens-hosting-her-candace-show.jpg"
         width: 3391
         height: 2362
+        isCached: true
+  - title: "Biden says ‘I will not send another generation of Americans to war in Afghanistan’ – live"
+    excerpt: "Joe Biden speaks on US troop withdrawal after 20 years at war – follow all the day’s political news"
+    publishedDateTime: 2021-07-08T21:48:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest?page=with:block-60e771858f088074caec4722"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 116
+    images:
+      - url: "https://i.guim.co.uk/img/media/f875a2dbf99456d76ab1ce8df2c7ea938afda71d/0_117_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=65c205b887888d975c7bb3e64723ed7b"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden says ‘I will not send another generation of Americans to war in Afghanistan’ – as it happened"
+    excerpt: "Joe Biden speaks on US troop withdrawal after 20 years at war – follow all the day’s political news"
+    publishedDateTime: 2021-07-09T00:08:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest?page=with:block-60e77eca8f088074caec4798"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 111
+    images:
+      - url: "https://i.guim.co.uk/img/media/f875a2dbf99456d76ab1ce8df2c7ea938afda71d/0_117_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=65c205b887888d975c7bb3e64723ed7b"
+        width: 600
+        height: 360
         isCached: true
   - title: "Joe Biden on Afghanistan: 'I stand squarely behind my decision'"
     excerpt: "I stand squarely behind my decision' Up Next. How it happened: The Taliban advance. Video, 00:01:49How it happened: The Taliban advance Images show decline of California's 'life source' Video, 00:02:49Images show decline of California's 'life source' Afghans cling to US plane taking off from Kabul."
@@ -79,21 +115,37 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 95
-  - title: "What Donald Trump Said In April About Pulling Out US Troops From Afghanistan"
-    excerpt: "Donald Trump slammed Biden's decision to withdraw from Afghanistan despite applauding the move months earlier."
-    publishedDateTime: 2021-08-16T22:23:00Z
-    webUrl: "https://www.ibtimes.com/what-donald-trump-said-april-about-pulling-out-us-troops-afghanistan-3274760"
-    ampWebUrl: "https://www.ibtimes.com/what-donald-trump-said-april-about-pulling-out-us-troops-afghanistan-3274760?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/what-donald-trump-said-april-about-pulling-out-us-troops-afghanistan-3274760?amp=1"
+  - title: "Biden pledges to Americans in Kabul: 'We will get you home'"
+    excerpt: "President Joe Biden is pledging to Americans still trapped in Afghanistan: “We will get you home.” Biden also said Friday the United States is committed to evacuating all Afghans who assisted the war effort — a potentially vast expansion of the administration's commitments on the airlift so far,"
+    publishedDateTime: 2021-08-20T23:57:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/US-struggles-to-speed-Kabul-airlift-despite-16399637.php"
+    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/US-struggles-to-speed-Kabul-airlift-despite-16399637.php"
+    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/US-struggles-to-speed-Kabul-airlift-despite-16399637.php"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 72
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 75
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/facebook-and-twitter-banned-donald-trump-over-his.jpg"
-        width: 1024
-        height: 662
+      - url: "https://s.hdnux.com/photos/01/21/42/55/21375845/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
+  - title: "Joe Biden looks to boost Native American voter turnout | Charlotte Observer"
+    excerpt: "Native American voters could play a major role in deciding the next presidential election in key battleground states."
+    publishedDateTime: 2021-08-13T09:00:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article253429449.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article253429449.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article253429449.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 73
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557046001/6416380e-f39b-44f4-98b3-0db4d9888c0d/aa0212ec-ae12-4bcf-8926-43cebffe2f5f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Joe Biden vows every American who wants out of Afghanistan will be evacuated"
     excerpt: "US President Joe Biden pledged on Friday that every American who wanted to would be evacuated from Taliban-ruled Afghanistan, with about 13,000 brought home so far. Facing a torrent of criticism for his handling of the US troop withdrawal,"
@@ -153,20 +205,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Yes, former President Trump made a deal with the Taliban to pull US troops out of Afghanistan by May 2021"
-    excerpt: "Former President Donald Trump made a deal to remove U.S. forces by May 2021, and Biden extended the withdrawal deadline to Sept. 11. 2021"
-    publishedDateTime: 2021-08-17T22:32:00Z
-    webUrl: "https://www.khou.com/video/news/verify/national-verify/yes-former-president-trump-made-a-deal-with-the-taliban-to-pull-us-troops-out-of-afghanistan-by-may-2021/536-a396bac1-5c40-4d0d-ab36-ac0bebf5a158"
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 38
-    images:
-      - url: "https://media.khou.com/assets/VERIFY/images/b1fd9db6-f067-4227-aff2-ad144357f1ed/b1fd9db6-f067-4227-aff2-ad144357f1ed_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Anna Paulina Luna addresses troops, Amanda Makki calls for Joe Biden resignation in response to Afghanistan crisis"
     excerpt: "Florida’s 13th Congressional District GOP candidates Amanda Makki and Anna Paulina Luna are responding to the fall of Kabul to Taliban control after American troops were pulled from Afghanistan. The candidates,"
     publishedDateTime: 2021-08-17T16:29:00Z
@@ -182,6 +220,6 @@ related:
         height: 1920
         isCached: true
 
-secured: "WVlaMhb3X/P2NpjoHFW4uJwu0ULe5uyS80RqOV/yFez7TjgYPyblKjrDIOoaZE5SEYU5HMtNAj+Be43jUFZ1zP5cRWw2O6Sg5CvY/ylL7xpu0VDWjy9S71nRdprbWXlZH2uFXSGIHV4J/z+LTjc62YRJaBNBOvrBrX74sTyM9UskiJP+NVVVJrAwY14tV9JmAYvyWDGM1d2c3ihtGjmnKN2n2guNac4C0oH/FM8hUHvw2N7Rr2QfMD7K/lVEPhPUn6W7ATe2jG1sWg8GREXPsKt8THrjoOnZF2xecikbMZrDopHN1a0pSIxYwjMRtnBF+WNgPYsLFEocJCV29gfFd/0nkfEJXjAD5P8IrGoRE99qa6tVnwXF3z3C4n3Z/tVNpoUvRked98mMGJTqx16lohGbW7S1fde89Pd3O++sqw28fd980SEwHsFbR36+qCpsXbIrY4+FP0vBzK8FxVJkQGGo+hwmyaLjxCQ3lNtUjXmhTy7b2Bg0GszL9Q1oYEfWmjtgNS4a1Zi8NSQTi1f/Kw==;MDekgtkWd5xQGuu0Pk2Ogw=="
+secured: "H8vGA6SUirmo0M6iJ40/tcUs0T+5ECmJKwFx2rrPwNtk6guvQk9jFnjUPeRsJJJQayCv3WjZRiNNZhNta6gfzzfk5JGyxYruceMH+4g7YmsNaSviy5QQgdxs0VR8C6yOrLVfsaVqSLSyy1HCyHwLmI/jB/jv0qU5Do/hmd4CvtFZLvTqEplhLKttNpC1jP7rvrQH9zDaQRMveApcBgaqwWuRB1zcjAJeOpNibGv5A89wA/kpw1NZ2y+FbslO+U+hC9a8Prq+Az+kzS4zwUsrqh6aZytU38//7jjkAEUCZre3AQkCd7aCKHcH+hf4soWyfE7LWGt1/FdwK2iRCBSmUl+n5cuJ2TAHSCE5BFD3uNo=;FISZsVJIQwvBz/2YaKqPtw=="
 ---
 

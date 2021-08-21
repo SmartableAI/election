@@ -482,6 +482,58 @@
       ]
     },
     {
+      "path": "_news/2021-08-17-what-donald-trump-said-in-april-about-pulling-out-us-troops-from-afghanistan.md",
+      "title": "What Donald Trump Said In April About Pulling Out US Troops From Afghanistan",
+      "excerpt": "Donald Trump slammed Biden's decision to withdraw from Afghanistan despite applauding the move months earlier.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/what-donald-trump-said-april-about-pulling-out-us-troops-afghanistan-3274760",
+      "originalUrl": "https://www.ibtimes.com/what-donald-trump-said-april-about-pulling-out-us-troops-afghanistan-3274760",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/facebook-and-twitter-banned-donald-trump-over-his.jpg",
+          "width": 1024,
+          "height": 662,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/what-donald-trump-said-april-about-pulling-out-us-troops-afghanistan-3274760?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/what-donald-trump-said-april-about-pulling-out-us-troops-afghanistan-3274760?amp=1",
+      "publishedDateTime": "2021-08-16T15:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-5-questions-for-mary-trumpniece-of-donald-who-wants-the-gop-burned-to-the-ground.md",
       "title": "5 Questions For Mary Trump—Niece Of Donald Who Wants The GOP ‘Burned To The Ground’",
       "excerpt": "A year after releasing a best-selling, salacious takedown of her uncle, Mary Trump is back with another title, but a much bigger target.",
@@ -633,58 +685,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-16-candace-owens-says-joe-biden-hiding-like-a-little-b-as-afghanistan-falls.md",
-      "title": "Candace Owens Says Joe Biden Hiding 'Like a Little B****' as Afghanistan Falls",
-      "excerpt": "The decision to withdraw from Afghanistan was first made under the Trump administration. However, the full withdrawal was carried out under Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/candace-owens-says-joe-biden-hiding-like-little-b-afghanistan-falls-1619586",
-      "originalUrl": "https://www.newsweek.com/candace-owens-says-joe-biden-hiding-like-little-b-afghanistan-falls-1619586",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 341,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1871760/candace-owens-hosting-her-candace-show.jpg",
-          "width": 3391,
-          "height": 2362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/candace-owens-says-joe-biden-hiding-like-little-b-afghanistan-falls-1619586?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/candace-owens-says-joe-biden-hiding-like-little-b-afghanistan-falls-1619586?amp=1",
-      "publishedDateTime": "2021-08-16T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-08-16-trump-ally-in-georgia-running-for-lieutenant-governor-vows-to-expose-all-voter-fraud.md",
       "title": "Trump ally in Georgia running for lieutenant governor vows to 'expose all voter fraud'",
       "excerpt": "A state senator in Georgia who’s a strong supporter of former President Trump is vowing to \"investigate and expose all voter fraud\" as he runs next year for lieutenant governor.",
@@ -749,7 +749,7 @@
       "originalUrl": "https://www.the-sun.com/news/3480762/camp-david-donald-trump-taliban/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 115,
       "tags": null,
       "images": [
         {

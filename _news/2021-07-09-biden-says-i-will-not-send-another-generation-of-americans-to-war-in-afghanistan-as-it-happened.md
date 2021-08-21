@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Joe Biden to Americans in Afghanistan: 'We will get you home'"
+    excerpt: "US President Joe Biden has again defended a chaotic evacuation effort out of Kabul as desperation grows for those still stranded in Afghanistan. \"This is one of the largest, most difficult airlifts in history,"
+    publishedDateTime: 2021-08-20T18:27:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-58285923"
+    ampWebUrl: "https://www.bbc.com/news/world-us-canada-58285923.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-58285923.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/170AB/production/_120097349_bidenindex.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Candace Owens Says Joe Biden Hiding 'Like a Little B****' as Afghanistan Falls"
+    excerpt: "The decision to withdraw from Afghanistan was first made under the Trump administration. However, the full withdrawal was carried out under Biden."
+    publishedDateTime: 2021-08-16T13:06:00Z
+    webUrl: "https://www.newsweek.com/candace-owens-says-joe-biden-hiding-like-little-b-afghanistan-falls-1619586"
+    ampWebUrl: "https://www.newsweek.com/candace-owens-says-joe-biden-hiding-like-little-b-afghanistan-falls-1619586?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/candace-owens-says-joe-biden-hiding-like-little-b-afghanistan-falls-1619586?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1871760/candace-owens-hosting-her-candace-show.jpg"
+        width: 3391
+        height: 2362
+        isCached: true
   - title: "Biden says ‘I will not send another generation of Americans to war in Afghanistan’ – live"
     excerpt: "Joe Biden speaks on US troop withdrawal after 20 years at war – follow all the day’s political news"
     publishedDateTime: 2021-07-08T21:48:00Z
@@ -47,61 +79,146 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Florida condo search, Biden on Afghanistan, Tropical Storm Elsa: 5 things to know Thursday"
-    excerpt: "Crews in the Florida condo building collapse switch to recovery, Biden will discuss drawdown efforts in Afghanistan and more news to start your Thursday."
-    publishedDateTime: 2021-07-08T10:55:00Z
-    webUrl: "https://www.usatoday.com/story/news/2021/07/08/florida-condo-search-afghanistan-elsa-5-things-know-thursday/7874971002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7874971002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7874971002"
+  - title: "Joe Biden on Afghanistan: 'I stand squarely behind my decision'"
+    excerpt: "I stand squarely behind my decision' Up Next. How it happened: The Taliban advance. Video, 00:01:49How it happened: The Taliban advance Images show decline of California's 'life source' Video, 00:02:49Images show decline of California's 'life source' Afghans cling to US plane taking off from Kabul."
+    publishedDateTime: 2021-08-16T21:03:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-58238557?at_campaign=64&at_custom2=twitter&at_custom4=736F426C-FED2-11EB-BDD5-D9FE4744363C&at_custom1=%5Bpost+type%5D&at_medium=custom7"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
+      name: BBC
+      domain: bbc.com
+    quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/07/07/USAT/9262c413-f2f6-4e55-9d85-a24a54fcbd05-AFP_AFP_9DC963.jpg?auto=webp&crop=2047,1152,x0,y120&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/16693/production/_119959719_p09sds1d.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "GOP state voting restrictions 'un-American,' Biden declares"
-    excerpt: "President Biden called Republican efforts to tighten ballot restrictions “un-American” and said passage of stalled proposals in Congress is “a national imperative.”"
-    publishedDateTime: 2021-07-13T20:45:00Z
-    webUrl: "https://missoulian.com/news/national/govt-and-politics/gop-state-voting-restrictions-un-american-biden-declares/article_e08c417b-bca3-5598-a314-75d0a9e387e5.html"
-    ampWebUrl: "https://missoulian.com/news/national/govt-and-politics/gop-state-voting-restrictions-un-american-biden-declares/article_e08c417b-bca3-5598-a314-75d0a9e387e5.amp.html"
-    cdnAmpWebUrl: "https://missoulian-com.cdn.ampproject.org/c/s/missoulian.com/news/national/govt-and-politics/gop-state-voting-restrictions-un-american-biden-declares/article_e08c417b-bca3-5598-a314-75d0a9e387e5.amp.html"
+  - title: "Afghanistan live news: Joe Biden says there was no way to exit without ‘chaos’"
+    excerpt: "Ousted president Ashraf Ghani confirms he is in UAE; UN says it will still support Afghan people; at least one dead after clash over Taliban flag"
+    publishedDateTime: 2021-08-18T21:35:00Z
+    webUrl: "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis?page=with:block-611d87688f08e83ac7bdefef"
+    ampWebUrl: "https://amp.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis"
     type: article
     provider:
-      name: Missoulian
-      domain: missoulian.com
+      name: The Guardian
+      domain: theguardian.com
+    quality: 101
+  - title: "Afghanistan live news: Joe Biden says there was no way to exit Afghanistan without ‘chaos’"
+    excerpt: "Ousted president Ashraf Ghani confirms he is in UAE; UN says it will still support Afghan people; at least one dead after clash over Taliban flag"
+    publishedDateTime: 2021-08-18T20:16:00Z
+    webUrl: "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis?page=with:block-611d70618f08e83ac7bdef0a"
+    ampWebUrl: "https://amp.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 95
+  - title: "Biden pledges to Americans in Kabul: 'We will get you home'"
+    excerpt: "President Joe Biden is pledging to Americans still trapped in Afghanistan: “We will get you home.” Biden also said Friday the United States is committed to evacuating all Afghans who assisted the war effort — a potentially vast expansion of the administration's commitments on the airlift so far,"
+    publishedDateTime: 2021-08-20T23:57:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/US-struggles-to-speed-Kabul-airlift-despite-16399637.php"
+    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/US-struggles-to-speed-Kabul-airlift-despite-16399637.php"
+    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/US-struggles-to-speed-Kabul-airlift-despite-16399637.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
     quality: 75
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/9/e9/9e9279f1-38b3-5575-aa97-64b597fff27e/60edf72f13fb0.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
+      - url: "https://s.hdnux.com/photos/01/21/42/55/21375845/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
-  - title: "Jill Biden: ‘Part of the reason’ Joe elected was so Americans could ‘breathe again’"
-    excerpt: "First lady Jill Biden says her husband’s election serves as a form of stress relief for Americans who felt suffocated under former President Trump."
-    publishedDateTime: 2021-07-01T23:34:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/jul/1/jill-biden-part-of-the-reason-joe-elected-was-so-a/"
+  - title: "Joe Biden looks to boost Native American voter turnout | Charlotte Observer"
+    excerpt: "Native American voters could play a major role in deciding the next presidential election in key battleground states."
+    publishedDateTime: 2021-08-13T09:00:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article253429449.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article253429449.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article253429449.html"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 49
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 73
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/07/01/Biden_46498.jpg-7f185_c0-231-5556-3472_s1200x700.jpg?999ab4580c3a4c01f0f3063c2e721cab43e8e0c2"
-        width: 1200
-        height: 700
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557046001/6416380e-f39b-44f4-98b3-0db4d9888c0d/aa0212ec-ae12-4bcf-8926-43cebffe2f5f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Biden Defends Afghanistan Withdrawal: ‘Empires Have Gone There and Not Done It’"
-    excerpt: "Despite touting an apparent success, Biden had few answers to some of the most pressing questions as the U.S. eyes the exit in Afghanistan."
-    publishedDateTime: 2021-07-08T19:43:00Z
-    webUrl: "https://www.usnews.com/news/national-news/articles/2021-07-08/biden-defends-afghanistan-withdrawal-the-us-did-what-we-went-in-to-do"
+  - title: "Joe Biden vows every American who wants out of Afghanistan will be evacuated"
+    excerpt: "US President Joe Biden pledged on Friday that every American who wanted to would be evacuated from Taliban-ruled Afghanistan, with about 13,000 brought home so far. Facing a torrent of criticism for his handling of the US troop withdrawal,"
+    publishedDateTime: 2021-08-20T23:21:00Z
+    webUrl: "https://www.newshub.co.nz/home/world/2021/08/joe-biden-vows-every-american-who-wants-out-of-afghanistan-will-be-evacuated.html"
+    ampWebUrl: "https://www.newshub.co.nz/home/world/2021/08/joe-biden-vows-every-american-who-wants-out-of-afghanistan-will-be-evacuated.amp.html"
+    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/world/2021/08/joe-biden-vows-every-american-who-wants-out-of-afghanistan-will-be-evacuated.amp.html"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 31
+      name: Newshub
+      domain: newshub.co.nz
+    quality: 72
+    images:
+      - url: "https://www.newshub.co.nz/home/politics/2021/08/afghanistan-how-new-zealand-defence-force-plans-to-get-inside-chaotic-kabul/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1629425486688/NZ-Defence-Force-Taliban-Getty-1120.jpg"
+        width: 768
+        height: 438
+        isCached: true
+  - title: "Pence Rips Into Biden for 'Disastrous Withdrawal' From Afghanistan"
+    excerpt: "Former Vice President Mike Pence is laying into President Joe Biden for what he says is a “disastrous” withdrawal from Afghanistan. In an op-ed published in The Wall Street Journal on Tuesday, Pence recalled Biden’s prediction that the Taliban would not overrun Afghanistan."
+    publishedDateTime: 2021-08-18T17:51:00Z
+    webUrl: "https://ijr.com/pence-rips-biden-disastrous-withdrawal-afghanistan/"
+    type: article
+    provider:
+      name: ijr.com
+      domain: ijr.com
+    quality: 70
+    images:
+      - url: "https://ijr.com/wp-content/uploads/2021/08/photomix-image-10.png"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Afghanistan: Joe Biden said chaos was 'inevitable'"
+    excerpt: "In an exclusive interview with ABC News' George Stephanopoulos, Joe Biden said nobody could have anticipated the speed of the Taliban's takeover. The US president has been criticised for his handling of the withdrawal."
+    publishedDateTime: 2021-08-19T00:44:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/world-us-canada-58264718"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/B308/production/_120023854_p09sm318.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Ron DeSantis calls Joe Biden ‘obsessed’ with masking kindergarteners amid Afghanistan crisis"
+    excerpt: "Ron DeSantis says President Joe Biden is “obsessed” with masking children with schools after the President leveled another attack admonishment against Republican governors blocking local mask orders."
+    publishedDateTime: 2021-08-19T02:11:00Z
+    webUrl: "https://floridapolitics.com/archives/451535-ron-desantis-calls-joe-biden-obsessed-with-masking-kindergarteners-amid-afghanistan-crisis/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 44
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/08/Ron-DeSantis-AP.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Anna Paulina Luna addresses troops, Amanda Makki calls for Joe Biden resignation in response to Afghanistan crisis"
+    excerpt: "Florida’s 13th Congressional District GOP candidates Amanda Makki and Anna Paulina Luna are responding to the fall of Kabul to Taliban control after American troops were pulled from Afghanistan. The candidates,"
+    publishedDateTime: 2021-08-17T16:29:00Z
+    webUrl: "https://floridapolitics.com/archives/450940-anna-paulina-luna-addresses-troops-amanda-makki-calls-for-joe-biden-resignation-in-response-to-afghanistan-crisis/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 33
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/08/makki_Luna-scaled.jpg"
+        width: 2560
+        height: 1920
+        isCached: true
 
 secured: "aGenXNCgtTNELUE8P2tqy3ickK/Ekja7kvk4jqhMu9/EyllPbfTPDcyUgZD2UNwc37LQ9kUEG3OoHNuHdEG9NV/r0Kq/qCyq3z56EtpCeAcyEuL4Ikk/mLL3FhxyQrACusTHA8f/Xj9zUI0sS4dBWqRdn5lDRGZKCqCtH9M+/aStyC7WT60tPLKbXQfbW0X+uvCQpLLdzhpF9FIZlFxdtz8TUeRh0lvCJkI1h1DJcZT6DsBNO0iS13HSFCJKDvGj7e17l63dw5A06glxELacaL9HDNyhPzhMucF5kNkcrFTqJ3dMAtZ6ATm6ACFJOolmzgROLEk8gbP+ukeYNHnJO59yQPAm4fZk9iSzBbtlna7+And7dwSzRCUdudTWS8Uc8GqcIYGk3WMIV//JaXV7pcfsd+7TUUqpP03cuLvc5Be++yfvZEirBpDtWKGeL2vHZYeJYVxvWe7OfgULNsGVGwkggK0SDQa/ztiLkmwYp3K7r+tlZGiXgcX5B8PrsJbNlBe5WRZxtw1tWBDu2k+GOg==;Nn0CHxR2+GWlkgXP6nYz3g=="
 ---
