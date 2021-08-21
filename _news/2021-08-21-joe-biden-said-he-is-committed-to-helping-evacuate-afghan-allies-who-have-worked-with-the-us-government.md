@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Joe Biden takes aim at Texas blocking mask mandates"
-excerpt: "By James Barragán, The Texas Tribune Texas Gov. Greg Abbott may soon be fighting a war on two fronts — with local officials and the federal government — to stave off mandatory COVID-19 prevention efforts after the Biden administration announced Wednesday it was going after states like Texas that try to ban universal masking at"
-publishedDateTime: 2021-08-19T09:12:00Z
-originalUrl: "https://www.crosstimbersgazette.com/2021/08/18/joe-biden-takes-aim-at-texas-blocking-mask-mandates/"
-webUrl: "https://www.crosstimbersgazette.com/2021/08/18/joe-biden-takes-aim-at-texas-blocking-mask-mandates/"
+title: "Joe Biden Said He Is Committed To Helping Evacuate Afghan Allies Who Have Worked With The US Government"
+excerpt: "In a speech at the White House, Biden again stood by his decision to withdraw US forces from the country. President Joe Biden once again stood by his decision to withdraw US forces from Afghanistan in a speech Friday and said he is committed to helping Afghans who have worked with the US government evacuate the country."
+publishedDateTime: 2021-08-21T10:27:00Z
+originalUrl: "https://www.buzzfeednews.com/article/clarissajanlim/biden-afghanistan-evacuations?ref=bfnsplash"
+webUrl: "https://www.buzzfeednews.com/article/clarissajanlim/biden-afghanistan-evacuations?ref=bfnsplash"
+ampWebUrl: "https://www.buzzfeednews.com/amphtml/clarissajanlim/biden-afghanistan-evacuations"
+cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/clarissajanlim/biden-afghanistan-evacuations"
 type: article
-quality: 55
+quality: 109
 heat: -1
 published: false
 
 provider:
-  name: The Cross Timbers Gazette
-  domain: crosstimbersgazette.com
+  name: BuzzFeed News
+  domain: buzzfeednews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/buzzfeednews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.crosstimbersgazette.com/crosstimbersgazette/wp-content/uploads/2021/08/biden.jpg"
-    width: 848
-    height: 570
+  - url: "https://img.buzzfeed.com/buzzfeed-static/static/2017-04/12/11/campaign_images/buzzfeed-prod-fastlane-02/trump-says-the-us-wont-go-into-syria-even-though--2-24885-1492010278-4_dblbig.jpg"
+    width: 625
+    height: 415
     isCached: true
 
 related:
@@ -40,22 +46,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/588c63ebaadccad8a6667c54fcab67b69ae81af7/212_0_4688_2813/master/4688.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=96e3db49456f8f393dbe8c5408ee3aa9"
         width: 600
         height: 360
-        isCached: true
-  - title: "Joe Biden Said He Is Committed To Helping Evacuate Afghan Allies Who Have Worked With The US Government"
-    excerpt: "In a speech at the White House, Biden again stood by his decision to withdraw US forces from the country. President Joe Biden once again stood by his decision to withdraw US forces from Afghanistan in a speech Friday and said he is committed to helping Afghans who have worked with the US government evacuate the country."
-    publishedDateTime: 2021-08-21T10:27:00Z
-    webUrl: "https://www.buzzfeednews.com/article/clarissajanlim/biden-afghanistan-evacuations?ref=bfnsplash"
-    ampWebUrl: "https://www.buzzfeednews.com/amphtml/clarissajanlim/biden-afghanistan-evacuations"
-    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/clarissajanlim/biden-afghanistan-evacuations"
-    type: article
-    provider:
-      name: BuzzFeed News
-      domain: buzzfeednews.com
-    quality: 109
-    images:
-      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2017-04/12/11/campaign_images/buzzfeed-prod-fastlane-02/trump-says-the-us-wont-go-into-syria-even-though--2-24885-1492010278-4_dblbig.jpg"
-        width: 625
-        height: 415
         isCached: true
   - title: "Joe Biden announces Covid booster shots from September – video"
     excerpt: "President says anyone who was fully vaccinated eight months prior will be eligible"
@@ -115,6 +105,20 @@ related:
         width: 810
         height: 457
         isCached: true
+  - title: "Joe Biden takes aim at Texas blocking mask mandates"
+    excerpt: "By James Barragán, The Texas Tribune Texas Gov. Greg Abbott may soon be fighting a war on two fronts — with local officials and the federal government — to stave off mandatory COVID-19 prevention efforts after the Biden administration announced Wednesday it was going after states like Texas that try to ban universal masking at"
+    publishedDateTime: 2021-08-19T09:12:00Z
+    webUrl: "https://www.crosstimbersgazette.com/2021/08/18/joe-biden-takes-aim-at-texas-blocking-mask-mandates/"
+    type: article
+    provider:
+      name: The Cross Timbers Gazette
+      domain: crosstimbersgazette.com
+    quality: 55
+    images:
+      - url: "https://www.crosstimbersgazette.com/crosstimbersgazette/wp-content/uploads/2021/08/biden.jpg"
+        width: 848
+        height: 570
+        isCached: true
   - title: "Rick Scott says Joe Biden ‘unfit’ for presidency after Afghan exit"
     excerpt: "Florida’s junior Senator continued his scathing criticism of President Joe Biden Thursday. “Incompetent. Unhinged. Incoherent. Unfit,” tweeted Scott, in a four-word excoriation of Biden’s performance in an interview with ABC the night before."
     publishedDateTime: 2021-08-19T15:07:00Z
@@ -155,6 +159,6 @@ related:
         height: 1365
         isCached: true
 
-secured: "avPfA+xI+pVAtaubGGRNxt3z5sgkIJAhyeDaplAJbP9Xg3+mFRnNXpnjsT/x4Nz7bRAPvyl95pv1eHmooWO9EDzaSRrKk7AuadfXNwlB6bHIa0T/GDKDc25ucXYr4aI57ooPUWVfhNxcfF1CZnzSNNcLa0eEhZNPAu9YXR2KiHdwvqi2/MTz4Oz6cHtP+OogPOuNSeTERS6GbJYN38YVMVb4JmqDcWH2TLjgObe2Aimsk4AuJsJhSehqdjtd3E9NQ+nCHRdM5fDKXK+d+uWWv+5wSj/AYCWvZ3k7W1ij8R7FjVc0FO5CtC7k8EQYQ/s+PCFsWHL2GPOgnMG3m8DU09i1cQNTQd5gnvZ8ShFJghU=;Zc8h1d82l6o4j31nyx01JA=="
+secured: "7lWZmjmqwh/nWNQoGkew3hy81UTclBD8+fZ2CmEYB/RYquYiFIHMBXGea1zO5D6/lT3poT/fLD/bzC5X+56ZyMLxht9ktXi+hPAepZmnINc97kurgVtu+4zeVbYVgG62EB/KwSmu5FSZolpIgLJ5DO0Nmlf9bMwFKEPXLkFa+iY2D5Y4g5XP5bKYBBeHH2SSr2ltTh+I40tSeVS7shU+I2TcuNCED+i+1Ze05vWoglcREy1VEJoYf56wzfTJm9xN2FjVCS4s6u/VLYwqbteHh3TbMnY8Mq6HE1sDXknEjp7xntbs0gEFnHZ1ifAec3JHY0zVREjBcg+28JNVl0b/A0gE8O9dKm2y3vzRD29VgZ0=;IXocjMJGXgk50JbAZI3ZRw=="
 ---
 

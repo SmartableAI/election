@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Joe Biden Said He Is Committed To Helping Evacuate Afghan Allies Who Have Worked With The US Government"
+    excerpt: "In a speech at the White House, Biden again stood by his decision to withdraw US forces from the country. President Joe Biden once again stood by his decision to withdraw US forces from Afghanistan in a speech Friday and said he is committed to helping Afghans who have worked with the US government evacuate the country."
+    publishedDateTime: 2021-08-21T10:27:00Z
+    webUrl: "https://www.buzzfeednews.com/article/clarissajanlim/biden-afghanistan-evacuations?ref=bfnsplash"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/clarissajanlim/biden-afghanistan-evacuations"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/clarissajanlim/biden-afghanistan-evacuations"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 109
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2017-04/12/11/campaign_images/buzzfeed-prod-fastlane-02/trump-says-the-us-wont-go-into-syria-even-though--2-24885-1492010278-4_dblbig.jpg"
+        width: 625
+        height: 415
+        isCached: true
   - title: "Joe Biden announces Covid booster shots from September – video"
     excerpt: "President says anyone who was fully vaccinated eight months prior will be eligible"
     publishedDateTime: 2021-08-19T02:23:00Z

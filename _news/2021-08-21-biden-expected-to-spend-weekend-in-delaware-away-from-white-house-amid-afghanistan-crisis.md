@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden says American troops should not be dying in Afghanistan; 18 months since last US death"
-excerpt: "President Biden justified the withdrawal of American forces from Afghanistan by stating that U.S. troops should not be losing their lives in a conflict where the Afghans are not fighting themselves, but the last American military casualty was a year and a half ago."
-publishedDateTime: 2021-08-17T19:01:32Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/x_9K3nzHha8/biden-american-troops-not-die-afghanistan-year-last-us-death"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/x_9K3nzHha8/biden-american-troops-not-die-afghanistan-year-last-us-death"
-ampWebUrl: "https://www.foxnews.com/politics/biden-american-troops-not-die-afghanistan-year-last-us-death.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-american-troops-not-die-afghanistan-year-last-us-death.amp"
+title: "Biden expected to spend weekend in Delaware, away from White House amid Afghanistan crisis"
+excerpt: "President Biden is once again scheduled to head home to Delaware Saturday, as thousands of Americans and Afghan allies remain stranded in Afghanistan following the Taliban’s takeover last weekend."
+publishedDateTime: 2021-08-21T11:27:46Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OEQnN-rykRQ/biden-weekend-delaware-white-house-afghanistan-crisis"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OEQnN-rykRQ/biden-weekend-delaware-white-house-afghanistan-crisis"
+ampWebUrl: "https://www.foxnews.com/politics/biden-weekend-delaware-white-house-afghanistan-crisis.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-weekend-delaware-white-house-afghanistan-crisis.amp"
 type: article
-quality: 164
+quality: 165
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b36f19d5-df1b-4a39-8f6f-0aedb9810430/a2efa34f-1878-4af3-8c59-bd4de5008666/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
@@ -511,22 +511,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden expected to spend weekend in Delaware, away from White House amid Afghanistan crisis"
-    excerpt: "President Biden is once again scheduled to head home to Delaware Saturday, as thousands of Americans and Afghan allies remain stranded in Afghanistan following the Taliban’s takeover last weekend."
-    publishedDateTime: 2021-08-21T11:27:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OEQnN-rykRQ/biden-weekend-delaware-white-house-afghanistan-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-weekend-delaware-white-house-afghanistan-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-weekend-delaware-white-house-afghanistan-crisis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b36f19d5-df1b-4a39-8f6f-0aedb9810430/a2efa34f-1878-4af3-8c59-bd4de5008666/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Biden ignores questions, resumes Camp David retreat after addressing Afghanistan catastrophe"
     excerpt: "Biden did not take any questions after addressing the nation and plans to return to Camp David"
     publishedDateTime: 2021-08-16T20:56:36Z
@@ -542,6 +526,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4e0376bc-9b2c-4cf6-b5e6-ec2b6305fb4e/fdf0d736-9628-4d9a-822f-6dd55c0e91fe/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden says American troops should not be dying in Afghanistan; 18 months since last US death"
+    excerpt: "President Biden justified the withdrawal of American forces from Afghanistan by stating that U.S. troops should not be losing their lives in a conflict where the Afghans are not fighting themselves, but the last American military casualty was a year and a half ago."
+    publishedDateTime: 2021-08-17T19:01:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/x_9K3nzHha8/biden-american-troops-not-die-afghanistan-year-last-us-death"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-american-troops-not-die-afghanistan-year-last-us-death.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-american-troops-not-die-afghanistan-year-last-us-death.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Former Army Ranger: Biden's Afghanistan speech was 'a bunch of diplomatic catchphrase bingo'"
     excerpt: "A former Army Ranger who served three terms in Afghanistan said President Biden’s Friday address on the evacuation in the Central Asian country sounded like \"a bunch of diplomatic catchphrase bingo.\"  "
@@ -1038,6 +1038,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "ssT4zBFAgse6oruVf3Bm8pG7mPOULx8ZMPFRP+3AuFja2zO2EV2EMvGv9XnkD9yYTpw11Hlv4OlA8ANDrCQQbeQwgkoQiPeteD2f/MfWayospb/WAkBN2vEcbWkuRB3EudOtqKYefH9cOwlmRnc2YlMUDuPZiuV7puRQjW3tk3kFkatQv+OVksrxcEyPSTxfVWAN+YhHbpORHWw0uciQjXywMCltqVYpSlnYItvgehgtPLg9y9ZUvSJ3iZvcgPG9ltzfxCAPGmc7vzhJs5a7X0dtnqpoJz82GG+MxpKEfg7o/uYAvf+9yFaUGsJ4JLFtsCgpzGzjBPV/CcRWX8BL8NLsb+kE3Pw6SRHmKL4ZU0E=;5o57tdvhuzQYxd0/8ceosA=="
+secured: "lzbhAXv9SbdYkJ3dZOCJ1nT2r4U+tS8VZnAcnYZtl2saihl76tSaSC0DZVIgIajRAbWv+XMu/uCj7P1wIT1tXStfPv5J5TYdyFg8hCUf+cL5DWI5xWa+BHOZUE/mHozrdnyO5GGyVclksLm8Omu7M/7FakbR0gkkCNxEAwNyHhPbCL5uPMbaYIt5ynU+azu6tOpS9hnh/AVDUMEzZQ7cmk7mupjFxUi2J0QvLGIK2VUfL/Au9MRsFJw4OVPfGvDvq5p/siglbVKaB8ti8vwL8WvAoFebdaYC76du0lILC/fDCxU7nD3l8lkUg5cgq/s0dW9//saaB3hFhAu/320RfiO7xvWRtUn+Em7fgCMasdo=;F/xk8uHrAPlkU0LKfYyRbQ=="
 ---
 

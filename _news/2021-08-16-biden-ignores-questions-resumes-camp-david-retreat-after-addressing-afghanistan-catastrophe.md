@@ -511,6 +511,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden expected to spend weekend in Delaware, away from White House amid Afghanistan crisis"
+    excerpt: "President Biden is once again scheduled to head home to Delaware Saturday, as thousands of Americans and Afghan allies remain stranded in Afghanistan following the Taliban’s takeover last weekend."
+    publishedDateTime: 2021-08-21T11:27:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OEQnN-rykRQ/biden-weekend-delaware-white-house-afghanistan-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-weekend-delaware-white-house-afghanistan-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-weekend-delaware-white-house-afghanistan-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b36f19d5-df1b-4a39-8f6f-0aedb9810430/a2efa34f-1878-4af3-8c59-bd4de5008666/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden says American troops should not be dying in Afghanistan; 18 months since last US death"
     excerpt: "President Biden justified the withdrawal of American forces from Afghanistan by stating that U.S. troops should not be losing their lives in a conflict where the Afghans are not fighting themselves, but the last American military casualty was a year and a half ago."
     publishedDateTime: 2021-08-17T19:01:32Z
