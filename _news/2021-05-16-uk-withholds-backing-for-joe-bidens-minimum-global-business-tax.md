@@ -47,6 +47,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden's approval rating slumps in poll"
+    excerpt: "President Joe Biden is facing a summer slump, with Americans taking a notably less positive view of his handling of the coronavirus pandemic and his job approval rating"
+    publishedDateTime: 2021-08-21T23:37:00Z
+    webUrl: "https://www.johnsoncitypress.com/biden-poll-from-newsroom/article_c8921530-02d8-11ec-85b6-937b14e10c49.html"
+    type: article
+    provider:
+      name: Johnson City Press
+      domain: johnsoncitypress.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/johnsoncitypress.com/content/tncms/assets/v3/editorial/f/40/f408f72e-02d8-11ec-a467-df65881632c9/61218ea7a25d5.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
 
 secured: "TfCBibt7b/ynLmDtlthz5UOkoNhC7gO1UZVMynxnFr+ZkaXT0LRm+ctcwKnj1XjLRigeTLIEj99yqhMu3k/RErJyCN/LvfKw7sFsiwn9kmteycnkQrjyHQdfvnUef1ht/ewyjxyisOSZzHpFnmV4xEYDnyHtBnyyhZAK4t8WhzrMMgJLNA+FJ88CojDIAy2WxFwTscfX98+b/mtHmgikuRswmFtekk0M9tTDsO6IhLvzLZQOOUhNd/EQShMmhpsTzUa2w8Bg4p9M5M8h+gBvi8bK3IGbvWBkUQE0Or+xS131tYV0AEofOQKR3ZT/WrXYG296mES2BvBHOvBCbGasg7PwaR9djuO+zLqT6eUcYvU42d5v+kvUHH0dKEJpmzCLmJv2F9dyM3A51Bef6WnVHXAtHgOUm3MUmN3hv0V2KPAvzCFM2vgklnqs6waYyMq+Hp9mCjiI52MLh3kSqDilaC0AAm8R35HkHQdP71JasZfmYj5imgchw4xapDkMxyuj0IRJk86RO2q0UIxYuDE+3A==;okwPclK8IDt4QHwOYGp6tg=="
 ---

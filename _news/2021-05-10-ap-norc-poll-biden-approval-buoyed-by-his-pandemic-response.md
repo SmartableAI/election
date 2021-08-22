@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-norc-poll-biden-app
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-norc-poll-biden-approval-buoyed-pandemic-response-77598908"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe1c800d4-e0a9-4da9-98da-11634db34510.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+        isCached: true
+  - title: "Joe Biden's approval rating slumps in poll"
+    excerpt: "President Joe Biden is facing a summer slump, with Americans taking a notably less positive view of his handling of the coronavirus pandemic and his job approval rating"
+    publishedDateTime: 2021-08-21T23:37:00Z
+    webUrl: "https://www.johnsoncitypress.com/biden-poll-from-newsroom/article_c8921530-02d8-11ec-85b6-937b14e10c49.html"
+    type: article
+    provider:
+      name: Johnson City Press
+      domain: johnsoncitypress.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/johnsoncitypress.com/content/tncms/assets/v3/editorial/f/40/f408f72e-02d8-11ec-a467-df65881632c9/61218ea7a25d5.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
         isCached: true
 
 secured: "DFZPoEQCilGHVSiwebYKbJ//H5Yw4m/3uxJ7CEBSf6YRVhB9k0dzGHhvr5F6ji7vSOV41V9RHKNnQ5i7yyOwOV/eNQW86WGzsy81E3Y0hY/X/KckGyyHaZEtmPtaKzqNHFBaZCHhr+Ck7U379ssTh/ccDU7VHwpuVwmamlEWFj7O1yDOxP0mmp77L1ONkMkfNJ4NiGF05uDJozkOMjwnTjsx5FssTFt/5vGdmR+KmDvAztjdyvqSXGXD64vMiCoPenkezLCDCrLRwgB/ct/GTvgLFfks9wDMHaBeHkjT2PBXaxoyafHMECBqgSjCD0IkMI7h9upS953buYc9nd1EE9hRNIJt3UnbEZfHxpy+9VW5ezZXMKMr/p1uUR65Yc7d8KjQyg+s1RmNuUprK6ZhOdHawoB6kjEql7yS1E0CYtr3cDaoL+KFOy0gokgxx2w5fSIyXe+wtedwPl1WdZh1+Y53IjR9KOieHrI8HcUE5Xcw1NlMUGL9B218GkPA0PMhfTzK+nIq/FZtdluzEJkTHA==;fZ390rxboDWxqQnsh063wQ=="

@@ -3,27 +3,23 @@ category: news
 title: "Former Pence adviser: Refugee topics would be blocked in meetings"
 excerpt: "Olivia Troye, a former adviser to Vice President Mike Pence, speaks to CNN for the first time since her viral Twitter thread in which she says that some senior members"
 publishedDateTime: 2021-08-21T19:21:00Z
-originalUrl: "https://www.republic-online.com/news/national_news/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_1809a8ec-64ec-54cb-a837-53744eaadfeb.html"
-webUrl: "https://www.republic-online.com/news/national_news/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_1809a8ec-64ec-54cb-a837-53744eaadfeb.html"
+originalUrl: "https://www.delcotimes.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_72bf1433-3e22-5c97-ac39-c919f8ee4fb9.html"
+webUrl: "https://www.delcotimes.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_72bf1433-3e22-5c97-ac39-c919f8ee4fb9.html"
+ampWebUrl: "https://www.delcotimes.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_72bf1433-3e22-5c97-ac39-c919f8ee4fb9.amp.html"
+cdnAmpWebUrl: "https://www-delcotimes-com.cdn.ampproject.org/c/s/www.delcotimes.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_72bf1433-3e22-5c97-ac39-c919f8ee4fb9.amp.html"
 type: article
 quality: 55
 heat: 55
 published: false
 
 provider:
-  name: Miami County Republic
-  domain: republic-online.com
+  name: Delaware County Daily Times
+  domain: delcotimes.com
 
 topics:
   - Election
   - Mike Pence
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/republic-online.com/content/tncms/assets/v3/editorial/1/80/1809a8ec-64ec-54cb-a837-53744eaadfeb/612158728d609.image.jpg?resize=576%2C324"
-    width: 576
-    height: 324
-    isCached: true
-
-secured: "UH5UlUEH5aV4hClKfACIUZLrgxoaX2gHnE4+TzaooPetZB7gqaYyuWx+5QIgx+CtLMVAHFONUPZjcb8gjeVwFiRKrOYFU0Dg+kt/yM1Jbim6UOvNZzsSFannG9d6BKgdt9EzWB2wa+ceF7/cM84zAaH+F33RS4Z63bJvcDWPjVKKrva1OtVGUQMXxw0Gt1yLMB06655F13juHz0RmqKoAtyLJrzas9VVEQaYYgm9ZrKZiO9tQ3/w0MPdtL7es5T8IuewGwbZXNHKf5byzXQ4L2mUfucrD+HjJFDZkMOaQ+ltSj3Id55ZdscMhPyJP07oMysbOEUBeFEH2pvLkSsDGyyaKuP9weBHqB6uvD5aY90=;x9uGeGhHpV1ltD313zXcuw=="
+secured: "/w0jjEJNFAXNWOKom1TsNJFgvTch3yf9BrNjuwaOQPUIcSGprF7w2toLUQaIehWHhADghJp3dR1qEQPRII3GBV0G3Ipcf5mfVENCd4y+lfRmra7t0F/I5v/KKV/iKvI9VqoAvyBvh8ZpoMNglMLGJQz2UQNFzAmFNIizWlYg2LcSg2wpRoalnrd+PLm3hRqND6OEcSY0rtoMlQWAGJ8+iRq9hJE1d1afpCQejwAjauKmyGo53mOwC2XrC4oD3VNC8P6d6NCVcSZozmnUDlLLMizYMTumRNlVH3cFoZl1ajyMmhYWRtrhngfeERMqBdl9p1lkx9dyhTpfo7WCGEfrT4/aAUU6D0fdbteW/vSyWcU8wHqKlULZqAo8CfF0lHcfUYLI8S90WAU0RxoEPLtR0Cr8B6D5b+R6QYpKEuAKCxO6t2N6cvqpyooWZy0UCGgyiClgUp3yE06D+Z/Pw1+CvbF3eki8FUZFqYHP2ReZlXkzxcPpuHHOqjtHV12AWocxoqkn5evHsp3CuIe4HrrTug==;KPh/6oIwsr4G0Y5oyNUUIw=="
 ---
 

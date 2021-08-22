@@ -157,6 +157,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Trump Slams Joe Biden For Afghanistan Crisis; Says 'Would Never Happen If I Was President'"
+    excerpt: "Trump slammed Biden for the Kabul crisis and said that recent developments in Afghan are a “major failure” of the current US administration’s foreign policy."
+    publishedDateTime: 2021-08-22T11:47:00Z
+    webUrl: "https://www.republicworld.com/world-news/us-news/trump-slams-joe-biden-for-afghanistan-crisis-says-would-never-happen-if-i-was-president.html"
+    ampWebUrl: "https://www.republicworld.com/amp/world-news/us-news/trump-slams-joe-biden-for-afghanistan-crisis-says-would-never-happen-if-i-was-president.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/world-news/us-news/trump-slams-joe-biden-for-afghanistan-crisis-says-would-never-happen-if-i-was-president.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 80
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/ztlwq9b3ofeak3y3_1629629802.jpeg"
+        width: 768
+        height: 438
+        isCached: true
   - title: "Biden pledges to Americans in Kabul: 'We will get you home'"
     excerpt: "President Joe Biden is pledging to Americans still trapped in Afghanistan: “We will get you home.” Biden also said Friday the United States is committed to evacuating all Afghans who assisted the war effort — a potentially vast expansion of the administration's commitments on the airlift so far,"
     publishedDateTime: 2021-08-20T23:57:00Z
@@ -246,6 +262,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/B308/production/_120023854_p09sm318.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Joe Biden CANCELS Delaware visit after backlash as Afghanistan crisis rages with thousands of Americans still stranded"
+    excerpt: "PRESIDENT Joe Biden has CANCELED his trip to his holiday home in Delaware as the crisis in Afghanistan rages on. Thousands of Americans and Afghan refugees remain stranded in Kabul following the"
+    publishedDateTime: 2021-08-21T16:14:00Z
+    webUrl: "https://www.the-sun.com/news/3514620/joe-biden-afghanistan-delaware/"
+    ampWebUrl: "https://www.the-sun.com/news/3514620/joe-biden-afghanistan-delaware/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3514620/joe-biden-afghanistan-delaware/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 51
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/NA-Biden-Afghan-mess-comp-v2.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Lindsey Graham adds to calls to impeach Joe Biden saying he ‘deserves’ it if he leaves Americans behind in Afghanistan"
     excerpt: "SENATOR Lindsey Graham said on Friday that President Joe Biden “deserves to be impeached” if any Americans or Afghan allies are left behind during the United States’ evacuation"

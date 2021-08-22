@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-22-barron-trump-enrolls-in-35000-a-year-private-school-in-florida.md",
+      "title": "Barron Trump Enrolls In $35,000-A-Year Private School In Florida",
+      "excerpt": "Barron Trump has enrolled in an exclusive private school in Palm Beach, Florida, for the new school year. A spokesperson for Oxbridge Academy announced earlier this week that Melania and Donald Trump's 15-year-old son has enrolled in the elite school as part of the class of 2024,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/barron-trump-enrolls-35000-year-private-school-florida-3278565",
+      "originalUrl": "https://www.ibtimes.com/barron-trump-enrolls-35000-year-private-school-florida-3278565",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/02/donald-and-melania-trump-have-tested-positive-for.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/barron-trump-enrolls-35000-year-private-school-florida-3278565?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/barron-trump-enrolls-35000-year-private-school-florida-3278565?amp=1",
+      "publishedDateTime": "2021-08-22T03:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-22-with-fight-over-mask-mandates-gov-abbott-passes-purity-test-in-trumps-gop.md",
       "title": "With fight over mask mandates, Gov. Abbott passes purity test in Trump's GOP",
       "excerpt": "When Texas had its first big surge of COVID hospitalizations, Gov. Greg Abbott responded by shutting down bars and mandating masks. As the second surge hit, Abbott put in place an automatic trigger to restrict the operating capacities of businesses and halt non-emergency surgeries to free up hospital beds in areas with high hospitalizations.",
@@ -617,7 +669,7 @@
       "originalUrl": "https://www.bbc.com/news/world-us-canada-58285923",
       "featuredContent": null,
       "highlight": null,
-      "heat": 505,
+      "heat": 545,
       "tags": null,
       "images": [
         {
@@ -981,7 +1033,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot",
       "featuredContent": null,
       "highlight": null,
-      "heat": 545,
+      "heat": 565,
       "tags": null,
       "images": [
         {
@@ -1238,49 +1290,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-how-the-trump-tax-law-created-a-loophole-that-lets-top-executives-net-millions-by-slashing-their-own-salaries.md",
-      "title": "How the Trump Tax Law Created a Loophole That Lets Top Executives Net Millions by Slashing Their Own Salaries",
-      "excerpt": "The 2017 tax cuts made it more attractive for certain company owners to be paid in profits instead of wages. Some cut their own wages, expanding a loophole that was already costing the U.S. billions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.propublica.org/article/how-the-trump-tax-law-created-a-loophole-that-lets-top-executives-net-millions-by-slashing-their-own-salaries",
-      "originalUrl": "https://www.propublica.org/article/how-the-trump-tax-law-created-a-loophole-that-lets-top-executives-net-millions-by-slashing-their-own-salaries",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-c3.propublica.org/images/series/_threeTwo400w/series-3x2.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.propublica.org/article/how-the-trump-tax-law-created-a-loophole-that-lets-top-executives-net-millions-by-slashing-their-own-salaries/amp",
-      "cdnAmpWebUrl": "https://www-propublica-org.cdn.ampproject.org/c/s/www.propublica.org/article/how-the-trump-tax-law-created-a-loophole-that-lets-top-executives-net-millions-by-slashing-their-own-salaries/amp",
-      "publishedDateTime": "2021-08-19T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ProPublica",
-        "domain": "propublica.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

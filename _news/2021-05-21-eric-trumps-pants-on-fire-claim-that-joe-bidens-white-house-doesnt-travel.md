@@ -2616,6 +2616,20 @@ related:
       name: Centre Daily Times
       domain: centredaily.com
     quality: 70
+  - title: "Trump vs. Biden hasn't begun to build to potential"
+    excerpt: "\"Do you miss me yet?\" Those words came last week in a statement from former President Donald Trump, released on Twitter via a surrogate because Trump was thrown off the service in January. But there was no doubt it was his."
+    publishedDateTime: 2021-08-22T11:00:00Z
+    webUrl: "https://www.wyomingnews.com/laramieboomerang/opinion/guest_column/trump-vs-biden-hasnt-begun-to-build-to-potential/article_77dfef74-07bd-56a3-a8de-d018a5219732.html"
+    type: article
+    provider:
+      name: Wyoming News
+      domain: wyomingnews.com
+    quality: 70
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/5/a0/5a08f479-e73a-53a8-ae5b-635873389e40/6121440f65dc5.image.jpg?crop=1175%2C881%2C0%2C440&resize=840%2C630&order=crop%2Cresize"
+        width: 840
+        height: 630
+        isCached: true
   - title: "After blowback, White House says Biden will move to lift Trump-era refugee caps"
     excerpt: "The White House on Friday said President Biden plans to lift his predecessor’s historically low cap on refugees by next month, after initially moving only to expand the eligibility criteria for resettlements."
     publishedDateTime: 2021-04-16T21:45:00Z

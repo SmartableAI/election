@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
 type: article
 quality: 125
-heat: 545
+heat: 565
 published: true
 
 provider:
@@ -253,18 +253,32 @@ related:
         height: 683
         isCached: true
   - title: "Biden sees dip in support amid new COVID cases: AP-NORC poll"
-    excerpt: "President Joe Biden is facing a summer slump, with Americans taking a notably less positive view of his handling of the coronavirus pandemic and his job approval rating ticking down."
-    publishedDateTime: 2021-08-22T06:48:00Z
-    webUrl: "https://www.hotsr.com/news/2021/aug/22/biden-sees-dip-in-support-amid-new-covid-cases-ap/"
+    excerpt: "President Joe Biden is facing a summer slump, with Americans taking a notably less positive view of his handling of the coronavirus pandemic and his job approval rating ticking down. A new poll from The Associated Press-NORC Center for Public Affairs Research finds that 54% of Americans approve of Biden’s job performance,"
+    publishedDateTime: 2021-08-22T10:57:00Z
+    webUrl: "https://www.nashuatelegraph.com/news/coronavirus/2021/08/22/biden-sees-dip-in-support-amid-new-covid-cases-ap-norc-poll/"
     type: article
     provider:
-      name: The Sentinel-Record
-      domain: hotsr.com
+      name: The Telegraph
+      domain: nashuatelegraph.com
     quality: 55
     images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/199196659_199196659-f8756b9ee1314841910e48cd44853b1a_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 400
+      - url: "https://ogden_images.s3.amazonaws.com/www.nashuatelegraph.com/images/2021/08/22052651/AP21232687538135.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "DAVID SHAFER: Joe Biden’s spending spree leaves Georgians with the bill"
+    excerpt: "The White House, with great fanfare, announced its calculation that Americans would save a whopping 16 cents on cost of their Fourth of July cookouts. I hope everyone held on"
+    publishedDateTime: 2021-08-22T10:35:00Z
+    webUrl: "https://www.gwinnettdailypost.com/local/politics/david-shafer-joe-biden-s-spending-spree-leaves-georgians-with-the-bill/article_76c6735c-01e5-11ec-b3d7-4729c9056bca.html"
+    type: article
+    provider:
+      name: Gwinnett Daily Post
+      domain: gwinnettdailypost.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/gwinnettdailypost.com/content/tncms/assets/v3/editorial/c/6c/c6c07bd2-01e5-11ec-b2c2-dfa8d0da8298/611ff695812dc.image.jpg?resize=630%2C630"
+        width: 630
+        height: 630
         isCached: true
   - title: "Who will believe Biden now?"
     excerpt: "Joe Biden did to himself what his opponents couldn’t -- shredded his own credibility in a high-profile, hugely consequential matter that won’t be forgotten."
