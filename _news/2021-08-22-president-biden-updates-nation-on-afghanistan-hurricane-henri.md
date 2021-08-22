@@ -803,6 +803,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "President Biden says US-led evacuations from Afghanistan are accelerating"
+    excerpt: "The U.S.-led evacuation of Americans, at-risk Afghans and others from the Kabul airport picked up speed this weekend."
+    publishedDateTime: 2021-08-22T21:28:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-afghanistan-20210822-77rbep5fxzdezpsyoomf2erute-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-afghanistan-20210822-77rbep5fxzdezpsyoomf2erute-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-afghanistan-20210822-77rbep5fxzdezpsyoomf2erute-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 74
+    images:
+      - url: "https://www.baltimoresun.com/resizer/xZVxiKxu_t4KPI_cZXfMEoywucY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WMGDNBO36CQQGJ7OUX3RUZ7S6Y.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "WATCH LIVE: Biden planning to give an update on situation in Afghanistan"
     excerpt: "The U.S. military is considering “creative ways” to get Americans and others into the Kabul airport for evacuation from Afghanistan amid “acute” security threats, Biden administration officials said,"
     publishedDateTime: 2021-08-22T19:43:00Z
@@ -1028,6 +1044,17 @@ related:
         width: 3000
         height: 1987
         isCached: true
+  - title: "Joe Biden Says Still Hoping For Afghanistan Airlift To End By August 31"
+    excerpt: "US President Joe Biden said Sunday he was still planning to finalize the dramatic evacuation from Afghanistan by August 31."
+    publishedDateTime: 2021-08-22T21:22:00Z
+    webUrl: "https://www.ndtv.com/world-news/joe-biden-says-still-hoping-for-afghanistan-airlift-to-end-by-august-31-2516318"
+    ampWebUrl: "https://www.ndtv.com/world-news/joe-biden-says-still-hoping-for-afghanistan-airlift-to-end-by-august-31-2516318?amp=1&akamai-rum=off"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/joe-biden-says-still-hoping-for-afghanistan-airlift-to-end-by-august-31-2516318?amp=1&akamai-rum=off"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 55
   - title: "WATCH LIVE: President Joe Biden Addresses The Nation Amid Afghanistan Collapse"
     excerpt: "President Joe Biden is expected to address the nation on the U.S. evacuation from Afghanistan. Biden plans to speak to the nation Monday, April 16, 2021, at 1:45 p.m. MST. Colorado Public Radio will carry live coverage on the radio and online."
     publishedDateTime: 2021-08-16T18:47:00Z
@@ -1041,6 +1068,20 @@ related:
       - url: "https://i2.wp.com/wp-cpr.s3.amazonaws.com/uploads/2021/08/AP21228642654210.jpg?resize=1200,600"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Opinion: Joe Biden's withdrawal from Afghanistan is disorganized, embarrassing"
+    excerpt: "With the last days of summer behind me, there is a lot I could be doing to prepare for my classes. However, as I get my apartment ready and buy"
+    publishedDateTime: 2021-08-22T20:45:00Z
+    webUrl: "https://www.lsureveille.com/opinion/opinion-joe-bidens-withdrawal-from-afghanistan-is-disorganized-embarrassing/article_601a9f08-02ca-11ec-9792-e78c6420e69a.html"
+    type: article
+    provider:
+      name: The Daily Reveille
+      domain: lsureveille.com
+    quality: 51
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/lsureveille.com/content/tncms/assets/v3/editorial/e/98/e98bd5e6-0387-11ec-9f75-e7d78105c84f/6122b490d0ee7.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
         isCached: true
   - title: "Joe Biden Afghanistan crisis: POTUS expects around 50,000 Afghans to be flown out"
     excerpt: "US President Joe Biden continues to face criticism and backlash over the withdrawal of the US from Afghanistan as the Taliban took over. In a recent interview, Biden revealed that he had expected the withdrawal from"
@@ -1064,6 +1105,15 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
+    quality: 35
+  - title: "Why Biden's Afghanistan exit wasn't about good politics"
+    excerpt: "Either way, voters have not counted Afghanistan among their top-priority concerns. Survey research on foreign policy, observed Republican pollster Kristen Soltis Anderson, \"is always very fluid.\" That reality means that neither side of the long-running debate on the war can unambiguously claim the upper hand in public sentiment."
+    publishedDateTime: 2021-08-22T21:36:00Z
+    webUrl: "https://www.kake.com/story/44573480/why-bidens-afghanistan-exit-wasnt-about-good-politics"
+    type: article
+    provider:
+      name: KAKE.com
+      domain: kake.com
     quality: 35
   - title: "Biden to Marshal International Community on Rights in Afghanistan -Adviser"
     excerpt: "U.S. National Security Adviser Jake Sullivan on Monday said that President Joe Biden is prepared to marshal the international community on human rights in Afghanistan, where the Taliban is seizing power."

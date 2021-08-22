@@ -123,20 +123,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Donald Trump Got Booed In Alabama For Saying Good Things About Vaccines"
-    excerpt: "Trump told the crowd he was vaccinated and encouraged them to do the same, drawing boos at his own rally as a result."
-    publishedDateTime: 2021-08-22T17:37:00Z
-    webUrl: "https://uproxx.com/viral/donald-trump-booed-alabama-video-vaccines/"
-    type: article
-    provider:
-      name: Uproxx
-      domain: uproxx.com
-    quality: 55
-    images:
-      - url: "https://uproxx.com/wp-content/uploads/2021/08/trumpvaccine710.jpg?w=710"
-        width: 710
-        height: 391
-        isCached: true
   - title: "Mark Z. Barabak: Debunking Trump's 'Big Lie,' scholars and statistics show the facts don't add up"
     excerpt: "In a recent survey of presidential scholars, President Donald Trump finished a dismal third from the bottom, just ahead of perennial duds James Buchanan and Andrew Johnson."
     publishedDateTime: 2021-08-17T20:49:00Z

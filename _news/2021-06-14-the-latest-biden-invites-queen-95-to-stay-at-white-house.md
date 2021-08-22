@@ -163,6 +163,20 @@ related:
       name: Kansas City Star
       domain: kansascity.com
     quality: 55
+  - title: "The Latest: Biden warns of IS threat to Kabul evacuation"
+    excerpt: "President Joe Biden is raising concerns that the Islamic State poses a threat as American troops seek to evacuate thousands of U.S. citizens and Afghan allies from Afghanistan. Biden in remarks at the White House on Sunday noted that the terror group is a “sworn enemy of the Taliban” and said that the"
+    publishedDateTime: 2021-08-22T21:53:00Z
+    webUrl: "https://chinapost.nownews.com/20210823-2727921"
+    type: article
+    provider:
+      name: NOWnews
+      domain: nownews.com
+    quality: 55
+    images:
+      - url: "https://chinapost-media.nownews.com/2021/08/d4b9569e-preview.jpg"
+        width: 800
+        height: 532
+        isCached: true
 
 secured: "zluHjqj7EGmYs3ROwfu9X5EOLtcR52UZ1PzkRfnq6H3nGPO3CxdCrARbEhEGDbVKTDc6vXUuzh/fPxUwEUJJbwrdsWWFlpuo+dnXkMCKd35jvFgSfGIQbW+fSAD2cqu/Sb25mfuqeu5+S1bSeELfJ6oWJF3jWowFde8B1VQ2nlMK/DOPw0UW2Smeh46lxcgW0renuQWrnPMGvPPcjd+bwgGfnYsCbnwgcOD/l7oheAEhGkhG0+xlNmBAJj8kj5Dh/rq56NG2orDcL/NC2jLLQcfu3aAybkVZUxXx6PGMb9jE3VXyRjhM06vUj/qTSrATEn+0YCskXSrxPyVBE8g6kJK010mfgs8Ge45biXkHzXI0iXFE0mIl8dYUO/ntzy0VocFTmi3VXS8/8HKwt6akdM6oqYG8kiT3upqiRY3kawxP2U6muRcBNkpshnLo/6RK0Z50IPQOZL+lBUR6obwCdTsk7d2to8lRN538BFypmhfbc6Ai9W2ATCFepDnecFTNaIwnoBTafuOxrJk1quIa1g==;UV3QYcfPGZLdse9GiU+EMg=="
 ---

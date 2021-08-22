@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-23-vos-to-keep-trump-updated-on-election-investigation.md",
+      "title": "Vos to keep Trump \"updated\" on election investigation",
+      "excerpt": "Assembly Speaker Robin Vos the said in a statement Saturday he is going to be keeping Trump “updated on our investigation,” the Journal Times reported. In a statement, Vos said: “It was an honor to be invited to travel by private plane with President Trump and top staff to attend his rally in Alabama.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ctpost.com/news/article/Vos-to-keep-Trump-updated-on-election-16404028.php",
+      "originalUrl": "https://www.ctpost.com/news/article/Vos-to-keep-Trump-updated-on-election-16404028.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ctpost.com/news/amp/Vos-to-keep-Trump-updated-on-election-16404028.php",
+      "cdnAmpWebUrl": "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Vos-to-keep-Trump-updated-on-election-16404028.php",
+      "publishedDateTime": "2021-08-22T14:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Connecticut Post",
+        "domain": "ctpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-23-when-ruby-wax-met-review-excruciating-outpourings-from-oj-simpson-donald-trump-and-more.md",
+      "title": "When Ruby Wax Met … review – excruciating outpourings from OJ Simpson, Donald Trump and more",
+      "excerpt": "From a menacing Trump to OJ Simpson trying to stab her with a banana, Wax looks back at her interview hits and misses – and it makes for jaw-dropping, fascinating TV",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/tv-and-radio/2021/aug/22/when-ruby-wax-met-review-donald-trump-oj-simpson",
+      "originalUrl": "https://www.theguardian.com/tv-and-radio/2021/aug/22/when-ruby-wax-met-review-donald-trump-oj-simpson",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/e0adb2adc2e690e3978a53ba6379935b6b24bec0/0_283_4264_2558/master/4264.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=41457bdff99edca6dc9affc11c3661b6",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/tv-and-radio/2021/aug/22/when-ruby-wax-met-review-donald-trump-oj-simpson",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/tv-and-radio/2021/aug/22/when-ruby-wax-met-review-donald-trump-oj-simpson",
+      "publishedDateTime": "2021-08-22T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-22-fact-check-trump-administration-officials-try-to-rewrite-their-own-afghanistan-history.md",
       "title": "Fact check: Trump administration officials try to rewrite their own Afghanistan history ",
       "excerpt": "There's been no shortage of fact-based criticism aimed at the Biden administration's handling of the US withdrawal from Afghanistan.\n    \n",
@@ -313,7 +408,7 @@
       "originalUrl": "https://www.dailyherald.com/news/20210821/more-than-half-of-kinzingers-gop-primary-challengers-believe-trump-won-the-2020-election",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -569,7 +664,7 @@
       "originalUrl": "https://www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for-the-first-time-in-4-years.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 235,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -616,7 +711,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 195,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -768,7 +863,7 @@
       "originalUrl": "https://www.bbc.com/news/world-us-canada-58285923",
       "featuredContent": null,
       "highlight": null,
-      "heat": 585,
+      "heat": 685,
       "tags": null,
       "images": [
         {
@@ -1132,7 +1227,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot",
       "featuredContent": null,
       "highlight": null,
-      "heat": 585,
+      "heat": 665,
       "tags": null,
       "images": [
         {
@@ -1173,118 +1268,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-federal-judge-blocks-biden-admins-ice-rules-that-narrowed-illegal-immigrant-arrest-priorities.md",
-      "title": "Federal judge blocks Biden admin's ICE rules that narrowed illegal immigrant arrest priorities",
-      "excerpt": "A federal judge on Thursday imposed a preliminary injunction on the Biden administration’s rules for ICE officers that narrowed the categories of illegal immigrants targeted for arrest and deportation.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/C3NPTrhLrA0/judge-blocks-biden-ice-rules-narrowed-illegal-immigrant-arrest",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/C3NPTrhLrA0/judge-blocks-biden-ice-rules-narrowed-illegal-immigrant-arrest",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a07002e9-c9e3-4f38-993b-2d984efbab65/0c121321-b8d7-49f4-86c7-9ff1e98965e7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/judge-blocks-biden-ice-rules-narrowed-illegal-immigrant-arrest.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/judge-blocks-biden-ice-rules-narrowed-illegal-immigrant-arrest.amp",
-      "publishedDateTime": "2021-08-19T10:55:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-trump-acting-dni-grenell-taliban-should-hear-very-tough-message-slams-biden-for-ignoring-the-conditions.md",
-      "title": "Trump acting DNI Grenell: Taliban should hear 'very tough message,' slams Biden for 'ignoring the conditions'",
-      "excerpt": "Former acting Director of National Intelligence Ric Grenell slammed President Biden for having \"ignored the conditions\" set by former President Donald Trump in his 2020 agreement with the Taliban.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ozgsh4PwXpo/grenell-taliban-biden-ignored-conditions",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ozgsh4PwXpo/grenell-taliban-biden-ignored-conditions",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/grenell-taliban-biden-ignored-conditions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/grenell-taliban-biden-ignored-conditions.amp",
-      "publishedDateTime": "2021-08-19T09:03:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

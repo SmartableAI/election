@@ -157,6 +157,22 @@ related:
         width: 2997
         height: 1998
         isCached: true
+  - title: "Biden follows through on Trump’s promise about Afghanistan | Letter"
+    excerpt: "He was the father of six-year-old Zoey. I do. Do you remember then-candidate Donald Trump promising to end America’s “endless” wars in Iraq and Afghanistan on April 27, 2016? I do. In December 2019 America was obsessed with President Trump’s ..."
+    publishedDateTime: 2021-08-22T21:23:00Z
+    webUrl: "https://www.nj.com/opinion/2021/08/biden-follows-through-on-trumps-promise-about-afghanistan-letter.html"
+    ampWebUrl: "https://www.nj.com/opinion/2021/08/biden-follows-through-on-trumps-promise-about-afghanistan-letter.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/opinion/2021/08/biden-follows-through-on-trumps-promise-about-afghanistan-letter.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 90
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JAOVWG5GBJB6LNFWLNFMKHASPA.jpg"
+        width: 2997
+        height: 1998
+        isCached: true
   - title: "Trump blasts Afghanistan withdrawal at Alabama rally, Biden’s ‘display of gross incompetence’"
     excerpt: "Former President Donald Trump railed against the Biden administration’s withdrawal from Afghanistan Saturday, calling the still-unfolding exit “the greatest foreign policy humiliation in the history of the United States of America."
     publishedDateTime: 2021-08-22T05:20:00Z
@@ -279,6 +295,38 @@ related:
         width: 500
         height: 293
         isCached: true
+  - title: "Joe Biden accused of 'America last' policy as only 2,500 of 10-15K Americans rescued from Kabul"
+    excerpt: "The outrage comes as US officials revealed that the total number of people evacuated from Afghanistan is 17,000"
+    publishedDateTime: 2021-08-22T15:35:00Z
+    webUrl: "https://meaww.com/only-2500-americans-total-17000-evacuated-15000-left-behind-joe-biden-slammed-america-last-reactions"
+    ampWebUrl: "https://meaww.com/amp/only-2500-americans-total-17000-evacuated-15000-left-behind-joe-biden-slammed-america-last-reactions"
+    cdnAmpWebUrl: "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/only-2500-americans-total-17000-evacuated-15000-left-behind-joe-biden-slammed-america-last-reactions"
+    type: article
+    provider:
+      name: Meaww
+      domain: meaww.com
+    quality: 63
+    images:
+      - url: "https://cheesecake.articleassets.meaww.com/546025/uploads/7c60b240-0358-11ec-8dc4-2b8806b2c58a_800_420.jpeg"
+        width: 800
+        height: 420
+        isCached: true
+  - title: "Joe Biden AGAIN defends catastrophic Afghanistan situation by calling troop withdrawal ‘the right decision’"
+    excerpt: "JOE Biden has once again insisted that pulling US troops out of Afghanistan was “the right decision” as he defended his handling of the crisis. The President has suffered a huge wave"
+    publishedDateTime: 2021-08-22T20:57:00Z
+    webUrl: "https://www.the-sun.com/news/3521574/joe-biden-afghanistan-situation-right-decision/"
+    ampWebUrl: "https://www.the-sun.com/news/3521574/joe-biden-afghanistan-situation-right-decision/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3521574/joe-biden-afghanistan-situation-right-decision/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 57
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/TT_JoeBidenComp.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Afghanistan: Joe Biden said chaos was 'inevitable'"
     excerpt: "In an exclusive interview with ABC News' George Stephanopoulos, Joe Biden said nobody could have anticipated the speed of the Taliban's takeover. The US president has been criticised for his handling of the withdrawal."
     publishedDateTime: 2021-08-19T00:44:00Z
@@ -325,6 +373,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Dan Bongino demands Joe Biden’s resignation after ‘colossal failure’ in Afghanistan as president’s approval rating drops"
+    excerpt: "DAN Bongino has insisted Joe Biden must “resign immediately” as the President’s approval ratings slump in the midst of a tirade of backlash over his handling of the Afghanistan"
+    publishedDateTime: 2021-08-22T17:17:00Z
+    webUrl: "https://www.the-sun.com/news/3520512/dan-bongino-demands-joe-bidens-resignation/"
+    ampWebUrl: "https://www.the-sun.com/news/3520512/dan-bongino-demands-joe-bidens-resignation/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3520512/dan-bongino-demands-joe-bidens-resignation/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 50
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/D-_Users_CHooper1_Desktop_PSD-COMPS_COMP-CH-TWIN-BONGINO.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "‘Everything woke turns to sh*t’: Trump rails on Biden, generals at massive rally for ‘total surrender’ in Afghanistan"
     excerpt: "\"I warned the entire country of the disastrous consequences of a Biden presidency. I understood; a lot of you understood it,\" Trump said."
     publishedDateTime: 2021-08-22T12:05:00Z
@@ -362,6 +426,20 @@ related:
       name: TigerNet
       domain: tigernet.com
     quality: 35
+  - title: "Afghanistan: Joe Biden 'convinced' he is right on US military pullout - and says evacuations 'would have been hard no matter when we started'"
+    excerpt: "Joe Biden has defended the US military pullout in Afghanistan, saying that the mass evacuation of refugees would have been hard and painful no matter when we started."
+    publishedDateTime: 2021-08-22T20:49:00Z
+    webUrl: "https://www.originalfm.com/news/headlines/afghanistan-joe-biden-convinced-he-is-right-on-us-military-pullout-and-says-evacuations-would-have-been-hard-no-matter-when-we-started/"
+    type: article
+    provider:
+      name: Original 106
+      domain: originalfm.com
+    quality: 20
+    images:
+      - url: "https://e3.365dm.com/21/08/640x380/skynews-biden-afghanistan_5487314.jpg?20210822215441"
+        width: 640
+        height: 380
+        isCached: true
 
 secured: "1fxom8rjklsJqoeV87AZs2uHs8jS4XDHO1A/kJJONsLYUDrXkbj6tZFg81J6r1vblXrzXx3bLTgWA+lLd1WlroK7AIGZsW9A57puuMvgcItZdL9bloYYq2CZir8tgvQ5M/6+u/EVr5hmDdZKyYXEswXRtkYFzodFFAodVzPNy3XYmM9H49BAbfVd/iIuF9xcFM4cKRrYTiCV5crd294TuUsvp2QIWmRZDFAG9nWpjb0UWRgk7vS2Pvs1aI1tvKoSonhD2OVEgDtvao8hDkp1G8yAa4NfLcDxD9Vp7Ptm1t9OIQOalhMnVokaoWoXfqIXRKWExKkXE7OnGyoxsQMlYHi0z1v7dnXJGcCI5PO7kL0=;fbAId9C8i2yK+uRsAxRhHA=="
 ---

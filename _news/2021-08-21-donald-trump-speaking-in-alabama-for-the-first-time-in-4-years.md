@@ -9,7 +9,7 @@ ampWebUrl: "https://www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for
 cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for-the-first-time-in-4-years.html?outputType=amp"
 type: article
 quality: 75
-heat: 235
+heat: 215
 published: true
 
 provider:
@@ -122,20 +122,6 @@ related:
       - url: "http://media.heartlandtv.com/images/One+of+the+Front+Row+Joe's+for+the+Cullman+Trump+Rally.jpg"
         width: 640
         height: 360
-        isCached: true
-  - title: "Donald Trump Got Booed In Alabama For Saying Good Things About Vaccines"
-    excerpt: "Trump told the crowd he was vaccinated and encouraged them to do the same, drawing boos at his own rally as a result."
-    publishedDateTime: 2021-08-22T17:37:00Z
-    webUrl: "https://uproxx.com/viral/donald-trump-booed-alabama-video-vaccines/"
-    type: article
-    provider:
-      name: Uproxx
-      domain: uproxx.com
-    quality: 55
-    images:
-      - url: "https://uproxx.com/wp-content/uploads/2021/08/trumpvaccine710.jpg?w=710"
-        width: 710
-        height: 391
         isCached: true
   - title: "Mark Z. Barabak: Debunking Trump's 'Big Lie,' scholars and statistics show the facts don't add up"
     excerpt: "In a recent survey of presidential scholars, President Donald Trump finished a dismal third from the bottom, just ahead of perennial duds James Buchanan and Andrew Johnson."

@@ -158,6 +158,20 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "The Latest: Biden warns of IS threat to Kabul evacuation"
+    excerpt: "President Joe Biden is raising concerns that the Islamic State poses a threat as American troops seek to evacuate thousands of U.S. citizens and Afghan allies from Afghanistan. Biden in remarks at the White House on Sunday noted that the terror group is a “sworn enemy of the Taliban” and said that the"
+    publishedDateTime: 2021-08-22T21:53:00Z
+    webUrl: "https://chinapost.nownews.com/20210823-2727921"
+    type: article
+    provider:
+      name: NOWnews
+      domain: nownews.com
+    quality: 55
+    images:
+      - url: "https://chinapost-media.nownews.com/2021/08/d4b9569e-preview.jpg"
+        width: 800
+        height: 532
+        isCached: true
 
 secured: "3AOZAa8/RaMIKWcI2m5iUtYH/WrnG9mvgRHr3ZjLm5A+snizhVvb7s3wOkSRz5EfqgsduHl4/EMOwcJrHoPDdAeD2CcSyiW6dwk0zCzYIz0aRNayedxR508oyVR8nBYMThXvfcuSQrzaJFVllY2yvWbJg/HmHK4rCIg89zQKM7Huv86dT2SyD5Ha1ZLktzhGporpLqYPJN8c+Jpx/ipOwuA8UyxPVkiM8WKYUfbQfmsH9MqLb/lOgxd09VFgutoVLaYb9fa2pr3GHrjZNvzfKbGiSrogoFY6dw1bdADXzndi3/mA6iN/XWrsKkeqGm2TZknbsTSGqCummZmzwNOZnKj1OfWd1js1WHVBZGTotlLaCqT0OrelavNpYs50GRUVCVzMok7xMjrU45gXgQyNjEI4NX2R85+NIvo44igxTza92J1Va8G1/JyUNGmvOFfZjNf7m2d+IiUD+w5hAAmN2tXXXnP0KAzInFNbS7na2sYFH8andVtjPTKeYo6PvWUomkSQ1mxxhC/YHuqAEcxUGg==;mBqvdz9xMj2hoXcON6YtPA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/21/politics/what-matters-august-20/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/21/politics/what-matters-august-20/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210820170240-mo-brooks-0615-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump booed after encouraging Covid-19 vaccines at Alabama rally"
+    excerpt: "Former President Donald Trump appears to get booed by the crowd at an Alabama rally after encouraging attendees to get vaccinated against Covid-19.\n    \n"
+    publishedDateTime: 2021-08-22T13:20:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/llnGW7q5AE0/trump-alabama-rally-vaccine-crowd-boos-sot-ip-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/08/22/trump-alabama-rally-vaccine-crowd-boos-sot-ip-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/08/22/trump-alabama-rally-vaccine-crowd-boos-sot-ip-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210822084256-trump-alabama-rally-vaccine-crowd-boos-sot-ip-vpx-00000000-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

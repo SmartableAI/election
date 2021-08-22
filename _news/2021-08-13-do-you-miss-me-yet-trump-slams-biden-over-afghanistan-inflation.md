@@ -1212,6 +1212,17 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 64
+  - title: "ISIS threat in Afghanistan is ‘real’ and ‘persistent,’ Biden national security adviser says"
+    excerpt: "President Joe Biden’s national security adviser warned that the Islamic State is a threat to the United States as the military continues to evacuate Americans and Afghan allies from Taliban-controlled Afghanistan."
+    publishedDateTime: 2021-08-22T21:52:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/isis-afghanistan-taliban-united-states-sullivan-biden"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/isis-afghanistan-taliban-united-states-sullivan-biden?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/isis-afghanistan-taliban-united-states-sullivan-biden?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 55
   - title: "Biden Making a Major Mistake on Afghanistan"
     excerpt: "David A. Andelman writes that President Joe Biden should not be setting a date for withdrawal of US troops from Afghanistan since the reason the US first entered the country -- to address a major terrorist threat -- has not been fully addressed."
     publishedDateTime: 2021-04-14T11:37:00Z

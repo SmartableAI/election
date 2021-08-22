@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-eu-hails-gaza-cea
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-eu-hails-gaza-cease-fire-calls-for-peace-talks/2021/05/21/12fb6d5c-ba17-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -163,6 +163,20 @@ related:
       name: Kansas City Star
       domain: kansascity.com
     quality: 55
+  - title: "The Latest: Biden warns of IS threat to Kabul evacuation"
+    excerpt: "President Joe Biden is raising concerns that the Islamic State poses a threat as American troops seek to evacuate thousands of U.S. citizens and Afghan allies from Afghanistan. Biden in remarks at the White House on Sunday noted that the terror group is a “sworn enemy of the Taliban” and said that the"
+    publishedDateTime: 2021-08-22T21:53:00Z
+    webUrl: "https://chinapost.nownews.com/20210823-2727921"
+    type: article
+    provider:
+      name: NOWnews
+      domain: nownews.com
+    quality: 55
+    images:
+      - url: "https://chinapost-media.nownews.com/2021/08/d4b9569e-preview.jpg"
+        width: 800
+        height: 532
+        isCached: true
 
 secured: "7KEPMHl5afjk+lzkhyHseK9XUOn+cdNZfYcUeuckWwrYkq101kTu785qqLYHKWqpTvtz7q1TYa/Fj2aq7ePjwQx5S6wyi1pUzCNxnhQ8/KoqkWGl6uxOJBuGC94VkyHxdAJCgcFukBlb0rJPzX3eJd/ikcYc34vAoxX3PZL1H2wVRIFnkQs95ZqETb2k+dt7kW11FC/vLW4yObnDfhDx5mjAUSlRqQ8dPqoSEuChyTPZncRmG0rrkm34C6tH5s2L5rm4XQqcCauYjyt2b4+qZ3nAvFlqq1A07P+xn9TvyAcem/76l+EaJcJaWtJE4p+3RPMnHUwZo6veoivoE7WxaX5fyWgbY3Mr+5M8+IrcyTbiy5W6ktIOZZWn5zRsSI/qOkSBaJycjA8r8urWIx0zR+L9+CKWPL2t1tPcDa/ts07z9eoIrlJvodOZj3bnTZ3HCQxbvJl0LWqQR+rKwOEM0c5xoH41HYUelpTzz0iXJYrmnZW/QZk0PMum1T4GMeSvgBYFemGAy5QmXOO7DtFYTw==;Nh0ZEZsZ0WPD8zp1nTEldQ=="
 ---

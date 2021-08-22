@@ -92,6 +92,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden, who promised empathy in 2020, blasted for abandoning Americans overseas"
+    excerpt: "Joe Biden campaigned on empathy but K.T. McFarland blasted him for his \"meanness\" in callously leaving Americans and Afghanis to the mercy of the Taliban."
+    publishedDateTime: 2021-08-22T21:30:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/paHz0UE9xOU/biden-who-promised-empathy-in-2020-blasted-for-abandoning-americans-overseas"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-who-promised-empathy-in-2020-blasted-for-abandoning-americans-overseas.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-who-promised-empathy-in-2020-blasted-for-abandoning-americans-overseas.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/079e65f6-7214-4da9-80cb-d772317f3c36/c92a4d04-5eda-4df1-8698-ddb716946c7d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden sidesteps question on justification for letting unvaccinated migrants into US"
     excerpt: "President Biden did not directly address a question from Fox News’ Peter Doocy Tuesday asking why his administration is continuing to allow untested and unvaccinated illegal immigrants into the country while at the same time urging and in some cases mandating that Americans take the coronavirus vaccine."
     publishedDateTime: 2021-08-03T22:06:40Z

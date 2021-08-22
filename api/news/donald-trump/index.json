@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-23-vos-to-keep-trump-updated-on-election-investigation.md",
+      "title": "Vos to keep Trump \"updated\" on election investigation",
+      "excerpt": "Assembly Speaker Robin Vos the said in a statement Saturday he is going to be keeping Trump “updated on our investigation,” the Journal Times reported. In a statement, Vos said: “It was an honor to be invited to travel by private plane with President Trump and top staff to attend his rally in Alabama.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ctpost.com/news/article/Vos-to-keep-Trump-updated-on-election-16404028.php",
+      "originalUrl": "https://www.ctpost.com/news/article/Vos-to-keep-Trump-updated-on-election-16404028.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ctpost.com/news/amp/Vos-to-keep-Trump-updated-on-election-16404028.php",
+      "cdnAmpWebUrl": "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Vos-to-keep-Trump-updated-on-election-16404028.php",
+      "publishedDateTime": "2021-08-22T14:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Connecticut Post",
+        "domain": "ctpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-23-when-ruby-wax-met-review-excruciating-outpourings-from-oj-simpson-donald-trump-and-more.md",
+      "title": "When Ruby Wax Met … review – excruciating outpourings from OJ Simpson, Donald Trump and more",
+      "excerpt": "From a menacing Trump to OJ Simpson trying to stab her with a banana, Wax looks back at her interview hits and misses – and it makes for jaw-dropping, fascinating TV",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/tv-and-radio/2021/aug/22/when-ruby-wax-met-review-donald-trump-oj-simpson",
+      "originalUrl": "https://www.theguardian.com/tv-and-radio/2021/aug/22/when-ruby-wax-met-review-donald-trump-oj-simpson",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/e0adb2adc2e690e3978a53ba6379935b6b24bec0/0_283_4264_2558/master/4264.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=41457bdff99edca6dc9affc11c3661b6",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/tv-and-radio/2021/aug/22/when-ruby-wax-met-review-donald-trump-oj-simpson",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/tv-and-radio/2021/aug/22/when-ruby-wax-met-review-donald-trump-oj-simpson",
+      "publishedDateTime": "2021-08-22T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-22-barron-trump-enrolls-in-35000-a-year-private-school-in-florida.md",
       "title": "Barron Trump Enrolls In $35,000-A-Year Private School In Florida",
       "excerpt": "Barron Trump has enrolled in an exclusive private school in Palm Beach, Florida, for the new school year. A spokesperson for Oxbridge Academy announced earlier this week that Melania and Donald Trump's 15-year-old son has enrolled in the elite school as part of the class of 2024,",
@@ -209,7 +304,7 @@
       "originalUrl": "https://www.dailyherald.com/news/20210821/more-than-half-of-kinzingers-gop-primary-challengers-believe-trump-won-the-2020-election",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -310,7 +405,7 @@
       "originalUrl": "https://www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for-the-first-time-in-4-years.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 235,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -1351,101 +1446,6 @@
         "name": "Joplin Globe",
         "domain": "joplinglobe.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-van-orden-receives-trump-endorsement-for-wisconsin-race.md",
-      "title": "Van Orden receives Trump endorsement for Wisconsin race",
-      "excerpt": "MADISON, Wis. (AP) — Former President Donald Trump on Thursday gave his “Complete and Total Endorsement!” to the Republican seeking to flip a southwestern Wisconsin congressional district held by Democratic Rep. Ron Kind since 1997. Derrick Van Orden ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mrt.com/news/article/Van-Orden-receives-Trump-endorsement-for-16382562.php",
-      "originalUrl": "https://www.mrt.com/news/article/Van-Orden-receives-Trump-endorsement-for-16382562.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mrt.com/news/amp/Van-Orden-receives-Trump-endorsement-for-16382562.php",
-      "cdnAmpWebUrl": "https://www-mrt-com.cdn.ampproject.org/c/s/www.mrt.com/news/amp/Van-Orden-receives-Trump-endorsement-for-16382562.php",
-      "publishedDateTime": "2021-08-12T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Midland Reporter-Telegram",
-        "domain": "mrt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-what-rosen-told-us-senators-trump-applied-persistent-pressure-to-get-justice-to-discredit-election.md",
-      "title": "What Rosen told U.S. senators: Trump applied ‘persistent’ pressure to get Justice to discredit election",
-      "excerpt": "Trump’s last attorney general told lawmakers he had to “persuade the president not to pursue a different path.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/national-security/rosen-senate-judiciary-testimony-trump/2021/08/12/4b500618-fabd-11eb-8a67-f14cd1d28e47_story.html",
-      "originalUrl": "https://www.washingtonpost.com/national-security/rosen-senate-judiciary-testimony-trump/2021/08/12/4b500618-fabd-11eb-8a67-f14cd1d28e47_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EOFJRDH3DQI6XCTH6FGNDUUOI4.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

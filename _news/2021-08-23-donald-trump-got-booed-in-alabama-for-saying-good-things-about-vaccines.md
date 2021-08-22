@@ -25,132 +25,59 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump speaking in Alabama for the first time in 4 years"
-    excerpt: "Trump will speak tonight in Cullman, his first political event in Alabama since 2017. (AP Photo/Ross D. Franklin, File) AP Six years to the day after a rally in Mobile gave an early glimpse of Donald Trump’s ability to generate the excitement that would propel him to the White House,"
-    publishedDateTime: 2021-08-21T14:02:00Z
-    webUrl: "https://www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for-the-first-time-in-4-years.html"
-    ampWebUrl: "https://www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for-the-first-time-in-4-years.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for-the-first-time-in-4-years.html?outputType=amp"
+  - title: "Vos to keep Trump \"updated\" on election investigation"
+    excerpt: "Assembly Speaker Robin Vos the said in a statement Saturday he is going to be keeping Trump “updated on our investigation,” the Journal Times reported. In a statement, Vos said: “It was an honor to be invited to travel by private plane with President Trump and top staff to attend his rally in Alabama."
+    publishedDateTime: 2021-08-22T21:39:00Z
+    webUrl: "https://www.ctpost.com/news/article/Vos-to-keep-Trump-updated-on-election-16404028.php"
+    ampWebUrl: "https://www.ctpost.com/news/amp/Vos-to-keep-Trump-updated-on-election-16404028.php"
+    cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Vos-to-keep-Trump-updated-on-election-16404028.php"
     type: article
     provider:
-      name: al.com
-      domain: al.com
-    quality: 75
+      name: Connecticut Post
+      domain: ctpost.com
+    quality: 90
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NFUPH4M6QRDLLKJBN7DOE4AXCM.jpg"
-        width: 1024
-        height: 683
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
-  - title: "Former president coming to ‘heart of Trump country’ on return to Alabama"
-    excerpt: "John Wahl said he started working to bring former President Donald Trump back to Alabama right after the state Republican Party picked him as chairman in February. Earlier efforts fell through, including a planned rally July 3 at the U."
-    publishedDateTime: 2021-08-17T00:53:00Z
-    webUrl: "https://www.al.com/news/2021/08/former-president-coming-to-heart-of-trump-country-on-return-to-alabama.html"
-    ampWebUrl: "https://www.al.com/news/2021/08/former-president-coming-to-heart-of-trump-country-on-return-to-alabama.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/08/former-president-coming-to-heart-of-trump-country-on-return-to-alabama.html?outputType=amp"
+  - title: "Vos meets with Trump, vows to keep ex-president 'updated' on election investigation"
+    excerpt: "Assembly Speaker Robin Vos said he is going to keep the former president — who has not stopped claiming he won the 2020 election — \"updated on our investigation.\""
+    publishedDateTime: 2021-08-22T17:53:00Z
+    webUrl: "https://madison.com/news/state-and-regional/vos-meets-with-trump-vows-to-keep-ex-president-updated-on-election-investigation/article_55a5e748-aa3e-5c85-bbe6-e59bebcbed21.html"
     type: article
     provider:
-      name: al.com
-      domain: al.com
-    quality: 74
+      name: Madison.com
+      domain: madison.com
+    quality: 64
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CG36TSTRSZB4ZN7NW5OAVVCW7A.jpg"
-        width: 819
-        height: 461
-        isCached: true
-  - title: "Gov. Ivey posts photos of her welcoming former President Trump to Alabama"
-    excerpt: "Alabama Governor Kay Ivey posted pictures on her twitter account showing her welcome former President Donald Trump to Alabama before his rally in Cullman. In the post,"
-    publishedDateTime: 2021-08-22T19:45:00Z
-    webUrl: "https://www.cbs42.com/news/local/gov-ivey-posts-photos-of-her-welcoming-former-president-trump-to-alabama/"
-    ampWebUrl: "https://www.cbs42.com/news/local/gov-ivey-posts-photos-of-her-welcoming-former-president-trump-to-alabama/amp/"
-    cdnAmpWebUrl: "https://www-cbs42-com.cdn.ampproject.org/c/s/www.cbs42.com/news/local/gov-ivey-posts-photos-of-her-welcoming-former-president-trump-to-alabama/amp/"
-    type: article
-    provider:
-      name: CBS 42
-      domain: cbs42.com
-    quality: 74
-    images:
-      - url: "https://www.cbs42.com/wp-content/uploads/sites/81/2021/08/Ivey-greets-Trump.jpg?w=1280"
-        width: 1280
-        height: 712
-        isCached: true
-  - title: "Mo Brooks, Tommy Tuberville to speak at Donald Trump’s Alabama rally in Cullman"
-    excerpt: "The former president will hold a rally at York Family Farms six years to the day after his first big campaign rally in Mobile."
-    publishedDateTime: 2021-08-21T01:41:00Z
-    webUrl: "https://www.al.com/news/2021/08/mo-brooks-tommy-tuberville-to-speak-at-donald-trumps-alabama-rally-in-cullman.html"
-    ampWebUrl: "https://www.al.com/news/2021/08/mo-brooks-tommy-tuberville-to-speak-at-donald-trumps-alabama-rally-in-cullman.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/08/mo-brooks-tommy-tuberville-to-speak-at-donald-trumps-alabama-rally-in-cullman.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 71
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CG36TSTRSZB4ZN7NW5OAVVCW7A.jpg"
-        width: 819
-        height: 461
-        isCached: true
-  - title: "Donald Trump Jr. at Alabama fishing expo hears his name floated for 2024 GOP ticket"
-    excerpt: "Donald Trump Jr. thanked Alabama Saturday for the 2015 Mobile rally that gave his father’s presidential campaign a critical push, and he heard his own name floated for a place on the 2024 GOP ticket."
-    publishedDateTime: 2021-07-11T00:25:00Z
-    webUrl: "https://www.al.com/news/2021/07/donald-trump-jr-at-alabama-fishing-expo-hears-his-name-floated-for-2024-gop-ticket.html"
-    ampWebUrl: "https://www.al.com/news/2021/07/donald-trump-jr-at-alabama-fishing-expo-hears-his-name-floated-for-2024-gop-ticket.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/07/donald-trump-jr-at-alabama-fishing-expo-hears-his-name-floated-for-2024-gop-ticket.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 69
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XIIL2FMESJHFFP7DV5M4WSIVNU.JPG"
-        width: 6000
-        height: 4000
-        isCached: true
-  - title: "Cullman preparing as former President Donald Trump returns to Alabama for first time since 2017"
-    excerpt: "Saturday is going to be the first time former President Donald Trump is back in Alabama since 2017. There's a Trump Rally going on this weekend in Cullman and it's expected to bring out thousands of people."
-    publishedDateTime: 2021-08-19T00:53:00Z
-    webUrl: "https://www.waaytv.com/content/national/Former-President-Donald-Trump-returns-to-Alabama-for-the-first-time-since-2017-575126071.html"
-    ampWebUrl: "http://www.waaytv.com/templates/AMP?contentID=575126071"
-    cdnAmpWebUrl: "https://www-waaytv-com.cdn.ampproject.org/c/www.waaytv.com/templates/AMP?contentID=575126071"
-    type: article
-    provider:
-      name: WAAY-TV
-      domain: waaytv.com
-    quality: 63
-    images:
-      - url: "http://media.heartlandtv.com/images/One+of+the+Front+Row+Joe's+for+the+Cullman+Trump+Rally.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Cullman preparing as former President Donald Trump returns to Alabama for first time since 2017"
-    excerpt: "Saturday is going to be the first time former President Donald Trump is back in Alabama since 2017. There's a Trump Rally going on this weekend in Cullman and it's expected to bring out thousands of people."
-    publishedDateTime: 2021-08-20T23:38:00Z
-    webUrl: "https://www.waaytv.com/content/news/Former-President-Donald-Trump-returns-to-Alabama-for-the-first-time-since-2017-575126071.html"
-    ampWebUrl: "http://www.waaytv.com/templates/AMP?contentID=575126071"
-    cdnAmpWebUrl: "https://www-waaytv-com.cdn.ampproject.org/c/www.waaytv.com/templates/AMP?contentID=575126071"
-    type: article
-    provider:
-      name: WAAY-TV
-      domain: waaytv.com
-    quality: 63
-    images:
-      - url: "http://media.heartlandtv.com/images/One+of+the+Front+Row+Joe's+for+the+Cullman+Trump+Rally.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Mark Z. Barabak: Debunking Trump's 'Big Lie,' scholars and statistics show the facts don't add up"
-    excerpt: "In a recent survey of presidential scholars, President Donald Trump finished a dismal third from the bottom, just ahead of perennial duds James Buchanan and Andrew Johnson."
-    publishedDateTime: 2021-08-17T20:49:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/mark-z-barabak-debunking-trumps-big-lie-scholars-and-statistics-show-the-facts-dont-add/article_83f37a8a-dd79-5cd1-8f33-4c08686e9b41.html"
-    type: article
-    provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
-    quality: 42
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
-        width: 1200
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/5/5a/55a5e748-aa3e-5c85-bbe6-e59bebcbed21/61228f9939e4f.preview.jpg?crop=1904%2C1071%2C0%2C8&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
         height: 630
         isCached: true
+  - title: "Emmy Predictions: Directing for a Variety Series – John Oliver’s Take on Donald Trump and the Election Lead the Pack"
+    excerpt: "Following history, buzz, news, reviews and sources, the Emmy predictions are updated regularly with the current year's list of contenders in all categories. Variety's Awards Circuit Prediction schedule consists of four phases,"
+    publishedDateTime: 2021-08-19T22:16:00Z
+    webUrl: "https://www.imdb.com/news/ni63396099"
+    type: article
+    provider:
+      name: IMDb
+      domain: imdb.com
+    quality: 47
+    images:
+      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
+        width: 1000
+        height: 1000
+        isCached: true
+  - title: "Trump booed by some of his supporters after encouraging COVID vaccine at rally"
+    excerpt: "Former President Donald Trump is fully vaccinated against the novel coronavirus and encouraged his supporters to get inoculated too during a Saturday evening rally in Cullman, Ala. Cullman is the county seat of Cullman County,"
+    publishedDateTime: 2021-08-22T21:44:00Z
+    webUrl: "https://www.chron.com/national-politics/article/Trump-vaccine-supporters-rally-Alabama-COVID-boo-16403935.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 31
 
 secured: "Nm50lLKkV+3wUyfqGFdaSSew3D44PmUQP0QSruDCCYC+J/DsD3IO2IASf46oX1RfJc81nT2zibVuC00eLIp8RknsFhYPqKo51LG1xY1nhHSsk70RN+/+cJVb+Yz80zIghRkufsf2s5a4z57U5SmlGqFiJ9PXL7aR9Tep+sNfDYWR90MkoHVh7zEhu+vrSx44Yog079trfbF2coqT4pPpjUPPO58bUoXj2WJxeqVY67hMKk4sbQfZkzh0IR73+k77AXJbqb47pHsNY/dYx73A0IfzQFu7eutS1Hxa3hSGdq2gRd9qSHIM5xFJdP7gJ9qr9BF+ZqN7XuoONrXpZs45awVlmLQz4BaRCxPQRSclmNg=;Mz6UfK4ii6Y1nDuid+02+w=="
 ---

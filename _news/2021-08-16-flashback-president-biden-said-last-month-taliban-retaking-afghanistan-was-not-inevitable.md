@@ -122,6 +122,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden urges Taliban to provide for 'well being' of Afghans"
+    excerpt: "President Biden promised that the U.S. would welcome allies from Afghanistan who helped American troops against the Taliban, once they have been \"screened and cleared.\""
+    publishedDateTime: 2021-08-22T20:39:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/L4E3R02o4Do/biden-u-s-will-welcome-afghan-allies-once-screened-and-cleared"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-u-s-will-welcome-afghan-allies-once-screened-and-cleared.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-u-s-will-welcome-afghan-allies-once-screened-and-cleared.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/04da4150-23cf-48c3-aa1f-d0b51cc9591e/80ef0d20-aa7f-4c0e-b858-6355f493661c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "White House walks back Biden's failed predictions about Afghanistan withdrawal"
     excerpt: "According to the White House’s list of talking points for allies defending President Biden’s handling of Afghanistan, the administration knew there was a \"distinct\" possibility that the capital of Kabul would fall to Taliban insurgents."
     publishedDateTime: 2021-08-16T19:16:31Z

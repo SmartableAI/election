@@ -1220,6 +1220,17 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 64
+  - title: "ISIS threat in Afghanistan is ‘real’ and ‘persistent,’ Biden national security adviser says"
+    excerpt: "President Joe Biden’s national security adviser warned that the Islamic State is a threat to the United States as the military continues to evacuate Americans and Afghan allies from Taliban-controlled Afghanistan."
+    publishedDateTime: 2021-08-22T21:52:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/isis-afghanistan-taliban-united-states-sullivan-biden"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/isis-afghanistan-taliban-united-states-sullivan-biden?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/isis-afghanistan-taliban-united-states-sullivan-biden?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 55
 
 secured: "f3bLgmbObKJ9c/3WjnXamNGXWDy2zoCbZZHaf06t1xN0jHq6DhGzhDTr6+qsVz98IPagzmoKuJ45nD1BgbycyNUmrJj9UvLIS3AnBSZHWmCrclmFxobeGmkTnbxj6CWp59CbGZYEGOi/a+Z7Tc8M7fnRC07Llk9tr2im26WV7nmVb9ARYy1mHU8Q4gcimKih952Swo/Y0JeZj0W61cL+GtTvXaMADltrvgiB+1XpTbsmOPAnVrN7jUpYSMaKVMRP2g0cAGA6EhROHMdsEgB8ZVfcZb35BNBuXCCZ/4wMhesj9pQZyb6EpA9i+bCFu20ROntmkVqeBRujjSnvb60KIZtYEaFVYJQEidbicEPkGxo=;lOSvJJx62gMkzybCc/EooA=="
 ---

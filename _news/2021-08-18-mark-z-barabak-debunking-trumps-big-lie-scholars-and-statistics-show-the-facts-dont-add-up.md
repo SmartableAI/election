@@ -137,20 +137,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Donald Trump Got Booed In Alabama For Saying Good Things About Vaccines"
-    excerpt: "Trump told the crowd he was vaccinated and encouraged them to do the same, drawing boos at his own rally as a result."
-    publishedDateTime: 2021-08-22T17:37:00Z
-    webUrl: "https://uproxx.com/viral/donald-trump-booed-alabama-video-vaccines/"
-    type: article
-    provider:
-      name: Uproxx
-      domain: uproxx.com
-    quality: 55
-    images:
-      - url: "https://uproxx.com/wp-content/uploads/2021/08/trumpvaccine710.jpg?w=710"
-        width: 710
-        height: 391
-        isCached: true
 
 secured: "sQb7aVFvUAVslI1VO1n5ASQvOtjwQQPVANU81FEI8TGc4JU+/m8bJikDARpmkvj7eDA3Bf05DGnUAh8HEp8Jsolf/EERAVo+/+b1LXa/QNbg5Wux91CABTBh4bGZu1osUcy82tCHz3n06+L/rQ6KlQAiaF0zuX1R7CdfzqPTeuOfCUETLj4v3NOoMH+vATFFyNg8dzB2pMFL/YIqo5+qwJrnjJa/UTZLYUF6Y6+xWcCDWor4SbF4ayKuItK0+0FXXMIQFq1oio/Qh+1q0FFrBd5RCtwvNvDk8GcxHp6RhizHcS95V4kEV5SP//gRNiZXC23l4Xgt+2Yc5wDa2hF/9bXyVeX5lirQLvEIYhqE9/g=;AiNdp6MKO/uEzVnnXeVGwA=="
 ---

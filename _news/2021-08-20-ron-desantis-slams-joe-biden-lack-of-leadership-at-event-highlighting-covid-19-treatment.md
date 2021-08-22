@@ -167,6 +167,22 @@ related:
         width: 1024
         height: 1545
         isCached: true
+  - title: "President Joe Biden says US-led evacuation from Kabul is accelerating"
+    excerpt: "President Joe Biden said Sunday the U.S.-led evacuation of Americans, at-risk Afghans and others from the Kabul airport accelerated this weekend, although it remains vulnerable to threats posed by the Islamic State extremist group."
+    publishedDateTime: 2021-08-22T19:00:00Z
+    webUrl: "https://ktar.com/story/4648004/president-joe-biden-says-us-led-evacuation-from-kabul-is-accelerating/"
+    ampWebUrl: "https://ktar.com/story/4648004/president-joe-biden-says-us-led-evacuation-from-kabul-is-accelerating/amp/"
+    cdnAmpWebUrl: "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/4648004/president-joe-biden-says-us-led-evacuation-from-kabul-is-accelerating/amp/"
+    type: article
+    provider:
+      name: KTAR News
+      domain: ktar.com
+    quality: 75
+    images:
+      - url: "https://ktar.com/wp-content/uploads/2021/08/ap_3c821833bc884628b4e55234f25086fb.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Joe Biden goes on HOLIDAY again! POTUS has worked for only 4 days during Afghan fiasco"
     excerpt: "Biden has worked only four days out of the last 15, ever since the Taliban captured their first regional capital"
     publishedDateTime: 2021-08-21T10:05:00Z
@@ -319,6 +335,45 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/thedailyreview.com/content/tncms/custom/image/8ae8c126-2b81-11e7-8ccf-fba9d1099000.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden says US-led evacuation from Kabul is accelerating"
+    excerpt: "President Joe Biden says the U.S.-led evacuation of Americans, at-risk Afghans and others from the Kabul airport has picked up speed this weekend."
+    publishedDateTime: 2021-08-22T21:56:00Z
+    webUrl: "https://www.sunherald.com/news/politics-government/national-politics/article253669753.html"
+    ampWebUrl: "https://amp.sunherald.com/news/politics-government/national-politics/article253669753.html"
+    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/politics-government/national-politics/article253669753.html"
+    type: article
+    provider:
+      name: Biloxi Sun Herald
+      domain: sunherald.com
+    quality: 55
+  - title: "Kabul Evacuation Numbers to Fluctuate, Biden Says"
+    excerpt: "The number of people evacuated from Kabul will change from day to day, President Joe Biden said in a televised address Sunday, depending on specific conditions and safety of the day. Earlier Sunday, the White House said the U."
+    publishedDateTime: 2021-08-22T21:34:00Z
+    webUrl: "https://www.voanews.com/usa/kabul-evacuation-numbers-fluctuate-biden-says"
+    type: article
+    provider:
+      name: Voice of America
+      domain: voanews.com
+    quality: 55
+    images:
+      - url: "https://im-media.voltron.voanews.com/Drupal/01live-166/2021-08/ap21234754238478.jpg"
+        width: 5000
+        height: 3333
+        isCached: true
+  - title: "US Maintaining Constant Vigilance to Disrupt Threats, Including ISIS, Says Joe Biden | Key Points"
+    excerpt: "US President Joe Biden will shortly begin his address updating Americans on the development in evacuation operations in Afghanistan. Stay tuned to this page for LIVE updates."
+    publishedDateTime: 2021-08-22T21:48:00Z
+    webUrl: "https://www.headlinestoday.in/news/us-maintaining-constant-vigilance-to-disrupt-threats-including-isis-says-joe-biden-key-points-335134585.html"
+    type: article
+    provider:
+      name: headlinestoday.in
+      domain: headlinestoday.in
+    quality: 42
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/sites/headlinestoday/resources/images/headlinestoday_fb.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Biden's view of job comes into focus after Afghan collapse"
     excerpt: "But authority over America's longest war finally fell into Biden's hands this year and he insisted that the U.S. withdraw from Afghanistan, settling on an Aug. 31 deadline. And despite the rapid collapse of the Afghan government,"
