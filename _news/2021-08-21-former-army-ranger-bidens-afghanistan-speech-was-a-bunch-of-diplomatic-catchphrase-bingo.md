@@ -207,6 +207,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Blinken admits al Qaeda not 'gone' from Afghanistan despite Biden's claim"
+    excerpt: "President Biden on Friday claimed that al Qaeda was \"gone\" from Afghanistan, but in a \"Fox News Sunday\" interview Secretary of State Antony Blinken admitted that this is not true."
+    publishedDateTime: 2021-08-22T14:31:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xSI500AMB44/blinken-biden-al-qaeda-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/blinken-biden-al-qaeda-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blinken-biden-al-qaeda-afghanistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Sec. Mayorkas blames Trump, rule of law for huge spike in illegal immigration during Biden administration"
     excerpt: "Homeland Security Secretary Alejandro Mayorkas blamed former President Donald Trump’s administration for the record rise of border crossings occurring during the Biden administration."
     publishedDateTime: 2021-08-13T14:23:58Z
@@ -590,6 +606,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Top Biden aide Jake Sullivan says they still don't know how many Americans are in Afghanistan"
+    excerpt: "President Biden's National Security Advisor Jake Sullivan on Sunday admitted that they still don't know how many Americans are in Afghanistan."
+    publishedDateTime: 2021-08-22T15:00:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hMbH6PInsew/national-security-adviser-jake-sullivan-says-they-still-dont-know-how-many-americans-are-in-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/national-security-adviser-jake-sullivan-says-they-still-dont-know-how-many-americans-are-in-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/national-security-adviser-jake-sullivan-says-they-still-dont-know-how-many-americans-are-in-afghanistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4ac44adf-95d2-46b5-9d44-bc65e8dc5dfd/a5cacbb0-13af-4e57-ba99-3567d48058f6/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Amid Afghanistan chaos, Biden asks for 'legal actions' against governors who ban mask mandates"
     excerpt: "President Biden on Wednesday said he's asking Education Secretary Miguel Cardona to go after states with bans on mask mandates in schools, up to and including taking \"legal action\" against them, even as a crisis rages on in Afghanistan."

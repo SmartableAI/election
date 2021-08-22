@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/20/politics/kamala-harris-southeast-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/20/politics/kamala-harris-southeast-asia-trip-afghanistan/index.html"
 type: article
 quality: 176
-heat: 196
+heat: 216
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "GOP congressman places blame on Trump admin for crisis in Afghanistan: 'They set this up to fail'"
+    excerpt: "Republican Rep. Adam Kinzinger on Sunday placed blame on the Trump administration for the unfolding crisis in Afghanistan, saying its 2020 agreement with the Taliban sowed the seeds for the US' turbulent exit from the country.\n    \n"
+    publishedDateTime: 2021-08-22T15:45:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c3mqO2eRA2k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/22/politics/adam-kinzinger-afghanistan-crisis-trump-administration-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/22/politics/adam-kinzinger-afghanistan-crisis-trump-administration-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210711102931-adam-kinzinger-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "What the Vietnamese Will Ask Kamala Harris When She Visits"
     excerpt: "Lecturing in Ho Chi Minh City recently, I learned how urgently bright young people there want to understand what’s happening here. Their future may depend on it."
     publishedDateTime: 2021-08-16T18:00:00Z

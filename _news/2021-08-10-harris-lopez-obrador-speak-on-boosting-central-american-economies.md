@@ -193,6 +193,22 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Opinion: Kamala Harris and Nikki Haley — how common values can bring Americans together"
+    excerpt: "The two women couldn’t be further apart politically, but they share common experiences. Americans should focus more on what makes us similar."
+    publishedDateTime: 2021-08-19T06:00:00Z
+    webUrl: "https://www.deseret.com/opinion/2021/8/19/22630815/kamala-harris-nikki-haley-trump-biden-shared-values-americans"
+    ampWebUrl: "https://www.deseret.com/platform/amp/opinion/2021/8/19/22630815/kamala-harris-nikki-haley-trump-biden-shared-values-americans"
+    cdnAmpWebUrl: "https://www-deseret-com.cdn.ampproject.org/c/s/www.deseret.com/platform/amp/opinion/2021/8/19/22630815/kamala-harris-nikki-haley-trump-biden-shared-values-americans"
+    type: article
+    provider:
+      name: deseret
+      domain: deseret.com
+    quality: 67
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/stl2Zn8IjbRA_1PPCQ91GdzrJVM=/0x0:6000x4000/1400x1050/filters:focal(2520x1520:3480x2480):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69746659/AP21222690798882.0.jpg"
+        width: 1400
+        height: 1050
+        isCached: true
   - title: "Kamala Harris is taunted over planned Vietnam visit as Afghanistan crisis compared to fall of Saigon"
     excerpt: "KAMALA Harris has been taunted over her planned visit to Vietnam after the crisis in Afghanistan was compared to the fall of Saigon. The vice president is due to visit the country as part of a"
     publishedDateTime: 2021-08-18T15:01:00Z

@@ -779,6 +779,20 @@ related:
         width: 320
         height: 224
         isCached: true
+  - title: "Kamala Harris to Campaign for Gavin Newsom"
+    excerpt: "Politico: “A visit by Harris could also help rally California Democrats to fill out their ballots, particularly the critical Democratic voting bloc of women of color. While Harris' poll numbers have slipped in recent months,"
+    publishedDateTime: 2021-08-21T15:22:00Z
+    webUrl: "https://politicalwire.com/2021/08/21/kamala-harris-to-campaign-for-gavin-newsom/"
+    type: article
+    provider:
+      name: Political Wire
+      domain: politicalwire.com
+    quality: 55
+    images:
+      - url: "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg"
+        width: 1400
+        height: 1400
+        isCached: true
   - title: "Vice President Kamala Harris Touts St. Louis’ Mass COVID-19 Vaccination Site"
     excerpt: "The Vice President spoke with St. Louis Public Radio's Jason Rosenbaum about how the Biden administration is handling the COVID-19 vaccination effort in St. Louis and elsewhere."
     publishedDateTime: 2021-03-30T23:58:00Z

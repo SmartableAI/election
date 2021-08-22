@@ -2,15 +2,15 @@
 category: news
 title: "Kamala Harris lands in Singapore for Asia visit that will include Vietnam stop"
 excerpt: "Vice President Kamala Harris landed in Singapore on Sunday as she begins a visit to Southeast Asia that will also include a stop in Vietnam."
-publishedDateTime: 2021-08-22T04:14:19Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ghcpiNFzxLQ/kamala-harris-singapore-asia-vietnam"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ghcpiNFzxLQ/kamala-harris-singapore-asia-vietnam"
+publishedDateTime: 2021-08-22T04:15:00Z
+originalUrl: "https://www.foxnews.com/politics/kamala-harris-singapore-asia-vietnam"
+webUrl: "https://www.foxnews.com/politics/kamala-harris-singapore-asia-vietnam"
 ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-singapore-asia-vietnam.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-singapore-asia-vietnam.amp"
 type: article
-quality: 181
-heat: 261
-published: true
+quality: 131
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -22,8 +22,8 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Kamala Harris
+  - Republican Voice
 
 images:
   - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/16482d87-a6fa-490d-8acb-7aa840adb46b/2fdcd8fe-c77c-4d96-a303-677856797f99/1280x720/match/720/405/image.jpg?ve=1&tl=1"
@@ -97,6 +97,6 @@ related:
         height: 405
         isCached: true
 
-secured: "ZHLPn16VicRqxiX3Na+80pr+lyzOtIVHvHKj777JtaORu/wAsEaKc7rowATe1T0cATA8zKEpYUU0gGbOdqYTB4HHD7O3AzqJyplbnvK4bbKCX6j0uh/DD4MFoXnL0rjmUaRcl+WujJZwj6PgnuB5YIJVycjcm4/8g33of0CjXbvYd7aSsN0/CcCvJ1GFgi9uzoZIKMHF2hD1vQRxmR61JrcIHg13PfF0maGn8GdIlvl0lafCTfUnTkVWo0EruHocoZHib3gy52a0t4iT8nsaV1ijUDNcXgQAZ9RRi+YzC3pUVjUfWs20dVH7JUa6bzxjIOQTr93kLACT9twCknvtI8ba1ZJf8fJJZjpV5I8H40Q=;gUMm8ZZ6He7BkKkgQV8cBA=="
+secured: "4j2aDJYCdyWZ+7oLS5+V3OceC2b+8C27OW1tBKBBD0gc58NWsqtqhq5mmGy+JvgP9cxyrUuwKGgawM/I5k/svLBx2aYuyxgqDsE5A0jwrIsMo/n2wdXqcBnqWp3ljAh0roiqcFSmL81GwWsqPGHcTl9NBUQlMJ8rdvP5jhvpcpdor5Ads8k3F9l65IQ6frHMFXd1965fMHYiXt9Hj3dgZm2tVT/TceXwvY1RuxLO4V1U/Wx7Qml+yhyHN+rL2PvhKRqp7jjxJeHQuHbRoo/C7hZqsGHCIJkKASIjLh90JaL/aa4RLFG8k9EAq8cJZUpFzE6G8OoUi28e+tL2L5Hyf5Y19oSOw/Bl4Eznugh3JQY=;3ljTgE5vKuLqodnFvF1+/w=="
 ---
 

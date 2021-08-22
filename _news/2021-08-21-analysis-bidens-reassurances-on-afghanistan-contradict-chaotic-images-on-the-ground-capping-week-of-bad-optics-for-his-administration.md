@@ -175,6 +175,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's national security adviser says ISIS threat against Kabul airport is 'real' and 'acute'"
+    excerpt: "National security adviser Jake Sullivan said Sunday that the threat of ISIS against the large mass of Americans and Afghans at the Kabul airport trying to evacuate Afghanistan is \"real,\" adding that the US is placing \"paramount priority\" on preventing any terrorist attack.\n    \n"
+    publishedDateTime: 2021-08-22T14:23:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HyYy61kaK-A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/22/politics/jake-sullivan-afghanistan-isis-threat-kabul-airport-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/22/politics/jake-sullivan-afghanistan-isis-threat-kabul-airport-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210822081317-kabul-afghanistan-airport-08-16-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden focuses on 'getting this job done' as the chaotic evacuation from Afghanistan grows desperate"
     excerpt: "President Joe Biden will deliver remarks on Friday about the ongoing US military evacuations of American citizens and vulnerable Afghans as chaos ensues at and around Kabul's international airport.\n    \n"
     publishedDateTime: 2021-08-21T00:54:02Z

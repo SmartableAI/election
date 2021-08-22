@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden approval ratings dip in new public opinion poll"
+    excerpt: "A rise in COVID cases, heavy criticism over the rushed U.S. evacuation from Afghanistan, and an increase in inflation appear to be taking a toll on President Biden’s approval rating among Americans."
+    publishedDateTime: 2021-08-22T14:22:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AhXP1T13VE8/biden-approval-ratings-dip-in-new-public-opinion-poll"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-approval-ratings-dip-in-new-public-opinion-poll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approval-ratings-dip-in-new-public-opinion-poll.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden 'checking' if he has power to intervene against Florida and Texas mask mandate bans"
     excerpt: "Biden said he is “checking” on if his presidential powers could give him the ability to intervene in states banning mask mandates"
     publishedDateTime: 2021-08-10T22:15:34Z

@@ -783,6 +783,20 @@ related:
         width: 320
         height: 224
         isCached: true
+  - title: "Kamala Harris to Campaign for Gavin Newsom"
+    excerpt: "Politico: “A visit by Harris could also help rally California Democrats to fill out their ballots, particularly the critical Democratic voting bloc of women of color. While Harris' poll numbers have slipped in recent months,"
+    publishedDateTime: 2021-08-21T15:22:00Z
+    webUrl: "https://politicalwire.com/2021/08/21/kamala-harris-to-campaign-for-gavin-newsom/"
+    type: article
+    provider:
+      name: Political Wire
+      domain: politicalwire.com
+    quality: 55
+    images:
+      - url: "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg"
+        width: 1400
+        height: 1400
+        isCached: true
   - title: "For her first major task as VP, Kamala Harris is handed a thorny diplomatic mission"
     excerpt: "“And you’re smiling.” Kamala Harris’s first major mission as vice president is not one a lot of politicians would be happy to receive. She’s been deputized to own arguably the most politically thorny issue the administration has on its ..."
     publishedDateTime: 2021-04-06T14:22:00Z

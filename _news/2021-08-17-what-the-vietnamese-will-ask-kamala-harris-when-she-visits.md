@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "GOP congressman places blame on Trump admin for crisis in Afghanistan: 'They set this up to fail'"
+    excerpt: "Republican Rep. Adam Kinzinger on Sunday placed blame on the Trump administration for the unfolding crisis in Afghanistan, saying its 2020 agreement with the Taliban sowed the seeds for the US' turbulent exit from the country.\n    \n"
+    publishedDateTime: 2021-08-22T15:45:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c3mqO2eRA2k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/22/politics/adam-kinzinger-afghanistan-crisis-trump-administration-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/22/politics/adam-kinzinger-afghanistan-crisis-trump-administration-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210711102931-adam-kinzinger-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "qcN6fBxCFrDUw0YTyUgRQlOm4DBJzyZajaPDUkobwZZkxU8vxaYADXBnwhd2J+HQ8KhCnLYcNVKRNDppyAKadEmTSJeIoyI5mOlj+sLGfYbxswljnktK8xUcnzrDoVpYU8m7k7CW9Ae8dHUNqOhnwXkMIjk0kJBrU11p/YjzFpmUdfO50kRHOlerA2wQmXkA2Wbv+U9EyUTxZOHhyHdj0FOcZv3t61FkpEBISWeuJfONdqJV8qWkW9r1+W1e71PE5/DoXw0wriYWGHAQMJk714UhoC6ySd/ShafzCIuGLFteN0BoZ70pNnla4V+Vn6imTI8gm1k2pVQxhT0XyxAa3JxIec2sow9HZ8PixaxdGtbhoZB1En9NKYOglD3AqwuzTEnPuGqjFnJBpe/BfHFxLZ0QIGFBdIBYKoOHRaUEr4Np+WrqcTS+os0NUbcsTqk/AX+l7R1iVWA73a+F15zeeBOpgL8ud8CGiA2PXEyHzDK8l7mKCKLt8SEOG3HCSgwOLCXUQ9Z2vAm0aoGpLA/4lw==;hsZP+UdTN5gC5mtp/i5SkA=="
 ---

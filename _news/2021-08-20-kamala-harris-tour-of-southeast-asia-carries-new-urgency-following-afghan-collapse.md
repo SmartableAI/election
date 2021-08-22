@@ -190,6 +190,22 @@ related:
         width: 760
         height: 507
         isCached: true
+  - title: "Opinion: Kamala Harris and Nikki Haley — how common values can bring Americans together"
+    excerpt: "The two women couldn’t be further apart politically, but they share common experiences. Americans should focus more on what makes us similar."
+    publishedDateTime: 2021-08-19T06:00:00Z
+    webUrl: "https://www.deseret.com/opinion/2021/8/19/22630815/kamala-harris-nikki-haley-trump-biden-shared-values-americans"
+    ampWebUrl: "https://www.deseret.com/platform/amp/opinion/2021/8/19/22630815/kamala-harris-nikki-haley-trump-biden-shared-values-americans"
+    cdnAmpWebUrl: "https://www-deseret-com.cdn.ampproject.org/c/s/www.deseret.com/platform/amp/opinion/2021/8/19/22630815/kamala-harris-nikki-haley-trump-biden-shared-values-americans"
+    type: article
+    provider:
+      name: deseret
+      domain: deseret.com
+    quality: 67
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/stl2Zn8IjbRA_1PPCQ91GdzrJVM=/0x0:6000x4000/1400x1050/filters:focal(2520x1520:3480x2480):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69746659/AP21222690798882.0.jpg"
+        width: 1400
+        height: 1050
+        isCached: true
   - title: "Kamala Harris is taunted over planned Vietnam visit as Afghanistan crisis compared to fall of Saigon"
     excerpt: "KAMALA Harris has been taunted over her planned visit to Vietnam after the crisis in Afghanistan was compared to the fall of Saigon. The vice president is due to visit the country as part of a"
     publishedDateTime: 2021-08-18T15:01:00Z
@@ -297,6 +313,6 @@ related:
       domain: c-span.org
     quality: 13
 
-secured: "E2+IthQPAdmLH8LdfZiB6xJuY/s46Z3A7rxy2PXk40EK+Jr+ZQQx4maVyHUVLAp5Ldc5LL0/NE3t+TTa+GgDvxvaM0AYZYcCs3aaD4ZUF9cx4FX8xSxdChMPPdA6jPyBr/YZPeZr2VxcCNFqMzCueIuqDXOYj3OM/IIXgeRc47fa1LuAn/j4lliMmcFO/6KSzOL2bC/1lATtpawB+PMsQ/s51IMN+18ZqUlpUvE3qgEXgijt0FhKauwS8/1ueEf4p7IFFEqeEfW2toiQ8yB54AmKJY3NDVluf6HbYTEDullAY+gbMlhJ64WMylep6RU81A67w3or9Kn+uofNzHgEmoqBkGWQI1WaQA6zPs4xDX0=;XzYh/cDaSy11VlwzdAj0FQ=="
+secured: "7n9RIabDbDPCow1iLVhQX0t+NAeH2p4stO/E6fYScKLPuTlaPHhsIPY9pBTd2ypmJrXWWx5hJQxz7Hpe9tZwLO4w419PPSL3YDV/xtTiCgTwOGi7eOZx+T8jQjObOGDbyscNCcdegBEE7WmOZCl8VFjLRdXn1uj+nqierslwvDsoeJ/yzJ+8tEVYj6fJIGMIojjSPjcZzflM0aAujuK97ShZzYqxQpKaKsk4QS8ZaWJVr+r2FsunONrNg/zM3fIf3ATq3D+ouEt2uGfzFxiXnYlMVk7h1mPnU1+Inl02N3avkLwgvhEjibPPAb9dQaef7GZOiod24Qv4D9dMPlr+2pMFeMuQL3X+113BeR8VCvo1XC5pwRo8kzojjWpf12VHnb0TCN37y1B28wgmbtCHLYUTCuhOL5aCKQIGhuFCPrL1mx0FkeF2rJN76KAadlaLSgU+guSoiv8jHo2YfuSCkz/9l/MNdLSoyqnXKNagubXabi5qqPO+/O2grXwT+ySOdUFgVwcbyyVYBRD8AneJRA==;pQDyRQQOlKAQ9ZFmwxkbUA=="
 ---
 
