@@ -747,6 +747,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden gifting Afghanistan to the Taliban is a crime against humanity"
+    excerpt: "IN 20 days, it will be exactly 20 years since someone phoned you and said, “Turn on your television now.” Twenty years since those planes came out of a clear blue sky and ploughed into the Twin"
+    publishedDateTime: 2021-08-22T01:02:00Z
+    webUrl: "https://www.the-sun.com/news/3516791/tony-parsons-afghanistan-joe-biden/"
+    ampWebUrl: "https://www.the-sun.com/news/3516791/tony-parsons-afghanistan-joe-biden/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3516791/tony-parsons-afghanistan-joe-biden/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 74
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/RW-comp-columnist-BIDEN-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "President Joe Biden defends Afghanistan withdrawal of troops | Charlotte Observer"
     excerpt: "Biden’s experience is drawing scrutiny as the president navigates the first major global crisis of his presidency in Afghanistan."
     publishedDateTime: 2021-08-17T00:22:00Z

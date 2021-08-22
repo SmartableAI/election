@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/eastern-governors-mode
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/eastern-governors-model-california-gop-comeback-79204135"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       name: Miami Herald
       domain: miamiherald.com
     quality: 55
+  - title: "How Trump-hating California got a slate of recall candidates who supported Trump"
+    excerpt: "With a historic gubernatorial recall election just weeks away, California voters will soon decide whether they want to remove Gov. Gavin Newsom and, if so, who should succeed him as"
+    publishedDateTime: 2021-08-22T08:00:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/politics/how-trump-hating-california-got-a-slate-of-recall-candidates-who-supported-trump/article_c0adfa19-fbed-575d-93ff-362f74b358c2.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 50
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "bleD3mW57turuprFgFk61+dLsvxwHiuMu+O0aqDeLczmFRDz2Uu+6YBfUSzsH/KrdW0z2hz6HvwUGVIaym/a9X86/XrAEd8RIqbZ32CdgjdMIHpk134qrCbiGK6RCygIVIzwhRLG/PCT8mgkJTOIgxhj86CmoY6QPV2LBaRVjObtXF25l2XOudDt0q9eakJOUQg8gAjfvPj3KrxN2TSNsFOwkqGiCACyOMtdgjLhNc9J+i9MdwWK20si0jh/A22IdU11adIYRch0FUxo6q0Q2WuC7LkkuYdVE39ZaQhGCJJqwWIX9yXkgDHcgcaF81XiiTDattYcT1dmZV3X/ivnSDjXhYtjM2sIkGUjoR6NZSvst8zRf6YLeFQtymGw8BncMwuKguiToALaizcU4Eo5VJ2fM85uNM6vVwOrVquEfj3TYd1tkznvJJ5IfOoN6+vVDI8NED/GY86CDAJsaF0W9W0vLjy/b0CPe63WcEk4ys3wllrBeNOZnljXPlooulz5N56225tGTqyodwTBFi5LhQ==;UN2X+z8N8c4jyUYl91/Ytw=="
 ---

@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Trump Assails Biden for Afghanistan 'Humiliation'"
+title: "Trump Assails Biden for Afghanistan ‘Humiliation’"
 excerpt: "Former President Donald Trump launched on Saturday a sustained attack on President Joe Biden's handling of the retreat of U.S. forces from Afghanistan, which he called \"the greatest foreign policy humiliation\" in U."
-publishedDateTime: 2021-08-22T02:54:00Z
-originalUrl: "https://www.usnews.com/news/top-news/articles/2021-08-21/trump-assails-biden-for-afghanistan-humiliation"
-webUrl: "https://www.usnews.com/news/top-news/articles/2021-08-21/trump-assails-biden-for-afghanistan-humiliation"
-ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-08-21/trump-assails-biden-for-afghanistan-humiliation?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-08-21/trump-assails-biden-for-afghanistan-humiliation?context=amp"
+publishedDateTime: 2021-08-22T08:54:00Z
+originalUrl: "https://hamodia.com/2021/08/22/trump-assails-biden-afghanistan-humiliation/"
+webUrl: "https://hamodia.com/2021/08/22/trump-assails-biden-afghanistan-humiliation/"
 type: article
 quality: 70
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Hamodia
+  domain: hamodia.com
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
+
+images:
+  - url: "https://images.hamodia.com/hamod-uploads/2021/08/2021-08-22T034958Z_1154748538_RC22AP9SAA4N_RTRMADP_3_USA-TRUMP-1024x683.jpg"
+    width: 1024
+    height: 683
+    isCached: true
 
 related:
   - title: "Joe Biden to Americans in Afghanistan: 'We will get you home'"
@@ -301,6 +301,6 @@ related:
         height: 1920
         isCached: true
 
-secured: "eLFGt6wM0w2Ly/RKO1VE9GpRtP2ypkqjwYtrzfPNsCjwgCI5PulkxsvHC5J7qd3cJb9dH6nVN9bW1GnLGmAnqN66oGc6N3XN9sRE/fdvdaspvE94KTpJowPQClXaE9wF5AMgfq4scJLYzS5Af7NDIIpsvqqH7zola0nP/rvYBpUuqzt8Usqy0NY1yhTvt/I4aLMiWbhcVuYGO2N2uwyt3W+Z3truRzObnbIDleCrzgV9qvYrWe+A9OURIB9MmYTmZkd53eyfY4j/gozfaPXj3RsO+HZJLKVRGsnPcJi/iEWV1d0AoFO7oiranK3ce6KWNr68e7yX8ONBKRllmixM1d8eCZtcqDJjhaHPasrspJJ6JMFcNzjZ/y0WXU7F5TsX40buCs05bLVLBwCGr9F5O85f6XBmD34XT8tfzfWIXmL9rZkSVlgsLH+lx3J+Y0NYsJIbC2W2lNtXC4sdKzXRdBnu8gvA7NaAGyk8/8lhcEcpqemwFiXyTGH5oStiIzUsFev+c4GRtKJQKrfQfWABhw==;spsS/OPBsNLy99uF1DMdUQ=="
+secured: "2bEASQf3n6rYu99BIOOhy340k+gGSbtxVBvFrESDTFp4GVyrw0HExtBcCBmhLRUyQlh5mrPKeIbFsYEg3P/J7yCrHghE+8XL428UWLAeE52omt9GIjkrwUZzh3f3kGfokhvuGnmTuwjttV8UgM/BYgajRy+vNZC2/tSCuH9NOAkKSxDn7CWKLbCjYW9bHIpikZqireAa08+53H3uPrHY8PQXMHGTQJX+yJgA56dYMHWKGcxmXU8uRfSe92jiUJDKwGQotr2k2Jm5pxdlRowjaOnbBszbEAzbXefFBrajXRZcw6J+yMB+vxhBwRAKLKTMB7tp7PE70EEL/mMMoXRo9pZhc/gBaiDKTPPgGxDhp1A=;cYXMyVoWMIOmqKg+f8zvgw=="
 ---
 

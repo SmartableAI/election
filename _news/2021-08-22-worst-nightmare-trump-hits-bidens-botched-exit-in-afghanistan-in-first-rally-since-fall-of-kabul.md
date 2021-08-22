@@ -170,6 +170,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden to discuss Afghanistan evacuations during Sunday address to nation"
+    excerpt: "President Biden plans to address the nation Sunday afternoon regarding efforts to evacuate American citizens and other people out of Afghanistan, according to reports."
+    publishedDateTime: 2021-08-22T08:10:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CkMynleklHs/biden-to-discuss-afghanistan-evacuations-during-sunday-address-to-nation"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-to-discuss-afghanistan-evacuations-during-sunday-address-to-nation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-discuss-afghanistan-evacuations-during-sunday-address-to-nation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/16482d87-a6fa-490d-8acb-7aa840adb46b/2fdcd8fe-c77c-4d96-a303-677856797f99/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Sec. Mayorkas blames Trump, rule of law for huge spike in illegal immigration during Biden administration"
     excerpt: "Homeland Security Secretary Alejandro Mayorkas blamed former President Donald Trump’s administration for the record rise of border crossings occurring during the Biden administration."
     publishedDateTime: 2021-08-13T14:23:58Z

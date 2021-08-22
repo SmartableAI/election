@@ -46,9 +46,9 @@ related:
   - title: "Congresswoman introduces three impeachment resolutions against Pres. Joe Biden"
     excerpt: "Congresswoman Marjorie Taylor Greene (R-Ga.) announced on her Twitter page late Friday that she introduced three impeachment resolutions against President Joe"
     publishedDateTime: 2021-08-21T18:15:00Z
-    webUrl: "https://www.wtrf.com/top-stories/congresswoman-introduces-three-impeachment-resolutions-against-pres-joe-biden/"
-    ampWebUrl: "https://www.wtrf.com/top-stories/congresswoman-introduces-three-impeachment-resolutions-against-pres-joe-biden/amp/"
-    cdnAmpWebUrl: "https://www-wtrf-com.cdn.ampproject.org/c/s/www.wtrf.com/top-stories/congresswoman-introduces-three-impeachment-resolutions-against-pres-joe-biden/amp/"
+    webUrl: "https://www.wtrf.com/news/congresswoman-introduces-three-impeachment-resolutions-against-pres-joe-biden/"
+    ampWebUrl: "https://www.wtrf.com/news/congresswoman-introduces-three-impeachment-resolutions-against-pres-joe-biden/amp/"
+    cdnAmpWebUrl: "https://www-wtrf-com.cdn.ampproject.org/c/s/www.wtrf.com/news/congresswoman-introduces-three-impeachment-resolutions-against-pres-joe-biden/amp/"
     type: article
     provider:
       name: WTRF.com

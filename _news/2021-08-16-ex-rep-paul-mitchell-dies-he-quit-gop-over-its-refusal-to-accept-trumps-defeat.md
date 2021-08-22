@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "More than half of Kinzinger's GOP primary challengers believe Trump won the 2020 election"
-    excerpt: "Even though allegations of widespread fraud in the 2020 presidential election haven't been substantiated, four conservatives challenging Republican U.S. Rep. Adam Kinzinger for his congressional seat insist Donald Trump actually won reelection."
-    publishedDateTime: 2021-08-21T21:40:00Z
-    webUrl: "https://www.dailyherald.com/news/20210821/more-than-half-of-kinzingers-gop-primary-challengers-believe-trump-won-the-2020-election"
-    ampWebUrl: "https://www.dailyherald.com/amp-article/20210821/news/210829838/"
-    cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20210821/news/210829838/"
+  - title: "With fight over mask mandates, Gov. Abbott passes purity test in Trump's GOP"
+    excerpt: "When Texas had its first big surge of COVID hospitalizations, Gov. Greg Abbott responded by shutting down bars and mandating masks. As the second surge hit, Abbott put in place an automatic trigger to restrict the operating capacities of businesses and halt non-emergency surgeries to free up hospital beds in areas with high hospitalizations."
+    publishedDateTime: 2021-08-22T09:00:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/Even-as-COVID-resurges-there-is-no-room-for-Gov-16401385.php"
+    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Even-as-COVID-resurges-there-is-no-room-for-Gov-16401385.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Even-as-COVID-resurges-there-is-no-room-for-Gov-16401385.php"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 81
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 122
     images:
-      - url: "https://www.dailyherald.com/storyimage/DA/20210821/news/210829838/AR/0/AR-210829838.jpg&updated=202108211740&MaxW=800&MaxH=800&noborder"
-        width: 800
-        height: 533
+      - url: "https://s.hdnux.com/photos/01/21/42/70/21376521/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
   - title: "Trump-fueled election ‘audit’ sparks Senate GOP turmoil"
     excerpt: "The top Republican in the Pennsylvania Senate says he’s putting a different senator in charge of an “election integrity” undertaking and removing a senator who had aimed to carry out an Arizona-style “forensic investigation” of Pennsylvania’s 2020 presidential election."
@@ -65,19 +65,37 @@ related:
       name: The Bellingham Herald
       domain: bellinghamherald.com
     quality: 70
-  - title: "Emmy Predictions: Directing for a Variety Series – John Oliver’s Take on Donald Trump and the Election Lead the Pack"
-    excerpt: "Following history, buzz, news, reviews and sources, the Emmy predictions are updated regularly with the current year's list of contenders in all categories. Variety's Awards Circuit Prediction schedule consists of four phases,"
-    publishedDateTime: 2021-08-19T22:16:00Z
-    webUrl: "https://www.imdb.com/news/ni63396099"
+  - title: "Joe Biden takes aim at states blocking mask mandates, setting Gov. Greg Abbott up for showdown with"
+    excerpt: "Texas Gov. Greg Abbott may soon be fighting a war on two fronts — with local officials and the federal government — to stave off mandatory COVID-19 prevention efforts after the Biden administration announced Wednesday it was going after states like Texas that try to ban universal masking at schools."
+    publishedDateTime: 2021-08-19T02:36:00Z
+    webUrl: "https://www.expressnews.com/news/local/article/Joe-Biden-takes-aim-at-states-blocking-mask-16396786.php"
+    ampWebUrl: "https://www.expressnews.com/news/local/amp/Joe-Biden-takes-aim-at-states-blocking-mask-16396786.php"
+    cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/local/amp/Joe-Biden-takes-aim-at-states-blocking-mask-16396786.php"
     type: article
     provider:
-      name: IMDb
-      domain: imdb.com
-    quality: 47
+      name: San Antonio Express-News
+      domain: expressnews.com
+    quality: 61
     images:
-      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
-        width: 1000
-        height: 1000
+      - url: "https://s.hdnux.com/photos/01/21/40/57/21367760/3/400x0.jpg"
+        width: 400
+        height: 266
+        isCached: true
+  - title: "Joe Biden takes aim at states blocking mask mandates, setting Gov. Greg Abbott up for showdown with feds"
+    excerpt: "Biden said he will use the U.S. Department of Education’s civil rights enforcement authority to deter states from blocking mask mandates in classrooms."
+    publishedDateTime: 2021-08-18T22:31:00Z
+    webUrl: "https://www.texastribune.org/2021/08/18/greg-abbott-joe-biden-texas-mask-mandates/"
+    ampWebUrl: "https://www.texastribune.org/2021/08/18/greg-abbott-joe-biden-texas-mask-mandates/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/08/18/greg-abbott-joe-biden-texas-mask-mandates/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 58
+    images:
+      - url: "https://thumbnails.texastribune.org/QCGScGkOdgn7z6M7CjbTbiaZvo4=/1200x630/filters:quality(95)/static.texastribune.org/media/files/0825c12ccde17a1e73e5eb5a698491d2/Biden%20COVID%20REUTERS%20TT.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "Wo6mieWrFXtmmXa8QIFJY8AkYbES5dYPoirMxn358RLPjWAoU+jii5n5Nc61Kv6UVHJxvESlDHrssbYsEm+jePq2WLabEiyq5S0I2oEy13j+gKLS3sJMxhi57hIoBLKRGx5pLsTGh26YjDfzrq78OHjp36jzo3m+WBHkafXpP8SNgncDsSelua4gLh5jchfGx8yyjnOgDwNl4/V9OX9MhZlCVzR6ROeBGyb1XYyrwB8tzy2cJm2L8OZeygJARVXbO/HYs9nEh/dRc+h17gGFWwFgvrqaF4FZeMW9xc3m/nNg9/JXoLVWUOWThf11FgFT8odmm2xvXMZyuk3hIHllL/txfLza0VetTUSSTqoW/Hk=;kzJ2zaFmU6/tFLxdf3n7JQ=="

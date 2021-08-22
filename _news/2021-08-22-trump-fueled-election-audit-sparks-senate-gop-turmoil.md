@@ -21,21 +21,21 @@ topics:
   - Donald Trump
 
 related:
-  - title: "More than half of Kinzinger's GOP primary challengers believe Trump won the 2020 election"
-    excerpt: "Even though allegations of widespread fraud in the 2020 presidential election haven't been substantiated, four conservatives challenging Republican U.S. Rep. Adam Kinzinger for his congressional seat insist Donald Trump actually won reelection."
-    publishedDateTime: 2021-08-21T21:40:00Z
-    webUrl: "https://www.dailyherald.com/news/20210821/more-than-half-of-kinzingers-gop-primary-challengers-believe-trump-won-the-2020-election"
-    ampWebUrl: "https://www.dailyherald.com/amp-article/20210821/news/210829838/"
-    cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20210821/news/210829838/"
+  - title: "With fight over mask mandates, Gov. Abbott passes purity test in Trump's GOP"
+    excerpt: "When Texas had its first big surge of COVID hospitalizations, Gov. Greg Abbott responded by shutting down bars and mandating masks. As the second surge hit, Abbott put in place an automatic trigger to restrict the operating capacities of businesses and halt non-emergency surgeries to free up hospital beds in areas with high hospitalizations."
+    publishedDateTime: 2021-08-22T09:00:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/Even-as-COVID-resurges-there-is-no-room-for-Gov-16401385.php"
+    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Even-as-COVID-resurges-there-is-no-room-for-Gov-16401385.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Even-as-COVID-resurges-there-is-no-room-for-Gov-16401385.php"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 81
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 122
     images:
-      - url: "https://www.dailyherald.com/storyimage/DA/20210821/news/210829838/AR/0/AR-210829838.jpg&updated=202108211740&MaxW=800&MaxH=800&noborder"
-        width: 800
-        height: 533
+      - url: "https://s.hdnux.com/photos/01/21/42/70/21376521/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
   - title: "Ex-Rep. Paul Mitchell dies. He quit GOP over its refusal to accept Trump's defeat"
     excerpt: "Former U.S. Rep. Paul Mitchell, a conservative who quit the Republican Party over its allegiance to President Donald Trump after the 2020 election, has died after a diagnosis of stage IV renal cancer."
@@ -64,19 +64,37 @@ related:
       name: Biloxi Sun Herald
       domain: sunherald.com
     quality: 70
-  - title: "Emmy Predictions: Directing for a Variety Series – John Oliver’s Take on Donald Trump and the Election Lead the Pack"
-    excerpt: "Following history, buzz, news, reviews and sources, the Emmy predictions are updated regularly with the current year's list of contenders in all categories. Variety's Awards Circuit Prediction schedule consists of four phases,"
-    publishedDateTime: 2021-08-19T22:16:00Z
-    webUrl: "https://www.imdb.com/news/ni63396099"
+  - title: "Joe Biden takes aim at states blocking mask mandates, setting Gov. Greg Abbott up for showdown with"
+    excerpt: "Texas Gov. Greg Abbott may soon be fighting a war on two fronts — with local officials and the federal government — to stave off mandatory COVID-19 prevention efforts after the Biden administration announced Wednesday it was going after states like Texas that try to ban universal masking at schools."
+    publishedDateTime: 2021-08-19T02:36:00Z
+    webUrl: "https://www.expressnews.com/news/local/article/Joe-Biden-takes-aim-at-states-blocking-mask-16396786.php"
+    ampWebUrl: "https://www.expressnews.com/news/local/amp/Joe-Biden-takes-aim-at-states-blocking-mask-16396786.php"
+    cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/local/amp/Joe-Biden-takes-aim-at-states-blocking-mask-16396786.php"
     type: article
     provider:
-      name: IMDb
-      domain: imdb.com
-    quality: 47
+      name: San Antonio Express-News
+      domain: expressnews.com
+    quality: 61
     images:
-      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
-        width: 1000
-        height: 1000
+      - url: "https://s.hdnux.com/photos/01/21/40/57/21367760/3/400x0.jpg"
+        width: 400
+        height: 266
+        isCached: true
+  - title: "Joe Biden takes aim at states blocking mask mandates, setting Gov. Greg Abbott up for showdown with feds"
+    excerpt: "Biden said he will use the U.S. Department of Education’s civil rights enforcement authority to deter states from blocking mask mandates in classrooms."
+    publishedDateTime: 2021-08-18T22:31:00Z
+    webUrl: "https://www.texastribune.org/2021/08/18/greg-abbott-joe-biden-texas-mask-mandates/"
+    ampWebUrl: "https://www.texastribune.org/2021/08/18/greg-abbott-joe-biden-texas-mask-mandates/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/08/18/greg-abbott-joe-biden-texas-mask-mandates/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 58
+    images:
+      - url: "https://thumbnails.texastribune.org/QCGScGkOdgn7z6M7CjbTbiaZvo4=/1200x630/filters:quality(95)/static.texastribune.org/media/files/0825c12ccde17a1e73e5eb5a698491d2/Biden%20COVID%20REUTERS%20TT.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "/BcWBc5h31BuWmsVdHyIMxjfIHblRKPfqfBWhAfalLCPjs3pUGmQaTu/btPrLgBrJ66DOD8+rd7pTSLMQfkUk+7uoTzu4xAIjbmMsQLhwEo0ziUbf5BuRWjv7IIWzHwo1EoZYQmT1wv4vU8wDblNCW40T8UIlFd0Mh0rUm3wWCTbaJGJChQjZTS4IsVFzS6fWkvdUPp/z77fE3Zj/CCOxRdyd5ftNp31k/61YpaQ7nm18Eu/wEzL5YZowLhaWwuFo9RagwF/45IVSp1Amsaq8udJexSN29hxeeL9Nsdg5/CjTKHjYsW1+pZy3Npjvv7bYpiT1eVncFAr8xCdrBDLQl5XsaC53xCIVBxOnL8T+6CNpxFTFXNynO5fknP82rsaDpDxXXIJ5JO3MzGOpIJZsh+h0XUOfil00u02v8FSHRYiTuXXgb6S0Am7fWqd9MqwKGB+DL6g5f+pctc0gkC5vUsqV1+hVDrFBwICd7GJ0/lOuUIXHwf4pPfJ5iTomkk+JiKWqNsN1dbYunIfD0E7Sg==;NYDkkHX1iSC7c/dFRaE+0w=="

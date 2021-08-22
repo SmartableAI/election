@@ -70,6 +70,20 @@ related:
       name: Miami Herald
       domain: miamiherald.com
     quality: 55
+  - title: "How Trump-hating California got a slate of recall candidates who supported Trump"
+    excerpt: "With a historic gubernatorial recall election just weeks away, California voters will soon decide whether they want to remove Gov. Gavin Newsom and, if so, who should succeed him as"
+    publishedDateTime: 2021-08-22T08:00:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/politics/how-trump-hating-california-got-a-slate-of-recall-candidates-who-supported-trump/article_c0adfa19-fbed-575d-93ff-362f74b358c2.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 50
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "LcFfOYqx9p/iD1d9kWd0GMBf70Obxr0HJKBu/BiU3mkI3p9/9VX6m1yNzyzIX78znveebsRKAeeO6EUJFEZBEr35sPhS/kn8rognEeaRI09DA77jTPYe7/XGwvqmXc23zig6OCwg7wrfWpno6dvcW4Eg961HZT8LhQTzMi8IWAUzsz2NhAUeSw9YYzWnrrNbLXzhe6TKoHdvuciIJ+pb6XYqlwmdX16Zik5xZB9pVf+Q9ypBealpV5CbZ6OxjCB/AYKH1wIGzAs81LdnBEznByYfoCubkrR/2F5Vf2hKHvRGJryVUiZXCG6aKRrRMG7M9+ojd2H2UBwfdEhn+NM8736Zs84bIi0xY9JeuKeZF5Ygj0eVJph+bDjkSS3ciAbw4jBNlxT18F13ZYLgEI4YtaR9Mxi382Vqne0b+DOdFkQlV7zKjUyo6COCH23p65TCq0WwXvL6RUVHkweQ4W3Oz4/K/Zbe3cslW3FbEwtOaUvAr9ZQ0dSOja3ygkks/fxXgRJm1/BpIbJ5yHs9lPC6qA==;We7ayuIbXqT7KKtymh7sqA=="
 ---

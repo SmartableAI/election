@@ -526,6 +526,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Dan Bongino calls for Joe Biden's resignation"
+    excerpt: "Dan Bongino called Joe Biden a failure Saturday on “Unfiltered with Dan Bongino,” saying if the president does not resign, he should be impeached over the Taliban takeover of Afghanistan."
+    publishedDateTime: 2021-08-22T03:02:00Z
+    webUrl: "https://www.foxnews.com/media/dan-bongino-calls-for-joe-bidens-resignation"
+    ampWebUrl: "https://www.foxnews.com/media/dan-bongino-calls-for-joe-bidens-resignation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/dan-bongino-calls-for-joe-bidens-resignation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Critics slam Biden’s long-weekend silence as Afghanistan falls to Taliban"
     excerpt: "Republican leaders are slamming President Biden for taking a long weekend out of the public eye as major cities fall to the Taliban in Afghanistan. The mounting crisis comes as the US prepares to"
     publishedDateTime: 2021-08-13T17:15:00Z

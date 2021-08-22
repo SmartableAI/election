@@ -3,10 +3,10 @@ category: news
 title: "Congresswoman introduces three impeachment resolutions against Pres. Joe Biden"
 excerpt: "Congresswoman Marjorie Taylor Greene (R-Ga.) announced on her Twitter page late Friday that she introduced three impeachment resolutions against President Joe"
 publishedDateTime: 2021-08-21T18:15:00Z
-originalUrl: "https://www.wtrf.com/top-stories/congresswoman-introduces-three-impeachment-resolutions-against-pres-joe-biden/"
-webUrl: "https://www.wtrf.com/top-stories/congresswoman-introduces-three-impeachment-resolutions-against-pres-joe-biden/"
-ampWebUrl: "https://www.wtrf.com/top-stories/congresswoman-introduces-three-impeachment-resolutions-against-pres-joe-biden/amp/"
-cdnAmpWebUrl: "https://www-wtrf-com.cdn.ampproject.org/c/s/www.wtrf.com/top-stories/congresswoman-introduces-three-impeachment-resolutions-against-pres-joe-biden/amp/"
+originalUrl: "https://www.wtrf.com/news/congresswoman-introduces-three-impeachment-resolutions-against-pres-joe-biden/"
+webUrl: "https://www.wtrf.com/news/congresswoman-introduces-three-impeachment-resolutions-against-pres-joe-biden/"
+ampWebUrl: "https://www.wtrf.com/news/congresswoman-introduces-three-impeachment-resolutions-against-pres-joe-biden/amp/"
+cdnAmpWebUrl: "https://www-wtrf-com.cdn.ampproject.org/c/s/www.wtrf.com/news/congresswoman-introduces-three-impeachment-resolutions-against-pres-joe-biden/amp/"
 type: article
 quality: 71
 heat: -1
@@ -87,6 +87,6 @@ related:
         height: 800
         isCached: true
 
-secured: "auuEWB7By1JfH3ZIBXNihbzfknIgEy/0jY2wcqFMcOba5TWJHCJ97hzxT8GTpcUpqaVqWW1aj3ru7zqQkrpjxDJgKc+HNKBaVh6MHA/tU9tK/zBmiRW1oeGK5Ui9lGns7eL+AdQOShPjOIV021rw+ZfXAJmwrXJWIjz1Fh+wAN9mrs8kj4nQgxg6yzcRt/uw7zJ5py5oDUu7GnQWqhA912UMj6AMXphLcMMxDEdRxavZFgeGzd0x1FJpp95GKJA6WKK4zxTOWL48iL08My4Wk+Z/pxze5Mu1vyvWCVfVTYXkUOx2NWDq19XyCXQlCm4FEgTF73y9Jl9NPoacs0qCpHkhJ9UZMyFS5WSR8/UMM7A=;OLtjhoVMmkd+T09mvMTZ8Q=="
+secured: "GL/uM9wvITd+BqDuSjWLhsi73yErYRnvoAqmtOZcF0dra+YHVNEQlz69BSol0NNu0z1F1ZvMxnSCFTyaLUJkyQLaCcGlcgdiG+WO5SJVu5/bRGpNaK7Yt0yYIVMC5bnxx9hUR3DmzXw2NaoXibu+evWxLqloNRlUECkrDG6LbbiQiz9oUCv2SyEKdSPQO/Xtdc9c2U0JjrvBCwj/YJcteMCtnslorqu3SM3v4G9HsjeoRv+K3AYpCtiYowxL9iYyhfGv4LQHdBgooIjYjQo4RQqnoYPTmmkpbvWQLiR2/s/WURtlVX98L0R4GBhgJRf0b8c1hWyBIw4txhxbfaTzhQXHcLnd8IFW5+xVCddPDFA=;coLtgDjG96ndrdBvAU+9eg=="
 ---
 

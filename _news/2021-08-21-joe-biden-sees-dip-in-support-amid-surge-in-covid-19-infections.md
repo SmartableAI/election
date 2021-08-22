@@ -262,6 +262,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Who will believe Biden now?"
+    excerpt: "Joe Biden did to himself what his opponents couldn’t -- shredded his own credibility in a high-profile, hugely consequential matter that won’t be forgotten."
+    publishedDateTime: 2021-08-22T09:00:00Z
+    webUrl: "https://www.thedailyreview.com/opinion/columns_editorials/who-will-believe-biden-now/article_b572874b-7e95-51c7-864d-d361c7a3401c.html"
+    type: article
+    provider:
+      name: The Daily Review
+      domain: thedailyreview.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/thedailyreview.com/content/tncms/custom/image/8ae8c126-2b81-11e7-8ccf-fba9d1099000.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Ron DeSantis slams Joe Biden ‘lack of leadership’ at event highlighting COVID-19 treatment"
     excerpt: "Ron DeSantis turned his attention from COVID-19 to the White House. DeSantis aired grievances yet again about a perceived “lack of leadership” from President Joe Biden, showing that even at an event focused on the virus,"
     publishedDateTime: 2021-08-19T18:28:00Z
@@ -293,6 +307,15 @@ related:
     provider:
       name: Independent Tribune
       domain: independenttribune.com
+    quality: 35
+  - title: "Joe Biden Is Who We Said He Was. Unfit to run the nation"
+    excerpt: "Joe Biden has badly, visibly bungled America’s withdrawal from Afghanistan. He has compounded the problem with his sluggish and dishonest public statements. This has gone so badly that even people and institutions that are normally sympathetic to Biden and his party have noticed."
+    publishedDateTime: 2021-08-22T01:13:00Z
+    webUrl: "https://www.tigerdroppings.com/rant/politics/joe-biden-is-who-we-said-he-was-unfit-to-run-the-nation/97891154/"
+    type: article
+    provider:
+      name: TigerDroppings.com
+      domain: tigerdroppings.com
     quality: 35
 
 secured: "DhJHmhGbAeeqdkzOWU+kK2dD0ssk39qeexUt0/wKvWs2j0qSJH5TTeTXgNb7HbyOPd+UQS7YPpVice6BmLxHKFxPNIi4oYBZ/q3hLuiffZTXoeG39zwwP54109JHKkJmYG0mOeWEE4+ViWrg1tSl7eFQ8E1rd+mng7AwhCEsMxfwOJn4oP7uDFY3AUkz+9FNMuXfc+z2xro/bn62mwo1XjLk5qcPe/OK3+pEn5d1YQRp4zs1WkO2NjNk8jj4+mq/AANN2NQOcB0lVRzQvWBit5U1baIehSZZp1szpOwIOtyEUmaz+sj8NzXCPnmMcOfwZD+sHxC8jwRBXJoIaZDK0dTN3FAZEP/3IAu3ZD7TMSOG6Qj2f5feYV6N3ckYwVU/VnyEMRNyiyODvgAhXTl1qo79aqefCjoykGX0JYx+7iy2e15ltu4ExlUqpeEUZtPSJKD8GiteuvqMEcnq1qPwq32Bt/zsKfalLXYo3jbI9gC/wxROlaEuLWtI+CH1bbS5VzIXqv6ftiPM5c3ieOYCQg==;Nq05q+RAhQaVoDpP3pZL2A=="

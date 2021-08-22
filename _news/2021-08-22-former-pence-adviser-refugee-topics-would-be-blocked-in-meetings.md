@@ -3,23 +3,27 @@ category: news
 title: "Former Pence adviser: Refugee topics would be blocked in meetings"
 excerpt: "Olivia Troye, a former adviser to Vice President Mike Pence, speaks to CNN for the first time since her viral Twitter thread in which she says that some senior members"
 publishedDateTime: 2021-08-21T19:21:00Z
-originalUrl: "https://www.delcotimes.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_72bf1433-3e22-5c97-ac39-c919f8ee4fb9.html"
-webUrl: "https://www.delcotimes.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_72bf1433-3e22-5c97-ac39-c919f8ee4fb9.html"
-ampWebUrl: "https://www.delcotimes.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_72bf1433-3e22-5c97-ac39-c919f8ee4fb9.amp.html"
-cdnAmpWebUrl: "https://www-delcotimes-com.cdn.ampproject.org/c/s/www.delcotimes.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_72bf1433-3e22-5c97-ac39-c919f8ee4fb9.amp.html"
+originalUrl: "https://www.republic-online.com/news/national_news/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_1809a8ec-64ec-54cb-a837-53744eaadfeb.html"
+webUrl: "https://www.republic-online.com/news/national_news/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_1809a8ec-64ec-54cb-a837-53744eaadfeb.html"
 type: article
 quality: 55
 heat: 55
 published: false
 
 provider:
-  name: Delaware County Daily Times
-  domain: delcotimes.com
+  name: Miami County Republic
+  domain: republic-online.com
 
 topics:
   - Election
   - Mike Pence
 
-secured: "ZYn/zNVNK8bYYjfEEVz2g64umgtzFAxQgVpdig6U331Xq3RnBnaNt25XjNO/yPmuifZmsVGfg/foU8H5Uumw3AqmoDxqlHUyJG7+Z5QQ09aTAYSXc1ehNsTFMHX6Zrlsa+kzKuXe0UOIuYwDgYh5ypDVTa5N5yuIzhMxEGjWMakyrApu6T2OCGc11hoK6ZC5hCeIjeLZWjR/UCmQ+prX+0MlVNHFUhJCT7G3lUWJIbg7Pa9ROEER9YGAtmhgbWo+ndBCzKU/towqn5JhCdOiZ9TPst78DsQNK9exd79h2TFSzw3xl3MhMmNgFHxF2JH9gb8+fGfPMi5fKvC6Wie4gaZ1DvqIrCSs/iaVCtguz/URGAa6BZT/NWrHBDAvyYK7Fz+ZxMXdtmUNmJQNCfjat3rjHzZi/EQVG4Re/3jMl87pgRH2N24fAV1ofdrYnMtzWD1rKuBwGOPkcv30xUIH9vdWWEd2BkKrqXM23jJsDcPq3HpqpNQlQ7iurDXnQaWAeSvL0XO3AHFK9XawgJNg3Q==;hQ6azKFYUuwWzj8cJG/1mw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/republic-online.com/content/tncms/assets/v3/editorial/1/80/1809a8ec-64ec-54cb-a837-53744eaadfeb/612158728d609.image.jpg?resize=576%2C324"
+    width: 576
+    height: 324
+    isCached: true
+
+secured: "UH5UlUEH5aV4hClKfACIUZLrgxoaX2gHnE4+TzaooPetZB7gqaYyuWx+5QIgx+CtLMVAHFONUPZjcb8gjeVwFiRKrOYFU0Dg+kt/yM1Jbim6UOvNZzsSFannG9d6BKgdt9EzWB2wa+ceF7/cM84zAaH+F33RS4Z63bJvcDWPjVKKrva1OtVGUQMXxw0Gt1yLMB06655F13juHz0RmqKoAtyLJrzas9VVEQaYYgm9ZrKZiO9tQ3/w0MPdtL7es5T8IuewGwbZXNHKf5byzXQ4L2mUfucrD+HjJFDZkMOaQ+ltSj3Id55ZdscMhPyJP07oMysbOEUBeFEH2pvLkSsDGyyaKuP9weBHqB6uvD5aY90=;x9uGeGhHpV1ltD313zXcuw=="
 ---
 

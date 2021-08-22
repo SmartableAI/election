@@ -219,17 +219,20 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Trump Assails Biden for Afghanistan 'Humiliation'"
+  - title: "Trump Assails Biden for Afghanistan ‘Humiliation’"
     excerpt: "Former President Donald Trump launched on Saturday a sustained attack on President Joe Biden's handling of the retreat of U.S. forces from Afghanistan, which he called \"the greatest foreign policy humiliation\" in U."
-    publishedDateTime: 2021-08-22T02:54:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-08-21/trump-assails-biden-for-afghanistan-humiliation"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-08-21/trump-assails-biden-for-afghanistan-humiliation?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-08-21/trump-assails-biden-for-afghanistan-humiliation?context=amp"
+    publishedDateTime: 2021-08-22T08:54:00Z
+    webUrl: "https://hamodia.com/2021/08/22/trump-assails-biden-afghanistan-humiliation/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
+      name: Hamodia
+      domain: hamodia.com
     quality: 70
+    images:
+      - url: "https://images.hamodia.com/hamod-uploads/2021/08/2021-08-22T034958Z_1154748538_RC22AP9SAA4N_RTRMADP_3_USA-TRUMP-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Afghanistan: Joe Biden said chaos was 'inevitable'"
     excerpt: "In an exclusive interview with ABC News' George Stephanopoulos, Joe Biden said nobody could have anticipated the speed of the Taliban's takeover. The US president has been criticised for his handling of the withdrawal."
     publishedDateTime: 2021-08-19T00:44:00Z
@@ -298,6 +301,6 @@ related:
         height: 1920
         isCached: true
 
-secured: "KdfaJ31yJrYulhZ8mAoSXfw7Iwd1ZeLgJqgU2bsiHxzPgotu+ddrSebrcMvIyYxg8jjIp613JNxSd7ju2p3mFNvfymVZ+oOmDg7k3hAHH2rJNSzpeyCHkT6uObvkd5fjIhtoE3sUpOogjk6oTDjcQOE8OLkgdoDscskmt1uZdNQWBRN5Hl3UfxGL0sQiseZEuEkWzbpc2BcYyd5Vq9NfpCiOSRSMpV7ExHfuBL708yCMidJGQ67m1Zbi95h51dT9AjvBhgWxS+j2DzvuYlqCsTxcxKGIyKsIFFMmxNKO/hGVrqAlm+tn3jABn4s/9dA7RQI+yecsKLMvsnCIEvBAe0Tz70kCN7Ml+cy1SXKE0yM=;MrUdRJwT3auqTWYUSAQkfw=="
+secured: "+0EUeIx4EmovwrF44piTLmXlEpKfB1mBfs20GyCqAsBiwIx9U4axPZVtAFmjngoeBy7ksKK6jZpIuFzwsD883oiaDpLRmk0SUT2jh78/rhTq9tRK1cXXftgPSr/sBVDfm2uD1XHi3vY+7SKLntMP/1RZrbkLg6VdGgp41SpLuSYPkZpvxCuxsTdq6y8h0A2AluoRaw5vKKLV8RFum9WhYzRZ4hEots5jNlRGi6EQpIIW2MZMmB+Sawwn5i5jf7748SWbfeH4AaV9YVDaVUFzSZjTnvFNb1EovL9Zz3yRXbsXC5IjUsliDORsZRgZpMG4yO+UwvvzQiPuYFjBf7odbGTLqRFdw/lR1rVweiwzvbTDPqVIxGT6yGvK81ew3OGWJXzhMIikFoXnyxSpqEejTtDCUg3z0p11nHzGo3f9nQ6RFdVYNCmrdL5DB958I5xzC4l93fQUvL3SVoIXQQRYu7iTD7KcpamrVOwkHImUw9hRcdNXzGAgOz8Ju1kjW28f/uw2iZ3Mbt7tUu66kCzrIQ==;XIMbCHDbtFXJYtWPNE3cIw=="
 ---
 

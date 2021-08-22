@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Newsom paints Larry Elder as ‘right of Donald Trump’ as recall election heats up"
-    excerpt: "Gov. Gavin Newsom was joined by prominent San Francisco politicians at Manny’s in San Francisco’s Mission District on Friday."
-    publishedDateTime: 2021-08-14T06:19:00Z
-    webUrl: "https://www.eastbaytimes.com/2021/08/13/newsom-recall-election-heats-up-as-governor-and-candidates-hit-the-campaign-trail/"
-    ampWebUrl: "https://www.eastbaytimes.com/2021/08/13/newsom-recall-election-heats-up-as-governor-and-candidates-hit-the-campaign-trail/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/08/13/newsom-recall-election-heats-up-as-governor-and-candidates-hit-the-campaign-trail/amp/"
+  - title: "TV tonight: Ruby Wax revisits her time with Donald Trump"
+    excerpt: "A nasty encounter with Donald Trump and much more in this entertaining new series. Plus: The Handmaid’s Tale ends. Here’s what to watch this evening"
+    publishedDateTime: 2021-08-22T04:02:00Z
+    webUrl: "https://www.theguardian.com/tv-and-radio/2021/aug/22/tv-tonight-ruby-wax-revisits-her-time-with-donald-trump"
+    ampWebUrl: "https://amp.theguardian.com/tv-and-radio/2021/aug/22/tv-tonight-ruby-wax-revisits-her-time-with-donald-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/tv-and-radio/2021/aug/22/tv-tonight-ruby-wax-revisits-her-time-with-donald-trump"
     type: article
     provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 85
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
     images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/08/SJM-L-CAMPAIGN-0814-09-1.jpg?w=1024&#038;h=685"
-        width: 1024
-        height: 685
+      - url: "https://i.guim.co.uk/img/media/c78a9408605f7845ddde71a741616a328447b218/0_86_576_346/master/576.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2cb092b89b4594a163269520a996506c"
+        width: 600
+        height: 360
         isCached: true
 
 secured: "F7SOZIqpRl6u8DbhBwRELjK91bsR1CUPp/bUhpY8IZrcCJAS0tKlDhDVDSs97iP3KM19XMKT0/Ynm1OE5EH7Z3dZmujGjYXvHBcvF4k7GxFP905+DKG7/rvdSn5bJIPz/ok3BOSq+n4eghC4zNqlDtSq9r5jvqhLA5dy6F4aw71gfG9nhoEwz4s3cLKMnqUGPEs2un6IEVBb8BCEvT6KQEt7kXCyWDmxtfXcml/zVwGtk3IBzI6zhsEhkJvkG+gZ08fm4Xi4ck6/NL3Sc5QGTRhuKHBzrPswfGYd0ToH9fJ6+L0oPUqZyUpg/Ehi5GY3AzUBGiRvfyK2rJy3N6mfuh3o9baxC+ZMbJstWLJQ2rE=;7JA2giDJPiejz818/uflMQ=="

@@ -205,17 +205,20 @@ related:
         width: 768
         height: 438
         isCached: true
-  - title: "Trump Assails Biden for Afghanistan 'Humiliation'"
+  - title: "Trump Assails Biden for Afghanistan ‘Humiliation’"
     excerpt: "Former President Donald Trump launched on Saturday a sustained attack on President Joe Biden's handling of the retreat of U.S. forces from Afghanistan, which he called \"the greatest foreign policy humiliation\" in U."
-    publishedDateTime: 2021-08-22T02:54:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-08-21/trump-assails-biden-for-afghanistan-humiliation"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-08-21/trump-assails-biden-for-afghanistan-humiliation?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-08-21/trump-assails-biden-for-afghanistan-humiliation?context=amp"
+    publishedDateTime: 2021-08-22T08:54:00Z
+    webUrl: "https://hamodia.com/2021/08/22/trump-assails-biden-afghanistan-humiliation/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
+      name: Hamodia
+      domain: hamodia.com
     quality: 70
+    images:
+      - url: "https://images.hamodia.com/hamod-uploads/2021/08/2021-08-22T034958Z_1154748538_RC22AP9SAA4N_RTRMADP_3_USA-TRUMP-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Trump: “Joe Biden Was Going on Vacation as Afghanistan Was Going to Hell”"
     excerpt: "Former President Donald Trump spoke at an outdoor rally in Cullman Saturday night, rebuking the Biden administration on a host of issues, from the economy to Afghanistan, in a speech that lasted about 90 minutes."
     publishedDateTime: 2021-08-22T03:42:00Z

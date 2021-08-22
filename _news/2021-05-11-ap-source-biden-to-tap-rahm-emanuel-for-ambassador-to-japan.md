@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/ap-source-biden-to-tap-rahm-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-source-biden-to-tap-rahm-emanuel-for-ambassador-to-japan/2021/05/11/436b9316-b276-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -104,6 +104,22 @@ related:
       name: ABC
       domain: abcnews.go.com
     quality: 85
+  - title: "President Joe Biden Picks Rahm Emanuel As Ambassador To Japan"
+    excerpt: "Biden is nominating the former Chicago mayor to serve as his envoy to Japan, and former senior State Department official Nicholas Burns to China."
+    publishedDateTime: 2021-08-20T20:53:00Z
+    webUrl: "https://www.wbez.org/stories/president-biden-picks-former-chicago-mayor-emanuel-as-japan-ambassador/38ca2be3-9197-4747-83c1-55ee88deff7b"
+    ampWebUrl: "https://www.wbez.org/amp/stories/president-biden-picks-former-chicago-mayor-emanuel-as-japan-ambassador/38ca2be3-9197-4747-83c1-55ee88deff7b"
+    cdnAmpWebUrl: "https://www-wbez-org.cdn.ampproject.org/c/s/www.wbez.org/amp/stories/president-biden-picks-former-chicago-mayor-emanuel-as-japan-ambassador/38ca2be3-9197-4747-83c1-55ee88deff7b"
+    type: article
+    provider:
+      name: WBEZ
+      domain: wbez.org
+    quality: 75
+    images:
+      - url: "https://api.wbez.org/v2/images/3e9881c4-6739-43a3-8fba-448ed339e8b7.jpg?mode=FILL&width=1200&height=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "vd7qCj0EffNc2iPTnaKDqWHWYFvRwc6msYrg8wrC5FESlj/KpeoO8Gf3xULF+6Ht8nVvaDv6dhb2V6KSK0iw8T5vkopv/fQNWISLv37gS/OwDb2VktcKDVyUuPFEJ2XWufbqOuDUWXWLnDyEG0HL/jj3JGXJroeFmxu9Xyj+D8shVNIgdViS30AfYicOfhoKafaUYg0enbwBy7CUnmTMb9Ot/ImQI6/UX312TdagP3hJs/E1FekzGlCQeR2bIgBkWws+0TDN04YnAzAiNqFBZLvnb+APdtuuDm+C0gc7OcGxLYaCl1AJA3sXFnDVt919Tf3s85pXAKXtr0/t9Jr+f6XmZmWVoZulPK3zwpEUkb6jpcmpwe73DjydPBR31ai/i4aj37zz7saRq9tSTYIX8jSZ5DzCB87Lff6mhZhaVS0eFHSW3zc6cLU607TmpEnTwVXzuJ0rhYAEBk3llrpbQM7jp4EmFFVlXX4XLpZ51aEoIbH2Wj/ohMdkr1KumuWH+uLHkGScjADBvgQuwjPQ+Q==;YfllIS0/CJpJgIkxxeZbpA=="
 ---

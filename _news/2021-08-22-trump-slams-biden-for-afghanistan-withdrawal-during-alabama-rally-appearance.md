@@ -172,6 +172,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden to discuss Afghanistan evacuations during Sunday address to nation"
+    excerpt: "President Biden plans to address the nation Sunday afternoon regarding efforts to evacuate American citizens and other people out of Afghanistan, according to reports."
+    publishedDateTime: 2021-08-22T08:10:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CkMynleklHs/biden-to-discuss-afghanistan-evacuations-during-sunday-address-to-nation"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-to-discuss-afghanistan-evacuations-during-sunday-address-to-nation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-discuss-afghanistan-evacuations-during-sunday-address-to-nation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/16482d87-a6fa-490d-8acb-7aa840adb46b/2fdcd8fe-c77c-4d96-a303-677856797f99/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Sec. Mayorkas blames Trump, rule of law for huge spike in illegal immigration during Biden administration"
     excerpt: "Homeland Security Secretary Alejandro Mayorkas blamed former President Donald Trump’s administration for the record rise of border crossings occurring during the Biden administration."
     publishedDateTime: 2021-08-13T14:23:58Z
@@ -1110,6 +1126,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "PDubACki3MiOCX1LTm8guUyvHsF+TNmlzdPwvfKovsGAV2Bm2V/OlBuJLaEEa57amRgjTsGrlVZ9KmeEA9ZTJkj9OA7fw63N5QpYjrLJw+nAXClkPBhkyQiz47hHBmaTHJeckyVso4ZI1GUJ4m+FKtX1lzvhoyHjhGip5edNb0AgUfM9qe6UGCrpYazqOUrxSAtvvybj9Y+ZicK/tYNNBXgmlwQHb2Kwyf8OL70Sz0dNplyudCmz2LB3JRC71fwLXUXEsarrfx5D3zAl3yf/+pVhM04WlzUYpARA8DojwR4WHLkrBVwqcf/yBSFUMKGWKTrA3BaAhDIkrsu3iD25QrFFE7xr75FD7Bh8WUq/f0k=;Aaxp1aOz2No+C/dOtIh7nQ=="
+secured: "lAP9bUoeO+bLZMkeEuP2hh4tVNCnUTv0kNWSAW3gI/LFxJU90Gv3mv/MIr9bYqULi0EM0CnHw0OdleIpoUREBIfm7xqJUjbaE5T3QhiY/NK1MBc6hET/3cVyFtkQjqv9QgXZsZ1xFXNsytmmTXUOPQRoA7AndWUQr8tonvp7rbmdWT/KK6654GDGlS4f2DXoOQnDhV1ItAeMOlfaQzDSeYmyI4U4cpN4zdDLVtU4Iw86DZZiNALze6RGznLoxxBmEoVCLNzeyOA0MaQsFF37aWzOFho+2PjWUXi3Rvi+vojrlsOYtac6ZOb4K0N29lf924aSbI/ktwZzao8h6h2YufOP5YNAPjGE0vo+8UGvCQnOxmCQWUXqiJqlbeTGCJPxu5UOpHbRZPyr8FxxtAw7R58P2zwA7R+W0eCNcQssDBF6EpfYSbHPZVbrTdvWcxJqRrVsRhHvHBLHIa/XjEd0kUUvmY1C0wS5QjK8nkkxXMdowM6o2EAOG40m1FRdrqfJrWjmcUPPIwdy0zZPWLy28w==;I3/D6opm/14Khm75Lq01Yg=="
 ---
 
