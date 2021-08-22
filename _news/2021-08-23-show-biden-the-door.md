@@ -1,34 +1,24 @@
 ---
 category: news
-title: "Senate OKs Biden nominees to postal board amid mail changes"
-excerpt: "All three of President Joe Biden’s nominees to the governing board of the U.S. Postal Service have been approved by the Senate"
-publishedDateTime: 2021-05-28T20:05:00Z
-originalUrl: "https://www.washingtonpost.com/politics/senate-oks-biden-nominees-to-postal-board-amid-mail-changes/2021/05/28/71fba8a8-bff8-11eb-922a-c40c9774bc48_story.html"
-webUrl: "https://www.washingtonpost.com/politics/senate-oks-biden-nominees-to-postal-board-amid-mail-changes/2021/05/28/71fba8a8-bff8-11eb-922a-c40c9774bc48_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/senate-oks-biden-nominees-to-postal-board-amid-mail-changes/2021/05/28/71fba8a8-bff8-11eb-922a-c40c9774bc48_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/senate-oks-biden-nominees-to-postal-board-amid-mail-changes/2021/05/28/71fba8a8-bff8-11eb-922a-c40c9774bc48_story.html?outputType=amp"
+title: "Show Biden the door"
+excerpt: "With Joe Biden’s total collapse of everything domestic, why would anyone expect anything less than catastrophic failure of his foreign policy?"
+publishedDateTime: 2021-08-22T17:35:00Z
+originalUrl: "https://www.washingtontimes.com/news/2021/aug/22/letters-editor-show-biden-door/"
+webUrl: "https://www.washingtontimes.com/news/2021/aug/22/letters-editor-show-biden-door/"
+ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/22/letters-editor-show-biden-door/"
+cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/22/letters-editor-show-biden-door/"
 type: article
-quality: 125
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Washington Times
+  domain: washingtontimes.com
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NXYUTGF77AI6XERKYQGJO5F4JA.jpg&w=1440"
-    width: 1440
-    height: 960
-    isCached: true
 
 related:
   - title: "Women dominate Biden's first slate of judicial nominees"
@@ -494,6 +484,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210413&t=2&i=1558338430&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3C1GD"
         width: 715
         height: 545
+        isCached: true
+  - title: "Senate OKs Biden nominees to postal board amid mail changes"
+    excerpt: "All three of President Joe Biden’s nominees to the governing board of the U.S. Postal Service have been approved by the Senate"
+    publishedDateTime: 2021-05-28T20:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/senate-oks-biden-nominees-to-postal-board-amid-mail-changes/2021/05/28/71fba8a8-bff8-11eb-922a-c40c9774bc48_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/senate-oks-biden-nominees-to-postal-board-amid-mail-changes/2021/05/28/71fba8a8-bff8-11eb-922a-c40c9774bc48_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/senate-oks-biden-nominees-to-postal-board-amid-mail-changes/2021/05/28/71fba8a8-bff8-11eb-922a-c40c9774bc48_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NXYUTGF77AI6XERKYQGJO5F4JA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Senate confirms Biden's first judges"
     excerpt: "The Senate approved Julien Neals to the U.S. district court in New Jersey by a vote of 66-33 and Regina Rodriguez to the federal district court in Colorado by a vote of 72-28."
@@ -1178,17 +1184,6 @@ related:
         width: 650
         height: 433
         isCached: true
-  - title: "Show Biden the door"
-    excerpt: "With Joe Biden’s total collapse of everything domestic, why would anyone expect anything less than catastrophic failure of his foreign policy?"
-    publishedDateTime: 2021-08-22T17:35:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/aug/22/letters-editor-show-biden-door/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/22/letters-editor-show-biden-door/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/22/letters-editor-show-biden-door/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 55
   - title: "President Joe Biden signs the PPP Extension Act of 2021 at the White House"
     excerpt: "President Joe Biden signs the PPP Extension Act of 2021 into law in the Oval Office with Vice President Kamala Harris, left and SBA Administrator Isabel Guzman, right, looking on, at the White House in Washington, DC on Tuesday, March, 30 2021. Pool Photo ..."
     publishedDateTime: 2021-03-30T21:08:00Z
@@ -1236,6 +1231,6 @@ related:
         height: 429
         isCached: true
 
-secured: "N883xqb1KtCho9iZF8803sxqBWEZTblaz+55DidrZfFooYox7a8dJJeU0AA4oqIjTwrIa8cm8uMHTalY06qZCqDottMhOT3zVBfw5yICq4c2tfDkxSo5iDrfLQRpa6ReoBPbQOyWsOfdXvXXCsIxSGq5UyQHgREyUB1APeC633ksVzDBc0osGDeK+BmLIWVsCkntVyGYUObLegLrw+pUdF60KfumTfu2tWtpQKihn1QOlhurYNfTXNDPewrwHvZ9HlvjfNCi9V6q80JvBMRaFQuzAcIT1gduPvjJJYJMIpkpOj5mKYnGtLbohE9RttjF7B7Q2YI76z0mCm9qDtV37nvVX1xzMZa2y1pgbFozLq4KCuaVEW3qYKgbjtsBENogjT/xDa8X8tIsI59MheEWsQjUgbzyRd0wofv3LjL/zDCzewOQonKI4bb8Irkel1G3qWd9wUa/VaXQhY/lJC9JR8qovRHiU5SX+3L+wygrVWkLJrl6z/+wUIKIbN8wECLRP/1KYABVdAswdWLH1YSmHQ==;zXhoH/SdJ6OZnpEQb/e4xw=="
+secured: "eU/0uaoLvdDZQCaYlrnLJuhV8TESY0t11F9B/ZwjNJqs/qipkMbXlB+d2icDUZQIMgobslHv1CzFEnyJBU9Uf7y6fpyJeJ4fxvX5WMHC3A45LuFnaYEPkV0RaGNgQdwJ2oJjlqwSbIg0BcTAqVyDfXXyHDKd8fqjaTXE3ncG8DR3f1jp4cw16DyTTo+G1A5uQ4/K95bgjPr69SRZ707y+wsw6JhmkN62c3tYXXWJFoNqoFlQQRJUbcH/jxpmU2ICkEX1KMOmDceWlc0UhGb9KvsUVvoz2gIzk6uvT2KhkvWGBEVsf6sKjkfcnAhVliCy5ij3oS/jpPyi81ofSKiaQ5p+/qcEkidGmXRMRN3mzAM=;DoIaOfeyNu3Pw3xoq+Oosg=="
 ---
 

@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Biden: 9/11 ‘cannot explain’ keeping troops in Afghanistan"
-excerpt: "WASHINGTON — President Joe Biden says the Sept. 11 attacks “cannot explain” why U.S. troops should remain in Afghanistan 20 years later as he details the timeline for withdrawing them from America’s longest war. Support our journalism. Subscribe today."
-publishedDateTime: 2021-04-14T14:05:00Z
-originalUrl: "https://www.washingtonpost.com/world/national-security/us-to-withdraw-all-troops-from-afghanistan-by-sept-11/2021/04/13/65d4be12-9cbb-11eb-b2f5-7d2f0182750d_story.html"
-webUrl: "https://www.washingtonpost.com/world/national-security/us-to-withdraw-all-troops-from-afghanistan-by-sept-11/2021/04/13/65d4be12-9cbb-11eb-b2f5-7d2f0182750d_story.html"
-ampWebUrl: "https://www.washingtonpost.com/world/national-security/us-to-withdraw-all-troops-from-afghanistan-by-sept-11/2021/04/13/65d4be12-9cbb-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/us-to-withdraw-all-troops-from-afghanistan-by-sept-11/2021/04/13/65d4be12-9cbb-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+title: "Biden planning to give an update on situation in Afghanistan"
+excerpt: "The U.S. military is considering 'creative ways' to get Americans and others into the Kabul airport for evacuation from Afghanistan amid 'acute' security threats, Biden administration officials said,"
+publishedDateTime: 2021-08-22T17:52:00Z
+originalUrl: "https://www.abqjournal.com/2421847/biden-planning-to-give-an-update-on-situation-in-afghanistan.html"
+webUrl: "https://www.abqjournal.com/2421847/biden-planning-to-give-an-update-on-situation-in-afghanistan.html"
+ampWebUrl: "https://www.abqjournal.com/2421847/biden-planning-to-give-an-update-on-situation-in-afghanistan.html/amp"
+cdnAmpWebUrl: "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/2421847/biden-planning-to-give-an-update-on-situation-in-afghanistan.html/amp"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Albuquerque Journal
+  domain: abqjournal.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://d3el53au0d7w62.cloudfront.net/wp-content/uploads/2021/08/22/BC-US-United-States-Afghanistan-IMG-630x420.jpg"
+    width: 630
+    height: 420
     isCached: true
 
 related:
@@ -62,6 +58,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/37632e836ec1ba4bd404290e5b127ec1610c3c04/0_42_3400_2040/master/3400.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=685bece44856763791fcb15fda30c35c"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden: 9/11 ‘cannot explain’ keeping troops in Afghanistan"
+    excerpt: "WASHINGTON — President Joe Biden says the Sept. 11 attacks “cannot explain” why U.S. troops should remain in Afghanistan 20 years later as he details the timeline for withdrawing them from America’s longest war. Support our journalism. Subscribe today."
+    publishedDateTime: 2021-04-14T14:05:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/us-to-withdraw-all-troops-from-afghanistan-by-sept-11/2021/04/13/65d4be12-9cbb-11eb-b2f5-7d2f0182750d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/us-to-withdraw-all-troops-from-afghanistan-by-sept-11/2021/04/13/65d4be12-9cbb-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/us-to-withdraw-all-troops-from-afghanistan-by-sept-11/2021/04/13/65d4be12-9cbb-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Biden set to withdraw U.S. troops from Afghanistan by Sept. 11"
     excerpt: "President Joe Biden plans to withdraw the remaining 2,500 U.S. troops from Afghanistan by Sept. 11, 2021, 20 years to the day after the al Qaeda attacks that triggered America's longest war, U.S. officials said on Tuesday."
@@ -735,22 +747,6 @@ related:
         width: 512
         height: 341
         isCached: true
-  - title: "Biden planning to give an update on situation in Afghanistan"
-    excerpt: "The U.S. military is considering 'creative ways' to get Americans and others into the Kabul airport for evacuation from Afghanistan amid 'acute' security threats, Biden administration officials said,"
-    publishedDateTime: 2021-08-22T17:52:00Z
-    webUrl: "https://www.abqjournal.com/2421847/biden-planning-to-give-an-update-on-situation-in-afghanistan.html"
-    ampWebUrl: "https://www.abqjournal.com/2421847/biden-planning-to-give-an-update-on-situation-in-afghanistan.html/amp"
-    cdnAmpWebUrl: "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/2421847/biden-planning-to-give-an-update-on-situation-in-afghanistan.html/amp"
-    type: article
-    provider:
-      name: Albuquerque Journal
-      domain: abqjournal.com
-    quality: 75
-    images:
-      - url: "https://d3el53au0d7w62.cloudfront.net/wp-content/uploads/2021/08/22/BC-US-United-States-Afghanistan-IMG-630x420.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Joe Biden’s Tale of Russian Bounties in Afghanistan Collapses Completely"
     excerpt: "Biden and the Democrats knew the Russian bounties story was likely fake news, a hoax, a scam, whatever else you want to call it. But they didn’t care."
     publishedDateTime: 2021-04-15T17:46:00Z
@@ -1048,6 +1044,6 @@ related:
       domain: usnews.com
     quality: 33
 
-secured: "hA80mDnNm0nugz0IXajcqFfq6dv+eTugdWv/aT2DlAeEpHhcLynyElu4bpU1TQRQ2mMrRJHxPKOesnN8KQJCL46P1/ej+WmVs2ID2ZwFYlU40vSpJlzgxAOqOENUnMfpdHPfc9i4AnCk7MEYNmjvfaXOtu6Z4LFWpnAt8JxUhIhCTNuH1y4vxOThiXWAI9VgsiXisrH35DuX7RZ2YX33EPKV8Q2l9CDfnXnrChdim9MgHQpllAPMjtm2i8jFma/4SYLw8/qPkDuUPvwFGHo0XmaLAVH2QrEbl2BecrXQLBArFalL6tkkhzIQaWjSn2w0BNwhU+OWkYRrBIPyBA97SJWlAlJg4P/eec/ev5eEyhE=;+zEPmt89CwuFMSHDERn/nQ=="
+secured: "JU+rqDvad/+DSEo6qIAj94785MZF7QGa9Hv7jKyBM3pcCk9w7ycYP8lR/HsUorqNrc7oYi1KGAlX2VurXRvk1bpmy8u90fusxqSNlN8qwq50iIOcGIOSme8z9b9ps62NycYtWNvleQyyHXGQ3+wpzpPeHA3m+NlVOrdOLBn+Pth0RotMq6zrGSMfvlgJbrwoIQJI9sxOwFhLKtOlTgmUIbTeJ8oV50NoXh/XM5u9PBXRUqBd4puOxhYeefEkcJQblQa+Xjy8Z98qOAFHEBat0al4ree94BiLV26rSXEfo+fSFltsGDtZg3yutZmDbK7ZFtOEig+n5zHWlrdFZb4gEbFf8soE4F+5Kep884CJ3TY=;BTWyWCBVOXXu/xi1iRC7Wg=="
 ---
 

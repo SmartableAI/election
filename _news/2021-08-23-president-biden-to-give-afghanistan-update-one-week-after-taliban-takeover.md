@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden: 9/11 ‘cannot explain’ keeping troops in Afghanistan"
-excerpt: "WASHINGTON — President Joe Biden says the Sept. 11 attacks “cannot explain” why U.S. troops should remain in Afghanistan 20 years later as he details the timeline for withdrawing them from America’s longest war. Support our journalism. Subscribe today."
-publishedDateTime: 2021-04-14T14:05:00Z
-originalUrl: "https://www.washingtonpost.com/world/national-security/us-to-withdraw-all-troops-from-afghanistan-by-sept-11/2021/04/13/65d4be12-9cbb-11eb-b2f5-7d2f0182750d_story.html"
-webUrl: "https://www.washingtonpost.com/world/national-security/us-to-withdraw-all-troops-from-afghanistan-by-sept-11/2021/04/13/65d4be12-9cbb-11eb-b2f5-7d2f0182750d_story.html"
-ampWebUrl: "https://www.washingtonpost.com/world/national-security/us-to-withdraw-all-troops-from-afghanistan-by-sept-11/2021/04/13/65d4be12-9cbb-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/us-to-withdraw-all-troops-from-afghanistan-by-sept-11/2021/04/13/65d4be12-9cbb-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+title: "President Biden to give Afghanistan update one week after Taliban takeover"
+excerpt: "At the one-week mark since the Taliban took over Afghanistan, the U.S.-directed airlift from Kabul continued Sunday even as U.S. officials expressed growing concern about the threat from the Islamic State group."
+publishedDateTime: 2021-08-22T17:39:00Z
+originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-biden-afghanistan-20210822-77rbep5fxzdezpsyoomf2erute-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-biden-afghanistan-20210822-77rbep5fxzdezpsyoomf2erute-story.html"
+ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-biden-afghanistan-20210822-77rbep5fxzdezpsyoomf2erute-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-biden-afghanistan-20210822-77rbep5fxzdezpsyoomf2erute-story.html?outputType=amp"
 type: article
-quality: 125
+quality: 123
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://www.chicagotribune.com/resizer/bgDThxNzBx4w99MDuFgMWwhix3E=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JV7YK2PX6CWK7ZFUQJLAJN5SZA.aspx"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -62,6 +62,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/37632e836ec1ba4bd404290e5b127ec1610c3c04/0_42_3400_2040/master/3400.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=685bece44856763791fcb15fda30c35c"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden: 9/11 ‘cannot explain’ keeping troops in Afghanistan"
+    excerpt: "WASHINGTON — President Joe Biden says the Sept. 11 attacks “cannot explain” why U.S. troops should remain in Afghanistan 20 years later as he details the timeline for withdrawing them from America’s longest war. Support our journalism. Subscribe today."
+    publishedDateTime: 2021-04-14T14:05:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/us-to-withdraw-all-troops-from-afghanistan-by-sept-11/2021/04/13/65d4be12-9cbb-11eb-b2f5-7d2f0182750d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/us-to-withdraw-all-troops-from-afghanistan-by-sept-11/2021/04/13/65d4be12-9cbb-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/us-to-withdraw-all-troops-from-afghanistan-by-sept-11/2021/04/13/65d4be12-9cbb-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Biden set to withdraw U.S. troops from Afghanistan by Sept. 11"
     excerpt: "President Joe Biden plans to withdraw the remaining 2,500 U.S. troops from Afghanistan by Sept. 11, 2021, 20 years to the day after the al Qaeda attacks that triggered America's longest war, U.S. officials said on Tuesday."
@@ -238,22 +254,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1871243/afghan-women.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "President Biden to give Afghanistan update one week after Taliban takeover"
-    excerpt: "At the one-week mark since the Taliban took over Afghanistan, the U.S.-directed airlift from Kabul continued Sunday even as U.S. officials expressed growing concern about the threat from the Islamic State group."
-    publishedDateTime: 2021-08-22T17:39:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-biden-afghanistan-20210822-77rbep5fxzdezpsyoomf2erute-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-biden-afghanistan-20210822-77rbep5fxzdezpsyoomf2erute-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-biden-afghanistan-20210822-77rbep5fxzdezpsyoomf2erute-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 123
-    images:
-      - url: "https://www.chicagotribune.com/resizer/bgDThxNzBx4w99MDuFgMWwhix3E=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JV7YK2PX6CWK7ZFUQJLAJN5SZA.aspx"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Joe Biden Won't Let 9/11 Attacks Justify U.S. Continuing Afghanistan Deployment"
     excerpt: "President Joe Biden is scheduled to announce a full withdrawal of troops from Afghanistan by September 11, a decision he says will not be influenced by the nearly 20-year-old terrorist attacks. Excerpts released by the White House ahead of Biden's ..."
@@ -1048,6 +1048,6 @@ related:
       domain: usnews.com
     quality: 33
 
-secured: "hA80mDnNm0nugz0IXajcqFfq6dv+eTugdWv/aT2DlAeEpHhcLynyElu4bpU1TQRQ2mMrRJHxPKOesnN8KQJCL46P1/ej+WmVs2ID2ZwFYlU40vSpJlzgxAOqOENUnMfpdHPfc9i4AnCk7MEYNmjvfaXOtu6Z4LFWpnAt8JxUhIhCTNuH1y4vxOThiXWAI9VgsiXisrH35DuX7RZ2YX33EPKV8Q2l9CDfnXnrChdim9MgHQpllAPMjtm2i8jFma/4SYLw8/qPkDuUPvwFGHo0XmaLAVH2QrEbl2BecrXQLBArFalL6tkkhzIQaWjSn2w0BNwhU+OWkYRrBIPyBA97SJWlAlJg4P/eec/ev5eEyhE=;+zEPmt89CwuFMSHDERn/nQ=="
+secured: "vrT91OOSpN4ip/BN/xPC6FPooWvOJY7YLwAKzKOGQzmNV7YEXM0aljRHILP8rTcafpAQ+Jp/U3JqMPnNJOwQ4YZ2ahn9e3ekILDikaa+HwhLfxxyVsI3bqplSbXMce2RULpTsULrJ7/g0G07spcD8g9E0XVCWlVvZI3qdQYm7abdqp2j6aMBR70I/YKGrBPJSJwShxU0Po9oyjYeIbroyNt5I4WYsKgX2wjHNhz9GVmsyQUOARqOQ5KBlIjUsAH4zwNEB1jaZpd/QFu/NuI+ig5+MhrMYKCrgfqqaHbq8XRIJX4i1R6t2MlaaudAcRTwCCOLhKa89Y/F/NGhdzRM8IWiOc8bR1+zxdqLGdLJkQ8=;GKcZJQzVPlAntGyAcRWfrQ=="
 ---
 

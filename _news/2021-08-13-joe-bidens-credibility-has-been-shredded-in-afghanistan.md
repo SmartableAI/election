@@ -247,6 +247,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "President Biden to give Afghanistan update one week after Taliban takeover"
+    excerpt: "At the one-week mark since the Taliban took over Afghanistan, the U.S.-directed airlift from Kabul continued Sunday even as U.S. officials expressed growing concern about the threat from the Islamic State group."
+    publishedDateTime: 2021-08-22T17:39:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-biden-afghanistan-20210822-77rbep5fxzdezpsyoomf2erute-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-biden-afghanistan-20210822-77rbep5fxzdezpsyoomf2erute-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-biden-afghanistan-20210822-77rbep5fxzdezpsyoomf2erute-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 123
+    images:
+      - url: "https://www.chicagotribune.com/resizer/bgDThxNzBx4w99MDuFgMWwhix3E=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JV7YK2PX6CWK7ZFUQJLAJN5SZA.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Joe Biden Won't Let 9/11 Attacks Justify U.S. Continuing Afghanistan Deployment"
     excerpt: "President Joe Biden is scheduled to announce a full withdrawal of troops from Afghanistan by September 11, a decision he says will not be influenced by the nearly 20-year-old terrorist attacks. Excerpts released by the White House ahead of Biden's ..."
     publishedDateTime: 2021-04-14T16:25:00Z
@@ -717,6 +733,22 @@ related:
       - url: "https://cdn.s3-media.wbal.com/Media/2021/08/21/2d13315a-2636-4eca-aa64-85f6a0444dc6/original.jpg"
         width: 512
         height: 341
+        isCached: true
+  - title: "Biden planning to give an update on situation in Afghanistan"
+    excerpt: "The U.S. military is considering 'creative ways' to get Americans and others into the Kabul airport for evacuation from Afghanistan amid 'acute' security threats, Biden administration officials said,"
+    publishedDateTime: 2021-08-22T17:52:00Z
+    webUrl: "https://www.abqjournal.com/2421847/biden-planning-to-give-an-update-on-situation-in-afghanistan.html"
+    ampWebUrl: "https://www.abqjournal.com/2421847/biden-planning-to-give-an-update-on-situation-in-afghanistan.html/amp"
+    cdnAmpWebUrl: "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/2421847/biden-planning-to-give-an-update-on-situation-in-afghanistan.html/amp"
+    type: article
+    provider:
+      name: Albuquerque Journal
+      domain: abqjournal.com
+    quality: 75
+    images:
+      - url: "https://d3el53au0d7w62.cloudfront.net/wp-content/uploads/2021/08/22/BC-US-United-States-Afghanistan-IMG-630x420.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "Joe Biden’s Tale of Russian Bounties in Afghanistan Collapses Completely"
     excerpt: "Biden and the Democrats knew the Russian bounties story was likely fake news, a hoax, a scam, whatever else you want to call it. But they didn’t care."

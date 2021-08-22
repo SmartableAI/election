@@ -43,6 +43,22 @@ related:
         width: 3000
         height: 1985
         isCached: true
+  - title: "Donald Trump’s Latest Money-Making Schemes"
+    excerpt: "Former president Donald Trump is always running several cash-generating schemes. It’s as essential to his being as the uncanny swoop of orange hair. Plus, as Bloomberg notes, Th"
+    publishedDateTime: 2021-08-22T17:00:00Z
+    webUrl: "https://nymag.com/intelligencer/article/donald-trump-latest-money-making-schemes.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/article/donald-trump-latest-money-making-schemes.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/donald-trump-latest-money-making-schemes.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/1b8/ba7/c2eceb483d86eae00a02fa082370fa12c9-trump-money-making.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Dl1W/tM2PlofchPrzUsQ/SA8oaaDFtK6eBaSMgV7iSktjJRcNeNk7XRW2mDE/D0huh8h2QMXHpcgMdQEPSQXKRtr9JUcqM6lg47ubggFKWgT6QPgZ6dtBiRoPlHrg/nOObZTjFiI2tm86vIdHOocRdoV9qOJ+eBYWgpuDum/oVbYMMPorc+R9qSeYOxRu6nfRGALm9T+Sc6CpyBFhEos8mC4DZayoyguCDEdslQU3ADYpozDE0QAhHrJg0Nj+m1AiIQsYc/WoOBZ0QJDupy/vxE838Nkt0PpyvNhZGCNV8z3V7D9og+CPcztZRwmaqWHZsapNq5oeULqcFroEZPNfs45q+Yt+Ruma7um9Ofpwig=;f4Lx5aeRy8MWl+w96uRY9g=="
 ---
