@@ -1,30 +1,24 @@
 ---
 category: news
 title: "The Latest: Biden briefed on the Kabul situation, IS threat"
-excerpt: "The White House says President Joe Biden has been briefed by members of his national security team on the evolving situation in Afghanistan. Biden and his team met on Saturday in the White House Situation Room to discuss the security situation and counterterrorism operations,"
-publishedDateTime: 2021-08-21T23:57:00Z
-originalUrl: "https://www.myjournalcourier.com/news/article/The-Latest-Bahrain-says-allows-airport-use-for-16402260.php"
-webUrl: "https://www.myjournalcourier.com/news/article/The-Latest-Bahrain-says-allows-airport-use-for-16402260.php"
-ampWebUrl: "https://www.myjournalcourier.com/news/amp/The-Latest-Bahrain-says-allows-airport-use-for-16402260.php"
-cdnAmpWebUrl: "https://www-myjournalcourier-com.cdn.ampproject.org/c/s/www.myjournalcourier.com/news/amp/The-Latest-Bahrain-says-allows-airport-use-for-16402260.php"
+excerpt: "A military aircraft carrying 15 Romanian citizens and four Bulgarians who were initially evacuated from Kabul to Islamabad has landed safely in Romania."
+publishedDateTime: 2021-08-21T23:37:00Z
+originalUrl: "https://www.kansascity.com/news/article253654748.html"
+webUrl: "https://www.kansascity.com/news/article253654748.html"
+ampWebUrl: "https://amp.kansascity.com/news/article253654748.html"
+cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/article253654748.html"
 type: article
-quality: 75
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Journal-Courier
-  domain: myjournalcourier.com
+  name: Kansas City Star
+  domain: kansascity.com
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
-    isCached: true
 
 related:
   - title: "The Latest: Biden says his party 'still supports Israel'"
@@ -165,6 +159,6 @@ related:
         height: 336
         isCached: true
 
-secured: "VD+57GC8pPZgFbND3gJR7BjBiwU2z6NHKE7EiW2uAsAonUUq8X+okPQl5C0WyZ077cii8n1VOCXaSD9TK1XSxHEf6PZTNEAi2A+KNBZ6z6EALTpyROSOugSvG7/nnXkc8/AH9DqnjfWJYiLQeBW7HK8Y5btkAQ2uHGu+aBpDZS7Tmi/+IkmUv1lIfeXAiuK4inIBxf2lSEfu2F5f47tYJ18wZaWI96gjN+KCewVgqRHUEpdR3DgV6noimXmeoZtEQKPlEwGBdYY6qo9e6j8Cx+WBG7RfU35XpnsyYfevYXd/hMpWOPtvJxpfGANwoRBfALPQ9InjpcHehaMhj6GhqXgGugDnk+mCwlvjFG26A14=;1xeUXdAJcTuQiqVLWmy+3g=="
+secured: "3AOZAa8/RaMIKWcI2m5iUtYH/WrnG9mvgRHr3ZjLm5A+snizhVvb7s3wOkSRz5EfqgsduHl4/EMOwcJrHoPDdAeD2CcSyiW6dwk0zCzYIz0aRNayedxR508oyVR8nBYMThXvfcuSQrzaJFVllY2yvWbJg/HmHK4rCIg89zQKM7Huv86dT2SyD5Ha1ZLktzhGporpLqYPJN8c+Jpx/ipOwuA8UyxPVkiM8WKYUfbQfmsH9MqLb/lOgxd09VFgutoVLaYb9fa2pr3GHrjZNvzfKbGiSrogoFY6dw1bdADXzndi3/mA6iN/XWrsKkeqGm2TZknbsTSGqCummZmzwNOZnKj1OfWd1js1WHVBZGTotlLaCqT0OrelavNpYs50GRUVCVzMok7xMjrU45gXgQyNjEI4NX2R85+NIvo44igxTza92J1Va8G1/JyUNGmvOFfZjNf7m2d+IiUD+w5hAAmN2tXXXnP0KAzInFNbS7na2sYFH8andVtjPTKeYo6PvWUomkSQ1mxxhC/YHuqAEcxUGg==;mBqvdz9xMj2hoXcON6YtPA=="
 ---
 

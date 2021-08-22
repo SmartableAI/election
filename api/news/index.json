@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-22-kamala-harris-lands-in-singapore-for-asia-visit-that-will-include-vietnam-stop.md",
+      "title": "Kamala Harris lands in Singapore for Asia visit that will include Vietnam stop",
+      "excerpt": "Vice President Kamala Harris landed in Singapore on Sunday as she begins a visit to Southeast Asia that will also include a stop in Vietnam.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ghcpiNFzxLQ/kamala-harris-singapore-asia-vietnam",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ghcpiNFzxLQ/kamala-harris-singapore-asia-vietnam",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 261,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/16482d87-a6fa-490d-8acb-7aa840adb46b/2fdcd8fe-c77c-4d96-a303-677856797f99/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-singapore-asia-vietnam.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-singapore-asia-vietnam.amp",
+      "publishedDateTime": "2021-08-21T21:14:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-08-22-more-than-half-of-kinzingers-gop-primary-challengers-believe-trump-won-the-2020-election.md",
       "title": "More than half of Kinzinger's GOP primary challengers believe Trump won the 2020 election",
       "excerpt": "Even though allegations of widespread fraud in the 2020 presidential election haven't been substantiated, four conservatives challenging Republican U.S. Rep. Adam Kinzinger for his congressional seat insist Donald Trump actually won reelection.",
@@ -169,7 +226,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 160,
+      "heat": 180,
       "tags": null,
       "images": [
         {
@@ -223,7 +280,7 @@
       "originalUrl": "https://www.indystar.com/story/news/politics/2021/08/21/mike-pence-aide-blames-stephen-miller-wrecking-afghan-visa-system/8228495002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -400,63 +457,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-21-harris-to-campaign-for-gov-gavin-newsom-in-california-after-vietnam-singapore-trip.md",
-      "title": "Harris to campaign for Gov. Gavin Newsom in California after Vietnam, Singapore trip",
-      "excerpt": "Vice President Kamala Harris will be making a campaign pit-stop in California next week to support Gov. Gavin Newsom in his race to overcome the recall election.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ty3BtETzYUg/harris-to-campaign-for-newsom-in-california-after-vietnam-singapore-trip",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ty3BtETzYUg/harris-to-campaign-for-newsom-in-california-after-vietnam-singapore-trip",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 238,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8495bcff-9b88-4652-a881-c8b9c0e8662d/db7b172a-bb2e-43bc-b3a6-5ac1f6dcf567/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-to-campaign-for-newsom-in-california-after-vietnam-singapore-trip.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-to-campaign-for-newsom-in-california-after-vietnam-singapore-trip.amp",
-      "publishedDateTime": "2021-08-20T18:10:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-08-21-joe-biden-to-americans-in-afghanistan-we-will-get-you-home.md",
       "title": "Joe Biden to Americans in Afghanistan: 'We will get you home'",
       "excerpt": "US President Joe Biden has again defended a chaotic evacuation effort out of Kabul as desperation grows for those still stranded in Afghanistan. \"This is one of the largest, most difficult airlifts in history,",
@@ -465,7 +465,7 @@
       "originalUrl": "https://www.bbc.com/news/world-us-canada-58285923",
       "featuredContent": null,
       "highlight": null,
-      "heat": 445,
+      "heat": 485,
       "tags": null,
       "images": [
         {

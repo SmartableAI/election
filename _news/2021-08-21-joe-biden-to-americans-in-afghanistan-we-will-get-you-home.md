@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-58285923.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-58285923.amp"
 type: article
 quality: 125
-heat: 445
+heat: 485
 published: true
 
 provider:
@@ -131,6 +131,22 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 95
+  - title: "Trump blasts Afghanistan withdrawal at Alabama rally, Biden’s ‘display of gross incompetence’"
+    excerpt: "Former President Donald Trump railed against the Biden administration’s withdrawal from Afghanistan Saturday, calling the still-unfolding exit “the greatest foreign policy humiliation in the history of the United States of America."
+    publishedDateTime: 2021-08-22T05:20:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/aug/21/trump-blasts-afghanistan-withdrawal-at-alabama-ral/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/21/trump-blasts-afghanistan-withdrawal-at-alabama-ral/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/21/trump-blasts-afghanistan-withdrawal-at-alabama-ral/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 89
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/08/11/Trump_Financial_Records_86507.jpg-5702b_c0-19-6000-3519_s1200x700.jpg?c2a96193d349ff5f5f539e6f5481aa2fe17c461c"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Biden pledges to Americans in Kabul: 'We will get you home'"
     excerpt: "President Joe Biden is pledging to Americans still trapped in Afghanistan: “We will get you home.” Biden also said Friday the United States is committed to evacuating all Afghans who assisted the war effort — a potentially vast expansion of the administration's commitments on the airlift so far,"
     publishedDateTime: 2021-08-20T23:57:00Z
@@ -193,6 +209,17 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Trump Assails Biden for Afghanistan 'Humiliation'"
+    excerpt: "Former President Donald Trump launched on Saturday a sustained attack on President Joe Biden's handling of the retreat of U.S. forces from Afghanistan, which he called \"the greatest foreign policy humiliation\" in U."
+    publishedDateTime: 2021-08-22T02:54:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-08-21/trump-assails-biden-for-afghanistan-humiliation"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-08-21/trump-assails-biden-for-afghanistan-humiliation?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-08-21/trump-assails-biden-for-afghanistan-humiliation?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Afghanistan: Joe Biden said chaos was 'inevitable'"
     excerpt: "In an exclusive interview with ABC News' George Stephanopoulos, Joe Biden said nobody could have anticipated the speed of the Taliban's takeover. The US president has been criticised for his handling of the withdrawal."
     publishedDateTime: 2021-08-19T00:44:00Z

@@ -8,7 +8,7 @@ webUrl: "https://www.newsweek.com/joe-biden-afghanistan-criticism-donald-trump-r
 ampWebUrl: "https://www.newsweek.com/joe-biden-afghanistan-criticism-donald-trump-rally-focus-1621336?amp=1"
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-afghanistan-criticism-donald-trump-rally-focus-1621336?amp=1"
 type: article
-quality: 140
+quality: 150
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://d.newsweek.com/en/full/1875416/donald-trump-arizona-rally.jpg"

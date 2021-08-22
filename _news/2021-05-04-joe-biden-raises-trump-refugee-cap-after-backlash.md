@@ -48,6 +48,22 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Joe Biden Afghanistan Criticism Set to Be Donald Trump Rally Focus"
+    excerpt: "The former president has been vocal in his criticism of his successor amid the unfolding events in Afghanistan."
+    publishedDateTime: 2021-08-20T09:02:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-afghanistan-criticism-donald-trump-rally-focus-1621336"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-afghanistan-criticism-donald-trump-rally-focus-1621336?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-afghanistan-criticism-donald-trump-rally-focus-1621336?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 150
+    images:
+      - url: "https://d.newsweek.com/en/full/1875416/donald-trump-arizona-rally.jpg"
+        width: 2500
+        height: 1665
+        isCached: true
   - title: "Joe Biden's Approval Rating Slumps Again, Still Higher Than Donald Trump's"
     excerpt: "President Joe Biden's approval rating has slumped again in recent days as he has faced criticism for his handling of the situation in Afghanistan and defended his administration's position. The president's approval rating on August 18 stood at 49.3 percent ..."
     publishedDateTime: 2021-08-19T15:35:00Z
@@ -479,22 +495,6 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/4F7B/production/_119774302_gettyimages-1234112014.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Joe Biden Afghanistan Criticism Set to Be Donald Trump Rally Focus"
-    excerpt: "The former president has been vocal in his criticism of his successor amid the unfolding events in Afghanistan."
-    publishedDateTime: 2021-08-20T09:02:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-afghanistan-criticism-donald-trump-rally-focus-1621336"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-afghanistan-criticism-donald-trump-rally-focus-1621336?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-afghanistan-criticism-donald-trump-rally-focus-1621336?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 140
-    images:
-      - url: "https://d.newsweek.com/en/full/1875416/donald-trump-arizona-rally.jpg"
-        width: 2500
-        height: 1665
         isCached: true
   - title: "Poll: More voters say Biden, not Trump, is responsible for border crisis"
     excerpt: "while 28 percent said former President Trump Donald Trump Biden should look to 'Ostpolitik' to negotiate with autocrats The Memo: Biden's bet on taxes Why some Republicans think vaccine passports ..."

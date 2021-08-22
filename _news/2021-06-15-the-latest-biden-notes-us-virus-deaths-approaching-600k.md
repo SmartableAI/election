@@ -153,21 +153,16 @@ related:
         height: 336
         isCached: true
   - title: "The Latest: Biden briefed on the Kabul situation, IS threat"
-    excerpt: "The White House says President Joe Biden has been briefed by members of his national security team on the evolving situation in Afghanistan. Biden and his team met on Saturday in the White House Situation Room to discuss the security situation and counterterrorism operations,"
-    publishedDateTime: 2021-08-21T23:57:00Z
-    webUrl: "https://www.myjournalcourier.com/news/article/The-Latest-Bahrain-says-allows-airport-use-for-16402260.php"
-    ampWebUrl: "https://www.myjournalcourier.com/news/amp/The-Latest-Bahrain-says-allows-airport-use-for-16402260.php"
-    cdnAmpWebUrl: "https://www-myjournalcourier-com.cdn.ampproject.org/c/s/www.myjournalcourier.com/news/amp/The-Latest-Bahrain-says-allows-airport-use-for-16402260.php"
+    excerpt: "A military aircraft carrying 15 Romanian citizens and four Bulgarians who were initially evacuated from Kabul to Islamabad has landed safely in Romania."
+    publishedDateTime: 2021-08-21T23:37:00Z
+    webUrl: "https://www.kansascity.com/news/article253654748.html"
+    ampWebUrl: "https://amp.kansascity.com/news/article253654748.html"
+    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/article253654748.html"
     type: article
     provider:
-      name: Journal-Courier
-      domain: myjournalcourier.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 55
 
 secured: "2821vfVwhj4iEobWmrx68N6XzQzkW+aRi0GFKsbe55z37MKOBAKcGn9PwKdjXdEAZwfgFd8G05qv//0xaYD+9wQNnkz7uoxyVFrkhEsKfvUsE79OTAt8gJcP9NeBtdn2U5rKWQljv8x71C4OuazhnhDaFCtgwe6pSIrmI1yyD4iqtIJrJ2BVaUL5TzgYj1N2EXEKGZ7WnGaWn0RwmCib5kK+gqVZSwN38+3ncRDk2Je9AyFNehwP3q/kz/go8LjoGLw+gNPeizqfVGMOB5ObN13wGEVoYHoyHIYWnsEMTHPKI0lFSKUDV38KZbWIbBTfb4FK+MzRhIUDLUE9XseYq6ReBn802GrLD/L+m0Qs8fA=;q98VOf9xWl3OAViVTCZZ6w=="
 ---

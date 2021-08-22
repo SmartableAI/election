@@ -1038,6 +1038,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Jesse Watters: The crisis in Afghanistan could cost Joe Biden the presidency"
+    excerpt: "Jesse Watters slammed the Biden administration Saturday on 'Watters' World' for leaving thousands of Americans stranded in Afghanistan, leading to what he called a hostage crisis."
+    publishedDateTime: 2021-08-22T01:56:00Z
+    webUrl: "https://www.foxnews.com/media/jesse-watters-the-crisis-in-afghanistan-could-cost-joe-biden-the-presidency"
+    ampWebUrl: "https://www.foxnews.com/media/jesse-watters-the-crisis-in-afghanistan-could-cost-joe-biden-the-presidency.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/jesse-watters-the-crisis-in-afghanistan-could-cost-joe-biden-the-presidency.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Sen. Ernst: 'Joe Biden is a disgrace,' has not 'fully thanked' US troops in Afghanistan"
     excerpt: "Iowa Senator Joni Ernst knocked Joe Biden on Thursday, calling the president a 'disgrace' for not 'fully thanking' U.S. troops in Afghanistan."
     publishedDateTime: 2021-08-19T15:18:00Z

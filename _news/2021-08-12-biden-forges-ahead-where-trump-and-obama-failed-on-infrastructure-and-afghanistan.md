@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/12/politics/joe-biden-donald-trump-b
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/12/politics/joe-biden-donald-trump-barack-obama-afghanistan-infrastructure/index.html"
 type: article
 quality: 185
-heat: 965
+heat: 985
 published: true
 
 provider:
@@ -558,6 +558,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210502114359-jake-sullivan-0204-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Joy Reid critiques Mike Pence writing Biden showed ‘weakness’ on Afghanistan withdrawal"
+    excerpt: "Mike Pence writing that President Biden showed ‘weakness’ on his Afghanistan withdrawal plan is critiqued by Joy Reid in this edition of ‘The Absolute Worst.’"
+    publishedDateTime: 2021-08-19T06:15:00Z
+    webUrl: "https://www.msnbc.com/the-reidout/watch/mike-pence-writing-biden-showed-weakness-on-afghanistan-withdrawal-critiqued-by-joy-reid-119002693670"
+    ampWebUrl: "https://www.msnbc.com/msnbc/amp-video/mmvo119002693670"
+    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo119002693670"
+    type: article
+    provider:
+      name: MSNBC
+      domain: msnbc.com
+    quality: 142
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_08/1629336795625_n_reidout_penceabsoluteworst_210818_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Joe Biden is taking a calculated risk in Afghanistan"
     excerpt: "While the US is leaving the war, the people of Afghanistan can't. The President's decision could hasten the Taliban's toppling of Afghanistan's tenuous democracy, ushering in a new fundamentalist dark age."

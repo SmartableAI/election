@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris lands in Singapore for Asia visit that will include Vietnam stop"
+    excerpt: "Vice President Kamala Harris landed in Singapore on Sunday as she begins a visit to Southeast Asia that will also include a stop in Vietnam."
+    publishedDateTime: 2021-08-22T04:14:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ghcpiNFzxLQ/kamala-harris-singapore-asia-vietnam"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-singapore-asia-vietnam.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-singapore-asia-vietnam.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/16482d87-a6fa-490d-8acb-7aa840adb46b/2fdcd8fe-c77c-4d96-a303-677856797f99/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Harris to campaign for Gov. Gavin Newsom in California after Vietnam, Singapore trip"
     excerpt: "Vice President Kamala Harris will be making a campaign pit-stop in California next week to support Gov. Gavin Newsom in his race to overcome the recall election."
     publishedDateTime: 2021-08-21T01:10:57Z

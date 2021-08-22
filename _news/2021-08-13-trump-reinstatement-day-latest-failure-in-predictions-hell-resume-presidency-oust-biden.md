@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/trump-reinstatement-day-latest-failure-pred
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152?amp=1"
 type: article
 quality: 140
-heat: 1260
+heat: 1280
 published: true
 
 provider:
@@ -489,6 +489,20 @@ related:
       - url: "https://media.npr.org/assets/img/2021/08/17/gettyimages-1234719791-93ec2f448f98f21eb9f6f39f3c3ccf972eb92ec0.jpg?s=6"
         width: 948
         height: 710
+        isCached: true
+  - title: "Mike Pence Blasts Biden For Breaking Trump’s Deal With The Taliban That Could’ve Prevented Afghan Crisis"
+    excerpt: "Former Vice President Mike Pence adds on the list of leaders reported to condemn President Joe Biden for his decision on pulling the United States' military forces in Afghanistan, pointing out it broke former President Donald Trump's deal with the Taliban ..."
+    publishedDateTime: 2021-08-20T22:32:00Z
+    webUrl: "https://www.christianitydaily.com/articles/12986/20210820/mike-pence-blasts-biden-for-breaking-trump-s-deal-with-the-taliban-that-could-ve-prevented-afghan-crisis.htm"
+    type: article
+    provider:
+      name: christianitydaily.com
+      domain: christianitydaily.com
+    quality: 68
+    images:
+      - url: "https://cdn.christianitydaily.com/data/images/full/8559/former-vp-mike-pence.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "A third of Native Americans aren’t registered to vote. Can President Biden change that?"
     excerpt: "Native American voters could play a major role in deciding the next presidential election in key battleground states."
