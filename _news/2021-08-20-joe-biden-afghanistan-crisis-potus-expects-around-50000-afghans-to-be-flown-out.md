@@ -968,6 +968,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden to Speak Sunday on Afghanistan, Hurricane Henri Response"
+    excerpt: "U.S. President Joe Biden on Sunday will provide an update on the administration's response to Hurricane Henri and the evacuation of American citizens and refugees from Afghanistan, the White House said on Saturday."
+    publishedDateTime: 2021-08-22T01:13:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-08-21/biden-to-speak-sunday-on-afghanistan-hurricane-henri-response"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
   - title: "Biden to Marshal International Community on Rights in Afghanistan -Adviser"
     excerpt: "U.S. National Security Adviser Jake Sullivan on Monday said that President Joe Biden is prepared to marshal the international community on human rights in Afghanistan, where the Taliban is seizing power."
     publishedDateTime: 2021-08-16T11:47:00Z

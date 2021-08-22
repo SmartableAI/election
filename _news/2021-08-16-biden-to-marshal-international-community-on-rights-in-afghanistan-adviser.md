@@ -980,6 +980,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Biden to Speak Sunday on Afghanistan, Hurricane Henri Response"
+    excerpt: "U.S. President Joe Biden on Sunday will provide an update on the administration's response to Hurricane Henri and the evacuation of American citizens and refugees from Afghanistan, the White House said on Saturday."
+    publishedDateTime: 2021-08-22T01:13:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-08-21/biden-to-speak-sunday-on-afghanistan-hurricane-henri-response"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "gSHp61Yvdsa/80YxYGHsDMr6c29yrg3X6bzLHLeEzYD8ctzgU3AXrxHZnnfLurLXltG/Wx+4fYjBCIaO09Z4gy6zusYOPg3ftkbgHiJoxcoL3o0jafX07ScliqhxzvXrZRvP1xOiTtkSJ0xNb+ioSOc3tf3iukc64O47XIOIXGZcGvvo1ClR0ZtJLdOweFjwQoniR6e1vEWnHlUtuWqZeEof2fYMyTh3nI42GPWl41A2C9Fs19usSxkANlKap9MbjCTp/ro77unho1uLkVEY8apsJq9IN6pEZxrCgY454PrKdBP2HdtdyEMrslh6o0Jrq9rLhk2gk5bekgCe/1sL82B4zBZi5voZYJQlpfLlrmVaRbBRoFNA+9jk9jCv+Kci+WASzGV/u4ZeTSxc/BKlZYI0ddEx443jKS8OFfkTzRyn5x4+7+7pabROjZHX6DK5Xw6Q/dxx/KrtOX0JE4XeMFwxoeqEM70UWXQ5E0mcZo+uZli+bQ9g/NqXzG/23/nGmDgWVBSI75k2v8FiD1Q6/w==;y9xdMvaQcdziLQ5w4VOaLA=="
 ---

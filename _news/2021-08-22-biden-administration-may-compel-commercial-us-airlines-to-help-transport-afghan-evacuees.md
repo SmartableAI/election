@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden focuses on 'getting this job done' as the chaotic evacuation from Afghanistan grows desperate"
-excerpt: "President Joe Biden will deliver remarks on Friday about the ongoing US military evacuations of American citizens and vulnerable Afghans as chaos ensues at and around Kabul's international airport.\n    \n"
-publishedDateTime: 2021-08-21T00:54:02Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OiF3OcupmTA/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OiF3OcupmTA/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/08/20/politics/biden-afghanistan-evacuation/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/20/politics/biden-afghanistan-evacuation/index.html"
+title: "Biden administration may compel commercial US airlines to help transport Afghan evacuees "
+excerpt: "The Biden administration could potentially compel US airlines to help with transporting tens of thousands of Afghan evacuees as the US military struggles to manage the influx of people following the Taliban's takeover of Afghanistan, according to a senior administration official.\n    \n"
+publishedDateTime: 2021-08-22T01:33:43Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t-imtUf8KIg/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t-imtUf8KIg/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/08/21/politics/biden-airlines-afghanistan-evacuation/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/21/politics/biden-airlines-afghanistan-evacuation/index.html"
 type: article
-quality: 161
+quality: 166
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210820140340-04-biden-presser-afghanistan-0820-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210821191758-biden-airlines-afghanistan-evacuation-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -143,22 +143,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration may compel commercial US airlines to help transport Afghan evacuees "
-    excerpt: "The Biden administration could potentially compel US airlines to help with transporting tens of thousands of Afghan evacuees as the US military struggles to manage the influx of people following the Taliban's takeover of Afghanistan, according to a senior administration official.\n    \n"
-    publishedDateTime: 2021-08-22T01:33:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t-imtUf8KIg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/21/politics/biden-airlines-afghanistan-evacuation/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/21/politics/biden-airlines-afghanistan-evacuation/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210821191758-biden-airlines-afghanistan-evacuation-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden struggles to find a permanent FDA chief as agency nears approval of Covid-19 vaccine"
     excerpt: "The US Food and Drug Administration is on the cusp of approving the nation's first Covid-19 vaccine without a permanent leader at the helm, and a nomination doesn't appear to be in sight.\n    \n"
     publishedDateTime: 2021-08-11T17:19:56Z
@@ -172,6 +156,22 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210810154230-07-biden-harris-remarks-0810-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden focuses on 'getting this job done' as the chaotic evacuation from Afghanistan grows desperate"
+    excerpt: "President Joe Biden will deliver remarks on Friday about the ongoing US military evacuations of American citizens and vulnerable Afghans as chaos ensues at and around Kabul's international airport.\n    \n"
+    publishedDateTime: 2021-08-21T00:54:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OiF3OcupmTA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/20/politics/biden-afghanistan-evacuation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/20/politics/biden-afghanistan-evacuation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210820140340-04-biden-presser-afghanistan-0820-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -224,6 +224,6 @@ related:
         height: 2000
         isCached: true
 
-secured: "WZGUG95HwNgQ/aJZzlcB+9skIs1+dKH6P5onhrDpvoy1aT/KH6RR6MQOsU3A831P22nF+2yOMG07ZXLW4RGeRAu33c9AhF8RpBAkkKEml71oDhe2KxJHopmO/m/KjV11Vr1ON3piP0tIwTOdl6D+xhjMMJD9CKCQJEyzfmjON3JJuaTX1lov/9N59q5MMyqvSFS9XvTOghgOh5mFCqqNxaUit/WJA8jfW1M5Vl3i5PdSCGAF9vwcE0HflS3fPQXU1dVd2nfdK4N9SbZ+dMHA1LyrZghMgpcgPXca2PBkuSTlougdd79RhbB5M5SY2SqoKW90mrL508d0SjZ2JuucmGPmh042+R0EKg0LYYEV9wo=;oQMhpxvsZs4GpbyaQwqHww=="
+secured: "8gP+TZoxQY4uVGEhBd1GOu+IAAR28EEx4ziAgWtYe+BYnrzVVtkBXr0blkQBLE5+pgjUymrDCYQe8kWRAOWgpRS5mFVqFtLwHj6Y7WPRa48eRMaRXE1dDtwjZp8l+sAI3JGJshIxcFqsZ/d+BqNsVqe4rqnK4KsZT2u4DHzNUVeRm4koySBD/xbbz3WaCqLVoFf8qx00+17iBmW8YYmG4DAdGfwoqiF3hJ/+Fm30rjg76+dv205rauhfzXGcLwpQZ2z/7cIfdZj5L3Y/qOxkdtUx6UdCLrdYGbw5lrtgd1GOnnlfATDOSbcZlzLTtTDjDfcWNY1OIMKcsXJaayIMw56Df38nGQQa5k7QspJ19nA=;Vanz7DVKqIJwl0VJTwTF6Q=="
 ---
 

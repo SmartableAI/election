@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/15/politics/biden-administration-tal
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/15/politics/biden-administration-taliban-kabul-afghanistan/index.html"
 type: article
 quality: 175
-heat: 395
+heat: 415
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210814150207-eviction-moratorium-landlords-appeal-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration may compel commercial US airlines to help transport Afghan evacuees "
+    excerpt: "The Biden administration could potentially compel US airlines to help with transporting tens of thousands of Afghan evacuees as the US military struggles to manage the influx of people following the Taliban's takeover of Afghanistan, according to a senior administration official.\n    \n"
+    publishedDateTime: 2021-08-22T01:33:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t-imtUf8KIg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/21/politics/biden-airlines-afghanistan-evacuation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/21/politics/biden-airlines-afghanistan-evacuation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210821191758-biden-airlines-afghanistan-evacuation-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

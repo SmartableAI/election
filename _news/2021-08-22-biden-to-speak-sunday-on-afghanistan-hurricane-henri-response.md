@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Commentary: Biden's Afghanistan Withdrawal"
-excerpt: "\"Thank you for finding us. We conceived RoseBud just for these moments in news, and the first impressions of history that media documents. After a long and rewarding career in media, our two"
-publishedDateTime: 2021-08-21T15:58:00Z
-originalUrl: "https://www.mailtribune.com/top-videos/2021/08/20/commentary-bidens-afghanistan-withdrawal/"
-webUrl: "https://www.mailtribune.com/top-videos/2021/08/20/commentary-bidens-afghanistan-withdrawal/"
+title: "Biden to Speak Sunday on Afghanistan, Hurricane Henri Response"
+excerpt: "U.S. President Joe Biden on Sunday will provide an update on the administration's response to Hurricane Henri and the evacuation of American citizens and refugees from Afghanistan, the White House said on Saturday."
+publishedDateTime: 2021-08-22T01:13:00Z
+originalUrl: "https://www.usnews.com/news/top-news/articles/2021-08-21/biden-to-speak-sunday-on-afghanistan-hurricane-henri-response"
+webUrl: "https://www.usnews.com/news/top-news/articles/2021-08-21/biden-to-speak-sunday-on-afghanistan-hurricane-henri-response"
 type: article
-quality: 55
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Mail Tribune
-  domain: mailtribune.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://imengine.editorial.prod.med.navigacloud.com/?uuid=a8f46962-2561-5648-bae4-e9ce644a8f6f&function=fit&type=preview"
-    width: 500
-    height: 281
-    isCached: true
 
 related:
   - title: "Biden to pull U.S. troops from Afghanistan by Sept. 11, sources say"
@@ -926,6 +924,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Commentary: Biden's Afghanistan Withdrawal"
+    excerpt: "\"Thank you for finding us. We conceived RoseBud just for these moments in news, and the first impressions of history that media documents. After a long and rewarding career in media, our two"
+    publishedDateTime: 2021-08-21T15:58:00Z
+    webUrl: "https://www.mailtribune.com/top-videos/2021/08/20/commentary-bidens-afghanistan-withdrawal/"
+    type: article
+    provider:
+      name: Mail Tribune
+      domain: mailtribune.com
+    quality: 55
+    images:
+      - url: "https://imengine.editorial.prod.med.navigacloud.com/?uuid=a8f46962-2561-5648-bae4-e9ce644a8f6f&function=fit&type=preview"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Watch Live: Biden Gives an Update on Afghanistan Evacuations"
     excerpt: "President Biden is delivering another speech about Afghanistan, as a scramble to evacuate American citizens and vulnerable Afghans continues."
     publishedDateTime: 2021-08-20T23:38:00Z
@@ -968,15 +980,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Biden to Speak Sunday on Afghanistan, Hurricane Henri Response"
-    excerpt: "U.S. President Joe Biden on Sunday will provide an update on the administration's response to Hurricane Henri and the evacuation of American citizens and refugees from Afghanistan, the White House said on Saturday."
-    publishedDateTime: 2021-08-22T01:13:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-08-21/biden-to-speak-sunday-on-afghanistan-hurricane-henri-response"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
   - title: "Biden to Marshal International Community on Rights in Afghanistan -Adviser"
     excerpt: "U.S. National Security Adviser Jake Sullivan on Monday said that President Joe Biden is prepared to marshal the international community on human rights in Afghanistan, where the Taliban is seizing power."
     publishedDateTime: 2021-08-16T11:47:00Z
@@ -987,6 +990,6 @@ related:
       domain: usnews.com
     quality: 33
 
-secured: "QtoyZotHd6cXRl7OSrAbmh4hhK22YgCQLjWKQeBV/dhm7F0GuXsBy1ly0bUqrKWMr5ucUAPB3Iv/P4B5+Nqb8Q33sdM9jT0MMdg0ZxcCLApQyDGue8HH1X+Cc7LJFJTv4RpqGQvfdA3El7wXS1vMsz2nspaJXTuRf6O+TvcEBouKIcOzeh8aYx1DbUGdOvoHYl1u+v7O2MWHhqc81h+b4RmHq3GyDOPZTfoGZ35TTspRFFTrUocRDvlYbZ/ReHoZdCxfnefzh8tvSLEyvbbQbheUQwcIp2EV9ezMQ/2wiJXv2UcsStQqj8JPkwrICJfVF9yx7v6RgRCQk+J70mpDY1XAlHtf7PQVnBvxhXwXUCc=;aviPm9Krf6CWNmOGDuYaDg=="
+secured: "qwZ5/l9jIbB/jQuRg5PqiuT2sVSrWoHmV1Bmvu4JmjMOdkbpjClK2ECI/Foq2xZBJrQAy/fPLnf7fs+KPMpoeK2v7ih78U8rhKf2kELvRwLQLs9MUuHXA/Jz8e8KUKhvYzu9yXPXNga7rSm7IPqMRXFz7p1qK1MRg60Y1WW9Ou9MtLhy08j0oNZWD6IayrhZzEOzwSxGmvpDJEYwVGe4LMCCvLY3KDSllhNrk2pxjefPH6WfY36g6oyxKNBOYf28aSyZQA56VK78T2KqdYtt66hqEFvZp/seukkiE07EfbNl5fZJjcRn2S34Mwbh1i7vSWdaL1L8uk5+L3GXZxgQ8deqXt4zfTuVaTLtQJH85wRXtT72RCw8dUPS9Y09pFhDDuZu8Sney/1p9vzzSukCNt322FTl5jPmLzxRHuPoFLI5q+RoC+rE6LRW69sCOV7CXlvS2vUqY1yc4pfvFKMyPLZ8+jkiMcIQiiqMewtSOrZlkX+u33+V6f4LxrACZxay7dVw0FFPjFlcL4vebwoLMg==;T5wEAMNEV/slqA11p9D5Bg=="
 ---
 
