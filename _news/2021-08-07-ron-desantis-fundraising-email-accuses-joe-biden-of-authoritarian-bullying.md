@@ -117,6 +117,20 @@ related:
         width: 992
         height: 744
         isCached: true
+  - title: "Ron DeSantis hammers Joe Biden with COVID-19 comparison to H1N1 flu"
+    excerpt: "Ron DeSantis continued to blast President Joe Biden and his administration for pro-mask mandate policies, using historical reference to make his point. “Joe Biden was Vice President during the H1N1 flu,"
+    publishedDateTime: 2021-08-21T21:14:00Z
+    webUrl: "https://floridapolitics.com/archives/451902-ron-desantis-h1n1/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2019/08/desantis.jpg"
+        width: 900
+        height: 505
+        isCached: true
   - title: "Half of Maine counties could soon be covered by Joe Biden’s new eviction moratorium"
     excerpt: "Once a county is designated as seeing “substantial” or “high” transmission, residents are protected from evictions for at least two weeks."
     publishedDateTime: 2021-08-04T15:52:00Z

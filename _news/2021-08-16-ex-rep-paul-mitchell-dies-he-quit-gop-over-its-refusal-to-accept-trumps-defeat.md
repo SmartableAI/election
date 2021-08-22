@@ -27,47 +27,58 @@ images:
     isCached: true
 
 related:
-  - title: "China hawk Mike Gallagher bridges GOP’s establishment, Trump wings"
-    excerpt: "Mike Gallagher never intended to be in Washington for the long haul. Since being elected in 2016, the Wisconsin Republican has advocated for congressional reforms such as term limits and lobbying restrictions for officeholders."
-    publishedDateTime: 2021-08-10T19:52:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/aug/10/china-hawk-gallagher-bridges-gops-establishment-tr/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/10/china-hawk-gallagher-bridges-gops-establishment-tr/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/10/china-hawk-gallagher-bridges-gops-establishment-tr/"
+  - title: "More than half of Kinzinger's GOP primary challengers believe Trump won the 2020 election"
+    excerpt: "Even though allegations of widespread fraud in the 2020 presidential election haven't been substantiated, four conservatives challenging Republican U.S. Rep. Adam Kinzinger for his congressional seat insist Donald Trump actually won reelection."
+    publishedDateTime: 2021-08-21T21:40:00Z
+    webUrl: "https://www.dailyherald.com/news/20210821/more-than-half-of-kinzingers-gop-primary-challengers-believe-trump-won-the-2020-election"
+    ampWebUrl: "https://www.dailyherald.com/amp-article/20210821/news/210829838/"
+    cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20210821/news/210829838/"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 81
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/07/11/wisconsin_republicans_99295_c0-99-3045-1875_s1200x700.jpg?6dd222043ace9bd30a2cfe94c2947fd8a83f4703"
-        width: 1200
-        height: 700
+      - url: "https://www.dailyherald.com/storyimage/DA/20210821/news/210829838/AR/0/AR-210829838.jpg&updated=202108211740&MaxW=800&MaxH=800&noborder"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Van Orden receives Trump endorsement in battleground WI-3 House race"
-    excerpt: "Former President Donald Trump has officially endorsed Republican Derrick Van Orden in his currently unopposed bid for Wisconsin's 3rd Congressional District, a key swing race in the upcoming midterms."
-    publishedDateTime: 2021-08-12T17:15:00Z
-    webUrl: "https://lacrossetribune.com/news/local/govt-and-politics/van-orden-receives-trump-endorsement-in-battleground-wi-3-house-race/article_48661faa-effc-57e4-8b85-aa9fe107b281.html"
-    ampWebUrl: "https://lacrossetribune.com/news/local/govt-and-politics/van-orden-receives-trump-endorsement-in-battleground-wi-3-house-race/article_48661faa-effc-57e4-8b85-aa9fe107b281.amp.html"
-    cdnAmpWebUrl: "https://lacrossetribune-com.cdn.ampproject.org/c/s/lacrossetribune.com/news/local/govt-and-politics/van-orden-receives-trump-endorsement-in-battleground-wi-3-house-race/article_48661faa-effc-57e4-8b85-aa9fe107b281.amp.html"
+  - title: "Trump-fueled election ‘audit’ sparks Senate GOP turmoil"
+    excerpt: "The top Republican in the Pennsylvania Senate says he’s putting a different senator in charge of an “election integrity” undertaking and removing a senator who had aimed to carry out an Arizona-style “forensic investigation” of Pennsylvania’s 2020 presidential election."
+    publishedDateTime: 2021-08-21T14:15:00Z
+    webUrl: "https://www.sunherald.com/news/politics-government/national-politics/article253632053.html"
+    ampWebUrl: "https://amp.sunherald.com/news/politics-government/national-politics/article253632053.html"
+    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/politics-government/national-politics/article253632053.html"
     type: article
     provider:
-      name: La Crosse Tribune
-      domain: lacrossetribune.com
-    quality: 75
+      name: Biloxi Sun Herald
+      domain: sunherald.com
+    quality: 70
+  - title: "Trump-fueled election ‘audit’ sparks Senate GOP turmoil"
+    excerpt: "The top Republican in the Pennsylvania Senate says he’s putting a different senator in charge of an “election integrity” undertaking and removing a senator who had aimed to carry out an Arizona-style “forensic investigation” of Pennsylvania’s 2020 presidential election."
+    publishedDateTime: 2021-08-21T21:43:00Z
+    webUrl: "https://www.bellinghamherald.com/news/politics-government/national-politics/article253632053.html"
+    ampWebUrl: "https://amp.bellinghamherald.com/news/politics-government/national-politics/article253632053.html"
+    cdnAmpWebUrl: "https://amp-bellinghamherald-com.cdn.ampproject.org/c/s/amp.bellinghamherald.com/news/politics-government/national-politics/article253632053.html"
+    type: article
+    provider:
+      name: The Bellingham Herald
+      domain: bellinghamherald.com
+    quality: 70
+  - title: "Emmy Predictions: Directing for a Variety Series – John Oliver’s Take on Donald Trump and the Election Lead the Pack"
+    excerpt: "Following history, buzz, news, reviews and sources, the Emmy predictions are updated regularly with the current year's list of contenders in all categories. Variety's Awards Circuit Prediction schedule consists of four phases,"
+    publishedDateTime: 2021-08-19T22:16:00Z
+    webUrl: "https://www.imdb.com/news/ni63396099"
+    type: article
+    provider:
+      name: IMDb
+      domain: imdb.com
+    quality: 47
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/lacrossetribune.com/content/tncms/assets/v3/editorial/4/31/431a004c-b905-520d-a70c-7bafab18b438/60da3a3801a58.image.jpg?resize=1024%2C710"
-        width: 1024
-        height: 710
+      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
+        width: 1000
+        height: 1000
         isCached: true
-  - title: "Van Orden Receives Trump Endorsement for Wisconsin Race"
-    excerpt: "Former President Donald Trump is giving his “Complete and Total Endorsement!”. MADISON, Wis. (AP) — Former President Donald Trump on Thursday gave his “Complete and Total Endorsement!” to the Republican seeking to flip a southwestern Wisconsin congressional district held by Democratic Rep."
-    publishedDateTime: 2021-08-12T16:28:00Z
-    webUrl: "https://www.usnews.com/news/best-states/wisconsin/articles/2021-08-12/van-orden-receives-trump-endorsement-for-wisconsin-race"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "Wo6mieWrFXtmmXa8QIFJY8AkYbES5dYPoirMxn358RLPjWAoU+jii5n5Nc61Kv6UVHJxvESlDHrssbYsEm+jePq2WLabEiyq5S0I2oEy13j+gKLS3sJMxhi57hIoBLKRGx5pLsTGh26YjDfzrq78OHjp36jzo3m+WBHkafXpP8SNgncDsSelua4gLh5jchfGx8yyjnOgDwNl4/V9OX9MhZlCVzR6ROeBGyb1XYyrwB8tzy2cJm2L8OZeygJARVXbO/HYs9nEh/dRc+h17gGFWwFgvrqaF4FZeMW9xc3m/nNg9/JXoLVWUOWThf11FgFT8odmm2xvXMZyuk3hIHllL/txfLza0VetTUSSTqoW/Hk=;kzJ2zaFmU6/tFLxdf3n7JQ=="
 ---

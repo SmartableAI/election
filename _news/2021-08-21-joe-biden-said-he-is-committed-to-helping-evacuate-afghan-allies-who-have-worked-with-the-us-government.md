@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden Said He Is Committed To Helping Evacuate Afghan Allies Who Have Worked With The US Government"
 excerpt: "In a speech at the White House, Biden again stood by his decision to withdraw US forces from the country. President Joe Biden once again stood by his decision to withdraw US forces from Afghanistan in a speech Friday and said he is committed to helping Afghans who have worked with the US government evacuate the country."
-publishedDateTime: 2021-08-21T10:27:00Z
-originalUrl: "https://www.buzzfeednews.com/article/clarissajanlim/biden-afghanistan-evacuations?ref=bfnsplash"
-webUrl: "https://www.buzzfeednews.com/article/clarissajanlim/biden-afghanistan-evacuations?ref=bfnsplash"
+publishedDateTime: 2021-08-20T19:51:00Z
+originalUrl: "https://www.buzzfeednews.com/article/clarissajanlim/biden-afghanistan-evacuations"
+webUrl: "https://www.buzzfeednews.com/article/clarissajanlim/biden-afghanistan-evacuations"
 ampWebUrl: "https://www.buzzfeednews.com/amphtml/clarissajanlim/biden-afghanistan-evacuations"
 cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/clarissajanlim/biden-afghanistan-evacuations"
 type: article
@@ -251,6 +251,6 @@ related:
         height: 1365
         isCached: true
 
-secured: "YGenv8NSiRGY2RY3kfoalfWsk8M5ZPklkE1Lni1jgZiW30QgEJ0kMVL2BkNQyDF59Mf6uUkSE7bLZPI+ef5jEaj0QWj0gm/qMtBbvd5R4mN5tUm0K8jGe9N4FF5YEIHXFyEnlZCz8EBGX76rd0s2L81ncxbRqCc9Jqqfhm0uA9YPhApWeNKdhTWFk1mU11FzrLMcIFsvUetgTPsn0phEac2ujcfsTJ9SwXMPbADB2IHnifp/jOyhUjStCIz08VbDzEQtWFLV82CR7EeC/Ll2I2c+927McBMm7f8e5BnyalfQs5efvfgwJi94htBEhT4b8xc1NwUKW8ETfTOXHaY100FpBotxTPJ6N8lz4j3aUHueJKyQxUkRHENpLxOjnTTQndfINImY8/dGUMVNbOjxY2Q+xc0kpj05XxhTlKtT3DL8Sj6/7pTO3EyMy2PxNtRAPApfm7WxjoNJn4E+v7Gb4BOGvSatNT6glzg2DEsyxWI+75UJVapKxfiLLbNZ69sChFmVF6m/NTWLuMWtH+PLsA==;WsPixW4jXMUWCHkHNg1WHw=="
+secured: "bakS45Y0HIMaBMQ+TaVqvPtpI7XO81tig0vnzmRFeERejB+HDPljzni+HlmRX9Rlirf0zxXsVg10dnLPBn0xF+cM1/YuwFCZpU0LZEtD4JxQkUGQahDDwkv2AoE/hbn5oxz547YXLomVAUWXFgktLdipQyqQQUQ/EyaxmSwF0hz+i/CVacioC9r4aXUy/xH25wAUUZPiMRDb4K2BBGkNq7gwLhsrqDWE1Cbk9Fjv7MinlWrrWzFMNjNz3ptn0oKS4Aig5Ur/1UkbclO6WtKJEJ+q8CXb/+KloCOPOWU5gT5I0gytJclxILy2YNdMvw0XaLAY7d2WX/D7un/y2NC4pCNo8azdA/YLW9Gc3guCu9E=;wX08kYhxHXJc8kq8lWpGpA=="
 ---
 

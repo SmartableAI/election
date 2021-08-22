@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-22-more-than-half-of-kinzingers-gop-primary-challengers-believe-trump-won-the-2020-election.md",
+      "title": "More than half of Kinzinger's GOP primary challengers believe Trump won the 2020 election",
+      "excerpt": "Even though allegations of widespread fraud in the 2020 presidential election haven't been substantiated, four conservatives challenging Republican U.S. Rep. Adam Kinzinger for his congressional seat insist Donald Trump actually won reelection.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailyherald.com/news/20210821/more-than-half-of-kinzingers-gop-primary-challengers-believe-trump-won-the-2020-election",
+      "originalUrl": "https://www.dailyherald.com/news/20210821/more-than-half-of-kinzingers-gop-primary-challengers-believe-trump-won-the-2020-election",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailyherald.com/storyimage/DA/20210821/news/210829838/AR/0/AR-210829838.jpg&updated=202108211740&MaxW=800&MaxH=800&noborder",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailyherald.com/amp-article/20210821/news/210829838/",
+      "cdnAmpWebUrl": "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20210821/news/210829838/",
+      "publishedDateTime": "2021-08-21T14:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-22-former-pence-aide-says-trump-and-miller-stymied-afghan-refugee-efforts.md",
       "title": "Former Pence aide says Trump and Miller stymied Afghan refugee efforts.",
       "excerpt": "Olivia Troye recalled sitting in meetings where Stephen Miller, Mr. Trump’s top immigration adviser, demanded restrictions on refugees, including those from Afghanistan and Iraq.",
@@ -56,40 +99,6 @@
         "Election",
         "Mike Pence",
         "Democratic Voice",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-trump-fueled-election-audit-sparks-senate-gop-turmoil.md",
-      "title": "Trump-fueled election ‘audit’ sparks Senate GOP turmoil",
-      "excerpt": "The top Republican in the Pennsylvania Senate says he’s putting a different senator in charge of an “election integrity” undertaking and removing a senator who had aimed to carry out an Arizona-style “forensic investigation” of Pennsylvania’s 2020 presidential election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sunherald.com/news/politics-government/national-politics/article253632053.html",
-      "originalUrl": "https://www.sunherald.com/news/politics-government/national-politics/article253632053.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.sunherald.com/news/politics-government/national-politics/article253632053.html",
-      "cdnAmpWebUrl": "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/politics-government/national-politics/article253632053.html",
-      "publishedDateTime": "2021-08-21T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biloxi Sun Herald",
-        "domain": "sunherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Donald Trump"
       ]
     },

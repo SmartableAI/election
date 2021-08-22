@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Ex-Rep. Paul Mitchell dies. He quit GOP over its refusal to accept Trump's defeat"
-    excerpt: "Former U.S. Rep. Paul Mitchell, a conservative who quit the Republican Party over its allegiance to President Donald Trump after the 2020 election, has died after a diagnosis of stage IV renal cancer."
-    publishedDateTime: 2021-08-16T15:20:00Z
-    webUrl: "https://www.detroitnews.com/story/news/politics/2021/08/16/rep-congressman-paul-mitchell-republican-died-conservative-independent/7877411002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/7877411002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7877411002"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 70
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/08/11/PDTN/dd1c5a99-0bc4-4652-b5d4-7744e8107e7a-paul_mitchell_submitted.jpg?auto=webp&crop=4031,2267,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Van Orden Receives Trump Endorsement for Wisconsin Race"
     excerpt: "Former President Donald Trump is giving his “Complete and Total Endorsement!”. MADISON, Wis. (AP) — Former President Donald Trump on Thursday gave his “Complete and Total Endorsement!” to the Republican seeking to flip a southwestern Wisconsin congressional district held by Democratic Rep."
     publishedDateTime: 2021-08-12T16:28:00Z

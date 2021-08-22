@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Half of Maine counties could soon be covered by Joe Biden’s new eviction moratorium"
-excerpt: "Once a county is designated as seeing “substantial” or “high” transmission, residents are protected from evictions for at least two weeks."
-publishedDateTime: 2021-08-04T15:52:00Z
-originalUrl: "https://bangordailynews.com/2021/08/04/politics/half-of-maine-counties-could-soon-be-covered-by-joe-bidens-new-eviction-moratorium/"
-webUrl: "https://bangordailynews.com/2021/08/04/politics/half-of-maine-counties-could-soon-be-covered-by-joe-bidens-new-eviction-moratorium/"
+title: "Ron DeSantis hammers Joe Biden with COVID-19 comparison to H1N1 flu"
+excerpt: "Ron DeSantis continued to blast President Joe Biden and his administration for pro-mask mandate policies, using historical reference to make his point. “Joe Biden was Vice President during the H1N1 flu,"
+publishedDateTime: 2021-08-21T21:14:00Z
+originalUrl: "https://floridapolitics.com/archives/451902-ron-desantis-h1n1/"
+webUrl: "https://floridapolitics.com/archives/451902-ron-desantis-h1n1/"
 type: article
-quality: 49
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Bangor Daily News
-  domain: bangordailynews.com
+  name: Florida Politics
+  domain: floridapolitics.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/22OhioStreet060420_NAW2-1.jpg"
-    width: 1024
-    height: 640
+  - url: "https://floridapolitics.com/wp-content/uploads/2019/08/desantis.jpg"
+    width: 900
+    height: 505
     isCached: true
 
 related:
@@ -117,20 +117,6 @@ related:
         width: 992
         height: 744
         isCached: true
-  - title: "Ron DeSantis hammers Joe Biden with COVID-19 comparison to H1N1 flu"
-    excerpt: "Ron DeSantis continued to blast President Joe Biden and his administration for pro-mask mandate policies, using historical reference to make his point. “Joe Biden was Vice President during the H1N1 flu,"
-    publishedDateTime: 2021-08-21T21:14:00Z
-    webUrl: "https://floridapolitics.com/archives/451902-ron-desantis-h1n1/"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 55
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2019/08/desantis.jpg"
-        width: 900
-        height: 505
-        isCached: true
   - title: "Ron DeSantis fundraising email accuses Joe Biden of ‘authoritarian bullying’"
     excerpt: "In a seven-paragraph fundraising pitch, DeSantis’ political committee, Friends of Ron DeSantis, accused the Democratic President of “authoritarian bullying.” “Joe Biden might want Governor DeSantis to get out of the way so he can impose his radical agenda,"
     publishedDateTime: 2021-08-06T22:54:00Z
@@ -144,6 +130,20 @@ related:
       - url: "https://floridapolitics.com/wp-content/uploads/2021/01/DeSantis-Policy-Orientation.jpg"
         width: 1001
         height: 510
+        isCached: true
+  - title: "Half of Maine counties could soon be covered by Joe Biden’s new eviction moratorium"
+    excerpt: "Once a county is designated as seeing “substantial” or “high” transmission, residents are protected from evictions for at least two weeks."
+    publishedDateTime: 2021-08-04T15:52:00Z
+    webUrl: "https://bangordailynews.com/2021/08/04/politics/half-of-maine-counties-could-soon-be-covered-by-joe-bidens-new-eviction-moratorium/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 49
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/22OhioStreet060420_NAW2-1.jpg"
+        width: 1024
+        height: 640
         isCached: true
   - title: "Joe Biden administration backs school boards defying Ron DeSantis’ mask mandate ban"
     excerpt: "DeSantis' press secretary says the Secretary of Education's letter does not change Florida's course of action."
@@ -174,6 +174,6 @@ related:
         height: 667
         isCached: true
 
-secured: "+2KW0u2mcfTnpEDEVe71OOjP//BIsjqBeSy6i1roj+McRN5qROptA0XotJtpnZPKPhkDeQWuAINxJ/VClQtP2oE9Wmir5uxaIUT26NG6whk8n99SmLZ+5O5cFIw/i5UjrTpwPirZSDuXrtaWCUk9gy7bpDh3kKU+6/PJ5f/ZYlIb1aVjnD1C6nbrwO8YR0Ik5vDbyV698QRRII6YczDsHV/4ZIWwub/QpV3nEX38yZSON39SZBkW/H+oTR5jyRdRSR9v+BCRmIzbo9/wpr2iHu9zzf/4Rgzsg5odxg7BH2ep/hJToD1A2NQZsf231SrR9bKGrpcD/DogwqyKliiWErhdL73OxI2tOlwsHvS+lFdHKZ6oXLx1LcNbNytYZJBV2YZgWq8m85U8HuOYeBbFl+QHSELz/hq4dPigq17ezJFhP0SlUqWTCTYt8tOPyO/WlwU9IOM3hpFYzMODC0aD+wmK6Ts91Sa24qNM7CINbb/0/vLbzjG9AZFTjUBYR8ADQsc12Fh04ka7sJ+qso8WGA==;Eh4mrwcw9qD9SvJ2KKZjkg=="
+secured: "xBksLwxg0N1kzLHdMKtSTCTXcM0gY9fQIPNpgW43S0pk6d5F/fX39eisY5SqMYJfGgxOwUqREtnT/p5xxbk2jpIXusSVpyaz4o94n8okLHotP6noTz/sseCCWIXsnVQpXyXBotSb+sksBpYbXSsVkwyBdXNlSqz4WdQBCA9eH6/UIcvyGkjXPws8BbOHVj2sdB+Q/YTzZ4kdGo0pV+4wT3ohQF/3R7103R2gNL/stWMPjA/Ucs90p5siTJ4ZoP5aONJRm8b4Sl2QQswFwSaxNd05aedILRxXK2ECy1uY+JUiqL7+Ir12eAmEszSd1ti6hPA3gd58ijQJJvrl1DFUP7NZWZyG+mO5rHMesiykXJo=;90uirKGhgEX0AHEOuCW7Mg=="
 ---
 

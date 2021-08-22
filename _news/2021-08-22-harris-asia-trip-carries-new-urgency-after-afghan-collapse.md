@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Harris' Asia trip carries new urgency after Afghan collapse"
-excerpt: "The Taliban takeover of Afghanistan has given new urgency to Vice President Kamala Harris' tour of S The trip, which began Friday and has stops in Singapore and Vietnam, will provide a forum for Harris to assert herself more directly in foreign affairs."
-publishedDateTime: 2021-08-21T07:29:00Z
-originalUrl: "https://www.seattlepi.com/news/article/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
-webUrl: "https://www.seattlepi.com/news/article/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
-ampWebUrl: "https://www.seattlepi.com/news/amp/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
-cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
+excerpt: "The Taliban takeover of Afghanistan has given new urgency to Vice President Kamala Harris' tour of Southeast Asia, where she will attempt to reassure allies of American resolve following the chaotic end of a two-decade war."
+publishedDateTime: 2021-08-21T22:35:00Z
+originalUrl: "https://www.texarkanagazette.com/news/national/story/2021/aug/21/harris-asia-trip-carries-new-urgency-after-afghan-collapse/884674/"
+webUrl: "https://www.texarkanagazette.com/news/national/story/2021/aug/21/harris-asia-trip-carries-new-urgency-after-afghan-collapse/884674/"
 type: article
-quality: 75
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: seattlepi.com
-  domain: seattlepi.com
+  name: Texarkana Gazette
+  domain: texarkanagazette.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://media-cdn.wehco.com/img/photos/2021/08/21/6dvpharris3606975828_t1070_h2e9c6ef4e7aa732d1c98defe9384b0f1f6f7a5d9.jpg"
+    width: 1070
+    height: 713
     isCached: true
 
 related:
@@ -59,6 +57,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Harris' Asia trip carries new urgency after Afghan collapse"
+    excerpt: "The Taliban takeover of Afghanistan has given new urgency to Vice President Kamala Harris' tour of S The trip, which began Friday and has stops in Singapore and Vietnam, will provide a forum for Harris to assert herself more directly in foreign affairs."
+    publishedDateTime: 2021-08-21T07:29:00Z
+    webUrl: "https://www.seattlepi.com/news/article/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
+    ampWebUrl: "https://www.seattlepi.com/news/amp/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
+    type: article
+    provider:
+      name: seattlepi.com
+      domain: seattlepi.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Kamala Harris' trip to Asia has new urgency amid collapse of Afghan government"
     excerpt: "The Taliban takeover of Afghanistan is giving new urgency to Vice President Kamala Harris' tour of southeast Asia, where she will attempt to reassure allies of American resolve following the chaotic end of a two-decade war."
     publishedDateTime: 2021-08-20T14:12:00Z
@@ -86,20 +100,6 @@ related:
       name: News Tribune
       domain: thenewstribune.com
     quality: 55
-  - title: "Harris' Asia trip carries new urgency after Afghan collapse"
-    excerpt: "The Taliban takeover of Afghanistan has given new urgency to Vice President Kamala Harris' tour of Southeast Asia, where she will attempt to reassure allies of American resolve following the chaotic end of a two-decade war."
-    publishedDateTime: 2021-08-21T22:35:00Z
-    webUrl: "https://www.texarkanagazette.com/news/national/story/2021/aug/21/harris-asia-trip-carries-new-urgency-after-afghan-collapse/884674/"
-    type: article
-    provider:
-      name: Texarkana Gazette
-      domain: texarkanagazette.com
-    quality: 55
-    images:
-      - url: "https://media-cdn.wehco.com/img/photos/2021/08/21/6dvpharris3606975828_t1070_h2e9c6ef4e7aa732d1c98defe9384b0f1f6f7a5d9.jpg"
-        width: 1070
-        height: 713
-        isCached: true
   - title: "Kamala Harris claims she had ‘key role’ in removing US troops from Afghanistan – but now silent since Taliban took power"
     excerpt: "KAMALA Harris claimed she had a “key role” in removing US troops from Afghanistan – but is conveniently staying silent since the Taliban took control of the war-torn country. The"
     publishedDateTime: 2021-08-16T19:49:00Z
@@ -117,6 +117,6 @@ related:
         height: 800
         isCached: true
 
-secured: "Lhp9cTQTwF4Lefa1sLWwAX6XWZ9g7Iv7HcH3WRgo1+z37EfMja6dCrlQkJQNbido3gdZwgKGVODDC6lCdBcz/i5gYXxQncgjPY9QUw822HHM46+/OcJOx9VDQsNY29/nEsMPCA1Ki2VtrMbUvaOT+zyRAKUtyfCaFFFj4jwFIExHv+a6tyf6J5mYRt+OH14Bt0An4AaQDOBXkZIL/OHKL9rIwA/ynkKh2ShWF4ouYW8AiQxZ/p8Euxeibu4bq3xEYVa8HxpB5VT/9Bmkcz+L83nihOpgfVnxko0FFqxLqna42+TbpbdpqSwNNDrG9o8BwaxlqPlZgVYvi+8VRlHk+xPFZo/zeJZNJ7EXA0dbIAI=;Q6s6yuvnJKxywSnPO3/NVg=="
+secured: "5vGZ18hNBAw7KV4PWwQH+OGOJEK3HoQ79DjIez3WP8UU4QbAOMIUfeWf3XNXEu2Z11pyXXQVW6K2za2rwS1z4vuUNkvIMy/iH+eBmOLteghxULRlwviBQGPwp4BD4tZ8WO9i/rOtM4htRyyNl84V7003PJ3UkDNWDDLlQEvrjbjJYK8aIXzmkPhydcY5YWAXR5SimJADRA6S/Uy96PFllVfeZN/4LSunPR04Nx/be2X2Wzw9vcxn+xsnCPVa3nAk5AH3udR+1DV7H8FfrbzH8ORPHoQI7S+Wm8f5/GrOPP5uAr6zab6wogbFv7VsxDIKAZejksJv41mPNb+2pqBZQOTwsaNQ5E+zP3wg4Xu2eZM=;lph4vcm+jrVPM2fF8Djaiw=="
 ---
 

@@ -103,6 +103,20 @@ related:
         width: 992
         height: 744
         isCached: true
+  - title: "Ron DeSantis hammers Joe Biden with COVID-19 comparison to H1N1 flu"
+    excerpt: "Ron DeSantis continued to blast President Joe Biden and his administration for pro-mask mandate policies, using historical reference to make his point. “Joe Biden was Vice President during the H1N1 flu,"
+    publishedDateTime: 2021-08-21T21:14:00Z
+    webUrl: "https://floridapolitics.com/archives/451902-ron-desantis-h1n1/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2019/08/desantis.jpg"
+        width: 900
+        height: 505
+        isCached: true
   - title: "Ron DeSantis fundraising email accuses Joe Biden of ‘authoritarian bullying’"
     excerpt: "In a seven-paragraph fundraising pitch, DeSantis’ political committee, Friends of Ron DeSantis, accused the Democratic President of “authoritarian bullying.” “Joe Biden might want Governor DeSantis to get out of the way so he can impose his radical agenda,"
     publishedDateTime: 2021-08-06T22:54:00Z

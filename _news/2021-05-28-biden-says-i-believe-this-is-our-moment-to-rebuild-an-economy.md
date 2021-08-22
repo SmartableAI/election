@@ -152,6 +152,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "The Latest: Biden briefed on the Kabul situation, IS threat"
+    excerpt: "The White House says President Joe Biden has been briefed by members of his national security team on the evolving situation in Afghanistan. Biden and his team met on Saturday in the White House Situation Room to discuss the security situation and counterterrorism operations,"
+    publishedDateTime: 2021-08-21T23:57:00Z
+    webUrl: "https://www.myjournalcourier.com/news/article/The-Latest-Bahrain-says-allows-airport-use-for-16402260.php"
+    ampWebUrl: "https://www.myjournalcourier.com/news/amp/The-Latest-Bahrain-says-allows-airport-use-for-16402260.php"
+    cdnAmpWebUrl: "https://www-myjournalcourier-com.cdn.ampproject.org/c/s/www.myjournalcourier.com/news/amp/The-Latest-Bahrain-says-allows-airport-use-for-16402260.php"
+    type: article
+    provider:
+      name: Journal-Courier
+      domain: myjournalcourier.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "9usessIlhIbWe0QyhWZrsAXwGvNrrJU6hBmfMJmsK9wBNfboNxMn0YLR21gojHoIkeFRoGt0xhoocN15yRi5OcCa57AOcy+WHcIfFt+1IW1FMxMr4kxvhyJC78/k8oqhegQ5xBWeyH3nyzI2gadCgEESEfA05bgq+a9FFIPTxcF1s7vOc6cwHfLdJuz5K4NmawAli1ivhHwPpHwTRUCQQiI0qTLNhQJC3wSuuywB7bYesMeTIJC77fUT1vzZW1wx9Fgl4BQNQcXBsTXJBNwKypC3jGLSX5sV9CS+Cj2jS8vD3fGFnOdIlVWlIGHuxTJBtvk8t86Yvml7o7oRrXrJ8WWkCbNNPyp+T8KnorJOGMKrU6+uNURo16E+TkBATrGwATkfZU2cE/7eDR2If19CzH4hSUuQJde0HHMVnp9uAMjN++SlXhHFORUrRgIETel/Svbsgjv5MEJUcHtUSqa7cpZB2UovwQw2KhaeKAagI51S2h6jYMmSoTe8dk6FqGwrkaVK6LxdTHTkOBK1RN847w==;JKS0dStyfuNdvnzoG326HA=="
 ---

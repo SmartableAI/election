@@ -75,8 +75,8 @@ related:
         isCached: true
   - title: "Joe Biden Said He Is Committed To Helping Evacuate Afghan Allies Who Have Worked With The US Government"
     excerpt: "In a speech at the White House, Biden again stood by his decision to withdraw US forces from the country. President Joe Biden once again stood by his decision to withdraw US forces from Afghanistan in a speech Friday and said he is committed to helping Afghans who have worked with the US government evacuate the country."
-    publishedDateTime: 2021-08-21T10:27:00Z
-    webUrl: "https://www.buzzfeednews.com/article/clarissajanlim/biden-afghanistan-evacuations?ref=bfnsplash"
+    publishedDateTime: 2021-08-20T19:51:00Z
+    webUrl: "https://www.buzzfeednews.com/article/clarissajanlim/biden-afghanistan-evacuations"
     ampWebUrl: "https://www.buzzfeednews.com/amphtml/clarissajanlim/biden-afghanistan-evacuations"
     cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/clarissajanlim/biden-afghanistan-evacuations"
     type: article
@@ -247,6 +247,6 @@ related:
         height: 1365
         isCached: true
 
-secured: "2J0J+rgP4jfp0nywEbAxzNxUc8UpJ4iwVFUuu04Fk7AoB1Suwc+JAhXc+06eG4NIAyTNXkZe+zFmHHV2RjDEMfbrbi+Uf8G5z2dKJn5b5xfes6gFwFM9lNN4VlYXvqnPOAe4tJUnbF9nvn9Mw0QEPdATaoCs7MY5ynixfJitoyUv69ppWvcW0rX11Xu15gXw4jy+l+pTABXjh87VKNtepYolK4jDSwN3SJDDkFvvT8EA26UwPKvdoKh9yLIhoZqHBjHPReKqW7vrk0WCx4RwGr8o07Pp34qo3KcDmDB14hbMmUHCjxCGJfiEoAXHuYA6EiQ9+zF9YejMLrVwXEu8zND+Afejiy4K9FbYJSQgF/c=;OEKBlVg+gOCqs61035UIHw=="
+secured: "DhJHmhGbAeeqdkzOWU+kK2dD0ssk39qeexUt0/wKvWs2j0qSJH5TTeTXgNb7HbyOPd+UQS7YPpVice6BmLxHKFxPNIi4oYBZ/q3hLuiffZTXoeG39zwwP54109JHKkJmYG0mOeWEE4+ViWrg1tSl7eFQ8E1rd+mng7AwhCEsMxfwOJn4oP7uDFY3AUkz+9FNMuXfc+z2xro/bn62mwo1XjLk5qcPe/OK3+pEn5d1YQRp4zs1WkO2NjNk8jj4+mq/AANN2NQOcB0lVRzQvWBit5U1baIehSZZp1szpOwIOtyEUmaz+sj8NzXCPnmMcOfwZD+sHxC8jwRBXJoIaZDK0dTN3FAZEP/3IAu3ZD7TMSOG6Qj2f5feYV6N3ckYwVU/VnyEMRNyiyODvgAhXTl1qo79aqefCjoykGX0JYx+7iy2e15ltu4ExlUqpeEUZtPSJKD8GiteuvqMEcnq1qPwq32Bt/zsKfalLXYo3jbI9gC/wxROlaEuLWtI+CH1bbS5VzIXqv6ftiPM5c3ieOYCQg==;Nq05q+RAhQaVoDpP3pZL2A=="
 ---
 
