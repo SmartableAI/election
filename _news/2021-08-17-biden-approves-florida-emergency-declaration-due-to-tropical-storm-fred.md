@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-florida-emergency-declaration
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-florida-emergency-declaration-federal-assistance-tropical-storm-fred.amp"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2e1303da-8218-4497-af76-cf242c86cc69/b453413d-8e7c-43d1-89f5-aec507881226/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Growing political roadblock vs. big spender Joe Biden"
+    excerpt: "As the debacle in Afghanistan consumes the Biden administration, Wall Street is keeping a closer eye on another debacle."
+    publishedDateTime: 2021-08-22T03:38:00Z
+    webUrl: "https://nypost.com/2021/08/21/growing-political-roadblock-vs-big-spender-joe-biden/"
+    ampWebUrl: "https://nypost.com/2021/08/21/growing-political-roadblock-vs-big-spender-joe-biden/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/21/growing-political-roadblock-vs-big-spender-joe-biden/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/biden-15.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Biden Destroys U.S. Energy Production, Begs OPEC to Pump"
     excerpt: "Just hours after being sworn into office on January 20, 2021, President Joe Biden signed an executive order canceling the Keystone XL pipeline. The move killed thousands of union jobs,"

@@ -100,6 +100,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Growing political roadblock vs. big spender Joe Biden"
+    excerpt: "As the debacle in Afghanistan consumes the Biden administration, Wall Street is keeping a closer eye on another debacle."
+    publishedDateTime: 2021-08-22T03:38:00Z
+    webUrl: "https://nypost.com/2021/08/21/growing-political-roadblock-vs-big-spender-joe-biden/"
+    ampWebUrl: "https://nypost.com/2021/08/21/growing-political-roadblock-vs-big-spender-joe-biden/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/21/growing-political-roadblock-vs-big-spender-joe-biden/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/biden-15.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Biden Destroys U.S. Energy Production, Begs OPEC to Pump"
     excerpt: "Just hours after being sworn into office on January 20, 2021, President Joe Biden signed an executive order canceling the Keystone XL pipeline. The move killed thousands of union jobs,"
     publishedDateTime: 2021-08-12T11:38:00Z

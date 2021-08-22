@@ -100,6 +100,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Growing political roadblock vs. big spender Joe Biden"
+    excerpt: "As the debacle in Afghanistan consumes the Biden administration, Wall Street is keeping a closer eye on another debacle."
+    publishedDateTime: 2021-08-22T03:38:00Z
+    webUrl: "https://nypost.com/2021/08/21/growing-political-roadblock-vs-big-spender-joe-biden/"
+    ampWebUrl: "https://nypost.com/2021/08/21/growing-political-roadblock-vs-big-spender-joe-biden/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/21/growing-political-roadblock-vs-big-spender-joe-biden/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/biden-15.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Biden Administration Joins Florida School Mask Fight"
     excerpt: "President Joe Biden even called Broward's superintendent Friday night, the Miami Herald reported, to offer his support for district rules requiring students to wear masks. On the call, he said his administration stands ready to support their school districts and communities to get back to safe,"
     publishedDateTime: 2021-08-15T11:08:00Z

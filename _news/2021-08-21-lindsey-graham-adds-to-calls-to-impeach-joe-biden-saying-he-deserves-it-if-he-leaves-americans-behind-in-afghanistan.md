@@ -232,6 +232,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Trump: “Joe Biden Was Going on Vacation as Afghanistan Was Going to Hell”"
+    excerpt: "Former President Donald Trump spoke at an outdoor rally in Cullman Saturday night, rebuking the Biden administration on a host of issues, from the economy to Afghanistan, in a speech that lasted about 90 minutes."
+    publishedDateTime: 2021-08-22T03:42:00Z
+    webUrl: "https://www.alabamanews.net/2021/08/21/trump-joe-biden-was-going-on-vacation-as-afghanistan-was-going-to-hell/"
+    type: article
+    provider:
+      name: Alabama News Network
+      domain: alabamanews.net
+    quality: 69
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.alabamanews.net/content/uploads/2021/08/b/w/trumpcullman082121.jpg"
+        width: 500
+        height: 293
+        isCached: true
   - title: "Afghanistan: Joe Biden said chaos was 'inevitable'"
     excerpt: "In an exclusive interview with ABC News' George Stephanopoulos, Joe Biden said nobody could have anticipated the speed of the Taliban's takeover. The US president has been criticised for his handling of the withdrawal."
     publishedDateTime: 2021-08-19T00:44:00Z
@@ -284,6 +298,6 @@ related:
         height: 1920
         isCached: true
 
-secured: "1m/Hwx9hq/ybSuVu7RPlEg/dH6/+RIi4Hz4ZDN0KsSFyuEZcDrv+bNQHAMF/Gh6imC+S56UpS5+vmkPlcsvlZ1RrjnVUrErGEeeC2qeApBDgMDLZ6/cgPsv+AhyKZ6ebntl/Pdf9rE7nJuAa01YinP3t/NvR7WDskJHjSsibd2dnE3+5ZarY5z1L5w1XN2PAnf9n+yHeDRowWHNkRZXEqVF8eK6I7hxW7qhx1EpIhSRsHDrVc7Y+CmyTz1yb/Rqiyq6rvxaNwR8dBuqcH1BNYjiw0787eGCpL3NrUs0uWM9ivaCcWdlPgycgenQrpfGC2yCxh67J72695YUiyh+6SoEV9281Vfz3qvxeZT2M6BM=;e0/fM6zRa4CZRmA3ZhLoSg=="
+secured: "iNop/I9HmTjVclM/xSU/PzUO3MrzxczMjE4z2ppgerPAC/LZlrMfVB+XCUEwSyzLtxWcYtas9gl8JvPXdg7JtrVX0nhvLkw2caQOaHDXXFgrUuTiXd87v54QWt5pXNqWbn9cFW1GwA4ZMrleV+wF1Lh8L1BxNA2HD2bPw7twasuqZn2T70Ak6yH1eb8dXU4W4XKSrlD3W4/bdK54LTfxmzY9KrHjXwxo2I0tpoCVylQ6U4aX4rIRWxksW+EmPUv9WtcGr7aDsboNjZ6S2Tc6Yhvdl1kpVPCWbVMeFg6RoIMQOH0tSkBPtylnIvZohqjfGLXLDIv9uggy46wrewISY5nPpiy2eu3PRD6aQNzGzxyXIDMr6OODgcyQwJUQyYQkqXpZLHwBNn3StMemQ1kVCsd/Uv6gSCZnXYVGqIJC7EWMZJBDhsysQLaePFb/4Y/TAY9EnAVQglCbf3LRyqQo3uoFkYaVVvATQ5/6qwh31wOCw/R8wXSIZe0LWHlz4VRH4lq00ak31RnyN067/XBWlw==;Uo2nHrVpqPD3yMsJ4dSpJw=="
 ---
 

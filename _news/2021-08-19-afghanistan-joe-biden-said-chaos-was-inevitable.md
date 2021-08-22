@@ -230,6 +230,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Trump: “Joe Biden Was Going on Vacation as Afghanistan Was Going to Hell”"
+    excerpt: "Former President Donald Trump spoke at an outdoor rally in Cullman Saturday night, rebuking the Biden administration on a host of issues, from the economy to Afghanistan, in a speech that lasted about 90 minutes."
+    publishedDateTime: 2021-08-22T03:42:00Z
+    webUrl: "https://www.alabamanews.net/2021/08/21/trump-joe-biden-was-going-on-vacation-as-afghanistan-was-going-to-hell/"
+    type: article
+    provider:
+      name: Alabama News Network
+      domain: alabamanews.net
+    quality: 69
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.alabamanews.net/content/uploads/2021/08/b/w/trumpcullman082121.jpg"
+        width: 500
+        height: 293
+        isCached: true
   - title: "Lindsey Graham adds to calls to impeach Joe Biden saying he ‘deserves’ it if he leaves Americans behind in Afghanistan"
     excerpt: "SENATOR Lindsey Graham said on Friday that President Joe Biden “deserves to be impeached” if any Americans or Afghan allies are left behind during the United States’ evacuation"
     publishedDateTime: 2021-08-21T00:28:00Z

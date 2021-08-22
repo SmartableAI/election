@@ -2,6 +2,62 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-08-04-trump-big-winner-progressives-big-losers-in-twin-ohio-congressional-primaries.md",
+      "title": "Trump big winner, progressives big losers in twin Ohio congressional primaries",
+      "excerpt": "Former President Trump wasn’t on the ballot, but he was one of the winners as the candidate he backed won a GOP primary in a special House election in Ohio’s 15th Congressional District.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gbe4eDHTHX4/trump-winner-progressives-losers-ohio-primaries",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gbe4eDHTHX4/trump-winner-progressives-losers-ohio-primaries",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-winner-progressives-losers-ohio-primaries.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-winner-progressives-losers-ohio-primaries.amp",
+      "publishedDateTime": "2021-08-04T09:27:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-pence-to-take-part-in-symposium-with-college-of-the-ozarks.md",
       "title": "Pence To Take Part In Symposium With College Of The Ozarks",
       "excerpt": "Vice President Micheal Pence poses for his official portrait at The White House, in Washington, D.C., on Tuesday, October 24, 2017. (Official White House Photo by D. Myles Cullen)Former Vice-President",
@@ -1270,63 +1326,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-meghan-mccain-i-skipped-mary-trump-interview-because-shes-too-irrelevant-for-my-time.md",
-      "title": "Meghan McCain: I skipped Mary Trump interview because she's 'too irrelevant for my time'",
-      "excerpt": "Soon-to-be-former “The View” co-host Meghan McCain skipped an interview with guest Mary Trump on Monday's program, saying the former president's niece wasn't worth her time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/meghan-mccain-skipped-mary-trump-interview-irrelevant-time",
-      "originalUrl": "https://www.foxnews.com/media/meghan-mccain-skipped-mary-trump-interview-irrelevant-time",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/74e56eda-375c-4101-a9f3-324be02bfe0e/34369108-f858-4525-a4f9-3556412e89f1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/meghan-mccain-skipped-mary-trump-interview-irrelevant-time.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/meghan-mccain-skipped-mary-trump-interview-irrelevant-time.amp",
-      "publishedDateTime": "2021-08-02T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

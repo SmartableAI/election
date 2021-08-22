@@ -86,20 +86,6 @@ related:
       name: News Tribune
       domain: thenewstribune.com
     quality: 55
-  - title: "Harris' Asia trip carries new urgency after Afghan collapse"
-    excerpt: "The Taliban takeover of Afghanistan has given new urgency to Vice President Kamala Harris' tour of Southeast Asia, where she will attempt to reassure allies of American resolve following the chaotic end of a two-decade war."
-    publishedDateTime: 2021-08-21T22:35:00Z
-    webUrl: "https://www.texarkanagazette.com/news/national/story/2021/aug/21/harris-asia-trip-carries-new-urgency-after-afghan-collapse/884674/"
-    type: article
-    provider:
-      name: Texarkana Gazette
-      domain: texarkanagazette.com
-    quality: 55
-    images:
-      - url: "https://media-cdn.wehco.com/img/photos/2021/08/21/6dvpharris3606975828_t1070_h2e9c6ef4e7aa732d1c98defe9384b0f1f6f7a5d9.jpg"
-        width: 1070
-        height: 713
-        isCached: true
   - title: "Kamala Harris claims she had ‘key role’ in removing US troops from Afghanistan – but now silent since Taliban took power"
     excerpt: "KAMALA Harris claimed she had a “key role” in removing US troops from Afghanistan – but is conveniently staying silent since the Taliban took control of the war-torn country. The"
     publishedDateTime: 2021-08-16T19:49:00Z
@@ -116,6 +102,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Harris' Asia trip carries new urgency after Afghan collapse"
+    excerpt: "The Taliban takeover of Afghanistan has given new urgency to Vice President Kamala Harris' tour of Southeast Asia, where she will attempt to reassure allies of American resolve following the chaotic end of a two-decade war."
+    publishedDateTime: 2021-08-22T07:09:00Z
+    webUrl: "https://columbiabasinherald.com/news/2021/aug/22/harris-asia-trip-carries-new-urgency-after-2/"
+    type: article
+    provider:
+      name: Columbia Basin Herald
+      domain: columbiabasinherald.com
+    quality: 35
 
 secured: "NsZlekQuCHbyT8BfS4ZnAy5UNxN93WRWDdAxrh6gpAggt+opLc5vX5MPajC2OILDS8B0s5+5jpRehQdc+lTygLmJMmh1ViIUuRSGLb4zoQj7IVNceX93ERFhkM3iOI8GajREYA3CT57NMZrcLScIRlfcA89mY7obsyCHlJM2cLoyicXvBdVqt7AgxWBZkOIbPGJ/IO0zc6WVfTI6OBkK77+AerfErEUngFI0P/8n7+e4CAp9OgAc/muc6XJf5NA1mvdSTo3+3bxOycKFo2257RwlWQDSwRST7erS0xw2kIBV0nGqqezzyBchOKC4AJ5G3+7ZTCfNPV3anFPdkaRq7CY65iZlACpI1ADYk7PrzswtjoOTC+NXoMjS7tHYnxV9J4TvCFY7cd+mCIEOCgDkTGDIYUTSoQqNVew18oVmn5OmQBS7i/wTWZgySTpI2BuJmXRlZmGnH4ZbgRmEX5IG2Irr8gzX6MiFb5fedhWc+xV7o+LVvTOsEfsoyCzuotdWoc+efrUsYNCxsj8gE4BW5Q==;Tu53sCIZe1n5h5bsAahpwg=="
 ---

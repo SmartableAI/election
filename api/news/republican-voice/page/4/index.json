@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-28-elizabeth-warren-backs-newsom-in-recall-fight-accuses-trump-republicans-of-coming-to-grab-power.md",
+      "title": "Elizabeth Warren backs Newsom in recall fight, accuses 'Trump Republicans' of 'coming to grab power'",
+      "excerpt": "California Gov. Gavin Newsom received the backing of Sen. Elizabeth Warren in a fiery ad released Wednesday by the top progressive who accused “Trump Republicans” of “coming to grab power in California.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WsqLGxjB4s0/warren-backs-newsom-in-recall-fight",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WsqLGxjB4s0/warren-backs-newsom-in-recall-fight",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/gettyimages-warren.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-28T15:10:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-biden-raises-eyebrows-with-claim-he-used-to-drive-18-wheeler-truck.md",
       "title": "Biden raises eyebrows with claim he 'used to drive' 18-wheeler truck",
       "excerpt": "Biden was visiting a Mack Truck facility when he made the claim to have driven the massive trucks before, which require a special kind of license to drive.",
@@ -1546,62 +1602,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-vaccination-honesty-schools-reopen-community-responsibility.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vaccination-honesty-schools-reopen-community-responsibility.amp",
       "publishedDateTime": "2021-07-21T17:46:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-biden-to-nominate-widow-of-late-sen-ted-kennedy-as-ambassador-to-austria.md",
-      "title": "Biden to nominate widow of late Sen. Ted Kennedy as ambassador to Austria",
-      "excerpt": "President Joe Biden is nominating the widow of late Democratic Sen. Edward M. Kennedy to serve as the United States Ambassador to Austria.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FCtFiR69Pv0/biden-to-nominates-widow-of-late-sen-ted-kennedy-as-ambassador-to-austria",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FCtFiR69Pv0/biden-to-nominates-widow-of-late-sen-ted-kennedy-as-ambassador-to-austria",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7862f13-9e5a-4ea8-8989-4f240981571b/c3d1dd96-73fe-4544-abee-62b37357c069/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-to-nominates-widow-of-late-sen-ted-kennedy-as-ambassador-to-austria.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-nominates-widow-of-late-sen-ted-kennedy-as-ambassador-to-austria.amp",
-      "publishedDateTime": "2021-07-21T17:14:50-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

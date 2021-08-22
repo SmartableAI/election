@@ -59,6 +59,22 @@ related:
         width: 320
         height: 214
         isCached: true
+  - title: "Congresswoman introduces three impeachment resolutions against Pres. Joe Biden"
+    excerpt: "Congresswoman Marjorie Taylor Greene (R-Ga.) announced on her Twitter page late Friday that she introduced three impeachment resolutions against President Joe"
+    publishedDateTime: 2021-08-21T18:15:00Z
+    webUrl: "https://www.wtrf.com/top-stories/congresswoman-introduces-three-impeachment-resolutions-against-pres-joe-biden/"
+    ampWebUrl: "https://www.wtrf.com/top-stories/congresswoman-introduces-three-impeachment-resolutions-against-pres-joe-biden/amp/"
+    cdnAmpWebUrl: "https://www-wtrf-com.cdn.ampproject.org/c/s/www.wtrf.com/top-stories/congresswoman-introduces-three-impeachment-resolutions-against-pres-joe-biden/amp/"
+    type: article
+    provider:
+      name: WTRF.com
+      domain: wtrf.com
+    quality: 71
+    images:
+      - url: "https://www.wtrf.com/wp-content/uploads/sites/25/2021/08/bd483aca5c3c480d97abdfd04d09172c.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Biden to increase food stamp benefits by largest margin in program’s history"
     excerpt: "Average food stamp benefits in October will go up by more than 25 percent from pre-pandemic levels for the 42 million people in the program."
     publishedDateTime: 2021-08-15T19:04:00Z

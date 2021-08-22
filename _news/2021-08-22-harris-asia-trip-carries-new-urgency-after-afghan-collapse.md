@@ -2,27 +2,21 @@
 category: news
 title: "Harris' Asia trip carries new urgency after Afghan collapse"
 excerpt: "The Taliban takeover of Afghanistan has given new urgency to Vice President Kamala Harris' tour of Southeast Asia, where she will attempt to reassure allies of American resolve following the chaotic end of a two-decade war."
-publishedDateTime: 2021-08-21T22:35:00Z
-originalUrl: "https://www.texarkanagazette.com/news/national/story/2021/aug/21/harris-asia-trip-carries-new-urgency-after-afghan-collapse/884674/"
-webUrl: "https://www.texarkanagazette.com/news/national/story/2021/aug/21/harris-asia-trip-carries-new-urgency-after-afghan-collapse/884674/"
+publishedDateTime: 2021-08-22T07:09:00Z
+originalUrl: "https://columbiabasinherald.com/news/2021/aug/22/harris-asia-trip-carries-new-urgency-after-2/"
+webUrl: "https://columbiabasinherald.com/news/2021/aug/22/harris-asia-trip-carries-new-urgency-after-2/"
 type: article
-quality: 55
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Texarkana Gazette
-  domain: texarkanagazette.com
+  name: Columbia Basin Herald
+  domain: columbiabasinherald.com
 
 topics:
   - Election
   - Kamala Harris
-
-images:
-  - url: "https://media-cdn.wehco.com/img/photos/2021/08/21/6dvpharris3606975828_t1070_h2e9c6ef4e7aa732d1c98defe9384b0f1f6f7a5d9.jpg"
-    width: 1070
-    height: 713
-    isCached: true
 
 related:
   - title: "Kamala Harris heads to Vietnam while Afghanistan images rekindle the past"
@@ -117,6 +111,6 @@ related:
         height: 800
         isCached: true
 
-secured: "5vGZ18hNBAw7KV4PWwQH+OGOJEK3HoQ79DjIez3WP8UU4QbAOMIUfeWf3XNXEu2Z11pyXXQVW6K2za2rwS1z4vuUNkvIMy/iH+eBmOLteghxULRlwviBQGPwp4BD4tZ8WO9i/rOtM4htRyyNl84V7003PJ3UkDNWDDLlQEvrjbjJYK8aIXzmkPhydcY5YWAXR5SimJADRA6S/Uy96PFllVfeZN/4LSunPR04Nx/be2X2Wzw9vcxn+xsnCPVa3nAk5AH3udR+1DV7H8FfrbzH8ORPHoQI7S+Wm8f5/GrOPP5uAr6zab6wogbFv7VsxDIKAZejksJv41mPNb+2pqBZQOTwsaNQ5E+zP3wg4Xu2eZM=;lph4vcm+jrVPM2fF8Djaiw=="
+secured: "+evoh4OyO5k8+932kLj6g2xdAsNVOJF+z6VOjkUmQCIGkqCdoe1bn8+Blq96PTfMXwp+3Lg8n7DELBMGZVppQxy7CNEQXkNiZepm6Sjl27evJnRE37tnbUPJUR3ohixvpIjlDtn0RSGv3H2H8k3V+zWIM0XBcCW9kk+hl2MjoBFYBApPkeI6NDzHzxshM+HbFzhBkg01iCfhrEGmfmnsumjsyBu3xsTFZMuWdflR2iNdczCCgezU0qR5OwB2I2HBg+ejDkm2hhR6/88yREYJ27PtWDo/GGGEyJHp5huVot9ALECm6V54Ac+mKN6XAaIzlrM7ZKc4pmJ+fesKoY/aCEdys2hiPbpmlJ88+vmlTeo=;BZEspfcyzUGhxhJCZ1YH6g=="
 ---
 

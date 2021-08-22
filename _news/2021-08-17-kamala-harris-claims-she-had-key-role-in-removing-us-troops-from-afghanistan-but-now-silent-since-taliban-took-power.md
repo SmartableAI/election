@@ -104,18 +104,13 @@ related:
     quality: 55
   - title: "Harris' Asia trip carries new urgency after Afghan collapse"
     excerpt: "The Taliban takeover of Afghanistan has given new urgency to Vice President Kamala Harris' tour of Southeast Asia, where she will attempt to reassure allies of American resolve following the chaotic end of a two-decade war."
-    publishedDateTime: 2021-08-21T22:35:00Z
-    webUrl: "https://www.texarkanagazette.com/news/national/story/2021/aug/21/harris-asia-trip-carries-new-urgency-after-afghan-collapse/884674/"
+    publishedDateTime: 2021-08-22T07:09:00Z
+    webUrl: "https://columbiabasinherald.com/news/2021/aug/22/harris-asia-trip-carries-new-urgency-after-2/"
     type: article
     provider:
-      name: Texarkana Gazette
-      domain: texarkanagazette.com
-    quality: 55
-    images:
-      - url: "https://media-cdn.wehco.com/img/photos/2021/08/21/6dvpharris3606975828_t1070_h2e9c6ef4e7aa732d1c98defe9384b0f1f6f7a5d9.jpg"
-        width: 1070
-        height: 713
-        isCached: true
+      name: Columbia Basin Herald
+      domain: columbiabasinherald.com
+    quality: 35
 
 secured: "4O9GEnSkhx1z7AFe+vWALScWtllnu5qbhY7jhx7+mOqT3RSf9fXQsuclGWCTXS4bQEsALOa4K4CzUHR/ycEweA5pseA+qlwZT5TRw28RR40xNYrNBFQPHP9EsdT4T2EGBp5ren0dU/g6RNHk2YiPEUMSKz2HaqYTOl7XGTcLe8npaJ6KC1/mMUAA7oxUb0Lmc3SJ3H5erxZWxJkrlFIQZvn/xZVDpj9YpaHOLNMypxO0Lp1cm/Ao8ay5mcAb87TLMo66dasLsp1b+WiMFDvMft/iVCQ0FPD/n/o4KuyhXt5hnHFJ0sS9H5L2rDuJUNCwmpg9mze9EI253c2uU4EYVRk1I2Kzedt8tW76XNRTozM=;T6tpPHespXErGtx66j29hQ=="
 ---

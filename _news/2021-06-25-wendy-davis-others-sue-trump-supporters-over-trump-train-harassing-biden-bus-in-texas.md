@@ -2256,6 +2256,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "How Joe Biden's Afghanistan failure could let Donald Trump back in the White House"
+    excerpt: "JOE BIDEN'S response to the crisis in Afghanistan has seen his popularity plummet in America and worldwide, as billions of dollars and hundreds of civilian and service deaths failed to prevent the Taliban from resurging."
+    publishedDateTime: 2021-08-22T06:26:00Z
+    webUrl: "https://www.express.co.uk/news/world/1479670/joe-biden-afghanistan-failure-donald-trump-white-house-evg"
+    ampWebUrl: "https://www.express.co.uk/news/world/1479670/joe-biden-afghanistan-failure-donald-trump-white-house-evg/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/world/1479670/joe-biden-afghanistan-failure-donald-trump-white-house-evg/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 84
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/78/590x/joe-biden-afghanistan-failure-donald-trump-white-house-1479670.jpg?r=1629613588081"
+        width: 590
+        height: 350
+        isCached: true
   - title: "Hear how Putin compared Donald Trump to Joe Biden"
     excerpt: "In an interview with NBC, Russian President Vladimir Putin discussed the relationship between his country and the US, and compared President Biden to his predecessor Donald Trump. CNN's Kaitlan Collin"
     publishedDateTime: 2021-06-11T23:09:00Z

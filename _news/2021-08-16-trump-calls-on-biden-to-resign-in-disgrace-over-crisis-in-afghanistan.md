@@ -905,6 +905,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump slams Biden for Afghanistan withdrawal during Alabama rally appearance"
+    excerpt: "Former President Donald Trump criticized President Joe Biden’s ‘total surrender’ for the United States withdrawal from the Taliban-controlled Afghanistan."
+    publishedDateTime: 2021-08-22T06:15:00Z
+    webUrl: "https://nypost.com/2021/08/22/trump-slams-biden-for-afghanistan-withdrawal-at-alabama-rally/"
+    ampWebUrl: "https://nypost.com/2021/08/22/trump-slams-biden-for-afghanistan-withdrawal-at-alabama-rally/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/22/trump-slams-biden-for-afghanistan-withdrawal-at-alabama-rally/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 147
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/Donald_Trump.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "McConnell Credits Biden for Infrastructure Breakthrough, Dismisses Trump Criticism"
     excerpt: "The Senate minority leader credited the president with helping to get the infrastructure bill passed in the Senate, but said he doesn’t anticipate many more opportunities for Republicans to work with Democrats."
     publishedDateTime: 2021-08-11T08:00:00Z
@@ -1074,6 +1090,17 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 65
+  - title: "'Worst nightmare': Trump hits Biden's 'botched exit in Afghanistan' in first rally since fall of Kabul"
+    excerpt: "Former President Donald Trump called President Joe Biden's \"botched exit in Afghanistan\" the \"worst nightmare\" imaginable during his first public rally since the fall of Kabul to the Taliban."
+    publishedDateTime: 2021-08-22T06:54:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/worst-nightmare-trump-hits-bidens-botched-exit-in-afghanistan"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/worst-nightmare-trump-hits-bidens-botched-exit-in-afghanistan?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/worst-nightmare-trump-hits-bidens-botched-exit-in-afghanistan?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 64
   - title: "Biden Making a Major Mistake on Afghanistan"
     excerpt: "David A. Andelman writes that President Joe Biden should not be setting a date for withdrawal of US troops from Afghanistan since the reason the US first entered the country -- to address a major terrorist threat -- has not been fully addressed."
     publishedDateTime: 2021-04-14T11:37:00Z

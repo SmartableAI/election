@@ -59,6 +59,54 @@
       ]
     },
     {
+      "path": "_news/2021-08-22-stubborn-joe-biden-just-wouldnt-listen-goodwin.md",
+      "title": "Stubborn Joe Biden just wouldn’t listen: Goodwin",
+      "excerpt": "President Biden’s leftist ideology is costing American and Afghan lives in Kabul after ignoring crucial warnings from the US embassy — and now the terrorists are more powerful than",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/08/21/stubborn-joe-biden-just-wouldnt-listen-goodwin/",
+      "originalUrl": "https://nypost.com/2021/08/21/stubborn-joe-biden-just-wouldnt-listen-goodwin/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/BIdenAfghan.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/08/21/stubborn-joe-biden-just-wouldnt-listen-goodwin/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/21/stubborn-joe-biden-just-wouldnt-listen-goodwin/amp/",
+      "publishedDateTime": "2021-08-21T19:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-22-more-than-half-of-kinzingers-gop-primary-challengers-believe-trump-won-the-2020-election.md",
       "title": "More than half of Kinzinger's GOP primary challengers believe Trump won the 2020 election",
       "excerpt": "Even though allegations of widespread fraud in the 2020 presidential election haven't been substantiated, four conservatives challenging Republican U.S. Rep. Adam Kinzinger for his congressional seat insist Donald Trump actually won reelection.",
@@ -465,7 +513,7 @@
       "originalUrl": "https://www.bbc.com/news/world-us-canada-58285923",
       "featuredContent": null,
       "highlight": null,
-      "heat": 485,
+      "heat": 505,
       "tags": null,
       "images": [
         {
@@ -829,7 +877,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot",
       "featuredContent": null,
       "highlight": null,
-      "heat": 425,
+      "heat": 505,
       "tags": null,
       "images": [
         {
@@ -993,7 +1041,7 @@
       "originalUrl": "https://www.newsweek.com/marjorie-taylor-greene-foul-mouthed-broadside-joe-biden-video-1620960",
       "featuredContent": null,
       "highlight": null,
-      "heat": 182,
+      "heat": 202,
       "tags": null,
       "images": [
         {
@@ -1214,49 +1262,6 @@
         "name": "San Antonio Express-News",
         "domain": "expressnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-joe-biden-says-there-was-no-way-to-exit-without-chaos-as-it-happened.md",
-      "title": "Joe Biden says there was no way to exit without ‘chaos’ – as it happened",
-      "excerpt": "This blog is now closed, You can find our latest live coverage here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis?page=with:block-611d91488f0865f6db860f9d",
-      "originalUrl": "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis?page=with:block-611d91488f0865f6db860f9d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis",
-      "publishedDateTime": "2021-08-18T15:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

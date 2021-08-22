@@ -59,6 +59,54 @@
       ]
     },
     {
+      "path": "_news/2021-08-22-stubborn-joe-biden-just-wouldnt-listen-goodwin.md",
+      "title": "Stubborn Joe Biden just wouldn’t listen: Goodwin",
+      "excerpt": "President Biden’s leftist ideology is costing American and Afghan lives in Kabul after ignoring crucial warnings from the US embassy — and now the terrorists are more powerful than",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/08/21/stubborn-joe-biden-just-wouldnt-listen-goodwin/",
+      "originalUrl": "https://nypost.com/2021/08/21/stubborn-joe-biden-just-wouldnt-listen-goodwin/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/BIdenAfghan.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/08/21/stubborn-joe-biden-just-wouldnt-listen-goodwin/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/21/stubborn-joe-biden-just-wouldnt-listen-goodwin/amp/",
+      "publishedDateTime": "2021-08-21T19:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-21-west-virginia-ag-sues-biden-admin-over-border-policy-reversal-tied-to-devastating-fentanyl-flow.md",
       "title": "West Virginia AG sues Biden admin over border policy reversal tied to ‘devastating’ fentanyl flow",
       "excerpt": "West Virginia Attorney General Patrick Morrisey is suing the Biden administration over a key immigration policy reversal he says has fueled a \"devastating\" flow in the deadly drug fentanyl.",
@@ -738,7 +786,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 295,
+      "heat": 315,
       "tags": null,
       "images": [
         {
@@ -794,7 +842,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1530,
+      "heat": 1570,
       "tags": null,
       "images": [
         {
@@ -1607,63 +1655,6 @@
       "topics": [
         "Election",
         "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-cuomo-avenatti-the-lincoln-project-the-medias-anti-trump-idols-whove-collapsed-in-disgrace.md",
-      "title": "Cuomo, Avenatti, The Lincoln Project: The media's anti-Trump idols who've collapsed in disgrace",
-      "excerpt": "Democratic New York Gov. Andrew Cuomo was not only hailed by the media as a hero of the coronavirus pandemic; he was also being floated as a presidential candidate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/andrew-cuomo-michael-avenatti-the-lincoln-project",
-      "originalUrl": "https://www.foxnews.com/media/andrew-cuomo-michael-avenatti-the-lincoln-project",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/19744884-ba06-42c5-ace0-e4be0c36d8cb/33d50dff-5424-46d5-995b-a2e58056de34/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/andrew-cuomo-michael-avenatti-the-lincoln-project.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/andrew-cuomo-michael-avenatti-the-lincoln-project.amp",
-      "publishedDateTime": "2021-08-12T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

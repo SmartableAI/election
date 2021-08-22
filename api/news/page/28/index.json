@@ -2,6 +2,58 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-06-25-in-this-rural-virginia-district-a-young-republican-turns-toward-trump-in-faceoff-against-blm-supporter.md",
+      "title": "In this rural Virginia district, a young Republican turns toward Trump in faceoff against BLM supporter",
+      "excerpt": "Newcomer Wren Williams, who worked on the Trump campaign recount, faces a November contest with Black Lives Matter advocate Bridgette Craighead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/local/virginia-politics/wren-williams-virginia-republican-house/2021/06/24/4f5e6ff2-cf8d-11eb-8cd2-4e95230cfac2_story.html",
+      "originalUrl": "https://www.washingtonpost.com/local/virginia-politics/wren-williams-virginia-republican-house/2021/06/24/4f5e6ff2-cf8d-11eb-8cd2-4e95230cfac2_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/65UWZ6GTNYI6XM47AWRNO5VR6Q.jpg&w=1440",
+          "width": 1440,
+          "height": 990,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/local/virginia-politics/wren-williams-virginia-republican-house/2021/06/24/4f5e6ff2-cf8d-11eb-8cd2-4e95230cfac2_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/virginia-politics/wren-williams-virginia-republican-house/2021/06/24/4f5e6ff2-cf8d-11eb-8cd2-4e95230cfac2_story.html?outputType=amp",
+      "publishedDateTime": "2021-06-25T00:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-biden-bets-on-his-own-old-fashioned-belief-that-washington-can-work.md",
       "title": "Biden bets on his own, old-fashioned belief that Washington can work",
       "excerpt": "President Joe Biden is using words not heard in Washington for many a long year, like \"trust,\" \"consensus\" and \"compromise.\" He's even convinced that \"friends\" on the other side of the nation's deep political chasm will keep their word.\n    \n",
@@ -1293,63 +1345,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-kennedy-blasts-biden-chicago-became-the-worlds-largest-outdoor-shooting-range-because-of-liberal-policies.md",
-      "title": "Kennedy blasts Biden: 'Chicago became the world's largest outdoor shooting range' because of liberal policies",
-      "excerpt": "La., sounded off Wednesday on “Hannity” following President Biden's address laying out his plan to tamp down the nationwide crime surge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/john-kennedy-joe-biden-chicago-crime",
-      "originalUrl": "https://www.foxnews.com/media/john-kennedy-joe-biden-chicago-crime",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4be42c86-a543-48f5-8c8b-a24a66c35e58/e9c96052-799a-451d-a4ee-87c030fd77ea/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/john-kennedy-joe-biden-chicago-crime.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/john-kennedy-joe-biden-chicago-crime.amp",
-      "publishedDateTime": "2021-06-23T20:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

@@ -109,6 +109,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Joe Biden Is Who We Said He Was"
+    excerpt: "NRPLUS MEMBER ARTICLE J oe Biden has badly, visibly bungled America’s withdrawal from Afghanistan. He has compounded the problem with his sluggish and dishonest public statements. This has gone so badly that even people and institutions that are normally sympathetic to Biden and his party have noticed."
+    publishedDateTime: 2021-08-21T10:30:00Z
+    webUrl: "https://www.nationalreview.com/2021/08/joe-biden-is-who-we-said-he-was/"
+    ampWebUrl: "https://www.nationalreview.com/2021/08/joe-biden-is-who-we-said-he-was/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/2021/08/joe-biden-is-who-we-said-he-was/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 75
+    images:
+      - url: "https://www.nationalreview.com/wp-content/uploads/2021/08/joe-biden-white-house-3.jpg?fit=2057%2C1200"
+        width: 2057
+        height: 1200
+        isCached: true
   - title: "Poll: Biden sees dip in support amid new COVID cases"
     excerpt: "President Joe Biden is facing a summer slump, with Americans taking a notably less positive view of his handling of the coronavirus pandemic."
     publishedDateTime: 2021-08-21T15:31:00Z
@@ -236,6 +252,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Biden sees dip in support amid new COVID cases: AP-NORC poll"
+    excerpt: "President Joe Biden is facing a summer slump, with Americans taking a notably less positive view of his handling of the coronavirus pandemic and his job approval rating ticking down."
+    publishedDateTime: 2021-08-22T06:48:00Z
+    webUrl: "https://www.hotsr.com/news/2021/aug/22/biden-sees-dip-in-support-amid-new-covid-cases-ap/"
+    type: article
+    provider:
+      name: The Sentinel-Record
+      domain: hotsr.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/199196659_199196659-f8756b9ee1314841910e48cd44853b1a_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Ron DeSantis slams Joe Biden ‘lack of leadership’ at event highlighting COVID-19 treatment"
     excerpt: "Ron DeSantis turned his attention from COVID-19 to the White House. DeSantis aired grievances yet again about a perceived “lack of leadership” from President Joe Biden, showing that even at an event focused on the virus,"
     publishedDateTime: 2021-08-19T18:28:00Z
@@ -250,6 +280,24 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Biden's view of job comes into focus after Afghan collapse"
+    excerpt: "But authority over America's longest war finally fell into Biden's hands this year and he insisted that the U.S. withdraw from Afghanistan, settling on an Aug. 31 deadline. And despite the rapid collapse of the Afghan government,"
+    publishedDateTime: 2021-08-22T07:09:00Z
+    webUrl: "https://columbiabasinherald.com/news/2021/aug/22/bidens-view-of-job-comes-into-focus-after-2/"
+    type: article
+    provider:
+      name: Columbia Basin Herald
+      domain: columbiabasinherald.com
+    quality: 35
+  - title: "COLUMN: Joe Biden does his best Jimmy Carter impersonation"
+    excerpt: "Barely seven months into Joe Biden’s tenure as president and it’s already clear that his administration’s potential to create havoc is unparalleled in recent memory. The debacle in Afghanistan serves"
+    publishedDateTime: 2021-08-22T06:30:00Z
+    webUrl: "https://independenttribune.com/opinion/columnists/column-joe-biden-does-his-best-jimmy-carter-impersonation/article_410a5af2-01af-11ec-ad1c-035a59d6e99b.html"
+    type: article
+    provider:
+      name: Independent Tribune
+      domain: independenttribune.com
+    quality: 35
 
 secured: "Gew1ey/Ll/Pb4yRtu4Pif1iA9OmA5wU2AxHgbNyCaA10wgzMOjYmNVdUsFqGRm/l+0d0LJBih39DXgp2tZ0MxoxJ1XilUg/RGZVZrL20xWX7fgiDCkYgahtdRGx0BPvNC9UYg/N+cp00MwQ3S4NH0TITOCgP6ipvQ1E5qk/UOKFFJiaawEIb+4mWMo4nO6P4beWEn8kJtV5SiBZymIxxWBVVVUh6jOyMGqPtZ+5wt7wJJsKNvZCXtnjhYbhbeztyV4dZ5c0GS3flVlt+gABxu+MU+b3aaUUEkkZdlRudiTQeymoiqqszgCQjtXjchrSbSfjViqGpcydC75nDqFT5Ki4SRmfpq5Rogv9QXuIwg0g15xkenqW7DvB2+dAJcM0orPSDwpS5GabKbXRzT75NtcC2ey+7yqh0rOPKNZH11e5Xz8mrdYozpJN+l0AjgrUsEV3L5EX6xH6BKiTFwsCV9JXyVO3nRulQ67yY/8RIbNu9BF078sfut5+1mFb7NGPFgZrngAZ9PYuR/laCzALPMw==;tpQgv880tdHJgB3QOQnpig=="
 ---
