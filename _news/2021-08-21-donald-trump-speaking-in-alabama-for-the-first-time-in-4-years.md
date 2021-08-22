@@ -9,7 +9,7 @@ ampWebUrl: "https://www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for
 cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for-the-first-time-in-4-years.html?outputType=amp"
 type: article
 quality: 75
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
     excerpt: "Saturday is going to be the first time former President Donald Trump is back in Alabama since 2017. There's a Trump Rally going on this weekend in Cullman and it's expected to bring out thousands of people."
     publishedDateTime: 2021-08-19T00:53:00Z
     webUrl: "https://www.waaytv.com/content/national/Former-President-Donald-Trump-returns-to-Alabama-for-the-first-time-since-2017-575126071.html"
+    ampWebUrl: "http://www.waaytv.com/templates/AMP?contentID=575126071"
+    cdnAmpWebUrl: "https://www-waaytv-com.cdn.ampproject.org/c/www.waaytv.com/templates/AMP?contentID=575126071"
+    type: article
+    provider:
+      name: WAAY-TV
+      domain: waaytv.com
+    quality: 63
+    images:
+      - url: "http://media.heartlandtv.com/images/One+of+the+Front+Row+Joe's+for+the+Cullman+Trump+Rally.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Cullman preparing as former President Donald Trump returns to Alabama for first time since 2017"
+    excerpt: "Saturday is going to be the first time former President Donald Trump is back in Alabama since 2017. There's a Trump Rally going on this weekend in Cullman and it's expected to bring out thousands of people."
+    publishedDateTime: 2021-08-20T23:38:00Z
+    webUrl: "https://www.waaytv.com/content/news/Former-President-Donald-Trump-returns-to-Alabama-for-the-first-time-since-2017-575126071.html"
     ampWebUrl: "http://www.waaytv.com/templates/AMP?contentID=575126071"
     cdnAmpWebUrl: "https://www-waaytv-com.cdn.ampproject.org/c/www.waaytv.com/templates/AMP?contentID=575126071"
     type: article

@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump targets Biden over Afghanistan but gets booed briefly on vaccines at Alabama rally"
+    excerpt: "Former President Trump repeatedly criticized President Biden over the Afghanistan evacuation, inflation, crime, and COVID, during a large rally in Alabama on Saturday night, but he was booed by the crowd when urging that they get vaccinated."
+    publishedDateTime: 2021-08-22T13:50:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/W1UW3wy2_GU/trump-targets-biden-over-afghanistan-but-gets-booed-briefly-on-vaccines-at-alabama-rally"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-targets-biden-over-afghanistan-but-gets-booed-briefly-on-vaccines-at-alabama-rally.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-targets-biden-over-afghanistan-but-gets-booed-briefly-on-vaccines-at-alabama-rally.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "World leaders blame Biden, express disappointment with Afghanistan"
     excerpt: "Boris Johnson placed least some of the blame on the United States and President Joe Biden"
     publishedDateTime: 2021-08-15T21:02:03Z

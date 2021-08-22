@@ -145,6 +145,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fade to Gray: Defending Joe Biden"
+    excerpt: "Defending Joe Biden Not so many weeks ago, a person who doesn’t like me or this column wrote an email to my boss at the TV station in an attempt to get me into trouble. He said, “You know he’s a"
+    publishedDateTime: 2021-08-22T11:30:00Z
+    webUrl: "https://www.troyrecord.com/2021/08/22/530484/"
+    ampWebUrl: "https://www.troyrecord.com/2021/08/22/530484/amp/"
+    cdnAmpWebUrl: "https://www-troyrecord-com.cdn.ampproject.org/c/s/www.troyrecord.com/2021/08/22/530484/amp/"
+    type: article
+    provider:
+      name: Troy Record
+      domain: troyrecord.com
+    quality: 75
+    images:
+      - url: "https://www.troyrecord.com/wp-content/uploads/2021/08/2c2884717385c1ebd57341b99a9509fb-1.jpg?w=1024&#038;h=1545"
+        width: 1024
+        height: 1545
+        isCached: true
   - title: "Joe Biden goes on HOLIDAY again! POTUS has worked for only 4 days during Afghan fiasco"
     excerpt: "Biden has worked only four days out of the last 15, ever since the Taliban captured their first regional capital"
     publishedDateTime: 2021-08-21T10:05:00Z

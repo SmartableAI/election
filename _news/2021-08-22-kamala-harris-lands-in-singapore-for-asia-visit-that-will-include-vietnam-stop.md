@@ -48,22 +48,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Kamala Harris plans Vietnam visit – just as Afghanistan draws comparisons to fall of Saigon"
-    excerpt: "Kamala Harris’ planned trip to Vietnam next week comes as the current crisis in Afghanistan has drawn comparisons to the fall of Saigon in the 1970s."
-    publishedDateTime: 2021-08-18T03:17:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/co29pDoySOU/kamala-harris-vietnam-afghanistan-comparisons-fall-of-saigon"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-vietnam-afghanistan-comparisons-fall-of-saigon.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-vietnam-afghanistan-comparisons-fall-of-saigon.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/98cc8f46-bb4f-4562-9c0a-4acf73ccfd0a/094faee1-0a8a-42b8-9dd1-011ad8daa6f7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Kamala Harris to travel to Vietnam, Singapore next month amid China tensions, US border crisis"
     excerpt: "Vice President Kamala Harris has another big trip ahead – but it won't be a return visit to the U.S.-Mexico border."
     publishedDateTime: 2021-07-31T05:14:41Z
@@ -95,6 +79,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/kamala-harris-heads-to-Singapore-and-Vietnam-featured.jpg?quality=90&strip=all&w=1024"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Kamala Harris plans Vietnam visit – just as Afghanistan draws comparisons to fall of Saigon"
+    excerpt: "Kamala Harris’ planned trip to Vietnam next week comes as the current crisis in Afghanistan has drawn comparisons to the fall of Saigon in the 1970s."
+    publishedDateTime: 2021-08-18T03:19:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-vietnam-afghanistan-comparisons-fall-of-saigon"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-vietnam-afghanistan-comparisons-fall-of-saigon.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-vietnam-afghanistan-comparisons-fall-of-saigon.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 125
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/98cc8f46-bb4f-4562-9c0a-4acf73ccfd0a/094faee1-0a8a-42b8-9dd1-011ad8daa6f7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "ZHLPn16VicRqxiX3Na+80pr+lyzOtIVHvHKj777JtaORu/wAsEaKc7rowATe1T0cATA8zKEpYUU0gGbOdqYTB4HHD7O3AzqJyplbnvK4bbKCX6j0uh/DD4MFoXnL0rjmUaRcl+WujJZwj6PgnuB5YIJVycjcm4/8g33of0CjXbvYd7aSsN0/CcCvJ1GFgi9uzoZIKMHF2hD1vQRxmR61JrcIHg13PfF0maGn8GdIlvl0lafCTfUnTkVWo0EruHocoZHib3gy52a0t4iT8nsaV1ijUDNcXgQAZ9RRi+YzC3pUVjUfWs20dVH7JUa6bzxjIOQTr93kLACT9twCknvtI8ba1ZJf8fJJZjpV5I8H40Q=;gUMm8ZZ6He7BkKkgQV8cBA=="

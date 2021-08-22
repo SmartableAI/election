@@ -41,6 +41,20 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Donald Trump Encouraged People at His Rally to Get Vaccinated. They Booed Him."
+    excerpt: "According to a Trump adviser, the then-president and his wife, Melania, got the vaccine in January—a fact that wasn’t reported until March . 2) The rally brought thousands of people to York Family Farms in Cullman County,"
+    publishedDateTime: 2021-08-22T13:52:00Z
+    webUrl: "https://www.motherjones.com/politics/2021/08/donald-trump-cullman-alabama-rally-covid-boo/"
+    type: article
+    provider:
+      name: Mother Jones
+      domain: motherjones.com
+    quality: 51
+    images:
+      - url: "https://www.motherjones.com/wp-content/uploads/2021/08/20210822_cullman.jpg?w=1200&h=630&crop=1"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "F47B92obTLhi6xlUrWAA2mVvWhJRdgeumdbzwcBBn6NAnCT3yGAzuMQen/pRE8fVUxbgma/3T+4AXes7UU9vUnHe+TkaKak/GLJnbaIcqlbeiTXjuKgfBr+yZsxfNxIK8yy5CA38XIQaeYkdFqgrmP121qJuoQeheh7NB4xX9AAETg1rDw4uBO49KfRQP+NSqXx86kYHl9QHfdmR7UcvGBFotzp69r+75b+NhsgwpXYW+3DlNVWUCNFJSvPIfagFAv1VZPxFK1swPUx2QWRIWUUlAZx4lbR0a7ItCs2Ixl/muQltKovzHJ88xHf9eyKL0ASnYxHxmCBS8bc1gFR8epF2vp11G3XC6jG7Xe+bPxc=;aBYHL9gcYM1Qfi+F9N2PWA=="
 ---

@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump targets Biden over Afghanistan but gets booed briefly on vaccines at Alabama rally"
+    excerpt: "Former President Trump repeatedly criticized President Biden over the Afghanistan evacuation, inflation, crime, and COVID, during a large rally in Alabama on Saturday night, but he was booed by the crowd when urging that they get vaccinated."
+    publishedDateTime: 2021-08-22T13:50:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/W1UW3wy2_GU/trump-targets-biden-over-afghanistan-but-gets-booed-briefly-on-vaccines-at-alabama-rally"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-targets-biden-over-afghanistan-but-gets-booed-briefly-on-vaccines-at-alabama-rally.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-targets-biden-over-afghanistan-but-gets-booed-briefly-on-vaccines-at-alabama-rally.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Psaki grilled on whether Biden created vaccine hesitancy with 2020 comments slamming Trump"
     excerpt: "White House press secretary Jen Psaki was grilled on whether or not President Biden encouraged vaccine hesitancy with comments he made last year cautioning he did not “trust” former President Donald Trump"
     publishedDateTime: 2021-08-11T18:15:11Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/tv-and-radio/2021/aug/22/tv-tonight-ruby
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/tv-and-radio/2021/aug/22/tv-tonight-ruby-wax-revisits-her-time-with-donald-trump"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.timesheraldonline.com/wp-content/uploads/2021/08/SJM-L-CAMPAIGN-0814-09-1.jpg?w=1024&#038;h=685"
         width: 1024
         height: 685
+        isCached: true
+  - title: "Trump Booed After Encouraging Vaccinations"
+    excerpt: "Former President Donald Trump was booed by his own supporters during a rally in Cullman, Alabama Saturday night after he encouraged the crowd to get vaccinated against COVID-19,” Newsweek reports."
+    publishedDateTime: 2021-08-22T12:29:00Z
+    webUrl: "https://politicalwire.com/2021/08/22/trump-booed-after-encouraging-vaccinations/"
+    type: article
+    provider:
+      name: Political Wire
+      domain: politicalwire.com
+    quality: 55
+    images:
+      - url: "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg"
+        width: 1400
+        height: 1400
         isCached: true
 
 secured: "hiND7L3YjCyepztl0GHbbxkwz4CcPXk4y5wEB/bVl/q3o7A1XHX3KDNnctKMlvi7yxrrqcmD8q4D3BAGdM5G9zPqZgEa/lrcAEKAlrUFfV9O5l77Rz47mYCtqQ7BdDrulvBNXOaRC6qg+IZ2QgvjVZ0f8M72+lWrNeak+SN10ivpp1RIAjNcwXUbq9MFX0zope9qirEYumsmgO3Hb2pv1xLlheXIeGDUkpoBiFjLWozDxqyGkc5Y5ewqlm4eXp0EZ86Do28cWE0ZiLFMw4e1QoelyfSMrrgst+WgjFCqa8c70O4lMp+q6W1rxv0eqdUhfLQ/BecyWMR1ebqgOqap0DUnRHVYCQ/w+hpMHUgHGoxmLFP8NYROIgTsgHu1loEXYNpweTBdzZ/Fh7Ve+K90uePNd4PfUGkHiWEYov4jd8Zn6sH8g8P3ImDiIDhHqmTsS48twTKMSs7tIJ3+TJm79Mk4jNlF44wMXxIMqtckHBVMVxcLo8/VdaL1XCSgSFrgdU9yZuOQs4AeCGWQLtuozQ==;bijbjpZnStTrW8ZlHP316g=="

@@ -151,6 +151,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fade to Gray: Defending Joe Biden"
+    excerpt: "Defending Joe Biden Not so many weeks ago, a person who doesn’t like me or this column wrote an email to my boss at the TV station in an attempt to get me into trouble. He said, “You know he’s a"
+    publishedDateTime: 2021-08-22T11:30:00Z
+    webUrl: "https://www.troyrecord.com/2021/08/22/530484/"
+    ampWebUrl: "https://www.troyrecord.com/2021/08/22/530484/amp/"
+    cdnAmpWebUrl: "https://www-troyrecord-com.cdn.ampproject.org/c/s/www.troyrecord.com/2021/08/22/530484/amp/"
+    type: article
+    provider:
+      name: Troy Record
+      domain: troyrecord.com
+    quality: 75
+    images:
+      - url: "https://www.troyrecord.com/wp-content/uploads/2021/08/2c2884717385c1ebd57341b99a9509fb-1.jpg?w=1024&#038;h=1545"
+        width: 1024
+        height: 1545
+        isCached: true
   - title: "Joe Biden goes on HOLIDAY again! POTUS has worked for only 4 days during Afghan fiasco"
     excerpt: "Biden has worked only four days out of the last 15, ever since the Taliban captured their first regional capital"
     publishedDateTime: 2021-08-21T10:05:00Z
@@ -332,6 +348,6 @@ related:
       domain: tigerdroppings.com
     quality: 35
 
-secured: "FjKIU2+tu2qGfyss2Yf4ZYLXYiBIbokavvuO7CcxXRlZh/IUAzrQoGOREwEep4DqXkTP8Je17O84nGeBVdhWUpg5B6Tu662JIndvzlRj5RXFjK4ATg/O1su2bXifkKWdO+0UMaYoPdHNjaHTNlAPDMEtsdsm1GQzkK0QHa8opJyrV7wr5JPcw6f7cSh6Jd97rhb3pvqOZ8pvHRJ9pdLN0xv7zX0nmX+VGe3uMjWoEor/yaLscxY+M6T9eWe4TgmST6/Fs3AJcDc+RmGDQjrwnAikJAD4X1DNQIrIDTKbORNRVf+BtRRFH4/2Ykc54I2pvrxsSCtjwT0M+GwdCmd3hJi0EJ13GaYxagt7iGO19bk=;qwg1kRaomnmrhUegCjHJIA=="
+secured: "4wgH0MmDxoZSJ3rz4woc2Id7TSRcqKMdw0nqAhY0SVMRphoIxGGSr3ufT6lC9gi9JzXxkt1upqD8ijV2gLNmLxzU0Tg8xC3Qg9ryBSIfG0kwF+cvkH7sSLekhW6Anhq2LD0qhPcoL7wBcEToIzDWTMrgmPz5cB8QjvH/607/QxblJT4aqQQhBy34fJDxxrwdzNblMHWNMiTt7IGunvxDic+JymZnAdVYMIjJy4pD2zDvyDfcW5Pg+MMxa5tdDFbHOuVT3CYoDrls4tQg02OoHNlHRYVoZ8vKfYW7zyg2LVijTlsDilUee0F2ffuDqA/NnuIM5GJbCkCzo6ROEpw4mBZ9DuTMfYaFyERu3Jni0pq4Y8v4Ks0r0BdTN939und3V8aKGZR2FEQ4Ptup62c1sOYaQ33GMaDNHEjovFrpEE1B9ORjBcliiWXIvBjyXQYhU2+UGiXiStG7KvFxa0GW2ME1YFdw67nSmDZ7nXIyJUoaVTH5SkZ/7QVgKYHqIHKmBuwLc86zHOuoPN6Yt1W+lQ==;TdNIfwOkFhqJUa49Ds3c1g=="
 ---
 

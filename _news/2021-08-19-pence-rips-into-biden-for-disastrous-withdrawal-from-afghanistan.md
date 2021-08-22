@@ -141,6 +141,22 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 95
+  - title: "Biden follows through on Trump’s promise about Afghanistan | Letter"
+    excerpt: "President Biden is following through on President Trump’s agreement with the Taliban, only a few months late, writer says."
+    publishedDateTime: 2021-08-22T12:57:00Z
+    webUrl: "https://www.lehighvalleylive.com/opinion/2021/08/biden-follows-through-on-trumps-promise-about-afghanistan-letter.html"
+    ampWebUrl: "https://www.lehighvalleylive.com/opinion/2021/08/biden-follows-through-on-trumps-promise-about-afghanistan-letter.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-lehighvalleylive-com.cdn.ampproject.org/c/s/www.lehighvalleylive.com/opinion/2021/08/biden-follows-through-on-trumps-promise-about-afghanistan-letter.html?outputType=amp"
+    type: article
+    provider:
+      name: Lehigh Valley Live
+      domain: lehighvalleylive.com
+    quality: 90
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JAOVWG5GBJB6LNFWLNFMKHASPA.jpg"
+        width: 2997
+        height: 1998
+        isCached: true
   - title: "Trump blasts Afghanistan withdrawal at Alabama rally, Biden’s ‘display of gross incompetence’"
     excerpt: "Former President Donald Trump railed against the Biden administration’s withdrawal from Afghanistan Saturday, calling the still-unfolding exit “the greatest foreign policy humiliation in the history of the United States of America."
     publishedDateTime: 2021-08-22T05:20:00Z
@@ -294,6 +310,20 @@ related:
       - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/SF-lindsey-graham-calls-for-biden-impeachment-UPDATe-OFF-PLTFRM-COMP-.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
         width: 1200
         height: 800
+        isCached: true
+  - title: "‘Everything woke turns to sh*t’: Trump rails on Biden, generals at massive rally for ‘total surrender’ in Afghanistan"
+    excerpt: "\"I warned the entire country of the disastrous consequences of a Biden presidency. I understood; a lot of you understood it,\" Trump said."
+    publishedDateTime: 2021-08-22T12:05:00Z
+    webUrl: "https://www.bizpacreview.com/2021/08/22/everything-woke-turns-to-sht-trump-rails-on-biden-generals-at-massive-rally-for-total-surrender-in-afghanistan-1122636/"
+    type: article
+    provider:
+      name: BizPac Review
+      domain: bizpacreview.com
+    quality: 47
+    images:
+      - url: "https://www.bizpacreview.com/wp-content/uploads/2021/08/SG-trump-alabama-rally-1200x630.jpeg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Ron DeSantis calls Joe Biden ‘obsessed’ with masking kindergarteners amid Afghanistan crisis"
     excerpt: "Ron DeSantis says President Joe Biden is “obsessed” with masking children with schools after the President leveled another attack admonishment against Republican governors blocking local mask orders."

@@ -43,6 +43,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump Booed After Encouraging Vaccinations"
+    excerpt: "Former President Donald Trump was booed by his own supporters during a rally in Cullman, Alabama Saturday night after he encouraged the crowd to get vaccinated against COVID-19,” Newsweek reports."
+    publishedDateTime: 2021-08-22T12:29:00Z
+    webUrl: "https://politicalwire.com/2021/08/22/trump-booed-after-encouraging-vaccinations/"
+    type: article
+    provider:
+      name: Political Wire
+      domain: politicalwire.com
+    quality: 55
+    images:
+      - url: "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg"
+        width: 1400
+        height: 1400
+        isCached: true
 
 secured: "F7SOZIqpRl6u8DbhBwRELjK91bsR1CUPp/bUhpY8IZrcCJAS0tKlDhDVDSs97iP3KM19XMKT0/Ynm1OE5EH7Z3dZmujGjYXvHBcvF4k7GxFP905+DKG7/rvdSn5bJIPz/ok3BOSq+n4eghC4zNqlDtSq9r5jvqhLA5dy6F4aw71gfG9nhoEwz4s3cLKMnqUGPEs2un6IEVBb8BCEvT6KQEt7kXCyWDmxtfXcml/zVwGtk3IBzI6zhsEhkJvkG+gZ08fm4Xi4ck6/NL3Sc5QGTRhuKHBzrPswfGYd0ToH9fJ6+L0oPUqZyUpg/Ehi5GY3AzUBGiRvfyK2rJy3N6mfuh3o9baxC+ZMbJstWLJQ2rE=;7JA2giDJPiejz818/uflMQ=="
 ---

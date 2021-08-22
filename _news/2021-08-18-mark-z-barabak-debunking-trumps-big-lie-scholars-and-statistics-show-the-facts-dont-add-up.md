@@ -105,6 +105,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Cullman preparing as former President Donald Trump returns to Alabama for first time since 2017"
+    excerpt: "Saturday is going to be the first time former President Donald Trump is back in Alabama since 2017. There's a Trump Rally going on this weekend in Cullman and it's expected to bring out thousands of people."
+    publishedDateTime: 2021-08-20T23:38:00Z
+    webUrl: "https://www.waaytv.com/content/news/Former-President-Donald-Trump-returns-to-Alabama-for-the-first-time-since-2017-575126071.html"
+    ampWebUrl: "http://www.waaytv.com/templates/AMP?contentID=575126071"
+    cdnAmpWebUrl: "https://www-waaytv-com.cdn.ampproject.org/c/www.waaytv.com/templates/AMP?contentID=575126071"
+    type: article
+    provider:
+      name: WAAY-TV
+      domain: waaytv.com
+    quality: 63
+    images:
+      - url: "http://media.heartlandtv.com/images/One+of+the+Front+Row+Joe's+for+the+Cullman+Trump+Rally.jpg"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "sQb7aVFvUAVslI1VO1n5ASQvOtjwQQPVANU81FEI8TGc4JU+/m8bJikDARpmkvj7eDA3Bf05DGnUAh8HEp8Jsolf/EERAVo+/+b1LXa/QNbg5Wux91CABTBh4bGZu1osUcy82tCHz3n06+L/rQ6KlQAiaF0zuX1R7CdfzqPTeuOfCUETLj4v3NOoMH+vATFFyNg8dzB2pMFL/YIqo5+qwJrnjJa/UTZLYUF6Y6+xWcCDWor4SbF4ayKuItK0+0FXXMIQFq1oio/Qh+1q0FFrBd5RCtwvNvDk8GcxHp6RhizHcS95V4kEV5SP//gRNiZXC23l4Xgt+2Yc5wDa2hF/9bXyVeX5lirQLvEIYhqE9/g=;AiNdp6MKO/uEzVnnXeVGwA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-biden-resign-crisis-afghanist
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-resign-crisis-afghanistan.amp"
 type: article
 quality: 190
-heat: 1590
+heat: 1610
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 182
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump targets Biden over Afghanistan but gets booed briefly on vaccines at Alabama rally"
+    excerpt: "Former President Trump repeatedly criticized President Biden over the Afghanistan evacuation, inflation, crime, and COVID, during a large rally in Alabama on Saturday night, but he was booed by the crowd when urging that they get vaccinated."
+    publishedDateTime: 2021-08-22T13:50:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/W1UW3wy2_GU/trump-targets-biden-over-afghanistan-but-gets-booed-briefly-on-vaccines-at-alabama-rally"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-targets-biden-over-afghanistan-but-gets-booed-briefly-on-vaccines-at-alabama-rally.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-targets-biden-over-afghanistan-but-gets-booed-briefly-on-vaccines-at-alabama-rally.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

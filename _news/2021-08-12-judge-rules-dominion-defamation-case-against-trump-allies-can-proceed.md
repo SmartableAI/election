@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/dominion-defamation-case-rudy-giuli
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/dominion-defamation-case-rudy-giuliani-sidney-powell-mike-lindell/"
 type: article
 quality: 125
-heat: 785
+heat: 805
 published: true
 
 provider:
@@ -488,6 +488,15 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
+    quality: 35
+  - title: "Donald Trump's Immigration Reform"
+    excerpt: "While Donald Trump might be the front runner for the Republican Party, facts and data seem to show that his campaign might be nothing more than a Though this country was founded on immigration, the nation has changed dramatically in regards to its economic,"
+    publishedDateTime: 2021-08-18T18:23:00Z
+    webUrl: "https://www.123helpme.com/essay/Donald-Trumps-Immigration-Reform-FJWC3GTHCB"
+    type: article
+    provider:
+      name: 123HelpMe
+      domain: 123helpme.com
     quality: 35
 
 secured: "8KeaZErHowd8SJG/wD+g6W97c2GZzeT4hITcignrzvN4xviGg3helSxwjUW8DMmAQZS3dl9q0AEhB1aIQQqkPLvPBPCpYZJ4Vb3tSn7vaUzHp8mn1SNzDATi4yakqR5QMHqARt4pbtr7dCvsvk1YIxXM21JAa074hIufslKMefIht/ubd3Fbrkbi25vmytNrLYBv2qziApbVX7JW1RfRMr7tB0Ge53nBFHjHPiONr5IclqAIiK600tapfqhtqt3GKl2tbIt2NIwgTS2UfzNAyOshUiz7Yk7RryzeiEMsafovvFvmPQ15Gj7G9t/gsE3XLFbWb5qId6/krdM9y5vD4oAT/f2gZRSKaIfXpA06G6b1f+aPmGTXVfqvm3BEPbSp3bp6KDbJ+5w4GH1YMoXvfsog0F8Uw7frPHxpIPOdloPoUHkngLHASgsR/mqPL72OjA4LU64et+AivlKtAhgB1TfE1MOd266Y33O9VuO9fuhWkSXW0d+2A7rdWjTjwUD2SahA8yIZuZu/bNgwheDLRA==;YcAbGI2INY1u3c0BjdWm1Q=="

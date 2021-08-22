@@ -91,6 +91,22 @@ related:
         width: 6000
         height: 4000
         isCached: true
+  - title: "Cullman preparing as former President Donald Trump returns to Alabama for first time since 2017"
+    excerpt: "Saturday is going to be the first time former President Donald Trump is back in Alabama since 2017. There's a Trump Rally going on this weekend in Cullman and it's expected to bring out thousands of people."
+    publishedDateTime: 2021-08-20T23:38:00Z
+    webUrl: "https://www.waaytv.com/content/news/Former-President-Donald-Trump-returns-to-Alabama-for-the-first-time-since-2017-575126071.html"
+    ampWebUrl: "http://www.waaytv.com/templates/AMP?contentID=575126071"
+    cdnAmpWebUrl: "https://www-waaytv-com.cdn.ampproject.org/c/www.waaytv.com/templates/AMP?contentID=575126071"
+    type: article
+    provider:
+      name: WAAY-TV
+      domain: waaytv.com
+    quality: 63
+    images:
+      - url: "http://media.heartlandtv.com/images/One+of+the+Front+Row+Joe's+for+the+Cullman+Trump+Rally.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Mark Z. Barabak: Debunking Trump's 'Big Lie,' scholars and statistics show the facts don't add up"
     excerpt: "In a recent survey of presidential scholars, President Donald Trump finished a dismal third from the bottom, just ahead of perennial duds James Buchanan and Andrew Johnson."
     publishedDateTime: 2021-08-17T20:49:00Z

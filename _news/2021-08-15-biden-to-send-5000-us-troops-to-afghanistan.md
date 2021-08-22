@@ -997,6 +997,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "President Biden Updates Nation on Afghanistan & Hurricane Henri"
+    excerpt: "T16:00:00-04:00 Biden address the nation on the situation in Afghanistan as well as the administration’s response to Hurricane Henri. President Biden address the nation on the situation in Afghanistan as well as the administration’s response to Hurricane Henri."
+    publishedDateTime: 2021-08-22T13:47:00Z
+    webUrl: "https://www.c-span.org/video/?514201-1/president-biden-updates-nation-afghanistan-hurricane-henri"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
   - title: "Biden to Marshal International Community on Rights in Afghanistan -Adviser"
     excerpt: "U.S. National Security Adviser Jake Sullivan on Monday said that President Joe Biden is prepared to marshal the international community on human rights in Afghanistan, where the Taliban is seizing power."
     publishedDateTime: 2021-08-16T11:47:00Z

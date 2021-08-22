@@ -1005,6 +1005,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "President Biden Updates Nation on Afghanistan & Hurricane Henri"
+    excerpt: "T16:00:00-04:00 Biden address the nation on the situation in Afghanistan as well as the administration’s response to Hurricane Henri. President Biden address the nation on the situation in Afghanistan as well as the administration’s response to Hurricane Henri."
+    publishedDateTime: 2021-08-22T13:47:00Z
+    webUrl: "https://www.c-span.org/video/?514201-1/president-biden-updates-nation-afghanistan-hurricane-henri"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "gSHp61Yvdsa/80YxYGHsDMr6c29yrg3X6bzLHLeEzYD8ctzgU3AXrxHZnnfLurLXltG/Wx+4fYjBCIaO09Z4gy6zusYOPg3ftkbgHiJoxcoL3o0jafX07ScliqhxzvXrZRvP1xOiTtkSJ0xNb+ioSOc3tf3iukc64O47XIOIXGZcGvvo1ClR0ZtJLdOweFjwQoniR6e1vEWnHlUtuWqZeEof2fYMyTh3nI42GPWl41A2C9Fs19usSxkANlKap9MbjCTp/ro77unho1uLkVEY8apsJq9IN6pEZxrCgY454PrKdBP2HdtdyEMrslh6o0Jrq9rLhk2gk5bekgCe/1sL82B4zBZi5voZYJQlpfLlrmVaRbBRoFNA+9jk9jCv+Kci+WASzGV/u4ZeTSxc/BKlZYI0ddEx443jKS8OFfkTzRyn5x4+7+7pabROjZHX6DK5Xw6Q/dxx/KrtOX0JE4XeMFwxoeqEM70UWXQ5E0mcZo+uZli+bQ9g/NqXzG/23/nGmDgWVBSI75k2v8FiD1Q6/w==;y9xdMvaQcdziLQ5w4VOaLA=="
 ---

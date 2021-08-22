@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-22T11:00:00Z
 originalUrl: "https://www.wyomingnews.com/laramieboomerang/opinion/guest_column/trump-vs-biden-hasnt-begun-to-build-to-potential/article_77dfef74-07bd-56a3-a8de-d018a5219732.html"
 webUrl: "https://www.wyomingnews.com/laramieboomerang/opinion/guest_column/trump-vs-biden-hasnt-begun-to-build-to-potential/article_77dfef74-07bd-56a3-a8de-d018a5219732.html"
 type: article
-quality: 70
+quality: 80
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Election
   - Joe Biden
+  - Donald Trump
 
 images:
   - url: "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/5/a0/5a08f479-e73a-53a8-ae5b-635873389e40/6121440f65dc5.image.jpg?crop=1175%2C881%2C0%2C440&resize=840%2C630&order=crop%2Cresize"
@@ -2808,6 +2809,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "LEFBgWHrRX9WsZGSn4B76UmCLF0wP57mdcR2+PLz00r2+HFHj/i1El36iMtuv/lbzaJo1FiPW9bVekL/pw3MCB47Oi1qCEVkVd9ZNaaxbguhCe4+KLeYaRlyRrQuoYaiNUyENxezc/xQcx54935AgzbtnzDRnzgbpVlf3WbIA+l9klAJ9hOKHeavmjCFZxX5KrQwaNJUo25qgwBuf5+rmBwcLQdbqSlI2GbkMgCuA5YdjIjt1md+m/5vTD7mbwH0hmKTRWZj03HngXDZdNj3oxNQVEe57JnFaNI8g2gBNA9Xk+pHR7pQgG/fCNmSNH4fBp6O509ejdgmHA7cHkZX481Km/xe9kclE3IHZbc9SDs=;whFYkWJ9TIvy845x0AirVg=="
+secured: "/z4ScnHh11RZYMd7Fc++WtnLquvTvhbIuAzescdOZRc2gH6PmCAWgw2/3BkS9hcnmPxwj0pln1pywQRUnkNVWdC9mkutMHg4hoQjZgyQ92tGW0YahcbzfSNFIirPkg4ZtYpc5wxQBpPfyCH5xajF3W3QgFR/6zI4FpfrJ6CHvLeO2xiHfPk50AJIRNLS7hdqIwTK4CI5IPQ795HUHcjr1xld8FEuwbjWE2jEqP8QwYM+LjARVl7VpAicoo6ua/QkHYwgm6oEiyi5xnLuSXihe7ZRUy1pi86zVv/kwyZ+v63WxsPrQFxZ123nQoLDWVccCp+W7b5aDF371AxSs7i+ao5EXpP984BefTzlOQJFams7eK332PKxIrMmVD/WoZiNl541J6eknz/DOHeIFqd4nwaOsXUyEg9nGRDtwB+MyuSi6oIFYgwhxUwZm0JHjJklgWwzW8lc/Zd8W7mo9J9szX6yTsGh/rIeljx2/c2HbGfCvrdoTwyEZJgVnOnSn3JuJy51RfzuS6VMnSdckMQqmw==;v4s9veDl0k7i9BgxuL1FkA=="
 ---
 

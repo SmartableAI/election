@@ -489,6 +489,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "Donald Trump's Immigration Reform"
+    excerpt: "While Donald Trump might be the front runner for the Republican Party, facts and data seem to show that his campaign might be nothing more than a Though this country was founded on immigration, the nation has changed dramatically in regards to its economic,"
+    publishedDateTime: 2021-08-18T18:23:00Z
+    webUrl: "https://www.123helpme.com/essay/Donald-Trumps-Immigration-Reform-FJWC3GTHCB"
+    type: article
+    provider:
+      name: 123HelpMe
+      domain: 123helpme.com
+    quality: 35
 
 secured: "bkcRoxPGdvMCiJ0vbQMdVPRJYmH22QGwQPAkppFQwLqGlWA/SeLGC1gPJaj76ZDRzmsL8PGzul1UaEb2qQHvfpXnaXh+SLG+mzI/KiPKrKphdxwxjSyS121ML0CvxNwkElufxuQt1VAx6nleVEUIK/jHHiDUxL8Mxfk9pvhnt3BajOSpOBLaDl50OV4mhmqAvzhlo51S90ultw96F6jlF/EDnIz/IP9qLDfNJcjesRjBBG9cVu6YlsKWTPe2nXVEzOu7z6u/rd9XdmssnejXOKOlS8BfA9ikOgkOwpySHrjXJPOTQIfWWP1Ea0Lvid6W+polgAmk+jbeIMErHJMaEtSmfxph5p+bAR91ZEfvGIj7ZalsaHL4v7BAaPlU2tDQBoFwJqELXSFpLNshVgpJRLpbZWXSrBylcP2vsN+QuYSdfZYfUTPtLwhqHkAv3VyMncTGgFkmmmfjtXx5SCPzyD+9XoTAiSAvx7JLs9G4hMUR9jocc9i7uWbAmC+Yfq1N6w5ucqOfN6+cBbicSlnG5w==;FtIl5opYYbicbIoQUQKnoA=="
 ---

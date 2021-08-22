@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2FD18R"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2FD18R"
 type: article
 quality: 125
-heat: 465
+heat: 505
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Kamala Harris is set to visit Southeast Asia as U.S.-China tensions rise. Here's what to expect"
+    excerpt: "U.S. Vice President Kamala Harris is scheduled to arrive in Singapore on Sunday, before heading to Vietnam on Tuesday."
+    publishedDateTime: 2021-08-20T02:40:00Z
+    webUrl: "https://www.cnbc.com/2021/08/20/vp-kamala-harris-to-visit-singapore-vietnam-amid-us-china-tensions.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/08/20/vp-kamala-harris-to-visit-singapore-vietnam-amid-us-china-tensions.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/20/vp-kamala-harris-to-visit-singapore-vietnam-amid-us-china-tensions.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 113
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106850920-1615237411084-gettyimages-1306014933-a67i5912_2021030824642371.jpeg?v=1629431851"
+        width: 5472
+        height: 3648
+        isCached: true
   - title: "Harris, Lopez Obrador speak on boosting Central American economies"
     excerpt: "U.S. Vice President Kamala Harris and Mexican President Andres Manuel Lopez Obrador spoke by phone on Monday and agreed on the need to focus on strengthening the economies of Central America, particularly through investment in agriculture and climate resilience,"
     publishedDateTime: 2021-08-09T23:18:00Z
@@ -74,6 +90,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Kamala Harris Heads to China’s Backyard in U.S. Diplomacy Reboot"
+    excerpt: "Vice President Kamala Harris will look to bolster economic and military cooperation in China’s backyard as she visits Singapore and Vietnam starting this weekend in the Biden administration’s most high-profile trip yet to Asia."
+    publishedDateTime: 2021-08-19T22:43:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-08-19/kamala-harris-heads-to-china-s-backyard-in-u-s-diplomacy-reboot"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZAFJ4qq47ak/v1/1200x801.jpg"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "Harris meets with CEOs to drum up support for child care proposals -White House"
     excerpt: "Vice President Kamala Harris underscored the importance of affordable childcare for improving U.S. competitiveness during a meeting with top executives of seven companies including Microsoft Corp (MSFT."
     publishedDateTime: 2021-08-12T19:42:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.propublica.org/article/how-the-trump-tax-law-created-a-l
 cdnAmpWebUrl: "https://www-propublica-org.cdn.ampproject.org/c/s/www.propublica.org/article/how-the-trump-tax-law-created-a-loophole-that-lets-top-executives-net-millions-by-slashing-their-own-salaries/amp"
 type: article
 quality: 56
-heat: 76
+heat: 96
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
     quality: 55
     images:
       - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Donald Trump Encouraged People at His Rally to Get Vaccinated. They Booed Him."
+    excerpt: "According to a Trump adviser, the then-president and his wife, Melania, got the vaccine in January—a fact that wasn’t reported until March . 2) The rally brought thousands of people to York Family Farms in Cullman County,"
+    publishedDateTime: 2021-08-22T13:52:00Z
+    webUrl: "https://www.motherjones.com/politics/2021/08/donald-trump-cullman-alabama-rally-covid-boo/"
+    type: article
+    provider:
+      name: Mother Jones
+      domain: motherjones.com
+    quality: 51
+    images:
+      - url: "https://www.motherjones.com/wp-content/uploads/2021/08/20210822_cullman.jpg?w=1200&h=630&crop=1"
         width: 1200
         height: 630
         isCached: true
