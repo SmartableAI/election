@@ -297,6 +297,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Afghan Americans in San Diego pressure Biden and Congress to act as Taliban takes over"
+    excerpt: "Veterans are organizing to help Afghans who worked for the U.S. military while refugee resettlement organizations prepare for potential arrivals"
+    publishedDateTime: 2021-08-22T19:55:00Z
+    webUrl: "https://www.sandiegouniontribune.com/news/immigration/story/2021-08-22/afghan-americans-biden-taliban"
+    ampWebUrl: "https://www.sandiegouniontribune.com/news/immigration/story/2021-08-22/afghan-americans-biden-taliban?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/immigration/story/2021-08-22/afghan-americans-biden-taliban?_amp=true"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 67
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/e849013/2147483647/strip/true/crop/5652x3767+0+175/resize/2000x1333!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F45%2F35%2F0153c3f94f8ba8d91ed69a50c6cf%2Fsd-photos-1staff-826422-sd-me-afghan-local-7.JPG"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "EXPLAINER: The impact of Joe Biden’s new fuel economy rules"
     excerpt: "President Joe Biden's new standards are basically a return to those adopted under Obama, requiring new vehicles to average 5% in carbon dioxide emissions cuts every model year through 2025."
     publishedDateTime: 2021-08-08T04:28:00Z

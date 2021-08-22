@@ -176,6 +176,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Bush press secretary: Biden ‘all around clueless’ on Afghanistan"
+    excerpt: "Former White House press secretary Ari Fleischer blasted President Biden’s Friday press conference on the debacle in Afghanistan, saying the president has put Americans “just one stray bullet away from a bloodbath in Kabul.”"
+    publishedDateTime: 2021-08-22T19:17:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/524MCQw6_kE/bush-press-secretary-biden-all-around-clueless-on-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/bush-press-secretary-biden-all-around-clueless-on-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bush-press-secretary-biden-all-around-clueless-on-afghanistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f9cfaf3-0676-4125-8acf-e0a577bd9ae9/be1741d4-f77e-44b6-93fc-0724d6d85a09/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "North Carolina billboard skewers Biden for botched Afghanistan withdrawal"
     excerpt: "A billboard in Wilmington, North Carolina, skewered Biden for his botched withdrawal from Afghanistan that saw the Taliban take over the country and stranded thousands of Americans."
     publishedDateTime: 2021-08-18T14:57:33Z
@@ -1097,6 +1113,38 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/biden-camp-david-1.jpg?quality=90&strip=all&w=1024"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Biden to address the nation Sunday on Afghanistan, Tropical Storm Henri"
+    excerpt: "President Joe Biden will address the nation on the crisis in Afghanistan and Tropical Storm Henri, which struck the East Coast earlier in the day."
+    publishedDateTime: 2021-08-22T19:26:00Z
+    webUrl: "https://nypost.com/2021/08/22/biden-to-address-the-nation-on-afghanistan-tropical-storm-henri/"
+    ampWebUrl: "https://nypost.com/2021/08/22/biden-to-address-the-nation-on-afghanistan-tropical-storm-henri/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/22/biden-to-address-the-nation-on-afghanistan-tropical-storm-henri/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/biden-16.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Bush press secretary: Biden ‘all around clueless’ on Afghanistan"
+    excerpt: "Former White House press secretary Ari Fleischer blasted President Biden’s Friday press conference on the debacle in Afghanistan, saying the president has put Americans “just one stray bullet away from a bloodbath in Kabul."
+    publishedDateTime: 2021-08-22T19:17:00Z
+    webUrl: "https://www.foxnews.com/politics/bush-press-secretary-biden-all-around-clueless-on-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/bush-press-secretary-biden-all-around-clueless-on-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bush-press-secretary-biden-all-around-clueless-on-afghanistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f9cfaf3-0676-4125-8acf-e0a577bd9ae9/be1741d4-f77e-44b6-93fc-0724d6d85a09/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "McCaul: Biden will have ‘blood on his hands’ over Afghanistan withdrawal"
     excerpt: "The top Republican on the House Foreign Relations Committee on Sunday said President Biden will have “blood on his hands” over the withdrawal of the US military from Afghanistan."

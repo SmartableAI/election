@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Vos meets with Trump, vows to keep ex-president 'updated' on election investigation"
-excerpt: "Assembly Speaker Robin Vos, the Racine County Republican who ordered the investigation into Wisconsin's 2020 election said he is going to be keeping the former president — who has not"
-publishedDateTime: 2021-08-22T17:15:00Z
-originalUrl: "https://journaltimes.com/news/local/vos-meets-with-trump-vows-to-keep-ex-president-updated-on-election-investigation/article_48995564-186c-5865-bd0b-04ba1b41a484.html"
-webUrl: "https://journaltimes.com/news/local/vos-meets-with-trump-vows-to-keep-ex-president-updated-on-election-investigation/article_48995564-186c-5865-bd0b-04ba1b41a484.html"
+excerpt: "Assembly Speaker Robin Vos said he is going to keep the former president — who has not stopped claiming he won the 2020 election — \"updated on our investigation.\""
+publishedDateTime: 2021-08-22T17:53:00Z
+originalUrl: "https://madison.com/news/state-and-regional/vos-meets-with-trump-vows-to-keep-ex-president-updated-on-election-investigation/article_55a5e748-aa3e-5c85-bbe6-e59bebcbed21.html"
+webUrl: "https://madison.com/news/state-and-regional/vos-meets-with-trump-vows-to-keep-ex-president-updated-on-election-investigation/article_55a5e748-aa3e-5c85-bbe6-e59bebcbed21.html"
 type: article
 quality: 64
 heat: 64
 published: false
 
 provider:
-  name: The Journal Times
-  domain: journaltimes.com
+  name: Madison.com
+  domain: madison.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/assets/v3/editorial/4/89/48995564-186c-5865-bd0b-04ba1b41a484/6122861617ec0.preview.jpg?crop=1904%2C1071%2C0%2C8&resize=1120%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/5/5a/55a5e748-aa3e-5c85-bbe6-e59bebcbed21/61228f9939e4f.preview.jpg?crop=1904%2C1071%2C0%2C8&resize=1120%2C630&order=crop%2Cresize"
     width: 1120
     height: 630
     isCached: true
 
-secured: "RqtKYxAlgFQlzDuRszVI2AVcL8nMLnhpN+z2XHsnyGcnD2a5055oBysKAA4aDU/+092MJT6Ko3kkAda1t4rpMz+6P4WMYBGC4t1rg8faXJQ1fXEvNG+1vICoqn5S6q1iCrUri3xTTTbxCGs1p2mmZWyTVrECH30ATTbWJyN03U45Q9H/SmbtQVLjDgzvr23DIYhe6woXPLLKq/ldJG0/U8wj4vv9zlm9X7++Rhx1cjesB36WLUf9p9F+sbsvRBcopbllHpeEcEPf1/MWv8GsqV9xKK2idT9bB35kbChYNLJJCvNnMds565VCq5hFArf02N30TkTMVFq/rvNnjPK5L1Zepw4GyN0HNCmGVPMplXY=;iB3av++aUZe0MtNW3HmYpg=="
+secured: "uQWbKgFot0kDAK4lCwa9qB1k4sBwRgWzgcQsfamnVViL/EKpHrx+oqu1lKcPtqe/WsX0wd1wuaSlHLOeLryajXmOO0+eBKLzmaNECEX/5RNXS2ik/paX0M3cnAI42gMMqGlM1uwxFUptAUaCMGoyl/khEeiitJRe7lYb2LuiaTGGl4jbp6p+vCKw8D6mTaHSEmcaHJ+l9gkSFF8ZmW9o8yDFuwSCw6uqkwzqertWcT2MDTVOmYOBT+8t8MaBOsX+Zr48t9cpyNsFhpmQbJ3aPbAzAhNdk92n6uJwokzXrhaBmoAEy49arlCILFyB9X+r2JoqJMGm4RxxoYVprBNHwr7adBN5IG2CR9VqZs4+eio=;vA6ROvl8J4kJYv4ppllAuw=="
 ---
 

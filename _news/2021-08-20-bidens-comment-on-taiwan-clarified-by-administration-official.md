@@ -145,6 +145,15 @@ related:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 45
+  - title: "What We've Learned About Team Biden's Incompetence"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-08-22T19:38:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/08/22/what_weve_learned_about_team_bidens_incompetence_550001.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "CkiXXhZbUsBQMRmDDVLrMH0vxtlDS3P3KhiTfn4r+OUj1RLFvZjl7I5xcgcol2Z3ovoPEMD3B4OuiuG+erLYjeYo/+ig/2B9XwmkmaNCDCnzbhgWmfojvkCmrm3f4K4TLwxODL5C1fTLRrdXTH0WE7YkgPuImXMvGWO3TGwiu8PX1SOhHOTeALcV4TXOx6yHmjlLen/KdfiQWR1MTKjOb+Mr5Ze/ltFgjiTxRJCwpV8bJ4oKZ6RMnJFtABp+E27++JOrIo/cgy6wEOGMwhEKY5GRJNkPfUT8vB1biOZK1TDUjcKd1J0dOm0R2qjJE7aOrDbNlqviWIGYS2O+RaSTajZ4Xq6ynyb4aZg6eplRqAI=;prZ6B4yvf0hG9csaDzVcOA=="
 ---

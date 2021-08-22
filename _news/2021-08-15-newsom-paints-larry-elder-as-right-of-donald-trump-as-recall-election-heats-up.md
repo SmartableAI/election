@@ -43,6 +43,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Who has Ruby Wax interviewed? From Madonna to Donald Trump"
+    excerpt: "RUBY Wax is taking a look back at some of most iconic interviews with the great and the good from her series from the 1990s. The original series featured a who’s who of A-list celebrities of the"
+    publishedDateTime: 2021-08-22T16:29:00Z
+    webUrl: "https://www.the-sun.com/entertainment/3519449/ruby-wax-interview-who-madonna-donald-trump/"
+    ampWebUrl: "https://www.the-sun.com/entertainment/3519449/ruby-wax-interview-who-madonna-donald-trump/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/entertainment/3519449/ruby-wax-interview-who-madonna-donald-trump/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 75
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/COMP-SKC-RUBY-EXPL.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump Booed After Encouraging Vaccinations"
     excerpt: "Former President Donald Trump was booed by his own supporters during a rally in Cullman, Alabama Saturday night after he encouraged the crowd to get vaccinated against COVID-19,” Newsweek reports."
     publishedDateTime: 2021-08-22T12:29:00Z

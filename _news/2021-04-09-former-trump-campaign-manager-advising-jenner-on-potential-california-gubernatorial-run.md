@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/blogs/in-the-know/in-the-know/547205-former-trum
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/547205-former-trump-campaign-manager-advising-jenner-on-california?amp"
 type: article
 quality: 117
-heat: 157
+heat: 177
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://i.insider.com/606f0d2a4d3e410018b6ff73?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Editorial: Don’t let Donald Trump win in California"
+    excerpt: "If you think Donald Trump did a great job as president, it’s understandable why you might support California’s gubernatorial recall campaign. If you don’t support Trump, however, then there’s only one choice in the recall election on Sept."
+    publishedDateTime: 2021-08-20T16:30:00Z
+    webUrl: "https://www.sfexaminer.com/opinion/editorial-dont-let-donald-trump-win-in-california/"
+    type: article
+    provider:
+      name: San Francisco Examiner
+      domain: sfexaminer.com
+    quality: 55
+    images:
+      - url: "https://www.sfexaminer.com/wp-content/uploads/2021/08/26220854_web1_200821-SFE-RECALLEDITORIAL_1.jpg"
+        width: 1200
+        height: 803
         isCached: true
 
 secured: "ErPAuuDw8ui/9r8BanHqxBFJcqhIOLE1SiTfjwfQm7snjAIY+iaTkWfEXO/4pngAVnrCGIGhaD526x43sEqyFlFxFGbPQXorudNOpVpouVEbmwDv6h7Pk+rtLl9jc6cAKzZNGNGjDKL1kGyYc/zbx97EJ9/ZWBmGkYY47B0ZpG2BndiX3YoMvJSgJu5XzAA+CfAoG+6Lru7cvi+LfsUMUKz8NgLCsL13+YrDlUmILxeehk/tKi5pIluQyhUQgAYi9ykGO/DyAyFI4uQDQ7fYnAoWLiWROtLhLrTVDzmAHuD8IhPFAGTaLt2WLP+jp8DJu+iwFnxM+6r18E3n/Wcn7BNbQDd9qnGIBOTokWlROpv6nJah2hEbbEmrtEyPV/6LzNrP2YRDrFLNvNl6KK5yEEBE4O2/kcxEPW3pYAaOGWat9FkkPDWscshT8Npoke6M4la7ZpBsrh3x7u8l+1Rv+wUtZ/S79AyTbFYXWl5IAR1SGJEeHxXFZGmfAXSn9R0UzRm98UdO+1rgR/QmE2/VQw==;WNzZlVNpO6tIC+8zocrMNw=="

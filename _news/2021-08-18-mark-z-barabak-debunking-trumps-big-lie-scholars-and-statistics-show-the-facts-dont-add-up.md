@@ -57,6 +57,22 @@ related:
         width: 819
         height: 461
         isCached: true
+  - title: "Gov. Ivey posts photos of her welcoming former President Trump to Alabama"
+    excerpt: "Alabama Governor Kay Ivey posted pictures on her twitter account showing her welcome former President Donald Trump to Alabama before his rally in Cullman. In the post,"
+    publishedDateTime: 2021-08-22T19:45:00Z
+    webUrl: "https://www.cbs42.com/news/local/gov-ivey-posts-photos-of-her-welcoming-former-president-trump-to-alabama/"
+    ampWebUrl: "https://www.cbs42.com/news/local/gov-ivey-posts-photos-of-her-welcoming-former-president-trump-to-alabama/amp/"
+    cdnAmpWebUrl: "https://www-cbs42-com.cdn.ampproject.org/c/s/www.cbs42.com/news/local/gov-ivey-posts-photos-of-her-welcoming-former-president-trump-to-alabama/amp/"
+    type: article
+    provider:
+      name: CBS 42
+      domain: cbs42.com
+    quality: 74
+    images:
+      - url: "https://www.cbs42.com/wp-content/uploads/sites/81/2021/08/Ivey-greets-Trump.jpg?w=1280"
+        width: 1280
+        height: 712
+        isCached: true
   - title: "Mo Brooks, Tommy Tuberville to speak at Donald Trump’s Alabama rally in Cullman"
     excerpt: "The former president will hold a rally at York Family Farms six years to the day after his first big campaign rally in Mobile."
     publishedDateTime: 2021-08-21T01:41:00Z
@@ -120,6 +136,20 @@ related:
       - url: "http://media.heartlandtv.com/images/One+of+the+Front+Row+Joe's+for+the+Cullman+Trump+Rally.jpg"
         width: 640
         height: 360
+        isCached: true
+  - title: "Donald Trump Got Booed In Alabama For Saying Good Things About Vaccines"
+    excerpt: "Trump told the crowd he was vaccinated and encouraged them to do the same, drawing boos at his own rally as a result."
+    publishedDateTime: 2021-08-22T17:37:00Z
+    webUrl: "https://uproxx.com/viral/donald-trump-booed-alabama-video-vaccines/"
+    type: article
+    provider:
+      name: Uproxx
+      domain: uproxx.com
+    quality: 55
+    images:
+      - url: "https://uproxx.com/wp-content/uploads/2021/08/trumpvaccine710.jpg?w=710"
+        width: 710
+        height: 391
         isCached: true
 
 secured: "sQb7aVFvUAVslI1VO1n5ASQvOtjwQQPVANU81FEI8TGc4JU+/m8bJikDARpmkvj7eDA3Bf05DGnUAh8HEp8Jsolf/EERAVo+/+b1LXa/QNbg5Wux91CABTBh4bGZu1osUcy82tCHz3n06+L/rQ6KlQAiaF0zuX1R7CdfzqPTeuOfCUETLj4v3NOoMH+vATFFyNg8dzB2pMFL/YIqo5+qwJrnjJa/UTZLYUF6Y6+xWcCDWor4SbF4ayKuItK0+0FXXMIQFq1oio/Qh+1q0FFrBd5RCtwvNvDk8GcxHp6RhizHcS95V4kEV5SP//gRNiZXC23l4Xgt+2Yc5wDa2hF/9bXyVeX5lirQLvEIYhqE9/g=;AiNdp6MKO/uEzVnnXeVGwA=="

@@ -763,6 +763,22 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Biden set to give update on situation in Afghanistan"
+    excerpt: "President Joe Biden met with Secretary of State Antony Blinken, Defense Secretary Lloyd Austin and other members of his national security team to discuss the situation in Afghanistan, the White House said,"
+    publishedDateTime: 2021-08-22T19:29:00Z
+    webUrl: "https://www.opb.org/article/2021/08/22/biden-planning-to-give-an-update-on-situation-in-afghanistan/"
+    ampWebUrl: "https://www.opb.org/article/2021/08/22/biden-planning-to-give-an-update-on-situation-in-afghanistan/?outputType=amp"
+    cdnAmpWebUrl: "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2021/08/22/biden-planning-to-give-an-update-on-situation-in-afghanistan/?outputType=amp"
+    type: article
+    provider:
+      name: OPB
+      domain: opb.org
+    quality: 75
+    images:
+      - url: "https://opb-opb-prod.cdn.arcpublishing.com/resizer/qhbCdgc3EImVg-2LnQmO0kkelEo=/767x0/smart/cloudfront-us-east-1.images.arcpublishing.com/opb/L7UX6WFNTVHYHJLNTRUURHSTKQ.jpg"
+        width: 767
+        height: 511
+        isCached: true
   - title: "Joe Biden’s Tale of Russian Bounties in Afghanistan Collapses Completely"
     excerpt: "Biden and the Democrats knew the Russian bounties story was likely fake news, a hoax, a scam, whatever else you want to call it. But they didn’t care."
     publishedDateTime: 2021-04-15T17:46:00Z
@@ -776,6 +792,22 @@ related:
     quality: 74
     images:
       - url: "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2021/03/Joe-Biden-2.jpg?fit=1200%2C675&ssl=1"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "WATCH LIVE: Biden planning to give an update on situation in Afghanistan"
+    excerpt: "The U.S. military is considering “creative ways” to get Americans and others into the Kabul airport for evacuation from Afghanistan amid “acute” security threats, Biden administration officials said,"
+    publishedDateTime: 2021-08-22T19:43:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/watch-live-biden-planning-to-give-an-update-on-situation-in-afghanistan/3234978/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/watch-live-biden-planning-to-give-an-update-on-situation-in-afghanistan/3234978/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/watch-live-biden-planning-to-give-an-update-on-situation-in-afghanistan/3234978/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 74
+    images:
+      - url: "https://media.nbcnewyork.com/2021/08/AP21233815770948.jpg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
         height: 675
         isCached: true

@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Schumer, Pelosi panned for dancing with Stephen Colbert, Napa fundraiser with Biden's presidency under siege"
+    excerpt: "Senate Majority Leader Chuck Schumer and House Speaker Nancy Pelosi are facing backlash on Twitter after videos showed them yucking it up over the weekend while Afghanistan, and President Biden’s legacy, are under siege."
+    publishedDateTime: 2021-08-22T19:04:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/o-WkHjSL0bg/schumer-pelosi-dancing-napa-fundraiser-bidens-presidency-implodes"
+    ampWebUrl: "https://www.foxnews.com/politics/schumer-pelosi-dancing-napa-fundraiser-bidens-presidency-implodes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-pelosi-dancing-napa-fundraiser-bidens-presidency-implodes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/079e65f6-7214-4da9-80cb-d772317f3c36/c92a4d04-5eda-4df1-8698-ddb716946c7d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Missing Deadline, Biden Delays Afghan Withdrawal Timeline to September"
     excerpt: "President Joe Biden will withdraw all U.S. troops from Afghanistan by Sept. 11, the 20th anniversary of the terrorist attacks on"
     publishedDateTime: 2021-04-16T11:16:00Z

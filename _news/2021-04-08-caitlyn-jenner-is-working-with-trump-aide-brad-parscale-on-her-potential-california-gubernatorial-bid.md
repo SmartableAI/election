@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Editorial: Don’t let Donald Trump win in California"
+    excerpt: "If you think Donald Trump did a great job as president, it’s understandable why you might support California’s gubernatorial recall campaign. If you don’t support Trump, however, then there’s only one choice in the recall election on Sept."
+    publishedDateTime: 2021-08-20T16:30:00Z
+    webUrl: "https://www.sfexaminer.com/opinion/editorial-dont-let-donald-trump-win-in-california/"
+    type: article
+    provider:
+      name: San Francisco Examiner
+      domain: sfexaminer.com
+    quality: 55
+    images:
+      - url: "https://www.sfexaminer.com/wp-content/uploads/2021/08/26220854_web1_200821-SFE-RECALLEDITORIAL_1.jpg"
+        width: 1200
+        height: 803
+        isCached: true
 
 secured: "oeFcRP4jc6DgBpITXCLIudqn7PtQzZC45Kaj9hYHzZiHewD19FGd3U95/llvKFLiMPbOc9QwDgXoPMGo25121YzjWX+7z0HBUqhCLfLZyO0XwcWtR9pGdwSQMXluvH3WbrSM2LFzLx78ynZG5vi2IDaH+gD1g+haTZuOErZrgorkVwpMpsHD8e59pgUPMfpNQxWLWif0kl5K79R0s1M1SEk6ZqwcG+ozYR6craZodKKGzGh01UUMGfIbqCn28Hrp/YVgk/TNMqP2ooJyzkwy360fAJkGXkiEqK7F5i/4Et2PUXr/YurKzesuM8q7UgkOgvDY80n+0RgoDbTCVUxfRmd5tKxNQ76YBjcO8Ahn3TVtBSpeCtYRzKnSLgxMQ/hThR/kODQFrg29/EmOdxpTpq945iQZ8WhD2FsnMTpSkdZBPERR2Q3ai6bfaMyYC4AHXoJ0MHZVhIqpUMM4FHSyhRvx9JjcvCk3tk+VRo6WLyVhgUhjVkeixv8KlVhnU5gSa3nnA/h9drKD9YQjWPlz1A==;9HANi+nbtx72UHc/yHSH4A=="
 ---
