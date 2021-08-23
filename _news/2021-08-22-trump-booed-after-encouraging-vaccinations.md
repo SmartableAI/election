@@ -101,6 +101,28 @@ related:
         width: 1400
         height: 1400
         isCached: true
+  - title: "Trump and top ally get booed by the monster Trump’s GOP created"
+    excerpt: "For months, journalists including yours truly have posed a question: What would GOP vaccine hesitancy look like if Donald Trump were more forceful in combating it? Trump, despite hailing the manufacturing of the vaccines during his administration,"
+    publishedDateTime: 2021-08-23T20:41:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/trump-and-top-ally-get-booed-by-the-monster-trumps-gop-created/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/trump-and-top-ally-get-booed-by-the-monster-trumps-gop-created/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/trump-and-top-ally-get-booed-by-the-monster-trumps-gop-created/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
+  - title: "Voted for Trump? This NC Democrat’s campaign may visit you. Here’s why."
+    excerpt: "For every dollar donated for the remainder of August, Erica Smith’s campaign for Senate says it will knock on a door in a North Carolina county that Donald Trump won in the 2020 presidential race. The campaign,"
+    publishedDateTime: 2021-08-23T19:45:00Z
+    webUrl: "https://www.heraldsun.com/news/politics-government/article253682403.html"
+    ampWebUrl: "https://amp.heraldsun.com/news/politics-government/article253682403.html"
+    cdnAmpWebUrl: "https://amp-heraldsun-com.cdn.ampproject.org/c/s/amp.heraldsun.com/news/politics-government/article253682403.html"
+    type: article
+    provider:
+      name: The Herald-Sun
+      domain: heraldsun.com
+    quality: 55
 
 secured: "XEDlXH3kRSjGHANHKoR/FiXY7x6UkYv5XBp8EQvWamFek3hIJ7j9Ooi73z3wjfV8z+XmDIlk/SJaKfn0PwfJbIUBkKHwvgsuEnO6IWfgCoUeBmzWVj+xqDCt0SAZf6Yl8ZKHqiP0PTQT2LbVxnXwZ8Iv/k/lRGmNTeBhnXsrvstl9GTVq21NH+n+AymHYC77kAb2v3eHPVTy6bU2QZ0hTogJ8xSJntlwUJGuauzj0y7U4/QxcGvLrTG+E3/Jsr7hNaMIRjKB3dXvGp6z8OMOPK+P74m+y5jqX8HQ3QCSxiFzOv3Abtuu7z8aISpTli3sJtYUixTLWMFeZ3VY+aT00BmIZW4Ca+EqM3yr2PKKO3I=;3NrtwPUMkvZNzjD3zDX/lg=="
 ---

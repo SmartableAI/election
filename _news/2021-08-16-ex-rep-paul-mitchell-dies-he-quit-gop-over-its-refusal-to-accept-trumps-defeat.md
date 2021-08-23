@@ -43,6 +43,17 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "With fight over mask mandates, Gov. Abbott passes purity test in Trump's GOP"
+    excerpt: "But now as the state hits a third surge, Abbott — who faces re-election early next year — is doing none of that. Instead, he is suggesting that people wear masks when appropri"
+    publishedDateTime: 2021-08-23T19:26:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/covid-abbott-purity-test-trump-gop-republican-mask-16401385.php"
+    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/covid-abbott-purity-test-trump-gop-republican-mask-16401385.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/covid-abbott-purity-test-trump-gop-republican-mask-16401385.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 102
   - title: "Trump-fueled election ‘audit’ sparks Senate GOP turmoil"
     excerpt: "The top Republican in the Pennsylvania Senate says he’s putting a different senator in charge of an “election integrity” undertaking and removing a senator who had aimed to carry out an Arizona-style “forensic investigation” of Pennsylvania’s 2020 presidential election."
     publishedDateTime: 2021-08-21T14:15:00Z

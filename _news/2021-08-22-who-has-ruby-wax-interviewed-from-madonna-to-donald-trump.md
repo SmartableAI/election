@@ -101,6 +101,28 @@ related:
         width: 1400
         height: 1400
         isCached: true
+  - title: "Trump and top ally get booed by the monster Trump’s GOP created"
+    excerpt: "For months, journalists including yours truly have posed a question: What would GOP vaccine hesitancy look like if Donald Trump were more forceful in combating it? Trump, despite hailing the manufacturing of the vaccines during his administration,"
+    publishedDateTime: 2021-08-23T20:41:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/trump-and-top-ally-get-booed-by-the-monster-trumps-gop-created/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/trump-and-top-ally-get-booed-by-the-monster-trumps-gop-created/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/trump-and-top-ally-get-booed-by-the-monster-trumps-gop-created/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
+  - title: "Voted for Trump? This NC Democrat’s campaign may visit you. Here’s why."
+    excerpt: "For every dollar donated for the remainder of August, Erica Smith’s campaign for Senate says it will knock on a door in a North Carolina county that Donald Trump won in the 2020 presidential race. The campaign,"
+    publishedDateTime: 2021-08-23T19:45:00Z
+    webUrl: "https://www.heraldsun.com/news/politics-government/article253682403.html"
+    ampWebUrl: "https://amp.heraldsun.com/news/politics-government/article253682403.html"
+    cdnAmpWebUrl: "https://amp-heraldsun-com.cdn.ampproject.org/c/s/amp.heraldsun.com/news/politics-government/article253682403.html"
+    type: article
+    provider:
+      name: The Herald-Sun
+      domain: heraldsun.com
+    quality: 55
 
 secured: "0/DEZinOugkpbVJ0PDi+52R4I/iMVKeyzqSGbGZ043/CTKqAl9Bz+yNH3szxLwVBIFYMviDJyvkbeXAqGry8V6aTxBD1uoHNK5/ZonZ3/v0mNkjWNnCa4Lf+ySY+XzwL3rrITDqtTr1Bur+2odRA+4eFsYmZqg1W+BIgpRzYzz9sQUjcntbIkKztnd8Umex2mIyDpafu9wMhZK6Bi8A9XD/MgnudpoWET7LmCDPOu9Ps14/2ItVo/wWKCNa2nobUK8l5JhuZG092w9rUtuP/kcVCE7681A9bzqIYxcmD5FjawjSOg/frhkY0cdQOhFKbvBMtlMnucNkIqtT1c2S/2f6atj9QMWXehxQqq+Rk7Yw+LCFc7qHd1q36jvncVJmWCeoByjT03aahxidU117WyWHXMElWM+2L7M4gK9gP3ESeOBQsLnOtu8z/+DqW52mf/n8NZonvlFfMBK/ILWyxq4HZEyrXIzWy9xfb0jZACGtkzimMs6fQHhSJFiNGOfET0QgnYhp+YlXMmt9oWL63Mg==;j6nKhiAZsdlIiZ6zM8x29A=="
 ---

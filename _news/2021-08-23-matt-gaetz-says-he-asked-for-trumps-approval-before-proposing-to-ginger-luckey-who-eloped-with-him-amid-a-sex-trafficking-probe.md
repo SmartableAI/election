@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/matt-gaetz-asked-for-trumps-approval
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/matt-gaetz-asked-for-trumps-approval-before-proposing-to-ginger-luckey-2021-8?amp"
 type: article
 quality: 96
-heat: 136
+heat: 116
 published: true
 
 provider:
@@ -31,35 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Former President Trump briefly booed by crowd for suggesting getting vaccines"
-    excerpt: "\"I recommend take the vaccines. I did it. It's good,\" Trump said before boos erupted from the crowd. \"You got your freedoms,\" he added."
-    publishedDateTime: 2021-08-23T11:20:00Z
-    webUrl: "https://www.wtsp.com/article/news/health/coronavirus/vaccine/trump-alabama-rally-booed-vaccines/67-7a54287c-9ee7-4c67-a4cd-6f1b6c6f1654"
-    ampWebUrl: "https://www.wtsp.com/amp/article/news/health/coronavirus/vaccine/trump-alabama-rally-booed-vaccines/67-7a54287c-9ee7-4c67-a4cd-6f1b6c6f1654"
-    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/health/coronavirus/vaccine/trump-alabama-rally-booed-vaccines/67-7a54287c-9ee7-4c67-a4cd-6f1b6c6f1654"
+  - title: "Why Matt Gaetz Asked For Donald Trump’s Approval Before Proposing To Girlfriend Ginger Luckey"
+    excerpt: "Matt Gaetz spoke to former President Donald Trump before he proposed to his girlfriend, who Gaetz met at Mar-a-Lago."
+    publishedDateTime: 2021-08-23T19:47:00Z
+    webUrl: "https://ibtimes.com/why-matt-gaetz-asked-donald-trumps-approval-proposing-girlfriend-ginger-luckey-3279359"
+    ampWebUrl: "https://www.ibtimes.com/why-matt-gaetz-asked-donald-trumps-approval-proposing-girlfriend-ginger-luckey-3279359?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/why-matt-gaetz-asked-donald-trumps-approval-proposing-girlfriend-ginger-luckey-3279359?amp=1"
     type: article
     provider:
-      name: WTSP
-      domain: wtsp.com
-    quality: 72
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 64
     images:
-      - url: "https://media.wtsp.com/assets/WTSP/images/52d0def6-70a3-4190-844d-eaba15b698b2/52d0def6-70a3-4190-844d-eaba15b698b2_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Former President Donald Trump briefly booed by crowd for suggesting getting vaccines"
-    excerpt: "\"I recommend take the vaccines. I did it. It's good,\" Trump said before boos came from the crowd. \"You've got your freedoms,\" he added."
-    publishedDateTime: 2021-08-23T10:19:00Z
-    webUrl: "https://www.wtsp.com/video/news/health/coronavirus/vaccine/trump-booed-alabama-rally/67-804b44ee-a845-4d26-85e1-2eae6e0e2ae4"
-    type: article
-    provider:
-      name: WTSP
-      domain: wtsp.com
-    quality: 48
-    images:
-      - url: "https://media.wtsp.com/assets/WTSP/images/52d0def6-70a3-4190-844d-eaba15b698b2/52d0def6-70a3-4190-844d-eaba15b698b2_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/24/matt-gaetz-a-us-congressman-from-florida-addressed.jpg"
+        width: 1024
+        height: 534
         isCached: true
 
 secured: "Nk7WJ79eKqU4OJAIcg2ibPwCHp8h5yJzAFU6t+EjPylFUL5TEgHgoOiDu9IuPT6xnMFtKToFV9BX+du1K2MgQIYGsUJk+IYPm3GSdKlf0v5CQGd06RIKVyJEGaWNxnkP2IlJ6WhDfjyDDFn69PiXMQSH+suAkqFi+9c24FhEBfIX6hSlvEOtkc5fw4kgGQfwexELdAc0SdqWwlWyQ51V/7/NRkbnSe3rL/x1k7z3wvmKEhlAK0+ssz6sMnf+z3LvmP36yGe0f3j37g8F+7sx3/W2laodkUWO9ngyLb2Sv7PMRjBuRbArgsxdBh65ajBf7fi094iTXePnftfPZx6780/tAjohWcl+I4HKF6oHmpI=;YNmvNqFg8ppbmKIclueLtQ=="

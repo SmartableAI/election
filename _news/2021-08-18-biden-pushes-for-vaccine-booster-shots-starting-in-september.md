@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-pushes-for-vaccine-booster-sh
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pushes-for-vaccine-booster-shots-starting-in-september.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/079e65f6-7214-4da9-80cb-d772317f3c36/c92a4d04-5eda-4df1-8698-ddb716946c7d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden urges vaccine mandates at businesses after Pfizer approval"
+    excerpt: "President Biden on Monday called on businesses to require their employees get vaccinated against COVID-19 now that the Pfizer shot is fully approved by the Food and Drug Administration."
+    publishedDateTime: 2021-08-23T19:49:00Z
+    webUrl: "https://nypost.com/2021/08/23/biden-urges-vaccine-mandates-at-businesses-after-pfizer-approval/"
+    ampWebUrl: "https://nypost.com/2021/08/23/biden-urges-vaccine-mandates-at-businesses-after-pfizer-approval/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/23/biden-urges-vaccine-mandates-at-businesses-after-pfizer-approval/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/biden-vaccine.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
   - title: "CBS reporter instructs WH staff to show Biden the poll about his job approval falling"
     excerpt: "CBS reporter Bo Erickson called on the Biden administration to inform President Joe Biden on his now falling job approval numbers."

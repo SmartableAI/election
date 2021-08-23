@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/22/politics/biden-afghanistan-politi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/22/politics/biden-afghanistan-politics-and-polling/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210822163144-01-biden-0822-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "US military gives Biden a deadline to decide on extending Afghanistan evacuations"
+    excerpt: "The US military is advising President Joe Biden that he must decide by Tuesday whether to extend the evacuation in Afghanistan beyond August 31, according to a defense official directly familiar with the discussions.\n    \n"
+    publishedDateTime: 2021-08-23T20:55:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jks18wha7kU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/23/politics/afghanistan-kabul-airport-military-deadline/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/23/politics/afghanistan-kabul-airport-military-deadline/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210822081317-kabul-afghanistan-airport-08-16-2021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/tv-and-radio/2021/aug/22/tv-tonight-ruby
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/tv-and-radio/2021/aug/22/tv-tonight-ruby-wax-revisits-her-time-with-donald-trump"
 type: article
 quality: 125
-heat: 225
+heat: 265
 published: true
 
 provider:
@@ -105,6 +105,28 @@ related:
         width: 1400
         height: 1400
         isCached: true
+  - title: "Trump and top ally get booed by the monster Trump’s GOP created"
+    excerpt: "For months, journalists including yours truly have posed a question: What would GOP vaccine hesitancy look like if Donald Trump were more forceful in combating it? Trump, despite hailing the manufacturing of the vaccines during his administration,"
+    publishedDateTime: 2021-08-23T20:41:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/trump-and-top-ally-get-booed-by-the-monster-trumps-gop-created/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/trump-and-top-ally-get-booed-by-the-monster-trumps-gop-created/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/trump-and-top-ally-get-booed-by-the-monster-trumps-gop-created/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
+  - title: "Voted for Trump? This NC Democrat’s campaign may visit you. Here’s why."
+    excerpt: "For every dollar donated for the remainder of August, Erica Smith’s campaign for Senate says it will knock on a door in a North Carolina county that Donald Trump won in the 2020 presidential race. The campaign,"
+    publishedDateTime: 2021-08-23T19:45:00Z
+    webUrl: "https://www.heraldsun.com/news/politics-government/article253682403.html"
+    ampWebUrl: "https://amp.heraldsun.com/news/politics-government/article253682403.html"
+    cdnAmpWebUrl: "https://amp-heraldsun-com.cdn.ampproject.org/c/s/amp.heraldsun.com/news/politics-government/article253682403.html"
+    type: article
+    provider:
+      name: The Herald-Sun
+      domain: heraldsun.com
+    quality: 55
 
 secured: "hiND7L3YjCyepztl0GHbbxkwz4CcPXk4y5wEB/bVl/q3o7A1XHX3KDNnctKMlvi7yxrrqcmD8q4D3BAGdM5G9zPqZgEa/lrcAEKAlrUFfV9O5l77Rz47mYCtqQ7BdDrulvBNXOaRC6qg+IZ2QgvjVZ0f8M72+lWrNeak+SN10ivpp1RIAjNcwXUbq9MFX0zope9qirEYumsmgO3Hb2pv1xLlheXIeGDUkpoBiFjLWozDxqyGkc5Y5ewqlm4eXp0EZ86Do28cWE0ZiLFMw4e1QoelyfSMrrgst+WgjFCqa8c70O4lMp+q6W1rxv0eqdUhfLQ/BecyWMR1ebqgOqap0DUnRHVYCQ/w+hpMHUgHGoxmLFP8NYROIgTsgHu1loEXYNpweTBdzZ/Fh7Ve+K90uePNd4PfUGkHiWEYov4jd8Zn6sH8g8P3ImDiIDhHqmTsS48twTKMSs7tIJ3+TJm79Mk4jNlF44wMXxIMqtckHBVMVxcLo8/VdaL1XCSgSFrgdU9yZuOQs4AeCGWQLtuozQ==;bijbjpZnStTrW8ZlHP316g=="
 ---

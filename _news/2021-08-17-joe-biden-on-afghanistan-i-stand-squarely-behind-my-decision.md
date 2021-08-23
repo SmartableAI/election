@@ -1029,6 +1029,15 @@ related:
         width: 2560
         height: 1920
         isCached: true
+  - title: "U.S. Adviser Sullivan Says Has Not Heard Biden Discuss Any Firings Over Afghanistan"
+    excerpt: "U.S. President Joe Biden's national security adviser on Monday said he had not heard the president discuss any plans to fire, reassign or ask for the resignation of any White House or U.S. officials over the situation in Afghanistan."
+    publishedDateTime: 2021-08-23T19:38:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-08-23/us-adviser-sullivan-says-has-not-heard-biden-discuss-any-firings-over-afghanistan"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 29
   - title: "Afghanistan: Joe Biden 'convinced' he is right on US military pullout - and says evacuations 'would have been hard no matter when we started'"
     excerpt: "Joe Biden has defended the US military pullout in Afghanistan, saying that the mass evacuation of refugees would have been hard and painful no matter when we started."
     publishedDateTime: 2021-08-22T20:49:00Z

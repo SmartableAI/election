@@ -263,6 +263,22 @@ related:
         width: 5438
         height: 3625
         isCached: true
+  - title: "Joe Biden’s Approval Rating: President Slides To New Lows, #RespectBiden Trends On Twitter"
+    excerpt: "President Joe Biden’s overall job-approval rating dipped below 50% for the first time since he took office, according to a poll released Monday from NBC News. The dip coincides with how Americans view his handling of the coronavirus pandemic,"
+    publishedDateTime: 2021-08-23T20:29:00Z
+    webUrl: "https://ibtimes.com/joe-bidens-approval-rating-president-slides-new-lows-respectbiden-trends-twitter-3279361"
+    ampWebUrl: "https://www.ibtimes.com/joe-bidens-approval-rating-president-slides-new-lows-respectbiden-trends-twitter-3279361?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-bidens-approval-rating-president-slides-new-lows-respectbiden-trends-twitter-3279361?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 65
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/08/16/us-president-joe-bidens-political-fortunes-are-reeling-AFP_9L896E.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Biden to reopen public comment on TennCare block grant"
     excerpt: "President Joe Biden's administration says it will keep a drastic overhaul of Tennessee's Medicaid program in place while it seeks more public comment and considers what to do with the plan approved under former President Donald Trump."
     publishedDateTime: 2021-08-15T13:00:00Z
@@ -466,6 +482,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "President Joe Biden calls on more companies, communities to mandate vaccines after Pfizer shot’s full FDA approval"
+    excerpt: "President Joe Biden on Monday called on the private sector and communities across the country to implement more COVID-19 vaccination mandates after the federal government’s much-anticipated full approval of the Pfizer/BioNTech shot for Americans 16 and older."
+    publishedDateTime: 2021-08-23T19:01:00Z
+    webUrl: "https://www.masslive.com/coronavirus/2021/08/president-joe-biden-calls-on-more-companies-communities-to-mandate-vaccines-after-pfizer-shots-full-fda-approval.html"
+    ampWebUrl: "https://www.masslive.com/coronavirus/2021/08/president-joe-biden-calls-on-more-companies-communities-to-mandate-vaccines-after-pfizer-shots-full-fda-approval.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/coronavirus/2021/08/president-joe-biden-calls-on-more-companies-communities-to-mandate-vaccines-after-pfizer-shots-full-fda-approval.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 33
 
 secured: "t9Pp+aGw+sWQaAI+si9b4g26TdCS4kkTYktJn9MwhpMfilZFO7tDVQL9ETgzPfCuUSBGd2OJ3PyLwGcDMocV0DLiwnYSGhZjThmeEQQ+S3uGfiRBb3fFGA3bUqS3cnbcR+8s77YQTRCN8005PBy+WsChBFAMU3Esi6jWD65d/ugSVLfw9C4XbXZqZux32kg8mWpSrp1wcI0QYR+0DegAIrBDgXdg3G3V6ZfE06ctDJf7ifaUfA/tfwcOLZ6o7SAnnSqNKHTjx4WxmAZd3wWVaUvwwI4wktjNobxURWxIQmN0lUcuqtDYo/C4tnGt/eEd5C91aOlY9gWHMdo9+cfKLr2OkiH/RE0KtrtGZEuGU14=;nTsTWplVo63/+V1q0StCMw=="
 ---

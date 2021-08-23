@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Trump Ripped by Alex Jones for Recommending COVID Vaccines After Being Booed at Rally"
+    excerpt: "\"Maybe Trump's actually a dumba**,\" Jones said on his show, a day after the former president encouraged people to get vaccinated."
+    publishedDateTime: 2021-08-23T19:31:00Z
+    webUrl: "https://www.newsweek.com/trump-ripped-alex-jones-recommending-covid-vaccines-after-being-booed-rally-1622221"
+    ampWebUrl: "https://www.newsweek.com/trump-ripped-alex-jones-recommending-covid-vaccines-after-being-booed-rally-1622221?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-ripped-alex-jones-recommending-covid-vaccines-after-being-booed-rally-1622221?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 98
   - title: "Donald Trump Booed At His Own Rally After Telling Everyone To Get Vaccinated"
     excerpt: "But it was when he urged everyone to get vaccinated against the coronavirus that his followers turned on him. \"You know what? I believe totally in your freedoms, I do. You gotta do what you have to do,"
     publishedDateTime: 2021-08-22T23:05:00Z
@@ -40,6 +51,38 @@ related:
       - url: "https://www.ladbible.com/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fs3-images.ladbible.com%2Fs3%2Fcontent%2F7f479ab06122850e1403ec149fa32daf.png"
         width: 1200
         height: 674
+        isCached: true
+  - title: "Former President Trump briefly booed by crowd for suggesting getting vaccines"
+    excerpt: "\"I recommend take the vaccines. I did it. It's good,\" Trump said before boos erupted from the crowd. \"You got your freedoms,\" he added."
+    publishedDateTime: 2021-08-23T11:20:00Z
+    webUrl: "https://www.wtsp.com/article/news/health/coronavirus/vaccine/trump-alabama-rally-booed-vaccines/67-7a54287c-9ee7-4c67-a4cd-6f1b6c6f1654"
+    ampWebUrl: "https://www.wtsp.com/amp/article/news/health/coronavirus/vaccine/trump-alabama-rally-booed-vaccines/67-7a54287c-9ee7-4c67-a4cd-6f1b6c6f1654"
+    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/health/coronavirus/vaccine/trump-alabama-rally-booed-vaccines/67-7a54287c-9ee7-4c67-a4cd-6f1b6c6f1654"
+    type: article
+    provider:
+      name: WTSP
+      domain: wtsp.com
+    quality: 72
+    images:
+      - url: "https://media.wtsp.com/assets/WTSP/images/52d0def6-70a3-4190-844d-eaba15b698b2/52d0def6-70a3-4190-844d-eaba15b698b2_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Donald Trump Booed At Own Rally, Encouraging Vaccines Didn't Go Well In Alabama"
+    excerpt: "The former president was booed at his rally when he encouraged Alabama (the lowest vaccinated state) to get the vaccine."
+    publishedDateTime: 2021-08-22T21:46:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-booed-own-rally-encouraging-vaccines-didnt-go-well-alabama-3278727"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-booed-own-rally-encouraging-vaccines-didnt-go-well-alabama-3278727?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-booed-own-rally-encouraging-vaccines-didnt-go-well-alabama-3278727?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 71
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/07/us-intelligence-believes-that-russia-meddles-in-the.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Donald Trump gets booed at rally for encouraging his supporters to get Covid jab"
     excerpt: "Nearly 40% of Republicans are still resistant to getting the Covid-19 vaccine or refuse to get it, a Public Religion Research Institute/Interfaith Youth Core poll recently found"
@@ -57,37 +100,69 @@ related:
         width: 615
         height: 409
         isCached: true
-  - title: "Josh Duggar's Lawyers Trying To Get The Case Dismissed With A Donald Trump-Oriented Argument"
-    excerpt: "Josh Duggar’s legal team has been busy in recent weeks as the former 19 Kids and Counting’s star preps for trial. The eldest son of Jim Bob and Michelle Duggar was arrested on one count of receipt of child pornography and one count of possession of child pornography back in April."
-    publishedDateTime: 2021-08-23T16:49:00Z
-    webUrl: "https://www.cinemablend.com/television/2572395/josh-duggar-lawyer-case-dismissed-donald-trump-oriented-argument?pv=related_list"
-    ampWebUrl: "https://amp.cinemablend.com/television/2572395/josh-duggar-lawyer-case-dismissed-donald-trump-oriented-argument"
-    cdnAmpWebUrl: "https://amp-cinemablend-com.cdn.ampproject.org/c/s/amp.cinemablend.com/television/2572395/josh-duggar-lawyer-case-dismissed-donald-trump-oriented-argument"
+  - title: "Donald Trump booed at Alabama rally after telling supporters to 'take the vaccines'"
+    excerpt: "Amid the state's low vaccination rate, former President Donald Trump told a rally to go get vaccinated against COVID-19, which some booed."
+    publishedDateTime: 2021-08-23T12:29:00Z
+    webUrl: "https://www.statesman.com/story/news/politics/2021/08/23/donald-trump-tells-alabama-rally-covid-19-vaccine-gets-booed/8237487002/"
+    ampWebUrl: "https://amp.statesman.com/amp/8237487002"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8237487002"
     type: article
     provider:
-      name: Cinema Blend
-      domain: cinemablend.com
-    quality: 64
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 69
     images:
-      - url: "https://img.cinemablend.com/quill/4/5/8/a/9/0/458a9063ffa8791c4da283f5ee12d513513c70e7.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2021/08/22/USAT/9aef22b6-661a-487a-9438-89b679f37137-GTY_1335520712.jpg?auto=webp&crop=3688,2075,x0,y187&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "How the Trump Tax Law Created a Loophole That Lets Top Executives Net Millions by Slashing Their Own Salaries"
-    excerpt: "The 2017 tax cuts made it more attractive for certain company owners to be paid in profits instead of wages. Some cut their own wages, expanding a loophole that was already costing the U.S. billions."
-    publishedDateTime: 2021-08-19T09:00:00Z
-    webUrl: "https://www.propublica.org/article/how-the-trump-tax-law-created-a-loophole-that-lets-top-executives-net-millions-by-slashing-their-own-salaries"
-    ampWebUrl: "https://www.propublica.org/article/how-the-trump-tax-law-created-a-loophole-that-lets-top-executives-net-millions-by-slashing-their-own-salaries/amp"
-    cdnAmpWebUrl: "https://www-propublica-org.cdn.ampproject.org/c/s/www.propublica.org/article/how-the-trump-tax-law-created-a-loophole-that-lets-top-executives-net-millions-by-slashing-their-own-salaries/amp"
+  - title: "Donald Trump booed at rally in Alabama after telling supporters to 'take the vaccines'"
+    excerpt: "Amid the state's low vaccination rate, former President Donald Trump told a rally to go get vaccinated against COVID-19, which some booed."
+    publishedDateTime: 2021-08-23T10:34:00Z
+    webUrl: "https://www.freep.com/story/news/politics/2021/08/23/donald-trump-tells-alabama-rally-covid-19-vaccine-gets-booed/8237487002/"
+    ampWebUrl: "https://amp.freep.com/amp/8237487002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/8237487002"
     type: article
     provider:
-      name: ProPublica
-      domain: propublica.org
-    quality: 56
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 67
     images:
-      - url: "https://assets-c3.propublica.org/images/series/_threeTwo400w/series-3x2.jpg"
-        width: 400
-        height: 267
+      - url: "https://www.gannett-cdn.com/presto/2021/08/22/USAT/9aef22b6-661a-487a-9438-89b679f37137-GTY_1335520712.jpg?auto=webp&crop=3688,2075,x0,y187&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "‘Take the vaccines!’ Donald Trump booed at Save America rally in Alabama over Covid jabs"
+    excerpt: "DONALD TRUMP's comments on taking a dose of the COVID-19 vaccine were met with a chorus of boos by his supporters at his Save America rally in Alabama."
+    publishedDateTime: 2021-08-22T23:31:00Z
+    webUrl: "https://www.express.co.uk/news/world/1480402/donald-trump-latest-news-ex-president-booed-save-america-rally-alabama-covid-jabs-ont"
+    ampWebUrl: "https://www.express.co.uk/news/world/1480402/donald-trump-latest-news-ex-president-booed-save-america-rally-alabama-covid-jabs-ont/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/world/1480402/donald-trump-latest-news-ex-president-booed-save-america-rally-alabama-covid-jabs-ont/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 66
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/78/590x/Donald-Trump-in-Alabama-1480402.jpg?r=1629675071384"
+        width: 590
+        height: 350
+        isCached: true
+  - title: "Donald Trump Gets Booed For Advocating COVID-19 Vaccine At 'Save America' Rally In Alabama"
+    excerpt: "Donald Trump gets booed for advocating COVID-19 vaccine at the 'Save America' rally in Alabama, he said the vaccine is good and I recommend everyone to take it."
+    publishedDateTime: 2021-08-23T15:10:00Z
+    webUrl: "https://www.republicworld.com/world-news/us-news/donald-trump-gets-booed-for-advocating-covid-19-vaccine-at-save-america-rally-in-alabama.html"
+    ampWebUrl: "https://www.republicworld.com/amp/world-news/us-news/donald-trump-gets-booed-for-advocating-covid-19-vaccine-at-save-america-rally-in-alabama.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/world-news/us-news/donald-trump-gets-booed-for-advocating-covid-19-vaccine-at-save-america-rally-in-alabama.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 65
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/khkqnijncl9jjr6i_1629729085.jpeg"
+        width: 768
+        height: 439
         isCached: true
   - title: "Trump Booed for Encouraging Supporters at Rally To Get COVID Vaccine"
     excerpt: "Former President Donald Trump encouraged his supporters to get the COVID-19 vaccine, before noting each person has the freedom to decide. “You know what? I believe totally in your freedoms. I do,” Trump said during a rally on Saturday in Alabama."
@@ -103,19 +178,21 @@ related:
         width: 550
         height: 346
         isCached: true
-  - title: "Illinois Democrats seek to project picture of unity, contrast to Rauner, Trump"
-    excerpt: "Ten months before Illinois’ 2022 primary elections, Democrats from across the state descended on the capital city for the annual political events that coincide with the Illinois State Fair as an election kickoff."
-    publishedDateTime: 2021-08-19T11:00:00Z
-    webUrl: "https://www.pantagraph.com/news/state-and-regional/govt-and-politics/illinois-democrats-seek-to-project-picture-of-unity-contrast-to-rauner-trump/article_2b467407-1734-5022-bbeb-e816f4a31784.html"
+  - title: "Trump Alabama rally updates – Don ‘BOOED by own fans’ for telling them to get vaccinated after bashing ‘woke’ culture"
+    excerpt: "DONALD Trump was booed by his own fans at his Alabama rally on Saturday for telling them to get vaccinated after slamming “woke” culture. Former President Trump’s rally was held"
+    publishedDateTime: 2021-08-23T16:31:00Z
+    webUrl: "https://www.the-sun.com/news/3516399/donald-trump-rally-tonight-alabama-what-time-live-stream/"
+    ampWebUrl: "https://www.the-sun.com/news/3516399/donald-trump-rally-tonight-alabama-what-time-live-stream/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3516399/donald-trump-rally-tonight-alabama-what-time-live-stream/amp/"
     type: article
     provider:
-      name: The Pantagraph
-      domain: pantagraph.com
-    quality: 51
+      name: The Sun
+      domain: the-sun.com
+    quality: 52
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/pantagraph.com/content/tncms/assets/v3/editorial/2/b4/2b467407-1734-5022-bbeb-e816f4a31784/611d992666964.preview.jpg?crop=1024%2C576%2C0%2C63&resize=1024%2C576&order=crop%2Cresize"
-        width: 1024
-        height: 576
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/BB-TRUMP-ALABAMA-COMP.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Donald Trump Encouraged People at His Rally to Get Vaccinated. They Booed Him."
     excerpt: "According to a Trump adviser, the then-president and his wife, Melania, got the vaccine in January—a fact that wasn’t reported until March . 2) The rally brought thousands of people to York Family Farms in Cullman County,"
@@ -130,6 +207,20 @@ related:
       - url: "https://www.motherjones.com/wp-content/uploads/2021/08/20210822_cullman.jpg?w=1200&h=630&crop=1"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Former President Donald Trump briefly booed by crowd for suggesting getting vaccines"
+    excerpt: "\"I recommend take the vaccines. I did it. It's good,\" Trump said before boos came from the crowd. \"You've got your freedoms,\" he added."
+    publishedDateTime: 2021-08-23T10:19:00Z
+    webUrl: "https://www.wtsp.com/video/news/health/coronavirus/vaccine/trump-booed-alabama-rally/67-804b44ee-a845-4d26-85e1-2eae6e0e2ae4"
+    type: article
+    provider:
+      name: WTSP
+      domain: wtsp.com
+    quality: 48
+    images:
+      - url: "https://media.wtsp.com/assets/WTSP/images/52d0def6-70a3-4190-844d-eaba15b698b2/52d0def6-70a3-4190-844d-eaba15b698b2_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "OPINION EDITORIAL/IN OUR VIEW At Least He Tried: Former President Trump gets some boos after encouraging vaccinations"
     excerpt: "Former President Donald Trump used his bully pulpit for the public good. And was booed by the some members of the audience. President Trump appeared Saturday at a Cullman, Alabama, rally and took the opportunity to encourage those in attendance to get vaccinated against COVID-19."

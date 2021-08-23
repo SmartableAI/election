@@ -448,6 +448,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Military veterans demand Biden meeting over 'commitments' to evacuate Afghan allies"
+    excerpt: "A coalition of military veteran organizations requested a meeting with President Biden on Monday to discuss his administration’s efforts to safely evacuate Afghan allies who face potential reprisals from the Taliban following the planned U.S. withdrawal from Afghanistan."
+    publishedDateTime: 2021-08-23T19:58:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zEhFOLrPsAM/military-veterans-biden-commitments-evacuate-afghan-allies"
+    ampWebUrl: "https://www.foxnews.com/politics/military-veterans-biden-commitments-evacuate-afghan-allies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/military-veterans-biden-commitments-evacuate-afghan-allies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e54f65cd-28c4-4b00-802d-d27f81a23d3c/d3e5220e-9690-43b7-8745-ed1ea6e5c2c7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "All eyes on Biden's response to COVID variants, Afghanistan, border crisis, inflation"
     excerpt: ""
     publishedDateTime: 2021-08-14T15:05:33Z
@@ -557,6 +573,22 @@ related:
     quality: 166
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9d4fe3b6-be98-4b32-a462-37360bbaa327/525f714a-7d57-4722-a977-c235a6ddc39d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Top Biden aide questioned on whether president understands ‘full picture’ on Afghanistan"
+    excerpt: "National security adviser Jake Sullivan was questioned during a press briefing Monday on whether President Biden understands the \"full picture\" about the potential terrorism threat coming out of Afghanistan now that the Taliban have taken over the country."
+    publishedDateTime: 2021-08-23T20:00:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oDMuQQykFiA/biden-aide-sullivan-afghanistan-full-picture"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-aide-sullivan-afghanistan-full-picture.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-aide-sullivan-afghanistan-full-picture.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a86c2bc-93ab-43e6-bb8a-c44e668aa660/181f05b9-52a6-4fc1-a7cd-8055ca865f6c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -1258,6 +1290,17 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Outrage as Biden again takes no questions on Afghanistan: 'Walkaway Joe'"
+    excerpt: "President Joe Biden took flak again Monday for taking no questions about Afghanistan as the crisis in the war-torn country continues."
+    publishedDateTime: 2021-08-23T19:26:00Z
+    webUrl: "https://www.foxnews.com/media/biden-again-takes-no-questions-on-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/media/biden-again-takes-no-questions-on-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-again-takes-no-questions-on-afghanistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 114
   - title: "Joe Biden has always been a disaster on foreign policy"
     excerpt: "President Joe Biden campaigned in 2020 on his supposed foreign policy chops, promising everyone he’d usher in a new, golden era of competent and effective U.S. diplomacy."
     publishedDateTime: 2021-08-20T00:27:00Z

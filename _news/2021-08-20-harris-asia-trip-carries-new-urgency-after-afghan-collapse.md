@@ -81,6 +81,20 @@ related:
         width: 3000
         height: 2002
         isCached: true
+  - title: "Kamala Harris says U.S. focus on Afghan evacuations, pledges open South China Sea"
+    excerpt: "U.S. Vice President Kamala Harris said on Monday during a visit to Singapore that the United States was focusing on evacuation efforts taking place in Afghanistan and that there would be plenty of time to analyse the context of the troop withdrawal."
+    publishedDateTime: 2021-08-23T09:38:00Z
+    webUrl: "https://www.reuters.com/world/kamala-harris-visits-singapore-deepen-ties-counter-chinas-influence-2021-08-22/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 100
+    images:
+      - url: "https://www.reuters.com/resizer/YgqCGpIjARxZ8pfeCCMDgprBPp0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7LOAE7NZ4ZJ3BBGBPOSUD2OFKA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Kamala Harris’ Asia trip carries new urgency after Afghan collapse"
     excerpt: "The Taliban takeover of Afghanistan has given new urgency to Vice President Kamala Harris’ tour of southeast Asia, where she will attempt to reassure allies of American resolve following the"
     publishedDateTime: 2021-08-20T16:04:00Z
@@ -313,6 +327,28 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Harris to meet with Singapore officials to begin Asia visit"
+    excerpt: "Vice President Kamala Harris met with Singapore’s president and prime minister to kick off a visit to Southeast Asia focused on strengthening ties with key allies in the region, a task complicated by the chaotic U."
+    publishedDateTime: 2021-08-23T19:54:00Z
+    webUrl: "https://www.sunherald.com/news/health/article253678728.html"
+    ampWebUrl: "https://amp.sunherald.com/news/health/article253678728.html"
+    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/health/article253678728.html"
+    type: article
+    provider:
+      name: Biloxi Sun Herald
+      domain: sunherald.com
+    quality: 55
+  - title: "US VP Harris: Focus must stay on Afghan evacuation"
+    excerpt: "Vice President Kamala Harris asserted Monday that the U.S. must maintain its focus on evacuating Americans and vulnerable Afghans and shouldn’t get distracted by questions over what went wrong in the chaotic U."
+    publishedDateTime: 2021-08-23T19:56:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/US-VP-Harris-Focus-must-stay-on-Afghan-evacuation-16404735.php"
+    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/US-VP-Harris-Focus-must-stay-on-Afghan-evacuation-16404735.php"
+    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/US-VP-Harris-Focus-must-stay-on-Afghan-evacuation-16404735.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 55
   - title: "Kamala Harris Visits Singapore to Deepen Ties, Counter China's Influence"
     excerpt: "U.S. Vice President Kamala Harris will meet Singapore's leaders on Monday on the first working day of a trip to Southeast Asia aimed at bolstering ties as part of Washington's efforts to counter China's growing influence."
     publishedDateTime: 2021-08-22T22:05:00Z

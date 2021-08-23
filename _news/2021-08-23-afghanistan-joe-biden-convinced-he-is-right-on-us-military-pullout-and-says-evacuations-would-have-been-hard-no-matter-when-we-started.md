@@ -1039,6 +1039,15 @@ related:
         width: 2560
         height: 1920
         isCached: true
+  - title: "U.S. Adviser Sullivan Says Has Not Heard Biden Discuss Any Firings Over Afghanistan"
+    excerpt: "U.S. President Joe Biden's national security adviser on Monday said he had not heard the president discuss any plans to fire, reassign or ask for the resignation of any White House or U.S. officials over the situation in Afghanistan."
+    publishedDateTime: 2021-08-23T19:38:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-08-23/us-adviser-sullivan-says-has-not-heard-biden-discuss-any-firings-over-afghanistan"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 29
 
 secured: "KOc1RtAjy6xI5IILfOB7ZRcLVAIKW85x8knXQ+9b+lg32mlC/6hWHsY4FHX/ftC60XPH27uTvU3TPbfkYOwD96jFHGeabgHysIfnZE2/D3spuwsL/j6DpyV0S3XMXT1x3DvYJaF6phqrlYag30zu8T8ngfD8w7vNgnE5BUr6GjDjHMsIq9JYE2CYRp3VerrMZi/akr07dcMqLzkSW12St7cV/hCfHIAjGUy/P6YIGW4y3mw3hsADXcfFI6IVlHMwcV0WJ4RDC3hVaQ9xHrpA//7JfryfNvFhEOgg3H7UjAfSNWu3qzCp2TGWnE145WwHkioyWHr7eREL3A37/1Y/acdaGsJuD/Q+AEg9OKfbn4E=;4HdaAwr5BtYbMQG54bfjyQ=="
 ---
