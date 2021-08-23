@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/20/politics/kamala-harris-southeast-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/20/politics/kamala-harris-southeast-asia-trip-afghanistan/index.html"
 type: article
 quality: 176
-heat: 216
+heat: 236
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210711102931-adam-kinzinger-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Kamala Harris stresses Southeast Asia ties on an overseas trip, but the focus returns to Afghanistan."
+    excerpt: "Facing rising pressure over the United States’ haphazard withdrawal from Afghanistan, Vice President Kamala Harris said on Monday that the Biden administration was “singularly focused” on evacuating American citizens and Afghan allies."
+    publishedDateTime: 2021-08-23T09:45:00Z
+    webUrl: "https://www.nytimes.com/2021/08/23/world/asia/kamala-harris-stresses-southeast-asia-ties-on-an-overseas-trip-but-the-focus-returns-to-afghanistan.html"
+    ampWebUrl: "https://www.nytimes.com/2021/08/23/world/asia/kamala-harris-stresses-southeast-asia-ties-on-an-overseas-trip-but-the-focus-returns-to-afghanistan.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/23/world/asia/kamala-harris-stresses-southeast-asia-ties-on-an-overseas-trip-but-the-focus-returns-to-afghanistan.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 120
+    images:
+      - url: "https://static01.nyt.com/images/2021/08/23/world/23-afghanistan-briefing-KamalainSingapor-02/23-afghanistan-briefing-KamalainSingapor-02-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "What the Vietnamese Will Ask Kamala Harris When She Visits"
     excerpt: "Lecturing in Ho Chi Minh City recently, I learned how urgently bright young people there want to understand what’s happening here. Their future may depend on it."

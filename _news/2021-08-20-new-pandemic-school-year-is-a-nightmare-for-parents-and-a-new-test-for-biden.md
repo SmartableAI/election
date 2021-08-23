@@ -47,6 +47,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden tries for a reset after a nightmare week in Kabul"
+    excerpt: "President Joe Biden wants to convince Americans he's in charge and understands the heartache caused by a week of politically damaging chaos in Kabul unleashed by his botched Afghanistan withdrawal plan.\n    \n"
+    publishedDateTime: 2021-08-23T11:11:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JjwZVSCv0V8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/23/politics/president-joe-biden-afghanistan-politics-storm-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/23/politics/president-joe-biden-afghanistan-politics-storm-republicans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210822180305-02-biden-0822-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden will face pressure from G7 to extend Afghanistan withdrawal deadline"
+    excerpt: "Leaders from the top foreign allies of the United States are planning to press President Joe Biden to extend the deadline for US troops to withdraw from Afghanistan during a Tuesday morning meeting, officials familiar with the matter said.\n    \n"
+    publishedDateTime: 2021-08-23T13:24:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9S-EyXetpew/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/23/politics/biden-g7-afghanistan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/23/politics/biden-g7-afghanistan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210822180305-02-biden-0822-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "GAlhjWANzmU290D1CKwNeobjIivkZDGzayJbn81wnM98EQkEGEXJM9zC2rap6HDeA4jqOu04AtwVL2HKkY7A2bzeCpdFNtMudXjdss0WrYkshg5rwrGKLUNN36jptejGeEIK8uzQSjq4x27h7fsq5+k8sKFGbXkE1vuR3FjmB3R+1IaFZnEBcWhwkTIX0DIp8WOyqiU+Jb3uszzzjU6zE5HxetJftRcY4qjrSYEpVKcSyO0t7Id8Z03A0fmIxajdmpq6IQhrjmBHiLLaKOmEy3WOf/OUC3MhVthR8A4mU+trHpZo0GVHYSI2OswoCcPN++qwb45tNL19tIdGzGTuLSm6SffOIhRSdyizmZR2HRc=;CZ0F6OqSYagux8CH91UTWg=="
 ---

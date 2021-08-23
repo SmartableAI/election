@@ -9,7 +9,7 @@ ampWebUrl: "https://www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for
 cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for-the-first-time-in-4-years.html?outputType=amp"
 type: article
 quality: 75
-heat: 255
+heat: 295
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
       - url: "https://www.cbs42.com/wp-content/uploads/sites/81/2021/08/Ivey-greets-Trump.jpg?w=1280"
         width: 1280
         height: 712
+        isCached: true
+  - title: "Former President Trump briefly booed by crowd for suggesting getting vaccines"
+    excerpt: "\"I recommend take the vaccines. I did it. It's good,\" Trump said before boos erupted from the crowd. \"You got your freedoms,\" he added."
+    publishedDateTime: 2021-08-23T11:20:00Z
+    webUrl: "https://www.wtsp.com/article/news/health/coronavirus/vaccine/trump-alabama-rally-booed-vaccines/67-7a54287c-9ee7-4c67-a4cd-6f1b6c6f1654"
+    ampWebUrl: "https://www.wtsp.com/amp/article/news/health/coronavirus/vaccine/trump-alabama-rally-booed-vaccines/67-7a54287c-9ee7-4c67-a4cd-6f1b6c6f1654"
+    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/health/coronavirus/vaccine/trump-alabama-rally-booed-vaccines/67-7a54287c-9ee7-4c67-a4cd-6f1b6c6f1654"
+    type: article
+    provider:
+      name: WTSP
+      domain: wtsp.com
+    quality: 72
+    images:
+      - url: "https://media.wtsp.com/assets/WTSP/images/52d0def6-70a3-4190-844d-eaba15b698b2/52d0def6-70a3-4190-844d-eaba15b698b2_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Mo Brooks, Tommy Tuberville to speak at Donald Trump’s Alabama rally in Cullman"
     excerpt: "The former president will hold a rally at York Family Farms six years to the day after his first big campaign rally in Mobile."
@@ -154,6 +170,20 @@ related:
       - url: "http://media.heartlandtv.com/images/One+of+the+Front+Row+Joe's+for+the+Cullman+Trump+Rally.jpg"
         width: 640
         height: 360
+        isCached: true
+  - title: "Former President Donald Trump briefly booed by crowd for suggesting getting vaccines"
+    excerpt: "\"I recommend take the vaccines. I did it. It's good,\" Trump said before boos came from the crowd. \"You've got your freedoms,\" he added."
+    publishedDateTime: 2021-08-23T10:19:00Z
+    webUrl: "https://www.wtsp.com/video/news/health/coronavirus/vaccine/trump-booed-alabama-rally/67-804b44ee-a845-4d26-85e1-2eae6e0e2ae4"
+    type: article
+    provider:
+      name: WTSP
+      domain: wtsp.com
+    quality: 48
+    images:
+      - url: "https://media.wtsp.com/assets/WTSP/images/52d0def6-70a3-4190-844d-eaba15b698b2/52d0def6-70a3-4190-844d-eaba15b698b2_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Mark Z. Barabak: Debunking Trump's 'Big Lie,' scholars and statistics show the facts don't add up"
     excerpt: "In a recent survey of presidential scholars, President Donald Trump finished a dismal third from the bottom, just ahead of perennial duds James Buchanan and Andrew Johnson."

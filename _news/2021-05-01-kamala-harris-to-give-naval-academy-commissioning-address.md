@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Nava
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
 type: article
 quality: 125
-heat: 1565
+heat: 1585
 published: true
 
 provider:
@@ -945,6 +945,20 @@ related:
       - url: "http://www.daijiworld.in/images3/plywood_082021_1.jpg"
         width: 580
         height: 386
+        isCached: true
+  - title: "Kamala Harris begins trip to Southeast Asia"
+    excerpt: "Amid the pressure and criticism from most regarding the situation in Afghanistan, US Vice President Kamala Harris has begun her trip to the Southeast Asian region. During her visits as the highest-ranking"
+    publishedDateTime: 2021-08-23T09:10:00Z
+    webUrl: "https://www.econotimes.com/Kamala-Harris-begins-trip-to-Southeast-Asia-1615573"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 55
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/20210823f9fa4b88744b0625f_th_1024x0.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "VP Kamala Harris visits Rhode Island with Commerce Secretary Gina Raimondo"
     excerpt: "Vice President Kamala Harris answers questions during a visit to RI with Commerce Secretary Gina Raimondo. Providence Journal video/ Kris Craig]"

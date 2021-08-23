@@ -48,6 +48,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "VP Kamala Harris laughs when asked about tragedy in Afghanistan"
+    excerpt: "Vice President Kamala Harris is under fire after footage shows her laughing when asked about the deadly chaos in Afghanistan."
+    publishedDateTime: 2021-08-23T12:46:00Z
+    webUrl: "https://nypost.com/2021/08/23/kamala-harris-laughs-when-asked-about-tragedy-in-afghanistan/"
+    ampWebUrl: "https://nypost.com/2021/08/23/kamala-harris-laughs-when-asked-about-tragedy-in-afghanistan/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/23/kamala-harris-laughs-when-asked-about-tragedy-in-afghanistan/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/kamala-harris-57.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "DrK7HeAux8eGt40yqq3HyK/D6po/PPmJgi6rUNQc37Ee92kgU3BM/vrNFKVwXStleJCvRL4JTDVZgenb24UrLUqBg2w5h08s8LXv3YIco5FJTH/grdwfK7i38gUgS0KaPl75JgWIUbPZtcfHFgGLU8q7ayp7Owyipqo+YKn8tmEK58qVTxfc33SNcrfYKG/qu7197OPG2zD4Sa05g4+hbSD6mcsoCnou4PAvn6iBe456J6h4CZr1FGC1PHiHgQ6XZCX8HNqPVPYzItttFoMw76VRIhgyfgqqVNd++TgsAUar4EtFuOil8guYE/CmMin6TKMgcbqkZs4hCoEJUjPd2jGeJHMTRDCoeh+WcYpxIRgutWgJ+G/0B79GpVN7bZD7aEBl2bTQV1RsH0tMzpGk7dPziWt4vFDc9YkQnK8tEBws+UtgX2L67tIhvtG69thqUlQxsIbIOr4nWNj5GtzLgPXbJb8zH+vQB4eXIouHrcMDrHwp95cojPrzBLzSoBSl8J092/BDocwC4VOflw7asA==;DAmAzpheF8AHxaslsdWI3w=="
 ---

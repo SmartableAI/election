@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump's Conspiracies Come Back To Bite Him At Alabama Rally"
+    excerpt: "You know we’ve reached a low point as a country when even the loyal-to-a-deadly-and-illogical-fault supporters of former President Donald Trump boo him when he recommends vaccinations against COVID-19."
+    publishedDateTime: 2021-08-23T11:11:00Z
+    webUrl: "https://crooksandliars.com/2021/08/trump-booed-alabama-covid-vaccines"
+    ampWebUrl: "https://crooksandliars.com/2021/08/trump-booed-alabama-covid-vaccines/amp"
+    cdnAmpWebUrl: "https://crooksandliars-com.cdn.ampproject.org/c/s/crooksandliars.com/2021/08/trump-booed-alabama-covid-vaccines/amp"
+    type: article
+    provider:
+      name: Crooks and Liars
+      domain: crooksandliars.com
+    quality: 75
+    images:
+      - url: "https://crooksandliars.com/files/primary_image/21/08/screen_shot_2021-08-22_at_3.09.17_pm.png"
+        width: 1310
+        height: 732
+        isCached: true
 
 secured: "H5OD0jEeD0ekRvPpdJpctYZs8EaZPYy4KNDtYELbZ+cUVH7BSos9qvuAAkkZTuSSvJjlibwZk8/1auQRYiEj42BoDA6qMccrTI24rCKahNhR5zTXYa8ujVEDByQfm1nHv8HfNgD++z9PQc9D2UMz3U1wL0ertZQZPMEre+AgNEazH7OwV3p/EnVambg0n7w/zXHN2olO/a8d+aR3lkFdrg4K8lSFUefBSRknKgkc1cwparGaYORdpV6ACh+6XOgqI06zouHkUUQZFvl3RvqSYFH9dJTTFdg0PgWsAlLjbSibMj0s+B84XsTghdzQKZl/VyoFA8VNyrngKJRyZPtwgR2aypStKeoiSvuPxdcLv/eIUhhdxcC4E3ljNi6IK8plyUJQd7tZ142c7rmvPeyqqZ8WbtBQOZ+hR3Jq7S/VfUnEKavyoHgUPNFPUq3purVhIzJKIWCnwgKybb2SZpBwvrj4hgErT5regR99LqJsDn41/C7QrRres+huE+jmixkbImngUbZX5vE5vYjYSmTyyA==;R6tCja/2auM5MeWLhguXJw=="
 ---

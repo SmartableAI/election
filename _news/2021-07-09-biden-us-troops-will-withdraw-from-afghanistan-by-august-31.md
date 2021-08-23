@@ -112,22 +112,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden Meets With President Ashraf Ghani of Afghanistan"
-    excerpt: "President Biden tried to reassure Mr. Ghani that the U.S. would continue to support Afghanistan even after withdrawing troops. In Texas, Vice President Kamala Harris said immigration could not “be reduced to a political issue."
-    publishedDateTime: 2021-06-25T19:14:00Z
-    webUrl: "https://www.nytimes.com/live/2021/06/25/us/joe-biden-news"
-    ampWebUrl: "https://www.nytimes.com/live/2021/06/25/us/joe-biden-news.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/06/25/us/joe-biden-news.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/06/25/lens/25new-washington-briefing-promo1/25new-washington-briefing-promo1-videoSixteenByNine3000.jpg"
-        width: 3000
-        height: 1687
-        isCached: true
   - title: "Biden says U.S. troop withdrawal from Afghanistan will end Aug. 31"
     excerpt: "The announcement comes as Taliban fighters have made significant territorial gains in northern Afghanistan in recent days, inching closer to the capital, Kabul."
     publishedDateTime: 2021-07-08T22:28:00Z
@@ -143,36 +127,6 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_24/3455045/210308-taliban-afghan-mc-10562.JPG"
         width: 2500
         height: 1481
-        isCached: true
-  - title: "Biden put America first in exiting Afghanistan. He just can't say it."
-    excerpt: "Analysis: It's unlikely that any outcome will make Americans believe it is worth going back — or that it was wrong to leave — in the foreseeable future."
-    publishedDateTime: 2021-07-10T22:10:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-put-america-first-exiting-afghanistan-he-just-can-t-n1273623"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273623"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273623"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_27/3490130/210709-afghan-security-fight-taliban-ew-717p.jpg"
-        width: 2500
-        height: 1668
-        isCached: true
-  - title: "Afghanistan Withdrawal Process is ‘On Track,’ Biden Says"
-    excerpt: "President Biden said on Friday that he believed Afghanistan had the capacity to sustain its government despite the Taliban’s territorial gains. His remarks came after American troops departed from Bagram,"
-    publishedDateTime: 2021-07-02T17:26:00Z
-    webUrl: "https://www.nytimes.com/video/us/politics/100000007848062/biden-afghanistan-withdrawl.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 115
-    images:
-      - url: "https://static01.nyt.com/images/2021/07/02/us/02new-washington-briefing-afghanistan/02new-washington-briefing-afghanistan-facebookJumbo.jpg?video-overlay?video-overlay?video-overlay"
-        width: 1050
-        height: 550
         isCached: true
 
 secured: "f6uFdN6Glsk5qhZKbxd8drSwrLSTWYRBk7YBaSpD461DWxJdqrug+E6wBbJUK0HTpm/Vhv39n9YgA6drgjDJxGrrZKE4uTNfzhFAGFPK/3VGwL65ZZmTtxXdWVJz+0bMZyTLpC81eJkZplyhr6o3+wPnDyrXOxbkhrNFllYBxpeFy0amDMr7NFqAWBp5jKvVqCjVlMszRhv5oL1t0bYLduxNijLj3fSfRwqXvy6TkS0COGCz86jtT43c5A8tOpLZUagT5b4hw8hPTzEeTAr+708bBgY06gY+QZXYxhvdDV23MMsh6MTu1bES9KBY/wspPMdiJQYIu5jSxFQqxMVc8XSjzYIdH94ftZ1YrvLMZRh2K3Bw8n9g1X6F9SoxBzaX9+2mWbjSNXYPgB2NixOLPtudtJ5vBCCDcMzoSWQUExu+Dfyj6E1jAF5LPzRjzQGkfEj+JFMs/sazsXEaGEDjtLKE6Bk5nWaL3RqPsdlx94lQmOxA4rkyXGYgFEluBRjM8nKu02b8vbGJArx6GC/FPQ==;NYY+2gemAAQiYUsA0xlreQ=="

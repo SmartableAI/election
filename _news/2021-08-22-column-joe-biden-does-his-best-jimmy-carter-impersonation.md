@@ -388,15 +388,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Biden's view of job comes into focus after Afghan collapse"
-    excerpt: "But authority over America's longest war finally fell into Biden's hands this year and he insisted that the U.S. withdraw from Afghanistan, settling on an Aug. 31 deadline. And despite the rapid collapse of the Afghan government,"
-    publishedDateTime: 2021-08-22T07:09:00Z
-    webUrl: "https://columbiabasinherald.com/news/2021/aug/22/bidens-view-of-job-comes-into-focus-after-2/"
-    type: article
-    provider:
-      name: Columbia Basin Herald
-      domain: columbiabasinherald.com
-    quality: 35
   - title: "Joe Biden Is Who We Said He Was. Unfit to run the nation"
     excerpt: "Joe Biden has badly, visibly bungled America’s withdrawal from Afghanistan. He has compounded the problem with his sluggish and dishonest public statements. This has gone so badly that even people and institutions that are normally sympathetic to Biden and his party have noticed."
     publishedDateTime: 2021-08-22T01:13:00Z
@@ -405,6 +396,15 @@ related:
     provider:
       name: TigerDroppings.com
       domain: tigerdroppings.com
+    quality: 35
+  - title: "U.S. House Democrats Face Test of Unity on Biden Spending Plans"
+    excerpt: "Democrats face a test of unity in the U.S. House of Representatives on Monday as they begin work on two ambitious spending plans that would devote trillions of dollars to transportation infrastructure and social programs."
+    publishedDateTime: 2021-08-23T11:04:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-08-23/us-house-democrats-face-test-of-unity-on-biden-spending-plans"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 35
 
 secured: "zMbQHrJ1INMEQxabbpdtd1HNcz5yQlKvmvA6QQdiNiaUGooAjpUPshRXtiBhinttkEoJs4F2q+n8pIO/Qu8+en2zxLduJtE9Ne0OwJStJ7ZeO/rU20+qUnZYDqtAA0cVNwRpvo8O2L42kogMLCvz+/uv3RMYudGf8U7QS85expU6ICrHakcG+hNEbutR8oBKNI1l3gqCnny4b4uvdSNYvVWiVSk2u+zP1N0rXAa4DRLBus84KzSEPQbvrQ/VJc28uxvd4BPEJJWYs5rYyLOfyHf6FvzW3TjdCfLB4v+rjtXeIJgteChNGaSDMdXSSySZZnpq4jQHHO3zNGlDhOz7l2sxm7/PAl95kINqaz4qFqJAqvzJext5KyorrUpH9epwTbm1sfu5B0dQyHfmo0cw9B65jBoXB4jeXNeEyLEdluDZ473OqUhFID/zhc775ikW06Ce6nMIrQLWm5hBlozqrvdwWpijhHJJ4a1p/fq+ARFuPi8DI9Gz3unXvAqH2+l7HbkQB1BJ0MXLolIxUwJRHg==;R0bkLsfCgcZhPHeAgQhW8Q=="

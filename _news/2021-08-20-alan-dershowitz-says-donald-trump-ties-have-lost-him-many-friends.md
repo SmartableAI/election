@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/alan-dershowitz-says-donald-trump-ties-have
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/alan-dershowitz-says-donald-trump-ties-have-lost-him-many-friends-larry-david-1621399?amp=1"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/1b8/ba7/c2eceb483d86eae00a02fa082370fa12c9-trump-money-making.1x.rsocial.w1200.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump's Conspiracies Come Back To Bite Him At Alabama Rally"
+    excerpt: "You know we’ve reached a low point as a country when even the loyal-to-a-deadly-and-illogical-fault supporters of former President Donald Trump boo him when he recommends vaccinations against COVID-19."
+    publishedDateTime: 2021-08-23T11:11:00Z
+    webUrl: "https://crooksandliars.com/2021/08/trump-booed-alabama-covid-vaccines"
+    ampWebUrl: "https://crooksandliars.com/2021/08/trump-booed-alabama-covid-vaccines/amp"
+    cdnAmpWebUrl: "https://crooksandliars-com.cdn.ampproject.org/c/s/crooksandliars.com/2021/08/trump-booed-alabama-covid-vaccines/amp"
+    type: article
+    provider:
+      name: Crooks and Liars
+      domain: crooksandliars.com
+    quality: 75
+    images:
+      - url: "https://crooksandliars.com/files/primary_image/21/08/screen_shot_2021-08-22_at_3.09.17_pm.png"
+        width: 1310
+        height: 732
         isCached: true
 
 secured: "BuYYnqg3DPySr+/HbNNLdInjOdPPllH0qdIu/z0UhpQLaqimQF7NEGB22U9oYMpMdqYtKxeFgDdryMvE3I9Al6E2KFwnNMUtHMlTT37bpagQSWCiLa6LuyPRjnT2gPTSj40HlptrXbu5g1JJ+9nMIJFXraLhMRIp2Vs+s5UlFVZID2jmTmY2yW1UB2V9hl8IzP1GO/3yz+8Wktm/wSV/LVOzLS/wSljMkqAyCkx31bFlO8T6n5Q59++aHHftB420dyp76xoqZ1LdUqRDvnkDlxfOf5NfoVPuO1vjJezT8dp2jumG0tURqCEP7W3m8SJUCyYXb1lSKMKIinUn50frdaY3tiUtaPA5ICjxRaV53vUkXgttt0zGhko29wFvwRES3UDlrKe91A+Bkh/E7dosuFGvG/M8HLc93cM1YL5dm17JpHsxQwNFRhY7AB8Ei5iY0AADv5hZpLlyIdUqqbNadEnLSeFccPm+ycpXagNYSh6e03nqRhJHxBNDppPxLPAbtnL0sr5e+VP5tYLKJCigAw==;nJd33lkNK+vzIAPJ+iGh0w=="

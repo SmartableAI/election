@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/world/2021/08/16/fareed-zakaria-afgha
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2021/08/16/fareed-zakaria-afghanistan-biden-acfc-sot-vpx.cnn"
 type: article
 quality: 175
-heat: 195
+heat: 235
 published: true
 
 provider:
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Biden tries for a reset after a nightmare week in Kabul"
+    excerpt: "President Joe Biden wants to convince Americans he's in charge and understands the heartache caused by a week of politically damaging chaos in Kabul unleashed by his botched Afghanistan withdrawal plan.\n    \n"
+    publishedDateTime: 2021-08-23T11:11:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JjwZVSCv0V8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/23/politics/president-joe-biden-afghanistan-politics-storm-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/23/politics/president-joe-biden-afghanistan-politics-storm-republicans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210822180305-02-biden-0822-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden will face pressure from G7 to extend Afghanistan withdrawal deadline"
+    excerpt: "Leaders from the top foreign allies of the United States are planning to press President Joe Biden to extend the deadline for US troops to withdraw from Afghanistan during a Tuesday morning meeting, officials familiar with the matter said.\n    \n"
+    publishedDateTime: 2021-08-23T13:24:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9S-EyXetpew/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/23/politics/biden-g7-afghanistan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/23/politics/biden-g7-afghanistan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210822180305-02-biden-0822-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "New pandemic school year is a nightmare for parents and a new test for Biden"
     excerpt: "America's kids, more vulnerable than ever to Covid-19 and in the crossfire of a political war over masks, are going back to class in a timeless rite transformed into a moment of fear by the pandemic that interrupted their childhood.\n    \n"
     publishedDateTime: 2021-08-20T04:01:38Z

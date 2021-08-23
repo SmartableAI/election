@@ -62,6 +62,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Kamala Harris stresses Southeast Asia ties on an overseas trip, but the focus returns to Afghanistan."
+    excerpt: "Facing rising pressure over the United States’ haphazard withdrawal from Afghanistan, Vice President Kamala Harris said on Monday that the Biden administration was “singularly focused” on evacuating American citizens and Afghan allies."
+    publishedDateTime: 2021-08-23T09:45:00Z
+    webUrl: "https://www.nytimes.com/2021/08/23/world/asia/kamala-harris-stresses-southeast-asia-ties-on-an-overseas-trip-but-the-focus-returns-to-afghanistan.html"
+    ampWebUrl: "https://www.nytimes.com/2021/08/23/world/asia/kamala-harris-stresses-southeast-asia-ties-on-an-overseas-trip-but-the-focus-returns-to-afghanistan.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/23/world/asia/kamala-harris-stresses-southeast-asia-ties-on-an-overseas-trip-but-the-focus-returns-to-afghanistan.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 120
+    images:
+      - url: "https://static01.nyt.com/images/2021/08/23/world/23-afghanistan-briefing-KamalainSingapor-02/23-afghanistan-briefing-KamalainSingapor-02-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "qcN6fBxCFrDUw0YTyUgRQlOm4DBJzyZajaPDUkobwZZkxU8vxaYADXBnwhd2J+HQ8KhCnLYcNVKRNDppyAKadEmTSJeIoyI5mOlj+sLGfYbxswljnktK8xUcnzrDoVpYU8m7k7CW9Ae8dHUNqOhnwXkMIjk0kJBrU11p/YjzFpmUdfO50kRHOlerA2wQmXkA2Wbv+U9EyUTxZOHhyHdj0FOcZv3t61FkpEBISWeuJfONdqJV8qWkW9r1+W1e71PE5/DoXw0wriYWGHAQMJk714UhoC6ySd/ShafzCIuGLFteN0BoZ70pNnla4V+Vn6imTI8gm1k2pVQxhT0XyxAa3JxIec2sow9HZ8PixaxdGtbhoZB1En9NKYOglD3AqwuzTEnPuGqjFnJBpe/BfHFxLZ0QIGFBdIBYKoOHRaUEr4Np+WrqcTS+os0NUbcsTqk/AX+l7R1iVWA73a+F15zeeBOpgL8ud8CGiA2PXEyHzDK8l7mKCKLt8SEOG3HCSgwOLCXUQ9Z2vAm0aoGpLA/4lw==;hsZP+UdTN5gC5mtp/i5SkA=="
 ---

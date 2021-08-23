@@ -73,6 +73,34 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Trump Booed for Encouraging Supporters at Rally To Get COVID Vaccine"
+    excerpt: "Former President Donald Trump encouraged his supporters to get the COVID-19 vaccine, before noting each person has the freedom to decide. “You know what? I believe totally in your freedoms. I do,” Trump said during a rally on Saturday in Alabama."
+    publishedDateTime: 2021-08-23T12:52:00Z
+    webUrl: "https://ijr.com/trump-booed-encouraging-supporters-rally-covid-vaccine/"
+    type: article
+    provider:
+      name: ijr.com
+      domain: ijr.com
+    quality: 55
+    images:
+      - url: "https://ijr.com/wp-content/uploads/2021/08/Untitled-design-18.jpg"
+        width: 550
+        height: 346
+        isCached: true
+  - title: "Trump shows support for vaccine, gets booed by supporters at rally"
+    excerpt: "Donald Trump recommended that supporters at a rally in Alabama go and get the vaccine, which elicited some boos from the crowd."
+    publishedDateTime: 2021-08-23T13:49:00Z
+    webUrl: "https://www.indystar.com/videos/news/politics/2021/08/23/trump-shows-support-vaccine-gets-booed-supporters-rally/8239337002/"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/da092552-bb26-4e96-8837-96cd2592d81d_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Donald Trump Encouraged People at His Rally to Get Vaccinated. They Booed Him."
     excerpt: "According to a Trump adviser, the then-president and his wife, Melania, got the vaccine in January—a fact that wasn’t reported until March . 2) The rally brought thousands of people to York Family Farms in Cullman County,"
     publishedDateTime: 2021-08-22T13:52:00Z

@@ -407,7 +407,7 @@ related:
   - title: "Mike Pence: Biden Broke Our Deal With the Taliban"
     excerpt: "It’s a foreign-policy humiliation unlike anything our country has endured since the Iran hostage crisis."
     publishedDateTime: 2021-08-17T21:19:00Z
-    webUrl: "https://www.wsj.com/articles/mike-pence-biden-broke-our-deal-with-the-taliban-11629238764"
+    webUrl: "https://www.wsj.com/articles/mike-pence-biden-broke-our-deal-with-the-taliban-11629238764?mod=newsviewer_click"
     ampWebUrl: "https://www.wsj.com/amp/articles/mike-pence-biden-broke-our-deal-with-the-taliban-11629238764"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/mike-pence-biden-broke-our-deal-with-the-taliban-11629238764"
     type: article

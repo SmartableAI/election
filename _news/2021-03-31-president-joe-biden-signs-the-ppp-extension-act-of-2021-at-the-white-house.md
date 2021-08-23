@@ -1188,17 +1188,6 @@ related:
         width: 650
         height: 433
         isCached: true
-  - title: "Show Biden the door"
-    excerpt: "With Joe Biden’s total collapse of everything domestic, why would anyone expect anything less than catastrophic failure of his foreign policy?"
-    publishedDateTime: 2021-08-22T17:35:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/aug/22/letters-editor-show-biden-door/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/22/letters-editor-show-biden-door/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/22/letters-editor-show-biden-door/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 55
   - title: "National Reaction: President Joe Biden, Robert Griffin III, others congratulate Baylor on its first national championship"
     excerpt: "Find more Baylor coverage from The Dallas Morning News here."
     publishedDateTime: 2021-04-06T04:54:00Z

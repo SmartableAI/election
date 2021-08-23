@@ -2,29 +2,23 @@
 category: news
 title: "Barron Trump to attend exclusive school near Mar-a-Lago"
 excerpt: "Former President Donald Trump’s youngest son will be attending an exclusive private school not far from Mar-a-Lago."
-publishedDateTime: 2021-08-22T23:20:00Z
-originalUrl: "https://www.wfla.com/news/florida/barron-trump-to-attend-exclusive-school-near-mar-a-lago/"
-webUrl: "https://www.wfla.com/news/florida/barron-trump-to-attend-exclusive-school-near-mar-a-lago/"
-ampWebUrl: "https://www.wfla.com/news/florida/barron-trump-to-attend-exclusive-school-near-mar-a-lago/amp/"
-cdnAmpWebUrl: "https://www-wfla-com.cdn.ampproject.org/c/s/www.wfla.com/news/florida/barron-trump-to-attend-exclusive-school-near-mar-a-lago/amp/"
+publishedDateTime: 2021-08-23T07:40:00Z
+originalUrl: "https://www.star-telegram.com/news/nation-world/national/article253633128.html"
+webUrl: "https://www.star-telegram.com/news/nation-world/national/article253633128.html"
+ampWebUrl: "https://amp.star-telegram.com/news/nation-world/national/article253633128.html"
+cdnAmpWebUrl: "https://amp-star--telegram-com.cdn.ampproject.org/c/s/amp.star-telegram.com/news/nation-world/national/article253633128.html"
 type: article
-quality: 75
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: WFLA
-  domain: wfla.com
+  name: Fort Worth Star-Telegram
+  domain: star-telegram.com
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://www.wfla.com/wp-content/uploads/sites/71/2020/09/f300b8566eae4af493661323e5929de8.jpg?w=1280"
-    width: 1280
-    height: 853
-    isCached: true
 
 related:
   - title: "Barron Trump Enrolls In $35,000-A-Year Private School In Florida"
@@ -44,6 +38,6 @@ related:
         height: 682
         isCached: true
 
-secured: "kMUEzJkZyHZF6+z3tXYcpghUPfZZAq9IaSfM/iJJyr3ageTqeD5XLySb5QUXKYWsW6NiwoKzxZKinVkMHIWi/7w++xnQZ4jv6ttTx1e8qGjVQN/QpQWO4MrsHVUi9lXMTlTvzlOPgM5c4cFAl83j0CYvmtqcH0uwXUCLMd1a4lp9T6UI3FTYEnOMw122ki9hRInJByqFWTX88TfEakoOW9G0wOO++MqzXUnFH+vHAzWRC4MLMdFMk1r4sSYttY90C11CyNsSt+L3KPfXNufHzSSe7EMzGTZ0vBX31FDV6EuBEf5/qjOoVKyJY7RVzCvFY1gJ+b5euigHusb0u2x+Rns9HJpge9BhUutAPjhxEgc=;EJ761y5auKYB2g+TXZwCFw=="
+secured: "AiJf0UhLwvNArRLExILHPuCaGU3tEc1cf5Wjb9RbJc6CQ213WbwalV+gwqG0CjGyy4kJsQmZHrlaGlPbcTDJW6RNCc5XDhLn7w/JMb3ZKkSHfiaZS0J8WfKD1PBiGL/nGkycsC7cCqOtrxi/4AiLLulWRLaaUnhPpvig6lzJLW7/tsA+O8jlgUx76kYB//CHnkM+vTiql2HFkCWdVqbFePd8Rvd/Hpry8GOYUTK+vnC0hoUxKA21Cpv5lwo13pKdTI+9uRLTHilV2mxWdTya92XdipYOmudNPhPtRlktJxhKtNeiez1VRWVc/1rbJ6UT0yRCEI8RAaZDXIJfciBRjlxktMFloZxR7Y3fdTsZXog=;0ZM8HA4XgIBu7UA7wv0jpg=="
 ---
 

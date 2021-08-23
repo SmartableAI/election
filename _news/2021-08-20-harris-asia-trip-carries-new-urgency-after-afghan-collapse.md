@@ -21,6 +21,22 @@ topics:
   - Kamala Harris
 
 related:
+  - title: "Kamala Harris says focus must stay on Afghan evacuation"
+    excerpt: "The vice president says the priority is on evacuating Americans and vulnerable Afghans and it shouldn’t get distracted by questions over what went wrong in the chaotic U.S. exit from Afghanistan."
+    publishedDateTime: 2021-08-23T08:26:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-08-23/kamala-harris-says-focus-must-stay-on-afghan-evacuation"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-08-23/kamala-harris-says-focus-must-stay-on-afghan-evacuation?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-08-23/kamala-harris-says-focus-must-stay-on-afghan-evacuation?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/9d14458/2147483647/strip/true/crop/4854x3246+8+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F61%2F3f%2Fd4e6d7864c69a65dddf7f2ea5e01%2Fap21234735010272.jpg"
+        width: 320
+        height: 214
+        isCached: true
   - title: "Kamala Harris heads to Vietnam while Afghanistan images rekindle the past"
     excerpt: "White House officials did not anticipate the comparisons with Afghanistan when they charted Vice President Kamala Harris' trip to Vietnam."
     publishedDateTime: 2021-08-20T15:05:00Z
@@ -39,7 +55,7 @@ related:
         isCached: true
   - title: "US VP Harris: Focus must stay on Afghan evacuation"
     excerpt: "Vice President Kamala Harris says the U.S. must maintain its focus on evacuating Americans and vulnerable Afghans and shouldn’t get distracted by questions over what went wrong in the chaotic U.S. exi"
-    publishedDateTime: 2021-08-23T07:40:00Z
+    publishedDateTime: 2021-08-23T13:34:00Z
     webUrl: "https://abcnews.go.com/US/wireStory/us-vp-harris-focus-stay-afghan-evacuation-79596115"
     type: article
     provider:
@@ -50,6 +66,20 @@ related:
       - url: "https://s.abcnews.com/images/US/WireAP_dafa375edbf14da8823579ea199509db_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Vietnam tightens virus lockdown ahead of Harris visit"
+    excerpt: "Vietnam’s largest metropolis, Ho Chi Minh City, went into a tightened lockdown Monday to battle its worst outbreak of the coronavirus pandemic, just a day ahead of the arrival of U.S."
+    publishedDateTime: 2021-08-23T09:35:00Z
+    webUrl: "https://apnews.com/article/health-coronavirus-pandemic-vietnam-5c516232be0531e899297ec233a5d0de"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/e6c79ca07d6540a7a01e7e158c2083ad/3000.jpeg"
+        width: 3000
+        height: 2002
         isCached: true
   - title: "Kamala Harris’ Asia trip carries new urgency after Afghan collapse"
     excerpt: "The Taliban takeover of Afghanistan has given new urgency to Vice President Kamala Harris’ tour of southeast Asia, where she will attempt to reassure allies of American resolve following the"
@@ -131,6 +161,54 @@ related:
         width: 480
         height: 320
         isCached: true
+  - title: "VP Kamala Harris to return to California to campaign for Newsom next week"
+    excerpt: "WASHINGTON — Vice President Kamala Harris will campaign for Gov. Gavin Newsom next week as the Democratic Party rallies around the California governor in his recall battle. The vice president and former California senator will visit her home state next ..."
+    publishedDateTime: 2021-08-20T14:09:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/VP-Kamala-Harris-to-return-to-California-to-16400277.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/VP-Kamala-Harris-to-return-to-California-to-16400277.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/VP-Kamala-Harris-to-return-to-California-to-16400277.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 74
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/42/32/21374623/3/400x0.jpg"
+        width: 400
+        height: 266
+        isCached: true
+  - title: "Kamala Harris visits Singapore to deepen ties, counter China’s influence"
+    excerpt: "U.S. Vice President Kamala Harris will meet Singapore’s leaders on Monday on the first working day of a trip to Southeast Asia aimed at bolstering ties as part of Washington’s efforts to counter China’s growing influence."
+    publishedDateTime: 2021-08-23T00:48:00Z
+    webUrl: "https://www.metro.us/kamala-harris-visits-singapore/"
+    ampWebUrl: "https://www.metro.us/kamala-harris-visits-singapore/amp/"
+    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/kamala-harris-visits-singapore/amp/"
+    type: article
+    provider:
+      name: Metro US
+      domain: metro.us
+    quality: 74
+    images:
+      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTopNews/tagreuters.com2021binary_LYNXMPEH7M04M-BASEIMAGE.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "During Singapore visit, VP Kamala Harris says U.S. focus is on Afghanistan"
+    excerpt: "U.S. Vice President Kamala Harris said during a visit to Singapore on Monday that President Joe Biden's administration is focused on getting the remaining American citizens and Afghan aides out of Afghanistan."
+    publishedDateTime: 2021-08-23T12:15:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2021/08/23/singapore-kamala-harris-afghanistan/2621629717925/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2021/08/23/singapore-kamala-harris-afghanistan/2621629717925/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/08/23/singapore-kamala-harris-afghanistan/2621629717925/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 73
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/2621629717925/2021/1/a38431fde78228c58e3bea7c8445fb8f/v1.5/During-Singapore-visit-VP-Kamala-Harris-says-US-focus-is-on-Afghanistan.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Kamala Harris' trip to Asia has new urgency amid collapse of Afghan government"
     excerpt: "The Taliban takeover of Afghanistan is giving new urgency to Vice President Kamala Harris' tour of southeast Asia, where she will attempt to reassure allies of American resolve following the chaotic end of a two-decade war."
     publishedDateTime: 2021-08-20T14:12:00Z
@@ -209,6 +287,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Kamala Harris can't rescue U.S.' credibility in Southeast Asia"
+    excerpt: "Kamala Harris's visit to Southeast Asia aims to convey that the U.S. has an enduring commitment to the region and is in Southeast Asia to stay to counter China's influence in the region. It will have little success."
+    publishedDateTime: 2021-08-23T10:17:00Z
+    webUrl: "https://news.cgtn.com/news/2021-08-23/Kamala-Harris-can-t-rescue-U-S-credibility-in-Southeast-Asia-12XG9G4vutW/index.html"
+    type: article
+    provider:
+      name: CGTN
+      domain: cgtn.com
+    quality: 55
+    images:
+      - url: "https://news.cgtn.com/news/2021-08-23/Kamala-Harris-can-t-rescue-U-S-credibility-in-Southeast-Asia-12XG9G4vutW/img/808e21e88cc646e58770e0e74eec8872/808e21e88cc646e58770e0e74eec8872-1920.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Kamala Harris visits Singapore to deepen ties"
     excerpt: "SINGAPORE: U.S. Vice President Kamala Harris will meet Singapore's leaders on Monday on the first working day of a trip to Southeast Asia aimed at bolstering ties as part of Washington's efforts to counter China's growing influence."
     publishedDateTime: 2021-08-22T22:33:00Z
@@ -223,17 +315,20 @@ related:
         width: 620
         height: 413
         isCached: true
-  - title: "Kamala Harris Visits Singapore to Deepen Ties, Counter China's Influence"
-    excerpt: "U.S. Vice President Kamala Harris will meet Singapore's leaders on Monday on the first working day of a trip to Southeast Asia aimed at bolstering ties as part of Washington's efforts to counter China's growing influence."
-    publishedDateTime: 2021-08-22T22:05:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2021-08-22/kamala-harris-visits-singapore-to-deepen-ties-counter-chinas-influence"
-    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-08-22/kamala-harris-visits-singapore-to-deepen-ties-counter-chinas-influence?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-08-22/kamala-harris-visits-singapore-to-deepen-ties-counter-chinas-influence?context=amp"
+  - title: "US Veep Kamala Harris vows 'enduring engagement' in Asia"
+    excerpt: "Vice-President Kamala Harris vowed \"enduring engagement\" in Asia on Monday, offering reassurances of Washington's commitment to the region following the United States' withdrawal from Afghanistan and the Taliban takeover."
+    publishedDateTime: 2021-08-23T11:04:00Z
+    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/08/23/us-veep-kamala-harris-vows-039enduring-engagement039-in-asia"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 54
+      name: The Star
+      domain: thestar.com.my
+    quality: 55
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/08/23/1266478.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Kamala Harris visits Singapore to deepen ties and counter China's influence"
     excerpt: "US Vice President Kamala Harris will meet Singapore's leaders on Monday on the first working day of a trip to Southeast Asia aimed at bolstering ties as part of Washington's efforts to counter China's growing influence."
     publishedDateTime: 2021-08-23T00:52:00Z
@@ -278,6 +373,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The Focus Must Stay On Evacuations, Not On The Exit From Afghanistan, Harris Says"
+    excerpt: "Vice President Kamala Harris asserted Monday that the U.S. must maintain its focus on evacuating Americans and vulnerable Afghans and shouldn&"
+    publishedDateTime: 2021-08-23T11:54:00Z
+    webUrl: "https://www.knau.org/post/vp-harris-focus-must-stay-evacuations-not-us-exit-afghanistan"
+    type: article
+    provider:
+      name: KNAU Arizona Public Radio
+      domain: knau.org
+    quality: 50
+    images:
+      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202108/1030237302.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Kamala Harris to Tour Southeast Asia in Wake of Afghan Withdrawal; New Poll Indicates Lower Approval Rating"
     excerpt: "WASHINGTON – The Taliban takeover of Afghanistan has given new urgency to Vice President Kamala Harris’ tour of Southeast Asia, where she will attempt to reassure allies of American resolve following the chaotic end of a two-decade war, reported the ..."
     publishedDateTime: 2021-08-20T23:01:00Z
@@ -301,6 +410,29 @@ related:
       name: Columbia Basin Herald
       domain: columbiabasinherald.com
     quality: 35
+  - title: "Vice President Harris Singaporean Prime Minister Hold Joint News Conference"
+    excerpt: "T01:35:14-04:00 President Kamala Harris and Singaporean Prime Minister Lee Hsien Loong hold a joint news conference in Singapore. Vice President Kamala Harris and Singaporean Prime Minister Lee Hsien Loong hold a joint news conference in Singapore."
+    publishedDateTime: 2021-08-23T11:31:00Z
+    webUrl: "https://www.c-span.org/video/?514205-1/vice-president-harris-singaporean-prime-minister-hold-joint-news-conference"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 33
+  - title: "U.S. focus is on Afghan evacuations, says Harris amid criticism U.S. focus is on Afghan evacuations, says Harris amid criticism"
+    excerpt: "U.S. Vice President Kamala Harris said on Monday during a visit to Singapore that the United States was focusing on evacuation efforts taking place in Afghanistan and that there would be plenty of time to analyze the context of the troop withdrawal."
+    publishedDateTime: 2021-08-23T11:49:00Z
+    webUrl: "https://news.cgtn.com/news/2021-08-23/U-S-focus-is-on-Afghan-evacuations-says-Harris-amid-criticism-12XMuuhSCWY/index.html"
+    type: article
+    provider:
+      name: CGTN
+      domain: cgtn.com
+    quality: 27
+    images:
+      - url: "https://news.cgtn.com/news/2021-08-23/U-S-focus-is-on-Afghan-evacuations-says-Harris-amid-criticism-12XMuuhSCWY/img/a4e0c162459b45faa9e0cdacec4b97b1/a4e0c162459b45faa9e0cdacec4b97b1-750.jpeg"
+        width: 750
+        height: 422
+        isCached: true
 
 secured: "c2nAgvgXDt5RHSmqqkIt2i6RQFgXE9XoHudnheVEjNV5dWkSV4suYoIsW3RfR7uqxs6UsqaDpRjBh0T59MPFLPe94YCUtKz7dP20JFIuM4Xs8CSE42WGJg0qhMFS2t8nFAolBMyDBFRnJt3BButx06Ycmsgz4CnSo2Unnq2rEYjhggrLFfa1Kg4u9LaeMz9KvJ05QjUforHsgbuBRXKTG/Sj73URzA68Fg5aMF3ToFgHCiFVBrH6EwttFwayFVvyoRIaaum2dayowXUnSM/4OcTi2zt3lKpzN1rfO6cpSsnkL2OkXMFX37d5t5rEhvQxOCjcc8+4fCCnfo6HiWl5dctAJM+n99evAiICvrhA9Wnr/3K45nU136eA9POEGMeWxNFG1BA+p3GkT4o5hF3xJ01WYHPO9QU3dh228IUW3tFTlmUSI/0s8ieyuXkVQULVR2WFjjXpgXrxUE+sHvG9n2U1B4LGqIzzve9FrCQL4uFoF+roSY7whqlh7WCNGFno1E5QB2nH1dC8RfHdv3G8yw==;MTnb1vGIivxC7ZDMP5XLkg=="
 ---

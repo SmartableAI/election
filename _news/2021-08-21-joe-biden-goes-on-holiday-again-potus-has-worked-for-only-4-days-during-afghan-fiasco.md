@@ -380,15 +380,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Biden's view of job comes into focus after Afghan collapse"
-    excerpt: "But authority over America's longest war finally fell into Biden's hands this year and he insisted that the U.S. withdraw from Afghanistan, settling on an Aug. 31 deadline. And despite the rapid collapse of the Afghan government,"
-    publishedDateTime: 2021-08-22T07:09:00Z
-    webUrl: "https://columbiabasinherald.com/news/2021/aug/22/bidens-view-of-job-comes-into-focus-after-2/"
-    type: article
-    provider:
-      name: Columbia Basin Herald
-      domain: columbiabasinherald.com
-    quality: 35
   - title: "COLUMN: Joe Biden does his best Jimmy Carter impersonation"
     excerpt: "Barely seven months into Joe Biden’s tenure as president and it’s already clear that his administration’s potential to create havoc is unparalleled in recent memory. The debacle in Afghanistan serves"
     publishedDateTime: 2021-08-22T06:30:00Z
@@ -406,6 +397,15 @@ related:
     provider:
       name: TigerDroppings.com
       domain: tigerdroppings.com
+    quality: 35
+  - title: "U.S. House Democrats Face Test of Unity on Biden Spending Plans"
+    excerpt: "Democrats face a test of unity in the U.S. House of Representatives on Monday as they begin work on two ambitious spending plans that would devote trillions of dollars to transportation infrastructure and social programs."
+    publishedDateTime: 2021-08-23T11:04:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-08-23/us-house-democrats-face-test-of-unity-on-biden-spending-plans"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 35
 
 secured: "7sPtyEGo2GIQLcOO+5JC6kdje9mhrQj0qqbOp8vw5wyLP+gvKsOyhKsgxM1CKX6C0sg4aAurqveWdWFjziktYk44mR3OaX72uM8W06SDXgmCpdbrNkvyQVEAPIDXA4NEPW5II2ro1XDT02PsUoVd94HgLTGU65LXXtTKzGwlmNAlgOKv4jVLRoHK+xo55O2S9FU8CvcZPQWj5BMTT7wc5Pyvx9LB3ZlqPI6h1P2V6WeaOExFncHqb8bXqcwZoE+9UiueCQYT58Sg4cp2E5I6SeEnulgy5fZtS//bp0OHfdTYfRGmPltz1GGDDVtALklDkrNLEdsruE3rmTXeNK3LBDDECnaz6zuzNCYP7Sh8v/g=;6gsqmjfWeMgm9FRObe9yjQ=="

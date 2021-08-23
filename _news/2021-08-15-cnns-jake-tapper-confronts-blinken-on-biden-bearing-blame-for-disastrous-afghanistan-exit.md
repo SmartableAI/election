@@ -63,38 +63,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "Joe Biden Blamed Afghan Leaders For Giving Up As The Taliban Took Control"
-    excerpt: "In an address from the White House, Biden stood by his decision to withdraw US forces from Afghanistan, insisting he would not repeat past mistakes."
-    publishedDateTime: 2021-08-16T21:14:00Z
-    webUrl: "https://www.buzzfeednews.com/article/nidhiprakash/biden-afghanistan-speech-taliban-take-over"
-    ampWebUrl: "https://www.buzzfeednews.com/amphtml/nidhiprakash/biden-afghanistan-speech-taliban-take-over"
-    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/nidhiprakash/biden-afghanistan-speech-taliban-take-over"
-    type: article
-    provider:
-      name: BuzzFeed News
-      domain: buzzfeednews.com
-    quality: 124
-    images:
-      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2017-08/22/9/campaign_images/buzzfeed-prod-fastlane-01/this-is-how-we-got-to-trumps-decision-on-afghanis-2-17303-1503407977-2_dblbig.jpg"
-        width: 625
-        height: 415
-        isCached: true
-  - title: "CNN Turns on Joe Biden as Afghanistan Actions Called 'a Political Disaster'"
-    excerpt: "The Biden administration is under fire amid the chaotic U.S. withdrawal from Afghanistan and Taliban victory there."
-    publishedDateTime: 2021-08-16T08:33:00Z
-    webUrl: "https://www.newsweek.com/cnn-turns-joe-biden-afghanistan-political-disaster-kabul-airport-1619570"
-    ampWebUrl: "https://www.newsweek.com/cnn-turns-joe-biden-afghanistan-political-disaster-kabul-airport-1619570?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cnn-turns-joe-biden-afghanistan-political-disaster-kabul-airport-1619570?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 123
-    images:
-      - url: "https://d.newsweek.com/en/full/1871615/joe-biden-speaks-white-house.jpg"
-        width: 3712
-        height: 2472
-        isCached: true
   - title: "Joe Biden urges Afghans to ‘fight for their nation’ as Taliban advance continues"
     excerpt: "With insurgents now controlling two-thirds of the country, the US president says local forces must rally"
     publishedDateTime: 2021-08-11T04:44:00Z
@@ -126,22 +94,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1869216/prince-harry-veteran-ben-mcbean.jpg"
         width: 3000
         height: 2001
-        isCached: true
-  - title: "Afghanistan live news: chaos at Kabul airport as Joe Biden speaks for first time in a week"
-    excerpt: "US president has begun speaking on Afghanistan – and opened by saying the US has achieved its goal"
-    publishedDateTime: 2021-08-16T20:49:00Z
-    webUrl: "https://www.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates?page=with:block-611ad9af8f08d30d155038b1"
-    ampWebUrl: "https://amp.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 115
-    images:
-      - url: "https://i.guim.co.uk/img/media/ca04fc81dfbee8e398afe817e769a2e7f9c116ea/0_0_9063_5632/master/9063.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=24917cecae5baebe2866dfbb8d7b6f62"
-        width: 600
-        height: 372
         isCached: true
   - title: "Lindsey Graham Says Biden 'Seems Oblivious' to Terrorist Threats Posed by Taliban-Run Afghanistan"
     excerpt: "\"Jihadists all over the world are celebrating this event,\" Graham warned on Sunday as the Taliban seized control."
@@ -220,54 +172,6 @@ related:
       - url: "http://media.heartlandtv.com/designimages/wthi-story-default-image-640x380.png"
         width: 640
         height: 380
-        isCached: true
-  - title: "Livestream: Joe Biden to speak about Afghanistan after Taliban takeover"
-    excerpt: "The president was expected to address the nation from the White House at 3:45 p.m. Watch live on Boston.com."
-    publishedDateTime: 2021-08-16T23:25:00Z
-    webUrl: "https://www.boston.com/news/politics/2021/08/16/joe-biden-afghanistan-livestream-video/"
-    ampWebUrl: "https://www.boston.com/news/politics/2021/08/16/joe-biden-afghanistan-livestream-video/?amp=1"
-    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/politics/2021/08/16/joe-biden-afghanistan-livestream-video/?amp=1"
-    type: article
-    provider:
-      name: Boston.com
-      domain: boston.com
-    quality: 75
-    images:
-      - url: "https://bdc2020.o0bc.com/wp-content/uploads/2021/08/Biden_84639-611abb2b2715f-scaled.jpg"
-        width: 2560
-        height: 1706
-        isCached: true
-  - title: "President Joe Biden says he stands ‘squarely behind’ Afghanistan withdrawal"
-    excerpt: "President Joe Biden said Monday that he stands “squarely behind” his decision to withdraw U.S. forces from Afghanistan and that the government’s collapse was quicker than anticipated. Speaking about the chaotic situation in Afghanistan,"
-    publishedDateTime: 2021-08-16T20:31:00Z
-    webUrl: "https://www.masslive.com/politics/2021/08/president-joe-biden-says-he-stands-squarely-behind-afghanistan-withdrawal.html"
-    ampWebUrl: "https://www.masslive.com/politics/2021/08/president-joe-biden-says-he-stands-squarely-behind-afghanistan-withdrawal.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/08/president-joe-biden-says-he-stands-squarely-behind-afghanistan-withdrawal.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 73
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5PFNP4X6NJAX7KYYGY46ES22KM.jpg"
-        width: 4484
-        height: 2522
-        isCached: true
-  - title: "Watch: President Joe Biden to speak Monday about Afghanistan after Taliban takeover"
-    excerpt: "President Joe Biden will address the world from the White House at 3:45 p.m. Monday after a day of chaos in Afghanistan, where Taliban leaders walked into the capital city of Kabul after a swift siege across the country and where American diplomats and thousands of civilians are scrambling to exit."
-    publishedDateTime: 2021-08-16T16:53:00Z
-    webUrl: "https://www.masslive.com/politics/2021/08/watch-president-joe-biden-to-speak-monday-about-afghanistan-after-taliban-takeover.html"
-    ampWebUrl: "https://www.masslive.com/politics/2021/08/watch-president-joe-biden-to-speak-monday-about-afghanistan-after-taliban-takeover.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/08/watch-president-joe-biden-to-speak-monday-about-afghanistan-after-taliban-takeover.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 69
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FBD33FF3BZGHDGB7PB74JCYFVU.jpg"
-        width: 5606
-        height: 3737
         isCached: true
   - title: "Taliban's Afghanistan advance tests Biden's 'America is back' foreign policy promise"
     excerpt: "As the Taliban routs Afghan forces at lightning speed, the U.S. retreat from the country raises questions about Biden's \"America is back\" foreign policy."
@@ -425,34 +329,6 @@ related:
       name: Lexington Herald Leader
       domain: kentucky.com
     quality: 55
-  - title: "Susan Collins hits Joe Biden for Afghanistan ‘chaos’ with Maine delegation split over exit"
-    excerpt: "As the Taliban consolidates its sweeping control over Afghanistan, the opportunity exists for the country to once again become a safe haven for Islamist terrorist groups targeting our country,” Collins said."
-    publishedDateTime: 2021-08-16T19:34:00Z
-    webUrl: "https://bangordailynews.com/2021/08/16/politics/susan-collins-hits-joe-biden-for-afghanistan-chaos-with-maine-delegation-split-over-exit/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 45
-    images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/Virus-Outbreak-Congress-1-1.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Rick Scott poses ‘serious question’ of Joe Biden removal from office after Afghanistan crisis"
-    excerpt: "Biden plans to address the American people later Monday. But for Scott, the President’s words are too little too late, as he calls for Biden to leave the White House. “After the disastrous events in Afghanistan,"
-    publishedDateTime: 2021-08-16T16:27:00Z
-    webUrl: "https://floridapolitics.com/archives/450579-rick-scott-poses-serious-question-of-joe-biden-removal-from-office-after-afghanistan-crisis/"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 44
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2018/08/Rick-Scott-Bill-Nelson-Florida-Senate-race-tests-value-of-campaign-cash.jpg"
-        width: 660
-        height: 330
-        isCached: true
   - title: "Biden Says He Does Not Believe He Can Intervene in States Banning Mask Mandates"
     excerpt: "President Joe Biden said on Tuesday that he did not believe he had the power to intervene in U.S. states that have banned mask mandates but said his administration was looking into the issue. \"I don't believe that I do,"
     publishedDateTime: 2021-08-10T19:49:00Z

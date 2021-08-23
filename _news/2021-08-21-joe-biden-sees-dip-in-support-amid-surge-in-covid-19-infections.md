@@ -380,15 +380,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Biden's view of job comes into focus after Afghan collapse"
-    excerpt: "But authority over America's longest war finally fell into Biden's hands this year and he insisted that the U.S. withdraw from Afghanistan, settling on an Aug. 31 deadline. And despite the rapid collapse of the Afghan government,"
-    publishedDateTime: 2021-08-22T07:09:00Z
-    webUrl: "https://columbiabasinherald.com/news/2021/aug/22/bidens-view-of-job-comes-into-focus-after-2/"
-    type: article
-    provider:
-      name: Columbia Basin Herald
-      domain: columbiabasinherald.com
-    quality: 35
   - title: "COLUMN: Joe Biden does his best Jimmy Carter impersonation"
     excerpt: "Barely seven months into Joe Biden’s tenure as president and it’s already clear that his administration’s potential to create havoc is unparalleled in recent memory. The debacle in Afghanistan serves"
     publishedDateTime: 2021-08-22T06:30:00Z
@@ -406,6 +397,15 @@ related:
     provider:
       name: TigerDroppings.com
       domain: tigerdroppings.com
+    quality: 35
+  - title: "U.S. House Democrats Face Test of Unity on Biden Spending Plans"
+    excerpt: "Democrats face a test of unity in the U.S. House of Representatives on Monday as they begin work on two ambitious spending plans that would devote trillions of dollars to transportation infrastructure and social programs."
+    publishedDateTime: 2021-08-23T11:04:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-08-23/us-house-democrats-face-test-of-unity-on-biden-spending-plans"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 35
 
 secured: "DhJHmhGbAeeqdkzOWU+kK2dD0ssk39qeexUt0/wKvWs2j0qSJH5TTeTXgNb7HbyOPd+UQS7YPpVice6BmLxHKFxPNIi4oYBZ/q3hLuiffZTXoeG39zwwP54109JHKkJmYG0mOeWEE4+ViWrg1tSl7eFQ8E1rd+mng7AwhCEsMxfwOJn4oP7uDFY3AUkz+9FNMuXfc+z2xro/bn62mwo1XjLk5qcPe/OK3+pEn5d1YQRp4zs1WkO2NjNk8jj4+mq/AANN2NQOcB0lVRzQvWBit5U1baIehSZZp1szpOwIOtyEUmaz+sj8NzXCPnmMcOfwZD+sHxC8jwRBXJoIaZDK0dTN3FAZEP/3IAu3ZD7TMSOG6Qj2f5feYV6N3ckYwVU/VnyEMRNyiyODvgAhXTl1qo79aqefCjoykGX0JYx+7iy2e15ltu4ExlUqpeEUZtPSJKD8GiteuvqMEcnq1qPwq32Bt/zsKfalLXYo3jbI9gC/wxROlaEuLWtI+CH1bbS5VzIXqv6ftiPM5c3ieOYCQg==;Nq05q+RAhQaVoDpP3pZL2A=="

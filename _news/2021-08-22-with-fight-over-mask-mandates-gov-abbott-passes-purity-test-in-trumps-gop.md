@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Even-as-COVID-re
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Even-as-COVID-resurges-there-is-no-room-for-Gov-16401385.php"
 type: article
 quality: 122
-heat: 242
+heat: 282
 published: true
 
 provider:
@@ -69,6 +69,33 @@ related:
       name: The Bellingham Herald
       domain: bellinghamherald.com
     quality: 70
+  - title: "Trump-fueled election ‘audit’ sparks Senate GOP turmoil"
+    excerpt: "The top Republican in the Pennsylvania Senate says he’s putting a different senator in charge of an “election integrity” undertaking and removing a senator who had aimed to carry out an Arizona-style “forensic investigation” of Pennsylvania’s 2020 presidential election."
+    publishedDateTime: 2021-08-23T11:03:00Z
+    webUrl: "https://www.macon.com/news/politics-government/national-politics/article253632053.html"
+    ampWebUrl: "https://amp.macon.com/news/politics-government/national-politics/article253632053.html"
+    cdnAmpWebUrl: "https://amp-macon-com.cdn.ampproject.org/c/s/amp.macon.com/news/politics-government/national-politics/article253632053.html"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: macon.com
+    quality: 70
+  - title: "GOP Senate candidates take page from Trump playbook as they fight for populist title"
+    excerpt: "Republicans in Ohio's Senate race are running on the message that propelled former President Donald Trump to office."
+    publishedDateTime: 2021-08-23T10:26:00Z
+    webUrl: "https://www.cincinnati.com/story/news/2021/08/22/ohio-senate-race-gop-candidates-fight-over-populist-lane/5499348001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/5499348001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5499348001"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 68
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/02/PCIN/912b9d7f-9050-4679-88f8-1b0a031b1914-070121JDVance_4.jpg?auto=webp&crop=3594,2022,x0,y184&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Joe Biden takes aim at states blocking mask mandates, setting Gov. Greg Abbott up for showdown with"
     excerpt: "Texas Gov. Greg Abbott may soon be fighting a war on two fronts — with local officials and the federal government — to stave off mandatory COVID-19 prevention efforts after the Biden administration announced Wednesday it was going after states like Texas that try to ban universal masking at schools."
     publishedDateTime: 2021-08-19T02:36:00Z

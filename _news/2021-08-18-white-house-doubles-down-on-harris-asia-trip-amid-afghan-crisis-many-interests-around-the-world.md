@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/white-house-harris-asia-trip-amid-a
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-harris-asia-trip-amid-afghan-crisis-interests-around-world.amp"
 type: article
 quality: 171
-heat: 191
+heat: 211
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "VP Kamala Harris laughs when asked about tragedy in Afghanistan"
+    excerpt: "Vice President Kamala Harris is under fire after footage shows her laughing when asked about the deadly chaos in Afghanistan."
+    publishedDateTime: 2021-08-23T12:46:00Z
+    webUrl: "https://nypost.com/2021/08/23/kamala-harris-laughs-when-asked-about-tragedy-in-afghanistan/"
+    ampWebUrl: "https://nypost.com/2021/08/23/kamala-harris-laughs-when-asked-about-tragedy-in-afghanistan/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/23/kamala-harris-laughs-when-asked-about-tragedy-in-afghanistan/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/kamala-harris-57.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "LA Times: Kamala Harris ‘owns’ Afghanistan policy after touting her role in withdrawal decision"
     excerpt: "Vice President Kamala Harris \"owns\" the execution of America's withdrawal from Afghanistan following her touting the role she played in President Joe Biden's decision, The Los Angeles Times reported Wednesday."
     publishedDateTime: 2021-08-19T20:23:00Z

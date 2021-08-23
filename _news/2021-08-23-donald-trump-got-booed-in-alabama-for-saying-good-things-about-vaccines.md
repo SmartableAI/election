@@ -84,6 +84,20 @@ related:
         width: 1024
         height: 670
         isCached: true
+  - title: "Robin Vos meets with Trump, vows to keep ex-president 'updated' on election investigation"
+    excerpt: "Assembly Speaker Robin Vos, the Racine County Republican who ordered the investigation into Wisconsin's 2020 election said he is going to be keeping the former president — who has not"
+    publishedDateTime: 2021-08-23T10:30:00Z
+    webUrl: "https://madison.com/news/local/govt-and-politics/robin-vos-meets-with-trump-vows-to-keep-ex-president-updated-on-election-investigation/article_55a5e748-aa3e-5c85-bbe6-e59bebcbed21.html"
+    type: article
+    provider:
+      name: Madison.com
+      domain: madison.com
+    quality: 61
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/5/5a/55a5e748-aa3e-5c85-bbe6-e59bebcbed21/61228f9939e4f.preview.jpg?crop=1904%2C1071%2C0%2C8&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Emmy Predictions: Directing for a Variety Series – John Oliver’s Take on Donald Trump and the Election Lead the Pack"
     excerpt: "Following history, buzz, news, reviews and sources, the Emmy predictions are updated regularly with the current year's list of contenders in all categories. Variety's Awards Circuit Prediction schedule consists of four phases,"
     publishedDateTime: 2021-08-19T22:16:00Z

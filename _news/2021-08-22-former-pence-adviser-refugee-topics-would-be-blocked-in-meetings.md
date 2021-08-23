@@ -2,24 +2,28 @@
 category: news
 title: "Former Pence adviser: Refugee topics would be blocked in meetings"
 excerpt: "Olivia Troye, a former adviser to Vice President Mike Pence, speaks to CNN for the first time since her viral Twitter thread in which she says that some senior members"
-publishedDateTime: 2021-08-21T19:21:00Z
-originalUrl: "https://www.pottsmerc.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_d43e7004-1abf-5297-a3b6-44abb700ce3f.html"
-webUrl: "https://www.pottsmerc.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_d43e7004-1abf-5297-a3b6-44abb700ce3f.html"
-ampWebUrl: "https://www.pottsmerc.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_d43e7004-1abf-5297-a3b6-44abb700ce3f.amp.html"
-cdnAmpWebUrl: "https://www-pottsmerc-com.cdn.ampproject.org/c/s/www.pottsmerc.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_d43e7004-1abf-5297-a3b6-44abb700ce3f.amp.html"
+publishedDateTime: 2021-08-21T18:21:00Z
+originalUrl: "https://www.bellevueheraldleader.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_b5dd4baf-e71d-5a45-9dcb-566083345dde.html"
+webUrl: "https://www.bellevueheraldleader.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_b5dd4baf-e71d-5a45-9dcb-566083345dde.html"
 type: article
 quality: 55
 heat: 55
 published: false
 
 provider:
-  name: The Mercury
-  domain: pottsmerc.com
+  name: Bellevue Herald Leader
+  domain: bellevueheraldleader.com
 
 topics:
   - Election
   - Mike Pence
 
-secured: "WtyYmXPhSulAaByUHwDVzdy12JhPSngmHCcAJqjpHMZA2e4K90rI/68PLxKrfk8jpRbZHrLXwpiRLIWrSO4snp41bqGsDm/3LxfUGssXKXqckpH4ak5glOd029eTpsrZsBYLlZwJam/ef0I9vZ4zw9h0kxsrkURbW957OHJ/1qJ/VDsDlqcgGC6K0Vvc5FlENT2hZvnewurut9lTJcQMuVi168W93nVfogTZuiojQIBHDhb92IxYKQMh/6Rkd7vfUorY1tH4DjH+vNQugHMu1Rh4ro4nSgcmleoF7icuOVySA6WpmtdlhCkJqOFQ5I1D8lpMy0UzfVN8WYaQhE9FjhWN6OQG6O/8bcu7tg5+4Lj2oUXJ8t5UPLIS34pTn/T2EvdFGfSTv5jYJqehcl6eL1o4DTFfKLmpc9HAVOapivq7L8vgpUzyu15Y+aZgcQGbMoY34YInKnDLwOAumcwBbNDOkn+Le6RGXLSLAiwjRCuo2QiJt2OeOupj6jbyXUk1ZxsiO+Y2OJUkhBpdZMII8g==;iGxC9vzN++VhYi9kfMG5Hw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/bellevueheraldleader.com/content/tncms/assets/v3/editorial/b/5d/b5dd4baf-e71d-5a45-9dcb-566083345dde/612158a3be971.image.jpg?resize=576%2C324"
+    width: 576
+    height: 324
+    isCached: true
+
+secured: "ockOL7GOkzK/L1uhzenVyTBIrnizRp4avL/6qV+CMsrQSVuV/DZpqt2tNQ6aE86vU2GvXINCvlnr7UD5TIsiW6f6QNdI2pWpXlNz2vXonPMnk9DY0mf7capMEp9NkX/X7x4rxW3rpOeOMxeUmiWh3q+X6DTNUfo7Gwm4nzWTgs/lR/Qg9qo6KIjem4zo+03X+KcAGOmUFoEE8NtBHZVI1ecBW78Man24L6OLWZ6h2898ucyEG9Ak1S8DnpbU6D4oCjZBIGYbzvvntlIBP2MbMQ6cSDU6JJT0t8Y2BCX6GZPeY8xUGqWa5l+A9ktuBmO4FEK2IFUjdT5kXcvutRYZaAifSXkqhUnMaFgTAkXzX9k=;IWqafggs8M9T61vvYdBiOA=="
 ---
 
