@@ -152,6 +152,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "The Latest: Biden warns of IS threat to Kabul evacuation"
+    excerpt: "WASHINGTON — President Joe Biden is raising concerns that the Islamic State poses a threat as American troops seek to evacuate thousands of U.S. citizens and Afghan allies from Afghanistan. Biden in remarks at the White House on Sunday noted that the terror group is a “sworn enemy of the Taliban” and said that the longer U."
+    publishedDateTime: 2021-08-23T03:27:00Z
+    webUrl: "https://www.seattlepi.com/news/article/The-Latest-India-evacuates-168-people-on-flight-16403441.php"
+    ampWebUrl: "https://www.seattlepi.com/news/amp/The-Latest-India-evacuates-168-people-on-flight-16403441.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/The-Latest-India-evacuates-168-people-on-flight-16403441.php"
+    type: article
+    provider:
+      name: seattlepi.com
+      domain: seattlepi.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "The Latest: Biden briefed on the Kabul situation, IS threat"
     excerpt: "A military aircraft carrying 15 Romanian citizens and four Bulgarians who were initially evacuated from Kabul to Islamabad has landed safely in Romania."
     publishedDateTime: 2021-08-21T23:37:00Z
@@ -163,20 +179,17 @@ related:
       name: Kansas City Star
       domain: kansascity.com
     quality: 55
-  - title: "The Latest: Biden warns of IS threat to Kabul evacuation"
-    excerpt: "President Joe Biden is raising concerns that the Islamic State poses a threat as American troops seek to evacuate thousands of U.S. citizens and Afghan allies from Afghanistan. Biden in remarks at the White House on Sunday noted that the terror group is a “sworn enemy of the Taliban” and said that the"
-    publishedDateTime: 2021-08-22T21:53:00Z
-    webUrl: "https://chinapost.nownews.com/20210823-2727921"
+  - title: "The Latest: Biden says 11,000 flown from Kabul over weekend"
+    excerpt: "President Joe Biden says 11,000 individuals were evacuated from Kabul over the weekend and he remains committed to assisting all Americans who want to leave Afghanistan get out."
+    publishedDateTime: 2021-08-23T03:46:00Z
+    webUrl: "https://www.kansascity.com/news/article253667148.html"
+    ampWebUrl: "https://amp.kansascity.com/news/article253667148.html"
+    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/article253667148.html"
     type: article
     provider:
-      name: NOWnews
-      domain: nownews.com
+      name: Kansas City Star
+      domain: kansascity.com
     quality: 55
-    images:
-      - url: "https://chinapost-media.nownews.com/2021/08/d4b9569e-preview.jpg"
-        width: 800
-        height: 532
-        isCached: true
 
 secured: "KckgS0HUz3si+zztoWMq5bTwveZGsKWarGMVDdDLF14c0VFCUwQ5T2qVHIojcxJ8NKZAdVc0PJT6zvKFgfLxKxuzXseOUwPc9We8nDrZbr4x2ugfg1X5g2TmtllQ7n8rfzRf59j2z+SmCCv6+GP0G1i3XWd+Obh+HdlZY652ijV3+3llRNVI4pqY+vKUDTnL6mR33NBd3I9K7INa9Sne5dbwyvMqoSZcKq1oql5X5WuuDRKdwpPRnOA+WjaaT67QfbKlsikIYm4aW3ljdN6LKy+UCnPYoea/zaZr5y0L4OdqIWzaFSvuUTwtKOuGPkCgIK3Kzk4b4UY82zN/XgdzOB19qjXQYkEDg9r2JyuE6h9uFivpegQ0OdNvnWLJQxR4LXAhp1dsh9xKPnqcUE6Gga31nHXSR3y5PDrytUlM6/NapodbweDsE4YA89JFqhMr85lZalrtkB0lpnuklgwVl5vHKr/ltgo4+2Rdtd2cThupBYrjAx8b/dQAeurMt7CSy1IkCqRue7TOvMdoKZzIlQ==;cSJubeWoD3MIIPG9QTjMKQ=="
 ---

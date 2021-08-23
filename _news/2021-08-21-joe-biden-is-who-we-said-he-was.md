@@ -76,9 +76,9 @@ related:
         height: 415
         isCached: true
   - title: "Joe Biden Said He Is Committed To Helping Evacuate Afghan Allies Who Have Worked With The US Government"
-    excerpt: "In a speech at the White House, Biden again stood by his decision to withdraw US forces from the country. President Joe Biden once again stood by his decision to withdraw US forces from Afghanistan in a speech Friday and said he is committed to helping Afghans who have worked with the US government evacuate the country."
+    excerpt: "In a speech at the White House, Biden again stood by his decision to withdraw US forces from the country. By Clarissa-Jan Lim Posted on August 20, 2021, at 3:05 p.m. ET President Joe Biden delivers remarks on the ongoing evacuation efforts in Afghanistan,"
     publishedDateTime: 2021-08-20T19:51:00Z
-    webUrl: "https://www.buzzfeednews.com/article/clarissajanlim/biden-afghanistan-evacuations"
+    webUrl: "https://www.buzzfeednews.com/article/clarissajanlim/biden-afghanistan-evacuations?origin=web-hf"
     ampWebUrl: "https://www.buzzfeednews.com/amphtml/clarissajanlim/biden-afghanistan-evacuations"
     cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/clarissajanlim/biden-afghanistan-evacuations"
     type: article
@@ -152,6 +152,22 @@ related:
       - url: "https://www.troyrecord.com/wp-content/uploads/2021/08/2c2884717385c1ebd57341b99a9509fb-1.jpg?w=1024&#038;h=1545"
         width: 1024
         height: 1545
+        isCached: true
+  - title: "Biden Says US-Led Evacuation from Kabul is Accelerating"
+    excerpt: "President Joe Biden said Sunday the U.S.-led evacuation of Americans, at-risk Afghans and others from the Kabul airport picked up speed this weekend, although it remains vulnerable to threats posed by the Islamic State extremist group."
+    publishedDateTime: 2021-08-23T05:57:00Z
+    webUrl: "https://www.nbcphiladelphia.com/news/national-international/biden-says-us-led-evacuation-from-kabul-is-accelerating/2934776/"
+    ampWebUrl: "https://www.nbcphiladelphia.com/news/national-international/biden-says-us-led-evacuation-from-kabul-is-accelerating/2934776/?amp"
+    cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/national-international/biden-says-us-led-evacuation-from-kabul-is-accelerating/2934776/?amp"
+    type: article
+    provider:
+      name: NBC 10 Philadelphia
+      domain: nbcphiladelphia.com
+    quality: 75
+    images:
+      - url: "https://media.nbcphiladelphia.com/2021/08/AP21234751863371.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
   - title: "President Joe Biden says US-led evacuation from Kabul is accelerating"
     excerpt: "President Joe Biden said Sunday the U.S.-led evacuation of Americans, at-risk Afghans and others from the Kabul airport accelerated this weekend, although it remains vulnerable to threats posed by the Islamic State extremist group."
@@ -322,17 +338,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden says US-led evacuation from Kabul is accelerating"
-    excerpt: "President Joe Biden says the U.S.-led evacuation of Americans, at-risk Afghans and others from the Kabul airport has picked up speed this weekend."
-    publishedDateTime: 2021-08-22T21:56:00Z
-    webUrl: "https://www.sunherald.com/news/politics-government/national-politics/article253669753.html"
-    ampWebUrl: "https://amp.sunherald.com/news/politics-government/national-politics/article253669753.html"
-    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/politics-government/national-politics/article253669753.html"
-    type: article
-    provider:
-      name: Biloxi Sun Herald
-      domain: sunherald.com
-    quality: 55
   - title: "Kabul Evacuation Numbers to Fluctuate, Biden Says"
     excerpt: "The number of people evacuated from Kabul will change from day to day, President Joe Biden said in a televised address Sunday, depending on specific conditions and safety of the day. Earlier Sunday, the White House said the U."
     publishedDateTime: 2021-08-22T21:34:00Z

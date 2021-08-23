@@ -1,24 +1,30 @@
 ---
 category: news
-title: "Biden says US-led evacuation from Kabul is accelerating"
-excerpt: "President Joe Biden says the U.S.-led evacuation of Americans, at-risk Afghans and others from the Kabul airport has picked up speed this weekend."
-publishedDateTime: 2021-08-22T21:56:00Z
-originalUrl: "https://www.sunherald.com/news/politics-government/national-politics/article253669753.html"
-webUrl: "https://www.sunherald.com/news/politics-government/national-politics/article253669753.html"
-ampWebUrl: "https://amp.sunherald.com/news/politics-government/national-politics/article253669753.html"
-cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/politics-government/national-politics/article253669753.html"
+title: "Biden Says US-Led Evacuation from Kabul is Accelerating"
+excerpt: "President Joe Biden said Sunday the U.S.-led evacuation of Americans, at-risk Afghans and others from the Kabul airport picked up speed this weekend, although it remains vulnerable to threats posed by the Islamic State extremist group."
+publishedDateTime: 2021-08-23T05:57:00Z
+originalUrl: "https://www.nbcphiladelphia.com/news/national-international/biden-says-us-led-evacuation-from-kabul-is-accelerating/2934776/"
+webUrl: "https://www.nbcphiladelphia.com/news/national-international/biden-says-us-led-evacuation-from-kabul-is-accelerating/2934776/"
+ampWebUrl: "https://www.nbcphiladelphia.com/news/national-international/biden-says-us-led-evacuation-from-kabul-is-accelerating/2934776/?amp"
+cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/national-international/biden-says-us-led-evacuation-from-kabul-is-accelerating/2934776/?amp"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Biloxi Sun Herald
-  domain: sunherald.com
+  name: NBC 10 Philadelphia
+  domain: nbcphiladelphia.com
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://media.nbcphiladelphia.com/2021/08/AP21234751863371.jpg?quality=85&strip=all&resize=1200%2C675"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Joe Biden says he and first lady plan on getting Covid booster shot"
@@ -70,9 +76,9 @@ related:
         height: 415
         isCached: true
   - title: "Joe Biden Said He Is Committed To Helping Evacuate Afghan Allies Who Have Worked With The US Government"
-    excerpt: "In a speech at the White House, Biden again stood by his decision to withdraw US forces from the country. President Joe Biden once again stood by his decision to withdraw US forces from Afghanistan in a speech Friday and said he is committed to helping Afghans who have worked with the US government evacuate the country."
+    excerpt: "In a speech at the White House, Biden again stood by his decision to withdraw US forces from the country. By Clarissa-Jan Lim Posted on August 20, 2021, at 3:05 p.m. ET President Joe Biden delivers remarks on the ongoing evacuation efforts in Afghanistan,"
     publishedDateTime: 2021-08-20T19:51:00Z
-    webUrl: "https://www.buzzfeednews.com/article/clarissajanlim/biden-afghanistan-evacuations"
+    webUrl: "https://www.buzzfeednews.com/article/clarissajanlim/biden-afghanistan-evacuations?origin=web-hf"
     ampWebUrl: "https://www.buzzfeednews.com/amphtml/clarissajanlim/biden-afghanistan-evacuations"
     cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/clarissajanlim/biden-afghanistan-evacuations"
     type: article
@@ -402,6 +408,6 @@ related:
       domain: tigerdroppings.com
     quality: 35
 
-secured: "/+HeVtpiQCFxXhg/oXXd6wVGQru4g6+YRc30ht3BEX3UKpWjkhSyB1+vr+j5P2UXv5czjTTu3J4rHaAPG9Ila6vOn7xYp0YZCSsENTVtA5mv9sMCzHQh9p2DRa30bCdtr4F6mpbxLDcV7wmt4eVqu7/U+uMHFeAbOdg8NDYHb8/hIt3hUNSydfluhTSGtgKIXedB2V/QXXUN+tmbAlzgvCL+/nOr/lbBiobI1lD1no4DTyKNElU8icgk1Bda8gtX54pWBXQz4dQhxlurdFLOCo7htqt42Y/7vQ90hdJXEqBVuGnyeXZGM817L7gkYhMwEAlUrf2A/hz/tM38AynTy0JCL9JfmgXnRXG02LFr9Rh8gRbElh4tqyovLVJkbea1KRbT7DyTzihGKVN6CdZBuj4MkXa7gTrDHREZvA+hmPYNEC4DpNdRujxv7+a2ALCZcCpuXJZiZqRcX/hvkznkk6NbElBYNwASy/t7s3kH8hyxY4OMLG437zALMZw8qbq5f/DDG+a+Vo0JtJ0NM4ZJGg==;NA4snGpLWYX8glrK1KbL9Q=="
+secured: "J8vno8JENV7zi9PfFATryLYegBRzOyv/SZC7Drg8je8GNKx5v7V/rVT+0//+8J8KNxwsv+ksS40zyoa+ko5M8aoFwJzuAOBB+rQM/yHuI3WACS+z5jppBHJc1M2Z1aGsvv4+kwZrBnefMn1TEyR08iWX0WKZGM7LUkCZqhIhYqG6qOqLyILLZS+mGS60GSZfEIsWE1f5O+lGbXgNOyp2+l3Ft4F2Wi1PPTmkN3XwP2Oc16IQI0sgrz+MmzNhja7MbYiabc4T7INvzFTk64i4F87Z8GNwPCaAtbqRF4p5wCwdiiFa4VGWMSPxip0HCZtY5chnPMFfe2F8OdSA01q6WK4K4w3ClkKKJWGYAFLTvVI=;sm+VydUxW/pABDG6zJebgg=="
 ---
 

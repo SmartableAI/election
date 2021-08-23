@@ -2,58 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-08-23-harris-to-meet-with-singapore-officials-to-begin-asia-visit.md",
-      "title": "Harris to meet with Singapore officials to begin Asia visit",
-      "excerpt": "Vice President Kamala Harris will meet with Singapore’s president and prime minister as she kicks off a visit to Southeast Asia focused on strengthening ties with key allies in the region, a task complicated by the chaotic U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/news/article/Harris-to-meet-with-Singapore-officials-to-begin-16404362.php",
-      "originalUrl": "https://www.houstonchronicle.com/news/article/Harris-to-meet-with-Singapore-officials-to-begin-16404362.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 405,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/21/44/06/21381516/3/400x0.jpg",
-          "width": 400,
-          "height": 266,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.houstonchronicle.com/news/amp/Harris-to-meet-with-Singapore-officials-to-begin-16404362.php",
-      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Harris-to-meet-with-Singapore-officials-to-begin-16404362.php",
-      "publishedDateTime": "2021-08-22T16:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-08-21-harris-to-campaign-for-gov-gavin-newsom-in-california-after-vietnam-singapore-trip.md",
       "title": "Harris to campaign for Gov. Gavin Newsom in California after Vietnam, Singapore trip",
       "excerpt": "Vice President Kamala Harris will be making a campaign pit-stop in California next week to support Gov. Gavin Newsom in his race to overcome the recall election.",
@@ -107,6 +55,101 @@
       "topics": [
         "Election",
         "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-08-20-kamala-harris-heads-to-vietnam-while-afghanistan-images-rekindle-the-past.md",
+      "title": "Kamala Harris heads to Vietnam while Afghanistan images rekindle the past",
+      "excerpt": "White House officials did not anticipate the comparisons with Afghanistan when they charted Vice President Kamala Harris' trip to Vietnam.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/politics/story/2021-08-20/kamala-harris-heading-to-vietnam-while-afghanistan-images-rekindle-the-past",
+      "originalUrl": "https://www.latimes.com/politics/story/2021-08-20/kamala-harris-heading-to-vietnam-while-afghanistan-images-rekindle-the-past",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 504,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/d9b7fa2/2147483647/strip/true/crop/4920x3290+138+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7e%2F38%2F635d86aa2db3dd896c89aaebc540%2F985f1f775bb340a6bdbd3191945db757",
+          "width": 320,
+          "height": 214,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/politics/story/2021-08-20/kamala-harris-heading-to-vietnam-while-afghanistan-images-rekindle-the-past?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-08-20/kamala-harris-heading-to-vietnam-while-afghanistan-images-rekindle-the-past?_amp=true",
+      "publishedDateTime": "2021-08-20T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-08-20-vp-kamala-harris-to-return-to-california-to-campaign-for-newsom-next-week.md",
+      "title": "VP Kamala Harris to return to California to campaign for Newsom next week",
+      "excerpt": "WASHINGTON — Vice President Kamala Harris will campaign for Gov. Gavin Newsom next week as the Democratic Party rallies around the California governor in his recall battle. The vice president and former California senator will visit her home state next ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sfchronicle.com/politics/article/VP-Kamala-Harris-to-return-to-California-to-16400277.php",
+      "originalUrl": "https://www.sfchronicle.com/politics/article/VP-Kamala-Harris-to-return-to-California-to-16400277.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/21/42/32/21374623/3/400x0.jpg",
+          "width": 400,
+          "height": 266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sfchronicle.com/politics/amp/VP-Kamala-Harris-to-return-to-California-to-16400277.php",
+      "cdnAmpWebUrl": "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/VP-Kamala-Harris-to-return-to-California-to-16400277.php",
+      "publishedDateTime": "2021-08-20T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "San Francisco Chronicle",
+        "domain": "sfchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Kamala Harris"
       ]
     },
@@ -1549,58 +1592,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-essential-politics-misunderstood-set-up-to-stumble-or-neither-making-sense-of-kamala-harris-standing.md",
-      "title": "Essential Politics: Misunderstood, set up to stumble — or neither? Making sense of Kamala Harris’ standing",
-      "excerpt": "As Harris enters a turbulent period early in her tenure as vice president, thoughtful and provocative analyses look at her challenges and standing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/politics/newsletter/2021-07-07/harris-challenges-turbulence-essential-politics",
-      "originalUrl": "https://www.latimes.com/politics/newsletter/2021-07-07/harris-challenges-turbulence-essential-politics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/7d32c4b/2147483647/strip/true/crop/4821x3214+0+0/resize/840x560!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F56%2F19%2F5fc640b747c9b14722cf6c2aa5d7%2Fharris-35073.jpg",
-          "width": 840,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-07T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

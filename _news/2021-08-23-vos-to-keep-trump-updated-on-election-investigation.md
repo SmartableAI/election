@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/news/amp/Vos-to-keep-Trump-updated-
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Vos-to-keep-Trump-updated-on-election-16404028.php"
 type: article
 quality: 120
-heat: 220
+heat: 240
 published: true
 
 provider:
@@ -57,6 +57,22 @@ related:
         width: 1024
         height: 679
         isCached: true
+  - title: "Trump To Be Reinstated As President Before 2022, Lindell Predicts"
+    excerpt: "Former President Donald Trump may be reinstated to the presidential seat before 2022, a close ally has predicted. During Trump’s rally in Cullman, Alabama, on Saturday, MyPillow CEO Mike Lindell predicted that Trump would be reinstated before the end of the year."
+    publishedDateTime: 2021-08-23T02:23:00Z
+    webUrl: "https://www.ibtimes.com/trump-be-reinstated-president-2022-lindell-predicts-3278800"
+    ampWebUrl: "https://www.ibtimes.com/trump-be-reinstated-president-2022-lindell-predicts-3278800?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-be-reinstated-president-2022-lindell-predicts-3278800?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/29/mike-lindell.jpg"
+        width: 1024
+        height: 670
+        isCached: true
   - title: "Donald Trump Got Booed In Alabama For Saying Good Things About Vaccines"
     excerpt: "Trump told the crowd he was vaccinated and encouraged them to do the same, drawing boos at his own rally as a result."
     publishedDateTime: 2021-08-22T17:37:00Z
@@ -95,6 +111,6 @@ related:
       domain: chron.com
     quality: 31
 
-secured: "m8xBOJM9G6+okJKhY7PpYMdAbpva9H8le4T/Nq+O1H0S49W5hcRzA9FumW+oIiE0mkJ1XHPC0TkB3f551a4Vii3OH9URmHC1EpMytTmeUy8f4+VKA+1uUb6HgC7fkoD2nmuYRd/0mZqDtvyKTFdjk3M85NVuO3/tzwfixg8R/w+vXHw3FxrZBqlocpftE227Az+/Ay3JqME8H2HW9pa/RupFPXQM0BvUS2+EswpLvPcOhcYeTPGG8eIMIv2JdnoFe4XrNtytNqxwsMLOCAlnJotg37Iq5HBdymlH5eimKj+oRhQTK2zrJlXFGSnF2R+yP1jUYlKUQH51zCMGcHRZVwbTxXqK9edX765JnJp7tcU=;hsvW/L3HbNFzTYmyjiFrUQ=="
+secured: "46wxsk+vADUq8e2fmG1lorS2mkcCkwmmtcKlhoLyIYBrWxf5Pez3lctbxQcUkBDqTyWxAeE4MIdTxV8KljLaELfQdTTHIIrl1KuYMEYXLC4YW7uBtsiLHkM6u6prUz2S7KmWLckxqsmvBfomkkFE4uXg7bJEA5elLTEapfg4Y6Zytp4fmbbdHspwXTO3sQH4dWY+wCnGyUGrnYkHalwgOWOsIPMS589khZzWlKyr+OgrBVeK1qI5dpherSqVgKy3bW3oegCdbRqZrpb1PuZmGBd5eKn1PRaWvtGlcgE0wU4jhi5o6jSo0iFjdV9TScmPJhicun6n5olffsUHadRjP5cZTcb71aGqWgysiTIpfVw=;RMZ6fsvqM6p7H6MEEcdG5A=="
 ---
 

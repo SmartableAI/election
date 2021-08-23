@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-07-05-mike-lindell-promises-cyber-symposium-on-election-fraud-will-change-history-reinstate-trump.md",
+      "title": "Mike Lindell Promises 'Cyber Symposium' on Election Fraud Will 'Change History,' Reinstate Trump",
+      "excerpt": "\"These three days in August are gonna change history…you can't change these packet captures, they're forever captured in time.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mike-lindell-promises-cyber-symposium-election-fraud-will-change-history-reinstate-trump-1606755",
+      "originalUrl": "https://www.newsweek.com/mike-lindell-promises-cyber-symposium-election-fraud-will-change-history-reinstate-trump-1606755",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1837447/mike-lindell.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mike-lindell-promises-cyber-symposium-election-fraud-will-change-history-reinstate-trump-1606755?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-lindell-promises-cyber-symposium-election-fraud-will-change-history-reinstate-trump-1606755?amp=1",
+      "publishedDateTime": "2021-07-04T12:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-05-pro-trump-social-media-app-hacked-on-launch-day-as-half-million-sign-up.md",
       "title": "Pro-Trump social media app hacked on launch day as half million sign up",
       "excerpt": "A social media site launched on Sunday by Jason Miller, a senior adviser to former U.S. President Donald Trump, was briefly hacked, and more than 500,000 people have registered to use the site, Miller said.",
@@ -1492,58 +1544,6 @@
       "ampWebUrl": "https://thehill.com/homenews/campaign/560788-trump-says-herschel-walker-will-enter-georgia-senate-race?amp",
       "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/560788-trump-says-herschel-walker-will-enter-georgia-senate-race?amp",
       "publishedDateTime": "2021-06-29T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-trump-calls-barr-a-swamp-creature-over-criticism-of-election-claims.md",
-      "title": "Trump calls Barr a 'swamp creature' over criticism of election claims",
-      "excerpt": "Former President Trump fired back at William Barr on Tuesday, calling him a \"swamp creature\" over the former attorney general's criticism of Trump's false claims about las",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/560749-trump-calls-barr-a-swamp-creature-over-criticism-of-election-claims",
-      "originalUrl": "https://thehill.com/homenews/administration/560749-trump-calls-barr-a-swamp-creature-over-criticism-of-election-claims",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 260,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_103120getty_retreat.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/560749-trump-calls-barr-a-swamp-creature-over-criticism-of-election-claims?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560749-trump-calls-barr-a-swamp-creature-over-criticism-of-election-claims?amp",
-      "publishedDateTime": "2021-06-29T11:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Hill",

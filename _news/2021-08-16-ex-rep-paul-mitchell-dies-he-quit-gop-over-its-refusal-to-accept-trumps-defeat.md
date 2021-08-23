@@ -97,6 +97,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Congressman who left GOP over Trump gives final message before death from cancer"
+    excerpt: "Before his death, former Rep. Paul Mitchell talked with CNN's Jake Tapper about his life and his parting message to the country."
+    publishedDateTime: 2021-08-23T02:03:00Z
+    webUrl: "https://www.kdrv.com/content/news/575151722.html"
+    type: article
+    provider:
+      name: KDRV
+      domain: kdrv.com
+    quality: 50
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210822145959-paul-mitchell-tapper-vpx-live-video.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "Wo6mieWrFXtmmXa8QIFJY8AkYbES5dYPoirMxn358RLPjWAoU+jii5n5Nc61Kv6UVHJxvESlDHrssbYsEm+jePq2WLabEiyq5S0I2oEy13j+gKLS3sJMxhi57hIoBLKRGx5pLsTGh26YjDfzrq78OHjp36jzo3m+WBHkafXpP8SNgncDsSelua4gLh5jchfGx8yyjnOgDwNl4/V9OX9MhZlCVzR6ROeBGyb1XYyrwB8tzy2cJm2L8OZeygJARVXbO/HYs9nEh/dRc+h17gGFWwFgvrqaF4FZeMW9xc3m/nNg9/JXoLVWUOWThf11FgFT8odmm2xvXMZyuk3hIHllL/txfLza0VetTUSSTqoW/Hk=;kzJ2zaFmU6/tFLxdf3n7JQ=="
 ---

@@ -54,6 +54,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump To Be Reinstated As President Before 2022, Lindell Predicts"
+    excerpt: "Former President Donald Trump may be reinstated to the presidential seat before 2022, a close ally has predicted. During Trump’s rally in Cullman, Alabama, on Saturday, MyPillow CEO Mike Lindell predicted that Trump would be reinstated before the end of the year."
+    publishedDateTime: 2021-08-23T02:23:00Z
+    webUrl: "https://www.ibtimes.com/trump-be-reinstated-president-2022-lindell-predicts-3278800"
+    ampWebUrl: "https://www.ibtimes.com/trump-be-reinstated-president-2022-lindell-predicts-3278800?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-be-reinstated-president-2022-lindell-predicts-3278800?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/29/mike-lindell.jpg"
+        width: 1024
+        height: 670
+        isCached: true
   - title: "Donald Trump Got Booed In Alabama For Saying Good Things About Vaccines"
     excerpt: "Trump told the crowd he was vaccinated and encouraged them to do the same, drawing boos at his own rally as a result."
     publishedDateTime: 2021-08-22T17:37:00Z
@@ -92,6 +108,6 @@ related:
       domain: chron.com
     quality: 31
 
-secured: "sjVZzfsmn2Iz32zl9PLHMkyN9tgfuDJCS9zlxZTYqRcnHrveZvisk3KPE6AZ72pP6OMYBdkRENHY70ss2fbyU3HilQ8ozQtxFF2yYwP+AdoAadVFKpNZIfEpisEUZoDT3ZLdajJKXEy1ga3RxVl7jCvIoZAjkaBkzYxP3kbWpL99WJEOCNIYw/xdD440PFmLcwXhwKaJZTjNMGpX6M0icp9yVkoWH5ZfompL12tYf7QwYFkfHMKWC5Pmc3KoqJjFyeQfkXskZ4tm/6MdTQ5dhzBDAElOTcQJBYMq0nsIAiS/E9wk70uf1LmuWV4FN9JDO3SWPskzAbsfYxUyIKbW+ap+wSqiUD35fwK/viToMok=;WATrT8NjbPhzPJ32BuaZFA=="
+secured: "N0iXsSSVr7tSkDy+GfbJLU9aX2bT8YAVqMqrVQEzRuaUXyopivZdp0lV3bQHM2kgGK0PyH4ZVlB2geY4P00fZELa3MfXjD9CXrrFwkUVmJwDfh2N2kJBeeuEUNvn3fjzc2noaqTRF9GMl4ZHsvJzsesd6zr3LHGOdHkSNtPjafXscgSTFnYqSh04XhvDE1QvbjWsPM0VTax5QME3quBdxZK2A4Sk37ZqLyJEYtO86BIwVbDSKVMpdyJGZY3yScU78Qc56bqntLQqJ0tc7NE1rSk0i+UYlQOF8idf9Ub70TWJUwE0llbMyHgCU8qDZOdRwasqgkIclIfwB0WHSRn4fIePWu3eWRqO6GkXSiKjK+SBhM5OFUeZzv5j7VfdWsUDBjPzIdHKen5wRfUnTvZsIhFfW0y1Arg2fD190Tg/RDf6/ju5FPFyaaX+4f1b4KrZZA9ErvJRbJXvo6o6fCD9dpqe6vZa2nVgZZ8V12X73SjzbRD8FFjctoNz86CAKOb0QsijIrpVX2a+OgeyxrpVAw==;vWpvlIwXFQx9peWhtZXF4A=="
 ---
 

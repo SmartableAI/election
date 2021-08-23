@@ -68,6 +68,22 @@ related:
         width: 1024
         height: 679
         isCached: true
+  - title: "Trump To Be Reinstated As President Before 2022, Lindell Predicts"
+    excerpt: "Former President Donald Trump may be reinstated to the presidential seat before 2022, a close ally has predicted. During Trump’s rally in Cullman, Alabama, on Saturday, MyPillow CEO Mike Lindell predicted that Trump would be reinstated before the end of the year."
+    publishedDateTime: 2021-08-23T02:23:00Z
+    webUrl: "https://www.ibtimes.com/trump-be-reinstated-president-2022-lindell-predicts-3278800"
+    ampWebUrl: "https://www.ibtimes.com/trump-be-reinstated-president-2022-lindell-predicts-3278800?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-be-reinstated-president-2022-lindell-predicts-3278800?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/29/mike-lindell.jpg"
+        width: 1024
+        height: 670
+        isCached: true
   - title: "Donald Trump Got Booed In Alabama For Saying Good Things About Vaccines"
     excerpt: "Trump told the crowd he was vaccinated and encouraged them to do the same, drawing boos at his own rally as a result."
     publishedDateTime: 2021-08-22T17:37:00Z

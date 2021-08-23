@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ladbible.com/news/latest-donald-trump-booed-at-rally-aft
 cdnAmpWebUrl: "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/news/latest-donald-trump-booed-at-rally-after-telling-everyone-to-get-vaccinated-20210822.amp.html"
 type: article
 quality: 72
-heat: 152
+heat: 172
 published: true
 
 provider:
@@ -86,6 +86,20 @@ related:
       - url: "https://www.motherjones.com/wp-content/uploads/2021/08/20210822_cullman.jpg?w=1200&h=630&crop=1"
         width: 1200
         height: 630
+        isCached: true
+  - title: "OPINION EDITORIAL/IN OUR VIEW At Least He Tried: Former President Trump gets some boos after encouraging vaccinations"
+    excerpt: "Former President Donald Trump used his bully pulpit for the public good. And was booed by the some members of the audience. President Trump appeared Saturday at a Cullman, Alabama, rally and took the opportunity to encourage those in attendance to get vaccinated against COVID-19."
+    publishedDateTime: 2021-08-23T03:02:00Z
+    webUrl: "https://www.texarkanagazette.com/news/opinion/editorials/story/2021/aug/23/opinion-editorialin-our-view-least-he-tried-former-president-trump-gets-some-boos-after-encouraging-vaccinations/884849/"
+    type: article
+    provider:
+      name: Texarkana Gazette
+      domain: texarkanagazette.com
+    quality: 32
+    images:
+      - url: "https://media-cdn.wehco.com/img/photos/2016/01/06/inourviewopinionpage666551757_t1070_hea458391a26b7eb3c901b599fdc3b80d7aa56f41.jpg"
+        width: 1070
+        height: 1070
         isCached: true
 
 secured: "rCO41NvtO7OXln9VXliCSMgf8ehTbMV0knfRza5ZGMaZFtFahLopD5hXkuROSkVQlMI5Tmt4fueEuRlmUSAieHi18jjPZOwyq0ohixN+toDmmzystNGISRi98cE4p7/Tkqvn7R545S3ujC9Eu9+sEonER3lX/aWHXpPg9/RgY9Us4Aczzosp14y0vsyn5MTa9eUcRj9CD4u72VWqhemIUOlPzn83/BOTqiMsoAVDRQjLVajvgGv+RvOFvxwF35QILKC+TaFpJDppOmO1hwU2tZSoDIyBnN0JjyCGyKtFHJzUbXz2+MKLYx/5C5Cqekz3QwRwxKjD3Nli/rDMOgci9O/xpOHU7GAo20o0khe3y+c=;JR0BAfc5QugwdQ8jzh7DQA=="

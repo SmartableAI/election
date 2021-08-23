@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Even-as-COVID-re
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Even-as-COVID-resurges-there-is-no-room-for-Gov-16401385.php"
 type: article
 quality: 122
-heat: 222
+heat: 242
 published: true
 
 provider:
@@ -100,6 +100,20 @@ related:
       - url: "https://thumbnails.texastribune.org/QCGScGkOdgn7z6M7CjbTbiaZvo4=/1200x630/filters:quality(95)/static.texastribune.org/media/files/0825c12ccde17a1e73e5eb5a698491d2/Biden%20COVID%20REUTERS%20TT.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Congressman who left GOP over Trump gives final message before death from cancer"
+    excerpt: "Before his death, former Rep. Paul Mitchell talked with CNN's Jake Tapper about his life and his parting message to the country."
+    publishedDateTime: 2021-08-23T02:03:00Z
+    webUrl: "https://www.kdrv.com/content/news/575151722.html"
+    type: article
+    provider:
+      name: KDRV
+      domain: kdrv.com
+    quality: 50
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210822145959-paul-mitchell-tapper-vpx-live-video.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "qrec/T+WDcscZbgq/9mpQcvRXwWdbbaophhIKPvFqB7mumHb7AZQzbqFskxHWTPAWJiWCIT8+PLogN2ZmXsBxIQMEDhNw18s5eWf9/XNz5osU7FyQAnmrfiRpm5sTSHi+RCKOKccg8KOYKHsJLQRDCMHizlxyCB/QyMU87ybm7B93cdPJO6nX6eZF8amfDKOBFjofxB/1WTwo2s1kXu1PPsTdG/wC/CbMUYM/+kV/Rs15w4yhCLnfdYHw5pt6r3VVVyySqW/ZJC3YIb/RBgGcf9Gx91fqRoKSDGAqm13YjZ7HY7kZGzDWRIUlBepzws/nR4dBlZLZmwVsZHNxDYHs+Gjwae0nqr3kDH0MCkKR7o=;PfRigdfb8AB6Iqd4jClYCA=="

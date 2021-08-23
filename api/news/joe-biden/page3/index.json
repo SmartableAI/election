@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-22-fact-check-did-joe-biden-spread-misinformation-on-covid-vaccines.md",
+      "title": "Fact Check: Did Joe Biden Spread Misinformation on COVID Vaccines?",
+      "excerpt": "The president claimed at a CNN town hall that people vaccinated against COVID do not get hospitalized, need ICU treatment, or die because of the disease.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/fact-check-joe-biden-spread-misinformation-covid-vaccines-1612181",
+      "originalUrl": "https://www.newsweek.com/fact-check-joe-biden-spread-misinformation-covid-vaccines-1612181",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 385,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1852446/president-joe-biden-cnn-town-hall-covidvaccine.jpg",
+          "width": 2500,
+          "height": 1670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/fact-check-joe-biden-spread-misinformation-covid-vaccines-1612181?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-joe-biden-spread-misinformation-covid-vaccines-1612181?amp=1",
+      "publishedDateTime": "2021-07-22T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-biden-says-eliminating-filibuster-would-throw-the-entire-congress-into-chaos.md",
+      "title": "Biden says eliminating filibuster would \"throw the entire Congress into chaos\"",
+      "excerpt": "President Biden essentially rejected the idea of eliminating the filibuster, asserting, that doing so would \"throw the entire Congress into chaos, and nothing would get done.\" He was in Cincinnati at a town hall Wednesday night,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/live-updates/joe-biden-town-hall-filibuster/",
+      "originalUrl": "https://www.cbsnews.com/live-updates/joe-biden-town-hall-filibuster/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/22/6db0226c-75a4-4efe-9e3d-62440af84a2d/thumbnail/1200x630/9c7781d3b07754207b8d6a007309ab26/ap21203035322896-cropped.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/live-updates/joe-biden-town-hall-filibuster/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/joe-biden-town-hall-filibuster/",
+      "publishedDateTime": "2021-07-22T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-joe-biden-town-hall-in-cincinnati-heres-the-full-cnn-transcript.md",
       "title": "Joe Biden town hall in Cincinnati: Here's the full CNN transcript",
       "excerpt": "Transcript of the July 21, 2021 CNN town hall with President Joe Biden at Mount St. Joseph University in Delhi Township, Ohio DON LEMON, CNN HOST: Good evening, everyone. We are live in Cincinnati, Ohio,",
@@ -1430,116 +1534,6 @@
       "ampWebUrl": "https://www.foxnews.com/transcript/your-world-on-biden-withdrawing-troops-florida-recovery-efforts.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/your-world-on-biden-withdrawing-troops-florida-recovery-efforts.amp",
       "publishedDateTime": "2021-07-09T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-rupert-murdoch-approved-fox-news-calling-arizona-for-biden-book-claims.md",
-      "title": "Rupert Murdoch approved Fox News calling Arizona for Biden, book claims",
-      "excerpt": "Loss of state signalled Donald Trump’s 2020 election defeat but Murdoch reportedly said: ‘Fuck him’",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-trump-fox-news-arizona",
-      "originalUrl": "https://www.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-trump-fox-news-arizona",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 335,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/ce605a7b8f34ae08a973d02474c80f693186c85c/0_0_3280_1968/master/3280.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f16e06960bae0821364feece0851061f",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-trump-fox-news-arizona",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-trump-fox-news-arizona",
-      "publishedDateTime": "2021-07-09T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-hannity-biden-called-georgia-voter-law-jim-crow-but-heres-the-truth-about-his-home-state.md",
-      "title": "Hannity: Biden called Georgia voter law 'Jim Crow' but here's the truth about his home state",
-      "excerpt": "Sean Hannity, host of \"Hannity,\" slammed President Joe Biden and the left for now supporting a push for voter ID laws. Hannity pointed out Wednesday that if Democrats want to be taken seriously, then Democrat-run states such as Delaware,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/hannity-biden-delaware-democrats-voter-restrictions",
-      "originalUrl": "https://www.foxnews.com/media/hannity-biden-delaware-democrats-voter-restrictions",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/hannity-biden-delaware-democrats-voter-restrictions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-biden-delaware-democrats-voter-restrictions.amp",
-      "publishedDateTime": "2021-07-08T09:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

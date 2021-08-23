@@ -87,6 +87,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "OPINION EDITORIAL/IN OUR VIEW At Least He Tried: Former President Trump gets some boos after encouraging vaccinations"
+    excerpt: "Former President Donald Trump used his bully pulpit for the public good. And was booed by the some members of the audience. President Trump appeared Saturday at a Cullman, Alabama, rally and took the opportunity to encourage those in attendance to get vaccinated against COVID-19."
+    publishedDateTime: 2021-08-23T03:02:00Z
+    webUrl: "https://www.texarkanagazette.com/news/opinion/editorials/story/2021/aug/23/opinion-editorialin-our-view-least-he-tried-former-president-trump-gets-some-boos-after-encouraging-vaccinations/884849/"
+    type: article
+    provider:
+      name: Texarkana Gazette
+      domain: texarkanagazette.com
+    quality: 32
+    images:
+      - url: "https://media-cdn.wehco.com/img/photos/2016/01/06/inourviewopinionpage666551757_t1070_hea458391a26b7eb3c901b599fdc3b80d7aa56f41.jpg"
+        width: 1070
+        height: 1070
+        isCached: true
 
 secured: "YAxqbTdinVb9KrY4saOsiMwxMJCs0ablLHhxGJhxO2EsfX5UiHYETnV8fRhNucWKSb1t2GDif5zm84YCoMGTdoOrUofEvFstQx8WER0I8OT1TOua04+PTN1GxT0HseDv/EIYtchJllo3fxjqweR8WafMzonMVvFP6orO3KxYDSfwiZSWRkLRbCjPWxFwGRhNzm7IsfAnxD2Eh7BBXA+Yw7gJtGwm00A3Dkpogo0NmltI27FOP4If1ya01fo1BTbdzJJrj16wU8gxWGyn36KiDio0rWEWEibXSZXqVWUSOvUf73lAYMCNagtpUie17kspbzBbUXrRHNQIFinxi01G7Ih0NbD2+CrwrTcHJ46kfbPqVulb61+RfdtAJEZrL/g9TpIQV9PzYMc/BHTRFYEAGLA09M7pOLVst5vRp9QpO/bi6YJJP7YK6Z4f12ftRJMgmaC5NQ+qqCO9TT7TvMpWFH4lGPHxfBd7s9PbEcqaM/6rxl7t3AkkjG6sDe8kwipTIbZSvCPQ5FOtTphBJ1fMjg==;AiqdK3TqBcySpEeW7u1rpg=="
 ---

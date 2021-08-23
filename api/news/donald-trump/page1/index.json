@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-23-carlyle-alums-governor-run-mixes-trump-backing-maga-lite-style.md",
+      "title": "Carlyle Alum’s Governor Run Mixes Trump Backing, MAGA-Lite Style",
+      "excerpt": "The crowd of about 300 Republican stalwarts in Norfolk, Virginia, included those wearing the requisite red baseball caps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-08-23/carlyle-alum-s-governor-run-mixes-trump-backing-maga-lite-style",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-08-23/carlyle-alum-s-governor-run-mixes-trump-backing-maga-lite-style",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iD7mjU39SxqU/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-22T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-23-vos-to-keep-trump-updated-on-election-investigation.md",
       "title": "Vos to keep Trump \"updated\" on election investigation",
       "excerpt": "Assembly Speaker Robin Vos the said in a statement Saturday he is going to be keeping Trump “updated on our investigation,” the Journal Times reported. In a statement, Vos said: “It was an honor to be invited to travel by private plane with President Trump and top staff to attend his rally in Alabama.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.houstonchronicle.com/news/article/Vos-to-keep-Trump-updated-on-election-16404028.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 220,
+      "heat": 240,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -53,7 +105,7 @@
       "originalUrl": "https://www.ladbible.com/news/latest-donald-trump-booed-at-rally-after-telling-everyone-to-get-vaccinated-20210822",
       "featuredContent": null,
       "highlight": null,
-      "heat": 152,
+      "heat": 172,
       "tags": null,
       "images": [
         {
@@ -200,7 +252,7 @@
       "originalUrl": "https://www.houstonchronicle.com/politics/texas/article/Even-as-COVID-resurges-there-is-no-room-for-Gov-16401385.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 222,
+      "heat": 242,
       "tags": null,
       "images": [
         {
@@ -252,7 +304,7 @@
       "originalUrl": "https://wbhm.org/feature/2021/donald-trumps-save-america-rally-packs-farm-near-cullman/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -852,7 +904,7 @@
       "originalUrl": "https://www.ibtimes.com/what-donald-trump-said-april-about-pulling-out-us-troops-afghanistan-3274760",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -1413,49 +1465,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-billy-long-touts-trump-ties-during-senate-seat-campaign-rally-in-joplin.md",
-      "title": "Billy Long touts Trump ties during Senate seat campaign rally in Joplin",
-      "excerpt": "Mo., touted his strong friendship with former President Donald Trump during a Thursday morning campaign rally stop at Cunningham Park.",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/news/billy-long-touts-trump-ties-during-senate-seat-campaign-rally-in-joplin/article_87dc1e7a-fba1-11eb-9adf-0b3478643ab3.html",
-      "originalUrl": "https://www.joplinglobe.com/news/billy-long-touts-trump-ties-during-senate-seat-campaign-rally-in-joplin/article_87dc1e7a-fba1-11eb-9adf-0b3478643ab3.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/1/34/134c0f34-fba6-11eb-b9e6-bf4cfe2dcb45/61157abb2e912.image.jpg?resize=957%2C630",
-          "width": 957,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],
