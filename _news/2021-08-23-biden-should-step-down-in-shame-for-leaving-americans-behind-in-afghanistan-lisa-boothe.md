@@ -240,6 +240,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "GOP Rep. Byron Donalds calls on Biden to resign after Afghanistan crisis"
+    excerpt: "Rep. Byron Donalds, R-Fla., on Monday demanded that President Biden resign from office immediately over his “botched” withdrawal of U.S. troops in Afghanistan, whiich led to a complete Taliban-takeover of the country within days."
+    publishedDateTime: 2021-08-23T16:09:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tQL84fouuFE/byron-donalds-biden-resign-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/byron-donalds-biden-resign-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/byron-donalds-biden-resign-afghanistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/568f504b-1db2-47b5-befe-49a7bf7aa354/a417ef04-fb1e-4f6e-8801-1456473c6936/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Sec. Mayorkas blames Trump, rule of law for huge spike in illegal immigration during Biden administration"
     excerpt: "Homeland Security Secretary Alejandro Mayorkas blamed former President Donald Trump’s administration for the record rise of border crossings occurring during the Biden administration."
     publishedDateTime: 2021-08-13T14:23:58Z
@@ -848,6 +864,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Pentagon may ask Biden to stay in Afghanistan past Aug 31, but won't retake Bagram to speed evacuations"
+    excerpt: "A Department of Defense spokesman poured cold water on the idea of the U.S. military retaking Bagram Airfield."
+    publishedDateTime: 2021-08-23T16:37:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5MWgqM55jbo/pentagon-afghanistan-august-31-kabul-military"
+    ampWebUrl: "https://www.foxnews.com/politics/pentagon-afghanistan-august-31-kabul-military.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pentagon-afghanistan-august-31-kabul-military.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden White House accepts responsibility for 'chaos' in Afghanistan, says it is 'vigilant' on terror threat"
     excerpt: "President Biden and his national security team are \"taking responsibility\" for \"every decision\" the U.S. government took with respect to Afghanistan, White House national security adviser Jake Sullivan said Tuesday."
     publishedDateTime: 2021-08-17T19:32:36Z
@@ -1207,6 +1239,22 @@ related:
     quality: 127
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9395538d-04e9-4b19-b816-bd3528f05f82/01ad1ecb-a563-43a5-a899-b578bc624bec/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "MSNBC's Mehdi Hasan defends Biden over 'disaster' in Afghanistan, implores detractors to stay silent"
+    excerpt: "MSNBC host Mehdi Hasan on Sunday defended President Joe Biden from detractors criticizing his handling of the \"disaster\" in Afghanistan and blasted those in the media, military officials, politicians and former Bush and Trump administration officials for their reactions to the unfolding situation in the war-torn country."
+    publishedDateTime: 2021-08-23T17:22:00Z
+    webUrl: "https://www.foxnews.com/media/msnbc-mehdi-hasan-joe-biden-disaster-afghanistan-detractors-silent"
+    ampWebUrl: "https://www.foxnews.com/media/msnbc-mehdi-hasan-joe-biden-disaster-afghanistan-detractors-silent.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/msnbc-mehdi-hasan-joe-biden-disaster-afghanistan-detractors-silent.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/083b241e-f0b9-409f-b467-38693f0b4a56/ce0c5f5c-3a51-44a7-83ff-b22bf2b08f7f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

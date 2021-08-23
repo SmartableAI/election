@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to encourage Americans who have been waiting for full FDA approval to get their Covid vaccination"
+    excerpt: "President Joe Biden on Monday will encourage Americans who have been waiting for full approval from the US Food and Drug Administration to go get vaccinated against Covid-19 after the FDA approved Pfizer-BioNTech's vaccine, a White House official tells CNN.\n    \n"
+    publishedDateTime: 2021-08-23T17:06:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tpXqmUTj_OM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/23/politics/biden-fda-approval-covid-remarks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/23/politics/biden-fda-approval-covid-remarks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210821080912-01-joe-biden-08-20-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "7p2Ivtc6OBtBKUvgCm+vdXdMWlydIC59ZRR8jaA6Z3gORerDaHR6CPxZ9+j4kAAYpmQD7fMjAxRmlIQgK0orbKz3pqn6OypLa55o8KAVMIxatkWqLz2dz69J0q3M95KcYK13yiBZfk7Vp6vOD4y96gOdk/swXywhNCGnpLxdRVTxNx84gXjDJ4xPp8CLf0k65sr7o2qy61MJg6CLD1bXiUakr3zrXuzd6psC3wE4fFqM74mlEQ5SZ0uVC9Ab1x2CnwaXMR0dBGaa3k/94aWapcwGjdqC3pWsChjHYkuEKE8JzIDFhGkgvk8iU+v81nTiaMdBUKNxbOgdeWnVaJJiI/xL75h9heuLXa4znSj71r4=;tVOw2syt3NvSyvkKIMmYkQ=="
 ---

@@ -1,0 +1,86 @@
+---
+category: news
+title: "Afghanistan fallout engulfs Harris' first day of Southeast Asia trip"
+excerpt: "Vice President Kamala Harris, undertaking a suddenly high-stakes visit to Southeast Asia this week amid the first major foreign policy crisis of the Biden administration, was on the receiving end of questions Monday about the US' withdrawal from Afghanistan for the first time since the chaotic fall of"
+publishedDateTime: 2021-08-23T17:19:50Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/chh5Piu2id0/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/chh5Piu2id0/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/08/23/politics/kamala-harris-singapore-afghanistan/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/23/politics/kamala-harris-singapore-afghanistan/index.html"
+type: article
+quality: 185
+heat: 245
+published: true
+
+provider:
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Democratic Voice
+  - Kamala Harris
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210823025658-03-harris-singapore-0822-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
+
+related:
+  - title: "Harris heads to Southeast Asia in search of a foreign policy win amid Afghanistan crisis "
+    excerpt: "Vice President Kamala Harris faces a steep challenge next week when she travels to Singapore and Vietnam, as a once-low-risk trip to friendly nations comes at the same time as a bungled US withdrawal from Afghanistan.\n    \n"
+    publishedDateTime: 2021-08-20T09:20:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pd7DCnDigyE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/20/politics/kamala-harris-southeast-asia-trip-afghanistan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/20/politics/kamala-harris-southeast-asia-trip-afghanistan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 176
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210614180815-kamala-harris-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden says U.S. may extend Afghanistan withdrawal deadline as evacuations continue"
+    excerpt: "President Joe Biden said Sunday that the U.S. was considering extending evacuation efforts beyond his Aug. 31 deadline to leave Afghanistan as he defended the administration's handling of the war's final days."
+    publishedDateTime: 2021-08-22T23:19:00Z
+    webUrl: "https://www.nbcnews.com/politics/joe-biden/biden-says-u-s-may-extend-afghanistan-withdrawal-deadline-evacuations-n1277414"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1277414"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1277414"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_33/3500850/210822-joe-biden-jm-1701.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Kamala Harris stresses Southeast Asia ties on an overseas trip, but the focus returns to Afghanistan."
+    excerpt: "Facing rising pressure over the United States’ haphazard withdrawal from Afghanistan, Vice President Kamala Harris said on Monday that the Biden administration was “singularly focused” on evacuating American citizens and Afghan allies."
+    publishedDateTime: 2021-08-23T09:45:00Z
+    webUrl: "https://www.nytimes.com/2021/08/23/world/asia/kamala-harris-stresses-southeast-asia-ties-on-an-overseas-trip-but-the-focus-returns-to-afghanistan.html"
+    ampWebUrl: "https://www.nytimes.com/2021/08/23/world/asia/kamala-harris-stresses-southeast-asia-ties-on-an-overseas-trip-but-the-focus-returns-to-afghanistan.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/23/world/asia/kamala-harris-stresses-southeast-asia-ties-on-an-overseas-trip-but-the-focus-returns-to-afghanistan.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 120
+    images:
+      - url: "https://static01.nyt.com/images/2021/08/23/world/23-afghanistan-briefing-KamalainSingapor-02/23-afghanistan-briefing-KamalainSingapor-02-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+
+secured: "Ti+TuijAkQ5OstL/by8p0tn47R1diNV4DGLmaRtxbUU93I9E/o41STw+pgmmIQMiiohW1khmYBT6EMclfbZST73xHBrP891+jXICOYKyP5uWQ5wJabvxJ3/Eg8TOiqDSiabVOIBXd2bJHQwslsx+ShWTO12GQmVc62bHgV0z4hdDM0BcfREOzZzr6lIjSZrw0wae45asktzkxVG6hIHHewRXkX3Lbbs5Q21iRIEc45mvQ/hfch0vTi/R99aHh5K8Wq/eKSv6rrVq7hm8VelVq+UyKXY4H6CvabQUeITP2wWEsXdPWN0FDdUqPFzzeutlxiXk9o8m3pfiarhUP1QsHQ3hIxySYxct0p+hCDr0r5o=;dHoQRwcHLLYCQQUF49wvjQ=="
+---
+

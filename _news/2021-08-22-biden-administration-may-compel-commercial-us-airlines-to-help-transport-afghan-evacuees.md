@@ -239,22 +239,6 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "Biden says U.S. may extend Afghanistan withdrawal deadline as evacuations continue"
-    excerpt: "President Joe Biden said Sunday that the U.S. was considering extending evacuation efforts beyond his Aug. 31 deadline to leave Afghanistan as he defended the administration's handling of the war's final days."
-    publishedDateTime: 2021-08-22T23:19:00Z
-    webUrl: "https://www.nbcnews.com/politics/joe-biden/biden-says-u-s-may-extend-afghanistan-withdrawal-deadline-evacuations-n1277414"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1277414"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1277414"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 129
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_33/3500850/210822-joe-biden-jm-1701.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
 
 secured: "8gP+TZoxQY4uVGEhBd1GOu+IAAR28EEx4ziAgWtYe+BYnrzVVtkBXr0blkQBLE5+pgjUymrDCYQe8kWRAOWgpRS5mFVqFtLwHj6Y7WPRa48eRMaRXE1dDtwjZp8l+sAI3JGJshIxcFqsZ/d+BqNsVqe4rqnK4KsZT2u4DHzNUVeRm4koySBD/xbbz3WaCqLVoFf8qx00+17iBmW8YYmG4DAdGfwoqiF3hJ/+Fm30rjg76+dv205rauhfzXGcLwpQZ2z/7cIfdZj5L3Y/qOxkdtUx6UdCLrdYGbw5lrtgd1GOnnlfATDOSbcZlzLTtTDjDfcWNY1OIMKcsXJaayIMw56Df38nGQQa5k7QspJ19nA=;Vanz7DVKqIJwl0VJTwTF6Q=="
 ---

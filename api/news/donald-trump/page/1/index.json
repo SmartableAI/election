@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-23-former-pence-aide-rhetoric-under-trump-admin-about-afghans-hurtful-and-offensive.md",
+      "title": "Former Pence Aide: Rhetoric Under Trump Admin About Afghans 'Hurtful' and 'Offensive'",
+      "excerpt": "A former aide for former Vice President Mike Pence, Olivia Troye, is opening up about the rhetoric under the Trump administration about Afghans, calling it “hurtful” and “offensive.” CNN’s Brianna Keilar noted during “New Day” Monday Troye sat in on meetings about getting Afghans who are eligible for relief who helped U.",
+      "sourceUrl": null,
+      "webUrl": "https://ijr.com/former-pence-aide-rhetoric-trump-admin-afghan-refugees/",
+      "originalUrl": "https://ijr.com/former-pence-aide-rhetoric-trump-admin-afghan-refugees/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ijr.com/wp-content/uploads/2021/08/Screenshot-2021-08-23-at-11.41.18-AM.jpg",
+          "width": 1885,
+          "height": 980,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-23T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ijr.com",
+        "domain": "ijr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-08-23-matt-gaetz-says-he-asked-for-trumps-approval-before-proposing-to-ginger-luckey-who-eloped-with-him-amid-a-sex-trafficking-probe.md",
+      "title": "Matt Gaetz says he asked for Trump's approval before proposing to Ginger Luckey, who eloped with him amid a sex trafficking probe",
+      "excerpt": "Matt Gaetz said he asked for former President Donald Trump's approval before proposing to his now-wife Ginger Luckey, with whom he eloped over the weekend amid a federal sex",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/matt-gaetz-asked-for-trumps-approval-before-proposing-to-ginger-luckey-2021-8",
+      "originalUrl": "https://www.businessinsider.com/matt-gaetz-asked-for-trumps-approval-before-proposing-to-ginger-luckey-2021-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6123ae95de5f560019e845d6?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/matt-gaetz-asked-for-trumps-approval-before-proposing-to-ginger-luckey-2021-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/matt-gaetz-asked-for-trumps-approval-before-proposing-to-ginger-luckey-2021-8?amp",
+      "publishedDateTime": "2021-08-23T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-23-carlyle-alums-governor-run-mixes-trump-backing-maga-lite-style.md",
       "title": "Carlyle Alum’s Governor Run Mixes Trump Backing, MAGA-Lite Style",
       "excerpt": "The crowd of about 300 Republican stalwarts in Norfolk, Virginia, included those wearing the requisite red baseball caps.",
@@ -62,7 +158,7 @@
       "originalUrl": "https://www.houstonchronicle.com/news/article/Vos-to-keep-Trump-updated-on-election-16404028.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 260,
+      "heat": 280,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -105,7 +201,7 @@
       "originalUrl": "https://www.ladbible.com/news/latest-donald-trump-booed-at-rally-after-telling-everyone-to-get-vaccinated-20210822",
       "featuredContent": null,
       "highlight": null,
-      "heat": 212,
+      "heat": 232,
       "tags": null,
       "images": [
         {
@@ -347,7 +443,7 @@
       "originalUrl": "https://www.theguardian.com/tv-and-radio/2021/aug/22/tv-tonight-ruby-wax-revisits-her-time-with-donald-trump",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -500,7 +596,7 @@
       "originalUrl": "https://www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for-the-first-time-in-4-years.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 295,
+      "heat": 315,
       "tags": null,
       "images": [
         {
@@ -586,7 +682,7 @@
       "originalUrl": "https://www.newsweek.com/alan-dershowitz-says-donald-trump-ties-have-lost-him-many-friends-larry-david-1621399",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -1346,106 +1442,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-bad-news-for-trump-adjacent-weirdos-delights-seth-meyers.md",
-      "title": "Bad News for ‘Trump-Adjacent Weirdos’ Delights Seth Meyers",
-      "excerpt": "Meyers enjoyed seeing Mike Lindell get word on camera that a defamation suit against him over his claims of election fraud would proceed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/08/13/arts/television/seth-myers-mike-lindell.html",
-      "originalUrl": "https://www.nytimes.com/2021/08/13/arts/television/seth-myers-mike-lindell.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/08/13/arts/13latenight/13latenight-facebookJumbo.png",
-          "width": 906,
-          "height": 474,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/08/13/arts/television/seth-myers-mike-lindell.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/13/arts/television/seth-myers-mike-lindell.amp.html",
-      "publishedDateTime": "2021-08-12T22:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-billy-long-touts-trump-ties-during-senate-seat-campaign-rally-in-joplin.md",
-      "title": "Billy Long touts Trump ties during Senate seat campaign rally in Joplin",
-      "excerpt": "Mo., touted his strong friendship with former President Donald Trump during a Thursday morning campaign rally stop at Cunningham Park.",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/news/billy-long-touts-trump-ties-during-senate-seat-campaign-rally-in-joplin/article_87dc1e7a-fba1-11eb-9adf-0b3478643ab3.html",
-      "originalUrl": "https://www.joplinglobe.com/news/billy-long-touts-trump-ties-during-senate-seat-campaign-rally-in-joplin/article_87dc1e7a-fba1-11eb-9adf-0b3478643ab3.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/1/34/134c0f34-fba6-11eb-b9e6-bf4cfe2dcb45/61157abb2e912.image.jpg?resize=957%2C630",
-          "width": 957,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

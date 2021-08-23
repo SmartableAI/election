@@ -1,24 +1,28 @@
 ---
 category: news
-title: "Trump-fueled election ‘audit’ sparks Senate GOP turmoil"
-excerpt: "The top Republican in the Pennsylvania Senate says he’s putting a different senator in charge of an “election integrity” undertaking and removing a senator who had aimed to carry out an Arizona-style “forensic investigation” of Pennsylvania’s 2020 presidential election."
-publishedDateTime: 2021-08-23T11:03:00Z
-originalUrl: "https://www.macon.com/news/politics-government/national-politics/article253632053.html"
-webUrl: "https://www.macon.com/news/politics-government/national-politics/article253632053.html"
-ampWebUrl: "https://amp.macon.com/news/politics-government/national-politics/article253632053.html"
-cdnAmpWebUrl: "https://amp-macon-com.cdn.ampproject.org/c/s/amp.macon.com/news/politics-government/national-politics/article253632053.html"
+title: "Trump-fueled election 'audit' sparks Senate GOP turmoil"
+excerpt: "The top Republican in Pennsylvania's Senate said Friday that he is putting a different senator in charge of an \"election integrity\" undertaking and removed a senator who"
+publishedDateTime: 2021-08-23T14:02:00Z
+originalUrl: "https://www.phillytrib.com/news/state_and_region/trump-fueled-election-audit-sparks-senate-gop-turmoil/article_01719efe-5b16-554d-80bd-e31778576f8d.html"
+webUrl: "https://www.phillytrib.com/news/state_and_region/trump-fueled-election-audit-sparks-senate-gop-turmoil/article_01719efe-5b16-554d-80bd-e31778576f8d.html"
 type: article
 quality: 70
 heat: -1
 published: false
 
 provider:
-  name: The Telegraph
-  domain: macon.com
+  name: Philadelphia Tribune
+  domain: phillytrib.com
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/assets/v3/editorial/8/2c/82cd4c35-f3c7-5843-bcb6-142108b6c16b/6123ab4ae1192.image.jpg?resize=945%2C630"
+    width: 945
+    height: 630
+    isCached: true
 
 related:
   - title: "With fight over mask mandates, Gov. Abbott passes purity test in Trump's GOP"
@@ -138,6 +142,6 @@ related:
         height: 619
         isCached: true
 
-secured: "AlacPOu3QCRsJcrLpgOXLfaYmDBylsli2VN5nT8bxgw0oUrkGybczBbQMG6nYvb8UznXCCC4GxJsgS2w3sNOZFtvCpVkyD5oHxjthwl2ha66IghLcghSzcJbMb7uMUjJBdHFVkLRtxxx/0FnE16z9bkn8uVcW0EgC0t95JqaFfQcnUJlMAtH4VZgEcpgQyVGQTVV/9SmCFJ27VtmMPoyK1/GY8PvdNrPWVKIAroU7F9t0LbZ6kz0EkyJsbRv4CK22k3Td+xQtzpmKyrqi8RXpbaStI127FLkyAr/k0W9EVhy8e+LIanV24oThKHfZLBWTTDWQBsBqGSN5f9EOJu4Ki/Gv2GpgmHInflQT3r/JQgvoXde4x/M11N1ljWAfqYLxNCXnvYdGCSoGXdMxUSgvWktWeRBucR4sRpS/MRj/blJ8sqbGiZZ7XS2HkPWcxLLrHajkFJJzEHsj3VsU8UQHTAJ6VEF9QNSrcjxVpqTX8dFQ5UB+XYlaxLm1SIi2NBaVIDg5VGhDAaj8LKrEJtSkA==;lbM8qbi6+PfBSgFW1h79qg=="
+secured: "lPq+xHehbpXC+b5z/oupmda0H6/bvAlcFwt700EO9PcOnNFAratM+JySN/8HQ82gjJqHwHbNNp8RA7GWgzT5AXhrVvwtXWZoAmBD+aY7EVmgsPD4LOYN9ja0Etq5pmb25k5hE/NcQDqQAx+R7TNfOG+A5XC+NlE+9g3NeZQrLZuAAwwwR1NspSaw2iNIWIky/MNn+/MlZEZy77nZ7VngTrzEetgMHwdDgNPhAvjuTtJ5kmXZZaxfQ4rUPS0veQGtLmOdMSH5cFWfpHpC8NRtqapxkaQ1IX4tHT/8TuwZ0WKhAwEKCY6WNY2FoT2OQ3okc74qi/ruqb179qNYb1xS64RQIVDPU2IcJ12uECPcm38=;8RGRKK055RIDVSf1xBi6Og=="
 ---
 

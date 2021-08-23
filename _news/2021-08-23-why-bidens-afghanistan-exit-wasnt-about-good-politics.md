@@ -349,6 +349,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "'When I was President...': Donald Trump on Taliban, Joe Biden, Afghanistan"
+    excerpt: "Former US President Donald Trump hit out at his successor over the messy exit from Afghanistan which has led to Taliban taking over most of the country, and an evacuation crisis breaking out. Trump said that Joe Biden had gone on vacation as Afghanistan was going to hell."
+    publishedDateTime: 2021-08-23T16:57:00Z
+    webUrl: "https://www.hindustantimes.com/videos/world-news/when-i-was-president-donald-trump-on-taliban-joe-biden-afghanistan-101629737383021.html"
+    ampWebUrl: "https://www.hindustantimes.com/videos/world-news/when-i-was-president-donald-trump-on-taliban-joe-biden-afghanistan-101629737383021-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/videos/world-news/when-i-was-president-donald-trump-on-taliban-joe-biden-afghanistan-101629737383021-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 88
+    images:
+      - url: "https://images.hindustantimes.com/img/2021/08/23/1600x900/HT_Normal_Thumbnail_-_AUG__2021_1629737552559_1629737630771.png"
+        width: 1600
+        height: 899
+        isCached: true
   - title: "Trump Slams Joe Biden For Afghanistan Crisis; Says 'Would Never Happen If I Was President'"
     excerpt: "Trump slammed Biden for the Kabul crisis and said that recent developments in Afghan are a “major failure” of the current US administration’s foreign policy."
     publishedDateTime: 2021-08-22T11:47:00Z

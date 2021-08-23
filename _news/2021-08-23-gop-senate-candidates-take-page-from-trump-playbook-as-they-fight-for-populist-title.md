@@ -81,17 +81,20 @@ related:
       name: The Bellingham Herald
       domain: bellinghamherald.com
     quality: 70
-  - title: "Trump-fueled election ‘audit’ sparks Senate GOP turmoil"
-    excerpt: "The top Republican in the Pennsylvania Senate says he’s putting a different senator in charge of an “election integrity” undertaking and removing a senator who had aimed to carry out an Arizona-style “forensic investigation” of Pennsylvania’s 2020 presidential election."
-    publishedDateTime: 2021-08-23T11:03:00Z
-    webUrl: "https://www.macon.com/news/politics-government/national-politics/article253632053.html"
-    ampWebUrl: "https://amp.macon.com/news/politics-government/national-politics/article253632053.html"
-    cdnAmpWebUrl: "https://amp-macon-com.cdn.ampproject.org/c/s/amp.macon.com/news/politics-government/national-politics/article253632053.html"
+  - title: "Trump-fueled election 'audit' sparks Senate GOP turmoil"
+    excerpt: "The top Republican in Pennsylvania's Senate said Friday that he is putting a different senator in charge of an \"election integrity\" undertaking and removed a senator who"
+    publishedDateTime: 2021-08-23T14:02:00Z
+    webUrl: "https://www.phillytrib.com/news/state_and_region/trump-fueled-election-audit-sparks-senate-gop-turmoil/article_01719efe-5b16-554d-80bd-e31778576f8d.html"
     type: article
     provider:
-      name: The Telegraph
-      domain: macon.com
+      name: Philadelphia Tribune
+      domain: phillytrib.com
     quality: 70
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/assets/v3/editorial/8/2c/82cd4c35-f3c7-5843-bcb6-142108b6c16b/6123ab4ae1192.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
+        isCached: true
   - title: "Joe Biden takes aim at states blocking mask mandates, setting Gov. Greg Abbott up for showdown with"
     excerpt: "Texas Gov. Greg Abbott may soon be fighting a war on two fronts — with local officials and the federal government — to stave off mandatory COVID-19 prevention efforts after the Biden administration announced Wednesday it was going after states like Texas that try to ban universal masking at schools."
     publishedDateTime: 2021-08-19T02:36:00Z

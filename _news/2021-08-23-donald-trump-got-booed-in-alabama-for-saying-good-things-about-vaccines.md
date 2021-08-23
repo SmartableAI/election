@@ -68,6 +68,22 @@ related:
         width: 1024
         height: 679
         isCached: true
+  - title: "Trump Booed at Alabama Rally After Telling Supporters to Get Vaccinated"
+    excerpt: "Former President Donald Trump was booed at a rally Saturday in Alabama after he told supporters they should get vaccinated"
+    publishedDateTime: 2021-08-23T13:58:00Z
+    webUrl: "https://www.nbcnewyork.com/news/politics/trump-booed-at-alabama-rally-after-telling-supporters-to-get-vaccinated/3235914/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/politics/trump-booed-at-alabama-rally-after-telling-supporters-to-get-vaccinated/3235914/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/trump-booed-at-alabama-rally-after-telling-supporters-to-get-vaccinated/3235914/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 75
+    images:
+      - url: "https://media.nbcnewyork.com/2021/08/GettyImages-1335520712.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump To Be Reinstated As President Before 2022, Lindell Predicts"
     excerpt: "Former President Donald Trump may be reinstated to the presidential seat before 2022, a close ally has predicted. During Trump’s rally in Cullman, Alabama, on Saturday, MyPillow CEO Mike Lindell predicted that Trump would be reinstated before the end of the year."
     publishedDateTime: 2021-08-23T02:23:00Z

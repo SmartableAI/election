@@ -2,6 +2,110 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-07-11-new-january-6-bodycam-videos-show-police-trying-to-help-a-trampled-trump-supporter-being-brutally-beaten-with-flagpoles-and-batons-by-mob.md",
+      "title": "New January 6 bodycam videos show police trying to help a trampled Trump supporter being brutally beaten with flagpoles and batons by mob",
+      "excerpt": "New video footage from police bodycams released Friday of the January 6 Washington riot shows officers dragged into a mob and beaten.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/january-6-bodycam-videos-shows-police-dragged-beaten-with-weapons-2021-7",
+      "originalUrl": "https://www.businessinsider.com/january-6-bodycam-videos-shows-police-dragged-beaten-with-weapons-2021-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60eab3b861b8600019f1680f?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/january-6-bodycam-videos-shows-police-dragged-beaten-with-weapons-2021-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/january-6-bodycam-videos-shows-police-dragged-beaten-with-weapons-2021-7?amp",
+      "publishedDateTime": "2021-07-11T04:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-11-sean-penn-criticises-donald-trumps-handling-of-coronavirus-pandemic-video.md",
+      "title": "Sean Penn criticises Donald Trump's handling of coronavirus pandemic – video",
+      "excerpt": "Speaking at a press conference following the premiere of his new film, Flag Day, Penn said: “It felt like someone with a machine gun gunning down communities that were most vulnerable from a turret at the White House.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/film/video/2021/jul/11/sean-penn-criticises-donald-trumps-handling-of-coronavirus-pandemic-video",
+      "originalUrl": "https://www.theguardian.com/film/video/2021/jul/11/sean-penn-criticises-donald-trumps-handling-of-coronavirus-pandemic-video",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/0d7f43e7c5cfa5afc9f8dab4391793fd37ad9c13/0_170_5096_3057/master/5096.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=92ff2bbcee6c8ab9f387b1c5a923c4ff",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-11T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-11-donald-trump-celebrities-take-in-ufc-264-dustin-poirier-vs-conor-mcgregor-3.md",
       "title": "Donald Trump, celebrities take in UFC 264: Dustin Poirier vs. Conor McGregor 3",
       "excerpt": "A long list of celebrities made their way to T-Mobile Arena on Saturday night for what has been dubbed, \"the biggest fight of the year.\"",
@@ -1408,110 +1512,6 @@
       "ampWebUrl": "https://www.newsweek.com/trump-endorsed-greg-abbott-gets-gop-challenger-texas-governor-who-allen-west-1606758?amp=1",
       "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-endorsed-greg-abbott-gets-gop-challenger-texas-governor-who-allen-west-1606758?amp=1",
       "publishedDateTime": "2021-07-04T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-clyburn-trump-could-be-called-to-testify-before-jan-6-panel.md",
-      "title": "Clyburn: Trump could be called to testify before Jan. 6 panel",
-      "excerpt": "House Majority Whip James Clyburn (D-S.C.) said Sunday that former President Trump could be called to testify before the new House select committee investigating the Jan.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/house/561534-clyburn-trump-could-be-called-to-testify-before-capitol-riot-panel",
-      "originalUrl": "https://thehill.com/homenews/house/561534-clyburn-trump-could-be-called-to-testify-before-capitol-riot-panel",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/clyburnjames_061721gn_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/house/561534-clyburn-trump-could-be-called-to-testify-before-capitol-riot-panel?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/561534-clyburn-trump-could-be-called-to-testify-before-capitol-riot-panel?amp",
-      "publishedDateTime": "2021-07-04T12:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-mike-lindell-promises-cyber-symposium-on-election-fraud-will-change-history-reinstate-trump.md",
-      "title": "Mike Lindell Promises 'Cyber Symposium' on Election Fraud Will 'Change History,' Reinstate Trump",
-      "excerpt": "\"These three days in August are gonna change history…you can't change these packet captures, they're forever captured in time.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mike-lindell-promises-cyber-symposium-election-fraud-will-change-history-reinstate-trump-1606755",
-      "originalUrl": "https://www.newsweek.com/mike-lindell-promises-cyber-symposium-election-fraud-will-change-history-reinstate-trump-1606755",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1837447/mike-lindell.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mike-lindell-promises-cyber-symposium-election-fraud-will-change-history-reinstate-trump-1606755?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-lindell-promises-cyber-symposium-election-fraud-will-change-history-reinstate-trump-1606755?amp=1",
-      "publishedDateTime": "2021-07-04T12:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Newsweek",

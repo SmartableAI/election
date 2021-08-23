@@ -87,6 +87,20 @@ related:
         width: 685
         height: 385
         isCached: true
+  - title: "Trump’s Border Wall Torn Apart by Monsoon Rains"
+    excerpt: "Gizmodo: “It turns out ignoring bedrock environmental laws may not have been the best choice for a multibillion-dollar construction project.” “Photos show former President Donald Trump’s border wall in deep disrepair after summer monsoon rains literally blew floodgates off their hinges."
+    publishedDateTime: 2021-08-23T16:56:00Z
+    webUrl: "https://politicalwire.com/2021/08/23/trumps-border-wall-torn-apart-by-monsoon-rains/"
+    type: article
+    provider:
+      name: Political Wire
+      domain: politicalwire.com
+    quality: 55
+    images:
+      - url: "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg"
+        width: 1400
+        height: 1400
+        isCached: true
 
 secured: "0/DEZinOugkpbVJ0PDi+52R4I/iMVKeyzqSGbGZ043/CTKqAl9Bz+yNH3szxLwVBIFYMviDJyvkbeXAqGry8V6aTxBD1uoHNK5/ZonZ3/v0mNkjWNnCa4Lf+ySY+XzwL3rrITDqtTr1Bur+2odRA+4eFsYmZqg1W+BIgpRzYzz9sQUjcntbIkKztnd8Umex2mIyDpafu9wMhZK6Bi8A9XD/MgnudpoWET7LmCDPOu9Ps14/2ItVo/wWKCNa2nobUK8l5JhuZG092w9rUtuP/kcVCE7681A9bzqIYxcmD5FjawjSOg/frhkY0cdQOhFKbvBMtlMnucNkIqtT1c2S/2f6atj9QMWXehxQqq+Rk7Yw+LCFc7qHd1q36jvncVJmWCeoByjT03aahxidU117WyWHXMElWM+2L7M4gK9gP3ESeOBQsLnOtu8z/+DqW52mf/n8NZonvlFfMBK/ILWyxq4HZEyrXIzWy9xfb0jZACGtkzimMs6fQHhSJFiNGOfET0QgnYhp+YlXMmt9oWL63Mg==;j6nKhiAZsdlIiZ6zM8x29A=="
 ---

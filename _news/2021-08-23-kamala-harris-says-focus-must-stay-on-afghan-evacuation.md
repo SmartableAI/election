@@ -171,22 +171,6 @@ related:
         width: 400
         height: 266
         isCached: true
-  - title: "Kamala Harris visits Singapore to deepen ties, counter China’s influence"
-    excerpt: "U.S. Vice President Kamala Harris will meet Singapore’s leaders on Monday on the first working day of a trip to Southeast Asia aimed at bolstering ties as part of Washington’s efforts to counter China’s growing influence."
-    publishedDateTime: 2021-08-23T00:48:00Z
-    webUrl: "https://www.metro.us/kamala-harris-visits-singapore/"
-    ampWebUrl: "https://www.metro.us/kamala-harris-visits-singapore/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/kamala-harris-visits-singapore/amp/"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
-    quality: 74
-    images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTopNews/tagreuters.com2021binary_LYNXMPEH7M04M-BASEIMAGE.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "During Singapore visit, VP Kamala Harris says U.S. focus is on Afghanistan"
     excerpt: "U.S. Vice President Kamala Harris said during a visit to Singapore on Monday that President Joe Biden's administration is focused on getting the remaining American citizens and Afghan aides out of Afghanistan."
     publishedDateTime: 2021-08-23T12:15:00Z
@@ -334,6 +318,17 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Kamala Harris Visits Singapore to Deepen Ties, Counter China's Influence"
+    excerpt: "U.S. Vice President Kamala Harris will meet Singapore's leaders on Monday on the first working day of a trip to Southeast Asia aimed at bolstering ties as part of Washington's efforts to counter China's growing influence."
+    publishedDateTime: 2021-08-22T22:05:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-08-22/kamala-harris-visits-singapore-to-deepen-ties-counter-chinas-influence"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-08-22/kamala-harris-visits-singapore-to-deepen-ties-counter-chinas-influence?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-08-22/kamala-harris-visits-singapore-to-deepen-ties-counter-chinas-influence?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 54
   - title: "Kamala Harris visits Singapore to deepen ties and counter China's influence"
     excerpt: "US Vice President Kamala Harris will meet Singapore's leaders on Monday on the first working day of a trip to Southeast Asia aimed at bolstering ties as part of Washington's efforts to counter China's growing influence."
     publishedDateTime: 2021-08-23T00:52:00Z

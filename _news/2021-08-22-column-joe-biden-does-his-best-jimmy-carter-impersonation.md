@@ -161,21 +161,21 @@ related:
         width: 1024
         height: 1545
         isCached: true
-  - title: "Biden Says US-Led Evacuation from Kabul is Accelerating"
-    excerpt: "President Joe Biden said Sunday the U.S.-led evacuation of Americans, at-risk Afghans and others from the Kabul airport picked up speed this weekend, although it remains vulnerable to threats posed by the Islamic State extremist group."
-    publishedDateTime: 2021-08-23T05:57:00Z
-    webUrl: "https://www.nbcphiladelphia.com/news/national-international/biden-says-us-led-evacuation-from-kabul-is-accelerating/2934776/"
-    ampWebUrl: "https://www.nbcphiladelphia.com/news/national-international/biden-says-us-led-evacuation-from-kabul-is-accelerating/2934776/?amp"
-    cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/national-international/biden-says-us-led-evacuation-from-kabul-is-accelerating/2934776/?amp"
+  - title: "Biden’s approval rating dips"
+    excerpt: "President Joe Biden’s approval ratings dropped below 50% for the first time since he’s taken office, according to a new NBC News poll. The poll showed 49% of U.S. adults approved of the job Biden was doing compared to 48% who did not."
+    publishedDateTime: 2021-08-23T15:03:00Z
+    webUrl: "https://www.al.com/news/2021/08/bidens-approval-rating-dips.html"
+    ampWebUrl: "https://www.al.com/news/2021/08/bidens-approval-rating-dips.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/08/bidens-approval-rating-dips.html?outputType=amp"
     type: article
     provider:
-      name: NBC 10 Philadelphia
-      domain: nbcphiladelphia.com
+      name: al.com
+      domain: al.com
     quality: 75
     images:
-      - url: "https://media.nbcphiladelphia.com/2021/08/AP21234751863371.jpg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GCXMTA66D5G4LM6RBLLOCGVHPM.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "President Joe Biden says US-led evacuation from Kabul is accelerating"
     excerpt: "President Joe Biden said Sunday the U.S.-led evacuation of Americans, at-risk Afghans and others from the Kabul airport accelerated this weekend, although it remains vulnerable to threats posed by the Islamic State extremist group."
@@ -193,6 +193,38 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Varney: Is Biden up for the job?"
+    excerpt: "FOX Business’ Stuart Varney discusses Biden’s ability to handle multiple crises following his subpar performances in the media and handling of the Afghanistan exit."
+    publishedDateTime: 2021-08-23T15:32:00Z
+    webUrl: "https://www.foxbusiness.com/varney-co/varney-is-biden-up-for-the-job"
+    ampWebUrl: "https://www.foxbusiness.com/varney-co/varney-is-biden-up-for-the-job.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/varney-co/varney-is-biden-up-for-the-job.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 75
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/79737660-4001-4587-9071-8e197beb4396/05f4de6f-6ed1-4c42-9d6d-1845e57b1177/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden to speak after FDA gives full approval to Pfizer COVID-19 vaccine"
+    excerpt: "The FDA has never before had so much evidence to judge a shot’s safety. More than 200 million doses already have been administered in the U.S."
+    publishedDateTime: 2021-08-23T17:32:00Z
+    webUrl: "https://www.firstcoastnews.com/article/news/health/coronavirus/vaccine/us-regulators-full-approval-pfizer-covid-vaccine/507-02559f13-8bb7-4d3e-9097-dd899b295088"
+    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/health/coronavirus/vaccine/us-regulators-full-approval-pfizer-covid-vaccine/507-02559f13-8bb7-4d3e-9097-dd899b295088"
+    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/health/coronavirus/vaccine/us-regulators-full-approval-pfizer-covid-vaccine/507-02559f13-8bb7-4d3e-9097-dd899b295088"
+    type: article
+    provider:
+      name: First Coast News
+      domain: firstcoastnews.com
+    quality: 75
+    images:
+      - url: "https://media.firstcoastnews.com/assets/WOI/images/335069f2-4a45-41ef-93dc-9fff1bb4f1f8/335069f2-4a45-41ef-93dc-9fff1bb4f1f8_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Joe Biden goes on HOLIDAY again! POTUS has worked for only 4 days during Afghan fiasco"
     excerpt: "Biden has worked only four days out of the last 15, ever since the Taliban captured their first regional capital"
     publishedDateTime: 2021-08-21T10:05:00Z
@@ -208,6 +240,22 @@ related:
       - url: "https://cheesecake.articleassets.meaww.com/545963/uploads/b255a2d0-0262-11ec-825b-8bf8cf07839e_800_420.jpeg"
         width: 800
         height: 420
+        isCached: true
+  - title: "President Joe Biden’s approval rating dips to new lows amid COVID delta surge, polls show"
+    excerpt: "An NBC News poll showed his approval rating at 49%, a four-point drop since April just as the percentage of respondents who disapproved jumped by nine points, from 39% to 48%. The latest polls follow bipartisan critique of the Biden administration’s handling of the U."
+    publishedDateTime: 2021-08-23T14:23:00Z
+    webUrl: "https://www.masslive.com/politics/2021/08/president-joe-bidens-approval-rating-dips-to-new-lows-amid-covid-delta-surge-polls-show.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/08/president-joe-bidens-approval-rating-dips-to-new-lows-amid-covid-delta-surge-polls-show.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/08/president-joe-bidens-approval-rating-dips-to-new-lows-amid-covid-delta-surge-polls-show.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 66
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/77S5UANDRZCYNJDLVROG43MVSY.jpg"
+        width: 5438
+        height: 3625
         isCached: true
   - title: "Biden to reopen public comment on TennCare block grant"
     excerpt: "President Joe Biden's administration says it will keep a drastic overhaul of Tennessee's Medicaid program in place while it seeks more public comment and considers what to do with the plan approved under former President Donald Trump."
@@ -346,6 +394,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden says US-led evacuation from Kabul is accelerating"
+    excerpt: "President Joe Biden says the U.S.-led evacuation of Americans, at-risk Afghans and others from the Kabul airport has picked up speed this weekend."
+    publishedDateTime: 2021-08-23T15:54:00Z
+    webUrl: "https://www.sunherald.com/news/politics-government/national-politics/article253669753.html"
+    ampWebUrl: "https://amp.sunherald.com/news/politics-government/national-politics/article253669753.html"
+    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/politics-government/national-politics/article253669753.html"
+    type: article
+    provider:
+      name: Biloxi Sun Herald
+      domain: sunherald.com
+    quality: 55
   - title: "Kabul Evacuation Numbers to Fluctuate, Biden Says"
     excerpt: "The number of people evacuated from Kabul will change from day to day, President Joe Biden said in a televised address Sunday, depending on specific conditions and safety of the day. Earlier Sunday, the White House said the U."
     publishedDateTime: 2021-08-22T21:34:00Z

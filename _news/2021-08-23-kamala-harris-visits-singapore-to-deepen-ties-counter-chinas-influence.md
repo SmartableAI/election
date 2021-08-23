@@ -1,30 +1,28 @@
 ---
 category: news
-title: "Kamala Harris visits Singapore to deepen ties, counter China’s influence"
-excerpt: "U.S. Vice President Kamala Harris will meet Singapore’s leaders on Monday on the first working day of a trip to Southeast Asia aimed at bolstering ties as part of Washington’s efforts to counter China’s growing influence."
-publishedDateTime: 2021-08-23T00:48:00Z
-originalUrl: "https://www.metro.us/kamala-harris-visits-singapore/"
-webUrl: "https://www.metro.us/kamala-harris-visits-singapore/"
-ampWebUrl: "https://www.metro.us/kamala-harris-visits-singapore/amp/"
-cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/kamala-harris-visits-singapore/amp/"
+title: "Kamala Harris Visits Singapore to Deepen Ties, Counter China's Influence"
+excerpt: "U.S. Vice President Kamala Harris will meet Singapore's leaders on Monday on the first working day of a trip to Southeast Asia aimed at bolstering ties as part of Washington's efforts to counter China's growing influence."
+publishedDateTime: 2021-08-22T22:05:00Z
+originalUrl: "https://www.usnews.com/news/world/articles/2021-08-22/kamala-harris-visits-singapore-to-deepen-ties-counter-chinas-influence"
+webUrl: "https://www.usnews.com/news/world/articles/2021-08-22/kamala-harris-visits-singapore-to-deepen-ties-counter-chinas-influence"
+ampWebUrl: "https://www.usnews.com/news/world/articles/2021-08-22/kamala-harris-visits-singapore-to-deepen-ties-counter-chinas-influence?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-08-22/kamala-harris-visits-singapore-to-deepen-ties-counter-chinas-influence?context=amp"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Metro US
-  domain: metro.us
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
-
-images:
-  - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTopNews/tagreuters.com2021binary_LYNXMPEH7M04M-BASEIMAGE.jpg"
-    width: 800
-    height: 533
-    isCached: true
 
 related:
   - title: "Kamala Harris says focus must stay on Afghan evacuation"
@@ -435,6 +433,6 @@ related:
         height: 422
         isCached: true
 
-secured: "+sohCBz9EaxnQZQSUYCpHrE6G5hTCRop4LH8WCIVHo/BYwB/9bBlADuxfXl/dnbI0iHFr4AisrB88rjQBe2Q+0pwWdmpC0i/RAo0eIFNXscH8eEzAXWWjQHv2a5SK7gPs0lctEN4erqfUTRysgnE9RmO08j1XrJSdDRFWXwrATuCIk1qoQIA33nZhaURoTqwDWt+CSNVRnBIAvcJYXBpRwGVAr9iDwaiQ8HtxhT+CyqTdGkbVscJLrU9b852eM+R05LyJLjmqZNjcp3Tp+mHZK0QymegIHs+j5PBUO+KM1FOo5VeMVcKArWzChk/v8Y2y0Y8VXvYxWcyC5aXEdD4h7IS92qKeBHzotJqg3b5rCo=;cyxdXntE6obyi96HalxyUw=="
+secured: "XUX8SwePcchWfVHYIgrHBriAMnNgSou9haoe69IWd0226A6PcVtrqTG0KgUxeKR9fOikd0rle3Tm5gu8otsY7QaNncQ05bcFYik8Y72DRYb+hGv7cYw5KULdh6M2+5IUnNT3TZ0MpjYm5D7sRw3O///JQEQP+fiyr6UARb7xrZdm5Svp/Ag+PnPTlvCQ6+BJ7RQZv/28U8Zsf88GiRbltSOtCloebud9sThwGHx+MRRe5yXGlFVwbdVf1/xinFLG/B4bG9rP4aao/1tPa/ED/Vljmx+iDcXgoMPn6pZWnWPwGNRPO98zErZgPyE+L2l2LzgWCwEaIBqMCXFWv2hyKKfyDv5c5jFM/giR2LBH/xYbDxL+jufyskCqNKqwJfncsDjvqlD7RDpnjXwejWU72QLmDNI2UaAjX6FOtEVYzGJrxiqqKSVSNGDYGOJ+T5kZfS/WMZVdoPiV8up85sUw+dJfMtvuCESqvEBFvNuiA4jsLiQcAGMQ6RbTC5dxEFCfFjSUByt7cFecIXyw3SQoAQ==;FLZZ1qnFhdTBimo/i7viFQ=="
 ---
 

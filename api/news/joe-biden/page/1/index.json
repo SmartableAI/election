@@ -2,6 +2,106 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-24-thiessen-biden-handed-terrorists-a-safe-haven-to-plan-attacks-worse-than-911.md",
+      "title": "Thiessen: Biden handed terrorists a 'safe haven' to plan attacks worse than 9/11",
+      "excerpt": "Fox News contributor Marc Thiessen told “America's Newsroom” that Biden has given radical Islamic terrorists, including Al-Qaeda, the tools they need to conduct attacks potentially deadlier than 9/11.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/thiessen-biden-radical-islamic-terrorists-attacks",
+      "originalUrl": "https://www.foxnews.com/media/thiessen-biden-radical-islamic-terrorists-attacks",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/72b0dc02-682b-420e-84a4-3161e1992fac/f23f8b11-a3b8-49ec-a004-928df5eb9e2a/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/thiessen-biden-radical-islamic-terrorists-attacks.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/thiessen-biden-radical-islamic-terrorists-attacks.amp",
+      "publishedDateTime": "2021-08-23T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-23-budget-clash-pits-moderate-democrats-against-biden-pelosi.md",
+      "title": "Budget clash pits moderate Democrats against Biden, Pelosi",
+      "excerpt": "The moderates want Congress to quickly send the bipartisan infrastructure measure to President Biden so he can sign it",
+      "sourceUrl": null,
+      "webUrl": "https://www.cleveland.com/nation/2021/08/budget-clash-pits-moderate-democrats-against-biden-pelosi.html",
+      "originalUrl": "https://www.cleveland.com/nation/2021/08/budget-clash-pits-moderate-democrats-against-biden-pelosi.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AGDG7PYD6ZC7TIQFWCSZEP3KFA.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cleveland.com/nation/2021/08/budget-clash-pits-moderate-democrats-against-biden-pelosi.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/08/budget-clash-pits-moderate-democrats-against-biden-pelosi.html?outputType=amp",
+      "publishedDateTime": "2021-08-23T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cleveland.com",
+        "domain": "cleveland.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-23-donald-trump-gave-joe-biden-hospital-pass-on-afghanistan-says-tony-blairs-defense-secretary.md",
       "title": "Donald Trump Gave Joe Biden 'Hospital Pass' on Afghanistan, Says Tony Blair's Defense Secretary",
       "excerpt": "As Tony Blair criticizes Joe Biden's withdrawal of U.S. troops from Afghanistan, his former U.K. defense secretary Geoff Hoon defended the American president.",
@@ -10,7 +110,7 @@
       "originalUrl": "https://www.newsweek.com/donald-trump-gave-joe-biden-hospital-pass-afghanistan-tony-blair-defense-secretary-1621971",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1508,
+      "heat": 1528,
       "tags": null,
       "images": [
         {
@@ -362,7 +462,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot",
       "featuredContent": null,
       "highlight": null,
-      "heat": 665,
+      "heat": 745,
       "tags": null,
       "images": [
         {
@@ -518,7 +618,7 @@
       "originalUrl": "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis?page=with:block-611d91488f0865f6db860f9d",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 124,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1379,106 +1479,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-biden-covid-origin-investigation-expected-to-end-soon-charlotte-observer.md",
-      "title": "Biden COVID origin investigation expected to end soon | Charlotte Observer",
-      "excerpt": "A 90-day intelligence review into the origins of COVID-19 ordered by President Joe Biden is expected to end largely where it began, without high confidence in how the coronavirus first emerged, government officials told McClatchy. Biden will receive a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.charlotteobserver.com/news/coronavirus/article253365748.html",
-      "originalUrl": "https://www.charlotteobserver.com/news/coronavirus/article253365748.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557046001/12b39f35-3a05-423f-a838-37e72ee371d0/e503dd4e-6739-4b6c-8212-c4272a4fecad/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.charlotteobserver.com/news/coronavirus/article253365748.html",
-      "cdnAmpWebUrl": "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/coronavirus/article253365748.html",
-      "publishedDateTime": "2021-08-09T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Charlotte Observer",
-        "domain": "charlotteobserver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-07-rose-mcgowan-tears-into-alyssa-milano-joe-biden-times-up-ceo-amid-cuomo-scandal-your-time-is-up.md",
-      "title": "Rose McGowan tears into Alyssa Milano, Joe Biden, Time's Up CEO amid Cuomo scandal: 'Your time is up'",
-      "excerpt": "Rose McGowan ripped Alyssa Milano, Time's Up President Tina Tchen, and President Biden when referring to Andrew Cuomo's sex harassment scandal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/rose-mcgowan-slams-alyssa-milano-joe-biden-times-up-ceo-cuomo-sex-scandal",
-      "originalUrl": "https://www.foxnews.com/entertainment/rose-mcgowan-slams-alyssa-milano-joe-biden-times-up-ceo-cuomo-sex-scandal",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/720/405/cuomo-mcgowan-milano-getty.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/rose-mcgowan-slams-alyssa-milano-joe-biden-times-up-ceo-cuomo-sex-scandal.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/rose-mcgowan-slams-alyssa-milano-joe-biden-times-up-ceo-cuomo-sex-scandal.amp",
-      "publishedDateTime": "2021-08-07T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

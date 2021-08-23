@@ -30,51 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Harris heads to Southeast Asia in search of a foreign policy win amid Afghanistan crisis "
-    excerpt: "Vice President Kamala Harris faces a steep challenge next week when she travels to Singapore and Vietnam, as a once-low-risk trip to friendly nations comes at the same time as a bungled US withdrawal from Afghanistan.\n    \n"
-    publishedDateTime: 2021-08-20T09:20:10Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pd7DCnDigyE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/20/politics/kamala-harris-southeast-asia-trip-afghanistan/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/20/politics/kamala-harris-southeast-asia-trip-afghanistan/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 176
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210614180815-kamala-harris-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "GOP congressman places blame on Trump admin for crisis in Afghanistan: 'They set this up to fail'"
-    excerpt: "Republican Rep. Adam Kinzinger on Sunday placed blame on the Trump administration for the unfolding crisis in Afghanistan, saying its 2020 agreement with the Taliban sowed the seeds for the US' turbulent exit from the country.\n    \n"
-    publishedDateTime: 2021-08-22T15:45:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c3mqO2eRA2k/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/22/politics/adam-kinzinger-afghanistan-crisis-trump-administration-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/22/politics/adam-kinzinger-afghanistan-crisis-trump-administration-cnntv/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210711102931-adam-kinzinger-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Kamala Harris stresses Southeast Asia ties on an overseas trip, but the focus returns to Afghanistan."
-    excerpt: "Facing rising pressure over the United States’ haphazard withdrawal from Afghanistan, Vice President Kamala Harris said on Monday that the Biden administration was “singularly focused” on evacuating American citizens and Afghan allies."
-    publishedDateTime: 2021-08-23T09:45:00Z
-    webUrl: "https://www.nytimes.com/2021/08/23/world/asia/kamala-harris-stresses-southeast-asia-ties-on-an-overseas-trip-but-the-focus-returns-to-afghanistan.html"
-    ampWebUrl: "https://www.nytimes.com/2021/08/23/world/asia/kamala-harris-stresses-southeast-asia-ties-on-an-overseas-trip-but-the-focus-returns-to-afghanistan.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/23/world/asia/kamala-harris-stresses-southeast-asia-ties-on-an-overseas-trip-but-the-focus-returns-to-afghanistan.amp.html"
+  - title: "Kamala Harris invites business leaders to the White House to discuss child care."
+    excerpt: "Executives from companies like Airbnb, Chobani, Etsy and Microsoft were invited in an effort to drum up support for a key pillar of President Biden's $3.5 trillion budget."
+    publishedDateTime: 2021-08-12T08:25:00Z
+    webUrl: "https://www.nytimes.com/2021/08/12/business/kamala-harris-child-care-business.html"
+    ampWebUrl: "https://www.nytimes.com/2021/08/12/business/kamala-harris-child-care-business.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/12/business/kamala-harris-child-care-business.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 120
+    quality: 130
     images:
-      - url: "https://static01.nyt.com/images/2021/08/23/world/23-afghanistan-briefing-KamalainSingapor-02/23-afghanistan-briefing-KamalainSingapor-02-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/08/12/business/12econ-brf-whitehouse/12econ-brf-whitehouse-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

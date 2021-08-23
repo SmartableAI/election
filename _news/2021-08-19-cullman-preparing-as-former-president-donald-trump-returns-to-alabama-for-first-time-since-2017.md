@@ -75,22 +75,6 @@ related:
         width: 1280
         height: 712
         isCached: true
-  - title: "Former President Trump briefly booed by crowd for suggesting getting vaccines"
-    excerpt: "\"I recommend take the vaccines. I did it. It's good,\" Trump said before boos erupted from the crowd. \"You got your freedoms,\" he added."
-    publishedDateTime: 2021-08-23T11:20:00Z
-    webUrl: "https://www.wtsp.com/article/news/health/coronavirus/vaccine/trump-alabama-rally-booed-vaccines/67-7a54287c-9ee7-4c67-a4cd-6f1b6c6f1654"
-    ampWebUrl: "https://www.wtsp.com/amp/article/news/health/coronavirus/vaccine/trump-alabama-rally-booed-vaccines/67-7a54287c-9ee7-4c67-a4cd-6f1b6c6f1654"
-    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/health/coronavirus/vaccine/trump-alabama-rally-booed-vaccines/67-7a54287c-9ee7-4c67-a4cd-6f1b6c6f1654"
-    type: article
-    provider:
-      name: WTSP
-      domain: wtsp.com
-    quality: 72
-    images:
-      - url: "https://media.wtsp.com/assets/WTSP/images/52d0def6-70a3-4190-844d-eaba15b698b2/52d0def6-70a3-4190-844d-eaba15b698b2_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Mo Brooks, Tommy Tuberville to speak at Donald Trump’s Alabama rally in Cullman"
     excerpt: "The former president will hold a rally at York Family Farms six years to the day after his first big campaign rally in Mobile."
     publishedDateTime: 2021-08-21T01:41:00Z
@@ -139,6 +123,22 @@ related:
         width: 6000
         height: 4000
         isCached: true
+  - title: "Donald Trump booed at Alabama rally after telling supporters to 'take the vaccines'"
+    excerpt: "Amid the state's low vaccination rate, former President Donald Trump told a rally to go get vaccinated against COVID-19, which some booed."
+    publishedDateTime: 2021-08-23T12:29:00Z
+    webUrl: "https://www.statesman.com/story/news/politics/2021/08/23/donald-trump-tells-alabama-rally-covid-19-vaccine-gets-booed/8237487002/"
+    ampWebUrl: "https://amp.statesman.com/amp/8237487002"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8237487002"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 69
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/22/USAT/9aef22b6-661a-487a-9438-89b679f37137-GTY_1335520712.jpg?auto=webp&crop=3688,2075,x0,y187&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "‘Take the vaccines!’ Donald Trump booed at Save America rally in Alabama over Covid jabs"
     excerpt: "DONALD TRUMP's comments on taking a dose of the COVID-19 vaccine were met with a chorus of boos by his supporters at his Save America rally in Alabama."
     publishedDateTime: 2021-08-22T23:31:00Z
@@ -154,6 +154,22 @@ related:
       - url: "https://cdn.images.express.co.uk/img/dynamic/78/590x/Donald-Trump-in-Alabama-1480402.jpg?r=1629675071384"
         width: 590
         height: 350
+        isCached: true
+  - title: "Donald Trump Gets Booed For Advocating COVID-19 Vaccine At 'Save America' Rally In Alabama"
+    excerpt: "Donald Trump gets booed for advocating COVID-19 vaccine at the 'Save America' rally in Alabama, he said the vaccine is good and I recommend everyone to take it."
+    publishedDateTime: 2021-08-23T15:10:00Z
+    webUrl: "https://www.republicworld.com/world-news/us-news/donald-trump-gets-booed-for-advocating-covid-19-vaccine-at-save-america-rally-in-alabama.html"
+    ampWebUrl: "https://www.republicworld.com/amp/world-news/us-news/donald-trump-gets-booed-for-advocating-covid-19-vaccine-at-save-america-rally-in-alabama.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/world-news/us-news/donald-trump-gets-booed-for-advocating-covid-19-vaccine-at-save-america-rally-in-alabama.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 65
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/khkqnijncl9jjr6i_1629729085.jpeg"
+        width: 768
+        height: 439
         isCached: true
   - title: "Cullman preparing as former President Donald Trump returns to Alabama for first time since 2017"
     excerpt: "Saturday is going to be the first time former President Donald Trump is back in Alabama since 2017. There's a Trump Rally going on this weekend in Cullman and it's expected to bring out thousands of people."
@@ -171,19 +187,21 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Former President Donald Trump briefly booed by crowd for suggesting getting vaccines"
-    excerpt: "\"I recommend take the vaccines. I did it. It's good,\" Trump said before boos came from the crowd. \"You've got your freedoms,\" he added."
-    publishedDateTime: 2021-08-23T10:19:00Z
-    webUrl: "https://www.wtsp.com/video/news/health/coronavirus/vaccine/trump-booed-alabama-rally/67-804b44ee-a845-4d26-85e1-2eae6e0e2ae4"
+  - title: "Trump Alabama rally updates – Don ‘BOOED by own fans’ for telling them to get vaccinated after bashing ‘woke’ culture"
+    excerpt: "DONALD Trump was booed by his own fans at his Alabama rally on Saturday for telling them to get vaccinated after slamming “woke” culture. Former President Trump’s rally was held"
+    publishedDateTime: 2021-08-23T16:31:00Z
+    webUrl: "https://www.the-sun.com/news/3516399/donald-trump-rally-tonight-alabama-what-time-live-stream/"
+    ampWebUrl: "https://www.the-sun.com/news/3516399/donald-trump-rally-tonight-alabama-what-time-live-stream/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3516399/donald-trump-rally-tonight-alabama-what-time-live-stream/amp/"
     type: article
     provider:
-      name: WTSP
-      domain: wtsp.com
-    quality: 48
+      name: The Sun
+      domain: the-sun.com
+    quality: 52
     images:
-      - url: "https://media.wtsp.com/assets/WTSP/images/52d0def6-70a3-4190-844d-eaba15b698b2/52d0def6-70a3-4190-844d-eaba15b698b2_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/BB-TRUMP-ALABAMA-COMP.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Mark Z. Barabak: Debunking Trump's 'Big Lie,' scholars and statistics show the facts don't add up"
     excerpt: "In a recent survey of presidential scholars, President Donald Trump finished a dismal third from the bottom, just ahead of perennial duds James Buchanan and Andrew Johnson."

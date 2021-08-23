@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Afghanistan fallout engulfs Harris' first day of Southeast Asia trip"
+    excerpt: "Vice President Kamala Harris, undertaking a suddenly high-stakes visit to Southeast Asia this week amid the first major foreign policy crisis of the Biden administration, was on the receiving end of questions Monday about the US' withdrawal from Afghanistan for the first time since the chaotic fall of"
+    publishedDateTime: 2021-08-23T17:19:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/chh5Piu2id0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/23/politics/kamala-harris-singapore-afghanistan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/23/politics/kamala-harris-singapore-afghanistan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210823025658-03-harris-singapore-0822-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Harris heads to Southeast Asia in search of a foreign policy win amid Afghanistan crisis "
     excerpt: "Vice President Kamala Harris faces a steep challenge next week when she travels to Singapore and Vietnam, as a once-low-risk trip to friendly nations comes at the same time as a bungled US withdrawal from Afghanistan.\n    \n"
     publishedDateTime: 2021-08-20T09:20:10Z
@@ -48,37 +64,23 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "GOP congressman places blame on Trump admin for crisis in Afghanistan: 'They set this up to fail'"
-    excerpt: "Republican Rep. Adam Kinzinger on Sunday placed blame on the Trump administration for the unfolding crisis in Afghanistan, saying its 2020 agreement with the Taliban sowed the seeds for the US' turbulent exit from the country.\n    \n"
-    publishedDateTime: 2021-08-22T15:45:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c3mqO2eRA2k/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/22/politics/adam-kinzinger-afghanistan-crisis-trump-administration-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/22/politics/adam-kinzinger-afghanistan-crisis-trump-administration-cnntv/index.html"
+  - title: "Biden says U.S. may extend Afghanistan withdrawal deadline as evacuations continue"
+    excerpt: "President Joe Biden said Sunday that the U.S. was considering extending evacuation efforts beyond his Aug. 31 deadline to leave Afghanistan as he defended the administration's handling of the war's final days."
+    publishedDateTime: 2021-08-22T23:19:00Z
+    webUrl: "https://www.nbcnews.com/politics/joe-biden/biden-says-u-s-may-extend-afghanistan-withdrawal-deadline-evacuations-n1277414"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1277414"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1277414"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210711102931-adam-kinzinger-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "What the Vietnamese Will Ask Kamala Harris When She Visits"
-    excerpt: "Lecturing in Ho Chi Minh City recently, I learned how urgently bright young people there want to understand what’s happening here. Their future may depend on it."
-    publishedDateTime: 2021-08-16T18:00:00Z
-    webUrl: "https://washingtonmonthly.com/2021/08/16/what-the-vietnamese-will-ask-kamala-harris-when-she-visits/"
-    type: article
-    provider:
-      name: Washington Monthly
-      domain: washingtonmonthly.com
-    quality: 65
-    images:
-      - url: "http://kwtri4b8r0ep8ho61118ipob.wpengine.netdna-cdn.com/wp-content/uploads/2021/08/AP21222740818151-scaled.jpg"
-        width: 2048
-        height: 1366
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_33/3500850/210822-joe-biden-jm-1701.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
-secured: "ljPyDiz8Mzlnj1zDnfvYw7NSrmTBqAA4j/53XpuYTj7jB9HUIUIfPnMb1fQ6l3oBxAjbGIj605EpjuP5DvtTbPhnEkvFgpepyiUd2CtH8uzHBKaO6N22K/0XevE8rmJTBDfnFrBr7ECxtL5xu1WGTpwM4y+6jpgenbB3hYd9Ps/Rp/JNAatpsBD+ztYmS7nbVEIA6wcxL3bJXKDUGzklJwXff8xm3rLQehiABiR1tdvktnTXG/jeElExV6jaHTOVPOT9aBEYArBtj+IzVIeii7+CY1+yItyvDcDZaxRZzGrMV4c1b+pprturKXHHTZilVmuVhbm5yHzbCV4TZSUYw+gzAMDwQG7tPp3F3Lrw544=;ceEYlQpOsCtyUswBWgR30g=="
+secured: "5+ut8YTNhK0w2Tl6u/aZvtV49GM6KdqKE0tE6xNKUed7ScS1mDxv811pUpLg6bXOGVuS/BY02Co0mUd7dz7Hu0B46NOM0TNN38VMMD66WuafpaEGT/FRNNVKRdVlsgUTgLgw6hbXwFJtTfw2z/ghAxFRZFiMSHx9hRLdsbUXcEXZGyDYVj3ZIAjeh9ZitT9rpYdFrinPVQxh+VtdOuaNxMQUkixh8FjtxTesLRFGg5t9MKZQ4tnDMCMPsUkwOa7dh5XIwFWZZeVUdGQlJnWuo7hQlOZRK6q+ptX/zPFtdZZG5oBBL9Ieog8EiqDligtdWbxiVZvm0+ZLiecTk3uSqPkUQimRuk7c2VHrKmoItoRXuhmMHzNI3KNuXv9C9+AesDlU8TitVvD5zdUlVzVyigmSU6dAD6X8lsJFH/KbHLbkaTQldvT5xk4Jy8IQJCO2f2tk0JnWoDvtZWwsLkAWIDRmjC1ItN798Nib8TrYNbLXWDL33LzSde2neW+bFoYeIs5RoAVwGdGlZki62bF0LA==;LC/yV9/XlDbsLY5+AAU7hQ=="
 ---
 

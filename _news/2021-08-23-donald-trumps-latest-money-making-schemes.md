@@ -43,6 +43,22 @@ related:
         width: 3000
         height: 1985
         isCached: true
+  - title: "Matt Gaetz says Trump signed off on Gaetz and Marjorie Taylor Greene's campaign against Chris Christie, Nikki Haley, and other 'half-Trumpers'"
+    excerpt: "Gaetz, who's under federal investigation for alleged sex trafficking, says Trump likes that he and Greene are \"keeping the band in tune.\""
+    publishedDateTime: 2021-08-23T17:47:00Z
+    webUrl: "https://www.businessinsider.com/matt-gaetz-trump-endorsed-campaign-against-chris-christie-nikki-haley-2021-8"
+    ampWebUrl: "https://www.businessinsider.com/matt-gaetz-trump-endorsed-campaign-against-chris-christie-nikki-haley-2021-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/matt-gaetz-trump-endorsed-campaign-against-chris-christie-nikki-haley-2021-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/6123bfe64932030018457553?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "What happened when Ruby Wax met Donald Trump?"
     excerpt: "COMEDIAN Ruby Wax is taking a look back at some of her most iconic interviews from the 90s. On When Ruby Wax Met… the 63-year-old is revisiting a particularly disastrous interview she had"
     publishedDateTime: 2021-08-20T19:50:00Z
@@ -74,6 +90,20 @@ related:
       - url: "https://crooksandliars.com/files/primary_image/21/08/screen_shot_2021-08-22_at_3.09.17_pm.png"
         width: 1310
         height: 732
+        isCached: true
+  - title: "Trump border wall damaged by heavy flooding"
+    excerpt: "Severe weather in southern Arizona appears to have damaged parts of the border wall erected by the Trump A The Tucson Sentinel reports that U.S. Customs and Border Protection agents have confirmed “historic” flooding at the nation’s border with Mexico is to blame for the destruction."
+    publishedDateTime: 2021-08-23T16:49:00Z
+    webUrl: "https://www.unionleader.com/news/weather/trump-border-wall-damaged-by-heavy-flooding/article_69da52ad-ee63-591f-81ba-61cd04a22129.html"
+    type: article
+    provider:
+      name: New Hampshire Union Leader
+      domain: unionleader.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/2/d9/2d9ee749-a144-59f9-ab8e-9a209399f7ce/6123d26da24a5.image.jpg?resize=1044%2C630"
+        width: 1044
+        height: 630
         isCached: true
 
 secured: "H5OD0jEeD0ekRvPpdJpctYZs8EaZPYy4KNDtYELbZ+cUVH7BSos9qvuAAkkZTuSSvJjlibwZk8/1auQRYiEj42BoDA6qMccrTI24rCKahNhR5zTXYa8ujVEDByQfm1nHv8HfNgD++z9PQc9D2UMz3U1wL0ertZQZPMEre+AgNEazH7OwV3p/EnVambg0n7w/zXHN2olO/a8d+aR3lkFdrg4K8lSFUefBSRknKgkc1cwparGaYORdpV6ACh+6XOgqI06zouHkUUQZFvl3RvqSYFH9dJTTFdg0PgWsAlLjbSibMj0s+B84XsTghdzQKZl/VyoFA8VNyrngKJRyZPtwgR2aypStKeoiSvuPxdcLv/eIUhhdxcC4E3ljNi6IK8plyUJQd7tZ142c7rmvPeyqqZ8WbtBQOZ+hR3Jq7S/VfUnEKavyoHgUPNFPUq3purVhIzJKIWCnwgKybb2SZpBwvrj4hgErT5regR99LqJsDn41/C7QrRres+huE+jmixkbImngUbZX5vE5vYjYSmTyyA==;R6tCja/2auM5MeWLhguXJw=="

@@ -57,6 +57,22 @@ related:
         width: 615
         height: 409
         isCached: true
+  - title: "Josh Duggar's Lawyers Trying To Get The Case Dismissed With A Donald Trump-Oriented Argument"
+    excerpt: "Josh Duggar’s legal team has been busy in recent weeks as the former 19 Kids and Counting’s star preps for trial. The eldest son of Jim Bob and Michelle Duggar was arrested on one count of receipt of child pornography and one count of possession of child pornography back in April."
+    publishedDateTime: 2021-08-23T16:49:00Z
+    webUrl: "https://www.cinemablend.com/television/2572395/josh-duggar-lawyer-case-dismissed-donald-trump-oriented-argument?pv=related_list"
+    ampWebUrl: "https://amp.cinemablend.com/television/2572395/josh-duggar-lawyer-case-dismissed-donald-trump-oriented-argument"
+    cdnAmpWebUrl: "https://amp-cinemablend-com.cdn.ampproject.org/c/s/amp.cinemablend.com/television/2572395/josh-duggar-lawyer-case-dismissed-donald-trump-oriented-argument"
+    type: article
+    provider:
+      name: Cinema Blend
+      domain: cinemablend.com
+    quality: 64
+    images:
+      - url: "https://img.cinemablend.com/quill/4/5/8/a/9/0/458a9063ffa8791c4da283f5ee12d513513c70e7.jpg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "How the Trump Tax Law Created a Loophole That Lets Top Executives Net Millions by Slashing Their Own Salaries"
     excerpt: "The 2017 tax cuts made it more attractive for certain company owners to be paid in profits instead of wages. Some cut their own wages, expanding a loophole that was already costing the U.S. billions."
     publishedDateTime: 2021-08-19T09:00:00Z
@@ -130,6 +146,6 @@ related:
         height: 1070
         isCached: true
 
-secured: "ZIgr4WWYKMlwU3xYMt5ymE/inhYzGBZRdGh5eMbTipFEhnNtkIdCqBKxzUahMqvklAQq8aNyUfkgO83dgApr0eDYudz5vTw7/wey+v1y5OVYZzbyY5ANC5v5x4UPE0O+nTPp65PFeISbk+1EKVmXmAF2p8Mv1G3EAQ9miJYtqM6V7/o+MrN/opQ/ffjygGOOfNj58hvOU/pkr1rcGg6HH5wzQO/zjnUdZEgHvhK6FUsW41s8bW6J0ZpxEL88+gwwTbPSh9vi2kbm6VZSlNqyTDoozAiK5+2+rBgtFjwKnJ6+Mxf5M8rl2uHTlhPP1AiPcSUKCtpQG85rIRiu+bVxQG0CofyvXsUvROO3K8FIfEs=;yK15vU9EUjzeWDtZQw2RiA=="
+secured: "q1eic+s8+Z/zSiWDoTC8Y+rvk6c330pI1HRCQpP6U6VpavhPk3dnS1tHvAIKcIo5kiTeuBzHzEA0ZeKJkLawf7rnx637NYXWapCZmG4+w/zd3ZxOS0t8+IPCSTilU6ENcToiNrXzzEx57uciJQvynBnQuG0ykfQcQDCkKb5Dp/Rmx2QIyFOLixkxZ4zif3e546NEFRUUXeU12F13Q7vcqAN0r27RfZl1Y/7Lxm1Fu7M3IBwCJ2QnO3DvEAs2d34pZj0lVYVjLI1v2xdZEDcIH01LfrgsBMJckf03ALJtHgBNfs8uT9P5DpHRbtZxaQ+kBE+bwPzOVFS28DpkgltNMMKSWLkBuXx3SnJhuDHIJhxCAsvtfitpCrlPykX8A3GDxO6Vy7l5dbkAoVaQxTK0w6pzwm3bppmuylcfndEJZMiX9n99km0FsSs+quaa730xVSauZ9hPAE8fieURgwuGACfdWvuwy3a583YELr2H+hUupqQCEPY1hrr2rcxSXRZDMscvQy7T/4bK6gEBy4Mixw==;534HB7kjUmq82ac9jw2w3w=="
 ---
 

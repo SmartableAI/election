@@ -64,6 +64,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Kamala Harris breaks silence on Afghanistan debacle as Singapore prime minister admits withdrawal went 'awry'"
+    excerpt: "Vice President Kamala Harris at last spoke publicly on what is happening in Afghanistan as Americans and Afghans try to exit the country due to the Taliban’s swift takeover, but she refused to weigh in on the U.S. government’s decision-making that led to the current situation."
+    publishedDateTime: 2021-08-23T14:09:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j2FFGeTPI0A/kamala-harris-afghanistan-singapore-prime-minister-withdrawal-went-awry"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-afghanistan-singapore-prime-minister-withdrawal-went-awry.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-afghanistan-singapore-prime-minister-withdrawal-went-awry.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Kamala Harris lands in Singapore for Asia visit that will include Vietnam stop"
     excerpt: "Vice President Kamala Harris landed in Singapore on Sunday as she begins a visit to Southeast Asia that will also include a stop in Vietnam."
     publishedDateTime: 2021-08-22T04:15:00Z

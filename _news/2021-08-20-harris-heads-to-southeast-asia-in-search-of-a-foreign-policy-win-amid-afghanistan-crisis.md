@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/20/politics/kamala-harris-southeast-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/20/politics/kamala-harris-southeast-asia-trip-afghanistan/index.html"
 type: article
 quality: 176
-heat: 236
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -32,21 +32,37 @@ images:
     isCached: true
 
 related:
-  - title: "GOP congressman places blame on Trump admin for crisis in Afghanistan: 'They set this up to fail'"
-    excerpt: "Republican Rep. Adam Kinzinger on Sunday placed blame on the Trump administration for the unfolding crisis in Afghanistan, saying its 2020 agreement with the Taliban sowed the seeds for the US' turbulent exit from the country.\n    \n"
-    publishedDateTime: 2021-08-22T15:45:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c3mqO2eRA2k/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/22/politics/adam-kinzinger-afghanistan-crisis-trump-administration-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/22/politics/adam-kinzinger-afghanistan-crisis-trump-administration-cnntv/index.html"
+  - title: "Afghanistan fallout engulfs Harris' first day of Southeast Asia trip"
+    excerpt: "Vice President Kamala Harris, undertaking a suddenly high-stakes visit to Southeast Asia this week amid the first major foreign policy crisis of the Biden administration, was on the receiving end of questions Monday about the US' withdrawal from Afghanistan for the first time since the chaotic fall of"
+    publishedDateTime: 2021-08-23T17:19:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/chh5Piu2id0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/23/politics/kamala-harris-singapore-afghanistan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/23/politics/kamala-harris-singapore-afghanistan/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 162
+    quality: 185
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210711102931-adam-kinzinger-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210823025658-03-harris-singapore-0822-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden says U.S. may extend Afghanistan withdrawal deadline as evacuations continue"
+    excerpt: "President Joe Biden said Sunday that the U.S. was considering extending evacuation efforts beyond his Aug. 31 deadline to leave Afghanistan as he defended the administration's handling of the war's final days."
+    publishedDateTime: 2021-08-22T23:19:00Z
+    webUrl: "https://www.nbcnews.com/politics/joe-biden/biden-says-u-s-may-extend-afghanistan-withdrawal-deadline-evacuations-n1277414"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1277414"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1277414"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_33/3500850/210822-joe-biden-jm-1701.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Kamala Harris stresses Southeast Asia ties on an overseas trip, but the focus returns to Afghanistan."
     excerpt: "Facing rising pressure over the United States’ haphazard withdrawal from Afghanistan, Vice President Kamala Harris said on Monday that the Biden administration was “singularly focused” on evacuating American citizens and Afghan allies."
@@ -63,20 +79,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/08/23/world/23-afghanistan-briefing-KamalainSingapor-02/23-afghanistan-briefing-KamalainSingapor-02-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "What the Vietnamese Will Ask Kamala Harris When She Visits"
-    excerpt: "Lecturing in Ho Chi Minh City recently, I learned how urgently bright young people there want to understand what’s happening here. Their future may depend on it."
-    publishedDateTime: 2021-08-16T18:00:00Z
-    webUrl: "https://washingtonmonthly.com/2021/08/16/what-the-vietnamese-will-ask-kamala-harris-when-she-visits/"
-    type: article
-    provider:
-      name: Washington Monthly
-      domain: washingtonmonthly.com
-    quality: 65
-    images:
-      - url: "http://kwtri4b8r0ep8ho61118ipob.wpengine.netdna-cdn.com/wp-content/uploads/2021/08/AP21222740818151-scaled.jpg"
-        width: 2048
-        height: 1366
         isCached: true
 
 secured: "uz20rLEfBRhDMJVghbBNpk6wxLmyY1Mg9vC0z8K3epF9f49M4CjMMZQvIkSqEHcB/X0GtO8ZY2uasyeaPgghB95ib5CuY3SdjCa8UzG5+lpsHfjlrCtjNnvKVoQFGYVCKrRDCJf5ATk9+f0tR38P3ogozV0/y/+krGBVOEXTAiAfPDi+prPXRchBAL76ao0nVdQuHrlfz5FwV/q3OECxBAcPzViYZWLoVl6F/rCXxXrItGyehTUSyWoUc7AhZmzhGGmiG774OReVdquSRZzf6s2F1LZ7wP40qxaVCGB7C0sSn4nDlndepDzKu08AH3ZsCt5Qpxg5mZv4gqWbUNkmzbZJ6zLyyj7Sk0Kc+QcgMy8=;1V0T7WfyTfkn755qobNohA=="
