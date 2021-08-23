@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/tv-and-radio/2021/aug/22/tv-tonight-ruby
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/tv-and-radio/2021/aug/22/tv-tonight-ruby-wax-revisits-her-time-with-donald-trump"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg"
         width: 1400
         height: 1400
+        isCached: true
+  - title: "Donald Trump fights war on wokeism with profanity from General Patton"
+    excerpt: "Donald Trump invoked the image of the Second World War general George S Patton to attack “wokeism” in the military at a rally in Alabama on Saturday.George"
+    publishedDateTime: 2021-08-22T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/donald-trump-fights-war-on-wokeism-with-profanity-from-general-patton-dcjhtrll3"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 55
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F4886a8cc-0389-11ec-b32f-641087520f21.jpg?crop=1280%2C720%2C0%2C0&resize=685"
+        width: 685
+        height: 385
         isCached: true
 
 secured: "hiND7L3YjCyepztl0GHbbxkwz4CcPXk4y5wEB/bVl/q3o7A1XHX3KDNnctKMlvi7yxrrqcmD8q4D3BAGdM5G9zPqZgEa/lrcAEKAlrUFfV9O5l77Rz47mYCtqQ7BdDrulvBNXOaRC6qg+IZ2QgvjVZ0f8M72+lWrNeak+SN10ivpp1RIAjNcwXUbq9MFX0zope9qirEYumsmgO3Hb2pv1xLlheXIeGDUkpoBiFjLWozDxqyGkc5Y5ewqlm4eXp0EZ86Do28cWE0ZiLFMw4e1QoelyfSMrrgst+WgjFCqa8c70O4lMp+q6W1rxv0eqdUhfLQ/BecyWMR1ebqgOqap0DUnRHVYCQ/w+hpMHUgHGoxmLFP8NYROIgTsgHu1loEXYNpweTBdzZ/Fh7Ve+K90uePNd4PfUGkHiWEYov4jd8Zn6sH8g8P3ImDiIDhHqmTsS48twTKMSs7tIJ3+TJm79Mk4jNlF44wMXxIMqtckHBVMVxcLo8/VdaL1XCSgSFrgdU9yZuOQs4AeCGWQLtuozQ==;bijbjpZnStTrW8ZlHP316g=="

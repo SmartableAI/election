@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-biden-resign-crisis-afghanist
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-resign-crisis-afghanistan.amp"
 type: article
 quality: 190
-heat: 1730
+heat: 1750
 published: true
 
 provider:
@@ -1190,6 +1190,22 @@ related:
     quality: 127
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9395538d-04e9-4b19-b816-bd3528f05f82/01ad1ecb-a563-43a5-a899-b578bc624bec/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden should 'step down in shame' for leaving Americans behind in Afghanistan: Lisa Boothe"
+    excerpt: "Fox News contributor Lisa Boothe called for President Biden's resignation during a fiery appearance on \"The Great Sunday Show\" where she accused his administration of endangering American lives abroad during the evacuation of U."
+    publishedDateTime: 2021-08-22T22:59:00Z
+    webUrl: "https://www.foxnews.com/media/biden-step-down-in-shame-afghanistan-lisa-boothe"
+    ampWebUrl: "https://www.foxnews.com/media/biden-step-down-in-shame-afghanistan-lisa-boothe.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-step-down-in-shame-afghanistan-lisa-boothe.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 125
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef7e8cac-6e1f-4b00-ae47-5dbf754fdd6c/dc1e029d-ce47-4a34-ab0a-90f8cfeb1226/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

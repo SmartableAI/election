@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Harris to meet with Singapore officials to begin Asia visit"
+    excerpt: "Vice President Kamala Harris will meet with Singapore’s president and prime minister as she kicks off a visit to Southeast Asia focused on strengthening ties with key allies in the region, a task complicated by the chaotic U."
+    publishedDateTime: 2021-08-22T23:39:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/Harris-to-meet-with-Singapore-officials-to-begin-16404362.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Harris-to-meet-with-Singapore-officials-to-begin-16404362.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Harris-to-meet-with-Singapore-officials-to-begin-16404362.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 125
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/44/06/21381516/3/400x0.jpg"
+        width: 400
+        height: 266
+        isCached: true
   - title: "Kamala Harris heads to Vietnam while Afghanistan images rekindle the past"
     excerpt: "White House officials did not anticipate the comparisons with Afghanistan when they charted Vice President Kamala Harris' trip to Vietnam."
     publishedDateTime: 2021-08-20T15:05:00Z
@@ -88,6 +104,22 @@ related:
       - url: "https://www.dw.com/static/stills/images/je/je20210609_ptc_chinoy05_image_1024x576_3.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "VP Kamala Harris to return to California to campaign for Newsom next week"
+    excerpt: "WASHINGTON — Vice President Kamala Harris will campaign for Gov. Gavin Newsom next week as the Democratic Party rallies around the California governor in his recall battle. The vice president and former California senator will visit her home state next ..."
+    publishedDateTime: 2021-08-20T14:09:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/VP-Kamala-Harris-to-return-to-California-to-16400277.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/VP-Kamala-Harris-to-return-to-California-to-16400277.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/VP-Kamala-Harris-to-return-to-California-to-16400277.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 74
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/42/32/21374623/3/400x0.jpg"
+        width: 400
+        height: 266
         isCached: true
   - title: "Kamala Harris' trip to Asia has new urgency amid collapse of Afghan government"
     excerpt: "The Taliban takeover of Afghanistan is giving new urgency to Vice President Kamala Harris' tour of southeast Asia, where she will attempt to reassure allies of American resolve following the chaotic end of a two-decade war."
@@ -177,22 +209,6 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--zAqJx0NW--/fl_relative%2Cg_south_east%2Cl_mediacorp:cna:watermark:2021-08:cna%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_338%2Cw_600/v1/mediacorp/cna/image/2021-08/us_vice_president_kamala_harris_arrives_in_singapore_1.jpg?itok=wQ1mVy0h"
         width: 600
         height: 338
-        isCached: true
-  - title: "Kamala Harris claims she had ‘key role’ in removing US troops from Afghanistan – but now silent since Taliban took power"
-    excerpt: "KAMALA Harris claimed she had a “key role” in removing US troops from Afghanistan – but is conveniently staying silent since the Taliban took control of the war-torn country. The"
-    publishedDateTime: 2021-08-16T19:49:00Z
-    webUrl: "https://www.the-sun.com/news/3485053/kamala-harris-key-role-removing-us-troops-afghanistan-taliban/"
-    ampWebUrl: "https://www.the-sun.com/news/3485053/kamala-harris-key-role-removing-us-troops-afghanistan-taliban/amp/"
-    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3485053/kamala-harris-key-role-removing-us-troops-afghanistan-taliban/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: the-sun.com
-    quality: 50
-    images:
-      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/TT_KamalaHarrisComp.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Kamala Harris to Tour Southeast Asia in Wake of Afghan Withdrawal; New Poll Indicates Lower Approval Rating"
     excerpt: "WASHINGTON – The Taliban takeover of Afghanistan has given new urgency to Vice President Kamala Harris’ tour of Southeast Asia, where she will attempt to reassure allies of American resolve following the chaotic end of a two-decade war, reported the ..."

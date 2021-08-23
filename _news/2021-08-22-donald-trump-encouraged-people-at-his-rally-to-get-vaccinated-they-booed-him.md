@@ -25,6 +25,38 @@ images:
     isCached: true
 
 related:
+  - title: "Donald Trump Booed At His Own Rally After Telling Everyone To Get Vaccinated"
+    excerpt: "But it was when he urged everyone to get vaccinated against the coronavirus that his followers turned on him. \"You know what? I believe totally in your freedoms, I do. You gotta do what you have to do,"
+    publishedDateTime: 2021-08-22T23:05:00Z
+    webUrl: "https://www.ladbible.com/news/latest-donald-trump-booed-at-rally-after-telling-everyone-to-get-vaccinated-20210822"
+    ampWebUrl: "https://www.ladbible.com/news/latest-donald-trump-booed-at-rally-after-telling-everyone-to-get-vaccinated-20210822.amp.html"
+    cdnAmpWebUrl: "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/news/latest-donald-trump-booed-at-rally-after-telling-everyone-to-get-vaccinated-20210822.amp.html"
+    type: article
+    provider:
+      name: LADbible
+      domain: ladbible.com
+    quality: 72
+    images:
+      - url: "https://www.ladbible.com/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fs3-images.ladbible.com%2Fs3%2Fcontent%2F7f479ab06122850e1403ec149fa32daf.png"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "Donald Trump gets booed at rally for encouraging his supporters to get Covid jab"
+    excerpt: "Nearly 40% of Republicans are still resistant to getting the Covid-19 vaccine or refuse to get it, a Public Religion Research Institute/Interfaith Youth Core poll recently found"
+    publishedDateTime: 2021-08-22T23:19:00Z
+    webUrl: "https://www.mirror.co.uk/news/us-news/donald-trump-gets-booed-rally-24815259"
+    ampWebUrl: "https://www.mirror.co.uk/news/us-news/donald-trump-gets-booed-rally-24815259.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/us-news/donald-trump-gets-booed-rally-24815259.amp"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 70
+    images:
+      - url: "https://i2-prod.mirror.co.uk/incoming/article24815279.ece/ALTERNATES/s615/0_Former-President-Trump-speaks-in-Alabama.jpg"
+        width: 615
+        height: 409
+        isCached: true
   - title: "How the Trump Tax Law Created a Loophole That Lets Top Executives Net Millions by Slashing Their Own Salaries"
     excerpt: "The 2017 tax cuts made it more attractive for certain company owners to be paid in profits instead of wages. Some cut their own wages, expanding a loophole that was already costing the U.S. billions."
     publishedDateTime: 2021-08-19T09:00:00Z
@@ -41,19 +73,19 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "LZ Granderson: Backing the blue takes a back seat to backing Trump"
-    excerpt: "Last week, former President Donald Trump ratcheted up his efforts to turn Ashli Babbitt, the insurrectionist who was slain in the U.S. Capitol on Jan. 6, into a martyr. He"
-    publishedDateTime: 2021-08-16T08:30:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/lz-granderson-backing-the-blue-takes-a-back-seat-to-backing-trump/article_b9510a27-f8f8-5c9b-bd91-5646dae4254d.html"
+  - title: "Illinois Democrats seek to project picture of unity, contrast to Rauner, Trump"
+    excerpt: "Ten months before Illinois’ 2022 primary elections, Democrats from across the state descended on the capital city for the annual political events that coincide with the Illinois State Fair as an election kickoff."
+    publishedDateTime: 2021-08-19T11:00:00Z
+    webUrl: "https://www.pantagraph.com/news/state-and-regional/govt-and-politics/illinois-democrats-seek-to-project-picture-of-unity-contrast-to-rauner-trump/article_2b467407-1734-5022-bbeb-e816f4a31784.html"
     type: article
     provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
-    quality: 55
+      name: The Pantagraph
+      domain: pantagraph.com
+    quality: 51
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
-        width: 1200
-        height: 630
+      - url: "https://bloximages.chicago2.vip.townnews.com/pantagraph.com/content/tncms/assets/v3/editorial/2/b4/2b467407-1734-5022-bbeb-e816f4a31784/611d992666964.preview.jpg?crop=1024%2C576%2C0%2C63&resize=1024%2C576&order=crop%2Cresize"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "YAxqbTdinVb9KrY4saOsiMwxMJCs0ablLHhxGJhxO2EsfX5UiHYETnV8fRhNucWKSb1t2GDif5zm84YCoMGTdoOrUofEvFstQx8WER0I8OT1TOua04+PTN1GxT0HseDv/EIYtchJllo3fxjqweR8WafMzonMVvFP6orO3KxYDSfwiZSWRkLRbCjPWxFwGRhNzm7IsfAnxD2Eh7BBXA+Yw7gJtGwm00A3Dkpogo0NmltI27FOP4If1ya01fo1BTbdzJJrj16wU8gxWGyn36KiDio0rWEWEibXSZXqVWUSOvUf73lAYMCNagtpUie17kspbzBbUXrRHNQIFinxi01G7Ih0NbD2+CrwrTcHJ46kfbPqVulb61+RfdtAJEZrL/g9TpIQV9PzYMc/BHTRFYEAGLA09M7pOLVst5vRp9QpO/bi6YJJP7YK6Z4f12ftRJMgmaC5NQ+qqCO9TT7TvMpWFH4lGPHxfBd7s9PbEcqaM/6rxl7t3AkkjG6sDe8kwipTIbZSvCPQ5FOtTphBJ1fMjg==;AiqdK3TqBcySpEeW7u1rpg=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.propublica.org/article/how-the-trump-tax-law-created-a-l
 cdnAmpWebUrl: "https://www-propublica-org.cdn.ampproject.org/c/s/www.propublica.org/article/how-the-trump-tax-law-created-a-loophole-that-lets-top-executives-net-millions-by-slashing-their-own-salaries/amp"
 type: article
 quality: 56
-heat: 96
-published: true
+heat: -1
+published: false
 
 provider:
   name: ProPublica
@@ -27,19 +27,51 @@ images:
     isCached: true
 
 related:
-  - title: "LZ Granderson: Backing the blue takes a back seat to backing Trump"
-    excerpt: "Last week, former President Donald Trump ratcheted up his efforts to turn Ashli Babbitt, the insurrectionist who was slain in the U.S. Capitol on Jan. 6, into a martyr. He"
-    publishedDateTime: 2021-08-16T08:30:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/lz-granderson-backing-the-blue-takes-a-back-seat-to-backing-trump/article_b9510a27-f8f8-5c9b-bd91-5646dae4254d.html"
+  - title: "Donald Trump Booed At His Own Rally After Telling Everyone To Get Vaccinated"
+    excerpt: "But it was when he urged everyone to get vaccinated against the coronavirus that his followers turned on him. \"You know what? I believe totally in your freedoms, I do. You gotta do what you have to do,"
+    publishedDateTime: 2021-08-22T23:05:00Z
+    webUrl: "https://www.ladbible.com/news/latest-donald-trump-booed-at-rally-after-telling-everyone-to-get-vaccinated-20210822"
+    ampWebUrl: "https://www.ladbible.com/news/latest-donald-trump-booed-at-rally-after-telling-everyone-to-get-vaccinated-20210822.amp.html"
+    cdnAmpWebUrl: "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/news/latest-donald-trump-booed-at-rally-after-telling-everyone-to-get-vaccinated-20210822.amp.html"
     type: article
     provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
-    quality: 55
+      name: LADbible
+      domain: ladbible.com
+    quality: 72
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+      - url: "https://www.ladbible.com/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fs3-images.ladbible.com%2Fs3%2Fcontent%2F7f479ab06122850e1403ec149fa32daf.png"
         width: 1200
-        height: 630
+        height: 674
+        isCached: true
+  - title: "Donald Trump gets booed at rally for encouraging his supporters to get Covid jab"
+    excerpt: "Nearly 40% of Republicans are still resistant to getting the Covid-19 vaccine or refuse to get it, a Public Religion Research Institute/Interfaith Youth Core poll recently found"
+    publishedDateTime: 2021-08-22T23:19:00Z
+    webUrl: "https://www.mirror.co.uk/news/us-news/donald-trump-gets-booed-rally-24815259"
+    ampWebUrl: "https://www.mirror.co.uk/news/us-news/donald-trump-gets-booed-rally-24815259.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/us-news/donald-trump-gets-booed-rally-24815259.amp"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 70
+    images:
+      - url: "https://i2-prod.mirror.co.uk/incoming/article24815279.ece/ALTERNATES/s615/0_Former-President-Trump-speaks-in-Alabama.jpg"
+        width: 615
+        height: 409
+        isCached: true
+  - title: "Illinois Democrats seek to project picture of unity, contrast to Rauner, Trump"
+    excerpt: "Ten months before Illinois’ 2022 primary elections, Democrats from across the state descended on the capital city for the annual political events that coincide with the Illinois State Fair as an election kickoff."
+    publishedDateTime: 2021-08-19T11:00:00Z
+    webUrl: "https://www.pantagraph.com/news/state-and-regional/govt-and-politics/illinois-democrats-seek-to-project-picture-of-unity-contrast-to-rauner-trump/article_2b467407-1734-5022-bbeb-e816f4a31784.html"
+    type: article
+    provider:
+      name: The Pantagraph
+      domain: pantagraph.com
+    quality: 51
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/pantagraph.com/content/tncms/assets/v3/editorial/2/b4/2b467407-1734-5022-bbeb-e816f4a31784/611d992666964.preview.jpg?crop=1024%2C576%2C0%2C63&resize=1024%2C576&order=crop%2Cresize"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Donald Trump Encouraged People at His Rally to Get Vaccinated. They Booed Him."
     excerpt: "According to a Trump adviser, the then-president and his wife, Melania, got the vaccine in January—a fact that wasn’t reported until March . 2) The rally brought thousands of people to York Family Farms in Cullman County,"

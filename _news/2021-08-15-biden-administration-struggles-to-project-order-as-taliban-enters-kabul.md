@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/15/politics/biden-administration-tal
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/15/politics/biden-administration-taliban-kabul-afghanistan/index.html"
 type: article
 quality: 175
-heat: 435
+heat: 455
 published: true
 
 provider:
@@ -238,6 +238,22 @@ related:
       - url: "https://static.politico.com/c3/8a/54ce2ab14f8d9278b296d85eb663/ap353665549628-1.jpg"
         width: 3000
         height: 2000
+        isCached: true
+  - title: "Biden says U.S. may extend Afghanistan withdrawal deadline as evacuations continue"
+    excerpt: "President Joe Biden said Sunday that the U.S. was considering extending evacuation efforts beyond his Aug. 31 deadline to leave Afghanistan as he defended the administration's handling of the war's final days."
+    publishedDateTime: 2021-08-22T23:19:00Z
+    webUrl: "https://www.nbcnews.com/politics/joe-biden/biden-says-u-s-may-extend-afghanistan-withdrawal-deadline-evacuations-n1277414"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1277414"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1277414"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_33/3500850/210822-joe-biden-jm-1701.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "/SqI6bT2Nu7rPVCEckKKhPo89dm1epXDWKA9FdhhfwYB8qnVQ0jxmHen3puGx8mespVJVPQAjUdYds/CyqoD30MS6cd4Ar995ehRrwUN8bOsmrHLLFW06zi37+sAjXhvQbAWqluA596qGuLQt0DNgK1TAUAvBwivHxQkpXCZB7HQxaUyh7N6iHPX7bMvPCCU8EZbhvyjtA0s4VsffypH0tTCT64FPjkAsYoShx/F5d2LRD1A0FFbLLI/f2M93rFsut1uM/CIC/OAouXbNgCm5SQfP7rMc6jEcQ2U/0I34BpLX7cD+s0WYTFjYf3/QjBtX18Z9hvoam6NkLfogRuN/LfDD1ga7FX+ANGzBUFS/+0=;sJRCfHc4G84BBBz7fsBT5g=="

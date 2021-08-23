@@ -2,28 +2,28 @@
 category: news
 title: "President Joe Biden says US-led evacuation from Kabul is accelerating"
 excerpt: "President Joe Biden said Sunday the U.S.-led evacuation of Americans, at-risk Afghans and others from the Kabul airport accelerated this weekend, although it remains vulnerable to threats posed by the Islamic State extremist group."
-publishedDateTime: 2021-08-22T19:00:00Z
-originalUrl: "https://ktar.com/story/4648004/president-joe-biden-says-us-led-evacuation-from-kabul-is-accelerating/"
-webUrl: "https://ktar.com/story/4648004/president-joe-biden-says-us-led-evacuation-from-kabul-is-accelerating/"
-ampWebUrl: "https://ktar.com/story/4648004/president-joe-biden-says-us-led-evacuation-from-kabul-is-accelerating/amp/"
-cdnAmpWebUrl: "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/4648004/president-joe-biden-says-us-led-evacuation-from-kabul-is-accelerating/amp/"
+publishedDateTime: 2021-08-22T21:53:00Z
+originalUrl: "https://chicago.suntimes.com/2021/8/22/22637052/president-joe-biden-says-us-led-evacuation-from-kabul-is-accelerating"
+webUrl: "https://chicago.suntimes.com/2021/8/22/22637052/president-joe-biden-says-us-led-evacuation-from-kabul-is-accelerating"
+ampWebUrl: "https://chicago.suntimes.com/platform/amp/2021/8/22/22637052/president-joe-biden-says-us-led-evacuation-from-kabul-is-accelerating"
+cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/8/22/22637052/president-joe-biden-says-us-led-evacuation-from-kabul-is-accelerating"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: KTAR News
-  domain: ktar.com
+  name: Chicago Sun-Times
+  domain: suntimes.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://ktar.com/wp-content/uploads/2021/08/ap_3c821833bc884628b4e55234f25086fb.jpg"
-    width: 1280
-    height: 853
+  - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -403,6 +403,6 @@ related:
       domain: tigerdroppings.com
     quality: 35
 
-secured: "zDJZlEklIrQpkzQKs4bTfqOEluiYPKcCRZfhEi400C+z0gnc1PUT+69SeqAW94UWpYfF3Flf6WFbdI9rV+7OqrN60O0DWTo7tyWxNnHENBsNNv5gMvKxEUS0OO94EiOHUYJp9WZZGz5YhHO6CYQ58qZ4uDvX+bs3+QnwCJ/Sogm2dm1AGYm3vIf8EmU3qyWV3Pir6oEWny+/tMpUKSJbqS9OVls249b/BU7BLaC6ZfWNmxwT3v0kGBKvET6JRQigpMMpgyeQsP+hZWwEQ/7asxAUsUCOBORhQIcLfqAAVrV9yLrMv7mCVTu5WhRHsFnpjsUe6D+mZQkEYmQPDImuhOMnsBlYBmc/3h4jhfER3tE=;+ODUA4aGykN1+W85ei7PGQ=="
+secured: "eioB8DhigtHaUZ4pX8Vk7weBBr1gggs+sKc9F6pylsMPCfEl88l/3KVOLxzNBOMBVaI0EpyAntTQmYc+79ulqAH6YczLe+qZwoQuASQDAZeQh5YwG0vQhE51M83BXY823fnOjUBN/Vrtda0c/hEJ02v+OuLjqtidbg91nCtLWsx2flxCDbWiX7/2ssZiJ4AKhww/qtEorgpm07a33nY/k85XvURhEwXdzFazo0Rkh6dK/4ilWc9JNYmHaQJsxGZk6Id1OQljbfap5EYPtEM8NwOtNaRekD5wo85iXvGSAZit6UR1mLxvZr8H0wS0eJ43VgHR88skQ07a2Loc/sWl6o0qnJ7522spOmzIYruCd9Y=;lIAQiLTfz821oCHrhRKNmA=="
 ---
 

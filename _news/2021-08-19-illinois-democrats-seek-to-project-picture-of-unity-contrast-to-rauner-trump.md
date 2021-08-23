@@ -7,7 +7,7 @@ originalUrl: "https://www.pantagraph.com/news/state-and-regional/govt-and-politi
 webUrl: "https://www.pantagraph.com/news/state-and-regional/govt-and-politics/illinois-democrats-seek-to-project-picture-of-unity-contrast-to-rauner-trump/article_2b467407-1734-5022-bbeb-e816f4a31784.html"
 type: article
 quality: 51
-heat: 51
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,70 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "Donald Trump Booed At His Own Rally After Telling Everyone To Get Vaccinated"
+    excerpt: "But it was when he urged everyone to get vaccinated against the coronavirus that his followers turned on him. \"You know what? I believe totally in your freedoms, I do. You gotta do what you have to do,"
+    publishedDateTime: 2021-08-22T23:05:00Z
+    webUrl: "https://www.ladbible.com/news/latest-donald-trump-booed-at-rally-after-telling-everyone-to-get-vaccinated-20210822"
+    ampWebUrl: "https://www.ladbible.com/news/latest-donald-trump-booed-at-rally-after-telling-everyone-to-get-vaccinated-20210822.amp.html"
+    cdnAmpWebUrl: "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/news/latest-donald-trump-booed-at-rally-after-telling-everyone-to-get-vaccinated-20210822.amp.html"
+    type: article
+    provider:
+      name: LADbible
+      domain: ladbible.com
+    quality: 72
+    images:
+      - url: "https://www.ladbible.com/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fs3-images.ladbible.com%2Fs3%2Fcontent%2F7f479ab06122850e1403ec149fa32daf.png"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "Donald Trump gets booed at rally for encouraging his supporters to get Covid jab"
+    excerpt: "Nearly 40% of Republicans are still resistant to getting the Covid-19 vaccine or refuse to get it, a Public Religion Research Institute/Interfaith Youth Core poll recently found"
+    publishedDateTime: 2021-08-22T23:19:00Z
+    webUrl: "https://www.mirror.co.uk/news/us-news/donald-trump-gets-booed-rally-24815259"
+    ampWebUrl: "https://www.mirror.co.uk/news/us-news/donald-trump-gets-booed-rally-24815259.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/us-news/donald-trump-gets-booed-rally-24815259.amp"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 70
+    images:
+      - url: "https://i2-prod.mirror.co.uk/incoming/article24815279.ece/ALTERNATES/s615/0_Former-President-Trump-speaks-in-Alabama.jpg"
+        width: 615
+        height: 409
+        isCached: true
+  - title: "How the Trump Tax Law Created a Loophole That Lets Top Executives Net Millions by Slashing Their Own Salaries"
+    excerpt: "The 2017 tax cuts made it more attractive for certain company owners to be paid in profits instead of wages. Some cut their own wages, expanding a loophole that was already costing the U.S. billions."
+    publishedDateTime: 2021-08-19T09:00:00Z
+    webUrl: "https://www.propublica.org/article/how-the-trump-tax-law-created-a-loophole-that-lets-top-executives-net-millions-by-slashing-their-own-salaries"
+    ampWebUrl: "https://www.propublica.org/article/how-the-trump-tax-law-created-a-loophole-that-lets-top-executives-net-millions-by-slashing-their-own-salaries/amp"
+    cdnAmpWebUrl: "https://www-propublica-org.cdn.ampproject.org/c/s/www.propublica.org/article/how-the-trump-tax-law-created-a-loophole-that-lets-top-executives-net-millions-by-slashing-their-own-salaries/amp"
+    type: article
+    provider:
+      name: ProPublica
+      domain: propublica.org
+    quality: 56
+    images:
+      - url: "https://assets-c3.propublica.org/images/series/_threeTwo400w/series-3x2.jpg"
+        width: 400
+        height: 267
+        isCached: true
+  - title: "Donald Trump Encouraged People at His Rally to Get Vaccinated. They Booed Him."
+    excerpt: "According to a Trump adviser, the then-president and his wife, Melania, got the vaccine in January—a fact that wasn’t reported until March . 2) The rally brought thousands of people to York Family Farms in Cullman County,"
+    publishedDateTime: 2021-08-22T13:52:00Z
+    webUrl: "https://www.motherjones.com/politics/2021/08/donald-trump-cullman-alabama-rally-covid-boo/"
+    type: article
+    provider:
+      name: Mother Jones
+      domain: motherjones.com
+    quality: 51
+    images:
+      - url: "https://www.motherjones.com/wp-content/uploads/2021/08/20210822_cullman.jpg?w=1200&h=630&crop=1"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "HhqtWJrT2zfTKaH2lUNcHsBeygLUXL/C6Ig6w3VSp1Io4DLnn0sLX7uT5OB82dlb/4DPavN8KPH3DANXqur2FuIfZSyqfiA4B9ubHrv99x1lo/jswBTGEpUVZ88gzTzXGcuyKpSNBBeDwQEl4soS7sCiAKMHN+AJikJsUBWdj6v5cuJvRbnrTbJuDat8dOrPwPgcClKlZtexA6/vRMX87cl0eupIb/M5060p+3sdVYDbl/+GJutfN55MoP/zzS3/tlDhnMOiKgjnpoEmNJZoTWcx0ybUiZsbWg7M6UVOFXcErem4yf8amRH/L0jg/+dnhZQl6I8MDiqZC1vmoL4cWYNAjk2RzfxpYEa0oDbPtsk=;L47Asy7WClACltRe3FwViQ=="
 ---

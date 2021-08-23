@@ -516,6 +516,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden defends US troop pullout from Afghanistan"
+    excerpt: "President Joe Biden on Sunday defended his administration's decision to pull U.S troops out of Afghanistan. Biden told reporters at the White House that history will record that the drawdown was the \"logical,"
+    publishedDateTime: 2021-08-22T23:03:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/08/22/biden-defends-us-troop-pullout-afghanistan/8237762002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/5a751760-4f9d-4a2e-9924-5b5b7f71a317_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden says it's 'time to end America's longest war' as he reveals plans to bring US troops home from Afghanistan"
     excerpt: "Biden said he was the fourth president to preside over the Afghanistan conflict, adding: \"I will not pass this responsibility on to a fifth.\""
     publishedDateTime: 2021-04-14T21:28:00Z

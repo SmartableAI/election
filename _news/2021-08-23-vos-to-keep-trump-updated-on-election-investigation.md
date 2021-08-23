@@ -2,44 +2,60 @@
 category: news
 title: "Vos to keep Trump \"updated\" on election investigation"
 excerpt: "Assembly Speaker Robin Vos the said in a statement Saturday he is going to be keeping Trump “updated on our investigation,” the Journal Times reported. In a statement, Vos said: “It was an honor to be invited to travel by private plane with President Trump and top staff to attend his rally in Alabama."
-publishedDateTime: 2021-08-22T21:39:00Z
-originalUrl: "https://www.ctpost.com/news/article/Vos-to-keep-Trump-updated-on-election-16404028.php"
-webUrl: "https://www.ctpost.com/news/article/Vos-to-keep-Trump-updated-on-election-16404028.php"
-ampWebUrl: "https://www.ctpost.com/news/amp/Vos-to-keep-Trump-updated-on-election-16404028.php"
-cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Vos-to-keep-Trump-updated-on-election-16404028.php"
+publishedDateTime: 2021-08-22T23:39:00Z
+originalUrl: "https://www.houstonchronicle.com/news/article/Vos-to-keep-Trump-updated-on-election-16404028.php"
+webUrl: "https://www.houstonchronicle.com/news/article/Vos-to-keep-Trump-updated-on-election-16404028.php"
+ampWebUrl: "https://www.houstonchronicle.com/news/amp/Vos-to-keep-Trump-updated-on-election-16404028.php"
+cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Vos-to-keep-Trump-updated-on-election-16404028.php"
 type: article
-quality: 90
-heat: 170
+quality: 120
+heat: 220
 published: true
 
 provider:
-  name: Connecticut Post
-  domain: ctpost.com
+  name: Houston Chronicle
+  domain: houstonchronicle.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
-images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
-    isCached: true
-
 related:
+  - title: "Wisconsin Speaker vows to keep Trump 'updated' on election investigation"
+    excerpt: "The Republican Assembly Speaker who has ordered an investigation into the 2020 Wisconsin election in which President Joe Biden defeated Donald Trump said he spent the day with the former president."
+    publishedDateTime: 2021-08-22T23:03:00Z
+    webUrl: "https://www.wisn.com/article/wisconsin-robin-vos-vows-to-keep-trump-updated-on-election-investigation/37367599"
+    ampWebUrl: "https://www.wisn.com/amp/article/wisconsin-robin-vos-vows-to-keep-trump-updated-on-election-investigation/37367599"
+    cdnAmpWebUrl: "https://www-wisn-com.cdn.ampproject.org/c/s/www.wisn.com/amp/article/wisconsin-robin-vos-vows-to-keep-trump-updated-on-election-investigation/37367599"
+    type: article
+    provider:
+      name: WISN 12 NEWS
+      domain: wisn.com
+    quality: 89
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/vos-1552410924.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vos meets with Trump, vows to keep ex-president 'updated' on election investigation"
-    excerpt: "Assembly Speaker Robin Vos said he is going to keep the former president — who has not stopped claiming he won the 2020 election — \"updated on our investigation.\""
-    publishedDateTime: 2021-08-22T17:53:00Z
-    webUrl: "https://madison.com/news/state-and-regional/vos-meets-with-trump-vows-to-keep-ex-president-updated-on-election-investigation/article_55a5e748-aa3e-5c85-bbe6-e59bebcbed21.html"
+    excerpt: "Vos said he is going to be keeping Trump, who has not stopped claiming he won the 2020 election despite overwhelming evidence to the contrary, \"updated on our investigation.\"' In a statement, Vos said: \"It was an honor to be invited to travel by private plane with President Trump and top staff to attend his rally in Alabama."
+    publishedDateTime: 2021-08-22T23:22:00Z
+    webUrl: "https://madison.com/wsj/news/local/govt-and-politics/vos-meets-with-trump-vows-to-keep-ex-president-updated-on-election-investigation/article_c0b14769-08f6-55f5-855a-06d75ad42971.html"
+    ampWebUrl: "https://madison.com/news/local/govt-and-politics/vos-meets-with-trump-vows-to-keep-ex-president-updated-on-election-investigation/article_c0b14769-08f6-55f5-855a-06d75ad42971.amp.html"
+    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/govt-and-politics/vos-meets-with-trump-vows-to-keep-ex-president-updated-on-election-investigation/article_c0b14769-08f6-55f5-855a-06d75ad42971.amp.html"
     type: article
     provider:
       name: Madison.com
       domain: madison.com
-    quality: 64
+    quality: 84
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/5/5a/55a5e748-aa3e-5c85-bbe6-e59bebcbed21/61228f9939e4f.preview.jpg?crop=1904%2C1071%2C0%2C8&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/a/40/a406b0dc-3c5e-55be-864e-057e2578c64e/6122ddfc6e97d.image.jpg?resize=1024%2C679"
+        width: 1024
+        height: 679
         isCached: true
   - title: "Donald Trump Got Booed In Alabama For Saying Good Things About Vaccines"
     excerpt: "Trump told the crowd he was vaccinated and encouraged them to do the same, drawing boos at his own rally as a result."
@@ -79,6 +95,6 @@ related:
       domain: chron.com
     quality: 31
 
-secured: "hQHYUNK8YmRWC7PxgzsiPcEeBKZlJKfkm08UAn/zgiMJgDqU2HCKG0ZNSWeIYV4AZAXa70cDgE8cJDzITIRdzWK9gfppS8esLDbS5mxIk8sUUyogoXZ4C1ZO2kOoJNPIVy741y+B/Ba/wY8SXNsiABYdkeKKIOusNmBNvWDqz5+2MOfv62CeXhfYr6DmxPyp5Kdn7y7bsMolnuRUN7UOveEAPwmRG9IEu1B2BihN+eZRW9nd+zhMN48g01ReUBWMuWtWAfiizlvjT/aJNZn71DIff9u753yxOuIIESl/3rhom3iLeu5li6cuJJTELzMWBVe4uXOhGVJ56nriLA9UhMYujPbGcN6dvEgQpFWtz8A=;f3hHTbiusOjSsgQYEEGRpw=="
+secured: "m8xBOJM9G6+okJKhY7PpYMdAbpva9H8le4T/Nq+O1H0S49W5hcRzA9FumW+oIiE0mkJ1XHPC0TkB3f551a4Vii3OH9URmHC1EpMytTmeUy8f4+VKA+1uUb6HgC7fkoD2nmuYRd/0mZqDtvyKTFdjk3M85NVuO3/tzwfixg8R/w+vXHw3FxrZBqlocpftE227Az+/Ay3JqME8H2HW9pa/RupFPXQM0BvUS2+EswpLvPcOhcYeTPGG8eIMIv2JdnoFe4XrNtytNqxwsMLOCAlnJotg37Iq5HBdymlH5eimKj+oRhQTK2zrJlXFGSnF2R+yP1jUYlKUQH51zCMGcHRZVwbTxXqK9edX765JnJp7tcU=;hsvW/L3HbNFzTYmyjiFrUQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for
 cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for-the-first-time-in-4-years.html?outputType=amp"
 type: article
 quality: 75
-heat: 215
+heat: 255
 published: true
 
 provider:
@@ -75,6 +75,22 @@ related:
         width: 819
         height: 461
         isCached: true
+  - title: "Donald Trump Booed At Own Rally, Encouraging Vaccines Didn't Go Well In Alabama"
+    excerpt: "The former president was booed at his rally when he encouraged Alabama (the lowest vaccinated state) to get the vaccine."
+    publishedDateTime: 2021-08-22T21:46:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-booed-own-rally-encouraging-vaccines-didnt-go-well-alabama-3278727"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-booed-own-rally-encouraging-vaccines-didnt-go-well-alabama-3278727?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-booed-own-rally-encouraging-vaccines-didnt-go-well-alabama-3278727?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 71
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/07/us-intelligence-believes-that-russia-meddles-in-the.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Donald Trump Jr. at Alabama fishing expo hears his name floated for 2024 GOP ticket"
     excerpt: "Donald Trump Jr. thanked Alabama Saturday for the 2015 Mobile rally that gave his father’s presidential campaign a critical push, and he heard his own name floated for a place on the 2024 GOP ticket."
     publishedDateTime: 2021-07-11T00:25:00Z
@@ -90,6 +106,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XIIL2FMESJHFFP7DV5M4WSIVNU.JPG"
         width: 6000
         height: 4000
+        isCached: true
+  - title: "‘Take the vaccines!’ Donald Trump booed at Save America rally in Alabama over Covid jabs"
+    excerpt: "DONALD TRUMP's comments on taking a dose of the COVID-19 vaccine were met with a chorus of boos by his supporters at his Save America rally in Alabama."
+    publishedDateTime: 2021-08-22T23:31:00Z
+    webUrl: "https://www.express.co.uk/news/world/1480402/donald-trump-latest-news-ex-president-booed-save-america-rally-alabama-covid-jabs-ont"
+    ampWebUrl: "https://www.express.co.uk/news/world/1480402/donald-trump-latest-news-ex-president-booed-save-america-rally-alabama-covid-jabs-ont/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/world/1480402/donald-trump-latest-news-ex-president-booed-save-america-rally-alabama-covid-jabs-ont/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 66
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/78/590x/Donald-Trump-in-Alabama-1480402.jpg?r=1629675071384"
+        width: 590
+        height: 350
         isCached: true
   - title: "Cullman preparing as former President Donald Trump returns to Alabama for first time since 2017"
     excerpt: "Saturday is going to be the first time former President Donald Trump is back in Alabama since 2017. There's a Trump Rally going on this weekend in Cullman and it's expected to bring out thousands of people."
@@ -138,6 +170,6 @@ related:
         height: 630
         isCached: true
 
-secured: "dfPnTxnTLQdSD6EovU9QhTdYWggKY4C72Komm9RbrDR5L3nnvtO2Dq7EOVXoXZjviaC8hs3PWenfJHi5Uxp9LvEGHZir0UyfCR2ObNlUMtJ74FakW5QKfh6zNHHpP3BNKrchYCyzbD1RBxdTmNC3hcL4/hSkTdo6Sw/mgir3yZSjFziIWW24anKXr6RFT9qnh+ygLmuXiBUR0o8mvwDWOiKlgHNX9Af6H77jG+U0Mb6vvvHwiv7cbqlBPobhfspFZFhA46SkDKpM8r3jKJBWd0ifNuSjnj4smBM/Gshi5+15LTkF7rCoXUhJybpSFnZmbhlagJY9e3egglsf06bXKyNIIV8i+1S344fr5cz4Twc=;rKXtxhzt8ReA1/YpSYHDLQ=="
+secured: "HGkdKf5Nm0MMDiXWrjdsHoOQwye3M5AWgdaHU8kdev8GbcpO5vqpg0SEUtkbxw8pwxWX/dn+ASQJJN/08DeBQdORPtxs028KaTaWCjUkPCeAtOL2ca50w+oI4LrwIJpnjFlE1e1YbOl/JZpKQ2gz4B6Z3ESRgpJw8VAjhJGsxuuSmrDUd46cousfUA3cLLgaRx3TBjEMUHtIheFOXbY/Ft75m4Iw4TfTdrQiEtwJMU0agBhNqv4PNzMaJBzADN62zA8ZGKdVXlEtgm3+GsfkLMhexLy1YCb93vCxGrZq2N0MwcSrR4L8AxAngojfCrttTAfGH3S2wU3SZs2a1sUl4YxGfES1PuiRSN0xgxnijwrXSHM1aWOBnhjlcadGvZoLOcWusX3g7uw4uxofdxx2qa22/uaAknXF+M0AHbou3jEBnyGdv6iAj/0ePvLr+gW0anMUhSxtwRe8/gepPXf1ms5KB+AW/haA8TdUZCvxitw9yo9DrJMEOi5SNvuHMvfLy6JWVdvuOTId5xmo0ijMJw==;9t+GkCN69CZA1nUsaSOLXg=="
 ---
 

@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Donald Trump fights war on wokeism with profanity from General Patton"
+    excerpt: "Donald Trump invoked the image of the Second World War general George S Patton to attack “wokeism” in the military at a rally in Alabama on Saturday.George"
+    publishedDateTime: 2021-08-22T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/donald-trump-fights-war-on-wokeism-with-profanity-from-general-patton-dcjhtrll3"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 55
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F4886a8cc-0389-11ec-b32f-641087520f21.jpg?crop=1280%2C720%2C0%2C0&resize=685"
+        width: 685
+        height: 385
+        isCached: true
 
 secured: "XEDlXH3kRSjGHANHKoR/FiXY7x6UkYv5XBp8EQvWamFek3hIJ7j9Ooi73z3wjfV8z+XmDIlk/SJaKfn0PwfJbIUBkKHwvgsuEnO6IWfgCoUeBmzWVj+xqDCt0SAZf6Yl8ZKHqiP0PTQT2LbVxnXwZ8Iv/k/lRGmNTeBhnXsrvstl9GTVq21NH+n+AymHYC77kAb2v3eHPVTy6bU2QZ0hTogJ8xSJntlwUJGuauzj0y7U4/QxcGvLrTG+E3/Jsr7hNaMIRjKB3dXvGp6z8OMOPK+P74m+y5jqX8HQ3QCSxiFzOv3Abtuu7z8aISpTli3sJtYUixTLWMFeZ3VY+aT00BmIZW4Ca+EqM3yr2PKKO3I=;3NrtwPUMkvZNzjD3zDX/lg=="
 ---
