@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden to speak about Afghanistan evacuation amid criticism – live"
-excerpt: "We’re confident we can get thousands more out, but the situation at the airport is not getting any better.” There is still no sign of Joe Biden, who was originally scheduled to deliver remarks on the situation in Afghanistan about an hour ago."
-publishedDateTime: 2021-08-24T16:07:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news"
-webUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news"
+excerpt: "Republican congressman Dan Crenshaw, a veteran of the war in Afghanistan, fiercely criticized Joe Biden for refusing to extend the August 31 deadline for evacuations from Kabul. D"
+publishedDateTime: 2021-08-24T16:35:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news?page=with:block-612524058f08b1506f20d941"
+webUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news?page=with:block-612524058f08b1506f20d941"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/d0d57f8437f2089fcdc236ece19d4e9fc7a470b7/107_394_3611_2166/master/3611.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7e9ad38171b8528c32a2a826f797e8bb"
+  - url: "https://i.guim.co.uk/img/media/6f87cfebea90dee8b9414a911dfec2be734bc054/0_338_5070_3042/master/5070.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=90924b8c66fbbea91d45e5d57cc19deb"
     width: 600
     height: 360
     isCached: true
@@ -1291,6 +1291,6 @@ related:
         height: 380
         isCached: true
 
-secured: "8bB30ky9RLuUzKiLgcorXvIVeAjJI7ECOQHm6k3tp8Aqp1N38J1H1Paln2hmFKG11+4jRL6B08zOYlQxaVVM/+yMSK4pihBkMHB/Mr2vzrbWzAcIq1FKjHVXv7c562rDGHFwG4bKmlU/1nHcaZYFiHs6+IOyQevBfvHtC/RzneUk2llK+FJ/e9UnmKkTXUnce3gz7+3u1+EWzD31/yt0QpV8AzloFwgNRGlbMS/SW1HzBRPKGFEmV1H0Pl1yhZAXoNeMtuor6hJ29EGTtJmXziXtlkunzE0leDr8Ah/5uaByrkBTNCUriLhDValyC/mVNEXkqW2XK6LGfhADwMwCXCqctwB+zF3VpL09Doa+D4aDC2sGijaAbrhhMZMnU1Zi86UbP35CBwKw+Wba6b692Wbw+ucBamnwBlc6h8/tkKcDrIDZLz+svPcjt2BIZwQbxDtJ0qhV12PFG1gQ4EGxQabde4mYNMpzziE8iLW/Heq6C6lTnESkXOPj8My3QJhbqiQwLkokaa87Pry3srjlpw==;qkIQ6vByagF9GpaJu2fX4g=="
+secured: "RkjZvrGXPXMsZvlSio92MlF5gr/X9knm0rPKhgOQw1yytxK/8nSOAeuo/HD9VZX4rAF0s8fFoUGBf4xL0KKfpZ2+eoK+WT+jam4fVa5w3NFf6ZsUhw1Z5XZJAd9YkeyvMQIsEufcjpeOmGxcLR7SlFNLe+Ooqr2+iRzoUVBaWCXjsODI3NcsMLdRtjkJsUtrmupmmL8Swj5nTU7hJM9mHMpMPW5e59ITljntEcOUjhJOdILBl2wdvcj3lV61rxQLLCjIWIHeZrFmf+Cl2I/S45s2pVqebjOmdABnHXnYhxHWZS4zM4ODoyDXUNYyzpcRWcDe+yVqcofavckW021ynmqgUBP9sCdz/YRi65pAKI8=;yD5+OTmsvyhr1WEgis598A=="
 ---
 

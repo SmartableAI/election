@@ -79,6 +79,36 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump-backed Herschel Walker seeks Georgia Senate seat"
+    excerpt: "Herschel Walker on Tuesday filed paperwork to enter the U.S. Senate race in Georgia after months of speculation, joining other Republicans seeking to unseat Democratic Sen. Raphael"
+    publishedDateTime: 2021-08-24T20:26:00Z
+    webUrl: "https://www.mytwintiers.com/news-cat/national-news/trump-backed-herschel-walker-seeks-georgia-senate-seat/"
+    ampWebUrl: "https://www.mytwintiers.com/news-cat/national-news/trump-backed-herschel-walker-seeks-georgia-senate-seat/amp/"
+    cdnAmpWebUrl: "https://www-mytwintiers-com.cdn.ampproject.org/c/s/www.mytwintiers.com/news-cat/national-news/trump-backed-herschel-walker-seeks-georgia-senate-seat/amp/"
+    type: article
+    provider:
+      name: MyTwinTiers.com
+      domain: mytwintiers.com
+    quality: 75
+    images:
+      - url: "https://www.mytwintiers.com/wp-content/uploads/sites/89/2021/08/921c1b0451254caab10deea0d1e357b9.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Trump Ally Herschel Walker Is Running For U.S. Senate In Georgia"
+    excerpt: "The former University of Georgia football standout is well known in his native state, but some national Republicans have been wary of Walker's candidacy."
+    publishedDateTime: 2021-08-24T21:54:00Z
+    webUrl: "https://www.northcountrypublicradio.org/news/npr/1030715933/trump-ally-herschel-walker-is-running-for-u-s-senate-in-georgia"
+    type: article
+    provider:
+      name: Northcountrypublicradio.org
+      domain: northcountrypublicradio.org
+    quality: 55
+    images:
+      - url: "https://media.npr.org/assets/img/2021/08/24/ap_21203823668284-7bdddc6d4c2f938a459a130da38b55748c2e27a1.jpg?s=6"
+        width: 948
+        height: 710
+        isCached: true
 
 secured: "Oxa3yJZN2jvPmqGIZ7Bdgd51ltoOkGqVkxROeWSfE4lF/wpINwoIAmRVxfU46XADXHHny3aN4tCbb6Gd7W72WuCWlI544L2MFUQrw/LtAmP4YtPIPzUuS1WyZeKZ6ZAWnGAKHvg4OloG0TtI9AYL9pI+z98GQLx4R9vd+yl2XH+cW1xRELH6+cE4Tm44L4B2GJaGt08cXse1kMOPqqHWkAY8BX3H58EW7xslanVjG5mFqBMVqka+FZr8iiotyu6ip0V4rNHLvOmILA3yFHh/679m4Udg00lHqlwV3JgErVTqh1b2aUBD7W6WhNGIdYBD78NI76vPBDIewBTq+GZyU8uw8PniQuFU6CNjJjSMG5c=;olLqiK4cjhFolqihlNwrLg=="
 ---

@@ -57,6 +57,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Kamala Harris trip delayed over possible 'Havana syndrome' case"
+    excerpt: "US Vice-President Kamala Harris's flight to Vietnam was delayed by several hours due to an \"anomalous health incident\" with similarities to so-called Havana syndrome, reports say. The mysterious syndrome first affected people at the US embassy in Havana in 2016 and may be caused by directed microwave radiation."
+    publishedDateTime: 2021-08-24T18:12:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-58322593"
+    ampWebUrl: "https://www.bbc.com/news/world-us-canada-58322593.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-58322593.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/16F51/production/_120233049_gettyimages-1234846381.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Kamala Harris heads to Vietnam while Afghanistan images rekindle the past"
     excerpt: "White House officials did not anticipate the comparisons with Afghanistan when they charted Vice President Kamala Harris' trip to Vietnam."
     publishedDateTime: 2021-08-20T15:05:00Z

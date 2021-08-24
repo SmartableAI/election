@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/graisondangor/2021/08/24/kamala-harris-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/graisondangor/2021/08/24/kamala-harris-vietnam-visit-reportedly-held-up-by-havana-syndrome-scare/amp/"
 type: article
 quality: 123
-heat: 123
+heat: 143
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     height: 675
     isCached: true
 
-secured: "r1rqKy8xLzsG05CEnqO5jK6ytSIMxu2YVjMOv0SvlHOIV1Xu/ye36f6/KGKPFSRtpqVOA1nCueFJaGnhi8brvBQXXIMERCxetDAKPkgWovMHa6Ryub2QCmadOlpFsN9sfnwxX6Zh0C0EbxGiopCiUVH325C0Q+hJtK+/9ppUA8La4z2mpoV7ciX8S1jN4B3JEwi0jL+G12wUB+Kddrqpg9oJfsE+hJphIsW6TnaUFpljvcIkRLnwuECI2L4cOEUmEl9EjptlQqjcYSmyxYtJ+ZP2COO3XIhF5jwSGIWGerctZOO7BtoWOPbUUfogkDbPUeO9glJC5LgBZQw80Y2mO+0Oddtr/AAPi6VTx5SfMr4=;HZlOPuziQG++NA4MGtwj/A=="
+related:
+  - title: "Kamala Harris' Vietnam trip delayed over possible case of mysterious 'Havana syndrome'"
+    excerpt: "Vice President Kamala Harris' trip to Hanoi, Vietnam, was delayed by a few hours after her office was made aware of a \"recent possible anomalous health incident\" among U.S. officials in Hanoi. \"Anomalous health incident\" is how the United States government refers to the mysterious \"Havana syndrome."
+    publishedDateTime: 2021-08-24T20:25:00Z
+    webUrl: "https://www.chron.com/national-politics/article/Kamala-Harris-Vietnam-Havana-Syndrome-cause-why-US-16408202.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 47
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/45/43/21387475/6/rawImage.jpg"
+        width: 2048
+        height: 1330
+        isCached: true
+
+secured: "Dw3rU5wv7PrR2wwld7Nfy+WWkKY4BJpSl8hvaQEWRASodYJ7OWEOtt4nJE7k5S8cxwloMS20E6G+v6njR0Fzfc4UNeixTSpKKF+HfrhiuaY/ioc0qkrNff5zjD8SwePzzrHnJ/Z+ZXyNJZfNg1mhBXWWVRVGUOpMj0k7xQysYk+65/BvNJ4r5cJ/loWIfII44UfM1MheeH7+ryju69ku3x+yZYqgSCT4/ZGTZLYGPiWpUeFD9pRFBD9Bwloarx9hj1BuKWXTQOGVKRBSOEhq/zQp9gIyT+/EN1VFFGFRjEOru7p7PkMcUwY3NWri/rt0kphn86OiYUPSMrMuXIFgAGSNIf6DBe6xdockcTRYEMA=;stWrbL04PygtTJslZCnwpg=="
 ---
 

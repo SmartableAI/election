@@ -79,6 +79,36 @@ related:
         width: 3000
         height: 2147
         isCached: true
+  - title: "Trump-backed Herschel Walker seeks Georgia Senate seat"
+    excerpt: "Herschel Walker on Tuesday filed paperwork to enter the U.S. Senate race in Georgia after months of speculation, joining other Republicans seeking to unseat Democratic Sen. Raphael"
+    publishedDateTime: 2021-08-24T20:26:00Z
+    webUrl: "https://www.mytwintiers.com/news-cat/national-news/trump-backed-herschel-walker-seeks-georgia-senate-seat/"
+    ampWebUrl: "https://www.mytwintiers.com/news-cat/national-news/trump-backed-herschel-walker-seeks-georgia-senate-seat/amp/"
+    cdnAmpWebUrl: "https://www-mytwintiers-com.cdn.ampproject.org/c/s/www.mytwintiers.com/news-cat/national-news/trump-backed-herschel-walker-seeks-georgia-senate-seat/amp/"
+    type: article
+    provider:
+      name: MyTwinTiers.com
+      domain: mytwintiers.com
+    quality: 75
+    images:
+      - url: "https://www.mytwintiers.com/wp-content/uploads/sites/89/2021/08/921c1b0451254caab10deea0d1e357b9.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Trump Ally Herschel Walker Is Running For U.S. Senate In Georgia"
+    excerpt: "The former University of Georgia football standout is well known in his native state, but some national Republicans have been wary of Walker's candidacy."
+    publishedDateTime: 2021-08-24T21:54:00Z
+    webUrl: "https://www.northcountrypublicradio.org/news/npr/1030715933/trump-ally-herschel-walker-is-running-for-u-s-senate-in-georgia"
+    type: article
+    provider:
+      name: Northcountrypublicradio.org
+      domain: northcountrypublicradio.org
+    quality: 55
+    images:
+      - url: "https://media.npr.org/assets/img/2021/08/24/ap_21203823668284-7bdddc6d4c2f938a459a130da38b55748c2e27a1.jpg?s=6"
+        width: 948
+        height: 710
+        isCached: true
 
 secured: "H6p6i/yZHrws5N+fTf5aeb5aVNqsLJ6MBHBoRIaSux41qGm0+SX3IZ1FYdlvEKgeyAKEpNTl1g+IYOR64E5hN+GMk6kigEhFIYasyQ5eVHyJPezIB/PXfqE6JKHdA9eAEqeMpfRCAM3Fw2g7MOHjn0v/ROzK1g2+X9E9g6ZEVPHLedOrC/ttPlGpgCFvIZcod3kWUuzeqQCAgAWZq8ovQLHuCI3LV4JuHcRYbKVTm3fplwEp2OSCEngMZ/mfzmIfwcR5sVKI3gg/SanNksPGj3BvePE55C86hHDzLEMrCN0tjxl7ddB4cO8udZTxBTYnEB18/lKwX2ZF6AgMAbBSTWgp76ts5GZoas1KCT/OHInIoUixqrBIwp8rjh5hQztNH0imXQrWWMDgzP22m++O0PYk/dyY+gYBUkWJ62dOKKMGnsDOiRO631Z8beNAG/W8UCeN3ZTZ88edvlCjSjL4Ibwq9qrAZxd/fuE2xNXWsYqLpJGWrDk26Dbi6+bEEUWGP4y+7Nk92vtRfnYs3PHHWg==;D1n2U/IFYbLkYlVaTF3dQA=="
 ---

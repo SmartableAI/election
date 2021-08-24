@@ -59,6 +59,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Kamala Harris trip delayed over possible 'Havana syndrome' case"
+    excerpt: "US Vice-President Kamala Harris's flight to Vietnam was delayed by several hours due to an \"anomalous health incident\" with similarities to so-called Havana syndrome, reports say. The mysterious syndrome first affected people at the US embassy in Havana in 2016 and may be caused by directed microwave radiation."
+    publishedDateTime: 2021-08-24T18:12:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-58322593"
+    ampWebUrl: "https://www.bbc.com/news/world-us-canada-58322593.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-58322593.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/16F51/production/_120233049_gettyimages-1234846381.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Kamala Harris heads to Vietnam while Afghanistan images rekindle the past"
     excerpt: "White House officials did not anticipate the comparisons with Afghanistan when they charted Vice President Kamala Harris' trip to Vietnam."
     publishedDateTime: 2021-08-20T15:05:00Z
@@ -753,6 +769,6 @@ related:
         height: 422
         isCached: true
 
-secured: "NV2wUsCuzmpdnujSqqZCkr+YyHnZFbdwKH14iBGwOwZvGDWCSf0qtODF3280ZHfuTo4/vBMbmoGkweoHdCRir7pN//SYqgARw2jeYdOEiky+0l2vGq5ZudXeb+um/4gUmpFCzCzA9MsujkBR8ZzSfl64xPufOnPnJ8uDdHTDv22ZPq76SohjjZgfOgxhlqNqCQrN1+OdmbIPCc3ZuFpbeJJ3jOAUlUJCaskWQFuATc6du94B2ItcH1rtQQYdmLiU2XP32el20hAcMY57bcVb4Tq6VR46mMg/rnNd9az9vOV1sU3vnBWEuzy99w6s1hcoFc+z62FWg0bYGEYXd1+ZRgUxQLqCrFhlUkUu1RryyJA=;jkxcFuablclQOyG2g+ahog=="
+secured: "cpplacemo0q4AQU0zYGg9QwEL07AiRb1VxiW3Dr8fiDAIBzGtZXTvUlV5ScsU6537I7wMqizE2gHxjqNC13KKZTDtBYKsckvO84vIZEkbhfbi85BJEQJulszv9I6+/PSXf2ShrSmHgOXKgH9I2FHybFSGNqVye5dypxBRzzP5XvlUnHQD+ZxmQ0AkNONYeaKdlryxDiWKZaUPpyA3KZl1BSxLapoNZI5dnAHsHxJ6LqUzanxAJdunrtw+S6c+6wkzZqswwxzag1wQGJ1nxWsnuQDfSKc1rDVRAxCRQ2LZzjcoR5RmOK7N5XGfIwYrXwubzX37jjXOGShv/tRVG6/oyO2ct/q5IzkhCCQ2vp7NHn28R87Hrib3w1Ks/aawXB6Il2a8oZMVQCRzV18ZtLiLv7MeXOwUX4m8jK3brom3KbA+EI8GDbMlw1ffdMGKLjOfdV8+e4PoJHJ1QGZSn7KHGOyJ5Mrg3gGlOP9m3bJyADGaU37FtR+gWmAomadTPCgW8rgpmpwvSdzZhCtcu0bSA==;Bfo8IuabSPo3xoNwMnpg6Q=="
 ---
 

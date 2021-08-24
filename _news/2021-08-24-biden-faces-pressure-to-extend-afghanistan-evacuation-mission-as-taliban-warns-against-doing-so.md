@@ -118,9 +118,9 @@ related:
         height: 360
         isCached: true
   - title: "Joe Biden to speak about Afghanistan evacuation amid criticism – live"
-    excerpt: "We’re confident we can get thousands more out, but the situation at the airport is not getting any better.” There is still no sign of Joe Biden, who was originally scheduled to deliver remarks on the situation in Afghanistan about an hour ago."
-    publishedDateTime: 2021-08-24T16:07:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news"
+    excerpt: "Republican congressman Dan Crenshaw, a veteran of the war in Afghanistan, fiercely criticized Joe Biden for refusing to extend the August 31 deadline for evacuations from Kabul. D"
+    publishedDateTime: 2021-08-24T16:35:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news?page=with:block-612524058f08b1506f20d941"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news"
     type: article
@@ -129,7 +129,7 @@ related:
       domain: theguardian.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/d0d57f8437f2089fcdc236ece19d4e9fc7a470b7/107_394_3611_2166/master/3611.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7e9ad38171b8528c32a2a826f797e8bb"
+      - url: "https://i.guim.co.uk/img/media/6f87cfebea90dee8b9414a911dfec2be734bc054/0_338_5070_3042/master/5070.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=90924b8c66fbbea91d45e5d57cc19deb"
         width: 600
         height: 360
         isCached: true

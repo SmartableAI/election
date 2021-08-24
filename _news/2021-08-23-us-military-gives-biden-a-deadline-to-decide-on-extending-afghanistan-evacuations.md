@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Lawmakers push Biden to extend August 31 Afghanistan withdrawal deadline"
+    excerpt: "Lawmakers from both parties pressed top Biden national security officials at a classified briefing Tuesday to extend the August 31 deadline for the US military to evacuate Americans and vulnerable Afghans from Afghanistan.\n    \n"
+    publishedDateTime: 2021-08-24T19:52:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RWkKN2DX39c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/24/politics/democratic-reaction-afghanistan-deadline/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/24/politics/democratic-reaction-afghanistan-deadline/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200206104912-02-adam-schiff-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Why Americans may ultimately not care about Biden's Afghanistan performance "
     excerpt: "Poll of the week: A new AP-NORC poll shows President Joe Biden's approval rating on foreign policy has fallen to 47%, while his approval rating stands at 51%. It's the fi​​rst time in his presidency that Biden's approval rating on foreign policy is below his disapproval rating in the AP-NORC poll.\n "
     publishedDateTime: 2021-08-21T19:02:26Z
@@ -76,6 +92,22 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210820141557-05-biden-presser-afghanistan-0820-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "First US troops have started leaving Afghanistan as Biden decides not to extend withdrawal deadline"
+    excerpt: "The first US troops have started leaving Afghanistan on the same day President Joe Biden decided not to extend the August 31 evacuation deadline, two defense officials told CNN.\n    \n"
+    publishedDateTime: 2021-08-24T21:45:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nzEdJMSpycQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/24/politics/first-us-troops-leaving-afghanistan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/24/politics/first-us-troops-leaving-afghanistan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210824160409-kabul-airport-aerial-0823-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

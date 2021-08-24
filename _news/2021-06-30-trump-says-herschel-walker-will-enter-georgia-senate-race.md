@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/560788-trump-says-herschel-wal
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/560788-trump-says-herschel-walker-will-enter-georgia-senate-race?amp"
 type: article
 quality: 125
-heat: 185
+heat: 225
 published: true
 
 provider:
@@ -78,6 +78,36 @@ related:
       - url: "https://i.insider.com/5f6f6ab10ab50d00184acab3?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump-backed Herschel Walker seeks Georgia Senate seat"
+    excerpt: "Herschel Walker on Tuesday filed paperwork to enter the U.S. Senate race in Georgia after months of speculation, joining other Republicans seeking to unseat Democratic Sen. Raphael"
+    publishedDateTime: 2021-08-24T20:26:00Z
+    webUrl: "https://www.mytwintiers.com/news-cat/national-news/trump-backed-herschel-walker-seeks-georgia-senate-seat/"
+    ampWebUrl: "https://www.mytwintiers.com/news-cat/national-news/trump-backed-herschel-walker-seeks-georgia-senate-seat/amp/"
+    cdnAmpWebUrl: "https://www-mytwintiers-com.cdn.ampproject.org/c/s/www.mytwintiers.com/news-cat/national-news/trump-backed-herschel-walker-seeks-georgia-senate-seat/amp/"
+    type: article
+    provider:
+      name: MyTwinTiers.com
+      domain: mytwintiers.com
+    quality: 75
+    images:
+      - url: "https://www.mytwintiers.com/wp-content/uploads/sites/89/2021/08/921c1b0451254caab10deea0d1e357b9.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Trump Ally Herschel Walker Is Running For U.S. Senate In Georgia"
+    excerpt: "The former University of Georgia football standout is well known in his native state, but some national Republicans have been wary of Walker's candidacy."
+    publishedDateTime: 2021-08-24T21:54:00Z
+    webUrl: "https://www.northcountrypublicradio.org/news/npr/1030715933/trump-ally-herschel-walker-is-running-for-u-s-senate-in-georgia"
+    type: article
+    provider:
+      name: Northcountrypublicradio.org
+      domain: northcountrypublicradio.org
+    quality: 55
+    images:
+      - url: "https://media.npr.org/assets/img/2021/08/24/ap_21203823668284-7bdddc6d4c2f938a459a130da38b55748c2e27a1.jpg?s=6"
+        width: 948
+        height: 710
         isCached: true
 
 secured: "r1fYqvP6BOraRk+AZxZbD2NJLKO4n+4f5ngcVAle1Ncz33BXcLGGwl5EINERx2mpLdecJ1xTQdTD+XH8urnXQ+8aYDjSV9TpYaafr1h9CEcTSea+8Smvb2BTPArSTcwyqYXZybsW8d34srxyL/PyZrIZZi4QhQGluImOmjm2waCkXHFKhUoBzz3DaTrdPD24kKQxME0vi3/x6xXiVKaqNpJy36mc2216iD2SWlJR9OVc0dIecgJKvdzlJt72WJyWY5lGO07EpNF+tlLEC5e1ZYlj4wDPW4s3bOOIK5MyJEojRXxBNPvGot+fRVs43R/yV7tbh439tHaGsd9p/k2Q2QIxZj3/Cxt2/SCoNupu3h0yKWn5KO+yrkRR9ZEszFXayvfOjbsETStUp/9tsbxd5BCCCbpQ10jSxWj+jzNif2abX4YhEwaHoOGjUv0JgFUoCFGwkqVzn2BO6QAkm0eQ+qELCurxiDrmS4qbE3Ef70KuKfbtHI09fJDOZVVe9XodjFatWHk5de9dhPwLxJxbWQ==;pdPMQueL03grh6LWeWYu6Q=="

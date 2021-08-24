@@ -575,6 +575,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden: US withdrawal from Afghanistan by Aug. 31 deadline contingent on Taliban's cooperation"
+    excerpt: "President Biden said Tuesday that the U.S.'s planned troop withdrawal from Afghanistan on Aug. 31 was contingent on the Taliban's continued cooperation with ongoing efforts to evacuate thousands of Americans and Afghan allies from Kabul's airport."
+    publishedDateTime: 2021-08-24T21:45:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UUOWc_MavcQ/biden-us-withdrawal-afghanistan-taliban-cooperation"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-us-withdrawal-afghanistan-taliban-cooperation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-us-withdrawal-afghanistan-taliban-cooperation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d15b94df-9e97-4fe9-ba27-9d1418e8e09a/5c1b06c9-3a75-40ea-98d5-a743eaff156d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Amid Afghanistan chaos, Biden asks for 'legal actions' against governors who ban mask mandates"
     excerpt: "President Biden on Wednesday said he's asking Education Secretary Miguel Cardona to go after states with bans on mask mandates in schools, up to and including taking \"legal action\" against them, even as a crisis rages on in Afghanistan."
     publishedDateTime: 2021-08-19T12:20:12Z
@@ -604,6 +620,22 @@ related:
     quality: 163
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Rep. Michael McCaul: Biden has 'blood' on his hands for leaving Americans behind in Afghanistan"
+    excerpt: "President Biden is letting the Taliban dictate US foreign policy, Rep. Michael McCaul says"
+    publishedDateTime: 2021-08-24T21:16:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/68AxyEw6Jek/rep-michael-mccaul-biden-has-blood-on-his-hands-for-leaving-americans-behind-in-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-michael-mccaul-biden-has-blood-on-his-hands-for-leaving-americans-behind-in-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-michael-mccaul-biden-has-blood-on-his-hands-for-leaving-americans-behind-in-afghanistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -670,6 +702,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Dem Rep. Jason Crow breaks with Biden on Afghanistan withdrawal deadline: 'Conditions have changed'"
+    excerpt: "Democratic Rep. Jason Crow from Colorado broke with President Biden on the Aug. 31 Afghanistan troop withdrawal deadline, noting conditions \"have changed.\""
+    publishedDateTime: 2021-08-24T21:00:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2ny6ezPMaFw/dem-crow-breaks-biden-afghanistan-withdrawal"
+    ampWebUrl: "https://www.foxnews.com/politics/dem-crow-breaks-biden-afghanistan-withdrawal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-crow-breaks-biden-afghanistan-withdrawal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/06be4279-9cc9-4ffc-ad7e-e0b496a9bb44/e067da68-2626-476c-8c8e-ea061b8259f6/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Biden pledge to renew America's standing around world in peril as Afghanistan debacle sparks outrage"
     excerpt: "President Joe Biden's pledge to renew America's standing on the world stage is in jeopardy as international leaders express outrage over his rushed withdrawal from Afghanistan."
