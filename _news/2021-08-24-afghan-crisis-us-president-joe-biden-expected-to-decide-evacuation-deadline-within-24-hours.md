@@ -59,6 +59,22 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Joe Biden praises WNBA champs for social justice activism"
+    excerpt: "The visit marked the first time that an NBA or WNBA team has visited the White House since the Cleveland Cavaliers were feted by Barack Obama in 2016."
+    publishedDateTime: 2021-08-24T00:19:00Z
+    webUrl: "https://www.tampabay.com/sports/2021/08/23/joe-biden-praises-wnba-champs-for-social-justice-activism/"
+    ampWebUrl: "https://www.tampabay.com/sports/2021/08/23/joe-biden-praises-wnba-champs-for-social-justice-activism/?outputType=amp"
+    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/sports/2021/08/23/joe-biden-praises-wnba-champs-for-social-justice-activism/?outputType=amp"
+    type: article
+    provider:
+      name: Tampa Bay Times
+      domain: tampabay.com
+    quality: 75
+    images:
+      - url: "https://www.tampabay.com/resizer/H3idYXdZk6JBiyKwaxGXggjk8_8=/800x450/filters:focal(2065x1285:2075x1275)/cloudfront-us-east-1.images.arcpublishing.com/tbt/EPAHJMPR7OBARKIDWG2FATIR2Q.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Storm commemorates 2020 WNBA championship with President Joe Biden at White House"
     excerpt: "Before leaving the nation’s capital, the Storm stopped by the White House on Monday, marking a return to normalcy when sports teams regularly received invitations to celebrate championships and their athletic achievements."
     publishedDateTime: 2021-08-24T00:05:00Z

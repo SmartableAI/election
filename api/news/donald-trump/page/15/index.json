@@ -2,6 +2,58 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-05-10-roger-stone-said-michael-flynn-should-be-drafted-by-trump-supporters-for-2024-run-if-trump-decides-not-to.md",
+      "title": "Roger Stone said Michael Flynn should be 'drafted' by Trump supporters for 2024 run if Trump decides not to",
+      "excerpt": "Roger Stone appeared on Newsmax to tout Michael Flynn, a fellow longtime Trump ally and conspiracy theorist who was pardoned by the former president.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/roger-stone-michael-flynn-trump-2024-election-supporters-2021-5",
+      "originalUrl": "https://www.businessinsider.com/roger-stone-michael-flynn-trump-2024-election-supporters-2021-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5c956a69ffcb27247e073fb8?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/roger-stone-michael-flynn-trump-2024-election-supporters-2021-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/roger-stone-michael-flynn-trump-2024-election-supporters-2021-5?amp",
+      "publishedDateTime": "2021-05-09T14:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-10-trump-calls-medina-spirit-a-junky-after-horse-tests-positive-for-betamethasone.md",
       "title": "Trump calls Medina Spirit a ‘junky’ after horse tests positive for betamethasone",
       "excerpt": "Former President Donald Trump called Medina Spirit a “junky” on Sunday, after the Kentucky Derby winner’s trainer revealed the horse tested positive for an illegal",
@@ -1485,58 +1537,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-donald-trump-suggests-he-may-sue-cnn-over-project-veritas-video-allegedly-proving-bias.md",
-      "title": "Donald Trump Suggests He May Sue CNN Over Project Veritas Video Allegedly Proving Bias",
-      "excerpt": "\"This is like a campaign contribution of magnitudes like nobody's ever seen before,\" former President Donald Trump said of a Project Veritas video that secretly recorded a CNN employee describing the network's reporting as anti-Trump \"propaganda.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-suggests-he-may-sue-cnn-over-project-veritas-video-allegedly-proving-bias-1587306",
-      "originalUrl": "https://www.newsweek.com/donald-trump-suggests-he-may-sue-cnn-over-project-veritas-video-allegedly-proving-bias-1587306",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1784619/donald-trump-project-veritas-cnn-lawsuit.jpg",
-          "width": 2500,
-          "height": 1871,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-suggests-he-may-sue-cnn-over-project-veritas-video-allegedly-proving-bias-1587306?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-suggests-he-may-sue-cnn-over-project-veritas-video-allegedly-proving-bias-1587306?amp=1",
-      "publishedDateTime": "2021-04-28T16:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

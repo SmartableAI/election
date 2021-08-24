@@ -2,6 +2,54 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-14-trump-fundraises-off-total-loser-andrew-cuomo-resigning.md",
+      "title": "Trump fundraises off ‘total loser’ Andrew Cuomo resigning",
+      "excerpt": "Former President Donald Trump is fundraising off the resignation of “total loser” and soon-to-be-former New York Gov. Andrew Cuomo.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/08/13/trump-fundraises-off-total-loser-andrew-cuomo-resigning/",
+      "originalUrl": "https://nypost.com/2021/08/13/trump-fundraises-off-total-loser-andrew-cuomo-resigning/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-cuomo.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/08/13/trump-fundraises-off-total-loser-andrew-cuomo-resigning/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/13/trump-fundraises-off-total-loser-andrew-cuomo-resigning/amp/",
+      "publishedDateTime": "2021-08-13T12:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-trump-reinstatement-day-latest-failure-in-predictions-hell-resume-presidency-oust-biden.md",
       "title": "Trump 'Reinstatement Day' Latest Failure in Predictions He'll Resume Presidency, Oust Biden",
       "excerpt": "Despite the months-long failed predictions that Trump would be reinstated as president, some supporters of the theory continue to peddle it.",
@@ -1421,49 +1469,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-janey-invokes-slavery-trump-birtherism-over-question-on-vaccine-passports.md",
-      "title": "Janey invokes slavery, Trump birtherism over question on vaccine passports",
-      "excerpt": "Acting Mayor Kim Janey wouldn’t say whether she’s considering following New York City’s lead and mandating proof of vaccines for various indoor activities — but she did reference slavery, the Jim",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonherald.com/2021/08/03/janey-invokes-slavery-trump-birtherism-over-question-on-vaccine-passports/",
-      "originalUrl": "https://www.bostonherald.com/2021/08/03/janey-invokes-slavery-trump-birtherism-over-question-on-vaccine-passports/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bostonherald.com/wp-content/uploads/2021/08/MAYORsc003.jpg?w=1024&#038;h=727",
-          "width": 1024,
-          "height": 727,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bostonherald.com/2021/08/03/janey-invokes-slavery-trump-birtherism-over-question-on-vaccine-passports/amp/",
-      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/08/03/janey-invokes-slavery-trump-birtherism-over-question-on-vaccine-passports/amp/",
-      "publishedDateTime": "2021-08-03T15:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boston Herald",
-        "domain": "bostonherald.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

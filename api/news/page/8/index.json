@@ -2,6 +2,62 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-08-04-boston-mayor-uses-slavery-trump-to-shoot-down-questions-about-vaccine-passports.md",
+      "title": "Boston mayor uses slavery, Trump to shoot down questions about vaccine passports",
+      "excerpt": "Acting Boston Mayor Kim Janey shot down talks of enforcing vaccine passports in the city, comparing such papers to the Jim Crow era and former President Donald Trump’s birtherism theories.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5WZ_sj_NUq4/boston-mayor-vaccine-passports-new-york-city",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5WZ_sj_NUq4/boston-mayor-vaccine-passports-new-york-city",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5a29dc84-ff99-4991-ad67-439ad4c35eec/a0545df5-b69a-4b20-8cda-e2fb50bc90f7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/boston-mayor-vaccine-passports-new-york-city.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boston-mayor-vaccine-passports-new-york-city.amp",
+      "publishedDateTime": "2021-08-04T06:28:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-cuomo-jams-democrats-with-trump-playbook-the-note.md",
       "title": "Cuomo jams Democrats with Trump playbook: The Note",
       "excerpt": "Gov. Andrew Cuomo is clinging to office by running plays made familiar by former President Trump, mixing indignant denials with what-aboutism and an instinct to fight.",
@@ -1285,62 +1341,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-white-house-once-again-makes-covid-19-the-focus-of-bidens-schedule.md",
-      "title": "White House once again makes Covid-19 the focus of Biden's schedule",
-      "excerpt": "The White House is making a concerted effort to return the focus of President Joe Biden's schedule to Covid-19 this week as the year-and-a-half-long pandemic again consumes his agenda amid a new spike in cases.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3avBHG0W9pc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3avBHG0W9pc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 395,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210730093822-biden-cnn-primera-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/02/politics/white-house-covid-push/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/02/politics/white-house-covid-push/index.html",
-      "publishedDateTime": "2021-08-02T07:10:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

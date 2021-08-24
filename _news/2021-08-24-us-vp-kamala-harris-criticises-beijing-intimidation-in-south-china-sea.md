@@ -3,18 +3,22 @@ category: news
 title: "US VP Kamala Harris criticises Beijing intimidation in South China Sea"
 excerpt: "US Vice President Kamala Harris has hit out at China during a speech made in Singapore on the first leg of a South East Asian tour. Ms Harris accused Beijing of coercion and intimidation in the South China Sea,"
 publishedDateTime: 2021-08-24T04:45:00Z
-originalUrl: "https://www.bbc.co.uk/news/world-asia-58312947"
-webUrl: "https://www.bbc.co.uk/news/world-asia-58312947"
-ampWebUrl: "https://www.bbc.co.uk/news/world-asia-58312947.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-asia-58312947.amp"
+originalUrl: "https://www.bbc.com/news/world-asia-58312947"
+webUrl: "https://www.bbc.com/news/world-asia-58312947"
+ampWebUrl: "https://www.bbc.com/news/world-asia-58312947.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-asia-58312947.amp"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -620,6 +624,6 @@ related:
         height: 422
         isCached: true
 
-secured: "XfgbCVQy+XCpw/3gkEy4a9pNBWwgY3398i+OhYa1hJ59qeKgwiiDVW11xJyEQ5dWjMDaRqKDj5382/Pbv3pi3Kf38F1hl3bMnyBrlZkIhXjYgs6z2Eelqd2QdzEEmhQNhNcV9XRVGa//mCe+ZdC83Gi49kJwQIpv9tCUhJiO7yf+aHQStBPKskEeRAjPPeC3DoO9V8RnCtXIn3igeGw0+ruO6fU9BVTkvZLBYtJxhV/RxEaabqi3bob8Ec9uPEGn5jeyns/nCeTs/pHFchWsfwhUN7XwUVxoKnJhh74pTxKYLwDNTofmugdxkJcohhPi5m+Nzvq0BxV6qLxzoAKTCAbG1/x0b9VkcesBin3fDjI=;+ivCgrh6ViIXPteTV+2bJw=="
+secured: "mGi5gVFU+ikGECo9xD1UytQgoVN6v63uN/884RH4Y74WeqLYKgyJFzE47988PMUA6vVHNLMBn1xuGTysTnirOxgDkK/wqLH17Td4xwyC1LEp76QJRs5hzBo5+QstcC24XDDnjwRSKSCW3c8Vfhe8rxF149e+XSuioyep9Xhwrb7j6d66NlCSpOCmM19rKAGIsxPbHBOvbUVYdShkKGpVnFuwa75u8rCH6zPRMEsLGRz35NkxtmJHYSmFhRLXZKEziAAZnw0tanAxE0W5ACRyCSG4QleSR+pJzD47LvdssPJSqgRtijhDZz9LfGfvkQs1mTIR6k/21KdSm/llBckiIF7cGtZKnsaogzLt7fnvtkY=;+yCl0of/nUsxzTuFWmqSzg=="
 ---
 

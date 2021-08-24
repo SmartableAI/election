@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-07-29-mike-pence-joins-conservative-groups-in-jumping-into-abortion-debate-at-supreme-court.md",
+      "title": "Mike Pence joins conservative groups in jumping into abortion debate at Supreme Court",
+      "excerpt": "WASHINGTON – A conservative advocacy group launched by former Vice President Mike Pence is wading into a high-profile abortion case at the Supreme Court, arguing the landmark Roe v. Wade decision has contributed to the destabilization of families.",
+      "sourceUrl": null,
+      "webUrl": "https://www.visaliatimesdelta.com/story/news/politics/2021/07/29/mike-pence-wades-into-abortion-debate-supreme-court/5423404001/",
+      "originalUrl": "https://www.visaliatimesdelta.com/story/news/politics/2021/07/29/mike-pence-wades-into-abortion-debate-supreme-court/5423404001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/07/29/USAT/492ab61d-848c-4d77-8004-e33c65d0f7d6-AP_Conservative_Summit.jpg?auto=webp&crop=5451,3066,x1,y160&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.visaliatimesdelta.com/amp/5423404001",
+      "cdnAmpWebUrl": "https://amp-visaliatimesdelta-com.cdn.ampproject.org/c/s/amp.visaliatimesdelta.com/amp/5423404001",
+      "publishedDateTime": "2021-07-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Visalia Times-Delta",
+        "domain": "visaliatimesdelta.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-elizabeth-warren-backs-newsom-in-recall-fight-accuses-trump-republicans-of-coming-to-grab-power.md",
       "title": "Elizabeth Warren backs Newsom in recall fight, accuses 'Trump Republicans' of 'coming to grab power'",
       "excerpt": "California Gov. Gavin Newsom received the backing of Sen. Elizabeth Warren in a fiery ad released Wednesday by the top progressive who accused “Trump Republicans” of “coming to grab power in California.”",
@@ -1271,58 +1314,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-gop-lawmakers-request-cuba-meeting-with-biden.md",
-      "title": "GOP lawmakers request Cuba meeting with Biden",
-      "excerpt": "A group of 19 Republican lawmakers penned a letter to President Biden on Monday requesting a meeting to discuss the ongoing situation in Cuba, which has escalated in recent weeks following protests ag",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/564956-gop-lawmakers-request-cuba-meeting-with-biden",
-      "originalUrl": "https://thehill.com/homenews/administration/564956-gop-lawmakers-request-cuba-meeting-with-biden",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 645,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/article_images/cuba-protest_miami_071121getty_cuba.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/564956-gop-lawmakers-request-cuba-meeting-with-biden?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/564956-gop-lawmakers-request-cuba-meeting-with-biden?amp",
-      "publishedDateTime": "2021-07-26T17:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

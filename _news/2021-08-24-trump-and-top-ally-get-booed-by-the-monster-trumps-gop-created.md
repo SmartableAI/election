@@ -69,6 +69,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Not even Donald Trump can control the monster he created"
+    excerpt: "This is Frankenstein's monster come to life in the year 2021. Trump has created a following that even he can't control anymore. Consider how we got to that"
+    publishedDateTime: 2021-08-23T19:30:00Z
+    webUrl: "https://www.wthitv.com/content/national/575154532.html"
+    ampWebUrl: "http://www.wthitv.com/templates/AMP?contentID=575154532"
+    cdnAmpWebUrl: "https://www-wthitv-com.cdn.ampproject.org/c/www.wthitv.com/templates/AMP?contentID=575154532"
+    type: article
+    provider:
+      name: WTHI-TV
+      domain: wthitv.com
+    quality: 75
+    images:
+      - url: "http://media.heartlandtv.com/designimages/wthi-story-default-image-640x380.png"
+        width: 640
+        height: 380
+        isCached: true
   - title: "Trump Booed After Encouraging Vaccinations"
     excerpt: "Former President Donald Trump was booed by his own supporters during a rally in Cullman, Alabama Saturday night after he encouraged the crowd to get vaccinated against COVID-19,” Newsweek reports."
     publishedDateTime: 2021-08-22T12:29:00Z

@@ -868,6 +868,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden faces pressure from allies on Afghanistan deadline prior to G7 meeting, Taliban issues warning"
+    excerpt: "European allies are applying pressure on the Biden administration to extend the Aug. 31 deadline for withdrawing from Afghanistan despite warnings from the Taliban against crossing a “red line,” according to a report."
+    publishedDateTime: 2021-08-24T06:30:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Yv59Ywyx3GI/biden-faces-pressure-from-allies-on-afghanistan-deadline-prior-to-g7-meeting-taliban-issues-warning"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-faces-pressure-from-allies-on-afghanistan-deadline-prior-to-g7-meeting-taliban-issues-warning.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-faces-pressure-from-allies-on-afghanistan-deadline-prior-to-g7-meeting-taliban-issues-warning.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Gavin Newsom 'incredibly proud' of Biden amid Afghanistan debacle, doubles down on campaigning with him"
     excerpt: "Embattled California Gov. Gavin Newsom said he is \"incredibly proud\" of President Biden amid the blowback from his botched Afghanistan withdrawal and doubled down on campaigning with him."
     publishedDateTime: 2021-08-17T17:06:44Z
@@ -1338,6 +1354,15 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 55
+  - title: "The Big Bet Joe Biden Is Making on Afghanistan"
+    excerpt: "Joe Biden believes that you don't care about Afghanistan. Or, maybe more accurately, that you won't care about it by the time the 2022 (and 2024) elections rolls around. Read Full"
+    publishedDateTime: 2021-08-23T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/08/23/the_big_bet_joe_biden_is_making_on_afghanistan_550083.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "f3bLgmbObKJ9c/3WjnXamNGXWDy2zoCbZZHaf06t1xN0jHq6DhGzhDTr6+qsVz98IPagzmoKuJ45nD1BgbycyNUmrJj9UvLIS3AnBSZHWmCrclmFxobeGmkTnbxj6CWp59CbGZYEGOi/a+Z7Tc8M7fnRC07Llk9tr2im26WV7nmVb9ARYy1mHU8Q4gcimKih952Swo/Y0JeZj0W61cL+GtTvXaMADltrvgiB+1XpTbsmOPAnVrN7jUpYSMaKVMRP2g0cAGA6EhROHMdsEgB8ZVfcZb35BNBuXCCZ/4wMhesj9pQZyb6EpA9i+bCFu20ROntmkVqeBRujjSnvb60KIZtYEaFVYJQEidbicEPkGxo=;lOSvJJx62gMkzybCc/EooA=="
 ---

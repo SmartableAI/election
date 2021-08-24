@@ -2,6 +2,58 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-07-21-mccarthy-appoints-0-republicans-who-voted-to-impeach-trump-to-capitol-riot-committee.md",
+      "title": "McCarthy Appoints 0 Republicans Who Voted to Impeach Trump to Capitol Riot Committee",
+      "excerpt": "McCarthy leaving Republicans who voted to impeach Trump off the committee indicates they plan to push back on the idea that Trump is responsible for the riot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920",
+      "originalUrl": "https://www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 178,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1829552/trump-republicans-select-committee-impeachment.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920?amp=1",
+      "publishedDateTime": "2021-07-20T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-animatronic-joe-biden-joins-hall-of-presidents-at-walt-disney-worlds-magic-kingdom.md",
       "title": "Animatronic Joe Biden joins Hall of Presidents at Walt Disney World's Magic Kingdom",
       "excerpt": "Former President Donald Trump's animatronic replica is being moved to another spot in the Hall of Presidents at Walt Disney World.",
@@ -1227,49 +1279,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-18-pence-feenstra-slam-dems-for-massive-expansion-of-government-at-picnic.md",
-      "title": "Pence, Feenstra slam Dems for 'massive expansion of government' at picnic",
-      "excerpt": "Former VP Mike Pence decried policies of open borders, high taxes and \"abortion on demand,\" during a fundraiser for Rep. Randy Feenstra.",
-      "sourceUrl": null,
-      "webUrl": "https://globegazette.com/news/state-and-regional/govt-and-politics/pence-feenstra-slam-dems-for-massive-expansion-of-government-at-picnic/article_b6af748b-815b-5b5e-a2c1-ea8e16fd70e8.html",
-      "originalUrl": "https://globegazette.com/news/state-and-regional/govt-and-politics/pence-feenstra-slam-dems-for-massive-expansion-of-government-at-picnic/article_b6af748b-815b-5b5e-a2c1-ea8e16fd70e8.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/globegazette.com/content/tncms/assets/v3/editorial/2/0b/20bba3a4-5da0-56e3-847a-4c23bace4ff6/60f21602604a1.image.jpg?resize=1024%2C738",
-          "width": 1024,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://globegazette.com/news/state-and-regional/govt-and-politics/pence-feenstra-slam-dems-for-massive-expansion-of-government-at-picnic/article_b6af748b-815b-5b5e-a2c1-ea8e16fd70e8.amp.html",
-      "cdnAmpWebUrl": "https://globegazette-com.cdn.ampproject.org/c/s/globegazette.com/news/state-and-regional/govt-and-politics/pence-feenstra-slam-dems-for-massive-expansion-of-government-at-picnic/article_b6af748b-815b-5b5e-a2c1-ea8e16fd70e8.amp.html",
-      "publishedDateTime": "2021-07-17T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Globe Gazette",
-        "domain": "globegazette.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/donald-trump-gave-joe-biden-hospital-pass-a
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-gave-joe-biden-hospital-pass-afghanistan-tony-blair-defense-secretary-1621971?amp=1"
 type: article
 quality: 128
-heat: 1668
+heat: 1688
 published: true
 
 provider:
@@ -260,6 +260,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/5a751760-4f9d-4a2e-9924-5b5b7f71a317_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Boris Johnson’s Plea to Joe Biden on Afghanistan: Don’t Quit"
+    excerpt: "America’s withdrawal strikes Brits and Europeans as cynical and raises questions about whether the West still has a “strategic will.”"
+    publishedDateTime: 2021-08-24T06:55:00Z
+    webUrl: "https://www.washingtonpost.com/business/boris-johnsons-plea-to-joe-biden-on-afghanistan-dont-quit/2021/08/24/ff3b9060-04af-11ec-b3c4-c462b1edcfc8_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Joe Biden: withdrawal from Afghanistan would always be 'hard and painful'"
     excerpt: "The evacuation of thousands of Americans and their Afghan allies from Kabul would have been 'hard and painful no matter when it started or when we began', Joe Biden said on Sunday, amid fierce critici"

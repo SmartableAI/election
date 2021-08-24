@@ -275,6 +275,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Boris Johnson’s Plea to Joe Biden on Afghanistan: Don’t Quit"
+    excerpt: "America’s withdrawal strikes Brits and Europeans as cynical and raises questions about whether the West still has a “strategic will.”"
+    publishedDateTime: 2021-08-24T06:55:00Z
+    webUrl: "https://www.washingtonpost.com/business/boris-johnsons-plea-to-joe-biden-on-afghanistan-dont-quit/2021/08/24/ff3b9060-04af-11ec-b3c4-c462b1edcfc8_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Afghanistan live news: Joe Biden says there was no way to exit without ‘chaos’"
     excerpt: "Ousted president Ashraf Ghani confirms he is in UAE; UN says it will still support Afghan people; at least one dead after clash over Taliban flag"
     publishedDateTime: 2021-08-18T21:35:00Z

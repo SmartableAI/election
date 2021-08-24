@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-04-janey-invokes-slavery-trump-birtherism-over-question-on-vaccine-passports.md",
+      "title": "Janey invokes slavery, Trump birtherism over question on vaccine passports",
+      "excerpt": "Acting Mayor Kim Janey wouldn’t say whether she’s considering following New York City’s lead and mandating proof of vaccines for various indoor activities — but she did reference slavery, the Jim",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonherald.com/2021/08/03/janey-invokes-slavery-trump-birtherism-over-question-on-vaccine-passports/",
+      "originalUrl": "https://www.bostonherald.com/2021/08/03/janey-invokes-slavery-trump-birtherism-over-question-on-vaccine-passports/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bostonherald.com/wp-content/uploads/2021/08/MAYORsc003.jpg?w=1024&#038;h=727",
+          "width": 1024,
+          "height": 727,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bostonherald.com/2021/08/03/janey-invokes-slavery-trump-birtherism-over-question-on-vaccine-passports/amp/",
+      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/08/03/janey-invokes-slavery-trump-birtherism-over-question-on-vaccine-passports/amp/",
+      "publishedDateTime": "2021-08-03T15:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Boston Herald",
+        "domain": "bostonherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-infowars-pundit-ejected-from-texas-rangers-game-for-trump-won-flag.md",
       "title": "InfoWars pundit ejected from Texas Rangers game for 'Trump Won' flag",
       "excerpt": "Two spectators, one of whom reportedly was a former personality on the right-wing radio show InfoWars, hung a banner that read “Trump Won, Save America” from the upper stands during a Texas Rangers game on Sunday.",
@@ -1512,58 +1555,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-officer-trump-helped-create-this-monstrosity.md",
-      "title": "Officer: Trump 'helped create this monstrosity'",
-      "excerpt": "In testimony before the panel probing the attack on the U.S. Capitol, a police sergeant blasted former President Donald Trump's description of the scene as \"a loving crowd\". (July 27)",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/07/27/officer-trump-helped-create-monstrosity/5389523001/",
-      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/07/27/officer-trump-helped-create-monstrosity/5389523001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/24e97548-973a-41c4-a28a-d6a8d389859d_poster.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

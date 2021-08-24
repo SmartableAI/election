@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Pence, Cruz, DeSantis to headline Ricketts steak fry event"
-excerpt: "Former Vice President Mike Pence, Texas Sen. Ted Cruz and Florida Gov. Ron DeSantis are coming to Nebraska for Gov. Pete Ricketts' annual steak fry next month. The high-profile Republicans will appear at the gathering to celebrate agriculture on Sept."
-publishedDateTime: 2021-08-09T15:18:00Z
-originalUrl: "https://ktiv.com/2021/08/09/pence-cruz-desantis-to-headline-ricketts-steak-fry-event-2/"
-webUrl: "https://ktiv.com/2021/08/09/pence-cruz-desantis-to-headline-ricketts-steak-fry-event-2/"
+excerpt: "Former Vice President Mike Pence, Texas Sen. Ted Cruz and Florida Gov. Ron DeSantis are coming to Nebraska for Gov. Pete Ricketts' annual steak fry next"
+publishedDateTime: 2021-08-09T15:38:00Z
+originalUrl: "https://billingsgazette.com/news/national/govt-and-politics/pence-cruz-desantis-to-headline-ricketts-steak-fry-event/article_05dba76f-5095-5a19-9871-35e3249b3b11.html"
+webUrl: "https://billingsgazette.com/news/national/govt-and-politics/pence-cruz-desantis-to-headline-ricketts-steak-fry-event/article_05dba76f-5095-5a19-9871-35e3249b3b11.html"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: KTIV
-  domain: ktiv.com
+  name: Billings Gazette
+  domain: billingsgazette.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://quincy-network.s3.ca-central-1.amazonaws.com/wp-content/uploads/sites/4/2020/03/Governor-Ricketts-Headshot.jpg"
-    width: 720
-    height: 405
+  - url: "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/custom/image/c72cf8ac-c550-11ea-86bd-3761faee86a6.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -97,6 +97,6 @@ related:
         height: 630
         isCached: true
 
-secured: "YOaBkYhL+/qnxF/fVuxOWmNkKIuFm5Xk00DNkKTQ1MCdc6K777FkMv8iz99OYm/UKnNlKXrV25Jo/PsLxg6CRlOzeiaUnA5xLRu+ewd/VXdolC452SgwOZwfuobh1gUqjzWWuQHmq1UQSOXOdSvnr/BTVn6LOxO1lXrs633wXE/5C5AjQSLdpLN+M0P/sZaR1UcI3gn9mLlc+Jq/jnTfFpcgeDh/NLYhjhEZuXSVzuMnsG80m4O5TfOkKd7xXbCkVB9mmyNBYCzOSSvja6U1pDGR6sWYn4g/bzPnzWt5x9T3HmTYRNVnPM9DDgM1sxs+ht64RyTgr/F3qfwqkxEgqxY++Db/wbrDsrVGUl2otVg=;A0Jb+ydkxjM9QrckFgB38w=="
+secured: "C2CReuCl352lWse7NT9HnfcBUaN1fYP3wBYtVm0ILpPblyCJVG0dvblrVo1OrPWZz5icXFhA7fZPWExJYxNzwDXGh/kRQLgEPRGJSFgX9ff18HHOCNHl2FleK7EgbTAK1lI0maiV+h+DsCe18a40Y1FKWaen3+KFw1jpFroQ2RiR/OrR6f+6hSOxZSTF/nLXbBx5DH2vxYmI4eyebi4aKaUWRDQJqPZjeaUIJtHShdeA+gO747VU34u83409DCbZtSI3+8Sww++77wYVpNKePn8B9/gp1/ENLK9r3LqDy7ntasjC5aLhMnNUV6jdLTix7YE7aA5f3XfdwnJiAkxl2G4fXFzhIK6fJobEkzg/nmY=;sUv75QhOQX1caQCY+OQx9g=="
 ---
 

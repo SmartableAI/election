@@ -51,22 +51,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Moderates bring House to standstill in Biden budget clash"
-    excerpt: "House Democratic leaders are trying to muscle President Joe Biden’s multitrillion-dollar budget blueprint over a key hurdle"
-    publishedDateTime: 2021-08-24T05:09:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/moderates-bring-house-standstill-biden-budget-clash-79613222"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/moderates-bring-house-standstill-biden-budget-clash-79613222"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/moderates-bring-house-standstill-biden-budget-clash-79613222"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_b20bbdc0fd1346c9a17b53d2dbe90241_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Joe Biden Said He Is Committed To Helping Evacuate Afghan Allies Who Worked With The US Government"
     excerpt: "In a speech at the White House, Biden again stood by his decision to withdraw US forces from the country. By Clarissa-Jan Lim Posted on August 20, 2021, at 3:05 p.m. ET President Joe Biden delivers remarks on the ongoing evacuation efforts in Afghanistan,"
     publishedDateTime: 2021-08-20T23:13:00Z
@@ -483,6 +467,17 @@ related:
         width: 5000
         height: 3333
         isCached: true
+  - title: "Moderates bring House to standstill in Biden budget clash"
+    excerpt: "House Democratic leaders are trying to muscle President Joe Biden’s multitrillion-dollar budget blueprint over a key hurdle."
+    publishedDateTime: 2021-08-24T07:44:00Z
+    webUrl: "https://www.tri-cityherald.com/news/business/national-business/article253699738.html"
+    ampWebUrl: "https://amp.tri-cityherald.com/news/business/national-business/article253699738.html"
+    cdnAmpWebUrl: "https://amp-tri--cityherald-com.cdn.ampproject.org/c/s/amp.tri-cityherald.com/news/business/national-business/article253699738.html"
+    type: article
+    provider:
+      name: Tri-City Herald
+      domain: tri-cityherald.com
+    quality: 55
   - title: "The high price of Biden's Kabul blunder"
     excerpt: "Our commander in chief and his woke generals have blown the evacuation of Kabul so badly that even CNN and MSNBC have had to cover it. For the past month, Biden assured us that when our military left Kabul,"
     publishedDateTime: 2021-08-24T03:30:00Z

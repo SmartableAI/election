@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-24-hostile-trump-mob-sends-gop-rep-brooks-into-panicked-backpedal-on-moving-on-from-2020.md",
+      "title": "Hostile Trump mob sends GOP Rep. Brooks into panicked backpedal on moving on from 2020",
+      "excerpt": "Rachel Maddow shares video of Republican Congressman Mo Brooks being roundly booed by the audience at a Donald Trump rally in Alabama after Brooks suggested they move on from Trump's 2020 loss and focus on future elections.",
+      "sourceUrl": null,
+      "webUrl": "https://www.msnbc.com/rachel-maddow/watch/hostile-trump-mob-sends-gop-rep-brooks-into-panicked-backpedal-on-moving-on-from-2020-119318597524",
+      "originalUrl": "https://www.msnbc.com/rachel-maddow/watch/hostile-trump-mob-sends-gop-rep-brooks-into-panicked-backpedal-on-moving-on-from-2020-119318597524",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_08/1629780121191_n_maddow_brooks_210823_1920x1080-6wbvgr.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.msnbc.com/msnbc/amp-video/mmvo119318597524",
+      "cdnAmpWebUrl": "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo119318597524",
+      "publishedDateTime": "2021-08-23T21:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSNBC",
+        "domain": "msnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/msnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-craig-says-he-wants-to-be-defined-as-james-craig-not-donald-trump.md",
       "title": "Craig says he wants 'to be defined as James Craig, not Donald Trump'",
       "excerpt": "Former Detroit Police Chief James Craig, who is exploring a run for Michigan governor, says he would accept Donald Trump's endorsement if offered.",
@@ -53,7 +110,7 @@
       "originalUrl": "https://www.newsweek.com/trump-ripped-alex-jones-recommending-covid-vaccines-after-being-booed-rally-1622221",
       "featuredContent": null,
       "highlight": null,
-      "heat": 398,
+      "heat": 418,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -529,7 +586,7 @@
       "originalUrl": "https://www.theguardian.com/tv-and-radio/2021/aug/22/tv-tonight-ruby-wax-revisits-her-time-with-donald-trump",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1385,54 +1442,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-14-trump-fundraises-off-total-loser-andrew-cuomo-resigning.md",
-      "title": "Trump fundraises off ‘total loser’ Andrew Cuomo resigning",
-      "excerpt": "Former President Donald Trump is fundraising off the resignation of “total loser” and soon-to-be-former New York Gov. Andrew Cuomo.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/08/13/trump-fundraises-off-total-loser-andrew-cuomo-resigning/",
-      "originalUrl": "https://nypost.com/2021/08/13/trump-fundraises-off-total-loser-andrew-cuomo-resigning/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-cuomo.jpg?quality=90&strip=all&w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/08/13/trump-fundraises-off-total-loser-andrew-cuomo-resigning/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/13/trump-fundraises-off-total-loser-andrew-cuomo-resigning/amp/",
-      "publishedDateTime": "2021-08-13T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

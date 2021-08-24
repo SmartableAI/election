@@ -47,6 +47,22 @@ related:
         width: 320
         height: 214
         isCached: true
+  - title: "US VP Kamala Harris criticises Beijing intimidation in South China Sea"
+    excerpt: "US Vice President Kamala Harris has hit out at China during a speech made in Singapore on the first leg of a South East Asian tour. Ms Harris accused Beijing of coercion and intimidation in the South China Sea,"
+    publishedDateTime: 2021-08-24T04:45:00Z
+    webUrl: "https://www.bbc.com/news/world-asia-58312947"
+    ampWebUrl: "https://www.bbc.com/news/world-asia-58312947.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-asia-58312947.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/105E2/production/_120224076_gettyimages-1234839274.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Kamala Harris heads to Vietnam while Afghanistan images rekindle the past"
     excerpt: "White House officials did not anticipate the comparisons with Afghanistan when they charted Vice President Kamala Harris' trip to Vietnam."
     publishedDateTime: 2021-08-20T15:05:00Z
@@ -232,22 +248,6 @@ related:
       - url: "https://www.denverpost.com/wp-content/uploads/2021/08/Singapore_US_Harris_92376.jpg?w=1024&#038;h=677"
         width: 1024
         height: 677
-        isCached: true
-  - title: "US VP Kamala Harris criticises Beijing intimidation in South China Sea"
-    excerpt: "US Vice President Kamala Harris has hit out at China during a speech made in Singapore on the first leg of a South East Asian tour. Ms Harris accused Beijing of coercion and intimidation in the South China Sea,"
-    publishedDateTime: 2021-08-24T04:45:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-asia-58312947"
-    ampWebUrl: "https://www.bbc.co.uk/news/world-asia-58312947.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-asia-58312947.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 75
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/105E2/production/_120224076_gettyimages-1234839274.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "VP Kamala Harris to return to California to campaign for Newsom next week"
     excerpt: "WASHINGTON — Vice President Kamala Harris will campaign for Gov. Gavin Newsom next week as the Democratic Party rallies around the California governor in his recall battle. The vice president and former California senator will visit her home state next ..."
@@ -624,6 +624,6 @@ related:
         height: 422
         isCached: true
 
-secured: "HDpa8SXXffv8bTZT+JWpeY8p6Z8rz7chB/F4L/WsMV+oBtc5K9kFMRca7TMjKRt90so982iSbwgMCyVj565tsFZhZ8ahl4HuXcAyxeYbLlNrHRWyiPx3HKhWs+eKM7IclNZwMDFjnj+30lU4UoXB0fEt2VZ2xglExD+gXbDJ26PMuMYxhrRz/oXZhQ4mdVE5ZTXh78CEDEYyXNoKiQzi05lyYQZEyd6jZqH4BKsfay3xk5y1jC4SkaMw8dQtWUJwPqFwedINz88Q7xL+zROxv3XAGCO+aMysfdjnHgOi1KR9u3Opxpavx9Y1OY9O5CkdaZkG4jmB/5sgEr/XeJLGHreRGjQAsbDY4F0DkDio5I0=;JpUMzThBElN/EMH6DsgLQw=="
+secured: "ZO1A081BqNbCq0hcP27sONYoHWe1hcEIOOJKvDPbv5eM0r1TZiq8/quUkjwDgov79cHLI05lY+4jj+933S8FCeqRroB7tiHKjbqgVinQXhw1Hns0+Nh/GOc8OTe6XcVQgbP6+E5UoU4egAaHQTTXNJPxSzyRZeAj8OPtcjz23fzf9jHGBJUwA1KLMK+c17yXT19dCjkuqWCEjmAPSWf/PDY/WvD/UugMtvRQQ6JTW3VQotIA8ibikrMT6aJejbH6pojIbRR52C26WYxoe3KtH2LzCu9ZOstdOn6776jDUZwBnB4ETe8YTwx0KmAZ/EE9GXUuwn1E4LVNz7jvN3uQEteFk2mufOPHg36bW0cToexip+o2Ilv5vjCyq495VQm6of7yeMvvMadSCp9MH4z5hi7xHstyD/YTvXCLJ9EnkGwhk5EbxNsGWnLWEnUZKgDaMJg8aGmwaD9A8wkBP2mkZHNul6aKc3sLoZutlKyO0oPD4js/zpHC0xvtHypo074A7eamlkZQIfAOkokNBp/qRQ==;g78g7CqWhNRBz2qIfIxjPw=="
 ---
 

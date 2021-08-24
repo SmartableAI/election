@@ -2,6 +2,63 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-04-29-kamala-harris-agrees-with-tim-scott-that-the-us-is-not-racist-but-says-racism-must-not-be-ignored.md",
+      "title": "Kamala Harris agrees with Tim Scott that the US is not racist, but says racism must not be ignored",
+      "excerpt": "Vice President Kamala Harris on Thursday agreed with South Carolina Sen. Tim Scott that the United States is not a racist country, but added that the nation has a history of racism that cannot be overlooked.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TsILXxNmk20/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TsILXxNmk20/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210428235703-79-biden-address-0428-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/29/politics/kamala-harris-tim-scott/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/kamala-harris-tim-scott/index.html",
+      "publishedDateTime": "2021-04-29T05:49:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-uproar-over-mike-pences-memoir-highlights-growing-conflicts-in-publishing-experts-say.md",
       "title": "Uproar over Mike Pence's memoir highlights growing conflicts in publishing, experts say",
       "excerpt": "When the publishing giant Simon & Schuster recently announced it would release former Vice President Mike Pence’s autobiography, the decision evidently infuriated rank-and-file workers, who reportedly submitted a petition demanding the company stop ...",
@@ -1635,63 +1692,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-pence-underwent-successful-surgery-to-have-a-pacemaker-implanted.md",
-      "title": "Pence underwent successful surgery to have a pacemaker implanted",
-      "excerpt": "Former Vice President Mike Pence underwent a successful surgery Wednesday to have a pacemaker implanted to help combat a slow heart rate he's recently experienced, his office said in a statement.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bAaKLToSeZ8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bAaKLToSeZ8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210115145314-01-mike-pence-0104-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/15/politics/mike-pence-pacemaker/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/15/politics/mike-pence-pacemaker/index.html",
-      "publishedDateTime": "2021-04-15T12:31:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
       ]
     }
   ],

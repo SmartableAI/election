@@ -879,6 +879,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden faces pressure from allies on Afghanistan deadline prior to G7 meeting, Taliban issues warning"
+    excerpt: "European allies are applying pressure on the Biden administration to extend the Aug. 31 deadline for withdrawing from Afghanistan despite warnings from the Taliban against crossing a “red line,” according to a report."
+    publishedDateTime: 2021-08-24T06:30:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Yv59Ywyx3GI/biden-faces-pressure-from-allies-on-afghanistan-deadline-prior-to-g7-meeting-taliban-issues-warning"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-faces-pressure-from-allies-on-afghanistan-deadline-prior-to-g7-meeting-taliban-issues-warning.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-faces-pressure-from-allies-on-afghanistan-deadline-prior-to-g7-meeting-taliban-issues-warning.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Pentagon may ask Biden to stay in Afghanistan past Aug 31, but won't retake Bagram to speed evacuations"
     excerpt: "A Department of Defense spokesman poured cold water on the idea of the U.S. military retaking Bagram Airfield."
     publishedDateTime: 2021-08-23T16:37:35Z
@@ -1337,6 +1353,15 @@ related:
     excerpt: "David A. Andelman writes that President Joe Biden should not be setting a date for withdrawal of US troops from Afghanistan since the reason the US first entered the country -- to address a major terrorist threat -- has not been fully addressed."
     publishedDateTime: 2021-04-14T11:37:00Z
     webUrl: "https://www.realclearpolitics.com/2021/04/14/biden_making_a_major_mistake_on_afghanistan_540470.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
+  - title: "The Big Bet Joe Biden Is Making on Afghanistan"
+    excerpt: "Joe Biden believes that you don't care about Afghanistan. Or, maybe more accurately, that you won't care about it by the time the 2022 (and 2024) elections rolls around. Read Full"
+    publishedDateTime: 2021-08-23T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/08/23/the_big_bet_joe_biden_is_making_on_afghanistan_550083.html"
     type: article
     provider:
       name: RealClearPolitics

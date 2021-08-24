@@ -36,6 +36,22 @@ related:
       name: Newsweek
       domain: newsweek.com
     quality: 98
+  - title: "Alabama crowd boos Donald Trump when he recommends taking COVID vaccines"
+    excerpt: "Former President Donald Trump visited Alabama over the weekend to hold a rally with his supporters. Speaking on many topics that brought forth cheers from the audience, Trump also called on people to get vaccinated against the coronavirus,"
+    publishedDateTime: 2021-08-23T18:39:00Z
+    webUrl: "https://fox8.com/news/alabama-crowd-boos-donald-trump-when-he-recommends-taking-covid-vaccines/"
+    ampWebUrl: "https://fox8.com/news/alabama-crowd-boos-donald-trump-when-he-recommends-taking-covid-vaccines/amp/"
+    cdnAmpWebUrl: "https://fox8-com.cdn.ampproject.org/c/s/fox8.com/news/alabama-crowd-boos-donald-trump-when-he-recommends-taking-covid-vaccines/amp/"
+    type: article
+    provider:
+      name: FOX8 Cleveland
+      domain: fox8.com
+    quality: 74
+    images:
+      - url: "https://fox8.com/wp-content/uploads/sites/12/2021/07/AP21100770302113.jpg?w=1280"
+        width: 1280
+        height: 849
+        isCached: true
   - title: "Donald Trump Booed At His Own Rally After Telling Everyone To Get Vaccinated"
     excerpt: "But it was when he urged everyone to get vaccinated against the coronavirus that his followers turned on him. \"You know what? I believe totally in your freedoms, I do. You gotta do what you have to do,"
     publishedDateTime: 2021-08-22T23:05:00Z
