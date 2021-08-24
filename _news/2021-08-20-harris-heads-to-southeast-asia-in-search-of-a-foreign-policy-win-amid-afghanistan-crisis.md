@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "In Southeast Asia, Kamala Harris’s Message: You Can Count on the U.S."
+    excerpt: "The vice president rebuked China and sought to fortify the image of the United States as a credible ally amid growing questions about Afghanistan."
+    publishedDateTime: 2021-08-24T08:52:00Z
+    webUrl: "https://www.nytimes.com/2021/08/24/world/asia/kamala-harris-singapore-vietnam.html"
+    ampWebUrl: "https://www.nytimes.com/2021/08/24/world/asia/kamala-harris-singapore-vietnam.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/24/world/asia/kamala-harris-singapore-vietnam.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/08/24/world/24harris-asia-01/24harris-asia-01-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "uz20rLEfBRhDMJVghbBNpk6wxLmyY1Mg9vC0z8K3epF9f49M4CjMMZQvIkSqEHcB/X0GtO8ZY2uasyeaPgghB95ib5CuY3SdjCa8UzG5+lpsHfjlrCtjNnvKVoQFGYVCKrRDCJf5ATk9+f0tR38P3ogozV0/y/+krGBVOEXTAiAfPDi+prPXRchBAL76ao0nVdQuHrlfz5FwV/q3OECxBAcPzViYZWLoVl6F/rCXxXrItGyehTUSyWoUc7AhZmzhGGmiG774OReVdquSRZzf6s2F1LZ7wP40qxaVCGB7C0sSn4nDlndepDzKu08AH3ZsCt5Qpxg5mZv4gqWbUNkmzbZJ6zLyyj7Sk0Kc+QcgMy8=;1V0T7WfyTfkn755qobNohA=="
 ---

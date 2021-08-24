@@ -90,6 +90,22 @@ related:
       name: The Bellingham Herald
       domain: bellinghamherald.com
     quality: 70
+  - title: "Trump’s Taliban deal complicates message for GOP contenders | Charlotte Observer"
+    excerpt: "The chaotic U.S. withdrawal from Afghanistan may haunt President Joe Biden, but it could also hang over some of the Republicans who will seek to replace him in 2024."
+    publishedDateTime: 2021-08-24T09:00:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article253683123.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article253683123.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article253683123.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/346c4d4c-0ebe-4577-bdbf-21c5f8e914af/554385c1-d5d0-4f0c-9b03-7bab5722a707/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "GOP Senate candidates take page from Trump playbook as they fight for populist title"
     excerpt: "Republicans in Ohio's Senate race are running on the message that propelled former President Donald Trump to office."
     publishedDateTime: 2021-08-23T10:26:00Z

@@ -1024,6 +1024,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Joe Biden on brink as Kamala Harris tipped to take over as US President after Afghan 'fias"
+    excerpt: "JOE Biden's days in the White House are numbered after the fiasco surrounding his \"chronically inept\" decision to pull troops out of Afghanistan - and the countdown has begun to a Kamala Harris presidency,"
+    publishedDateTime: 2021-08-24T09:37:00Z
+    webUrl: "https://www.express.co.uk/news/world/1481062/joe-biden-kamala-harris-afghanistan-august-31-deadline-donald-trump-kabul"
+    ampWebUrl: "https://www.express.co.uk/news/world/1481062/joe-biden-kamala-harris-afghanistan-august-31-deadline-donald-trump-kabul/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/world/1481062/joe-biden-kamala-harris-afghanistan-august-31-deadline-donald-trump-kabul/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 90
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/78/590x/Joe-Biden-1481062.jpg?r=1629797944063"
+        width: 590
+        height: 350
+        isCached: true
   - title: "Kamala Harris, Nancy Pelosi will be historic duo at Biden's address to Congress"
     excerpt: "When Joe Biden delivers his first speech as president to Congress on Wednesday, history will be made behind him. For the first time during a joint address to Congress, the majority of politicians on the dais in the House of Representatives will be women,"
     publishedDateTime: 2021-04-28T11:18:00Z

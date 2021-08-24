@@ -276,18 +276,18 @@ related:
         height: 1080
         isCached: true
   - title: "Boris Johnson’s Plea to Joe Biden on Afghanistan: Don’t Quit"
-    excerpt: "America’s withdrawal strikes Brits and Europeans as cynical and raises questions about whether the West still has a “strategic will.”"
-    publishedDateTime: 2021-08-24T06:55:00Z
-    webUrl: "https://www.washingtonpost.com/business/boris-johnsons-plea-to-joe-biden-on-afghanistan-dont-quit/2021/08/24/ff3b9060-04af-11ec-b3c4-c462b1edcfc8_story.html"
+    excerpt: "America's withdrawal strikes Brits and Europeans as cynical and raises questions about whether the West still has a “strategic will.”"
+    publishedDateTime: 2021-08-24T06:48:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2021-08-24/g7-afghanistan-summit-boris-johnson-implores-joe-biden-don-t-quit"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Bloomberg
+      domain: bloomberg.com
     quality: 105
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iw.6VjvgtOk8/v1/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Afghanistan live news: Joe Biden says there was no way to exit without ‘chaos’"
     excerpt: "Ousted president Ashraf Ghani confirms he is in UAE; UN says it will still support Afghan people; at least one dead after clash over Taliban flag"
@@ -702,6 +702,22 @@ related:
       - url: "https://newscdn2.weigelbroadcasting.com/eFwaZ-1629776368-204654-blog-hypatia-h_1201b1fd23d0d0ddf45c1b8bc5b741ea-h_87a7d68d4fcdaad261ad6f318f8c6d97-300.JPG"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Afghanistan fallout to hang over potential 2024 GOP presidential contenders, as well as Biden"
+    excerpt: "The chaotic U.S. withdrawal from Afghanistan may haunt President Joe Biden, but it could also hang over some of the Republicans who will seek to replace him in 2024."
+    publishedDateTime: 2021-08-24T09:00:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/article253683123.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article253683123.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article253683123.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 64
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/346c4d4c-0ebe-4577-bdbf-21c5f8e914af/554385c1-d5d0-4f0c-9b03-7bab5722a707/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "SAG-AFTRA & WGA East Join News Unions Urging President Biden To Help Journalists Fleeing Afghanistan"
     excerpt: "The presidents of five unions representing journalists are calling on President Joe Biden to support news crews and their families who are trying to flee Afghanistan. “The United States government"

@@ -2,6 +2,54 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-12-bidens-approval-rating-sinks-to-new-low-of-50-amid-economic-fears-polls-show.md",
+      "title": "Biden’s approval rating sinks to new low of 50% amid economic fears, polls show",
+      "excerpt": "Support for President Joe Biden is taking a hit with his average approval rating sinking to a record low of 50 percent, new polls show.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/08/12/bidens-approval-rating-sinks-to-record-low-of-50-polls-show/",
+      "originalUrl": "https://nypost.com/2021/08/12/bidens-approval-rating-sinks-to-record-low-of-50-polls-show/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/rcp-poll-biden-01.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/08/12/bidens-approval-rating-sinks-to-record-low-of-50-polls-show/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/12/bidens-approval-rating-sinks-to-record-low-of-50-polls-show/amp/",
+      "publishedDateTime": "2021-08-12T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-12-lara-trump-torches-kamala-harris-spectacular-failures-as-vp-on-fox-friends.md",
       "title": "Lara Trump torches Kamala Harris' 'spectacular' failures as VP on 'Fox & Friends'",
       "excerpt": "Fox News contributor Lara Trump joined \"Fox & Friends\" Thursday, after an op-ed was penned in the New York Post stating that some Democrats do not want Vice President Kamala Harris to run for president in 2024.",
@@ -1260,58 +1308,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-times-up-co-founder-robbie-kaplan-sued-donald-trump-and-nazis-but-shes-also-helped-at-least-3-targets-of-sex-misconduct-claims.md",
-      "title": "Time's Up co-founder Robbie Kaplan sued Donald Trump and Nazis. But she's also helped at least 3 targets of sex misconduct claims.",
-      "excerpt": "Robbie Kaplan is well-known for her progressive legal work. But her work for clients accused of sexual misconduct cover-ups has reared its head.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/times-up-lawyer-roberta-robbie-kaplans-sex-misconduct-clients-cuomo-2021-8",
-      "originalUrl": "https://www.businessinsider.com/times-up-lawyer-roberta-robbie-kaplans-sex-misconduct-clients-cuomo-2021-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6112dd38d00b150018b4041f?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-10T13:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

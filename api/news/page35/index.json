@@ -2,6 +2,58 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-06-13-lawmakers-react-to-trump-doj-subpoenas-of-schiff-swalwell.md",
+      "title": "Lawmakers react to Trump DOJ subpoenas of Schiff, Swalwell",
+      "excerpt": "House Speaker Nancy Pelosi (D-Calif.) and other lawmakers responded June 13 to revelations about acts by former president Donald Trump's Justice Department.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/video/politics/lawmakers-react-to-trump-doj-subpoenas-of-schiff-swalwell/2021/06/13/20c5bdba-01b1-43b7-9c31-72fa426d2001_video.html",
+      "originalUrl": "https://www.washingtonpost.com/video/politics/lawmakers-react-to-trump-doj-subpoenas-of-schiff-swalwell/2021/06/13/20c5bdba-01b1-43b7-9c31-72fa426d2001_video.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-13-2021/t_5f5e4acf16054d74b7cb0678b91c7c29_name_20210613_SundayShows_DOJ_v1_Copy_01_00_05_47_27_Still014.jpg&w=1080",
+          "width": 1080,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-13T09:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-13-pompeo-says-biden-admin-is-taking-america-back-to-obama-years-when-america-was-weak.md",
       "title": "Pompeo says Biden admin is taking America back to Obama years when 'America was weak'",
       "excerpt": "Former Secretary of State Mike Pompeo on Sunday said that when he hears the Biden administration talking about “taking America back\" he said they are talking about taking the United States back to the years when “America was weak” during the Obama administration",
@@ -1262,58 +1314,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-how-mike-pences-new-carmel-home-compares-to-the-last-one-he-owned.md",
-      "title": "How Mike Pence's new Carmel home compares to the last one he owned",
-      "excerpt": "Former Vice President Mike Pence and his wife Karen have improved their position in life since they last owned a home in Indiana in 2013. The Pences bought a modest home in Columbus in 2001 for about $116,",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/06/11/mike-pence-house-carmel-indiana/7633750002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/06/11/mike-pence-house-carmel-indiana/7633750002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/20/PIND/9de87950-7812-481d-bbbd-87bec24d0513-01202021_Pence_GH_030.jpg?auto=webp&crop=2804,1578,x0,y334&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7633750002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7633750002",
-      "publishedDateTime": "2021-06-11T02:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

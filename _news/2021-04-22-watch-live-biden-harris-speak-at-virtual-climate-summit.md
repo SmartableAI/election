@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/policy/energy-environment/549658-watch-live-bide
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/549658-watch-live-biden-harris-speak-at-virtual-climate-summit?amp"
 type: article
 quality: 150
-heat: 2470
+heat: 2490
 published: true
 
 provider:
@@ -1012,6 +1012,22 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/assets/v3/editorial/e/5c/e5ce882a-7240-560e-9074-4b6451e3ab23/6057e9bab24c8.image.jpg?resize=1024%2C682"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Joe Biden on brink as Kamala Harris tipped to take over as US President after Afghan 'fias"
+    excerpt: "JOE Biden's days in the White House are numbered after the fiasco surrounding his \"chronically inept\" decision to pull troops out of Afghanistan - and the countdown has begun to a Kamala Harris presidency,"
+    publishedDateTime: 2021-08-24T09:37:00Z
+    webUrl: "https://www.express.co.uk/news/world/1481062/joe-biden-kamala-harris-afghanistan-august-31-deadline-donald-trump-kabul"
+    ampWebUrl: "https://www.express.co.uk/news/world/1481062/joe-biden-kamala-harris-afghanistan-august-31-deadline-donald-trump-kabul/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/world/1481062/joe-biden-kamala-harris-afghanistan-august-31-deadline-donald-trump-kabul/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 90
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/78/590x/Joe-Biden-1481062.jpg?r=1629797944063"
+        width: 590
+        height: 350
         isCached: true
   - title: "Vice President Kamala Harris casts first tie-breaking vote for Biden nominee"
     excerpt: "The Senate deadlocked 50-50 on a straight party-line procedural vote to discharge Colin Kahl’s nomination from the Armed Services Committee, requiring Vice President Kamala Harris to break"

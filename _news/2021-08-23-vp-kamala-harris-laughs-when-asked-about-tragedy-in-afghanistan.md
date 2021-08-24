@@ -28,19 +28,35 @@ images:
     isCached: true
 
 related:
-  - title: "White House doubles down on Harris' Asia trip amid Afghan crisis: 'Many interests around the world'"
-    excerpt: "The White House doubled down on Kamala Harris' East Asia trip amid the Afghanistan crisis. An official said the United States \"has many interests around the world.\""
-    publishedDateTime: 2021-08-18T20:40:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YnD8Ucb7cHk/white-house-harris-asia-trip-amid-afghan-crisis-interests-around-world"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-harris-asia-trip-amid-afghan-crisis-interests-around-world.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-harris-asia-trip-amid-afghan-crisis-interests-around-world.amp"
+  - title: "Harris rebukes China in major speech on Indo-Pacific"
+    excerpt: "U.S. Vice President Kamala Harris delivered a sharp rebuke to China for its incursions in the South China Sea, warning its actions there amount to “coercion” and “intimidation” and affirming that the U.S. will support its allies in the region against Beijing’s advances."
+    publishedDateTime: 2021-08-24T08:04:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8KsckFBINlk/harris-rebukes-china-major-speech-indo-pacific"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-rebukes-china-major-speech-indo-pacific.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-rebukes-china-major-speech-indo-pacific.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 185
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43dec90e-50bf-4981-97ed-2fc0ac19fae8/df9afa57-897f-48c4-9c09-2cd422aefcb3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/720/405/AP21235405692376.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Kamala Harris lands in Singapore for Asia visit that will include Vietnam stop"
+    excerpt: "Vice President Kamala Harris landed in Singapore on Sunday as she begins a visit to Southeast Asia that will also include a stop in Vietnam."
+    publishedDateTime: 2021-08-22T04:15:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-singapore-asia-vietnam"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-singapore-asia-vietnam.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-singapore-asia-vietnam.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/16482d87-a6fa-490d-8acb-7aa840adb46b/2fdcd8fe-c77c-4d96-a303-677856797f99/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

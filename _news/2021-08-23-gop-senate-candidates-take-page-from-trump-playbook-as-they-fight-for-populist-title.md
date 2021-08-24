@@ -106,6 +106,22 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "Trump’s Taliban deal complicates message for GOP contenders | Charlotte Observer"
+    excerpt: "The chaotic U.S. withdrawal from Afghanistan may haunt President Joe Biden, but it could also hang over some of the Republicans who will seek to replace him in 2024."
+    publishedDateTime: 2021-08-24T09:00:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article253683123.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article253683123.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article253683123.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/346c4d4c-0ebe-4577-bdbf-21c5f8e914af/554385c1-d5d0-4f0c-9b03-7bab5722a707/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Joe Biden takes aim at states blocking mask mandates, setting Gov. Greg Abbott up for showdown with"
     excerpt: "Texas Gov. Greg Abbott may soon be fighting a war on two fronts — with local officials and the federal government — to stave off mandatory COVID-19 prevention efforts after the Biden administration announced Wednesday it was going after states like Texas that try to ban universal masking at schools."
     publishedDateTime: 2021-08-19T02:36:00Z

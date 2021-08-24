@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
 type: article
 quality: 125
-heat: 905
+heat: 925
 published: true
 
 provider:
@@ -462,6 +462,20 @@ related:
       - url: "https://im-media.voltron.voanews.com/Drupal/01live-166/2021-08/ap21234754238478.jpg"
         width: 5000
         height: 3333
+        isCached: true
+  - title: "How Much Trouble Is Biden In?"
+    excerpt: "President Joe Biden delivers remarks on the evacuation of American citizens and their families, as well as vulnerable Afghans, in the East Room of the White House, August 20, 2021. Joe Biden’s approval ratings have dropped to new lows in the latest polls."
+    publishedDateTime: 2021-08-24T09:17:00Z
+    webUrl: "https://prospect.org/politics/how-much-trouble-is-biden-in/"
+    type: article
+    provider:
+      name: The American Prospect
+      domain: prospect.org
+    quality: 55
+    images:
+      - url: "https://prospect.org/downloads/16751/download/Kuttner-Biden%20082421.jpg?cb=0af9480ee9aa7b9788fb68d5ccc444d6&w=1200"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Moderates bring House to standstill in Biden budget clash"
     excerpt: "House Democratic leaders are trying to muscle President Joe Biden’s multitrillion-dollar budget blueprint over a key hurdle."

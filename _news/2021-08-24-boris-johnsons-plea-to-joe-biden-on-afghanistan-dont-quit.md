@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Boris Johnson’s Plea to Joe Biden on Afghanistan: Don’t Quit"
-excerpt: "America’s withdrawal strikes Brits and Europeans as cynical and raises questions about whether the West still has a “strategic will.”"
-publishedDateTime: 2021-08-24T06:55:00Z
-originalUrl: "https://www.washingtonpost.com/business/boris-johnsons-plea-to-joe-biden-on-afghanistan-dont-quit/2021/08/24/ff3b9060-04af-11ec-b3c4-c462b1edcfc8_story.html"
-webUrl: "https://www.washingtonpost.com/business/boris-johnsons-plea-to-joe-biden-on-afghanistan-dont-quit/2021/08/24/ff3b9060-04af-11ec-b3c4-c462b1edcfc8_story.html"
+excerpt: "America's withdrawal strikes Brits and Europeans as cynical and raises questions about whether the West still has a “strategic will.”"
+publishedDateTime: 2021-08-24T06:48:00Z
+originalUrl: "https://www.bloomberg.com/opinion/articles/2021-08-24/g7-afghanistan-summit-boris-johnson-implores-joe-biden-don-t-quit"
+webUrl: "https://www.bloomberg.com/opinion/articles/2021-08-24/g7-afghanistan-summit-boris-johnson-implores-joe-biden-don-t-quit"
 type: article
 quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Bloomberg
+  domain: bloomberg.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bloomberg.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iw.6VjvgtOk8/v1/1200x800.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -703,6 +703,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Afghanistan fallout to hang over potential 2024 GOP presidential contenders, as well as Biden"
+    excerpt: "The chaotic U.S. withdrawal from Afghanistan may haunt President Joe Biden, but it could also hang over some of the Republicans who will seek to replace him in 2024."
+    publishedDateTime: 2021-08-24T09:00:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/article253683123.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article253683123.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article253683123.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 64
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/346c4d4c-0ebe-4577-bdbf-21c5f8e914af/554385c1-d5d0-4f0c-9b03-7bab5722a707/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "SAG-AFTRA & WGA East Join News Unions Urging President Biden To Help Journalists Fleeing Afghanistan"
     excerpt: "The presidents of five unions representing journalists are calling on President Joe Biden to support news crews and their families who are trying to flee Afghanistan. “The United States government"
     publishedDateTime: 2021-08-23T23:26:00Z
@@ -1154,6 +1170,6 @@ related:
         height: 380
         isCached: true
 
-secured: "1SBLCklKwWH6QMyPwf3FDUfbrS88IeqiFLFnkxskv/wq4Q40lBUE90HD1IYycHuplCIPiM34m6B20NXewyamoNuMFQ62FtKFWK0N73KaZIkviv3Z6z6TM8FRJvcB18EAW6dG0oRzqRqdAlGgdKImJGUlnmo0wwPlJocOvDKvBY+vTb9LQ+mDakhw37wdYYGeL/fPt2bt6rTYvr9fGA+9yixzOq8M3mZ1udAVbhK0UmrjzOTCLl4Ir3p2EkR2Y6lgrBPoZtmsN5BDSOQON7SEtZvfpiAdaqL4JLNqn6odvtOajJbDeUxFryM2EXvD9rQXtKGnTsiqnO9gIFy6V8Tg7P+tYtpZj9Wcrz3+ma16REI=;AmN/l4nbw22AMYFpSjopcQ=="
+secured: "xN+pS6qLlpLhO+4hzq48jVntXJVskGFCAvWJo19DKUr682KXXPKTD2ULXWCoST1uJpqjlJrPfMaZ1OcK/IMpDB90V2cUcBhixQXcRJVWLyIhnR28hzQoJ5afX0NqPdqSFTiaqbwGwQXTcfIpvRw18WAsAKTlpqjggcHTRN5ENcdAxCaI08hbtLiGGfCZZktMCoYL61mzJJWHrFzzttveIFUxU2eTecv8fT2izOVwD03UhPLpLPUcrXFNwprfhP7tTY0awGbo0aFXWnldN1UNIWNn5nYibtTBUk1hEo+u9/cYYJPfnoW+VLk0sGW735dF5fFlpsiJ6AGp8shhkN894vQB4pRrjhx0+nXoHamlVvw=;DC7K1CVCloPJ15h/KNN9Yw=="
 ---
 

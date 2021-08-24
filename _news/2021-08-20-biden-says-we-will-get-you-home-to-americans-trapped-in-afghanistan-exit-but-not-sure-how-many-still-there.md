@@ -1316,6 +1316,22 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 114
+  - title: "Joe Biden, Foreign Policy Genius in Training"
+    excerpt: "Was Joe Biden’s utter foul-up of the Afghanistan withdrawal an anomaly, or part of a life-long pattern? Few people have had the opportunity that Biden has had to influence and direct"
+    publishedDateTime: 2021-08-24T04:01:00Z
+    webUrl: "https://townhall.com/columnists/jeffdavidson/2021/08/24/joe-biden-foreign-policy-genius-in-training-n2594602"
+    ampWebUrl: "https://townhall.com/columnists/jeffdavidson/2021/08/24/joe-biden-foreign-policy-genius-in-training-n2594602?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/jeffdavidson/2021/08/24/joe-biden-foreign-policy-genius-in-training-n2594602?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2021/234/9c1c5c23-2113-461a-b625-2be2fc145130.jpg"
+        width: 650
+        height: 340
+        isCached: true
   - title: "Joe Biden has always been a disaster on foreign policy"
     excerpt: "President Joe Biden campaigned in 2020 on his supposed foreign policy chops, promising everyone he’d usher in a new, golden era of competent and effective U.S. diplomacy."
     publishedDateTime: 2021-08-20T00:27:00Z

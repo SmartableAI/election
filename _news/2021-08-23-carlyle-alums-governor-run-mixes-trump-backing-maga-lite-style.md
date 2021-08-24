@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-08-23/carlyle-alum-s-
 webUrl: "https://www.bloomberg.com/news/articles/2021-08-23/carlyle-alum-s-governor-run-mixes-trump-backing-maga-lite-style"
 type: article
 quality: 105
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Trump-backed governor candidate walks a MAGA tightrope in Virginia"
+    excerpt: "The crowd of about 300 Republican stalwarts in Norfolk, Virginia, included those wearing the requisite red baseball caps."
+    publishedDateTime: 2021-08-24T08:00:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/politics/trump-backed-governor-candidate-walks-a-maga-tightrope-in-virginia/article_a7f1524d-6c1e-5b23-8e93-f556124ab2fd.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "NC Senate candidate goes door knocking for Trump voters | Charlotte Observer"
     excerpt: "With 2022 primaries ahead, Republican and Democratic candidates campaign across the state. For every dollar donated for the remainder of August, Erica Smith’s campaign for Senate says it will knock on a door in a North Carolina county that Donald Trump won in the 2020 presidential race."
     publishedDateTime: 2021-08-23T19:10:00Z

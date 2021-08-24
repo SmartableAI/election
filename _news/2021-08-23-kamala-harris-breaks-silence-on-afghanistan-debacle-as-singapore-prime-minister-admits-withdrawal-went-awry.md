@@ -64,22 +64,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Kamala Harris lands in Singapore for Asia visit that will include Vietnam stop"
-    excerpt: "Vice President Kamala Harris landed in Singapore on Sunday as she begins a visit to Southeast Asia that will also include a stop in Vietnam."
-    publishedDateTime: 2021-08-22T04:15:00Z
-    webUrl: "https://www.foxnews.com/politics/kamala-harris-singapore-asia-vietnam"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-singapore-asia-vietnam.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-singapore-asia-vietnam.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 131
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/16482d87-a6fa-490d-8acb-7aa840adb46b/2fdcd8fe-c77c-4d96-a303-677856797f99/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Kamala Harris heads to Vietnam and Singapore after staying quiet amid Afghanistan chaos"
     excerpt: "As large crowds swarm Kabul airport to flee the Taliban, Vice President Kamala Harris is embarking on a trip to Asia with stops in Singapore and Vietnam — ironically, the sites of previous US-UK"
     publishedDateTime: 2021-08-20T21:59:00Z

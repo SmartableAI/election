@@ -213,22 +213,6 @@ related:
         width: 480
         height: 320
         isCached: true
-  - title: "Harris Rebukes China in Major Speech on Indo-Pacific"
-    excerpt: "U.S. Vice President Kamala Harris delivered a sharp rebuke to China for its incursions in the South China Sea, warning its actions there amount to “coercion” and “intimidation” and affirming that the U."
-    publishedDateTime: 2021-08-24T03:45:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/harris-to-offer-vision-for-indo-pacific-in-major-speech/3237135/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/harris-to-offer-vision-for-indo-pacific-in-major-speech/3237135/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/harris-to-offer-vision-for-indo-pacific-in-major-speech/3237135/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 75
-    images:
-      - url: "https://media.nbcnewyork.com/2021/08/GettyImages-1234839316.jpeg?quality=85&strip=all&crop=0px%2C129px%2C5500px%2C3094px&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Harris to offer vision for Indo-Pacific in major speech"
     excerpt: "U.S. Vice President Kamala Harris is preparing to lay out the Biden administration’s vision for the Indo-Pacific region, an area of growing importance to a government that has made countering China’s influence globally a centerpiece of its foreign policy."
     publishedDateTime: 2021-08-24T03:52:00Z
@@ -292,6 +276,22 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi_com/2621629717925/2021/1/a38431fde78228c58e3bea7c8445fb8f/v1.5/During-Singapore-visit-VP-Kamala-Harris-says-US-focus-is-on-Afghanistan.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Kamala Harris vows to support Southeast Asian allies against China's 'coercion'"
+    excerpt: "Vice President Kamala Harris in Singapore on Tuesday reaffirmed the United States' commitment to its allies in Southeast Asia in the face of China's aggression in the region."
+    publishedDateTime: 2021-08-24T09:16:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/08/24/Vice-President-Kamala-Harris-vows-to-support-Southeast-Asian-allies-against-Chinas-coercion-and-intimidation/6891629790105/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/08/24/Vice-President-Kamala-Harris-vows-to-support-Southeast-Asian-allies-against-Chinas-coercion-and-intimidation/6891629790105/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/24/Vice-President-Kamala-Harris-vows-to-support-Southeast-Asian-allies-against-Chinas-coercion-and-intimidation/6891629790105/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 71
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/i/6891629790105/2021/1/16297948963740/v1.5/Kamala-Harris-vows-to-support-Southeast-Asian-allies-against-Chinas-coercion.jpg"
+        width: 800
+        height: 531
         isCached: true
   - title: "Michael Strahan, Kamala Harris and More on How Their HBCU Experience Shaped Them"
     excerpt: "There's just something about the HBCU experience that bonds Black Hollywood like nothing else. Remember when Spike Lee's BlacKkKlansman won the Oscar for Best Adapted Screenplay and Samuel L. Jackson couldn't help but exclaim,"

@@ -201,22 +201,6 @@ related:
         width: 480
         height: 320
         isCached: true
-  - title: "Harris Rebukes China in Major Speech on Indo-Pacific"
-    excerpt: "U.S. Vice President Kamala Harris delivered a sharp rebuke to China for its incursions in the South China Sea, warning its actions there amount to “coercion” and “intimidation” and affirming that the U."
-    publishedDateTime: 2021-08-24T03:45:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/harris-to-offer-vision-for-indo-pacific-in-major-speech/3237135/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/harris-to-offer-vision-for-indo-pacific-in-major-speech/3237135/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/harris-to-offer-vision-for-indo-pacific-in-major-speech/3237135/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 75
-    images:
-      - url: "https://media.nbcnewyork.com/2021/08/GettyImages-1234839316.jpeg?quality=85&strip=all&crop=0px%2C129px%2C5500px%2C3094px&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Harris to offer vision for Indo-Pacific in major speech"
     excerpt: "U.S. Vice President Kamala Harris is preparing to lay out the Biden administration’s vision for the Indo-Pacific region, an area of growing importance to a government that has made countering China’s influence globally a centerpiece of its foreign policy."
     publishedDateTime: 2021-08-24T03:52:00Z
@@ -296,6 +280,22 @@ related:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/a79730c/2147483647/strip/true/crop/1000x563+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F52%2F9b%2Fe36788114c3ebf95b116d24e4e64%2Fap21222520693850.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Kamala Harris vows to support Southeast Asian allies against China's 'coercion'"
+    excerpt: "Vice President Kamala Harris in Singapore on Tuesday reaffirmed the United States' commitment to its allies in Southeast Asia in the face of China's aggression in the region."
+    publishedDateTime: 2021-08-24T09:16:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/08/24/Vice-President-Kamala-Harris-vows-to-support-Southeast-Asian-allies-against-Chinas-coercion-and-intimidation/6891629790105/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/08/24/Vice-President-Kamala-Harris-vows-to-support-Southeast-Asian-allies-against-Chinas-coercion-and-intimidation/6891629790105/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/24/Vice-President-Kamala-Harris-vows-to-support-Southeast-Asian-allies-against-Chinas-coercion-and-intimidation/6891629790105/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 71
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/i/6891629790105/2021/1/16297948963740/v1.5/Kamala-Harris-vows-to-support-Southeast-Asian-allies-against-Chinas-coercion.jpg"
+        width: 800
+        height: 531
         isCached: true
   - title: "Michael Strahan, Kamala Harris and More on How Their HBCU Experience Shaped Them"
     excerpt: "There's just something about the HBCU experience that bonds Black Hollywood like nothing else. Remember when Spike Lee's BlacKkKlansman won the Oscar for Best Adapted Screenplay and Samuel L. Jackson couldn't help but exclaim,"
@@ -624,6 +624,6 @@ related:
         height: 422
         isCached: true
 
-secured: "mGi5gVFU+ikGECo9xD1UytQgoVN6v63uN/884RH4Y74WeqLYKgyJFzE47988PMUA6vVHNLMBn1xuGTysTnirOxgDkK/wqLH17Td4xwyC1LEp76QJRs5hzBo5+QstcC24XDDnjwRSKSCW3c8Vfhe8rxF149e+XSuioyep9Xhwrb7j6d66NlCSpOCmM19rKAGIsxPbHBOvbUVYdShkKGpVnFuwa75u8rCH6zPRMEsLGRz35NkxtmJHYSmFhRLXZKEziAAZnw0tanAxE0W5ACRyCSG4QleSR+pJzD47LvdssPJSqgRtijhDZz9LfGfvkQs1mTIR6k/21KdSm/llBckiIF7cGtZKnsaogzLt7fnvtkY=;+yCl0of/nUsxzTuFWmqSzg=="
+secured: "lm0Hr9Fv1qnUDVFkQO9ZT0UkTLUOTd2Xon+y9v68fSl3ukb8jlL2AQy9wjbP12+yUmbtJPmwsaN/3RbjZxc+Xl4Qy9pmz4kUx2JxmzWiawdME1Wnh4C4EbNCjG02f6VLWOvudTd5v1C8ZSy09O3wl2bpxz+aacM6FNRg76kCQVBjeLi8Z+Qp2u3cR2bExoBVG+9lZkSFb1X8oaLq2AWUYeLoGIp/lteydEK8zNw3J8Fe6WUgawmds1xiYx9nXVmQ1ao4YQ7QRyZUFSIHI9Blr7jfqdecM/dlKg0AdPylyzKI9XPXkuPLwe0l33M+7YNjyfSnK0Nh7csvtUsghjd0l1ObrrBb0sjNlb1GZEhy/kcjsmyRvDXoMs+C9vrNApV7qSp4fqThM82Iv+u+SyMdIDdcS5hIyJFBNmw5jNuK3VvIV5d70tUSpBP3adwuUNUBMe5ZZgsHmQKfwr96sQfBRRWB0uoYK3fcDulxGPNVW7n4mYYBbzWDLDYYME9DppkiVxG9XwuUXMbWDterZKbWiA==;eM2dQ/JOq02DFWaNgKeATQ=="
 ---
 

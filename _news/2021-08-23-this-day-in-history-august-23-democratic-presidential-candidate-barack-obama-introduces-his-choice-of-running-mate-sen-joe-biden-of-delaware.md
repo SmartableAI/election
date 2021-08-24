@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "An Update on President Joe Biden’s Promise to “Have our Backs”"
+    excerpt: "By Congressman James E. Clyburn July 20, 2021, marked six months that Joseph R. Biden has been President. When I endorsed Joe Biden for"
+    publishedDateTime: 2021-08-23T13:42:00Z
+    webUrl: "https://thehilltoponline.com/2021/08/23/an-update-on-president-joe-bidens-promise-to-have-our-backs/"
+    type: article
+    provider:
+      name: The Hilltop
+      domain: thehilltoponline.com
+    quality: 55
+    images:
+      - url: "https://thehilltoponline.com/wp-content/uploads/2021/08/Screen-Shot-2021-08-23-at-9.41.18-AM-1.png"
+        width: 590
+        height: 467
+        isCached: true
 
 secured: "lKYopY2cHQOsbmn9K3Rs26V9xcd4qOjh7jU0LqgbD/g0gLuwqhgsa4JPYiZZtyRYigV+i30RxFBGFkZzgQjBIJ2S0SCwqaxualsQsDKiSo8LwRnh2YDHSJ237+AzSFVnv22gi9+syUaA3nuhBTnQnNmp9x5Ppbhj/12TnnKWe/AgNTgtwd7el0BcbWUsN6CCGXVPadOPl24+WY7qLVZfKNFGQyQkUeynJV4Ej+c7AuDLcUqP+5KQG6lqRBw9bKYodxxrXtvHpMXwHsdW1DYtd/GFrfT+wyFple4ovVdQBLbPYxXhYEt2tvKVIy64jbN7u/2ETKqlJYbON9qehqN0BFVL0QrslF0nhv6602m34s8FFJwWG0ZKjBAhdRjEz/cZA9CEzbdbJCx2QOP6y3BfYzRRqHtR709+6L0ss//4sxhhirgKJ4L6fngwn61XOVU/X/04MXzHK/19jg+QtRoKAGmrUyyifhooy711460SIhiuZPHyxGB2DA/dqtolqc8nmjYnov0M5AGAj81EZmZeyg==;vxsBhvV2WRqo6WdGhWWv9Q=="
 ---

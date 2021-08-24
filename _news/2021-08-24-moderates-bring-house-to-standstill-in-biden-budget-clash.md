@@ -469,6 +469,20 @@ related:
         width: 5000
         height: 3333
         isCached: true
+  - title: "How Much Trouble Is Biden In?"
+    excerpt: "President Joe Biden delivers remarks on the evacuation of American citizens and their families, as well as vulnerable Afghans, in the East Room of the White House, August 20, 2021. Joe Biden’s approval ratings have dropped to new lows in the latest polls."
+    publishedDateTime: 2021-08-24T09:17:00Z
+    webUrl: "https://prospect.org/politics/how-much-trouble-is-biden-in/"
+    type: article
+    provider:
+      name: The American Prospect
+      domain: prospect.org
+    quality: 55
+    images:
+      - url: "https://prospect.org/downloads/16751/download/Kuttner-Biden%20082421.jpg?cb=0af9480ee9aa7b9788fb68d5ccc444d6&w=1200"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "The high price of Biden's Kabul blunder"
     excerpt: "Our commander in chief and his woke generals have blown the evacuation of Kabul so badly that even CNN and MSNBC have had to cover it. For the past month, Biden assured us that when our military left Kabul,"
     publishedDateTime: 2021-08-24T03:30:00Z

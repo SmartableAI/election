@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/23/politics/kamala-harris-singapore-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/23/politics/kamala-harris-singapore-afghanistan/index.html"
 type: article
 quality: 185
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210614180815-kamala-harris-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "In Southeast Asia, Kamala Harris’s Message: You Can Count on the U.S."
+    excerpt: "The vice president rebuked China and sought to fortify the image of the United States as a credible ally amid growing questions about Afghanistan."
+    publishedDateTime: 2021-08-24T08:52:00Z
+    webUrl: "https://www.nytimes.com/2021/08/24/world/asia/kamala-harris-singapore-vietnam.html"
+    ampWebUrl: "https://www.nytimes.com/2021/08/24/world/asia/kamala-harris-singapore-vietnam.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/24/world/asia/kamala-harris-singapore-vietnam.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/08/24/world/24harris-asia-01/24harris-asia-01-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
 
 secured: "Ti+TuijAkQ5OstL/by8p0tn47R1diNV4DGLmaRtxbUU93I9E/o41STw+pgmmIQMiiohW1khmYBT6EMclfbZST73xHBrP891+jXICOYKyP5uWQ5wJabvxJ3/Eg8TOiqDSiabVOIBXd2bJHQwslsx+ShWTO12GQmVc62bHgV0z4hdDM0BcfREOzZzr6lIjSZrw0wae45asktzkxVG6hIHHewRXkX3Lbbs5Q21iRIEc45mvQ/hfch0vTi/R99aHh5K8Wq/eKSv6rrVq7hm8VelVq+UyKXY4H6CvabQUeITP2wWEsXdPWN0FDdUqPFzzeutlxiXk9o8m3pfiarhUP1QsHQ3hIxySYxct0p+hCDr0r5o=;dHoQRwcHLLYCQQUF49wvjQ=="

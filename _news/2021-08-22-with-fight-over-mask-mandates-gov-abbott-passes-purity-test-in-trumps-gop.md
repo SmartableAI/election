@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Even-as-COVID-re
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Even-as-COVID-resurges-there-is-no-room-for-Gov-16401385.php"
 type: article
 quality: 122
-heat: 302
+heat: 322
 published: true
 
 provider:
@@ -93,6 +93,22 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/assets/v3/editorial/8/2c/82cd4c35-f3c7-5843-bcb6-142108b6c16b/6123ab4ae1192.image.jpg?resize=945%2C630"
         width: 945
         height: 630
+        isCached: true
+  - title: "Trump’s Taliban deal complicates message for GOP contenders | Charlotte Observer"
+    excerpt: "The chaotic U.S. withdrawal from Afghanistan may haunt President Joe Biden, but it could also hang over some of the Republicans who will seek to replace him in 2024."
+    publishedDateTime: 2021-08-24T09:00:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article253683123.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article253683123.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article253683123.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/346c4d4c-0ebe-4577-bdbf-21c5f8e914af/554385c1-d5d0-4f0c-9b03-7bab5722a707/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "GOP Senate candidates take page from Trump playbook as they fight for populist title"
     excerpt: "Republicans in Ohio's Senate race are running on the message that propelled former President Donald Trump to office."
