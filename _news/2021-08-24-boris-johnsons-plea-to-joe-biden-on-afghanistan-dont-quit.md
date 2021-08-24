@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Boris Johnson’s Plea to Joe Biden on Afghanistan: Don’t Quit"
-excerpt: "America's withdrawal strikes Brits and Europeans as cynical and raises questions about whether the West still has a “strategic will.”"
-publishedDateTime: 2021-08-24T06:48:00Z
-originalUrl: "https://www.bloomberg.com/opinion/articles/2021-08-24/g7-afghanistan-summit-boris-johnson-implores-joe-biden-don-t-quit"
-webUrl: "https://www.bloomberg.com/opinion/articles/2021-08-24/g7-afghanistan-summit-boris-johnson-implores-joe-biden-don-t-quit"
+excerpt: "America’s withdrawal strikes Brits and Europeans as cynical and raises questions about whether the West still has a “strategic will.”"
+publishedDateTime: 2021-08-24T06:55:00Z
+originalUrl: "https://www.washingtonpost.com/business/boris-johnsons-plea-to-joe-biden-on-afghanistan-dont-quit/2021/08/24/ff3b9060-04af-11ec-b3c4-c462b1edcfc8_story.html"
+webUrl: "https://www.washingtonpost.com/business/boris-johnsons-plea-to-joe-biden-on-afghanistan-dont-quit/2021/08/24/ff3b9060-04af-11ec-b3c4-c462b1edcfc8_story.html"
 type: article
 quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bloomberg.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iw.6VjvgtOk8/v1/1200x800.jpg"
-    width: 1200
-    height: 800
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -172,6 +172,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1871760/candace-owens-hosting-her-candace-show.jpg"
         width: 3391
         height: 2362
+        isCached: true
+  - title: "First Thing: Joe Biden’s approval rating dips amid Afghanistan and Covid crises"
+    excerpt: "President called upon to extend 31 August deadline to complete evacuations from Afghanistan"
+    publishedDateTime: 2021-08-24T09:58:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/aug/24/first-thing-joe-biden-approval-rating-dips-amid-afghanistan-and-covid-crises"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/24/first-thing-joe-biden-approval-rating-dips-amid-afghanistan-and-covid-crises"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/24/first-thing-joe-biden-approval-rating-dips-amid-afghanistan-and-covid-crises"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/97b443b48cec0f3fcf8cb3f30c2acf1413407513/0_117_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2fe5d03a325b43103f72f696a926f960"
+        width: 600
+        height: 360
         isCached: true
   - title: "Tucker Carlson Baffled at CNN Attacking Joe Biden on Afghanistan: 'What Is Going On?'"
     excerpt: "Fox News host Tucker Carlson has said it \"does not make sense\" that journalists on CNN have criticized President Joe Biden over the ongoing situation in Afghanistan. Carlson told his prime-time audience on Friday that those who work for CNN don't decide what they say for themselves but instead \"say precisely what they are told to say\" by management,"
@@ -566,6 +582,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5PFNP4X6NJAX7KYYGY46ES22KM.jpg"
         width: 4484
         height: 2522
+        isCached: true
+  - title: "Biden to Discuss Afghanistan Evacuation With G-7 Allies as Chaos Continues"
+    excerpt: "The meeting comes as Biden considers extending the Aug. 31 deadline after the U.K., France, and other allies said they need more time to evacuate."
+    publishedDateTime: 2021-08-24T11:51:00Z
+    webUrl: "https://www.barrons.com/articles/afghanistan-evacuation-g7-meeting-51629805864"
+    ampWebUrl: "https://www.barrons.com/amp/articles/afghanistan-evacuation-g7-meeting-51629805864"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/afghanistan-evacuation-g7-meeting-51629805864"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 73
+    images:
+      - url: "https://images.barrons.com/im-390314/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "What Donald Trump Said In April About Pulling Out US Troops From Afghanistan"
     excerpt: "Donald Trump slammed Biden's decision to withdraw from Afghanistan despite applauding the move months earlier."
@@ -1170,6 +1202,6 @@ related:
         height: 380
         isCached: true
 
-secured: "xN+pS6qLlpLhO+4hzq48jVntXJVskGFCAvWJo19DKUr682KXXPKTD2ULXWCoST1uJpqjlJrPfMaZ1OcK/IMpDB90V2cUcBhixQXcRJVWLyIhnR28hzQoJ5afX0NqPdqSFTiaqbwGwQXTcfIpvRw18WAsAKTlpqjggcHTRN5ENcdAxCaI08hbtLiGGfCZZktMCoYL61mzJJWHrFzzttveIFUxU2eTecv8fT2izOVwD03UhPLpLPUcrXFNwprfhP7tTY0awGbo0aFXWnldN1UNIWNn5nYibtTBUk1hEo+u9/cYYJPfnoW+VLk0sGW735dF5fFlpsiJ6AGp8shhkN894vQB4pRrjhx0+nXoHamlVvw=;DC7K1CVCloPJ15h/KNN9Yw=="
+secured: "1+EWS38WDiU1pSqEhm+gTrOiBua9LCCk9fJcjvT7WEHsmUTXggmjzateacwvY/l2KwegZg/kiLPFRmKycrAnLTG51UVuIRbit6vcxmIwG/hBV28f8hwZePb7x2psvjwRo6/0mHkFzyqmlcBXjRxv5FIC3a2d0f0do44wgZOyMUAVPsx8nQ5jSHa0WSPFpbaZSBZ4Chg7wMQfuhkdG7lhHNafmk8z0oakRqtgc2+kcTwWwSBF3s8J9hto0YcerjJ9bm+E8FABlJ2bFlE1hZaseIzswbVVJWHCPQpHhLu88ccfERQ/JHVw3QMEIVx+cS5juUcfUgSyvJV9/7Wxd6ftTCMG5jzshyOGW/quixN7gck=;ZYluVuHuMZqaNx3dClbFQA=="
 ---
 

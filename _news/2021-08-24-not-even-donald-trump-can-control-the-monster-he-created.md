@@ -103,6 +103,20 @@ related:
         width: 685
         height: 385
         isCached: true
+  - title: "Not even Donald Trump can control the monster he created"
+    excerpt: "As Trump told the crowd that he would \"recommend\" they get the Covid-19 vaccine, people started to boo. Watch: Absolutely incredible. This is Frankenstein's monster come to life in the year 2021. Trump has created a following that even he can't control anymore."
+    publishedDateTime: 2021-08-23T04:33:00Z
+    webUrl: "https://www.kitv.com/story/44580286/not-even-donald-trump-can-control-the-monster-he-created"
+    type: article
+    provider:
+      name: KITV
+      domain: kitv.com
+    quality: 55
+    images:
+      - url: "https://KITV.images.worldnow.com/images/17633324_G.jpg"
+        width: 1707
+        height: 960
+        isCached: true
   - title: "Trump’s Border Wall Torn Apart by Monsoon Rains"
     excerpt: "Gizmodo: “It turns out ignoring bedrock environmental laws may not have been the best choice for a multibillion-dollar construction project.” “Photos show former President Donald Trump’s border wall in deep disrepair after summer monsoon rains literally blew floodgates off their hinges."
     publishedDateTime: 2021-08-23T16:56:00Z
@@ -139,6 +153,20 @@ related:
       name: The Herald-Sun
       domain: heraldsun.com
     quality: 55
+  - title: "Encounters with OJ Simpson and Donald Trump, looking at Ruby Wax’s TV gems with fresh eyes"
+    excerpt: "SIXTY-ONE years ago, the BBC, then still a one-channel operation, broadcast what remains one of the most famous, some would say infamous, celebrity interviews ever shown on British television: Tony Hancock on a series called Face to Face."
+    publishedDateTime: 2021-08-24T10:24:00Z
+    webUrl: "https://www.independent.ie/entertainment/television/tv-reviews/encounters-with-oj-simpson-and-donald-trump-looking-at-ruby-waxs-tv-gems-with-fresh-eyes-40782289.html"
+    type: article
+    provider:
+      name: Independent.ie
+      domain: independent.ie
+    quality: 45
+    images:
+      - url: "https://www.independent.ie/entertainment/television/tv-reviews/20a23/40782288.ece/AUTOCROP/w1240h700/Ruby.png"
+        width: 1240
+        height: 700
+        isCached: true
 
 secured: "4ueseGXpGcU7m45ScJG8GdRXQqn8TppGyTR5UHBAOT81m4AjwoQW+fbyUMMT8hCirRdGaKrSRsfHX++akvC84MQ/SS3JrEUe/GcFhD3BCpvE9L1tqmEbGsYJgml8ZQzABV9JdRgXfMV+TYL+u09ZG/j+PHoQ2p5+xPXjt3VAMs5O6fZzayoYwwvnBLB/LYx8u4sDsPp98zA05lC7PVrhVnscuXwoULbhFyhFy2lUBaUT8Ovo8HphLtuq8SElGDS6dInP9GUjvKbpGIVEQUFjo1eJxrc6gh3hnY+GutrlJKwyTwaTnesH1KmAJpfvsL5YrpXjd1qrxjlH0Z9IWI7nv7SDZpUso8s41EVz2UvrECs=;TwJ1Nf+L6XdtgUwpDFSo9A=="
 ---

@@ -122,6 +122,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Fauci's New Covid Timeline May Be Disaster for Biden"
+    excerpt: "The pandemic that he was elected to end could drag on deep into a midterm election year, with all the political and economic destruction that could bring."
+    publishedDateTime: 2021-08-24T11:25:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/08/24/faucis_new_covid_timeline_may_be_disaster_for_biden_550102.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "zQdlh22yN7kYXjNwDW0+wXMBPl0T6btP09MBbzzaRv3d3qQkj6M+Lu1b/B872XMdJtaAtwOGNDILeSdDujM+Vu4/KylCRcmyfo1cCzXmru7UoLFfZkgQy9aWL2tdasS8R2r9XbqEq46tnQcN1M+GUjnTvFa6wfiFNrjze3x2RiyPPZodTcn7AwvbuGXcOg8lvz9j8aDPRTFVnstHFVWxtkbGKTB+f8l13ZrOb49oWlJhaHxzED4IlA7NMWYZOjwSgyWDFGSuFbIvPKTZTXx1TbV+jcBZf88yX2eT8hHTlMLbtgC8Uf+Jr7/CBXtqxkoDVOFj9yy5qg9x59ngGA6h6JP89MS8NXharigb/q1fnAQsjjek96efA9Y494VYXJMO7X3bVnJgp9p3Dq6MzYRHhXUCkKCVgyxPdactsjUes2vNeUPJWiwQHNutLui/y0I1jGffH9635RL7UgxrRI2GVd7G062k2Cn8Jf9lRNw+A/utkXNFIrh7T6BzLDb8XhUEvVUTO+TBKH3xfxcK85MasQ==;8TsR5J47JDJgiUtnhsfhrA=="
 ---

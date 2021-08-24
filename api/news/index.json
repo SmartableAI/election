@@ -2,6 +2,54 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-24-trump-calls-on-florida-judge-to-help-reinstate-his-youtube-account.md",
+      "title": "Trump calls on Florida judge to help reinstate his Youtube account",
+      "excerpt": "Former President Donald Trump on Monday asked a Florida judge to issue a preliminary injunction in his case against YouTube that would compel the company to reinstate his access to the platform.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/08/24/trump-calls-on-judge-to-help-reinstate-his-youtube-account/",
+      "originalUrl": "https://nypost.com/2021/08/24/trump-calls-on-judge-to-help-reinstate-his-youtube-account/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-youtube.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/08/24/trump-calls-on-judge-to-help-reinstate-his-youtube-account/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/24/trump-calls-on-judge-to-help-reinstate-his-youtube-account/amp/",
+      "publishedDateTime": "2021-08-24T04:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-harris-rebukes-china-in-major-speech-on-indo-pacific.md",
       "title": "Harris rebukes China in major speech on Indo-Pacific",
       "excerpt": "U.S. Vice President Kamala Harris delivered a sharp rebuke to China for its incursions in the South China Sea, warning its actions there amount to “coercion” and “intimidation” and affirming that the U.S. will support its allies in the region against Beijing’s advances.",
@@ -14,7 +62,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -931,7 +979,7 @@
       "originalUrl": "https://www.newsweek.com/donald-trump-gave-joe-biden-hospital-pass-afghanistan-tony-blair-defense-secretary-1621971",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1708,
+      "heat": 1748,
       "tags": null,
       "images": [
         {
@@ -1039,7 +1087,7 @@
       "originalUrl": "https://www.mrt.com/news/article/Biden-s-special-envoy-urges-North-Korea-to-return-16404595.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -1082,7 +1130,7 @@
       "originalUrl": "https://www.latimes.com/world-nation/story/2021-08-23/kamala-harris-says-focus-must-stay-on-afghan-evacuation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 945,
+      "heat": 965,
       "tags": null,
       "images": [
         {
@@ -1207,63 +1255,6 @@
       "ampWebUrl": "https://www.foxnews.com/media/gowdy-biden-claimed-to-be-moses-leading-us-out-of-the-wilderness-and-the-media-fell-for-it-we-knew-better.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/gowdy-biden-claimed-to-be-moses-leading-us-out-of-the-wilderness-and-the-media-fell-for-it-we-knew-better.amp",
       "publishedDateTime": "2021-08-22T18:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-john-ratcliffe-adversaries-are-going-to-use-bidens-failure-as-propaganda.md",
-      "title": "John Ratcliffe: Adversaries are going to use Biden's failure as propaganda",
-      "excerpt": "Former Director of National Intelligence John Ratcliffe spoke with Trey Gowdy on international consequences following the Afghanistan crisis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/john-ratcliffe-adversaries-use-bidens-failure-as-propaganda",
-      "originalUrl": "https://www.foxnews.com/media/john-ratcliffe-adversaries-use-bidens-failure-as-propaganda",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0ec8488a-9efa-49a7-bcce-f3e8fb73ec8d/c215abbc-6db4-44b0-82fc-f031fc28a0f5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/john-ratcliffe-adversaries-use-bidens-failure-as-propaganda.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/john-ratcliffe-adversaries-use-bidens-failure-as-propaganda.amp",
-      "publishedDateTime": "2021-08-22T18:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

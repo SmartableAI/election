@@ -63,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Not even Donald Trump can control the monster he created"
-    excerpt: "This is Frankenstein's monster come to life in the year 2021. Trump has created a following that even he can't control anymore. Consider how we got to that moment on Saturday night. Trump spent the entirety of his presidency telling his followers that everything and everyone was fake except for him."
-    publishedDateTime: 2021-08-23T14:25:00Z
-    webUrl: "https://edition.cnn.com/2021/08/23/politics/donald-trump-alabama-rally-vaccine/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/23/politics/donald-trump-alabama-rally-vaccine/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/23/politics/donald-trump-alabama-rally-vaccine/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210822022430-01-trump-rally-alamaba-0821-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "jXNFMuGLzebQzXuS8/te051whJn5ijABA98TDU+VPmbISU8fxRA2FVjTFlWuCbKH+cQ0Lf2YXQwQv/paDtE1EKoXWuNqu0wajWSENI8WvbJ8r/eZtV1qit0Sv+4TsUlNJPjRQ6pNhv0dSTNRDqwaBwIVFNTnQdcoXuMqQNGuzlOvS/JKlPAqXj+EYkFyMPR8/k4z7Yu6umiOOD4Q+SRl60q+ZsKAFDpjVmeMQvf7VBeLIoOa8GwDr0vaai+ZSDc51JpKqyQNGSpjQwWRX1cCEbDDe1bkI2cS/xA1heMdGW/oJ+OCUb44c/oZP9TEFqX9Z7JVNJi/k6WpiZotcQd8QwYVJiJbgRqD5AwCcLn9aFE=;+CUzeOkAY2Wzqk0IYZgqMg=="
 ---

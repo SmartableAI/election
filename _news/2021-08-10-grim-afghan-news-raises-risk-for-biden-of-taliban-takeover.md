@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/policy/defense/567049-grim-afghan-news-raises-ri
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/567049-grim-afghan-news-raises-risk-for-biden-of-taliban-takeover?amp"
 type: article
 quality: 125
-heat: 565
+heat: 585
 published: true
 
 provider:
@@ -220,6 +220,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/0f121ceb-48c1-4832-a10a-a5a016caa35f/04d10534-d759-4584-9768-33f2b8ab34ba/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "CIA Chief Secretly Met Taliban Leader as Biden Faces Pressure Over Afghan Evacuation Deadline"
+    excerpt: "Facing growing pressure over his looming deadline to leave Afghanistan, President Joe Biden dispatched his spy chief to meet with the Taliban’s de facto leader"
+    publishedDateTime: 2021-08-24T11:29:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/cia-chief-secretly-met-taliban-leader-as-biden-faces-pressure-over-afghan-evacuation-deadline/3237696/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/cia-chief-secretly-met-taliban-leader-as-biden-faces-pressure-over-afghan-evacuation-deadline/3237696/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/cia-chief-secretly-met-taliban-leader-as-biden-faces-pressure-over-afghan-evacuation-deadline/3237696/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 64
+    images:
+      - url: "https://media.nbcnewyork.com/2021/08/106930482-16293874992021-08-19t153626z_1232404442_rc2f8p93ikuh_rtrmadp_0_afghanistan-conflict-usa-arms.jpeg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
   - title: "EXPLAINER: The impact of Joe Biden’s new fuel economy rules"
     excerpt: "President Joe Biden's new standards are basically a return to those adopted under Obama, requiring new vehicles to average 5% in carbon dioxide emissions cuts every model year through 2025."

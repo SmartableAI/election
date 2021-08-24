@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-pushes-for-vaccine-booster-sh
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pushes-for-vaccine-booster-shots-starting-in-september.amp"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -122,6 +122,15 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 65
+  - title: "Fauci's New Covid Timeline May Be Disaster for Biden"
+    excerpt: "The pandemic that he was elected to end could drag on deep into a midterm election year, with all the political and economic destruction that could bring."
+    publishedDateTime: 2021-08-24T11:25:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/08/24/faucis_new_covid_timeline_may_be_disaster_for_biden_550102.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "E4aOq6q4Yrm3/qnBh/Lgk84UBLrsVJD7aOGpRAKzu0Nf4SjR6hDI1k1y040IJC7O1Flvm7ms01C2cwFTMMDToIEFRSbSz3TKteuUxjYg15AH1eU8AkW3SyIshzIp+61L+SiSL3XNdPgPPad6jAJmWPmQSSHiGUrlTpPOs9TQHi7bRYwin/Ai2mWAd6M44yIaWnwBla997osuipsjRVoNV6ymtY1tiD1nGFbYwKGmgiMSW4h4c7VYino9M0gx5Szj4hxNqzFMvBZYpUsbYZyGxIxGyMQNoW2S02uXbBFa6y8shPBvLF9JyAtoaQOWq4dl71DUQ+/815uYpfxy9IwQzpfv/ci9fc3OG3RRtRYW0Pg=;LrlB0nJeMX6ESPTGhQP9sw=="
 ---

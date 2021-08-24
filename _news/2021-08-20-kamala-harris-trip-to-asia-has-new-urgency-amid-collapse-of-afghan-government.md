@@ -277,6 +277,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "VP Kamala Harris vows to back Southeast Asia allies against China 'coercion'"
+    excerpt: "Vice President Kamala Harris in Singapore on Tuesday reaffirmed the United States' commitment to its allies in Southeast Asia in the face of China's aggression in the region."
+    publishedDateTime: 2021-08-24T09:16:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2021/08/24/Vice-President-Kamala-Harris-vows-to-support-Southeast-Asian-allies-against-Chinas-coercion-and-intimidation/6891629790105/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2021/08/24/Vice-President-Kamala-Harris-vows-to-support-Southeast-Asian-allies-against-Chinas-coercion-and-intimidation/6891629790105/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/08/24/Vice-President-Kamala-Harris-vows-to-support-Southeast-Asian-allies-against-Chinas-coercion-and-intimidation/6891629790105/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 72
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/i/6891629790105/2021/1/16297948963740/v1.5/VP-Kamala-Harris-vows-to-back-Southeast-Asia-allies-against-China-coercion.jpg"
+        width: 800
+        height: 531
+        isCached: true
   - title: "Kamala Harris vows to support Southeast Asian allies against China's 'coercion'"
     excerpt: "Vice President Kamala Harris in Singapore on Tuesday reaffirmed the United States' commitment to its allies in Southeast Asia in the face of China's aggression in the region."
     publishedDateTime: 2021-08-24T09:16:00Z

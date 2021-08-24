@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/21/politics/what-matters-august-20/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/21/politics/what-matters-august-20/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 215
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210822084256-trump-alabama-rally-vaccine-crowd-boos-sot-ip-vpx-00000000-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Not even Donald Trump can control the monster he created"
-    excerpt: "This is Frankenstein's monster come to life in the year 2021. Trump has created a following that even he can't control anymore. Consider how we got to that moment on Saturday night. Trump spent the entirety of his presidency telling his followers that everything and everyone was fake except for him."
-    publishedDateTime: 2021-08-23T14:25:00Z
-    webUrl: "https://edition.cnn.com/2021/08/23/politics/donald-trump-alabama-rally-vaccine/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/23/politics/donald-trump-alabama-rally-vaccine/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/23/politics/donald-trump-alabama-rally-vaccine/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210822022430-01-trump-rally-alamaba-0821-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-rebukes-china-major-speech-i
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-rebukes-china-major-speech-indo-pacific.amp"
 type: article
 quality: 185
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -48,6 +48,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Kamala Harris Stresses Cooperation on Supply Chains in Singapore Visit"
+    excerpt: "The vice president made the case for stronger economic ties with Southeast Asia during a trip to Singapore, where she stressed the need to ease supply-chain constraints as a surge of Covid-19 cases has hit factories in the region."
+    publishedDateTime: 2021-08-24T07:58:00Z
+    webUrl: "https://www.wsj.com/articles/kamala-harris-stresses-cooperation-on-supply-chains-in-singapore-visit-11629795484"
+    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harris-stresses-cooperation-on-supply-chains-in-singapore-visit-11629795484"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-stresses-cooperation-on-supply-chains-in-singapore-visit-11629795484"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-390283/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Kamala Harris lands in Singapore for Asia visit that will include Vietnam stop"
     excerpt: "Vice President Kamala Harris landed in Singapore on Sunday as she begins a visit to Southeast Asia that will also include a stop in Vietnam."
     publishedDateTime: 2021-08-22T04:15:00Z
@@ -81,6 +97,6 @@ related:
         height: 405
         isCached: true
 
-secured: "/CwkuUaXP6UZporq5ztpsHwM/Yc61x1zFsWPgFR7/vIWgdIn7gyeikh6kKihpZqtbEnXoaHz4hfVfZp+X6tmy+X6azqHhO7psePvMg0OqWCrIJktsnSHkx3OfWo48utZMz8STPVsDH0oKzOysPprmddcKEVpOJ6A7UC18SIjs2wbfRtWGk8x3VOWXUMD9/pEi+f8WAY6GYtFR/kSDW/WSZD03WkjLxwgWiZ9cfbHfL1k5ueLiWKqTKQhfe8JJjJ2aWrtD/kGhwRGkswjK2XGLbBk16NehpWlb9jzYE2tY60EtOnZQBd8z8XKIEoCTv86Js9LHIZNKt+dOmg79tZoWMZ1uG4uuQEWtEmeFWpqmOM=;n9xyW8y9ehru4+v9DBm4xg=="
+secured: "y89esRH62AXMgidXAdWWzo+hwFpWXP1I5bvxb2p7MPcwy0YupwMFEe0xT284qa0jAiK5ufcguh8FpYZs5yHdkaTSN9ovbBX8+pfvOMGIdp2BNDNDBbw3ke7AhUrsjOIF3naQlZjT4RtXDvUagbSad2gFFqCrL594qeItRXgPGpkmcEYw7ZLlP01oowubJEggfJ44dzdU0EzRHjSwSc1AAe5wMD34F8K3yqtdaUM4xIxr0BaMEZkdU/OSt9TWNtGrxyi1mziT3gopsG3Vtvn9HYxDuwY/+Rg5dUH8+j3/rcN4Sr5VcYpKeS0s5Rt8Pw3UDNDZ5cg0ORIlgH+KIfeGNfSi1oq0t3wx3LLZ29tzZGQ=;TRGuO3otMI6fgQwxkISrng=="
 ---
 

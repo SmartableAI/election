@@ -1,30 +1,24 @@
 ---
 category: news
 title: "Storm commemorates 2020 WNBA championship with President Joe Biden at White House"
-excerpt: "Before leaving the nation’s capital, the Storm stopped by the White House on Monday, marking a return to normalcy when sports teams regularly received invitations to celebrate championships and their athletic achievements."
-publishedDateTime: 2021-08-24T00:05:00Z
-originalUrl: "https://www.spokesman.com/stories/2021/aug/23/storm-commemorates-2020-wnba-championship-with-pre/"
-webUrl: "https://www.spokesman.com/stories/2021/aug/23/storm-commemorates-2020-wnba-championship-with-pre/"
-ampWebUrl: "https://www.spokesman.com/stories/2021/aug/23/storm-commemorates-2020-wnba-championship-with-pre/?amp-content=amp"
-cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/aug/23/storm-commemorates-2020-wnba-championship-with-pre/?amp-content=amp"
+excerpt: "President Joe Biden and first lady Jill Biden hosted an entourage led by Storm captains Sue Bird and Breanna Stewart, coach Noelle Quinn and the majority owners Ginny Gilder, Lisa Brummel and Dawn Trudeau."
+publishedDateTime: 2021-08-24T00:56:00Z
+originalUrl: "https://www.seattletimes.com/sports/storm/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/"
+webUrl: "https://www.seattletimes.com/sports/storm/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/"
+ampWebUrl: "https://www.seattletimes.com/sports/storm/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/sports/storm/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/?amp=1"
 type: article
-quality: 70
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: The Spokesman-Review
-  domain: spokesman.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://thumb.spokesman.com/-RD9IOuamrImE-fLeVHyasMRJRs=/480x0/media.spokesman.com/photos/2021/08/23/61242f3f0d0cf.hires.jpg"
-    width: 480
-    height: 320
-    isCached: true
 
 related:
   - title: "Biden's special envoy urges North Korea to return to talks"
@@ -75,6 +69,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Biden Urges More Employers to Enact Vaccine Mandates Following FDA’s Full Approval"
+    excerpt: "Do what I did last month. Require your employees to get vaccinated or face strict requirements,” Biden said Monday."
+    publishedDateTime: 2021-08-24T11:40:00Z
+    webUrl: "https://www.barrons.com/articles/vaccine-mandates-51629805238"
+    ampWebUrl: "https://www.barrons.com/amp/articles/vaccine-mandates-51629805238"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/vaccine-mandates-51629805238"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 69
+    images:
+      - url: "https://images.barrons.com/im-390118/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Afghan crisis: US President Joe Biden expected to decide evacuation deadline within 24 hours"
     excerpt: "Biden warned on Sunday that the evacuation was going to be \"hard and painful\" and a lot could still go wrong. US troops might stay beyond Biden's August 31 deadline to oversee the evacuation, he said."
     publishedDateTime: 2021-08-24T03:47:00Z
@@ -92,6 +102,6 @@ related:
         height: 573
         isCached: true
 
-secured: "1qwigoOelb652fZljDVZMbqoyfpXFPAolEspx5aIODRTrRYBkmi2NUk71H3eKGOPzgVU9OeJlsDOE3DGzad1kgcJRsf0k1fBqGBQ2cN2Ol3pqIvr5d5B4WB7l9uD6r3f1DEsUKSYeAOsKVGI7F9FUpjFXDxTDycQ/ASnwySevCuoCljhXuiFWh6fNAiQzrMDKcDxQ+YvhxBArFqnVFuz1pg4iBuyjbRy3NqG3IS1DbgufOh3deeKvsDQJTYZHKd11BHZhpLHnllxMRWlQUj8N2fNB2eYgSyps0+ob7ynVxYH6uAO+TaIYHPmLeW0z0nvInhfml/7QCWLSOUnv6zwRD+g9cosB+cxdX7LlFt/ikHXReO81Qt7NS6pZsW1CYL5bpYMBbsRINCWtbSl9QFB5rQyPMCNjX44nsi2tbyHXw2js7qlmxD8XR3gvWCS1S7C8KANleYc/X6Tz58LYvs+/vo64Jry8tNX9usSpbfPeydias8fVNB+zTy44dTNEVZTcPTZIxHqw5P93d/slSDe+w==;bdDCEidLiuqTjphIzDQLuw=="
+secured: "nTiBxjV7dr1COCDBoHyvYipnRLjrSiWjN1E/3DFGq8eZEOVhJ+nNJGp7ooeJnrZ9/Lla140C0BNcjnqh7jY65zRMU5Z3EE2jKrpvs35ziWUP/p4kyo54pwhOrE7POWQWgJLJ9FL8blIgkryKSN0o63T1zFgTy4ddlRID277FVWFNoL648nBlEaGLSrM0BkaTpfDrsr7xKNWTGEWE/TxlziL2ZrQ0hsRv2cVORqHVJnSHKvdh3Rt+o/NatXjw1FUWHQ8zQOwINC4Pqv4KYR6Y+WPAAY22iTwx0vjw4OYpdO7R3tAq0BPwxS8XHgYhDcjYktqAatu5N1kv0IZ2LsCM7UO1n81LtIhkZg3Hu3pQWDX/XJgprcylxJ/pUonPzOTrguzTu8W3OSZW5um5gUM1e3JDBOZQ7AeGUzkAVqcwfrdWy/bOOCzS/WEZ6naAOcoBZ6aQwCTtrIxJpkZAYQjOrqe/uUBR74pr9HTFTqP1ZxFrBbLSdPn8KTG2P7Fw+0mKIMSeobLn222RJr2JHZEsyQ==;nQNsromgGxhrGem0xhVdFg=="
 ---
 

@@ -474,15 +474,29 @@ related:
         isCached: true
   - title: "Moderates bring House to standstill in Biden budget clash"
     excerpt: "House Democratic leaders are trying to muscle President Joe Biden’s multitrillion-dollar budget blueprint over a key hurdle."
-    publishedDateTime: 2021-08-24T07:44:00Z
-    webUrl: "https://www.tri-cityherald.com/news/business/national-business/article253699738.html"
-    ampWebUrl: "https://amp.tri-cityherald.com/news/business/national-business/article253699738.html"
-    cdnAmpWebUrl: "https://amp-tri--cityherald-com.cdn.ampproject.org/c/s/amp.tri-cityherald.com/news/business/national-business/article253699738.html"
+    publishedDateTime: 2021-08-24T11:54:00Z
+    webUrl: "https://www.idahostatesman.com/news/business/article253699738.html"
+    ampWebUrl: "https://amp.idahostatesman.com/news/business/article253699738.html"
+    cdnAmpWebUrl: "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/news/business/article253699738.html"
     type: article
     provider:
-      name: Tri-City Herald
-      domain: tri-cityherald.com
+      name: Idaho Statesman
+      domain: idahostatesman.com
     quality: 55
+  - title: "Moderates bring House to standstill in Joe Biden budget clash"
+    excerpt: "Tensions flared and spilled into early Tuesday as a band of moderate lawmakers threatened to withhold their votes for the $3.5 trillion plan."
+    publishedDateTime: 2021-08-24T09:38:00Z
+    webUrl: "https://bangordailynews.com/2021/08/24/national-politics/moderates-bring-house-to-standstill-in-joe-biden-budget-clash/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/Congress-Infrastructure-3.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "The high price of Biden's Kabul blunder"
     excerpt: "Our commander in chief and his woke generals have blown the evacuation of Kabul so badly that even CNN and MSNBC have had to cover it. For the past month, Biden assured us that when our military left Kabul,"
     publishedDateTime: 2021-08-24T03:30:00Z

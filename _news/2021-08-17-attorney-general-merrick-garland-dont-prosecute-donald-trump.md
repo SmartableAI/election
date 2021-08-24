@@ -3,25 +3,25 @@ category: news
 title: "Attorney General Merrick Garland, don't prosecute Donald Trump"
 excerpt: "He pressured his acting attorney general, Jeffrey Rosen, to open an investigation of purported fraud in the vote count in Georgia, even though there was no evidence of such wrongdoing. In one call, Trump apparently directed Rosen to \"just say the election was corrupt,"
 publishedDateTime: 2021-08-16T19:00:00Z
-originalUrl: "https://www.kimt.com/content/national/575107882.html"
-webUrl: "https://www.kimt.com/content/national/575107882.html"
-ampWebUrl: "http://www.kimt.com/templates/AMP?contentID=575107882"
-cdnAmpWebUrl: "https://www-kimt-com.cdn.ampproject.org/c/www.kimt.com/templates/AMP?contentID=575107882"
+originalUrl: "https://www.wthitv.com/content/national/575107882.html"
+webUrl: "https://www.wthitv.com/content/national/575107882.html"
+ampWebUrl: "http://www.wthitv.com/templates/AMP?contentID=575107882"
+cdnAmpWebUrl: "https://www-wthitv-com.cdn.ampproject.org/c/www.wthitv.com/templates/AMP?contentID=575107882"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: KIMT
-  domain: kimt.com
+  name: WTHI-TV
+  domain: wthitv.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "http://media.heartlandtv.com/designimages/STORY-IMAGE.jpg"
+  - url: "http://media.heartlandtv.com/designimages/wthi-story-default-image-640x380.png"
     width: 640
     height: 380
     isCached: true
@@ -495,6 +495,6 @@ related:
       domain: 123helpme.com
     quality: 35
 
-secured: "pH0BFAeymzGbd6bMWSrEl8wlDewxkbYmZhJ3SxVhOJBaIrYhdNkMRK8Cp6is3dXT6RzHjBpb7Zbt1aTt89BKmG2JAIYDMaCR13frh3y7pE6SlebJR/SXsaBTBfAU5Vvsg/CnFi1wXGyyKpedxNDnHuM/8T9s2s3kA9ttQjKbFe4xQdtu4x0PiZAKf3KsJHn1hd3koVgZpMlvYswZYhFs5fySUcu5E4s1Z7Xo3Nz8vPxvgJA99TrPg/rkjSH7Jov4crrf+ATnna2AHkG5F9ch3hm8OPtInoJYVpbIzsOGBnx1gMrtyRO4vOb5YyGErh3CsEVhj5ZiYwYGhrtnAOyW/haM0NCfQ1ZLlXZ72yWWzWY=;FeaM4E5KMwOpFw5Ew0ehQw=="
+secured: "2I01dELXPBF732SDyiAvDOsLI27m6JH7HKIeni1LorUJ9Rno+ATT+LcXnAc2Ash7kxYIbfEYPZO5Z68Wheh4pvReCi7qDHA11B6A42g7MqobmhVhDuluFCWnQQmtpjmt0owppK4DCAmgysmXFPPD3NQ/BIlgRgeK84SuTCyHeQLdciADP2dkJS6AY3WKZm/kehUF5x2wBS6iDC8Yb/fKltCYYxz/R7Ole1+eZgWh4mrn7oy9fmn9rIJsE4Wv9n/oR8BnL5eipobat68l3Rs8ZHGgo5mPN+0Ir5n5MkM/5L8N9jCqcQgv+oH9ekTQJjqn+IDP1YndBW4321zU3Lh6WZ93rEKPSqfzx+LiTXkrkOs=;lMqcJqlGZE7omNS92vSLmg=="
 ---
 

@@ -122,6 +122,15 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 65
+  - title: "Fauci's New Covid Timeline May Be Disaster for Biden"
+    excerpt: "The pandemic that he was elected to end could drag on deep into a midterm election year, with all the political and economic destruction that could bring."
+    publishedDateTime: 2021-08-24T11:25:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/08/24/faucis_new_covid_timeline_may_be_disaster_for_biden_550102.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "1zv5s6ZtROS1/xxmyT1gDbNJ50QvvmhaLraYaafEK/asxlV4qTGhDH2H3baUTcv8FKs/lESnQ9afNUkQUDt/fevTtZGiNpmX6g/+Vgb06zWZMnRJDuE+obsBI8XMNrFLCOGw3wYCbCFeG9xk1gnPaQA2Tra95zfommQWItdv9783WGnF8ELup28xTVA4nSnFJ47VUC8+p7KBZZj7mTYXq7g18KgfOs9ByF6lCoWeFmrVo2dn4P2hwwVq1c2+4VaGCEWXPbWO/d8fLBx00iJIXJSCmPv5bDUfZYNq6Wy1cBrspKbi05nZYWk+rOBgDkG62U2QBSfw2R0Qd795f5no5meW4wweKdUFSYpH8AYf5Fg=;aGA7H6+cQQXCzoj+Db4iyw=="
 ---

@@ -175,6 +175,22 @@ related:
         width: 3391
         height: 2362
         isCached: true
+  - title: "First Thing: Joe Biden’s approval rating dips amid Afghanistan and Covid crises"
+    excerpt: "President called upon to extend 31 August deadline to complete evacuations from Afghanistan"
+    publishedDateTime: 2021-08-24T09:58:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/aug/24/first-thing-joe-biden-approval-rating-dips-amid-afghanistan-and-covid-crises"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/24/first-thing-joe-biden-approval-rating-dips-amid-afghanistan-and-covid-crises"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/24/first-thing-joe-biden-approval-rating-dips-amid-afghanistan-and-covid-crises"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/97b443b48cec0f3fcf8cb3f30c2acf1413407513/0_117_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2fe5d03a325b43103f72f696a926f960"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Tucker Carlson Baffled at CNN Attacking Joe Biden on Afghanistan: 'What Is Going On?'"
     excerpt: "Fox News host Tucker Carlson has said it \"does not make sense\" that journalists on CNN have criticized President Joe Biden over the ongoing situation in Afghanistan. Carlson told his prime-time audience on Friday that those who work for CNN don't decide what they say for themselves but instead \"say precisely what they are told to say\" by management,"
     publishedDateTime: 2021-08-21T09:09:00Z
@@ -278,18 +294,18 @@ related:
         height: 1080
         isCached: true
   - title: "Boris Johnson’s Plea to Joe Biden on Afghanistan: Don’t Quit"
-    excerpt: "America's withdrawal strikes Brits and Europeans as cynical and raises questions about whether the West still has a “strategic will.”"
-    publishedDateTime: 2021-08-24T06:48:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2021-08-24/g7-afghanistan-summit-boris-johnson-implores-joe-biden-don-t-quit"
+    excerpt: "America’s withdrawal strikes Brits and Europeans as cynical and raises questions about whether the West still has a “strategic will.”"
+    publishedDateTime: 2021-08-24T06:55:00Z
+    webUrl: "https://www.washingtonpost.com/business/boris-johnsons-plea-to-joe-biden-on-afghanistan-dont-quit/2021/08/24/ff3b9060-04af-11ec-b3c4-c462b1edcfc8_story.html"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 105
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iw.6VjvgtOk8/v1/1200x800.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Joe Biden: withdrawal from Afghanistan would always be 'hard and painful'"
     excerpt: "The evacuation of thousands of Americans and their Afghan allies from Kabul would have been 'hard and painful no matter when it started or when we began', Joe Biden said on Sunday, amid fierce critici"
@@ -582,6 +598,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5PFNP4X6NJAX7KYYGY46ES22KM.jpg"
         width: 4484
         height: 2522
+        isCached: true
+  - title: "Biden to Discuss Afghanistan Evacuation With G-7 Allies as Chaos Continues"
+    excerpt: "The meeting comes as Biden considers extending the Aug. 31 deadline after the U.K., France, and other allies said they need more time to evacuate."
+    publishedDateTime: 2021-08-24T11:51:00Z
+    webUrl: "https://www.barrons.com/articles/afghanistan-evacuation-g7-meeting-51629805864"
+    ampWebUrl: "https://www.barrons.com/amp/articles/afghanistan-evacuation-g7-meeting-51629805864"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/afghanistan-evacuation-g7-meeting-51629805864"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 73
+    images:
+      - url: "https://images.barrons.com/im-390314/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Joe Biden vows every American who wants out of Afghanistan will be evacuated"
     excerpt: "US President Joe Biden pledged on Friday that every American who wanted to would be evacuated from Taliban-ruled Afghanistan, with about 13,000 brought home so far. Facing a torrent of criticism for his handling of the US troop withdrawal,"

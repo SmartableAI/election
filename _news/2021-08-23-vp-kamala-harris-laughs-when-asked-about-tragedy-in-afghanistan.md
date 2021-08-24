@@ -44,6 +44,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Kamala Harris Stresses Cooperation on Supply Chains in Singapore Visit"
+    excerpt: "The vice president made the case for stronger economic ties with Southeast Asia during a trip to Singapore, where she stressed the need to ease supply-chain constraints as a surge of Covid-19 cases has hit factories in the region."
+    publishedDateTime: 2021-08-24T07:58:00Z
+    webUrl: "https://www.wsj.com/articles/kamala-harris-stresses-cooperation-on-supply-chains-in-singapore-visit-11629795484"
+    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harris-stresses-cooperation-on-supply-chains-in-singapore-visit-11629795484"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-stresses-cooperation-on-supply-chains-in-singapore-visit-11629795484"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-390283/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Kamala Harris lands in Singapore for Asia visit that will include Vietnam stop"
     excerpt: "Vice President Kamala Harris landed in Singapore on Sunday as she begins a visit to Southeast Asia that will also include a stop in Vietnam."
     publishedDateTime: 2021-08-22T04:15:00Z

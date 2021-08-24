@@ -217,6 +217,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "CIA Chief Secretly Met Taliban Leader as Biden Faces Pressure Over Afghan Evacuation Deadline"
+    excerpt: "Facing growing pressure over his looming deadline to leave Afghanistan, President Joe Biden dispatched his spy chief to meet with the Taliban’s de facto leader"
+    publishedDateTime: 2021-08-24T11:29:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/cia-chief-secretly-met-taliban-leader-as-biden-faces-pressure-over-afghan-evacuation-deadline/3237696/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/cia-chief-secretly-met-taliban-leader-as-biden-faces-pressure-over-afghan-evacuation-deadline/3237696/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/cia-chief-secretly-met-taliban-leader-as-biden-faces-pressure-over-afghan-evacuation-deadline/3237696/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 64
+    images:
+      - url: "https://media.nbcnewyork.com/2021/08/106930482-16293874992021-08-19t153626z_1232404442_rc2f8p93ikuh_rtrmadp_0_afghanistan-conflict-usa-arms.jpeg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "EXPLAINER: The impact of Joe Biden’s new fuel economy rules"
     excerpt: "President Joe Biden's new standards are basically a return to those adopted under Obama, requiring new vehicles to average 5% in carbon dioxide emissions cuts every model year through 2025."
     publishedDateTime: 2021-08-08T04:28:00Z
