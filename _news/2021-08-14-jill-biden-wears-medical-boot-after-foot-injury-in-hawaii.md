@@ -105,6 +105,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "U.S. Satisfaction Hits Record Low In Biden Presidency Amid Delta Surge, Poll Finds—But Republicans Still Don’t View Covid As Major Threat"
+    excerpt: "Democrats and Independents are increasingly worried about the threat of Covid-19 to the country while Republicans, practically no more concerned about the coronavirus than they were last month, are more concerned about immigration and the government."
+    publishedDateTime: 2021-08-24T13:26:00Z
+    webUrl: "https://www.forbes.com/sites/roberthart/2021/08/24/us-satisfaction-hits-record-low-in-biden-presidency-amid-delta-surge-poll-finds-but-republicans-still-dont-view-covid-as-major-threat/"
+    ampWebUrl: "https://www.forbes.com/sites/roberthart/2021/08/24/us-satisfaction-hits-record-low-in-biden-presidency-amid-delta-surge-poll-finds-but-republicans-still-dont-view-covid-as-major-threat/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2021/08/24/us-satisfaction-hits-record-low-in-biden-presidency-amid-delta-surge-poll-finds-but-republicans-still-dont-view-covid-as-major-threat/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 92
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6124f340d06f777a3656c570%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1480%26cropY1%3D30%26cropY2%3D862"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Joe Biden Is Who We Said He Was"
     excerpt: "NRPLUS MEMBER ARTICLE J oe Biden has badly, visibly bungled America’s withdrawal from Afghanistan. He has compounded the problem with his sluggish and dishonest public statements. This has gone so badly that even people and institutions that are normally sympathetic to Biden and his party have noticed."
     publishedDateTime: 2021-08-21T10:30:00Z
@@ -497,6 +513,20 @@ related:
       - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/Congress-Infrastructure-3.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Taliban Threatens Biden; Joe Says ‘A Lot Could Still Go Wrong’"
+    excerpt: "As Joe Biden was telling Americans that \"a lot could still go wrong\" with the evacuation of civilians from Afghanistan, the Taliban increased its control over the region. Emboldened Taliban leaders are now threatening the Biden administration,"
+    publishedDateTime: 2021-08-24T12:30:00Z
+    webUrl: "https://www.gopusa.com/taliban-threatens-biden-joe-says-a-lot-could-still-go-wrong/"
+    type: article
+    provider:
+      name: GOPUSA
+      domain: gopusa.com
+    quality: 55
+    images:
+      - url: "https://www.gopusa.com/wp-content/uploads/2021/08/ep397.jpg"
+        width: 680
+        height: 408
         isCached: true
   - title: "The high price of Biden's Kabul blunder"
     excerpt: "Our commander in chief and his woke generals have blown the evacuation of Kabul so badly that even CNN and MSNBC have had to cover it. For the past month, Biden assured us that when our military left Kabul,"

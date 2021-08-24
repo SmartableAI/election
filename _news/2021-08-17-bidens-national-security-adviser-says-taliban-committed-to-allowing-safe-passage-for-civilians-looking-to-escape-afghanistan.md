@@ -591,6 +591,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden and other G7 leaders expected to discuss whether or when they should recognize Taliban as Afghanistan's government"
+    excerpt: "The heads of the world's leading democracies plan on Tuesday to discuss whether or when they should jointly recognize the Taliban as Afghanistan's government, western officials familiar with the planning told CNN.\n    \n"
+    publishedDateTime: 2021-08-24T13:25:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c5Km9Ad6Qiw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/24/politics/joe-biden-g7-afghanistan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/24/politics/joe-biden-g7-afghanistan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210822163144-01-biden-0822-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'This makes Benghazi look like a much smaller issue': House Republicans vow to probe Biden's Afghanistan exit if they win in 2022"
     excerpt: "Some Republicans see the fallout over the US exit from Afghanistan as their new Benghazi -- a foreign policy blunder ripe for investigation that could provide just the political ammunition they need to dent a popular Democratic President.\n    \n"
     publishedDateTime: 2021-08-20T10:01:10Z

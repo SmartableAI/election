@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.indystar.com/amp/8228495002"
 cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/8228495002"
 type: article
 quality: 73
-heat: 93
+heat: 113
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Former Pence aide faults Stephen Miller's 'racist hysteria' for US refusal to accept Afghan refugees under Trump"
+    excerpt: "A former aide to former Vice President Mike Pence said the last administration deliberately obstructed visa processing for U.S. allies in Afghanistan due to the \"racist hysteria\" of Stephen Miller,"
+    publishedDateTime: 2021-08-21T19:27:00Z
+    webUrl: "https://gazette.com/news/former-pence-aide-faults-stephen-millers-racist-hysteria-for-us-refusal-to-accept-afghan-refugees/article_e4a1d710-02b5-11ec-94a1-e7cd8e21773c.html"
+    ampWebUrl: "https://gazette.com/news/former-pence-aide-faults-stephen-millers-racist-hysteria-for-us-refusal-to-accept-afghan-refugees/article_e4a1d710-02b5-11ec-94a1-e7cd8e21773c.amp.html"
+    cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/news/former-pence-aide-faults-stephen-millers-racist-hysteria-for-us-refusal-to-accept-afghan-refugees/article_e4a1d710-02b5-11ec-94a1-e7cd8e21773c.amp.html"
+    type: article
+    provider:
+      name: The Gazette
+      domain: gazette.com
+    quality: 69
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/5/a2/5a29d1b8-02b6-11ec-9b45-1fab93a44c11/5b36f6962376e.image.jpg?resize=1024%2C683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Pence Aide Blames Stephen Miller for Fewer Afghan Visas"
     excerpt: "Olivia Troye, a former aide to former Vice President Mike Pence, blamed racist views of Stephen Miller for the inability of many translators and other allies to get out of Afghanistan before the U.S."
     publishedDateTime: 2021-08-21T18:46:00Z

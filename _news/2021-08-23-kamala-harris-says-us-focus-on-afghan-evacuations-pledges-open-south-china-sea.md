@@ -121,6 +121,20 @@ related:
         width: 3000
         height: 2002
         isCached: true
+  - title: "U.S. VP Harris says China intimidates to back South China Sea claims"
+    excerpt: "U.S. Vice President Kamala Harris on Tuesday accused Beijing of continuing to \"coerce\" and \"intimidate\" in the South China Sea and pledged that Washington would pursue a free and open Indo Pacific."
+    publishedDateTime: 2021-08-24T07:53:00Z
+    webUrl: "https://www.reuters.com/world/asia-pacific/kamala-harris-says-beijing-continues-coerce-south-china-sea-2021-08-24/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/R9sA08YsyWMlJT7R2KQMceJAlbg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NPVGKOYL6RO5DCYLNOSJIXEG6M.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Kamala Harris’ Asia trip carries new urgency after Afghan collapse"
     excerpt: "The Taliban takeover of Afghanistan has given new urgency to Vice President Kamala Harris’ tour of southeast Asia, where she will attempt to reassure allies of American resolve following the"
     publishedDateTime: 2021-08-20T16:04:00Z

@@ -37,22 +37,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Biden praises WNBA champs for social justice activism"
-    excerpt: "President Joe Biden honored the 2020 WNBA champions Seattle Storm on Monday, celebrating their success on the court and hailing the four-time title holders for changing lives with their activism. The visit marked the first time that an NBA or WNBA team has visited the White House since the Cleveland Cavaliers were feted by Barack Obama in 2016."
-    publishedDateTime: 2021-08-24T03:55:00Z
-    webUrl: "https://www.fairfieldcitizenonline.com/sports/article/Biden-praises-WNBA-champs-for-social-justice-16406650.php"
-    ampWebUrl: "https://www.fairfieldcitizenonline.com/sports/amp/Biden-praises-WNBA-champs-for-social-justice-16406650.php"
-    cdnAmpWebUrl: "https://www-fairfieldcitizenonline-com.cdn.ampproject.org/c/s/www.fairfieldcitizenonline.com/sports/amp/Biden-praises-WNBA-champs-for-social-justice-16406650.php"
-    type: article
-    provider:
-      name: Fairfield Citizen
-      domain: fairfieldcitizenonline.com
-    quality: 75
-    images:
-      - url: "https://s.hdnux.com/photos/01/21/44/77/21385154/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Joe Biden praises WNBA champs for social justice activism"
     excerpt: "The visit marked the first time that an NBA or WNBA team has visited the White House since the Cleveland Cavaliers were feted by Barack Obama in 2016."
     publishedDateTime: 2021-08-24T00:19:00Z
@@ -100,6 +84,20 @@ related:
       - url: "https://images.cnbctv18.com/wp-content/uploads/2021/06/Biden_Uk-1019x573.jpg"
         width: 1019
         height: 573
+        isCached: true
+  - title: "Biden praises WNBA champs for social justice activism"
+    excerpt: "President Joe Biden honored the 2020 WNBA champions Seattle Storm on Monday, celebrating their success on the court and hailing the four-time title holders for changing lives with"
+    publishedDateTime: 2021-08-24T13:26:00Z
+    webUrl: "https://www.phillytrib.com/sports/biden-praises-wnba-champs-for-social-justice-activism/article_a4098845-3c9c-5182-ba4a-4f5a594da7bc.html"
+    type: article
+    provider:
+      name: Philadelphia Tribune
+      domain: phillytrib.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/assets/v3/editorial/5/5f/55fd9673-7d2d-5b10-a2e3-90069a1434d2/6124f3e31a6b5.image.jpg?crop=834%2C439%2C79%2C26&resize=400%2C211&order=crop%2Cresize"
+        width: 400
+        height: 211
         isCached: true
 
 secured: "nTiBxjV7dr1COCDBoHyvYipnRLjrSiWjN1E/3DFGq8eZEOVhJ+nNJGp7ooeJnrZ9/Lla140C0BNcjnqh7jY65zRMU5Z3EE2jKrpvs35ziWUP/p4kyo54pwhOrE7POWQWgJLJ9FL8blIgkryKSN0o63T1zFgTy4ddlRID277FVWFNoL648nBlEaGLSrM0BkaTpfDrsr7xKNWTGEWE/TxlziL2ZrQ0hsRv2cVORqHVJnSHKvdh3Rt+o/NatXjw1FUWHQ8zQOwINC4Pqv4KYR6Y+WPAAY22iTwx0vjw4OYpdO7R3tAq0BPwxS8XHgYhDcjYktqAatu5N1kv0IZ2LsCM7UO1n81LtIhkZg3Hu3pQWDX/XJgprcylxJ/pUonPzOTrguzTu8W3OSZW5um5gUM1e3JDBOZQ7AeGUzkAVqcwfrdWy/bOOCzS/WEZ6naAOcoBZ6aQwCTtrIxJpkZAYQjOrqe/uUBR74pr9HTFTqP1ZxFrBbLSdPn8KTG2P7Fw+0mKIMSeobLn222RJr2JHZEsyQ==;nQNsromgGxhrGem0xhVdFg=="

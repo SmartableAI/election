@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/7793245002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7793245002"
 type: article
 quality: 111
-heat: 111
+heat: 131
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Wisconsin's Democratic Senate primary could be referendum on Biden"
+    excerpt: "Wisconsin’s next Senate election isn’t until Nov. 8, 2022, but already there are 11 candidates vying for the Democratic nomination in a party primary that could prove to be an early referendum on Pres"
+    publishedDateTime: 2021-08-24T13:18:00Z
+    webUrl: "https://www.wsjm.com/2021/08/24/wisconsins-democratic-senate-primary-could-be-referendum-on-biden/"
+    type: article
+    provider:
+      name: WSJM
+      domain: wsjm.com
+    quality: 55
+    images:
+      - url: "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/321/2021/08/24100917/iStock_082421_wiscsenateseat.jpeg"
+        width: 630
+        height: 352
+        isCached: true
 
 secured: "IBoPVYlF7Z5Cf8C9socaD3xoBX8nQM6DyxmokNLQ+eL2vVousEzRUAwsWww+14HaMcfEP+rgwUS5GLwYaeGWROOj4/hadh1bx5RfOtyJYSdKNhcx9AJbatlANyDTU8pKieJPvzwWFLZkiTw/3sLebhGwdyuKP6SKEcbZhmMrG4uCVSKIyyFJht12RW6Ya8YnHo2yNaRpW6HwZeH6fWgaEJgzzTI8wKVcnv8P+L9D15SIaH8rliWDyJDRKNsQ5T7y+63vVFbB7wm+nHWl0q+Q3AOz5k8oJ1DXCtguB6Cr/otZb6NMvYtojNndCqntsJOMiRFTtJx50gvmGi9GIDKaWTHoxuYZSGO6p292DXw/uDWH7xPg3Cnk1RkInLWAASz2zgZh18pCcCzta3FYSLeArppT13bUiezDQHv4C1ieCndYpzePJHKrtXqDjCc21eMAdgnsjHvONvJGiSWtj41J2+jooDpQW2td/MI6bhDNmdF8TKI9XbDgw9gClg5cgbm9JExlnic/2OdGAhqB04I/AA==;jwzSBDEb+8qD6nkqDhPLxw=="
 ---

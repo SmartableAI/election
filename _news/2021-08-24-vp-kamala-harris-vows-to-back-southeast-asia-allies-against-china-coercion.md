@@ -119,6 +119,20 @@ related:
         width: 3000
         height: 2002
         isCached: true
+  - title: "U.S. VP Harris says China intimidates to back South China Sea claims"
+    excerpt: "U.S. Vice President Kamala Harris on Tuesday accused Beijing of continuing to \"coerce\" and \"intimidate\" in the South China Sea and pledged that Washington would pursue a free and open Indo Pacific."
+    publishedDateTime: 2021-08-24T07:53:00Z
+    webUrl: "https://www.reuters.com/world/asia-pacific/kamala-harris-says-beijing-continues-coerce-south-china-sea-2021-08-24/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/R9sA08YsyWMlJT7R2KQMceJAlbg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NPVGKOYL6RO5DCYLNOSJIXEG6M.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Kamala Harris says U.S. focus on Afghan evacuations, pledges open South China Sea"
     excerpt: "U.S. Vice President Kamala Harris said on Monday during a visit to Singapore that the United States was focusing on evacuation efforts taking place in Afghanistan and that there would be plenty of time to analyse the context of the troop withdrawal."
     publishedDateTime: 2021-08-23T09:38:00Z
@@ -636,6 +650,6 @@ related:
         height: 422
         isCached: true
 
-secured: "oX/zPayKSTu63u2LtIZ1AmDtJvl3yMjVlb0ht3D+OxbElE6p639cCNhUoWyRYBTjXEYivfO9NTNiZga48k5tM1dfc0Vgg2PPYkGHbosVmMTNC30zl8tYK65PkXvv+zWG9w3/ZXnRWSQaeq4MomDLDbOCnuBm6q/yxnjEZ1SW+tpSZ1b7Zs0aLukGSEWiPnFIymVSyrIgj/up6EklK3z6ys0H71mNr5e4CkhShFglXbHqLnSQGv97fpXg1mvWJcPh8LJspZlBD2zShGz9SyNd7gRVuyXYeRK8tQtJza0p5IY1Ofwgo6KdsaV8EXuAoUSCuXNNmJVXZef7oAsgaLi5iVyGgynlAK3s/Z9BkdWMVc4=;rExDtIRnpDcipZvT9WvDKA=="
+secured: "RwsaxErVjWqdDMTClhAfOBxn+UsZvUrVleF67HEm1DgPcdWiJGuNSz6aqidho69uiZkjrPKxRQrH558tr5H07lnBh5FSp4eUfYlfi+2UgVj8XMR6Xea+sQEfZzzYh5CKiaDRy0qgUz+K1Pf6q0aRx9N4xUFWdCsWJStqQ6HiZQ7JyJOtfEl5GA6qrSX+MfMdGCq9Qckx74PXn9JmIjyar4HSgCfs9vM8Vs51cZ1s+/4RoR+fql7e2Kk5+hAuLI/Qt1sAzfEaVUnXu5Ptx2El2qoFxxVkhKRSPY1feLY3mpGIL4DXkV22c04q2+RZILE8d6S9XMCwFRqt9MzgUiqHtWVupNML39yo8921aW4pYurGOuyLrdCt0KTMQnz4ypyraBqVu/uMbaTjAm4eqm7+PzTr4y0uHWbL7vmESBY+QMCSKFO9Y3rwNSLkGDp5a54X40IIfFPEmdaF1ahEEVSYPaLmoOTkqR7MQIcCbtzUiysLqEQHoK2LrO6Xfsu5+J5npWYij1kEdO1pcBuLUsw/zw==;gpDNgQ27PlyF9Q41rM25gw=="
 ---
 

@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Former Pence aide faults Stephen Miller's 'racist hysteria' for US refusal to accept Afghan refugees under Trump"
+    excerpt: "A former aide to former Vice President Mike Pence said the last administration deliberately obstructed visa processing for U.S. allies in Afghanistan due to the \"racist hysteria\" of Stephen Miller,"
+    publishedDateTime: 2021-08-21T19:27:00Z
+    webUrl: "https://gazette.com/news/former-pence-aide-faults-stephen-millers-racist-hysteria-for-us-refusal-to-accept-afghan-refugees/article_e4a1d710-02b5-11ec-94a1-e7cd8e21773c.html"
+    ampWebUrl: "https://gazette.com/news/former-pence-aide-faults-stephen-millers-racist-hysteria-for-us-refusal-to-accept-afghan-refugees/article_e4a1d710-02b5-11ec-94a1-e7cd8e21773c.amp.html"
+    cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/news/former-pence-aide-faults-stephen-millers-racist-hysteria-for-us-refusal-to-accept-afghan-refugees/article_e4a1d710-02b5-11ec-94a1-e7cd8e21773c.amp.html"
+    type: article
+    provider:
+      name: The Gazette
+      domain: gazette.com
+    quality: 69
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/5/a2/5a29d1b8-02b6-11ec-9b45-1fab93a44c11/5b36f6962376e.image.jpg?resize=1024%2C683"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "t8NmD5GVRlP0P+0ANLnIXPuOyWM1LNNi5ApoaUx7YBIve7iV4abDkqCNYrfS3hgZw8JVpfejKkYkcq+FJlI9BZB4Y0TdeCcbVFq9BjXmWzrdkRRYqN376JGOK8busy6V6O0Cg1u62fnoLf4AKmwthoeO36vAv+lQ09NONAwlJ78ZQBtLDy1BLfX40/eHDPeV0OrCRMLiLIMY9LUYcMJvmwHgpj4Kk8DD7DZtbVTJ0m9yzUNaEo7AUo+3f/lQGX6pNXI/95eQqjP85i+PFHIj2zKSl1GipkXdg+CZFwELXeb6GmE3g4fiTx+3sACIysK2cvvckT/RHPE+IbgWTmbvvoz13c6wOWFgNgbeAscCZCE=;/zmN3u7cVXdxnFHrlQ0+Pg=="
 ---

@@ -734,18 +734,18 @@ related:
         height: 675
         isCached: true
   - title: "Bush, Obama, Trump, Biden: How four presidents created today's Afghanistan mess"
-    excerpt: "President Joe Biden has said repeatedly over the past four months -- as recently as last week -- that he refuses to hand off the war in Afghanistan to a fifth US president.Implicit in"
-    publishedDateTime: 2021-08-24T03:39:00Z
-    webUrl: "https://cbs58.com/news/bush-obama-trump-biden-how-four-presidents-created-todays-afghanistan-mess"
+    excerpt: "How America spent 20 years in Afghanistan, only to have the Taliban resume control again as its troops withdrew, will be a topic for historians to ponder for decades."
+    publishedDateTime: 2021-08-24T12:30:00Z
+    webUrl: "https://www.stltoday.com/news/national/bush-obama-trump-biden-how-four-presidents-created-todays-afghanistan-mess/article_d141af37-f20c-51e4-afd0-2a84091979f3.html"
     type: article
     provider:
-      name: CBS 58
-      domain: cbs58.com
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
     quality: 66
     images:
-      - url: "https://newscdn2.weigelbroadcasting.com/eFwaZ-1629776368-204654-blog-hypatia-h_1201b1fd23d0d0ddf45c1b8bc5b741ea-h_87a7d68d4fcdaad261ad6f318f8c6d97-300.JPG"
-        width: 1600
-        height: 900
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/14/d141af37-f20c-51e4-afd0-2a84091979f3/6124e09886aaa.preview.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
         isCached: true
   - title: "Afghanistan fallout to hang over potential 2024 GOP presidential contenders, as well as Biden"
     excerpt: "The chaotic U.S. withdrawal from Afghanistan may haunt President Joe Biden, but it could also hang over some of the Republicans who will seek to replace him in 2024."
@@ -762,6 +762,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/346c4d4c-0ebe-4577-bdbf-21c5f8e914af/554385c1-d5d0-4f0c-9b03-7bab5722a707/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Afghanistan: CIA director secretly meets Taliban leader as Joe Biden mulls evacuation deadline"
+    excerpt: "President Joe Biden dispatched William Burns to Kabul on Monday as he considers whether to extend his deadline to pull US troops out of Afghanistan."
+    publishedDateTime: 2021-08-24T13:46:00Z
+    webUrl: "https://news.sky.com/story/afghanistan-cia-director-secretly-meets-taliban-leader-as-joe-biden-mulls-evacuation-deadline-12389454"
+    ampWebUrl: "https://news.sky.com/story/amp/afghanistan-cia-director-secretly-meets-taliban-leader-as-joe-biden-mulls-evacuation-deadline-12389454"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/afghanistan-cia-director-secretly-meets-taliban-leader-as-joe-biden-mulls-evacuation-deadline-12389454"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 63
+    images:
+      - url: "https://e3.365dm.com/21/08/1600x900/skynews-william-burns-abdul-ghani-baradar_5488833.jpg?20210824145349"
+        width: 1600
+        height: 900
         isCached: true
   - title: "SAG-AFTRA & WGA East Join News Unions Urging President Biden To Help Journalists Fleeing Afghanistan"
     excerpt: "The presidents of five unions representing journalists are calling on President Joe Biden to support news crews and their families who are trying to flee Afghanistan. “The United States government"
@@ -1150,6 +1166,15 @@ related:
     provider:
       name: KAKE.com
       domain: kake.com
+    quality: 35
+  - title: "Reader concerned with Joe Biden, Afghanistan"
+    excerpt: "At the G7 summit a month ago Joe Biden very proudly said, “America is back.” We’re back alright, so far back, I wonder if we are still a world power."
+    publishedDateTime: 2021-08-24T11:53:00Z
+    webUrl: "https://www.hiawathaworldonline.com/opinion/reader-concerned-with-joe-biden-afghanistan/article_4c7b6128-04da-11ec-853b-fb1229ce7560.html"
+    type: article
+    provider:
+      name: Hiawatha World Online
+      domain: hiawathaworldonline.com
     quality: 35
   - title: "Biden to Marshal International Community on Rights in Afghanistan -Adviser"
     excerpt: "U.S. National Security Adviser Jake Sullivan on Monday said that President Joe Biden is prepared to marshal the international community on human rights in Afghanistan, where the Taliban is seizing power."

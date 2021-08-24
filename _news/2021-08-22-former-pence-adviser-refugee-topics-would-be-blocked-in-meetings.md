@@ -2,24 +2,28 @@
 category: news
 title: "Former Pence adviser: Refugee topics would be blocked in meetings"
 excerpt: "Olivia Troye, a former adviser to Vice President Mike Pence, speaks to CNN for the first time since her viral Twitter thread in which she says that some senior members"
-publishedDateTime: 2021-08-21T19:21:00Z
-originalUrl: "https://www.timesherald.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_bb03602c-68fe-5b15-b1d5-7f184c882be7.html"
-webUrl: "https://www.timesherald.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_bb03602c-68fe-5b15-b1d5-7f184c882be7.html"
-ampWebUrl: "https://www.timesherald.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_bb03602c-68fe-5b15-b1d5-7f184c882be7.amp.html"
-cdnAmpWebUrl: "https://www-timesherald-com.cdn.ampproject.org/c/s/www.timesherald.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_bb03602c-68fe-5b15-b1d5-7f184c882be7.amp.html"
+publishedDateTime: 2021-08-21T18:21:00Z
+originalUrl: "https://www.dequeenbee.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_e4c372b5-02eb-537a-8131-96c95cf69491.html"
+webUrl: "https://www.dequeenbee.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_e4c372b5-02eb-537a-8131-96c95cf69491.html"
 type: article
 quality: 55
 heat: 55
 published: false
 
 provider:
-  name: The Times Herald
-  domain: timesherald.com
+  name: DeQueen Bee
+  domain: dequeenbee.com
 
 topics:
   - Election
   - Mike Pence
 
-secured: "bZSyPkIakzu6ESsryok/LHUIpRUyw/MAiE27YJtCSern+JYMiDWj1kLrUMDZ7zknel5M5p/j/8Pz+y/3KKayXg7pkvBqPelhDwQSYecsTc5tLOc/kT6bQCUOKi8hD+p1fwJZkqWzj1S7RQU/v4HgULAwM3dFHS9fNim4cyKOy8phvVkIIkDXqP9v85V3vulehCSCD2NNDoIqxCP5PKZEe2LvjRyjrVCQTREZlEGefJmQFHYQBmQAbpeKooq83CyrZBBylQYv7yKFW4ayaTiwxvwO/+lshe4l8efYhUx1eqXs6IjTLufHB4JQUvdi5LJYIwirzWrYhy35KVmxvCDS40f8mm1FNW56AFo86/AVUMRK20JoRiYtxRZJIOYPmBiZ/zHbOJcVu7Via/FYlxEFiM9RpNTjdya6tulqbEqE/+8cnYSV329IWhx36lYICILGcM0UNqq+5tc1CM7h2dBgtlxF7lV8bKnnk4Q0rYxc0QR9YqU6PqTYirm4rkG47u/EBOwVQS4GBU7csHbZr2Dbog==;h2mE28xdyJ9dNx+9mw9s3w=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/dequeenbee.com/content/tncms/assets/v3/editorial/e/4c/e4c372b5-02eb-537a-8131-96c95cf69491/612157d91c10b.image.jpg?resize=576%2C324"
+    width: 576
+    height: 324
+    isCached: true
+
+secured: "RM5xK/CUaHMlOnc9dXrb9oWii3EGehCsGy/q/HgMinZG50Vmx9nCCk0Rx4qLtPmEztsPmiO5Dmf39T5OyitGYlAbCUNOBGDGHZ1ML7L/uY9Oh9B95jGfdi3OnboZDljrhrSQecTErtzkDDxRRnxnVak1ZXaJs4ndUYpH951YbuLx8ridI+tjalIrUsQt3GcA9FlqaKE6rySB5NfpDAbfwN9Qt5Krgh4SqboLDB1eSJWpFv+TtN/NnEpb73t8tRwGs0hHny35j4K5wTbi9qaxDrHNvQ6JVDC0SWGrICtwZ/K3S6oZhnvBiJ1Eo+3e+1hINQAsbb75cPgDzuhUW6AXMNpy+Rp3sIccdlOzieeeaoc=;b9JpwZ3+nHtJMA9Xr1stOA=="
 ---
 

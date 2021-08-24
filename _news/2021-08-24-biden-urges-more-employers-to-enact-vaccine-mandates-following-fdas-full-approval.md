@@ -43,22 +43,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Biden praises WNBA champs for social justice activism"
-    excerpt: "President Joe Biden honored the 2020 WNBA champions Seattle Storm on Monday, celebrating their success on the court and hailing the four-time title holders for changing lives with their activism. The visit marked the first time that an NBA or WNBA team has visited the White House since the Cleveland Cavaliers were feted by Barack Obama in 2016."
-    publishedDateTime: 2021-08-24T03:55:00Z
-    webUrl: "https://www.fairfieldcitizenonline.com/sports/article/Biden-praises-WNBA-champs-for-social-justice-16406650.php"
-    ampWebUrl: "https://www.fairfieldcitizenonline.com/sports/amp/Biden-praises-WNBA-champs-for-social-justice-16406650.php"
-    cdnAmpWebUrl: "https://www-fairfieldcitizenonline-com.cdn.ampproject.org/c/s/www.fairfieldcitizenonline.com/sports/amp/Biden-praises-WNBA-champs-for-social-justice-16406650.php"
-    type: article
-    provider:
-      name: Fairfield Citizen
-      domain: fairfieldcitizenonline.com
-    quality: 75
-    images:
-      - url: "https://s.hdnux.com/photos/01/21/44/77/21385154/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Joe Biden praises WNBA champs for social justice activism"
     excerpt: "The visit marked the first time that an NBA or WNBA team has visited the White House since the Cleveland Cavaliers were feted by Barack Obama in 2016."
     publishedDateTime: 2021-08-24T00:19:00Z
@@ -90,6 +74,20 @@ related:
       - url: "https://images.cnbctv18.com/wp-content/uploads/2021/06/Biden_Uk-1019x573.jpg"
         width: 1019
         height: 573
+        isCached: true
+  - title: "Biden praises WNBA champs for social justice activism"
+    excerpt: "President Joe Biden honored the 2020 WNBA champions Seattle Storm on Monday, celebrating their success on the court and hailing the four-time title holders for changing lives with"
+    publishedDateTime: 2021-08-24T13:26:00Z
+    webUrl: "https://www.phillytrib.com/sports/biden-praises-wnba-champs-for-social-justice-activism/article_a4098845-3c9c-5182-ba4a-4f5a594da7bc.html"
+    type: article
+    provider:
+      name: Philadelphia Tribune
+      domain: phillytrib.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/assets/v3/editorial/5/5f/55fd9673-7d2d-5b10-a2e3-90069a1434d2/6124f3e31a6b5.image.jpg?crop=834%2C439%2C79%2C26&resize=400%2C211&order=crop%2Cresize"
+        width: 400
+        height: 211
         isCached: true
   - title: "Storm commemorates 2020 WNBA championship with President Joe Biden at White House"
     excerpt: "President Joe Biden and first lady Jill Biden hosted an entourage led by Storm captains Sue Bird and Breanna Stewart, coach Noelle Quinn and the majority owners Ginny Gilder, Lisa Brummel and Dawn Trudeau."
