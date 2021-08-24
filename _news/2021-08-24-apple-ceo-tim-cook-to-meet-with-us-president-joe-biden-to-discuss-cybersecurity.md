@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "WNBA News: What Joe Biden Said About Champion Seattle Storm In Their White House Visit"
+    excerpt: "The Seattle Storm visited President Joe Biden at the White House on Monday to celebrate their 2020 WNBA championship. Seattle defeated the Las Vegas Aces in a 3-game sweep, giving the organization their fourth championship title in their history."
+    publishedDateTime: 2021-08-23T22:52:00Z
+    webUrl: "https://www.ibtimes.com/wnba-news-what-joe-biden-said-about-champion-seattle-storm-their-white-house-visit-3279414"
+    ampWebUrl: "https://www.ibtimes.com/wnba-news-what-joe-biden-said-about-champion-seattle-storm-their-white-house-visit-3279414?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/wnba-news-what-joe-biden-said-about-champion-seattle-storm-their-white-house-visit-3279414?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 67
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/22/gettyimages-1025667234.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden celebrates 2020 WNBA champs Seattle Storm"
     excerpt: "President Joe Biden honored the 2020 WNBA champions Seattle Storm on Monday, celebrating their success on the court and hailing the four-time title holders for changing lives with their social"
     publishedDateTime: 2021-08-23T23:46:00Z

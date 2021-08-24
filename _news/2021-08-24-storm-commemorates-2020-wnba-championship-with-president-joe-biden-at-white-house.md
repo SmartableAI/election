@@ -1,24 +1,30 @@
 ---
 category: news
 title: "Storm commemorates 2020 WNBA championship with President Joe Biden at White House"
-excerpt: "President Joe Biden and first lady Jill Biden hosted an entourage led by Storm captains Sue Bird and Breanna Stewart, coach Noelle Quinn and the majority owners Ginny Gilder, Lisa Brummel and Dawn Trudeau."
-publishedDateTime: 2021-08-23T19:34:00Z
-originalUrl: "https://www.seattletimes.com/sports/storm/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/"
-webUrl: "https://www.seattletimes.com/sports/storm/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/"
-ampWebUrl: "https://www.seattletimes.com/sports/storm/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/sports/storm/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/?amp=1"
+excerpt: "Before leaving the nation’s capital, the Storm stopped by the White House on Monday, marking a return to normalcy when sports teams regularly received invitations to celebrate championships and their athletic achievements."
+publishedDateTime: 2021-08-24T00:05:00Z
+originalUrl: "https://www.spokesman.com/stories/2021/aug/23/storm-commemorates-2020-wnba-championship-with-pre/"
+webUrl: "https://www.spokesman.com/stories/2021/aug/23/storm-commemorates-2020-wnba-championship-with-pre/"
+ampWebUrl: "https://www.spokesman.com/stories/2021/aug/23/storm-commemorates-2020-wnba-championship-with-pre/?amp-content=amp"
+cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/aug/23/storm-commemorates-2020-wnba-championship-with-pre/?amp-content=amp"
 type: article
-quality: 50
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: The Spokesman-Review
+  domain: spokesman.com
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://thumb.spokesman.com/-RD9IOuamrImE-fLeVHyasMRJRs=/480x0/media.spokesman.com/photos/2021/08/23/61242f3f0d0cf.hires.jpg"
+    width: 480
+    height: 320
+    isCached: true
 
 related:
   - title: "Biden's special envoy urges North Korea to return to talks"
@@ -37,7 +43,23 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Biden praises WNBA champs for social justice activism"
+    excerpt: "President Joe Biden honored the 2020 WNBA champions Seattle Storm on Monday, celebrating their success on the court and hailing the four-time title holders for changing lives with their activism. The visit marked the first time that an NBA or WNBA team has visited the White House since the Cleveland Cavaliers were feted by Barack Obama in 2016."
+    publishedDateTime: 2021-08-24T01:43:00Z
+    webUrl: "https://www.ourmidland.com/news/article/Biden-praises-WNBA-champs-for-social-justice-16406650.php"
+    ampWebUrl: "https://www.ourmidland.com/sports/amp/Biden-praises-WNBA-champs-for-social-justice-16406650.php"
+    cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/sports/amp/Biden-praises-WNBA-champs-for-social-justice-16406650.php"
+    type: article
+    provider:
+      name: Our Midland MI
+      domain: ourmidland.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/44/77/21385154/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
 
-secured: "p8suH0dYa50hulvmTTjQOyEX206oKJNgzJ+dss0xicMK5GMez1Et7623hBxABwG5QW7kKGPI9ezHP4jPVs1VLsjk6ONdLfGHlAmh4HjbWP3nM4Sp6XD/DUbvAOISmpqCGP/vqKTF4a2F8Ht0rivJeHuFTPasMm7RuNVVWzf+aDykAeTgDco4s9/t09C/ZX5MLirj2uJyomfRA+yKPAOCb2PlrPpCB3YsLoudHy5Uh7SeY8CH7aV1t8P9cZ5rYkxMVgrlhNH/VhbIRPshqGi7Tvidosjfeol2UQJARB8TLNpw/taAVNKv6lzJcpiekbkIWbhWtc7DERb09N89AYHDqDrl82rVYSAr1GumlOw1kK3+kWYk6anxb1ERRKGnkyrvd+mTyuW1n2serQoZGrjSCTSYmGNdeneiIN3H1F2UD1aJYqGV8myDiPps/i/TXYuouPbPOFR6AE1lLo191SFOhDvftkwz+p4PubXcjfo6eAlh0Q0uAFi1h+4KQq57QghxljRy+nqmUk6GDxww6R2qzQ==;h/CAwbOw1Yr4iPmmYl4onw=="
+secured: "JANi6GHy2/p4JC13JnZh4bET7YgLFTGKjpORZ7aa+g2V+OQwNQ6XwNYRFzOIpjxebNAZahE3tIW6wIJHERM/3861eZTEtt2ANN40uW46iwDBY1mwrszxLOi1RKAEGj2BbyuLaoM/huYkVWxRxuBl3UlLQwxlwG4GwW+n49Rj0RgQywxTiEwhtlVmAy9uteFzn48cg4SiQirANhctZt1wx8+vykMEXxxhUjquswwpCfFmgIzASPPFGOgfjhaNk1+4GUvE000kn4IJhqhShjkavCmDePSjKWRkdKbhhaNy13Qx7AB8sWLIVOWgwB7a44V5Z+6u6qQsBxW0s49Z/9HZLYlC7AiNxBXOas+av6nUBgw=;zVNq9M7h21OjOat0TqPEpw=="
 ---
 

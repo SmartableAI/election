@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden’s Approval Rating: President Slides To New Lows, #RespectBiden Trends On Twitter"
 excerpt: "President Joe Biden’s overall job-approval rating dipped below 50% for the first time since he took office, according to a poll released Monday from NBC News. The dip coincides with how Americans view his handling of the coronavirus pandemic,"
 publishedDateTime: 2021-08-23T20:29:00Z
-originalUrl: "https://ibtimes.com/joe-bidens-approval-rating-president-slides-new-lows-respectbiden-trends-twitter-3279361"
-webUrl: "https://ibtimes.com/joe-bidens-approval-rating-president-slides-new-lows-respectbiden-trends-twitter-3279361"
+originalUrl: "https://www.ibtimes.com/joe-bidens-approval-rating-president-slides-new-lows-respectbiden-trends-twitter-3279361"
+webUrl: "https://www.ibtimes.com/joe-bidens-approval-rating-president-slides-new-lows-respectbiden-trends-twitter-3279361"
 ampWebUrl: "https://www.ibtimes.com/joe-bidens-approval-rating-president-slides-new-lows-respectbiden-trends-twitter-3279361?amp=1"
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-bidens-approval-rating-president-slides-new-lows-respectbiden-trends-twitter-3279361?amp=1"
 type: article
@@ -523,6 +523,6 @@ related:
       domain: avvo.com
     quality: 14
 
-secured: "v4VwXdcAuArJqvkgxRhN636kMIjAtQsNZhvkJy2uelFTDPvbsfBfqOUONh7QH6m/KL+/wN/YKRKnluYVcI2a3wQL8uABnfTU8mmzg+o5UmdQQpjLeqSSxYVQBV0baGw2MpBD1s2p1GzKB2VHn8OMA+JQCWUjb9H0XXXNg4xsxupUXetktOrWv2KOq2ipN1PMhO4p5QD23jqP2VktTI8nPQiTOdZ6+Yp+0FAnlCIrD/gEEDUCmaDpxsPjISnSfxvOCajZApL9N6CEMzWyFbFDaioI2jTsgLL0bZug6T1lGip7YcJ2+7h3gPVXvcyZKtk1QeDxuJEpjibyOJCSQasCa5hHB7FmzTM7thsI2JRE7YM25NNB3LVsdXJfAp1SjAWjQ3vnP/iV+gHFCPJeb2ggr4OXgsXQ7HQ/8FwsV0ifcBE/q+rAfAFmNJXNOdDMhbuVCsLuEXU2cgjOiTNxy8Uu22Y3jXua9Kku2NZVkLw5chnslyPygsYdikWmgJm/BqSfzvn5w0Yfh921frl2V18+lw==;BKS4VHkLXuaIO7e/TnWZ0w=="
+secured: "mbvKHWJ/6HAVWUxWJhdW/I9WvAxn2yfV/wgtX2/I2SpoRuuGDD+TJP7Rt2BGloDROpvPEuNjRg61Bfst0zeQaMBcy07ejvkccjWdIyXykD6dH2g6qXcSud+ggdHVHgPEV/ljwMOsxqIULn7foV1L9xQ59uHKsBqcu0TrRxAdwSEuGpbQokblgx3ETQzdvHv+pdcMF0vvbXpjmMwK/Wh8UCkOTpyohJ4Ya/v0tiJcJTXNbkcdiegcJy+GcgI6qpdhkmCC9jlChB4BDhX3eX1iKkogT8sDEObKOBowk72KYUFjqX+uV9hsfjswfoZpmjmLVcUW7HxU/Er53ZM01iwnVfZ83gcTJgObsPslYVX2sFM=;oA/BlL2L/JXc3/vGHn9aHg=="
 ---
 

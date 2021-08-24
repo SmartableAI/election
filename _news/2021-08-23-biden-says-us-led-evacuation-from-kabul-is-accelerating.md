@@ -278,7 +278,7 @@ related:
   - title: "Joe Biden’s Approval Rating: President Slides To New Lows, #RespectBiden Trends On Twitter"
     excerpt: "President Joe Biden’s overall job-approval rating dipped below 50% for the first time since he took office, according to a poll released Monday from NBC News. The dip coincides with how Americans view his handling of the coronavirus pandemic,"
     publishedDateTime: 2021-08-23T20:29:00Z
-    webUrl: "https://ibtimes.com/joe-bidens-approval-rating-president-slides-new-lows-respectbiden-trends-twitter-3279361"
+    webUrl: "https://www.ibtimes.com/joe-bidens-approval-rating-president-slides-new-lows-respectbiden-trends-twitter-3279361"
     ampWebUrl: "https://www.ibtimes.com/joe-bidens-approval-rating-president-slides-new-lows-respectbiden-trends-twitter-3279361?amp=1"
     cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-bidens-approval-rating-president-slides-new-lows-respectbiden-trends-twitter-3279361?amp=1"
     type: article
