@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-28-the-trailer-trump-texts-and-texas-inside-an-all-republican-primary-that-didnt-go-as-planned.md",
+      "title": "The Trailer: Trump, texts and Texas: Inside an all-Republican primary that didn't go as planned",
+      "excerpt": "Instead, Democrats spent little, turned out few voters, and set up an all-Republican race between Wright and Ellzey, who'd previously sought the seat in 2018. Instead of a red-on-blue suburban battle,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/07/27/trailer-trump-texts-texas-inside-an-all-republican-primary-that-didnt-go-planned/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/07/27/trailer-trump-texts-texas-inside-an-all-republican-primary-that-didnt-go-planned/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CXK7Q5XO6EI6XANSTNYGDJMC3A.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T14:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-trump-lawmakers-honor-sen-mike-enzi-after-sudden-death-from-bike-accident.md",
       "title": "Trump, lawmakers honor Sen. Mike Enzi after sudden death from bike accident",
       "excerpt": "From former President Donald Trump to Rep. Liz Cheney to Sen. Tim Kaine, many on both sides of the aisle remembered the life and accomplishments of Senator Mike Enzi.",
@@ -1483,58 +1535,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-michael-wolff-murdoch-hates-trump-but-loves-fox-news-money-more.md",
-      "title": "Michael Wolff: Murdoch hates Trump but loves Fox News money more",
-      "excerpt": "In book, Wolff says that Murdoch personally approved network’s early call of Arizona, which signalled Trump’s defeat",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/media/2021/jul/19/landslide-michael-wolff-rupert-murdoch-donald-trump-fox-news",
-      "originalUrl": "https://www.theguardian.com/media/2021/jul/19/landslide-michael-wolff-rupert-murdoch-donald-trump-fox-news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/a73f231d740d05f5ae6f1fcb8fc8ab138e9c8083/0_73_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c634a9013950e6eb0b24de4c9b40f10f",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/media/2021/jul/19/landslide-michael-wolff-rupert-murdoch-donald-trump-fox-news",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2021/jul/19/landslide-michael-wolff-rupert-murdoch-donald-trump-fox-news",
-      "publishedDateTime": "2021-07-19T03:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

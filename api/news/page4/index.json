@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-16-rashida-tlaib-stands-by-call-for-trump-impeachment-despite-backlash.md",
+      "title": "Rashida Tlaib stands by call for Trump impeachment despite backlash",
+      "excerpt": "Rep. Rashida Tlaib on Friday refused to back down from her controversial call to impeach President Trump, despite mounting criticism. Ms. Tlaib told a crowd hours after being sworn in Thursday night that Democrats would go after the president.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/rashida-tlaib-impeachments-1f5cf09310702363ba2de9f74712b1ba",
+      "originalUrl": "https://apnews.com/article/rashida-tlaib-impeachments-1f5cf09310702363ba2de9f74712b1ba",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/ShareLogo2.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-16-trump-ally-in-georgia-running-for-lieutenant-governor-vows-to-expose-all-voter-fraud.md",
       "title": "Trump ally in Georgia running for lieutenant governor vows to 'expose all voter fraud'",
       "excerpt": "A state senator in Georgia who’s a strong supporter of former President Trump is vowing to \"investigate and expose all voter fraud\" as he runs next year for lieutenant governor.",
@@ -1232,49 +1275,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-van-orden-receives-trump-endorsement-for-wisconsin-race.md",
-      "title": "Van Orden receives Trump endorsement for Wisconsin race",
-      "excerpt": "MADISON, Wis. (AP) — Former President Donald Trump on Thursday gave his “Complete and Total Endorsement!” to the Republican seeking to flip a southwestern Wisconsin congressional district held by Democratic Rep. Ron Kind since 1997. Derrick Van Orden ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mrt.com/news/article/Van-Orden-receives-Trump-endorsement-for-16382562.php",
-      "originalUrl": "https://www.mrt.com/news/article/Van-Orden-receives-Trump-endorsement-for-16382562.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mrt.com/news/amp/Van-Orden-receives-Trump-endorsement-for-16382562.php",
-      "cdnAmpWebUrl": "https://www-mrt-com.cdn.ampproject.org/c/s/www.mrt.com/news/amp/Van-Orden-receives-Trump-endorsement-for-16382562.php",
-      "publishedDateTime": "2021-08-12T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Midland Reporter-Telegram",
-        "domain": "mrt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

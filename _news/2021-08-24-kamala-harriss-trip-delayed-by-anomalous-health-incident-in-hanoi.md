@@ -47,22 +47,6 @@ related:
         width: 320
         height: 214
         isCached: true
-  - title: "US VP Kamala Harris criticises Beijing intimidation in South China Sea"
-    excerpt: "US Vice President Kamala Harris has hit out at China during a speech made in Singapore on the first leg of a South East Asian tour. Ms Harris accused Beijing of coercion and intimidation in the South China Sea,"
-    publishedDateTime: 2021-08-24T04:45:00Z
-    webUrl: "https://www.bbc.com/news/world-asia-58312947"
-    ampWebUrl: "https://www.bbc.com/news/world-asia-58312947.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-asia-58312947.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/105E2/production/_120224076_gettyimages-1234839274.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Kamala Harris heads to Vietnam while Afghanistan images rekindle the past"
     excerpt: "White House officials did not anticipate the comparisons with Afghanistan when they charted Vice President Kamala Harris' trip to Vietnam."
     publishedDateTime: 2021-08-20T15:05:00Z
@@ -277,6 +261,22 @@ related:
         width: 480
         height: 317
         isCached: true
+  - title: "Havana Syndrome in Hanoi delays Kamala Harris’ trip to Vietnam"
+    excerpt: "The Havana Syndrome is the name for a rash of mysterious health incidents first reported by American diplomats and other government employees in the Cuba capital beginning in 2016."
+    publishedDateTime: 2021-08-24T16:09:00Z
+    webUrl: "https://www.al.com/news/2021/08/havana-syndrome-in-hanoi-delays-kamala-harris-trip-to-vietnam.html"
+    ampWebUrl: "https://www.al.com/news/2021/08/havana-syndrome-in-hanoi-delays-kamala-harris-trip-to-vietnam.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/08/havana-syndrome-in-hanoi-delays-kamala-harris-trip-to-vietnam.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/3FRH4NDR4ZFA7PCRP4K55JN5FY.jpg"
+        width: 6000
+        height: 4056
+        isCached: true
   - title: "Kamala Harris rebukes China in major speech on Indo-Pacific"
     excerpt: "U.S. Vice President Kamala Harris delivered a sharp rebuke to China for its incursions in the South China Sea, warning its actions there amount to “coercion” and"
     publishedDateTime: 2021-08-24T04:09:00Z
@@ -292,6 +292,22 @@ related:
       - url: "https://www.denverpost.com/wp-content/uploads/2021/08/Singapore_US_Harris_92376.jpg?w=1024&#038;h=677"
         width: 1024
         height: 677
+        isCached: true
+  - title: "US VP Kamala Harris criticises Beijing intimidation in South China Sea"
+    excerpt: "US Vice President Kamala Harris has hit out at China during a speech made in Singapore on the first leg of a South East Asian tour. Ms Harris accused Beijing of coercion and intimidation in the South China Sea,"
+    publishedDateTime: 2021-08-24T04:45:00Z
+    webUrl: "https://www.bbc.co.uk/news/world-asia-58312947"
+    ampWebUrl: "https://www.bbc.co.uk/news/world-asia-58312947.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-asia-58312947.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 75
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/105E2/production/_120224076_gettyimages-1234839274.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "VP Kamala Harris to return to California to campaign for Newsom next week"
     excerpt: "WASHINGTON — Vice President Kamala Harris will campaign for Gov. Gavin Newsom next week as the Democratic Party rallies around the California governor in his recall battle. The vice president and former California senator will visit her home state next ..."
@@ -741,6 +757,6 @@ related:
         height: 422
         isCached: true
 
-secured: "B0KlCt3LvYRSf6bu5pcLrvYYhyCiDmP76NdChgqPagFTAmGFoqyj6wS8FwalBI3OrineOqzN74HWQlkYjs1MnwLeXgFhGW7KbmZTAJGj0TWcD7o18aEU4YqfUAaGsG/WnRY87UALEHG1Ma4COMHvyu8e5nmJhUPZbnckaGvQpf6ZTsIgGbJp09jpW806bvqdfPmqPLV9pIdcwwFbx2SZpWSzaRnLW5vTfsVW6fYm0vZEWvmNBk3uVrgi8bL2J/ita+ldvLYYqLQ7Ay3BLFYd4uJfqIlM4JqV+ULpBHtkLZ6IGu83fREl04Un+RgWSGQvHo1YsIwLjzlpn+IcWnJDuiZe5c1IO6TOBfzyEUS1Zm8=;PsCNIjfa7cZvJiHLQLInXQ=="
+secured: "SujbbRT2mggVbT+O7Hib2wuyrVk/4X37JOsSK68DlsxLKwCqkgmv4AAb28oA/OjDCEfcnNuqdRsli0kXeFx+G4V0EcU7oIE5zgNXdsMaW3JnJ76U7ILqE8XQyFhETlm8XEj9FRID3DSg89vCw7vC0TOU/zJ08+X0lXnifysPLtRVs/zXHgZzyzkuDE4E0lFJQfToh4/ibw8/QDSfo70S49NAORvdsQSgLQ0C3YDzXwS/aIvyZQzitvzzAAadeur+3zKAKTB+y/586DKjhTvGaocxS1IbS1ku0479HQUV+ofTMX2w1bmesZMtjsTVXD5P+EXlIjMAY1WyywyPNlwwLhq+AsWZ7wpB7+g2Pu2YMy3UgWvRQoOYvsdFXmGfih4+pyIO1gBrXXewL9cmPbvoxs3qHQibKgbHnMqVzWawgu0EIQRZ95wVwOWKHupC/8YXqa8svSaewgDmtu33IK9NSC0DzlkJq2QKydx5h5q2CmAm86GbpfyqhZlg30IpSZ9kj9SUPqsV6GUaIgH4EpRb4g==;v3yKTRQgbea1jjKPmu+ThA=="
 ---
 

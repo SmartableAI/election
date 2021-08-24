@@ -3,22 +3,18 @@ category: news
 title: "US VP Kamala Harris criticises Beijing intimidation in South China Sea"
 excerpt: "US Vice President Kamala Harris has hit out at China during a speech made in Singapore on the first leg of a South East Asian tour. Ms Harris accused Beijing of coercion and intimidation in the South China Sea,"
 publishedDateTime: 2021-08-24T04:45:00Z
-originalUrl: "https://www.bbc.com/news/world-asia-58312947"
-webUrl: "https://www.bbc.com/news/world-asia-58312947"
-ampWebUrl: "https://www.bbc.com/news/world-asia-58312947.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-asia-58312947.amp"
+originalUrl: "https://www.bbc.co.uk/news/world-asia-58312947"
+webUrl: "https://www.bbc.co.uk/news/world-asia-58312947"
+ampWebUrl: "https://www.bbc.co.uk/news/world-asia-58312947.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-asia-58312947.amp"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - Election
@@ -276,6 +272,22 @@ related:
       - url: "https://thumb.spokesman.com/N2HNE3d3V49sMF64E5u-wc5eHOo=/480x0/media.spokesman.com/photos/2021/08/23/61246a6aca3d9.hires.jpg"
         width: 480
         height: 317
+        isCached: true
+  - title: "Havana Syndrome in Hanoi delays Kamala Harris’ trip to Vietnam"
+    excerpt: "The Havana Syndrome is the name for a rash of mysterious health incidents first reported by American diplomats and other government employees in the Cuba capital beginning in 2016."
+    publishedDateTime: 2021-08-24T16:09:00Z
+    webUrl: "https://www.al.com/news/2021/08/havana-syndrome-in-hanoi-delays-kamala-harris-trip-to-vietnam.html"
+    ampWebUrl: "https://www.al.com/news/2021/08/havana-syndrome-in-hanoi-delays-kamala-harris-trip-to-vietnam.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/08/havana-syndrome-in-hanoi-delays-kamala-harris-trip-to-vietnam.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/3FRH4NDR4ZFA7PCRP4K55JN5FY.jpg"
+        width: 6000
+        height: 4056
         isCached: true
   - title: "Kamala Harris rebukes China in major speech on Indo-Pacific"
     excerpt: "U.S. Vice President Kamala Harris delivered a sharp rebuke to China for its incursions in the South China Sea, warning its actions there amount to “coercion” and"
@@ -741,6 +753,6 @@ related:
         height: 422
         isCached: true
 
-secured: "lm0Hr9Fv1qnUDVFkQO9ZT0UkTLUOTd2Xon+y9v68fSl3ukb8jlL2AQy9wjbP12+yUmbtJPmwsaN/3RbjZxc+Xl4Qy9pmz4kUx2JxmzWiawdME1Wnh4C4EbNCjG02f6VLWOvudTd5v1C8ZSy09O3wl2bpxz+aacM6FNRg76kCQVBjeLi8Z+Qp2u3cR2bExoBVG+9lZkSFb1X8oaLq2AWUYeLoGIp/lteydEK8zNw3J8Fe6WUgawmds1xiYx9nXVmQ1ao4YQ7QRyZUFSIHI9Blr7jfqdecM/dlKg0AdPylyzKI9XPXkuPLwe0l33M+7YNjyfSnK0Nh7csvtUsghjd0l1ObrrBb0sjNlb1GZEhy/kcjsmyRvDXoMs+C9vrNApV7qSp4fqThM82Iv+u+SyMdIDdcS5hIyJFBNmw5jNuK3VvIV5d70tUSpBP3adwuUNUBMe5ZZgsHmQKfwr96sQfBRRWB0uoYK3fcDulxGPNVW7n4mYYBbzWDLDYYME9DppkiVxG9XwuUXMbWDterZKbWiA==;eM2dQ/JOq02DFWaNgKeATQ=="
+secured: "V44DH74MY5zZMIJbLek5JZPeq8yOixGaZjiRiaGsMcw47Gk8DqYjAuEwiebCcLH7z6raEq48y39sFi30tdVwfOFwTRFspndIZfaNzJZfRVwrE7Opff79vZDezOBUhyl+MRf0OU8QcoaDMbBhjDQo9BtBl8TKWse9B0KoVgvP4drQz1aG31assc0pLQJgLMIqnvLqOzO9l1569gLOGm/TH62PC8b4dONEqbB7ekElK8CTmSAvE4R5xZBSgwDjqxBuJ0lI7Jk4Aig50tsrUugCS35lG3O3oyVv5qtc+peqjDfSyG6+tqoHUwWGlKgaf8ZqJ2LiPFzftCCoM8f5VF+Fyagso+n10+EVRlLQe826o2A=;6z+eAtPcg39aoZIp882cYg=="
 ---
 

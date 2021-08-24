@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-25-lightning-rod-trump-supporter-scott-preslers-rally-canceled-in-wilton.md",
+      "title": "Lightning-rod Trump supporter Scott Presler's rally canceled in Wilton",
+      "excerpt": "Scott Presler, a political operative identified as a former top strategist for an anti-Muslim group, canceled an appearance Wednesday at Gavin Park that was touted by U.S. Rep. Elise Stefanik and the local Republican Party.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesunion.com/news/article/Lightning-rod-GOP-operative-Scott-Presler-s-rally-16408046.php",
+      "originalUrl": "https://www.timesunion.com/news/article/Lightning-rod-GOP-operative-Scott-Presler-s-rally-16408046.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/21/15/62/21290146/5/ratio3x2_400.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesunion.com/news/amp/Lightning-rod-GOP-operative-Scott-Presler-s-rally-16408046.php",
+      "cdnAmpWebUrl": "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Lightning-rod-GOP-operative-Scott-Presler-s-rally-16408046.php",
+      "publishedDateTime": "2021-08-24T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Times Union",
+        "domain": "timesunion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-sasse-urges-biden-to-tell-taliban-were-getting-our-people-out-however-long-it-takes-damn-the-deadline.md",
       "title": "Sasse urges Biden to tell Taliban 'we're getting our people out however long it takes': 'Damn the deadline'",
       "excerpt": "In a blistering statement, Sen. Ben Sasse said Biden should be calling the shots, not the Taliban, who said there would be \"no extensions\" of the deadline set for withdrawal.",
@@ -235,7 +278,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1841,
+      "heat": 1861,
       "tags": null,
       "images": [
         {
@@ -1242,49 +1285,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-bidens-special-envoy-urges-north-korea-to-return-to-talks.md",
-      "title": "Biden's special envoy urges North Korea to return to talks",
-      "excerpt": "U.S. President Joe Biden’s special envoy for North Korea said Monday he’s ready to meet his North Korean counterparts “anywhere and at anytime” as he held discussions with South Korean officials over stalled nuclear talks with the North.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mrt.com/news/article/Biden-s-special-envoy-urges-North-Korea-to-return-16404595.php",
-      "originalUrl": "https://www.mrt.com/news/article/Biden-s-special-envoy-urges-North-Korea-to-return-16404595.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mrt.com/news/amp/Biden-s-special-envoy-urges-North-Korea-to-return-16404595.php",
-      "cdnAmpWebUrl": "https://www-mrt-com.cdn.ampproject.org/c/s/www.mrt.com/news/amp/Biden-s-special-envoy-urges-North-Korea-to-return-16404595.php",
-      "publishedDateTime": "2021-08-23T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Midland Reporter-Telegram",
-        "domain": "mrt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

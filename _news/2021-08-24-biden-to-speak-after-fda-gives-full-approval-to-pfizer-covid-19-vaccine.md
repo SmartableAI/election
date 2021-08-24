@@ -265,6 +265,22 @@ related:
         width: 480
         height: 320
         isCached: true
+  - title: "Tennessee flooding prompts Biden disaster declaration"
+    excerpt: "President Joe Biden has approved a major disaster declaration sought by Tennessee after record rainfall caused devastating floods that killed at least 22 people, according to a statement sent Tuesday."
+    publishedDateTime: 2021-08-24T19:56:00Z
+    webUrl: "https://www.nhregister.com/news/article/Tennessee-flooding-prompts-Biden-disaster-16408038.php"
+    ampWebUrl: "https://www.nhregister.com/news/amp/Tennessee-flooding-prompts-Biden-disaster-16408038.php"
+    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Tennessee-flooding-prompts-Biden-disaster-16408038.php"
+    type: article
+    provider:
+      name: New Haven Register
+      domain: nhregister.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Joe Biden goes on HOLIDAY again! POTUS has worked for only 4 days during Afghan fiasco"
     excerpt: "Biden has worked only four days out of the last 15, ever since the Taliban captured their first regional capital"
     publishedDateTime: 2021-08-21T10:05:00Z

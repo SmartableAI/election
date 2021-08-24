@@ -59,22 +59,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "US VP Kamala Harris criticises Beijing intimidation in South China Sea"
-    excerpt: "US Vice President Kamala Harris has hit out at China during a speech made in Singapore on the first leg of a South East Asian tour. Ms Harris accused Beijing of coercion and intimidation in the South China Sea,"
-    publishedDateTime: 2021-08-24T04:45:00Z
-    webUrl: "https://www.bbc.com/news/world-asia-58312947"
-    ampWebUrl: "https://www.bbc.com/news/world-asia-58312947.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-asia-58312947.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/105E2/production/_120224076_gettyimages-1234839274.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Kamala Harris heads to Vietnam while Afghanistan images rekindle the past"
     excerpt: "White House officials did not anticipate the comparisons with Afghanistan when they charted Vice President Kamala Harris' trip to Vietnam."
     publishedDateTime: 2021-08-20T15:05:00Z
@@ -288,6 +272,38 @@ related:
       - url: "https://thumb.spokesman.com/N2HNE3d3V49sMF64E5u-wc5eHOo=/480x0/media.spokesman.com/photos/2021/08/23/61246a6aca3d9.hires.jpg"
         width: 480
         height: 317
+        isCached: true
+  - title: "Havana Syndrome in Hanoi delays Kamala Harris’ trip to Vietnam"
+    excerpt: "The Havana Syndrome is the name for a rash of mysterious health incidents first reported by American diplomats and other government employees in the Cuba capital beginning in 2016."
+    publishedDateTime: 2021-08-24T16:09:00Z
+    webUrl: "https://www.al.com/news/2021/08/havana-syndrome-in-hanoi-delays-kamala-harris-trip-to-vietnam.html"
+    ampWebUrl: "https://www.al.com/news/2021/08/havana-syndrome-in-hanoi-delays-kamala-harris-trip-to-vietnam.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/08/havana-syndrome-in-hanoi-delays-kamala-harris-trip-to-vietnam.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/3FRH4NDR4ZFA7PCRP4K55JN5FY.jpg"
+        width: 6000
+        height: 4056
+        isCached: true
+  - title: "US VP Kamala Harris criticises Beijing intimidation in South China Sea"
+    excerpt: "US Vice President Kamala Harris has hit out at China during a speech made in Singapore on the first leg of a South East Asian tour. Ms Harris accused Beijing of coercion and intimidation in the South China Sea,"
+    publishedDateTime: 2021-08-24T04:45:00Z
+    webUrl: "https://www.bbc.co.uk/news/world-asia-58312947"
+    ampWebUrl: "https://www.bbc.co.uk/news/world-asia-58312947.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-asia-58312947.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 75
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/105E2/production/_120224076_gettyimages-1234839274.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "VP Kamala Harris to return to California to campaign for Newsom next week"
     excerpt: "WASHINGTON — Vice President Kamala Harris will campaign for Gov. Gavin Newsom next week as the Democratic Party rallies around the California governor in his recall battle. The vice president and former California senator will visit her home state next ..."

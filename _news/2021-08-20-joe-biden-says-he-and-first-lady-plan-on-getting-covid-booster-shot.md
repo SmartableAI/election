@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
 type: article
 quality: 125
-heat: 1005
+heat: 1025
 published: true
 
 provider:
@@ -268,6 +268,22 @@ related:
       - url: "https://media.firstcoastnews.com/assets/WOI/images/335069f2-4a45-41ef-93dc-9fff1bb4f1f8/335069f2-4a45-41ef-93dc-9fff1bb4f1f8_1140x641.jpg"
         width: 1140
         height: 641
+        isCached: true
+  - title: "Tennessee flooding prompts Biden disaster declaration"
+    excerpt: "President Joe Biden has approved a major disaster declaration sought by Tennessee after record rainfall caused devastating floods that killed at least 22 people, according to a statement sent Tuesday."
+    publishedDateTime: 2021-08-24T19:56:00Z
+    webUrl: "https://www.nhregister.com/news/article/Tennessee-flooding-prompts-Biden-disaster-16408038.php"
+    ampWebUrl: "https://www.nhregister.com/news/amp/Tennessee-flooding-prompts-Biden-disaster-16408038.php"
+    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Tennessee-flooding-prompts-Biden-disaster-16408038.php"
+    type: article
+    provider:
+      name: New Haven Register
+      domain: nhregister.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Joe Biden goes on HOLIDAY again! POTUS has worked for only 4 days during Afghan fiasco"
     excerpt: "Biden has worked only four days out of the last 15, ever since the Taliban captured their first regional capital"

@@ -2,6 +2,62 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-06-25-biden-to-name-jessica-stern-special-envoy-for-lgbtq-rights.md",
+      "title": "Biden to name Jessica Stern special envoy for LGBTQ rights",
+      "excerpt": "President Joe Biden will name Jessica Stern as the US Special Envoy to Advance the Human Rights of LGBTQI+ Persons Friday, according to a White House official.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8zr7PNuz7kQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8zr7PNuz7kQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210625063333-file-jessica-stern-2018-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/25/politics/lgbtq-envoy-jessica-stern/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/lgbtq-envoy-jessica-stern/index.html",
+      "publishedDateTime": "2021-06-25T04:20:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-devastation-in-south-florida-the-complicated-dance-between-desantis-and-trump-democrats-aging-problem-rip-famus-frederick-humphries.md",
       "title": "Devastation in South Florida — The complicated dance between DeSantis and Trump — Democrats' aging problem — R.I.P. FAMU's Frederick Humphries",
       "excerpt": "The search for dozens of missing people — including the grim task of recovering bodies — goes on amid the rubble. President Joe Biden shortly after midnight declared a state of emergency exists and ordered the federal government to offer assistance to local and state officials.",
@@ -1299,58 +1355,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-biden-mocked-gun-rights-advocates-who-say-they-need-assault-weapons-to-fight-the-government-you-need-f-15s-and-maybe-some-nuclear-weapons.md",
-      "title": "Biden mocked gun-rights advocates who say they need assault weapons to fight the government: 'You need F-15s and maybe some nuclear weapons'",
-      "excerpt": "President Joe Biden made the joke in a White House speech outlining his administration's plan to combat gun violence in the US.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-mocks-gun-right-advocates-who-say-assault-weapons-needed-fight-government-2021-6",
-      "originalUrl": "https://www.businessinsider.com/biden-mocks-gun-right-advocates-who-say-assault-weapons-needed-fight-government-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60d441875f52060018bbec6b?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-mocks-gun-right-advocates-who-say-assault-weapons-needed-fight-government-2021-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-mocks-gun-right-advocates-who-say-assault-weapons-needed-fight-government-2021-6?amp",
-      "publishedDateTime": "2021-06-24T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

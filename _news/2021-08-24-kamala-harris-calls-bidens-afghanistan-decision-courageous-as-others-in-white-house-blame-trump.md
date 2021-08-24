@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-biden-afghanistan-dec
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-biden-afghanistan-decision-courageous-trump-blame.amp"
 type: article
 quality: 201
-heat: 1841
+heat: 1861
 published: true
 
 provider:
@@ -223,6 +223,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/568f504b-1db2-47b5-befe-49a7bf7aa354/a417ef04-fb1e-4f6e-8801-1456473c6936/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Afghanistan withdrawal: McCaul says Biden will have 'blood on his hands'"
+    excerpt: "House Republicans on Tuesday blasted President Biden's decision to stick to the Aug. 31 withdrawal date from Afghanistan and predicted bloodshed during the ongoing rushed evacuation from Kabul. "
+    publishedDateTime: 2021-08-24T18:42:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_op-OC5CY5g/afghanistan-withdrawal-mccaul-biden-blood-hands"
+    ampWebUrl: "https://www.foxnews.com/politics/afghanistan-withdrawal-mccaul-biden-blood-hands.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/afghanistan-withdrawal-mccaul-biden-blood-hands.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden admin doubles down on Psaki claim Americans not stranded in Afghanistan"
     excerpt: "An administration official stood by Psaki’s claim on Tuesday, telling Fox News in an email that the White House is working to bring home Americans who want to leave Afghanistan."

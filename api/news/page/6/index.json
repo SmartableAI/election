@@ -2,6 +2,62 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-08-11-biden-nominates-elizabeth-prelogar-to-be-solicitor-general.md",
+      "title": "Biden nominates Elizabeth Prelogar to be solicitor general",
+      "excerpt": "President Joe Biden on Wednesday nominated acting US Solicitor General Elizabeth Prelogar to permanently take on the role of representing the US government in cases before the Supreme Court.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OpFBiUo7tho/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OpFBiUo7tho/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210811113245-elizabeth-prelogar-headshot-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/11/politics/biden-elizabeth-prelogar-solicitor-general/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/11/politics/biden-elizabeth-prelogar-solicitor-general/index.html",
+      "publishedDateTime": "2021-08-11T04:45:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-federal-prosecutors-came-to-suspect-trump-org-cfo-allen-weisselberg-lied.md",
       "title": "Federal prosecutors came to suspect Trump Org CFO Allen Weisselberg lied",
       "excerpt": "New York federal prosecutors came to suspect the Trump Organization's chief financial officer, Allen Weisselberg, lied in testimony during their investigation of former Trump personal attorney Michael Cohen three years ago, according to four people familiar with prosecutors' thinking.\n    \n",
@@ -1196,62 +1252,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-08-trumps-acting-attorney-general-revealed-frightening-activity-at-justice-department-senate-judiciary-chair-says.md",
-      "title": "Trump's acting attorney general revealed 'frightening' activity at Justice Department, Senate Judiciary chair says",
-      "excerpt": "Senate Judiciary Chairman Dick Durbin said Sunday that former acting Attorney General Jeffrey Rosen revealed in testimony this weekend \"frightening\" information about what had occurred at the Justice Department during the waning days of the Trump administration.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rBizwHi6MIE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rBizwHi6MIE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210324110033-01-dick-durbin-0323-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/08/politics/dick-durbin-jeffrey-rosen-trump-doj-testimony-cnntv/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/08/politics/dick-durbin-jeffrey-rosen-trump-doj-testimony-cnntv/index.html",
-      "publishedDateTime": "2021-08-08T09:32:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

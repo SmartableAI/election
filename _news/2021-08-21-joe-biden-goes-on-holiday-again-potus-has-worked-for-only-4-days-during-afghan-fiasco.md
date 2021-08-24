@@ -281,6 +281,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Tennessee flooding prompts Biden disaster declaration"
+    excerpt: "President Joe Biden has approved a major disaster declaration sought by Tennessee after record rainfall caused devastating floods that killed at least 22 people, according to a statement sent Tuesday."
+    publishedDateTime: 2021-08-24T19:56:00Z
+    webUrl: "https://www.nhregister.com/news/article/Tennessee-flooding-prompts-Biden-disaster-16408038.php"
+    ampWebUrl: "https://www.nhregister.com/news/amp/Tennessee-flooding-prompts-Biden-disaster-16408038.php"
+    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Tennessee-flooding-prompts-Biden-disaster-16408038.php"
+    type: article
+    provider:
+      name: New Haven Register
+      domain: nhregister.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "President Joe Biden’s approval rating dips to new lows amid COVID delta surge, polls show"
     excerpt: "An NBC News poll showed his approval rating at 49%, a four-point drop since April just as the percentage of respondents who disapproved jumped by nine points, from 39% to 48%. The latest polls follow bipartisan critique of the Biden administration’s handling of the U."
     publishedDateTime: 2021-08-23T14:23:00Z

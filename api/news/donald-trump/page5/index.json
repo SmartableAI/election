@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-19-michael-wolff-murdoch-hates-trump-but-loves-fox-news-money-more.md",
+      "title": "Michael Wolff: Murdoch hates Trump but loves Fox News money more",
+      "excerpt": "In book, Wolff says that Murdoch personally approved network’s early call of Arizona, which signalled Trump’s defeat",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/media/2021/jul/19/landslide-michael-wolff-rupert-murdoch-donald-trump-fox-news",
+      "originalUrl": "https://www.theguardian.com/media/2021/jul/19/landslide-michael-wolff-rupert-murdoch-donald-trump-fox-news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/a73f231d740d05f5ae6f1fcb8fc8ab138e9c8083/0_73_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c634a9013950e6eb0b24de4c9b40f10f",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/media/2021/jul/19/landslide-michael-wolff-rupert-murdoch-donald-trump-fox-news",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2021/jul/19/landslide-michael-wolff-rupert-murdoch-donald-trump-fox-news",
+      "publishedDateTime": "2021-07-19T03:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-19-mullen-says-post-election-chaos-within-trump-white-house-incredibly-disturbing.md",
       "title": "Mullen says post-election chaos within Trump White House \"incredibly disturbing\"",
       "excerpt": "New reporting suggests Chairman of the Joint Chiefs of Staff Mark Milley believed former President Trump might stage a coup to try to stay in power. Admiral Mark Mullen, the former Chairman of the Joint Chiefs of Staff,",
@@ -1487,54 +1539,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-trump-rips-through-the-roof-crime-in-nyc-other-democrat-led-cities.md",
-      "title": "Trump rips ‘through the roof’ crime in NYC, other Democrat-led cities",
-      "excerpt": "The former president said “New York is totally out of control” ​because there is “no more cash bail” and “all they do is go after Republicans.”",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/12/trump-rips-through-the-roof-crime-in-nyc-other-cities/",
-      "originalUrl": "https://nypost.com/2021/07/12/trump-rips-through-the-roof-crime-in-nyc-other-cities/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/donald-trump-003.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/12/trump-rips-through-the-roof-crime-in-nyc-other-cities/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/12/trump-rips-through-the-roof-crime-in-nyc-other-cities/amp/",
-      "publishedDateTime": "2021-07-12T09:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],
