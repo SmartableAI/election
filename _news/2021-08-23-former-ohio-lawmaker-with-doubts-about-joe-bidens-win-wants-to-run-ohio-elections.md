@@ -3,18 +3,18 @@ category: news
 title: "Former Ohio lawmaker with doubts about Joe Biden's win wants to run Ohio elections"
 excerpt: "Former state lawmaker John Adams announced he is challenging incumbent Frank LaRose for Ohio Secretary of State in the GOP primary next year."
 publishedDateTime: 2021-08-23T16:44:00Z
-originalUrl: "https://www.coshoctontribune.com/story/news/2021/08/23/gop-primary-john-adams-running-against-ohio-secretary-state-larose/8242596002/"
-webUrl: "https://www.coshoctontribune.com/story/news/2021/08/23/gop-primary-john-adams-running-against-ohio-secretary-state-larose/8242596002/"
-ampWebUrl: "https://amp.coshoctontribune.com/amp/8242596002"
-cdnAmpWebUrl: "https://amp-coshoctontribune-com.cdn.ampproject.org/c/s/amp.coshoctontribune.com/amp/8242596002"
+originalUrl: "https://www.cincinnati.com/story/news/2021/08/23/gop-primary-john-adams-running-against-ohio-secretary-state-larose/8242596002/"
+webUrl: "https://www.cincinnati.com/story/news/2021/08/23/gop-primary-john-adams-running-against-ohio-secretary-state-larose/8242596002/"
+ampWebUrl: "https://amp.cincinnati.com/amp/8242596002"
+cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/8242596002"
 type: article
 quality: 84
 heat: -1
 published: false
 
 provider:
-  name: Coshocton Tribune
-  domain: coshoctontribune.com
+  name: Cincinnati Enquirer
+  domain: cincinnati.com
 
 topics:
   - Election
@@ -39,6 +39,6 @@ related:
       domain: theguardian.com
     quality: 104
 
-secured: "GmUBthe9F/af468XwtbChIpsE2m4ocowHpO9mBQ0q7032p2ILPvJEKjmTXul2fNffwZAlkb/VbwetrV6bHl3gnG2T758vUNoczbiXpL8hVJZJKiWj1tDGFdAJ71EJshPfDgDhGSfmkzx1uGcKykm17F7QSU+tYUlef73SK6736aA9Zq7vnKFaGCY5W2LYIMpsiK/Vlw93YCZv827wdGoH7msbDiScJvp565KgyBXA96kdV8ypS6I1b8bvTgYHjw2ohWXAu/2stRMACt+Ej4lcUuDv5f/F9uqv6OIPAlNA0/VIjjI6VcwgJM63oqGJAKixlWnQAnVkAt47uEEkr17HxaIaFiz38f5p8p96eL/mck=;ky0etLM5EJP9z9l4xn6VDg=="
+secured: "4XiwgxMCC0JjVmjxgfxT0lVfQeRqPkEG1ASL40PSoA6MUOtFOY/npCVRHozDpKD5ZyYO1W9Jf+6eGn7WUVK0IlrjTL+MLuovUDk69d5yqup+LwP5Gqdqvj1YO4NYV1y+9KFbI9gKKZsutUCQqZO5kIlQRcE+zp+rPpydZ86qbg7BoTabmh3hRh95WjSTo50a0ZgxVBUajI0jOwoG6NgimXyf3APKAyJ4++eh76nBP9Iy9aXuwZWUFHvS4CJNWIdkkUw6xnejeX/AHFBt/IqvzzyJHy/XFGrPFZ61nHC9XsiWIWehbKqR7Lu+w82S3h11sQ2UffaOU1yJ6kzmJgiRVgTWq56ryEDgvHvJrOmRUWv4qIQit/hTAG91vVI/OfJMve2iP7l2KJHQCm43qnyCI4et23D9kWDHdbvtfatn+kyR/rcG9OyXWarN6F9D1W4yC5JclupmuVrT8Ew/LcxxnZXH+tmxYNCNzPVsrz2FwJ+dLq/LFqxhpp2uQrIqrg922u7CJu7EIAu3z28ln/GsjA==;sYGOjCymH17dlJg7ePSYcA=="
 ---
 

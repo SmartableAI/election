@@ -127,22 +127,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration proposes overhaul of asylum system to speed up claim approval"
-    excerpt: "The Biden administration has proposed a federal regulation that would overhaul the asylum system in an attempt to settle claims at a faster pace and help alleviate the immigration court backlog, the departments of Homeland Security and Justice announced Wednesday.\n    \n"
-    publishedDateTime: 2021-08-18T13:51:53Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9OUuaSNm0g4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/18/politics/asylum-rules/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/18/politics/asylum-rules/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210601182005-01-asylum-seekers-crossing-border-0317-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden spoke with prominent critic Larry Summers on economy after inflation warnings "
     excerpt: "President Joe Biden called prominent Democratic economist Larry Summers to discuss the economy after he raised several warnings recently over his inflation concerns, a source familiar with the call confirms to CNN.\n    \n"
     publishedDateTime: 2021-06-03T21:20:22Z

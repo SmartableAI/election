@@ -41,6 +41,22 @@ related:
         width: 320
         height: 214
         isCached: true
+  - title: "Kamala Harris’s trip delayed by ‘anomalous health incident’ in Hanoi"
+    excerpt: "Kamala Harris’s departure from Singapore was delayed because of concerns about “an anomalous health incident” in Hanoi, where the US vice-president was scheduled to land, the state department said. “Earlier this evening,"
+    publishedDateTime: 2021-08-24T14:52:00Z
+    webUrl: "https://www.ft.com/content/e2e97a9a-9263-494c-bb9b-7c18ffb6eacd"
+    ampWebUrl: "https://amp.ft.com/content/e2e97a9a-9263-494c-bb9b-7c18ffb6eacd"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e2e97a9a-9263-494c-bb9b-7c18ffb6eacd"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 125
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2bd9b18d-a57f-4bc5-9ae4-ff890e3c13c5.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "US VP Kamala Harris criticises Beijing intimidation in South China Sea"
     excerpt: "US Vice President Kamala Harris has hit out at China during a speech made in Singapore on the first leg of a South East Asian tour. Ms Harris accused Beijing of coercion and intimidation in the South China Sea,"
     publishedDateTime: 2021-08-24T04:45:00Z
@@ -88,6 +104,36 @@ related:
       - url: "https://i.guim.co.uk/img/media/4b9d1b46c5ed87f036dda47f84e591e9c1060e02/0_126_4813_2890/master/4813.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5b34df223d15af9feda8d79cf2875c71"
         width: 600
         height: 360
+        isCached: true
+  - title: "Kamala Harris’s Southeast Asia Trip Can’t Fix Biden’s Troubled Indo-Pacific Strategy"
+    excerpt: "Argument: Kamala Harris’s Southeast Asia Trip Can’t Fix Biden’s Troubled Indo-Pacific Strategy Kamala Harris’s Southeast Asia Trip Can’t ... | View Comments () When the White House announced that U.S."
+    publishedDateTime: 2021-08-24T12:35:00Z
+    webUrl: "https://foreignpolicy.com/2021/08/24/kamala-harris-singapore-vietnam-southeast-asia-trip-biden-indo-pacific-strategy/"
+    type: article
+    provider:
+      name: Foreign Policy
+      domain: foreignpolicy.com
+    quality: 113
+    images:
+      - url: "https://foreignpolicy.com/wp-content/uploads/2021/08/kamala-harris-singapore-southeast-asia.jpg?w=1000"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "Kamala Harris Accuses China Of ‘Coercion’ And ‘Intimidation’, Vows U.S. Support For Allies In Indo-Pacific"
+    excerpt: "Harris is currently on a seven-day trip to Singapore and Vietnam as the U.S. attempts to push back against China’s growing influence in the region."
+    publishedDateTime: 2021-08-24T14:08:00Z
+    webUrl: "https://www.forbes.com/sites/siladityaray/2021/08/24/kamala-harris-accuses-china-of-coercion-and-intimidation-vows-us-support-for-allies-in-indo-pacific/"
+    ampWebUrl: "https://www.forbes.com/sites/siladityaray/2021/08/24/kamala-harris-accuses-china-of-coercion-and-intimidation-vows-us-support-for-allies-in-indo-pacific/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2021/08/24/kamala-harris-accuses-china-of-coercion-and-intimidation-vows-us-support-for-allies-in-indo-pacific/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 107
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612494385511c94c2139edcc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5182%26cropY1%3D126%26cropY2%3D3043"
+        width: 1200
+        height: 675
         isCached: true
   - title: "US VP Harris: Focus must stay on Afghan evacuation"
     excerpt: "Vice President Kamala Harris says the U.S. must maintain its focus on evacuating Americans and vulnerable Afghans and shouldn’t get distracted by questions over what went wrong in the chaotic U.S. exi"
@@ -385,6 +431,22 @@ related:
         width: 640
         height: 362
         isCached: true
+  - title: "Calls for Kamala Harris to be impeached ‘for not visiting Afghanistan’ as it’s said VP and Biden ‘are complicit in this’"
+    excerpt: "CALLS for Kamala Harris’ impeachment “for not visiting Afghanistan” grow as the US continues to remove citizens from the Taliban-controlled capital.  On Monday, Georgia Representative Marjorie"
+    publishedDateTime: 2021-08-24T14:16:00Z
+    webUrl: "https://www.the-sun.com/news/3531832/kamala-harris-impeached-not-visiting-afghanistan/"
+    ampWebUrl: "https://www.the-sun.com/news/3531832/kamala-harris-impeached-not-visiting-afghanistan/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3531832/kamala-harris-impeached-not-visiting-afghanistan/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 65
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/lv-comp-kamala-harris-impeached-Afghanistan.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Kamala Harris under fire for LAUGHING while being grilled on Afghanistan crisis as she tanks in polls"
     excerpt: "KAMALA Harris has been slammed for laughing while being grilled on the Afghanistan crisis as the VP’s approval numbers tank. Footage from a Friday night chat with reporters has shown the"
     publishedDateTime: 2021-08-23T12:10:00Z
@@ -479,6 +541,17 @@ related:
       name: Biloxi Sun Herald
       domain: sunherald.com
     quality: 55
+  - title: "Kamala Harris Says Beijing Continues to 'Coerce' in South China Sea"
+    excerpt: "U.S. Vice President Kamala Harris on Tuesday accused Beijing of continuing to \"coerce\" and \"intimidate\" in the South China Sea and pledged that Washington would pursue a free and open Indo Pacific. Her comments came during a trip to Singapore."
+    publishedDateTime: 2021-08-24T03:09:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-08-23/kamala-harris-says-beijing-continues-to-coerce-in-south-china-sea"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-08-23/kamala-harris-says-beijing-continues-to-coerce-in-south-china-sea?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-08-23/kamala-harris-says-beijing-continues-to-coerce-in-south-china-sea?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "US VP Harris: Focus must stay on Afghan evacuation"
     excerpt: "Vice President Kamala Harris asserted Monday that the U.S. must maintain its focus on evacuating Americans and vulnerable Afghans and shouldn’t get distracted by questions over what went wrong in the chaotic U."
     publishedDateTime: 2021-08-23T19:56:00Z
@@ -490,6 +563,20 @@ related:
       name: StamfordAdvocate
       domain: stamfordadvocate.com
     quality: 55
+  - title: "Kamala Harris in Southeast Asia: Rationale, rhetoric and reality"
+    excerpt: "As the U.S. diplomats come and go, Southeast Asian countries should not be blind to such stark reality of U.S. foreign policy conditioned by Washington's anarchic view of world politics and the lingering \"America First\" rhetoric."
+    publishedDateTime: 2021-08-24T17:18:00Z
+    webUrl: "https://news.cgtn.com/news/2021-08-24/Kamala-Harris-in-Southeast-Asia-Rationale-rhetoric-and-reality-12ZsGB341kQ/index.html"
+    type: article
+    provider:
+      name: CGTN
+      domain: cgtn.com
+    quality: 55
+    images:
+      - url: "https://news.cgtn.com/news/2021-08-24/Kamala-Harris-in-Southeast-Asia-Rationale-rhetoric-and-reality-12ZsGB341kQ/img/7fdaac814d71432fa4bf568466f4415d/7fdaac814d71432fa4bf568466f4415d-1920.png"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Kamala Harris visits Singapore to deepen ties and counter China's influence"
     excerpt: "US Vice President Kamala Harris will meet Singapore's leaders on Monday on the first working day of a trip to Southeast Asia aimed at bolstering ties as part of Washington's efforts to counter China's growing influence."
     publishedDateTime: 2021-08-23T00:52:00Z

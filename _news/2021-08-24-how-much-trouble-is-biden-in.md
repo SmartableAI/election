@@ -489,6 +489,17 @@ related:
         width: 5000
         height: 3333
         isCached: true
+  - title: "House moderates offered deal to ease Biden budget standoff"
+    excerpt: "House Democratic leaders are trying to muscle President Joe Biden’s multitrillion-dollar budget blueprint over a key hurdle."
+    publishedDateTime: 2021-08-24T02:31:00Z
+    webUrl: "https://www.sunherald.com/news/business/article253699738.html"
+    ampWebUrl: "https://amp.sunherald.com/news/business/article253699738.html"
+    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/business/article253699738.html"
+    type: article
+    provider:
+      name: Biloxi Sun Herald
+      domain: sunherald.com
+    quality: 55
   - title: "Moderates bring House to standstill in Biden budget clash"
     excerpt: "House Democratic leaders are trying to muscle President Joe Biden’s multitrillion-dollar budget blueprint over a key hurdle."
     publishedDateTime: 2021-08-24T11:54:00Z

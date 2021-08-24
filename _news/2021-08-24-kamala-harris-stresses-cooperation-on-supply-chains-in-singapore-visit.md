@@ -48,22 +48,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "VP Kamala Harris laughs when asked about tragedy in Afghanistan"
-    excerpt: "Vice President Kamala Harris is under fire after footage shows her laughing when asked about the deadly chaos in Afghanistan."
-    publishedDateTime: 2021-08-23T12:46:00Z
-    webUrl: "https://nypost.com/2021/08/23/kamala-harris-laughs-when-asked-about-tragedy-in-afghanistan/"
-    ampWebUrl: "https://nypost.com/2021/08/23/kamala-harris-laughs-when-asked-about-tragedy-in-afghanistan/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/23/kamala-harris-laughs-when-asked-about-tragedy-in-afghanistan/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/kamala-harris-57.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Kamala Harris lands in Singapore for Asia visit that will include Vietnam stop"
     excerpt: "Vice President Kamala Harris landed in Singapore on Sunday as she begins a visit to Southeast Asia that will also include a stop in Vietnam."
     publishedDateTime: 2021-08-22T04:15:00Z
@@ -80,22 +64,33 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "LA Times: Kamala Harris ‘owns’ Afghanistan policy after touting her role in withdrawal decision"
-    excerpt: "Vice President Kamala Harris \"owns\" the execution of America's withdrawal from Afghanistan following her touting the role she played in President Joe Biden's decision, The Los Angeles Times reported Wednesday."
-    publishedDateTime: 2021-08-19T20:23:00Z
-    webUrl: "https://www.foxnews.com/media/los-angeles-times-vice-president-kamala-harris-afghanistan"
-    ampWebUrl: "https://www.foxnews.com/media/los-angeles-times-vice-president-kamala-harris-afghanistan.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/los-angeles-times-vice-president-kamala-harris-afghanistan.amp"
+  - title: "Leo Terrell alarmed by Kamala Harris telling Americans to start buying Christmas presents"
+    excerpt: "Fox News contributor Leo Terrell expressed concern on “Fox & Friends” Tuesday that Democrats are aiming to shut down the U.S. economy again after Vice President Kamala Harris advised shoppers to consider buying Christmas presents now due to global supply chain issues."
+    publishedDateTime: 2021-08-24T14:47:00Z
+    webUrl: "https://www.foxnews.com/media/kamala-harris-christmas-shopping-leo-terrell"
+    ampWebUrl: "https://www.foxnews.com/media/kamala-harris-christmas-shopping-leo-terrell.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-christmas-shopping-leo-terrell.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 123
+    quality: 126
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b3659956-ec32-48a6-9338-92fbfdfe45c3/4a58742e-936c-4934-9287-58a550f22749/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
+  - title: "Kamala Harris political potency faces test with Gavin Newsom recall effort"
+    excerpt: "Vice President Kamala Harris faces a key political test ahead of a Sept. 14 special election in California as embattled Gov. Gavin Newsom leans on her to juice Democratic turnout and shield him from an embarrassing recall."
+    publishedDateTime: 2021-08-24T14:30:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/campaigns/kamala-harris-political-potency-faces-test-with-gavin-newsom-recall-effort"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/campaigns/kamala-harris-political-potency-faces-test-with-gavin-newsom-recall-effort?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/campaigns/kamala-harris-political-potency-faces-test-with-gavin-newsom-recall-effort?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 63
 
 secured: "H1lMghDqy0lQ+Hsl5/1mUYgbtvotN9GKclcIhKVlSd4n9EYVQ5oD1OPD0ZCy7oKbCGfK5FFpEwRuw+iQfrsfmnRvFT7jmCw2Pi4N1OkEy5JzXYGbV6TR2pWAAUdFjUhVhN8/5VUq4WVMS5dvbPxg3hhqlpwh3oXKrAIGEKC+NdXVdEcArUw5f8mzGTE03XkqVDYGO+bjeq0FYv4wwGeK0ASJkB6sPXq+XkotAhggyzwuetRXVv/u8mjmEgrwjxTRONLz2S2ySIn3XPfhRLZb6jEQ5MaDRoODg/ZrpN6E0ODMfu27beWBamzRtvgBnWUOG83UXP0N9nFgbyCrQmev55y/Prtf2z4SjjF3yRz4Y6qVQGsv3ClfsBB4d9d5OkHYlmww2atj2lfOrS6EnYuuFZLd5sRgdwaFj9rOQIrmWtvAuMblmaD6XK1l4j0NCtvDlyTvI/gFde3Ce2plPngXIUF0OIjtGvcDncCX4C3/y4Sjx5+nNsOgDEdbRK6Vk6sCg0lkUn1hw8niwEk3sFebwg==;qGjKNQzZ2TA/9PwMlKMRng=="
 ---

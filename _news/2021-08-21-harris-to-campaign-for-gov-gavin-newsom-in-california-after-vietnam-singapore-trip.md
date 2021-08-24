@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-to-campaign-for-newsom-in-ca
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-to-campaign-for-newsom-in-california-after-vietnam-singapore-trip.amp"
 type: article
 quality: 178
-heat: 258
+heat: 238
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris' plane from Singapore delayed over possible 'Havana syndrome' incident"
+    excerpt: "Vice President Kamala Harris’ plane was delayed in Singapore on Tuesday for three hours after a possible case of the mysterious \"Havana syndrome.\""
+    publishedDateTime: 2021-08-24T16:03:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-G5VtDs4TmM/kamala-harris-plane-singapore-delayed-possible-havana-syndrome"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-plane-singapore-delayed-possible-havana-syndrome.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-plane-singapore-delayed-possible-havana-syndrome.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/340/340/jacqui-heinrich-headshot.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Kamala Harris to travel to Vietnam, Singapore next month amid China tensions, US border crisis"
     excerpt: "Vice President Kamala Harris has another big trip ahead – but it won't be a return visit to the U.S.-Mexico border."
     publishedDateTime: 2021-07-31T05:14:41Z
@@ -48,53 +64,21 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Kamala Harris heads to Vietnam and Singapore after staying quiet amid Afghanistan chaos"
-    excerpt: "As large crowds swarm Kabul airport to flee the Taliban, Vice President Kamala Harris is embarking on a trip to Asia with stops in Singapore and Vietnam — ironically, the sites of previous US-UK"
-    publishedDateTime: 2021-08-20T21:59:00Z
-    webUrl: "https://nypost.com/2021/08/20/kamala-harris-heads-to-vietnam-and-singapore-sites-of-other-us-uk-defeats/"
-    ampWebUrl: "https://nypost.com/2021/08/20/kamala-harris-heads-to-vietnam-and-singapore-sites-of-other-us-uk-defeats/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/20/kamala-harris-heads-to-vietnam-and-singapore-sites-of-other-us-uk-defeats/amp/"
+  - title: "Kamala Harris’ flight to Vietnam delayed by possible ‘Havana syndrome’ case"
+    excerpt: "Vice President Kamala Harris’ flight from Singapore to Vietnam had to be pushed back several hours Tuesday over a possible “Havana syndrome” case."
+    publishedDateTime: 2021-08-24T17:04:00Z
+    webUrl: "https://nypost.com/2021/08/24/kamala-harris-vietnam-flight-delayed-by-possible-havana-syndrome/"
+    ampWebUrl: "https://nypost.com/2021/08/24/kamala-harris-vietnam-flight-delayed-by-possible-havana-syndrome/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/24/kamala-harris-vietnam-flight-delayed-by-possible-havana-syndrome/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 127
+    quality: 133
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/kamala-harris-heads-to-Singapore-and-Vietnam-featured.jpg?quality=90&strip=all&w=1024"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/harris-singapore-034.jpg?quality=90&strip=all&w=1024"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Kamala Harris plans Vietnam visit – just as Afghanistan draws comparisons to fall of Saigon"
-    excerpt: "Kamala Harris’ planned trip to Vietnam next week comes as the current crisis in Afghanistan has drawn comparisons to the fall of Saigon in the 1970s."
-    publishedDateTime: 2021-08-18T03:19:00Z
-    webUrl: "https://www.foxnews.com/politics/kamala-harris-vietnam-afghanistan-comparisons-fall-of-saigon"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-vietnam-afghanistan-comparisons-fall-of-saigon.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-vietnam-afghanistan-comparisons-fall-of-saigon.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 125
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/98cc8f46-bb4f-4562-9c0a-4acf73ccfd0a/094faee1-0a8a-42b8-9dd1-011ad8daa6f7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Kamala Harris breaks silence on Afghanistan debacle as Singapore prime minister admits withdrawal went 'awry'"
-    excerpt: "Vice President Kamala Harris at last spoke publicly on what is happening in Afghanistan as Americans and Afghans try to exit the country due to the Taliban’s swift takeover, but she refused to weigh in on the U."
-    publishedDateTime: 2021-08-23T15:14:00Z
-    webUrl: "https://www.foxnews.com/politics/kamala-harris-afghanistan-singapore-prime-minister-withdrawal-went-awry"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-afghanistan-singapore-prime-minister-withdrawal-went-awry.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-afghanistan-singapore-prime-minister-withdrawal-went-awry.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 116
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2c07c8a2-63f4-46d8-b1b3-ac45551d2f7d/8531caa7-8fcb-4b04-98d7-61963a8fc46c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
         isCached: true
 
 secured: "voVJqjjFxhowlL87O9FGe1wOFs2TUr7Asb+Dk5mTOThvhfLKfpSGIiykV7rN6YrSqHq0pWZTwRRU5FveogAqBSNtarqKPAevibiFu1nF/XIKwT9IWKrpE5OHyibLt/pIE/qG03ClMbrvyg6xSu6eAQE/wEUsaFBj6y9IvoKfllxIUMtXAfqPa60m3w22OV0kxsWlo/zrIIU5PCbKGCc1pPKc00AR2WVTUp70VQ8T+vCKhsLmTnQTHOEprHGl8BXlmhPLbqylDGzMWgxrQQRCg7oMqY2PWdZVAxllYQPY8o0N1c8wO6Swv3HVVTqHBa7HXBUXEh5KGyidrQomoECgnFvhrqvDZ8OUnV1E6DoXn6c=;H6bFDUpdwev7YEdCm0Z3Sg=="

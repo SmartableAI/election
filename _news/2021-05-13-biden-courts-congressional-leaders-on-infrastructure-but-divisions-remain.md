@@ -288,22 +288,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden celebrates a bipartisan win after Senate passes massive infrastructure bill"
-    excerpt: "President Joe Biden celebrated the Senate's passage of a historic, sweeping $1.2 trillion bipartisan package on Tuesday, a step toward fulfilling a key item in his legislative agenda that also amounts to the biggest bipartisan win of his presidency so far.\n    \n"
-    publishedDateTime: 2021-08-10T19:22:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NMZ4prelCvc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/10/politics/joe-biden-infrastructure-package-senate-passage/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/10/politics/joe-biden-infrastructure-package-senate-passage/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210810152029-05-biden-harris-remarks-0810-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Multiple crises at home and abroad provide a reality check for Biden's White House"
     excerpt: "President Joe Biden was at the wooded Camp David retreat in Maryland when he first heard Colonial Pipeline had been hacked.\n    \n"
     publishedDateTime: 2021-05-15T13:01:13Z

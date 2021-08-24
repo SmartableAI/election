@@ -272,22 +272,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Why the infrastructure bill is more important than ever for Biden "
-    excerpt: "The bipartisan infrastructure bill making its precarious way through the Senate was always a cornerstone of Joe Biden's presidency. Now, it's even more vital for an administration badly needing wins as the White House struggles to navigate multiple crises.\n    \n"
-    publishedDateTime: 2021-08-06T04:03:57Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EdJk4uGXWdc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/06/politics/president-joe-biden-senate-infrastructure-politics-republicans/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/06/politics/president-joe-biden-senate-infrastructure-politics-republicans/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210805094717-02-joe-biden-0729-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden administration announces resources to support people with long Covid"
     excerpt: "The Biden administration on Monday released guidance and resources to support people experiencing long-term effects of Covid-19, known as \"long Covid,\" as the condition shapes up to be a major, long-term public health issue.\n    \n"
     publishedDateTime: 2021-07-26T15:39:34Z

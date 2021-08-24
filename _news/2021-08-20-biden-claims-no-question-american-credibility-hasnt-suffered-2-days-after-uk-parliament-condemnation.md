@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "UK member of Parliament: 'Shameful' for Biden to claim Afghan troops ran"
-    excerpt: "United Kingdom Member of Parliament Tom Tugendhat lamented the rise of the Taliban in Afghanistan while chastising President Biden for how he has blamed Afghan forces by accusing them of giving up."
-    publishedDateTime: 2021-08-18T19:32:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/d-0kxDoCZ0k/uk-mp-shameful-biden-afghan-troops-ran"
-    ampWebUrl: "https://www.foxnews.com/politics/uk-mp-shameful-biden-afghan-troops-ran.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/uk-mp-shameful-biden-afghan-troops-ran.amp"
+  - title: "Republicans torch White House for claiming Biden never 'shies away' from questions"
+    excerpt: "GOP lawmakers are smashing Biden over White House communications director Kate Bedingfield’s Friday claim that the president does not turn away from questions."
+    publishedDateTime: 2021-08-20T16:02:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rs35_dacLko/republicans-torch-white-house-claim-biden-never-shies-away-questions"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-torch-white-house-claim-biden-never-shies-away-questions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-torch-white-house-claim-biden-never-shies-away-questions.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 169
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/25684f3a-65f3-4e86-999a-f1deb767a447/82c540db-f631-4b89-9efc-17f0257f7e3f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "q37kZAoLRn9TGcgjI593RJmqdb3cavKGpMN1GbyPYOgnTB2FUja7uJQ+wUVYAK9F//k/s3Ug3FSI1/p4OiX0w4awBXKMs6zBg7Qb20MluGuZD/IPcwDxtwrr4SbCdlhqo+IJ2/5U4DvUL084l0H6iLpWlsY+juL9IA6pXzhWhkR2S0rrQoM/vZwZ7NDH7QsUAfjri+Q64b7LDSVWGSLBzZHXCGZb+Csjk8GoGZaquP4Fm4/CuyLHBgv2sAc+Y/0QHdI1ew98Stes6fIqqF6gYxGXJhcQkUb7ntNJShQJG6mu9oz+E3Xnw3p9jh/uaNcbi0VrJUyxj2mh7VeJotRxuVWNijIA8u3vMNzFGw5TFf0=;2l2du98UZG2mEleo+t/bWA=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/23/politics/seattle-storm-white-hous
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/23/politics/seattle-storm-white-house-visit/index.html"
 type: article
 quality: 159
-heat: 159
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "President and first lady plan to get their Covid booster shots when eligible, Biden says"
+    excerpt: "President Joe Biden and first lady Jill Biden plan to get Covid-19 vaccine booster shots once they are cleared to take them, the President said in an interview aired Thursday.\n    \n"
+    publishedDateTime: 2021-08-19T13:46:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HIM9WrS2cUI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/bidens-covid-vaccine-booster-shots/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/bidens-covid-vaccine-booster-shots/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210807195408-joe-jill-biden-071821-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "Kx76Crow/WUeOm7CTeISxKtfF+nOD1RrWU32uS5Xml1k4HMMLKgYeK3tT+bqiOB1KEkvu2dadDLqO3YbC67v1ZuwcTRpf0SqEOLk2uBpu+y3G66vzoxlz9/4URq4VfDAf/dBIhqfRTFiXno2PF90cToBCPWaml7B/rElzVOx88Racs7p5uQ3dChxYYjzKt6nFQ7idihA+elNZVShh2kkkoSL0crpXNg7ArjonExr6lwBSaqr041RTEoxifjD3qZw5cWBWS9aCq2bZWk8dfzGaidgzDLqDAkcvUeYKrMlmDNPT3jrp+kZXOJ8moetCzixOEGOnhAxb4cb+AsSAmrtm90qJ3lNVxGfD2Jhslk0h3s=;dGpSH9Ssj3WBjMvAJZFlhg=="
 ---

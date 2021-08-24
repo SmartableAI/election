@@ -2687,6 +2687,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "The Supreme Court gave Trump leeway on executive actions. Biden wants the same treatment"
+    excerpt: "The Biden administration faces two major confrontations with the Supreme Court this week, as the justices weigh requests related to the Covid moratorium on evictions and the termination of a"
+    publishedDateTime: 2021-08-24T16:16:00Z
+    webUrl: "https://www.newspressnow.com/news/national_news/election2020/the-supreme-court-gave-trump-leeway-on-executive-actions-biden-wants-the-same-treatment/article_8e956dd3-d9e5-557b-a290-dad742a7aadb.html"
+    type: article
+    provider:
+      name: News-Press NOW
+      domain: newspressnow.com
+    quality: 61
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/newspressnow.com/content/tncms/custom/image/be1cb458-881b-11eb-872f-4f6e66986b9a.png"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Joe Biden pitches big government as antidote to crises"
     excerpt: "Forty years ago, a newly elected American president declared government the source of many of the nation’s problems, reshaping the parameters of U.S. politics for decades to come. On Wednesday night,"
     publishedDateTime: 2021-05-01T18:23:00Z

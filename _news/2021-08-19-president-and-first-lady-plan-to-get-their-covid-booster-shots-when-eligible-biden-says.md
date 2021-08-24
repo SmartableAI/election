@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/bidens-covid-vaccine-boo
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/bidens-covid-vaccine-booster-shots/index.html"
 type: article
 quality: 166
-heat: -1
-published: false
+heat: 186
+published: true
 
 provider:
   name: CNN
@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "US to ship first of the 500 million Pfizer doses Biden pledged to donate globally"
-    excerpt: "The Biden administration on Tuesday is shipping the first of the 500 million Covid-19 doses that President Joe Biden pledged to share with countries around the world at the Group of Seven summit earlier this year. \n    \n"
-    publishedDateTime: 2021-08-17T15:43:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FEM9gCriQOQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/17/politics/first-of-500-million-pfizer-doses/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/17/politics/first-of-500-million-pfizer-doses/index.html"
+  - title: "Biden praises WNBA champion Seattle Storm for their work on and off the court during White House visit"
+    excerpt: "President Joe Biden honored the WNBA champion Seattle Storm at the White House Monday, praising the team for its actions both on and off the court -- especially work the team has done on social justice issues.\n    \n"
+    publishedDateTime: 2021-08-23T21:26:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2r17hb_a0wE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/23/politics/seattle-storm-white-house-visit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/23/politics/seattle-storm-white-house-visit/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 170
+    quality: 159
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704190844-white-house-exterior-0703-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210823165833-01-biden-seattle-storm-0823-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

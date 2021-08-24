@@ -79,22 +79,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden authorizes 1,000 more troops to be sent to Afghanistan"
-    excerpt: "President Joe Biden announced the authorization of an additional direct deployment of 1,000 troops to Afghanistan in a statement Saturday.\n    \n"
-    publishedDateTime: 2021-08-14T23:43:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uU8vCErvG9Y/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/14/politics/biden-afghanistan-troops/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/14/politics/biden-afghanistan-troops/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210814115852-kabul-afghanistan-view-08-14-2021-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Landlords aim to block Biden's new eviction moratorium in appeals court"
     excerpt: "Landlord groups challenging the Biden administration's eviction moratorium are now turning to the US Court of Appeals for the DC Circuit to try to block the extension of the moratorium.\n    \n"
     publishedDateTime: 2021-08-15T02:38:21Z
@@ -204,38 +188,6 @@ related:
     quality: 166
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210208095509-brian-deese-file-0122-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Afghanistan's quick unraveling jolts national security officials, threatens to stain Biden legacy"
-    excerpt: "The security situation in Afghanistan has deteriorated faster than President Joe Biden and his most senior national security officials had anticipated, leaving the White House rushing to stave off the worst effects of a Taliban takeover.\n    \n"
-    publishedDateTime: 2021-08-13T10:00:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e5wA1jnIhsU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/13/politics/biden-legacy-afghanistan/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/13/politics/biden-legacy-afghanistan/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210812072501-us-military-afghanistan-biden-0502-file-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "How two long-term Biden aides led efforts to court Republicans ahead of the Senate infrastructure deal"
-    excerpt: "In touting the $1.2 trillion infrastructure bill hours after it passed the Senate with 19 Republican votes on Tuesday, President Joe Biden took a moment to needle his critics.\n    \n"
-    publishedDateTime: 2021-08-13T10:00:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RUMvbYA0CC8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/13/politics/biden-aides-court-republicans-infrastructure-deal/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/13/politics/biden-aides-court-republicans-infrastructure-deal/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 159
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210811152502-07-wh-infrastructure-ricchetti-terrell-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

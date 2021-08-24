@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Chalian: Biden doesn't often miss moments to express empathy"
+    excerpt: "CNN's David Chalian and Kaitlan Collins discuss President Joe Biden's interview on ABC News, and how they are surprised by his lack of both empathy and foreign policy savvy on the troop withdrawal from Afghanistan.\n    \n"
+    publishedDateTime: 2021-08-19T15:15:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rbUS1RmwWjk/biden-abc-news-lack-of-empathy-foreign-policy-chalian-collins-newday-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/08/19/biden-abc-news-lack-of-empathy-foreign-policy-chalian-collins-newday-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/08/19/biden-abc-news-lack-of-empathy-foreign-policy-chalian-collins-newday-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210818173332-joe-biden-abc-news-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact-checking Biden's assertion that the Afghan military was '300,000 strong'"
     excerpt: "Defending his withdrawal of US troops from Afghanistan, President Joe Biden and his administration have emphasized how many people served in the Afghan military before its collapse.\n    \n"
     publishedDateTime: 2021-08-17T21:22:16Z
@@ -63,19 +79,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Federal appeals court allows Biden administration's eviction moratorium to continue"
-    excerpt: "A federal appeals court on Friday said that it would not block the Biden administration's latest eviction moratorium.\n    \n"
-    publishedDateTime: 2021-08-20T17:49:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vh4fmNYSeKg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/20/politics/dc-circuit-appeals-court-eviction-moratorium-continues/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/20/politics/dc-circuit-appeals-court-eviction-moratorium-continues/index.html"
+  - title: "Biden set to speak on evacuations as situation in Afghanistan grows desperate"
+    excerpt: "President Joe Biden will deliver remarks on Friday about the ongoing US military evacuations of American citizens and vulnerable Afghans as chaos ensues at and around Kabul's international airport.\n    \n"
+    publishedDateTime: 2021-08-20T13:28:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OiF3OcupmTA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/20/politics/biden-afghanistan-evacuation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/20/politics/biden-afghanistan-evacuation/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 169
+    quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210814150207-eviction-moratorium-landlords-appeal-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210819195528-joe-biden-remarks-081221-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -127,19 +143,35 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Federal appeals court denies Biden administration request to halt order reviving 'remain in Mexico' policy"
-    excerpt: "A federal appeals court denied the Biden administration's request to pause a lower court order requiring the revival of a controversial Trump-era border policy forcing migrants to stay in Mexico until their US immigration court date.\n    \n"
-    publishedDateTime: 2021-08-20T13:03:10Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7727yLGcMlM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/20/politics/appeals-court-biden-trump-remain-in-mexico-policy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/20/politics/appeals-court-biden-trump-remain-in-mexico-policy/index.html"
+  - title: "Biden focuses on 'getting this job done' as the chaotic evacuation from Afghanistan grows desperate"
+    excerpt: "President Joe Biden will deliver remarks on Friday about the ongoing US military evacuations of American citizens and vulnerable Afghans as chaos ensues at and around Kabul's international airport.\n    \n"
+    publishedDateTime: 2021-08-21T00:54:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OiF3OcupmTA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/20/politics/biden-afghanistan-evacuation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/20/politics/biden-afghanistan-evacuation/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 157
+    quality: 161
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719210212-title-42-migrants-in-mexico-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210820140340-04-biden-presser-afghanistan-0820-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Biden's reassurances on Afghanistan contradict chaotic images on the ground, capping week of bad optics for his administration"
+    excerpt: "As Americans watched chaotic and often heartbreaking scenes of desperation around the airport in Kabul this week, President Joe Biden on Friday vowed to do everything in his power to bring Americans home safely from Afghanistan as that nation descends into chaos under Taliban control.\n    \n"
+    publishedDateTime: 2021-08-21T04:01:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-1OHUjmYm64/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/21/politics/joe-biden-afghanistan-bad-optics/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/21/politics/joe-biden-afghanistan-bad-optics/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 142
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210820135922-03-biden-presser-afghanistan-0820-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

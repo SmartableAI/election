@@ -30,21 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris invites business leaders to the White House to discuss child care."
-    excerpt: "Executives from companies like Airbnb, Chobani, Etsy and Microsoft were invited in an effort to drum up support for a key pillar of President Biden's $3.5 trillion budget."
-    publishedDateTime: 2021-08-12T08:25:00Z
-    webUrl: "https://www.nytimes.com/2021/08/12/business/kamala-harris-child-care-business.html"
-    ampWebUrl: "https://www.nytimes.com/2021/08/12/business/kamala-harris-child-care-business.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/12/business/kamala-harris-child-care-business.amp.html"
+  - title: "Possible Havana syndrome incident delayed Harris flight to Vietnam"
+    excerpt: "Vice President Kamala Harris' departure for Vietnam was delayed by several hours Tuesday afternoon after her office was informed by the US embassy in Hanoi, Vietnam, of a \"report of a recent possible anomalous health incident.\"\n    \n"
+    publishedDateTime: 2021-08-24T15:16:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dC3gzpQyBKE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/24/politics/kamala-harris-vietnam/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/24/politics/kamala-harris-vietnam/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 130
+      name: CNN
+      domain: cnn.com
+    quality: 185
     images:
-      - url: "https://static01.nyt.com/images/2021/08/12/business/12econ-brf-whitehouse/12econ-brf-whitehouse-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210822174905-01-harris-singapore-0822-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "qcN6fBxCFrDUw0YTyUgRQlOm4DBJzyZajaPDUkobwZZkxU8vxaYADXBnwhd2J+HQ8KhCnLYcNVKRNDppyAKadEmTSJeIoyI5mOlj+sLGfYbxswljnktK8xUcnzrDoVpYU8m7k7CW9Ae8dHUNqOhnwXkMIjk0kJBrU11p/YjzFpmUdfO50kRHOlerA2wQmXkA2Wbv+U9EyUTxZOHhyHdj0FOcZv3t61FkpEBISWeuJfONdqJV8qWkW9r1+W1e71PE5/DoXw0wriYWGHAQMJk714UhoC6ySd/ShafzCIuGLFteN0BoZ70pNnla4V+Vn6imTI8gm1k2pVQxhT0XyxAa3JxIec2sow9HZ8PixaxdGtbhoZB1En9NKYOglD3AqwuzTEnPuGqjFnJBpe/BfHFxLZ0QIGFBdIBYKoOHRaUEr4Np+WrqcTS+os0NUbcsTqk/AX+l7R1iVWA73a+F15zeeBOpgL8ud8CGiA2PXEyHzDK8l7mKCKLt8SEOG3HCSgwOLCXUQ9Z2vAm0aoGpLA/4lw==;hsZP+UdTN5gC5mtp/i5SkA=="

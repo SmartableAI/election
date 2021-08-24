@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-trump-america-first-policy-in
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-america-first-policy-institute-brooke-rollins.amp"
 type: article
 quality: 190
-heat: 510
+heat: 490
 published: true
 
 provider:
@@ -172,22 +172,6 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Michael-Ellis-JEOPARDY2.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Trump blasts Biden plan to withdraw from Afghanistan"
-    excerpt: "Former President Donald Trump blasted President Biden for pushing the deadline to withdraw all US troops from Afghanistan to Sept. 11 — saying it “should remain a day of reflection and"
-    publishedDateTime: 2021-04-18T19:45:00Z
-    webUrl: "https://nypost.com/2021/04/18/trump-blasts-biden-plan-to-withdraw-from-afghanistan/"
-    ampWebUrl: "https://nypost.com/2021/04/18/trump-blasts-biden-plan-to-withdraw-from-afghanistan/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/18/trump-blasts-biden-plan-to-withdraw-from-afghanistan/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/bicen-trump-troops-inset.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Trump mocks Biden for ‘PC’ military: ‘They’re laughing at us like never before’"
     excerpt: "Former President Donald Trump mocked President Biden in a podcast, saying he forced the nation’s armed forces to become “politically correct” with progressive and gender-inclusive policies."

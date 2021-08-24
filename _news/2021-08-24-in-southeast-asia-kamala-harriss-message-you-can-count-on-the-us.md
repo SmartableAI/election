@@ -64,6 +64,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says U.S. may extend Afghanistan withdrawal deadline as evacuations continue"
+    excerpt: "President Joe Biden said Sunday that the U.S. was considering extending evacuation efforts beyond his Aug. 31 deadline to leave Afghanistan as he defended the administration's handling of the war's final days."
+    publishedDateTime: 2021-08-22T23:19:00Z
+    webUrl: "https://www.nbcnews.com/politics/joe-biden/biden-says-u-s-may-extend-afghanistan-withdrawal-deadline-evacuations-n1277414"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1277414"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1277414"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_33/3500850/210822-joe-biden-jm-1701.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Kamala Harris stresses Southeast Asia ties on an overseas trip, but the focus returns to Afghanistan."
+    excerpt: "Facing rising pressure over the United States’ haphazard withdrawal from Afghanistan, Vice President Kamala Harris said on Monday that the Biden administration was “singularly focused” on evacuating American citizens and Afghan allies."
+    publishedDateTime: 2021-08-23T09:45:00Z
+    webUrl: "https://www.nytimes.com/2021/08/23/world/asia/kamala-harris-stresses-southeast-asia-ties-on-an-overseas-trip-but-the-focus-returns-to-afghanistan.html"
+    ampWebUrl: "https://www.nytimes.com/2021/08/23/world/asia/kamala-harris-stresses-southeast-asia-ties-on-an-overseas-trip-but-the-focus-returns-to-afghanistan.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/23/world/asia/kamala-harris-stresses-southeast-asia-ties-on-an-overseas-trip-but-the-focus-returns-to-afghanistan.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 120
+    images:
+      - url: "https://static01.nyt.com/images/2021/08/23/world/23-afghanistan-briefing-KamalainSingapor-02/23-afghanistan-briefing-KamalainSingapor-02-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "878GoovvjZoLuK73ZENtZZvoi0hYuXoGESDnAbdpHZSzd2wYdciT89obrqUvav8bSyKPGt4SPmsIYUJGCfRfrxzXrWxWLJc4sbCjK74MZuXiW16+uovaj6DWxKgKXysR7SJel9j1WpbO9iHyUZV2FeT5T/OH8legetUtSVPBBy5WFAkpjk3yJXD7XTfO0azRft4tBRIGqi5k8YGrf7mSL6jHwPvB9BV4fo+gDRfa9eb/UVlXee3gf/JIpPPIS4Kz60P5mwlaFGFEUzDTYjoFs42GHrwZvHZEVCMG8B2m8EmbBZtW5CaUCbgd/0yS6gWGqzEWZnVCIwvdIUYcyZMl4E5hY2O1jMAwa2s7w3OaUPE2eSI/O/TCPB9bLW/mu1ayv2A6UW616n27bnLu87KGrUeRkHxIFADWH7iu9PcvxHAvib2OAzY9m9tA5obt36vSQ32DeIDdjD/1PtRbTLs1TLKgPgiPXas3yeGgVF2TVtJiUWeP76ojPZWPw/8Oh22wY5isxzcR/S7ybe2Fm+sgaQ==;YoFEnleOgbmDI3tounxswA=="
 ---

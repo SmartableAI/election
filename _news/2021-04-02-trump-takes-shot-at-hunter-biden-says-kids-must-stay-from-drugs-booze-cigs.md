@@ -124,22 +124,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Biden, Trump trade accusations on Afghanistan"
-    excerpt: "Amid the chaotic scramble at Kabul’s airport to evacuate the remaining Americans and U.S. allies out of Afghanistan following the lightning fast collapse of the Afghan government and military at the hands of the repressive Taliban forces, a blame game of sorts has broken out among President Biden and"
-    publishedDateTime: 2021-08-17T16:07:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2m55mPR097o/biden-trump-trade-accusations-afghanistan"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-trade-accusations-afghanistan.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-trade-accusations-afghanistan.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Former Trump official Hogan Gidley to launch election integrity nonprofit"
     excerpt: "EXCLUSIVE: Former Trump campaign national press secretary and former White House principal deputy press secretary Hogan Gidley is launching a nonprofit to advocate for the passage of \"constitutional election integrity laws\" in all states across the nation ahead of the 2022 midterms and beyond, Fox News"
     publishedDateTime: 2021-04-09T14:20:46Z
@@ -1128,17 +1112,6 @@ related:
         width: 2000
         height: 930
         isCached: true
-  - title: "Most voters don't want Biden or Trump to run in 2024, poll finds"
-    excerpt: "The majority of registered voters do not want the next presidential election to be a rematch of the 2020 contest, according to a new poll conducted by Echelon Insights/Washington Examiner."
-    publishedDateTime: 2021-08-23T23:58:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/poll-no-trump-or-biden-in-2024"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/poll-no-trump-or-biden-in-2024?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/poll-no-trump-or-biden-in-2024?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 80
   - title: "Biden's Weakness On World Stage Is Dangerous"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-03-30T18:59:00Z

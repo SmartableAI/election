@@ -3,18 +3,18 @@ category: news
 title: "Twitter blocked and labeled Donald Trump's tweets on election fraud. They spread anyway."
 excerpt: "An NYU study of Trump tweets raises new questions about the ability of social media companies to halt the flood of falsehoods during election cycles."
 publishedDateTime: 2021-08-24T04:07:00Z
-originalUrl: "https://www.desmoinesregister.com/story/tech/2021/08/24/trump-twitter-block-election-fraud-tweets-facebook-instagram-posts/8218382002/"
-webUrl: "https://www.desmoinesregister.com/story/tech/2021/08/24/trump-twitter-block-election-fraud-tweets-facebook-instagram-posts/8218382002/"
-ampWebUrl: "https://amp.desmoinesregister.com/amp/8218382002"
-cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/8218382002"
+originalUrl: "https://www.indystar.com/story/tech/2021/08/24/trump-twitter-block-election-fraud-tweets-facebook-instagram-posts/8218382002/"
+webUrl: "https://www.indystar.com/story/tech/2021/08/24/trump-twitter-block-election-fraud-tweets-facebook-instagram-posts/8218382002/"
+ampWebUrl: "https://amp.indystar.com/amp/8218382002"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/8218382002"
 type: article
 quality: 81
 heat: -1
 published: false
 
 provider:
-  name: Des Moines Register
-  domain: desmoinesregister.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -120,6 +120,6 @@ related:
         height: 400
         isCached: true
 
-secured: "UkvejpTIL0AWcCbruCMs5RSYg+LDDpwHivhEmlwR8yXsNlhNZyXwWIGIEEcgBihWerCGk5hp2p6h+HGuERT6T3AU7AUBFd5Qb96lEBoRbBVp5BzOacxPdUn8axI/EBiqZXkSC2NLoBv8N3hAYKjWF53fdSUmc8E+IW4OXMmopMQ+Fu9aqB21Y5uwgyq44qmj9s87/Oj3ZG3/6IDUC4d3Vk8o624fEsVpVhXVAZ9K/TEDKpK+1oMrSVITN7WdhxJC1DqLyy2E4KOLHtUSXafmxFZfY7Ra847ZHb9b4sTY7rDeQ6i7nBqgoV0Ws+/HPuoydPzsI8zVayUyKQKc101TfLJLbPz0uTpymGREjsFmN6E=;JF9m/BsFlSM6q5Tj/VHTdQ=="
+secured: "MfT/c7mNqDffSxTkrXelwoRQirMjweABFOznYIP0ztBe/Gii4ZmRpz/s739K32dUgop80tISVqoFEzYChaOTKjkdjYPYRybu8PRBz+rNbP2vd0bBhLHB8lzXJ+s2FMFmlfn8p/uJv6AKAgwSRi9wgVZ4FZHa15Ibx+9+Yr57xrwR0vdCWQicAlJWzlwMfU+a3WPns7M6ZG4aWkvrpMJRgZeUmqQDROKszSV7Q9hK6ULn1APSlSYQUiefCaYagTyEPBAjIj6z4IXPJT8vlJQlpX/W/71mBn66emrvUZNzRYYJAltyvFTu8h0agYONglvf0O54mvccwpqVZPgZY+76MA9Xb5QYhZCBaVHlhPSvISKsUmB5FsJWtBwuVIFoTL3+EIg8Bc+9okclySyXX07eOsJaNiSmVQc2j+S7lrScYRNs06RHo9PJclCCpTjfmHHXOgCn2lVjdu4rQgm/Nmi6Ni2Ec3lRQkz2CkbrTp8N9VWKYyY/zgR33lc2cYindlxojot/7tCKplAIJvg+WcNyxA==;nURIciJ2WWZ4bYjsOYUtyw=="
 ---
 

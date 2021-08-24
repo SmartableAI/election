@@ -31,37 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Trump calls on Biden to 'resign in disgrace' over crisis in Afghanistan"
-    excerpt: "Former President Donald Trump Sunday called on President Biden to “resign in disgrace” over his handling of the Afghanistan withdrawal and other issues."
-    publishedDateTime: 2021-08-17T02:08:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cyT6YUTIljA/trump-biden-resign-crisis-afghanistan"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-resign-crisis-afghanistan.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-resign-crisis-afghanistan.amp"
+  - title: "Kamala Harris calls Biden's Afghanistan decision 'courageous' as others in White House blame Trump"
+    excerpt: "Vice President Kamala Harris gave credit to President Biden for deciding to end the war in Afghanistan, even though members of the administration – including Biden himself – have blamed former President Trump for agreeing to withdraw U.S. troops."
+    publishedDateTime: 2021-08-24T15:15:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/a8gNbJOmOq4/kamala-harris-biden-afghanistan-decision-courageous-trump-blame"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-biden-afghanistan-decision-courageous-trump-blame.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-biden-afghanistan-decision-courageous-trump-blame.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 201
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden, Trump trade accusations on Afghanistan"
+    excerpt: "Amid the chaotic scramble at Kabul’s airport to evacuate the remaining Americans and U.S. allies out of Afghanistan following the lightning fast collapse of the Afghan government and military at the hands of the repressive Taliban forces, a blame game of sorts has broken out among President Biden and"
+    publishedDateTime: 2021-08-17T16:07:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2m55mPR097o/biden-trump-trade-accusations-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-trade-accusations-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-trade-accusations-afghanistan.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 190
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ecd8df71-ba81-431f-8bdf-f6e8d97bea4c/f44d298e-4ca6-4f7c-b579-34b93f98f4cd/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Pompeo: Biden 'failed' in Afghanistan withdrawal plan, is 'pathetic' for blaming Trump"
-    excerpt: "Former Secretary of State Mike Pompeo said that the Biden administration has \"failed\" in its withdrawal from Afghanistan as the Taliban is poised to retake control of the country as the U.S. is ending its nearly 20-year military presence there."
-    publishedDateTime: 2021-08-15T14:16:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3_jx8XD5USY/pompeo-biden-admin-failed-in-afghanistan-taliban-takeover"
-    ampWebUrl: "https://www.foxnews.com/politics/pompeo-biden-admin-failed-in-afghanistan-taliban-takeover.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-biden-admin-failed-in-afghanistan-taliban-takeover.amp"
+  - title: "VP Harris leaves for trip to Vietnam, Singapore amid Afghanistan fiasco"
+    excerpt: "Vice President Kamala Harris on Friday is leaving for a trip to Vietnam and Singapore, just as the Biden administration is grappling with ongoing chaos in Afghanistan."
+    publishedDateTime: 2021-08-20T21:06:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RCl-gpmgQdE/harris-trip-vietnam-singapore-amid-afghanistan-fiasco"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-trip-vietnam-singapore-amid-afghanistan-fiasco.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-trip-vietnam-singapore-amid-afghanistan-fiasco.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 182
+    quality: 185
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43dec90e-50bf-4981-97ed-2fc0ac19fae8/df9afa57-897f-48c4-9c09-2cd422aefcb3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Trump targets Biden over Afghanistan but gets booed briefly on vaccines at Alabama rally"
     excerpt: "Former President Trump repeatedly criticized President Biden over the Afghanistan evacuation, inflation, crime, and COVID, during a large rally in Alabama on Saturday night, but he was booed by the crowd when urging that they get vaccinated."
@@ -79,85 +95,37 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Psaki grilled on whether Biden created vaccine hesitancy with 2020 comments slamming Trump"
-    excerpt: "White House press secretary Jen Psaki was grilled on whether or not President Biden encouraged vaccine hesitancy with comments he made last year cautioning he did not “trust” former President Donald Trump"
-    publishedDateTime: 2021-08-11T18:15:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RSjUmFvLMBw/psaki-grilled-biden-vaccine-hesitancy-2020-comments-trust-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-grilled-biden-vaccine-hesitancy-2020-comments-trust-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-grilled-biden-vaccine-hesitancy-2020-comments-trust-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 180
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef4773e1-c6e3-456a-821b-b9147f44bb39/f7e732ff-b006-4030-aaad-5715e7df8fcb/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "World leaders blame Biden, express disappointment with Afghanistan"
-    excerpt: "Boris Johnson placed least some of the blame on the United States and President Joe Biden"
-    publishedDateTime: 2021-08-15T21:02:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2RlIlcQjpxk/boris-johnson-blames-us-and-biden-for-afghanistan-collapse"
-    ampWebUrl: "https://www.foxnews.com/politics/boris-johnson-blames-us-and-biden-for-afghanistan-collapse.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boris-johnson-blames-us-and-biden-for-afghanistan-collapse.amp"
+  - title: "Biden cuts vacation short, returns to the White House"
+    excerpt: "President Joe Biden returned to the White House from Camp David Tuesday night a day before originally scheduled as he faces vocal criticism from both sides of the aisle over the chaos unfolding during the American withdrawal from Afghanistan."
+    publishedDateTime: 2021-08-18T01:20:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b_HeVFdu1po/biden-cuts-vacation-short-returns-to-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cuts-vacation-short-returns-to-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cuts-vacation-short-returns-to-white-house.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c4a4745c-08bf-4e12-ba0b-2ab8b3241fb2/49ccd27b-a5e0-4b1e-abed-dcfd6ce683b5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3bfe5ca9-a8eb-47fb-9e82-d015447f2748/36ba7bed-9c3a-4a1b-b8c1-33cd39b207d6/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Biden should have seen Afghanistan collapse coming, Kelly Ayotte says"
-    excerpt: "Former Sen. Kelly Ayotte, R-N.H., sounded off in a Monday phone interview after President Biden’s speech on the fall of Kabul, saying it was “not an accident that the military did not recommend this course of action.”"
-    publishedDateTime: 2021-08-16T23:55:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZDGQB7ANvTY/ayotte-biden-afghan-collapse-coming"
-    ampWebUrl: "https://www.foxnews.com/politics/ayotte-biden-afghan-collapse-coming.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ayotte-biden-afghan-collapse-coming.amp"
+  - title: "Biden says as many as 15,000 Americans looking to flee Afghanistan"
+    excerpt: "As many as 15,000 American citizens may remain inside Afghanistan, struggling to get out, days after the Asian nation fell to control of Taliban terrorists, President Biden said Wednesday."
+    publishedDateTime: 2021-08-19T05:17:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0Nerg1nLK_M/biden-says-as-many-as-15000-americans-looking-to-flee-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-as-many-as-15000-americans-looking-to-flee-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-as-many-as-15000-americans-looking-to-flee-afghanistan.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/56749b46-6f47-4b2c-862b-204954345e65/41fbcb37-911f-4218-84a0-15c84ff78cfa/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f850f181-a8b7-4e53-aff1-b2f6a57a4421/b2dd30f1-028f-4be2-90c5-01a4b4eaf1d4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
-        isCached: true
-  - title: "Biden's Afghanistan prediction fails spectacularly"
-    excerpt: "President Joe Biden promised Americans that the Taliban would not storm the U.S. Embassy in Kabul resulting in a helicopter airlift reminiscent of Saigon in 1975. The opposite just happened."
-    publishedDateTime: 2021-08-16T02:08:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JiodtN1-gg0/bidens-afghanistan-prediction-fails-spectacularly"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-afghanistan-prediction-fails-spectacularly.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-afghanistan-prediction-fails-spectacularly.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/19a00d1f-c699-4729-b3dd-f8ab2871d650/b6fd2222-6c75-495e-a8b0-072f88d99d64/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden's entire national security team should resign: Rep. Andy Barr"
-    excerpt: "FIRST ON FOX: A prominent House Republican is calling for the resignations of every individual on President Biden's national security team as part of a reckoning for what he called its \"disorderly retreat from Afghanistan.\""
-    publishedDateTime: 2021-08-18T18:28:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zPBEMGuYiQA/biden-national-security-team-resign-barr"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-national-security-team-resign-barr.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-national-security-team-resign-barr.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/07/340/340/mike-emanuel-headshot.png?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Marjorie Taylor Greene seeks to impeach Biden over Afghanistan crisis"
     excerpt: "Rep. Marjorie Taylor Greene introduced a trio of impeachment resolutions against President Biden on Friday, calling for him to be removed from office over his handling of the withdrawal of U.S. troops from Afghanistan and other alleged offenses."
@@ -207,6 +175,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "UK member of Parliament: 'Shameful' for Biden to claim Afghan troops ran"
+    excerpt: "United Kingdom Member of Parliament Tom Tugendhat lamented the rise of the Taliban in Afghanistan while chastising President Biden for how he has blamed Afghan forces by accusing them of giving up."
+    publishedDateTime: 2021-08-18T19:32:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/d-0kxDoCZ0k/uk-mp-shameful-biden-afghan-troops-ran"
+    ampWebUrl: "https://www.foxnews.com/politics/uk-mp-shameful-biden-afghan-troops-ran.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/uk-mp-shameful-biden-afghan-troops-ran.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden to discuss Afghanistan evacuations during Sunday address to nation"
     excerpt: "President Biden plans to address the nation Sunday afternoon regarding efforts to evacuate American citizens and other people out of Afghanistan, according to reports."
     publishedDateTime: 2021-08-22T08:10:24Z
@@ -255,163 +239,67 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Sec. Mayorkas blames Trump, rule of law for huge spike in illegal immigration during Biden administration"
-    excerpt: "Homeland Security Secretary Alejandro Mayorkas blamed former President Donald Trump’s administration for the record rise of border crossings occurring during the Biden administration."
-    publishedDateTime: 2021-08-13T14:23:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PuWNHNiZe2I/migrant-surge-mayorkas-blames-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/migrant-surge-mayorkas-blames-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/migrant-surge-mayorkas-blames-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5ea11597-34c5-4d7b-8aa8-0598d069a7e2/0e21a2d7-7861-47cc-8133-17278c5f44c5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Afghanistan collapse raises questions about Biden's foreign policy prowess"
-    excerpt: "The quick collapse of the Afghan government amid the lighting-fast Taliban takeover of Afghanistan calls into question President Biden's prowess when it comes to foreign policy."
-    publishedDateTime: 2021-08-16T16:59:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LefYVgjdH2U/afghanistan-collapse-biden-foreign-policy"
-    ampWebUrl: "https://www.foxnews.com/politics/afghanistan-collapse-biden-foreign-policy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/afghanistan-collapse-biden-foreign-policy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden tells nation he stands 'squarely behind' decision to exit Afghanistan"
-    excerpt: "President Biden addressed the nation Monday, saying he stands “squarely behind” his decision to withdraw U.S. troops from Afghanistan after having a presence for 20 years, while admitting that the fall of the country to the Taliban “did unfold more quickly than we had anticipated.”"
-    publishedDateTime: 2021-08-16T20:31:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j-9CYaVbeZQ/biden-afghanistan-address"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-afghanistan-address.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-afghanistan-address.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "McConnell slams Biden's handling of Afghanistan: 'An Unmitigated Disaster'"
-    excerpt: "Senate Minority leader Mitch McConnell took aim at President Joe Biden's handling of the situation in Afghanistan, saying the deteriorating situation was \"an unmitigated disaster.\""
-    publishedDateTime: 2021-08-16T21:00:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/a3uLevPzobM/an-unmitigated-disaster-mcconnell-slams-bidens-handling-of-afghanistan"
-    ampWebUrl: "https://www.foxnews.com/politics/an-unmitigated-disaster-mcconnell-slams-bidens-handling-of-afghanistan.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/an-unmitigated-disaster-mcconnell-slams-bidens-handling-of-afghanistan.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f951e2f7-fa1d-4ead-8ccb-ad714dbd0619/32b0a666-6cda-4eab-8390-ab443e35d0f6/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "McConnell calls on Biden to change course in Afghanistan before it's too late"
-    excerpt: "McConnell urged President Joe Biden reverse course in Afghanistan as the security situation deteriorates"
-    publishedDateTime: 2021-08-12T23:00:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vWeO-07zj5w/mcconnell-calls-on-biden-to-change-course-in-afghanistan-before-its-too-late"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-calls-on-biden-to-change-course-in-afghanistan-before-its-too-late.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-calls-on-biden-to-change-course-in-afghanistan-before-its-too-late.amp"
+  - title: "Biden admin doubles down on Psaki claim Americans not stranded in Afghanistan"
+    excerpt: "An administration official stood by Psaki’s claim on Tuesday, telling Fox News in an email that the White House is working to bring home Americans who want to leave Afghanistan."
+    publishedDateTime: 2021-08-24T16:21:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MTzGNb0WvTI/biden-admin-doubles-down-psaki-americans-stranded-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-doubles-down-psaki-americans-stranded-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-doubles-down-psaki-americans-stranded-afghanistan.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 172
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c505be5b-7fe5-4a10-b256-fbc6b1e6a2f1/272c5604-5105-47e9-88ac-0be2cd6b1b4d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/56a12ab7-ddcf-4f9a-9f85-c3480aa61150/3cbd9518-61b8-4f76-90a8-de55db9a4472/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Lindsey Graham slams Biden Afghanistan speech: 'No one to blame but himself'"
-    excerpt: "Senator Lindsey Graham took aim at President Joe Biden's speech, insisting Biden take more responsibility for failures in Afghanistan"
-    publishedDateTime: 2021-08-16T23:58:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cC2h-yNlQc0/lindsey-graham-slams-biden-speech-no-one-to-blame-but-himself"
-    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-slams-biden-speech-no-one-to-blame-but-himself.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-slams-biden-speech-no-one-to-blame-but-himself.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd9f3aff-80ee-4ead-b58b-95378c552380/353d4471-c575-42c6-be66-0de459d50f7b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Top Biden official admits fall of Afghanistan 'unfolded at unexpected speed'"
-    excerpt: "White House National Security Adviser Jake Sullivan on Monday said the security situation in Afghanistan “unfolded at unexpected speed,” while maintaining that President Biden stands by his decision to withdraw U.S. troops."
-    publishedDateTime: 2021-08-16T13:18:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UGmU5z_MA4Y/biden-official-afghanistan-fell-unexpected-speed"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-official-afghanistan-fell-unexpected-speed.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-official-afghanistan-fell-unexpected-speed.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Over 50 senators urge Biden to accelerate evacuation of Afghan SIV applicants"
-    excerpt: "A bipartisan group of more than 50 senators is calling on President Biden to immediately evacuate Afghan SIV applicants and their families as Afghanistan falls further into chaos."
-    publishedDateTime: 2021-08-19T17:11:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Utr3_gIwGyI/senators-biden-accelerate-evacuation-afghan-siv-applicants"
-    ampWebUrl: "https://www.foxnews.com/politics/senators-biden-accelerate-evacuation-afghan-siv-applicants.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senators-biden-accelerate-evacuation-afghan-siv-applicants.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a6311a4-fd3a-4a2c-af1e-efb5505de674/d246c280-e48e-4e22-82d4-da2a00d67c91/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "McCarthy slams Biden's Afghanistan withdrawal as 'embarrassment to our nation'"
-    excerpt: "House Minority Leader Kevin McCarthy, R-Calif., slammed President Biden's \"complete mismanagement\" of the withdrawal of troops from Afghanistan and called for the U.S. military to continue to provide \"close air support\" to combat the surging Taliban forces. "
-    publishedDateTime: 2021-08-14T18:13:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dHVp8WEUaCE/mccarthy-slams-biden-afghanistan-withdrawal"
-    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-slams-biden-afghanistan-withdrawal.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-slams-biden-afghanistan-withdrawal.amp"
+  - title: "Biden hasn't spoken to any foreign leaders since fall of Afghanistan to Taliban"
+    excerpt: "National Security Adviser Jake Sullivan said Tuesday that President Biden has not spoken with any other world leaders this week since Afghanistan fell to the Taliban, as the president remains at Camp David amid frantic efforts to evacuate Americans and U.S. allies from the country."
+    publishedDateTime: 2021-08-17T19:30:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IrYze6IS5QI/biden-afghanistan-foreign-leaders"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-afghanistan-foreign-leaders.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-afghanistan-foreign-leaders.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 171
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden promises military mission in Afghanistan will be short, limited in scope"
-    excerpt: "Biden said the military mission in Afghanistan will be short in duration and limited in scope"
-    publishedDateTime: 2021-08-16T22:21:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GFByAcEIrqE/biden-promises-military-mission-in-afghanistan-will-be-short-limited-in-scope"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-promises-military-mission-in-afghanistan-will-be-short-limited-in-scope.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-promises-military-mission-in-afghanistan-will-be-short-limited-in-scope.amp"
+  - title: "White House doubles down on Harris' Asia trip amid Afghan crisis: 'Many interests around the world'"
+    excerpt: "The White House doubled down on Kamala Harris' East Asia trip amid the Afghanistan crisis. An official said the United States \"has many interests around the world.\""
+    publishedDateTime: 2021-08-18T20:40:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YnD8Ucb7cHk/white-house-harris-asia-trip-amid-afghan-crisis-interests-around-world"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-harris-asia-trip-amid-afghan-crisis-interests-around-world.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-harris-asia-trip-amid-afghan-crisis-interests-around-world.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 171
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa4d2dca-ffca-4c65-9b74-7634b1be29b1/94c5088d-68a9-4829-8e45-d5285306e28b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43dec90e-50bf-4981-97ed-2fc0ac19fae8/df9afa57-897f-48c4-9c09-2cd422aefcb3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden to address Afghanistan evacuations amid torrent of criticism over crisis"
+    excerpt: "President Biden on Friday will address the bid to evacuate American citizens and Afghan allies from Afghanistan in the face of the Taliban takeover of the country, as Biden faces a torrent of criticism for his handling of the U.S. withdrawal."
+    publishedDateTime: 2021-08-20T15:35:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/deCAzUnwXy0/biden-address-afghanistan-criticism-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-address-afghanistan-criticism-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-address-afghanistan-criticism-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b36f19d5-df1b-4a39-8f6f-0aedb9810430/a2efa34f-1878-4af3-8c59-bd4de5008666/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -463,22 +351,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "All eyes on Biden's response to COVID variants, Afghanistan, border crisis, inflation"
-    excerpt: ""
-    publishedDateTime: 2021-08-14T15:05:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jnGeOElIWNk/biden-response-covid-afghanistan-border-inflation"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-response-covid-afghanistan-border-inflation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-response-covid-afghanistan-border-inflation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd25a285-c918-41c0-9457-cc079ae539d2/3ab06f84-ef1f-4f92-9e7f-0cfefaac564b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Biden has only spent 4 of 15 full days in White House since Afghanistan crisis began"
     excerpt: "President Biden has spent four full days at White House in 15 days since Afghanistan crisis began, six days entirely at Camp David or in Delaware."
     publishedDateTime: 2021-08-20T23:39:31Z
@@ -524,22 +396,6 @@ related:
     quality: 167
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5a346e2b-8db8-4fa3-86ec-c8ae633a7a37/e74b9240-515b-45b8-a892-dc8c1f4a81bd/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Obama-era Afghanistan ambassador has 'grave questions' about Biden's 'ability to lead' US"
-    excerpt: "A former Obama-era ambassador to Afghanistan says he has \"grave questions\" about President Biden's \"ability to lead\" America as commander in chief following the stunning collapse of Afghanistan."
-    publishedDateTime: 2021-08-16T14:31:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UjfkvcOGch4/obama-afghanistan-ambassador-grave-questions-biden-ability-lead"
-    ampWebUrl: "https://www.foxnews.com/politics/obama-afghanistan-ambassador-grave-questions-biden-ability-lead.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-afghanistan-ambassador-grave-questions-biden-ability-lead.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/998f5457-223e-4d04-a124-24d3e7d832f9/59eee0b4-4473-4400-8ede-b8ca36bdf67c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -591,21 +447,21 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Biden says he 'respects' Cuomo decision to resign, say disgraced gov did 'a hell of a job'"
-    excerpt: "President Biden on Tuesday backed embattled Gov. Andrew Cuomo's decision to resign amid a scathing investigation into sexual harassment allegations while saying the New York governor did “a hell of a job.\""
-    publishedDateTime: 2021-08-10T19:46:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-lvC99EzNRg/biden-respects-cuomo-decision-resign-sexual-harrassment-allegations"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-respects-cuomo-decision-resign-sexual-harrassment-allegations.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-respects-cuomo-decision-resign-sexual-harrassment-allegations.amp"
+  - title: "Pence claims Biden broke Trump administration’s deal with Taliban"
+    excerpt: "Former Vice President Mike Pence claimed Tuesday that President Joe Biden reneged on the cease-fire deal his predecessor, former President Donald Trump, agreed with the Taliban in February 2020."
+    publishedDateTime: 2021-08-18T03:46:00Z
+    webUrl: "https://nypost.com/2021/08/17/pence-claims-biden-broke-trump-administrations-deal-with-taliban/"
+    ampWebUrl: "https://nypost.com/2021/08/17/pence-claims-biden-broke-trump-administrations-deal-with-taliban/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/17/pence-claims-biden-broke-trump-administrations-deal-with-taliban/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
+      name: New York Post
+      domain: nypost.com
     quality: 165
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/mike-pense-taliban-agreement-index.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Biden needs to authorize military to save stranded Americans in Afghanistan, Crenshaw says"
     excerpt: "President Biden must authorize the U.S. military to expand the perimeter around the Kabul airport and save Americans who are, in effect, “hostages of the Taliban,” Sen. Tom Cotton, R-Ark., said in a blistering statement late Thursday."
@@ -639,21 +495,21 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Biden ignores questions, resumes Camp David retreat after addressing Afghanistan catastrophe"
-    excerpt: "Biden did not take any questions after addressing the nation and plans to return to Camp David"
-    publishedDateTime: 2021-08-16T20:56:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/T-eWNaym0OE/biden-ignores-questiions-resumes-cam-david-retreat-after-addressing-afghanistan-catastrophe"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-ignores-questiions-resumes-cam-david-retreat-after-addressing-afghanistan-catastrophe.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ignores-questiions-resumes-cam-david-retreat-after-addressing-afghanistan-catastrophe.amp"
+  - title: "Biden won't extend Afghanistan deadline as Taliban reiterates demand for US forces to leave"
+    excerpt: "President Biden has decided not to extend an Aug. 31 deadline to remove all American troops from Afghanistan, a U.S. official tells Fox News."
+    publishedDateTime: 2021-08-24T16:40:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GMv3coLP1wY/biden-wont-extend-afghanistan-deadline-official-says"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-wont-extend-afghanistan-deadline-official-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-wont-extend-afghanistan-deadline-official-says.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 165
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4e0376bc-9b2c-4cf6-b5e6-ec2b6305fb4e/fdf0d736-9628-4d9a-822f-6dd55c0e91fe/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-zxjs75c-xl.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden says American troops should not be dying in Afghanistan; 18 months since last US death"
     excerpt: "President Biden justified the withdrawal of American forces from Afghanistan by stating that U.S. troops should not be losing their lives in a conflict where the Afghans are not fighting themselves, but the last American military casualty was a year and a half ago."
@@ -735,6 +591,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Critics slam Biden for not extending Afghanistan troop withdrawal deadline: 'Blood on his hands'"
+    excerpt: "Critics slammed President Biden and said he will “have blood on his hands” after it was announced the U.S. will not extend the Aug. 31 deadline of withdrawing U.S. troops from Afghanistan."
+    publishedDateTime: 2021-08-24T17:23:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FJiF8--ZNvM/critics-biden-afghanistan-troop-withdrawal-deadline-extension"
+    ampWebUrl: "https://www.foxnews.com/politics/critics-biden-afghanistan-troop-withdrawal-deadline-extension.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/critics-biden-afghanistan-troop-withdrawal-deadline-extension.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31c7cbff-ae4b-4733-8dbc-ef4ff7221054/312741ee-61bf-4360-b3c9-ca657a44c569/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden hit with bipartisan criticism over Afghanistan debacle: 'Our dire warnings fell on deaf ears'"
     excerpt: "President Biden is the target of relentless criticism for his handling of the military drawdown from Afghanistan, which has resulted in a swift Taliban takeover of the nation, the abandonment of the American embassy and desperate scenes at the Kabul airport."
     publishedDateTime: 2021-08-17T15:41:32Z
@@ -751,22 +623,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "McCarthy, McConnell send letter to Biden requesting 'Gang of 8' briefing on Afghanistan evacuation"
-    excerpt: "House Minority Leader Kevin McCarthy and Senate Minority Leader Mitch McConnell sent a letter to President Biden requesting a “Gang of 8” briefing on the rapidly deteriorating situation in Afghanistan where the U.S. military is attempting to evacuate Americans from the Taliban controlled capital."
-    publishedDateTime: 2021-08-19T00:39:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e5-J3HTZbgo/mccarthy-mcconnell-send-letter-to-biden-requesting-gang-of-8-briefing-on-afghanistan-evacuation"
-    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-mcconnell-send-letter-to-biden-requesting-gang-of-8-briefing-on-afghanistan-evacuation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-mcconnell-send-letter-to-biden-requesting-gang-of-8-briefing-on-afghanistan-evacuation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/01160f89-96b3-437b-b1df-04d8d0c28cad/78098fe8-c11f-41a4-b46a-cd33c5efd58d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Biden finally answers questions about Afghanistan from White House reporters after intense pressure"
     excerpt: "President Biden avoided answering reporters' questions twice earlier this week"
     publishedDateTime: 2021-08-20T18:06:33Z
@@ -782,22 +638,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Trump calls on Biden to ‘resign in disgrace’ over crisis in Afghanistan"
-    excerpt: "Former President Donald Trump Sunday called on President Joe Biden to “resign in disgrace” over his handling of the Afghanistan withdrawal and other issues."
-    publishedDateTime: 2021-08-15T23:38:00Z
-    webUrl: "https://nypost.com/2021/08/15/trump-calls-on-biden-to-resign-in-disgrace-over-crisis-in-afghanistan/"
-    ampWebUrl: "https://nypost.com/2021/08/15/trump-calls-on-biden-to-resign-in-disgrace-over-crisis-in-afghanistan/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/15/trump-calls-on-biden-to-resign-in-disgrace-over-crisis-in-afghanistan/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 160
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Biden pledge to renew America's standing around world in peril as Afghanistan debacle sparks outrage"
     excerpt: "President Joe Biden's pledge to renew America's standing on the world stage is in jeopardy as international leaders express outrage over his rushed withdrawal from Afghanistan."
@@ -1021,21 +861,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "‘Do you miss me yet?’: Trump slams Biden over Afghanistan, inflation"
-    excerpt: "Former President Donald Trump lashed out at the Biden administration’s handling of Afghanistan, rising inflation and illegal immigrants, asking: “Do you miss me yet?” The attack came as the"
-    publishedDateTime: 2021-08-13T15:32:00Z
-    webUrl: "https://nypost.com/2021/08/13/trump-criticizes-joe-biden-over-afghanistan-in-email-blast/"
-    ampWebUrl: "https://nypost.com/2021/08/13/trump-criticizes-joe-biden-over-afghanistan-in-email-blast/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/13/trump-criticizes-joe-biden-over-afghanistan-in-email-blast/amp/"
+  - title: "Trump blasts Biden plan to withdraw from Afghanistan"
+    excerpt: "Former President Donald Trump blasted President Biden for pushing the deadline to withdraw all US troops from Afghanistan to Sept. 11 — saying it “should remain a day of reflection and"
+    publishedDateTime: 2021-04-18T19:45:00Z
+    webUrl: "https://nypost.com/2021/04/18/trump-blasts-biden-plan-to-withdraw-from-afghanistan/"
+    ampWebUrl: "https://nypost.com/2021/04/18/trump-blasts-biden-plan-to-withdraw-from-afghanistan/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/18/trump-blasts-biden-plan-to-withdraw-from-afghanistan/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
     quality: 150
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-miss-afghanistan-hp.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 682
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/bicen-trump-troops-inset.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump blasts media, Biden admin over Hunter Biden ‘blackmail’ tape"
     excerpt: "Former President Donald Trump is blasting the Biden administration for not prosecuting Hunter Biden amid a recently revealed video clip showing the naked first son talking with a woman about"
@@ -1053,20 +893,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Biden points fingers for Afghanistan debacle after promising he wouldn't 'blame others'"
-    excerpt: "During his speech today, Biden said he had “inherited” the deal former President Trump struck with the Taliban which required him to either follow through on the agreement or risk “escalating the conflict and sending thousands of American troops back into Afghanistan.”"
-    publishedDateTime: 2021-08-16T23:09:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4uf7iWNlhkg/biden-afghanistan-points-fingers-blame-others"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 147
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/Biden-head-down.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump slams Biden for Afghanistan withdrawal during Alabama rally appearance"
     excerpt: "Former President Donald Trump criticized President Joe Biden’s ‘total surrender’ for the United States withdrawal from the Taliban-controlled Afghanistan."
     publishedDateTime: 2021-08-22T06:15:00Z
@@ -1083,33 +909,33 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "McConnell Credits Biden for Infrastructure Breakthrough, Dismisses Trump Criticism"
-    excerpt: "The Senate minority leader credited the president with helping to get the infrastructure bill passed in the Senate, but said he doesn’t anticipate many more opportunities for Republicans to work with Democrats."
-    publishedDateTime: 2021-08-11T08:00:00Z
-    webUrl: "https://www.wsj.com/articles/mcconnell-credits-biden-for-infrastructure-breakthrough-dismisses-trump-criticism-11628672401"
-    ampWebUrl: "https://www.wsj.com/amp/articles/mcconnell-credits-biden-for-infrastructure-breakthrough-dismisses-trump-criticism-11628672401"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/mcconnell-credits-biden-for-infrastructure-breakthrough-dismisses-trump-criticism-11628672401"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 144
-    images:
-      - url: "https://images.wsj.net/im-383642/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Rep. Scalise slams ‘Biden’s Saigon moment’ in Afghanistan, says admin 'got this devastatingly wrong'"
-    excerpt: "House Minority Whip Rep. Steve Scalise on Sunday slammed “President Biden’s Saigon moment” in Afghanistan amid reports that Taliban insurgents had seized Kabul and most of the region after the U.S. began withdrawing troops."
-    publishedDateTime: 2021-08-15T16:28:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/t2Fi9Vfst5I/rep-scalise-slams-bidens-saigon-moment-in-afghanistan-says-admin-got-this-devastatingly-wrong"
+  - title: "Miranda Devine: Kamala Harris noticeably absent amid Afghan crisis as Joe Biden 'stinks of failure'"
+    excerpt: "Vice President Kamala Harris is choosing the wrong time to take a scheduled trip to Vietnam as she remains largely and noticeably absent from the aftermath of President Biden's disastrous withdrawal from Afghanistan,"
+    publishedDateTime: 2021-08-19T22:15:00Z
+    webUrl: "https://www.foxnews.com/media/miranda-devine-kamala-harris-noticeably-absent-amid-afghan-crisis-as-joe-biden-stinks-of-failure"
+    ampWebUrl: "https://www.foxnews.com/media/miranda-devine-kamala-harris-noticeably-absent-amid-afghan-crisis-as-joe-biden-stinks-of-failure.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/miranda-devine-kamala-harris-noticeably-absent-amid-afghan-crisis-as-joe-biden-stinks-of-failure.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 140
+    quality: 146
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/GettyImages-1229658899.jpg"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7ce0f117-855d-485a-8378-a18e1f86533d/96814e03-85f8-4119-901f-cf23f0104adc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "North Carolina congressman says Biden admin releasing 'a gobbledygook of misinformation' on Afghanistan"
+    excerpt: "Rep. Greg Murphy, R-N.C., on Tuesday described a disconnect between communication coming from the White House, Department of Defense and State Department regarding the country's withdrawal from Afghanistan."
+    publishedDateTime: 2021-08-24T17:45:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JXrBx9URS_E/greg-murphy-afghanistan-briefing-misinformation"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 139
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Greg-Murphy-GETTY.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -1225,21 +1051,69 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "McCaul: Biden will have ‘blood on his hands’ over Afghanistan withdrawal"
-    excerpt: "The top Republican on the House Foreign Relations Committee on Sunday said President Biden will have “blood on his hands” over the withdrawal of the US military from Afghanistan."
-    publishedDateTime: 2021-08-15T19:15:00Z
-    webUrl: "https://nypost.com/2021/08/15/rep-mccaul-says-afghanistan-withdrawal-has-been-a-disaster/"
-    ampWebUrl: "https://nypost.com/2021/08/15/rep-mccaul-says-afghanistan-withdrawal-has-been-a-disaster/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/15/rep-mccaul-says-afghanistan-withdrawal-has-been-a-disaster/amp/"
+  - title: "VP Kamala Harris laughs when asked about tragedy in Afghanistan"
+    excerpt: "Vice President Kamala Harris is under fire after footage shows her laughing when asked about the deadly chaos in Afghanistan."
+    publishedDateTime: 2021-08-23T12:46:00Z
+    webUrl: "https://nypost.com/2021/08/23/kamala-harris-laughs-when-asked-about-tragedy-in-afghanistan/"
+    ampWebUrl: "https://nypost.com/2021/08/23/kamala-harris-laughs-when-asked-about-tragedy-in-afghanistan/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/23/kamala-harris-laughs-when-asked-about-tragedy-in-afghanistan/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/kamala-harris-57.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "‘Go to hell, Biden’: Stranded man slams president for Afghanistan chaos"
+    excerpt: "A desperate civilian trapped in Afghanistan under Taliban rule has slammed President Joe Biden’s “ill-calculation” for the chaos — as he stands beside two young siblings"
+    publishedDateTime: 2021-08-24T15:48:00Z
+    webUrl: "https://nypost.com/2021/08/24/stranded-man-slams-biden-for-afghanistan-chaos/"
+    ampWebUrl: "https://nypost.com/2021/08/24/stranded-man-slams-biden-for-afghanistan-chaos/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/24/stranded-man-slams-biden-for-afghanistan-chaos/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/nooragha-hashimi-children-kabul-evacuation-50.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Kamala Harris tanking in poll as she goes to ground on Afghan withdrawal"
+    excerpt: "Americans have further soured on Vice President Kamala Harris as she continues her radio silence on the withdrawal of US forces from Afghanistan, a new poll indicates."
+    publishedDateTime: 2021-08-20T01:09:00Z
+    webUrl: "https://nypost.com/2021/08/19/kamala-harris-tanking-in-poll-as-she-goes-to-ground-on-afghan-withdrawal/"
+    ampWebUrl: "https://nypost.com/2021/08/19/kamala-harris-tanking-in-poll-as-she-goes-to-ground-on-afghan-withdrawal/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/19/kamala-harris-tanking-in-poll-as-she-goes-to-ground-on-afghan-withdrawal/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
     quality: 134
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/biden-afghanistan-04.jpg?quality=90&strip=all&w=1024"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/kamala-harris-afghan-withdrawal-index.jpg?quality=90&strip=all&w=1024"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Mike Pence blasts Biden's 'foreign policy humiliation' in Afghanistan: They 'set this disaster in motion'"
+    excerpt: "Former Vice President Mike Pence blasted the Biden administration's Afghanistan troop withdrawal Tuesday as a “foreign policy humiliation” on par with the Iran hostage crisis and dismissed efforts to cast blame on the Trump administration for the debacle."
+    publishedDateTime: 2021-08-24T14:53:00Z
+    webUrl: "https://www.foxnews.com/media/mike-pence-biden-foreign-policy-humiliation-afghanistan-kilmeade"
+    ampWebUrl: "https://www.foxnews.com/media/mike-pence-biden-foreign-policy-humiliation-afghanistan-kilmeade.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/mike-pence-biden-foreign-policy-humiliation-afghanistan-kilmeade.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eccfeb60-4360-431d-b6c0-f9d35bf37dc5/249a3fb2-d7d2-4e5b-9dc5-0599cff0df44/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Jesse Watters: The crisis in Afghanistan could cost Joe Biden the presidency"
     excerpt: "Jesse Watters slammed the Biden administration Saturday on 'Watters' World' for leaving thousands of Americans stranded in Afghanistan, leading to what he called a hostage crisis."
@@ -1257,6 +1131,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Vice President Kamala Harris to Focus on Countering China on Southeast Asia Trip"
+    excerpt: "The visit will give the Biden administration a chance to put the focus on countering China at a time when the U.S.’s chaotic exit from Afghanistan raises questions about its reliability as an ally."
+    publishedDateTime: 2021-08-20T11:20:00Z
+    webUrl: "https://www.wsj.com/articles/vice-president-kamala-harris-to-focus-on-countering-china-on-southeast-asia-trip-11629462039"
+    ampWebUrl: "https://www.wsj.com/amp/articles/vice-president-kamala-harris-to-focus-on-countering-china-on-southeast-asia-trip-11629462039"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/vice-president-kamala-harris-to-focus-on-countering-china-on-southeast-asia-trip-11629462039"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 130
+    images:
+      - url: "https://images.wsj.net/im-388795/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Sen. Ernst: 'Joe Biden is a disgrace,' has not 'fully thanked' US troops in Afghanistan"
     excerpt: "Iowa Senator Joni Ernst knocked Joe Biden on Thursday, calling the president a 'disgrace' for not 'fully thanking' U.S. troops in Afghanistan."
     publishedDateTime: 2021-08-19T15:18:00Z
@@ -1270,6 +1160,38 @@ related:
     quality: 127
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9395538d-04e9-4b19-b816-bd3528f05f82/01ad1ecb-a563-43a5-a899-b578bc624bec/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Kamala Harris heads to Vietnam and Singapore after staying quiet amid Afghanistan chaos"
+    excerpt: "As large crowds swarm Kabul airport to flee the Taliban, Vice President Kamala Harris is embarking on a trip to Asia with stops in Singapore and Vietnam — ironically, the sites of previous US-UK"
+    publishedDateTime: 2021-08-20T21:59:00Z
+    webUrl: "https://nypost.com/2021/08/20/kamala-harris-heads-to-vietnam-and-singapore-sites-of-other-us-uk-defeats/"
+    ampWebUrl: "https://nypost.com/2021/08/20/kamala-harris-heads-to-vietnam-and-singapore-sites-of-other-us-uk-defeats/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/20/kamala-harris-heads-to-vietnam-and-singapore-sites-of-other-us-uk-defeats/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 127
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/kamala-harris-heads-to-Singapore-and-Vietnam-featured.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Kamala Harris plans Vietnam visit – just as Afghanistan draws comparisons to fall of Saigon"
+    excerpt: "Kamala Harris’ planned trip to Vietnam next week comes as the current crisis in Afghanistan has drawn comparisons to the fall of Saigon in the 1970s."
+    publishedDateTime: 2021-08-18T03:19:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-vietnam-afghanistan-comparisons-fall-of-saigon"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-vietnam-afghanistan-comparisons-fall-of-saigon.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-vietnam-afghanistan-comparisons-fall-of-saigon.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 125
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/98cc8f46-bb4f-4562-9c0a-4acf73ccfd0a/094faee1-0a8a-42b8-9dd1-011ad8daa6f7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -1289,6 +1211,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "LA Times: Kamala Harris ‘owns’ Afghanistan policy after touting her role in withdrawal decision"
+    excerpt: "Vice President Kamala Harris \"owns\" the execution of America's withdrawal from Afghanistan following her touting the role she played in President Joe Biden's decision, The Los Angeles Times reported Wednesday."
+    publishedDateTime: 2021-08-19T20:23:00Z
+    webUrl: "https://www.foxnews.com/media/los-angeles-times-vice-president-kamala-harris-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/media/los-angeles-times-vice-president-kamala-harris-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/los-angeles-times-vice-president-kamala-harris-afghanistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b3659956-ec32-48a6-9338-92fbfdfe45c3/4a58742e-936c-4934-9287-58a550f22749/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "MSNBC's Mehdi Hasan defends Biden over 'disaster' in Afghanistan, implores detractors to stay silent"
     excerpt: "MSNBC host Mehdi Hasan on Sunday defended President Joe Biden from detractors criticizing his handling of the \"disaster\" in Afghanistan and blasted those in the media, military officials, politicians and former Bush and Trump administration officials for their reactions to the unfolding situation in the war-torn country."
     publishedDateTime: 2021-08-23T17:22:00Z
@@ -1305,6 +1243,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Kamala Harris breaks silence on Afghanistan debacle as Singapore prime minister admits withdrawal went 'awry'"
+    excerpt: "Vice President Kamala Harris at last spoke publicly on what is happening in Afghanistan as Americans and Afghans try to exit the country due to the Taliban’s swift takeover, but she refused to weigh in on the U."
+    publishedDateTime: 2021-08-23T15:14:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-afghanistan-singapore-prime-minister-withdrawal-went-awry"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-afghanistan-singapore-prime-minister-withdrawal-went-awry.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-afghanistan-singapore-prime-minister-withdrawal-went-awry.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 116
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2c07c8a2-63f4-46d8-b1b3-ac45551d2f7d/8531caa7-8fcb-4b04-98d7-61963a8fc46c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Outrage as Biden again takes no questions on Afghanistan: 'Walkaway Joe'"
     excerpt: "President Joe Biden took flak again Monday for taking no questions about Afghanistan as the crisis in the war-torn country continues."
     publishedDateTime: 2021-08-23T19:26:00Z
@@ -1316,33 +1270,17 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 114
-  - title: "Joe Biden, Foreign Policy Genius in Training"
-    excerpt: "Was Joe Biden’s utter foul-up of the Afghanistan withdrawal an anomaly, or part of a life-long pattern? Few people have had the opportunity that Biden has had to influence and direct"
-    publishedDateTime: 2021-08-24T04:01:00Z
-    webUrl: "https://townhall.com/columnists/jeffdavidson/2021/08/24/joe-biden-foreign-policy-genius-in-training-n2594602"
-    ampWebUrl: "https://townhall.com/columnists/jeffdavidson/2021/08/24/joe-biden-foreign-policy-genius-in-training-n2594602?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/jeffdavidson/2021/08/24/joe-biden-foreign-policy-genius-in-training-n2594602?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 85
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2021/234/9c1c5c23-2113-461a-b625-2be2fc145130.jpg"
-        width: 650
-        height: 340
-        isCached: true
-  - title: "Joe Biden has always been a disaster on foreign policy"
-    excerpt: "President Joe Biden campaigned in 2020 on his supposed foreign policy chops, promising everyone he’d usher in a new, golden era of competent and effective U.S. diplomacy."
-    publishedDateTime: 2021-08-20T00:27:00Z
-    webUrl: "https://www.washingtonexaminer.com/opinion/joe-biden-has-always-been-a-disaster-on-foreign-policy"
-    ampWebUrl: "https://www.washingtonexaminer.com/opinion/joe-biden-has-always-been-a-disaster-on-foreign-policy?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/joe-biden-has-always-been-a-disaster-on-foreign-policy?_amp=true"
+  - title: "Most voters don't want Biden or Trump to run in 2024, poll finds"
+    excerpt: "The majority of registered voters do not want the next presidential election to be a rematch of the 2020 contest, according to a new poll conducted by Echelon Insights/Washington Examiner."
+    publishedDateTime: 2021-08-23T23:58:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/poll-no-trump-or-biden-in-2024"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/poll-no-trump-or-biden-in-2024?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/poll-no-trump-or-biden-in-2024?_amp=true"
     type: article
     provider:
       name: Washington Examiner
       domain: washingtonexaminer.com
-    quality: 65
+    quality: 80
   - title: "'Worst nightmare': Trump hits Biden's 'botched exit in Afghanistan' in first rally since fall of Kabul"
     excerpt: "Former President Donald Trump called President Joe Biden's \"botched exit in Afghanistan\" the \"worst nightmare\" imaginable during his first public rally since the fall of Kabul to the Taliban."
     publishedDateTime: 2021-08-22T06:54:00Z
@@ -1365,15 +1303,6 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 55
-  - title: "Biden Making a Major Mistake on Afghanistan"
-    excerpt: "David A. Andelman writes that President Joe Biden should not be setting a date for withdrawal of US troops from Afghanistan since the reason the US first entered the country -- to address a major terrorist threat -- has not been fully addressed."
-    publishedDateTime: 2021-04-14T11:37:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/14/biden_making_a_major_mistake_on_afghanistan_540470.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
   - title: "The Big Bet Joe Biden Is Making on Afghanistan"
     excerpt: "Joe Biden believes that you don't care about Afghanistan. Or, maybe more accurately, that you won't care about it by the time the 2022 (and 2024) elections rolls around. Read Full"
     publishedDateTime: 2021-08-23T00:00:00Z

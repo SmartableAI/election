@@ -105,6 +105,38 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Joe Biden holds virtual G7 meeting amid Afghanistan criticism – live"
+    excerpt: "The virtual G7 meeting on Afghanistan ended after about two hours, the White House told the press pool. The White House did not allow reporters in for the start of the meeting, but the president’s team did share a photo shortly after the discussion wrapped up: The White House (@WhiteHouse) Today,"
+    publishedDateTime: 2021-08-24T14:55:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news?page=with:block-6124fff88f080ef844e742ef"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/d0d57f8437f2089fcdc236ece19d4e9fc7a470b7/107_394_3611_2166/master/3611.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7e9ad38171b8528c32a2a826f797e8bb"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Joe Biden to speak about Afghanistan evacuation amid criticism – live"
+    excerpt: "We’re confident we can get thousands more out, but the situation at the airport is not getting any better.” There is still no sign of Joe Biden, who was originally scheduled to deliver remarks on the situation in Afghanistan about an hour ago."
+    publishedDateTime: 2021-08-24T16:07:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/d0d57f8437f2089fcdc236ece19d4e9fc7a470b7/107_394_3611_2166/master/3611.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7e9ad38171b8528c32a2a826f797e8bb"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Joe Biden Blamed Afghan Leaders For Giving Up As The Taliban Took Control"
     excerpt: "In an address from the White House, Biden stood by his decision to withdraw US forces from Afghanistan, insisting he would not repeat past mistakes."
     publishedDateTime: 2021-08-16T21:14:00Z
@@ -390,6 +422,22 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "Former Trump adviser: Biden needs to fire top Taliban negotiator Khalilzad"
+    excerpt: "Lt. Gen. H.R. McMaster, Donald Trump’s former national security adviser, is laying some of the blame for the current chaos in Afghanistan squarely at the feet of Ambassador Zalmay Khalilzad, the Afghan-American diplomat who has been the point man for talks with the Taliban in both Republican and Democratic administrations."
+    publishedDateTime: 2021-08-24T17:42:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/aug/24/former-trump-adviser-biden-needs-fire-top-taliban-/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/24/former-trump-adviser-biden-needs-fire-top-taliban-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/24/former-trump-adviser-biden-needs-fire-top-taliban-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 88
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2018/07/11/books-mcmaster_42215_c0-176-4205-2628_s1200x700.jpg?fc7050ca65b373159166adfd97568bd9321a7b9d"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Trump Slams Joe Biden For Afghanistan Crisis; Says 'Would Never Happen If I Was President'"
     excerpt: "Trump slammed Biden for the Kabul crisis and said that recent developments in Afghan are a “major failure” of the current US administration’s foreign policy."
     publishedDateTime: 2021-08-22T11:47:00Z
@@ -517,6 +565,22 @@ related:
       - url: "https://opb-opb-prod.cdn.arcpublishing.com/resizer/qhbCdgc3EImVg-2LnQmO0kkelEo=/767x0/smart/cloudfront-us-east-1.images.arcpublishing.com/opb/L7UX6WFNTVHYHJLNTRUURHSTKQ.jpg"
         width: 767
         height: 511
+        isCached: true
+  - title: "G-7 leaders meet to press Biden on Afghanistan deadline"
+    excerpt: "President Joe Biden and fellow Group of 7 leaders met virtually Tuesday as some of the major industrialized democracies were pressing the United States to extend its military presence in Afghanistan beyond the Aug."
+    publishedDateTime: 2021-08-24T15:46:00Z
+    webUrl: "https://www.timesunion.com/news/article/G-7-grapples-with-Afghanistan-an-afterthought-16407286.php"
+    ampWebUrl: "https://www.timesunion.com/news/amp/G-7-grapples-with-Afghanistan-an-afterthought-16407286.php"
+    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/G-7-grapples-with-Afghanistan-an-afterthought-16407286.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Joe Biden gifting Afghanistan to the Taliban is a crime against humanity"
     excerpt: "IN 20 days, it will be exactly 20 years since someone phoned you and said, “Turn on your television now.” Twenty years since those planes came out of a clear blue sky and ploughed into the Twin"

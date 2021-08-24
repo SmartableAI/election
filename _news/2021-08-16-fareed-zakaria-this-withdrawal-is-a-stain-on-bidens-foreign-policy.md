@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden will face pressure from G7 to extend Afghanistan withdrawal deadline"
+    excerpt: "Leaders from the top foreign allies of the United States are planning to press President Joe Biden to extend the deadline for US troops to withdraw from Afghanistan during a Tuesday morning meeting, officials familiar with the matter said.\n    \n"
+    publishedDateTime: 2021-08-23T13:24:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9S-EyXetpew/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/23/politics/biden-g7-afghanistan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/23/politics/biden-g7-afghanistan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210822180305-02-biden-0822-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "New pandemic school year is a nightmare for parents and a new test for Biden"
     excerpt: "America's kids, more vulnerable than ever to Covid-19 and in the crossfire of a political war over masks, are going back to class in a timeless rite transformed into a moment of fear by the pandemic that interrupted their childhood.\n    \n"
     publishedDateTime: 2021-08-20T04:01:38Z
@@ -60,22 +76,6 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210818012218-02-school-covid-test-ky-0817-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden's botched Afghan exit is a disaster at home and abroad long in the making"
-    excerpt: "The debacle of the US defeat and chaotic retreat in Afghanistan is a political disaster for Joe Biden, whose failure to orchestrate an urgent and orderly exit will further rock a presidency plagued by crises and stain his legacy.\n    \n"
-    publishedDateTime: 2021-08-16T06:12:42Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DauauVXUhBI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/16/politics/afghanistan-joe-biden-donald-trump-kabul-politics/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/16/politics/afghanistan-joe-biden-donald-trump-kabul-politics/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210816002128-taliban-flag-ghazni-0815-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/17/politics/first-of-500-million-pfi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/17/politics/first-of-500-million-pfizer-doses/index.html"
 type: article
 quality: 170
-heat: 190
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,19 +31,131 @@ images:
     isCached: true
 
 related:
-  - title: "President and first lady plan to get their Covid booster shots when eligible, Biden says"
-    excerpt: "President Joe Biden and first lady Jill Biden plan to get Covid-19 vaccine booster shots once they are cleared to take them, the President said in an interview aired Thursday.\n    \n"
-    publishedDateTime: 2021-08-19T13:46:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HIM9WrS2cUI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/bidens-covid-vaccine-booster-shots/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/bidens-covid-vaccine-booster-shots/index.html"
+  - title: "SCOTUS gave Trump leeway on executive actions. Biden wants the same treatment"
+    excerpt: "The Biden administration faces two major confrontations with the Supreme Court this week, as the justices weigh requests related to the Covid moratorium on evictions and the termination of a Trump practice that forced migrants seeking US asylum to stay in Mexico until their claims could be heard.\n  "
+    publishedDateTime: 2021-08-24T16:16:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HpzaWFCf83k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/24/politics/biden-supreme-court/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/24/politics/biden-supreme-court/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 166
+    quality: 187
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210807195408-joe-jill-biden-071821-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210824140328-02-joe-biden-john-roberts-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Bush, Obama, Trump, Biden: How four presidents created today's Afghanistan mess"
+    excerpt: "President Joe Biden has said repeatedly over the past four months -- as recently as last week -- that he refuses to hand off the war in Afghanistan to a fifth US president.\n    \n"
+    publishedDateTime: 2021-08-23T23:41:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fXxSz5dNkvo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/23/politics/how-four-presidents-created-afghanistan-mess/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/23/politics/how-four-presidents-created-afghanistan-mess/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210823184143-bush-obama-trump-biden-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden says he doesn't believe Taliban have changed"
+    excerpt: "President Joe Biden said Thursday he doesn't believe the Taliban have changed, as the people of Afghanistan and the international community wait to see how the militants who have seized control of Afghanistan will govern.\n    \n"
+    publishedDateTime: 2021-08-19T15:38:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rlscGiwprLw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/biden-taliban-not-changed/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/biden-taliban-not-changed/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210819003059-joe-biden-remarks-0818-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact-checking Biden's claim that Afghans didn't want to leave"
+    excerpt: "The Biden administration has been working to mitigate the fallout from the situation in Afghanistan after the Taliban's surprisingly swift takeover of the country. As scenes of Afghans desperate to leave went viral, President Joe Biden announced Monday that the US military will provide assistance to"
+    publishedDateTime: 2021-08-19T13:27:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iHSRoWnR154/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/biden-afghan-visa-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/biden-afghan-visa-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210818080453-05-afghanistan-0818-kabul-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's conduct needs a federal investigation"
+    excerpt: "As alarming testimony and facts have continued to emerge about the former president's efforts to overturn the election that he lost, Donald Ayer and Norman Eisen disagree with commentators who say there is \"little reason\" to open an investigation, write Donald Ayer and Norman Eisen. And should he choose"
+    publishedDateTime: 2021-08-20T19:08:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Tpu9bksSR0s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/20/opinions/trump-conduct-needs-federal-investigation-ayer-eisen/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/20/opinions/trump-conduct-needs-federal-investigation-ayer-eisen/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210222191414-trump-rodgers-oped-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration proposes overhaul of asylum system to speed up claim approval"
+    excerpt: "The Biden administration has proposed a federal regulation that would overhaul the asylum system in an attempt to settle claims at a faster pace and help alleviate the immigration court backlog, the departments of Homeland Security and Justice announced Wednesday.\n    \n"
+    publishedDateTime: 2021-08-18T13:51:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9OUuaSNm0g4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/18/politics/asylum-rules/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/18/politics/asylum-rules/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210601182005-01-asylum-seekers-crossing-border-0317-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Federal appeals court allows Biden administration's eviction moratorium to continue"
+    excerpt: "A federal appeals court on Friday said that it would not block the Biden administration's latest eviction moratorium.\n    \n"
+    publishedDateTime: 2021-08-20T17:49:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vh4fmNYSeKg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/20/politics/dc-circuit-appeals-court-eviction-moratorium-continues/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/20/politics/dc-circuit-appeals-court-eviction-moratorium-continues/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210814150207-eviction-moratorium-landlords-appeal-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Federal appeals court denies Biden administration request to halt order reviving 'remain in Mexico' policy"
+    excerpt: "A federal appeals court denied the Biden administration's request to pause a lower court order requiring the revival of a controversial Trump-era border policy forcing migrants to stay in Mexico until their US immigration court date.\n    \n"
+    publishedDateTime: 2021-08-20T13:03:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7727yLGcMlM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/20/politics/appeals-court-biden-trump-remain-in-mexico-policy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/20/politics/appeals-court-biden-trump-remain-in-mexico-policy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719210212-title-42-migrants-in-mexico-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

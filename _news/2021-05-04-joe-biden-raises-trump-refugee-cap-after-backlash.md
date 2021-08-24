@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-56975402.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp"
 type: article
 quality: 150
-heat: 3890
+heat: 3910
 published: true
 
 provider:
@@ -2673,6 +2673,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/03/first-lady-jill-biden-wore-a-necklace-that.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "The Supreme Court gave Trump leeway on executive actions. Biden wants the same treatment"
+    excerpt: "The Biden administration faces two major confrontations with the Supreme Court this week, as the justices weigh requests related to the Covid moratorium on evictions and the termination of a"
+    publishedDateTime: 2021-08-24T16:16:00Z
+    webUrl: "https://www.newspressnow.com/news/national_news/election2020/the-supreme-court-gave-trump-leeway-on-executive-actions-biden-wants-the-same-treatment/article_8e956dd3-d9e5-557b-a290-dad742a7aadb.html"
+    type: article
+    provider:
+      name: News-Press NOW
+      domain: newspressnow.com
+    quality: 61
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/newspressnow.com/content/tncms/custom/image/be1cb458-881b-11eb-872f-4f6e66986b9a.png"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Biden Plays Golf For First Time As President, Months After Trump Played His First Round As POTUS"
     excerpt: "In 2014, while he was vice-president, Biden joked that running for president could potentially hurt his golf game. “If you want to keep your handicap in golf don’t run for pre"

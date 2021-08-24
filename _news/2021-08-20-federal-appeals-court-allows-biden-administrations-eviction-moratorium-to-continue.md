@@ -31,99 +31,115 @@ images:
     isCached: true
 
 related:
-  - title: "Biden administration struggles to project order as Taliban enters Kabul"
-    excerpt: "President Joe Biden and his administration struggled Sunday to project order amid a race by American and other foreign personnel to evacuate Afghanistan as Taliban fighters entered Kabul.\n    \n"
-    publishedDateTime: 2021-08-15T15:03:53Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oD9xOBuzblk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/15/politics/biden-administration-taliban-kabul-afghanistan/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/15/politics/biden-administration-taliban-kabul-afghanistan/index.html"
+  - title: "SCOTUS gave Trump leeway on executive actions. Biden wants the same treatment"
+    excerpt: "The Biden administration faces two major confrontations with the Supreme Court this week, as the justices weigh requests related to the Covid moratorium on evictions and the termination of a Trump practice that forced migrants seeking US asylum to stay in Mexico until their claims could be heard.\n  "
+    publishedDateTime: 2021-08-24T16:16:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HpzaWFCf83k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/24/politics/biden-supreme-court/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/24/politics/biden-supreme-court/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 187
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210824140328-02-joe-biden-john-roberts-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Bush, Obama, Trump, Biden: How four presidents created today's Afghanistan mess"
+    excerpt: "President Joe Biden has said repeatedly over the past four months -- as recently as last week -- that he refuses to hand off the war in Afghanistan to a fifth US president.\n    \n"
+    publishedDateTime: 2021-08-23T23:41:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fXxSz5dNkvo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/23/politics/how-four-presidents-created-afghanistan-mess/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/23/politics/how-four-presidents-created-afghanistan-mess/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210823184143-bush-obama-trump-biden-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden says he doesn't believe Taliban have changed"
+    excerpt: "President Joe Biden said Thursday he doesn't believe the Taliban have changed, as the people of Afghanistan and the international community wait to see how the militants who have seized control of Afghanistan will govern.\n    \n"
+    publishedDateTime: 2021-08-19T15:38:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rlscGiwprLw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/biden-taliban-not-changed/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/biden-taliban-not-changed/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210815102517-antony-blinken-august-15-2021-screengrab-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210819003059-joe-biden-remarks-0818-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Fact-checking Biden's assertion that the Afghan military was '300,000 strong'"
-    excerpt: "Defending his withdrawal of US troops from Afghanistan, President Joe Biden and his administration have emphasized how many people served in the Afghan military before its collapse.\n    \n"
-    publishedDateTime: 2021-08-17T21:22:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q-FJh5t1t_A/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/17/politics/fact-check-biden-afghan-military-size-forces-police/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/17/politics/fact-check-biden-afghan-military-size-forces-police/index.html"
+  - title: "Fact-checking Biden's claim that Afghans didn't want to leave"
+    excerpt: "The Biden administration has been working to mitigate the fallout from the situation in Afghanistan after the Taliban's surprisingly swift takeover of the country. As scenes of Afghans desperate to leave went viral, President Joe Biden announced Monday that the US military will provide assistance to"
+    publishedDateTime: 2021-08-19T13:27:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iHSRoWnR154/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/biden-afghan-visa-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/biden-afghan-visa-fact-check/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210817072728-biden-afghanistan-washington-0816-file-restricted-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210818080453-05-afghanistan-0818-kabul-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration expected to advise Covid booster shots for most Americans"
-    excerpt: "Top health officials in the Biden administration are coalescing around an agreement that most Americans should get Covid booster shots eight months after becoming fully vaccinated, two sources familiar with the discussions tell CNN.\n    \n"
-    publishedDateTime: 2021-08-17T03:27:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DwyirojZha8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/16/politics/covid-19-booster-shots-biden-administration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/16/politics/covid-19-booster-shots-biden-administration/index.html"
+  - title: "Trump's conduct needs a federal investigation"
+    excerpt: "As alarming testimony and facts have continued to emerge about the former president's efforts to overturn the election that he lost, Donald Ayer and Norman Eisen disagree with commentators who say there is \"little reason\" to open an investigation, write Donald Ayer and Norman Eisen. And should he choose"
+    publishedDateTime: 2021-08-20T19:08:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Tpu9bksSR0s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/20/opinions/trump-conduct-needs-federal-investigation-ayer-eisen/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/20/opinions/trump-conduct-needs-federal-investigation-ayer-eisen/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 171
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401061941-01-moderna-covid-19-vaccine-texas-0329-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210222191414-trump-rodgers-oped-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration may compel commercial US airlines to help transport Afghan evacuees "
-    excerpt: "The Biden administration could potentially compel US airlines to help with transporting tens of thousands of Afghan evacuees as the US military struggles to manage the influx of people following the Taliban's takeover of Afghanistan, according to a senior administration official.\n    \n"
-    publishedDateTime: 2021-08-22T01:33:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t-imtUf8KIg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/21/politics/biden-airlines-afghanistan-evacuation/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/21/politics/biden-airlines-afghanistan-evacuation/index.html"
+  - title: "US to ship first of the 500 million Pfizer doses Biden pledged to donate globally"
+    excerpt: "The Biden administration on Tuesday is shipping the first of the 500 million Covid-19 doses that President Joe Biden pledged to share with countries around the world at the Group of Seven summit earlier this year. \n    \n"
+    publishedDateTime: 2021-08-17T15:43:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FEM9gCriQOQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/17/politics/first-of-500-million-pfizer-doses/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/17/politics/first-of-500-million-pfizer-doses/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 166
+    quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210821191758-biden-airlines-afghanistan-evacuation-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704190844-white-house-exterior-0703-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden struggles to find a permanent FDA chief as agency nears approval of Covid-19 vaccine"
-    excerpt: "The US Food and Drug Administration is on the cusp of approving the nation's first Covid-19 vaccine without a permanent leader at the helm, and a nomination doesn't appear to be in sight.\n    \n"
-    publishedDateTime: 2021-08-11T17:19:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7vuztPDnLv4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/11/politics/fda-chief-nomination-struggles/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/11/politics/fda-chief-nomination-struggles/index.html"
+  - title: "Biden administration proposes overhaul of asylum system to speed up claim approval"
+    excerpt: "The Biden administration has proposed a federal regulation that would overhaul the asylum system in an attempt to settle claims at a faster pace and help alleviate the immigration court backlog, the departments of Homeland Security and Justice announced Wednesday.\n    \n"
+    publishedDateTime: 2021-08-18T13:51:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9OUuaSNm0g4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/18/politics/asylum-rules/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/18/politics/asylum-rules/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 165
+    quality: 169
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210810154230-07-biden-harris-remarks-0810-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden's national security adviser says ISIS threat against Kabul airport is 'real' and 'acute'"
-    excerpt: "National security adviser Jake Sullivan said Sunday that the threat of ISIS against the large mass of Americans and Afghans at the Kabul airport trying to evacuate Afghanistan is \"real,\" adding that the US is placing \"paramount priority\" on preventing any terrorist attack.\n    \n"
-    publishedDateTime: 2021-08-22T14:23:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HyYy61kaK-A/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/22/politics/jake-sullivan-afghanistan-isis-threat-kabul-airport-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/22/politics/jake-sullivan-afghanistan-isis-threat-kabul-airport-cnntv/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210822081317-kabul-afghanistan-airport-08-16-2021-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210601182005-01-asylum-seekers-crossing-border-0317-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -142,22 +158,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719210212-title-42-migrants-in-mexico-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Joe Biden’s Kabul Is Not Gerald Ford’s Saigon"
-    excerpt: "Americans saw Ford as a president who had lost control of the levers—abroad and at home. That’s not the case for Biden yet."
-    publishedDateTime: 2021-08-17T17:04:00Z
-    webUrl: "https://www.politico.com/news/magazine/2021/08/17/kabul-biden-afghanistan-ford-saigon-505552"
-    ampWebUrl: "https://www.politico.com/amp/news/magazine/2021/08/17/kabul-biden-afghanistan-ford-saigon-505552"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2021/08/17/kabul-biden-afghanistan-ford-saigon-505552"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/c3/8a/54ce2ab14f8d9278b296d85eb663/ap353665549628-1.jpg"
-        width: 3000
-        height: 2000
         isCached: true
 
 secured: "Ytti3Rf7VnpgXJUR2LyXBj5abtp7fTjxKTAfZPK2GA3mo2kKIiZCyrbLys0LycwN2RSR8LOoGBzag8+hXBOlDv9egyHt9TGz/y5FrhqaqVbRaVe2PqRGQDpMH+r09K/Y7v7vihDBok4o3K8+mw8L5gtgaVyqh1j4EJACotrUMEoj3FKm/YCAszF97TRYPeHKQRUgkW3Zl6eN8B30nxOFOZyoFRB5ty9jiXy6tnu9CWbJmAY8/C7wAJelMBrrckW8NkTkI546P7+voCJM0X7DQSKBbh2qbxGOXILyE55P8bTu2C8TmP9nVUMpCJUecLE5w7g0IkAfgkbXnCcdGAG6J6yi8F9VJWjBJsvSRFhmMkM=;gLN3CHEggwSyZ1utoUJyIw=="

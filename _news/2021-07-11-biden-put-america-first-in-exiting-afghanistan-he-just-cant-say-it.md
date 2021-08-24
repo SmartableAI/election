@@ -32,85 +32,163 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to speak on Afghanistan amid US troop withdrawal and Taliban gains"
-    excerpt: "President Joe Biden will receive an update Thursday on the swiftly concluding war in Afghanistan, where a near-complete withdrawal of American troops is coinciding with major Taliban gains.\n    \n"
-    publishedDateTime: 2021-07-08T11:34:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Xcs9xcRkeaM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/08/politics/biden-afghanistan-speech/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/08/politics/biden-afghanistan-speech/index.html"
+  - title: "Analysis: Why Biden's Afghanistan exit wasn't about good politics"
+    excerpt: "In ending America's longest war, President Joe Biden did something popular. It was never going to help him politically.\n    \n"
+    publishedDateTime: 2021-08-22T20:56:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/saScjv6wFsA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/22/politics/biden-afghanistan-politics-and-polling/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/22/politics/biden-afghanistan-politics-and-polling/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 174
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210705123635-03-bagram-air-base-0705-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210821081029-02-joe-biden-08-20-2021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration still weighing CIA drone strike policy amid Afghanistan withdrawal"
-    excerpt: "As President Joe Biden's withdrawal from Afghanistan nears completion, his administration still hasn't finalized its policy for pursuing terrorists in the country once US troops have departed.\n    \n"
-    publishedDateTime: 2021-07-05T04:07:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pAamsMsBSsY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/05/politics/cia-drone-strike-afghanistan-suspected-terrorists/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/05/politics/cia-drone-strike-afghanistan-suspected-terrorists/index.html"
+  - title: "Biden says 'a number of changes' will ease Afghanistan evacuations"
+    excerpt: "National security adviser Jake Sullivan said Sunday that the threat of ISIS against the large mass of Americans and Afghans at the Kabul airport trying to evacuate Afghanistan is \"real,\" adding that the US is placing \"paramount priority\" on preventing any terrorist attack.\n    \n"
+    publishedDateTime: 2021-08-23T00:32:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HyYy61kaK-A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/22/politics/jake-sullivan-afghanistan-isis-threat-kabul-airport-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/22/politics/jake-sullivan-afghanistan-isis-threat-kabul-airport-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210822163144-01-biden-0822-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "US military gives Biden a deadline to decide on extending Afghanistan evacuations"
+    excerpt: "The US military is advising President Joe Biden that he must decide by Tuesday whether to extend the evacuation in Afghanistan beyond August 31, according to a defense official directly familiar with the discussions.\n    \n"
+    publishedDateTime: 2021-08-23T20:55:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jks18wha7kU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/23/politics/afghanistan-kabul-airport-military-deadline/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/23/politics/afghanistan-kabul-airport-military-deadline/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210822081317-kabul-afghanistan-airport-08-16-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Why Americans may ultimately not care about Biden's Afghanistan performance "
+    excerpt: "Poll of the week: A new AP-NORC poll shows President Joe Biden's approval rating on foreign policy has fallen to 47%, while his approval rating stands at 51%. It's the fi​​rst time in his presidency that Biden's approval rating on foreign policy is below his disapproval rating in the AP-NORC poll.\n "
+    publishedDateTime: 2021-08-21T19:02:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SX7ZNK85m8I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/21/politics/biden-afghanistan-polling-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/21/politics/biden-afghanistan-polling-analysis/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 167
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160307121830-mq-9-reaper-drone-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210820141557-05-biden-presser-afghanistan-0820-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden grows visibly frustrated with questions on Afghanistan: 'This is a holiday weekend, I'm going to celebrate it'"
-    excerpt: "President Joe Biden grew visibly irritated Friday when questioned about the state of Afghanistan, where a formal withdrawal is nearly complete, and a major US air base was officially handed over even as US generals warn of a looming civil war.\n    \n"
-    publishedDateTime: 2021-07-02T15:44:31Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/W6InbM2Kx7s/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/02/politics/afghanistan-biden-questions/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/afghanistan-biden-questions/index.html"
+  - title: "Fact check: Biden claims al Qaeda is 'gone' from Afghanistan. Then the Pentagon confirms it's still there"
+    excerpt: "Defending the withdrawal of US troops from Afghanistan, President Joe Biden said at the White House on Friday: \"Look, let's put this thing in perspective. What interest do we have in Afghanistan at this point, with al Qaeda gone? We went to Afghanistan for the express purpose of getting rid of al Qaeda"
+    publishedDateTime: 2021-08-21T00:14:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/S_Na-cJiO94/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/20/politics/fact-check-al-qaeda-gone-afghanistan-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/20/politics/fact-check-al-qaeda-gone-afghanistan-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 152
+    quality: 158
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210627200716-joe-biden-0625-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210820141557-05-biden-presser-afghanistan-0820-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Russian vote to keep crucial Syrian border crossing open to humanitarian aid hands Biden administration a key diplomatic win"
-    excerpt: "The Biden administration scored a key diplomatic victory Friday after Russia agreed to keep a crucial border crossing open in Syria for another year, allowing the United Nations to continue delivering crucial humanitarian aid to millions of Syrians who have been displaced by the decade-long civil war.\n"
-    publishedDateTime: 2021-07-09T21:17:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bKM61oDWMN8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/russia-us-united-nations-syria/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/russia-us-united-nations-syria/index.html"
+  - title: "Analysis: Fauci's new 2022 timeline for Covid fight could be a political disaster for Biden and Democrats"
+    excerpt: "President Joe Biden just got some deeply unwelcome news: The pandemic that he was elected to end could drag on deep into a midterm election year, with all the political and economic destruction that could bring.\n    \n"
+    publishedDateTime: 2021-08-24T04:47:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/11dJIea8mP8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/24/politics/anthony-fauci-timeline-covid-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/24/politics/anthony-fauci-timeline-covid-joe-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 148
+    quality: 158
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191216185643-02-united-nations-headquarters-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210816150025-01-biden-arrives-white-house-0816-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Fact check: Biden's dubious claim that 'the law doesn't allow' Afghan translators to be evacuated to US while they wait for visas"
-    excerpt: "Thousands of Afghans who worked with American troops face grave danger as a result of the ongoing US military withdrawal from Afghanistan.\n    \n"
-    publishedDateTime: 2021-07-14T20:21:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XqZcs1oBIPs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/14/politics/fact-check-biden-law-afghanistan-siv-visas-law-parole-guam/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/14/politics/fact-check-biden-law-afghanistan-siv-visas-law-parole-guam/index.html"
+  - title: "Biden and other G7 leaders expected to discuss whether or when they should recognize Taliban as Afghanistan's government"
+    excerpt: "The heads of the world's leading democracies plan on Tuesday to discuss whether or when they should jointly recognize the Taliban as Afghanistan's government, western officials familiar with the planning told CNN.\n    \n"
+    publishedDateTime: 2021-08-24T13:25:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c5Km9Ad6Qiw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/24/politics/joe-biden-g7-afghanistan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/24/politics/joe-biden-g7-afghanistan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210822163144-01-biden-0822-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "'This makes Benghazi look like a much smaller issue': House Republicans vow to probe Biden's Afghanistan exit if they win in 2022"
+    excerpt: "Some Republicans see the fallout over the US exit from Afghanistan as their new Benghazi -- a foreign policy blunder ripe for investigation that could provide just the political ammunition they need to dent a popular Democratic President.\n    \n"
+    publishedDateTime: 2021-08-20T10:01:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AOA9gQHtcWk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/20/politics/house-republicans-afghanistan-biden-benghazi/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/20/politics/house-republicans-afghanistan-biden-benghazi/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 146
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210708143551-02-biden-afghanistan-remarks-0708-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210729152353-us-capitol-building-0726-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden Meets With President Ashraf Ghani of Afghanistan"
+    excerpt: "President Biden tried to reassure Mr. Ghani that the U.S. would continue to support Afghanistan even after withdrawing troops. In Texas, Vice President Kamala Harris said immigration could not “be reduced to a political issue."
+    publishedDateTime: 2021-06-25T19:14:00Z
+    webUrl: "https://www.nytimes.com/live/2021/06/25/us/joe-biden-news"
+    ampWebUrl: "https://www.nytimes.com/live/2021/06/25/us/joe-biden-news.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/06/25/us/joe-biden-news.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/25/lens/25new-washington-briefing-promo1/25new-washington-briefing-promo1-videoSixteenByNine3000.jpg"
+        width: 3000
+        height: 1687
+        isCached: true
+  - title: "Afghanistan Withdrawal Process is ‘On Track,’ Biden Says"
+    excerpt: "President Biden said on Friday that he believed Afghanistan had the capacity to sustain its government despite the Taliban’s territorial gains. His remarks came after American troops departed from Bagram,"
+    publishedDateTime: 2021-07-02T17:26:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007848062/biden-afghanistan-withdrawl.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/02/us/02new-washington-briefing-afghanistan/02new-washington-briefing-afghanistan-facebookJumbo.jpg?video-overlay?video-overlay?video-overlay"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "LNUg5CioJjkrSTuK2PiqI3dzz8RMlNxMBu9xpffDq/reRHJYjBRbpm3OH3mGYxraPfhzS2v0hxD0WHnhEAe4i3yM6Hv/kGE+IcTujvCmedgvEvj9sNuYPDjVpTEy7rZkstCQ8jLXpZEMf50Exdu3V1XBtq52HF624CLmoOd8ffIemR9jjW5kSIrz5zY2dI9tYdVx7vaahZBX7uQNuKT9xD005wUAPXEu+I+bYUV8EI5aByyXNGLdagvXNGnqCkSJ3n+pz/N9cm0pRfLapx1JiZOjsYM7QeDUrYca9WnTThDeJ4zq7M0LnJxY7YCGRra9XA/Bn9z5P+tjq0XikvtqFviz8zbqCwTnrcbDSnXpAFk=;JZKNqoydNNZRLsAl9pn70w=="
