@@ -31,371 +31,179 @@ images:
     isCached: true
 
 related:
-  - title: "Biden forges ahead where Trump and Obama failed on infrastructure and Afghanistan"
-    excerpt: "Every president since George W. Bush has said it's time to leave Afghanistan and turn to nation building at home.\n    \n"
-    publishedDateTime: 2021-08-12T11:27:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LvOfikeAgF0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/12/politics/joe-biden-donald-trump-barack-obama-afghanistan-infrastructure/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/12/politics/joe-biden-donald-trump-barack-obama-afghanistan-infrastructure/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 185
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210811142120-01-biden-0811-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Obama praises Biden's 'bold leadership' on Afghanistan withdrawal"
-    excerpt: "Former President Barack Obama on Wednesday praised President Joe Biden's \"bold leadership\" for his decision to withdraw all US troops from Afghanistan by September 11, saying that \"it is time to recognize that we have accomplished all that we can militarily\" in America's longest war.\n    \n"
-    publishedDateTime: 2021-04-14T19:46:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ty0BXQf4FVQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/obama-biden-afghanistan-troop-withdrawal/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/obama-biden-afghanistan-troop-withdrawal/index.html"
+  - title: "Fact-checking claim Biden administration is pushing vaccine passport"
+    excerpt: "Amid confusion over mask mandates, booster shots, and new guidance for those vaccinated, some Republicans have thrown fuel on the fire with false and misleading claims.\n    \n"
+    publishedDateTime: 2021-08-07T16:30:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LYv1KLMn5Zo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/07/politics/biden-vaccine-passport-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/07/politics/biden-vaccine-passport-fact-check/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210414151832-obama-biden-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210726095519-france-covid-pass-law-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Why the infrastructure bill is more important than ever for Biden "
-    excerpt: "The bipartisan infrastructure bill making its precarious way through the Senate was always a cornerstone of Joe Biden's presidency. Now, it's even more vital for an administration badly needing wins as the White House struggles to navigate multiple crises.\n    \n"
-    publishedDateTime: 2021-08-06T04:03:57Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EdJk4uGXWdc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/06/politics/president-joe-biden-senate-infrastructure-politics-republicans/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/06/politics/president-joe-biden-senate-infrastructure-politics-republicans/index.html"
+  - title: "Why Biden's seen a (slight) decline in his approval ratings"
+    excerpt: "Poll of the week: A new Quinnipiac University poll finds that President Joe Biden's approval rating stands at 46%, while his disapproval rating sits at 43%. His approval rating in Quinnipiac's previous poll was 49%.\n    \n"
+    publishedDateTime: 2021-08-08T16:01:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BwUyNSG9in4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/08/politics/biden-approval-ratings-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/08/politics/biden-approval-ratings-analysis/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210805094717-02-joe-biden-0729-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210806113712-02-biden-jobs-report-0806-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden set to speak following major infrastructure wins in the Senate"
-    excerpt: "President Joe Biden is set to deliver remarks from the White House Wednesday afternoon addressing his recovery agenda following the Senate passage of his infrastructure bill and a budget resolution encompassing much of the rest of his domestic legislative goals.\n    \n"
-    publishedDateTime: 2021-08-11T15:47:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E_uce8J3D7A/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/11/politics/joe-biden-infrastructure-passage-speech/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/11/politics/joe-biden-infrastructure-passage-speech/index.html"
+  - title: "Biden issues executive order targeting Belarusian regime"
+    excerpt: "President Joe Biden issued a sweeping executive order Monday to target those in the Belarusian regime involved in the repression of human rights and democracy in the former Soviet state.\n    \n"
+    publishedDateTime: 2021-08-09T15:32:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ymysv6Ie-JE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/09/politics/belarus-executive-order-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/09/politics/belarus-executive-order-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210810152440-06-biden-harris-remarks-0810-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210728140245-biden-tsikhanouskaya-0728-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to return to White House for address on Afghanistan "
-    excerpt: "President Joe Biden will address the situation in Afghanistan from the White House on Monday afternoon, as he faces mounting questions about his administration's apparent failure to prepare for the collapse of that nation's government.\n    \n"
-    publishedDateTime: 2021-08-16T15:15:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j960qeCIaG0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/16/politics/biden-afghanistan-speech/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/16/politics/biden-afghanistan-speech/index.html"
+  - title: "Landlords aim to block Biden's new eviction moratorium in appeals court"
+    excerpt: "Landlord groups challenging the Biden administration's eviction moratorium are now turning to the US Court of Appeals for the DC Circuit to try to block the extension of the moratorium.\n    \n"
+    publishedDateTime: 2021-08-15T02:38:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mU1z1EZd7jo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/14/politics/eviction-moratorium-landlords-appeal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/14/politics/eviction-moratorium-landlords-appeal/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210816043050-joe-biden-camp-david-afghanistan-briefing-0815-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210814150207-eviction-moratorium-landlords-appeal-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Desperate scenes lay bare an Afghan defeat that Biden cannot deny"
-    excerpt: "Instantly iconic imagery now bookends the lost war in Afghanistan, telling a poignant tale of a just venture born out of national tragedy ending in a chaotic US retreat on President Joe Biden's watch.\n    \n"
-    publishedDateTime: 2021-08-17T10:04:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PzyqwuPdLsI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/17/politics/joe-biden-afghanistan-defeat/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/17/politics/joe-biden-afghanistan-defeat/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210816160754-02-biden-afghanistan-remarks-0816-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Inside Biden's defiant Afghanistan response"
-    excerpt: "By the time images of desperate Afghans clinging to American warplanes began emerging from Kabul on Monday morning, President Joe Biden had conceded to aides he had little choice but to interrupt his stay at Camp David to return to the White House.\n    \n"
-    publishedDateTime: 2021-08-17T00:42:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Uj6tzd6qzXE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/16/politics/white-house-afghanistan-biden-crises/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/16/politics/white-house-afghanistan-biden-crises/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210816162517-03-biden-afghanistan-remarks-0816-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Democrats ramp up oversight over Biden's Afghan withdrawal"
-    excerpt: "Congressional Democrats are preparing a series of hearings on the US withdrawal from Afghanistan amid rising anger about the Biden administration's handling of the end of the war, with the Taliban rapidly taking control and the US chaotically scrambling to evacuate Americans and vulnerable Afghan allies.\n"
-    publishedDateTime: 2021-08-18T14:23:09Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PyN92fsmKW8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/18/politics/democratic-response-afghanistan-withdrawal/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/18/politics/democratic-response-afghanistan-withdrawal/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210311103227-08-blinken-diversity-state-dept-menendez-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden's presidency is under scrutiny as never before over Afghan chaos"
-    excerpt: "President Joe Biden is struggling against an intensifying examination of his judgment, competence and even his empathy over the chaotic US exit from Afghanistan. And each attempt the administration makes to quell a furor that's tarnishing America's image only provokes more questions about its failures"
-    publishedDateTime: 2021-08-19T06:43:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7Dz6QRLgD9Y/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/joe-biden-presidency-under-scrutiny/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/joe-biden-presidency-under-scrutiny/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210818181116-02-biden-remarks-081821-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fact-checking Biden's ABC interview on Afghanistan"
-    excerpt: "President Joe Biden sat down with ABC News anchor George Stephanopoulos on Wednesday for an interview that focused on the US withdrawal from Afghanistan.\n    \n"
-    publishedDateTime: 2021-08-19T19:56:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LGaw364N-_k/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/fact-check-biden-abc-interview-afghanistan-stephanopoulos/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/fact-check-biden-abc-interview-afghanistan-stephanopoulos/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210818173332-joe-biden-abc-news-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "More than 50 senators urge Biden to quickly evacuate Afghan allies"
-    excerpt: "A bipartisan group of 53 senators is urging President Joe Biden to quickly evacuate Afghan Special Immigrant Visa (SIV) applicants and their families and fully implement changes to the program signed into law in late July.\n    \n"
-    publishedDateTime: 2021-08-19T14:24:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y7dOGN5l6mA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/biden-senators-siv-letter/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/biden-senators-siv-letter/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210816160554-01-biden-afghanistan-remarks-0816-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden on chaotic Afghanistan withdrawal: 'I don't think it was a failure'"
-    excerpt: "President Joe Biden on Wednesday defiantly defended his administration's execution of the withdrawal of US troops from Afghanistan, saying that he doesn't think the crisis represents a failure and there was no way to better handle the end to the nation's longest war.\n    \n"
-    publishedDateTime: 2021-08-18T21:22:41Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9HPzv7E2ukU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/18/politics/joe-biden-afghanistan-failure/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/18/politics/joe-biden-afghanistan-failure/index.html"
+  - title: "Biden's new eviction moratorium can remain in place for now, judge rules"
+    excerpt: "A federal judge in Washington, DC, on Friday allowed the Biden administration's revised eviction moratorium to remain in place, but acknowledged the moratorium faces an uncertain legal future.\n    \n"
+    publishedDateTime: 2021-08-13T17:48:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SSmYWWXTEIw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/13/politics/eviction-moratorium/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/13/politics/eviction-moratorium/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210818163614-01-biden-covid-remarks-0818-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210813101756-eviction-protest-nyc-0811-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Former Trump official says US 'pulled the rug out from under the Afghans'"
-    excerpt: "A former Trump administration official said Thursday evening that the Biden administration's decision to stick with the US' 2020 agreement with the Taliban is \"why we are where we are now\" and that the US has \"literally pulled the rug out from under the Afghans.\"\n    \n"
-    publishedDateTime: 2021-08-20T03:05:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ocb8chhv1ds/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/afghanistan-biden-trump-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/afghanistan-biden-trump-cnntv/index.html"
+  - title: "Biden touts LGBTQ diversity in announcing sixth round of judicial nominees"
+    excerpt: "President Joe Biden on Thursday announced four judicial nominees, including two barrier-breaking nominations of LGBTQ judges, marking his sixth round of judicial nominees since taking office as his administration seeks to maintain a rapid pace of nominations and confirmations.\n    \n"
+    publishedDateTime: 2021-08-05T14:37:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WHFzKZz_Z_Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/05/politics/biden-judicial-nominees/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/05/politics/biden-judicial-nominees/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 174
+    quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210819153621-02-afghanistan-0819-kabul-taliban-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210803165508-01-biden-0803-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden spoke with Obama and Bush ahead of Afghanistan withdrawal announcement"
-    excerpt: "Former President Barack Obama on Wednesday praised President Joe Biden's \"bold leadership\" for his decision to withdraw all US troops from Afghanistan by September 11, saying that \"it is time to recognize that we have accomplished all that we can militarily\" in America's longest war.\n    \n"
-    publishedDateTime: 2021-04-15T02:37:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ty0BXQf4FVQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/obama-biden-afghanistan-troop-withdrawal/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/obama-biden-afghanistan-troop-withdrawal/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210414143405-02-biden-afghanistan-remarks-0414-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden's botched Afghan exit is a disaster at home and abroad long in the making"
-    excerpt: "The debacle of the US defeat and chaotic retreat in Afghanistan is a political disaster for Joe Biden, whose failure to orchestrate an urgent and orderly exit will further rock a presidency plagued by crises and stain his legacy.\n    \n"
-    publishedDateTime: 2021-08-16T06:12:42Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DauauVXUhBI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/16/politics/afghanistan-joe-biden-donald-trump-kabul-politics/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/16/politics/afghanistan-joe-biden-donald-trump-kabul-politics/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210816002128-taliban-flag-ghazni-0815-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden administration reverts to internal blame-shifting amid Afghanistan chaos "
-    excerpt: "Factions within the Biden administration are embroiled in a blame game over why the US government didn't act sooner to withdraw American citizens and Afghans who helped the US over two decades of war, leading to a rushed and dangerous evacuation.\n    \n"
-    publishedDateTime: 2021-08-17T11:01:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wGi18KLL_QU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/17/politics/biden-afghanistan-blame-shifting/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/17/politics/biden-afghanistan-blame-shifting/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210816162517-03-biden-afghanistan-remarks-0816-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "GOP Senate candidates align with Trump in bashing bipartisan infrastructure bill"
-    excerpt: "Sen. Rob Portman, the longtime Washington veteran and savvy deal-cutter, is on the cusp of achieving a major bipartisan achievement that would amount to a capstone of his three decades of public service: The Senate's passage of a roughly $1 trillion package to rebuild the nation's infrastructure.\n  "
-    publishedDateTime: 2021-08-06T17:54:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KO4QOhKUq7Y/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/06/politics/infrastructure-republican-senate-candidates/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/06/politics/infrastructure-republican-senate-candidates/index.html"
+  - title: "Democratic organizations prepare to defend the Biden agenda during August recess "
+    excerpt: "A range of Democratic committees and organizations are gearing up to defend President Joe Biden's agenda with what they hope will be a cohesive message during Congress' August recess, a sign of how critical Biden's popularity is to the party's success in 2022 and beyond.\n    \n"
+    publishedDateTime: 2021-08-11T15:34:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DJSp6RViDHE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/11/politics/democratic-organizations-to-push-biden-agenda-during-recess/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/11/politics/democratic-organizations-to-push-biden-agenda-during-recess/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210806094525-josh-mandel-2014-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210810154841-08-biden-harris-remarks-0810-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden celebrates a bipartisan win after Senate passes massive infrastructure bill"
-    excerpt: "President Joe Biden celebrated the Senate's passage of a historic, sweeping $1.2 trillion bipartisan package on Tuesday, a step toward fulfilling a key item in his legislative agenda that also amounts to the biggest bipartisan win of his presidency so far.\n    \n"
-    publishedDateTime: 2021-08-10T19:22:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NMZ4prelCvc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/10/politics/joe-biden-infrastructure-package-senate-passage/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/10/politics/joe-biden-infrastructure-package-senate-passage/index.html"
+  - title: "Biden extends temporary safe haven to Hong Kong residents in US amid China crackdown "
+    excerpt: "President Joe Biden on Thursday signed a memorandum extending temporary safe haven to certain Hong Kong residents in the US amid ongoing repression and undermining of democracy by China.\n    \n"
+    publishedDateTime: 2021-08-05T14:44:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jihOUX8COAY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/05/politics/deferred-enforced-departure-hong-kong-china/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/05/politics/deferred-enforced-departure-hong-kong-china/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 170
+    quality: 168
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210810152029-05-biden-harris-remarks-0810-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716145103-white-house-file-0306-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "How the Biden administration plans to process the influx of people fleeing Afghanistan"
-    excerpt: "The Biden administration is ramping up efforts to process the influx of Afghans rushing to flee Afghanistan as the Taliban overtakes the country.\n    \n"
-    publishedDateTime: 2021-08-20T00:51:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TrfY_2RIoVU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/afghanistan-siv-processing/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/afghanistan-siv-processing/index.html"
+  - title: "Biden's ATF pick faces grim confirmation prospects as key Democrats withhold support"
+    excerpt: "President Joe Biden's pick of David Chipman to serve as the head of the ATF is nearing collapse, with members of the Senate Democratic Caucus withholding support and the chamber unlikely to hold a vote to advance the nomination before the August recess.\n    \n"
+    publishedDateTime: 2021-08-05T16:06:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/92FjdIURnBQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/05/politics/biden-atf-david-chipman/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/05/politics/biden-atf-david-chipman/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210525164345-david-chipman-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "As the climate crisis worsens in the US, pressure for action from Biden and Kerry grows"
+    excerpt: "In a summer of deadly and life-altering extreme weather, the Biden administration and Democrats are walking a tightrope, with a razor-thin majority in Congress, to enact policies that will reroute the US economy away from fossil fuels and show the world that the US will lead on climate change.\n    \n"
+    publishedDateTime: 2021-08-14T14:01:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vEstYXUxLWY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/14/politics/biden-kerry-climate-change/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/14/politics/biden-kerry-climate-change/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 167
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210819174643-02-afghanistan-siv-processing-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210811070029-biden-harris-kerry-climate-0127-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "August turns into a month of crises as Biden stares down a pivotal point in his presidency"
-    excerpt: "President Joe Biden is facing multiple August crises with Afghanistan on the verge of collapse, Covid-19 patients overwhelming hospitals in some states, persistent inflation concerns, an uncertain path forward for his sweeping infrastructure agenda and surging attempted border crossings.\n    \n"
-    publishedDateTime: 2021-08-14T13:26:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L1f7y2s_Usw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/14/politics/biden-august-crises-afghanistan-covid-inflation-border/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/14/politics/biden-august-crises-afghanistan-covid-inflation-border/index.html"
+  - title: "White House seeks to reassure Democrats anxious over inflation concerns in Biden's agenda"
+    excerpt: "A top economic aide to President Joe Biden moved to reassure moderate Democratic moderates that the new $3.5 trillion budget bill would not fuel long-term inflation as they begin pivoting toward the next obstacle to the administration's economic agenda.\n    \n"
+    publishedDateTime: 2021-08-10T16:59:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pP60sRnxWLI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/10/politics/white-house-inflation-memo/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/10/politics/white-house-inflation-memo/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 165
+    quality: 166
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210812140239-01-biden-0812-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "US holding direct and daily talks with Taliban in effort to ease Biden's Afghanistan crisis"
-    excerpt: "While the US State Department continues to engage in high-level diplomatic talks with the Taliban in the neutral setting of Doha, Qatar, as it has for the past year, the real negotiations have moved to the chaotic streets of Kabul in recent days, where American military commanders are in constant communication"
-    publishedDateTime: 2021-08-20T01:34:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZK2kKfvQbtY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/taliban-talks-salvage-afghanistan-crisis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/taliban-talks-salvage-afghanistan-crisis/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210819151250-01-afghanistan-women-taliban-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "As White House scrambles on Afghanistan, Biden faces some of most dire days of his presidency"
-    excerpt: "Two photographs of President Joe Biden this week neatly illustrated the White House's fight to contain the fallout of the biggest crisis of his presidency.\n    \n"
-    publishedDateTime: 2021-08-19T23:23:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3jKoHTjvJGU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/joe-biden-afghanistan-dire-days-of-presidency/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/joe-biden-afghanistan-dire-days-of-presidency/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 164
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210819174626-01-afghanistan-siv-processing-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Esper: Trump's push to get US troops out of Afghanistan possibly 'undermined' deal with Taliban"
-    excerpt: "Former Defense Secretary Mark Esper said Tuesday that he was concerned that then-President Donald Trump \"undermined\" the US' 2020 agreement with the Taliban by pushing for US forces to leave Afghanistan without the Taliban meeting the conditions of the deal.\n    \n"
-    publishedDateTime: 2021-08-18T11:01:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DojV4CnXtSE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/17/politics/mark-esper-donald-trump-taliban-afghanistan-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/17/politics/mark-esper-donald-trump-taliban-afghanistan-cnntv/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200714171751-01-mark-esper-0709-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210208095509-brian-deese-file-0122-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -415,70 +223,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration faces daunting odds of pulling off massive Afghanistan evacuation in 2 weeks"
-    excerpt: "The Biden administration is still struggling to answer basic questions about whether it can successfully evacuate tens of thousands of Americans and vulnerable Afghans in a race against a ticking clock ahead of the US military's August 31 Afghanistan withdrawal date.\n    \n"
-    publishedDateTime: 2021-08-18T11:01:38Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PYCL5DayScs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/18/politics/biden-afghanistan-evacuation-daunting-odds/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/18/politics/biden-afghanistan-evacuation-daunting-odds/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210817084902-32-taliban-afghanistan-unf-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "As White House scrambles on Afghanistan, Biden faces some of the most dire days of his presidency"
-    excerpt: "Two photographs of President Joe Biden this week neatly illustrated the White House's fight to contain the fallout of the biggest crisis of his presidency.\n    \n"
-    publishedDateTime: 2021-08-20T00:21:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3jKoHTjvJGU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/joe-biden-afghanistan-dire-days-of-presidency/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/joe-biden-afghanistan-dire-days-of-presidency/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210819174626-01-afghanistan-siv-processing-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Top Republican on foreign affairs committee slams Biden over 'unmitigated disaster' in Afghanistan"
-    excerpt: "The top Republican on the House Foreign Affairs Committee slammed the Biden administration over the rapidly deteriorating situation in Afghanistan on Sunday, calling it an \"unmitigated disaster of epic proportions\" that could lead to dire consequences.\n    \n"
-    publishedDateTime: 2021-08-15T15:24:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2H4YWLWlQcE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/15/politics/michael-mccaul-afghanistan-withdrawal-criticism-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/15/politics/michael-mccaul-afghanistan-withdrawal-criticism-cnntv/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210530134015-michael-mccaul-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Democrats grapple with Afghanistan fallout after Biden administration ignored their previous warnings"
-    excerpt: "Democrats on Capitol Hill are grappling with the political fallout in Washington of a crisis they warned the Biden administration months ago could become a fiasco on the world stage, as horrific images pour out of Kabul with residents desperately trying to flee.\n    \n"
-    publishedDateTime: 2021-08-16T22:25:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pe8tUbUG6FI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/16/politics/democratic-reaction-biden-afghanistan/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/16/politics/democratic-reaction-biden-afghanistan/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 160
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180428152112-senator-mark-warner-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "How two long-term Biden aides led efforts to court Republicans ahead of the Senate infrastructure deal"
     excerpt: "In touting the $1.2 trillion infrastructure bill hours after it passed the Senate with 19 Republican votes on Tuesday, President Joe Biden took a moment to needle his critics.\n    \n"
     publishedDateTime: 2021-08-13T10:00:56Z
@@ -495,179 +239,99 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "US is working directly with Taliban leaders on the ground trying to salvage Biden's crisis in Afghanistan"
-    excerpt: "While the US State Department continues to engage in high-level diplomatic talks with the Taliban in the neutral setting of Doha, Qatar, as it has for the past year, the real negotiations have moved to the chaotic streets of Kabul in recent days, where American military commanders are in constant communication"
-    publishedDateTime: 2021-08-19T23:49:25Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZK2kKfvQbtY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/taliban-talks-salvage-afghanistan-crisis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/taliban-talks-salvage-afghanistan-crisis/index.html"
+  - title: "'Final warning': Lawmakers, Biden administration sound alarm over UN climate report and urge swift action"
+    excerpt: "Lawmakers and top climate officials in President Joe Biden's administration sounded the alarm on Monday in response to a new report from the United Nations' Intergovernmental Panel on Climate Change, urging nations to swiftly limit global warming to 1.5 degrees Celsius.\n    \n"
+    publishedDateTime: 2021-08-09T12:57:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zuzO88Hxck0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/09/politics/un-climate-report-us-lawmakers/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/09/politics/un-climate-report-us-lawmakers/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 158
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210819151250-01-afghanistan-women-taliban-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210809083701-un-climate-report-us-lawmakers-exxonmobil-texas-0728-file-restricted-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Ex-defense secretary: Trump's push to get US troops out of Afghanistan possibly 'undermined' deal with Taliban"
-    excerpt: "Former Defense Secretary Mark Esper said Tuesday that he was concerned that then-President Donald Trump \"undermined\" the US' 2020 agreement with the Taliban by pushing for US forces to leave Afghanistan without the Taliban meeting the conditions of the deal.\n    \n"
-    publishedDateTime: 2021-08-17T21:06:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DojV4CnXtSE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/17/politics/mark-esper-donald-trump-taliban-afghanistan-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/17/politics/mark-esper-donald-trump-taliban-afghanistan-cnntv/index.html"
+  - title: "Biden offers temporary 'safe haven' to Hong Kong residents in U.S."
+    excerpt: "President Joe Biden on Thursday offered temporary \"safe haven\" to Hong Kong residents in the United States, allowing potentially thousands of people to extend their stay in the country in response to Beijing's crackdown on democracy in the Chinese territory."
+    publishedDateTime: 2021-08-05T16:53:00Z
+    webUrl: "https://www.nbcnews.com/news/world/biden-offers-temporary-safe-haven-hong-kong-residents-u-s-n1276041"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1276041"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1276041"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 155
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200714171751-01-mark-esper-0709-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden promised allies 'America is back.' Chaotic Afghanistan withdrawal is making them fear it's still 'America First.'"
-    excerpt: "Visiting Brussels earlier this summer, President Joe Biden was single-minded in his message to American allies.\n    \n"
-    publishedDateTime: 2021-08-18T23:00:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7nZQgGcGVL8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/18/politics/america-is-back-joe-biden-afghanistan/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/18/politics/america-is-back-joe-biden-afghanistan/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 151
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210816160754-02-biden-afghanistan-remarks-0816-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden's national security adviser says Taliban committed to allowing safe passage for civilians looking to escape Afghanistan"
-    excerpt: "White House national security adviser Jake Sullivan on Tuesday defended the US' chaotic withdrawal from Afghanistan, telling reporters that President Joe Biden \"is taking responsibility for every decision the United States government took with respect to Afghanistan.\"\n    \n"
-    publishedDateTime: 2021-08-17T19:11:00Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pSt0EYCq7jw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/17/politics/biden-jake-sullivan-afghanistan/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/17/politics/biden-jake-sullivan-afghanistan/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 148
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210502114359-jake-sullivan-0204-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Joy Reid critiques Mike Pence writing Biden showed ‘weakness’ on Afghanistan withdrawal"
-    excerpt: "Mike Pence writing that President Biden showed ‘weakness’ on his Afghanistan withdrawal plan is critiqued by Joy Reid in this edition of ‘The Absolute Worst.’"
-    publishedDateTime: 2021-08-19T06:15:00Z
-    webUrl: "https://www.msnbc.com/the-reidout/watch/mike-pence-writing-biden-showed-weakness-on-afghanistan-withdrawal-critiqued-by-joy-reid-119002693670"
-    ampWebUrl: "https://www.msnbc.com/msnbc/amp-video/mmvo119002693670"
-    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo119002693670"
-    type: article
-    provider:
-      name: MSNBC
-      domain: msnbc.com
-    quality: 142
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_08/1629336795625_n_reidout_penceabsoluteworst_210818_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Joe Biden is taking a calculated risk in Afghanistan"
-    excerpt: "While the US is leaving the war, the people of Afghanistan can't. The President's decision could hasten the Taliban's toppling of Afghanistan's tenuous democracy, ushering in a new fundamentalist dark age."
-    publishedDateTime: 2021-04-15T23:19:00Z
-    webUrl: "https://www.cnn.com/2021/04/15/world/meanwhile-in-america-april-16-intl/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/15/world/meanwhile-in-america-april-16-intl/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/15/world/meanwhile-in-america-april-16-intl/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
+      name: NBC News
+      domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210414150627-05-biden-afghanistan-remarks-0414-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_31/3496937/210805-biden-mb-1636.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Why Biden Is Right to Leave Afghanistan"
-    excerpt: "The president should ignore the powerful voices in Washington pushing him to reverse course and not end our longest war."
-    publishedDateTime: 2021-05-20T19:00:00Z
-    webUrl: "https://www.nytimes.com/2021/05/20/opinion/biden-afghanistan-war.html"
-    ampWebUrl: "https://www.nytimes.com/2021/05/20/opinion/biden-afghanistan-war.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/20/opinion/biden-afghanistan-war.amp.html"
+  - title: "Senators urge Biden administration to protect LGBTQ asylum-seekers"
+    excerpt: "A group of senators urged the State Department to take steps to better support LGBTQ asylum-seekers.The <a href=\""
+    publishedDateTime: 2021-08-09T18:49:00Z
+    webUrl: "https://www.nbcnews.com/nbc-out/out-politics-and-policy/senators-urge-biden-administration-protect-lgbtq-asylum-seekers-rcna1614"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna1614"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1614"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
+      name: NBC News
+      domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/05/19/opinion/19scahill/19scahill-videoSixteenByNine3000.jpg"
-        width: 3000
-        height: 1689
-        isCached: true
-  - title: "Joe Biden bets a war-weary America will reward him for leaving Afghanistan"
-    excerpt: "\"It's hard to see Republicans winning elections on a campaign promise to go back to war in Afghanistan in 2022 or 2024,\" says a Democratic consultant."
-    publishedDateTime: 2021-08-19T14:10:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/joe-biden-bets-war-weary-america-will-reward-him-leaving-n1277104"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1277104"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1277104"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 133
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_33/3500168/210819-soldiers-depart-afghanistan-al-1002.jpg"
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-08/210809-amy-klobuchar-mn-1006-2c1efb.jpg"
         width: 2500
-        height: 1406
+        height: 1535
         isCached: true
-  - title: "A defiant Biden mostly silent amid Afghanistan criticism as WH weighs response"
-    excerpt: "Democrats on Capitol Hill and former Obama administration officials joined Republicans over the weekend in publicly criticizing the president’s handling of the situation."
-    publishedDateTime: 2021-08-16T11:51:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-weighs-address-nation-afghanistan-crumbles-n1276885"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1276885"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1276885"
+  - title: "'Down the drain’: Millions face eviction after Biden lets protections expire"
+    excerpt: "The federal eviction moratorium in place since September is set to expire Saturday, after the Biden administration refused to extend it and Democrats in Congress couldn't muster the votes to intervene."
+    publishedDateTime: 2021-07-31T11:00:00Z
+    webUrl: "https://www.politico.com/news/2021/07/31/eviction-moratorium-rental-assistance-biden-501917"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/07/31/eviction-moratorium-rental-assistance-biden-501917"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/31/eviction-moratorium-rental-assistance-biden-501917"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 132
+    images:
+      - url: "https://static.politico.com/40/99/4793f7c7413585b384ff270145fb/7-30-21-evictions1-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Senate to vote on massive infrastructure package that is centerpiece of Biden agenda"
+    excerpt: "The legislation faces hurdles in the House before it can be sent to Biden’s desk and cement a major bipartisan achievement."
+    publishedDateTime: 2021-08-10T13:54:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/senate-vote-massive-infrastructure-package-centerpiece-biden-agenda-n1276134"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1276134"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1276134"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 131
+    quality: 128
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_32/3498568/210812-joe-biden-jm-0947.jpg"
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_32/3497973/210810-construction-capitol-jm-0934.jpg"
         width: 2500
-        height: 1603
+        height: 1667
         isCached: true
-  - title: "President Biden faces backlash with American citizens still struggling to flee Afghanistan"
-    excerpt: "U.S. officials say another 6,000 people made it safely to the Kabul airport and are awaiting evacuation. Pressed repeatedly, State Department officials could not say how many Americans still need to be rescued."
-    publishedDateTime: 2021-08-19T23:21:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/president-biden-faces-backlash-with-american-citizens-still-struggling-to-flee-afghanistan-119076421973"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo119076421973"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo119076421973"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 125
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_08/1629415080844_nn_kod_biden_afghanistan_fallout_210819_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Biden sets Afghanistan pullout"
-    excerpt: "Act on the news with POLITICO Pro. — President Joe Biden is set to order all U.S. troops out of Afghanistan by Sept. 11, setting off a fierce debate over who will fill the vacuum. — The nomination of Colin Kahl should be delayed pending a review of new ..."
-    publishedDateTime: 2021-04-14T14:01:00Z
-    webUrl: "https://www.politico.com/newsletters/morning-defense/2021/04/14/biden-sets-afghanistan-pullout-794657"
+  - title: "Joe Biden’s ‘fall of Saigon’"
+    excerpt: "The situation in Afghanistan is getting uglier with each day in the run-up to the U.S. withdrawal — and so is the political fallout for President JOE BIDEN. The coverage overnight was absolutely brutal: “The Taliban captured another three provincial capitals in southern Afghanistan on Friday,"
+    publishedDateTime: 2021-08-13T10:20:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/08/13/joe-bidens-fall-of-saigon-493964"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 115
     images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
+      - url: "https://static.politico.com/b5/04/1f54c49c4bc28ad9fd2dcd972933/210813-biden-getty-1160.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "tzaKn+oI1wkXEaeHV2hX7XVxMiIWj1Gapoo2S1fQeNXN685tUyLil0QIMgwrRgS20QHlVMsTvIWRMYZt+oLFyadRSXdQy8qpOH+/MkI4qXkuS9PLK7f4P5uO3eUJjrjQCkqjJNH/yV2W9LD+UZyLTV1/XNVf9fWNtUjKrIrIvpdt9SbxyQOtlRzSpHl5P6XjKnig6I33krL9XXtv4trt8BNhKrUgAVZflEC5fr+hKudMuoGtMOYizWcXVjLbgLYJ4+W5KnrwhMtOW0xYMgDOBZPKuG+zvfUWJsjzos0eGRX066VAUqPhDpoUXlMV8gowJrpYCij7h2DklVaybgYONCpPa+RszRoSV18xndIdatg=;zu+otmx0SgW2iKk7rJkAlA=="

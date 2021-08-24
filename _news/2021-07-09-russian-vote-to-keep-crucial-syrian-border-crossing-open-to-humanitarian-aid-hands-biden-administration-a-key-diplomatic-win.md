@@ -95,37 +95,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden says U.S. troop withdrawal from Afghanistan will end Aug. 31"
-    excerpt: "The announcement comes as Taliban fighters have made significant territorial gains in northern Afghanistan in recent days, inching closer to the capital, Kabul."
-    publishedDateTime: 2021-07-08T22:28:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-address-afghanistan-troop-withdrawal-taliban-gains-ground-n1273338"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273338"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273338"
+  - title: "Biden put America first in exiting Afghanistan. He just can't say it."
+    excerpt: "Analysis: It's unlikely that any outcome will make Americans believe it is worth going back — or that it was wrong to leave — in the foreseeable future."
+    publishedDateTime: 2021-07-10T22:10:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-put-america-first-exiting-afghanistan-he-just-can-t-n1273623"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273623"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273623"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_24/3455045/210308-taliban-afghan-mc-10562.JPG"
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_27/3490130/210709-afghan-security-fight-taliban-ew-717p.jpg"
         width: 2500
-        height: 1481
-        isCached: true
-  - title: "Biden: U.S. troops will withdraw from Afghanistan by August 31"
-    excerpt: "President Joe Biden announced that U.S. troops will withdraw from  Afghanistan by August 31. Biden said, “The U.S. did what we went to do in Afghanistan. To get the terrorists who attacked us on 9/11 and to deliver justice to Osama bin Laden."
-    publishedDateTime: 2021-07-08T18:36:00Z
-    webUrl: "https://www.nbcnews.com/video/biden-u-s-troops-will-withdraw-from-afghanistan-by-august-31-116420165698"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo116420165698"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116420165698"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1625769093239_nbc_biden_withdrawafg_210708_1920x1080.jpg"
-        width: 1920
-        height: 1080
+        height: 1668
         isCached: true
 
 secured: "7v80CD1kDUJ2llb1zQTL+hhvAcUxMxpdmILKlIWEN/aItRDK8PfrD639yv9ck8/qN4YDALzm5Jt7QX3TRWCQ01rOQ46anBGtQpiHLP+8HUbQo3qD7EuNr44lWKymrr4P8hieBO550vBqJGDTa+vWJ7b5LnNJFsECvSuvlidzHB33OJbZkjj4bIb8AnvygjDOqyhkFPXnS6KH2PbawboPRIJl/SyZg3rrTLCek5CJJ34M8XL92Pp3u/PbjDEL8BNgSVwV+cYqmk+2/yhLLXY+C8zAv4+AaNbb9f1y8vBSaYPbe8D2T7bhPZMjPTKHKc4Q9/WHWYHdsC2bMDVkC8dNGdP4ouBo7Q5P+XnXbg0WgAs=;90coAZUniIDeEmniCxp+BA=="

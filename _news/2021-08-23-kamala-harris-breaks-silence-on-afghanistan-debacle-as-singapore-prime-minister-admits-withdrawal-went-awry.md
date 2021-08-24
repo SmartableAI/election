@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Kamala Harris breaks silence on Afghanistan debacle as Singapore prime minister admits withdrawal went 'awry'"
-excerpt: "Vice President Kamala Harris at last spoke publicly on what is happening in Afghanistan as Americans and Afghans try to exit the country due to the Taliban’s swift takeover, but she refused to weigh in on the U.S. government’s decision-making that led to the current situation."
-publishedDateTime: 2021-08-23T14:09:50Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j2FFGeTPI0A/kamala-harris-afghanistan-singapore-prime-minister-withdrawal-went-awry"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j2FFGeTPI0A/kamala-harris-afghanistan-singapore-prime-minister-withdrawal-went-awry"
+excerpt: "Vice President Kamala Harris at last spoke publicly on what is happening in Afghanistan as Americans and Afghans try to exit the country due to the Taliban’s swift takeover, but she refused to weigh in on the U."
+publishedDateTime: 2021-08-23T15:14:00Z
+originalUrl: "https://www.foxnews.com/politics/kamala-harris-afghanistan-singapore-prime-minister-withdrawal-went-awry"
+webUrl: "https://www.foxnews.com/politics/kamala-harris-afghanistan-singapore-prime-minister-withdrawal-went-awry"
 ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-afghanistan-singapore-prime-minister-withdrawal-went-awry.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-afghanistan-singapore-prime-minister-withdrawal-went-awry.amp"
 type: article
-quality: 166
+quality: 116
 heat: -1
 published: false
 
@@ -22,13 +22,13 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Kamala Harris
+  - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2c07c8a2-63f4-46d8-b1b3-ac45551d2f7d/8531caa7-8fcb-4b04-98d7-61963a8fc46c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
@@ -113,6 +113,6 @@ related:
         height: 405
         isCached: true
 
-secured: "uVJIQm8ginY4jo94TN278eLqhOFXGyfVSwZ5pIQt0w0cfH07hk/LMKm2lPNleMSBP9goyuhILkrx4er44mUXZ2ySv1+zvkcQojqb0FiKRtcR7Zs6iBUHwMxi1pTuF7CHO4mhINjUQ4j+NZhj3LiosOtXhfoTVdG5kry2sOPThcvOkWljLKvjmRwRbzt4oHEle0O9vWKnFkpy+B9GQD2rcB7sRwbf2yOWKCfJUjLJOct+WKkw771Buytt9+UAOoYmk8p4ofo1Xld9otsULRXVn42Kn9UvaFUWqk2BYiaPLxGATpLRHJLPvdVPKHUBaMf5kbq8uj8EK2ok2Xe7tSV9lQuys4Yoo6fO7aPIH5/I2aU=;RDKA1Dv7HiCORZDTRLdqyw=="
+secured: "vigRetOOCVe63fm7C5e4EpNJQPi0eGYYcI+Rur6j0mZlc0TSOi1MLbe91tUsnvkDYiqk3o9QzZLFtfJmsVf8RE1RNt777hopURhyQcYpvH4jP4hXIrTklFq94r4fHyhSf1FxGHeJ4SBRzErE7O1GEfglpEt9kLMSSmcDlKL1/qhGlki/kk9IA8VN1lfDa44lCZPnQbWsfHj6Wp4PzpK32l0dvXUaAnZL3b+vyGlZ0GqyJcGcBKUK9A87qOehSVJKeayrKyA1A85KoZgXrHZNqu7sMBewmQMI3g36F7jyB6vXHdaCVsxHeIa7aU6/5WsPyXOFoFMXfdHzQgoqM+IrYvwHfFioRXhNLAJbKaoflqc=;O3mRZiueOwp/TMytktoW7Q=="
 ---
 

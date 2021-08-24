@@ -215,6 +215,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Apple CEO Tim Cook planning to attend White House event with Joe Biden"
+    excerpt: "Apple CEO Tim Cook may soon visit the White House along with current Microsoft CEO Satya Nadella and other executives in a meeting with President Joe Biden, who wants to discuss how tech companies can improve cybersecurity and prevent online attacks."
+    publishedDateTime: 2021-08-23T23:44:00Z
+    webUrl: "https://9to5mac.com/2021/08/23/apple-ceo-tim-cook-planning-to-attend-white-house-event-with-joe-biden/"
+    ampWebUrl: "https://9to5mac.com/2021/08/23/apple-ceo-tim-cook-planning-to-attend-white-house-event-with-joe-biden/amp/"
+    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/08/23/apple-ceo-tim-cook-planning-to-attend-white-house-event-with-joe-biden/amp/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 75
+    images:
+      - url: "https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/09/Tim-Cook-stock-award.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Biden to speak after FDA gives full approval to Pfizer COVID-19 vaccine"
     excerpt: "The FDA has never before had so much evidence to judge a shot’s safety. More than 200 million doses already have been administered in the U.S."
     publishedDateTime: 2021-08-23T17:32:00Z
@@ -493,6 +509,15 @@ related:
       name: MassLive
       domain: masslive.com
     quality: 33
+  - title: "We are going to court-martial Pres. Joe Biden for aiding and abetting the enemy of the United States \"the Taliban"
+    excerpt: "We are going to court-martial Pres. Joe Biden for aiding and abetting the enemy of United States of America the terrorist organization called “ The Taliban “ in the country of Afghanistan. I believe we must use a military tribunal role to do this."
+    publishedDateTime: 2021-08-23T17:44:00Z
+    webUrl: "https://www.avvo.com/legal-answers/we-are-going-to-court-martial-pres--joe-biden-for--5329188.html"
+    type: article
+    provider:
+      name: Avvo
+      domain: avvo.com
+    quality: 14
 
 secured: "avPfA+xI+pVAtaubGGRNxt3z5sgkIJAhyeDaplAJbP9Xg3+mFRnNXpnjsT/x4Nz7bRAPvyl95pv1eHmooWO9EDzaSRrKk7AuadfXNwlB6bHIa0T/GDKDc25ucXYr4aI57ooPUWVfhNxcfF1CZnzSNNcLa0eEhZNPAu9YXR2KiHdwvqi2/MTz4Oz6cHtP+OogPOuNSeTERS6GbJYN38YVMVb4JmqDcWH2TLjgObe2Aimsk4AuJsJhSehqdjtd3E9NQ+nCHRdM5fDKXK+d+uWWv+5wSj/AYCWvZ3k7W1ij8R7FjVc0FO5CtC7k8EQYQ/s+PCFsWHL2GPOgnMG3m8DU09i1cQNTQd5gnvZ8ShFJghU=;Zc8h1d82l6o4j31nyx01JA=="
 ---

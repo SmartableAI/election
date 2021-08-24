@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/23/politics/kamala-harris-singapore-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/23/politics/kamala-harris-singapore-afghanistan/index.html"
 type: article
 quality: 185
-heat: 245
+heat: 205
 published: true
 
 provider:
@@ -47,38 +47,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210614180815-kamala-harris-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Biden says U.S. may extend Afghanistan withdrawal deadline as evacuations continue"
-    excerpt: "President Joe Biden said Sunday that the U.S. was considering extending evacuation efforts beyond his Aug. 31 deadline to leave Afghanistan as he defended the administration's handling of the war's final days."
-    publishedDateTime: 2021-08-22T23:19:00Z
-    webUrl: "https://www.nbcnews.com/politics/joe-biden/biden-says-u-s-may-extend-afghanistan-withdrawal-deadline-evacuations-n1277414"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1277414"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1277414"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 129
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_33/3500850/210822-joe-biden-jm-1701.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Kamala Harris stresses Southeast Asia ties on an overseas trip, but the focus returns to Afghanistan."
-    excerpt: "Facing rising pressure over the United States’ haphazard withdrawal from Afghanistan, Vice President Kamala Harris said on Monday that the Biden administration was “singularly focused” on evacuating American citizens and Afghan allies."
-    publishedDateTime: 2021-08-23T09:45:00Z
-    webUrl: "https://www.nytimes.com/2021/08/23/world/asia/kamala-harris-stresses-southeast-asia-ties-on-an-overseas-trip-but-the-focus-returns-to-afghanistan.html"
-    ampWebUrl: "https://www.nytimes.com/2021/08/23/world/asia/kamala-harris-stresses-southeast-asia-ties-on-an-overseas-trip-but-the-focus-returns-to-afghanistan.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/23/world/asia/kamala-harris-stresses-southeast-asia-ties-on-an-overseas-trip-but-the-focus-returns-to-afghanistan.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 120
-    images:
-      - url: "https://static01.nyt.com/images/2021/08/23/world/23-afghanistan-briefing-KamalainSingapor-02/23-afghanistan-briefing-KamalainSingapor-02-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
 
 secured: "Ti+TuijAkQ5OstL/by8p0tn47R1diNV4DGLmaRtxbUU93I9E/o41STw+pgmmIQMiiohW1khmYBT6EMclfbZST73xHBrP891+jXICOYKyP5uWQ5wJabvxJ3/Eg8TOiqDSiabVOIBXd2bJHQwslsx+ShWTO12GQmVc62bHgV0z4hdDM0BcfREOzZzr6lIjSZrw0wae45asktzkxVG6hIHHewRXkX3Lbbs5Q21iRIEc45mvQ/hfch0vTi/R99aHh5K8Wq/eKSv6rrVq7hm8VelVq+UyKXY4H6CvabQUeITP2wWEsXdPWN0FDdUqPFzzeutlxiXk9o8m3pfiarhUP1QsHQ3hIxySYxct0p+hCDr0r5o=;dHoQRwcHLLYCQQUF49wvjQ=="

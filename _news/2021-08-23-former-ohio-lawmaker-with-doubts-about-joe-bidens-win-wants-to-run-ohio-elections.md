@@ -3,18 +3,18 @@ category: news
 title: "Former Ohio lawmaker with doubts about Joe Biden's win wants to run Ohio elections"
 excerpt: "Former state lawmaker John Adams announced he is challenging incumbent Frank LaRose for Ohio Secretary of State in the GOP primary next year."
 publishedDateTime: 2021-08-23T16:44:00Z
-originalUrl: "https://www.marionstar.com/story/news/2021/08/23/gop-primary-john-adams-running-against-ohio-secretary-state-larose/8242596002/"
-webUrl: "https://www.marionstar.com/story/news/2021/08/23/gop-primary-john-adams-running-against-ohio-secretary-state-larose/8242596002/"
-ampWebUrl: "https://amp.marionstar.com/amp/8242596002"
-cdnAmpWebUrl: "https://amp-marionstar-com.cdn.ampproject.org/c/s/amp.marionstar.com/amp/8242596002"
+originalUrl: "https://www.cantonrep.com/story/news/2021/08/23/gop-primary-john-adams-running-against-ohio-secretary-state-larose/8242596002/"
+webUrl: "https://www.cantonrep.com/story/news/2021/08/23/gop-primary-john-adams-running-against-ohio-secretary-state-larose/8242596002/"
+ampWebUrl: "https://amp.cantonrep.com/amp/8242596002"
+cdnAmpWebUrl: "https://amp-cantonrep-com.cdn.ampproject.org/c/s/amp.cantonrep.com/amp/8242596002"
 type: article
 quality: 84
 heat: -1
 published: false
 
 provider:
-  name: The Marion Star
-  domain: marionstar.com
+  name: The Repository
+  domain: cantonrep.com
 
 topics:
   - Election
@@ -39,6 +39,6 @@ related:
       domain: theguardian.com
     quality: 104
 
-secured: "Fb++vLJ3g8YAi+oNxsXgtE2MFj8OC2ibQauSpV4/UPSPJjjrou3KcgTc4Rx3bdxx/B25fKgdbU2WwHIpDjYQcoeo4kZ7zZ2RTc/7V0f4SCS24td1xbENHpbSk2R9Yc7q9UzZp1jxE/mSIuuC0KrTRV9VvnCGf7EMiEwE3m+MZZuazfxdXOFs546RYjOXqzikuTxzmIe4l85ED4wzhfb9ye9YJgOGvHvHUScMM9/2wNzzbdDrDFkWvM9/ogoPCbS4un2D/6r/PmXv01WBJzQ8ClyYtvdoNYhVl9two/OEW1aHXPNzrPSPB9NfWerziMXYCL6aVyAI/7UU1OZI5VWUU4ta9ndvZy2N+vQzfVikZOI=;PbBTGXZcjYLEHOs9IluctA=="
+secured: "J1akEBxcJPSnMUMQTChpiP+RRgHZwiMYEYHaCQ+oijYKgp20ZwS9D9VK8u5k1q/G2vQxW05i5mJcW/hykOSnARWxavON9Ptp8egNUu+yjh8aMrZUGzImW3kAnlW3+4htHOHEHgnvsYofqHB0NUhVMdmJHLDpVpfraqbP6K/4Ap7mTQb9hnHN9dh5BdrhhuX9JXsHWlhaASNT++JWPhts7RnTGLYAwvpdILvcoOXxxM6VboPhpB77Ly+uUWH2nwHx4+PTdnIF1Rgks2oVCNzS4f9puMW/403VSSriTtjTNvB/5j54ZAnMt9C3VfAjyVg7UFeFM0F4+02pHDv4S6l4srDMiU34CxZqOSZz6leJasE=;hZuXgXqhVqZj5B4aqT/kqg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/nancy-pelosi-donald-trump-retire-election-2
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nancy-pelosi-donald-trump-retire-election-2016-quit-1582612?amp=1"
 type: article
 quality: 131
-heat: 211
+heat: 231
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Nancy Pelosi is more unpopular than Donald Trump, poll finds"
+    excerpt: "While Pelosi was the most unpopular public figure in this poll, the pollster did not test Senate Minority Leader Mitch McConnell, who also typically polls very poorly across the electorate and often has worse ratings than Trump."
+    publishedDateTime: 2021-08-23T23:17:00Z
+    webUrl: "https://www.chron.com/national-politics/article/Nancy-Pelosi-approval-poll-favorable-Trump-Biden-16406204.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/75/46/20961722/6/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
 
 secured: "DvcEDV4OX2v1ikiAdjsTYCbU4W3rwhXUWsw123xdXKhs9j0D7pfya+IfTVkWfbxupVLJrH1rccjMEX/TbKA/Fqvl38Cm98xktXeJBSJoOzemnOt5Ggr/kQiwWX7LVKW+IJG2QpYHXEm54XcaK9MG9osNKMiq/B52U7ABrryr19N9clVlHlgprf3OmNqywmyUb1gRMSHKNZXslAOUL/GQDB5GFjLHPJ+kngwtjZDPWOGZY4OYOSozyMGNXyFlTaYjMRcoJB2o2rIrsLdG8Yi/4ZGFnDun2ozn19xtsEwzTmAe5Lz12tJ1AYpW8330m6PGNIBkZtB0sqC2j0+pF13LEDsb+Dq2Lresm//IZDUh2zQ=;rh2coOICzMzGZuoLMcr44A=="

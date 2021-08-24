@@ -91,6 +91,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Nancy Pelosi is more unpopular than Donald Trump, poll finds"
+    excerpt: "While Pelosi was the most unpopular public figure in this poll, the pollster did not test Senate Minority Leader Mitch McConnell, who also typically polls very poorly across the electorate and often has worse ratings than Trump."
+    publishedDateTime: 2021-08-23T23:17:00Z
+    webUrl: "https://www.chron.com/national-politics/article/Nancy-Pelosi-approval-poll-favorable-Trump-Biden-16406204.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/75/46/20961722/6/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "7Rr7MovWvSCzVMIIIn0UuJdCsy9nYv1YKt1qn24Wk8m3mjL/Gk8Vr5x1lau5U+YXuairu3p4mT7uf9ZZwTe5OW4YwgwOo+dAMRNZiOVJcvXYaHroqjZOBzP2v9Wupm27x5lfDC9/ff7KEfZUiDYgJb4ufy9aXJNLUlkVyveiCGk0svz6ot7q7cv7wCYPhtHC0i/aezwl9qhSt2JFXLuRirYV71i/hc9S+ntmc3YEgkGpfgJ1pFmqWpsm+3XRvR+vhSeSBwWHSYCtU+XUfgUX90yEhekjS9N23/il5s9IoP7/LP4CBVHmTzDwgN41QtLHuweeHrE2Ml0Ti2fFTvthUygU8KIM+Nas4HzURjRl2HCBw+QDoqlfo2BYsoJMo05GNArN2V+9f7CVyxBauAgDsveVmAHIXzPj7NSoUF0sei2wnmZvLrf5rG4RNh9YZZGtAkisTHd8gESPBOERP4v4/cuUsHkhvUuXLFpClLQ6x5oI4VkSCvYRQIv1Q0hr71fCExxatGJ+jcx39pFLhjKdaA==;epnU2X/IdC7DHSiVW/CsNQ=="
 ---

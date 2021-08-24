@@ -57,6 +57,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Biden pledges to Americans in Kabul: 'We will get you home'"
+    excerpt: "President Joe Biden is pledging to Americans still trapped in Afghanistan: \"We will get you home.\" Biden's comments at a White House news conference Friday come as the U.S. government struggles to ramp up a massive airlift clearing Americans and other foreigners and vulnerable Afghans through the Kabul airport,"
+    publishedDateTime: 2021-08-23T23:32:00Z
+    webUrl: "https://www.nwaonline.com/news/2021/aug/20/biden-address-chaotic-kabul-evacuation-amid-critic/"
+    type: article
+    provider:
+      name: Northwest Arkansas Democrat Gazette
+      domain: nwaonline.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/img/news/tease/2021/08/20/Screen_Shot_2021-08-20_at_12.01.24_PM_t600.png?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 335
+        isCached: true
 
 secured: "UQbRbBJiFXpm+EKP4ktNzLy1QARsGsnjQuwrr98wlby8ktQkxgeq00a8puBGEjHTdvTwUeOJBPiSQbzwUUz1wkRYBdtHW4Ltr8cDsA5oxrTIJ9v0MQIlqczXjryBt4RXDcJUA2U4F+SRDPXBCMJy9ZxL0epObDj2mUQ/XqMMaXXeturCEbHTLz7S0JOKQTHelTekigxOvXNAcRw0fP4tRhwp5MmO0UL47tRAhR1eAYlD2kXEqjmWn5CX5myLeVXYYarSMzT2fwIRAd3t9sXnmcAv5999SyVCLqPnA32Pc6H31e0Hu/pewloEnc/DIb2rlUFXn8NK7uvZ2PNPSXAhhUDWY1UmkTXmoxHUHnK0vlSqQGNrpOdfA5m+R4YXIN86RSkLlSx2SPhS/Z26hWQe1y5AAFR/2+iiCocP8S8a8v9FZ6uy9gwEua4FaX1Zphovc5sP3qK4xDPUWXn7nALxzUbGCqPMYieuTre8xPP7OMLSDLC85qGOa85vjGHGuQP5xdCl3pwvvUDCm9DKSATbFw==;rT2wffj5j5nH0KgL3ytKFA=="
 ---

@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Obama praises Biden's 'bold leadership' on Afghanistan withdrawal"
+    excerpt: "Former President Barack Obama on Wednesday praised President Joe Biden's \"bold leadership\" for his decision to withdraw all US troops from Afghanistan by September 11, saying that \"it is time to recognize that we have accomplished all that we can militarily\" in America's longest war.\n    \n"
+    publishedDateTime: 2021-04-14T19:46:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ty0BXQf4FVQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/obama-biden-afghanistan-troop-withdrawal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/obama-biden-afghanistan-troop-withdrawal/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210414151832-obama-biden-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Schumer praises Biden's 'careful and thought-out plan' for Afghanistan"
     excerpt: "Senate Majority Leader Chuck Schumer on Wednesday praised President Joe Biden's plan to withdraw US troops from Afghanistan, calling it a \"careful and thought-out plan.\"\n    \n"
     publishedDateTime: 2021-04-14T14:28:50Z
@@ -125,6 +141,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217164612-01-milley-taliban-meeting-1217-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden aims to cement US credibility on climate and galvanize world leaders at virtual summit"
+    excerpt: "President Joe Biden's ability to galvanize global momentum faces its first major test this week when he convenes 40 of his foreign counterparts for talks on combating the climate crisis.\n    \n"
+    publishedDateTime: 2021-04-21T19:08:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ayOSfxJt_6Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/21/politics/climate-summit-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/21/politics/climate-summit-white-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127134225-01-biden-climate-remarks-0127-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -240,6 +272,22 @@ related:
         width: 2500
         height: 1666
         isCached: true
+  - title: "Biden says U.S. troop withdrawal from Afghanistan will end Aug. 31"
+    excerpt: "The announcement comes as Taliban fighters have made significant territorial gains in northern Afghanistan in recent days, inching closer to the capital, Kabul."
+    publishedDateTime: 2021-07-08T22:28:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-address-afghanistan-troop-withdrawal-taliban-gains-ground-n1273338"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273338"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273338"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_24/3455045/210308-taliban-afghan-mc-10562.JPG"
+        width: 2500
+        height: 1481
+        isCached: true
   - title: "Lawmakers Divided Over Biden’s Plan to Withdraw All Troops from Afghanistan by Sept. 11"
     excerpt: "The decision will keep more than 3,000 American troops in Afghanistan beyond the May 1 deadline that was announced under the Trump administration."
     publishedDateTime: 2021-04-13T23:19:00Z
@@ -271,6 +319,20 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Afghanistan Withdrawal Process is ‘On Track,’ Biden Says"
+    excerpt: "President Biden said on Friday that he believed Afghanistan had the capacity to sustain its government despite the Taliban’s territorial gains. His remarks came after American troops departed from Bagram,"
+    publishedDateTime: 2021-07-02T17:26:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007848062/biden-afghanistan-withdrawl.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/02/us/02new-washington-briefing-afghanistan/02new-washington-briefing-afghanistan-facebookJumbo.jpg?video-overlay?video-overlay?video-overlay"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "xoo+p241o887qI3g5aT73M1/FMQvvzH/pLVDK5F8qI2A7QarKGjPdf+J8G28JmX5bxRAgheJWEddG6Ut9IsVT6M9pFbn68Rp6GRkwoswZYQ/kuuID8SKdPgaVC03Tszf9h3hq13eo4D5+t+/Jbz8jDrEWw3gMI1Nv8xO4pOEHSy9yHlqtHdV7bvgGn/qV0gpt4OC8E3CRPx2PDjh4+NMeVHP4mhVdiVCTIh4bFvTH9ZPiMuQQP72e22VqjlBkcLNGK1n94hCei4quqUFKlsH7i2v3VzlmXfDMf/kz3ochdQQ49ZioUmcCNrMvphTdB2CUWIW8dG758shYJDW9qwzCFdxcNiSWGXj3J1u5V9hDCu92ttT5Bk15faccq1Q5lBihn26mqh8XJJY8xk1Qm36mwlOkFqgUXkTeA5zaF5Me5Id+OiZcCB9EKtNzH08YyFiFmllo9HYXuTncCDtKY+mPLOpywnwWY+stT6F/DwHpeJC0HfBRWzhWSKDAvTNaBrGDhNW6F0FiNcB8FLUkmyj0Q==;E07R1Ooibzoxxj9d8CHCJQ=="

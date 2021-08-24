@@ -393,6 +393,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "VP Kamala Harris’ trip to Southeast Asia overshadowed by events in Afghanistan"
+    excerpt: "Vice President Kamala Harris is in Singapore on the first leg of her trip to Southeast Asia. The goal is to reassure American allies in the region of the US' commitment there — a task that just got a lot harder after the Taliban takeover and frenzied evacuations from Afghanistan."
+    publishedDateTime: 2021-08-23T20:31:00Z
+    webUrl: "https://www.pri.org/file/2021-08-23/vp-kamala-harris-trip-southeast-asia-overshadowed-events-afghanistan"
+    type: article
+    provider:
+      name: PRI
+      domain: pri.org
+    quality: 51
+    images:
+      - url: "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2020/04/tw-globe-bg-3000.jpg?itok=VPGGnGVh"
+        width: 1200
+        height: 707
+        isCached: true
   - title: "Kamala Harris claims she had ‘key role’ in removing US troops from Afghanistan – but now silent since Taliban took power"
     excerpt: "KAMALA Harris claimed she had a “key role” in removing US troops from Afghanistan – but is conveniently staying silent since the Taliban took control of the war-torn country. The"
     publishedDateTime: 2021-08-16T19:49:00Z

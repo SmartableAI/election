@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-reverses-trump-era-policies-l
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reverses-trump-era-policies-lifts-sanctions-on-international-criminal-court.amp"
 type: article
 quality: 190
-heat: 1690
+heat: 1710
 published: true
 
 provider:
@@ -1131,6 +1131,17 @@ related:
         width: 2000
         height: 930
         isCached: true
+  - title: "Most voters don't want Biden or Trump to run in 2024, poll finds"
+    excerpt: "The majority of registered voters do not want the next presidential election to be a rematch of the 2020 contest, according to a new poll conducted by Echelon Insights/Washington Examiner."
+    publishedDateTime: 2021-08-23T23:58:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/poll-no-trump-or-biden-in-2024"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/poll-no-trump-or-biden-in-2024?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/poll-no-trump-or-biden-in-2024?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 80
   - title: "Biden's Weakness On World Stage Is Dangerous"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-03-30T18:59:00Z

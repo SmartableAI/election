@@ -1142,6 +1142,17 @@ related:
         width: 2000
         height: 930
         isCached: true
+  - title: "Most voters don't want Biden or Trump to run in 2024, poll finds"
+    excerpt: "The majority of registered voters do not want the next presidential election to be a rematch of the 2020 contest, according to a new poll conducted by Echelon Insights/Washington Examiner."
+    publishedDateTime: 2021-08-23T23:58:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/poll-no-trump-or-biden-in-2024"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/poll-no-trump-or-biden-in-2024?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/poll-no-trump-or-biden-in-2024?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 80
   - title: "With Infrastructure Plan, Biden Focuses on National Rebuild"
     excerpt: "Using a carpenters training facility in Pittsburgh as a backdrop for his speech Wednesday, President Joe Biden will propose a $2 trillion investment in..."
     publishedDateTime: 2021-03-31T18:55:00Z

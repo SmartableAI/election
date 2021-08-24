@@ -102,6 +102,22 @@ related:
         width: 615
         height: 409
         isCached: true
+  - title: "Donald Trump booed at Alabama rally after telling supporters to 'take the vaccines'"
+    excerpt: "Amid the state's low vaccination rate, former President Donald Trump told a rally to go get vaccinated against COVID-19, which some booed."
+    publishedDateTime: 2021-08-23T19:37:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2021/08/23/donald-trump-tells-alabama-rally-covid-19-vaccine-gets-booed/8237487002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/8237487002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/8237487002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 69
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/22/USAT/9aef22b6-661a-487a-9438-89b679f37137-GTY_1335520712.jpg?auto=webp&crop=3688,2075,x0,y187&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Donald Trump booed at rally in Alabama after telling supporters to 'take the vaccines'"
     excerpt: "Amid the state's low vaccination rate, former President Donald Trump told a rally to go get vaccinated against COVID-19, which some booed."
     publishedDateTime: 2021-08-23T10:34:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
 type: article
 quality: 125
-heat: 785
+heat: 825
 published: true
 
 provider:
@@ -204,6 +204,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/79737660-4001-4587-9071-8e197beb4396/05f4de6f-6ed1-4c42-9d6d-1845e57b1177/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Apple CEO Tim Cook planning to attend White House event with Joe Biden"
+    excerpt: "Apple CEO Tim Cook may soon visit the White House along with current Microsoft CEO Satya Nadella and other executives in a meeting with President Joe Biden, who wants to discuss how tech companies can improve cybersecurity and prevent online attacks."
+    publishedDateTime: 2021-08-23T23:44:00Z
+    webUrl: "https://9to5mac.com/2021/08/23/apple-ceo-tim-cook-planning-to-attend-white-house-event-with-joe-biden/"
+    ampWebUrl: "https://9to5mac.com/2021/08/23/apple-ceo-tim-cook-planning-to-attend-white-house-event-with-joe-biden/amp/"
+    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/08/23/apple-ceo-tim-cook-planning-to-attend-white-house-event-with-joe-biden/amp/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 75
+    images:
+      - url: "https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/09/Tim-Cook-stock-award.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Biden to speak after FDA gives full approval to Pfizer COVID-19 vaccine"
     excerpt: "The FDA has never before had so much evidence to judge a shot’s safety. More than 200 million doses already have been administered in the U.S."
@@ -497,6 +513,15 @@ related:
       name: MassLive
       domain: masslive.com
     quality: 33
+  - title: "We are going to court-martial Pres. Joe Biden for aiding and abetting the enemy of the United States \"the Taliban"
+    excerpt: "We are going to court-martial Pres. Joe Biden for aiding and abetting the enemy of United States of America the terrorist organization called “ The Taliban “ in the country of Afghanistan. I believe we must use a military tribunal role to do this."
+    publishedDateTime: 2021-08-23T17:44:00Z
+    webUrl: "https://www.avvo.com/legal-answers/we-are-going-to-court-martial-pres--joe-biden-for--5329188.html"
+    type: article
+    provider:
+      name: Avvo
+      domain: avvo.com
+    quality: 14
 
 secured: "OdDZo8/B/AJxg8ohzpdxfd3el68v0BLi6TGUKWMX2tJbHwr1/LJ/kUYh5ULYb2VUSBfQC8TvaUQpuWRbICXLYrf1VeiRxpK2hTuthMj7BhzmNwc+uFuVcWDuDtwCCOJIDAgkgTZk58t1L1DX58CORdrJMlORUKy1Bb9Sbj497O6LSFBnAzz2E1wn4QdGcZm5U7QtI9jjXxVa/lo48iAlzFPsjVvaWiBwjsWH3MB9gx1uHVNn/FTKgaSR8u1eJ3KbTgrnmQiXpBhrhge9NA34tsbpjzuLB1Bi7UdF9I4YyRMIqQZpqjczbscbeQpJcp0su1e+ec5pv95vYrV46JDChFw1IcjUukL1fhYLs8beUPYpEtUxbbvOUQ3DgJ9FL4clxZMVoi+6EhrpHYRD6twLBHTQyWBeuGsLgEN+BmyftTSGjd6YugCH4VRnxQVNd+zdwCbOxWMbnHvqSXDXvXJYq8jaecfn+I0kT2PUEWpJtkfpolKPubSF3L60dkdVLbtGiXutPCl3n0iaF2h6I7nJCA==;wOYiloT8Z0DswPZ4rWthRw=="
 ---

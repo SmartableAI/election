@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.freep.com/amp/8245818002"
 cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/8245818002"
 type: article
 quality: 72
-heat: 72
+heat: 112
 published: true
 
 provider:
@@ -25,6 +25,38 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Apple CEO Tim Cook to Meet With U.S. President Joe Biden to Discuss Cybersecurity"
+    excerpt: "Apple CEO Tim Cook is set to join other tech executives in a cybersecurity meeting with U.S. President Joe Biden next week, reports Bloomberg."
+    publishedDateTime: 2021-08-23T23:16:00Z
+    webUrl: "https://www.macrumors.com/2021/08/23/tim-cook-joe-biden-cybersecurity-meeting/"
+    ampWebUrl: "https://www.macrumors.com/2021/08/23/tim-cook-joe-biden-cybersecurity-meeting/amp/"
+    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/08/23/tim-cook-joe-biden-cybersecurity-meeting/amp/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 70
+    images:
+      - url: "https://images.macrumors.com/t/IDpC4PrZIv4mNWa0wPO2j5dgr0U=/1600x/http://images.macrumors.com/article-new/2019/02/timcooktulane.jpg"
+        width: 1600
+        height: 1200
+        isCached: true
+  - title: "Biden celebrates 2020 WNBA champs Seattle Storm"
+    excerpt: "President Joe Biden honored the 2020 WNBA champions Seattle Storm on Monday, celebrating their success on the court and hailing the four-time title holders for changing lives with their social"
+    publishedDateTime: 2021-08-23T23:46:00Z
+    webUrl: "https://www.oleantimesherald.com/biden-celebrates-2020-wnba-champs-seattle-storm/video_c9bf69fc-22dd-5752-bdda-10acc895c530.html"
+    type: article
+    provider:
+      name: Olean Times Herald
+      domain: oleantimesherald.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/oleantimesherald.com/content/tncms/assets/v3/editorial/c/9b/c9bf69fc-22dd-5752-bdda-10acc895c530/61243394cd1bd.preview.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
+        isCached: true
 
 secured: "AXUEpfvB2wGyte9vEkJx2cfW+0I8ngAd0UYy/2XGDjuocZJEm1JVIAgdsZddfKyFh+YDQi/AYIg+bJ0WDiyX4Wm0uETGQUFVE/PP8eRmEjYjOOazarEKoEP4fsx7R3v/sw3tYOJj5G5OKUjIuvovzm4zfbTd7gosKnmKlGi4dTkFht2ceSbwQo0DQAREW2qBX770/4E+4TkkvzW2EIrPDqABA1yyBg1c58biiswQwizTZYDVykm2+nOCm5/k65iCKPq6OzpbSyszyzxEJZD7FJraYlalO5k08H6xxvznjPPrOcc+gQ4bkgAwMDyVG0pSxg9rqXtnddUBi45SRlWW7Wa49Le4mDU3/h6znlOFong=;fVNv6WMt5PoTeoux7E6YNw=="
 ---

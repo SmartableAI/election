@@ -9,7 +9,7 @@ ampWebUrl: "https://www.stamfordadvocate.com/news/amp/US-struggles-to-speed-Kabu
 cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/US-struggles-to-speed-Kabul-airlift-despite-16399637.php"
 type: article
 quality: 75
-heat: 115
+heat: 135
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/199206302_199205149-b269d714629643bab6069e788fb3337e_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
         width: 600
         height: 400
+        isCached: true
+  - title: "Biden pledges to Americans in Kabul: 'We will get you home'"
+    excerpt: "President Joe Biden is pledging to Americans still trapped in Afghanistan: \"We will get you home.\" Biden's comments at a White House news conference Friday come as the U.S. government struggles to ramp up a massive airlift clearing Americans and other foreigners and vulnerable Afghans through the Kabul airport,"
+    publishedDateTime: 2021-08-23T23:32:00Z
+    webUrl: "https://www.nwaonline.com/news/2021/aug/20/biden-address-chaotic-kabul-evacuation-amid-critic/"
+    type: article
+    provider:
+      name: Northwest Arkansas Democrat Gazette
+      domain: nwaonline.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/img/news/tease/2021/08/20/Screen_Shot_2021-08-20_at_12.01.24_PM_t600.png?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 335
         isCached: true
 
 secured: "s4YjdK3pHrClvmeZPGZTrBZJ60IG+mS5NmsRZdM2jXEQWQHilLm0GxWSXwArYyKs+SJayWMu97C6ZDgftlrISuKH04UyqO/Uw+8xt1rcELPOW+EOIZuieATz7J8ytKUHSDlvv5BDVAz87WsKtBkZ+NyTHZmVKy/h3CBRsZubTjqzYZpfCSakHfk9hQVRbhP4iGb94zpq1K5mPHg5mASKDn9CxHzYATDo7xxETpNjvOZY9ubPfsJvZlEb9CMViWd3i8r1hsRpGuXuyOu/YPABI283q1y1aIXVGlUFOHxWfaX4OjK3ZwAL5dAzHslghDRkDOIkLNFSVzFDbRPa5kOfKRpuFhyTF6CM+u9RxD3MC58=;SFvPxFCsSKB1jZJnCm9Xhg=="
