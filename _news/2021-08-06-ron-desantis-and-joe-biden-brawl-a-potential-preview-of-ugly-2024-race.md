@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/ron-desantis-joe-biden-2024-1616923?amp=1"
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ron-desantis-joe-biden-2024-1616923?amp=1"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -120,6 +120,20 @@ related:
       - url: "https://floridapolitics.com/wp-content/uploads/2019/08/desantis.jpg"
         width: 900
         height: 505
+        isCached: true
+  - title: "Ron DeSantis slams Joe Biden’s failed ‘9/11 moment’ in Afghan exit"
+    excerpt: "Ron DeSantis pilloried the President on Fox News Monday night, saying that Joe Biden‘s Afghanistan exit was a misbegotten quest for a “9/11 moment.” The Governor made t"
+    publishedDateTime: 2021-08-24T02:29:00Z
+    webUrl: "https://floridapolitics.com/archives/452480-9-11-moment/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/03/ron-deSantis-1-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
   - title: "Ron DeSantis fundraising email accuses Joe Biden of ‘authoritarian bullying’"
     excerpt: "In a seven-paragraph fundraising pitch, DeSantis’ political committee, Friends of Ron DeSantis, accused the Democratic President of “authoritarian bullying.” “Joe Biden might want Governor DeSantis to get out of the way so he can impose his radical agenda,"

@@ -57,6 +57,22 @@ related:
         width: 1600
         height: 1200
         isCached: true
+  - title: "Seattle Storm Visit President Joe Biden at White House to Celebrate 2020 WNBA Title"
+    excerpt: "The Seattle Storm were honored Monday at the White House by President Joe Biden to commemorate their 2020 WNBA championship. They were the first WNBA"
+    publishedDateTime: 2021-08-24T02:30:00Z
+    webUrl: "https://bleacherreport.com/articles/10010920-seattle-storm-visit-president-joe-biden-at-white-house-to-celebrate-2020-wnba-title"
+    ampWebUrl: "https://syndication.bleacherreport.com/amp/10010920-seattle-storm-visit-president-joe-biden-at-white-house-to-celebrate-2020-wnba-title.amp.html"
+    cdnAmpWebUrl: "https://syndication-bleacherreport-com.cdn.ampproject.org/c/s/syndication.bleacherreport.com/amp/10010920-seattle-storm-visit-president-joe-biden-at-white-house-to-celebrate-2020-wnba-title.amp.html"
+    type: article
+    provider:
+      name: Bleacher Report
+      domain: bleacherreport.com
+    quality: 69
+    images:
+      - url: "https://media.bleacherreport.com/image/upload/x_247,y_200,w_5191,h_3464,c_crop/v1629755609/cmwkxx7rin1xv9hkrttp.jpg"
+        width: 5191
+        height: 3464
+        isCached: true
   - title: "WNBA News: What Joe Biden Said About Champion Seattle Storm In Their White House Visit"
     excerpt: "The Seattle Storm visited President Joe Biden at the White House on Monday to celebrate their 2020 WNBA championship. Seattle defeated the Las Vegas Aces in a 3-game sweep, giving the organization their fourth championship title in their history."
     publishedDateTime: 2021-08-23T22:52:00Z
@@ -72,6 +88,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/22/gettyimages-1025667234.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Biden kneels at White House celebration of WNBA champs Seattle Storm"
+    excerpt: "President Joe Biden got down on one knee in the East Room during the celebration of the WNBA champions Seattle Storm."
+    publishedDateTime: 2021-08-24T03:29:00Z
+    webUrl: "https://thegrio.com/2021/08/23/biden-kneels-white-house-wnba-seattle-storm/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 55
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2021/08/240820211629775420-1-scaled.jpg"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "iEom21BcTHkTC4fWl/nt1IpQK0UMxPw1oh8Y2Z+hFG2d2BYaNv9NqaEmKF2pWfeXC69g22+mvv43R8eqt0Bm++F5FEmc2pRCxwJfYyyW9AWShFaWMzKbgzzqEJf3CKbPBeY/ZMioZtMp3MdUYxFjHet4+fDvVqZZaCYAma4tIJg6vTr6P7LIZgw41YTJ34eZjmqnOsQXDbT1nc445vge9OyZmH5GG4Pv41iZWjlZ8XLJDOVhZM1IKCpCEQ87EmTu5nXFw3Qkk5erZsOs63fObvigAc1g0gQ2m6f0hl4d6Ofijgzvh/ilnxWpTsxdt/EVLmZ6FLdnz/mi3njbyvk7ORl9zMIUwncq0AJRcIQheu8=;L+qszr3Wv37wAMeNJdhPrQ=="

@@ -45,21 +45,37 @@ related:
         isCached: true
   - title: "Biden praises WNBA champs for social justice activism"
     excerpt: "President Joe Biden honored the 2020 WNBA champions Seattle Storm on Monday, celebrating their success on the court and hailing the four-time title holders for changing lives with their activism. The visit marked the first time that an NBA or WNBA team has visited the White House since the Cleveland Cavaliers were feted by Barack Obama in 2016."
-    publishedDateTime: 2021-08-24T01:43:00Z
-    webUrl: "https://www.ourmidland.com/news/article/Biden-praises-WNBA-champs-for-social-justice-16406650.php"
-    ampWebUrl: "https://www.ourmidland.com/sports/amp/Biden-praises-WNBA-champs-for-social-justice-16406650.php"
-    cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/sports/amp/Biden-praises-WNBA-champs-for-social-justice-16406650.php"
+    publishedDateTime: 2021-08-24T03:55:00Z
+    webUrl: "https://www.fairfieldcitizenonline.com/sports/article/Biden-praises-WNBA-champs-for-social-justice-16406650.php"
+    ampWebUrl: "https://www.fairfieldcitizenonline.com/sports/amp/Biden-praises-WNBA-champs-for-social-justice-16406650.php"
+    cdnAmpWebUrl: "https://www-fairfieldcitizenonline-com.cdn.ampproject.org/c/s/www.fairfieldcitizenonline.com/sports/amp/Biden-praises-WNBA-champs-for-social-justice-16406650.php"
     type: article
     provider:
-      name: Our Midland MI
-      domain: ourmidland.com
+      name: Fairfield Citizen
+      domain: fairfieldcitizenonline.com
     quality: 75
     images:
       - url: "https://s.hdnux.com/photos/01/21/44/77/21385154/3/ratio3x2_400.jpg"
         width: 400
         height: 267
         isCached: true
+  - title: "Afghan crisis: US President Joe Biden expected to decide evacuation deadline within 24 hours"
+    excerpt: "Biden warned on Sunday that the evacuation was going to be \"hard and painful\" and a lot could still go wrong. US troops might stay beyond Biden's August 31 deadline to oversee the evacuation, he said."
+    publishedDateTime: 2021-08-24T03:47:00Z
+    webUrl: "https://www.cnbctv18.com/world/afghan-crisis-us-president-joe-biden-expected-to-decide-evacuation-deadline-within-24-hours-10471351.htm"
+    ampWebUrl: "https://www.cnbctv18.com/world/afghan-crisis-us-president-joe-biden-expected-to-decide-evacuation-deadline-within-24-hours-10471351.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/world/afghan-crisis-us-president-joe-biden-expected-to-decide-evacuation-deadline-within-24-hours-10471351.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 64
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2021/06/Biden_Uk-1019x573.jpg"
+        width: 1019
+        height: 573
+        isCached: true
 
-secured: "JANi6GHy2/p4JC13JnZh4bET7YgLFTGKjpORZ7aa+g2V+OQwNQ6XwNYRFzOIpjxebNAZahE3tIW6wIJHERM/3861eZTEtt2ANN40uW46iwDBY1mwrszxLOi1RKAEGj2BbyuLaoM/huYkVWxRxuBl3UlLQwxlwG4GwW+n49Rj0RgQywxTiEwhtlVmAy9uteFzn48cg4SiQirANhctZt1wx8+vykMEXxxhUjquswwpCfFmgIzASPPFGOgfjhaNk1+4GUvE000kn4IJhqhShjkavCmDePSjKWRkdKbhhaNy13Qx7AB8sWLIVOWgwB7a44V5Z+6u6qQsBxW0s49Z/9HZLYlC7AiNxBXOas+av6nUBgw=;zVNq9M7h21OjOat0TqPEpw=="
+secured: "1qwigoOelb652fZljDVZMbqoyfpXFPAolEspx5aIODRTrRYBkmi2NUk71H3eKGOPzgVU9OeJlsDOE3DGzad1kgcJRsf0k1fBqGBQ2cN2Ol3pqIvr5d5B4WB7l9uD6r3f1DEsUKSYeAOsKVGI7F9FUpjFXDxTDycQ/ASnwySevCuoCljhXuiFWh6fNAiQzrMDKcDxQ+YvhxBArFqnVFuz1pg4iBuyjbRy3NqG3IS1DbgufOh3deeKvsDQJTYZHKd11BHZhpLHnllxMRWlQUj8N2fNB2eYgSyps0+ob7ynVxYH6uAO+TaIYHPmLeW0z0nvInhfml/7QCWLSOUnv6zwRD+g9cosB+cxdX7LlFt/ikHXReO81Qt7NS6pZsW1CYL5bpYMBbsRINCWtbSl9QFB5rQyPMCNjX44nsi2tbyHXw2js7qlmxD8XR3gvWCS1S7C8KANleYc/X6Tz58LYvs+/vo64Jry8tNX9usSpbfPeydias8fVNB+zTy44dTNEVZTcPTZIxHqw5P93d/slSDe+w==;bdDCEidLiuqTjphIzDQLuw=="
 ---
 

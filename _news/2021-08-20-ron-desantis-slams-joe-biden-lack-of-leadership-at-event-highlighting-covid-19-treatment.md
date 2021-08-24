@@ -457,6 +457,20 @@ related:
         width: 5000
         height: 3333
         isCached: true
+  - title: "The high price of Biden's Kabul blunder"
+    excerpt: "Our commander in chief and his woke generals have blown the evacuation of Kabul so badly that even CNN and MSNBC have had to cover it. For the past month, Biden assured us that when our military left Kabul,"
+    publishedDateTime: 2021-08-24T03:30:00Z
+    webUrl: "https://www.thedailytimes.com/opinion/syndication/the-high-price-of-bidens-kabul-blunder/article_55dd10f5-acaa-57b0-b6f7-2535a6a78911.html"
+    type: article
+    provider:
+      name: thedailytimes.com
+      domain: thedailytimes.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600"
+        width: 600
+        height: 600
+        isCached: true
   - title: "US Maintaining Constant Vigilance to Disrupt Threats, Including ISIS, Says Joe Biden | Key Points"
     excerpt: "US President Joe Biden will shortly begin his address updating Americans on the development in evacuation operations in Afghanistan. Stay tuned to this page for LIVE updates."
     publishedDateTime: 2021-08-22T21:48:00Z

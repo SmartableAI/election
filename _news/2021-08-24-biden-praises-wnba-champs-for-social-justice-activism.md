@@ -2,19 +2,19 @@
 category: news
 title: "Biden praises WNBA champs for social justice activism"
 excerpt: "President Joe Biden honored the 2020 WNBA champions Seattle Storm on Monday, celebrating their success on the court and hailing the four-time title holders for changing lives with their activism. The visit marked the first time that an NBA or WNBA team has visited the White House since the Cleveland Cavaliers were feted by Barack Obama in 2016."
-publishedDateTime: 2021-08-24T01:43:00Z
-originalUrl: "https://www.ourmidland.com/news/article/Biden-praises-WNBA-champs-for-social-justice-16406650.php"
-webUrl: "https://www.ourmidland.com/news/article/Biden-praises-WNBA-champs-for-social-justice-16406650.php"
-ampWebUrl: "https://www.ourmidland.com/sports/amp/Biden-praises-WNBA-champs-for-social-justice-16406650.php"
-cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/sports/amp/Biden-praises-WNBA-champs-for-social-justice-16406650.php"
+publishedDateTime: 2021-08-24T03:55:00Z
+originalUrl: "https://www.fairfieldcitizenonline.com/sports/article/Biden-praises-WNBA-champs-for-social-justice-16406650.php"
+webUrl: "https://www.fairfieldcitizenonline.com/sports/article/Biden-praises-WNBA-champs-for-social-justice-16406650.php"
+ampWebUrl: "https://www.fairfieldcitizenonline.com/sports/amp/Biden-praises-WNBA-champs-for-social-justice-16406650.php"
+cdnAmpWebUrl: "https://www-fairfieldcitizenonline-com.cdn.ampproject.org/c/s/www.fairfieldcitizenonline.com/sports/amp/Biden-praises-WNBA-champs-for-social-justice-16406650.php"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Our Midland MI
-  domain: ourmidland.com
+  name: Fairfield Citizen
+  domain: fairfieldcitizenonline.com
 
 topics:
   - Election
@@ -59,7 +59,23 @@ related:
         width: 480
         height: 320
         isCached: true
+  - title: "Afghan crisis: US President Joe Biden expected to decide evacuation deadline within 24 hours"
+    excerpt: "Biden warned on Sunday that the evacuation was going to be \"hard and painful\" and a lot could still go wrong. US troops might stay beyond Biden's August 31 deadline to oversee the evacuation, he said."
+    publishedDateTime: 2021-08-24T03:47:00Z
+    webUrl: "https://www.cnbctv18.com/world/afghan-crisis-us-president-joe-biden-expected-to-decide-evacuation-deadline-within-24-hours-10471351.htm"
+    ampWebUrl: "https://www.cnbctv18.com/world/afghan-crisis-us-president-joe-biden-expected-to-decide-evacuation-deadline-within-24-hours-10471351.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/world/afghan-crisis-us-president-joe-biden-expected-to-decide-evacuation-deadline-within-24-hours-10471351.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 64
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2021/06/Biden_Uk-1019x573.jpg"
+        width: 1019
+        height: 573
+        isCached: true
 
-secured: "gZNTglHLS/57oGVmTkZiZNpXnh5P1JJNDClrznA+XHKrpCt4FiQ3FvhJoPZ12kM6eUFIga6piif0TWHy0c3/BBc8QwzLjAqVN1fLRUkY8kjeK1ZUuLBfsD64jMLGyG7JR0bN20GkvUehm5Mbnx/cYJiin6GQzTDe6A5X9TieCHx2HUnd00ek7AznYW0Xsn0wAyLLHerg9CjybwVB0FBeZjBpL0OA25MhfIT3sKFOAxDwqHjivrcMjSIPs9sKeNrr3oGYbCH54etWcXATKqmVtZtfcGo+XnWIP0qtVsBLCucmfHSo4PsugZfFTrZ+STOR1Yp5CzKJhMYukitY8X87Z6I53mHXhud8q1t8U1NfM6g=;kLdb4CbtLOBOtK0C5xJYHA=="
+secured: "grMz6Hfavi6FnTzykFlFx4EdbXc+g68vBwAP6JUp1+7RNIDKve4gGm43OoS2pSVIZ2k907dFu71TpOwk+3RxR5imL8eItxFNcP2Sez9InUjNZTVD6n/MvyRMQPgHUoVdSRTOJdvReOYF6Lao1L8hSNwJIoyqEHw2PKzwnchB3pOSNTyccLcvzoIa8gGUAGK1x+Y3yEMT4RLapC+Jmst5JcStoX/ejZZ0Yx18G8NyHtoGzRGfPh4uxsnj1P6OxZ2tu0qQdm1mcgXm2A79GK1QZYqlZGYezJtzeQ2Afnf7N2e9rRTFGUSYLKFrOl6Y4a4KsbdGGJxnGGV5C0Qh5pBvPHkVuUCvKA4/rv54OOfv8sA=;brxRicW86cbOTpTxgzGwnQ=="
 ---
 

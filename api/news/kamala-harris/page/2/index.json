@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-09-kamala-harris-joins-dnc-to-announce-expansion-of-i-will-vote-campaign.md",
+      "title": "Kamala Harris joins DNC to announce expansion of \"I Will Vote\" campaign",
+      "excerpt": "Vice President Harris on Thursday helped the Democratic National Committee announce an expansion of its \"I Will Vote\" campaign, which focuses on promoting voter registration and participation among minorities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/kamala-harris-democrats-i-will-vote-campaign/",
+      "originalUrl": "https://www.cbsnews.com/video/kamala-harris-democrats-i-will-vote-campaign/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/08/eb79983b-83fe-4e13-921f-49af9512cd63/thumbnail/1200x630/7c220e32a1fe3d584e4098b17c57013b/cbsn-fusion-kamala-harris-democrats-i-will-vote-campaign-thumbnail-749879-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T12:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-essential-politics-misunderstood-set-up-to-stumble-or-neither-making-sense-of-kamala-harris-standing.md",
       "title": "Essential Politics: Misunderstood, set up to stumble — or neither? Making sense of Kamala Harris’ standing",
       "excerpt": "As Harris enters a turbulent period early in her tenure as vice president, thoughtful and provocative analyses look at her challenges and standing.",
@@ -1576,54 +1628,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-tucker-carlson-how-did-kamala-harris-wind-up-effectively-in-charge-of-the-united-states.md",
-      "title": "Tucker Carlson: How Did Kamala Harris Wind Up Effectively In Charge Of The United States?",
-      "excerpt": "Two years ago, during the Democratic presidential primaries, Kamala Harris appeared on CNN to explain where she stood in the race. At that moment, Harris had just been memorably humiliated by Tulsi Gabbard of Hawaii during a televised debate,",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/06/09/tucker_carlson_how_did_kamala_harris_wind_up_effectively_in_charge_of_the_united_states.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/09/tucker_carlson_how_did_kamala_harris_wind_up_effectively_in_charge_of_the_united_states.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/54/545273.jpg",
-          "width": 1162,
-          "height": 870,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/06/09/tucker_carlson_how_did_kamala_harris_wind_up_effectively_in_charge_of_the_united_states.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/09/tucker_carlson_how_did_kamala_harris_wind_up_effectively_in_charge_of_the_united_states.amp.html",
-      "publishedDateTime": "2021-06-09T01:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

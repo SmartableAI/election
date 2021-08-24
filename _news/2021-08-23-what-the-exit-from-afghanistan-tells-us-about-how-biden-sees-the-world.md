@@ -685,6 +685,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Bush, Obama, Trump, Biden: How four presidents created today's Afghanistan mess"
+    excerpt: "President Joe Biden has said repeatedly over the past four months -- as recently as last week -- that he refuses to hand off the war in Afghanistan to a fifth US president.Implicit in"
+    publishedDateTime: 2021-08-24T03:39:00Z
+    webUrl: "https://cbs58.com/news/bush-obama-trump-biden-how-four-presidents-created-todays-afghanistan-mess"
+    type: article
+    provider:
+      name: CBS 58
+      domain: cbs58.com
+    quality: 66
+    images:
+      - url: "https://newscdn2.weigelbroadcasting.com/eFwaZ-1629776368-204654-blog-hypatia-h_1201b1fd23d0d0ddf45c1b8bc5b741ea-h_87a7d68d4fcdaad261ad6f318f8c6d97-300.JPG"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "SAG-AFTRA & WGA East Join News Unions Urging President Biden To Help Journalists Fleeing Afghanistan"
     excerpt: "The presidents of five unions representing journalists are calling on President Joe Biden to support news crews and their families who are trying to flee Afghanistan. “The United States government"
     publishedDateTime: 2021-08-23T23:26:00Z
@@ -820,6 +834,36 @@ related:
       name: Washington Times
       domain: washingtontimes.com
     quality: 55
+  - title: "Biden will face pressure from G7 to extend Afghanistan withdrawal deadline"
+    excerpt: "By Kevin Liptak and Barbara Starr, CNN Leaders from the top foreign allies of the United States are planning to press President Joe Biden to extend the deadline for US troops to withdraw from Afghanistan during a Tuesday morning meeting,"
+    publishedDateTime: 2021-08-24T03:38:00Z
+    webUrl: "https://localnews8.com/politics/cnn-us-politics/2021/08/23/biden-will-face-pressure-from-g7-to-extend-afghanistan-withdrawal-deadline/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 53
+    images:
+      - url: "https://localnews8.b-cdn.net/2021/08/hypatia-h_8d09aebafbd5b0cf366a68fc59aad027-h_ffcc444eddc8507c8c51a2ec91591bec-300-scaled.jpg"
+        width: 2560
+        height: 1655
+        isCached: true
+  - title: "US President Joe Biden to virtually meet G7 leaders today to discuss Afghanistan evacuation, humanitarian assistance"
+    excerpt: "US President Joe Biden is scheduled to hold a virtual meet with other G7 leaders on Tuesday to discuss close coordination on Afghanistan policy and evacuation operations"
+    publishedDateTime: 2021-08-24T03:20:00Z
+    webUrl: "https://www.firstpost.com/world/us-president-joe-biden-to-virtually-meet-g7-leaders-today-to-discuss-afghanistan-evacuation-humanitarian-assistance-9907501.html"
+    ampWebUrl: "https://www.firstpost.com/world/us-president-joe-biden-to-virtually-meet-g7-leaders-today-to-discuss-afghanistan-evacuation-humanitarian-assistance-9907501.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/world/us-president-joe-biden-to-virtually-meet-g7-leaders-today-to-discuss-afghanistan-evacuation-humanitarian-assistance-9907501.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 52
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2021/08/G7-very-news.jpg"
+        width: 640
+        height: 426
+        isCached: true
   - title: "WATCH LIVE: President Joe Biden Addresses The Nation Amid Afghanistan Collapse"
     excerpt: "President Joe Biden is expected to address the nation on the U.S. evacuation from Afghanistan. Biden plans to speak to the nation Monday, April 16, 2021, at 1:45 p.m. MST. Colorado Public Radio will carry live coverage on the radio and online."
     publishedDateTime: 2021-08-16T18:47:00Z
@@ -968,6 +1012,17 @@ related:
         width: 660
         height: 330
         isCached: true
+  - title: "Biden faces pressure to extend Afghanistan evacuation mission as Taliban warns against doing so"
+    excerpt: "The United States faced mounting global pressure on Monday to extend its evacuation mission in Afghanistan past President Joe Biden's Aug. 31 deadline, despite a Taliban warning against doing so. The admonition from Taliban spokesman Suhail Shaheen,"
+    publishedDateTime: 2021-08-24T03:42:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/biden-faces-pressure-to-extend-afghanistan-evacuation-mission-as-taliban-warns-against-doing-so/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/biden-faces-pressure-to-extend-afghanistan-evacuation-mission-as-taliban-warns-against-doing-so/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/biden-faces-pressure-to-extend-afghanistan-evacuation-mission-as-taliban-warns-against-doing-so/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 43
   - title: "Texans in Congress have mixed views on President Joe Biden’s handling of the Afghanistan withdrawal. But bipartisan criticism has emerged."
     excerpt: "Texas Republicans have doused the Biden administration in criticism. Democratic Texans in Congress have had varied reactions — but some also fault for the president for a frantic scramble after the Taliban swiftly took control."
     publishedDateTime: 2021-08-19T02:02:00Z

@@ -131,6 +131,20 @@ related:
         width: 900
         height: 505
         isCached: true
+  - title: "Ron DeSantis slams Joe Biden’s failed ‘9/11 moment’ in Afghan exit"
+    excerpt: "Ron DeSantis pilloried the President on Fox News Monday night, saying that Joe Biden‘s Afghanistan exit was a misbegotten quest for a “9/11 moment.” The Governor made t"
+    publishedDateTime: 2021-08-24T02:29:00Z
+    webUrl: "https://floridapolitics.com/archives/452480-9-11-moment/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/03/ron-deSantis-1-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Half of Maine counties could soon be covered by Joe Biden’s new eviction moratorium"
     excerpt: "Once a county is designated as seeing “substantial” or “high” transmission, residents are protected from evictions for at least two weeks."
     publishedDateTime: 2021-08-04T15:52:00Z

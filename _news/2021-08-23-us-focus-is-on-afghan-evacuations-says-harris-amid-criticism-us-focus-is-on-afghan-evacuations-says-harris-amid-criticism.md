@@ -179,6 +179,38 @@ related:
         width: 480
         height: 320
         isCached: true
+  - title: "Harris Rebukes China in Major Speech on Indo-Pacific"
+    excerpt: "U.S. Vice President Kamala Harris delivered a sharp rebuke to China for its incursions in the South China Sea, warning its actions there amount to “coercion” and “intimidation” and affirming that the U."
+    publishedDateTime: 2021-08-24T03:45:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/harris-to-offer-vision-for-indo-pacific-in-major-speech/3237135/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/harris-to-offer-vision-for-indo-pacific-in-major-speech/3237135/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/harris-to-offer-vision-for-indo-pacific-in-major-speech/3237135/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 75
+    images:
+      - url: "https://media.nbcnewyork.com/2021/08/GettyImages-1234839316.jpeg?quality=85&strip=all&crop=0px%2C129px%2C5500px%2C3094px&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Harris to offer vision for Indo-Pacific in major speech"
+    excerpt: "U.S. Vice President Kamala Harris is preparing to lay out the Biden administration’s vision for the Indo-Pacific region, an area of growing importance to a government that has made countering China’s influence globally a centerpiece of its foreign policy."
+    publishedDateTime: 2021-08-24T03:52:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/aug/23/harris-to-offer-vision-for-indo-pacific-in-major-s/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/aug/23/harris-to-offer-vision-for-indo-pacific-in-major-s/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/aug/23/harris-to-offer-vision-for-indo-pacific-in-major-s/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 75
+    images:
+      - url: "https://thumb.spokesman.com/N2HNE3d3V49sMF64E5u-wc5eHOo=/480x0/media.spokesman.com/photos/2021/08/23/61246a6aca3d9.hires.jpg"
+        width: 480
+        height: 317
+        isCached: true
   - title: "VP Kamala Harris to return to California to campaign for Newsom next week"
     excerpt: "WASHINGTON — Vice President Kamala Harris will campaign for Gov. Gavin Newsom next week as the Democratic Party rallies around the California governor in his recall battle. The vice president and former California senator will visit her home state next ..."
     publishedDateTime: 2021-08-20T14:09:00Z
@@ -274,6 +306,22 @@ related:
       - url: "https://images.firstpost.com/wp-content/uploads/2020/11/kamala-harris-640-AP.jpg"
         width: 640
         height: 362
+        isCached: true
+  - title: "Kamala Harris under fire for LAUGHING while being grilled on Afghanistan crisis as she tanks in polls"
+    excerpt: "KAMALA Harris has been slammed for laughing while being grilled on the Afghanistan crisis as the VP’s approval numbers tank. Footage from a Friday night chat with reporters has shown the"
+    publishedDateTime: 2021-08-23T12:10:00Z
+    webUrl: "https://www.the-sun.com/news/3524099/kamala-harris-laughing-afghanistan-polls/"
+    ampWebUrl: "https://www.the-sun.com/news/3524099/kamala-harris-laughing-afghanistan-polls/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3524099/kamala-harris-laughing-afghanistan-polls/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 60
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/COMP_RR_KAMALA.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Harris’ Asia trip carries new urgency after Afghan collapse"
     excerpt: "The Taliban takeover of Afghanistan is giving new urgency to Vice President Kamala Harris’ tour of southeast Asia, where she will attempt to reassure allies of American resolve following the chaotic end of a two-decade war."
@@ -403,6 +451,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Kamala Harris compared to Joker by Meghan McCain for laughing over Afghanistan & refusing to admit withdrawal mistakes"
+    excerpt: "KAMALA Harris was compared to The Joker by Meghan McCain for laughing over the Afghanistan crisis and refusing to admit the Biden administration’s troop withdrawal mistakes. The Vice"
+    publishedDateTime: 2021-08-23T20:56:00Z
+    webUrl: "https://www.the-sun.com/news/3527458/kamala-harris-joker-laughing-meghan-mccain-afghanistan/"
+    ampWebUrl: "https://www.the-sun.com/news/3527458/kamala-harris-joker-laughing-meghan-mccain-afghanistan/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3527458/kamala-harris-joker-laughing-meghan-mccain-afghanistan/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 51
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/TT_KamalaHarrisOP-3.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "VP Kamala Harris’ trip to Southeast Asia overshadowed by events in Afghanistan"
     excerpt: "Vice President Kamala Harris is in Singapore on the first leg of her trip to Southeast Asia. The goal is to reassure American allies in the region of the US' commitment there — a task that just got a lot harder after the Taliban takeover and frenzied evacuations from Afghanistan."
     publishedDateTime: 2021-08-23T20:31:00Z
@@ -446,6 +510,34 @@ related:
       - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202108/1030237302.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "PM Lee Hsien Loong, US Vice-President Kamala Harris hail robust, enduring S’pore-US partnership"
+    excerpt: "SINGAPORE - Prime Minister Lee Hsien Loong and United States Vice-President Kamala Harris hailed the robust and enduring partnership between their two countries at the Istana on Monday (Aug 23) as they announced new areas of cooperation in cyber security,"
+    publishedDateTime: 2021-08-24T01:43:00Z
+    webUrl: "https://www.nationthailand.com/international/40005168"
+    type: article
+    provider:
+      name: nationthailand
+      domain: nationthailand.com
+    quality: 43
+    images:
+      - url: "https://media.nationthailand.com/uploads/images/md/2021/08/UqdU5SBpCi0zfCJPWTQm.jpg"
+        width: 860
+        height: 573
+        isCached: true
+  - title: "US laser focused on evacuation in Afghanistan, grateful to partners like Singapore: US V-P Kamala Harris"
+    excerpt: "She expressed how grateful the US is to its international partners for working with it to evacuate people from Afghanistan.. Read more at straitstimes.com."
+    publishedDateTime: 2021-08-24T03:28:00Z
+    webUrl: "https://www.straitstimes.com/singapore/us-laser-focused-on-evacuation-in-afghanistan-grateful-to-partners-like-singapore-us-v-p"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 38
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/nf-kamala-240821-4.jpg?itok=zrU1lYuL"
+        width: 763
+        height: 509
         isCached: true
   - title: "Kamala Harris to Tour Southeast Asia in Wake of Afghan Withdrawal; New Poll Indicates Lower Approval Rating"
     excerpt: "WASHINGTON – The Taliban takeover of Afghanistan has given new urgency to Vice President Kamala Harris’ tour of Southeast Asia, where she will attempt to reassure allies of American resolve following the chaotic end of a two-decade war, reported the ..."

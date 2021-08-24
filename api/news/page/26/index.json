@@ -2,6 +2,62 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-06-30-trump-at-us-mexican-border-slams-biden-for-open-really-dangerous-border.md",
+      "title": "Trump, at U.S.-Mexican border, slams Biden for ‘open, really dangerous’ border",
+      "excerpt": "Former President Trump returned to the nation’s southern border on Wednesday, taking direct aim at his Democratic successor in the White House for the surge this year in migrants crossing the U.S.-Mexican border.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RcvUy42eZ9o/trump-at-u-s-mexican-border-slams-biden-for-open-really-dangerous-border",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RcvUy42eZ9o/trump-at-u-s-mexican-border-slams-biden-for-open-really-dangerous-border",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 686,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-at-u-s-mexican-border-slams-biden-for-open-really-dangerous-border.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-at-u-s-mexican-border-slams-biden-for-open-really-dangerous-border.amp",
+      "publishedDateTime": "2021-06-30T12:01:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-gop-senators-hold-biden-accountable-for-campaign-promise-to-support-the-biofuel-industry-and-family-farmers.md",
       "title": "GOP senators hold Biden accountable for campaign promise to support the biofuel industry and family farmers",
       "excerpt": "Sen. Joni Ernst, R-Iowa, led a letter with five of her Senate GOP colleagues to the president on Wednesday, pointing out his campaign promises in support of the biofuel industry as the Biden administration weighs “bailouts” for fuel refineries.",
@@ -1300,62 +1356,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-three-percenter-at-trump-rally-warns-of-future-violence.md",
-      "title": "Three percenter at Trump rally warns of future violence",
-      "excerpt": "CNN's Donie O'Sullivan speaks with supporters of President Donald Trump at a rally in Wellington, Ohio, who falsely believe that Trump won the 2020 election.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fPBnRyBaY_M/donald-trump-rally-president-2020-election-osullivan-pkg-vpx-ebof.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fPBnRyBaY_M/donald-trump-rally-president-2020-election-osullivan-pkg-vpx-ebof.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210628202958-donald-trump-rally-president-2020-election-osullivan-pkg-vpx-ebof-00015214-super-tease.png",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/06/29/donald-trump-rally-president-2020-election-osullivan-pkg-vpx-ebof.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/06/29/donald-trump-rally-president-2020-election-osullivan-pkg-vpx-ebof.cnn",
-      "publishedDateTime": "2021-06-28T19:54:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

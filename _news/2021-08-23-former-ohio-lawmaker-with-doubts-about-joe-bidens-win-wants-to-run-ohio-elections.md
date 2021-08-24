@@ -3,18 +3,18 @@ category: news
 title: "Former Ohio lawmaker with doubts about Joe Biden's win wants to run Ohio elections"
 excerpt: "Former state lawmaker John Adams announced he is challenging incumbent Frank LaRose for Ohio Secretary of State in the GOP primary next year."
 publishedDateTime: 2021-08-23T16:44:00Z
-originalUrl: "https://www.cantonrep.com/story/news/2021/08/23/gop-primary-john-adams-running-against-ohio-secretary-state-larose/8242596002/"
-webUrl: "https://www.cantonrep.com/story/news/2021/08/23/gop-primary-john-adams-running-against-ohio-secretary-state-larose/8242596002/"
-ampWebUrl: "https://amp.cantonrep.com/amp/8242596002"
-cdnAmpWebUrl: "https://amp-cantonrep-com.cdn.ampproject.org/c/s/amp.cantonrep.com/amp/8242596002"
+originalUrl: "https://www.cincinnati.com/story/news/2021/08/23/gop-primary-john-adams-running-against-ohio-secretary-state-larose/8242596002/"
+webUrl: "https://www.cincinnati.com/story/news/2021/08/23/gop-primary-john-adams-running-against-ohio-secretary-state-larose/8242596002/"
+ampWebUrl: "https://amp.cincinnati.com/amp/8242596002"
+cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/8242596002"
 type: article
 quality: 84
 heat: -1
 published: false
 
 provider:
-  name: The Repository
-  domain: cantonrep.com
+  name: Cincinnati Enquirer
+  domain: cincinnati.com
 
 topics:
   - Election
@@ -39,6 +39,6 @@ related:
       domain: theguardian.com
     quality: 104
 
-secured: "Vz7GPnID1AXAiwDYfrilYWTxUnHBOYH5rz2luFp5D8XGgaFsOjXcQPdsBGQLAPKAKZ+c4d/sUBVwos41Kr4VMta35sQwxpm+13UvXLIk48GXvl3Wf6c0TMeuMR7fHd9WbtrE2jdvHjpdxnaauH/K/XtiDTJbsG9lHXz4rk/+j9Sk/7dSCtr+0gk9yLD1NbrrK/yZjmEVgBgR9pEH7n/spLWyLM8YbkmFZ6FRFr1+fGAJP7tK/L4vjXpkEQ63IbXAnlitWUqxEfphv3irZeDKANnHI2t40H6UdHQSbTVvD8xh0Y6RaPT2htVvizF7Cx39bBUOdjeftT+/fXyPxtTv4SWEkEqTuK68YD5UZX/vcIl/gvil0IHr8zQWZq6EwGmqb7Ty+WHL+UtqXuYewH0p7iAmNQCzTQY+cucPuPcXME78UI6eaBAI3hLqnQ0V2R/8qHLn9JcWb2GMV5gYd0tAQJkWb7esFEEDhSDNS4AmxskFt5tmUzIkVIy7aDsBvi0KnQyRVM5FnIIyWEUluWEbRw==;AxG3Ho5QwWxg++5w0WagjA=="
+secured: "lizeBx7kPAeq5xIoNmg/+Lv1t0mLK2Iu35LFqE7bnD6c6oxBhaR9BEYftYJK3Lhn9xbDQJB7seyT8Zy8eSmE53rdqDRRvZyqgHum1ZgFYvcxoGpOUrY/uNp54jTVoHOcEL2Q41/ZPG6FkijwOgKFiSvRHnvzIKBLP95hi+qcGDiHcnkeN3IxcU0PHZl7pB6+p1HVu3hf5aR1g+jB47SaJhIqmia9h101OqFWu8KhxGgQrwBH740/D8rC+oURWG7B8j6Mg4b5vK5romRylRT/7MjnCuOQKbtmKclEawypCPraignYXFdlSJOCaBjsLaBT0aXDOkK3GewnKB+4FO6jEuNphzhtnf8pT5hp9YpgP0c=;ZCHUbeuWk/mFxnSlFVizAA=="
 ---
 

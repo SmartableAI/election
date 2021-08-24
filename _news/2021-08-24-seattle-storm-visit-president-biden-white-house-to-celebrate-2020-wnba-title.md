@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.freep.com/amp/8245818002"
 cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/8245818002"
 type: article
 quality: 72
-heat: 132
+heat: 172
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
         width: 1600
         height: 1200
         isCached: true
+  - title: "Seattle Storm Visit President Joe Biden at White House to Celebrate 2020 WNBA Title"
+    excerpt: "The Seattle Storm were honored Monday at the White House by President Joe Biden to commemorate their 2020 WNBA championship. They were the first WNBA"
+    publishedDateTime: 2021-08-24T02:30:00Z
+    webUrl: "https://bleacherreport.com/articles/10010920-seattle-storm-visit-president-joe-biden-at-white-house-to-celebrate-2020-wnba-title"
+    ampWebUrl: "https://syndication.bleacherreport.com/amp/10010920-seattle-storm-visit-president-joe-biden-at-white-house-to-celebrate-2020-wnba-title.amp.html"
+    cdnAmpWebUrl: "https://syndication-bleacherreport-com.cdn.ampproject.org/c/s/syndication.bleacherreport.com/amp/10010920-seattle-storm-visit-president-joe-biden-at-white-house-to-celebrate-2020-wnba-title.amp.html"
+    type: article
+    provider:
+      name: Bleacher Report
+      domain: bleacherreport.com
+    quality: 69
+    images:
+      - url: "https://media.bleacherreport.com/image/upload/x_247,y_200,w_5191,h_3464,c_crop/v1629755609/cmwkxx7rin1xv9hkrttp.jpg"
+        width: 5191
+        height: 3464
+        isCached: true
   - title: "WNBA News: What Joe Biden Said About Champion Seattle Storm In Their White House Visit"
     excerpt: "The Seattle Storm visited President Joe Biden at the White House on Monday to celebrate their 2020 WNBA championship. Seattle defeated the Las Vegas Aces in a 3-game sweep, giving the organization their fourth championship title in their history."
     publishedDateTime: 2021-08-23T22:52:00Z
@@ -73,7 +89,21 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Biden kneels at White House celebration of WNBA champs Seattle Storm"
+    excerpt: "President Joe Biden got down on one knee in the East Room during the celebration of the WNBA champions Seattle Storm."
+    publishedDateTime: 2021-08-24T03:29:00Z
+    webUrl: "https://thegrio.com/2021/08/23/biden-kneels-white-house-wnba-seattle-storm/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 55
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2021/08/240820211629775420-1-scaled.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
-secured: "AXUEpfvB2wGyte9vEkJx2cfW+0I8ngAd0UYy/2XGDjuocZJEm1JVIAgdsZddfKyFh+YDQi/AYIg+bJ0WDiyX4Wm0uETGQUFVE/PP8eRmEjYjOOazarEKoEP4fsx7R3v/sw3tYOJj5G5OKUjIuvovzm4zfbTd7gosKnmKlGi4dTkFht2ceSbwQo0DQAREW2qBX770/4E+4TkkvzW2EIrPDqABA1yyBg1c58biiswQwizTZYDVykm2+nOCm5/k65iCKPq6OzpbSyszyzxEJZD7FJraYlalO5k08H6xxvznjPPrOcc+gQ4bkgAwMDyVG0pSxg9rqXtnddUBi45SRlWW7Wa49Le4mDU3/h6znlOFong=;fVNv6WMt5PoTeoux7E6YNw=="
+secured: "S13D7CDn6/Xz2iWXw0+1GbFPjTHRdOfXm/UPjHKyObbwMCrd+115B5LuFwmBCvrku7+1NaptLutYYRs9AwKygYWW88y00CEWXamlR4lHed7s1K2/TE/uzT1+qJ9u/FyZfCxVK4ANCBU9Jjy1K+eaT05H3oKdf+vwAAwf1AmWtYgwmdH/Oq50Zfu+bGAG67/XzwEU71ZaKoOksGbpkM9NtPNxi67SPDGC8IxN/6mdLM/FIS94nVA9XEzHIC8MRBJlC7gQb8xY/6mVQIZVEATNdGs/DVwviyOPzeillF38lLr84RUfbERLCrgc+yI02ho0YwRnawQoUVWvvDlzbp79xwnHemWLCwv9IILIH2egVMQ=;aqfIgmVMXA+PvWSRw4pmow=="
 ---
 
