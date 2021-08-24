@@ -59,6 +59,22 @@ related:
         width: 320
         height: 214
         isCached: true
+  - title: "Kamala Harris accuses Beijing of ‘coercion’ and ‘intimidation’ in South China Sea"
+    excerpt: "In major speech delivered in Singapore, US vice president says America stands with its allies in the Indo Pacific in the face of threats from China"
+    publishedDateTime: 2021-08-24T03:40:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/aug/24/kamala-harris-accuses-beijing-of-coercion-and-intimidation-in-south-china-sea"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/24/kamala-harris-accuses-beijing-of-coercion-and-intimidation-in-south-china-sea"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/24/kamala-harris-accuses-beijing-of-coercion-and-intimidation-in-south-china-sea"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/4b9d1b46c5ed87f036dda47f84e591e9c1060e02/0_126_4813_2890/master/4813.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5b34df223d15af9feda8d79cf2875c71"
+        width: 600
+        height: 360
+        isCached: true
   - title: "US VP Harris: Focus must stay on Afghan evacuation"
     excerpt: "Vice President Kamala Harris says the U.S. must maintain its focus on evacuating Americans and vulnerable Afghans and shouldn’t get distracted by questions over what went wrong in the chaotic U.S. exi"
     publishedDateTime: 2021-08-23T13:34:00Z
@@ -212,6 +228,38 @@ related:
       - url: "https://thumb.spokesman.com/N2HNE3d3V49sMF64E5u-wc5eHOo=/480x0/media.spokesman.com/photos/2021/08/23/61246a6aca3d9.hires.jpg"
         width: 480
         height: 317
+        isCached: true
+  - title: "Kamala Harris rebukes China in major speech on Indo-Pacific"
+    excerpt: "U.S. Vice President Kamala Harris delivered a sharp rebuke to China for its incursions in the South China Sea, warning its actions there amount to “coercion” and"
+    publishedDateTime: 2021-08-24T04:09:00Z
+    webUrl: "https://www.denverpost.com/2021/08/23/kamala-harris-rebukes-china-speech/"
+    ampWebUrl: "https://www.denverpost.com/2021/08/23/kamala-harris-rebukes-china-speech/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/08/23/kamala-harris-rebukes-china-speech/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/08/Singapore_US_Harris_92376.jpg?w=1024&#038;h=677"
+        width: 1024
+        height: 677
+        isCached: true
+  - title: "US VP Kamala Harris criticises Beijing intimidation in South China Sea"
+    excerpt: "US Vice President Kamala Harris has hit out at China during a speech made in Singapore on the first leg of a South East Asian tour. Ms Harris accused Beijing of coercion and intimidation in the South China Sea,"
+    publishedDateTime: 2021-08-24T04:45:00Z
+    webUrl: "https://www.bbc.co.uk/news/world-asia-58312947"
+    ampWebUrl: "https://www.bbc.co.uk/news/world-asia-58312947.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-asia-58312947.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 75
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/105E2/production/_120224076_gettyimages-1234839274.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "During Singapore visit, VP Kamala Harris says U.S. focus is on Afghanistan"
     excerpt: "U.S. Vice President Kamala Harris said during a visit to Singapore on Monday that President Joe Biden's administration is focused on getting the remaining American citizens and Afghan aides out of Afghanistan."

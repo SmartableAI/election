@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-22-barron-trump-enrolls-in-35000-a-year-private-school-in-florida.md",
+      "title": "Barron Trump Enrolls In $35,000-A-Year Private School In Florida",
+      "excerpt": "Barron Trump has enrolled in an exclusive private school in Palm Beach, Florida, for the new school year. A spokesperson for Oxbridge Academy announced earlier this week that Melania and Donald Trump's 15-year-old son has enrolled in the elite school as part of the class of 2024,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/barron-trump-enrolls-35000-year-private-school-florida-3278565",
+      "originalUrl": "https://www.ibtimes.com/barron-trump-enrolls-35000-year-private-school-florida-3278565",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/02/donald-and-melania-trump-have-tested-positive-for.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/barron-trump-enrolls-35000-year-private-school-florida-3278565?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/barron-trump-enrolls-35000-year-private-school-florida-3278565?amp=1",
+      "publishedDateTime": "2021-08-22T03:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-22-with-fight-over-mask-mandates-gov-abbott-passes-purity-test-in-trumps-gop.md",
       "title": "With fight over mask mandates, Gov. Abbott passes purity test in Trump's GOP",
       "excerpt": "When Texas had its first big surge of COVID hospitalizations, Gov. Greg Abbott responded by shutting down bars and mandating masks. As the second surge hit, Abbott put in place an automatic trigger to restrict the operating capacities of businesses and halt non-emergency surgeries to free up hospital beds in areas with high hospitalizations.",
@@ -807,7 +859,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot",
       "featuredContent": null,
       "highlight": null,
-      "heat": 845,
+      "heat": 905,
       "tags": null,
       "images": [
         {
@@ -1215,63 +1267,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-white-house-doubles-down-on-harris-asia-trip-amid-afghan-crisis-many-interests-around-the-world.md",
-      "title": "White House doubles down on Harris' Asia trip amid Afghan crisis: 'Many interests around the world'",
-      "excerpt": "The White House doubled down on Kamala Harris' East Asia trip amid the Afghanistan crisis. An official said the United States \"has many interests around the world.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YnD8Ucb7cHk/white-house-harris-asia-trip-amid-afghan-crisis-interests-around-world",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YnD8Ucb7cHk/white-house-harris-asia-trip-amid-afghan-crisis-interests-around-world",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 211,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43dec90e-50bf-4981-97ed-2fc0ac19fae8/df9afa57-897f-48c4-9c09-2cd422aefcb3/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/white-house-harris-asia-trip-amid-afghan-crisis-interests-around-world.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-harris-asia-trip-amid-afghan-crisis-interests-around-world.amp",
-      "publishedDateTime": "2021-08-18T13:40:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

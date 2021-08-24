@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-24-analysis-faucis-new-2022-timeline-for-covid-fight-could-be-a-political-disaster-for-biden-and-democrats.md",
+      "title": "Analysis: Fauci's new 2022 timeline for Covid fight could be a political disaster for Biden and Democrats",
+      "excerpt": "President Joe Biden just got some deeply unwelcome news: The pandemic that he was elected to end could drag on deep into a midterm election year, with all the political and economic destruction that could bring.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/11dJIea8mP8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/11dJIea8mP8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210816150025-01-biden-arrives-white-house-0816-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/24/politics/anthony-fauci-timeline-covid-joe-biden/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/24/politics/anthony-fauci-timeline-covid-joe-biden/index.html",
+      "publishedDateTime": "2021-08-23T21:47:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-23-bush-obama-trump-biden-how-four-presidents-created-todays-afghanistan-mess.md",
       "title": "Bush, Obama, Trump, Biden: How four presidents created today's Afghanistan mess",
       "excerpt": "President Joe Biden has said repeatedly over the past four months -- as recently as last week -- that he refuses to hand off the war in Afghanistan to a fifth US president.\n    \n",
@@ -1606,62 +1662,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/03/politics/biden-covid-remarks/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/03/politics/biden-covid-remarks/index.html",
       "publishedDateTime": "2021-08-03T19:32:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-clinton-trump-cuomo-powerful-men-in-politics-are-often-rewarded.md",
-      "title": "Clinton. Trump. Cuomo. Powerful men in politics are often rewarded.",
-      "excerpt": "The most powerful men in politics. They're often rewarded for having no shame.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/77_mzDuGm-s/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/77_mzDuGm-s/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210802222237-andrew-cuomo-file-0412-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/03/politics/will-cuomo-resign-what-matters/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/03/politics/will-cuomo-resign-what-matters/index.html",
-      "publishedDateTime": "2021-08-03T18:52:55-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

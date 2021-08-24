@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
 type: article
 quality: 125
-heat: 845
+heat: 905
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/170AB/production/_120097349_bidenindex.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Moderates bring House to standstill in Biden budget clash"
+    excerpt: "House Democratic leaders are trying to muscle President Joe Biden’s multitrillion-dollar budget blueprint over a key hurdle"
+    publishedDateTime: 2021-08-24T05:09:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/moderates-bring-house-standstill-biden-budget-clash-79613222"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/moderates-bring-house-standstill-biden-budget-clash-79613222"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/moderates-bring-house-standstill-biden-budget-clash-79613222"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b20bbdc0fd1346c9a17b53d2dbe90241_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Joe Biden Said He Is Committed To Helping Evacuate Afghan Allies Who Worked With The US Government"
     excerpt: "In a speech at the White House, Biden again stood by his decision to withdraw US forces from the country. By Clarissa-Jan Lim Posted on August 20, 2021, at 3:05 p.m. ET President Joe Biden delivers remarks on the ongoing evacuation efforts in Afghanistan,"
@@ -220,6 +236,22 @@ related:
       - url: "https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/09/Tim-Cook-stock-award.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Biden backs end to wolf protections, but hunting worries grow"
+    excerpt: "President Joe Biden’s administration is sticking by the decision under former President Donald Trump to lift protections for gray wolves across most of the U.S. But a top federal wildlife official on Friday told The Associated Press there is growing concern over aggressive wolf hunting seasons adopted for the predators in the western Great Lakes and northern Rocky Mountains."
+    publishedDateTime: 2021-08-24T05:36:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/aug/20/biden-backs-end-to-wolf-protections-but-hunting-wo/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/aug/20/biden-backs-end-to-wolf-protections-but-hunting-wo/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/aug/20/biden-backs-end-to-wolf-protections-but-hunting-wo/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 75
+    images:
+      - url: "https://thumb.spokesman.com/EUa83AxJaUAjjzTFSOqpYmhDpqM=/480x0/media.spokesman.com/photos/2021/08/20/612007ee730b1.hires.jpg"
+        width: 480
+        height: 320
         isCached: true
   - title: "Biden to speak after FDA gives full approval to Pfizer COVID-19 vaccine"
     excerpt: "The FDA has never before had so much evidence to judge a shot’s safety. More than 200 million doses already have been administered in the U.S."
@@ -461,6 +493,17 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "U.S. President Biden Approves Federal Aid to Tennessee After Flooding"
+    excerpt: "U.S. President Joe Biden has declared a major disaster exists in the state of Tennessee and ordered federal aid, after record downpours and flash flooding left at least 21 dead over the weekend, the White House said in a statement."
+    publishedDateTime: 2021-08-24T05:13:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-08-24/us-president-biden-approves-federal-aid-to-tennessee-after-flooding"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-08-24/us-president-biden-approves-federal-aid-to-tennessee-after-flooding?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-08-24/us-president-biden-approves-federal-aid-to-tennessee-after-flooding?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Ron DeSantis slams Joe Biden ‘lack of leadership’ at event highlighting COVID-19 treatment"
     excerpt: "Ron DeSantis turned his attention from COVID-19 to the White House. DeSantis aired grievances yet again about a perceived “lack of leadership” from President Joe Biden, showing that even at an event focused on the virus,"
     publishedDateTime: 2021-08-19T18:28:00Z

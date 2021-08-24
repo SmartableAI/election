@@ -3,27 +3,27 @@ category: news
 title: "Former Pence adviser: Refugee topics would be blocked in meetings"
 excerpt: "Olivia Troye, a former adviser to Vice President Mike Pence, speaks to CNN for the first time since her viral Twitter thread in which she says that some senior members"
 publishedDateTime: 2021-08-21T18:21:00Z
-originalUrl: "https://www.southernchestercountyweeklies.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_0c82f0fc-4cf3-5ea6-a393-5d9b021d3f4a.html"
-webUrl: "https://www.southernchestercountyweeklies.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_0c82f0fc-4cf3-5ea6-a393-5d9b021d3f4a.html"
+originalUrl: "https://www.dequeenbee.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_e4c372b5-02eb-537a-8131-96c95cf69491.html"
+webUrl: "https://www.dequeenbee.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_e4c372b5-02eb-537a-8131-96c95cf69491.html"
 type: article
 quality: 55
 heat: 55
 published: false
 
 provider:
-  name: Southern Chester County Weeklies
-  domain: southernchestercountyweeklies.com
+  name: DeQueen Bee
+  domain: dequeenbee.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/southernchestercountyweeklies.com/content/tncms/assets/v3/editorial/0/c8/0c82f0fc-4cf3-5ea6-a393-5d9b021d3f4a/612157ea6e569.image.jpg?resize=576%2C324"
+  - url: "https://bloximages.chicago2.vip.townnews.com/dequeenbee.com/content/tncms/assets/v3/editorial/e/4c/e4c372b5-02eb-537a-8131-96c95cf69491/612157d91c10b.image.jpg?resize=576%2C324"
     width: 576
     height: 324
     isCached: true
 
-secured: "5m9WOb4jtxhtV7ElCvNm65gUkbhdMdccvKQbNSjo7+EMuc3Y0deWn9uvXcNfyHCyhey1lIuYGWG/5VbsVC/UyFfQBdEOzmYU13vIgCYXQG4QqACvYdKydAvjg6X7uBJmkkiPcdm8QHX978A4f789GuERp4hor6LTpL1ZhpSdrfB4r2w+9aZ8X3SX15rseo00DkBawNSp1KugTymVBAESDBRgXITe8WN0x9BF3aJkd0skEsfD1ynqXDiAebje1meFg8xD8p/KOmIPJ5JlnID/VZjXWu2gWQ7DEkrMgFz97HFyT093CsdmQgoq4RXMMP7xa1uodXLedO43ssJpEsYYhP1ljxcbLqECrAJkGhitggk=;oaxiykXuvRqNpwg9CvNfQg=="
+secured: "z18gtOdtQTsey/qlfZfsYvcrGzwUleO5dwwkd5bmirWT/IcXwZmWK/QoCojjY9k7RpkeIibTLtKkxG8G1s5er+tIx9VEqI3usVy/HBLWoOmg0RwMq7Zs+srF3E37bA1acc7Pq3gPWd6PxupIIXpK9udXmvWWdW6SKegP1U5LqmYRabXTCuWNFfI/yNSAjbpifeTApRYi4xpA6GJc+CR7lvZkwkZi5jhpe0Cr3nvK7p6Fsd4scvqjl1VDckh/bUnLWa/ughfDoxByGXdop6tUCqHdxtJf0gMq1iubv6PmcGwhjIpTaXP35HqALiTn8ebXcNe1xtqr2xNQsypv0WujJyDRGPkizZFT+oqGgpZJksE=;ZY/8dQ4OmWWYF1mjp1oVOw=="
 ---
 

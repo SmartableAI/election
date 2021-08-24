@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/news/amp/Vos-to-keep-Trump-updated-
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Vos-to-keep-Trump-updated-on-election-16404028.php"
 type: article
 quality: 120
-heat: 280
+heat: 300
 published: true
 
 provider:
@@ -56,6 +56,22 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/a/40/a406b0dc-3c5e-55be-864e-057e2578c64e/6122ddfc6e97d.image.jpg?resize=1024%2C679"
         width: 1024
         height: 679
+        isCached: true
+  - title: "James Craig says he’d accept Trump endorsement, doesn’t take position on stolen election claims"
+    excerpt: "The former Detroit police chief launched an exploratory campaign committee but has yet to formally start his bid for Michigan governor,"
+    publishedDateTime: 2021-08-24T04:51:00Z
+    webUrl: "https://www.mlive.com/public-interest/2021/08/james-craig-says-hed-accept-trump-endorsement-doesnt-take-position-on-stolen-election-claims.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2021/08/james-craig-says-hed-accept-trump-endorsement-doesnt-take-position-on-stolen-election-claims.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2021/08/james-craig-says-hed-accept-trump-endorsement-doesnt-take-position-on-stolen-election-claims.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 78
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VSCN37RCRBA73B3ZAHRR3MR7U4.JPG"
+        width: 3972
+        height: 2648
         isCached: true
   - title: "Trump Booed at Alabama Rally After Telling Supporters to Get Vaccinated"
     excerpt: "Former President Donald Trump was booed at a rally Saturday in Alabama after he told supporters they should get vaccinated"

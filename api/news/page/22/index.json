@@ -2,6 +2,58 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-07-07-essential-politics-misunderstood-set-up-to-stumble-or-neither-making-sense-of-kamala-harris-standing.md",
+      "title": "Essential Politics: Misunderstood, set up to stumble — or neither? Making sense of Kamala Harris’ standing",
+      "excerpt": "As Harris enters a turbulent period early in her tenure as vice president, thoughtful and provocative analyses look at her challenges and standing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/politics/newsletter/2021-07-07/harris-challenges-turbulence-essential-politics",
+      "originalUrl": "https://www.latimes.com/politics/newsletter/2021-07-07/harris-challenges-turbulence-essential-politics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/7d32c4b/2147483647/strip/true/crop/4821x3214+0+0/resize/840x560!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F56%2F19%2F5fc640b747c9b14722cf6c2aa5d7%2Fharris-35073.jpg",
+          "width": 840,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-07T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-trump-told-chief-of-staff-hitler-did-a-lot-of-good-things-book-says.md",
       "title": "Trump told chief of staff Hitler ‘did a lot of good things’, book says",
       "excerpt": "Remark shocked John Kelly, author Michael Bender reports, detailing former president’s ‘stunning disregard for history’",
@@ -1252,62 +1304,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-ex-acting-ice-director-root-cause-of-border-chaos-is-reversal-of-trumps-immigration-policies.md",
-      "title": "Ex-acting ICE director: Root cause of border 'chaos' is reversal of Trump’s immigration policies",
-      "excerpt": "Former Acting Director of U.S. Immigration and Customs Enforcement (ICE) Ron Vitiello argued on “Fox & Friends First” on Monday that the “root cause of the chaos” at the southern border is the reversal of former President Trump’s immigration policies.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nCexhhTjG2s/ex-acting-ice-director-root-cause-of-border-chaos-is-reversal-of-trumps-immigration-policies",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nCexhhTjG2s/ex-acting-ice-director-root-cause-of-border-chaos-is-reversal-of-trumps-immigration-policies",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ex-acting-ice-director-root-cause-of-border-chaos-is-reversal-of-trumps-immigration-policies.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-acting-ice-director-root-cause-of-border-chaos-is-reversal-of-trumps-immigration-policies.amp",
-      "publishedDateTime": "2021-07-05T12:05:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }
