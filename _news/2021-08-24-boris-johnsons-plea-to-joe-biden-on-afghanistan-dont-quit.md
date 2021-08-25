@@ -2,9 +2,9 @@
 category: news
 title: "Boris Johnson’s Plea to Joe Biden on Afghanistan: Don’t Quit"
 excerpt: "America’s withdrawal strikes Brits and Europeans as cynical and raises questions about whether the West still has a “strategic will.”"
-publishedDateTime: 2021-08-24T08:50:00Z
-originalUrl: "https://www.washingtonpost.com/business/boris-johnsons-plea-to-joe-biden-on-afghanistan-dont-quit/2021/08/24/ff3b9060-04af-11ec-b3c4-c462b1edcfc8_story.html?amp;amp"
-webUrl: "https://www.washingtonpost.com/business/boris-johnsons-plea-to-joe-biden-on-afghanistan-dont-quit/2021/08/24/ff3b9060-04af-11ec-b3c4-c462b1edcfc8_story.html?amp;amp"
+publishedDateTime: 2021-08-24T06:50:00Z
+originalUrl: "https://www.washingtonpost.com/business/boris-johnsons-plea-to-joe-biden-on-afghanistan-dont-quit/2021/08/24/ff3b9060-04af-11ec-b3c4-c462b1edcfc8_story.html"
+webUrl: "https://www.washingtonpost.com/business/boris-johnsons-plea-to-joe-biden-on-afghanistan-dont-quit/2021/08/24/ff3b9060-04af-11ec-b3c4-c462b1edcfc8_story.html"
 type: article
 quality: 105
 heat: -1
@@ -160,7 +160,7 @@ related:
   - title: "Joe Biden speaks about Afghanistan evacuation amid criticism – live"
     excerpt: "Psaki says US has helped evacuate 57,000 people in the last nine days and and is on track to meet its deadline of 31 August"
     publishedDateTime: 2021-08-24T20:24:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news?page=with:block-612560288f08b1506f20dbf6"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news?page=with:block-61255bc08f080ef844e747eb"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news"
     type: article
@@ -1252,6 +1252,6 @@ related:
         height: 380
         isCached: true
 
-secured: "8HKqA8Y7mPB8n99HNRNI13KlapyVhhoTOMehYLGU1K6I5T0ErwL4JTBbkhw1pa7H0xzn+pNRscjD7SCGU36MDkCX2biKxvhmMXmnRtY8bjcp/7z5nt7bavAWk8stWpx+hlxe1zLvKmlghzoELfxdzA3BeiTrO5BXB5Jr50IlGyu9R362LNJBeixy3LfSoil/Ix+r4yl8NjM9/HZH78l6PfL5QYSEKVFufbg5rBvBVUyYYfsAW6rjbmd82jsINXmyJR29BW8oIX418/eXZ1QS+D4GEX8OjmSFZzT2rvUMvuufIwHQhrhHqK3OyYAHP10/3Af40t/Lt70SGU8b/MKMC233Jn2itbAsXGFIAC3QqSM=;QfJYE8VjtpmxZ+MFq7wFcQ=="
+secured: "lgjxUn+FIXHUtw8pVcD9bCxD61CuqVdsqGZgG+dsummGWdtA5f20R0hsqR1F1wN6aKElM+rq6g9u7FC70nP4GtLt9wDHOWq4weISvVdxbj8NNVXi2k3WGOgIWm/8CZfc23qyMLYt+s910mYbtxyr8lkdtdGv6UEvu6UqmqNlX/7VjhTzeQycN08avZYMYzqUOETq3+ITfsNKTIM5feSXCw5D7F9l8oE4Wq2nqBABTXVJz0ieOdUCpU3oOkZv97/O5/LZ/H3dSdhZmIKKgw7QmhWNotGPgk9IJTXZFSnZdS+1wzeHkaKcl9MIgmv63RSemn/rzzzjPWBJN2pBV+1v0XtVGG2HuNiItL3ArRm24do=;y39iOWCuii0vJZQhQI3UEA=="
 ---
 

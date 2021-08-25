@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gossipcop.com/joe-biden-furious-with-barack-obama-over-p
 cdnAmpWebUrl: "https://www-gossipcop-com.cdn.ampproject.org/c/s/www.gossipcop.com/joe-biden-furious-with-barack-obama-over-pandemic-birthday-bash/2570136/?amp"
 type: article
 quality: 75
-heat: 115
+heat: 95
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/TCDhMmgO3FXQtxHtmK8273GU52Q=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7TAJCO4FPBA33LQOEAIAFQ5HRU.jpg"
         width: 1200
         height: 992
-        isCached: true
-  - title: "An Update on President Joe Biden’s Promise to “Have our Backs”"
-    excerpt: "By Congressman James E. Clyburn July 20, 2021, marked six months that Joseph R. Biden has been President. When I endorsed Joe Biden for"
-    publishedDateTime: 2021-08-23T13:42:00Z
-    webUrl: "https://thehilltoponline.com/2021/08/23/an-update-on-president-joe-bidens-promise-to-have-our-backs/"
-    type: article
-    provider:
-      name: The Hilltop
-      domain: thehilltoponline.com
-    quality: 55
-    images:
-      - url: "https://thehilltoponline.com/wp-content/uploads/2021/08/Screen-Shot-2021-08-23-at-9.41.18-AM-1.png"
-        width: 590
-        height: 467
         isCached: true
 
 secured: "fb3u/uR4ncp/YQPRvqUQxQVspakm5tBjdPgEJl7TEHZVK9fjl/jL1zCy5hC+mFHBZdfVF19w3UHQxcxoUM2hJhpWEo8abB6cApT88C3g/nKqqw901+08hz1MJpoza6IhWlK/vTpxYKVttvnQx34R9N1JUOqOlJUwBbcj5gLIi0vgVie5BdHlVmdb1mjaS/0gboEbUVe1Vb9hzaNnm07iEyDjC07bJYalVc+M+pwBX2U2USSSdy+AmMYw2fxd1GqZzfGJKg0TOnwlPof7ePaZPvZJ6uED4yo4AcDWOXpKTygkoZBX0ieUtOpHe2ZmzAHId7VhGAWtEs0IOhdVt3Accv7Wlc6QkeNh1VTx2c7znJw=;4fqWD7ibFzZiF8SjFy658w=="

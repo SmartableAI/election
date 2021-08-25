@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-24-beijing-continues-to-coerce-and-intimidate-in-south-china-sea-kamala-harris.md",
+      "title": "Beijing Continues To \"Coerce\" And \"Intimidate\" In South China Sea: Kamala Harris",
+      "excerpt": "U.S. Vice President Kamala Harris on Tuesday accused Beijing of continuing to \"coerce\" and \"intimidate\" in the South China Sea and pledged that Washington would pursue a free and open Indo Pacific.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/world-news/kamala-harris-says-beijing-continues-to-coerce-and-intimidate-in-south-china-sea-2517148",
+      "originalUrl": "https://www.ndtv.com/world-news/kamala-harris-says-beijing-continues-to-coerce-and-intimidate-in-south-china-sea-2517148",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2021-08/kvgn5vh_kamala-harris_625x300_24_August_21.jpeg?im=FaceCrop,algorithm=dnn,width=650,height=400",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/world-news/kamala-harris-says-beijing-continues-to-coerce-and-intimidate-in-south-china-sea-2517148?amp=1&akamai-rum=off",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/kamala-harris-says-beijing-continues-to-coerce-and-intimidate-in-south-china-sea-2517148?amp=1&akamai-rum=off",
+      "publishedDateTime": "2021-08-23T20:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-joe-biden-praises-wnba-champs-for-social-justice-activism.md",
+      "title": "Joe Biden praises WNBA champs for social justice activism",
+      "excerpt": "The visit marked the first time that an NBA or WNBA team has visited the White House since the Cleveland Cavaliers were feted by Barack Obama in 2016.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tampabay.com/sports/2021/08/23/joe-biden-praises-wnba-champs-for-social-justice-activism/",
+      "originalUrl": "https://www.tampabay.com/sports/2021/08/23/joe-biden-praises-wnba-champs-for-social-justice-activism/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tampabay.com/resizer/H3idYXdZk6JBiyKwaxGXggjk8_8=/800x450/filters:focal(2065x1285:2075x1275)/cloudfront-us-east-1.images.arcpublishing.com/tbt/EPAHJMPR7OBARKIDWG2FATIR2Q.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tampabay.com/sports/2021/08/23/joe-biden-praises-wnba-champs-for-social-justice-activism/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/sports/2021/08/23/joe-biden-praises-wnba-champs-for-social-justice-activism/?outputType=amp",
+      "publishedDateTime": "2021-08-23T17:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tampa Bay Times",
+        "domain": "tampabay.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-why-is-joe-biden-suing-facebook-and-instagram-over-vaccine-posts.md",
       "title": "Why is Joe Biden suing Facebook and Instagram over vaccine posts?",
       "excerpt": "Facebook is back in hot water after an explosive New York Times investigative report found the company hid the truth about its most popular viral content after the company discovered the most-viewed link on the platform raised doubt about the coronavirus vaccine.",
@@ -59,21 +145,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-24-seattle-storm-visit-president-biden-white-house-to-celebrate-2020-wnba-title.md",
-      "title": "Seattle Storm visit President Biden, White House to celebrate 2020 WNBA title",
-      "excerpt": "The Storm became the first women’s team welcomed by President Biden and the first WNBA squad at the White House since the 2015 Minnesota Lynx.",
+      "path": "_news/2021-08-24-apple-ceo-tim-cook-to-meet-with-us-president-joe-biden-to-discuss-cybersecurity.md",
+      "title": "Apple CEO Tim Cook to Meet With U.S. President Joe Biden to Discuss Cybersecurity",
+      "excerpt": "Apple CEO Tim Cook is set to join other tech executives in a cybersecurity meeting with U.S. President Joe Biden next week, reports Bloomberg.",
       "sourceUrl": null,
-      "webUrl": "https://www.freep.com/story/sports/wnba/storm/2021/08/23/seattle-storm-visit-president-biden-white-house-honor-wnba-title/8245818002/",
-      "originalUrl": "https://www.freep.com/story/sports/wnba/storm/2021/08/23/seattle-storm-visit-president-biden-white-house-honor-wnba-title/8245818002/",
+      "webUrl": "https://www.macrumors.com/2021/08/23/tim-cook-joe-biden-cybersecurity-meeting/",
+      "originalUrl": "https://www.macrumors.com/2021/08/23/tim-cook-joe-biden-cybersecurity-meeting/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 172,
+      "heat": 70,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2021/08/23/USAT/eaa65bb6-091f-4e5e-b30d-bdbf44364616-GTY_1234836329.jpg?auto=webp&crop=7544,4244,x1,y787&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
+          "url": "https://images.macrumors.com/t/IDpC4PrZIv4mNWa0wPO2j5dgr0U=/1600x/http://images.macrumors.com/article-new/2019/02/timcooktulane.jpg",
+          "width": 1600,
+          "height": 1200,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -81,13 +167,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.freep.com/amp/8245818002",
-      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/8245818002",
-      "publishedDateTime": "2021-08-23T14:44:00-07:00",
+      "ampWebUrl": "https://www.macrumors.com/2021/08/23/tim-cook-joe-biden-cybersecurity-meeting/amp/",
+      "cdnAmpWebUrl": "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/08/23/tim-cook-joe-biden-cybersecurity-meeting/amp/",
+      "publishedDateTime": "2021-08-23T16:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Detroit Free Press",
-        "domain": "freep.com",
+        "name": "MacRumors",
+        "domain": "macrumors.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -425,7 +511,7 @@
       "originalUrl": "https://www.cleveland.com/nation/2021/08/budget-clash-pits-moderate-democrats-against-biden-pelosi.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -565,49 +651,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-bidens-special-envoy-urges-north-korea-to-return-to-talks.md",
-      "title": "Biden's special envoy urges North Korea to return to talks",
-      "excerpt": "U.S. President Joe Biden’s special envoy for North Korea said Monday he’s ready to meet his North Korean counterparts “anywhere and at anytime” as he held discussions with South Korean officials over stalled nuclear talks with the North.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mrt.com/news/article/Biden-s-special-envoy-urges-North-Korea-to-return-16404595.php",
-      "originalUrl": "https://www.mrt.com/news/article/Biden-s-special-envoy-urges-North-Korea-to-return-16404595.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mrt.com/news/amp/Biden-s-special-envoy-urges-North-Korea-to-return-16404595.php",
-      "cdnAmpWebUrl": "https://www-mrt-com.cdn.ampproject.org/c/s/www.mrt.com/news/amp/Biden-s-special-envoy-urges-North-Korea-to-return-16404595.php",
-      "publishedDateTime": "2021-08-23T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Midland Reporter-Telegram",
-        "domain": "mrt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -780,7 +823,7 @@
       "originalUrl": "https://www.houstonchronicle.com/news/article/Vos-to-keep-Trump-updated-on-election-16404028.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 260,
+      "heat": 320,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1223,49 +1266,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-22-more-than-half-of-kinzingers-gop-primary-challengers-believe-trump-won-the-2020-election.md",
-      "title": "More than half of Kinzinger's GOP primary challengers believe Trump won the 2020 election",
-      "excerpt": "Even though allegations of widespread fraud in the 2020 presidential election haven't been substantiated, four conservatives challenging Republican U.S. Rep. Adam Kinzinger for his congressional seat insist Donald Trump actually won reelection.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailyherald.com/news/20210821/more-than-half-of-kinzingers-gop-primary-challengers-believe-trump-won-the-2020-election",
-      "originalUrl": "https://www.dailyherald.com/news/20210821/more-than-half-of-kinzingers-gop-primary-challengers-believe-trump-won-the-2020-election",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailyherald.com/storyimage/DA/20210821/news/210829838/AR/0/AR-210829838.jpg&updated=202108211740&MaxW=800&MaxH=800&noborder",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailyherald.com/amp-article/20210821/news/210829838/",
-      "cdnAmpWebUrl": "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20210821/news/210829838/",
-      "publishedDateTime": "2021-08-21T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

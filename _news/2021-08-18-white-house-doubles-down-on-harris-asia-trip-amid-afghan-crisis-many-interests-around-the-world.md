@@ -272,6 +272,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Afghanistan 'political disaster' for Biden, former top Clinton adviser says"
+    excerpt: "President Biden's handling of the evacuation efforts in Afghanistan is a \"political disaster\" that could cost Democrats in the midterm elections, a former top adviser to both Hillary and Bill Clinton told told Fox News in an interview."
+    publishedDateTime: 2021-08-25T18:15:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pQtAib7gm_4/for-biden-former-top-clinton-adviser-political-disaster"
+    ampWebUrl: "https://www.foxnews.com/politics/for-biden-former-top-clinton-adviser-political-disaster.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/for-biden-former-top-clinton-adviser-political-disaster.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/68e5bcf0-eec7-4f42-bfe0-04cfaf76ec03/d43f3e50-ec84-4e75-948f-0d3b647fface/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden admin doubles down on Psaki claim Americans not stranded in Afghanistan"
     excerpt: "An administration official stood by Psaki’s claim on Tuesday, telling Fox News in an email that the White House is working to bring home Americans who want to leave Afghanistan."
     publishedDateTime: 2021-08-24T16:21:22Z
@@ -847,6 +863,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden's meeting with Israeli prime minister to keep spotlight on Afghanistan, terrorist threats to allies"
+    excerpt: "President Biden's upcoming meeting with new Israeli Prime Minister Naftali Bennett is likely to center on the escalating crisis in Afghanistan, as well as other emerging threats to the U.S. and its allies due to the rise of terrorism in the region, experts predict. "
+    publishedDateTime: 2021-08-25T18:29:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g1p1NZieoCg/biden-israel-prime-minister-bennett-afghanistan-terrorist-threats"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-israel-prime-minister-bennett-afghanistan-terrorist-threats.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-israel-prime-minister-bennett-afghanistan-terrorist-threats.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2901d7fe-8e83-4e9e-92d7-50c36001ec66/e1aeb15c-2508-4b8a-82c0-4db01110d054/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Biden White House accepts responsibility for 'chaos' in Afghanistan, says it is 'vigilant' on terror threat"
     excerpt: "President Biden and his national security team are \"taking responsibility\" for \"every decision\" the U.S. government took with respect to Afghanistan, White House national security adviser Jake Sullivan said Tuesday."

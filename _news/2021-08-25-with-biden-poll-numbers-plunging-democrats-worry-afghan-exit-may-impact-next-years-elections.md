@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-poll-numbers-plunging-democra
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-poll-numbers-plunging-democrats-worry-afghanistan-midterms.amp"
 type: article
 quality: 178
-heat: 318
+heat: 358
 published: true
 
 provider:
@@ -78,6 +78,38 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "AOC says Biden must resettle minimum of 200K Afghans in US"
+    excerpt: "Rep. Alexandria Ocasio-Cortez, D-N.Y., said Tuesday that the Biden administration must agree to resettle a minimum of 200,000 Afghan refugees in the United States."
+    publishedDateTime: 2021-08-25T18:34:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BVDaSSuyZa8/aoc-says-biden-must-resettle-minimum-200k-afghans-us"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-says-biden-must-resettle-minimum-200k-afghans-us.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-says-biden-must-resettle-minimum-200k-afghans-us.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c4408fb9-26a7-4fad-9794-9b95535e7aba/26a0d806-c342-45fd-be36-3d73e891fdb1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Psaki claims US doesn't negotiate with terrorists despite Biden admin depending on Taliban for evacuation"
+    excerpt: "White House press secretary Jen Psaki said Wednesday that U.S. policy is still not to negotiate with terrorists, despite apparently relying heavily on the statements and promises by Taliban leaders since their takeover of Afghanistan last week."
+    publishedDateTime: 2021-08-25T19:55:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hjMIzX10lFw/psaki-us-negotiate-terrorists-biden-admin-taliban-evacuation"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-us-negotiate-terrorists-biden-admin-taliban-evacuation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-us-negotiate-terrorists-biden-admin-taliban-evacuation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1a7681bc-6328-4f29-b286-2c34137c2968/61fa24cf-48b9-4b66-8cc2-8ac469905270/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Growing political roadblock vs. big spender Joe Biden"
     excerpt: "As the debacle in Afghanistan consumes the Biden administration, Wall Street is keeping a closer eye on another debacle."

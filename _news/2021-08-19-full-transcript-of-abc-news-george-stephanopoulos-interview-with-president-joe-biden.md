@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/full-transcript-abc-news-george-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/full-transcript-abc-news-george-stephanopoulos-interview-president/story?id=79535643"
 type: article
 quality: 117
-heat: 137
+heat: 117
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     width: 992
     height: 558
     isCached: true
-
-related:
-  - title: "President Joe Biden goes off script during White House visit, gives Storm personal tour of Oval Office"
-    excerpt: "After a 20-minute ceremony in the East Room to celebrate the team’s 2020 WNBA championship, President Joe Biden asked the Storm if they would like a private tour, led by him, of the Oval Office. Of course,"
-    publishedDateTime: 2021-08-24T00:28:00Z
-    webUrl: "https://www.seattletimes.com/sports/storm/president-joe-biden-goes-off-script-during-white-house-visit-gives-storm-personal-tour-of-oval-office/"
-    ampWebUrl: "https://www.seattletimes.com/sports/storm/president-joe-biden-goes-off-script-during-white-house-visit-gives-storm-personal-tour-of-oval-office/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/sports/storm/president-joe-biden-goes-off-script-during-white-house-visit-gives-storm-personal-tour-of-oval-office/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
 
 secured: "Dvvu84FGPe4R6tmtG9SUOiPiy4kn2Old8EmRBQ5NEKXJWfuzrDbvHgy/hfMX2RiG3J7fVlHRPXNXOk08ArR2oy1RXI5AjgPjz4ZlH7ckwBieTPammoPNR0cmlx9B9B7dIB37WIy1RmbI8Q/VdziVPNzVSzDxNY0bicu4gLjcCDU+YzWnC4LCTR1EquwaunT6+dvDTPHObdStKTEfP5CWLDl7fitSEh/TggHokd4P11Ojcumwam20g3fNpSi+4p+TGDvCA9uqZIiHYVTJIE4BxiXMDj3ZsQcxIu0CMv1FWjNwLrUi6umU1/wseFbLS9oIExLYTwXyoT0MdxMu1w8NZdADcZoBCBqHdJp3laIzkse8oREVAwz9Buw942W3HXBNpL7f+IGBmSFVC4EHbC2vuV3a8zDd+/9M7I1VC+Jxn61+yqA0j4A8fVoJtUjNwwE4SfpgizROQazDHHRTkRDnFV88drw2sCov7P8JQLuNHDb/m0fcsXsWiKbgdo0DJtaQJHSf5eX4G9IDUxulzCl+wA==;P06/M2avrZyx3ASTAYNDcw=="
 ---

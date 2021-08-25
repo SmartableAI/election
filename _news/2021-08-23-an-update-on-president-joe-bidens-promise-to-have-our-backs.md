@@ -25,36 +25,65 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden Furious With Barack Obama Over Pandemic Birthday Bash?"
-    excerpt: "Are President Joe Biden and former President Barack Obama locked in a bitter feud over Obama's 60th birthday bash? One tabloid insists the prideful"
-    publishedDateTime: 2021-08-18T11:00:00Z
-    webUrl: "https://www.gossipcop.com/joe-biden-furious-with-barack-obama-over-pandemic-birthday-bash/2570136/"
-    ampWebUrl: "https://www.gossipcop.com/joe-biden-furious-with-barack-obama-over-pandemic-birthday-bash/2570136/?amp"
-    cdnAmpWebUrl: "https://www-gossipcop-com.cdn.ampproject.org/c/s/www.gossipcop.com/joe-biden-furious-with-barack-obama-over-pandemic-birthday-bash/2570136/?amp"
+  - title: "Beto O'Rourke pushes Joe Biden to help pass federal voting bill"
+    excerpt: "Former Congressman Beto O’Rourke is using his political platform to turn up the heat on President Joe Biden on voting rights legislation that is unlikely to pass the U.S. Senate, laying the fate of the legislation squarely at Biden’s feet."
+    publishedDateTime: 2021-08-25T17:56:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/Beto-O-Rourke-pushes-Joe-Biden-to-help-pass-16411342.php"
+    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Beto-O-Rourke-pushes-Joe-Biden-to-help-pass-16411342.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Beto-O-Rourke-pushes-Joe-Biden-to-help-pass-16411342.php"
     type: article
     provider:
-      name: Gossip Cop
-      domain: gossipcop.com
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 125
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/46/51/21391940/3/400x0.jpg"
+        width: 400
+        height: 266
+        isCached: true
+  - title: "Biden's special envoy urges North Korea to return to talks"
+    excerpt: "U.S. President Joe Biden’s special envoy for North Korea said Monday he’s ready to meet his North Korean counterparts “anywhere and at anytime” as he held discussions with South Korean officials over stalled nuclear talks with the North."
+    publishedDateTime: 2021-08-23T09:45:00Z
+    webUrl: "https://www.mrt.com/news/article/Biden-s-special-envoy-urges-North-Korea-to-return-16404595.php"
+    ampWebUrl: "https://www.mrt.com/news/amp/Biden-s-special-envoy-urges-North-Korea-to-return-16404595.php"
+    cdnAmpWebUrl: "https://www-mrt-com.cdn.ampproject.org/c/s/www.mrt.com/news/amp/Biden-s-special-envoy-urges-North-Korea-to-return-16404595.php"
+    type: article
+    provider:
+      name: Midland Reporter-Telegram
+      domain: mrt.com
     quality: 75
     images:
-      - url: "https://upload.gossipcop.com/gc/uploads/2021/08/Untitled-design-71.jpg"
-        width: 1200
-        height: 800
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
-  - title: "This day in history, August 23: Democratic presidential candidate Barack Obama introduces his choice of running mate, Sen. Joe Biden of Delaware"
-    excerpt: "Almanacs are full of lists of global and national historic events. But “This Day in History” feature invites you to not just peruse a list, but to take a trip back in time to see how a significant event originally was reported in the Chicago Tribune."
-    publishedDateTime: 2021-08-23T11:49:00Z
-    webUrl: "https://www.chicagotribune.com/history/ct-aud-today-history-almanac-august-23-20210823-ykkodz6axrhtxpyusfnjwhu6uy-story.html"
+  - title: "Biden Urges More Employers to Enact Vaccine Mandates Following FDA’s Full Approval"
+    excerpt: "Do what I did last month. Require your employees to get vaccinated or face strict requirements,” Biden said Monday."
+    publishedDateTime: 2021-08-24T11:40:00Z
+    webUrl: "https://www.barrons.com/articles/vaccine-mandates-51629805238"
+    ampWebUrl: "https://www.barrons.com/amp/articles/vaccine-mandates-51629805238"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/vaccine-mandates-51629805238"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 68
+      name: Barron's
+      domain: barrons.com
+    quality: 69
     images:
-      - url: "https://www.chicagotribune.com/resizer/TCDhMmgO3FXQtxHtmK8273GU52Q=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7TAJCO4FPBA33LQOEAIAFQ5HRU.jpg"
-        width: 1200
-        height: 992
+      - url: "https://images.barrons.com/im-390118/social"
+        width: 1280
+        height: 640
         isCached: true
+  - title: "President Joe Biden goes off script during White House visit, gives Storm personal tour of Oval Office"
+    excerpt: "After a 20-minute ceremony in the East Room to celebrate the team’s 2020 WNBA championship, President Joe Biden asked the Storm if they would like a private tour, led by him, of the Oval Office. Of course,"
+    publishedDateTime: 2021-08-24T00:28:00Z
+    webUrl: "https://www.seattletimes.com/sports/storm/president-joe-biden-goes-off-script-during-white-house-visit-gives-storm-personal-tour-of-oval-office/"
+    ampWebUrl: "https://www.seattletimes.com/sports/storm/president-joe-biden-goes-off-script-during-white-house-visit-gives-storm-personal-tour-of-oval-office/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/sports/storm/president-joe-biden-goes-off-script-during-white-house-visit-gives-storm-personal-tour-of-oval-office/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
 
 secured: "SHxVk6DoonWCGwBkdss0lHXmO6DJqZfzzdxTlktiLeOvNnRtQ5ojSWDbTVWNziKlDGutWxbjqH1/N7ZOkP2Gcb0OYv0c9/kHOSnp6uG+vRXg9Wogs9jfdUM7/I94T6/jCJBMQV/YS14M9wyc8EAizw9lCFrdJ4+brTQJcWh9LZK8XajB9cv5PD2AH8GrxW1B3at6UN1bQthAz0rlkVl1nBIubobcCqhvTFC+QzSCtQNvj/GE3hunXF4aWicyF8IRAFhHZGXzjEv3u1gsbMX3YNm/LyHGS0ZNF+sikt5SbXw+CK2yBd1mUMmE5uHJCZLt/kdI6XeijzZkaS3JhNn+zRlJT4yTnfX/qn5VMcd4eGM=;jLYIPPDkPWDpBqEXDlNaZw=="
 ---

@@ -95,6 +95,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "'Remain in Mexico' SCOTUS ruling: Texas AG Paxton vows to hold Biden admin accountable after win"
+    excerpt: "Texas Attorney General Ken Paxton on Wednesday said his state would continue to hold the Biden administration accountable, a day after the Supreme Court reinstated the Trump-era \"Remain in Mexico\" policy in response to a lawsuit from Texas and Missouri."
+    publishedDateTime: 2021-08-25T19:00:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bl8IAD3xuHs/texas-paxton-biden-accountable-remain-mexico-scotus-win"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-paxton-biden-accountable-remain-mexico-scotus-win.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-paxton-biden-accountable-remain-mexico-scotus-win.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b4d0a0b1-4c69-4579-9ea7-c954144add9a/63e36fce-6552-4281-a47f-eb31235ccbac/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Remain-in-Mexico court ruling a win for Texas, Missouri over Biden admin"
     excerpt: "A federal judge on Friday ordered the Biden administration to \"enforce and implement\" the Trump-era Remain-in-Mexico policy in response to a lawsuit from Texas and Missouri, which claimed that the administration’s attempt to terminate the policy was illegal and harmful."
     publishedDateTime: 2021-08-14T02:18:15Z

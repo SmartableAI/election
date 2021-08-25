@@ -2,6 +2,58 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-06-15-dana-carveys-joe-biden-impression-on-colbert-praised-as-perfect.md",
+      "title": "Dana Carvey's Joe Biden Impression on Colbert Praised As 'Perfect'",
+      "excerpt": "Dana Carvey appeared as Joe Biden for a full-interview with Stephen Colbert on The Late Show. His impression of the President went down well with fans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/dana-carvey-joe-biden-impression-late-show-stephen-colbert-1600688",
+      "originalUrl": "https://www.newsweek.com/dana-carvey-joe-biden-impression-late-show-stephen-colbert-1600688",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1821136/joe-biden-nato-summit.jpg",
+          "width": 2500,
+          "height": 1496,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/dana-carvey-joe-biden-impression-late-show-stephen-colbert-1600688?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/dana-carvey-joe-biden-impression-late-show-stephen-colbert-1600688?amp=1",
+      "publishedDateTime": "2021-06-15T02:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-06-15-vp-kamala-harris-announces-small-business-program-we-must-re-imagine-our-economy.md",
       "title": "VP Kamala Harris Announces Small Business Program: \"We Must Re-Imagine Our Economy\"",
       "excerpt": "AP: Vice President Kamala Harris announced Tuesday that the Biden administration is distributing $1.25 billion to hundreds of community lenders in an effort to help boost the economic recovery from the coronavirus for small businesses and disadvantaged business owners.",
@@ -1267,62 +1319,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-judge-halts-bidens-race-based-aid-for-farmers-says-challenge-is-likely-to-succeed.md",
-      "title": "Judge halts Biden's race-based aid for farmers, says challenge is 'likely to succeed'",
-      "excerpt": "A Wisconsin federal judge ordered a temporary halt to a $4 billion race-based federal relief program for farmers on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s0vqCpgrS0s/biden-race-based-aid-farmers-halted",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s0vqCpgrS0s/biden-race-based-aid-farmers-halted",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/720/405/Food-and-Farm-Robots-_Garc.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-race-based-aid-farmers-halted.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-race-based-aid-farmers-halted.amp",
-      "publishedDateTime": "2021-06-12T12:44:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

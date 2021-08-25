@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden's special envoy urges North Korea to return to talks"
-    excerpt: "U.S. President Joe Biden’s special envoy for North Korea said Monday he’s ready to meet his North Korean counterparts “anywhere and at anytime” as he held discussions with South Korean officials over stalled nuclear talks with the North."
-    publishedDateTime: 2021-08-23T09:45:00Z
-    webUrl: "https://www.mrt.com/news/article/Biden-s-special-envoy-urges-North-Korea-to-return-16404595.php"
-    ampWebUrl: "https://www.mrt.com/news/amp/Biden-s-special-envoy-urges-North-Korea-to-return-16404595.php"
-    cdnAmpWebUrl: "https://www-mrt-com.cdn.ampproject.org/c/s/www.mrt.com/news/amp/Biden-s-special-envoy-urges-North-Korea-to-return-16404595.php"
-    type: article
-    provider:
-      name: Midland Reporter-Telegram
-      domain: mrt.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Joe Biden praises WNBA champs for social justice activism"
     excerpt: "The visit marked the first time that an NBA or WNBA team has visited the White House since the Cleveland Cavaliers were feted by Barack Obama in 2016."
     publishedDateTime: 2021-08-24T00:19:00Z
@@ -57,33 +41,91 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Biden Urges More Employers to Enact Vaccine Mandates Following FDA’s Full Approval"
-    excerpt: "Do what I did last month. Require your employees to get vaccinated or face strict requirements,” Biden said Monday."
-    publishedDateTime: 2021-08-24T11:40:00Z
-    webUrl: "https://www.barrons.com/articles/vaccine-mandates-51629805238"
-    ampWebUrl: "https://www.barrons.com/amp/articles/vaccine-mandates-51629805238"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/vaccine-mandates-51629805238"
+  - title: "Seattle Storm visit President Biden, White House to celebrate 2020 WNBA title"
+    excerpt: "The Storm became the first women’s team welcomed by President Biden and the first WNBA squad at the White House since the 2015 Minnesota Lynx."
+    publishedDateTime: 2021-08-23T21:44:00Z
+    webUrl: "https://www.freep.com/story/sports/wnba/storm/2021/08/23/seattle-storm-visit-president-biden-white-house-honor-wnba-title/8245818002/"
+    ampWebUrl: "https://amp.freep.com/amp/8245818002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/8245818002"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 72
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/23/USAT/eaa65bb6-091f-4e5e-b30d-bdbf44364616-GTY_1234836329.jpg?auto=webp&crop=7544,4244,x1,y787&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Seattle Storm Visit President Joe Biden at White House to Celebrate 2020 WNBA Title"
+    excerpt: "The Seattle Storm were honored Monday at the White House by President Joe Biden to commemorate their 2020 WNBA championship. They were the first WNBA"
+    publishedDateTime: 2021-08-24T02:30:00Z
+    webUrl: "https://bleacherreport.com/articles/10010920-seattle-storm-visit-president-joe-biden-at-white-house-to-celebrate-2020-wnba-title"
+    ampWebUrl: "https://syndication.bleacherreport.com/amp/10010920-seattle-storm-visit-president-joe-biden-at-white-house-to-celebrate-2020-wnba-title.amp.html"
+    cdnAmpWebUrl: "https://syndication-bleacherreport-com.cdn.ampproject.org/c/s/syndication.bleacherreport.com/amp/10010920-seattle-storm-visit-president-joe-biden-at-white-house-to-celebrate-2020-wnba-title.amp.html"
+    type: article
+    provider:
+      name: Bleacher Report
+      domain: bleacherreport.com
     quality: 69
     images:
-      - url: "https://images.barrons.com/im-390118/social"
-        width: 1280
-        height: 640
+      - url: "https://media.bleacherreport.com/image/upload/x_247,y_200,w_5191,h_3464,c_crop/v1629755609/cmwkxx7rin1xv9hkrttp.jpg"
+        width: 5191
+        height: 3464
         isCached: true
-  - title: "Storm commemorates 2020 WNBA championship with President Joe Biden at White House"
-    excerpt: "President Joe Biden and first lady Jill Biden hosted an entourage led by Storm captains Sue Bird and Breanna Stewart, coach Noelle Quinn and the majority owners Ginny Gilder, Lisa Brummel and Dawn Trudeau."
-    publishedDateTime: 2021-08-24T00:56:00Z
-    webUrl: "https://www.seattletimes.com/sports/storm/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/"
-    ampWebUrl: "https://www.seattletimes.com/sports/storm/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/sports/storm/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/?amp=1"
+  - title: "WNBA News: What Joe Biden Said About Champion Seattle Storm In Their White House Visit"
+    excerpt: "The Seattle Storm visited President Joe Biden at the White House on Monday to celebrate their 2020 WNBA championship. Seattle defeated the Las Vegas Aces in a 3-game sweep, giving the organization their fourth championship title in their history."
+    publishedDateTime: 2021-08-23T22:52:00Z
+    webUrl: "https://www.ibtimes.com/wnba-news-what-joe-biden-said-about-champion-seattle-storm-their-white-house-visit-3279414"
+    ampWebUrl: "https://www.ibtimes.com/wnba-news-what-joe-biden-said-about-champion-seattle-storm-their-white-house-visit-3279414?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/wnba-news-what-joe-biden-said-about-champion-seattle-storm-their-white-house-visit-3279414?amp=1"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 50
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 67
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/22/gettyimages-1025667234.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Biden celebrates 2020 WNBA champs Seattle Storm"
+    excerpt: "President Joe Biden honored the 2020 WNBA champions Seattle Storm on Monday, celebrating their success on the court and hailing the four-time title holders for changing lives with their social"
+    publishedDateTime: 2021-08-23T23:46:00Z
+    webUrl: "https://www.oleantimesherald.com/biden-celebrates-2020-wnba-champs-seattle-storm/video_c9bf69fc-22dd-5752-bdda-10acc895c530.html"
+    type: article
+    provider:
+      name: Olean Times Herald
+      domain: oleantimesherald.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/oleantimesherald.com/content/tncms/assets/v3/editorial/c/9b/c9bf69fc-22dd-5752-bdda-10acc895c530/61243394cd1bd.preview.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Biden kneels at White House celebration of WNBA champs Seattle Storm"
+    excerpt: "President Joe Biden got down on one knee in the East Room during the celebration of the WNBA champions Seattle Storm."
+    publishedDateTime: 2021-08-24T03:29:00Z
+    webUrl: "https://thegrio.com/2021/08/23/biden-kneels-white-house-wnba-seattle-storm/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 55
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2021/08/240820211629775420-1-scaled.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Biden Agrees With Pentagon Recommendation to Stick to Aug 31 Afghan Pullout Deadline – Source"
+    excerpt: "WASHINGTON (Reuters) - President Joe Biden has agreed with a Pentagon recommendation to stick with the Aug. 31 Afghanistan withdrawal deadline, an administration official told Reuters on Tuesday. The Pentagon recommendation was made on Monday based on ..."
+    publishedDateTime: 2021-08-24T15:36:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-08-24/biden-agrees-with-pentagon-recommendation-to-stick-to-aug-31-afghan-pullout-deadline-source"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 24
 
 secured: "6vfOwbMHlczQ8svKaD2kwPA4RwKZv1iTDwblK45NrZVoqk/LJ+yubt7OZ5lwuvE+RGFVoDbpybmbp1Q9cVPnKz38zc5yK+mjeXyYseLClnZwshiEOO+FLMeiMv1LiHFrE6x1Ps86/arK70IQK27OvAFSqWXPwi4gzpy3AFtOdMPHcOarVjV+FapyLHEG2OG8L9Bw+jfqci9TGC7XjscF+CkxkhnJsj3QQuKqMSXjKmU81mB5rc2w2Y57XA+6Qln+cpRRwBRA17t/AV1nwtrIM5O2ZeieVsZnlfKIiHq7YADWvBTgQSDyaK9T3pDqr4EDI54JznJy7eQGCKXFWsp6su5m8yAh7RCQ01vh/h0bIXw=;+d1EoyaLGTk+uG4VfZvCzQ=="
 ---

@@ -21,21 +21,67 @@ topics:
   - Joe Biden
 
 related:
-  - title: "Full transcript of ABC News' George Stephanopoulos' interview with President Joe Biden"
-    excerpt: "Stephanopoulos spoke to Biden in an exclusive interview Wednesday. Read the full transcript of President Joe Biden's exclusive interview with ABC News' George Stephanopoulos on Wednesday. GEORGE STEPHANOPOULOS: Mr."
-    publishedDateTime: 2021-08-19T11:33:00Z
-    webUrl: "https://abcnews.go.com/Politics/full-transcript-abc-news-george-stephanopoulos-interview-president/story?id=79535643"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/full-transcript-abc-news-george-stephanopoulos-interview-president/story?id=79535643"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/full-transcript-abc-news-george-stephanopoulos-interview-president/story?id=79535643"
+  - title: "Beto O'Rourke pushes Joe Biden to help pass federal voting bill"
+    excerpt: "Former Congressman Beto O’Rourke is using his political platform to turn up the heat on President Joe Biden on voting rights legislation that is unlikely to pass the U.S. Senate, laying the fate of the legislation squarely at Biden’s feet."
+    publishedDateTime: 2021-08-25T17:56:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/Beto-O-Rourke-pushes-Joe-Biden-to-help-pass-16411342.php"
+    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Beto-O-Rourke-pushes-Joe-Biden-to-help-pass-16411342.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Beto-O-Rourke-pushes-Joe-Biden-to-help-pass-16411342.php"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 117
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/biden-2-b-abc-ps-210818_1629318033012_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://s.hdnux.com/photos/01/21/46/51/21391940/3/400x0.jpg"
+        width: 400
+        height: 266
+        isCached: true
+  - title: "Biden's special envoy urges North Korea to return to talks"
+    excerpt: "U.S. President Joe Biden’s special envoy for North Korea said Monday he’s ready to meet his North Korean counterparts “anywhere and at anytime” as he held discussions with South Korean officials over stalled nuclear talks with the North."
+    publishedDateTime: 2021-08-23T09:45:00Z
+    webUrl: "https://www.mrt.com/news/article/Biden-s-special-envoy-urges-North-Korea-to-return-16404595.php"
+    ampWebUrl: "https://www.mrt.com/news/amp/Biden-s-special-envoy-urges-North-Korea-to-return-16404595.php"
+    cdnAmpWebUrl: "https://www-mrt-com.cdn.ampproject.org/c/s/www.mrt.com/news/amp/Biden-s-special-envoy-urges-North-Korea-to-return-16404595.php"
+    type: article
+    provider:
+      name: Midland Reporter-Telegram
+      domain: mrt.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Biden Urges More Employers to Enact Vaccine Mandates Following FDA’s Full Approval"
+    excerpt: "Do what I did last month. Require your employees to get vaccinated or face strict requirements,” Biden said Monday."
+    publishedDateTime: 2021-08-24T11:40:00Z
+    webUrl: "https://www.barrons.com/articles/vaccine-mandates-51629805238"
+    ampWebUrl: "https://www.barrons.com/amp/articles/vaccine-mandates-51629805238"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/vaccine-mandates-51629805238"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 69
+    images:
+      - url: "https://images.barrons.com/im-390118/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "An Update on President Joe Biden’s Promise to “Have our Backs”"
+    excerpt: "By Congressman James E. Clyburn July 20, 2021, marked six months that Joseph R. Biden has been President. When I endorsed Joe Biden for"
+    publishedDateTime: 2021-08-23T13:42:00Z
+    webUrl: "https://thehilltoponline.com/2021/08/23/an-update-on-president-joe-bidens-promise-to-have-our-backs/"
+    type: article
+    provider:
+      name: The Hilltop
+      domain: thehilltoponline.com
+    quality: 55
+    images:
+      - url: "https://thehilltoponline.com/wp-content/uploads/2021/08/Screen-Shot-2021-08-23-at-9.41.18-AM-1.png"
+        width: 590
+        height: 467
         isCached: true
 
 secured: "N/FDaGs1+IpuPiOOqH9+FAqO/jLmzt/3XprLMMuYHu+uYJyk8rpFw1sA+jxIB1Ftg5s1bi4qTsZAd6YFBsmI6u1ZjrXwQjs5Lv92RrNbZWFyMWh/G5bEtn2VZ/nTMUaXg4Icj0St2Y4qSPy5I1uhxvIQXg8cev8kYhBtoz/00mF/fx15NsAkG0M3mwr7KTpuHdrnJlUZKYOR7erogchgxFXLT19rgECRvcci2/ivjwQxhHTIZo9iOCMXgnFKwIWxIloNse65ACPa20ckJjAluNu96riQm+2OKHEN2O5K5HGFN7ChQ/WItq2EFDKG/7jlOWULCXxTccHjUr/s7wSIWYq26DFC22rfdNG/ZU528y9GsZdGENtwlZbtwB1V8QhRR7ltaMei60a3SMgmwDnk1b3n9lm9DYbbbVqRrND4MXOTTvm9ckNa0+PoX3UOXRDMSw7rzydBGxJhLyb4qH5RlXjPi5FummG2c+OGNW1hp2B/ULxOWRG8itkdo1f9wiid5r6FGhfaNbFx62HPneUspA==;TScxJY43JEoMpHSmQqgC3w=="

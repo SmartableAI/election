@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-56975402.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp"
 type: article
 quality: 150
-heat: 3910
+heat: 3930
 published: true
 
 provider:
@@ -2634,6 +2634,20 @@ related:
       - url: "https://static.politifact.com/politifact/rulings/tom_ruling_pof.png"
         width: 667
         height: 596
+        isCached: true
+  - title: "Supreme Court orders Biden administration to restore Trump-era border policy"
+    excerpt: "The U.S. Supreme Court ruled the Biden administration must restore a Trump-era immigration policy known as “Remain in Mexico.”"
+    publishedDateTime: 2021-08-25T19:47:00Z
+    webUrl: "https://www.americamagazine.org/politics-society/2021/08/25/immigration-policy-return-mexico-biden-trump-241287"
+    type: article
+    provider:
+      name: America Magazine
+      domain: americamagazine.org
+    quality: 67
+    images:
+      - url: "https://www.americamagazine.org/sites/default/files/styles/article_image_750_x_503_/public/main_image/2021/08/25/20210823T1645-USA-IMMIGRATION%20SHIPWRECK-1506798.JPG.JPG.png?itok=ums4wYP_"
+        width: 750
+        height: 500
         isCached: true
   - title: "After blowback, White House says Biden will move to lift Trump-era refugee caps"
     excerpt: "The White House on Friday said President Biden plans to lift his predecessor’s historically low cap on refugees by next month, after initially moving only to expand the eligibility criteria for resettlements."

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Beto O'Rourke pushes Joe Biden to help pass federal voting bill"
+    excerpt: "Former Congressman Beto O’Rourke is using his political platform to turn up the heat on President Joe Biden on voting rights legislation that is unlikely to pass the U.S. Senate, laying the fate of the legislation squarely at Biden’s feet."
+    publishedDateTime: 2021-08-25T17:56:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/Beto-O-Rourke-pushes-Joe-Biden-to-help-pass-16411342.php"
+    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Beto-O-Rourke-pushes-Joe-Biden-to-help-pass-16411342.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Beto-O-Rourke-pushes-Joe-Biden-to-help-pass-16411342.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 125
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/46/51/21391940/3/400x0.jpg"
+        width: 400
+        height: 266
+        isCached: true
   - title: "Biden's special envoy urges North Korea to return to talks"
     excerpt: "U.S. President Joe Biden’s special envoy for North Korea said Monday he’s ready to meet his North Korean counterparts “anywhere and at anytime” as he held discussions with South Korean officials over stalled nuclear talks with the North."
     publishedDateTime: 2021-08-23T09:45:00Z
@@ -43,47 +59,31 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Joe Biden praises WNBA champs for social justice activism"
-    excerpt: "The visit marked the first time that an NBA or WNBA team has visited the White House since the Cleveland Cavaliers were feted by Barack Obama in 2016."
-    publishedDateTime: 2021-08-24T00:19:00Z
-    webUrl: "https://www.tampabay.com/sports/2021/08/23/joe-biden-praises-wnba-champs-for-social-justice-activism/"
-    ampWebUrl: "https://www.tampabay.com/sports/2021/08/23/joe-biden-praises-wnba-champs-for-social-justice-activism/?outputType=amp"
-    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/sports/2021/08/23/joe-biden-praises-wnba-champs-for-social-justice-activism/?outputType=amp"
+  - title: "An Update on President Joe Biden’s Promise to “Have our Backs”"
+    excerpt: "By Congressman James E. Clyburn July 20, 2021, marked six months that Joseph R. Biden has been President. When I endorsed Joe Biden for"
+    publishedDateTime: 2021-08-23T13:42:00Z
+    webUrl: "https://thehilltoponline.com/2021/08/23/an-update-on-president-joe-bidens-promise-to-have-our-backs/"
     type: article
     provider:
-      name: Tampa Bay Times
-      domain: tampabay.com
-    quality: 75
-    images:
-      - url: "https://www.tampabay.com/resizer/H3idYXdZk6JBiyKwaxGXggjk8_8=/800x450/filters:focal(2065x1285:2075x1275)/cloudfront-us-east-1.images.arcpublishing.com/tbt/EPAHJMPR7OBARKIDWG2FATIR2Q.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Biden praises WNBA champs for social justice activism"
-    excerpt: "President Joe Biden honored the 2020 WNBA champions Seattle Storm on Monday, celebrating their success on the court and hailing the four-time title holders for changing lives with"
-    publishedDateTime: 2021-08-24T13:26:00Z
-    webUrl: "https://www.phillytrib.com/sports/biden-praises-wnba-champs-for-social-justice-activism/article_a4098845-3c9c-5182-ba4a-4f5a594da7bc.html"
-    type: article
-    provider:
-      name: Philadelphia Tribune
-      domain: phillytrib.com
+      name: The Hilltop
+      domain: thehilltoponline.com
     quality: 55
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/assets/v3/editorial/5/5f/55fd9673-7d2d-5b10-a2e3-90069a1434d2/6124f3e31a6b5.image.jpg?crop=834%2C439%2C79%2C26&resize=400%2C211&order=crop%2Cresize"
-        width: 400
-        height: 211
+      - url: "https://thehilltoponline.com/wp-content/uploads/2021/08/Screen-Shot-2021-08-23-at-9.41.18-AM-1.png"
+        width: 590
+        height: 467
         isCached: true
-  - title: "Storm commemorates 2020 WNBA championship with President Joe Biden at White House"
-    excerpt: "President Joe Biden and first lady Jill Biden hosted an entourage led by Storm captains Sue Bird and Breanna Stewart, coach Noelle Quinn and the majority owners Ginny Gilder, Lisa Brummel and Dawn Trudeau."
-    publishedDateTime: 2021-08-24T00:56:00Z
-    webUrl: "https://www.seattletimes.com/sports/storm/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/"
-    ampWebUrl: "https://www.seattletimes.com/sports/storm/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/sports/storm/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/?amp=1"
+  - title: "President Joe Biden goes off script during White House visit, gives Storm personal tour of Oval Office"
+    excerpt: "After a 20-minute ceremony in the East Room to celebrate the team’s 2020 WNBA championship, President Joe Biden asked the Storm if they would like a private tour, led by him, of the Oval Office. Of course,"
+    publishedDateTime: 2021-08-24T00:28:00Z
+    webUrl: "https://www.seattletimes.com/sports/storm/president-joe-biden-goes-off-script-during-white-house-visit-gives-storm-personal-tour-of-oval-office/"
+    ampWebUrl: "https://www.seattletimes.com/sports/storm/president-joe-biden-goes-off-script-during-white-house-visit-gives-storm-personal-tour-of-oval-office/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/sports/storm/president-joe-biden-goes-off-script-during-white-house-visit-gives-storm-personal-tour-of-oval-office/?amp=1"
     type: article
     provider:
       name: Seattle Times
       domain: seattletimes.com
-    quality: 50
+    quality: 39
 
 secured: "nfSbY38VjxTHpjM/2PP6YSw7p73j45U+uhtAGkhoacZb43/2INTfusvyX+1ok09oKmFDUJoDZap01EkHq8ZV2tKJpUZhvCBa0U+pd7t71MvSUkPBMfk2XnTKNLyQBs3JtZqIS4bo7moE6q7mfUQGOaOLNksNCjjQk1qdtB25ZQr0wWbeQiy3Qrl/T4ctQBgdd6PIPCvmhr+IxijbvZZG76VMPz2iP+rXyrp2pP505yDTg9hhLAqzbCvuPbViCxcFZHIfOer7twmr12SnWcoL2OoT0Wzzt5AoePKEhHXI/HQPCutCAbRI8IN/TedqgLytKmeTASusj4tjVAg3MiBIBFMEgHCyPWZYfbFdqxOsXUc=;49MmZoezCOWuzLB0ENgb2w=="
 ---

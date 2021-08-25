@@ -156,7 +156,7 @@ related:
   - title: "Joe Biden speaks about Afghanistan evacuation amid criticism – live"
     excerpt: "Psaki says US has helped evacuate 57,000 people in the last nine days and and is on track to meet its deadline of 31 August"
     publishedDateTime: 2021-08-24T20:24:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news?page=with:block-612560288f08b1506f20dbf6"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news?page=with:block-61255bc08f080ef844e747eb"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news"
     type: article
@@ -295,8 +295,8 @@ related:
         isCached: true
   - title: "Boris Johnson’s Plea to Joe Biden on Afghanistan: Don’t Quit"
     excerpt: "America’s withdrawal strikes Brits and Europeans as cynical and raises questions about whether the West still has a “strategic will.”"
-    publishedDateTime: 2021-08-24T08:50:00Z
-    webUrl: "https://www.washingtonpost.com/business/boris-johnsons-plea-to-joe-biden-on-afghanistan-dont-quit/2021/08/24/ff3b9060-04af-11ec-b3c4-c462b1edcfc8_story.html?amp;amp"
+    publishedDateTime: 2021-08-24T06:50:00Z
+    webUrl: "https://www.washingtonpost.com/business/boris-johnsons-plea-to-joe-biden-on-afghanistan-dont-quit/2021/08/24/ff3b9060-04af-11ec-b3c4-c462b1edcfc8_story.html"
     type: article
     provider:
       name: Washington Post

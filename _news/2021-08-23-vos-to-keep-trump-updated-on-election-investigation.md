@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/news/amp/Vos-to-keep-Trump-updated-
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Vos-to-keep-Trump-updated-on-election-16404028.php"
 type: article
 quality: 120
-heat: 260
+heat: 320
 published: true
 
 provider:
@@ -104,6 +104,54 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/29/mike-lindell.jpg"
         width: 1024
         height: 670
+        isCached: true
+  - title: "House panel investigating Capitol riot seeks trove of Trump-era records"
+    excerpt: "The House committee investigating the January insurrection at the U.S. Capitol is demanding a trove of records from federal intelligence and law enforcement agencies, showing the sweep of the"
+    publishedDateTime: 2021-08-25T19:25:00Z
+    webUrl: "https://ktla.com/news/nationworld/house-panel-investigating-capitol-riot-seeks-trove-of-trump-era-records/"
+    ampWebUrl: "https://ktla.com/news/nationworld/house-panel-investigating-capitol-riot-seeks-trove-of-trump-era-records/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/nationworld/house-panel-investigating-capitol-riot-seeks-trove-of-trump-era-records/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 75
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2021/08/AP21237587812201.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Select Committee seeks Trump records as part of Jan. 6 probe"
+    excerpt: "The head of the House Select Committee on the Jan. 6 attack on the U.S. Capitol issued a sweeping round of demands Wednesday seeking information from the executive branch and other agencies related to the attack and former President Donald Trump’s push to discredit the election results."
+    publishedDateTime: 2021-08-25T18:54:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/aug/25/select-committee-seeks-trump-records-part-jan-6-pr/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/25/select-committee-seeks-trump-records-part-jan-6-pr/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/25/select-committee-seeks-trump-records-part-jan-6-pr/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/07/12/capitol_breach_investigation_22360_c0-229-5500-3437_s1200x700.jpg?cd6ebda61bdcbd7068faa31a6cc9adbce23a3edd"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "House panel investigating Jan. 6 attack seeks records from Trump White House"
+    excerpt: "The House select committee investigating the Jan. 6 attack on the U.S. Capitol requested documents Wednesday from Trump administration officials and other federal agencies."
+    publishedDateTime: 2021-08-25T18:31:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/08/25/jan6-committee-documents-trump/6781629912225/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/08/25/jan6-committee-documents-trump/6781629912225/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/25/jan6-committee-documents-trump/6781629912225/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 72
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/6781629912225/2021/1/5984d1ea8cfbaef6c31dd8ba17df417d/v1.5/House-panel-investigating-Jan-6-attack-seeks-records-from-Trump-White-House.jpg"
+        width: 800
+        height: 534
         isCached: true
   - title: "Robin Vos meets with Trump, vows to keep ex-president 'updated' on election investigation"
     excerpt: "Assembly Speaker Robin Vos, the Racine County Republican who ordered the investigation into Wisconsin's 2020 election said he is going to be keeping the former president — who has not"

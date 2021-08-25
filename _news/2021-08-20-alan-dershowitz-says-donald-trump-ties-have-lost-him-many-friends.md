@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/alan-dershowitz-says-donald-trump-ties-have
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/alan-dershowitz-says-donald-trump-ties-have-lost-him-many-friends-larry-david-1621399?amp=1"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -124,6 +124,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/2/d9/2d9ee749-a144-59f9-ab8e-9a209399f7ce/6123d26da24a5.image.jpg?resize=1044%2C630"
         width: 1044
         height: 630
+        isCached: true
+  - title: "How Donald Trump Turned Off Swing Voters In 2020"
+    excerpt: "Alan Abromowitz: \"Trump was perceived as far more conservative in 2020 than in 2016. In 2016, Trump was viewed as the least conservative Republican presidential candidate since Gerald Ford in 1976. In 2020,"
+    publishedDateTime: 2021-08-25T14:46:00Z
+    webUrl: "https://politicalwire.com/2021/08/25/how-donald-trump-turned-off-swing-voters-in-2020/"
+    type: article
+    provider:
+      name: Political Wire
+      domain: politicalwire.com
+    quality: 55
+    images:
+      - url: "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg"
+        width: 1400
+        height: 1400
         isCached: true
   - title: "Trump alone decided space command site"
     excerpt: "Gov. Jared Polis, Colorado Springs Mayor John Suthers and the Board of El Paso County Commissioners jumped to lobby for keeping Space Command here after former President Donald Trump claimed"

@@ -57,6 +57,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "How Lindsey Graham is the perfect vessel to understand Donald Trump's death grip on the GOP"
+    excerpt: "And it's the only one that explains how Graham went from an understudy to Sen. John McCain in the early part of this decade to a full-fledged Trumper by the end of it. \"What emerges from interviews with more than 60 people close to him,"
+    publishedDateTime: 2021-08-25T05:26:00Z
+    webUrl: "https://www.kitv.com/story/44589980/how-lindsey-graham-is-the-perfect-vessel-to-understand-donald-trumps-death-grip-on-the-gop"
+    type: article
+    provider:
+      name: KITV
+      domain: kitv.com
+    quality: 45
+    images:
+      - url: "https://KITV.images.worldnow.com/images/17633324_G.jpg"
+        width: 1707
+        height: 960
+        isCached: true
 
 secured: "5t4EvSx95ekuTSOn0Sm0pboIaP6bGxX9IHo3nEQ62a8hdHMD+uZVacStEwxMP0tv5TSZp1htKiBAOPMLvzsZh6Nv+CNbxg5EnCUHeTui5B++IXzWD7KDUn9iicK+DPL76mPXZW0EOfILXgTPr+9bhAWz/MkI+w+CR5dpN4vkHUt3b1KhA02rzsZkDmIRVfAxA/abY4zhgCqDbaK28Fbj1ZcPReCnNb/a2FcCIqg9IY+L+XjFZKmcXV2TKvGV+fsUgWBlC3cW1oCzrIBuJX5fzFQ4eji0e3gzL4Y/DiJ7kpdg+s703jvfDVp1WrYyfUDhBba/932J8yxE8pCBJKYsKX9DHl5YJOHcCGY5qqRgHxU=;fK4WfHJP8MryP+1kqQEqtQ=="
 ---
