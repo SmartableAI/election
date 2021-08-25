@@ -41,22 +41,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Joe Biden ripped after Taliban fighters wearing US army gear mock iconic 1945 photo of marines"
-    excerpt: "The original 1945 photo shows a group of six Marines hoisting the flag on Mount Suribachi. The Taliban's elite Badri 313 battalion recreated the image"
-    publishedDateTime: 2021-08-22T02:58:00Z
-    webUrl: "https://meaww.com/biden-taliban-us-army-1945-ww-2-photo-marines-iwo-jima"
-    ampWebUrl: "https://meaww.com/amp/biden-taliban-us-army-1945-ww-2-photo-marines-iwo-jima"
-    cdnAmpWebUrl: "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/biden-taliban-us-army-1945-ww-2-photo-marines-iwo-jima"
-    type: article
-    provider:
-      name: Meaww
-      domain: meaww.com
-    quality: 63
-    images:
-      - url: "https://cheesecake.articleassets.meaww.com/545990/uploads/0e504170-02f0-11ec-951c-a7d689a4bfd4_800_420.png"
-        width: 800
-        height: 420
-        isCached: true
 
 secured: "NisWAlbIvfBqo2egAY07xCvj8Bw1+7OT6PwJnLC2jdAv9P67C8reZ0/6sj0HPd7JRP1o1W0/yGMTWDaimkFi4qaE4F71VOQ4K/JT+gkt2KF7JZnYHW9nFfRQfJAyJFIQc4wXzHEjKr5WyDXa3daRwcUdA6Hn1uCEXOholIL/Ttlr8SeiayKrFq0v8brHJW4xbJq9xt5aerbHsZAZ1x733CFXR10JP3Etb8lD6OgU3jlGCCkU0HVbjn/1KPrNDiXMnaCB3mS7R6nM+lzrGkbQK9AIHugiwilDdzEL8ey1ZY5QTZ/xNFetOfpgyVO8YVe8xIr8VpvyrXza8y0MxUWzaB3YiPuSZ5dkF2cSIsxcqBo=;DoUPnOkpz20+8m2stQqXiA=="
 ---

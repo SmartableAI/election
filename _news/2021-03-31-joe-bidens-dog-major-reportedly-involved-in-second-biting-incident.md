@@ -1173,6 +1173,17 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Show Biden the door"
+    excerpt: "With Joe Biden’s total collapse of everything domestic, why would anyone expect anything less than catastrophic failure of his foreign policy?"
+    publishedDateTime: 2021-08-22T17:35:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/aug/22/letters-editor-show-biden-door/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/22/letters-editor-show-biden-door/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/22/letters-editor-show-biden-door/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 55
   - title: "President Joe Biden signs the PPP Extension Act of 2021 at the White House"
     excerpt: "President Joe Biden signs the PPP Extension Act of 2021 into law in the Oval Office with Vice President Kamala Harris, left and SBA Administrator Isabel Guzman, right, looking on, at the White House in Washington, DC on Tuesday, March, 30 2021. Pool Photo ..."
     publishedDateTime: 2021-03-30T21:08:00Z

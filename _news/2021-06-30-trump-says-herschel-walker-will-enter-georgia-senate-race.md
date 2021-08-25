@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/560788-trump-says-herschel-wal
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/560788-trump-says-herschel-walker-will-enter-georgia-senate-race?amp"
 type: article
 quality: 125
-heat: 265
+heat: 305
 published: true
 
 provider:
@@ -95,6 +95,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Trump favorite Walker files to run for Georgia Senate seat"
+    excerpt: "Walker could share a Republican ticket with Gov. Brian Kemp, a frequent target of Trump attacks, as Kemp seeks reelection. Trump has vowed vengeance against Kemp, saying he didn’t do enough"
+    publishedDateTime: 2021-08-25T05:14:00Z
+    webUrl: "https://www.mercurynews.com/2021/08/24/trump-favorite-walker-files-to-run-for-georgia-senate-seat/"
+    ampWebUrl: "https://www.mercurynews.com/2021/08/24/trump-favorite-walker-files-to-run-for-georgia-senate-seat/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/08/24/trump-favorite-walker-files-to-run-for-georgia-senate-seat/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/08/sjm-22-Senate-Georgia_87431450.jpg?w=1024&#038;h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Trump Ally Herschel Walker Is Running For U.S. Senate In Georgia"
     excerpt: "The former University of Georgia football standout is well known in his native state, but some national Republicans have been wary of Walker's candidacy."
     publishedDateTime: 2021-08-24T21:54:00Z
@@ -131,6 +147,20 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 53
+  - title: "Former NFL player Walker, supported by Trump, jumps into the Georgia Senate race"
+    excerpt: "Former football running back Herschel Walker has filed paperwork to run for a Georgia Senate seat, challenging freshman Sen. Raphael Warnock, a Democrat, with the backing of former president Donald"
+    publishedDateTime: 2021-08-25T03:30:00Z
+    webUrl: "https://www.santafenewmexican.com/news/national_and_world_news/former-nfl-player-walker-supported-by-trump-jumps-into-the-georgia-senate-race/article_e4627494-055d-11ec-b628-ef1a9534a41c.html"
+    type: article
+    provider:
+      name: The Santa Fe New Mexican
+      domain: santafenewmexican.com
+    quality: 50
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/santafenewmexican.com/content/tncms/assets/v3/editorial/2/49/2495d3f8-055e-11ec-9103-abec48cb4d03/6125c9040eaec.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
 
 secured: "r1fYqvP6BOraRk+AZxZbD2NJLKO4n+4f5ngcVAle1Ncz33BXcLGGwl5EINERx2mpLdecJ1xTQdTD+XH8urnXQ+8aYDjSV9TpYaafr1h9CEcTSea+8Smvb2BTPArSTcwyqYXZybsW8d34srxyL/PyZrIZZi4QhQGluImOmjm2waCkXHFKhUoBzz3DaTrdPD24kKQxME0vi3/x6xXiVKaqNpJy36mc2216iD2SWlJR9OVc0dIecgJKvdzlJt72WJyWY5lGO07EpNF+tlLEC5e1ZYlj4wDPW4s3bOOIK5MyJEojRXxBNPvGot+fRVs43R/yV7tbh439tHaGsd9p/k2Q2QIxZj3/Cxt2/SCoNupu3h0yKWn5KO+yrkRR9ZEszFXayvfOjbsETStUp/9tsbxd5BCCCbpQ10jSxWj+jzNif2abX4YhEwaHoOGjUv0JgFUoCFGwkqVzn2BO6QAkm0eQ+qELCurxiDrmS4qbE3Ef70KuKfbtHI09fJDOZVVe9XodjFatWHk5de9dhPwLxJxbWQ==;pdPMQueL03grh6LWeWYu6Q=="
 ---

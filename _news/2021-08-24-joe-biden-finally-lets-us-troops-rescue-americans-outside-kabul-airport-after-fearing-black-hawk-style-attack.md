@@ -75,15 +75,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How long can America put up with Joe Biden?"
-    excerpt: "Murie, you have absolutely no clue what’s going in the world outside of your house and fox “news” channel. Maybe you’d find some peace if you take up a hobby? Perhaps crochet. Or if you really do live in Russia u could make nesting dolls. Either way, good luck and please keep up the comedy. It’s not exceedingly funny, but good for a chuckle as we say here in the US."
-    publishedDateTime: 2021-08-21T14:36:00Z
-    webUrl: "https://www.tigernet.com/clemson-forum/message/re-how-long-can-america-put-up-with-joe-biden-29300251"
-    type: article
-    provider:
-      name: TigerNet
-      domain: tigernet.com
-    quality: 35
 
 secured: "KWUw+LnTnC/Z35cfCVcVgYDnX8Kv11AtAiieffBPF97WsOq1PhjBl9MDyQlUL4jg815W01Zr7hpA7Brmydg8sZb+fY6z6t29BXvnSnDoqzYRkgfR3V29MvcDLYmV1X4Fj6IllrU1CWGT0W1Yy97TxLCanflthq7MifeQZYD7mNSg7SQBxIl+O/Pzz598JbxGnOy5Sz7mzHXzSap5NiB1tC+JyvHlFQO+hBw9M+8qvqPNQ1lXhjP/JLoQim5RjWZ1TXcM0DW7laSjGJbcv4dDcO5DK+mOAt/J9S63pB5Sag8ElzPb/jNF7N5Ulu50hOL0/gcbcW7iB9MllW/tnvKuqSKnOiKluGWwNEcfShKVxcU=;QneYYf1RHnlcdweo7zdjtQ=="
 ---

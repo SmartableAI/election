@@ -101,6 +101,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Trump favorite Walker files to run for Georgia Senate seat"
+    excerpt: "Walker could share a Republican ticket with Gov. Brian Kemp, a frequent target of Trump attacks, as Kemp seeks reelection. Trump has vowed vengeance against Kemp, saying he didn’t do enough"
+    publishedDateTime: 2021-08-25T05:14:00Z
+    webUrl: "https://www.mercurynews.com/2021/08/24/trump-favorite-walker-files-to-run-for-georgia-senate-seat/"
+    ampWebUrl: "https://www.mercurynews.com/2021/08/24/trump-favorite-walker-files-to-run-for-georgia-senate-seat/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/08/24/trump-favorite-walker-files-to-run-for-georgia-senate-seat/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/08/sjm-22-Senate-Georgia_87431450.jpg?w=1024&#038;h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Trump Ally Herschel Walker Is Running For U.S. Senate In Georgia"
     excerpt: "The former University of Georgia football standout is well known in his native state, but some national Republicans have been wary of Walker's candidacy."
     publishedDateTime: 2021-08-24T21:54:00Z
@@ -126,6 +142,20 @@ related:
       name: SanLuisObispo
       domain: sanluisobispo.com
     quality: 55
+  - title: "Former NFL player Walker, supported by Trump, jumps into the Georgia Senate race"
+    excerpt: "Former football running back Herschel Walker has filed paperwork to run for a Georgia Senate seat, challenging freshman Sen. Raphael Warnock, a Democrat, with the backing of former president Donald"
+    publishedDateTime: 2021-08-25T03:30:00Z
+    webUrl: "https://www.santafenewmexican.com/news/national_and_world_news/former-nfl-player-walker-supported-by-trump-jumps-into-the-georgia-senate-race/article_e4627494-055d-11ec-b628-ef1a9534a41c.html"
+    type: article
+    provider:
+      name: The Santa Fe New Mexican
+      domain: santafenewmexican.com
+    quality: 50
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/santafenewmexican.com/content/tncms/assets/v3/editorial/2/49/2495d3f8-055e-11ec-9103-abec48cb4d03/6125c9040eaec.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
 
 secured: "F/Aewt4QriurfghRUljr9iTM6RfUToIYHXaAnlyqLw1noJJdAgiJ7oR0GUyOeJD9oXHFr8r2VZo+CmePOU3b5W/BL2OtGhJL48Lh3/FOWhvoO8+y69AYsaSlIloHEeYOi7jDAWU5C/IfmdoXCT8u+UBmyQlUeAzYH0ofaggUc2tgAULsyLthNVztlCX4HtluJmPCci0fXiofOzzpEhknRRAGh0uoFUmZF7jpAeTnUXVDM/I3BeGbwKpr18X/SsnZGqTGXeaexBjg1+wDPadqmgC+Lf0+Vu8feylcIxX5yudWttJwoCQxJbDUneRalHu/GeYCr25DenNYv2DFFs9AOwdSrwNzZxyeDN2RJGgY3QAisX6t53D4r1O1V6vmc6ijqak/xdHT1XJk8Ah9bLe88P+iLnAv3DoAbCajnUcAuNrDCcpP0xdFmmn2gVosU3b+ThQiPfoRShzjAnB+lWA9jhV+fGpRZ5QhaYOuIlhYK/rkwVhGNRj4VcAHMF8i7oXEK7GRkVfzOvwOvCmeNHVYQg==;FsChlyms9TZsqOANFJrVag=="
 ---

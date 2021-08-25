@@ -2,24 +2,28 @@
 category: news
 title: "Former Pence adviser: Refugee topics would be blocked in meetings"
 excerpt: "Olivia Troye, a former adviser to Vice President Mike Pence, speaks to CNN for the first time since her viral Twitter thread in which she says that some senior members"
-publishedDateTime: 2021-08-21T19:21:00Z
-originalUrl: "https://www.timesherald.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_bb03602c-68fe-5b15-b1d5-7f184c882be7.html"
-webUrl: "https://www.timesherald.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_bb03602c-68fe-5b15-b1d5-7f184c882be7.html"
-ampWebUrl: "https://www.timesherald.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_bb03602c-68fe-5b15-b1d5-7f184c882be7.amp.html"
-cdnAmpWebUrl: "https://www-timesherald-com.cdn.ampproject.org/c/s/www.timesherald.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_bb03602c-68fe-5b15-b1d5-7f184c882be7.amp.html"
+publishedDateTime: 2021-08-21T18:21:00Z
+originalUrl: "https://www.hazard-herald.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_4eeede13-b22f-5459-92c2-1af49890838b.html"
+webUrl: "https://www.hazard-herald.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_4eeede13-b22f-5459-92c2-1af49890838b.html"
 type: article
 quality: 55
 heat: 55
 published: false
 
 provider:
-  name: The Times Herald
-  domain: timesherald.com
+  name: Hazard Herald
+  domain: hazard-herald.com
 
 topics:
   - Election
   - Mike Pence
 
-secured: "AHTHL7IMVVOAzWuqvbD3Go3i7hxNCbjZqtMohBHnN8aA0Q2BJ1VfBmi/wYwWLad6dW/zQ7KGLXIbvQRsKq+D3ebdBFbL2BzOr+2/xvmW6piAfJAYNspdPmR+qItG44VGeqgHLHeu34g+/CZRcvY2SGRFX3Q6G3MQ4Do2qO7ivf/HAwebEv4e4TLjk3Gg1MCcjTnHJIMnl9C2i0jIKXozA570TkO385yxKQxKEFJ5QaO6nXT1JZOna4WPhz3HLOsoP3oddu/qwr+J0k4H7IaAZfRrH8I9AaeS7VJ969HUt6nUsjTRTEM0hwRxCdOiGkt5O8A28ygPb7hQv7IDUoTHWS9oPTqOWjvIiBY9sKpj2lUGicJJKrxJfCU/gsSULnYYn8hWeNBlZarlIq7iLPicwzimRLOOclEoIgHkZU6pHkZdgqRXt1qtNr4p2Lhx8Yllb3MXY033eeAwQa04+QESb4X+0bVcokQshaBCC2GUxi4eU8VzhdLUruQeKxc66xO2LIfLCO4OMBGe2eFZ7GBDtA==;NYxnR+NJNOycspNjxVMnhQ=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/hazard-herald.com/content/tncms/assets/v3/editorial/4/ee/4eeede13-b22f-5459-92c2-1af49890838b/612157d78982a.image.jpg?resize=576%2C324"
+    width: 576
+    height: 324
+    isCached: true
+
+secured: "MUXV47cAYMqSnQ5x7BNM46JtiRZ2smeZxcYqgOKcOjsIrKKSLg9UFk0K5bFlwYmv9NK7/wJzwt2maNJg0BgooSovGy8rx9cF4anv+VtuMihQPcXp2yo45Psc1bkaRpw1rtLv4pBg3xvkAMWUhRDBlhmqv+7UlOYuyfnw9Go9NrVwRDTw2gJJkutvJfOmb7KVBUBtLAvWxBvRQItR5v64Uwl21AdnVui4EFTvahS7egOJJgsJNiUY3n1sMtz6CZiIbQfHPOsMNtjC3C6KMbGzV+J+F+uObWJEvTHhTWEdh108gGfZL+TkXrHc0XBHsQTv8JyECL8JPeLRPZoejOagGetXvdlWsvGf3/ZZxoEqgEk=;Gek56qDlODLG343/x34afw=="
 ---
 

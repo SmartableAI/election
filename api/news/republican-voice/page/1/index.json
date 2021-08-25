@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-25-israel-pm-naftali-bennett-arrives-in-washington-will-meet-with-biden-on-iran.md",
+      "title": "Israel PM Naftali Bennett arrives in Washington, will meet with Biden on Iran",
+      "excerpt": "Israeli Prime Minister Naftali Bennett arrived in Washington, D.C. on Tuesday night for his first diplomatic visit overseas since taking office.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zYcVyO83w1U/israel-pm-naftali-bennett-washington-biden-iran",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zYcVyO83w1U/israel-pm-naftali-bennett-washington-biden-iran",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 192,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/61f7c770-7b3e-48e6-a814-972f1d0fb288/05412b1d-0f18-4162-96b9-2588b7710485/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/israel-pm-naftali-bennett-washington-biden-iran.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/israel-pm-naftali-bennett-washington-biden-iran.amp",
+      "publishedDateTime": "2021-08-24T22:29:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-pence-slams-bidens-troop-withdrawal-as-foreign-policy-humiliation.md",
       "title": "Pence slams Biden’s troop withdrawal as ‘foreign policy humiliation’",
       "excerpt": "In an interview on The Brian Kilmeade Show, Pence recalled Biden’s decision to fully withdraw by Sept. 11, saying that decision set the “disaster in motion.”",
@@ -781,7 +837,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 238,
+      "heat": 258,
       "tags": null,
       "images": [
         {
@@ -1603,62 +1659,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-08-14-newsom-ramps-up-attacks-in-ca-recall-slams-elder-as-further-right-than-trump.md",
-      "title": "Newsom ramps up attacks in CA recall, slams Elder as further right than Trump",
-      "excerpt": "Gov. Gavin Newsom ramped up his campaign to hold onto the governorship, slamming Republican opponent Larry Elder as more right-wing than former President Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8T3aU8WdBX4/gavin-newsom-recall-larry-elder-more-right-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8T3aU8WdBX4/gavin-newsom-recall-larry-elder-more-right-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0383e2e6-abd7-41e7-82b4-dc923634fc6e/1cbd1666-3884-4b74-bfd1-4a05cf64a2f3/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/gavin-newsom-recall-larry-elder-more-right-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gavin-newsom-recall-larry-elder-more-right-trump.amp",
-      "publishedDateTime": "2021-08-14T04:17:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

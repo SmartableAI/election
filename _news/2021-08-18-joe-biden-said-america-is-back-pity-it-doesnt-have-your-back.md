@@ -9,7 +9,7 @@ ampWebUrl: "https://www.the-sun.com/news/3493266/joe-biden-america-doesnt-have-y
 cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3493266/joe-biden-america-doesnt-have-your-back/amp/"
 type: article
 quality: 75
-heat: 155
+heat: 135
 published: true
 
 provider:
@@ -75,15 +75,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How long can America put up with Joe Biden?"
-    excerpt: "Murie, you have absolutely no clue what’s going in the world outside of your house and fox “news” channel. Maybe you’d find some peace if you take up a hobby? Perhaps crochet. Or if you really do live in Russia u could make nesting dolls. Either way, good luck and please keep up the comedy. It’s not exceedingly funny, but good for a chuckle as we say here in the US."
-    publishedDateTime: 2021-08-21T14:36:00Z
-    webUrl: "https://www.tigernet.com/clemson-forum/message/re-how-long-can-america-put-up-with-joe-biden-29300251"
-    type: article
-    provider:
-      name: TigerNet
-      domain: tigernet.com
-    quality: 35
 
 secured: "k0rFAMaMqaYLPR1b5U+Ze+l3U6MlEW+9NmH2wbq4FoVZYrYShrXtQ27xJI8niBflYqAcIYZkZa7g+XIG5dDVEaUHInJC4ZsG8uYjzIZ4JjgiiWLTGYZRXPoRuQzbHkJluF0VrmlpcC2pQOgEhhmgTW/1ZuvKI4tJi9RSB4bDkyTv9q9QpVr8G5n8HYj0h70GyvYRkmug3GNYUKagnB/QmCBQRQk5HyB3cFnN+qL9NAzTb1UlJyJQDf4h2h5QqefdK4vmFxRBtGHP/iYvPaCaFjWfNMpGiqfFxaoc0tiRcCut0P7645L70Z7P3uPgYEl04PmxMn6FvkZa8M8IRQbuHMSyZHxtE1lJ2AYBTbogns4=;2qwZN7wfqxIsSAfIky8y3w=="
 ---

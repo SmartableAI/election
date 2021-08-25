@@ -335,6 +335,38 @@ related:
         width: 1024
         height: 677
         isCached: true
+  - title: "Kamala Harris calls on Vietnam to join US opposing China ''bullying''"
+    excerpt: "Vice President Kamala Harris called on Vietnam to join the US to challenge China's \"bullying\" in the South China Sea, a continuation of her sharp rhetoric against Beijing as she tours"
+    publishedDateTime: 2021-08-25T05:51:00Z
+    webUrl: "https://www.thehansindia.com/news/international/kamala-harris-calls-on-vietnam-to-join-us-opposing-china-bullying-703286"
+    ampWebUrl: "https://www.thehansindia.com/amp/news/international/kamala-harris-calls-on-vietnam-to-join-us-opposing-china-bullying-703286"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/international/kamala-harris-calls-on-vietnam-to-join-us-opposing-china-bullying-703286"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 75
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2021/08/25/1104032-kamala.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Kamala Harris to join husband in Honolulu after official trips in Asia"
+    excerpt: "Vice President Kamala Harris will reunite in Hawaii with second gentleman Doug Emhoff on Thursday following separate trips overseas for official White House functions."
+    publishedDateTime: 2021-08-25T05:17:00Z
+    webUrl: "https://www.staradvertiser.com/2021/08/24/breaking-news/kamala-harris-to-join-husband-in-honolulu-after-official-trips-in-asia/"
+    ampWebUrl: "https://www.staradvertiser.com/2021/08/24/breaking-news/kamala-harris-to-join-husband-in-honolulu-after-official-trips-in-asia/amp/"
+    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2021/08/24/breaking-news/kamala-harris-to-join-husband-in-honolulu-after-official-trips-in-asia/amp/"
+    type: article
+    provider:
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 75
+    images:
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2021/08/web1_AP21237152703837.jpg"
+        width: 760
+        height: 537
+        isCached: true
   - title: "Kamala Harris trip delayed over possible 'Havana syndrome' case"
     excerpt: "US Vice-President Kamala Harris's flight to Vietnam was delayed by several hours due to an \"anomalous health incident\" with similarities to so-called Havana syndrome, reports say. The mysterious syndrome first affected people at the US embassy in Havana in 2016 and may be caused by directed microwave radiation."
     publishedDateTime: 2021-08-24T18:12:00Z
@@ -366,6 +398,22 @@ related:
       - url: "https://bdc2020.o0bc.com/wp-content/uploads/2021/08/Singapore_US_Harris_76054-612503d375073-scaled.jpg"
         width: 2560
         height: 1731
+        isCached: true
+  - title: "VP Kamala Harris trip to Vietnam delayed over Havana Syndrome"
+    excerpt: "Similar, unexplained health ailments have since been reported by Americans serving in other countries, including Germany, Austria, Russia and China. A variety of theories have been floated to"
+    publishedDateTime: 2021-08-24T23:31:00Z
+    webUrl: "https://www.kron4.com/news/world/vp-kamala-harris-trip-to-vietnam-delayed-over-havana-syndrome/"
+    ampWebUrl: "https://www.kron4.com/news/world/vp-kamala-harris-trip-to-vietnam-delayed-over-havana-syndrome/amp/"
+    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/world/vp-kamala-harris-trip-to-vietnam-delayed-over-havana-syndrome/amp/"
+    type: article
+    provider:
+      name: KRON4
+      domain: kron4.com
+    quality: 75
+    images:
+      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2021/08/kamala-harris.jpeg?w=1280"
+        width: 1000
+        height: 650
         isCached: true
   - title: "VP Kamala Harris to return to California to campaign for Newsom next week"
     excerpt: "WASHINGTON — Vice President Kamala Harris will campaign for Gov. Gavin Newsom next week as the Democratic Party rallies around the California governor in his recall battle. The vice president and former California senator will visit her home state next ..."
@@ -478,22 +526,6 @@ related:
       - url: "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2021-08/hbcu.jpg?h=2e6157fd&itok=AA-SHIOi"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Kamala Harris in 2019: I Will Protect the Women of Afghanistan and Keep Terrorists Out"
-    excerpt: "Kamala Harris, to the Council on Foreign Relations, August 21, 2019: Nobody can predict what President Trump will do between now and 2021, so as soon as I take office, I will bring together our military leaders, national security advisers, and top ..."
-    publishedDateTime: 2021-08-20T19:08:00Z
-    webUrl: "https://www.nationalreview.com/corner/kamala-harris-in-2019-i-will-protect-the-women-of-afghanistan-and-keep-terrorists-out/"
-    ampWebUrl: "https://www.nationalreview.com/corner/kamala-harris-in-2019-i-will-protect-the-women-of-afghanistan-and-keep-terrorists-out/amp/"
-    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/kamala-harris-in-2019-i-will-protect-the-women-of-afghanistan-and-keep-terrorists-out/amp/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 67
-    images:
-      - url: "https://www.nationalreview.com/wp-content/uploads/2021/08/kamala-harris.jpg?fit=2057%2C1200"
-        width: 2057
-        height: 1200
         isCached: true
   - title: "Kamala Harris begins Asia trip to reassure allies of US dependability amid Afghan drawdown"
     excerpt: "Vice President Kamala Harris began her Asia trip on Sunday. She seeks to offer reassurances of Washington's commitment to the region after the chaotic US pullout from Afghanistan and Taliban takeover."
@@ -643,6 +675,20 @@ related:
       name: StamfordAdvocate
       domain: stamfordadvocate.com
     quality: 55
+  - title: "Kamala Harris accuses China of 'intimidation' in South China Sea"
+    excerpt: "US Vice President Kamala Harris is currently in Southeast Asia for her Singapore and Vietnam visits. During her first stop in Singapore, Harris also weighed in on the tensions surrounding the South China Sea and"
+    publishedDateTime: 2021-08-25T05:23:00Z
+    webUrl: "https://www.econotimes.com/Kamala-Harris-accuses-China-of-intimidation-in-South-China-Sea-1615754"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 55
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/20210825bb19af0af827cc4ff_th_1024x0.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Kamala Harris in Southeast Asia: Rationale, rhetoric and reality"
     excerpt: "As the U.S. diplomats come and go, Southeast Asian countries should not be blind to such stark reality of U.S. foreign policy conditioned by Washington's anarchic view of world politics and the lingering \"America First\" rhetoric."
     publishedDateTime: 2021-08-24T17:18:00Z
@@ -755,6 +801,20 @@ related:
       - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202108/1030237302.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Kamala Harris points to climate change as she warns parents ought to stock up for Christmas now"
+    excerpt: "Vice President Kamala Harris urged parents to start buying Christmas presents for their children due to global supply chain interruptions."
+    publishedDateTime: 2021-08-24T18:25:00Z
+    webUrl: "https://www.bizpacreview.com/2021/08/24/kamala-harris-points-to-climate-change-as-she-warns-parents-ought-to-stock-up-for-christmas-now-1123881/"
+    type: article
+    provider:
+      name: BizPac Review
+      domain: bizpacreview.com
+    quality: 43
+    images:
+      - url: "https://www.bizpacreview.com/wp-content/uploads/2021/08/SG-Kamala-Harris-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "US laser focused on evacuation in Afghanistan, grateful to partners like Singapore: US V-P Kamala Harris"
     excerpt: "She expressed how grateful the US is to its international partners for working with it to evacuate people from Afghanistan.. Read more at straitstimes.com."

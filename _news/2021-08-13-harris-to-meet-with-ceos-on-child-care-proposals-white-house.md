@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2FD18R"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2FD18R"
 type: article
 quality: 125
-heat: 525
+heat: 505
 published: true
 
 provider:
@@ -264,20 +264,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/smdailyjournal.com/content/tncms/assets/v3/editorial/d/e5/de533cd0-fa1a-11eb-b108-376880db43cc/6112e3c7c0c14.image.jpg?resize=945%2C630"
         width: 945
         height: 630
-        isCached: true
-  - title: "Kamala Harris defends decision to withdraw from Afghanistan"
-    excerpt: "The recent chaos that occurred in Afghanistans capital of Kabul comes in the heels of the insurgent group Talibans advancing and overthrowing of the Afghan government. As US President Joe Biden and his administration"
-    publishedDateTime: 2021-08-18T08:40:00Z
-    webUrl: "https://www.econotimes.com/Kamala-Harris-defends-decision-to-withdraw-from-Afghanistan-1615288"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 55
-    images:
-      - url: "https://s1.econotimes.com/assets/uploads/202108184e0297f5d44477942_th_1024x0.jpg"
-        width: 800
-        height: 533
         isCached: true
   - title: "Kamala Harris' visit to Southeast Asia to improve ties in the region"
     excerpt: "This coming week would be US Vice President Kamala Harriss visits to Vietnam and Singapore as her second overseas engagement as vice president. Experts believe that her upcoming visits to the Southeast Asian region"

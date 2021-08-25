@@ -275,20 +275,6 @@ related:
         width: 945
         height: 630
         isCached: true
-  - title: "Kamala Harris defends decision to withdraw from Afghanistan"
-    excerpt: "The recent chaos that occurred in Afghanistans capital of Kabul comes in the heels of the insurgent group Talibans advancing and overthrowing of the Afghan government. As US President Joe Biden and his administration"
-    publishedDateTime: 2021-08-18T08:40:00Z
-    webUrl: "https://www.econotimes.com/Kamala-Harris-defends-decision-to-withdraw-from-Afghanistan-1615288"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 55
-    images:
-      - url: "https://s1.econotimes.com/assets/uploads/202108184e0297f5d44477942_th_1024x0.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Vice President Kamala Harris visits Unity Health Care's Brentwood Health Center"
     excerpt: "U.S. Vice President Kamala Harris speaks about health care affordability at Unity Health Care's Brentwood Health Center on Tuesday, August 10, 20010 in Washington, DC. Photo by Oliver Contreras/UPI"
     publishedDateTime: 2021-08-10T18:13:00Z

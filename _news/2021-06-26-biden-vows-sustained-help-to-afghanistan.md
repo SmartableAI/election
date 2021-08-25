@@ -157,6 +157,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Joe Biden faces calls to make public address on Afghanistan – live"
+    excerpt: "Robert Gibbs, who once served as Barack Obama’s press secretary, argued that it was “imperative” for Joe Biden to speak to the American people about the situation in Afghanistan. Hopefully this happens very soon."
+    publishedDateTime: 2021-08-16T13:34:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live?page=with:block-611a72fd8f08aeaec2f20bd0"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/4bf99e9b33a417586b62ca6d94dbfe4d249bc0a6/0_39_2000_1201/master/2000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a1ddeaeaad0f377cbb2d4d97c4e0bbf3"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden to withdraw U.S. troops from Afghanistan by Sept. 11, officials say"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden has decided to withdraw the remaining U.S. troops from Afghanistan by Sept. 11, 2021, 20 years to the day after al Qaeda’s attacks triggered America’s longest war, U.S. officials said on Tuesday. U.S ..."
     publishedDateTime: 2021-04-13T15:55:00Z
@@ -398,6 +414,34 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden to speak on Afghanistan this afternoon – live"
+    excerpt: "You can find out more in our privacy policy and cookie policy, and manage your choices by going to ‘California resident – Do Not Sell’ at the bottom of any page. The great Washington Post reporter Bob Woodward’s third book about Donald Trump will be called Peril – completing a trilogy begun with Fear and Rage – and will also include sections on the start of Joe Biden’s presidency."
+    publishedDateTime: 2021-08-16T16:18:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live?page=with:block-611a98b48f08d30d155035a8"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/4bf99e9b33a417586b62ca6d94dbfe4d249bc0a6/0_39_2000_1201/master/2000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=d33c74c197e6d9907f33009bb6884d1c"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Joe Biden to speak on Afghanistan this afternoon – live"
+    excerpt: "Blinken spoke today with Russian Foreign Minister Sergey Lavrov about developments in Afghanistan, including the security situation and our efforts to bring U.S. citizens and vulnerable Afghans to safety."
+    publishedDateTime: 2021-08-16T17:19:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/16/us-politics-live-afghanistan-biden-republicans-democrats-latest-news-live?page=with:block-611aa3be8f08aeaec2f20ed6"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/ed8bc026814d385abeba1c36af93d727c3cd6422/0_371_5568_3341/master/5568.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=f47c7c5a02fd0dc264ee61a1e7c3d5e0"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden says it's 'time to end America's longest war' as he reveals plans to bring US troops home from Afghanistan"
     excerpt: "Biden said he was the fourth president to preside over the Afghanistan conflict, adding: \"I will not pass this responsibility on to a fifth.\""
     publishedDateTime: 2021-04-14T21:28:00Z
@@ -565,6 +609,38 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Biden is returning to the White House to give an address on Afghanistan"
+    excerpt: "President Biden will address the nation Monday as more U.S. forces are on their way to Afghanistan to help with the evacuation of U.S. personnel and allies."
+    publishedDateTime: 2021-08-16T15:53:00Z
+    webUrl: "https://www.opb.org/article/2021/08/16/president-joe-biden-white-house-afghanistan-address/"
+    ampWebUrl: "https://www.opb.org/article/2021/08/16/president-joe-biden-white-house-afghanistan-address/?outputType=amp"
+    cdnAmpWebUrl: "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2021/08/16/president-joe-biden-white-house-afghanistan-address/?outputType=amp"
+    type: article
+    provider:
+      name: OPB
+      domain: opb.org
+    quality: 75
+    images:
+      - url: "https://opb-opb-prod.cdn.arcpublishing.com/resizer/QjEyvtfdprbKFk831TgSSaelM_A=/767x431/smart/cloudfront-us-east-1.images.arcpublishing.com/opb/LON4AI4XV4NB3T2L46SSW4SGWY.jpg"
+        width: 767
+        height: 431
+        isCached: true
+  - title: "Biden to address nation on deadly chaos in Afghanistan"
+    excerpt: "President Joe Biden will address the nation on Monday about the U.S. evacuation from Afghanistan, after the planned withdrawal of American forces turned deadly at"
+    publishedDateTime: 2021-08-16T15:51:00Z
+    webUrl: "https://www.denverpost.com/2021/08/16/biden-to-address-nation-on-deadly-chaos-in-afghanistan/"
+    ampWebUrl: "https://www.denverpost.com/2021/08/16/biden-to-address-nation-on-deadly-chaos-in-afghanistan/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/08/16/biden-to-address-nation-on-deadly-chaos-in-afghanistan/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/08/Biden_Afghanistan_55795-1.jpg?w=1024&#038;h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Joe Biden’s Tale of Russian Bounties in Afghanistan Collapses Completely"
     excerpt: "Biden and the Democrats knew the Russian bounties story was likely fake news, a hoax, a scam, whatever else you want to call it. But they didn’t care."
     publishedDateTime: 2021-04-15T17:46:00Z
@@ -596,6 +672,22 @@ related:
       - url: "https://thumb.spokesman.com/AWDsH854wFcBy6zmIjWYANCXlFw=/480x0/media.spokesman.com/photos/2021/08/15/611996d81ee05.hires.jpg"
         width: 480
         height: 320
+        isCached: true
+  - title: "President Joe Biden defends Afghanistan withdrawal of troops | Charlotte Observer"
+    excerpt: "Biden’s experience is drawing scrutiny as the president navigates the first major global crisis of his presidency in Afghanistan."
+    publishedDateTime: 2021-08-17T00:22:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article253533464.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article253533464.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article253533464.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/346c4d4c-0ebe-4577-bdbf-21c5f8e914af/554385c1-d5d0-4f0c-9b03-7bab5722a707/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden authorizes 5,000 troops to Afghanistan to assist with 'orderly and safe' withdrawal"
     excerpt: "Biden said he's authorized additional troops to help with \"an orderly and safe drawdown\" in Afghanistan as the Taliban continued to make rapid gains."
@@ -707,6 +799,29 @@ related:
       name: BND
       domain: bnd.com
     quality: 55
+  - title: "WATCH LIVE: President Joe Biden Addresses The Nation Amid Afghanistan Collapse"
+    excerpt: "President Joe Biden is expected to address the nation on the U.S. evacuation from Afghanistan. Biden plans to speak to the nation Monday, April 16, 2021, at 1:45 p.m. MST. Colorado Public Radio will carry live coverage on the radio and online."
+    publishedDateTime: 2021-08-16T18:47:00Z
+    webUrl: "https://www.cpr.org/2021/08/16/watch-live-president-joe-biden-address-afghanistan/"
+    type: article
+    provider:
+      name: Colorado Public Radio
+      domain: cpr.org
+    quality: 51
+    images:
+      - url: "https://i2.wp.com/wp-cpr.s3.amazonaws.com/uploads/2021/08/AP21228642654210.jpg?resize=1200,600"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Biden to Marshal International Community on Rights in Afghanistan -Adviser"
+    excerpt: "U.S. National Security Adviser Jake Sullivan on Monday said that President Joe Biden is prepared to marshal the international community on human rights in Afghanistan, where the Taliban is seizing power."
+    publishedDateTime: 2021-08-16T11:47:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-08-16/biden-to-marshal-international-community-on-rights-in-afghanistan-adviser"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 33
 
 secured: "krx5lFEkPUVc8/F6WkfN+DEWQU5Zv6v+NoxeCcuwPabLIO+CyfP7O3OJjTDHilI0YRcVl+qvn/CzxgumILuUnqQp3t/xujgEfTOe+vraiEFhZiwc72UHUU9ooq6spFsvx9DYxa19Y/rjyxt2BVLZIXplpbXR34PL6LIFd01HUglfCxov1D52cKsyyzzPCedhZQ9TR992e766KzDkO3NhuHD5yfYmrKJbgXjvLKCTXLZDxcXmAJupAAtQW2L7E/j7xM0ASViIyd+RWEc6tN9CA3i+AacH7RGrY0lRB3MViejUmIZ3zoA/G5EXzbkr2mlazCg0iCuilJQlVp0jXiIySH+dJt6ieJQmZqZaD5UEJXCTI8hT6/pXMMDHzdGJ3V/Efmf0FdNz4+9Vuno6mQIV5XNtpi0eSvs+5bVUgqhxsib2rUyztVSjiacqjmNdAh3h2MClcenRERugdud82HHe7eHoHH+4BUPh1faWMPt6pu/fepG98dSv8KTpQ8CYcIslH8l0A4af82k7OIgy99PHcQ==;1YnwoEdNS04qvLxXY8ufaA=="
 ---

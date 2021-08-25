@@ -80,6 +80,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Kamala Harris’ flight to Vietnam delayed by possible ‘Havana Syndrome’ cases"
+    excerpt: "Vice President Kamala Harris’ flight from Singapore to Vietnam had to be pushed back several hours Tuesday over a possible “Havana syndrome” case."
+    publishedDateTime: 2021-08-24T17:18:00Z
+    webUrl: "https://nypost.com/2021/08/24/kamala-harris-vietnam-flight-delayed-by-possible-havana-syndrome/"
+    ampWebUrl: "https://nypost.com/2021/08/24/kamala-harris-vietnam-flight-delayed-by-possible-havana-syndrome/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/24/kamala-harris-vietnam-flight-delayed-by-possible-havana-syndrome/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 132
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/harris-singapore-034.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "Psia7NAXczPXL/vPJYd02/BSv+Pabl9DD6d8LAk0UhjSY+Jnw+X5oBJ/3vuobzqwVG2PrW10eeRc4Jc/vvl44Kq6zZG4T1Lk6gOLOKzDdJ5WyyWp843waa3jhLW1iGKN3nvU17vSb56AXM7IGV0gzI4ZFcYvskq/D1E6r4TpNj+sNn8feQeUXhtmgYUl4jneLgNjkhHP4U7MInJFwzkX+MImErcR7r18kN0+ufOfnq5CmP0GliXqAHiUU3HIV4ht6eCCVaoR1FGFEHbLJClodnCuvnBtNxgEMr9+2MLwWowdpU7KfCuInBLixGLhIUqAjPRLZTXjqaVpk0GdTuYsZOWCImRHbplIFeMgFdohYrA=;g9AkU9l75FvAloIx6j9gPg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-m
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
 type: article
 quality: 87
-heat: 127
+heat: 107
 published: true
 
 provider:
@@ -25,22 +25,6 @@ topics:
   - Joe Biden
 
 related:
-  - title: "President Biden urges Americans to get vaccinated following full FDA approval"
-    excerpt: "President Joe Biden addressed the nation Monday, urging more Americans to roll up their sleeves and get vaccinated now that the Pfizer vaccine received full FDA approval for ages 16 and up. Biden called the approval of Pfizer's vaccine \"the gold standard."
-    publishedDateTime: 2021-08-24T03:18:00Z
-    webUrl: "https://westchester.news12.com/president-biden-urges-americans-to-get-vaccinated-following-full-fda-approval"
-    ampWebUrl: "https://westchester.news12.com/amp/president-biden-urges-americans-to-get-vaccinated-following-full-fda-approval"
-    cdnAmpWebUrl: "https://westchester-news12-com.cdn.ampproject.org/c/s/westchester.news12.com/amp/president-biden-urges-americans-to-get-vaccinated-following-full-fda-approval"
-    type: article
-    provider:
-      name: News 12 New Jersey
-      domain: news12.com
-    quality: 72
-    images:
-      - url: "https://img.chdrstatic.com/media/af08ffdc-9632-4dc2-a041-8cefb8b5a6db.jpg?width=1200&source=backend&auto=webp"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Joe Biden to nominate Miami-born Cuban American Frank Mora as OAS Ambassador"
     excerpt: "If the Senate confirms him, he'll be the second consecutive Cuban American from Miami to serve as U.S. Ambassador to the Organization of American States."
     publishedDateTime: 2021-07-30T18:39:00Z
