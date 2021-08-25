@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Climate measures in reconciliation, infrastructure bills will mostly meet Biden's emissions goals, Schumer says"
+    excerpt: "An analysis from Senate Majority Leader Chuck Schumer's office estimates that combined, the bipartisan infrastructure bill and $3.5 trillion budget reconciliation bill can meet the majority of President Joe Biden's target to drastically slash emissions by the end of the decade.\n    \n"
+    publishedDateTime: 2021-08-25T14:48:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oy6x8opHz4U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/25/politics/reconciliation-climate-change-emissions-schumer-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/25/politics/reconciliation-climate-change-emissions-schumer-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210825090638-schumer-washington-reconciliation-climate-0805-file-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "Kx76Crow/WUeOm7CTeISxKtfF+nOD1RrWU32uS5Xml1k4HMMLKgYeK3tT+bqiOB1KEkvu2dadDLqO3YbC67v1ZuwcTRpf0SqEOLk2uBpu+y3G66vzoxlz9/4URq4VfDAf/dBIhqfRTFiXno2PF90cToBCPWaml7B/rElzVOx88Racs7p5uQ3dChxYYjzKt6nFQ7idihA+elNZVShh2kkkoSL0crpXNg7ArjonExr6lwBSaqr041RTEoxifjD3qZw5cWBWS9aCq2bZWk8dfzGaidgzDLqDAkcvUeYKrMlmDNPT3jrp+kZXOJ8moetCzixOEGOnhAxb4cb+AsSAmrtm90qJ3lNVxGfD2Jhslk0h3s=;dGpSH9Ssj3WBjMvAJZFlhg=="
 ---

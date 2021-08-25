@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden says he doesn't believe Taliban have changed"
-excerpt: "President Joe Biden said Thursday he doesn't believe the Taliban have changed, as the people of Afghanistan and the international community wait to see how the militants who have seized control of Afghanistan will govern.\n    \n"
-publishedDateTime: 2021-08-19T15:38:23Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rlscGiwprLw/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rlscGiwprLw/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/biden-taliban-not-changed/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/biden-taliban-not-changed/index.html"
+title: "Biden admin details new steps to prevent evictions as moratorium faces Supreme Court"
+excerpt: "The Biden administration is taking new steps to prevent evictions as the Covid-19 pandemic continues, the White House and Department of Treasury announced Wednesday.\n    \n"
+publishedDateTime: 2021-08-25T15:47:09Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iIa8stK-PvE/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iIa8stK-PvE/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/08/25/politics/biden-administration-eviction-moratorium-treasury/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/25/politics/biden-administration-eviction-moratorium-treasury/index.html"
 type: article
-quality: 175
+quality: 168
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210819003059-joe-biden-remarks-0818-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716145103-white-house-file-0306-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -60,6 +60,22 @@ related:
     quality: 186
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210823184143-bush-obama-trump-biden-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden says he doesn't believe Taliban have changed"
+    excerpt: "President Joe Biden said Thursday he doesn't believe the Taliban have changed, as the people of Afghanistan and the international community wait to see how the militants who have seized control of Afghanistan will govern.\n    \n"
+    publishedDateTime: 2021-08-19T15:38:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rlscGiwprLw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/biden-taliban-not-changed/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/biden-taliban-not-changed/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210819003059-joe-biden-remarks-0818-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -143,22 +159,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden admin details new steps to prevent evictions as moratorium faces Supreme Court"
-    excerpt: "The Biden administration is taking new steps to prevent evictions as the Covid-19 pandemic continues, the White House and Department of Treasury announced Wednesday.\n    \n"
-    publishedDateTime: 2021-08-25T15:47:09Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iIa8stK-PvE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/25/politics/biden-administration-eviction-moratorium-treasury/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/25/politics/biden-administration-eviction-moratorium-treasury/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716145103-white-house-file-0306-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Supreme Court won't halt court order forcing Biden to revive 'Remain in Mexico' policy"
     excerpt: "The Supreme Court on Tuesday declined the Biden administration's request that it put on hold a lower court order requiring the revival of the Trump-era \"Remain in Mexico\" immigration policy.\n    \n"
     publishedDateTime: 2021-08-25T00:26:24Z
@@ -192,6 +192,6 @@ related:
         height: 619
         isCached: true
 
-secured: "kRymDKN6LAIiBEoOIGOJ0qZ6qBjOVU5DSWZF/e2ag2lKBCgIarObuuXoFrHXKb/Ht0mg5tiTW6u/aZDbTnfOCWvI2Mm+JrKL652hv06e26jyjtjL00DyitX4zDqmyU5CZbSZDhNToxcpe+umKXJSCWpK7nMhxD1PmPMPyNnFF/xNym3x2QDUA9bzWWkTA/gYFlLRrQi2hJQvjUe5ZfiUeQ+ircaS9tS9SDpdW8IwmuITgnBrbw7vPYWjhWkTc62Z0cqm+jq7Bk1AT1gW/qReWTfjxCbflINO5OQmMRdKZbzGdSI+DFp3G+XR+NAxK1+5myVOiu5BlTsayKi/Tmvg9m0/RemiBKaCpm5hdNZkrGo=;8ldQHHnQ85S/NeayX1ziDA=="
+secured: "OJnGvl1+FtlEwibY31Y7vaUCBdIovPgIeZ+Tj2zHnvv3Pf/Rw/AITaW+4YNY6DJkxQxl9NgX0FRURmxSy2vwXif+hRiFYVavszyU+x2dTo4Ly/Ao0Xdm5bYiFpsrFh/qIxfJDP4vlExXLTVNc3ccnSN3FPu0SV/HaSaDVJXZIlDEqMtvvd97ACmEDcGBoGcBas6S76e+uIdvqpjOShEBITh7sK1zSNlHqETsjNie8wGv5r8Gs+GVKJw/3qxKqT/aY4pYpYVic5QqfnrsZcYwiubkSYQe3s9upNTAvls5YeQFk2PC6cC6AJ6YOLFFnKsNgy5JLcF8rNlSiZ85fol9fxyMA1sfgAs52w4mkReJXGU=;nuv06t2sPCznjJaBBzdaWA=="
 ---
 

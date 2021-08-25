@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/24/politics/biden-supreme-court/inde
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/24/politics/biden-supreme-court/index.html"
 type: article
 quality: 187
-heat: 367
+heat: 387
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210814150207-eviction-moratorium-landlords-appeal-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden admin details new steps to prevent evictions as moratorium faces Supreme Court"
+    excerpt: "The Biden administration is taking new steps to prevent evictions as the Covid-19 pandemic continues, the White House and Department of Treasury announced Wednesday.\n    \n"
+    publishedDateTime: 2021-08-25T15:47:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iIa8stK-PvE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/25/politics/biden-administration-eviction-moratorium-treasury/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/25/politics/biden-administration-eviction-moratorium-treasury/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716145103-white-house-file-0306-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

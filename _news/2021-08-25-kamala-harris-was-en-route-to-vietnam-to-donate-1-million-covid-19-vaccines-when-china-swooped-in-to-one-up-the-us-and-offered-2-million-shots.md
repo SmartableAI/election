@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Kamala Harris Says Beijing Continues to 'Coerce' in South China Sea"
-excerpt: "U.S. Vice President Kamala Harris on Tuesday accused Beijing of continuing to \"coerce\" and \"intimidate\" in the South China Sea and pledged that Washington would pursue a free and open Indo Pacific. Her comments came during a trip to Singapore."
-publishedDateTime: 2021-08-24T03:09:00Z
-originalUrl: "https://www.usnews.com/news/world/articles/2021-08-23/kamala-harris-says-beijing-continues-to-coerce-in-south-china-sea"
-webUrl: "https://www.usnews.com/news/world/articles/2021-08-23/kamala-harris-says-beijing-continues-to-coerce-in-south-china-sea"
-ampWebUrl: "https://www.usnews.com/news/world/articles/2021-08-23/kamala-harris-says-beijing-continues-to-coerce-in-south-china-sea?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-08-23/kamala-harris-says-beijing-continues-to-coerce-in-south-china-sea?context=amp"
+title: "Kamala Harris was en route to Vietnam to donate 1 million COVID-19 vaccines when China swooped in to one-up the US and offered 2 million shots"
+excerpt: "Harris is traveling in Southeast Asia this week as part of the Biden administration's broader effort to curb China's expanding global influence."
+publishedDateTime: 2021-08-25T15:17:00Z
+originalUrl: "https://www.businessinsider.com/china-undercuts-kamala-harris-1-million-vaccine-donation-to-vietnam-2021-8"
+webUrl: "https://www.businessinsider.com/china-undercuts-kamala-harris-1-million-vaccine-donation-to-vietnam-2021-8"
+ampWebUrl: "https://www.businessinsider.com/china-undercuts-kamala-harris-1-million-vaccine-donation-to-vietnam-2021-8?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/china-undercuts-kamala-harris-1-million-vaccine-donation-to-vietnam-2021-8?amp"
 type: article
-quality: 55
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Kamala Harris
+
+images:
+  - url: "https://i.insider.com/61265b88ba34430018d9aedf?width=1200&format=jpeg"
+    width: 1200
+    height: 600
+    isCached: true
 
 related:
   - title: "Kamala Harris says focus must stay on Afghan evacuation"
@@ -222,22 +228,6 @@ related:
       - url: "https://www.reuters.com/resizer/YgqCGpIjARxZ8pfeCCMDgprBPp0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7LOAE7NZ4ZJ3BBGBPOSUD2OFKA.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Kamala Harris was en route to Vietnam to donate 1 million COVID-19 vaccines when China swooped in to one-up the US and offered 2 million shots"
-    excerpt: "Harris is traveling in Southeast Asia this week as part of the Biden administration's broader effort to curb China's expanding global influence."
-    publishedDateTime: 2021-08-25T15:17:00Z
-    webUrl: "https://www.businessinsider.com/china-undercuts-kamala-harris-1-million-vaccine-donation-to-vietnam-2021-8"
-    ampWebUrl: "https://www.businessinsider.com/china-undercuts-kamala-harris-1-million-vaccine-donation-to-vietnam-2021-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/china-undercuts-kamala-harris-1-million-vaccine-donation-to-vietnam-2021-8?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
-    images:
-      - url: "https://i.insider.com/61265b88ba34430018d9aedf?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Kamala Harris’ Asia trip carries new urgency after Afghan collapse"
     excerpt: "The Taliban takeover of Afghanistan has given new urgency to Vice President Kamala Harris’ tour of southeast Asia, where she will attempt to reassure allies of American resolve following the"
@@ -701,6 +691,17 @@ related:
       name: Biloxi Sun Herald
       domain: sunherald.com
     quality: 55
+  - title: "Kamala Harris Says Beijing Continues to 'Coerce' in South China Sea"
+    excerpt: "U.S. Vice President Kamala Harris on Tuesday accused Beijing of continuing to \"coerce\" and \"intimidate\" in the South China Sea and pledged that Washington would pursue a free and open Indo Pacific. Her comments came during a trip to Singapore."
+    publishedDateTime: 2021-08-24T03:09:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-08-23/kamala-harris-says-beijing-continues-to-coerce-in-south-china-sea"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-08-23/kamala-harris-says-beijing-continues-to-coerce-in-south-china-sea?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-08-23/kamala-harris-says-beijing-continues-to-coerce-in-south-china-sea?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "US VP Harris: Focus must stay on Afghan evacuation"
     excerpt: "Vice President Kamala Harris asserted Monday that the U.S. must maintain its focus on evacuating Americans and vulnerable Afghans and shouldn’t get distracted by questions over what went wrong in the chaotic U."
     publishedDateTime: 2021-08-23T19:56:00Z
@@ -942,6 +943,6 @@ related:
         height: 422
         isCached: true
 
-secured: "HUGxK6i4qMgSenzNjBs2+OJE6AQPr2roJNqiL13Pc9hcrNLDTjqrUBEf7iG+M+jjKakDnpDCaxqyTNNPeL5h7Zvc1c5DIjAz2dvE+zEokTSSBSnZhzFBduDgmHR7BuKQ2+TNpm7D/pwwDfk5hJM6WVTac3HlLbQ7CFLuiozX9wvP+KQGePTMNoICO6jz/YGgqS9q+uVFrDloHqQsGXyLjWYPpt/XLGs0705uZAwTP4xvkRYloT3/NSntSja+AYTlXpkyLRw593EXg1mNB+nidVlY640nzIVT+lfjo8fVhlZceHPbVwYFmduyFfXA2JyuB+Zbe+QwGT0zew4iF23+qIBOkLsDCUpdQK3XbzXSOucX+LwJiw4jm6vhmf3tztn/UjwtEvo5TuKbLtQpeLTiQZ7sfcMgqTaa2AnG2jHE2kaRdIp97b5oZKclOu5twSsxOUOjxxgv/MNAA1dIhFebtGApIvlxFu0nz2qazRxa89Jbv3Di/zQyxB8f1J8yb1KsFHJr5eTZiKyAJ9wuxmov6A==;kYBMY2DZH509+MWxHDti1g=="
+secured: "R5FUPO+XH4UwVgr/qAu/pE9TqQ4t0YLm0adpUM1F1xrx+pXfSGkw1kIxvrh68tRvXROUumHYPopryoflHU9xOk60/woN8qBwHAydKCiC8erYlO/7/3gAiv8Z/1hyTFZa41Rud6URw8F42aq3BPkM2M7QN1Zlua/5HoZBdy70POvzCGuBWLVgANswLxDwjMCKdbb7XeWw0HDdEIk9EEnsIvRSSD+ky+Z9/G3Lyib/eGQCJ/ZXcYpPTskwaOs15uXq9MG7+Iv23XcrUSbtIZ1xwNcXIgDbeSoJw14wCWvDZUsB0zIi5+p3OL7xWiaqbKT6/03US/RAjQ6hjAqtm4IElZ2K6EnOGqUI231Uq7WCSpY=;OkM1Gz8JutEw1WokM6lpRw=="
 ---
 

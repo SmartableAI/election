@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden admin details new steps to prevent evictions as moratorium faces Supreme Court"
+    excerpt: "The Biden administration is taking new steps to prevent evictions as the Covid-19 pandemic continues, the White House and Department of Treasury announced Wednesday.\n    \n"
+    publishedDateTime: 2021-08-25T15:47:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iIa8stK-PvE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/25/politics/biden-administration-eviction-moratorium-treasury/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/25/politics/biden-administration-eviction-moratorium-treasury/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716145103-white-house-file-0306-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Supreme Court won't halt court order forcing Biden to revive 'Remain in Mexico' policy"
     excerpt: "The Supreme Court on Tuesday declined the Biden administration's request that it put on hold a lower court order requiring the revival of the Trump-era \"Remain in Mexico\" immigration policy.\n    \n"
     publishedDateTime: 2021-08-25T00:26:24Z

@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Kamala Harris Says Beijing Continues to 'Coerce' in South China Sea"
-excerpt: "U.S. Vice President Kamala Harris on Tuesday accused Beijing of continuing to \"coerce\" and \"intimidate\" in the South China Sea and pledged that Washington would pursue a free and open Indo Pacific. Her comments came during a trip to Singapore."
-publishedDateTime: 2021-08-24T03:09:00Z
-originalUrl: "https://www.usnews.com/news/world/articles/2021-08-23/kamala-harris-says-beijing-continues-to-coerce-in-south-china-sea"
-webUrl: "https://www.usnews.com/news/world/articles/2021-08-23/kamala-harris-says-beijing-continues-to-coerce-in-south-china-sea"
-ampWebUrl: "https://www.usnews.com/news/world/articles/2021-08-23/kamala-harris-says-beijing-continues-to-coerce-in-south-china-sea?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-08-23/kamala-harris-says-beijing-continues-to-coerce-in-south-china-sea?context=amp"
+title: "Analysis: Kamala Harris backed Afghan exit despite intel warning Taliban would abuse women again"
+excerpt: "Just 12 days before President Joe Biden ordered the withdrawal of U.S. forces in Afghanistan, the U.S. intelligence community warned the White House that allowing the Taliban to control the"
+publishedDateTime: 2021-08-25T14:35:00Z
+originalUrl: "https://www.djournal.com/news/national/analysis-kamala-harris-backed-afghan-exit-despite-intel-warning-taliban-would-abuse-women-again/article_cf31fa7e-e1cc-59df-8c6c-4d267483bd58.html"
+webUrl: "https://www.djournal.com/news/national/analysis-kamala-harris-backed-afghan-exit-despite-intel-warning-taliban-would-abuse-women-again/article_cf31fa7e-e1cc-59df-8c6c-4d267483bd58.html"
 type: article
-quality: 55
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Daily Journal
+  domain: djournal.com
 
 topics:
   - Election
   - Kamala Harris
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/7/16/716c8fc9-28d2-587f-8fa2-c437abbef47c/60d4c1ae6ec3e.image.jpg?crop=1000%2C563%2C0%2C102&resize=1000%2C563&order=crop%2Cresize"
+    width: 1000
+    height: 563
+    isCached: true
 
 related:
   - title: "Kamala Harris says focus must stay on Afghan evacuation"
@@ -701,6 +701,17 @@ related:
       name: Biloxi Sun Herald
       domain: sunherald.com
     quality: 55
+  - title: "Kamala Harris Says Beijing Continues to 'Coerce' in South China Sea"
+    excerpt: "U.S. Vice President Kamala Harris on Tuesday accused Beijing of continuing to \"coerce\" and \"intimidate\" in the South China Sea and pledged that Washington would pursue a free and open Indo Pacific. Her comments came during a trip to Singapore."
+    publishedDateTime: 2021-08-24T03:09:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-08-23/kamala-harris-says-beijing-continues-to-coerce-in-south-china-sea"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-08-23/kamala-harris-says-beijing-continues-to-coerce-in-south-china-sea?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-08-23/kamala-harris-says-beijing-continues-to-coerce-in-south-china-sea?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "US VP Harris: Focus must stay on Afghan evacuation"
     excerpt: "Vice President Kamala Harris asserted Monday that the U.S. must maintain its focus on evacuating Americans and vulnerable Afghans and shouldn’t get distracted by questions over what went wrong in the chaotic U."
     publishedDateTime: 2021-08-23T19:56:00Z
@@ -867,20 +878,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Analysis: Kamala Harris backed Afghan exit despite intel warning Taliban would abuse women again"
-    excerpt: "Just 12 days before President Joe Biden ordered the withdrawal of U.S. forces in Afghanistan, the U.S. intelligence community warned the White House that allowing the Taliban to control the"
-    publishedDateTime: 2021-08-25T14:35:00Z
-    webUrl: "https://www.djournal.com/news/national/analysis-kamala-harris-backed-afghan-exit-despite-intel-warning-taliban-would-abuse-women-again/article_cf31fa7e-e1cc-59df-8c6c-4d267483bd58.html"
-    type: article
-    provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 42
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/7/16/716c8fc9-28d2-587f-8fa2-c437abbef47c/60d4c1ae6ec3e.image.jpg?crop=1000%2C563%2C0%2C102&resize=1000%2C563&order=crop%2Cresize"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "US laser focused on evacuation in Afghanistan, grateful to partners like Singapore: US V-P Kamala Harris"
     excerpt: "She expressed how grateful the US is to its international partners for working with it to evacuate people from Afghanistan.. Read more at straitstimes.com."
     publishedDateTime: 2021-08-24T03:28:00Z
@@ -942,6 +939,6 @@ related:
         height: 422
         isCached: true
 
-secured: "HUGxK6i4qMgSenzNjBs2+OJE6AQPr2roJNqiL13Pc9hcrNLDTjqrUBEf7iG+M+jjKakDnpDCaxqyTNNPeL5h7Zvc1c5DIjAz2dvE+zEokTSSBSnZhzFBduDgmHR7BuKQ2+TNpm7D/pwwDfk5hJM6WVTac3HlLbQ7CFLuiozX9wvP+KQGePTMNoICO6jz/YGgqS9q+uVFrDloHqQsGXyLjWYPpt/XLGs0705uZAwTP4xvkRYloT3/NSntSja+AYTlXpkyLRw593EXg1mNB+nidVlY640nzIVT+lfjo8fVhlZceHPbVwYFmduyFfXA2JyuB+Zbe+QwGT0zew4iF23+qIBOkLsDCUpdQK3XbzXSOucX+LwJiw4jm6vhmf3tztn/UjwtEvo5TuKbLtQpeLTiQZ7sfcMgqTaa2AnG2jHE2kaRdIp97b5oZKclOu5twSsxOUOjxxgv/MNAA1dIhFebtGApIvlxFu0nz2qazRxa89Jbv3Di/zQyxB8f1J8yb1KsFHJr5eTZiKyAJ9wuxmov6A==;kYBMY2DZH509+MWxHDti1g=="
+secured: "T0Bg9Rx2C7MXlYCaISfXGvr2wu7+Vj4Ty95X0fhtirIFBo+uVRRUQug9PG80n1NFnnack8yGCoCxjCycx3UsGpg/uTaL0mgRaJJj7+x1VaDA2M/pOzug4UAzeqwVZh44x5GqvEWtOmRULWNLa6x03X9DExA/YAgzbhB+tFTcoykQyXjy/TWjufFyoRF0/o3ZvQQ5rBe24POMPuk2N8WEKDg+Hf40IQLhwQKNjHLyvFSYH4bhy99uT69kAWtdOb+CEKErG2qC0+S7VHelqUfu2Gcr+Gkk56e1+t6YIs3at13Fv8TVNClsgZCXzFNZX3oW4gu78DTYuTjI2meatV33RdRHLuA1z4sLudfBooY9f08=;h9fVShtE1Dt8CwW5BsZmHA=="
 ---
 

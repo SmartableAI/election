@@ -225,6 +225,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Kamala Harris was en route to Vietnam to donate 1 million COVID-19 vaccines when China swooped in to one-up the US and offered 2 million shots"
+    excerpt: "Harris is traveling in Southeast Asia this week as part of the Biden administration's broader effort to curb China's expanding global influence."
+    publishedDateTime: 2021-08-25T15:17:00Z
+    webUrl: "https://www.businessinsider.com/china-undercuts-kamala-harris-1-million-vaccine-donation-to-vietnam-2021-8"
+    ampWebUrl: "https://www.businessinsider.com/china-undercuts-kamala-harris-1-million-vaccine-donation-to-vietnam-2021-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/china-undercuts-kamala-harris-1-million-vaccine-donation-to-vietnam-2021-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/61265b88ba34430018d9aedf?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Kamala Harris’ Asia trip carries new urgency after Afghan collapse"
     excerpt: "The Taliban takeover of Afghanistan has given new urgency to Vice President Kamala Harris’ tour of southeast Asia, where she will attempt to reassure allies of American resolve following the"
     publishedDateTime: 2021-08-20T16:04:00Z
@@ -848,6 +864,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Analysis: Kamala Harris backed Afghan exit despite intel warning Taliban would abuse women again"
+    excerpt: "Just 12 days before President Joe Biden ordered the withdrawal of U.S. forces in Afghanistan, the U.S. intelligence community warned the White House that allowing the Taliban to control the"
+    publishedDateTime: 2021-08-25T14:35:00Z
+    webUrl: "https://www.djournal.com/news/national/analysis-kamala-harris-backed-afghan-exit-despite-intel-warning-taliban-would-abuse-women-again/article_cf31fa7e-e1cc-59df-8c6c-4d267483bd58.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 42
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/7/16/716c8fc9-28d2-587f-8fa2-c437abbef47c/60d4c1ae6ec3e.image.jpg?crop=1000%2C563%2C0%2C102&resize=1000%2C563&order=crop%2Cresize"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "US laser focused on evacuation in Afghanistan, grateful to partners like Singapore: US V-P Kamala Harris"
     excerpt: "She expressed how grateful the US is to its international partners for working with it to evacuate people from Afghanistan.. Read more at straitstimes.com."
     publishedDateTime: 2021-08-24T03:28:00Z
@@ -909,6 +939,6 @@ related:
         height: 422
         isCached: true
 
-secured: "tdP9l30QxGe9a9jOOYdAiauHdF/F8UaYGbNvUV+jRuSZeko6CHFQFy0ugAVeXZ2iw5LpC/H1BKZPtZG0n07Z1RC6ZrI0yU7WThmmrYznRy/tiyrzH2ZZWJetAAE4dLfspc0Ubp6597cvk8i8+ylXvvg9Uy77+m7NNB7V12OFJZy13AyZUtiVhOttjhFtfslk7sXkyLxibd2vcbF3JsoEwe88bUgtF45XLgZx+U4sxAY1rAkjToMhKGfV4L/4VLDMkh/XfGPo2rtEkhlEHT2KuxPFnuKv7+9YK7ozoFW4JnaopHB4cNSTkchGbRhY3BTsqPBdF5RanC3R4O7FJS/cG0iqsIGZZf1E9LfGdPv4Fvw=;ZnyuDbAujkTS5WSjYSlgrw=="
+secured: "uNIll9NQYJUT2cmr5qbvti16/RNufmbm2ycXCMwN/t0PirSzAN6z5WHMGC/cBrq39qNHtm1pldt+awI2q2j/7H9N2ECxEtLRY8xjQkFaXrPTfjSHIjsn0u7197Xpz0u3mklWKNymv8e5GYhIw1TAfuc2Besgp9FSAVa3CQVNuXHzIAcAun6qMgJOosKcIGQqPAIy8iTj16DCiDDm4xlYoQPoO6Lhi/r4HYW8cjVde7V3BvYW10wBxRXa7iBoxB5a4aMcA7En/stev4of0pb0ulf78YSme7OXwyCIiFu50X9d1IePueTwnkWGZZNFGk5vTlb1qR99qo7f9xVJxqcpcgXEaj27kBoatDMGP4sZC1By7TAAwZ0KImEHt4RTTsKBSRCGTTAQUC4sb1LL+wTuxdGL8niBIQvvuqRLAemEa0OX/xUT38oTWpYGT2/0DPAU2DDprBvDL6Pdig+OFye/BbGockxAhiN7Rcqwv3STZHjUlDjJCqyuJDuLz66VDEuhG2yeHl98AHsnc9fm9fPazw==;YzIdcDGQRbfflXU7KacrMg=="
 ---
 
