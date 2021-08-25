@@ -71,16 +71,16 @@ related:
   - title: "Pence, Cruz, DeSantis to headline Ricketts steak fry event"
     excerpt: "Former Vice President Mike Pence, Texas Sen. Ted Cruz and Florida Gov. Ron DeSantis are coming to Nebraska for Gov. Pete Ricketts' annual steak fry next"
     publishedDateTime: 2021-08-09T15:38:00Z
-    webUrl: "https://billingsgazette.com/news/national/govt-and-politics/pence-cruz-desantis-to-headline-ricketts-steak-fry-event/article_05dba76f-5095-5a19-9871-35e3249b3b11.html"
+    webUrl: "https://journalnow.com/news/national/govt-and-politics/pence-cruz-desantis-to-headline-ricketts-steak-fry-event/article_879e4277-8b98-50f2-a55e-43601cd4bc09.html"
     type: article
     provider:
-      name: Billings Gazette
-      domain: billingsgazette.com
+      name: Winston-Salem Journal
+      domain: journalnow.com
     quality: 55
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/custom/image/c72cf8ac-c550-11ea-86bd-3761faee86a6.jpg"
-        width: 1200
-        height: 630
+      - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/custom/image/d0e8546e-79ea-11e6-b85b-bf46fb96285c.gif?resize=600%2C600"
+        width: 600
+        height: 600
         isCached: true
   - title: "Mike Pence, Ted Cruz, Ron DeSantis will headline Ricketts event in Nebraska City"
     excerpt: "Former Vice President Mike Pence, Texas Sen. Ted Cruz and Florida Gov. Ron DeSantis form an all-star lineup of guests who will join Gov. Pete Ricketts at a Nebraska Steak Fry scheduled in Nebraska City on Sept."

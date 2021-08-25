@@ -105,6 +105,20 @@ related:
         width: 1044
         height: 630
         isCached: true
+  - title: "Trump alone decided space command site"
+    excerpt: "Gov. Jared Polis, Colorado Springs Mayor John Suthers and the Board of El Paso County Commissioners jumped to lobby for keeping Space Command here after former President Donald Trump claimed"
+    publishedDateTime: 2021-08-25T07:00:00Z
+    webUrl: "https://www.csindy.com/news/trump-alone-decided-space-command-site/article_6817fd54-051d-11ec-93b4-ff756009602b.html"
+    type: article
+    provider:
+      name: Csindy.com
+      domain: csindy.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/csindy.com/content/tncms/assets/v3/editorial/4/06/406910d6-f9f2-11ea-9561-0fd5a9010cf9/5f65209256b5d.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
+        isCached: true
 
 secured: "4soxPYXBhHbFr+0l0L07tVDhzdYc8lB3ZbxI3h7nxl30aTx7RIqITbrrJWtTsuSLH9Ra/TpvOjYxx8pFjmvW+fdH5rvfAPIV44FLvQsVxcAZLbNReEhGtUaXzk0llDkniekFZ61xlHzqTuCzTc/ZCWluWZjPPcpUefrul6KORjHpw7WqNPnTmpYnxDexhB5CBZ7wYBP2BALksgiTnDow9Qh3Cv1NNBrjtCitmmY5L4JEDmnw6a39HDbWllClQ6vaJDKE66YrYoBjS7axhm+J3CfSWMpVu/O5nq3Mn8hS05Yer2SSYKuzklQAkGP84NghBpAMCI/eLM2EsKw8y+GpQrwCZkJ2RkFDN1xsyXUoKiV3PwL8m/KEvOeuuYSuSO9UJKd0j53XhIiWtBl311Uvz97lvR+/tFST2UcMiSXcmhjYwipLfHcMZuB2hscQZLYYKouPjwgXNVHCBHBrRBP33a3TdhJAGbXSOSOJXRIJfl6TxUSCEb1DApJuI3/80tuwoEj9tRc9lbUZZU8NUFgF7A==;OLsZdr+aVndLzs2ih9Yteg=="
 ---

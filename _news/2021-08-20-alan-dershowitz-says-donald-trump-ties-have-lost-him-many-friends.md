@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/alan-dershowitz-says-donald-trump-ties-have
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/alan-dershowitz-says-donald-trump-ties-have-lost-him-many-friends-larry-david-1621399?amp=1"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -107,6 +107,20 @@ related:
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/2/d9/2d9ee749-a144-59f9-ab8e-9a209399f7ce/6123d26da24a5.image.jpg?resize=1044%2C630"
         width: 1044
+        height: 630
+        isCached: true
+  - title: "Trump alone decided space command site"
+    excerpt: "Gov. Jared Polis, Colorado Springs Mayor John Suthers and the Board of El Paso County Commissioners jumped to lobby for keeping Space Command here after former President Donald Trump claimed"
+    publishedDateTime: 2021-08-25T07:00:00Z
+    webUrl: "https://www.csindy.com/news/trump-alone-decided-space-command-site/article_6817fd54-051d-11ec-93b4-ff756009602b.html"
+    type: article
+    provider:
+      name: Csindy.com
+      domain: csindy.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/csindy.com/content/tncms/assets/v3/editorial/4/06/406910d6-f9f2-11ea-9561-0fd5a9010cf9/5f65209256b5d.image.jpg?resize=945%2C630"
+        width: 945
         height: 630
         isCached: true
 

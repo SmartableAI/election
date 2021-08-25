@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-25-supreme-court-rules-in-favor-of-trumps-remain-in-mexico-policy.md",
+      "title": "Supreme Court rules in favor of Trump’s ‘remain in Mexico’ policy",
+      "excerpt": "The court, with three liberal justices dissenting, rejected the Biden administration’s effort to block a Texas-based judge’s ruling requiring the government to revive Trump’s",
+      "sourceUrl": null,
+      "webUrl": "https://www.ocregister.com/2021/08/24/supreme-court-rules-in-favor-of-remain-in-mexico-policy/",
+      "originalUrl": "https://www.ocregister.com/2021/08/24/supreme-court-rules-in-favor-of-remain-in-mexico-policy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ocregister.com/wp-content/uploads/2021/08/sjm-ourt_15699.jpg-8a244-1_1040745497_73062567.jpg?w=1024&#038;h=683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ocregister.com/2021/08/24/supreme-court-rules-in-favor-of-remain-in-mexico-policy/amp/",
+      "cdnAmpWebUrl": "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/08/24/supreme-court-rules-in-favor-of-remain-in-mexico-policy/amp/",
+      "publishedDateTime": "2021-08-25T00:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Orange County Register",
+        "domain": "ocregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-trump-claims-bidens-afghanistan-evacuation-could-be-bringing-terrorists-to-america.md",
       "title": "Trump claims Biden's Afghanistan evacuation could be bringing 'terrorists' to America",
       "excerpt": "In an August 25 statement, Trump asked people to imagine \"how many terrorists\" were \"airlifted out of Afghanistan\" and into neighborhoods worldwide.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-claims-biden-bringing-afghan-terrorists-to-the-us-2021-8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1733,
+      "heat": 1753,
       "tags": null,
       "images": [
         {
@@ -968,7 +1011,7 @@
       "originalUrl": "https://www.newsweek.com/alan-dershowitz-says-donald-trump-ties-have-lost-him-many-friends-larry-david-1621399",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1402,49 +1445,6 @@
       "provider": {
         "name": "The Sun",
         "domain": "the-sun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-15-donald-trump-blasts-former-secretary-of-state-rex-tillerson-dumb-as-a-rock.md",
-      "title": "Donald Trump blasts former secretary of state Rex Tillerson; ‘Dumb as a rock’",
-      "excerpt": "President Trump denounced his former Secretary of State Thursday following reports Rex Tillerson quietly met with the House Foreign Affairs Committee and testified about his time in the Trump administration.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/donald-trump-europe-rex-tillerson-96b455a30118c4b2ac668418b27073f2",
-      "originalUrl": "https://apnews.com/article/donald-trump-europe-rex-tillerson-96b455a30118c4b2ac668418b27073f2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/ShareLogo2.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-14T20:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

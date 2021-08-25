@@ -2,26 +2,30 @@
 category: news
 title: "Afghanistan: 'The sooner we finish, the better,' says Joe Biden"
 excerpt: "US President Joe Biden says the US is \"on pace\" to meet a 31 August deadline for evacuations, despite previous calls from allies for an extension. \"The sooner we finish the better,\" he said. Some American troops have already been withdrawn,"
-publishedDateTime: 2021-08-25T03:02:00Z
-originalUrl: "https://www.bbc.co.uk/news/world-asia-58321849?at_medium=RSS&amp%3Bat_campaign=KARANGA"
-webUrl: "https://www.bbc.co.uk/news/world-asia-58321849?at_medium=RSS&amp%3Bat_campaign=KARANGA"
-ampWebUrl: "https://www.bbc.co.uk/news/world-asia-58321849.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-asia-58321849.amp"
+publishedDateTime: 2021-08-25T04:46:00Z
+originalUrl: "https://www.bbc.com/news/world-asia-58321849"
+webUrl: "https://www.bbc.com/news/world-asia-58321849"
+ampWebUrl: "https://www.bbc.com/news/world-asia-58321849.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-asia-58321849.amp"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/14DD7/production/_120236458_mediaitem120236457.jpg"
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/FFB7/production/_120236456_mediaitem120232630.jpg"
     width: 1024
     height: 576
     isCached: true
@@ -142,7 +146,7 @@ related:
   - title: "Joe Biden speaks about Afghanistan evacuation amid criticism – live"
     excerpt: "Psaki says US has helped evacuate 57,000 people in the last nine days and and is on track to meet its deadline of 31 August"
     publishedDateTime: 2021-08-24T20:24:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news?page=with:block-61255bc08f080ef844e747eb"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news?page=with:block-612560288f08b1506f20dbf6"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news"
     type: article
@@ -504,6 +508,22 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Joe Biden actions on Afghanistan may trigger World War III (Letters)"
+    excerpt: "What President Joe Biden did was much more than totally mismanage the U.S. withdrawal from Afghanistan and lose respect internationally; his action will set off great danger for our country. First, this sets the stage for the growth and strength of world-wide terrorism."
+    publishedDateTime: 2021-08-24T17:25:00Z
+    webUrl: "https://www.masslive.com/opinion/2021/08/joe-biden-actions-on-afghanistan-may-trigger-world-war-iii-letters.html"
+    ampWebUrl: "https://www.masslive.com/opinion/2021/08/joe-biden-actions-on-afghanistan-may-trigger-world-war-iii-letters.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/opinion/2021/08/joe-biden-actions-on-afghanistan-may-trigger-world-war-iii-letters.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/26TDCLVL75AD5BHOCGDJO4FNCM.jpg"
+        width: 6720
+        height: 4480
         isCached: true
   - title: "Joe Biden gifting Afghanistan to the Taliban is a crime against humanity"
     excerpt: "IN 20 days, it will be exactly 20 years since someone phoned you and said, “Turn on your television now.” Twenty years since those planes came out of a clear blue sky and ploughed into the Twin"
@@ -1188,6 +1208,6 @@ related:
         height: 380
         isCached: true
 
-secured: "7VucmOrSdcNFgPi4fkmnJMPwGNVW9m1srgI1NnRqUoOepIQbVVdj02ZN8mq9aj05VNvDYMFl4lxmyEMrOjPw/TnfkQzTunMuLkSUOvb2Zyw8J5WzTsuhdgTdUpUQYzwNUAmavlgbPglHoVh6pWg/926KcSK6UEhCv6MtKqA/0DlcJKkxETXtGcDMgQ6wu+pYPEEC45RcNB9L0YBs88BOBi880jt1FFJzXYOdXisAmrqlEwOSSTTgGjob+BU0SwUPaZUTteG8cKyN8S6efIEsB3IOD2TC8adfs2DH5Ik30DDKGy9A4pJipaAT2Gk9aOcoEg87s0nK3JTx6Z8zo1iYIi9nvmBYYBZW2qycAtYlDyM=;A3etbyjFTEJ/TEM+Br6K4g=="
+secured: "7jGY3+tcPH7ckhRh3/K1ngJ2aTzk6ruGjSuAcYzyniwZfYIFvm+/9wiWWfGUAphfos/+9gQJJSJzo1S7AEBsOLlxprm+M+UYPrN33cty2HfQsQKhDrlhd8RfKynaM9KaF5eQplpMsSLPV6zh8GZ6dHnR3c7WcJrY+FFqtgEjXX3frhPfXH0L9OFtVwZvgD0tvgSR7F02Qv1NTRMn6eDsbHeAeVNzjkesbR3J3ccKVoMtHQJGcL3Cs8ijuDNy0YNddzGy6byIoLqlcjnPsQUg1dSrT8ImjoTdou0Bh+ElQUae1BAu3X1NpuckQ2SXAJSLkGDH3vrsHF8PlOjXrbdt2RNYuub6nLPaPFamh67u0/tOB6cEgwzHy8h3QCD4Yud+dkpLs7H7JEvRnjo0YpUDEp3Jiyobb3Uq5kvg/4ixJN8iwXnUSzSCsYbbZWyuJUYmCyMxykk3no7ulfG3g5g0U2o/hnF6AskkT4K0SlVHTi3kNw/u+BtLauAoyrsjKf07Rr2uzerrRe3sMOeKDwhTgA==;0ggIJb4EEyu4H1qIja0CkQ=="
 ---
 

@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Trump-backed Herschel Walker seeks Georgia Senate seat"
-excerpt: "AP Herschel Walker on Tuesday filed paperwork to run for U.S. Senate in Georgia after months of speculation, joining other Republicans seeking to unseat Democratic Sen. Raphael Warnock in 2022. Walker,"
-publishedDateTime: 2021-08-25T01:02:00Z
-originalUrl: "https://www.sanluisobispo.com/news/nation-world/national/article253714938.html"
-webUrl: "https://www.sanluisobispo.com/news/nation-world/national/article253714938.html"
-ampWebUrl: "https://amp.sanluisobispo.com/news/nation-world/national/article253714938.html"
-cdnAmpWebUrl: "https://amp-sanluisobispo-com.cdn.ampproject.org/c/s/amp.sanluisobispo.com/news/nation-world/national/article253714938.html"
+excerpt: "Herschel Walker on Tuesday filed paperwork to run for U.S. Senate in Georgia after months of speculation, joining other Republicans seeking to unseat Democratic Sen. Raphael Warnock in 2022. Walker, 59,"
+publishedDateTime: 2021-08-25T09:26:00Z
+originalUrl: "https://bangordailynews.com/2021/08/25/national-politics/trump-backed-herschel-walker-seeks-georgia-senate-seat/"
+webUrl: "https://bangordailynews.com/2021/08/25/national-politics/trump-backed-herschel-walker-seeks-georgia-senate-seat/"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: SanLuisObispo
-  domain: sanluisobispo.com
+  name: Bangor Daily News
+  domain: bangordailynews.com
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/US-Election-2022-Senate-Georgia.jpg"
+    width: 1024
+    height: 683
+    isCached: true
 
 related:
   - title: "Trump says Herschel Walker will enter Georgia Senate race"
@@ -157,6 +161,6 @@ related:
         height: 630
         isCached: true
 
-secured: "3Lk00ri6HpIrPaAq1vrw+bde9+60pHRb9h++GljZ5L3/43/Sug6AogXXU4rJxABK0hExLS8burXIiqxbuAjl4BtvgZ+z0GCUCR7FYkHG4LEFmsFwCydBGOxzyiCW5gDzzY559hj0HMI5FO0LfrsvNcvQhPLyEjaAf2pR8+S/HJLUd2Ldnqn6a+aS4TNp+GAQXFSm7df2gQq5bDc9Iqpuxn17vJVQPXsiObIQl0nLDuLEEwv/OZhTkZBnKkoZeyX1ogQiiZURwn3BgWHs0jKGIFsWceCSgKN4cjBwmzLQi4hivXG6O3Dps/9U8ANeDBJMPw+d0amwUzy/hFPacKxl503yeF8FcpYQGjiUNwi2pd96sEJ/d2xn7e+cCiW69022EDPzLSuEMTWFRYRdFSfaZOZCaeqQoNyu82/K87XRspwOLXpED/ryeiFQGPB8PQldZG0fV8vmq3f6LUp2d7KFNx5p33waaC5D9UL0WITlFPQpgXOLgmihURAS8aTBjRBPuNj9wrBdBUXGkSGo12ztxg==;r2FojjdrzZStCPoUgMrvpA=="
+secured: "3w3DB7FohLgcHsfL3XgvtQFfGHmFy1BS++ZTux5KakYR+ooT0bwx4FjG3kOEAMesAKv7ttm/IhBONE13VbIoJWzdslkDKoC9Poox9RDebwPk6iWIfjwH+tkuRzdf5gH1oSirnOhc8oCaeJv+WAuCxV9sXIxIq7L0qGcI3s26x4XK85ceaLKGcjWU7Vi1FCezazYq+aJVQrkt564LQ8pz+xapPiZHkDadlx/IwtbW9ArArQ/kVj6IbzXuFfZUPGXzNowjOaoIpX/NMPMnWXWrfceFFgjlIFZQhqz4j6grZcXUf9N5kxyzKY8I8aFkhmavptLPp5s7R3KaQnaapSRuSYX49jOyMgKoL91VVbASvmM=;WuQIX6uMskSYTsccU6HWRg=="
 ---
 

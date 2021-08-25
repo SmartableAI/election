@@ -122,16 +122,19 @@ related:
         height: 710
         isCached: true
   - title: "Trump-backed Herschel Walker seeks Georgia Senate seat"
-    excerpt: "AP Herschel Walker on Tuesday filed paperwork to run for U.S. Senate in Georgia after months of speculation, joining other Republicans seeking to unseat Democratic Sen. Raphael Warnock in 2022. Walker,"
-    publishedDateTime: 2021-08-25T01:02:00Z
-    webUrl: "https://www.sanluisobispo.com/news/nation-world/national/article253714938.html"
-    ampWebUrl: "https://amp.sanluisobispo.com/news/nation-world/national/article253714938.html"
-    cdnAmpWebUrl: "https://amp-sanluisobispo-com.cdn.ampproject.org/c/s/amp.sanluisobispo.com/news/nation-world/national/article253714938.html"
+    excerpt: "Herschel Walker on Tuesday filed paperwork to run for U.S. Senate in Georgia after months of speculation, joining other Republicans seeking to unseat Democratic Sen. Raphael Warnock in 2022. Walker, 59,"
+    publishedDateTime: 2021-08-25T09:26:00Z
+    webUrl: "https://bangordailynews.com/2021/08/25/national-politics/trump-backed-herschel-walker-seeks-georgia-senate-seat/"
     type: article
     provider:
-      name: SanLuisObispo
-      domain: sanluisobispo.com
+      name: Bangor Daily News
+      domain: bangordailynews.com
     quality: 55
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/US-Election-2022-Senate-Georgia.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Trump-backed Herschel Walker seeks Georgia Senate seat | Charlotte Observer"
     excerpt: "AP Herschel Walker on Tuesday filed paperwork to enter the U.S. Senate race in Georgia after months of speculation, joining other Republicans seeking to unseat Democratic Sen. Raphael Warnock in 2022."
     publishedDateTime: 2021-08-24T23:28:00Z

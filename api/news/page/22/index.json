@@ -2,6 +2,115 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-07-08-mark-zuckerberg-and-sheryl-sandbergs-partnership-did-not-survive-trump.md",
+      "title": "Mark Zuckerberg and Sheryl Sandberg’s Partnership Did Not Survive Trump",
+      "excerpt": "The company they built is wildly successful. But her Washington wisdom didn’t hold up, and neither did their close working relationship.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/07/08/business/mark-zuckerberg-sheryl-sandberg-facebook.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/08/business/mark-zuckerberg-sheryl-sandberg-facebook.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/08/business/08facebook-web-illo/08facebook-web-illo-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/08/business/mark-zuckerberg-sheryl-sandberg-facebook.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/08/business/mark-zuckerberg-sheryl-sandberg-facebook.amp.html",
+      "publishedDateTime": "2021-07-08T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-melania-trump-spotted-in-nyc-despite-efforts-to-avoid-being-photographed.md",
+      "title": "Melania Trump Spotted In NYC Despite Efforts To Avoid Being Photographed",
+      "excerpt": "Melania Trump was spotted in New York City for the first time since the Trumps left the White House in January.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/melania-trump-spotted-nyc-despite-efforts-avoid-being-photographed-3246712",
+      "originalUrl": "https://www.ibtimes.com/melania-trump-spotted-nyc-despite-efforts-avoid-being-photographed-3246712",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/03/melania-trump-seen-here-on-january-20-which.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/melania-trump-spotted-nyc-despite-efforts-avoid-being-photographed-3246712?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-spotted-nyc-despite-efforts-avoid-being-photographed-3246712?amp=1",
+      "publishedDateTime": "2021-07-07T19:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-lobsters-cruises-and-scotch-one-cabinet-secretarys-push-to-sell-bidens-agenda.md",
       "title": "Lobsters, cruises and scotch: One Cabinet secretary's push to sell Biden's agenda",
       "excerpt": "Commerce Secretary Gina Raimondo won't hesitate to make the hard ask. She wants to make that clear.\n    \n",
@@ -1214,106 +1323,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-bidens-education-dept-just-hired-elizabeth-warrens-student-loans-expert-who-studied-predatory-lending-at-harvard.md",
-      "title": "Biden's Education Dept. just hired Elizabeth Warren's student-loans expert, who studied predatory lending at Harvard",
-      "excerpt": "Warren cited Toby Merrill's research, from Harvard's Project of Predatory Student Lending, that Biden has the legal authority to cancel student debt.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-education-department-toby-merrill-predatory-student-loans-elizabeth-warren-2021-7",
-      "originalUrl": "https://www.businessinsider.com/biden-education-department-toby-merrill-predatory-student-loans-elizabeth-warren-2021-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60e4a94022d19400191c93fc?width=750&format=jpeg&auto=webp",
-          "width": 750,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-education-department-toby-merrill-predatory-student-loans-elizabeth-warren-2021-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-education-department-toby-merrill-predatory-student-loans-elizabeth-warren-2021-7?amp",
-      "publishedDateTime": "2021-07-06T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-nj-devils-owners-replacing-trump-organization-as-wollman-rink-operator.md",
-      "title": "NJ Devils owners replacing Trump Organization as Wollman Rink operator",
-      "excerpt": "The owners of the New Jersey Devils and two partners have been selected to run Wollman Rink in Central Park after the city booted its long-term operator, the Trump Organization.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/06/owners-of-nj-devils-to-run-wollman-rink-in-central-park/",
-      "originalUrl": "https://nypost.com/2021/07/06/owners-of-nj-devils-to-run-wollman-rink-in-central-park/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/HarrisBlitzer.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/06/owners-of-nj-devils-to-run-wollman-rink-in-central-park/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/06/owners-of-nj-devils-to-run-wollman-rink-in-central-park/amp/",
-      "publishedDateTime": "2021-07-06T11:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

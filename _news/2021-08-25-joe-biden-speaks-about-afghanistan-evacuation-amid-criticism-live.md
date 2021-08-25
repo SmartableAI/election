@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden speaks about Afghanistan evacuation amid criticism – live"
 excerpt: "Psaki says US has helped evacuate 57,000 people in the last nine days and and is on track to meet its deadline of 31 August"
 publishedDateTime: 2021-08-24T20:24:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news?page=with:block-61255bc08f080ef844e747eb"
-webUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news?page=with:block-61255bc08f080ef844e747eb"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news?page=with:block-612560288f08b1506f20dbf6"
+webUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news?page=with:block-612560288f08b1506f20dbf6"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news"
 type: article
@@ -142,6 +142,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/6f87cfebea90dee8b9414a911dfec2be734bc054/0_338_5070_3042/master/5070.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=90924b8c66fbbea91d45e5d57cc19deb"
         width: 600
         height: 360
+        isCached: true
+  - title: "Afghanistan: 'The sooner we finish, the better,' says Joe Biden"
+    excerpt: "US President Joe Biden says the US is \"on pace\" to meet a 31 August deadline for evacuations, despite previous calls from allies for an extension. \"The sooner we finish the better,\" he said. Some American troops have already been withdrawn,"
+    publishedDateTime: 2021-08-25T04:46:00Z
+    webUrl: "https://www.bbc.com/news/world-asia-58321849"
+    ampWebUrl: "https://www.bbc.com/news/world-asia-58321849.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-asia-58321849.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/FFB7/production/_120236456_mediaitem120232630.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Joe Biden to speak about Afghanistan evacuation amid criticism – live"
     excerpt: "Psaki says US has helped evacuate 57,000 people in the last nine days and and is on track to meet its deadline of 31 August"
@@ -493,21 +509,21 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Afghanistan: 'The sooner we finish, the better,' says Joe Biden"
-    excerpt: "US President Joe Biden says the US is \"on pace\" to meet a 31 August deadline for evacuations, despite previous calls from allies for an extension. \"The sooner we finish the better,\" he said. Some American troops have already been withdrawn,"
-    publishedDateTime: 2021-08-25T03:02:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-asia-58321849?at_medium=RSS&amp%3Bat_campaign=KARANGA"
-    ampWebUrl: "https://www.bbc.co.uk/news/world-asia-58321849.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-asia-58321849.amp"
+  - title: "Joe Biden actions on Afghanistan may trigger World War III (Letters)"
+    excerpt: "What President Joe Biden did was much more than totally mismanage the U.S. withdrawal from Afghanistan and lose respect internationally; his action will set off great danger for our country. First, this sets the stage for the growth and strength of world-wide terrorism."
+    publishedDateTime: 2021-08-24T17:25:00Z
+    webUrl: "https://www.masslive.com/opinion/2021/08/joe-biden-actions-on-afghanistan-may-trigger-world-war-iii-letters.html"
+    ampWebUrl: "https://www.masslive.com/opinion/2021/08/joe-biden-actions-on-afghanistan-may-trigger-world-war-iii-letters.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/opinion/2021/08/joe-biden-actions-on-afghanistan-may-trigger-world-war-iii-letters.html?outputType=amp"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
+      name: MassLive
+      domain: masslive.com
     quality: 75
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/14DD7/production/_120236458_mediaitem120236457.jpg"
-        width: 1024
-        height: 576
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/26TDCLVL75AD5BHOCGDJO4FNCM.jpg"
+        width: 6720
+        height: 4480
         isCached: true
   - title: "Joe Biden gifting Afghanistan to the Taliban is a crime against humanity"
     excerpt: "IN 20 days, it will be exactly 20 years since someone phoned you and said, “Turn on your television now.” Twenty years since those planes came out of a clear blue sky and ploughed into the Twin"
@@ -1192,6 +1208,6 @@ related:
         height: 380
         isCached: true
 
-secured: "ykwdSwa1SAiWSUmaZdhTyW+JpMeuSnLXDX92JqBAk6lXXYOzKajbZZoO54fsb7DxWPQLtFARpvk2q3LTm4JUHzm8K7i+CWO7H6wytKetNW3DmCDRCdwJSrfLznMUMDOX06p2JYjkzUBxgjU92gNX+iHAjf7q0DKWpcMXlGpcKfa3woHExtST82UPtQ8yVYbrxj1noPuODPaqpJfSl3Q8NEANdouKxesLRcFIfZXfmKDrG6YvfqfYdy2wSaEXFgYskeMO9dR3AeXMWrvu5ZvwcJkoZAFoVV0FoZ6wl/XHZ0relDH8j5cikYx0dnGK35SOcuATL0JJkZGvDxtj+CJg/IbQbAWWgHb6IpjjmTunz0SuyYAKu7rutzB8r5EHl+x0ouDHDl7zAJjhmc0QUs+BfmTk5e7dDtlvhw/O8zdN+CtBV+PzAk1uaAUkI6S42eJs1iGk0VyqEFTf3zAgVSxGtcWrbs6/Q24SXLfCGEWSwmu0NSRrAMw8iQ0iIgJGRVeuaSBxxlr3lwYQ3VkPoLREtA==;T34b6YFk/q5x+0qaxjg65g=="
+secured: "tqg1ku/mcOZFGMERnR39tsQ3kFhhcMTDoTjMn7ghQcfWqg2peC9UbXSNDMLcbgpNiBD7l0Zbxik0FUdDRhQVIVRPjf0kn9bFcH9DqQ6NISFvTubXIT/3BEjcCECX3p0OyybMYxU637T4TgWPAqS9mEkaCBd2IHN0dSy0gBBd9tLryg/pwSiliIEz2iZg8PQR1EhF7EFFAhMex2K74Dw4v3yuRgrCcduy6mQDAFdY9xk7uBI/m2Mn5qg/UnOK+GvPFbcPTlAp6OH2t/j9ujtPNwA1dRhr45JCF1FlpHNQLLGSGA6pJVCeloDeyj05gMmcGChDJ6Bxdr6jIoJ4zqAqAHzrAEXsIiCdhSLUYVABSJPsQaW98qB0g8UZZeH/zw7oQJKfxHdpDVqjD7g9wi8HQvt88GJLUxRPqJEhcH37exMvZJxfA8R5R1enjdWCWTr3c5RqXct0myayn/fnasqDSZyhqMgm/fkRvetWH9n5T/Y5hOBIB3Y4+t2ciI5FnEeyVyxo1ZGbNNQJKfzJFG5utQ==;ILjUxE0p6Jd1Y7TkUspZgQ=="
 ---
 

@@ -107,6 +107,20 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 63
+  - title: "VP Kamala Harris: If You Want To Have Christmas Gifts For Your Children Now Is The Time To Start Buying"
+    excerpt: "MAIL: Kamala Harris in Singapore delivered what was billed as a major foreign policy speech, but failed to mention Afghanistan. Instead, while holding a roundtable with business leaders, she mentioned climate change and the threat to on-time delivery of Christmas presents due to the pandemic."
+    publishedDateTime: 2021-08-24T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/08/24/vp_kamala_harris_if_you_want_to_have_christmas_gifts_for_your_children_now_is_the_time_to_start_buying.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 49
+    images:
+      - url: "https://assets.realclear.com/images/55/551863.jpg"
+        width: 758
+        height: 568
+        isCached: true
 
 secured: "ro0uXSO63+Btxsln3As1aWqQ1sI301Sc3EmoEy/gX3MEe0wD7erXRk5Uf8CubPaWdsdAz6AVs/fQG/8lBcLMCcFjLtUE+PZOyKJ/g15Z5C2OgQSir4I8shRYGvW6P7NTIdVmxBzwVhWZBleRqMtJk1t2RbZlQTSqC2zc8OI6AxNSu11Oq1ZIV50a1w5KcazDxcLu2ww1MkxurX/larh6UsPzHMi1ew6MBGklYbs0KMfYbMOYgRq3kCJgTTV2Dx7sF6QIwNVLcyxEG72fRajpIs8MgO8qF6CUg3gwBBk0myub9GbFlfBHYna0yvvdjbJuBVfqcTTJVhrD0KhppoFmJbMWXXMeiFFgJbPwiE+kaIQ=;eQUdoPKjHTyvFFKiYeb9Xw=="
 ---
