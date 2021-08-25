@@ -39,17 +39,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "NC Senate candidate goes door knocking for Trump voters | Charlotte Observer"
-    excerpt: "With 2022 primaries ahead, Republican and Democratic candidates campaign across the state. For every dollar donated for the remainder of August, Erica Smith’s campaign for Senate says it will knock on a door in a North Carolina county that Donald Trump won in the 2020 presidential race."
-    publishedDateTime: 2021-08-23T19:10:00Z
-    webUrl: "https://www.charlotteobserver.com/news/politics-government/article253682403.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article253682403.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article253682403.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 52
 
 secured: "TSNGyqhA5PG8Qkn/m4H+th56HzBmzbCIXCVqilW0CP3taov6mVqtrppFOhxWC/o/tV3p8QYx6g3E7g8mh8gvLCr2SMT17K7hP9JYS5Mw69lKySRMWSYTZR97x7c/mRskTwEv7G9TBUJDk8B+bymCwfaNZ9+WXCkCHQyOGn6AD25JVn5cZBm7w+aIj1ANHk9kHkOwY9P2upj8tSIpIGKT1X2MBKoA6r4v6YEZ5rogbIIOLG8VYK4SIdpkAF1b8bHSvQl19kdGUXNqYmJ8dKbr+I6ZakJDYok8jIi1vNacioepJoUXAN/m84Zwg/PgS95GzlwSz0rwCcsPrSSzeFjak0O7GL0aiFSAcF2MYd5g+58=;Yo+4Pi+mY3vaBNGl/Ol23w=="
 ---

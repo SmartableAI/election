@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/12/politics/joe-biden-donald-trump-b
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/12/politics/joe-biden-donald-trump-barack-obama-afghanistan-infrastructure/index.html"
 type: article
 quality: 185
-heat: 985
+heat: 1005
 published: true
 
 provider:
@@ -524,6 +524,20 @@ related:
     quality: 155
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200714171751-01-mark-esper-0709-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Why Biden will end the final mission in Afghanistan in just 7 days"
+    excerpt: "The instincts that drove President Joe Biden's decision to end the US presence in Afghanistan by August 31 were revealed by what he talked about before he announced it to the American people.\n    \n"
+    publishedDateTime: 2021-08-25T11:51:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e7WKqyT1mao/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210824172414-01-biden-0824-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

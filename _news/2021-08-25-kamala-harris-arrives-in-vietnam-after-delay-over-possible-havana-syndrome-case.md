@@ -48,6 +48,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Kamala Harris visits John McCain monument in Vietnam, 3 years after his death"
+    excerpt: "Vice President Kamala Harris laid flowers Wednesday at the Vietnamese memorial site where late Sen. John McCain was shot down in 1967 by the North Vietnamese when he was a Navy fighter pilot."
+    publishedDateTime: 2021-08-25T10:03:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gSguBsq3Bbc/kamala-harris-john-mccain-monument-vietnam-3-years-after-death"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-john-mccain-monument-vietnam-3-years-after-death.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-john-mccain-monument-vietnam-3-years-after-death.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d15b94df-9e97-4fe9-ba27-9d1418e8e09a/5c1b06c9-3a75-40ea-98d5-a743eaff156d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Kamala Harris Stresses Cooperation on Supply Chains in Singapore Visit"
     excerpt: "The vice president made the case for stronger economic ties with Southeast Asia during a trip to Singapore, where she stressed the need to ease supply-chain constraints as a surge of Covid-19 cases has hit factories in the region."
     publishedDateTime: 2021-08-24T07:58:00Z

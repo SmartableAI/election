@@ -90,22 +90,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "CBS reporter instructs WH staff to show Biden the poll about his job approval falling"
-    excerpt: "CBS reporter Bo Erickson called on the Biden administration to inform President Joe Biden on his now falling job approval numbers."
-    publishedDateTime: 2021-08-22T22:35:00Z
-    webUrl: "https://www.foxnews.com/media/cbs-reporter-wh-show-biden-poll-job-approval-falling"
-    ampWebUrl: "https://www.foxnews.com/media/cbs-reporter-wh-show-biden-poll-job-approval-falling.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cbs-reporter-wh-show-biden-poll-job-approval-falling.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 128
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/720992a2-fc40-4646-81b9-af47fb1722e0/9216b3ca-df46-43a9-ab31-24a7573f75ec/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Missing Deadline, Biden Delays Afghan Withdrawal Timeline to September"
     excerpt: "President Joe Biden will withdraw all U.S. troops from Afghanistan by Sept. 11, the 20th anniversary of the terrorist attacks on"
     publishedDateTime: 2021-04-16T11:16:00Z

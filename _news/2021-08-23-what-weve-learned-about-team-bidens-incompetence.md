@@ -20,35 +20,51 @@ topics:
   - Republican Voice
 
 related:
-  - title: "Biden approves Florida emergency declaration due to Tropical Storm Fred"
-    excerpt: "Biden ordered federal assistance to supplement state, tribal, and local response efforts -- because of emergency conditions resulting from the storm, according to a statement from the White House."
-    publishedDateTime: 2021-08-17T05:34:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iaz9kUaS7QM/biden-florida-emergency-declaration-federal-assistance-tropical-storm-fred"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-florida-emergency-declaration-federal-assistance-tropical-storm-fred.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-florida-emergency-declaration-federal-assistance-tropical-storm-fred.amp"
+  - title: "With Biden poll numbers plunging, Democrats worry Afghan exit may impact next year's elections"
+    excerpt: "The rushed U.S. evacuation in Afghanistan appears to be a key contributing factor in the plunge in President Biden's approval rating in new polls. Some Democrats are worried the political fallout could impair their prospects in the 2022 midterms."
+    publishedDateTime: 2021-08-25T10:38:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PEfZ-75ZWeU/biden-poll-numbers-plunging-democrats-worry-afghanistan-midterms"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-poll-numbers-plunging-democrats-worry-afghanistan-midterms.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-poll-numbers-plunging-democrats-worry-afghanistan-midterms.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 178
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/720/405/AP21228746281121.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Biden’s comment on Taiwan clarified by administration official"
-    excerpt: "President Biden’s recent comments during a televised interview with ABC News raised questions if the U.S.’s position of “strategic ambiguity” has changed when it comes to Taiwan."
-    publishedDateTime: 2021-08-20T04:38:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/F9uGvvXZcIE/bidens-comment-on-taiwan-clarified-by-administration-official"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-comment-on-taiwan-clarified-by-administration-official.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-comment-on-taiwan-clarified-by-administration-official.amp"
+  - title: "Would a Republican House majority impeach Biden in 2023?"
+    excerpt: "House GOP leader Rep. Kevin McCarthy says that if his party wins back the majority in the chamber in the 2022 midterm elections, House Republicans wouldn't use impeachment as a political weapon against President Biden in 2023."
+    publishedDateTime: 2021-08-19T15:04:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HXXIMdKaQHc/would-republican-house-majority-impeach-biden-2023"
+    ampWebUrl: "https://www.foxnews.com/politics/would-republican-house-majority-impeach-biden-2023.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/would-republican-house-majority-impeach-biden-2023.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "20 GOP states push back against Biden gun regulations"
+    excerpt: "Attorneys general of 20 states are fighting back against an \"unconstitutional\" Biden administration proposal to regulate gun parts."
+    publishedDateTime: 2021-08-21T21:26:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tNt8RKiz_bQ/gop-states-push-back-biden-gun-regulations"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-states-push-back-biden-gun-regulations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-states-push-back-biden-gun-regulations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -68,54 +84,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden court win on eviction ban extension draws appeals from Realtors, landlords"
-    excerpt: "Groups against President Biden’s extension of the coronavirus eviction moratorium appealed one day after a federal judge ruled it could stand, according to reports."
-    publishedDateTime: 2021-08-15T06:24:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iIbQMmjsgN0/biden-court-eviction-ban-extension-appeals-realtors-landlords"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-court-eviction-ban-extension-appeals-realtors-landlords.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-court-eviction-ban-extension-appeals-realtors-landlords.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65634db6-d537-4f58-92ba-b491e437f557/18f65754-e325-4017-9d84-5920e08b5632/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden 'checking' if he has power to intervene against Florida and Texas mask mandate bans"
-    excerpt: "Biden said he is “checking” on if his presidential powers could give him the ability to intervene in states banning mask mandates"
-    publishedDateTime: 2021-08-10T22:15:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cZ5oDR8JHqo/biden-checking-if-he-has-power-to-intervene-on-florida-and-texas-mask-mandates"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-checking-if-he-has-power-to-intervene-on-florida-and-texas-mask-mandates.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-checking-if-he-has-power-to-intervene-on-florida-and-texas-mask-mandates.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f971513-f578-48ec-aafe-1356cbb35b0f/7990aed3-d0fa-45d5-b33f-11ab72e7de2f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden administration announces rule to speed up asylum processing as part of border strategy"
-    excerpt: "The Biden administration announced Wednesday a new rule to speed up asylum processing at the southern border, both with quicker entry into the U.S. as well as a broader scope for removal -- as the administration looks to tackle the continuing crisis at the border."
-    publishedDateTime: 2021-08-18T14:58:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rt-rSRJ9cOQ/biden-administration-rule-speed-up-asylum-processing-border-strategy"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-rule-speed-up-asylum-processing-border-strategy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-rule-speed-up-asylum-processing-border-strategy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2e1303da-8218-4497-af76-cf242c86cc69/b453413d-8e7c-43d1-89f5-aec507881226/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Growing political roadblock vs. big spender Joe Biden"
     excerpt: "As the debacle in Afghanistan consumes the Biden administration, Wall Street is keeping a closer eye on another debacle."
     publishedDateTime: 2021-08-22T03:38:00Z
@@ -132,24 +100,36 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Biden Destroys U.S. Energy Production, Begs OPEC to Pump"
-    excerpt: "Just hours after being sworn into office on January 20, 2021, President Joe Biden signed an executive order canceling the Keystone XL pipeline. The move killed thousands of union jobs,"
-    publishedDateTime: 2021-08-12T11:38:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/08/12/biden_destroys_us_energy_production_begs_opec_to_pump_549252.html"
+  - title: "CBS reporter instructs WH staff to show Biden the poll about his job approval falling"
+    excerpt: "CBS reporter Bo Erickson called on the Biden administration to inform President Joe Biden on his now falling job approval numbers."
+    publishedDateTime: 2021-08-22T22:35:00Z
+    webUrl: "https://www.foxnews.com/media/cbs-reporter-wh-show-biden-poll-job-approval-falling"
+    ampWebUrl: "https://www.foxnews.com/media/cbs-reporter-wh-show-biden-poll-job-approval-falling.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cbs-reporter-wh-show-biden-poll-job-approval-falling.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/720992a2-fc40-4646-81b9-af47fb1722e0/9216b3ca-df46-43a9-ab31-24a7573f75ec/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Graham: If We Leave Any Afghan Behind, Joe Biden Deserves To Be Impeached For Dereliction Of Duty"
+    excerpt: "Senate Judiciary Committee member Sen. Lindsey Graham (R-SC) said on Friday if President Joe Biden leaves behind any American or Afghani ally behind then he should be impeached. \"We're duty-bound to get every American citizen out."
+    publishedDateTime: 2021-08-20T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/08/20/graham_if_we_leave_any_afghan_behind_joe_biden_deserves_to_be_impeached_for_dereliction_of_duty.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 45
-  - title: "Biden Administration Joins Florida School Mask Fight"
-    excerpt: "President Joe Biden even called Broward's superintendent Friday night, the Miami Herald reported, to offer his support for district rules requiring students to wear masks. On the call, he said his administration stands ready to support their school districts and communities to get back to safe,"
-    publishedDateTime: 2021-08-15T11:08:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/08/15/biden_administration_joins_florida_school_mask_fight_549465.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
+    quality: 52
+    images:
+      - url: "https://assets.realclear.com/images/55/551499.jpg"
+        width: 1018
+        height: 762
+        isCached: true
 
 secured: "EMoEUBgjWP0R6pcIzJtFzIUWJFBszbJeSAua7FUxVwN0EoF/k/iuXNdk0TzJFlpnT5nYHY/flkXn+Okygj4q6X9k7o7bKgZPUNylpxjsm7IUd4Z8eADXAW7y6LyDigJRH7EBOqkpyOYzxh8tEkfycdYhy/QKSB6EEOFabKEuxPr6HAevMT3rOA+ENI9JMQRlHlgvAhRjtBwqxlurSp+bF/gbwVooXwrp+NwrOlvVbMwtO2NheLNkzLaIBi6lpkbeiu2rxkhZrpBjpXA+eJo/mBHWO9LhbakAGS8jyZAQ5y/PDabaKJ506auGU6BGVxjoytynAgcaALahs5CENec7wzMuV4c98e//wAYgYTBBKpw=;vbM6w37B5Lc+HSVRduRXfQ=="
 ---

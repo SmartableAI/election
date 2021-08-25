@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/president-biden-vp-harris-avoid-the
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-biden-vp-harris-avoid-the-cameras-as-kabul-falls.amp"
 type: article
 quality: 200
-heat: 940
+heat: 960
 published: true
 
 provider:
@@ -596,6 +596,15 @@ related:
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-08-13T11:28:00Z
     webUrl: "https://www.realclearpolitics.com/2021/08/12/this_afghan_rout_is_entirely_on_joe_biden_549316.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
+  - title: "Joe Biden Groveling as Taliban Calls the Shots"
+    excerpt: "Joe Biden is the new champion of cowards. Read Full Article »"
+    publishedDateTime: 2021-08-25T11:41:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/08/25/joe_biden_groveling_as_taliban_calls_the_shots_550176.html"
     type: article
     provider:
       name: RealClearPolitics

@@ -63,22 +63,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Would a Republican House majority impeach Biden in 2023?"
-    excerpt: "House GOP leader Rep. Kevin McCarthy says that if his party wins back the majority in the chamber in the 2022 midterm elections, House Republicans wouldn't use impeachment as a political weapon against President Biden in 2023."
-    publishedDateTime: 2021-08-19T15:04:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HXXIMdKaQHc/would-republican-house-majority-impeach-biden-2023"
-    ampWebUrl: "https://www.foxnews.com/politics/would-republican-house-majority-impeach-biden-2023.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/would-republican-house-majority-impeach-biden-2023.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden gaffe: President calls Michigan’s Whitmer ‘Jennifer’ at White House event, report says"
     excerpt: "In 2020, when Joe Biden was running for president, Michigan Gov. Gretchen Whitmer was reportedly close to becoming Biden’s running mate. On Wednesday, Biden couldn’t remember her name."
     publishedDateTime: 2021-08-12T07:45:47Z
@@ -126,20 +110,6 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/402fd5d2-59ec-48df-9708-940138d5ec89/67f32827-ee50-4b97-9c0e-47148a82b3ce/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
-        isCached: true
-  - title: "Graham: If We Leave Any Afghan Behind, Joe Biden Deserves To Be Impeached For Dereliction Of Duty"
-    excerpt: "Senate Judiciary Committee member Sen. Lindsey Graham (R-SC) said on Friday if President Joe Biden leaves behind any American or Afghani ally behind then he should be impeached. \"We're duty-bound to get every American citizen out."
-    publishedDateTime: 2021-08-20T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/08/20/graham_if_we_leave_any_afghan_behind_joe_biden_deserves_to_be_impeached_for_dereliction_of_duty.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 52
-    images:
-      - url: "https://assets.realclear.com/images/55/551499.jpg"
-        width: 1018
-        height: 762
         isCached: true
   - title: "6 Things Biden Could Do About Covid If He Is Serious"
     excerpt: "Here's what Joe Biden should do if he is actually serious about handling the pandemic and not just playing politics. Read Full Article »"

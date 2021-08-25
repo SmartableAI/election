@@ -895,6 +895,20 @@ related:
         width: 3000
         height: 1987
         isCached: true
+  - title: "Joe Biden said that al-Qaida is 'gone' from Afghanistan. That’s wrong"
+    excerpt: "President Joe Biden said that al-Qaida is gone from Afghanistan, but in the same remarks he also said that terrorism, including al-Qaida, remains a threat. A U.N. report in June said that al-Qaida is present in at least 15 Afghan provinces in the range of several dozen to 500 persons."
+    publishedDateTime: 2021-08-23T00:00:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/aug/23/joe-biden/joe-biden-said-al-qaida-gone-afghanistan-s-wrong/?fbclid=IwAR20HjWKYFtdQwC9Nnt8zjbVW8KmxRtHCFeAmast6FQ0IEasejSJocRrcy4"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 55
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
+        width: 438
+        height: 392
+        isCached: true
   - title: "Joe Biden Says Still Hoping For Afghanistan Airlift To End By August 31"
     excerpt: "US President Joe Biden said Sunday he was still planning to finalize the dramatic evacuation from Afghanistan by August 31."
     publishedDateTime: 2021-08-22T21:22:00Z

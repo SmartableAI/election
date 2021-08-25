@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-25-charles-barkley-blasts-crowd-stupidity-for-booing-donald-trump-over-vaccines.md",
+      "title": "Charles Barkley Blasts Crowd 'Stupidity' For Booing Donald Trump Over Vaccines",
+      "excerpt": "The NBA legend is headlining an event in Alabama on Saturday to encourage people to take the COVID-19 vaccine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/charles-barkley-blasts-crowd-stupidity-booing-donald-trump-vaccines-alabama-1622803",
+      "originalUrl": "https://www.newsweek.com/charles-barkley-blasts-crowd-stupidity-booing-donald-trump-vaccines-alabama-1622803",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 341,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1879344/charles-barkley-speaks-podium.jpg",
+          "width": 3763,
+          "height": 2509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/charles-barkley-blasts-crowd-stupidity-booing-donald-trump-vaccines-alabama-1622803?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/charles-barkley-blasts-crowd-stupidity-booing-donald-trump-vaccines-alabama-1622803?amp=1",
+      "publishedDateTime": "2021-08-25T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-with-biden-poll-numbers-plunging-democrats-worry-afghan-exit-may-impact-next-years-elections.md",
+      "title": "With Biden poll numbers plunging, Democrats worry Afghan exit may impact next year's elections",
+      "excerpt": "The rushed U.S. evacuation in Afghanistan appears to be a key contributing factor in the plunge in President Biden's approval rating in new polls. Some Democrats are worried the political fallout could impair their prospects in the 2022 midterms.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PEfZ-75ZWeU/biden-poll-numbers-plunging-democrats-worry-afghanistan-midterms",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PEfZ-75ZWeU/biden-poll-numbers-plunging-democrats-worry-afghanistan-midterms",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 318,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-poll-numbers-plunging-democrats-worry-afghanistan-midterms.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-poll-numbers-plunging-democrats-worry-afghanistan-midterms.amp",
+      "publishedDateTime": "2021-08-25T03:38:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-supreme-court-rules-in-favor-of-trumps-remain-in-mexico-policy.md",
       "title": "Supreme Court rules in favor of Trump’s ‘remain in Mexico’ policy",
       "excerpt": "The court, with three liberal justices dissenting, rejected the Biden administration’s effort to block a Texas-based judge’s ruling requiring the government to revive Trump’s",
@@ -10,7 +118,7 @@
       "originalUrl": "https://www.ocregister.com/2021/08/24/supreme-court-rules-in-favor-of-remain-in-mexico-policy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -105,7 +213,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-claims-biden-bringing-afghan-terrorists-to-the-us-2021-8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1753,
+      "heat": 1773,
       "tags": null,
       "images": [
         {
@@ -360,7 +468,7 @@
       "originalUrl": "https://www.timesunion.com/news/article/Lightning-rod-GOP-operative-Scott-Presler-s-rally-16408046.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -789,7 +897,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 305,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -1077,49 +1185,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-24-trump-ripped-by-alex-jones-for-recommending-covid-vaccines-after-being-booed-at-rally.md",
-      "title": "Trump Ripped by Alex Jones for Recommending COVID Vaccines After Being Booed at Rally",
-      "excerpt": "\"Maybe Trump's actually a dumba**,\" Jones said on his show, a day after the former president encouraged people to get vaccinated.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-ripped-alex-jones-recommending-covid-vaccines-after-being-booed-rally-1622221",
-      "originalUrl": "https://www.newsweek.com/trump-ripped-alex-jones-recommending-covid-vaccines-after-being-booed-rally-1622221",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 418,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-ripped-alex-jones-recommending-covid-vaccines-after-being-booed-rally-1622221?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-ripped-alex-jones-recommending-covid-vaccines-after-being-booed-rally-1622221?amp=1",
-      "publishedDateTime": "2021-08-23T12:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-08-24-byron-yorks-daily-memo-a-national-eye-opening-on-joe-biden.md",
       "title": "Byron York's Daily Memo: A national eye-opening on Joe Biden",
       "excerpt": "Welcome to Byron York's Daily Memo newsletter. Was this email forwarded to you? Sign up here to receive the newsletter. A NATIONAL EYE-OPENING ON JOE BIDEN. Just one month ago, President Biden's job approval rating,",
@@ -1231,63 +1296,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-afghanistan-fallout-engulfs-harris-first-day-of-southeast-asia-trip.md",
-      "title": "Afghanistan fallout engulfs Harris' first day of Southeast Asia trip",
-      "excerpt": "Vice President Kamala Harris, undertaking a suddenly high-stakes visit to Southeast Asia this week amid the first major foreign policy crisis of the Biden administration, was on the receiving end of questions Monday about the US' withdrawal from Afghanistan for the first time since the chaotic fall of",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/chh5Piu2id0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/chh5Piu2id0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210823025658-03-harris-singapore-0822-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/23/politics/kamala-harris-singapore-afghanistan/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/23/politics/kamala-harris-singapore-afghanistan/index.html",
-      "publishedDateTime": "2021-08-23T10:19:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
       ]
     }
   ],

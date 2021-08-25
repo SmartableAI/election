@@ -896,6 +896,20 @@ related:
         width: 3000
         height: 1987
         isCached: true
+  - title: "Joe Biden said that al-Qaida is 'gone' from Afghanistan. That’s wrong"
+    excerpt: "President Joe Biden said that al-Qaida is gone from Afghanistan, but in the same remarks he also said that terrorism, including al-Qaida, remains a threat. A U.N. report in June said that al-Qaida is present in at least 15 Afghan provinces in the range of several dozen to 500 persons."
+    publishedDateTime: 2021-08-23T00:00:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/aug/23/joe-biden/joe-biden-said-al-qaida-gone-afghanistan-s-wrong/?fbclid=IwAR20HjWKYFtdQwC9Nnt8zjbVW8KmxRtHCFeAmast6FQ0IEasejSJocRrcy4"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 55
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
+        width: 438
+        height: 392
+        isCached: true
   - title: "Joe Biden Says Still Hoping For Afghanistan Airlift To End By August 31"
     excerpt: "US President Joe Biden said Sunday he was still planning to finalize the dramatic evacuation from Afghanistan by August 31."
     publishedDateTime: 2021-08-22T21:22:00Z
@@ -1204,6 +1218,6 @@ related:
         height: 380
         isCached: true
 
-secured: "FHYykD8+az4R46rFTQyw/HvV9Mxf0EcJIJx92a+z6KP2sy4loc93X08w5gWg0w0aJiyDtgrgtuCyChxyeIP36RAXd3QX6k18fj5PTzo1v6HvKjvY8wktuPavzZx69QLwemckozUSQzbEit+QL0yBxKtndiGpGYti2Qc1U9RIlRr5gl256h9CYPBgGL6yh7sl4X3BfJxNAazWBzvUfmqcvUq7k7IrOstiW+TTxbVhpy6Uhth84aZTiJF8JRl3KiHq97q5z1JIMIbawrVJIzZzNhfV8II+auklo0gRzreKEdP9xJc/Xv6QUecX13rXi4bBdz6o911vX5Nlxzb8XJZZ9SB8rfYm8oHuHz7STEn0LQk=;WhJUUWeuh0buI/F8KoN97Q=="
+secured: "jrBUAffTqupPrVaODgU86TfOaJc8FWcZhTtBP1vQ0oEEg53erXgWFYoYXaSw5ZRc0dZKDAhKEN+XF6EdDiiXUJvTu7f1obBlOOhPEREzVe12wWrFrBva+gpNxQqzcEU6I9frR07P9jHVCfWPIpt5fkklLR30iz43yg1+RkpLNhzSyX8u8av1tS7QdO7bpgO/yoYWuHriMI5bV2y0VfGJazpL/L2MnItnGBcHmtTsmrAvpw9f/hG2OYeH4eq1WX7DKvXgThXjSlJc5TzC+9Zec0Ll9fhLxkML6iYXYvSu1WgF6fw2F0WebrBuUSCPaEHchYh0ixLBHeCXjx0bf5n0vBfbbEwdk54OgkIPIMx02JLWnLuesD151OJ+h4uoBnkGW7yuyPUTGR7+2Tpg+zIDsEkeA1lTGkvLgegLQ9GxeLmZIK2ALj1NBeDh8UBlmoE07MPlUpYexR/5jK/GvmKmfOdHqn5icMho6EBwHMmlgQpZgPcAdb7PMANZ5r3B/BltWjyTbH8u3JXTa7wf2X3dlw==;VPsGRu3sMpKNQomJsDtSmA=="
 ---
 

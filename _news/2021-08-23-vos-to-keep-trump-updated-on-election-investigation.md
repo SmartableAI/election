@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/news/amp/Vos-to-keep-Trump-updated-
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Vos-to-keep-Trump-updated-on-election-16404028.php"
 type: article
 quality: 120
-heat: 300
+heat: 260
 published: true
 
 provider:
@@ -119,20 +119,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Donald Trump Got Booed In Alabama For Saying Good Things About Vaccines"
-    excerpt: "Trump told the crowd he was vaccinated and encouraged them to do the same, drawing boos at his own rally as a result."
-    publishedDateTime: 2021-08-22T17:37:00Z
-    webUrl: "https://uproxx.com/viral/donald-trump-booed-alabama-video-vaccines/"
-    type: article
-    provider:
-      name: Uproxx
-      domain: uproxx.com
-    quality: 55
-    images:
-      - url: "https://uproxx.com/wp-content/uploads/2021/08/trumpvaccine710.jpg?w=710"
-        width: 710
-        height: 391
-        isCached: true
   - title: "Emmy Predictions: Directing for a Variety Series – John Oliver’s Take on Donald Trump and the Election Lead the Pack"
     excerpt: "Following history, buzz, news, reviews and sources, the Emmy predictions are updated regularly with the current year's list of contenders in all categories. Variety's Awards Circuit Prediction schedule consists of four phases,"
     publishedDateTime: 2021-08-19T22:16:00Z
@@ -147,15 +133,6 @@ related:
         width: 1000
         height: 1000
         isCached: true
-  - title: "Trump booed by some of his supporters after encouraging COVID vaccine at rally"
-    excerpt: "Former President Donald Trump is fully vaccinated against the novel coronavirus and encouraged his supporters to get inoculated too during a Saturday evening rally in Cullman, Ala. Cullman is the county seat of Cullman County,"
-    publishedDateTime: 2021-08-22T21:44:00Z
-    webUrl: "https://www.chron.com/national-politics/article/Trump-vaccine-supporters-rally-Alabama-COVID-boo-16403935.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 31
 
 secured: "46wxsk+vADUq8e2fmG1lorS2mkcCkwmmtcKlhoLyIYBrWxf5Pez3lctbxQcUkBDqTyWxAeE4MIdTxV8KljLaELfQdTTHIIrl1KuYMEYXLC4YW7uBtsiLHkM6u6prUz2S7KmWLckxqsmvBfomkkFE4uXg7bJEA5elLTEapfg4Y6Zytp4fmbbdHspwXTO3sQH4dWY+wCnGyUGrnYkHalwgOWOsIPMS589khZzWlKyr+OgrBVeK1qI5dpherSqVgKy3bW3oegCdbRqZrpb1PuZmGBd5eKn1PRaWvtGlcgE0wU4jhi5o6jSo0iFjdV9TScmPJhicun6n5olffsUHadRjP5cZTcb71aGqWgysiTIpfVw=;RMZ6fsvqM6p7H6MEEcdG5A=="
 ---

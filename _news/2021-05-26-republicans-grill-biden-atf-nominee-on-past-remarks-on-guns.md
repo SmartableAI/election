@@ -95,22 +95,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "20 GOP states push back against Biden gun regulations"
-    excerpt: "Attorneys general of 20 states are fighting back against an \"unconstitutional\" Biden administration proposal to regulate gun parts."
-    publishedDateTime: 2021-08-21T21:26:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tNt8RKiz_bQ/gop-states-push-back-biden-gun-regulations"
-    ampWebUrl: "https://www.foxnews.com/politics/gop-states-push-back-biden-gun-regulations.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-states-push-back-biden-gun-regulations.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden administration drops plan for ICE deportation pause after legal defeat"
     excerpt: "The Biden administration has dropped its effort to impose a 100-day moratorium on Immigration and Customs Enforcement (ICE) deportations after a legal effort from Texas blocked the Biden campaign promise from taking place -- with the administration saying the time for it to go into effect has now passed."
     publishedDateTime: 2021-05-21T20:45:28Z

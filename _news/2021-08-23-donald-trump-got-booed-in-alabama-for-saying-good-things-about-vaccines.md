@@ -25,124 +25,149 @@ images:
     isCached: true
 
 related:
-  - title: "Vos to keep Trump \"updated\" on election investigation"
-    excerpt: "Assembly Speaker Robin Vos the said in a statement Saturday he is going to be keeping Trump “updated on our investigation,” the Journal Times reported. In a statement, Vos said: “It was an honor to be invited to travel by private plane with President Trump and top staff to attend his rally in Alabama."
-    publishedDateTime: 2021-08-22T23:39:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/Vos-to-keep-Trump-updated-on-election-16404028.php"
-    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Vos-to-keep-Trump-updated-on-election-16404028.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Vos-to-keep-Trump-updated-on-election-16404028.php"
+  - title: "Charles Barkley Blasts Crowd 'Stupidity' For Booing Donald Trump Over Vaccines"
+    excerpt: "The NBA legend is headlining an event in Alabama on Saturday to encourage people to take the COVID-19 vaccine."
+    publishedDateTime: 2021-08-25T11:36:00Z
+    webUrl: "https://www.newsweek.com/charles-barkley-blasts-crowd-stupidity-booing-donald-trump-vaccines-alabama-1622803"
+    ampWebUrl: "https://www.newsweek.com/charles-barkley-blasts-crowd-stupidity-booing-donald-trump-vaccines-alabama-1622803?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/charles-barkley-blasts-crowd-stupidity-booing-donald-trump-vaccines-alabama-1622803?amp=1"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 120
-  - title: "Wisconsin Speaker vows to keep Trump 'updated' on election investigation"
-    excerpt: "The Republican Assembly Speaker who has ordered an investigation into the 2020 Wisconsin election in which President Joe Biden defeated Donald Trump said he spent the day with the former president."
-    publishedDateTime: 2021-08-22T23:03:00Z
-    webUrl: "https://www.wisn.com/article/wisconsin-robin-vos-vows-to-keep-trump-updated-on-election-investigation/37367599"
-    ampWebUrl: "https://www.wisn.com/amp/article/wisconsin-robin-vos-vows-to-keep-trump-updated-on-election-investigation/37367599"
-    cdnAmpWebUrl: "https://www-wisn-com.cdn.ampproject.org/c/s/www.wisn.com/amp/article/wisconsin-robin-vos-vows-to-keep-trump-updated-on-election-investigation/37367599"
-    type: article
-    provider:
-      name: WISN 12 NEWS
-      domain: wisn.com
-    quality: 89
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
     images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/vos-1552410924.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
-        width: 1200
-        height: 675
+      - url: "https://d.newsweek.com/en/full/1879344/charles-barkley-speaks-podium.jpg"
+        width: 3763
+        height: 2509
         isCached: true
-  - title: "Vos meets with Trump, vows to keep ex-president 'updated' on election investigation"
-    excerpt: "Vos said he is going to be keeping Trump, who has not stopped claiming he won the 2020 election despite overwhelming evidence to the contrary, \"updated on our investigation.\"' In a statement, Vos said: \"It was an honor to be invited to travel by private plane with President Trump and top staff to attend his rally in Alabama."
-    publishedDateTime: 2021-08-22T23:22:00Z
-    webUrl: "https://madison.com/wsj/news/local/govt-and-politics/vos-meets-with-trump-vows-to-keep-ex-president-updated-on-election-investigation/article_c0b14769-08f6-55f5-855a-06d75ad42971.html"
-    ampWebUrl: "https://madison.com/news/local/govt-and-politics/vos-meets-with-trump-vows-to-keep-ex-president-updated-on-election-investigation/article_c0b14769-08f6-55f5-855a-06d75ad42971.amp.html"
-    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/govt-and-politics/vos-meets-with-trump-vows-to-keep-ex-president-updated-on-election-investigation/article_c0b14769-08f6-55f5-855a-06d75ad42971.amp.html"
+  - title: "Trump Ripped by Alex Jones for Recommending COVID Vaccines After Being Booed at Rally"
+    excerpt: "\"Maybe Trump's actually a dumba**,\" Jones said on his show, a day after the former president encouraged people to get vaccinated."
+    publishedDateTime: 2021-08-23T19:31:00Z
+    webUrl: "https://www.newsweek.com/trump-ripped-alex-jones-recommending-covid-vaccines-after-being-booed-rally-1622221"
+    ampWebUrl: "https://www.newsweek.com/trump-ripped-alex-jones-recommending-covid-vaccines-after-being-booed-rally-1622221?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-ripped-alex-jones-recommending-covid-vaccines-after-being-booed-rally-1622221?amp=1"
     type: article
     provider:
-      name: Madison.com
-      domain: madison.com
-    quality: 84
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/a/40/a406b0dc-3c5e-55be-864e-057e2578c64e/6122ddfc6e97d.image.jpg?resize=1024%2C679"
-        width: 1024
-        height: 679
-        isCached: true
-  - title: "James Craig says he’d accept Trump endorsement, doesn’t take position on stolen election claims"
-    excerpt: "The former Detroit police chief launched an exploratory campaign committee but has yet to formally start his bid for Michigan governor,"
-    publishedDateTime: 2021-08-24T04:51:00Z
-    webUrl: "https://www.mlive.com/public-interest/2021/08/james-craig-says-hed-accept-trump-endorsement-doesnt-take-position-on-stolen-election-claims.html"
-    ampWebUrl: "https://www.mlive.com/public-interest/2021/08/james-craig-says-hed-accept-trump-endorsement-doesnt-take-position-on-stolen-election-claims.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2021/08/james-craig-says-hed-accept-trump-endorsement-doesnt-take-position-on-stolen-election-claims.html?outputType=amp"
+      name: Newsweek
+      domain: newsweek.com
+    quality: 98
+  - title: "Alabama crowd boos Donald Trump when he recommends taking COVID vaccines"
+    excerpt: "Former President Donald Trump visited Alabama over the weekend to hold a rally with his supporters. Speaking on many topics that brought forth cheers from the audience, Trump also called on people to get vaccinated against the coronavirus,"
+    publishedDateTime: 2021-08-23T18:39:00Z
+    webUrl: "https://fox8.com/news/alabama-crowd-boos-donald-trump-when-he-recommends-taking-covid-vaccines/"
+    ampWebUrl: "https://fox8.com/news/alabama-crowd-boos-donald-trump-when-he-recommends-taking-covid-vaccines/amp/"
+    cdnAmpWebUrl: "https://fox8-com.cdn.ampproject.org/c/s/fox8.com/news/alabama-crowd-boos-donald-trump-when-he-recommends-taking-covid-vaccines/amp/"
     type: article
     provider:
-      name: MLive
-      domain: mlive.com
-    quality: 78
+      name: FOX8 Cleveland
+      domain: fox8.com
+    quality: 74
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VSCN37RCRBA73B3ZAHRR3MR7U4.JPG"
-        width: 3972
-        height: 2648
+      - url: "https://fox8.com/wp-content/uploads/sites/12/2021/07/AP21100770302113.jpg?w=1280"
+        width: 1280
+        height: 849
         isCached: true
-  - title: "Trump Booed at Alabama Rally After Telling Supporters to Get Vaccinated"
-    excerpt: "Former President Donald Trump was booed at a rally Saturday in Alabama after he told supporters they should get vaccinated"
-    publishedDateTime: 2021-08-23T13:58:00Z
-    webUrl: "https://www.nbcnewyork.com/news/politics/trump-booed-at-alabama-rally-after-telling-supporters-to-get-vaccinated/3235914/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/politics/trump-booed-at-alabama-rally-after-telling-supporters-to-get-vaccinated/3235914/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/trump-booed-at-alabama-rally-after-telling-supporters-to-get-vaccinated/3235914/?amp"
+  - title: "Former President Trump briefly booed by crowd for suggesting getting vaccines"
+    excerpt: "\"I recommend take the vaccines. I did it. It's good,\" Trump said before boos erupted from the crowd. \"You got your freedoms,\" he added."
+    publishedDateTime: 2021-08-23T11:20:00Z
+    webUrl: "https://www.wtsp.com/article/news/health/coronavirus/vaccine/trump-alabama-rally-booed-vaccines/67-7a54287c-9ee7-4c67-a4cd-6f1b6c6f1654"
+    ampWebUrl: "https://www.wtsp.com/amp/article/news/health/coronavirus/vaccine/trump-alabama-rally-booed-vaccines/67-7a54287c-9ee7-4c67-a4cd-6f1b6c6f1654"
+    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/health/coronavirus/vaccine/trump-alabama-rally-booed-vaccines/67-7a54287c-9ee7-4c67-a4cd-6f1b6c6f1654"
     type: article
     provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 75
+      name: WTSP
+      domain: wtsp.com
+    quality: 72
     images:
-      - url: "https://media.nbcnewyork.com/2021/08/GettyImages-1335520712.jpg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
+      - url: "https://media.wtsp.com/assets/WTSP/images/52d0def6-70a3-4190-844d-eaba15b698b2/52d0def6-70a3-4190-844d-eaba15b698b2_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
-  - title: "Trump To Be Reinstated As President Before 2022, Lindell Predicts"
-    excerpt: "Former President Donald Trump may be reinstated to the presidential seat before 2022, a close ally has predicted. During Trump’s rally in Cullman, Alabama, on Saturday, MyPillow CEO Mike Lindell predicted that Trump would be reinstated before the end of the year."
-    publishedDateTime: 2021-08-23T02:23:00Z
-    webUrl: "https://www.ibtimes.com/trump-be-reinstated-president-2022-lindell-predicts-3278800"
-    ampWebUrl: "https://www.ibtimes.com/trump-be-reinstated-president-2022-lindell-predicts-3278800?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-be-reinstated-president-2022-lindell-predicts-3278800?amp=1"
+  - title: "Donald Trump Booed At Own Rally, Encouraging Vaccines Didn't Go Well In Alabama"
+    excerpt: "The former president was booed at his rally when he encouraged Alabama (the lowest vaccinated state) to get the vaccine."
+    publishedDateTime: 2021-08-22T21:46:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-booed-own-rally-encouraging-vaccines-didnt-go-well-alabama-3278727"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-booed-own-rally-encouraging-vaccines-didnt-go-well-alabama-3278727?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-booed-own-rally-encouraging-vaccines-didnt-go-well-alabama-3278727?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 75
+    quality: 71
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/29/mike-lindell.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/07/us-intelligence-believes-that-russia-meddles-in-the.jpg"
         width: 1024
-        height: 670
+        height: 682
         isCached: true
-  - title: "Robin Vos meets with Trump, vows to keep ex-president 'updated' on election investigation"
-    excerpt: "Assembly Speaker Robin Vos, the Racine County Republican who ordered the investigation into Wisconsin's 2020 election said he is going to be keeping the former president — who has not"
-    publishedDateTime: 2021-08-23T10:30:00Z
-    webUrl: "https://madison.com/news/local/govt-and-politics/robin-vos-meets-with-trump-vows-to-keep-ex-president-updated-on-election-investigation/article_55a5e748-aa3e-5c85-bbe6-e59bebcbed21.html"
+  - title: "‘Take the vaccines!’ Donald Trump booed at Save America rally in Alabama over Covid jabs"
+    excerpt: "DONALD TRUMP's comments on taking a dose of the COVID-19 vaccine were met with a chorus of boos by his supporters at his Save America rally in Alabama."
+    publishedDateTime: 2021-08-22T23:31:00Z
+    webUrl: "https://www.express.co.uk/news/world/1480402/donald-trump-latest-news-ex-president-booed-save-america-rally-alabama-covid-jabs-ont"
+    ampWebUrl: "https://www.express.co.uk/news/world/1480402/donald-trump-latest-news-ex-president-booed-save-america-rally-alabama-covid-jabs-ont/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/world/1480402/donald-trump-latest-news-ex-president-booed-save-america-rally-alabama-covid-jabs-ont/amp"
     type: article
     provider:
-      name: Madison.com
-      domain: madison.com
-    quality: 61
+      name: Daily Express
+      domain: express.co.uk
+    quality: 66
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/5/5a/55a5e748-aa3e-5c85-bbe6-e59bebcbed21/61228f9939e4f.preview.jpg?crop=1904%2C1071%2C0%2C8&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
+      - url: "https://cdn.images.express.co.uk/img/dynamic/78/590x/Donald-Trump-in-Alabama-1480402.jpg?r=1629675071384"
+        width: 590
+        height: 350
         isCached: true
-  - title: "Emmy Predictions: Directing for a Variety Series – John Oliver’s Take on Donald Trump and the Election Lead the Pack"
-    excerpt: "Following history, buzz, news, reviews and sources, the Emmy predictions are updated regularly with the current year's list of contenders in all categories. Variety's Awards Circuit Prediction schedule consists of four phases,"
-    publishedDateTime: 2021-08-19T22:16:00Z
-    webUrl: "https://www.imdb.com/news/ni63396099"
+  - title: "Trump Booed for Encouraging Supporters at Rally To Get COVID Vaccine"
+    excerpt: "Former President Donald Trump encouraged his supporters to get the COVID-19 vaccine, before noting each person has the freedom to decide. “You know what? I believe totally in your freedoms. I do,” Trump said during a rally on Saturday in Alabama."
+    publishedDateTime: 2021-08-23T12:52:00Z
+    webUrl: "https://ijr.com/trump-booed-encouraging-supporters-rally-covid-vaccine/"
     type: article
     provider:
-      name: IMDb
-      domain: imdb.com
-    quality: 47
+      name: ijr.com
+      domain: ijr.com
+    quality: 55
     images:
-      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
-        width: 1000
-        height: 1000
+      - url: "https://ijr.com/wp-content/uploads/2021/08/Untitled-design-18.jpg"
+        width: 550
+        height: 346
+        isCached: true
+  - title: "NC Senate candidate goes door knocking for Trump voters | Charlotte Observer"
+    excerpt: "With 2022 primaries ahead, Republican and Democratic candidates campaign across the state. For every dollar donated for the remainder of August, Erica Smith’s campaign for Senate says it will knock on a door in a North Carolina county that Donald Trump won in the 2020 presidential race."
+    publishedDateTime: 2021-08-23T19:10:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article253682403.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article253682403.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article253682403.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 52
+  - title: "Former President Donald Trump briefly booed by crowd for suggesting getting vaccines"
+    excerpt: "\"I recommend take the vaccines. I did it. It's good,\" Trump said before boos came from the crowd. \"You've got your freedoms,\" he added."
+    publishedDateTime: 2021-08-23T10:19:00Z
+    webUrl: "https://www.wtsp.com/video/news/health/coronavirus/vaccine/trump-booed-alabama-rally/67-804b44ee-a845-4d26-85e1-2eae6e0e2ae4"
+    type: article
+    provider:
+      name: WTSP
+      domain: wtsp.com
+    quality: 48
+    images:
+      - url: "https://media.wtsp.com/assets/WTSP/images/52d0def6-70a3-4190-844d-eaba15b698b2/52d0def6-70a3-4190-844d-eaba15b698b2_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "OPINION EDITORIAL/IN OUR VIEW At Least He Tried: Former President Trump gets some boos after encouraging vaccinations"
+    excerpt: "Former President Donald Trump used his bully pulpit for the public good. And was booed by the some members of the audience. President Trump appeared Saturday at a Cullman, Alabama, rally and took the opportunity to encourage those in attendance to get vaccinated against COVID-19."
+    publishedDateTime: 2021-08-23T03:02:00Z
+    webUrl: "https://www.texarkanagazette.com/news/opinion/editorials/story/2021/aug/23/opinion-editorialin-our-view-least-he-tried-former-president-trump-gets-some-boos-after-encouraging-vaccinations/884849/"
+    type: article
+    provider:
+      name: Texarkana Gazette
+      domain: texarkanagazette.com
+    quality: 32
+    images:
+      - url: "https://media-cdn.wehco.com/img/photos/2016/01/06/inourviewopinionpage666551757_t1070_hea458391a26b7eb3c901b599fdc3b80d7aa56f41.jpg"
+        width: 1070
+        height: 1070
         isCached: true
   - title: "Trump booed by some of his supporters after encouraging COVID vaccine at rally"
     excerpt: "Former President Donald Trump is fully vaccinated against the novel coronavirus and encouraged his supporters to get inoculated too during a Saturday evening rally in Cullman, Ala. Cullman is the county seat of Cullman County,"

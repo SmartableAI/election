@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-25-charles-barkley-blasts-crowd-stupidity-for-booing-donald-trump-over-vaccines.md",
+      "title": "Charles Barkley Blasts Crowd 'Stupidity' For Booing Donald Trump Over Vaccines",
+      "excerpt": "The NBA legend is headlining an event in Alabama on Saturday to encourage people to take the COVID-19 vaccine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/charles-barkley-blasts-crowd-stupidity-booing-donald-trump-vaccines-alabama-1622803",
+      "originalUrl": "https://www.newsweek.com/charles-barkley-blasts-crowd-stupidity-booing-donald-trump-vaccines-alabama-1622803",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 341,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1879344/charles-barkley-speaks-podium.jpg",
+          "width": 3763,
+          "height": 2509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/charles-barkley-blasts-crowd-stupidity-booing-donald-trump-vaccines-alabama-1622803?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/charles-barkley-blasts-crowd-stupidity-booing-donald-trump-vaccines-alabama-1622803?amp=1",
+      "publishedDateTime": "2021-08-25T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-supreme-court-rules-in-favor-of-trumps-remain-in-mexico-policy.md",
       "title": "Supreme Court rules in favor of Trump’s ‘remain in Mexico’ policy",
       "excerpt": "The court, with three liberal justices dissenting, rejected the Biden administration’s effort to block a Texas-based judge’s ruling requiring the government to revive Trump’s",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.ocregister.com/2021/08/24/supreme-court-rules-in-favor-of-remain-in-mexico-policy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -53,7 +105,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-claims-biden-bringing-afghan-terrorists-to-the-us-2021-8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1753,
+      "heat": 1773,
       "tags": null,
       "images": [
         {
@@ -148,7 +200,7 @@
       "originalUrl": "https://www.timesunion.com/news/article/Lightning-rod-GOP-operative-Scott-Presler-s-rally-16408046.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -331,92 +383,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-24-trump-ripped-by-alex-jones-for-recommending-covid-vaccines-after-being-booed-at-rally.md",
-      "title": "Trump Ripped by Alex Jones for Recommending COVID Vaccines After Being Booed at Rally",
-      "excerpt": "\"Maybe Trump's actually a dumba**,\" Jones said on his show, a day after the former president encouraged people to get vaccinated.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-ripped-alex-jones-recommending-covid-vaccines-after-being-booed-rally-1622221",
-      "originalUrl": "https://www.newsweek.com/trump-ripped-alex-jones-recommending-covid-vaccines-after-being-booed-rally-1622221",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 418,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-ripped-alex-jones-recommending-covid-vaccines-after-being-booed-rally-1622221?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-ripped-alex-jones-recommending-covid-vaccines-after-being-booed-rally-1622221?amp=1",
-      "publishedDateTime": "2021-08-23T12:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-josh-duggars-lawyers-trying-to-get-the-case-dismissed-with-a-donald-trump-oriented-argument.md",
-      "title": "Josh Duggar's Lawyers Trying To Get The Case Dismissed With A Donald Trump-Oriented Argument",
-      "excerpt": "Josh Duggar’s legal team has been busy in recent weeks as the former 19 Kids and Counting’s star preps for trial. The eldest son of Jim Bob and Michelle Duggar was arrested on one count of receipt of child pornography and one count of possession of child pornography back in April.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cinemablend.com/television/2572395/josh-duggar-lawyer-case-dismissed-donald-trump-oriented-argument?pv=related_list",
-      "originalUrl": "https://www.cinemablend.com/television/2572395/josh-duggar-lawyer-case-dismissed-donald-trump-oriented-argument?pv=related_list",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.cinemablend.com/quill/4/5/8/a/9/0/458a9063ffa8791c4da283f5ee12d513513c70e7.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cinemablend.com/television/2572395/josh-duggar-lawyer-case-dismissed-donald-trump-oriented-argument",
-      "cdnAmpWebUrl": "https://amp-cinemablend-com.cdn.ampproject.org/c/s/amp.cinemablend.com/television/2572395/josh-duggar-lawyer-case-dismissed-donald-trump-oriented-argument",
-      "publishedDateTime": "2021-08-23T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cinema Blend",
-        "domain": "cinemablend.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-08-23-former-pence-aide-rhetoric-under-trump-admin-about-afghans-hurtful-and-offensive.md",
       "title": "Former Pence Aide: Rhetoric Under Trump Admin About Afghans 'Hurtful' and 'Offensive'",
       "excerpt": "A former aide for former Vice President Mike Pence, Olivia Troye, is opening up about the rhetoric under the Trump administration about Afghans, calling it “hurtful” and “offensive.” CNN’s Brianna Keilar noted during “New Day” Monday Troye sat in on meetings about getting Afghans who are eligible for relief who helped U.",
@@ -521,7 +487,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2021-08-23/carlyle-alum-s-governor-run-mixes-trump-backing-maga-lite-style",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -573,7 +539,7 @@
       "originalUrl": "https://www.houstonchronicle.com/news/article/Vos-to-keep-Trump-updated-on-election-16404028.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 300,
+      "heat": 260,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -595,6 +561,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-23-donald-trump-gets-booed-at-rally-for-encouraging-his-supporters-to-get-covid-jab.md",
+      "title": "Donald Trump gets booed at rally for encouraging his supporters to get Covid jab",
+      "excerpt": "Nearly 40% of Republicans are still resistant to getting the Covid-19 vaccine or refuse to get it, a Public Religion Research Institute/Interfaith Youth Core poll recently found",
+      "sourceUrl": null,
+      "webUrl": "https://www.mirror.co.uk/news/us-news/donald-trump-gets-booed-rally-24815259",
+      "originalUrl": "https://www.mirror.co.uk/news/us-news/donald-trump-gets-booed-rally-24815259",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.mirror.co.uk/incoming/article24815279.ece/ALTERNATES/s615/0_Former-President-Trump-speaks-in-Alabama.jpg",
+          "width": 615,
+          "height": 409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mirror.co.uk/news/us-news/donald-trump-gets-booed-rally-24815259.amp",
+      "cdnAmpWebUrl": "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/us-news/donald-trump-gets-booed-rally-24815259.amp",
+      "publishedDateTime": "2021-08-22T16:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Mirror",
+        "domain": "mirror.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -925,7 +934,7 @@
       "originalUrl": "https://www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for-the-first-time-in-4-years.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 215,
+      "heat": 315,
       "tags": null,
       "images": [
         {
@@ -1042,6 +1051,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-how-the-trump-tax-law-created-a-loophole-that-lets-top-executives-net-millions-by-slashing-their-own-salaries.md",
+      "title": "How the Trump Tax Law Created a Loophole That Lets Top Executives Net Millions by Slashing Their Own Salaries",
+      "excerpt": "The 2017 tax cuts made it more attractive for certain company owners to be paid in profits instead of wages. Some cut their own wages, expanding a loophole that was already costing the U.S. billions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.propublica.org/article/how-the-trump-tax-law-created-a-loophole-that-lets-top-executives-net-millions-by-slashing-their-own-salaries",
+      "originalUrl": "https://www.propublica.org/article/how-the-trump-tax-law-created-a-loophole-that-lets-top-executives-net-millions-by-slashing-their-own-salaries",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-c3.propublica.org/images/series/_threeTwo400w/series-3x2.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.propublica.org/article/how-the-trump-tax-law-created-a-loophole-that-lets-top-executives-net-millions-by-slashing-their-own-salaries/amp",
+      "cdnAmpWebUrl": "https://www-propublica-org.cdn.ampproject.org/c/s/www.propublica.org/article/how-the-trump-tax-law-created-a-loophole-that-lets-top-executives-net-millions-by-slashing-their-own-salaries/amp",
+      "publishedDateTime": "2021-08-19T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ProPublica",
+        "domain": "propublica.org",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1402,49 +1454,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-where-is-camp-david-and-did-donald-trump-invite-the-taliban-there.md",
-      "title": "Where is Camp David and did Donald Trump invite the Taliban there?",
-      "excerpt": "JOE Biden is facing fury for “hiding out on vacation” at Camp David while the Taliban seize control of Afghanistan. The president left for the retreat on Friday, August 13, and appears",
-      "sourceUrl": null,
-      "webUrl": "https://www.the-sun.com/news/3480762/camp-david-donald-trump-taliban/",
-      "originalUrl": "https://www.the-sun.com/news/3480762/camp-david-donald-trump-taliban/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/Camp-David.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.the-sun.com/news/3480762/camp-david-donald-trump-taliban/amp/",
-      "cdnAmpWebUrl": "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3480762/camp-david-donald-trump-taliban/amp/",
-      "publishedDateTime": "2021-08-16T01:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sun",
-        "domain": "the-sun.com",
         "images": null,
         "publishers": null,
         "authors": null

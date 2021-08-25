@@ -27,96 +27,85 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Ripped by Alex Jones for Recommending COVID Vaccines After Being Booed at Rally"
-    excerpt: "\"Maybe Trump's actually a dumba**,\" Jones said on his show, a day after the former president encouraged people to get vaccinated."
-    publishedDateTime: 2021-08-23T19:31:00Z
-    webUrl: "https://www.newsweek.com/trump-ripped-alex-jones-recommending-covid-vaccines-after-being-booed-rally-1622221"
-    ampWebUrl: "https://www.newsweek.com/trump-ripped-alex-jones-recommending-covid-vaccines-after-being-booed-rally-1622221?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-ripped-alex-jones-recommending-covid-vaccines-after-being-booed-rally-1622221?amp=1"
+  - title: "Donald Trump speaking in Alabama for the first time in 4 years"
+    excerpt: "Trump will speak tonight in Cullman, his first political event in Alabama since 2017. (AP Photo/Ross D. Franklin, File) AP Six years to the day after a rally in Mobile gave an early glimpse of Donald Trump’s ability to generate the excitement that would propel him to the White House,"
+    publishedDateTime: 2021-08-21T14:02:00Z
+    webUrl: "https://www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for-the-first-time-in-4-years.html"
+    ampWebUrl: "https://www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for-the-first-time-in-4-years.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for-the-first-time-in-4-years.html?outputType=amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 98
-  - title: "Alabama crowd boos Donald Trump when he recommends taking COVID vaccines"
-    excerpt: "Former President Donald Trump visited Alabama over the weekend to hold a rally with his supporters. Speaking on many topics that brought forth cheers from the audience, Trump also called on people to get vaccinated against the coronavirus,"
-    publishedDateTime: 2021-08-23T18:39:00Z
-    webUrl: "https://fox8.com/news/alabama-crowd-boos-donald-trump-when-he-recommends-taking-covid-vaccines/"
-    ampWebUrl: "https://fox8.com/news/alabama-crowd-boos-donald-trump-when-he-recommends-taking-covid-vaccines/amp/"
-    cdnAmpWebUrl: "https://fox8-com.cdn.ampproject.org/c/s/fox8.com/news/alabama-crowd-boos-donald-trump-when-he-recommends-taking-covid-vaccines/amp/"
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NFUPH4M6QRDLLKJBN7DOE4AXCM.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Former president coming to ‘heart of Trump country’ on return to Alabama"
+    excerpt: "John Wahl said he started working to bring former President Donald Trump back to Alabama right after the state Republican Party picked him as chairman in February. Earlier efforts fell through, including a planned rally July 3 at the U."
+    publishedDateTime: 2021-08-17T00:53:00Z
+    webUrl: "https://www.al.com/news/2021/08/former-president-coming-to-heart-of-trump-country-on-return-to-alabama.html"
+    ampWebUrl: "https://www.al.com/news/2021/08/former-president-coming-to-heart-of-trump-country-on-return-to-alabama.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/08/former-president-coming-to-heart-of-trump-country-on-return-to-alabama.html?outputType=amp"
     type: article
     provider:
-      name: FOX8 Cleveland
-      domain: fox8.com
+      name: al.com
+      domain: al.com
     quality: 74
     images:
-      - url: "https://fox8.com/wp-content/uploads/sites/12/2021/07/AP21100770302113.jpg?w=1280"
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CG36TSTRSZB4ZN7NW5OAVVCW7A.jpg"
+        width: 819
+        height: 461
+        isCached: true
+  - title: "Gov. Ivey posts photos of her welcoming former President Trump to Alabama"
+    excerpt: "Alabama Governor Kay Ivey posted pictures on her twitter account showing her welcome former President Donald Trump to Alabama before his rally in Cullman. In the post,"
+    publishedDateTime: 2021-08-22T19:45:00Z
+    webUrl: "https://www.cbs42.com/news/local/gov-ivey-posts-photos-of-her-welcoming-former-president-trump-to-alabama/"
+    ampWebUrl: "https://www.cbs42.com/news/local/gov-ivey-posts-photos-of-her-welcoming-former-president-trump-to-alabama/amp/"
+    cdnAmpWebUrl: "https://www-cbs42-com.cdn.ampproject.org/c/s/www.cbs42.com/news/local/gov-ivey-posts-photos-of-her-welcoming-former-president-trump-to-alabama/amp/"
+    type: article
+    provider:
+      name: CBS 42
+      domain: cbs42.com
+    quality: 74
+    images:
+      - url: "https://www.cbs42.com/wp-content/uploads/sites/81/2021/08/Ivey-greets-Trump.jpg?w=1280"
         width: 1280
-        height: 849
+        height: 712
         isCached: true
-  - title: "Donald Trump Booed At His Own Rally After Telling Everyone To Get Vaccinated"
-    excerpt: "But it was when he urged everyone to get vaccinated against the coronavirus that his followers turned on him. \"You know what? I believe totally in your freedoms, I do. You gotta do what you have to do,"
-    publishedDateTime: 2021-08-22T23:05:00Z
-    webUrl: "https://www.ladbible.com/news/latest-donald-trump-booed-at-rally-after-telling-everyone-to-get-vaccinated-20210822"
-    ampWebUrl: "https://www.ladbible.com/news/latest-donald-trump-booed-at-rally-after-telling-everyone-to-get-vaccinated-20210822.amp.html"
-    cdnAmpWebUrl: "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/news/latest-donald-trump-booed-at-rally-after-telling-everyone-to-get-vaccinated-20210822.amp.html"
+  - title: "Mo Brooks, Tommy Tuberville to speak at Donald Trump’s Alabama rally in Cullman"
+    excerpt: "The former president will hold a rally at York Family Farms six years to the day after his first big campaign rally in Mobile."
+    publishedDateTime: 2021-08-21T01:41:00Z
+    webUrl: "https://www.al.com/news/2021/08/mo-brooks-tommy-tuberville-to-speak-at-donald-trumps-alabama-rally-in-cullman.html"
+    ampWebUrl: "https://www.al.com/news/2021/08/mo-brooks-tommy-tuberville-to-speak-at-donald-trumps-alabama-rally-in-cullman.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/08/mo-brooks-tommy-tuberville-to-speak-at-donald-trumps-alabama-rally-in-cullman.html?outputType=amp"
     type: article
     provider:
-      name: LADbible
-      domain: ladbible.com
-    quality: 72
-    images:
-      - url: "https://www.ladbible.com/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fs3-images.ladbible.com%2Fs3%2Fcontent%2F7f479ab06122850e1403ec149fa32daf.png"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Former President Trump briefly booed by crowd for suggesting getting vaccines"
-    excerpt: "\"I recommend take the vaccines. I did it. It's good,\" Trump said before boos erupted from the crowd. \"You got your freedoms,\" he added."
-    publishedDateTime: 2021-08-23T11:20:00Z
-    webUrl: "https://www.wtsp.com/article/news/health/coronavirus/vaccine/trump-alabama-rally-booed-vaccines/67-7a54287c-9ee7-4c67-a4cd-6f1b6c6f1654"
-    ampWebUrl: "https://www.wtsp.com/amp/article/news/health/coronavirus/vaccine/trump-alabama-rally-booed-vaccines/67-7a54287c-9ee7-4c67-a4cd-6f1b6c6f1654"
-    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/health/coronavirus/vaccine/trump-alabama-rally-booed-vaccines/67-7a54287c-9ee7-4c67-a4cd-6f1b6c6f1654"
-    type: article
-    provider:
-      name: WTSP
-      domain: wtsp.com
-    quality: 72
-    images:
-      - url: "https://media.wtsp.com/assets/WTSP/images/52d0def6-70a3-4190-844d-eaba15b698b2/52d0def6-70a3-4190-844d-eaba15b698b2_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Donald Trump Booed At Own Rally, Encouraging Vaccines Didn't Go Well In Alabama"
-    excerpt: "The former president was booed at his rally when he encouraged Alabama (the lowest vaccinated state) to get the vaccine."
-    publishedDateTime: 2021-08-22T21:46:00Z
-    webUrl: "https://www.ibtimes.com/donald-trump-booed-own-rally-encouraging-vaccines-didnt-go-well-alabama-3278727"
-    ampWebUrl: "https://www.ibtimes.com/donald-trump-booed-own-rally-encouraging-vaccines-didnt-go-well-alabama-3278727?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-booed-own-rally-encouraging-vaccines-didnt-go-well-alabama-3278727?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: al.com
+      domain: al.com
     quality: 71
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/07/us-intelligence-believes-that-russia-meddles-in-the.jpg"
-        width: 1024
-        height: 682
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CG36TSTRSZB4ZN7NW5OAVVCW7A.jpg"
+        width: 819
+        height: 461
         isCached: true
-  - title: "Donald Trump gets booed at rally for encouraging his supporters to get Covid jab"
-    excerpt: "Nearly 40% of Republicans are still resistant to getting the Covid-19 vaccine or refuse to get it, a Public Religion Research Institute/Interfaith Youth Core poll recently found"
-    publishedDateTime: 2021-08-22T23:19:00Z
-    webUrl: "https://www.mirror.co.uk/news/us-news/donald-trump-gets-booed-rally-24815259"
-    ampWebUrl: "https://www.mirror.co.uk/news/us-news/donald-trump-gets-booed-rally-24815259.amp"
-    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/us-news/donald-trump-gets-booed-rally-24815259.amp"
+  - title: "Donald Trump Jr. at Alabama fishing expo hears his name floated for 2024 GOP ticket"
+    excerpt: "Donald Trump Jr. thanked Alabama Saturday for the 2015 Mobile rally that gave his father’s presidential campaign a critical push, and he heard his own name floated for a place on the 2024 GOP ticket."
+    publishedDateTime: 2021-07-11T00:25:00Z
+    webUrl: "https://www.al.com/news/2021/07/donald-trump-jr-at-alabama-fishing-expo-hears-his-name-floated-for-2024-gop-ticket.html"
+    ampWebUrl: "https://www.al.com/news/2021/07/donald-trump-jr-at-alabama-fishing-expo-hears-his-name-floated-for-2024-gop-ticket.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/07/donald-trump-jr-at-alabama-fishing-expo-hears-his-name-floated-for-2024-gop-ticket.html?outputType=amp"
     type: article
     provider:
-      name: The Mirror
-      domain: mirror.co.uk
-    quality: 70
+      name: al.com
+      domain: al.com
+    quality: 69
     images:
-      - url: "https://i2-prod.mirror.co.uk/incoming/article24815279.ece/ALTERNATES/s615/0_Former-President-Trump-speaks-in-Alabama.jpg"
-        width: 615
-        height: 409
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XIIL2FMESJHFFP7DV5M4WSIVNU.JPG"
+        width: 6000
+        height: 4000
         isCached: true
   - title: "Donald Trump booed at Alabama rally after telling supporters to 'take the vaccines'"
     excerpt: "Amid the state's low vaccination rate, former President Donald Trump told a rally to go get vaccinated against COVID-19, which some booed."
@@ -150,22 +139,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "‘Take the vaccines!’ Donald Trump booed at Save America rally in Alabama over Covid jabs"
-    excerpt: "DONALD TRUMP's comments on taking a dose of the COVID-19 vaccine were met with a chorus of boos by his supporters at his Save America rally in Alabama."
-    publishedDateTime: 2021-08-22T23:31:00Z
-    webUrl: "https://www.express.co.uk/news/world/1480402/donald-trump-latest-news-ex-president-booed-save-america-rally-alabama-covid-jabs-ont"
-    ampWebUrl: "https://www.express.co.uk/news/world/1480402/donald-trump-latest-news-ex-president-booed-save-america-rally-alabama-covid-jabs-ont/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/world/1480402/donald-trump-latest-news-ex-president-booed-save-america-rally-alabama-covid-jabs-ont/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 66
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/78/590x/Donald-Trump-in-Alabama-1480402.jpg?r=1629675071384"
-        width: 590
-        height: 350
-        isCached: true
   - title: "Donald Trump Gets Booed For Advocating COVID-19 Vaccine At 'Save America' Rally In Alabama"
     excerpt: "Donald Trump gets booed for advocating COVID-19 vaccine at the 'Save America' rally in Alabama, he said the vaccine is good and I recommend everyone to take it."
     publishedDateTime: 2021-08-23T15:10:00Z
@@ -182,33 +155,37 @@ related:
         width: 768
         height: 439
         isCached: true
-  - title: "Trump Booed for Encouraging Supporters at Rally To Get COVID Vaccine"
-    excerpt: "Former President Donald Trump encouraged his supporters to get the COVID-19 vaccine, before noting each person has the freedom to decide. “You know what? I believe totally in your freedoms. I do,” Trump said during a rally on Saturday in Alabama."
-    publishedDateTime: 2021-08-23T12:52:00Z
-    webUrl: "https://ijr.com/trump-booed-encouraging-supporters-rally-covid-vaccine/"
+  - title: "Cullman preparing as former President Donald Trump returns to Alabama for first time since 2017"
+    excerpt: "Saturday is going to be the first time former President Donald Trump is back in Alabama since 2017. There's a Trump Rally going on this weekend in Cullman and it's expected to bring out thousands of people."
+    publishedDateTime: 2021-08-19T00:53:00Z
+    webUrl: "https://www.waaytv.com/content/national/Former-President-Donald-Trump-returns-to-Alabama-for-the-first-time-since-2017-575126071.html"
+    ampWebUrl: "http://www.waaytv.com/templates/AMP?contentID=575126071"
+    cdnAmpWebUrl: "https://www-waaytv-com.cdn.ampproject.org/c/www.waaytv.com/templates/AMP?contentID=575126071"
     type: article
     provider:
-      name: ijr.com
-      domain: ijr.com
-    quality: 55
+      name: WAAY-TV
+      domain: waaytv.com
+    quality: 63
     images:
-      - url: "https://ijr.com/wp-content/uploads/2021/08/Untitled-design-18.jpg"
-        width: 550
-        height: 346
+      - url: "http://media.heartlandtv.com/images/One+of+the+Front+Row+Joe's+for+the+Cullman+Trump+Rally.jpg"
+        width: 640
+        height: 360
         isCached: true
-  - title: "Trump shows support for vaccine, gets booed by supporters at rally"
-    excerpt: "Donald Trump recommended that supporters at a rally in Alabama go and get the vaccine, which elicited some boos from the crowd."
-    publishedDateTime: 2021-08-23T13:49:00Z
-    webUrl: "https://www.indystar.com/videos/news/politics/2021/08/23/trump-shows-support-vaccine-gets-booed-supporters-rally/8239337002/"
+  - title: "Cullman preparing as former President Donald Trump returns to Alabama for first time since 2017"
+    excerpt: "Saturday is going to be the first time former President Donald Trump is back in Alabama since 2017. There's a Trump Rally going on this weekend in Cullman and it's expected to bring out thousands of people."
+    publishedDateTime: 2021-08-20T23:38:00Z
+    webUrl: "https://www.waaytv.com/content/news/Former-President-Donald-Trump-returns-to-Alabama-for-the-first-time-since-2017-575126071.html"
+    ampWebUrl: "http://www.waaytv.com/templates/AMP?contentID=575126071"
+    cdnAmpWebUrl: "https://www-waaytv-com.cdn.ampproject.org/c/www.waaytv.com/templates/AMP?contentID=575126071"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 55
+      name: WAAY-TV
+      domain: waaytv.com
+    quality: 63
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/da092552-bb26-4e96-8837-96cd2592d81d_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "http://media.heartlandtv.com/images/One+of+the+Front+Row+Joe's+for+the+Cullman+Trump+Rally.jpg"
+        width: 640
+        height: 360
         isCached: true
   - title: "Trump Alabama rally updates – Don ‘BOOED by own fans’ for telling them to get vaccinated after bashing ‘woke’ culture"
     excerpt: "DONALD Trump was booed by his own fans at his Alabama rally on Saturday for telling them to get vaccinated after slamming “woke” culture. Former President Trump’s rally was held"
@@ -226,47 +203,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Donald Trump Encouraged People at His Rally to Get Vaccinated. They Booed Him."
-    excerpt: "According to a Trump adviser, the then-president and his wife, Melania, got the vaccine in January—a fact that wasn’t reported until March . 2) The rally brought thousands of people to York Family Farms in Cullman County,"
-    publishedDateTime: 2021-08-22T13:52:00Z
-    webUrl: "https://www.motherjones.com/politics/2021/08/donald-trump-cullman-alabama-rally-covid-boo/"
+  - title: "Mark Z. Barabak: Debunking Trump's 'Big Lie,' scholars and statistics show the facts don't add up"
+    excerpt: "In a recent survey of presidential scholars, President Donald Trump finished a dismal third from the bottom, just ahead of perennial duds James Buchanan and Andrew Johnson."
+    publishedDateTime: 2021-08-17T20:49:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/mark-z-barabak-debunking-trumps-big-lie-scholars-and-statistics-show-the-facts-dont-add/article_83f37a8a-dd79-5cd1-8f33-4c08686e9b41.html"
     type: article
     provider:
-      name: Mother Jones
-      domain: motherjones.com
-    quality: 51
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 42
     images:
-      - url: "https://www.motherjones.com/wp-content/uploads/2021/08/20210822_cullman.jpg?w=1200&h=630&crop=1"
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Former President Donald Trump briefly booed by crowd for suggesting getting vaccines"
-    excerpt: "\"I recommend take the vaccines. I did it. It's good,\" Trump said before boos came from the crowd. \"You've got your freedoms,\" he added."
-    publishedDateTime: 2021-08-23T10:19:00Z
-    webUrl: "https://www.wtsp.com/video/news/health/coronavirus/vaccine/trump-booed-alabama-rally/67-804b44ee-a845-4d26-85e1-2eae6e0e2ae4"
-    type: article
-    provider:
-      name: WTSP
-      domain: wtsp.com
-    quality: 48
-    images:
-      - url: "https://media.wtsp.com/assets/WTSP/images/52d0def6-70a3-4190-844d-eaba15b698b2/52d0def6-70a3-4190-844d-eaba15b698b2_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "OPINION EDITORIAL/IN OUR VIEW At Least He Tried: Former President Trump gets some boos after encouraging vaccinations"
-    excerpt: "Former President Donald Trump used his bully pulpit for the public good. And was booed by the some members of the audience. President Trump appeared Saturday at a Cullman, Alabama, rally and took the opportunity to encourage those in attendance to get vaccinated against COVID-19."
-    publishedDateTime: 2021-08-23T03:02:00Z
-    webUrl: "https://www.texarkanagazette.com/news/opinion/editorials/story/2021/aug/23/opinion-editorialin-our-view-least-he-tried-former-president-trump-gets-some-boos-after-encouraging-vaccinations/884849/"
-    type: article
-    provider:
-      name: Texarkana Gazette
-      domain: texarkanagazette.com
-    quality: 32
-    images:
-      - url: "https://media-cdn.wehco.com/img/photos/2016/01/06/inourviewopinionpage666551757_t1070_hea458391a26b7eb3c901b599fdc3b80d7aa56f41.jpg"
-        width: 1070
-        height: 1070
         isCached: true
 
 secured: "mBFwQYyacVX7+YcKNrQkXTQAXhcMmvhO3Pn2czBcLYrrcP9gE4UgHvcjq8SarURrex8fQG1mzk5gTXsh6wYkOLGqfElu0eoBCJMmyAXwWEqpRL3IEGFB5p8JquVogXtd3DF4Un3ho7HtRF+xisb90n82CjJ+PVuGx4xXtaNzPPCtGzizykzh8w22jy+rvQp7GbqoI+l4hXFTIrDMhdKKGUoauYD0rugEGikfsRqm9wxXZNyaDptB1hoJSJbcRW3otD4I1EpjMdyuUM1zde+pEtcEUOcCET8t3FyNJRurYE4mnTdDHk0NE+3er2I8mux9tcLRlj2nqUFw2FKmInEODLYk5oOYe5YTaD5fhn6S+ss=;YVuTYcLYyidC/HdMYlJArA=="

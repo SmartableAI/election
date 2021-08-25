@@ -9,8 +9,8 @@ ampWebUrl: "https://www.propublica.org/article/how-the-trump-tax-law-created-a-l
 cdnAmpWebUrl: "https://www-propublica-org.cdn.ampproject.org/c/s/www.propublica.org/article/how-the-trump-tax-law-created-a-loophole-that-lets-top-executives-net-millions-by-slashing-their-own-salaries/amp"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: ProPublica
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Josh Duggar's Lawyers Trying To Get The Case Dismissed With A Donald Trump-Oriented Argument"
-    excerpt: "Josh Duggar’s legal team has been busy in recent weeks as the former 19 Kids and Counting’s star preps for trial. The eldest son of Jim Bob and Michelle Duggar was arrested on one count of receipt of child pornography and one count of possession of child pornography back in April."
-    publishedDateTime: 2021-08-23T16:49:00Z
-    webUrl: "https://www.cinemablend.com/television/2572395/josh-duggar-lawyer-case-dismissed-donald-trump-oriented-argument?pv=related_list"
-    ampWebUrl: "https://amp.cinemablend.com/television/2572395/josh-duggar-lawyer-case-dismissed-donald-trump-oriented-argument"
-    cdnAmpWebUrl: "https://amp-cinemablend-com.cdn.ampproject.org/c/s/amp.cinemablend.com/television/2572395/josh-duggar-lawyer-case-dismissed-donald-trump-oriented-argument"
+  - title: "LZ Granderson: Backing the blue takes a back seat to backing Trump"
+    excerpt: "Last week, former President Donald Trump ratcheted up his efforts to turn Ashli Babbitt, the insurrectionist who was slain in the U.S. Capitol on Jan. 6, into a martyr. He"
+    publishedDateTime: 2021-08-16T08:30:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/lz-granderson-backing-the-blue-takes-a-back-seat-to-backing-trump/article_b9510a27-f8f8-5c9b-bd91-5646dae4254d.html"
     type: article
     provider:
-      name: Cinema Blend
-      domain: cinemablend.com
-    quality: 64
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 55
     images:
-      - url: "https://img.cinemablend.com/quill/4/5/8/a/9/0/458a9063ffa8791c4da283f5ee12d513513c70e7.jpg"
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
 
 secured: "4MSg7vvEz8WnYnoo4dxot8/nzh4lB7tcsZMAv7ugOPwih5kicQB6t7SUKYstERgAXvX+gxIjWuP9z0BdTcCAu89c2UsZFye9QxcoBvA7aCu7EifiBxgTfTd4xnYVn/gLq9JMVbYVR1hpSYMEycDYtyCBnaMzgSMNauSKr6j44nPBbSquDaSxXt/AGq8c1Qtr9mO8fm3zmU5U0D6zhIc+veuYsHhtysye9FmU+0Hvs9n2IQWCQyfxo/DcczXgPLxZZbHmOgyt+PNf3FwxFkgl6gnNFrMwKkG2cvOr9BD80s3EPrTlIudRxy90eA2Cyqoezl4gR15kPx1gVRdMbFwneYkqTdQmnnTYwLGIoxSib9M=;m8+6cRbj41EHvGcCut5trA=="

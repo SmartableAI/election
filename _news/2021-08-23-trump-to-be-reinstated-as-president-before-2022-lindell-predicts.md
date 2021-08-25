@@ -120,20 +120,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Donald Trump Got Booed In Alabama For Saying Good Things About Vaccines"
-    excerpt: "Trump told the crowd he was vaccinated and encouraged them to do the same, drawing boos at his own rally as a result."
-    publishedDateTime: 2021-08-22T17:37:00Z
-    webUrl: "https://uproxx.com/viral/donald-trump-booed-alabama-video-vaccines/"
-    type: article
-    provider:
-      name: Uproxx
-      domain: uproxx.com
-    quality: 55
-    images:
-      - url: "https://uproxx.com/wp-content/uploads/2021/08/trumpvaccine710.jpg?w=710"
-        width: 710
-        height: 391
-        isCached: true
   - title: "Emmy Predictions: Directing for a Variety Series – John Oliver’s Take on Donald Trump and the Election Lead the Pack"
     excerpt: "Following history, buzz, news, reviews and sources, the Emmy predictions are updated regularly with the current year's list of contenders in all categories. Variety's Awards Circuit Prediction schedule consists of four phases,"
     publishedDateTime: 2021-08-19T22:16:00Z
@@ -148,15 +134,6 @@ related:
         width: 1000
         height: 1000
         isCached: true
-  - title: "Trump booed by some of his supporters after encouraging COVID vaccine at rally"
-    excerpt: "Former President Donald Trump is fully vaccinated against the novel coronavirus and encouraged his supporters to get inoculated too during a Saturday evening rally in Cullman, Ala. Cullman is the county seat of Cullman County,"
-    publishedDateTime: 2021-08-22T21:44:00Z
-    webUrl: "https://www.chron.com/national-politics/article/Trump-vaccine-supporters-rally-Alabama-COVID-boo-16403935.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 31
 
 secured: "ImllOa9eUq+STgfTyxSCeov1dzqiby9+6HZFyd2W3rUp3C7u0kt381Ze1LAoxxQ02haPNgmqpoyppti/asQcOux7o222S6YRj3WYeH6RlnkN84QhwMnF0wdQ3Q3nW6BDhnKTIeS0pBDsZxkZMEeM/F+wi1n7MGBWWu+0vTat83K4S7LhdqlLauP/MxKBobqPBx2ceOlr6Lfm3QTeGLTw/uBMNIRYXSHH53UddHBGxL0d39fHADlEbKR4DtffZCutLNXFjAwyTljv+RXwzxMQR/Qgbq/zpT4tIND2YnEncGkrtPUIpRn2nQCM11GtUickxC67gg7OY6fU5oONfYBn0pM9zfhDP/3WnQXbooBuJ3U=;/cYQqA0Mu4c4Ans3uReICQ=="
 ---

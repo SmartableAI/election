@@ -2,19 +2,19 @@
 category: news
 title: "Twitter blocked and labeled Donald Trump's tweets on election fraud. They spread anyway."
 excerpt: "An NYU study of Trump tweets raises new questions about the ability of social media companies to halt the flood of falsehoods during election cycles."
-publishedDateTime: 2021-08-24T16:52:00Z
-originalUrl: "https://www.freep.com/story/tech/2021/08/24/trump-twitter-block-election-fraud-tweets-facebook-instagram-posts/8218382002/"
-webUrl: "https://www.freep.com/story/tech/2021/08/24/trump-twitter-block-election-fraud-tweets-facebook-instagram-posts/8218382002/"
-ampWebUrl: "https://amp.freep.com/amp/8218382002"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/8218382002"
+publishedDateTime: 2021-08-24T04:07:00Z
+originalUrl: "https://www.desmoinesregister.com/story/tech/2021/08/24/trump-twitter-block-election-fraud-tweets-facebook-instagram-posts/8218382002/"
+webUrl: "https://www.desmoinesregister.com/story/tech/2021/08/24/trump-twitter-block-election-fraud-tweets-facebook-instagram-posts/8218382002/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/8218382002"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/8218382002"
 type: article
 quality: 81
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
@@ -120,6 +120,6 @@ related:
         height: 400
         isCached: true
 
-secured: "Tn5IV3mnkHA3dv2vRHrtYA5rFScByZQMaAXHj6yi3EF9OnYRe8bDdDCIynmgSRAs+RYjCZXokR74MJpKgI2fc9y2goARf8WBv0E97ZQQRcmsPlTFgTCi9LB4RzPPlBOCHFa4iWgFuCfX2Ug4kRlwU3VjoymRCR2xN7IlnH363AhsFW1Jo39KnYt2altJ0/mrwfbq8GNsiYZy9bbginrPCEpdioVqkFW1MTffnkYZN1CE8L6qsVFYXOvFYV1+pIbOGgWuCV8cFwKlq/pYWVCDgVY9bhJ4cBHmyZ4pLVR+iZCD20qZoAGtBORE/0/qu8FxlrYpknLOL6PMUQnLGUe/8/qRZv8Rxz9MFRV0UyUu33A=;cGnHQxyfPpV2YlG1BUgT+A=="
+secured: "oaVXfcwsRbFNQG+t06feYoKieM0pTu7ysrqrJULyFWmNogcllJf33HomDDnGmxirWOSSWrZUPbEB8kIaadfldcUxybI4hUGO2J3QduZTvJeJk/pP8fzUACuM37xDI26hML7IeiyuH12Qvo0QpQiuNep6V2/Dhm3jB2D+Ue/H1y/A6sXqViZYQ0JjkkuTzxpQKUYKhN5LzXnSV6jjWetlI4Vk2WPaIPyMLpPTC4xsUeKIjYw7BBnjEuZzYuqGXbGcmbVwS4vWSS/GqMwKb95O7qYG9y5tYeMbtYBbWycmTrkyNkeHTYYiTuqcNT/NA8cVbyOlYYaqSbhEwGqBScHU9kwUPahqGffnnGceROAi1qs=;HRxsZg6iuu/aWOVs7k7Asw=="
 ---
 

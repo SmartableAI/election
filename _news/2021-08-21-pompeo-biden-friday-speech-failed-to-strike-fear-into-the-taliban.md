@@ -600,6 +600,15 @@ related:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 45
+  - title: "Joe Biden Groveling as Taliban Calls the Shots"
+    excerpt: "Joe Biden is the new champion of cowards. Read Full Article »"
+    publishedDateTime: 2021-08-25T11:41:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/08/25/joe_biden_groveling_as_taliban_calls_the_shots_550176.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "R5Ob0LgymTewMmm7GC9EL3KWU8idEFZ7Hd6NtLx1LIUSkA/HSN8+bSguOTiTWSKgvowf5IQuKwVwje8JemR0gCJSFKVMxzGRL/8OwQy6NQfpv+VTpj0RpqaAFP0hMTzt1MzLYgvw4/aEuwUQl7HVvYv6K1p5/CxlaYB3CuW5IZ5Z/TUChbJsqkBEGHRKtUZLRzTRXJ+k4IAiZ7oj4Gt79If04lsg2BR2kw5MLeJh6UdU6b1w6pgYMwU0scJ57AZ1kb7chIUc1kudtvgkiKnR2B81deKuBm85Wo7IdivvBYUs6jAmxm5FiOxSeVpXSTwgHRI81dYIPsbAoY5YFgT8GQM7gJhQ9JEsK6T2PsW0MBY=;oSMbH0rrkbPakgUWNp2sBg=="
 ---

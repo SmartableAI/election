@@ -52,22 +52,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden approval ratings dip in new public opinion poll"
-    excerpt: "A rise in COVID cases, heavy criticism over the rushed U.S. evacuation from Afghanistan, and an increase in inflation appear to be taking a toll on President Biden’s approval rating among Americans."
-    publishedDateTime: 2021-08-22T14:22:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AhXP1T13VE8/biden-approval-ratings-dip-in-new-public-opinion-poll"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-approval-ratings-dip-in-new-public-opinion-poll.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approval-ratings-dip-in-new-public-opinion-poll.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden court win on eviction ban extension draws appeals from Realtors, landlords"
     excerpt: "Groups against President Biden’s extension of the coronavirus eviction moratorium appealed one day after a federal judge ruled it could stand, according to reports."
     publishedDateTime: 2021-08-15T06:24:40Z
@@ -116,35 +100,10 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Growing political roadblock vs. big spender Joe Biden"
-    excerpt: "As the debacle in Afghanistan consumes the Biden administration, Wall Street is keeping a closer eye on another debacle."
-    publishedDateTime: 2021-08-22T03:38:00Z
-    webUrl: "https://nypost.com/2021/08/21/growing-political-roadblock-vs-big-spender-joe-biden/"
-    ampWebUrl: "https://nypost.com/2021/08/21/growing-political-roadblock-vs-big-spender-joe-biden/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/21/growing-political-roadblock-vs-big-spender-joe-biden/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/biden-15.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Biden Destroys U.S. Energy Production, Begs OPEC to Pump"
     excerpt: "Just hours after being sworn into office on January 20, 2021, President Joe Biden signed an executive order canceling the Keystone XL pipeline. The move killed thousands of union jobs,"
     publishedDateTime: 2021-08-12T11:38:00Z
     webUrl: "https://www.realclearpolitics.com/2021/08/12/biden_destroys_us_energy_production_begs_opec_to_pump_549252.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
-  - title: "What We've Learned About Team Biden's Incompetence"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-08-22T19:38:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/08/22/what_weve_learned_about_team_bidens_incompetence_550001.html"
     type: article
     provider:
       name: RealClearPolitics

@@ -373,6 +373,15 @@ related:
         width: 750
         height: 562
         isCached: true
+  - title: "Joe Biden's Weakness Puts American Lives at Risk"
+    excerpt: "The Biden administration must make clear to the Taliban that U.S. troops will not leave Afghanistan until every American citizen is safely able to leave. Read Full Article »"
+    publishedDateTime: 2021-08-25T11:58:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/08/25/joe_bidens_weakness_puts_american_lives_at_risk_550183.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "+m6WgarGFCLwDTpEzz6gCBYVWZFmu9OwB42Tw5w33tCVWbiP9M4YhCs9S1irkUSYuzdDUTPMa9JRFk/e1cw92189InXElv1dBPiXENc2xK1qUDiqNYlCKnqsMVTyyrUEFk+rSmRqagJojRtJ9+xNZguyD6enZc3eck9ODvGKC727ptmlzgRXNtqMkpRoucy5CPlL43n3JnaWgr+V+xRMP0Lglh1x290V2fc5p39465UOKnMifrUAPJyO2tRRWJXKB+U73tFBO27FbDzOHpYU5EgWgwcKdD1SG1TQ4RjpT/q41ht3FnbJtSuSBLHmqSZPmUqP1/u3rh2C90emmTKJ0VqNiB9eVITq3Pa23NG+vw0=;XJxpdSWk9V+dvDgN28oaTg=="
 ---

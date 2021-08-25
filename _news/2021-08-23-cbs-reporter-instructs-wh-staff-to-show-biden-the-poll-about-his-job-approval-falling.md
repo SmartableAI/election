@@ -32,101 +32,104 @@ images:
     isCached: true
 
 related:
-  - title: "Biden pushes for vaccine booster shots starting in September"
-    excerpt: "Biden announced a plan to offer COVID-19 vaccine booster shots beginning the week of September 20"
-    publishedDateTime: 2021-08-18T21:36:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2asPfLZtTzY/biden-pushes-for-vaccine-booster-shots-starting-in-september"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-pushes-for-vaccine-booster-shots-starting-in-september.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pushes-for-vaccine-booster-shots-starting-in-september.amp"
+  - title: "With Biden poll numbers plunging, Democrats worry Afghan exit may impact next year's elections"
+    excerpt: "The rushed U.S. evacuation in Afghanistan appears to be a key contributing factor in the plunge in President Biden's approval rating in new polls. Some Democrats are worried the political fallout could impair their prospects in the 2022 midterms."
+    publishedDateTime: 2021-08-25T10:38:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PEfZ-75ZWeU/biden-poll-numbers-plunging-democrats-worry-afghanistan-midterms"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-poll-numbers-plunging-democrats-worry-afghanistan-midterms.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-poll-numbers-plunging-democrats-worry-afghanistan-midterms.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Would a Republican House majority impeach Biden in 2023?"
+    excerpt: "House GOP leader Rep. Kevin McCarthy says that if his party wins back the majority in the chamber in the 2022 midterm elections, House Republicans wouldn't use impeachment as a political weapon against President Biden in 2023."
+    publishedDateTime: 2021-08-19T15:04:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HXXIMdKaQHc/would-republican-house-majority-impeach-biden-2023"
+    ampWebUrl: "https://www.foxnews.com/politics/would-republican-house-majority-impeach-biden-2023.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/would-republican-house-majority-impeach-biden-2023.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f850f181-a8b7-4e53-aff1-b2f6a57a4421/b2dd30f1-028f-4be2-90c5-01a4b4eaf1d4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Stephen Miller's group accuses Biden admin of hiding docs on Supreme Court commission"
-    excerpt: "Fox News exclusively obtained the letter AFL sent to the Biden administration regarding documents pertaining to the Presidential Commission on the Supreme Court."
-    publishedDateTime: 2021-08-12T21:11:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/78fDYJFl9lI/biden-supreme-court-commission-america-first-legal"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-supreme-court-commission-america-first-legal.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-supreme-court-commission-america-first-legal.amp"
+  - title: "20 GOP states push back against Biden gun regulations"
+    excerpt: "Attorneys general of 20 states are fighting back against an \"unconstitutional\" Biden administration proposal to regulate gun parts."
+    publishedDateTime: 2021-08-21T21:26:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tNt8RKiz_bQ/gop-states-push-back-biden-gun-regulations"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-states-push-back-biden-gun-regulations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-states-push-back-biden-gun-regulations.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d9359c2d-9958-4ec7-a829-482f4c382329/b3ff4e74-7195-482f-b18f-15b23d3e7099/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Schumer, Pelosi panned for dancing with Stephen Colbert, Napa fundraiser with Biden's presidency under siege"
-    excerpt: "Senate Majority Leader Chuck Schumer and House Speaker Nancy Pelosi are facing backlash on Twitter after videos showed them yucking it up over the weekend while Afghanistan, and President Biden’s legacy, are under siege."
-    publishedDateTime: 2021-08-22T19:04:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/o-WkHjSL0bg/schumer-pelosi-dancing-napa-fundraiser-bidens-presidency-implodes"
-    ampWebUrl: "https://www.foxnews.com/politics/schumer-pelosi-dancing-napa-fundraiser-bidens-presidency-implodes.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-pelosi-dancing-napa-fundraiser-bidens-presidency-implodes.amp"
+  - title: "Biden approval ratings dip in new public opinion poll"
+    excerpt: "A rise in COVID cases, heavy criticism over the rushed U.S. evacuation from Afghanistan, and an increase in inflation appear to be taking a toll on President Biden’s approval rating among Americans."
+    publishedDateTime: 2021-08-22T14:22:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AhXP1T13VE8/biden-approval-ratings-dip-in-new-public-opinion-poll"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-approval-ratings-dip-in-new-public-opinion-poll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approval-ratings-dip-in-new-public-opinion-poll.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 156
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/079e65f6-7214-4da9-80cb-d772317f3c36/c92a4d04-5eda-4df1-8698-ddb716946c7d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Biden urges vaccine mandates at businesses after Pfizer approval"
-    excerpt: "President Biden on Monday called on businesses to require their employees get vaccinated against COVID-19 now that the Pfizer shot is fully approved by the Food and Drug Administration."
-    publishedDateTime: 2021-08-23T19:49:00Z
-    webUrl: "https://nypost.com/2021/08/23/biden-urges-vaccine-mandates-at-businesses-after-pfizer-approval/"
-    ampWebUrl: "https://nypost.com/2021/08/23/biden-urges-vaccine-mandates-at-businesses-after-pfizer-approval/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/23/biden-urges-vaccine-mandates-at-businesses-after-pfizer-approval/amp/"
+  - title: "Growing political roadblock vs. big spender Joe Biden"
+    excerpt: "As the debacle in Afghanistan consumes the Biden administration, Wall Street is keeping a closer eye on another debacle."
+    publishedDateTime: 2021-08-22T03:38:00Z
+    webUrl: "https://nypost.com/2021/08/21/growing-political-roadblock-vs-big-spender-joe-biden/"
+    ampWebUrl: "https://nypost.com/2021/08/21/growing-political-roadblock-vs-big-spender-joe-biden/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/21/growing-political-roadblock-vs-big-spender-joe-biden/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
     quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/biden-vaccine.jpg?quality=90&strip=all&w=1024"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/biden-15.jpg?quality=90&strip=all&w=1024"
         width: 1024
-        height: 682
+        height: 683
         isCached: true
-  - title: "Missing Deadline, Biden Delays Afghan Withdrawal Timeline to September"
-    excerpt: "President Joe Biden will withdraw all U.S. troops from Afghanistan by Sept. 11, the 20th anniversary of the terrorist attacks on"
-    publishedDateTime: 2021-04-16T11:16:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/04/14/missing_deadline_biden_to_delay_afghan_troop_withdrawal_until_september.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/14/missing_deadline_biden_to_delay_afghan_troop_withdrawal_until_september.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/14/missing_deadline_biden_to_delay_afghan_troop_withdrawal_until_september.amp.html"
+  - title: "Graham: If We Leave Any Afghan Behind, Joe Biden Deserves To Be Impeached For Dereliction Of Duty"
+    excerpt: "Senate Judiciary Committee member Sen. Lindsey Graham (R-SC) said on Friday if President Joe Biden leaves behind any American or Afghani ally behind then he should be impeached. \"We're duty-bound to get every American citizen out."
+    publishedDateTime: 2021-08-20T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/08/20/graham_if_we_leave_any_afghan_behind_joe_biden_deserves_to_be_impeached_for_dereliction_of_duty.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 85
+    quality: 52
     images:
-      - url: "https://assets.realclear.com/images/53/539938_5_.jpg"
-        width: 750
-        height: 500
+      - url: "https://assets.realclear.com/images/55/551499.jpg"
+        width: 1018
+        height: 762
         isCached: true
-  - title: "A stagflation swamp: Joe Biden is Jimmy Carter 2.0"
-    excerpt: "The year is 1977. In August, President Jimmy Carter is seven months into his presidency. Inflation has cleared 6%, while the U.S. labor force participation rate is stuck at 62.3%. The New York Times warns of a “stagflation swamp."
-    publishedDateTime: 2021-08-20T08:00:00Z
-    webUrl: "https://www.washingtonexaminer.com/opinion/op-eds/a-stagflation-swamp-joe-biden-is-jimmy-carter-2-0"
-    ampWebUrl: "https://www.washingtonexaminer.com/opinion/op-eds/a-stagflation-swamp-joe-biden-is-jimmy-carter-2-0?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/op-eds/a-stagflation-swamp-joe-biden-is-jimmy-carter-2-0?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 65
-  - title: "Fauci's New Covid Timeline May Be Disaster for Biden"
-    excerpt: "The pandemic that he was elected to end could drag on deep into a midterm election year, with all the political and economic destruction that could bring."
-    publishedDateTime: 2021-08-24T11:25:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/08/24/faucis_new_covid_timeline_may_be_disaster_for_biden_550102.html"
+  - title: "What We've Learned About Team Biden's Incompetence"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-08-22T19:38:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/08/22/what_weve_learned_about_team_bidens_incompetence_550001.html"
     type: article
     provider:
       name: RealClearPolitics

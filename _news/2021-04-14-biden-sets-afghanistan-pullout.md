@@ -542,6 +542,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Why Biden will end the final mission in Afghanistan in just 7 days"
+    excerpt: "The instincts that drove President Joe Biden's decision to end the US presence in Afghanistan by August 31 were revealed by what he talked about before he announced it to the American people.\n    \n"
+    publishedDateTime: 2021-08-25T11:51:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e7WKqyT1mao/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210824172414-01-biden-0824-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden promised allies 'America is back.' Chaotic Afghanistan withdrawal is making them fear it's still 'America First.'"
     excerpt: "Visiting Brussels earlier this summer, President Joe Biden was single-minded in his message to American allies.\n    \n"
     publishedDateTime: 2021-08-18T23:00:13Z

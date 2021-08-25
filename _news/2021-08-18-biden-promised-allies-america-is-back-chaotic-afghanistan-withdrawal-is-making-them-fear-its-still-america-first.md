@@ -543,6 +543,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Why Biden will end the final mission in Afghanistan in just 7 days"
+    excerpt: "The instincts that drove President Joe Biden's decision to end the US presence in Afghanistan by August 31 were revealed by what he talked about before he announced it to the American people.\n    \n"
+    publishedDateTime: 2021-08-25T11:51:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e7WKqyT1mao/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210824172414-01-biden-0824-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's national security adviser says Taliban committed to allowing safe passage for civilians looking to escape Afghanistan"
     excerpt: "White House national security adviser Jake Sullivan on Tuesday defended the US' chaotic withdrawal from Afghanistan, telling reporters that President Joe Biden \"is taking responsibility for every decision the United States government took with respect to Afghanistan.\"\n    \n"
     publishedDateTime: 2021-08-17T19:11:00Z
