@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-administration-to-create-trum
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-to-create-trump-era-remain-in-mexico-work-around.amp"
 type: article
 quality: 190
-heat: 290
+heat: 310
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 190
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cc9bd5c9-eb0e-4312-ac36-92a6ce407a2c/0d2b6708-6ab1-4e95-b80c-22a9c50307bd/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Supreme Court reinstates Trump's 'Remain in Mexico' policy"
+    excerpt: "The United States Supreme Court refused to block a court order requiring the Biden administration to reinstate a Trump-era immigration move known as the “Remain in Mexico” policy."
+    publishedDateTime: 2021-08-25T00:32:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Dg7P9Luu_9U/supreme-court-reinstates-trumps-remain-in-mexico-policy"
+    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-reinstates-trumps-remain-in-mexico-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-reinstates-trumps-remain-in-mexico-policy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e3a9948c-4c70-4971-9919-9a26fcb67ce0/104d005a-06d0-467f-a8fe-d90ecd33d7b8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

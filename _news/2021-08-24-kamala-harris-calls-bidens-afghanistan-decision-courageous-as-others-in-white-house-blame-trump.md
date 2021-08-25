@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-biden-afghanistan-dec
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-biden-afghanistan-decision-courageous-trump-blame.amp"
 type: article
 quality: 201
-heat: 1921
+heat: 1941
 published: true
 
 provider:
@@ -397,6 +397,22 @@ related:
     quality: 167
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5a346e2b-8db8-4fa3-86ec-c8ae633a7a37/e74b9240-515b-45b8-a892-dc8c1f4a81bd/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden admin under pressure to reveal number of Americans still stranded in Afghanistan"
+    excerpt: "Top Biden administration officials indicated Tuesday they would soon provide long-awaited details regarding the number of Americans still stranded in Afghanistan amid mounting bipartisan pressure to ensure no American is left behind following the Taliban’s takeover."
+    publishedDateTime: 2021-08-25T01:13:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UrPTUErIeJ4/biden-number-americans-stranded-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-number-americans-stranded-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-number-americans-stranded-afghanistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7c14802b-c1f8-4dc7-8710-fba5ac59a4de/4ff30400-8ebc-4bb7-bd02-5915f841768c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

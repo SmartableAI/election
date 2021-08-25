@@ -63,6 +63,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Supreme Court reinstates Trump's 'Remain in Mexico' policy"
+    excerpt: "The United States Supreme Court refused to block a court order requiring the Biden administration to reinstate a Trump-era immigration move known as the “Remain in Mexico” policy."
+    publishedDateTime: 2021-08-25T00:32:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Dg7P9Luu_9U/supreme-court-reinstates-trumps-remain-in-mexico-policy"
+    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-reinstates-trumps-remain-in-mexico-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-reinstates-trumps-remain-in-mexico-policy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e3a9948c-4c70-4971-9919-9a26fcb67ce0/104d005a-06d0-467f-a8fe-d90ecd33d7b8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "States, led by Arizona, ask Supreme Court to intervene in fight over Trump-era rule on immigrants and welfare"
     excerpt: "FIRST ON FOX: A coalition of Republican states led by Arizona is urging the Supreme Court to intervene in the legal battle over a Trump-era policy that restricted immigrants who are deemed reliant on welfare from receiving green cards -- a policy the Biden administration has since dropped."
     publishedDateTime: 2021-04-30T20:56:18Z

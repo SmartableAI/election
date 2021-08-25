@@ -3,23 +3,23 @@ category: news
 title: "Former Pence adviser: Refugee topics would be blocked in meetings"
 excerpt: "Olivia Troye, a former adviser to Vice President Mike Pence, speaks to CNN for the first time since her viral Twitter thread in which she says that some senior members"
 publishedDateTime: 2021-08-21T19:21:00Z
-originalUrl: "https://www.pottsmerc.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_d43e7004-1abf-5297-a3b6-44abb700ce3f.html"
-webUrl: "https://www.pottsmerc.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_d43e7004-1abf-5297-a3b6-44abb700ce3f.html"
-ampWebUrl: "https://www.pottsmerc.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_d43e7004-1abf-5297-a3b6-44abb700ce3f.amp.html"
-cdnAmpWebUrl: "https://www-pottsmerc-com.cdn.ampproject.org/c/s/www.pottsmerc.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_d43e7004-1abf-5297-a3b6-44abb700ce3f.amp.html"
+originalUrl: "https://www.timesherald.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_bb03602c-68fe-5b15-b1d5-7f184c882be7.html"
+webUrl: "https://www.timesherald.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_bb03602c-68fe-5b15-b1d5-7f184c882be7.html"
+ampWebUrl: "https://www.timesherald.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_bb03602c-68fe-5b15-b1d5-7f184c882be7.amp.html"
+cdnAmpWebUrl: "https://www-timesherald-com.cdn.ampproject.org/c/s/www.timesherald.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_bb03602c-68fe-5b15-b1d5-7f184c882be7.amp.html"
 type: article
 quality: 55
 heat: 55
 published: false
 
 provider:
-  name: The Mercury
-  domain: pottsmerc.com
+  name: The Times Herald
+  domain: timesherald.com
 
 topics:
   - Election
   - Mike Pence
 
-secured: "lbF/Vm0WzKyJdrS7jqxMHkoizJbUUDwxrnzwRXO13eUzXX/N09AiGYzoMsN8+14ljYZO9TnYRcP0a9w8HC7ceeq3YohiYkGnkBUPTOh1dYKh6QoSHJxVxIZnqd1NZnrK7DZD/jPn/Xg94p7ZAvp9N2/cs/k+O187M2MR7dcIGOuimVU6GXb/pUK/+IRTFy+e+JqwVwvH9f4/FOElRgz4ktA+L06ET0BWYhAR5NAU1wVqQkyx2e4E+hYBpjkdMTVbs9DHvk1Jjm71/40i08A/76AEt9WvUaLFU5IIKdGSHDQ16IERDYr2hv4gwptzii656MPgq769PvPQ9mX+uP4epDnqR1567GKIV6swBFnEIVFavnB+7I16hDjiBpKm5Q4NGx4aNysCz6ydZaxkS/Ml4sO+YLRE4H1dTIHhDFVNSC+pqnfjEXLCubE/hSLhddyYPtq7MY6YMWF53nkUv8Z1Husd5nVhZvwccts+FgJP4V80LK+4vNTQJ+7Wss0Pr+jwr7JTtST7IbG32w9SF6+/kQ==;qG+9f9PHqdM4S4LMdEzBZA=="
+secured: "AHTHL7IMVVOAzWuqvbD3Go3i7hxNCbjZqtMohBHnN8aA0Q2BJ1VfBmi/wYwWLad6dW/zQ7KGLXIbvQRsKq+D3ebdBFbL2BzOr+2/xvmW6piAfJAYNspdPmR+qItG44VGeqgHLHeu34g+/CZRcvY2SGRFX3Q6G3MQ4Do2qO7ivf/HAwebEv4e4TLjk3Gg1MCcjTnHJIMnl9C2i0jIKXozA570TkO385yxKQxKEFJ5QaO6nXT1JZOna4WPhz3HLOsoP3oddu/qwr+J0k4H7IaAZfRrH8I9AaeS7VJ969HUt6nUsjTRTEM0hwRxCdOiGkt5O8A28ygPb7hQv7IDUoTHWS9oPTqOWjvIiBY9sKpj2lUGicJJKrxJfCU/gsSULnYYn8hWeNBlZarlIq7iLPicwzimRLOOclEoIgHkZU6pHkZdgqRXt1qtNr4p2Lhx8Yllb3MXY033eeAwQa04+QESb4X+0bVcokQshaBCC2GUxi4eU8VzhdLUruQeKxc66xO2LIfLCO4OMBGe2eFZ7GBDtA==;NYxnR+NJNOycspNjxVMnhQ=="
 ---
 

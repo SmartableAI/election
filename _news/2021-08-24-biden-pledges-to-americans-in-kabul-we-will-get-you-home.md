@@ -71,6 +71,17 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Biden holds to Kabul Aug. 31 deadline despite criticism"
+    excerpt: "U.S. President Joe Biden says he will stick with his Aug. 31 deadline for finishing a U.S.-led evacuation of Americans, at-risk Afghans and others."
+    publishedDateTime: 2021-08-24T23:57:00Z
+    webUrl: "https://www.kentucky.com/news/nation-world/national/article253700868.html"
+    ampWebUrl: "https://amp.kentucky.com/news/nation-world/national/article253700868.html"
+    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/nation-world/national/article253700868.html"
+    type: article
+    provider:
+      name: Lexington Herald Leader
+      domain: kentucky.com
+    quality: 55
 
 secured: "E3LtJkPpPtiZbZzEXmmAvmxEGgo0F7vAHTyqRRPXjJvWsT4Dp7fXWxTkYwpms4oQQccl3WpSpi1CqSMH7jLRF/pqP9biN8NbIjUyiBukclJuuKAbGVXPXDYvWWXyXZM1VXKaRSUOMHE4v0Q4/q4rWwIuZVTjeH8998RE+ZPKj7O0DqzFe+IKSwN09bsRdDfsKq9dtltWitsLVAQJmJny8AUBQDepTrsAFmsSYpJjvtqCYpTbe0yQIP3AKPrP9P5jL61FEvVDe80QGk+xKz3HoYylT7WSl45IatkfeonXxLlkh/a6z33Ob2TYL0OpJM7xXcxKmibXsfasOhCk3ldWW8LSHvSY9cRacAtJPtU2G3k=;9OOIkZB7gaDG4EGaDLdQzA=="
 ---

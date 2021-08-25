@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/24/politics/biden-supreme-court/inde
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/24/politics/biden-supreme-court/index.html"
 type: article
 quality: 187
-heat: 347
+heat: 367
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210814150207-eviction-moratorium-landlords-appeal-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Supreme Court won't halt court order forcing Biden to revive 'Remain in Mexico' policy"
+    excerpt: "The Supreme Court on Tuesday declined the Biden administration's request that it put on hold a lower court order requiring the revival of the Trump-era \"Remain in Mexico\" immigration policy.\n    \n"
+    publishedDateTime: 2021-08-25T00:26:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aQ2KDnrSDG8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/24/politics/remain-in-mexico-supreme-court/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/24/politics/remain-in-mexico-supreme-court/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210630170105-02-scotus-0621-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

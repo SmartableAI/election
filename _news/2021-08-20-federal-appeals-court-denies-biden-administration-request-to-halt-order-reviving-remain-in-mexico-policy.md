@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Supreme Court won't halt court order forcing Biden to revive 'Remain in Mexico' policy"
+    excerpt: "The Supreme Court on Tuesday declined the Biden administration's request that it put on hold a lower court order requiring the revival of the Trump-era \"Remain in Mexico\" immigration policy.\n    \n"
+    publishedDateTime: 2021-08-25T00:26:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aQ2KDnrSDG8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/24/politics/remain-in-mexico-supreme-court/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/24/politics/remain-in-mexico-supreme-court/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210630170105-02-scotus-0621-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "a90iLCtR9d36y4JRYEQSKkinB13X1Qu6MqPdNSxWyWRWVZt63TpsQ2N3Eq14AwOmBYdcKAqlMVMYzpjK3uBcuCGQTOjJxx+JTrU0DovDkXSx9l7GfuIjcJOsYA0LWSxrb/G3N6SVXMdKN8goGUYqx1Iw2coFZ440UoPqY86XoZIGNzSdy02dkq8fEDLfDwDHyE1bShquo4hOoaqObatVbBqohrETwNVjRCEbvBN2ZbULBRm8NP+CnNVtWLLUdlzXWb4Ho3vrAGEQa07tl9ewSxPY/NH+/hgSTSYOBTOQMXyS1wIrJbdXPtZClyAm3khOT7MiZyaraHzxh9Lajs47nStp83NmH9h1A+o1YOSdlI0=;jNGlIQcNDoc20FqCa8+AbQ=="
 ---

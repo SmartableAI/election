@@ -1,0 +1,27 @@
+---
+category: news
+title: "U.S. Supreme Court Requires Biden to Revive Trump-Era 'Remain in Mexico' Immigration Policy"
+excerpt: "The U.S. Supreme Court on Tuesday denied President Joe Biden's bid to rescind an immigration policy implemented by his predecessor, Donald Trump, that forced thousands of asylum seekers to stay in Mexico awaiting U."
+publishedDateTime: 2021-08-25T01:55:00Z
+originalUrl: "https://www.usnews.com/news/us/articles/2021-08-24/us-supreme-court-requires-biden-to-revive-trump-era-remain-in-mexico-immigration-policy"
+webUrl: "https://www.usnews.com/news/us/articles/2021-08-24/us-supreme-court-requires-biden-to-revive-trump-era-remain-in-mexico-immigration-policy"
+type: article
+quality: 40
+heat: 40
+published: false
+
+provider:
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Donald Trump
+
+secured: "Kef4Q8JbnnUxBDxLvpfwH20Fg2Z1NiD7Jn0KWYoifJzqlXL52X8WuXNO7j6qgZl3UQBaSi8RpUXq552SvF6BddosuSErlAr7xEVOsV06Ad2WUnMW7VrqH+vmXAFS30MICQT/XbgqBrzsezr0BPhGzO0AjountCPhZmpIIOP8d44IsQsPKU2DhXA/ZmGBOn9ZE2qZiJDsNXr8ksNcoe3G03C1c4wmHN+T9mrs4Cv1pr7/p92NizSUCKRU7S/Z8FSA3xAsW9dfjdikQQVI1hwyoKyCwZmV02QP0HGmSL6VBBBFwRU87/BxOgCbvXhFjEhmem+5LLf7JWH2azmcoBNTVtygGkUDsYmMpd71crWAWT4MO2vJgWmzMIUmW1gZLrLAkOG8cOG3QP7UIzLdY8bnrfhFkCWtPzgQKfSHirQyshcUUF0D7TBAUPp3WCcDaYrBVaQDlX91o11iHp51SkBJRNyedTc/6u31xGiNv73HI8Yrmqg/Mrs4MkS6GJvx9KCI6basydizFRrVtTq8xP/d9g==;mt/HCUeMchdroCYVdiJ8Mw=="
+---
+

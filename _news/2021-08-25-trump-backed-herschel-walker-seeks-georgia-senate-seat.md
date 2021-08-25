@@ -1,30 +1,24 @@
 ---
 category: news
 title: "Trump-backed Herschel Walker seeks Georgia Senate seat"
-excerpt: "Herschel Walker on Tuesday filed paperwork to enter the U.S. Senate race in Georgia after months of speculation, joining other Republicans seeking to unseat Democratic Sen. Raphael"
-publishedDateTime: 2021-08-24T20:26:00Z
-originalUrl: "https://www.mytwintiers.com/news-cat/national-news/trump-backed-herschel-walker-seeks-georgia-senate-seat/"
-webUrl: "https://www.mytwintiers.com/news-cat/national-news/trump-backed-herschel-walker-seeks-georgia-senate-seat/"
-ampWebUrl: "https://www.mytwintiers.com/news-cat/national-news/trump-backed-herschel-walker-seeks-georgia-senate-seat/amp/"
-cdnAmpWebUrl: "https://www-mytwintiers-com.cdn.ampproject.org/c/s/www.mytwintiers.com/news-cat/national-news/trump-backed-herschel-walker-seeks-georgia-senate-seat/amp/"
+excerpt: "AP Herschel Walker on Tuesday filed paperwork to run for U.S. Senate in Georgia after months of speculation, joining other Republicans seeking to unseat Democratic Sen. Raphael Warnock in 2022. Walker,"
+publishedDateTime: 2021-08-25T01:02:00Z
+originalUrl: "https://www.sanluisobispo.com/news/nation-world/national/article253714938.html"
+webUrl: "https://www.sanluisobispo.com/news/nation-world/national/article253714938.html"
+ampWebUrl: "https://amp.sanluisobispo.com/news/nation-world/national/article253714938.html"
+cdnAmpWebUrl: "https://amp-sanluisobispo-com.cdn.ampproject.org/c/s/amp.sanluisobispo.com/news/nation-world/national/article253714938.html"
 type: article
-quality: 75
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: MyTwinTiers.com
-  domain: mytwintiers.com
+  name: SanLuisObispo
+  domain: sanluisobispo.com
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://www.mytwintiers.com/wp-content/uploads/sites/89/2021/08/921c1b0451254caab10deea0d1e357b9.jpg?w=1280"
-    width: 1280
-    height: 853
-    isCached: true
 
 related:
   - title: "Trump says Herschel Walker will enter Georgia Senate race"
@@ -91,6 +85,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump favorite Herschel Walker files to run for Georgia Senate seat"
+    excerpt: "Walker could share a Republican ticket with Gov. Brian Kemp, a frequent target of Trump attacks, as Kemp seeks reelection. Trump has vowed vengeance against Kemp, saying he didn’t do enough"
+    publishedDateTime: 2021-08-24T23:14:00Z
+    webUrl: "https://www.ocregister.com/2021/08/24/trump-favorite-walker-files-to-run-for-georgia-senate-seat/"
+    ampWebUrl: "https://www.ocregister.com/2021/08/24/trump-favorite-walker-files-to-run-for-georgia-senate-seat/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/08/24/trump-favorite-walker-files-to-run-for-georgia-senate-seat/amp/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 75
+    images:
+      - url: "https://www.ocregister.com/wp-content/uploads/2021/08/sjm-22-Senate-Georgia_87431450.jpg?w=1024&#038;h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Trump Ally Herschel Walker Is Running For U.S. Senate In Georgia"
     excerpt: "The former University of Georgia football standout is well known in his native state, but some national Republicans have been wary of Walker's candidacy."
     publishedDateTime: 2021-08-24T21:54:00Z
@@ -105,7 +115,18 @@ related:
         width: 948
         height: 710
         isCached: true
+  - title: "Trump-backed Herschel Walker seeks Georgia Senate seat | Charlotte Observer"
+    excerpt: "AP Herschel Walker on Tuesday filed paperwork to enter the U.S. Senate race in Georgia after months of speculation, joining other Republicans seeking to unseat Democratic Sen. Raphael Warnock in 2022."
+    publishedDateTime: 2021-08-24T23:28:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article253714938.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article253714938.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article253714938.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 53
 
-secured: "C7yWgPrHy+xy9Kq7aQAcn6MjNzZDD2HUHL6DpIrwMreZx3xWD3SJ4l9lECH7G4V96isO0PQyaKoDmHWBZiz9QVk44HvEHy2Osuhf+fomxo69CcaYsaaO42PsGq9EhJkvZnBwFNuXopqlno2/5oJUR4Ynxw2w+NbeXFfJNKXBdofpdb/z2P9IZAVfyf6q7C2Y3ShvsEQ+BOPk+QWElche93zcHZxc+lvr2Cs40j0O7WkPj1ak/usRoyg6PXs9tQbypCfHupXwGTyjom8BlOfhBqQZjPPX+zEL3gohx8fNwEd9fyC5sz5GYRFI/Q27XJekVPTZbqhGsKEynuQ+KtV0xOzmozRoOc0QyyjbQM/6ITc=;jcOhkMWZE4R8sTX8qNd9nw=="
+secured: "3Lk00ri6HpIrPaAq1vrw+bde9+60pHRb9h++GljZ5L3/43/Sug6AogXXU4rJxABK0hExLS8burXIiqxbuAjl4BtvgZ+z0GCUCR7FYkHG4LEFmsFwCydBGOxzyiCW5gDzzY559hj0HMI5FO0LfrsvNcvQhPLyEjaAf2pR8+S/HJLUd2Ldnqn6a+aS4TNp+GAQXFSm7df2gQq5bDc9Iqpuxn17vJVQPXsiObIQl0nLDuLEEwv/OZhTkZBnKkoZeyX1ogQiiZURwn3BgWHs0jKGIFsWceCSgKN4cjBwmzLQi4hivXG6O3Dps/9U8ANeDBJMPw+d0amwUzy/hFPacKxl503yeF8FcpYQGjiUNwi2pd96sEJ/d2xn7e+cCiW69022EDPzLSuEMTWFRYRdFSfaZOZCaeqQoNyu82/K87XRspwOLXpED/ryeiFQGPB8PQldZG0fV8vmq3f6LUp2d7KFNx5p33waaC5D9UL0WITlFPQpgXOLgmihURAS8aTBjRBPuNj9wrBdBUXGkSGo12ztxg==;r2FojjdrzZStCPoUgMrvpA=="
 ---
 

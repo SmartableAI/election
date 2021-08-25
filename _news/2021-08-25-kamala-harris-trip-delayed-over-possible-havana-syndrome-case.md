@@ -3,22 +3,18 @@ category: news
 title: "Kamala Harris trip delayed over possible 'Havana syndrome' case"
 excerpt: "US Vice-President Kamala Harris's flight to Vietnam was delayed by several hours due to an \"anomalous health incident\" with similarities to so-called Havana syndrome, reports say. The mysterious syndrome first affected people at the US embassy in Havana in 2016 and may be caused by directed microwave radiation."
 publishedDateTime: 2021-08-24T18:12:00Z
-originalUrl: "https://www.bbc.com/news/world-us-canada-58322593"
-webUrl: "https://www.bbc.com/news/world-us-canada-58322593"
-ampWebUrl: "https://www.bbc.com/news/world-us-canada-58322593.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-58322593.amp"
+originalUrl: "https://www.bbc.co.uk/news/world-us-canada-58322593?at_medium=RSS&at_campaign=KARANGA"
+webUrl: "https://www.bbc.co.uk/news/world-us-canada-58322593?at_medium=RSS&at_campaign=KARANGA"
+ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-58322593.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-58322593.amp"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - Election
@@ -63,6 +59,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "US VP Kamala Harris criticises Beijing intimidation in South China Sea"
+    excerpt: "US Vice President Kamala Harris has hit out at China during a speech made in Singapore on the first leg of a South East Asian tour. Ms Harris accused Beijing of coercion and intimidation in the South China Sea,"
+    publishedDateTime: 2021-08-24T15:28:00Z
+    webUrl: "https://www.bbc.com/news/world-asia-58312947.amp"
+    ampWebUrl: "https://www.bbc.com/news/world-asia-58312947.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-asia-58312947.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/105E2/production/_120224076_gettyimages-1234839274.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Kamala Harris heads to Vietnam while Afghanistan images rekindle the past"
     excerpt: "White House officials did not anticipate the comparisons with Afghanistan when they charted Vice President Kamala Harris' trip to Vietnam."
     publishedDateTime: 2021-08-20T15:05:00Z
@@ -92,6 +104,22 @@ related:
     quality: 120
     images:
       - url: "https://i.guim.co.uk/img/media/4b9d1b46c5ed87f036dda47f84e591e9c1060e02/0_126_4813_2890/master/4813.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5b34df223d15af9feda8d79cf2875c71"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Kamala Harris Vietnam trip delayed after two US officials report Havana syndrome"
+    excerpt: "Press secretary says assessment of safety of vice-president was carried out and she continued her journey"
+    publishedDateTime: 2021-08-24T22:08:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/aug/25/kamala-harris-us-officials-havana-syndrome-vietnam-delay"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/25/kamala-harris-us-officials-havana-syndrome-vietnam-delay"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/25/kamala-harris-us-officials-havana-syndrome-vietnam-delay"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/d8dbab5f75034c9e6436bc7c69a345b981bab200/0_198_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=720035ce598a4b31455effc29efd5dee"
         width: 600
         height: 360
         isCached: true
@@ -309,21 +337,21 @@ related:
         width: 1024
         height: 677
         isCached: true
-  - title: "US VP Kamala Harris criticises Beijing intimidation in South China Sea"
-    excerpt: "US Vice President Kamala Harris has hit out at China during a speech made in Singapore on the first leg of a South East Asian tour. Ms Harris accused Beijing of coercion and intimidation in the South China Sea,"
-    publishedDateTime: 2021-08-24T04:45:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-asia-58312947"
-    ampWebUrl: "https://www.bbc.co.uk/news/world-asia-58312947.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-asia-58312947.amp"
+  - title: "Possible Havana Syndrome cases delay Kamala Harris’s trip to Vietnam"
+    excerpt: "U.S. Vice President Kamala Harris' trip from Singapore to Vietnam was delayed several hours Tuesday by an investigation into two possible cases of the so-called Havana Syndrome in Hanoi, administration officials said."
+    publishedDateTime: 2021-08-24T19:28:00Z
+    webUrl: "https://www.boston.com/news/politics/2021/08/24/possible-havana-syndrome-cases-delay-kamala-harriss-trip-to-vietnam/"
+    ampWebUrl: "https://www.boston.com/news/politics/2021/08/24/possible-havana-syndrome-cases-delay-kamala-harriss-trip-to-vietnam/?amp=1"
+    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/politics/2021/08/24/possible-havana-syndrome-cases-delay-kamala-harriss-trip-to-vietnam/?amp=1"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
+      name: Boston.com
+      domain: boston.com
     quality: 75
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/105E2/production/_120224076_gettyimages-1234839274.jpg"
-        width: 1024
-        height: 576
+      - url: "https://bdc2020.o0bc.com/wp-content/uploads/2021/08/Singapore_US_Harris_76054-612503d375073-scaled.jpg"
+        width: 2560
+        height: 1731
         isCached: true
   - title: "VP Kamala Harris to return to California to campaign for Newsom next week"
     excerpt: "WASHINGTON — Vice President Kamala Harris will campaign for Gov. Gavin Newsom next week as the Democratic Party rallies around the California governor in his recall battle. The vice president and former California senator will visit her home state next ..."
@@ -356,6 +384,22 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi_com/2621629717925/2021/1/a38431fde78228c58e3bea7c8445fb8f/v1.5/During-Singapore-visit-VP-Kamala-Harris-says-US-focus-is-on-Afghanistan.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "VP Kamala Harris' Vietnam visit delayed by possible case of Havana syndrome"
+    excerpt: "The vice president's Vietnam visit was delayed for three hours after her office was told of a \"recent possible anomalous health incident in Hanoi.\""
+    publishedDateTime: 2021-08-24T19:46:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/08/24/vp-harris-vietnam-visit-delayed-possible-case-havana-syndrome/8254594002/"
+    ampWebUrl: "https://amp.indystar.com/amp/8254594002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/8254594002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 73
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/24/USAT/d511492f-ef8e-4620-888e-f9dbdbe46e98-AFP_9LK3P2.jpg?auto=webp&crop=7817,4398,x0,y281&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "VP Kamala Harris vows to back Southeast Asia allies against China 'coercion'"
     excerpt: "Vice President Kamala Harris in Singapore on Tuesday reaffirmed the United States' commitment to its allies in Southeast Asia in the face of China's aggression in the region."
@@ -773,6 +817,6 @@ related:
         height: 422
         isCached: true
 
-secured: "SPEdVRTap+ZHPkE5d9cCu8yefk0IWK+9GI4zQaYuZ+PA5QAjCK17CmO4oKbpp9so0qw/kMfh8Gc9YDWqeSmxraDKfhPYkejeiZn0OWl6lNQoMrbtrtspbt0kF2fWchYPiDP5wqY1Lsusm8cEDNLb0dfKQw1gDABUbtuEUsLLQI2v/HvymG5SYefxLJYlAGRRJ2udGjC1j/186jbm+SsMMrr8KpwGMwt3FwXLmAYVJU4BnzqfCnZZ+IsktJse8+ElgZxbPGOb3JH6i1mxtYH56tn7inyLucHAZ/8bUccn8ey8q9pp0huE7nKUW5/TIg9xzY7H3yRYVC829RypaWO5zYjqfj8DxRDTUtiPqHEKd9c=;laVcEtDllbF4sMPCwdRYTA=="
+secured: "Xdjtbfj+6Sr+TCLuSRyQ+uGRRGW/NIKfmnWj0Im5UNXLYt4p7GQ8f40gALJG6VIWoTAsUt+MitFa+YuKmBaFTHoSCvZsBXfFB/ub4bEsZ6//ge1tVWdqvtGf6j81NHE73MdLhB4AAX0RPLSQOLNZv6/53iqeGy1Uw+uO4y28zSTbDRpJzzmEJfZWk7TYy4Hc/FAJ03F2FlElGGgcvx+Do9KLM+PUhPvaK4wDDRDWb5Pn+NcWMty4/uviEQbJq4C424Je02JupaUoXhI3wLj0Q006gUGR9H1aB6e18/uV7W4pR19VK+pSL0ah+rWdH6+ftvxsPbkRP9zU9Y8klItt5RRZu8HsczuqVNm7BS8VJCw=;nFfVzdA3zEAJbc4k1+diJw=="
 ---
 

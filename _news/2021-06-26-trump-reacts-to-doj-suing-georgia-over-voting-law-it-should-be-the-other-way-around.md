@@ -79,21 +79,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump-backed Herschel Walker seeks Georgia Senate seat"
-    excerpt: "Herschel Walker on Tuesday filed paperwork to enter the U.S. Senate race in Georgia after months of speculation, joining other Republicans seeking to unseat Democratic Sen. Raphael"
-    publishedDateTime: 2021-08-24T20:26:00Z
-    webUrl: "https://www.mytwintiers.com/news-cat/national-news/trump-backed-herschel-walker-seeks-georgia-senate-seat/"
-    ampWebUrl: "https://www.mytwintiers.com/news-cat/national-news/trump-backed-herschel-walker-seeks-georgia-senate-seat/amp/"
-    cdnAmpWebUrl: "https://www-mytwintiers-com.cdn.ampproject.org/c/s/www.mytwintiers.com/news-cat/national-news/trump-backed-herschel-walker-seeks-georgia-senate-seat/amp/"
+  - title: "Trump favorite Herschel Walker files to run for Georgia Senate seat"
+    excerpt: "Walker could share a Republican ticket with Gov. Brian Kemp, a frequent target of Trump attacks, as Kemp seeks reelection. Trump has vowed vengeance against Kemp, saying he didn’t do enough"
+    publishedDateTime: 2021-08-24T23:14:00Z
+    webUrl: "https://www.ocregister.com/2021/08/24/trump-favorite-walker-files-to-run-for-georgia-senate-seat/"
+    ampWebUrl: "https://www.ocregister.com/2021/08/24/trump-favorite-walker-files-to-run-for-georgia-senate-seat/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/08/24/trump-favorite-walker-files-to-run-for-georgia-senate-seat/amp/"
     type: article
     provider:
-      name: MyTwinTiers.com
-      domain: mytwintiers.com
+      name: Orange County Register
+      domain: ocregister.com
     quality: 75
     images:
-      - url: "https://www.mytwintiers.com/wp-content/uploads/sites/89/2021/08/921c1b0451254caab10deea0d1e357b9.jpg?w=1280"
-        width: 1280
-        height: 853
+      - url: "https://www.ocregister.com/wp-content/uploads/2021/08/sjm-22-Senate-Georgia_87431450.jpg?w=1024&#038;h=683"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Trump Ally Herschel Walker Is Running For U.S. Senate In Georgia"
     excerpt: "The former University of Georgia football standout is well known in his native state, but some national Republicans have been wary of Walker's candidacy."
@@ -109,6 +109,28 @@ related:
         width: 948
         height: 710
         isCached: true
+  - title: "Trump-backed Herschel Walker seeks Georgia Senate seat"
+    excerpt: "AP Herschel Walker on Tuesday filed paperwork to run for U.S. Senate in Georgia after months of speculation, joining other Republicans seeking to unseat Democratic Sen. Raphael Warnock in 2022. Walker,"
+    publishedDateTime: 2021-08-25T01:02:00Z
+    webUrl: "https://www.sanluisobispo.com/news/nation-world/national/article253714938.html"
+    ampWebUrl: "https://amp.sanluisobispo.com/news/nation-world/national/article253714938.html"
+    cdnAmpWebUrl: "https://amp-sanluisobispo-com.cdn.ampproject.org/c/s/amp.sanluisobispo.com/news/nation-world/national/article253714938.html"
+    type: article
+    provider:
+      name: SanLuisObispo
+      domain: sanluisobispo.com
+    quality: 55
+  - title: "Trump-backed Herschel Walker seeks Georgia Senate seat | Charlotte Observer"
+    excerpt: "AP Herschel Walker on Tuesday filed paperwork to enter the U.S. Senate race in Georgia after months of speculation, joining other Republicans seeking to unseat Democratic Sen. Raphael Warnock in 2022."
+    publishedDateTime: 2021-08-24T23:28:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article253714938.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article253714938.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article253714938.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 53
 
 secured: "X2VJS2Rv1qwc5pVTlec2WOUVo14BTIF+N18TuqNTSMQyiuf1Hch9Nwej0tvKYT8/0OjD7gKyhdKf9zJfDCc4beo48t1xK9e6bwUwj58y/2240rx71pa+opMHZ2kvWRiKbJT7NQW7KB2SmdH4x2q5iDr1/sHyP+Lrwa2xJoS7snqzDIXKqf23vAlRxZOTjuqAyxpyeVLlAbO1S/KhVSUf+wamaEL5PsV/F4hKei1rvPl+qk8FwW6gf1TPOcMiD1zxrf76WDYvGoljcfye/x6x98VSKHAMg0DEOJY7MqHFibJfA0542XPjf60PFMgDUerzSmfCladZ7mZT3zdFffED37NsLlO7lLPt6eX/wKr35p2PrRgiXVc2mvogEBXF2VMUZP7ouvXWjVqga5J6vECtLdV7tRIGQC0x5v+FuGr1SVMTKd5qXCogZSLe0yL06npzm3GB7vedC57WSHOxpC5DD0OC5axWeTThzb6Pfbxal7DGo8GXb9Kkummlcm9yJG4pwznncL93rZm7SR125zL1aw==;TxB5ZdUj4iVNZ6woBXDWLQ=="
 ---

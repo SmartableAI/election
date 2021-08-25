@@ -9,7 +9,7 @@ ampWebUrl: "https://www.stamfordadvocate.com/news/amp/US-struggles-to-speed-Kabu
 cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/US-struggles-to-speed-Kabul-airlift-despite-16399637.php"
 type: article
 quality: 75
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -71,6 +71,17 @@ related:
         width: 600
         height: 335
         isCached: true
+  - title: "Biden holds to Kabul Aug. 31 deadline despite criticism"
+    excerpt: "U.S. President Joe Biden says he will stick with his Aug. 31 deadline for finishing a U.S.-led evacuation of Americans, at-risk Afghans and others."
+    publishedDateTime: 2021-08-24T23:57:00Z
+    webUrl: "https://www.kentucky.com/news/nation-world/national/article253700868.html"
+    ampWebUrl: "https://amp.kentucky.com/news/nation-world/national/article253700868.html"
+    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/nation-world/national/article253700868.html"
+    type: article
+    provider:
+      name: Lexington Herald Leader
+      domain: kentucky.com
+    quality: 55
 
 secured: "s4YjdK3pHrClvmeZPGZTrBZJ60IG+mS5NmsRZdM2jXEQWQHilLm0GxWSXwArYyKs+SJayWMu97C6ZDgftlrISuKH04UyqO/Uw+8xt1rcELPOW+EOIZuieATz7J8ytKUHSDlvv5BDVAz87WsKtBkZ+NyTHZmVKy/h3CBRsZubTjqzYZpfCSakHfk9hQVRbhP4iGb94zpq1K5mPHg5mASKDn9CxHzYATDo7xxETpNjvOZY9ubPfsJvZlEb9CMViWd3i8r1hsRpGuXuyOu/YPABI283q1y1aIXVGlUFOHxWfaX4OjK3ZwAL5dAzHslghDRkDOIkLNFSVzFDbRPa5kOfKRpuFhyTF6CM+u9RxD3MC58=;SFvPxFCsSKB1jZJnCm9Xhg=="
 ---

@@ -48,6 +48,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Kamala Harris arrives in Vietnam after delay over possible 'Havana syndrome' case"
+    excerpt: "Vice President Kamala Harris finally arrived in Vietnam from Singapore early Wednesday after a potential case of the mysterious “Havana Syndrome” was reported, causing her flight a three-hour delay."
+    publishedDateTime: 2021-08-25T03:22:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ERaVgeXvmdA/kamala-harris-vietnam-delay-havana-syndrome-singapore"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-vietnam-delay-havana-syndrome-singapore.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-vietnam-delay-havana-syndrome-singapore.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7e68f1c-4555-4d06-a427-b2fb474a3c0d/c8e32616-6bf4-47e1-a3e3-46e122f8db52/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Kamala Harris Stresses Cooperation on Supply Chains in Singapore Visit"
     excerpt: "The vice president made the case for stronger economic ties with Southeast Asia during a trip to Singapore, where she stressed the need to ease supply-chain constraints as a surge of Covid-19 cases has hit factories in the region."
     publishedDateTime: 2021-08-24T07:58:00Z

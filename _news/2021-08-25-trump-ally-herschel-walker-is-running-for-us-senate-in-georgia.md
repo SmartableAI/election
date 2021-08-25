@@ -89,22 +89,44 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump-backed Herschel Walker seeks Georgia Senate seat"
-    excerpt: "Herschel Walker on Tuesday filed paperwork to enter the U.S. Senate race in Georgia after months of speculation, joining other Republicans seeking to unseat Democratic Sen. Raphael"
-    publishedDateTime: 2021-08-24T20:26:00Z
-    webUrl: "https://www.mytwintiers.com/news-cat/national-news/trump-backed-herschel-walker-seeks-georgia-senate-seat/"
-    ampWebUrl: "https://www.mytwintiers.com/news-cat/national-news/trump-backed-herschel-walker-seeks-georgia-senate-seat/amp/"
-    cdnAmpWebUrl: "https://www-mytwintiers-com.cdn.ampproject.org/c/s/www.mytwintiers.com/news-cat/national-news/trump-backed-herschel-walker-seeks-georgia-senate-seat/amp/"
+  - title: "Trump favorite Herschel Walker files to run for Georgia Senate seat"
+    excerpt: "Walker could share a Republican ticket with Gov. Brian Kemp, a frequent target of Trump attacks, as Kemp seeks reelection. Trump has vowed vengeance against Kemp, saying he didn’t do enough"
+    publishedDateTime: 2021-08-24T23:14:00Z
+    webUrl: "https://www.ocregister.com/2021/08/24/trump-favorite-walker-files-to-run-for-georgia-senate-seat/"
+    ampWebUrl: "https://www.ocregister.com/2021/08/24/trump-favorite-walker-files-to-run-for-georgia-senate-seat/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/08/24/trump-favorite-walker-files-to-run-for-georgia-senate-seat/amp/"
     type: article
     provider:
-      name: MyTwinTiers.com
-      domain: mytwintiers.com
+      name: Orange County Register
+      domain: ocregister.com
     quality: 75
     images:
-      - url: "https://www.mytwintiers.com/wp-content/uploads/sites/89/2021/08/921c1b0451254caab10deea0d1e357b9.jpg?w=1280"
-        width: 1280
-        height: 853
+      - url: "https://www.ocregister.com/wp-content/uploads/2021/08/sjm-22-Senate-Georgia_87431450.jpg?w=1024&#038;h=683"
+        width: 1024
+        height: 683
         isCached: true
+  - title: "Trump-backed Herschel Walker seeks Georgia Senate seat"
+    excerpt: "AP Herschel Walker on Tuesday filed paperwork to run for U.S. Senate in Georgia after months of speculation, joining other Republicans seeking to unseat Democratic Sen. Raphael Warnock in 2022. Walker,"
+    publishedDateTime: 2021-08-25T01:02:00Z
+    webUrl: "https://www.sanluisobispo.com/news/nation-world/national/article253714938.html"
+    ampWebUrl: "https://amp.sanluisobispo.com/news/nation-world/national/article253714938.html"
+    cdnAmpWebUrl: "https://amp-sanluisobispo-com.cdn.ampproject.org/c/s/amp.sanluisobispo.com/news/nation-world/national/article253714938.html"
+    type: article
+    provider:
+      name: SanLuisObispo
+      domain: sanluisobispo.com
+    quality: 55
+  - title: "Trump-backed Herschel Walker seeks Georgia Senate seat | Charlotte Observer"
+    excerpt: "AP Herschel Walker on Tuesday filed paperwork to enter the U.S. Senate race in Georgia after months of speculation, joining other Republicans seeking to unseat Democratic Sen. Raphael Warnock in 2022."
+    publishedDateTime: 2021-08-24T23:28:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article253714938.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article253714938.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article253714938.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 53
 
 secured: "zBGDxEDy2IYcJj4gmCGonL50UEagB/eMKatvwi97RIVBJFc9wk0CQkgkQd7GwvSWMeJU3Q7qDvcxKn9yPV7UOSPRgeRig6gLWutrft+LVwpiilcp6+Mtur31xYm6YARFobp4/VsFJvdxqrsXAuTs/mblIUt6KQlk4hFhWQV9YBZPAmNkLq/40eqA5IVhB03xPtEyB/eG6y+r3wj7C31s6RxBZ0srilocE0FucDgBi7jTmLJDIUfH2cyQpeaIUqmdbYYesTtcHMcr9hhMcH2ZiqzrLMZZAxIPNH/7/fmCabs8aRwR+V0dqCQF5VBIz47aZZaqb92PgM71lspaxmo+NzU+VOdnHiqN5KgcdnUrz7E=;VfJaW1QD9QAc/V2w7VkCQg=="
 ---
