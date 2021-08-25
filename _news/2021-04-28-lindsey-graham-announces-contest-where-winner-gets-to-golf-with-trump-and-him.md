@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/lindsey-graham-announces-contest-where-winn
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lindsey-graham-announces-contest-where-winner-gets-golf-trump-him-1586971?amp=1"
 type: article
 quality: 122
-heat: 142
+heat: 162
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20210428&i=OVEAFZ9B3&r=OVEAFZ9B3&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "How Lindsey Graham is the perfect vessel to understand Donald Trump's death grip on the GOP"
+    excerpt: "And it's the only one that explains how Graham went from an understudy to Sen. John McCain in the early part of this decade to a full-fledged Trumper by the end of it. As The New York Times put it in a recent profile of Graham: \"What emerges from interviews with more than 60 people close to him,"
+    publishedDateTime: 2021-08-24T16:40:00Z
+    webUrl: "https://www.wtva.com/content/national/575162792.html"
+    ampWebUrl: "http://www.wtva.com/templates/AMP?contentID=575162792"
+    cdnAmpWebUrl: "https://www-wtva-com.cdn.ampproject.org/c/www.wtva.com/templates/AMP?contentID=575162792"
+    type: article
+    provider:
+      name: WTVA
+      domain: wtva.com
+    quality: 65
+    images:
+      - url: "http://media.heartlandtv.com/designimages/WTVA_640x380.png"
+        width: 640
+        height: 380
         isCached: true
 
 secured: "kKQOVW8vI0H0gUiZmfZY2/9tbYSURjwlSHK9WfXYOk2cHT+X0B7owwJ68BL3RG9fFRjFuNhfI/l5eaqQj6oY6YpY4eF7lcurDrwusYaFP69cpa+WTorE9y4k3qSN+KqZ/Tz//vACKEU8a0HVMNQdOruWN/3I0M1M27JtHlWmVrWe+/oEv0hGf0/ukFzEJIaQbmZuHdHTZKn4lCgw8U8DQJlDo7ZFHQaFCdqEgcG7s49MFYYz2h4APwkaOys1KiEnJyyJhB+jYdzawDge2WlCFvHStYGyye6p7yp7yEX5kQ5R2UqxSVHrvUorFoZ6e2Q3zh4XontCHh+rgwLKjt6u5We+fCqSrOMkiApatIXcERs=;ikAclQumGqhYhl6rpS+mUg=="

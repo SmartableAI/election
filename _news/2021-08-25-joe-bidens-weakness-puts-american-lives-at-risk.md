@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-25T11:58:00Z
 originalUrl: "https://www.realclearpolitics.com/2021/08/25/joe_bidens_weakness_puts_american_lives_at_risk_550183.html"
 webUrl: "https://www.realclearpolitics.com/2021/08/25/joe_bidens_weakness_puts_american_lives_at_risk_550183.html"
 type: article
-quality: 45
+quality: 65
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ topics:
   - Election
   - Joe Biden
   - Republican Voice
+
+images:
+  - url: "https://assets.realclear.com/images/55/551865_5_.jpg"
+    width: 750
+    height: 500
+    isCached: true
 
 related:
   - title: "Harris lands new job pushing American Jobs Plan through Congress for Biden"
@@ -379,6 +385,6 @@ related:
         height: 562
         isCached: true
 
-secured: "t3cI1jEzLusl44wWQhmz4sITNZOx2QAayRYaPOXGgObGqDIYKHBuGCOM7lhFrMyehEvlo16V1pP8Al5LTJ1uGTuDnKHJ23F1WiUyoG9RxbSneYOlPMuXW1zurKPf2kWc+qmt56XjYdVLpjg9VXA65qhc3mJxlCIQ6J31vzpxjTvyOJ60UvYlMRmcw1ZlRo4Tob72QYlq/3AA1QkSLRwt6+unfbJxLKUPOjA23vQkX8qvv38NOsHaVwqV3DCa140CXNL4FlS6Fdq/owycO9xRyA0Za/98Q3lkA6eVQaXKXPR+iHfVYYyVG8/DQGE8bf2EygDc0EVC8oBJeEgPZax8SlDuCcWhBAkx8WtrdS0JHbs=;Fv5/9cR4CETQs1il+pRHyQ=="
+secured: "KPGDqiYT9r/bQG5a5gnf1UbE15L/0jbUx+Vg8xkDgQHpYwx88w/aAnmLwmYDp7DBv3XgNE6NgHjq7U/37eDMExQk9zbxZVWsVNhM1LH7UhzQiKXI2yBxz2lfkZ7k5WMgM/O1HnOCe/jSY3iFiQFN8tehen2Bboxk2lCJUJ1464QxNXIagF300kZHlZj4l1jmQ28IDht/tj5sPp6gehBuYGnaYypNaADEe3qSiBG62ototuxKsf77mA/jEteRJV0GVorQ1/W4fDTyUVY9iuGprs/hJkiN41zkQPtKI2V5u7tQkYX/rmAjn6+gCrvIPiGZFee+Gw4A+ZR+LTXqzOqPyaMvXNRiYQAdnPpIvY/d3ZM=;mP8gWaZBYFLJdxKQ7w36Og=="
 ---
 

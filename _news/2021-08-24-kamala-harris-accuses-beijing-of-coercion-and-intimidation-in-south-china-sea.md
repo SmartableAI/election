@@ -79,6 +79,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Kamala Harris trip delayed over possible 'Havana syndrome' case"
+    excerpt: "US Vice-President Kamala Harris's flight to Vietnam was delayed by several hours due to an \"anomalous health incident\" with similarities to so-called Havana syndrome, reports say. The mysterious syndrome first affected people at the US and Canadian embassies in Havana in 2016 and 2017."
+    publishedDateTime: 2021-08-25T04:57:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-58322593.amp"
+    ampWebUrl: "https://www.bbc.com/news/world-us-canada-58322593.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-58322593.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/16F51/production/_120233049_gettyimages-1234846381.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Kamala Harris heads to Vietnam while Afghanistan images rekindle the past"
     excerpt: "White House officials did not anticipate the comparisons with Afghanistan when they charted Vice President Kamala Harris' trip to Vietnam."
     publishedDateTime: 2021-08-20T15:05:00Z
@@ -357,21 +373,21 @@ related:
         width: 760
         height: 537
         isCached: true
-  - title: "Kamala Harris trip delayed over possible 'Havana syndrome' case"
-    excerpt: "US Vice-President Kamala Harris's flight to Vietnam was delayed by several hours due to an \"anomalous health incident\" with similarities to so-called Havana syndrome, reports say. The mysterious syndrome first affected people at the US embassy in Havana in 2016 and may be caused by directed microwave radiation."
-    publishedDateTime: 2021-08-24T18:12:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-us-canada-58322593?at_medium=RSS&at_campaign=KARANGA"
-    ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-58322593.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-58322593.amp"
+  - title: "Kamala Harris urges Vietnam to join U.S. in opposing China “bullying”"
+    excerpt: "Vice President Kamala Harris called on Vietnam to join the U.S. in challenging China’s “bullying” in the South China Sea, continuing her sharp rhetoric against Beijing as she met with Vietnamese"
+    publishedDateTime: 2021-08-25T13:42:00Z
+    webUrl: "https://www.denverpost.com/2021/08/25/kamala-harris-vietnam-china/"
+    ampWebUrl: "https://www.denverpost.com/2021/08/25/kamala-harris-vietnam-china/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/08/25/kamala-harris-vietnam-china/amp/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
+      name: The Denver Post
+      domain: denverpost.com
     quality: 75
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/16F51/production/_120233049_gettyimages-1234846381.jpg"
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/08/AP21237207190165.jpg?w=1024&#038;h=702"
         width: 1024
-        height: 576
+        height: 702
         isCached: true
   - title: "Possible Havana Syndrome cases delay Kamala Harris’s trip to Vietnam"
     excerpt: "U.S. Vice President Kamala Harris' trip from Singapore to Vietnam was delayed several hours Tuesday by an investigation into two possible cases of the so-called Havana Syndrome in Hanoi, administration officials said."
@@ -468,6 +484,22 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/i/6891629790105/2021/1/16297948963740/v1.5/VP-Kamala-Harris-vows-to-back-Southeast-Asia-allies-against-China-coercion.jpg"
         width: 800
         height: 531
+        isCached: true
+  - title: "VP Kamala Harris visits Vietnam, pledges U.S. help to repel China 'bullying'"
+    excerpt: "Vice President Harris met with the top leaders of Vietnam Wednesday and told them that \"pressure\" is needed to force China to follow international laws in the South China Sea and prevent Beijing from bullying neighbors."
+    publishedDateTime: 2021-08-25T12:01:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2021/08/25/Vietnam-Kamala-Harris-China-South-Sea/4241629888097/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2021/08/25/Vietnam-Kamala-Harris-China-South-Sea/4241629888097/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/08/25/Vietnam-Kamala-Harris-China-South-Sea/4241629888097/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 72
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/i/4241629888097/2021/1/16298888971359/v1.5/VP-Kamala-Harris-visits-Vietnam-pledges-US-help-to-repel-China-bullying.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "Kamala Harris' trip to Asia has new urgency amid collapse of Afghan government"
     excerpt: "The Taliban takeover of Afghanistan is giving new urgency to Vice President Kamala Harris' tour of southeast Asia, where she will attempt to reassure allies of American resolve following the chaotic end of a two-decade war."

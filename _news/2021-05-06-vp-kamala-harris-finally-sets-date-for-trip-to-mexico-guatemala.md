@@ -356,6 +356,20 @@ related:
         width: 750
         height: 562
         isCached: true
+  - title: "Joe Biden's Weakness Puts American Lives at Risk"
+    excerpt: "The Biden administration must make clear to the Taliban that U.S. troops will not leave Afghanistan until every American citizen is safely able to leave. Read Full Article »"
+    publishedDateTime: 2021-08-25T11:58:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/08/25/joe_bidens_weakness_puts_american_lives_at_risk_550183.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/55/551865_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Kamala Harris To Tim Scott: \"No, I Don't Think America Is A Racist Country,\" But Racism Exists"
     excerpt: "Vice President Kamala Harris responded to GOP Sen. Tim Scott's statement that America is \"not a racist country\" and we can't \"fight discrimination with more discrimination\" during an appearance Thursday on \"Good Morning America."
     publishedDateTime: 2021-04-29T16:08:00Z
@@ -370,15 +384,6 @@ related:
         width: 750
         height: 562
         isCached: true
-  - title: "Joe Biden's Weakness Puts American Lives at Risk"
-    excerpt: "The Biden administration must make clear to the Taliban that U.S. troops will not leave Afghanistan until every American citizen is safely able to leave. Read Full Article »"
-    publishedDateTime: 2021-08-25T11:58:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/08/25/joe_bidens_weakness_puts_american_lives_at_risk_550183.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "dJv0pVzneRqUGlyfRNgWmd5KyD6zjBPtffr9o9krvAiD15Xx3jaIsY4QrthFx2uDy2BH7BjesXlkJ+UHIlbZipMmfm5DV2BS6931hHwEpOfuKKTDZIsGk4CrF8Sh/KQaCWlP8R8m8cQ5Dz08oWOTLh4or4fvHVT0rBSyegj02XxLONILJO8thsfx0OqMDQMC/82CW4QIyDBor/xAYx7tMdAmHNEvsIuLIcWr/OLK+LnMVzeE7fcbrLgp3F6iK+FBxbje+SNulNzRwiBoLLf0Tt7jCqpM25bJ65oz1pRnuRFi9Ag1FpA8W03xJ1B/lQRdTjakWOVKm5qxbAT+IIjIDHb1oiJyzTTkO2dLeltUVTDS38TTJy3CFpsUjABrHjubfID9NTqsZ5r34j7eGUnhEL/cOmAxNQheVFuFwKX8LYixzSYSrcZo7u6DCzVvjQxTr1HXF9pWwAqOdle+5lHv9PQ/NXHILrS0Imifo73tW91bFt9q+8onnu8YZFET9VVZuaspCsMXtaCdyMekahBn8Q==;CvqQww5j0PYuNEPgZ50itQ=="
 ---

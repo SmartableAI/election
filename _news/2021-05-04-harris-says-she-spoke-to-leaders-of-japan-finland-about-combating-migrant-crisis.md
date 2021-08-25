@@ -360,6 +360,20 @@ related:
         width: 750
         height: 562
         isCached: true
+  - title: "Joe Biden's Weakness Puts American Lives at Risk"
+    excerpt: "The Biden administration must make clear to the Taliban that U.S. troops will not leave Afghanistan until every American citizen is safely able to leave. Read Full Article »"
+    publishedDateTime: 2021-08-25T11:58:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/08/25/joe_bidens_weakness_puts_american_lives_at_risk_550183.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/55/551865_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Kamala Harris To Tim Scott: \"No, I Don't Think America Is A Racist Country,\" But Racism Exists"
     excerpt: "Vice President Kamala Harris responded to GOP Sen. Tim Scott's statement that America is \"not a racist country\" and we can't \"fight discrimination with more discrimination\" during an appearance Thursday on \"Good Morning America."
     publishedDateTime: 2021-04-29T16:08:00Z
@@ -374,15 +388,6 @@ related:
         width: 750
         height: 562
         isCached: true
-  - title: "Joe Biden's Weakness Puts American Lives at Risk"
-    excerpt: "The Biden administration must make clear to the Taliban that U.S. troops will not leave Afghanistan until every American citizen is safely able to leave. Read Full Article »"
-    publishedDateTime: 2021-08-25T11:58:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/08/25/joe_bidens_weakness_puts_american_lives_at_risk_550183.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "ZFiBR5dnZZ+6x/54F4bOZ6QJfaA0z02je0n+c/JcNtex0hOYQ7YUWwI8BDNG7uQauxlP/yxjAPZFQIuMB6BfaNy/ivKZ/+lUEuZejZr2VEj8P3ikNxH4fUYmP75Hh5LAv3+g5xG1lpCtPlvSTG2nxwD2CjO4JG/jCkmRpsWCZ2K3ZIfeNaU7ZqCRogbQhUndB91OxZIhXu856OKeM3rjqXLXj2/51r6B2b5Brr7DGRyb3iPrbi54WeE77yvRLeQ9BFFYkqvREaVV8gOGB+MplcZtf/Weoa/kSVIL4eimTcU1N/AgY6Ak7ObaJE0P697hrqRaxeIxFZxcNqNXnM1tDasPqX9pT0QIhGFt39jXUJE=;Phqptjuny92FhhJaL/+uKw=="
 ---

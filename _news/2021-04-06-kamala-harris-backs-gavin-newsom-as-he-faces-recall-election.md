@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/kamala-harris-backs-gavin-newsom-recall-ele
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-backs-gavin-newsom-recall-election-1581208?amp=1"
 type: article
 quality: 140
-heat: 1240
+heat: 1260
 published: true
 
 provider:
@@ -642,6 +642,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2017/02/24/pence_governors_meeting_20270_c0-78-4887-2928_s1200x700.jpg?92a2fda3de6b0bc16984b01d64f55f594e9ea11a"
         width: 1200
         height: 700
+        isCached: true
+  - title: "California recall: VP Kamala Harris to whip up base in Bay Area for Gov. Gavin Newsom"
+    excerpt: "The former California senator and East Bay native is expected at a rally on Friday to whip up the base. But which base will she whip up more?"
+    publishedDateTime: 2021-08-25T11:55:00Z
+    webUrl: "https://www.mercurynews.com/2021/08/25/california-recall-vp-kamala-harris-to-whip-up-base-in-bay-area-for-gov-gavin-newsom/"
+    ampWebUrl: "https://www.mercurynews.com/2021/08/25/california-recall-vp-kamala-harris-to-whip-up-base-in-bay-area-for-gov-gavin-newsom/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/08/25/california-recall-vp-kamala-harris-to-whip-up-base-in-bay-area-for-gov-gavin-newsom/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 68
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2018/02/california-governors-race1.jpg?w=1024&#038;h=727"
+        width: 1024
+        height: 727
         isCached: true
   - title: "VP Kamala Harris urges Chicagoans to get vaccinated and stay safe: ‘In that way we will build back up’"
     excerpt: "Gov. J.B. Pritzker and Mayor Lori Lightfoot greeted Harris when she landed about 1 p.m. at Midway Airport. The nation’s first ever woman and person of color to serve as vice president was in town to tout President Joe Biden’s vaccine effort on the day he directed states to open vaccine eligibility to all adults by April 19."

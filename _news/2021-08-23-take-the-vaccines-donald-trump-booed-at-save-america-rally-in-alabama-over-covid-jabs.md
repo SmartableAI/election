@@ -102,6 +102,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Donald Trump Booed By His Own Supporters For Suggesting They Take ‘The Vaccines’"
+    excerpt: "Former President Donald Trump was booed at his own rally in Alabama Saturday for telling his supporters they should get vaccinated against COVID-19."
+    publishedDateTime: 2021-08-23T20:00:00Z
+    webUrl: "https://www.blackenterprise.com/donald-trump-booed-by-his-own-supporters-for-suggesting-they-take-the-vaccines/"
+    ampWebUrl: "https://www.blackenterprise.com/donald-trump-booed-by-his-own-supporters-for-suggesting-they-take-the-vaccines/amp/"
+    cdnAmpWebUrl: "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/donald-trump-booed-by-his-own-supporters-for-suggesting-they-take-the-vaccines/amp/"
+    type: article
+    provider:
+      name: Black Enterprise
+      domain: blackenterprise.com
+    quality: 70
+    images:
+      - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2021/08/Screenshot-132.png"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "Donald Trump Got Booed In Alabama For Saying Good Things About Vaccines"
     excerpt: "Trump told the crowd he was vaccinated and encouraged them to do the same, drawing boos at his own rally as a result."
     publishedDateTime: 2021-08-22T17:37:00Z

@@ -173,8 +173,8 @@ related:
         isCached: true
   - title: "Joe Biden to speak about Afghanistan evacuation amid criticism – live"
     excerpt: "Psaki says US has helped evacuate 57,000 people in the last nine days and and is on track to meet its deadline of 31 August"
-    publishedDateTime: 2021-08-24T19:31:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news?page=with:block-612540598f080840ca17a455"
+    publishedDateTime: 2021-08-24T19:43:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news?page=with:block-6125528f8f080ef844e74792"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news"
     type: article
@@ -408,6 +408,22 @@ related:
       - url: "https://images.hindustantimes.com/img/2021/08/23/1600x900/HT_Normal_Thumbnail_-_AUG__2021_1629737552559_1629737630771.png"
         width: 1600
         height: 899
+        isCached: true
+  - title: "U.S. Supreme Court Requires Biden Administration To Reinstate Trump’s ‘Remain in Mexico’ Policy"
+    excerpt: "The U.S. Supreme Court refused to block a federal court ruling to reinstate the controversial Trump-era Migrant Protection Protocols (MPP) that required asylum seekers to wait in dangerous conditions in Mexico for their day in court."
+    publishedDateTime: 2021-08-25T13:01:00Z
+    webUrl: "https://www.houstonpublicmedia.org/articles/news/politics/immigration/2021/08/25/406808/u-s-supreme-court-requires-biden-administration-to-reinstate-trumps-remain-in-mexico-policy/"
+    ampWebUrl: "https://www.houstonpublicmedia.org/articles/news/politics/immigration/2021/08/25/406808/u-s-supreme-court-requires-biden-administration-to-reinstate-trumps-remain-in-mexico-policy/amp/"
+    cdnAmpWebUrl: "https://www-houstonpublicmedia-org.cdn.ampproject.org/c/s/www.houstonpublicmedia.org/articles/news/politics/immigration/2021/08/25/406808/u-s-supreme-court-requires-biden-administration-to-reinstate-trumps-remain-in-mexico-policy/amp/"
+    type: article
+    provider:
+      name: Houston Public Media
+      domain: houstonpublicmedia.org
+    quality: 78
+    images:
+      - url: "https://cdn.hpm.io/wp-content/uploads/2021/03/23193744/AP21082826945812-1000x667.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Biden to address nation on Afghanistan crisis"
     excerpt: "President Biden will address the stunning fall of the Afghanistan government in a speech from the White House on Monday afternoon, according to his office."

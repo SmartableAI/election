@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/charles-barkley-blasts-crowd-stupidity-booi
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/charles-barkley-blasts-crowd-stupidity-booing-donald-trump-vaccines-alabama-1622803?amp=1"
 type: article
 quality: 121
-heat: 341
+heat: 361
 published: true
 
 provider:
@@ -89,6 +89,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/07/us-intelligence-believes-that-russia-meddles-in-the.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Donald Trump Booed By His Own Supporters For Suggesting They Take ‘The Vaccines’"
+    excerpt: "Former President Donald Trump was booed at his own rally in Alabama Saturday for telling his supporters they should get vaccinated against COVID-19."
+    publishedDateTime: 2021-08-23T20:00:00Z
+    webUrl: "https://www.blackenterprise.com/donald-trump-booed-by-his-own-supporters-for-suggesting-they-take-the-vaccines/"
+    ampWebUrl: "https://www.blackenterprise.com/donald-trump-booed-by-his-own-supporters-for-suggesting-they-take-the-vaccines/amp/"
+    cdnAmpWebUrl: "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/donald-trump-booed-by-his-own-supporters-for-suggesting-they-take-the-vaccines/amp/"
+    type: article
+    provider:
+      name: Black Enterprise
+      domain: blackenterprise.com
+    quality: 70
+    images:
+      - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2021/08/Screenshot-132.png"
+        width: 1366
+        height: 768
         isCached: true
   - title: "‘Take the vaccines!’ Donald Trump booed at Save America rally in Alabama over Covid jabs"
     excerpt: "DONALD TRUMP's comments on taking a dose of the COVID-19 vaccine were met with a chorus of boos by his supporters at his Save America rally in Alabama."
@@ -183,6 +199,6 @@ related:
       domain: chron.com
     quality: 31
 
-secured: "Q64TynTHFkR6wEOIJpyQw1w7VSblovB6bz4WkXmRDGVb6yJY4hbSdiHgfptC+788droqN4wJz20zYFa72qWvixQfnrvqCDmH/UTbD3yNyS1gTEIBYqj72PB6QxxCda9xKC9nDskuA3DgFqte7lyQ0C10Ml6z+oLeiyLXTgFKfdMYVP9q6DLuTsNCw2DMetST0AELSULLGzbIKE9uftDNvCjbJn06tJ1IdAIYaeDtnQSG0amAoFkYjEFSIJxXMp/aZuhoiCqV5fhUPL4dqkTp+BspTBj/pH0lo8iNAOYi0EFPaA6RGsncmqVjvyqHvsoSDUMULNtSwwn7xDzg6gG8+UcmbP6olTool3sp5FxM4VI=;x25owBL86s5jtqteshGgSg=="
+secured: "xffTyWcANluWzkX0ji3/YuH/NBSPQVdp7gXkPuNk5834R7TtaWCjYxTo6dvXmJVlVbEtXSqSNBdx3nfZiEqBgRfKtLnvh4ByG+3HOa5xTf+5I8WSeKYx2Dx2VHKA3UOglN+oVqfBnMO4z8hP9apF/aTAPqv4o9QPIuIE4rRzgqhXfz3zzveME6QYDcPluHWly31gNpDsqHhASmLEW03L8qHolnVmR3XzaKqlE6ZB4rSJ9STdgs2iJCW/bV1tCF9fqhPDOX7+aUELTEzosPwrkFJyPBBDMFrvDOfM49klzRFKcks+Qdbqm/e5Y2BXmdK8LMnJTgXHUhlFm74WEfRS+weM58KlxZgoq8g4T7ubP6qKgTc9b/aHOyH7pqEV7LhyuOhJtSPcBVnzH6drhejKqOjHGoTnZhFxxvG+7at1pclBnZUMK345ff+8AtADFLp8294iA+4BGUYJCbC64rbx0NOhc6wSitrABrNxbcpVViidsXv7bhfodoNE0LVkEdrP2e7WEuhvS5wBupL1QWjjRA==;HEJuZIrxmO4EqUiHUGEexA=="
 ---
 

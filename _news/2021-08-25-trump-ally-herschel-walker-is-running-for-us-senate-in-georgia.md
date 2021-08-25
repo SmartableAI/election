@@ -122,18 +122,18 @@ related:
         height: 683
         isCached: true
   - title: "Trump-backed Herschel Walker seeks Georgia Senate seat"
-    excerpt: "Herschel Walker on Tuesday filed paperwork to run for U.S. Senate in Georgia after months of speculation, joining other Republicans seeking to unseat Democratic Sen. Raphael Warnock in 2022. Walker, 59,"
-    publishedDateTime: 2021-08-25T09:26:00Z
-    webUrl: "https://bangordailynews.com/2021/08/25/national-politics/trump-backed-herschel-walker-seeks-georgia-senate-seat/"
+    excerpt: "In this May 29, 2018, file photo, President Donald Trump, left, and his daughter Ivanka Trump, right, watch as former football player Herschel Walker,"
+    publishedDateTime: 2021-08-25T12:50:00Z
+    webUrl: "https://sacobserver.com/2021/08/trump-backed-herschel-walker-seeks-georgia-senate-seat/"
     type: article
     provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
+      name: The Sacramento Observer
+      domain: sacobserver.com
     quality: 55
     images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/US-Election-2022-Senate-Georgia.jpg"
-        width: 1024
-        height: 683
+      - url: "https://sacobserver.com/wp-content/uploads/2021/08/800-59.jpeg"
+        width: 800
+        height: 533
         isCached: true
   - title: "Trump-backed Herschel Walker seeks Georgia Senate seat | Charlotte Observer"
     excerpt: "AP Herschel Walker on Tuesday filed paperwork to enter the U.S. Senate race in Georgia after months of speculation, joining other Republicans seeking to unseat Democratic Sen. Raphael Warnock in 2022."

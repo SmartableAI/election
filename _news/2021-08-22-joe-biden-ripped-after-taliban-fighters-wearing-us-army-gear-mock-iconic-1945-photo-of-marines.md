@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Supreme Court Rejects Biden Admin's Efforts To Stop Trump-Era 'Remain in Mexico' Policy"
+    excerpt: "\"The applicants have failed to show a likelihood of success on the claim that the memorandum rescinding the Migrant Protection Protocols was not arbitrary and capricious.\""
+    publishedDateTime: 2021-08-25T13:44:00Z
+    webUrl: "https://ijr.com/supreme-court-biden-admins-efforts-stop-trump-era-policy/"
+    type: article
+    provider:
+      name: ijr.com
+      domain: ijr.com
+    quality: 62
+    images:
+      - url: "https://ijr.com/wp-content/uploads/2021/02/2021-02-01T211958Z_3_LYNXMPEH1022T_RTROPTP_4_USA-COURT-IMMIGRATION-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "OWYLKFxJ6xCS+ppDyFuwr9WyxPfrWMXXqiXDR/a/k3T6JXbm9MqtgfuwkYiVbC2dcsRrmMe6IPx1HVP0gxDy0YiHZ4kf/ro1LojPM/7NePslbCGArnpFRrwPnmSgtLi7fjPU8caO12BFzpf/PjEa2LOcbuE3ael/4XiA5MzWSV7zQuxiLkbCz+ol3niwuMYsWaDgFifNjFUmT7NDEu93u6UIaG0jh0n4L+w+f1CobOp3AU8atktoGsYgff2O1uwuw4r+BU01mZUBFs1NjEiT1GuX111Tszh47o6RONLkVZTXCgWWjUYLZan+2IQTvG3s6+9gjng88YACS4a6E8A0+ExQJYaYQN/sG0XlvxHYEyBr9IVyLitTrt+RD1l7U5pzLsQZ8tvHCpSOoVy/mZt7anAZb3IuzryvpFXSuQjdrVXSrdNFAIAYrU0jkdeS690T5AZQ4Vw2IR9pBmlngff/m1K+CKEafeZFS/y6Vgx2hO/rr0Fzu7zFplX600DGcD8VIHc37rgMOfbMXuk2K4qo9Q==;QaVRjmNRRw4X3IwUEMPycA=="
 ---

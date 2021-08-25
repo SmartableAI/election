@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden to speak about Afghanistan evacuation amid criticism – live"
 excerpt: "Psaki says US has helped evacuate 57,000 people in the last nine days and and is on track to meet its deadline of 31 August"
-publishedDateTime: 2021-08-24T19:31:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news?page=with:block-612540598f080840ca17a455"
-webUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news?page=with:block-612540598f080840ca17a455"
+publishedDateTime: 2021-08-24T19:43:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news?page=with:block-6125528f8f080ef844e74792"
+webUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news?page=with:block-6125528f8f080ef844e74792"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news"
 type: article
@@ -412,6 +412,22 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/ztlwq9b3ofeak3y3_1629629802.jpeg"
         width: 768
         height: 438
+        isCached: true
+  - title: "U.S. Supreme Court Requires Biden Administration To Reinstate Trump’s ‘Remain in Mexico’ Policy"
+    excerpt: "The U.S. Supreme Court refused to block a federal court ruling to reinstate the controversial Trump-era Migrant Protection Protocols (MPP) that required asylum seekers to wait in dangerous conditions in Mexico for their day in court."
+    publishedDateTime: 2021-08-25T13:01:00Z
+    webUrl: "https://www.houstonpublicmedia.org/articles/news/politics/immigration/2021/08/25/406808/u-s-supreme-court-requires-biden-administration-to-reinstate-trumps-remain-in-mexico-policy/"
+    ampWebUrl: "https://www.houstonpublicmedia.org/articles/news/politics/immigration/2021/08/25/406808/u-s-supreme-court-requires-biden-administration-to-reinstate-trumps-remain-in-mexico-policy/amp/"
+    cdnAmpWebUrl: "https://www-houstonpublicmedia-org.cdn.ampproject.org/c/s/www.houstonpublicmedia.org/articles/news/politics/immigration/2021/08/25/406808/u-s-supreme-court-requires-biden-administration-to-reinstate-trumps-remain-in-mexico-policy/amp/"
+    type: article
+    provider:
+      name: Houston Public Media
+      domain: houstonpublicmedia.org
+    quality: 78
+    images:
+      - url: "https://cdn.hpm.io/wp-content/uploads/2021/03/23193744/AP21082826945812-1000x667.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Biden to address nation on Afghanistan crisis"
     excerpt: "President Biden will address the stunning fall of the Afghanistan government in a speech from the White House on Monday afternoon, according to his office."
@@ -1222,6 +1238,6 @@ related:
         height: 380
         isCached: true
 
-secured: "P3XT9wVDrA9J3cnO42DX9/XPg+Pv6Juz/wv5tsGPg6yNM2+8nms/NRheGkQmsgrbLd6fJysWfJDlXTE6L8MUDQtZd5rsPWgtJRqCRurZYatLbQz6xiZLXYFbloiknfXtM7VoL0u01XmyxSGzv84d/udp+ZhWWoj3ZY0+Z5BatPmGaLjGrYYMqNEENHF0soOn/Ueot38VQvGYFD2E9grGXbqSVN80lBKH+FlUqEZvasYcfA3Nl9gYsT7zbzo4GyYzGvNIMRxrYi7xxGxLsedQ149sAO2tAtGnt+Q2ysL7/VF01jzjzZEsZEGfYv2onoozFnVoZWfeJAEqL4DCLwxJQYimCIR7N254Raa0CL8kCts=;c0O4zBrZRjU291MWWozCXA=="
+secured: "8rq6vO2od0wZUzd+63wn3UfeYdtP9JP1q2PakPVvlxsFadIpTr0jp3XECDQ5EJmma70CbiPslLB9hZTN+srH4Yk5oFyhsRTmDA++8zyi2J9IQuLD8E0fxl5/Pk6JSIjkcuOoYLJmGI2PVlDmugGlFuML3tP1LNuqylNlR1w3tdAqCvOTHXDRrlJZae+LavxeydqOHL3qzbRG+6omhGdyqPhQGjLVh4ohJLukzFuAfj5+Pwt25wnztWZ1tkmBt9p09Ut3nTifcvN1qS9CH/+eti9oSV6/J0peMSZ8JMC22Beu13EAq/CO27PZqxFEVFTnkbRlIAQC82W2TknNu709qwDbXLU17QYleks0xfScCLE=;nhluwCDd4i7nwPykrt8m7w=="
 ---
 

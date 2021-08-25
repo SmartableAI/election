@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/24/former-trump-advise
 cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/24/former-trump-adviser-biden-needs-fire-top-taliban-/"
 type: article
 quality: 88
-heat: 108
+heat: 128
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://cheesecake.articleassets.meaww.com/545990/uploads/0e504170-02f0-11ec-951c-a7d689a4bfd4_800_420.png"
         width: 800
         height: 420
+        isCached: true
+  - title: "Supreme Court Rejects Biden Admin's Efforts To Stop Trump-Era 'Remain in Mexico' Policy"
+    excerpt: "\"The applicants have failed to show a likelihood of success on the claim that the memorandum rescinding the Migrant Protection Protocols was not arbitrary and capricious.\""
+    publishedDateTime: 2021-08-25T13:44:00Z
+    webUrl: "https://ijr.com/supreme-court-biden-admins-efforts-stop-trump-era-policy/"
+    type: article
+    provider:
+      name: ijr.com
+      domain: ijr.com
+    quality: 62
+    images:
+      - url: "https://ijr.com/wp-content/uploads/2021/02/2021-02-01T211958Z_3_LYNXMPEH1022T_RTROPTP_4_USA-COURT-IMMIGRATION-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
 
 secured: "4WG0/fh2HSiyFsAB9Hy9NKmn5Xoy3ef0MNnaAgFRUIuvhQ+ud/adBFB8ieoA2DbnYetgqAEM/13Imokj6C0m12zeHhKBGHGZkLX83nwQN9aKH43Xa3szMrapzsy1gO8ELhVDhx42SOGkvloTn89Xu3e7ZygGZZjnTKnrLRzwuJoAZ9nZupFCUYsKqrYURxSso0ceaeEWpZghpTm6E+kNJ3JvCUhTeGGvnSCKVN7j/v9YmePv74sqhfrFNKmXwHtPXbBNHnE1iEwY1Zcx/C5kpwuP+wZL6PMBhXngfeWLfBYHvsLaYXiRtDoBGmZlw6hfAG4sIhliu2BTV9nlQ71D9u05G6jqhKPOHZJAgnEGR+sT15CydB8yhp1fmRYO1uZS2+kE8kDYbY/F30O26TSuUnPjuE6S/iOlVVad3XjJ4kYkl4Aqyul6izySeiFzP70N+jlve6LxILRh0KX3BmoQKXjsusShT6kVmg6EiRjtrQ2nWe5uovDb0/6Sq7IDNxEoll98BNsPQ8eFdAFMIfea7g==;oqCBXAZhFe2ZSjzhylUVDg=="

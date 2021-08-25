@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Trump-backed Herschel Walker seeks Georgia Senate seat"
-excerpt: "Herschel Walker on Tuesday filed paperwork to run for U.S. Senate in Georgia after months of speculation, joining other Republicans seeking to unseat Democratic Sen. Raphael Warnock in 2022. Walker, 59,"
-publishedDateTime: 2021-08-25T09:26:00Z
-originalUrl: "https://bangordailynews.com/2021/08/25/national-politics/trump-backed-herschel-walker-seeks-georgia-senate-seat/"
-webUrl: "https://bangordailynews.com/2021/08/25/national-politics/trump-backed-herschel-walker-seeks-georgia-senate-seat/"
+excerpt: "In this May 29, 2018, file photo, President Donald Trump, left, and his daughter Ivanka Trump, right, watch as former football player Herschel Walker,"
+publishedDateTime: 2021-08-25T12:50:00Z
+originalUrl: "https://sacobserver.com/2021/08/trump-backed-herschel-walker-seeks-georgia-senate-seat/"
+webUrl: "https://sacobserver.com/2021/08/trump-backed-herschel-walker-seeks-georgia-senate-seat/"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Bangor Daily News
-  domain: bangordailynews.com
+  name: The Sacramento Observer
+  domain: sacobserver.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/US-Election-2022-Senate-Georgia.jpg"
-    width: 1024
-    height: 683
+  - url: "https://sacobserver.com/wp-content/uploads/2021/08/800-59.jpeg"
+    width: 800
+    height: 533
     isCached: true
 
 related:
@@ -161,6 +161,6 @@ related:
         height: 630
         isCached: true
 
-secured: "3w3DB7FohLgcHsfL3XgvtQFfGHmFy1BS++ZTux5KakYR+ooT0bwx4FjG3kOEAMesAKv7ttm/IhBONE13VbIoJWzdslkDKoC9Poox9RDebwPk6iWIfjwH+tkuRzdf5gH1oSirnOhc8oCaeJv+WAuCxV9sXIxIq7L0qGcI3s26x4XK85ceaLKGcjWU7Vi1FCezazYq+aJVQrkt564LQ8pz+xapPiZHkDadlx/IwtbW9ArArQ/kVj6IbzXuFfZUPGXzNowjOaoIpX/NMPMnWXWrfceFFgjlIFZQhqz4j6grZcXUf9N5kxyzKY8I8aFkhmavptLPp5s7R3KaQnaapSRuSYX49jOyMgKoL91VVbASvmM=;WuQIX6uMskSYTsccU6HWRg=="
+secured: "H9PV38RKcPh3rlXFDi2FLDtjWWh4i8ek2F+JlESy9anTee2XZqAZs4+pMR2I52gzoxnHiVZwxDWUgfRI/0a3JPEx2cvXyIjx2qtMBynpTR8bVS3gu7AYuqzcILaISU/5NC99WBa9w2fvwSnDnExkbSD83JD68Wqf1RM7fHvX76JmGyAq2xlXsQLLDOuH1DyWJmLhIXEmiAlDE7MRPakEslRA7btC5OZG2aDR7VQmtQvVJIg4GHOren3Acc9hKChoQ6seIGask+2IainlKKxIbt8rf0EoHDA5QQhc615Ps+SQPvvG9Y2Z8fcg3LdBC6B36oLybWO2NicZ/138YBkX/spmGjss/OqcoFWR1OeGudc=;Kz0N2HHeLc7NpsYV54O2pg=="
 ---
 
