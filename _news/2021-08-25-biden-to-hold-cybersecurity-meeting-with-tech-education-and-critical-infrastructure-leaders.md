@@ -31,19 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to focus on Covid-19, infrastructure, climate and cybersecurity at Cabinet meeting"
-    excerpt: "President Joe Biden is holding his second full Cabinet meeting on Tuesday to mark six months in office, and is expected to focus the discussion on Covid-19, infrastructure, climate and cybersecurity, a White House official tells CNN.\n    \n"
-    publishedDateTime: 2021-07-20T12:00:00Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RbhedwxEROg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/20/politics/biden-cabinet-meeting/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/biden-cabinet-meeting/index.html"
+  - title: "Biden looks for air-clearing in first meeting with Israel's new leader"
+    excerpt: "When Israel's prime minister visits the White House on Thursday, for the first time in 12 years, it will be someone other than Benjamin Netanyahu.\n    \n"
+    publishedDateTime: 2021-08-25T21:16:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/whe0kR4nQ58/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/25/politics/biden-bennett-israel/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/25/politics/biden-bennett-israel/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210825144206-restricted-split-joe-biden-naftali-bennett-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "President and first lady plan to get their Covid booster shots when eligible, Biden says"
+    excerpt: "President Joe Biden and first lady Jill Biden plan to get Covid-19 vaccine booster shots once they are cleared to take them, the President said in an interview aired Thursday.\n    \n"
+    publishedDateTime: 2021-08-19T13:46:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HIM9WrS2cUI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/bidens-covid-vaccine-booster-shots/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/bidens-covid-vaccine-booster-shots/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 166
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719124237-02-biden-economy-remarks-0719-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210807195408-joe-jill-biden-071821-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

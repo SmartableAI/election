@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-26-joe-biden-taps-milwaukee-mayor-tom-barrett-as-luxembourg-ambassador.md",
+      "title": "Joe Biden taps Milwaukee Mayor Tom Barrett as Luxembourg ambassador",
+      "excerpt": "President Joe Biden has nominated Milwaukee Mayor Tom Barrett to serve as the next U.S. ambassador to Luxembourg. The White House announced the appointment Wednesday. Barrett still needs Senate confirmation to serve,",
+      "sourceUrl": null,
+      "webUrl": "https://www.kenoshanews.com/news/state-and-regional/govt-and-politics/joe-biden-taps-milwaukee-mayor-tom-barrett-as-luxembourg-ambassador/article_c8a34fe8-5ac0-54c8-ac07-8c142555d8fc.html",
+      "originalUrl": "https://www.kenoshanews.com/news/state-and-regional/govt-and-politics/joe-biden-taps-milwaukee-mayor-tom-barrett-as-luxembourg-ambassador/article_c8a34fe8-5ac0-54c8-ac07-8c142555d8fc.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/kenoshanews.com/content/tncms/assets/v3/editorial/0/97/0975b604-fe82-5e6c-a2eb-5fa7f3882723/6126b02dc97ed.image.jpg",
+          "width": 700,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kenoshanews.com/news/state-and-regional/govt-and-politics/joe-biden-taps-milwaukee-mayor-tom-barrett-as-luxembourg-ambassador/article_c8a34fe8-5ac0-54c8-ac07-8c142555d8fc.amp.html",
+      "cdnAmpWebUrl": "https://www-kenoshanews-com.cdn.ampproject.org/c/s/www.kenoshanews.com/news/state-and-regional/govt-and-politics/joe-biden-taps-milwaukee-mayor-tom-barrett-as-luxembourg-ambassador/article_c8a34fe8-5ac0-54c8-ac07-8c142555d8fc.amp.html",
+      "publishedDateTime": "2021-08-25T13:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kenosha News",
+        "domain": "kenoshanews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-26-beto-orourke-pushes-joe-biden-to-help-pass-federal-voting-bill.md",
       "title": "Beto O'Rourke pushes Joe Biden to help pass federal voting bill",
       "excerpt": "Former Congressman Beto O’Rourke is using his political platform to turn up the heat on President Joe Biden on voting rights legislation that is unlikely to pass the U.S. Senate, laying the fate of the legislation squarely at Biden’s feet.",
@@ -1445,49 +1488,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-cherokee-chief-chuck-hoskin-touts-rural-broadband-in-teleconference-with-president-joe-biden.md",
-      "title": "Cherokee Chief Chuck Hoskin touts rural broadband in teleconference with President Joe Biden",
-      "excerpt": "Hoskin said the Cherokee Nation is applying for a federal connectivity grant program that would be expanded under the bill that passed the Senate but still must get through a",
-      "sourceUrl": null,
-      "webUrl": "https://tulsaworld.com/news/state-and-regional/govt-and-politics/cherokee-chief-chuck-hoskin-touts-rural-broadband-in-teleconference-with-president-joe-biden/article_7ef85f06-fab8-11eb-8ba6-eb77f3690d9c.html",
-      "originalUrl": "https://tulsaworld.com/news/state-and-regional/govt-and-politics/cherokee-chief-chuck-hoskin-touts-rural-broadband-in-teleconference-with-president-joe-biden/article_7ef85f06-fab8-11eb-8ba6-eb77f3690d9c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/f/ef/fef397b8-faf2-11eb-89a6-a781dabf88c5/605118c90d55c.image.jpg?resize=1024%2C682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tulsaworld.com/news/state-and-regional/govt-and-politics/cherokee-chief-chuck-hoskin-touts-rural-broadband-in-teleconference-with-president-joe-biden/article_7ef85f06-fab8-11eb-8ba6-eb77f3690d9c.amp.html",
-      "cdnAmpWebUrl": "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/state-and-regional/govt-and-politics/cherokee-chief-chuck-hoskin-touts-rural-broadband-in-teleconference-with-president-joe-biden/article_7ef85f06-fab8-11eb-8ba6-eb77f3690d9c.amp.html",
-      "publishedDateTime": "2021-08-11T15:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tulsa World",
-        "domain": "tulsaworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

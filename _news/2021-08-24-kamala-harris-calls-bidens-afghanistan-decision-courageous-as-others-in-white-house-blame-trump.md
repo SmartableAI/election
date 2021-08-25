@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-biden-afghanistan-dec
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-biden-afghanistan-decision-courageous-trump-blame.amp"
 type: article
 quality: 201
-heat: 2001
+heat: 2021
 published: true
 
 provider:
@@ -141,6 +141,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f9cfaf3-0676-4125-8acf-e0a577bd9ae9/be1741d4-f77e-44b6-93fc-0724d6d85a09/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Psaki grilled about Biden joking in response to Afghanistan question"
+    excerpt: "Fox News’ Peter Doocy held Psaki’s feet to the fire regarding Biden’s latest gaffe where he cracked a joke in response to a reporter’s question on Americans stranded in Afghanistan as the Taliban solidify their hold on the country."
+    publishedDateTime: 2021-08-25T20:25:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/z50nR2ceHV4/psaki-grilled-biden-joking-afghanistan-question"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-grilled-biden-joking-afghanistan-question.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-grilled-biden-joking-afghanistan-question.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1a7681bc-6328-4f29-b286-2c34137c2968/61fa24cf-48b9-4b66-8cc2-8ac469905270/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

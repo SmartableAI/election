@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Storm commemorates 2020 WNBA championship with President Joe Biden at White House"
-excerpt: "President Joe Biden and first lady Jill Biden hosted an entourage led by Storm captains Sue Bird and Breanna Stewart, coach Noelle Quinn and the majority owners Ginny Gilder, Lisa Brummel and Dawn Trudeau."
-publishedDateTime: 2021-08-24T00:56:00Z
-originalUrl: "https://www.seattletimes.com/sports/storm/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/"
-webUrl: "https://www.seattletimes.com/sports/storm/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/"
-ampWebUrl: "https://www.seattletimes.com/sports/storm/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/sports/storm/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/?amp=1"
+excerpt: "Before leaving the nation's capital, the Storm stopped by the White House on Monday, marking a return to normalcy when sports teams regularly received invitations to celebrate championships and their athletic achievements."
+publishedDateTime: 2021-08-23T21:13:00Z
+originalUrl: "https://www.startribune.com/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/600090375/"
+webUrl: "https://www.startribune.com/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/600090375/"
 type: article
 quality: 50
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: StarTribune
+  domain: startribune.com
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1629919521"
+    width: 1680
+    height: 876
+    isCached: true
 
 related:
   - title: "Budget clash pits moderate Democrats against Biden, Pelosi"
@@ -54,6 +58,6 @@ related:
         height: 420
         isCached: true
 
-secured: "nTiBxjV7dr1COCDBoHyvYipnRLjrSiWjN1E/3DFGq8eZEOVhJ+nNJGp7ooeJnrZ9/Lla140C0BNcjnqh7jY65zRMU5Z3EE2jKrpvs35ziWUP/p4kyo54pwhOrE7POWQWgJLJ9FL8blIgkryKSN0o63T1zFgTy4ddlRID277FVWFNoL648nBlEaGLSrM0BkaTpfDrsr7xKNWTGEWE/TxlziL2ZrQ0hsRv2cVORqHVJnSHKvdh3Rt+o/NatXjw1FUWHQ8zQOwINC4Pqv4KYR6Y+WPAAY22iTwx0vjw4OYpdO7R3tAq0BPwxS8XHgYhDcjYktqAatu5N1kv0IZ2LsCM7UO1n81LtIhkZg3Hu3pQWDX/XJgprcylxJ/pUonPzOTrguzTu8W3OSZW5um5gUM1e3JDBOZQ7AeGUzkAVqcwfrdWy/bOOCzS/WEZ6naAOcoBZ6aQwCTtrIxJpkZAYQjOrqe/uUBR74pr9HTFTqP1ZxFrBbLSdPn8KTG2P7Fw+0mKIMSeobLn222RJr2JHZEsyQ==;nQNsromgGxhrGem0xhVdFg=="
+secured: "7VfWjGf29iUN4M+uk9Ex8yXIzhlR6NW9Hld7KBDQPE9lrqfUHU6FZE6llUa/ogPQf/aVhqVNda30bUGyXHGIK3jsuU1F524/VqjlHKx2x0zNEjrCIK5P0ybYVhIBWklaWnE/N5Khk/WVjocNRddWcBXqTWg2EENjxB8reskA4yDXInEaEOSfaMR/yPlHZNf2ZXSQAJ9nMcfoeD0katrpnI6Fznc+ujN6ZiuoSuC+gLWmIWCgeBfIowazKxjqNL3bFzb82fiX+xQJfEww9CqDVcctKkqj1hy9PCPYj3VxwW6uE5MyQ284Fima5Ke4e2/1iD/vMzQZSdoy2QWtNqMfwuwd8HjcHSK9lqK+UvFFmug=;1qnzupovyPtCfacIw0yohw=="
 ---
 

@@ -70,6 +70,20 @@ related:
         width: 1024
         height: 679
         isCached: true
+  - title: "House panel investigating Jan. 6 attack seeks records from agencies on insurrection, Trump in first request for information"
+    excerpt: "The committee demanded materials from the National Archives, four Cabinet departments, the FBI and other agencies."
+    publishedDateTime: 2021-08-25T20:00:00Z
+    webUrl: "https://www.washingtonpost.com/powerpost/january-6-committee-trump/2021/08/25/cd356794-059a-11ec-a654-900a78538242_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 79
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RN7MCKQFXQI6ZJSUSAFHQU4CII.jpg&w=1440"
+        width: 1440
+        height: 975
+        isCached: true
   - title: "James Craig says he’d accept Trump endorsement, doesn’t take position on stolen election claims"
     excerpt: "The former Detroit police chief launched an exploratory campaign committee but has yet to formally start his bid for Michigan governor,"
     publishedDateTime: 2021-08-24T04:51:00Z
