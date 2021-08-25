@@ -2,9 +2,9 @@
 category: news
 title: "Boris Johnson’s Plea to Joe Biden on Afghanistan: Don’t Quit"
 excerpt: "America’s withdrawal strikes Brits and Europeans as cynical and raises questions about whether the West still has a “strategic will.”"
-publishedDateTime: 2021-08-24T06:55:00Z
-originalUrl: "https://www.washingtonpost.com/business/boris-johnsons-plea-to-joe-biden-on-afghanistan-dont-quit/2021/08/24/ff3b9060-04af-11ec-b3c4-c462b1edcfc8_story.html"
-webUrl: "https://www.washingtonpost.com/business/boris-johnsons-plea-to-joe-biden-on-afghanistan-dont-quit/2021/08/24/ff3b9060-04af-11ec-b3c4-c462b1edcfc8_story.html"
+publishedDateTime: 2021-08-24T08:50:00Z
+originalUrl: "https://www.washingtonpost.com/business/boris-johnsons-plea-to-joe-biden-on-afghanistan-dont-quit/2021/08/24/ff3b9060-04af-11ec-b3c4-c462b1edcfc8_story.html?amp;amp"
+webUrl: "https://www.washingtonpost.com/business/boris-johnsons-plea-to-joe-biden-on-afghanistan-dont-quit/2021/08/24/ff3b9060-04af-11ec-b3c4-c462b1edcfc8_story.html?amp;amp"
 type: article
 quality: 105
 heat: -1
@@ -1077,6 +1077,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Joe Biden’s mishandling of Afghanistan has tanked his poll numbers. Is it permanent?"
+    excerpt: "Like Bush’s handling of Katrina, Biden’s handling of the pullout from Afghanistan has looked similarly disastrous, directly undercutting the notion of competent, experienced leadership on the world stage."
+    publishedDateTime: 2021-08-25T16:32:00Z
+    webUrl: "https://bangordailynews.com/2021/08/25/opinion/contributors/joe-bidens-mishandling-of-afghanistan-has-tanked-his-poll-numbers-is-it-permanent/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 48
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/Afghanistan-4.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "‘Everything woke turns to sh*t’: Trump rails on Biden, generals at massive rally for ‘total surrender’ in Afghanistan"
     excerpt: "\"I warned the entire country of the disastrous consequences of a Biden presidency. I understood; a lot of you understood it,\" Trump said."
     publishedDateTime: 2021-08-22T12:05:00Z
@@ -1238,6 +1252,6 @@ related:
         height: 380
         isCached: true
 
-secured: "1+EWS38WDiU1pSqEhm+gTrOiBua9LCCk9fJcjvT7WEHsmUTXggmjzateacwvY/l2KwegZg/kiLPFRmKycrAnLTG51UVuIRbit6vcxmIwG/hBV28f8hwZePb7x2psvjwRo6/0mHkFzyqmlcBXjRxv5FIC3a2d0f0do44wgZOyMUAVPsx8nQ5jSHa0WSPFpbaZSBZ4Chg7wMQfuhkdG7lhHNafmk8z0oakRqtgc2+kcTwWwSBF3s8J9hto0YcerjJ9bm+E8FABlJ2bFlE1hZaseIzswbVVJWHCPQpHhLu88ccfERQ/JHVw3QMEIVx+cS5juUcfUgSyvJV9/7Wxd6ftTCMG5jzshyOGW/quixN7gck=;ZYluVuHuMZqaNx3dClbFQA=="
+secured: "8HKqA8Y7mPB8n99HNRNI13KlapyVhhoTOMehYLGU1K6I5T0ErwL4JTBbkhw1pa7H0xzn+pNRscjD7SCGU36MDkCX2biKxvhmMXmnRtY8bjcp/7z5nt7bavAWk8stWpx+hlxe1zLvKmlghzoELfxdzA3BeiTrO5BXB5Jr50IlGyu9R362LNJBeixy3LfSoil/Ix+r4yl8NjM9/HZH78l6PfL5QYSEKVFufbg5rBvBVUyYYfsAW6rjbmd82jsINXmyJR29BW8oIX418/eXZ1QS+D4GEX8OjmSFZzT2rvUMvuufIwHQhrhHqK3OyYAHP10/3Af40t/Lt70SGU8b/MKMC233Jn2itbAsXGFIAC3QqSM=;QfJYE8VjtpmxZ+MFq7wFcQ=="
 ---
 

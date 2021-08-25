@@ -91,6 +91,22 @@ related:
         width: 1310
         height: 732
         isCached: true
+  - title: "Alabama loves COVID more than Trump"
+    excerpt: "Trump can still shoot a man anywhere in Alabama and get away with it - as long as he doesn’t try to vaccinate him."
+    publishedDateTime: 2021-08-25T17:39:00Z
+    webUrl: "https://www.al.com/news/2021/08/alabama-loves-covid-more-than-trump.html"
+    ampWebUrl: "https://www.al.com/news/2021/08/alabama-loves-covid-more-than-trump.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/08/alabama-loves-covid-more-than-trump.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/YQLLCJRAGBGT7F2Y32SKLXU5MA.jpg"
+        width: 1400
+        height: 1096
+        isCached: true
   - title: "Trump border wall damaged by heavy flooding"
     excerpt: "Severe weather in southern Arizona appears to have damaged parts of the border wall erected by the Trump A The Tucson Sentinel reports that U.S. Customs and Border Protection agents have confirmed “historic” flooding at the nation’s border with Mexico is to blame for the destruction."
     publishedDateTime: 2021-08-23T16:49:00Z
@@ -118,6 +134,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/csindy.com/content/tncms/assets/v3/editorial/4/06/406910d6-f9f2-11ea-9561-0fd5a9010cf9/5f65209256b5d.image.jpg?resize=945%2C630"
         width: 945
         height: 630
+        isCached: true
+  - title: "Jan. 6 Select Committee Probe Expands To Trump And Top Officials In A Wave Of Demands"
+    excerpt: "The House select committee investigating the Jan. 6 attack on the Capitol issued a wave of record requests to eight federal agencies, including any communications by Rudy Giuliani and Ivanka Trump."
+    publishedDateTime: 2021-08-25T17:58:00Z
+    webUrl: "https://www.northcountrypublicradio.org/news/npr/1030933461/jan-6-select-committee-probe-expands-to-trump-and-top-officials-in-a-wave-of-demands"
+    type: article
+    provider:
+      name: Northcountrypublicradio.org
+      domain: northcountrypublicradio.org
+    quality: 48
+    images:
+      - url: "https://media.npr.org/assets/img/2021/08/25/gettyimages-1330947538-edit-b04575ed0c9fb7ac494174c73a19bee1f6e7a554.jpg?s=6"
+        width: 948
+        height: 710
         isCached: true
 
 secured: "H5OD0jEeD0ekRvPpdJpctYZs8EaZPYy4KNDtYELbZ+cUVH7BSos9qvuAAkkZTuSSvJjlibwZk8/1auQRYiEj42BoDA6qMccrTI24rCKahNhR5zTXYa8ujVEDByQfm1nHv8HfNgD++z9PQc9D2UMz3U1wL0ertZQZPMEre+AgNEazH7OwV3p/EnVambg0n7w/zXHN2olO/a8d+aR3lkFdrg4K8lSFUefBSRknKgkc1cwparGaYORdpV6ACh+6XOgqI06zouHkUUQZFvl3RvqSYFH9dJTTFdg0PgWsAlLjbSibMj0s+B84XsTghdzQKZl/VyoFA8VNyrngKJRyZPtwgR2aypStKeoiSvuPxdcLv/eIUhhdxcC4E3ljNi6IK8plyUJQd7tZ142c7rmvPeyqqZ8WbtBQOZ+hR3Jq7S/VfUnEKavyoHgUPNFPUq3purVhIzJKIWCnwgKybb2SZpBwvrj4hgErT5regR99LqJsDn41/C7QrRres+huE+jmixkbImngUbZX5vE5vYjYSmTyyA==;R6tCja/2auM5MeWLhguXJw=="

@@ -47,22 +47,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Biden falsely claims the US does not have troops in Syria"
-    excerpt: "President Biden falsely claimed that the U.S. doesn’t have military deployed to Syria during an interview with ABC News’ George Stephanopoulos Wednesday night, his first TV interview since the Taliban’s rapid takeover of Afghanistan."
-    publishedDateTime: 2021-08-19T16:15:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qYnzADZMBx8/biden-falsely-claims-us-troops-syria"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-falsely-claims-us-troops-syria.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-falsely-claims-us-troops-syria.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d6d99fb0-6035-4468-a152-0abd741ce1dc/8fdfd954-9afd-45d9-81fc-0a4ad73f7169/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "White House defends helicopter evacuation from US Embassy after Biden said it wouldn't happen"
     excerpt: "The White House defended the helicopter evacuation from the U.S. Embassy in Kabul Monday after President Biden said last week there would be \"no circumstance\" in Afghanistan that would call for that method of removal for U.S. officials. "
     publishedDateTime: 2021-08-16T17:17:17Z

@@ -31,95 +31,22 @@ images:
     isCached: true
 
 related:
-  - title: "Biden adviser Anita Dunn leaves the White House"
-    excerpt: "Top Biden adviser Anita Dunn is leaving her position at the White House"
-    publishedDateTime: 2021-08-13T01:03:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RZdpDdqjgVU/biden-adviser-anita-dunn-leaves-white-house"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-adviser-anita-dunn-leaves-white-house.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-adviser-anita-dunn-leaves-white-house.amp"
+  - title: "Biden ally claims Trump greater 'threat' to US than al Qaeda"
+    excerpt: "A Democratic insider and vocal ally of President Biden claimed last week that former President Trump and his “Trumpist” supporters are a bigger threat to the United States than the Taliban and al Qaeda fighters."
+    publishedDateTime: 2021-08-25T16:04:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oGIOCzBQ88A/biden-ally-trump-more-dangerous-taliban-al-qaeda"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-ally-trump-more-dangerous-taliban-al-qaeda.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ally-trump-more-dangerous-taliban-al-qaeda.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 190
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3bd93983-0d45-4518-a3ae-8fdf28291a81/f1d5bc39-6a20-418b-8eab-9e12b6cdc361/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c34b2f4d-518c-4bf2-84bd-016180d30cf8/77b6a3b5-56bf-4b2d-9c4e-e0e7cc4b07a2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Biden gaffe: President calls Michigan’s Whitmer ‘Jennifer’ at White House event, report says"
-    excerpt: "In 2020, when Joe Biden was running for president, Michigan Gov. Gretchen Whitmer was reportedly close to becoming Biden’s running mate. On Wednesday, Biden couldn’t remember her name."
-    publishedDateTime: 2021-08-12T07:45:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xQ00F6eXVLs/biden-gaffe-president-calls-michigans-whitmer-jennifer-at-white-house-event-report-says"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-gaffe-president-calls-michigans-whitmer-jennifer-at-white-house-event-report-says.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gaffe-president-calls-michigans-whitmer-jennifer-at-white-house-event-report-says.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/154ef32b-53ec-461f-ae3f-aa7902c7de9a/6687b9fd-8827-4f75-b7e3-2d270e06ce07/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "White House defends helicopter evacuation from US Embassy after Biden said it wouldn't happen"
-    excerpt: "The White House defended the helicopter evacuation from the U.S. Embassy in Kabul Monday after President Biden said last week there would be \"no circumstance\" in Afghanistan that would call for that method of removal for U.S. officials. "
-    publishedDateTime: 2021-08-16T17:17:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y2E7oN4wT3k/white-house-defends-helicopter-evacuation-us-embassy-biden-prediction"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-defends-helicopter-evacuation-us-embassy-biden-prediction.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-defends-helicopter-evacuation-us-embassy-biden-prediction.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Abbott rips White House, says Texas can help with oil production if Biden admin will 'stay out of the way'"
-    excerpt: "Abbott posted a short open letter to the White House on Twitter Wednesday, touting that Texas could help bring down the price of gas by producing oil domestically."
-    publishedDateTime: 2021-08-12T15:26:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AOQP8bw4VH0/greg-abbott-biden-white-house-texas-oil"
-    ampWebUrl: "https://www.foxnews.com/politics/greg-abbott-biden-white-house-texas-oil.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/greg-abbott-biden-white-house-texas-oil.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/01fab2ef-1bd8-4397-b573-43bdba5a9177/5b42b959-194a-4246-9d3f-fb1ea3a034c1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "CNN anchor praises Biden adviser Anita Dunn as a 'bada--' trailblazer"
-    excerpt: "CNN's Dana Bash called White House adviser Anita Dunn as a \"trailblazing\" and \"badass\" woman of Washington in her continuing Badass Women of Washington series."
-    publishedDateTime: 2021-08-08T21:40:00Z
-    webUrl: "https://www.foxnews.com/media/cnn-praises-anita-dunn-as-a-bada-trailblazer"
-    ampWebUrl: "https://www.foxnews.com/media/cnn-praises-anita-dunn-as-a-bada-trailblazer.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-praises-anita-dunn-as-a-bada-trailblazer.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/402fd5d2-59ec-48df-9708-940138d5ec89/67f32827-ee50-4b97-9c0e-47148a82b3ce/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "6 Things Biden Could Do About Covid If He Is Serious"
-    excerpt: "Here's what Joe Biden should do if he is actually serious about handling the pandemic and not just playing politics. Read Full Article »"
-    publishedDateTime: 2021-08-08T19:31:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/08/08/6_things_biden_could_do_about_covid_if_he_is_serious_548998.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "9jjwBMG8coUCCjoYZENoBoDiFyKjFT6z1sEFcffJFGj5ma+jynOCIzG8U4KAaSgCMRhQO9p+rYe2UsR3x4wJ3wk5NutGf/NDPgHN1LRWwFM3IFNFi0QvSRjiifmwNmuPtnuu00sSapCSo4wyTcJkOdaWeqJy7/rwR9TQjEC2hguTBXWsNyr9PyRgXZ80l1+cz0vi/Cn7cyLzf7nihCd4+sJiSNG8BTjD87ouM0do7oKp7ChiwylXhBxZJeJt8Eo9oesiVkWxP94cKFPZswTId1IzjyRKJgUquFAcawtl5N/l8THfkhCiAqfWABo5OAg/CfDsNAH/nBxTVo7H85ez5MukdDhDPRxi3Ot4lll6hKo=;MAziz2xvziaMYv/dtk3zRQ=="
 ---

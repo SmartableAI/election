@@ -299,8 +299,8 @@ related:
         isCached: true
   - title: "Boris Johnson’s Plea to Joe Biden on Afghanistan: Don’t Quit"
     excerpt: "America’s withdrawal strikes Brits and Europeans as cynical and raises questions about whether the West still has a “strategic will.”"
-    publishedDateTime: 2021-08-24T06:55:00Z
-    webUrl: "https://www.washingtonpost.com/business/boris-johnsons-plea-to-joe-biden-on-afghanistan-dont-quit/2021/08/24/ff3b9060-04af-11ec-b3c4-c462b1edcfc8_story.html"
+    publishedDateTime: 2021-08-24T08:50:00Z
+    webUrl: "https://www.washingtonpost.com/business/boris-johnsons-plea-to-joe-biden-on-afghanistan-dont-quit/2021/08/24/ff3b9060-04af-11ec-b3c4-c462b1edcfc8_story.html?amp;amp"
     type: article
     provider:
       name: Washington Post
@@ -1076,6 +1076,20 @@ related:
       - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/D-_Users_CHooper1_Desktop_PSD-COMPS_COMP-CH-TWIN-BONGINO.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Joe Biden’s mishandling of Afghanistan has tanked his poll numbers. Is it permanent?"
+    excerpt: "Like Bush’s handling of Katrina, Biden’s handling of the pullout from Afghanistan has looked similarly disastrous, directly undercutting the notion of competent, experienced leadership on the world stage."
+    publishedDateTime: 2021-08-25T16:32:00Z
+    webUrl: "https://bangordailynews.com/2021/08/25/opinion/contributors/joe-bidens-mishandling-of-afghanistan-has-tanked-his-poll-numbers-is-it-permanent/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 48
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/Afghanistan-4.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "‘Everything woke turns to sh*t’: Trump rails on Biden, generals at massive rally for ‘total surrender’ in Afghanistan"
     excerpt: "\"I warned the entire country of the disastrous consequences of a Biden presidency. I understood; a lot of you understood it,\" Trump said."

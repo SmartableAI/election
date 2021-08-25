@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-07-13-biden-picks-ex-west-virginia-health-official-as-drug-czar.md",
-      "title": "Biden picks ex-West Virginia health official as drug czar",
-      "excerpt": "President Joe Biden is nominating West Virginia’s former health commissioner as the nation’s top anti-drug official, tapping a doctor who served on the front lines of the nation’s opioid epidemic",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Health/wireStory/biden-picks-west-virginia-health-official-drug-czar-78819767",
-      "originalUrl": "https://abcnews.go.com/Health/wireStory/biden-picks-west-virginia-health-official-drug-czar-78819767",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Health/WireAP_ab2635fea2e7416f85855677db0fc6c4_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/biden-picks-west-virginia-health-official-drug-czar-78819767",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-picks-west-virginia-health-official-drug-czar-78819767",
-      "publishedDateTime": "2021-07-13T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-07-13-what-will-president-biden-do-about-cuba-20m-pumped-into-sports-betting-push-florida-gop-dominates-again-in-raising-money.md",
       "title": "What will President Biden do about Cuba? — $20M pumped into sports betting push — Florida GOP dominates again in raising money",
       "excerpt": "Next steps — What will President Joe Biden do about Cuba? That mystery really wasn’t solved on Monday at the White House. Cautious — As reports of a second day of protests took place on the island nation,",
@@ -1528,6 +1476,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-03-biden-administration-freezes-us-assets-of-22-myanmar-senior-officials-family-members.md",
+      "title": "Biden Administration Freezes U.S. Assets of 22 Myanmar Senior Officials, Family Members",
+      "excerpt": "\"The military's suppression of democracy and campaign of brutal violence against the people of Burma are unacceptable,\" said the Treasury Department in announcing the sanctions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/biden-administration-freezes-us-assets-22-myanmar-senior-officials-family-members-1606536",
+      "originalUrl": "https://www.newsweek.com/biden-administration-freezes-us-assets-22-myanmar-senior-officials-family-members-1606536",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1836923/us-president-joe-biden.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/biden-administration-freezes-us-assets-22-myanmar-senior-officials-family-members-1606536?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-administration-freezes-us-assets-22-myanmar-senior-officials-family-members-1606536?amp=1",
+      "publishedDateTime": "2021-07-02T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

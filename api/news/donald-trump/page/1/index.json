@@ -205,7 +205,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-claims-biden-bringing-afghan-terrorists-to-the-us-2021-8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1793,
+      "heat": 1813,
       "tags": null,
       "images": [
         {
@@ -229,6 +229,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-jack-nicklaus-on-his-donald-trump-endorsement-tigers-future-and-a-pickleball-injury.md",
+      "title": "Jack Nicklaus on his Donald Trump endorsement, Tiger’s future — and a pickleball injury",
+      "excerpt": "Legendary golfer, whose travels have been limited by the pandemic, expounds on recent topics at a charity stop in Virginia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/sports/2021/08/24/jack-nicklaus-donald-trump-tiger-woods-injury/",
+      "originalUrl": "https://www.washingtonpost.com/sports/2021/08/24/jack-nicklaus-donald-trump-tiger-woods-injury/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MXZHE4WDBBBSTPMV6SNG2KS674&w=1440",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-24T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1172,7 +1224,7 @@
       "originalUrl": "https://www.newsweek.com/alan-dershowitz-says-donald-trump-ties-have-lost-him-many-friends-larry-david-1621399",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1397,63 +1449,6 @@
         "name": "New York Post",
         "domain": "nypost.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-vivek-ramaswamy-blasts-twitters-staggering-hypocrisy-on-taliban-and-trump.md",
-      "title": "Vivek Ramaswamy blasts Twitter's 'staggering' hypocrisy on Taliban and Trump",
-      "excerpt": "Biotech CEO and ‘Woke Inc.’ author Vivek Ramaswamy criticized Twitter on Tuesday for allowing the Taliban to utilize their social media platform while censoring others, including former President Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/vivek-ramaswamy-twitter-taliban-afghanistan-big-tech",
-      "originalUrl": "https://www.foxnews.com/media/vivek-ramaswamy-twitter-taliban-afghanistan-big-tech",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/vivek-ramaswamy-twitter-taliban-afghanistan-big-tech.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/vivek-ramaswamy-twitter-taliban-afghanistan-big-tech.amp",
-      "publishedDateTime": "2021-08-17T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

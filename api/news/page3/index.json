@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-21-west-virginia-ag-sues-biden-admin-over-border-policy-reversal-tied-to-devastating-fentanyl-flow.md",
+      "title": "West Virginia AG sues Biden admin over border policy reversal tied to ‘devastating’ fentanyl flow",
+      "excerpt": "West Virginia Attorney General Patrick Morrisey is suing the Biden administration over a key immigration policy reversal he says has fueled a \"devastating\" flow in the deadly drug fentanyl.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/npPxVxOGCok/west-virginia-ag-sues-biden-admin-border-policy-reversal-fentanyl-flow",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/npPxVxOGCok/west-virginia-ag-sues-biden-admin-border-policy-reversal-fentanyl-flow",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e49d999-9f92-4efd-9c58-05c385460bbe/0a6e795f-feac-429f-bb80-82dff9edf5b3/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/west-virginia-ag-sues-biden-admin-border-policy-reversal-fentanyl-flow.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/west-virginia-ag-sues-biden-admin-border-policy-reversal-fentanyl-flow.amp",
+      "publishedDateTime": "2021-08-21T14:09:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-22-former-pence-aide-says-trump-and-miller-stymied-afghan-refugee-efforts.md",
       "title": "Former Pence aide says Trump and Miller stymied Afghan refugee efforts.",
       "excerpt": "Olivia Troye recalled sitting in meetings where Stephen Miller, Mr. Trump’s top immigration adviser, demanded restrictions on refugees, including those from Afghanistan and Iraq.",
@@ -409,7 +465,7 @@
       "originalUrl": "https://www.newsweek.com/alan-dershowitz-says-donald-trump-ties-have-lost-him-many-friends-larry-david-1621399",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1219,62 +1275,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-pelosi-top-house-dems-wont-budge-in-infrastructure-tussle-with-moderates-tout-biden-support-for-her-rule.md",
-      "title": "Pelosi, top House Dems won't budge in infrastructure tussle with moderates, tout Biden support for her 'rule'",
-      "excerpt": "House Speaker Nancy Pelosi and her leadership team are mounting a pressure campaign on centrist Democrats to get them to support their party's budget resolution without a vote on the bipartisan infrastructure bill.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bn7C-UsrZ6g/pelosi-house-moderates-biden-infrastructure-budget-resolution-rule-democrats",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bn7C-UsrZ6g/pelosi-house-moderates-biden-infrastructure-budget-resolution-rule-democrats",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-house-moderates-biden-infrastructure-budget-resolution-rule-democrats.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-house-moderates-biden-infrastructure-budget-resolution-rule-democrats.amp",
-      "publishedDateTime": "2021-08-18T06:29:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

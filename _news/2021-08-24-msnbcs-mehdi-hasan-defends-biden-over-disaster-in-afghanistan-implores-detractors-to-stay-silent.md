@@ -160,6 +160,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "White House in chaos struggles to keep Biden on time"
+    excerpt: "President Biden is struggling to provide a message of strength and confidence amid international scorn and uncertainty over his handling of the U.S. military drawdown in Afghanistan – showing up late to speeches, refusing to answer reporters’ questions, and largely avoiding the White House press corps"
+    publishedDateTime: 2021-08-25T17:06:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vu73N5O72Q0/white-house-chaos-biden-on-time"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-chaos-biden-on-time.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-chaos-biden-on-time.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c34d2f77-c4eb-4d87-93e6-b2ebec504b48/8b054ece-190e-4f4d-b3ec-9d31dae90b4f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "North Carolina billboard skewers Biden for botched Afghanistan withdrawal"
     excerpt: "A billboard in Wilmington, North Carolina, skewered Biden for his botched withdrawal from Afghanistan that saw the Taliban take over the country and stranded thousands of Americans."
     publishedDateTime: 2021-08-18T14:57:33Z
