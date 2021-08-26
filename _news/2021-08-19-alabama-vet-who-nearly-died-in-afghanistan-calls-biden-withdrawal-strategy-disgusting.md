@@ -447,6 +447,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Pelosi and House ditch town as Biden deals with Afghanistan evacuation, terror threat"
+    excerpt: "The House addressed some of Democrats' expensivee domestic agenda items this week, but not the crisis in Afghanistan."
+    publishedDateTime: 2021-08-26T13:51:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XeZ0gJAlsJ8/house-afghanistan-pelosi-biden-terror"
+    ampWebUrl: "https://www.foxnews.com/politics/house-afghanistan-pelosi-biden-terror.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-afghanistan-pelosi-biden-terror.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Sen. Ron Johnson slams Biden 'disaster' in Afghanistan: 'It didn't have to go this way'"
     excerpt: "Sen. Ron Johnson slammed President Joe Biden’s Friday remarks on the evacuation of Americans from Afghanistan referring to the unfolding chaos in the Middle East a “disaster.”"
     publishedDateTime: 2021-08-20T22:49:31Z

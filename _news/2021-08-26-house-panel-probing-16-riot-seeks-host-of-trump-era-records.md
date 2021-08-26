@@ -1,24 +1,30 @@
 ---
 category: news
 title: "House panel probing 1/6 riot seeks host of Trump-era records"
-excerpt: "The House committee investigating the January insurrection at the U.S. Capitol is demanding a trove of records from federal intelligence and law enforcement agencies"
-publishedDateTime: 2021-08-26T10:09:00Z
-originalUrl: "https://www.seattletimes.com/nation-world/house-panel-probing-1-6-riot-seeks-host-of-trump-era-records-2/"
-webUrl: "https://www.seattletimes.com/nation-world/house-panel-probing-1-6-riot-seeks-host-of-trump-era-records-2/"
-ampWebUrl: "https://www.seattletimes.com/nation-world/house-panel-probing-1-6-riot-seeks-host-of-trump-era-records-2/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/house-panel-probing-1-6-riot-seeks-host-of-trump-era-records-2/?amp=1"
+excerpt: "The House committee investigating the January insurrection at the U.S. Capitol is demanding a trove of records from federal intelligence and law enforcement agencies, showing the sweep of the lawmakers' review of the deadly attack by a mob of Donald Trump supporters."
+publishedDateTime: 2021-08-26T11:57:00Z
+originalUrl: "https://www.mrt.com/news/article/House-panel-probing-1-6-riot-seeks-host-of-16412712.php"
+webUrl: "https://www.mrt.com/news/article/House-panel-probing-1-6-riot-seeks-host-of-16412712.php"
+ampWebUrl: "https://www.mrt.com/news/amp/House-panel-probing-1-6-riot-seeks-host-of-16412712.php"
+cdnAmpWebUrl: "https://www-mrt-com.cdn.ampproject.org/c/s/www.mrt.com/news/amp/House-panel-probing-1-6-riot-seeks-host-of-16412712.php"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Midland Reporter-Telegram
+  domain: mrt.com
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
 
 related:
   - title: "Apple joins lawsuit regarding Trump-era tariffs on Chinese products"
@@ -98,6 +104,6 @@ related:
         height: 584
         isCached: true
 
-secured: "H6cLciTvhEWcSb+ul+U+3wx06oiNpV64bIIy9DqXqRAStinex0jmmjnwkkod6dNCIzmjxiUECZxR5SfNi7EhTH26AHQx82YSlPKc068OYmQcsynXR7uYzmZAyYKXxQKS17L01NVNESx7+HvMi3ABFusNZT+q5p7DSuLWefo+5BXkrlZXbdfQWGVypU3zn41e8KRGVt43k3jMpWRJydwQQ59bTATZDOWHMrVtX+gyiAVrGmxuzLx5X2SueGxD6jIcSzMlk0jvQAs8bvEcx1b8U6YfNUhiRbpVAAPP28OC0OK5xRUf/F6UxkDM6sh9Bf7aBzfkCXIImf809QSu1uhVWUXQFlvEJxl0Qd9eXOSQaXSOSr5thePiyIbnevLJkmRBltKU6SaZHsqdUfIZOAi2iD6E8faD6S3cz/I42/JFG7wl0LHdPOt2if/c+1Y+wwJQd7yoqHxtdPn7LZfoPTYySB1exlIPRyT8AVOuDJi+KFjW6zidhcQjfkqS5ogB7UtgdDkjlgF0CBZL2iqSdug0xQ==;VEgBboznLNuLojZ4P7vMVg=="
+secured: "AQzLFQo2/KdDmPn7PGcupZBjmfMbBBlw+unefSH+ZMITLPBzGOudIn00CWKuK1/v1nc0DaM9pkmSAGRVhxpqXv8DgZ/Fg26aC5GkGf6cvTpCCcsnamPF3LXVHPs6Z21NL1N3TBd+ZcCojyq7c4lRas4CbtJw3d3p2YGruBpvIERLXD4tT3ZjzaZKP7vWwxYb7lwlp9BeUEHQaKzVE6IjCzU5kAb58sf4Q8e9DrQcSy2NgoBHJKBaHyHNkVJolT8mDrsRSvqbK2XtMt5kcxpdtogwLlGShKbP/h4hjX7u3Zgm9tPOcqnxAJ7mPG4kkad8WjkZ4N7A51xOKRfCzk5qkfLDcI67eqsJB1iq0qS6cr8=;bv11GfvxipgAOpk4zitvfg=="
 ---
 

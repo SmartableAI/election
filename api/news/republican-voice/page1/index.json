@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-26-obama-ethics-chief-blasts-hunter-bidens-art-scheme-as-absolutely-appalling.md",
+      "title": "Obama ethics chief blasts Hunter Biden's art scheme as 'absolutely appalling'",
+      "excerpt": "Former President Obama's ethics chief on Wednesday ripped the Biden White House for brokering a deal last month so that Hunter Biden, and the American public at large, would never know who was buying his paintings.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/V3oM6NZP-js/obama-ethics-chief-hunter-biden-art-scheme",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/V3oM6NZP-js/obama-ethics-chief-hunter-biden-art-scheme",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 192,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a5caf11-1d33-4ad9-8839-db1bd23329a8/06238ea1-d906-4d1f-8726-d9a8c455a054/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/obama-ethics-chief-hunter-biden-art-scheme.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-ethics-chief-hunter-biden-art-scheme.amp",
+      "publishedDateTime": "2021-08-26T05:05:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-mccarthy-says-biden-is-leaving-us-hostages-for-the-taliban-he-turned-his-back-on-our-own-citizens.md",
       "title": "McCarthy says Biden is leaving US hostages for the Taliban: 'He turned his back on our own citizens'",
       "excerpt": "House Minority Leader Kevin McCarthy blasted President Biden for sticking to an Aug. 31 withdrawal deadline from Afghanistan and said \"thousands of Americans\" could be left stranded in the Taliban-controlled country as a result.",
@@ -286,7 +342,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 2121,
+      "heat": 2141,
       "tags": null,
       "images": [
         {
@@ -447,7 +503,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 405,
+      "heat": 425,
       "tags": null,
       "images": [
         {
@@ -1600,62 +1656,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-trump-ally-in-georgia-running-for-lieutenant-governor-vows-to-expose-all-voter-fraud.md",
-      "title": "Trump ally in Georgia running for lieutenant governor vows to 'expose all voter fraud'",
-      "excerpt": "A state senator in Georgia who’s a strong supporter of former President Trump is vowing to \"investigate and expose all voter fraud\" as he runs next year for lieutenant governor.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z1KXyAFdmwc/trump-ally-georgia-lieutenant-governor-voter-fraud",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z1KXyAFdmwc/trump-ally-georgia-lieutenant-governor-voter-fraud",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-ally-georgia-lieutenant-governor-voter-fraud.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-ally-georgia-lieutenant-governor-voter-fraud.amp",
-      "publishedDateTime": "2021-08-16T04:02:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

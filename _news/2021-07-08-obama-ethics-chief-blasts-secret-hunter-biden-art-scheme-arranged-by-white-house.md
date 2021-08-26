@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/obama-ethics-chief-hunter-biden-art
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-ethics-chief-hunter-biden-art-deal-secret.amp"
 type: article
 quality: 170
-heat: 230
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,51 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Obama ethics chief blasts Biden WH 'blind spot' over Hunter Biden meeting with potential art buyers"
-    excerpt: "The younger Biden will be attending the small LA shows before a larger New York City exhibition of art at his promoter Georges Berges’ gallery."
-    publishedDateTime: 2021-07-22T16:49:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HfQFH4Njes8/hunter-biden-attending-art-shows"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-attending-art-shows.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-attending-art-shows.amp"
+  - title: "Obama ethics chief blasts Hunter Biden's art scheme as 'absolutely appalling'"
+    excerpt: "Former President Obama's ethics chief on Wednesday ripped the Biden White House for brokering a deal last month so that Hunter Biden, and the American public at large, would never know who was buying his paintings."
+    publishedDateTime: 2021-08-26T12:05:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/V3oM6NZP-js/obama-ethics-chief-hunter-biden-art-scheme"
+    ampWebUrl: "https://www.foxnews.com/politics/obama-ethics-chief-hunter-biden-art-scheme.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-ethics-chief-hunter-biden-art-scheme.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 172
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/126c9819-8d0a-4ed3-93c2-92db2694a67e/ff2a850f-4b38-400e-9564-ab1439b2cf08/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "White House defends Hunter Biden's art selling scheme: 'He has the right to pursue an artistic career'"
-    excerpt: "The White House Friday defended a deal it brokered to allow Hunter Biden's artwork, which could be listed as high as $500,000 each, to sell to anonymous buyers and with no disclosure to the public. "
-    publishedDateTime: 2021-07-09T20:44:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7PCSay9YEG4/white-house-defends-hunter-biden-art-selling-scheme"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-defends-hunter-biden-art-selling-scheme.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-defends-hunter-biden-art-selling-scheme.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 159
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Obama’s ex-White House ethics chief calls Biden artwork arrangement 'perfect mechanism for funneling bribes'"
-    excerpt: "Former President Barack Obama’s ethics chief Walter Shaub is slamming a White House arrangement that would allow the president’s son Hunter Biden to sell his expensive artwork to anonymous buyers and with no disclosure to the public – a deal Shaub derided as a “perfect mechanism for funneling bribes.”"
-    publishedDateTime: 2021-07-11T19:55:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RW0bI9x-iks/obamas-ex-white-house-ethics-chief-biden-artwork-arrangement-perfect-mechanism-funneling-bribes"
-    ampWebUrl: "https://www.foxnews.com/politics/obamas-ex-white-house-ethics-chief-biden-artwork-arrangement-perfect-mechanism-funneling-bribes.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obamas-ex-white-house-ethics-chief-biden-artwork-arrangement-perfect-mechanism-funneling-bribes.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 156
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6392f7d5-c98c-41de-87e0-4947394a8979/f239cbf2-bd10-41c2-9fcb-b6eb103c930c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a5caf11-1d33-4ad9-8839-db1bd23329a8/06238ea1-d906-4d1f-8726-d9a8c455a054/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

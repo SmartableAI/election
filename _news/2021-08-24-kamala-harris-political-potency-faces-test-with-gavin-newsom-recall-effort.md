@@ -186,6 +186,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Meghan McCain shades Kamala Harris over John McCain memorial visit: 'If you want to honor my dads legacy ... '"
+    excerpt: "Meghan McCain shaded Vice President Kamala Harris on Wednesday, hours after Harris paid her respects at a Hanoi, Vietnam, memorial to McCain's father, the late U.S. Sen. John McCain, three years after the senator's death."
+    publishedDateTime: 2021-08-26T05:44:00Z
+    webUrl: "https://www.foxnews.com/media/meghan-mccain-kamala-harris-john-mccain-memorial-hanoi"
+    ampWebUrl: "https://www.foxnews.com/media/meghan-mccain-kamala-harris-john-mccain-memorial-hanoi.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/meghan-mccain-kamala-harris-john-mccain-memorial-hanoi.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ade3c3e8-b310-491d-93bc-0fb2bf926352/a1d10e54-a2ea-488c-a581-d47216f33613/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "VP Kamala Harris: If You Want To Have Christmas Gifts For Your Children Now Is The Time To Start Buying"
     excerpt: "MAIL: Kamala Harris in Singapore delivered what was billed as a major foreign policy speech, but failed to mention Afghanistan. Instead, while holding a roundtable with business leaders, she mentioned climate change and the threat to on-time delivery of Christmas presents due to the pandemic."
     publishedDateTime: 2021-08-24T00:00:00Z

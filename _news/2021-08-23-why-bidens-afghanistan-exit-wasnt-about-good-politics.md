@@ -1097,6 +1097,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Marco Rubio slams ‘out of touch’ Joe Biden as Afghanistan ‘catastrophe’ continues"
+    excerpt: "Marco Rubio continued to characterize the Afghanistan endgame as “one of the worst catastrophes” in American history. Rubio took to Fox News Tuesday night and again Wednesday morning, describing President Joe Biden as “oblivious” and saying the deadline to get people out of the “chaos” of the Hamid Karzai airport was not the end of the month,"
+    publishedDateTime: 2021-08-25T14:30:00Z
+    webUrl: "https://floridapolitics.com/archives/452872-marco-rubio-slams-out-of-touch-joe-biden-as-afghanistan-catastrophe-continues/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 50
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/08/Marco-Rubio-scaled.jpg"
+        width: 2560
+        height: 1920
+        isCached: true
   - title: "Joe Biden’s mishandling of Afghanistan has tanked his poll numbers. Is it permanent?"
     excerpt: "Like Bush’s handling of Katrina, Biden’s handling of the pullout from Afghanistan has looked similarly disastrous, directly undercutting the notion of competent, experienced leadership on the world stage."
     publishedDateTime: 2021-08-25T16:32:00Z

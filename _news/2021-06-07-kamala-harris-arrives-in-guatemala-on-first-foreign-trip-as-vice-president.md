@@ -176,6 +176,22 @@ related:
         width: 2320
         height: 1546
         isCached: true
+  - title: "Kamala Harris, in Southeast Asia and in Uniform"
+    excerpt: "And yet Kamala Harris’s recent trip to Southeast Asia, which came to an end on Aug. 26, was notable in part because of how much the focus was on what she said and how little extraneous commentary it generated;"
+    publishedDateTime: 2021-08-26T07:00:00Z
+    webUrl: "https://www.nytimes.com/2021/08/26/style/kamala-harris-vietnam-singapore-image.html"
+    ampWebUrl: "https://www.nytimes.com/2021/08/26/style/kamala-harris-vietnam-singapore-image.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/26/style/kamala-harris-vietnam-singapore-image.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/08/26/fashion/26kamala-overseas-1/26kamala-overseas-1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "Qykpur6NfFXgsPz9sF+t6XUwvPr3aVYR/fSUj23pqCzl95ra/oVmZFGKqObKwqBwVaxGrr0m2/dwIcS7hp/wcxkPgK+gSRCcnka+WWtxuMNYiFrTmkOOAU9k0o2+2kx3gotbMrBMD7sjMa+mqR/U8chB2jT/Qs9b7JUuCcxGtvKv5t19xn06fCqJbjn8HlIU+a5CF3tZOivS1NrAkFS2Islg1D1ZE3zg9ZenxBmqzoCtYM639aI5xAGFQ4Oe82Iv3hNdpPSRb2xGdYarcCm0VLEhSp+pK4B6FS0dnK2zoF6SQPa/4zxlu02k5qkh6qlu6AoiARK38FhmkfJ8FGFFdKGDoNlScOJnRmZIhuJ5arpz0zyPioRp4YvEBe4JwlC/sxsJkNju39NpDq9lek+ESZIvOwriy6ha8G9xZgOcNNZCr2otW5YbJGtqIsOMbLLHO++ZgaZmXLbhtHnKqn8VL/QzAcKpHwdclUeMhmOcMlXqI1AHOJ2F4ypKmR+5k2qtEeqEr/cs/P1+xaTemjM5Xg==;nV6xE6B8Z8O4IUEIeM2mgg=="
 ---

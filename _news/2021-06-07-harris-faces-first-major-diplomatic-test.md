@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/07/politics/kamala-harris-diplomatic
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/kamala-harris-diplomatic-test/index.html"
 type: article
 quality: 185
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -159,6 +159,22 @@ related:
       - url: "https://static.politico.com/c7/7b/94eb81604a6988583da0d6a5ce75/kamala-final-revised.png"
         width: 2320
         height: 1546
+        isCached: true
+  - title: "Kamala Harris, in Southeast Asia and in Uniform"
+    excerpt: "And yet Kamala Harris’s recent trip to Southeast Asia, which came to an end on Aug. 26, was notable in part because of how much the focus was on what she said and how little extraneous commentary it generated;"
+    publishedDateTime: 2021-08-26T07:00:00Z
+    webUrl: "https://www.nytimes.com/2021/08/26/style/kamala-harris-vietnam-singapore-image.html"
+    ampWebUrl: "https://www.nytimes.com/2021/08/26/style/kamala-harris-vietnam-singapore-image.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/26/style/kamala-harris-vietnam-singapore-image.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/08/26/fashion/26kamala-overseas-1/26kamala-overseas-1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Kamala Harris arrives in Guatemala on first foreign trip as vice president"
     excerpt: "After an enforced return to Joint Base Andrews to change planes, Vice President Kamala Harris finally arrived in Guatemala at the start of her first foreign trip as vice president."

@@ -1093,6 +1093,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Marco Rubio slams ‘out of touch’ Joe Biden as Afghanistan ‘catastrophe’ continues"
+    excerpt: "Marco Rubio continued to characterize the Afghanistan endgame as “one of the worst catastrophes” in American history. Rubio took to Fox News Tuesday night and again Wednesday morning, describing President Joe Biden as “oblivious” and saying the deadline to get people out of the “chaos” of the Hamid Karzai airport was not the end of the month,"
+    publishedDateTime: 2021-08-25T14:30:00Z
+    webUrl: "https://floridapolitics.com/archives/452872-marco-rubio-slams-out-of-touch-joe-biden-as-afghanistan-catastrophe-continues/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 50
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/08/Marco-Rubio-scaled.jpg"
+        width: 2560
+        height: 1920
+        isCached: true
   - title: "Joe Biden’s mishandling of Afghanistan has tanked his poll numbers. Is it permanent?"
     excerpt: "Like Bush’s handling of Katrina, Biden’s handling of the pullout from Afghanistan has looked similarly disastrous, directly undercutting the notion of competent, experienced leadership on the world stage."
     publishedDateTime: 2021-08-25T16:32:00Z
@@ -1282,6 +1296,6 @@ related:
         height: 380
         isCached: true
 
-secured: "enbBaoIg13HnmEEqVriGPbqRptUracMqq12Bcj+hZ+rxhzuysHA+c3iflHzYqk9pQ/WbTltAyIBLrfwYa3yw8aute2B15en5EUEQ0lcoZIqMqTysm/m7hs67eEP4VZA7SeaKK4a+rwU1d61feJGM6x62dyuqx0OOdDCTSGb9/pGOGaj45dR0x8Sa/8kLOZTSHnieHP+4UOvJPt+gzLgCIUopYI45cW60pLTpKGB6dLcXqYzfAbPWE9JRRjGr22d4/qXXuyaq4zXwiS0dE747Ai38toxOmIgmp3Fx9D/wEpILhUsKW6P+6Pd8Q0+Jxg4iraz/Q+VQTZ26sQRj1CAmVVAm2/lAX57vz4DCrOHvcMg=;G+VmT1d6QjhlM7Jt7yyuAQ=="
+secured: "VKIJ7k38k0B7w1NGL25kRDyp8/JK2U8oYQdpguJmRxUSywHGMLzmgPPud9cLd8N47tQXUm2UTp1yhd6lT0955o5bh74LYq+24lLZE8qpxDbkOWT/gy7l35G8X79ZhM+Ve+eKRw9TOgXYcIUreZBlKcbY3WShDn/ukywX8YTUNDXlZPFLs4I7UFMfqAsslH6RS7RBn4rXw1oWMw/tHYu/cfhzRhFSdW8vf5Zu0FwpwLRnDO5nGKFvS/OsAPA6VM/RrPdvrB7QVshn/Nl56881QGzgsSCDeNO0Q6Vivg5K39OAd0Taeu2+KanejEJrbvkYHuU8BhCGnZaldDqjLrp1L8NOdNSUfZuB+fsc8AJUbIxpgLfNh122KpnMc53S/Rd+TI73g8v93ZX10rRihS28OIywmOOxAC51f+2XN9wx00+lw/lczdktQqLDdQYUH9EYDJCBiMEQTnDywD+cL8NUXPaIGPGztYFiYbjueFdrWxy2wFipgSGE1pFyrRBA54FFStOyae3zwv8dSLoWhQGVTw==;1gt2bqrqQnO6b5nleJuoSA=="
 ---
 
