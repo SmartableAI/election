@@ -53,6 +53,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Poll shows most Florida voters disapprove of Joe Biden’s performance"
+    excerpt: "A majority of Florida voters disapprove of President Joe Biden’s performance. The Quinnipiac University Poll found 40% of Florida voters approve of Biden’s performance, with 53% disapproving. Views of his COVID-9 response were better."
+    publishedDateTime: 2021-08-25T20:59:00Z
+    webUrl: "https://www.orlandosentinel.com/politics/fl-ne-biden-approval-florida-q-poll-august-2021-20210825-ibuwjcvuefah7gcx5sbn25fmey-story.html"
+    type: article
+    provider:
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 55
+    images:
+      - url: "https://www.orlandosentinel.com/resizer/fd0A7vVARWikIwoJnZ2wJbRNy5A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WWLTWUO72FBD4H6OPFY4HJPBTQ.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Storm commemorates 2020 WNBA championship with President Joe Biden at White House"
     excerpt: "Before leaving the nation's capital, the Storm stopped by the White House on Monday, marking a return to normalcy when sports teams regularly received invitations to celebrate championships and their athletic achievements."
     publishedDateTime: 2021-08-23T21:13:00Z

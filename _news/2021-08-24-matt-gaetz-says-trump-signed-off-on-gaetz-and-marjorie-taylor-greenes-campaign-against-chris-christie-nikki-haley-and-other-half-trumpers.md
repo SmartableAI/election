@@ -111,6 +111,22 @@ related:
         width: 1400
         height: 1096
         isCached: true
+  - title: "Jan. 6 committee demands Trump’s White House records"
+    excerpt: "The panel said it wanted information on the attack itself and the run-up to the events of the day, including the gathering and dissemination of intelligence, security preparations and the role"
+    publishedDateTime: 2021-08-26T07:07:00Z
+    webUrl: "https://www.mercurynews.com/2021/08/25/jan-6-committee-demands-trumps-white-house-records"
+    ampWebUrl: "https://www.mercurynews.com/2021/08/25/jan-6-committee-demands-trumps-white-house-records/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/08/25/jan-6-committee-demands-trumps-white-house-records/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/08/sjm-reach-Records_87447425.jpg?w=1024&#038;h=698"
+        width: 1024
+        height: 698
+        isCached: true
   - title: "Lawyers allied with Trump penalized over Michigan lawsuit"
     excerpt: "Nine lawyers allied with former President Donald Trump face financial penalties and other sanctions in Michigan."
     publishedDateTime: 2021-08-26T03:59:00Z

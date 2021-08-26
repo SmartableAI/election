@@ -2,30 +2,30 @@
 category: news
 title: "Joe Biden taps Milwaukee Mayor Tom Barrett as Luxembourg ambassador"
 excerpt: "President Joe Biden has nominated Milwaukee Mayor Tom Barrett to serve as the next U.S. ambassador to Luxembourg. The White House announced the appointment Wednesday. Barrett still needs Senate confirmation to serve,"
-publishedDateTime: 2021-08-25T20:16:00Z
-originalUrl: "https://madison.com/wsj/news/local/govt-and-politics/joe-biden-taps-milwaukee-mayor-tom-barrett-as-luxembourg-ambassador/article_b47200d8-fa17-585a-bf19-bedbbba2cfb0.html"
-webUrl: "https://madison.com/wsj/news/local/govt-and-politics/joe-biden-taps-milwaukee-mayor-tom-barrett-as-luxembourg-ambassador/article_b47200d8-fa17-585a-bf19-bedbbba2cfb0.html"
-ampWebUrl: "https://madison.com/news/local/govt-and-politics/joe-biden-taps-milwaukee-mayor-tom-barrett-as-luxembourg-ambassador/article_b47200d8-fa17-585a-bf19-bedbbba2cfb0.amp.html"
-cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/govt-and-politics/joe-biden-taps-milwaukee-mayor-tom-barrett-as-luxembourg-ambassador/article_b47200d8-fa17-585a-bf19-bedbbba2cfb0.amp.html"
+publishedDateTime: 2021-08-25T20:52:00Z
+originalUrl: "https://chippewa.com/news/state-and-regional/joe-biden-taps-milwaukee-mayor-tom-barrett-as-luxembourg-ambassador/article_81c6539f-d3fd-598f-8cbc-97361d6412ea.html"
+webUrl: "https://chippewa.com/news/state-and-regional/joe-biden-taps-milwaukee-mayor-tom-barrett-as-luxembourg-ambassador/article_81c6539f-d3fd-598f-8cbc-97361d6412ea.html"
+ampWebUrl: "https://chippewa.com/news/state-and-regional/joe-biden-taps-milwaukee-mayor-tom-barrett-as-luxembourg-ambassador/article_81c6539f-d3fd-598f-8cbc-97361d6412ea.amp.html"
+cdnAmpWebUrl: "https://chippewa-com.cdn.ampproject.org/c/s/chippewa.com/news/state-and-regional/joe-biden-taps-milwaukee-mayor-tom-barrett-as-luxembourg-ambassador/article_81c6539f-d3fd-598f-8cbc-97361d6412ea.amp.html"
 type: article
 quality: 75
 heat: 75
 published: true
 
 provider:
-  name: Madison.com
-  domain: madison.com
+  name: Chippewa Herald
+  domain: chippewa.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/a/8e/a8e22aa7-34d2-5cbe-932a-23a5b81e1e76/610857733438e.preview.jpg?resize=1024%2C754"
-    width: 1024
-    height: 754
+  - url: "https://bloximages.chicago2.vip.townnews.com/chippewa.com/content/tncms/assets/v3/editorial/3/53/353af3f3-eab8-5cd6-a40a-89e6f085e679/5ae379956ef58.image.jpg"
+    width: 700
+    height: 555
     isCached: true
 
-secured: "D8w5wyINbFSb2wyM+gazda/IZDUnhQhhz/CSm17V5DMsRm/RMhzIqjHSwEcMewO+lejbBqOONjNMHEL94iQjjES4ZLatKldjf/kgQm9HQbPvi2s13sotPG6f7/H5FHgbvSat8xJdyxlPoap/XK6AA9bzIoHLRWm31HogvzvwnrjaTuEavyjGeH4uuylKziF7iSH9jmwpsGSuAQ00gd4Nrva5smdRZ0QXWVF6c8ETsolyN8WrbN1NXFks+/3/qRwTGR177uA58yCIIBFK05aTSNj94c5Ra558vnG6Qyaq8dkC4l9I33vwBbscJde55kjTclD8gWxrZvyESkOj6/w+8a9+8HvDwT8S0fTH/zvLo2m/27hz/x7k+FXJaQana7Dq2P2OaUA1KuhuizOFy538ktFlQcNVpeLfRBELuhTorUyfDd54VLwH74E9nK/hqVMKOhUqqiKq/WcCvjyI9IOjGuXF5T1kQeiKbWU2CAAjds0YzvHpqltR1Z2u9zEYxi5D5s33Dz9w2Wyo1J4AQTNTSA==;qZ+8Ihqf0dS3a6PdzZtmZA=="
+secured: "MkcitrKa3fiwQuNrL4gZ56uiJwn47AQTyrQ6ya5eURDjX8ZIdWIrph2cL0zEu0PM2nK7YuWfGDTgO3wOyeJuIMEljgLZNDSqqW4/ZHnqIKAmPh0FZDkPIL+lJaI0DupnqPVdO13S2EPRhTTKNHEPLaXUErP3C9652z2hvm67GEN3+EwYwoF6TBLO3QNDnxm6CT3hGJrIkg8nS3/4uDmamwqfXL1hFejYLgpRhtx/QsyZBFqlMwpjc9qBAShVUpQIZXb7p+EL1rj00BiCOByRLPmMlUwQQpe/701SroGSrjwKN4J0ahuJlDoz8b/roqM0sQaG6ImQsWwKPbNSZPcXcYfU1//LGZYa39zlPO6i73I=;fuA/9MNFQf/tC6RJQoeJhQ=="
 ---
 

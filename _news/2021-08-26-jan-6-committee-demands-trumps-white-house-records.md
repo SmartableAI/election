@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Trump border wall damaged by heavy flooding"
-excerpt: "Severe weather in southern Arizona appears to have damaged parts of the border wall erected by the Trump A The Tucson Sentinel reports that U.S. Customs and Border Protection agents have confirmed “historic” flooding at the nation’s border with Mexico is to blame for the destruction."
-publishedDateTime: 2021-08-23T16:49:00Z
-originalUrl: "https://www.unionleader.com/news/weather/trump-border-wall-damaged-by-heavy-flooding/article_69da52ad-ee63-591f-81ba-61cd04a22129.html"
-webUrl: "https://www.unionleader.com/news/weather/trump-border-wall-damaged-by-heavy-flooding/article_69da52ad-ee63-591f-81ba-61cd04a22129.html"
+title: "Jan. 6 committee demands Trump’s White House records"
+excerpt: "The panel said it wanted information on the attack itself and the run-up to the events of the day, including the gathering and dissemination of intelligence, security preparations and the role"
+publishedDateTime: 2021-08-26T07:07:00Z
+originalUrl: "https://www.mercurynews.com/2021/08/25/jan-6-committee-demands-trumps-white-house-records"
+webUrl: "https://www.mercurynews.com/2021/08/25/jan-6-committee-demands-trumps-white-house-records"
+ampWebUrl: "https://www.mercurynews.com/2021/08/25/jan-6-committee-demands-trumps-white-house-records/amp/"
+cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/08/25/jan-6-committee-demands-trumps-white-house-records/amp/"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: New Hampshire Union Leader
-  domain: unionleader.com
+  name: Mercury News
+  domain: mercurynews.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/2/d9/2d9ee749-a144-59f9-ab8e-9a209399f7ce/6123d26da24a5.image.jpg?resize=1044%2C630"
-    width: 1044
-    height: 630
+  - url: "https://www.mercurynews.com/wp-content/uploads/2021/08/sjm-reach-Records_87447425.jpg?w=1024&#038;h=698"
+    width: 1024
+    height: 698
     isCached: true
 
 related:
@@ -121,22 +123,6 @@ related:
         width: 1400
         height: 1096
         isCached: true
-  - title: "Jan. 6 committee demands Trump’s White House records"
-    excerpt: "The panel said it wanted information on the attack itself and the run-up to the events of the day, including the gathering and dissemination of intelligence, security preparations and the role"
-    publishedDateTime: 2021-08-26T07:07:00Z
-    webUrl: "https://www.mercurynews.com/2021/08/25/jan-6-committee-demands-trumps-white-house-records"
-    ampWebUrl: "https://www.mercurynews.com/2021/08/25/jan-6-committee-demands-trumps-white-house-records/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/08/25/jan-6-committee-demands-trumps-white-house-records/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 75
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2021/08/sjm-reach-Records_87447425.jpg?w=1024&#038;h=698"
-        width: 1024
-        height: 698
-        isCached: true
   - title: "Lawyers allied with Trump penalized over Michigan lawsuit"
     excerpt: "Nine lawyers allied with former President Donald Trump face financial penalties and other sanctions in Michigan."
     publishedDateTime: 2021-08-26T03:59:00Z
@@ -152,6 +138,20 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/BMM2O6H4UVBKPEHVVVO5TN3MXQ.jpg"
         width: 5472
         height: 3648
+        isCached: true
+  - title: "Trump border wall damaged by heavy flooding"
+    excerpt: "Severe weather in southern Arizona appears to have damaged parts of the border wall erected by the Trump A The Tucson Sentinel reports that U.S. Customs and Border Protection agents have confirmed “historic” flooding at the nation’s border with Mexico is to blame for the destruction."
+    publishedDateTime: 2021-08-23T16:49:00Z
+    webUrl: "https://www.unionleader.com/news/weather/trump-border-wall-damaged-by-heavy-flooding/article_69da52ad-ee63-591f-81ba-61cd04a22129.html"
+    type: article
+    provider:
+      name: New Hampshire Union Leader
+      domain: unionleader.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/2/d9/2d9ee749-a144-59f9-ab8e-9a209399f7ce/6123d26da24a5.image.jpg?resize=1044%2C630"
+        width: 1044
+        height: 630
         isCached: true
   - title: "How Donald Trump Turned Off Swing Voters In 2020"
     excerpt: "Alan Abromowitz: \"Trump was perceived as far more conservative in 2020 than in 2016. In 2016, Trump was viewed as the least conservative Republican presidential candidate since Gerald Ford in 1976. In 2020,"
@@ -196,6 +196,6 @@ related:
         height: 710
         isCached: true
 
-secured: "1ZfqJdGa6OfgFyUd1y0/cwzrda5XhvzHoyjQmS8FEwCsScxVZlaOniFGB4e9Su5hyRT1NtY6l1lJs5cAXLDdnbyJ7m0nMem3ghgs5y3qShzjN9PsMfNH5s6b3e2JK6KRSVlY1cMCmmk7xf0Ay0qf5VNM/0PWhsR4zYhyNrM2hSUxxIvNGP9DrHfJy+PO/eaMf7aXXezXHqjVZcLcVaeBcGJP6XMctn/8lo/IJLAK/0oDBq0xdKwAr76c1QYhOeorDlbyn2fZTNd+rtXFBoD4YmdrHkRvZq8osUmL1i88MIjhCDyQ7trxLcX/DR6Xz3ywxuznBedokvA5Vne9wdwmk0SQL4qQucRsVAKlA7uwJmo=;zfPlaBpWG+SprWJzEITRUQ=="
+secured: "ur6syKeYoTmXOzFIEYu1b6TDxJxKPgrmCXiHYText7UgUGruE7JsJtJO0toO4Z5svy/0n9MIPec0cfbXrap7VGWFNLGvsbvJFPWVFdO3W1D/xbz5nMqRAonia0ZTXdi4DfiyxOWYYFBuyoghsp0F4MNyx2y0/UaWuVeGpYuGkebpngqrJsK0n/8HHbaU7gBOQ84VjrqaJye3zSdaBpZ+dVOqmavXCFtuCgCwEY5cTSVhheV1buyaj9OYP7ESNoz074gmnIIGQYx4WP0ZI27ynQeBbFafP74c4znYP4m8TajevQ0kFlvfwT5NEDzIUEmyCOQTCifYv1ygYrinSy8e0VbH8p61a11Wbwb8DKwZ7kk=;8ADKOBtEcgme9ct0DWkyIg=="
 ---
 

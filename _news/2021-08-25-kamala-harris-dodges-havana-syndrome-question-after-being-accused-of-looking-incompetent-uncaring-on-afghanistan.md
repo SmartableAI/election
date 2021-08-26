@@ -609,6 +609,22 @@ related:
         width: 800
         height: 531
         isCached: true
+  - title: "US Vice President Kamala Harris Puts Pressure On China Over Maritime 'Bullying'"
+    excerpt: "Vice President Kamala Harris says the US will find new ways to \"raise the pressure on Beijing\", accusing China of bullying in the hotly disputed Asian waters for the second time in two days. China claims almost all of the resource-rich South China Sea,"
+    publishedDateTime: 2021-08-25T21:11:00Z
+    webUrl: "https://www.barrons.com/news/us-vice-president-kamala-harris-puts-pressure-on-china-over-maritime-bullying-01629911721"
+    ampWebUrl: "https://www.barrons.com/amp/news/us-vice-president-kamala-harris-puts-pressure-on-china-over-maritime-bullying-01629911721"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/us-vice-president-kamala-harris-puts-pressure-on-china-over-maritime-bullying-01629911721"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 71
+    images:
+      - url: "https://m.wsj.net/video/20210825/d1cb4f0e-bdb9-4255-aae9-45cf7617559d/1/cover-image--_512x288.jpg"
+        width: 512
+        height: 288
+        isCached: true
   - title: "Michael Strahan, Kamala Harris and More on How Their HBCU Experience Shaped Them"
     excerpt: "There's just something about the HBCU experience that bonds Black Hollywood like nothing else. Remember when Spike Lee's BlacKkKlansman won the Oscar for Best Adapted Screenplay and Samuel L. Jackson couldn't help but exclaim,"
     publishedDateTime: 2021-08-20T22:18:00Z
@@ -1005,6 +1021,6 @@ related:
         height: 422
         isCached: true
 
-secured: "d9wKcMfG5KE94wTmoT3VOZbJ4uhPH/ojZWyj9YAVftQ77Dxae/IRp1eI43LOHRY5MNx6dShly7TwOgCGjhRataKw0sGBKdog9DXJLRTFRrVd2hcTWQCx1iwZvO7Qrds++sngrFWSF6bTBe7P6q16qnuCywOOrePEhYpDJNtKqurSWmv5T4MFjzvuWYNLhelHhraxnXNdZnYeKJePWszlO4gOzmLRIYaXeXgq6HRbO4yJoS/3E51l1MJ7EpswKi6Pm+FtdRVZfBz108qwf+x56LCa30GSihfOVMt6eAaTl3FylDNLVezDxeycSx4gvcLBOU6XmsMpC1UpKvZqFTyjKIXRUKz8qvZwvTPzU5yB0lw=;CfDuxOjeBsJ63j3Rckb4tA=="
+secured: "YoOv70uxipPe8krhOqr3Kp4Er5y8KWyF7Hbk+lvz3OfMsSMrb3tsyYtFKjOu7912n2TgAuzxOwjhSsk62Z3NBQTSJYOXZ5awOIdUwbpVmeTqOj5awn7nu7Cq0ewgFV8ilNN3ASj0qgsQlJqG46WiFx2LYNUjTQXaDG8sJmOfaZtY2HnJr9O+Wb1MB50RkBuvBff0hyKc/ZeQnxWe8GxiutFS68UryZylLVMRewH/5WueYL2jb+iB6lRHeF6/yUwGOA6bswbE9m6ZXIFoPcBf8gHKmK44zrR1uGFiGO6fHAntI9j92ZmUXzIFiUjIxRCq49H5HUyAtfEQfONYHGPgVUOXFbtM7gYRZnBjtwQ+PVYTdp9cysAxlkEsH9LbpYhQNjVHEAy+IF/g361fQmYsMW+hAlUKnY6Vb5ix7yEBz4dDJgZMsGnNzItr/IqqcgtzlMgJkrBhHJ2YAfPWWDT0P6lEcyaQdmDUo2RN+ZMjU6VtSn/rGp7PCiR76fJxk8CHMs8jZkblKWkeJgFygRJLUw==;aNKYbIRwePNcCwR8DGYXmg=="
 ---
 

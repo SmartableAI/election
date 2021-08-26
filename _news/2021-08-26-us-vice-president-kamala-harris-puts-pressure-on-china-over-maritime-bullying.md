@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Kamala Harris Accuses China Of ‘Coercion’ And ‘Intimidation’, Vows U.S. Support For Allies In Indo-Pacific"
-excerpt: "Harris is currently on a seven-day trip to Singapore and Vietnam as the U.S. attempts to push back against China’s growing influence in the region."
-publishedDateTime: 2021-08-24T14:08:00Z
-originalUrl: "https://www.forbes.com/sites/siladityaray/2021/08/24/kamala-harris-accuses-china-of-coercion-and-intimidation-vows-us-support-for-allies-in-indo-pacific/"
-webUrl: "https://www.forbes.com/sites/siladityaray/2021/08/24/kamala-harris-accuses-china-of-coercion-and-intimidation-vows-us-support-for-allies-in-indo-pacific/"
-ampWebUrl: "https://www.forbes.com/sites/siladityaray/2021/08/24/kamala-harris-accuses-china-of-coercion-and-intimidation-vows-us-support-for-allies-in-indo-pacific/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2021/08/24/kamala-harris-accuses-china-of-coercion-and-intimidation-vows-us-support-for-allies-in-indo-pacific/amp/"
+title: "US Vice President Kamala Harris Puts Pressure On China Over Maritime 'Bullying'"
+excerpt: "Vice President Kamala Harris says the US will find new ways to \"raise the pressure on Beijing\", accusing China of bullying in the hotly disputed Asian waters for the second time in two days. China claims almost all of the resource-rich South China Sea,"
+publishedDateTime: 2021-08-25T21:11:00Z
+originalUrl: "https://www.barrons.com/news/us-vice-president-kamala-harris-puts-pressure-on-china-over-maritime-bullying-01629911721"
+webUrl: "https://www.barrons.com/news/us-vice-president-kamala-harris-puts-pressure-on-china-over-maritime-bullying-01629911721"
+ampWebUrl: "https://www.barrons.com/amp/news/us-vice-president-kamala-harris-puts-pressure-on-china-over-maritime-bullying-01629911721"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/us-vice-president-kamala-harris-puts-pressure-on-china-over-maritime-bullying-01629911721"
 type: article
-quality: 107
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Barron's
+  domain: barrons.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612494385511c94c2139edcc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5182%26cropY1%3D126%26cropY2%3D3043"
-    width: 1200
-    height: 675
+  - url: "https://m.wsj.net/video/20210825/d1cb4f0e-bdb9-4255-aae9-45cf7617559d/1/cover-image--_512x288.jpg"
+    width: 512
+    height: 288
     isCached: true
 
 related:
@@ -156,6 +152,22 @@ related:
       - url: "https://foreignpolicy.com/wp-content/uploads/2021/08/kamala-harris-singapore-southeast-asia.jpg?w=1000"
         width: 1000
         height: 667
+        isCached: true
+  - title: "Kamala Harris Accuses China Of ‘Coercion’ And ‘Intimidation’, Vows U.S. Support For Allies In Indo-Pacific"
+    excerpt: "Harris is currently on a seven-day trip to Singapore and Vietnam as the U.S. attempts to push back against China’s growing influence in the region."
+    publishedDateTime: 2021-08-24T14:08:00Z
+    webUrl: "https://www.forbes.com/sites/siladityaray/2021/08/24/kamala-harris-accuses-china-of-coercion-and-intimidation-vows-us-support-for-allies-in-indo-pacific/"
+    ampWebUrl: "https://www.forbes.com/sites/siladityaray/2021/08/24/kamala-harris-accuses-china-of-coercion-and-intimidation-vows-us-support-for-allies-in-indo-pacific/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2021/08/24/kamala-harris-accuses-china-of-coercion-and-intimidation-vows-us-support-for-allies-in-indo-pacific/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 107
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612494385511c94c2139edcc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5182%26cropY1%3D126%26cropY2%3D3043"
+        width: 1200
+        height: 675
         isCached: true
   - title: "US VP Harris: Focus must stay on Afghan evacuation"
     excerpt: "Vice President Kamala Harris says the U.S. must maintain its focus on evacuating Americans and vulnerable Afghans and shouldn’t get distracted by questions over what went wrong in the chaotic U.S. exi"
@@ -597,22 +609,6 @@ related:
         width: 800
         height: 531
         isCached: true
-  - title: "US Vice President Kamala Harris Puts Pressure On China Over Maritime 'Bullying'"
-    excerpt: "Vice President Kamala Harris says the US will find new ways to \"raise the pressure on Beijing\", accusing China of bullying in the hotly disputed Asian waters for the second time in two days. China claims almost all of the resource-rich South China Sea,"
-    publishedDateTime: 2021-08-25T21:11:00Z
-    webUrl: "https://www.barrons.com/news/us-vice-president-kamala-harris-puts-pressure-on-china-over-maritime-bullying-01629911721"
-    ampWebUrl: "https://www.barrons.com/amp/news/us-vice-president-kamala-harris-puts-pressure-on-china-over-maritime-bullying-01629911721"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/us-vice-president-kamala-harris-puts-pressure-on-china-over-maritime-bullying-01629911721"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 71
-    images:
-      - url: "https://m.wsj.net/video/20210825/d1cb4f0e-bdb9-4255-aae9-45cf7617559d/1/cover-image--_512x288.jpg"
-        width: 512
-        height: 288
-        isCached: true
   - title: "Michael Strahan, Kamala Harris and More on How Their HBCU Experience Shaped Them"
     excerpt: "There's just something about the HBCU experience that bonds Black Hollywood like nothing else. Remember when Spike Lee's BlacKkKlansman won the Oscar for Best Adapted Screenplay and Samuel L. Jackson couldn't help but exclaim,"
     publishedDateTime: 2021-08-20T22:18:00Z
@@ -1025,6 +1021,6 @@ related:
         height: 422
         isCached: true
 
-secured: "EXjhJ6RVQT+pJK+itaDAEQM7B2APYdQ12K5DolXqxoUnbjnApBLCq6m127Qbj9iLXEzf3OhTtClTMPK9VNbowGtojoPdRSsj5AVIPOhj1Lcg7Mo2sfoPrq1Bxy3RYz2n8dOrW50UUaSWFRtHpyCSAuoo5xiFXoagJt1b+wqXMcwdT1L5xQ7DcS5mBOR6tn0qFcp2FmQtB7NfYhv1eDEKCbH3nDLMqvwmh21kGd8dA82x3ZpokwftGk1Ji8d9S/cbWTvjCIu5C/veX/f5W3xqfpAq+zPCQMhvAM/TPNntwJ3utQVDLgxQUY5x57/jRSmXancxk4Oysd+TYfee0YIqsxmQ7S4oaEN+Zct1+lyuX8k=;Tayqze0f2kuOg9sVUkuiNQ=="
+secured: "vQWMDdWdQ/mT2Vm6J4mbiPnaD7JKFSZ0Z6PVYuV5calIuHegm2w9YFEK+jIBJA/7nlYg87g2ztNMDMxHFuvoP1hs3PevaSJOno8zn/XbDfJBvbjkS4sbzIHDxDGPG5AtkTjxZYP/qiB3Y8eZ3kAyEGGZ1LCri2ZYYll/HIh6+DcCEzIJqsDM+GN8Nu+KeogEZVNhR4gE9V92/TYz5cHBH9aVv/sCRYuevFjTmKNQJz6c5r1wQ+hgA0SQpeOrLrgNMcqtNdsl+ek8ZB0X7CF4hPHkMOqiT8c2iRGi2qztExP8P2GVDUdQjG0FrRKj68krn53Ld4hWew3Z+Lel6ZVJcJgveLN9/yH1mA3wPv9yRmQ=;Eh5Zu+gJvb1aPKGt8J23IQ=="
 ---
 

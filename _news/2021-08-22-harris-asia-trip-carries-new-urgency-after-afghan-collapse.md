@@ -601,6 +601,22 @@ related:
         width: 800
         height: 531
         isCached: true
+  - title: "US Vice President Kamala Harris Puts Pressure On China Over Maritime 'Bullying'"
+    excerpt: "Vice President Kamala Harris says the US will find new ways to \"raise the pressure on Beijing\", accusing China of bullying in the hotly disputed Asian waters for the second time in two days. China claims almost all of the resource-rich South China Sea,"
+    publishedDateTime: 2021-08-25T21:11:00Z
+    webUrl: "https://www.barrons.com/news/us-vice-president-kamala-harris-puts-pressure-on-china-over-maritime-bullying-01629911721"
+    ampWebUrl: "https://www.barrons.com/amp/news/us-vice-president-kamala-harris-puts-pressure-on-china-over-maritime-bullying-01629911721"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/us-vice-president-kamala-harris-puts-pressure-on-china-over-maritime-bullying-01629911721"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 71
+    images:
+      - url: "https://m.wsj.net/video/20210825/d1cb4f0e-bdb9-4255-aae9-45cf7617559d/1/cover-image--_512x288.jpg"
+        width: 512
+        height: 288
+        isCached: true
   - title: "Michael Strahan, Kamala Harris and More on How Their HBCU Experience Shaped Them"
     excerpt: "There's just something about the HBCU experience that bonds Black Hollywood like nothing else. Remember when Spike Lee's BlacKkKlansman won the Oscar for Best Adapted Screenplay and Samuel L. Jackson couldn't help but exclaim,"
     publishedDateTime: 2021-08-20T22:18:00Z

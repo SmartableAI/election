@@ -609,6 +609,22 @@ related:
         width: 800
         height: 531
         isCached: true
+  - title: "US Vice President Kamala Harris Puts Pressure On China Over Maritime 'Bullying'"
+    excerpt: "Vice President Kamala Harris says the US will find new ways to \"raise the pressure on Beijing\", accusing China of bullying in the hotly disputed Asian waters for the second time in two days. China claims almost all of the resource-rich South China Sea,"
+    publishedDateTime: 2021-08-25T21:11:00Z
+    webUrl: "https://www.barrons.com/news/us-vice-president-kamala-harris-puts-pressure-on-china-over-maritime-bullying-01629911721"
+    ampWebUrl: "https://www.barrons.com/amp/news/us-vice-president-kamala-harris-puts-pressure-on-china-over-maritime-bullying-01629911721"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/us-vice-president-kamala-harris-puts-pressure-on-china-over-maritime-bullying-01629911721"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 71
+    images:
+      - url: "https://m.wsj.net/video/20210825/d1cb4f0e-bdb9-4255-aae9-45cf7617559d/1/cover-image--_512x288.jpg"
+        width: 512
+        height: 288
+        isCached: true
   - title: "Kamala Harris begins Asia trip to reassure allies of US dependability amid Afghan drawdown"
     excerpt: "Vice President Kamala Harris began her Asia trip on Sunday. She seeks to offer reassurances of Washington's commitment to the region after the chaotic US pullout from Afghanistan and Taliban takeover."
     publishedDateTime: 2021-08-22T12:48:00Z
