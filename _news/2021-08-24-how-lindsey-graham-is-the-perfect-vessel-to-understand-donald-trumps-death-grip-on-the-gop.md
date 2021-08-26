@@ -1,27 +1,27 @@
 ---
 category: news
 title: "How Lindsey Graham is the perfect vessel to understand Donald Trump's death grip on the GOP"
-excerpt: "And it's the only one that explains how Graham went from an understudy to Sen. John McCain in the early part of this decade to a full-fledged Trumper by the end of it. As The New York Times put it in a recent profile of Graham: \"What emerges from interviews with more than 60 people close to him,"
-publishedDateTime: 2021-08-24T16:40:00Z
-originalUrl: "https://www.wtva.com/content/national/575162792.html"
-webUrl: "https://www.wtva.com/content/national/575162792.html"
-ampWebUrl: "http://www.wtva.com/templates/AMP?contentID=575162792"
-cdnAmpWebUrl: "https://www-wtva-com.cdn.ampproject.org/c/www.wtva.com/templates/AMP?contentID=575162792"
+excerpt: "And it's the only one that explains how Graham went from an understudy to Sen. John McCain in the early part of this decade to a full-fledged Trumper by the end of it. \"What emerges from interviews with more than 60 people close to him,"
+publishedDateTime: 2021-08-24T15:40:00Z
+originalUrl: "https://www.wthitv.com/content/national/575162792.html"
+webUrl: "https://www.wthitv.com/content/national/575162792.html"
+ampWebUrl: "http://www.wthitv.com/templates/AMP?contentID=575162792"
+cdnAmpWebUrl: "https://www-wthitv-com.cdn.ampproject.org/c/www.wthitv.com/templates/AMP?contentID=575162792"
 type: article
 quality: 65
 heat: -1
 published: false
 
 provider:
-  name: WTVA
-  domain: wtva.com
+  name: WTHI-TV
+  domain: wthitv.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "http://media.heartlandtv.com/designimages/WTVA_640x380.png"
+  - url: "http://media.heartlandtv.com/designimages/wthi-story-default-image-640x380.png"
     width: 640
     height: 380
     isCached: true
@@ -72,6 +72,6 @@ related:
         height: 960
         isCached: true
 
-secured: "5t4EvSx95ekuTSOn0Sm0pboIaP6bGxX9IHo3nEQ62a8hdHMD+uZVacStEwxMP0tv5TSZp1htKiBAOPMLvzsZh6Nv+CNbxg5EnCUHeTui5B++IXzWD7KDUn9iicK+DPL76mPXZW0EOfILXgTPr+9bhAWz/MkI+w+CR5dpN4vkHUt3b1KhA02rzsZkDmIRVfAxA/abY4zhgCqDbaK28Fbj1ZcPReCnNb/a2FcCIqg9IY+L+XjFZKmcXV2TKvGV+fsUgWBlC3cW1oCzrIBuJX5fzFQ4eji0e3gzL4Y/DiJ7kpdg+s703jvfDVp1WrYyfUDhBba/932J8yxE8pCBJKYsKX9DHl5YJOHcCGY5qqRgHxU=;fK4WfHJP8MryP+1kqQEqtQ=="
+secured: "zSKB++4xCpbyxdVzOr3MzGfW1QDfJcZhBqQ/DorxZi70KsJsxrXDTcXS64b1DwQwqP12SuwFkpNWJvtrA16gDQolW1F6ce4zlqRUaU8QrpR9OdcUBZRLMIx4vTu5tWjl3KdlgpVUe1tohVvn79w4FSZmLw5zQl4gcDtMQ6qGvCmcyCjakwldIZSljf8wNM7uD6Yv2lFICY9wPkf3OdG7vaPupKONOxIoLgQ24wek9zaqdajsUJAiLO8YPOVNgXY2UJJgncyhm2RGXye37ltEmYWc4vkxb46AkHF8WhD702pO13LmwRVTL/YjNhHsUTmEQuTwlHtJd5+XrgTDbKwa0yGELvRjgpzzNzRrqXEW35U=;SL8X8JtQruviOINCHHCQJw=="
 ---
 

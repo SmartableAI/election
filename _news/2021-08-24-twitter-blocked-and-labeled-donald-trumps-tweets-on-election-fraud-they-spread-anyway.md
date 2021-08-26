@@ -3,18 +3,18 @@ category: news
 title: "Twitter blocked and labeled Donald Trump's tweets on election fraud. They spread anyway."
 excerpt: "An NYU study of Trump tweets raises new questions about the ability of social media companies to halt the flood of falsehoods during election cycles."
 publishedDateTime: 2021-08-24T16:52:00Z
-originalUrl: "https://www.hattiesburgamerican.com/story/tech/2021/08/24/trump-twitter-block-election-fraud-tweets-facebook-instagram-posts/8218382002/"
-webUrl: "https://www.hattiesburgamerican.com/story/tech/2021/08/24/trump-twitter-block-election-fraud-tweets-facebook-instagram-posts/8218382002/"
-ampWebUrl: "https://amp.hattiesburgamerican.com/amp/8218382002"
-cdnAmpWebUrl: "https://amp-hattiesburgamerican-com.cdn.ampproject.org/c/s/amp.hattiesburgamerican.com/amp/8218382002"
+originalUrl: "https://www.indystar.com/story/tech/2021/08/24/trump-twitter-block-election-fraud-tweets-facebook-instagram-posts/8218382002/"
+webUrl: "https://www.indystar.com/story/tech/2021/08/24/trump-twitter-block-election-fraud-tweets-facebook-instagram-posts/8218382002/"
+ampWebUrl: "https://amp.indystar.com/amp/8218382002"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/8218382002"
 type: article
 quality: 81
 heat: -1
 published: false
 
 provider:
-  name: Hattiesburg American
-  domain: hattiesburgamerican.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -120,6 +120,6 @@ related:
         height: 400
         isCached: true
 
-secured: "g7XUDpacmNywbhaUxM6RplgjF5Wwe2VzP36tFjExH1gBQVWHwMc471iwPjQ+3GRf5Bw1NiyB0yoe/P/SuBqEQaeS8iA+aCstuByjCMgeF9PK4Z5w4uawYWlOLkWKRLjutBN8T5cDCA6AFIoQpWOlOVPoMVDl5gowIAvHICRYZLFNPBN65nAD7RfS3PhsyUKyPDni9Cj/PRi21YBVY6PHhAtks4zK1rx2xcRqN/WrJZ3GIJBNF2WTIB9ZiQmN06lRZvpVIeeqzqm2WHtvcs4O5bB1y0K4TltJ6aO7JYZgnwWJkA/uDHv/+y671zjmd4Ez0wmpGwDnHAEMatVID1M9x5/eRFN7o26yKB0lcZoemCFANmBAbz55j+sDofohV8Rlm+1mZpjezuXQPRvee5JMDfrJYQqB0NgB5aC8lsUsCHK9RbJWVUQTyW5uo3dkADNyHcEky7Byi/sDXNv1SFW0WXC9eWdRyNMxpffqLqRywmDQZamK/gYkMLCFeRHNdZxX5j/F7eqV9Mk5UdVzVABIVg==;om6KHHlDar5JH+CaM1MjDw=="
+secured: "N619esCD8Z/4QVJP+glQATeE6zaAwS9J2tJpp1RyUnsiYYvD27MRf0gy3JUc47V5eN32SkrOcZ3gRhMJwKFrZNUbu06BZnaxJGGlBmBCM7wNVRqUrZjzg8goptQ0bfTpCQL1FqVDLGqEjJSGREzkwKvn5R8meDHY3weakmVvp2R1P7LOwYao/PXeg7m0KHj1aPP+7fMecYkG/142UP2p6BJ6ncrhTIIozg1dT1woPg+2nQvRypbWuW+XA2T7kbto+p/h20ZbuF4sQIjQpTQib7VuT2i8Bj4fk7gEI0+3mGy+WhIYRDAmjm1dpbAPT3mAA//yBuZrOXrIN4MsSTOPZzOFcSPVYfB0kjcZysXJt/A=;tiN1LxPG/Zm6X5K6bQV8Fg=="
 ---
 

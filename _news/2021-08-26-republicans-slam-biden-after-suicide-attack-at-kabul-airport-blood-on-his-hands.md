@@ -1,0 +1,53 @@
+---
+category: news
+title: "Republicans slam Biden after suicide attack at Kabul airport: 'Blood on his hands'"
+excerpt: "Republicans are slamming the Biden administration’s handling of Afghanistan after multiple explosions outside of the Kabul airport, injuring at least three U.S. troops."
+publishedDateTime: 2021-08-26T15:29:30Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8y0jUHY6aRk/republicans-slam-biden-suicide-attack-kabul-airport"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8y0jUHY6aRk/republicans-slam-biden-suicide-attack-kabul-airport"
+ampWebUrl: "https://www.foxnews.com/politics/republicans-slam-biden-suicide-attack-kabul-airport.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-slam-biden-suicide-attack-kabul-airport.amp"
+type: article
+quality: 169
+heat: 189
+published: true
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f21a20f-c555-47e9-aed4-4ad4452b5190/f2a5e305-dcf8-47a6-82ff-0d9b3276e875/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
+    isCached: true
+
+related:
+  - title: "President Biden silent for hours following Kabul attack that left at least 12 US service members dead"
+    excerpt: "President Biden has remained relatively silent after the attack in Kabul that left at least 12 U.S. service members dead and dozens of others on Wednesday."
+    publishedDateTime: 2021-08-26T19:35:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_dsBqJEWuMA/biden-silent-kubal-afghanistan-attack-service-members-dead"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-silent-kubal-afghanistan-attack-service-members-dead.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-silent-kubal-afghanistan-attack-service-members-dead.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c86d9104-8c3d-42b0-aa8c-58d7d652579a/608765f6-b3cd-4b1e-8ab6-543ac87a94cc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+
+secured: "a4g1yFMahGHTCJJsK1hk30JdZ418LPWkHaa1RbqvML3CBJ9gv4Cl/VyD8jsgkWLgCaNC7n/jPvn15dPDxG8NqeJjatEzVtkA70eHUo1vrMuLRCtX3JNgRJuEgzHvIYdzxLAVlNAnHkqeuHnSE2Y7FfKB1zjgoHQ3//MCSVNcjzTdOQCGrRZbj8V5YWbV75ENEu5xeXIlnFhPHe1nCJ2BBlGK2C+nW7fKQk648+719S5EDLCZoKPj8tr0mjtXl4yUnIfrv7ik8LvvYPwVjJVV74JKmypHtBy0s4+/yciN/c+PPzd8R0rlDMsturx6LPa0/Ri8qClNA51V9WbpfGBx6qoVcD6h71ODCti1jjs0clk=;F/EwJXmnAoCT6wCDBvp6UQ=="
+---
+

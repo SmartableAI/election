@@ -576,6 +576,17 @@ related:
         width: 1100
         height: 818
         isCached: true
+  - title: "Biden to meet with governors willing to help Afghan refugees"
+    excerpt: "President Joe Biden is meeting Thursday with bipartisan governors from across the U.S. who have expressed interest in helping resettle Afghans fleeing their country."
+    publishedDateTime: 2021-08-26T15:19:00Z
+    webUrl: "https://www.kentucky.com/news/politics-government/national-politics/article253752188.html"
+    ampWebUrl: "https://amp.kentucky.com/news/politics-government/national-politics/article253752188.html"
+    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/politics-government/national-politics/article253752188.html"
+    type: article
+    provider:
+      name: Lexington Herald Leader
+      domain: kentucky.com
+    quality: 55
   - title: "Ron DeSantis slams Joe Biden ‘lack of leadership’ at event highlighting COVID-19 treatment"
     excerpt: "Ron DeSantis turned his attention from COVID-19 to the White House. DeSantis aired grievances yet again about a perceived “lack of leadership” from President Joe Biden, showing that even at an event focused on the virus,"
     publishedDateTime: 2021-08-19T18:28:00Z

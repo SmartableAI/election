@@ -191,6 +191,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Time for Joe Biden to step up war on Covid"
+    excerpt: "The only unalloyed good news for Joe Biden in recent days has been the Federal Drug Administration’s full approval of the BioNTech/Pfizer coronavirus vaccine. Though the FDA took longer than many hoped,"
+    publishedDateTime: 2021-08-26T16:02:00Z
+    webUrl: "https://www.ft.com/content/8c96e965-b446-4e0e-a9c6-03251623cfad"
+    ampWebUrl: "https://amp.ft.com/content/8c96e965-b446-4e0e-a9c6-03251623cfad"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/8c96e965-b446-4e0e-a9c6-03251623cfad"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 125
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fea1d518f-2096-4ece-89fc-3bc4ce08a9ec.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Rand Paul Calls for Joe Biden to Burn Face Mask to Promote COVID Vaccine"
     excerpt: "Rand said that \"virtually zero\" people have died of COVID-19 after being vaccinated. The number is closer to 5,800, according to the U.S. Centers for Disease Control and Prevention."
     publishedDateTime: 2021-04-22T01:13:00Z

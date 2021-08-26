@@ -567,6 +567,22 @@ related:
         width: 6720
         height: 4480
         isCached: true
+  - title: "Israeli PM and Biden postpone meeting because of Afghanistan"
+    excerpt: "President Joe Biden and Israeli Prime Minister Naftali Bennett have postponed their White House meeting as Biden focused his attention on dealing with the aftermath of deadly explosions near the Kabul airport that targeted U."
+    publishedDateTime: 2021-08-26T18:45:00Z
+    webUrl: "https://www.registercitizen.com/news/article/Israeli-PM-to-make-case-to-Biden-against-Iran-16412725.php"
+    ampWebUrl: "https://www.registercitizen.com/news/amp/Israeli-PM-to-make-case-to-Biden-against-Iran-16412725.php"
+    cdnAmpWebUrl: "https://www-registercitizen-com.cdn.ampproject.org/c/s/www.registercitizen.com/news/amp/Israeli-PM-to-make-case-to-Biden-against-Iran-16412725.php"
+    type: article
+    provider:
+      name: The Register Citizen
+      domain: registercitizen.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Joe Biden gifting Afghanistan to the Taliban is a crime against humanity"
     excerpt: "IN 20 days, it will be exactly 20 years since someone phoned you and said, “Turn on your television now.” Twenty years since those planes came out of a clear blue sky and ploughed into the Twin"
     publishedDateTime: 2021-08-22T01:02:00Z
@@ -980,6 +996,20 @@ related:
       - url: "https://media.npr.org/assets/img/2021/08/21/gettyimages-1335286391-96142ddf7e64f6d8fc217156713fb08a47f56993.jpg?s=6"
         width: 948
         height: 710
+        isCached: true
+  - title: "Joe Biden’s full flop on messages about Afghanistan withdrawal"
+    excerpt: "President Joe Biden said in April that it was time for our troops to come home from Afghanistan. “We’ll do it responsibly, deliberately, and safely,” he said. Biden said in July that a takeover by the Taliban was not inevitable,"
+    publishedDateTime: 2021-08-24T08:23:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/aug/20/joe-biden/joe-bidens-full-flop-messages-about-afghanistan-wi/?te=1&nl=the-morning&emc=edit_nn_20210825"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 55
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-full-flop.jpg"
+        width: 438
+        height: 391
         isCached: true
   - title: "US President Joe Biden to virtually meet G7 leaders today to discuss Afghanistan evacuation, humanitarian assistance"
     excerpt: "US President Joe Biden is scheduled to hold a virtual meet with other G7 leaders on Tuesday to discuss close coordination on Afghanistan policy and evacuation operations"

@@ -57,6 +57,20 @@ related:
         width: 800
         height: 420
         isCached: true
+  - title: "Seth Meyers doesn’t think Donald Trump should praise the Taliban"
+    excerpt: "On Wednesday’s “Late Night,” Seth Meyers criticized the “right-wing ghouls” who are acting like America’s depressing and chaotic pullout from Afghanistan is entirely President Joe Biden’s fault, and not the cumulative,"
+    publishedDateTime: 2021-08-26T14:58:00Z
+    webUrl: "https://www.imdb.com/news/ni63402919/"
+    type: article
+    provider:
+      name: IMDb
+      domain: imdb.com
+    quality: 55
+    images:
+      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
+        width: 1000
+        height: 1000
+        isCached: true
 
 secured: "WSIdqcCLfvYfS95VodkNB+tOhGzJEvbYJc88VvWoTO43UCb9XvgIoDZaRvJCUJVE9z1plbowcDe3jCGbQVVY1SOwfp/BsLThZdcszq5xlv4XHKf7kvvfEJZ6URf1MDOrOEidHtGDaBOnAPze9B3AIJim0W2l7qhB9Gg+iic3VjsqfVHPh8gwOLP3bEcVLE5AeqTjLSO7jum6w+tCte0Ewy7fB3Vd07dxbS5GTZLdPpVJ4TOC428/mDirJMl2vbSJLdvLpH60CXUErVsGhXIhLGhNC5FAD4kSeEfaA91UyiPQ3a+tJ3KyJml6tIPMup8rDSWM89slSwTIdCLpuzJwoX+STvk2az9tfYBlLFOeATs=;kF2Cg19ntr8zINb08Iez2Q=="
 ---

@@ -176,6 +176,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Kamala Harris Pledges U.S. Help for Afghan Women and Children"
+    excerpt: "As she left Southeast Asia, the vice president also delivered a blunt message to China. The United States does not want conflict, she said, but on some issues, “we are going to speak up.”"
+    publishedDateTime: 2021-08-26T11:50:00Z
+    webUrl: "https://www.nytimes.com/2021/08/26/world/asia/kamala-harris-vietnam-afghanistan.html"
+    ampWebUrl: "https://www.nytimes.com/2021/08/26/world/asia/kamala-harris-vietnam-afghanistan.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/26/world/asia/kamala-harris-vietnam-afghanistan.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/08/26/world/26harris-asia01/26harris-asia01-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Kamala Harris arrives in Guatemala on first foreign trip as vice president"
     excerpt: "After an enforced return to Joint Base Andrews to change planes, Vice President Kamala Harris finally arrived in Guatemala at the start of her first foreign trip as vice president."
     publishedDateTime: 2021-06-07T09:08:00Z

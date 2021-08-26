@@ -160,6 +160,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "China exploits Kamala Harris’ plane delay to double US vaccine offer to Vietnam"
+    excerpt: "Kamala Harris was on route to Vietnam to offer a coronavirus-rescue package, including 1 million extra doses of the Pfizer vaccine, when her plane was delayed."
+    publishedDateTime: 2021-08-26T12:36:00Z
+    webUrl: "https://nypost.com/2021/08/26/china-exploits-kamala-harris-vietnam-delay-to-double-covid-vaccine/"
+    ampWebUrl: "https://nypost.com/2021/08/26/china-exploits-kamala-harris-vietnam-delay-to-double-covid-vaccine/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/26/china-exploits-kamala-harris-vietnam-delay-to-double-covid-vaccine/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 131
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/kamala-harris-vietnam.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Kamala Harris Tries to Improve Southeast Asia Ties as China Prods From Sidelines"
     excerpt: "The Biden administration will continue to call out China for its aggressive maritime claims but doesnâ€™t want a conflict, the vice president said, seeking to strike a balance with regional countries caught between the rival powers."
     publishedDateTime: 2021-08-26T10:14:00Z
@@ -218,6 +234,6 @@ related:
         height: 568
         isCached: true
 
-secured: "vwExommUflp8xQvbzJub+Cc6ZwHjCnS8haNxhsSswRzk0d541DvSzDI33kjjc37xCh32aA4zNWye0AlraP7Ffp0UNYL+4kQ1WD/v/1c6gFeBeAxxS1A82Q2p3Cmt9sQte6saHdc2epzPJw/NloqPe4grYIADcsY1gq8S6Bm/D6SQPKhmP+qW3txCXFsDl5PZXFF6jkk5ZNXvCR7GDlC5z6S7Wl/WvWdtXt4xGg5IW6BvvYTYVNzHNFv9nxo0BmDrlqdqMLyRA6sTNzMgKIbKeHaptKcMvXg3Z1UoLUnuu/cZ0m6KOqxyk/X2/EHP9g9Fyl+eBmtz+Lo4MB4WCzVJf7j6vt/HhITUMKgFxBA18J0=;a20EnpjVFiGZ3f8S0LQc4w=="
+secured: "xyrCzrQqaYV7qJbNvt8w3ONk+tREAaI0+r0tDvJ2i2gGBP5r16p4McF/KmoVm5BawHLVHr3DoQCRmDJPu7W3T2YKsaonj0hRB1HeN1f1zE0ILpMXM4Gq7rQwA36XoO3ks0X5Qr9+BCMHSnaz5mnogeFkv5/yQ2R0vijbPUiDx5Zxrj93glScOkGtOYe6D5i7gZqymbMFONG2X0NMvK26gKD/IHLSybpQmgaTjfK+0s0E61T2OsoVBqVXRadVz1K97ifN71fjxDhttLb7+5wqSXyTco/vjxz3yAd/iakeIzl21ve57EwjuurWu46K0coS2AnmdkZmzrBcEtvvwNvfwbOQqmmscWmg8XcdgFL5ErAKfO3jGgnYsfVbY/BQEYG68vpU0xzDStIJT2PqpsbQ9LN8BsTaSHfBni98qKpdi+v4w8Q6IEKEB911qjKX0NMMMsvRyPvkehVCH0eMvlBEhh8U9vrwC/cvpIzYvnFkWYXNOHnq/VpsMYn91THqEgfbftF6L7hyXqaayVgBiycwcQ==;jrArn8n2KhWyV1DR3xv5AA=="
 ---
 

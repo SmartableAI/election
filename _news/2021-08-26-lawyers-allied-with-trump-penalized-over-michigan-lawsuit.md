@@ -2,29 +2,23 @@
 category: news
 title: "Lawyers allied with Trump penalized over Michigan lawsuit"
 excerpt: "Nine lawyers allied with former President Donald Trump face financial penalties and other sanctions in Michigan."
-publishedDateTime: 2021-08-26T03:59:00Z
-originalUrl: "https://www.click2houston.com/news/politics/2021/08/25/lawyers-allied-with-trump-penalized-over-michigan-lawsuit/"
-webUrl: "https://www.click2houston.com/news/politics/2021/08/25/lawyers-allied-with-trump-penalized-over-michigan-lawsuit/"
-ampWebUrl: "https://www.click2houston.com/news/politics/2021/08/25/lawyers-allied-with-trump-penalized-over-michigan-lawsuit/?outputType=amp"
-cdnAmpWebUrl: "https://www-click2houston-com.cdn.ampproject.org/c/s/www.click2houston.com/news/politics/2021/08/25/lawyers-allied-with-trump-penalized-over-michigan-lawsuit/?outputType=amp"
+publishedDateTime: 2021-08-26T15:30:00Z
+originalUrl: "https://www.theolympian.com/news/nation-world/article253747698.html"
+webUrl: "https://www.theolympian.com/news/nation-world/article253747698.html"
+ampWebUrl: "https://amp.theolympian.com/news/nation-world/article253747698.html"
+cdnAmpWebUrl: "https://amp-theolympian-com.cdn.ampproject.org/c/s/amp.theolympian.com/news/nation-world/article253747698.html"
 type: article
-quality: 75
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Click2Houston
-  domain: click2houston.com
+  name: The Olympian
+  domain: theolympian.com
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/BMM2O6H4UVBKPEHVVVO5TN3MXQ.jpg"
-    width: 5472
-    height: 3648
-    isCached: true
 
 related:
   - title: "Alan Dershowitz Says Donald Trump Ties Have Lost Him Many Friends"
@@ -224,6 +218,6 @@ related:
         height: 710
         isCached: true
 
-secured: "FjhzT5mg2BeVhMIMCF9OAb1ds3z9Pv/flfAy/d4iZANNijS5Oq4ShGyJ0lXxEDKdzggJ+vXdYtwWSW94uguiHqk+3jbyRbiqpC8gAHIXdrRcplLpRZy893VxUNIgaSzp4UWS7deyHnNBzV5Zf/dbiVVu0sXLBxwvG9EZt/ctewxbltgsQSkmXglnji0nMj1E+tRTwQczcRndl/GwxJ8rJYNLZQ+4MSVgekm943eFb74/C6JkK1vFsTnbRML6oez4rDTcgJU/7YDDytDSR2mGIpjHlH0maHGk3yM3kL/29zeAE636N9oiYCTDtpkHicDBzajJdz5b/owEXFqxxfl3+noahVvzr6eCMgmxRgCifOQ=;Kecf8ObAaXN8S5Ub8nJQGA=="
+secured: "J2z9iTrStmOCAOWeOojz4bHIF6107gXO8mU5RyxS9n//tIU4ZsSnYRF9oaxFUxiw+bEVPH7waIfzMOCuJU8IxusXsKS5y7XwWvAwt/+8p+ZZK8lg+gl5TJKGCAOHeRx1dsku9yYgAv0b9KynhRb10BzpgPh6+Qx3vaxdMeCMNyYZv/u4Dam0ByghTsGoUxvIla5pfHdsdZ9Qwm7EV8rBUgaQapUKLdAsLGBH5Gv9TFmXHOVQTbQXls0dLd97tQoB7MCQKA/a4iMAq28RbWgnmS0QL2FYzKEcYX9WIlF7mo3ZWnnHa/Dhj1jvnYQaHHHDrRW6b4fI/aXRZA0Vjdsih6Bo/CGmsZDeYOD3/R44ofmJITcAZKtHEzF4TrkGLA4o1DT/7swz+n0i5obhUhYZjpAaAMBQWhVaDm8PkM+eFZneDxiUcWx0icWibUbcYqK45sW4p+jPzFuPBXJmgVFqCSOLlDBlXHM+BvNSr6Dz+rXraFmMikZ6fLo0z0jnm0vKRBG4agtVvmL9/DyKFhRNlw==;IXnfbBhBuZ83C1pzi9rdVw=="
 ---
 

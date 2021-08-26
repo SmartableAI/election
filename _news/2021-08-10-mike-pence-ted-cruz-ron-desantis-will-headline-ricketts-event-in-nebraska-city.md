@@ -83,18 +83,18 @@ related:
         height: 533
         isCached: true
   - title: "Pence, Cruz, DeSantis to headline Ricketts steak fry event"
-    excerpt: "Former Vice President Mike Pence, Texas Sen. Ted Cruz and Florida Gov. Ron DeSantis are coming to Nebraska for Gov. Pete Ricketts' annual steak fry next month. The high-profile Republicans will appear at the gathering to celebrate agriculture on Sept."
-    publishedDateTime: 2021-08-09T15:18:00Z
-    webUrl: "https://ktiv.com/2021/08/09/pence-cruz-desantis-to-headline-ricketts-steak-fry-event-2/"
+    excerpt: "Former Vice President Mike Pence, Texas Sen. Ted Cruz and Florida Gov. Ron DeSantis are coming to Nebraska for Gov. Pete Ricketts' annual steak fry next"
+    publishedDateTime: 2021-08-09T15:38:00Z
+    webUrl: "https://journalnow.com/news/national/govt-and-politics/pence-cruz-desantis-to-headline-ricketts-steak-fry-event/article_879e4277-8b98-50f2-a55e-43601cd4bc09.html"
     type: article
     provider:
-      name: KTIV
-      domain: ktiv.com
+      name: Winston-Salem Journal
+      domain: journalnow.com
     quality: 55
     images:
-      - url: "https://quincy-network.s3.ca-central-1.amazonaws.com/wp-content/uploads/sites/4/2020/03/Governor-Ricketts-Headshot.jpg"
-        width: 720
-        height: 405
+      - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/custom/image/d0e8546e-79ea-11e6-b85b-bf46fb96285c.gif?resize=600%2C600"
+        width: 600
+        height: 600
         isCached: true
 
 secured: "8GjLqyZiu65SpNQ3Vwgt/U18ZsWjxFY/58jUuSWv601ViH04g9IxsPNX+HDNWRdwGZegmVLXSgh7HzhhEP6w7RX1PxJyxqcxv3+M+CtqIb/fSNZT22cdADJLv4Rz1eRjq/eai2BGmoj1ClZb2tHnVfSztz6YdubSlCLyRNlYzYJ7vMJiIQdiCIK0G8nIpu2G7NqzRjvayT3yBueM23CxO318edw2aMM3XpmDFjT/EMtNBAMqvfMpR4jQTRol2AoiWnX+xiNa2Yg2Md2Slfatlzn/BomghS9+962nrZsyW/5vslLB+11Dbt2MTZ3IgRi2NSW3ruimSIfiJ4NLdZQus/Yl4P3Ei4lPwQNatFcM3gpC5ZZTKK+oXMbH3uaX10YOsN1A/1KXmbpljdmF98fSA81XmU5WOPBYFAeP4xdsNhsrWI4Zl7FFNcdwB4BTKeMZlzgyUztA7E4kHP6urSsIVldkLZIJo7HZFAtK4HVmYdwNZt3XmMmGIJMXI/yCXuoKWvXw+a05yEcE2Tw+IW4LzA==;y26JvCxYswdmZx5tx9QwrQ=="

@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Kamala Harris says evacuating Americans, Afghan allies is Biden admin's 'highest priority'"
-excerpt: "Vice President Kamala Harris said evacuating Americans and U.S. allies in Afghanistan is the administration’s \"highest priority\" while answering reporters’ questions in Vietnam on Thursday. "
-publishedDateTime: 2021-08-26T09:32:50Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/stJDZh-mWbs/kamala-harris-evacuations-americans-afghan-allies-biden-priority"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/stJDZh-mWbs/kamala-harris-evacuations-americans-afghan-allies-biden-priority"
+excerpt: "Vice President Kamala Harris said evacuating Americans and U.S. allies in Afghanistan is the administration’s \"highest priority\" while answering reporters’ questions in Vietnam on Thursday."
+publishedDateTime: 2021-08-26T10:04:00Z
+originalUrl: "https://www.foxnews.com/politics/kamala-harris-evacuations-americans-afghan-allies-biden-priority"
+webUrl: "https://www.foxnews.com/politics/kamala-harris-evacuations-americans-afghan-allies-biden-priority"
 ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-evacuations-americans-afghan-allies-biden-priority.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-evacuations-americans-afghan-allies-biden-priority.amp"
 type: article
-quality: 190
+quality: 140
 heat: -1
 published: false
 
@@ -22,8 +22,8 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Kamala Harris
+  - Republican Voice
 
 images:
   - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ade3c3e8-b310-491d-93bc-0fb2bf926352/a1d10e54-a2ea-488c-a581-d47216f33613/1280x720/match/720/405/image.jpg?ve=1&tl=1"
@@ -95,6 +95,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump counterterrorism official outlines Biden's 'missteps' leading to deadly Kabul bombings"
+    excerpt: "A former top Trump administration counterterrorism official said that the Biden White House made a few critical missteps during evacuation efforts, leading up to the deadly bombings near the Kabul airport Thursday that killed four U.S. Marines."
+    publishedDateTime: 2021-08-26T17:46:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GIYPmL4S5n4/trump-counterterrorism-biden-missteps-kabul-bombings"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-counterterrorism-biden-missteps-kabul-bombings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-counterterrorism-biden-missteps-kabul-bombings.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a292b92d-1ebb-4652-a408-e8c236ed6e91/52e5ef64-5dc9-40e4-bc57-c0a8e82812fe/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Biden cuts vacation short, returns to the White House"
     excerpt: "President Joe Biden returned to the White House from Camp David Tuesday night a day before originally scheduled as he faces vocal criticism from both sides of the aisle over the chaos unfolding during the American withdrawal from Afghanistan."
@@ -287,6 +303,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "FLASHBACK: Biden vowed Afghanistan withdrawal would be 'safe and orderly'"
+    excerpt: "During a press conference in March, President Biden vowed that the troop withdrawal from Afghanistan, if the U.S. engaged in one, would be “safe and orderly.”"
+    publishedDateTime: 2021-08-26T19:09:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P2BESXPyHsc/biden-afghanistan-withdrawal-safe-orderly"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-afghanistan-withdrawal-safe-orderly.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-afghanistan-withdrawal-safe-orderly.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/02b53013-5070-4966-9aa8-89d4c1cf561a/97bcf7d5-44be-45a7-92b7-bc22b8d2e00c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Afghanistan 'political disaster' for Biden, former top Clinton adviser says"
     excerpt: "President Biden's handling of the evacuation efforts in Afghanistan is a \"political disaster\" that could cost Democrats in the midterm elections, a former top adviser to both Hillary and Bill Clinton told told Fox News in an interview."
@@ -493,6 +525,22 @@ related:
     quality: 167
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7c14802b-c1f8-4dc7-8710-fba5ac59a4de/4ff30400-8ebc-4bb7-bd02-5915f841768c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Afghanistan catastrophe cause for Biden to resign, according to Congressman Mike Garcia"
+    excerpt: "Rep. Mike Garcia demanded that President Biden resign over the crisis in Afghanistan. His comments came ahead of the explosions Thursday that injured at least three Marines."
+    publishedDateTime: 2021-08-26T15:01:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WvfgBGzFWXM/afghanistan-catastrophe-joe-biden-to-resign-republican-mike-garcia"
+    ampWebUrl: "https://www.foxnews.com/politics/afghanistan-catastrophe-joe-biden-to-resign-republican-mike-garcia.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/afghanistan-catastrophe-joe-biden-to-resign-republican-mike-garcia.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2fe494e5-57f3-45c0-9aac-aa68a9cb652f/f9262d22-4aa8-4d55-894e-e5e726e3817a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -893,6 +941,22 @@ related:
     quality: 160
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden briefed on Afghanistan explosions; press briefings, meeting with Israeli prime minister delayed"
+    excerpt: "A meeting between President Biden and a bipartisan group of governors was canceled."
+    publishedDateTime: 2021-08-26T17:12:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/a5eeMAMrNJ8/biden-briefed-afghanistan-kabul-explosion"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-briefed-afghanistan-kabul-explosion.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-briefed-afghanistan-kabul-explosion.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -1549,6 +1613,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "o+8uROGE6s7Wit+SdZIkT+L2YI4KItm9EfVjM3PutwGgnBXVJjmB8zxmZHSycXvYXfy2b73sCNsJus3/INHFP+L6A9phemJMhz/gELV29fkxpgBZnkf91r6wXhUrAu4mtCkmPlKz97u5/YJXjWL3rO3iJbLzFtuiqHtPMqsrMAvP5lZp0IPKWITgWrbrb2jwrNTTlVbGRNNY2uTbZxf9kqznQzrZJQBCznux3QyeFis52bLZlGkWmW/SLcJm1JbijUv57Y599u0+9mMZBqXnd9mFuCCEGetWH4gcXw2ZgT+/vF4U47bsI6sucWhNEn8eCPjJAS0iNo6e/oPPfe9QtirKQfK14isyiQuUbSKBOKQ=;QZmwmZOrfenHhh8mK96RFg=="
+secured: "b732n84pO78JFagLkHJH5PgCluYR7bu9HXRZjnr7TERL4yKZSyB6SDbWqgeaeQpIn3D5USb2PA+/J94PEs1lcsx9K++9s5D5kLrEnNbYXnsjVNATtPOBP/3+jRkUpuIQbxqXs/jqq7g5NbO43tJACnjDObgJCne1Ydee1yKuDj/pR5UAtyuRUyobVVbFrJWoprdjOGonZ2Tno5CT7TVW2CbEpWbgPNM2ETQAJnjlmHtVyMFghFvh6jUEun02AnRQVIHW+0bGODg0DOJEzu5hEfVQK67WDTiDaHFdHN+Tg5rPCUwxYaBwJy5Ga3aBrS+4kWCrcZ7k9pZdSw53NOWkMElq/gMSUpctkLnhgnQWePqoIhsfcVaNdNBYMkEGtAjuVwdstXyomtEP9cxP1DWxn7lobXL/7BS4wi6ctAZKp5NmwMlAXLC45rlcn+7GkfVDnl3ri5Sjd1kPcc66lCill4KL5pdrmP7lEjtSdBgcPVxYzXHDXzAdAGMwgNosGm2MMMx5EKomv3cF+e4eS2JsxQ==;TKW09PGjYry1PWwcgUvlog=="
 ---
 

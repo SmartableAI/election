@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.miamiherald.com/news/local/crime/article253598118.html"
 cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/local/crime/article253598118.html"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: Miami Herald
@@ -27,20 +27,77 @@ images:
     isCached: true
 
 related:
-  - title: "LZ Granderson: The election is over. In Arizona, the Trump campaign continues"
-    excerpt: "I would like to share with you a brief conversation about politics that I didn't want to have. But the man in the Arizona bar sitting a couple of stools"
-    publishedDateTime: 2021-08-26T08:00:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/lz-granderson-the-election-is-over-in-arizona-the-trump-campaign-continues/article_cdb3fb76-1ebe-5f91-a594-75a4f2ef043f.html"
+  - title: "Seven Capitol cops SUE Donald Trump and his allies for 'plot' on the Capitol"
+    excerpt: "Seven Capitol Police officers have filed suit against former President Donald Trump, and some of his associates, claiming they caused the Capitol riot that caused them to face beatings and injuries"
+    publishedDateTime: 2021-08-26T17:48:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-9930019/Seven-Capitol-cops-SUE-Donald-Trump-allies-plot-Capitol.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-9930019/amp/Seven-Capitol-cops-SUE-Donald-Trump-allies-plot-Capitol.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9930019/amp/Seven-Capitol-cops-SUE-Donald-Trump-allies-plot-Capitol.html"
     type: article
     provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
-    quality: 67
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 72
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+      - url: "https://i.dailymail.co.uk/1s/2021/08/26/17/47138019-0-image-a-43_1629996316019.jpg"
+        width: 636
+        height: 382
+        isCached: true
+  - title: "Donald Trump gets booed at rally for encouraging his supporters to get Covid jab"
+    excerpt: "Nearly 40% of Republicans are still resistant to getting the Covid-19 vaccine or refuse to get it, a Public Religion Research Institute/Interfaith Youth Core poll recently found"
+    publishedDateTime: 2021-08-22T23:19:00Z
+    webUrl: "https://www.mirror.co.uk/news/us-news/donald-trump-gets-booed-rally-24815259"
+    ampWebUrl: "https://www.mirror.co.uk/news/us-news/donald-trump-gets-booed-rally-24815259.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/us-news/donald-trump-gets-booed-rally-24815259.amp"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 70
+    images:
+      - url: "https://i2-prod.mirror.co.uk/incoming/article24815279.ece/ALTERNATES/s615/0_Former-President-Trump-speaks-in-Alabama.jpg"
+        width: 615
+        height: 409
+        isCached: true
+  - title: "Donald Trump Encouraged People at His Rally to Get Vaccinated. They Booed Him."
+    excerpt: "According to a Trump adviser, the then-president and his wife, Melania, got the vaccine in January—a fact that wasn’t reported until March . 2) The rally brought thousands of people to York Family Farms in Cullman County,"
+    publishedDateTime: 2021-08-22T13:52:00Z
+    webUrl: "https://www.motherjones.com/politics/2021/08/donald-trump-cullman-alabama-rally-covid-boo/"
+    type: article
+    provider:
+      name: Mother Jones
+      domain: motherjones.com
+    quality: 51
+    images:
+      - url: "https://www.motherjones.com/wp-content/uploads/2021/08/20210822_cullman.jpg?w=1200&h=630&crop=1"
         width: 1200
         height: 630
         isCached: true
+  - title: "Secret Service Reportedly Warned Police of Violence From Trump Supporters the Day Before Capitol Riot: ‘Time to Take Out All of Them’"
+    excerpt: "A new report indicates that the Secret Service warned the U.S. Capitol Police on January 5th about threats they might face from Trump supporters."
+    publishedDateTime: 2021-08-25T12:14:00Z
+    webUrl: "https://www.mediaite.com/news/secret-service-reportedly-warned-police-of-violence-from-trump-supporters-the-day-before-capitol-riot-time-to-take-out-all-of-them/"
+    ampWebUrl: "https://www.mediaite.com/news/secret-service-reportedly-warned-police-of-violence-from-trump-supporters-the-day-before-capitol-riot-time-to-take-out-all-of-them/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/secret-service-reportedly-warned-police-of-violence-from-trump-supporters-the-day-before-capitol-riot-time-to-take-out-all-of-them/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 44
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2021/04/US-Capitol-Siege-Breach-January-6-2020-via-Facebook-video-screengrab.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Conspiracy theorists, led by former Trump aide Flynn, to descend on Las Vegas"
+    excerpt: "Las Vegas could be at risk of being used as a platform for spreading misinformation by far-right extremists who have openly called for the insurrection and participated in the failed coup in Washington."
+    publishedDateTime: 2021-08-24T09:02:00Z
+    webUrl: "https://lasvegassun.com/news/2021/aug/24/conspiracy-theorists-led-by-former-trump-aide-flyn/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 32
 
 secured: "c117kkgUbmBCWxNtlI+eLWlOD9bZTGNkh2ecWnRid/l8yFo0DpfeyTAnA+VdoxoLeEgw7X98ydRMBFPykEbvPWM0fxYbk+rdnsRUfj9InsDGHvwhp4CG1jMN7NdDwVmb4ecH8FBTcuwyQyF6mrHSZ5Al44JdhFzT3+crE+RrJBK2+0XjGGanwMM0uC4R+NjZXJftBf03j/udtG3/dRz2sCKd+3+eU6mCt58eNopc3yElkL+86ptQKLsB1FJcYEgcQsxKcJxdModh6ApkX0xUQF7iLP6ct88pc62E/q2voi8fbCiaGqVkEcmE4CHTRfAq5fkRKOw2E+cdqf3XPsWsxxZ02oxetYArOdSYwfGr0e6C7agRel4kVmc3GiKZaOUVtVqZL4oMcHYkWPHsmVpXNH8RO3puBbDPFIUcANTe4/Udml3bKraRSoER1j+05s8nh06Nu4VQZZ+jj7BaU4exULRK7ckbgWW2OYQyV9kA94a10k/1JHpzztv5zqkChcHVO/isyrGFAcSERhHDUGihPw==;dyQOQSfR2EXGHNiE+zpLWQ=="
 ---

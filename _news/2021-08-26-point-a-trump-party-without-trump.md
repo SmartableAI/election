@@ -151,22 +151,6 @@ related:
         width: 1024
         height: 698
         isCached: true
-  - title: "Lawyers allied with Trump penalized over Michigan lawsuit"
-    excerpt: "Nine lawyers allied with former President Donald Trump face financial penalties and other sanctions in Michigan."
-    publishedDateTime: 2021-08-26T03:59:00Z
-    webUrl: "https://www.click2houston.com/news/politics/2021/08/25/lawyers-allied-with-trump-penalized-over-michigan-lawsuit/"
-    ampWebUrl: "https://www.click2houston.com/news/politics/2021/08/25/lawyers-allied-with-trump-penalized-over-michigan-lawsuit/?outputType=amp"
-    cdnAmpWebUrl: "https://www-click2houston-com.cdn.ampproject.org/c/s/www.click2houston.com/news/politics/2021/08/25/lawyers-allied-with-trump-penalized-over-michigan-lawsuit/?outputType=amp"
-    type: article
-    provider:
-      name: Click2Houston
-      domain: click2houston.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/BMM2O6H4UVBKPEHVVVO5TN3MXQ.jpg"
-        width: 5472
-        height: 3648
-        isCached: true
   - title: "Trump border wall damaged by heavy flooding"
     excerpt: "Severe weather in southern Arizona appears to have damaged parts of the border wall erected by the Trump A The Tucson Sentinel reports that U.S. Customs and Border Protection agents have confirmed “historic” flooding at the nation’s border with Mexico is to blame for the destruction."
     publishedDateTime: 2021-08-23T16:49:00Z
@@ -209,6 +193,17 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "Lawyers allied with Trump penalized over Michigan lawsuit"
+    excerpt: "Nine lawyers allied with former President Donald Trump face financial penalties and other sanctions in Michigan."
+    publishedDateTime: 2021-08-26T15:30:00Z
+    webUrl: "https://www.theolympian.com/news/nation-world/article253747698.html"
+    ampWebUrl: "https://amp.theolympian.com/news/nation-world/article253747698.html"
+    cdnAmpWebUrl: "https://amp-theolympian-com.cdn.ampproject.org/c/s/amp.theolympian.com/news/nation-world/article253747698.html"
+    type: article
+    provider:
+      name: The Olympian
+      domain: theolympian.com
+    quality: 55
   - title: "Jan. 6 Select Committee Probe Expands To Trump And Top Officials In A Wave Of Demands"
     excerpt: "The House select committee investigating the Jan. 6 attack on the Capitol issued a wave of record requests to eight federal agencies, including any communications by Rudy Giuliani and Ivanka Trump."
     publishedDateTime: 2021-08-25T17:58:00Z

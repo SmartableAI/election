@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
 type: article
 quality: 125
-heat: 1025
+heat: 1045
 published: true
 
 provider:
@@ -566,6 +566,17 @@ related:
         width: 1100
         height: 818
         isCached: true
+  - title: "Biden to meet with governors willing to help Afghan refugees"
+    excerpt: "President Joe Biden is meeting Thursday with bipartisan governors from across the U.S. who have expressed interest in helping resettle Afghans fleeing their country."
+    publishedDateTime: 2021-08-26T15:19:00Z
+    webUrl: "https://www.kentucky.com/news/politics-government/national-politics/article253752188.html"
+    ampWebUrl: "https://amp.kentucky.com/news/politics-government/national-politics/article253752188.html"
+    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/politics-government/national-politics/article253752188.html"
+    type: article
+    provider:
+      name: Lexington Herald Leader
+      domain: kentucky.com
+    quality: 55
   - title: "Joe Biden IS the ‘Red Flag’"
     excerpt: "On the eve of the 20th observance of the 9/11 Islamist attack on our nation, Joe Biden has re-seeded al-Qa'ida’s terrorist turf — the result of his compressed Afghanistan exit schedule. That schedule was motivated by his desire to take a political victory lap ahead of the 20th observance."
     publishedDateTime: 2021-08-25T19:08:00Z

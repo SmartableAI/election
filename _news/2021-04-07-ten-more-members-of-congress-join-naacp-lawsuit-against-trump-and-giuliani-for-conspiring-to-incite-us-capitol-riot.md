@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Seven US Capitol Police officers sue former President Trump, Stop the Steal organizers over January 6 riot"
+    excerpt: "Seven US Capitol Police officers are suing former President Donald Trump, Stop the Steal rally organizers and members of far-right extremist groups, accusing them of spreading lies, using White supremacist sentiments to attempt to overthrow the 2020 election, and ultimately bearing responsibility for"
+    publishedDateTime: 2021-08-26T16:47:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/D4CgYnXut0s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/26/politics/capitol-police-officers-sue-donald-trump-rally-organizers/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/26/politics/capitol-police-officers-sue-donald-trump-rally-organizers/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210826124140-trump-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "James Blassingame and Sidney Hemby’s Lawsuit Against Donald Trump"
     excerpt: "Case No.: DONALD J. TRUMP : : : Defendant. COMPLAINT 1. This is a complaint for damages by U.S. Capitol Police officers for physical and emotional injuries caused by the defendant Donald Trump's wrongful conduct inciting a riot on January 6, 2021 ..."
     publishedDateTime: 2021-03-31T10:55:00Z

@@ -1,29 +1,27 @@
 ---
 category: news
 title: "House panel probing 1/6 riot seeks host of Trump-era records"
-excerpt: "The House committee investigating the January insurrection at the U.S. Capitol is demanding a trove of records from federal intelligence and law enforcement agencies, showing the sweep of the lawmakers' review of the deadly attack by a mob of Donald Trump supporters."
-publishedDateTime: 2021-08-26T11:57:00Z
-originalUrl: "https://www.mrt.com/news/article/House-panel-probing-1-6-riot-seeks-host-of-16412712.php"
-webUrl: "https://www.mrt.com/news/article/House-panel-probing-1-6-riot-seeks-host-of-16412712.php"
-ampWebUrl: "https://www.mrt.com/news/amp/House-panel-probing-1-6-riot-seeks-host-of-16412712.php"
-cdnAmpWebUrl: "https://www-mrt-com.cdn.ampproject.org/c/s/www.mrt.com/news/amp/House-panel-probing-1-6-riot-seeks-host-of-16412712.php"
+excerpt: "The House committee investigating the January insurrection at the U.S. Capitol is demanding a trove of records from federal intelligence and law enforcement agencies, showing the sweep"
+publishedDateTime: 2021-08-26T12:30:00Z
+originalUrl: "https://www.wyomingnews.com/rawlinstimes/news/house-panel-probing-1-6-riot-seeks-host-of-trump-era-records/article_d55b9321-247a-565e-8b4f-4387d8b472b2.html"
+webUrl: "https://www.wyomingnews.com/rawlinstimes/news/house-panel-probing-1-6-riot-seeks-host-of-trump-era-records/article_d55b9321-247a-565e-8b4f-4387d8b472b2.html"
 type: article
-quality: 75
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Midland Reporter-Telegram
-  domain: mrt.com
+  name: Wyoming News
+  domain: wyomingnews.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/d/65/d65a12f7-c093-5311-8a2d-edcf5c9eacfd/6127737f9f856.image.jpg?crop=1567%2C1175%2C98%2C0&resize=840%2C630&order=crop%2Cresize"
+    width: 840
+    height: 630
     isCached: true
 
 related:
@@ -104,6 +102,6 @@ related:
         height: 584
         isCached: true
 
-secured: "AQzLFQo2/KdDmPn7PGcupZBjmfMbBBlw+unefSH+ZMITLPBzGOudIn00CWKuK1/v1nc0DaM9pkmSAGRVhxpqXv8DgZ/Fg26aC5GkGf6cvTpCCcsnamPF3LXVHPs6Z21NL1N3TBd+ZcCojyq7c4lRas4CbtJw3d3p2YGruBpvIERLXD4tT3ZjzaZKP7vWwxYb7lwlp9BeUEHQaKzVE6IjCzU5kAb58sf4Q8e9DrQcSy2NgoBHJKBaHyHNkVJolT8mDrsRSvqbK2XtMt5kcxpdtogwLlGShKbP/h4hjX7u3Zgm9tPOcqnxAJ7mPG4kkad8WjkZ4N7A51xOKRfCzk5qkfLDcI67eqsJB1iq0qS6cr8=;bv11GfvxipgAOpk4zitvfg=="
+secured: "+YdoMokA4FSsLtY5Uf5zb9tTMEcIrodpHVJ1kVuCPV/2VOcb4PQWbB3bv6u1R4o+B1xL4aJ6NLnvUO1nrkgAQzOiFxOJpLDUdup9W0whMklEzjsSMbTEtMW/QX8RF/Jqg2/Rk6+U5vb9qRlb+ADEy6OyHFPttZFRNVtNUBJ1djVNa9dbygCZwoKlDFKKiBeRk4sFkyuEE9BbpVk94IUjJn9yI5Li2kvlGWVFGfMwmfc88mgm73DeM/5mJOQKs3YMP1puovP8JIg/NQz6Uky3X06Y/QsKmk7ZA1pbDqd9mw1da3zK7vk0GGrb5U+SsP/+WoEVl7SN2XsAFcGs2XHuSGfUWJQjeyxXuTohmKs8Zv8=;Mf83Lr0A3Ycoxt1F1bSdJQ=="
 ---
 

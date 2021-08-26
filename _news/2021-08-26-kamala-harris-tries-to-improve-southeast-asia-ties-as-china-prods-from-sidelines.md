@@ -160,6 +160,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "China exploits Kamala Harris’ plane delay to double US vaccine offer to Vietnam"
+    excerpt: "Kamala Harris was on route to Vietnam to offer a coronavirus-rescue package, including 1 million extra doses of the Pfizer vaccine, when her plane was delayed."
+    publishedDateTime: 2021-08-26T12:36:00Z
+    webUrl: "https://nypost.com/2021/08/26/china-exploits-kamala-harris-vietnam-delay-to-double-covid-vaccine/"
+    ampWebUrl: "https://nypost.com/2021/08/26/china-exploits-kamala-harris-vietnam-delay-to-double-covid-vaccine/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/26/china-exploits-kamala-harris-vietnam-delay-to-double-covid-vaccine/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 131
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/kamala-harris-vietnam.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Leo Terrell alarmed by Kamala Harris telling Americans to start buying Christmas presents"
     excerpt: "Fox News contributor Leo Terrell expressed concern on “Fox & Friends” Tuesday that Democrats are aiming to shut down the U.S. economy again after Vice President Kamala Harris advised shoppers to consider buying Christmas presents now due to global supply chain issues."
     publishedDateTime: 2021-08-24T14:47:00Z

@@ -557,6 +557,22 @@ related:
         width: 6720
         height: 4480
         isCached: true
+  - title: "Israeli PM and Biden postpone meeting because of Afghanistan"
+    excerpt: "President Joe Biden and Israeli Prime Minister Naftali Bennett have postponed their White House meeting as Biden focused his attention on dealing with the aftermath of deadly explosions near the Kabul airport that targeted U."
+    publishedDateTime: 2021-08-26T18:45:00Z
+    webUrl: "https://www.registercitizen.com/news/article/Israeli-PM-to-make-case-to-Biden-against-Iran-16412725.php"
+    ampWebUrl: "https://www.registercitizen.com/news/amp/Israeli-PM-to-make-case-to-Biden-against-Iran-16412725.php"
+    cdnAmpWebUrl: "https://www-registercitizen-com.cdn.ampproject.org/c/s/www.registercitizen.com/news/amp/Israeli-PM-to-make-case-to-Biden-against-Iran-16412725.php"
+    type: article
+    provider:
+      name: The Register Citizen
+      domain: registercitizen.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Joe Biden gifting Afghanistan to the Taliban is a crime against humanity"
     excerpt: "IN 20 days, it will be exactly 20 years since someone phoned you and said, “Turn on your television now.” Twenty years since those planes came out of a clear blue sky and ploughed into the Twin"
     publishedDateTime: 2021-08-22T01:02:00Z
@@ -971,6 +987,20 @@ related:
         width: 948
         height: 710
         isCached: true
+  - title: "Joe Biden’s full flop on messages about Afghanistan withdrawal"
+    excerpt: "President Joe Biden said in April that it was time for our troops to come home from Afghanistan. “We’ll do it responsibly, deliberately, and safely,” he said. Biden said in July that a takeover by the Taliban was not inevitable,"
+    publishedDateTime: 2021-08-24T08:23:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/aug/20/joe-biden/joe-bidens-full-flop-messages-about-afghanistan-wi/?te=1&nl=the-morning&emc=edit_nn_20210825"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 55
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-full-flop.jpg"
+        width: 438
+        height: 391
+        isCached: true
   - title: "Biden will face pressure from G7 to extend Afghanistan withdrawal deadline"
     excerpt: "By Kevin Liptak and Barbara Starr, CNN Leaders from the top foreign allies of the United States are planning to press President Joe Biden to extend the deadline for US troops to withdraw from Afghanistan during a Tuesday morning meeting,"
     publishedDateTime: 2021-08-24T03:38:00Z
@@ -1296,6 +1326,6 @@ related:
         height: 380
         isCached: true
 
-secured: "VKIJ7k38k0B7w1NGL25kRDyp8/JK2U8oYQdpguJmRxUSywHGMLzmgPPud9cLd8N47tQXUm2UTp1yhd6lT0955o5bh74LYq+24lLZE8qpxDbkOWT/gy7l35G8X79ZhM+Ve+eKRw9TOgXYcIUreZBlKcbY3WShDn/ukywX8YTUNDXlZPFLs4I7UFMfqAsslH6RS7RBn4rXw1oWMw/tHYu/cfhzRhFSdW8vf5Zu0FwpwLRnDO5nGKFvS/OsAPA6VM/RrPdvrB7QVshn/Nl56881QGzgsSCDeNO0Q6Vivg5K39OAd0Taeu2+KanejEJrbvkYHuU8BhCGnZaldDqjLrp1L8NOdNSUfZuB+fsc8AJUbIxpgLfNh122KpnMc53S/Rd+TI73g8v93ZX10rRihS28OIywmOOxAC51f+2XN9wx00+lw/lczdktQqLDdQYUH9EYDJCBiMEQTnDywD+cL8NUXPaIGPGztYFiYbjueFdrWxy2wFipgSGE1pFyrRBA54FFStOyae3zwv8dSLoWhQGVTw==;1gt2bqrqQnO6b5nleJuoSA=="
+secured: "tFhyMmlEj0DLPlO3mWEs2Fo4ELa7nR4v1n8RpZ+2WcWxen9JvcULaWx8BZVR438KiMZQth6E3TZyR0lBzOsMrpygWQ0WOjT/5Hmzsz16IM9ijE/IYJEtW3YpL1edLUHA7WvDtBCJjblpvIw85sCmsqm24feZ2OD+VV4cRi3MdhVkjs6/XvNYxDtqOXQjFaf3u5QlW9Qdgm4ab5rBfHRD8yxXE641ZKB/JuS3FEb48iGO21MEWUQiHyGXQAkASUmuVufeT/xZr1+I3zbpQDVcPIdvxjtzcHyE8YEzietXv7ClQSHSkZs8rEuilagwLwoixP2vL75yUe0yjT7HYIfDSOa9J9cYzmqYL1IXTuTqNFM=;kQFAjQZDy28jDq6frQwYmQ=="
 ---
 

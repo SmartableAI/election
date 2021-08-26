@@ -465,6 +465,22 @@ related:
         width: 1000
         height: 650
         isCached: true
+  - title: "China One-Ups Kamala Harris in Vietnam By Exploiting A Scheduling Delay"
+    excerpt: "China reportedly took advantage of a three-hour travel delay in U.S. Vice President Kamala Harris’ trip to Vietnam as the Chinese government sent its diplomat to pledge two million vaccines, double of what is being offered by the U."
+    publishedDateTime: 2021-08-26T10:40:00Z
+    webUrl: "https://www.ibtimes.com/china-one-ups-kamala-harris-vietnam-exploiting-scheduling-delay-3281492"
+    ampWebUrl: "https://www.ibtimes.com/china-one-ups-kamala-harris-vietnam-exploiting-scheduling-delay-3281492?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/china-one-ups-kamala-harris-vietnam-exploiting-scheduling-delay-3281492?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/08/25/vice-president-kamala-harris-l-with-vietnams-vice.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Harris emphasizing human and worker rights in Vietnam"
     excerpt: "Vice President Kamala Harris is turning her focus to worker rights and civil liberties as she closes out her visit to Southeast Asia."
     publishedDateTime: 2021-08-26T05:07:00Z
@@ -800,6 +816,34 @@ related:
       - url: "https://news.cgtn.com/news/2021-08-24/Kamala-Harris-in-Southeast-Asia-Rationale-rhetoric-and-reality-12ZsGB341kQ/img/7fdaac814d71432fa4bf568466f4415d/7fdaac814d71432fa4bf568466f4415d-1920.png"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Kamala Harris hits out at China again during Vietnam visit"
+    excerpt: "US Vice President Kamala Harris is wrapping up her visit to Southeast Asia through her first engagements in the region in Singapore and Vietnam. During her visit to Vietnam, Harris reiterated the US commitment to"
+    publishedDateTime: 2021-08-26T09:56:00Z
+    webUrl: "https://www.econotimes.com/Kamala-Harris-hits-out-at-China-again-during-Vietnam-visit-1615859"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 55
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/20210826af510501215438457_th_1024x0.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Kamala Harris says she urged Vietnam to free political dissidents"
+    excerpt: "U.S. Vice President Kamala Harris said Thursday she raised issues of human rights abuses and restrictions on political activism in her conversations with Vietnamese leaders this week, but offered no indication those talks bore fruit."
+    publishedDateTime: 2021-08-26T11:56:00Z
+    webUrl: "https://triblive.com/news/world/kamala-harris-says-she-urged-vietnam-to-free-political-dissidents/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 55
+    images:
+      - url: "https://assets-varnish.triblive.com/2021/08/4176596_web1_4176596-9ee18b1b359c45af885e9f1c03f063d1.jpg"
+        width: 640
+        height: 427
         isCached: true
   - title: "Kamala Harris Visits Singapore to Deepen Ties, Counter China's Influence"
     excerpt: "U.S. Vice President Kamala Harris will meet Singapore's leaders on Monday on the first working day of a trip to Southeast Asia aimed at bolstering ties as part of Washington's efforts to counter China's growing influence."

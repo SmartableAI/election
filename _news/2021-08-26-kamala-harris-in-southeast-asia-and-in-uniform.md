@@ -176,6 +176,22 @@ related:
         width: 2320
         height: 1546
         isCached: true
+  - title: "Kamala Harris Pledges U.S. Help for Afghan Women and Children"
+    excerpt: "As she left Southeast Asia, the vice president also delivered a blunt message to China. The United States does not want conflict, she said, but on some issues, “we are going to speak up.”"
+    publishedDateTime: 2021-08-26T11:50:00Z
+    webUrl: "https://www.nytimes.com/2021/08/26/world/asia/kamala-harris-vietnam-afghanistan.html"
+    ampWebUrl: "https://www.nytimes.com/2021/08/26/world/asia/kamala-harris-vietnam-afghanistan.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/26/world/asia/kamala-harris-vietnam-afghanistan.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/08/26/world/26harris-asia01/26harris-asia01-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Kamala Harris arrives in Guatemala on first foreign trip as vice president"
     excerpt: "After an enforced return to Joint Base Andrews to change planes, Vice President Kamala Harris finally arrived in Guatemala at the start of her first foreign trip as vice president."
     publishedDateTime: 2021-06-07T09:08:00Z
@@ -193,6 +209,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "Kfrzh0OSPjUIxXEmuEqF4I3pc3y8HjAdDabU5464bDO06xvk10lFxaTcoZ+9QI069yTaZdNepBgcP2iuhkiFhxsfqCYQygyq0pIhZjuo3iqcGHnSOz45LH+tywZFV3bdKGRakGCRyPhc2ZMgbsp58GRdd9bWH4wkuBeO/nngehEG/ovpJZupEToCBZxZSxzzru05Is5YgOJZBN101tWRE0dvMKEv3WWBgSw9NevZ5508mK5gyjLtIKYV08humdunlDKS/8K2ZHQ1WERtvF5lRDls/HRe5i+iwlC8wm+vDbEEGvFH/bDA+YgGS+dv/SzvV/f0Ju3/ECscseI/WlRdhEBYAZr0/RvTM/h7kkmoeP4=;k9UxNOW0THkh4FQDQo2oeA=="
+secured: "e5uMxKuS9Tuf9qzJ8R2KxBPKOFXFQUFDOnWcEjybG4s01mgMlAP6zDL+563f6yFNHe1Ua02OQ/tu0kPQC+Cz0/YdUBi6tRNKwHQS+XH9O1JmkDBpdRqKgF7R0FvTuuRKzRT1JBToZyl3OjFv6zqPm3ReX3S11yt4jDOraIJsnMtekTaERNyfnCK+GSudJ5Rgu5AEJCN1RKX4tVSItgy/6p27Zw9QUwFCZbxaiceOoskVg/lKNX3omXR8kHUAPfDMi1LrCquAVPr8fPikRMrso4dPUOZ17gFrXJCzgOVfwIoW3umo0Hmpm/rhEgU4QGiwJvYNbsffWuiqq08ObND4Fo4oklVQ7YpyRbYOHS/2hXMAjZvOw0sZ+3T7+N29m3ckEjeLUONDKLibTlURWlGTDEU0xiiuaQtxraS3cgcrcHTzjKHecEMa9B9STqUNjjUvGf085E/Dn31KWRrJtyVAd9b0ZtJD5OyiKaAKj7XmMk/UivGcwBb2f1uxtQgRvLcqpGPInjn3hhWjs7g4v4Cw+w==;X/WuTjuVRD+/TCNH/2JuJw=="
 ---
 

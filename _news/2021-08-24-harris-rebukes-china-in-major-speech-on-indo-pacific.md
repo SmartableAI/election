@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-rebukes-china-major-speech-i
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-rebukes-china-major-speech-indo-pacific.amp"
 type: article
 quality: 185
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -143,6 +143,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/16482d87-a6fa-490d-8acb-7aa840adb46b/2fdcd8fe-c77c-4d96-a303-677856797f99/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "China exploits Kamala Harris’ plane delay to double US vaccine offer to Vietnam"
+    excerpt: "Kamala Harris was on route to Vietnam to offer a coronavirus-rescue package, including 1 million extra doses of the Pfizer vaccine, when her plane was delayed."
+    publishedDateTime: 2021-08-26T12:36:00Z
+    webUrl: "https://nypost.com/2021/08/26/china-exploits-kamala-harris-vietnam-delay-to-double-covid-vaccine/"
+    ampWebUrl: "https://nypost.com/2021/08/26/china-exploits-kamala-harris-vietnam-delay-to-double-covid-vaccine/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/26/china-exploits-kamala-harris-vietnam-delay-to-double-covid-vaccine/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 131
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/kamala-harris-vietnam.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Kamala Harris Tries to Improve Southeast Asia Ties as China Prods From Sidelines"
     excerpt: "The Biden administration will continue to call out China for its aggressive maritime claims but doesnâ€™t want a conflict, the vice president said, seeking to strike a balance with regional countries caught between the rival powers."

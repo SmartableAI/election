@@ -319,6 +319,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "7 US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot"
+    excerpt: "US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot."
+    publishedDateTime: 2021-08-26T16:05:00Z
+    webUrl: "https://apnews.com/article/donald-trump-ap-news-alert-riots-db275e882b46c926cd46ede8c340a0f7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 83
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Donald Trump's Voice Banned From Facebook, Lara Trump's Video Removed"
     excerpt: "Lara Trump’s Facebook video in which she interviews her father-in-law, former President Donald Trump, was removed after being informed that his voice is even banned from the platform. Donald Trump was banned from Facebook shortly after the Jan. 6 attacks ..."
     publishedDateTime: 2021-03-31T19:25:00Z
@@ -351,6 +365,38 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Donald Trump and Allies Sued by 7 Capitol Police Officers Over Jan. 6 Riot"
+    excerpt: "Seven more police officers sued former president Donald Trump and his allies over the deadly Jan. 6 Capitol riot"
+    publishedDateTime: 2021-08-26T16:09:00Z
+    webUrl: "https://www.thewrap.com/capitol-officers-lawsuit-riot/"
+    ampWebUrl: "https://www.thewrap.com/capitol-officers-lawsuit-riot/amp/"
+    cdnAmpWebUrl: "https://www-thewrap-com.cdn.ampproject.org/c/s/www.thewrap.com/capitol-officers-lawsuit-riot/amp/"
+    type: article
+    provider:
+      name: TheWrap
+      domain: thewrap.com
+    quality: 73
+    images:
+      - url: "https://www.thewrap.com/wp-content/uploads/2021/06/trump-1.jpg"
+        width: 936
+        height: 527
+        isCached: true
+  - title: "7 US Capitol officers file lawsuit accusing Trump, allies of conspiring before Jan. 6"
+    excerpt: "WASHINGTON, D.C. â€” A group of U.S. Capitol police officers who were attacked and beaten on Jan. 6 have reportedly filed a lawsuit against former President Donald Trump and others, accusing them of provoking the riot to prevent Congress from certifying the results of 2020 presidential election."
+    publishedDateTime: 2021-08-26T18:44:00Z
+    webUrl: "https://www.fox4now.com/news/national-politics/7-us-capitol-officers-file-lawsuit-accusing-trump-allies-over-jan-6-riot"
+    ampWebUrl: "https://www.fox4now.com/news/national-politics/7-us-capitol-officers-file-lawsuit-accusing-trump-allies-over-jan-6-riot?_amp=true"
+    cdnAmpWebUrl: "https://www-fox4now-com.cdn.ampproject.org/c/s/www.fox4now.com/news/national-politics/7-us-capitol-officers-file-lawsuit-accusing-trump-allies-over-jan-6-riot?_amp=true"
+    type: article
+    provider:
+      name: Fox 4
+      domain: fox4now.com
+    quality: 68
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/9a08455/2147483647/strip/true/crop/5007x2816+0+261/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fb5%2Fa2%2F295602e24c988c0c9fd20f150021%2Fap21238576240920.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "U.S. Rep. Veronica Escobar joins lawsuit accusing Donald Trump of inciting Capitol riot"
     excerpt: "by Bryan Mena April 7, 2021 6:33 PM Central U.S. Rep. Veronica Escobar, D-El Paso, speaks during a House Judiciary Committee markup of Articles of Impeachment against President Donald Trump in Washington, D.C. on Dec. 12, 2019. Credit: Matt McClain/Pool ..."
     publishedDateTime: 2021-04-07T23:33:00Z
@@ -367,6 +413,76 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "7 US Capitol officers file lawsuit against Trump, allies, far-right groups over Jan. 6"
+    excerpt: "A group of U.S. Capitol police officers who were attacked and beaten on Jan. 6 have reportedly filed a lawsuit against former President Donald Trump and others, accusing them of provoking the riot to prevent Congress from certifying the results of 2020 presidential election."
+    publishedDateTime: 2021-08-26T19:55:00Z
+    webUrl: "https://www.kivitv.com/news/national-politics/7-us-capitol-officers-file-lawsuit-accusing-trump-allies-over-jan-6-riot"
+    ampWebUrl: "https://www.kivitv.com/news/national-politics/7-us-capitol-officers-file-lawsuit-accusing-trump-allies-over-jan-6-riot?_amp=true"
+    cdnAmpWebUrl: "https://www-kivitv-com.cdn.ampproject.org/c/s/www.kivitv.com/news/national-politics/7-us-capitol-officers-file-lawsuit-accusing-trump-allies-over-jan-6-riot?_amp=true"
+    type: article
+    provider:
+      name: KIVI Boise
+      domain: kivitv.com
+    quality: 67
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/9a08455/2147483647/strip/true/crop/5007x2816+0+261/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fb5%2Fa2%2F295602e24c988c0c9fd20f150021%2Fap21238576240920.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "7 US Capitol Police officers sue Trump, his allies and extremist groups over Jan. 6 insurrection"
+    excerpt: "U.S. Capitol Police officers who were attacked and beaten during the Capitol riot filed a lawsuit Thursday against former President Donald Trump, his allies and members of far-right extremist groups."
+    publishedDateTime: 2021-08-26T19:19:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-capitol-police-lawsuit-trump-jan-6-insurrection-20210826-nbanj6wlo5acbnc4qx4xgvulvu-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-capitol-police-lawsuit-trump-jan-6-insurrection-20210826-nbanj6wlo5acbnc4qx4xgvulvu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-capitol-police-lawsuit-trump-jan-6-insurrection-20210826-nbanj6wlo5acbnc4qx4xgvulvu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 62
+    images:
+      - url: "https://www.baltimoresun.com/resizer/eHJgF3ctYGMW0hHVKMg_EPumszs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4ZMZLIYDFXTRJKYP7ILCFK5WJE.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Seven US Capitol Police officers sue former President Trump, Stop the Steal organizers over January 6 riot"
+    excerpt: "The officers believe they are ultimately bear the responsibility for the riot that injured more than 140 officers on January 6."
+    publishedDateTime: 2021-08-26T18:43:00Z
+    webUrl: "https://www.komu.com/news/nationworld/seven-us-capitol-police-officers-sue-former-president-trump-stop-the-steal-organizers-over-january/article_4d8fe843-d5c9-5476-8124-319212c91998.html"
+    ampWebUrl: "https://www.komu.com/news/nationworld/seven-us-capitol-police-officers-sue-former-president-trump-stop-the-steal-organizers-over-january/article_4d8fe843-d5c9-5476-8124-319212c91998.amp.html"
+    cdnAmpWebUrl: "https://www-komu-com.cdn.ampproject.org/c/s/www.komu.com/news/nationworld/seven-us-capitol-police-officers-sue-former-president-trump-stop-the-steal-organizers-over-january/article_4d8fe843-d5c9-5476-8124-319212c91998.amp.html"
+    type: article
+    provider:
+      name: KOMU
+      domain: komu.com
+    quality: 57
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/komu.com/content/tncms/assets/v3/editorial/5/b8/5b84d1ed-76a9-5883-9a02-78e64b12f308/6127e91cdcfb4.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Capitol Police Officers Sue Donald Trump, Allies Over Insurrection"
+    excerpt: "U.S. Capitol Police officers who were attacked and beaten during the Capitol riot filed a lawsuit Thursday against former President Donald Trump, his allies and members of far-right extremist groups,"
+    publishedDateTime: 2021-08-26T13:02:00Z
+    webUrl: "https://baltimore.cbslocal.com/2021/08/26/capitol-police-officers-sue-donald-trump-allies-over-insurrection/"
+    ampWebUrl: "https://baltimore.cbslocal.com/2021/08/26/capitol-police-officers-sue-donald-trump-allies-over-insurrection/?amp"
+    cdnAmpWebUrl: "https://baltimore-cbslocal-com.cdn.ampproject.org/c/s/baltimore.cbslocal.com/2021/08/26/capitol-police-officers-sue-donald-trump-allies-over-insurrection/?amp"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 55
+  - title: "Capitol Police officers sue Trump, allies over insurrection"
+    excerpt: "The House committee investigating the January insurrection at the U.S. Capitol is demanding a trove of records from federal intelligence and law enforcement agencies"
+    publishedDateTime: 2021-08-26T16:08:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/house-panel-probing-1-6-riot-seeks-host-of-trump-era-records-2/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/house-panel-probing-1-6-riot-seeks-host-of-trump-era-records-2/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/house-panel-probing-1-6-riot-seeks-host-of-trump-era-records-2/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
 
 secured: "nrVJzlUx3A7z9sN84mxBOWVdeb/Jdcp3+IiV4TiQAbEA9EjjeruaGfs6IkpQfj39wRCkNZN21lWGpFJEvPNNm5gQ8b8Hhgqyl5pHty4gzT6yyrKJWO3Xgxwf8WDpIzi7UWGyt0H8ZEk0sf0zwG73nbnuCKlDjhrcwBgSo3UtiOcRmTg2ZsVEx9bLCAitf/W5+gW8x/uBCr6f+fqKx0OaF78QEznbC65JD9Kcaljw25edFWajGdXjQBZZ8RM5DEj90dpJBgk215S6F/CvLundTcw8ZGX6gvNmm1DnC1iRs10g0jfbRxsJPlA5ILVtd+0uu4hmfIPU88mYb3mfR+iT7BwkUemQBRSSew9ij1a+Vf5YgPBUUXUoh2uZITJNoAvQng34aN4WJndICxyB/XlWPeNbN2olusrpIKLYkHwLWgvGZHtw9CpIHSMuvnqiTSMQX+TfSyUTOwn349vbC4eiKLu4HN/dCUhMDX8HFzBnlzq/jLclBz25HUVaNthJ0S0MU4Fs1Q2+j9fPMn2mx4e5Rg==;J0eal/8rLEM9RlIL/cINCg=="
 ---

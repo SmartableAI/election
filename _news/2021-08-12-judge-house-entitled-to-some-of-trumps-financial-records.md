@@ -248,16 +248,16 @@ related:
   - title: "Attorney General Merrick Garland, don't prosecute Donald Trump"
     excerpt: "He pressured his acting attorney general, Jeffrey Rosen, to open an investigation of purported fraud in the vote count in Georgia, even though there was no evidence of such wrongdoing. In one call, Trump apparently directed Rosen to \"just say the election was corrupt,"
     publishedDateTime: 2021-08-16T19:00:00Z
-    webUrl: "https://www.kimt.com/content/national/575107882.html"
-    ampWebUrl: "http://www.kimt.com/templates/AMP?contentID=575107882"
-    cdnAmpWebUrl: "https://www-kimt-com.cdn.ampproject.org/c/www.kimt.com/templates/AMP?contentID=575107882"
+    webUrl: "https://www.wthitv.com/content/national/575107882.html"
+    ampWebUrl: "http://www.wthitv.com/templates/AMP?contentID=575107882"
+    cdnAmpWebUrl: "https://www-wthitv-com.cdn.ampproject.org/c/www.wthitv.com/templates/AMP?contentID=575107882"
     type: article
     provider:
-      name: KIMT
-      domain: kimt.com
+      name: WTHI-TV
+      domain: wthitv.com
     quality: 75
     images:
-      - url: "http://media.heartlandtv.com/designimages/STORY-IMAGE.jpg"
+      - url: "http://media.heartlandtv.com/designimages/wthi-story-default-image-640x380.png"
         width: 640
         height: 380
         isCached: true
