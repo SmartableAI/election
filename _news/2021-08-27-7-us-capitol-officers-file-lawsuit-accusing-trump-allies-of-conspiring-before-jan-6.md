@@ -1,20 +1,20 @@
 ---
 category: news
 title: "7 US Capitol officers file lawsuit accusing Trump, allies of conspiring before Jan. 6"
-excerpt: "WASHINGTON, D.C. â€” A group of U.S. Capitol police officers who were attacked and beaten on Jan. 6 have reportedly filed a lawsuit against former President Donald Trump and others, accusing them of provoking the riot to prevent Congress from certifying the results of 2020 presidential election."
-publishedDateTime: 2021-08-26T18:44:00Z
-originalUrl: "https://www.fox4now.com/news/national-politics/7-us-capitol-officers-file-lawsuit-accusing-trump-allies-over-jan-6-riot"
-webUrl: "https://www.fox4now.com/news/national-politics/7-us-capitol-officers-file-lawsuit-accusing-trump-allies-over-jan-6-riot"
-ampWebUrl: "https://www.fox4now.com/news/national-politics/7-us-capitol-officers-file-lawsuit-accusing-trump-allies-over-jan-6-riot?_amp=true"
-cdnAmpWebUrl: "https://www-fox4now-com.cdn.ampproject.org/c/s/www.fox4now.com/news/national-politics/7-us-capitol-officers-file-lawsuit-accusing-trump-allies-over-jan-6-riot?_amp=true"
+excerpt: "A group of U.S. Capitol police officers who were attacked and beaten on Jan. 6 have reportedly filed a lawsuit against former President Donald Trump and others, accusing them of provoking the riot."
+publishedDateTime: 2021-08-26T20:56:00Z
+originalUrl: "https://www.wcpo.com/news/national-politics/7-us-capitol-officers-file-lawsuit-accusing-trump-allies-over-jan-6-riot"
+webUrl: "https://www.wcpo.com/news/national-politics/7-us-capitol-officers-file-lawsuit-accusing-trump-allies-over-jan-6-riot"
+ampWebUrl: "https://www.wcpo.com/news/national-politics/7-us-capitol-officers-file-lawsuit-accusing-trump-allies-over-jan-6-riot?_amp=true"
+cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national-politics/7-us-capitol-officers-file-lawsuit-accusing-trump-allies-over-jan-6-riot?_amp=true"
 type: article
 quality: 68
 heat: -1
 published: false
 
 provider:
-  name: Fox 4
-  domain: fox4now.com
+  name: WCPO Cincinnati
+  domain: wcpo.com
 
 topics:
   - Election
@@ -138,6 +138,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Capitol Police officers sue Trump, allies over insurrection"
+    excerpt: "U.S. Capitol Police officers who were attacked and beaten during the Capitol riot filed a lawsuit Thursday against former President Donald Trump, his allies and members of far-right extremist groups,"
+    publishedDateTime: 2021-08-26T21:33:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/House-panel-probing-1-6-riot-seeks-host-of-16412712.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/amp/House-panel-probing-1-6-riot-seeks-host-of-16412712.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/House-panel-probing-1-6-riot-seeks-host-of-16412712.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 125
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/47/43/21395675/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
   - title: "‘Apprentice’ contestant’s lawsuit against Trump can resume, N.Y. court says"
     excerpt: "NEW YORK — The New York State Court of Appeals on Tuesday ruled that a defamation case against former president Donald Trump, brought by an \"Apprentice\" contestant who alleged he sexually assaulted her years ago, can go forward as the immunity claim he ..."
@@ -377,6 +393,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "7 US Capitol police officers sue Donald Trump, his allies over Capitol riot"
+    excerpt: "WASHINGTON â€” U.S. Capitol Police officers who were attacked and beaten during the Capitol riot filed a lawsuit Thursday against former President Donald Trump, his allies and members of far-right exâ"
+    publishedDateTime: 2021-08-26T16:24:00Z
+    webUrl: "https://wgntv.com/news/7-us-capitol-police-officers-sue-donald-trump-his-allies-over-capitol-riot/"
+    ampWebUrl: "https://wgntv.com/news/7-us-capitol-police-officers-sue-donald-trump-his-allies-over-capitol-riot/amp/"
+    cdnAmpWebUrl: "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/news/7-us-capitol-police-officers-sue-donald-trump-his-allies-over-capitol-riot/amp/"
+    type: article
+    provider:
+      name: WGN-TV
+      domain: wgntv.com
+    quality: 73
+    images:
+      - url: "https://wgntv.com/wp-content/uploads/sites/5/2021/07/e175d19a8a63442f8d5a3159123c0f23-2-4.jpg?w=1280"
+        width: 876
+        height: 493
+        isCached: true
   - title: "Donald Trump and Allies Sued by 7 Capitol Police Officers Over Jan. 6 Riot"
     excerpt: "Seven more police officers sued former president Donald Trump and his allies over the deadly Jan. 6 Capitol riot"
     publishedDateTime: 2021-08-26T16:09:00Z
@@ -392,6 +424,22 @@ related:
       - url: "https://www.thewrap.com/wp-content/uploads/2021/06/trump-1.jpg"
         width: 936
         height: 527
+        isCached: true
+  - title: "Capitol Police officers sue former President Trump, his allies over Capitol riot"
+    excerpt: "U.S. Capitol Police officers who were attacked and beaten during the Capitol riot are suing former President Donald Trump, his allies and members of far-right extremist groups."
+    publishedDateTime: 2021-08-26T21:30:00Z
+    webUrl: "https://www.click2houston.com/news/politics/2021/08/26/house-panel-probing-16-riot-seeks-host-of-trump-era-records/"
+    ampWebUrl: "https://www.click2houston.com/news/politics/2021/08/26/house-panel-probing-16-riot-seeks-host-of-trump-era-records/?outputType=amp"
+    cdnAmpWebUrl: "https://www-click2houston-com.cdn.ampproject.org/c/s/www.click2houston.com/news/politics/2021/08/26/house-panel-probing-16-riot-seeks-host-of-trump-era-records/?outputType=amp"
+    type: article
+    provider:
+      name: Click2Houston
+      domain: click2houston.com
+    quality: 70
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/JMCSFVLGQZE75GFZHJKDJI3QRQ.jpg"
+        width: 5153
+        height: 3435
         isCached: true
   - title: "U.S. Rep. Veronica Escobar joins lawsuit accusing Donald Trump of inciting Capitol riot"
     excerpt: "by Bryan Mena April 7, 2021 6:33 PM Central U.S. Rep. Veronica Escobar, D-El Paso, speaks during a House Judiciary Committee markup of Articles of Impeachment against President Donald Trump in Washington, D.C. on Dec. 12, 2019. Credit: Matt McClain/Pool ..."
@@ -410,15 +458,15 @@ related:
         height: 630
         isCached: true
   - title: "7 US Capitol officers file lawsuit against Trump, allies, far-right groups over Jan. 6"
-    excerpt: "A group of U.S. Capitol police officers who were attacked and beaten on Jan. 6 have reportedly filed a lawsuit against former President Donald Trump and others, accusing them of provoking the riot to prevent Congress from certifying the results of 2020 presidential election."
-    publishedDateTime: 2021-08-26T19:55:00Z
-    webUrl: "https://www.kivitv.com/news/national-politics/7-us-capitol-officers-file-lawsuit-accusing-trump-allies-over-jan-6-riot"
-    ampWebUrl: "https://www.kivitv.com/news/national-politics/7-us-capitol-officers-file-lawsuit-accusing-trump-allies-over-jan-6-riot?_amp=true"
-    cdnAmpWebUrl: "https://www-kivitv-com.cdn.ampproject.org/c/s/www.kivitv.com/news/national-politics/7-us-capitol-officers-file-lawsuit-accusing-trump-allies-over-jan-6-riot?_amp=true"
+    excerpt: "A group of U.S. Capitol police officers who were attacked and beaten on Jan. 6 are filing a lawsuit against former President Donald Trump and others, accusing them of provoking the riot to prevent Congress from certifying the results of the 2020 presidential election."
+    publishedDateTime: 2021-08-26T21:54:00Z
+    webUrl: "https://www.lex18.com/news/national-politics/7-us-capitol-officers-file-lawsuit-accusing-trump-allies-over-jan-6-riot"
+    ampWebUrl: "https://www.lex18.com/news/national-politics/7-us-capitol-officers-file-lawsuit-accusing-trump-allies-over-jan-6-riot?_amp=true"
+    cdnAmpWebUrl: "https://www-lex18-com.cdn.ampproject.org/c/s/www.lex18.com/news/national-politics/7-us-capitol-officers-file-lawsuit-accusing-trump-allies-over-jan-6-riot?_amp=true"
     type: article
     provider:
-      name: KIVI Boise
-      domain: kivitv.com
+      name: LEX18
+      domain: lex18.com
     quality: 67
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/9a08455/2147483647/strip/true/crop/5007x2816+0+261/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fb5%2Fa2%2F295602e24c988c0c9fd20f150021%2Fap21238576240920.jpg"
@@ -479,7 +527,21 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 55
+  - title: "Capitol Police officers sue Donald Trump and his allies over violent insurrection"
+    excerpt: "The filing provides vivid accounts of the injuries the officers sustained while trying to fend off the mob of Trump supporters."
+    publishedDateTime: 2021-08-26T17:06:00Z
+    webUrl: "https://bangordailynews.com/2021/08/26/national-politics/capitol-police-officers-sue-donald-trump-his-allies-over-violent-insurrection/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 50
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/Capitol-Breach-Records.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
-secured: "9f3QrH+/vofGIqEH6614JaLt/u7ogp2Kcja4KobGf3UeMeIv2msr+1ypmL1DPweRpgjSYIZ5B0gXEvVz8Gt/9C2j8K3NZRCNy7lLMw2rJydpD8OPi9mPa7wh1OBRSdbd0Y6hCyUCanZRFQ87sQKwTiy1qgSVA/X1ClFDB9Xvo1VFiJwmjLF4MivwLfGUrCnJEbqDJvER7bIuJftL5iGEepeoDLYgzbxW5HkZGC9Hs/w0puC09lxQT5fI8bjr5PcESCwuzjJ9cLGg6+kvXPHv1rc12tXuJFjfNNqZvs4OdNUN9dGjen+5tiqVuqP6u50pJDdtTmZL7PdmpfQbcepnRrsXnA/P+HZyzEx7GQtS2t4=;oJn/ijRl4/LpoMKkFpzqUw=="
+secured: "+Daw2f+UpLrWXmTCmokTmzlbnH9VKwcSY05vN4KTtgIk54pBPSlsTZpF0vjtyeUpq5sHL9oyc8fec+xi+QORBOEEv71eghwwkmPFCKne98rp34bpsaRGfijIxdG+7i6y5G9waKYn+wZO5sgaNSv2qsNfZdG0U2rrI7W6M0fiNdUM+KzFSqAUt/nN4MLgN8+1vsiiiG9Tu76RWnl8FG684lPZxb39PJD3E8DW8AxCXmwdEQppSvI+QQ2sfGA8WJGdNTPaPhhrZzndT/ayJAOSG93+J4Kv4MZ8/AXefd6MomRGGht1KQwgpGxCznvhhZT6FoOAe7vk2E6QwMUErqXh/sBwSBquP1OVlDiiYGH98g0=;XM/T8BAUc/f19gvQq4ZPKA=="
 ---
 

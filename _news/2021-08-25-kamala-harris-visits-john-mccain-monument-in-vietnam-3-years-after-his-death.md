@@ -64,6 +64,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Harris, Newsom rally canceled after Kabul suicide bombings"
+    excerpt: "The vice president was slated to campaign for Newsom at his car rally on Friday as the California governor faces down a contentious recall election that may cost him his job."
+    publishedDateTime: 2021-08-26T20:21:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RX4ghqVO3pI/harris-newsom-rally-cancelled-kabul-bombings"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-newsom-rally-cancelled-kabul-bombings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-newsom-rally-cancelled-kabul-bombings.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f18efe6-404a-4e2c-b361-15a6d9a9bc12/671f0271-fb6b-47cd-b5e6-d2efaf051978/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Kamala Harris arrives in Vietnam after delay over possible 'Havana syndrome' case"
     excerpt: "Vice President Kamala Harris finally arrived in Vietnam from Singapore early Wednesday after a potential case of the mysterious “Havana Syndrome” was reported, causing her flight a three-hour delay."
     publishedDateTime: 2021-08-25T03:22:10Z

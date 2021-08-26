@@ -113,7 +113,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 195,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -191,6 +191,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-26-ezra-kleins-best-defense-of-joe-biden-it-could-be-worse.md",
+      "title": "Ezra Klein’s Best Defense of Joe Biden: ‘It Could Be Worse!’",
+      "excerpt": "Looking at a bad situation that could, and should, have been avoided and defending it solely on the basis that it could have been worse is not analysis. It’s spin.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nationalreview.com/corner/ezra-kleins-best-defense-of-joe-biden-it-could-be-worse/",
+      "originalUrl": "https://www.nationalreview.com/corner/ezra-kleins-best-defense-of-joe-biden-it-could-be-worse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nationalreview.com/wp-content/uploads/2021/08/joe-biden-August24-2021.jpg?fit=1600%2C900",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nationalreview.com/corner/ezra-kleins-best-defense-of-joe-biden-it-could-be-worse/amp/",
+      "cdnAmpWebUrl": "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/ezra-kleins-best-defense-of-joe-biden-it-could-be-worse/amp/",
+      "publishedDateTime": "2021-08-26T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "National Review",
+        "domain": "nationalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-26-republicans-slam-biden-after-suicide-attack-at-kabul-airport-blood-on-his-hands.md",
       "title": "Republicans slam Biden after suicide attack at Kabul airport: 'Blood on his hands'",
       "excerpt": "Republicans are slamming the Biden administration’s handling of Afghanistan after multiple explosions outside of the Kabul airport, injuring at least three U.S. troops.",
@@ -203,7 +246,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 189,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -287,6 +330,49 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-26-did-erik-prince-save-joe-biden-from-taliban-blackwater-chief-recalls-2008-rescue.md",
+      "title": "Did Erik Prince save Joe Biden from Taliban? Blackwater chief recalls 2008 rescue",
+      "excerpt": "White House Press Secretary Jen Psaki described Erik Prince, 52, as having no 'heart and soul,' profiting off 'people's agony and pain'",
+      "sourceUrl": null,
+      "webUrl": "https://meaww.com/erik-prince-blackwater-military-contractor-saved-stranded-joe-biden-in-taliban-territory-2008-rescue",
+      "originalUrl": "https://meaww.com/erik-prince-blackwater-military-contractor-saved-stranded-joe-biden-in-taliban-territory-2008-rescue",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cheesecake.articleassets.meaww.com/546432/uploads/a1f94680-0663-11ec-8837-bfe51d82f824_800_420.png",
+          "width": 800,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://meaww.com/amp/erik-prince-blackwater-military-contractor-saved-stranded-joe-biden-in-taliban-territory-2008-rescue",
+      "cdnAmpWebUrl": "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/erik-prince-blackwater-military-contractor-saved-stranded-joe-biden-in-taliban-territory-2008-rescue",
+      "publishedDateTime": "2021-08-26T05:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Meaww",
+        "domain": "meaww.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -481,6 +567,49 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-26-ramesh-ponnuru-why-all-the-bad-press-for-joe-biden.md",
+      "title": "Ramesh Ponnuru: Why all the bad press for Joe Biden?",
+      "excerpt": "President Joe Biden’s handling of Afghanistan has few vocal defenders. What they lack in numbers, though, they make up for in unity of message: The press is being too hard",
+      "sourceUrl": null,
+      "webUrl": "https://greensboro.com/opinion/columnists/ramesh-ponnuru-why-all-the-bad-press-for-joe-biden/article_20501b14-05c7-11ec-b064-ff9806d41487.html",
+      "originalUrl": "https://greensboro.com/opinion/columnists/ramesh-ponnuru-why-all-the-bad-press-for-joe-biden/article_20501b14-05c7-11ec-b064-ff9806d41487.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/d/de/ddeab818-05c8-11ec-92ae-eb234dfa1a11/61267c6c32cbc.image.jpg",
+          "width": 1000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://greensboro.com/opinion/columnists/ramesh-ponnuru-why-all-the-bad-press-for-joe-biden/article_20501b14-05c7-11ec-b064-ff9806d41487.amp.html",
+      "cdnAmpWebUrl": "https://greensboro-com.cdn.ampproject.org/c/s/greensboro.com/opinion/columnists/ramesh-ponnuru-why-all-the-bad-press-for-joe-biden/article_20501b14-05c7-11ec-b064-ff9806d41487.amp.html",
+      "publishedDateTime": "2021-08-25T17:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News & Record",
+        "domain": "greensboro.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -802,7 +931,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 200,
+      "heat": 220,
       "tags": null,
       "images": [
         {
@@ -1107,157 +1236,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-with-biden-poll-numbers-plunging-democrats-worry-afghan-exit-may-impact-next-years-elections.md",
-      "title": "With Biden poll numbers plunging, Democrats worry Afghan exit may impact next year's elections",
-      "excerpt": "The rushed U.S. evacuation in Afghanistan appears to be a key contributing factor in the plunge in President Biden's approval rating in new polls. Some Democrats are worried the political fallout could impair their prospects in the 2022 midterms.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PEfZ-75ZWeU/biden-poll-numbers-plunging-democrats-worry-afghanistan-midterms",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PEfZ-75ZWeU/biden-poll-numbers-plunging-democrats-worry-afghanistan-midterms",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 358,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-poll-numbers-plunging-democrats-worry-afghanistan-midterms.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-poll-numbers-plunging-democrats-worry-afghanistan-midterms.amp",
-      "publishedDateTime": "2021-08-25T03:38:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-joe-biden-forgets-megan-rapinoes-name-slammed-for-calling-her-americas-best.md",
-      "title": "Joe Biden FORGETS Megan Rapinoe's name, slammed for calling her 'America's best'",
-      "excerpt": "Joe Biden's recent praise for Megan Rapinoe accompanied an awkward fumbling as the president forgot her last name",
-      "sourceUrl": null,
-      "webUrl": "https://meaww.com/joe-biden-forget-megan-rapinoe-name-represent-america-best-internet-furious-losers-reactions",
-      "originalUrl": "https://meaww.com/joe-biden-forget-megan-rapinoe-name-represent-america-best-internet-furious-losers-reactions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cheesecake.articleassets.meaww.com/546311/uploads/18a4f6a0-058b-11ec-bd95-db89c1205176_800_420.png",
-          "width": 800,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://meaww.com/amp/joe-biden-forget-megan-rapinoe-name-represent-america-best-internet-furious-losers-reactions",
-      "cdnAmpWebUrl": "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/joe-biden-forget-megan-rapinoe-name-represent-america-best-internet-furious-losers-reactions",
-      "publishedDateTime": "2021-08-25T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Meaww",
-        "domain": "meaww.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-israeli-leader-naftali-bennett-to-meet-with-joe-biden-as-mideast-tensions-grow.md",
-      "title": "Israeli Leader Naftali Bennett to Meet with Joe Biden as Mideast Tensions Grow",
-      "excerpt": "The Israeli leader's meeting with President Joe Biden comes amid heightened tensions with regional arch-enemy Iran",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6092540/naftali-bennett-joe-biden/",
-      "originalUrl": "https://time.com/6092540/naftali-bennett-joe-biden/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2021/08/AP21236666683066.jpg",
-          "width": 6325,
-          "height": 4217,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-24T23:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

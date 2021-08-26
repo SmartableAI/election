@@ -151,6 +151,22 @@ related:
         width: 1024
         height: 698
         isCached: true
+  - title: "Lawyers allied with Trump penalized over Michigan lawsuit"
+    excerpt: "Nine lawyers allied with former President Donald Trump face financial penalties and other sanctions after a judge Wednesday said they had abused the"
+    publishedDateTime: 2021-08-26T21:23:00Z
+    webUrl: "https://www.macombdaily.com/2021/08/26/lawyers-allied-with-trump-penalized-over-michigan-lawsuit-2/"
+    ampWebUrl: "https://www.macombdaily.com/2021/08/26/lawyers-allied-with-trump-penalized-over-michigan-lawsuit-2/amp/"
+    cdnAmpWebUrl: "https://www-macombdaily-com.cdn.ampproject.org/c/s/www.macombdaily.com/2021/08/26/lawyers-allied-with-trump-penalized-over-michigan-lawsuit-2/amp/"
+    type: article
+    provider:
+      name: The Macomb Daily
+      domain: macombdaily.com
+    quality: 75
+    images:
+      - url: "https://www.macombdaily.com/wp-content/uploads/2021/08/AP21237822016888-1.jpg?w=1024&#038;h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "How Donald Trump Turned Off Swing Voters In 2020"
     excerpt: "Alan Abromowitz: \"Trump was perceived as far more conservative in 2020 than in 2016. In 2016, Trump was viewed as the least conservative Republican presidential candidate since Gerald Ford in 1976. In 2020,"
     publishedDateTime: 2021-08-25T14:46:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/republicans-slam-biden-suicide-atta
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-slam-biden-suicide-attack-kabul-airport.amp"
 type: article
 quality: 169
-heat: 189
+heat: 209
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden condemns 'vicious' ISIS attacks in Kabul: 'We will hunt you down and make you pay'"
+    excerpt: "President Biden pledged to take action against ISIS-K militants and complete evacuation operations on Thursday in his first public remarks since a pair of deadly suicide bombings targeted U.S. forces and evacuees at Kabul’s airport in Afghanistan."
+    publishedDateTime: 2021-08-26T21:44:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6VChDK78VE0/biden-speech-kabul-airport-attack-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-speech-kabul-airport-attack-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-speech-kabul-airport-attack-afghanistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c86d9104-8c3d-42b0-aa8c-58d7d652579a/608765f6-b3cd-4b1e-8ab6-543ac87a94cc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "President Biden silent for hours following Kabul attack that left at least 12 US service members dead"
     excerpt: "President Biden has remained relatively silent after the attack in Kabul that left at least 12 U.S. service members dead and dozens of others on Wednesday."
     publishedDateTime: 2021-08-26T19:35:33Z

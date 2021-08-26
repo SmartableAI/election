@@ -63,6 +63,17 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Top Senate Democrat swipes at Biden: ‘Can’t trust the Taliban’"
+    excerpt: "A top Senate Democrat signaled that in light of explosion attacks in Kabul that killed at least 11 U.S. Marines and a Navy medic, patience with President Joe Biden’s Afghanistan evacuation strategy is wearing thin."
+    publishedDateTime: 2021-08-26T21:27:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/top-senate-democrat-swipes-biden-cant-trust-taliban"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/top-senate-democrat-swipes-biden-cant-trust-taliban?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/top-senate-democrat-swipes-biden-cant-trust-taliban?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
 
 secured: "PU+K0LpZs1qwJOcNr7aA6pqMCWfrxjWmu5uTGykDYepkGMjs6NbxEmlmm9W5HCDVNbtr5T0RGhBiWSn3SLyG0C+/AcjlQc9pvphAxY4f05sTW495fgrONaucRCJZKWRut+gtCanjKici2FLplFB+BEDAB+TxDfy713IqkhDQ3dvruIUlTmhDxpp40bE9VOWffycPRAjCBIk8m9yVWIYfDi9A1gKsgdwwd5FdtuVcfCvwDvnJRCswucUqOVtKqIm0U+zSAefxAX/SfC0bnYR+zOharGsoToWxG4pDW1w9XL4dCwSTzy1Q2K+Z9N7X1BK0Uj0WLDO5Dsiw66iuHE9hvGjtqem+R4oYo+zh3mwbFJY=;TU4TpxURJtC2jxybHOw3gA=="
 ---

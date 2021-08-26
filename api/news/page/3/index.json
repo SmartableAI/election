@@ -2,6 +2,163 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-24-craig-says-he-wants-to-be-defined-as-james-craig-not-donald-trump.md",
+      "title": "Craig says he wants 'to be defined as James Craig, not Donald Trump'",
+      "excerpt": "Former Detroit Police Chief James Craig, who is exploring a run for Michigan governor, says he would accept Donald Trump's endorsement if offered.",
+      "sourceUrl": null,
+      "webUrl": "https://www.detroitnews.com/story/news/politics/2021/08/23/craig-says-he-wants-to-defined-james-craig-not-donald-trump/8241441002/",
+      "originalUrl": "https://www.detroitnews.com/story/news/politics/2021/08/23/craig-says-he-wants-to-defined-james-craig-not-donald-trump/8241441002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/08/23/PDTN/46a2da2f-2d6f-42b0-9de1-51989278a50d-James_craig_BIRM.jpg?auto=webp&crop=4031,2268,x0,y373&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.detroitnews.com/amp/8241441002",
+      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/8241441002",
+      "publishedDateTime": "2021-08-23T13:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit News",
+        "domain": "detroitnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-byron-yorks-daily-memo-a-national-eye-opening-on-joe-biden.md",
+      "title": "Byron York's Daily Memo: A national eye-opening on Joe Biden",
+      "excerpt": "Welcome to Byron York's Daily Memo newsletter. Was this email forwarded to you? Sign up here to receive the newsletter. A NATIONAL EYE-OPENING ON JOE BIDEN. Just one month ago, President Biden's job approval rating,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-a-national-eye-opening-on-joe-biden",
+      "originalUrl": "https://www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-a-national-eye-opening-on-joe-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediadc.brightspotcdn.com/dims4/default/24831ae/2147483647/strip/true/crop/1060x600+0+0/resize/1060x600!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F1b%2Fdd%2F5520d8a2407eb68282a5cf5f8e59%2Fdaily-memo-default-1060x600.png",
+          "width": 1060,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-a-national-eye-opening-on-joe-biden?_amp=true",
+      "cdnAmpWebUrl": "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-a-national-eye-opening-on-joe-biden?_amp=true",
+      "publishedDateTime": "2021-08-23T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Examiner",
+        "domain": "washingtonexaminer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonexaminer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-thiessen-biden-handed-terrorists-a-safe-haven-to-plan-attacks-worse-than-911.md",
+      "title": "Thiessen: Biden handed terrorists a 'safe haven' to plan attacks worse than 9/11",
+      "excerpt": "Fox News contributor Marc Thiessen told “America's Newsroom” that Biden has given radical Islamic terrorists, including Al-Qaeda, the tools they need to conduct attacks potentially deadlier than 9/11.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/thiessen-biden-radical-islamic-terrorists-attacks",
+      "originalUrl": "https://www.foxnews.com/media/thiessen-biden-radical-islamic-terrorists-attacks",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/72b0dc02-682b-420e-84a4-3161e1992fac/f23f8b11-a3b8-49ec-a004-928df5eb9e2a/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/thiessen-biden-radical-islamic-terrorists-attacks.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/thiessen-biden-radical-islamic-terrorists-attacks.amp",
+      "publishedDateTime": "2021-08-23T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-23-afghanistan-fallout-engulfs-harris-first-day-of-southeast-asia-trip.md",
       "title": "Afghanistan fallout engulfs Harris' first day of Southeast Asia trip",
       "excerpt": "Vice President Kamala Harris, undertaking a suddenly high-stakes visit to Southeast Asia this week amid the first major foreign policy crisis of the Biden administration, was on the receiving end of questions Monday about the US' withdrawal from Afghanistan for the first time since the chaotic fall of",
@@ -1122,157 +1279,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-biden-pledges-to-americans-in-kabul-we-will-get-you-home.md",
-      "title": "Biden pledges to Americans in Kabul: 'We will get you home'",
-      "excerpt": "President Joe Biden is pledging to Americans still trapped in Afghanistan: “We will get you home.” Biden also said Friday the United States is committed to evacuating all Afghans who assisted the war effort — a potentially vast expansion of the administration's commitments on the airlift so far,",
-      "sourceUrl": null,
-      "webUrl": "https://www.stamfordadvocate.com/news/article/US-struggles-to-speed-Kabul-airlift-despite-16399637.php",
-      "originalUrl": "https://www.stamfordadvocate.com/news/article/US-struggles-to-speed-Kabul-airlift-despite-16399637.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/21/42/55/21375845/3/ratio3x2_400.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.stamfordadvocate.com/news/amp/US-struggles-to-speed-Kabul-airlift-despite-16399637.php",
-      "cdnAmpWebUrl": "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/US-struggles-to-speed-Kabul-airlift-despite-16399637.php",
-      "publishedDateTime": "2021-08-20T16:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "StamfordAdvocate",
-        "domain": "stamfordadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-republicans-torch-white-house-for-claiming-biden-never-shies-away-from-questions.md",
-      "title": "Republicans torch White House for claiming Biden never 'shies away' from questions",
-      "excerpt": "GOP lawmakers are smashing Biden over White House communications director Kate Bedingfield’s Friday claim that the president does not turn away from questions.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rs35_dacLko/republicans-torch-white-house-claim-biden-never-shies-away-questions",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rs35_dacLko/republicans-torch-white-house-claim-biden-never-shies-away-questions",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/25684f3a-65f3-4e86-999a-f1deb767a447/82c540db-f631-4b89-9efc-17f0257f7e3f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/republicans-torch-white-house-claim-biden-never-shies-away-questions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-torch-white-house-claim-biden-never-shies-away-questions.amp",
-      "publishedDateTime": "2021-08-20T09:02:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-alan-dershowitz-says-donald-trump-ties-have-lost-him-many-friends.md",
-      "title": "Alan Dershowitz Says Donald Trump Ties Have Lost Him Many Friends",
-      "excerpt": "The lawyer made headlines this week after he was spotting in a war of words with famous comedian and writer Larry David.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/alan-dershowitz-says-donald-trump-ties-have-lost-him-many-friends-larry-david-1621399",
-      "originalUrl": "https://www.newsweek.com/alan-dershowitz-says-donald-trump-ties-have-lost-him-many-friends-larry-david-1621399",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 385,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1875530/alan-dershowitz.jpg",
-          "width": 3000,
-          "height": 1985,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/alan-dershowitz-says-donald-trump-ties-have-lost-him-many-friends-larry-david-1621399?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/alan-dershowitz-says-donald-trump-ties-have-lost-him-many-friends-larry-david-1621399?amp=1",
-      "publishedDateTime": "2021-08-20T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

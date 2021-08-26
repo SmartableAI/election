@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mccarthy-biden-hostages-taliban.amp
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-biden-hostages-taliban.amp"
 type: article
 quality: 160
-heat: 200
+heat: 220
 published: true
 
 provider:
@@ -63,6 +63,17 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Top Senate Democrat swipes at Biden: ‘Can’t trust the Taliban’"
+    excerpt: "A top Senate Democrat signaled that in light of explosion attacks in Kabul that killed at least 11 U.S. Marines and a Navy medic, patience with President Joe Biden’s Afghanistan evacuation strategy is wearing thin."
+    publishedDateTime: 2021-08-26T21:27:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/top-senate-democrat-swipes-biden-cant-trust-taliban"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/top-senate-democrat-swipes-biden-cant-trust-taliban?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/top-senate-democrat-swipes-biden-cant-trust-taliban?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
 
 secured: "/QusJ4qODBiVxPGOL6l0RCPqq7na7KrzS7RB7JYsnvk0NaRCdgtakO3zC0zVlkRrAVC0UVkht7OU0FpVn3vuFNvlCRedilgnkjh41ILIZTs/xPnVs6j1sdBxpozJ6eJe8x5ogmKxIbz9boLbA5YfWv8/cDiN9HlABH4O4bsA+1IHTK1RT4bavYdOXfnFshvpbgh8p1B5n/p5h2YmD7M5JKCSNZK5i5GHnL9T5mUxODmb5UU0IX8F/Dh0S/bJGze5OyxvByvrt2E0wLhkdiZOH0K+kQPBnUPe97gNAAbkB+BH26XgkTW6Tz8KGlY7Q2D4cTDqfiLNyvz1So2WYNsQ9vBnrdPVlasgLYPb507mMx0=;YqJI6Edi78CKLkP0MgnXgQ=="
 ---

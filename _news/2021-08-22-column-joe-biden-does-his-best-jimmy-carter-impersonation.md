@@ -257,6 +257,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Joe Biden's terrible August just got worse"
+    excerpt: "It doesn't bode well for Joe Biden's presidency. The case for withdrawing American troops from Afghanistan is strong. The rapid collapse of Afghan military forces and its elected government in the face of a Taliban offensive this summer has demonstrated just how little we've done to create a strong and resilient system in the country over the past 20 years."
+    publishedDateTime: 2021-08-26T16:58:00Z
+    webUrl: "https://theweek.com/joe-biden/1004184/the-political-consequences-of-the-kabul-airport-attack"
+    ampWebUrl: "https://theweek.com/joe-biden/1004184/the-political-consequences-of-the-kabul-airport-attack?amp"
+    cdnAmpWebUrl: "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/joe-biden/1004184/the-political-consequences-of-the-kabul-airport-attack?amp"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 75
+    images:
+      - url: "https://mediacloud.theweek.com/image/upload/f_auto,t_primary-image-mobile@1/v1629996718/biden%20airport%20damon.jpg"
+        width: 375
+        height: 211
+        isCached: true
   - title: "Joe Biden goes on HOLIDAY again! POTUS has worked for only 4 days during Afghan fiasco"
     excerpt: "Biden has worked only four days out of the last 15, ever since the Taliban captured their first regional capital"
     publishedDateTime: 2021-08-21T10:05:00Z
@@ -595,6 +611,34 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "The Media Was in Love With Joe Biden — Until He Tried to End a War"
+    excerpt: "The establishment media loved Joe Biden until he did a good thing and tried to end the war in Afghanistan. Now they’re looking for blood."
+    publishedDateTime: 2021-08-26T16:39:00Z
+    webUrl: "https://jacobinmag.com/2021/08/media-coverage-joe-biden-afghanistan-war-pullout-establishment-press/"
+    type: article
+    provider:
+      name: Jacobin
+      domain: jacobinmag.com
+    quality: 55
+    images:
+      - url: "https://images.jacobinmag.com/wp-content/uploads/2021/08/26100026/GettyImages-1148069258.jpg"
+        width: 1024
+        height: 676
+        isCached: true
+  - title: "Joe Biden’s Labor Board Picks Have Been Surprisingly Encouraging"
+    excerpt: "Biden's political history is anything but pro-labor. But his moves thus far to strengthen workers' rights through the National Labor Relations Board have actually been very promising."
+    publishedDateTime: 2021-08-26T21:14:00Z
+    webUrl: "https://www.jacobinmag.com/2021/08/workers-rights-national-labor-relations-board-biden-administration-union-law"
+    type: article
+    provider:
+      name: Jacobin
+      domain: jacobinmag.com
+    quality: 55
+    images:
+      - url: "https://images.jacobinmag.com/wp-content/uploads/2021/08/26123837/GettyImages-1234864559.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Ron DeSantis slams Joe Biden ‘lack of leadership’ at event highlighting COVID-19 treatment"
     excerpt: "Ron DeSantis turned his attention from COVID-19 to the White House. DeSantis aired grievances yet again about a perceived “lack of leadership” from President Joe Biden, showing that even at an event focused on the virus,"
     publishedDateTime: 2021-08-19T18:28:00Z
@@ -608,6 +652,20 @@ related:
       - url: "https://floridapolitics.com/wp-content/uploads/2021/08/DeSantis-biden.jpg"
         width: 2048
         height: 1365
+        isCached: true
+  - title: "Joe Biden COVID-19: POTUS given inconclusive intelligence report regarding pandemic's origins"
+    excerpt: "In the midst of the criticism regarding Afghanistan, US President Joe Biden had previously ordered the intelligence community to look into the possible origins of the COVID-19 pandemic. This week, Biden received a"
+    publishedDateTime: 2021-08-26T10:31:00Z
+    webUrl: "https://www.econotimes.com/Joe-Biden-COVID-19-POTUS-given-inconclusive-intelligence-report-regarding-pandemics-origins-1615877"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 44
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/202108260e72020f772609130_th_1024x0.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "US Maintaining Constant Vigilance to Disrupt Threats, Including ISIS, Says Joe Biden | Key Points"
     excerpt: "US President Joe Biden will shortly begin his address updating Americans on the development in evacuation operations in Afghanistan. Stay tuned to this page for LIVE updates."

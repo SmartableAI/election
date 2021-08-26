@@ -3,8 +3,8 @@ category: news
 title: "Rep. Green on Afghanistan: 'Everybody in America Knows Whose Fault It Is -- It Is Joe Biden's'"
 excerpt: "House Rep. Mark Green (R-Fla.), a West Point grad who served in both Afghanistan and Iraq, said it was \"upsetting\" to see how rapidly President Joe Biden had \"capitulated to the Taliban,\" and stressed that the withdrawal disaster in Afghanistan was entirely Biden's fault,"
 publishedDateTime: 2021-08-25T14:49:00Z
-originalUrl: "https://www.cnsnews.com/index.php/blog/michael-w-chapman/rep-green-afghanistan-everybody-america-knows-whose-fault-it-it-joe-bidens"
-webUrl: "https://www.cnsnews.com/index.php/blog/michael-w-chapman/rep-green-afghanistan-everybody-america-knows-whose-fault-it-it-joe-bidens"
+originalUrl: "https://www.cnsnews.com/blog/michael-w-chapman/rep-green-afghanistan-everybody-america-knows-whose-fault-it-it-joe-bidens"
+webUrl: "https://www.cnsnews.com/blog/michael-w-chapman/rep-green-afghanistan-everybody-america-knows-whose-fault-it-it-joe-bidens"
 type: article
 quality: 43
 heat: -1
@@ -248,6 +248,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1877015/tucker-carlson-speaks-esztergom-hungary.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Fact check: Quote about Afghanistan, Democrats in Washington falsely attributed to Donald Trump"
+    excerpt: "The claim: Donald Trump said, 'Do not be distracted by all this going on in Afghanistan' As former President Donald Trump has criticized President Joe Biden's handling of the U.S. withdrawal from Afghanistan, online posts surfaced claiming Trump said ..."
+    publishedDateTime: 2021-08-26T18:15:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5586860001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5586860001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/22/USAT/9aef22b6-661a-487a-9438-89b679f37137-GTY_1335520712.jpg?auto=webp&crop=3688,2075,x0,y187&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Joe Biden Said He Is Committed To Helping Evacuate Afghan Allies Who Worked With The US Government"
     excerpt: "In a speech at the White House, Biden again stood by his decision to withdraw US forces from the country. By Clarissa-Jan Lim Posted on August 20, 2021, at 3:05 p.m. ET President Joe Biden delivers remarks on the ongoing evacuation efforts in Afghanistan,"
@@ -678,6 +694,22 @@ related:
       - url: "https://img.chdrstatic.com/media/af08ffdc-9632-4dc2-a041-8cefb8b5a6db.jpg?width=1200&source=backend&auto=webp"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Ezra Klein Tries to Wonk-Absolve Joe Biden of Responsibility for Afghanistan"
+    excerpt: "Klein, who has never met a technocrat he dislikes, has suddenly decided that it’s unfair to suggest that the president be a competent planner."
+    publishedDateTime: 2021-08-26T14:54:00Z
+    webUrl: "https://www.nationalreview.com/corner/ezra-klein-tries-to-wonk-absolve-joe-biden-of-responsibility-for-afghanistan/"
+    ampWebUrl: "https://www.nationalreview.com/corner/ezra-klein-tries-to-wonk-absolve-joe-biden-of-responsibility-for-afghanistan/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/ezra-klein-tries-to-wonk-absolve-joe-biden-of-responsibility-for-afghanistan/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 72
+    images:
+      - url: "https://www.nationalreview.com/wp-content/uploads/2021/08/kabul-evacuees-fence.jpg?fit=2057%2C1200"
+        width: 2057
+        height: 1200
         isCached: true
   - title: "Pence Rips Into Biden for 'Disastrous Withdrawal' From Afghanistan"
     excerpt: "Former Vice President Mike Pence is laying into President Joe Biden for what he says is a “disastrous” withdrawal from Afghanistan. In an op-ed published in The Wall Street Journal on Tuesday, Pence recalled Biden’s prediction that the Taliban would not overrun Afghanistan."
@@ -1216,6 +1248,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "James Carville Is Mad As Hell About The ‘Hysterical And Stupid’ Coverage Of Biden’s Afghanistan Pullout"
+    excerpt: "James Carville is tired of the media attacking Joe Biden for pulling U.S. troops out of Afghanistan, saying \"We lost this war 15 years ago.\""
+    publishedDateTime: 2021-08-26T21:26:00Z
+    webUrl: "https://uproxx.com/tv/james-carville-biden-afghanistan-coverage/"
+    type: article
+    provider:
+      name: Uproxx
+      domain: uproxx.com
+    quality: 39
+    images:
+      - url: "https://uproxx.com/wp-content/uploads/2021/08/GettyImages-1183649335.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Yes, former President Trump made a deal with the Taliban to pull US troops out of Afghanistan by May 2021"
     excerpt: "Former President Donald Trump made a deal to remove U.S. forces by May 2021, and Biden extended the withdrawal deadline to Sept. 11. 2021"
     publishedDateTime: 2021-08-17T22:32:00Z
@@ -1322,6 +1368,6 @@ related:
         height: 380
         isCached: true
 
-secured: "XEvk8OVoUz8rgl5tEu7sVk07hmihRSJ9LTfvvnFnImqrwCTaA/AMcgAsrSjvMOjmYcd6UAoxM2emByzGAxHY77eNZ5R9QVcwiVH5MahHxenqlBaOoDnj/84RY/YOo3pkyk3aqgfDgusDFmZCjve6zGBHphMrTmgoIu1Nc/1hrPF0zgmq90GmnrHMNJ9KkIXRqwbuWb01nFQSfiZ+z8C1a9Qhd1awXNL+IW9EzKuPvhXcSWITvwp6NWRn3mshFYSkyng+HQ6ddXOUfmA5o1185rOjyWyTY8wIBTFw7sJecSLRrzQN9eVfM4Mw2daVONTo1UfBeHluU37AIPlXvYnv2qZ9g8IHEw+qJdUf2a3PARo=;RgeuFZ3sm1lHokBEQJJp2Q=="
+secured: "8TX5Z2RT4y9QcqFy6LZPQnKCkEJ7//kjgwRlQrRTIjCfMCnNQ8f4wWEjqVb8fe8kHrtVSe1riVc9nly7Sv2lfGGu6YYOho+YLKvvTHoGGy7WtcbPMDhAxK/Y1jIBIiYR8uJY79SeV/3jIUXgb1fksRnuyk7nLPHdeMb0iYm8Rc+dNyNifPT6jYh024ZsLF04aKXoJO8xl6wIMcuyP2wMB99zJnlscfK4fVkR2rnf9EFXEH5c9OnBg3H4ba0VXSn8lta83ciQi2MTrpd4Zq85XqPZs0dUAU8XJvqLGyqg0PuvpJPwu6yFZhNj/fDIDH+k1J+opt85KndXSLPslxPq36iTLrLePZakJ4z3V8nSURc=;aYhATceKvYWj728URhgAdw=="
 ---
 

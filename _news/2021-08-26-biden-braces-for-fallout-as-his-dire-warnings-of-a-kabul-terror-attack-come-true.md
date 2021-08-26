@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden has approved $9.5 billion in student loan cancellations this year for defrauded and disabled students"
+    excerpt: "The Department of Education said Thursday that it will cancel $1.1 billion in student loan debt for some students who attended the now-defunct for-profit ITT Technical Institute -- bringing the total amount of loan discharges approved under President Joe Biden to $9.5 billion.\n    \n"
+    publishedDateTime: 2021-08-26T20:19:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iLSauRHeH8Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/26/politics/biden-student-loan-forgiveness/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/26/politics/biden-student-loan-forgiveness/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210808124739-miguel-cardona-080521-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "+cT9ZGtNXrL1mKkgC7vU9BjAmJHzbgmfJXSjPi0M8Tj4Fql3D0g3NHbVrLPARuxf/2cSG2mkrtxVJOjP0uPPdKI3JCzEhHhOv02K6csOi7oFBsQuVQEiulNxhDcY3XwMbeU+RERU4WGa+i+HB7WbiDC7+pO7pM5IPkRcxPQiXqzdpLQR5iBN95UXE+LG/37GNc2ucF9ttEhC9EbMQ8phUelauQCKEaKhrL9QB6BkGUCNZFereHbPAmK8PKA5aWT2JYTzJegVMriHxnY5UH142xZ4LiqFQtcK4MhTQZwt/L1iSJAcgcAcsATIutgz3X3nSAOVarDWQldUXLSTK0VQ1UY6/8bZjwx2JNDk7VhQxD0=;iTOXGksU47zHaclLVp/v4Q=="
 ---

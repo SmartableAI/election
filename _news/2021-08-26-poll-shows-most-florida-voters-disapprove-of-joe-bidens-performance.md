@@ -3,23 +3,23 @@ category: news
 title: "Poll shows most Florida voters disapprove of Joe Biden’s performance"
 excerpt: "A majority of Florida voters disapprove of President Joe Biden’s performance. The Quinnipiac University Poll found 40% of Florida voters approve of Biden’s performance, with 53% disapproving. Views of his COVID-9 response were better."
 publishedDateTime: 2021-08-25T20:59:00Z
-originalUrl: "https://www.orlandosentinel.com/politics/fl-ne-biden-approval-florida-q-poll-august-2021-20210825-ibuwjcvuefah7gcx5sbn25fmey-story.html"
-webUrl: "https://www.orlandosentinel.com/politics/fl-ne-biden-approval-florida-q-poll-august-2021-20210825-ibuwjcvuefah7gcx5sbn25fmey-story.html"
+originalUrl: "https://www.sun-sentinel.com/news/politics/fl-ne-biden-approval-florida-q-poll-august-2021-20210825-ibuwjcvuefah7gcx5sbn25fmey-story.html"
+webUrl: "https://www.sun-sentinel.com/news/politics/fl-ne-biden-approval-florida-q-poll-august-2021-20210825-ibuwjcvuefah7gcx5sbn25fmey-story.html"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Orlando Sentinel
-  domain: orlandosentinel.com
+  name: Sun Sentinel
+  domain: sun-sentinel.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.orlandosentinel.com/resizer/fd0A7vVARWikIwoJnZ2wJbRNy5A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WWLTWUO72FBD4H6OPFY4HJPBTQ.jpg"
+  - url: "https://www.sun-sentinel.com/resizer/fd0A7vVARWikIwoJnZ2wJbRNy5A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WWLTWUO72FBD4H6OPFY4HJPBTQ.jpg"
     width: 1200
     height: 800
     isCached: true
@@ -83,6 +83,6 @@ related:
       domain: seattletimes.com
     quality: 50
 
-secured: "K6kquuElRSqecWdBOzxjpUJyQZA8b9a6OU9jEtdXfPkmI51elSFffRkNTsraAivjZuwFre5hnQpptZe1Eh4+I9D62qzRVGjlsr5kaWlm4S8lxJULa/UKvTULH4m3w10py1UVCRnrd+rBtfG8Po9Com3p/9/RDGR1dbL2QMVVmkrKg+rYMQfUx4P91RhHoB89PN12ZFO1Y9lR5p5jzHLQmo3l5nHEQAw0Nvd4zDuSGs6hVWYEzuF7ip/kFRmvLnsYrM9gPMskiELzorB2jfXLofluluIQIWtk63FgV+yZbZHnu//OfLu2JfyC3wxzjfDxu16zSug3xqiiXYDdVGdGFwK9ao42ylvew4q/BaR2b7iwCKil5Hdl0NS1vOXqM5muhDGL7kXEOnOwpVs1NY69lckFYHS7OKUBOrK8KM8V/Lzq0PTZb+jv52syyP+TqC+RD7WwPxiNq74u3UR+upbpbTS6n0RvHaDgLyhUR5WXiVGBX0DXhm6XmHq0spx43+80pfEw0ZPWQFyj+KqJ29IRcw==;QzPx/A2NlC6MCiKvMUFe0w=="
+secured: "STTLDlimw/sVoFOlTjGbROe/uoKhPOgbiGa80RWTg8SHO1RAI6SEBhE1XANt7OC9bJnhObBcTw3y/Qbv7TVAshkLOVkqrH1iofdUDfok1vVqEr8MdUv7fEQTClZJOuwnm3/iMGArKeF/0ddKMAK6MkwOBvtdTNVkCwzN5SICT0NjkzMA8sPQPUb173S9+VgDh/6JVAqkg8EqfQAMTnyWGNTeWabMakpXI69zrV4X0tQyrmAMg/Ol3oAOSwCO+ucBh1qjmDWEnCeNhebfpD/jWDY99pRpuczMYyTiH3T3T6owxKhs6uLd+bu7qBLf9YMAJU5hdBi3kpr/bKCD0dOMqj7ZgOz8JrMi3nO2Y7uU94E=;gCxBOQkoZdvwrlgSF6jAGg=="
 ---
 

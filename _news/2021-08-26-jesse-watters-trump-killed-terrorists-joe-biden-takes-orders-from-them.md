@@ -1593,6 +1593,17 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 64
+  - title: "'Blood on his hands': Republicans say Kabul explosion result of Biden decisions"
+    excerpt: "Between waves of calls for prayers in response to explosions in Kabul, Afghanistan, that harmed American troops and civilians, some Republicans pointed the finger squarely at President Joe Biden and his administration."
+    publishedDateTime: 2021-08-26T20:12:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/republicans-congress-kabul-attack-biden"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/republicans-congress-kabul-attack-biden?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/republicans-congress-kabul-attack-biden?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 61
   - title: "ISIS threat in Afghanistan is ‘real’ and ‘persistent,’ Biden national security adviser says"
     excerpt: "President Joe Biden’s national security adviser warned that the Islamic State is a threat to the United States as the military continues to evacuate Americans and Afghan allies from Taliban-controlled Afghanistan."
     publishedDateTime: 2021-08-22T21:52:00Z
@@ -1604,6 +1615,20 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 55
+  - title: "Trump: I Would Have Blown Up Every Piece Of Military Equipment The U.S. Left In Afghanistan"
+    excerpt: "Former President Donald Trump spoke about the situation in Afghanistan during an interview Thursday morning with radio host Hugh Hewitt. Trump made these comments before a deadly terror attack in Kabul on Thursday."
+    publishedDateTime: 2021-08-26T20:55:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/08/26/trump_i_would_have_blown_up_every_piece_of_military_equipment_the_us_left_in_afghanistan.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 55
+    images:
+      - url: "https://assets.realclear.com/images/54/547670.jpg"
+        width: 892
+        height: 668
+        isCached: true
   - title: "The Big Bet Joe Biden Is Making on Afghanistan"
     excerpt: "Joe Biden believes that you don't care about Afghanistan. Or, maybe more accurately, that you won't care about it by the time the 2022 (and 2024) elections rolls around. Read Full"
     publishedDateTime: 2021-08-23T00:00:00Z

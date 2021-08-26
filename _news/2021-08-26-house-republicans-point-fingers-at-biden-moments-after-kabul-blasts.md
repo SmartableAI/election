@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/26/politics/republicans-kabul-biden/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/26/politics/republicans-kabul-biden/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210821080912-01-joe-biden-08-20-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden has approved $9.5 billion in student loan cancellations this year for defrauded and disabled students"
+    excerpt: "The Department of Education said Thursday that it will cancel $1.1 billion in student loan debt for some students who attended the now-defunct for-profit ITT Technical Institute -- bringing the total amount of loan discharges approved under President Joe Biden to $9.5 billion.\n    \n"
+    publishedDateTime: 2021-08-26T20:19:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iLSauRHeH8Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/26/politics/biden-student-loan-forgiveness/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/26/politics/biden-student-loan-forgiveness/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210808124739-miguel-cardona-080521-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
