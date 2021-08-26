@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 666
         isCached: true
+  - title: "The House panel probing the Capitol riot seeks a host of Trump-era records"
+    excerpt: "The requested documents are just the beginning of what is expected to be lengthy partisan and rancorous investigation."
+    publishedDateTime: 2021-08-25T18:47:00Z
+    webUrl: "https://www.inquirer.com/politics/nation/capitol-riot-house-panel-trump-documents-probe-20210825.html"
+    ampWebUrl: "https://www.inquirer.com/politics/nation/capitol-riot-house-panel-trump-documents-probe-20210825.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/politics/nation/capitol-riot-house-panel-trump-documents-probe-20210825.html?outputType=amp"
+    type: article
+    provider:
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 73
+    images:
+      - url: "https://www.inquirer.com/resizer/cNGsEx7ZoN44lRl3Qus2p-nkmg4=/0x0:2398x1600/760x507/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/ROPZU2U5UJGVRGSNLKMY5UHQKY.jpg"
+        width: 760
+        height: 507
+        isCached: true
   - title: "House panel probing 1/6 riot seeks host of Trump-era records"
     excerpt: "The House committee investigating the January insurrection at the U.S. Capitol is demanding a trove of records from federal intelligence and law enforcement agencies."
     publishedDateTime: 2021-08-26T02:23:00Z

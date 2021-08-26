@@ -195,6 +195,20 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "POINT: A Trump party without Trump"
+    excerpt: "The debate about former, disgraced President Donald Trump’s influence on the direction of the Republican Party tends to be watched now based on isolated Republican primaries. But the real question"
+    publishedDateTime: 2021-08-26T08:00:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/point-a-trump-party-without-trump/article_09ef4983-8df2-534e-b346-25c6db6b4393.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "oZhuKn+CHURub4JRLBKkV7Ftkd8vjwD2lgsqDq3mZ4xqkPPKbnNexI0Rhp0E6TUG8FBT5SPSXFSBphh3eti8e4+TA6SikeP5j0JXmVvTt4aBo/DsNEB5sMGgxISUG3dNJBU6S6Cl7cYuo9SMKNjlYGvouQ3l/0e6UufiD5vTm7L5ft9fYI8jSAMBNcoe9EoIIgKfTWu0KZhSOH5bZr/oUsLfWd+OmOTOwxQBSBw863+RXonngDDQqXr/N9PlCnBd7vvgi+l7lptISF3LHXbkuoPmVw8H6FXMJw/tobMDYp7Cm6ij7v+U763zZ7/35M2Z+yeVX9BwfWUnnVwloCNqm/BtMDI+jH0a2t7fLBOJuO4=;LDD8jCTsm9TBRXXA6KCX+A=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden speaks about Afghanistan evacuation amid criticism – live"
 excerpt: "Psaki says US has helped evacuate 57,000 people in the last nine days and and is on track to meet its deadline of 31 August"
 publishedDateTime: 2021-08-24T20:24:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news?page=with:block-61255bc08f080ef844e747eb"
-webUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news?page=with:block-61255bc08f080ef844e747eb"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news?page=with:block-612560288f08b1506f20dbf6"
+webUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news?page=with:block-612560288f08b1506f20dbf6"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news"
 type: article
@@ -301,8 +301,8 @@ related:
         isCached: true
   - title: "Boris Johnson’s Plea to Joe Biden on Afghanistan: Don’t Quit"
     excerpt: "America’s withdrawal strikes Brits and Europeans as cynical and raises questions about whether the West still has a “strategic will.”"
-    publishedDateTime: 2021-08-24T06:50:00Z
-    webUrl: "https://www.washingtonpost.com/business/boris-johnsons-plea-to-joe-biden-on-afghanistan-dont-quit/2021/08/24/ff3b9060-04af-11ec-b3c4-c462b1edcfc8_story.html"
+    publishedDateTime: 2021-08-24T08:50:00Z
+    webUrl: "https://www.washingtonpost.com/business/boris-johnsons-plea-to-joe-biden-on-afghanistan-dont-quit/2021/08/24/ff3b9060-04af-11ec-b3c4-c462b1edcfc8_story.html?amp;amp"
     type: article
     provider:
       name: Washington Post
@@ -1282,6 +1282,6 @@ related:
         height: 380
         isCached: true
 
-secured: "02/nrb4cPHQfaXI4XUSmRUR7WiaUxRrlBjgKXmNIOMP7PFIlXaC0cGccVHq19el1BT4sg7iAi4foH/1fLDKA2fGyCQcwryo2HFqmjpP9jW+UYIjh1r0YtCkYSR/6cykxU8BrzoYvMn5KWcl6oEiKaQ0M0k8nY0KjPU2XYQHmfBOu8YKOZQ7HQ2YtdxlX+pi54uJUV5HnvF4a/uJGzlv+KsmJvMHQXGqCUufB51drfgz+r8CiLEHCGxjsqTpPPEqQVzwtuCluoDPteG4ugAHgF32H7nwlbEl88biskH2Pyh5M44ensvBYRabqztQ0LtZ1IrcyEJ96E/LRp4ziYCKwkkE/sYee2EcDJ0yDutK7qEo=;Py7YvXpyzy/CNugXmHCCtg=="
+secured: "enbBaoIg13HnmEEqVriGPbqRptUracMqq12Bcj+hZ+rxhzuysHA+c3iflHzYqk9pQ/WbTltAyIBLrfwYa3yw8aute2B15en5EUEQ0lcoZIqMqTysm/m7hs67eEP4VZA7SeaKK4a+rwU1d61feJGM6x62dyuqx0OOdDCTSGb9/pGOGaj45dR0x8Sa/8kLOZTSHnieHP+4UOvJPt+gzLgCIUopYI45cW60pLTpKGB6dLcXqYzfAbPWE9JRRjGr22d4/qXXuyaq4zXwiS0dE747Ai38toxOmIgmp3Fx9D/wEpILhUsKW6P+6Pd8Q0+Jxg4iraz/Q+VQTZ26sQRj1CAmVVAm2/lAX57vz4DCrOHvcMg=;G+VmT1d6QjhlM7Jt7yyuAQ=="
 ---
 

@@ -2,6 +2,63 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-06-04-after-2-year-battle-house-panel-to-interview-trump-counsel-mcgahn.md",
+      "title": "After 2-year battle, House panel to interview Trump counsel McGahn",
+      "excerpt": "His interview with the Judiciary Committee comes two years after House Democrats originally sought his testimony as part of investigations into former President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/congress/after-2-year-battle-house-panel-interview-trump-counsel-mcgahn-n1269616",
+      "originalUrl": "https://www.nbcnews.com/politics/congress/after-2-year-battle-house-panel-interview-trump-counsel-mcgahn-n1269616",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3480277/210604-don_mcgahn-mc-1225.JPG",
+          "width": 2500,
+          "height": 1664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1269616",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269616",
+      "publishedDateTime": "2021-06-04T05:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-pence-ill-likely-never-see-eye-to-eye-with-trump-on-jan-6.md",
       "title": "Pence: I'll likely never see eye to eye with Trump on Jan. 6",
       "excerpt": "Former Vice President Mike Pence says he isn't sure he and former President Donald Trump will ever see “eye to eye” over what happened on Jan_ 6 but he will “always be proud of what we accomplished for the American people over the last four years.",
@@ -1506,58 +1563,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-former-house-speaker-paul-ryan-joined-the-fight-against-donald-trump-by-urging-fellow-conservatives-to-reject-the-former-presidents-politics.md",
-      "title": "Former House Speaker Paul Ryan joined the fight against Donald Trump by urging fellow conservatives to reject the former president’s politics",
-      "excerpt": "Emerging from two years of relative silence, former House Speaker Paul Ryan joined the fight against Donald Trump on Thursday, urging fellow conservatives to reject the former president’s divisive politics and those Republican leaders who emulate him.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-paul-ryan-donald-trump-republicans-gop-reject-poltics-20210528-5rmkikur35hqreddnnt7gk5jje-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-paul-ryan-donald-trump-republicans-gop-reject-poltics-20210528-5rmkikur35hqreddnnt7gk5jje-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/TeYNpM4qwEPkL99MF8R8RkqIgFI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZVAH3T2NCBH5AJHZHQCLFWV7LA.aspx",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-paul-ryan-donald-trump-republicans-gop-reject-poltics-20210528-5rmkikur35hqreddnnt7gk5jje-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-paul-ryan-donald-trump-republicans-gop-reject-poltics-20210528-5rmkikur35hqreddnnt7gk5jje-story.html?outputType=amp",
-      "publishedDateTime": "2021-05-27T19:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

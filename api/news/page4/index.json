@@ -777,6 +777,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-17-former-president-coming-to-heart-of-trump-country-on-return-to-alabama.md",
+      "title": "Former president coming to ‘heart of Trump country’ on return to Alabama",
+      "excerpt": "John Wahl said he started working to bring former President Donald Trump back to Alabama right after the state Republican Party picked him as chairman in February. Earlier efforts fell through, including a planned rally July 3 at the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.al.com/news/2021/08/former-president-coming-to-heart-of-trump-country-on-return-to-alabama.html",
+      "originalUrl": "https://www.al.com/news/2021/08/former-president-coming-to-heart-of-trump-country-on-return-to-alabama.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 274,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CG36TSTRSZB4ZN7NW5OAVVCW7A.jpg",
+          "width": 819,
+          "height": 461,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.al.com/news/2021/08/former-president-coming-to-heart-of-trump-country-on-return-to-alabama.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/08/former-president-coming-to-heart-of-trump-country-on-return-to-alabama.html?outputType=amp",
+      "publishedDateTime": "2021-08-16T17:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "al.com",
+        "domain": "al.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-16-fareed-zakaria-this-withdrawal-is-a-stain-on-bidens-foreign-policy.md",
       "title": "Fareed Zakaria: This withdrawal is a stain on Biden's foreign policy ",
       "excerpt": "CNN's Anderson Cooper talks with Fareed Zakaria about the crisis unfolding in Afghanistan and what this means for President Joe Biden's foreign policy. Watch \"Full Circle\" Monday, Wednesday and Friday 6p E.T.\n    \n",
@@ -1245,49 +1288,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-15-donald-trump-blasts-former-secretary-of-state-rex-tillerson-dumb-as-a-rock.md",
-      "title": "Donald Trump blasts former secretary of state Rex Tillerson; ‘Dumb as a rock’",
-      "excerpt": "President Trump denounced his former Secretary of State Thursday following reports Rex Tillerson quietly met with the House Foreign Affairs Committee and testified about his time in the Trump administration.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/donald-trump-europe-rex-tillerson-96b455a30118c4b2ac668418b27073f2",
-      "originalUrl": "https://apnews.com/article/donald-trump-europe-rex-tillerson-96b455a30118c4b2ac668418b27073f2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/ShareLogo2.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-14T20:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

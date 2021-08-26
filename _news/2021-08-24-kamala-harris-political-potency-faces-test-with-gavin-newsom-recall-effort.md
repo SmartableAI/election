@@ -42,6 +42,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Harris emphasizes human and worker rights in Vietnam"
+    excerpt: "U.S. Vice President Kamala Harris turned her attention to issues surrounding worker rights and civil liberties Thursday as she closed out her visit to Southeast Asia, elevating activists in a region of the world known for its challenges and restrictions to human rights."
+    publishedDateTime: 2021-08-26T08:38:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Efpr547QH1Q/harris-emphasizes-human-and-worker-rights-in-vietnam"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-emphasizes-human-and-worker-rights-in-vietnam.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-emphasizes-human-and-worker-rights-in-vietnam.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/866b14b2-1de8-4622-aec7-be50db2ba263/4949e96e-e551-4b08-acb0-99323d0ede96/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Kamala Harris visits John McCain monument in Vietnam, 3 years after his death"
     excerpt: "Vice President Kamala Harris laid flowers Wednesday at the Vietnamese memorial site where late Sen. John McCain was shot down in 1967 by the North Vietnamese when he was a Navy fighter pilot."
     publishedDateTime: 2021-08-25T10:03:10Z

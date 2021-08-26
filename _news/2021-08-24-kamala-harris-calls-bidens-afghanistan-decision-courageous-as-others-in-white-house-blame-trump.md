@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-biden-afghanistan-dec
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-biden-afghanistan-decision-courageous-trump-blame.amp"
 type: article
 quality: 201
-heat: 2101
+heat: 2121
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Kamala Harris says evacuating Americans, Afghan allies is Biden admin's 'highest priority'"
+    excerpt: "Vice President Kamala Harris said evacuating Americans and U.S. allies in Afghanistan is the administration’s \"highest priority\" while answering reporters’ questions in Vietnam on Thursday. "
+    publishedDateTime: 2021-08-26T09:32:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/stJDZh-mWbs/kamala-harris-evacuations-americans-afghan-allies-biden-priority"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-evacuations-americans-afghan-allies-biden-priority.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-evacuations-americans-afghan-allies-biden-priority.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ade3c3e8-b310-491d-93bc-0fb2bf926352/a1d10e54-a2ea-488c-a581-d47216f33613/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "VP Harris leaves for trip to Vietnam, Singapore amid Afghanistan fiasco"
     excerpt: "Vice President Kamala Harris on Friday is leaving for a trip to Vietnam and Singapore, just as the Biden administration is grappling with ongoing chaos in Afghanistan."

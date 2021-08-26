@@ -181,6 +181,20 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "POINT: A Trump party without Trump"
+    excerpt: "The debate about former, disgraced President Donald Trump’s influence on the direction of the Republican Party tends to be watched now based on isolated Republican primaries. But the real question"
+    publishedDateTime: 2021-08-26T08:00:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/point-a-trump-party-without-trump/article_09ef4983-8df2-534e-b346-25c6db6b4393.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Jan. 6 Select Committee Probe Expands To Trump And Top Officials In A Wave Of Demands"
     excerpt: "The House select committee investigating the Jan. 6 attack on the Capitol issued a wave of record requests to eight federal agencies, including any communications by Rudy Giuliani and Ivanka Trump."
     publishedDateTime: 2021-08-25T17:58:00Z
@@ -196,6 +210,6 @@ related:
         height: 710
         isCached: true
 
-secured: "ur6syKeYoTmXOzFIEYu1b6TDxJxKPgrmCXiHYText7UgUGruE7JsJtJO0toO4Z5svy/0n9MIPec0cfbXrap7VGWFNLGvsbvJFPWVFdO3W1D/xbz5nMqRAonia0ZTXdi4DfiyxOWYYFBuyoghsp0F4MNyx2y0/UaWuVeGpYuGkebpngqrJsK0n/8HHbaU7gBOQ84VjrqaJye3zSdaBpZ+dVOqmavXCFtuCgCwEY5cTSVhheV1buyaj9OYP7ESNoz074gmnIIGQYx4WP0ZI27ynQeBbFafP74c4znYP4m8TajevQ0kFlvfwT5NEDzIUEmyCOQTCifYv1ygYrinSy8e0VbH8p61a11Wbwb8DKwZ7kk=;8ADKOBtEcgme9ct0DWkyIg=="
+secured: "Eambr6oGHSr4LEaIHnQbYNgYcnkgVE2RmzFNP88hfrFMNEm3oE6W03EDMG/Re84doxb+WHtqda7qGFqLaxMIQ0AvV/wbWyFY8okN0kXQt/7kdiq3MzKHQ0CzTF5lQSZu3POkhpWHWEdGi1VdSz4H4SeKh+M1x0XsK3veVWfOi91KonHu9OTAi3/QMoNj2M8z0Ve5of2vGlKCBG5jldSwPBxtQDXpXFt2BDABbNN7nTuNgsgKcRA+iEq8Oued84qKl0QGoac1sVU9FBafffLihKp1ArkRy7uRqHmV1+IUOeObrs5hN8pl8nEZ+lUdtoEmuh4827gQOeG52C3Dr+9qJkUsRDCqWdPHdbp6afMLWgV0dHBQ81+NZYBG5Pa1MOmJN3pl+d4JZHLL8V/ldRmjgjZSPJCMWBH6ZUIMAGhBgehjKh6g4laajvk9J1+JSJYMFrCYg3gUp9cRFXetAM6P2tBOXDvt8jh4ejdXj/NUWfDjHFg1PYRt5MBRAScHeXdlkwjXu+8wHZUCZsdy0PL/Xw==;qAuoKH5JeTwyMlWXqwjEsw=="
 ---
 

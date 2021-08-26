@@ -9,8 +9,8 @@ ampWebUrl: "https://www.propublica.org/article/how-the-trump-tax-law-created-a-l
 cdnAmpWebUrl: "https://www-propublica-org.cdn.ampproject.org/c/s/www.propublica.org/article/how-the-trump-tax-law-created-a-loophole-that-lets-top-executives-net-millions-by-slashing-their-own-salaries/amp"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: ProPublica
@@ -27,19 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "LZ Granderson: Backing the blue takes a back seat to backing Trump"
-    excerpt: "Last week, former President Donald Trump ratcheted up his efforts to turn Ashli Babbitt, the insurrectionist who was slain in the U.S. Capitol on Jan. 6, into a martyr. He"
-    publishedDateTime: 2021-08-16T08:30:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/lz-granderson-backing-the-blue-takes-a-back-seat-to-backing-trump/article_b9510a27-f8f8-5c9b-bd91-5646dae4254d.html"
+  - title: "Meet the 9 local Georgia investigators who have Donald Trump in their sights"
+    excerpt: "An inside look at the top Georgia investigators that are leading an effort that — at the extreme — could land Trump in prison."
+    publishedDateTime: 2021-08-26T08:00:00Z
+    webUrl: "https://www.businessinsider.com/fani-willis-georgia-investigation-election-trump-phone-call-2021-8"
     type: article
     provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
-    quality: 55
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+      - url: "https://i.insider.com/6126d12512b9cc001962e5c2?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
+        isCached: true
+  - title: "Donald Trump speaking in Alabama for the first time in 4 years"
+    excerpt: "Trump will speak tonight in Cullman, his first political event in Alabama since 2017. (AP Photo/Ross D. Franklin, File) AP Six years to the day after a rally in Mobile gave an early glimpse of Donald Trump’s ability to generate the excitement that would propel him to the White House,"
+    publishedDateTime: 2021-08-21T14:02:00Z
+    webUrl: "https://www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for-the-first-time-in-4-years.html"
+    ampWebUrl: "https://www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for-the-first-time-in-4-years.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for-the-first-time-in-4-years.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NFUPH4M6QRDLLKJBN7DOE4AXCM.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "4MSg7vvEz8WnYnoo4dxot8/nzh4lB7tcsZMAv7ugOPwih5kicQB6t7SUKYstERgAXvX+gxIjWuP9z0BdTcCAu89c2UsZFye9QxcoBvA7aCu7EifiBxgTfTd4xnYVn/gLq9JMVbYVR1hpSYMEycDYtyCBnaMzgSMNauSKr6j44nPBbSquDaSxXt/AGq8c1Qtr9mO8fm3zmU5U0D6zhIc+veuYsHhtysye9FmU+0Hvs9n2IQWCQyfxo/DcczXgPLxZZbHmOgyt+PNf3FwxFkgl6gnNFrMwKkG2cvOr9BD80s3EPrTlIudRxy90eA2Cyqoezl4gR15kPx1gVRdMbFwneYkqTdQmnnTYwLGIoxSib9M=;m8+6cRbj41EHvGcCut5trA=="

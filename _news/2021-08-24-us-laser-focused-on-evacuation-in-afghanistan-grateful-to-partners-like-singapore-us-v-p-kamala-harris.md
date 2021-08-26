@@ -671,22 +671,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Analysis: Kamala Harris backed Afghan exit despite intel warning Taliban would abuse women again"
-    excerpt: "Just 12 days before President Joe Biden ordered the withdrawal of U.S. forces in Afghanistan, the U.S. intelligence community warned the White House that allowing the Taliban to control the"
-    publishedDateTime: 2021-08-25T14:35:00Z
-    webUrl: "https://www.thecentersquare.com/national/analysis-kamala-harris-backed-afghan-exit-despite-intel-warning-taliban-would-abuse-women-again/article_482a54f6-05a9-11ec-b11d-b7e0d604c261.html"
-    ampWebUrl: "https://www.thecentersquare.com/national/analysis-kamala-harris-backed-afghan-exit-despite-intel-warning-taliban-would-abuse-women-again/article_482a54f6-05a9-11ec-b11d-b7e0d604c261.amp.html"
-    cdnAmpWebUrl: "https://www-thecentersquare-com.cdn.ampproject.org/c/s/www.thecentersquare.com/national/analysis-kamala-harris-backed-afghan-exit-despite-intel-warning-taliban-would-abuse-women-again/article_482a54f6-05a9-11ec-b11d-b7e0d604c261.amp.html"
-    type: article
-    provider:
-      name: The Center Square
-      domain: thecentersquare.com
-    quality: 62
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/2/69/269f8034-ec40-11e8-8ff4-bfc48e16d0a2/5bf3282b1fd6d.image.jpg"
-        width: 1000
-        height: 768
-        isCached: true
   - title: "Kamala Harris under fire for LAUGHING while being grilled on Afghanistan crisis as she tanks in polls"
     excerpt: "KAMALA Harris has been slammed for laughing while being grilled on the Afghanistan crisis as the VP’s approval numbers tank. Footage from a Friday night chat with reporters has shown the"
     publishedDateTime: 2021-08-23T12:10:00Z
@@ -973,6 +957,20 @@ related:
       - url: "https://www.bizpacreview.com/wp-content/uploads/2021/08/SG-Kamala-Harris-1200x630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Analysis: Kamala Harris backed Afghan exit despite intel warning Taliban would abuse women again"
+    excerpt: "Just 12 days before President Joe Biden ordered the withdrawal of U.S. forces in Afghanistan, the U.S. intelligence community warned the White House that allowing the Taliban to control the"
+    publishedDateTime: 2021-08-25T14:35:00Z
+    webUrl: "https://www.djournal.com/news/national/analysis-kamala-harris-backed-afghan-exit-despite-intel-warning-taliban-would-abuse-women-again/article_cf31fa7e-e1cc-59df-8c6c-4d267483bd58.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 42
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/7/16/716c8fc9-28d2-587f-8fa2-c437abbef47c/60d4c1ae6ec3e.image.jpg?crop=1000%2C563%2C0%2C102&resize=1000%2C563&order=crop%2Cresize"
+        width: 1000
+        height: 563
         isCached: true
   - title: "Kamala Harris to Tour Southeast Asia in Wake of Afghan Withdrawal; New Poll Indicates Lower Approval Rating"
     excerpt: "WASHINGTON – The Taliban takeover of Afghanistan has given new urgency to Vice President Kamala Harris’ tour of Southeast Asia, where she will attempt to reassure allies of American resolve following the chaotic end of a two-decade war, reported the ..."

@@ -37,6 +37,22 @@ related:
         width: 1024
         height: 666
         isCached: true
+  - title: "The House panel probing the Capitol riot seeks a host of Trump-era records"
+    excerpt: "The requested documents are just the beginning of what is expected to be lengthy partisan and rancorous investigation."
+    publishedDateTime: 2021-08-25T18:47:00Z
+    webUrl: "https://www.inquirer.com/politics/nation/capitol-riot-house-panel-trump-documents-probe-20210825.html"
+    ampWebUrl: "https://www.inquirer.com/politics/nation/capitol-riot-house-panel-trump-documents-probe-20210825.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/politics/nation/capitol-riot-house-panel-trump-documents-probe-20210825.html?outputType=amp"
+    type: article
+    provider:
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 73
+    images:
+      - url: "https://www.inquirer.com/resizer/cNGsEx7ZoN44lRl3Qus2p-nkmg4=/0x0:2398x1600/760x507/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/ROPZU2U5UJGVRGSNLKMY5UHQKY.jpg"
+        width: 760
+        height: 507
+        isCached: true
   - title: "Lawyers allied with Trump penalized over Michigan lawsuit | Charlotte Observer"
     excerpt: "Nine lawyers allied with former President Donald Trump face financial penalties and other sanctions in Michigan."
     publishedDateTime: 2021-08-25T23:40:00Z

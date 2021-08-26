@@ -3,27 +3,25 @@ category: news
 title: "Analysis: Kamala Harris backed Afghan exit despite intel warning Taliban would abuse women again"
 excerpt: "Just 12 days before President Joe Biden ordered the withdrawal of U.S. forces in Afghanistan, the U.S. intelligence community warned the White House that allowing the Taliban to control the"
 publishedDateTime: 2021-08-25T14:35:00Z
-originalUrl: "https://www.thecentersquare.com/national/analysis-kamala-harris-backed-afghan-exit-despite-intel-warning-taliban-would-abuse-women-again/article_482a54f6-05a9-11ec-b11d-b7e0d604c261.html"
-webUrl: "https://www.thecentersquare.com/national/analysis-kamala-harris-backed-afghan-exit-despite-intel-warning-taliban-would-abuse-women-again/article_482a54f6-05a9-11ec-b11d-b7e0d604c261.html"
-ampWebUrl: "https://www.thecentersquare.com/national/analysis-kamala-harris-backed-afghan-exit-despite-intel-warning-taliban-would-abuse-women-again/article_482a54f6-05a9-11ec-b11d-b7e0d604c261.amp.html"
-cdnAmpWebUrl: "https://www-thecentersquare-com.cdn.ampproject.org/c/s/www.thecentersquare.com/national/analysis-kamala-harris-backed-afghan-exit-despite-intel-warning-taliban-would-abuse-women-again/article_482a54f6-05a9-11ec-b11d-b7e0d604c261.amp.html"
+originalUrl: "https://www.djournal.com/news/national/analysis-kamala-harris-backed-afghan-exit-despite-intel-warning-taliban-would-abuse-women-again/article_cf31fa7e-e1cc-59df-8c6c-4d267483bd58.html"
+webUrl: "https://www.djournal.com/news/national/analysis-kamala-harris-backed-afghan-exit-despite-intel-warning-taliban-would-abuse-women-again/article_cf31fa7e-e1cc-59df-8c6c-4d267483bd58.html"
 type: article
-quality: 62
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: The Center Square
-  domain: thecentersquare.com
+  name: Daily Journal
+  domain: djournal.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/2/69/269f8034-ec40-11e8-8ff4-bfc48e16d0a2/5bf3282b1fd6d.image.jpg"
+  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/7/16/716c8fc9-28d2-587f-8fa2-c437abbef47c/60d4c1ae6ec3e.image.jpg?crop=1000%2C563%2C0%2C102&resize=1000%2C563&order=crop%2Cresize"
     width: 1000
-    height: 768
+    height: 563
     isCached: true
 
 related:
@@ -1021,6 +1019,6 @@ related:
         height: 422
         isCached: true
 
-secured: "F3gJuNNfYHuHccmAuErK36MtHWbFjxsIOLzhnL6Qd0Zc1PpdbYC1yqn0mQhjtmFaJZcSBMRSQe+0QtV892S3svc1FxHgHlqqbMWfanQGrPM31no1k5SsqraxcKDWc+D/sDd83Rh/VcI0EainLGLcNrPDh34vgV5UDw63+nQR0l3XGcvSoB37cg0k+1Q4ahJEyLcwX7+VNbUaqHbbMh9pHIpED/X57vsvx8aoect1Fcqxh2ftLmGZdyCdNf6aSwNVudW32v7X3zwTa5WciaZjIHv6oQ4RsG2RBLietCma29JYfw4ZkpyIw/tIKqQdO4nLLSFJKw9/xJedIADRP4vhmnZv9+a6MLgxb2Pex/wNBwg2gMZ/9tXHHe5ieKLOleueAacx4vTIRANzum4yksZwExihyMmV8N70jlr7P0/qM6/YjRw5VHJFy0PRS+2sqQaCufobYqMNC71eXgRvYVUSWcnvhgm1IP4yDTJ2rulLbC+iIIHXs1r0LoPc4leFaCQeGGAUeIXlEG5UbX0W3lfzuQ==;cy4jKVw9eAjJB/sNHL2YIQ=="
+secured: "8p5tSLNd5SNjW4LdoixfGA3iyHocTcG8zwP9cDxLVh+wLDL2zE2SdjvnJJ1CUmFpAPoGyJar4scFILzU0DJj7hURQEK97UjmmUyC3oJr6s6aiFPg/aw2bYDSfAFkxLqfHLiuxXNOyW97lqXbIlkYtwGy9P3tNd6Ciyiw7q4uPZqodN7L8K5tsE/JcHj5jkPxa8Zgq31Siw35a/+XY04jIuwJ4FhzQb1KoeqEjfw3cwfmPDxWeBO/W74Ob8+JM7fx+om54dRs2iQv4qGsvBHzu9Arbb4/QXsfqRgIYXQZjA3+BCD8qSUxf+obb2JzerNKPOlNXVap/xg2fe8xnh75LyKIZFtq74E3I3hqw7/nIRw=;zGn1dFuJnxswv3Eofzx73w=="
 ---
 

@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump speaking in Alabama for the first time in 4 years"
-    excerpt: "Trump will speak tonight in Cullman, his first political event in Alabama since 2017. (AP Photo/Ross D. Franklin, File) AP Six years to the day after a rally in Mobile gave an early glimpse of Donald Trump’s ability to generate the excitement that would propel him to the White House,"
-    publishedDateTime: 2021-08-21T14:02:00Z
-    webUrl: "https://www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for-the-first-time-in-4-years.html"
-    ampWebUrl: "https://www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for-the-first-time-in-4-years.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for-the-first-time-in-4-years.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NFUPH4M6QRDLLKJBN7DOE4AXCM.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Former president coming to ‘heart of Trump country’ on return to Alabama"
     excerpt: "John Wahl said he started working to bring former President Donald Trump back to Alabama right after the state Republican Party picked him as chairman in February. Earlier efforts fell through, including a planned rally July 3 at the U."
     publishedDateTime: 2021-08-17T00:53:00Z
@@ -75,22 +59,6 @@ related:
         width: 1280
         height: 712
         isCached: true
-  - title: "The House panel probing the Capitol riot seeks a host of Trump-era records"
-    excerpt: "The requested documents are just the beginning of what is expected to be lengthy partisan and rancorous investigation."
-    publishedDateTime: 2021-08-25T18:47:00Z
-    webUrl: "https://www.inquirer.com/politics/nation/capitol-riot-house-panel-trump-documents-probe-20210825.html"
-    ampWebUrl: "https://www.inquirer.com/politics/nation/capitol-riot-house-panel-trump-documents-probe-20210825.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/politics/nation/capitol-riot-house-panel-trump-documents-probe-20210825.html?outputType=amp"
-    type: article
-    provider:
-      name: Philadelphia Inquirer
-      domain: inquirer.com
-    quality: 73
-    images:
-      - url: "https://www.inquirer.com/resizer/cNGsEx7ZoN44lRl3Qus2p-nkmg4=/0x0:2398x1600/760x507/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/ROPZU2U5UJGVRGSNLKMY5UHQKY.jpg"
-        width: 760
-        height: 507
-        isCached: true
   - title: "Mo Brooks, Tommy Tuberville to speak at Donald Trump’s Alabama rally in Cullman"
     excerpt: "The former president will hold a rally at York Family Farms six years to the day after his first big campaign rally in Mobile."
     publishedDateTime: 2021-08-21T01:41:00Z
@@ -107,32 +75,16 @@ related:
         width: 819
         height: 461
         isCached: true
-  - title: "Donald Trump Jr. at Alabama fishing expo hears his name floated for 2024 GOP ticket"
-    excerpt: "Donald Trump Jr. thanked Alabama Saturday for the 2015 Mobile rally that gave his father’s presidential campaign a critical push, and he heard his own name floated for a place on the 2024 GOP ticket."
-    publishedDateTime: 2021-07-11T00:25:00Z
-    webUrl: "https://www.al.com/news/2021/07/donald-trump-jr-at-alabama-fishing-expo-hears-his-name-floated-for-2024-gop-ticket.html"
-    ampWebUrl: "https://www.al.com/news/2021/07/donald-trump-jr-at-alabama-fishing-expo-hears-his-name-floated-for-2024-gop-ticket.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/07/donald-trump-jr-at-alabama-fishing-expo-hears-his-name-floated-for-2024-gop-ticket.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 69
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XIIL2FMESJHFFP7DV5M4WSIVNU.JPG"
-        width: 6000
-        height: 4000
-        isCached: true
   - title: "Donald Trump booed at Alabama rally after telling supporters to 'take the vaccines'"
     excerpt: "Amid the state's low vaccination rate, former President Donald Trump told a rally to go get vaccinated against COVID-19, which some booed."
-    publishedDateTime: 2021-08-23T12:29:00Z
-    webUrl: "https://www.statesman.com/story/news/politics/2021/08/23/donald-trump-tells-alabama-rally-covid-19-vaccine-gets-booed/8237487002/"
-    ampWebUrl: "https://amp.statesman.com/amp/8237487002"
-    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8237487002"
+    publishedDateTime: 2021-08-23T10:54:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/2021/08/23/donald-trump-tells-alabama-rally-covid-19-vaccine-gets-booed/8237487002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/8237487002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/8237487002"
     type: article
     provider:
-      name: Austin American-Statesman
-      domain: statesman.com
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
     quality: 69
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/08/22/USAT/9aef22b6-661a-487a-9438-89b679f37137-GTY_1335520712.jpg?auto=webp&crop=3688,2075,x0,y187&format=pjpg&width=1200"
@@ -154,6 +106,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/08/22/USAT/9aef22b6-661a-487a-9438-89b679f37137-GTY_1335520712.jpg?auto=webp&crop=3688,2075,x0,y187&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Sheriff Gentry commissions former President Trump as deputy sheriff in Cullman County"
+    excerpt: "Sheriff Matt Gentry of the Cullman County Sheriff’s Office presented former President Donald Trump with a plaque that commissioned him as a deputy sheriff"
+    publishedDateTime: 2021-08-23T01:59:00Z
+    webUrl: "https://www.cbs42.com/news/local/sheriff-gentry-commissions-former-president-trump-as-deputy-sheriff-in-cullman-county/"
+    ampWebUrl: "https://www.cbs42.com/news/local/sheriff-gentry-commissions-former-president-trump-as-deputy-sheriff-in-cullman-county/amp/"
+    cdnAmpWebUrl: "https://www-cbs42-com.cdn.ampproject.org/c/s/www.cbs42.com/news/local/sheriff-gentry-commissions-former-president-trump-as-deputy-sheriff-in-cullman-county/amp/"
+    type: article
+    provider:
+      name: CBS 42
+      domain: cbs42.com
+    quality: 68
+    images:
+      - url: "https://www.cbs42.com/wp-content/uploads/sites/81/2021/08/Trump-Cullman-Sheriff.png?w=1280"
+        width: 1090
+        height: 578
         isCached: true
   - title: "Donald Trump Gets Booed For Advocating COVID-19 Vaccine At 'Save America' Rally In Alabama"
     excerpt: "Donald Trump gets booed for advocating COVID-19 vaccine at the 'Save America' rally in Alabama, he said the vaccine is good and I recommend everyone to take it."
@@ -218,20 +186,6 @@ related:
       - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/BB-TRUMP-ALABAMA-COMP.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Mark Z. Barabak: Debunking Trump's 'Big Lie,' scholars and statistics show the facts don't add up"
-    excerpt: "In a recent survey of presidential scholars, President Donald Trump finished a dismal third from the bottom, just ahead of perennial duds James Buchanan and Andrew Johnson."
-    publishedDateTime: 2021-08-17T20:49:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/mark-z-barabak-debunking-trumps-big-lie-scholars-and-statistics-show-the-facts-dont-add/article_83f37a8a-dd79-5cd1-8f33-4c08686e9b41.html"
-    type: article
-    provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
-    quality: 42
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "En/Wa5ir3NXqM2EDFIbMTujZKdm8Uo5OGb3aBT1JZMZ2S24nzGyul3284JvuWpyqDTW6U86G3hCpbj0Bw/cUyN5Jz1JdRda41ORvkmsGcRSR72AVRlIHpyvrEE9Rmtf3K9bR0l+Hrewctu+54oYT/c9b4v1ZIm7Kz3vbu6Ld8hJ2CR1A9xARWHkQ/soRmuEemzifpZBVU9D3mdWbBikURuXUPFQM7D/GNgqg5xXWNIAsS4OBy7aZDrpzUAdb3RvUuHh7ld4N5zcLr8CCeWIXw8JlUQd7IkurQINsN0pxQ4FObgIc1ecbxvF1eK5BKXXcuRO73fksyF0WWL5wLa7QzkSThzoBnC+s5eYRr9aOCZOJxpqn49AgfS87ipmh81kqJs8AkQbGZ+FsEiVzwpcgo/PCjQnZIernq0fioNK+06xZxGmlNRepLBMJTxd02ACdYkmnQIriopnwlx45WcVlkqiivZJmBAEjJAboGBdbTjfzBYbPZolMJpjYO2BBsQzMXl5e2nVJdgHKdEd4zZkpAg==;Lomlm39dOGckyGTUveiBWQ=="
