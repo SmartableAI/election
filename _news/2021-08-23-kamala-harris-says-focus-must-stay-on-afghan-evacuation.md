@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/world-nation/story/2021-08-23/kamala-harris-
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-08-23/kamala-harris-says-focus-must-stay-on-afghan-evacuation?_amp=true"
 type: article
 quality: 125
-heat: 1365
+heat: 1385
 published: true
 
 provider:
@@ -372,6 +372,22 @@ related:
       - url: "https://assets.thehansindia.com/h-upload/2021/08/25/1104032-kamala.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "Kamala Harris says US will donate 1M Pfizer vaccine doses to Vietnam"
+    excerpt: "Vice President Kamala Harris said on Wednesday the U.S. plans to donate 1 million Pfizer coronavirus vaccine doses to Vietnam, where only 2% of the population has been vaccinated."
+    publishedDateTime: 2021-08-25T10:37:00Z
+    webUrl: "https://www.foxbusiness.com/politics/kamala-harris-us-donate-pfizer-vaccine-doses-vietnam"
+    ampWebUrl: "https://www.foxbusiness.com/politics/kamala-harris-us-donate-pfizer-vaccine-doses-vietnam.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/kamala-harris-us-donate-pfizer-vaccine-doses-vietnam.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 75
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/8c3971cb-937c-4004-aeb7-220b2857e6da/2d1a7651-f4d2-4402-a55b-4b79a57202d8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Kamala Harris to join husband in Honolulu after official trips in Asia"
     excerpt: "Vice President Kamala Harris will reunite in Hawaii with second gentleman Doug Emhoff on Thursday following separate trips overseas for official White House functions."

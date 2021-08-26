@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Beto-O-Rourke-pu
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Beto-O-Rourke-pushes-Joe-Biden-to-help-pass-16411342.php"
 type: article
 quality: 125
-heat: 205
+heat: 245
 published: true
 
 provider:
@@ -76,6 +76,34 @@ related:
       - url: "https://thehilltoponline.com/wp-content/uploads/2021/08/Screen-Shot-2021-08-23-at-9.41.18-AM-1.png"
         width: 590
         height: 467
+        isCached: true
+  - title: "House passes $3.5T Joe Biden blueprint after deal with moderates"
+    excerpt: "Striking a deal with moderates, House Democratic leaders have muscled President Joe Biden’s multitrillion-dollar budget blueprint over a key hurdle, ending a risky standoff and putting the party’s domestic infrastructure agenda back on track."
+    publishedDateTime: 2021-08-25T10:36:00Z
+    webUrl: "https://floridapolitics.com/archives/452859-house-passes-3-5t-joe-biden-blueprint-after-deal-with-moderates/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/08/pelosi-scaled.jpeg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "Joe Biden spoke to the G7 a sum total of 7 minutes. Pure propaganda, photo-op."
+    excerpt: "Joe Biden acted like his G7 meeting was a success, but in reality it left every other world leader feeling disappointed in America."
+    publishedDateTime: 2021-08-25T12:49:00Z
+    webUrl: "https://www.bizpacreview.com/2021/08/25/joe-biden-spoke-to-the-g7-a-sum-total-of-7-minutes-pure-propaganda-photo-op-1124053/"
+    type: article
+    provider:
+      name: BizPac Review
+      domain: bizpacreview.com
+    quality: 51
+    images:
+      - url: "https://www.bizpacreview.com/wp-content/uploads/2021/08/GW-Biden-G7-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "President Joe Biden goes off script during White House visit, gives Storm personal tour of Oval Office"
     excerpt: "After a 20-minute ceremony in the East Room to celebrate the team’s 2020 WNBA championship, President Joe Biden asked the Storm if they would like a private tour, led by him, of the Oval Office. Of course,"

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nytimes.com/2021/08/21/world/asia/pence-troye-trump-mill
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/21/world/asia/pence-troye-trump-miller-afghan-refugees.amp.html"
 type: article
 quality: 160
-heat: 180
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Times
@@ -33,6 +33,54 @@ images:
     isCached: true
 
 related:
+  - title: "Fact checking Jake Sullivan's claim Trump admin didn't process Afghan visas for a year"
+    excerpt: "During a press briefing Monday, White House national security adviser Jake Sullivan suggested a slowdown in approvals for the Afghan Special Immigrant Visa (SIV) program during the Trump administration contributed to the current delays in evacuating Afghans.\n    \n"
+    publishedDateTime: 2021-08-25T22:09:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WNHa7UwGkP4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/25/politics/afghan-visas-trump-admin-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/25/politics/afghan-visas-trump-admin-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210813155757-us-embassy-kabul-file-073021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact check: Trump administration officials try to rewrite their own Afghanistan history "
+    excerpt: "There's been no shortage of fact-based criticism aimed at the Biden administration's handling of the US withdrawal from Afghanistan.\n    \n"
+    publishedDateTime: 2021-08-22T12:00:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hnmgNgUjCO0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/22/politics/fact-check-pence-pompeo-haley-miller-afghanistan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/22/politics/fact-check-pence-pompeo-haley-miller-afghanistan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604101745-01-pence-nh-speech-0603-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "GOP congressman places blame on Trump admin for crisis in Afghanistan: 'They set this up to fail'"
+    excerpt: "Republican Rep. Adam Kinzinger on Sunday placed blame on the Trump administration for the unfolding crisis in Afghanistan, saying its 2020 agreement with the Taliban sowed the seeds for the US' turbulent exit from the country.\n    \n"
+    publishedDateTime: 2021-08-22T15:45:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c3mqO2eRA2k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/22/politics/adam-kinzinger-afghanistan-crisis-trump-administration-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/22/politics/adam-kinzinger-afghanistan-crisis-trump-administration-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210711102931-adam-kinzinger-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fmr. Pence Adviser: Stephen Miller peddled “racist hysteria” during Trump years, preventing Afghans from obtaining Special Immigrant Visas"
     excerpt: "Olivia Troye, a former homeland security adviser to then-VP Mike Pence, reveals that racist and xenophobic ideologies inside the Trump Administration prevented Afghan allies from being granted Special Immigration Visas during the former president’s term."
     publishedDateTime: 2021-08-21T15:39:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mirror.co.uk/news/us-news/donald-trump-gets-booed-rally-
 cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/us-news/donald-trump-gets-booed-rally-24815259.amp"
 type: article
 quality: 70
-heat: 110
+heat: 90
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Josh Duggar's Lawyers Trying To Get The Case Dismissed With A Donald Trump-Oriented Argument"
-    excerpt: "Josh Duggar’s legal team has been busy in recent weeks as the former 19 Kids and Counting’s star preps for trial. The eldest son of Jim Bob and Michelle Duggar was arrested on one count of receipt of child pornography and one count of possession of child pornography back in April."
-    publishedDateTime: 2021-08-23T16:49:00Z
-    webUrl: "https://www.cinemablend.com/television/2572395/josh-duggar-lawyer-case-dismissed-donald-trump-oriented-argument?pv=related_list"
-    ampWebUrl: "https://amp.cinemablend.com/television/2572395/josh-duggar-lawyer-case-dismissed-donald-trump-oriented-argument"
-    cdnAmpWebUrl: "https://amp-cinemablend-com.cdn.ampproject.org/c/s/amp.cinemablend.com/television/2572395/josh-duggar-lawyer-case-dismissed-donald-trump-oriented-argument"
-    type: article
-    provider:
-      name: Cinema Blend
-      domain: cinemablend.com
-    quality: 64
-    images:
-      - url: "https://img.cinemablend.com/quill/4/5/8/a/9/0/458a9063ffa8791c4da283f5ee12d513513c70e7.jpg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Donald Trump Encouraged People at His Rally to Get Vaccinated. They Booed Him."
     excerpt: "According to a Trump adviser, the then-president and his wife, Melania, got the vaccine in January—a fact that wasn’t reported until March . 2) The rally brought thousands of people to York Family Farms in Cullman County,"
     publishedDateTime: 2021-08-22T13:52:00Z

@@ -121,6 +121,22 @@ related:
         width: 1400
         height: 1096
         isCached: true
+  - title: "Lawyers allied with Trump penalized over Michigan lawsuit"
+    excerpt: "Nine lawyers allied with former President Donald Trump face financial penalties and other sanctions in Michigan."
+    publishedDateTime: 2021-08-25T23:34:00Z
+    webUrl: "https://www.newsobserver.com/news/nation-world/national/article253747698.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/nation-world/national/article253747698.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/nation-world/national/article253747698.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 75
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/c4cef625-20b7-4900-8d0e-b7aea9ac60c8/04971208-0b7e-48a6-9be9-aacd9ccfcccd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "How Donald Trump Turned Off Swing Voters In 2020"
     excerpt: "Alan Abromowitz: \"Trump was perceived as far more conservative in 2020 than in 2016. In 2016, Trump was viewed as the least conservative Republican presidential candidate since Gerald Ford in 1976. In 2020,"
     publishedDateTime: 2021-08-25T14:46:00Z

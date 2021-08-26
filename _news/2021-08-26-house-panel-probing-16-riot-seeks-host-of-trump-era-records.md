@@ -1,29 +1,27 @@
 ---
 category: news
 title: "House panel probing 1/6 riot seeks host of Trump-era records"
-excerpt: "WASHINGTON (AP) — The House committee investigating the January insurrection at the U.S. Capitol is demanding a host of records from Donald Trump’s White House and several of his administration’s intelligence and law enforcement agencies, in what is ..."
-publishedDateTime: 2021-08-25T21:00:00Z
-originalUrl: "https://www.timesleader.com/wire/nation-world/1508763/house-panel-probing-1-6-riot-seeks-host-of-trump-era-records"
-webUrl: "https://www.timesleader.com/wire/nation-world/1508763/house-panel-probing-1-6-riot-seeks-host-of-trump-era-records"
-ampWebUrl: "https://www.timesleader.com/wire/nation-world/1508763/house-panel-probing-1-6-riot-seeks-host-of-trump-era-records/amp"
-cdnAmpWebUrl: "https://www-timesleader-com.cdn.ampproject.org/c/s/www.timesleader.com/wire/nation-world/1508763/house-panel-probing-1-6-riot-seeks-host-of-trump-era-records/amp"
+excerpt: "The House committee investigating the January insurrection at the U.S. Capitol is demanding a host of records from Donald Trump's White House and several of his administration's intelligence and law enforcement agencies,"
+publishedDateTime: 2021-08-26T00:51:00Z
+originalUrl: "https://apnews.com/38c2749944f7c0d74c96fd037408899c"
+webUrl: "https://apnews.com/38c2749944f7c0d74c96fd037408899c"
 type: article
-quality: 75
-heat: -1
-published: false
+quality: 105
+heat: 185
+published: true
 
 provider:
-  name: The Times Leader
-  domain: timesleader.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cdnmedia.sendtonews.com/players/library/placeholder.png"
-    width: 375
-    height: 211
+  - url: "https://storage.googleapis.com/afs-prod/media/33e8b2b0b95441e3b42c1dc58ddff80f/3000.jpeg"
+    width: 3000
+    height: 2044
     isCached: true
 
 related:
@@ -42,6 +40,22 @@ related:
       - url: "https://www.mactech.com/wp-content/uploads/2021/08/Lawsuit-image-1024x666.jpg"
         width: 1024
         height: 666
+        isCached: true
+  - title: "The House panel probing the Capitol riot seeks a host of Trump-era records"
+    excerpt: "The requested documents are just the beginning of what is expected to be lengthy partisan and rancorous investigation."
+    publishedDateTime: 2021-08-25T18:47:00Z
+    webUrl: "https://www.inquirer.com/politics/nation/capitol-riot-house-panel-trump-documents-probe-20210825.html"
+    ampWebUrl: "https://www.inquirer.com/politics/nation/capitol-riot-house-panel-trump-documents-probe-20210825.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/politics/nation/capitol-riot-house-panel-trump-documents-probe-20210825.html?outputType=amp"
+    type: article
+    provider:
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 73
+    images:
+      - url: "https://www.inquirer.com/resizer/cNGsEx7ZoN44lRl3Qus2p-nkmg4=/0x0:2398x1600/760x507/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/ROPZU2U5UJGVRGSNLKMY5UHQKY.jpg"
+        width: 760
+        height: 507
         isCached: true
   - title: "Riot probe panel seeks records of Trump-era White House"
     excerpt: "The House panel investigating the Jan. 6 riot at the U.S. Capitol is demanding a sweeping list of records and other information from eight executive branch agencies, including"
@@ -72,6 +86,6 @@ related:
         height: 584
         isCached: true
 
-secured: "mJ3+AvJy7fQdhVrUm4X2TZQBDw/Nw5uuGV+m3Xh3uzj/sij9gBY83nD782j8Ay4G+ccX+oHbaJqminVQmFw+63D9fp2UcuK/SODNxGaRlus8lvv+f1R47bYMDcMDMRd+prRuVeazapxPGTcPsdtbcE+mDQWZqu9xgucKl3juxJWxwopl0na+emKlS4YU+jaX/hMJJJZXf+aaQWEu3WRE9LTkV+5fnIPwt8ZoToxJATm8UpIzZ2mY9x5oCRlCP7QC3UVKfHf6rhG+JyYlrfV4NcuGOVsgqwwcAaZRZJpwxcas/yY9X+hu9BHIjHhD74KcjQ8RlLi5ZDnP5TFVxoeA/xmJnXLNLUi9QZs+SdEAEIM=;r3SV871GbXv9WiXgEbx2BQ=="
+secured: "2KlID7GOQlyD3xHr5t2dw4aIrsBoDJBQuuh71hRBi3ag6j0LX0Xd6Zxx40UkfGdWXqPd4bwW1ASR4yX5YLca56wMu2vcyufKRKXRalCblUtkTLYgjCHvOXDyvqduDtB20+kRk44nYKrRw7K7oFnKhRU5aTCE5TunSi7fCTncShEFpQrZQpqoz58LFAN2IDTcF4Uqtn5cAZ/xWBP1QSFwIddx3uLxNdE7GS130ookml9tchFZHWiPOggf7uReeS3rrNgCJELJiTPOyDRja7sDTeP+cd7rRQDK+rKa4Qwsk++2dTSgNkQO3ZHSENFfirCgMfaY6PBcXW+j74B4eKQv63miQo7EdS5apWr8OgzYQJc=;I21J/hPvF6mvswc5Zhl2hA=="
 ---
 

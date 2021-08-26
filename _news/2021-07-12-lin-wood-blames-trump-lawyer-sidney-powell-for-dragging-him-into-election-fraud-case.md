@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/lin-wood-blames-trump-lawyer-sidney-powell-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lin-wood-blames-trump-lawyer-sidney-powell-dragging-him-election-fraud-case-1608913?amp=1"
 type: article
 quality: 133
-heat: 193
+heat: 213
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://i.insider.com/60f1c2dd7b0ec5001800a80c?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Judge sanctions Sidney Powell, other Trump campaign lawyers over Michigan lawsuit"
+    excerpt: "Nine lawyers allied with former President Donald Trump face financial penalties and other sanctions after a judge said they had abused the court system with a lawsuit that challenged Michigan's"
+    publishedDateTime: 2021-08-25T23:15:00Z
+    webUrl: "https://trib.com/news/national/judge-sanctions-sidney-powell-other-trump-campaign-lawyers-over-michigan-lawsuit/article_5ff21343-6bea-53db-acac-4a6434b66fb7.html"
+    ampWebUrl: "https://trib.com/news/national/judge-sanctions-sidney-powell-other-trump-campaign-lawyers-over-michigan-lawsuit/article_5ff21343-6bea-53db-acac-4a6434b66fb7.amp.html"
+    cdnAmpWebUrl: "https://trib-com.cdn.ampproject.org/c/s/trib.com/news/national/judge-sanctions-sidney-powell-other-trump-campaign-lawyers-over-michigan-lawsuit/article_5ff21343-6bea-53db-acac-4a6434b66fb7.amp.html"
+    type: article
+    provider:
+      name: Casper Star-Tribune
+      domain: trib.com
+    quality: 70
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/d/76/d76dd383-051c-52b0-9232-a4e2c7d00067/6126cc5110be3.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "OH8g6Z4XOek4EYlDkDa4W6+UiVLNuwv2x0a+rgzJs5l++HhMJhsvz7N+wRUl5lwWBeVY4k7qh3NEE7+O72R8Z7lzKOOYAGPMdG1e3d2lSWk3RRYvnESyxXnwWdtI3f3Q7NUvls26+SdpUfkH7uwRMKIfJbJTd9rQm0hz93tbepyPswrcE8JXwQzNt//SI/IXqQZfk0v/zjeOlnzTfSwmbJLj2GaI1K6qqiwK5bDEryryGhfTUJrey+Bvfpc6A6Rx/OlRD65qIti9o7VaQK9DDQltM17iPgwSPwXS2tD5IVqXNxqX0/NEu+MJ0dPFO+lsbDlUTvPD3h6pAFuW6ixwLnYmT2vB1eXO0KEPWdZxP6U=;VqNlE7tUMLtBTxEF3jRhdg=="

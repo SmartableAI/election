@@ -884,6 +884,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Jesse Watters: Trump killed terrorists, Joe Biden takes orders from them"
+    excerpt: "President Biden is blatantly allowing the Taliban to take advantage of the United States, \"The Five\" co-host Jesse Watters argued."
+    publishedDateTime: 2021-08-25T23:38:00Z
+    webUrl: "https://www.foxnews.com/media/jesse-watters-trump-killed-terrorists-joe-biden-takes-orders-from-them"
+    ampWebUrl: "https://www.foxnews.com/media/jesse-watters-trump-killed-terrorists-joe-biden-takes-orders-from-them.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/jesse-watters-trump-killed-terrorists-joe-biden-takes-orders-from-them.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/af804609-c0f6-47ef-ab2b-07bc1608afea/bcac2587-6799-4ee9-8037-1b60fc12d34d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden's meeting with Israeli prime minister to keep spotlight on Afghanistan, terrorist threats to allies"
     excerpt: "President Biden's upcoming meeting with new Israeli Prime Minister Naftali Bennett is likely to center on the escalating crisis in Afghanistan, as well as other emerging threats to the U.S. and its allies due to the rise of terrorism in the region, experts predict. "
     publishedDateTime: 2021-08-25T18:29:45Z
@@ -993,6 +1009,22 @@ related:
     quality: 156
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Bipartisan House Problem Solvers Caucus calls on Biden to extend Afghanistan withdrawal deadline past Aug. 31"
+    excerpt: "The House Problem Solvers Caucus has voted to officially call on President Joe Biden to extend the August 31 withdrawal date from Afghanistan as the administration scrambles to evacuate Americans stranded in Taliban-controlled Kabul."
+    publishedDateTime: 2021-08-26T01:36:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QRvWmHfLOxQ/bipartisan-house-problem-solvers-caucus-calls-on-biden-to-extend-afghanistan-withdrawal-deadline-past-aug-31"
+    ampWebUrl: "https://www.foxnews.com/politics/bipartisan-house-problem-solvers-caucus-calls-on-biden-to-extend-afghanistan-withdrawal-deadline-past-aug-31.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bipartisan-house-problem-solvers-caucus-calls-on-biden-to-extend-afghanistan-withdrawal-deadline-past-aug-31.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/340/340/jacqui-heinrich-headshot.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

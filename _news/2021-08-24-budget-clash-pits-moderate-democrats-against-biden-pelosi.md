@@ -57,6 +57,17 @@ related:
         width: 1680
         height: 876
         isCached: true
+  - title: "Storm commemorates 2020 WNBA championship with President Joe Biden at White House"
+    excerpt: "President Joe Biden and first lady Jill Biden hosted an entourage led by Storm captains Sue Bird and Breanna Stewart, coach Noelle Quinn and the majority owners Ginny Gilder, Lisa Brummel and Dawn Trudeau."
+    publishedDateTime: 2021-08-24T22:46:00Z
+    webUrl: "https://www.seattletimes.com/sports/storm/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/"
+    ampWebUrl: "https://www.seattletimes.com/sports/storm/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/sports/storm/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 50
 
 secured: "t6MtUf2T8OxXMeEpit1uHKLE5mUclPa7Q7kiXeO/PniDNG5d7bggSS7Rh0lwJ7f0oApZBiMMsHvs8BJ7kEcK6UPH91loNMyzOlyBcN2FQ2DdB+3uX8/225PlZ1cy2Ri07Ld42Kpi6jeyNMKluwKqZh12UJ30HerklJGMX39DwhKN3ZyTlz65741+AL/L+6zUWUtew+ttE0TtxvxZKGUCPSNsDXFIE2bRgrD8j7jQ7IUxHm6kzShlNUnjsYW78dKdNMXpLls8tdxOgv8LSKH/gq8bHCHn1G1olZHPONPZHKDkjiJJEjU20em8QUROFBRtQ7Z3YXZy4JeAZKwRBwzQndIRa8CivvFR572B61MSCXA=;JYyE5om2mEAfC4KGWn4EXQ=="
 ---

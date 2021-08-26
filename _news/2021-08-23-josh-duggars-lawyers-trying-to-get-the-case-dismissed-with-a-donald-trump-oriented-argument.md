@@ -27,33 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump gets booed at rally for encouraging his supporters to get Covid jab"
-    excerpt: "Nearly 40% of Republicans are still resistant to getting the Covid-19 vaccine or refuse to get it, a Public Religion Research Institute/Interfaith Youth Core poll recently found"
-    publishedDateTime: 2021-08-22T23:19:00Z
-    webUrl: "https://www.mirror.co.uk/news/us-news/donald-trump-gets-booed-rally-24815259"
-    ampWebUrl: "https://www.mirror.co.uk/news/us-news/donald-trump-gets-booed-rally-24815259.amp"
-    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/us-news/donald-trump-gets-booed-rally-24815259.amp"
+  - title: "Lawyers allied with Trump penalized over Michigan lawsuit | Charlotte Observer"
+    excerpt: "Nine lawyers allied with former President Donald Trump face financial penalties and other sanctions in Michigan."
+    publishedDateTime: 2021-08-25T23:40:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article253747698.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article253747698.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article253747698.html"
     type: article
     provider:
-      name: The Mirror
-      domain: mirror.co.uk
-    quality: 70
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 71
     images:
-      - url: "https://i2-prod.mirror.co.uk/incoming/article24815279.ece/ALTERNATES/s615/0_Former-President-Trump-speaks-in-Alabama.jpg"
-        width: 615
-        height: 409
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/c4cef625-20b7-4900-8d0e-b7aea9ac60c8/04971208-0b7e-48a6-9be9-aacd9ccfcccd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Donald Trump Encouraged People at His Rally to Get Vaccinated. They Booed Him."
-    excerpt: "According to a Trump adviser, the then-president and his wife, Melania, got the vaccine in January—a fact that wasn’t reported until March . 2) The rally brought thousands of people to York Family Farms in Cullman County,"
-    publishedDateTime: 2021-08-22T13:52:00Z
-    webUrl: "https://www.motherjones.com/politics/2021/08/donald-trump-cullman-alabama-rally-covid-boo/"
+  - title: "Dallas attorney Sidney Powell among lawyers allied with Trump to be penalized over Michigan lawsuit"
+    excerpt: "Nine lawyers allied with former President Donald Trump face financial penalties and other sanctions after a judge Wednesday said they had"
+    publishedDateTime: 2021-08-25T23:54:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/08/25/dallas-attorney-sidney-powell-among-lawyers-allied-with-trump-penalized-over-michigan-lawsuit/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/08/25/dallas-attorney-sidney-powell-among-lawyers-allied-with-trump-penalized-over-michigan-lawsuit/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/08/25/dallas-attorney-sidney-powell-among-lawyers-allied-with-trump-penalized-over-michigan-lawsuit/?outputType=amp"
     type: article
     provider:
-      name: Mother Jones
-      domain: motherjones.com
-    quality: 51
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 61
     images:
-      - url: "https://www.motherjones.com/wp-content/uploads/2021/08/20210822_cullman.jpg?w=1200&h=630&crop=1"
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/bsGv3kupQn2C0Toxiu_4rh68Ito=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/2DI6CDQCQ7AVQJL7JQDPIE2Q3Q.jpg"
         width: 1200
         height: 630
         isCached: true

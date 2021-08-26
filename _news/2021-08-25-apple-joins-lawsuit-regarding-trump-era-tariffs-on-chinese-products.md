@@ -9,8 +9,8 @@ ampWebUrl: "https://www.mactech.com/2021/08/25/apple-joins-lawsuit-regarding-tru
 cdnAmpWebUrl: "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2021/08/25/apple-joins-lawsuit-regarding-trump-era-tariffs-on-chinese-products/amp/"
 type: article
 quality: 75
-heat: 135
-published: true
+heat: -1
+published: false
 
 provider:
   name: MacTech
@@ -28,20 +28,34 @@ images:
 
 related:
   - title: "House panel probing 1/6 riot seeks host of Trump-era records"
-    excerpt: "WASHINGTON (AP) — The House committee investigating the January insurrection at the U.S. Capitol is demanding a host of records from Donald Trump’s White House and several of his administration’s intelligence and law enforcement agencies, in what is ..."
-    publishedDateTime: 2021-08-25T21:00:00Z
-    webUrl: "https://www.timesleader.com/wire/nation-world/1508763/house-panel-probing-1-6-riot-seeks-host-of-trump-era-records"
-    ampWebUrl: "https://www.timesleader.com/wire/nation-world/1508763/house-panel-probing-1-6-riot-seeks-host-of-trump-era-records/amp"
-    cdnAmpWebUrl: "https://www-timesleader-com.cdn.ampproject.org/c/s/www.timesleader.com/wire/nation-world/1508763/house-panel-probing-1-6-riot-seeks-host-of-trump-era-records/amp"
+    excerpt: "The House committee investigating the January insurrection at the U.S. Capitol is demanding a host of records from Donald Trump's White House and several of his administration's intelligence and law enforcement agencies,"
+    publishedDateTime: 2021-08-26T00:51:00Z
+    webUrl: "https://apnews.com/38c2749944f7c0d74c96fd037408899c"
     type: article
     provider:
-      name: The Times Leader
-      domain: timesleader.com
-    quality: 75
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
     images:
-      - url: "https://cdnmedia.sendtonews.com/players/library/placeholder.png"
-        width: 375
-        height: 211
+      - url: "https://storage.googleapis.com/afs-prod/media/33e8b2b0b95441e3b42c1dc58ddff80f/3000.jpeg"
+        width: 3000
+        height: 2044
+        isCached: true
+  - title: "The House panel probing the Capitol riot seeks a host of Trump-era records"
+    excerpt: "The requested documents are just the beginning of what is expected to be lengthy partisan and rancorous investigation."
+    publishedDateTime: 2021-08-25T18:47:00Z
+    webUrl: "https://www.inquirer.com/politics/nation/capitol-riot-house-panel-trump-documents-probe-20210825.html"
+    ampWebUrl: "https://www.inquirer.com/politics/nation/capitol-riot-house-panel-trump-documents-probe-20210825.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/politics/nation/capitol-riot-house-panel-trump-documents-probe-20210825.html?outputType=amp"
+    type: article
+    provider:
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 73
+    images:
+      - url: "https://www.inquirer.com/resizer/cNGsEx7ZoN44lRl3Qus2p-nkmg4=/0x0:2398x1600/760x507/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/ROPZU2U5UJGVRGSNLKMY5UHQKY.jpg"
+        width: 760
+        height: 507
         isCached: true
   - title: "Riot probe panel seeks records of Trump-era White House"
     excerpt: "The House panel investigating the Jan. 6 riot at the U.S. Capitol is demanding a sweeping list of records and other information from eight executive branch agencies, including"

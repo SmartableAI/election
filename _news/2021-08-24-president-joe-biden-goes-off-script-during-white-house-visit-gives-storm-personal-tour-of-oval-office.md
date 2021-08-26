@@ -83,6 +83,34 @@ related:
         width: 590
         height: 467
         isCached: true
+  - title: "House passes $3.5T Joe Biden blueprint after deal with moderates"
+    excerpt: "Striking a deal with moderates, House Democratic leaders have muscled President Joe Biden’s multitrillion-dollar budget blueprint over a key hurdle, ending a risky standoff and putting the party’s domestic infrastructure agenda back on track."
+    publishedDateTime: 2021-08-25T10:36:00Z
+    webUrl: "https://floridapolitics.com/archives/452859-house-passes-3-5t-joe-biden-blueprint-after-deal-with-moderates/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/08/pelosi-scaled.jpeg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "Joe Biden spoke to the G7 a sum total of 7 minutes. Pure propaganda, photo-op."
+    excerpt: "Joe Biden acted like his G7 meeting was a success, but in reality it left every other world leader feeling disappointed in America."
+    publishedDateTime: 2021-08-25T12:49:00Z
+    webUrl: "https://www.bizpacreview.com/2021/08/25/joe-biden-spoke-to-the-g7-a-sum-total-of-7-minutes-pure-propaganda-photo-op-1124053/"
+    type: article
+    provider:
+      name: BizPac Review
+      domain: bizpacreview.com
+    quality: 51
+    images:
+      - url: "https://www.bizpacreview.com/wp-content/uploads/2021/08/GW-Biden-G7-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "N/FDaGs1+IpuPiOOqH9+FAqO/jLmzt/3XprLMMuYHu+uYJyk8rpFw1sA+jxIB1Ftg5s1bi4qTsZAd6YFBsmI6u1ZjrXwQjs5Lv92RrNbZWFyMWh/G5bEtn2VZ/nTMUaXg4Icj0St2Y4qSPy5I1uhxvIQXg8cev8kYhBtoz/00mF/fx15NsAkG0M3mwr7KTpuHdrnJlUZKYOR7erogchgxFXLT19rgECRvcci2/ivjwQxhHTIZo9iOCMXgnFKwIWxIloNse65ACPa20ckJjAluNu96riQm+2OKHEN2O5K5HGFN7ChQ/WItq2EFDKG/7jlOWULCXxTccHjUr/s7wSIWYq26DFC22rfdNG/ZU528y9GsZdGENtwlZbtwB1V8QhRR7ltaMei60a3SMgmwDnk1b3n9lm9DYbbbVqRrND4MXOTTvm9ckNa0+PoX3UOXRDMSw7rzydBGxJhLyb4qH5RlXjPi5FummG2c+OGNW1hp2B/ULxOWRG8itkdo1f9wiid5r6FGhfaNbFx62HPneUspA==;TScxJY43JEoMpHSmQqgC3w=="
 ---

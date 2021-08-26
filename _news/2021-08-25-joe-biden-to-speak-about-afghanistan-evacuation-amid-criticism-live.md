@@ -175,6 +175,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Joe Biden close to supporting Afghanistan peace talks, says G20 chair"
+    excerpt: "US would sit at table with rivals Russia and China to forge consensus at proposed conference"
+    publishedDateTime: 2021-08-25T17:01:00Z
+    webUrl: "https://www.theguardian.com/uk-news/2021/aug/25/joe-biden-close-to-supporting-afghanistan-peace-talks-says-g20-chair"
+    ampWebUrl: "https://amp.theguardian.com/uk-news/2021/aug/25/joe-biden-close-to-supporting-afghanistan-peace-talks-says-g20-chair"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2021/aug/25/joe-biden-close-to-supporting-afghanistan-peace-talks-says-g20-chair"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/11f10cde9a98b5e24c52b8c61bd748f6559b25cc/0_220_5070_3042/master/5070.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=92a16bc7d891ff59143a3069b3d33073"
+        width: 600
+        height: 360
+        isCached: true
   - title: "President Biden to give Afghanistan update one week after Taliban takeover"
     excerpt: "At the one-week mark since the Taliban took over Afghanistan, the U.S.-directed airlift from Kabul continued Sunday even as U.S. officials expressed growing concern about the threat from the Islamic State group."
     publishedDateTime: 2021-08-22T17:39:00Z
@@ -1130,6 +1146,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 43
+  - title: "Rep. Green on Afghanistan: 'Everybody in America Knows Whose Fault It Is -- It Is Joe Biden's'"
+    excerpt: "House Rep. Mark Green (R-Fla.), a West Point grad who served in both Afghanistan and Iraq, said it was \"upsetting\" to see how rapidly President Joe Biden had \"capitulated to the Taliban,\" and stressed that the withdrawal disaster in Afghanistan was entirely Biden's fault,"
+    publishedDateTime: 2021-08-25T14:49:00Z
+    webUrl: "https://www.cnsnews.com/index.php/blog/michael-w-chapman/rep-green-afghanistan-everybody-america-knows-whose-fault-it-it-joe-bidens"
+    type: article
+    provider:
+      name: CNSNews.com
+      domain: cnsnews.com
+    quality: 43
+    images:
+      - url: "https://cdn.cnsnews.com/styles/article_big/s3/2021-08/afghan%204.jpg"
+        width: 700
+        height: 467
+        isCached: true
   - title: "Texans in Congress have mixed views on President Joe Biden’s handling of the Afghanistan withdrawal. But bipartisan criticism has emerged."
     excerpt: "Texas Republicans have doused the Biden administration in criticism. Democratic Texans in Congress have had varied reactions — but some also fault for the president for a frantic scramble after the Taliban swiftly took control."
     publishedDateTime: 2021-08-19T02:02:00Z
@@ -1252,6 +1282,6 @@ related:
         height: 380
         isCached: true
 
-secured: "F3eoe7N8eE0Cu2CbSj2SAMAuWKSR5TLFahEsEQgMxn3BBP26EdpC6OvunHLOFI40r8IV+NaL+j9Ds4pr1EHv46PL02PMw21+H/PN9j56hKz2fNLTo+kTEuFFQQag9n8PjKd5DEoTYIbt98xTbGJqap1pZqeS2SuozcCCTM/AziCgW/Dm2J5U5Ur2onS6oM3lMvfSPQW5+l3Q05KbCVBqf8xFw0CvIFw/REVR7Hdiqo7HPiAwIWPL/rv2Mx7VqBApOq6OKwiKBBaWpIeJETpUhXWGhjYv+maPufjA/Zi7v/RBaBncTjyuNvBmDl3I2Iv1Xvl1093apAon4Hl/G4nvP9rcXvj/IZvRJtsJPokK/Ww=;vmFI0hBQlwPQTipJs0KwYg=="
+secured: "dAFqv/i1T+ij1wID4r/KdmKNTQfvm+y7/gOgkviLxDwfoFewiZqYaOPWdcglVurw24Ei0IPCj/bypN73jddypfN177lfzl7KUXrhQQiJchGAJvstv8eLsm16cGI2rqhR60IfPKcWnHHwx6rYy/gipN2LkcwbgE4kV59p5jNQUNeYI8g6EJlO37j3RWYXTfKeEwl9EoXMBnLZyUNBBEIhLJArw2S+kZCBRnxD6sS33b6EvYg8c2vRhawMO2PHIV2zSV/74zBPSnuoWrqWaTAmcQmORRBaWcNOqYxgLo68LLJvewzUfz+cpubNGWcCx5cxLQM+lu9kGpn1YCISi/3RrV7PgiIiUqhtL+wSdQgC1PHt8K7q1AI1vp06dHenx+xTG3gQfTrswexeouPJzHjzn102uWRcR8QDyDeBt1Hz9zEeDyDRQOMzVFzu0wJOkTBEXn0fWIuagDn++Svn8079NWv+wyDHz+9p1Wzi8/3ub9aCAdRHCQ05SBcllz+2TuKnAPgiaS5W0ZFDGzKZAmu2Zg==;2wKUlGaGZpb3rYsSLJUC8Q=="
 ---
 

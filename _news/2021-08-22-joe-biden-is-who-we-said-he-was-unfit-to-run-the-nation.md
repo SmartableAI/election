@@ -556,6 +556,34 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Rick Scott wants Vice President, Cabinet to look at removing Joe Biden"
+    excerpt: "Rick Scott continued his assault on President Joe Biden‘s standing in office Wednesday. Scott, who has suggested that Biden is too infirm to be President on multiple o"
+    publishedDateTime: 2021-08-25T14:36:00Z
+    webUrl: "https://floridapolitics.com/archives/452876-scott-biden-removal/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/02/Rick-Scott-2.5.21.jpg"
+        width: 1100
+        height: 818
+        isCached: true
+  - title: "Joe Biden IS the ‘Red Flag’"
+    excerpt: "On the eve of the 20th observance of the 9/11 Islamist attack on our nation, Joe Biden has re-seeded al-Qa'ida’s terrorist turf — the result of his compressed Afghanistan exit schedule. That schedule was motivated by his desire to take a political victory lap ahead of the 20th observance."
+    publishedDateTime: 2021-08-25T19:08:00Z
+    webUrl: "https://patriotpost.us/alexander/82240-joe-biden-is-the-red-flag-2021-08-25"
+    type: article
+    provider:
+      name: The Patriot Post
+      domain: patriotpost.us
+    quality: 55
+    images:
+      - url: "https://img.patriotpost.us/01FDZ918ZXXBYWEP8Z47GEA8R4.jpeg?w=1200&h=600"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Ron DeSantis slams Joe Biden ‘lack of leadership’ at event highlighting COVID-19 treatment"
     excerpt: "Ron DeSantis turned his attention from COVID-19 to the White House. DeSantis aired grievances yet again about a perceived “lack of leadership” from President Joe Biden, showing that even at an event focused on the virus,"
     publishedDateTime: 2021-08-19T18:28:00Z

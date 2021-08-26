@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Judge sanctions Sidney Powell, other Trump campaign lawyers over Michigan lawsuit"
+    excerpt: "Nine lawyers allied with former President Donald Trump face financial penalties and other sanctions after a judge said they had abused the court system with a lawsuit that challenged Michigan's"
+    publishedDateTime: 2021-08-25T23:15:00Z
+    webUrl: "https://trib.com/news/national/judge-sanctions-sidney-powell-other-trump-campaign-lawyers-over-michigan-lawsuit/article_5ff21343-6bea-53db-acac-4a6434b66fb7.html"
+    ampWebUrl: "https://trib.com/news/national/judge-sanctions-sidney-powell-other-trump-campaign-lawyers-over-michigan-lawsuit/article_5ff21343-6bea-53db-acac-4a6434b66fb7.amp.html"
+    cdnAmpWebUrl: "https://trib-com.cdn.ampproject.org/c/s/trib.com/news/national/judge-sanctions-sidney-powell-other-trump-campaign-lawyers-over-michigan-lawsuit/article_5ff21343-6bea-53db-acac-4a6434b66fb7.amp.html"
+    type: article
+    provider:
+      name: Casper Star-Tribune
+      domain: trib.com
+    quality: 70
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/d/76/d76dd383-051c-52b0-9232-a4e2c7d00067/6126cc5110be3.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "CbGQMG0WIBFVGH7wn/powf4pWPIqg7kuwYQG01v8F97oOy3rCthO+MkitNnF2vGcqlRXqbCIQXWmzM2QD6KZmUhW6UgPTrzMW8CSff1hGixDoiNXN4zJtN4716P0guRktFnJ/KgOtkRqW44ulWuvnkInZclMdWkQd0ixum4RBhxN8uxqz0kzBpLhSy4O1nXgG/qhUHqnBSjwjd128kRM7F3jS1VQDhGdpjkwGl8A323Augq3TIfP9/l8gssuwcDcK0PlCuDOHgwUdF2U2tX3DQSmooGhajYp/TNcrEP+pAjE5AnMUig+nQsxBOugskKlGfOjcV3hEJv4g3tGWgNwSa+U38mxS2Y5r6XdCwYhpmbsVtl3WrCd2iDUQiURXTc6oNS1RWhqe64iXiGxQs29qR6ncjdI0UeMPdNFJYCjFIYvXCg1M3M+xgaiL7u0ePx2rhtK2kKUjjsFy82BXbwX/bV2glU91LiEmm7HmVpYNUqo1rIxpK9pYEjGNmqbbtuQ60xIOWzlJ6prlKiyUg/xnw==;4Aacx0wYx9MrqedW9p4P7g=="
 ---

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-08-25-apple-joins-lawsuit-regarding-trump-era-tariffs-on-chinese-products.md",
-      "title": "Apple joins lawsuit regarding Trump-era tariffs on Chinese products",
-      "excerpt": "Apple, Intel and Pfizer have joined 3,700 other U.S. businesses in their suit against the U.S. regarding Trump-era tariffs on $300 billion worth of Chinese products, reports Jurist. This lawsuit was first brought by HMTX Industries in September 2020 and initially targeted List 3 tariffs.",
+      "path": "_news/2021-08-26-house-panel-probing-16-riot-seeks-host-of-trump-era-records.md",
+      "title": "House panel probing 1/6 riot seeks host of Trump-era records",
+      "excerpt": "The House committee investigating the January insurrection at the U.S. Capitol is demanding a host of records from Donald Trump's White House and several of his administration's intelligence and law enforcement agencies,",
       "sourceUrl": null,
-      "webUrl": "https://www.mactech.com/2021/08/25/apple-joins-lawsuit-regarding-trump-era-tariffs-on-chinese-products/",
-      "originalUrl": "https://www.mactech.com/2021/08/25/apple-joins-lawsuit-regarding-trump-era-tariffs-on-chinese-products/",
+      "webUrl": "https://apnews.com/38c2749944f7c0d74c96fd037408899c",
+      "originalUrl": "https://apnews.com/38c2749944f7c0d74c96fd037408899c",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 185,
       "tags": null,
       "images": [
         {
-          "url": "https://www.mactech.com/wp-content/uploads/2021/08/Lawsuit-image-1024x666.jpg",
-          "width": 1024,
-          "height": 666,
+          "url": "https://storage.googleapis.com/afs-prod/media/33e8b2b0b95441e3b42c1dc58ddff80f/3000.jpeg",
+          "width": 3000,
+          "height": 2044,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,99 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.mactech.com/2021/08/25/apple-joins-lawsuit-regarding-trump-era-tariffs-on-chinese-products/amp/",
-      "cdnAmpWebUrl": "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2021/08/25/apple-joins-lawsuit-regarding-trump-era-tariffs-on-chinese-products/amp/",
-      "publishedDateTime": "2021-08-25T06:19:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-25T17:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MacTech",
-        "domain": "mactech.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-26-trump-slams-biden-over-catastrophic-border-disaster.md",
+      "title": "Trump slams Biden over ‘catastrophic border disaster’",
+      "excerpt": "President Biden is being ripped by his predecessor for creating a “catastrophic border disaster” as the Supreme Court says his administration may have violated federal law by dropping",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonherald.com/2021/08/25/trump-slams-biden-over-catastrophic-border-disaster/",
+      "originalUrl": "https://www.bostonherald.com/2021/08/25/trump-slams-biden-over-catastrophic-border-disaster/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bostonherald.com/wp-content/uploads/2021/08/AP21232169221338.jpg?w=1024&#038;h=683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bostonherald.com/2021/08/25/trump-slams-biden-over-catastrophic-border-disaster/amp/",
+      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/08/25/trump-slams-biden-over-catastrophic-border-disaster/amp/",
+      "publishedDateTime": "2021-08-25T17:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Boston Herald",
+        "domain": "bostonherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-26-lawyers-allied-with-trump-penalized-over-michigan-lawsuit-charlotte-observer.md",
+      "title": "Lawyers allied with Trump penalized over Michigan lawsuit | Charlotte Observer",
+      "excerpt": "Nine lawyers allied with former President Donald Trump face financial penalties and other sanctions in Michigan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.charlotteobserver.com/news/nation-world/national/article253747698.html",
+      "originalUrl": "https://www.charlotteobserver.com/news/nation-world/national/article253747698.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/c4cef625-20b7-4900-8d0e-b7aea9ac60c8/04971208-0b7e-48a6-9be9-aacd9ccfcccd/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.charlotteobserver.com/news/nation-world/national/article253747698.html",
+      "cdnAmpWebUrl": "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article253747698.html",
+      "publishedDateTime": "2021-08-25T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Charlotte Observer",
+        "domain": "charlotteobserver.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -154,49 +240,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-25-supreme-court-rules-in-favor-of-trumps-remain-in-mexico-policy.md",
-      "title": "Supreme Court rules in favor of Trump’s ‘remain in Mexico’ policy",
-      "excerpt": "The court, with three liberal justices dissenting, rejected the Biden administration’s effort to block a Texas-based judge’s ruling requiring the government to revive Trump’s",
-      "sourceUrl": null,
-      "webUrl": "https://www.ocregister.com/2021/08/24/supreme-court-rules-in-favor-of-remain-in-mexico-policy/",
-      "originalUrl": "https://www.ocregister.com/2021/08/24/supreme-court-rules-in-favor-of-remain-in-mexico-policy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ocregister.com/wp-content/uploads/2021/08/sjm-ourt_15699.jpg-8a244-1_1040745497_73062567.jpg?w=1024&#038;h=683",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ocregister.com/2021/08/24/supreme-court-rules-in-favor-of-remain-in-mexico-policy/amp/",
-      "cdnAmpWebUrl": "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/08/24/supreme-court-rules-in-favor-of-remain-in-mexico-policy/amp/",
-      "publishedDateTime": "2021-08-25T00:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Orange County Register",
-        "domain": "ocregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-08-25-trump-claims-bidens-afghanistan-evacuation-could-be-bringing-terrorists-to-america.md",
       "title": "Trump claims Biden's Afghanistan evacuation could be bringing 'terrorists' to America",
       "excerpt": "In an August 25 statement, Trump asked people to imagine \"how many terrorists\" were \"airlifted out of Afghanistan\" and into neighborhoods worldwide.",
@@ -205,7 +248,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-claims-biden-bringing-afghan-terrorists-to-the-us-2021-8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1813,
+      "heat": 1853,
       "tags": null,
       "images": [
         {
@@ -786,7 +829,7 @@
       "originalUrl": "https://www.mirror.co.uk/news/us-news/donald-trump-gets-booed-rally-24815259",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -1072,64 +1115,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-22-former-pence-aide-says-trump-and-miller-stymied-afghan-refugee-efforts.md",
-      "title": "Former Pence aide says Trump and Miller stymied Afghan refugee efforts.",
-      "excerpt": "Olivia Troye recalled sitting in meetings where Stephen Miller, Mr. Trump’s top immigration adviser, demanded restrictions on refugees, including those from Afghanistan and Iraq.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/08/21/world/asia/pence-troye-trump-miller-afghan-refugees.html",
-      "originalUrl": "https://www.nytimes.com/2021/08/21/world/asia/pence-troye-trump-miller-afghan-refugees.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/08/21/world/21afghanistan-briefing-troye-trump/21afghanistan-briefing-troye-trump-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/08/21/world/asia/pence-troye-trump-miller-afghan-refugees.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/21/world/asia/pence-troye-trump-miller-afghan-refugees.amp.html",
-      "publishedDateTime": "2021-08-21T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-08-21-donald-trump-speaking-in-alabama-for-the-first-time-in-4-years.md",
       "title": "Donald Trump speaking in Alabama for the first time in 4 years",
       "excerpt": "Trump will speak tonight in Cullman, his first political event in Alabama since 2017. (AP Photo/Ross D. Franklin, File) AP Six years to the day after a rally in Mobile gave an early glimpse of Donald Trump’s ability to generate the excitement that would propel him to the White House,",
@@ -1138,7 +1123,7 @@
       "originalUrl": "https://www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for-the-first-time-in-4-years.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 335,
+      "heat": 315,
       "tags": null,
       "images": [
         {
@@ -1224,7 +1209,7 @@
       "originalUrl": "https://www.newsweek.com/alan-dershowitz-says-donald-trump-ties-have-lost-him-many-friends-larry-david-1621399",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 325,
       "tags": null,
       "images": [
         {

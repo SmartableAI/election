@@ -73,6 +73,34 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "House passes $3.5T Joe Biden blueprint after deal with moderates"
+    excerpt: "Striking a deal with moderates, House Democratic leaders have muscled President Joe Biden’s multitrillion-dollar budget blueprint over a key hurdle, ending a risky standoff and putting the party’s domestic infrastructure agenda back on track."
+    publishedDateTime: 2021-08-25T10:36:00Z
+    webUrl: "https://floridapolitics.com/archives/452859-house-passes-3-5t-joe-biden-blueprint-after-deal-with-moderates/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/08/pelosi-scaled.jpeg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "Joe Biden spoke to the G7 a sum total of 7 minutes. Pure propaganda, photo-op."
+    excerpt: "Joe Biden acted like his G7 meeting was a success, but in reality it left every other world leader feeling disappointed in America."
+    publishedDateTime: 2021-08-25T12:49:00Z
+    webUrl: "https://www.bizpacreview.com/2021/08/25/joe-biden-spoke-to-the-g7-a-sum-total-of-7-minutes-pure-propaganda-photo-op-1124053/"
+    type: article
+    provider:
+      name: BizPac Review
+      domain: bizpacreview.com
+    quality: 51
+    images:
+      - url: "https://www.bizpacreview.com/wp-content/uploads/2021/08/GW-Biden-G7-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "President Joe Biden goes off script during White House visit, gives Storm personal tour of Oval Office"
     excerpt: "After a 20-minute ceremony in the East Room to celebrate the team’s 2020 WNBA championship, President Joe Biden asked the Storm if they would like a private tour, led by him, of the Oval Office. Of course,"
     publishedDateTime: 2021-08-24T00:28:00Z
@@ -85,6 +113,6 @@ related:
       domain: seattletimes.com
     quality: 39
 
-secured: "SHxVk6DoonWCGwBkdss0lHXmO6DJqZfzzdxTlktiLeOvNnRtQ5ojSWDbTVWNziKlDGutWxbjqH1/N7ZOkP2Gcb0OYv0c9/kHOSnp6uG+vRXg9Wogs9jfdUM7/I94T6/jCJBMQV/YS14M9wyc8EAizw9lCFrdJ4+brTQJcWh9LZK8XajB9cv5PD2AH8GrxW1B3at6UN1bQthAz0rlkVl1nBIubobcCqhvTFC+QzSCtQNvj/GE3hunXF4aWicyF8IRAFhHZGXzjEv3u1gsbMX3YNm/LyHGS0ZNF+sikt5SbXw+CK2yBd1mUMmE5uHJCZLt/kdI6XeijzZkaS3JhNn+zRlJT4yTnfX/qn5VMcd4eGM=;jLYIPPDkPWDpBqEXDlNaZw=="
+secured: "2+u3TS6rTQcTjzY7dsQQ7Liyssfr9hkb1xEFphAytUSvtkvR7sOlfmKh6YXRoGyAZEUgp+JyXTADgXz3uv3fhqs7M9pmSHI9DJAoDgHpSm12iPfD5Dlmn38ODdlrMoQrdUf3yXFtpf8Pi6CsP33fYxG3CY4T5GT2OTYWeD+PsBOtKoTkR0AozVSRMrekRdWAutFNCgybx/0kJkmKb8zcD3O59ZB8cVMo48EdotBMv6DaTsoevKuYLkSymF3g2oJvlxg3F3Ks0Ub91PO8qLr6EvB49XYEIcw4htgHnlwkXz1Ie3ydSXmCO3Tx+HEKR7A5FPBa9m7zPePr3tKypDs7ntkulNPZJ4aMlM8JzD+CluQ7q7ZTeJZXYf3zi5qkZPDnq6hfbN3Wc7NcLv7TnJxCXZoE8KvYYW2w6IaLHB6+CfzpHzmjl3oEz/4enlj0xLm3AWGbN0NhQqyeJB+G77K7fkH97z7Kgs3jMHQq8w1edPwZPuSrltvBg0XVBEIkVZsX/pp0v87chr2G8c6S42zRGw==;H5LYSKUCTEW+Gj/8/uoqNg=="
 ---
 

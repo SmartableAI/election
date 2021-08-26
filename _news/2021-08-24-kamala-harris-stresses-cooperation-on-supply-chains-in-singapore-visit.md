@@ -80,6 +80,38 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Harris, Newsom require rally goers get vaccine or negative test despite staying in cars"
+    excerpt: "Gov. Gavin Newsom and Vice President Kamala Harris will require rally goers to prove vaccination or a negative COVID test even though rally goers will remain in their cars for the event."
+    publishedDateTime: 2021-08-25T23:05:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XS6T1gKkw7g/harris-newsom-car-rally-guests-require-vaccine-or-negative-test-despite-staying-in-cars"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-newsom-car-rally-guests-require-vaccine-or-negative-test-despite-staying-in-cars.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-newsom-car-rally-guests-require-vaccine-or-negative-test-despite-staying-in-cars.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 177
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f18efe6-404a-4e2c-b361-15a6d9a9bc12/671f0271-fb6b-47cd-b5e6-d2efaf051978/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "China undermined Harris' Vietnam vaccine outreach by capitalizing on flight delay: report"
+    excerpt: "The Chinese government seized on a scheduling delay during Vice President Kamala Harris’ ongoing trip to Vietnam to undercut the White House’s planned outreach regarding COVID-19 vaccine supply, according to a report Wednesday."
+    publishedDateTime: 2021-08-26T00:41:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8EJQ-K6pcGM/china-harris-vietnam-vaccine-outreach-flight-delay"
+    ampWebUrl: "https://www.foxnews.com/politics/china-harris-vietnam-vaccine-outreach-flight-delay.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/china-harris-vietnam-vaccine-outreach-flight-delay.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7e68f1c-4555-4d06-a427-b2fb474a3c0d/c8e32616-6bf4-47e1-a3e3-46e122f8db52/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Kamala Harris lands in Singapore for Asia visit that will include Vietnam stop"
     excerpt: "Vice President Kamala Harris landed in Singapore on Sunday as she begins a visit to Southeast Asia that will also include a stop in Vietnam."
     publishedDateTime: 2021-08-22T04:15:00Z

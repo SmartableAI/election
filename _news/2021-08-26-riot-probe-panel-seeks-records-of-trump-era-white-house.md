@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "House panel probing 1/6 riot seeks host of Trump-era records"
+    excerpt: "The House committee investigating the January insurrection at the U.S. Capitol is demanding a host of records from Donald Trump's White House and several of his administration's intelligence and law enforcement agencies,"
+    publishedDateTime: 2021-08-26T00:51:00Z
+    webUrl: "https://apnews.com/38c2749944f7c0d74c96fd037408899c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/33e8b2b0b95441e3b42c1dc58ddff80f/3000.jpeg"
+        width: 3000
+        height: 2044
+        isCached: true
   - title: "Apple joins lawsuit regarding Trump-era tariffs on Chinese products"
     excerpt: "Apple, Intel and Pfizer have joined 3,700 other U.S. businesses in their suit against the U.S. regarding Trump-era tariffs on $300 billion worth of Chinese products, reports Jurist. This lawsuit was first brought by HMTX Industries in September 2020 and initially targeted List 3 tariffs."
     publishedDateTime: 2021-08-25T13:19:00Z
@@ -41,21 +55,21 @@ related:
         width: 1024
         height: 666
         isCached: true
-  - title: "House panel probing 1/6 riot seeks host of Trump-era records"
-    excerpt: "WASHINGTON (AP) — The House committee investigating the January insurrection at the U.S. Capitol is demanding a host of records from Donald Trump’s White House and several of his administration’s intelligence and law enforcement agencies, in what is ..."
-    publishedDateTime: 2021-08-25T21:00:00Z
-    webUrl: "https://www.timesleader.com/wire/nation-world/1508763/house-panel-probing-1-6-riot-seeks-host-of-trump-era-records"
-    ampWebUrl: "https://www.timesleader.com/wire/nation-world/1508763/house-panel-probing-1-6-riot-seeks-host-of-trump-era-records/amp"
-    cdnAmpWebUrl: "https://www-timesleader-com.cdn.ampproject.org/c/s/www.timesleader.com/wire/nation-world/1508763/house-panel-probing-1-6-riot-seeks-host-of-trump-era-records/amp"
+  - title: "The House panel probing the Capitol riot seeks a host of Trump-era records"
+    excerpt: "The requested documents are just the beginning of what is expected to be lengthy partisan and rancorous investigation."
+    publishedDateTime: 2021-08-25T18:47:00Z
+    webUrl: "https://www.inquirer.com/politics/nation/capitol-riot-house-panel-trump-documents-probe-20210825.html"
+    ampWebUrl: "https://www.inquirer.com/politics/nation/capitol-riot-house-panel-trump-documents-probe-20210825.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/politics/nation/capitol-riot-house-panel-trump-documents-probe-20210825.html?outputType=amp"
     type: article
     provider:
-      name: The Times Leader
-      domain: timesleader.com
-    quality: 75
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 73
     images:
-      - url: "https://cdnmedia.sendtonews.com/players/library/placeholder.png"
-        width: 375
-        height: 211
+      - url: "https://www.inquirer.com/resizer/cNGsEx7ZoN44lRl3Qus2p-nkmg4=/0x0:2398x1600/760x507/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/ROPZU2U5UJGVRGSNLKMY5UHQKY.jpg"
+        width: 760
+        height: 507
         isCached: true
   - title: "What was the Contingency and Crisis Response bureau? Examining the Trump-era proposal"
     excerpt: "The State Department said the Contingency and Crisis Response Bureau proposed under former President Donald Trump never became fully operational, and that the State Department still retains all the same capabilities the bureau would have introduced."

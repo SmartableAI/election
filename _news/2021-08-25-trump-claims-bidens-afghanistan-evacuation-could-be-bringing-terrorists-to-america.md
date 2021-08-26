@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-claims-biden-bringing-afghan-t
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-biden-bringing-afghan-terrorists-to-the-us-2021-8?amp"
 type: article
 quality: 133
-heat: 1813
+heat: 1853
 published: true
 
 provider:
@@ -172,6 +172,22 @@ related:
     quality: 125
     images:
       - url: "https://i.guim.co.uk/img/media/6f87cfebea90dee8b9414a911dfec2be734bc054/0_338_5070_3042/master/5070.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=90924b8c66fbbea91d45e5d57cc19deb"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Joe Biden close to supporting Afghanistan peace talks, says G20 chair"
+    excerpt: "US would sit at table with rivals Russia and China to forge consensus at proposed conference"
+    publishedDateTime: 2021-08-25T17:01:00Z
+    webUrl: "https://www.theguardian.com/uk-news/2021/aug/25/joe-biden-close-to-supporting-afghanistan-peace-talks-says-g20-chair"
+    ampWebUrl: "https://amp.theguardian.com/uk-news/2021/aug/25/joe-biden-close-to-supporting-afghanistan-peace-talks-says-g20-chair"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2021/aug/25/joe-biden-close-to-supporting-afghanistan-peace-talks-says-g20-chair"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/11f10cde9a98b5e24c52b8c61bd748f6559b25cc/0_220_5070_3042/master/5070.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=92a16bc7d891ff59143a3069b3d33073"
         width: 600
         height: 360
         isCached: true
@@ -1130,6 +1146,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 43
+  - title: "Rep. Green on Afghanistan: 'Everybody in America Knows Whose Fault It Is -- It Is Joe Biden's'"
+    excerpt: "House Rep. Mark Green (R-Fla.), a West Point grad who served in both Afghanistan and Iraq, said it was \"upsetting\" to see how rapidly President Joe Biden had \"capitulated to the Taliban,\" and stressed that the withdrawal disaster in Afghanistan was entirely Biden's fault,"
+    publishedDateTime: 2021-08-25T14:49:00Z
+    webUrl: "https://www.cnsnews.com/index.php/blog/michael-w-chapman/rep-green-afghanistan-everybody-america-knows-whose-fault-it-it-joe-bidens"
+    type: article
+    provider:
+      name: CNSNews.com
+      domain: cnsnews.com
+    quality: 43
+    images:
+      - url: "https://cdn.cnsnews.com/styles/article_big/s3/2021-08/afghan%204.jpg"
+        width: 700
+        height: 467
+        isCached: true
   - title: "Texans in Congress have mixed views on President Joe Biden’s handling of the Afghanistan withdrawal. But bipartisan criticism has emerged."
     excerpt: "Texas Republicans have doused the Biden administration in criticism. Democratic Texans in Congress have had varied reactions — but some also fault for the president for a frantic scramble after the Taliban swiftly took control."
     publishedDateTime: 2021-08-19T02:02:00Z

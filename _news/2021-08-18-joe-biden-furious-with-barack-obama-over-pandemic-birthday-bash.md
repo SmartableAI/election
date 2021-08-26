@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gossipcop.com/joe-biden-furious-with-barack-obama-over-p
 cdnAmpWebUrl: "https://www-gossipcop-com.cdn.ampproject.org/c/s/www.gossipcop.com/joe-biden-furious-with-barack-obama-over-pandemic-birthday-bash/2570136/?amp"
 type: article
 quality: 75
-heat: 95
+heat: 115
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Barack Obama Mocking Joe Biden After ‘Flaunting’ Pandemic Rules For Party?"
+    excerpt: "Is Barack Obama sending a message that he and President Joe Biden are no longer friends? One tabloid cover story insists Biden has declared the former"
+    publishedDateTime: 2021-08-25T13:00:00Z
+    webUrl: "https://www.gossipcop.com/barack-obama-mocking-joe-biden-after-flaunting-pandemic-rules-for-party/2571259/"
+    ampWebUrl: "https://www.gossipcop.com/barack-obama-mocking-joe-biden-after-flaunting-pandemic-rules-for-party/2571259/?amp"
+    cdnAmpWebUrl: "https://www-gossipcop-com.cdn.ampproject.org/c/s/www.gossipcop.com/barack-obama-mocking-joe-biden-after-flaunting-pandemic-rules-for-party/2571259/?amp"
+    type: article
+    provider:
+      name: Gossip Cop
+      domain: gossipcop.com
+    quality: 73
+    images:
+      - url: "https://upload.gossipcop.com/gc/uploads/2021/08/GettyImages-632229442.jpg"
+        width: 1200
+        height: 704
+        isCached: true
   - title: "This day in history, August 23: Democratic presidential candidate Barack Obama introduces his choice of running mate, Sen. Joe Biden of Delaware"
     excerpt: "Almanacs are full of lists of global and national historic events. But “This Day in History” feature invites you to not just peruse a list, but to take a trip back in time to see how a significant event originally was reported in the Chicago Tribune."
     publishedDateTime: 2021-08-23T11:49:00Z
