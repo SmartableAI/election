@@ -74,15 +74,15 @@ related:
         height: 720
         isCached: true
   - title: "House panel probing 1/6 riot seeks host of Trump-era records"
-    excerpt: "The House committee investigating the January insurrection at the U.S. Capitol is demanding a trove of records from federal intelligence and law enforcement agencies."
-    publishedDateTime: 2021-08-26T02:23:00Z
-    webUrl: "https://www.heraldonline.com/news/politics-government/national-politics/article253749498.html"
-    ampWebUrl: "https://amp.heraldonline.com/news/politics-government/national-politics/article253749498.html"
-    cdnAmpWebUrl: "https://amp-heraldonline-com.cdn.ampproject.org/c/s/amp.heraldonline.com/news/politics-government/national-politics/article253749498.html"
+    excerpt: "The House committee investigating the January insurrection at the U.S. Capitol is demanding a trove of records from federal intelligence and law enforcement agencies"
+    publishedDateTime: 2021-08-26T10:09:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/house-panel-probing-1-6-riot-seeks-host-of-trump-era-records-2/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/house-panel-probing-1-6-riot-seeks-host-of-trump-era-records-2/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/house-panel-probing-1-6-riot-seeks-host-of-trump-era-records-2/?amp=1"
     type: article
     provider:
-      name: The Herald SC
-      domain: heraldonline.com
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 55
   - title: "Riot probe panel seeks records of Trump-era White House"
     excerpt: "The House panel investigating the Jan. 6 riot at the U.S. Capitol is demanding a sweeping list of records and other information from eight executive branch agencies, including"

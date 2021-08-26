@@ -144,6 +144,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Kamala Harris Tries to Improve Southeast Asia Ties as China Prods From Sidelines"
+    excerpt: "The Biden administration will continue to call out China for its aggressive maritime claims but doesnâ€™t want a conflict, the vice president said, seeking to strike a balance with regional countries caught between the rival powers."
+    publishedDateTime: 2021-08-26T10:14:00Z
+    webUrl: "https://www.wsj.com/articles/kamala-harris-tries-to-improve-southeast-asia-ties-as-china-prods-from-sidelines-11629972869"
+    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harris-tries-to-improve-southeast-asia-ties-as-china-prods-from-sidelines-11629972869"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-tries-to-improve-southeast-asia-ties-as-china-prods-from-sidelines-11629972869"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 130
+    images:
+      - url: "https://images.wsj.net/im-391146/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Leo Terrell alarmed by Kamala Harris telling Americans to start buying Christmas presents"
     excerpt: "Fox News contributor Leo Terrell expressed concern on “Fox & Friends” Tuesday that Democrats are aiming to shut down the U.S. economy again after Vice President Kamala Harris advised shoppers to consider buying Christmas presents now due to global supply chain issues."
     publishedDateTime: 2021-08-24T14:47:00Z

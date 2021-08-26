@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/23/politics/kamala-harris-singapore-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/23/politics/kamala-harris-singapore-afghanistan/index.html"
 type: article
 quality: 185
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     quality: 176
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210614180815-kamala-harris-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Terror threats hamper Afghanistan evacuation as Biden's deadline looms"
+    excerpt: "A grave and specific ISIS terror threat is hanging over the frantic endgame of the US withdrawal from Afghanistan with time fast running out to rescue up to 1,500 Americans and the fate of fleeing Afghans looking darker by the hour.\n    \n"
+    publishedDateTime: 2021-08-26T11:21:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/s7Dqh2PyhBU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/26/politics/president-joe-biden-afghan-refugees-donald-trump-immigration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/26/politics/president-joe-biden-afghan-refugees-donald-trump-immigration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210825060832-biden-washington-afghanistan-0824-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

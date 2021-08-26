@@ -1,20 +1,20 @@
 ---
 category: news
 title: "House panel probing 1/6 riot seeks host of Trump-era records"
-excerpt: "The House committee investigating the January insurrection at the U.S. Capitol is demanding a trove of records from federal intelligence and law enforcement agencies."
-publishedDateTime: 2021-08-26T02:23:00Z
-originalUrl: "https://www.heraldonline.com/news/politics-government/national-politics/article253749498.html"
-webUrl: "https://www.heraldonline.com/news/politics-government/national-politics/article253749498.html"
-ampWebUrl: "https://amp.heraldonline.com/news/politics-government/national-politics/article253749498.html"
-cdnAmpWebUrl: "https://amp-heraldonline-com.cdn.ampproject.org/c/s/amp.heraldonline.com/news/politics-government/national-politics/article253749498.html"
+excerpt: "The House committee investigating the January insurrection at the U.S. Capitol is demanding a trove of records from federal intelligence and law enforcement agencies"
+publishedDateTime: 2021-08-26T10:09:00Z
+originalUrl: "https://www.seattletimes.com/nation-world/house-panel-probing-1-6-riot-seeks-host-of-trump-era-records-2/"
+webUrl: "https://www.seattletimes.com/nation-world/house-panel-probing-1-6-riot-seeks-host-of-trump-era-records-2/"
+ampWebUrl: "https://www.seattletimes.com/nation-world/house-panel-probing-1-6-riot-seeks-host-of-trump-era-records-2/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/house-panel-probing-1-6-riot-seeks-host-of-trump-era-records-2/?amp=1"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: The Herald SC
-  domain: heraldonline.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - Election
@@ -98,6 +98,6 @@ related:
         height: 584
         isCached: true
 
-secured: "d0byoPctajkTXnYtjKG9FEafZnib+qVxNEw0TlUXOk9JJeToAiTakN5VYP4TU/DwLmITBFelfP+KPJn0JOSdCA6EdEKc7AaPgla4fx6hPqEPlq4AvZHDLcmx/vkkOGaUNDr0BAYVkcQ83cV2lfipUA2cVSxm/gcL29u3zuDmb36M4vEAXccggiD9SsfuIuqEdNBqaOHNsVcfY1AE6aD8zv+ifugN8FwLyGEEJ0ubBOSMmBVdXakTpKQPCIdV/85wB0ijBRCQhGpvUMlrB7+qpOu7AU0JCf7Ff8nFtNQKBZdRRxc46WywmdlGsl6trar+kEGY2uhQjGj/xAh/4zHrJWQ9TTsk1G2OV5xZrJWs9ek0IwILXo/5BJlRXQ+Q53440kygI3Se3zCJZtiYWBy8yqcok+T/C0nsnQS07scQNfkFArDgbQuSqjL1vPZ8FifrqgWrTADzXZ6Ms85nTkZi6ZQWAaRXGYLEb2m/hr8KItvA3xz2uMaaSlkgvkDklimKIOTVXZTvGrktMbs2w8vtfA==;/qbhX2BLhQHfRSHFrunanA=="
+secured: "H6cLciTvhEWcSb+ul+U+3wx06oiNpV64bIIy9DqXqRAStinex0jmmjnwkkod6dNCIzmjxiUECZxR5SfNi7EhTH26AHQx82YSlPKc068OYmQcsynXR7uYzmZAyYKXxQKS17L01NVNESx7+HvMi3ABFusNZT+q5p7DSuLWefo+5BXkrlZXbdfQWGVypU3zn41e8KRGVt43k3jMpWRJydwQQ59bTATZDOWHMrVtX+gyiAVrGmxuzLx5X2SueGxD6jIcSzMlk0jvQAs8bvEcx1b8U6YfNUhiRbpVAAPP28OC0OK5xRUf/F6UxkDM6sh9Bf7aBzfkCXIImf809QSu1uhVWUXQFlvEJxl0Qd9eXOSQaXSOSr5thePiyIbnevLJkmRBltKU6SaZHsqdUfIZOAi2iD6E8faD6S3cz/I42/JFG7wl0LHdPOt2if/c+1Y+wwJQd7yoqHxtdPn7LZfoPTYySB1exlIPRyT8AVOuDJi+KFjW6zidhcQjfkqS5ogB7UtgdDkjlgF0CBZL2iqSdug0xQ==;VEgBboznLNuLojZ4P7vMVg=="
 ---
 

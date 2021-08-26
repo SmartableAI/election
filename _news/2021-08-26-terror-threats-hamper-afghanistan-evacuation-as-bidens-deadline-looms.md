@@ -1,34 +1,33 @@
 ---
 category: news
-title: "Biden says U.S. may extend Afghanistan withdrawal deadline as evacuations continue"
-excerpt: "President Joe Biden said Sunday that the U.S. was considering extending evacuation efforts beyond his Aug. 31 deadline to leave Afghanistan as he defended the administration's handling of the war's final days."
-publishedDateTime: 2021-08-22T23:19:00Z
-originalUrl: "https://www.nbcnews.com/politics/joe-biden/biden-says-u-s-may-extend-afghanistan-withdrawal-deadline-evacuations-n1277414"
-webUrl: "https://www.nbcnews.com/politics/joe-biden/biden-says-u-s-may-extend-afghanistan-withdrawal-deadline-evacuations-n1277414"
-ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1277414"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1277414"
+title: "Terror threats hamper Afghanistan evacuation as Biden's deadline looms"
+excerpt: "A grave and specific ISIS terror threat is hanging over the frantic endgame of the US withdrawal from Afghanistan with time fast running out to rescue up to 1,500 Americans and the fate of fleeing Afghans looking darker by the hour.\n    \n"
+publishedDateTime: 2021-08-26T11:21:04Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/s7Dqh2PyhBU/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/s7Dqh2PyhBU/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/08/26/politics/president-joe-biden-afghan-refugees-donald-trump-immigration/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/26/politics/president-joe-biden-afghan-refugees-donald-trump-immigration/index.html"
 type: article
-quality: 129
+quality: 175
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_33/3500850/210822-joe-biden-jm-1701.jpg"
-    width: 2500
-    height: 1667
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210825060832-biden-washington-afghanistan-0824-file-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -64,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Terror threats hamper Afghanistan evacuation as Biden's deadline looms"
-    excerpt: "A grave and specific ISIS terror threat is hanging over the frantic endgame of the US withdrawal from Afghanistan with time fast running out to rescue up to 1,500 Americans and the fate of fleeing Afghans looking darker by the hour.\n    \n"
-    publishedDateTime: 2021-08-26T11:21:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/s7Dqh2PyhBU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/26/politics/president-joe-biden-afghan-refugees-donald-trump-immigration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/26/politics/president-joe-biden-afghan-refugees-donald-trump-immigration/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210825060832-biden-washington-afghanistan-0824-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "In Southeast Asia, Kamala Harris’s Message: You Can Count on the U.S."
     excerpt: "The vice president rebuked China and sought to fortify the image of the United States as a credible ally amid growing questions about Afghanistan."
     publishedDateTime: 2021-08-24T08:52:00Z
@@ -95,6 +78,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/08/24/world/24harris-asia-01/24harris-asia-01-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Biden says U.S. may extend Afghanistan withdrawal deadline as evacuations continue"
+    excerpt: "President Joe Biden said Sunday that the U.S. was considering extending evacuation efforts beyond his Aug. 31 deadline to leave Afghanistan as he defended the administration's handling of the war's final days."
+    publishedDateTime: 2021-08-22T23:19:00Z
+    webUrl: "https://www.nbcnews.com/politics/joe-biden/biden-says-u-s-may-extend-afghanistan-withdrawal-deadline-evacuations-n1277414"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1277414"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1277414"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_33/3500850/210822-joe-biden-jm-1701.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Kamala Harris stresses Southeast Asia ties on an overseas trip, but the focus returns to Afghanistan."
     excerpt: "Facing rising pressure over the United States’ haphazard withdrawal from Afghanistan, Vice President Kamala Harris said on Monday that the Biden administration was “singularly focused” on evacuating American citizens and Afghan allies."
@@ -113,6 +112,6 @@ related:
         height: 550
         isCached: true
 
-secured: "Au+BQ8uQwGfAwYKnev42eOMhMYxM1rh1MSAp+XqGgTz2Z/HfVG96NqftyJoCJpUVV92iH0qqX2faUrZQfqTGxBirLZr7x2ZhFv3Znh5QAR5DQ7rBAbah4RWix01E5B+dSALklICPhSrG7Hn6zkLeIf/ZgeK0uxvuHwl69djZy6Q8w6ZBocDGX9R2+pWZY1jmzC/UKzY0fxT04HecLJ4SzrP3VKui/CeAq5o28uiY9YwuMeIAAHeVFw1eU83/jshHIgvSMArmAWQPMvU85AuW2cJW1qYAm/uIsVYp7rHVZ5tqlZAXZstcL6NFfJ9fB2fyDVUa/3EX5xhtM8ZBxAi4BDjt610bc8vZWeVo/znK9Ng=;rxOkOBkMlMYKeXPp6kyvEQ=="
+secured: "Uh8oGZX+8mcIidl88BTsshgZukmnvDNA2VHpX4r+EAjwNuKm5iuMxHZO/T0EBKD+s1W6ehkKTX/ICHrD8juAfdA7ZrnLlBBnvfeKBRlroXVprdBkHzA0zyIZecfzYzsOuHd/WGeJGP3p/NZZFtNgDBBnGN3ufPfQb/RscbpLuPjICGg3ujhB097+Zwng0XRfG7KNJDIo1UW+XSsiTBuFx/ebppOCP/JOjSTDhNXUBBlHrMZP0nNMrmt2TsTZcRf2wmongEj93Do1zcx3N8SuChDZn3EJU180zyFoYImuoWpWvzHrYLH0aG2DyGOuCgWBnbe7CERJ0Asf8OXfIZciUzOOiiMCZerfgfDDN5Ucd0M=;I/URtRkxcnBJ3aiBK9JQzg=="
 ---
 

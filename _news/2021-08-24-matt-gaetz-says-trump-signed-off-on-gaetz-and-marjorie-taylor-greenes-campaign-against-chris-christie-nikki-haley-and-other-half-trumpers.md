@@ -47,6 +47,20 @@ related:
         width: 3000
         height: 1985
         isCached: true
+  - title: "Maggie Haberman and the never-ending Trump story"
+    excerpt: "How one New York Times reporter found herself turned into a major character in Donald Trump’s political drama."
+    publishedDateTime: 2021-08-26T09:04:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/media/maggie-haberman-trump/2021/08/25/87374bbe-efbe-11eb-81d2-ffae0f931b8f_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M46WBDAE5II6ZDB7GUTPQGZDHM.jpg&w=1440"
+        width: 1440
+        height: 945
+        isCached: true
   - title: "What happened when Ruby Wax met Donald Trump?"
     excerpt: "COMEDIAN Ruby Wax is taking a look back at some of her most iconic interviews from the 90s. On When Ruby Wax Met… the 63-year-old is revisiting a particularly disastrous interview she had"
     publishedDateTime: 2021-08-20T19:50:00Z

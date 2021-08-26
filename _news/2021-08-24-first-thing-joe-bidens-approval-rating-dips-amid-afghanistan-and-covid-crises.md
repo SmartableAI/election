@@ -3,8 +3,8 @@ category: news
 title: "First Thing: Joe Biden’s approval rating dips amid Afghanistan and Covid crises"
 excerpt: "President called upon to extend 31 August deadline to complete evacuations from Afghanistan"
 publishedDateTime: 2021-08-24T09:58:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/aug/24/first-thing-joe-biden-approval-rating-dips-amid-afghanistan-and-covid-crises"
-webUrl: "https://www.theguardian.com/us-news/2021/aug/24/first-thing-joe-biden-approval-rating-dips-amid-afghanistan-and-covid-crises"
+originalUrl: "https://www.theguardian.com/us-news/2021/aug/24/first-thing-joe-biden-approval-rating-dips-amid-afghanistan-and-covid-crises?fr=operanews"
+webUrl: "https://www.theguardian.com/us-news/2021/aug/24/first-thing-joe-biden-approval-rating-dips-amid-afghanistan-and-covid-crises?fr=operanews"
 ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/24/first-thing-joe-biden-approval-rating-dips-amid-afghanistan-and-covid-crises"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/24/first-thing-joe-biden-approval-rating-dips-amid-afghanistan-and-covid-crises"
 type: article
@@ -177,8 +177,8 @@ related:
         isCached: true
   - title: "Joe Biden to speak about Afghanistan evacuation amid criticism – live"
     excerpt: "Psaki says US has helped evacuate 57,000 people in the last nine days and and is on track to meet its deadline of 31 August"
-    publishedDateTime: 2021-08-24T19:31:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news?page=with:block-612540598f080840ca17a455"
+    publishedDateTime: 2021-08-24T19:43:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news?page=with:block-61254d1a8f08b1506f20db2e"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news"
     type: article
@@ -1282,6 +1282,6 @@ related:
         height: 380
         isCached: true
 
-secured: "HZFM5pnml+8QebVm2pDJEA6fwJJC9ELS10LNi0psXpWHbe82XbCmcDVuHetE9gVu33gvWZFF92jR6jQ9YLtCjCjXv+iais4v4TEH6hUKyorAcK1y68hTVI9jD1AtLoCEUHvp/CT6spXGXLUJiREswR3AwYZnqDxYXK+RwviK9a3XjPvk0pGkvtyl3nYh8VaUnKIy0JpnQ2E3adU1UqqOVBJXVndluK4XwHf+/XIbItIB6nL2ztapaqPkvIVTrtHsOkcKU4glTMlWrMACxWU+9gZPHoihkauJTAcjEuPqeKU71dN4cmspHC5UdyvVIlHkOh2Z2iyAHnvk2NM+VcHLnIVMJ/g9XYm0N1tJg2dwcYiSK5LYaexP/D+ApDYvJO/6+lQWBSjtZcQW8dv3pdJRpnF9zPktSktNVIGIwIujmJlzNd7eTijZn312WdwFDe0m39YJlfZyc04fPWMS6UdF5sHQo4phpIQNjNXjD7sUsTfZyzaEonkiTtbtBg2nxEqqNeSTYMLnEfa+P3hcebVLCQ==;ClwIcuVD4VAkmUh+lfXZlw=="
+secured: "mlG6fqUiS14g8j8ceDjURVXr9fl30tkxg01B5xZ/EIV9BpwIP7BEc59P+OO+sqg5qaFIOHeSoWh1l/6ZJZ9qfUyHir+j/YKdNc+r7uuUWa+qdUXPXhWfXvZBk6SDPjAfVhHw6U6Rpco4sChZGb1L23WcORAcQ7XKwmSokNzpp9bZiIJZrj9mKy+Er9E/IQW4fPMmWeBGriI/LfQ+JRmwgwXulsMG09NVVoVf7wswsk3EMNmTTODrEBgBVWDGHTi6XMmWyH2rih2g1SgRwD/zj68zOU22QwhizzkXKShhs6ZSIKd7nRTpiX6+PhrSb4QXMR1qoZSS5DWCCx3Rgh4nFotqygAOJhmRi3trITkmv9U=;fvqwcf4fZ7aQpWIcJ8B7rQ=="
 ---
 

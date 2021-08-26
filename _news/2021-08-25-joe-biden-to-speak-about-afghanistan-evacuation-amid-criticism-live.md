@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden to speak about Afghanistan evacuation amid criticism – live"
 excerpt: "Psaki says US has helped evacuate 57,000 people in the last nine days and and is on track to meet its deadline of 31 August"
-publishedDateTime: 2021-08-24T19:31:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news?page=with:block-612540598f080840ca17a455"
-webUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news?page=with:block-612540598f080840ca17a455"
+publishedDateTime: 2021-08-24T19:43:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news?page=with:block-61254d1a8f08b1506f20db2e"
+webUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news?page=with:block-61254d1a8f08b1506f20db2e"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news"
 type: article
@@ -210,7 +210,7 @@ related:
   - title: "First Thing: Joe Biden’s approval rating dips amid Afghanistan and Covid crises"
     excerpt: "President called upon to extend 31 August deadline to complete evacuations from Afghanistan"
     publishedDateTime: 2021-08-24T09:58:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/aug/24/first-thing-joe-biden-approval-rating-dips-amid-afghanistan-and-covid-crises"
+    webUrl: "https://www.theguardian.com/us-news/2021/aug/24/first-thing-joe-biden-approval-rating-dips-amid-afghanistan-and-covid-crises?fr=operanews"
     ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/24/first-thing-joe-biden-approval-rating-dips-amid-afghanistan-and-covid-crises"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/24/first-thing-joe-biden-approval-rating-dips-amid-afghanistan-and-covid-crises"
     type: article
@@ -1282,6 +1282,6 @@ related:
         height: 380
         isCached: true
 
-secured: "dAFqv/i1T+ij1wID4r/KdmKNTQfvm+y7/gOgkviLxDwfoFewiZqYaOPWdcglVurw24Ei0IPCj/bypN73jddypfN177lfzl7KUXrhQQiJchGAJvstv8eLsm16cGI2rqhR60IfPKcWnHHwx6rYy/gipN2LkcwbgE4kV59p5jNQUNeYI8g6EJlO37j3RWYXTfKeEwl9EoXMBnLZyUNBBEIhLJArw2S+kZCBRnxD6sS33b6EvYg8c2vRhawMO2PHIV2zSV/74zBPSnuoWrqWaTAmcQmORRBaWcNOqYxgLo68LLJvewzUfz+cpubNGWcCx5cxLQM+lu9kGpn1YCISi/3RrV7PgiIiUqhtL+wSdQgC1PHt8K7q1AI1vp06dHenx+xTG3gQfTrswexeouPJzHjzn102uWRcR8QDyDeBt1Hz9zEeDyDRQOMzVFzu0wJOkTBEXn0fWIuagDn++Svn8079NWv+wyDHz+9p1Wzi8/3ub9aCAdRHCQ05SBcllz+2TuKnAPgiaS5W0ZFDGzKZAmu2Zg==;2wKUlGaGZpb3rYsSLJUC8Q=="
+secured: "N4rKd7X3+c17I1ZaQqaUAX3kaWwCGj6puor2NJdAYemCwJz73VsVkhDc6fi2RoAtAWQnr2YDZIj3Ugj/Hazee99yg+NozdGOMnOVmX+ZMC9RrP3FgyQj4yQj3UscyhavmrLfTF1QfTj1LkmgwjEP7+zwnwo2TMrEZtF3Cv7qm1Dn8h9w3Z3cXF4j3pd1aq7EjXQuNpmboQ01Yw7/laU47zkV0ktle8YUqmsyNEMsYC4f9FkIOouOYITvQRt7MDWaj6PRbwuu7OZ/+cHDhWV+HH1aiDdLZ4IAQiLYagjbxxqjwpWqZRRnaMnjIPp28vxKNE17YPEL4bIYZ4KNTdB9i1pXTzwTavroVNDNGURkAdQ=;g+ikZQBxSaj/u+bjhGbNUg=="
 ---
 

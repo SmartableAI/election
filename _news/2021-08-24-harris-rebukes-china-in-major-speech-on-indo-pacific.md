@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-rebukes-china-major-speech-i
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-rebukes-china-major-speech-indo-pacific.amp"
 type: article
 quality: 185
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -143,6 +143,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/16482d87-a6fa-490d-8acb-7aa840adb46b/2fdcd8fe-c77c-4d96-a303-677856797f99/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Kamala Harris Tries to Improve Southeast Asia Ties as China Prods From Sidelines"
+    excerpt: "The Biden administration will continue to call out China for its aggressive maritime claims but doesnâ€™t want a conflict, the vice president said, seeking to strike a balance with regional countries caught between the rival powers."
+    publishedDateTime: 2021-08-26T10:14:00Z
+    webUrl: "https://www.wsj.com/articles/kamala-harris-tries-to-improve-southeast-asia-ties-as-china-prods-from-sidelines-11629972869"
+    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harris-tries-to-improve-southeast-asia-ties-as-china-prods-from-sidelines-11629972869"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-tries-to-improve-southeast-asia-ties-as-china-prods-from-sidelines-11629972869"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 130
+    images:
+      - url: "https://images.wsj.net/im-391146/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Leo Terrell alarmed by Kamala Harris telling Americans to start buying Christmas presents"
     excerpt: "Fox News contributor Leo Terrell expressed concern on “Fox & Friends” Tuesday that Democrats are aiming to shut down the U.S. economy again after Vice President Kamala Harris advised shoppers to consider buying Christmas presents now due to global supply chain issues."

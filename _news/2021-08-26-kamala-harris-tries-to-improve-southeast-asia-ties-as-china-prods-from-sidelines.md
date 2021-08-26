@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Leo Terrell alarmed by Kamala Harris telling Americans to start buying Christmas presents"
-excerpt: "Fox News contributor Leo Terrell expressed concern on “Fox & Friends” Tuesday that Democrats are aiming to shut down the U.S. economy again after Vice President Kamala Harris advised shoppers to consider buying Christmas presents now due to global supply chain issues."
-publishedDateTime: 2021-08-24T14:47:00Z
-originalUrl: "https://www.foxnews.com/media/kamala-harris-christmas-shopping-leo-terrell"
-webUrl: "https://www.foxnews.com/media/kamala-harris-christmas-shopping-leo-terrell"
-ampWebUrl: "https://www.foxnews.com/media/kamala-harris-christmas-shopping-leo-terrell.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-christmas-shopping-leo-terrell.amp"
+title: "Kamala Harris Tries to Improve Southeast Asia Ties as China Prods From Sidelines"
+excerpt: "The Biden administration will continue to call out China for its aggressive maritime claims but doesnâ€™t want a conflict, the vice president said, seeking to strike a balance with regional countries caught between the rival powers."
+publishedDateTime: 2021-08-26T10:14:00Z
+originalUrl: "https://www.wsj.com/articles/kamala-harris-tries-to-improve-southeast-asia-ties-as-china-prods-from-sidelines-11629972869"
+webUrl: "https://www.wsj.com/articles/kamala-harris-tries-to-improve-southeast-asia-ties-as-china-prods-from-sidelines-11629972869"
+ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harris-tries-to-improve-southeast-asia-ties-as-china-prods-from-sidelines-11629972869"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-tries-to-improve-southeast-asia-ties-as-china-prods-from-sidelines-11629972869"
 type: article
-quality: 126
+quality: 130
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
+  name: Wall Street Journal
+  domain: wsj.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +26,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://images.wsj.net/im-391146/social"
+    width: 1280
+    height: 640
     isCached: true
 
 related:
@@ -160,21 +160,21 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Kamala Harris Tries to Improve Southeast Asia Ties as China Prods From Sidelines"
-    excerpt: "The Biden administration will continue to call out China for its aggressive maritime claims but doesnâ€™t want a conflict, the vice president said, seeking to strike a balance with regional countries caught between the rival powers."
-    publishedDateTime: 2021-08-26T10:14:00Z
-    webUrl: "https://www.wsj.com/articles/kamala-harris-tries-to-improve-southeast-asia-ties-as-china-prods-from-sidelines-11629972869"
-    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harris-tries-to-improve-southeast-asia-ties-as-china-prods-from-sidelines-11629972869"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-tries-to-improve-southeast-asia-ties-as-china-prods-from-sidelines-11629972869"
+  - title: "Leo Terrell alarmed by Kamala Harris telling Americans to start buying Christmas presents"
+    excerpt: "Fox News contributor Leo Terrell expressed concern on “Fox & Friends” Tuesday that Democrats are aiming to shut down the U.S. economy again after Vice President Kamala Harris advised shoppers to consider buying Christmas presents now due to global supply chain issues."
+    publishedDateTime: 2021-08-24T14:47:00Z
+    webUrl: "https://www.foxnews.com/media/kamala-harris-christmas-shopping-leo-terrell"
+    ampWebUrl: "https://www.foxnews.com/media/kamala-harris-christmas-shopping-leo-terrell.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-christmas-shopping-leo-terrell.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 130
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
     images:
-      - url: "https://images.wsj.net/im-391146/social"
-        width: 1280
-        height: 640
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Kamala Harris political potency faces test with Gavin Newsom recall effort"
     excerpt: "Vice President Kamala Harris faces a key political test ahead of a Sept. 14 special election in California as embattled Gov. Gavin Newsom leans on her to juice Democratic turnout and shield him from an embarrassing recall."
@@ -202,6 +202,6 @@ related:
         height: 568
         isCached: true
 
-secured: "ro0uXSO63+Btxsln3As1aWqQ1sI301Sc3EmoEy/gX3MEe0wD7erXRk5Uf8CubPaWdsdAz6AVs/fQG/8lBcLMCcFjLtUE+PZOyKJ/g15Z5C2OgQSir4I8shRYGvW6P7NTIdVmxBzwVhWZBleRqMtJk1t2RbZlQTSqC2zc8OI6AxNSu11Oq1ZIV50a1w5KcazDxcLu2ww1MkxurX/larh6UsPzHMi1ew6MBGklYbs0KMfYbMOYgRq3kCJgTTV2Dx7sF6QIwNVLcyxEG72fRajpIs8MgO8qF6CUg3gwBBk0myub9GbFlfBHYna0yvvdjbJuBVfqcTTJVhrD0KhppoFmJbMWXXMeiFFgJbPwiE+kaIQ=;eQUdoPKjHTyvFFKiYeb9Xw=="
+secured: "vihMNU/HTX/VS2U3jmx4V01Kn96GwyaqJ4j28Ldw0qIg/g8VR5ABfH/1dHVAfxIevxDYIH3VnSD8ehOwbIe7SNxPTU4oo+DAcpQRSmvDVocLNvLNGjNp0Tr892deV2E36YqcllBv6YKlVzxauTVAE2kobBdilr0a52jcci9wylQLFhQmob3eTh3DrIZcF7JoUGFQlf4EbI62RezljiEDpe4X+WgZFPMKH96htOahpzdVTh0IXPQenf3QtS4+BPyT7/XMirBiZASk957ukxS2NyRZ2RS+TvlZujbVvRfX0x6q1OubsdVdbxlhGdClGX/IIkM/M3ivpWoNxwFJFJc/2uPUSs/lJpfuxpiscakDCpU=;YeWj3v17iXUtah/d4Nwfew=="
 ---
 

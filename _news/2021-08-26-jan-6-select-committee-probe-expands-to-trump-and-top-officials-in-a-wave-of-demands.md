@@ -41,6 +41,20 @@ related:
         width: 3000
         height: 1985
         isCached: true
+  - title: "Maggie Haberman and the never-ending Trump story"
+    excerpt: "How one New York Times reporter found herself turned into a major character in Donald Trump’s political drama."
+    publishedDateTime: 2021-08-26T09:04:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/media/maggie-haberman-trump/2021/08/25/87374bbe-efbe-11eb-81d2-ffae0f931b8f_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M46WBDAE5II6ZDB7GUTPQGZDHM.jpg&w=1440"
+        width: 1440
+        height: 945
+        isCached: true
   - title: "Matt Gaetz says Trump signed off on Gaetz and Marjorie Taylor Greene's campaign against Chris Christie, Nikki Haley, and other 'half-Trumpers'"
     excerpt: "Gaetz, who's under federal investigation for alleged sex trafficking, says Trump likes that he and Greene are \"keeping the band in tune.\""
     publishedDateTime: 2021-08-23T17:47:00Z

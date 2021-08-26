@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Terror threats hamper Afghanistan evacuation as Biden's deadline looms"
+    excerpt: "A grave and specific ISIS terror threat is hanging over the frantic endgame of the US withdrawal from Afghanistan with time fast running out to rescue up to 1,500 Americans and the fate of fleeing Afghans looking darker by the hour.\n    \n"
+    publishedDateTime: 2021-08-26T11:21:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/s7Dqh2PyhBU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/26/politics/president-joe-biden-afghan-refugees-donald-trump-immigration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/26/politics/president-joe-biden-afghan-refugees-donald-trump-immigration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210825060832-biden-washington-afghanistan-0824-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says U.S. may extend Afghanistan withdrawal deadline as evacuations continue"
     excerpt: "President Joe Biden said Sunday that the U.S. was considering extending evacuation efforts beyond his Aug. 31 deadline to leave Afghanistan as he defended the administration's handling of the war's final days."
     publishedDateTime: 2021-08-22T23:19:00Z
