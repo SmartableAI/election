@@ -9,8 +9,8 @@ ampWebUrl: "https://www.mactech.com/2021/08/25/apple-joins-lawsuit-regarding-tru
 cdnAmpWebUrl: "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2021/08/25/apple-joins-lawsuit-regarding-trump-era-tariffs-on-chinese-products/amp/"
 type: article
 quality: 75
-heat: -1
-published: false
+heat: 155
+published: true
 
 provider:
   name: MacTech
@@ -27,36 +27,33 @@ images:
     isCached: true
 
 related:
+  - title: "Lawyers allied with Trump penalized over Michigan lawsuit | Charlotte Observer"
+    excerpt: "Nine lawyers allied with former President Donald Trump face financial penalties and other sanctions in Michigan."
+    publishedDateTime: 2021-08-25T23:40:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article253747698.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article253747698.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article253747698.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 71
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/c4cef625-20b7-4900-8d0e-b7aea9ac60c8/04971208-0b7e-48a6-9be9-aacd9ccfcccd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "House panel probing 1/6 riot seeks host of Trump-era records"
-    excerpt: "The House committee investigating the January insurrection at the U.S. Capitol is demanding a host of records from Donald Trump's White House and several of his administration's intelligence and law enforcement agencies,"
-    publishedDateTime: 2021-08-26T00:51:00Z
-    webUrl: "https://apnews.com/38c2749944f7c0d74c96fd037408899c"
+    excerpt: "The House committee investigating the January insurrection at the U.S. Capitol is demanding a trove of records from federal intelligence and law enforcement agencies."
+    publishedDateTime: 2021-08-26T02:23:00Z
+    webUrl: "https://www.heraldonline.com/news/politics-government/national-politics/article253749498.html"
+    ampWebUrl: "https://amp.heraldonline.com/news/politics-government/national-politics/article253749498.html"
+    cdnAmpWebUrl: "https://amp-heraldonline-com.cdn.ampproject.org/c/s/amp.heraldonline.com/news/politics-government/national-politics/article253749498.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 105
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/33e8b2b0b95441e3b42c1dc58ddff80f/3000.jpeg"
-        width: 3000
-        height: 2044
-        isCached: true
-  - title: "The House panel probing the Capitol riot seeks a host of Trump-era records"
-    excerpt: "The requested documents are just the beginning of what is expected to be lengthy partisan and rancorous investigation."
-    publishedDateTime: 2021-08-25T18:47:00Z
-    webUrl: "https://www.inquirer.com/politics/nation/capitol-riot-house-panel-trump-documents-probe-20210825.html"
-    ampWebUrl: "https://www.inquirer.com/politics/nation/capitol-riot-house-panel-trump-documents-probe-20210825.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/politics/nation/capitol-riot-house-panel-trump-documents-probe-20210825.html?outputType=amp"
-    type: article
-    provider:
-      name: Philadelphia Inquirer
-      domain: inquirer.com
-    quality: 73
-    images:
-      - url: "https://www.inquirer.com/resizer/cNGsEx7ZoN44lRl3Qus2p-nkmg4=/0x0:2398x1600/760x507/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/ROPZU2U5UJGVRGSNLKMY5UHQKY.jpg"
-        width: 760
-        height: 507
-        isCached: true
+      name: The Herald SC
+      domain: heraldonline.com
+    quality: 55
   - title: "Riot probe panel seeks records of Trump-era White House"
     excerpt: "The House panel investigating the Jan. 6 riot at the U.S. Capitol is demanding a sweeping list of records and other information from eight executive branch agencies, including"
     publishedDateTime: 2021-08-25T21:00:00Z

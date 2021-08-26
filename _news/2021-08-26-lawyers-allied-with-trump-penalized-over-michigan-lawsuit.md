@@ -2,28 +2,28 @@
 category: news
 title: "Lawyers allied with Trump penalized over Michigan lawsuit"
 excerpt: "Nine lawyers allied with former President Donald Trump face financial penalties and other sanctions in Michigan."
-publishedDateTime: 2021-08-25T23:34:00Z
-originalUrl: "https://www.newsobserver.com/news/nation-world/national/article253747698.html"
-webUrl: "https://www.newsobserver.com/news/nation-world/national/article253747698.html"
-ampWebUrl: "https://amp.newsobserver.com/news/nation-world/national/article253747698.html"
-cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/nation-world/national/article253747698.html"
+publishedDateTime: 2021-08-26T03:59:00Z
+originalUrl: "https://www.click2houston.com/news/politics/2021/08/25/lawyers-allied-with-trump-penalized-over-michigan-lawsuit/"
+webUrl: "https://www.click2houston.com/news/politics/2021/08/25/lawyers-allied-with-trump-penalized-over-michigan-lawsuit/"
+ampWebUrl: "https://www.click2houston.com/news/politics/2021/08/25/lawyers-allied-with-trump-penalized-over-michigan-lawsuit/?outputType=amp"
+cdnAmpWebUrl: "https://www-click2houston-com.cdn.ampproject.org/c/s/www.click2houston.com/news/politics/2021/08/25/lawyers-allied-with-trump-penalized-over-michigan-lawsuit/?outputType=amp"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Raleigh News & Observer
-  domain: newsobserver.com
+  name: Click2Houston
+  domain: click2houston.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/c4cef625-20b7-4900-8d0e-b7aea9ac60c8/04971208-0b7e-48a6-9be9-aacd9ccfcccd/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/BMM2O6H4UVBKPEHVVVO5TN3MXQ.jpg"
+    width: 5472
+    height: 3648
     isCached: true
 
 related:
@@ -180,6 +180,6 @@ related:
         height: 710
         isCached: true
 
-secured: "fMXod+PvjfvfTCWVp/Ct+r2qgHGQWUUAoYAN1nh9cwrChYd/y3betffMHkutlQMnSlk7aey36BkTXpXCmyEetMKt4USHaSeSJzpqi0VWDCirqDwEg9GvfGCuRHOicayOLkg32AwjpkPh9c4iCbj8Ra0wnVJyqQha7XVssrIxFr7UpabLi8wtp0L7+DfAtk/xwd1JCx94wgvNoIxM+tZ69r/m89DVSCFimZr22e89unhhl65H7qqTwxHVmLYGC21e5UjbnNLz9DF1sj7uNKaOrRAQHhWwFRM45muMBDtJn1k6nxkqxujcv0vX4ieq7lVUJsuiwjFBCdu8A6DaXp675NI/FgwS0a66hAnlE4WCzjA=;egHiXAeQBnezXnhHZC+RXg=="
+secured: "FjhzT5mg2BeVhMIMCF9OAb1ds3z9Pv/flfAy/d4iZANNijS5Oq4ShGyJ0lXxEDKdzggJ+vXdYtwWSW94uguiHqk+3jbyRbiqpC8gAHIXdrRcplLpRZy893VxUNIgaSzp4UWS7deyHnNBzV5Zf/dbiVVu0sXLBxwvG9EZt/ctewxbltgsQSkmXglnji0nMj1E+tRTwQczcRndl/GwxJ8rJYNLZQ+4MSVgekm943eFb74/C6JkK1vFsTnbRML6oez4rDTcgJU/7YDDytDSR2mGIpjHlH0maHGk3yM3kL/29zeAE636N9oiYCTDtpkHicDBzajJdz5b/owEXFqxxfl3+noahVvzr6eCMgmxRgCifOQ=;Kecf8ObAaXN8S5Ub8nJQGA=="
 ---
 

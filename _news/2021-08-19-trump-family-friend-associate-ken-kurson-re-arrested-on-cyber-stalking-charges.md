@@ -49,14 +49,14 @@ related:
         isCached: true
   - title: "Twitter blocked and labeled Donald Trump's tweets on election fraud. They spread anyway."
     excerpt: "An NYU study of Trump tweets raises new questions about the ability of social media companies to halt the flood of falsehoods during election cycles."
-    publishedDateTime: 2021-08-24T04:07:00Z
-    webUrl: "https://www.desmoinesregister.com/story/tech/2021/08/24/trump-twitter-block-election-fraud-tweets-facebook-instagram-posts/8218382002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/8218382002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/8218382002"
+    publishedDateTime: 2021-08-24T04:00:00Z
+    webUrl: "https://www.cincinnati.com/story/tech/2021/08/24/trump-twitter-block-election-fraud-tweets-facebook-instagram-posts/8218382002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/8218382002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/8218382002"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
     quality: 81
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/01/09/USAT/fc41e6c8-15fe-4e63-b1ab-c54f6b834ea6-VPC_TRUMP_BANNED_FROM_TWITTER_DESK.00_00_34_26.Still001.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"

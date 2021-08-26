@@ -3,23 +3,27 @@ category: news
 title: "Former Pence adviser: Refugee topics would be blocked in meetings"
 excerpt: "Olivia Troye, a former adviser to Vice President Mike Pence, speaks to CNN for the first time since her viral Twitter thread in which she says that some senior members"
 publishedDateTime: 2021-08-21T19:21:00Z
-originalUrl: "https://www.trentonian.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_fa310230-f44e-5b72-a7b5-4935fb4c88fa.html"
-webUrl: "https://www.trentonian.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_fa310230-f44e-5b72-a7b5-4935fb4c88fa.html"
-ampWebUrl: "https://www.trentonian.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_fa310230-f44e-5b72-a7b5-4935fb4c88fa.amp.html"
-cdnAmpWebUrl: "https://www-trentonian-com.cdn.ampproject.org/c/s/www.trentonian.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_fa310230-f44e-5b72-a7b5-4935fb4c88fa.amp.html"
+originalUrl: "https://www.lebanondemocrat.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_06a86f2e-3d74-50f0-abab-8b2d44e9ca83.html"
+webUrl: "https://www.lebanondemocrat.com/news/national/former-pence-adviser-refugee-topics-would-be-blocked-in-meetings/video_06a86f2e-3d74-50f0-abab-8b2d44e9ca83.html"
 type: article
 quality: 55
 heat: 55
 published: false
 
 provider:
-  name: The Trentonian
-  domain: trentonian.com
+  name: The Lebanon Democrat
+  domain: lebanondemocrat.com
 
 topics:
   - Election
   - Mike Pence
 
-secured: "fkTSckZA0d86EScflDujpm7JtlRPdsnyxk7oJ082kUZeJNENylr3Pn7BEZDZ9Xex0KmyhCOlFAk2JqNMioXdWwAX7IKHZg7BJaNlLsHmWCjJXLIlCAKtxify6z/2ighul+TFx3yVZG3HPs8FawKVY9veXR/1oMAZhEHycU6On6KsDTFoxff9CSIisBJ1NEWPEusZnj+Zkti/7rQMJTN+Zzw1uY/mdlC64LMe3MZg2eIFPMjrzMGa8SlBeQ5f9TlYym2L18XuMMKPmBrVolTV518ondmD5h2KBY2eJhyWnp6nj8QraB4hROR1S3Gu8empXcVKx71GismZqenBvYD86IqIbYiVa+Tn/KPr6KKLI+Fqf6XjEtHZS0ZGv5fBKNJUzHEodiTjUdHNSma1ObCF1cM/1dqxaaPCSS3c0ZeRWyokSVYLusD6R/Cj91S+Gm1FMuCRwdGbLB6HJQmTt6bSXHiJP3kRKKCOmVxITrrr2zT8QJJmvDfWJqP/wGCi5sZBshMZ+L7syCKz+qqXfUYcpQ==;xOIOAPTfk6ejX0iigO4FKg=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/lebanondemocrat.com/content/tncms/assets/v3/editorial/0/6a/06a86f2e-3d74-50f0-abab-8b2d44e9ca83/612158083c739.image.jpg?resize=576%2C324"
+    width: 576
+    height: 324
+    isCached: true
+
+secured: "D3SbbpuH08p5d2krjlhxV7V2uo69MfcuFTJmWt8lcsxktisiXCXrKEK1axEc5/NLPivjpa3B7eaor3nICoERRnk6fk8qCtaKNzt51EFBkYacy5uAUd/o3MjxcXjDUmxUgj9qScx2aJand+6dzXQH0YSOFqxRiSE0j7XwYBr5zy3AmBSTd2iTSbgyLnfq7YRmiKO63TfLakVzDntCpDMGGdpNrGM2+laN3KOaeOFgoyUz+TDWdxGZ0wxQQ90zHM1PkRw+BMC57/+xtRJ0r9uFRKj+G1aR401tZIPxQca1tUIYv/VbpDlALYpgMgZwv+iGyJn5SUrcoJXuMhMjvGRR6m398DLsgngQPIkWwNFcKhA=;fVXqdkZ7YdOnGW2s3HwaLA=="
 ---
 

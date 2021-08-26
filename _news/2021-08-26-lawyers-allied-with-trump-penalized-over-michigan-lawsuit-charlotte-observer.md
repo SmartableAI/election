@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article
 cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article253747698.html"
 type: article
 quality: 71
-heat: 111
-published: true
+heat: -1
+published: false
 
 provider:
   name: Charlotte Observer
@@ -27,37 +27,60 @@ images:
     isCached: true
 
 related:
-  - title: "Josh Duggar's Lawyers Trying To Get The Case Dismissed With A Donald Trump-Oriented Argument"
-    excerpt: "Josh Duggar’s legal team has been busy in recent weeks as the former 19 Kids and Counting’s star preps for trial. The eldest son of Jim Bob and Michelle Duggar was arrested on one count of receipt of child pornography and one count of possession of child pornography back in April."
-    publishedDateTime: 2021-08-23T16:49:00Z
-    webUrl: "https://www.cinemablend.com/television/2572395/josh-duggar-lawyer-case-dismissed-donald-trump-oriented-argument?pv=related_list"
-    ampWebUrl: "https://amp.cinemablend.com/television/2572395/josh-duggar-lawyer-case-dismissed-donald-trump-oriented-argument"
-    cdnAmpWebUrl: "https://amp-cinemablend-com.cdn.ampproject.org/c/s/amp.cinemablend.com/television/2572395/josh-duggar-lawyer-case-dismissed-donald-trump-oriented-argument"
+  - title: "Apple joins lawsuit regarding Trump-era tariffs on Chinese products"
+    excerpt: "Apple, Intel and Pfizer have joined 3,700 other U.S. businesses in their suit against the U.S. regarding Trump-era tariffs on $300 billion worth of Chinese products, reports Jurist. This lawsuit was first brought by HMTX Industries in September 2020 and initially targeted List 3 tariffs."
+    publishedDateTime: 2021-08-25T13:19:00Z
+    webUrl: "https://www.mactech.com/2021/08/25/apple-joins-lawsuit-regarding-trump-era-tariffs-on-chinese-products/"
+    ampWebUrl: "https://www.mactech.com/2021/08/25/apple-joins-lawsuit-regarding-trump-era-tariffs-on-chinese-products/amp/"
+    cdnAmpWebUrl: "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2021/08/25/apple-joins-lawsuit-regarding-trump-era-tariffs-on-chinese-products/amp/"
     type: article
     provider:
-      name: Cinema Blend
-      domain: cinemablend.com
-    quality: 64
+      name: MacTech
+      domain: mactech.com
+    quality: 75
     images:
-      - url: "https://img.cinemablend.com/quill/4/5/8/a/9/0/458a9063ffa8791c4da283f5ee12d513513c70e7.jpg"
-        width: 1200
-        height: 600
+      - url: "https://www.mactech.com/wp-content/uploads/2021/08/Lawsuit-image-1024x666.jpg"
+        width: 1024
+        height: 666
         isCached: true
-  - title: "Dallas attorney Sidney Powell among lawyers allied with Trump to be penalized over Michigan lawsuit"
-    excerpt: "Nine lawyers allied with former President Donald Trump face financial penalties and other sanctions after a judge Wednesday said they had"
-    publishedDateTime: 2021-08-25T23:54:00Z
-    webUrl: "https://www.dallasnews.com/news/politics/2021/08/25/dallas-attorney-sidney-powell-among-lawyers-allied-with-trump-penalized-over-michigan-lawsuit/"
-    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/08/25/dallas-attorney-sidney-powell-among-lawyers-allied-with-trump-penalized-over-michigan-lawsuit/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/08/25/dallas-attorney-sidney-powell-among-lawyers-allied-with-trump-penalized-over-michigan-lawsuit/?outputType=amp"
+  - title: "House panel probing 1/6 riot seeks host of Trump-era records"
+    excerpt: "The House committee investigating the January insurrection at the U.S. Capitol is demanding a trove of records from federal intelligence and law enforcement agencies."
+    publishedDateTime: 2021-08-26T02:23:00Z
+    webUrl: "https://www.heraldonline.com/news/politics-government/national-politics/article253749498.html"
+    ampWebUrl: "https://amp.heraldonline.com/news/politics-government/national-politics/article253749498.html"
+    cdnAmpWebUrl: "https://amp-heraldonline-com.cdn.ampproject.org/c/s/amp.heraldonline.com/news/politics-government/national-politics/article253749498.html"
     type: article
     provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 61
+      name: The Herald SC
+      domain: heraldonline.com
+    quality: 55
+  - title: "Riot probe panel seeks records of Trump-era White House"
+    excerpt: "The House panel investigating the Jan. 6 riot at the U.S. Capitol is demanding a sweeping list of records and other information from eight executive branch agencies, including"
+    publishedDateTime: 2021-08-25T21:00:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/washington/riot-probe-panel-seeks-records-of-trump-era-white-house/article_f551f965-c8d1-5251-90c4-f8cbe04b0447.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 55
     images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/bsGv3kupQn2C0Toxiu_4rh68Ito=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/2DI6CDQCQ7AVQJL7JQDPIE2Q3Q.jpg"
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "What was the Contingency and Crisis Response bureau? Examining the Trump-era proposal"
+    excerpt: "The State Department said the Contingency and Crisis Response Bureau proposed under former President Donald Trump never became fully operational, and that the State Department still retains all the same capabilities the bureau would have introduced."
+    publishedDateTime: 2021-08-25T21:39:00Z
+    webUrl: "https://www.politifact.com/article/2021/aug/25/what-was-contingency-and-crisis-response-bureau-ex/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 48
+    images:
+      - url: "https://static.politifact.com/CACHE/images/politifact/photos/AP_21231337150748/26a8ba0d0e8e8d41e8f78ef2ec468ad4.jpg"
+        width: 1024
+        height: 584
         isCached: true
 
 secured: "VXjRYsxPcHRCFGQp2WTzdAEuRiNlu8e+KBxSr3hJhxOZ4PSQiTteuXuN7PIhbjrRZm0LWKqPdnAAbFL9C0jo/CZ1CTKzd3IeOgjg6xJut/OufYjM9PBm6h6+VMkNxgoO+P1gnimUKhZjv4hPZ8Hcnh45HbIAVWurUNogp+Qhg4nyIYVwyJETO497QRzoHsNzdiHiA6T5OUfPtGkuVp6n/mcqI7kEnszaY1i7JHVX6BdGw4U8r4TsSipYpTxedrZ1UkMk3K6OjHnNTDpRMNIz3IYfJFWYZPDoLiaXWjk+sP9rHsDTM8byIyn9SMP15NOSSOTQ/TcSdiHeSn3qk+MHr5HvJ5yMui96aDSGNbpHN+M=;o/S5PLVl7zogPBhR70itiw=="

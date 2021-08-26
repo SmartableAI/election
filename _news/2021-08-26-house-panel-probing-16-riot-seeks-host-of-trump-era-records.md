@@ -1,28 +1,24 @@
 ---
 category: news
 title: "House panel probing 1/6 riot seeks host of Trump-era records"
-excerpt: "The House committee investigating the January insurrection at the U.S. Capitol is demanding a host of records from Donald Trump's White House and several of his administration's intelligence and law enforcement agencies,"
-publishedDateTime: 2021-08-26T00:51:00Z
-originalUrl: "https://apnews.com/38c2749944f7c0d74c96fd037408899c"
-webUrl: "https://apnews.com/38c2749944f7c0d74c96fd037408899c"
+excerpt: "The House committee investigating the January insurrection at the U.S. Capitol is demanding a trove of records from federal intelligence and law enforcement agencies."
+publishedDateTime: 2021-08-26T02:23:00Z
+originalUrl: "https://www.heraldonline.com/news/politics-government/national-politics/article253749498.html"
+webUrl: "https://www.heraldonline.com/news/politics-government/national-politics/article253749498.html"
+ampWebUrl: "https://amp.heraldonline.com/news/politics-government/national-politics/article253749498.html"
+cdnAmpWebUrl: "https://amp-heraldonline-com.cdn.ampproject.org/c/s/amp.heraldonline.com/news/politics-government/national-politics/article253749498.html"
 type: article
-quality: 105
-heat: 185
-published: true
+quality: 55
+heat: -1
+published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: The Herald SC
+  domain: heraldonline.com
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://storage.googleapis.com/afs-prod/media/33e8b2b0b95441e3b42c1dc58ddff80f/3000.jpeg"
-    width: 3000
-    height: 2044
-    isCached: true
 
 related:
   - title: "Apple joins lawsuit regarding Trump-era tariffs on Chinese products"
@@ -41,21 +37,21 @@ related:
         width: 1024
         height: 666
         isCached: true
-  - title: "The House panel probing the Capitol riot seeks a host of Trump-era records"
-    excerpt: "The requested documents are just the beginning of what is expected to be lengthy partisan and rancorous investigation."
-    publishedDateTime: 2021-08-25T18:47:00Z
-    webUrl: "https://www.inquirer.com/politics/nation/capitol-riot-house-panel-trump-documents-probe-20210825.html"
-    ampWebUrl: "https://www.inquirer.com/politics/nation/capitol-riot-house-panel-trump-documents-probe-20210825.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/politics/nation/capitol-riot-house-panel-trump-documents-probe-20210825.html?outputType=amp"
+  - title: "Lawyers allied with Trump penalized over Michigan lawsuit | Charlotte Observer"
+    excerpt: "Nine lawyers allied with former President Donald Trump face financial penalties and other sanctions in Michigan."
+    publishedDateTime: 2021-08-25T23:40:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article253747698.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article253747698.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article253747698.html"
     type: article
     provider:
-      name: Philadelphia Inquirer
-      domain: inquirer.com
-    quality: 73
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 71
     images:
-      - url: "https://www.inquirer.com/resizer/cNGsEx7ZoN44lRl3Qus2p-nkmg4=/0x0:2398x1600/760x507/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/ROPZU2U5UJGVRGSNLKMY5UHQKY.jpg"
-        width: 760
-        height: 507
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/c4cef625-20b7-4900-8d0e-b7aea9ac60c8/04971208-0b7e-48a6-9be9-aacd9ccfcccd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Riot probe panel seeks records of Trump-era White House"
     excerpt: "The House panel investigating the Jan. 6 riot at the U.S. Capitol is demanding a sweeping list of records and other information from eight executive branch agencies, including"
@@ -86,6 +82,6 @@ related:
         height: 584
         isCached: true
 
-secured: "2KlID7GOQlyD3xHr5t2dw4aIrsBoDJBQuuh71hRBi3ag6j0LX0Xd6Zxx40UkfGdWXqPd4bwW1ASR4yX5YLca56wMu2vcyufKRKXRalCblUtkTLYgjCHvOXDyvqduDtB20+kRk44nYKrRw7K7oFnKhRU5aTCE5TunSi7fCTncShEFpQrZQpqoz58LFAN2IDTcF4Uqtn5cAZ/xWBP1QSFwIddx3uLxNdE7GS130ookml9tchFZHWiPOggf7uReeS3rrNgCJELJiTPOyDRja7sDTeP+cd7rRQDK+rKa4Qwsk++2dTSgNkQO3ZHSENFfirCgMfaY6PBcXW+j74B4eKQv63miQo7EdS5apWr8OgzYQJc=;I21J/hPvF6mvswc5Zhl2hA=="
+secured: "d0byoPctajkTXnYtjKG9FEafZnib+qVxNEw0TlUXOk9JJeToAiTakN5VYP4TU/DwLmITBFelfP+KPJn0JOSdCA6EdEKc7AaPgla4fx6hPqEPlq4AvZHDLcmx/vkkOGaUNDr0BAYVkcQ83cV2lfipUA2cVSxm/gcL29u3zuDmb36M4vEAXccggiD9SsfuIuqEdNBqaOHNsVcfY1AE6aD8zv+ifugN8FwLyGEEJ0ubBOSMmBVdXakTpKQPCIdV/85wB0ijBRCQhGpvUMlrB7+qpOu7AU0JCf7Ff8nFtNQKBZdRRxc46WywmdlGsl6trar+kEGY2uhQjGj/xAh/4zHrJWQ9TTsk1G2OV5xZrJWs9ek0IwILXo/5BJlRXQ+Q53440kygI3Se3zCJZtiYWBy8yqcok+T/C0nsnQS07scQNfkFArDgbQuSqjL1vPZ8FifrqgWrTADzXZ6Ms85nTkZi6ZQWAaRXGYLEb2m/hr8KItvA3xz2uMaaSlkgvkDklimKIOTVXZTvGrktMbs2w8vtfA==;/qbhX2BLhQHfRSHFrunanA=="
 ---
 

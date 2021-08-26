@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/graisondangor/2021/08/24/kamala-harris-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/graisondangor/2021/08/24/kamala-harris-vietnam-visit-reportedly-held-up-by-havana-syndrome-scare/amp/"
 type: article
 quality: 123
-heat: 143
+heat: 163
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Possible ‘Havana Syndrome’ incidents delay VP Kamala Harris’ trip to Vietnam"
+    excerpt: "U.S. officials are continuing to investigate two possible cases of so-called Havana Syndrome health incidents that delayed Vice President Kamala Harris’ trip from Singapore to Vietnam. The"
+    publishedDateTime: 2021-08-25T19:06:00Z
+    webUrl: "https://ktla.com/news/nationworld/possible-havana-syndrome-incidents-delay-vp-kamala-harris-trip-to-vietnam/"
+    ampWebUrl: "https://ktla.com/news/nationworld/possible-havana-syndrome-incidents-delay-vp-kamala-harris-trip-to-vietnam/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/nationworld/possible-havana-syndrome-incidents-delay-vp-kamala-harris-trip-to-vietnam/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 72
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2021/08/AP21236422276054.jpg?w=1280"
+        width: 1280
+        height: 865
+        isCached: true
   - title: "Kamala Harris' Vietnam trip delayed over possible case of mysterious 'Havana syndrome'"
     excerpt: "Vice President Kamala Harris' trip to Hanoi, Vietnam, was delayed by a few hours after her office was made aware of a \"recent possible anomalous health incident\" among U.S. officials in Hanoi. \"Anomalous health incident\" is how the United States government refers to the mysterious \"Havana syndrome."
     publishedDateTime: 2021-08-24T20:25:00Z

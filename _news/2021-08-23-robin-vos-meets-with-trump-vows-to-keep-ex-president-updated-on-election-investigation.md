@@ -178,6 +178,20 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "Judge sanctions pro-Trump lawyers who brought ‘frivolous’ election fraud lawsuits"
+    excerpt: "By Tierney Sneed, CNN A federal judge ordered sanctions Wednesday for Sidney Powell, Lin Wood and several other lawyers who worked on Trump-aligned lawsuits seeking to challenge the results of the 2020 election."
+    publishedDateTime: 2021-08-26T03:55:00Z
+    webUrl: "https://localnews8.com/politics/cnn-us-politics/2021/08/25/judge-sanctions-pro-trump-lawyers-who-brought-frivolous-election-fraud-lawsuits/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 65
+    images:
+      - url: "https://localnews8.b-cdn.net/2021/06/Politics-logo-new_KIFIMIFI.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Emmy Predictions: Directing for a Variety Series – John Oliver’s Take on Donald Trump and the Election Lead the Pack"
     excerpt: "Following history, buzz, news, reviews and sources, the Emmy predictions are updated regularly with the current year's list of contenders in all categories. Variety's Awards Circuit Prediction schedule consists of four phases,"
     publishedDateTime: 2021-08-19T22:16:00Z

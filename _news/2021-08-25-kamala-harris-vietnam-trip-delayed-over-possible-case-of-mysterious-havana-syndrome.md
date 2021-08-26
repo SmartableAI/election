@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Possible ‘Havana Syndrome’ incidents delay VP Kamala Harris’ trip to Vietnam"
+    excerpt: "U.S. officials are continuing to investigate two possible cases of so-called Havana Syndrome health incidents that delayed Vice President Kamala Harris’ trip from Singapore to Vietnam. The"
+    publishedDateTime: 2021-08-25T19:06:00Z
+    webUrl: "https://ktla.com/news/nationworld/possible-havana-syndrome-incidents-delay-vp-kamala-harris-trip-to-vietnam/"
+    ampWebUrl: "https://ktla.com/news/nationworld/possible-havana-syndrome-incidents-delay-vp-kamala-harris-trip-to-vietnam/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/nationworld/possible-havana-syndrome-incidents-delay-vp-kamala-harris-trip-to-vietnam/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 72
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2021/08/AP21236422276054.jpg?w=1280"
+        width: 1280
+        height: 865
+        isCached: true
 
 secured: "1f+mhYsdlDJqlEJVl7D8GjghByco07yzSW1wbWA8/ErB58YuIO0CrRvxPn6T3OexzodTLy8YwB0YagYc80uQQSLMYDq+xCSwX7GA/oqwssOWosCDNczK3HMESPL42QRVEEvc57CwZCeReLzvCL2LKrPyWh17oFJ5kuDjf8dKg4136P5QQXASMsvsbEwLEWoPyCDCYHIhnuNWPS2/X5donNahYkilG8fpS07wFgHl4/moBUd7/6Vw0DkTbUJddbSHGQGbuMaCMvtxJVeYEsdZBgqA8oE/tDloDue0dUia+mcSjUIE2ts5kQq/TGoZARJO5UPDI5defP8LpidTxZw2H7H9MUfQOkoSeGmxrf1kISjeL0apocAgfmUBo2XsIubr/Ah9LM+46PDPQVNYoLp/gIOsUvR6NDyJQJhqkQ/bydM1yNhctbe3PR0zenL2LBza/fBWhmoOKxg2GXCyk4OsFbNWCebn/QjuaWVbMGo0ctBYPxM5sTQI0DbVEdTfj6RpZhum+GOsQw4NKazKtlwksg==;iHdsVbQcBMakYNjEpTBD0g=="
 ---

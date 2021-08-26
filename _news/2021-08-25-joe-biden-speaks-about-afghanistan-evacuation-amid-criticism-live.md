@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden speaks about Afghanistan evacuation amid criticism – live"
 excerpt: "Psaki says US has helped evacuate 57,000 people in the last nine days and and is on track to meet its deadline of 31 August"
 publishedDateTime: 2021-08-24T20:24:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news?page=with:block-61255bc08f080ef844e747eb"
-webUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news?page=with:block-61255bc08f080ef844e747eb"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news?page=with:block-612560288f08b1506f20dbf6"
+webUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news?page=with:block-612560288f08b1506f20dbf6"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news"
 type: article
@@ -1282,6 +1282,6 @@ related:
         height: 380
         isCached: true
 
-secured: "ZBQnQ0FJrn8sP89tIG4DB4LbbjYzM1fTsLce+rUYcwr0j8FnspGjNgBvC18MZwY48SmsCbOVJFMV9k+PdkQ3Do/t77J/E9ThyJaumGKh/uHACN7HXo4iSIITpsRU2i9ZTh0PhjAgG/E0z9KUON5unFBVX6N77Z/zCr2LdbL8hOb2D6CfDdTTovf1TYjSJhuUkD0t8rc5t7vp1EmktOIxTW3/3m0ROknO22zMNKT/r6fb+TjzEB9PW+tDZEiihPJz74MoNbsWbPd5AW4zSC8rqUjy0j8FMRCPs9YQxQwwTPtKpGW0ogeBpnoFzUTAskOqwoZpTYAWK0kK91aT1ca11Xq4qN1HAJc5vs4/w/C2be0=;HsfGH0P9OiVYH5fhognj6g=="
+secured: "QOIZDVpzvMW8bo482p7GI1mRel03yaxbNREBKR0/k/yMK622fD0QM2oRbnCtrjfiiIAyI7aORZWNz8cEVrDaWvtmTK7nApX4Cq/kZ9qcHl5ZpBBHCj04ZB8lwHgFGCtwIER3qclsHRkT1jYrsbSUVI60CPWM8Ur+YZe4jz2PY5q7fvGndDndN4z0Xxu/EzPxzamK4vSL6F/xWN9AR8xgdSCD+xJwewCYdhzQSz/pRHKS4SoTKG1AdqPIn4yyno4RvdiFlSn39PeNYX9vxJvrktsNFA4bTs2z9PFpgMZrcXDna6zMrZxbYfDxJtQYLZJtkpkvvHxn7V8W/J2JWamX+QfHVu294LfRikhsbb47kmYV1LtQvQp+dg/KimMb5Bbmdo5Pwht/H9QHecChh8v+pOlfFQLw2/U6jt5kBoHRDQYPft3tw5rCDbYvnIZNd3lt9RDryPSA+F/xQtk6rp1kQZTn+O9pk9N2Vluo4qtqFpmA8ynCAqme8LLv4JG94kI2BhuSwTQeDy84Gg81Z5P0fw==;WrzBO9NEKNNi1jRa1w1uTQ=="
 ---
 

@@ -653,6 +653,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden hears from Reps. Slotkin, Sherrill about Aug. 31 Afghanistan deadline extension: report"
+    excerpt: "President Biden on Wednesday heard from two Democratic U.S. House members – each with defense experience – who seek an extension of Biden’s Aug. 31 Afghanistan withdrawal deadline."
+    publishedDateTime: 2021-08-26T05:28:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0PUgD4tWJ-Y/biden-slotkin-sherrill-afghanistan-withdrawal-deadline-extension"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-slotkin-sherrill-afghanistan-withdrawal-deadline-extension.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-slotkin-sherrill-afghanistan-withdrawal-deadline-extension.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/866b14b2-1de8-4622-aec7-be50db2ba263/4949e96e-e551-4b08-acb0-99323d0ede96/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Amid Afghanistan chaos, Biden asks for 'legal actions' against governors who ban mask mandates"
     excerpt: "President Biden on Wednesday said he's asking Education Secretary Miguel Cardona to go after states with bans on mask mandates in schools, up to and including taking \"legal action\" against them, even as a crisis rages on in Afghanistan."
     publishedDateTime: 2021-08-19T12:20:12Z
@@ -1457,6 +1473,17 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 80
+  - title: "Trump says abandoning Afghan airfield was critical mistake"
+    excerpt: "Former President Donald Trump says abandoning Bagram Airfield in Afghanistan was a mistake. Adding his voice to a chorus of Republicans critical of the Biden administration's decision to vacate the base used to coordinate the decadeslong war effort in Afghanistan,"
+    publishedDateTime: 2021-08-26T03:18:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/trump-abandoning-afghan-bagram-airfield-mistake"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/trump-abandoning-afghan-bagram-airfield-mistake?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/trump-abandoning-afghan-bagram-airfield-mistake?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
   - title: "'Worst nightmare': Trump hits Biden's 'botched exit in Afghanistan' in first rally since fall of Kabul"
     excerpt: "Former President Donald Trump called President Joe Biden's \"botched exit in Afghanistan\" the \"worst nightmare\" imaginable during his first public rally since the fall of Kabul to the Taliban."
     publishedDateTime: 2021-08-22T06:54:00Z

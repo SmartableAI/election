@@ -191,6 +191,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump makes executive privilege threat as House committee seeks documents from agencies on January 6 attack"
+    excerpt: "The House Select Committee investigating the January 6 Capitol attack requested a massive tranche of documents from several US government agencies -- signaling they intend to undertake a sprawling probe of security failures and attempts to overturn the 2020 election results.\n    \n"
+    publishedDateTime: 2021-08-26T02:02:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4Kl3dCVvPGc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/25/politics/january-6-house-documents-investigation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/25/politics/january-6-house-documents-investigation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210812173750-us-capitol-rioters-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "HApOtzxLH3/YAB+1DHTMYVHVvaNQo6bC52dAdN/Z2aplvG5qAOEwmixOABs9mIlCdpN2Mhf7kj4PtJwU94+BcPz9Ws4B+wLRlj5YFsNqaeVFm6+2SXWdux1nixhpqnckSicaD0u9acMDyOwIUx0lP31A2mHw6sVE6T5Xb0JXWkop7dZU/VqQrxXt7v5W7hw82ZprP/uOJraX0CVPb8bzAwGK5riaohLxPlSpygC1mnqGE8MemramszXSLPPGPVKnFoT0b/FX9gDEx70KF/JeKSEEHZggMWYThe4K/tI6VCpgC08082TY36eWeWVicz9mf4+dCwnzbvbxF3upyI4Ag5nWsnXqugWoka4zCgQwbbQ=;GDkD7dxvYg3y44Y4h/FNTQ=="
 ---

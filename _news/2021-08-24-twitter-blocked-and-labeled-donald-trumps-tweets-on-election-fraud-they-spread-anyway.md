@@ -2,19 +2,19 @@
 category: news
 title: "Twitter blocked and labeled Donald Trump's tweets on election fraud. They spread anyway."
 excerpt: "An NYU study of Trump tweets raises new questions about the ability of social media companies to halt the flood of falsehoods during election cycles."
-publishedDateTime: 2021-08-24T04:07:00Z
-originalUrl: "https://www.desmoinesregister.com/story/tech/2021/08/24/trump-twitter-block-election-fraud-tweets-facebook-instagram-posts/8218382002/"
-webUrl: "https://www.desmoinesregister.com/story/tech/2021/08/24/trump-twitter-block-election-fraud-tweets-facebook-instagram-posts/8218382002/"
-ampWebUrl: "https://amp.desmoinesregister.com/amp/8218382002"
-cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/8218382002"
+publishedDateTime: 2021-08-24T04:00:00Z
+originalUrl: "https://www.cincinnati.com/story/tech/2021/08/24/trump-twitter-block-election-fraud-tweets-facebook-instagram-posts/8218382002/"
+webUrl: "https://www.cincinnati.com/story/tech/2021/08/24/trump-twitter-block-election-fraud-tweets-facebook-instagram-posts/8218382002/"
+ampWebUrl: "https://amp.cincinnati.com/amp/8218382002"
+cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/8218382002"
 type: article
 quality: 81
 heat: -1
 published: false
 
 provider:
-  name: Des Moines Register
-  domain: desmoinesregister.com
+  name: Cincinnati Enquirer
+  domain: cincinnati.com
 
 topics:
   - Election
@@ -120,6 +120,6 @@ related:
         height: 400
         isCached: true
 
-secured: "MGn+x7eti9vYF8aC2WW5ZoI/JYaelTWW6AKYBhOnsG+ld2+YuxTgndE/IzcUocUnJO7I3MnTqw2tHMIAhLXCPJ5RhPRVqBxtjuixLpMQ3wA9uFb7GJlv540v7UdE7OGwtDY2XYqKKBM292L08rSGIrtenY7Da6scGtKfomeujnYPXSaG6tN8QK2XzDwqxl2QGfNYz79xC65mG43QQEah1pHAFTswHKPQ6Hq4dWXmqAm2J99XINEaljaoDMlwBWnkwLEFS5FuoYZMOjd1PbC+UHzCmdLSalYtUFixfJzRRHL/MfmthA3PedrOADRwhWeH57FqAQfwewFSYPKgP2bUWQK6V+xDDhFsCMY5Y11CZtCDnklUwsY3zW6II9px3NfuedCNLNb6ZVW7eb5qUk8D2Ou3DCSDXz7x42oNzm4RvarixGYxRaI2aRi4F2sZyHddOgfMYja42mokry3OvOkvpQAEB0y35RbOy7QIMc5fNr8rPJQkYXQPsE3wCnXmkb+fsJA5RLuOX/bS/DDpFNeitA==;RqLvfO1fGYPBHlvjs2GBLw=="
+secured: "0cJhLcO2lAOYNtAydIQ+GzkY7ClD8L67q/+YNZW0R67lmnHYWhHEfa39bsDTcmpzTWhm2IdEEfc3/989Spkfhklv6nquflqPsVRQrshn1jtG3S6UPlw6uHVPGzm+CwHsz2kEihEimFLXQ/DzOquiqzFMZdClaufuMHeuNP7J7onGCtWeEDB7wA0qIxLHwPA54GloHhQtlbx0mfgahFEbSulLTKmqmb0jAB7YcpbdyhtHx2p/qhyyB+0+A2dIDRIe3g0pFbLRK0Ys4TFR0y4/c4FgPuHY8G9MYZIewuID1RwIwPLtNSm+tkGs9hFgFZr5xo8mc0InEF3CowUYG71asyNfjurysknyDtGV4bYy4Y8=;MMjHBqt9idWYh2dUpyJJQQ=="
 ---
 

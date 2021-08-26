@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/news/amp/Vos-to-keep-Trump-updated-
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Vos-to-keep-Trump-updated-on-election-16404028.php"
 type: article
 quality: 120
-heat: 340
+heat: 360
 published: true
 
 provider:
@@ -166,6 +166,20 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/6781629912225/2021/1/5984d1ea8cfbaef6c31dd8ba17df417d/v1.5/House-panel-investigating-Jan-6-attack-seeks-records-from-Trump-White-House.jpg"
         width: 800
         height: 534
+        isCached: true
+  - title: "Judge sanctions pro-Trump lawyers who brought ‘frivolous’ election fraud lawsuits"
+    excerpt: "By Tierney Sneed, CNN A federal judge ordered sanctions Wednesday for Sidney Powell, Lin Wood and several other lawyers who worked on Trump-aligned lawsuits seeking to challenge the results of the 2020 election."
+    publishedDateTime: 2021-08-26T03:55:00Z
+    webUrl: "https://localnews8.com/politics/cnn-us-politics/2021/08/25/judge-sanctions-pro-trump-lawyers-who-brought-frivolous-election-fraud-lawsuits/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 65
+    images:
+      - url: "https://localnews8.b-cdn.net/2021/06/Politics-logo-new_KIFIMIFI.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Robin Vos meets with Trump, vows to keep ex-president 'updated' on election investigation"
     excerpt: "Assembly Speaker Robin Vos, the Racine County Republican who ordered the investigation into Wisconsin's 2020 election said he is going to be keeping the former president — who has not"

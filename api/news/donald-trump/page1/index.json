@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-08-26-house-panel-probing-16-riot-seeks-host-of-trump-era-records.md",
-      "title": "House panel probing 1/6 riot seeks host of Trump-era records",
-      "excerpt": "The House committee investigating the January insurrection at the U.S. Capitol is demanding a host of records from Donald Trump's White House and several of his administration's intelligence and law enforcement agencies,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/38c2749944f7c0d74c96fd037408899c",
-      "originalUrl": "https://apnews.com/38c2749944f7c0d74c96fd037408899c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/afs-prod/media/33e8b2b0b95441e3b42c1dc58ddff80f/3000.jpeg",
-          "width": 3000,
-          "height": 2044,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-25T17:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-08-26-trump-slams-biden-over-catastrophic-border-disaster.md",
       "title": "Trump slams Biden over ‘catastrophic border disaster’",
       "excerpt": "President Biden is being ripped by his predecessor for creating a “catastrophic border disaster” as the Supreme Court says his administration may have violated federal law by dropping",
@@ -88,21 +45,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-26-lawyers-allied-with-trump-penalized-over-michigan-lawsuit-charlotte-observer.md",
-      "title": "Lawyers allied with Trump penalized over Michigan lawsuit | Charlotte Observer",
-      "excerpt": "Nine lawyers allied with former President Donald Trump face financial penalties and other sanctions in Michigan.",
+      "path": "_news/2021-08-25-apple-joins-lawsuit-regarding-trump-era-tariffs-on-chinese-products.md",
+      "title": "Apple joins lawsuit regarding Trump-era tariffs on Chinese products",
+      "excerpt": "Apple, Intel and Pfizer have joined 3,700 other U.S. businesses in their suit against the U.S. regarding Trump-era tariffs on $300 billion worth of Chinese products, reports Jurist. This lawsuit was first brought by HMTX Industries in September 2020 and initially targeted List 3 tariffs.",
       "sourceUrl": null,
-      "webUrl": "https://www.charlotteobserver.com/news/nation-world/national/article253747698.html",
-      "originalUrl": "https://www.charlotteobserver.com/news/nation-world/national/article253747698.html",
+      "webUrl": "https://www.mactech.com/2021/08/25/apple-joins-lawsuit-regarding-trump-era-tariffs-on-chinese-products/",
+      "originalUrl": "https://www.mactech.com/2021/08/25/apple-joins-lawsuit-regarding-trump-era-tariffs-on-chinese-products/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 155,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/c4cef625-20b7-4900-8d0e-b7aea9ac60c8/04971208-0b7e-48a6-9be9-aacd9ccfcccd/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://www.mactech.com/wp-content/uploads/2021/08/Lawsuit-image-1024x666.jpg",
+          "width": 1024,
+          "height": 666,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -110,13 +67,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.charlotteobserver.com/news/nation-world/national/article253747698.html",
-      "cdnAmpWebUrl": "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article253747698.html",
-      "publishedDateTime": "2021-08-25T16:40:00-07:00",
+      "ampWebUrl": "https://www.mactech.com/2021/08/25/apple-joins-lawsuit-regarding-trump-era-tariffs-on-chinese-products/amp/",
+      "cdnAmpWebUrl": "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2021/08/25/apple-joins-lawsuit-regarding-trump-era-tariffs-on-chinese-products/amp/",
+      "publishedDateTime": "2021-08-25T06:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Charlotte Observer",
-        "domain": "charlotteobserver.com",
+        "name": "MacTech",
+        "domain": "mactech.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -786,7 +743,7 @@
       "originalUrl": "https://www.houstonchronicle.com/news/article/Vos-to-keep-Trump-updated-on-election-16404028.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 340,
+      "heat": 360,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -829,7 +786,7 @@
       "originalUrl": "https://www.mirror.co.uk/news/us-news/donald-trump-gets-booed-rally-24815259",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -1123,7 +1080,7 @@
       "originalUrl": "https://www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for-the-first-time-in-4-years.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 315,
+      "heat": 335,
       "tags": null,
       "images": [
         {
@@ -1434,6 +1391,63 @@
         "name": "New York Post",
         "domain": "nypost.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-vivek-ramaswamy-blasts-twitters-staggering-hypocrisy-on-taliban-and-trump.md",
+      "title": "Vivek Ramaswamy blasts Twitter's 'staggering' hypocrisy on Taliban and Trump",
+      "excerpt": "Biotech CEO and ‘Woke Inc.’ author Vivek Ramaswamy criticized Twitter on Tuesday for allowing the Taliban to utilize their social media platform while censoring others, including former President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/vivek-ramaswamy-twitter-taliban-afghanistan-big-tech",
+      "originalUrl": "https://www.foxnews.com/media/vivek-ramaswamy-twitter-taliban-afghanistan-big-tech",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/vivek-ramaswamy-twitter-taliban-afghanistan-big-tech.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/vivek-ramaswamy-twitter-taliban-afghanistan-big-tech.amp",
+      "publishedDateTime": "2021-08-17T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

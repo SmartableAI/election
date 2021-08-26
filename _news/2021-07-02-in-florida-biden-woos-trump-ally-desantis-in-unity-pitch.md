@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E75KA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E75KA"
 type: article
 quality: 140
-heat: 1160
+heat: 1180
 published: true
 
 provider:
@@ -828,6 +828,20 @@ related:
       - url: "https://www.northcountrypublicradio.org/programs/images/Beat_Authority_logo_RnB_500.png"
         width: 500
         height: 500
+        isCached: true
+  - title: "Ron DeSantis’ support tepid among Florida voters, but better than Joe Biden’s"
+    excerpt: "Ron DeSantis barely above water with Florida voters. But that’s an improvement from last year, and it’s a better grade than Florida voters give President Joe Biden. Just 47% of registered Florida voters give DeSantis good marks on overall performance,"
+    publishedDateTime: 2021-08-25T19:38:00Z
+    webUrl: "https://floridapolitics.com/archives/453050-ron-desantis-support-tepid-among-florida-voters-but-better-than-joe-bidens/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 52
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/07/1000-54.jpeg"
+        width: 1000
+        height: 667
         isCached: true
 
 secured: "Tl9MQbMH1w58ebFAk2MSbvI6LHb376NhTDR80TY7iEzN6XUChqcvnay3K1AcsXs3zhf7bjnzo1fprBQEZlf774eVK33RMYjjMjqccGPAHWd7WusFfyBz+/CV+oKt4wu9WOsFV31R3nlCJq+kVHUgVT6Zpjy2trYejw1I++HpFe4jV8Ge0wrXzN2pgyCYc8CWeTF1CWF1oAC6Tq1I3GMk0MUqD2FWzVwmgaTjCgX1MOZlDxus0KQ/DNUpoKT2GSomBOfJgV8MSRhY4iRHei22FwHFUFj7PJsA9ysvRpBuw01Jgdih7S//jSzSfhbNZ+aWrqdDfse7fFThQr+WpKp0ZO3x5NC4DxN12jdln/BwdPQ=;c6duU6K0oBl+JgVXlqcgmw=="

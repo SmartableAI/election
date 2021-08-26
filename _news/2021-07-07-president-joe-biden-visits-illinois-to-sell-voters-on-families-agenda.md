@@ -825,6 +825,20 @@ related:
         width: 500
         height: 500
         isCached: true
+  - title: "Ron DeSantis’ support tepid among Florida voters, but better than Joe Biden’s"
+    excerpt: "Ron DeSantis barely above water with Florida voters. But that’s an improvement from last year, and it’s a better grade than Florida voters give President Joe Biden. Just 47% of registered Florida voters give DeSantis good marks on overall performance,"
+    publishedDateTime: 2021-08-25T19:38:00Z
+    webUrl: "https://floridapolitics.com/archives/453050-ron-desantis-support-tepid-among-florida-voters-but-better-than-joe-bidens/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 52
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/07/1000-54.jpeg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "WqqbRwdpfepeT7mkbuWAc63AZni4pbiq3tD29LXNQ4I4op3gHVEW+w/SPVUmBU924aXG2gSJ3ZbegkzIyINtppOCIhO3uIMRG7h9bJd+pmf3RfkxZ4jnyyxyKjgkhe4vdXtA+IYMAkr6Rg11yynKauQCIxeFKWgL2qkcwJreQZo3BFVraAsVX0cLOquxFWlznC3ef5c1cT5G0gR5Y1VBf8STXdO9aVnbRVpG8VjP0uZn9Q1VHxVFTi6YX9WMyQUMDGLl0HjublXN0Ji0R6jm/+pq5mBAmGqIweGGrCS3j0klKwZxJ6+tODLmmaRl0LJefPEZPkYF5jsNZPK+y5PiA60b5deGasq3DlGmwYmsPdM=;phnsWqz6xVe9WVPj2ls6TQ=="
 ---

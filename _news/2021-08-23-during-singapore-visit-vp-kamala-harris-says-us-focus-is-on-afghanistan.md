@@ -465,6 +465,22 @@ related:
         width: 1000
         height: 650
         isCached: true
+  - title: "Harris emphasizing human and worker rights in Vietnam"
+    excerpt: "Vice President Kamala Harris is turning her focus to worker rights and civil liberties as she closes out her visit to Southeast Asia."
+    publishedDateTime: 2021-08-26T05:07:00Z
+    webUrl: "https://www.ksat.com/news/politics/2021/08/26/harris-emphasizing-human-and-worker-rights-in-vietnam/"
+    ampWebUrl: "https://www.ksat.com/news/politics/2021/08/26/harris-emphasizing-human-and-worker-rights-in-vietnam/?outputType=amp"
+    cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/politics/2021/08/26/harris-emphasizing-human-and-worker-rights-in-vietnam/?outputType=amp"
+    type: article
+    provider:
+      name: KSAT
+      domain: ksat.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/NWVK6Z54LRE2FNV3X6BRJNJDC4.jpg"
+        width: 6000
+        height: 4000
+        isCached: true
   - title: "VP Kamala Harris to return to California to campaign for Newsom next week"
     excerpt: "WASHINGTON — Vice President Kamala Harris will campaign for Gov. Gavin Newsom next week as the Democratic Party rallies around the California governor in his recall battle. The vice president and former California senator will visit her home state next ..."
     publishedDateTime: 2021-08-20T14:09:00Z
@@ -496,6 +512,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/08/24/USAT/d511492f-ef8e-4620-888e-f9dbdbe46e98-AFP_9LK3P2.jpg?auto=webp&crop=7817,4398,x0,y281&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Vice President Kamala Harris emphasizing human and worker rights in Vietnam"
+    excerpt: "HANOI >> Vice President Kamala Harris will turn her attention to issues surrounding worker rights and civil liberties Thursday as she closes out her visit to Southeast Asia, elevating activists in a region of the world known for its challenges and restrictions to human rights."
+    publishedDateTime: 2021-08-26T01:22:00Z
+    webUrl: "https://www.staradvertiser.com/2021/08/25/news/vice-president-kamala-harris-emphasizing-human-and-worker-rights-in-vietnam/"
+    ampWebUrl: "https://www.staradvertiser.com/2021/08/25/news/vice-president-kamala-harris-emphasizing-human-and-worker-rights-in-vietnam/amp/"
+    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2021/08/25/news/vice-president-kamala-harris-emphasizing-human-and-worker-rights-in-vietnam/amp/"
+    type: article
+    provider:
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 73
+    images:
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2021/08/web1_11646672-19cff69bb6d34cc0ac4e5f99dc05c66d.jpg"
+        width: 760
+        height: 483
         isCached: true
   - title: "VP Kamala Harris vows to back Southeast Asia allies against China 'coercion'"
     excerpt: "Vice President Kamala Harris in Singapore on Tuesday reaffirmed the United States' commitment to its allies in Southeast Asia in the face of China's aggression in the region."
@@ -608,6 +640,22 @@ related:
       - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/lv-comp-kamala-harris-impeached-Afghanistan.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Analysis: Kamala Harris backed Afghan exit despite intel warning Taliban would abuse women again"
+    excerpt: "Just 12 days before President Joe Biden ordered the withdrawal of U.S. forces in Afghanistan, the U.S. intelligence community warned the White House that allowing the Taliban to control the"
+    publishedDateTime: 2021-08-25T14:35:00Z
+    webUrl: "https://www.thecentersquare.com/national/analysis-kamala-harris-backed-afghan-exit-despite-intel-warning-taliban-would-abuse-women-again/article_482a54f6-05a9-11ec-b11d-b7e0d604c261.html"
+    ampWebUrl: "https://www.thecentersquare.com/national/analysis-kamala-harris-backed-afghan-exit-despite-intel-warning-taliban-would-abuse-women-again/article_482a54f6-05a9-11ec-b11d-b7e0d604c261.amp.html"
+    cdnAmpWebUrl: "https://www-thecentersquare-com.cdn.ampproject.org/c/s/www.thecentersquare.com/national/analysis-kamala-harris-backed-afghan-exit-despite-intel-warning-taliban-would-abuse-women-again/article_482a54f6-05a9-11ec-b11d-b7e0d604c261.amp.html"
+    type: article
+    provider:
+      name: The Center Square
+      domain: thecentersquare.com
+    quality: 62
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/2/69/269f8034-ec40-11e8-8ff4-bfc48e16d0a2/5bf3282b1fd6d.image.jpg"
+        width: 1000
+        height: 768
         isCached: true
   - title: "Kamala Harris under fire for LAUGHING while being grilled on Afghanistan crisis as she tanks in polls"
     excerpt: "KAMALA Harris has been slammed for laughing while being grilled on the Afghanistan crisis as the VP’s approval numbers tank. Footage from a Friday night chat with reporters has shown the"
@@ -822,6 +870,22 @@ related:
         width: 1200
         height: 707
         isCached: true
+  - title: "Kamala Harris dodges ‘Havana Syndrome’ question after being accused of looking ‘incompetent & uncaring’ on Afghanistan"
+    excerpt: "KAMALA Harris has been slammed for dodging questions about “Havana Syndrome” and Afghanistan after she arrived in Vietnam.  The vice president, who landed several hours late on Tuesday, ignored"
+    publishedDateTime: 2021-08-25T16:52:00Z
+    webUrl: "https://www.the-sun.com/news/3539403/kamala-harris-dodges-havana-syndrome-question-vietnam/"
+    ampWebUrl: "https://www.the-sun.com/news/3539403/kamala-harris-dodges-havana-syndrome-question-vietnam/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3539403/kamala-harris-dodges-havana-syndrome-question-vietnam/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 51
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/lv-comp-kamala-harris-dodges-question.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Kamala Harris claims she had ‘key role’ in removing US troops from Afghanistan – but now silent since Taliban took power"
     excerpt: "KAMALA Harris claimed she had a “key role” in removing US troops from Afghanistan – but is conveniently staying silent since the Taliban took control of the war-torn country. The"
     publishedDateTime: 2021-08-16T19:49:00Z
@@ -879,20 +943,6 @@ related:
       - url: "https://www.bizpacreview.com/wp-content/uploads/2021/08/SG-Kamala-Harris-1200x630.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Analysis: Kamala Harris backed Afghan exit despite intel warning Taliban would abuse women again"
-    excerpt: "Just 12 days before President Joe Biden ordered the withdrawal of U.S. forces in Afghanistan, the U.S. intelligence community warned the White House that allowing the Taliban to control the"
-    publishedDateTime: 2021-08-25T14:35:00Z
-    webUrl: "https://www.djournal.com/news/national/analysis-kamala-harris-backed-afghan-exit-despite-intel-warning-taliban-would-abuse-women-again/article_cf31fa7e-e1cc-59df-8c6c-4d267483bd58.html"
-    type: article
-    provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 42
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/7/16/716c8fc9-28d2-587f-8fa2-c437abbef47c/60d4c1ae6ec3e.image.jpg?crop=1000%2C563%2C0%2C102&resize=1000%2C563&order=crop%2Cresize"
-        width: 1000
-        height: 563
         isCached: true
   - title: "US laser focused on evacuation in Afghanistan, grateful to partners like Singapore: US V-P Kamala Harris"
     excerpt: "She expressed how grateful the US is to its international partners for working with it to evacuate people from Afghanistan.. Read more at straitstimes.com."
