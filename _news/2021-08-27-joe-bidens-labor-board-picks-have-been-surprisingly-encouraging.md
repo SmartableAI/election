@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden’s Labor Board Picks Have Been Surprisingly Encouraging"
 excerpt: "Biden's political history is anything but pro-labor. But his moves thus far to strengthen workers' rights through the National Labor Relations Board have actually been very promising."
-publishedDateTime: 2021-08-26T21:14:00Z
-originalUrl: "https://www.jacobinmag.com/2021/08/workers-rights-national-labor-relations-board-biden-administration-union-law"
-webUrl: "https://www.jacobinmag.com/2021/08/workers-rights-national-labor-relations-board-biden-administration-union-law"
+publishedDateTime: 2021-08-27T02:40:00Z
+originalUrl: "https://jacobinmag.com/2021/08/workers-rights-national-labor-relations-board-biden-administration-union-law/"
+webUrl: "https://jacobinmag.com/2021/08/workers-rights-national-labor-relations-board-biden-administration-union-law/"
 type: article
 quality: 55
 heat: -1
@@ -778,6 +778,6 @@ related:
       domain: avvo.com
     quality: 14
 
-secured: "9kQKjp2viEgK3SrIvTrYxQY/TZJyTx/VbMKYRRHf7HnKePlcCIIqQAYafupovIck2pBqAgwTqsMBcMlOE+LkyjxDvaOTFQ6JaPHRvIDbJ0YFLZ5VzJYJ9S7iV2UzOc68uIggt08xRMZ3HWp04/vQhqVZBIqlj1DQjRuQvBx9uXLfyhELmv9Y+u5zdzvjRcdpLWePvHaUblwm55wf53HupOJVi/yXNgV5L750bQGK3gwBXZpK8pZ/0XpWMb5LK7rU4kudLHu5Utvd9+CkdpyQLRIIzAMNS6zbiwL/WEin75DS50OyW19/sVeso3/stilzi6dE3jQK6To03okw5x3kahqu4Be/1I0+ct1RsddTkvcc8LqQUg+qGqEghcIuBvVDoIG2fGqbzEKA9nCVZYtzgWPWz9T7FqS6SkfeZkXFyv/BbCWJoZaehc8C62Lr1pyMj9DeIsfCxArPl0bxYy9DAXtLtRTQtyYpRO2U355eB55BcsxJJIvjqTP+uD8GckI40+YrSqMIzLPqUdmwFAq+Ag==;yJmjM2O99MMHrjxyKvkrVQ=="
+secured: "HZPw300w354GcbwVpkCexVgIQDAOn5405PmPfK0CICKud0lZEpnpx+fvJtggUDAWf+1sRGsTCwnSdhx61CWdMo2Uls11mOl0jY5EVpmZNpiE0pDTm6Zw8EVAq0oPHvJ4GnvUNfUiy2b95mpzmpU+Tto4u41i+IgM5noY2YIheVLkWsfkMQUqlPiNPyVQDwUxRw9d26zNV5iSoactWR86TgxSgGzzqtAWvVOrfkFmUum6XYLTRsG7I7rrxkFklRqnrAppJSwiLuyfSYp8/ScQ+XEed4gs/macPgbaZnNaKXu0FIRLNsMVZWoWfoNrvB/6f736G0PVqTGS1FoB1GcA8LSPwgnqpVtz8pueXRigUpo=;dkS7r9ZLd3ExhZbLym7SUg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6092540/naftali-bennett-joe-biden/"
 webUrl: "https://time.com/6092540/naftali-bennett-joe-biden/"
 type: article
 quality: 101
-heat: 101
+heat: 121
 published: true
 
 provider:
@@ -27,6 +27,19 @@ images:
     width: 6325
     height: 4217
     isCached: true
+
+related:
+  - title: "Biden tells Israeli PM he’ll try diplomacy first with Iran"
+    excerpt: "Biden made the comments as the two sat down for their first face-to-face meeting since Bennett was sworn-in as prime minister."
+    publishedDateTime: 2021-08-27T21:34:00Z
+    webUrl: "https://www.courthousenews.com/biden-tells-israeli-pm-hell-try-diplomacy-first-with-iran/"
+    ampWebUrl: "https://www.courthousenews.com/biden-tells-israeli-pm-hell-try-diplomacy-first-with-iran/amp/"
+    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/biden-tells-israeli-pm-hell-try-diplomacy-first-with-iran/amp/"
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 55
 
 secured: "fubzT2gRgLxH/zBTt14ge6bQzcZCHh1poDANjgvn84hUmEexMoFlwHeMmGuAlRTqyYOz8T/Ya6/akK2PQawNdxWxGl3VG3QXVDI02QE8/vdmkqn1VBuZ2X0hpPz2TXS129DPggzOGazosxztUmlakibdPtA2xy8KDe7fHa1TK0+35HTAkilpN8zvtWSc83rAtSKwbn0RoS5mf5hB/yZCkSn/gSHZZ5Zm/xNQdm8zXqaKqFKSkh/kSJS5FNpO5ADYmCjN/NRvoHnFnT2rqCjUd5wo7bhQBXnDUIOP6qxiSvmcN//glDkHS3CxpV3FOcwuEn8rL36/uI3jTvc1kXAvgSy+8BS0MnOuqUI0atyaZlRcWdbYSCl0rK3gBb9QTYlk5iVMsxXztrqvM4VuaE63nzYzjY/qfvpWb/cDIoOpjYoaMCPWbmDviT9KIfedcGTnrNha0gNaT6WaHEI2iiUu3pigm2BFpd5bXtYclXOPaN3FzQK+uXjrIMeeUY0llFN0kTw++6VLQO6CR0yr9p4z+A==;wKYD+pTnBAqUkbVwLfXnQw=="
 ---

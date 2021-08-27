@@ -215,6 +215,22 @@ related:
         width: 800
         height: 535
         isCached: true
+  - title: "Joe ‘Diplomacy Is Back’ Biden Takes Wrecking Ball to US-UK ‘Special Relationship’"
+    excerpt: "Biden has blitzed the United States’ “special relationship” with the United Kingdom. The U.S. and U.K. have been BFFs since soon after memories of the War of 1812 faded. America and Britain jointly defeated Kaiser Wilhelm II,"
+    publishedDateTime: 2021-08-27T19:06:00Z
+    webUrl: "https://www.dailysignal.com/2021/08/27/joe-diplomacy-is-back-biden-takes-wrecking-ball-to-us-uk-special-relationship/"
+    ampWebUrl: "https://www.dailysignal.com/2021/08/27/joe-diplomacy-is-back-biden-takes-wrecking-ball-to-us-uk-special-relationship/amp/"
+    cdnAmpWebUrl: "https://www-dailysignal-com.cdn.ampproject.org/c/s/www.dailysignal.com/2021/08/27/joe-diplomacy-is-back-biden-takes-wrecking-ball-to-us-uk-special-relationship/amp/"
+    type: article
+    provider:
+      name: The Daily Signal
+      domain: dailysignal.com
+    quality: 70
+    images:
+      - url: "https://www.dailysignal.com/wp-content/uploads/210827_BidenJohnson-scaled.jpg"
+        width: 2560
+        height: 1331
+        isCached: true
   - title: "Boris Johnson 'won't disagree with Joe Biden on anything'"
     excerpt: "The UK Prime Minister has said he is \"not going to disagree with his US counterpart on anything\" ahead of the G7 summit in Cornwall. He was responding to the US President's joke that they both married \"way above their station\"."
     publishedDateTime: 2021-06-10T16:33:00Z

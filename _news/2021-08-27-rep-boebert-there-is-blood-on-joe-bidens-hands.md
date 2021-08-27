@@ -3,8 +3,8 @@ category: news
 title: "Rep. Boebert: 'There is Blood on Joe Biden's Hands'"
 excerpt: "In the wake of the bombing at the Kabul airport in Afghanistan that killed at least 12 U.S. Marines and an unconfirmed number of civilians, House Rep. Lauren Boebert (R-Colo.) said President Joe Biden has blood on his hands for failing to competently plan and execute the withdrawal from Afghanistan."
 publishedDateTime: 2021-08-26T17:39:00Z
-originalUrl: "https://cnsnews.com/index.php/article/washington/michael-w-chapman/rep-boebert-there-blood-joe-bidens-hands"
-webUrl: "https://cnsnews.com/index.php/article/washington/michael-w-chapman/rep-boebert-there-blood-joe-bidens-hands"
+originalUrl: "https://www.cnsnews.com/article/washington/michael-w-chapman/rep-boebert-there-blood-joe-bidens-hands"
+webUrl: "https://www.cnsnews.com/article/washington/michael-w-chapman/rep-boebert-there-blood-joe-bidens-hands"
 type: article
 quality: 55
 heat: 55
@@ -24,6 +24,6 @@ images:
     height: 466
     isCached: true
 
-secured: "2C3JyrcU7f5U23fd6gwP1Cl7OAZ9lOrAVRfwaEPKkkplVjOxv/GdTkjjl9sZGOtsbmewLPi+ekqCfbOiIv1NClIGwSkc+MQGb8tqySMTGQIc8Z7qWZyaTl5igI4VC7Ac8HK2XVGwptsmeJs6i3VPX7+JWOYgHqJa2vVzk3EvtikczBN/HO7qklO0mRqNP/Yy68AnB6R6SeCJh5e9veuAu7DfOLFtCT0XWd3Q3Xc22QH1bUpc+4m9jDbg3dh+DviGATQQG2PI8puoqC8Egm1qp07SGgPrwgoFIXgAx0DYkj3cdxbRm4kivTFzc4yGNtmJK9m1O0vWb3ZwXZ7AieSJWdrn0FV/xOHv256EsYFDeUw=;yGIB2OZUNFSItbyKW6/haQ=="
+secured: "Kc2MlfBrM5RaIZ7FB/Bg98wQ5JqU7jeUV8FdPp4sKRw5RwdmWhRArpR/WeNbrvPdjGXexsVMCEBE1oAuHwPMZZ+QEnPhf6I1BTLMd3kLABDfD7SDxdWtmIgdi+vr3hesMKmG3qaCmHb0v9xSJ4HRkbQPRqzCPzWtnDi6xhemn6pA8j1hnvcEggO4gnZVm1lzcO+C58jTnOks4CnYoibOB4dNURVeH92FEb+XVJdjF3j/r7u+3tZBjarD1CppgPkFaR5AHd6FiCJ/6ygTQ75rPE24ZLFpQjQwp8wiftjUOriouoUK0lUy5h4jolc0Yt3hBtlPdBHgXze7lU+630o77nv7LLur6vg1mBMGBSx0JN0=;qFcdBYtf6GSJc1KaoqD39Q=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-biden-afghanistan-dec
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-biden-afghanistan-decision-courageous-trump-blame.amp"
 type: article
 quality: 201
-heat: 2481
+heat: 2501
 published: true
 
 provider:
@@ -1752,6 +1752,17 @@ related:
     webUrl: "https://www.washingtonexaminer.com/news/trump-abandoning-afghan-bagram-airfield-mistake"
     ampWebUrl: "https://www.washingtonexaminer.com/news/trump-abandoning-afghan-bagram-airfield-mistake?_amp=true"
     cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/trump-abandoning-afghan-bagram-airfield-mistake?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
+  - title: "House GOP will investigate Biden's Afghanistan withdrawal"
+    excerpt: "Top House Republicans revealed their intention to investigate America’s ill-planned military withdrawal from Afghanistan, sending President Joe Biden a letter Wednesday and telling his administration to preserve all relevant records."
+    publishedDateTime: 2021-08-27T21:57:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/house-gop-investigate-afghan-withdrawal"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/house-gop-investigate-afghan-withdrawal?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/house-gop-investigate-afghan-withdrawal?_amp=true"
     type: article
     provider:
       name: Washington Examiner

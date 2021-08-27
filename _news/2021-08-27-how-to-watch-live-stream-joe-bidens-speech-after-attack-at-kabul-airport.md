@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/how-watch-live-stream-joe-bidens-speech-aft
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-watch-live-stream-joe-bidens-speech-after-explosions-kabul-airport-1623378?amp=1"
 type: article
 quality: 123
-heat: 403
+heat: 423
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/21/42/55/21375845/3/ratio3x2_400.jpg"
         width: 400
         height: 267
+        isCached: true
+  - title: "The Latest: Biden told another Kabul terror attack 'likely'"
+    excerpt: "President Joe Biden’s national security team has told the president that another terror attack is “likely” in Kabul, and that “maximum force protection” measures are being taken at the airport in the Afghan capital."
+    publishedDateTime: 2021-08-27T21:47:00Z
+    webUrl: "https://www.nhregister.com/news/article/The-Latest-Pakistan-asks-hotels-to-prepare-for-16415532.php"
+    ampWebUrl: "https://www.nhregister.com/news/amp/The-Latest-Pakistan-asks-hotels-to-prepare-for-16415532.php"
+    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/The-Latest-Pakistan-asks-hotels-to-prepare-for-16415532.php"
+    type: article
+    provider:
+      name: New Haven Register
+      domain: nhregister.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Seattle Storm Visit President Joe Biden at White House to Celebrate 2020 WNBA Title"
     excerpt: "The Seattle Storm were honored Monday at the White House by President Joe Biden to commemorate their 2020 WNBA championship. They were the first WNBA"

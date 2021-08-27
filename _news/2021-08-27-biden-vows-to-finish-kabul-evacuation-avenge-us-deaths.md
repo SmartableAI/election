@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Biden vows to finish Kabul evacuation, avenge US deaths"
-excerpt: "President Joe Biden vowed Thursday to complete the evacuation of American citizens and others from Afghanistan despite the day's deadly suicide bomb attack at the Kabul airport. He promised to avenge the deaths of 13 U."
-publishedDateTime: 2021-08-27T11:40:00Z
-originalUrl: "https://www.mysanantonio.com/news/article/US-says-1-500-Americans-may-still-await-Kabul-16412711.php"
-webUrl: "https://www.mysanantonio.com/news/article/US-says-1-500-Americans-may-still-await-Kabul-16412711.php"
-ampWebUrl: "https://www.mysanantonio.com/news/amp/US-says-1-500-Americans-may-still-await-Kabul-16412711.php"
-cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/US-says-1-500-Americans-may-still-await-Kabul-16412711.php"
+excerpt: "President Joe Biden is vowing to avenge the deaths of 13 American troops and dozens of Afghans at the Kabul airport, an attack that thrust the White House deeper into crisis over a chaotic and deadly end to a 20-year war."
+publishedDateTime: 2021-08-27T08:48:00Z
+originalUrl: "https://www.greenwichtime.com/news/article/Biden-vows-to-finish-Kabul-evacuation-avenge-US-16415469.php"
+webUrl: "https://www.greenwichtime.com/news/article/Biden-vows-to-finish-Kabul-evacuation-avenge-US-16415469.php"
+ampWebUrl: "https://www.greenwichtime.com/news/amp/Biden-vows-to-finish-Kabul-evacuation-avenge-US-16415469.php"
+cdnAmpWebUrl: "https://www-greenwichtime-com.cdn.ampproject.org/c/s/www.greenwichtime.com/news/amp/Biden-vows-to-finish-Kabul-evacuation-avenge-US-16415469.php"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: My San Antonio
-  domain: mysanantonio.com
+  name: Greenwich Time
+  domain: greenwichtime.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://s.hdnux.com/photos/01/21/50/02/21397664/3/ratio3x2_400.jpg"
-    width: 400
-    height: 267
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -74,6 +74,22 @@ related:
       - url: "https://thumb.spokesman.com/yCDjKF50EyahXZ7d0oiEhxzLIxE=/480x0/media.spokesman.com/photos/2021/08/18/611dc5982dd25.hires.jpg"
         width: 480
         height: 357
+        isCached: true
+  - title: "The utter ridiculousness of calls for Joe Biden to resign"
+    excerpt: "None of it is grounds for Biden to resign his office -- as Republican elected officials fell all over themselves to demand even as the casualties f"
+    publishedDateTime: 2021-08-27T14:01:00Z
+    webUrl: "https://www.wthitv.com/content/national/575185862.html"
+    ampWebUrl: "http://www.wthitv.com/templates/AMP?contentID=575185862"
+    cdnAmpWebUrl: "https://www-wthitv-com.cdn.ampproject.org/c/www.wthitv.com/templates/AMP?contentID=575185862"
+    type: article
+    provider:
+      name: WTHI-TV
+      domain: wthitv.com
+    quality: 75
+    images:
+      - url: "http://media.heartlandtv.com/designimages/wthi-story-default-image-640x380.png"
+        width: 640
+        height: 380
         isCached: true
   - title: "Israeli PM to make case to Biden against Iran nuclear pact"
     excerpt: "President Joe Biden and Israeli Prime Minister Naftali Bennett have postponed their White House meeting as Biden focused his attention on dealing with the aftermath of deadly explosions near the Kabul airport that targeted U."
@@ -135,6 +151,20 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Biden announces pay raises for federal employees"
+    excerpt: "President Joe Biden on Friday announced all federal civilian employees would receive an average 2.7% pay raise, consistent with the increases he had proposed in his 2022 budget."
+    publishedDateTime: 2021-08-27T21:51:00Z
+    webUrl: "https://www.stripes.com/theaters/us/2021-08-27/pay-raises-federal-workers-biden-2689625.html"
+    type: article
+    provider:
+      name: Stars and Stripes
+      domain: stripes.com
+    quality: 55
+    images:
+      - url: "https://www.stripes.com/incoming/ebwk6l-payraise-2.jpg/alternates/LANDSCAPE_480/payraise%20%282%29.jpg"
+        width: 480
+        height: 299
+        isCached: true
   - title: "Joe Biden spoke to the G7 a sum total of 7 minutes. Pure propaganda, photo-op."
     excerpt: "Joe Biden acted like his G7 meeting was a success, but in reality it left every other world leader feeling disappointed in America."
     publishedDateTime: 2021-08-25T12:49:00Z
@@ -161,6 +191,6 @@ related:
       domain: seattletimes.com
     quality: 39
 
-secured: "ZqTvMNA3IAcTVIH1DXtLvxAUo1cjGTpgczosVa9U3FgTgcSVbAFzmID58LtVXHNo3rnNN+PvfZ8OCJJp+vm0dzGofS3btoJmXYHi+VZTGbePm70kEeVsoLm5b/SYv6qtAdtB+3K5+aH7Rd/F9gTXa4JBMWX119C9rVC1Wjv8i2alnNM2L0ptTx18N1Dv2XPhoL24zRT4TNH79udWwT7PK7Ty8sGlgjmutNKVY8ySAH4tQZ1tAOrPxnSEYZ6OqFMLQTKi7/WGW4EouCUBrKsdX/1JvVsUvsuaUpgrh7dqRrIo+ZA8I9Hj2aFRPJXHInuFh2tyMTYzkCsG9EVO1jgAxIqbn4V+IgMah650nQiaxyQ=;Y8GW3y5INzaW3vCJjSIXnA=="
+secured: "R+KDHdoWmvWzb+E01vxFQukPhSo9s5QnEMGZEnVA7aCKD+dyc53JlPNJWbRIA0dKpSZ7JQYQ5lwyPUN2qtoAlG/zYTWYgCx9l6/eZHnpJ+fLzz9LsyLiEVACQwRRR5ZOwrueNftkTGSATp9nljr25yZKr/V44mfVzNjRFrc4eJb4PXGiHj6IbdOleOnGmpplFyYK2tN2VLuTNVM3w+o6S1vlJOIc5V713VG+idTWcsasjLkR9rFmDD74/5ccz0m86zBTpSyd5TnVVxPNr1nbgJqSp26iHwkrRjQsl2+2dwDqB/geNbV4p/qpfLZiO+HXTcPFWQ7e2f+/+X8y92kKSXPT+C1h8vUjisnHyDumy2M=;FYeiMF6CKKJOsBvJoTzizw=="
 ---
 

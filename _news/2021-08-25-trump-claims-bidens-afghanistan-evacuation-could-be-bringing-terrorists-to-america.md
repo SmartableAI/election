@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-claims-biden-bringing-afghan-t
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-biden-bringing-afghan-terrorists-to-the-us-2021-8?amp"
 type: article
 quality: 133
-heat: 2113
+heat: 2133
 published: true
 
 provider:
@@ -1184,6 +1184,20 @@ related:
       - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/1859035b-54f8-4f10-990a-2867f9869d12.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Josh Hawley Was in Favor of Withdrawing From Afghanistan Until Joe Biden Did It"
+    excerpt: "For a hot minute, the Missouri senator and insurrection advocate was a critic of the forever war. But something changed!"
+    publishedDateTime: 2021-08-27T15:57:00Z
+    webUrl: "https://newrepublic.com/article/163458/josh-hawley-withdrawal-afghanistan-resign"
+    type: article
+    provider:
+      name: New Republic
+      domain: newrepublic.com
+    quality: 51
+    images:
+      - url: "https://images.newrepublic.com/f60a48f1889fc1317a849ab127be88685256e7a4.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg"
+        width: 1109
+        height: 577
         isCached: true
   - title: "Joe Biden Afghanistan crisis: POTUS expects around 50,000 Afghans to be flown out"
     excerpt: "US President Joe Biden continues to face criticism and backlash over the withdrawal of the US from Afghanistan as the Taliban took over. In a recent interview, Biden revealed that he had expected the withdrawal from"

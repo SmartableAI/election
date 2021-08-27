@@ -1195,6 +1195,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Josh Hawley Was in Favor of Withdrawing From Afghanistan Until Joe Biden Did It"
+    excerpt: "For a hot minute, the Missouri senator and insurrection advocate was a critic of the forever war. But something changed!"
+    publishedDateTime: 2021-08-27T15:57:00Z
+    webUrl: "https://newrepublic.com/article/163458/josh-hawley-withdrawal-afghanistan-resign"
+    type: article
+    provider:
+      name: New Republic
+      domain: newrepublic.com
+    quality: 51
+    images:
+      - url: "https://images.newrepublic.com/f60a48f1889fc1317a849ab127be88685256e7a4.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg"
+        width: 1109
+        height: 577
+        isCached: true
   - title: "Dan Bongino demands Joe Biden’s resignation after ‘colossal failure’ in Afghanistan as president’s approval rating drops"
     excerpt: "DAN Bongino has insisted Joe Biden must “resign immediately” as the President’s approval ratings slump in the midst of a tirade of backlash over his handling of the Afghanistan"
     publishedDateTime: 2021-08-22T17:17:00Z

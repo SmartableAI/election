@@ -676,8 +676,8 @@ related:
     quality: 55
   - title: "Joe Biden’s Labor Board Picks Have Been Surprisingly Encouraging"
     excerpt: "Biden's political history is anything but pro-labor. But his moves thus far to strengthen workers' rights through the National Labor Relations Board have actually been very promising."
-    publishedDateTime: 2021-08-26T21:14:00Z
-    webUrl: "https://www.jacobinmag.com/2021/08/workers-rights-national-labor-relations-board-biden-administration-union-law"
+    publishedDateTime: 2021-08-27T02:40:00Z
+    webUrl: "https://jacobinmag.com/2021/08/workers-rights-national-labor-relations-board-biden-administration-union-law/"
     type: article
     provider:
       name: Jacobin

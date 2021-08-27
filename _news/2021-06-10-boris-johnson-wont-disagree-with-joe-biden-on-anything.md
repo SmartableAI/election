@@ -229,6 +229,22 @@ related:
         width: 800
         height: 535
         isCached: true
+  - title: "Joe ‘Diplomacy Is Back’ Biden Takes Wrecking Ball to US-UK ‘Special Relationship’"
+    excerpt: "Biden has blitzed the United States’ “special relationship” with the United Kingdom. The U.S. and U.K. have been BFFs since soon after memories of the War of 1812 faded. America and Britain jointly defeated Kaiser Wilhelm II,"
+    publishedDateTime: 2021-08-27T19:06:00Z
+    webUrl: "https://www.dailysignal.com/2021/08/27/joe-diplomacy-is-back-biden-takes-wrecking-ball-to-us-uk-special-relationship/"
+    ampWebUrl: "https://www.dailysignal.com/2021/08/27/joe-diplomacy-is-back-biden-takes-wrecking-ball-to-us-uk-special-relationship/amp/"
+    cdnAmpWebUrl: "https://www-dailysignal-com.cdn.ampproject.org/c/s/www.dailysignal.com/2021/08/27/joe-diplomacy-is-back-biden-takes-wrecking-ball-to-us-uk-special-relationship/amp/"
+    type: article
+    provider:
+      name: The Daily Signal
+      domain: dailysignal.com
+    quality: 70
+    images:
+      - url: "https://www.dailysignal.com/wp-content/uploads/210827_BidenJohnson-scaled.jpg"
+        width: 2560
+        height: 1331
+        isCached: true
   - title: "3 takeaways from President Joe Biden's first G7 summit"
     excerpt: "When President Joe Biden and his aides were planning his visit to the Cornish coast this weekend, many -- including the President -- viewed it as something of a homecoming."
     publishedDateTime: 2021-06-13T17:37:00Z
