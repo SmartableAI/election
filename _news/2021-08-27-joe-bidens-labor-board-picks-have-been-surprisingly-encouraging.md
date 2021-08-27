@@ -57,6 +57,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Joe Biden’s potential Jimmy Carter moment"
+    excerpt: "In Joe Biden’s remarks following the Kabul terrorist attack on Thursday, he concluded: “Ladies and gentlemen, after 20 years it is time to leave.” The moment was"
+    publishedDateTime: 2021-08-27T00:07:00Z
+    webUrl: "https://www.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb"
+    ampWebUrl: "https://amp.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 125
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6087e8e5-ad77-46e6-a635-ea4f4d045dc9.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Joe Biden announces Covid booster shots from September – video"
     excerpt: "President says anyone who was fully vaccinated eight months prior will be eligible"
     publishedDateTime: 2021-08-19T02:23:00Z
@@ -647,6 +663,17 @@ related:
         width: 1024
         height: 676
         isCached: true
+  - title: "Biden to meet with governors willing to help Afghan refugees"
+    excerpt: "President Joe Biden is meeting Thursday with bipartisan governors from across the U.S. who have expressed interest in helping resettle Afghans fleeing their country."
+    publishedDateTime: 2021-08-27T03:54:00Z
+    webUrl: "https://www.kentucky.com/news/business/article253752188.html"
+    ampWebUrl: "https://amp.kentucky.com/news/business/article253752188.html"
+    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/article253752188.html"
+    type: article
+    provider:
+      name: Lexington Herald Leader
+      domain: kentucky.com
+    quality: 55
   - title: "Ron DeSantis slams Joe Biden ‘lack of leadership’ at event highlighting COVID-19 treatment"
     excerpt: "Ron DeSantis turned his attention from COVID-19 to the White House. DeSantis aired grievances yet again about a perceived “lack of leadership” from President Joe Biden, showing that even at an event focused on the virus,"
     publishedDateTime: 2021-08-19T18:28:00Z

@@ -2240,6 +2240,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "N.J. hospitals getting extra $150M as Biden administration reverses Trump actions"
+    excerpt: "The Biden administration reversed two administrative actions under the Trump administration that penalized New Jersey’s hospitals."
+    publishedDateTime: 2021-08-27T00:28:00Z
+    webUrl: "https://www.nj.com/politics/2021/08/nj-hospitals-getting-extra-150m-as-biden-administration-reverses-trump-actions.html"
+    ampWebUrl: "https://www.nj.com/politics/2021/08/nj-hospitals-getting-extra-150m-as-biden-administration-reverses-trump-actions.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/politics/2021/08/nj-hospitals-getting-extra-150m-as-biden-administration-reverses-trump-actions.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 85
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/6SSTSPNS45E5ZEBZ57EPL6IE4E.png"
+        width: 590
+        height: 379
+        isCached: true
   - title: "How Joe Biden's Afghanistan failure could let Donald Trump back in the White House"
     excerpt: "JOE BIDEN'S response to the crisis in Afghanistan has seen his popularity plummet in America and worldwide, as billions of dollars and hundreds of civilian and service deaths failed to prevent the Taliban from resurging."
     publishedDateTime: 2021-08-22T06:26:00Z

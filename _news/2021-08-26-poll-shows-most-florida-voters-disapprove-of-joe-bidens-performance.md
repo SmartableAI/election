@@ -3,23 +3,23 @@ category: news
 title: "Poll shows most Florida voters disapprove of Joe Biden’s performance"
 excerpt: "A majority of Florida voters disapprove of President Joe Biden’s performance. The Quinnipiac University Poll found 40% of Florida voters approve of Biden’s performance, with 53% disapproving. Views of his COVID-9 response were better."
 publishedDateTime: 2021-08-25T20:59:00Z
-originalUrl: "https://www.sun-sentinel.com/news/politics/fl-ne-biden-approval-florida-q-poll-august-2021-20210825-ibuwjcvuefah7gcx5sbn25fmey-story.html"
-webUrl: "https://www.sun-sentinel.com/news/politics/fl-ne-biden-approval-florida-q-poll-august-2021-20210825-ibuwjcvuefah7gcx5sbn25fmey-story.html"
+originalUrl: "https://www.orlandosentinel.com/politics/fl-ne-biden-approval-florida-q-poll-august-2021-20210825-ibuwjcvuefah7gcx5sbn25fmey-story.html"
+webUrl: "https://www.orlandosentinel.com/politics/fl-ne-biden-approval-florida-q-poll-august-2021-20210825-ibuwjcvuefah7gcx5sbn25fmey-story.html"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Sun Sentinel
-  domain: sun-sentinel.com
+  name: Orlando Sentinel
+  domain: orlandosentinel.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.sun-sentinel.com/resizer/fd0A7vVARWikIwoJnZ2wJbRNy5A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WWLTWUO72FBD4H6OPFY4HJPBTQ.jpg"
+  - url: "https://www.orlandosentinel.com/resizer/fd0A7vVARWikIwoJnZ2wJbRNy5A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WWLTWUO72FBD4H6OPFY4HJPBTQ.jpg"
     width: 1200
     height: 800
     isCached: true
@@ -57,6 +57,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "President Joe Biden Proclaims Thursday, 26, 2021 as Women’s Equality Day"
+    excerpt: "On President Joe Biden proclaimed August 26, 2021 as Women’s Equality Day. Today, we celebrate Women’s Equality Day, a reminder not only of the progress women have won through the years, but of the important work that remains to be done."
+    publishedDateTime: 2021-08-26T21:01:00Z
+    webUrl: "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/32707-president-joe-biden-proclaims-thursday-26-2021-as-women-s-equality-day"
+    type: article
+    provider:
+      name: Sierra Sun Times
+      domain: goldrushcam.com
+    quality: 54
+    images:
+      - url: "https://goldrushcam.com/sierrasuntimes/images/2020/white-house-gov.jpg"
+        width: 679
+        height: 357
+        isCached: true
   - title: "Storm commemorates 2020 WNBA championship with President Joe Biden at White House"
     excerpt: "Before leaving the nation's capital, the Storm stopped by the White House on Monday, marking a return to normalcy when sports teams regularly received invitations to celebrate championships and their athletic achievements."
     publishedDateTime: 2021-08-23T21:13:00Z
@@ -83,6 +97,6 @@ related:
       domain: seattletimes.com
     quality: 50
 
-secured: "P68okE3r431UlXBqjuQbpE0NpHSXx/51D1yTgC1UIuD9Vtg77Ar7X9YfhXCu0S+NMWNY5snEjDvfYvE2XqbliYtTCIWvEq08AW70Jysjs1SUoOFv0iTzeSK7xEQP8PpTWrxH/BDE9R5vmG4uHg16Xq3C1tFU6PVQTk3TrjQOb+uzGwylrjZDkFT2x0d+GRYpWEM4c4VZC95+bFjVTK+unJGvz1BaIi2S+ZYF9flqTZscMl41F156D/yPNxgnxD5tOWP9cVWEwd1O8V9FB4tWwBFdbms3j9YYxs1F9hMFr/RIsPWBSVfc/HFF1Ufs/qJ9ALR2PavjtZ0cymcus9ReqPQ+EBtPPgKW0KkP94Ds3vwa1rpm5mMv5noLpE54JF14y4gIVzuu1DNWoKzl9L9CaMFnFyQzmPoGlX14FVY2M93sECIMWzXzmZLw1A59l6PJUsMD3mcH1XlKmKpe8fa3vlQonyoTGIfLgBWAk//Sfa93hdaZD7/2D2WM/iLMGmKkS6DRSFsvn42bfQBxu+FX5g==;n8Zv/dsjCtqhxA8Ec9PuGQ=="
+secured: "x/wu+uFxX8WfHRaoT+t/Gf0WkiM8KYIT5hh+6f3ZnJYRtnJVH9bIK2UDCUI9NhASxYU4CjnwGEUloNSrDvzNtgwN8ieMH3+Wuvxt5WozRPp+YduOzEuuhoP5z2YouivFDxhIQNrfKU7Tl5502OZah/wMb7ykf9BPjBKBZ0oKpYmT/B7kmasv/dVASkAFK5AXJQg4VmJGCX8i925S5mj7jpgUKAxFGbwx44NtlKNEhakAxTDbX/yCZlUk1pzJQJtPxl0VStqI7n8/GWPW0W5K4CEeAJvJ8ffD0iEWwXXbB06k7NShQVxA8O1dSxETLcVDE7RUjA9JeLMjyDx4K4PT6uWPlbDajQlDwt/dgK25/lI=;vInnyZr0h8c16A/xp//D8g=="
 ---
 

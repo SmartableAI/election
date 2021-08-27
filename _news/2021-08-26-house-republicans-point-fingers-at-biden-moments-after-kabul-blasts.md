@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/26/politics/republicans-kabul-biden/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/26/politics/republicans-kabul-biden/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden to Kabul attackers: 'We will hunt you down and make you pay'"
+    excerpt: "Terrorist explosions outside Kabul's international airport on Thursday that wounded Americans came after days of public and private warnings from President Joe Biden of a potential attack that could disrupt the massive airlift effort underway there.\n    \n"
+    publishedDateTime: 2021-08-27T00:12:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3LOTC5LMpLQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/26/politics/biden-kabul-attack/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/26/politics/biden-kabul-attack/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210826172926-02-biden-afghanistan-bombings-0826-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden braces for fallout as his dire warnings of a Kabul terror attack come true"
     excerpt: "Terrorist explosions outside Kabul's international airport on Thursday that wounded Americans came after days of public and private warnings from President Joe Biden of a potential attack that could disrupt the massive airlift effort underway there.\n    \n"
     publishedDateTime: 2021-08-26T17:21:12Z

@@ -63,21 +63,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Seattle Storm Visit President Joe Biden at White House to Celebrate 2020 WNBA Title"
-    excerpt: "The Seattle Storm were honored Monday at the White House by President Joe Biden to commemorate their 2020 WNBA championship. They were the first WNBA"
-    publishedDateTime: 2021-08-24T02:30:00Z
-    webUrl: "https://bleacherreport.com/articles/10010920-seattle-storm-visit-president-joe-biden-at-white-house-to-celebrate-2020-wnba-title"
-    ampWebUrl: "https://syndication.bleacherreport.com/amp/10010920-seattle-storm-visit-president-joe-biden-at-white-house-to-celebrate-2020-wnba-title.amp.html"
-    cdnAmpWebUrl: "https://syndication-bleacherreport-com.cdn.ampproject.org/c/s/syndication.bleacherreport.com/amp/10010920-seattle-storm-visit-president-joe-biden-at-white-house-to-celebrate-2020-wnba-title.amp.html"
+  - title: "Tom Rice, other politicians seek President Joe Biden’s ouster | Charlotte Observer"
+    excerpt: "Another local politician called on Biden to appoint former President Donald Trump to a position where he could oversee the rest of America’s withdrawal from Afghanistan. South Carolina Congressman Tom Rice (R-Myrtle Beach) called on President Joe Biden to resign over his “haphazard withdrawal” from Afghanistan that he blamed for the terrorist attack in Kabul."
+    publishedDateTime: 2021-08-27T04:54:00Z
+    webUrl: "https://www.charlotteobserver.com/news/state/south-carolina/article253769648.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/state/south-carolina/article253769648.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/state/south-carolina/article253769648.html"
     type: article
     provider:
-      name: Bleacher Report
-      domain: bleacherreport.com
+      name: Charlotte Observer
+      domain: charlotteobserver.com
     quality: 69
     images:
-      - url: "https://media.bleacherreport.com/image/upload/x_247,y_200,w_5191,h_3464,c_crop/v1629755609/cmwkxx7rin1xv9hkrttp.jpg"
-        width: 5191
-        height: 3464
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/7f1caafa-aea1-49ad-bc9f-e3322fb2825c/af216152-128c-45c0-b0b0-8fff6b46b17c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden celebrates 2020 WNBA champs Seattle Storm"
     excerpt: "President Joe Biden honored the 2020 WNBA champions Seattle Storm on Monday, celebrating their success on the court and hailing the four-time title holders for changing lives with their social"

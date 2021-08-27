@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-56975402.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp"
 type: article
 quality: 150
-heat: 3930
+heat: 3950
 published: true
 
 provider:
@@ -2244,6 +2244,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cda2c4b9-302c-4a9c-a6ff-7ccd94b863c4/37687a85-2e7a-4ff3-b7cb-e60920b3755e/1280x720/match/image.jpg?pubId=854081161001"
         width: 1280
         height: 720
+        isCached: true
+  - title: "N.J. hospitals getting extra $150M as Biden administration reverses Trump actions"
+    excerpt: "The Biden administration reversed two administrative actions under the Trump administration that penalized New Jersey’s hospitals."
+    publishedDateTime: 2021-08-27T00:28:00Z
+    webUrl: "https://www.nj.com/politics/2021/08/nj-hospitals-getting-extra-150m-as-biden-administration-reverses-trump-actions.html"
+    ampWebUrl: "https://www.nj.com/politics/2021/08/nj-hospitals-getting-extra-150m-as-biden-administration-reverses-trump-actions.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/politics/2021/08/nj-hospitals-getting-extra-150m-as-biden-administration-reverses-trump-actions.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 85
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/6SSTSPNS45E5ZEBZ57EPL6IE4E.png"
+        width: 590
+        height: 379
         isCached: true
   - title: "How Joe Biden's Afghanistan failure could let Donald Trump back in the White House"
     excerpt: "JOE BIDEN'S response to the crisis in Afghanistan has seen his popularity plummet in America and worldwide, as billions of dollars and hundreds of civilian and service deaths failed to prevent the Taliban from resurging."

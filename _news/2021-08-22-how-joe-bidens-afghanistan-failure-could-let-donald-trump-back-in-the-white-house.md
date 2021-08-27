@@ -2256,6 +2256,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "N.J. hospitals getting extra $150M as Biden administration reverses Trump actions"
+    excerpt: "The Biden administration reversed two administrative actions under the Trump administration that penalized New Jersey’s hospitals."
+    publishedDateTime: 2021-08-27T00:28:00Z
+    webUrl: "https://www.nj.com/politics/2021/08/nj-hospitals-getting-extra-150m-as-biden-administration-reverses-trump-actions.html"
+    ampWebUrl: "https://www.nj.com/politics/2021/08/nj-hospitals-getting-extra-150m-as-biden-administration-reverses-trump-actions.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/politics/2021/08/nj-hospitals-getting-extra-150m-as-biden-administration-reverses-trump-actions.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 85
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/6SSTSPNS45E5ZEBZ57EPL6IE4E.png"
+        width: 590
+        height: 379
+        isCached: true
   - title: "Wendy Davis, others sue Trump supporters over 'Trump Train' harassing Biden bus in Texas"
     excerpt: "A group of people traveling on a President Joe Biden campaign bus on a Texas highway last fall when it was surrounded and followed by former President Donald Trump’s supporters have filed a lawsuit against at least seven people who allegedly were following the bus,"
     publishedDateTime: 2021-06-24T21:00:00Z

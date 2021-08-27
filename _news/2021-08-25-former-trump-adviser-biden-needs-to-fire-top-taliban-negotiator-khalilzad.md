@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/24/former-trump-advise
 cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/24/former-trump-adviser-biden-needs-fire-top-taliban-/"
 type: article
 quality: 88
-heat: 168
+heat: 188
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump's former national security advisor John Bolton says it's 'impossible' for Mike Pompeo to 'rewrite history' on his negotiations with the Taliban"
+    excerpt: "\"That's a prescription for Democratic attack ads that would be fatal to someone's credibility,\" Bolton told Politico."
+    publishedDateTime: 2021-08-27T02:40:00Z
+    webUrl: "https://www.businessinsider.com/john-bolton-impossible-to-rewrite-history-on-mike-pompeo-taliban-deal-2021-8"
+    ampWebUrl: "https://www.businessinsider.com/john-bolton-impossible-to-rewrite-history-on-mike-pompeo-taliban-deal-2021-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/john-bolton-impossible-to-rewrite-history-on-mike-pompeo-taliban-deal-2021-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 86
+    images:
+      - url: "https://i.insider.com/61279e06e4235b00180aa5ba?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Ensure that Taliban do not destabilise Pakistan: US lawmakers to Joe Biden"
     excerpt: "A group of US lawmakers has urged President Joe Biden to ensure that the Taliban, which is now the de facto ruler of Afghanistan, do not destabilise Pakistan and acquire nuclear weapons"
     publishedDateTime: 2021-08-26T23:13:00Z

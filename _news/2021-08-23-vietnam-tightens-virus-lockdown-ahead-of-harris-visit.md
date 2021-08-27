@@ -89,6 +89,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Kamala Harris’s south-east Asia trip reveals limits of US strategy"
+    excerpt: "Analysis: With little sign of big ideas or ambitious proposals, some analysts say vice-president’s trip reflects how little the administration is investing in the region"
+    publishedDateTime: 2021-08-27T03:02:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/aug/27/kamala-harriss-south-east-asia-trip-reveals-limits-of-us-strategy"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/27/kamala-harriss-south-east-asia-trip-reveals-limits-of-us-strategy"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/27/kamala-harriss-south-east-asia-trip-reveals-limits-of-us-strategy"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/4c5deb75cf14a2876c7edfc0610d6f8a8a182175/0_496_8054_4832/master/8054.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6ea1028bd2e805f3cbbf4320ce9cc310"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Kamala Harris heads to Vietnam while Afghanistan images rekindle the past"
     excerpt: "White House officials did not anticipate the comparisons with Afghanistan when they charted Vice President Kamala Harris' trip to Vietnam."
     publishedDateTime: 2021-08-20T15:05:00Z
@@ -545,6 +561,22 @@ related:
         width: 760
         height: 483
         isCached: true
+  - title: "VP Kamala Harris raises human rights concerns in Vietnam to wrap Asia trip"
+    excerpt: "U.S. Vice President Kamala Harris on Thursday completed her visit to Southeast Asia with a news conference in Vietnam, in which she said she raised concerns about human rights issues with leaders in Hanoi."
+    publishedDateTime: 2021-08-26T13:18:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2021/08/26/vietnam-kamala-harris-hanoi/4981629979802/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2021/08/26/vietnam-kamala-harris-hanoi/4981629979802/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/08/26/vietnam-kamala-harris-hanoi/4981629979802/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 73
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/i/4981629979802/2021/1/16299809545976/v1.5/VP-Kamala-Harris-raises-human-rights-concerns-in-Vietnam-to-wrap-Asia-trip.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "VP Kamala Harris vows to back Southeast Asia allies against China 'coercion'"
     excerpt: "Vice President Kamala Harris in Singapore on Tuesday reaffirmed the United States' commitment to its allies in Southeast Asia in the face of China's aggression in the region."
     publishedDateTime: 2021-08-24T09:16:00Z
@@ -641,6 +673,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Meghan McCain slams Kamala Harris for 'sacrifice in Vietnam' tweet honoring her dad"
+    excerpt: "Meghan McCain wants Kamala Harris to 'spend every second making sure every single American and Afghan ally is out of harms way' to honor her dad"
+    publishedDateTime: 2021-08-26T16:00:00Z
+    webUrl: "https://meaww.com/meghan-mc-cain-slams-kamala-harris-john-mc-cain-death-anniversary-americans-in-harms-way-afghanistan"
+    ampWebUrl: "https://meaww.com/amp/meghan-mc-cain-slams-kamala-harris-john-mc-cain-death-anniversary-americans-in-harms-way-afghanistan"
+    cdnAmpWebUrl: "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/meghan-mc-cain-slams-kamala-harris-john-mc-cain-death-anniversary-americans-in-harms-way-afghanistan"
+    type: article
+    provider:
+      name: Meaww
+      domain: meaww.com
+    quality: 69
+    images:
+      - url: "https://cheesecake.articleassets.meaww.com/546458/uploads/959e2970-067a-11ec-8f52-6bdcca8d7ca9_800_420.png"
+        width: 800
+        height: 420
+        isCached: true
+  - title: "'We are going to speak up' VP Kamala Harris issues stern warning to 'bully' Beijing"
+    excerpt: "This may include adverts from us and 3rd parties based on our understanding. You can unsubscribe at any time. More info Kamala Harris, 56, has concluded her tour of the Far East in Hanoi, Vietnam, where she spoke before a press conference about Sino ..."
+    publishedDateTime: 2021-08-27T01:33:00Z
+    webUrl: "https://www.express.co.uk/news/world/1482636/south-china-sea-latest-vice-president-kamala-harris-joe-biden-vows-speak-up-beijing-ont"
+    ampWebUrl: "https://www.express.co.uk/news/world/1482636/south-china-sea-latest-vice-president-kamala-harris-joe-biden-vows-speak-up-beijing-ont/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/world/1482636/south-china-sea-latest-vice-president-kamala-harris-joe-biden-vows-speak-up-beijing-ont/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 69
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/78/590x/VP-Kamala-Harris-1482636.jpg?r=1630021232427"
+        width: 590
+        height: 350
+        isCached: true
   - title: "Kamala Harris begins Asia trip to reassure allies of US dependability amid Afghan drawdown"
     excerpt: "Vice President Kamala Harris began her Asia trip on Sunday. She seeks to offer reassurances of Washington's commitment to the region after the chaotic US pullout from Afghanistan and Taliban takeover."
     publishedDateTime: 2021-08-22T12:48:00Z
@@ -688,6 +752,20 @@ related:
       - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/COMP_RR_KAMALA.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Kamala Harris’ Southeast Asia Visit Shows Biden’s Southeast Asia Policy Still Lacks a Clear Roadmap"
+    excerpt: "The expansion of U.S. cooperation with Southeast Asia was a welcome step, but the question of long-term strategy remains."
+    publishedDateTime: 2021-08-27T00:22:00Z
+    webUrl: "https://thediplomat.com/2021/08/kamala-harris-southeast-asia-visit-shows-bidens-southeast-asia-policy-still-lacks-a-clear-roadmap/"
+    type: article
+    provider:
+      name: The Diplomat
+      domain: thediplomat.com
+    quality: 56
+    images:
+      - url: "https://thediplomat.com/wp-content/uploads/2021/08/sizes/td-story-s-2/thediplomat_2021-08-26-14.jpg"
+        width: 600
+        height: 400
         isCached: true
   - title: "Harris’ Asia trip carries new urgency after Afghan collapse"
     excerpt: "The Taliban takeover of Afghanistan is giving new urgency to Vice President Kamala Harris’ tour of southeast Asia, where she will attempt to reassure allies of American resolve following the chaotic end of a two-decade war."
@@ -844,6 +922,20 @@ related:
       - url: "https://assets-varnish.triblive.com/2021/08/4176596_web1_4176596-9ee18b1b359c45af885e9f1c03f063d1.jpg"
         width: 640
         height: 427
+        isCached: true
+  - title: "Kamala Harris met with LGBTQ activists before leaving Vietnam"
+    excerpt: "Vice President Kamala Harris met with LGBTQ and disability activists before leaving Vietnam. Harris held a roundtable discussion that included Chu Thanh Hà Ngoc, a transgender activist, and Đoàn Thanh Tùng,"
+    publishedDateTime: 2021-08-26T21:13:00Z
+    webUrl: "https://www.lgbtqnation.com/2021/08/kamala-harris-met-lgbtq-activists-leaving-vietnam/"
+    type: article
+    provider:
+      name: LGBTQ Nation
+      domain: lgbtqnation.com
+    quality: 55
+    images:
+      - url: "https://abuwjaawap.cloudimg.io/v7/_lgbtqnation-assets_/assets/2021/07/51101860704_ba910b286c_o-scaled.jpg?&auto=format&auto=compress&crop=faces&fit=crop&gravity=face&w=1200&h=630&wat=1&wat_gravity=southeast&wat_pad=40"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Kamala Harris Visits Singapore to Deepen Ties, Counter China's Influence"
     excerpt: "U.S. Vice President Kamala Harris will meet Singapore's leaders on Monday on the first working day of a trip to Southeast Asia aimed at bolstering ties as part of Washington's efforts to counter China's growing influence."

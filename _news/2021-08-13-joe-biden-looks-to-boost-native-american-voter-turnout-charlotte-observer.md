@@ -27,61 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "Biden pledges to Americans in Kabul: 'We will get you home'"
-    excerpt: "President Joe Biden is pledging to Americans still trapped in Afghanistan: “We will get you home.” Biden also said Friday the United States is committed to evacuating all Afghans who assisted the war effort — a potentially vast expansion of the administration's commitments on the airlift so far,"
-    publishedDateTime: 2021-08-20T23:57:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/article/US-struggles-to-speed-Kabul-airlift-despite-16399637.php"
-    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/US-struggles-to-speed-Kabul-airlift-despite-16399637.php"
-    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/US-struggles-to-speed-Kabul-airlift-despite-16399637.php"
+  - title: "Biden COVID origin investigation expected to end soon | Charlotte Observer"
+    excerpt: "A 90-day intelligence review into the origins of COVID-19 ordered by President Joe Biden is expected to end largely where it began, without high confidence in how the coronavirus first emerged, government officials told McClatchy. Biden will receive a ..."
+    publishedDateTime: 2021-08-09T17:39:00Z
+    webUrl: "https://www.charlotteobserver.com/news/coronavirus/article253365748.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/coronavirus/article253365748.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/coronavirus/article253365748.html"
     type: article
     provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 75
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 73
     images:
-      - url: "https://s.hdnux.com/photos/01/21/42/55/21375845/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557046001/12b39f35-3a05-423f-a838-37e72ee371d0/e503dd4e-6739-4b6c-8212-c4272a4fecad/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Biden: Flights out of Kabul accelerating"
-    excerpt: "President Joe Biden said Sunday that the U.S.-led evacuation of Americans, at-risk Afghans and others from the Kabul airport accelerated this weekend, although it remains vulnerable to threats posed by the Islamic State extremist group."
-    publishedDateTime: 2021-08-23T09:41:00Z
-    webUrl: "https://www.arkansasonline.com/news/2021/aug/23/biden-flights-out-of-kabul-accelerating/?news"
+  - title: "Biden says rising prices are temporary, 'no serious' economist predicting spiraling inflation | Charlotte Observer"
+    excerpt: "President Joe Biden sought to alleviate Americans' concerns that price spikes would persist in an economic speech from the White House July 2021."
+    publishedDateTime: 2021-08-13T15:16:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article253468574.html"
     type: article
     provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 55
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/199206302_199205149-b269d714629643bab6069e788fb3337e_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Biden pledges to Americans in Kabul: 'We will get you home'"
-    excerpt: "President Joe Biden is pledging to Americans still trapped in Afghanistan: \"We will get you home.\" Biden's comments at a White House news conference Friday come as the U.S. government struggles to ramp up a massive airlift clearing Americans and other foreigners and vulnerable Afghans through the Kabul airport,"
-    publishedDateTime: 2021-08-23T23:32:00Z
-    webUrl: "https://www.nwaonline.com/news/2021/aug/20/biden-address-chaotic-kabul-evacuation-amid-critic/"
-    type: article
-    provider:
-      name: Northwest Arkansas Democrat Gazette
-      domain: nwaonline.com
-    quality: 55
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/img/news/tease/2021/08/20/Screen_Shot_2021-08-20_at_12.01.24_PM_t600.png?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 335
-        isCached: true
-  - title: "Biden holds to Kabul Aug. 31 deadline despite criticism"
-    excerpt: "U.S. President Joe Biden says he will stick with his Aug. 31 deadline for finishing a U.S.-led evacuation of Americans, at-risk Afghans and others."
-    publishedDateTime: 2021-08-24T23:57:00Z
-    webUrl: "https://www.kentucky.com/news/nation-world/national/article253700868.html"
-    ampWebUrl: "https://amp.kentucky.com/news/nation-world/national/article253700868.html"
-    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/nation-world/national/article253700868.html"
-    type: article
-    provider:
-      name: Lexington Herald Leader
-      domain: kentucky.com
-    quality: 55
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 13
 
 secured: "UQbRbBJiFXpm+EKP4ktNzLy1QARsGsnjQuwrr98wlby8ktQkxgeq00a8puBGEjHTdvTwUeOJBPiSQbzwUUz1wkRYBdtHW4Ltr8cDsA5oxrTIJ9v0MQIlqczXjryBt4RXDcJUA2U4F+SRDPXBCMJy9ZxL0epObDj2mUQ/XqMMaXXeturCEbHTLz7S0JOKQTHelTekigxOvXNAcRw0fP4tRhwp5MmO0UL47tRAhR1eAYlD2kXEqjmWn5CX5myLeVXYYarSMzT2fwIRAd3t9sXnmcAv5999SyVCLqPnA32Pc6H31e0Hu/pewloEnc/DIb2rlUFXn8NK7uvZ2PNPSXAhhUDWY1UmkTXmoxHUHnK0vlSqQGNrpOdfA5m+R4YXIN86RSkLlSx2SPhS/Z26hWQe1y5AAFR/2+iiCocP8S8a8v9FZ6uy9gwEua4FaX1Zphovc5sP3qK4xDPUWXn7nALxzUbGCqPMYieuTre8xPP7OMLSDLC85qGOa85vjGHGuQP5xdCl3pwvvUDCm9DKSATbFw==;rT2wffj5j5nH0KgL3ytKFA=="
 ---

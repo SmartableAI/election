@@ -21,6 +21,22 @@ topics:
   - Joe Biden
 
 related:
+  - title: "How to Watch, Live Stream Joe Biden's Speech After Attack at Kabul Airport"
+    excerpt: "The speech will be streamed live on the White House's Youtube page. Press secretary Jen Psaki will also brief reporters following Biden's speech at 5:45 p.m. Eastern Time. Two explosions occurred Thursday near the Hamid Karzai International Airport in Kabul,"
+    publishedDateTime: 2021-08-26T18:41:00Z
+    webUrl: "https://www.newsweek.com/how-watch-live-stream-joe-bidens-speech-after-explosions-kabul-airport-1623378"
+    ampWebUrl: "https://www.newsweek.com/how-watch-live-stream-joe-bidens-speech-after-explosions-kabul-airport-1623378?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-watch-live-stream-joe-bidens-speech-after-explosions-kabul-airport-1623378?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1880784/live-stream-joe-bidens-speech-after-explosion.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden pledges to Americans in Kabul: 'We will get you home'"
     excerpt: "President Joe Biden is pledging to Americans still trapped in Afghanistan: “We will get you home.” Biden also said Friday the United States is committed to evacuating all Afghans who assisted the war effort — a potentially vast expansion of the administration's commitments on the airlift so far,"
     publishedDateTime: 2021-08-20T23:57:00Z
@@ -37,21 +53,37 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "Joe Biden looks to boost Native American voter turnout | Charlotte Observer"
-    excerpt: "Native American voters could play a major role in deciding the next presidential election in key battleground states."
-    publishedDateTime: 2021-08-13T09:00:00Z
-    webUrl: "https://www.charlotteobserver.com/news/politics-government/article253429449.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article253429449.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article253429449.html"
+  - title: "Seattle Storm Visit President Joe Biden at White House to Celebrate 2020 WNBA Title"
+    excerpt: "The Seattle Storm were honored Monday at the White House by President Joe Biden to commemorate their 2020 WNBA championship. They were the first WNBA"
+    publishedDateTime: 2021-08-24T02:30:00Z
+    webUrl: "https://bleacherreport.com/articles/10010920-seattle-storm-visit-president-joe-biden-at-white-house-to-celebrate-2020-wnba-title"
+    ampWebUrl: "https://syndication.bleacherreport.com/amp/10010920-seattle-storm-visit-president-joe-biden-at-white-house-to-celebrate-2020-wnba-title.amp.html"
+    cdnAmpWebUrl: "https://syndication-bleacherreport-com.cdn.ampproject.org/c/s/syndication.bleacherreport.com/amp/10010920-seattle-storm-visit-president-joe-biden-at-white-house-to-celebrate-2020-wnba-title.amp.html"
     type: article
     provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 73
+      name: Bleacher Report
+      domain: bleacherreport.com
+    quality: 69
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557046001/6416380e-f39b-44f4-98b3-0db4d9888c0d/aa0212ec-ae12-4bcf-8926-43cebffe2f5f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://media.bleacherreport.com/image/upload/x_247,y_200,w_5191,h_3464,c_crop/v1629755609/cmwkxx7rin1xv9hkrttp.jpg"
+        width: 5191
+        height: 3464
+        isCached: true
+  - title: "Warnings of possible attack at Kabul airport; Biden, Israeli PM to meet; MLS gaining popularity"
+    excerpt: "Britain warns attack on Kabul airport could come within hours; Biden, Israeli PM to meet for first time; MLS seeing boost in popularity. Here are this morning's headlines."
+    publishedDateTime: 2021-08-26T11:30:00Z
+    webUrl: "https://journaltimes.com/news/national/warnings-of-possible-attack-at-kabul-airport-biden-israeli-pm-to-meet-mls-gaining-popularity/article_78828fdb-9660-5ee3-87ec-630e46aa96df.html"
+    ampWebUrl: "https://journaltimes.com/news/national/warnings-of-possible-attack-at-kabul-airport-biden-israeli-pm-to-meet-mls-gaining-popularity/article_78828fdb-9660-5ee3-87ec-630e46aa96df.amp.html"
+    cdnAmpWebUrl: "https://journaltimes-com.cdn.ampproject.org/c/s/journaltimes.com/news/national/warnings-of-possible-attack-at-kabul-airport-biden-israeli-pm-to-meet-mls-gaining-popularity/article_78828fdb-9660-5ee3-87ec-630e46aa96df.amp.html"
+    type: article
+    provider:
+      name: The Journal Times
+      domain: journaltimes.com
+    quality: 63
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/assets/v3/editorial/3/de/3de70453-82d6-5d75-93c2-1709427cb75c/6127784a84c0f.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Biden: Flights out of Kabul accelerating"
     excerpt: "President Joe Biden said Sunday that the U.S.-led evacuation of Americans, at-risk Afghans and others from the Kabul airport accelerated this weekend, although it remains vulnerable to threats posed by the Islamic State extremist group."
@@ -81,6 +113,72 @@ related:
         width: 600
         height: 335
         isCached: true
+  - title: "Joe Biden FINALLY lets US troops rescue Americans outside Kabul airport after fearing ‘black hawk-style attack’"
+    excerpt: "JOE Biden finally allowed US soldiers to rescue stranded Americans outside Kabul airport as he feared another “Black Hawk Down” tragedy. The president compared the crisis in Afghanistan with the"
+    publishedDateTime: 2021-08-24T09:13:00Z
+    webUrl: "https://www.the-sun.com/news/3529625/joe-biden-troops-rescue-americans-kabul-black-hawk/"
+    ampWebUrl: "https://www.the-sun.com/news/3529625/joe-biden-troops-rescue-americans-kabul-black-hawk/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3529625/joe-biden-troops-rescue-americans-kabul-black-hawk/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 55
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/JG-COMP-AFGHAN-SOMALIA.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "2 US lawmakers’ Kabul trip prompts Biden administration fury"
+    excerpt: "Two members of Congress flew unannounced into Kabul airport in the middle of the ongoing chaotic evacuation, and their visit Tuesday stunned State Department and U.S. military personnel who had to divert resources to provide security and information to the lawmakers."
+    publishedDateTime: 2021-08-26T15:35:00Z
+    webUrl: "https://www.sanluisobispo.com/news/business/article253727773.html"
+    ampWebUrl: "https://amp.sanluisobispo.com/news/business/article253727773.html"
+    cdnAmpWebUrl: "https://amp-sanluisobispo-com.cdn.ampproject.org/c/s/amp.sanluisobispo.com/news/business/article253727773.html"
+    type: article
+    provider:
+      name: SanLuisObispo
+      domain: sanluisobispo.com
+    quality: 55
+  - title: "Republicans point fingers at Biden moments after Kabul blasts"
+    excerpt: "By Melanie Zanona, Jeremy Herb and Alex Rogers, CNN Republicans in Congress quickly escalated their criticism of President Joe Biden’s withdrawal of US troops from Afghanistan after two explosions outside Kabul’s airport on Thursday caused the first American casualties since the mass evacuation began."
+    publishedDateTime: 2021-08-26T23:40:00Z
+    webUrl: "https://localnews8.com/politics/cnn-us-politics/2021/08/26/house-republicans-point-fingers-at-biden-moments-after-kabul-blasts/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 55
+    images:
+      - url: "https://localnews8.b-cdn.net/2021/06/Politics-logo-new_KIFIMIFI.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Joe Biden FINALLY lets US troops to rescue Americans outside Kabul airport after fearing ‘black hawk-style attack’"
+    excerpt: "JOE Biden finally allowed US soldiers to rescue stranded Americans outside Kabul airport as he feared another “Black Hawk Down” tragedy. The president discussed the attack on a conference call"
+    publishedDateTime: 2021-08-24T09:13:00Z
+    webUrl: "https://www.thesun.co.uk/news/15950663/joe-biden-troops-rescue-americans-kabul-black-hawk/"
+    ampWebUrl: "https://www.thesun.co.uk/news/15950663/joe-biden-troops-rescue-americans-kabul-black-hawk/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/15950663/joe-biden-troops-rescue-americans-kabul-black-hawk/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 53
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2021/08/JG-COMP-AFGHAN-SOMALIA-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Allies embraced Biden. Did Kabul lay bare \"great illusion\"?"
+    excerpt: "Well before U.S. President Joe Biden took office early this year, the European Union's foreign policy chief sang his praises and hailed a new era in cooperation. So did almost all of Washington's Western allies."
+    publishedDateTime: 2021-08-22T07:09:00Z
+    webUrl: "https://columbiabasinherald.com/news/2021/aug/22/allies-embraced-biden-did-kabul-lay-bare-2/"
+    type: article
+    provider:
+      name: Columbia Basin Herald
+      domain: columbiabasinherald.com
+    quality: 35
 
 secured: "hTI1Gs+7Mmy55PaLornuVMlwXpt2nG9jueVQPsB7RqOZxpc/5v87xOboCuY96mGmco82lozCZkggiY223jzOOCg3OXUrk1r+sZH345awfADWXSVzvYpVW9JJi7slbneHa3zR413Iwxpg+RRu/eSQw4K9udWwxq35XpCSjO4wgadd5KqTj5yEog8RrjcMmRjcpdR5Pwfif+RW2ttRDEFBlicU52JSgI7OKUNXI1A4e7+nUAlYc4XJHkDj0ztScKuemYR2XqnTDX/j7YPcxn7EqY1xIQk31YklFoMnKh/0FkJSqUSFgUf67feAdNX+0Wc1byOdpQgHb9n4tojtIvHKXxXQohjT26Z2fx+J/IZ5edHXhFbnAnA6e7+GWtsNQYN1BC1B+iSxdy0EuVv8tWIaMsHqoenPSRiGVxqzBKfYX2kK69/YRQbTHu2XrciNKIql1vB3WkcqFcgiQzxUgffK/3PxL9krqzMSqxAtrMyHBNFVloBw9HV8BNgUvljl1MpIe0TqSGdWbYSa4kUd0tmwAA==;/Hu2pEIonqL42VF68rqchw=="
 ---

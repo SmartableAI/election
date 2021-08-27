@@ -2,27 +2,45 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-08-26-2-us-lawmakers-kabul-trip-prompts-biden-administration-fury.md",
-      "title": "2 US lawmakers’ Kabul trip prompts Biden administration fury",
-      "excerpt": "Two members of Congress flew unannounced into Kabul airport in the middle of the ongoing chaotic evacuation, and their visit Tuesday stunned State Department and U.S. military personnel who had to divert resources to provide security and information to the lawmakers.",
+      "path": "_news/2021-08-27-how-to-watch-live-stream-joe-bidens-speech-after-attack-at-kabul-airport.md",
+      "title": "How to Watch, Live Stream Joe Biden's Speech After Attack at Kabul Airport",
+      "excerpt": "The speech will be streamed live on the White House's Youtube page. Press secretary Jen Psaki will also brief reporters following Biden's speech at 5:45 p.m. Eastern Time. Two explosions occurred Thursday near the Hamid Karzai International Airport in Kabul,",
       "sourceUrl": null,
-      "webUrl": "https://www.sanluisobispo.com/news/business/article253727773.html",
-      "originalUrl": "https://www.sanluisobispo.com/news/business/article253727773.html",
+      "webUrl": "https://www.newsweek.com/how-watch-live-stream-joe-bidens-speech-after-explosions-kabul-airport-1623378",
+      "originalUrl": "https://www.newsweek.com/how-watch-live-stream-joe-bidens-speech-after-explosions-kabul-airport-1623378",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 343,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1880784/live-stream-joe-bidens-speech-after-explosion.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.sanluisobispo.com/news/business/article253727773.html",
-      "cdnAmpWebUrl": "https://amp-sanluisobispo-com.cdn.ampproject.org/c/s/amp.sanluisobispo.com/news/business/article253727773.html",
-      "publishedDateTime": "2021-08-26T08:35:00-07:00",
+      "ampWebUrl": "https://www.newsweek.com/how-watch-live-stream-joe-bidens-speech-after-explosions-kabul-airport-1623378?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-watch-live-stream-joe-bidens-speech-after-explosions-kabul-airport-1623378?amp=1",
+      "publishedDateTime": "2021-08-26T11:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SanLuisObispo",
-        "domain": "sanluisobispo.com",
-        "images": null,
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -259,7 +277,7 @@
       "originalUrl": "https://www.houstonchronicle.com/politics/texas/article/Beto-O-Rourke-pushes-Joe-Biden-to-help-pass-16411342.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -354,7 +372,7 @@
       "originalUrl": "https://time.com/6092540/naftali-bennett-joe-biden/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -706,7 +724,7 @@
       "originalUrl": "https://www.cleveland.com/nation/2021/08/budget-clash-pits-moderate-democrats-against-biden-pelosi.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -846,49 +864,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-21-biden-pledges-to-americans-in-kabul-we-will-get-you-home.md",
-      "title": "Biden pledges to Americans in Kabul: 'We will get you home'",
-      "excerpt": "President Joe Biden is pledging to Americans still trapped in Afghanistan: “We will get you home.” Biden also said Friday the United States is committed to evacuating all Afghans who assisted the war effort — a potentially vast expansion of the administration's commitments on the airlift so far,",
-      "sourceUrl": null,
-      "webUrl": "https://www.stamfordadvocate.com/news/article/US-struggles-to-speed-Kabul-airlift-despite-16399637.php",
-      "originalUrl": "https://www.stamfordadvocate.com/news/article/US-struggles-to-speed-Kabul-airlift-despite-16399637.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/21/42/55/21375845/3/ratio3x2_400.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.stamfordadvocate.com/news/amp/US-struggles-to-speed-Kabul-airlift-despite-16399637.php",
-      "cdnAmpWebUrl": "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/US-struggles-to-speed-Kabul-airlift-despite-16399637.php",
-      "publishedDateTime": "2021-08-20T16:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "StamfordAdvocate",
-        "domain": "stamfordadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-08-20-tucker-carlson-says-joe-biden-interview-edited-to-make-him-less-incoherent-confused.md",
       "title": "Tucker Carlson Says Joe Biden Interview Edited to Make Him Less 'Incoherent, Confused'",
       "excerpt": "ABC News released a transcript of Biden's interview featuring a section that was left out of the TV broadcast.",
@@ -949,7 +924,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1145,
+      "heat": 1185,
       "tags": null,
       "images": [
         {
@@ -1001,7 +976,7 @@
       "originalUrl": "https://www.newsweek.com/marjorie-taylor-greene-foul-mouthed-broadside-joe-biden-video-1620960",
       "featuredContent": null,
       "highlight": null,
-      "heat": 222,
+      "heat": 202,
       "tags": null,
       "images": [
         {
@@ -1234,7 +1209,7 @@
       "originalUrl": "https://www.the-sun.com/news/3493266/joe-biden-america-doesnt-have-your-back/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -1413,6 +1388,58 @@
       "topics": [
         "Election",
         "Donald Trump",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-biden-sending-envoy-to-ethiopia-amid-tigray-conflict.md",
+      "title": "Biden sending envoy to Ethiopia amid Tigray conflict",
+      "excerpt": "President Biden is sending his special envoy for the Horn of Africa to Ethiopia amid ongoing fighting in Tigray.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/international/middle-east-north-africa/567714-biden-sending-envoy-to-ethiopia-amid-tigray",
+      "originalUrl": "https://thehill.com/policy/international/middle-east-north-africa/567714-biden-sending-envoy-to-ethiopia-amid-tigray",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/feltmanjeffrey_42321_gettyimages.jpg",
+          "width": 781,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/international/middle-east-north-africa/567714-biden-sending-envoy-to-ethiopia-amid-tigray?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/international/middle-east-north-africa/567714-biden-sending-envoy-to-ethiopia-amid-tigray?amp",
+      "publishedDateTime": "2021-08-13T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Joe Biden"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/07/politics/kamala-harris-diplomatic
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/kamala-harris-diplomatic-test/index.html"
 type: article
 quality: 185
-heat: 405
+heat: 425
 published: true
 
 provider:
@@ -189,6 +189,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2021/08/26/world/26harris-asia01/26harris-asia01-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Kamala Harris pledges U.S. help for Afghan women and children."
+    excerpt: "During a trip to Vietnam, Vice President Kamala Harris said the first priority for rescue missions in Afghanistan are American citizens and women and children in the region. Our highest priority right now is evacuating American citizens, evacuating Afghans ..."
+    publishedDateTime: 2021-08-27T01:12:00Z
+    webUrl: "https://www.nytimes.com/2021/08/26/world/kamala-harris-pledges-us-help-for-afghan-women-and-children.html"
+    ampWebUrl: "https://www.nytimes.com/2021/08/26/world/kamala-harris-pledges-us-help-for-afghan-women-and-children.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/26/world/kamala-harris-pledges-us-help-for-afghan-women-and-children.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/08/26/world/26afghanistan-briefing-kamala-vietnam/26harris-asia01-facebookJumbo.jpg"
         width: 1050
         height: 549
         isCached: true

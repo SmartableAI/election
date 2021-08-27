@@ -138,20 +138,20 @@ related:
         height: 1096
         isCached: true
   - title: "Lawyers allied with Trump penalized over Michigan lawsuit"
-    excerpt: "Nine lawyers allied with former President Donald Trump face financial penalties and other sanctions after a judge Wednesday said they had abused the"
-    publishedDateTime: 2021-08-26T21:23:00Z
-    webUrl: "https://www.macombdaily.com/2021/08/26/lawyers-allied-with-trump-penalized-over-michigan-lawsuit-2/"
-    ampWebUrl: "https://www.macombdaily.com/2021/08/26/lawyers-allied-with-trump-penalized-over-michigan-lawsuit-2/amp/"
-    cdnAmpWebUrl: "https://www-macombdaily-com.cdn.ampproject.org/c/s/www.macombdaily.com/2021/08/26/lawyers-allied-with-trump-penalized-over-michigan-lawsuit-2/amp/"
+    excerpt: "Nine lawyers allied with former President Donald Trump face financial penalties and other sanctions in Michigan"
+    publishedDateTime: 2021-08-27T03:09:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/aug/26/lawyers-allied-with-trump-penalized-over-michigan-/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/aug/26/lawyers-allied-with-trump-penalized-over-michigan-/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/aug/26/lawyers-allied-with-trump-penalized-over-michigan-/?amp-content=amp"
     type: article
     provider:
-      name: The Macomb Daily
-      domain: macombdaily.com
+      name: The Spokesman-Review
+      domain: spokesman.com
     quality: 75
     images:
-      - url: "https://www.macombdaily.com/wp-content/uploads/2021/08/AP21237822016888-1.jpg?w=1024&#038;h=683"
-        width: 1024
-        height: 683
+      - url: "https://thumb.spokesman.com/Of5YvvCBWMGvEcmIabPQUIKMQhM=/480x0/media.spokesman.com/photos/2021/08/26/6128091219315.hires.jpg"
+        width: 480
+        height: 320
         isCached: true
   - title: "Trump border wall damaged by heavy flooding"
     excerpt: "Severe weather in southern Arizona appears to have damaged parts of the border wall erected by the Trump A The Tucson Sentinel reports that U.S. Customs and Border Protection agents have confirmed “historic” flooding at the nation’s border with Mexico is to blame for the destruction."

@@ -146,7 +146,7 @@ related:
   - title: "Joe Biden speaks about Afghanistan evacuation amid criticism – live"
     excerpt: "Psaki says US has helped evacuate 57,000 people in the last nine days and and is on track to meet its deadline of 31 August"
     publishedDateTime: 2021-08-24T20:24:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news?page=with:block-612560288f08b1506f20dbf6"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news?page=with:block-61255bc08f080ef844e747eb"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news"
     type: article
@@ -162,7 +162,7 @@ related:
   - title: "Joe Biden to speak about Afghanistan evacuation amid criticism – live"
     excerpt: "Psaki says US has helped evacuate 57,000 people in the last nine days and and is on track to meet its deadline of 31 August"
     publishedDateTime: 2021-08-24T19:43:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news?page=with:block-61254d1a8f08b1506f20db2e"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news?page=with:block-61253d3c8f08b1506f20da98"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news"
     type: article
@@ -328,6 +328,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Biden says US is ‘determined to complete this mission’ as Afghanistan evacuations pass 70,000 - as it happened"
+    excerpt: "US’s completion of evacuations by 31 August is contingent on the Taliban allowing access to the airport, president says"
+    publishedDateTime: 2021-08-24T23:14:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news?page=with:block-612508d58f080ef844e74378"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/24/us-politics-live-joe-biden-afghanistan-g7-democrats-republicans-latest-news"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/6f87cfebea90dee8b9414a911dfec2be734bc054/0_338_5070_3042/master/5070.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=90924b8c66fbbea91d45e5d57cc19deb"
+        width: 600
+        height: 360
         isCached: true
   - title: "Joe Biden: withdrawal from Afghanistan would always be 'hard and painful'"
     excerpt: "The evacuation of thousands of Americans and their Afghan allies from Kabul would have been 'hard and painful no matter when it started or when we began', Joe Biden said on Sunday, amid fierce critici"
@@ -1047,6 +1063,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Tom Rice says Joe Biden should resign over Afghanistan attacks"
+    excerpt: "Congressman Tom Rice has called for President Joe Biden to resign. Rice issued a statement Thursday afternoon after attacks near the Hamid Karzai International Airport left 11 service members dead"
+    publishedDateTime: 2021-08-26T20:07:00Z
+    webUrl: "https://scnow.com/news/local/tom-rice-says-joe-biden-should-resign-over-afghanistan-attacks/article_3a4d7aec-06a9-11ec-8687-c38ba1a7512e.html"
+    type: article
+    provider:
+      name: SCNow
+      domain: scnow.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/scnow.com/content/tncms/custom/image/dc6f5c96-f052-11e5-b058-234ab0ad62fe.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden will face pressure from G7 to extend Afghanistan withdrawal deadline"
     excerpt: "By Kevin Liptak and Barbara Starr, CNN Leaders from the top foreign allies of the United States are planning to press President Joe Biden to extend the deadline for US troops to withdraw from Afghanistan during a Tuesday morning meeting,"
     publishedDateTime: 2021-08-24T03:38:00Z
@@ -1183,6 +1213,20 @@ related:
         width: 2560
         height: 1920
         isCached: true
+  - title: "Fact-checking Joe Biden on U.S. credibility as military withdraws from Afghanistan"
+    excerpt: "President Joe Biden speaks about the evacuation of American citizens, their families, SIV applicants and vulnerable Afghans in the East Room of the White House, Aug. 20, 2021. (AP) Current leaders of the NATO members that contributed most to the International Security Assistance Force mission in Afghanistan — Germany,"
+    publishedDateTime: 2021-08-26T22:15:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/aug/26/joe-biden/fact-checking-joe-biden-us-credibility-military-wi/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 49
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-half-true.jpg"
+        width: 438
+        height: 392
+        isCached: true
   - title: "Joe Biden’s mishandling of Afghanistan has tanked his poll numbers. Is it permanent?"
     excerpt: "Like Bush’s handling of Katrina, Biden’s handling of the pullout from Afghanistan has looked similarly disastrous, directly undercutting the notion of competent, experienced leadership on the world stage."
     publishedDateTime: 2021-08-25T16:32:00Z
@@ -1265,6 +1309,20 @@ related:
       - url: "https://thumbnails.texastribune.org/qNfrp87N4j3zcwx89ZG2LB9qO7c=/1200x630/filters:quality(95)/static.texastribune.org/media/files/afc2620915acb68297a561caafd976f4/Joe%20Biden%20Afghanistan%20REUTERS%20TT%2001.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "President Joe Biden Issues a Proclamation Honoring the Victims of the Attack in Kabul, Afghanistan"
+    excerpt: "On President Joe Biden issued a Proclamation honoring the victims of the attack in Kabul, Afghanistan. As a mark of respect for the U.S. service members and other victims killed in the terrorist attack on August 26,"
+    publishedDateTime: 2021-08-26T22:53:00Z
+    webUrl: "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/32715-president-joe-biden-issues-a-proclamation-honoring-the-victims-of-the-attack-in-kabul-afghanistan?tmpl=component"
+    type: article
+    provider:
+      name: Sierra Sun Times
+      domain: goldrushcam.com
+    quality: 41
+    images:
+      - url: "https://goldrushcam.com/sierrasuntimes/images/2020/white-house-gov.jpg"
+        width: 679
+        height: 357
         isCached: true
   - title: "James Carville Is Mad As Hell About The ‘Hysterical And Stupid’ Coverage Of Biden’s Afghanistan Pullout"
     excerpt: "James Carville is tired of the media attacking Joe Biden for pulling U.S. troops out of Afghanistan, saying \"We lost this war 15 years ago.\""

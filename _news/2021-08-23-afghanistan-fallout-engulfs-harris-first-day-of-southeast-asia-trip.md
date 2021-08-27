@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/23/politics/kamala-harris-singapore-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/23/politics/kamala-harris-singapore-afghanistan/index.html"
 type: article
 quality: 185
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -111,6 +111,20 @@ related:
       - url: "https://static01.nyt.com/images/2021/08/23/world/23-afghanistan-briefing-KamalainSingapor-02/23-afghanistan-briefing-KamalainSingapor-02-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Kamala Harris' campaign rally for Newsom canceled after Afghanistan attacks"
+    excerpt: "Vice President Kamala Harris will not campaign on Friday for Gavin Newsom amid his recall fight, skipping a planned Bay Area rally for the Democratic governor. Harris, returning f"
+    publishedDateTime: 2021-08-26T21:53:00Z
+    webUrl: "https://www.politico.com/states/california/story/2021/08/26/kamala-harris-campaign-rally-for-newsom-canceled-after-afghanistan-attacks-1390520"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 113
+    images:
+      - url: "https://static.politico.com/c9/6f/ca2385da4d5c8e314e4fc74f00a8/8-26-21-kamala-harris-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "Ti+TuijAkQ5OstL/by8p0tn47R1diNV4DGLmaRtxbUU93I9E/o41STw+pgmmIQMiiohW1khmYBT6EMclfbZST73xHBrP891+jXICOYKyP5uWQ5wJabvxJ3/Eg8TOiqDSiabVOIBXd2bJHQwslsx+ShWTO12GQmVc62bHgV0z4hdDM0BcfREOzZzr6lIjSZrw0wae45asktzkxVG6hIHHewRXkX3Lbbs5Q21iRIEc45mvQ/hfch0vTi/R99aHh5K8Wq/eKSv6rrVq7hm8VelVq+UyKXY4H6CvabQUeITP2wWEsXdPWN0FDdUqPFzzeutlxiXk9o8m3pfiarhUP1QsHQ3hIxySYxct0p+hCDr0r5o=;dHoQRwcHLLYCQQUF49wvjQ=="

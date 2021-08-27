@@ -79,6 +79,38 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Cawthorn calls on Harris to invoke 25th Amendment and remove Biden as president over Afghanistan crisis"
+    excerpt: "U.S. Rep. Madison Cawthorn, a freshman Republican from North Carolina, is calling on Vice President Kamala Harris to invoke the 25th Amendment and remove President Biden from office following the deadly, botched withdrawal of U.S. troops from Afghanistan."
+    publishedDateTime: 2021-08-27T02:17:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_H95hEYvtJc/cawthorn-harris-25th-amendment-remove-biden-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/cawthorn-harris-25th-amendment-remove-biden-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cawthorn-harris-25th-amendment-remove-biden-afghanistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/720/405/Cawthorn-Harris.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden, Trump camps play blame game as situation in Afghanistan continues to deteriorate"
+    excerpt: "Former President Donald Trump released a statement offering sympathy to the families of the 13 soldiers killed in a suicide bombing in Afghanistan Thursday while the Biden administration attempts to pin the blame for the chaos on Trump."
+    publishedDateTime: 2021-08-27T01:21:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X_XyNmUQCM8/biden-trump-camps-play-blame-game-as-situation-in-afghanistan-continues-to-deteriorate"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-camps-play-blame-game-as-situation-in-afghanistan-continues-to-deteriorate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-camps-play-blame-game-as-situation-in-afghanistan-continues-to-deteriorate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/86ebb117-9240-4ed6-a046-c57ba143080c/a5835ca8-957e-490c-b534-146744b23048/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Trump targets Biden over Afghanistan but gets booed briefly on vaccines at Alabama rally"
     excerpt: "Former President Trump repeatedly criticized President Biden over the Afghanistan evacuation, inflation, crime, and COVID, during a large rally in Alabama on Saturday night, but he was booed by the crowd when urging that they get vaccinated."
     publishedDateTime: 2021-08-22T13:50:14Z
@@ -188,6 +220,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1a7681bc-6328-4f29-b286-2c34137c2968/61fa24cf-48b9-4b66-8cc2-8ac469905270/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "How Biden could have avoided catastrophe in Afghanistan, report"
+    excerpt: "The United States saw the deadliest day for American troops in 10 years Thursday, after at least 13 service members were killed and 18 others injured in a suicide bomb attack outside the Abbey Gate at Kabul airport."
+    publishedDateTime: 2021-08-27T01:07:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6H3Zfe1GGs8/how-biden-could-have-avoided-catastrophe-in-afghanistan-report"
+    ampWebUrl: "https://www.foxnews.com/politics/how-biden-could-have-avoided-catastrophe-in-afghanistan-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/how-biden-could-have-avoided-catastrophe-in-afghanistan-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14c646a6-ad3d-4268-aace-2e063ea85db7/12540c0f-99ca-442a-be78-656b4a413121/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -991,6 +1039,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden vague on Afghanistan endgame after pledging to 'hunt down' Kabul terrorists, stick to withdrawal"
+    excerpt: "President Biden’s remarks following deadly terror attacks at Kabul’s airport suggested U.S. activities in Afghanistan could continue beyond the Aug. 31 deadline for a permanent withdrawal of U.S. troops, raising further questions about what the administration sees as the current parameters of its mission."
+    publishedDateTime: 2021-08-27T02:04:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/L-7hF2fjckM/biden-afghanistan-kabul-terrorists-withdrawal"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-afghanistan-kabul-terrorists-withdrawal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-afghanistan-kabul-terrorists-withdrawal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14c646a6-ad3d-4268-aace-2e063ea85db7/12540c0f-99ca-442a-be78-656b4a413121/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden's meeting with Israeli prime minister to keep spotlight on Afghanistan, terrorist threats to allies"
     excerpt: "President Biden's upcoming meeting with new Israeli Prime Minister Naftali Bennett is likely to center on the escalating crisis in Afghanistan, as well as other emerging threats to the U.S. and its allies due to the rise of terrorism in the region, experts predict. "
     publishedDateTime: 2021-08-25T18:29:45Z
@@ -1165,6 +1229,38 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Lawmakers, Trump mourn Kabul bomb victims and blame Biden"
+    excerpt: "American lawmakers are offering their sympathies to the US servicemembers killed and wounded in two bombing attacks at the Kabul airport."
+    publishedDateTime: 2021-08-27T03:14:00Z
+    webUrl: "https://nypost.com/2021/08/26/lawmakers-offer-prayers-for-service-members-killed-wounded-and-blame-biden/"
+    ampWebUrl: "https://nypost.com/2021/08/26/lawmakers-offer-prayers-for-service-members-killed-wounded-and-blame-biden/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/26/lawmakers-offer-prayers-for-service-members-killed-wounded-and-blame-biden/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/lawmakers-reactions-afghanistan-biden.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Trump: Biden's Afghan crisis 'the dumbest move ever made in US history'"
+    excerpt: "Former President Donald Trump told “Hannity” in an exclusive interview Thursday that President Joe Biden's intensifying Afghanistan crisis is the result of “the dumbest move ever made perhaps in the history of our country."
+    publishedDateTime: 2021-08-27T04:10:00Z
+    webUrl: "https://www.foxnews.com/media/trump-biden-afghan-crisis-dumbest-move"
+    ampWebUrl: "https://www.foxnews.com/media/trump-biden-afghan-crisis-dumbest-move.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-biden-afghan-crisis-dumbest-move.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b189cadb-e67a-47c7-889b-35403ce10dfd/eb0615e3-e519-4efe-ac13-1be0f86a06f8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Trump slams Biden for Afghanistan withdrawal during Alabama rally appearance"
     excerpt: "Former President Donald Trump criticized President Joe Biden’s ‘total surrender’ for the United States withdrawal from the Taliban-controlled Afghanistan."
     publishedDateTime: 2021-08-22T06:15:00Z
@@ -1194,6 +1290,22 @@ related:
     quality: 146
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7ce0f117-855d-485a-8378-a18e1f86533d/96814e03-85f8-4119-901f-cf23f0104adc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Lara Trump blasts Kamala Harris on Afghanistan: She thinks we'll all forget about this"
+    excerpt: "Fox News contributor Lara Trump slammed Vice President Kamala Harris on Friday for providing vague responses to reporters' questions and traveling to Asia while the crisis in Afghanistan continues."
+    publishedDateTime: 2021-08-26T14:04:00Z
+    webUrl: "https://www.foxnews.com/media/lara-trump-kamala-harris-afghanistan-forget"
+    ampWebUrl: "https://www.foxnews.com/media/lara-trump-kamala-harris-afghanistan-forget.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lara-trump-kamala-harris-afghanistan-forget.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 142
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/79fcbc85-57b6-44e8-8fee-45296e25cdea/b24bdc79-b8bd-482f-8d51-c51bcf46f1ed/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

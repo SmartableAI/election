@@ -53,6 +53,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Biden vows to finish Kabul evacuation, avenge US deaths"
+    excerpt: "President Joe Biden vowed Thursday to complete the evacuation of American citizens and others from Afghanistan despite the day's deadly suicide bomb attack at the Kabul airport. He promised to avenge the deaths of 13 U."
+    publishedDateTime: 2021-08-27T05:55:00Z
+    webUrl: "https://www.myjournalcourier.com/news/article/US-says-1-500-Americans-may-still-await-Kabul-16412711.php"
+    ampWebUrl: "https://www.myjournalcourier.com/news/amp/US-says-1-500-Americans-may-still-await-Kabul-16412711.php"
+    cdnAmpWebUrl: "https://www-myjournalcourier-com.cdn.ampproject.org/c/s/www.myjournalcourier.com/news/amp/US-says-1-500-Americans-may-still-await-Kabul-16412711.php"
+    type: article
+    provider:
+      name: Journal-Courier
+      domain: myjournalcourier.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/50/02/21397664/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Biden Urges More Employers to Enact Vaccine Mandates Following FDA’s Full Approval"
     excerpt: "Do what I did last month. Require your employees to get vaccinated or face strict requirements,” Biden said Monday."
     publishedDateTime: 2021-08-24T11:40:00Z

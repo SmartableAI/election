@@ -497,6 +497,22 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Kamala Harris cancels Bay Area appearance at Newsom’s anti-recall rally"
+    excerpt: "Just hours after a deadly attack in Afghanistan that killed U.S. service members Thursday, Vice President Kamala Harris canceled plans to speak at a San Francisco rally on Friday to oppose the"
+    publishedDateTime: 2021-08-26T22:21:00Z
+    webUrl: "https://ktla.com/news/california/kamala-harris-cancels-appearance-at-newsoms-anti-recall-rally-in-san-francisco/"
+    ampWebUrl: "https://ktla.com/news/california/kamala-harris-cancels-appearance-at-newsoms-anti-recall-rally-in-san-francisco/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/california/kamala-harris-cancels-appearance-at-newsoms-anti-recall-rally-in-san-francisco/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 75
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2021/08/AP21238795533246.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Kamala Harris comes to Oakland to promote $2 trillion infrastructure plan"
     excerpt: "Kamala Harris returned to Oakland for the first time as vice president Monday to tout the Biden administration’s $2 trillion infrastructure plan. She was greeted on the tarmac at Oakland International Airport by California Democratic Sen. Alex Padilla ..."
     publishedDateTime: 2021-04-05T19:41:00Z
@@ -673,19 +689,35 @@ related:
         isCached: true
   - title: "California recall: VP Kamala Harris to whip up base in Bay Area for Gov. Gavin Newsom"
     excerpt: "The former California senator and East Bay native is expected at a rally on Friday to whip up the base. But which base will she whip up more?"
-    publishedDateTime: 2021-08-25T11:55:00Z
-    webUrl: "https://www.mercurynews.com/2021/08/25/california-recall-vp-kamala-harris-to-whip-up-base-in-bay-area-for-gov-gavin-newsom/"
-    ampWebUrl: "https://www.mercurynews.com/2021/08/25/california-recall-vp-kamala-harris-to-whip-up-base-in-bay-area-for-gov-gavin-newsom/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/08/25/california-recall-vp-kamala-harris-to-whip-up-base-in-bay-area-for-gov-gavin-newsom/amp/"
+    publishedDateTime: 2021-08-25T16:33:00Z
+    webUrl: "https://www.timesheraldonline.com/2021/08/25/california-recall-vp-kamala-harris-to-whip-up-base-in-bay-area-for-gov-gavin-newsom/"
+    ampWebUrl: "https://www.timesheraldonline.com/2021/08/25/california-recall-vp-kamala-harris-to-whip-up-base-in-bay-area-for-gov-gavin-newsom/amp/"
+    cdnAmpWebUrl: "https://www-timesheraldonline-com.cdn.ampproject.org/c/s/www.timesheraldonline.com/2021/08/25/california-recall-vp-kamala-harris-to-whip-up-base-in-bay-area-for-gov-gavin-newsom/amp/"
     type: article
     provider:
-      name: Mercury News
-      domain: mercurynews.com
+      name: Vallejo Times Herald
+      domain: timesheraldonline.com
     quality: 68
     images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2018/02/california-governors-race1.jpg?w=1024&#038;h=727"
+      - url: "https://www.timesheraldonline.com/wp-content/uploads/2021/08/california-governors-race1.jpg?w=1024&#038;h=727"
         width: 1024
         height: 727
+        isCached: true
+  - title: "Kamala Harris to miss Gavin Newsom’s recall defense rally after deadly Kabul bombings"
+    excerpt: "Vice President Kamala Harris will not not attend a planned campaign rally with Gov. Gavin Newsom on Friday, amid a series of deadly bombings Thursday in Afghanistan capital of Kabul. Harris, who spent the past week meeting with foreign leaders in southeast Asia,"
+    publishedDateTime: 2021-08-27T00:17:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article253768158.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article253768158.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article253768158.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 68
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5596404782001/14f4b227-3983-4a2b-952d-06ed9d4eec01/40d241b5-5327-4034-8e05-c8665d65e21b/1280x720/match/image.jpg"
+        width: 1080
+        height: 720
         isCached: true
   - title: "VP Kamala Harris urges Chicagoans to get vaccinated and stay safe: ‘In that way we will build back up’"
     excerpt: "Gov. J.B. Pritzker and Mayor Lori Lightfoot greeted Harris when she landed about 1 p.m. at Midway Airport. The nation’s first ever woman and person of color to serve as vice president was in town to tout President Joe Biden’s vaccine effort on the day he directed states to open vaccine eligibility to all adults by April 19."
@@ -908,6 +940,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "ibZmdQvjfJcVJTCLWiA6/5gLBrOpQpGEaxPQwhI50YXB049RQV6Dh8qK8CPDSjHMe38l0wzusLH6nIJuVgFmW5N3A6Tvn1B1f5yQwdwTnzm9VR3kcyXlOvE43xU5g6MBEVYdy3Y/NoflfBIqw+igmJQhmRREIHfR0CnN9fEUv3cPge+eCIkCptiWNfOXga9P5kJAlslE8UQx9IQ5fAKhKILRu9INVA5KFJzAmXiyAVvBkenhKf3+9Q7mTACp+cPK93RWYDVFyUPvB5rlxdKnc8cmLYCEMYQMyLpT4gC41RjTmgebY9+hrkss3AafP9qVAu3HCtOPi5z72D+u23UAXBAYa3QrjD5OnvwAI13aAnU=;KBeoKIMsr8i8J0BQrW1Jxg=="
+secured: "6z+5dTpgqJCdtNQwc2KvNge2btHseidGPIpEghXOqD9980EWFd/KZVKbINA+P1LJeV97ZGrqP8bKs8FuCnvA07//ruRWIt2yEyMDbs31OsMig2xwnBhn0mnFYu1Dz/f0HEu1IpJ4CrcP04jYDrUU8JdZgZmfkNeaWjawi9PJFWPFPpkyb1/cBBHOVzUJ54T/zLm3+uZUHug1cDINyyQzAChVwgil1hsuR+gJUDzdCOkrOdirYxJFMAekkPRy1fhC29tzxLOpJW3f9cxv7CgOQWEfiamIEd1VbC+kKzRTlsrQiKCqWTcKTGGzzHKBH+roxXUUgLwuCoNJ1/IWZMB1ZFQzVDf/0+C3XYmQPexyBOXqNRMBUWdLKZN/AfAqMrD2ZWLX1L0BFdmb7NoUhXehNowwyAxTJcn5yzekxLajSQnQKymZpK0cTRQb3bYjpZGcGKHZFUqkeSyZ1OP5kzu6EcI+xVy/VlflggNt+7tFQlN+iHQR9A0wF4/9Arn3/9hr8MRF2FX9ylRljmHAkgAAvA==;68uyxTKomaivkl1/msqw+A=="
 ---
 

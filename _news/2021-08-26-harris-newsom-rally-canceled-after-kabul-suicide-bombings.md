@@ -112,6 +112,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Kamala Harris stops at Pearl Harbor on way back from Asia -- but avoids press questions"
+    excerpt: "Kamala Harris returned to the U.S. on Thursday, landing in Hawaii after her trip to Singapore and Vietnam. But the vice president ignored reporters’ questions – whether about Afghanistan or other topics – as she got off Air Force Two for a stop at Joint Base Pearl Harbor-Hickam."
+    publishedDateTime: 2021-08-27T05:33:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1vZVkZO4Bo0/kamala-harris-stops-at-pearl-harbor-on-way-back-from-asia-but-avoids-press-questions"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-stops-at-pearl-harbor-on-way-back-from-asia-but-avoids-press-questions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-stops-at-pearl-harbor-on-way-back-from-asia-but-avoids-press-questions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 177
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b619a043-3f5a-48c9-a172-ecc99ee9856f/828d709c-1ac3-40ec-9dde-f8be1ccc1e93/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "China undermined Harris' Vietnam vaccine outreach by capitalizing on flight delay: report"
     excerpt: "The Chinese government seized on a scheduling delay during Vice President Kamala Harris’ ongoing trip to Vietnam to undercut the White House’s planned outreach regarding COVID-19 vaccine supply, according to a report Wednesday."
     publishedDateTime: 2021-08-26T00:41:26Z
@@ -191,6 +207,22 @@ related:
       - url: "https://images.wsj.net/im-391146/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Kamala Harris scraps rally with California Gov. Newsom after Kabul airport bombing"
+    excerpt: "Vice President Kamala Harris has pulled out of a scheduled rally for California Democratic Gov. Gavin Newsom following Thursday’s deadly bombings in Afghanistan."
+    publishedDateTime: 2021-08-26T23:12:00Z
+    webUrl: "https://nypost.com/2021/08/26/kamala-harris-scraps-rally-with-california-gov-newsom-after-kabul-bombing/"
+    ampWebUrl: "https://nypost.com/2021/08/26/kamala-harris-scraps-rally-with-california-gov-newsom-after-kabul-bombing/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/26/kamala-harris-scraps-rally-with-california-gov-newsom-after-kabul-bombing/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 129
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/Gavin-NewsomHarris.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Leo Terrell alarmed by Kamala Harris telling Americans to start buying Christmas presents"
     excerpt: "Fox News contributor Leo Terrell expressed concern on “Fox & Friends” Tuesday that Democrats are aiming to shut down the U.S. economy again after Vice President Kamala Harris advised shoppers to consider buying Christmas presents now due to global supply chain issues."

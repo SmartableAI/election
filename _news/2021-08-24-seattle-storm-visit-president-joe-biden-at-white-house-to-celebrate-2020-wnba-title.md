@@ -27,105 +27,159 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden praises WNBA champs for social justice activism"
-    excerpt: "The visit marked the first time that an NBA or WNBA team has visited the White House since the Cleveland Cavaliers were feted by Barack Obama in 2016."
-    publishedDateTime: 2021-08-24T00:19:00Z
-    webUrl: "https://www.tampabay.com/sports/2021/08/23/joe-biden-praises-wnba-champs-for-social-justice-activism/"
-    ampWebUrl: "https://www.tampabay.com/sports/2021/08/23/joe-biden-praises-wnba-champs-for-social-justice-activism/?outputType=amp"
-    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/sports/2021/08/23/joe-biden-praises-wnba-champs-for-social-justice-activism/?outputType=amp"
+  - title: "How to Watch, Live Stream Joe Biden's Speech After Attack at Kabul Airport"
+    excerpt: "The speech will be streamed live on the White House's Youtube page. Press secretary Jen Psaki will also brief reporters following Biden's speech at 5:45 p.m. Eastern Time. Two explosions occurred Thursday near the Hamid Karzai International Airport in Kabul,"
+    publishedDateTime: 2021-08-26T18:41:00Z
+    webUrl: "https://www.newsweek.com/how-watch-live-stream-joe-bidens-speech-after-explosions-kabul-airport-1623378"
+    ampWebUrl: "https://www.newsweek.com/how-watch-live-stream-joe-bidens-speech-after-explosions-kabul-airport-1623378?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-watch-live-stream-joe-bidens-speech-after-explosions-kabul-airport-1623378?amp=1"
     type: article
     provider:
-      name: Tampa Bay Times
-      domain: tampabay.com
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1880784/live-stream-joe-bidens-speech-after-explosion.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Biden pledges to Americans in Kabul: 'We will get you home'"
+    excerpt: "President Joe Biden is pledging to Americans still trapped in Afghanistan: “We will get you home.” Biden also said Friday the United States is committed to evacuating all Afghans who assisted the war effort — a potentially vast expansion of the administration's commitments on the airlift so far,"
+    publishedDateTime: 2021-08-20T23:57:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/US-struggles-to-speed-Kabul-airlift-despite-16399637.php"
+    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/US-struggles-to-speed-Kabul-airlift-despite-16399637.php"
+    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/US-struggles-to-speed-Kabul-airlift-despite-16399637.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
     quality: 75
     images:
-      - url: "https://www.tampabay.com/resizer/H3idYXdZk6JBiyKwaxGXggjk8_8=/800x450/filters:focal(2065x1285:2075x1275)/cloudfront-us-east-1.images.arcpublishing.com/tbt/EPAHJMPR7OBARKIDWG2FATIR2Q.jpg"
-        width: 800
-        height: 450
+      - url: "https://s.hdnux.com/photos/01/21/42/55/21375845/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
-  - title: "Seattle Storm visit President Biden, White House to celebrate 2020 WNBA title"
-    excerpt: "The Storm became the first women’s team welcomed by President Biden and the first WNBA squad at the White House since the 2015 Minnesota Lynx."
-    publishedDateTime: 2021-08-23T21:44:00Z
-    webUrl: "https://www.freep.com/story/sports/wnba/storm/2021/08/23/seattle-storm-visit-president-biden-white-house-honor-wnba-title/8245818002/"
-    ampWebUrl: "https://amp.freep.com/amp/8245818002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/8245818002"
+  - title: "Warnings of possible attack at Kabul airport; Biden, Israeli PM to meet; MLS gaining popularity"
+    excerpt: "Britain warns attack on Kabul airport could come within hours; Biden, Israeli PM to meet for first time; MLS seeing boost in popularity. Here are this morning's headlines."
+    publishedDateTime: 2021-08-26T11:30:00Z
+    webUrl: "https://journaltimes.com/news/national/warnings-of-possible-attack-at-kabul-airport-biden-israeli-pm-to-meet-mls-gaining-popularity/article_78828fdb-9660-5ee3-87ec-630e46aa96df.html"
+    ampWebUrl: "https://journaltimes.com/news/national/warnings-of-possible-attack-at-kabul-airport-biden-israeli-pm-to-meet-mls-gaining-popularity/article_78828fdb-9660-5ee3-87ec-630e46aa96df.amp.html"
+    cdnAmpWebUrl: "https://journaltimes-com.cdn.ampproject.org/c/s/journaltimes.com/news/national/warnings-of-possible-attack-at-kabul-airport-biden-israeli-pm-to-meet-mls-gaining-popularity/article_78828fdb-9660-5ee3-87ec-630e46aa96df.amp.html"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 72
+      name: The Journal Times
+      domain: journaltimes.com
+    quality: 63
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/08/23/USAT/eaa65bb6-091f-4e5e-b30d-bdbf44364616-GTY_1234836329.jpg?auto=webp&crop=7544,4244,x1,y787&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/assets/v3/editorial/3/de/3de70453-82d6-5d75-93c2-1709427cb75c/6127784a84c0f.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "WNBA News: What Joe Biden Said About Champion Seattle Storm In Their White House Visit"
-    excerpt: "The Seattle Storm visited President Joe Biden at the White House on Monday to celebrate their 2020 WNBA championship. Seattle defeated the Las Vegas Aces in a 3-game sweep, giving the organization their fourth championship title in their history."
-    publishedDateTime: 2021-08-23T22:52:00Z
-    webUrl: "https://www.ibtimes.com/wnba-news-what-joe-biden-said-about-champion-seattle-storm-their-white-house-visit-3279414"
-    ampWebUrl: "https://www.ibtimes.com/wnba-news-what-joe-biden-said-about-champion-seattle-storm-their-white-house-visit-3279414?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/wnba-news-what-joe-biden-said-about-champion-seattle-storm-their-white-house-visit-3279414?amp=1"
+  - title: "Biden: Flights out of Kabul accelerating"
+    excerpt: "President Joe Biden said Sunday that the U.S.-led evacuation of Americans, at-risk Afghans and others from the Kabul airport accelerated this weekend, although it remains vulnerable to threats posed by the Islamic State extremist group."
+    publishedDateTime: 2021-08-23T09:41:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/aug/23/biden-flights-out-of-kabul-accelerating/?news"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 67
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 55
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/22/gettyimages-1025667234.jpg"
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/199206302_199205149-b269d714629643bab6069e788fb3337e_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Biden pledges to Americans in Kabul: 'We will get you home'"
+    excerpt: "President Joe Biden is pledging to Americans still trapped in Afghanistan: \"We will get you home.\" Biden's comments at a White House news conference Friday come as the U.S. government struggles to ramp up a massive airlift clearing Americans and other foreigners and vulnerable Afghans through the Kabul airport,"
+    publishedDateTime: 2021-08-23T23:32:00Z
+    webUrl: "https://www.nwaonline.com/news/2021/aug/20/biden-address-chaotic-kabul-evacuation-amid-critic/"
+    type: article
+    provider:
+      name: Northwest Arkansas Democrat Gazette
+      domain: nwaonline.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/img/news/tease/2021/08/20/Screen_Shot_2021-08-20_at_12.01.24_PM_t600.png?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 335
+        isCached: true
+  - title: "Joe Biden FINALLY lets US troops rescue Americans outside Kabul airport after fearing ‘black hawk-style attack’"
+    excerpt: "JOE Biden finally allowed US soldiers to rescue stranded Americans outside Kabul airport as he feared another “Black Hawk Down” tragedy. The president compared the crisis in Afghanistan with the"
+    publishedDateTime: 2021-08-24T09:13:00Z
+    webUrl: "https://www.the-sun.com/news/3529625/joe-biden-troops-rescue-americans-kabul-black-hawk/"
+    ampWebUrl: "https://www.the-sun.com/news/3529625/joe-biden-troops-rescue-americans-kabul-black-hawk/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3529625/joe-biden-troops-rescue-americans-kabul-black-hawk/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 55
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/JG-COMP-AFGHAN-SOMALIA.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
         width: 1200
         height: 800
         isCached: true
-  - title: "Biden celebrates 2020 WNBA champs Seattle Storm"
-    excerpt: "President Joe Biden honored the 2020 WNBA champions Seattle Storm on Monday, celebrating their success on the court and hailing the four-time title holders for changing lives with their social"
-    publishedDateTime: 2021-08-23T23:46:00Z
-    webUrl: "https://www.oleantimesherald.com/biden-celebrates-2020-wnba-champs-seattle-storm/video_c9bf69fc-22dd-5752-bdda-10acc895c530.html"
+  - title: "Biden holds to Kabul Aug. 31 deadline despite criticism"
+    excerpt: "U.S. President Joe Biden says he will stick with his Aug. 31 deadline for finishing a U.S.-led evacuation of Americans, at-risk Afghans and others."
+    publishedDateTime: 2021-08-24T23:57:00Z
+    webUrl: "https://www.kentucky.com/news/nation-world/national/article253700868.html"
+    ampWebUrl: "https://amp.kentucky.com/news/nation-world/national/article253700868.html"
+    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/nation-world/national/article253700868.html"
     type: article
     provider:
-      name: Olean Times Herald
-      domain: oleantimesherald.com
+      name: Lexington Herald Leader
+      domain: kentucky.com
+    quality: 55
+  - title: "2 US lawmakers’ Kabul trip prompts Biden administration fury"
+    excerpt: "Two members of Congress flew unannounced into Kabul airport in the middle of the ongoing chaotic evacuation, and their visit Tuesday stunned State Department and U.S. military personnel who had to divert resources to provide security and information to the lawmakers."
+    publishedDateTime: 2021-08-26T15:35:00Z
+    webUrl: "https://www.sanluisobispo.com/news/business/article253727773.html"
+    ampWebUrl: "https://amp.sanluisobispo.com/news/business/article253727773.html"
+    cdnAmpWebUrl: "https://amp-sanluisobispo-com.cdn.ampproject.org/c/s/amp.sanluisobispo.com/news/business/article253727773.html"
+    type: article
+    provider:
+      name: SanLuisObispo
+      domain: sanluisobispo.com
+    quality: 55
+  - title: "Republicans point fingers at Biden moments after Kabul blasts"
+    excerpt: "By Melanie Zanona, Jeremy Herb and Alex Rogers, CNN Republicans in Congress quickly escalated their criticism of President Joe Biden’s withdrawal of US troops from Afghanistan after two explosions outside Kabul’s airport on Thursday caused the first American casualties since the mass evacuation began."
+    publishedDateTime: 2021-08-26T23:40:00Z
+    webUrl: "https://localnews8.com/politics/cnn-us-politics/2021/08/26/house-republicans-point-fingers-at-biden-moments-after-kabul-blasts/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
     quality: 55
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/oleantimesherald.com/content/tncms/assets/v3/editorial/c/9b/c9bf69fc-22dd-5752-bdda-10acc895c530/61243394cd1bd.preview.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
+      - url: "https://localnews8.b-cdn.net/2021/06/Politics-logo-new_KIFIMIFI.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Biden kneels at White House celebration of WNBA champs Seattle Storm"
-    excerpt: "President Joe Biden got down on one knee in the East Room during the celebration of the WNBA champions Seattle Storm."
-    publishedDateTime: 2021-08-24T03:29:00Z
-    webUrl: "https://thegrio.com/2021/08/23/biden-kneels-white-house-wnba-seattle-storm/"
+  - title: "Joe Biden FINALLY lets US troops to rescue Americans outside Kabul airport after fearing ‘black hawk-style attack’"
+    excerpt: "JOE Biden finally allowed US soldiers to rescue stranded Americans outside Kabul airport as he feared another “Black Hawk Down” tragedy. The president discussed the attack on a conference call"
+    publishedDateTime: 2021-08-24T09:13:00Z
+    webUrl: "https://www.thesun.co.uk/news/15950663/joe-biden-troops-rescue-americans-kabul-black-hawk/"
+    ampWebUrl: "https://www.thesun.co.uk/news/15950663/joe-biden-troops-rescue-americans-kabul-black-hawk/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/15950663/joe-biden-troops-rescue-americans-kabul-black-hawk/amp/"
     type: article
     provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 55
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 53
     images:
-      - url: "https://thegrio.com/wp-content/uploads/2021/08/240820211629775420-1-scaled.jpg"
-        width: 1280
-        height: 853
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2021/08/JG-COMP-AFGHAN-SOMALIA-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Biden praises WNBA champs for social justice activism"
-    excerpt: "President Joe Biden honored the 2020 WNBA champions Seattle Storm on Monday, celebrating their success on the court and hailing the four-time title holders for changing lives with"
-    publishedDateTime: 2021-08-24T13:26:00Z
-    webUrl: "https://www.phillytrib.com/sports/biden-praises-wnba-champs-for-social-justice-activism/article_a4098845-3c9c-5182-ba4a-4f5a594da7bc.html"
+  - title: "Allies embraced Biden. Did Kabul lay bare \"great illusion\"?"
+    excerpt: "Well before U.S. President Joe Biden took office early this year, the European Union's foreign policy chief sang his praises and hailed a new era in cooperation. So did almost all of Washington's Western allies."
+    publishedDateTime: 2021-08-22T07:09:00Z
+    webUrl: "https://columbiabasinherald.com/news/2021/aug/22/allies-embraced-biden-did-kabul-lay-bare-2/"
     type: article
     provider:
-      name: Philadelphia Tribune
-      domain: phillytrib.com
-    quality: 55
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/assets/v3/editorial/5/5f/55fd9673-7d2d-5b10-a2e3-90069a1434d2/6124f3e31a6b5.image.jpg?crop=834%2C439%2C79%2C26&resize=400%2C211&order=crop%2Cresize"
-        width: 400
-        height: 211
-        isCached: true
-  - title: "Biden Agrees With Pentagon Recommendation to Stick to Aug 31 Afghan Pullout Deadline – Source"
-    excerpt: "WASHINGTON (Reuters) - President Joe Biden has agreed with a Pentagon recommendation to stick with the Aug. 31 Afghanistan withdrawal deadline, an administration official told Reuters on Tuesday. The Pentagon recommendation was made on Monday based on ..."
-    publishedDateTime: 2021-08-24T15:36:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2021-08-24/biden-agrees-with-pentagon-recommendation-to-stick-to-aug-31-afghan-pullout-deadline-source"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 24
+      name: Columbia Basin Herald
+      domain: columbiabasinherald.com
+    quality: 35
 
 secured: "86oY/CvqWOHJvypBmz/S6iS/jGsbQnSh4pzA0TLMNRtOrVdj2djKS/ypBw74PGxLDKwz6a/7DX5wAAufHqi2Gm/EcrtR80fpi2lVC+Mtw8x2j+D1E1nqpO0CUnN3S3y3d9gClodKNO691Q7KqNOtK/1ln64t4We6McwV4S4yrsfcLwLBkKLCTGLrMXopdIBlwj3DJbrTRT43SoBTuxX5h+bwU4N5k65V/Ws2QZUJBBC7Fho+0qJo6+5bSoyqPUHUMBA9/tq9GJhmc25hu1F8+dYXEymg5hCRD/Wwl7r12BYN6zrqalibGBf+cqsZUw7/pjUOwqgDaev+hXrgr3Di8uoblWBOwZZg7P1ppHb4Rvc=;D1x3kxtepRGFXJNlf6eKiA=="
 ---

@@ -3,18 +3,18 @@ category: news
 title: "Twitter blocked and labeled Donald Trump's tweets on election fraud. They spread anyway."
 excerpt: "An NYU study of Trump tweets raises new questions about the ability of social media companies to halt the flood of falsehoods during election cycles."
 publishedDateTime: 2021-08-24T16:52:00Z
-originalUrl: "https://www.indystar.com/story/tech/2021/08/24/trump-twitter-block-election-fraud-tweets-facebook-instagram-posts/8218382002/"
-webUrl: "https://www.indystar.com/story/tech/2021/08/24/trump-twitter-block-election-fraud-tweets-facebook-instagram-posts/8218382002/"
-ampWebUrl: "https://amp.indystar.com/amp/8218382002"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/8218382002"
+originalUrl: "https://www.freep.com/story/tech/2021/08/24/trump-twitter-block-election-fraud-tweets-facebook-instagram-posts/8218382002/"
+webUrl: "https://www.freep.com/story/tech/2021/08/24/trump-twitter-block-election-fraud-tweets-facebook-instagram-posts/8218382002/"
+ampWebUrl: "https://amp.freep.com/amp/8218382002"
+cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/8218382002"
 type: article
 quality: 81
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Election
@@ -120,6 +120,6 @@ related:
         height: 400
         isCached: true
 
-secured: "N619esCD8Z/4QVJP+glQATeE6zaAwS9J2tJpp1RyUnsiYYvD27MRf0gy3JUc47V5eN32SkrOcZ3gRhMJwKFrZNUbu06BZnaxJGGlBmBCM7wNVRqUrZjzg8goptQ0bfTpCQL1FqVDLGqEjJSGREzkwKvn5R8meDHY3weakmVvp2R1P7LOwYao/PXeg7m0KHj1aPP+7fMecYkG/142UP2p6BJ6ncrhTIIozg1dT1woPg+2nQvRypbWuW+XA2T7kbto+p/h20ZbuF4sQIjQpTQib7VuT2i8Bj4fk7gEI0+3mGy+WhIYRDAmjm1dpbAPT3mAA//yBuZrOXrIN4MsSTOPZzOFcSPVYfB0kjcZysXJt/A=;tiN1LxPG/Zm6X5K6bQV8Fg=="
+secured: "ZfB6J62APRw6ZVj1ax3C2OGD2IGJU6NiAipwE0jStDQ/zOSYbnXKUUgVBsk771Vkm81zUqEIL2ch2OD46N5lCGopG90h6+NePQjIjSkFqtE4nTQkgQoMMBFxZYVE1tvZlYkQPOkrMxCqj6VOslyuFR6FBCu5zA+KSnGAtcg7+ria4hyCVXjN7F7e1ukFQifyQ08bWD8x7KW/4liY50ZS4tftFH6yl9bjo8Zf1GdVaABsINIK1ENPVEVT1kqrCaDoV4+egCCj1TU9qQOPfrBkbml1GrQ6rXNfZmYNmg/mKgS7BvS1q47Q/TS6FlAqtrJc0SqZQGav/DCIMKlTbRmAJxAw61ystOdhRRNKbvFRFkA=;uSZyTI2n9VnNM+XF9FV3Zg=="
 ---
 

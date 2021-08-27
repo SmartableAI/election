@@ -95,6 +95,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Trump says Kabul airport explosion wouldn’t have happened if he was president"
+    excerpt: "Donald Trump hammered Biden over the suicide bombings outside Kabul’s airport, claiming that “it would not have happened if I was your president.”"
+    publishedDateTime: 2021-08-27T04:32:00Z
+    webUrl: "https://nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/"
+    ampWebUrl: "https://nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 132
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-afghanistan-bomging-index.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "0ABafWYgHJxJ4WRvo9meKuEukMVzeSO4qqDRXOagi5OkclIc9X+lHG0Z71cUosCdYXl4Gy+Av+GqUt2m5slgB09S3aJYOWtYf2rq+ZDUN+QqK1pp+5XpZVtFxL1OwtvPfMLNiJ87JncqsdwMydm/6vlRKS1dFsIXRSN8AjMdomgRovUVU1deUUUIN8xEkMU7z7Xs+Em/FgK7I1q2aYDlGO25Y8x+iWZb1uNOB5X1I8b3O2Q782sNCWS9r/Ux2Wku9ZL6kR91tpeZLTRkQ13/UEKbYXtIjv1mjRTwsSsHKVgus0traodLYOl9l3Sg6FdpvXLSPQAhNJY++uZqiQJOoELYxuihB+3wsftl1PEe+yQ=;cKLXQGkVGR/HkwCAIa1s1A=="
 ---

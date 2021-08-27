@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "McCarthy tells Republicans Biden will face a 'reckoning' for handling of Afghanistan exit"
+    excerpt: "Republicans in Congress quickly escalated their criticism of President Joe Biden's withdrawal of US troops from Afghanistan after two explosions outside Kabul's airport on Thursday caused the first American casualties since the mass evacuation began.\n    \n"
+    publishedDateTime: 2021-08-27T03:14:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Oo6vJCiFD0c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/26/politics/republicans-kabul-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/26/politics/republicans-kabul-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210826094704-01-kabul-airport-210626-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "First US troops have started leaving Afghanistan as Biden decides not to extend withdrawal deadline"
     excerpt: "The first US troops have started leaving Afghanistan on the same day President Joe Biden decided not to extend the August 31 evacuation deadline, two defense officials told CNN.\n    \n"
     publishedDateTime: 2021-08-24T21:45:06Z

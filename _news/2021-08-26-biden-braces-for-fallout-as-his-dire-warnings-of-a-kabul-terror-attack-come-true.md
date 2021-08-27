@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to Kabul attackers: 'We will hunt you down and make you pay'"
+    excerpt: "Terrorist explosions outside Kabul's international airport on Thursday that wounded Americans came after days of public and private warnings from President Joe Biden of a potential attack that could disrupt the massive airlift effort underway there.\n    \n"
+    publishedDateTime: 2021-08-27T00:12:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3LOTC5LMpLQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/26/politics/biden-kabul-attack/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/26/politics/biden-kabul-attack/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210826172926-02-biden-afghanistan-bombings-0826-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden has approved $9.5 billion in student loan cancellations this year for defrauded and disabled students"
     excerpt: "The Department of Education said Thursday that it will cancel $1.1 billion in student loan debt for some students who attended the now-defunct for-profit ITT Technical Institute -- bringing the total amount of loan discharges approved under President Joe Biden to $9.5 billion.\n    \n"
     publishedDateTime: 2021-08-26T20:19:50Z

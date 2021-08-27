@@ -112,6 +112,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Kamala Harris' campaign rally for Newsom canceled after Afghanistan attacks"
+    excerpt: "Vice President Kamala Harris will not campaign on Friday for Gavin Newsom amid his recall fight, skipping a planned Bay Area rally for the Democratic governor. Harris, returning f"
+    publishedDateTime: 2021-08-26T21:53:00Z
+    webUrl: "https://www.politico.com/states/california/story/2021/08/26/kamala-harris-campaign-rally-for-newsom-canceled-after-afghanistan-attacks-1390520"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 113
+    images:
+      - url: "https://static.politico.com/c9/6f/ca2385da4d5c8e314e4fc74f00a8/8-26-21-kamala-harris-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "Au+BQ8uQwGfAwYKnev42eOMhMYxM1rh1MSAp+XqGgTz2Z/HfVG96NqftyJoCJpUVV92iH0qqX2faUrZQfqTGxBirLZr7x2ZhFv3Znh5QAR5DQ7rBAbah4RWix01E5B+dSALklICPhSrG7Hn6zkLeIf/ZgeK0uxvuHwl69djZy6Q8w6ZBocDGX9R2+pWZY1jmzC/UKzY0fxT04HecLJ4SzrP3VKui/CeAq5o28uiY9YwuMeIAAHeVFw1eU83/jshHIgvSMArmAWQPMvU85AuW2cJW1qYAm/uIsVYp7rHVZ5tqlZAXZstcL6NFfJ9fB2fyDVUa/3EX5xhtM8ZBxAi4BDjt610bc8vZWeVo/znK9Ng=;rxOkOBkMlMYKeXPp6kyvEQ=="
 ---

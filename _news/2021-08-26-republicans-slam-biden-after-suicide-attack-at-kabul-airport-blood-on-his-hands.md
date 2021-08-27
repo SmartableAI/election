@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/republicans-slam-biden-suicide-atta
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-slam-biden-suicide-attack-kabul-airport.amp"
 type: article
 quality: 169
-heat: 249
+heat: 269
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c86d9104-8c3d-42b0-aa8c-58d7d652579a/608765f6-b3cd-4b1e-8ab6-543ac87a94cc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Trump says Kabul airport explosion wouldn’t have happened if he was president"
+    excerpt: "Donald Trump hammered Biden over the suicide bombings outside Kabul’s airport, claiming that “it would not have happened if I was your president.”"
+    publishedDateTime: 2021-08-27T04:32:00Z
+    webUrl: "https://nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/"
+    ampWebUrl: "https://nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 132
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-afghanistan-bomging-index.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "a4g1yFMahGHTCJJsK1hk30JdZ418LPWkHaa1RbqvML3CBJ9gv4Cl/VyD8jsgkWLgCaNC7n/jPvn15dPDxG8NqeJjatEzVtkA70eHUo1vrMuLRCtX3JNgRJuEgzHvIYdzxLAVlNAnHkqeuHnSE2Y7FfKB1zjgoHQ3//MCSVNcjzTdOQCGrRZbj8V5YWbV75ENEu5xeXIlnFhPHe1nCJ2BBlGK2C+nW7fKQk648+719S5EDLCZoKPj8tr0mjtXl4yUnIfrv7ik8LvvYPwVjJVV74JKmypHtBy0s4+/yciN/c+PPzd8R0rlDMsturx6LPa0/Ri8qClNA51V9WbpfGBx6qoVcD6h71ODCti1jjs0clk=;F/EwJXmnAoCT6wCDBvp6UQ=="

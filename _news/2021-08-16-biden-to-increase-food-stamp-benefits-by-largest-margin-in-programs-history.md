@@ -69,20 +69,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Republicans point fingers at Biden moments after Kabul blasts"
-    excerpt: "By Melanie Zanona, Jeremy Herb and Alex Rogers, CNN Republicans in Congress quickly escalated their criticism of President Joe Biden’s withdrawal of US troops from Afghanistan after two explosions outside Kabul’s airport on Thursday caused the first American casualties since the mass evacuation began."
-    publishedDateTime: 2021-08-26T23:40:00Z
-    webUrl: "https://localnews8.com/politics/cnn-us-politics/2021/08/26/house-republicans-point-fingers-at-biden-moments-after-kabul-blasts/"
-    type: article
-    provider:
-      name: Local News 8
-      domain: localnews8.com
-    quality: 55
-    images:
-      - url: "https://localnews8.b-cdn.net/2021/06/Politics-logo-new_KIFIMIFI.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Rep Marjorie Taylor Greene filing articles of impeachment against President Joe Biden and calls him a ‘pathetic puppet’"
     excerpt: "GOP Rep. Marjorie Taylor Greene announced she will file articles of impeachment against President Biden during an America First rally in Des Moines Thursday night. Greene said at the rally:"
     publishedDateTime: 2021-08-20T04:57:00Z

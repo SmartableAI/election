@@ -43,38 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Joe Biden FINALLY lets US troops rescue Americans outside Kabul airport after fearing ‘black hawk-style attack’"
-    excerpt: "JOE Biden finally allowed US soldiers to rescue stranded Americans outside Kabul airport as he feared another “Black Hawk Down” tragedy. The president compared the crisis in Afghanistan with the"
-    publishedDateTime: 2021-08-24T09:13:00Z
-    webUrl: "https://www.the-sun.com/news/3529625/joe-biden-troops-rescue-americans-kabul-black-hawk/"
-    ampWebUrl: "https://www.the-sun.com/news/3529625/joe-biden-troops-rescue-americans-kabul-black-hawk/amp/"
-    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3529625/joe-biden-troops-rescue-americans-kabul-black-hawk/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: the-sun.com
-    quality: 55
-    images:
-      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/JG-COMP-AFGHAN-SOMALIA.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Joe Biden FINALLY lets US troops to rescue Americans outside Kabul airport after fearing ‘black hawk-style attack’"
-    excerpt: "JOE Biden finally allowed US soldiers to rescue stranded Americans outside Kabul airport as he feared another “Black Hawk Down” tragedy. The president discussed the attack on a conference call"
-    publishedDateTime: 2021-08-24T09:13:00Z
-    webUrl: "https://www.thesun.co.uk/news/15950663/joe-biden-troops-rescue-americans-kabul-black-hawk/"
-    ampWebUrl: "https://www.thesun.co.uk/news/15950663/joe-biden-troops-rescue-americans-kabul-black-hawk/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/15950663/joe-biden-troops-rescue-americans-kabul-black-hawk/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 53
-    images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2021/08/JG-COMP-AFGHAN-SOMALIA-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "tnDlO5RAgxp4ouqT8aw6FHxSHKcebTztagrFZKticMhr+2ijY6oy3CEylshK135cHp43+D2X70xWjHSMnOL2cohdcAzKBLNN1IMGkNyydWgBeKDXEhr1V13L8wsiUaoZLZ2ku2smz6FoyvULorDAam0D3M7OTIUdPIscjzDbn+G32+4AsT9+X7W3GzKFGupoLttDDqRGchoG32UU1IQmjhFM0KPfPyi6/pnS5I6adjPozm/018iKaGxJdoa1zia7kk6i2AaY5+Q7vKpGBQtu2C+cxn4Gxcx1fXp+p+0dGtlNyZx/VtcUS9aIFv2G/iaTrYd606IumIhrCwAr14chxljEMz7Y/HIBK7AzU0vJa6I=;nTReqtS8DLHJPgOKXSu4sg=="
 ---

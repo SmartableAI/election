@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Lawyers allied with Trump penalized over Michigan lawsuit"
-excerpt: "Nine lawyers allied with former President Donald Trump face financial penalties and other sanctions after a judge Wednesday said they had abused the"
-publishedDateTime: 2021-08-26T21:23:00Z
-originalUrl: "https://www.macombdaily.com/2021/08/26/lawyers-allied-with-trump-penalized-over-michigan-lawsuit-2/"
-webUrl: "https://www.macombdaily.com/2021/08/26/lawyers-allied-with-trump-penalized-over-michigan-lawsuit-2/"
-ampWebUrl: "https://www.macombdaily.com/2021/08/26/lawyers-allied-with-trump-penalized-over-michigan-lawsuit-2/amp/"
-cdnAmpWebUrl: "https://www-macombdaily-com.cdn.ampproject.org/c/s/www.macombdaily.com/2021/08/26/lawyers-allied-with-trump-penalized-over-michigan-lawsuit-2/amp/"
+excerpt: "Nine lawyers allied with former President Donald Trump face financial penalties and other sanctions in Michigan"
+publishedDateTime: 2021-08-27T03:09:00Z
+originalUrl: "https://www.spokesman.com/stories/2021/aug/26/lawyers-allied-with-trump-penalized-over-michigan-/"
+webUrl: "https://www.spokesman.com/stories/2021/aug/26/lawyers-allied-with-trump-penalized-over-michigan-/"
+ampWebUrl: "https://www.spokesman.com/stories/2021/aug/26/lawyers-allied-with-trump-penalized-over-michigan-/?amp-content=amp"
+cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/aug/26/lawyers-allied-with-trump-penalized-over-michigan-/?amp-content=amp"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: The Macomb Daily
-  domain: macombdaily.com
+  name: The Spokesman-Review
+  domain: spokesman.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://www.macombdaily.com/wp-content/uploads/2021/08/AP21237822016888-1.jpg?w=1024&#038;h=683"
-    width: 1024
-    height: 683
+  - url: "https://thumb.spokesman.com/Of5YvvCBWMGvEcmIabPQUIKMQhM=/480x0/media.spokesman.com/photos/2021/08/26/6128091219315.hires.jpg"
+    width: 480
+    height: 320
     isCached: true
 
 related:
@@ -235,6 +235,6 @@ related:
         height: 710
         isCached: true
 
-secured: "FBAcIZEiElnjXQBioGosIyzSpoTz0dBcWwPhIWx4jz59z5el5yKyE1d6VHWDE6T0fGfL3pU/8xbDKWalRWaGgJgioaaS9dfTE0H3elpUUer1YpWyKYEaNxIb7Yi6fRrEDgJVTUQOBxjiiWHNBmYr/vBIWm8tIzu6ziy3215PgG8f1jnKk+l5Ck4K+XesBAaHYVkhfdC5SRqdjBeGqPrWcUDHUJovgGyyEwfdfe3Wzu1j7y/8/iqrAI/FbUuxX4pHy4THzDE4Z66r4SSCwFwMn5CtCBP3WD4IngQU9fj9XjxDlxc4kj88ruSrpRSbfrO3tbgIqj3T1kqPO4u42beZ9NIIYRGlOdAZqcNAMGJqjKg=;128lBoeqe8p9OazorJygXQ=="
+secured: "pt+SSijGZ/eUH9irN8E5VJVr0UkOUyYBBTELfONUDNE6eMCqj4yxdHz+OcJMIw3LBwXR+AWFKdcuvFQQ6gXgcqzbBDq38ne+8fvjOetA02ciGamogShpmEJMGSO0rQAJiBPaeiQM3GryLWHhjhfQDt9VfNIajqjYsl1eaoBLvh1BlSYMY2istk6j63Expff6tNXK2u61675O7leqWKINeHAUi+vRwGkNdPdED/Nvflwf731+akqcLMvzIUsYSLOcVLwj9v1QOQy9acSnTi0soJG69QjyXykBrsoO4FLgP+zjD3PtaXPDY3w2yv5nBzsNxe5ZZ/hXLCVIROmndI6vt5wfWb7Wb5aRPMawvEopWuE=;Ytb6Cy1e1AT3aISshma+jQ=="
 ---
 
