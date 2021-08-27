@@ -497,6 +497,22 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Kamala Harris cancels rally with Gavin Newsom after Afghanistan attack"
+    excerpt: "Vice President Kamala Harris will not campaign with Gov. Gavin Newsom on Friday, canceling their planned Bay Area rally hours after suicide bombings in Afghanistan killed U.S. troops and scores of fleeing Afghans."
+    publishedDateTime: 2021-08-26T18:46:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Kamala-Harris-cancels-rally-with-Gavin-Newsom-16414390.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Kamala-Harris-cancels-rally-with-Gavin-Newsom-16414390.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Kamala-Harris-cancels-rally-with-Gavin-Newsom-16414390.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/47/65/21396822/3/400x0.jpg"
+        width: 400
+        height: 266
+        isCached: true
   - title: "Kamala Harris comes to Oakland to promote $2 trillion infrastructure plan"
     excerpt: "Kamala Harris returned to Oakland for the first time as vice president Monday to tout the Biden administration’s $2 trillion infrastructure plan. She was greeted on the tarmac at Oakland International Airport by California Democratic Sen. Alex Padilla ..."
     publishedDateTime: 2021-04-05T19:41:00Z
@@ -528,6 +544,22 @@ related:
       - url: "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2021/03/Kamala-Harris.jpg?fit=789%2C460&ssl=1"
         width: 789
         height: 460
+        isCached: true
+  - title: "VP Kamala Harris cancels trip to Bay Area for rally to stop Newsom recall"
+    excerpt: "Representatives from Newsom’s campaign confirmed the cancellations Thursday, but did not explain whether the explosions that killed at least a dozen U.S. service members and injured at least 15"
+    publishedDateTime: 2021-08-26T19:48:00Z
+    webUrl: "https://www.mercurynews.com/2021/08/26/vp-kamala-harris-cancels-appearance-with-california-gov-newsom-to-fight-recall/"
+    ampWebUrl: "https://www.mercurynews.com/2021/08/26/vp-kamala-harris-cancels-appearance-with-california-gov-newsom-to-fight-recall/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/08/26/vp-kamala-harris-cancels-appearance-with-california-gov-newsom-to-fight-recall/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 74
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/04/AP21095651805111.jpg?w=1024&#038;h=683"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Kamala Harris lists Washington D.C. condo for $2M | Raleigh News & Observer"
     excerpt: "Vice President Kamala Harris has been busy. After being sworn into office in January, she’s sold off her one-bedroom, two-bath San Francisco condo and now, her Washington D.C. apartment is availablefor grabs for $1."

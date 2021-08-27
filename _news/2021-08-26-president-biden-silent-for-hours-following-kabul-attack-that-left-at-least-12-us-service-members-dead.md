@@ -63,6 +63,38 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden admits he bears responsibility for Kabul attack, defends withdrawal when pressed by Doocy"
+    excerpt: "President Biden told reporters Thursday that he bears responsibility for the “messy” evacuation and consequential suicide bombings in Kabul."
+    publishedDateTime: 2021-08-26T23:11:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CQ3fwHGqvpE/biden-says-he-bears-responsibility-for-kabul-attack-defends-withdrawal"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-he-bears-responsibility-for-kabul-attack-defends-withdrawal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-he-bears-responsibility-for-kabul-attack-defends-withdrawal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14c646a6-ad3d-4268-aace-2e063ea85db7/12540c0f-99ca-442a-be78-656b4a413121/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden doesn't deny report of US handing over names of Americans to Taliban: 'There may have been'"
+    excerpt: "President Biden did not deny a report circulating Thursday that officials in his administration had provided names of Americans in Afghanistan to the Taliban in order to help usher them safely to the airport."
+    publishedDateTime: 2021-08-26T22:10:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OK6k2tKrGqA/biden-doesnt-deny-report-of-u-s-handing-over-names-of-americans-to-taliban-theyre-may-have-been"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-doesnt-deny-report-of-u-s-handing-over-names-of-americans-to-taliban-theyre-may-have-been.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doesnt-deny-report-of-u-s-handing-over-names-of-americans-to-taliban-theyre-may-have-been.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/36970f94-cdd7-4d94-95be-ecb45dc8e5c4/22c1fa4f-9b06-4657-bd69-c02e796da689/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "0ABafWYgHJxJ4WRvo9meKuEukMVzeSO4qqDRXOagi5OkclIc9X+lHG0Z71cUosCdYXl4Gy+Av+GqUt2m5slgB09S3aJYOWtYf2rq+ZDUN+QqK1pp+5XpZVtFxL1OwtvPfMLNiJ87JncqsdwMydm/6vlRKS1dFsIXRSN8AjMdomgRovUVU1deUUUIN8xEkMU7z7Xs+Em/FgK7I1q2aYDlGO25Y8x+iWZb1uNOB5X1I8b3O2Q782sNCWS9r/Ux2Wku9ZL6kR91tpeZLTRkQ13/UEKbYXtIjv1mjRTwsSsHKVgus0traodLYOl9l3Sg6FdpvXLSPQAhNJY++uZqiQJOoELYxuihB+3wsftl1PEe+yQ=;cKLXQGkVGR/HkwCAIa1s1A=="
 ---

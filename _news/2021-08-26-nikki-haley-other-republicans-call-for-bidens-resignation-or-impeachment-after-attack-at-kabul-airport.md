@@ -31,35 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Republicans torch White House for claiming Biden never 'shies away' from questions"
-    excerpt: "GOP lawmakers are smashing Biden over White House communications director Kate Bedingfield’s Friday claim that the president does not turn away from questions."
-    publishedDateTime: 2021-08-20T16:02:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rs35_dacLko/republicans-torch-white-house-claim-biden-never-shies-away-questions"
-    ampWebUrl: "https://www.foxnews.com/politics/republicans-torch-white-house-claim-biden-never-shies-away-questions.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-torch-white-house-claim-biden-never-shies-away-questions.amp"
+  - title: "Psaki dismisses calls for Biden to resign: 'Not a day for politics'"
+    excerpt: "White House Press Secretary Jen Psaki dismissed calls for President Joe Biden to resign in the wake of a terrorist attack in Kabul, Afghanistan that killed 13 U.S. service members, saying that there’s no room for politics in the discussion of the tragedy."
+    publishedDateTime: 2021-08-26T23:46:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UOSQkpsa_DQ/psaki-dismisses-calls-for-biden-to-resign-not-a-day-for-politics"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-dismisses-calls-for-biden-to-resign-not-a-day-for-politics.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-dismisses-calls-for-biden-to-resign-not-a-day-for-politics.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/25684f3a-65f3-4e86-999a-f1deb767a447/82c540db-f631-4b89-9efc-17f0257f7e3f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden claims 'no question' American credibility hasn't suffered, 2 days after UK Parliament condemnation"
-    excerpt: "President Joe Biden is pushing back on claims that America's international credibility has been tarnished, days after the British Parliament and other NATO leaders have criticized the botched U.S.-led withdrawal from Afghanistan. "
-    publishedDateTime: 2021-08-20T19:00:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/16kkM0MI6FA/biden-afghanistan-american-credibility-uk-parliament-condemnation"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-afghanistan-american-credibility-uk-parliament-condemnation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-afghanistan-american-credibility-uk-parliament-condemnation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c3b63dcc-1147-43e4-bb4a-9685f6b374d0/fee2a2e0-da3d-4f09-9c31-1e3200ea5043/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14c646a6-ad3d-4268-aace-2e063ea85db7/12540c0f-99ca-442a-be78-656b4a413121/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

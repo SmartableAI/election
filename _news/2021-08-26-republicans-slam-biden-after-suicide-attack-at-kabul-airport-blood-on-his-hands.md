@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/republicans-slam-biden-suicide-atta
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-slam-biden-suicide-attack-kabul-airport.amp"
 type: article
 quality: 169
-heat: 209
+heat: 249
 published: true
 
 provider:
@@ -44,6 +44,38 @@ related:
     quality: 166
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c86d9104-8c3d-42b0-aa8c-58d7d652579a/608765f6-b3cd-4b1e-8ab6-543ac87a94cc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden admits he bears responsibility for Kabul attack, defends withdrawal when pressed by Doocy"
+    excerpt: "President Biden told reporters Thursday that he bears responsibility for the “messy” evacuation and consequential suicide bombings in Kabul."
+    publishedDateTime: 2021-08-26T23:11:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CQ3fwHGqvpE/biden-says-he-bears-responsibility-for-kabul-attack-defends-withdrawal"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-he-bears-responsibility-for-kabul-attack-defends-withdrawal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-he-bears-responsibility-for-kabul-attack-defends-withdrawal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14c646a6-ad3d-4268-aace-2e063ea85db7/12540c0f-99ca-442a-be78-656b4a413121/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden doesn't deny report of US handing over names of Americans to Taliban: 'There may have been'"
+    excerpt: "President Biden did not deny a report circulating Thursday that officials in his administration had provided names of Americans in Afghanistan to the Taliban in order to help usher them safely to the airport."
+    publishedDateTime: 2021-08-26T22:10:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OK6k2tKrGqA/biden-doesnt-deny-report-of-u-s-handing-over-names-of-americans-to-taliban-theyre-may-have-been"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-doesnt-deny-report-of-u-s-handing-over-names-of-americans-to-taliban-theyre-may-have-been.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doesnt-deny-report-of-u-s-handing-over-names-of-americans-to-taliban-theyre-may-have-been.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/36970f94-cdd7-4d94-95be-ecb45dc8e5c4/22c1fa4f-9b06-4657-bd69-c02e796da689/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

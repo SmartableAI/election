@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/marjorie-taylor-greene-foul-mouthed-broadsi
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/marjorie-taylor-greene-foul-mouthed-broadside-joe-biden-video-1620960?amp=1"
 type: article
 quality: 122
-heat: 202
+heat: 222
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://www.wtrf.com/wp-content/uploads/sites/25/2021/08/bd483aca5c3c480d97abdfd04d09172c.jpg?w=1280"
         width: 1280
         height: 853
+        isCached: true
+  - title: "Republicans point fingers at Biden moments after Kabul blasts"
+    excerpt: "By Melanie Zanona, Jeremy Herb and Alex Rogers, CNN Republicans in Congress quickly escalated their criticism of President Joe Biden’s withdrawal of US troops from Afghanistan after two explosions outside Kabul’s airport on Thursday caused the first American casualties since the mass evacuation began."
+    publishedDateTime: 2021-08-26T23:40:00Z
+    webUrl: "https://localnews8.com/politics/cnn-us-politics/2021/08/26/house-republicans-point-fingers-at-biden-moments-after-kabul-blasts/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 55
+    images:
+      - url: "https://localnews8.b-cdn.net/2021/06/Politics-logo-new_KIFIMIFI.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Biden to increase food stamp benefits by largest margin in program’s history"
     excerpt: "Average food stamp benefits in October will go up by more than 25 percent from pre-pandemic levels for the 42 million people in the program."

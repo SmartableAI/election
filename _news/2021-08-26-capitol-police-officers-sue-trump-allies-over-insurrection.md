@@ -133,22 +133,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Capitol Police officers sue Trump, allies over insurrection"
-    excerpt: "U.S. Capitol Police officers who were attacked and beaten during the Capitol riot filed a lawsuit Thursday against former President Donald Trump, his allies and members of far-right extremist groups,"
-    publishedDateTime: 2021-08-26T21:33:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/House-panel-probing-1-6-riot-seeks-host-of-16412712.php"
-    ampWebUrl: "https://www.houstonchronicle.com/news/amp/House-panel-probing-1-6-riot-seeks-host-of-16412712.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/House-panel-probing-1-6-riot-seeks-host-of-16412712.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 125
-    images:
-      - url: "https://s.hdnux.com/photos/01/21/47/43/21395675/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "‘Apprentice’ contestant’s lawsuit against Trump can resume, N.Y. court says"
     excerpt: "NEW YORK — The New York State Court of Appeals on Tuesday ruled that a defamation case against former president Donald Trump, brought by an \"Apprentice\" contestant who alleged he sexually assaulted her years ago, can go forward as the immunity claim he ..."
     publishedDateTime: 2021-03-30T20:17:00Z
@@ -387,6 +371,38 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Capitol Police officers sue Trump, allies over insurrection"
+    excerpt: "U.S. Capitol Police officers who were attacked and beaten during the Capitol riot filed a lawsuit Thursday against former President Donald Trump, his allies and members of far-right extremist groups,"
+    publishedDateTime: 2021-08-26T22:43:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/aug/26/capitol-police-officers-sue-trump-allies-over-insu/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/aug/26/capitol-police-officers-sue-trump-allies-over-insu/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/aug/26/capitol-police-officers-sue-trump-allies-over-insu/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 75
+    images:
+      - url: "https://thumb.spokesman.com/ZqfWlVWn5t_JsDbPjDFIeor0Mag=/480x0/media.spokesman.com/photos/2021/08/25/612685c5ceca9.hires.jpg"
+        width: 480
+        height: 327
+        isCached: true
+  - title: "Capitol Police officers sue Trump over Jan. 6 attack"
+    excerpt: "Seven U.S. Capitol Police officers sued former President Trump and his allies Thursday in federal court, asking the judge to hold the former president accountable for the Jan. 6 riot at the Capitol, arguing it was spurred by racism."
+    publishedDateTime: 2021-08-26T23:13:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/aug/26/capitol-police-officers-sue-trump-over-jan-6-attac/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/26/capitol-police-officers-sue-trump-over-jan-6-attac/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/26/capitol-police-officers-sue-trump-over-jan-6-attac/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/08/26/Capitol_Breach_Records_40920.jpg-d36b7_c0-209-5007-3129_s1200x700.jpg?fe1f75ee208f295bd57d7aead38a9845e228dc70"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "7 US Capitol police officers sue Donald Trump, his allies over Capitol riot"
     excerpt: "WASHINGTON â€” U.S. Capitol Police officers who were attacked and beaten during the Capitol riot filed a lawsuit Thursday against former President Donald Trump, his allies and members of far-right exâ"
     publishedDateTime: 2021-08-26T16:24:00Z
@@ -526,6 +542,38 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 55
+  - title: "7 US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot"
+    excerpt: "US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot"
+    publishedDateTime: 2021-08-26T23:05:00Z
+    webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-26/7-us-capitol-police-officers-sue-former-president-donald-trump-his-allies-and-extremists-groups-over-capitol-riot"
+    ampWebUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-26/7-us-capitol-police-officers-sue-former-president-donald-trump-his-allies-and-extremists-groups-over-capitol-riot?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2021-08-26/7-us-capitol-police-officers-sue-former-president-donald-trump-his-allies-and-extremists-groups-over-capitol-riot?_amp=true"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 53
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/0618335/2147483647/strip/true/crop/5509x3684+9+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9a%2F04%2Fe1d88fb2c207d4912a4829161c80%2F8ea1460fd149406cba9112a09267251e"
+        width: 320
+        height: 214
+        isCached: true
+  - title: "Alert: 7 US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot"
+    excerpt: "US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot."
+    publishedDateTime: 2021-08-26T20:13:00Z
+    webUrl: "https://www.middletownpress.com/news/article/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
+    ampWebUrl: "https://www.middletownpress.com/news/amp/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
+    cdnAmpWebUrl: "https://www-middletownpress-com.cdn.ampproject.org/c/s/www.middletownpress.com/news/amp/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
+    type: article
+    provider:
+      name: The Middletown Press
+      domain: middletownpress.com
+    quality: 50
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Capitol Police officers sue Donald Trump and his allies over violent insurrection"
     excerpt: "The filing provides vivid accounts of the injuries the officers sustained while trying to fend off the mob of Trump supporters."
     publishedDateTime: 2021-08-26T17:06:00Z

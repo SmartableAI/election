@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Joe Biden: Same As He Ever Was"
+    excerpt: "Donald Trump told us so.Throughout the 2020 campaign, President Trump warned the American people that Joe Biden was not up for the job of the presidency. In speeches, debates, and"
+    publishedDateTime: 2021-08-26T13:51:00Z
+    webUrl: "https://townhall.com/columnists/jimdemint/2021/08/26/joe-biden-same-as-he-ever-was-n2594773"
+    ampWebUrl: "https://townhall.com/columnists/jimdemint/2021/08/26/joe-biden-same-as-he-ever-was-n2594773?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/jimdemint/2021/08/26/joe-biden-same-as-he-ever-was-n2594773?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2021/217/b7e97782-35f3-475f-938d-d175b4ff9691.jpg"
+        width: 650
+        height: 340
+        isCached: true
 
 secured: "9jjwBMG8coUCCjoYZENoBoDiFyKjFT6z1sEFcffJFGj5ma+jynOCIzG8U4KAaSgCMRhQO9p+rYe2UsR3x4wJ3wk5NutGf/NDPgHN1LRWwFM3IFNFi0QvSRjiifmwNmuPtnuu00sSapCSo4wyTcJkOdaWeqJy7/rwR9TQjEC2hguTBXWsNyr9PyRgXZ80l1+cz0vi/Cn7cyLzf7nihCd4+sJiSNG8BTjD87ouM0do7oKp7ChiwylXhBxZJeJt8Eo9oesiVkWxP94cKFPZswTId1IzjyRKJgUquFAcawtl5N/l8THfkhCiAqfWABo5OAg/CfDsNAH/nBxTVo7H85ez5MukdDhDPRxi3Ot4lll6hKo=;MAziz2xvziaMYv/dtk3zRQ=="
 ---

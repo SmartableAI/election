@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-ally-trump-more-dangerous-tal
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ally-trump-more-dangerous-taliban-al-qaeda.amp"
 type: article
 quality: 190
-heat: 210
+heat: 230
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d6d99fb0-6035-4468-a152-0abd741ce1dc/8fdfd954-9afd-45d9-81fc-0a4ad73f7169/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Joe Biden: Same As He Ever Was"
+    excerpt: "Donald Trump told us so.Throughout the 2020 campaign, President Trump warned the American people that Joe Biden was not up for the job of the presidency. In speeches, debates, and"
+    publishedDateTime: 2021-08-26T13:51:00Z
+    webUrl: "https://townhall.com/columnists/jimdemint/2021/08/26/joe-biden-same-as-he-ever-was-n2594773"
+    ampWebUrl: "https://townhall.com/columnists/jimdemint/2021/08/26/joe-biden-same-as-he-ever-was-n2594773?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/jimdemint/2021/08/26/joe-biden-same-as-he-ever-was-n2594773?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2021/217/b7e97782-35f3-475f-938d-d175b4ff9691.jpg"
+        width: 650
+        height: 340
         isCached: true
 
 secured: "fuewYdfW/Kx1wzwpPxqMrMFoBODGDTH/OqStKqqJOM3wO5tqX6Tzpdin+c08ArPZkCDxXRX1wD1ilefPQ2xk2m7SAp97ADCthzlECINJY7O/lghcUYv0q+STfI9CZMI382SdXJLOd5SgYxWBIH6LiW0aN/VDY+ZHyIwJFqM4HiR30W0xHXdzOjQfR8+4IoNvQutkteFHpFXXcch0uv3xLs4WZgK9vGojsjKEn+PtiIJHjIrLprRutVrBGr30dbxxkjM9RZYfW09T4aygcsNfLpcGMDXRbnAoWVa/NIkYkZHCU1gtgAiUQHuHZUq1BVKOt5NHAQwyKcc9TKpgHIP2C4aONQJhUF8i7kKCWb2gPlg=;PhZo7YKvzc+2l28pUQVkuQ=="

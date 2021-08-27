@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Ensure that Taliban do not destabilise Pakistan: US lawmakers to Joe Biden"
+    excerpt: "A group of US lawmakers has urged President Joe Biden to ensure that the Taliban, which is now the de facto ruler of Afghanistan, do not destabilise Pakistan and acquire nuclear weapons"
+    publishedDateTime: 2021-08-26T23:13:00Z
+    webUrl: "https://www.thehansindia.com/news/international/ensure-that-taliban-do-not-destabilise-pakistan-us-lawmakers-to-joe-biden-703501"
+    ampWebUrl: "https://www.thehansindia.com/amp/news/international/ensure-that-taliban-do-not-destabilise-pakistan-us-lawmakers-to-joe-biden-703501"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/international/ensure-that-taliban-do-not-destabilise-pakistan-us-lawmakers-to-joe-biden-703501"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 73
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2021/08/23/1103644-biden.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Supreme Court Rejects Biden Admin's Efforts To Stop Trump-Era 'Remain in Mexico' Policy"
     excerpt: "\"The applicants have failed to show a likelihood of success on the claim that the memorandum rescinding the Migrant Protection Protocols was not arbitrary and capricious.\""
     publishedDateTime: 2021-08-25T13:44:00Z

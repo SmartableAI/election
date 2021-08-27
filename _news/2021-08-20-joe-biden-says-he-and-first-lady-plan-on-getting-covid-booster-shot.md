@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
 type: article
 quality: 125
-heat: 1125
+heat: 1145
 published: true
 
 provider:
@@ -74,6 +74,22 @@ related:
     quality: 92
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6124f340d06f777a3656c570%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1480%26cropY1%3D30%26cropY2%3D862"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Joe Biden may not be running for reelection — yet. He's certainly running for history."
+    excerpt: "Joe Biden is not doing what every first-year president starts doing around Day 200 of his presidency: Running for re-election. After the two weeks he has just endured, he is doing the thing presidents don’t do until their last months: Running for history."
+    publishedDateTime: 2021-08-26T18:01:00Z
+    webUrl: "https://www.marshfieldnewsherald.com/story/opinion/2021/08/26/joe-biden-may-not-running-reelection-he-running-history/5591232001/"
+    ampWebUrl: "https://amp.marshfieldnewsherald.com/amp/5591232001"
+    cdnAmpWebUrl: "https://amp-marshfieldnewsherald-com.cdn.ampproject.org/c/s/amp.marshfieldnewsherald.com/amp/5591232001"
+    type: article
+    provider:
+      name: Marshfield News Herald
+      domain: marshfieldnewsherald.com
+    quality: 82
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/22/USAT/bc0fddd5-21a2-4977-8052-5961fa541352-AP_Biden.jpg?auto=webp&crop=5574,3136,x0,y283&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

@@ -1033,6 +1033,20 @@ related:
         width: 438
         height: 391
         isCached: true
+  - title: "Joe Biden Should Resign"
+    excerpt: "President Joe Biden keeps appearing on the television screen. He vaguely reminds me of former President Donald Trump with his press conferences on COVID-19, Operation Warp Speed and anything else that popped into his mind."
+    publishedDateTime: 2021-08-26T12:05:00Z
+    webUrl: "https://patriotpost.us/opinion/82246-joe-biden-should-resign-2021-08-26"
+    type: article
+    provider:
+      name: The Patriot Post
+      domain: patriotpost.us
+    quality: 55
+    images:
+      - url: "https://img.patriotpost.us/01FDHPJ6NJX3JM53KNHF491QTE.jpeg?w=1200&h=600"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden will face pressure from G7 to extend Afghanistan withdrawal deadline"
     excerpt: "By Kevin Liptak and Barbara Starr, CNN Leaders from the top foreign allies of the United States are planning to press President Joe Biden to extend the deadline for US troops to withdraw from Afghanistan during a Tuesday morning meeting,"
     publishedDateTime: 2021-08-24T03:38:00Z
@@ -1372,6 +1386,6 @@ related:
         height: 380
         isCached: true
 
-secured: "7KNlT6SMFnATKb1/+UloEb1yApt6JoHZh73wqaqE6GHmL4Ipp39lk2WO+yzazwzqfQlsY2tSoB8o/BKLftMEgzRklTs97Rn2TOKrW2MkThUaAimERBdLF9j4BqY/hIzma0dRWVpKtlzPbCiUzJ/IneexAwn3KHBE85F++299a9oUywXJ3ktvT597c6PNMjvLaEF43T4pKwtLLusx/xBhlwCLHR3WrLpsyLqj/ArjPfZwUmHCZiNwLG/STbiGHIkOM2RSzITimMJH4wNe8Xj5qPeYCWFhdMnRjc3hwpvgmBijDHlYoDUP06No6p9mQcVD2BP/M5rZ7RLpntDItt63kqCojom/Rm4nQ3WriGegkX8=;EW0b49oSFWECtkTljk6hnA=="
+secured: "0BwB31tEvxqA8nvaboKw0mEUlPET3oT/fmcbh/PZx6sBHab9xKbQXjbjhvq4h5mOJzbcLa8kHNC1Zy7D+hGyX8HMSa7e3hGNwTAgqowNc6IPkf4HC/lNDW0/+GjVl6v9JwVwFM1fnmlUpeHXBYuQv8WO1258iEhTJv9m8DKA8uHp7Gtv6WVY2JRuBNVE1TS/cwiMVQd64TqHYGx0VyZjGUSVsqsrj3E20BojG4ClVmXJhKCx/KL+7W23ZaPUPuDooSNYHwDYr0+wISVVNRm/wobjNfB2vmEjVRXlMwAj6FuYHzTCOxALtJnYvzX2sJrG+1AIdo84rea8JRMG5NWIevaaOiMiVdgxH8JtJzXcg19nBsjTtusSmrMGIO35V9C6GPlxShbaIP/9QED1PESB4UWCxObgfJ+XaoznhdjqU7x1qSjn5lCQ5q//+BV0PkL/CSJPNOAKo3Wxuwc4lOmkR5t00QBROOIOtwPgpil96O/iCSZSyqNRRvSLStg8fTouGlIrLup8RJGra2vFKtyT8g==;feAqOywvtlqyL+pU0I0nXw=="
 ---
 

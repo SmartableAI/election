@@ -1043,6 +1043,20 @@ related:
         width: 438
         height: 391
         isCached: true
+  - title: "Joe Biden Should Resign"
+    excerpt: "President Joe Biden keeps appearing on the television screen. He vaguely reminds me of former President Donald Trump with his press conferences on COVID-19, Operation Warp Speed and anything else that popped into his mind."
+    publishedDateTime: 2021-08-26T12:05:00Z
+    webUrl: "https://patriotpost.us/opinion/82246-joe-biden-should-resign-2021-08-26"
+    type: article
+    provider:
+      name: The Patriot Post
+      domain: patriotpost.us
+    quality: 55
+    images:
+      - url: "https://img.patriotpost.us/01FDHPJ6NJX3JM53KNHF491QTE.jpeg?w=1200&h=600"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden will face pressure from G7 to extend Afghanistan withdrawal deadline"
     excerpt: "By Kevin Liptak and Barbara Starr, CNN Leaders from the top foreign allies of the United States are planning to press President Joe Biden to extend the deadline for US troops to withdraw from Afghanistan during a Tuesday morning meeting,"
     publishedDateTime: 2021-08-24T03:38:00Z
@@ -1368,6 +1382,6 @@ related:
         height: 380
         isCached: true
 
-secured: "8TX5Z2RT4y9QcqFy6LZPQnKCkEJ7//kjgwRlQrRTIjCfMCnNQ8f4wWEjqVb8fe8kHrtVSe1riVc9nly7Sv2lfGGu6YYOho+YLKvvTHoGGy7WtcbPMDhAxK/Y1jIBIiYR8uJY79SeV/3jIUXgb1fksRnuyk7nLPHdeMb0iYm8Rc+dNyNifPT6jYh024ZsLF04aKXoJO8xl6wIMcuyP2wMB99zJnlscfK4fVkR2rnf9EFXEH5c9OnBg3H4ba0VXSn8lta83ciQi2MTrpd4Zq85XqPZs0dUAU8XJvqLGyqg0PuvpJPwu6yFZhNj/fDIDH+k1J+opt85KndXSLPslxPq36iTLrLePZakJ4z3V8nSURc=;aYhATceKvYWj728URhgAdw=="
+secured: "PrhgO3xGHarmktmvHcHGiqvaqvx2ZphDw1GW0+W2H28zfQM/qVR/2sGJAZxig2OTGQ0s8M1u7BjBx/b1RWR93Aq6iBpqcAd67T+/HyiicX78kqAPyg1A6HCVfTSwTMgdg4KSYVKhn8g9ystA52OvmsyJMh5I1kr74IAxyq/FG+0Qyddermmg8Fow6dn2Slcxz/T9Jdh2fZbnUgGpIM4gZ3amJwccek07q2G+epYcVOJU2wwE5H/A84ndfDPfPNAxfQNnN1C4ulCymJsaW+OMyWzLYHS51lX02NqcF6OJUpgAcpi4q2DdW9/DRXsBpxWin9oxX/6FS+IHtDuEsyweMPpheCytHpF9oYHLeWAFmFfa1TPrOQmR568MwH9XwqjVi6RD4srEGrCCRU02+DCC/bNcvYVYCpwi54iVikAaVrc0wspPrWj/sRtsDz6kkFRt0JXzY4/DwqK6Rdyq7a/SPmNOT3QKzhzOlgfsbA6ayE4+B8+p2ZXf1RRBYVayqZDQGALtlCmGvTdFOmYZsVDvWA==;pKuNwTYLFZWBg8gDQtx62A=="
 ---
 

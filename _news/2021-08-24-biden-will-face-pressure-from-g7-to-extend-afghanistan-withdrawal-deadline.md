@@ -1043,6 +1043,20 @@ related:
         width: 438
         height: 391
         isCached: true
+  - title: "Joe Biden Should Resign"
+    excerpt: "President Joe Biden keeps appearing on the television screen. He vaguely reminds me of former President Donald Trump with his press conferences on COVID-19, Operation Warp Speed and anything else that popped into his mind."
+    publishedDateTime: 2021-08-26T12:05:00Z
+    webUrl: "https://patriotpost.us/opinion/82246-joe-biden-should-resign-2021-08-26"
+    type: article
+    provider:
+      name: The Patriot Post
+      domain: patriotpost.us
+    quality: 55
+    images:
+      - url: "https://img.patriotpost.us/01FDHPJ6NJX3JM53KNHF491QTE.jpeg?w=1200&h=600"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "US President Joe Biden to virtually meet G7 leaders today to discuss Afghanistan evacuation, humanitarian assistance"
     excerpt: "US President Joe Biden is scheduled to hold a virtual meet with other G7 leaders on Tuesday to discuss close coordination on Afghanistan policy and evacuation operations"
     publishedDateTime: 2021-08-24T03:20:00Z

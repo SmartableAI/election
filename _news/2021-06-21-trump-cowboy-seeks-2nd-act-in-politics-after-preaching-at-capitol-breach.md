@@ -1064,6 +1064,22 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Capitol officers sue Trump, allies over insurrection"
+    excerpt: "The suit names as defendants several people who have been charged with federal crimes related to the riot. They are alleged to have “conspired to use force, intimidation, and threats to"
+    publishedDateTime: 2021-08-26T23:21:00Z
+    webUrl: "https://www.mercurynews.com/2021/08/26/capitol-officers-sue-trump-allies-over-insurrection"
+    ampWebUrl: "https://www.mercurynews.com/2021/08/26/capitol-officers-sue-trump-allies-over-insurrection/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/08/26/capitol-officers-sue-trump-allies-over-insurrection/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/08/sjm-reach-Records_87467767.jpg?w=1024&#038;h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "DeSantis Beats Trump As Top Republican Presidential Candidate In 2024: Poll"
     excerpt: "DeSantis came in second to Trump as the top Republican presidential candidate in a straw poll conducted in February."
     publishedDateTime: 2021-06-21T02:51:00Z

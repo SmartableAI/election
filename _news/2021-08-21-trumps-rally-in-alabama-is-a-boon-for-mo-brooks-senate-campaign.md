@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Capitol Police officers sue Trump, allies over riot"
+    excerpt: "The suit alleges Trump “worked with white supremacists, violent extremist groups, and campaign supporters\" in \"an unlawful effort to stay in power.”"
+    publishedDateTime: 2021-08-26T22:16:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/capitol-police-officers-sue-trump-allies-over-insurrection-n1277725"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1277725"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1277725"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_34/3501732/21086-trump-jan6-mb-1746.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "jXNFMuGLzebQzXuS8/te051whJn5ijABA98TDU+VPmbISU8fxRA2FVjTFlWuCbKH+cQ0Lf2YXQwQv/paDtE1EKoXWuNqu0wajWSENI8WvbJ8r/eZtV1qit0Sv+4TsUlNJPjRQ6pNhv0dSTNRDqwaBwIVFNTnQdcoXuMqQNGuzlOvS/JKlPAqXj+EYkFyMPR8/k4z7Yu6umiOOD4Q+SRl60q+ZsKAFDpjVmeMQvf7VBeLIoOa8GwDr0vaai+ZSDc51JpKqyQNGSpjQwWRX1cCEbDDe1bkI2cS/xA1heMdGW/oJ+OCUb44c/oZP9TEFqX9Z7JVNJi/k6WpiZotcQd8QwYVJiJbgRqD5AwCcLn9aFE=;+CUzeOkAY2Wzqk0IYZgqMg=="
 ---

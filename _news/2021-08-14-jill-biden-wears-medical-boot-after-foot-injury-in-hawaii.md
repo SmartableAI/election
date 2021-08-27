@@ -89,6 +89,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden may not be running for reelection — yet. He's certainly running for history."
+    excerpt: "Joe Biden is not doing what every first-year president starts doing around Day 200 of his presidency: Running for re-election. After the two weeks he has just endured, he is doing the thing presidents don’t do until their last months: Running for history."
+    publishedDateTime: 2021-08-26T18:01:00Z
+    webUrl: "https://www.marshfieldnewsherald.com/story/opinion/2021/08/26/joe-biden-may-not-running-reelection-he-running-history/5591232001/"
+    ampWebUrl: "https://amp.marshfieldnewsherald.com/amp/5591232001"
+    cdnAmpWebUrl: "https://amp-marshfieldnewsherald-com.cdn.ampproject.org/c/s/amp.marshfieldnewsherald.com/amp/5591232001"
+    type: article
+    provider:
+      name: Marshfield News Herald
+      domain: marshfieldnewsherald.com
+    quality: 82
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/22/USAT/bc0fddd5-21a2-4977-8052-5961fa541352-AP_Biden.jpg?auto=webp&crop=5574,3136,x0,y283&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Joe Biden Is Who We Said He Was"
     excerpt: "NRPLUS MEMBER ARTICLE J oe Biden has badly, visibly bungled America’s withdrawal from Afghanistan. He has compounded the problem with his sluggish and dishonest public statements. This has gone so badly that even people and institutions that are normally sympathetic to Biden and his party have noticed."
     publishedDateTime: 2021-08-21T10:30:00Z

@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-25-a-top-pennsylvania-republican-reboots-audit-of-2020-vote-removes-trump-ally-as-chair.md",
+      "title": "A top Pennsylvania Republican reboots 'audit' of 2020 vote, removes Trump ally as chair",
+      "excerpt": "A dispute spilled into public view late last week as some Pennsylvania Republicans seek to further investigate the November election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/elections/pennsylvania-republican-senator-pledges-audit-2020-vote-results-n1277551",
+      "originalUrl": "https://www.nbcnews.com/politics/elections/pennsylvania-republican-senator-pledges-audit-2020-vote-results-n1277551",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_14/3462921/210408-ballots-usa-mb-1010.jpg",
+          "width": 4973,
+          "height": 3315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1277551",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1277551",
+      "publishedDateTime": "2021-08-25T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-with-biden-poll-numbers-plunging-democrats-worry-afghan-exit-may-impact-next-years-elections.md",
       "title": "With Biden poll numbers plunging, Democrats worry Afghan exit may impact next year's elections",
       "excerpt": "The rushed U.S. evacuation in Afghanistan appears to be a key contributing factor in the plunge in President Biden's approval rating in new polls. Some Democrats are worried the political fallout could impair their prospects in the 2022 midterms.",
@@ -161,7 +218,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-claims-biden-bringing-afghan-terrorists-to-the-us-2021-8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1973,
+      "heat": 1993,
       "tags": null,
       "images": [
         {
@@ -520,7 +577,7 @@
       "originalUrl": "https://www.washingtontimes.com/news/2021/aug/24/former-trump-adviser-biden-needs-fire-top-taliban-/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 148,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -1221,62 +1278,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-biden-praises-wnba-champion-seattle-storm-for-their-work-on-and-off-the-court-during-white-house-visit.md",
-      "title": "Biden praises WNBA champion Seattle Storm for their work on and off the court during White House visit",
-      "excerpt": "President Joe Biden honored the WNBA champion Seattle Storm at the White House Monday, praising the team for its actions both on and off the court -- especially work the team has done on social justice issues.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2r17hb_a0wE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2r17hb_a0wE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210823165833-01-biden-seattle-storm-0823-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/23/politics/seattle-storm-white-house-visit/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/23/politics/seattle-storm-white-house-visit/index.html",
-      "publishedDateTime": "2021-08-23T14:26:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

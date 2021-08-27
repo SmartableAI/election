@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/21/politics/what-matters-august-20/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/21/politics/what-matters-august-20/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210822084256-trump-alabama-rally-vaccine-crowd-boos-sot-ip-vpx-00000000-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Capitol Police officers sue Trump, allies over riot"
+    excerpt: "The suit alleges Trump “worked with white supremacists, violent extremist groups, and campaign supporters\" in \"an unlawful effort to stay in power.”"
+    publishedDateTime: 2021-08-26T22:16:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/capitol-police-officers-sue-trump-allies-over-insurrection-n1277725"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1277725"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1277725"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_34/3501732/21086-trump-jan6-mb-1746.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "OmHvwMnfEyKhPuG+ZAEvwA+ast5bTKAnEB8HNwiIcDi4YRNaMoHxt0JfbC3Zx4N/tegL1lvHvTs++qmZZ1rEaAM2hzq6cxJfFlIiiUIN/qjPvtRFZ9HDmjLEHe6m/eAuVcH1Zone0ZWNPRfKw6P4NvhJ45vsSon+rUmg8ki/+XU2OtqnmXHtdmoSjWT4iGdN3N8UV0D/AWIS0eHpgk6ehMqFiBcyEFEbrjDcJoT4bZs7FD2wmpgLY9fQCfejGbFQBD5LKa0q0wDj7PGV/ZBPw9tWfMTxVLxnKa9mkPuK+6X79A2qN9VF2Tr/PoHrGb7Ce9TIhGIp/ixGfnJWSlNh4qKup23/vK4CLzqmE1GdH84=;cRcu/PIPeI2yIbDWqGwfMw=="

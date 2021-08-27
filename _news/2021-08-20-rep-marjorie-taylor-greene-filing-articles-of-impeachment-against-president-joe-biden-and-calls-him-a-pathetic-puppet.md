@@ -75,6 +75,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Republicans point fingers at Biden moments after Kabul blasts"
+    excerpt: "By Melanie Zanona, Jeremy Herb and Alex Rogers, CNN Republicans in Congress quickly escalated their criticism of President Joe Biden’s withdrawal of US troops from Afghanistan after two explosions outside Kabul’s airport on Thursday caused the first American casualties since the mass evacuation began."
+    publishedDateTime: 2021-08-26T23:40:00Z
+    webUrl: "https://localnews8.com/politics/cnn-us-politics/2021/08/26/house-republicans-point-fingers-at-biden-moments-after-kabul-blasts/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 55
+    images:
+      - url: "https://localnews8.b-cdn.net/2021/06/Politics-logo-new_KIFIMIFI.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Biden to increase food stamp benefits by largest margin in program’s history"
     excerpt: "Average food stamp benefits in October will go up by more than 25 percent from pre-pandemic levels for the 42 million people in the program."
     publishedDateTime: 2021-08-15T19:04:00Z

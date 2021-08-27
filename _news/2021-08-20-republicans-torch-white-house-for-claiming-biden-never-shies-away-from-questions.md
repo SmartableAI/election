@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/republicans-torch-white-house-claim
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-torch-white-house-claim-biden-never-shies-away-questions.amp"
 type: article
 quality: 169
-heat: 209
+heat: 189
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
     quality: 158
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c3b63dcc-1147-43e4-bb4a-9685f6b374d0/fee2a2e0-da3d-4f09-9c31-1e3200ea5043/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Nikki Haley, other Republicans call for Biden's resignation or impeachment after attack at Kabul airport"
-    excerpt: "A long list of GOP politicians are calling for President Biden to either be impeached or resign from office after the deadly attack on Harmid Karzai International Airport in Afghanistan."
-    publishedDateTime: 2021-08-26T16:57:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/i4VSjHJqhf0/biden-resignation-impeachment-calls"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-resignation-impeachment-calls.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-resignation-impeachment-calls.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/91a43285-bce2-4856-9997-beb49f488722/9c1cb570-3c74-4275-8787-551c4464d6aa/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

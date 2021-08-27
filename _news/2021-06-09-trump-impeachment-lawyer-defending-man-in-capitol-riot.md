@@ -1062,6 +1062,22 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Capitol officers sue Trump, allies over insurrection"
+    excerpt: "The suit names as defendants several people who have been charged with federal crimes related to the riot. They are alleged to have “conspired to use force, intimidation, and threats to"
+    publishedDateTime: 2021-08-26T23:21:00Z
+    webUrl: "https://www.mercurynews.com/2021/08/26/capitol-officers-sue-trump-allies-over-insurrection"
+    ampWebUrl: "https://www.mercurynews.com/2021/08/26/capitol-officers-sue-trump-allies-over-insurrection/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/08/26/capitol-officers-sue-trump-allies-over-insurrection/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/08/sjm-reach-Records_87467767.jpg?w=1024&#038;h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Trump cowboy seeks 2nd act in politics after preaching at Capitol breach"
     excerpt: "But luck may have run out for this cowboy pastor who rode to national political fame by embracing President Donald Trump with a series of horseback caravans and came crashing down with a defiant stand Jan."
     publishedDateTime: 2021-06-20T18:09:00Z
