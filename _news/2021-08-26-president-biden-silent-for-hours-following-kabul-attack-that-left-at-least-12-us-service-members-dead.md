@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Biden meets with Israeli prime minister after deadly Kabul bombing"
+    excerpt: "President Biden sat down with the newly installed Israeli Prime Minister Naftali Bennett Friday, roughly 24 hours after the deadly suicide bombing in Kabul."
+    publishedDateTime: 2021-08-27T17:32:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4W3al9aPvbY/biden-israeli-prime-minister-kabul-bombing"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-israeli-prime-minister-kabul-bombing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-israeli-prime-minister-kabul-bombing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c013c6db-e7ea-41bb-93f5-be557d7321c8/209d8f8e-15b3-41c1-99db-334ce2c78307/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Israel PM Naftali Bennett arrives in Washington, will meet with Biden on Iran"
+    excerpt: "Israeli Prime Minister Naftali Bennett arrived in Washington, D.C. on Tuesday night for his first diplomatic visit overseas since taking office."
+    publishedDateTime: 2021-08-25T05:29:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zYcVyO83w1U/israel-pm-naftali-bennett-washington-biden-iran"
+    ampWebUrl: "https://www.foxnews.com/politics/israel-pm-naftali-bennett-washington-biden-iran.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/israel-pm-naftali-bennett-washington-biden-iran.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/61f7c770-7b3e-48e6-a814-972f1d0fb288/05412b1d-0f18-4162-96b9-2588b7710485/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Republicans slam Biden after suicide attack at Kabul airport: 'Blood on his hands'"
     excerpt: "Republicans are slamming the Biden administration’s handling of Afghanistan after multiple explosions outside of the Kabul airport, injuring at least three U.S. troops."
     publishedDateTime: 2021-08-26T15:29:30Z
@@ -44,22 +76,6 @@ related:
     quality: 169
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f21a20f-c555-47e9-aed4-4ad4452b5190/f2a5e305-dcf8-47a6-82ff-0d9b3276e875/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden condemns 'vicious' ISIS attacks in Kabul: 'We will hunt you down and make you pay'"
-    excerpt: "President Biden pledged to take action against ISIS-K militants and complete evacuation operations on Thursday in his first public remarks since a pair of deadly suicide bombings targeted U.S. forces and evacuees at Kabul’s airport in Afghanistan."
-    publishedDateTime: 2021-08-26T21:44:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6VChDK78VE0/biden-speech-kabul-airport-attack-afghanistan"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-speech-kabul-airport-attack-afghanistan.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-speech-kabul-airport-attack-afghanistan.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c86d9104-8c3d-42b0-aa8c-58d7d652579a/608765f6-b3cd-4b1e-8ab6-543ac87a94cc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -78,38 +94,6 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14c646a6-ad3d-4268-aace-2e063ea85db7/12540c0f-99ca-442a-be78-656b4a413121/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
-        isCached: true
-  - title: "Biden doesn't deny report of US handing over names of Americans to Taliban: 'There may have been'"
-    excerpt: "President Biden did not deny a report circulating Thursday that officials in his administration had provided names of Americans in Afghanistan to the Taliban in order to help usher them safely to the airport."
-    publishedDateTime: 2021-08-26T22:10:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OK6k2tKrGqA/biden-doesnt-deny-report-of-u-s-handing-over-names-of-americans-to-taliban-theyre-may-have-been"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-doesnt-deny-report-of-u-s-handing-over-names-of-americans-to-taliban-theyre-may-have-been.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doesnt-deny-report-of-u-s-handing-over-names-of-americans-to-taliban-theyre-may-have-been.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/36970f94-cdd7-4d94-95be-ecb45dc8e5c4/22c1fa4f-9b06-4657-bd69-c02e796da689/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Trump says Kabul airport explosion wouldn’t have happened if he was president"
-    excerpt: "Donald Trump hammered Biden over the suicide bombings outside Kabul’s airport, claiming that “it would not have happened if I was your president.”"
-    publishedDateTime: 2021-08-27T04:32:00Z
-    webUrl: "https://nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/"
-    ampWebUrl: "https://nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 132
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-afghanistan-bomging-index.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 682
         isCached: true
 
 secured: "0ABafWYgHJxJ4WRvo9meKuEukMVzeSO4qqDRXOagi5OkclIc9X+lHG0Z71cUosCdYXl4Gy+Av+GqUt2m5slgB09S3aJYOWtYf2rq+ZDUN+QqK1pp+5XpZVtFxL1OwtvPfMLNiJ87JncqsdwMydm/6vlRKS1dFsIXRSN8AjMdomgRovUVU1deUUUIN8xEkMU7z7Xs+Em/FgK7I1q2aYDlGO25Y8x+iWZb1uNOB5X1I8b3O2Q782sNCWS9r/Ux2Wku9ZL6kR91tpeZLTRkQ13/UEKbYXtIjv1mjRTwsSsHKVgus0traodLYOl9l3Sg6FdpvXLSPQAhNJY++uZqiQJOoELYxuihB+3wsftl1PEe+yQ=;cKLXQGkVGR/HkwCAIa1s1A=="

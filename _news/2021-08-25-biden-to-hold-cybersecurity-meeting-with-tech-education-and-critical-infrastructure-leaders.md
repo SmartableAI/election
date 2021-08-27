@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says health officials exploring whether to move up booster interval"
+    excerpt: "President Joe Biden said Friday that his administration was looking into whether to shorten the window of the planned Covid-19 booster shot program, something he discussed with Israel Prime Minister Naftali Bennett during a visit at the White House.\n    \n"
+    publishedDateTime: 2021-08-27T17:37:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MOiXmFY9XfE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/27/politics/booster-shot-interval-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/27/politics/booster-shot-interval-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210827125545-02-biden-0827-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "President and first lady plan to get their Covid booster shots when eligible, Biden says"
     excerpt: "President Joe Biden and first lady Jill Biden plan to get Covid-19 vaccine booster shots once they are cleared to take them, the President said in an interview aired Thursday.\n    \n"
     publishedDateTime: 2021-08-19T13:46:27Z

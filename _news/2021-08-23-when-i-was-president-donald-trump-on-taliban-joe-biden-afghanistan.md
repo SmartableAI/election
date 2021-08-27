@@ -187,6 +187,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Joe Biden Keeps Getting His Afghanistan Facts Wrong"
+    excerpt: "President Joe Biden's Afghanistan disaster is going from bad to worse. At least 13 American troops were killed Thursday in an Islamic State Khorasan Province suicide attack at Kabul International Airport,"
+    publishedDateTime: 2021-08-27T13:32:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-keeps-getting-afghanistan-facts-wrong-1623613"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-keeps-getting-afghanistan-facts-wrong-1623613?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-keeps-getting-afghanistan-facts-wrong-1623613?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1881452/joe-biden-pictured-during-white-house-address.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "President Biden to give Afghanistan update one week after Taliban takeover"
     excerpt: "At the one-week mark since the Taliban took over Afghanistan, the U.S.-directed airlift from Kabul continued Sunday even as U.S. officials expressed growing concern about the threat from the Islamic State group."
     publishedDateTime: 2021-08-22T17:39:00Z

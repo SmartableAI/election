@@ -3,25 +3,25 @@ category: news
 title: "7 US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot"
 excerpt: "US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot."
 publishedDateTime: 2021-08-26T16:05:00Z
-originalUrl: "https://apnews.com/article/donald-trump-ap-news-alert-riots-db275e882b46c926cd46ede8c340a0f7"
-webUrl: "https://apnews.com/article/donald-trump-ap-news-alert-riots-db275e882b46c926cd46ede8c340a0f7"
+originalUrl: "https://azdailysun.com/news/national/govt-and-politics/7-us-capitol-police-officers-sue-former-president-donald-trump-his-allies-and-extremists-groups/article_f06393c4-6bb9-5e04-9345-7972120963da.html"
+webUrl: "https://azdailysun.com/news/national/govt-and-politics/7-us-capitol-police-officers-sue-former-president-donald-trump-his-allies-and-extremists-groups/article_f06393c4-6bb9-5e04-9345-7972120963da.html"
 type: article
-quality: 83
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Arizona Daily Sun
+  domain: azdailysun.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://apnews.com/images/ShareLogo2.png"
+  - url: "https://bloximages.chicago2.vip.townnews.com/azdailysun.com/content/tncms/custom/image/265abe26-0cb1-11ea-b986-9b408788062f.jpg"
     width: 700
-    height: 450
+    height: 400
     isCached: true
 
 related:
@@ -616,13 +616,13 @@ related:
   - title: "Alert: 7 US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot"
     excerpt: "US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot."
     publishedDateTime: 2021-08-26T20:13:00Z
-    webUrl: "https://www.ourmidland.com/news/article/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
-    ampWebUrl: "https://www.ourmidland.com/news/amp/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
-    cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/news/amp/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
+    webUrl: "https://www.middletownpress.com/news/article/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
+    ampWebUrl: "https://www.middletownpress.com/news/amp/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
+    cdnAmpWebUrl: "https://www-middletownpress-com.cdn.ampproject.org/c/s/www.middletownpress.com/news/amp/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
     type: article
     provider:
-      name: Our Midland MI
-      domain: ourmidland.com
+      name: The Middletown Press
+      domain: middletownpress.com
     quality: 50
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
@@ -642,6 +642,20 @@ related:
       - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/Capitol-Breach-Records.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Capitol Police officers sue Trump, right-wing groups over injuries from Jan. 6 riot"
+    excerpt: "Seven U.S. Capitol Police officers on Thursday sued former president Donald Trump and more than a dozen alleged participants in the Jan. 6 riot at the U.S. Capitol, saying the"
+    publishedDateTime: 2021-08-27T16:00:00Z
+    webUrl: "https://www.sentinelsource.com/news/national_world/capitol-police-officers-sue-trump-right-wing-groups-over-injuries-from-jan-6-riot/article_da769c3b-faad-5fda-81a0-1880cd972039.html"
+    type: article
+    provider:
+      name: The Keene Sentinel
+      domain: sentinelsource.com
+    quality: 49
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/sentinelsource.com/content/tncms/custom/image/94f334aa-d43b-11eb-b5e9-4f39ce134ddd.jpg"
+        width: 1200
+        height: 480
         isCached: true
   - title: "Police officers sue Trump over Jan. 6"
     excerpt: "U.S. Capitol Police officers who were attacked and beaten during the Capitol riot filed a lawsuit Thursday against former President"
@@ -664,6 +678,6 @@ related:
       domain: sfchronicle.com
     quality: 30
 
-secured: "zPkWyZ9cTDizm9kfbIj+CcRBi6jIKo0p4sVphmYICCT5PTib0ebkiLmuOyvbDkvgz32uyca3mYJTLg77u1/NxCBJ1MK38iRQsYU2qKNVOKCKOb+ZBwvkWykgBH8c2PTWE5O+ZpmTIsuxX6b2V12emRV5HtVTmiWsVbFG/XfqIfSj2K4HrsC3zpoxF0I3rodxHoLXGugJrCDbPI9fr37VXJgw4DgJ97nYxZg5GFEIHcGiedWjPJzvzw7OhjAh5dQUkpuk0niSnhoDSMdB0Gy96g3S5y3BRu4rpYhpf1tDs1YgFD4oDV+pigoGauneJUOFrCGy1OC0VYll3W2Ox31KIXNmBlLqJ6Wnl02ACVPqrg0=;+yGvIkzmSgUB8m1hd0jryQ=="
+secured: "AgG+lnXTs+FgnL7YaKzM8kIzXiQ1rT6K8d08F0zdXA0SGHoA++E8g1HKXupR1A+heqRCyDsz3I8CAb1jdFgfAnF2QAPHLycrNo+f1AKFt++gFusk1YMRwXi2dMYLN7EC5eD4gUIXOXcWfkcQgsQsh23CHyeYNXzRMEW3dopuL6XahOSlyPNc2JSHBeR1XNndwPFTWlzE09wPWHnsX71NlUszvHZcwXF8q8zX4rgnUNX8la+NqAHf8gsekvInBzEBDVInedI5h/EAm16GXcicAtTpmAdf9mJ6VgtD6MpON8jFBinM7FCGZygkU5lUHZ2C/KFksQrNobTJYXNmbQthCQOWaFbtD3SE4DwJMJJx+bU=;YTQpa/HxuqSLTMrlnU26wg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cleveland.com/nation/2021/08/budget-clash-pits-moderate-
 cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/08/budget-clash-pits-moderate-democrats-against-biden-pelosi.html?outputType=amp"
 type: article
 quality: 75
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://www.orlandosentinel.com/resizer/fd0A7vVARWikIwoJnZ2wJbRNy5A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WWLTWUO72FBD4H6OPFY4HJPBTQ.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Ashley Moody demands border control assurance from Joe Biden"
+    excerpt: "Attorney General Ashley Moody was among 20 Republican AGs signing on to a letter demanding federal assurances of tighter immigration policy. The letter to U.S. Attorney General Merrick Garland followed a favorable ruling in the U."
+    publishedDateTime: 2021-08-27T17:04:00Z
+    webUrl: "https://floridapolitics.com/archives/453563-moody-border/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/05/Ashley-Moody-scaled.jpg"
+        width: 2560
+        height: 1920
         isCached: true
   - title: "President Joe Biden Proclaims Thursday, 26, 2021 as Women’s Equality Day"
     excerpt: "On President Joe Biden proclaimed August 26, 2021 as Women’s Equality Day. Today, we celebrate Women’s Equality Day, a reminder not only of the progress women have won through the years, but of the important work that remains to be done."

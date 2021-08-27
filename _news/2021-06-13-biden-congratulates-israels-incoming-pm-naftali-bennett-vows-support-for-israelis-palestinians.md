@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-congratulates-israels-incomin
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-congratulates-israels-incoming-pm-naftali-bennett-vows-support-for-israelis-palestinians.amp"
 type: article
 quality: 161
-heat: -1
-published: false
+heat: 161
+published: true
 
 provider:
   name: Fox News
@@ -29,24 +29,6 @@ images:
     width: 720
     height: 405
     isCached: true
-
-related:
-  - title: "Israel PM Naftali Bennett arrives in Washington, will meet with Biden on Iran"
-    excerpt: "Israeli Prime Minister Naftali Bennett arrived in Washington, D.C. on Tuesday night for his first diplomatic visit overseas since taking office."
-    publishedDateTime: 2021-08-25T05:29:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zYcVyO83w1U/israel-pm-naftali-bennett-washington-biden-iran"
-    ampWebUrl: "https://www.foxnews.com/politics/israel-pm-naftali-bennett-washington-biden-iran.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/israel-pm-naftali-bennett-washington-biden-iran.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/61f7c770-7b3e-48e6-a814-972f1d0fb288/05412b1d-0f18-4162-96b9-2588b7710485/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
 
 secured: "avc7J/eYsILQjYDIxi/UY4USkOHrcTBsDPJkxTXmC9Rj5GovWHzD6Ap6ewNDHgh3vm1xR+hkjx/WC49kZoIbklYTIZw9WGgee3d7Xg2lBFBK/5w5G2itfNg0e8NZBz/BDyrbeXADZAy1Yo6YE4pp4AKamqj41/VJquhQG/AkNeivMW1r8L/G+x/jMEeDJmQST60SCBaCGEMO/vQieZg5DVeZZKheIDC3Uc6HH1LWEGQOUiT7HL4LQhEfO0eqcGOw5OYJlxIWYBPGKvtD1OXKH/+gbiWAaxIWbJTmUHpqrzWx6is2GJFnSr4E/i8N6XrxRCQwP/1tsegBF8KRzRdE4PW5qCjot5PyNMnMll2hNjs=;6TprqshYV1pr48iaadZdjQ=="
 ---

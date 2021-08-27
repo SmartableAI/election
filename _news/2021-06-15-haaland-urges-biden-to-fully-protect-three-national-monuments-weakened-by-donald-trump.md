@@ -863,6 +863,22 @@ related:
         width: 816
         height: 545
         isCached: true
+  - title: "Donald Trump Jr. Faces Backlash After Saying Joe Biden Showed 'Weakness' at Briefing"
+    excerpt: "Donald Trump's son shared a picture of the U.S. president during a press briefing, which was posted out of context."
+    publishedDateTime: 2021-08-27T12:32:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-jr-faces-backlash-after-saying-joe-biden-showed-weakness-briefing-1623602"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-jr-faces-backlash-after-saying-joe-biden-showed-weakness-briefing-1623602?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-jr-faces-backlash-after-saying-joe-biden-showed-weakness-briefing-1623602?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 133
+    images:
+      - url: "https://d.newsweek.com/en/full/1881439/donald-trump-jr-joe-biden.jpg"
+        width: 2560
+        height: 1600
+        isCached: true
   - title: "GOP Voters Say Capitol Rioters Don't Represent Them, More Blame Biden Over Trump: Poll"
     excerpt: "Additionally, 68 percent of Republican voters think there has been too much focus on the riots since they first occurred."
     publishedDateTime: 2021-06-29T01:15:00Z

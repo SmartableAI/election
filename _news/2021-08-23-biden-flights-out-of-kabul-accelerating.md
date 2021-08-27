@@ -105,6 +105,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Biden, Wolf order all flags to fly at half-staff in honor of the victims of terrorist attack in Kabul"
+    excerpt: "Tom Wolf have ordered all flags to fly at half-staff in honor of the victims of the terrorist attack in Kabul, Afghanistan on August 26 at all federal and state buildings. The flags are to fly at half-staff until sunset on Monday."
+    publishedDateTime: 2021-08-27T15:49:00Z
+    webUrl: "https://www.pennlive.com/news/2021/08/biden-wolf-order-all-flags-to-fly-at-half-staff-in-honor-of-the-victims-of-terrorist-attack-in-kabul.html"
+    ampWebUrl: "https://www.pennlive.com/news/2021/08/biden-wolf-order-all-flags-to-fly-at-half-staff-in-honor-of-the-victims-of-terrorist-attack-in-kabul.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/news/2021/08/biden-wolf-order-all-flags-to-fly-at-half-staff-in-honor-of-the-victims-of-terrorist-attack-in-kabul.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 60
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/M3BZLF4TXVFNTOLNW6UZF76WUQ.jpg"
+        width: 1024
+        height: 684
+        isCached: true
   - title: "Biden pledges to Americans in Kabul: 'We will get you home'"
     excerpt: "President Joe Biden is pledging to Americans still trapped in Afghanistan: \"We will get you home.\" Biden's comments at a White House news conference Friday come as the U.S. government struggles to ramp up a massive airlift clearing Americans and other foreigners and vulnerable Afghans through the Kabul airport,"
     publishedDateTime: 2021-08-23T23:32:00Z
@@ -159,14 +175,14 @@ related:
     quality: 55
   - title: "2 US lawmakers’ Kabul trip prompts Biden administration fury"
     excerpt: "Two members of Congress flew unannounced into Kabul airport in the middle of the ongoing chaotic evacuation, and their visit Tuesday stunned State Department and U.S. military personnel who had to divert resources to provide security and information to the lawmakers."
-    publishedDateTime: 2021-08-27T11:41:00Z
-    webUrl: "https://www.thenewstribune.com/news/business/article253727773.html"
-    ampWebUrl: "https://amp.thenewstribune.com/news/business/article253727773.html"
-    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article253727773.html"
+    publishedDateTime: 2021-08-27T15:54:00Z
+    webUrl: "https://www.heraldonline.com/news/business/article253727773.html"
+    ampWebUrl: "https://amp.heraldonline.com/news/business/article253727773.html"
+    cdnAmpWebUrl: "https://amp-heraldonline-com.cdn.ampproject.org/c/s/amp.heraldonline.com/news/business/article253727773.html"
     type: article
     provider:
-      name: News Tribune
-      domain: thenewstribune.com
+      name: The Herald SC
+      domain: heraldonline.com
     quality: 55
   - title: "Republicans point fingers at Biden moments after Kabul blasts"
     excerpt: "By Melanie Zanona, Jeremy Herb and Alex Rogers, CNN Republicans in Congress quickly escalated their criticism of President Joe Biden’s withdrawal of US troops from Afghanistan after two explosions outside Kabul’s airport on Thursday caused the first American casualties since the mass evacuation began."

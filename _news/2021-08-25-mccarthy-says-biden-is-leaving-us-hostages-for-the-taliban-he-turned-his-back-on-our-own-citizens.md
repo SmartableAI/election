@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/mccarthy-biden-hostages-taliban.amp
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-biden-hostages-taliban.amp"
 type: article
 quality: 160
-heat: 220
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,35 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Sasse urges Biden to tell Taliban 'we're getting our people out however long it takes': 'Damn the deadline'"
-    excerpt: "In a blistering statement, Sen. Ben Sasse said Biden should be calling the shots, not the Taliban, who said there would be \"no extensions\" of the deadline set for withdrawal."
-    publishedDateTime: 2021-08-24T17:15:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YkXyG4A050o/sasse-biden-taliban-damn-the-deadline"
-    ampWebUrl: "https://www.foxnews.com/politics/sasse-biden-taliban-damn-the-deadline.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sasse-biden-taliban-damn-the-deadline.amp"
+  - title: "Biden doesn't deny report of US handing over names of Americans to Taliban: 'There may have been'"
+    excerpt: "President Biden did not deny a report circulating Thursday that officials in his administration had provided names of Americans in Afghanistan to the Taliban in order to help usher them safely to the airport."
+    publishedDateTime: 2021-08-26T22:10:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OK6k2tKrGqA/biden-doesnt-deny-report-of-u-s-handing-over-names-of-americans-to-taliban-theyre-may-have-been"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-doesnt-deny-report-of-u-s-handing-over-names-of-americans-to-taliban-theyre-may-have-been.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doesnt-deny-report-of-u-s-handing-over-names-of-americans-to-taliban-theyre-may-have-been.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 157
+    quality: 162
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Gowdy: Biden claimed to be 'Moses leading us out of the wilderness' and the media fell for it. We knew better"
-    excerpt: "Sunday Night in America” host Trey Gowdy blamed President Biden for the “women and children killed in the streets” of Afghanistan during a passionate opening monologue Sunday night where he addressed the deteriorating situation as the Taliban continues to gain control in the region."
-    publishedDateTime: 2021-08-23T01:21:00Z
-    webUrl: "https://www.foxnews.com/media/gowdy-biden-claimed-to-be-moses-leading-us-out-of-the-wilderness-and-the-media-fell-for-it-we-knew-better"
-    ampWebUrl: "https://www.foxnews.com/media/gowdy-biden-claimed-to-be-moses-leading-us-out-of-the-wilderness-and-the-media-fell-for-it-we-knew-better.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/gowdy-biden-claimed-to-be-moses-leading-us-out-of-the-wilderness-and-the-media-fell-for-it-we-knew-better.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 116
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aee76ee9-c646-4fc1-94e5-99a770e1f67a/6c8e40cd-9893-4302-b913-9cb3b2363193/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/36970f94-cdd7-4d94-95be-ecb45dc8e5c4/22c1fa4f-9b06-4657-bd69-c02e796da689/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

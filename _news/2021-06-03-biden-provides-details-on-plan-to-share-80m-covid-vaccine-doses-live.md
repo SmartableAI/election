@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-repub
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates"
 type: article
 quality: 125
-heat: 785
+heat: 805
 published: true
 
 provider:
@@ -190,6 +190,22 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fea1d518f-2096-4ece-89fc-3bc4ce08a9ec.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+        isCached: true
+  - title: "COVID Vaccines Haven't Immunized Joe Biden's Weakening Presidency"
+    excerpt: "The president said he would end the pandemic. But variants are infecting even the vaccinated, and many Americans are still refusing to get a shot."
+    publishedDateTime: 2021-08-27T14:05:00Z
+    webUrl: "https://www.newsweek.com/covid-vaccines-immunized-joe-biden-weakening-presidency-1623656"
+    ampWebUrl: "https://www.newsweek.com/covid-vaccines-immunized-joe-biden-weakening-presidency-1623656?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/covid-vaccines-immunized-joe-biden-weakening-presidency-1623656?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1881511/joe-biden-wearing-face-mask.jpg"
+        width: 2500
+        height: 1666
         isCached: true
   - title: "Biden pushes plan to rebuild US infrastructure as Covid cases rise – live"
     excerpt: "President to launch next phase of Build Back Better program and announces plans to tackle rising anti-Asian violence – follow all the latest politics news"

@@ -191,6 +191,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "COVID Vaccines Haven't Immunized Joe Biden's Weakening Presidency"
+    excerpt: "The president said he would end the pandemic. But variants are infecting even the vaccinated, and many Americans are still refusing to get a shot."
+    publishedDateTime: 2021-08-27T14:05:00Z
+    webUrl: "https://www.newsweek.com/covid-vaccines-immunized-joe-biden-weakening-presidency-1623656"
+    ampWebUrl: "https://www.newsweek.com/covid-vaccines-immunized-joe-biden-weakening-presidency-1623656?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/covid-vaccines-immunized-joe-biden-weakening-presidency-1623656?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1881511/joe-biden-wearing-face-mask.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
   - title: "Biden pushes plan to rebuild US infrastructure as Covid cases rise – live"
     excerpt: "President to launch next phase of Build Back Better program and announces plans to tackle rising anti-Asian violence – follow all the latest politics news"
     publishedDateTime: 2021-03-30T17:44:00Z

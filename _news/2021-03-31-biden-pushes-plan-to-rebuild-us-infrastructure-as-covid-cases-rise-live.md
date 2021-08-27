@@ -207,6 +207,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "COVID Vaccines Haven't Immunized Joe Biden's Weakening Presidency"
+    excerpt: "The president said he would end the pandemic. But variants are infecting even the vaccinated, and many Americans are still refusing to get a shot."
+    publishedDateTime: 2021-08-27T14:05:00Z
+    webUrl: "https://www.newsweek.com/covid-vaccines-immunized-joe-biden-weakening-presidency-1623656"
+    ampWebUrl: "https://www.newsweek.com/covid-vaccines-immunized-joe-biden-weakening-presidency-1623656?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/covid-vaccines-immunized-joe-biden-weakening-presidency-1623656?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1881511/joe-biden-wearing-face-mask.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
   - title: "Rand Paul Calls for Joe Biden to Burn Face Mask to Promote COVID Vaccine"
     excerpt: "Rand said that \"virtually zero\" people have died of COVID-19 after being vaccinated. The number is closer to 5,800, according to the U.S. Centers for Disease Control and Prevention."
     publishedDateTime: 2021-04-22T01:13:00Z

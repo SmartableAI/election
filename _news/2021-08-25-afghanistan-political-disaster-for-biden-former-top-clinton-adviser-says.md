@@ -1151,6 +1151,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "McCarthy leaves door open to Biden impeachment for Afghanistan bombing: 'There will be a day of reckoning'"
+    excerpt: "House Minority Leader Kevin McCarthy, R-Calif., left open the possibility that Republicans would seek to impeach President Biden over his handling of the troop withdrawal in Afghanistan that cost at least 13 American service members their lives. "
+    publishedDateTime: 2021-08-27T16:11:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RyliDGLrKck/mccarthy-biden-impeachment-afghanistan-day-reckoning"
+    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-biden-impeachment-afghanistan-day-reckoning.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-biden-impeachment-afghanistan-day-reckoning.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden suggests 'chaos' in Afghanistan withdrawal was inevitable despite predicting no 'Saigon' moment in July"
     excerpt: "President Biden denied that his administration made any mistakes in how it has handled the withdrawal from Afghanistan, even as the Taliban has swiftly taken over the country and Americans and their allies have scrambled to escape."
     publishedDateTime: 2021-08-19T15:32:10Z

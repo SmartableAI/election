@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/media/gowdy-biden-claimed-to-be-moses-leadin
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/gowdy-biden-claimed-to-be-moses-leading-us-out-of-the-wilderness-and-the-media-fell-for-it-we-knew-better.amp"
 type: article
 quality: 116
-heat: -1
-published: false
+heat: 116
+published: true
 
 provider:
   name: Fox News
@@ -30,51 +30,6 @@ images:
     width: 720
     height: 405
     isCached: true
-
-related:
-  - title: "McCarthy says Biden is leaving US hostages for the Taliban: 'He turned his back on our own citizens'"
-    excerpt: "House Minority Leader Kevin McCarthy blasted President Biden for sticking to an Aug. 31 withdrawal deadline from Afghanistan and said \"thousands of Americans\" could be left stranded in the Taliban-controlled country as a result."
-    publishedDateTime: 2021-08-25T17:36:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qLIkUSPuEo4/mccarthy-biden-hostages-taliban"
-    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-biden-hostages-taliban.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-biden-hostages-taliban.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Sasse urges Biden to tell Taliban 'we're getting our people out however long it takes': 'Damn the deadline'"
-    excerpt: "In a blistering statement, Sen. Ben Sasse said Biden should be calling the shots, not the Taliban, who said there would be \"no extensions\" of the deadline set for withdrawal."
-    publishedDateTime: 2021-08-24T17:15:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YkXyG4A050o/sasse-biden-taliban-damn-the-deadline"
-    ampWebUrl: "https://www.foxnews.com/politics/sasse-biden-taliban-damn-the-deadline.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sasse-biden-taliban-damn-the-deadline.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Top Senate Democrat swipes at Biden: ‘Can’t trust the Taliban’"
-    excerpt: "A top Senate Democrat signaled that in light of explosion attacks in Kabul that killed at least 11 U.S. Marines and a Navy medic, patience with President Joe Biden’s Afghanistan evacuation strategy is wearing thin."
-    publishedDateTime: 2021-08-26T21:27:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/top-senate-democrat-swipes-biden-cant-trust-taliban"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/top-senate-democrat-swipes-biden-cant-trust-taliban?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/top-senate-democrat-swipes-biden-cant-trust-taliban?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 65
 
 secured: "iT5Fm31lpy4S/B965EF8mlip5CHRNLeMzqsZhVkrk1nxKwOiLBC1W7sxvoVkxJvu38ht9Dq96284qG1/ZIejsvXPQQZKI0YzYuDUYor+hGrKu1Z0mpyyEf3epVIklQCI/Bebk10fZVsI5NPB4ORIk63w6F9kADUccEMPqcJyXGfrbmm+E1alSUtqP3YmytD7/OhPg5VFpmd0ivfdjMR2T2ktaeLecNkcUalMK9raqWuHqvbFkJcYdTOURRTvYAnqCjz48L3xeoMpAnPTbsyiMaa9JtIz/y/DQeFEG+aFdKOK1FMinG+7M+OTSGtRmicnDsrpawdvVvqrBZIT1/Eg0vLq3QbxteyLMeu5QZvdnJQ=;x1VBr/5zMl0GStauJaG4hA=="
 ---

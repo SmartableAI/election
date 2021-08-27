@@ -325,20 +325,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "7 US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot"
-    excerpt: "US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot."
-    publishedDateTime: 2021-08-26T16:05:00Z
-    webUrl: "https://apnews.com/article/donald-trump-ap-news-alert-riots-db275e882b46c926cd46ede8c340a0f7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 83
-    images:
-      - url: "https://apnews.com/images/ShareLogo2.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Donald Trump's Voice Banned From Facebook, Lara Trump's Video Removed"
     excerpt: "Lara Trump’s Facebook video in which she interviews her father-in-law, former President Donald Trump, was removed after being informed that his voice is even banned from the platform. Donald Trump was banned from Facebook shortly after the Jan. 6 attacks ..."
     publishedDateTime: 2021-03-31T19:25:00Z
@@ -615,13 +601,13 @@ related:
   - title: "Alert: 7 US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot"
     excerpt: "US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot."
     publishedDateTime: 2021-08-26T20:13:00Z
-    webUrl: "https://www.ourmidland.com/news/article/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
-    ampWebUrl: "https://www.ourmidland.com/news/amp/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
-    cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/news/amp/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
+    webUrl: "https://www.middletownpress.com/news/article/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
+    ampWebUrl: "https://www.middletownpress.com/news/amp/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
+    cdnAmpWebUrl: "https://www-middletownpress-com.cdn.ampproject.org/c/s/www.middletownpress.com/news/amp/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
     type: article
     provider:
-      name: Our Midland MI
-      domain: ourmidland.com
+      name: The Middletown Press
+      domain: middletownpress.com
     quality: 50
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
@@ -642,6 +628,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Capitol Police officers sue Trump, right-wing groups over injuries from Jan. 6 riot"
+    excerpt: "Seven U.S. Capitol Police officers on Thursday sued former president Donald Trump and more than a dozen alleged participants in the Jan. 6 riot at the U.S. Capitol, saying the"
+    publishedDateTime: 2021-08-27T16:00:00Z
+    webUrl: "https://www.sentinelsource.com/news/national_world/capitol-police-officers-sue-trump-right-wing-groups-over-injuries-from-jan-6-riot/article_da769c3b-faad-5fda-81a0-1880cd972039.html"
+    type: article
+    provider:
+      name: The Keene Sentinel
+      domain: sentinelsource.com
+    quality: 49
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/sentinelsource.com/content/tncms/custom/image/94f334aa-d43b-11eb-b5e9-4f39ce134ddd.jpg"
+        width: 1200
+        height: 480
+        isCached: true
   - title: "Police officers sue Trump over Jan. 6"
     excerpt: "U.S. Capitol Police officers who were attacked and beaten during the Capitol riot filed a lawsuit Thursday against former President"
     publishedDateTime: 2021-08-27T05:24:00Z
@@ -651,6 +651,20 @@ related:
       name: The Journal Gazette
       domain: journalgazette.net
     quality: 35
+  - title: "7 US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot"
+    excerpt: "US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot."
+    publishedDateTime: 2021-08-26T16:05:00Z
+    webUrl: "https://azdailysun.com/news/national/govt-and-politics/7-us-capitol-police-officers-sue-former-president-donald-trump-his-allies-and-extremists-groups/article_f06393c4-6bb9-5e04-9345-7972120963da.html"
+    type: article
+    provider:
+      name: Arizona Daily Sun
+      domain: azdailysun.com
+    quality: 33
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/azdailysun.com/content/tncms/custom/image/265abe26-0cb1-11ea-b986-9b408788062f.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Alert: 7 US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot"
     excerpt: "US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot. The Chronicle’s flagship news podcast. Listen and subscribe on your favorite app. Click the player below for the latest episode."
     publishedDateTime: 2021-08-26T16:23:00Z

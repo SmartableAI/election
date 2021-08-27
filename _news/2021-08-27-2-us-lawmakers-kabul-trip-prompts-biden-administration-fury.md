@@ -2,19 +2,19 @@
 category: news
 title: "2 US lawmakers’ Kabul trip prompts Biden administration fury"
 excerpt: "Two members of Congress flew unannounced into Kabul airport in the middle of the ongoing chaotic evacuation, and their visit Tuesday stunned State Department and U.S. military personnel who had to divert resources to provide security and information to the lawmakers."
-publishedDateTime: 2021-08-27T11:41:00Z
-originalUrl: "https://www.thenewstribune.com/news/business/article253727773.html"
-webUrl: "https://www.thenewstribune.com/news/business/article253727773.html"
-ampWebUrl: "https://amp.thenewstribune.com/news/business/article253727773.html"
-cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article253727773.html"
+publishedDateTime: 2021-08-27T15:54:00Z
+originalUrl: "https://www.heraldonline.com/news/business/article253727773.html"
+webUrl: "https://www.heraldonline.com/news/business/article253727773.html"
+ampWebUrl: "https://amp.heraldonline.com/news/business/article253727773.html"
+cdnAmpWebUrl: "https://amp-heraldonline-com.cdn.ampproject.org/c/s/amp.heraldonline.com/news/business/article253727773.html"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: News Tribune
-  domain: thenewstribune.com
+  name: The Herald SC
+  domain: heraldonline.com
 
 topics:
   - Election
@@ -100,6 +100,22 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/assets/v3/editorial/3/de/3de70453-82d6-5d75-93c2-1709427cb75c/6127784a84c0f.image.jpg?resize=1024%2C682"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Biden, Wolf order all flags to fly at half-staff in honor of the victims of terrorist attack in Kabul"
+    excerpt: "Tom Wolf have ordered all flags to fly at half-staff in honor of the victims of the terrorist attack in Kabul, Afghanistan on August 26 at all federal and state buildings. The flags are to fly at half-staff until sunset on Monday."
+    publishedDateTime: 2021-08-27T15:49:00Z
+    webUrl: "https://www.pennlive.com/news/2021/08/biden-wolf-order-all-flags-to-fly-at-half-staff-in-honor-of-the-victims-of-terrorist-attack-in-kabul.html"
+    ampWebUrl: "https://www.pennlive.com/news/2021/08/biden-wolf-order-all-flags-to-fly-at-half-staff-in-honor-of-the-victims-of-terrorist-attack-in-kabul.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/news/2021/08/biden-wolf-order-all-flags-to-fly-at-half-staff-in-honor-of-the-victims-of-terrorist-attack-in-kabul.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 60
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/M3BZLF4TXVFNTOLNW6UZF76WUQ.jpg"
+        width: 1024
+        height: 684
         isCached: true
   - title: "Biden: Flights out of Kabul accelerating"
     excerpt: "President Joe Biden said Sunday that the U.S.-led evacuation of Americans, at-risk Afghans and others from the Kabul airport accelerated this weekend, although it remains vulnerable to threats posed by the Islamic State extremist group."
@@ -207,6 +223,6 @@ related:
       domain: columbiabasinherald.com
     quality: 35
 
-secured: "8ULMIYb2PY0RNqrgrJraJHJAePifSYL836CZX6yEBMDkr7mEGZIjdj44XGAbPDn5W7q4e7W91cv5LOCBptOlSPo/gvoGBGywXdZBxEvs0aDmN1EBwwV2VT3QjaaCK4izKsXuuiiAFBeZCUb7rE0wHxP9Uyxd3PVnIo3aNilhMitzYfSo3vR3Ba6Uz/IvmLLwLADHvu01M+tXusIRcEbwudqrM+v/ThJdqKx1lG59ZwAUFXX6jcnbo+K95jEB8CEKXhW8hI+1jpuafTlp0s8jm3tY0Uf5Ivs4hn7Lq7DLE/HkYNuRCdneOySZT6IwpRuV53RmqMgfTdQ2SOol30O3/EN6ZN35OOljWZHRfn3wqNWJkIgVbIOJEhK0kQKWuGf2wa4vjIVeVMgk/FgFLmDbY7DAmy9xaDtyddTRTna2jdXFZAr9/s5l+nE5lzLkMNqc6mrC5lIGtjQbUHbI4iYRVud+/g8y9fQczmaVGVs6zzA1Q5qvnohgQA1bZ6x/rpXBX92V8bwwxP+geSkVTUTDfA==;iJAwNFks0W/C0a86CROCmA=="
+secured: "d1OZ4fe7MKjHjuEPnlfuYX/7Fs/igGz6sFhvrFvLRXkvxx39Y8JRL5kFz/RKxo55OVoZbgy1OQu5CpGipWGUYFvmUoeGXTYiROvzdk/ISCuXAhioNitd5XSu3CqOm0NjtBMP60xvjTzQh0ymohNOKTsSmgk94ec2mB4vPZ0f2DZY1MW5PiyThirSvIfhCsuXnW82Q0doQ9pMAJJRoGg0cjslPO6hb/WxJHWfbDoqV4kp84gZOHxUDEL2Mf2KCDy7u0V5jj7a4NXPbDo5vT4esfZJDTk7MlFIwY5ZrmbTf5Cybp4BdZJjXpoM9Eb9LgbFW2lDxZydaH2gE25DdLKVtlVMnBy+aOEJyJl3CGRoP9Q=;47qWQh/ajF+KCZ2WmChqPg=="
 ---
 

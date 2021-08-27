@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-doesnt-deny-report-of-u-s-han
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doesnt-deny-report-of-u-s-handing-over-names-of-americans-to-taliban-theyre-may-have-been.amp"
 type: article
 quality: 162
-heat: -1
-published: false
+heat: 202
+published: true
 
 provider:
   name: Fox News
@@ -31,86 +31,33 @@ images:
     isCached: true
 
 related:
-  - title: "Republicans slam Biden after suicide attack at Kabul airport: 'Blood on his hands'"
-    excerpt: "Republicans are slamming the Biden administration’s handling of Afghanistan after multiple explosions outside of the Kabul airport, injuring at least three U.S. troops."
-    publishedDateTime: 2021-08-26T15:29:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8y0jUHY6aRk/republicans-slam-biden-suicide-attack-kabul-airport"
-    ampWebUrl: "https://www.foxnews.com/politics/republicans-slam-biden-suicide-attack-kabul-airport.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-slam-biden-suicide-attack-kabul-airport.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f21a20f-c555-47e9-aed4-4ad4452b5190/f2a5e305-dcf8-47a6-82ff-0d9b3276e875/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden condemns 'vicious' ISIS attacks in Kabul: 'We will hunt you down and make you pay'"
-    excerpt: "President Biden pledged to take action against ISIS-K militants and complete evacuation operations on Thursday in his first public remarks since a pair of deadly suicide bombings targeted U.S. forces and evacuees at Kabul’s airport in Afghanistan."
-    publishedDateTime: 2021-08-26T21:44:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6VChDK78VE0/biden-speech-kabul-airport-attack-afghanistan"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-speech-kabul-airport-attack-afghanistan.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-speech-kabul-airport-attack-afghanistan.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c86d9104-8c3d-42b0-aa8c-58d7d652579a/608765f6-b3cd-4b1e-8ab6-543ac87a94cc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden admits he bears responsibility for Kabul attack, defends withdrawal when pressed by Doocy"
-    excerpt: "President Biden told reporters Thursday that he bears responsibility for the “messy” evacuation and consequential suicide bombings in Kabul."
-    publishedDateTime: 2021-08-26T23:11:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CQ3fwHGqvpE/biden-says-he-bears-responsibility-for-kabul-attack-defends-withdrawal"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-says-he-bears-responsibility-for-kabul-attack-defends-withdrawal.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-he-bears-responsibility-for-kabul-attack-defends-withdrawal.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14c646a6-ad3d-4268-aace-2e063ea85db7/12540c0f-99ca-442a-be78-656b4a413121/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "President Biden silent for hours following Kabul attack that left at least 12 US service members dead"
-    excerpt: "President Biden has remained relatively silent after the attack in Kabul that left at least 12 U.S. service members dead and dozens of others on Wednesday."
-    publishedDateTime: 2021-08-26T19:35:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_dsBqJEWuMA/biden-silent-kubal-afghanistan-attack-service-members-dead"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-silent-kubal-afghanistan-attack-service-members-dead.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-silent-kubal-afghanistan-attack-service-members-dead.amp"
+  - title: "McCarthy says Biden is leaving US hostages for the Taliban: 'He turned his back on our own citizens'"
+    excerpt: "House Minority Leader Kevin McCarthy blasted President Biden for sticking to an Aug. 31 withdrawal deadline from Afghanistan and said \"thousands of Americans\" could be left stranded in the Taliban-controlled country as a result."
+    publishedDateTime: 2021-08-25T17:36:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qLIkUSPuEo4/mccarthy-biden-hostages-taliban"
+    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-biden-hostages-taliban.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-biden-hostages-taliban.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 160
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c86d9104-8c3d-42b0-aa8c-58d7d652579a/608765f6-b3cd-4b1e-8ab6-543ac87a94cc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Trump says Kabul airport explosion wouldn’t have happened if he was president"
-    excerpt: "Donald Trump hammered Biden over the suicide bombings outside Kabul’s airport, claiming that “it would not have happened if I was your president.”"
-    publishedDateTime: 2021-08-27T04:32:00Z
-    webUrl: "https://nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/"
-    ampWebUrl: "https://nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/amp/"
+  - title: "Top Senate Democrat swipes at Biden: ‘Can’t trust the Taliban’"
+    excerpt: "A top Senate Democrat signaled that in light of explosion attacks in Kabul that killed at least 11 U.S. Marines and a Navy medic, patience with President Joe Biden’s Afghanistan evacuation strategy is wearing thin."
+    publishedDateTime: 2021-08-26T21:27:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/top-senate-democrat-swipes-biden-cant-trust-taliban"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/top-senate-democrat-swipes-biden-cant-trust-taliban?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/top-senate-democrat-swipes-biden-cant-trust-taliban?_amp=true"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 132
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-afghanistan-bomging-index.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
 
 secured: "G3NEukpNMSutUPwB/pMmK6R2YrFu6nkVUnypJuvOlUcma+6TSr0hfFZm08NBtN/riGQVZ8qiI8y11BBZsUtpKMrWVjsNCHpOuE8EmwqnHK53AKHryhwYXmT6Lnvb3P6DBZSdGMdIMMQE8K66p4Ouosei8ePa1ZDjKtcT0MAshFrGNYBpIRaVx5feUAw7VXyivBnWtCEmTXDwZpYtXVFEXU0bSwzVIpEGT5U1j7NOTzDfmekm718iShKJMgMhs79OsR8vzKg2YuCRdbBGS1L1KZi1Ukf7WRLeVLVzII/hrqiRCn2tqNfz3mOBX/ZBhQkf7s+Ly3gPMHajbqJL+d7fT0TumbdcOVQiCe0kB+5ixcQ=;JcSiNxxshSTXGHXVYCcnsw=="
 ---

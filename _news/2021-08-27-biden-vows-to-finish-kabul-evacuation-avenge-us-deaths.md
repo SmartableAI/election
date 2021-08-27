@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Biden vows to finish Kabul evacuation, avenge US deaths"
-excerpt: "President Joe Biden is vowing to complete the evacuation of American citizens and others from Afghanistan despite the deadly suicide bomb attack at the Kabul airport. He promised to avenge the deaths of 13 U."
-publishedDateTime: 2021-08-27T09:35:00Z
-originalUrl: "https://www.mysanantonio.com/news/article/Biden-vows-to-finish-Kabul-evacuation-avenge-US-16415469.php"
-webUrl: "https://www.mysanantonio.com/news/article/Biden-vows-to-finish-Kabul-evacuation-avenge-US-16415469.php"
-ampWebUrl: "https://www.mysanantonio.com/news/amp/Biden-vows-to-finish-Kabul-evacuation-avenge-US-16415469.php"
-cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Biden-vows-to-finish-Kabul-evacuation-avenge-US-16415469.php"
+excerpt: "President Joe Biden vowed Thursday to complete the evacuation of American citizens and others from Afghanistan despite the day's deadly suicide bomb attack at the Kabul airport. He promised to avenge the deaths of 13 U."
+publishedDateTime: 2021-08-27T11:40:00Z
+originalUrl: "https://www.mysanantonio.com/news/article/US-says-1-500-Americans-may-still-await-Kabul-16412711.php"
+webUrl: "https://www.mysanantonio.com/news/article/US-says-1-500-Americans-may-still-await-Kabul-16412711.php"
+ampWebUrl: "https://www.mysanantonio.com/news/amp/US-says-1-500-Americans-may-still-await-Kabul-16412711.php"
+cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/US-says-1-500-Americans-may-still-await-Kabul-16412711.php"
 type: article
 quality: 75
 heat: -1
@@ -21,9 +21,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://s.hdnux.com/photos/01/21/50/02/21397664/3/ratio3x2_400.jpg"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -74,6 +74,22 @@ related:
       - url: "https://thumb.spokesman.com/yCDjKF50EyahXZ7d0oiEhxzLIxE=/480x0/media.spokesman.com/photos/2021/08/18/611dc5982dd25.hires.jpg"
         width: 480
         height: 357
+        isCached: true
+  - title: "Israeli PM to make case to Biden against Iran nuclear pact"
+    excerpt: "President Joe Biden and Israeli Prime Minister Naftali Bennett have postponed their White House meeting as Biden focused his attention on dealing with the aftermath of deadly explosions near the Kabul airport that targeted U."
+    publishedDateTime: 2021-08-27T17:42:00Z
+    webUrl: "https://www.islandpacket.com/news/politics-government/national-politics/article253752358.html"
+    ampWebUrl: "https://amp.islandpacket.com/news/politics-government/national-politics/article253752358.html"
+    cdnAmpWebUrl: "https://amp-islandpacket-com.cdn.ampproject.org/c/s/amp.islandpacket.com/news/politics-government/national-politics/article253752358.html"
+    type: article
+    provider:
+      name: The Island Packet
+      domain: islandpacket.com
+    quality: 75
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/7f1caafa-aea1-49ad-bc9f-e3322fb2825c/af216152-128c-45c0-b0b0-8fff6b46b17c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden Urges More Employers to Enact Vaccine Mandates Following FDA’s Full Approval"
     excerpt: "Do what I did last month. Require your employees to get vaccinated or face strict requirements,” Biden said Monday."
@@ -145,6 +161,6 @@ related:
       domain: seattletimes.com
     quality: 39
 
-secured: "6HlXRdccvDpY63lK/BB4WtaiNlG2lXhtsfcluKWEIKwJPmdQVHNHviZoo/GTEAI09FRuSoEW+EWcsCkjRrK1pgh5eCsHx2qRYayS8hbfS1u4hU2+3mNYzc3WQgUCelAuLoDWAeB/Z/QPaKJ3+4fcLHJeEOQB7rMRm9YpY/Z47zVXP3qAr/RSl2Qm3lznjS2WmW51xLy0i2h9jBP2VXD/JCLU3yjqk0x9TCLSfudNW4UmHrcOTWedbOY5ATi5zURpyKECF10plbHp5rWeqpFVPuJZdDaRo5RpjN7Y0BKYgriEVY5YRQkL05s1zYehEacYfyxaUuUI8mEkm3cbiyN+m6D5fwthxeEa84ffzxnDCwI=;MLA/2MqfvE89DyVeUZPgRg=="
+secured: "ZqTvMNA3IAcTVIH1DXtLvxAUo1cjGTpgczosVa9U3FgTgcSVbAFzmID58LtVXHNo3rnNN+PvfZ8OCJJp+vm0dzGofS3btoJmXYHi+VZTGbePm70kEeVsoLm5b/SYv6qtAdtB+3K5+aH7Rd/F9gTXa4JBMWX119C9rVC1Wjv8i2alnNM2L0ptTx18N1Dv2XPhoL24zRT4TNH79udWwT7PK7Ty8sGlgjmutNKVY8ySAH4tQZ1tAOrPxnSEYZ6OqFMLQTKi7/WGW4EouCUBrKsdX/1JvVsUvsuaUpgrh7dqRrIo+ZA8I9Hj2aFRPJXHInuFh2tyMTYzkCsG9EVO1jgAxIqbn4V+IgMah650nQiaxyQ=;Y8GW3y5INzaW3vCJjSIXnA=="
 ---
 

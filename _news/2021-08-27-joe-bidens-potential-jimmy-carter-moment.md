@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden’s potential Jimmy Carter moment"
-excerpt: "In Joe Biden’s remarks following the Kabul terrorist attack on Thursday, he concluded: “Ladies and gentlemen, after 20 years it is time to leave.” The moment was"
+excerpt: "In Joe Biden’s remarks following the Kabul terrorist attack on Thursday, he concluded: “Ladies and gentlemen, after 20 years it was time to end a 20-year war.” The moment was horribly circular. America went into Afghanistan in 2001 to drive out the terrorists."
 publishedDateTime: 2021-08-27T00:07:00Z
-originalUrl: "https://www.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb"
-webUrl: "https://www.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb"
+originalUrl: "https://www.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb?63bac0e6-3d28-36b1-7417-423982f60790"
+webUrl: "https://www.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb?63bac0e6-3d28-36b1-7417-423982f60790"
 ampWebUrl: "https://amp.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb"
 type: article
@@ -782,6 +782,6 @@ related:
       domain: avvo.com
     quality: 14
 
-secured: "E+3MKi8VhZZWt2fkY1uwSpdaYp1nPK0z4b8PX/WTD1efmytDUPFFSw/lMHN+JJtDMehkzmTMdNaJza9lstOjmUrr/RvxsRmC1Bl7aT/9Ty5+tn+4KHvfAxqQk8L1hQt5IFqQIbuW4EbCxu3klyyZHadnK7y57psUOEnwrAcE7x3RlpWuuHPYaMukdw5uaIp4J7baP+r+mp0CePt6cc75Ph7yNZm0Yz2hSAqm80fK6sha1vVbpWCzR4k7Z0V1qGUa6M8IHDuqw4gpHSVpB91W1uc0EGepj3zOjI1OAIXwXxD7m6RtosSa+h3PeBM+fpJXfOMGBvCr5ylHOthAIwPuC07NaUKN7HX33gPHcM2EUlA=;cXsjtdskIZf0e9Qo9GAQbQ=="
+secured: "mZ1jJQ6IUnENaktZrarjluvCXkAaDNDImKntM+8+Y48YahfC5PQ55qpIMakoD2QMhIklUPXAvz+N363e0+iumhh6g5GRwXdzVJV0SqcicA6OEd4rN1ctBMs3nM2OHmK8Tog819liaXZC8eGSKrB3tIVHqoyMLqILa3aTl4eoYMY+SKn2wurpz3e4NeRSffPrLiamKDKeTBVsavxAKxXpGw7nUTBHv/gb4/VoHKCZn1719VWcaE811MwJfcQMssao3gSQHnWC8nFBYTD5kvjQJPUlqbaqIheP/GJCHNTGpXIlQPUX4q2z+NZBhNXXFM+cjSNeK68NamK6bhwtglTJnuiuXfUpBSXYlpQZ2drjQfA=;g7IxZtQeWLv14ALrnw7oTw=="
 ---
 

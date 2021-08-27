@@ -189,6 +189,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Joe Biden Keeps Getting His Afghanistan Facts Wrong"
+    excerpt: "President Joe Biden's Afghanistan disaster is going from bad to worse. At least 13 American troops were killed Thursday in an Islamic State Khorasan Province suicide attack at Kabul International Airport,"
+    publishedDateTime: 2021-08-27T13:32:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-keeps-getting-afghanistan-facts-wrong-1623613"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-keeps-getting-afghanistan-facts-wrong-1623613?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-keeps-getting-afghanistan-facts-wrong-1623613?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1881452/joe-biden-pictured-during-white-house-address.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "President Biden to give Afghanistan update one week after Taliban takeover"
     excerpt: "At the one-week mark since the Taliban took over Afghanistan, the U.S.-directed airlift from Kabul continued Sunday even as U.S. officials expressed growing concern about the threat from the Islamic State group."
     publishedDateTime: 2021-08-22T17:39:00Z
@@ -1456,6 +1472,6 @@ related:
         height: 380
         isCached: true
 
-secured: "wRPaa1fKqfzTWOjHWNwS1LHgak13VY1kJkh+qRcYSm9p3zm45/LTpv/98wzM+Dr8Y2aDjJCZgHF1d1Ib/YKoKZEfaePkcP7PuIvjCzovIi/JYW9YrlTR30vQSH1oDAezsOhqsgx6JN/CrT3BBdkNBmpAo6hzX5EnIKXfsAfXQYHqDl5tz7BEJaaZ14hEQLXC/BGmoaJxGhxESzxs/2PFydVpD0I4mq2oDMw9gKeIMI21wPMKIl9h9GIiy66r2AhSQEYDg8fbWcpG3nXUP7iXWq+q4V+QL175CDcsRjr2MW9EDwgQKYd1wxrMYoCH0iK6b/cOqBp79sNsl0TCVQCzny6aWI+JX3iHkG/5DBi3rsU=;NgDatjidu7iNUW53Qu+ypw=="
+secured: "j67iFi53023Pk4B8nXuyJC38HsCBXIwJf4Ehn6gTlm9xcApYnyISmIvQE8fGFt1k7CyZQ40m4gSdRGeINu5pYgYxNI5GE00/iVgbeG8WjVcrkHzeIp6/cdpyEYUMXS26+hqrzSqH9Vn1frTPz/K1e7xfVwx1L34EMCGnQdPgoxJgX/DNXTOCgX0mNfaKna0lpnbFOEEi8w/FR/Wois5t/qQI5gvX6xRMN8ZFqow7Ce98qtYHsmbnEGngAnfZ0t0odFiI/Txbor8rzTNJrOCgPaCFal4uJb5cvIPMg5vRj7/7pGjnHd+OGscycZZU5BfbqGMstHFGTiP8lPjNpvjckNW+YdFbBrwhHVPb+njN7jM=;vZwzegbHUd1nTSSleSNaHA=="
 ---
 

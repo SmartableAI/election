@@ -100,6 +100,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Democrats attack Supreme Court for blocking Biden eviction moratorium"
+    excerpt: "Democrats are lashing out at the Supreme Court for blocking President Biden's eviction moratorium."
+    publishedDateTime: 2021-08-27T15:27:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dBZlcPTeuOs/democrats-attack-supreme-court-biden-eviction-moratorium"
+    ampWebUrl: "https://www.foxnews.com/politics/democrats-attack-supreme-court-biden-eviction-moratorium.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-attack-supreme-court-biden-eviction-moratorium.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ac2648a0-241a-4e0b-84e1-e2590dccb0f9/27df12ca-f3f1-484b-83e1-16c35084284a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Psaki claims US doesn't negotiate with terrorists despite Biden admin depending on Taliban for evacuation"
     excerpt: "White House press secretary Jen Psaki said Wednesday that U.S. policy is still not to negotiate with terrorists, despite apparently relying heavily on the statements and promises by Taliban leaders since their takeover of Afghanistan last week."
     publishedDateTime: 2021-08-25T19:55:43Z

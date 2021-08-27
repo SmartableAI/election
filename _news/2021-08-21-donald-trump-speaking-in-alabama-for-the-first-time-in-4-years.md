@@ -57,6 +57,22 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Trump-inspired conspiracies about voter fraud have infiltrated the California recall. And they may cost supporters votes"
+    excerpt: "The campaign to recall California Gov. Gavin Newsom has a conspiracy theory problem, and it just might siphon off votes that could aid its cause. In an illustration of the fallout from Donald Trump’s “Stop the Steal” lie that the 2020 presidential election was stolen from him,"
+    publishedDateTime: 2021-08-27T17:00:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Trump-inspired-conspiracies-about-voter-fraud-16415308.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Trump-inspired-conspiracies-about-voter-fraud-16415308.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Trump-inspired-conspiracies-about-voter-fraud-16415308.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 50
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/50/21/21398598/3/400x0.jpg"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "HGkdKf5Nm0MMDiXWrjdsHoOQwye3M5AWgdaHU8kdev8GbcpO5vqpg0SEUtkbxw8pwxWX/dn+ASQJJN/08DeBQdORPtxs028KaTaWCjUkPCeAtOL2ca50w+oI4LrwIJpnjFlE1e1YbOl/JZpKQ2gz4B6Z3ESRgpJw8VAjhJGsxuuSmrDUd46cousfUA3cLLgaRx3TBjEMUHtIheFOXbY/Ft75m4Iw4TfTdrQiEtwJMU0agBhNqv4PNzMaJBzADN62zA8ZGKdVXlEtgm3+GsfkLMhexLy1YCb93vCxGrZq2N0MwcSrR4L8AxAngojfCrttTAfGH3S2wU3SZs2a1sUl4YxGfES1PuiRSN0xgxnijwrXSHM1aWOBnhjlcadGvZoLOcWusX3g7uw4uxofdxx2qa22/uaAknXF+M0AHbou3jEBnyGdv6iAj/0ePvLr+gW0anMUhSxtwRe8/gepPXf1ms5KB+AW/haA8TdUZCvxitw9yo9DrJMEOi5SNvuHMvfLy6JWVdvuOTId5xmo0ijMJw==;9t+GkCN69CZA1nUsaSOLXg=="
 ---

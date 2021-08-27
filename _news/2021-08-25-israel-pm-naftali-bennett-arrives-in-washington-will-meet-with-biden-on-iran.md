@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/israel-pm-naftali-bennett-washingto
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/israel-pm-naftali-bennett-washington-biden-iran.amp"
 type: article
 quality: 172
-heat: 192
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,19 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "Biden congratulates Israel’s incoming PM Naftali Bennett, vows support for 'Israelis, Palestinians'"
-    excerpt: "President Joe Biden on Sunday congratulated Israel’s incoming Prime Minister Naftali Bennett after Israel’s parliament voted to approve a new government, effectively ending Benjamin Netanyahu’s historic 12 years in office."
-    publishedDateTime: 2021-06-13T20:00:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VuCLqcy-Gok/biden-congratulates-israels-incoming-pm-naftali-bennett-vows-support-for-israelis-palestinians"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-congratulates-israels-incoming-pm-naftali-bennett-vows-support-for-israelis-palestinians.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-congratulates-israels-incoming-pm-naftali-bennett-vows-support-for-israelis-palestinians.amp"
+  - title: "Biden meets with Israeli prime minister after deadly Kabul bombing"
+    excerpt: "President Biden sat down with the newly installed Israeli Prime Minister Naftali Bennett Friday, roughly 24 hours after the deadly suicide bombing in Kabul."
+    publishedDateTime: 2021-08-27T17:32:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4W3al9aPvbY/biden-israeli-prime-minister-kabul-bombing"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-israeli-prime-minister-kabul-bombing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-israeli-prime-minister-kabul-bombing.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9ba207a5-e5c3-44d7-ac5a-5bb6e1c12fb7/13469762-5405-4e01-b991-9d0ec4c05076/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c013c6db-e7ea-41bb-93f5-be557d7321c8/209d8f8e-15b3-41c1-99db-334ce2c78307/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Republicans slam Biden after suicide attack at Kabul airport: 'Blood on his hands'"
+    excerpt: "Republicans are slamming the Biden administration’s handling of Afghanistan after multiple explosions outside of the Kabul airport, injuring at least three U.S. troops."
+    publishedDateTime: 2021-08-26T15:29:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8y0jUHY6aRk/republicans-slam-biden-suicide-attack-kabul-airport"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-slam-biden-suicide-attack-kabul-airport.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-slam-biden-suicide-attack-kabul-airport.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f21a20f-c555-47e9-aed4-4ad4452b5190/f2a5e305-dcf8-47a6-82ff-0d9b3276e875/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden admits he bears responsibility for Kabul attack, defends withdrawal when pressed by Doocy"
+    excerpt: "President Biden told reporters Thursday that he bears responsibility for the “messy” evacuation and consequential suicide bombings in Kabul."
+    publishedDateTime: 2021-08-26T23:11:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CQ3fwHGqvpE/biden-says-he-bears-responsibility-for-kabul-attack-defends-withdrawal"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-he-bears-responsibility-for-kabul-attack-defends-withdrawal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-he-bears-responsibility-for-kabul-attack-defends-withdrawal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14c646a6-ad3d-4268-aace-2e063ea85db7/12540c0f-99ca-442a-be78-656b4a413121/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "President Biden silent for hours following Kabul attack that left at least 12 US service members dead"
+    excerpt: "President Biden has remained relatively silent after the attack in Kabul that left at least 12 U.S. service members dead and dozens of others on Wednesday."
+    publishedDateTime: 2021-08-26T19:35:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_dsBqJEWuMA/biden-silent-kubal-afghanistan-attack-service-members-dead"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-silent-kubal-afghanistan-attack-service-members-dead.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-silent-kubal-afghanistan-attack-service-members-dead.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c86d9104-8c3d-42b0-aa8c-58d7d652579a/608765f6-b3cd-4b1e-8ab6-543ac87a94cc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

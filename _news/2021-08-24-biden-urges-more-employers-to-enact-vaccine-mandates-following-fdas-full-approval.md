@@ -60,20 +60,20 @@ related:
         height: 336
         isCached: true
   - title: "Biden vows to finish Kabul evacuation, avenge US deaths"
-    excerpt: "President Joe Biden is vowing to complete the evacuation of American citizens and others from Afghanistan despite the deadly suicide bomb attack at the Kabul airport. He promised to avenge the deaths of 13 U."
-    publishedDateTime: 2021-08-27T09:35:00Z
-    webUrl: "https://www.mysanantonio.com/news/article/Biden-vows-to-finish-Kabul-evacuation-avenge-US-16415469.php"
-    ampWebUrl: "https://www.mysanantonio.com/news/amp/Biden-vows-to-finish-Kabul-evacuation-avenge-US-16415469.php"
-    cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Biden-vows-to-finish-Kabul-evacuation-avenge-US-16415469.php"
+    excerpt: "President Joe Biden vowed Thursday to complete the evacuation of American citizens and others from Afghanistan despite the day's deadly suicide bomb attack at the Kabul airport. He promised to avenge the deaths of 13 U."
+    publishedDateTime: 2021-08-27T11:40:00Z
+    webUrl: "https://www.mysanantonio.com/news/article/US-says-1-500-Americans-may-still-await-Kabul-16412711.php"
+    ampWebUrl: "https://www.mysanantonio.com/news/amp/US-says-1-500-Americans-may-still-await-Kabul-16412711.php"
+    cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/US-says-1-500-Americans-may-still-await-Kabul-16412711.php"
     type: article
     provider:
       name: My San Antonio
       domain: mysanantonio.com
     quality: 75
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://s.hdnux.com/photos/01/21/50/02/21397664/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
   - title: "President Joe Biden vows to finish Kabul evacuation, avenge U.S. deaths"
     excerpt: "The White House hurriedly put off President Joe Biden's first in-person meeting with Israel's new prime minister Thursday and canceled a video conference with governors on incoming Afghan refugees after explosions outside the Kabul airport killed more than a dozen people,"
@@ -90,6 +90,22 @@ related:
       - url: "https://thumb.spokesman.com/yCDjKF50EyahXZ7d0oiEhxzLIxE=/480x0/media.spokesman.com/photos/2021/08/18/611dc5982dd25.hires.jpg"
         width: 480
         height: 357
+        isCached: true
+  - title: "Israeli PM to make case to Biden against Iran nuclear pact"
+    excerpt: "President Joe Biden and Israeli Prime Minister Naftali Bennett have postponed their White House meeting as Biden focused his attention on dealing with the aftermath of deadly explosions near the Kabul airport that targeted U."
+    publishedDateTime: 2021-08-27T17:42:00Z
+    webUrl: "https://www.islandpacket.com/news/politics-government/national-politics/article253752358.html"
+    ampWebUrl: "https://amp.islandpacket.com/news/politics-government/national-politics/article253752358.html"
+    cdnAmpWebUrl: "https://amp-islandpacket-com.cdn.ampproject.org/c/s/amp.islandpacket.com/news/politics-government/national-politics/article253752358.html"
+    type: article
+    provider:
+      name: The Island Packet
+      domain: islandpacket.com
+    quality: 75
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/7f1caafa-aea1-49ad-bc9f-e3322fb2825c/af216152-128c-45c0-b0b0-8fff6b46b17c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "An Update on President Joe Biden’s Promise to “Have our Backs”"
     excerpt: "By Congressman James E. Clyburn July 20, 2021, marked six months that Joseph R. Biden has been President. When I endorsed Joe Biden for"
