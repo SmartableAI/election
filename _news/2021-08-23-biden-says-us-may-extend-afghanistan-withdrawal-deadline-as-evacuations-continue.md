@@ -112,6 +112,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Kamala Harris Pledges Support to Afghan Women and Children"
+    excerpt: "During a trip to Vietnam, Vice President Kamala Harris said the first priority for rescue missions in Afghanistan are American citizens and women and children in the region."
+    publishedDateTime: 2021-08-26T14:18:00Z
+    webUrl: "https://www.nytimes.com/video/world/asia/100000007940406/kamala-harris-vice-president-afghanistan-rescue.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/08/26/world/26afghanistan-briefing-kamala-vietnam/26harris-asia01-facebookJumbo.jpg?video-overlay?video-overlay?video-overlay"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Kamala Harris' campaign rally for Newsom canceled after Afghanistan attacks"
     excerpt: "Vice President Kamala Harris will not campaign on Friday for Gavin Newsom amid his recall fight, skipping a planned Bay Area rally for the Democratic governor. Harris, returning f"
     publishedDateTime: 2021-08-26T21:53:00Z

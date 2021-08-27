@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/24/politics/biden-supreme-court/inde
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/24/politics/biden-supreme-court/index.html"
 type: article
 quality: 187
-heat: 427
+heat: 447
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210222191414-trump-rodgers-oped-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "SCOTUS 2, Biden 0"
+    excerpt: "The Supreme Court slapped down the Biden administration twice this week, giving the White House scant regard in a Tuesday dispute over asylum policy and late Thursday acidly rejecting its defense of an eviction moratorium tied to the surge in Covid-19 infections.\n    \n"
+    publishedDateTime: 2021-08-27T13:28:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yiINXpGkOdc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/27/politics/supreme-court-biden-trump-eviction-moratorium-immigration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/27/politics/supreme-court-biden-trump-eviction-moratorium-immigration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210824140328-02-joe-biden-john-roberts-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

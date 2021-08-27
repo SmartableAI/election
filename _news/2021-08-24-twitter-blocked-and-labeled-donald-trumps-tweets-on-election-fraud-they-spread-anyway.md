@@ -2,19 +2,19 @@
 category: news
 title: "Twitter blocked and labeled Donald Trump's tweets on election fraud. They spread anyway."
 excerpt: "An NYU study of Trump tweets raises new questions about the ability of social media companies to halt the flood of falsehoods during election cycles."
-publishedDateTime: 2021-08-24T16:52:00Z
-originalUrl: "https://www.freep.com/story/tech/2021/08/24/trump-twitter-block-election-fraud-tweets-facebook-instagram-posts/8218382002/"
-webUrl: "https://www.freep.com/story/tech/2021/08/24/trump-twitter-block-election-fraud-tweets-facebook-instagram-posts/8218382002/"
-ampWebUrl: "https://amp.freep.com/amp/8218382002"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/8218382002"
+publishedDateTime: 2021-08-24T04:00:00Z
+originalUrl: "https://www.cincinnati.com/story/tech/2021/08/24/trump-twitter-block-election-fraud-tweets-facebook-instagram-posts/8218382002/"
+webUrl: "https://www.cincinnati.com/story/tech/2021/08/24/trump-twitter-block-election-fraud-tweets-facebook-instagram-posts/8218382002/"
+ampWebUrl: "https://amp.cincinnati.com/amp/8218382002"
+cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/8218382002"
 type: article
 quality: 81
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: Cincinnati Enquirer
+  domain: cincinnati.com
 
 topics:
   - Election
@@ -120,6 +120,6 @@ related:
         height: 400
         isCached: true
 
-secured: "hGx8j0CHUhy7Zpybj5GI3rd2/YtH3AG0+JxhBiIK5e5PTZh1YBa6UaNednCYzPnFy1bkIN9klB3yN4ZeXAaqFK0XacfEzx3dwvFODF2ZPfPHA+wP2mesmWQZofgOUbJVc5IT8XBvLNu1WiRyDmLy69WX+VzkK960sFRHTzSxd/3BwoutuoGViyozFYYmRWei8m9yM9o/u+0JP42gWQtvuFFVnH+3JIdmIWJkyWMi+QZwGfXKkhhIQy5mrjHBPQuao3fd60fuFULf3r31amcqnion3NerCBPziwCq09hhCi5CXPVME9KtiTZAMKSKipz+nb6QONNB1hvfeix39FEpNmDXB8M9FkXAA8MrgOCJSz0=;dBMOvKIIS3xDJKwj9d4LKA=="
+secured: "nCcYfWBi2u6ajf1nuuIH2zsQjBHCnhGWdYSNDPQI2VJ6hwPSktYulJMIn3gUK/rC5pxb7ZPc9HiCyBybrJLwlBAVtdcOqK33cR5vESPqJGFk3Hd98qdZ0DQSA2ZlCTrbJO9OH9Ms+keaRgz7JrHEc0cHqZpC+CTLo6eXwn3Spj6daeSty+sTDrbXiGTkcrRuvunpNh9pU2PFG4F94N4aRpuTMvHDbr0ERzCU6GUsjcfbcpdAbXCdFqM8Rm9C5PM6vy87wZAFCI2/HiFgLAnfC+bDLaSnKG9MJAC0riBIu/Z42hNKdehKfgYi5M5ndyhy1aXlgtIeXgWHGjoZqoPMh7HPffQUmH05XB57JmY3cH0=;vcMNKkUvVG3B0eu+efCnCw=="
 ---
 

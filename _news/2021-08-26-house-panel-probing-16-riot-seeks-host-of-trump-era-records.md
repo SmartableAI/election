@@ -1,107 +1,65 @@
 ---
 category: news
 title: "House panel probing 1/6 riot seeks host of Trump-era records"
-excerpt: "The House committee investigating the January insurrection at the U.S. Capitol is demanding a trove of records from federal intelligence and law enforcement agencies, showing the sweep"
-publishedDateTime: 2021-08-26T12:30:00Z
-originalUrl: "https://www.wyomingnews.com/rawlinstimes/news/house-panel-probing-1-6-riot-seeks-host-of-trump-era-records/article_d55b9321-247a-565e-8b4f-4387d8b472b2.html"
-webUrl: "https://www.wyomingnews.com/rawlinstimes/news/house-panel-probing-1-6-riot-seeks-host-of-trump-era-records/article_d55b9321-247a-565e-8b4f-4387d8b472b2.html"
+excerpt: "U.S. Capitol Police officers who were attacked and beaten during the Capitol riot are suing former President Donald Trump, his allies and members of far-right extremist groups."
+publishedDateTime: 2021-08-26T07:20:00Z
+originalUrl: "https://www.bradenton.com/news/politics-government/national-politics/article253752163.html"
+webUrl: "https://www.bradenton.com/news/politics-government/national-politics/article253752163.html"
+ampWebUrl: "https://amp.bradenton.com/news/politics-government/national-politics/article253752163.html"
+cdnAmpWebUrl: "https://amp-bradenton-com.cdn.ampproject.org/c/s/amp.bradenton.com/news/politics-government/national-politics/article253752163.html"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Wyoming News
-  domain: wyomingnews.com
+  name: Bradenton Herald
+  domain: bradenton.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/d/65/d65a12f7-c093-5311-8a2d-edcf5c9eacfd/6127737f9f856.image.jpg?crop=1567%2C1175%2C98%2C0&resize=840%2C630&order=crop%2Cresize"
-    width: 840
-    height: 630
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/7f1caafa-aea1-49ad-bc9f-e3322fb2825c/af216152-128c-45c0-b0b0-8fff6b46b17c/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
-  - title: "Apple joins lawsuit regarding Trump-era tariffs on Chinese products"
-    excerpt: "Apple, Intel and Pfizer have joined 3,700 other U.S. businesses in their suit against the U.S. regarding Trump-era tariffs on $300 billion worth of Chinese products, reports Jurist. This lawsuit was first brought by HMTX Industries in September 2020 and initially targeted List 3 tariffs."
-    publishedDateTime: 2021-08-25T13:19:00Z
-    webUrl: "https://www.mactech.com/2021/08/25/apple-joins-lawsuit-regarding-trump-era-tariffs-on-chinese-products/"
-    ampWebUrl: "https://www.mactech.com/2021/08/25/apple-joins-lawsuit-regarding-trump-era-tariffs-on-chinese-products/amp/"
-    cdnAmpWebUrl: "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2021/08/25/apple-joins-lawsuit-regarding-trump-era-tariffs-on-chinese-products/amp/"
+  - title: "Matt Gaetz says he asked for Trump's approval before proposing to Ginger Luckey, who eloped with him amid a sex trafficking probe"
+    excerpt: "Matt Gaetz said he asked for former President Donald Trump's approval before proposing to his now-wife Ginger Luckey, with whom he eloped over the weekend amid a federal sex"
+    publishedDateTime: 2021-08-23T15:16:00Z
+    webUrl: "https://www.businessinsider.com/matt-gaetz-asked-for-trumps-approval-before-proposing-to-ginger-luckey-2021-8"
+    ampWebUrl: "https://www.businessinsider.com/matt-gaetz-asked-for-trumps-approval-before-proposing-to-ginger-luckey-2021-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/matt-gaetz-asked-for-trumps-approval-before-proposing-to-ginger-luckey-2021-8?amp"
     type: article
     provider:
-      name: MacTech
-      domain: mactech.com
-    quality: 75
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
     images:
-      - url: "https://www.mactech.com/wp-content/uploads/2021/08/Lawsuit-image-1024x666.jpg"
-        width: 1024
-        height: 666
-        isCached: true
-  - title: "The House panel probing the Capitol riot seeks a host of Trump-era records"
-    excerpt: "The requested documents are just the beginning of what is expected to be lengthy partisan and rancorous investigation."
-    publishedDateTime: 2021-08-25T18:47:00Z
-    webUrl: "https://www.inquirer.com/politics/nation/capitol-riot-house-panel-trump-documents-probe-20210825.html"
-    ampWebUrl: "https://www.inquirer.com/politics/nation/capitol-riot-house-panel-trump-documents-probe-20210825.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/politics/nation/capitol-riot-house-panel-trump-documents-probe-20210825.html?outputType=amp"
-    type: article
-    provider:
-      name: Philadelphia Inquirer
-      domain: inquirer.com
-    quality: 73
-    images:
-      - url: "https://www.inquirer.com/resizer/cNGsEx7ZoN44lRl3Qus2p-nkmg4=/0x0:2398x1600/760x507/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/ROPZU2U5UJGVRGSNLKMY5UHQKY.jpg"
-        width: 760
-        height: 507
-        isCached: true
-  - title: "Lawyers allied with Trump penalized over Michigan lawsuit | Charlotte Observer"
-    excerpt: "Nine lawyers allied with former President Donald Trump face financial penalties and other sanctions in Michigan."
-    publishedDateTime: 2021-08-25T23:40:00Z
-    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article253747698.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article253747698.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article253747698.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 71
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/c4cef625-20b7-4900-8d0e-b7aea9ac60c8/04971208-0b7e-48a6-9be9-aacd9ccfcccd/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Riot probe panel seeks records of Trump-era White House"
-    excerpt: "The House panel investigating the Jan. 6 riot at the U.S. Capitol is demanding a sweeping list of records and other information from eight executive branch agencies, including"
-    publishedDateTime: 2021-08-25T21:00:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/washington/riot-probe-panel-seeks-records-of-trump-era-white-house/article_f551f965-c8d1-5251-90c4-f8cbe04b0447.html"
-    type: article
-    provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
-    quality: 55
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+      - url: "https://i.insider.com/6123ae95de5f560019e845d6?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "What was the Contingency and Crisis Response bureau? Examining the Trump-era proposal"
-    excerpt: "The State Department said the Contingency and Crisis Response Bureau proposed under former President Donald Trump never became fully operational, and that the State Department still retains all the same capabilities the bureau would have introduced."
-    publishedDateTime: 2021-08-25T21:39:00Z
-    webUrl: "https://www.politifact.com/article/2021/aug/25/what-was-contingency-and-crisis-response-bureau-ex/"
+  - title: "Why Matt Gaetz Asked For Donald Trump’s Approval Before Proposing To Girlfriend Ginger Luckey"
+    excerpt: "Matt Gaetz spoke to former President Donald Trump before he proposed to his girlfriend, who Gaetz met at Mar-a-Lago."
+    publishedDateTime: 2021-08-23T19:47:00Z
+    webUrl: "https://ibtimes.com/why-matt-gaetz-asked-donald-trumps-approval-proposing-girlfriend-ginger-luckey-3279359"
+    ampWebUrl: "https://www.ibtimes.com/why-matt-gaetz-asked-donald-trumps-approval-proposing-girlfriend-ginger-luckey-3279359?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/why-matt-gaetz-asked-donald-trumps-approval-proposing-girlfriend-ginger-luckey-3279359?amp=1"
     type: article
     provider:
-      name: Politifact
-      domain: politifact.com
-    quality: 48
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 64
     images:
-      - url: "https://static.politifact.com/CACHE/images/politifact/photos/AP_21231337150748/26a8ba0d0e8e8d41e8f78ef2ec468ad4.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/24/matt-gaetz-a-us-congressman-from-florida-addressed.jpg"
         width: 1024
-        height: 584
+        height: 534
         isCached: true
 
-secured: "+YdoMokA4FSsLtY5Uf5zb9tTMEcIrodpHVJ1kVuCPV/2VOcb4PQWbB3bv6u1R4o+B1xL4aJ6NLnvUO1nrkgAQzOiFxOJpLDUdup9W0whMklEzjsSMbTEtMW/QX8RF/Jqg2/Rk6+U5vb9qRlb+ADEy6OyHFPttZFRNVtNUBJ1djVNa9dbygCZwoKlDFKKiBeRk4sFkyuEE9BbpVk94IUjJn9yI5Li2kvlGWVFGfMwmfc88mgm73DeM/5mJOQKs3YMP1puovP8JIg/NQz6Uky3X06Y/QsKmk7ZA1pbDqd9mw1da3zK7vk0GGrb5U+SsP/+WoEVl7SN2XsAFcGs2XHuSGfUWJQjeyxXuTohmKs8Zv8=;Mf83Lr0A3Ycoxt1F1bSdJQ=="
+secured: "UWO9ea/UdiyWUU55s6VrzaYEZkbWIZ1oMVpXrz0mohxLj9rkD7mbt45zBN/vP4kZIc/nQMq3eVgRR3Eb5+vzIbfx0tKkZ7rTL6xdCoL4Rh3XGBhBrFTy7WQwVd12fjIhk+77bDKAVJFF+yx8XGm/VY4FLtxT+OosY94VJdWj3Fag1cfT5lfNBEwQxs8DdhA52+XfvvcXOIQXplweXQTxktAhx8k6sfmwwsBi54F+OYDMWugLtXWf8tTngzpLPM5zVGgLJXnXf9cOjkOCQo6OwiJTRXUjBO/AgfBwDQZu16V8s+U7f4l+hbgZB748QNmHmbDSefYIpgcqDibht9DYk+GYqAxPxCfKao18CqB/CPQ=;j7fsJT25kuAe6wl4COzw9Q=="
 ---
 

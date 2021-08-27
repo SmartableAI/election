@@ -1687,6 +1687,15 @@ related:
         width: 4352
         height: 2901
         isCached: true
+  - title: "The Meeting the Biden Presidency Desperately Needs"
+    excerpt: "Aaron David Miller writes that President Joe Biden's meeting with Israeli Prime Minister Naftali Bennett might offer the American leader an easy chance to change the channel -- however briefly -- and project the confidence and assurance of a president consulting closely with a core US ally."
+    publishedDateTime: 2021-08-27T11:41:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/08/25/the_meeting_the_biden_presidency_desperately_needs_550182.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "2Q8xSIHi95V9Ad9I5LPBCX3Nv0mVf4yDRNQoOMdsPP5rnx3x0RwGsph8P43y/58aJq1eZuTxr8sv4s7S/oxG3EQ2c0COJapfrz1tLGQ+RrXCKXA+uv+RIJzn7xQ+G6k0YaxjxtZ3WeHVzRwc8/gle5rO5FAGzymX4jTxWZCr7Q5sTEopmkLUgjv9V9q+OS5VFiRhXf0wmd4n1SFbXe9oDc+LNlktlP8s328uD6C+xE7tJJUOe8e7jUTNMxSDnfD2VPPG5mrEqlWM+XbrbeuwmJpz1zSmkY1Gawa84ByLkdxvRrsoggQ+fqTJNBNrhlPDuPr8hbEhmM+ToSHQiCY8aj0a2drD+HAluhcY5GW4A4k=;i8JAZOg63ijgpOXRLt3yDg=="
 ---

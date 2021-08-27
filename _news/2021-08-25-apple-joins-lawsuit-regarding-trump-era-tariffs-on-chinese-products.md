@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mactech.com/2021/08/25/apple-joins-lawsuit-regarding-tru
 cdnAmpWebUrl: "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2021/08/25/apple-joins-lawsuit-regarding-trump-era-tariffs-on-chinese-products/amp/"
 type: article
 quality: 75
-heat: 175
+heat: 155
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/c4cef625-20b7-4900-8d0e-b7aea9ac60c8/04971208-0b7e-48a6-9be9-aacd9ccfcccd/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "House panel probing 1/6 riot seeks host of Trump-era records"
-    excerpt: "The House committee investigating the January insurrection at the U.S. Capitol is demanding a trove of records from federal intelligence and law enforcement agencies, showing the sweep"
-    publishedDateTime: 2021-08-26T12:30:00Z
-    webUrl: "https://www.wyomingnews.com/rawlinstimes/news/house-panel-probing-1-6-riot-seeks-host-of-trump-era-records/article_d55b9321-247a-565e-8b4f-4387d8b472b2.html"
-    type: article
-    provider:
-      name: Wyoming News
-      domain: wyomingnews.com
-    quality: 55
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/d/65/d65a12f7-c093-5311-8a2d-edcf5c9eacfd/6127737f9f856.image.jpg?crop=1567%2C1175%2C98%2C0&resize=840%2C630&order=crop%2Cresize"
-        width: 840
-        height: 630
         isCached: true
   - title: "Riot probe panel seeks records of Trump-era White House"
     excerpt: "The House panel investigating the Jan. 6 riot at the U.S. Capitol is demanding a sweeping list of records and other information from eight executive branch agencies, including"

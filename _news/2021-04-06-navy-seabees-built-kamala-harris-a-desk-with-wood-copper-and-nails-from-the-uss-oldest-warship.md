@@ -95,6 +95,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Gavin Newsom's Anti-Recall Rally With Kamala Harris Canceled After Kabul Attack"
+    excerpt: "The vice president will instead return to Washington, D.C. after the conclusion of her Southeast Asia trip, a spokesperson for her office said."
+    publishedDateTime: 2021-08-26T20:56:00Z
+    webUrl: "https://www.newsweek.com/gavin-newsoms-anti-recall-rally-kamala-harris-canceled-after-kabul-attack-1623503"
+    ampWebUrl: "https://www.newsweek.com/gavin-newsoms-anti-recall-rally-kamala-harris-canceled-after-kabul-attack-1623503?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gavin-newsoms-anti-recall-rally-kamala-harris-canceled-after-kabul-attack-1623503?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1881227/kamala-harris-california-recall-event.jpg"
+        width: 2545
+        height: 1627
+        isCached: true
   - title: "Local Guatemalan official calls on Kamala Harris to visit region as smugglers prey on migrants' desperation"
     excerpt: "Regional Mayor Winter Coc Ba said people in his area have heard the ads, and it \"works a lot.\" Asked what he would tell Vice President Kamala Harris, who has been tasked with addressing the immigration crisis, he answered that he would like her to come ..."
     publishedDateTime: 2021-04-07T15:22:00Z

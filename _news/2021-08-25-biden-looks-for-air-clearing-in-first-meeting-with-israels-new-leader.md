@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/25/politics/biden-bennett-israel/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/25/politics/biden-bennett-israel/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden in turmoil as blast in Kabul raises leadership questions"
+    excerpt: "America's longest war is ending as it began, with the nation mourning the dead of a terrorist attack and an outraged President vowing to hunt down the culprits in Afghanistan.\n    \n"
+    publishedDateTime: 2021-08-27T11:22:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nWq3ubU_qM0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/27/politics/joe-biden-kabul-airport-terrorist-attack-afghanistan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/27/politics/joe-biden-kabul-airport-terrorist-attack-afghanistan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210826172926-02-biden-afghanistan-bombings-0826-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "President and first lady plan to get their Covid booster shots when eligible, Biden says"
     excerpt: "President Joe Biden and first lady Jill Biden plan to get Covid-19 vaccine booster shots once they are cleared to take them, the President said in an interview aired Thursday.\n    \n"
     publishedDateTime: 2021-08-19T13:46:27Z

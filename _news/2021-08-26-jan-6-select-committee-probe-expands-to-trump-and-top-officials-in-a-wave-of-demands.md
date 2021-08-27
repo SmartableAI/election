@@ -234,6 +234,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Opinion | Message from Trump could end pandemic"
+    excerpt: "Former President Donald Trump has mesmerized millions of folks, and many continue to believe in and follow him in spite of the fact that he hasn't been honest"
+    publishedDateTime: 2021-08-27T12:45:00Z
+    webUrl: "https://madison.com/ct/opinion/mailbag/opinion-message-from-trump-could-end-pandemic/article_3bb40a31-ead7-52cd-88a5-a0b06eac304c.html"
+    type: article
+    provider:
+      name: Madison.com
+      domain: madison.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/custom/image/4cd10a6c-e553-11e5-923a-ff3dae7bb18e.png?resize=600%2C600"
+        width: 600
+        height: 600
+        isCached: true
 
 secured: "oZhuKn+CHURub4JRLBKkV7Ftkd8vjwD2lgsqDq3mZ4xqkPPKbnNexI0Rhp0E6TUG8FBT5SPSXFSBphh3eti8e4+TA6SikeP5j0JXmVvTt4aBo/DsNEB5sMGgxISUG3dNJBU6S6Cl7cYuo9SMKNjlYGvouQ3l/0e6UufiD5vTm7L5ft9fYI8jSAMBNcoe9EoIIgKfTWu0KZhSOH5bZr/oUsLfWd+OmOTOwxQBSBw863+RXonngDDQqXr/N9PlCnBd7vvgi+l7lptISF3LHXbkuoPmVw8H6FXMJw/tobMDYp7Cm6ij7v+U763zZ7/35M2Z+yeVX9BwfWUnnVwloCNqm/BtMDI+jH0a2t7fLBOJuO4=;LDD8jCTsm9TBRXXA6KCX+A=="
 ---

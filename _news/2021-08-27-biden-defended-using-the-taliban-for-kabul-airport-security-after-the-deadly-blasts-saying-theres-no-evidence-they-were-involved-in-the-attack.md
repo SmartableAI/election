@@ -161,6 +161,17 @@ related:
       name: SanLuisObispo
       domain: sanluisobispo.com
     quality: 55
+  - title: "2 US lawmakers’ Kabul trip prompts Biden administration fury"
+    excerpt: "Two members of Congress flew unannounced into Kabul airport in the middle of the ongoing chaotic evacuation, and their visit Tuesday stunned State Department and U.S. military personnel who had to divert resources to provide security and information to the lawmakers."
+    publishedDateTime: 2021-08-27T11:41:00Z
+    webUrl: "https://www.thenewstribune.com/news/business/article253727773.html"
+    ampWebUrl: "https://amp.thenewstribune.com/news/business/article253727773.html"
+    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article253727773.html"
+    type: article
+    provider:
+      name: News Tribune
+      domain: thenewstribune.com
+    quality: 55
   - title: "Republicans point fingers at Biden moments after Kabul blasts"
     excerpt: "By Melanie Zanona, Jeremy Herb and Alex Rogers, CNN Republicans in Congress quickly escalated their criticism of President Joe Biden’s withdrawal of US troops from Afghanistan after two explosions outside Kabul’s airport on Thursday caused the first American casualties since the mass evacuation began."
     publishedDateTime: 2021-08-26T23:40:00Z

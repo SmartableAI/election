@@ -3,25 +3,25 @@ category: news
 title: "7 US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot"
 excerpt: "US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot."
 publishedDateTime: 2021-08-26T16:05:00Z
-originalUrl: "https://greensboro.com/news/national/govt-and-politics/7-us-capitol-police-officers-sue-former-president-donald-trump-his-allies-and-extremists-groups/article_efd575a6-871d-5b2b-a505-d3fed507c8ac.html"
-webUrl: "https://greensboro.com/news/national/govt-and-politics/7-us-capitol-police-officers-sue-former-president-donald-trump-his-allies-and-extremists-groups/article_efd575a6-871d-5b2b-a505-d3fed507c8ac.html"
+originalUrl: "https://apnews.com/article/donald-trump-ap-news-alert-riots-db275e882b46c926cd46ede8c340a0f7"
+webUrl: "https://apnews.com/article/donald-trump-ap-news-alert-riots-db275e882b46c926cd46ede8c340a0f7"
 type: article
-quality: 33
+quality: 83
 heat: -1
 published: false
 
 provider:
-  name: News & Record
-  domain: greensboro.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/custom/image/be6ce48e-f2f4-11e6-9c60-8f5f074fddfd.jpg"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/ShareLogo2.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -583,6 +583,20 @@ related:
         width: 499
         height: 325
         isCached: true
+  - title: "Seven U.S. Capitol police sue Trump, say he incited deadly attack"
+    excerpt: "Seven U.S. Capitol Police officers on Thursday sued former President Donald Trump, alleging that he conspired with far-right extremist groups to provoke the deadly Jan. 6 attack on"
+    publishedDateTime: 2021-08-27T11:00:00Z
+    webUrl: "https://www.unionleader.com/news/courts/seven-u-s-capitol-police-sue-trump-say-he-incited-deadly-attack/article_d286649e-33cd-5c7e-887c-6c89859a572d.html"
+    type: article
+    provider:
+      name: New Hampshire Union Leader
+      domain: unionleader.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/custom/image/595a0f6c-8b6f-11e8-996b-c70bb6ec20ab.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "7 US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot"
     excerpt: "US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot"
     publishedDateTime: 2021-08-26T23:05:00Z
@@ -602,13 +616,13 @@ related:
   - title: "Alert: 7 US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot"
     excerpt: "US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot."
     publishedDateTime: 2021-08-26T20:13:00Z
-    webUrl: "https://www.middletownpress.com/news/article/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
-    ampWebUrl: "https://www.middletownpress.com/news/amp/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
-    cdnAmpWebUrl: "https://www-middletownpress-com.cdn.ampproject.org/c/s/www.middletownpress.com/news/amp/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
+    webUrl: "https://www.ourmidland.com/news/article/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
+    ampWebUrl: "https://www.ourmidland.com/news/amp/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
+    cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/news/amp/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
     type: article
     provider:
-      name: The Middletown Press
-      domain: middletownpress.com
+      name: Our Midland MI
+      domain: ourmidland.com
     quality: 50
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
@@ -650,6 +664,6 @@ related:
       domain: sfchronicle.com
     quality: 30
 
-secured: "iigOSPUhAZaiAK5CComevEeAHdmT864hXovrF80mCYHHYQKG9gGNsXDDVRjjqGzWxrnIoN0pMKDNJqtgepS8dAycrF3vEtNOGhmC5gnsTSykGt7Kr/Uu7XVDvtUsPQ35FV4eg3COjBZ+xWR5RSIn0VL5/Hz3ADHuT1UMeVDroX4fMl7eARdErdJU8tnM4phEoJpgkOvLgnWR1yPc3xifx/EgaFdQ6f5T8UBXIesF4+nAQlIU4qlONyoKfooAstbK32e1cQYVHHL+EIn5CY/4xl0qYi58dW0yZoQkirktcmql8Jx5vzWAW/dC2ShBaJtpV6j8xSDgKIpxnH7Gpix9ENdM5Yx9/DOpRTYK7j+R1kM=;CGHVT22wUseIxa0TmYI7CA=="
+secured: "zPkWyZ9cTDizm9kfbIj+CcRBi6jIKo0p4sVphmYICCT5PTib0ebkiLmuOyvbDkvgz32uyca3mYJTLg77u1/NxCBJ1MK38iRQsYU2qKNVOKCKOb+ZBwvkWykgBH8c2PTWE5O+ZpmTIsuxX6b2V12emRV5HtVTmiWsVbFG/XfqIfSj2K4HrsC3zpoxF0I3rodxHoLXGugJrCDbPI9fr37VXJgw4DgJ97nYxZg5GFEIHcGiedWjPJzvzw7OhjAh5dQUkpuk0niSnhoDSMdB0Gy96g3S5y3BRu4rpYhpf1tDs1YgFD4oDV+pigoGauneJUOFrCGy1OC0VYll3W2Ox31KIXNmBlLqJ6Wnl02ACVPqrg0=;+yGvIkzmSgUB8m1hd0jryQ=="
 ---
 

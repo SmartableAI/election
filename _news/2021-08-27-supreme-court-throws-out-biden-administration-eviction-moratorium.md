@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "SCOTUS 2, Biden 0"
+    excerpt: "The Supreme Court slapped down the Biden administration twice this week, giving the White House scant regard in a Tuesday dispute over asylum policy and late Thursday acidly rejecting its defense of an eviction moratorium tied to the surge in Covid-19 infections.\n    \n"
+    publishedDateTime: 2021-08-27T13:28:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yiINXpGkOdc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/27/politics/supreme-court-biden-trump-eviction-moratorium-immigration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/27/politics/supreme-court-biden-trump-eviction-moratorium-immigration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210824140328-02-joe-biden-john-roberts-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "US to ship first of the 500 million Pfizer doses Biden pledged to donate globally"
     excerpt: "The Biden administration on Tuesday is shipping the first of the 500 million Covid-19 doses that President Joe Biden pledged to share with countries around the world at the Group of Seven summit earlier this year. \n    \n"
     publishedDateTime: 2021-08-17T15:43:01Z

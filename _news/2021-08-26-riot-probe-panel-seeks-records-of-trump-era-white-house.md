@@ -73,20 +73,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "House panel probing 1/6 riot seeks host of Trump-era records"
-    excerpt: "The House committee investigating the January insurrection at the U.S. Capitol is demanding a trove of records from federal intelligence and law enforcement agencies, showing the sweep"
-    publishedDateTime: 2021-08-26T12:30:00Z
-    webUrl: "https://www.wyomingnews.com/rawlinstimes/news/house-panel-probing-1-6-riot-seeks-host-of-trump-era-records/article_d55b9321-247a-565e-8b4f-4387d8b472b2.html"
-    type: article
-    provider:
-      name: Wyoming News
-      domain: wyomingnews.com
-    quality: 55
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/d/65/d65a12f7-c093-5311-8a2d-edcf5c9eacfd/6127737f9f856.image.jpg?crop=1567%2C1175%2C98%2C0&resize=840%2C630&order=crop%2Cresize"
-        width: 840
-        height: 630
-        isCached: true
   - title: "What was the Contingency and Crisis Response bureau? Examining the Trump-era proposal"
     excerpt: "The State Department said the Contingency and Crisis Response Bureau proposed under former President Donald Trump never became fully operational, and that the State Department still retains all the same capabilities the bureau would have introduced."
     publishedDateTime: 2021-08-25T21:39:00Z

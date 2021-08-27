@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-expected-to-target-biden-as-h
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-expected-to-target-biden-as-he-makes-his-first-post-vice-presidency-speech.amp"
 type: article
 quality: 200
-heat: 2300
+heat: 2320
 published: true
 
 provider:
@@ -1688,6 +1688,15 @@ related:
         width: 4352
         height: 2901
         isCached: true
+  - title: "The Meeting the Biden Presidency Desperately Needs"
+    excerpt: "Aaron David Miller writes that President Joe Biden's meeting with Israeli Prime Minister Naftali Bennett might offer the American leader an easy chance to change the channel -- however briefly -- and project the confidence and assurance of a president consulting closely with a core US ally."
+    publishedDateTime: 2021-08-27T11:41:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/08/25/the_meeting_the_biden_presidency_desperately_needs_550182.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "ts0wOprDEI3KZcKTLjfdKjGZp9qEz1q656E4wSZsVRNmuA6pO0cN094rphJTqaT4KBJ08g8pF3+9t+3QZhNv1Ao/QxEG3Q7hHFmrZeNhz4YfQhVD4UiML2S8Ckx6x03U9/d3/jUb61xwT4nlVgSXTYg4TegmEexfY1Cq1Zrm3ZqbG6nRBal9FiPrkxXwNQVA6Wfsx9qr2DmnisjVfKZ5QsjzumhUF3z3N+8Ox6C4+Ay3lUOscAbduAI037WVNbaagyug179aSdfYpPIYtK5vQxsL0aL3fqgoJtQyudJtj0Lvd5RmcwCdjlAldYwmioLiuXMN2yjuTE6vz3pMM8rS9pDOTJnsoH3g5apfqBJa+TA=;NLBlV5T2t12xxlyZiYbKYg=="
 ---

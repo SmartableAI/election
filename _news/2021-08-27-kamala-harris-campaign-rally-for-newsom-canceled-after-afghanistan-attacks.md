@@ -126,6 +126,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Kamala Harris Pledges Support to Afghan Women and Children"
+    excerpt: "During a trip to Vietnam, Vice President Kamala Harris said the first priority for rescue missions in Afghanistan are American citizens and women and children in the region."
+    publishedDateTime: 2021-08-26T14:18:00Z
+    webUrl: "https://www.nytimes.com/video/world/asia/100000007940406/kamala-harris-vice-president-afghanistan-rescue.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/08/26/world/26afghanistan-briefing-kamala-vietnam/26harris-asia01-facebookJumbo.jpg?video-overlay?video-overlay?video-overlay"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "RqRoZdMVaoyreNeUMyMzrah3i1PAdBtbD029e/yddGWW4KbkBzuSg5JuoO7NZBar/pz9vZzxsHr2p+Qdb9G8uhiOzyjupNj7gMLJmcd+pdlRrrrp2hEihgnOz2BoaSXYj/1ASZ/RPyqDeZMShMRBBUrYcfbNQrLxJyjcnrzCAqbbNR0CzeJOiODcUpmEuokEV8K6qnt558rlHEJervt1egh2j0WZeRYAdxkNKVhM9bylYNcn3SPTlELhjcaubVldns3p7H7VwbfMnZZGm2CSn+kYqzeJmzLOnr+4xUKj+B4+rNkFwIS5LYfDqgoa9pN5Db87KRskr59Wi1+YRDvvRetNcIVqrnbkDd+XOlzTZ08R/2D3nGWom2CmpCPiihF7ymLe8c4Fx22i9pY1Yaa1fg5PBFvjMFH1NobI/7KiOVntOstR5FP+QFgp53QmGBFMRRALu3sjRHBnFQFeVTu3rrY63HajAtkzEpResP+5YZJivyh9tw1WnN4xJxnwkl0IglZ12PdFERrY5Qv5Ovt/gg==;SeCtrb8thWLvaVER3O4ykQ=="
 ---

@@ -1056,6 +1056,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden presidency teetering amid calls to resign, potential investigations over US deaths in Afghanistan"
+    excerpt: "Even Democrats are criticizing President Biden for his handling of the Afghanistan withdrawal, and moderate Republicans are calling for his resignation."
+    publishedDateTime: 2021-08-27T13:29:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oLtmpChiF1A/biden-presidency-afghanistan-kabul-investigations"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-presidency-afghanistan-kabul-investigations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-presidency-afghanistan-kabul-investigations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden vague on Afghanistan endgame after pledging to 'hunt down' Kabul terrorists, stick to withdrawal"
     excerpt: "President Biden’s remarks following deadly terror attacks at Kabul’s airport suggested U.S. activities in Afghanistan could continue beyond the Aug. 31 deadline for a permanent withdrawal of U.S. troops, raising further questions about what the administration sees as the current parameters of its mission."
     publishedDateTime: 2021-08-27T02:04:11Z
@@ -1750,6 +1766,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "lbRrb+gNSl0KqtOJSaHQXLjwTPYO4Xl+RuxuAa4775A7uxRzZ8NK64gp+JTom0gAYm8LCQaLCyW4mHZm3zeTX3BFTduGQaSjUKqq0rw9UPfXQtpm7AsRkUSGSYBe33AjYLeqURjDGT/I5jXpIcaFQqJOB2TDhGhdG0gSF/CI/2Pgz8ys1jwlZznx3NAJGGXSqlg3mJYcL7vb2J7DdtQpUo+xcLXQdDjYZsfp82sOx4bcSTRQqlUwOd01Oebaup53QptpC0Tkek4TKrCGDFaiXfbHB7aQLis34+MIX062EpQGd182TLtOF+A1xEV/0YzBcEpILr+LDbH4x+s3IMVon2YmsxoDTgwpQAErjXvVmxI=;bv6zSoyaas3jSY8oluJLXw=="
+secured: "8HmAXkbeTSJuAQ0PWTrwI0kMXn4Ryqiz0El3EyA3rW+CQS9EnHnwH9h4XhW+9Vird5dU2DWYXZqrX9eFOQ5nuug7H0iodRXPN9rzs6Of0uqS927GaiHmJBOHzno7e/uhCAR7OF+TLvp9Eg8QBzz50no/LzmGuC3vZKD3IhDseR4Jlo0M6ZTbSDvgFMCgSCC7EF9iOQMHUWPM/c2RA7b7BX9io3Psvz2tGhOrlED5CGClJEXkUwzYvF20fuf65CZukGSUUboqUzVIQULJz/P2+kzkrmD1rNkF+anaerANcmhQF4mYvzr376n3emfdPx88moAfFGM9Om8vEjIWPa3YktFy0dyuHZG6owe+d8iEQrlrHV2gxzi9uUBBEMDLv/LxwDYG6wzmz9G+f4GapZXGNTdTcZNHhtTyNEHY2RWo69Nb9hTaWxgcv9h7OK6qnV7b85Q78qePJLJnTKoThRIPIyEapS3JSfb6Em3WyxBhKUlutiB2uzGJEFMQg5F49K+rD9ToeG38kDsqCA6rNEJDlw==;0UaiWlOqGYWiFs7qMwbk2Q=="
 ---
 

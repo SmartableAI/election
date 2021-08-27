@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "What the end of Joe Biden’s eviction moratorium will look like in Maine"
+    excerpt: "The end of the moratorium comes as the pandemic situation in Maine grows more grim and could test a new state law for renters."
+    publishedDateTime: 2021-08-27T13:22:00Z
+    webUrl: "https://bangordailynews.com/2021/08/27/politics/daily-brief/what-the-end-of-joe-bidens-eviction-moratorium-will-look-like-in-maine/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/LewistonAuburnHousing-090419-2.jpg"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "Trump's 'Remain in Mexico' policy reinstated; Herschel Walker running for Senate; Kanye wants to be Ye"
     excerpt: "Supreme Court orders Trump-era border policy to be reinstated; former football star makes run at Senate; Kanye seeks name change. Here are this morning's headlines."
     publishedDateTime: 2021-08-25T11:30:00Z

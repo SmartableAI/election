@@ -143,22 +143,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Afghanistan: 'The sooner we finish, the better,' says Joe Biden"
-    excerpt: "US President Joe Biden says the US is \"on pace\" to meet a 31 August deadline for evacuations, despite previous calls from allies for an extension. \"The sooner we finish the better,\" he said. Some American troops have already been withdrawn,"
-    publishedDateTime: 2021-08-25T04:46:00Z
-    webUrl: "https://www.bbc.com/news/world-asia-58321849"
-    ampWebUrl: "https://www.bbc.com/news/world-asia-58321849.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-asia-58321849.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/FFB7/production/_120236456_mediaitem120232630.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Joe Biden speaks about Afghanistan evacuation amid criticism – live"
     excerpt: "Psaki says US has helped evacuate 57,000 people in the last nine days and and is on track to meet its deadline of 31 August"
     publishedDateTime: 2021-08-24T20:24:00Z
@@ -328,6 +312,20 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Afghanistan: 'The sooner we finish, the better,' says Joe Biden"
+    excerpt: "US President Joe Biden says the US is \"on pace\" to meet a 31 August deadline for evacuations, despite previous calls from allies for an extension. \"The sooner we finish the better,\" he said. Some American troops have already been withdrawn,"
+    publishedDateTime: 2021-08-25T04:46:00Z
+    webUrl: "https://www.bbc.com/news/world-asia-58321849?at_medium=custom7&at_custom2=twitter&at_custom4=8A5B5F34-0525-11EC-8F91-67A84744363C&at_campaign=64&at_custom1=%5Bpost+type%5D"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/FFB7/production/_120236456_mediaitem120232630.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Biden says US is ‘determined to complete this mission’ as Afghanistan evacuations pass 70,000 - as it happened"
     excerpt: "US’s completion of evacuations by 31 August is contingent on the Taliban allowing access to the airport, president says"
@@ -1397,6 +1395,20 @@ related:
       name: KAKE.com
       domain: kake.com
     quality: 35
+  - title: "Afghanistan crisis: Stephen Miller's racist rhetoric caused Afghan refugee crisis, says former Mike Pence aide"
+    excerpt: "The recent crisis in the Afghanistan evacuation and troop withdrawal has led many figures on the far-right, including disgraced former President Donald Trump, to criticize US President Joe Biden and pin the blame on"
+    publishedDateTime: 2021-08-24T10:02:00Z
+    webUrl: "https://www.econotimes.com/Afghanistan-crisis-Stephen-Millers-racist-rhetoric-caused-Afghan-refugee-crisis-says-former-Mike-Pence-aide-1615687"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 35
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/20210824d2a9e901fa058009b_th_1024x0.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Reader concerned with Joe Biden, Afghanistan"
     excerpt: "At the G7 summit a month ago Joe Biden very proudly said, “America is back.” We’re back alright, so far back, I wonder if we are still a world power."
     publishedDateTime: 2021-08-24T11:53:00Z
@@ -1444,6 +1456,6 @@ related:
         height: 380
         isCached: true
 
-secured: "AV2O6e+0r2vNoxxEd2TCM5WRU6OPdQKHXteIoC6+VhZyRd6gY3yTashpQNRYFL0K0kz6SZmeLeigU9OhEyj1h6CUIkpCBKLDpxUBR0qXf4q/MrxQIDZQXRW32B5P9Yb4hF2uqGY1QPR5XhNwksregEsVFQQ3/rp7LiKJXJu12Yb88ayAydZKVM0vL+YuipYlDpnmNohQYl0pjLwnLuU0hS+1Or+lE20f1l+TviVtxhZfMwshuY2vYNJZHUtrvzevIrTYJTLxd0WYLSSu4iAaAuY19KYTYUUkjKOmfr04aO5mffQmMLufgQr51FCvl2Xc+UuT7zIHoKts3hlP1KngfVqZs51glwCfVEKkiX+Txzo=;jDkt4OLvVodOnqXBO8coZA=="
+secured: "VqeW27oPpG09SNBm4nxPa22GuAYCAxEMyj6ZKghdfT/MgWvxmOncgpU/t0+y+qRPt0VOTkDBxnaOppTH2KhNygpIKCxK8pxmLhstKZ7OUV3C75V3DtqxwWPbyrJfYtek6YyCxUOPKtz7pbjK5v7/OUAucQxds4oN1u7do/Z1p6a+3tVlO1WUWlfmNFslfWmHZ9WSATdt6EM9HbBZ5Hm4Pd3S0hN0Kt7lDOnWQKKZR2K9dad1wkGFFaNlxHnRwwB9sQYEETF0DqK2K7d9Db6e7UDs2/mB+o4GRdmLXG00KlysE3y5sbNd/sR+ByCkVxvbjkpbZ5kqYYESNlLH6sf7pqQFGjrSVKyOur5sAMNiYspTuBxfu1IBxlToukB1w3jvoePw2nftA0p/YipOLCmBkZkQM2eCAcFgo/2jV7wZPGDOzjc5wv7M0lrnaNNcS9ZzshIFoYfyikDuVq69SO7Cgl5wC2BLGX2gatOFZTNRPLf1OLzPe/xqRG5iA4t5hbqjeN2wH5CH/4yFRvIfNBJdPg==;TKzFthKCPD7f/J4KP3I7YQ=="
 ---
 

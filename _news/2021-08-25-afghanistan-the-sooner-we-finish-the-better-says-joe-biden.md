@@ -3,12 +3,10 @@ category: news
 title: "Afghanistan: 'The sooner we finish, the better,' says Joe Biden"
 excerpt: "US President Joe Biden says the US is \"on pace\" to meet a 31 August deadline for evacuations, despite previous calls from allies for an extension. \"The sooner we finish the better,\" he said. Some American troops have already been withdrawn,"
 publishedDateTime: 2021-08-25T04:46:00Z
-originalUrl: "https://www.bbc.com/news/world-asia-58321849"
-webUrl: "https://www.bbc.com/news/world-asia-58321849"
-ampWebUrl: "https://www.bbc.com/news/world-asia-58321849.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-asia-58321849.amp"
+originalUrl: "https://www.bbc.com/news/world-asia-58321849?at_medium=custom7&at_custom2=twitter&at_custom4=8A5B5F34-0525-11EC-8F91-67A84744363C&at_campaign=64&at_custom1=%5Bpost+type%5D"
+webUrl: "https://www.bbc.com/news/world-asia-58321849?at_medium=custom7&at_custom2=twitter&at_custom4=8A5B5F34-0525-11EC-8F91-67A84744363C&at_campaign=64&at_custom1=%5Bpost+type%5D"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
@@ -1397,6 +1395,20 @@ related:
       name: KAKE.com
       domain: kake.com
     quality: 35
+  - title: "Afghanistan crisis: Stephen Miller's racist rhetoric caused Afghan refugee crisis, says former Mike Pence aide"
+    excerpt: "The recent crisis in the Afghanistan evacuation and troop withdrawal has led many figures on the far-right, including disgraced former President Donald Trump, to criticize US President Joe Biden and pin the blame on"
+    publishedDateTime: 2021-08-24T10:02:00Z
+    webUrl: "https://www.econotimes.com/Afghanistan-crisis-Stephen-Millers-racist-rhetoric-caused-Afghan-refugee-crisis-says-former-Mike-Pence-aide-1615687"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 35
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/20210824d2a9e901fa058009b_th_1024x0.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Reader concerned with Joe Biden, Afghanistan"
     excerpt: "At the G7 summit a month ago Joe Biden very proudly said, “America is back.” We’re back alright, so far back, I wonder if we are still a world power."
     publishedDateTime: 2021-08-24T11:53:00Z
@@ -1444,6 +1456,6 @@ related:
         height: 380
         isCached: true
 
-secured: "iQ5ZoSNMsHB7+y20hS82g9coi7kzWBOI6+XDw584ct7AXJGfiGOW1PCeE3Wt9vL2vmrMdQaa8yurKE8A1iq3wH1Ma3nZ7c3cC3MdstTb8IZOGAITTEbwGe2AMpXVXIwpchgNclAodkrL7Cs3MyFMFv2kxgRNzfdof6c3wwJpOBRwivlXVsww9yJRrjU3eEB87Uvm7aRv7emWxoBRE4mCIQ45oYpPAF+kLHk/Y4P89IvqCXBhQgwGH+VwqZklLh+hV2S7Mth3UWIbZel0bX1pBpzyXBKGjgibnGWqcrSBRYJQ06+2bkWWr7Vpsls23pEaZgSj64som3aPmJbzZOMvzYH9tIxxVgtVmWEwhnOJT0x42NSkvmJUgi4/57YTYisPURatLhAXvy3NrbJDzL06kyBUSRCb2RKxK49CYuh+lUFb8oCtWPomGCL6bkXvMg4k+ad7GoK0xQE7ENKZqbS4MEcc4VHkbgGzwEgugl0ZQxNQa5W33gr5o5B5BHB9Vrd+HHT5f5GfB3duHsaWnn6FkA==;KktRuWcxTFYw7dhwr2TzNw=="
+secured: "wRPaa1fKqfzTWOjHWNwS1LHgak13VY1kJkh+qRcYSm9p3zm45/LTpv/98wzM+Dr8Y2aDjJCZgHF1d1Ib/YKoKZEfaePkcP7PuIvjCzovIi/JYW9YrlTR30vQSH1oDAezsOhqsgx6JN/CrT3BBdkNBmpAo6hzX5EnIKXfsAfXQYHqDl5tz7BEJaaZ14hEQLXC/BGmoaJxGhxESzxs/2PFydVpD0I4mq2oDMw9gKeIMI21wPMKIl9h9GIiy66r2AhSQEYDg8fbWcpG3nXUP7iXWq+q4V+QL175CDcsRjr2MW9EDwgQKYd1wxrMYoCH0iK6b/cOqBp79sNsl0TCVQCzny6aWI+JX3iHkG/5DBi3rsU=;NgDatjidu7iNUW53Qu+ypw=="
 ---
 

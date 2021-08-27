@@ -95,6 +95,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Gavin Newsom's Anti-Recall Rally With Kamala Harris Canceled After Kabul Attack"
+    excerpt: "The vice president will instead return to Washington, D.C. after the conclusion of her Southeast Asia trip, a spokesperson for her office said."
+    publishedDateTime: 2021-08-26T20:56:00Z
+    webUrl: "https://www.newsweek.com/gavin-newsoms-anti-recall-rally-kamala-harris-canceled-after-kabul-attack-1623503"
+    ampWebUrl: "https://www.newsweek.com/gavin-newsoms-anti-recall-rally-kamala-harris-canceled-after-kabul-attack-1623503?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gavin-newsoms-anti-recall-rally-kamala-harris-canceled-after-kabul-attack-1623503?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1881227/kamala-harris-california-recall-event.jpg"
+        width: 2545
+        height: 1627
+        isCached: true
   - title: "Navy Seabees built Kamala Harris a desk with wood, copper, and nails from the US's oldest warship"
     excerpt: "The USS Constitution is one of the country's first frigates and the oldest commissioned warship still afloat."
     publishedDateTime: 2021-04-06T15:04:00Z

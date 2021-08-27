@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-biden-afghanistan-dec
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-biden-afghanistan-decision-courageous-trump-blame.amp"
 type: article
 quality: 201
-heat: 2401
+heat: 2421
 published: true
 
 provider:
@@ -1039,6 +1039,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/af804609-c0f6-47ef-ab2b-07bc1608afea/bcac2587-6799-4ee9-8037-1b60fc12d34d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden presidency teetering amid calls to resign, potential investigations over US deaths in Afghanistan"
+    excerpt: "Even Democrats are criticizing President Biden for his handling of the Afghanistan withdrawal, and moderate Republicans are calling for his resignation."
+    publishedDateTime: 2021-08-27T13:29:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oLtmpChiF1A/biden-presidency-afghanistan-kabul-investigations"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-presidency-afghanistan-kabul-investigations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-presidency-afghanistan-kabul-investigations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden vague on Afghanistan endgame after pledging to 'hunt down' Kabul terrorists, stick to withdrawal"
     excerpt: "President Biden’s remarks following deadly terror attacks at Kabul’s airport suggested U.S. activities in Afghanistan could continue beyond the Aug. 31 deadline for a permanent withdrawal of U.S. troops, raising further questions about what the administration sees as the current parameters of its mission."

@@ -219,6 +219,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Opinion | Message from Trump could end pandemic"
+    excerpt: "Former President Donald Trump has mesmerized millions of folks, and many continue to believe in and follow him in spite of the fact that he hasn't been honest"
+    publishedDateTime: 2021-08-27T12:45:00Z
+    webUrl: "https://madison.com/ct/opinion/mailbag/opinion-message-from-trump-could-end-pandemic/article_3bb40a31-ead7-52cd-88a5-a0b06eac304c.html"
+    type: article
+    provider:
+      name: Madison.com
+      domain: madison.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/custom/image/4cd10a6c-e553-11e5-923a-ff3dae7bb18e.png?resize=600%2C600"
+        width: 600
+        height: 600
+        isCached: true
   - title: "Jan. 6 Select Committee Probe Expands To Trump And Top Officials In A Wave Of Demands"
     excerpt: "The House select committee investigating the Jan. 6 attack on the Capitol issued a wave of record requests to eight federal agencies, including any communications by Rudy Giuliani and Ivanka Trump."
     publishedDateTime: 2021-08-25T17:58:00Z

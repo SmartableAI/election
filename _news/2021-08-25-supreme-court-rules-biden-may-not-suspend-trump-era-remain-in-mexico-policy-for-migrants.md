@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.freep.com/amp/8244772002"
 cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/8244772002"
 type: article
 quality: 80
-heat: 120
+heat: 140
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.ocregister.com/wp-content/uploads/2021/08/sjm-ourt_15699.jpg-8a244-1_1040745497_73062567.jpg?w=1024&#038;h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "What the end of Joe Biden’s eviction moratorium will look like in Maine"
+    excerpt: "The end of the moratorium comes as the pandemic situation in Maine grows more grim and could test a new state law for renters."
+    publishedDateTime: 2021-08-27T13:22:00Z
+    webUrl: "https://bangordailynews.com/2021/08/27/politics/daily-brief/what-the-end-of-joe-bidens-eviction-moratorium-will-look-like-in-maine/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/LewistonAuburnHousing-090419-2.jpg"
+        width: 1024
+        height: 681
         isCached: true
   - title: "Trump's 'Remain in Mexico' policy reinstated; Herschel Walker running for Senate; Kanye wants to be Ye"
     excerpt: "Supreme Court orders Trump-era border policy to be reinstated; former football star makes run at Senate; Kanye seeks name change. Here are this morning's headlines."

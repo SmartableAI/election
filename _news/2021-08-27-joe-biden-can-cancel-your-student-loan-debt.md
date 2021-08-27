@@ -92,6 +92,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Republicans split on strategy to make Biden pay a political price for Afghanistan"
+    excerpt: "The GOP is divided over how hard -- and how quickly -- to go after President Joe Biden in the wake of Thursday's deadly attack on US troops at the Kabul airport.\n    \n"
+    publishedDateTime: 2021-08-27T09:01:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2wPDJgoA6YE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/27/politics/republicans-mccarthy-biden-afghanistan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/27/politics/republicans-mccarthy-biden-afghanistan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210826230643-biden-mccarthy-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Why Americans may ultimately not care about Biden's Afghanistan performance "
     excerpt: "Poll of the week: A new AP-NORC poll shows President Joe Biden's approval rating on foreign policy has fallen to 47%, while his approval rating stands at 51%. It's the fi​​rst time in his presidency that Biden's approval rating on foreign policy is below his disapproval rating in the AP-NORC poll.\n "
     publishedDateTime: 2021-08-21T19:02:26Z
@@ -236,6 +252,22 @@ related:
         width: 2500
         height: 1668
         isCached: true
+  - title: "Republicans were already calling for Biden's ouster after deadly Afghanistan attack"
+    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
+    publishedDateTime: 2021-08-27T13:26:00Z
+    webUrl: "https://www.nbcnews.com/politics/meet-the-press/republicans-were-already-calling-biden-s-ouster-after-deadly-afghanistan-n1277782"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1277782"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1277782"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_08/1630062869444_tdy_news_7a_engel_kabil_death_toll_210827_1920x1080-fbgu86.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Afghanistan Withdrawal Process is ‘On Track,’ Biden Says"
     excerpt: "President Biden said on Friday that he believed Afghanistan had the capacity to sustain its government despite the Taliban’s territorial gains. His remarks came after American troops departed from Bagram,"
     publishedDateTime: 2021-07-02T17:26:00Z
@@ -251,6 +283,6 @@ related:
         height: 550
         isCached: true
 
-secured: "7D59k4SjCVqi9jF0C14OYmYcm11UntlafmPnrvqV3N5DID6MP4HKhvU4lV931bKpA4pRlqPXUsEL6XE2nZI279suB1SGZbJSbfk4ujeXfvFnSUGco/4BMN3hcl71JKtPXNd0VGvcHW27BLYUF5GV4oNiqikTaddwElEsncN+LW781kJmj4B/SAIpJ32CMpvlDa4/OXw8CjogfMy1LTfN9/UAgRCP0101GPT3CoxklabriV1SAOauxSkK2tIhb2jAmnEGxhggw2RKOoD8w1O82PkGMdMgazekELZixy4aGjHOsH9eenuKCRxKukbPIkaaFQTHjKS70n8b/SbKA/xZP2yq5w5JdcZD1cDgs/jDBpI=;6fsfz7VHvjge47Gfsiv1sQ=="
+secured: "hgOm9zMGVdYE6UKAfm0g+XRba7FEi2Ik45JF5+R0EnwN59RHNzLQ0XoVBJlbCCpdl8kxE6Tz4xF/KwkMV8IcrHbprz52IVyP+QH78zHKHpv2iCpjucifER79+0X3PNmnYN4Sgog+jGQGyrYMJi6UCTXtQZHHiSpQVh8kbVYuxcDjR4a0xM+TOpZYkEQ3Fh6McAf0YZcWob1x6ibYq067yVKHAg6iMhZHtg5BeCTLkrtblVyZDyxG4EDLUK6st8Aw3vlxAg0q994NaNf1PjQPtE1gATeHlQdORYWDx4T9aYXpZYw42yjOlMqCyPsTXmb2vr64PaHrWh67XGCzTPmfvWPJbwOZtofcMJ1P+2g5HrJ5o0R6ZYXguOAK4o3l+gsi+A0kYqSOyvFZKJRpG9lGz09mqFmnaceghyzjaDqkcBCZgvsioKlVwAiuwRwgeSN66qjLV3uXMyKo1iXTjSEUxDk85Z4cEJSZW9oOxMOnD6DNY7Al9opGn6PNgA3X+WqAjRLc9HvTrrAFy/I/DZdvEA==;kix5RBlsvuzkGzakXWwaOQ=="
 ---
 

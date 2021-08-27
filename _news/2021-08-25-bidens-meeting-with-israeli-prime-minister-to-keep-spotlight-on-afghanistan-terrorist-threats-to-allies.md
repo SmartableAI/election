@@ -1055,6 +1055,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden presidency teetering amid calls to resign, potential investigations over US deaths in Afghanistan"
+    excerpt: "Even Democrats are criticizing President Biden for his handling of the Afghanistan withdrawal, and moderate Republicans are calling for his resignation."
+    publishedDateTime: 2021-08-27T13:29:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oLtmpChiF1A/biden-presidency-afghanistan-kabul-investigations"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-presidency-afghanistan-kabul-investigations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-presidency-afghanistan-kabul-investigations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden vague on Afghanistan endgame after pledging to 'hunt down' Kabul terrorists, stick to withdrawal"
     excerpt: "President Biden’s remarks following deadly terror attacks at Kabul’s airport suggested U.S. activities in Afghanistan could continue beyond the Aug. 31 deadline for a permanent withdrawal of U.S. troops, raising further questions about what the administration sees as the current parameters of its mission."
     publishedDateTime: 2021-08-27T02:04:11Z

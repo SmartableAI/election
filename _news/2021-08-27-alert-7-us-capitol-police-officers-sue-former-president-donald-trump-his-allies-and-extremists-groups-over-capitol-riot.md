@@ -3,18 +3,18 @@ category: news
 title: "Alert: 7 US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot"
 excerpt: "US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot."
 publishedDateTime: 2021-08-26T20:13:00Z
-originalUrl: "https://www.middletownpress.com/news/article/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
-webUrl: "https://www.middletownpress.com/news/article/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
-ampWebUrl: "https://www.middletownpress.com/news/amp/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
-cdnAmpWebUrl: "https://www-middletownpress-com.cdn.ampproject.org/c/s/www.middletownpress.com/news/amp/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
+originalUrl: "https://www.ourmidland.com/news/article/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
+webUrl: "https://www.ourmidland.com/news/article/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
+ampWebUrl: "https://www.ourmidland.com/news/amp/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
+cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/news/amp/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
 type: article
 quality: 50
 heat: -1
 published: false
 
 provider:
-  name: The Middletown Press
-  domain: middletownpress.com
+  name: Our Midland MI
+  domain: ourmidland.com
 
 topics:
   - Election
@@ -331,6 +331,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "7 US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot"
+    excerpt: "US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot."
+    publishedDateTime: 2021-08-26T16:05:00Z
+    webUrl: "https://apnews.com/article/donald-trump-ap-news-alert-riots-db275e882b46c926cd46ede8c340a0f7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 83
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Donald Trump's Voice Banned From Facebook, Lara Trump's Video Removed"
     excerpt: "Lara Trump’s Facebook video in which she interviews her father-in-law, former President Donald Trump, was removed after being informed that his voice is even banned from the platform. Donald Trump was banned from Facebook shortly after the Jan. 6 attacks ..."
     publishedDateTime: 2021-03-31T19:25:00Z
@@ -585,6 +599,20 @@ related:
         width: 499
         height: 325
         isCached: true
+  - title: "Seven U.S. Capitol police sue Trump, say he incited deadly attack"
+    excerpt: "Seven U.S. Capitol Police officers on Thursday sued former President Donald Trump, alleging that he conspired with far-right extremist groups to provoke the deadly Jan. 6 attack on"
+    publishedDateTime: 2021-08-27T11:00:00Z
+    webUrl: "https://www.unionleader.com/news/courts/seven-u-s-capitol-police-sue-trump-say-he-incited-deadly-attack/article_d286649e-33cd-5c7e-887c-6c89859a572d.html"
+    type: article
+    provider:
+      name: New Hampshire Union Leader
+      domain: unionleader.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/custom/image/595a0f6c-8b6f-11e8-996b-c70bb6ec20ab.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "7 US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot"
     excerpt: "US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot"
     publishedDateTime: 2021-08-26T23:05:00Z
@@ -624,20 +652,6 @@ related:
       name: The Journal Gazette
       domain: journalgazette.net
     quality: 35
-  - title: "7 US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot"
-    excerpt: "US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot."
-    publishedDateTime: 2021-08-26T16:05:00Z
-    webUrl: "https://greensboro.com/news/national/govt-and-politics/7-us-capitol-police-officers-sue-former-president-donald-trump-his-allies-and-extremists-groups/article_efd575a6-871d-5b2b-a505-d3fed507c8ac.html"
-    type: article
-    provider:
-      name: News & Record
-      domain: greensboro.com
-    quality: 33
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/custom/image/be6ce48e-f2f4-11e6-9c60-8f5f074fddfd.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Alert: 7 US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot"
     excerpt: "US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot. The Chronicle’s flagship news podcast. Listen and subscribe on your favorite app. Click the player below for the latest episode."
     publishedDateTime: 2021-08-26T16:23:00Z
@@ -650,6 +664,6 @@ related:
       domain: sfchronicle.com
     quality: 30
 
-secured: "V3At8LvUw4Ft3g77Q8MuhMKlExLdcXjKUPrvWOOzFDQg+TCV6SovKU1JvGfw0DARqqm09MNUrTPZKO2IBlwpXC8DKuwvIQMZPCwG/6wOwFKDyyeL5TVxHnUHaC30+3ZvmVbgBKy3Y+IliZ5GD6oIF/uowEGO6fiunxFxatVzpzkL5bAWyPWgLgeMY2z+d8sMmXZZYWcQb6v68SrNy5fCZstOFNHOVZvrwc4ZcKfN7Imu9yDKbTHrBhb3adyWHynurS8A1VMAJFAu93vgfmubVbhvBImWVn/CIeHBJCcLOcClWLJgWk25vc2Z0pv83AeE41mtNwenlj/3JBa5ZaDPtj0C4Xhuvx9xlsNFCguCJY4=;J/05w7Cv+J+AHb5MLnffrQ=="
+secured: "wlYL/AvZMIN/QPCr6G8kFRNhD3c/Ppkk7sQO3t15MJAbvBLWzd6qhojGfXd+OlL3UGcfn0vjZclwfztaHBEFh+JPxsvhAOq5JtLnX7vBDcqx7T1qZ2s3N+2/2YB8M3HgybCFkRHB/T0fAvslOssnNGKTmL05M9KFQEg+/a1RXESQ46n+zqKz14MxA8CbHdDyO+vuacIscifJRccEq1sOI1Ien9oQoMNywLiYQl3lA5EzoGz4OMFOu+cJPg7D7rGnHZack1lTMw96uu2rQPxu6ywdkhL9G94PqO3Z6+IHvwPnW0w17h7eg3kMpdzqTMo/Bis81N/x7zoc15O5WFFRTuzoWTwnq7M6c0BN++ZLiRA=;FmC1yfed2y2kIZXJhoYOqg=="
 ---
 

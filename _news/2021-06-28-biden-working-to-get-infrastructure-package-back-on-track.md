@@ -95,6 +95,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "First Thing: Joe Biden vows retaliation for Kabul airport attack"
+    excerpt: "A double suicide-bomb attack at Kabul airport killed 13 US troops and 72 Afghan civilians. Islamic State has claimed responsibility"
+    publishedDateTime: 2021-08-27T09:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/aug/27/first-thing-joe-biden-vows-retaliation-for-kabul-airport-attack"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/27/first-thing-joe-biden-vows-retaliation-for-kabul-airport-attack"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/27/first-thing-joe-biden-vows-retaliation-for-kabul-airport-attack"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/6806939430ec35e029bbb691da4b1a952784d2f7/0_268_8026_4816/master/8026.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f61b240e41063bc32f029330dad2f8ce"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Migrants turned away at border under Biden face shocking abuse in Mexico"
     excerpt: "Human Rights First report records 3,300 incidents of kidnap, rape, trafficking or assault linked to Trump-era Title 42 health protocol"
     publishedDateTime: 2021-06-22T16:29:00Z

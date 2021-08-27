@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/26/politics/republicans-kabul-biden/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/26/politics/republicans-kabul-biden/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden to contact families of 13 US service members killed in Kabul "
+    excerpt: "President Joe Biden plans to contact the families of the 13 US service members who were killed in Thursday's suicide attacks outside of Kabul's international airport, according to a senior White House official.\n    \n"
+    publishedDateTime: 2021-08-27T12:49:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/60HKigiPO8M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/27/politics/biden-us-service-members-kabul/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/27/politics/biden-us-service-members-kabul/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210825060832-biden-washington-afghanistan-0824-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to Kabul attackers: 'We will hunt you down and make you pay'"
     excerpt: "Terrorist explosions outside Kabul's international airport on Thursday that wounded Americans came after days of public and private warnings from President Joe Biden of a potential attack that could disrupt the massive airlift effort underway there.\n    \n"
     publishedDateTime: 2021-08-27T00:12:19Z
