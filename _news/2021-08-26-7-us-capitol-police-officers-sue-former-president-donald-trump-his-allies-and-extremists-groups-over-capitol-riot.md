@@ -3,25 +3,25 @@ category: news
 title: "7 US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot"
 excerpt: "US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot."
 publishedDateTime: 2021-08-26T16:05:00Z
-originalUrl: "https://greensboro.com/news/national/govt-and-politics/7-us-capitol-police-officers-sue-former-president-donald-trump-his-allies-and-extremists-groups/article_efd575a6-871d-5b2b-a505-d3fed507c8ac.html"
-webUrl: "https://greensboro.com/news/national/govt-and-politics/7-us-capitol-police-officers-sue-former-president-donald-trump-his-allies-and-extremists-groups/article_efd575a6-871d-5b2b-a505-d3fed507c8ac.html"
+originalUrl: "https://apnews.com/article/donald-trump-ap-news-alert-riots-db275e882b46c926cd46ede8c340a0f7"
+webUrl: "https://apnews.com/article/donald-trump-ap-news-alert-riots-db275e882b46c926cd46ede8c340a0f7"
 type: article
-quality: 33
+quality: 83
 heat: -1
 published: false
 
 provider:
-  name: News & Record
-  domain: greensboro.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/custom/image/be6ce48e-f2f4-11e6-9c60-8f5f074fddfd.jpg"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/ShareLogo2.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -372,22 +372,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Capitol Police officers sue Trump, allies over insurrection"
-    excerpt: "U.S. Capitol Police officers who were attacked and beaten during the Capitol riot filed a lawsuit Thursday against former President Donald Trump, his allies and members of far-right extremist groups,"
-    publishedDateTime: 2021-08-26T22:43:00Z
-    webUrl: "https://www.spokesman.com/stories/2021/aug/26/capitol-police-officers-sue-trump-allies-over-insu/"
-    ampWebUrl: "https://www.spokesman.com/stories/2021/aug/26/capitol-police-officers-sue-trump-allies-over-insu/?amp-content=amp"
-    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/aug/26/capitol-police-officers-sue-trump-allies-over-insu/?amp-content=amp"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 75
-    images:
-      - url: "https://thumb.spokesman.com/ZqfWlVWn5t_JsDbPjDFIeor0Mag=/480x0/media.spokesman.com/photos/2021/08/25/612685c5ceca9.hires.jpg"
-        width: 480
-        height: 327
-        isCached: true
   - title: "Capitol Police officers sue Trump over Jan. 6 attack"
     excerpt: "Seven U.S. Capitol Police officers sued former President Trump and his allies Thursday in federal court, asking the judge to hold the former president accountable for the Jan. 6 riot at the Capitol, arguing it was spurred by racism."
     publishedDateTime: 2021-08-26T23:13:00Z
@@ -582,6 +566,20 @@ related:
         width: 1070
         height: 714
         isCached: true
+  - title: "Capitol Police officers sue Trump, allies over insurrection"
+    excerpt: "U.S. Capitol Police officers who were attacked and beaten during the Capitol riot filed a lawsuit Thursday against former President Donald Trump, his allies and members of far-right extremist groups,"
+    publishedDateTime: 2021-08-27T06:50:00Z
+    webUrl: "https://www.timesleaderonline.com/news/national-news/2021/08/capitol-police-officers-sue-trump-allies-over-insurrection/"
+    type: article
+    provider:
+      name: The Times Leader
+      domain: timesleaderonline.com
+    quality: 55
+    images:
+      - url: "https://d14e0irai0gcaa.cloudfront.net/www.timesleaderonline.com/images/2016/08/19083536/fbLIKE.jpg"
+        width: 800
+        height: 640
+        isCached: true
   - title: "Capitol Police officers sue Trump"
     excerpt: "U.S. Capitol Police officers who were attacked and beaten during the Capitol riot filed a lawsuit Thursday against former President Donald Trump, his allies and members of far-right extremist groups,"
     publishedDateTime: 2021-08-27T04:09:00Z
@@ -647,6 +645,6 @@ related:
       domain: sfchronicle.com
     quality: 30
 
-secured: "zN6jGJ8eD4+nZ29KZ9SdLeLsEMAjXQcFEf9fuCVBfKsmWyA4wJOU72l2vnWeqB1UK3Eshr/ruLlOk2h7Yp6aIMkLZitR0HqPcXRPQn8xRgpXdHLcZnxQe3P+hTiApzd2JF979EdUUJNctZ14jPZiGndYQCvIby7oM/0jZ5Dw0QRTboAsUTA8OdK3xZVG6Xs3RnRcITl8JGEpb97eGMEcy1dlJtlp+7dWyYtYDQXEqIvMaiO+F1t2wMWDxEkaNdzHLC9+N8Z/4pQ17zT7IA/RXf5YQRw0JC9FSV0XuOrBtLJB6ZJh3h62cAxAaI28dXDFc1dGsHlSTZPcFgiNkAFyu7KxKqyVO0MD++KbEV9dmoU=;bQp6v/VHSSBXksN/dkPNBg=="
+secured: "yXk/X8VLF1YBWMtkuUgRW7XuGexNLg4v3EBkvuCCKJEza4o2R+z1ygT2H5w/TVywpU4WzbCkAzsA8zLxR2djAd3SFkPKVsRpNCmHRjgB21fKy6qH4a0YJULBBVsxUdzQusYPtrZw49EarahbSO1b8OKIRE9DVMQgbFfhE7RbBWUmuEOwOnaUcQCIhTT3hkD2x/+cxIqH2KD7lF6QGq3p5pz+Q28T3YuZbInqDftdbKjRRZoxhnhCJWYA/UkK4JowOCySYeQkvjjKBQMamZibK40VbWfyTmT8Lo57glnwE5YVnOEM/6KiVwaxxOOExS4YcxUaUcK4BN6MDHkFg/WFwCdWAb+qweEMp66LIGJEomE=;0qR6/6riAIvk9IT/nyabPg=="
 ---
 
