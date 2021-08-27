@@ -58,20 +58,36 @@ related:
         height: 336
         isCached: true
   - title: "Biden vows to finish Kabul evacuation, avenge US deaths"
-    excerpt: "President Joe Biden vowed Thursday to complete the evacuation of American citizens and others from Afghanistan despite the day's deadly suicide bomb attack at the Kabul airport. He promised to avenge the deaths of 13 U."
-    publishedDateTime: 2021-08-27T05:55:00Z
-    webUrl: "https://www.myjournalcourier.com/news/article/US-says-1-500-Americans-may-still-await-Kabul-16412711.php"
-    ampWebUrl: "https://www.myjournalcourier.com/news/amp/US-says-1-500-Americans-may-still-await-Kabul-16412711.php"
-    cdnAmpWebUrl: "https://www-myjournalcourier-com.cdn.ampproject.org/c/s/www.myjournalcourier.com/news/amp/US-says-1-500-Americans-may-still-await-Kabul-16412711.php"
+    excerpt: "President Joe Biden is vowing to complete the evacuation of American citizens and others from Afghanistan despite the deadly suicide bomb attack at the Kabul airport. He promised to avenge the deaths of 13 U."
+    publishedDateTime: 2021-08-27T09:35:00Z
+    webUrl: "https://www.mysanantonio.com/news/article/Biden-vows-to-finish-Kabul-evacuation-avenge-US-16415469.php"
+    ampWebUrl: "https://www.mysanantonio.com/news/amp/Biden-vows-to-finish-Kabul-evacuation-avenge-US-16415469.php"
+    cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Biden-vows-to-finish-Kabul-evacuation-avenge-US-16415469.php"
     type: article
     provider:
-      name: Journal-Courier
-      domain: myjournalcourier.com
+      name: My San Antonio
+      domain: mysanantonio.com
     quality: 75
     images:
-      - url: "https://s.hdnux.com/photos/01/21/50/02/21397664/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "President Joe Biden vows to finish Kabul evacuation, avenge U.S. deaths"
+    excerpt: "The White House hurriedly put off President Joe Biden's first in-person meeting with Israel's new prime minister Thursday and canceled a video conference with governors on incoming Afghan refugees after explosions outside the Kabul airport killed more than a dozen people,"
+    publishedDateTime: 2021-08-27T09:15:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/aug/26/biden-monitors-afghan-violence-delays-new-israel-p/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/aug/26/biden-monitors-afghan-violence-delays-new-israel-p/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/aug/26/biden-monitors-afghan-violence-delays-new-israel-p/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 75
+    images:
+      - url: "https://thumb.spokesman.com/yCDjKF50EyahXZ7d0oiEhxzLIxE=/480x0/media.spokesman.com/photos/2021/08/18/611dc5982dd25.hires.jpg"
+        width: 480
+        height: 357
         isCached: true
   - title: "Biden Urges More Employers to Enact Vaccine Mandates Following FDA’s Full Approval"
     excerpt: "Do what I did last month. Require your employees to get vaccinated or face strict requirements,” Biden said Monday."

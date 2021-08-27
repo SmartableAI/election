@@ -688,6 +688,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Video: President Joe Biden To Speak After Deadly Kabul Airport Explosions"
+    excerpt: "President Joe Biden is set to speak following the deadly explosions outside the airport in Kabul that killed 12 U.S. service members and scores of Afghans. Biden's address is scheduled for Thursday, Aug."
+    publishedDateTime: 2021-08-26T22:24:00Z
+    webUrl: "https://www.cpr.org/2021/08/26/watch-president-joe-biden-kabul-airport-explosions/"
+    type: article
+    provider:
+      name: Colorado Public Radio
+      domain: cpr.org
+    quality: 54
+    images:
+      - url: "https://i1.wp.com/wp-cpr.s3.amazonaws.com/uploads/2021/08/AP21238591288878-scaled.jpg?resize=1200,600"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Joe Biden COVID-19: POTUS given inconclusive intelligence report regarding pandemic's origins"
     excerpt: "In the midst of the criticism regarding Afghanistan, US President Joe Biden had previously ordered the intelligence community to look into the possible origins of the COVID-19 pandemic. This week, Biden received a"
     publishedDateTime: 2021-08-26T10:31:00Z

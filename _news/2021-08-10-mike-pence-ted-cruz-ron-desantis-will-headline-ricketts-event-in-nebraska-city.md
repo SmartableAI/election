@@ -85,16 +85,16 @@ related:
   - title: "Pence, Cruz, DeSantis to headline Ricketts steak fry event"
     excerpt: "Former Vice President Mike Pence, Texas Sen. Ted Cruz and Florida Gov. Ron DeSantis are coming to Nebraska for Gov. Pete Ricketts' annual steak fry next"
     publishedDateTime: 2021-08-09T15:38:00Z
-    webUrl: "https://journalnow.com/news/national/govt-and-politics/pence-cruz-desantis-to-headline-ricketts-steak-fry-event/article_879e4277-8b98-50f2-a55e-43601cd4bc09.html"
+    webUrl: "https://siouxcityjournal.com/news/national/govt-and-politics/pence-cruz-desantis-to-headline-ricketts-steak-fry-event/article_0ccd83ae-2e4b-5819-8943-dfacaf6115d4.html"
     type: article
     provider:
-      name: Winston-Salem Journal
-      domain: journalnow.com
+      name: Sioux City Journal
+      domain: siouxcityjournal.com
     quality: 55
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/custom/image/d0e8546e-79ea-11e6-b85b-bf46fb96285c.gif?resize=600%2C600"
-        width: 600
-        height: 600
+      - url: "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/custom/image/e99b3a88-c54c-11ea-8bc7-c382f0c7a0d6.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "8GjLqyZiu65SpNQ3Vwgt/U18ZsWjxFY/58jUuSWv601ViH04g9IxsPNX+HDNWRdwGZegmVLXSgh7HzhhEP6w7RX1PxJyxqcxv3+M+CtqIb/fSNZT22cdADJLv4Rz1eRjq/eai2BGmoj1ClZb2tHnVfSztz6YdubSlCLyRNlYzYJ7vMJiIQdiCIK0G8nIpu2G7NqzRjvayT3yBueM23CxO318edw2aMM3XpmDFjT/EMtNBAMqvfMpR4jQTRol2AoiWnX+xiNa2Yg2Md2Slfatlzn/BomghS9+962nrZsyW/5vslLB+11Dbt2MTZ3IgRi2NSW3ruimSIfiJ4NLdZQus/Yl4P3Ei4lPwQNatFcM3gpC5ZZTKK+oXMbH3uaX10YOsN1A/1KXmbpljdmF98fSA81XmU5WOPBYFAeP4xdsNhsrWI4Zl7FFNcdwB4BTKeMZlzgyUztA7E4kHP6urSsIVldkLZIJo7HZFAtK4HVmYdwNZt3XmMmGIJMXI/yCXuoKWvXw+a05yEcE2Tw+IW4LzA==;y26JvCxYswdmZx5tx9QwrQ=="

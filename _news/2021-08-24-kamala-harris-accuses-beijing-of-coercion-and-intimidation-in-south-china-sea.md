@@ -127,6 +127,22 @@ related:
         width: 320
         height: 214
         isCached: true
+  - title: "Kamala Harris Praises 'Heroes' Lost in Kabul, Avoids Questions in Hawaii"
+    excerpt: "Harris also canceled a planned stop in California to appear with Democratic Governor Gavin Newsom, who is facing a recall attempt, instead heading back to Washington, D.C."
+    publishedDateTime: 2021-08-27T08:56:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-praises-heroes-lost-kabul-questions-hawaii-1623562"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-praises-heroes-lost-kabul-questions-hawaii-1623562?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-praises-heroes-lost-kabul-questions-hawaii-1623562?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1881362/kamala-harris-kabul.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Kamala Harris Vietnam trip delayed after two US officials report Havana syndrome"
     excerpt: "Press secretary says assessment of safety of vice-president was carried out and she continued her journey"
     publishedDateTime: 2021-08-24T22:08:00Z

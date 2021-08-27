@@ -238,6 +238,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Joe Biden Can Cancel Your Student Loan Debt"
+    excerpt: "Legal experts, the Senate majority leader, and borrowers all agree that the president has the authority to cancel student loan debt. Why doesn’t Nancy Pelosi?"
+    publishedDateTime: 2021-08-27T09:00:00Z
+    webUrl: "https://www.thenation.com/article/politics/biden-cancel-loan-debt/"
+    ampWebUrl: "https://www.thenation.com/article/politics/biden-cancel-loan-debt/tnamp/"
+    cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/politics/biden-cancel-loan-debt/tnamp/"
+    type: article
+    provider:
+      name: The Nation
+      domain: thenation.com
+    quality: 85
+    images:
+      - url: "https://www.thenation.com/wp-content/uploads/2021/08/GettyImages-687918666-img.jpg"
+        width: 1440
+        height: 907
+        isCached: true
 
 secured: "uS9TZPzaRdd99uQNmh68J2uaLcMck7m2rX4Oshggld6p2XDJ+qpDwEfz/q1YR1aYEu26RJV+K1aG6cN5u9Rwj1iHUn+vCIF2ATcAWypmryVHgfmQwx8YMKw8ZQN+WK2Z/NxjtTQ45eZwqy4I8x71vqsnpKNHomq1Drk20uDAWXfLOwVS/JMEbVZhJ7c5oGA+lxDsmdwj6AN/SGXIuvUFTi+zdOzNUCOQviE3qzRRLlPprGlaRE1L//zsgEy2tcrZr/vRNRA9iSoAdWRjUoZjRMgEB7tK/LAlmD66rseHuOa56fvyROPEEqmkTOGlPyfk+wKDy5VHw5EzodVd2FAXo0OospaXDyTshPCFnl6XaG5FTWAXBFIFE+pLNHr3mJVE3EpAq5Y/orW3Fo3n2ZTrrCbkQbJfenysrOlZzvXsE4YZbsRdXM/ChGjzP8ok8R9JYP8Oih+Tc26659xNaFDExsU0PByyo9oQdPsQ4Zx12H6fUrRNZfd4IDdU5EjRLs3meRIaVtdugneywbxsjTE0xA==;dBh4NjDzqs+N55LBjs6VRA=="
 ---

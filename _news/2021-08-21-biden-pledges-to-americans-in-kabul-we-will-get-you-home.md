@@ -43,6 +43,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden defended using the Taliban for Kabul airport security after the deadly blasts, saying there's no evidence they were involved in the attack"
+    excerpt: "The ISIS-K has claimed responsibility for Thursday's attack at Kabul's airport. The group later criticized the Taliban for working with the US."
+    publishedDateTime: 2021-08-27T09:41:00Z
+    webUrl: "https://www.businessinsider.com/biden-defended-using-taliban-kabul-airport-security-no-link-attack-2021-8"
+    ampWebUrl: "https://www.businessinsider.com/biden-defended-using-taliban-kabul-airport-security-no-link-attack-2021-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-defended-using-taliban-kabul-airport-security-no-link-attack-2021-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 88
+    images:
+      - url: "https://i.insider.com/6128a62712b9cc0019631372?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Seattle Storm Visit President Joe Biden at White House to Celebrate 2020 WNBA Title"
     excerpt: "The Seattle Storm were honored Monday at the White House by President Joe Biden to commemorate their 2020 WNBA championship. They were the first WNBA"
     publishedDateTime: 2021-08-24T02:30:00Z

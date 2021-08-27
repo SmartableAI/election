@@ -677,6 +677,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Video: President Joe Biden To Speak After Deadly Kabul Airport Explosions"
+    excerpt: "President Joe Biden is set to speak following the deadly explosions outside the airport in Kabul that killed 12 U.S. service members and scores of Afghans. Biden's address is scheduled for Thursday, Aug."
+    publishedDateTime: 2021-08-26T22:24:00Z
+    webUrl: "https://www.cpr.org/2021/08/26/watch-president-joe-biden-kabul-airport-explosions/"
+    type: article
+    provider:
+      name: Colorado Public Radio
+      domain: cpr.org
+    quality: 54
+    images:
+      - url: "https://i1.wp.com/wp-cpr.s3.amazonaws.com/uploads/2021/08/AP21238591288878-scaled.jpg?resize=1200,600"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Ron DeSantis slams Joe Biden ‘lack of leadership’ at event highlighting COVID-19 treatment"
     excerpt: "Ron DeSantis turned his attention from COVID-19 to the White House. DeSantis aired grievances yet again about a perceived “lack of leadership” from President Joe Biden, showing that even at an event focused on the virus,"
     publishedDateTime: 2021-08-19T18:28:00Z

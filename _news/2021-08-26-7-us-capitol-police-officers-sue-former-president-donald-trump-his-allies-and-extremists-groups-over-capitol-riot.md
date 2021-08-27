@@ -3,25 +3,25 @@ category: news
 title: "7 US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot"
 excerpt: "US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot."
 publishedDateTime: 2021-08-26T16:05:00Z
-originalUrl: "https://apnews.com/article/donald-trump-ap-news-alert-riots-db275e882b46c926cd46ede8c340a0f7"
-webUrl: "https://apnews.com/article/donald-trump-ap-news-alert-riots-db275e882b46c926cd46ede8c340a0f7"
+originalUrl: "https://greensboro.com/news/national/govt-and-politics/7-us-capitol-police-officers-sue-former-president-donald-trump-his-allies-and-extremists-groups/article_efd575a6-871d-5b2b-a505-d3fed507c8ac.html"
+webUrl: "https://greensboro.com/news/national/govt-and-politics/7-us-capitol-police-officers-sue-former-president-donald-trump-his-allies-and-extremists-groups/article_efd575a6-871d-5b2b-a505-d3fed507c8ac.html"
 type: article
-quality: 83
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: News & Record
+  domain: greensboro.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://apnews.com/images/ShareLogo2.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/custom/image/be6ce48e-f2f4-11e6-9c60-8f5f074fddfd.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -329,17 +329,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Alert: 7 US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot"
-    excerpt: "US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot."
-    publishedDateTime: 2021-08-26T21:13:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
-    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 80
   - title: "Donald Trump's Voice Banned From Facebook, Lara Trump's Video Removed"
     excerpt: "Lara Trump’s Facebook video in which she interviews her father-in-law, former President Donald Trump, was removed after being informed that his voice is even banned from the platform. Donald Trump was banned from Facebook shortly after the Jan. 6 attacks ..."
     publishedDateTime: 2021-03-31T19:25:00Z
@@ -610,6 +599,22 @@ related:
         width: 320
         height: 214
         isCached: true
+  - title: "Alert: 7 US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot"
+    excerpt: "US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot."
+    publishedDateTime: 2021-08-26T20:13:00Z
+    webUrl: "https://www.middletownpress.com/news/article/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
+    ampWebUrl: "https://www.middletownpress.com/news/amp/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
+    cdnAmpWebUrl: "https://www-middletownpress-com.cdn.ampproject.org/c/s/www.middletownpress.com/news/amp/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
+    type: article
+    provider:
+      name: The Middletown Press
+      domain: middletownpress.com
+    quality: 50
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Capitol Police officers sue Donald Trump and his allies over violent insurrection"
     excerpt: "The filing provides vivid accounts of the injuries the officers sustained while trying to fend off the mob of Trump supporters."
     publishedDateTime: 2021-08-26T17:06:00Z
@@ -645,6 +650,6 @@ related:
       domain: sfchronicle.com
     quality: 30
 
-secured: "yXk/X8VLF1YBWMtkuUgRW7XuGexNLg4v3EBkvuCCKJEza4o2R+z1ygT2H5w/TVywpU4WzbCkAzsA8zLxR2djAd3SFkPKVsRpNCmHRjgB21fKy6qH4a0YJULBBVsxUdzQusYPtrZw49EarahbSO1b8OKIRE9DVMQgbFfhE7RbBWUmuEOwOnaUcQCIhTT3hkD2x/+cxIqH2KD7lF6QGq3p5pz+Q28T3YuZbInqDftdbKjRRZoxhnhCJWYA/UkK4JowOCySYeQkvjjKBQMamZibK40VbWfyTmT8Lo57glnwE5YVnOEM/6KiVwaxxOOExS4YcxUaUcK4BN6MDHkFg/WFwCdWAb+qweEMp66LIGJEomE=;0qR6/6riAIvk9IT/nyabPg=="
+secured: "iigOSPUhAZaiAK5CComevEeAHdmT864hXovrF80mCYHHYQKG9gGNsXDDVRjjqGzWxrnIoN0pMKDNJqtgepS8dAycrF3vEtNOGhmC5gnsTSykGt7Kr/Uu7XVDvtUsPQ35FV4eg3COjBZ+xWR5RSIn0VL5/Hz3ADHuT1UMeVDroX4fMl7eARdErdJU8tnM4phEoJpgkOvLgnWR1yPc3xifx/EgaFdQ6f5T8UBXIesF4+nAQlIU4qlONyoKfooAstbK32e1cQYVHHL+EIn5CY/4xl0qYi58dW0yZoQkirktcmql8Jx5vzWAW/dC2ShBaJtpV6j8xSDgKIpxnH7Gpix9ENdM5Yx9/DOpRTYK7j+R1kM=;CGHVT22wUseIxa0TmYI7CA=="
 ---
 

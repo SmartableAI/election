@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/world-nation/story/2021-08-23/kamala-harris-
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-08-23/kamala-harris-says-focus-must-stay-on-afghan-evacuation?_amp=true"
 type: article
 quality: 125
-heat: 1645
+heat: 1665
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/d9b7fa2/2147483647/strip/true/crop/4920x3290+138+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7e%2F38%2F635d86aa2db3dd896c89aaebc540%2F985f1f775bb340a6bdbd3191945db757"
         width: 320
         height: 214
+        isCached: true
+  - title: "Kamala Harris Praises 'Heroes' Lost in Kabul, Avoids Questions in Hawaii"
+    excerpt: "Harris also canceled a planned stop in California to appear with Democratic Governor Gavin Newsom, who is facing a recall attempt, instead heading back to Washington, D.C."
+    publishedDateTime: 2021-08-27T08:56:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-praises-heroes-lost-kabul-questions-hawaii-1623562"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-praises-heroes-lost-kabul-questions-hawaii-1623562?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-praises-heroes-lost-kabul-questions-hawaii-1623562?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1881362/kamala-harris-kabul.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Kamala Harris accuses Beijing of ‘coercion’ and ‘intimidation’ in South China Sea"
     excerpt: "In major speech delivered in Singapore, US vice president says America stands with its allies in the Indo Pacific in the face of threats from China"

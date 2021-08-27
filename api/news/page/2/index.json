@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-25-charles-barkley-blasts-crowd-stupidity-for-booing-donald-trump-over-vaccines.md",
+      "title": "Charles Barkley Blasts Crowd 'Stupidity' For Booing Donald Trump Over Vaccines",
+      "excerpt": "The NBA legend is headlining an event in Alabama on Saturday to encourage people to take the COVID-19 vaccine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/charles-barkley-blasts-crowd-stupidity-booing-donald-trump-vaccines-alabama-1622803",
+      "originalUrl": "https://www.newsweek.com/charles-barkley-blasts-crowd-stupidity-booing-donald-trump-vaccines-alabama-1622803",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 361,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1879344/charles-barkley-speaks-podium.jpg",
+          "width": 3763,
+          "height": 2509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/charles-barkley-blasts-crowd-stupidity-booing-donald-trump-vaccines-alabama-1622803?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/charles-barkley-blasts-crowd-stupidity-booing-donald-trump-vaccines-alabama-1622803?amp=1",
+      "publishedDateTime": "2021-08-25T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-a-top-pennsylvania-republican-reboots-audit-of-2020-vote-removes-trump-ally-as-chair.md",
       "title": "A top Pennsylvania Republican reboots 'audit' of 2020 vote, removes Trump ally as chair",
       "excerpt": "A dispute spilled into public view late last week as some Pennsylvania Republicans seek to further investigate the November election.",
@@ -1235,49 +1287,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-apple-ceo-tim-cook-to-meet-with-us-president-joe-biden-to-discuss-cybersecurity.md",
-      "title": "Apple CEO Tim Cook to Meet With U.S. President Joe Biden to Discuss Cybersecurity",
-      "excerpt": "Apple CEO Tim Cook is set to join other tech executives in a cybersecurity meeting with U.S. President Joe Biden next week, reports Bloomberg.",
-      "sourceUrl": null,
-      "webUrl": "https://www.macrumors.com/2021/08/23/tim-cook-joe-biden-cybersecurity-meeting/",
-      "originalUrl": "https://www.macrumors.com/2021/08/23/tim-cook-joe-biden-cybersecurity-meeting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.macrumors.com/t/IDpC4PrZIv4mNWa0wPO2j5dgr0U=/1600x/http://images.macrumors.com/article-new/2019/02/timcooktulane.jpg",
-          "width": 1600,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.macrumors.com/2021/08/23/tim-cook-joe-biden-cybersecurity-meeting/amp/",
-      "cdnAmpWebUrl": "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/08/23/tim-cook-joe-biden-cybersecurity-meeting/amp/",
-      "publishedDateTime": "2021-08-23T16:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MacRumors",
-        "domain": "macrumors.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

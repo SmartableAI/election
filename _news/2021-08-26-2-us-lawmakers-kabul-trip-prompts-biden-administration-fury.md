@@ -37,6 +37,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden defended using the Taliban for Kabul airport security after the deadly blasts, saying there's no evidence they were involved in the attack"
+    excerpt: "The ISIS-K has claimed responsibility for Thursday's attack at Kabul's airport. The group later criticized the Taliban for working with the US."
+    publishedDateTime: 2021-08-27T09:41:00Z
+    webUrl: "https://www.businessinsider.com/biden-defended-using-taliban-kabul-airport-security-no-link-attack-2021-8"
+    ampWebUrl: "https://www.businessinsider.com/biden-defended-using-taliban-kabul-airport-security-no-link-attack-2021-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-defended-using-taliban-kabul-airport-security-no-link-attack-2021-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 88
+    images:
+      - url: "https://i.insider.com/6128a62712b9cc0019631372?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden pledges to Americans in Kabul: 'We will get you home'"
     excerpt: "President Joe Biden is pledging to Americans still trapped in Afghanistan: “We will get you home.” Biden also said Friday the United States is committed to evacuating all Afghans who assisted the war effort — a potentially vast expansion of the administration's commitments on the airlift so far,"
     publishedDateTime: 2021-08-20T23:57:00Z

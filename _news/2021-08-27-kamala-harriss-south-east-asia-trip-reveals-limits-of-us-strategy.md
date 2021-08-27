@@ -111,6 +111,22 @@ related:
         width: 320
         height: 214
         isCached: true
+  - title: "Kamala Harris Praises 'Heroes' Lost in Kabul, Avoids Questions in Hawaii"
+    excerpt: "Harris also canceled a planned stop in California to appear with Democratic Governor Gavin Newsom, who is facing a recall attempt, instead heading back to Washington, D.C."
+    publishedDateTime: 2021-08-27T08:56:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-praises-heroes-lost-kabul-questions-hawaii-1623562"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-praises-heroes-lost-kabul-questions-hawaii-1623562?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-praises-heroes-lost-kabul-questions-hawaii-1623562?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1881362/kamala-harris-kabul.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Kamala Harris accuses Beijing of ‘coercion’ and ‘intimidation’ in South China Sea"
     excerpt: "In major speech delivered in Singapore, US vice president says America stands with its allies in the Indo Pacific in the face of threats from China"
     publishedDateTime: 2021-08-24T03:40:00Z
@@ -1159,6 +1175,6 @@ related:
         height: 422
         isCached: true
 
-secured: "XbjmFf8R2932Z7gTiGoxE1Oz/LmcpmHfJWYJ0Y5CinefSN9P/e2safjGwJBgniGflrblCSuMe/sKqEQrHfCk4tpIFg9QhuAfWiWCKs4yortt8zvCVjj5yic3N3WuHWD2auWxWxVx6EoDF6YasML8rJIgyWLR7H0mcVs+VKE8Hq6/0A+cwv0R3HlT/hvP0loP7K+vKYYn/r+bjW1mrNmY1Qqpub9sgEMxPvAULNJ6bpBuSk6oqtVFP90d8uL6fPK1sT11DmQH5GvQIwfDd11YpVg+RCu0Pw0U5LLHqAkB68bvGz6Tqrck2T5VlP8uWU21eYjxH8bT2ncfh77advkiCM+3OUptgcOjW1cbHTraryk=;q8soR4ne6+laD56TuCjwQg=="
+secured: "nNVj9ZHfa5x4C2SMaJ9gSaWsodyrIacSsc3hKd0xSB0h6pSxDRKc9D3ew5J6GelXlS0R5VjwGaXIBEoxH+KGcKg/s0Qw+k2tOckb3du/DaJdtCX3QH/jScscnBmuUZ8EjXn5izzEkWsS0yF6M2UNpyqkJFVaAniOIDY5widrCIhPJMcVsNMXQo84TnMmKvnhAnWCUMy66bKrSvq/JXOBGOHghev5mb+B82WnwXqZfdS1AHsBXZ6ReOeaXHIZxTSHd3dxpCpvSFQvHZ/QJtsIoe8rU9tgp/rGhC3Nd9TQBIlXTzrKqE2kuvFPeWQb9k6p5HG3kUwnrWPDvsVkOr1+dyUwEp+vjYarBsr8lYyPF2Ukl7DRUrbbBqB2yLUQ2nAQEupxhUjNZZ0TmOpTZz/21V3I/SKT52ynSZm89Uu1++QGjfhkazLIN8qTtPikR5btaiC5c6nzdU6B7oFFp2JAcDnvQfBNi+zrl3+u4Gy3gYeJLPgFGCgTk4dQ5RMJ0rzyaD4DzOuw68Z9WPKJgVfV6A==;Q77u6kI7UEfQD8DsW8uTuQ=="
 ---
 

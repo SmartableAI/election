@@ -2,27 +2,29 @@
 category: news
 title: "Alert: 7 US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot"
 excerpt: "US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot."
-publishedDateTime: 2021-08-26T21:13:00Z
-originalUrl: "https://www.houstonchronicle.com/news/article/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
-webUrl: "https://www.houstonchronicle.com/news/article/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
-ampWebUrl: "https://www.houstonchronicle.com/news/amp/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
-cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
+publishedDateTime: 2021-08-26T20:13:00Z
+originalUrl: "https://www.middletownpress.com/news/article/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
+webUrl: "https://www.middletownpress.com/news/article/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
+ampWebUrl: "https://www.middletownpress.com/news/amp/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
+cdnAmpWebUrl: "https://www-middletownpress-com.cdn.ampproject.org/c/s/www.middletownpress.com/news/amp/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
 type: article
-quality: 80
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Middletown Press
+  domain: middletownpress.com
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
 
 related:
   - title: "Two Capitol Police officers sue Trump over Jan. 6 riots"
@@ -329,20 +331,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "7 US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot"
-    excerpt: "US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot."
-    publishedDateTime: 2021-08-26T16:05:00Z
-    webUrl: "https://apnews.com/article/donald-trump-ap-news-alert-riots-db275e882b46c926cd46ede8c340a0f7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 83
-    images:
-      - url: "https://apnews.com/images/ShareLogo2.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Donald Trump's Voice Banned From Facebook, Lara Trump's Video Removed"
     excerpt: "Lara Trump’s Facebook video in which she interviews her father-in-law, former President Donald Trump, was removed after being informed that his voice is even banned from the platform. Donald Trump was banned from Facebook shortly after the Jan. 6 attacks ..."
     publishedDateTime: 2021-03-31T19:25:00Z
@@ -636,6 +624,20 @@ related:
       name: The Journal Gazette
       domain: journalgazette.net
     quality: 35
+  - title: "7 US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot"
+    excerpt: "US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot."
+    publishedDateTime: 2021-08-26T16:05:00Z
+    webUrl: "https://greensboro.com/news/national/govt-and-politics/7-us-capitol-police-officers-sue-former-president-donald-trump-his-allies-and-extremists-groups/article_efd575a6-871d-5b2b-a505-d3fed507c8ac.html"
+    type: article
+    provider:
+      name: News & Record
+      domain: greensboro.com
+    quality: 33
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/custom/image/be6ce48e-f2f4-11e6-9c60-8f5f074fddfd.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Alert: 7 US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot"
     excerpt: "US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot. The Chronicle’s flagship news podcast. Listen and subscribe on your favorite app. Click the player below for the latest episode."
     publishedDateTime: 2021-08-26T16:23:00Z
@@ -648,6 +650,6 @@ related:
       domain: sfchronicle.com
     quality: 30
 
-secured: "ZRLwMagQoYNd6G+4h9xjWyiseBywHsPvCWFeesBoLDHH3xNi6AyBU+y80zWPqeOASZoW9Ka7oStDJp6vTaBaSfDABf7NyqINPGvWAf3ZBVfLvbhOyGD+HWk6kmysqKyO8N/ques3baO1nZZWAUtjsXJxJ9+n7v8lh8l9LaYo6ahswCGGaAJ7SAB/QTa03SZnRg8PgIsagAuKDU5htrmmcdvxAjhKRhywdkdUKM3cNfCda/wpHhzYXamflXy0lFxf/IElCU3o5tz3euYm4NbeSK+DRDx7QC1mequLM1m26Uskx4IVwenahdGhsC/P065W+xiXUx+lu47+WtprBl1t8OOjFAmdiAnAcGaRIh8xjlM=;Rwre0Crv5AX4bbaLhJnU2A=="
+secured: "V3At8LvUw4Ft3g77Q8MuhMKlExLdcXjKUPrvWOOzFDQg+TCV6SovKU1JvGfw0DARqqm09MNUrTPZKO2IBlwpXC8DKuwvIQMZPCwG/6wOwFKDyyeL5TVxHnUHaC30+3ZvmVbgBKy3Y+IliZ5GD6oIF/uowEGO6fiunxFxatVzpzkL5bAWyPWgLgeMY2z+d8sMmXZZYWcQb6v68SrNy5fCZstOFNHOVZvrwc4ZcKfN7Imu9yDKbTHrBhb3adyWHynurS8A1VMAJFAu93vgfmubVbhvBImWVn/CIeHBJCcLOcClWLJgWk25vc2Z0pv83AeE41mtNwenlj/3JBa5ZaDPtj0C4Xhuvx9xlsNFCguCJY4=;J/05w7Cv+J+AHb5MLnffrQ=="
 ---
 

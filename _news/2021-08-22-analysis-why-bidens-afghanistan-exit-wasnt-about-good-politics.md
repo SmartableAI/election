@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/22/politics/biden-afghanistan-politi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/22/politics/biden-afghanistan-politics-and-polling/index.html"
 type: article
 quality: 175
-heat: 435
+heat: 455
 published: true
 
 provider:
@@ -236,6 +236,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/07/02/us/02new-washington-briefing-afghanistan/02new-washington-briefing-afghanistan-facebookJumbo.jpg?video-overlay?video-overlay?video-overlay"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Joe Biden Can Cancel Your Student Loan Debt"
+    excerpt: "Legal experts, the Senate majority leader, and borrowers all agree that the president has the authority to cancel student loan debt. Why doesn’t Nancy Pelosi?"
+    publishedDateTime: 2021-08-27T09:00:00Z
+    webUrl: "https://www.thenation.com/article/politics/biden-cancel-loan-debt/"
+    ampWebUrl: "https://www.thenation.com/article/politics/biden-cancel-loan-debt/tnamp/"
+    cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/politics/biden-cancel-loan-debt/tnamp/"
+    type: article
+    provider:
+      name: The Nation
+      domain: thenation.com
+    quality: 85
+    images:
+      - url: "https://www.thenation.com/wp-content/uploads/2021/08/GettyImages-687918666-img.jpg"
+        width: 1440
+        height: 907
         isCached: true
 
 secured: "fvmYeJ+N187us78SxrHL61eBQwmk2EjoqGVBfm4sscvsvrKKQkNCbJvlBUjVWPWafdCErwaOJ+AbZeHk9Mr/fpVfFxwYwqh8K+mvSBTtyebcqgifX2+KBa0Xs9WIV7LPgiCuau5P3nKnu0Vqi4FDBDd5XXWhdC4CUKtujjLfjVZfKrtK/QcsPwSUmwAtfplJqlvUvO/PHOXbWbXvu5mnZKsHKNDU9f8gTzx4FNbxhXGnZvDVfykbz0/5AT4n+UGkfy64wJX0EPFUKfag2SnfBVjrSAAltoIx2b5uCsVow+qh3WJTYTBtGn8MCkyulgjfgOl/4khzTL7b+ydHg9a33dKit2gvZeDs3+BQ6T0Vrv4=;iGCVl991AnHeZL0t6leBTg=="
