@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden meets with new Israeli prime minister: 'We've become close friends'"
+    excerpt: "When Israel's prime minister visited the White House on Thursday, for the first time in 12 years it was someone other than Benjamin Netanyahu.\n    \n"
+    publishedDateTime: 2021-08-27T18:16:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x8GBJ02tG0Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/27/politics/biden-bennett-israel/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/27/politics/biden-bennett-israel/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210827123449-biden-israel-pm-bennett-0827-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says health officials exploring whether to move up booster interval"
     excerpt: "President Joe Biden said Friday that his administration was looking into whether to shorten the window of the planned Covid-19 booster shot program, something he discussed with Israel Prime Minister Naftali Bennett during a visit at the White House.\n    \n"
     publishedDateTime: 2021-08-27T17:37:30Z

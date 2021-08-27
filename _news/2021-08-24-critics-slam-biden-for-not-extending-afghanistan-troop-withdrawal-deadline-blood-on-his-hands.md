@@ -239,6 +239,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "House Dem calls Biden's handling of Afghanistan 'f---g disaster'"
+    excerpt: "The Biden administration's withdrawal from Afghanistan has been a \"f---g disaster\" of \"epic proportions,\" according to Rep. Seth Moulton, D-Mass."
+    publishedDateTime: 2021-08-27T18:31:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zqYfjChOh_s/biden-afghanistan-disaster-moulton"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-afghanistan-disaster-moulton.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-afghanistan-disaster-moulton.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6dedd71f-29f6-4605-ba12-f8b8d23a0700/6f60134d-dc1d-4244-a2c6-88edd4e48fcc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "How Biden could have avoided catastrophe in Afghanistan, report"
     excerpt: "The United States saw the deadliest day for American troops in 10 years Thursday, after at least 13 service members were killed and 18 others injured in a suicide bomb attack outside the Abbey Gate at Kabul airport."
     publishedDateTime: 2021-08-27T01:07:48Z
@@ -526,6 +542,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Former Obama officials hammering Biden on Afghanistan highlighted in scorching RNC ad"
+    excerpt: "The new RNC ad compiles clips of officials from former President Obama’s administration weighing in on the Afghanistan crisis caused by Biden’s hasty troop withdrawal."
+    publishedDateTime: 2021-08-27T18:41:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HlrKqEe74BI/obama-officials-biden-afghanistan-rnc-ad"
+    ampWebUrl: "https://www.foxnews.com/politics/obama-officials-biden-afghanistan-rnc-ad.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-officials-biden-afghanistan-rnc-ad.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bdb14c7a-19d3-4db4-8a52-8728f6fa08f6/a01dd2d1-9c8f-4c8e-98ef-06de4440b8d3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Alabama vet who nearly died in Afghanistan calls Biden withdrawal strategy 'disgusting'"
     excerpt: "Alabama Army combat veteran Colin Wayne Erwin, who nearly died in Afghanistan, criticized President Joe Biden’s chaotic withdrawal from Afghanistan as \"disgusting\" to watch and a \"disheartening\" end to the 20 years of sacrifices made by members of the military and others."

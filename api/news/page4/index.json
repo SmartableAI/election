@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-22-with-fight-over-mask-mandates-gov-abbott-passes-purity-test-in-trumps-gop.md",
+      "title": "With fight over mask mandates, Gov. Abbott passes purity test in Trump's GOP",
+      "excerpt": "When Texas had its first big surge of COVID hospitalizations, Gov. Greg Abbott responded by shutting down bars and mandating masks. As the second surge hit, Abbott put in place an automatic trigger to restrict the operating capacities of businesses and halt non-emergency surgeries to free up hospital beds in areas with high hospitalizations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/politics/texas/article/Even-as-COVID-resurges-there-is-no-room-for-Gov-16401385.php",
+      "originalUrl": "https://www.houstonchronicle.com/politics/texas/article/Even-as-COVID-resurges-there-is-no-room-for-Gov-16401385.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 322,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/21/42/70/21376521/3/ratio3x2_400.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.houstonchronicle.com/politics/texas/amp/Even-as-COVID-resurges-there-is-no-room-for-Gov-16401385.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Even-as-COVID-resurges-there-is-no-room-for-Gov-16401385.php",
+      "publishedDateTime": "2021-08-22T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-22-tv-tonight-ruby-wax-revisits-her-time-with-donald-trump.md",
       "title": "TV tonight: Ruby Wax revisits her time with Donald Trump",
       "excerpt": "A nasty encounter with Donald Trump and much more in this entertaining new series. Plus: The Handmaid’s Tale ends. Here’s what to watch this evening",
@@ -1232,49 +1284,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-joe-biden-furious-with-barack-obama-over-pandemic-birthday-bash.md",
-      "title": "Joe Biden Furious With Barack Obama Over Pandemic Birthday Bash?",
-      "excerpt": "Are President Joe Biden and former President Barack Obama locked in a bitter feud over Obama's 60th birthday bash? One tabloid insists the prideful",
-      "sourceUrl": null,
-      "webUrl": "https://www.gossipcop.com/joe-biden-furious-with-barack-obama-over-pandemic-birthday-bash/2570136/",
-      "originalUrl": "https://www.gossipcop.com/joe-biden-furious-with-barack-obama-over-pandemic-birthday-bash/2570136/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://upload.gossipcop.com/gc/uploads/2021/08/Untitled-design-71.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gossipcop.com/joe-biden-furious-with-barack-obama-over-pandemic-birthday-bash/2570136/?amp",
-      "cdnAmpWebUrl": "https://www-gossipcop-com.cdn.ampproject.org/c/s/www.gossipcop.com/joe-biden-furious-with-barack-obama-over-pandemic-birthday-bash/2570136/?amp",
-      "publishedDateTime": "2021-08-18T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gossip Cop",
-        "domain": "gossipcop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

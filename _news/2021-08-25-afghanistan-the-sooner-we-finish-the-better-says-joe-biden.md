@@ -2,21 +2,19 @@
 category: news
 title: "Afghanistan: 'The sooner we finish, the better,' says Joe Biden"
 excerpt: "US President Joe Biden says the US is \"on pace\" to meet a 31 August deadline for evacuations, despite previous calls from allies for an extension. \"The sooner we finish the better,\" he said. Some American troops have already been withdrawn,"
-publishedDateTime: 2021-08-25T04:46:00Z
-originalUrl: "https://www.bbc.com/news/world-asia-58321849?at_medium=custom7&at_custom2=twitter&at_custom4=8A5B5F34-0525-11EC-8F91-67A84744363C&at_campaign=64&at_custom1=%5Bpost+type%5D"
-webUrl: "https://www.bbc.com/news/world-asia-58321849?at_medium=custom7&at_custom2=twitter&at_custom4=8A5B5F34-0525-11EC-8F91-67A84744363C&at_campaign=64&at_custom1=%5Bpost+type%5D"
+publishedDateTime: 2021-08-25T03:02:00Z
+originalUrl: "https://www.bbc.co.uk/news/world-asia-58321849?at_medium=RSS&amp%3Bat_campaign=KARANGA"
+webUrl: "https://www.bbc.co.uk/news/world-asia-58321849?at_medium=RSS&amp%3Bat_campaign=KARANGA"
+ampWebUrl: "https://www.bbc.co.uk/news/world-asia-58321849.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-asia-58321849.amp"
 type: article
-quality: 105
+quality: 75
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - Election
@@ -1472,6 +1470,6 @@ related:
         height: 380
         isCached: true
 
-secured: "j67iFi53023Pk4B8nXuyJC38HsCBXIwJf4Ehn6gTlm9xcApYnyISmIvQE8fGFt1k7CyZQ40m4gSdRGeINu5pYgYxNI5GE00/iVgbeG8WjVcrkHzeIp6/cdpyEYUMXS26+hqrzSqH9Vn1frTPz/K1e7xfVwx1L34EMCGnQdPgoxJgX/DNXTOCgX0mNfaKna0lpnbFOEEi8w/FR/Wois5t/qQI5gvX6xRMN8ZFqow7Ce98qtYHsmbnEGngAnfZ0t0odFiI/Txbor8rzTNJrOCgPaCFal4uJb5cvIPMg5vRj7/7pGjnHd+OGscycZZU5BfbqGMstHFGTiP8lPjNpvjckNW+YdFbBrwhHVPb+njN7jM=;vZwzegbHUd1nTSSleSNaHA=="
+secured: "yiQBQ3m8QRJVuFljuJ2HWjRbOw5Ekz0PALcwvyN3dLAdPtsZeJieg6sJrQDMmq2bqe3VZtln9be3j+KoFoX3waRTCSyKaqrfrZ2cdEbTjOIQxg5DOd/j8LVoWtwEQ6o5QoABY+vLz5+W/wm9ttfDC8EFvBapkgEk8vAw+1XlGkamFcLUF7QGUYnwCORTz+ddzQq2uh5bYNEJgiWttGfihfOKxE7hoOcYpqKwfJPgBc6gGH214/Mw6SGewdqKQCBwMCeFz+qy+0zOY/DAJi9qpTOaslXKNsr9eV5WwaZfRMZs9Y1rGcTrfpqrDCWqoDsqjnmYuQIS2ogn4ExqlrFg9B3obQB3v0S2vSigRD5hp4U=;aVueCz1RAp+Nf2FmL7WUTg=="
 ---
 

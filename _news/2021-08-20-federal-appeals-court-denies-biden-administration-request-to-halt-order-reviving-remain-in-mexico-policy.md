@@ -239,6 +239,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Their work secured the election. It also paved the way for pro-Trump conspiracies."
+    excerpt: "Watching coverage of pro-Trump rioters storm the Capitol building Jan. 6, Matt Bernhard had to wonder: How much were he and his colleagues to blame?“W"
+    publishedDateTime: 2021-08-27T19:42:00Z
+    webUrl: "https://www.nbcnews.com/tech/security/trump-conspiracies-strain-election-cybersecurity-experts-rcna1803"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna1803"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1803"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 144
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-08/210817-cyber-expert-death-threats-kh-77823a.jpg"
+        width: 2500
+        height: 1400
+        isCached: true
 
 secured: "a90iLCtR9d36y4JRYEQSKkinB13X1Qu6MqPdNSxWyWRWVZt63TpsQ2N3Eq14AwOmBYdcKAqlMVMYzpjK3uBcuCGQTOjJxx+JTrU0DovDkXSx9l7GfuIjcJOsYA0LWSxrb/G3N6SVXMdKN8goGUYqx1Iw2coFZ440UoPqY86XoZIGNzSdy02dkq8fEDLfDwDHyE1bShquo4hOoaqObatVbBqohrETwNVjRCEbvBN2ZbULBRm8NP+CnNVtWLLUdlzXWb4Ho3vrAGEQa07tl9ewSxPY/NH+/hgSTSYOBTOQMXyS1wIrJbdXPtZClyAm3khOT7MiZyaraHzxh9Lajs47nStp83NmH9h1A+o1YOSdlI0=;jNGlIQcNDoc20FqCa8+AbQ=="
 ---

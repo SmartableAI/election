@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/24/politics/biden-supreme-court/inde
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/24/politics/biden-supreme-court/index.html"
 type: article
 quality: 187
-heat: 447
+heat: 467
 published: true
 
 provider:
@@ -238,6 +238,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210812173750-us-capitol-rioters-file-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Their work secured the election. It also paved the way for pro-Trump conspiracies."
+    excerpt: "Watching coverage of pro-Trump rioters storm the Capitol building Jan. 6, Matt Bernhard had to wonder: How much were he and his colleagues to blame?“W"
+    publishedDateTime: 2021-08-27T19:42:00Z
+    webUrl: "https://www.nbcnews.com/tech/security/trump-conspiracies-strain-election-cybersecurity-experts-rcna1803"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna1803"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1803"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 144
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-08/210817-cyber-expert-death-threats-kh-77823a.jpg"
+        width: 2500
+        height: 1400
         isCached: true
 
 secured: "RWv/wBWdDXFF2+xOgDl4vhE2ofIFWAqqULLu7P2WnWvaxlhmpyKZiYRPJBEsXv2w67+H+6cncs/EY5wrPTorYzYoHCXsttH+6fp27KTZwB50DIma43ysY9l/q5PRMTt1eN7LsTBFxvOh6gi0Sd8NXC5uTtqOVf71unAFbWftXwRVaRQi2rKPcJ5712+YLJFowiTuejMDp736MkmQIDcK74Z1BMsSs3NNj+WazEDpYqfFlRP3huPwp3aA84NkJMfPL6SS76MTEjCcCiN6ESKx7oR6cpCKvKEXU9VJceKEhBBxs4rToLrQ2VM3Vi87q+b3yMkPpnCqoXjj1S53H5QaRBtqOmq2VgiPnPZzT/MY9BA=;8Of/6gb80HAf+34HIhbgkQ=="

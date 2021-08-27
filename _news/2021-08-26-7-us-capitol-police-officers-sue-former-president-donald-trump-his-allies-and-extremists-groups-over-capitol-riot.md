@@ -3,25 +3,25 @@ category: news
 title: "7 US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot"
 excerpt: "US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot."
 publishedDateTime: 2021-08-26T16:05:00Z
-originalUrl: "https://azdailysun.com/news/national/govt-and-politics/7-us-capitol-police-officers-sue-former-president-donald-trump-his-allies-and-extremists-groups/article_f06393c4-6bb9-5e04-9345-7972120963da.html"
-webUrl: "https://azdailysun.com/news/national/govt-and-politics/7-us-capitol-police-officers-sue-former-president-donald-trump-his-allies-and-extremists-groups/article_f06393c4-6bb9-5e04-9345-7972120963da.html"
+originalUrl: "https://apnews.com/article/donald-trump-ap-news-alert-riots-db275e882b46c926cd46ede8c340a0f7"
+webUrl: "https://apnews.com/article/donald-trump-ap-news-alert-riots-db275e882b46c926cd46ede8c340a0f7"
 type: article
-quality: 33
+quality: 83
 heat: -1
 published: false
 
 provider:
-  name: Arizona Daily Sun
-  domain: azdailysun.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/azdailysun.com/content/tncms/custom/image/265abe26-0cb1-11ea-b986-9b408788062f.jpg"
+  - url: "https://apnews.com/images/ShareLogo2.png"
     width: 700
-    height: 400
+    height: 450
     isCached: true
 
 related:
@@ -678,6 +678,6 @@ related:
       domain: sfchronicle.com
     quality: 30
 
-secured: "AgG+lnXTs+FgnL7YaKzM8kIzXiQ1rT6K8d08F0zdXA0SGHoA++E8g1HKXupR1A+heqRCyDsz3I8CAb1jdFgfAnF2QAPHLycrNo+f1AKFt++gFusk1YMRwXi2dMYLN7EC5eD4gUIXOXcWfkcQgsQsh23CHyeYNXzRMEW3dopuL6XahOSlyPNc2JSHBeR1XNndwPFTWlzE09wPWHnsX71NlUszvHZcwXF8q8zX4rgnUNX8la+NqAHf8gsekvInBzEBDVInedI5h/EAm16GXcicAtTpmAdf9mJ6VgtD6MpON8jFBinM7FCGZygkU5lUHZ2C/KFksQrNobTJYXNmbQthCQOWaFbtD3SE4DwJMJJx+bU=;YTQpa/HxuqSLTMrlnU26wg=="
+secured: "/lI7auiOoBR8KpyinFne0tvsEaZo5/f4HTwtbmXQU7YSxpSX6r4j3PNxWwqUg/tdFa19sZim8JcPU2baq5NRy42ALFTJtBpbj9wZB74Yj3wzOfRSKnHo9GfjFbnRCcl7GGTq+Bh6+u2a7hldzEKzdEPu2kzrhIKqyMnA1n2uuAjNjnRl+69MKH3ttt3I2jyHpcn6eXcKwdNxJmwvWhMgooC7bN/HrIewcSDZQ6CUi8I5AuRUb+22q6iUo7sn7RESv99FKjLq4ZnOYgtSwiaV8xDM9eonWqhbA1RYCjEsCaskWd9vSskC2LB44YtxTWR60B2nwCfP9uQjT/lYHNWAsXKBKtgDCg1/S+7PeZatR+M=;oV636kcolVwYC3Lt3brgnw=="
 ---
 
