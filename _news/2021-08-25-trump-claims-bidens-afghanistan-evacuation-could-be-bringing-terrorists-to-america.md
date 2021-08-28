@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-claims-biden-bringing-afghan-t
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-biden-bringing-afghan-terrorists-to-the-us-2021-8?amp"
 type: article
 quality: 133
-heat: 2233
+heat: 2253
 published: true
 
 provider:
@@ -206,6 +206,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1881452/joe-biden-pictured-during-white-house-address.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Afghanistan: Former advisor to Mike Pence warned in 2020 that Trump was setting up another 'Benghazi'"
+    excerpt: "The advisor wrote Trump left \"an unsustainable presence in Afghanistan, a crisis for the Afghan people, and a mess for the Biden-Harris administration.\""
+    publishedDateTime: 2021-08-28T00:01:00Z
+    webUrl: "https://www.businessinsider.com/kabul-ex-pence-adviser-warned-trump-setting-up-another-benghazi-2021-8"
+    ampWebUrl: "https://www.businessinsider.com/kabul-ex-pence-adviser-warned-trump-setting-up-another-benghazi-2021-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kabul-ex-pence-adviser-warned-trump-setting-up-another-benghazi-2021-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/612805a612b9cc0019630f06?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "President Biden to give Afghanistan update one week after Taliban takeover"
     excerpt: "At the one-week mark since the Taliban took over Afghanistan, the U.S.-directed airlift from Kabul continued Sunday even as U.S. officials expressed growing concern about the threat from the Islamic State group."

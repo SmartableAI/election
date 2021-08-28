@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Joe Biden will allow eviction moratorium to expire Saturday"
-excerpt: "As of July 5, roughly 3.6 million people in the U.S. said they faced eviction in the next two months, according to the U.S. Census Bureau."
-publishedDateTime: 2021-07-29T16:09:00Z
-originalUrl: "https://bangordailynews.com/2021/07/29/national-politics/joe-biden-will-allow-eviction-moratorium-to-expire-saturday/"
-webUrl: "https://bangordailynews.com/2021/07/29/national-politics/joe-biden-will-allow-eviction-moratorium-to-expire-saturday/"
+title: "Biden to Attend Briefing on Hurricane Ida on Saturday -White House"
+excerpt: "U.S. President Joe Biden will attend a briefing later on Saturday by administration officials on preparations for Hurricane Ida, which is expected to make landfall in the United States this weekend. The briefing is scheduled for 1:30 p."
+publishedDateTime: 2021-08-28T16:33:00Z
+originalUrl: "https://www.usnews.com/news/us/articles/2021-08-28/biden-to-attend-briefing-on-hurricane-ida-on-saturday-white-house"
+webUrl: "https://www.usnews.com/news/us/articles/2021-08-28/biden-to-attend-briefing-on-hurricane-ida-on-saturday-white-house"
+ampWebUrl: "https://www.usnews.com/news/us/articles/2021-08-28/biden-to-attend-briefing-on-hurricane-ida-on-saturday-white-house?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-08-28/biden-to-attend-briefing-on-hurricane-ida-on-saturday-white-house?context=amp"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Bangor Daily News
-  domain: bangordailynews.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/07/Biden-5.jpg"
-    width: 1024
-    height: 683
-    isCached: true
 
 related:
   - title: "Biden to allow eviction moratorium to expire Saturday"
@@ -89,18 +89,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden to Attend Briefing on Hurricane Ida on Saturday -White House"
-    excerpt: "U.S. President Joe Biden will attend a briefing later on Saturday by administration officials on preparations for Hurricane Ida, which is expected to make landfall in the United States this weekend. The briefing is scheduled for 1:30 p."
-    publishedDateTime: 2021-08-28T16:33:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2021-08-28/biden-to-attend-briefing-on-hurricane-ida-on-saturday-white-house"
-    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-08-28/biden-to-attend-briefing-on-hurricane-ida-on-saturday-white-house?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-08-28/biden-to-attend-briefing-on-hurricane-ida-on-saturday-white-house?context=amp"
+  - title: "Joe Biden will allow eviction moratorium to expire Saturday"
+    excerpt: "As of July 5, roughly 3.6 million people in the U.S. said they faced eviction in the next two months, according to the U.S. Census Bureau."
+    publishedDateTime: 2021-07-29T16:09:00Z
+    webUrl: "https://bangordailynews.com/2021/07/29/national-politics/joe-biden-will-allow-eviction-moratorium-to-expire-saturday/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
+      name: Bangor Daily News
+      domain: bangordailynews.com
     quality: 55
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/07/Biden-5.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
-secured: "THD9XowWHN+P7D3ZhHjxzM2mHAmmatsUU2Q2qbknvEI6b8NEAJCp7eGs3yrkyHA2b+QhYshhPpKKzq/NZLzqYmkbot/ANgz4wnVvfcFgD3zBPKSDre+pDxsOUadHMb02gHRNO/zH8IdcVDsXSZVMJWu/ar21MGIeQ9bKbaJvb6819bpvbIb+k2K6wXlaNWDCjcj9RQhRQ9+eeZ+UREo4S8acGqewDh3RpmBgU20N3vBrPL36FRG/LlHwzSBxdyRdB3ArnF2A27LdkrSy1txevp6CJ9E42kFYDZs9enyFrMGxw3B/lnWlo6Wqrl4RDir2uGMauCmg80eSr+QTIu9KrR8/rfx41YFeI0PvIKgTVzWxblM7sJctuvnDqdc0TbetJybt1542fBhxNNrqNTO8qhfw/AlsVagHxjDAbeZnkCRJudgBGCVjIobyUN2tejqp8bFKN1YQuzZ6+8ISRX2pMOD0kEAaKXOSQs3bOHfxbIhuzfuP7BWIE31fFpSp7y6bR15Y5tOncR6if6U3UsA9vg==;6Qa32L6Y+H5/J25/gWaUcA=="
+secured: "8RqKHmRtCpWjMKWWdcpulh4e55KyzKs+nGMNg6reBFfDs6ncuygycspjIf7MenNh7ovM/ht8VrGQxZCddphUJ+AhL9d/4dC2vtKtqhBH+zspH9FnxEr5JGhcL0OqAgJewwWTcllHlL59xEV7IYxqtzq2Nn+AV0VEnQqsXVT2HUGSIG2puLx6SNUTdEPBvnC+8ujj7cZPeJTJzHPrnvRIDoLUonPP1l2DHCRgG8tMsHr57G0UfvLvFnF8LGtrKhQQo14yAtb+wCnubzh4ZzblPQWL21Ojo6AdpuEAheT70Mvr8SJy3Q0v6C/sUeXJqA/o2SWV40NsWXeBmC1bctWiu6j/HGFVdjNULiOslGcO31RD/p5zbSF3sR8O0hZ9PWeIBZ2DxPvuBAdZ09SpPs6h5iobSr3joXtUOdXnxYLDJud+i50dGmGc8+sjg+3HLYjkwpns8gsEA2RheSNrqcaClqVsKmODDA8BkntyKFdlzow5HHd15+F4PhIVZUN35dsIfDo/LzhjMkrvO64dhlG3ug==;2tyhvLsAfVTFMyomZKQ12w=="
 ---
 

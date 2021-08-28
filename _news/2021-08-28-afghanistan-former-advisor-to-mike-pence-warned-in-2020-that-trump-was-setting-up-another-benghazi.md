@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Kabul bombings a dark day for Afghanistan and Joe Biden — and a harbinger of worse to come"
-excerpt: "US President Joe Biden is facing the worst moment of his presidency. Thirteen US troops and at least 60 Afghan civilians have been killed in a suicide bomb attack outside Kabuls main airport, for which Islamic State"
-publishedDateTime: 2021-08-28T05:30:00Z
-originalUrl: "https://www.econotimes.com/Kabul-bombings-a-dark-day-for-Afghanistan-and-Joe-Biden--and-a-harbinger-of-worse-to-come-1615940"
-webUrl: "https://www.econotimes.com/Kabul-bombings-a-dark-day-for-Afghanistan-and-Joe-Biden--and-a-harbinger-of-worse-to-come-1615940"
+title: "Afghanistan: Former advisor to Mike Pence warned in 2020 that Trump was setting up another 'Benghazi'"
+excerpt: "The advisor wrote Trump left \"an unsustainable presence in Afghanistan, a crisis for the Afghan people, and a mess for the Biden-Harris administration.\""
+publishedDateTime: 2021-08-28T00:01:00Z
+originalUrl: "https://www.businessinsider.com/kabul-ex-pence-adviser-warned-trump-setting-up-another-benghazi-2021-8"
+webUrl: "https://www.businessinsider.com/kabul-ex-pence-adviser-warned-trump-setting-up-another-benghazi-2021-8"
+ampWebUrl: "https://www.businessinsider.com/kabul-ex-pence-adviser-warned-trump-setting-up-another-benghazi-2021-8?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kabul-ex-pence-adviser-warned-trump-setting-up-another-benghazi-2021-8?amp"
 type: article
-quality: 45
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: EconoTimes
-  domain: econotimes.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Mike Pence
 
 images:
-  - url: "https://s1.econotimes.com/assets/uploads/2021082878d354646435ea9c4_th_1024x0.jpg"
-    width: 800
-    height: 533
+  - url: "https://i.insider.com/612805a612b9cc0019630f06?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -216,22 +222,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1881452/joe-biden-pictured-during-white-house-address.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Afghanistan: Former advisor to Mike Pence warned in 2020 that Trump was setting up another 'Benghazi'"
-    excerpt: "The advisor wrote Trump left \"an unsustainable presence in Afghanistan, a crisis for the Afghan people, and a mess for the Biden-Harris administration.\""
-    publishedDateTime: 2021-08-28T00:01:00Z
-    webUrl: "https://www.businessinsider.com/kabul-ex-pence-adviser-warned-trump-setting-up-another-benghazi-2021-8"
-    ampWebUrl: "https://www.businessinsider.com/kabul-ex-pence-adviser-warned-trump-setting-up-another-benghazi-2021-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kabul-ex-pence-adviser-warned-trump-setting-up-another-benghazi-2021-8?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/612805a612b9cc0019630f06?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "President Biden to give Afghanistan update one week after Taliban takeover"
     excerpt: "At the one-week mark since the Taliban took over Afghanistan, the U.S.-directed airlift from Kabul continued Sunday even as U.S. officials expressed growing concern about the threat from the Islamic State group."
@@ -1373,6 +1363,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kabul bombings a dark day for Afghanistan and Joe Biden — and a harbinger of worse to come"
+    excerpt: "US President Joe Biden is facing the worst moment of his presidency. Thirteen US troops and at least 60 Afghan civilians have been killed in a suicide bomb attack outside Kabuls main airport, for which Islamic State"
+    publishedDateTime: 2021-08-28T05:30:00Z
+    webUrl: "https://www.econotimes.com/Kabul-bombings-a-dark-day-for-Afghanistan-and-Joe-Biden--and-a-harbinger-of-worse-to-come-1615940"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 45
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/2021082878d354646435ea9c4_th_1024x0.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Ron DeSantis calls Joe Biden ‘obsessed’ with masking kindergarteners amid Afghanistan crisis"
     excerpt: "Ron DeSantis says President Joe Biden is “obsessed” with masking children with schools after the President leveled another attack admonishment against Republican governors blocking local mask orders."
     publishedDateTime: 2021-08-19T02:11:00Z
@@ -1576,6 +1580,6 @@ related:
         height: 380
         isCached: true
 
-secured: "wB/bUQlik/R9MrIthjDeTPvk6KpfBm+OnIlKVeZ3E26vQ9ppRVE1JNsv5XP3Z8rE5Zq0f5Ax2Pb2r9nGTrHdW3pOS+s/q6h2PygvyZBDbTpqSTIlWT8bUKEovy6xDFPnOgxR0LOy+IB4flewzZhMmD5Dza1Yf7145VqwM4IU6OyvZAFL3I8WwW4NMNqMFB/Z0BU9N3HLMBDv98JSNm+8odD19WWU5ZFg/KW5iwrbLQ5cvu0JaP3FQXBjv6eXN+V8dubADbFGDRRN1u7CFS7Vo+2B7Z4inYwW2jxdsl+wcfFr8QKMd/KsSDVJNwizHvMXjzVbLOIL6su54nLs2/OHNoObKx72aLoyDGEHdUG6Vfk=;eT6RCZTDdR+KGYs1bwscCQ=="
+secured: "k/gUXH/YjHIMD8TePbV7/Gw/ZASgoWrWwlefYKx1wUdbVrwP9FszECQ1qaAe08cANx5rniFLqT+e89goNMUhkO5Y9cesK62fn52feiGVyy/FlJ/XWMHgTPzJe9+dRZx5FbdNpCRyqwJ75NWzMbSTfVQrDjJU4ScedShti/J20c6Q+7mxpKw3BCWncEb4nhKCsvonXFwSeEtncbVobfHyPduLAPVp+Yd/TrBXIqG8g7v9xOO/5dHvy0yY8iKAqj8Ak2MaDgXbzmoMjHcC3uTBFOiW+0NXnHts0Q4ooNIInMr8S2ZPECFDCSaKioOKDjE2LYPbCeVnCAF9RtaR2pG5EQQcI4JJ5wRjTcFcseB0B+0=;YHOApN8x+oVYTeMKoS5O6Q=="
 ---
 
