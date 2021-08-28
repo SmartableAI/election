@@ -2,6 +2,58 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-07-11-trump-ally-matt-schlapp-complains-hes-not-welcome-on-cnnwhile-on-cnns-cuomo-prime-time.md",
+      "title": "Trump Ally Matt Schlapp Complains He's 'Not Welcome' on CNN—While on CNN's 'Cuomo Prime Time'",
+      "excerpt": "A visibly annoyed Chris Cuomo appeared to challenge Schlapp's reason for coming on the show if all he wanted to discuss was whether President Joe Biden defeated Trump last year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-ally-matt-schlapp-complains-hes-not-welcome-cnnwhile-cnns-cuomo-prime-time-1608567",
+      "originalUrl": "https://www.newsweek.com/trump-ally-matt-schlapp-complains-hes-not-welcome-cnnwhile-cnns-cuomo-prime-time-1608567",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1842671/matt-schlapp-cnn-chris-cuomo.jpg",
+          "width": 683,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-ally-matt-schlapp-complains-hes-not-welcome-cnnwhile-cnns-cuomo-prime-time-1608567?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-ally-matt-schlapp-complains-hes-not-welcome-cnnwhile-cnns-cuomo-prime-time-1608567?amp=1",
+      "publishedDateTime": "2021-07-10T12:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-10-vp-harris-talks-about-multiple-assignments-from-biden-maybe-i-dont-say-no-enough.md",
       "title": "VP Harris talks about multiple assignments from Biden: 'Maybe I don't say 'no' enough'",
       "excerpt": "Vice President Kamala Harris marveled at her full plate of major White House responsibilities quipping that she'll have to work on saying \"no\" to President Biden more often.",
@@ -1310,63 +1362,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-the-rebranding-of-trump-country.md",
-      "title": "The Rebranding of ‘Trump Country’",
-      "excerpt": "The population is fleeing, jobs are disappearing and coal really isn’t coming back. West Virginia’s boldest plan to reverse the slide is bribing white-collar workers to move from out of state.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/magazine/2021/07/09/west-virginia-economy-paid-remote-work-498238",
-      "originalUrl": "https://www.politico.com/news/magazine/2021/07/09/west-virginia-economy-paid-remote-work-498238",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/1d/94/ae211dc14744bf9dde718ba3af5a/thompson-mylan-52-2000-cms.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/magazine/2021/07/09/west-virginia-economy-paid-remote-work-498238",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2021/07/09/west-virginia-economy-paid-remote-work-498238",
-      "publishedDateTime": "2021-07-09T01:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

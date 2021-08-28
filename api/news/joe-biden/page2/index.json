@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-19-governor-polis-informs-president-joe-biden-that-colorado-is-ready-for-afghan-refugees.md",
+      "title": "Governor Polis informs President Joe Biden that Colorado is ready for Afghan refugees",
+      "excerpt": "Governor Jared Polis wrote to President Joe Biden today to inform him that Colorado is ready to offer safety and opportunity to Afghan refugees and Special Immigrant visa holders.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox21news.com/news/governor-polis-informs-president-joe-biden-that-colorado-is-ready-for-afghan-refugees/",
+      "originalUrl": "https://www.fox21news.com/news/governor-polis-informs-president-joe-biden-that-colorado-is-ready-for-afghan-refugees/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fox21news.com/wp-content/uploads/sites/37/2021/08/AP21176634197827.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox21news.com/news/governor-polis-informs-president-joe-biden-that-colorado-is-ready-for-afghan-refugees/amp/",
+      "cdnAmpWebUrl": "https://www-fox21news-com.cdn.ampproject.org/c/s/www.fox21news.com/news/governor-polis-informs-president-joe-biden-that-colorado-is-ready-for-afghan-refugees/amp/",
+      "publishedDateTime": "2021-08-18T16:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX21 News",
+        "domain": "fox21news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-19-joe-biden-says-there-was-no-way-to-exit-without-chaos-as-it-happened.md",
       "title": "Joe Biden says there was no way to exit without ‘chaos’ – as it happened",
       "excerpt": "This blog is now closed, You can find our latest live coverage here.",
@@ -1429,63 +1472,6 @@
         "name": "RealClearPolitics",
         "domain": "realclearpolitics.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-comedian-john-oliver-slams-bidens-inexcusable-lack-of-plan-to-save-afghan-translators-from-taliban.md",
-      "title": "Comedian John Oliver slams Biden's 'inexcusable' lack of plan to save Afghan translators from Taliban",
-      "excerpt": "Comedian John Oliver roasted President Joe Biden for an \"inexcusable\" lack of a plan to save Afghan translators who assisted the U.S. military and are currently trapped as the Taliban quickly gain ground there.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/comedian-john-oliver-slams-biden-inexcusable-lack-plan-save-afghan-translators-taliban",
-      "originalUrl": "https://www.foxnews.com/media/comedian-john-oliver-slams-biden-inexcusable-lack-plan-save-afghan-translators-taliban",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/74e56eda-375c-4101-a9f3-324be02bfe0e/34369108-f858-4525-a4f9-3556412e89f1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/comedian-john-oliver-slams-biden-inexcusable-lack-plan-save-afghan-translators-taliban.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/comedian-john-oliver-slams-biden-inexcusable-lack-plan-save-afghan-translators-taliban.amp",
-      "publishedDateTime": "2021-08-02T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

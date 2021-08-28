@@ -1,30 +1,24 @@
 ---
 category: news
-title: "Biden in the 'loneliest job,' a presidency driven by crisis"
-excerpt: "The need for crisis-driven leadership comes to all presidents. Now, on several fronts at once, it has come to him, and fast."
-publishedDateTime: 2021-08-28T15:15:00Z
-originalUrl: "https://madison.com/news/national/biden-in-the-loneliest-job-a-presidency-driven-by-crisis/article_e94f8f26-65e9-5795-9310-88d59b244d6c.html"
-webUrl: "https://madison.com/news/national/biden-in-the-loneliest-job-a-presidency-driven-by-crisis/article_e94f8f26-65e9-5795-9310-88d59b244d6c.html"
-ampWebUrl: "https://madison.com/news/national/biden-in-the-loneliest-job-a-presidency-driven-by-crisis/article_e94f8f26-65e9-5795-9310-88d59b244d6c.amp.html"
-cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/national/biden-in-the-loneliest-job-a-presidency-driven-by-crisis/article_e94f8f26-65e9-5795-9310-88d59b244d6c.amp.html"
+title: "Biden in the ‘loneliest job,’ a presidency driven by crisis"
+excerpt: "Surrounded by everything a superpower can offer and watched by all, President Joe Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan and tried to keep the focus on what,"
+publishedDateTime: 2021-08-28T12:52:00Z
+originalUrl: "https://www.seattletimes.com/nation-world/nation-politics/biden-in-the-loneliest-job-a-presidency-driven-by-crisis/"
+webUrl: "https://www.seattletimes.com/nation-world/nation-politics/biden-in-the-loneliest-job-a-presidency-driven-by-crisis/"
+ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/biden-in-the-loneliest-job-a-presidency-driven-by-crisis/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/biden-in-the-loneliest-job-a-presidency-driven-by-crisis/?amp=1"
 type: article
-quality: 75
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Madison.com
-  domain: madison.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/1/99/199c107d-1762-5afb-97b7-a5bb53fd9e3d/612a3e9b92323.image.jpg?resize=1024%2C682"
-    width: 1024
-    height: 682
-    isCached: true
 
 related:
   - title: "Budget clash pits moderate Democrats against Biden, Pelosi"
@@ -152,6 +146,6 @@ related:
       domain: seattletimes.com
     quality: 50
 
-secured: "C9fWlUU5LuikW5d4RcotULV9cSsIF6zRWlzBg3Mj7WuFE5FmDw0voRfQiCpbBkcc9e1S+uXU1UnUAXb3EAT1Lw5pe15aSb6cEZxvD/ZCJA/d7iMIcJ59fUg9KvsEQ684SWr9unLDSAU/FaVEBqSK40mIGVzg6NJ9CeYB2n7v23mxb7/zaaCY3w71vPUCErLP9eYahB1kW8UzFgicoR7HaXdNfZ7J4+UQEaNxtOkscpVSfXMt+BiXOEJ7TQWH3VohQ3yc5uzfoxLB4lsQ8peJV0GYfBb9RHHSFSaA+Y8UPBJFrNtWqkCEh5rq1d31vDcQXNqpkeBMLo0nkyBum25b+UOptNCARlvR5y812YoSWrU=;E4ZT0fko0Iyw16aRNZs1TA=="
+secured: "IHp2st96/8mvOwN1oe5ffOr31/01wpBmWcKageYVfwge1Dc0IvPxWWCUPtWJ2ldfUgOueVssrw30aBQYadQecJbVgU4Cu/DKPVFcYUfc2jdOrqfzEuUijDwcF4CIV9EO1ErnSNXdKe/mVcyr3a1YUpYJG44bnfY6MQ9lFs1Vj8+bJ9dEWSm2L2Ntxpi7rFKo++Ln6G1s0Sgt4ND4DpM+fjiAEtmHBW+Le1fAbWEmW+Xvzvi6ePlMCz3LDLw2xi+YxvbmP0hQyltroLOvGfUHvxKW3yRGXN3uBQlhw0dTQDHCqbFW6LRnBiLSM+QOpkfNNf8TQ6260cKv6+hF2iMPcmQlPlYl1z4ECeLun2/2MZFaGAVQsQcuNV1K3imWPoNRkl5vWL0GTrnitx+i4BuGg7dc+4WZOWpigjtw3QhQE4gwnkmP5zlUPOEM5BAyTVrYH0BaVjVa5gQ/Ix12iGOq4stDi2STyigpEPRBqAIhjoO5cMcYodIaLxPQrfOa9isn7CEss404HNn/C7jR2mhX6Q==;LF7DeHQCxhW4GzzoUih9Tw=="
 ---
 

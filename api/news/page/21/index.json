@@ -2,6 +2,49 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-07-13-joe-biden-styles-himself-as-a-21st-century-trust-buster.md",
+      "title": "Joe Biden styles himself as a 21st century ‘trust buster’",
+      "excerpt": "Joe Biden’s biggest supporters insist he is the most progressive US president since his reforming predecessor Franklin Delano. Now Biden is trying to place himself in",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/2db2f9d4-7a91-476b-bb22-d0a7cf0d4805",
+      "originalUrl": "https://www.ft.com/content/2db2f9d4-7a91-476b-bb22-d0a7cf0d4805",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-12T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-tammy-bruce-kamala-harris-clearly-doesnt-know-america-at-all.md",
       "title": "Tammy Bruce: Kamala Harris clearly doesn't know America at all",
       "excerpt": "Fox News contributor Tammy Bruce joined “Tucker Carlson Tonight” to react to Vice President Kamala Harris' comments on rural voters not being able to photocopy an ID.",
@@ -1278,58 +1321,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-11-trump-ally-matt-schlapp-complains-hes-not-welcome-on-cnnwhile-on-cnns-cuomo-prime-time.md",
-      "title": "Trump Ally Matt Schlapp Complains He's 'Not Welcome' on CNN—While on CNN's 'Cuomo Prime Time'",
-      "excerpt": "A visibly annoyed Chris Cuomo appeared to challenge Schlapp's reason for coming on the show if all he wanted to discuss was whether President Joe Biden defeated Trump last year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-ally-matt-schlapp-complains-hes-not-welcome-cnnwhile-cnns-cuomo-prime-time-1608567",
-      "originalUrl": "https://www.newsweek.com/trump-ally-matt-schlapp-complains-hes-not-welcome-cnnwhile-cnns-cuomo-prime-time-1608567",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1842671/matt-schlapp-cnn-chris-cuomo.jpg",
-          "width": 683,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-ally-matt-schlapp-complains-hes-not-welcome-cnnwhile-cnns-cuomo-prime-time-1608567?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-ally-matt-schlapp-complains-hes-not-welcome-cnnwhile-cnns-cuomo-prime-time-1608567?amp=1",
-      "publishedDateTime": "2021-07-10T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

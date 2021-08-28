@@ -664,6 +664,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Sleepy Joe Biden made the entire world a hostage to terror"
+    excerpt: "TWENTY years on from 9/11, it ends the way it began – with multiple acts of terror, cries of the dying and a grim-faced US President vowing vengeance on the men of evil. But the tough talk sounds"
+    publishedDateTime: 2021-08-28T21:42:00Z
+    webUrl: "https://www.the-sun.com/news/3559812/tony-parsons-sleepy-joe-afghanistan/"
+    ampWebUrl: "https://www.the-sun.com/news/3559812/tony-parsons-sleepy-joe-afghanistan/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3559812/tony-parsons-sleepy-joe-afghanistan/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 75
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/TM-comp-TonyParsons.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Joe Biden gifting Afghanistan to the Taliban is a crime against humanity"
     excerpt: "IN 20 days, it will be exactly 20 years since someone phoned you and said, “Turn on your television now.” Twenty years since those planes came out of a clear blue sky and ploughed into the Twin"
     publishedDateTime: 2021-08-22T01:02:00Z
@@ -1199,6 +1215,34 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/scnow.com/content/tncms/custom/image/dc6f5c96-f052-11e5-b058-234ab0ad62fe.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden promises more strikes on Afghanistan extremist group"
+    excerpt: "President Joe Biden vowed Saturday to keep up airstrikes against the Islamic extremist group whose suicide bombing at the Kabul airport killed scores of Afghans and 13 American service members. Another terror attack,"
+    publishedDateTime: 2021-08-28T21:04:00Z
+    webUrl: "https://chinapost.nownews.com/20210829-2739554"
+    type: article
+    provider:
+      name: NOWnews
+      domain: nownews.com
+    quality: 55
+    images:
+      - url: "https://chinapost-media.nownews.com/2021/08/fcc2bdd4-preview.jpg"
+        width: 800
+        height: 534
+        isCached: true
+  - title: "Will Afghanistan crisis define Biden's presidency?"
+    excerpt: "The Taliban's speedy takeover of Afghanistan and the terrorist attack that killed 13 U.S. service members has scarred Biden and his national security team, affected America's standing in the world, handed a propaganda victory to America's adversaries,"
+    publishedDateTime: 2021-08-28T21:03:00Z
+    webUrl: "https://www.stripes.com/theaters/us/2021-08-28/will-afghanistan-crisis-define-biden-presidency-2699508.html"
+    type: article
+    provider:
+      name: Stars and Stripes
+      domain: stripes.com
+    quality: 55
+    images:
+      - url: "https://www.stripes.com/incoming/qkmfmm-biden-analysis-236403ce-0838-11ec-a266-7c7fe02fa374.jpg/alternates/LANDSCAPE_480/biden-analysis-236403ce-0838-11ec-a266-7c7fe02fa374.jpg"
+        width: 480
+        height: 299
         isCached: true
   - title: "Biden will face pressure from G7 to extend Afghanistan withdrawal deadline"
     excerpt: "By Kevin Liptak and Barbara Starr, CNN Leaders from the top foreign allies of the United States are planning to press President Joe Biden to extend the deadline for US troops to withdraw from Afghanistan during a Tuesday morning meeting,"

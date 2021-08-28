@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-29-howie-carr-think-joe-biden-is-bad-check-out-the-current-line-of-succession.md",
+      "title": "Howie Carr: Think Joe Biden is bad? Check out the current line of succession",
+      "excerpt": "Before you heed those calls to remove Dementia Joe Biden via either impeachment or the 25th amendment, remember the old saying: Be careful what you wish for.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonherald.com/2021/08/28/howie-carr-think-joe-biden-is-bad-check-out-the-current-line-of-succession/",
+      "originalUrl": "https://www.bostonherald.com/2021/08/28/howie-carr-think-joe-biden-is-bad-check-out-the-current-line-of-succession/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bostonherald.com/wp-content/uploads/2021/08/AP21236785596020.jpg?w=1024&#038;h=683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bostonherald.com/2021/08/28/howie-carr-think-joe-biden-is-bad-check-out-the-current-line-of-succession/amp/",
+      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/08/28/howie-carr-think-joe-biden-is-bad-check-out-the-current-line-of-succession/amp/",
+      "publishedDateTime": "2021-08-28T13:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Boston Herald",
+        "domain": "bostonherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-28-joe-biden-says-china-still-withholding-critical-info-on-covid-19-origins.md",
       "title": "Joe Biden says China still withholding 'critical' info on Covid-19 origins",
       "excerpt": "PRESIDENT JOE BIDEN said that China was withholding “critical information” on the origins of Covid-19 after the US intelligence community said it did not believe the virus was a bioweapon – but remained split on whether it escaped from a lab.",
@@ -287,7 +330,7 @@
       "originalUrl": "https://www.newsweek.com/how-watch-live-stream-joe-bidens-speech-after-explosions-kabul-airport-1623378",
       "featuredContent": null,
       "highlight": null,
-      "heat": 443,
+      "heat": 503,
       "tags": null,
       "images": [
         {
@@ -1393,49 +1436,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-governor-polis-informs-president-joe-biden-that-colorado-is-ready-for-afghan-refugees.md",
-      "title": "Governor Polis informs President Joe Biden that Colorado is ready for Afghan refugees",
-      "excerpt": "Governor Jared Polis wrote to President Joe Biden today to inform him that Colorado is ready to offer safety and opportunity to Afghan refugees and Special Immigrant visa holders.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox21news.com/news/governor-polis-informs-president-joe-biden-that-colorado-is-ready-for-afghan-refugees/",
-      "originalUrl": "https://www.fox21news.com/news/governor-polis-informs-president-joe-biden-that-colorado-is-ready-for-afghan-refugees/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fox21news.com/wp-content/uploads/sites/37/2021/08/AP21176634197827.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox21news.com/news/governor-polis-informs-president-joe-biden-that-colorado-is-ready-for-afghan-refugees/amp/",
-      "cdnAmpWebUrl": "https://www-fox21news-com.cdn.ampproject.org/c/s/www.fox21news.com/news/governor-polis-informs-president-joe-biden-that-colorado-is-ready-for-afghan-refugees/amp/",
-      "publishedDateTime": "2021-08-18T16:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX21 News",
-        "domain": "fox21news.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

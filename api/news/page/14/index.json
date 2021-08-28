@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-07-27-gop-lawmakers-request-cuba-meeting-with-biden.md",
+      "title": "GOP lawmakers request Cuba meeting with Biden",
+      "excerpt": "A group of 19 Republican lawmakers penned a letter to President Biden on Monday requesting a meeting to discuss the ongoing situation in Cuba, which has escalated in recent weeks following protests ag",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/564956-gop-lawmakers-request-cuba-meeting-with-biden",
+      "originalUrl": "https://thehill.com/homenews/administration/564956-gop-lawmakers-request-cuba-meeting-with-biden",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 645,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/article_images/cuba-protest_miami_071121getty_cuba.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/564956-gop-lawmakers-request-cuba-meeting-with-biden?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/564956-gop-lawmakers-request-cuba-meeting-with-biden?amp",
+      "publishedDateTime": "2021-07-26T17:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-mike-pence-coming-to-houston-next-wednesday.md",
       "title": "Mike Pence coming to Houston next Wednesday",
       "excerpt": "Former Vice President Mike Pence is coming to Houston to headline a 5-day conference aimed at college Republicans. Pence is scheduled to speak at Young America’s Foundation’s annual conference on Wednesday,",
@@ -1247,62 +1299,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-biden-heckled-at-terry-mcauliffe-rally-plagued-by-another-small-crowd.md",
-      "title": "Biden heckled at Terry McAuliffe rally, plagued by another small crowd",
-      "excerpt": "President Biden was heckled by an audience member during an appearance in Virginia on Friday and stopped his speech to address the individual.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rlc-o-UYTto/biden-heckled-plagued-by-another-small-crowd-at-mcauliffe-event",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rlc-o-UYTto/biden-heckled-plagued-by-another-small-crowd-at-mcauliffe-event",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7fbf889c-b70b-48da-8ae6-495e8e02a8ee/840bcc45-5e37-4994-9e60-a1f39dd62771/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-heckled-plagued-by-another-small-crowd-at-mcauliffe-event.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-heckled-plagued-by-another-small-crowd-at-mcauliffe-event.amp",
-      "publishedDateTime": "2021-07-23T17:40:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

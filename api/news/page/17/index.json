@@ -2,6 +2,58 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-07-21-its-a-free-country-trump-addresses-pence-as-potential-2024-competitor-in-new-interview.md",
+      "title": "'It’s a free country': Trump addresses Pence as potential 2024 competitor in new interview",
+      "excerpt": "In a newly-released book excerpt, Donald Trump upholds his false election claims, knocks Mike Pence and says he's a potential 2024 presidential rival.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/07/20/donald-trump-news-book-mike-pence-potential-2024-presidential-election-candidates-rivals/8023849002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/07/20/donald-trump-news-book-mike-pence-potential-2024-presidential-election-candidates-rivals/8023849002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/4748097f30d3c081c091f5625cb14d838cab864a/c=0-248-4778-2936/local/-/media/2021/06/11/Hagerstown/27191107f746a16e6127c7fab24d23f4.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/8023849002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8023849002",
+      "publishedDateTime": "2021-07-20T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-mccarthy-appoints-0-republicans-who-voted-to-impeach-trump-to-capitol-riot-committee.md",
       "title": "McCarthy Appoints 0 Republicans Who Voted to Impeach Trump to Capitol Riot Committee",
       "excerpt": "McCarthy leaving Republicans who voted to impeach Trump off the committee indicates they plan to push back on the idea that Trump is responsible for the riot.",
@@ -1222,63 +1274,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-07-18-biden-pledges-appeal-of-deeply-disappointing-daca-ruling.md",
-      "title": "Biden pledges appeal of 'deeply disappointing' DACA ruling",
-      "excerpt": "He again called on Congress to pass the American Dream and Promise Act to \"finally provide security to all Dreamers, who have lived too long in fear.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/politics-news/biden-pledges-appeal-deeply-disappointing-daca-ruling-n1274280",
-      "originalUrl": "https://www.nbcnews.com/politics/politics-news/biden-pledges-appeal-deeply-disappointing-daca-ruling-n1274280",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3490968/210714-biden-mb-13132.JPG",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1274280",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1274280",
-      "publishedDateTime": "2021-07-17T12:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

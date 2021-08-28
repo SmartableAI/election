@@ -107,6 +107,22 @@ related:
         width: 5191
         height: 3464
         isCached: true
+  - title: "Joe Biden warns Kabul retaliatory strike 'highly likely' in the next 24 to 36 hours"
+    excerpt: "US President Joe Biden warned a second retaliation strike against the terrorists responsible for Thursday's suicide bombing was \"highly likely in the next 24 to 36 hours\"."
+    publishedDateTime: 2021-08-28T21:19:00Z
+    webUrl: "https://www.skynews.com.au/world-news/united-states/joe-biden-warns-kabul-retaliatory-attacks-highly-likely-in-the-next-24-to-36-hours/news-story/39d57ce2f4be996ca8a6d3b910ae9311"
+    ampWebUrl: "https://www.skynews.com.au/world-news/united-states/joe-biden-warns-kabul-retaliatory-attacks-highly-likely-in-the-next-24-to-36-hours/news-story/39d57ce2f4be996ca8a6d3b910ae9311?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/world-news/united-states/joe-biden-warns-kabul-retaliatory-attacks-highly-likely-in-the-next-24-to-36-hours/news-story/39d57ce2f4be996ca8a6d3b910ae9311?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 69
+    images:
+      - url: "https://content.api.news/v3/images/bin/87b0b73d2975a2b667c2c4447d886416"
+        width: 650
+        height: 366
+        isCached: true
   - title: "Warnings of possible attack at Kabul airport; Biden, Israeli PM to meet; MLS gaining popularity"
     excerpt: "Britain warns attack on Kabul airport could come within hours; Biden, Israeli PM to meet for first time; MLS seeing boost in popularity. Here are this morning's headlines."
     publishedDateTime: 2021-08-26T11:30:00Z
@@ -243,6 +259,36 @@ related:
       - url: "https://KITV.images.worldnow.com/images/17633324_G.jpg"
         width: 1707
         height: 960
+        isCached: true
+  - title: "Joe Biden promises further US strikes against ISIS-K members responsible for suicide attack outside Kabul airport"
+    excerpt: "US President Joe Biden promises further airstrikes against the Islamic State group in Afghanistan after an initial drone attack was launched in retaliation to a deadly bombing outside Kabul airport."
+    publishedDateTime: 2021-08-28T20:15:00Z
+    webUrl: "https://www.abc.net.au/news/2021-08-29/biden-promises-further-strikes-against-isis-k-afghanistan/100416114"
+    ampWebUrl: "https://amp.abc.net.au/article/100416114"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/100416114"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 54
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/a12e677b9a5310f9e35e029ff2f4ea5a?impolicy=wcms_crop_resize&cropH=576&cropW=1023&xPos=0&yPos=0&width=862&height=485"
+        width: 862
+        height: 485
+        isCached: true
+  - title: "Joe Biden warns of more attacks in next 24 hours as 13 soldiers killed in Kabul blast named"
+    excerpt: "President Joe Biden has warned that another attack was “highly likely” over the next 24 to 36 hours as the names of the killed US troops were released."
+    publishedDateTime: 2021-08-28T21:16:00Z
+    webUrl: "https://www.standard.co.uk/news/world/joe-biden-taliban-isis-k-kabul-terror-afghanistan-b952831.html"
+    type: article
+    provider:
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 45
+    images:
+      - url: "https://static.standard.co.uk/2021/08/28/20/urnpublicidap.org18d82a531f8a4e54a543d06bb4d076ef.jpg?width=1200&width=1200&auto=webp&quality=75"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Allies embraced Biden. Did Kabul lay bare \"great illusion\"?"
     excerpt: "Well before U.S. President Joe Biden took office early this year, the European Union's foreign policy chief sang his praises and hailed a new era in cooperation. So did almost all of Washington's Western allies."

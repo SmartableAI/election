@@ -2,6 +2,54 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2021-05-28-men-booted-from-yankee-stadium-after-displaying-trump-won-banner.md",
+      "title": "Men booted from Yankee Stadium after displaying ‘Trump Won’ banner",
+      "excerpt": "Two men who brought a ‘Trump Won Save America’ banner to the May 27, 2021 doubleheader between the Yankees and Blue Jays were greeted with boos from the crowd and escorted out of the",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/05/28/two-men-booted-from-yankee-game-for-holding-a-trump-won-sign/",
+      "originalUrl": "https://nypost.com/2021/05/28/two-men-booted-from-yankee-game-for-holding-a-trump-won-sign/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-fans-ejected-index.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/05/28/two-men-booted-from-yankee-game-for-holding-a-trump-won-sign/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/28/two-men-booted-from-yankee-game-for-holding-a-trump-won-sign/amp/",
+      "publishedDateTime": "2021-05-27T21:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-biden-administrations-return-to-libya-inexplicable-when-us-faces-multiple-crises-at-home-jim-jordan.md",
       "title": "Biden administration's return to Libya inexplicable when US faces multiple crises at home: Jim Jordan",
       "excerpt": "House Judiciary Committee Ranking Member Jim Jordan, R-Ohio, said on Thursday's \"Fox News Primetime\" that President Biden seeking a diplomatic return to Libya “doesn't make sense” as the U.S. faces a number of domestic crises.",
@@ -1298,58 +1346,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-son-ghostwriter-of-late-senator-say-trump-intervened-to-stop-probe-of-patriots-spygate-scandal.md",
-      "title": "Son, ghostwriter of late senator say Trump intervened to stop probe of Patriots' Spygate scandal",
-      "excerpt": "A hard-charging United States senator from Pennsylvania named Arlen Specter had launched an investigation into the Spygate scandal. He tried to determine how many games the New England Patriots' illegal videotaping operation of opposing coaches' signals had helped the team win and learn why the NFL,",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Sports/son-ghostwriter-late-senator-trump-intervened-stop-probe/story?id=77914778",
-      "originalUrl": "https://abcnews.go.com/Sports/son-ghostwriter-late-senator-trump-intervened-stop-probe/story?id=77914778",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
-          "width": 834,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Sports/son-ghostwriter-late-senator-trump-intervened-stop-probe/story?id=77914778",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Sports/son-ghostwriter-late-senator-trump-intervened-stop-probe/story?id=77914778",
-      "publishedDateTime": "2021-05-26T05:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
