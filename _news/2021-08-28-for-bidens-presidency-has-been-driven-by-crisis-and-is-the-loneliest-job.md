@@ -1,28 +1,24 @@
 ---
 category: news
-title: "President Joe Biden Proclaims Thursday, 26, 2021 as Women’s Equality Day"
-excerpt: "On President Joe Biden proclaimed August 26, 2021 as Women’s Equality Day. Today, we celebrate Women’s Equality Day, a reminder not only of the progress women have won through the years, but of the important work that remains to be done."
-publishedDateTime: 2021-08-26T21:01:00Z
-originalUrl: "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/32707-president-joe-biden-proclaims-thursday-26-2021-as-women-s-equality-day"
-webUrl: "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/32707-president-joe-biden-proclaims-thursday-26-2021-as-women-s-equality-day"
+title: "For Biden’s presidency has been driven by crisis and is the ‘loneliest job’"
+excerpt: "President Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan, even as he and the nation continued to battle the COVID-19 pandemic."
+publishedDateTime: 2021-08-28T13:24:00Z
+originalUrl: "https://www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/"
+webUrl: "https://www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/"
+ampWebUrl: "https://www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/?outputType=amp"
+cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/?outputType=amp"
 type: article
-quality: 54
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Sierra Sun Times
-  domain: goldrushcam.com
+  name: The Boston Globe
+  domain: bostonglobe.com
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://goldrushcam.com/sierrasuntimes/images/2020/white-house-gov.jpg"
-    width: 679
-    height: 357
-    isCached: true
 
 related:
   - title: "Budget clash pits moderate Democrats against Biden, Pelosi"
@@ -101,6 +97,20 @@ related:
         width: 2560
         height: 1920
         isCached: true
+  - title: "President Joe Biden Proclaims Thursday, 26, 2021 as Women’s Equality Day"
+    excerpt: "On President Joe Biden proclaimed August 26, 2021 as Women’s Equality Day. Today, we celebrate Women’s Equality Day, a reminder not only of the progress women have won through the years, but of the important work that remains to be done."
+    publishedDateTime: 2021-08-26T21:01:00Z
+    webUrl: "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/32707-president-joe-biden-proclaims-thursday-26-2021-as-women-s-equality-day"
+    type: article
+    provider:
+      name: Sierra Sun Times
+      domain: goldrushcam.com
+    quality: 54
+    images:
+      - url: "https://goldrushcam.com/sierrasuntimes/images/2020/white-house-gov.jpg"
+        width: 679
+        height: 357
+        isCached: true
   - title: "Ashley Moody demands border control assurance from Joe Biden administration"
     excerpt: "The letter, per a release from Moody’s office, seeks “to ensure the Biden administration will faithfully defend a long-standing federal immigration statute that prohibits illegal re-entry to the U.S."
     publishedDateTime: 2021-08-27T17:08:00Z
@@ -115,17 +125,6 @@ related:
         width: 2560
         height: 1920
         isCached: true
-  - title: "For Biden’s presidency has been driven by crisis and is the ‘loneliest job’"
-    excerpt: "President Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan, even as he and the nation continued to battle the COVID-19 pandemic."
-    publishedDateTime: 2021-08-28T13:24:00Z
-    webUrl: "https://www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/"
-    ampWebUrl: "https://www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 53
   - title: "Storm commemorates 2020 WNBA championship with President Joe Biden at White House"
     excerpt: "Before leaving the nation's capital, the Storm stopped by the White House on Monday, marking a return to normalcy when sports teams regularly received invitations to celebrate championships and their athletic achievements."
     publishedDateTime: 2021-08-23T21:13:00Z
@@ -152,6 +151,6 @@ related:
       domain: seattletimes.com
     quality: 50
 
-secured: "4G3sKpLl48Gnfb+TG3H/ec/IjYo0+owaek0uMt69JGyHUmlr69ZZ/0q2fMH9lgiuVbsyP4qnkFEqDG9eFASkRzYdxQgtMJFjIzHuaz3cQsCTEAIeFZE0z+jAU8ze0c/uhxYZsgN2pkIvqIcbFUaR8q+GN7AZFFST+esl5OVfLHTmKrpO151hFxcJlilUmXi59KxIjaFsgrLvDOasYSgs1ee44c/8rhakEHtPB2Vd9EXzQwcQLXhcEh0k2pDvlgL9aVaGP0nqQhRVbXVSaEO3DieedC4MXkv4L5d2y+iyhR4QzwRqw2TQyF/wiPlHDZOyBtkqS9mhgRG/a8zsJbsly15hYAyRGWN7N66W/JJpi9w=;r1mCb2Uipcdp0YMuSFcttA=="
+secured: "gxXun2YQhijI9SefyYDVBENgty3oEQ1AJihPFbVtRDfTb3ptrMQUgytKe05fWXrJc3FjJwrIuu3aDdr+FfwpbfC3MqyMwpB43eE8BJguzIZOm8qGkHwlU7Q0TdnFy41+qCYHV8fdPVc6NDz/PRSFwEUUivu0/LalI672JPs5Z8ZUnX8e6BpLDAcMkcpNCnvC+6tUdo8xilmy+5sIWDPcCoHwfF2dP3oC7G3zeflESGCZzjqry6AZ+CPOD2+bjGJo8uVuWuQUcchnIaBTnn49qKbj7LOQlX913YkdH69Ukbb1Q8ZdiOn9NYa7nxvM+CB93m5k0wXtBZrvpdaVwp3fiXWGk5NvsvHGuYtmcn75wWw=;WvzUR7Sz9NU3HNoZEMSGig=="
 ---
 

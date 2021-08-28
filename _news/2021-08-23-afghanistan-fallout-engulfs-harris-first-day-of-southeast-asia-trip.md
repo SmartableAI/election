@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/23/politics/kamala-harris-singapore-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/23/politics/kamala-harris-singapore-afghanistan/index.html"
 type: article
 quality: 185
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -116,6 +116,20 @@ related:
     excerpt: "During a trip to Vietnam, Vice President Kamala Harris said the first priority for rescue missions in Afghanistan are American citizens and women and children in the region."
     publishedDateTime: 2021-08-26T14:18:00Z
     webUrl: "https://www.nytimes.com/video/world/asia/100000007940406/kamala-harris-vice-president-afghanistan-rescue.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/08/26/world/26afghanistan-briefing-kamala-vietnam/26harris-asia01-facebookJumbo.jpg?video-overlay?video-overlay?video-overlay"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Kamala Harris Pledges Support to Afghan Women and Children"
+    excerpt: "During a trip to Vietnam, Vice President Kamala Harris said the first priority for rescue missions in Afghanistan are American citizens and women and children in the region."
+    publishedDateTime: 2021-08-27T13:16:00Z
+    webUrl: "https://www.nytimes.com/video/world/asia/100000007940406/kamala-harris-vice-president-afghanistan-rescue.html?playlistId=video/world"
     type: article
     provider:
       name: New York Times

@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Analysis: Why Biden's Afghanistan exit wasn't about good politics"
-excerpt: "In ending America's longest war, President Joe Biden did something popular. It was never going to help him politically.\n    \n"
-publishedDateTime: 2021-08-22T20:56:41Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/saScjv6wFsA/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/saScjv6wFsA/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/08/22/politics/biden-afghanistan-politics-and-polling/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/22/politics/biden-afghanistan-politics-and-polling/index.html"
+title: "Analysis: It's not just Afghanistan -- Americans are losing faith in Biden on many issues"
+excerpt: "President Joe Biden's approval rating is at its lowest point in his presidency. In the average of polls, he stands at about 47%. That's a steady decline from the beginning of this month (51%), last month (52%) and beginning of June (54%).\n    \n"
+publishedDateTime: 2021-08-28T13:00:22Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I1reIGapbdg/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I1reIGapbdg/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/08/28/politics/biden-afghanistan-polling-analysis/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/28/politics/biden-afghanistan-polling-analysis/index.html"
 type: article
-quality: 175
-heat: 515
-published: true
+quality: 166
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -25,12 +25,28 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210821081029-02-joe-biden-08-20-2021-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210826172926-02-biden-afghanistan-bombings-0826-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
 
 related:
+  - title: "Analysis: Why Biden's Afghanistan exit wasn't about good politics"
+    excerpt: "In ending America's longest war, President Joe Biden did something popular. It was never going to help him politically.\n    \n"
+    publishedDateTime: 2021-08-22T20:56:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/saScjv6wFsA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/22/politics/biden-afghanistan-politics-and-polling/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/22/politics/biden-afghanistan-politics-and-polling/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210821081029-02-joe-biden-08-20-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says 'a number of changes' will ease Afghanistan evacuations"
     excerpt: "National security adviser Jake Sullivan said Sunday that the threat of ISIS against the large mass of Americans and Afghans at the Kabul airport trying to evacuate Afghanistan is \"real,\" adding that the US is placing \"paramount priority\" on preventing any terrorist attack.\n    \n"
     publishedDateTime: 2021-08-23T00:32:13Z
@@ -124,22 +140,6 @@ related:
     quality: 166
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210826094704-01-kabul-airport-210626-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: It's not just Afghanistan -- Americans are losing faith in Biden on many issues"
-    excerpt: "President Joe Biden's approval rating is at its lowest point in his presidency. In the average of polls, he stands at about 47%. That's a steady decline from the beginning of this month (51%), last month (52%) and beginning of June (54%).\n    \n"
-    publishedDateTime: 2021-08-28T13:00:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I1reIGapbdg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/28/politics/biden-afghanistan-polling-analysis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/28/politics/biden-afghanistan-polling-analysis/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210826172926-02-biden-afghanistan-bombings-0826-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -302,6 +302,6 @@ related:
         height: 907
         isCached: true
 
-secured: "fvmYeJ+N187us78SxrHL61eBQwmk2EjoqGVBfm4sscvsvrKKQkNCbJvlBUjVWPWafdCErwaOJ+AbZeHk9Mr/fpVfFxwYwqh8K+mvSBTtyebcqgifX2+KBa0Xs9WIV7LPgiCuau5P3nKnu0Vqi4FDBDd5XXWhdC4CUKtujjLfjVZfKrtK/QcsPwSUmwAtfplJqlvUvO/PHOXbWbXvu5mnZKsHKNDU9f8gTzx4FNbxhXGnZvDVfykbz0/5AT4n+UGkfy64wJX0EPFUKfag2SnfBVjrSAAltoIx2b5uCsVow+qh3WJTYTBtGn8MCkyulgjfgOl/4khzTL7b+ydHg9a33dKit2gvZeDs3+BQ6T0Vrv4=;iGCVl991AnHeZL0t6leBTg=="
+secured: "IMdYldc7aPtnpxsCUWVxHLUU31dbwmICpIEyvAWRH3z6L0Jrj418h9wnohdKWUjLhwMKBwL7RehuCqEoxH8zgCrA2akJiPnpIAAI7f+fFWda0tDs8qxX85BzckWASMU/vf5F29sljMI9dSL/5inDDtvPAkdRFsPyzgU5GzzR2LtWN3g2mjY/XzgoMJTTVQqsuRBeUSyouvm5Taeogsd6qdOKy3BIpXHS33SmAP1rZDyVV+EiS9xZABfd4IXKQQLMGryOKisFzkA8l5/KQ/zwJn/toSft3XVQ8c+eFCsUFYBczU2Tb5VObicVR+g4drJT0eyKFRLelDLCLQWpPzy541MlKrmYqyWjcANsSDtv9Rs=;SHIuH7ze2znxtoGQ57JT+Q=="
 ---
 

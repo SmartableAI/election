@@ -1,27 +1,29 @@
 ---
 category: news
-title: "President Joe Biden Proclaims Thursday, 26, 2021 as Women’s Equality Day"
-excerpt: "On President Joe Biden proclaimed August 26, 2021 as Women’s Equality Day. Today, we celebrate Women’s Equality Day, a reminder not only of the progress women have won through the years, but of the important work that remains to be done."
-publishedDateTime: 2021-08-26T21:01:00Z
-originalUrl: "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/32707-president-joe-biden-proclaims-thursday-26-2021-as-women-s-equality-day"
-webUrl: "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/32707-president-joe-biden-proclaims-thursday-26-2021-as-women-s-equality-day"
+title: "Biden in the ‘loneliest job,’ a presidency driven by crisis"
+excerpt: "Surrounded by everything a superpower can offer and watched by all, President Joe Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan and tried to keep the focus on what,"
+publishedDateTime: 2021-08-28T13:35:00Z
+originalUrl: "https://www.tampabay.com/news/nation-world/2021/08/28/biden-in-the-loneliest-job-a-presidency-driven-by-crisis/"
+webUrl: "https://www.tampabay.com/news/nation-world/2021/08/28/biden-in-the-loneliest-job-a-presidency-driven-by-crisis/"
+ampWebUrl: "https://www.tampabay.com/news/nation-world/2021/08/28/biden-in-the-loneliest-job-a-presidency-driven-by-crisis/?outputType=amp"
+cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/nation-world/2021/08/28/biden-in-the-loneliest-job-a-presidency-driven-by-crisis/?outputType=amp"
 type: article
-quality: 54
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Sierra Sun Times
-  domain: goldrushcam.com
+  name: Tampa Bay Times
+  domain: tampabay.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://goldrushcam.com/sierrasuntimes/images/2020/white-house-gov.jpg"
-    width: 679
-    height: 357
+  - url: "https://www.tampabay.com/resizer/BGlnzW3Y8_irg2s93mF4n0sd9qc=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/BLCDPBEDUBBMVIH3OGO5QSLLHQ.jpg"
+    width: 800
+    height: 450
     isCached: true
 
 related:
@@ -57,22 +59,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Biden in the ‘loneliest job,’ a presidency driven by crisis"
-    excerpt: "Surrounded by everything a superpower can offer and watched by all, President Joe Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan and tried to keep the focus on what,"
-    publishedDateTime: 2021-08-28T13:35:00Z
-    webUrl: "https://www.tampabay.com/news/nation-world/2021/08/28/biden-in-the-loneliest-job-a-presidency-driven-by-crisis/"
-    ampWebUrl: "https://www.tampabay.com/news/nation-world/2021/08/28/biden-in-the-loneliest-job-a-presidency-driven-by-crisis/?outputType=amp"
-    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/nation-world/2021/08/28/biden-in-the-loneliest-job-a-presidency-driven-by-crisis/?outputType=amp"
-    type: article
-    provider:
-      name: Tampa Bay Times
-      domain: tampabay.com
-    quality: 75
-    images:
-      - url: "https://www.tampabay.com/resizer/BGlnzW3Y8_irg2s93mF4n0sd9qc=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/BLCDPBEDUBBMVIH3OGO5QSLLHQ.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Poll shows most Florida voters disapprove of Joe Biden’s performance"
     excerpt: "A majority of Florida voters disapprove of President Joe Biden’s performance. The Quinnipiac University Poll found 40% of Florida voters approve of Biden’s performance, with 53% disapproving. Views of his COVID-9 response were better."
     publishedDateTime: 2021-08-25T20:59:00Z
@@ -100,6 +86,20 @@ related:
       - url: "https://floridapolitics.com/wp-content/uploads/2021/05/Ashley-Moody-scaled.jpg"
         width: 2560
         height: 1920
+        isCached: true
+  - title: "President Joe Biden Proclaims Thursday, 26, 2021 as Women’s Equality Day"
+    excerpt: "On President Joe Biden proclaimed August 26, 2021 as Women’s Equality Day. Today, we celebrate Women’s Equality Day, a reminder not only of the progress women have won through the years, but of the important work that remains to be done."
+    publishedDateTime: 2021-08-26T21:01:00Z
+    webUrl: "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/32707-president-joe-biden-proclaims-thursday-26-2021-as-women-s-equality-day"
+    type: article
+    provider:
+      name: Sierra Sun Times
+      domain: goldrushcam.com
+    quality: 54
+    images:
+      - url: "https://goldrushcam.com/sierrasuntimes/images/2020/white-house-gov.jpg"
+        width: 679
+        height: 357
         isCached: true
   - title: "Ashley Moody demands border control assurance from Joe Biden administration"
     excerpt: "The letter, per a release from Moody’s office, seeks “to ensure the Biden administration will faithfully defend a long-standing federal immigration statute that prohibits illegal re-entry to the U.S."
@@ -152,6 +152,6 @@ related:
       domain: seattletimes.com
     quality: 50
 
-secured: "4G3sKpLl48Gnfb+TG3H/ec/IjYo0+owaek0uMt69JGyHUmlr69ZZ/0q2fMH9lgiuVbsyP4qnkFEqDG9eFASkRzYdxQgtMJFjIzHuaz3cQsCTEAIeFZE0z+jAU8ze0c/uhxYZsgN2pkIvqIcbFUaR8q+GN7AZFFST+esl5OVfLHTmKrpO151hFxcJlilUmXi59KxIjaFsgrLvDOasYSgs1ee44c/8rhakEHtPB2Vd9EXzQwcQLXhcEh0k2pDvlgL9aVaGP0nqQhRVbXVSaEO3DieedC4MXkv4L5d2y+iyhR4QzwRqw2TQyF/wiPlHDZOyBtkqS9mhgRG/a8zsJbsly15hYAyRGWN7N66W/JJpi9w=;r1mCb2Uipcdp0YMuSFcttA=="
+secured: "0Hyn1GxfXUNL2bOHV9BZsAqxMfp8X4tQqNeqMgKuEC7nnPEFWOx+Dt1I5XYEvwd7RZomuomFEm37qeME1Wa/s922VGcRd4WswZw9+fn7/YlkcqWrU46p9Ly96nSbct7IHzeYOiAXmQGTDF3cmgPUsR2nQtSQfkEdUY4ceODLQr/l8uzsT7JdQlPWb+nH2+NAqIDoZtYEMN5yVEBEzj6hlWYdJS1zLpR2SDuBJkS7AiWDroS3VfNdH8CL7Zk54P5sHdBnH+uxvMF/jXZBp4wQ5kuo7rctC7/Nnyrjuj7RpxNjaShZ8eR49V5twfaqZ8CrNlwo8/Fhkl1lC8/ARbRjb2xueUdZcLPnHurcuPQEudU=;YCR+j/ygKxi5ExdstUJqJg=="
 ---
 

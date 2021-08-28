@@ -1,34 +1,32 @@
 ---
 category: news
-title: "Biden says U.S. may extend Afghanistan withdrawal deadline as evacuations continue"
-excerpt: "President Joe Biden said Sunday that the U.S. was considering extending evacuation efforts beyond his Aug. 31 deadline to leave Afghanistan as he defended the administration's handling of the war's final days."
-publishedDateTime: 2021-08-22T23:19:00Z
-originalUrl: "https://www.nbcnews.com/politics/joe-biden/biden-says-u-s-may-extend-afghanistan-withdrawal-deadline-evacuations-n1277414"
-webUrl: "https://www.nbcnews.com/politics/joe-biden/biden-says-u-s-may-extend-afghanistan-withdrawal-deadline-evacuations-n1277414"
-ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1277414"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1277414"
+title: "Kamala Harris Pledges Support to Afghan Women and Children"
+excerpt: "During a trip to Vietnam, Vice President Kamala Harris said the first priority for rescue missions in Afghanistan are American citizens and women and children in the region."
+publishedDateTime: 2021-08-27T13:16:00Z
+originalUrl: "https://www.nytimes.com/video/world/asia/100000007940406/kamala-harris-vice-president-afghanistan-rescue.html?playlistId=video/world"
+webUrl: "https://www.nytimes.com/video/world/asia/100000007940406/kamala-harris-vice-president-afghanistan-rescue.html?playlistId=video/world"
 type: article
-quality: 129
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Kamala Harris
   - Democratic Voice
 
 images:
-  - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_33/3500850/210822-joe-biden-jm-1701.jpg"
-    width: 2500
-    height: 1667
+  - url: "https://static01.nyt.com/images/2021/08/26/world/26afghanistan-briefing-kamala-vietnam/26harris-asia01-facebookJumbo.jpg?video-overlay?video-overlay?video-overlay"
+    width: 1050
+    height: 549
     isCached: true
 
 related:
@@ -96,6 +94,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Biden says U.S. may extend Afghanistan withdrawal deadline as evacuations continue"
+    excerpt: "President Joe Biden said Sunday that the U.S. was considering extending evacuation efforts beyond his Aug. 31 deadline to leave Afghanistan as he defended the administration's handling of the war's final days."
+    publishedDateTime: 2021-08-22T23:19:00Z
+    webUrl: "https://www.nbcnews.com/politics/joe-biden/biden-says-u-s-may-extend-afghanistan-withdrawal-deadline-evacuations-n1277414"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1277414"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1277414"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_33/3500850/210822-joe-biden-jm-1701.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Kamala Harris stresses Southeast Asia ties on an overseas trip, but the focus returns to Afghanistan."
     excerpt: "Facing rising pressure over the United States’ haphazard withdrawal from Afghanistan, Vice President Kamala Harris said on Monday that the Biden administration was “singularly focused” on evacuating American citizens and Afghan allies."
     publishedDateTime: 2021-08-23T09:45:00Z
@@ -126,20 +140,6 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Kamala Harris Pledges Support to Afghan Women and Children"
-    excerpt: "During a trip to Vietnam, Vice President Kamala Harris said the first priority for rescue missions in Afghanistan are American citizens and women and children in the region."
-    publishedDateTime: 2021-08-27T13:16:00Z
-    webUrl: "https://www.nytimes.com/video/world/asia/100000007940406/kamala-harris-vice-president-afghanistan-rescue.html?playlistId=video/world"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 115
-    images:
-      - url: "https://static01.nyt.com/images/2021/08/26/world/26afghanistan-briefing-kamala-vietnam/26harris-asia01-facebookJumbo.jpg?video-overlay?video-overlay?video-overlay"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "Kamala Harris' campaign rally for Newsom canceled after Afghanistan attacks"
     excerpt: "Vice President Kamala Harris will not campaign on Friday for Gavin Newsom amid his recall fight, skipping a planned Bay Area rally for the Democratic governor. Harris, returning f"
     publishedDateTime: 2021-08-26T21:53:00Z
@@ -155,6 +155,6 @@ related:
         height: 773
         isCached: true
 
-secured: "Au+BQ8uQwGfAwYKnev42eOMhMYxM1rh1MSAp+XqGgTz2Z/HfVG96NqftyJoCJpUVV92iH0qqX2faUrZQfqTGxBirLZr7x2ZhFv3Znh5QAR5DQ7rBAbah4RWix01E5B+dSALklICPhSrG7Hn6zkLeIf/ZgeK0uxvuHwl69djZy6Q8w6ZBocDGX9R2+pWZY1jmzC/UKzY0fxT04HecLJ4SzrP3VKui/CeAq5o28uiY9YwuMeIAAHeVFw1eU83/jshHIgvSMArmAWQPMvU85AuW2cJW1qYAm/uIsVYp7rHVZ5tqlZAXZstcL6NFfJ9fB2fyDVUa/3EX5xhtM8ZBxAi4BDjt610bc8vZWeVo/znK9Ng=;rxOkOBkMlMYKeXPp6kyvEQ=="
+secured: "RQTqRJylJRE/DyL10bKyy6b0cFCrna0URoX8bbScMhlVRuuZUlkB/9BkF427/2G2amFKIa/cKqMfylJRul321acrT/QdqKu7wNp0OBsxu04X1+kHNv8Do+0i91mUJwqlw8f8zZ8jX2WEISb/JDTHJZxE62SOUbyKjSOODf4QBeUM5oASynAnEg1FyyZuPj+omIgtRGdGUqnJG7qe5ccAB4ymV/OjNBWcQrmQ7OEGbT6ildh4ZDM/+KSkB8F/uTMPK7IQj56FGltQt3dC0tdLokWF1O/ZZsGaGUSJ31uHp+xX1SioZwFnlqwlgKMhBkuLiZV9hNySOPyJoj/4gsE/M3AACGpumwim0nK2DKNI1sI=;LP3Uw/UKEzprVOffacTrxA=="
 ---
 

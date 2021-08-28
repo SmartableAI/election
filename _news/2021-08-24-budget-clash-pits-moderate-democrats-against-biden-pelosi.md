@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Biden in the ‘loneliest job,’ a presidency driven by crisis"
+    excerpt: "Surrounded by everything a superpower can offer and watched by all, President Joe Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan and tried to keep the focus on what,"
+    publishedDateTime: 2021-08-28T13:35:00Z
+    webUrl: "https://www.tampabay.com/news/nation-world/2021/08/28/biden-in-the-loneliest-job-a-presidency-driven-by-crisis/"
+    ampWebUrl: "https://www.tampabay.com/news/nation-world/2021/08/28/biden-in-the-loneliest-job-a-presidency-driven-by-crisis/?outputType=amp"
+    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/nation-world/2021/08/28/biden-in-the-loneliest-job-a-presidency-driven-by-crisis/?outputType=amp"
+    type: article
+    provider:
+      name: Tampa Bay Times
+      domain: tampabay.com
+    quality: 75
+    images:
+      - url: "https://www.tampabay.com/resizer/BGlnzW3Y8_irg2s93mF4n0sd9qc=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/BLCDPBEDUBBMVIH3OGO5QSLLHQ.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Poll shows most Florida voters disapprove of Joe Biden’s performance"
     excerpt: "A majority of Florida voters disapprove of President Joe Biden’s performance. The Quinnipiac University Poll found 40% of Florida voters approve of Biden’s performance, with 53% disapproving. Views of his COVID-9 response were better."
     publishedDateTime: 2021-08-25T20:59:00Z
@@ -99,6 +115,17 @@ related:
         width: 2560
         height: 1920
         isCached: true
+  - title: "For Biden’s presidency has been driven by crisis and is the ‘loneliest job’"
+    excerpt: "President Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan, even as he and the nation continued to battle the COVID-19 pandemic."
+    publishedDateTime: 2021-08-28T13:24:00Z
+    webUrl: "https://www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 53
   - title: "Storm commemorates 2020 WNBA championship with President Joe Biden at White House"
     excerpt: "Before leaving the nation's capital, the Storm stopped by the White House on Monday, marking a return to normalcy when sports teams regularly received invitations to celebrate championships and their athletic achievements."
     publishedDateTime: 2021-08-23T21:13:00Z
