@@ -543,6 +543,22 @@ related:
         width: 6000
         height: 4000
         isCached: true
+  - title: "Kamala Harris Blocks Reporters from Hawaii Event Amid Kabul Firestorm"
+    excerpt: "Vice President Kamala Harris inexplicably blocked reporters for an event in Hawaii on Thursday amid the firestorm over events in Afghanistan."
+    publishedDateTime: 2021-08-27T03:30:00Z
+    webUrl: "https://www.mediaite.com/news/kamala-harris-blocks-reporters-from-hawaii-event-amid-kabul-firestorm/"
+    ampWebUrl: "https://www.mediaite.com/news/kamala-harris-blocks-reporters-from-hawaii-event-amid-kabul-firestorm/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/kamala-harris-blocks-reporters-from-hawaii-event-amid-kabul-firestorm/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 75
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2021/02/Kamala-Harris-GettyImages-1230988856.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "VP Kamala Harris to return to California to campaign for Newsom next week"
     excerpt: "WASHINGTON — Vice President Kamala Harris will campaign for Gov. Gavin Newsom next week as the Democratic Party rallies around the California governor in his recall battle. The vice president and former California senator will visit her home state next ..."
     publishedDateTime: 2021-08-20T14:09:00Z
@@ -783,6 +799,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "‘Find your courage’: GOP lawmaker urges Kamala Harris to invoke 25th Amendment, seize power"
+    excerpt: "A Republican House member wrote a letter Thursday to Vice President Kamala Harris, asking that she seize power under the 25th Amendment."
+    publishedDateTime: 2021-08-27T02:39:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/aug/26/madison-cawthorn-urges-kamala-harris-invoke-25th-a/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/26/madison-cawthorn-urges-kamala-harris-invoke-25th-a/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/26/madison-cawthorn-urges-kamala-harris-invoke-25th-a/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 65
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/03/08/Biden_42426.jpg-0df9a_c0-0-4505-2627_s1200x700.jpg?60cf3437de24de7bd09c076a5d6e0c6e1b5a6328"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Kamala Harris under fire for LAUGHING while being grilled on Afghanistan crisis as she tanks in polls"
     excerpt: "KAMALA Harris has been slammed for laughing while being grilled on the Afghanistan crisis as the VP’s approval numbers tank. Footage from a Friday night chat with reporters has shown the"
     publishedDateTime: 2021-08-23T12:10:00Z
@@ -798,6 +830,22 @@ related:
       - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/COMP_RR_KAMALA.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Vice President Kamala Harris stops in Hawaii to meet with troops after weeklong trip to Southeast Asia"
+    excerpt: "Vice President Kamala Harris arrived in Hawaii on Thursday, Aug. 26, capping a weeklong trip to Southeast Asia where she met with top officials in Singapore and Vietnam to encourage expanding U.S."
+    publishedDateTime: 2021-08-27T01:38:00Z
+    webUrl: "https://www.khon2.com/local-news/vice-president-harris-arrives-in-hawaii-after-weeklong-trip-to-southeast-asia/"
+    ampWebUrl: "https://www.khon2.com/local-news/vice-president-harris-arrives-in-hawaii-after-weeklong-trip-to-southeast-asia/amp/"
+    cdnAmpWebUrl: "https://www-khon2-com.cdn.ampproject.org/c/s/www.khon2.com/local-news/vice-president-harris-arrives-in-hawaii-after-weeklong-trip-to-southeast-asia/amp/"
+    type: article
+    provider:
+      name: KHON2
+      domain: khon2.com
+    quality: 59
+    images:
+      - url: "https://www.khon2.com/wp-content/uploads/sites/8/2021/08/20210826-KAMALA-HARRIS-HAWAII.png?w=1280"
+        width: 1280
+        height: 723
         isCached: true
   - title: "Kamala Harris’ Southeast Asia Visit Shows Biden’s Southeast Asia Policy Still Lacks a Clear Roadmap"
     excerpt: "The expansion of U.S. cooperation with Southeast Asia was a welcome step, but the question of long-term strategy remains."
@@ -983,6 +1031,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Watch Vice President Kamala Harris: Chase the Dream"
+    excerpt: "Vice President Kamala Harris: Chase the Dream is available to watch free on Tubi TV and Kanopy. It's also available to stream, download on demand at . Some platforms allow you to rent Vice President Kamala Harris: Chase the Dream for a limited time or ..."
+    publishedDateTime: 2021-08-28T13:59:00Z
+    webUrl: "https://www.yidio.com/movie/vice-president-kamala-harris-chase-the-dream/230814"
+    type: article
+    provider:
+      name: Yidio
+      domain: yidio.com
+    quality: 55
+    images:
+      - url: "https://cfm.yidio.com/images/movie/230814/backdrop-1280x720.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris visits Singapore to deepen ties and counter China's influence"
     excerpt: "US Vice President Kamala Harris will meet Singapore's leaders on Monday on the first working day of a trip to Southeast Asia aimed at bolstering ties as part of Washington's efforts to counter China's growing influence."
     publishedDateTime: 2021-08-23T00:52:00Z
@@ -1086,6 +1148,20 @@ related:
       - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202108/1030237302.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Press inexplicably blocked from Kamala Harris’ event with troops at Pearl Harbor"
+    excerpt: "Kamala Harris landed in Hawaii on her return from Singapore and Vietnam to speak to the troops. She blocked the press from asking questions."
+    publishedDateTime: 2021-08-27T16:44:00Z
+    webUrl: "https://www.bizpacreview.com/2021/08/27/press-inexplicably-blocked-from-kamala-harris-event-with-troops-at-pearl-harbor-1125419/"
+    type: article
+    provider:
+      name: BizPac Review
+      domain: bizpacreview.com
+    quality: 50
+    images:
+      - url: "https://www.bizpacreview.com/wp-content/uploads/2021/08/Getty-Kamala-2-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "PM Lee Hsien Loong, US Vice-President Kamala Harris hail robust, enduring S’pore-US partnership"
     excerpt: "SINGAPORE - Prime Minister Lee Hsien Loong and United States Vice-President Kamala Harris hailed the robust and enduring partnership between their two countries at the Istana on Monday (Aug 23) as they announced new areas of cooperation in cyber security,"

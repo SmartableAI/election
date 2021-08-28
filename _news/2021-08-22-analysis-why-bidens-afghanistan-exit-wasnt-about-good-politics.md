@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/22/politics/biden-afghanistan-politi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/22/politics/biden-afghanistan-politics-and-polling/index.html"
 type: article
 quality: 175
-heat: 515
+heat: 535
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
     quality: 161
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210824160409-kabul-airport-aerial-0823-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "'A direct punch in the gut': Inside Biden's biggest crisis as he races to withdraw from Afghanistan"
+    excerpt: "When Joint Chiefs Chairman Gen. Mark Milley informed President Joe Biden just past 9:15 a.m. on Thursday that terrorists had detonated a suicide bomb at the Kabul Airport gates, the President was angry and dismayed — but not surprised.\n    \n"
+    publishedDateTime: 2021-08-28T15:46:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/25c-DNIlKWI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/28/politics/biden-behind-scenes-crisis-attack-kabul-afghanistan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/28/politics/biden-behind-scenes-crisis-attack-kabul-afghanistan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210827175249-01-afghanistan-wh-tick-tock-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

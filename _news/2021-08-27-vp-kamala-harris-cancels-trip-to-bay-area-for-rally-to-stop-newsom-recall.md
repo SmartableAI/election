@@ -2,28 +2,28 @@
 category: news
 title: "VP Kamala Harris cancels trip to Bay Area for rally to stop Newsom recall"
 excerpt: "Representatives from Newsom’s campaign confirmed the cancellations Thursday, but did not explain whether the explosions that killed at least a dozen U.S. service members and injured at least 15"
-publishedDateTime: 2021-08-26T19:48:00Z
-originalUrl: "https://www.mercurynews.com/2021/08/26/vp-kamala-harris-cancels-appearance-with-california-gov-newsom-to-fight-recall/"
-webUrl: "https://www.mercurynews.com/2021/08/26/vp-kamala-harris-cancels-appearance-with-california-gov-newsom-to-fight-recall/"
-ampWebUrl: "https://www.mercurynews.com/2021/08/26/vp-kamala-harris-cancels-appearance-with-california-gov-newsom-to-fight-recall/amp/"
-cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/08/26/vp-kamala-harris-cancels-appearance-with-california-gov-newsom-to-fight-recall/amp/"
+publishedDateTime: 2021-08-27T15:29:00Z
+originalUrl: "https://www.timesheraldonline.com/2021/08/27/vp-kamala-harris-cancels-appearance-with-california-gov-newsom-to-fight-recall/"
+webUrl: "https://www.timesheraldonline.com/2021/08/27/vp-kamala-harris-cancels-appearance-with-california-gov-newsom-to-fight-recall/"
+ampWebUrl: "https://www.timesheraldonline.com/2021/08/27/vp-kamala-harris-cancels-appearance-with-california-gov-newsom-to-fight-recall/amp/"
+cdnAmpWebUrl: "https://www-timesheraldonline-com.cdn.ampproject.org/c/s/www.timesheraldonline.com/2021/08/27/vp-kamala-harris-cancels-appearance-with-california-gov-newsom-to-fight-recall/amp/"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Mercury News
-  domain: mercurynews.com
+  name: Vallejo Times Herald
+  domain: timesheraldonline.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.mercurynews.com/wp-content/uploads/2021/04/AP21095651805111.jpg?w=1024&#038;h=683"
+  - url: "https://www.timesheraldonline.com/wp-content/uploads/2021/08/AP21095651805111.jpg?w=1024&#038;h=682"
     width: 1024
-    height: 683
+    height: 682
     isCached: true
 
 related:
@@ -946,6 +946,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Kamala Harris heading back to Washington after canceling campaign rally with Gavin Newsom in California"
+    excerpt: "Vice President Kamala Harris's decision to cancel her Friday rally in California with embattled Democratic Gov. Gavin Newsom dealt a setback to Democrats' intensive efforts to spur their voters to vote against the effort to recall the first-term governor."
+    publishedDateTime: 2021-08-27T17:51:00Z
+    webUrl: "https://www.kten.com/story/44610956/kamala-harris-heading-back-to-washington-after-canceling-campaign-rally-with-gavin-newsom-in-california"
+    type: article
+    provider:
+      name: KTEN
+      domain: kten.com
+    quality: 39
+    images:
+      - url: "https://CNNWIRE.images.worldnow.com/images/21279825_G.jpg?lastEditedDate=1630016296000"
+        width: 500
+        height: 333
+        isCached: true
   - title: "Vice President Harris Holds Roundtable on Black Maternal Health"
     excerpt: "Vice President Harris holds a roundtable at the White House on Black maternal health. She is joined by Domestic Policy Adviser Susan Rice. Vice President Kamala Harris held a roundtable discussion on Equal Pay Day with women leaders of advocacy… Vice ..."
     publishedDateTime: 2021-04-13T12:42:00Z
@@ -956,6 +970,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "W/svunxEq5Q8g6ehi9OtY7C9dWiPbryQHRyPg+YIv+/PA4OGHZhuAMQpcbRnkk2z4GVfcws6L3GlJAaz/oREe929XVjsz7lgQxJjrI8tZzd077wMKg5LQ2ytr6/ImbBhl++RAq4JdS9faGPeo62GNAVt8a0m6MpQCtNvDJGAhxwkvB9vMPTaM/P2Qa/BuK7xR2kDu4t0chfoHudHNPrHLPEo4F6L8+VH2aWbvQCLnu0HwXg+3Hzr5/ZZemcuYA/cCYBaMg244jJzw+2fFN1OsTYFnOuaouaDxI/jv5vJ3dJdzw3gmjb/At5yt3fuTAJJM9OmiZKl9P//S5PV5iJn1RftR0RHT49aGuAQqGl/afg=;7tnMpKiqkvx1yvnvkocPdg=="
+secured: "LaUzPHN8uhuMcyX5mPxhpB3jv8j8cp0p78/MWAdHa3DDWB8ST94PwTbJO8i5hstJSlEs3Ei5H7HuPykUYaQ+fJO2rE6zhalt1ASotrqZ71OajNGcrkizS0XcWQrPWmRY7guOMchLyqFw/pCDgZUXhYiCpz4fzFblglcuCsQee18ggczKHMXs9p+vaXSdRuXmHo+hpRMKIu2yW9kZnotnKHNnX49dxQ8nwjxJJUOkJsi3Hx/zZygyQCmgRo73SqM5F0cNAFDWz2qUayjYEN2X45RgZ4b1wGM60N4CW/xwOockhiGrxYqgfFuxVpngsZxlhVnZTzSbXdYnNb6vxWE4jp2Z7sZdX1UN5HRhMcWSKhY=;8tqSVGz2DCoP5kkAwVALIA=="
 ---
 

@@ -325,20 +325,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "7 US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot"
-    excerpt: "US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot."
-    publishedDateTime: 2021-08-26T16:05:00Z
-    webUrl: "https://apnews.com/article/donald-trump-ap-news-alert-riots-db275e882b46c926cd46ede8c340a0f7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 83
-    images:
-      - url: "https://apnews.com/images/ShareLogo2.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Donald Trump's Voice Banned From Facebook, Lara Trump's Video Removed"
     excerpt: "Lara Trump’s Facebook video in which she interviews her father-in-law, former President Donald Trump, was removed after being informed that his voice is even banned from the platform. Donald Trump was banned from Facebook shortly after the Jan. 6 attacks ..."
     publishedDateTime: 2021-03-31T19:25:00Z
@@ -676,6 +662,20 @@ related:
       name: The Journal Gazette
       domain: journalgazette.net
     quality: 35
+  - title: "7 US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot"
+    excerpt: "US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot."
+    publishedDateTime: 2021-08-26T16:05:00Z
+    webUrl: "https://greensboro.com/news/national/govt-and-politics/7-us-capitol-police-officers-sue-former-president-donald-trump-his-allies-and-extremists-groups/article_efd575a6-871d-5b2b-a505-d3fed507c8ac.html"
+    type: article
+    provider:
+      name: News & Record
+      domain: greensboro.com
+    quality: 33
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/custom/image/be6ce48e-f2f4-11e6-9c60-8f5f074fddfd.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "MU0k/fj6Ipe+b9xz5v5YtOUJ173Nvo6WW+3DrLbBfsa1B2HOUKXmuuAobfGP3O/32l4vNu8iFwznFlpZbeFZMFwn6XCTRXzZpQfmbnF0dJm26eA6YBMVdNLfRBXUinJBaOg/52QycwNleQ+rVLNL9pNGMnHu7WJmln0al17KnP5HdnmkFvsw5TXH0tMJuDOQD/BOzL/yshJ/kR5LEYEnZRY+jsU3SPFIzW1mwIs776E94NII3CRG8WzC27jrfIwAOplxcBhHtsdbHYgGP/Pdh45lYp8DTfVZXM67JX5n9JrEyCv8fRpzaML2hMOehXQsoRSBCT2PISG3Bvx6+JnOAcCTo2nUnIY8rGohLkqx0GA=;o5LFSu3tHmGrc3TWwDvLUQ=="
 ---

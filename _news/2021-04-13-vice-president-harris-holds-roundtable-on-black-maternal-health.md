@@ -587,19 +587,19 @@ related:
         isCached: true
   - title: "VP Kamala Harris cancels trip to Bay Area for rally to stop Newsom recall"
     excerpt: "Representatives from Newsom’s campaign confirmed the cancellations Thursday, but did not explain whether the explosions that killed at least a dozen U.S. service members and injured at least 15"
-    publishedDateTime: 2021-08-26T19:48:00Z
-    webUrl: "https://www.mercurynews.com/2021/08/26/vp-kamala-harris-cancels-appearance-with-california-gov-newsom-to-fight-recall/"
-    ampWebUrl: "https://www.mercurynews.com/2021/08/26/vp-kamala-harris-cancels-appearance-with-california-gov-newsom-to-fight-recall/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/08/26/vp-kamala-harris-cancels-appearance-with-california-gov-newsom-to-fight-recall/amp/"
+    publishedDateTime: 2021-08-27T15:29:00Z
+    webUrl: "https://www.timesheraldonline.com/2021/08/27/vp-kamala-harris-cancels-appearance-with-california-gov-newsom-to-fight-recall/"
+    ampWebUrl: "https://www.timesheraldonline.com/2021/08/27/vp-kamala-harris-cancels-appearance-with-california-gov-newsom-to-fight-recall/amp/"
+    cdnAmpWebUrl: "https://www-timesheraldonline-com.cdn.ampproject.org/c/s/www.timesheraldonline.com/2021/08/27/vp-kamala-harris-cancels-appearance-with-california-gov-newsom-to-fight-recall/amp/"
     type: article
     provider:
-      name: Mercury News
-      domain: mercurynews.com
+      name: Vallejo Times Herald
+      domain: timesheraldonline.com
     quality: 74
     images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2021/04/AP21095651805111.jpg?w=1024&#038;h=683"
+      - url: "https://www.timesheraldonline.com/wp-content/uploads/2021/08/AP21095651805111.jpg?w=1024&#038;h=682"
         width: 1024
-        height: 683
+        height: 682
         isCached: true
   - title: "Kamala Harris lists Washington D.C. condo for $2M | Raleigh News & Observer"
     excerpt: "Vice President Kamala Harris has been busy. After being sworn into office in January, she’s sold off her one-bedroom, two-bath San Francisco condo and now, her Washington D.C. apartment is availablefor grabs for $1."
@@ -953,6 +953,20 @@ related:
       - url: "https://www.reviewjournal.com/wp-content/themes/rjth2019/images/defaultimage-1200x800.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Kamala Harris heading back to Washington after canceling campaign rally with Gavin Newsom in California"
+    excerpt: "Vice President Kamala Harris's decision to cancel her Friday rally in California with embattled Democratic Gov. Gavin Newsom dealt a setback to Democrats' intensive efforts to spur their voters to vote against the effort to recall the first-term governor."
+    publishedDateTime: 2021-08-27T17:51:00Z
+    webUrl: "https://www.kten.com/story/44610956/kamala-harris-heading-back-to-washington-after-canceling-campaign-rally-with-gavin-newsom-in-california"
+    type: article
+    provider:
+      name: KTEN
+      domain: kten.com
+    quality: 39
+    images:
+      - url: "https://CNNWIRE.images.worldnow.com/images/21279825_G.jpg?lastEditedDate=1630016296000"
+        width: 500
+        height: 333
         isCached: true
 
 secured: "mQ4Yv0DNXhnB5kOKLdfUzko+0ooXAqyC4253kWh8qmypinfZ1B6RWivUcxomf7dIAaPppUV+vDqGeP/NaghBDWSJRbcj81/2wPlnL+SiezhhAcdi6XrvI/e5Ss/aVffFukRThBZlyxTxTSvr/R4W3X60P5Plvz6yoMhZtupL2rBeAyEK/9El1vPtkohUtKeGV6oOfatHkU9v+PgAYMg6gT9qplsoPdZBDC4daVzTFd/ZjwMhTi5E6CbvLbc3h954CRvbbITar1BlAkDyoMnf374ZnLEaIX+KKYRLCTQqKBDDg0S43iqDiOP6VZCrVmw8/zENuRIg2O8hehEU8Y+2PNQf+z4Tz9l1vNPYHnJdQuA=;K08qP4Q7P/FA0GiIozUFew=="

@@ -575,6 +575,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Leave Kamala Harris TF Alone"
+    excerpt: "No offense to Kamala Harris and those who’ve come before her, but there is a reason that the VP job is considered the “most insignificant office.” Harris’s job is not to do anything that would disgrace the office,"
+    publishedDateTime: 2021-08-27T17:00:00Z
+    webUrl: "https://www.theroot.com/leave-kamala-harris-tf-alone-1847571046"
+    ampWebUrl: "https://www.theroot.com/leave-kamala-harris-tf-alone-1847571046/amp"
+    cdnAmpWebUrl: "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/leave-kamala-harris-tf-alone-1847571046/amp"
+    type: article
+    provider:
+      name: The Root
+      domain: theroot.com
+    quality: 75
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/8a40097d474a254a3ac70223179db2de.jpg"
+        width: 800
+        height: 534
+        isCached: true
   - title: "Kamala Harris touts research during first Wisconsin trip as vice president"
     excerpt: "Wisconsin Republicans said Harris' time would have been better spent at the U.S. border dealing with the increase of migrants."
     publishedDateTime: 2021-05-04T19:35:00Z

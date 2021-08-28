@@ -43,21 +43,21 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Biden in the ‘loneliest job,’ a presidency driven by crisis"
-    excerpt: "Surrounded by everything a superpower can offer and watched by all, President Joe Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan and tried to keep the focus on what,"
-    publishedDateTime: 2021-08-28T13:35:00Z
-    webUrl: "https://www.tampabay.com/news/nation-world/2021/08/28/biden-in-the-loneliest-job-a-presidency-driven-by-crisis/"
-    ampWebUrl: "https://www.tampabay.com/news/nation-world/2021/08/28/biden-in-the-loneliest-job-a-presidency-driven-by-crisis/?outputType=amp"
-    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/nation-world/2021/08/28/biden-in-the-loneliest-job-a-presidency-driven-by-crisis/?outputType=amp"
+  - title: "Biden in the 'loneliest job,' a presidency driven by crisis"
+    excerpt: "The need for crisis-driven leadership comes to all presidents. Now, on several fronts at once, it has come to him, and fast."
+    publishedDateTime: 2021-08-28T15:15:00Z
+    webUrl: "https://madison.com/news/national/biden-in-the-loneliest-job-a-presidency-driven-by-crisis/article_e94f8f26-65e9-5795-9310-88d59b244d6c.html"
+    ampWebUrl: "https://madison.com/news/national/biden-in-the-loneliest-job-a-presidency-driven-by-crisis/article_e94f8f26-65e9-5795-9310-88d59b244d6c.amp.html"
+    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/national/biden-in-the-loneliest-job-a-presidency-driven-by-crisis/article_e94f8f26-65e9-5795-9310-88d59b244d6c.amp.html"
     type: article
     provider:
-      name: Tampa Bay Times
-      domain: tampabay.com
+      name: Madison.com
+      domain: madison.com
     quality: 75
     images:
-      - url: "https://www.tampabay.com/resizer/BGlnzW3Y8_irg2s93mF4n0sd9qc=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/BLCDPBEDUBBMVIH3OGO5QSLLHQ.jpg"
-        width: 800
-        height: 450
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/1/99/199c107d-1762-5afb-97b7-a5bb53fd9e3d/612a3e9b92323.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Poll shows most Florida voters disapprove of Joe Biden’s performance"
     excerpt: "A majority of Florida voters disapprove of President Joe Biden’s performance. The Quinnipiac University Poll found 40% of Florida voters approve of Biden’s performance, with 53% disapproving. Views of his COVID-9 response were better."
