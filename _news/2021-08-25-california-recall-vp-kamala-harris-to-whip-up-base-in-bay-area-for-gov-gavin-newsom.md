@@ -2,26 +2,26 @@
 category: news
 title: "California recall: VP Kamala Harris to whip up base in Bay Area for Gov. Gavin Newsom"
 excerpt: "The former California senator and East Bay native is expected at a rally on Friday to whip up the base. But which base will she whip up more?"
-publishedDateTime: 2021-08-25T16:33:00Z
-originalUrl: "https://www.timesheraldonline.com/2021/08/25/california-recall-vp-kamala-harris-to-whip-up-base-in-bay-area-for-gov-gavin-newsom/"
-webUrl: "https://www.timesheraldonline.com/2021/08/25/california-recall-vp-kamala-harris-to-whip-up-base-in-bay-area-for-gov-gavin-newsom/"
-ampWebUrl: "https://www.timesheraldonline.com/2021/08/25/california-recall-vp-kamala-harris-to-whip-up-base-in-bay-area-for-gov-gavin-newsom/amp/"
-cdnAmpWebUrl: "https://www-timesheraldonline-com.cdn.ampproject.org/c/s/www.timesheraldonline.com/2021/08/25/california-recall-vp-kamala-harris-to-whip-up-base-in-bay-area-for-gov-gavin-newsom/amp/"
+publishedDateTime: 2021-08-25T11:55:00Z
+originalUrl: "https://www.mercurynews.com/2021/08/25/california-recall-vp-kamala-harris-to-whip-up-base-in-bay-area-for-gov-gavin-newsom/"
+webUrl: "https://www.mercurynews.com/2021/08/25/california-recall-vp-kamala-harris-to-whip-up-base-in-bay-area-for-gov-gavin-newsom/"
+ampWebUrl: "https://www.mercurynews.com/2021/08/25/california-recall-vp-kamala-harris-to-whip-up-base-in-bay-area-for-gov-gavin-newsom/amp/"
+cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/08/25/california-recall-vp-kamala-harris-to-whip-up-base-in-bay-area-for-gov-gavin-newsom/amp/"
 type: article
 quality: 68
 heat: -1
 published: false
 
 provider:
-  name: Vallejo Times Herald
-  domain: timesheraldonline.com
+  name: Mercury News
+  domain: mercurynews.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.timesheraldonline.com/wp-content/uploads/2021/08/california-governors-race1.jpg?w=1024&#038;h=727"
+  - url: "https://www.mercurynews.com/wp-content/uploads/2018/02/california-governors-race1.jpg?w=1024&#038;h=727"
     width: 1024
     height: 727
     isCached: true
@@ -956,6 +956,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "BEWF/Y01P7i2/KPY7sFX/BI4HIW3SWr4BjWC3HKobWwvA1JI5ICHTUMI5PUQ/e6Sv8FszpTnfsmhcwHHCdQAPnQ61DpjfmKQ+M4w3LuVLTFO9/FLdns4rvReg+i6sNX5TsaLjqWMpFFjdmw81D2xLZccmExU8dJarR3n7ljZ4nknENC50ZJMmPSdT5ZGipMcsqzFBV629Ovhc/1tSHKpHC1c3UgcjVSVIdOehd1hcuI57ml+DQ1LbVAc7wdx1LFMrmHP3fojvk54uoars2UwPBZ3YqYsGMxVsGAESX/pJRwZDR4xG+Brheynoc+zpkNRHe570Ih8gF+Qj6opNNS9byr1fu9AHbAzt3PtpEtFNb89LaJ1eGirjU367YEs2DKxIxG/+PaXLfo2AWEuvUBTWeXxWlsxlzZUuniSAnVXfy2l8MVOSkrgWsdzNl4ZYYiMgQuayCLrKEjS9DIYtjNmrZeeAcjKStLfnf+8hlXEg0MHg745onxzlbZrsfxvrlv+KQy16p9WaAWuHogsC8B4pQ==;DnxnODnhwDwJz2Mz9mcKfA=="
+secured: "BDWrScPMptGLl+l6JcvHidaZiitdwTUyDjz1AFgIxgWH/O6EibsC4atOZurLYuWlvidQLM4/0F0uEiFtsyLX4omcZQrMEyfqQfLnheI2HciaOhp09wH6JMSfmY4zYUIg8viuznBpDDp+2goxrW/k67KWjaJJYdajLJ3gKLo8jD2UWYbo6oraeUmoP5kUhMxhI8l3DFpPgDbG9UmT95KS3lpGPX1UX5CY/S3eeSfi4NWpoCeGadjioEiJBU5VRhCpV+z659vv2dGmt5tg+EMBGnCYZl4Gn2loCIH6cIRoFuMG5sEZy0dQI520PBaWPX4CLUQ35+9UIPL7s2661dt4tDwheIm3oZMGKQPUNurJf/o=;lJqoDxMBc5ale/T/OvIGow=="
 ---
 

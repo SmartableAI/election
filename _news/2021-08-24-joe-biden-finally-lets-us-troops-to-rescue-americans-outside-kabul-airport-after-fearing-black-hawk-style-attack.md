@@ -230,6 +230,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Biden in turmoil as blast in Kabul raises leadership questions"
+    excerpt: "If nothing else, the attacks exemplified the dilemma Biden faced when he was asked by allies to extend the deadline. By leaving, he may be unable to bring every American and thousands of allied Afghans out of the Taliban's clutches."
+    publishedDateTime: 2021-08-28T09:43:00Z
+    webUrl: "https://www.kitv.com/story/44611478/kabul-terrorist-attack-highlights-bidens-afghanistan-dilemma"
+    type: article
+    provider:
+      name: KITV
+      domain: kitv.com
+    quality: 55
+    images:
+      - url: "https://KITV.images.worldnow.com/images/17633324_G.jpg"
+        width: 1707
+        height: 960
+        isCached: true
   - title: "Allies embraced Biden. Did Kabul lay bare \"great illusion\"?"
     excerpt: "Well before U.S. President Joe Biden took office early this year, the European Union's foreign policy chief sang his praises and hailed a new era in cooperation. So did almost all of Washington's Western allies."
     publishedDateTime: 2021-08-22T07:09:00Z

@@ -709,17 +709,17 @@ related:
         isCached: true
   - title: "California recall: VP Kamala Harris to whip up base in Bay Area for Gov. Gavin Newsom"
     excerpt: "The former California senator and East Bay native is expected at a rally on Friday to whip up the base. But which base will she whip up more?"
-    publishedDateTime: 2021-08-25T16:33:00Z
-    webUrl: "https://www.timesheraldonline.com/2021/08/25/california-recall-vp-kamala-harris-to-whip-up-base-in-bay-area-for-gov-gavin-newsom/"
-    ampWebUrl: "https://www.timesheraldonline.com/2021/08/25/california-recall-vp-kamala-harris-to-whip-up-base-in-bay-area-for-gov-gavin-newsom/amp/"
-    cdnAmpWebUrl: "https://www-timesheraldonline-com.cdn.ampproject.org/c/s/www.timesheraldonline.com/2021/08/25/california-recall-vp-kamala-harris-to-whip-up-base-in-bay-area-for-gov-gavin-newsom/amp/"
+    publishedDateTime: 2021-08-25T11:55:00Z
+    webUrl: "https://www.mercurynews.com/2021/08/25/california-recall-vp-kamala-harris-to-whip-up-base-in-bay-area-for-gov-gavin-newsom/"
+    ampWebUrl: "https://www.mercurynews.com/2021/08/25/california-recall-vp-kamala-harris-to-whip-up-base-in-bay-area-for-gov-gavin-newsom/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/08/25/california-recall-vp-kamala-harris-to-whip-up-base-in-bay-area-for-gov-gavin-newsom/amp/"
     type: article
     provider:
-      name: Vallejo Times Herald
-      domain: timesheraldonline.com
+      name: Mercury News
+      domain: mercurynews.com
     quality: 68
     images:
-      - url: "https://www.timesheraldonline.com/wp-content/uploads/2021/08/california-governors-race1.jpg?w=1024&#038;h=727"
+      - url: "https://www.mercurynews.com/wp-content/uploads/2018/02/california-governors-race1.jpg?w=1024&#038;h=727"
         width: 1024
         height: 727
         isCached: true

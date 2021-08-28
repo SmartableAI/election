@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6092540/naftali-bennett-joe-biden/"
 webUrl: "https://time.com/6092540/naftali-bennett-joe-biden/"
 type: article
 quality: 101
-heat: 121
+heat: 141
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Biden, Israeli prime minister focus on Iran"
+    excerpt: "President Joe Biden told Israeli Prime Minister Naftali Bennett on Friday that diplomacy was his first option, but that he would consider other options if his effort to revive the Iran nuclear deal fails."
+    publishedDateTime: 2021-08-28T09:56:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/aug/28/biden-israeli-prime-minister-focus-on-iran/?news"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2021/08/27/2A1Biden0828_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Biden tells Israeli PM he’ll try diplomacy first with Iran"
     excerpt: "Biden made the comments as the two sat down for their first face-to-face meeting since Bennett was sworn-in as prime minister."
     publishedDateTime: 2021-08-27T21:34:00Z

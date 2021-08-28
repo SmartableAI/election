@@ -877,6 +877,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "US Marine fired after slamming Joe Biden in furious rant following Afghanistan catastrophe"
+    excerpt: "A Lieutenant Colonel has been fired after he took to social media to unleash a furious attack on Joe Biden and military leaders blaming them for the deadly withdrawal from Afghanistan."
+    publishedDateTime: 2021-08-28T09:31:00Z
+    webUrl: "https://www.express.co.uk/news/world/1483221/US-marine-video-Stuart-Scheller-Afghanistan-withdrawal-Joe-Biden-Kabul-airport-attack-vn"
+    ampWebUrl: "https://www.express.co.uk/news/world/1483221/US-marine-video-Stuart-Scheller-Afghanistan-withdrawal-Joe-Biden-Kabul-airport-attack-vn/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/world/1483221/US-marine-video-Stuart-Scheller-Afghanistan-withdrawal-Joe-Biden-Kabul-airport-attack-vn/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 65
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/78/590x/1483221_1.jpg?r=1630144550341"
+        width: 590
+        height: 350
+        isCached: true
   - title: "Afghan crisis: US President Joe Biden expected to decide evacuation deadline within 24 hours"
     excerpt: "Biden warned on Sunday that the evacuation was going to be \"hard and painful\" and a lot could still go wrong. US troops might stay beyond Biden's August 31 deadline to oversee the evacuation, he said."
     publishedDateTime: 2021-08-24T03:47:00Z
@@ -1225,6 +1241,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How slow Joe Biden’s bungled facts about Afghanistan & 5-hr delay to speak about Kabul bomb shows presidency in turmoil"
+    excerpt: "JOE Biden’s presidency has been littered with gaffes from the start – from tripping THREE times as he made his way up the steps of Air Force One to forgetting why he ran for President."
+    publishedDateTime: 2021-08-28T00:56:00Z
+    webUrl: "https://www.the-sun.com/news/3555704/joe-bidens-bungled-facts-afghanistan-turmoil/"
+    ampWebUrl: "https://www.the-sun.com/news/3555704/joe-bidens-bungled-facts-afghanistan-turmoil/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3555704/joe-bidens-bungled-facts-afghanistan-turmoil/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 51
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/NA-Biden-worst-offplatform.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Joe Biden Afghanistan crisis: POTUS expects around 50,000 Afghans to be flown out"
     excerpt: "US President Joe Biden continues to face criticism and backlash over the withdrawal of the US from Afghanistan as the Taliban took over. In a recent interview, Biden revealed that he had expected the withdrawal from"
     publishedDateTime: 2021-08-20T06:02:00Z
@@ -1310,6 +1342,20 @@ related:
       - url: "https://www.bizpacreview.com/wp-content/uploads/2021/08/SG-trump-alabama-rally-1200x630.jpeg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Kabul bombings a dark day for Afghanistan and Joe Biden — and a harbinger of worse to come"
+    excerpt: "US President Joe Biden is facing the worst moment of his presidency. Thirteen US troops and at least 60 Afghan civilians have been killed in a suicide bomb attack outside Kabuls main airport, for which Islamic State"
+    publishedDateTime: 2021-08-28T05:30:00Z
+    webUrl: "https://www.econotimes.com/Kabul-bombings-a-dark-day-for-Afghanistan-and-Joe-Biden--and-a-harbinger-of-worse-to-come-1615940"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 45
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/2021082878d354646435ea9c4_th_1024x0.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "Ron DeSantis calls Joe Biden ‘obsessed’ with masking kindergarteners amid Afghanistan crisis"
     excerpt: "Ron DeSantis says President Joe Biden is “obsessed” with masking children with schools after the President leveled another attack admonishment against Republican governors blocking local mask orders."
@@ -1514,6 +1560,6 @@ related:
         height: 380
         isCached: true
 
-secured: "1uOcHWkiaR8BzJMmCGDmie2JZyN3pkx6r2CEusq3yGBhnC+Z6+TjyhLJHNwV7xk9QyiKzgHx/eQfaMzAyhaa1a19UCeFPXUbrLMAHcSEWd+kdE38aT1H/CTtwfTsxbgT40/078CDa1KGe5IP8WcGzMMluAMOZcNd9hoptV6+Zba74czjIo6Gn1/XF0MEd23qpBsIDv0/uSyt6v2SiO5y6kiqWOY0tIg/aixfoaxh4yDqJwWmHA8pHwIZvSQqTr8bGdWyZX7mCnEZJ/3QHMUe3h+unxYGiV1XU+t7t1IZ405fqNgbYFgfHKAV3J1zwTZ7I13N9+f25RIuhUiGMbOCOMzXoizW/4gsqg0XXQAUY6o=;cnB74ogJG8urymLbGrpO2A=="
+secured: "UIgUquzJOAkJYxT86jwbiNXUqisczAZCQy1AGwaPASTKMQ56dNPcUOFjzSCuCg2fq1QUmG/07oMs7ipmtJXUoeniz36PT168AN0PryRX2WeVFlyDvMHbKraBkOAKUJjfpjUC2N7O9eqgh5D6E8pz7PpVPqFn7RZWgr2fz0Q8Zy76MeKVACVjxKWaquiTDGCuxJZ1L69BpFRYnNWnMYL/63nvEO3KqbP+rDo1TOy5RDqKFI2mL8jVt/vrf+VmitqhJgzDYfOf2K/go6nN14PZIKOyTLdw+694N1xY9eTafzmXKwNNb9zD94vrV8woyC20Y7gr0SndwhkAv+N8GKQJ+sbj3BFDUAvIb4LlqXptvYr4jxbiuU1nrr/63MIxP/uCcVPRstkh0vAiqlqpjn6CYCFg/BxhVq1RTDK621gc8/4B/3E0TDtdnBMVeQPAQ0fDxUMzj9kW2Ug8bjmbZalTHfrvhV2vINNxYwzi8NvAbrR9s1RM0BDuxwg2r4zmcLLsyNQsQl2mJuS47h2kM0F1sQ==;3OoarpL0YiZh+ErxRT+XPA=="
 ---
 

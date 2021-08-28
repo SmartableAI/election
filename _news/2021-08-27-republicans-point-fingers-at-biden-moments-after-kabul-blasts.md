@@ -214,6 +214,20 @@ related:
       name: The Herald SC
       domain: heraldonline.com
     quality: 55
+  - title: "Biden in turmoil as blast in Kabul raises leadership questions"
+    excerpt: "If nothing else, the attacks exemplified the dilemma Biden faced when he was asked by allies to extend the deadline. By leaving, he may be unable to bring every American and thousands of allied Afghans out of the Taliban's clutches."
+    publishedDateTime: 2021-08-28T09:43:00Z
+    webUrl: "https://www.kitv.com/story/44611478/kabul-terrorist-attack-highlights-bidens-afghanistan-dilemma"
+    type: article
+    provider:
+      name: KITV
+      domain: kitv.com
+    quality: 55
+    images:
+      - url: "https://KITV.images.worldnow.com/images/17633324_G.jpg"
+        width: 1707
+        height: 960
+        isCached: true
   - title: "Joe Biden FINALLY lets US troops to rescue Americans outside Kabul airport after fearing ‘black hawk-style attack’"
     excerpt: "JOE Biden finally allowed US soldiers to rescue stranded Americans outside Kabul airport as he feared another “Black Hawk Down” tragedy. The president discussed the attack on a conference call"
     publishedDateTime: 2021-08-24T09:13:00Z

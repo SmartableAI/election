@@ -43,6 +43,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Joe Biden’s future looks bleak – he’s shamed and endangered the West"
+    excerpt: "A broken man THE charge sheet against Joe Biden grows by the day. It’s not just that his reckless, casual disregard for Afghanistan and its ­people led directly to the suicide bomb slaughter of 13"
+    publishedDateTime: 2021-08-28T01:58:00Z
+    webUrl: "https://www.the-sun.com/news/3555473/joe-biden-shamed-endangered-west/"
+    ampWebUrl: "https://www.the-sun.com/news/3555473/joe-biden-shamed-endangered-west/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3555473/joe-biden-shamed-endangered-west/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 75
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/NINTCHDBPICT000675572319-1-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Tom Rice, other politicians seek President Joe Biden’s ouster | Charlotte Observer"
     excerpt: "Another local politician called on Biden to appoint former President Donald Trump to a position where he could oversee the rest of America’s withdrawal from Afghanistan. South Carolina Congressman Tom Rice (R-Myrtle Beach) called on President Joe Biden to resign over his “haphazard withdrawal” from Afghanistan that he blamed for the terrorist attack in Kabul."
     publishedDateTime: 2021-08-27T04:54:00Z
