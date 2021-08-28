@@ -239,6 +239,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Joe Biden close to backing G20 peace talks on Afghanistan, says Italian PM"
+    excerpt: "Some in US administration see risks in seeking support of Russia or China to counter a potential terrorist threat"
+    publishedDateTime: 2021-08-25T17:59:00Z
+    webUrl: "https://www.theguardian.com/uk-news/2021/aug/25/joe-biden-close-to-supporting-afghanistan-peace-talks-says-g20-chair"
+    ampWebUrl: "https://amp.theguardian.com/uk-news/2021/aug/25/joe-biden-close-to-supporting-afghanistan-peace-talks-says-g20-chair"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2021/aug/25/joe-biden-close-to-supporting-afghanistan-peace-talks-says-g20-chair"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/11f10cde9a98b5e24c52b8c61bd748f6559b25cc/0_220_5070_3042/master/5070.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=92a16bc7d891ff59143a3069b3d33073"
+        width: 600
+        height: 360
+        isCached: true
   - title: "First Thing: Joe Biden’s approval rating dips amid Afghanistan and Covid crises"
     excerpt: "President called upon to extend 31 August deadline to complete evacuations from Afghanistan"
     publishedDateTime: 2021-08-24T09:58:00Z

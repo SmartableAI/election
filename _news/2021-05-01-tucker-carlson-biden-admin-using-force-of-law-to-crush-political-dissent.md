@@ -1670,6 +1670,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "The Darkest Day of Joe Biden's Presidency"
+    excerpt: "A frantic, somber day in the West Wing as attacks in Kabul resulted in the death of at least 12 U.S. service members. Read Full Article »"
+    publishedDateTime: 2021-08-27T11:16:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/08/27/the_darkest_day_of_joe_bidens_presidency_550370.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/55/552101_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "President Biden: Private Sector Can't Meet Challenges Of Climate Change \"Alone\""
     excerpt: "President Biden told Thursday's virtual global climate summit that \"time is short\" for the U.S. to address climate change. He announced that the U.S. will cut its carbon emissions \"in half\" over the next decade."
     publishedDateTime: 2021-04-22T19:38:00Z

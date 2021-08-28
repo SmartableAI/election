@@ -1,24 +1,34 @@
 ---
 category: news
-title: "Biden to address nation on chaos in Afghanistan"
-excerpt: "President Joe Biden is returning to the White House Monday to address the nation on the U.S. evacuation from Afghanistan."
-publishedDateTime: 2021-08-16T15:48:00Z
-originalUrl: "https://www.newsobserver.com/news/politics-government/national-politics/article253516929.html"
-webUrl: "https://www.newsobserver.com/news/politics-government/national-politics/article253516929.html"
-ampWebUrl: "https://amp.newsobserver.com/news/politics-government/national-politics/article253516929.html"
-cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/national-politics/article253516929.html"
+title: "Joe Biden close to backing G20 peace talks on Afghanistan, says Italian PM"
+excerpt: "Some in US administration see risks in seeking support of Russia or China to counter a potential terrorist threat"
+publishedDateTime: 2021-08-25T17:59:00Z
+originalUrl: "https://www.theguardian.com/uk-news/2021/aug/25/joe-biden-close-to-supporting-afghanistan-peace-talks-says-g20-chair"
+webUrl: "https://www.theguardian.com/uk-news/2021/aug/25/joe-biden-close-to-supporting-afghanistan-peace-talks-says-g20-chair"
+ampWebUrl: "https://amp.theguardian.com/uk-news/2021/aug/25/joe-biden-close-to-supporting-afghanistan-peace-talks-says-g20-chair"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2021/aug/25/joe-biden-close-to-supporting-afghanistan-peace-talks-says-g20-chair"
 type: article
-quality: 55
+quality: 123
 heat: -1
 published: false
 
 provider:
-  name: Raleigh News & Observer
-  domain: newsobserver.com
+  name: The Guardian
+  domain: theguardian.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://i.guim.co.uk/img/media/11f10cde9a98b5e24c52b8c61bd748f6559b25cc/0_220_5070_3042/master/5070.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=92a16bc7d891ff59143a3069b3d33073"
+    width: 600
+    height: 360
+    isCached: true
 
 related:
   - title: "Trump claims Biden's Afghanistan evacuation could be bringing 'terrorists' to America"
@@ -228,22 +238,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/bgDThxNzBx4w99MDuFgMWwhix3E=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JV7YK2PX6CWK7ZFUQJLAJN5SZA.aspx"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Joe Biden close to backing G20 peace talks on Afghanistan, says Italian PM"
-    excerpt: "Some in US administration see risks in seeking support of Russia or China to counter a potential terrorist threat"
-    publishedDateTime: 2021-08-25T17:59:00Z
-    webUrl: "https://www.theguardian.com/uk-news/2021/aug/25/joe-biden-close-to-supporting-afghanistan-peace-talks-says-g20-chair"
-    ampWebUrl: "https://amp.theguardian.com/uk-news/2021/aug/25/joe-biden-close-to-supporting-afghanistan-peace-talks-says-g20-chair"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2021/aug/25/joe-biden-close-to-supporting-afghanistan-peace-talks-says-g20-chair"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 123
-    images:
-      - url: "https://i.guim.co.uk/img/media/11f10cde9a98b5e24c52b8c61bd748f6559b25cc/0_220_5070_3042/master/5070.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=92a16bc7d891ff59143a3069b3d33073"
-        width: 600
-        height: 360
         isCached: true
   - title: "First Thing: Joe Biden’s approval rating dips amid Afghanistan and Covid crises"
     excerpt: "President called upon to extend 31 August deadline to complete evacuations from Afghanistan"
@@ -953,6 +947,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden to address nation on chaos in Afghanistan"
+    excerpt: "President Joe Biden is returning to the White House Monday to address the nation on the U.S. evacuation from Afghanistan."
+    publishedDateTime: 2021-08-16T15:48:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/national-politics/article253516929.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/national-politics/article253516929.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/national-politics/article253516929.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 55
   - title: "Kamala Harris defends decision to withdraw from Afghanistan"
     excerpt: "The recent chaos that occurred in Afghanistans capital of Kabul comes in the heels of the insurgent group Talibans advancing and overthrowing of the Afghan government. As US President Joe Biden and his administration"
     publishedDateTime: 2021-08-18T08:40:00Z
@@ -1513,6 +1518,6 @@ related:
         height: 380
         isCached: true
 
-secured: "kvywsHGB2B7OWetNAMxuY7r1S1HWoeb3IoNBgi62Itoay+4hPWamXl/z2RZDUOuMfu2WMzgkvzPeGVmdHyPAsI2VrOW8aflNk9muAnpyp9+f6vN9qS30EJcCz/M9Gh9JKe77kJd3m48Csn+0GtoNec7r1pKye8gR1gTKRhsD0AereBMb0Ro5BEep0Vox+4skrq3nCMnHTzDneWjDKDqPnQUheZDsDsFY/ANP+4Ldvtnpkc3pu8SO9rAdhO7nKM/yQtsK42dtXRV/09MOKWyxiPhp1DJzSoF9P13oraT8hrMhEYv2n2sNGG4qWDuFPg0vfobwVIQwbj09kV7RBOiBq/n+CgR32gvHqM0z/jT80JFIbcbfFyUvMh59JzblW03qgVE2TRFzlrcfGw4h2CL/N0FPwgENZ8JJlQ07xmAWMTafY0di4VR07+Ymeuk+FujeK+9XbEGhlWhAWN3Yne0pCUQCR65jWHLUEsOZ87hXToTa/RThgUd+JdF98YpIC1awwYhItqhnhZjdyQslm0STtg==;PBmHFGMljcaq8OQ+N8P1PQ=="
+secured: "c2tkHxR+4BB7Yzt0k+od1gW1BIj23qjNpLCrIwOY8mc4hCJAEJK9U/8FvBRdNytYwSFmDG+J5neAWG86JMpu4fXDHKJBRPoUZ7B12JOUjhyj6d4FE/BaTCHQoCDrjMYAG9I/USWkbNJKZFU2xgPEZ+wAMBwOSPIkT/m0EOEEyDXXXjDDwpxgMOjsbIGGmaY8IafkCT3JrLnDCLheZFydtUmP0Kj/pTcaNinFRs8RLHd3llOszGn2BfaNuyW/qZiLkYrgbRIwhBGa8VEbl6VwQ44ctp4LDSUDg8DQaFvIVdzxpIHWgClmE9mOWWKIJ4Gn+dNXtjBvrYj0KJhKx+rmUO2v2TDW5l1uhyJNwLl1YCA=;4DIVLtqmwgOvKtWpSfhVGw=="
 ---
 

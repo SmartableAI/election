@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-expected-to-target-biden-as-h
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-expected-to-target-biden-as-he-makes-his-first-post-vice-presidency-speech.amp"
 type: article
 quality: 200
-heat: 2320
+heat: 2340
 published: true
 
 provider:
@@ -1657,6 +1657,20 @@ related:
     quality: 65
     images:
       - url: "https://assets.realclear.com/images/54/548678_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "The Darkest Day of Joe Biden's Presidency"
+    excerpt: "A frantic, somber day in the West Wing as attacks in Kabul resulted in the death of at least 12 U.S. service members. Read Full Article »"
+    publishedDateTime: 2021-08-27T11:16:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/08/27/the_darkest_day_of_joe_bidens_presidency_550370.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/55/552101_5_.jpg"
         width: 750
         height: 500
         isCached: true

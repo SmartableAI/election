@@ -1,33 +1,28 @@
 ---
 category: news
-title: "Biden administration to train Guatemalan border officials to try to stem migrant surge"
-excerpt: "The Biden administration has agreed to train members of a Guatemalan task force so it can protect its borders from a migrant surge -- as part of what Vice President Kamala Harris is describing as a \"comprehensive approach\" to the crisis from countries south of the border."
-publishedDateTime: 2021-04-27T23:14:21Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3ijPF6FpL7Q/biden-guatemalan-border-officials-border-crisis"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3ijPF6FpL7Q/biden-guatemalan-border-officials-border-crisis"
-ampWebUrl: "https://www.foxnews.com/politics/biden-guatemalan-border-officials-border-crisis.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-guatemalan-border-officials-border-crisis.amp"
+title: "The Darkest Day of Joe Biden's Presidency"
+excerpt: "A frantic, somber day in the West Wing as attacks in Kabul resulted in the death of at least 12 U.S. service members. Read Full Article »"
+publishedDateTime: 2021-08-27T11:16:00Z
+originalUrl: "https://www.realclearpolitics.com/2021/08/27/the_darkest_day_of_joe_bidens_presidency_550370.html"
+webUrl: "https://www.realclearpolitics.com/2021/08/27/the_darkest_day_of_joe_bidens_presidency_550370.html"
 type: article
-quality: 167
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fbf844e7-da00-4269-b859-827c56602764/5d922b54-0023-4170-ae81-95b2cc76f88b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://assets.realclear.com/images/55/552101_5_.jpg"
+    width: 750
+    height: 500
     isCached: true
 
 related:
@@ -927,6 +922,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden administration to train Guatemalan border officials to try to stem migrant surge"
+    excerpt: "The Biden administration has agreed to train members of a Guatemalan task force so it can protect its borders from a migrant surge -- as part of what Vice President Kamala Harris is describing as a \"comprehensive approach\" to the crisis from countries south of the border."
+    publishedDateTime: 2021-04-27T23:14:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3ijPF6FpL7Q/biden-guatemalan-border-officials-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-guatemalan-border-officials-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-guatemalan-border-officials-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fbf844e7-da00-4269-b859-827c56602764/5d922b54-0023-4170-ae81-95b2cc76f88b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "LIVE UPDATES: Lawmakers to skip Biden's first joint address to Congress Wednesday night"
     excerpt: "President Joe Biden is scheduled to give his first joint address to Congress Wednesday night, however, lawmakers may be skipping the limited event. "
     publishedDateTime: 2021-04-28T04:00:53Z
@@ -1659,20 +1670,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "The Darkest Day of Joe Biden's Presidency"
-    excerpt: "A frantic, somber day in the West Wing as attacks in Kabul resulted in the death of at least 12 U.S. service members. Read Full Article »"
-    publishedDateTime: 2021-08-27T11:16:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/08/27/the_darkest_day_of_joe_bidens_presidency_550370.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/55/552101_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Tucker Carlson: Biden Admin Using Force Of Law To Crush Political Dissent"
     excerpt: "Tucker Carlson analyzes why federal agents raided Rudy Giuliani's home. TUCKER CARLSON: Today, Joe Biden gave his first address to a joint session of congress. The speech amounted to a mushy casserole of cliches designed to calm your suspicions that anything weird or scary might be going on and to reassure you that everything's going to be just fine,"
     publishedDateTime: 2021-05-01T00:43:00Z
@@ -1711,6 +1708,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "wi8x7qtwc4A1A2ASZmZaT7t+MnDsLXMHVS6Sajgx5Rw3w3FrhRyJOjVQy+ZlJbdDKTVWCtK5JkS2cMFLsuH+6IXsL2/l/sbFXsUjDOXU4ISDKBcTtriuaoewnUQ56h8gva5q8wk44kxOf3Sb+i+VvBo4GU251Z3fakZlG15kPLjvx0JhD3VGNtJUXZwJXDUxVr9wbgmQgMgzD6OVajpnBTCGlssM9GgM2CytGTkEWmvGVcxSn7P71GwonUKSoTO/GyHjhhEH3RIIxgXq65wj0xIGnKcyUEuY/MpWxSUm7bSft/ym/AHC8DNC2w6lT/Mq1Dxl/t8dCgDjkDhG7rENT9PdUEbG0TpHiYhXCgFWSxs=;z/nI/NZ4epX6A/ajK9bboA=="
+secured: "bRz5L6a5Ai21spnzWkxG4ZCIVDj8nv75k2d5Mxy0z8ayGkX0k1Z8+UBYxGABZ9XwkhTO/45zKozm1y8eT3E0Xf43OqJO8VRnbJLCYrgV4rFgSGn7X4ZS3huyl/ga2Y1CdCCQ3Puhy5KMPzEwFx9EgxJ+lkhsSwgQtpzIfru8LE98WumeEUK9DfD9pjD7a7nVcoUj7osVPc9CftxkO9dfDTbYtqzTMOAw/+jbOxioBH4QxsRKhlwnZj06bzKkLkSy53Npv5Vn52AyGjeISFNPismQzYTMdaZCHW1YmT++LGI81iCyvg7HrMIneKlU1xhW3F7OH6sVXWuK8xXw48Vne1927ufBlRfxmYGVyk/35E4=;pWRS9dR3sBDNCcQEDZS0Qw=="
 ---
 
