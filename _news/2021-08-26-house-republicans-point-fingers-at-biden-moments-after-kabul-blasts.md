@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/26/politics/republicans-kabul-biden/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/26/politics/republicans-kabul-biden/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210821080912-01-joe-biden-08-20-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden is warned 'another terror attack in Kabul is likely' as mission enters 'most dangerous period'"
+    excerpt: "President Joe Biden plans to contact the families of the 13 US service members who were killed in Thursday's suicide attacks outside of Kabul's international airport, according to a senior White House official.\n    \n"
+    publishedDateTime: 2021-08-28T01:28:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/60HKigiPO8M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/27/politics/biden-us-service-members-kabul/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/27/politics/biden-us-service-members-kabul/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210825060832-biden-washington-afghanistan-0824-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden announces pay raise plan for federal employees"
+    excerpt: "President Joe Biden on Friday formally announced his plan to raise the wages of federal workers, saying civilian federal employees will see an overall average increase of 2.7% in 2022.\n    \n"
+    publishedDateTime: 2021-08-28T00:13:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L4zifYVFFNQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/27/politics/joe-biden-federal-employees-pay-increase/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/27/politics/joe-biden-federal-employees-pay-increase/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704190844-white-house-exterior-0703-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says health officials exploring whether to move up booster interval"
     excerpt: "President Joe Biden said Friday that his administration was looking into whether to shorten the window of the planned Covid-19 booster shot program, something he discussed with Israel Prime Minister Naftali Bennett during a visit at the White House.\n    \n"
     publishedDateTime: 2021-08-27T17:37:30Z

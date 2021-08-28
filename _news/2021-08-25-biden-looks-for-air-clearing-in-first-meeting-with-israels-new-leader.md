@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/25/politics/biden-bennett-israel/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/25/politics/biden-bennett-israel/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210826172926-02-biden-afghanistan-bombings-0826-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden announces pay raise plan for federal employees"
+    excerpt: "President Joe Biden on Friday formally announced his plan to raise the wages of federal workers, saying civilian federal employees will see an overall average increase of 2.7% in 2022.\n    \n"
+    publishedDateTime: 2021-08-28T00:13:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L4zifYVFFNQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/27/politics/joe-biden-federal-employees-pay-increase/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/27/politics/joe-biden-federal-employees-pay-increase/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704190844-white-house-exterior-0703-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

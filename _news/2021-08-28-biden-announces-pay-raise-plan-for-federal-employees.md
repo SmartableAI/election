@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden says health officials exploring whether to move up booster interval"
-excerpt: "President Joe Biden said Friday that his administration was looking into whether to shorten the window of the planned Covid-19 booster shot program, something he discussed with Israel Prime Minister Naftali Bennett during a visit at the White House.\n    \n"
-publishedDateTime: 2021-08-27T17:37:30Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MOiXmFY9XfE/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MOiXmFY9XfE/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/08/27/politics/booster-shot-interval-biden/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/27/politics/booster-shot-interval-biden/index.html"
+title: "Biden announces pay raise plan for federal employees"
+excerpt: "President Joe Biden on Friday formally announced his plan to raise the wages of federal workers, saying civilian federal employees will see an overall average increase of 2.7% in 2022.\n    \n"
+publishedDateTime: 2021-08-28T00:13:35Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L4zifYVFFNQ/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L4zifYVFFNQ/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/08/27/politics/joe-biden-federal-employees-pay-increase/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/27/politics/joe-biden-federal-employees-pay-increase/index.html"
 type: article
-quality: 174
+quality: 175
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210827125545-02-biden-0827-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704190844-white-house-exterior-0703-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -63,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden announces pay raise plan for federal employees"
-    excerpt: "President Joe Biden on Friday formally announced his plan to raise the wages of federal workers, saying civilian federal employees will see an overall average increase of 2.7% in 2022.\n    \n"
-    publishedDateTime: 2021-08-28T00:13:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L4zifYVFFNQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/27/politics/joe-biden-federal-employees-pay-increase/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/27/politics/joe-biden-federal-employees-pay-increase/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704190844-white-house-exterior-0703-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden meets with new Israeli prime minister: 'We've become close friends'"
     excerpt: "When Israel's prime minister visited the White House on Thursday, for the first time in 12 years it was someone other than Benjamin Netanyahu.\n    \n"
     publishedDateTime: 2021-08-27T18:16:03Z
@@ -92,6 +76,22 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210827123449-biden-israel-pm-bennett-0827-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden says health officials exploring whether to move up booster interval"
+    excerpt: "President Joe Biden said Friday that his administration was looking into whether to shorten the window of the planned Covid-19 booster shot program, something he discussed with Israel Prime Minister Naftali Bennett during a visit at the White House.\n    \n"
+    publishedDateTime: 2021-08-27T17:37:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MOiXmFY9XfE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/27/politics/booster-shot-interval-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/27/politics/booster-shot-interval-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210827125545-02-biden-0827-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -128,6 +128,6 @@ related:
         height: 619
         isCached: true
 
-secured: "l2EqNbJRuLRHbT4BVMoESJeHmhlHl5/oxlrL2qx+47qsXJG0cmB1jeoJIZytLgqGEwe+n4Upb+ZMkkL8/xhwKgvUGFau0jVMF9gsMJ6NCg/12cz3v7dID7qV4w5WCdP7oPt+TE96USk3Jl0VsfnYNOgKxzAWugCbI94ODGOg7ZAFuwNhxdUbQGvroMJMTENIkbUQLYxo6XNcIvXmutGN6UpMiWiMGnDUzdBL9a7hQHcZ/zrmSsh7tantgZO+sNfvU8JqwbXpVx9V1shCrB3VhzlQCEQ20bh3xzYZMUA0AD6EqMTAwQuc/lIWfWY+asOUF5cMwLpLx8BeUEoRJYoRf8cOIBRp533yWj2vKPo9GQc=;LXLNUplEeC8YKFIGSHhVEg=="
+secured: "R1FqvAiyvc/Q7xQmpt9ChZfYgnDt7wlg6PelDcVkmgGkVabHbDryaTJaIPE+DOLf+7w47EXIhVOsYbKyZ+OSMMPnRORopOAHS9GQvHuWANJnq8ATDiXEw+aBJYJos2ZKc9z5AxBA4f23OsJpAmsTrmWywWZbLANj4ZllUSo4UOrIOXcbevU5PSWGTBR4osgm4svfSx6oip5yFDI97jxVfgEzSYcEnt0eBszOz0OY9tNaENG2CG5AtW6FUsJlm9Ky/bOS45maYz3wBFcNj949SUgV1FAWx5XEOhIvckH14kw1kqzupqTWDh53KN/adgVINH6t4dyMM4TMhiMAW/kg4McG/l1W94ox1NXt1Ads8xg=;6FPO/hm68n1FJcxtMnnaaw=="
 ---
 

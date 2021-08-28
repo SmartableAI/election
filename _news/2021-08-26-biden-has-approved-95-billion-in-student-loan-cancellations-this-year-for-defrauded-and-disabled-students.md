@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden is warned 'another terror attack in Kabul is likely' as mission enters 'most dangerous period'"
+    excerpt: "President Joe Biden plans to contact the families of the 13 US service members who were killed in Thursday's suicide attacks outside of Kabul's international airport, according to a senior White House official.\n    \n"
+    publishedDateTime: 2021-08-28T01:28:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/60HKigiPO8M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/27/politics/biden-us-service-members-kabul/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/27/politics/biden-us-service-members-kabul/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210825060832-biden-washington-afghanistan-0824-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "FnKtMZ+bgZuszcy/rdZFMZEq2EeYVKFc+T3BlDGV2G8Br9hGgDrWpRwOj+8U7mAPjpG4V9gr3t5MS/2eUYg6hyByEMjVkLCLdqNFtIw0mnvot3SCdcI+X403/xC6Ff/GCPI/lr3EEBpi6PCl5tHrgoaCQkQJx0G4xknOxa94uM1to4V9lVxjgasIzE0vOevK+GZfUQd/7hCycPd4As4rTVRncNT6pNVEGBPgmxYaiqgdyZWNLVYuXauRZmqg1KxCnkvUHMQ8zPHG7TZKvL6T8O5IV5uMwwJHK1Oyw+0R8FxUEwk50FetwmaUXwGnJAm27SUvnVpuGCEZziULen2pVpFL8uZYGb90ImwWHpfZ4Jc=;PW6CFhpDBxUceWG37Bupqg=="
 ---

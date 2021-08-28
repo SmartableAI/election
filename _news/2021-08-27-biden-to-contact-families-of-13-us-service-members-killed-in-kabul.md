@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden is warned 'another terror attack in Kabul is likely' as mission enters 'most dangerous period'"
+    excerpt: "President Joe Biden plans to contact the families of the 13 US service members who were killed in Thursday's suicide attacks outside of Kabul's international airport, according to a senior White House official.\n    \n"
+    publishedDateTime: 2021-08-28T01:28:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/60HKigiPO8M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/27/politics/biden-us-service-members-kabul/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/27/politics/biden-us-service-members-kabul/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210825060832-biden-washington-afghanistan-0824-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden has approved $9.5 billion in student loan cancellations this year for defrauded and disabled students"
     excerpt: "The Department of Education said Thursday that it will cancel $1.1 billion in student loan debt for some students who attended the now-defunct for-profit ITT Technical Institute -- bringing the total amount of loan discharges approved under President Joe Biden to $9.5 billion.\n    \n"
     publishedDateTime: 2021-08-26T20:19:50Z

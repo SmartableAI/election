@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden to Kabul attackers: 'We will hunt you down and make you pay'"
-excerpt: "Terrorist explosions outside Kabul's international airport on Thursday that wounded Americans came after days of public and private warnings from President Joe Biden of a potential attack that could disrupt the massive airlift effort underway there.\n    \n"
-publishedDateTime: 2021-08-27T00:12:19Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3LOTC5LMpLQ/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3LOTC5LMpLQ/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/08/26/politics/biden-kabul-attack/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/26/politics/biden-kabul-attack/index.html"
+title: "Biden is warned 'another terror attack in Kabul is likely' as mission enters 'most dangerous period'"
+excerpt: "President Joe Biden plans to contact the families of the 13 US service members who were killed in Thursday's suicide attacks outside of Kabul's international airport, according to a senior White House official.\n    \n"
+publishedDateTime: 2021-08-28T01:28:44Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/60HKigiPO8M/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/60HKigiPO8M/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/08/27/politics/biden-us-service-members-kabul/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/27/politics/biden-us-service-members-kabul/index.html"
 type: article
-quality: 175
+quality: 160
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210826172926-02-biden-afghanistan-bombings-0826-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210825060832-biden-washington-afghanistan-0824-file-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to Kabul attackers: 'We will hunt you down and make you pay'"
+    excerpt: "Terrorist explosions outside Kabul's international airport on Thursday that wounded Americans came after days of public and private warnings from President Joe Biden of a potential attack that could disrupt the massive airlift effort underway there.\n    \n"
+    publishedDateTime: 2021-08-27T00:12:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3LOTC5LMpLQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/26/politics/biden-kabul-attack/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/26/politics/biden-kabul-attack/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210826172926-02-biden-afghanistan-bombings-0826-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden braces for fallout as his dire warnings of a Kabul terror attack come true"
     excerpt: "Terrorist explosions outside Kabul's international airport on Thursday that wounded Americans came after days of public and private warnings from President Joe Biden of a potential attack that could disrupt the massive airlift effort underway there.\n    \n"
     publishedDateTime: 2021-08-26T17:21:12Z
@@ -76,22 +92,6 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210821080912-01-joe-biden-08-20-2021-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden is warned 'another terror attack in Kabul is likely' as mission enters 'most dangerous period'"
-    excerpt: "President Joe Biden plans to contact the families of the 13 US service members who were killed in Thursday's suicide attacks outside of Kabul's international airport, according to a senior White House official.\n    \n"
-    publishedDateTime: 2021-08-28T01:28:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/60HKigiPO8M/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/27/politics/biden-us-service-members-kabul/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/27/politics/biden-us-service-members-kabul/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 160
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210825060832-biden-washington-afghanistan-0824-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -112,6 +112,6 @@ related:
         height: 619
         isCached: true
 
-secured: "RQOMrUPZWsPJGpU1K1sKHazmxymCglQ8fwWpZga2TzRmuNEct7BOwonEt+TltPv5Yf8cgOs2h14jQi1fkGNrEfFIe9tzajeN5rxpqdIW+LJcQn0IHnQJYt32hRBITL4OyQZqc8nvd9u4g3E7sNiwZzNzbFRTzMcKrY4zFYrFKDNBod4r1fLz4eSX+jf/Gobqwat4MWmpuZcvm01NTLU2RkxTrw6vC2DrI8nKRla22caEpFezQgskbk5sDmDN1g4asPhN2WQpXMLgtH6wQt5YT+a2QFLWjM5asKX4YLzoMTw81+NGGomm6EvNjmbXyltppqMS+uWxrEUhKauWr7PNfWsPsSRLQkJHqJLEf/GUo3s=;T1uPx5n4Qe/QSWQmCPXBuA=="
+secured: "JbEhQ3qJxqbu2iuEC1nX6N8khvcBi5gxt9o/J8dJJ0jU7d+B+lKmMEk8b6E1npAn2A0z792aelMpsWoGGUonFYEP+PiQ0IoDXEhebYBFOCH4ST7/MvGKvZ+NJDiNI4AnfFPdf+rGieG6+ZPzUSOdSnLBOAaFpaeHERQQ5KDYBjdNXL+XW90EAmjm5Uwk0pTmj4wDZoeqdDxN7iFvYyOSWaJtJnconqpBQgFZnXVawFYyuTBM8hkGLUUyrlQERZYK5KujgLEoOlTXI47UlkjqdrATPbGwmDbYEwVUsUpCRkHxxzWAkN1uXADwRwyeTIzwTaO6IFuJ9fk+c4IEuCrsasMiCN9zn6uYAxXkQHUOjMM=;2Vc1wuA0yGHIpPXJ3TYoIA=="
 ---
 
