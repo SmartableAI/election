@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Beto-O-Rourke-pu
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Beto-O-Rourke-pushes-Joe-Biden-to-help-pass-16411342.php"
 type: article
 quality: 125
-heat: 345
+heat: 385
 published: true
 
 provider:
@@ -169,6 +169,20 @@ related:
         width: 480
         height: 299
         isCached: true
+  - title: "President Biden FEMA Briefing on Hurricane IDA"
+    excerpt: "President Joe Biden delivers remarks in the White House South Court Auditorium while being briefed on the ongoing preparations for Hurricane Ida by FEMA Administrator Deanne Criswell virtually from the FEMA National Response Coordination Center on Saturday,"
+    publishedDateTime: 2021-08-28T19:21:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/ed6f0bf9a834153f35f58328cdc0147f/President-Biden-FEMA-Briefing-on-Hurricane-IDA/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/ed6f0bf9a834153f35f58328cdc0147f/BIDEN-WEATHER.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Joe Biden spoke to the G7 a sum total of 7 minutes. Pure propaganda, photo-op."
     excerpt: "Joe Biden acted like his G7 meeting was a success, but in reality it left every other world leader feeling disappointed in America."
     publishedDateTime: 2021-08-25T12:49:00Z
@@ -194,6 +208,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "Biden Promises Further Strikes Against ISIS-K"
+    excerpt: "We will continue to hunt down any person involved in that heinous attack and make them pay,\" Biden said in a statement. \"Our commanders informed me that an attack is highly likely in the next 24-36 hours."
+    publishedDateTime: 2021-08-28T19:28:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-08-28/biden-promises-further-strikes-against-isis-k"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "N4C7qPQa6BDiFOtuUPTAY5s241mEBEaGX22H2GufwS+OHMVcNOzetTbFvu/RIkmvnkfD4AVy+t2ZuH5HKR8AV5FP3sTcHb1GfHigMeQ0WYZPhaaEY/CIGzLfb54yDFBaZfUfSubyyEahL5t6pvGxlQ5yW/crcsqmzODxJz3v1cyNhA2Xki1YIZUROC4j1N9hjtZJgm4AlOSUdBH6XvM3EEWT+fy5oxQza+IYdwyDX7N8Q2k1vLJ24oiMIiKg5Aw7XawmV0/y9QzyyVxnJhwQ0afrO+R0NoH9N16ZxehpKwhcw+zZqklzpBz5qfWWd5rbi2x6NlRGZDNallgJKGSZM9gjC+MH0NFxymhq7R9pcRyirHN0N/39yId8gxueCiRJao6OIgoSPNDAz6o/Rhfpd78kBEwARJn1powGZb5y+T7p7DnXnHyZzaruRGHLCSqgc71YRLAejhigf8dr7bHtlBKsUDYPbWoU4JzmBjAZOM+B3b6KjcZFq6K2nRjN/HLRcrtRWKjufoZpSpMYuemfjw==;fLemuXfm4tEE1t0/HNx9fQ=="
 ---

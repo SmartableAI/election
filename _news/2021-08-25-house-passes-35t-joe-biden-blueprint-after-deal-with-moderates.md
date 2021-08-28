@@ -165,6 +165,20 @@ related:
         width: 480
         height: 299
         isCached: true
+  - title: "President Biden FEMA Briefing on Hurricane IDA"
+    excerpt: "President Joe Biden delivers remarks in the White House South Court Auditorium while being briefed on the ongoing preparations for Hurricane Ida by FEMA Administrator Deanne Criswell virtually from the FEMA National Response Coordination Center on Saturday,"
+    publishedDateTime: 2021-08-28T19:21:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/ed6f0bf9a834153f35f58328cdc0147f/President-Biden-FEMA-Briefing-on-Hurricane-IDA/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/ed6f0bf9a834153f35f58328cdc0147f/BIDEN-WEATHER.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Joe Biden spoke to the G7 a sum total of 7 minutes. Pure propaganda, photo-op."
     excerpt: "Joe Biden acted like his G7 meeting was a success, but in reality it left every other world leader feeling disappointed in America."
     publishedDateTime: 2021-08-25T12:49:00Z
@@ -190,6 +204,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "Biden Promises Further Strikes Against ISIS-K"
+    excerpt: "We will continue to hunt down any person involved in that heinous attack and make them pay,\" Biden said in a statement. \"Our commanders informed me that an attack is highly likely in the next 24-36 hours."
+    publishedDateTime: 2021-08-28T19:28:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-08-28/biden-promises-further-strikes-against-isis-k"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "MXYpZEBIrEUmAqSAnYGGhKRVbWmwJpqnAUXkc3777w2LDZYXyPuliBf4NSpKz6M1BKeIZIuLcDKnnKkj5dlNRcWW0S6FzNsak34evUsRznK5gNDCGpUBV96CseVOWPzetmP18sAV+t+dC8I32JSdurI3XyRiuV0kcI3iLBfQ6p+yFIAupkPYMEvBuiZEOwKdaPeYBzesDRfKB5cctGGpfqjWjwP2O+mfPrgiq3e/rJ+dfI3M08s5zMwen7UPtZElMdfhr78yeMoRC4ONcml68NXxaYTzk0LA1d1APND1Z3eJnermFSb1kdbL9/UEEkeiYGK6smNBEUoK3pQbsQbp8T/uvhblR8E+EyP8j17MQBcMOFGFldFu57B9HDs1u7o+o79nR4yfCLPhm/yB1h7niO0BkUIoZPJusqhjlXiCEhoh9pVVgSy0/hvPD16zdUU4UB/7iNAsmAMD0Ky+hn/xHpQGkShxi6ChDSlE8+Vv7KMH5Wa5EQfKyAM/Cg3TO4DwWfnikYU0ijMw0RmjmmV62A==;gwKuDbNr/ddy5EFBir+Bxw=="
 ---

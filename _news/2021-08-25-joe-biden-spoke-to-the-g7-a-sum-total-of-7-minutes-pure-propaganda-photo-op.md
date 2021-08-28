@@ -179,6 +179,20 @@ related:
         width: 480
         height: 299
         isCached: true
+  - title: "President Biden FEMA Briefing on Hurricane IDA"
+    excerpt: "President Joe Biden delivers remarks in the White House South Court Auditorium while being briefed on the ongoing preparations for Hurricane Ida by FEMA Administrator Deanne Criswell virtually from the FEMA National Response Coordination Center on Saturday,"
+    publishedDateTime: 2021-08-28T19:21:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/ed6f0bf9a834153f35f58328cdc0147f/President-Biden-FEMA-Briefing-on-Hurricane-IDA/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/ed6f0bf9a834153f35f58328cdc0147f/BIDEN-WEATHER.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "President Joe Biden goes off script during White House visit, gives Storm personal tour of Oval Office"
     excerpt: "After a 20-minute ceremony in the East Room to celebrate the team’s 2020 WNBA championship, President Joe Biden asked the Storm if they would like a private tour, led by him, of the Oval Office. Of course,"
     publishedDateTime: 2021-08-24T00:28:00Z
@@ -190,6 +204,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "Biden Promises Further Strikes Against ISIS-K"
+    excerpt: "We will continue to hunt down any person involved in that heinous attack and make them pay,\" Biden said in a statement. \"Our commanders informed me that an attack is highly likely in the next 24-36 hours."
+    publishedDateTime: 2021-08-28T19:28:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-08-28/biden-promises-further-strikes-against-isis-k"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "9tnjtFrN1+6ZfoUf1M2HiphujRvK1hdiHeLNrDL2JvOnIVHmddQvaoARBKd5pCQyGRKo6SQENUW1J1UtwtSu9lj+eJLL2j0i9aZM6ziJuk2LIU/ckItfeb0azh9TJZAmlqU8FuSOf0YPm1ZRC6Yk9s5q4rIcBXBrKrt9G16MvZlh/pi05cRccMBto68bLRusBZMUyVRQHG3rzgXV0j0kUMtqe5yL7lPgS78juvBYcEUuVZiMdMFypKzXpQUYNbSVB3v+Xs7hP934r3keHQQLtz5TuLF4jlmspINyt2eUGNCm1m3GcxNKyuvLpUnV6THVGRxJ1eBA61cLCFGfEH9Cu2Prwoav4bA4FLRATk24Gc0=;xsK1GuN5jj1+pSbV22e2pA=="
 ---

@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Liberals used the courts to block Trump's agenda. Republicans are using the same playbook against Biden."
+    excerpt: "For four years, President Donald Trump saw his policies hindered by progressive lawsuits. Now conservative lawyers and judges get to have their revenge on the Biden administration.\n    \n"
+    publishedDateTime: 2021-08-28T19:09:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PJhiNGR78yA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/28/politics/conservatives-supreme-court-biden-trump-legal-tools/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/28/politics/conservatives-supreme-court-biden-trump-legal-tools/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928092023-03-trump-biden-split--super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration proposes overhaul of asylum system to speed up claim approval"
     excerpt: "The Biden administration has proposed a federal regulation that would overhaul the asylum system in an attempt to settle claims at a faster pace and help alleviate the immigration court backlog, the departments of Homeland Security and Justice announced Wednesday.\n    \n"
     publishedDateTime: 2021-08-18T13:51:53Z

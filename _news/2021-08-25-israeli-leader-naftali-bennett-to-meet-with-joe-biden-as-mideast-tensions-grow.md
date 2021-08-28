@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6092540/naftali-bennett-joe-biden/"
 webUrl: "https://time.com/6092540/naftali-bennett-joe-biden/"
 type: article
 quality: 101
-heat: 141
+heat: 161
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden in the ‘loneliest job,’ a presidency driven by crisis"
+    excerpt: "President Joe Biden listens as he meets with Israeli Prime Minister Naftali Bennett in the Oval Office of the White House in Washington. T"
+    publishedDateTime: 2021-08-28T19:50:00Z
+    webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-28/biden-in-the-loneliest-job-a-presidency-driven-by-crisis"
+    ampWebUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-28/biden-in-the-loneliest-job-a-presidency-driven-by-crisis?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2021-08-28/biden-in-the-loneliest-job-a-presidency-driven-by-crisis?_amp=true"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 75
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/e2d51e4/2147483647/strip/true/crop/3988x2667+6+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F36%2F6c%2F793147b24a6c25fa1dbc5862839a%2Fdfd574e0c358447194470e99983982e0"
+        width: 320
+        height: 214
+        isCached: true
   - title: "Biden, Israeli prime minister focus on Iran"
     excerpt: "President Joe Biden told Israeli Prime Minister Naftali Bennett on Friday that diplomacy was his first option, but that he would consider other options if his effort to revive the Iran nuclear deal fails."
     publishedDateTime: 2021-08-28T09:56:00Z

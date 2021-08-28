@@ -723,6 +723,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden warns of more attacks as military begins final Afghanistan pullout"
+    excerpt: "On alert for more terrorist attacks, the U.S. military has begun its final withdrawal from Afghanistan in the closing stages of a frantic airlift of Americans, Afghans and others desperate to escape Taliban rule before the evacuation shuts down."
+    publishedDateTime: 2021-08-28T19:41:00Z
+    webUrl: "https://www.detroitnews.com/story/news/world/2021/08/28/united-states-afghanistan-withdrawl-terror-threats/118479246/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/118479246"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/118479246"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 74
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/28/PDTN/d08cc5d4-b158-41d2-a192-f510f783f069-AP21240654307233.jpg?auto=webp&crop=4689,2638,x0,y404&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden to Discuss Afghanistan Evacuation With G-7 Allies as Chaos Continues"
     excerpt: "The meeting comes as Biden considers extending the Aug. 31 deadline after the U.K., France, and other allies said they need more time to evacuate."
     publishedDateTime: 2021-08-24T11:51:00Z
@@ -845,6 +861,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "President Biden warns of more attacks as military begins final pullout of Afghanistan"
+    excerpt: "President Joe Biden said Saturday that commanders told him an attack was “highly likely” over the next 24 to 36 hours."
+    publishedDateTime: 2021-08-28T19:44:00Z
+    webUrl: "https://www.pennlive.com/nation-world/2021/08/president-biden-warns-of-more-attacks-as-military-begins-final-pullout-of-afghanistan.html"
+    ampWebUrl: "https://www.pennlive.com/nation-world/2021/08/president-biden-warns-of-more-attacks-as-military-begins-final-pullout-of-afghanistan.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/nation-world/2021/08/president-biden-warns-of-more-attacks-as-military-begins-final-pullout-of-afghanistan.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 68
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5N7ZX2EKBFCIJFWXPESYKLQSXI.jpeg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Kamala Harris in 2019: I Will Protect the Women of Afghanistan and Keep Terrorists Out"
     excerpt: "Kamala Harris, to the Council on Foreign Relations, August 21, 2019: Nobody can predict what President Trump will do between now and 2021, so as soon as I take office, I will bring together our military leaders, national security advisers, and top ..."
     publishedDateTime: 2021-08-20T19:08:00Z
@@ -954,6 +986,22 @@ related:
       - url: "https://e3.365dm.com/21/08/1600x900/skynews-william-burns-abdul-ghani-baradar_5488833.jpg?20210824145349"
         width: 1600
         height: 900
+        isCached: true
+  - title: "President Joe Biden warns of more attacks as military begins final withdrawal from Afghanistan"
+    excerpt: "On alert for more terrorist attacks, the U.S. military has begun its final withdrawal from Afghanistan in the closing stages of a frantic airlift of Americans, Afghans and others desperate to escape Taliban rule before the evacuation shuts down."
+    publishedDateTime: 2021-08-28T19:20:00Z
+    webUrl: "https://www.oregonlive.com/nation/2021/08/president-joe-biden-warns-of-more-attacks-as-military-begins-final-withdrawal-from-afghanistan.html"
+    ampWebUrl: "https://www.oregonlive.com/nation/2021/08/president-joe-biden-warns-of-more-attacks-as-military-begins-final-withdrawal-from-afghanistan.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/nation/2021/08/president-joe-biden-warns-of-more-attacks-as-military-begins-final-withdrawal-from-afghanistan.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 63
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5N7ZX2EKBFCIJFWXPESYKLQSXI.jpeg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "SAG-AFTRA & WGA East Join News Unions Urging President Biden To Help Journalists Fleeing Afghanistan"
     excerpt: "The presidents of five unions representing journalists are calling on President Joe Biden to support news crews and their families who are trying to flee Afghanistan. “The United States government"

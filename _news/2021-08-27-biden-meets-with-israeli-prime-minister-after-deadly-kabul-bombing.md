@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-israeli-prime-minister-kabul-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-israeli-prime-minister-kabul-bombing.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 172
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/61f7c770-7b3e-48e6-a814-972f1d0fb288/05412b1d-0f18-4162-96b9-2588b7710485/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden warns another terror attack in Kabul ‘highly likely’ in next 24-36 hours"
+    excerpt: "President Biden on Saturday warned that another terrorist attack in Afghanistan in the next 24-36 hours is \"highly likely\" -- as he promised to continue to pursue the group responsible for Thursday’s attack that killed 13 U.S. troops."
+    publishedDateTime: 2021-08-28T19:03:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NMVDubzrdFM/biden-terror-attack-kabul-highly-likely-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-terror-attack-kabul-highly-likely-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-terror-attack-kabul-highly-likely-afghanistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/57ab9757-6f9f-467f-a70b-dcfc25c7182f/04faf4f9-87d1-43f9-8b98-c254b98824c1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
