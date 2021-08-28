@@ -2,19 +2,23 @@
 category: news
 title: "Afghanistan: 'The sooner we finish, the better,' says Joe Biden"
 excerpt: "US President Joe Biden says the US is \"on pace\" to meet a 31 August deadline for evacuations, despite previous calls from allies for an extension. \"The sooner we finish the better,\" he said. Some American troops have already been withdrawn,"
-publishedDateTime: 2021-08-25T03:02:00Z
-originalUrl: "https://www.bbc.co.uk/news/world-asia-58321849?at_medium=RSS&amp%3Bat_campaign=KARANGA"
-webUrl: "https://www.bbc.co.uk/news/world-asia-58321849?at_medium=RSS&amp%3Bat_campaign=KARANGA"
-ampWebUrl: "https://www.bbc.co.uk/news/world-asia-58321849.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-asia-58321849.amp"
+publishedDateTime: 2021-08-25T04:46:00Z
+originalUrl: "https://www.bbc.com/news/world-asia-58321849"
+webUrl: "https://www.bbc.com/news/world-asia-58321849"
+ampWebUrl: "https://www.bbc.com/news/world-asia-58321849.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-asia-58321849.amp"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -1498,6 +1502,6 @@ related:
         height: 380
         isCached: true
 
-secured: "eAMVyoFzDiRvH/ePGRf71yL36+yVV6vQaXhRKBX54J+goBHj3hqNmXjM6zb/0l7LXsK6Aovb0eg/ErMnmRBAaAI+lMR9nImbdAykf7v72BpRhaP6KlM+9cA9wG5B2wwGfVYcdOkXWifcJxBnUux5687pnX/a3XNqj32yR4KYJVtMzHHeFUq1CKkTmDGT9Up+DSpgwncbqFsOnsmi2P3QZ2LRaW/fA+1ZTYwhi8PRASm9yutB7Jwx6lIJLDWEg/T3KnBaREugRU33ynppIa6qsdGArOnlGvrfA1tep28S+gjzP3z6x1m6qm3viP0F0BIECLVla7VnLgPu6OEIPK7KmyLDw8MluZTID1VLYsGRiA32rVfrMcA+osIFzQcZuEG0xG6jX6ap7S8UIIpvSLaGSJDfInEBZbL0oTqs7Gq31kNLMUbLUrCsPRMAX7NjFwE76k5tj/T5kRlWXyp/c/0uS11b/RG5WMB8fK8/m4VLT7O/E0r+21bye89hPT3nYw9OrhvRevznfNJ+qWtjR9cxRQ==;858v4hr5r/uZrqvzwxoC6Q=="
+secured: "VWg0p7boD3dqGE20ZyZhhFHKmshg9YeAWE7lcpDXZ1dLr2nTYjaC9DK7FNj+M9lc3zmsUFbT8yXoMozmUS0SNosm+N+4mbCOtBpOJ0a4bookRxo5iWmJm9WnFiVd7QU0BvToGOJy2FG0UcAoZkK7KjqHBUQp19eGq01XtY4xhxB5MEdtwv0bh/ftpBXrvtv6gxdzZBIcDNEMIZj8UcBgSLwg5wkU6o0pyEzKstvy7YQUsdXqX2ngVCPBKR91c5d6FL5KKAt5yLu2oOYGLy44TbYB5o+Smescvx5WmMDpdya6NW/fNrkV9xVSBglCQ7eiN7pdooyQHQLJINzqbKqdWCK7apa4/uC7o5TUwjNDNkI=;zxUU5F0sgCeMNhBHzQKGqg=="
 ---
 

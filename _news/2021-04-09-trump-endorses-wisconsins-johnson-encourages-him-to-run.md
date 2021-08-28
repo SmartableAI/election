@@ -107,6 +107,17 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Trump should pay legal fees for failed lawsuit, Wisconsin governor says"
+    excerpt: "Former President Donald Trump should personally have to pay at least a portion of Wisconsin’s legal fees for filing a failed lawsuit to overturn the result of the 2020 election — not just his lawyers,"
+    publishedDateTime: 2021-08-28T03:04:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/trump-should-pay-legal-fees-for-failed-lawsuit-wisconsin-governor-says/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/trump-should-pay-legal-fees-for-failed-lawsuit-wisconsin-governor-says/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/trump-should-pay-legal-fees-for-failed-lawsuit-wisconsin-governor-says/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
 
 secured: "tc4XbZyY+4YTWT2LiUidw6yC57ZKFfzGmOS1v0keY29W1fQNf+tNbh3xoTZRZG5wkUad8jwF+1CxS9glxmwWQwMXpDFsmUohUOtVbsatVWzi6bCoiGlmT2ExQrcA5A8w1NrJ50LL7hyaXH0kMLQ2rJx+cJ8SBB/8vcToT4rdM6Z5H2dCaXl03FQrPPAteGjvS02r1z9q7TMmQ+zucr1tv2aI68LsHvdT31oSGFkB31PVDRF/1oflZi4Hg6HM0JyNCz+8xZ73paFcR9soZnqP4MG91CozTE1hqo1/v5yJ8EU/0BB5+HsOnH14/SAh6Nxzj5OR7FmnMSq9iec+soZxlgO1YClgbEv0DLemxUuHRjE=;jQL3utFrkUlb1m5+XohW6Q=="
 ---

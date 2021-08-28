@@ -141,6 +141,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Afghanistan: 'The sooner we finish, the better,' says Joe Biden"
+    excerpt: "US President Joe Biden says the US is \"on pace\" to meet a 31 August deadline for evacuations, despite previous calls from allies for an extension. \"The sooner we finish the better,\" he said. Some American troops have already been withdrawn,"
+    publishedDateTime: 2021-08-25T04:46:00Z
+    webUrl: "https://www.bbc.com/news/world-asia-58321849"
+    ampWebUrl: "https://www.bbc.com/news/world-asia-58321849.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-asia-58321849.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/FFB7/production/_120236456_mediaitem120232630.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Joe Biden speaks about Afghanistan evacuation amid criticism – live"
     excerpt: "Psaki says US has helped evacuate 57,000 people in the last nine days and and is on track to meet its deadline of 31 August"
     publishedDateTime: 2021-08-24T20:24:00Z
@@ -586,22 +602,6 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
-        isCached: true
-  - title: "Afghanistan: 'The sooner we finish, the better,' says Joe Biden"
-    excerpt: "US President Joe Biden says the US is \"on pace\" to meet a 31 August deadline for evacuations, despite previous calls from allies for an extension. \"The sooner we finish the better,\" he said. Some American troops have already been withdrawn,"
-    publishedDateTime: 2021-08-25T03:02:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-asia-58321849?at_medium=RSS&amp%3Bat_campaign=KARANGA"
-    ampWebUrl: "https://www.bbc.co.uk/news/world-asia-58321849.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-asia-58321849.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 75
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/FFB7/production/_120236456_mediaitem120232630.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Joe Biden actions on Afghanistan may trigger World War III (Letters)"
     excerpt: "What President Joe Biden did was much more than totally mismanage the U.S. withdrawal from Afghanistan and lose respect internationally; his action will set off great danger for our country. First, this sets the stage for the growth and strength of world-wide terrorism."

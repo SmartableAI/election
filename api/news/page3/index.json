@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-24-biden-to-be-briefed-on-intelligence-community-covid-origin-review-as-early-as-tuesday.md",
+      "title": "Biden to be briefed on intelligence community COVID origin review as early as Tuesday",
+      "excerpt": "President Biden is expected to receive a briefing on the origin of COVID-19 from the intelligence community as early as Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/w8cHGmkP3wo/biden-intelligence-community-covid-origin-briefing",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/w8cHGmkP3wo/biden-intelligence-community-covid-origin-briefing",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/22536f17-09ba-4d70-ae31-7ee07e4a136e/f73683b7-0a76-4287-b5b0-389dbed633dd/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-intelligence-community-covid-origin-briefing.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-intelligence-community-covid-origin-briefing.amp",
+      "publishedDateTime": "2021-08-24T07:31:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-trump-calls-on-florida-judge-to-help-reinstate-his-youtube-account.md",
       "title": "Trump calls on Florida judge to help reinstate his Youtube account",
       "excerpt": "Former President Donald Trump on Monday asked a Florida judge to issue a preliminary injunction in his case against YouTube that would compel the company to reinstate his access to the platform.",
@@ -729,7 +785,7 @@
       "originalUrl": "https://www.cleveland.com/nation/2021/08/budget-clash-pits-moderate-democrats-against-biden-pelosi.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 195,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -1221,58 +1277,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-22-barron-trump-enrolls-in-35000-a-year-private-school-in-florida.md",
-      "title": "Barron Trump Enrolls In $35,000-A-Year Private School In Florida",
-      "excerpt": "Barron Trump has enrolled in an exclusive private school in Palm Beach, Florida, for the new school year. A spokesperson for Oxbridge Academy announced earlier this week that Melania and Donald Trump's 15-year-old son has enrolled in the elite school as part of the class of 2024,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/barron-trump-enrolls-35000-year-private-school-florida-3278565",
-      "originalUrl": "https://www.ibtimes.com/barron-trump-enrolls-35000-year-private-school-florida-3278565",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/02/donald-and-melania-trump-have-tested-positive-for.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/barron-trump-enrolls-35000-year-private-school-florida-3278565?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/barron-trump-enrolls-35000-year-private-school-florida-3278565?amp=1",
-      "publishedDateTime": "2021-08-22T03:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -85,6 +85,20 @@ related:
         width: 679
         height: 357
         isCached: true
+  - title: "Ashley Moody demands border control assurance from Joe Biden administration"
+    excerpt: "The letter, per a release from Moody’s office, seeks “to ensure the Biden administration will faithfully defend a long-standing federal immigration statute that prohibits illegal re-entry to the U.S."
+    publishedDateTime: 2021-08-27T17:08:00Z
+    webUrl: "https://floridapolitics.com/archives/453563-moody-border/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 53
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/05/Ashley-Moody-scaled.jpg"
+        width: 2560
+        height: 1920
+        isCached: true
   - title: "Storm commemorates 2020 WNBA championship with President Joe Biden at White House"
     excerpt: "Before leaving the nation's capital, the Storm stopped by the White House on Monday, marking a return to normalcy when sports teams regularly received invitations to celebrate championships and their athletic achievements."
     publishedDateTime: 2021-08-23T21:13:00Z
