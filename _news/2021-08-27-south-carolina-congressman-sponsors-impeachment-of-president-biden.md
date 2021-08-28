@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Would a Republican House majority impeach Biden in 2023?"
-excerpt: "House GOP leader Rep. Kevin McCarthy says that if his party wins back the majority in the chamber in the 2022 midterm elections, House Republicans wouldn't use impeachment as a political weapon against President Biden in 2023."
-publishedDateTime: 2021-08-19T15:04:43Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HXXIMdKaQHc/would-republican-house-majority-impeach-biden-2023"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HXXIMdKaQHc/would-republican-house-majority-impeach-biden-2023"
-ampWebUrl: "https://www.foxnews.com/politics/would-republican-house-majority-impeach-biden-2023.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/would-republican-house-majority-impeach-biden-2023.amp"
+title: "South Carolina congressman sponsors impeachment of President Biden"
+excerpt: "Rep. Jeff Duncan has cosponsored articles of impeachment against President Biden due to a \"foreign policy failure\" in Afghanistan. "
+publishedDateTime: 2021-08-27T22:00:15Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HS1LMizHXbE/south-carolina-congressman-impeachment-biden"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HS1LMizHXbE/south-carolina-congressman-impeachment-biden"
+ampWebUrl: "https://www.foxnews.com/politics/south-carolina-congressman-impeachment-biden.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/south-carolina-congressman-impeachment-biden.amp"
 type: article
 quality: 175
 heat: -1
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/625270b0-2692-4737-8d03-fc0a72cd2aba/08c5715c-98d7-48fb-bbda-9b1e81147afb/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
@@ -42,6 +42,22 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 178
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Would a Republican House majority impeach Biden in 2023?"
+    excerpt: "House GOP leader Rep. Kevin McCarthy says that if his party wins back the majority in the chamber in the 2022 midterm elections, House Republicans wouldn't use impeachment as a political weapon against President Biden in 2023."
+    publishedDateTime: 2021-08-19T15:04:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HXXIMdKaQHc/would-republican-house-majority-impeach-biden-2023"
+    ampWebUrl: "https://www.foxnews.com/politics/would-republican-house-majority-impeach-biden-2023.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/would-republican-house-majority-impeach-biden-2023.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
@@ -108,22 +124,6 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ac2648a0-241a-4e0b-84e1-e2590dccb0f9/27df12ca-f3f1-484b-83e1-16c35084284a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "South Carolina congressman sponsors impeachment of President Biden"
-    excerpt: "Rep. Jeff Duncan has cosponsored articles of impeachment against President Biden due to a \"foreign policy failure\" in Afghanistan. "
-    publishedDateTime: 2021-08-27T22:00:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HS1LMizHXbE/south-carolina-congressman-impeachment-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/south-carolina-congressman-impeachment-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/south-carolina-congressman-impeachment-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/625270b0-2692-4737-8d03-fc0a72cd2aba/08c5715c-98d7-48fb-bbda-9b1e81147afb/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -199,6 +199,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "1IKNlezvxPx9ckQu8V6maF64c9B7BRGBG73XK2+t4PCmnuldI+LKZDSiOgtFHFaG1BflDVKWNwqT6O0vVwS6hf6gJbAfkkLH6kkxQ7tM1QeXrU2s+ki0TIrT6glIbofeFsX9VzA5ZUseeS+BhPq4shl8TOP3VGdk6mA1ixy9swq8kxyK4km8sa/PSgke/p/DlSa1CCa15mE7Q+3R0b0YOF9fUq++w4aOwGXrsapachnsudRscoQ9xrzD29iTaN5rXMJNyPhrG49+ZcIWgaougHvY3hPS2BtOP9T+BHr6fDY2FqMrmCXIAcKWE/S8BIrB5K8j7/K117EfRHujxXvWmXbwQU2MnGTAA8uL/e7PBIs=;StP4VcSYLBH4iH56l8hK/w=="
+secured: "kbl3VbOLna6nJzdUblBFRUSMLXLVnDZDf7UKJRjQWI0FglsK+fA+UDwNvbGV/H0aCBLsJqXZ84f/l3BKdE8R/tk9kOugIvunwyJmDNHl8dWBT9O1MDJNAPVYKeaFSfqZtgFBGokW3OOjyfp4gKcmn7rALHWINDHwTI/GY84unOxsk7tYqyA4AtvnXpWKz48cJidUEmtr7+hR7oVOt7AAkZfG/PmBvLzorcjRwSwFJIq7/JZcKMCQklwU+Ppx7SbcPLYU1VVNNGqlW8yuawD/DHaMVaykXNzyIst/vuVPemH9vkBL5om4QB+htsc1yPsCdXSOJ4LVqljTRtQUKMjocUO4qa108MZPDETqLdTqrmo=;YXDxuVSmGRnoba7N8agcvw=="
 ---
 

@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Afghan crisis: US President Joe Biden expected to decide evacuation deadline within 24 hours"
-excerpt: "Biden warned on Sunday that the evacuation was going to be \"hard and painful\" and a lot could still go wrong. US troops might stay beyond Biden's August 31 deadline to oversee the evacuation, he said."
-publishedDateTime: 2021-08-24T03:47:00Z
-originalUrl: "https://www.cnbctv18.com/world/afghan-crisis-us-president-joe-biden-expected-to-decide-evacuation-deadline-within-24-hours-10471351.htm"
-webUrl: "https://www.cnbctv18.com/world/afghan-crisis-us-president-joe-biden-expected-to-decide-evacuation-deadline-within-24-hours-10471351.htm"
-ampWebUrl: "https://www.cnbctv18.com/world/afghan-crisis-us-president-joe-biden-expected-to-decide-evacuation-deadline-within-24-hours-10471351.htm/amp"
-cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/world/afghan-crisis-us-president-joe-biden-expected-to-decide-evacuation-deadline-within-24-hours-10471351.htm/amp"
+title: "Joe Biden says terrorists will pay for Afghan attack that killed US ‘heroes’ – video"
+excerpt: "The president said the US would 'hunt down' those responsible for the attack on the international airport in Kabul"
+publishedDateTime: 2021-08-26T21:42:00Z
+originalUrl: "https://www.theguardian.com/us-news/video/2021/aug/26/joe-biden-white-house-afghanistan-attack"
+webUrl: "https://www.theguardian.com/us-news/video/2021/aug/26/joe-biden-white-house-afghanistan-attack"
 type: article
-quality: 64
+quality: 98
 heat: -1
 published: false
 
 provider:
-  name: cnbctv18
-  domain: cnbctv18.com
+  name: The Guardian
+  domain: theguardian.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://images.cnbctv18.com/wp-content/uploads/2021/06/Biden_Uk-1019x573.jpg"
-    width: 1019
-    height: 573
+  - url: "https://i.guim.co.uk/img/media/f4644bb3b32de88ea517922e3aee5ae708f7b195/0_112_4000_2401/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1537eb95f59d35a5607ada431df342a"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -382,20 +384,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 101
-  - title: "Joe Biden says terrorists will pay for Afghan attack that killed US ‘heroes’ – video"
-    excerpt: "The president said the US would 'hunt down' those responsible for the attack on the international airport in Kabul"
-    publishedDateTime: 2021-08-26T21:42:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2021/aug/26/joe-biden-white-house-afghanistan-attack"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 98
-    images:
-      - url: "https://i.guim.co.uk/img/media/f4644bb3b32de88ea517922e3aee5ae708f7b195/0_112_4000_2401/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1537eb95f59d35a5607ada431df342a"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Afghanistan live news: Joe Biden says there was no way to exit Afghanistan without ‘chaos’"
     excerpt: "Ousted president Ashraf Ghani confirms he is in UAE; UN says it will still support Afghan people; at least one dead after clash over Taliban flag"
     publishedDateTime: 2021-08-18T20:16:00Z
@@ -862,6 +850,22 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/14/d141af37-f20c-51e4-afd0-2a84091979f3/6124e09886aaa.preview.jpg?resize=1120%2C630"
         width: 1120
         height: 630
+        isCached: true
+  - title: "Afghan crisis: US President Joe Biden expected to decide evacuation deadline within 24 hours"
+    excerpt: "Biden warned on Sunday that the evacuation was going to be \"hard and painful\" and a lot could still go wrong. US troops might stay beyond Biden's August 31 deadline to oversee the evacuation, he said."
+    publishedDateTime: 2021-08-24T03:47:00Z
+    webUrl: "https://www.cnbctv18.com/world/afghan-crisis-us-president-joe-biden-expected-to-decide-evacuation-deadline-within-24-hours-10471351.htm"
+    ampWebUrl: "https://www.cnbctv18.com/world/afghan-crisis-us-president-joe-biden-expected-to-decide-evacuation-deadline-within-24-hours-10471351.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/world/afghan-crisis-us-president-joe-biden-expected-to-decide-evacuation-deadline-within-24-hours-10471351.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 64
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2021/06/Biden_Uk-1019x573.jpg"
+        width: 1019
+        height: 573
         isCached: true
   - title: "Afghanistan fallout to hang over potential 2024 GOP presidential contenders, as well as Biden"
     excerpt: "The chaotic U.S. withdrawal from Afghanistan may haunt President Joe Biden, but it could also hang over some of the Republicans who will seek to replace him in 2024."
@@ -1498,6 +1502,6 @@ related:
         height: 380
         isCached: true
 
-secured: "FGqlLBahJjn9xCLh7YjkLQrDSKl3LorW/uTwXtL8Ih7/BqXUF901/o++vWCyqKJpfDk4zo4Iu1hOjWT7wfU0v/0yIcQqAm8uDctgUGo+8fsfrxrvaXaU3Z1U9FuLvBcg0PWrK+muf3eiPIV+6Tm0GoeXyELPLHCCM9kyD1mQ9vq0hj7EClkZYpocFQtOt2DG3v3O6oG8OUQ6Kt/mlaxgDsjixL/oeXX036wARYn2/DXJhEdrsBxh8qOi/5ZVftCjSnZZe4Y2J16rj/ZCT7U6oloEDTlo4LJXRsW2WCMkG48URWiCJOYum23luTIVAiICn8q1RYIF04rmP5WZlrNQqxP2RLe4e/CXpo0mas+YExk=;h2PqTprpXUrHClJoeb1BMg=="
+secured: "i1ccqPjs7d6A8QaUmZfzM7gcvtUtYwk9QSnuu6ak9j0nqYFCViLF6AKDns+lRsNAMsblO+BBTP30pWWRqAMNjC5H+IOFk+MN2UTzHx3AvvrzeRZfLGbi60beDES5pBg5SfJGXwqUQy3jF5kBMFcNh0sGTRdj7sRqXkBlrOM+riamLu5P7VYyO+ul7w7ielCMSWsQVjmWnE2fnOpAWTJoiorlSilt34ljAhzsYKZWdkUvRbJETYQtb4OrK0Y2Dd5GPdDJrzOKQs35hf3dt7/5n0l7EARGNuY8gCZZhigXh5dsvHE5yLdRsEPJIxg/DqKEb08rHRiVs2kpeu81kX1RaiR2zHb7ITxfbAZIy79WVIs=;EZf6CMlAkczButv3gse9OA=="
 ---
 

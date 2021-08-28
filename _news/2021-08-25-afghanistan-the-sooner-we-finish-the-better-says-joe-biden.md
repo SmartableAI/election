@@ -382,6 +382,20 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 101
+  - title: "Joe Biden says terrorists will pay for Afghan attack that killed US ‘heroes’ – video"
+    excerpt: "The president said the US would 'hunt down' those responsible for the attack on the international airport in Kabul"
+    publishedDateTime: 2021-08-26T21:42:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/aug/26/joe-biden-white-house-afghanistan-attack"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 98
+    images:
+      - url: "https://i.guim.co.uk/img/media/f4644bb3b32de88ea517922e3aee5ae708f7b195/0_112_4000_2401/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1537eb95f59d35a5607ada431df342a"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Afghanistan live news: Joe Biden says there was no way to exit Afghanistan without ‘chaos’"
     excerpt: "Ousted president Ashraf Ghani confirms he is in UAE; UN says it will still support Afghan people; at least one dead after clash over Taliban flag"
     publishedDateTime: 2021-08-18T20:16:00Z
@@ -1484,6 +1498,6 @@ related:
         height: 380
         isCached: true
 
-secured: "yiQBQ3m8QRJVuFljuJ2HWjRbOw5Ekz0PALcwvyN3dLAdPtsZeJieg6sJrQDMmq2bqe3VZtln9be3j+KoFoX3waRTCSyKaqrfrZ2cdEbTjOIQxg5DOd/j8LVoWtwEQ6o5QoABY+vLz5+W/wm9ttfDC8EFvBapkgEk8vAw+1XlGkamFcLUF7QGUYnwCORTz+ddzQq2uh5bYNEJgiWttGfihfOKxE7hoOcYpqKwfJPgBc6gGH214/Mw6SGewdqKQCBwMCeFz+qy+0zOY/DAJi9qpTOaslXKNsr9eV5WwaZfRMZs9Y1rGcTrfpqrDCWqoDsqjnmYuQIS2ogn4ExqlrFg9B3obQB3v0S2vSigRD5hp4U=;aVueCz1RAp+Nf2FmL7WUTg=="
+secured: "eAMVyoFzDiRvH/ePGRf71yL36+yVV6vQaXhRKBX54J+goBHj3hqNmXjM6zb/0l7LXsK6Aovb0eg/ErMnmRBAaAI+lMR9nImbdAykf7v72BpRhaP6KlM+9cA9wG5B2wwGfVYcdOkXWifcJxBnUux5687pnX/a3XNqj32yR4KYJVtMzHHeFUq1CKkTmDGT9Up+DSpgwncbqFsOnsmi2P3QZ2LRaW/fA+1ZTYwhi8PRASm9yutB7Jwx6lIJLDWEg/T3KnBaREugRU33ynppIa6qsdGArOnlGvrfA1tep28S+gjzP3z6x1m6qm3viP0F0BIECLVla7VnLgPu6OEIPK7KmyLDw8MluZTID1VLYsGRiA32rVfrMcA+osIFzQcZuEG0xG6jX6ap7S8UIIpvSLaGSJDfInEBZbL0oTqs7Gq31kNLMUbLUrCsPRMAX7NjFwE76k5tj/T5kRlWXyp/c/0uS11b/RG5WMB8fK8/m4VLT7O/E0r+21bye89hPT3nYw9OrhvRevznfNJ+qWtjR9cxRQ==;858v4hr5r/uZrqvzwxoC6Q=="
 ---
 

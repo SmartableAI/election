@@ -64,6 +64,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "State Department contradicts Biden's remarks that there may be a 'kill list' provided to Taliban"
+    excerpt: "State Department spokesperson Ned Price seemingly contradicted President Joe Biden’s acknowledgment that the United States may have provided the Taliban with a list of American and ally names in order to usher them to the airport."
+    publishedDateTime: 2021-08-27T21:59:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TyiOsmusm30/state-department-contradicts-bidens-remarks-that-there-may-be-a-kill-list-provided-to-taliban"
+    ampWebUrl: "https://www.foxnews.com/politics/state-department-contradicts-bidens-remarks-that-there-may-be-a-kill-list-provided-to-taliban.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/state-department-contradicts-bidens-remarks-that-there-may-be-a-kill-list-provided-to-taliban.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4abd1913-7886-448d-a349-b3d5ab9cc516/3265079e-87fc-4450-9454-6995a5e02f04/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "t8BkTLVjMJA5D/jUk92qACrqT4ljALw2UHg+NJ9l0lu/eW4lNf3DDCAhziyAfdewe8hisv13zqg73RJnhHDIvjoluarCK2XO8s55qtGCRvRYoAUFaVaAkkT1UhmzIr71nEbEwnSBxefKKL1JvIUsCTkDby43lrLLOVnakKnfMlpf3yU5iciQcCi8gm4258BczMyLG6t1e7gRy/44rz+DUL01r66YvJla1gxU1ARHHCxkL/AF82x3a9psoFEnMMOVsNM8DhgyxunPgOESXT6Ftr13FDiTcuGmlVmnAGnv93t0N0g+5WznAEV/tA0PqIoaq/0ovJZiv5qCki0CpNQK7D6a/v/GUOe1+iD60kIOATM=;l6871o/0Q41k+g6kZx4SNg=="
 ---

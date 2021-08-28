@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-ally-trump-more-dangerous-tal
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ally-trump-more-dangerous-taliban-al-qaeda.amp"
 type: article
 quality: 190
-heat: 230
+heat: 250
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d6d99fb0-6035-4468-a152-0abd741ce1dc/8fdfd954-9afd-45d9-81fc-0a4ad73f7169/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "State Department contradicts Biden's remarks that there may be a 'kill list' provided to Taliban"
+    excerpt: "State Department spokesperson Ned Price seemingly contradicted President Joe Biden’s acknowledgment that the United States may have provided the Taliban with a list of American and ally names in order to usher them to the airport."
+    publishedDateTime: 2021-08-27T21:59:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TyiOsmusm30/state-department-contradicts-bidens-remarks-that-there-may-be-a-kill-list-provided-to-taliban"
+    ampWebUrl: "https://www.foxnews.com/politics/state-department-contradicts-bidens-remarks-that-there-may-be-a-kill-list-provided-to-taliban.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/state-department-contradicts-bidens-remarks-that-there-may-be-a-kill-list-provided-to-taliban.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4abd1913-7886-448d-a349-b3d5ab9cc516/3265079e-87fc-4450-9454-6995a5e02f04/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

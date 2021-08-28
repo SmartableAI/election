@@ -380,6 +380,20 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 101
+  - title: "Joe Biden says terrorists will pay for Afghan attack that killed US ‘heroes’ – video"
+    excerpt: "The president said the US would 'hunt down' those responsible for the attack on the international airport in Kabul"
+    publishedDateTime: 2021-08-26T21:42:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/aug/26/joe-biden-white-house-afghanistan-attack"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 98
+    images:
+      - url: "https://i.guim.co.uk/img/media/f4644bb3b32de88ea517922e3aee5ae708f7b195/0_112_4000_2401/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1537eb95f59d35a5607ada431df342a"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden follows through on Trump’s promise about Afghanistan | Letter"
     excerpt: "President Biden is following through on President Trump’s agreement with the Taliban, only a few months late, writer says."
     publishedDateTime: 2021-08-22T12:57:00Z

@@ -116,6 +116,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "South Carolina congressman sponsors impeachment of President Biden"
+    excerpt: "Rep. Jeff Duncan has cosponsored articles of impeachment against President Biden due to a \"foreign policy failure\" in Afghanistan. "
+    publishedDateTime: 2021-08-27T22:00:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HS1LMizHXbE/south-carolina-congressman-impeachment-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/south-carolina-congressman-impeachment-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/south-carolina-congressman-impeachment-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/625270b0-2692-4737-8d03-fc0a72cd2aba/08c5715c-98d7-48fb-bbda-9b1e81147afb/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Psaki claims US doesn't negotiate with terrorists despite Biden admin depending on Taliban for evacuation"
     excerpt: "White House press secretary Jen Psaki said Wednesday that U.S. policy is still not to negotiate with terrorists, despite apparently relying heavily on the statements and promises by Taliban leaders since their takeover of Afghanistan last week."
     publishedDateTime: 2021-08-25T19:55:43Z

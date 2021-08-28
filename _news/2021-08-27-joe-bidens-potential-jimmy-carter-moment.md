@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden’s potential Jimmy Carter moment"
 excerpt: "In Joe Biden’s remarks following the Kabul terrorist attack on Thursday, he concluded: “Ladies and gentlemen, after 20 years it was time to end a 20-year war.” The moment was horribly circular. America went into Afghanistan in 2001 to drive out the terrorists."
 publishedDateTime: 2021-08-27T00:07:00Z
-originalUrl: "https://www.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb?63bac0e6-3d28-36b1-7417-423982f60790"
-webUrl: "https://www.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb?63bac0e6-3d28-36b1-7417-423982f60790"
+originalUrl: "https://www.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb?shareType=nongift"
+webUrl: "https://www.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb?shareType=nongift"
 ampWebUrl: "https://amp.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb"
 type: article
@@ -782,6 +782,6 @@ related:
       domain: avvo.com
     quality: 14
 
-secured: "is4aTkEtOigC1qKaJv6zjHjWrLD8IwsujuVRCCV80IjoH4+H6bWJl5QdAU/H4yDE9HPNMmfY7rTjxH1TO2ohZ3IyHYwgxP6zOGlZlBN3mMmtXfzzekje0zY8L1A3WPPB/1yLwc8hdpX/Pr8aOqfYEQtqthb6MJpBM+IQ6jE6nS1MHJb5zUVLr1PAppM9bUmPaj5HQPpeiLO/WunKRm/yhKve58L5ppzmGxdEfyyYB0necXHN+BVYPNyVTx8qc670e68m9ADmSXuYEgmKoyxXw6+vbAhhO44HIUKmhstc9mSo4G1NaxSHrE2XnZyArH1azO58oPxftEIZzkHwEO/2Tl3HvdT5uPOjdbFjF7gBWGzJXvbTGQvAH23SAB43uETtS34xKtveJHkd3EUYryCed+1EWMQgbGPWKtv46Fj4m+o195dCgbGawNAIDKgb1dGYxcAg+8UH6JwQUHjNGtCSuQqS/+mo9CrBOTbWysnBHlet+aEu87VrbkGaww6iysPbOzN4P15Moi3dz1b9/40N/w==;OvZNlVe3LNQ3tM9lT1gNMg=="
+secured: "PaAtT+mK95rRBHAwOpS5fB02KaRYn9LJuW1GESaof+1yF5PPsql5g6MfbSb0S7bnetMJka2TtQFe5EI4FAK2D0xUeR+6VLDv0MPi/brmwsnQyrXOJAZaS/oFa7+cmgtKIzojODmVVa6Z2xqeAFyJJkax5p7DeZSCf1P+Ljos0PDX6mO63NyP3/5ZV6Hq6BleKSnaNnqOIls3qz+qmB0S3wqR0EBxzjrhgMpdGdG8QKISUzGvB1TEcA1LsaojF9cQpVI7akL07Qc6b4W34tStcy8XGoIFbWRmTUl7blGTYlFYUVElacupcN6EvSAuktET2G4bXOPsq/wpHU2KAZnDFFOfc9QSxNfokW+2Z+jrwtI=;rhXoJGFvsSAVFV94J4IH6g=="
 ---
 
