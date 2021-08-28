@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/alan-dershowitz-says-donald-trump-ties-have
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/alan-dershowitz-says-donald-trump-ties-have-lost-him-many-friends-larry-david-1621399?amp=1"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -223,6 +223,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "If you love Donald Trump, get vaccinated"
+    excerpt: "Former President Donald Trump experienced something new during his rally in Mobile, Ala., Saturday night: He was briefly booed."
+    publishedDateTime: 2021-08-27T16:00:00Z
+    webUrl: "https://www.sentinelsource.com/opinion/op-ed/if-you-love-donald-trump-get-vaccinated/article_8603ea25-939b-554c-9226-a0d98175b1e4.html"
+    type: article
+    provider:
+      name: The Keene Sentinel
+      domain: sentinelsource.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/sentinelsource.com/content/tncms/custom/image/94f334aa-d43b-11eb-b5e9-4f39ce134ddd.jpg"
+        width: 1200
+        height: 480
         isCached: true
   - title: "Opinion | Message from Trump could end pandemic"
     excerpt: "Former President Donald Trump has mesmerized millions of folks, and many continue to believe in and follow him in spite of the fact that he hasn't been honest"

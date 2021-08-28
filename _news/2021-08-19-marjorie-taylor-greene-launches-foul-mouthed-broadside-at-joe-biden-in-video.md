@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/marjorie-taylor-greene-foul-mouthed-broadsi
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/marjorie-taylor-greene-foul-mouthed-broadside-joe-biden-video-1620960?amp=1"
 type: article
 quality: 122
-heat: 202
+heat: 222
 published: true
 
 provider:
@@ -89,6 +89,20 @@ related:
       - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/BB-MTG-IMPEACH-COMP-V2.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Herschel Walker builds a campaign team with deep financial ties to Marjorie Taylor Greene, Donald Trump"
+    excerpt: "Former National Football League star Herschel Walker announced Tuesday he’d run for Georgia Senate to unseat freshman Sen. Raphael Warnock (D-Ga.). Walker already has the endorsement of former President Donald Trump,"
+    publishedDateTime: 2021-08-26T19:54:00Z
+    webUrl: "https://www.opensecrets.org/news/2021/08/herschel-walker-builds-campaign-team-with-deep-ties-to-marjorie-taylor-greene-donald-trump/"
+    type: article
+    provider:
+      name: OpenSecrets.org
+      domain: opensecrets.org
+    quality: 39
+    images:
+      - url: "https://cdn1.opensecrets.org/news/wp-content/uploads/2021/08/26130505/GettyImages-1228710277-e1629997521246.jpg"
+        width: 720
+        height: 480
         isCached: true
 
 secured: "QO0fi3okDyrYf6Lo0ZjsNtgobzfC5PmvnDx9mvJC4ONJy0jRtdQ4HilOy2NFc5ENz0uf9L16u+XnAS9fPMBCKb20psQYKSX4kyZlYDp4LEI46Urw590cPnFd99q/yXqhuTMkycD2bNkCNwfAKVLkF/zIwvdJwD5Z1vT4bSzU2quf62quZpF9Mb1X+GnN5Oa2LA9henIzBUdqserB5Ky6IT79Tj2dfVCH4x9KVnGJ9McMxaJdUJSwaxG0AwAo68TBINzEdj+OJ25ICcbmgtkdsTLvjqhFkEKISjoIpkkgUTm/ixitlhcSEyqUAmTL7+jtJCsG8aOM+9zWuTaoGxEaOa9xtHdDfVtaNksCM54bRcDwbCEk8jFkk1xGQkPA6WGFp4sXLSdgE8Nl8B06rX1BYdC/k1EDiqbhlnSqfR5ZcSJ+sqcNNBBum9MHCYvma/t6TTbtAtySx40cMWm9laHebsZjpWVxV0WkMk14ItCVhI7NPcPaDutqZObkjLLA3Wdv5D1P/XCod8Gbw4qqmZlJ9w==;P3aM9vehMPulFYjOGzHNgg=="

@@ -97,6 +97,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-27-opinion-like-donald-trump-in-16-larry-elder-may-benefit-from-all-the-criticism.md",
+      "title": "Opinion: Like Donald Trump in ’16, Larry Elder May Benefit from All the Criticism",
+      "excerpt": "Elder may be, as his critics say, unfit to be governor. However, like Trump, he probably loves the attention because his enemies are making him more friends.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofsandiego.com/opinion/2021/08/26/like-donald-trump-in-16-larry-elder-may-benefit-from-all-the-criticism/",
+      "originalUrl": "https://timesofsandiego.com/opinion/2021/08/26/like-donald-trump-in-16-larry-elder-may-benefit-from-all-the-criticism/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://timesofsandiego.com/wp-content/uploads/2021/07/Larry-Elder-e1626989678782.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofsandiego.com/opinion/2021/08/26/like-donald-trump-in-16-larry-elder-may-benefit-from-all-the-criticism/",
+      "cdnAmpWebUrl": "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/opinion/2021/08/26/like-donald-trump-in-16-larry-elder-may-benefit-from-all-the-criticism/",
+      "publishedDateTime": "2021-08-27T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Times of San Diego",
+        "domain": "timesofsandiego.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-27-donald-trump-mistakes-isis-k-for-isis-x-then-says-its-going-to-be-worse.md",
       "title": "Donald Trump Mistakes ISIS-K For ISIS-X, Then Says It's 'Going to be Worse'",
       "excerpt": "The former president attacked the Biden administration's \"stupidity\" regarding the how the Afghanistan withdrawal was executed.",
@@ -105,7 +148,7 @@
       "originalUrl": "https://www.newsweek.com/donald-trump-mistakes-isis-k-isis-x-says-its-going-worse-1623569",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -685,7 +728,7 @@
       "originalUrl": "https://www.chicagotribune.com/columns/clarence-page/ct-column-covid-trump-infodemic-fda-horse-paste-page-20210824-k2lxoefxhfdchb367rojvow45i-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1067,7 +1110,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2021-08-23/carlyle-alum-s-governor-run-mixes-trump-backing-maga-lite-style",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -1119,7 +1162,7 @@
       "originalUrl": "https://www.houstonchronicle.com/news/article/Vos-to-keep-Trump-updated-on-election-16404028.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 360,
+      "heat": 380,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1391,49 +1434,6 @@
       "provider": {
         "name": "Daily Herald",
         "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-donald-trump-endorses-ex-nevada-ag-adam-laxalt-for-senate.md",
-      "title": "Donald Trump endorses ex-Nevada AG Adam Laxalt for Senate",
-      "excerpt": "The endorsement, released Friday night, comes days after former Nevada Attorney General Adam Laxalt officially announced his candidacy for U.S. Senate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reviewjournal.com/news/politics-and-government/nevada/donald-trump-endorses-ex-nevada-ag-adam-laxalt-for-senate-2424479/",
-      "originalUrl": "https://www.reviewjournal.com/news/politics-and-government/nevada/donald-trump-endorses-ex-nevada-ag-adam-laxalt-for-senate-2424479/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reviewjournal.com/wp-content/uploads/2021/08/15507549_web1_trumplaxalt2018.jpg?w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.reviewjournal.com/news/politics-and-government/nevada/donald-trump-endorses-ex-nevada-ag-adam-laxalt-for-senate-2424479/amp/",
-      "cdnAmpWebUrl": "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/news/politics-and-government/nevada/donald-trump-endorses-ex-nevada-ag-adam-laxalt-for-senate-2424479/amp/",
-      "publishedDateTime": "2021-08-20T19:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Las Vegas Review-Journal",
-        "domain": "reviewjournal.com",
         "images": null,
         "publishers": null,
         "authors": null

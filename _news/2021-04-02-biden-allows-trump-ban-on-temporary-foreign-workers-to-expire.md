@@ -95,6 +95,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Donald Trump Jr. Faces Backlash After Saying Joe Biden Showed 'Weakness' at Briefing"
+    excerpt: "Donald Trump's son shared a picture of the U.S. president during a press briefing, which was posted out of context."
+    publishedDateTime: 2021-08-27T12:32:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-jr-faces-backlash-after-saying-joe-biden-showed-weakness-briefing-1623602"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-jr-faces-backlash-after-saying-joe-biden-showed-weakness-briefing-1623602?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-jr-faces-backlash-after-saying-joe-biden-showed-weakness-briefing-1623602?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 143
+    images:
+      - url: "https://d.newsweek.com/en/full/1881439/donald-trump-jr-joe-biden.jpg"
+        width: 2560
+        height: 1600
+        isCached: true
   - title: "Biden's first budget marks sharp change from Trump years"
     excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden asked Congress to sharply increase spending to combat climate change and gun violence in a budget that marks a sharp departure from his predecessor, Donald Trump. The $1.5 trillion budget, reflecting an 8% ..."
     publishedDateTime: 2021-04-09T14:44:00Z
@@ -846,22 +862,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210610&t=2&i=1565181802&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH590FO"
         width: 816
         height: 545
-        isCached: true
-  - title: "Donald Trump Jr. Faces Backlash After Saying Joe Biden Showed 'Weakness' at Briefing"
-    excerpt: "Donald Trump's son shared a picture of the U.S. president during a press briefing, which was posted out of context."
-    publishedDateTime: 2021-08-27T12:32:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-jr-faces-backlash-after-saying-joe-biden-showed-weakness-briefing-1623602"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-jr-faces-backlash-after-saying-joe-biden-showed-weakness-briefing-1623602?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-jr-faces-backlash-after-saying-joe-biden-showed-weakness-briefing-1623602?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 133
-    images:
-      - url: "https://d.newsweek.com/en/full/1881439/donald-trump-jr-joe-biden.jpg"
-        width: 2560
-        height: 1600
         isCached: true
   - title: "Haaland urges Biden to fully protect three national monuments weakened by Donald Trump"
     excerpt: "Interior Secretary Deb Haaland has recommended in a private report that President Biden restore full protections to three national monuments diminished by Donald Trump, including Utah’s Bears Ears and Grand Staircase-Escalante and a huge marine reserve off New England."

@@ -234,6 +234,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "If you love Donald Trump, get vaccinated"
+    excerpt: "Former President Donald Trump experienced something new during his rally in Mobile, Ala., Saturday night: He was briefly booed."
+    publishedDateTime: 2021-08-27T16:00:00Z
+    webUrl: "https://www.sentinelsource.com/opinion/op-ed/if-you-love-donald-trump-get-vaccinated/article_8603ea25-939b-554c-9226-a0d98175b1e4.html"
+    type: article
+    provider:
+      name: The Keene Sentinel
+      domain: sentinelsource.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/sentinelsource.com/content/tncms/custom/image/94f334aa-d43b-11eb-b5e9-4f39ce134ddd.jpg"
+        width: 1200
+        height: 480
+        isCached: true
   - title: "Jan. 6 Select Committee Probe Expands To Trump And Top Officials In A Wave Of Demands"
     excerpt: "The House select committee investigating the Jan. 6 attack on the Capitol issued a wave of record requests to eight federal agencies, including any communications by Rudy Giuliani and Ivanka Trump."
     publishedDateTime: 2021-08-25T17:58:00Z

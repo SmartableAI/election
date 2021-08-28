@@ -8,7 +8,7 @@ webUrl: "https://www.newsweek.com/donald-trump-jr-faces-backlash-after-saying-jo
 ampWebUrl: "https://www.newsweek.com/donald-trump-jr-faces-backlash-after-saying-joe-biden-showed-weakness-briefing-1623602?amp=1"
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-jr-faces-backlash-after-saying-joe-biden-showed-weakness-briefing-1623602?amp=1"
 type: article
-quality: 133
+quality: 143
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://d.newsweek.com/en/full/1881439/donald-trump-jr-joe-biden.jpg"

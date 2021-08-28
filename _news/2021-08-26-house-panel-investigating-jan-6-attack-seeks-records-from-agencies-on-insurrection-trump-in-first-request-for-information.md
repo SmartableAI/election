@@ -182,6 +182,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Tiffany Trump Is the Only Adult Child of Donald Trump Not Being Investigated About January 6"
+    excerpt: "Capitol Hill. They have already made their list of people from the Trump administration whom they would like to speak to and there’s only one adult child from the Trump family who didn’t make the list: ."
+    publishedDateTime: 2021-08-27T13:16:00Z
+    webUrl: "https://www.sheknows.com/entertainment/articles/2482296/donald-trump-kids-january-6-investigation/"
+    ampWebUrl: "https://www.sheknows.com/entertainment/articles/2482296/donald-trump-kids-january-6-investigation/amp/"
+    cdnAmpWebUrl: "https://www-sheknows-com.cdn.ampproject.org/c/s/www.sheknows.com/entertainment/articles/2482296/donald-trump-kids-january-6-investigation/amp/"
+    type: article
+    provider:
+      name: SheKnows
+      domain: sheknows.com
+    quality: 64
+    images:
+      - url: "https://www.sheknows.com/wp-content/uploads/2021/08/tiffany-trump-investigation.jpg?w=1024"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Robin Vos meets with Trump, vows to keep ex-president 'updated' on election investigation"
     excerpt: "Assembly Speaker Robin Vos, the Racine County Republican who ordered the investigation into Wisconsin's 2020 election said he is going to be keeping the former president — who has not"
     publishedDateTime: 2021-08-23T10:30:00Z

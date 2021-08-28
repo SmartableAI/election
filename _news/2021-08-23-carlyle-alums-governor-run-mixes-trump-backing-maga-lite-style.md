@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-08-23/carlyle-alum-s-
 webUrl: "https://www.bloomberg.com/news/articles/2021-08-23/carlyle-alum-s-governor-run-mixes-trump-backing-maga-lite-style"
 type: article
 quality: 105
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "There’s a little Donald Trump in Erin O’Toole"
+    excerpt: "Flags, tweets, opposing vaccination for all, personal political hatred, that’s all part of the American catastrophe. But we do things differently in"
+    publishedDateTime: 2021-08-28T11:26:00Z
+    webUrl: "https://www.thestar.com/politics/political-opinion/2021/08/28/theres-a-little-donald-trump-in-erin-otoole.html"
+    ampWebUrl: "https://www.thestar.com/amp/politics/political-opinion/2021/08/28/theres-a-little-donald-trump-in-erin-otoole.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/politics/political-opinion/2021/08/28/theres-a-little-donald-trump-in-erin-otoole.html"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com
+    quality: 75
+    images:
+      - url: "https://images.thestar.com/soahNZMLOq0N9TKI2BA5jCHk9f0=/1200x925/smart/filters:cb(1630102320482)/https://www.thestar.com/content/dam/thestar/politics/political-opinion/2021/08/28/theres-a-little-donald-trump-in-erin-otoole/half_mast.jpg"
+        width: 1200
+        height: 925
+        isCached: true
   - title: "Trump-backed governor candidate walks a MAGA tightrope in Virginia"
     excerpt: "The crowd of about 300 Republican stalwarts in Norfolk, Virginia, included those wearing the requisite red baseball caps."
     publishedDateTime: 2021-08-24T08:00:00Z

@@ -86,6 +86,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Herschel Walker builds a campaign team with deep financial ties to Marjorie Taylor Greene, Donald Trump"
+    excerpt: "Former National Football League star Herschel Walker announced Tuesday he’d run for Georgia Senate to unseat freshman Sen. Raphael Warnock (D-Ga.). Walker already has the endorsement of former President Donald Trump,"
+    publishedDateTime: 2021-08-26T19:54:00Z
+    webUrl: "https://www.opensecrets.org/news/2021/08/herschel-walker-builds-campaign-team-with-deep-ties-to-marjorie-taylor-greene-donald-trump/"
+    type: article
+    provider:
+      name: OpenSecrets.org
+      domain: opensecrets.org
+    quality: 39
+    images:
+      - url: "https://cdn1.opensecrets.org/news/wp-content/uploads/2021/08/26130505/GettyImages-1228710277-e1629997521246.jpg"
+        width: 720
+        height: 480
+        isCached: true
 
 secured: "ST676sb8XP6a26D2xw4j0pAi2uxPf7UOsnYd+FgZFDIDbw+UgIdd4ibxjpYs+l0Z6JsFumiW+QBk47Eyv0TVvQB8XraYr8u7rDqYVMQOEUaeGHzQaQiH85u7QRkcsJV90YWr1OE/V4s7pjqNfmaG+UYfMayi/ouB/CLYcMu0yl04wIpvuUjqnUnfbVucsV2tvAusiasyvlmNSMgqtQ91+vHQR9GxvlNGvGgUKBLcATA/b0/DOTCtwZAoFvca/qGgHFYlkZ/1WokXzzyoxriNgon6q3VCzjCpSbux4ahopT8K0zGxS38zDgwf4dEFSwMbW4wguOa7XBJs/bs2IobiukrM2ERwxBx7itH3zrGzD8w=;4jdlfnzvKTmEiq49OWUuJg=="
 ---

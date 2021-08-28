@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-24-kamala-harris-vietnam-visit-reportedly-held-up-by-havana-syndrome-scare.md",
+      "title": "Kamala Harris’ Vietnam Visit Reportedly Held Up By ‘Havana Syndrome’ Scare",
+      "excerpt": "Two or more U.S. staff in Hanoi were evacuated this weekend after feeling symptoms associated with a syndrome experienced by American officials overseas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/graisondangor/2021/08/24/kamala-harris-vietnam-visit-reportedly-held-up-by-havana-syndrome-scare/",
+      "originalUrl": "https://www.forbes.com/sites/graisondangor/2021/08/24/kamala-harris-vietnam-visit-reportedly-held-up-by-havana-syndrome-scare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61251c91ce84aa0b4d56c570%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3614%26cropY1%3D183%26cropY2%3D2217",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/graisondangor/2021/08/24/kamala-harris-vietnam-visit-reportedly-held-up-by-havana-syndrome-scare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/graisondangor/2021/08/24/kamala-harris-vietnam-visit-reportedly-held-up-by-havana-syndrome-scare/amp/",
+      "publishedDateTime": "2021-08-24T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-scotus-gave-trump-leeway-on-executive-actions-biden-wants-the-same-treatment.md",
       "title": "SCOTUS gave Trump leeway on executive actions. Biden wants the same treatment",
       "excerpt": "The Biden administration faces two major confrontations with the Supreme Court this week, as the justices weigh requests related to the Covid moratorium on evictions and the termination of a Trump practice that forced migrants seeking US asylum to stay in Mexico until their claims could be heard.\n  ",
@@ -1158,7 +1210,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2021-08-23/carlyle-alum-s-governor-run-mixes-trump-backing-maga-lite-style",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -1231,63 +1283,6 @@
       "ampWebUrl": "https://www.foxnews.com/media/gowdy-biden-claimed-to-be-moses-leading-us-out-of-the-wilderness-and-the-media-fell-for-it-we-knew-better.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/gowdy-biden-claimed-to-be-moses-leading-us-out-of-the-wilderness-and-the-media-fell-for-it-we-knew-better.amp",
       "publishedDateTime": "2021-08-22T18:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-john-ratcliffe-adversaries-are-going-to-use-bidens-failure-as-propaganda.md",
-      "title": "John Ratcliffe: Adversaries are going to use Biden's failure as propaganda",
-      "excerpt": "Former Director of National Intelligence John Ratcliffe spoke with Trey Gowdy on international consequences following the Afghanistan crisis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/john-ratcliffe-adversaries-use-bidens-failure-as-propaganda",
-      "originalUrl": "https://www.foxnews.com/media/john-ratcliffe-adversaries-use-bidens-failure-as-propaganda",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0ec8488a-9efa-49a7-bcce-f3e8fb73ec8d/c215abbc-6db4-44b0-82fc-f031fc28a0f5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/john-ratcliffe-adversaries-use-bidens-failure-as-propaganda.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/john-ratcliffe-adversaries-use-bidens-failure-as-propaganda.amp",
-      "publishedDateTime": "2021-08-22T18:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

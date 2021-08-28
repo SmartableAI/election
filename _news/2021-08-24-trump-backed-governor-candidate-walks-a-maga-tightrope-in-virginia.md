@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "There’s a little Donald Trump in Erin O’Toole"
+    excerpt: "Flags, tweets, opposing vaccination for all, personal political hatred, that’s all part of the American catastrophe. But we do things differently in"
+    publishedDateTime: 2021-08-28T11:26:00Z
+    webUrl: "https://www.thestar.com/politics/political-opinion/2021/08/28/theres-a-little-donald-trump-in-erin-otoole.html"
+    ampWebUrl: "https://www.thestar.com/amp/politics/political-opinion/2021/08/28/theres-a-little-donald-trump-in-erin-otoole.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/politics/political-opinion/2021/08/28/theres-a-little-donald-trump-in-erin-otoole.html"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com
+    quality: 75
+    images:
+      - url: "https://images.thestar.com/soahNZMLOq0N9TKI2BA5jCHk9f0=/1200x925/smart/filters:cb(1630102320482)/https://www.thestar.com/content/dam/thestar/politics/political-opinion/2021/08/28/theres-a-little-donald-trump-in-erin-otoole/half_mast.jpg"
+        width: 1200
+        height: 925
+        isCached: true
 
 secured: "TSNGyqhA5PG8Qkn/m4H+th56HzBmzbCIXCVqilW0CP3taov6mVqtrppFOhxWC/o/tV3p8QYx6g3E7g8mh8gvLCr2SMT17K7hP9JYS5Mw69lKySRMWSYTZR97x7c/mRskTwEv7G9TBUJDk8B+bymCwfaNZ9+WXCkCHQyOGn6AD25JVn5cZBm7w+aIj1ANHk9kHkOwY9P2upj8tSIpIGKT1X2MBKoA6r4v6YEZ5rogbIIOLG8VYK4SIdpkAF1b8bHSvQl19kdGUXNqYmJ8dKbr+I6ZakJDYok8jIi1vNacioepJoUXAN/m84Zwg/PgS95GzlwSz0rwCcsPrSSzeFjak0O7GL0aiFSAcF2MYd5g+58=;Yo+4Pi+mY3vaBNGl/Ol23w=="
 ---
