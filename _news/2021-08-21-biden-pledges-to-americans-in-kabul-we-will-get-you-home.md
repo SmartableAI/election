@@ -108,20 +108,20 @@ related:
         height: 336
         isCached: true
   - title: "Biden: Another attack likely, pledges more strikes on IS"
-    excerpt: "President Joe Biden vowed Saturday to keep up airstrikes against the Islamic extremist group whose suicide bombing at the Kabul airport killed scores of Afghans and 13"
-    publishedDateTime: 2021-08-28T23:38:00Z
-    webUrl: "https://www.ocregister.com/2021/08/28/biden-another-attack-likely-pledges-more-strikes-on-is/"
-    ampWebUrl: "https://www.ocregister.com/2021/08/28/biden-another-attack-likely-pledges-more-strikes-on-is/amp/"
-    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/08/28/biden-another-attack-likely-pledges-more-strikes-on-is/amp/"
+    excerpt: "President Joe Biden vowed Saturday to keep up airstrikes against the Islamic extremist group whose suicide bombing at the Kabul airport killed scores of Afghans and 13 American service members. He"
+    publishedDateTime: 2021-08-29T03:43:00Z
+    webUrl: "https://www.denverpost.com/2021/08/28/joe-biden-another-attack-likely/"
+    ampWebUrl: "https://www.denverpost.com/2021/08/28/joe-biden-another-attack-likely/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/08/28/joe-biden-another-attack-likely/amp/"
     type: article
     provider:
-      name: Orange County Register
-      domain: ocregister.com
+      name: The Denver Post
+      domain: denverpost.com
     quality: 75
     images:
-      - url: "https://www.ocregister.com/wp-content/uploads/2021/08/Biden_55692-1.jpg?w=1024&#038;h=682"
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/08/AP21240654307233.jpg?w=1024&#038;h=683"
         width: 1024
-        height: 682
+        height: 683
         isCached: true
   - title: "Seattle Storm Visit President Joe Biden at White House to Celebrate 2020 WNBA Title"
     excerpt: "The Seattle Storm were honored Monday at the White House by President Joe Biden to commemorate their 2020 WNBA championship. They were the first WNBA"

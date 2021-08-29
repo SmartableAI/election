@@ -3,25 +3,25 @@ category: news
 title: "Pence, Cruz, DeSantis to headline Ricketts steak fry event"
 excerpt: "Former Vice President Mike Pence, Texas Sen. Ted Cruz and Florida Gov. Ron DeSantis are coming to Nebraska for Gov. Pete Ricketts' annual steak fry next"
 publishedDateTime: 2021-08-09T15:38:00Z
-originalUrl: "https://siouxcityjournal.com/news/national/govt-and-politics/pence-cruz-desantis-to-headline-ricketts-steak-fry-event/article_0ccd83ae-2e4b-5819-8943-dfacaf6115d4.html"
-webUrl: "https://siouxcityjournal.com/news/national/govt-and-politics/pence-cruz-desantis-to-headline-ricketts-steak-fry-event/article_0ccd83ae-2e4b-5819-8943-dfacaf6115d4.html"
+originalUrl: "https://chippewa.com/news/national/govt-and-politics/pence-cruz-desantis-to-headline-ricketts-steak-fry-event/article_a365332a-bbd4-5951-a11b-f510b6c54f54.html"
+webUrl: "https://chippewa.com/news/national/govt-and-politics/pence-cruz-desantis-to-headline-ricketts-steak-fry-event/article_a365332a-bbd4-5951-a11b-f510b6c54f54.html"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Sioux City Journal
-  domain: siouxcityjournal.com
+  name: Chippewa Herald
+  domain: chippewa.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/custom/image/e99b3a88-c54c-11ea-8bc7-c382f0c7a0d6.jpg"
-    width: 1200
-    height: 630
+  - url: "https://bloximages.chicago2.vip.townnews.com/chippewa.com/content/tncms/custom/image/4530796a-c2de-11ea-8111-1b2170be1764.jpg"
+    width: 1140
+    height: 662
     isCached: true
 
 related:
@@ -97,6 +97,6 @@ related:
         height: 630
         isCached: true
 
-secured: "wb+wazdhT94Zpv6BO1Fky0i8ESyZExt+zpY1gedObQMctaxJrBWLcXEZB/D+XBCv6/r4SXxkZMDcFVonDwvoNvKSW4LTnunIn6Fsea/kVi3T7aJU3fNFQkygl44tDCPanpXjNvIb7qZ+5iqr3XuN0Dw6JMP3d5Qy2jQoMaaQC36ewV6Brwpikhq6OuiyczEa38b/SLrDys7Wrftf43/bWYZXMPElmUAOiAE/Xw9MiSv8qvc3i5TgemCSyJczsyvKCUsaair+v7nCx3pIXts/sqFft0BTVeFiHu4QT4lPHFZcYCZm4ZUyhuQZWXgQzaGdS+1r/IWTlrjfkKNoHWa9FskCy5pRKJU2BwCDX7UYJiw=;CGvldKfq0fO1m/AnLRAtbA=="
+secured: "cbNWQbdZp/P/WIzDJ9dihrJ3Sda9tGb48Zde2IVppfz9/cIP3uZzl9PuIhC2/tukq3D6ikh8WkiHfofkOd85bzIrl0E5MfrRBQQ1B+vOdWUyz+Xrv7zaGPdiwsLUYOgXLgLu08KLbMVU7LZril6iVOFVSO35GPEs244ZFA61SOI4MCtRXd8i0T2Rozw902NYoyaYzlARwXLWilZMn/yb5WMgI5I5pIwIQMqYpuj+ROF2POMngUH3YkbM67GVOyAOyRqfQJIxNnoOpqxjgpdEhzeIqZTLWQj50U7++I3I9u10PIauXwSrUKBW4sVg2//cp1o1Cso3EUAJLvrS5CXu3N3e/YRnHJ+VYB8Gu+V8PzU=;OL0zoL8jFwxAswqBPbX0bg=="
 ---
 

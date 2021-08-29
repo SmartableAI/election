@@ -186,6 +186,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Jesse Watters slams Biden for Kabul attack: 'By far the worst day of Joe Biden's presidency'"
+    excerpt: "Jesse Watters criticized Joe Biden for the attack at the Kabul airport that killed 13 U.S. service members, saying it was an \"avoidable tragedy.\""
+    publishedDateTime: 2021-08-29T02:05:00Z
+    webUrl: "https://www.foxnews.com/media/jesse-watters-slams-biden-for-kabul-attack-by-far-the-worst-day-of-joe-bidens-presidency"
+    ampWebUrl: "https://www.foxnews.com/media/jesse-watters-slams-biden-for-kabul-attack-by-far-the-worst-day-of-joe-bidens-presidency.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/jesse-watters-slams-biden-for-kabul-attack-by-far-the-worst-day-of-joe-bidens-presidency.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "What We've Learned About Team Biden's Incompetence"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-08-22T19:38:00Z

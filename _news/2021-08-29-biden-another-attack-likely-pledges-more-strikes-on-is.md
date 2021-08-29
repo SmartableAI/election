@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Biden: Another attack likely, pledges more strikes on IS"
-excerpt: "President Joe Biden vowed Saturday to keep up airstrikes against the Islamic extremist group whose suicide bombing at the Kabul airport killed scores of Afghans and 13"
-publishedDateTime: 2021-08-28T23:38:00Z
-originalUrl: "https://www.ocregister.com/2021/08/28/biden-another-attack-likely-pledges-more-strikes-on-is/"
-webUrl: "https://www.ocregister.com/2021/08/28/biden-another-attack-likely-pledges-more-strikes-on-is/"
-ampWebUrl: "https://www.ocregister.com/2021/08/28/biden-another-attack-likely-pledges-more-strikes-on-is/amp/"
-cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/08/28/biden-another-attack-likely-pledges-more-strikes-on-is/amp/"
+excerpt: "President Joe Biden vowed Saturday to keep up airstrikes against the Islamic extremist group whose suicide bombing at the Kabul airport killed scores of Afghans and 13 American service members. He"
+publishedDateTime: 2021-08-29T03:43:00Z
+originalUrl: "https://www.denverpost.com/2021/08/28/joe-biden-another-attack-likely/"
+webUrl: "https://www.denverpost.com/2021/08/28/joe-biden-another-attack-likely/"
+ampWebUrl: "https://www.denverpost.com/2021/08/28/joe-biden-another-attack-likely/amp/"
+cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/08/28/joe-biden-another-attack-likely/amp/"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Orange County Register
-  domain: ocregister.com
+  name: The Denver Post
+  domain: denverpost.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.ocregister.com/wp-content/uploads/2021/08/Biden_55692-1.jpg?w=1024&#038;h=682"
+  - url: "https://www.denverpost.com/wp-content/uploads/2021/08/AP21240654307233.jpg?w=1024&#038;h=683"
     width: 1024
-    height: 682
+    height: 683
     isCached: true
 
 related:
@@ -348,6 +348,6 @@ related:
       domain: columbiabasinherald.com
     quality: 35
 
-secured: "pDHgQibdkvZsGsQetO6FwnqXa6jBU6l29jW0YIk2LKsVtoHvPBw0tmOQk1IqiG2Er6r0jfGOfPgB5b0St7mcj5qFy0v76GgyK10gSxznrbLPM7PBNYm7qoq7A4/HDqAAbN5/rDfynmV6Sw+rpt4fxV3b7oQhYLfJPzKwDucGdO63xWp2wrLsYewVUfzuTYHZiCXPvcqIL9J4IXjDUjD0ra3h9mbwu8YZsVi2+QUPNwPjdbgBBHFfKOTa/j9bfbTIDPTeWIubvZhR93aYROeXjhfEIJDKjOyfsgzx2XjOZmJzg9F8gzjYnrFwSXbclNpGrhwjZ2FV3O1rjXkrB4cRVkBXfwxfM1x2J1LYKAtdbSo=;DWDrpd9o+i5FHRSHJbYj0w=="
+secured: "uLgGaTnUdTWxAAcjCB5jAUQVrNmoVtylYj0wFsmYrZrXwNqQz/VpL4q5gJsti4bHUpwpyDUbPxMUUQuD8sLUEpsTEJv+0jiNf18ePaDEriRtlzCCgjCrF7lc+KsgRTsdEqSDCfE8YwynROSd+apGvOrVbn+V8CS6XHs24fDWofXOLaQtaQREbXewzUdaf0PyU2eqdclPjRaMP4D7w5BdJJiwAM/bbCTjlYi4pfBquqScByFG2DtLZgTxuML1bQQtKDVmkwT6z7AsE+eW+eIhV+VisqeV6CX0V7jpxt55Syywf9rzv0iH7RlyvwVMvmc2k/W4pgdvpRwjQTtHCHE03OIajVgTNRhErSLYRCc41zo=;h5KRvQgMLPplh/WbLrhRFA=="
 ---
 

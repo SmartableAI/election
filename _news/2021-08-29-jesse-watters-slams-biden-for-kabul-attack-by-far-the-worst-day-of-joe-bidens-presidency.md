@@ -1,20 +1,24 @@
 ---
 category: news
-title: "Growing political roadblock vs. big spender Joe Biden"
-excerpt: "As the debacle in Afghanistan consumes the Biden administration, Wall Street is keeping a closer eye on another debacle."
-publishedDateTime: 2021-08-22T03:38:00Z
-originalUrl: "https://nypost.com/2021/08/21/growing-political-roadblock-vs-big-spender-joe-biden/"
-webUrl: "https://nypost.com/2021/08/21/growing-political-roadblock-vs-big-spender-joe-biden/"
-ampWebUrl: "https://nypost.com/2021/08/21/growing-political-roadblock-vs-big-spender-joe-biden/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/21/growing-political-roadblock-vs-big-spender-joe-biden/amp/"
+title: "Jesse Watters slams Biden for Kabul attack: 'By far the worst day of Joe Biden's presidency'"
+excerpt: "Jesse Watters criticized Joe Biden for the attack at the Kabul airport that killed 13 U.S. service members, saying it was an \"avoidable tragedy.\""
+publishedDateTime: 2021-08-29T02:05:00Z
+originalUrl: "https://www.foxnews.com/media/jesse-watters-slams-biden-for-kabul-attack-by-far-the-worst-day-of-joe-bidens-presidency"
+webUrl: "https://www.foxnews.com/media/jesse-watters-slams-biden-for-kabul-attack-by-far-the-worst-day-of-joe-bidens-presidency"
+ampWebUrl: "https://www.foxnews.com/media/jesse-watters-slams-biden-for-kabul-attack-by-far-the-worst-day-of-joe-bidens-presidency.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/jesse-watters-slams-biden-for-kabul-attack-by-far-the-worst-day-of-joe-bidens-presidency.amp"
 type: article
-quality: 135
+quality: 124
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -22,9 +26,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/biden-15.jpg?quality=90&strip=all&w=1024"
-    width: 1024
-    height: 683
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -156,6 +160,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Growing political roadblock vs. big spender Joe Biden"
+    excerpt: "As the debacle in Afghanistan consumes the Biden administration, Wall Street is keeping a closer eye on another debacle."
+    publishedDateTime: 2021-08-22T03:38:00Z
+    webUrl: "https://nypost.com/2021/08/21/growing-political-roadblock-vs-big-spender-joe-biden/"
+    ampWebUrl: "https://nypost.com/2021/08/21/growing-political-roadblock-vs-big-spender-joe-biden/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/21/growing-political-roadblock-vs-big-spender-joe-biden/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/biden-15.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "CBS reporter instructs WH staff to show Biden the poll about his job approval falling"
     excerpt: "CBS reporter Bo Erickson called on the Biden administration to inform President Joe Biden on his now falling job approval numbers."
     publishedDateTime: 2021-08-22T22:35:00Z
@@ -171,22 +191,6 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/720992a2-fc40-4646-81b9-af47fb1722e0/9216b3ca-df46-43a9-ab31-24a7573f75ec/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
-        isCached: true
-  - title: "Jesse Watters slams Biden for Kabul attack: 'By far the worst day of Joe Biden's presidency'"
-    excerpt: "Jesse Watters criticized Joe Biden for the attack at the Kabul airport that killed 13 U.S. service members, saying it was an \"avoidable tragedy.\""
-    publishedDateTime: 2021-08-29T02:05:00Z
-    webUrl: "https://www.foxnews.com/media/jesse-watters-slams-biden-for-kabul-attack-by-far-the-worst-day-of-joe-bidens-presidency"
-    ampWebUrl: "https://www.foxnews.com/media/jesse-watters-slams-biden-for-kabul-attack-by-far-the-worst-day-of-joe-bidens-presidency.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/jesse-watters-slams-biden-for-kabul-attack-by-far-the-worst-day-of-joe-bidens-presidency.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 124
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Graham: If We Leave Any Afghan Behind, Joe Biden Deserves To Be Impeached For Dereliction Of Duty"
     excerpt: "Senate Judiciary Committee member Sen. Lindsey Graham (R-SC) said on Friday if President Joe Biden leaves behind any American or Afghani ally behind then he should be impeached. \"We're duty-bound to get every American citizen out."
@@ -212,6 +216,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "eJIKbdcWUMtkq+/Z0qkv17awv+F+B4JMLV2QR0EH1t5gcoxQVM11jkIfICMUQsuwdKArwDJRe7cQkT7DMV2eQoEJQ2baxjYhX4BXxtI7bMqby5FKAYQWpyPYv2Z5MRKAFGQnnv9DPJsJGATULlGgt6ymgFPcUrWRqHs25pRiKGw3P/8jgZncQX+RXplbawJkMtIeZ+RHLX6pdIw1FoOwuK/Ubkz67sMMOJe4le8lzeePeZxxjPhfYndCPj4mQV5FmHgYrt0YdDKzjQuURv/jxfRZVOoyn4WJXsYYiz5xvKC5kfaWH3avBeC+0l0vmQkPUp8y0/08oVbHIrePQ9nWaxOT6tAXKHK8VWM8HeBIe5E=;8atouoxUyFIvimJeSHJbMw=="
+secured: "Z0ZsIO9b/h53a+2VcK86QsGKWpUHrX7oPuXqQRKDLcAqtwMgjvu/N/8q5DftmZivmSZMvYwK6cU1phD3WjrQmyCiSEQqpIK286tZzXSJOdykmzN30w1Jd/gBkAhDUrOQibQFnnNiorYXCtdQyuSjOzsW8VAPOcj96Tbuji5T0b2zeVluYx+K1jEoCjVZ7CVEqznjTUJidbjy7N1aXun/3dZcoBdT5uOpekvEGA1GuETbCywc28tXqS8SASxTO/s2gRJtp4Plf+QNS3PBbFg98jA4IQZDJ4oBp7GyJNNnuCm2BcmrPcjn4KObcbL7IiFtK2LN+E7LWJLbsI/pWO0qUkJo0KRUPJyvxiqEX4hvTjo=;CsnGtlRyuLSbX3qsdyjz5g=="
 ---
 

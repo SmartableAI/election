@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-poll-numbers-plunging-democra
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-poll-numbers-plunging-democrats-worry-afghanistan-midterms.amp"
 type: article
 quality: 178
-heat: 398
+heat: 418
 published: true
 
 provider:
@@ -174,6 +174,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/720992a2-fc40-4646-81b9-af47fb1722e0/9216b3ca-df46-43a9-ab31-24a7573f75ec/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Jesse Watters slams Biden for Kabul attack: 'By far the worst day of Joe Biden's presidency'"
+    excerpt: "Jesse Watters criticized Joe Biden for the attack at the Kabul airport that killed 13 U.S. service members, saying it was an \"avoidable tragedy.\""
+    publishedDateTime: 2021-08-29T02:05:00Z
+    webUrl: "https://www.foxnews.com/media/jesse-watters-slams-biden-for-kabul-attack-by-far-the-worst-day-of-joe-bidens-presidency"
+    ampWebUrl: "https://www.foxnews.com/media/jesse-watters-slams-biden-for-kabul-attack-by-far-the-worst-day-of-joe-bidens-presidency.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/jesse-watters-slams-biden-for-kabul-attack-by-far-the-worst-day-of-joe-bidens-presidency.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Graham: If We Leave Any Afghan Behind, Joe Biden Deserves To Be Impeached For Dereliction Of Duty"
     excerpt: "Senate Judiciary Committee member Sen. Lindsey Graham (R-SC) said on Friday if President Joe Biden leaves behind any American or Afghani ally behind then he should be impeached. \"We're duty-bound to get every American citizen out."
