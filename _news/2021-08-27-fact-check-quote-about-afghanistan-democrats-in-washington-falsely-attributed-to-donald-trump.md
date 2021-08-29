@@ -1,24 +1,20 @@
 ---
 category: news
 title: "Fact check: Quote about Afghanistan, Democrats in Washington falsely attributed to Donald Trump"
-excerpt: "The claim: Donald Trump said, 'Do not be distracted by all this going on in Afghanistan' As former President Donald Trump has criticized President Joe Biden's handling of the U.S. withdrawal from Afghanistan, online posts surfaced claiming Trump said ..."
-publishedDateTime: 2021-08-26T18:15:00Z
-originalUrl: "https://www.usatoday.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
-webUrl: "https://www.usatoday.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
-ampWebUrl: "https://amp.usatoday.com/amp/5586860001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5586860001"
+excerpt: "Donald Trump did not say the situation in Afghanistan is a distraction from the Democrats in Washington. The quote is being falsely attributed to him."
+publishedDateTime: 2021-08-27T02:32:00Z
+originalUrl: "https://www.indystar.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
+webUrl: "https://www.indystar.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
+ampWebUrl: "https://amp.indystar.com/amp/5586860001"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5586860001"
 type: article
-quality: 113
+quality: 63
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -1699,6 +1695,6 @@ related:
         height: 380
         isCached: true
 
-secured: "0BwB31tEvxqA8nvaboKw0mEUlPET3oT/fmcbh/PZx6sBHab9xKbQXjbjhvq4h5mOJzbcLa8kHNC1Zy7D+hGyX8HMSa7e3hGNwTAgqowNc6IPkf4HC/lNDW0/+GjVl6v9JwVwFM1fnmlUpeHXBYuQv8WO1258iEhTJv9m8DKA8uHp7Gtv6WVY2JRuBNVE1TS/cwiMVQd64TqHYGx0VyZjGUSVsqsrj3E20BojG4ClVmXJhKCx/KL+7W23ZaPUPuDooSNYHwDYr0+wISVVNRm/wobjNfB2vmEjVRXlMwAj6FuYHzTCOxALtJnYvzX2sJrG+1AIdo84rea8JRMG5NWIevaaOiMiVdgxH8JtJzXcg19nBsjTtusSmrMGIO35V9C6GPlxShbaIP/9QED1PESB4UWCxObgfJ+XaoznhdjqU7x1qSjn5lCQ5q//+BV0PkL/CSJPNOAKo3Wxuwc4lOmkR5t00QBROOIOtwPgpil96O/iCSZSyqNRRvSLStg8fTouGlIrLup8RJGra2vFKtyT8g==;feAqOywvtlqyL+pU0I0nXw=="
+secured: "Z8iV1wqjpSDtdul9zz4UZyHriee0+Qtvnj4VsLDXPPa1x4ziolInGtn98d/yiTa7paBAAgRpgmJlQqa2/tgrDrzQ5Xpgh6h4zKj36dABnZO+ZoWdgIelaKoQJgWCppHPrtQsq93GY3JXIj/gPvC7Eq5iWOYZK3jSejlCyTtoGxaYgTmGjHjz83Q5XVIN91vrxw44F4KewqlWp1OMh4P2BkPcSRnySMhj4Wr4ke6RFBC07efc2ELtrlFQ43BQ40E/v+pOHulkaYy3WM8E3JjmOg6BjZue6eKQGGfelUevXBMRkDRKV5T9sWyE4ra/e+3mf1v4NMiPhJ2uNDVv/3FAHtZ1e4ynvHPQi4romgMTEwo=;62F6GwhfU50peUR6eduQOw=="
 ---
 
