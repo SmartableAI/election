@@ -50,7 +50,7 @@ related:
   - title: "Joe Biden’s potential Jimmy Carter moment"
     excerpt: "In Joe Biden’s remarks following the Kabul terrorist attack on Thursday, he concluded: “Ladies and gentlemen, after 20 years it was time to end a 20-year war.” The moment was horribly circular. America went into Afghanistan in 2001 to drive out the terrorists."
     publishedDateTime: 2021-08-27T00:07:00Z
-    webUrl: "https://www.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb?63bac0e6-3d28-36b1-7417-423982f60790"
+    webUrl: "https://www.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb"
     ampWebUrl: "https://amp.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb"
     cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb"
     type: article

@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden’s potential Jimmy Carter moment"
 excerpt: "In Joe Biden’s remarks following the Kabul terrorist attack on Thursday, he concluded: “Ladies and gentlemen, after 20 years it was time to end a 20-year war.” The moment was horribly circular. America went into Afghanistan in 2001 to drive out the terrorists."
 publishedDateTime: 2021-08-27T00:07:00Z
-originalUrl: "https://www.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb?63bac0e6-3d28-36b1-7417-423982f60790"
-webUrl: "https://www.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb?63bac0e6-3d28-36b1-7417-423982f60790"
+originalUrl: "https://www.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb"
+webUrl: "https://www.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb"
 ampWebUrl: "https://amp.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb"
 type: article
@@ -796,6 +796,6 @@ related:
       domain: avvo.com
     quality: 14
 
-secured: "xbUOHS0CYko9IphBaHaeeyYf8cQGiesi/oJxMFQIwakFltr+3yPgBQzr8JF9BBj5qcvAVdLBuDz3eWr0YkdDR953ktosDfygBU6RuC+n9q7OFQRWLJ8+uJuF0+5pw/ezrsi7GXIZas0HcXDSLs2lsxVwBgZTuezPLO1U/H+nAXntNWGOU4WbCsyqANGjTH08+PNUZPoUVqGQX65/kVIw0LiZGiYZ1FFV3OSugV2+GXtYmBtT4bM48R8DPyuq4epMij4Dy2OYPY2FZ4wXR7Tifhggq435t3B2NiMrXXrG1AABxCin+5rvHDN5ZKNRL/7k4M4yiuUjTSLj+TVlljBEBAp1X++GUTorfii/Hmom7Z4=;1GrAqFa/BBrgHNU8cdumyQ=="
+secured: "TTIkNa/D5Pe/3bmn8Gi3Z3cCeBbW4B0Bd/QSRCoyBuYo/N/QslBWUrhF5L07cZnS8gYmvyQ4FDltB08NfKkNjF/yypdNu8K3jXsQr1GoFNR09tfsUUIEsiIBEp8BZEhZQsNYPOXJDyHJySmOIyXmTaOB57CR4vm0Ll2g5vkyfvybKYyUrWcmKS9I8+NRJQF93uJLlb2R29EmruWGiXsvKoP6rUYxbe10lCyHAFrtmX7v3pv49tM7NyiMAY1mz35ZIo/UkIpctb8ohFDGuLKg3ah6P7c1s7eXwu8nCQDCig/ubIhVBECy5GMUNVDdarco1lJpgwsV1bzomoQoYmVkJkZS6LvQq8sEY94uf3fr0Fw=;dv7xw5y9EM4xa7JWmRQV8Q=="
 ---
 
