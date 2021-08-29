@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Beto-O-Rourke-pu
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Beto-O-Rourke-pushes-Joe-Biden-to-help-pass-16411342.php"
 type: article
 quality: 125
-heat: 405
+heat: 425
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "President Biden pays respects to US troops killed in Kabul airport suicide attack"
+    excerpt: "President Biden met in private Sunday with the families of the 13 U.S. troops killed in the suicide attack near the Kabul airport."
+    publishedDateTime: 2021-08-29T17:45:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-biden-afghanistan-troops-20210829-gsaxqyxbs5e4tlr3tp4q56q6na-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-biden-afghanistan-troops-20210829-gsaxqyxbs5e4tlr3tp4q56q6na-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-biden-afghanistan-troops-20210829-gsaxqyxbs5e4tlr3tp4q56q6na-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 120
+    images:
+      - url: "https://www.chicagotribune.com/resizer/P2NWIVen-ufMj81P6oi814ciW7A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/26BUKCLR2XT3FI42D6R6FBM3NQ.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden's special envoy urges North Korea to return to talks"
     excerpt: "U.S. President Joe Biden’s special envoy for North Korea said Monday he’s ready to meet his North Korean counterparts “anywhere and at anytime” as he held discussions with South Korean officials over stalled nuclear talks with the North."
     publishedDateTime: 2021-08-23T09:45:00Z

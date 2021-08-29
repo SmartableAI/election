@@ -43,6 +43,22 @@ related:
         width: 400
         height: 266
         isCached: true
+  - title: "President Biden pays respects to US troops killed in Kabul airport suicide attack"
+    excerpt: "President Biden met in private Sunday with the families of the 13 U.S. troops killed in the suicide attack near the Kabul airport."
+    publishedDateTime: 2021-08-29T17:45:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-biden-afghanistan-troops-20210829-gsaxqyxbs5e4tlr3tp4q56q6na-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-biden-afghanistan-troops-20210829-gsaxqyxbs5e4tlr3tp4q56q6na-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-biden-afghanistan-troops-20210829-gsaxqyxbs5e4tlr3tp4q56q6na-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 120
+    images:
+      - url: "https://www.chicagotribune.com/resizer/P2NWIVen-ufMj81P6oi814ciW7A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/26BUKCLR2XT3FI42D6R6FBM3NQ.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden vows to finish Kabul evacuation, avenge US deaths"
     excerpt: "President Joe Biden is vowing to avenge the deaths of 13 American troops and dozens of Afghans at the Kabul airport, an attack that thrust the White House deeper into crisis over a chaotic and deadly end to a 20-year war."
     publishedDateTime: 2021-08-27T08:48:00Z

@@ -1452,6 +1452,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "McCarthy slams Biden’s Afghanistan withdrawal as ‘partisan, political decision designed for a photo-op’"
+    excerpt: "House Minority Leader Kevin McCarthy on Sunday slammed President Biden’s withdrawal from Afghanistan as a “partisan, political decision designed for a photo-op” ahead of the 20th anniversary of 9/11."
+    publishedDateTime: 2021-08-29T16:17:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rv8OltLfBEc/mccarthy-bidens-afghanistan-withdrawal-partisan-political-decision-photo-op"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 139
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/McCarthy.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump rips Biden's Afghan actions: 'Our country has never been so humiliated'; 'blows Vietnam away'"
     excerpt: "Former President Donald J. Trump strongly condemned President Joe Biden and the catastrophe unfolding in Kabul, Afghanistan since the weekend, in an interview with \"Hannity\" on Tuesday."
     publishedDateTime: 2021-08-18T02:50:00Z

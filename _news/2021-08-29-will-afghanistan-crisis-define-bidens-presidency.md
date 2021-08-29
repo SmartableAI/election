@@ -739,6 +739,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden aide: US has capacity to evacuate remaining Americans"
+    excerpt: "He warned another attack was “highly likely” and the State Department called the threat “specific” and “credible.” The Pentagon said the remaining contingent of U.S. forces at the airport, now numbering fewer than 4,"
+    publishedDateTime: 2021-08-29T17:38:00Z
+    webUrl: "https://www.lmtonline.com/news/article/Biden-Another-attack-likely-pledges-more-16419255.php"
+    ampWebUrl: "https://www.lmtonline.com/news/amp/Biden-Another-attack-likely-pledges-more-16419255.php"
+    cdnAmpWebUrl: "https://www-lmtonline-com.cdn.ampproject.org/c/s/www.lmtonline.com/news/amp/Biden-Another-attack-likely-pledges-more-16419255.php"
+    type: article
+    provider:
+      name: Laredo Morning Times
+      domain: lmtonline.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Joe Biden gifting Afghanistan to the Taliban is a crime against humanity"
     excerpt: "IN 20 days, it will be exactly 20 years since someone phoned you and said, “Turn on your television now.” Twenty years since those planes came out of a clear blue sky and ploughed into the Twin"
     publishedDateTime: 2021-08-22T01:02:00Z
@@ -1352,6 +1368,20 @@ related:
       - url: "https://chinapost-media.nownews.com/2021/08/fcc2bdd4-preview.jpg"
         width: 800
         height: 534
+        isCached: true
+  - title: "Joe Biden pays respects to US troops killed in Afghanistan"
+    excerpt: "President Joe Biden and Jill Biden are greeted Sunday as they arrive at Dover Air Force Base, Delaware. Credit: Manuel Balce Ceneta / AP DOVER AIR FORCE BASE, Delaware — President Joe Biden met ..."
+    publishedDateTime: 2021-08-29T15:17:00Z
+    webUrl: "https://bangordailynews.com/2021/08/29/national-politics/joe-biden-pays-respects-to-us-troops-killed-in-afghanistan/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/Afghanistan-Biden-Troops.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Biden will face pressure from G7 to extend Afghanistan withdrawal deadline"
     excerpt: "By Kevin Liptak and Barbara Starr, CNN Leaders from the top foreign allies of the United States are planning to press President Joe Biden to extend the deadline for US troops to withdraw from Afghanistan during a Tuesday morning meeting,"

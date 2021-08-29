@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden in the ‘Loneliest Job,' a Presidency Driven by Crisis"
 excerpt: "Surrounded by everything a superpower can offer and watched by all, President Joe Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan and tried to keep the focus on what,"
-publishedDateTime: 2021-08-28T22:12:00Z
-originalUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/"
-webUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/"
+publishedDateTime: 2021-08-29T01:54:00Z
+originalUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
+webUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
 ampWebUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
 type: article
@@ -163,6 +163,6 @@ related:
       domain: seattletimes.com
     quality: 50
 
-secured: "9OAfZLZwyRDQRBNksy1ak7RcxPZcIcQPmTUr+g7opc7ObR00qtuybcP0R+4Q9GjbpozfS+G51pvzVXfMQS2CrxDE0Yc++UdqAoIVvjilC6A3by/AyJ7UF1zx7XsMRc0oob0GEQfkA/LdOj0AM/Mg/iNf6NRcvpT4obEqG8wT9PQ+27lysVmmStjP0CigHHYaKIIofmuVuFh4nW8E61yh+D2656c7YcKMaFrhuPF7yvYOfDzUiP7dK8wJm+UuBSsLQ0/SWFCiAOc6NT5MuCKfBcoxUFAHEAsSBR3hyRw/jPM/Mli4sH4t15tyjgNCU3ISTHzC64/2aEzJn1NGzvpBVjDcCw4bkBxrZl9UcSqojtE=;esNrRP7jqkBLiThrJvtheQ=="
+secured: "bpeoXnJYVhRpg6ILf3r4qM1MkPGfVR1es3uX3FzwtUetyhkokMNysZE7RIwmol4tv2+WGrrj3H5g8OsGOM2bRtHxVpEiTSQhraaY1G2jTVOANuu1abhBJrKx1evQpjpjuo71kLv+/ygjiJ33aOtpGgWPPQwAKbUCGX3+c9fZIlC5v1Gqd6yCleo2k2cAu4qjuEm3CaJFHwSG3m+q3jTd4XMB1Sto3+Kh8VGrFRqzCNfsRkCxcw/jUyYwPZR0va4Wi+03ioTwEVaC1wSQ7L9Bpc3mN3ab0Fjsgn0kMQ76aeTbQWCV3N/nCbJIBmh63tJCw+HEcoWJk4uCQ8jxnn9srdBZBe9SKK4vP6vD2jw1sI8=;lZb3RgDnod3+32hR23n3ow=="
 ---
 
