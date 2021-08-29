@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cleveland.com/nation/2021/08/budget-clash-pits-moderate-
 cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/08/budget-clash-pits-moderate-democrats-against-biden-pelosi.html?outputType=amp"
 type: article
 quality: 75
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://d3el53au0d7w62.cloudfront.net/wp-content/uploads/2021/08/23/BC-US-Congress-Infrastructure-IMG-630x420.jpg"
         width: 630
         height: 420
+        isCached: true
+  - title: "Joe Biden in the ‘Loneliest Job,' a Presidency Driven by Crisis"
+    excerpt: "Surrounded by everything a superpower can offer and watched by all, President Joe Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan and tried to keep the focus on what,"
+    publishedDateTime: 2021-08-28T22:12:00Z
+    webUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 75
+    images:
+      - url: "https://media.nbcnewyork.com/2021/08/GettyImages-1234886272.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Poll shows most Florida voters disapprove of Joe Biden’s performance"
     excerpt: "A majority of Florida voters disapprove of President Joe Biden’s performance. The Quinnipiac University Poll found 40% of Florida voters approve of Biden’s performance, with 53% disapproving. Views of his COVID-9 response were better."

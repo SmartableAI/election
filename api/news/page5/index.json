@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-19-governor-polis-informs-president-joe-biden-that-colorado-is-ready-for-afghan-refugees.md",
+      "title": "Governor Polis informs President Joe Biden that Colorado is ready for Afghan refugees",
+      "excerpt": "Governor Jared Polis wrote to President Joe Biden today to inform him that Colorado is ready to offer safety and opportunity to Afghan refugees and Special Immigrant visa holders.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox21news.com/news/governor-polis-informs-president-joe-biden-that-colorado-is-ready-for-afghan-refugees/",
+      "originalUrl": "https://www.fox21news.com/news/governor-polis-informs-president-joe-biden-that-colorado-is-ready-for-afghan-refugees/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fox21news.com/wp-content/uploads/sites/37/2021/08/AP21176634197827.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox21news.com/news/governor-polis-informs-president-joe-biden-that-colorado-is-ready-for-afghan-refugees/amp/",
+      "cdnAmpWebUrl": "https://www-fox21news-com.cdn.ampproject.org/c/s/www.fox21news.com/news/governor-polis-informs-president-joe-biden-that-colorado-is-ready-for-afghan-refugees/amp/",
+      "publishedDateTime": "2021-08-18T16:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX21 News",
+        "domain": "fox21news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-19-joe-biden-says-there-was-no-way-to-exit-without-chaos-as-it-happened.md",
       "title": "Joe Biden says there was no way to exit without ‘chaos’ – as it happened",
       "excerpt": "This blog is now closed, You can find our latest live coverage here.",
@@ -1236,49 +1279,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-15-biden-praises-arizona-florida-school-chiefs-on-mask-wearing.md",
-      "title": "Biden praises Arizona, Florida school chiefs on mask-wearing",
-      "excerpt": "President Joe Biden has commended the leadership of two Arizona and Florida school district superintendents after the districts' boards recently implemented mask requirements in defiance of their Republican governors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nhregister.com/news/article/Biden-praises-Arizona-Florida-school-chiefs-on-16387253.php",
-      "originalUrl": "https://www.nhregister.com/news/article/Biden-praises-Arizona-Florida-school-chiefs-on-16387253.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nhregister.com/news/amp/Biden-praises-Arizona-Florida-school-chiefs-on-16387253.php",
-      "cdnAmpWebUrl": "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Biden-praises-Arizona-Florida-school-chiefs-on-16387253.php",
-      "publishedDateTime": "2021-08-14T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Haven Register",
-        "domain": "nhregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

@@ -43,6 +43,38 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Joe Biden says new Kabul terror attack highly likely in next 24 to 36 hours"
+    excerpt: "President vows that drone strike on Islamic State will not be last as Taliban says it will announce Afghan cabinet soon"
+    publishedDateTime: 2021-08-28T19:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/aug/28/joe-biden-kabul-terror-attack-warning-drone-strike-afghanistan"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/28/joe-biden-kabul-terror-attack-warning-drone-strike-afghanistan"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/28/joe-biden-kabul-terror-attack-warning-drone-strike-afghanistan"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/3ccde2c3b813e262b226c9371725324099e79e89/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=77f02a24c43aeb4174705dceab09dc1b"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Afghanistan live updates: Biden says another Kabul airport attack 'highly likely'; Pentagon says strike killed two in ISIS-K"
+    excerpt: "The Pentagon said a Friday airstrike killed two and wounded one ISIS-K planners and facilitators. The mission came a day after a Kabul airport bombing."
+    publishedDateTime: 2021-08-28T23:12:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/08/28/afghanistan-updates-us-drone-strike-isis-k-three-days-deadline/5629189001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5629189001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5629189001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 98
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/27/USAT/d5370f8c-b8ef-4884-a26a-5837044ed2c1-AP_Afghanistan_1.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden defended using the Taliban for Kabul airport security after the deadly blasts, saying there's no evidence they were involved in the attack"
     excerpt: "The ISIS-K has claimed responsibility for Thursday's attack at Kabul's airport. The group later criticized the Taliban for working with the US."
     publishedDateTime: 2021-08-27T09:41:00Z
@@ -74,6 +106,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/21/42/55/21375845/3/ratio3x2_400.jpg"
         width: 400
         height: 267
+        isCached: true
+  - title: "Biden: Another attack likely, pledges more strikes on IS"
+    excerpt: "President Joe Biden vowed Saturday to keep up airstrikes against the Islamic extremist group whose suicide bombing at the Kabul airport killed scores of Afghans and 13"
+    publishedDateTime: 2021-08-28T23:38:00Z
+    webUrl: "https://www.ocregister.com/2021/08/28/biden-another-attack-likely-pledges-more-strikes-on-is/"
+    ampWebUrl: "https://www.ocregister.com/2021/08/28/biden-another-attack-likely-pledges-more-strikes-on-is/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/08/28/biden-another-attack-likely-pledges-more-strikes-on-is/amp/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 75
+    images:
+      - url: "https://www.ocregister.com/wp-content/uploads/2021/08/Biden_55692-1.jpg?w=1024&#038;h=682"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Seattle Storm Visit President Joe Biden at White House to Celebrate 2020 WNBA Title"
     excerpt: "The Seattle Storm were honored Monday at the White House by President Joe Biden to commemorate their 2020 WNBA championship. They were the first WNBA"

@@ -808,6 +808,22 @@ related:
         width: 2057
         height: 1200
         isCached: true
+  - title: "President Biden promises more airstrikes against Afghanistan extremist group"
+    excerpt: "Acting swiftly on President Joe Biden’s promise to retaliate for the deadly suicide bombing at Kabul airport, the U.S. military said it killed a member of the Islamic State group’s Afghanistan affiliate with a drone strike in the group’s eastern stronghold."
+    publishedDateTime: 2021-08-28T23:24:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-us-airstrike-islamic-state-member-20210828-4kjtgdlczvfxllaig3xxn6xq2u-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-us-airstrike-islamic-state-member-20210828-4kjtgdlczvfxllaig3xxn6xq2u-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-us-airstrike-islamic-state-member-20210828-4kjtgdlczvfxllaig3xxn6xq2u-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 72
+    images:
+      - url: "https://www.baltimoresun.com/resizer/GZeYzFmFxS5ue77tRNP2jYUmIlQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NAE4UWAM2H7ZYPYYDJT626F264.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Pence Rips Into Biden for 'Disastrous Withdrawal' From Afghanistan"
     excerpt: "Former Vice President Mike Pence is laying into President Joe Biden for what he says is a “disastrous” withdrawal from Afghanistan. In an op-ed published in The Wall Street Journal on Tuesday, Pence recalled Biden’s prediction that the Taliban would not overrun Afghanistan."
     publishedDateTime: 2021-08-18T17:51:00Z
@@ -1631,6 +1647,17 @@ related:
       name: Hiawatha World Online
       domain: hiawathaworldonline.com
     quality: 35
+  - title: "Biden to withdraw U.S. diplomatic staff from Afghanistan as future relationship with the Taliban remains unclear"
+    excerpt: "The Biden administration will also have to decide whether to formally recognize a Taliban government, a decision that also may take some time and may be a factor in any return, officials said."
+    publishedDateTime: 2021-08-28T23:45:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/biden-to-withdraw-u-s-diplomatic-staff-from-afghanistan-as-future-relationship-with-the-taliban-remains-unclear/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/biden-to-withdraw-u-s-diplomatic-staff-from-afghanistan-as-future-relationship-with-the-taliban-remains-unclear/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/biden-to-withdraw-u-s-diplomatic-staff-from-afghanistan-as-future-relationship-with-the-taliban-remains-unclear/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 34
   - title: "Anna Paulina Luna addresses troops, Amanda Makki calls for Joe Biden resignation in response to Afghanistan crisis"
     excerpt: "Florida’s 13th Congressional District GOP candidates Amanda Makki and Anna Paulina Luna are responding to the fall of Kabul to Taliban control after American troops were pulled from Afghanistan. The candidates,"
     publishedDateTime: 2021-08-17T16:29:00Z
