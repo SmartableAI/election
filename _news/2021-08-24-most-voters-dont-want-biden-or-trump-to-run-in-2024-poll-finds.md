@@ -1745,6 +1745,22 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 114
+  - title: "The Blood On Joe Biden’s Hands"
+    excerpt: "The best-case scenario under Joe Biden’s Afghanistan plan was the United States running away from Fred Flintstone and Barney Rubble fast enough to avoid offending troglodytes who pass the time"
+    publishedDateTime: 2021-08-29T04:01:00Z
+    webUrl: "https://townhall.com/columnists/derekhunter/2021/08/29/the-blood-on-joe-bidens-hands-n2594921"
+    ampWebUrl: "https://townhall.com/columnists/derekhunter/2021/08/29/the-blood-on-joe-bidens-hands-n2594921?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/derekhunter/2021/08/29/the-blood-on-joe-bidens-hands-n2594921?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2021/238/e9b56949-ac0d-465b-a137-da14002da9c1.jpg"
+        width: 650
+        height: 340
+        isCached: true
   - title: "Trump says abandoning Afghan airfield was critical mistake"
     excerpt: "Former President Donald Trump says abandoning Bagram Airfield in Afghanistan was a mistake. Adding his voice to a chorus of Republicans critical of the Biden administration's decision to vacate the base used to coordinate the decadeslong war effort in Afghanistan,"
     publishedDateTime: 2021-08-26T03:18:00Z

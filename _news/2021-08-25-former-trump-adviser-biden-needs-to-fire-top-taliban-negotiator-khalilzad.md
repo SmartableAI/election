@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/24/former-trump-advise
 cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/24/former-trump-adviser-biden-needs-fire-top-taliban-/"
 type: article
 quality: 88
-heat: 188
+heat: 208
 published: true
 
 provider:
@@ -102,6 +102,20 @@ related:
       - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
         width: 1000
         height: 1000
+        isCached: true
+  - title: "Donald Trump's recounting of his 2020 conversation with a Taliban leader is something else"
+    excerpt: "It came after Hewitt asked Trump to describe his conversation with Mullah Abdul Ghani Baradar, a Taliban co-founder and deputy leader, during his 2020 negotiations with the group to remove American troops from Afghanistan."
+    publishedDateTime: 2021-08-29T01:13:00Z
+    webUrl: "https://www.kitv.com/story/44620329/donald-trumps-recounting-of-his-2020-conversation-with-a-taliban-leader-is-something-else"
+    type: article
+    provider:
+      name: KITV
+      domain: kitv.com
+    quality: 45
+    images:
+      - url: "https://KITV.images.worldnow.com/images/17633324_G.jpg"
+        width: 1707
+        height: 960
         isCached: true
 
 secured: "4WG0/fh2HSiyFsAB9Hy9NKmn5Xoy3ef0MNnaAgFRUIuvhQ+ud/adBFB8ieoA2DbnYetgqAEM/13Imokj6C0m12zeHhKBGHGZkLX83nwQN9aKH43Xa3szMrapzsy1gO8ELhVDhx42SOGkvloTn89Xu3e7ZygGZZjnTKnrLRzwuJoAZ9nZupFCUYsKqrYURxSso0ceaeEWpZghpTm6E+kNJ3JvCUhTeGGvnSCKVN7j/v9YmePv74sqhfrFNKmXwHtPXbBNHnE1iEwY1Zcx/C5kpwuP+wZL6PMBhXngfeWLfBYHvsLaYXiRtDoBGmZlw6hfAG4sIhliu2BTV9nlQ71D9u05G6jqhKPOHZJAgnEGR+sT15CydB8yhp1fmRYO1uZS2+kE8kDYbY/F30O26TSuUnPjuE6S/iOlVVad3XjJ4kYkl4Aqyul6izySeiFzP70N+jlve6LxILRh0KX3BmoQKXjsusShT6kVmg6EiRjtrQ2nWe5uovDb0/6Sq7IDNxEoll98BNsPQ8eFdAFMIfea7g==;oqCBXAZhFe2ZSjzhylUVDg=="

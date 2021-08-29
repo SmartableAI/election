@@ -821,6 +821,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Explained: What happens after Joe Biden’s evacuation force leaves Afghanistan?"
+    excerpt: "The chaotic and perilous evacuation from Kabul airport that ensued has unleashed a wave of criticism and presented Biden with his biggest crisis since taking office in January."
+    publishedDateTime: 2021-08-29T04:04:00Z
+    webUrl: "https://indianexpress.com/article/explained/afghanistan-crisis-us-evacuation-joe-biden-deadline-7469600/"
+    ampWebUrl: "https://indianexpress.com/article/explained/afghanistan-crisis-us-evacuation-joe-biden-deadline-7469600/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/afghanistan-crisis-us-evacuation-joe-biden-deadline-7469600/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 71
+    images:
+      - url: "https://images.indianexpress.com/2021/08/US-afghanistan-explained.jpg"
+        width: 1200
+        height: 667
+        isCached: true
   - title: "Trump Assails Biden for Afghanistan ‘Humiliation’"
     excerpt: "Former President Donald Trump launched on Saturday a sustained attack on President Joe Biden's handling of the retreat of U.S. forces from Afghanistan, which he called \"the greatest foreign policy humiliation\" in U."
     publishedDateTime: 2021-08-22T08:54:00Z
@@ -912,6 +928,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/e849013/2147483647/strip/true/crop/5652x3767+0+175/resize/2000x1333!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F45%2F35%2F0153c3f94f8ba8d91ed69a50c6cf%2Fsd-photos-1staff-826422-sd-me-afghan-local-7.JPG"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "Joe Biden ‘holds grudges’ and will punish Britain for Afghanistan criticism, allies say"
+    excerpt: "British Cabinet insiders were quoted as suggesting the US president 'looked gaga' and described him as 'doolally'"
+    publishedDateTime: 2021-08-29T05:00:00Z
+    webUrl: "https://www.telegraph.co.uk/world-news/2021/08/29/joe-biden-holds-grudges-will-punish-britain-afghanistan-criticism/"
+    ampWebUrl: "https://www.telegraph.co.uk/world-news/2021/08/29/joe-biden-holds-grudges-will-punish-britain-afghanistan-criticism/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/world-news/2021/08/29/joe-biden-holds-grudges-will-punish-britain-afghanistan-criticism/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 67
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/world-news/2021/08/28/b06aabaf-98ae-4003-9659-137dc21425ef_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwV4qQjafBPh4ijHPKfdh5Ck.jpeg"
+        width: 645
+        height: 403
         isCached: true
   - title: "Bush, Obama, Trump, Biden: How four presidents created today's Afghanistan mess"
     excerpt: "How America spent 20 years in Afghanistan, only to have the Taliban resume control again as its troops withdrew, will be a topic for historians to ponder for decades."

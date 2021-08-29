@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mediaite.com/news/secret-service-reportedly-warned-polic
 cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/secret-service-reportedly-warned-police-of-violence-from-trump-supporters-the-day-before-capitol-riot-time-to-take-out-all-of-them/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,77 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "Seven Capitol cops SUE Donald Trump and his allies for 'plot' on the Capitol"
-    excerpt: "Seven Capitol Police officers have filed suit against former President Donald Trump, and some of his associates, claiming they caused the Capitol riot that caused them to face beatings and injuries"
-    publishedDateTime: 2021-08-26T17:48:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-9930019/Seven-Capitol-cops-SUE-Donald-Trump-allies-plot-Capitol.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-9930019/amp/Seven-Capitol-cops-SUE-Donald-Trump-allies-plot-Capitol.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9930019/amp/Seven-Capitol-cops-SUE-Donald-Trump-allies-plot-Capitol.html"
+  - title: "‘Time to Fight!’: Emails From Jan. 5 Show Secret Service Warned Capitol Police About Threat of Pro-Trump Violence"
+    excerpt: "The Secret Service warned Capitol police about the threat of pro-Donald Trump violence in Washington on Jan. 5, one day before the insurrection, according to an email published Wednesday by Politico."
+    publishedDateTime: 2021-08-25T12:18:00Z
+    webUrl: "https://www.thenewcivilrightsmovement.com/2021/08/time-to-fight-emails-from-jan-5-show-secret-service-warned-capitol-police-about-threat-of-pro-trump-violence/"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 72
+      name: The New Civil Rights Movement
+      domain: thenewcivilrightsmovement.com
+    quality: 34
     images:
-      - url: "https://i.dailymail.co.uk/1s/2021/08/26/17/47138019-0-image-a-43_1629996316019.jpg"
-        width: 636
-        height: 382
+      - url: "https://www.thenewcivilrightsmovement.com/wp-content/uploads/2021/01/capitol-police-insurrection-4.jpg"
+        width: 940
+        height: 490
         isCached: true
-  - title: "Donald Trump gets booed at rally for encouraging his supporters to get Covid jab"
-    excerpt: "Nearly 40% of Republicans are still resistant to getting the Covid-19 vaccine or refuse to get it, a Public Religion Research Institute/Interfaith Youth Core poll recently found"
-    publishedDateTime: 2021-08-22T23:19:00Z
-    webUrl: "https://www.mirror.co.uk/news/us-news/donald-trump-gets-booed-rally-24815259"
-    ampWebUrl: "https://www.mirror.co.uk/news/us-news/donald-trump-gets-booed-rally-24815259.amp"
-    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/us-news/donald-trump-gets-booed-rally-24815259.amp"
-    type: article
-    provider:
-      name: The Mirror
-      domain: mirror.co.uk
-    quality: 70
-    images:
-      - url: "https://i2-prod.mirror.co.uk/incoming/article24815279.ece/ALTERNATES/s615/0_Former-President-Trump-speaks-in-Alabama.jpg"
-        width: 615
-        height: 409
-        isCached: true
-  - title: "Miami cop suspended over hand gesture. He’d also been dinged for a Trump campaign mask"
-    excerpt: "A Miami police officer has been relieved of duty for displaying a hand signal that some interpret as a white power message while posing for a picture."
-    publishedDateTime: 2021-08-19T18:53:00Z
-    webUrl: "https://www.miamiherald.com/news/local/crime/article253598118.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/local/crime/article253598118.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/local/crime/article253598118.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 67
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/e5113595-1545-4d19-9d3d-4a7534a8ffa6/7168ddee-add6-45b1-ba20-0dc9b52969a7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Donald Trump Encouraged People at His Rally to Get Vaccinated. They Booed Him."
-    excerpt: "According to a Trump adviser, the then-president and his wife, Melania, got the vaccine in January—a fact that wasn’t reported until March . 2) The rally brought thousands of people to York Family Farms in Cullman County,"
-    publishedDateTime: 2021-08-22T13:52:00Z
-    webUrl: "https://www.motherjones.com/politics/2021/08/donald-trump-cullman-alabama-rally-covid-boo/"
-    type: article
-    provider:
-      name: Mother Jones
-      domain: motherjones.com
-    quality: 51
-    images:
-      - url: "https://www.motherjones.com/wp-content/uploads/2021/08/20210822_cullman.jpg?w=1200&h=630&crop=1"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Conspiracy theorists, led by former Trump aide Flynn, to descend on Las Vegas"
-    excerpt: "Las Vegas could be at risk of being used as a platform for spreading misinformation by far-right extremists who have openly called for the insurrection and participated in the failed coup in Washington."
-    publishedDateTime: 2021-08-24T09:02:00Z
-    webUrl: "https://lasvegassun.com/news/2021/aug/24/conspiracy-theorists-led-by-former-trump-aide-flyn/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 32
 
 secured: "6pjT6ofT2vipPkHNdPqC+S5gdIRZhRB9Sx7V81U5fn/op3MZ+N+O9sfBJHX13gKJBHvyKkj5ttKOJIAsX4aTIz9qClVeNrh/MK1o0A2uNpr62fg6/X2q/RY61iFOm0mPWXNZ+h6Seu4LVYNGwPwAbRci5RxPxraUbsb0++ufz2L5/yyhJRMeO0y47Wa9F3PdDmZlegmNg4GxIcvG+xfSCfLD8DnWrvf0fc1mUf8wc+x8of6WjGm/lJHznYFXgFdj2gC/XUUuBcQ5Mk4D92+/fgiN1XYrVm1UfBAUf9cVRUoJc2BJVwIIyTmnEBAROLZ1cM2gmVsdS6unXwCp3a3X8tOmsGSXBlu3JOqfB9oRDNg=;kZuykKpVT/dlBJ/+eAdPRw=="
 ---

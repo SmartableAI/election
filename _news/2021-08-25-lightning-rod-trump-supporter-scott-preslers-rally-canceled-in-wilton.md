@@ -9,8 +9,8 @@ ampWebUrl: "https://www.timesunion.com/news/amp/Lightning-rod-GOP-operative-Scot
 cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Lightning-rod-GOP-operative-Scott-Presler-s-rally-16408046.php"
 type: article
 quality: 75
-heat: 115
-published: true
+heat: -1
+published: false
 
 provider:
   name: Times Union
@@ -27,21 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump Booed At His Own Rally After Telling Everyone To Get Vaccinated"
-    excerpt: "But it was when he urged everyone to get vaccinated against the coronavirus that his followers turned on him. \"You know what? I believe totally in your freedoms, I do. You gotta do what you have to do,"
-    publishedDateTime: 2021-08-22T23:05:00Z
-    webUrl: "https://www.ladbible.com/news/latest-donald-trump-booed-at-rally-after-telling-everyone-to-get-vaccinated-20210822"
-    ampWebUrl: "https://www.ladbible.com/news/latest-donald-trump-booed-at-rally-after-telling-everyone-to-get-vaccinated-20210822.amp.html"
-    cdnAmpWebUrl: "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/news/latest-donald-trump-booed-at-rally-after-telling-everyone-to-get-vaccinated-20210822.amp.html"
+  - title: "Jack Nicklaus on if Tiger Woods will play again, supporting Donald Trump and needing a cane"
+    excerpt: "Jack Nicklaus with a cane? Apparently the 81-year-old legend suffered an injury playing pickleball. Allow me to speak for everyone when I say that’s an image we’re not ready to see. It’s bad"
+    publishedDateTime: 2021-08-27T19:18:00Z
+    webUrl: "https://golfweek.usatoday.com/lists/jack-nicklaus-qa-tiger-woods-donald-trump-cane/"
+    ampWebUrl: "https://golfweek.usatoday.com/lists/jack-nicklaus-qa-tiger-woods-donald-trump-cane/amp/"
+    cdnAmpWebUrl: "https://golfweek-usatoday-com.cdn.ampproject.org/c/s/golfweek.usatoday.com/lists/jack-nicklaus-qa-tiger-woods-donald-trump-cane/amp/"
     type: article
     provider:
-      name: LADbible
-      domain: ladbible.com
-    quality: 72
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
     images:
-      - url: "https://www.ladbible.com/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fs3-images.ladbible.com%2Fs3%2Fcontent%2F7f479ab06122850e1403ec149fa32daf.png"
-        width: 1200
-        height: 674
+      - url: "https://golfweek.usatoday.com/wp-content/uploads/sites/87/2017/03/gettyimages-463960886.jpg"
+        width: 3656
+        height: 2339
+        isCached: true
+  - title: "Jack Nicklaus on his Donald Trump endorsement, Tiger’s future — and a pickleball injury"
+    excerpt: "Legendary golfer, whose travels have been limited by the pandemic, expounds on recent topics at a charity stop in Virginia."
+    publishedDateTime: 2021-08-24T21:20:00Z
+    webUrl: "https://www.washingtonpost.com/sports/2021/08/24/jack-nicklaus-donald-trump-tiger-woods-injury/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 97
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MXZHE4WDBBBSTPMV6SNG2KS674&w=1440"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Trump shows support for vaccine, gets booed by supporters at rally"
     excerpt: "Donald Trump recommended that supporters at a rally in Alabama go and get the vaccine, which elicited some boos from the crowd."

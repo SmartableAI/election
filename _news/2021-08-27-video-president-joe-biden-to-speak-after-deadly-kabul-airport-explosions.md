@@ -688,6 +688,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Why do people want to impeach President Joe Biden now?"
+    excerpt: "As the Taliban's reign continues, many question if President Joe Biden can truly evacuate all U.S. citizens from Afghanistan. Does he deserve impeachment?"
+    publishedDateTime: 2021-08-26T21:03:00Z
+    webUrl: "https://filmdaily.co/news/impeach-biden/"
+    type: article
+    provider:
+      name: filmdaily
+      domain: filmdaily.co
+    quality: 55
+    images:
+      - url: "https://filmdaily.co/wp-content/uploads/2021/08/BidenImpeach-lede.jpeg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Ron DeSantis slams Joe Biden ‘lack of leadership’ at event highlighting COVID-19 treatment"
     excerpt: "Ron DeSantis turned his attention from COVID-19 to the White House. DeSantis aired grievances yet again about a perceived “lack of leadership” from President Joe Biden, showing that even at an event focused on the virus,"
     publishedDateTime: 2021-08-19T18:28:00Z

@@ -1731,6 +1731,22 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 114
+  - title: "The Blood On Joe Biden’s Hands"
+    excerpt: "The best-case scenario under Joe Biden’s Afghanistan plan was the United States running away from Fred Flintstone and Barney Rubble fast enough to avoid offending troglodytes who pass the time"
+    publishedDateTime: 2021-08-29T04:01:00Z
+    webUrl: "https://townhall.com/columnists/derekhunter/2021/08/29/the-blood-on-joe-bidens-hands-n2594921"
+    ampWebUrl: "https://townhall.com/columnists/derekhunter/2021/08/29/the-blood-on-joe-bidens-hands-n2594921?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/derekhunter/2021/08/29/the-blood-on-joe-bidens-hands-n2594921?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2021/238/e9b56949-ac0d-465b-a137-da14002da9c1.jpg"
+        width: 650
+        height: 340
+        isCached: true
   - title: "Most voters don't want Biden or Trump to run in 2024, poll finds"
     excerpt: "The majority of registered voters do not want the next presidential election to be a rematch of the 2020 contest, according to a new poll conducted by Echelon Insights/Washington Examiner."
     publishedDateTime: 2021-08-23T23:58:00Z

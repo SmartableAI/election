@@ -171,6 +171,22 @@ related:
         width: 650
         height: 366
         isCached: true
+  - title: "Joe Biden Pledges More Strikes On ISIS Amid Threats Of Another Attack On Kabul Airport"
+    excerpt: "President Joe Biden, who decided to hit back at ISIS over the Kabul airport bombings said that the US airstrikes against the extremist group will continue."
+    publishedDateTime: 2021-08-29T03:54:00Z
+    webUrl: "https://www.republicworld.com/world-news/us-news/joe-biden-pledges-more-strikes-on-isis-amid-threats-of-another-attack-on-kabul-airport.html"
+    ampWebUrl: "https://www.republicworld.com/amp/world-news/us-news/joe-biden-pledges-more-strikes-on-isis-amid-threats-of-another-attack-on-kabul-airport.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/world-news/us-news/joe-biden-pledges-more-strikes-on-isis-amid-threats-of-another-attack-on-kabul-airport.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 67
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/2x4aoo80nkmm0zvb_1630205335.jpeg"
+        width: 768
+        height: 439
+        isCached: true
   - title: "Biden, Wolf order all flags to fly at half-staff in honor of the victims of terrorist attack in Kabul"
     excerpt: "Tom Wolf have ordered all flags to fly at half-staff in honor of the victims of the terrorist attack in Kabul, Afghanistan on August 26 at all federal and state buildings. The flags are to fly at half-staff until sunset on Monday."
     publishedDateTime: 2021-08-27T15:49:00Z

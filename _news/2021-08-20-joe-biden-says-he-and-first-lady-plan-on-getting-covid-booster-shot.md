@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
 type: article
 quality: 125
-heat: 1205
+heat: 1225
 published: true
 
 provider:
@@ -677,6 +677,20 @@ related:
       - url: "https://images.jacobinmag.com/wp-content/uploads/2021/08/26123837/GettyImages-1234864559.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Why do people want to impeach President Joe Biden now?"
+    excerpt: "As the Taliban's reign continues, many question if President Joe Biden can truly evacuate all U.S. citizens from Afghanistan. Does he deserve impeachment?"
+    publishedDateTime: 2021-08-26T21:03:00Z
+    webUrl: "https://filmdaily.co/news/impeach-biden/"
+    type: article
+    provider:
+      name: filmdaily
+      domain: filmdaily.co
+    quality: 55
+    images:
+      - url: "https://filmdaily.co/wp-content/uploads/2021/08/BidenImpeach-lede.jpeg"
+        width: 2400
+        height: 1600
         isCached: true
   - title: "Video: President Joe Biden To Speak After Deadly Kabul Airport Explosions"
     excerpt: "President Joe Biden is set to speak following the deadly explosions outside the airport in Kabul that killed 12 U.S. service members and scores of Afghans. Biden's address is scheduled for Thursday, Aug."

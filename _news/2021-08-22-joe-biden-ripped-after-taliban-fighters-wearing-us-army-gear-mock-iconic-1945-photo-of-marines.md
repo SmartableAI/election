@@ -103,6 +103,20 @@ related:
         width: 1000
         height: 1000
         isCached: true
+  - title: "Donald Trump's recounting of his 2020 conversation with a Taliban leader is something else"
+    excerpt: "It came after Hewitt asked Trump to describe his conversation with Mullah Abdul Ghani Baradar, a Taliban co-founder and deputy leader, during his 2020 negotiations with the group to remove American troops from Afghanistan."
+    publishedDateTime: 2021-08-29T01:13:00Z
+    webUrl: "https://www.kitv.com/story/44620329/donald-trumps-recounting-of-his-2020-conversation-with-a-taliban-leader-is-something-else"
+    type: article
+    provider:
+      name: KITV
+      domain: kitv.com
+    quality: 45
+    images:
+      - url: "https://KITV.images.worldnow.com/images/17633324_G.jpg"
+        width: 1707
+        height: 960
+        isCached: true
 
 secured: "OWYLKFxJ6xCS+ppDyFuwr9WyxPfrWMXXqiXDR/a/k3T6JXbm9MqtgfuwkYiVbC2dcsRrmMe6IPx1HVP0gxDy0YiHZ4kf/ro1LojPM/7NePslbCGArnpFRrwPnmSgtLi7fjPU8caO12BFzpf/PjEa2LOcbuE3ael/4XiA5MzWSV7zQuxiLkbCz+ol3niwuMYsWaDgFifNjFUmT7NDEu93u6UIaG0jh0n4L+w+f1CobOp3AU8atktoGsYgff2O1uwuw4r+BU01mZUBFs1NjEiT1GuX111Tszh47o6RONLkVZTXCgWWjUYLZan+2IQTvG3s6+9gjng88YACS4a6E8A0+ExQJYaYQN/sG0XlvxHYEyBr9IVyLitTrt+RD1l7U5pzLsQZ8tvHCpSOoVy/mZt7anAZb3IuzryvpFXSuQjdrVXSrdNFAIAYrU0jkdeS690T5AZQ4Vw2IR9pBmlngff/m1K+CKEafeZFS/y6Vgx2hO/rr0Fzu7zFplX600DGcD8VIHc37rgMOfbMXuk2K4qo9Q==;QaVRjmNRRw4X3IwUEMPycA=="
 ---
