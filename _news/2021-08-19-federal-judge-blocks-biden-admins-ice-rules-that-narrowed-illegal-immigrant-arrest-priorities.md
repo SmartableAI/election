@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/judge-blocks-biden-ice-rules-narrow
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/judge-blocks-biden-ice-rules-narrowed-illegal-immigrant-arrest.amp"
 type: article
 quality: 163
-heat: 203
+heat: 183
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/Transgender-Back-to-School-copy.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "What Are Joe Biden’s Fixed Principles?"
-    excerpt: "A crisis reveals a president with little introspection and even less penetration into the world’s problems."
-    publishedDateTime: 2021-08-25T21:15:00Z
-    webUrl: "https://www.wsj.com/articles/borax-door-to-door-salesman-statesmanship-joe-biden-presidency-administration-11629921697"
-    ampWebUrl: "https://www.wsj.com/amp/articles/borax-door-to-door-salesman-statesmanship-joe-biden-presidency-administration-11629921697"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/borax-door-to-door-salesman-statesmanship-joe-biden-presidency-administration-11629921697"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-389935/social"
-        width: 1280
-        height: 640
         isCached: true
 
 secured: "m6KBnbw6h255U6j8WgXXaFwHO/T2X8i7enYe426L5YVubjYdSjsiWwOKym0+1CyfwfrnvOEIfHP8pC7TQYWuzPvf4f8WrOYMbPMxrhQn4Im/i0HPuzEiC9vGle3rODhsFQYDP2hJZZk0CVwQe895Mze2V7Z0CKv2PQffDnTtkREAw/+wy0QfNJ0mzpqc8bL6pVUU31fAJeSQWE/ooM1rVR75afgQ4xieoWVqu6AJ+mdpYVi4969eaPmWh5+ppNO1Pb8BRpxoBBwJmha8jaCFOlfyYRWOGkQmNSe9Pmzd19p2vdQP039KQdZydtIuJMciP3arlllNIEo9mWSu5leb8/bZcFjBUK5iSur1YDsThjQ=;4F/zGoJsK1ugyzPOAHroDA=="
