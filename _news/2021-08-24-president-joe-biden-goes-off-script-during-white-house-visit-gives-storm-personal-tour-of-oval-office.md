@@ -189,6 +189,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "U.S. to go on hitting ISIS, Biden pledges"
+    excerpt: "President Joe Biden vowed Saturday to keep up airstrikes against the Islamic extremist group whose suicide bombing at the Kabul airport killed scores of Afghans and 13 American service members. Another terror attack,"
+    publishedDateTime: 2021-08-29T08:59:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/aug/29/us-to-go-on-hitting-isis-biden-pledges/?news"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/199258283_199257870-b29018f6db5642afb236295d3817bbdb_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 434
+        isCached: true
   - title: "Joe Biden spoke to the G7 a sum total of 7 minutes. Pure propaganda, photo-op."
     excerpt: "Joe Biden acted like his G7 meeting was a success, but in reality it left every other world leader feeling disappointed in America."
     publishedDateTime: 2021-08-25T12:49:00Z

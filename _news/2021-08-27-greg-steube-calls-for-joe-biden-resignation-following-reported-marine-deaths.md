@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Herschel Walker builds a campaign team with deep financial ties to Marjorie Taylor Greene, Donald Trump"
-excerpt: "Former National Football League star Herschel Walker announced Tuesday he’d run for Georgia Senate to unseat freshman Sen. Raphael Warnock (D-Ga.). Walker already has the endorsement of former President Donald Trump,"
-publishedDateTime: 2021-08-26T19:54:00Z
-originalUrl: "https://www.opensecrets.org/news/2021/08/herschel-walker-builds-campaign-team-with-deep-ties-to-marjorie-taylor-greene-donald-trump/"
-webUrl: "https://www.opensecrets.org/news/2021/08/herschel-walker-builds-campaign-team-with-deep-ties-to-marjorie-taylor-greene-donald-trump/"
+title: "Greg Steube calls for Joe Biden resignation following reported Marine deaths"
+excerpt: "Greg Steube called for President Joe Biden’s resignation after the reported death of four Marines in Kabul. “Horrific,” Steube tweeted. “Joe Biden needs to take"
+publishedDateTime: 2021-08-26T18:13:00Z
+originalUrl: "https://floridapolitics.com/archives/453349-greg-steube-calls-for-joe-biden-resignation-following-reported-marine-deaths/"
+webUrl: "https://floridapolitics.com/archives/453349-greg-steube-calls-for-joe-biden-resignation-following-reported-marine-deaths/"
 type: article
-quality: 39
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: OpenSecrets.org
-  domain: opensecrets.org
+  name: Florida Politics
+  domain: floridapolitics.com
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
-  - url: "https://cdn1.opensecrets.org/news/wp-content/uploads/2021/08/26130505/GettyImages-1228710277-e1629997521246.jpg"
-    width: 720
-    height: 480
+  - url: "https://floridapolitics.com/wp-content/uploads/2021/06/Steube.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -84,20 +84,6 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 52
-  - title: "Greg Steube calls for Joe Biden resignation following reported Marine deaths"
-    excerpt: "Greg Steube called for President Joe Biden’s resignation after the reported death of four Marines in Kabul. “Horrific,” Steube tweeted. “Joe Biden needs to take"
-    publishedDateTime: 2021-08-26T18:13:00Z
-    webUrl: "https://floridapolitics.com/archives/453349-greg-steube-calls-for-joe-biden-resignation-following-reported-marine-deaths/"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 52
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2021/06/Steube.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Rep Marjorie Taylor Greene filing articles of impeachment against President Joe Biden and calls him a ‘pathetic puppet’"
     excerpt: "GOP Rep. Marjorie Taylor Greene announced she will file articles of impeachment against President Biden during an America First rally in Des Moines Thursday night. Greene said at the rally:"
     publishedDateTime: 2021-08-20T04:57:00Z
@@ -114,7 +100,21 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Herschel Walker builds a campaign team with deep financial ties to Marjorie Taylor Greene, Donald Trump"
+    excerpt: "Former National Football League star Herschel Walker announced Tuesday he’d run for Georgia Senate to unseat freshman Sen. Raphael Warnock (D-Ga.). Walker already has the endorsement of former President Donald Trump,"
+    publishedDateTime: 2021-08-26T19:54:00Z
+    webUrl: "https://www.opensecrets.org/news/2021/08/herschel-walker-builds-campaign-team-with-deep-ties-to-marjorie-taylor-greene-donald-trump/"
+    type: article
+    provider:
+      name: OpenSecrets.org
+      domain: opensecrets.org
+    quality: 39
+    images:
+      - url: "https://cdn1.opensecrets.org/news/wp-content/uploads/2021/08/26130505/GettyImages-1228710277-e1629997521246.jpg"
+        width: 720
+        height: 480
+        isCached: true
 
-secured: "yGfjzYRr0eAwkNj508vlhYmIgeczLAdPiDniqSJLWTXT9gvy1OaX4yu+38Db0/w7k+wxEanh4FVovZghWzfSOi6CVKCuo6sg1SJz1PDbwSkGJa4An3DdNqOVWM4QWbVIxFrXMeh3MRIyx0w30A0fclK6u56vG7girBkLH3y4p7XyCIs/fk+uAzsXXlly/Pj4RianohvFvKT9zgLsQhHC66vg/ztn2Y3tPc60lJexntt7JVqm8XBba1ZHOn6aVDg8f0DAsgkKyLvXqzstD49K/sJWx5J3kToh2Awe/KxNpvpnhpjVXIOCVXaHTfyyZP6pd299gC+m6v2vEdqQQLpmhzTb4EKVyI0O61tps8VWM9fYgkygjPpvn65jscFwQTWnAlVyegSiAUtNp9nBo3IWMr5kLyRavQNh15ETWmyIZZzYNuhHhngbPULcUjGxkxzLO+HSDVcrIsTJc2uClyq8EEv04kkwY60kuB2HQgCD0gii6EcEPTnx0reT4IuZoxEIeDCZaECRxoCDsMsbKqdF5Q==;p7/cHoIyHRvrADWSAlHgLw=="
+secured: "W0BR1pgw2LrjFIM/THKIMKcp6MpXEMmIuJME3ci6TimJyctKKgl6mRFKFFPBiTl3AZRcPFNyG8jnWMD8pmSvO54SdRcYv/mzM7wkaxxuaVVhv/PuK1g9Sv6h3BhrhjXGrEI+QX/ulLjnwR2W+Riltd9Lq4yj+j3V1NKSdMW2EZzu6hTmFbKs0hks1eXUnjZsQCWVmOoLm1ffKDnlfoi3Z4PFUn5QvrSdKodSgVoVW960DGyckAGSvTviPgau8/dTPDr7FrJp8S9rHKfxNvg9rDSCO1Z7CmD065cys7Jt8+K0SNm8Ka18sLZOokxulTwIg6H56c98ycHh3PRbYQFMjBk/eLCJXiAyYPlUtbFXwLE=;0sXnh6cvN3mswJLgN9Uqow=="
 ---
 

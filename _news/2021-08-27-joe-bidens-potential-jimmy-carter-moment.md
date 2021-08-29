@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden’s potential Jimmy Carter moment"
-excerpt: "In Joe Biden’s remarks following the Kabul terrorist attack on Thursday, he concluded: “Ladies and gentlemen, after 20 years it is time to leave.” The moment was"
+excerpt: "In Joe Biden’s remarks following the Kabul terrorist attack on Thursday, he concluded: “Ladies and gentlemen, after 20 years it was time to end a 20-year war.” The moment was horribly circular. America went into Afghanistan in 2001 to drive out the terrorists."
 publishedDateTime: 2021-08-27T00:07:00Z
-originalUrl: "https://www.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb"
-webUrl: "https://www.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb"
+originalUrl: "https://www.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb?63bac0e6-3d28-36b1-7417-423982f60790"
+webUrl: "https://www.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb?63bac0e6-3d28-36b1-7417-423982f60790"
 ampWebUrl: "https://amp.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb"
 type: article
@@ -796,6 +796,6 @@ related:
       domain: avvo.com
     quality: 14
 
-secured: "X5RSNqp+RMy1CKhldENVS0LvFlF+4hg8DmmF9KKI1DgNLczZIWM6u3x0o1HWSRLlogvNpY8y22RRDw8JxPTOuhgeuoPnFQe4Cha0SqobLbC5fOg8HwAdxqJvtwn2dWS7S+hPnKmF1kFSZ6UX1WE5lUAxiXv1PjwT2h9x+iZg6J0Ygv70jXHlI4/HGBvpL65e+2SuMv6u6yAHpUI6x+gtJu7tHnJxXtiFdrtXK5hjd/5OVUUjUoHamRAuKLQZSxXHHGInNeO8iEy0ODTDtwD4/EcbEV23zi8oIZyeeR4DJzHawCM+lzmy6QDEDgiWstmO3uB6GMioNLFth495qizzvKG55Fao4MDzVPR/eqf1D0Ua0wyzwMfY/OaAMbQY0620NC1c9G+NgGxq8GX3JUiTHvTpymByFH3KV+ZVeSM7aTXXybNG4VKJ0phs5HCV3tuQlMbk0FWv+sqqTSzsWm6vEvTryliUSMlorK7GTScdqwzhBac4NMuZOIc/qHjVVjCAjjRBq3D97d0qCzuB/lYJ1w==;qsAydQn9AceDxBdpzAoMVA=="
+secured: "xbUOHS0CYko9IphBaHaeeyYf8cQGiesi/oJxMFQIwakFltr+3yPgBQzr8JF9BBj5qcvAVdLBuDz3eWr0YkdDR953ktosDfygBU6RuC+n9q7OFQRWLJ8+uJuF0+5pw/ezrsi7GXIZas0HcXDSLs2lsxVwBgZTuezPLO1U/H+nAXntNWGOU4WbCsyqANGjTH08+PNUZPoUVqGQX65/kVIw0LiZGiYZ1FFV3OSugV2+GXtYmBtT4bM48R8DPyuq4epMij4Dy2OYPY2FZ4wXR7Tifhggq435t3B2NiMrXXrG1AABxCin+5rvHDN5ZKNRL/7k4M4yiuUjTSLj+TVlljBEBAp1X++GUTorfii/Hmom7Z4=;1GrAqFa/BBrgHNU8cdumyQ=="
 ---
 

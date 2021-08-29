@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Biden: Another attack likely, pledges more strikes on IS"
-excerpt: "President Joe Biden vowed Saturday to keep up airstrikes against the Islamic extremist group whose suicide bombing at the Kabul airport killed scores of Afghans and 13 American service members. He"
-publishedDateTime: 2021-08-29T03:43:00Z
-originalUrl: "https://www.denverpost.com/2021/08/28/joe-biden-another-attack-likely/"
-webUrl: "https://www.denverpost.com/2021/08/28/joe-biden-another-attack-likely/"
-ampWebUrl: "https://www.denverpost.com/2021/08/28/joe-biden-another-attack-likely/amp/"
-cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/08/28/joe-biden-another-attack-likely/amp/"
+excerpt: "He warned another attack was “highly likely” and the State Department called the threat “specific” and “credible.” The Pentagon said the remaining contingent of U.S. forces at the airport, now numbering fewer than 4,"
+publishedDateTime: 2021-08-29T08:50:00Z
+originalUrl: "https://www.timesunion.com/news/article/Biden-Another-attack-likely-pledges-more-16419255.php"
+webUrl: "https://www.timesunion.com/news/article/Biden-Another-attack-likely-pledges-more-16419255.php"
+ampWebUrl: "https://www.timesunion.com/news/amp/Biden-Another-attack-likely-pledges-more-16419255.php"
+cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Biden-Another-attack-likely-pledges-more-16419255.php"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: The Denver Post
-  domain: denverpost.com
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.denverpost.com/wp-content/uploads/2021/08/AP21240654307233.jpg?w=1024&#038;h=683"
-    width: 1024
-    height: 683
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -364,6 +364,6 @@ related:
       domain: columbiabasinherald.com
     quality: 35
 
-secured: "uLgGaTnUdTWxAAcjCB5jAUQVrNmoVtylYj0wFsmYrZrXwNqQz/VpL4q5gJsti4bHUpwpyDUbPxMUUQuD8sLUEpsTEJv+0jiNf18ePaDEriRtlzCCgjCrF7lc+KsgRTsdEqSDCfE8YwynROSd+apGvOrVbn+V8CS6XHs24fDWofXOLaQtaQREbXewzUdaf0PyU2eqdclPjRaMP4D7w5BdJJiwAM/bbCTjlYi4pfBquqScByFG2DtLZgTxuML1bQQtKDVmkwT6z7AsE+eW+eIhV+VisqeV6CX0V7jpxt55Syywf9rzv0iH7RlyvwVMvmc2k/W4pgdvpRwjQTtHCHE03OIajVgTNRhErSLYRCc41zo=;h5KRvQgMLPplh/WbLrhRFA=="
+secured: "MPSbjeYUr1KESzwCuyzaHP4Z9tGWPT019Ys7NVQUrLsiBvL2EASPcFYmp5Ri/yp2njd9Pse6QjsKH/O94M8SquKSFXwq9ftdHmxC6E95rR7cAw10QeYVql6+LaMir929TlYHOpi7kiaDO9WNJJvSUCIBBI9+gzrqh/FTi9gu6AZUh6gtVR/wuEYhxMVeb1XNBSXnGBjIqqC5hen6iZaX/cXstb8UHhBCIBgCnjlqV9CrXootViulD5CJxJS9Zgpts2PKiv19zCpzxuZCvhFzTb1HV3wtDqartPUN+DqgCnqXuQNweSNDv/VxNNTYA1JdwW/bOKYvycW+s+WlhBlf1PVI1tha5/Z9uU5wY7caV84=;/v2tC+8NXsvEFqbLY+1AGw=="
 ---
 

@@ -1,29 +1,27 @@
 ---
 category: news
-title: "The utter ridiculousness of calls for Joe Biden to resign"
-excerpt: "None of it is grounds for Biden to resign his office -- as Republican elected officials fell all over themselves to demand even as the casualties f"
-publishedDateTime: 2021-08-27T14:01:00Z
-originalUrl: "https://www.wthitv.com/content/national/575185862.html"
-webUrl: "https://www.wthitv.com/content/national/575185862.html"
-ampWebUrl: "http://www.wthitv.com/templates/AMP?contentID=575185862"
-cdnAmpWebUrl: "https://www-wthitv-com.cdn.ampproject.org/c/www.wthitv.com/templates/AMP?contentID=575185862"
+title: "U.S. to go on hitting ISIS, Biden pledges"
+excerpt: "President Joe Biden vowed Saturday to keep up airstrikes against the Islamic extremist group whose suicide bombing at the Kabul airport killed scores of Afghans and 13 American service members. Another terror attack,"
+publishedDateTime: 2021-08-29T08:59:00Z
+originalUrl: "https://www.arkansasonline.com/news/2021/aug/29/us-to-go-on-hitting-isis-biden-pledges/?news"
+webUrl: "https://www.arkansasonline.com/news/2021/aug/29/us-to-go-on-hitting-isis-biden-pledges/?news"
 type: article
-quality: 75
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: WTHI-TV
-  domain: wthitv.com
+  name: Arkansas Democrat-Gazette
+  domain: arkansasonline.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "http://media.heartlandtv.com/designimages/wthi-story-default-image-640x380.png"
-    width: 640
-    height: 380
+  - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/199258283_199257870-b29018f6db5642afb236295d3817bbdb_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+    width: 600
+    height: 434
     isCached: true
 
 related:
@@ -90,6 +88,22 @@ related:
       - url: "https://thumb.spokesman.com/yCDjKF50EyahXZ7d0oiEhxzLIxE=/480x0/media.spokesman.com/photos/2021/08/18/611dc5982dd25.hires.jpg"
         width: 480
         height: 357
+        isCached: true
+  - title: "The utter ridiculousness of calls for Joe Biden to resign"
+    excerpt: "None of it is grounds for Biden to resign his office -- as Republican elected officials fell all over themselves to demand even as the casualties f"
+    publishedDateTime: 2021-08-27T14:01:00Z
+    webUrl: "https://www.wthitv.com/content/national/575185862.html"
+    ampWebUrl: "http://www.wthitv.com/templates/AMP?contentID=575185862"
+    cdnAmpWebUrl: "https://www-wthitv-com.cdn.ampproject.org/c/www.wthitv.com/templates/AMP?contentID=575185862"
+    type: article
+    provider:
+      name: WTHI-TV
+      domain: wthitv.com
+    quality: 75
+    images:
+      - url: "http://media.heartlandtv.com/designimages/wthi-story-default-image-640x380.png"
+        width: 640
+        height: 380
         isCached: true
   - title: "Israeli PM to make case to Biden against Iran nuclear pact"
     excerpt: "President Joe Biden and Israeli Prime Minister Naftali Bennett have postponed their White House meeting as Biden focused his attention on dealing with the aftermath of deadly explosions near the Kabul airport that targeted U."
@@ -179,20 +193,6 @@ related:
         width: 650
         height: 433
         isCached: true
-  - title: "U.S. to go on hitting ISIS, Biden pledges"
-    excerpt: "President Joe Biden vowed Saturday to keep up airstrikes against the Islamic extremist group whose suicide bombing at the Kabul airport killed scores of Afghans and 13 American service members. Another terror attack,"
-    publishedDateTime: 2021-08-29T08:59:00Z
-    webUrl: "https://www.arkansasonline.com/news/2021/aug/29/us-to-go-on-hitting-isis-biden-pledges/?news"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 55
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/199258283_199257870-b29018f6db5642afb236295d3817bbdb_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 434
-        isCached: true
   - title: "Joe Biden spoke to the G7 a sum total of 7 minutes. Pure propaganda, photo-op."
     excerpt: "Joe Biden acted like his G7 meeting was a success, but in reality it left every other world leader feeling disappointed in America."
     publishedDateTime: 2021-08-25T12:49:00Z
@@ -228,6 +228,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "4/ukDG5ntfzmv8AtvDnjpWHfTC0uEmHz+Osf8gr0kSaRp8NPScsOZ2BxPJ0u/PH2dgj7sPdApdZYJK0nEGNYgC6jDniAPUKu9ha1skxVQjsNbSFj1HtXqtIL8ZsVN59kIaG7NW3OJ2wiP+EcvEkj5GJcLLRG0RrXEesSpj21jeLI57UpaWNfhA2rJFfbMSE7Yy3K97jPEr8z1eZYizowFWznQ/0mEFSqbdUkOskfgwfIWhvFoa322rwGiocu6PhzcOeu6BPXGCqgUVjyuonaWxCXfU4ntI85CvXcGu81hkXkIJkNCVgMU+gOelLipsPGSNGJga5T7xtig5w3otISyS87Ewi79IYHrxQW7q5Zcf0=;4kM/cy3ZqTexJjV/QOXlqA=="
+secured: "sHyaSI9YCFySxiXYpX/rWp0VW7tkho2wwo5GgFlDz/SqpoD8wZAYvhL6p3z+mZXSKqd51nk26gjBmGLdwT75tt1YyQHWVeN6RmXHHeDtxpsODHv+6gf5Vrr28efFvFOFDF0gp5nOh8yFNjqEEKHubOQBfvQwA9KUw90Oy2mTwvVxwClnr8CB53W3LDR/wdnVjx70RmKAM8MtxTkGsRQUc/Sm0K8bZweBNLLJdxpeo3vJL21pOt71/WJn9q5fLPBGNoHb34zxcWHOHJydVuho5ziQZOTfIZw6f1sFDkwcYQ2OIqR1D6qNIvVtpSvn7y+saRury30LwZNh7KvnhFCPShXtdYfc1CyQXEFhsynNxA8=;RODM9Zz9oDzWC+oHvG0VYg=="
 ---
 

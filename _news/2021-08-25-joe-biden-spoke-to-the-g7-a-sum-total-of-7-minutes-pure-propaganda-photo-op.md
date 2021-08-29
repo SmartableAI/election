@@ -193,6 +193,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "U.S. to go on hitting ISIS, Biden pledges"
+    excerpt: "President Joe Biden vowed Saturday to keep up airstrikes against the Islamic extremist group whose suicide bombing at the Kabul airport killed scores of Afghans and 13 American service members. Another terror attack,"
+    publishedDateTime: 2021-08-29T08:59:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/aug/29/us-to-go-on-hitting-isis-biden-pledges/?news"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/199258283_199257870-b29018f6db5642afb236295d3817bbdb_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 434
+        isCached: true
   - title: "President Joe Biden goes off script during White House visit, gives Storm personal tour of Oval Office"
     excerpt: "After a 20-minute ceremony in the East Room to celebrate the team’s 2020 WNBA championship, President Joe Biden asked the Storm if they would like a private tour, led by him, of the Oval Office. Of course,"
     publishedDateTime: 2021-08-24T00:28:00Z

@@ -124,20 +124,20 @@ related:
         height: 336
         isCached: true
   - title: "Biden: Another attack likely, pledges more strikes on IS"
-    excerpt: "President Joe Biden vowed Saturday to keep up airstrikes against the Islamic extremist group whose suicide bombing at the Kabul airport killed scores of Afghans and 13 American service members. He"
-    publishedDateTime: 2021-08-29T03:43:00Z
-    webUrl: "https://www.denverpost.com/2021/08/28/joe-biden-another-attack-likely/"
-    ampWebUrl: "https://www.denverpost.com/2021/08/28/joe-biden-another-attack-likely/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/08/28/joe-biden-another-attack-likely/amp/"
+    excerpt: "He warned another attack was “highly likely” and the State Department called the threat “specific” and “credible.” The Pentagon said the remaining contingent of U.S. forces at the airport, now numbering fewer than 4,"
+    publishedDateTime: 2021-08-29T08:50:00Z
+    webUrl: "https://www.timesunion.com/news/article/Biden-Another-attack-likely-pledges-more-16419255.php"
+    ampWebUrl: "https://www.timesunion.com/news/amp/Biden-Another-attack-likely-pledges-more-16419255.php"
+    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Biden-Another-attack-likely-pledges-more-16419255.php"
     type: article
     provider:
-      name: The Denver Post
-      domain: denverpost.com
+      name: Times Union
+      domain: timesunion.com
     quality: 75
     images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2021/08/AP21240654307233.jpg?w=1024&#038;h=683"
-        width: 1024
-        height: 683
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Joe Biden warns Kabul retaliatory strike 'highly likely' in the next 24 to 36 hours"
     excerpt: "US President Joe Biden warned a second retaliation strike against the terrorists responsible for Thursday's suicide bombing was \"highly likely in the next 24 to 36 hours\"."
