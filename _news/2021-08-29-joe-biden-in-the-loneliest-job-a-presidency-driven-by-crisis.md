@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden in the ‘Loneliest Job,' a Presidency Driven by Crisis"
 excerpt: "Surrounded by everything a superpower can offer and watched by all, President Joe Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan and tried to keep the focus on what,"
-publishedDateTime: 2021-08-29T01:54:00Z
-originalUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
-webUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
+publishedDateTime: 2021-08-28T22:12:00Z
+originalUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/"
+webUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/"
 ampWebUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
 type: article
@@ -163,6 +163,6 @@ related:
       domain: seattletimes.com
     quality: 50
 
-secured: "PThq+Li3BEYAF4Ek55Fr7DAwqvTghycorMyAABMAE/pjQX3UIAzw3Rv5VY8VJCPrLUCToI3flJGmvYLiyKAxFq72SNxlM3gEy5Bi8Xx0Pw2fRAx6MQBw23crgi75vzfMNH2/QvzdYnslAtk5TKwUpj6rNNnl1cTfN7Tb0lT+v8d+CyhQDuJbmcOMq6D/Mbar90WsHtQcPpnE2RCmbQbd6TX7Qz62o90rmXOVcR2XpJwLG4imJgIDEZjG8G8W69ldXWGL7SD11favEGKfp9OnnAlcRbLP5AG4ediWI7s6xV+uXW2JLSF4sIKxXXH2kbamTbC2Kg3OyNYA1oyn5d2Ra98rbLDAlBfj2biolZ2w4W7pI6QaGezM0Vg4nOGOPeMnfGrxe+efdoRkmts6gx0NxaQ6CZJGDfYamo1XmcMWzRugzsVs335tyyWk6b5Mw7bk0UjTKUFz5fBKiYrA9zgn48gW8aQjq4NTRp4CSwwRmvtaamzPAKFY0g032K9I0+zk/lBW3u+/pFzFqqiJ3kMC3Q==;Ld3Q2eRnAmv5n5Ir5WztzA=="
+secured: "9OAfZLZwyRDQRBNksy1ak7RcxPZcIcQPmTUr+g7opc7ObR00qtuybcP0R+4Q9GjbpozfS+G51pvzVXfMQS2CrxDE0Yc++UdqAoIVvjilC6A3by/AyJ7UF1zx7XsMRc0oob0GEQfkA/LdOj0AM/Mg/iNf6NRcvpT4obEqG8wT9PQ+27lysVmmStjP0CigHHYaKIIofmuVuFh4nW8E61yh+D2656c7YcKMaFrhuPF7yvYOfDzUiP7dK8wJm+UuBSsLQ0/SWFCiAOc6NT5MuCKfBcoxUFAHEAsSBR3hyRw/jPM/Mli4sH4t15tyjgNCU3ISTHzC64/2aEzJn1NGzvpBVjDcCw4bkBxrZl9UcSqojtE=;esNrRP7jqkBLiThrJvtheQ=="
 ---
 

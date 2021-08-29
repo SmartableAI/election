@@ -403,6 +403,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden to receive bodies of U.S. troops killed in Afghanistan - White House"
+    excerpt: "U.S. President Joe Biden arrived at Dover Air Force Base on Sunday to honor members of the military killed in a suicide bomb attack during the evacuation of civilians from Afghanistan last week."
+    publishedDateTime: 2021-08-29T11:36:00Z
+    webUrl: "https://www.reuters.com/world/us/biden-receive-bodies-us-troops-killed-afghanistan-white-house-2021-08-29/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
+    images:
+      - url: "https://www.reuters.com/resizer/Gjy2MRwR2_dZoA_uzZ-SSHHqKMs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZFLOMMUOXBMFJO7OWUMJP2AYPI.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Afghanistan live news: Joe Biden says there was no way to exit without ‘chaos’"
     excerpt: "Ousted president Ashraf Ghani confirms he is in UAE; UN says it will still support Afghan people; at least one dead after clash over Taliban flag"
     publishedDateTime: 2021-08-18T21:35:00Z
@@ -678,6 +692,22 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Biden pays respects to US troops killed in Afghanistan"
+    excerpt: "DOVER AIR FORCE BASE, Del. (AP) — President Joe Biden met in solemn privacy Sunday with the families of the 13 U.S. troops killed in the suicide attack near the Kabul airport as the remains of ..."
+    publishedDateTime: 2021-08-29T15:06:00Z
+    webUrl: "https://tulsaworld.com/news/national/govt-and-politics/biden-pays-respects-to-us-troops-killed-in-afghanistan/article_e4b8f3f2-602d-5f82-83e9-10f06a73422e.html"
+    ampWebUrl: "https://tulsaworld.com/news/national/govt-and-politics/biden-pays-respects-to-us-troops-killed-in-afghanistan/article_e4b8f3f2-602d-5f82-83e9-10f06a73422e.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/national/govt-and-politics/biden-pays-respects-to-us-troops-killed-in-afghanistan/article_e4b8f3f2-602d-5f82-83e9-10f06a73422e.amp.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/f/13/f13a69e0-3c75-59d5-9c61-c9144ac41009/612b7e98012bb.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Biden to pay respects to US troops killed in Afghanistan"
     excerpt: "President Joe Biden embarked on a solemn journey Sunday to honor and mourn the 13 U.S. troops killed in the suicide attack near the Kabul airport as their remains return to U.S. soil from Afghanistan."
@@ -1759,6 +1789,6 @@ related:
         height: 380
         isCached: true
 
-secured: "A7gg7e/bwHjeS+wA0GAeV0YU2WdZQGNAOxw/v4zQgJ4YlwNmOKBCpGNVHd51BouD9orqdQrf62/cLAyHCmnDQ2q2hVAPAbk7E0AascIZNrtFlEieo88pBNyQvLZSa6HlgCm3Jv6C1Y9hfgTJVHHy7po+cXxx9gflRvTCRD+At1CJhvHGkNDAMQkCxiYmisfo9z0xHW6DmtkFT4bh98bYLt1s/919TuXYzECj1MIX9Ald5jJZnZ9R4Fpg+RnLLxIPnrWMsmfoM/t49+O/Rr95ZLmyh+qdPim310kvkpZSxxgutcB8nb5hSt4WleCk6j7V7Pao6Lt9mXYZI10wO2Z7j6NLZosLxKufkdvtiP4WbNY=;C7TpldWlYq77axXcyKCMCg=="
+secured: "4mpFLPI82DAwJ32evaw1JPV70Y27/RD8S2vSgI9TUgQEBjvczUQxKexZsWDWKBs/XikeppHTxntmcVKPqVSqpXRWuqIWfjjou5Z/XtrYUK2Ls2OdreSCvjLo9a9yvvuo22OI4P8GhFsHVHY/RhMv1GEj3FAvLG6bOqQvfTKVg07zzMy6jnJs/czYl3zuLyntNOK/iwZpBMg+MeCuA5DgjzXpLnwJt7+/1dW+U/4FqC/m4vtOEgTtlvwcdOY9tTTDPmDXRUlqw9HjWzsDmJY1aMSZS1cDNCFM4Xn3v1i0X3vgPWdg8eQCY3reFHcuCgiFp5yCjeQAFFXQEP+CFbqPjp1jmR62QS3KFD2biFdk6KeLnoMtaMnQUXuoLDKX+rXEOtRMs3fwq0/zJ4bblPBr6f5RrwnrYbOENAEvyc0ArdYN19plmpUu+EgeW0t116XzqIP3PQ28FJPqKhmA21ZTU3OVEElNHhTTNssXLGRddP4KCPKVw8PjklpRW64c5ClYVjvxkzpovAzH4rY0z2h/PA==;b1IKQK9/zf5PuqiAN4B+9A=="
 ---
 

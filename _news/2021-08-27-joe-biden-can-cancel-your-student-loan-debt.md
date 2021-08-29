@@ -220,6 +220,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration pledges 'safe passage' for Americans in Afghanistan after withdrawal deadline"
+    excerpt: "The Biden administration is committed to a \"safe passage\" of Americans and Afghans who helped the US government after the withdrawal deadline from Afghanistan, national security adviser Jake Sullivan said Sunday.\n    \n"
+    publishedDateTime: 2021-08-29T15:45:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kdgpQsUQYd8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/29/politics/jake-sullivan-afghanistan-withdrawal-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/29/politics/jake-sullivan-afghanistan-withdrawal-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210829102257-screengrab-jake-sullivan-cnn-08-29-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact check: Biden claims al Qaeda is 'gone' from Afghanistan. Then the Pentagon confirms it's still there"
     excerpt: "Defending the withdrawal of US troops from Afghanistan, President Joe Biden said at the White House on Friday: \"Look, let's put this thing in perspective. What interest do we have in Afghanistan at this point, with al Qaeda gone? We went to Afghanistan for the express purpose of getting rid of al Qaeda"
     publishedDateTime: 2021-08-21T00:14:23Z

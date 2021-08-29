@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to honor U.S. service members killed in Kabul attack"
+    excerpt: "The president and first lady are meeting with family members of those killed in the Kabul terror attack and witness the return of their bodies."
+    publishedDateTime: 2021-08-29T14:04:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-honor-u-s-service-members-killed-kabul-attack-n1277876"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1277876"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1277876"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_34/3502268/210829-joe-biden-air-force-one-jm-0915.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "UzfeEImwIMEyNBLM/6BxPn5Co2yJhu/Hxxlp3oI3lOYQ6l+8hYDOb7SZ2grPQa3fadkDguqDDDXFCnuUfzijHO5DjSQGv9lKXOsAdnCngh/9k8iNbOHoSRlgRPd2FKFHqdyA+/ND219GxHzv3ZBHO7d8WAvGFeNc/pnhvitSoDMgRUfkFnV3DhQoFCaXWZii2ig9d/7PW2+gHnBEmhdj0ImkjrhOjk6Qyo09uleOy0wM6FZ15bx2uaZzvGieQSgNWce9QnPhkGiYG9r6ZOt6R3Voi1fEsnvB/g39kUzlk78kc0IWJocci/S2Du5UsEQ02rA/NttOExUzIiqG35v86sZ2oZSPG0ywg80Cl4OcV5I=;bL+5kfG4d/GPnuP53Zioxw=="
 ---

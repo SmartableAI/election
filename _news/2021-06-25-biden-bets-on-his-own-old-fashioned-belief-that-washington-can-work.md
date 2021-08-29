@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/25/politics/joe-biden-infrastructure
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/joe-biden-infrastructure-policing-deals-congress/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden is holding together the Democratic Party in Washington -- for now"
+    excerpt: "Almost a year before Joe Biden was elected president, fellow Democratic Rep. Alexandria Ocasio-Cortez remarked in a New York Magazine profile that \"in any other country,\" she and Biden \"would not be in the same party.\"\n    \n"
+    publishedDateTime: 2021-08-29T15:03:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q_B7GELPmc8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/29/politics/democrats-biden-progressives/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/29/politics/democrats-biden-progressives/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210714142031-03-biden-us-capitol-schumer-0714-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Frustration and bewilderment: Emails show tension between Facebook and Biden campaign"
     excerpt: "People working with Joe Biden's presidential campaign repeatedly warned Facebook about violent campaign-related rhetoric on its platform during the heat of the 2020 election, but a series of email exchanges reveals how the social media giant sometimes brushed them off.\n    \n"
     publishedDateTime: 2021-06-23T20:52:30Z

@@ -415,6 +415,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "McConnell blasts Biden's Afghanistan withdrawal as 'much worse than Saigon'"
+    excerpt: "Senate Minority Leader Mitch McConnell on Sunday blasted the Biden administration for its botched withdrawal from Afghanistan, saying it was “much worse than Saigon.”"
+    publishedDateTime: 2021-08-29T15:47:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OdxtOXwQOTw/mcconnell-blasts-bidens-afghanistan-withdrawal-as-much-worse-than-saigon"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-blasts-bidens-afghanistan-withdrawal-as-much-worse-than-saigon.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-blasts-bidens-afghanistan-withdrawal-as-much-worse-than-saigon.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c3086884-faf8-4301-ac35-3dda80a1bbc2/3279be5d-9a28-4de2-baaa-1cfeff83086b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden hasn't spoken to any foreign leaders since fall of Afghanistan to Taliban"
     excerpt: "National Security Adviser Jake Sullivan said Tuesday that President Biden has not spoken with any other world leaders this week since Afghanistan fell to the Taliban, as the president remains at Camp David amid frantic efforts to evacuate Americans and U.S. allies from the country."
     publishedDateTime: 2021-08-17T19:30:40Z

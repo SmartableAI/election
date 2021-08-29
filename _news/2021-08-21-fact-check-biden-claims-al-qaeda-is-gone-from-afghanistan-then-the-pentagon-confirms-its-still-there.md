@@ -223,6 +223,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration pledges 'safe passage' for Americans in Afghanistan after withdrawal deadline"
+    excerpt: "The Biden administration is committed to a \"safe passage\" of Americans and Afghans who helped the US government after the withdrawal deadline from Afghanistan, national security adviser Jake Sullivan said Sunday.\n    \n"
+    publishedDateTime: 2021-08-29T15:45:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kdgpQsUQYd8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/29/politics/jake-sullivan-afghanistan-withdrawal-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/29/politics/jake-sullivan-afghanistan-withdrawal-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210829102257-screengrab-jake-sullivan-cnn-08-29-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Fauci's new 2022 timeline for Covid fight could be a political disaster for Biden and Democrats"
     excerpt: "President Joe Biden just got some deeply unwelcome news: The pandemic that he was elected to end could drag on deep into a midterm election year, with all the political and economic destruction that could bring.\n    \n"
     publishedDateTime: 2021-08-24T04:47:12Z

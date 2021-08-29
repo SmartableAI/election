@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/26/politics/republicans-kabul-biden/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/26/politics/republicans-kabul-biden/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210827175248-03-01-afghanistan-wh-tick-tock-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden to honor U.S. service members killed in Kabul attack"
+    excerpt: "The president and first lady are meeting with family members of those killed in the Kabul terror attack and witness the return of their bodies."
+    publishedDateTime: 2021-08-29T14:04:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-honor-u-s-service-members-killed-kabul-attack-n1277876"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1277876"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1277876"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_34/3502268/210829-joe-biden-air-force-one-jm-0915.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "BUyTOFf0RaxROhiVwE1bzsOt53LV06GU0DKQEyzThGckX37Wdx0DU/77LHrwf9fxAZ6PtpwIR4/8UfAn+qC8SYrd4/NgVPtXa+dAHHl2qv0WO4J1w4HMajeGe7wn3fmofNpm25vNxNBeDMXQ/6mMyKvnLe9xcO0+dvvwWj9OQHKwucnjLRVYMeupNndHdWX40gDbWkzTx7NPfrqVJRyl2o42vFUvgSEOAGQf9oy4o/QdGn0mz5e+yCsj//V4898BwT0jdgjOlgtZPrzAbNdWZUnrG5b53q7EVJHvduy5oxlG8NNKEyadbBsxPwWsQMLO5qPOpfGmMkoZ7YMS2qvIpCXxlAIIgHmnLQ6dCPmf3mI=;rdGieRX9RVBEuSsFiwwiMw=="

@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden is holding together the Democratic Party in Washington -- for now"
+    excerpt: "Almost a year before Joe Biden was elected president, fellow Democratic Rep. Alexandria Ocasio-Cortez remarked in a New York Magazine profile that \"in any other country,\" she and Biden \"would not be in the same party.\"\n    \n"
+    publishedDateTime: 2021-08-29T15:03:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q_B7GELPmc8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/29/politics/democrats-biden-progressives/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/29/politics/democrats-biden-progressives/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210714142031-03-biden-us-capitol-schumer-0714-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "For Biden, confronting Putin may have been easier than dealing with Republicans back in Washington"
     excerpt: "With confidence and elan, President Joe Biden rallied allies abroad last week around the viability of 21st century democracy. Proving it here at home will be harder.\n    \n"
     publishedDateTime: 2021-06-20T11:57:53Z
