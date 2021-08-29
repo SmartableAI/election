@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-claims-biden-bringing-afghan-t
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-biden-bringing-afghan-terrorists-to-the-us-2021-8?amp"
 type: article
 quality: 133
-heat: 2453
+heat: 2493
 published: true
 
 provider:
@@ -651,6 +651,38 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Biden aide: US has capacity to evacuate remaining Americans"
+    excerpt: "He warned another attack was “highly likely” and the State Department called the threat “specific” and “credible.” The Pentagon said the remaining contingent of U.S. forces at the airport, now numbering fewer than 4,"
+    publishedDateTime: 2021-08-29T12:38:00Z
+    webUrl: "https://www.nhregister.com/news/article/Biden-Another-attack-likely-pledges-more-16419255.php"
+    ampWebUrl: "https://www.nhregister.com/news/amp/Biden-Another-attack-likely-pledges-more-16419255.php"
+    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Biden-Another-attack-likely-pledges-more-16419255.php"
+    type: article
+    provider:
+      name: New Haven Register
+      domain: nhregister.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Biden to pay respects to US troops killed in Afghanistan"
+    excerpt: "President Joe Biden embarked on a solemn journey Sunday to honor and mourn the 13 U.S. troops killed in the suicide attack near the Kabul airport as their remains return to U.S. soil from Afghanistan."
+    publishedDateTime: 2021-08-29T13:13:00Z
+    webUrl: "https://www.dallasnews.com/news/national/2021/08/29/biden-to-pay-respects-to-us-troops-killed-in-afghanistan/"
+    ampWebUrl: "https://www.dallasnews.com/news/national/2021/08/29/biden-to-pay-respects-to-us-troops-killed-in-afghanistan/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/national/2021/08/29/biden-to-pay-respects-to-us-troops-killed-in-afghanistan/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 75
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/1FLuWtZ2CdlAndpMTBZ9ldtgF5E=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/W63TOS5IJNLEKZITVQCF6JDCK4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Sleepy Joe Biden made the entire world a hostage to terror"
     excerpt: "TWENTY years on from 9/11, it ends the way it began – with multiple acts of terror, cries of the dying and a grim-faced US President vowing vengeance on the men of evil. But the tough talk sounds"
     publishedDateTime: 2021-08-28T21:42:00Z
@@ -1030,13 +1062,13 @@ related:
   - title: "Fact check: Quote about Afghanistan, Democrats in Washington falsely attributed to Donald Trump"
     excerpt: "Donald Trump did not say the situation in Afghanistan is a distraction from the Democrats in Washington. The quote is being falsely attributed to him."
     publishedDateTime: 2021-08-27T02:32:00Z
-    webUrl: "https://www.indystar.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
-    ampWebUrl: "https://amp.indystar.com/amp/5586860001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5586860001"
+    webUrl: "https://www.jsonline.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
+    ampWebUrl: "https://amp.jsonline.com/amp/5586860001"
+    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/5586860001"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
     quality: 63
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/08/22/USAT/9aef22b6-661a-487a-9438-89b679f37137-GTY_1335520712.jpg?auto=webp&crop=3688,2075,x0,y187&format=pjpg&width=1200"

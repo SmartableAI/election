@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says another terrorist attack on Kabul airport is 'highly likely' while vowing that US retaliatory strike was not 'the last'"
+    excerpt: "The ISIS-K planner targeted by a US drone strike in Afghanistan was believed to be \"associated with potential future attacks at the airport,\" a US defense official told CNN Saturday.\n    \n"
+    publishedDateTime: 2021-08-29T09:38:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bvDZZbNHvog/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/28/politics/isis-k-drone-strike-us-afghanistan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/28/politics/isis-k-drone-strike-us-afghanistan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 145
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210827175248-03-01-afghanistan-wh-tick-tock-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "FnKtMZ+bgZuszcy/rdZFMZEq2EeYVKFc+T3BlDGV2G8Br9hGgDrWpRwOj+8U7mAPjpG4V9gr3t5MS/2eUYg6hyByEMjVkLCLdqNFtIw0mnvot3SCdcI+X403/xC6Ff/GCPI/lr3EEBpi6PCl5tHrgoaCQkQJx0G4xknOxa94uM1to4V9lVxjgasIzE0vOevK+GZfUQd/7hCycPd4As4rTVRncNT6pNVEGBPgmxYaiqgdyZWNLVYuXauRZmqg1KxCnkvUHMQ8zPHG7TZKvL6T8O5IV5uMwwJHK1Oyw+0R8FxUEwk50FetwmaUXwGnJAm27SUvnVpuGCEZziULen2pVpFL8uZYGb90ImwWHpfZ4Jc=;PW6CFhpDBxUceWG37Bupqg=="
 ---

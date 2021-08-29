@@ -63,6 +63,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden to receive bodies of 13 service members killed in Kabul airport attack"
+    excerpt: "President Biden traveled to Dover Air Force Base Sunday morning to receive the bodies of 13 American service members who were killed in an attack at the Kabul airport in Afghanistan."
+    publishedDateTime: 2021-08-29T13:17:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gdb1QtYxC_E/biden-transfer-13-service-members-killed-kabul-airport-attack"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-transfer-13-service-members-killed-kabul-airport-attack.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transfer-13-service-members-killed-kabul-airport-attack.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "K7AmRZ8POVxUvru+7S97LeP5flNFMi2ya/3rCBOHzZGCRhtQpkahe6imcKM1iW61jjO/EkhYK1SDpvWJzZdtMNXB8VedWNHqpH/BaKxS47Da+b2KMupWng0c4B2O2Da37G/atW+SPVIqDl6jn5Z6nIiyDIE10moBi50tVfq+jytTsZk4cC4Elg2xrxzRaDD/65spLcFpCbXYhxoz59YSU6deGZqGEQruZOV8EHtxpvI8+dMCkaz6gWWfCLpVB1xussujXISOMGfLtakZ6lccv7+ewwATlkPP1qTCeYBZwBG+8FSKt5MsGacESfq6MLvxZCruiAgkSiQ9kp3fcLqIaFaD8K35mB26SuIc3lufBl8=;sNgh7X2R9/a43dzO7aTR0w=="
 ---

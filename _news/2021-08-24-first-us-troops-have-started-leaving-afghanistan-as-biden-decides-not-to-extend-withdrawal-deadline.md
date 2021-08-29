@@ -175,6 +175,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to attend dignified transfer at Dover Air Force Base for those killed in Afghanistan"
+    excerpt: "President Joe Biden will attend the dignified transfer of those American service members killed in Thursday's attack in Afghanistan, the White House announced Sunday. Biden will take Air Force One to Dover Air Force Base in Delaware to attend the dignified transfer.\n    \n"
+    publishedDateTime: 2021-08-29T13:27:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/72VZoFlj314/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/29/politics/biden-dover-afghanistan-service-members-killed/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/29/politics/biden-dover-afghanistan-service-members-killed/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210829070546-01-joe-biden-08-29-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'A direct punch in the gut': Inside Biden's biggest crisis as he races to withdraw from Afghanistan"
     excerpt: "When Joint Chiefs Chairman Gen. Mark Milley informed President Joe Biden just past 9:15 a.m. on Thursday that terrorists had detonated a suicide bomb at the Kabul Airport gates, the President was angry and dismayed — but not surprised.\n    \n"
     publishedDateTime: 2021-08-28T15:46:15Z

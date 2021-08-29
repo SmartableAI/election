@@ -3,18 +3,18 @@ category: news
 title: "Fact check: Quote about Afghanistan, Democrats in Washington falsely attributed to Donald Trump"
 excerpt: "Donald Trump did not say the situation in Afghanistan is a distraction from the Democrats in Washington. The quote is being falsely attributed to him."
 publishedDateTime: 2021-08-27T02:32:00Z
-originalUrl: "https://www.indystar.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
-webUrl: "https://www.indystar.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
-ampWebUrl: "https://amp.indystar.com/amp/5586860001"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5586860001"
+originalUrl: "https://www.jsonline.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
+webUrl: "https://www.jsonline.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
+ampWebUrl: "https://amp.jsonline.com/amp/5586860001"
+cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/5586860001"
 type: article
 quality: 63
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: Milwaukee Journal Sentinel
+  domain: jsonline.com
 
 topics:
   - Election
@@ -662,6 +662,38 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Biden aide: US has capacity to evacuate remaining Americans"
+    excerpt: "He warned another attack was “highly likely” and the State Department called the threat “specific” and “credible.” The Pentagon said the remaining contingent of U.S. forces at the airport, now numbering fewer than 4,"
+    publishedDateTime: 2021-08-29T12:38:00Z
+    webUrl: "https://www.nhregister.com/news/article/Biden-Another-attack-likely-pledges-more-16419255.php"
+    ampWebUrl: "https://www.nhregister.com/news/amp/Biden-Another-attack-likely-pledges-more-16419255.php"
+    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Biden-Another-attack-likely-pledges-more-16419255.php"
+    type: article
+    provider:
+      name: New Haven Register
+      domain: nhregister.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Biden to pay respects to US troops killed in Afghanistan"
+    excerpt: "President Joe Biden embarked on a solemn journey Sunday to honor and mourn the 13 U.S. troops killed in the suicide attack near the Kabul airport as their remains return to U.S. soil from Afghanistan."
+    publishedDateTime: 2021-08-29T13:13:00Z
+    webUrl: "https://www.dallasnews.com/news/national/2021/08/29/biden-to-pay-respects-to-us-troops-killed-in-afghanistan/"
+    ampWebUrl: "https://www.dallasnews.com/news/national/2021/08/29/biden-to-pay-respects-to-us-troops-killed-in-afghanistan/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/national/2021/08/29/biden-to-pay-respects-to-us-troops-killed-in-afghanistan/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 75
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/1FLuWtZ2CdlAndpMTBZ9ldtgF5E=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/W63TOS5IJNLEKZITVQCF6JDCK4.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Sleepy Joe Biden made the entire world a hostage to terror"
     excerpt: "TWENTY years on from 9/11, it ends the way it began – with multiple acts of terror, cries of the dying and a grim-faced US President vowing vengeance on the men of evil. But the tough talk sounds"
@@ -1727,6 +1759,6 @@ related:
         height: 380
         isCached: true
 
-secured: "3WwGtAklrKaU0zSOH6IVi30TfGF+adKi5ML4XUvRgKNn6dKP4gAupmjFR/+E0mRhYhKM8ZH6lIWSJrl/w8Q06zXZE9rrSAqaIKeWRRLPg6nw/mcw3RUaqJjwk092vc+njU7S9t5fd7UftHAUoMW+cW6lSyLuRTJbNDUob+hmAk6sSBWe4N3x4fkttgOL+EucK7uSlBrOQOro/+Ts/YeIpvBxkJWAd6EZWzK9o8yrLSekVxdCGo+8IcGj+Qd4YTN4CC2o1E1fnr3cevb+M/KAV0o8vCgZy7bdmivaANXYw8h5hXztEkMfPleRkSPBsc9For8Bew5TWzm+K0MIHnTifuifciy5pORIADP4dG1wuxUuzIEhqx45Yvd0Tnj84Runpd1ifW98KCY/imHMC/xYSV6SbvoVRJOAl7G8JghwdQpkwRsdrP4bJhQvaeAJvYCt5ERDBkRJkI8fOmItwrSWVM52R08/wet7bpiyRlOhX/2lg12jqsdVb9tbd7+x9mbYrGxt3KBT7qneJ5xU1HlcAA==;mfvCxM5V4A6PgNBT5KZ+xA=="
+secured: "A7gg7e/bwHjeS+wA0GAeV0YU2WdZQGNAOxw/v4zQgJ4YlwNmOKBCpGNVHd51BouD9orqdQrf62/cLAyHCmnDQ2q2hVAPAbk7E0AascIZNrtFlEieo88pBNyQvLZSa6HlgCm3Jv6C1Y9hfgTJVHHy7po+cXxx9gflRvTCRD+At1CJhvHGkNDAMQkCxiYmisfo9z0xHW6DmtkFT4bh98bYLt1s/919TuXYzECj1MIX9Ald5jJZnZ9R4Fpg+RnLLxIPnrWMsmfoM/t49+O/Rr95ZLmyh+qdPim310kvkpZSxxgutcB8nb5hSt4WleCk6j7V7Pao6Lt9mXYZI10wO2Z7j6NLZosLxKufkdvtiP4WbNY=;C7TpldWlYq77axXcyKCMCg=="
 ---
 

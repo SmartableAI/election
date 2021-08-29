@@ -383,6 +383,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "GOP Congressmen blast Biden admin for stranding Americans in Afghanistan"
+    excerpt: "Multiple Republican Congressmen slammed President Biden and his administration Saturday and warned that U.S. citizens weren't able to reach the airport gates in Afghanistan as the Aug. 31 deadline rapidly approaches."
+    publishedDateTime: 2021-08-29T13:58:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u69-Rh-mSss/gop-congressmen-blast-biden-admin-for-stranding-americans-in-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-congressmen-blast-biden-admin-for-stranding-americans-in-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-congressmen-blast-biden-admin-for-stranding-americans-in-afghanistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b6337cdc-2bf7-43ef-a7d9-e115cb7fbbc2/97b33807-e2d0-4fc0-ad53-d6d6f9945d4a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden admin doubles down on Psaki claim Americans not stranded in Afghanistan"
     excerpt: "An administration official stood by Psaki’s claim on Tuesday, telling Fox News in an email that the White House is working to bring home Americans who want to leave Afghanistan."
     publishedDateTime: 2021-08-24T16:21:22Z

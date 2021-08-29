@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden to receive bodies of 13 service members killed in Kabul airport attack"
+    excerpt: "President Biden traveled to Dover Air Force Base Sunday morning to receive the bodies of 13 American service members who were killed in an attack at the Kabul airport in Afghanistan."
+    publishedDateTime: 2021-08-29T13:17:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gdb1QtYxC_E/biden-transfer-13-service-members-killed-kabul-airport-attack"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-transfer-13-service-members-killed-kabul-airport-attack.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transfer-13-service-members-killed-kabul-airport-attack.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Nikki Haley, other Republicans call for Biden's resignation or impeachment after attack at Kabul airport"
     excerpt: "A long list of GOP politicians are calling for President Biden to either be impeached or resign from office after the deadly attack on Harmid Karzai International Airport in Afghanistan."
     publishedDateTime: 2021-08-26T16:57:11Z
