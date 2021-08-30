@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Beto-O-Rourke-pu
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Beto-O-Rourke-pushes-Joe-Biden-to-help-pass-16411342.php"
 type: article
 quality: 125
-heat: 525
+heat: 565
 published: true
 
 provider:
@@ -173,6 +173,22 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Republicans really, really want Biden to be the new Jimmy Carter"
+    excerpt: "\"Jimmy Carter only had a year of a hostage crisis,\" host Jesse Watters declared last week. \"Joe Biden's going to have three years of a hostage crisis. I don't see how he survives this.\" The message: Carter was a failed one-term Democratic president,"
+    publishedDateTime: 2021-08-30T09:18:00Z
+    webUrl: "https://theweek.com/joe-biden/1004287/the-new-jimmy-carter"
+    ampWebUrl: "https://theweek.com/joe-biden/1004287/the-new-jimmy-carter?amp"
+    cdnAmpWebUrl: "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/joe-biden/1004287/the-new-jimmy-carter?amp"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 75
+    images:
+      - url: "https://mediacloud.theweek.com/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1630312191/GettyImages-3295829.jpg"
+        width: 814
+        height: 458
+        isCached: true
   - title: "Biden Urges More Employers to Enact Vaccine Mandates Following FDA’s Full Approval"
     excerpt: "Do what I did last month. Require your employees to get vaccinated or face strict requirements,” Biden said Monday."
     publishedDateTime: 2021-08-24T11:40:00Z
@@ -188,6 +204,22 @@ related:
       - url: "https://images.barrons.com/im-390118/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Joe Biden approval rating PLUMMETS - three reasons US President faces falling popularity"
+    excerpt: "JOE BIDEN started his first term as US President much like any of his predecessors, with a glowing approval rating above 50 percent. Less than nine months in, however, that has changed, and Express.co."
+    publishedDateTime: 2021-08-30T08:48:00Z
+    webUrl: "https://www.express.co.uk/news/world/1483815/Joe-Biden-approval-rating-polls-US-president-evg"
+    ampWebUrl: "https://www.express.co.uk/news/world/1483815/Joe-Biden-approval-rating-polls-US-president-evg/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/world/1483815/Joe-Biden-approval-rating-polls-US-president-evg/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 66
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/78/590x/Joe-Biden-approval-rating-polls-US-president-evg-1483815.jpg?r=1630314149661"
+        width: 590
+        height: 350
         isCached: true
   - title: "An Update on President Joe Biden’s Promise to “Have our Backs”"
     excerpt: "By Congressman James E. Clyburn July 20, 2021, marked six months that Joseph R. Biden has been President. When I endorsed Joe Biden for"

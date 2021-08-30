@@ -3,22 +3,18 @@ category: news
 title: "Fact check: Quote about Afghanistan, Democrats in Washington falsely attributed to Donald Trump"
 excerpt: "Donald Trump did not say the situation in Afghanistan is a distraction from the Democrats in Washington. The quote is being falsely attributed to him."
 publishedDateTime: 2021-08-27T02:32:00Z
-originalUrl: "https://www.usatoday.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
-webUrl: "https://www.usatoday.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
-ampWebUrl: "https://amp.usatoday.com/amp/5586860001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5586860001"
+originalUrl: "https://www.indystar.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
+webUrl: "https://www.indystar.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
+ampWebUrl: "https://amp.indystar.com/amp/5586860001"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5586860001"
 type: article
-quality: 113
+quality: 63
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -238,6 +234,22 @@ related:
       - url: "https://i.insider.com/612805a612b9cc0019630f06?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Fact Check: Joe Biden said that al-Qaida is 'gone' from Afghanistan"
+    excerpt: "What interest do we have in Afghanistan at this point with al-Qaida gone? We went to Afghanistan for the express purpose of getting rid of al-Qaida in Afghanistan, as well as getting Osama bin Laden."
+    publishedDateTime: 2021-08-30T09:13:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/Fact-Check-Joe-Biden-said-that-al-Qaida-is-16416922.php"
+    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Fact-Check-Joe-Biden-said-that-al-Qaida-is-16416922.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Fact-Check-Joe-Biden-said-that-al-Qaida-is-16416922.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 125
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/50/72/21401243/3/400x0.jpg"
+        width: 400
+        height: 266
         isCached: true
   - title: "President Biden to give Afghanistan update one week after Taliban takeover"
     excerpt: "At the one-week mark since the Taliban took over Afghanistan, the U.S.-directed airlift from Kabul continued Sunday even as U.S. officials expressed growing concern about the threat from the Islamic State group."
@@ -1075,6 +1087,22 @@ related:
         width: 645
         height: 403
         isCached: true
+  - title: "Joe Biden gave 'confusing' answer on Afghanistan during Democratic presidential debate"
+    excerpt: "JOE BIDEN gave a \"confusing\" answer on Afghanistan during the Democratic presidential debate in 2019, according to a political commentator."
+    publishedDateTime: 2021-08-30T07:40:00Z
+    webUrl: "https://www.express.co.uk/news/world/1483786/joe-biden-afghanistan-withdrawal-us-democratic-presidential-debate-spt"
+    ampWebUrl: "https://www.express.co.uk/news/world/1483786/joe-biden-afghanistan-withdrawal-us-democratic-presidential-debate-spt/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/world/1483786/joe-biden-afghanistan-withdrawal-us-democratic-presidential-debate-spt/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 67
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/78/590x/Joe-Biden-gave-confusing-answer-on-Afghanistan-during-Democratic-presidential-debate-1483786.jpg?r=1630309255609"
+        width: 590
+        height: 350
+        isCached: true
   - title: "Bush, Obama, Trump, Biden: How four presidents created today's Afghanistan mess"
     excerpt: "How America spent 20 years in Afghanistan, only to have the Taliban resume control again as its troops withdrew, will be a topic for historians to ponder for decades."
     publishedDateTime: 2021-08-24T12:30:00Z
@@ -1908,6 +1936,6 @@ related:
         height: 380
         isCached: true
 
-secured: "TXUirb5LZvvYAy7eZxHDQ+fiiHdBH+UMMukMrMkOUEJ+mdNJUax/HnS07S4bjzET3tQp1FQ+xWezdW1GTzPA3p7XhxEr+OQ9pfeMMyGzpeZoaFdx5YM7ih4mYtcsyjdsK0Ucq+Ar89vPwWavhWPIeC48ttFYcMIGsIumoeIadEYTotI/sb7Yok3i3bIKRgxBYID+/aWqJOTzQfRRI9yUHqKu+XUdkxFwudIGof1zkf0Dk252565VKyTYhaV1paDVQuPQK6PMyQE3UprIzePBCpF0rEWT7DGV7SF8SA7vp8JFD1wIsvhBP8ClhtLC59Dt09BPsC8MV/FPvJdugL5hvlap7Mv4jN7MK/y0TRR+p60=;9zOyNKt1ZyRxzhsIbLm+sg=="
+secured: "rYEG5IGT6UXJb4Uv+5v8GITodo3q4Exss+IjEDSizOGb+cZLWEKlVyEWyCj8DV6UGwSBn5Le9pAmoRG+DAyAtdj5t3ZFqzXaXTIew6RRXs3Z/JPxL9bqWyevZBUGbZZWUcLYeyVItTPpY9c0gRXtbO2CzMOowmy8wHBWWUIDGtcAY5LiYDUEoP4XAm+ybFkvqy2DzDZLZ4i8p3mvr70hvLBbxgpuXUU1FNGOvumlWm7ylDZvhF0nDUHCMqxupCRKJPXi4gYFXJH5ghACagIAhCVxV1MnBkQrQBW6vb1tuOrH0bZV6eum9lTUrbrWx8aSVp3O9ECtpbEPD/nusYlRkHA9TaecJ95jVBGxj215Ajo=;rZiQvPIIiKgMavTW8XUCyQ=="
 ---
 

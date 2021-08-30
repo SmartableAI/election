@@ -43,6 +43,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Australia’s Recession Is As Much A Problem For Biden As Sydney"
+    excerpt: "Australia’s sizable and open economy is often the closest thing the U.S. has to an early warning system, and experts are now warning that the country down under is sliding back into recession."
+    publishedDateTime: 2021-08-30T08:40:00Z
+    webUrl: "https://www.forbes.com/sites/williampesek/2021/08/30/australias-recession-is-as-much-a-problem-for-biden-as-sydney/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 105
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612c7e3d4264343d3146dd8c%2F0x0.jpg"
+        width: 1200
+        height: 776
+        isCached: true
   - title: "Joe Biden praises WNBA champs for social justice activism"
     excerpt: "The visit marked the first time that an NBA or WNBA team has visited the White House since the Cleveland Cavaliers were feted by Barack Obama in 2016."
     publishedDateTime: 2021-08-24T00:19:00Z

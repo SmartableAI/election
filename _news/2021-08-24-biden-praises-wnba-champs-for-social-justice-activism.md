@@ -41,6 +41,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Australia’s Recession Is As Much A Problem For Biden As Sydney"
+    excerpt: "Australia’s sizable and open economy is often the closest thing the U.S. has to an early warning system, and experts are now warning that the country down under is sliding back into recession."
+    publishedDateTime: 2021-08-30T08:40:00Z
+    webUrl: "https://www.forbes.com/sites/williampesek/2021/08/30/australias-recession-is-as-much-a-problem-for-biden-as-sydney/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 105
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612c7e3d4264343d3146dd8c%2F0x0.jpg"
+        width: 1200
+        height: 776
+        isCached: true
   - title: "Former Ohio lawmaker with doubts about Joe Biden's win wants to run Ohio elections"
     excerpt: "Former state lawmaker John Adams announced he is challenging incumbent Frank LaRose for Ohio Secretary of State in the GOP primary next year."
     publishedDateTime: 2021-08-23T16:44:00Z

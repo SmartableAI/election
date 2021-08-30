@@ -143,6 +143,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "How Does Biden Recover From His Week From Hell?"
+    excerpt: "If we had a parliamentary system, Biden would probably lose power in a no-confidence vote. As it is, I think he may have wrecked his own presidency when it’s barely begun. How does he recover? Gail: Well,"
+    publishedDateTime: 2021-08-30T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/08/30/opinion/biden-afghanistan-covid.html"
+    ampWebUrl: "https://www.nytimes.com/2021/08/30/opinion/biden-afghanistan-covid.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/30/opinion/biden-afghanistan-covid.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/08/30/opinion/30conversation-use/merlin_193879332_3c494cf9-787e-4f63-a0e0-3572e5d09d6a-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "RQOMrUPZWsPJGpU1K1sKHazmxymCglQ8fwWpZga2TzRmuNEct7BOwonEt+TltPv5Yf8cgOs2h14jQi1fkGNrEfFIe9tzajeN5rxpqdIW+LJcQn0IHnQJYt32hRBITL4OyQZqc8nvd9u4g3E7sNiwZzNzbFRTzMcKrY4zFYrFKDNBod4r1fLz4eSX+jf/Gobqwat4MWmpuZcvm01NTLU2RkxTrw6vC2DrI8nKRla22caEpFezQgskbk5sDmDN1g4asPhN2WQpXMLgtH6wQt5YT+a2QFLWjM5asKX4YLzoMTw81+NGGomm6EvNjmbXyltppqMS+uWxrEUhKauWr7PNfWsPsSRLQkJHqJLEf/GUo3s=;T1uPx5n4Qe/QSWQmCPXBuA=="
 ---

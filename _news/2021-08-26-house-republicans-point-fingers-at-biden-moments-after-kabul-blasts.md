@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/26/politics/republicans-kabul-biden/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/26/politics/republicans-kabul-biden/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_34/3502268/210829-joe-biden-air-force-one-jm-0915.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "How Does Biden Recover From His Week From Hell?"
+    excerpt: "If we had a parliamentary system, Biden would probably lose power in a no-confidence vote. As it is, I think he may have wrecked his own presidency when it’s barely begun. How does he recover? Gail: Well,"
+    publishedDateTime: 2021-08-30T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/08/30/opinion/biden-afghanistan-covid.html"
+    ampWebUrl: "https://www.nytimes.com/2021/08/30/opinion/biden-afghanistan-covid.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/30/opinion/biden-afghanistan-covid.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/08/30/opinion/30conversation-use/merlin_193879332_3c494cf9-787e-4f63-a0e0-3572e5d09d6a-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "BUyTOFf0RaxROhiVwE1bzsOt53LV06GU0DKQEyzThGckX37Wdx0DU/77LHrwf9fxAZ6PtpwIR4/8UfAn+qC8SYrd4/NgVPtXa+dAHHl2qv0WO4J1w4HMajeGe7wn3fmofNpm25vNxNBeDMXQ/6mMyKvnLe9xcO0+dvvwWj9OQHKwucnjLRVYMeupNndHdWX40gDbWkzTx7NPfrqVJRyl2o42vFUvgSEOAGQf9oy4o/QdGn0mz5e+yCsj//V4898BwT0jdgjOlgtZPrzAbNdWZUnrG5b53q7EVJHvduy5oxlG8NNKEyadbBsxPwWsQMLO5qPOpfGmMkoZ7YMS2qvIpCXxlAIIgHmnLQ6dCPmf3mI=;rdGieRX9RVBEuSsFiwwiMw=="

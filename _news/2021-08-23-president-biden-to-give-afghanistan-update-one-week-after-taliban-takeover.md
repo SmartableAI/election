@@ -239,6 +239,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Fact Check: Joe Biden said that al-Qaida is 'gone' from Afghanistan"
+    excerpt: "What interest do we have in Afghanistan at this point with al-Qaida gone? We went to Afghanistan for the express purpose of getting rid of al-Qaida in Afghanistan, as well as getting Osama bin Laden."
+    publishedDateTime: 2021-08-30T09:13:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/Fact-Check-Joe-Biden-said-that-al-Qaida-is-16416922.php"
+    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Fact-Check-Joe-Biden-said-that-al-Qaida-is-16416922.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Fact-Check-Joe-Biden-said-that-al-Qaida-is-16416922.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 125
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/50/72/21401243/3/400x0.jpg"
+        width: 400
+        height: 266
+        isCached: true
   - title: "Joe Biden close to backing G20 peace talks on Afghanistan, says Italian PM"
     excerpt: "Some in US administration see risks in seeking support of Russia or China to counter a potential terrorist threat"
     publishedDateTime: 2021-08-25T17:59:00Z
@@ -286,22 +302,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1877015/tucker-carlson-speaks-esztergom-hungary.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Fact check: Quote about Afghanistan, Democrats in Washington falsely attributed to Donald Trump"
-    excerpt: "Donald Trump did not say the situation in Afghanistan is a distraction from the Democrats in Washington. The quote is being falsely attributed to him."
-    publishedDateTime: 2021-08-27T02:32:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5586860001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5586860001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/08/22/USAT/9aef22b6-661a-487a-9438-89b679f37137-GTY_1335520712.jpg?auto=webp&crop=3688,2075,x0,y187&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Joe Biden Said He Is Committed To Helping Evacuate Afghan Allies Who Worked With The US Government"
     excerpt: "In a speech at the White House, Biden again stood by his decision to withdraw US forces from the country. By Clarissa-Jan Lim Posted on August 20, 2021, at 3:05 p.m. ET President Joe Biden delivers remarks on the ongoing evacuation efforts in Afghanistan,"
@@ -1075,6 +1075,22 @@ related:
         width: 645
         height: 403
         isCached: true
+  - title: "Joe Biden gave 'confusing' answer on Afghanistan during Democratic presidential debate"
+    excerpt: "JOE BIDEN gave a \"confusing\" answer on Afghanistan during the Democratic presidential debate in 2019, according to a political commentator."
+    publishedDateTime: 2021-08-30T07:40:00Z
+    webUrl: "https://www.express.co.uk/news/world/1483786/joe-biden-afghanistan-withdrawal-us-democratic-presidential-debate-spt"
+    ampWebUrl: "https://www.express.co.uk/news/world/1483786/joe-biden-afghanistan-withdrawal-us-democratic-presidential-debate-spt/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/world/1483786/joe-biden-afghanistan-withdrawal-us-democratic-presidential-debate-spt/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 67
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/78/590x/Joe-Biden-gave-confusing-answer-on-Afghanistan-during-Democratic-presidential-debate-1483786.jpg?r=1630309255609"
+        width: 590
+        height: 350
+        isCached: true
   - title: "Bush, Obama, Trump, Biden: How four presidents created today's Afghanistan mess"
     excerpt: "How America spent 20 years in Afghanistan, only to have the Taliban resume control again as its troops withdrew, will be a topic for historians to ponder for decades."
     publishedDateTime: 2021-08-24T12:30:00Z
@@ -1152,6 +1168,22 @@ related:
       - url: "https://e3.365dm.com/21/08/1600x900/skynews-william-burns-abdul-ghani-baradar_5488833.jpg?20210824145349"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Fact check: Quote about Afghanistan, Democrats in Washington falsely attributed to Donald Trump"
+    excerpt: "Donald Trump did not say the situation in Afghanistan is a distraction from the Democrats in Washington. The quote is being falsely attributed to him."
+    publishedDateTime: 2021-08-27T02:32:00Z
+    webUrl: "https://www.indystar.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
+    ampWebUrl: "https://amp.indystar.com/amp/5586860001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5586860001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 63
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/22/USAT/9aef22b6-661a-487a-9438-89b679f37137-GTY_1335520712.jpg?auto=webp&crop=3688,2075,x0,y187&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "President Joe Biden warns of more attacks as military begins final withdrawal from Afghanistan"
     excerpt: "On alert for more terrorist attacks, the U.S. military has begun its final withdrawal from Afghanistan in the closing stages of a frantic airlift of Americans, Afghans and others desperate to escape Taliban rule before the evacuation shuts down."
