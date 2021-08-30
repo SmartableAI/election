@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Kat Cammack says Joe Biden’s ‘Weekend at Bernie’s’ presidency should end"
+    excerpt: "Kat Cammack on Fox & Friends Monday reiterated her belief President Joe Biden should resign over events in Afghanistan. She compared the President to the 1989 film Weekend at Bernie’s, a less-than-subtle suggestion Biden may be little more than a figurehead anyway."
+    publishedDateTime: 2021-08-30T18:53:00Z
+    webUrl: "https://floridapolitics.com/archives/453974-kat-cammack-says-joe-bidens-weekend-at-bernies-presidency-should-end/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 54
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/06/image007-2.jpg"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden’s lack of leadership has set the stage for another Tehran ‘79Biden’s lack of leadership has set the stage for another Tehran ‘79"
     excerpt: "Remember when President Joe Biden went on national television and said the Afghanistan troop withdrawal would be nothing like Saigon?"
     publishedDateTime: 2021-08-26T19:49:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.the-sun.com/news/3555473/joe-biden-shamed-endangered-wes
 cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3555473/joe-biden-shamed-endangered-west/amp/"
 type: article
 quality: 75
-heat: 115
+heat: 135
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://cdn.cnsnews.com/styles/article_big/s3/2021-08/green%2C%20mark%20%20%2045.jpg"
         width: 700
         height: 466
+        isCached: true
+  - title: "Kat Cammack says Joe Biden’s ‘Weekend at Bernie’s’ presidency should end"
+    excerpt: "Kat Cammack on Fox & Friends Monday reiterated her belief President Joe Biden should resign over events in Afghanistan. She compared the President to the 1989 film Weekend at Bernie’s, a less-than-subtle suggestion Biden may be little more than a figurehead anyway."
+    publishedDateTime: 2021-08-30T18:53:00Z
+    webUrl: "https://floridapolitics.com/archives/453974-kat-cammack-says-joe-bidens-weekend-at-bernies-presidency-should-end/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 54
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/06/image007-2.jpg"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden’s lack of leadership has set the stage for another Tehran ‘79Biden’s lack of leadership has set the stage for another Tehran ‘79"
     excerpt: "Remember when President Joe Biden went on national television and said the Afghanistan troop withdrawal would be nothing like Saigon?"

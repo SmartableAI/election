@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/desantis-biden-administration-reset
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/desantis-biden-administration-resettling-illegal-immigrants-florida.amp"
 type: article
 quality: 168
-heat: 168
+heat: 188
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "GOP Sen. Hagerty wants Congress to review Biden immigration enforcement limit"
+    excerpt: "FIRST ON FOX: Sen. Bill Hagerty, R-Tenn., is asking the Government Accountability Office if controversial Immigration and Customs Enforcement (ICE) guidance that dramatically reduced the scope of immigration enforcement could be subject to review by Congress -- days after the Biden administration suffered"
+    publishedDateTime: 2021-08-30T19:35:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y_fL1jkliLo/hagerty-gao-if-biden-admin-immigration-policies-review-congress"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 152
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/haggerty.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "yY3Z19FPHTKEecqujjdn8UHQuzEI1ARkJZjYEXiSNFBeQePpYTLA594sGOwY8bIeciuo/vdq3p9xGzFBmppryn3DZCFNeJEkTphx/eBUXHymlcsb4GUioNXsU0Y0WwXZHO+zy+MVeY8Gqda2xTlATE0Y5xZq/SAuXCuD97fKFeas5SEreXhpUoVwcQ8ZHZNUyG2kDla5yogFh62nKfEf6e2aIhk2lu9KVRF4tF14WE6Z02xx2h/FQkgALIgaUK4RkstKbZswRM9aRBUIzUInzJQlK7g63z4Ihx52klz4AVerVvD4Wnk/XYIOfHbCaMJXzTE61SMQLN5wZdQ8B4tSbsgiY9TM1/y8mMOB75kQsRg=;InMRssEU3C+fZxwVmm6YqA=="
 ---

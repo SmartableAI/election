@@ -25,84 +25,75 @@ topics:
   - Joe Biden
 
 related:
-  - title: "Biden to allow eviction moratorium to expire Saturday"
-    excerpt: "The Biden administration announced Thursday it will allow a nationwide ban on evictions to expire Saturday, arguing that its hands are tied after the Supreme Court signaled the moratorium would only be extended until the end of the month."
-    publishedDateTime: 2021-07-29T17:49:00Z
-    webUrl: "https://www.chron.com/news/article/Biden-to-allow-eviction-moratorium-to-expire-16348971.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Biden-to-allow-eviction-moratorium-to-expire-16348971.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-to-allow-eviction-moratorium-to-expire-16348971.php"
+  - title: "WATCH: Biden pledges Hurricane Ida support for ‘as long as it takes’"
+    excerpt: "Ida has left scores of coastal Louisiana residents trapped by floodwaters and pleading to be rescued, while making a shambles of the electrical grid across a wide swath of the state in the sweltering,"
+    publishedDateTime: 2021-08-30T19:10:00Z
+    webUrl: "https://www.pbs.org/newshour/nation/watch-biden-pledges-hurricane-ida-support-for-as-long-as-it-takes"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/nation/watch-biden-pledges-hurricane-ida-support-for-as-long-as-it-takes"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/nation/watch-biden-pledges-hurricane-ida-support-for-as-long-as-it-takes"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
+      name: PBS
+      domain: pbs.org
+    quality: 125
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2021/08/2021-08-30T182355Z_554461000_RC2TFP9CFQYB_RTRMADP_3_STORM-IDA-BIDEN-1024x563.jpg"
+        width: 1024
+        height: 563
         isCached: true
-  - title: "Buttigieg to visit Port of Baltimore to tout Biden’s infrastructure deal Thursday"
-    excerpt: "U.S. Transportation Secretary Pete Buttigieg will visit the Port of Baltimore Thursday to tout the benefits of President Biden’s bipartisan infrastructure deal."
-    publishedDateTime: 2021-07-27T19:37:00Z
-    webUrl: "https://www.baltimoresun.com/politics/bs-md-pol-buttigieg-baltimore-20210727-fnkdl7d5fzfmdd7kmxz6gsbdpa-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/politics/bs-md-pol-buttigieg-baltimore-20210727-fnkdl7d5fzfmdd7kmxz6gsbdpa-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/politics/bs-md-pol-buttigieg-baltimore-20210727-fnkdl7d5fzfmdd7kmxz6gsbdpa-story.html?outputType=amp"
+  - title: "Was Biden looking at his watch during ceremony for Marines killed in Kabul?"
+    excerpt: "It appeared President Biden glanced at his watch during a solemn ceremony for U.S. Marines killed in the Kabul terror attack."
+    publishedDateTime: 2021-08-30T02:28:00Z
+    webUrl: "https://www.bostonherald.com/2021/08/29/was-biden-looking-at-his-watch-during-ceremony-for-marines-killed-in-kabul/"
+    ampWebUrl: "https://www.bostonherald.com/2021/08/29/was-biden-looking-at-his-watch-during-ceremony-for-marines-killed-in-kabul/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/08/29/was-biden-looking-at-his-watch-during-ceremony-for-marines-killed-in-kabul/amp/"
     type: article
     provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 70
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 73
     images:
-      - url: "https://www.baltimoresun.com/resizer/h6Rm5NBj7Ozf4K1WOjI2vNjcCiU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CJD6BCIZURG63GMQBACHLFPMHY.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.bostonherald.com/wp-content/uploads/2021/08/GettyImages-1234946450.jpg?w=1024&#038;h=642"
+        width: 1024
+        height: 642
         isCached: true
-  - title: "AOC blames Democrats for letting eviction moratorium expire, says Biden wasn't 'forthright'"
-    excerpt: "We cannot in good faith blame House Republicans when Democrats have the majority,' New York Rep. Ocasio-Cortez said Sunday."
-    publishedDateTime: 2021-08-02T12:31:00Z
-    webUrl: "https://www.app.com/story/news/politics/2021/08/01/aoc-points-democrats-biden-letting-eviction-moratorium-expire/5447218001/"
-    ampWebUrl: "https://amp.app.com/amp/5447218001"
-    cdnAmpWebUrl: "https://amp-app-com.cdn.ampproject.org/c/s/amp.app.com/amp/5447218001"
+  - title: "Joe Biden holds virtual meeting on Hurricane Ida in Washington"
+    excerpt: "U.S. President Joe Biden meets virtually with FEMA Administrator Deanne Criswell and governors and mayors from States and cities impacted by Hurricane Ida from South Court Auditorium at the White House in Washington,"
+    publishedDateTime: 2021-08-30T18:20:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/afed49e3dfe0422f575a3cdadde2c7ce/Joe-Biden-holds-virtual-meeting-on-Hurricane-Ida-in-Washington/"
     type: article
     provider:
-      name: app.com
-      domain: app.com
-    quality: 65
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/02/USAT/226581c8-4dfb-47e7-b88a-bb4301b3b749-Alexandria_Ocasio-Cortez_14.JPG?auto=webp&crop=1280,720,x0,y23&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Biden administration extends eviction freeze: What to do if you’re struggling to make payments"
-    excerpt: "The Federal Housing Finance Agency (FHFA) and the Federal Housing Administration (FHA) each announced Friday that their coronavirus pandemic-driven eviction moratoria, which protect homeowners and renters from eviction in the event of nonpayment of rent ..."
-    publishedDateTime: 2021-07-30T19:47:00Z
-    webUrl: "https://www.foxbusiness.com/personal-finance/biden-administration-extends-eviction-freeze-how-to-make-payments"
-    ampWebUrl: "https://www.foxbusiness.com/personal-finance/biden-administration-extends-eviction-freeze-how-to-make-payments.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/personal-finance/biden-administration-extends-eviction-freeze-how-to-make-payments.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 63
-    images:
-      - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2021/07/Credible-eviction-moratorium-iStock-1270281292.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Joe Biden will allow eviction moratorium to expire Saturday"
-    excerpt: "As of July 5, roughly 3.6 million people in the U.S. said they faced eviction in the next two months, according to the U.S. Census Bureau."
-    publishedDateTime: 2021-07-29T16:09:00Z
-    webUrl: "https://bangordailynews.com/2021/07/29/national-politics/joe-biden-will-allow-eviction-moratorium-to-expire-saturday/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
+      name: UPI.com
+      domain: upi.com
     quality: 55
     images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/07/Biden-5.jpg"
-        width: 1024
-        height: 683
+      - url: "https://cdnph.upi.com/pv/upi/afed49e3dfe0422f575a3cdadde2c7ce/BIDEN-HURRICANE-IDA.jpg"
+        width: 650
+        height: 433
         isCached: true
+  - title: "Biden declares major disaster in Louisiana due to Hurricane Ida: Here's what the means"
+    excerpt: "President Joe Biden has approved a major disaster declaration for Louisiana due to Hurricane Ida, allowing federal money to be used in recovery efforts."
+    publishedDateTime: 2021-08-30T04:46:00Z
+    webUrl: "https://www.theadvocate.com/baton_rouge/news/weather_traffic/article_4b978c06-094d-11ec-90fa-eb1d23dfc9ca.html"
+    type: article
+    provider:
+      name: The Advocate
+      domain: theadvocate.com
+    quality: 47
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/1/d1/1d121d3e-d436-11eb-aee3-bf9e50fd7cff/60d350d693206.image.jpg?crop=1012%2C543%2C6%2C3&resize=1012%2C543&order=crop%2Cresize"
+        width: 1012
+        height: 543
+        isCached: true
+  - title: "Biden Declares Major Disaster After Hurricane Ida Lashes Louisiana"
+    excerpt: "U.S. President Joe Biden declared a major disaster in Louisiana and ordered federal aid to supplement recovery efforts in the areas affected by Hurricane Ida, the White House said on Sunday. \"Assistance can include grants for temporary housing and home repairs,"
+    publishedDateTime: 2021-08-30T03:39:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-08-29/biden-declares-major-disaster-after-hurricane-ida-lashes-louisiana"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "8RqKHmRtCpWjMKWWdcpulh4e55KyzKs+nGMNg6reBFfDs6ncuygycspjIf7MenNh7ovM/ht8VrGQxZCddphUJ+AhL9d/4dC2vtKtqhBH+zspH9FnxEr5JGhcL0OqAgJewwWTcllHlL59xEV7IYxqtzq2Nn+AV0VEnQqsXVT2HUGSIG2puLx6SNUTdEPBvnC+8ujj7cZPeJTJzHPrnvRIDoLUonPP1l2DHCRgG8tMsHr57G0UfvLvFnF8LGtrKhQQo14yAtb+wCnubzh4ZzblPQWL21Ojo6AdpuEAheT70Mvr8SJy3Q0v6C/sUeXJqA/o2SWV40NsWXeBmC1bctWiu6j/HGFVdjNULiOslGcO31RD/p5zbSF3sR8O0hZ9PWeIBZ2DxPvuBAdZ09SpPs6h5iobSr3joXtUOdXnxYLDJud+i50dGmGc8+sjg+3HLYjkwpns8gsEA2RheSNrqcaClqVsKmODDA8BkntyKFdlzow5HHd15+F4PhIVZUN35dsIfDo/LzhjMkrvO64dhlG3ug==;2tyhvLsAfVTFMyomZKQ12w=="
 ---

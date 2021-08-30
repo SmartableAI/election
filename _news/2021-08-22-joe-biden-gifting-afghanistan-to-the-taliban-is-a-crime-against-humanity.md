@@ -787,6 +787,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "After Afghanistan, more people regret voting for Biden | Letters"
+    excerpt: "Biden voters wanted more free stuff, and public workers’ unions supported him to gain power and to continue ruining the country. Now you can see the mistake they made. Our schools teach more hate than math and science."
+    publishedDateTime: 2021-08-30T19:44:00Z
+    webUrl: "https://www.nj.com/opinion/2021/08/after-afghanistan-more-people-regret-voting-for-biden-letters.html"
+    ampWebUrl: "https://www.nj.com/opinion/2021/08/after-afghanistan-more-people-regret-voting-for-biden-letters.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/opinion/2021/08/after-afghanistan-more-people-regret-voting-for-biden-letters.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ARINVB3KC5CBRPGKC32VIQYGQQ.jpg"
+        width: 5460
+        height: 3640
+        isCached: true
   - title: "President Biden says US-led evacuations from Afghanistan are accelerating"
     excerpt: "The U.S.-led evacuation of Americans, at-risk Afghans and others from the Kabul airport picked up speed this weekend."
     publishedDateTime: 2021-08-22T21:28:00Z
@@ -1150,13 +1166,13 @@ related:
   - title: "Fact check: Quote about Afghanistan, Democrats in Washington falsely attributed to Donald Trump"
     excerpt: "Donald Trump did not say the situation in Afghanistan is a distraction from the Democrats in Washington. The quote is being falsely attributed to him."
     publishedDateTime: 2021-08-27T02:32:00Z
-    webUrl: "https://www.freep.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
-    ampWebUrl: "https://amp.freep.com/amp/5586860001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5586860001"
+    webUrl: "https://www.indystar.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
+    ampWebUrl: "https://amp.indystar.com/amp/5586860001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5586860001"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
+      name: Indianapolis Star
+      domain: indystar.com
     quality: 63
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/08/22/USAT/9aef22b6-661a-487a-9438-89b679f37137-GTY_1335520712.jpg?auto=webp&crop=3688,2075,x0,y187&format=pjpg&width=1200"

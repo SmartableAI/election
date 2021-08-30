@@ -89,17 +89,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Biden to Attend Briefing on Hurricane Ida on Saturday -White House"
-    excerpt: "U.S. President Joe Biden will attend a briefing later on Saturday by administration officials on preparations for Hurricane Ida, which is expected to make landfall in the United States this weekend. The briefing is scheduled for 1:30 p."
-    publishedDateTime: 2021-08-28T16:33:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2021-08-28/biden-to-attend-briefing-on-hurricane-ida-on-saturday-white-house"
-    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-08-28/biden-to-attend-briefing-on-hurricane-ida-on-saturday-white-house?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-08-28/biden-to-attend-briefing-on-hurricane-ida-on-saturday-white-house?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "SLVjlxP6WQozJof1b0PoZcWO7fKVLo/M/SO36WnIxgRdt8dsxvItJogyUotA9uxtVhcsBebWiAQvduXO1UO/2z3MsSRRx+7+5N2Lf1xZ+LE+Hu5KuaagBOqeMYUDMcrpkOHGX7bOWCQDKJe7pll0EkiAQKf6XOU5NlPZxN7wQhGpmQc12NGiBSP8CWfU+JezRo1J5ChXzkG8szMz+BjbPzgQXi1dj0WeWuGTRxVScjtO9WjF7fhOe3+NfQx14aODBE2vkQLD9HbxZUwtNYBclg/5T1bcJAdCbqikc5HC7mYHA9ImifRdKCSu1OAAXaTdt6xsw+wuq82cJi8caroQCoY+YwXwWM5gpai1fomgDa0=;M92L3pyCPqcUFB8csmgf4w=="
 ---

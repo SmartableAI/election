@@ -3,18 +3,18 @@ category: news
 title: "Fact check: Quote about Afghanistan, Democrats in Washington falsely attributed to Donald Trump"
 excerpt: "Donald Trump did not say the situation in Afghanistan is a distraction from the Democrats in Washington. The quote is being falsely attributed to him."
 publishedDateTime: 2021-08-27T02:32:00Z
-originalUrl: "https://www.freep.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
-webUrl: "https://www.freep.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
-ampWebUrl: "https://amp.freep.com/amp/5586860001"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5586860001"
+originalUrl: "https://www.indystar.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
+webUrl: "https://www.indystar.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
+ampWebUrl: "https://amp.indystar.com/amp/5586860001"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5586860001"
 type: article
 quality: 63
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -786,6 +786,22 @@ related:
       - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/TM-comp-TonyParsons.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
         width: 1200
         height: 800
+        isCached: true
+  - title: "After Afghanistan, more people regret voting for Biden | Letters"
+    excerpt: "Biden voters wanted more free stuff, and public workers’ unions supported him to gain power and to continue ruining the country. Now you can see the mistake they made. Our schools teach more hate than math and science."
+    publishedDateTime: 2021-08-30T19:44:00Z
+    webUrl: "https://www.nj.com/opinion/2021/08/after-afghanistan-more-people-regret-voting-for-biden-letters.html"
+    ampWebUrl: "https://www.nj.com/opinion/2021/08/after-afghanistan-more-people-regret-voting-for-biden-letters.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/opinion/2021/08/after-afghanistan-more-people-regret-voting-for-biden-letters.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ARINVB3KC5CBRPGKC32VIQYGQQ.jpg"
+        width: 5460
+        height: 3640
         isCached: true
   - title: "Joe Biden gifting Afghanistan to the Taliban is a crime against humanity"
     excerpt: "IN 20 days, it will be exactly 20 years since someone phoned you and said, “Turn on your television now.” Twenty years since those planes came out of a clear blue sky and ploughed into the Twin"
@@ -1954,6 +1970,6 @@ related:
         height: 380
         isCached: true
 
-secured: "vV0DhRSXhtvyG4PrSK3Wejxty7TslPsRPlM7IYBb+voIoa6tZUhN0X6u7mht3QRlf2lMORh7oLiy4YLHiQMCj5ZJbeRcCCXo5zdz8VyCBdUEvClJgSfRsSYBts3EAU9AJwyC9CM21fNS8VqRpNK2lO2/ushb/Ixl5bhaZr7K0QsquzS1bAZgcqj83nvemVIonZyMRtUcTVVrwSVWiIOcAtIstVlJJAAEAL7fs050zKOSqmT/tgds784l3uFje2UqQZRKSY36yX3KB8q4FEvliD5iWyeebfLL5Hz0iXzMv2FtihuoBjXThMIboy+OBxBnYPR8MOx/6aA8U7PWRa6dGcJdbutjnxzvfgp3ElxWlS481MXd5wqsBMyjQHFvtIJHluqoeZRFYvc1prm/Uv7cII6Tv/DoDHylk9GaiNFgE7qYS66BULoRJuSxQGhJBD+ioB0hGxoKjZWYrRbrBKYiRqq7yayfqx46Hd3ewzt3OJ6l91OGffieClVIxoRDpdZiYrJ8rULeNr7WKXAORKPI6w==;fdzfCI7mcOlIrF9G4dtCNQ=="
+secured: "nPQiNmylrigvDrs2pyGnBBSaDsZhUNDKoTWRWffxK+DWTs8O1ZRTzga2QW84kfvIPtWqOjo+ux+LncjVQyD6pXetgRQCA6vf4QYaGcGuE/sbwk1+Hk2NnUVyrI4vNtkJWeOcTVORaQCaexeQYG5Up12Fh5XPwhQea8t8LGVVybhRTMropIhd465MuCOhtJPSsST22B4U/BaefCcRCwdoXJ+0WTIdCd6wjopBjUH2fYTytfF5pY7D9Td8U5NmEQif8i3j8zykvBo9WwvZ9XOBxSQOvcGfL7xPWRxWFLT0VySXRCSApOLTIGJ4GBFQlPUJqv2KhyGSWx4idV/8pYJ0nmaPBwkeOZG9S9brrVDgsYU=;gCPblUdZDYaceL/hJ9BepA=="
 ---
 

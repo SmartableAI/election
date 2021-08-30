@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/who-is-deanne-criswell-bidens-fema-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-deanne-criswell-bidens-fema-boss.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden calls Black adviser 'boy' during FEMA briefing"
+    excerpt: "The president used the term while introducing his senior adviser Cedric Richmond, a Black former member of Congress for Louisiana for a decade."
+    publishedDateTime: 2021-08-30T18:35:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YIvTJNWBy0c/biden-calls-black-adviser-boy"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-calls-black-adviser-boy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-black-adviser-boy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65dab265-3909-478c-89fd-0e70e5b65546/93b5e125-e42f-4d82-98ca-1eb4dc493e53/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "What Are Joe Biden’s Fixed Principles?"
     excerpt: "A crisis reveals a president with little introspection and even less penetration into the world’s problems."
     publishedDateTime: 2021-08-25T21:15:00Z

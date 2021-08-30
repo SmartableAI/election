@@ -139,22 +139,6 @@ related:
         width: 800
         height: 532
         isCached: true
-  - title: "Was Biden looking at his watch during ceremony for Marines killed in Kabul?"
-    excerpt: "It appeared President Biden glanced at his watch during a solemn ceremony for U.S. Marines killed in the Kabul terror attack."
-    publishedDateTime: 2021-08-30T02:28:00Z
-    webUrl: "https://www.bostonherald.com/2021/08/29/was-biden-looking-at-his-watch-during-ceremony-for-marines-killed-in-kabul/"
-    ampWebUrl: "https://www.bostonherald.com/2021/08/29/was-biden-looking-at-his-watch-during-ceremony-for-marines-killed-in-kabul/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/08/29/was-biden-looking-at-his-watch-during-ceremony-for-marines-killed-in-kabul/amp/"
-    type: article
-    provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 73
-    images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2021/08/GettyImages-1234946450.jpg?w=1024&#038;h=642"
-        width: 1024
-        height: 642
-        isCached: true
   - title: "Joe Biden warns Kabul retaliatory strike 'highly likely' in the next 24 to 36 hours"
     excerpt: "US President Joe Biden warned a second retaliation strike against the terrorists responsible for Thursday's suicide bombing was \"highly likely in the next 24 to 36 hours\"."
     publishedDateTime: 2021-08-28T21:19:00Z

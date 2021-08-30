@@ -43,7 +43,23 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Rand Paul Blames ‘Hatred For Trump’ For FDA’s Hesitance To Study Ivermectin, Hydroxychloroquine"
+    excerpt: "Sen. Rand Paul of Kentucky believes the FDA is intentionally avoiding studies for ivermectin And hydroxychloroquine."
+    publishedDateTime: 2021-08-30T19:33:00Z
+    webUrl: "https://www.ibtimes.com/rand-paul-blames-hatred-trump-fdas-hesitance-study-ivermectin-hydroxychloroquine-3284152"
+    ampWebUrl: "https://www.ibtimes.com/rand-paul-blames-hatred-trump-fdas-hesitance-study-ivermectin-hydroxychloroquine-3284152?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/rand-paul-blames-hatred-trump-fdas-hesitance-study-ivermectin-hydroxychloroquine-3284152?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 63
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/09/us-senator-rand-paul-seen-in-november-has.jpg"
+        width: 1024
+        height: 671
+        isCached: true
 
-secured: "s3zhE5N6qkEl5crnHfzjIezSehfiZmsD136iNAxcMVhnR0thzrhGSVYQMtslYA5kt3kcc3y6I+keT65TzxH2qjO9FwOnaGL2Y0xGUPRxFsPDX4d7Kxr3jJW31y/H/rQZ19NE1T5PbMdvsmu3hWPJmxVVFB4orzijBo+yp4XZpMc83nRUIrmPBaFaWKVn97CaYE1dbXA1wkDo8cFSYgiHQBzsnmLFJ6OvwJPwVGuyVB+x6vFaJA0M0BLpIZjsv/rIBJPtkPhOwjFJDOhmt1WAMbaTW0Bq9UDcex5jTsFv58diMVS4fjFLl6WrkNkrG5CBpXYUDTy4I6opKXTZzqZ3xX7IySi3WGEVY9j8t/HNglI=;WZtOBlWkVcU6t5tdD2KQiQ=="
+secured: "iSqBaMQW10fKLEIkkvODV/weyC+A6cznDn/9lz/y/Tg1O0Obk4xJU2YwKeGad0cTzzF1uj8j2IkWALQME39qPIxNrNsGmDeTPDaL6sdxpLMRfSw07Atjo+6TwRZOgP/al71zLZcCqP20HYEwDKgtJ9oCEwKm1/Tz2RkLDMgE7+VyYbo/I0fQMXSwz4/iRPSJC5gN8zOy+1KEUJYP2VVLy0OaqeuEW2V0OADh5fKMGpOKOP92X+bvF0U8OfEoEivaAFCKmhhiefpUABuOzHMaofboCljMAF/llN3O3usfVPAMRPFfoPwwcs9Ik5t7Tj+iE00cbAT9iDCUHJJPVKjBgQLVytRoTJjY1juQHYWGwOF6b/v+hzziXJ7lrZ66nO7XlL80rmYRK/53F/bjicmp19Xw4+YdCCSgCI0ZuBIxTc+WE9kiotqvSEJTDjNXdL6Iyr3QKrwKQdqhmO06B41iMpNAn7eKYKyXPRRSRSFIeaf9rwmuHrjSADt+BAAVEFYkTabVvCjPYw0u5f07krWbWw==;mpMWi1/8d1DM/Qy3ngWtaQ=="
 ---
 

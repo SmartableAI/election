@@ -48,6 +48,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden calls Black adviser 'boy' during FEMA briefing"
+    excerpt: "The president used the term while introducing his senior adviser Cedric Richmond, a Black former member of Congress for Louisiana for a decade."
+    publishedDateTime: 2021-08-30T18:35:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YIvTJNWBy0c/biden-calls-black-adviser-boy"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-calls-black-adviser-boy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-black-adviser-boy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65dab265-3909-478c-89fd-0e70e5b65546/93b5e125-e42f-4d82-98ca-1eb4dc493e53/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "Adu37UK3mgc4px9/pA9Q+Bnq4CbkP8qcE1Y1G0XahomCGwIUn+Y4jfldJWR6LyjyEEQbkZsWFNNErsJRhFbot4z2Qeq9EDDqFpBO3pvTDeeUHtFERXTqwnxVmrYOgS5YV91aPrJnv9KsH6MJrdRoDNCrBOqhNM7VBi/EQbDs8QCod0kZG1YUWMlmjbfayqV6+h1E7rflsQCCsGkgRu8/8+XsX5uCEd5v0XdyCGsTDCRtUq2KmjToNo2swD1hIV/ugCSmWLv5eXJZCZhVTB9pJ5pnhgvKdGFxoVI3eKQR7hbYmdpsGxZROqqP2mOfc8eX5mYemPgpwJBenqJWt8rj7hdwN++cyitH8sBVXFxaXUs=;Pyc7gGHyQaJ4dj8amqXZKA=="
 ---

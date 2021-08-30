@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chron.com/news/amp/Biden-to-allow-eviction-moratorium-to
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-to-allow-eviction-moratorium-to-expire-16348971.php"
 type: article
 quality: 75
-heat: 175
+heat: 155
 published: true
 
 provider:
@@ -89,17 +89,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Biden to Attend Briefing on Hurricane Ida on Saturday -White House"
-    excerpt: "U.S. President Joe Biden will attend a briefing later on Saturday by administration officials on preparations for Hurricane Ida, which is expected to make landfall in the United States this weekend. The briefing is scheduled for 1:30 p."
-    publishedDateTime: 2021-08-28T16:33:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2021-08-28/biden-to-attend-briefing-on-hurricane-ida-on-saturday-white-house"
-    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-08-28/biden-to-attend-briefing-on-hurricane-ida-on-saturday-white-house?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-08-28/biden-to-attend-briefing-on-hurricane-ida-on-saturday-white-house?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "g0mt8F9QJk40CUXHE6uNV4hS2iPQhLf94qIrzRjuuHN5R32FHGSxcVgwFEssRQOVe2YTBf1b0UJF6YsD4HyMB1n96IarWb1HP5TuoVSPzcD8EJJKS5eHukb+eZF7YTeoCzstoJWKtwuLHL/Cvn5a8+FF+rH2m/gN+VaJNmSJcaonr2K8rmXaYRmZUso19bwmANxbGi+VyLa0w0lupDPlvT61Tvlx7g1n6pkWSyBEdHFCQUfzXAdp9JleTXQIiSVunucZ+XmK0zzEf2Wf7t8ppRYuETaJztmzhINR5f+1NKgfO6bpCDcnOOGzAHcH2yDbQraMMUAZrSlNd89wddlJxNgLPnVUT7SXe2krBuKqXOU=;tczD9j3gAcWPMvrBBSsWUg=="
 ---
