@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Departs Holy Trinity Catholic Church"
 excerpt: "US President Joe Biden walks out of Holy Trinity Catholic Church after mass in the Georgetown neighborhood of Washington, DC on Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover,"
 publishedDateTime: 2021-08-29T22:47:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/892121aec790ee325107640365b766b7/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/892121aec790ee325107640365b766b7/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/bad2070604133af510798531d9d3cf3c/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/bad2070604133af510798531d9d3cf3c/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/892121aec790ee325107640365b766b7/BIDEN-CHURCH.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/bad2070604133af510798531d9d3cf3c/BIDEN-CHURCH.jpg"
     width: 650
     height: 433
     isCached: true
@@ -304,6 +304,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "uhvuPj262Lg08BrpproR3Sij1PIKrHvPiwG+j8L4SLYz9MXvjXO7aSNStZVOUKKvQnxbS0CGFTBn1GLtjHQAUKN2pkVcXh2u7pQ0/Y18Fol9KfFXPywGUx7SqZF9S5pkFQsvTrjBCxgCsedoCMVigRgKcsrctGL+zfV7hRCPknyHLk0PLXuTLN4suKHSPkRq76PxUcwPKsykG6fj7xB1BRqo6JNc3CU+eQjVgB5pIBeaWIE5BpbRNVp5k0lJ9gh7dW31D9xQuukH64S2ElYeJGzIV2nuTj7dYxXnEKBQiQ7KYnVyBJegDpVFS6PpLnkVjSsbZdamF58ortmjV6Fw+Y3/pe/qfge8BZA6lViU6U35+K/P126JCIawKdDDD0Han6kAqk58hOEv3QKONPrGo/D2ST8UiEZrQtWNeAlTmCml9rj8prf2x8Hll5XLMoxOy59eOKrt0lsuZxARvBY5rQCyufcyJgrEtRhk1Q/W1w+yQmv7+p7JDaa/AGZiI5RUM6GHexAR969RrzShIlkaYQ==;Pw1U+85EpOdYULbX43NVXA=="
+secured: "kx8xipXCroilTuljJs1sKxiEYxvyDkaigN5XJTPoO2xFwvVQw7gdVpn++GMjUeQXcGK0/Sml78BwELU5NMgsFpmrW5lUF/574y+jka5WFSU4dEEyuADXXiDHCYrJGpnSyL2yOXW2LyjpaAgbS4w6tsBSqIS2gQiJuCJg6BNFzkEp5hENGCIUL7Eo0+rX6NNcDORlBtHL/TwnsWksWMoLw2w9RjvwBjooyjMkc3FFkj4hQCB/YeyYYp5nm60My5+ZzTZIU5dM6FYLZ78O1Rms/J+8+H3v0PNcboF5A67yg8KeG5fGecJCwyOrsU8mpaIiIEm6NDGCzJ9Iq0GiNWNewSbZBdUwIcnCR5ThDB1F9Qw=;9z0VXsHQmpYKpCRmJNqvwg=="
 ---
 
