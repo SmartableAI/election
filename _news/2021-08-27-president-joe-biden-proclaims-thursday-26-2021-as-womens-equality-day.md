@@ -57,22 +57,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Joe Biden in the ‘Loneliest Job,' a Presidency Driven by Crisis"
-    excerpt: "Surrounded by everything a superpower can offer and watched by all, President Joe Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan and tried to keep the focus on what,"
-    publishedDateTime: 2021-08-29T01:54:00Z
-    webUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
-    ampWebUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 75
-    images:
-      - url: "https://media.nbcnewyork.com/2021/08/GettyImages-1234886272.jpg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Poll shows most Florida voters disapprove of Joe Biden’s performance"
     excerpt: "A majority of Florida voters disapprove of President Joe Biden’s performance. The Quinnipiac University Poll found 40% of Florida voters approve of Biden’s performance, with 53% disapproving. Views of his COVID-9 response were better."
     publishedDateTime: 2021-08-25T20:59:00Z
@@ -87,56 +71,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Ashley Moody demands border control assurance from Joe Biden"
-    excerpt: "Attorney General Ashley Moody was among 20 Republican AGs signing on to a letter demanding federal assurances of tighter immigration policy. The letter to U.S. Attorney General Merrick Garland followed a favorable ruling in the U."
-    publishedDateTime: 2021-08-27T17:04:00Z
-    webUrl: "https://floridapolitics.com/archives/453563-moody-border/"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 55
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2021/05/Ashley-Moody-scaled.jpg"
-        width: 2560
-        height: 1920
-        isCached: true
-  - title: "Biden in the ‘loneliest job,’ a presidency driven by crisis"
-    excerpt: "Surrounded by everything a superpower can offer and watched by all, President Joe Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan and tried to keep the focus on what,"
-    publishedDateTime: 2021-08-28T12:52:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/biden-in-the-loneliest-job-a-presidency-driven-by-crisis/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/biden-in-the-loneliest-job-a-presidency-driven-by-crisis/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/biden-in-the-loneliest-job-a-presidency-driven-by-crisis/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 55
-  - title: "Ashley Moody demands border control assurance from Joe Biden administration"
-    excerpt: "The letter, per a release from Moody’s office, seeks “to ensure the Biden administration will faithfully defend a long-standing federal immigration statute that prohibits illegal re-entry to the U.S."
-    publishedDateTime: 2021-08-27T17:08:00Z
-    webUrl: "https://floridapolitics.com/archives/453563-moody-border/"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 53
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2021/05/Ashley-Moody-scaled.jpg"
-        width: 2560
-        height: 1920
-        isCached: true
-  - title: "For Biden’s presidency has been driven by crisis and is the ‘loneliest job’"
-    excerpt: "President Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan, even as he and the nation continued to battle the COVID-19 pandemic."
-    publishedDateTime: 2021-08-28T13:24:00Z
-    webUrl: "https://www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/"
-    ampWebUrl: "https://www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 53
   - title: "Storm commemorates 2020 WNBA championship with President Joe Biden at White House"
     excerpt: "Before leaving the nation's capital, the Storm stopped by the White House on Monday, marking a return to normalcy when sports teams regularly received invitations to celebrate championships and their athletic achievements."
     publishedDateTime: 2021-08-23T21:13:00Z

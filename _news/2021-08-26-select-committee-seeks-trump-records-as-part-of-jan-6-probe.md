@@ -27,49 +27,49 @@ images:
     isCached: true
 
 related:
-  - title: "Vos to keep Trump \"updated\" on election investigation"
-    excerpt: "Assembly Speaker Robin Vos the said in a statement Saturday he is going to be keeping Trump “updated on our investigation,” the Journal Times reported. In a statement, Vos said: “It was an honor to be invited to travel by private plane with President Trump and top staff to attend his rally in Alabama."
-    publishedDateTime: 2021-08-22T23:39:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/Vos-to-keep-Trump-updated-on-election-16404028.php"
-    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Vos-to-keep-Trump-updated-on-election-16404028.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Vos-to-keep-Trump-updated-on-election-16404028.php"
+  - title: "House panel tees up Trump executive privilege fight in Jan. 6 probe"
+    excerpt: "The House committee seeking executive branch documents in its investigation of the Jan. 6 attack is likely to force a standoff between Congress and former President Trump Donald Trump Pollsters confront tough survey landscape after 2020 flubs The Memo: Will DeSantis's star fall as Florida COVID numbers rise?"
+    publishedDateTime: 2021-08-29T23:17:00Z
+    webUrl: "https://thehill.com/regulation/court-battles/569743-house-panel-tees-up-trump-executive-privilege-fight-in-jan-6-probe"
+    ampWebUrl: "https://thehill.com/regulation/court-battles/569743-house-panel-tees-up-trump-executive-privilege-fight-in-jan-6-probe?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/regulation/court-battles/569743-house-panel-tees-up-trump-executive-privilege-fight-in-jan-6-probe?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/trumpdonald_070321getty_executive-standoff.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "With fight over mask mandates, Gov. Abbott passes purity test in Trump's GOP"
+    excerpt: "When Texas had its first big surge of COVID hospitalizations, Gov. Greg Abbott responded by shutting down bars and mandating masks. As the second surge hit, Abbott put in place an automatic trigger to restrict the operating capacities of businesses and halt non-emergency surgeries to free up hospital beds in areas with high hospitalizations."
+    publishedDateTime: 2021-08-22T09:00:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/Even-as-COVID-resurges-there-is-no-room-for-Gov-16401385.php"
+    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Even-as-COVID-resurges-there-is-no-room-for-Gov-16401385.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Even-as-COVID-resurges-there-is-no-room-for-Gov-16401385.php"
     type: article
     provider:
       name: Houston Chronicle
       domain: houstonchronicle.com
-    quality: 120
-  - title: "Wisconsin Speaker vows to keep Trump 'updated' on election investigation"
-    excerpt: "The Republican Assembly Speaker who has ordered an investigation into the 2020 Wisconsin election in which President Joe Biden defeated Donald Trump said he spent the day with the former president."
-    publishedDateTime: 2021-08-22T23:03:00Z
-    webUrl: "https://www.wisn.com/article/wisconsin-robin-vos-vows-to-keep-trump-updated-on-election-investigation/37367599"
-    ampWebUrl: "https://www.wisn.com/amp/article/wisconsin-robin-vos-vows-to-keep-trump-updated-on-election-investigation/37367599"
-    cdnAmpWebUrl: "https://www-wisn-com.cdn.ampproject.org/c/s/www.wisn.com/amp/article/wisconsin-robin-vos-vows-to-keep-trump-updated-on-election-investigation/37367599"
+    quality: 122
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/42/70/21376521/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
+  - title: "With fight over mask mandates, Gov. Abbott passes purity test in Trump's GOP"
+    excerpt: "But now as the state hits a third surge, Abbott — who faces re-election early next year — is doing none of that. Instead, he is suggesting that people wear masks when appropri"
+    publishedDateTime: 2021-08-23T19:26:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/covid-abbott-purity-test-trump-gop-republican-mask-16401385.php"
+    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/covid-abbott-purity-test-trump-gop-republican-mask-16401385.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/covid-abbott-purity-test-trump-gop-republican-mask-16401385.php"
     type: article
     provider:
-      name: WISN 12 NEWS
-      domain: wisn.com
-    quality: 89
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/vos-1552410924.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Vos meets with Trump, vows to keep ex-president 'updated' on election investigation"
-    excerpt: "Vos said he is going to be keeping Trump, who has not stopped claiming he won the 2020 election despite overwhelming evidence to the contrary, \"updated on our investigation.\"' In a statement, Vos said: \"It was an honor to be invited to travel by private plane with President Trump and top staff to attend his rally in Alabama."
-    publishedDateTime: 2021-08-22T23:22:00Z
-    webUrl: "https://madison.com/wsj/news/local/govt-and-politics/vos-meets-with-trump-vows-to-keep-ex-president-updated-on-election-investigation/article_c0b14769-08f6-55f5-855a-06d75ad42971.html"
-    ampWebUrl: "https://madison.com/news/local/govt-and-politics/vos-meets-with-trump-vows-to-keep-ex-president-updated-on-election-investigation/article_c0b14769-08f6-55f5-855a-06d75ad42971.amp.html"
-    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/govt-and-politics/vos-meets-with-trump-vows-to-keep-ex-president-updated-on-election-investigation/article_c0b14769-08f6-55f5-855a-06d75ad42971.amp.html"
-    type: article
-    provider:
-      name: Madison.com
-      domain: madison.com
-    quality: 84
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/a/40/a406b0dc-3c5e-55be-864e-057e2578c64e/6122ddfc6e97d.image.jpg?resize=1024%2C679"
-        width: 1024
-        height: 679
-        isCached: true
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 102
   - title: "House panel investigating Jan. 6 attack seeks records from agencies on insurrection, Trump in first request for information"
     excerpt: "The committee demanded materials from the National Archives, four Cabinet departments, the FBI and other agencies."
     publishedDateTime: 2021-08-25T20:00:00Z
@@ -84,53 +84,21 @@ related:
         width: 1440
         height: 975
         isCached: true
-  - title: "James Craig says he’d accept Trump endorsement, doesn’t take position on stolen election claims"
-    excerpt: "The former Detroit police chief launched an exploratory campaign committee but has yet to formally start his bid for Michigan governor,"
-    publishedDateTime: 2021-08-24T04:51:00Z
-    webUrl: "https://www.mlive.com/public-interest/2021/08/james-craig-says-hed-accept-trump-endorsement-doesnt-take-position-on-stolen-election-claims.html"
-    ampWebUrl: "https://www.mlive.com/public-interest/2021/08/james-craig-says-hed-accept-trump-endorsement-doesnt-take-position-on-stolen-election-claims.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2021/08/james-craig-says-hed-accept-trump-endorsement-doesnt-take-position-on-stolen-election-claims.html?outputType=amp"
+  - title: "Apple joins lawsuit regarding Trump-era tariffs on Chinese products"
+    excerpt: "Apple, Intel and Pfizer have joined 3,700 other U.S. businesses in their suit against the U.S. regarding Trump-era tariffs on $300 billion worth of Chinese products, reports Jurist. This lawsuit was first brought by HMTX Industries in September 2020 and initially targeted List 3 tariffs."
+    publishedDateTime: 2021-08-25T13:19:00Z
+    webUrl: "https://www.mactech.com/2021/08/25/apple-joins-lawsuit-regarding-trump-era-tariffs-on-chinese-products/"
+    ampWebUrl: "https://www.mactech.com/2021/08/25/apple-joins-lawsuit-regarding-trump-era-tariffs-on-chinese-products/amp/"
+    cdnAmpWebUrl: "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2021/08/25/apple-joins-lawsuit-regarding-trump-era-tariffs-on-chinese-products/amp/"
     type: article
     provider:
-      name: MLive
-      domain: mlive.com
-    quality: 78
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VSCN37RCRBA73B3ZAHRR3MR7U4.JPG"
-        width: 3972
-        height: 2648
-        isCached: true
-  - title: "Trump Booed at Alabama Rally After Telling Supporters to Get Vaccinated"
-    excerpt: "Former President Donald Trump was booed at a rally Saturday in Alabama after he told supporters they should get vaccinated"
-    publishedDateTime: 2021-08-23T13:58:00Z
-    webUrl: "https://www.nbcnewyork.com/news/politics/trump-booed-at-alabama-rally-after-telling-supporters-to-get-vaccinated/3235914/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/politics/trump-booed-at-alabama-rally-after-telling-supporters-to-get-vaccinated/3235914/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/trump-booed-at-alabama-rally-after-telling-supporters-to-get-vaccinated/3235914/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
+      name: MacTech
+      domain: mactech.com
     quality: 75
     images:
-      - url: "https://media.nbcnewyork.com/2021/08/GettyImages-1335520712.jpg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump To Be Reinstated As President Before 2022, Lindell Predicts"
-    excerpt: "Former President Donald Trump may be reinstated to the presidential seat before 2022, a close ally has predicted. During Trump’s rally in Cullman, Alabama, on Saturday, MyPillow CEO Mike Lindell predicted that Trump would be reinstated before the end of the year."
-    publishedDateTime: 2021-08-23T02:23:00Z
-    webUrl: "https://www.ibtimes.com/trump-be-reinstated-president-2022-lindell-predicts-3278800"
-    ampWebUrl: "https://www.ibtimes.com/trump-be-reinstated-president-2022-lindell-predicts-3278800?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-be-reinstated-president-2022-lindell-predicts-3278800?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/29/mike-lindell.jpg"
+      - url: "https://www.mactech.com/wp-content/uploads/2021/08/Lawsuit-image-1024x666.jpg"
         width: 1024
-        height: 670
+        height: 666
         isCached: true
   - title: "House panel investigating Capitol riot seeks trove of Trump-era records"
     excerpt: "The House committee investigating the January insurrection at the U.S. Capitol is demanding a trove of records from federal intelligence and law enforcement agencies, showing the sweep of the"
@@ -148,6 +116,38 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "House panel probing 1/6 riot seeks host of Trump-era records"
+    excerpt: "U.S. Capitol Police officers who were attacked and beaten during the Capitol riot are suing former President Donald Trump, his allies and members of far-right extremist groups."
+    publishedDateTime: 2021-08-26T07:20:00Z
+    webUrl: "https://www.bradenton.com/news/politics-government/national-politics/article253752163.html"
+    ampWebUrl: "https://amp.bradenton.com/news/politics-government/national-politics/article253752163.html"
+    cdnAmpWebUrl: "https://amp-bradenton-com.cdn.ampproject.org/c/s/amp.bradenton.com/news/politics-government/national-politics/article253752163.html"
+    type: article
+    provider:
+      name: Bradenton Herald
+      domain: bradenton.com
+    quality: 75
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/7f1caafa-aea1-49ad-bc9f-e3322fb2825c/af216152-128c-45c0-b0b0-8fff6b46b17c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "The House panel probing the Capitol riot seeks a host of Trump-era records"
+    excerpt: "The requested documents are just the beginning of what is expected to be lengthy partisan and rancorous investigation."
+    publishedDateTime: 2021-08-25T18:47:00Z
+    webUrl: "https://www.inquirer.com/politics/nation/capitol-riot-house-panel-trump-documents-probe-20210825.html"
+    ampWebUrl: "https://www.inquirer.com/politics/nation/capitol-riot-house-panel-trump-documents-probe-20210825.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/politics/nation/capitol-riot-house-panel-trump-documents-probe-20210825.html?outputType=amp"
+    type: article
+    provider:
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 73
+    images:
+      - url: "https://www.inquirer.com/resizer/cNGsEx7ZoN44lRl3Qus2p-nkmg4=/0x0:2398x1600/760x507/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/ROPZU2U5UJGVRGSNLKMY5UHQKY.jpg"
+        width: 760
+        height: 507
+        isCached: true
   - title: "House panel investigating Jan. 6 attack seeks records from Trump White House"
     excerpt: "The House select committee investigating the Jan. 6 attack on the U.S. Capitol requested documents Wednesday from Trump administration officials and other federal agencies."
     publishedDateTime: 2021-08-25T18:31:00Z
@@ -164,63 +164,63 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "Judge sanctions pro-Trump lawyers who brought ‘frivolous’ election fraud lawsuits"
-    excerpt: "By Tierney Sneed, CNN A federal judge ordered sanctions Wednesday for Sidney Powell, Lin Wood and several other lawyers who worked on Trump-aligned lawsuits seeking to challenge the results of the 2020 election."
-    publishedDateTime: 2021-08-26T03:55:00Z
-    webUrl: "https://localnews8.com/politics/cnn-us-politics/2021/08/25/judge-sanctions-pro-trump-lawyers-who-brought-frivolous-election-fraud-lawsuits/"
+  - title: "GOP Senate candidates take page from Trump playbook as they fight for populist title"
+    excerpt: "Republicans in Ohio's Senate race are running on the message that propelled former President Donald Trump to office."
+    publishedDateTime: 2021-08-23T10:26:00Z
+    webUrl: "https://www.cincinnati.com/story/news/2021/08/22/ohio-senate-race-gop-candidates-fight-over-populist-lane/5499348001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/5499348001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5499348001"
     type: article
     provider:
-      name: Local News 8
-      domain: localnews8.com
-    quality: 65
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 68
     images:
-      - url: "https://localnews8.b-cdn.net/2021/06/Politics-logo-new_KIFIMIFI.jpg"
-        width: 1024
-        height: 576
+      - url: "https://www.gannett-cdn.com/presto/2021/07/02/PCIN/912b9d7f-9050-4679-88f8-1b0a031b1914-070121JDVance_4.jpg?auto=webp&crop=3594,2022,x0,y184&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Tiffany Trump Is the Only Adult Child of Donald Trump Not Being Investigated About January 6"
-    excerpt: "Capitol Hill. They have already made their list of people from the Trump administration whom they would like to speak to and there’s only one adult child from the Trump family who didn’t make the list: ."
-    publishedDateTime: 2021-08-27T13:16:00Z
-    webUrl: "https://www.sheknows.com/entertainment/articles/2482296/donald-trump-kids-january-6-investigation/"
-    ampWebUrl: "https://www.sheknows.com/entertainment/articles/2482296/donald-trump-kids-january-6-investigation/amp/"
-    cdnAmpWebUrl: "https://www-sheknows-com.cdn.ampproject.org/c/s/www.sheknows.com/entertainment/articles/2482296/donald-trump-kids-january-6-investigation/amp/"
+  - title: "Riot probe panel seeks records of Trump-era White House"
+    excerpt: "The House panel investigating the Jan. 6 riot at the U.S. Capitol is demanding a sweeping list of records and other information from eight executive branch agencies, including"
+    publishedDateTime: 2021-08-25T21:00:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/washington/riot-probe-panel-seeks-records-of-trump-era-white-house/article_f551f965-c8d1-5251-90c4-f8cbe04b0447.html"
     type: article
     provider:
-      name: SheKnows
-      domain: sheknows.com
-    quality: 64
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 55
     images:
-      - url: "https://www.sheknows.com/wp-content/uploads/2021/08/tiffany-trump-investigation.jpg?w=1024"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "Robin Vos meets with Trump, vows to keep ex-president 'updated' on election investigation"
-    excerpt: "Assembly Speaker Robin Vos, the Racine County Republican who ordered the investigation into Wisconsin's 2020 election said he is going to be keeping the former president — who has not"
-    publishedDateTime: 2021-08-23T10:30:00Z
-    webUrl: "https://madison.com/news/local/govt-and-politics/robin-vos-meets-with-trump-vows-to-keep-ex-president-updated-on-election-investigation/article_55a5e748-aa3e-5c85-bbe6-e59bebcbed21.html"
-    type: article
-    provider:
-      name: Madison.com
-      domain: madison.com
-    quality: 61
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/5/5a/55a5e748-aa3e-5c85-bbe6-e59bebcbed21/61228f9939e4f.preview.jpg?crop=1904%2C1071%2C0%2C8&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
         height: 630
         isCached: true
-  - title: "Emmy Predictions: Directing for a Variety Series – John Oliver’s Take on Donald Trump and the Election Lead the Pack"
-    excerpt: "Following history, buzz, news, reviews and sources, the Emmy predictions are updated regularly with the current year's list of contenders in all categories. Variety's Awards Circuit Prediction schedule consists of four phases,"
-    publishedDateTime: 2021-08-19T22:16:00Z
-    webUrl: "https://www.imdb.com/news/ni63396099"
+  - title: "Donald Trump Is Lashing Out Over An Investigation Into His ‘Mental Stability’ By The Jan. 6 Committee"
+    excerpt: "Donald Trump lashed out at reports that the Jan. 6 commission has requested documents pertaining to his ’mental stability.’"
+    publishedDateTime: 2021-08-26T20:58:00Z
+    webUrl: "https://uproxx.com/viral/donald-trump-mental-stability-january-6-committee/"
     type: article
     provider:
-      name: IMDb
-      domain: imdb.com
-    quality: 47
+      name: Uproxx
+      domain: uproxx.com
+    quality: 40
     images:
-      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
-        width: 1000
-        height: 1000
+      - url: "https://uproxx.com/wp-content/uploads/2021/07/Donald-Trump-GettyImages-1233931910.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "‘Time to Fight!’: Emails From Jan. 5 Show Secret Service Warned Capitol Police About Threat of Pro-Trump Violence"
+    excerpt: "The Secret Service warned Capitol police about the threat of pro-Donald Trump violence in Washington on Jan. 5, one day before the insurrection, according to an email published Wednesday by Politico."
+    publishedDateTime: 2021-08-25T12:18:00Z
+    webUrl: "https://www.thenewcivilrightsmovement.com/2021/08/time-to-fight-emails-from-jan-5-show-secret-service-warned-capitol-police-about-threat-of-pro-trump-violence/"
+    type: article
+    provider:
+      name: The New Civil Rights Movement
+      domain: thenewcivilrightsmovement.com
+    quality: 34
+    images:
+      - url: "https://www.thenewcivilrightsmovement.com/wp-content/uploads/2021/01/capitol-police-insurrection-4.jpg"
+        width: 940
+        height: 490
         isCached: true
 
 secured: "6K0xz7O4Tsa+qIRcoXVg7fUyYzDNDcYlkaRNBsIEEfPKrS6QkjhmPZ3ffZpJ7P05iMV52xMotqm0qcvRNs+nXd6n5Kkjtyjw+OsLgRsYyd4DNf+pKiUh99WRY+z8LGTS04+lWDPmhi7l7G5YlO55yZNmOi1glWlzQbal5tQmnEBMWWOFjax8Y3+hPX9J6DP2HXd+nPpvqGsh8ai5+ez+EleW+3bJkafLYL1d1T1L0RHRis5kO92/lhqTsBHlJOm/H+8UdB4UJrRhFtA+EsvK92ugJ7CGWjxM7VAA10KeJ81Z9CGo3SaZ+AXOF+Z8xP96kzK3F96Wb6SZ7gi+s12wMf+7yh2/POsGIB5DNT4DTIs=;Ce3dkVHT43CzXISASXSUag=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/matt-gaetz-asked-for-trumps-approval
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/matt-gaetz-asked-for-trumps-approval-before-proposing-to-ginger-luckey-2021-8?amp"
 type: article
 quality: 96
-heat: 136
+heat: 116
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "House panel probing 1/6 riot seeks host of Trump-era records"
-    excerpt: "U.S. Capitol Police officers who were attacked and beaten during the Capitol riot are suing former President Donald Trump, his allies and members of far-right extremist groups."
-    publishedDateTime: 2021-08-26T07:20:00Z
-    webUrl: "https://www.bradenton.com/news/politics-government/national-politics/article253752163.html"
-    ampWebUrl: "https://amp.bradenton.com/news/politics-government/national-politics/article253752163.html"
-    cdnAmpWebUrl: "https://amp-bradenton-com.cdn.ampproject.org/c/s/amp.bradenton.com/news/politics-government/national-politics/article253752163.html"
-    type: article
-    provider:
-      name: Bradenton Herald
-      domain: bradenton.com
-    quality: 75
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/7f1caafa-aea1-49ad-bc9f-e3322fb2825c/af216152-128c-45c0-b0b0-8fff6b46b17c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Why Matt Gaetz Asked For Donald Trump’s Approval Before Proposing To Girlfriend Ginger Luckey"
     excerpt: "Matt Gaetz spoke to former President Donald Trump before he proposed to his girlfriend, who Gaetz met at Mar-a-Lago."
     publishedDateTime: 2021-08-23T19:47:00Z

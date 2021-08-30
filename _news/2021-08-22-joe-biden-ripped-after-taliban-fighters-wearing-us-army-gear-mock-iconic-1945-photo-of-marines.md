@@ -75,6 +75,22 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Trump’s Taliban deal complicates message for GOP contenders | Charlotte Observer"
+    excerpt: "The chaotic U.S. withdrawal from Afghanistan may haunt President Joe Biden, but it could also hang over some of the Republicans who will seek to replace him in 2024."
+    publishedDateTime: 2021-08-24T09:00:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article253683123.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article253683123.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article253683123.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/346c4d4c-0ebe-4577-bdbf-21c5f8e914af/554385c1-d5d0-4f0c-9b03-7bab5722a707/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Supreme Court Rejects Biden Admin's Efforts To Stop Trump-Era 'Remain in Mexico' Policy"
     excerpt: "\"The applicants have failed to show a likelihood of success on the claim that the memorandum rescinding the Migrant Protection Protocols was not arbitrary and capricious.\""
     publishedDateTime: 2021-08-25T13:44:00Z

@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-19-federal-judge-blocks-biden-admins-ice-rules-that-narrowed-illegal-immigrant-arrest-priorities.md",
+      "title": "Federal judge blocks Biden admin's ICE rules that narrowed illegal immigrant arrest priorities",
+      "excerpt": "A federal judge on Thursday imposed a preliminary injunction on the Biden administration’s rules for ICE officers that narrowed the categories of illegal immigrants targeted for arrest and deportation.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/C3NPTrhLrA0/judge-blocks-biden-ice-rules-narrowed-illegal-immigrant-arrest",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/C3NPTrhLrA0/judge-blocks-biden-ice-rules-narrowed-illegal-immigrant-arrest",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a07002e9-c9e3-4f38-993b-2d984efbab65/0c121321-b8d7-49f4-86c7-9ff1e98965e7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/judge-blocks-biden-ice-rules-narrowed-illegal-immigrant-arrest.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/judge-blocks-biden-ice-rules-narrowed-illegal-immigrant-arrest.amp",
+      "publishedDateTime": "2021-08-19T10:55:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-19-trump-acting-dni-grenell-taliban-should-hear-very-tough-message-slams-biden-for-ignoring-the-conditions.md",
       "title": "Trump acting DNI Grenell: Taliban should hear 'very tough message,' slams Biden for 'ignoring the conditions'",
       "excerpt": "Former acting Director of National Intelligence Ric Grenell slammed President Biden for having \"ignored the conditions\" set by former President Donald Trump in his 2020 agreement with the Taliban.",
@@ -1568,62 +1624,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/manchin-budget-reconciliation-democrats-spending-plan-serious-concerns.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manchin-budget-reconciliation-democrats-spending-plan-serious-concerns.amp",
       "publishedDateTime": "2021-08-11T05:51:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-biden-nominates-mueller-deputy-elizabeth-prelogar-for-us-solicitor-general.md",
-      "title": "Biden nominates Mueller deputy Elizabeth Prelogar for US solicitor general",
-      "excerpt": "President Biden nominated Elizabeth Prelogar to be the next U.S. solicitor general at the Department of Justice, the White House announced Wednesday morning.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v0rDI91h05k/biden-nominates-mueller-deputy-elizabeth-prelogar-solicitor-general",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v0rDI91h05k/biden-nominates-mueller-deputy-elizabeth-prelogar-solicitor-general",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-nominates-mueller-deputy-elizabeth-prelogar-solicitor-general.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominates-mueller-deputy-elizabeth-prelogar-solicitor-general.amp",
-      "publishedDateTime": "2021-08-11T05:40:25-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

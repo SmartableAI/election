@@ -767,6 +767,22 @@ related:
         width: 590
         height: 350
         isCached: true
+  - title: "Arizona Opinion: Kamala Harris’ remarks on migration were disappointing — here’s why"
+    excerpt: "The three-word remark from Vice President Kamala Harris during her first official trip to Central America were, suffice to say, disappointing. More than disappointing, they were the perfect ..."
+    publishedDateTime: 2021-08-29T14:03:00Z
+    webUrl: "https://tucson.com/opinion/local/arizona-opinion-kamala-harris-remarks-on-migration-were-disappointing-here-s-why/article_9d2d847a-0764-11ec-adde-3b12031a01e6.html"
+    ampWebUrl: "https://tucson.com/opinion/local/arizona-opinion-kamala-harris-remarks-on-migration-were-disappointing-here-s-why/article_9d2d847a-0764-11ec-adde-3b12031a01e6.amp.html"
+    cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/opinion/local/arizona-opinion-kamala-harris-remarks-on-migration-were-disappointing-here-s-why/article_9d2d847a-0764-11ec-adde-3b12031a01e6.amp.html"
+    type: article
+    provider:
+      name: Arizona Daily Star
+      domain: tucson.com
+    quality: 68
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/6/3e/63e31170-0765-11ec-9e41-6f022ee87915/6129304c57b52.image.jpg"
+        width: 356
+        height: 352
+        isCached: true
   - title: "Kamala Harris begins Asia trip to reassure allies of US dependability amid Afghan drawdown"
     excerpt: "Vice President Kamala Harris began her Asia trip on Sunday. She seeks to offer reassurances of Washington's commitment to the region after the chaotic US pullout from Afghanistan and Taliban takeover."
     publishedDateTime: 2021-08-22T12:48:00Z
@@ -1042,6 +1058,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 54
+  - title: "Kamala Harris: VP trip to Vietnam delayed due to possible Havana syndrome"
+    excerpt: "Vice President Kamala Harris wraps up her visit to Southeast Asia this week in her visits to Singapore and Vietnam. Prior to visiting Hanoi, Harriss trip to the country was delayed out of concerns of a possible incident"
+    publishedDateTime: 2021-08-27T10:15:00Z
+    webUrl: "https://www.econotimes.com/Kamala-Harris-VP-trip-to-Vietnam-delayed-due-to-possible-Havana-syndrome-1615924"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 54
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/2021082698f1102ce981cb6c9_th_1024x0.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Kamala Harris visits Singapore to deepen ties and counter China's influence"
     excerpt: "US Vice President Kamala Harris will meet Singapore's leaders on Monday on the first working day of a trip to Southeast Asia aimed at bolstering ties as part of Washington's efforts to counter China's growing influence."
     publishedDateTime: 2021-08-23T00:52:00Z

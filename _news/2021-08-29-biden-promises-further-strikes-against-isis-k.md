@@ -135,6 +135,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Joe Biden’s Big Tax Hikes Are Still Looming?"
+    excerpt: "Add the 3.8% Obamacare tax in some cases, but at worst, your total tax bill is 23.8%. But under one Biden proposal, the 23.8% rate may go to 43.4% in some cases, an 82% increase in the old rate. The current long-term capital gain tax is graduated."
+    publishedDateTime: 2021-08-29T14:55:00Z
+    webUrl: "https://www.ibtimes.com/joe-bidens-big-tax-hikes-are-still-looming-3283327"
+    ampWebUrl: "https://www.ibtimes.com/joe-bidens-big-tax-hikes-are-still-looming-3283327?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-bidens-big-tax-hikes-are-still-looming-3283327?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/08/24/us-president-joe-biden-is-pushing-nearly-5.jpg"
+        width: 1024
+        height: 681
+        isCached: true
+  - title: "Biden vows to finish Kabul evacuation, avenge US deaths"
+    excerpt: "President Joe Biden vowed Thursday to complete the evacuation of American citizens and others from Afghanistan despite the day's deadly suicide bomb attack at the Kabul airport. He promised to avenge the deaths of 13 U."
+    publishedDateTime: 2021-08-30T02:45:00Z
+    webUrl: "https://www.middletownpress.com/news/article/US-says-1-500-Americans-may-still-await-Kabul-16412711.php"
+    ampWebUrl: "https://www.middletownpress.com/news/amp/US-says-1-500-Americans-may-still-await-Kabul-16412711.php"
+    cdnAmpWebUrl: "https://www-middletownpress-com.cdn.ampproject.org/c/s/www.middletownpress.com/news/amp/US-says-1-500-Americans-may-still-await-Kabul-16412711.php"
+    type: article
+    provider:
+      name: The Middletown Press
+      domain: middletownpress.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/50/02/21397664/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Biden Urges More Employers to Enact Vaccine Mandates Following FDA’s Full Approval"
     excerpt: "Do what I did last month. Require your employees to get vaccinated or face strict requirements,” Biden said Monday."
     publishedDateTime: 2021-08-24T11:40:00Z
@@ -220,6 +252,34 @@ related:
       - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/199258283_199257870-b29018f6db5642afb236295d3817bbdb_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
         width: 600
         height: 434
+        isCached: true
+  - title: "President Joe Biden Arrives at Holy Trinity Catholic Church"
+    excerpt: "US President Joe Biden walks into Holy Trinity Catholic Church for mass in the Georgetown neighborhood of Washington, D.C., Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover,"
+    publishedDateTime: 2021-08-29T21:51:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/8f8abd0c6d217454099f8dbdc3134149/President-Joe-Biden-Arrives-at-Holy-Trinity-Catholic-Church/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/8f8abd0c6d217454099f8dbdc3134149/BIDEN-CHURCH.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "President Joe Biden Departs Holy Trinity Catholic Church"
+    excerpt: "US President Joe Biden walks out of Holy Trinity Catholic Church after mass in the Georgetown neighborhood of Washington, DC on Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover,"
+    publishedDateTime: 2021-08-29T22:47:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/892121aec790ee325107640365b766b7/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/892121aec790ee325107640365b766b7/BIDEN-CHURCH.jpg"
+        width: 650
+        height: 433
         isCached: true
   - title: "Joe Biden spoke to the G7 a sum total of 7 minutes. Pure propaganda, photo-op."
     excerpt: "Joe Biden acted like his G7 meeting was a success, but in reality it left every other world leader feeling disappointed in America."

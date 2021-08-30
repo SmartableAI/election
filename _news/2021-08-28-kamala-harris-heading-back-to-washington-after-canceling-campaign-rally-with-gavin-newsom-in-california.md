@@ -960,6 +960,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Kamala Harris heading back to Washington after canceling campaign rally with Gavin Newsom in California"
+    excerpt: "Vice President Kamala Harris's decision to cancel her Friday rally in California with embattled Democratic Gov. Gavin Newsom dealt a setback to Democrats' intensive efforts to spur their voters to"
+    publishedDateTime: 2021-08-27T01:46:00Z
+    webUrl: "https://www.newspressnow.com/news/national_news/election2020/kamala-harris-heading-back-to-washington-after-canceling-campaign-rally-with-gavin-newsom-in-california/article_3c72cc3e-647e-5028-9fea-a10e6d2d5f8d.html"
+    type: article
+    provider:
+      name: News-Press NOW
+      domain: newspressnow.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/newspressnow.com/content/tncms/custom/image/be1cb458-881b-11eb-872f-4f6e66986b9a.png"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Vice President Harris Holds Roundtable on Black Maternal Health"
     excerpt: "Vice President Harris holds a roundtable at the White House on Black maternal health. She is joined by Domestic Policy Adviser Susan Rice. Vice President Kamala Harris held a roundtable discussion on Equal Pay Day with women leaders of advocacy… Vice ..."
     publishedDateTime: 2021-04-13T12:42:00Z
@@ -970,6 +984,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "EKHkVfwmcHtN+07FQeUjvW+sRhTNBN3Yx/Yhs+TLS6s1Zg6OPwax5kKDEDiTF352kNiFEl5bPtLvNexadvv8P6Zx4HlxfULvHgg3pBO4/JgRwJIVgl7OflATxZlSEj+Lc64hxWVSr071gaCv6E2GoJrvUFpGYNNrGMMF33uXjEManBtV855zHNGPFAA51czLvezRc2giCjUw3MGkGG29OK683UKSSjmRkNs26qRYa1n9LbJA46kxKwSGt1Xn6pXuGpVFSdRzJU2Po3WeBL2myUwqmGUoHzYDtkhmaxqx3l57fjDLZrYVIjYTAOzrB5eGxit5uTLopxrykeTjkebO3sgxxMJ/Xzm8RHxYTTicv3s=;js7STgmsilbPz/8716rjiQ=="
+secured: "yvJrMS+LC48K08yAkFRDHEss/Vy6beocMAIgRQV5P2MOm6j7l6eMqkgEmsj99IURippaIjvcje0DcO28xb68CBz7zGwZJcKPZJDT2OBaaqIOWXSsSoGPFwnLVjANgYe/FBK9FwexZniKRh12G2eJyzYxl7i6EO+jIwxfKshCr6/w8KOpAKB5H5bvhHFmW3+/cLzKPbubWfaSTUIrQCFBiJ5guaLATdxz+C6r+69ZI32B2nLVFfBQaDsnaRySS+CP7iH548ZRcGFAIFLrjmgoTYirP39jX1FEPaRntYpLKQBVMWhtlr6JqSx4X1HzMMwefgBMgQ6vBiyOUQXDdZOS5arA1IftLgTPG6UUV8yHg+pl//YzrpIKYZVtwRZlDi58JAUoT2sO+kzV88y0w+SFuN3pCgDV5DhJHjFibhji9CwH7QImer77Mdt/Zvjgk+SH8FWJwQEFHJbVD6HM9ZwZkFZm3zTZTNJVBlAtgvZuvkgIOtiaYUru7o25KxfbBVjZWxpUKlZN+RID3W/uL9B7+A==;2Qi4AHi+VDsJD7wY6EiwkQ=="
 ---
 

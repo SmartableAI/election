@@ -517,6 +517,22 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "'100% chance' Trump will run for President in 2024 and wallop Joe Biden, says Republican"
+    excerpt: "THERE is a \"100 percent\" chance that Donald Trump will run for US President in 2024, according to a Republican state representative from Florida."
+    publishedDateTime: 2021-08-29T23:01:00Z
+    webUrl: "https://www.express.co.uk/news/world/1483580/donald-trump-2024-republicans-ex-potus-anthony-sabatini-white-house-desantis-world-ont"
+    ampWebUrl: "https://www.express.co.uk/news/world/1483580/donald-trump-2024-republicans-ex-potus-anthony-sabatini-white-house-desantis-world-ont/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/world/1483580/donald-trump-2024-republicans-ex-potus-anthony-sabatini-white-house-desantis-world-ont/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 81
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/78/590x/Donald-Trump-1483580.jpg?r=1630271885638"
+        width: 590
+        height: 350
+        isCached: true
   - title: "Trump Slams Joe Biden For Afghanistan Crisis; Says 'Would Never Happen If I Was President'"
     excerpt: "Trump slammed Biden for the Kabul crisis and said that recent developments in Afghan are a “major failure” of the current US administration’s foreign policy."
     publishedDateTime: 2021-08-22T11:47:00Z
@@ -711,19 +727,19 @@ related:
         isCached: true
   - title: "Biden to pay respects to US troops killed in Afghanistan"
     excerpt: "President Joe Biden embarked on a solemn journey Sunday to honor and mourn the 13 U.S. troops killed in the suicide attack near the Kabul airport as their remains return to U.S. soil from Afghanistan."
-    publishedDateTime: 2021-08-29T13:13:00Z
-    webUrl: "https://www.dallasnews.com/news/national/2021/08/29/biden-to-pay-respects-to-us-troops-killed-in-afghanistan/"
-    ampWebUrl: "https://www.dallasnews.com/news/national/2021/08/29/biden-to-pay-respects-to-us-troops-killed-in-afghanistan/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/national/2021/08/29/biden-to-pay-respects-to-us-troops-killed-in-afghanistan/?outputType=amp"
+    publishedDateTime: 2021-08-29T11:38:00Z
+    webUrl: "https://www.ctpost.com/news/article/Biden-to-pay-respects-to-US-troops-killed-in-16419521.php"
+    ampWebUrl: "https://www.ctpost.com/news/amp/Biden-to-pay-respects-to-US-troops-killed-in-16419521.php"
+    cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Biden-to-pay-respects-to-US-troops-killed-in-16419521.php"
     type: article
     provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
+      name: Connecticut Post
+      domain: ctpost.com
     quality: 75
     images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/1FLuWtZ2CdlAndpMTBZ9ldtgF5E=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/W63TOS5IJNLEKZITVQCF6JDCK4.jpg"
-        width: 1200
-        height: 630
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Sleepy Joe Biden made the entire world a hostage to terror"
     excerpt: "TWENTY years on from 9/11, it ends the way it began – with multiple acts of terror, cries of the dying and a grim-faced US President vowing vengeance on the men of evil. But the tough talk sounds"
@@ -742,20 +758,36 @@ related:
         height: 800
         isCached: true
   - title: "Biden aide: US has capacity to evacuate remaining Americans"
-    excerpt: "He warned another attack was “highly likely” and the State Department called the threat “specific” and “credible.” The Pentagon said the remaining contingent of U.S. forces at the airport, now numbering fewer than 4,"
-    publishedDateTime: 2021-08-29T17:38:00Z
-    webUrl: "https://www.lmtonline.com/news/article/Biden-Another-attack-likely-pledges-more-16419255.php"
-    ampWebUrl: "https://www.lmtonline.com/news/amp/Biden-Another-attack-likely-pledges-more-16419255.php"
-    cdnAmpWebUrl: "https://www-lmtonline-com.cdn.ampproject.org/c/s/www.lmtonline.com/news/amp/Biden-Another-attack-likely-pledges-more-16419255.php"
+    excerpt: "The United States has the capacity to evacuate the approximately"
+    publishedDateTime: 2021-08-29T23:07:00Z
+    webUrl: "https://www.thetelegraph.com/news/article/Biden-Another-attack-likely-pledges-more-16419255.php"
+    ampWebUrl: "https://www.thetelegraph.com/news/amp/Biden-Another-attack-likely-pledges-more-16419255.php"
+    cdnAmpWebUrl: "https://www-thetelegraph-com.cdn.ampproject.org/c/s/www.thetelegraph.com/news/amp/Biden-Another-attack-likely-pledges-more-16419255.php"
     type: article
     provider:
-      name: Laredo Morning Times
-      domain: lmtonline.com
+      name: The Telegraph
+      domain: thetelegraph.com
     quality: 75
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Biden pays respects to US troops killed in Afghanistan"
+    excerpt: "Biden and his wife Jill traveled to Dover Air Force Base in Delaware to meet privately with the families of those killed and then attend the “dignified transfer” of the fallen troops."
+    publishedDateTime: 2021-08-30T01:22:00Z
+    webUrl: "https://www.boston.com/news/world-news/2021/08/29/biden-to-pay-respects-to-us-troops-killed-in-afghanistan/"
+    ampWebUrl: "https://www.boston.com/news/world-news/2021/08/29/biden-to-pay-respects-to-us-troops-killed-in-afghanistan/?amp=1"
+    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/world-news/2021/08/29/biden-to-pay-respects-to-us-troops-killed-in-afghanistan/?amp=1"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 75
+    images:
+      - url: "https://www.boston.com/wp-content/uploads/2021/08/Casualty_Return_Afghanistan_40376-612bf3d399a20-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
   - title: "Joe Biden gifting Afghanistan to the Taliban is a crime against humanity"
     excerpt: "IN 20 days, it will be exactly 20 years since someone phoned you and said, “Turn on your television now.” Twenty years since those planes came out of a clear blue sky and ploughed into the Twin"
@@ -1120,13 +1152,13 @@ related:
   - title: "Fact check: Quote about Afghanistan, Democrats in Washington falsely attributed to Donald Trump"
     excerpt: "Donald Trump did not say the situation in Afghanistan is a distraction from the Democrats in Washington. The quote is being falsely attributed to him."
     publishedDateTime: 2021-08-27T02:32:00Z
-    webUrl: "https://www.jsonline.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
-    ampWebUrl: "https://amp.jsonline.com/amp/5586860001"
-    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/5586860001"
+    webUrl: "https://www.indystar.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
+    ampWebUrl: "https://amp.indystar.com/amp/5586860001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5586860001"
     type: article
     provider:
-      name: Milwaukee Journal Sentinel
-      domain: jsonline.com
+      name: Indianapolis Star
+      domain: indystar.com
     quality: 63
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/08/22/USAT/9aef22b6-661a-487a-9438-89b679f37137-GTY_1335520712.jpg?auto=webp&crop=3688,2075,x0,y187&format=pjpg&width=1200"
@@ -1383,6 +1415,31 @@ related:
         width: 480
         height: 299
         isCached: true
+  - title: "Biden to pay respects to US troops killed in Afghanistan"
+    excerpt: "President Joe Biden is on a solemn journey to honor and mourn the 13 U.S. troops killed in the suicide attack near the Kabul airport as their remains return to U.S. soil from Afghanistan."
+    publishedDateTime: 2021-08-29T21:44:00Z
+    webUrl: "https://www.sunherald.com/news/politics-government/national-politics/article253828643.html"
+    ampWebUrl: "https://amp.sunherald.com/news/politics-government/national-politics/article253828643.html"
+    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/politics-government/national-politics/article253828643.html"
+    type: article
+    provider:
+      name: Biloxi Sun Herald
+      domain: sunherald.com
+    quality: 55
+  - title: "Biden’s Leadership Is Failing in More Places Than Afghanistan"
+    excerpt: "Most Americans can clearly agree that what they have been seeing time and again, domestically and overseas, is not good government, despite honorable intentions among many dedicated people."
+    publishedDateTime: 2021-08-29T23:06:00Z
+    webUrl: "https://nationalinterest.org/feature/biden’s-leadership-failing-more-places-afghanistan-192727"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 55
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/Biden%20%282%29_1.jpg"
+        width: 1222
+        height: 815
+        isCached: true
   - title: "Biden will face pressure from G7 to extend Afghanistan withdrawal deadline"
     excerpt: "By Kevin Liptak and Barbara Starr, CNN Leaders from the top foreign allies of the United States are planning to press President Joe Biden to extend the deadline for US troops to withdraw from Afghanistan during a Tuesday morning meeting,"
     publishedDateTime: 2021-08-24T03:38:00Z
@@ -1396,6 +1453,20 @@ related:
       - url: "https://localnews8.b-cdn.net/2021/08/hypatia-h_8d09aebafbd5b0cf366a68fc59aad027-h_ffcc444eddc8507c8c51a2ec91591bec-300-scaled.jpg"
         width: 2560
         height: 1655
+        isCached: true
+  - title: "Biden attends grim homecoming for U.S. troops killed in Afghanistan attack"
+    excerpt: "President Joe Biden shut his eyes and tilted his head back as the flag-draped cases carrying the remains of 11 American service members killed"
+    publishedDateTime: 2021-08-29T21:00:00Z
+    webUrl: "https://www.unionleader.com/news/military/biden-attends-grim-homecoming-for-u-s-troops-killed-in-afghanistan-attack/article_85d719dd-aa3f-57df-880f-43b7b5aaf372.html"
+    type: article
+    provider:
+      name: New Hampshire Union Leader
+      domain: unionleader.com
+    quality: 53
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/8/e4/8e4126ef-8a1c-5858-a9a2-0cd4a45f3857/612bd6d9e6f3b.image.jpg?resize=944%2C630"
+        width: 944
+        height: 630
         isCached: true
   - title: "US President Joe Biden to virtually meet G7 leaders today to discuss Afghanistan evacuation, humanitarian assistance"
     excerpt: "US President Joe Biden is scheduled to hold a virtual meet with other G7 leaders on Tuesday to discuss close coordination on Afghanistan policy and evacuation operations"
@@ -1504,6 +1575,20 @@ related:
       - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/NA-Biden-worst-offplatform.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
         width: 1200
         height: 800
+        isCached: true
+  - title: "‘He’s finished’: Joe Biden ‘cannot survive’ fallout over Afghanistan withdrawal"
+    excerpt: "Joe Biden's presidency is finished and it can't survive the fallout over his administration's \"messy\" withdrawal from Afghanistan, according to Curtin University Professor Joe Siracusa. Mr Siracusa said Joe Biden had an opportunity to withdraw from Afghanistan as \"gracefully as he could\" but it turned out to be quite \"messy\"."
+    publishedDateTime: 2021-08-29T23:00:00Z
+    webUrl: "https://www.news.com.au/world/hes-finished-joe-biden-cannot-survive-fallout-over-afghanistan-withdrawal/video/4b7a4f64654c6632cf29b219b9301b37"
+    type: article
+    provider:
+      name: News.com.au
+      domain: news.com.au
+    quality: 51
+    images:
+      - url: "https://content.api.news/v3/images/bin/8d90f6cb11a091041b159f4f2c14c614"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Joe Biden Afghanistan crisis: POTUS expects around 50,000 Afghans to be flown out"
     excerpt: "US President Joe Biden continues to face criticism and backlash over the withdrawal of the US from Afghanistan as the Taliban took over. In a recent interview, Biden revealed that he had expected the withdrawal from"

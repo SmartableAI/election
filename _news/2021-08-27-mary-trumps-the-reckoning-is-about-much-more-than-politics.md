@@ -41,6 +41,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Ex-Rep. Paul Mitchell dies. He quit GOP over its refusal to accept Trump's defeat"
+    excerpt: "Former U.S. Rep. Paul Mitchell, a conservative who quit the Republican Party over its allegiance to President Donald Trump after the 2020 election, has died after a diagnosis of stage IV renal cancer."
+    publishedDateTime: 2021-08-16T15:20:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2021/08/16/rep-congressman-paul-mitchell-republican-died-conservative-independent/7877411002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/7877411002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7877411002"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 70
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/11/PDTN/dd1c5a99-0bc4-4652-b5d4-7744e8107e7a-paul_mitchell_submitted.jpg?auto=webp&crop=4031,2267,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "M1eAOTNsUtEkWKq00ETn861TlNPbjzkMhp2D7jABzwj6gtrUcYP/21IOoIBVtBoy2KRukoJqqmM0ANCk7/QxFBeyaUSvQWs3q0OB0x6Ua5eIVU+JhCocwGsWKH34f+h21QdZrSkej2j+KEfYh+yGaouAXCrQP+xdHZ61bcH9kWpbjY2dRw4Um7v7TvzqPPZT+b2n/IQ348mPqdZfjAwbFRecsLPsDR83FcrOHdEbxzkB3Ub3IQb3ogUIezCeBJ9Rn6Bg6y+bPjwEtjFHLzigKLnCE2SR7WDSEFNhI01GfvzuotYJp7IjzHSIGGo2kmquIo9vw8e2dKwjZlgs5t0gyjFYCSPabzk7+41bicl0XA8=;ZuFpXgGo88v6Gsnb/dwgYg=="
 ---

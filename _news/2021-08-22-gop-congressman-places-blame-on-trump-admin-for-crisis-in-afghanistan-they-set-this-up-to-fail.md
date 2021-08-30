@@ -79,6 +79,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "A former Pence aide says Trump and Miller tried to stymie Afghan refugee efforts."
+    excerpt: "Olivia Troye said the Trump aide Stephen Miller demanded restrictions on refugees. Mr. Miller said President Biden’s “incompetence” had led to the current chaos."
+    publishedDateTime: 2021-08-21T13:50:00Z
+    webUrl: "https://www.nytimes.com/2021/08/21/world/asia/pence-troye-trump-miller-afghan-refugees.html"
+    ampWebUrl: "https://www.nytimes.com/2021/08/21/world/asia/pence-troye-trump-miller-afghan-refugees.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/21/world/asia/pence-troye-trump-miller-afghan-refugees.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 145
+    images:
+      - url: "https://static01.nyt.com/images/2021/08/21/world/21afghanistan-briefing-troye-trump/21afghanistan-briefing-troye-trump-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Fmr. Pence Adviser: Stephen Miller peddled “racist hysteria” during Trump years, preventing Afghans from obtaining Special Immigrant Visas"
     excerpt: "Olivia Troye, a former homeland security adviser to then-VP Mike Pence, reveals that racist and xenophobic ideologies inside the Trump Administration prevented Afghan allies from being granted Special Immigration Visas during the former president’s term."
     publishedDateTime: 2021-08-21T15:39:00Z

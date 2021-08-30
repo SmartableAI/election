@@ -947,6 +947,20 @@ related:
         height: 800
         isCached: true
   - title: "Kamala Harris heading back to Washington after canceling campaign rally with Gavin Newsom in California"
+    excerpt: "Vice President Kamala Harris's decision to cancel her Friday rally in California with embattled Democratic Gov. Gavin Newsom dealt a setback to Democrats' intensive efforts to spur their voters to"
+    publishedDateTime: 2021-08-27T01:46:00Z
+    webUrl: "https://www.newspressnow.com/news/national_news/election2020/kamala-harris-heading-back-to-washington-after-canceling-campaign-rally-with-gavin-newsom-in-california/article_3c72cc3e-647e-5028-9fea-a10e6d2d5f8d.html"
+    type: article
+    provider:
+      name: News-Press NOW
+      domain: newspressnow.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/newspressnow.com/content/tncms/custom/image/be1cb458-881b-11eb-872f-4f6e66986b9a.png"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Kamala Harris heading back to Washington after canceling campaign rally with Gavin Newsom in California"
     excerpt: "Vice President Kamala Harris's decision to cancel her Friday rally in California with embattled Democratic Gov. Gavin Newsom dealt a setback to Democrats' intensive efforts to spur their voters to vote against the effort to recall the first-term governor."
     publishedDateTime: 2021-08-27T17:51:00Z
     webUrl: "https://www.kten.com/story/44610956/kamala-harris-heading-back-to-washington-after-canceling-campaign-rally-with-gavin-newsom-in-california"
@@ -970,6 +984,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "LaUzPHN8uhuMcyX5mPxhpB3jv8j8cp0p78/MWAdHa3DDWB8ST94PwTbJO8i5hstJSlEs3Ei5H7HuPykUYaQ+fJO2rE6zhalt1ASotrqZ71OajNGcrkizS0XcWQrPWmRY7guOMchLyqFw/pCDgZUXhYiCpz4fzFblglcuCsQee18ggczKHMXs9p+vaXSdRuXmHo+hpRMKIu2yW9kZnotnKHNnX49dxQ8nwjxJJUOkJsi3Hx/zZygyQCmgRo73SqM5F0cNAFDWz2qUayjYEN2X45RgZ4b1wGM60N4CW/xwOockhiGrxYqgfFuxVpngsZxlhVnZTzSbXdYnNb6vxWE4jp2Z7sZdX1UN5HRhMcWSKhY=;8tqSVGz2DCoP5kkAwVALIA=="
+secured: "dOQnzDhuPHRQjrkMJfs9KGRbF1MK32UvASnPLI2vyvHSSiVl+VZWHgXu0XcZBJazWr96R1a359ziGUWmaJMp4D+H+ToXyhQg2MwNu7VpElLIWgi0Uj0Zd9Ww9reslUTOWO1B1gqTH36M7IFF/kZqkXK2MQD5Tw6mujfpyJjHzSVluyX0KkH3tf44+PSNVSDGyamRuByxopIBV5yqOJeIZ9wxTQ3U5Ij37kOLucO/pdzQ/BiXzoG8Iq0qzHw5/OutuN451tf3KLSHBVwcCZ6PxT5DNX9JVBg4svj/lYM9egEc13g8Yb/cmt5IAQh8knjUEuDktzfDeD8cQkx5cST5RLXt+0nP0281iCOX13RvdvK692O6Ie9OCNqW6thn/V0/M/o/DVttCN8YxyaVHE+0PpqNGF3jP0epFs5sf0iGjJAFJU51NPvL7Uw420yeArlVhWM5nSJwcn1WuhfoJEXd9yNJz8Fv3H9+rOU5FlKCFcndskJlnZioJo2tNrkNpy5HVKG4Aoi454eLub3E0O2BYw==;qi+vqHgM9YUlr78AoGpvlg=="
 ---
 

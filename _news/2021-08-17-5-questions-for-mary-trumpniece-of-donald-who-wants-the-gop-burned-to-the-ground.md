@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jemimamcevoy/2021/08/16/5-questions-for
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jemimamcevoy/2021/08/16/5-questions-for-mary-trump-niece-of-donald-who-wants-the-gop-burned-to-the-ground/amp/"
 type: article
 quality: 119
-heat: 139
+heat: 159
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://d.newsweek.com/en/full/1871391/mary-trump-donald-trump-gop-election-reform.jpg"
         width: 2500
         height: 1665
+        isCached: true
+  - title: "Congressman who left GOP over Trump gives final message before death from cancer"
+    excerpt: "Before his death, former Rep. Paul Mitchell talked with CNN's Jake Tapper about his life and his parting message to the country."
+    publishedDateTime: 2021-08-23T02:03:00Z
+    webUrl: "https://www.kdrv.com/content/news/575151722.html"
+    type: article
+    provider:
+      name: KDRV
+      domain: kdrv.com
+    quality: 50
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210822145959-paul-mitchell-tapper-vpx-live-video.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "/Hd62KKIeqBfpQCsl3+6y0SuJuL9ToXNR1Y2JS3NK6loWs/FGUzUuXLmAh/bpxOeQMn7nTf5rypp5PDfgomxoW6i64kd27jP6MpZNY6SElOoTBeCcnv2PZ/RyHUs19aRW4wbGaOv9B86A7tO2m/tL58IuhQzPquZPsV4d9Zii0uz7lU7rz3R1Q1y7f/ET5eTqHxYB75JRV8uephYh3aXnUDk+SaAmAP1Gq5qxEZHzMEBklR4nLmRL2DEp+yyrhy8prxTtFyLtS+06L9sVCfWbEpfXJ3l2HpCNgmtnN2Oqdprj2lKdUxXgmBh6Ewe7VsLmr6DZHIgzqFW0QzbSuXXePPSmXMUWimd4mrs3ETGSOw=;Ng5nltlCoAC//YSkGFF8jQ=="

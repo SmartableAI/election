@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-biden-afghanistan-dec
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-biden-afghanistan-decision-courageous-trump-blame.amp"
 type: article
 quality: 201
-heat: 2581
+heat: 2621
 published: true
 
 provider:
@@ -1358,6 +1358,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Kamala Harris’ cackling is Joe Biden’s job security"
+    excerpt: "Vice President Kamala Harris is just too prone to verbal fumbles that pour more fuel on the Biden administration’s fires."
+    publishedDateTime: 2021-08-29T01:48:00Z
+    webUrl: "https://nypost.com/2021/08/28/kamala-harris-cackling-is-joe-bidens-job-security/"
+    ampWebUrl: "https://nypost.com/2021/08/28/kamala-harris-cackling-is-joe-bidens-job-security/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/28/kamala-harris-cackling-is-joe-bidens-job-security/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/kamala-cackle.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Trump slams Biden for Afghanistan withdrawal during Alabama rally appearance"
     excerpt: "Former President Donald Trump criticized President Joe Biden’s ‘total surrender’ for the United States withdrawal from the Taliban-controlled Afghanistan."
     publishedDateTime: 2021-08-22T06:15:00Z
@@ -1389,6 +1405,20 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7ce0f117-855d-485a-8378-a18e1f86533d/96814e03-85f8-4119-901f-cf23f0104adc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden refuses to take Afghanistan question, walks away after offering to take questions at FEMA"
+    excerpt: "President Biden blew off a question about Afghanistan after offering to take questions at the Federal Emergency Management Agency headquarters in Washington on Sunday."
+    publishedDateTime: 2021-08-29T20:23:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6jUJdbS8SQU/biden-refuses-afghanistan-question-walks-away-after-offering-to-take-questions-at-fema"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 143
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/BIDEN.png"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Lara Trump blasts Kamala Harris on Afghanistan: She thinks we'll all forget about this"
     excerpt: "Fox News contributor Lara Trump slammed Vice President Kamala Harris on Friday for providing vague responses to reporters' questions and traveling to Asia while the crisis in Afghanistan continues."

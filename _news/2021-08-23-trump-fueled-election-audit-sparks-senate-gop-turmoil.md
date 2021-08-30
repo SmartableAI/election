@@ -25,48 +25,96 @@ images:
     isCached: true
 
 related:
-  - title: "With fight over mask mandates, Gov. Abbott passes purity test in Trump's GOP"
-    excerpt: "When Texas had its first big surge of COVID hospitalizations, Gov. Greg Abbott responded by shutting down bars and mandating masks. As the second surge hit, Abbott put in place an automatic trigger to restrict the operating capacities of businesses and halt non-emergency surgeries to free up hospital beds in areas with high hospitalizations."
-    publishedDateTime: 2021-08-22T09:00:00Z
-    webUrl: "https://www.houstonchronicle.com/politics/texas/article/Even-as-COVID-resurges-there-is-no-room-for-Gov-16401385.php"
-    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Even-as-COVID-resurges-there-is-no-room-for-Gov-16401385.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Even-as-COVID-resurges-there-is-no-room-for-Gov-16401385.php"
+  - title: "Vos to keep Trump \"updated\" on election investigation"
+    excerpt: "Assembly Speaker Robin Vos the said in a statement Saturday he is going to be keeping Trump “updated on our investigation,” the Journal Times reported. In a statement, Vos said: “It was an honor to be invited to travel by private plane with President Trump and top staff to attend his rally in Alabama."
+    publishedDateTime: 2021-08-22T23:39:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/Vos-to-keep-Trump-updated-on-election-16404028.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Vos-to-keep-Trump-updated-on-election-16404028.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Vos-to-keep-Trump-updated-on-election-16404028.php"
     type: article
     provider:
       name: Houston Chronicle
       domain: houstonchronicle.com
-    quality: 122
-    images:
-      - url: "https://s.hdnux.com/photos/01/21/42/70/21376521/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
-        isCached: true
-  - title: "With fight over mask mandates, Gov. Abbott passes purity test in Trump's GOP"
-    excerpt: "But now as the state hits a third surge, Abbott — who faces re-election early next year — is doing none of that. Instead, he is suggesting that people wear masks when appropri"
-    publishedDateTime: 2021-08-23T19:26:00Z
-    webUrl: "https://www.houstonchronicle.com/politics/texas/article/covid-abbott-purity-test-trump-gop-republican-mask-16401385.php"
-    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/covid-abbott-purity-test-trump-gop-republican-mask-16401385.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/covid-abbott-purity-test-trump-gop-republican-mask-16401385.php"
+    quality: 120
+  - title: "Wisconsin Speaker vows to keep Trump 'updated' on election investigation"
+    excerpt: "The Republican Assembly Speaker who has ordered an investigation into the 2020 Wisconsin election in which President Joe Biden defeated Donald Trump said he spent the day with the former president."
+    publishedDateTime: 2021-08-22T23:03:00Z
+    webUrl: "https://www.wisn.com/article/wisconsin-robin-vos-vows-to-keep-trump-updated-on-election-investigation/37367599"
+    ampWebUrl: "https://www.wisn.com/amp/article/wisconsin-robin-vos-vows-to-keep-trump-updated-on-election-investigation/37367599"
+    cdnAmpWebUrl: "https://www-wisn-com.cdn.ampproject.org/c/s/www.wisn.com/amp/article/wisconsin-robin-vos-vows-to-keep-trump-updated-on-election-investigation/37367599"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 102
-  - title: "Ex-Rep. Paul Mitchell dies. He quit GOP over its refusal to accept Trump's defeat"
-    excerpt: "Former U.S. Rep. Paul Mitchell, a conservative who quit the Republican Party over its allegiance to President Donald Trump after the 2020 election, has died after a diagnosis of stage IV renal cancer."
-    publishedDateTime: 2021-08-16T15:20:00Z
-    webUrl: "https://www.detroitnews.com/story/news/politics/2021/08/16/rep-congressman-paul-mitchell-republican-died-conservative-independent/7877411002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/7877411002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7877411002"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 70
+      name: WISN 12 NEWS
+      domain: wisn.com
+    quality: 89
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/08/11/PDTN/dd1c5a99-0bc4-4652-b5d4-7744e8107e7a-paul_mitchell_submitted.jpg?auto=webp&crop=4031,2267,x0,y0&format=pjpg&width=1200"
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/vos-1552410924.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Vos meets with Trump, vows to keep ex-president 'updated' on election investigation"
+    excerpt: "Vos said he is going to be keeping Trump, who has not stopped claiming he won the 2020 election despite overwhelming evidence to the contrary, \"updated on our investigation.\"' In a statement, Vos said: \"It was an honor to be invited to travel by private plane with President Trump and top staff to attend his rally in Alabama."
+    publishedDateTime: 2021-08-22T23:22:00Z
+    webUrl: "https://madison.com/wsj/news/local/govt-and-politics/vos-meets-with-trump-vows-to-keep-ex-president-updated-on-election-investigation/article_c0b14769-08f6-55f5-855a-06d75ad42971.html"
+    ampWebUrl: "https://madison.com/news/local/govt-and-politics/vos-meets-with-trump-vows-to-keep-ex-president-updated-on-election-investigation/article_c0b14769-08f6-55f5-855a-06d75ad42971.amp.html"
+    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/govt-and-politics/vos-meets-with-trump-vows-to-keep-ex-president-updated-on-election-investigation/article_c0b14769-08f6-55f5-855a-06d75ad42971.amp.html"
+    type: article
+    provider:
+      name: Madison.com
+      domain: madison.com
+    quality: 84
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/a/40/a406b0dc-3c5e-55be-864e-057e2578c64e/6122ddfc6e97d.image.jpg?resize=1024%2C679"
+        width: 1024
+        height: 679
+        isCached: true
+  - title: "James Craig says he’d accept Trump endorsement, doesn’t take position on stolen election claims"
+    excerpt: "The former Detroit police chief launched an exploratory campaign committee but has yet to formally start his bid for Michigan governor,"
+    publishedDateTime: 2021-08-24T04:51:00Z
+    webUrl: "https://www.mlive.com/public-interest/2021/08/james-craig-says-hed-accept-trump-endorsement-doesnt-take-position-on-stolen-election-claims.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2021/08/james-craig-says-hed-accept-trump-endorsement-doesnt-take-position-on-stolen-election-claims.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2021/08/james-craig-says-hed-accept-trump-endorsement-doesnt-take-position-on-stolen-election-claims.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 78
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VSCN37RCRBA73B3ZAHRR3MR7U4.JPG"
+        width: 3972
+        height: 2648
+        isCached: true
+  - title: "Trump Booed at Alabama Rally After Telling Supporters to Get Vaccinated"
+    excerpt: "Former President Donald Trump was booed at a rally Saturday in Alabama after he told supporters they should get vaccinated"
+    publishedDateTime: 2021-08-23T13:58:00Z
+    webUrl: "https://www.nbcnewyork.com/news/politics/trump-booed-at-alabama-rally-after-telling-supporters-to-get-vaccinated/3235914/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/politics/trump-booed-at-alabama-rally-after-telling-supporters-to-get-vaccinated/3235914/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/trump-booed-at-alabama-rally-after-telling-supporters-to-get-vaccinated/3235914/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 75
+    images:
+      - url: "https://media.nbcnewyork.com/2021/08/GettyImages-1335520712.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump To Be Reinstated As President Before 2022, Lindell Predicts"
+    excerpt: "Former President Donald Trump may be reinstated to the presidential seat before 2022, a close ally has predicted. During Trump’s rally in Cullman, Alabama, on Saturday, MyPillow CEO Mike Lindell predicted that Trump would be reinstated before the end of the year."
+    publishedDateTime: 2021-08-23T02:23:00Z
+    webUrl: "https://www.ibtimes.com/trump-be-reinstated-president-2022-lindell-predicts-3278800"
+    ampWebUrl: "https://www.ibtimes.com/trump-be-reinstated-president-2022-lindell-predicts-3278800?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-be-reinstated-president-2022-lindell-predicts-3278800?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/29/mike-lindell.jpg"
+        width: 1024
+        height: 670
         isCached: true
   - title: "Trump-fueled election ‘audit’ sparks Senate GOP turmoil"
     excerpt: "The top Republican in the Pennsylvania Senate says he’s putting a different senator in charge of an “election integrity” undertaking and removing a senator who had aimed to carry out an Arizona-style “forensic investigation” of Pennsylvania’s 2020 presidential election."
@@ -90,83 +138,63 @@ related:
       name: The Bellingham Herald
       domain: bellinghamherald.com
     quality: 70
-  - title: "Trump’s Taliban deal complicates message for GOP contenders | Charlotte Observer"
-    excerpt: "The chaotic U.S. withdrawal from Afghanistan may haunt President Joe Biden, but it could also hang over some of the Republicans who will seek to replace him in 2024."
-    publishedDateTime: 2021-08-24T09:00:00Z
-    webUrl: "https://www.charlotteobserver.com/news/politics-government/article253683123.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article253683123.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article253683123.html"
+  - title: "Judge sanctions pro-Trump lawyers who brought ‘frivolous’ election fraud lawsuits"
+    excerpt: "By Tierney Sneed, CNN A federal judge ordered sanctions Wednesday for Sidney Powell, Lin Wood and several other lawyers who worked on Trump-aligned lawsuits seeking to challenge the results of the 2020 election."
+    publishedDateTime: 2021-08-26T03:55:00Z
+    webUrl: "https://localnews8.com/politics/cnn-us-politics/2021/08/25/judge-sanctions-pro-trump-lawyers-who-brought-frivolous-election-fraud-lawsuits/"
     type: article
     provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 70
+      name: Local News 8
+      domain: localnews8.com
+    quality: 65
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/346c4d4c-0ebe-4577-bdbf-21c5f8e914af/554385c1-d5d0-4f0c-9b03-7bab5722a707/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://localnews8.b-cdn.net/2021/06/Politics-logo-new_KIFIMIFI.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "GOP Senate candidates take page from Trump playbook as they fight for populist title"
-    excerpt: "Republicans in Ohio's Senate race are running on the message that propelled former President Donald Trump to office."
-    publishedDateTime: 2021-08-23T10:26:00Z
-    webUrl: "https://www.cincinnati.com/story/news/2021/08/22/ohio-senate-race-gop-candidates-fight-over-populist-lane/5499348001/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/5499348001"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5499348001"
+  - title: "Tiffany Trump Is the Only Adult Child of Donald Trump Not Being Investigated About January 6"
+    excerpt: "Capitol Hill. They have already made their list of people from the Trump administration whom they would like to speak to and there’s only one adult child from the Trump family who didn’t make the list: ."
+    publishedDateTime: 2021-08-27T13:16:00Z
+    webUrl: "https://www.sheknows.com/entertainment/articles/2482296/donald-trump-kids-january-6-investigation/"
+    ampWebUrl: "https://www.sheknows.com/entertainment/articles/2482296/donald-trump-kids-january-6-investigation/amp/"
+    cdnAmpWebUrl: "https://www-sheknows-com.cdn.ampproject.org/c/s/www.sheknows.com/entertainment/articles/2482296/donald-trump-kids-january-6-investigation/amp/"
     type: article
     provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 68
+      name: SheKnows
+      domain: sheknows.com
+    quality: 64
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/07/02/PCIN/912b9d7f-9050-4679-88f8-1b0a031b1914-070121JDVance_4.jpg?auto=webp&crop=3594,2022,x0,y184&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.sheknows.com/wp-content/uploads/2021/08/tiffany-trump-investigation.jpg?w=1024"
+        width: 1024
+        height: 768
         isCached: true
-  - title: "Joe Biden takes aim at states blocking mask mandates, setting Gov. Greg Abbott up for showdown with"
-    excerpt: "Texas Gov. Greg Abbott may soon be fighting a war on two fronts — with local officials and the federal government — to stave off mandatory COVID-19 prevention efforts after the Biden administration announced Wednesday it was going after states like Texas that try to ban universal masking at schools."
-    publishedDateTime: 2021-08-19T02:36:00Z
-    webUrl: "https://www.expressnews.com/news/local/article/Joe-Biden-takes-aim-at-states-blocking-mask-16396786.php"
-    ampWebUrl: "https://www.expressnews.com/news/local/amp/Joe-Biden-takes-aim-at-states-blocking-mask-16396786.php"
-    cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/local/amp/Joe-Biden-takes-aim-at-states-blocking-mask-16396786.php"
+  - title: "Robin Vos meets with Trump, vows to keep ex-president 'updated' on election investigation"
+    excerpt: "Assembly Speaker Robin Vos, the Racine County Republican who ordered the investigation into Wisconsin's 2020 election said he is going to be keeping the former president — who has not"
+    publishedDateTime: 2021-08-23T10:30:00Z
+    webUrl: "https://madison.com/news/local/govt-and-politics/robin-vos-meets-with-trump-vows-to-keep-ex-president-updated-on-election-investigation/article_55a5e748-aa3e-5c85-bbe6-e59bebcbed21.html"
     type: article
     provider:
-      name: San Antonio Express-News
-      domain: expressnews.com
+      name: Madison.com
+      domain: madison.com
     quality: 61
     images:
-      - url: "https://s.hdnux.com/photos/01/21/40/57/21367760/3/400x0.jpg"
-        width: 400
-        height: 266
-        isCached: true
-  - title: "Joe Biden takes aim at states blocking mask mandates, setting Gov. Greg Abbott up for showdown with feds"
-    excerpt: "Biden said he will use the U.S. Department of Education’s civil rights enforcement authority to deter states from blocking mask mandates in classrooms."
-    publishedDateTime: 2021-08-18T22:31:00Z
-    webUrl: "https://www.texastribune.org/2021/08/18/greg-abbott-joe-biden-texas-mask-mandates/"
-    ampWebUrl: "https://www.texastribune.org/2021/08/18/greg-abbott-joe-biden-texas-mask-mandates/amp/"
-    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/08/18/greg-abbott-joe-biden-texas-mask-mandates/amp/"
-    type: article
-    provider:
-      name: Texas Tribune
-      domain: texastribune.org
-    quality: 58
-    images:
-      - url: "https://thumbnails.texastribune.org/QCGScGkOdgn7z6M7CjbTbiaZvo4=/1200x630/filters:quality(95)/static.texastribune.org/media/files/0825c12ccde17a1e73e5eb5a698491d2/Biden%20COVID%20REUTERS%20TT.jpg"
-        width: 1200
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/5/5a/55a5e748-aa3e-5c85-bbe6-e59bebcbed21/61228f9939e4f.preview.jpg?crop=1904%2C1071%2C0%2C8&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
         height: 630
         isCached: true
-  - title: "Congressman who left GOP over Trump gives final message before death from cancer"
-    excerpt: "Before his death, former Rep. Paul Mitchell talked with CNN's Jake Tapper about his life and his parting message to the country."
-    publishedDateTime: 2021-08-23T02:03:00Z
-    webUrl: "https://www.kdrv.com/content/news/575151722.html"
+  - title: "Emmy Predictions: Directing for a Variety Series – John Oliver’s Take on Donald Trump and the Election Lead the Pack"
+    excerpt: "Following history, buzz, news, reviews and sources, the Emmy predictions are updated regularly with the current year's list of contenders in all categories. Variety's Awards Circuit Prediction schedule consists of four phases,"
+    publishedDateTime: 2021-08-19T22:16:00Z
+    webUrl: "https://www.imdb.com/news/ni63396099"
     type: article
     provider:
-      name: KDRV
-      domain: kdrv.com
-    quality: 50
+      name: IMDb
+      domain: imdb.com
+    quality: 47
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210822145959-paul-mitchell-tapper-vpx-live-video.jpg"
-        width: 1100
-        height: 619
+      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
+        width: 1000
+        height: 1000
         isCached: true
 
 secured: "lPq+xHehbpXC+b5z/oupmda0H6/bvAlcFwt700EO9PcOnNFAratM+JySN/8HQ82gjJqHwHbNNp8RA7GWgzT5AXhrVvwtXWZoAmBD+aY7EVmgsPD4LOYN9ja0Etq5pmb25k5hE/NcQDqQAx+R7TNfOG+A5XC+NlE+9g3NeZQrLZuAAwwwR1NspSaw2iNIWIky/MNn+/MlZEZy77nZ7VngTrzEetgMHwdDgNPhAvjuTtJ5kmXZZaxfQ4rUPS0veQGtLmOdMSH5cFWfpHpC8NRtqapxkaQ1IX4tHT/8TuwZ0WKhAwEKCY6WNY2FoT2OQ3okc74qi/ruqb179qNYb1xS64RQIVDPU2IcJ12uECPcm38=;8RGRKK055RIDVSf1xBi6Og=="

@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Rep. Lauren Boebert: Slain Wyoming Marine’s ‘blood is on Joe Biden’s hands’"
-    excerpt: "Rep. Lauren Boebert, Colorado Republican, lashed out Friday at President Biden after she spoke to a Colorado mother whose son was among the Marines killed in Afghanistan on Thursday, saying that “his blood is on Joe Biden’s hands."
-    publishedDateTime: 2021-08-28T01:50:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/aug/27/rep-boebert-slain-wyoming-marines-blood-joe-bidens/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/27/rep-boebert-slain-wyoming-marines-blood-joe-bidens/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/27/rep-boebert-slain-wyoming-marines-blood-joe-bidens/"
+  - title: "Joe Biden’s future looks bleak – he’s shamed and endangered the West"
+    excerpt: "A broken man THE charge sheet against Joe Biden grows by the day. It’s not just that his reckless, casual disregard for Afghanistan and its ­people led directly to the suicide bomb slaughter of 13"
+    publishedDateTime: 2021-08-28T01:58:00Z
+    webUrl: "https://www.the-sun.com/news/3555473/joe-biden-shamed-endangered-west/"
+    ampWebUrl: "https://www.the-sun.com/news/3555473/joe-biden-shamed-endangered-west/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3555473/joe-biden-shamed-endangered-west/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 75
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/NINTCHDBPICT000675572319-1-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Biden’s lack of leadership has set the stage for another Tehran ‘79Biden’s lack of leadership has set the stage for another Tehran ‘79"
+    excerpt: "Remember when President Joe Biden went on national television and said the Afghanistan troop withdrawal would be nothing like Saigon?"
+    publishedDateTime: 2021-08-26T19:49:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/aug/26/bidens-lack-of-leadership-has-set-the-stage-for-an/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/26/bidens-lack-of-leadership-has-set-the-stage-for-an/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/26/bidens-lack-of-leadership-has-set-the-stage-for-an/"
     type: article
     provider:
       name: Washington Times
       domain: washingtontimes.com
-    quality: 73
+    quality: 43
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/08/18/Lauren_Boebert_Financial_Disclosure_87587.jpg-a436a_c0-237-5689-3555_s1200x700.jpg?fd67fa685ec1ecfd5e27212a5fbb04f75801d75b"
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/08/26/B3-WAGN-Biden-Terro_c0-404-1210-1109_s1200x700.jpg?6a44db869a503535e769220c2c37f220f95f195d"
         width: 1200
         height: 700
         isCached: true

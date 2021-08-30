@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "House panel probing 1/6 riot seeks host of Trump-era records"
-    excerpt: "U.S. Capitol Police officers who were attacked and beaten during the Capitol riot are suing former President Donald Trump, his allies and members of far-right extremist groups."
-    publishedDateTime: 2021-08-26T07:20:00Z
-    webUrl: "https://www.bradenton.com/news/politics-government/national-politics/article253752163.html"
-    ampWebUrl: "https://amp.bradenton.com/news/politics-government/national-politics/article253752163.html"
-    cdnAmpWebUrl: "https://amp-bradenton-com.cdn.ampproject.org/c/s/amp.bradenton.com/news/politics-government/national-politics/article253752163.html"
-    type: article
-    provider:
-      name: Bradenton Herald
-      domain: bradenton.com
-    quality: 75
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/7f1caafa-aea1-49ad-bc9f-e3322fb2825c/af216152-128c-45c0-b0b0-8fff6b46b17c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "61m1Dc7RObLrkdbZr+YQC3ICpWEas1e82NPSLXTuH7p7zbW1NPMKmVASXMsrDqmSCZRMPgqYZtMvGEwrLMFaqcoyEnwyh0eRCbse+NHeualstN1lVBnEnBRvoRMYEQ4FKnAmShgEQQ7vX7vKgbQ7ICavTri90Z99MNgMpkRr0lJ4OJyXhfQD7eKLSibe4fZtXqa3dQ6QCEXJwYlNFdLFShandCpKQqAFm20xhTjrEknsitT432xoDOy6Xrd2kmwdXbrE8ZcS5wghnOqSv2NAdgT7NyvTDGcjOnQjDZHxNXJgctrbfvvU0l2nDFiiYvpSl4z3tQol8/Ds7OJ5SFr1kw7SHLL5DmJ4gmzH4o2/V6WoapnZnX+YpJSTW5JMKTGpqzAHw5g+lZ1xALWB1XA5fQmXkEsLwTz+IDsBZRi48xyPrxi3CCqzOadgP7E951QNH+Fxcs6AeYKyr0thIMmY8/od+YQ9ehIYSAqfJq9BtmWvqQmsWJh7M7URTiTkwvNMOrMMtf4D38CipTB8TnW0JQ==;oC5EePqW7OLwJTgl8SgSaw=="
 ---

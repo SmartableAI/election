@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6092540/naftali-bennett-joe-biden/"
 webUrl: "https://time.com/6092540/naftali-bennett-joe-biden/"
 type: article
 quality: 101
-heat: 161
+heat: 181
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       name: Courthouse News Service
       domain: courthousenews.com
     quality: 55
+  - title: "Israel holds its tongue over Joe Biden’s deal with Iran"
+    excerpt: "Israel’s new prime minister has told President Biden he will not publicly oppose the US rejoining a deal with Iran over its nuclear ambitions, reversing a long"
+    publishedDateTime: 2021-08-29T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/israel-holds-its-tongue-over-joe-bidens-deal-with-iran-pplsnkjpx"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 55
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F2a584ea0-08ed-11ec-9503-f24d9e0411ae.jpg?crop=4767%2C2682%2C382%2C184&resize=685"
+        width: 685
+        height: 385
+        isCached: true
 
 secured: "fubzT2gRgLxH/zBTt14ge6bQzcZCHh1poDANjgvn84hUmEexMoFlwHeMmGuAlRTqyYOz8T/Ya6/akK2PQawNdxWxGl3VG3QXVDI02QE8/vdmkqn1VBuZ2X0hpPz2TXS129DPggzOGazosxztUmlakibdPtA2xy8KDe7fHa1TK0+35HTAkilpN8zvtWSc83rAtSKwbn0RoS5mf5hB/yZCkSn/gSHZZ5Zm/xNQdm8zXqaKqFKSkh/kSJS5FNpO5ADYmCjN/NRvoHnFnT2rqCjUd5wo7bhQBXnDUIOP6qxiSvmcN//glDkHS3CxpV3FOcwuEn8rL36/uI3jTvc1kXAvgSy+8BS0MnOuqUI0atyaZlRcWdbYSCl0rK3gBb9QTYlk5iVMsxXztrqvM4VuaE63nzYzjY/qfvpWb/cDIoOpjYoaMCPWbmDviT9KIfedcGTnrNha0gNaT6WaHEI2iiUu3pigm2BFpd5bXtYclXOPaN3FzQK+uXjrIMeeUY0llFN0kTw++6VLQO6CR0yr9p4z+A==;wKYD+pTnBAqUkbVwLfXnQw=="
 ---

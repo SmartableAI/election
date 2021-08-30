@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/24/politics/biden-supreme-court/inde
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/24/politics/biden-supreme-court/index.html"
 type: article
 quality: 187
-heat: 487
+heat: 507
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928092023-03-trump-biden-split--super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "How the White House and Democrats hope to survive Biden's political bruises "
+    excerpt: "President Joe Biden was likely to lose Democratic control of Congress before last week's carnage in Afghanistan. That's more likely now.\n    \n"
+    publishedDateTime: 2021-08-29T21:37:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UMytEgp4LzQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/29/politics/white-house-democrats-political-damage-afghanistan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/29/politics/white-house-democrats-political-damage-afghanistan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704190844-white-house-exterior-0703-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

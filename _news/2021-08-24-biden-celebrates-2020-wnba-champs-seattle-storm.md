@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden praises WNBA champs for social justice activism"
-    excerpt: "The visit marked the first time that an NBA or WNBA team has visited the White House since the Cleveland Cavaliers were feted by Barack Obama in 2016."
-    publishedDateTime: 2021-08-24T00:19:00Z
-    webUrl: "https://www.tampabay.com/sports/2021/08/23/joe-biden-praises-wnba-champs-for-social-justice-activism/"
-    ampWebUrl: "https://www.tampabay.com/sports/2021/08/23/joe-biden-praises-wnba-champs-for-social-justice-activism/?outputType=amp"
-    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/sports/2021/08/23/joe-biden-praises-wnba-champs-for-social-justice-activism/?outputType=amp"
-    type: article
-    provider:
-      name: Tampa Bay Times
-      domain: tampabay.com
-    quality: 75
-    images:
-      - url: "https://www.tampabay.com/resizer/H3idYXdZk6JBiyKwaxGXggjk8_8=/800x450/filters:focal(2065x1285:2075x1275)/cloudfront-us-east-1.images.arcpublishing.com/tbt/EPAHJMPR7OBARKIDWG2FATIR2Q.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Joe Biden’s future looks bleak – he’s shamed and endangered the West"
-    excerpt: "A broken man THE charge sheet against Joe Biden grows by the day. It’s not just that his reckless, casual disregard for Afghanistan and its ­people led directly to the suicide bomb slaughter of 13"
-    publishedDateTime: 2021-08-28T01:58:00Z
-    webUrl: "https://www.the-sun.com/news/3555473/joe-biden-shamed-endangered-west/"
-    ampWebUrl: "https://www.the-sun.com/news/3555473/joe-biden-shamed-endangered-west/amp/"
-    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3555473/joe-biden-shamed-endangered-west/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: the-sun.com
-    quality: 75
-    images:
-      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/NINTCHDBPICT000675572319-1-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Seattle Storm visit President Biden, White House to celebrate 2020 WNBA title"
     excerpt: "The Storm became the first women’s team welcomed by President Biden and the first WNBA squad at the White House since the 2015 Minnesota Lynx."
     publishedDateTime: 2021-08-23T21:44:00Z
@@ -73,21 +41,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tom Rice, other politicians seek President Joe Biden’s ouster | Charlotte Observer"
-    excerpt: "Another local politician called on Biden to appoint former President Donald Trump to a position where he could oversee the rest of America’s withdrawal from Afghanistan. South Carolina Congressman Tom Rice (R-Myrtle Beach) called on President Joe Biden to resign over his “haphazard withdrawal” from Afghanistan that he blamed for the terrorist attack in Kabul."
-    publishedDateTime: 2021-08-27T04:54:00Z
-    webUrl: "https://www.charlotteobserver.com/news/state/south-carolina/article253769648.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/state/south-carolina/article253769648.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/state/south-carolina/article253769648.html"
+  - title: "Apple CEO Tim Cook to Meet With U.S. President Joe Biden to Discuss Cybersecurity"
+    excerpt: "Apple CEO Tim Cook is set to join other tech executives in a cybersecurity meeting with U.S. President Joe Biden next week, reports Bloomberg."
+    publishedDateTime: 2021-08-23T23:16:00Z
+    webUrl: "https://www.macrumors.com/2021/08/23/tim-cook-joe-biden-cybersecurity-meeting/"
+    ampWebUrl: "https://www.macrumors.com/2021/08/23/tim-cook-joe-biden-cybersecurity-meeting/amp/"
+    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/08/23/tim-cook-joe-biden-cybersecurity-meeting/amp/"
     type: article
     provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 69
+      name: MacRumors
+      domain: macrumors.com
+    quality: 70
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/7f1caafa-aea1-49ad-bc9f-e3322fb2825c/af216152-128c-45c0-b0b0-8fff6b46b17c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://images.macrumors.com/t/IDpC4PrZIv4mNWa0wPO2j5dgr0U=/1600x/http://images.macrumors.com/article-new/2019/02/timcooktulane.jpg"
+        width: 1600
+        height: 1200
         isCached: true
   - title: "WNBA News: What Joe Biden Said About Champion Seattle Storm In Their White House Visit"
     excerpt: "The Seattle Storm visited President Joe Biden at the White House on Monday to celebrate their 2020 WNBA championship. Seattle defeated the Las Vegas Aces in a 3-game sweep, giving the organization their fourth championship title in their history."
@@ -119,29 +87,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Biden praises WNBA champs for social justice activism"
-    excerpt: "President Joe Biden honored the 2020 WNBA champions Seattle Storm on Monday, celebrating their success on the court and hailing the four-time title holders for changing lives with"
-    publishedDateTime: 2021-08-24T13:26:00Z
-    webUrl: "https://www.phillytrib.com/sports/biden-praises-wnba-champs-for-social-justice-activism/article_a4098845-3c9c-5182-ba4a-4f5a594da7bc.html"
-    type: article
-    provider:
-      name: Philadelphia Tribune
-      domain: phillytrib.com
-    quality: 55
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/assets/v3/editorial/5/5f/55fd9673-7d2d-5b10-a2e3-90069a1434d2/6124f3e31a6b5.image.jpg?crop=834%2C439%2C79%2C26&resize=400%2C211&order=crop%2Cresize"
-        width: 400
-        height: 211
-        isCached: true
-  - title: "Biden Agrees With Pentagon Recommendation to Stick to Aug 31 Afghan Pullout Deadline – Source"
-    excerpt: "WASHINGTON (Reuters) - President Joe Biden has agreed with a Pentagon recommendation to stick with the Aug. 31 Afghanistan withdrawal deadline, an administration official told Reuters on Tuesday. The Pentagon recommendation was made on Monday based on ..."
-    publishedDateTime: 2021-08-24T15:36:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2021-08-24/biden-agrees-with-pentagon-recommendation-to-stick-to-aug-31-afghan-pullout-deadline-source"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 24
 
 secured: "iEom21BcTHkTC4fWl/nt1IpQK0UMxPw1oh8Y2Z+hFG2d2BYaNv9NqaEmKF2pWfeXC69g22+mvv43R8eqt0Bm++F5FEmc2pRCxwJfYyyW9AWShFaWMzKbgzzqEJf3CKbPBeY/ZMioZtMp3MdUYxFjHet4+fDvVqZZaCYAma4tIJg6vTr6P7LIZgw41YTJ34eZjmqnOsQXDbT1nc445vge9OyZmH5GG4Pv41iZWjlZ8XLJDOVhZM1IKCpCEQ87EmTu5nXFw3Qkk5erZsOs63fObvigAc1g0gQ2m6f0hl4d6Ofijgzvh/ilnxWpTsxdt/EVLmZ6FLdnz/mi3njbyvk7ORl9zMIUwncq0AJRcIQheu8=;L+qszr3Wv37wAMeNJdhPrQ=="
 ---

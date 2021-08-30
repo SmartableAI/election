@@ -103,6 +103,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe McCarthy was never defeated — and Donald Trump now leads the movement he created"
+    excerpt: "This was more than a little ironic for abundant reasons, especially given that as a younger man, Donald Trump had been mentored by the infamous Roy Cohn, Joe McCarthy's right-hand man, Roy Cohn. Stone tried to salvage that one too, arguing, \"Whether I ..."
+    publishedDateTime: 2021-08-29T10:00:00Z
+    webUrl: "https://www.salon.com/2021/08/29/joe-mccarthy-was-never-defeated--and-donald-trump-now-leads-the-movement-he-created/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 48
+    images:
+      - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2021/08/joe-mccarthy-donald-trump-joe-biden-0827211.jpg"
+        width: 1200
+        height: 810
+        isCached: true
 
 secured: "HhqtWJrT2zfTKaH2lUNcHsBeygLUXL/C6Ig6w3VSp1Io4DLnn0sLX7uT5OB82dlb/4DPavN8KPH3DANXqur2FuIfZSyqfiA4B9ubHrv99x1lo/jswBTGEpUVZ88gzTzXGcuyKpSNBBeDwQEl4soS7sCiAKMHN+AJikJsUBWdj6v5cuJvRbnrTbJuDat8dOrPwPgcClKlZtexA6/vRMX87cl0eupIb/M5060p+3sdVYDbl/+GJutfN55MoP/zzS3/tlDhnMOiKgjnpoEmNJZoTWcx0ybUiZsbWg7M6UVOFXcErem4yf8amRH/L0jg/+dnhZQl6I8MDiqZC1vmoL4cWYNAjk2RzfxpYEa0oDbPtsk=;L47Asy7WClACltRe3FwViQ=="
 ---

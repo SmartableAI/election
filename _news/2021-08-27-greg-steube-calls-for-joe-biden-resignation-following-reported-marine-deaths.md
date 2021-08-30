@@ -25,95 +25,178 @@ images:
     isCached: true
 
 related:
-  - title: "Marjorie Taylor Greene Launches Foul-Mouthed Broadside at Joe Biden in Video"
-    excerpt: "Representative Marjorie Taylor Greene harshly criticized President Joe Biden in a video on Wednesday over the situation in Afghanistan and the COVID-19 pandemic. Greene, a Republican who represents Georgia's 14th congressional district,"
-    publishedDateTime: 2021-08-19T13:23:00Z
-    webUrl: "https://www.newsweek.com/marjorie-taylor-greene-foul-mouthed-broadside-joe-biden-video-1620960"
-    ampWebUrl: "https://www.newsweek.com/marjorie-taylor-greene-foul-mouthed-broadside-joe-biden-video-1620960?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/marjorie-taylor-greene-foul-mouthed-broadside-joe-biden-video-1620960?amp=1"
+  - title: "Lindsey Graham repeats impeachment call for former friend Joe Biden"
+    excerpt: "Republican accuses president, who reportedly rebuffed his attempt to explain support for Trump, of ignoring advice on Afghanistan"
+    publishedDateTime: 2021-08-29T16:38:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/aug/29/lindsey-graham-impeachment-call-joe-biden-afghanistan"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/29/lindsey-graham-impeachment-call-joe-biden-afghanistan"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/29/lindsey-graham-impeachment-call-joe-biden-afghanistan"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 122
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1874692/marjorie-taylor-greene-holds-press-conference.jpg"
-        width: 2500
-        height: 1664
+      - url: "https://i.guim.co.uk/img/media/c179f21a5b99ff34b46423da1d81ad5fdc95e9d5/0_400_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=257ba2b47f7c59f920a4f825abf8d840"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Biden admin backs Texas, Florida districts on mask mandates"
-    excerpt: "President Joe Biden’s administration is offering its full-throated support for local cities and school boards in Texas and Florida that are defying orders by their Republican governors that prohibit m"
-    publishedDateTime: 2021-08-14T05:37:00Z
-    webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-13/biden-admin-backs-texas-florida-districts-on-mask-mandates"
-    ampWebUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-13/biden-admin-backs-texas-florida-districts-on-mask-mandates?_amp=true"
-    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2021-08-13/biden-admin-backs-texas-florida-districts-on-mask-mandates?_amp=true"
+  - title: "Former Ohio lawmaker with doubts about Joe Biden's win wants to run Ohio elections"
+    excerpt: "Former state lawmaker John Adams announced he is challenging incumbent Frank LaRose for Ohio Secretary of State in the GOP primary next year."
+    publishedDateTime: 2021-08-23T16:44:00Z
+    webUrl: "https://www.cincinnati.com/story/news/2021/08/23/gop-primary-john-adams-running-against-ohio-secretary-state-larose/8242596002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/8242596002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/8242596002"
     type: article
     provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 84
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/04/NCOD/5d5586f1-aa5b-4b35-8297-a63caa3f4baf-IMG_Mid_Day_Voting_Photo_1_1_CQTQHED8_L1677394643.JPG?auto=webp&crop=1999,1125,x0,y101&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Joe Biden praises WNBA champs for social justice activism"
+    excerpt: "The visit marked the first time that an NBA or WNBA team has visited the White House since the Cleveland Cavaliers were feted by Barack Obama in 2016."
+    publishedDateTime: 2021-08-24T00:19:00Z
+    webUrl: "https://www.tampabay.com/sports/2021/08/23/joe-biden-praises-wnba-champs-for-social-justice-activism/"
+    ampWebUrl: "https://www.tampabay.com/sports/2021/08/23/joe-biden-praises-wnba-champs-for-social-justice-activism/?outputType=amp"
+    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/sports/2021/08/23/joe-biden-praises-wnba-champs-for-social-justice-activism/?outputType=amp"
+    type: article
+    provider:
+      name: Tampa Bay Times
+      domain: tampabay.com
     quality: 75
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/399e1a4/2147483647/strip/true/crop/3648x2440+0+148/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa3%2F6d%2Fd6fe6349dcfb4bad22a3bbbcdffc%2F18cf34c5ce1143509d2ae694f42f956b"
-        width: 320
-        height: 214
+      - url: "https://www.tampabay.com/resizer/H3idYXdZk6JBiyKwaxGXggjk8_8=/800x450/filters:focal(2065x1285:2075x1275)/cloudfront-us-east-1.images.arcpublishing.com/tbt/EPAHJMPR7OBARKIDWG2FATIR2Q.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "Congresswoman introduces three impeachment resolutions against Pres. Joe Biden"
-    excerpt: "Congresswoman Marjorie Taylor Greene (R-Ga.) announced on her Twitter page late Friday that she introduced three impeachment resolutions against President Joe"
-    publishedDateTime: 2021-08-21T18:15:00Z
-    webUrl: "https://www.wtrf.com/top-stories/congresswoman-introduces-three-impeachment-resolutions-against-pres-joe-biden/"
-    ampWebUrl: "https://www.wtrf.com/top-stories/congresswoman-introduces-three-impeachment-resolutions-against-pres-joe-biden/amp/"
-    cdnAmpWebUrl: "https://www-wtrf-com.cdn.ampproject.org/c/s/www.wtrf.com/top-stories/congresswoman-introduces-three-impeachment-resolutions-against-pres-joe-biden/amp/"
+  - title: "Joe Biden in the ‘Loneliest Job,' a Presidency Driven by Crisis"
+    excerpt: "Surrounded by everything a superpower can offer and watched by all, President Joe Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan and tried to keep the focus on what,"
+    publishedDateTime: 2021-08-28T22:12:00Z
+    webUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
     type: article
     provider:
-      name: WTRF.com
-      domain: wtrf.com
-    quality: 71
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 75
     images:
-      - url: "https://www.wtrf.com/wp-content/uploads/sites/25/2021/08/bd483aca5c3c480d97abdfd04d09172c.jpg?w=1280"
-        width: 1280
-        height: 853
+      - url: "https://media.nbcnewyork.com/2021/08/GettyImages-1234886272.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Biden to increase food stamp benefits by largest margin in program’s history"
-    excerpt: "Average food stamp benefits in October will go up by more than 25 percent from pre-pandemic levels for the 42 million people in the program."
-    publishedDateTime: 2021-08-15T19:04:00Z
-    webUrl: "https://www.bostonglobe.com/2021/08/15/nation/biden-increase-food-stamp-benefits-by-largest-margin-programs-history/"
-    ampWebUrl: "https://www.bostonglobe.com/2021/08/15/nation/biden-increase-food-stamp-benefits-by-largest-margin-programs-history/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/08/15/nation/biden-increase-food-stamp-benefits-by-largest-margin-programs-history/?outputType=amp"
+  - title: "Joe Biden FORGETS Megan Rapinoe's name, slammed for calling her 'America's best'"
+    excerpt: "Joe Biden's recent praise for Megan Rapinoe accompanied an awkward fumbling as the president forgot her last name"
+    publishedDateTime: 2021-08-25T10:30:00Z
+    webUrl: "https://meaww.com/joe-biden-forget-megan-rapinoe-name-represent-america-best-internet-furious-losers-reactions"
+    ampWebUrl: "https://meaww.com/amp/joe-biden-forget-megan-rapinoe-name-represent-america-best-internet-furious-losers-reactions"
+    cdnAmpWebUrl: "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/joe-biden-forget-megan-rapinoe-name-represent-america-best-internet-furious-losers-reactions"
+    type: article
+    provider:
+      name: Meaww
+      domain: meaww.com
+    quality: 70
+    images:
+      - url: "https://cheesecake.articleassets.meaww.com/546311/uploads/18a4f6a0-058b-11ec-bd95-db89c1205176_800_420.png"
+        width: 800
+        height: 420
+        isCached: true
+  - title: "Biden praises WNBA champs for social justice activism"
+    excerpt: "President Joe Biden honored the 2020 WNBA champions Seattle Storm on Monday, celebrating their success on the court and hailing the four-time title holders for changing lives with"
+    publishedDateTime: 2021-08-24T13:26:00Z
+    webUrl: "https://www.phillytrib.com/sports/biden-praises-wnba-champs-for-social-justice-activism/article_a4098845-3c9c-5182-ba4a-4f5a594da7bc.html"
+    type: article
+    provider:
+      name: Philadelphia Tribune
+      domain: phillytrib.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/assets/v3/editorial/5/5f/55fd9673-7d2d-5b10-a2e3-90069a1434d2/6124f3e31a6b5.image.jpg?crop=834%2C439%2C79%2C26&resize=400%2C211&order=crop%2Cresize"
+        width: 400
+        height: 211
+        isCached: true
+  - title: "Republicans point fingers at Biden moments after Kabul blasts"
+    excerpt: "By Melanie Zanona, Jeremy Herb and Alex Rogers, CNN Republicans in Congress quickly escalated their criticism of President Joe Biden’s withdrawal of US troops from Afghanistan after two explosions outside Kabul’s airport on Thursday caused the first American casualties since the mass evacuation began."
+    publishedDateTime: 2021-08-26T23:40:00Z
+    webUrl: "https://localnews8.com/politics/cnn-us-politics/2021/08/26/house-republicans-point-fingers-at-biden-moments-after-kabul-blasts/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 55
+    images:
+      - url: "https://localnews8.b-cdn.net/2021/06/Politics-logo-new_KIFIMIFI.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Ashley Moody demands border control assurance from Joe Biden"
+    excerpt: "Attorney General Ashley Moody was among 20 Republican AGs signing on to a letter demanding federal assurances of tighter immigration policy. The letter to U.S. Attorney General Merrick Garland followed a favorable ruling in the U."
+    publishedDateTime: 2021-08-27T17:04:00Z
+    webUrl: "https://floridapolitics.com/archives/453563-moody-border/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/05/Ashley-Moody-scaled.jpg"
+        width: 2560
+        height: 1920
+        isCached: true
+  - title: "Biden in the ‘loneliest job,’ a presidency driven by crisis"
+    excerpt: "Surrounded by everything a superpower can offer and watched by all, President Joe Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan and tried to keep the focus on what,"
+    publishedDateTime: 2021-08-28T12:52:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/biden-in-the-loneliest-job-a-presidency-driven-by-crisis/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/biden-in-the-loneliest-job-a-presidency-driven-by-crisis/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/biden-in-the-loneliest-job-a-presidency-driven-by-crisis/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
+  - title: "Greg Steube calls for Joe Biden resignation after reported Marine deaths"
+    excerpt: "Greg Steube called for President Joe Biden’s resignation after the reported death of four Marines in Kabul. “Horrific,” Steube tweeted. “Joe Biden needs to take"
+    publishedDateTime: 2021-08-26T18:13:00Z
+    webUrl: "https://floridapolitics.com/archives/453349-greg-steube-calls-for-joe-biden-resignation-following-reported-marine-deaths/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 54
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/06/Steube.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Ashley Moody demands border control assurance from Joe Biden administration"
+    excerpt: "The letter, per a release from Moody’s office, seeks “to ensure the Biden administration will faithfully defend a long-standing federal immigration statute that prohibits illegal re-entry to the U.S."
+    publishedDateTime: 2021-08-27T17:08:00Z
+    webUrl: "https://floridapolitics.com/archives/453563-moody-border/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 53
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/05/Ashley-Moody-scaled.jpg"
+        width: 2560
+        height: 1920
+        isCached: true
+  - title: "For Biden’s presidency has been driven by crisis and is the ‘loneliest job’"
+    excerpt: "President Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan, even as he and the nation continued to battle the COVID-19 pandemic."
+    publishedDateTime: 2021-08-28T13:24:00Z
+    webUrl: "https://www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/?outputType=amp"
     type: article
     provider:
       name: The Boston Globe
       domain: bostonglobe.com
-    quality: 52
-  - title: "Rep Marjorie Taylor Greene filing articles of impeachment against President Joe Biden and calls him a ‘pathetic puppet’"
-    excerpt: "GOP Rep. Marjorie Taylor Greene announced she will file articles of impeachment against President Biden during an America First rally in Des Moines Thursday night. Greene said at the rally:"
-    publishedDateTime: 2021-08-20T04:57:00Z
-    webUrl: "https://www.the-sun.com/news/3507321/rep-marjorie-taylor-greene-articles-impeachment-president-joe-biden/"
-    ampWebUrl: "https://www.the-sun.com/news/3507321/rep-marjorie-taylor-greene-articles-impeachment-president-joe-biden/amp/"
-    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3507321/rep-marjorie-taylor-greene-articles-impeachment-president-joe-biden/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: the-sun.com
-    quality: 51
-    images:
-      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/BB-MTG-IMPEACH-COMP-V2.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Herschel Walker builds a campaign team with deep financial ties to Marjorie Taylor Greene, Donald Trump"
-    excerpt: "Former National Football League star Herschel Walker announced Tuesday he’d run for Georgia Senate to unseat freshman Sen. Raphael Warnock (D-Ga.). Walker already has the endorsement of former President Donald Trump,"
-    publishedDateTime: 2021-08-26T19:54:00Z
-    webUrl: "https://www.opensecrets.org/news/2021/08/herschel-walker-builds-campaign-team-with-deep-ties-to-marjorie-taylor-greene-donald-trump/"
-    type: article
-    provider:
-      name: OpenSecrets.org
-      domain: opensecrets.org
-    quality: 39
-    images:
-      - url: "https://cdn1.opensecrets.org/news/wp-content/uploads/2021/08/26130505/GettyImages-1228710277-e1629997521246.jpg"
-        width: 720
-        height: 480
-        isCached: true
+    quality: 53
 
 secured: "B81RWv6hca3gAw6D57YLELIADU1LirerudAMSuMYfXbuh2lwzFmkRFqRNl6R/tJwL6Qy4scD3932YKzj2Vf9KUPm5zQU3QoF5YsEOr6YcBw6d/9lLqf91hX7ijzjYJS5+W3ekJLfy3qMfCltfKt1artBfhjM8A0eE2MjFtpB0xRAJFbxsc4jDd5JTdMsDAdMAlmNehaOQFm9d1oXKbDyN3OPguHItaw3yYwSjaVLoVjePC24sSJMjQv8fiJpQOcKSAKMmpjWD06H7IkyWUmeiCO7zNHXo20/iHtByO3aCLm5psXuYqLbU5ib8jDerWSa4KqCrUfa0DDtJ9xDQOvQPvGXXl6sWhD8894pI0ut6JtqIlST4JF0c6kHqlqtpGS8cP9sNCTOIqRFu8NX5xhStTcrHSesRRt91EPayEaSf0/DFobNf2j0MJWV9+gumYQzdpHsYDARoBh0GaClcZ1oYSIO7zI0ul48iYZ7+EgU5lgj7B/yGOGA6wowDFPSCaOgQVx0l8tL8nShUc1JciHh1w==;ZkOX1tz+Y6cRGrPVE8DKEg=="
 ---

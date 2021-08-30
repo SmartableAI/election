@@ -27,21 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden seeks diplomacy with Iran on nuclear deal, but open to 'other options'"
-    excerpt: "President Joe Biden on Friday said the United States will try diplomacy to keep Iran from obtaining nuclear weapons, but will use \"other options\" if necessary."
-    publishedDateTime: 2021-08-27T18:31:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/"
+  - title: "Joe Biden’s future looks bleak – he’s shamed and endangered the West"
+    excerpt: "A broken man THE charge sheet against Joe Biden grows by the day. It’s not just that his reckless, casual disregard for Afghanistan and its ­people led directly to the suicide bomb slaughter of 13"
+    publishedDateTime: 2021-08-28T01:58:00Z
+    webUrl: "https://www.the-sun.com/news/3555473/joe-biden-shamed-endangered-west/"
+    ampWebUrl: "https://www.the-sun.com/news/3555473/joe-biden-shamed-endangered-west/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3555473/joe-biden-shamed-endangered-west/amp/"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 70
+      name: The Sun
+      domain: the-sun.com
+    quality: 75
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/3931630085407/2021/1/5a644c6dc5548efdc6df8cce0f83b200/v1.5/Joe-Biden-seeks-diplomacy-with-Iran-on-nuclear-deal-but-open-to-other-options.jpg"
-        width: 800
-        height: 532
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/NINTCHDBPICT000675572319-1-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Rep. Boebert: 'There is Blood on Joe Biden's Hands'"
+    excerpt: "In the wake of the bombing at the Kabul airport in Afghanistan that killed at least 12 U.S. Marines and an unconfirmed number of civilians, House Rep. Lauren Boebert (R-Colo.) said President Joe Biden has blood on his hands for failing to competently plan and execute the withdrawal from Afghanistan."
+    publishedDateTime: 2021-08-26T17:39:00Z
+    webUrl: "https://www.cnsnews.com/article/washington/michael-w-chapman/rep-boebert-there-blood-joe-bidens-hands"
+    type: article
+    provider:
+      name: CNSNews.com
+      domain: cnsnews.com
+    quality: 55
+    images:
+      - url: "https://cdn.cnsnews.com/styles/article_big/s3/2021-08/green%2C%20mark%20%20%2045.jpg"
+        width: 700
+        height: 466
         isCached: true
 
 secured: "4Vy8v9JJNAoFwEJpfPCXnle6Ji1r0Jz3bv1sr/jjot3VDuXa7N18Wc2xFFhuERXdsSl+02nJikhZLCeqcmWruJZxGU++nk9+jirUubYC8mtyYgLLRXPOanXCef5WRQIs7uygYg75ZzN8nOL9Nty9UzQBRq0djGS547nOcc1+TYl+IQV3S8J6v5cUYEyTlzvQU3y3bC5sy7XDzTWgt1Q2dD/r5Gd/4iYTb/yPoWNwYyr+OSL+NYMZvd0X3x4rwGVh1LXDFc5KIgATHa9sLn7RvP+I60oMfxuTCuZ/4WJ89tvLSiOkd+dGHGZMiGVciaHQ0L970rZwXilIFl+gt0IFvFOAw26zVZcynTV6GS5z6o8=;jYEdYePhRdmVCQb/1jQ0Bw=="

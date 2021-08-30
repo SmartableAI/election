@@ -241,6 +241,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Attorney General Merrick Garland, don't prosecute Donald Trump"
+    excerpt: "He pressured his acting attorney general, Jeffrey Rosen, to open an investigation of purported fraud in the vote count in Georgia, even though there was no evidence of such wrongdoing. In one call, Trump apparently directed Rosen to \"just say the election was corrupt,"
+    publishedDateTime: 2021-08-16T19:00:00Z
+    webUrl: "https://www.wthitv.com/content/national/575107882.html"
+    ampWebUrl: "http://www.wthitv.com/templates/AMP?contentID=575107882"
+    cdnAmpWebUrl: "https://www-wthitv-com.cdn.ampproject.org/c/www.wthitv.com/templates/AMP?contentID=575107882"
+    type: article
+    provider:
+      name: WTHI-TV
+      domain: wthitv.com
+    quality: 75
+    images:
+      - url: "http://media.heartlandtv.com/designimages/wthi-story-default-image-640x380.png"
+        width: 640
+        height: 380
+        isCached: true
   - title: "Manhattan DA charges Ken Kurson months after being pardoned by Trump"
     excerpt: "Kenneth Kurson, the former editor of the New York Observer, was charged by New York State prosecutors with spying on his former wife, months after being pardoned by then-outgoing President Donald Trump."
     publishedDateTime: 2021-08-19T05:45:00Z
@@ -476,15 +492,6 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 35
-  - title: "Attorney General Merrick Garland, don't prosecute Donald Trump"
-    excerpt: "He pressured his acting attorney general, Jeffrey Rosen, to open an investigation of purported fraud in the vote count in Georgia, even though there was no evidence of such wrongdoing. In one call, Trump apparently directed Rosen to \"just say the election was corrupt,"
-    publishedDateTime: 2021-08-16T23:46:00Z
-    webUrl: "https://www.kake.com/story/44531682/attorney-general-merrick-garland-dont-prosecute-donald-trump"
-    type: article
-    provider:
-      name: KAKE.com
-      domain: kake.com
     quality: 35
 
 secured: "l8QQiumG+VBfOk9cvCiCNFu+tiipbkvAvaqMKxuekOWkrqaoJlUCRf3CnIWdeHiXQXk/Xc81NlIPRJyytq59AI32nhKm86gP6dB2eqi8AW0HiKNrB08u/PhZlxNS95Cw0io3Bu0bhL5QnCaJ1EDzQL6Wsz9aJWbE9Ue+qXz2PI4NBY5Kfwt0tAS2A3LAyoXFT3FfSpq2omNFLgCmrp1Bi6t7HFeawwpqr1adGPcp+11mT9aCkZqLBHeGzKVLSf1VzdBxM5A/FeF/SlC6wL6N/lyha7oqsMOABjNFtkpZ12t4xBCgMO9at+OU7dy+YOEhXnN9FghuwCupsGz51tMowAuvNLc1UFJ2cNxtxNz/dGo=;iQASk++eNgDTa/KMFvcLqg=="

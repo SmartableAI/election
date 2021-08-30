@@ -143,6 +143,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden slammed for appearing to look at his watch during ceremony for dead Marines"
+    excerpt: "Conservatives and veterans slammed President Joe Biden for appearing to look at his watch during the \"dignified transfer\" service for the 13 U.S. service members killed in an ISIS-K suicide bombing in Afghanistan."
+    publishedDateTime: 2021-08-29T21:48:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1nLzdddpaGE/biden-slammed-for-appearing-to-look-at-his-watch-during-memorial-service-for-dead-marines"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-slammed-for-appearing-to-look-at-his-watch-during-memorial-service-for-dead-marines.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-slammed-for-appearing-to-look-at-his-watch-during-memorial-service-for-dead-marines.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/340/340/Tyler-ONeil-Headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Growing political roadblock vs. big spender Joe Biden"
     excerpt: "As the debacle in Afghanistan consumes the Biden administration, Wall Street is keeping a closer eye on another debacle."
     publishedDateTime: 2021-08-22T03:38:00Z

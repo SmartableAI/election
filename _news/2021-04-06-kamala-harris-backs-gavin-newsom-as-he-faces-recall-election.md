@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/kamala-harris-backs-gavin-newsom-recall-ele
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-backs-gavin-newsom-recall-election-1581208?amp=1"
 type: article
 quality: 140
-heat: 1380
+heat: 1400
 published: true
 
 provider:
@@ -949,6 +949,20 @@ related:
       - url: "https://www.reviewjournal.com/wp-content/themes/rjth2019/images/defaultimage-1200x800.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Kamala Harris heading back to Washington after canceling campaign rally with Gavin Newsom in California"
+    excerpt: "Vice President Kamala Harris's decision to cancel her Friday rally in California with embattled Democratic Gov. Gavin Newsom dealt a setback to Democrats' intensive efforts to spur their voters to"
+    publishedDateTime: 2021-08-27T01:46:00Z
+    webUrl: "https://www.newspressnow.com/news/national_news/election2020/kamala-harris-heading-back-to-washington-after-canceling-campaign-rally-with-gavin-newsom-in-california/article_3c72cc3e-647e-5028-9fea-a10e6d2d5f8d.html"
+    type: article
+    provider:
+      name: News-Press NOW
+      domain: newspressnow.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/newspressnow.com/content/tncms/custom/image/be1cb458-881b-11eb-872f-4f6e66986b9a.png"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Kamala Harris heading back to Washington after canceling campaign rally with Gavin Newsom in California"
     excerpt: "Vice President Kamala Harris's decision to cancel her Friday rally in California with embattled Democratic Gov. Gavin Newsom dealt a setback to Democrats' intensive efforts to spur their voters to vote against the effort to recall the first-term governor."

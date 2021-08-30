@@ -70,20 +70,6 @@ related:
         width: 1024
         height: 679
         isCached: true
-  - title: "House panel investigating Jan. 6 attack seeks records from agencies on insurrection, Trump in first request for information"
-    excerpt: "The committee demanded materials from the National Archives, four Cabinet departments, the FBI and other agencies."
-    publishedDateTime: 2021-08-25T20:00:00Z
-    webUrl: "https://www.washingtonpost.com/powerpost/january-6-committee-trump/2021/08/25/cd356794-059a-11ec-a654-900a78538242_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 79
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RN7MCKQFXQI6ZJSUSAFHQU4CII.jpg&w=1440"
-        width: 1440
-        height: 975
-        isCached: true
   - title: "James Craig says he’d accept Trump endorsement, doesn’t take position on stolen election claims"
     excerpt: "The former Detroit police chief launched an exploratory campaign committee but has yet to formally start his bid for Michigan governor,"
     publishedDateTime: 2021-08-24T04:51:00Z
@@ -132,53 +118,41 @@ related:
         width: 1024
         height: 670
         isCached: true
-  - title: "House panel investigating Capitol riot seeks trove of Trump-era records"
-    excerpt: "The House committee investigating the January insurrection at the U.S. Capitol is demanding a trove of records from federal intelligence and law enforcement agencies, showing the sweep of the"
-    publishedDateTime: 2021-08-25T19:25:00Z
-    webUrl: "https://ktla.com/news/nationworld/house-panel-investigating-capitol-riot-seeks-trove-of-trump-era-records/"
-    ampWebUrl: "https://ktla.com/news/nationworld/house-panel-investigating-capitol-riot-seeks-trove-of-trump-era-records/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/nationworld/house-panel-investigating-capitol-riot-seeks-trove-of-trump-era-records/amp/"
+  - title: "Trump-fueled election ‘audit’ sparks Senate GOP turmoil"
+    excerpt: "The top Republican in the Pennsylvania Senate says he’s putting a different senator in charge of an “election integrity” undertaking and removing a senator who had aimed to carry out an Arizona-style “forensic investigation” of Pennsylvania’s 2020 presidential election."
+    publishedDateTime: 2021-08-21T14:15:00Z
+    webUrl: "https://www.sunherald.com/news/politics-government/national-politics/article253632053.html"
+    ampWebUrl: "https://amp.sunherald.com/news/politics-government/national-politics/article253632053.html"
+    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/politics-government/national-politics/article253632053.html"
     type: article
     provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 75
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2021/08/AP21237587812201.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Select Committee seeks Trump records as part of Jan. 6 probe"
-    excerpt: "The head of the House Select Committee on the Jan. 6 attack on the U.S. Capitol issued a sweeping round of demands Wednesday seeking information from the executive branch and other agencies related to the attack and former President Donald Trump’s push to discredit the election results."
-    publishedDateTime: 2021-08-25T18:54:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/aug/25/select-committee-seeks-trump-records-part-jan-6-pr/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/25/select-committee-seeks-trump-records-part-jan-6-pr/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/25/select-committee-seeks-trump-records-part-jan-6-pr/"
+      name: Biloxi Sun Herald
+      domain: sunherald.com
+    quality: 70
+  - title: "Trump-fueled election ‘audit’ sparks Senate GOP turmoil"
+    excerpt: "The top Republican in the Pennsylvania Senate says he’s putting a different senator in charge of an “election integrity” undertaking and removing a senator who had aimed to carry out an Arizona-style “forensic investigation” of Pennsylvania’s 2020 presidential election."
+    publishedDateTime: 2021-08-21T21:43:00Z
+    webUrl: "https://www.bellinghamherald.com/news/politics-government/national-politics/article253632053.html"
+    ampWebUrl: "https://amp.bellinghamherald.com/news/politics-government/national-politics/article253632053.html"
+    cdnAmpWebUrl: "https://amp-bellinghamherald-com.cdn.ampproject.org/c/s/amp.bellinghamherald.com/news/politics-government/national-politics/article253632053.html"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/07/12/capitol_breach_investigation_22360_c0-229-5500-3437_s1200x700.jpg?cd6ebda61bdcbd7068faa31a6cc9adbce23a3edd"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "House panel investigating Jan. 6 attack seeks records from Trump White House"
-    excerpt: "The House select committee investigating the Jan. 6 attack on the U.S. Capitol requested documents Wednesday from Trump administration officials and other federal agencies."
-    publishedDateTime: 2021-08-25T18:31:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/08/25/jan6-committee-documents-trump/6781629912225/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/08/25/jan6-committee-documents-trump/6781629912225/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/25/jan6-committee-documents-trump/6781629912225/"
+      name: The Bellingham Herald
+      domain: bellinghamherald.com
+    quality: 70
+  - title: "Trump-fueled election 'audit' sparks Senate GOP turmoil"
+    excerpt: "The top Republican in Pennsylvania's Senate said Friday that he is putting a different senator in charge of an \"election integrity\" undertaking and removed a senator who"
+    publishedDateTime: 2021-08-23T14:02:00Z
+    webUrl: "https://www.phillytrib.com/news/state_and_region/trump-fueled-election-audit-sparks-senate-gop-turmoil/article_01719efe-5b16-554d-80bd-e31778576f8d.html"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 72
+      name: Philadelphia Tribune
+      domain: phillytrib.com
+    quality: 70
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/6781629912225/2021/1/5984d1ea8cfbaef6c31dd8ba17df417d/v1.5/House-panel-investigating-Jan-6-attack-seeks-records-from-Trump-White-House.jpg"
-        width: 800
-        height: 534
+      - url: "https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/assets/v3/editorial/8/2c/82cd4c35-f3c7-5843-bcb6-142108b6c16b/6123ab4ae1192.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
         isCached: true
   - title: "Judge sanctions pro-Trump lawyers who brought ‘frivolous’ election fraud lawsuits"
     excerpt: "By Tierney Sneed, CNN A federal judge ordered sanctions Wednesday for Sidney Powell, Lin Wood and several other lawyers who worked on Trump-aligned lawsuits seeking to challenge the results of the 2020 election."

@@ -27,121 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden praises WNBA champs for social justice activism"
-    excerpt: "The visit marked the first time that an NBA or WNBA team has visited the White House since the Cleveland Cavaliers were feted by Barack Obama in 2016."
-    publishedDateTime: 2021-08-24T00:19:00Z
-    webUrl: "https://www.tampabay.com/sports/2021/08/23/joe-biden-praises-wnba-champs-for-social-justice-activism/"
-    ampWebUrl: "https://www.tampabay.com/sports/2021/08/23/joe-biden-praises-wnba-champs-for-social-justice-activism/?outputType=amp"
-    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/sports/2021/08/23/joe-biden-praises-wnba-champs-for-social-justice-activism/?outputType=amp"
+  - title: "Biden COVID origin investigation expected to end soon | Charlotte Observer"
+    excerpt: "A 90-day intelligence review into the origins of COVID-19 ordered by President Joe Biden is expected to end largely where it began, without high confidence in how the coronavirus first emerged, government officials told McClatchy. Biden will receive a ..."
+    publishedDateTime: 2021-08-09T17:39:00Z
+    webUrl: "https://www.charlotteobserver.com/news/coronavirus/article253365748.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/coronavirus/article253365748.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/coronavirus/article253365748.html"
     type: article
     provider:
-      name: Tampa Bay Times
-      domain: tampabay.com
-    quality: 75
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 73
     images:
-      - url: "https://www.tampabay.com/resizer/H3idYXdZk6JBiyKwaxGXggjk8_8=/800x450/filters:focal(2065x1285:2075x1275)/cloudfront-us-east-1.images.arcpublishing.com/tbt/EPAHJMPR7OBARKIDWG2FATIR2Q.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Joe Biden’s future looks bleak – he’s shamed and endangered the West"
-    excerpt: "A broken man THE charge sheet against Joe Biden grows by the day. It’s not just that his reckless, casual disregard for Afghanistan and its ­people led directly to the suicide bomb slaughter of 13"
-    publishedDateTime: 2021-08-28T01:58:00Z
-    webUrl: "https://www.the-sun.com/news/3555473/joe-biden-shamed-endangered-west/"
-    ampWebUrl: "https://www.the-sun.com/news/3555473/joe-biden-shamed-endangered-west/amp/"
-    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3555473/joe-biden-shamed-endangered-west/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: the-sun.com
-    quality: 75
-    images:
-      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/NINTCHDBPICT000675572319-1-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Seattle Storm visit President Biden, White House to celebrate 2020 WNBA title"
-    excerpt: "The Storm became the first women’s team welcomed by President Biden and the first WNBA squad at the White House since the 2015 Minnesota Lynx."
-    publishedDateTime: 2021-08-23T21:44:00Z
-    webUrl: "https://www.freep.com/story/sports/wnba/storm/2021/08/23/seattle-storm-visit-president-biden-white-house-honor-wnba-title/8245818002/"
-    ampWebUrl: "https://amp.freep.com/amp/8245818002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/8245818002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 72
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/08/23/USAT/eaa65bb6-091f-4e5e-b30d-bdbf44364616-GTY_1234836329.jpg?auto=webp&crop=7544,4244,x1,y787&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "WNBA News: What Joe Biden Said About Champion Seattle Storm In Their White House Visit"
-    excerpt: "The Seattle Storm visited President Joe Biden at the White House on Monday to celebrate their 2020 WNBA championship. Seattle defeated the Las Vegas Aces in a 3-game sweep, giving the organization their fourth championship title in their history."
-    publishedDateTime: 2021-08-23T22:52:00Z
-    webUrl: "https://www.ibtimes.com/wnba-news-what-joe-biden-said-about-champion-seattle-storm-their-white-house-visit-3279414"
-    ampWebUrl: "https://www.ibtimes.com/wnba-news-what-joe-biden-said-about-champion-seattle-storm-their-white-house-visit-3279414?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/wnba-news-what-joe-biden-said-about-champion-seattle-storm-their-white-house-visit-3279414?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 67
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/22/gettyimages-1025667234.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Biden celebrates 2020 WNBA champs Seattle Storm"
-    excerpt: "President Joe Biden honored the 2020 WNBA champions Seattle Storm on Monday, celebrating their success on the court and hailing the four-time title holders for changing lives with their social"
-    publishedDateTime: 2021-08-23T23:46:00Z
-    webUrl: "https://www.oleantimesherald.com/biden-celebrates-2020-wnba-champs-seattle-storm/video_c9bf69fc-22dd-5752-bdda-10acc895c530.html"
-    type: article
-    provider:
-      name: Olean Times Herald
-      domain: oleantimesherald.com
-    quality: 55
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/oleantimesherald.com/content/tncms/assets/v3/editorial/c/9b/c9bf69fc-22dd-5752-bdda-10acc895c530/61243394cd1bd.preview.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Biden kneels at White House celebration of WNBA champs Seattle Storm"
-    excerpt: "President Joe Biden got down on one knee in the East Room during the celebration of the WNBA champions Seattle Storm."
-    publishedDateTime: 2021-08-24T03:29:00Z
-    webUrl: "https://thegrio.com/2021/08/23/biden-kneels-white-house-wnba-seattle-storm/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 55
-    images:
-      - url: "https://thegrio.com/wp-content/uploads/2021/08/240820211629775420-1-scaled.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557046001/12b39f35-3a05-423f-a838-37e72ee371d0/e503dd4e-6739-4b6c-8212-c4272a4fecad/1280x720/match/image.jpg"
         width: 1280
-        height: 853
+        height: 720
         isCached: true
-  - title: "Biden praises WNBA champs for social justice activism"
-    excerpt: "President Joe Biden honored the 2020 WNBA champions Seattle Storm on Monday, celebrating their success on the court and hailing the four-time title holders for changing lives with"
-    publishedDateTime: 2021-08-24T13:26:00Z
-    webUrl: "https://www.phillytrib.com/sports/biden-praises-wnba-champs-for-social-justice-activism/article_a4098845-3c9c-5182-ba4a-4f5a594da7bc.html"
+  - title: "Joe Biden looks to boost Native American voter turnout | Charlotte Observer"
+    excerpt: "Native American voters could play a major role in deciding the next presidential election in key battleground states."
+    publishedDateTime: 2021-08-13T09:00:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article253429449.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article253429449.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article253429449.html"
     type: article
     provider:
-      name: Philadelphia Tribune
-      domain: phillytrib.com
-    quality: 55
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 73
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/assets/v3/editorial/5/5f/55fd9673-7d2d-5b10-a2e3-90069a1434d2/6124f3e31a6b5.image.jpg?crop=834%2C439%2C79%2C26&resize=400%2C211&order=crop%2Cresize"
-        width: 400
-        height: 211
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557046001/6416380e-f39b-44f4-98b3-0db4d9888c0d/aa0212ec-ae12-4bcf-8926-43cebffe2f5f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Biden Agrees With Pentagon Recommendation to Stick to Aug 31 Afghan Pullout Deadline – Source"
-    excerpt: "WASHINGTON (Reuters) - President Joe Biden has agreed with a Pentagon recommendation to stick with the Aug. 31 Afghanistan withdrawal deadline, an administration official told Reuters on Tuesday. The Pentagon recommendation was made on Monday based on ..."
-    publishedDateTime: 2021-08-24T15:36:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2021-08-24/biden-agrees-with-pentagon-recommendation-to-stick-to-aug-31-afghan-pullout-deadline-source"
+  - title: "Biden says rising prices are temporary, 'no serious' economist predicting spiraling inflation | Charlotte Observer"
+    excerpt: "President Joe Biden sought to alleviate Americans' concerns that price spikes would persist in an economic speech from the White House July 2021."
+    publishedDateTime: 2021-08-13T15:16:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article253468574.html"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 24
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 13
 
 secured: "txTJeB6HSmGE7iahw/sAaxWa8kfQ7axYR8x4VwzY2J4phWw/sOTkVdtM1zJcFZ5pkfkIjRgdb8gmM0jx+mil09HeWulF0SH5gvl8zHr4qbEBkn+10XkFoJQDhRpbxUWS/dDVqaP3fA54YK5O0KxeuwYsoVyDOL7+Mjsmvd6N75DsHWwE99edx5YKOEaSwO99OdTERR7RxmH4rwLmdfVcDkQ4kW9KPOmNbpvNIC0NELSSfxfxgBagESsoNE2Gnuh2e1GBMckdiUvatX+eaZ9cTe37UjODih0E4AGUSmBFtd95XZlg14iE+Vqbcdl9P9CLGGkrYw+vMKzL6RO/+hzh9eQ8Ue5/WilYasKh9pz9KHqRAMC8UawAiiivvgtddQ72s/0OqiEiceU2jb2G2CE7g7pHOWCmA+ZYJOga6J5W5jZDjhF2oViPUJeTAfFbCFYWmC47UIiVXix2gR51+ojGlGdCYdgZut4KHy9f/xwQBDc2iBWxIUT3FRw510639iaofWMG6/Q75U7d0oVWOVHuAw==;QLVeA0BMnAm7US/p32J0Mw=="
 ---

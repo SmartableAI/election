@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How the White House and Democrats hope to survive Biden's political bruises "
+    excerpt: "President Joe Biden was likely to lose Democratic control of Congress before last week's carnage in Afghanistan. That's more likely now.\n    \n"
+    publishedDateTime: 2021-08-29T21:37:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UMytEgp4LzQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/29/politics/white-house-democrats-political-damage-afghanistan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/29/politics/white-house-democrats-political-damage-afghanistan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704190844-white-house-exterior-0703-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "US to ship first of the 500 million Pfizer doses Biden pledged to donate globally"
     excerpt: "The Biden administration on Tuesday is shipping the first of the 500 million Covid-19 doses that President Joe Biden pledged to share with countries around the world at the Group of Seven summit earlier this year. \n    \n"
     publishedDateTime: 2021-08-17T15:43:01Z

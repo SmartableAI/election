@@ -27,146 +27,111 @@ images:
     isCached: true
 
 related:
-  - title: "With fight over mask mandates, Gov. Abbott passes purity test in Trump's GOP"
-    excerpt: "When Texas had its first big surge of COVID hospitalizations, Gov. Greg Abbott responded by shutting down bars and mandating masks. As the second surge hit, Abbott put in place an automatic trigger to restrict the operating capacities of businesses and halt non-emergency surgeries to free up hospital beds in areas with high hospitalizations."
-    publishedDateTime: 2021-08-22T09:00:00Z
-    webUrl: "https://www.houstonchronicle.com/politics/texas/article/Even-as-COVID-resurges-there-is-no-room-for-Gov-16401385.php"
-    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Even-as-COVID-resurges-there-is-no-room-for-Gov-16401385.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Even-as-COVID-resurges-there-is-no-room-for-Gov-16401385.php"
+  - title: "Former Trump adviser: Biden needs to fire top Taliban negotiator Khalilzad"
+    excerpt: "Lt. Gen. H.R. McMaster, Donald Trump’s former national security adviser, is laying some of the blame for the current chaos in Afghanistan squarely at the feet of Ambassador Zalmay Khalilzad, the Afghan-American diplomat who has been the point man for talks with the Taliban in both Republican and Democratic administrations."
+    publishedDateTime: 2021-08-24T17:42:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/aug/24/former-trump-adviser-biden-needs-fire-top-taliban-/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/24/former-trump-adviser-biden-needs-fire-top-taliban-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/24/former-trump-adviser-biden-needs-fire-top-taliban-/"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 122
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 88
     images:
-      - url: "https://s.hdnux.com/photos/01/21/42/70/21376521/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
-        isCached: true
-  - title: "With fight over mask mandates, Gov. Abbott passes purity test in Trump's GOP"
-    excerpt: "But now as the state hits a third surge, Abbott — who faces re-election early next year — is doing none of that. Instead, he is suggesting that people wear masks when appropri"
-    publishedDateTime: 2021-08-23T19:26:00Z
-    webUrl: "https://www.houstonchronicle.com/politics/texas/article/covid-abbott-purity-test-trump-gop-republican-mask-16401385.php"
-    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/covid-abbott-purity-test-trump-gop-republican-mask-16401385.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/covid-abbott-purity-test-trump-gop-republican-mask-16401385.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 102
-  - title: "Ex-Rep. Paul Mitchell dies. He quit GOP over its refusal to accept Trump's defeat"
-    excerpt: "Former U.S. Rep. Paul Mitchell, a conservative who quit the Republican Party over its allegiance to President Donald Trump after the 2020 election, has died after a diagnosis of stage IV renal cancer."
-    publishedDateTime: 2021-08-16T15:20:00Z
-    webUrl: "https://www.detroitnews.com/story/news/politics/2021/08/16/rep-congressman-paul-mitchell-republican-died-conservative-independent/7877411002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/7877411002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7877411002"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 70
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/08/11/PDTN/dd1c5a99-0bc4-4652-b5d4-7744e8107e7a-paul_mitchell_submitted.jpg?auto=webp&crop=4031,2267,x0,y0&format=pjpg&width=1200"
+      - url: "https://twt-thumbs.washtimes.com/media/image/2018/07/11/books-mcmaster_42215_c0-176-4205-2628_s1200x700.jpg?fc7050ca65b373159166adfd97568bd9321a7b9d"
         width: 1200
-        height: 675
+        height: 700
         isCached: true
-  - title: "Trump-fueled election ‘audit’ sparks Senate GOP turmoil"
-    excerpt: "The top Republican in the Pennsylvania Senate says he’s putting a different senator in charge of an “election integrity” undertaking and removing a senator who had aimed to carry out an Arizona-style “forensic investigation” of Pennsylvania’s 2020 presidential election."
-    publishedDateTime: 2021-08-21T14:15:00Z
-    webUrl: "https://www.sunherald.com/news/politics-government/national-politics/article253632053.html"
-    ampWebUrl: "https://amp.sunherald.com/news/politics-government/national-politics/article253632053.html"
-    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/politics-government/national-politics/article253632053.html"
+  - title: "Trump's former national security advisor John Bolton says it's 'impossible' for Mike Pompeo to 'rewrite history' on his negotiations with the Taliban"
+    excerpt: "\"That's a prescription for Democratic attack ads that would be fatal to someone's credibility,\" Bolton told Politico."
+    publishedDateTime: 2021-08-27T02:40:00Z
+    webUrl: "https://www.businessinsider.com/john-bolton-impossible-to-rewrite-history-on-mike-pompeo-taliban-deal-2021-8"
+    ampWebUrl: "https://www.businessinsider.com/john-bolton-impossible-to-rewrite-history-on-mike-pompeo-taliban-deal-2021-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/john-bolton-impossible-to-rewrite-history-on-mike-pompeo-taliban-deal-2021-8?amp"
     type: article
     provider:
-      name: Biloxi Sun Herald
-      domain: sunherald.com
-    quality: 70
-  - title: "Trump-fueled election ‘audit’ sparks Senate GOP turmoil"
-    excerpt: "The top Republican in the Pennsylvania Senate says he’s putting a different senator in charge of an “election integrity” undertaking and removing a senator who had aimed to carry out an Arizona-style “forensic investigation” of Pennsylvania’s 2020 presidential election."
-    publishedDateTime: 2021-08-21T21:43:00Z
-    webUrl: "https://www.bellinghamherald.com/news/politics-government/national-politics/article253632053.html"
-    ampWebUrl: "https://amp.bellinghamherald.com/news/politics-government/national-politics/article253632053.html"
-    cdnAmpWebUrl: "https://amp-bellinghamherald-com.cdn.ampproject.org/c/s/amp.bellinghamherald.com/news/politics-government/national-politics/article253632053.html"
-    type: article
-    provider:
-      name: The Bellingham Herald
-      domain: bellinghamherald.com
-    quality: 70
-  - title: "Trump-fueled election 'audit' sparks Senate GOP turmoil"
-    excerpt: "The top Republican in Pennsylvania's Senate said Friday that he is putting a different senator in charge of an \"election integrity\" undertaking and removed a senator who"
-    publishedDateTime: 2021-08-23T14:02:00Z
-    webUrl: "https://www.phillytrib.com/news/state_and_region/trump-fueled-election-audit-sparks-senate-gop-turmoil/article_01719efe-5b16-554d-80bd-e31778576f8d.html"
-    type: article
-    provider:
-      name: Philadelphia Tribune
-      domain: phillytrib.com
-    quality: 70
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 86
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/assets/v3/editorial/8/2c/82cd4c35-f3c7-5843-bcb6-142108b6c16b/6123ab4ae1192.image.jpg?resize=945%2C630"
-        width: 945
-        height: 630
-        isCached: true
-  - title: "GOP Senate candidates take page from Trump playbook as they fight for populist title"
-    excerpt: "Republicans in Ohio's Senate race are running on the message that propelled former President Donald Trump to office."
-    publishedDateTime: 2021-08-23T10:26:00Z
-    webUrl: "https://www.cincinnati.com/story/news/2021/08/22/ohio-senate-race-gop-candidates-fight-over-populist-lane/5499348001/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/5499348001"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5499348001"
-    type: article
-    provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 68
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/07/02/PCIN/912b9d7f-9050-4679-88f8-1b0a031b1914-070121JDVance_4.jpg?auto=webp&crop=3594,2022,x0,y184&format=pjpg&width=1200"
+      - url: "https://i.insider.com/61279e06e4235b00180aa5ba?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "Joe Biden takes aim at states blocking mask mandates, setting Gov. Greg Abbott up for showdown with"
-    excerpt: "Texas Gov. Greg Abbott may soon be fighting a war on two fronts — with local officials and the federal government — to stave off mandatory COVID-19 prevention efforts after the Biden administration announced Wednesday it was going after states like Texas that try to ban universal masking at schools."
-    publishedDateTime: 2021-08-19T02:36:00Z
-    webUrl: "https://www.expressnews.com/news/local/article/Joe-Biden-takes-aim-at-states-blocking-mask-16396786.php"
-    ampWebUrl: "https://www.expressnews.com/news/local/amp/Joe-Biden-takes-aim-at-states-blocking-mask-16396786.php"
-    cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/local/amp/Joe-Biden-takes-aim-at-states-blocking-mask-16396786.php"
+  - title: "Ensure that Taliban do not destabilise Pakistan: US lawmakers to Joe Biden"
+    excerpt: "A group of US lawmakers has urged President Joe Biden to ensure that the Taliban, which is now the de facto ruler of Afghanistan, do not destabilise Pakistan and acquire nuclear weapons"
+    publishedDateTime: 2021-08-26T23:13:00Z
+    webUrl: "https://www.thehansindia.com/news/international/ensure-that-taliban-do-not-destabilise-pakistan-us-lawmakers-to-joe-biden-703501"
+    ampWebUrl: "https://www.thehansindia.com/amp/news/international/ensure-that-taliban-do-not-destabilise-pakistan-us-lawmakers-to-joe-biden-703501"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/international/ensure-that-taliban-do-not-destabilise-pakistan-us-lawmakers-to-joe-biden-703501"
     type: article
     provider:
-      name: San Antonio Express-News
-      domain: expressnews.com
-    quality: 61
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 73
     images:
-      - url: "https://s.hdnux.com/photos/01/21/40/57/21367760/3/400x0.jpg"
-        width: 400
-        height: 266
+      - url: "https://assets.thehansindia.com/h-upload/2021/08/23/1103644-biden.jpg"
+        width: 1000
+        height: 600
         isCached: true
-  - title: "Joe Biden takes aim at states blocking mask mandates, setting Gov. Greg Abbott up for showdown with feds"
-    excerpt: "Biden said he will use the U.S. Department of Education’s civil rights enforcement authority to deter states from blocking mask mandates in classrooms."
-    publishedDateTime: 2021-08-18T22:31:00Z
-    webUrl: "https://www.texastribune.org/2021/08/18/greg-abbott-joe-biden-texas-mask-mandates/"
-    ampWebUrl: "https://www.texastribune.org/2021/08/18/greg-abbott-joe-biden-texas-mask-mandates/amp/"
-    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/08/18/greg-abbott-joe-biden-texas-mask-mandates/amp/"
+  - title: "Joe Biden ripped after Taliban fighters wearing US army gear mock iconic 1945 photo of marines"
+    excerpt: "The original 1945 photo shows a group of six Marines hoisting the flag on Mount Suribachi. The Taliban's elite Badri 313 battalion recreated the image"
+    publishedDateTime: 2021-08-22T02:58:00Z
+    webUrl: "https://meaww.com/biden-taliban-us-army-1945-ww-2-photo-marines-iwo-jima"
+    ampWebUrl: "https://meaww.com/amp/biden-taliban-us-army-1945-ww-2-photo-marines-iwo-jima"
+    cdnAmpWebUrl: "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/biden-taliban-us-army-1945-ww-2-photo-marines-iwo-jima"
     type: article
     provider:
-      name: Texas Tribune
-      domain: texastribune.org
-    quality: 58
+      name: Meaww
+      domain: meaww.com
+    quality: 63
     images:
-      - url: "https://thumbnails.texastribune.org/QCGScGkOdgn7z6M7CjbTbiaZvo4=/1200x630/filters:quality(95)/static.texastribune.org/media/files/0825c12ccde17a1e73e5eb5a698491d2/Biden%20COVID%20REUTERS%20TT.jpg"
-        width: 1200
-        height: 630
+      - url: "https://cheesecake.articleassets.meaww.com/545990/uploads/0e504170-02f0-11ec-951c-a7d689a4bfd4_800_420.png"
+        width: 800
+        height: 420
         isCached: true
-  - title: "Congressman who left GOP over Trump gives final message before death from cancer"
-    excerpt: "Before his death, former Rep. Paul Mitchell talked with CNN's Jake Tapper about his life and his parting message to the country."
-    publishedDateTime: 2021-08-23T02:03:00Z
-    webUrl: "https://www.kdrv.com/content/news/575151722.html"
+  - title: "Supreme Court Rejects Biden Admin's Efforts To Stop Trump-Era 'Remain in Mexico' Policy"
+    excerpt: "\"The applicants have failed to show a likelihood of success on the claim that the memorandum rescinding the Migrant Protection Protocols was not arbitrary and capricious.\""
+    publishedDateTime: 2021-08-25T13:44:00Z
+    webUrl: "https://ijr.com/supreme-court-biden-admins-efforts-stop-trump-era-policy/"
     type: article
     provider:
-      name: KDRV
-      domain: kdrv.com
-    quality: 50
+      name: ijr.com
+      domain: ijr.com
+    quality: 62
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210822145959-paul-mitchell-tapper-vpx-live-video.jpg"
-        width: 1100
-        height: 619
+      - url: "https://ijr.com/wp-content/uploads/2021/02/2021-02-01T211958Z_3_LYNXMPEH1022T_RTROPTP_4_USA-COURT-IMMIGRATION-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "Seth Meyers doesn’t think Donald Trump should praise the Taliban"
+    excerpt: "On Wednesday’s “Late Night,” Seth Meyers criticized the “right-wing ghouls” who are acting like America’s depressing and chaotic pullout from Afghanistan is entirely President Joe Biden’s fault, and not the cumulative,"
+    publishedDateTime: 2021-08-26T14:58:00Z
+    webUrl: "https://www.imdb.com/news/ni63402919/"
+    type: article
+    provider:
+      name: IMDb
+      domain: imdb.com
+    quality: 55
+    images:
+      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
+        width: 1000
+        height: 1000
+        isCached: true
+  - title: "Donald Trump's recounting of his 2020 conversation with a Taliban leader is something else"
+    excerpt: "It came after Hewitt asked Trump to describe his conversation with Mullah Abdul Ghani Baradar, a Taliban co-founder and deputy leader, during his 2020 negotiations with the group to remove American troops from Afghanistan."
+    publishedDateTime: 2021-08-29T01:13:00Z
+    webUrl: "https://www.kitv.com/story/44620329/donald-trumps-recounting-of-his-2020-conversation-with-a-taliban-leader-is-something-else"
+    type: article
+    provider:
+      name: KITV
+      domain: kitv.com
+    quality: 45
+    images:
+      - url: "https://KITV.images.worldnow.com/images/17633324_G.jpg"
+        width: 1707
+        height: 960
         isCached: true
 
 secured: "l3n3uoPGNPeECpbnfULXCYPMBjDkhPVADFitlNJk3mfLrKCPHmfOpi3ADOZrk3crt6UQDuSFFekiRQK+3fdgnd+RATbctdf7MLZhcaCP1rqFxmkKSnIWemrn9ujDSxgN58spj4LSJdjhuki3srZaFt2lcuCM6TlplXSFBNRbMjkXxBN7tLLfEpKxaMGU3Sfs0aRLLJ/p7+aF1/IKclrVvMsqpRr0AjM+Mve0tKmcIZJ9mSjeBZJLghYU3nFTnCOZaqRYlID0J84zMhojNjtVam7HY4NFH+Qj0uSFprNSnLNGxYIZAQGNk0massKYxIv3iiyvXQvsYWMyIj+4PFDZRxwCDARmG9Es18k8fGNgRqrf8G1jLsoaoz86LWTOZSJ8sv1tilNsa53yuCrLvSK2aXY0kgX9Bg9ItC1+JZi3bhKmNKNqe4TCsAsn2zvJdfVORnBT22w1YKWTH48d0lcgFI3nDZG0iIoM5AryuW//2ynnHggLSGHAcEZEYMr6eU7ZsVugeSiFIszJxslDVRy9Xg==;n8A862xr7jlNrKJhFy0RBQ=="

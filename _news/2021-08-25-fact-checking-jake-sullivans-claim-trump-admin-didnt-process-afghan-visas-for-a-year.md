@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/25/politics/afghan-visas-trump-admin
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/25/politics/afghan-visas-trump-admin-fact-check/index.html"
 type: article
 quality: 167
-heat: 247
+heat: 267
 published: true
 
 provider:
@@ -74,6 +74,22 @@ related:
       name: New York Times
       domain: nytimes.com
     quality: 160
+    images:
+      - url: "https://static01.nyt.com/images/2021/08/21/world/21afghanistan-briefing-troye-trump/21afghanistan-briefing-troye-trump-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "A former Pence aide says Trump and Miller tried to stymie Afghan refugee efforts."
+    excerpt: "Olivia Troye said the Trump aide Stephen Miller demanded restrictions on refugees. Mr. Miller said President Biden’s “incompetence” had led to the current chaos."
+    publishedDateTime: 2021-08-21T13:50:00Z
+    webUrl: "https://www.nytimes.com/2021/08/21/world/asia/pence-troye-trump-miller-afghan-refugees.html"
+    ampWebUrl: "https://www.nytimes.com/2021/08/21/world/asia/pence-troye-trump-miller-afghan-refugees.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/21/world/asia/pence-troye-trump-miller-afghan-refugees.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 145
     images:
       - url: "https://static01.nyt.com/images/2021/08/21/world/21afghanistan-briefing-troye-trump/21afghanistan-briefing-troye-trump-facebookJumbo.jpg"
         width: 1050

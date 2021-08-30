@@ -2,21 +2,29 @@
 category: news
 title: "Attorney General Merrick Garland, don't prosecute Donald Trump"
 excerpt: "He pressured his acting attorney general, Jeffrey Rosen, to open an investigation of purported fraud in the vote count in Georgia, even though there was no evidence of such wrongdoing. In one call, Trump apparently directed Rosen to \"just say the election was corrupt,"
-publishedDateTime: 2021-08-16T23:46:00Z
-originalUrl: "https://www.kake.com/story/44531682/attorney-general-merrick-garland-dont-prosecute-donald-trump"
-webUrl: "https://www.kake.com/story/44531682/attorney-general-merrick-garland-dont-prosecute-donald-trump"
+publishedDateTime: 2021-08-16T19:00:00Z
+originalUrl: "https://www.wthitv.com/content/national/575107882.html"
+webUrl: "https://www.wthitv.com/content/national/575107882.html"
+ampWebUrl: "http://www.wthitv.com/templates/AMP?contentID=575107882"
+cdnAmpWebUrl: "https://www-wthitv-com.cdn.ampproject.org/c/www.wthitv.com/templates/AMP?contentID=575107882"
 type: article
-quality: 35
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: KAKE.com
-  domain: kake.com
+  name: WTHI-TV
+  domain: wthitv.com
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "http://media.heartlandtv.com/designimages/wthi-story-default-image-640x380.png"
+    width: 640
+    height: 380
+    isCached: true
 
 related:
   - title: "Judge rules Dominion defamation case against Trump allies can proceed"
@@ -487,6 +495,6 @@ related:
       domain: 123helpme.com
     quality: 35
 
-secured: "aYQWEy+ikTface+Lo2djL1kjEcwcw68gFgbNN86pJGYhGsGNpFZetUXnywEDvNcCkLYqgPK3xeWzJFCeeIG5E7k5obClKfSEVK/+yxWw1H7RIDuBctXmdgLDcma/1sxEdFwlo4mXsNXwRy6Qq+GZWihOilUrfUMOimxEoQXVc4HgTqz1ns7Pi/kdfbZ2Z4e/l2pWUf56Aqdg3WMaOf/10NDBijcvC4X9VBzizilfz/Yqx3fp2F6l3Gju8WjNHVshi+TYg0NwyKI+EqjQaqGAjckF3IwY2SAI8nvjmjTXtqsvHIvGNoSSLo7u5beUC6y3YLay+hDuOcq693A3BaExrUI3wq1VgxItTo0LPpvTq9U=;KzSSkRod8+8uaVAgSth5Dg=="
+secured: "lY2mgKaMnpBbiyyKIitQsGjCHbE3CojO1rXuc81TrVyEa3Cc/YoFuqk6GG3zoE3YWJdLwl6txNCtyPFNHYl5PyKQCzXGxa7JiyMKw8Eyg5q5/Kt48RpzfLLK+dYzpWo0tmFo36HYQ/IuiYqJh8vVnKy67sSbHCvZUdRiU71aCd+HcJq9Zz6LOdOx6dAmWTC3YHOZoMz6ZbCSs0HLVF9p5MsylbiEfjNEG+huNLPWP40AIl72JrT7IxjUjkyOAXQB4qp7TnmHOHTtsGhT3MVphsqP1DofHRWo08Ku4fDQEMp/hlCmD1+9fWJjrlIo6OyTl+mS92lgfVshskttm8HrV52twPDWYAw2WVi3xfqfveI=;P8q+XWAMr20S/yzlMzBbMQ=="
 ---
 

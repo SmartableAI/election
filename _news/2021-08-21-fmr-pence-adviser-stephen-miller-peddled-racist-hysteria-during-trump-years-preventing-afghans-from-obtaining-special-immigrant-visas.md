@@ -96,6 +96,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "A former Pence aide says Trump and Miller tried to stymie Afghan refugee efforts."
+    excerpt: "Olivia Troye said the Trump aide Stephen Miller demanded restrictions on refugees. Mr. Miller said President Biden’s “incompetence” had led to the current chaos."
+    publishedDateTime: 2021-08-21T13:50:00Z
+    webUrl: "https://www.nytimes.com/2021/08/21/world/asia/pence-troye-trump-miller-afghan-refugees.html"
+    ampWebUrl: "https://www.nytimes.com/2021/08/21/world/asia/pence-troye-trump-miller-afghan-refugees.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/21/world/asia/pence-troye-trump-miller-afghan-refugees.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 145
+    images:
+      - url: "https://static01.nyt.com/images/2021/08/21/world/21afghanistan-briefing-troye-trump/21afghanistan-briefing-troye-trump-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "i4WHVF2UO9HYCFVckzyrCYEAPYOoHGGfck8pvCbJBTP4pZZBMpd8oeXMUrYMxrYyhdH604iQj7OuUaWQi8L6nYJl1xGqmlkBklXR0u09PqBg3DlyVHnXDboCnqNoS05K/eOAlwNTEvrjDN9qXbk2xrSUnfwpytRZL0EqOReRP95HluI/KTpjRg8urRX0M7cHrL94LSCkPIsJCfSka8clDWtAsV5jMEhoEnUTUjkDlWptwMwhknFjI/4BeVdKVO7QdXLz6BIVegW7IlKmAUwLE6bycc58rT0c9Zrssk/qQorYzIfv9BZYeuOJUAUYvCwxHan8WmU6mpPFx4EDbpjvrwiFDPvVmeGJXNt8Kb94cVcM/i/+g4ROQ3r7ANZVGAmkMia+ZsmD+Nycc8bit82grtUwQoexqcSNCiBwsFy0IE/r9kZjRzHLicn7ekh/D0frJfsM6UQTw5zERYB/DwHIgJ5AOfpF5h4yaykRlfEUQz2caXz0oGirlJeHzxV2hCL/DyO1LhGeoustSfc0K2Hz2Q==;zIuk6pt0GCV67G0aVTibjg=="
 ---

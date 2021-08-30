@@ -25,42 +25,58 @@ images:
     isCached: true
 
 related:
-  - title: "Budget clash pits moderate Democrats against Biden, Pelosi"
-    excerpt: "The moderates want Congress to quickly send the bipartisan infrastructure measure to President Biden so he can sign it"
-    publishedDateTime: 2021-08-23T15:45:00Z
-    webUrl: "https://www.cleveland.com/nation/2021/08/budget-clash-pits-moderate-democrats-against-biden-pelosi.html"
-    ampWebUrl: "https://www.cleveland.com/nation/2021/08/budget-clash-pits-moderate-democrats-against-biden-pelosi.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/08/budget-clash-pits-moderate-democrats-against-biden-pelosi.html?outputType=amp"
+  - title: "Lindsey Graham repeats impeachment call for former friend Joe Biden"
+    excerpt: "Republican accuses president, who reportedly rebuffed his attempt to explain support for Trump, of ignoring advice on Afghanistan"
+    publishedDateTime: 2021-08-29T16:38:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/aug/29/lindsey-graham-impeachment-call-joe-biden-afghanistan"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/29/lindsey-graham-impeachment-call-joe-biden-afghanistan"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/29/lindsey-graham-impeachment-call-joe-biden-afghanistan"
     type: article
     provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 75
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AGDG7PYD6ZC7TIQFWCSZEP3KFA.jpg"
-        width: 1024
-        height: 683
+      - url: "https://i.guim.co.uk/img/media/c179f21a5b99ff34b46423da1d81ad5fdc95e9d5/0_400_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=257ba2b47f7c59f920a4f825abf8d840"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Budget clash pits moderate Democrats against Biden, Pelosi"
-    excerpt: "Confronting their party's most powerful leaders, nine moderate Democrats are tapping the brakes on President Joe Biden's multitrillion-dollar domestic program and insisting on their own priorities. The inter-party showdown is headed for"
-    publishedDateTime: 2021-08-23T19:46:00Z
-    webUrl: "https://www.abqjournal.com/2422096/budget-clash-pits-moderate-democrats-against-biden-pelosi.html"
-    ampWebUrl: "https://www.abqjournal.com/2422096/budget-clash-pits-moderate-democrats-against-biden-pelosi.html/amp"
-    cdnAmpWebUrl: "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/2422096/budget-clash-pits-moderate-democrats-against-biden-pelosi.html/amp"
+  - title: "Former Ohio lawmaker with doubts about Joe Biden's win wants to run Ohio elections"
+    excerpt: "Former state lawmaker John Adams announced he is challenging incumbent Frank LaRose for Ohio Secretary of State in the GOP primary next year."
+    publishedDateTime: 2021-08-23T16:44:00Z
+    webUrl: "https://www.cincinnati.com/story/news/2021/08/23/gop-primary-john-adams-running-against-ohio-secretary-state-larose/8242596002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/8242596002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/8242596002"
     type: article
     provider:
-      name: Albuquerque Journal
-      domain: abqjournal.com
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 84
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/04/NCOD/5d5586f1-aa5b-4b35-8297-a63caa3f4baf-IMG_Mid_Day_Voting_Photo_1_1_CQTQHED8_L1677394643.JPG?auto=webp&crop=1999,1125,x0,y101&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Joe Biden praises WNBA champs for social justice activism"
+    excerpt: "The visit marked the first time that an NBA or WNBA team has visited the White House since the Cleveland Cavaliers were feted by Barack Obama in 2016."
+    publishedDateTime: 2021-08-24T00:19:00Z
+    webUrl: "https://www.tampabay.com/sports/2021/08/23/joe-biden-praises-wnba-champs-for-social-justice-activism/"
+    ampWebUrl: "https://www.tampabay.com/sports/2021/08/23/joe-biden-praises-wnba-champs-for-social-justice-activism/?outputType=amp"
+    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/sports/2021/08/23/joe-biden-praises-wnba-champs-for-social-justice-activism/?outputType=amp"
+    type: article
+    provider:
+      name: Tampa Bay Times
+      domain: tampabay.com
     quality: 75
     images:
-      - url: "https://d3el53au0d7w62.cloudfront.net/wp-content/uploads/2021/08/23/BC-US-Congress-Infrastructure-IMG-630x420.jpg"
-        width: 630
-        height: 420
+      - url: "https://www.tampabay.com/resizer/H3idYXdZk6JBiyKwaxGXggjk8_8=/800x450/filters:focal(2065x1285:2075x1275)/cloudfront-us-east-1.images.arcpublishing.com/tbt/EPAHJMPR7OBARKIDWG2FATIR2Q.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Joe Biden in the ‘Loneliest Job,' a Presidency Driven by Crisis"
     excerpt: "Surrounded by everything a superpower can offer and watched by all, President Joe Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan and tried to keep the focus on what,"
-    publishedDateTime: 2021-08-29T01:54:00Z
-    webUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
+    publishedDateTime: 2021-08-28T22:12:00Z
+    webUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/"
     ampWebUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
     cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
     type: article
@@ -73,19 +89,49 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Poll shows most Florida voters disapprove of Joe Biden’s performance"
-    excerpt: "A majority of Florida voters disapprove of President Joe Biden’s performance. The Quinnipiac University Poll found 40% of Florida voters approve of Biden’s performance, with 53% disapproving. Views of his COVID-9 response were better."
-    publishedDateTime: 2021-08-25T20:59:00Z
-    webUrl: "https://www.orlandosentinel.com/politics/fl-ne-biden-approval-florida-q-poll-august-2021-20210825-ibuwjcvuefah7gcx5sbn25fmey-story.html"
+  - title: "Joe Biden FORGETS Megan Rapinoe's name, slammed for calling her 'America's best'"
+    excerpt: "Joe Biden's recent praise for Megan Rapinoe accompanied an awkward fumbling as the president forgot her last name"
+    publishedDateTime: 2021-08-25T10:30:00Z
+    webUrl: "https://meaww.com/joe-biden-forget-megan-rapinoe-name-represent-america-best-internet-furious-losers-reactions"
+    ampWebUrl: "https://meaww.com/amp/joe-biden-forget-megan-rapinoe-name-represent-america-best-internet-furious-losers-reactions"
+    cdnAmpWebUrl: "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/joe-biden-forget-megan-rapinoe-name-represent-america-best-internet-furious-losers-reactions"
     type: article
     provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
+      name: Meaww
+      domain: meaww.com
+    quality: 70
+    images:
+      - url: "https://cheesecake.articleassets.meaww.com/546311/uploads/18a4f6a0-058b-11ec-bd95-db89c1205176_800_420.png"
+        width: 800
+        height: 420
+        isCached: true
+  - title: "Biden praises WNBA champs for social justice activism"
+    excerpt: "President Joe Biden honored the 2020 WNBA champions Seattle Storm on Monday, celebrating their success on the court and hailing the four-time title holders for changing lives with"
+    publishedDateTime: 2021-08-24T13:26:00Z
+    webUrl: "https://www.phillytrib.com/sports/biden-praises-wnba-champs-for-social-justice-activism/article_a4098845-3c9c-5182-ba4a-4f5a594da7bc.html"
+    type: article
+    provider:
+      name: Philadelphia Tribune
+      domain: phillytrib.com
     quality: 55
     images:
-      - url: "https://www.orlandosentinel.com/resizer/fd0A7vVARWikIwoJnZ2wJbRNy5A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WWLTWUO72FBD4H6OPFY4HJPBTQ.jpg"
-        width: 1200
-        height: 800
+      - url: "https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/assets/v3/editorial/5/5f/55fd9673-7d2d-5b10-a2e3-90069a1434d2/6124f3e31a6b5.image.jpg?crop=834%2C439%2C79%2C26&resize=400%2C211&order=crop%2Cresize"
+        width: 400
+        height: 211
+        isCached: true
+  - title: "Republicans point fingers at Biden moments after Kabul blasts"
+    excerpt: "By Melanie Zanona, Jeremy Herb and Alex Rogers, CNN Republicans in Congress quickly escalated their criticism of President Joe Biden’s withdrawal of US troops from Afghanistan after two explosions outside Kabul’s airport on Thursday caused the first American casualties since the mass evacuation began."
+    publishedDateTime: 2021-08-26T23:40:00Z
+    webUrl: "https://localnews8.com/politics/cnn-us-politics/2021/08/26/house-republicans-point-fingers-at-biden-moments-after-kabul-blasts/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 55
+    images:
+      - url: "https://localnews8.b-cdn.net/2021/06/Politics-logo-new_KIFIMIFI.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Ashley Moody demands border control assurance from Joe Biden"
     excerpt: "Attorney General Ashley Moody was among 20 Republican AGs signing on to a letter demanding federal assurances of tighter immigration policy. The letter to U.S. Attorney General Merrick Garland followed a favorable ruling in the U."
@@ -112,19 +158,19 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 55
-  - title: "President Joe Biden Proclaims Thursday, 26, 2021 as Women’s Equality Day"
-    excerpt: "On President Joe Biden proclaimed August 26, 2021 as Women’s Equality Day. Today, we celebrate Women’s Equality Day, a reminder not only of the progress women have won through the years, but of the important work that remains to be done."
-    publishedDateTime: 2021-08-26T21:01:00Z
-    webUrl: "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/32707-president-joe-biden-proclaims-thursday-26-2021-as-women-s-equality-day"
+  - title: "Greg Steube calls for Joe Biden resignation after reported Marine deaths"
+    excerpt: "Greg Steube called for President Joe Biden’s resignation after the reported death of four Marines in Kabul. “Horrific,” Steube tweeted. “Joe Biden needs to take"
+    publishedDateTime: 2021-08-26T18:13:00Z
+    webUrl: "https://floridapolitics.com/archives/453349-greg-steube-calls-for-joe-biden-resignation-following-reported-marine-deaths/"
     type: article
     provider:
-      name: Sierra Sun Times
-      domain: goldrushcam.com
+      name: Florida Politics
+      domain: floridapolitics.com
     quality: 54
     images:
-      - url: "https://goldrushcam.com/sierrasuntimes/images/2020/white-house-gov.jpg"
-        width: 679
-        height: 357
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/06/Steube.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "For Biden’s presidency has been driven by crisis and is the ‘loneliest job’"
     excerpt: "President Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan, even as he and the nation continued to battle the COVID-19 pandemic."
@@ -137,31 +183,20 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 53
-  - title: "Storm commemorates 2020 WNBA championship with President Joe Biden at White House"
-    excerpt: "Before leaving the nation's capital, the Storm stopped by the White House on Monday, marking a return to normalcy when sports teams regularly received invitations to celebrate championships and their athletic achievements."
-    publishedDateTime: 2021-08-23T21:13:00Z
-    webUrl: "https://www.startribune.com/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/600090375/"
+  - title: "Greg Steube calls for Joe Biden resignation following reported Marine deaths"
+    excerpt: "Greg Steube called for President Joe Biden’s resignation after the reported death of four Marines in Kabul. “Horrific,” Steube tweeted. “Joe Biden needs to take"
+    publishedDateTime: 2021-08-26T18:13:00Z
+    webUrl: "https://floridapolitics.com/archives/453349-greg-steube-calls-for-joe-biden-resignation-following-reported-marine-deaths/"
     type: article
     provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 50
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 52
     images:
-      - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1629919521"
-        width: 1680
-        height: 876
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/06/Steube.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Storm commemorates 2020 WNBA championship with President Joe Biden at White House"
-    excerpt: "President Joe Biden and first lady Jill Biden hosted an entourage led by Storm captains Sue Bird and Breanna Stewart, coach Noelle Quinn and the majority owners Ginny Gilder, Lisa Brummel and Dawn Trudeau."
-    publishedDateTime: 2021-08-24T22:46:00Z
-    webUrl: "https://www.seattletimes.com/sports/storm/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/"
-    ampWebUrl: "https://www.seattletimes.com/sports/storm/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/sports/storm/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 50
 
 secured: "hD27v5Yq7WE2spNI3f4s3LPMtKTF7K/y+zv5aTU/luDRW7znBaW+zU+WCNiZtpz4DIwlpn2b1dJ9C+/5+H4v0sRZmiRF+7Ggg6GL8ll2J7j6iekwPR12FKsOILLgo8VwULLcXf+TzQMcZgtwLegqkhiDGwFXGxmQJGuLV7uSlvbl/zk5lDI7tMMvpWukNpGztaN5p7LibLLTQai72BlrKh2Nk52xn7OqtcNZwInFAIUlO1WuPFp6tEqhv56S1QAgx/efwNuJYmTDqs8ZQzV8OTnu1v7MLf3AvU6nRyiRWS1Mo41u1NkgEXylBb5zVQAXneCk5jiEU4bucrw9ZaebChS3Ki/Wev1vfVsu77CvL2g=;K5zTrgaAmbIuvoNu+XFA4A=="
 ---

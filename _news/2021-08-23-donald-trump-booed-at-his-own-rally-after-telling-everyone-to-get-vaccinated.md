@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ladbible.com/news/latest-donald-trump-booed-at-rally-aft
 cdnAmpWebUrl: "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/news/latest-donald-trump-booed-at-rally-after-telling-everyone-to-get-vaccinated-20210822.amp.html"
 type: article
 quality: 72
-heat: 172
+heat: 192
 published: true
 
 provider:
@@ -102,6 +102,20 @@ related:
       - url: "https://www.motherjones.com/wp-content/uploads/2021/08/20210822_cullman.jpg?w=1200&h=630&crop=1"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Joe McCarthy was never defeated — and Donald Trump now leads the movement he created"
+    excerpt: "This was more than a little ironic for abundant reasons, especially given that as a younger man, Donald Trump had been mentored by the infamous Roy Cohn, Joe McCarthy's right-hand man, Roy Cohn. Stone tried to salvage that one too, arguing, \"Whether I ..."
+    publishedDateTime: 2021-08-29T10:00:00Z
+    webUrl: "https://www.salon.com/2021/08/29/joe-mccarthy-was-never-defeated--and-donald-trump-now-leads-the-movement-he-created/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 48
+    images:
+      - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2021/08/joe-mccarthy-donald-trump-joe-biden-0827211.jpg"
+        width: 1200
+        height: 810
         isCached: true
 
 secured: "rCO41NvtO7OXln9VXliCSMgf8ehTbMV0knfRza5ZGMaZFtFahLopD5hXkuROSkVQlMI5Tmt4fueEuRlmUSAieHi18jjPZOwyq0ohixN+toDmmzystNGISRi98cE4p7/Tkqvn7R545S3ujC9Eu9+sEonER3lX/aWHXpPg9/RgY9Us4Aczzosp14y0vsyn5MTa9eUcRj9CD4u72VWqhemIUOlPzn83/BOTqiMsoAVDRQjLVajvgGv+RvOFvxwF35QILKC+TaFpJDppOmO1hwU2tZSoDIyBnN0JjyCGyKtFHJzUbXz2+MKLYx/5C5Cqekz3QwRwxKjD3Nli/rDMOgci9O/xpOHU7GAo20o0khe3y+c=;JR0BAfc5QugwdQ8jzh7DQA=="

@@ -111,21 +111,37 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Biden: Another attack likely, pledges more strikes on IS"
-    excerpt: "He warned another attack was “highly likely” and the State Department called the threat “specific” and “credible.” The Pentagon said the remaining contingent of U.S. forces at the airport, now numbering fewer than 4,"
-    publishedDateTime: 2021-08-29T08:50:00Z
-    webUrl: "https://www.timesunion.com/news/article/Biden-Another-attack-likely-pledges-more-16419255.php"
-    ampWebUrl: "https://www.timesunion.com/news/amp/Biden-Another-attack-likely-pledges-more-16419255.php"
-    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Biden-Another-attack-likely-pledges-more-16419255.php"
+  - title: "Biden attends dignified transfer of 13 service members killed in Kabul"
+    excerpt: "President Joe Biden traveled to Dover Air Force Base in Delaware on Sunday to attend the dignified transfer of the American service members killed in a pair of explosions near Hamid Karzai International Airport in Kabul."
+    publishedDateTime: 2021-08-29T22:51:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/08/29/Biden-attends-diginified-transfer-13-service-members-killed-Kabul/3171630273282/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/08/29/Biden-attends-diginified-transfer-13-service-members-killed-Kabul/3171630273282/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/29/Biden-attends-diginified-transfer-13-service-members-killed-Kabul/3171630273282/"
     type: article
     provider:
-      name: Times Union
-      domain: timesunion.com
+      name: UPI.com
+      domain: upi.com
     quality: 75
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/3171630273282/2021/1/c3e7a3e83faa803742a8af0509932e1f/v1.5/Biden-attends-dignified-transfer-of-13-service-members-killed-in-Kabul.jpg"
+        width: 800
+        height: 532
+        isCached: true
+  - title: "Was Biden looking at his watch during ceremony for Marines killed in Kabul?"
+    excerpt: "It appeared President Biden glanced at his watch during a solemn ceremony for U.S. Marines killed in the Kabul terror attack."
+    publishedDateTime: 2021-08-30T02:28:00Z
+    webUrl: "https://www.bostonherald.com/2021/08/29/was-biden-looking-at-his-watch-during-ceremony-for-marines-killed-in-kabul/"
+    ampWebUrl: "https://www.bostonherald.com/2021/08/29/was-biden-looking-at-his-watch-during-ceremony-for-marines-killed-in-kabul/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/08/29/was-biden-looking-at-his-watch-during-ceremony-for-marines-killed-in-kabul/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 73
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2021/08/GettyImages-1234946450.jpg?w=1024&#038;h=642"
+        width: 1024
+        height: 642
         isCached: true
   - title: "Seattle Storm Visit President Joe Biden at White House to Celebrate 2020 WNBA Title"
     excerpt: "The Seattle Storm were honored Monday at the White House by President Joe Biden to commemorate their 2020 WNBA championship. They were the first WNBA"
@@ -174,6 +190,22 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/2x4aoo80nkmm0zvb_1630205335.jpeg"
         width: 768
         height: 439
+        isCached: true
+  - title: "Joe And Jill Biden Meet With Family Members Of Servicemen Killed In Kabul Terror Attack"
+    excerpt: "President Joe Biden on Sunday appeared at Dover Air Force Base in Delaware to participate in the \"dignified transfer\" of the 13 service members killed in the recent Kabul airport terrorist attacks. First lady Jill Biden,"
+    publishedDateTime: 2021-08-29T20:22:00Z
+    webUrl: "https://www.ibtimes.com/joe-jill-biden-meet-family-members-servicemen-killed-kabul-terror-attack-3283385"
+    ampWebUrl: "https://www.ibtimes.com/joe-jill-biden-meet-family-members-servicemen-killed-kabul-terror-attack-3283385?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-jill-biden-meet-family-members-servicemen-killed-kabul-terror-attack-3283385?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 67
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2015/10/27/us-troops-handover-iraqi-military-during-ceremony-iraq.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Warnings of possible attack at Kabul airport; Biden, Israeli PM to meet; MLS gaining popularity"
     excerpt: "Britain warns attack on Kabul airport could come within hours; Biden, Israeli PM to meet for first time; MLS seeing boost in popularity. Here are this morning's headlines."
@@ -284,20 +316,6 @@ related:
       name: The Herald SC
       domain: heraldonline.com
     quality: 55
-  - title: "Republicans point fingers at Biden moments after Kabul blasts"
-    excerpt: "By Melanie Zanona, Jeremy Herb and Alex Rogers, CNN Republicans in Congress quickly escalated their criticism of President Joe Biden’s withdrawal of US troops from Afghanistan after two explosions outside Kabul’s airport on Thursday caused the first American casualties since the mass evacuation began."
-    publishedDateTime: 2021-08-26T23:40:00Z
-    webUrl: "https://localnews8.com/politics/cnn-us-politics/2021/08/26/house-republicans-point-fingers-at-biden-moments-after-kabul-blasts/"
-    type: article
-    provider:
-      name: Local News 8
-      domain: localnews8.com
-    quality: 55
-    images:
-      - url: "https://localnews8.b-cdn.net/2021/06/Politics-logo-new_KIFIMIFI.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Biden in turmoil as blast in Kabul raises leadership questions"
     excerpt: "If nothing else, the attacks exemplified the dilemma Biden faced when he was asked by allies to extend the deadline. By leaving, he may be unable to bring every American and thousands of allied Afghans out of the Taliban's clutches."
     publishedDateTime: 2021-08-28T09:43:00Z
@@ -312,20 +330,28 @@ related:
         width: 1707
         height: 960
         isCached: true
-  - title: "Greg Steube calls for Joe Biden resignation after reported Marine deaths"
-    excerpt: "Greg Steube called for President Joe Biden’s resignation after the reported death of four Marines in Kabul. “Horrific,” Steube tweeted. “Joe Biden needs to take"
-    publishedDateTime: 2021-08-26T18:13:00Z
-    webUrl: "https://floridapolitics.com/archives/453349-greg-steube-calls-for-joe-biden-resignation-following-reported-marine-deaths/"
+  - title: "Biden: Another attack likely, pledges more strikes on IS"
+    excerpt: "President Joe Biden is warning that it’s “highly likely” an Islamic State affiliate will try another attack in Afghanistan."
+    publishedDateTime: 2021-08-29T03:07:00Z
+    webUrl: "https://www.theolympian.com/news/politics-government/national-politics/article253826773.html"
+    ampWebUrl: "https://amp.theolympian.com/news/politics-government/national-politics/article253826773.html"
+    cdnAmpWebUrl: "https://amp-theolympian-com.cdn.ampproject.org/c/s/amp.theolympian.com/news/politics-government/national-politics/article253826773.html"
     type: article
     provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 54
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2021/06/Steube.jpg"
-        width: 1200
-        height: 675
-        isCached: true
+      name: The Olympian
+      domain: theolympian.com
+    quality: 55
+  - title: "Biden: Another attack likely, pledges more strikes on IS"
+    excerpt: "President Joe Biden is warning that it’s “highly likely” an Islamic State affiliate will try another attack in Afghanistan."
+    publishedDateTime: 2021-08-29T23:14:00Z
+    webUrl: "https://www.kentucky.com/news/politics-government/national-politics/article253826773.html"
+    ampWebUrl: "https://amp.kentucky.com/news/politics-government/national-politics/article253826773.html"
+    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/politics-government/national-politics/article253826773.html"
+    type: article
+    provider:
+      name: Lexington Herald Leader
+      domain: kentucky.com
+    quality: 55
   - title: "Joe Biden promises further US strikes against ISIS-K members responsible for suicide attack outside Kabul airport"
     excerpt: "US President Joe Biden promises further airstrikes against the Islamic State group in Afghanistan after an initial drone attack was launched in retaliation to a deadly bombing outside Kabul airport."
     publishedDateTime: 2021-08-28T20:15:00Z

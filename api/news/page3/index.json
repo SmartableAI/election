@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-25-column-donald-trump-cant-cram-his-fake-news-genie-back-in-his-bottle.md",
+      "title": "Column: Donald Trump can’t cram his ‘fake news’ genie back in his bottle",
+      "excerpt": "As Donald Trump may be discovering, once you’ve let that “fake news” genie out of the bottle, it’s impossible to reverse all of the damage it can bring.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/columns/clarence-page/ct-column-covid-trump-infodemic-fda-horse-paste-page-20210824-k2lxoefxhfdchb367rojvow45i-story.html",
+      "originalUrl": "https://www.chicagotribune.com/columns/clarence-page/ct-column-covid-trump-infodemic-fda-horse-paste-page-20210824-k2lxoefxhfdchb367rojvow45i-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/D_PVpCIYkDiA1eyzytliOlOmCpg=/1200x0/right/bottom/cloudfront-us-east-1.images.arcpublishing.com/tronc/POWAOZWWKRHONM5KEXQ45AS3GI.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-24T13:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-former-trump-adviser-biden-needs-to-fire-top-taliban-negotiator-khalilzad.md",
+      "title": "Former Trump adviser: Biden needs to fire top Taliban negotiator Khalilzad",
+      "excerpt": "Lt. Gen. H.R. McMaster, Donald Trump’s former national security adviser, is laying some of the blame for the current chaos in Afghanistan squarely at the feet of Ambassador Zalmay Khalilzad, the Afghan-American diplomat who has been the point man for talks with the Taliban in both Republican and Democratic administrations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2021/aug/24/former-trump-adviser-biden-needs-fire-top-taliban-/",
+      "originalUrl": "https://www.washingtontimes.com/news/2021/aug/24/former-trump-adviser-biden-needs-fire-top-taliban-/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 228,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2018/07/11/books-mcmaster_42215_c0-176-4205-2628_s1200x700.jpg?fc7050ca65b373159166adfd97568bd9321a7b9d",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.washingtontimes.com/news/2021/aug/24/former-trump-adviser-biden-needs-fire-top-taliban-/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/24/former-trump-adviser-biden-needs-fire-top-taliban-/",
+      "publishedDateTime": "2021-08-24T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-sasse-urges-biden-to-tell-taliban-were-getting-our-people-out-however-long-it-takes-damn-the-deadline.md",
       "title": "Sasse urges Biden to tell Taliban 'we're getting our people out however long it takes': 'Damn the deadline'",
       "excerpt": "In a blistering statement, Sen. Ben Sasse said Biden should be calling the shots, not the Taliban, who said there would be \"no extensions\" of the deadline set for withdrawal.",
@@ -122,7 +217,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 487,
+      "heat": 507,
       "tags": null,
       "images": [
         {
@@ -235,7 +330,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 2581,
+      "heat": 2621,
       "tags": null,
       "images": [
         {
@@ -541,49 +636,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-24-joe-biden-praises-wnba-champs-for-social-justice-activism.md",
-      "title": "Joe Biden praises WNBA champs for social justice activism",
-      "excerpt": "The visit marked the first time that an NBA or WNBA team has visited the White House since the Cleveland Cavaliers were feted by Barack Obama in 2016.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tampabay.com/sports/2021/08/23/joe-biden-praises-wnba-champs-for-social-justice-activism/",
-      "originalUrl": "https://www.tampabay.com/sports/2021/08/23/joe-biden-praises-wnba-champs-for-social-justice-activism/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tampabay.com/resizer/H3idYXdZk6JBiyKwaxGXggjk8_8=/800x450/filters:focal(2065x1285:2075x1275)/cloudfront-us-east-1.images.arcpublishing.com/tbt/EPAHJMPR7OBARKIDWG2FATIR2Q.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tampabay.com/sports/2021/08/23/joe-biden-praises-wnba-champs-for-social-justice-activism/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/sports/2021/08/23/joe-biden-praises-wnba-champs-for-social-justice-activism/?outputType=amp",
-      "publishedDateTime": "2021-08-23T17:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tampa Bay Times",
-        "domain": "tampabay.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-08-24-why-is-joe-biden-suing-facebook-and-instagram-over-vaccine-posts.md",
       "title": "Why is Joe Biden suing Facebook and Instagram over vaccine posts?",
       "excerpt": "Facebook is back in hot water after an explosive New York Times investigative report found the company hid the truth about its most popular viral content after the company discovered the most-viewed link on the platform raised doubt about the coronavirus vaccine.",
@@ -641,21 +693,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-24-apple-ceo-tim-cook-to-meet-with-us-president-joe-biden-to-discuss-cybersecurity.md",
-      "title": "Apple CEO Tim Cook to Meet With U.S. President Joe Biden to Discuss Cybersecurity",
-      "excerpt": "Apple CEO Tim Cook is set to join other tech executives in a cybersecurity meeting with U.S. President Joe Biden next week, reports Bloomberg.",
+      "path": "_news/2021-08-24-seattle-storm-visit-president-biden-white-house-to-celebrate-2020-wnba-title.md",
+      "title": "Seattle Storm visit President Biden, White House to celebrate 2020 WNBA title",
+      "excerpt": "The Storm became the first women’s team welcomed by President Biden and the first WNBA squad at the White House since the 2015 Minnesota Lynx.",
       "sourceUrl": null,
-      "webUrl": "https://www.macrumors.com/2021/08/23/tim-cook-joe-biden-cybersecurity-meeting/",
-      "originalUrl": "https://www.macrumors.com/2021/08/23/tim-cook-joe-biden-cybersecurity-meeting/",
+      "webUrl": "https://www.freep.com/story/sports/wnba/storm/2021/08/23/seattle-storm-visit-president-biden-white-house-honor-wnba-title/8245818002/",
+      "originalUrl": "https://www.freep.com/story/sports/wnba/storm/2021/08/23/seattle-storm-visit-president-biden-white-house-honor-wnba-title/8245818002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 152,
       "tags": null,
       "images": [
         {
-          "url": "https://images.macrumors.com/t/IDpC4PrZIv4mNWa0wPO2j5dgr0U=/1600x/http://images.macrumors.com/article-new/2019/02/timcooktulane.jpg",
-          "width": 1600,
-          "height": 1200,
+          "url": "https://www.gannett-cdn.com/presto/2021/08/23/USAT/eaa65bb6-091f-4e5e-b30d-bdbf44364616-GTY_1234836329.jpg?auto=webp&crop=7544,4244,x1,y787&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -663,13 +715,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.macrumors.com/2021/08/23/tim-cook-joe-biden-cybersecurity-meeting/amp/",
-      "cdnAmpWebUrl": "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/08/23/tim-cook-joe-biden-cybersecurity-meeting/amp/",
-      "publishedDateTime": "2021-08-23T16:16:00-07:00",
+      "ampWebUrl": "https://amp.freep.com/amp/8245818002",
+      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/8245818002",
+      "publishedDateTime": "2021-08-23T14:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MacRumors",
-        "domain": "macrumors.com",
+        "name": "Detroit Free Press",
+        "domain": "freep.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1063,7 +1115,7 @@
       "originalUrl": "https://www.cleveland.com/nation/2021/08/budget-clash-pits-moderate-democrats-against-biden-pelosi.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 275,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -1106,7 +1158,7 @@
       "originalUrl": "https://www.businessinsider.com/matt-gaetz-asked-for-trumps-approval-before-proposing-to-ginger-luckey-2021-8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -1214,7 +1266,7 @@
       "originalUrl": "https://www.latimes.com/world-nation/story/2021-08-23/kamala-harris-says-focus-must-stay-on-afghan-evacuation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1785,
+      "heat": 1825,
       "tags": null,
       "images": [
         {
@@ -1255,58 +1307,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-carlyle-alums-governor-run-mixes-trump-backing-maga-lite-style.md",
-      "title": "Carlyle Alum’s Governor Run Mixes Trump Backing, MAGA-Lite Style",
-      "excerpt": "The crowd of about 300 Republican stalwarts in Norfolk, Virginia, included those wearing the requisite red baseball caps.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-08-23/carlyle-alum-s-governor-run-mixes-trump-backing-maga-lite-style",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-08-23/carlyle-alum-s-governor-run-mixes-trump-backing-maga-lite-style",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iD7mjU39SxqU/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-22T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How the White House and Democrats hope to survive Biden's political bruises "
+    excerpt: "President Joe Biden was likely to lose Democratic control of Congress before last week's carnage in Afghanistan. That's more likely now.\n    \n"
+    publishedDateTime: 2021-08-29T21:37:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UMytEgp4LzQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/29/politics/white-house-democrats-political-damage-afghanistan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/29/politics/white-house-democrats-political-damage-afghanistan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704190844-white-house-exterior-0703-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration proposes overhaul of asylum system to speed up claim approval"
     excerpt: "The Biden administration has proposed a federal regulation that would overhaul the asylum system in an attempt to settle claims at a faster pace and help alleviate the immigration court backlog, the departments of Homeland Security and Justice announced Wednesday.\n    \n"
     publishedDateTime: 2021-08-18T13:51:53Z

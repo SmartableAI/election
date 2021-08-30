@@ -1374,6 +1374,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Kamala Harris’ cackling is Joe Biden’s job security"
+    excerpt: "Vice President Kamala Harris is just too prone to verbal fumbles that pour more fuel on the Biden administration’s fires."
+    publishedDateTime: 2021-08-29T01:48:00Z
+    webUrl: "https://nypost.com/2021/08/28/kamala-harris-cackling-is-joe-bidens-job-security/"
+    ampWebUrl: "https://nypost.com/2021/08/28/kamala-harris-cackling-is-joe-bidens-job-security/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/28/kamala-harris-cackling-is-joe-bidens-job-security/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/kamala-cackle.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Trump slams Biden for Afghanistan withdrawal during Alabama rally appearance"
     excerpt: "Former President Donald Trump criticized President Joe Biden’s ‘total surrender’ for the United States withdrawal from the Taliban-controlled Afghanistan."
     publishedDateTime: 2021-08-22T06:15:00Z
@@ -1405,6 +1421,20 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7ce0f117-855d-485a-8378-a18e1f86533d/96814e03-85f8-4119-901f-cf23f0104adc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden refuses to take Afghanistan question, walks away after offering to take questions at FEMA"
+    excerpt: "President Biden blew off a question about Afghanistan after offering to take questions at the Federal Emergency Management Agency headquarters in Washington on Sunday."
+    publishedDateTime: 2021-08-29T20:23:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6jUJdbS8SQU/biden-refuses-afghanistan-question-walks-away-after-offering-to-take-questions-at-fema"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 143
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/BIDEN.png"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Lara Trump blasts Kamala Harris on Afghanistan: She thinks we'll all forget about this"
     excerpt: "Fox News contributor Lara Trump slammed Vice President Kamala Harris on Friday for providing vague responses to reporters' questions and traveling to Asia while the crisis in Afghanistan continues."
@@ -1887,6 +1917,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "vsyVSsgE4VXvSlM0F2ee0tsJEeGq6t5UBaGe7d1ZziOiWcymNYk4vnyqvIT2t3S0decsO7bQAhHQmhyxRXp7ifT6UwMJ5U15wGSXM1/ax8P0DAup3HEYLLMfvqIeH+ucubZvnLL5IcIBXXOQvAA4zE3CoL359+URYbSJBxeeXTjo1tZssqcZSY/HLXxwobLbTCPEmM9oIbeuMOnpH1Mi4kFZPjsXM4SFdIC9r1SKi1QEvhkmssrDx/HLctLoKGJlINdhttU/Qd/tMXfJWOEcKFiZnkbhdTRNA34KrIY2vofPc4pp45rMSyhG7O++I2t/uN4h6O3/9LJ7VWYhadhIeGC8PaO0RI0HeSpx1yTzubw=;D4OUCsiwfgRkcemH5IA6Kg=="
+secured: "ShDqxDTuzavrDIrdvFGvvjluomG4KvNc0d056ylx1Ks1R6kshuZEmHaTT/dySGOLtuNeu8bRB6ZlKaf93FdsTme6qScVKCKFbfeXMXw7D0QnwHfeqGuVdCriYsx//A0jA4DasPZ3M+WLrpPvZkDoZI+SgiVdFw2U35QS8y2qTvGUcfjDsc71PNmHdc0VrqP97DwpRGM83pk4AxA3P3wr1ofhsz5LYVvKXhNRa3cH4svbeHZbkHxgKTVaEFgXWmcx8AQoLFI9tVgDwQ3CYG25M+8DT8bVrOjrlzN+Mslnx0D/rLM/o6F77aDDA9yfwWENq9vRBkhn2Mh/lOjr2ZEI+6IKBJhSKD6GkquzO1LrtjPhLmup8AM/2jzrUSbe77a3VngLOVEFgKJ6+sF5JmcK2JXHuVoqv+zw6trn5lULWbzPdM9KZk4rKcAEag1JUYZEW9JEjDxsZkoBQNCOUjfDbAySoyUWE7bL/AU1Ud5Raad4QJEBHLp5MtKQK0JRH4hn87V5/eLQ9NIWKlpj4R5a7A==;OLOqu7uroXtJxvod8I2mnw=="
 ---
 
