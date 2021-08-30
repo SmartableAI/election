@@ -336,14 +336,14 @@ related:
   - title: "President Joe Biden Departs Holy Trinity Catholic Church"
     excerpt: "US President Joe Biden walks out of Holy Trinity Catholic Church after mass in the Georgetown neighborhood of Washington, DC on Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover,"
     publishedDateTime: 2021-08-29T22:47:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/bad2070604133af510798531d9d3cf3c/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/892121aec790ee325107640365b766b7/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/bad2070604133af510798531d9d3cf3c/BIDEN-CHURCH.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/892121aec790ee325107640365b766b7/BIDEN-CHURCH.jpg"
         width: 650
         height: 433
         isCached: true
@@ -380,6 +380,15 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
+    quality: 35
+  - title: "President Biden Meeting with FEMA Administrator on Hurricane Ida"
+    excerpt: "President Biden meets virtually with FEMA Administrator Deanne Criswell to get an update on response efforts to Hurricane Ida. President Biden encouraged people to get the COVID-19 vaccination to avoid compounding the crisis of the"
+    publishedDateTime: 2021-08-30T17:57:00Z
+    webUrl: "https://www.c-span.org/video/?514363-1/president-biden-meeting-fema-administrator-hurricane-ida"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
     quality: 35
 
 secured: "W18HeBJ2aJOIhhkJc9Wpcx87rx5nwHLKCURcPXHj5Ash/rKsvZaNSIbWLKdL+T5WbhFY8qNj4TmhZpipNdks2/hUEO1ewoq5NWBSkQxRFPUpEZirinKl0PmN71VleIGUyc+sPFKHeYbo1bmiC5/hgJHFjfR0FE6de7l34eD4NdRTYUyFKx4UYceDBAWz3A/NCr5RSE4yZulXe33triWVdSBRxGceJ51NbsEstOJQAtxtvphywcyHf0mcY9YWqeCSbr3oZJUwH8wIWNy/46RKhhKnkbMK1T6dpjidDDKeomUgS05HV3dtP8DWSTQ9uoO+d3Pt+voOIJtrP3xlsHTDHwrQMYF2SFRVoRFEkXfXBYs=;Vucatg8Dv3P8cwDfsLOhwQ=="

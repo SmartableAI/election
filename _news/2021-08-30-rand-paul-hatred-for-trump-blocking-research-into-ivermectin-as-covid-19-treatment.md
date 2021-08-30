@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/569975-rand-paul-hatred-for-trump-block
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/569975-rand-paul-hatred-for-trump-blocking-research-into-ivermectin?amp"
 type: article
 quality: 118
-heat: 118
+heat: 138
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 980
     height: 551
     isCached: true
+
+related:
+  - title: "Rand Paul undecided on ivermectin to treat COVID-19, says hatred of Trump hinders research"
+    excerpt: "Hatred of former President Donald Trump has kept researchers from looking into the anti-parasitic drug ivermectin and other drugs to treat COVID-19, Republican Kentucky Sen. Rand Paul told constituents on Friday."
+    publishedDateTime: 2021-08-30T17:22:00Z
+    webUrl: "https://www.courier-journal.com/story/news/politics/rand-paul/2021/08/30/rand-paul-ivermectin-senator-undecided-on-drug-to-treat-covid/5652636001/"
+    ampWebUrl: "https://amp.courier-journal.com/amp/5652636001"
+    cdnAmpWebUrl: "https://amp-courier--journal-com.cdn.ampproject.org/c/s/amp.courier-journal.com/amp/5652636001"
+    type: article
+    provider:
+      name: Courier-Journal
+      domain: courier-journal.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/25/PLOU/68676780-4835-4d79-bc53-daea692eb138-RandPaul_01jpg.jpg?auto=webp&crop=4668,2626,x0,y428&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "Ij9+IpyVjjS52/vqWQXTwnI/RGHSlDWi85kqMrNkoePDRZtsBoLP9Hlhi8wSL6fkbNnUys1o1Yu4VCxwgdOwpiIhjI/Igb5ZaPymchN8eyCXZpyetGwR8Yh2GDAkV/lRz6JHKELL5iKt1sb6aGayM++9X0qq5EHFpNknb6kFeRDWpsyp+inFh2qyFALga7QxvYur/T0i4o4CzsC8WwcPYLc41E+WFJ2CaA/6k8wBXc+NMxBTE2Y9N0bx9RttibtAcRjPYN0pfyf7unVQ4Qk2I7+k4ZO0XtYwhnZwNiA854Bd3VIqy4SkSbcmCYc2wOGwsMTp7vlrQ5iX1/w/AvqpjGoh9u4wpdQfKaeYGsxgAlU=;4s19buspuhIlhwopJPkIFQ=="
 ---

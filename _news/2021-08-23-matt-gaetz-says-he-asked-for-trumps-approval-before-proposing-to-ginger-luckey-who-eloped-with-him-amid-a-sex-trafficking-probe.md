@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/matt-gaetz-asked-for-trumps-approval
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/matt-gaetz-asked-for-trumps-approval-before-proposing-to-ginger-luckey-2021-8?amp"
 type: article
 quality: 96
-heat: 116
+heat: 136
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/24/matt-gaetz-a-us-congressman-from-florida-addressed.jpg"
         width: 1024
         height: 534
+        isCached: true
+  - title: "Matt Gaetz, Anthony Sabatini, Roger Stone to headline October conference at Trump National Doral"
+    excerpt: "Matt Gaetz and Paul Gosar, state Rep. Anthony Sabatini, former National Security Adviser Mike Flynn and longtime Trump ally Roger Stone will all be on hand for the event. The gathering will take place Oct."
+    publishedDateTime: 2021-08-30T16:41:00Z
+    webUrl: "https://floridapolitics.com/archives/453977-gaetz-sabatini-stone-trump-doral/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 42
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2020/04/doral.jpg"
+        width: 1260
+        height: 840
         isCached: true
 
 secured: "Nk7WJ79eKqU4OJAIcg2ibPwCHp8h5yJzAFU6t+EjPylFUL5TEgHgoOiDu9IuPT6xnMFtKToFV9BX+du1K2MgQIYGsUJk+IYPm3GSdKlf0v5CQGd06RIKVyJEGaWNxnkP2IlJ6WhDfjyDDFn69PiXMQSH+suAkqFi+9c24FhEBfIX6hSlvEOtkc5fw4kgGQfwexELdAc0SdqWwlWyQ51V/7/NRkbnSe3rL/x1k7z3wvmKEhlAK0+ssz6sMnf+z3LvmP36yGe0f3j37g8F+7sx3/W2laodkUWO9ngyLb2Sv7PMRjBuRbArgsxdBh65ajBf7fi094iTXePnftfPZx6780/tAjohWcl+I4HKF6oHmpI=;YNmvNqFg8ppbmKIclueLtQ=="

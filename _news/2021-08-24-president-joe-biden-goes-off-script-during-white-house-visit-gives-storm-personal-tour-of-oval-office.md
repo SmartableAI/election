@@ -342,14 +342,14 @@ related:
   - title: "President Joe Biden Departs Holy Trinity Catholic Church"
     excerpt: "US President Joe Biden walks out of Holy Trinity Catholic Church after mass in the Georgetown neighborhood of Washington, DC on Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover,"
     publishedDateTime: 2021-08-29T22:47:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/bad2070604133af510798531d9d3cf3c/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/892121aec790ee325107640365b766b7/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/bad2070604133af510798531d9d3cf3c/BIDEN-CHURCH.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/892121aec790ee325107640365b766b7/BIDEN-CHURCH.jpg"
         width: 650
         height: 433
         isCached: true
@@ -375,6 +375,15 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
+    quality: 35
+  - title: "President Biden Meeting with FEMA Administrator on Hurricane Ida"
+    excerpt: "President Biden meets virtually with FEMA Administrator Deanne Criswell to get an update on response efforts to Hurricane Ida. President Biden encouraged people to get the COVID-19 vaccination to avoid compounding the crisis of the"
+    publishedDateTime: 2021-08-30T17:57:00Z
+    webUrl: "https://www.c-span.org/video/?514363-1/president-biden-meeting-fema-administrator-hurricane-ida"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
     quality: 35
 
 secured: "N/FDaGs1+IpuPiOOqH9+FAqO/jLmzt/3XprLMMuYHu+uYJyk8rpFw1sA+jxIB1Ftg5s1bi4qTsZAd6YFBsmI6u1ZjrXwQjs5Lv92RrNbZWFyMWh/G5bEtn2VZ/nTMUaXg4Icj0St2Y4qSPy5I1uhxvIQXg8cev8kYhBtoz/00mF/fx15NsAkG0M3mwr7KTpuHdrnJlUZKYOR7erogchgxFXLT19rgECRvcci2/ivjwQxhHTIZo9iOCMXgnFKwIWxIloNse65ACPa20ckJjAluNu96riQm+2OKHEN2O5K5HGFN7ChQ/WItq2EFDKG/7jlOWULCXxTccHjUr/s7wSIWYq26DFC22rfdNG/ZU528y9GsZdGENtwlZbtwB1V8QhRR7ltaMei60a3SMgmwDnk1b3n9lm9DYbbbVqRrND4MXOTTvm9ckNa0+PoX3UOXRDMSw7rzydBGxJhLyb4qH5RlXjPi5FummG2c+OGNW1hp2B/ULxOWRG8itkdo1f9wiid5r6FGhfaNbFx62HPneUspA==;TScxJY43JEoMpHSmQqgC3w=="

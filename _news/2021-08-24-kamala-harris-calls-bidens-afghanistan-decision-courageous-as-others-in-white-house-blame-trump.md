@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-biden-afghanistan-dec
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-biden-afghanistan-decision-courageous-trump-blame.amp"
 type: article
 quality: 201
-heat: 2681
+heat: 2721
 published: true
 
 provider:
@@ -1280,6 +1280,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Family of Marine killed in Afghanistan slams Biden meeting as scripted, a ‘total disregard' to Marine's death"
+    excerpt: "Biden traveled to Dover, Delaware, on Sunday to attend the dignified transfer of the 13 service members killed in Kabul suicide bombings last week and meet with the families of the fallen."
+    publishedDateTime: 2021-08-30T16:38:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oFUP1OYe3qQ/marine-family-slams-biden-meeting-scripted"
+    ampWebUrl: "https://www.foxnews.com/politics/marine-family-slams-biden-meeting-scripted.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/marine-family-slams-biden-meeting-scripted.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5a0a6063-3fa3-4e4a-baa2-5497ec6a95dc/c5d81db0-b1e2-4e26-bb78-ca1a450c310d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Republicans demand resignations over Biden's Afghanistan debacle"
     excerpt: "A handful of Republican congressmen are calling for heads to roll in the administration for the botched handling of the troop withdrawal from Afghanistan."
     publishedDateTime: 2021-08-17T21:19:44Z
@@ -1763,6 +1779,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/kamala-harris-heads-to-Singapore-and-Vietnam-featured.jpg?quality=90&strip=all&w=1024"
         width: 1024
         height: 682
+        isCached: true
+  - title: "MSNBC analyst attempts baseball analogy to absolve Biden of blame for Afghanistan debacle"
+    excerpt: "MSNBC analyst Richard Stengel tried to compare the crisis in Afghanistan to a lopsided baseball game Monday in attempting to absolve President Joe Biden of blame for his tumultuous troop withdrawal."
+    publishedDateTime: 2021-08-30T16:39:00Z
+    webUrl: "https://www.foxnews.com/media/msnbc-analyst-baseball-analogy-biden-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/media/msnbc-analyst-baseball-analogy-biden-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/msnbc-analyst-baseball-analogy-biden-afghanistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2963ed08-0800-4e10-a41b-e25990c84aff/edcc14a8-a441-4464-b260-0de49b92b591/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Kamala Harris plans Vietnam visit – just as Afghanistan draws comparisons to fall of Saigon"
     excerpt: "Kamala Harris’ planned trip to Vietnam next week comes as the current crisis in Afghanistan has drawn comparisons to the fall of Saigon in the 1970s."

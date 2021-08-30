@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Matt Gaetz, Anthony Sabatini, Roger Stone to headline October conference at Trump National Doral"
+    excerpt: "Matt Gaetz and Paul Gosar, state Rep. Anthony Sabatini, former National Security Adviser Mike Flynn and longtime Trump ally Roger Stone will all be on hand for the event. The gathering will take place Oct."
+    publishedDateTime: 2021-08-30T16:41:00Z
+    webUrl: "https://floridapolitics.com/archives/453977-gaetz-sabatini-stone-trump-doral/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 42
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2020/04/doral.jpg"
+        width: 1260
+        height: 840
+        isCached: true
 
 secured: "61m1Dc7RObLrkdbZr+YQC3ICpWEas1e82NPSLXTuH7p7zbW1NPMKmVASXMsrDqmSCZRMPgqYZtMvGEwrLMFaqcoyEnwyh0eRCbse+NHeualstN1lVBnEnBRvoRMYEQ4FKnAmShgEQQ7vX7vKgbQ7ICavTri90Z99MNgMpkRr0lJ4OJyXhfQD7eKLSibe4fZtXqa3dQ6QCEXJwYlNFdLFShandCpKQqAFm20xhTjrEknsitT432xoDOy6Xrd2kmwdXbrE8ZcS5wghnOqSv2NAdgT7NyvTDGcjOnQjDZHxNXJgctrbfvvU0l2nDFiiYvpSl4z3tQol8/Ds7OJ5SFr1kw7SHLL5DmJ4gmzH4o2/V6WoapnZnX+YpJSTW5JMKTGpqzAHw5g+lZ1xALWB1XA5fQmXkEsLwTz+IDsBZRi48xyPrxi3CCqzOadgP7E951QNH+Fxcs6AeYKyr0thIMmY8/od+YQ9ehIYSAqfJq9BtmWvqQmsWJh7M7URTiTkwvNMOrMMtf4D38CipTB8TnW0JQ==;oC5EePqW7OLwJTgl8SgSaw=="
 ---

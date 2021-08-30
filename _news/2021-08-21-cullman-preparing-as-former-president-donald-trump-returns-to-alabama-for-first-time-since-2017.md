@@ -203,6 +203,22 @@ related:
         width: 768
         height: 439
         isCached: true
+  - title: "Researcher plots relationship between Trump support, vaccine hesitancy from coast to coast"
+    excerpt: "In Nebraska, the counties with the highest and lowest vaccine rates line up directly with how people voted in the last presidential election."
+    publishedDateTime: 2021-08-30T16:20:00Z
+    webUrl: "https://siouxcityjournal.com/news/state-and-regional/researcher-plots-relationship-between-trump-support-vaccine-hesitancy-from-coast-to-coast/article_7c60ef77-f38f-59a4-8a60-3999e84f9cb8.html"
+    ampWebUrl: "https://siouxcityjournal.com/news/state-and-regional/researcher-plots-relationship-between-trump-support-vaccine-hesitancy-from-coast-to-coast/article_7c60ef77-f38f-59a4-8a60-3999e84f9cb8.amp.html"
+    cdnAmpWebUrl: "https://siouxcityjournal-com.cdn.ampproject.org/c/s/siouxcityjournal.com/news/state-and-regional/researcher-plots-relationship-between-trump-support-vaccine-hesitancy-from-coast-to-coast/article_7c60ef77-f38f-59a4-8a60-3999e84f9cb8.amp.html"
+    type: article
+    provider:
+      name: Sioux City Journal
+      domain: siouxcityjournal.com
+    quality: 65
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/e/45/e4576671-9da0-579d-9194-0782919374a7/61241d139399e.image.jpg?resize=1024%2C703"
+        width: 1024
+        height: 703
+        isCached: true
   - title: "Cullman preparing as former President Donald Trump returns to Alabama for first time since 2017"
     excerpt: "Saturday is going to be the first time former President Donald Trump is back in Alabama since 2017. There's a Trump Rally going on this weekend in Cullman and it's expected to bring out thousands of people."
     publishedDateTime: 2021-08-19T00:53:00Z

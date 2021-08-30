@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Departs Holy Trinity Catholic Church"
 excerpt: "US President Joe Biden walks out of Holy Trinity Catholic Church after mass in the Georgetown neighborhood of Washington, DC on Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover,"
 publishedDateTime: 2021-08-29T22:47:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/bad2070604133af510798531d9d3cf3c/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/bad2070604133af510798531d9d3cf3c/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/892121aec790ee325107640365b766b7/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/892121aec790ee325107640365b766b7/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/bad2070604133af510798531d9d3cf3c/BIDEN-CHURCH.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/892121aec790ee325107640365b766b7/BIDEN-CHURCH.jpg"
     width: 650
     height: 433
     isCached: true
@@ -377,7 +377,16 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "President Biden Meeting with FEMA Administrator on Hurricane Ida"
+    excerpt: "President Biden meets virtually with FEMA Administrator Deanne Criswell to get an update on response efforts to Hurricane Ida. President Biden encouraged people to get the COVID-19 vaccination to avoid compounding the crisis of the"
+    publishedDateTime: 2021-08-30T17:57:00Z
+    webUrl: "https://www.c-span.org/video/?514363-1/president-biden-meeting-fema-administrator-hurricane-ida"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
-secured: "MiJn/pfjIDsRz8w+8ZAd4wvc5+stPAxcz9es748pdG0t2zPWgrT3hVASeLWBneXO11xOTccJpK7FxsnIVPgD3mfsUxGTYalTRMVnjwRFco060k+9dM+c8PJ1j7thv/t/4A65C01qRZY2iOv7BNs3xFlgTx2kNMQ3qsrICWUUAC0niAPkccLMa/npJZFof4Itt0uUUC8rOF2pO3tszSep2Uaj+mak0z6+JIFd+kFaCGDHowmj+WxVIwWBtpttopSYGa07jpVUABl+0JUv+T9rMHPJvJO4mRGd4rbqC1u2qqO6WGOGSX2sVgDAskZgyDiCNH9yEBrYxe0IgvmH0sCC/jv8DP7UF6jpNszg9ZXBC2wwJEzzzxZpDzT3xPDJCgLtxysWrmomBELu+46/m565veTYg1h4hkchNYLm0jD2hEFYoDLNU0B/8vz44W0MlNxIa+H3m70ORH3erxO7syApQF0Zj3mq6OoG+ccc/Rnusp1Nc2hTi499A/TI+J9EjC1cWfszDf1cRdKzYqegXbgFFA==;Z15FJW6UAN3AC9B4OGeghg=="
+secured: "+zJOhTn39mDFi7car1yJ8FK+gtFetWZvHFpOMCNPZ8NcUHT1Yk1plgFs/59kusUScZmQcARaC1JlgYDilHjyNYK1ZvlfDTNxfTc+8yLHyhVG6s0Y3TyShRAZt7La1oarXc9GA8LzfVXWO1NRUsYJ7CApTDGviDjDK/eKhbK8xEwxIyfvcSXzkA9VWk5SS920tfhAog/Yn9gJlP01pMEaGivsg2vPJogjHpzRX9MAk7HRy7Jqaxue2beQlw0mSPOo1Dbxp1gD9jnfKQ/wHXVzI6EWg70GgrvUYxj8Fd+O7I/iwTwTPbTdIe3qeDhdS2hRDu5Tm2n05+OH5sVECCeJrQonZBIZFaWfM/JvTv7KpG8=;rYIZMbI7SrgkhpgS3hh9oA=="
 ---
 

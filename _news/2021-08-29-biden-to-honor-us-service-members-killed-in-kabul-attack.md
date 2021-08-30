@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden set to speak on Hurricane Ida relief efforts"
+    excerpt: "President Joe Biden is set to speak Monday afternoon on Hurricane Ida relief efforts as he meets virtually with a host of leaders involved in the response to the massive storm that has rocked the Gulf Coast.\n    \n"
+    publishedDateTime: 2021-08-30T17:00:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/C5KDCR6ALVw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/30/politics/biden-hurricane-ida/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/30/politics/biden-hurricane-ida/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210828140539-01-biden-fema-briefing-0828-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's presidency of crises pushes White House to its limits"
     excerpt: "President Joe Biden is confronting an extraordinary confluence of intensifying crises that are pushing a White House already mired in extreme challenges to the limit.\n    \n"
     publishedDateTime: 2021-08-30T11:20:16Z
