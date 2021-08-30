@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "As U.S. Leaves Afghanistan, How Biden's 7-Month Approval Rating Stacks Up Against Trump's"
+    excerpt: "President Joe Biden lost his majority approval rating as Americans left Afghanistan, giving rise to the Taliban's takeover of the country."
+    publishedDateTime: 2021-08-30T20:27:00Z
+    webUrl: "https://www.newsweek.com/us-leaves-afghanistan-how-bidens-7-month-approval-rating-stacks-against-trumps-1624347"
+    ampWebUrl: "https://www.newsweek.com/us-leaves-afghanistan-how-bidens-7-month-approval-rating-stacks-against-trumps-1624347?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/us-leaves-afghanistan-how-bidens-7-month-approval-rating-stacks-against-trumps-1624347?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 131
+    images:
+      - url: "https://d.newsweek.com/en/full/1883234/joe-biden-approval-donald-trump-afghanistan.jpg"
+        width: 2500
+        height: 1875
+        isCached: true
   - title: "Donald Trump Gave Joe Biden 'Hospital Pass' on Afghanistan, Says Tony Blair's Defense Secretary"
     excerpt: "As Tony Blair criticizes Joe Biden's withdrawal of U.S. troops from Afghanistan, his former U.K. defense secretary Geoff Hoon defended the American president."
     publishedDateTime: 2021-08-23T11:36:00Z
@@ -1211,6 +1227,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Eamonn Holmes lays into Joe Biden and ‘the Yanks’ in furious This Morning rant over Afghanistan retreat"
+    excerpt: "EAMONN Holmes has let rip at US President Joe Biden while discussing the country’s retreat from Afghanistan. The telly presenter, 61, laid into President Biden and “the Yanks”"
+    publishedDateTime: 2021-08-30T20:51:00Z
+    webUrl: "https://www.the-sun.com/entertainment/tv/3569156/eamonn-holmes-lays-into-joe-biden-the-yanks/"
+    ampWebUrl: "https://www.the-sun.com/entertainment/tv/3569156/eamonn-holmes-lays-into-joe-biden-the-yanks/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/entertainment/tv/3569156/eamonn-holmes-lays-into-joe-biden-the-yanks/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 59
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/ACP-3008-COMP-HOLMES-OFFP.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Joe Biden AGAIN defends catastrophic Afghanistan situation by calling troop withdrawal ‘the right decision’"
     excerpt: "JOE Biden has once again insisted that pulling US troops out of Afghanistan was “the right decision” as he defended his handling of the crisis. The President has suffered a huge wave"
     publishedDateTime: 2021-08-22T20:57:00Z
@@ -1506,6 +1538,20 @@ related:
         width: 1222
         height: 815
         isCached: true
+  - title: "After Afghanistan, Biden stakes presidency on domestic battles"
+    excerpt: "US President Joe Biden will hope to pivot from the Afghan disaster to his domestic agenda - Copyright AFP Charly TRIBALLEAUSebastian SmithThis has been a miserable summer for Joe Biden but with the last troops out of Afghanistan the Democrat will now hope to relaunch his struggling presidency back home."
+    publishedDateTime: 2021-08-30T21:06:00Z
+    webUrl: "https://www.digitaljournal.com/world/after-afghanistan-biden-stakes-presidency-on-domestic-battles/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 55
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/33b6a11c0dd29ce286947ef7e5c25211719df6d4.jpg"
+        width: 768
+        height: 512
+        isCached: true
   - title: "Biden will face pressure from G7 to extend Afghanistan withdrawal deadline"
     excerpt: "By Kevin Liptak and Barbara Starr, CNN Leaders from the top foreign allies of the United States are planning to press President Joe Biden to extend the deadline for US troops to withdraw from Afghanistan during a Tuesday morning meeting,"
     publishedDateTime: 2021-08-24T03:38:00Z
@@ -1742,6 +1788,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Rick Scott renews calls for Congressional probe into Joe Biden’s ‘Afghanistan failures’"
+    excerpt: "Rick Scott again expressed frustration with President Joe Biden ’s “Afghanistan failures,” making what seem to be unheeded calls for a Congressional investigation"
+    publishedDateTime: 2021-08-30T21:03:00Z
+    webUrl: "https://floridapolitics.com/archives/454087-afghan-failures/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 47
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/05/Scott-1-scaled-e1624478902461.jpg"
+        width: 1280
+        height: 854
+        isCached: true
   - title: "Kabul bombings a dark day for Afghanistan and Joe Biden — and a harbinger of worse to come"
     excerpt: "US President Joe Biden is facing the worst moment of his presidency. Thirteen US troops and at least 60 Afghan civilians have been killed in a suicide bomb attack outside Kabuls main airport, for which Islamic State"
     publishedDateTime: 2021-08-28T05:30:00Z
@@ -1794,6 +1854,20 @@ related:
       - url: "https://cdn.cnsnews.com/styles/article_big/s3/2021-08/afghan%204.jpg"
         width: 700
         height: 467
+        isCached: true
+  - title: "Is Joe Biden repeating the mistakes of the past in Afghanistan? Catholic commentators weigh in."
+    excerpt: "The withdrawal of U.S. troops is not an end, but instead represents a new chapter in our entanglement with the Taliban in Afghanistan, agree several experts contacted by America magazine."
+    publishedDateTime: 2021-08-30T20:11:00Z
+    webUrl: "https://www.americamagazine.org/politics-society/2021/08/30/catholic-reaction-biden-afghanistan-speech-241309"
+    type: article
+    provider:
+      name: America Magazine
+      domain: americamagazine.org
+    quality: 43
+    images:
+      - url: "https://www.americamagazine.org/sites/default/files/styles/article_image_750_x_503_/public/main_image/2021/08/30/20210830T1245-USA-BIDEN-1507225.JPG.JPG.png?itok=Jbh-tyUu"
+        width: 750
+        height: 499
         isCached: true
   - title: "Texans in Congress have mixed views on President Joe Biden’s handling of the Afghanistan withdrawal. But bipartisan criticism has emerged."
     excerpt: "Texas Republicans have doused the Biden administration in criticism. Democratic Texans in Congress have had varied reactions — but some also fault for the president for a frantic scramble after the Taliban swiftly took control."
@@ -1970,6 +2044,6 @@ related:
         height: 380
         isCached: true
 
-secured: "nPQiNmylrigvDrs2pyGnBBSaDsZhUNDKoTWRWffxK+DWTs8O1ZRTzga2QW84kfvIPtWqOjo+ux+LncjVQyD6pXetgRQCA6vf4QYaGcGuE/sbwk1+Hk2NnUVyrI4vNtkJWeOcTVORaQCaexeQYG5Up12Fh5XPwhQea8t8LGVVybhRTMropIhd465MuCOhtJPSsST22B4U/BaefCcRCwdoXJ+0WTIdCd6wjopBjUH2fYTytfF5pY7D9Td8U5NmEQif8i3j8zykvBo9WwvZ9XOBxSQOvcGfL7xPWRxWFLT0VySXRCSApOLTIGJ4GBFQlPUJqv2KhyGSWx4idV/8pYJ0nmaPBwkeOZG9S9brrVDgsYU=;gCPblUdZDYaceL/hJ9BepA=="
+secured: "JRgP8pYMNkDLzpwp5ikBhq8F+qc5DMHOTDP4hNat13LV8NluqJh7Ja+/ILCo8MPKGj5dUaevsz1zy2raculxn0sgQ8ncvFKAEjSmNJNjXmes6+QIinkPbfjSpoeZjqGWLFq7yITOUKQwy6NjO0EL4dh7lPfCfTfoihvnZn8AoI42XnsTOwQ1wA7s/bbDoneIFvP48KaIjWAEzRSziofRrwpzqphkKU2RPDkpqRUb05/y3rHApXpXTrlMnGctC+LQffp9Canbsl98b2ugVu4iNetNP10ZfzFZsG9ta0XNbHnVkMi+/oAqjlfA2wT0Mu0nAJuXpjQoKR5T0PRtF2LzjeeXTtNENLmxRPwzb7C2fffDhlVfHv69AFjfVSSLD83I+aKZ46JBbPFUOh6NY1TM7uoweQzkmmwp5vBWHUwi/k6Vsi+7wQhAHNep5fWU78rfN1+tlq6CdYEm4+jo2f8PfsRiRylTPSzYrI3G5GgBfjwW+gJZARVNgPuacqPJhIVSm1fXnw1EBE8echcUGQKHcQ==;apNeHseqQbCQ3Ovx7pTStQ=="
 ---
 

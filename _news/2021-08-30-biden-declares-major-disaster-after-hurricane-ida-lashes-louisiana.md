@@ -55,6 +55,22 @@ related:
         width: 1024
         height: 642
         isCached: true
+  - title: "Biden addresses Hurricane Ida as more than 5,000 National Guard troops activated"
+    excerpt: "President Joe Biden met virtually Monday with mayors and governors in areas hit hard by Hurricane Ida to discuss the response and the breadth of the"
+    publishedDateTime: 2021-08-30T21:06:00Z
+    webUrl: "https://www.thecentersquare.com/national/biden-addresses-hurricane-ida-as-more-than-5-000-national-guard-troops-activated/article_0091d86c-09d2-11ec-8096-f31f982b9a0b.html"
+    ampWebUrl: "https://www.thecentersquare.com/national/biden-addresses-hurricane-ida-as-more-than-5-000-national-guard-troops-activated/article_0091d86c-09d2-11ec-8096-f31f982b9a0b.amp.html"
+    cdnAmpWebUrl: "https://www-thecentersquare-com.cdn.ampproject.org/c/s/www.thecentersquare.com/national/biden-addresses-hurricane-ida-as-more-than-5-000-national-guard-troops-activated/article_0091d86c-09d2-11ec-8096-f31f982b9a0b.amp.html"
+    type: article
+    provider:
+      name: The Center Square
+      domain: thecentersquare.com
+    quality: 70
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/b/ed/bedc4aac-09d5-11ec-9a04-0335c5b9ba8a/612d482a2a61a.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Biden to Attend Briefing on Hurricane Ida on Saturday -White House"
     excerpt: "U.S. President Joe Biden will attend a briefing later on Saturday by administration officials on preparations for Hurricane Ida, which is expected to make landfall in the United States this weekend. The briefing is scheduled for 1:30 p."
     publishedDateTime: 2021-08-28T16:33:00Z
@@ -66,6 +82,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Biden pledges Ida support for 'as long as it takes'"
+    excerpt: "President Joe Biden spoke Monday with officials in states pounded by Hurricane Ida and pledged federal suppport \"for as long as it takes\" to help them recover. (Aug. 30)"
+    publishedDateTime: 2021-08-30T21:49:00Z
+    webUrl: "https://www.jsonline.com/videos/news/nation/2021/08/30/biden-pledges-ida-support-long-takes/5656595001/"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/6f57dd2e-348a-40ad-916e-d43af51ffef6_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Joe Biden holds virtual meeting on Hurricane Ida in Washington"
     excerpt: "U.S. President Joe Biden meets virtually with FEMA Administrator Deanne Criswell and governors and mayors from States and cities impacted by Hurricane Ida from South Court Auditorium at the White House in Washington,"
     publishedDateTime: 2021-08-30T18:20:00Z

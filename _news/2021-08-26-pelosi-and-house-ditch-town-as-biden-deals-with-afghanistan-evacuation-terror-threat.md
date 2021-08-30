@@ -271,6 +271,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Psaki sidesteps question on whether Biden regrets Afghanistan pullout"
+    excerpt: "White House press secretary Jen Psaki sidestepped a question Monday about whether President Biden regrets how he conducted his military withdrawal in Afghanistan, which was followed a complete Taliban takeover of the country in a matter of days."
+    publishedDateTime: 2021-08-30T20:18:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zz4iZWzROXs/psaki-sidesteps-question-biden-regrets-afghanistan-pullout"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-sidesteps-question-biden-regrets-afghanistan-pullout.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-sidesteps-question-biden-regrets-afghanistan-pullout.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef4773e1-c6e3-456a-821b-b9147f44bb39/f7e732ff-b006-4030-aaad-5715e7df8fcb/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "North Carolina billboard skewers Biden for botched Afghanistan withdrawal"
     excerpt: "A billboard in Wilmington, North Carolina, skewered Biden for his botched withdrawal from Afghanistan that saw the Taliban take over the country and stranded thousands of Americans."
     publishedDateTime: 2021-08-18T14:57:33Z
@@ -430,6 +446,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c3086884-faf8-4301-ac35-3dda80a1bbc2/3279be5d-9a28-4de2-baaa-1cfeff83086b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Trump State Department official targets Biden's 'disastrous' Afghanistan efforts as he files for Congress"
+    excerpt: "As he makes a second run for Congress, former State Department official Matt Mowers says the situation in Afghanistan will be a focal point of his campaign."
+    publishedDateTime: 2021-08-30T20:30:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3z3MjOFZbRw/trump-official-targets-biden-disastrous-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-official-targets-biden-disastrous-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-official-targets-biden-disastrous-afghanistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden admin doubles down on Psaki claim Americans not stranded in Afghanistan"
     excerpt: "An administration official stood by Psaki’s claim on Tuesday, telling Fox News in an email that the White House is working to bring home Americans who want to leave Afghanistan."
@@ -1306,6 +1338,20 @@ related:
     quality: 155
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/GettyImages-1208918824.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden breaks promise to 'stay' in Afghanistan until every American evacuated"
+    excerpt: "President Biden appears to have broken his promise to stay in Afghanistan until every American is evacuated after Marine Corps Gen. Kenneth F. McKenzie Jr. announced Monday evening that the last of the U.S. troops stationed at the Kabul airport had left, completing the military’s drawdown in the country"
+    publishedDateTime: 2021-08-30T21:06:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lvQuZZd0Rvg/biden-breaks-promise-stay-afghanistan-every-american-evacuated"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 152
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/AP21228746281121.jpg"
         width: 1280
         height: 720
         isCached: true

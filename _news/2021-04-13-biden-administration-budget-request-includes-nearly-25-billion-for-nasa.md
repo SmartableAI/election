@@ -791,6 +791,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden’s Jimmy Carter Moment"
+    excerpt: "Never in my life have I witnessed American soldiers die the way 13 Marines and service members did last Thursday."
+    publishedDateTime: 2021-08-30T17:16:00Z
+    webUrl: "https://jewishjournal.com/commentary/340127/joe-bidens-jimmy-carter-moment/"
+    type: article
+    provider:
+      name: Jewish Journal
+      domain: jewishjournal.com
+    quality: 55
+    images:
+      - url: "https://jewishjournal.com/wp-content/uploads/2021/08/Bien-Boteach.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Ron DeSantis polls well thru pandemic despite ’60 Minutes’ story, tops Joe Biden"
     excerpt: "The '60 Minutes' story might have actually helped the Governor. Floridians have a more favorable view of Gov. Ron DeSantis than they do of President Joe Biden. A recent survey from the ..."
     publishedDateTime: 2021-04-13T23:35:00Z
