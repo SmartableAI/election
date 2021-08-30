@@ -1272,6 +1272,15 @@ related:
       name: Columbia Basin Herald
       domain: columbiabasinherald.com
     quality: 35
+  - title: "Harris holds steady on Southeast Asia trip as crises loom"
+    excerpt: "In Singapore, in between a foreign policy speech and a roundtable talk about supply chain issues, Vice President Kamala Harris stopped to smell the flowers."
+    publishedDateTime: 2021-08-30T07:09:00Z
+    webUrl: "https://columbiabasinherald.com/news/2021/aug/30/harris-holds-steady-on-southeast-asia-trip-2/"
+    type: article
+    provider:
+      name: Columbia Basin Herald
+      domain: columbiabasinherald.com
+    quality: 35
   - title: "Vice President Harris Singaporean Prime Minister Hold Joint News Conference"
     excerpt: "T01:35:14-04:00 President Kamala Harris and Singaporean Prime Minister Lee Hsien Loong hold a joint news conference in Singapore. Vice President Kamala Harris and Singaporean Prime Minister Lee Hsien Loong hold a joint news conference in Singapore."
     publishedDateTime: 2021-08-23T11:31:00Z

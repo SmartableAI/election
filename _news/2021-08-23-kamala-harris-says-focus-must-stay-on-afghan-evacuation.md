@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/world-nation/story/2021-08-23/kamala-harris-
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-08-23/kamala-harris-says-focus-must-stay-on-afghan-evacuation?_amp=true"
 type: article
 quality: 125
-heat: 1825
+heat: 1845
 published: true
 
 provider:
@@ -1268,6 +1268,15 @@ related:
     excerpt: "The Taliban takeover of Afghanistan has given new urgency to Vice President Kamala Harris' tour of Southeast Asia, where she will attempt to reassure allies of American resolve following the chaotic end of a two-decade war."
     publishedDateTime: 2021-08-22T07:09:00Z
     webUrl: "https://columbiabasinherald.com/news/2021/aug/22/harris-asia-trip-carries-new-urgency-after-2/"
+    type: article
+    provider:
+      name: Columbia Basin Herald
+      domain: columbiabasinherald.com
+    quality: 35
+  - title: "Harris holds steady on Southeast Asia trip as crises loom"
+    excerpt: "In Singapore, in between a foreign policy speech and a roundtable talk about supply chain issues, Vice President Kamala Harris stopped to smell the flowers."
+    publishedDateTime: 2021-08-30T07:09:00Z
+    webUrl: "https://columbiabasinherald.com/news/2021/aug/30/harris-holds-steady-on-southeast-asia-trip-2/"
     type: article
     provider:
       name: Columbia Basin Herald

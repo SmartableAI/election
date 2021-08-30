@@ -1277,6 +1277,15 @@ related:
       name: Columbia Basin Herald
       domain: columbiabasinherald.com
     quality: 35
+  - title: "Harris holds steady on Southeast Asia trip as crises loom"
+    excerpt: "In Singapore, in between a foreign policy speech and a roundtable talk about supply chain issues, Vice President Kamala Harris stopped to smell the flowers."
+    publishedDateTime: 2021-08-30T07:09:00Z
+    webUrl: "https://columbiabasinherald.com/news/2021/aug/30/harris-holds-steady-on-southeast-asia-trip-2/"
+    type: article
+    provider:
+      name: Columbia Basin Herald
+      domain: columbiabasinherald.com
+    quality: 35
   - title: "U.S. focus is on Afghan evacuations, says Harris amid criticism U.S. focus is on Afghan evacuations, says Harris amid criticism"
     excerpt: "U.S. Vice President Kamala Harris said on Monday during a visit to Singapore that the United States was focusing on evacuation efforts taking place in Afghanistan and that there would be plenty of time to analyze the context of the troop withdrawal."
     publishedDateTime: 2021-08-23T11:49:00Z

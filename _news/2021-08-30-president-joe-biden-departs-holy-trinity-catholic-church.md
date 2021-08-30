@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden Departs Holy Trinity Catholic Church"
-excerpt: "US President Joe Biden walks out of Holy Trinity Catholic Church after mass in the Georgetown neighborhood of Washington, DC on Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover,"
+excerpt: "The view of the White House after President Joe Biden arrives back to the White House from Holy Trinity Catholic Church in the Georgetown neighborhood of Washington, DC on Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover,"
 publishedDateTime: 2021-08-29T22:47:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/bad2070604133af510798531d9d3cf3c/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/bad2070604133af510798531d9d3cf3c/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/5a62ace3eb872bbda6904e721e80e6ba/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/5a62ace3eb872bbda6904e721e80e6ba/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
 type: article
 quality: 55
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/bad2070604133af510798531d9d3cf3c/BIDEN-CHURCH.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/5a62ace3eb872bbda6904e721e80e6ba/BIDEN-CHURCH.jpg"
     width: 650
-    height: 433
+    height: 434
     isCached: true
 
 related:
@@ -56,6 +56,20 @@ related:
       - url: "https://www.chicagotribune.com/resizer/P2NWIVen-ufMj81P6oi814ciW7A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/26BUKCLR2XT3FI42D6R6FBM3NQ.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Biden’s Alliance with Big Tech Shows a Power Shift"
+    excerpt: "Snowden relationship with government appears to have mellowed at a meeting last week. Should we be worried about what they might all do together?"
+    publishedDateTime: 2021-08-30T06:10:00Z
+    webUrl: "https://www.washingtonpost.com/business/bidens-alliance-with-big-tech-shows-a-power-shift/2021/08/30/b62fca66-0960-11ec-a7c8-61bb7b3bf628_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WVLSJGQJMAI6ZJ6IMG5XWO7WFA.jpg&w=1440"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Biden's special envoy urges North Korea to return to talks"
     excerpt: "U.S. President Joe Biden’s special envoy for North Korea said Monday he’s ready to meet his North Korean counterparts “anywhere and at anytime” as he held discussions with South Korean officials over stalled nuclear talks with the North."
@@ -304,6 +318,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "kx8xipXCroilTuljJs1sKxiEYxvyDkaigN5XJTPoO2xFwvVQw7gdVpn++GMjUeQXcGK0/Sml78BwELU5NMgsFpmrW5lUF/574y+jka5WFSU4dEEyuADXXiDHCYrJGpnSyL2yOXW2LyjpaAgbS4w6tsBSqIS2gQiJuCJg6BNFzkEp5hENGCIUL7Eo0+rX6NNcDORlBtHL/TwnsWksWMoLw2w9RjvwBjooyjMkc3FFkj4hQCB/YeyYYp5nm60My5+ZzTZIU5dM6FYLZ78O1Rms/J+8+H3v0PNcboF5A67yg8KeG5fGecJCwyOrsU8mpaIiIEm6NDGCzJ9Iq0GiNWNewSbZBdUwIcnCR5ThDB1F9Qw=;9z0VXsHQmpYKpCRmJNqvwg=="
+secured: "M9qT1N7l9e/sqlazj/ZoYjLct98B9yairzuvawry8kJr1AWSuRb9lj9s2W3pmF0a2mgcf6cckCxGHU6sMlRve7PmUDs7z5eO1ODOoDIvHH1ozcDuNdAKj3nvNxT9EM2hWfqWSVDpgvdcvvDTFm5H77JR7dW6kTx6EFZUkJl0WKGiZaPxyVAzxOCwYQ9fnN6/OZ7qn8MwTQ51TF2pJq9TPlKyWk6hAjFWMMMz8LJrtsdw2tASmGGUNyVcE12FiAT8qAYegFVAM1Hz/ZSsRjF6PqyBhpTYGGwiPQtI04WQHnZMgAucnkA4PjO4ZcKW0jutWCI95c6YeQHgFSqoLbkBjYU8bdqihcU79JcBdKudf8g=;WKh7mm8pDHWheNKv9tkjFA=="
 ---
 
