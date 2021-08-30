@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Donald Trump speaking in Alabama for the first time in 4 years"
-    excerpt: "Trump will speak tonight in Cullman, his first political event in Alabama since 2017. (AP Photo/Ross D. Franklin, File) AP Six years to the day after a rally in Mobile gave an early glimpse of Donald Trump’s ability to generate the excitement that would propel him to the White House,"
-    publishedDateTime: 2021-08-21T14:02:00Z
-    webUrl: "https://www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for-the-first-time-in-4-years.html"
-    ampWebUrl: "https://www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for-the-first-time-in-4-years.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for-the-first-time-in-4-years.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NFUPH4M6QRDLLKJBN7DOE4AXCM.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Trump-inspired conspiracies about voter fraud have infiltrated the California recall. And they may cost supporters votes"
     excerpt: "The campaign to recall California Gov. Gavin Newsom has a conspiracy theory problem, and it just might siphon off votes that could aid its cause. In an illustration of the fallout from Donald Trump’s “Stop the Steal” lie that the 2020 presidential election was stolen from him,"
     publishedDateTime: 2021-08-27T17:00:00Z

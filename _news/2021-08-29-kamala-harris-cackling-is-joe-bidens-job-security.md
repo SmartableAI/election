@@ -1432,6 +1432,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Pace of US evacuation flights from Afghanistan slowing one day before Biden's deadline: officials"
+    excerpt: "U.S. evacuation flights from Kabul are slowing, officials told Fox News Monday, just a day before President Biden’s set Aug. 31 deadline to withdraw troops from Afghanistan."
+    publishedDateTime: 2021-08-30T13:37:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WBe6eQSUrcE/us-evacuation-flights-afghanistan-pace-slowing-biden-deadline"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 142
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/PLANES-LEAVING-KABUL-AFGHANISTAN.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris says evacuating Americans, Afghan allies is Biden admin's 'highest priority'"
     excerpt: "Vice President Kamala Harris said evacuating Americans and U.S. allies in Afghanistan is the administration’s \"highest priority\" while answering reporters’ questions in Vietnam on Thursday."
     publishedDateTime: 2021-08-26T10:04:00Z
@@ -1913,6 +1927,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "i35303RzALF/xuqAqNQ4P5+moiP3QYixBwOemJHFnXBLShwf1Ulwc+XbwaTIsuULMTKkyeP5hZVmnEoop2PjPWbiohI5QHmWnahadYumOYsgg6dWFeC24dTM0gYBzD0wd/derBM/8mK+92qOITFd08uPPo9ZyYc5NPSDhK6vM6GZRLSYPvrIIYDff71Fb16df52QySqxvoq8p+0TX9gRLoLd1DhwSpSuOiFaLaBixNwoCr8yAVV9TPXXO7PelQn4xu6n/NlrbzLWOqk3hYiwRV9O/xkLbbfNqeDSq9uxRjVz+iuDdPD1BooLpMJY78qIGBEkcqce0RkrFOZgIvviKKVQwjizBi7KWc5r8pDlOGk=;Ar58GvRp6lUPEwykyCXpWw=="
+secured: "/BRQF7YjewxyUp5QpeS1XkfMRcWUp2LodjDzOgoIskVmEo8t48AZ2FxG3n3aS4SdbqJ+V36dSIM0DwHfzLBslF9yRaMUT5R+S+RqvjpPqas4OaRPqABj5Ml+9TCCMpw5LNOrTuCdtB5dl0UpJOvL7fsz8xAW1WElTn71dp+qkfIPgj5WHbt7VqEM2J550AIASvEaB5fHxIAbix5VIqkC8XZCcaPoLVzbNE9YAyIf45J0TIEQUjp+BJfGNWj3Y/NPrz+tBhjv3LGE2+RGPzazpJ6Xp7Tq01uXuY9e7zaRfjN1WNhuAOwAW5F8mgQdduXqGEDGj43pt+kSwD/j8OSxzEvGy+IXYMDjP9N0OGJuMSkfykSNyYInwreJb/W2mAmZXiB48HyCsrfDAVBCqpCS8SvdWYCHeDiMFivWo7y1djC3UXZLys0EUi9A2fGft1+zmnhmNLxJBC5u2Ol4ONBFVUptmTwPSBa99sbAUvs2XU2VJhVqduWfr21ghNejy/m2aigrCbcn1UxZMU+KhxyPvA==;osIew/hrnvS4BrVUutUxlA=="
 ---
 

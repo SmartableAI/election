@@ -62,7 +62,7 @@
       "originalUrl": "https://golfweek.usatoday.com/lists/jack-nicklaus-qa-tiger-woods-donald-trump-cane/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 175,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -344,6 +344,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-27-seven-capitol-cops-sue-donald-trump-and-his-allies-for-plot-on-the-capitol.md",
+      "title": "Seven Capitol cops SUE Donald Trump and his allies for 'plot' on the Capitol",
+      "excerpt": "Seven Capitol Police officers have filed suit against former President Donald Trump, and some of his associates, claiming they caused the Capitol riot that caused them to face beatings and injuries",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/news/article-9930019/Seven-Capitol-cops-SUE-Donald-Trump-allies-plot-Capitol.html",
+      "originalUrl": "https://www.dailymail.co.uk/news/article-9930019/Seven-Capitol-cops-SUE-Donald-Trump-allies-plot-Capitol.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2021/08/26/17/47138019-0-image-a-43_1629996316019.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/news/article-9930019/amp/Seven-Capitol-cops-SUE-Donald-Trump-allies-plot-Capitol.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9930019/amp/Seven-Capitol-cops-SUE-Donald-Trump-allies-plot-Capitol.html",
+      "publishedDateTime": "2021-08-26T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-26-mike-lindells-obsession-with-trump-a-symptom-of-human-nature-letter.md",
       "title": "Mike Lindell’s obsession with Trump a symptom of human nature | Letter",
       "excerpt": "Mike Lindell may be in love with “the Donald,” an unrequited love that will never become realized, writer says.",
@@ -387,6 +430,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-26-lz-granderson-the-election-is-over-in-arizona-the-trump-campaign-continues.md",
+      "title": "LZ Granderson: The election is over. In Arizona, the Trump campaign continues",
+      "excerpt": "I would like to share with you a brief conversation about politics that I didn't want to have. But the man in the Arizona bar sitting a couple of stools",
+      "sourceUrl": null,
+      "webUrl": "https://www.bozemandailychronicle.com/ap_news/lz-granderson-the-election-is-over-in-arizona-the-trump-campaign-continues/article_cdb3fb76-1ebe-5f91-a594-75a4f2ef043f.html",
+      "originalUrl": "https://www.bozemandailychronicle.com/ap_news/lz-granderson-the-election-is-over-in-arizona-the-trump-campaign-continues/article_cdb3fb76-1ebe-5f91-a594-75a4f2ef043f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-26T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bozeman Daily Chronicle",
+        "domain": "bozemandailychronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-26-meet-the-9-local-georgia-investigators-who-have-donald-trump-in-their-sights.md",
       "title": "Meet the 9 local Georgia investigators who have Donald Trump in their sights",
       "excerpt": "An inside look at the top Georgia investigators that are leading an effort that — at the extreme — could land Trump in prison.",
@@ -395,7 +481,7 @@
       "originalUrl": "https://www.businessinsider.com/fani-willis-georgia-investigation-election-trump-phone-call-2021-8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 162,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -599,7 +685,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-claims-biden-bringing-afghan-terrorists-to-the-us-2021-8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2733,
+      "heat": 2773,
       "tags": null,
       "images": [
         {
@@ -886,6 +972,101 @@
       ]
     },
     {
+      "path": "_news/2021-08-24-donald-trump-booed-at-alabama-rally-after-telling-supporters-to-take-the-vaccines.md",
+      "title": "Donald Trump booed at Alabama rally after telling supporters to 'take the vaccines'",
+      "excerpt": "Amid the state's low vaccination rate, former President Donald Trump told a rally to go get vaccinated against COVID-19, which some booed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/08/23/donald-trump-tells-alabama-rally-covid-19-vaccine-gets-booed/8237487002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/08/23/donald-trump-tells-alabama-rally-covid-19-vaccine-gets-booed/8237487002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 419,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/08/22/USAT/9aef22b6-661a-487a-9438-89b679f37137-GTY_1335520712.jpg?auto=webp&crop=3688,2075,x0,y187&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/8237487002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8237487002",
+      "publishedDateTime": "2021-08-23T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Arizona Republic",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-23-josh-duggars-lawyers-trying-to-get-the-case-dismissed-with-a-donald-trump-oriented-argument.md",
+      "title": "Josh Duggar's Lawyers Trying To Get The Case Dismissed With A Donald Trump-Oriented Argument",
+      "excerpt": "Josh Duggar’s legal team has been busy in recent weeks as the former 19 Kids and Counting’s star preps for trial. The eldest son of Jim Bob and Michelle Duggar was arrested on one count of receipt of child pornography and one count of possession of child pornography back in April.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cinemablend.com/television/2572395/josh-duggar-lawyer-case-dismissed-donald-trump-oriented-argument?pv=related_list",
+      "originalUrl": "https://www.cinemablend.com/television/2572395/josh-duggar-lawyer-case-dismissed-donald-trump-oriented-argument?pv=related_list",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.cinemablend.com/quill/4/5/8/a/9/0/458a9063ffa8791c4da283f5ee12d513513c70e7.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cinemablend.com/television/2572395/josh-duggar-lawyer-case-dismissed-donald-trump-oriented-argument",
+      "cdnAmpWebUrl": "https://amp-cinemablend-com.cdn.ampproject.org/c/s/amp.cinemablend.com/television/2572395/josh-duggar-lawyer-case-dismissed-donald-trump-oriented-argument",
+      "publishedDateTime": "2021-08-23T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cinema Blend",
+        "domain": "cinemablend.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-23-former-pence-aide-rhetoric-under-trump-admin-about-afghans-hurtful-and-offensive.md",
       "title": "Former Pence Aide: Rhetoric Under Trump Admin About Afghans 'Hurtful' and 'Offensive'",
       "excerpt": "A former aide for former Vice President Mike Pence, Olivia Troye, is opening up about the rhetoric under the Trump administration about Afghans, calling it “hurtful” and “offensive.” CNN’s Brianna Keilar noted during “New Day” Monday Troye sat in on meetings about getting Afghans who are eligible for relief who helped U.",
@@ -1034,6 +1215,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-23-sheriff-gentry-commissions-former-president-trump-as-deputy-sheriff-in-cullman-county.md",
+      "title": "Sheriff Gentry commissions former President Trump as deputy sheriff in Cullman County",
+      "excerpt": "Sheriff Matt Gentry of the Cullman County Sheriff’s Office presented former President Donald Trump with a plaque that commissioned him as a deputy sheriff",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbs42.com/news/local/sheriff-gentry-commissions-former-president-trump-as-deputy-sheriff-in-cullman-county/",
+      "originalUrl": "https://www.cbs42.com/news/local/sheriff-gentry-commissions-former-president-trump-as-deputy-sheriff-in-cullman-county/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cbs42.com/wp-content/uploads/sites/81/2021/08/Trump-Cullman-Sheriff.png?w=1280",
+          "width": 1090,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbs42.com/news/local/sheriff-gentry-commissions-former-president-trump-as-deputy-sheriff-in-cullman-county/amp/",
+      "cdnAmpWebUrl": "https://www-cbs42-com.cdn.ampproject.org/c/s/www.cbs42.com/news/local/sheriff-gentry-commissions-former-president-trump-as-deputy-sheriff-in-cullman-county/amp/",
+      "publishedDateTime": "2021-08-22T18:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS 42",
+        "domain": "cbs42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-23-vos-to-keep-trump-updated-on-election-investigation.md",
       "title": "Vos to keep Trump \"updated\" on election investigation",
       "excerpt": "Assembly Speaker Robin Vos the said in a statement Saturday he is going to be keeping Trump “updated on our investigation,” the Journal Times reported. In a statement, Vos said: “It was an honor to be invited to travel by private plane with President Trump and top staff to attend his rally in Alabama.",
@@ -1064,49 +1288,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-donald-trump-booed-at-his-own-rally-after-telling-everyone-to-get-vaccinated.md",
-      "title": "Donald Trump Booed At His Own Rally After Telling Everyone To Get Vaccinated",
-      "excerpt": "But it was when he urged everyone to get vaccinated against the coronavirus that his followers turned on him. \"You know what? I believe totally in your freedoms, I do. You gotta do what you have to do,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ladbible.com/news/latest-donald-trump-booed-at-rally-after-telling-everyone-to-get-vaccinated-20210822",
-      "originalUrl": "https://www.ladbible.com/news/latest-donald-trump-booed-at-rally-after-telling-everyone-to-get-vaccinated-20210822",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 192,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ladbible.com/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fs3-images.ladbible.com%2Fs3%2Fcontent%2F7f479ab06122850e1403ec149fa32daf.png",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ladbible.com/news/latest-donald-trump-booed-at-rally-after-telling-everyone-to-get-vaccinated-20210822.amp.html",
-      "cdnAmpWebUrl": "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/news/latest-donald-trump-booed-at-rally-after-telling-everyone-to-get-vaccinated-20210822.amp.html",
-      "publishedDateTime": "2021-08-22T16:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LADbible",
-        "domain": "ladbible.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1263,187 +1444,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-22-more-than-half-of-kinzingers-gop-primary-challengers-believe-trump-won-the-2020-election.md",
-      "title": "More than half of Kinzinger's GOP primary challengers believe Trump won the 2020 election",
-      "excerpt": "Even though allegations of widespread fraud in the 2020 presidential election haven't been substantiated, four conservatives challenging Republican U.S. Rep. Adam Kinzinger for his congressional seat insist Donald Trump actually won reelection.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailyherald.com/news/20210821/more-than-half-of-kinzingers-gop-primary-challengers-believe-trump-won-the-2020-election",
-      "originalUrl": "https://www.dailyherald.com/news/20210821/more-than-half-of-kinzingers-gop-primary-challengers-believe-trump-won-the-2020-election",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailyherald.com/storyimage/DA/20210821/news/210829838/AR/0/AR-210829838.jpg&updated=202108211740&MaxW=800&MaxH=800&noborder",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailyherald.com/amp-article/20210821/news/210829838/",
-      "cdnAmpWebUrl": "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20210821/news/210829838/",
-      "publishedDateTime": "2021-08-21T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-donald-trump-endorses-ex-nevada-ag-adam-laxalt-for-senate.md",
-      "title": "Donald Trump endorses ex-Nevada AG Adam Laxalt for Senate",
-      "excerpt": "The endorsement, released Friday night, comes days after former Nevada Attorney General Adam Laxalt officially announced his candidacy for U.S. Senate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reviewjournal.com/news/politics-and-government/nevada/donald-trump-endorses-ex-nevada-ag-adam-laxalt-for-senate-2424479/",
-      "originalUrl": "https://www.reviewjournal.com/news/politics-and-government/nevada/donald-trump-endorses-ex-nevada-ag-adam-laxalt-for-senate-2424479/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reviewjournal.com/wp-content/uploads/2021/08/15507549_web1_trumplaxalt2018.jpg?w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.reviewjournal.com/news/politics-and-government/nevada/donald-trump-endorses-ex-nevada-ag-adam-laxalt-for-senate-2424479/amp/",
-      "cdnAmpWebUrl": "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/news/politics-and-government/nevada/donald-trump-endorses-ex-nevada-ag-adam-laxalt-for-senate-2424479/amp/",
-      "publishedDateTime": "2021-08-20T19:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Las Vegas Review-Journal",
-        "domain": "reviewjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-alan-dershowitz-says-donald-trump-ties-have-lost-him-many-friends.md",
-      "title": "Alan Dershowitz Says Donald Trump Ties Have Lost Him Many Friends",
-      "excerpt": "The lawyer made headlines this week after he was spotting in a war of words with famous comedian and writer Larry David.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/alan-dershowitz-says-donald-trump-ties-have-lost-him-many-friends-larry-david-1621399",
-      "originalUrl": "https://www.newsweek.com/alan-dershowitz-says-donald-trump-ties-have-lost-him-many-friends-larry-david-1621399",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 445,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1875530/alan-dershowitz.jpg",
-          "width": 3000,
-          "height": 1985,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/alan-dershowitz-says-donald-trump-ties-have-lost-him-many-friends-larry-david-1621399?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/alan-dershowitz-says-donald-trump-ties-have-lost-him-many-friends-larry-david-1621399?amp=1",
-      "publishedDateTime": "2021-08-20T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-miami-cop-suspended-over-hand-gesture-hed-also-been-dinged-for-a-trump-campaign-mask.md",
-      "title": "Miami cop suspended over hand gesture. He’d also been dinged for a Trump campaign mask",
-      "excerpt": "A Miami police officer has been relieved of duty for displaying a hand signal that some interpret as a white power message while posing for a picture.",
-      "sourceUrl": null,
-      "webUrl": "https://www.miamiherald.com/news/local/crime/article253598118.html",
-      "originalUrl": "https://www.miamiherald.com/news/local/crime/article253598118.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/e5113595-1545-4d19-9d3d-4a7534a8ffa6/7168ddee-add6-45b1-ba20-0dc9b52969a7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.miamiherald.com/news/local/crime/article253598118.html",
-      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/local/crime/article253598118.html",
-      "publishedDateTime": "2021-08-19T11:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Miami Herald",
-        "domain": "miamiherald.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

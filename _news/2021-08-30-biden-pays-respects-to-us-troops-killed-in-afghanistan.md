@@ -1,30 +1,24 @@
 ---
 category: news
 title: "Biden pays respects to US troops killed in Afghanistan"
-excerpt: "Biden and his wife Jill traveled to Dover Air Force Base in Delaware to meet privately with the families of those killed and then attend the “dignified transfer” of the fallen troops."
-publishedDateTime: 2021-08-30T01:22:00Z
-originalUrl: "https://www.boston.com/news/world-news/2021/08/29/biden-to-pay-respects-to-us-troops-killed-in-afghanistan/"
-webUrl: "https://www.boston.com/news/world-news/2021/08/29/biden-to-pay-respects-to-us-troops-killed-in-afghanistan/"
-ampWebUrl: "https://www.boston.com/news/world-news/2021/08/29/biden-to-pay-respects-to-us-troops-killed-in-afghanistan/?amp=1"
-cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/world-news/2021/08/29/biden-to-pay-respects-to-us-troops-killed-in-afghanistan/?amp=1"
+excerpt: "At a military base in Delaware, President Joe Biden stood witness with grieving families under a gray sky as, one by one, the remains of 13 U.S. troops killed in the Kabul suicide bombing were removed from a military"
+publishedDateTime: 2021-08-30T13:33:00Z
+originalUrl: "https://www.seattletimes.com/nation-world/nation-politics/biden-to-pay-respects-to-us-troops-killed-in-afghanistan/"
+webUrl: "https://www.seattletimes.com/nation-world/nation-politics/biden-to-pay-respects-to-us-troops-killed-in-afghanistan/"
+ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/biden-to-pay-respects-to-us-troops-killed-in-afghanistan/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/biden-to-pay-respects-to-us-troops-killed-in-afghanistan/?amp=1"
 type: article
-quality: 75
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Boston.com
-  domain: boston.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://www.boston.com/wp-content/uploads/2021/08/Casualty_Return_Afghanistan_40376-612bf3d399a20-scaled.jpg"
-    width: 2560
-    height: 1707
-    isCached: true
 
 related:
   - title: "Trump claims Biden's Afghanistan evacuation could be bringing 'terrorists' to America"
@@ -405,6 +399,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden loses his base on Afghanistan: The Note"
+    excerpt: "There's uncommon cross-partisan agreement that withdrawing all U.S. troops by Aug. 31 could be a grave mistake."
+    publishedDateTime: 2021-08-30T10:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-loses-base-afghanistan-note/story?id=79708395"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/US/biden-dover-arrival-01-rt-jef-210829-_1630244161839_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Joe Biden: withdrawal from Afghanistan would always be 'hard and painful'"
     excerpt: "The evacuation of thousands of Americans and their Afghan allies from Kabul would have been 'hard and painful no matter when it started or when we began', Joe Biden said on Sunday, amid fierce critici"
     publishedDateTime: 2021-08-23T02:44:00Z
@@ -772,22 +780,6 @@ related:
       - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/TM-comp-TonyParsons.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Biden aide: US has capacity to evacuate remaining Americans"
-    excerpt: "The United States has the capacity to evacuate the approximately"
-    publishedDateTime: 2021-08-29T23:07:00Z
-    webUrl: "https://www.thetelegraph.com/news/article/Biden-Another-attack-likely-pledges-more-16419255.php"
-    ampWebUrl: "https://www.thetelegraph.com/news/amp/Biden-Another-attack-likely-pledges-more-16419255.php"
-    cdnAmpWebUrl: "https://www-thetelegraph-com.cdn.ampproject.org/c/s/www.thetelegraph.com/news/amp/Biden-Another-attack-likely-pledges-more-16419255.php"
-    type: article
-    provider:
-      name: The Telegraph
-      domain: thetelegraph.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
   - title: "Joe Biden gifting Afghanistan to the Taliban is a crime against humanity"
     excerpt: "IN 20 days, it will be exactly 20 years since someone phoned you and said, “Turn on your television now.” Twenty years since those planes came out of a clear blue sky and ploughed into the Twin"
@@ -1447,6 +1439,31 @@ related:
         width: 480
         height: 299
         isCached: true
+  - title: "Be Glad Donald Trump Isn’t Running the Show in Afghanistan"
+    excerpt: "The former president's recent rhetoric over the U.S. withdraw is a potent reminder of his lack of fitness for command."
+    publishedDateTime: 2021-08-30T10:17:00Z
+    webUrl: "https://newrepublic.com/article/163469/afghanistan-withdrawal-trump-taliban-deal"
+    type: article
+    provider:
+      name: New Republic
+      domain: newrepublic.com
+    quality: 55
+    images:
+      - url: "https://images.newrepublic.com/fbf80955ff9ca43cfe7a6f9a4edf87a9c0da8f1e.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg"
+        width: 1109
+        height: 577
+        isCached: true
+  - title: "Biden aide: US has capacity to evacuate remaining Americans"
+    excerpt: "Top Biden administration officials say the United States has the capacity to evacuate the approximately 300 U.S. citizens remaining in Afghanistan who want to leave before President Joe Biden’s Tuesday deadline."
+    publishedDateTime: 2021-08-30T10:07:00Z
+    webUrl: "https://www.sunherald.com/news/politics-government/national-politics/article253826773.html"
+    ampWebUrl: "https://amp.sunherald.com/news/politics-government/national-politics/article253826773.html"
+    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/politics-government/national-politics/article253826773.html"
+    type: article
+    provider:
+      name: Biloxi Sun Herald
+      domain: sunherald.com
+    quality: 55
   - title: "Biden to pay respects to US troops killed in Afghanistan"
     excerpt: "President Joe Biden is on a solemn journey to honor and mourn the 13 U.S. troops killed in the suicide attack near the Kabul airport as their remains return to U.S. soil from Afghanistan."
     publishedDateTime: 2021-08-29T21:44:00Z
@@ -1936,6 +1953,6 @@ related:
         height: 380
         isCached: true
 
-secured: "7ecJQ7t/Ui7SRcqx+gDgeQec8fBYFLnuZdBDZqR35r7euMXIwm01bTDLAckdq39fbkXQ6EccqEJCCTgWT0uSS/CRb63Lb7YcB1T39rmifO6cJDId4AG/jzjdQvzcWe6djaYijz0I9WpOZENppbufPsM+QSvBVOzIJQ8MbwtD3LmMrSxxPtiwnJBZz4X9mXVRvcbowswwIv5TDK5CsA8ZPJo5e/f763yELpvVWhckIb/BLoTZe2S/HR3zncv2HoQJvEPUT/KWTAIphXqAvRuBdQTrI8hI1vmGJ8WSVtPzjt/n0//GNE19W8z8W6pBqTFt595qhDpQAhtRjjTYLUJu9vHkqjzu+BCfq/wx1jC0tpE=;2FZS9KsHz7BF1OzkFAbMxg=="
+secured: "leDja8PL0+E9Hzndg8+OPj22DV1fFRX1tW46/ElWB/xwlU36kNKml3S2wzoPfY3zM4GdTWGiXB1Q0bIvuKof4XueYHpv7SkedVz2phaZUA7lOfByiUk9MLZOhw5bnKw9zO2CYGJ8W1lvWeGjuPkB2sO2EQzpNxY88+shODgknKTbRtbyXxYMAH3Su3UI/63BUbaJ2l8YBXalSp6HwvMummQ3D34PobfnaQ0z8kz4gbjjg3hJNY4qQrKoLIWKEm+NSLxK58dzjEwQ6bkWxHFoJ/rnzjYIDFBPtfo8k1Dtu9ethv1+T/8hewftGQCtaaWMp0a5rBeBcdZ//Y8z3cyUKgeUAzxP0VE3yhSN7GTMw/0FObB4twNJ5SALuROP9SeEfI4BzlpTTAjTXCegWpNOrpQLl4b5DMZj0AuInb0LAJeCeNFNFHt4cLx8Dx+9ktdcS0osVuuVXtAu4/FMz0r8vO7aDdopPFHQkwyiXiA1SGU4xsiJ7cmqrf6mM8XovAGCUt5leGU10b1nrMi65OClDA==;gHxU6EDt6r43LqfIse++gQ=="
 ---
 

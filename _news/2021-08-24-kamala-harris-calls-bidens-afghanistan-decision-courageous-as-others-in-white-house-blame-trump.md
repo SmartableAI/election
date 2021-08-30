@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-biden-afghanistan-dec
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-biden-afghanistan-decision-courageous-trump-blame.amp"
 type: article
 quality: 201
-heat: 2621
+heat: 2641
 published: true
 
 provider:
@@ -1435,6 +1435,20 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/79fcbc85-57b6-44e8-8fee-45296e25cdea/b24bdc79-b8bd-482f-8d51-c51bcf46f1ed/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Pace of US evacuation flights from Afghanistan slowing one day before Biden's deadline: officials"
+    excerpt: "U.S. evacuation flights from Kabul are slowing, officials told Fox News Monday, just a day before President Biden’s set Aug. 31 deadline to withdraw troops from Afghanistan."
+    publishedDateTime: 2021-08-30T13:37:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WBe6eQSUrcE/us-evacuation-flights-afghanistan-pace-slowing-biden-deadline"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 142
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/PLANES-LEAVING-KABUL-AFGHANISTAN.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Kamala Harris says evacuating Americans, Afghan allies is Biden admin's 'highest priority'"
     excerpt: "Vice President Kamala Harris said evacuating Americans and U.S. allies in Afghanistan is the administration’s \"highest priority\" while answering reporters’ questions in Vietnam on Thursday."

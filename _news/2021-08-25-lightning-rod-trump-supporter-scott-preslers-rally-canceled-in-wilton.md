@@ -57,20 +57,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Trump shows support for vaccine, gets booed by supporters at rally"
-    excerpt: "Donald Trump recommended that supporters at a rally in Alabama go and get the vaccine, which elicited some boos from the crowd."
-    publishedDateTime: 2021-08-23T13:49:00Z
-    webUrl: "https://www.indystar.com/videos/news/politics/2021/08/23/trump-shows-support-vaccine-gets-booed-supporters-rally/8239337002/"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 55
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/da092552-bb26-4e96-8837-96cd2592d81d_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "TsKy1pmZByFxQLkRAea8NA51n/fX35oNtGcA/HssaSyKR/jovvJZ+ofiL5iqADcJtCBrREt5AukZW+Rn+qdLNTL3uSygFi5zFANc8Ms+avJ8aRR2VWGGunY7bsXEsRhL1StNwozAhjhYW/OJmbZlUWm6CPZN9t0i8pps/NhF5urKOtLj/wUTdNRolPtZzIVZ0pdgCV5QvO5zrxOJkftCSTCuhV7UcRCSE9IgwsvSZCeJpsu4uRdCDS6qoJ4Z17FcGEOEyJTjngr2AQ46ADPBopy7ToCV9F10k95DDtekQPWjGKiLfq3tazUQbws/0QbGs5SVRZDTJSin8eFuAYxc6JcxQKC3OWERur6P28opvkIYWPsU8pr6bBWsGsTDMYWycJ60wZybwbUHbgaeonyS9rBiu06AsgKOkaMbK5G/LSSzH2WgyjArEHt61IoO4JDtxMuHa72hgGJXH2qijWdbJ/3PR1d0k3bSHRGEjX7wgCketYDiyRhWGIK46LIEBahvsAk2VWmJQyKlQgyh3H69SA==;B2E4hio+Ther95qGRKx3uw=="
 ---

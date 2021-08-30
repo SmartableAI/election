@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-nyt-cor
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-nyt-coronavirus-vaccine-hesitancy-politics-20210419-4cjra7mwmnh6tgugojjpfrjeoi-story.html?outputType=amp"
 type: article
 quality: 117
-heat: 157
+heat: 137
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://i.insider.com/6007631b660f6c0018349dce?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Donald Trump booed by supporters after telling them to take COVID-19 vaccine"
-    excerpt: "Former US President Donald Trump was booed by some of his supporters at a rally after he suggested that they get vaccinated against COVID-19. \"I believe totally in your freedoms, I do, you've got to do what you've got to do."
-    publishedDateTime: 2021-08-23T13:22:00Z
-    webUrl: "https://inshorts.com/en/news/donald-trump-booed-by-supporters-after-telling-them-to-take-covid19-vaccine-1629724951107"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/donald-trump-booed-by-supporters-after-telling-them-to-take-covid19-vaccine-1629724951107"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/donald-trump-booed-by-supporters-after-telling-them-to-take-covid19-vaccine-1629724951107"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 72
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/08_aug/23_mon/img_1629724034891_964.jpg?"
-        width: 630
-        height: 473
         isCached: true
 
 secured: "WhzPKKkr4lPDUGAaPI6KSUGfYWBf/Jqt2yc/bDq0+7WjG2xkq22wcbyaQRNIRZxCeDzrVGCxT5yNX/bbWKeowRARCLQsUNO+sc9KvEMN0MGYUg/Am8TwfD2NcZJm+XwTe9g6ajrdbfj7Dn/P/Qe0ThoD3X82lNXf13IwUtI9rOA1nRxhcJdWYJtiPplbVZ0SK5Joyz1OGLg3XyXylMG02965bwK4UQAGwc5L06lMzqOuKN7Jx7wOdMCfShx++eWW6e2u+96xSge9jxF43elkN7EyhUOvPc0BxPE6aeIerOJpE8DEgFh/6HQ2c8ga6sVsZ5QnYqCSEWQQr5Y9nMK3UqmsGMV6acEhwtAhXIjHW3tkSwRWzgRbzrGg+2j0cf50cGGC6yPlPJq1fccLEc4vbUxd+EVykK/XLnjbNOOcUlGD2+e1jsaPwrFnh9TNvkt6yefA4FEw7W5y9KHRDmcwGWDZfqPPTAm9/oI72Fu5Wf8tVAPJsrRlKqmmgY3jXhpjTx4An1FjBCE4Izq4HnZgzw==;M6PmTSYWahBuvDSw1HY5uQ=="

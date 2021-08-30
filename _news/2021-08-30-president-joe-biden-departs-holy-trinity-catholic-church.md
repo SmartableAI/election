@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden Departs Holy Trinity Catholic Church"
-excerpt: "The view of the White House after President Joe Biden arrives back to the White House from Holy Trinity Catholic Church in the Georgetown neighborhood of Washington, DC on Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover,"
+excerpt: "US President Joe Biden walks out of Holy Trinity Catholic Church after mass in the Georgetown neighborhood of Washington, DC on Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover,"
 publishedDateTime: 2021-08-29T22:47:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/5a62ace3eb872bbda6904e721e80e6ba/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/5a62ace3eb872bbda6904e721e80e6ba/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/bad2070604133af510798531d9d3cf3c/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/bad2070604133af510798531d9d3cf3c/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
 type: article
 quality: 55
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/5a62ace3eb872bbda6904e721e80e6ba/BIDEN-CHURCH.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/bad2070604133af510798531d9d3cf3c/BIDEN-CHURCH.jpg"
     width: 650
-    height: 434
+    height: 433
     isCached: true
 
 related:
@@ -54,6 +54,20 @@ related:
     quality: 120
     images:
       - url: "https://www.chicagotribune.com/resizer/P2NWIVen-ufMj81P6oi814ciW7A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/26BUKCLR2XT3FI42D6R6FBM3NQ.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Biden Aims to Avoid Bush’s Katrina Moment"
+    excerpt: "A president engulfed by American missteps in a foreign war has to pivot as a major hurricane makes landfall in Louisiana. It’s 2005 all over again."
+    publishedDateTime: 2021-08-30T10:06:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2021-08-30/biden-aims-to-avoid-bush-s-katrina-moment"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNXSJRJTNPe8/v0/1200x800.jpg"
         width: 1200
         height: 800
         isCached: true
@@ -350,6 +364,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "M9qT1N7l9e/sqlazj/ZoYjLct98B9yairzuvawry8kJr1AWSuRb9lj9s2W3pmF0a2mgcf6cckCxGHU6sMlRve7PmUDs7z5eO1ODOoDIvHH1ozcDuNdAKj3nvNxT9EM2hWfqWSVDpgvdcvvDTFm5H77JR7dW6kTx6EFZUkJl0WKGiZaPxyVAzxOCwYQ9fnN6/OZ7qn8MwTQ51TF2pJq9TPlKyWk6hAjFWMMMz8LJrtsdw2tASmGGUNyVcE12FiAT8qAYegFVAM1Hz/ZSsRjF6PqyBhpTYGGwiPQtI04WQHnZMgAucnkA4PjO4ZcKW0jutWCI95c6YeQHgFSqoLbkBjYU8bdqihcU79JcBdKudf8g=;WKh7mm8pDHWheNKv9tkjFA=="
+secured: "M1jHdrCBEmJ0Haa6Ss+JBkxQ2mf+OUmaC0hRI2FdVO45H516I1HC36K5F/C2hQNEleHnjiMv+oArTUw1apWcfNNH0rxKnJ14rwmpjZrpmfShLj7eS9VoTwWYlKQcDpq2+F9/ofEpCiV547kbA3fp2q0T8f5WcKx/v/O92IHQN1Gox8eHTG+KbPNUZ6N0txfTr8j0IkE+QEaScSlSwpPKnAqzkQZYP6ApDLJWUmQwpcbuvHSfzH+EkntMxx/zuDva0L5X82RsrmS/8o4tmXDwH9c79pdh8sG49l15eIOeWsEJDB7gzXbGvQddy+yBx95CBxkqXAS90t2gnGoC5Knqi696HjXUBh1JcvRB1Ucj7b8=;VknZQdEeobU1SLlw/bJxhw=="
 ---
 

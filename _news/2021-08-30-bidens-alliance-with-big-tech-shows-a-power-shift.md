@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden Aims to Avoid Bush’s Katrina Moment"
+    excerpt: "A president engulfed by American missteps in a foreign war has to pivot as a major hurricane makes landfall in Louisiana. It’s 2005 all over again."
+    publishedDateTime: 2021-08-30T10:06:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2021-08-30/biden-aims-to-avoid-bush-s-katrina-moment"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNXSJRJTNPe8/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden's special envoy urges North Korea to return to talks"
     excerpt: "U.S. President Joe Biden’s special envoy for North Korea said Monday he’s ready to meet his North Korean counterparts “anywhere and at anytime” as he held discussions with South Korean officials over stalled nuclear talks with the North."
     publishedDateTime: 2021-08-23T09:45:00Z
@@ -306,18 +320,18 @@ related:
         height: 433
         isCached: true
   - title: "President Joe Biden Departs Holy Trinity Catholic Church"
-    excerpt: "The view of the White House after President Joe Biden arrives back to the White House from Holy Trinity Catholic Church in the Georgetown neighborhood of Washington, DC on Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover,"
+    excerpt: "US President Joe Biden walks out of Holy Trinity Catholic Church after mass in the Georgetown neighborhood of Washington, DC on Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover,"
     publishedDateTime: 2021-08-29T22:47:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/5a62ace3eb872bbda6904e721e80e6ba/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/bad2070604133af510798531d9d3cf3c/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/5a62ace3eb872bbda6904e721e80e6ba/BIDEN-CHURCH.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/bad2070604133af510798531d9d3cf3c/BIDEN-CHURCH.jpg"
         width: 650
-        height: 434
+        height: 433
         isCached: true
   - title: "Joe Biden spoke to the G7 a sum total of 7 minutes. Pure propaganda, photo-op."
     excerpt: "Joe Biden acted like his G7 meeting was a success, but in reality it left every other world leader feeling disappointed in America."
@@ -354,6 +368,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "DspGqGg7fVWFz8GxhVu9lQbgX9YDZ6MxtutyFCli6WO75uAQlFWICej8hYUfcgxCroHYvnzK2QwN+vx5SkRNmrivSlYbrxFDtv6tqdeJqOEyyVYGA73HQ4hiCmZQU8H582MYpiO44xiv/MtVuAKQiuqsDUobjlyd7u9bmxFAAmGcVU7kItXl4Qtmhe+39JQceGj7mUHiLWr4FlLFHd9GYJprmcGexOk5hIHqZqXUBXQtxCf7S4LGHCusT7Ux5Kzk62MDyS315T22WcJSmWdXhtFBXUrOdIOe6wm0eaoRFhCcNHX+btmw2+gSAzclza0R9CAk+kRWkC7i2i29oWbQuLXKjQH4CauzQ4eOAdz+inU=;tGN8eFXqZsviKVPlhRzP7Q=="
+secured: "rn+smk0kAHBX0/2AUtxajFFQAJcPjtJ+lmb8vQkVq04jje5H43ADzX5yy1zOJl/kqM5OJ6fcHskdh3YsHLtu8g/Ll9HdEz3KzxV09uApc5N6G/N3GJ4g79fZGfrD3tfNjc4J6Xy1xN7NArotVGpd0xgiXWY+jyOOdDwP2qQujv33T8myIxNsCQnWh3rgw41olYskVn0Jfrc/zubnUAipB2TxQkqGSxBIOABsUC072FV8qPe8uVlsKyMCCcvmOpQZyirqYr2f+udgyAJvPshU9r4s9xhWkhCAX7BkXeCR3/ZZ44jun6XoIUXvp5GUySZUzR6+MxZNIGe+oWyHddD4k9tbuwbETrYCRjVERT9d4+aNZs3ZCBtauuGvtLBmANYRV8KR2u7RCKlWyXHDKMLfVsrEeKpw+qyiHGqnZ/SPiwIFP7XQ4FO64WuPs13j5PyknOW6WnryqBOlHdtBJ581r81JbfJZtCv+XRsT+KpQLAqykPBTITRYP3KE1SpAwWM3+7t4g4M/ngogQr2vHfaO4w==;hL058EgxDHjmlFVxjEZHbw=="
 ---
 

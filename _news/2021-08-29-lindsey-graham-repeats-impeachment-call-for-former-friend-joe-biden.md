@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/29/lindsey-graham-impea
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/29/lindsey-graham-impeachment-call-joe-biden-afghanistan"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -79,8 +79,8 @@ related:
         isCached: true
   - title: "Joe Biden in the ‘Loneliest Job,' a Presidency Driven by Crisis"
     excerpt: "Surrounded by everything a superpower can offer and watched by all, President Joe Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan and tried to keep the focus on what,"
-    publishedDateTime: 2021-08-28T22:12:00Z
-    webUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/"
+    publishedDateTime: 2021-08-29T01:54:00Z
+    webUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
     ampWebUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
     cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
     type: article
@@ -92,6 +92,22 @@ related:
       - url: "https://media.nbcnewyork.com/2021/08/GettyImages-1234886272.jpg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Senior Living: Biden’s no-jab-no-job order creates quandary for nursing homes"
+    excerpt: "Although 83% of residents in the average nursing facility are vaccinated, only 61% of a home’s workers are likely to be, according to data submitted by homes and published by the Centers for"
+    publishedDateTime: 2021-08-30T13:00:00Z
+    webUrl: "https://www.dailynews.com/2021/08/30/senior-living-bidens-no-jab-no-job-order-creates-quandary-for-nursing-homes/"
+    ampWebUrl: "https://www.dailynews.com/2021/08/30/senior-living-bidens-no-jab-no-job-order-creates-quandary-for-nursing-homes/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/08/30/senior-living-bidens-no-jab-no-job-order-creates-quandary-for-nursing-homes/amp/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 72
+    images:
+      - url: "https://www.dailynews.com/wp-content/uploads/2021/08/SeniorLivingBeach-4.jpg?w=1000&#038;h=586"
+        width: 1000
+        height: 586
         isCached: true
   - title: "Joe Biden FORGETS Megan Rapinoe's name, slammed for calling her 'America's best'"
     excerpt: "Joe Biden's recent praise for Megan Rapinoe accompanied an awkward fumbling as the president forgot her last name"

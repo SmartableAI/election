@@ -3,18 +3,22 @@ category: news
 title: "Donald Trump booed at Alabama rally after telling supporters to 'take the vaccines'"
 excerpt: "Amid the state's low vaccination rate, former President Donald Trump told a rally to go get vaccinated against COVID-19, which some booed."
 publishedDateTime: 2021-08-23T19:37:00Z
-originalUrl: "https://www.azcentral.com/story/news/politics/2021/08/23/donald-trump-tells-alabama-rally-covid-19-vaccine-gets-booed/8237487002/"
-webUrl: "https://www.azcentral.com/story/news/politics/2021/08/23/donald-trump-tells-alabama-rally-covid-19-vaccine-gets-booed/8237487002/"
-ampWebUrl: "https://amp.azcentral.com/amp/8237487002"
-cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/8237487002"
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/08/23/donald-trump-tells-alabama-rally-covid-19-vaccine-gets-booed/8237487002/"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/08/23/donald-trump-tells-alabama-rally-covid-19-vaccine-gets-booed/8237487002/"
+ampWebUrl: "https://amp.usatoday.com/amp/8237487002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8237487002"
 type: article
-quality: 69
-heat: -1
-published: false
+quality: 119
+heat: 419
+published: true
 
 provider:
   name: The Arizona Republic
-  domain: azcentral.com
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -27,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Donald Trump speaking in Alabama for the first time in 4 years"
+    excerpt: "Trump will speak tonight in Cullman, his first political event in Alabama since 2017. (AP Photo/Ross D. Franklin, File) AP Six years to the day after a rally in Mobile gave an early glimpse of Donald Trump’s ability to generate the excitement that would propel him to the White House,"
+    publishedDateTime: 2021-08-21T14:02:00Z
+    webUrl: "https://www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for-the-first-time-in-4-years.html"
+    ampWebUrl: "https://www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for-the-first-time-in-4-years.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/08/donald-trump-speaking-in-alabama-for-the-first-time-in-4-years.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NFUPH4M6QRDLLKJBN7DOE4AXCM.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Former president coming to ‘heart of Trump country’ on return to Alabama"
     excerpt: "John Wahl said he started working to bring former President Donald Trump back to Alabama right after the state Republican Party picked him as chairman in February. Earlier efforts fell through, including a planned rally July 3 at the U."
     publishedDateTime: 2021-08-17T00:53:00Z
@@ -59,6 +79,38 @@ related:
         width: 1280
         height: 712
         isCached: true
+  - title: "Donald Trump Booed At His Own Rally After Telling Everyone To Get Vaccinated"
+    excerpt: "But it was when he urged everyone to get vaccinated against the coronavirus that his followers turned on him. \"You know what? I believe totally in your freedoms, I do. You gotta do what you have to do,"
+    publishedDateTime: 2021-08-22T23:05:00Z
+    webUrl: "https://www.ladbible.com/news/latest-donald-trump-booed-at-rally-after-telling-everyone-to-get-vaccinated-20210822"
+    ampWebUrl: "https://www.ladbible.com/news/latest-donald-trump-booed-at-rally-after-telling-everyone-to-get-vaccinated-20210822.amp.html"
+    cdnAmpWebUrl: "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/news/latest-donald-trump-booed-at-rally-after-telling-everyone-to-get-vaccinated-20210822.amp.html"
+    type: article
+    provider:
+      name: LADbible
+      domain: ladbible.com
+    quality: 72
+    images:
+      - url: "https://www.ladbible.com/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fs3-images.ladbible.com%2Fs3%2Fcontent%2F7f479ab06122850e1403ec149fa32daf.png"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "Donald Trump booed by supporters after telling them to take COVID-19 vaccine"
+    excerpt: "Former US President Donald Trump was booed by some of his supporters at a rally after he suggested that they get vaccinated against COVID-19. \"I believe totally in your freedoms, I do, you've got to do what you've got to do."
+    publishedDateTime: 2021-08-23T13:22:00Z
+    webUrl: "https://inshorts.com/en/news/donald-trump-booed-by-supporters-after-telling-them-to-take-covid19-vaccine-1629724951107"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/donald-trump-booed-by-supporters-after-telling-them-to-take-covid19-vaccine-1629724951107"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/donald-trump-booed-by-supporters-after-telling-them-to-take-covid19-vaccine-1629724951107"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 72
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/08_aug/23_mon/img_1629724034891_964.jpg?"
+        width: 630
+        height: 473
+        isCached: true
   - title: "Mo Brooks, Tommy Tuberville to speak at Donald Trump’s Alabama rally in Cullman"
     excerpt: "The former president will hold a rally at York Family Farms six years to the day after his first big campaign rally in Mobile."
     publishedDateTime: 2021-08-21T01:41:00Z
@@ -75,6 +127,22 @@ related:
         width: 819
         height: 461
         isCached: true
+  - title: "Donald Trump gets booed at rally for encouraging his supporters to get Covid jab"
+    excerpt: "Nearly 40% of Republicans are still resistant to getting the Covid-19 vaccine or refuse to get it, a Public Religion Research Institute/Interfaith Youth Core poll recently found"
+    publishedDateTime: 2021-08-22T23:19:00Z
+    webUrl: "https://www.mirror.co.uk/news/us-news/donald-trump-gets-booed-rally-24815259"
+    ampWebUrl: "https://www.mirror.co.uk/news/us-news/donald-trump-gets-booed-rally-24815259.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/us-news/donald-trump-gets-booed-rally-24815259.amp"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 70
+    images:
+      - url: "https://i2-prod.mirror.co.uk/incoming/article24815279.ece/ALTERNATES/s615/0_Former-President-Trump-speaks-in-Alabama.jpg"
+        width: 615
+        height: 409
+        isCached: true
   - title: "Donald Trump booed at Alabama rally after telling supporters to 'take the vaccines'"
     excerpt: "Amid the state's low vaccination rate, former President Donald Trump told a rally to go get vaccinated against COVID-19, which some booed."
     publishedDateTime: 2021-08-23T10:54:00Z
@@ -90,22 +158,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/08/22/USAT/9aef22b6-661a-487a-9438-89b679f37137-GTY_1335520712.jpg?auto=webp&crop=3688,2075,x0,y187&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Sheriff Gentry commissions former President Trump as deputy sheriff in Cullman County"
-    excerpt: "Sheriff Matt Gentry of the Cullman County Sheriff’s Office presented former President Donald Trump with a plaque that commissioned him as a deputy sheriff"
-    publishedDateTime: 2021-08-23T01:59:00Z
-    webUrl: "https://www.cbs42.com/news/local/sheriff-gentry-commissions-former-president-trump-as-deputy-sheriff-in-cullman-county/"
-    ampWebUrl: "https://www.cbs42.com/news/local/sheriff-gentry-commissions-former-president-trump-as-deputy-sheriff-in-cullman-county/amp/"
-    cdnAmpWebUrl: "https://www-cbs42-com.cdn.ampproject.org/c/s/www.cbs42.com/news/local/sheriff-gentry-commissions-former-president-trump-as-deputy-sheriff-in-cullman-county/amp/"
-    type: article
-    provider:
-      name: CBS 42
-      domain: cbs42.com
-    quality: 68
-    images:
-      - url: "https://www.cbs42.com/wp-content/uploads/sites/81/2021/08/Trump-Cullman-Sheriff.png?w=1280"
-        width: 1090
-        height: 578
         isCached: true
   - title: "Donald Trump booed at rally in Alabama after telling supporters to 'take the vaccines'"
     excerpt: "Amid the state's low vaccination rate, former President Donald Trump told a rally to go get vaccinated against COVID-19, which some booed."
@@ -171,6 +223,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Trump shows support for vaccine, gets booed by supporters at rally"
+    excerpt: "Donald Trump recommended that supporters at a rally in Alabama go and get the vaccine, which elicited some boos from the crowd."
+    publishedDateTime: 2021-08-23T13:49:00Z
+    webUrl: "https://www.indystar.com/videos/news/politics/2021/08/23/trump-shows-support-vaccine-gets-booed-supporters-rally/8239337002/"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/da092552-bb26-4e96-8837-96cd2592d81d_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Trump Alabama rally updates – Don ‘BOOED by own fans’ for telling them to get vaccinated after bashing ‘woke’ culture"
     excerpt: "DONALD Trump was booed by his own fans at his Alabama rally on Saturday for telling them to get vaccinated after slamming “woke” culture. Former President Trump’s rally was held"
     publishedDateTime: 2021-08-23T16:31:00Z
@@ -187,7 +253,21 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Donald Trump Encouraged People at His Rally to Get Vaccinated. They Booed Him."
+    excerpt: "According to a Trump adviser, the then-president and his wife, Melania, got the vaccine in January—a fact that wasn’t reported until March . 2) The rally brought thousands of people to York Family Farms in Cullman County,"
+    publishedDateTime: 2021-08-22T13:52:00Z
+    webUrl: "https://www.motherjones.com/politics/2021/08/donald-trump-cullman-alabama-rally-covid-boo/"
+    type: article
+    provider:
+      name: Mother Jones
+      domain: motherjones.com
+    quality: 51
+    images:
+      - url: "https://www.motherjones.com/wp-content/uploads/2021/08/20210822_cullman.jpg?w=1200&h=630&crop=1"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "cpzYqE6bommoFvu/+LlHBVzGq5YQKMk3vrUdJIRc6Ty/g36icw4HbekptycFoytmj1wDFtWTz7fYFKdFX4dFTzhZL+LmkxV5SNGlTjE+wTbJt8wUizHL8/vDzgTR5JXVKpFPt0pbzH9u/1jRmiVn2TpJKNN4bnqtIfid4Be5QeGkCBLA7aLyMk2uJQq6v4rm586tqGkY4epqqM2f3Ud/qL8xuUmjF3PYgmFFj84dLCrkRwv3NGK1SlmK+jBvNplOpCMDnIsZGAFETDKw/HlvaiEEFvWVk4/yrPI4vwDjjq73cBdc8SJpPkj2EYIqvyr3BlZw8LMUa+fqXrE0SgnqLNetuO8Denvo0ZQhBuZ9LDjI+0nwbh+LcU9v3Jw8dynGhTRy+5VRkSWUpZD0XLc3viHiNkwrt9JVfvl/qM90aUy7t8EcAYhSgGIuck8FdcqN4p9Pumpi55xarTst/er1zko/SHLhj6oMDPo/S6huXx1e8Gln/p2as8eW5z+uA3TGFi3CvvGv/Qa8+bmy/OM6Hw==;ui4A2wmZpWOftdDynUPvDw=="
+secured: "dZmoP3xopvgCoPxm5lq4j8hr+Hfv5/LlzensOEknbvRidQ/aQ4G/Sv1d+Ir10GppGCcdFSRZivO5l9rlYYIYIgXQkkuSZs8aXtnNBhaofY8gdtY9/ELlpH2QDftdF+o9grsF7PikZixJrBYP1fBdpony1Kq+DAGxx9vAC9XwdMKvFXrcCdWq9Wzg50c3sSgFtuAsOUnYNSU8d+Nhu5MnI0YQ/7Dg75+K/Zpd567mz+A7B3ZFOtDtmd80XKgXAO3L3FB5zP8wkngksCAavkcyau7G2IgfrzGZR3/BNO/GfqEcDqZEK3aaj/CTjMzBCUb4u0VrPhycNcta8QEhyE2rG4ZLsjdnNsguz9xIrychdzQ=;w/qZJs7Gf0ctWv7bRabAwA=="
 ---
 

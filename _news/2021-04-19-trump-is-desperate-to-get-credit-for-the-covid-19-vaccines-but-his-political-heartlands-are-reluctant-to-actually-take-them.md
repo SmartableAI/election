@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Donald Trump booed by supporters after telling them to take COVID-19 vaccine"
-    excerpt: "Former US President Donald Trump was booed by some of his supporters at a rally after he suggested that they get vaccinated against COVID-19. \"I believe totally in your freedoms, I do, you've got to do what you've got to do."
-    publishedDateTime: 2021-08-23T13:22:00Z
-    webUrl: "https://inshorts.com/en/news/donald-trump-booed-by-supporters-after-telling-them-to-take-covid19-vaccine-1629724951107"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/donald-trump-booed-by-supporters-after-telling-them-to-take-covid19-vaccine-1629724951107"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/donald-trump-booed-by-supporters-after-telling-them-to-take-covid19-vaccine-1629724951107"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 72
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/08_aug/23_mon/img_1629724034891_964.jpg?"
-        width: 630
-        height: 473
-        isCached: true
 
 secured: "fyXqEJgk4On0apcf2qPQGf6NL6IzF6U5ZqtqTQGsLXf4t/zaa1+x0/ZRj/Ihnw/nqrKVRqZKy/teSfxbzXNGIzIwVwAdx8drEqDZx1C7BoVCu/5ohFPNDZWMX4+e2wRE9paZaR6yEwvNdtEhfCOYAAt+BvCvs20C2El24l4gHCCOghkwhx9HGRjpfbnsfB0MakaUKvsI5izqz0eoFFX+r+8Hxu0bL4+a9zCngIzyG0KpJVNifC1U6yyV4EquKxHFycglEO5g0LZP3jkh9Rfad82ydaA22eoA6i2lIAH1YkB/X6+9GvB3awIdQgn+lMi9YDz3oSuODg0jm0mTnB0l4+POuYMaEkdIthHjD2uqXkxzMhgYzE3OTF+cUh0lqszMhpAUmFuY7oJyfL+uTxzGe89x32GsHgjKh0mZakduHoUJ/OWFP+8Z1YOZ6NRrxLIqrenHcljAWEG5BDeAB7CEpc0BNE2xYQAKlhu31fUJsASMmgP7D4pLeO8qaqiUZYWPx57ZJrOm6mFiUC78RPWSyg==;du7kx+SSkcfKrJHj0QDTUA=="
 ---

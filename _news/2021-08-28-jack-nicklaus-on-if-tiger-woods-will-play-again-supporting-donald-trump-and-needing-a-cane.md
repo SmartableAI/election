@@ -9,7 +9,7 @@ ampWebUrl: "https://golfweek.usatoday.com/lists/jack-nicklaus-qa-tiger-woods-don
 cdnAmpWebUrl: "https://golfweek-usatoday-com.cdn.ampproject.org/c/s/golfweek.usatoday.com/lists/jack-nicklaus-qa-tiger-woods-donald-trump-cane/amp/"
 type: article
 quality: 115
-heat: 175
+heat: 155
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/21/15/62/21290146/5/ratio3x2_400.jpg"
         width: 400
         height: 267
-        isCached: true
-  - title: "Trump shows support for vaccine, gets booed by supporters at rally"
-    excerpt: "Donald Trump recommended that supporters at a rally in Alabama go and get the vaccine, which elicited some boos from the crowd."
-    publishedDateTime: 2021-08-23T13:49:00Z
-    webUrl: "https://www.indystar.com/videos/news/politics/2021/08/23/trump-shows-support-vaccine-gets-booed-supporters-rally/8239337002/"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 55
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/da092552-bb26-4e96-8837-96cd2592d81d_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "A08qZwO3D3X9Nws0OXoAgYfuLkd6LwvnXuCJ3pzWlZfiS5PrnV28LnakrCk6s2t7KKwkenGuea/ZSt6nFUa5FulsbVv7ArtD/EP7fOl1zfjr5VhzaB9kfBy3FXTcaXztIIVzWVDQkw2spD7FP46/XEKrO32H+MjkWIilMa2vrYcUGOnaJAclp3XkCiFjld1k7cJC0qED1JmyYekQuy+E8CWAF33aPxVaEksRGYdX0DMGa7Y48/y8uvITPJmz5T4O2NVvTzmy1RV6+ZjhFpx4ExB/h7Jy91nkCa5RYPoe9c/7WOyB/hv1JhnDW21bNYzUpEvDR37g03iuqxghmwn0vNMdHa8dwgAVqGiQVGqOeBj4pZvmQre8hXA5/UgnH3uObsqM6BE/duIMpSRZE37LUSeMpG2WNuh8DP5zSpDWBEn82quuZURNk3hwcNQ+giNABZ/eHLCTGb7pvitbgGh23aIa3BQxc7lDb9qeAJpovbKP95CyxAe1+lBlSK07SsV5hkEV+b6UL6/uWwUmbo69hw==;wS49ZO9ZeOrDJ5+0mBcmGQ=="

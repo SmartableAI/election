@@ -1448,6 +1448,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Pace of US evacuation flights from Afghanistan slowing one day before Biden's deadline: officials"
+    excerpt: "U.S. evacuation flights from Kabul are slowing, officials told Fox News Monday, just a day before President Biden’s set Aug. 31 deadline to withdraw troops from Afghanistan."
+    publishedDateTime: 2021-08-30T13:37:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WBe6eQSUrcE/us-evacuation-flights-afghanistan-pace-slowing-biden-deadline"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 142
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/PLANES-LEAVING-KABUL-AFGHANISTAN.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris says evacuating Americans, Afghan allies is Biden admin's 'highest priority'"
     excerpt: "Vice President Kamala Harris said evacuating Americans and U.S. allies in Afghanistan is the administration’s \"highest priority\" while answering reporters’ questions in Vietnam on Thursday."
     publishedDateTime: 2021-08-26T10:04:00Z

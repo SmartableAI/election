@@ -2,26 +2,26 @@
 category: news
 title: "7 US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot"
 excerpt: "US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot."
-publishedDateTime: 2021-08-26T16:05:00Z
-originalUrl: "https://apnews.com/article/donald-trump-ap-news-alert-riots-db275e882b46c926cd46ede8c340a0f7"
-webUrl: "https://apnews.com/article/donald-trump-ap-news-alert-riots-db275e882b46c926cd46ede8c340a0f7"
+publishedDateTime: 2021-08-26T15:05:00Z
+originalUrl: "https://wgem.com/2021/08/26/7-us-capitol-police-officers-sue-former-president-donald-trump-his-allies-and-extremists-groups-over-capitol-riot/"
+webUrl: "https://wgem.com/2021/08/26/7-us-capitol-police-officers-sue-former-president-donald-trump-his-allies-and-extremists-groups-over-capitol-riot/"
 type: article
-quality: 83
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WGEM
+  domain: wgem.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://apnews.com/images/ShareLogo2.png"
-    width: 700
-    height: 450
+  - url: "https://quincy-network.s3.ca-central-1.amazonaws.com/wp-content/uploads/sites/13/2020/07/AP.jpg"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -678,6 +678,6 @@ related:
       domain: sfchronicle.com
     quality: 30
 
-secured: "TY6fpZk+d8CJ264uyOA7KIPlbwESsiMyLWzlLgeL5+933C+v3r3SoTp8U9k5JxWv7NZnT8pX1YozsqW7+vASMvyBPJ6bdegrZVCwGEcO1VA3NrD+Eau218PryLP86p8CjdOPZrxiDtdohQLNKRTjFeq7jD31HWfUDh21Jme0+nlwCn5dVDrcCmpBwZFDlLuQLFoPka17FtKscaBjBIdlX6OTrlGvRu7FmiVZpl98p9bHDek3qNBNYFi7vG6fjWYqp/emp7U/F2BrkNT2GKhPm2zs0qc3fOt+wHvmp1oGABHZgrqBoyxiwGEtFKl+7xDLyIpV+SydBNPnj9+IKBb/wSuDdm3T1mLwP6EMeB8UEsQ=;m8fy34jpRIKAjgE7OwDOUA=="
+secured: "mVqHtcEY53ACSw8Q2KMbpeIxoO2rN4ygM8AtxNCqIBQeivLgKrAFd5mL/EhVjx7XBl8Afx64Aj3PlXTCQB9b6zkIdrIOB2VDTO1GuzahRAUSGys4jqJie+aqn/m/fcmJAhg+t8WfnpxtqEfu92OLges8qZMKTfsoCkqC04uYlIlSV4Qba+t5AZLjQveLDWQCdU9N6XuGP5I2j/EkXL/UE3e+TJgk20hVGZVrOGHa+qf9EldOcmWUJEscswDeLN6OTN9+XN4I4iaqunkjkJIIKuWGcuP7MzqFbKxhYtXPpJw45ty38tXJqODRCInBmOPGY4KhH2MRTp99HBQKnHGTwIo2yzvsWBcrN6VLlaw4mjk=;r6w+Wk39i/suW6bTWTkd+w=="
 ---
 

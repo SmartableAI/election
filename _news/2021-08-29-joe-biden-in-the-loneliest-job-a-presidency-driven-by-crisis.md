@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden in the ‘Loneliest Job,' a Presidency Driven by Crisis"
 excerpt: "Surrounded by everything a superpower can offer and watched by all, President Joe Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan and tried to keep the focus on what,"
-publishedDateTime: 2021-08-28T22:12:00Z
-originalUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/"
-webUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/"
+publishedDateTime: 2021-08-29T01:54:00Z
+originalUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
+webUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
 ampWebUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
 type: article
@@ -88,6 +88,22 @@ related:
       - url: "https://www.tampabay.com/resizer/H3idYXdZk6JBiyKwaxGXggjk8_8=/800x450/filters:focal(2065x1285:2075x1275)/cloudfront-us-east-1.images.arcpublishing.com/tbt/EPAHJMPR7OBARKIDWG2FATIR2Q.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Senior Living: Biden’s no-jab-no-job order creates quandary for nursing homes"
+    excerpt: "Although 83% of residents in the average nursing facility are vaccinated, only 61% of a home’s workers are likely to be, according to data submitted by homes and published by the Centers for"
+    publishedDateTime: 2021-08-30T13:00:00Z
+    webUrl: "https://www.dailynews.com/2021/08/30/senior-living-bidens-no-jab-no-job-order-creates-quandary-for-nursing-homes/"
+    ampWebUrl: "https://www.dailynews.com/2021/08/30/senior-living-bidens-no-jab-no-job-order-creates-quandary-for-nursing-homes/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/08/30/senior-living-bidens-no-jab-no-job-order-creates-quandary-for-nursing-homes/amp/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 72
+    images:
+      - url: "https://www.dailynews.com/wp-content/uploads/2021/08/SeniorLivingBeach-4.jpg?w=1000&#038;h=586"
+        width: 1000
+        height: 586
         isCached: true
   - title: "Joe Biden FORGETS Megan Rapinoe's name, slammed for calling her 'America's best'"
     excerpt: "Joe Biden's recent praise for Megan Rapinoe accompanied an awkward fumbling as the president forgot her last name"
@@ -212,6 +228,6 @@ related:
         height: 675
         isCached: true
 
-secured: "krB1wZ6rMwlhEZd3q/bA0lv3JD71SAOF3Az5OBMe+vb/XMj6KU93f4Uu4mOItPxidcOWNlRc4vkaQEoQY2UrNqMD7o5FTUr2YftCoTsmSKucz6rnxQJp95STDZYIxBMN8JvwTYS5CZ3m6gYVyvWmYGkm6DlyY9GhHldBaqbMNbmg5fsWyJjvTzUlOZJjVqInm7N04lwMx96TzJgd6HhfP4UMfJAuA2vh7pRwtaKYaJiAkZn8SvMKl8zIHYNyyJEYnRRK/K9DmpSictnhwn59LNKsqXSzErnV8j3W+mf4YcRs8PkogvcttJySvE4NNd7xry2yytp7N+hg5YGLqyxi3k7FK+iqfOHUH+Rm35z6zNDhCo31ag+xxe1UpjC+gTF69xFj7Fp6zkXvtO+n2OhEJFjZbqcH6mwLCrEf9IbIkbWn5sYH7E1OSe/kJMZuejYPv8xfYjq+JToQsE+JRGKEfFa3X3uymHwrB8iyDPOmWE6OuHUeUOLNo8P/te23qeTFDJd/MkHmbmCE66TDhvvfgQ==;CNpUMb6+DL4IGO9DJwxvlg=="
+secured: "ASJ6JrbAYwJEo4EtNupur+whaatRCXHKGiFJpHJpBohcle5jdVAVCAAJ3EC/BX1eYbZY0rb+3S5nJlctw0toSugub7jcIOpJakT5c5S+X9QU63r9wwQu0V4Fh6gwsSUxPXJ9tS1/FtbcAtv2qm/s66Nx1qJeH1GQrGmYj83v1fcN6gMWqUW60WoOVTnJN8cxuGUxkVKA6mzrMcxL2OigtSrGtWEdhDs89JAMqWiIwQqHO78C2yYS6gtNaeFk78u+pEgAeKEx0KAibhDQiD5wJ1Ig4I1qBzE1WwlolWI3xhEnJ1e6NLgFaKcAasSSyWGAgNcg2MCX8XuCc5Nnezj1+e9WPqFcGlsT3J4mcA6OYrdBdB88dtemdCabieRDXb19HhTslQUlOq/46zV+lo7DLcq3FTxhCYRnka6Bt0i4XzEJovJ1/q/2Mw1NqV2LgzFEU9jVt7r1cKff3KAO2jwwHpa6XKT30R+KT6ZgWpfy8jT79XTR6HXEKRRB7Yd/p7efeOM0DVo6MxQ76TFTKPM3iQ==;Mo9vZ45txuvk48h9k1vmPQ=="
 ---
 

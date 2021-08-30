@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's presidency of crises pushes White House to its limits"
+    excerpt: "President Joe Biden is confronting an extraordinary confluence of intensifying crises that are pushing a White House already mired in extreme challenges to the limit.\n    \n"
+    publishedDateTime: 2021-08-30T11:20:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N59k_OffQEo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/30/politics/president-joe-biden-hurricane-ida-afghanistan-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/30/politics/president-joe-biden-hurricane-ida-afghanistan-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210827214714-04-biden-afghanistan-bombing-0826-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden braces for fallout as his dire warnings of a Kabul terror attack come true"
     excerpt: "Terrorist explosions outside Kabul's international airport on Thursday that wounded Americans came after days of public and private warnings from President Joe Biden of a potential attack that could disrupt the massive airlift effort underway there.\n    \n"
     publishedDateTime: 2021-08-26T17:21:12Z
