@@ -335,6 +335,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "7 US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot"
+    excerpt: "US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot."
+    publishedDateTime: 2021-08-26T16:05:00Z
+    webUrl: "https://apnews.com/article/donald-trump-ap-news-alert-riots-db275e882b46c926cd46ede8c340a0f7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 83
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Trump looms large in race for South Carolina GOP chairman"
     excerpt: "COLUMBIA, S.C. (AP) — In South Carolina — where Donald Trump's 2016 primary victory marked a turning point in solidifying his nomination, and where support for him remained high throughout his term — the contest to lead the state's Republican Party ..."
     publishedDateTime: 2021-04-01T14:58:00Z
@@ -656,20 +670,6 @@ related:
       name: The Journal Gazette
       domain: journalgazette.net
     quality: 35
-  - title: "7 US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot"
-    excerpt: "US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot."
-    publishedDateTime: 2021-08-26T15:05:00Z
-    webUrl: "https://wgem.com/2021/08/26/7-us-capitol-police-officers-sue-former-president-donald-trump-his-allies-and-extremists-groups-over-capitol-riot/"
-    type: article
-    provider:
-      name: WGEM
-      domain: wgem.com
-    quality: 33
-    images:
-      - url: "https://quincy-network.s3.ca-central-1.amazonaws.com/wp-content/uploads/sites/13/2020/07/AP.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Alert: 7 US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot"
     excerpt: "US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot. The Chronicle’s flagship news podcast. Listen and subscribe on your favorite app. Click the player below for the latest episode."
     publishedDateTime: 2021-08-26T16:23:00Z

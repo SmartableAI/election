@@ -315,6 +315,20 @@ related:
         width: 600
         height: 434
         isCached: true
+  - title: "Biden, families receive remains of fallen troops"
+    excerpt: "In hushed reverence, President Joe Biden stood witness with grieving families Sunday under a gray sky as, one by one, the remains of 13 U.S. troops killed in the Kabul suicide bombing were removed with solemnity from a military aircraft that brought them home."
+    publishedDateTime: 2021-08-30T14:16:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/aug/30/biden-families-receive-remains-of-fallen-troops/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/199263476_199262808-2f4229b9175140db886832161d398921_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
+        isCached: true
   - title: "President Joe Biden Arrives at Holy Trinity Catholic Church"
     excerpt: "US President Joe Biden walks into Holy Trinity Catholic Church for mass in the Georgetown neighborhood of Washington, D.C., Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover,"
     publishedDateTime: 2021-08-29T21:51:00Z
@@ -364,6 +378,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "M1jHdrCBEmJ0Haa6Ss+JBkxQ2mf+OUmaC0hRI2FdVO45H516I1HC36K5F/C2hQNEleHnjiMv+oArTUw1apWcfNNH0rxKnJ14rwmpjZrpmfShLj7eS9VoTwWYlKQcDpq2+F9/ofEpCiV547kbA3fp2q0T8f5WcKx/v/O92IHQN1Gox8eHTG+KbPNUZ6N0txfTr8j0IkE+QEaScSlSwpPKnAqzkQZYP6ApDLJWUmQwpcbuvHSfzH+EkntMxx/zuDva0L5X82RsrmS/8o4tmXDwH9c79pdh8sG49l15eIOeWsEJDB7gzXbGvQddy+yBx95CBxkqXAS90t2gnGoC5Knqi696HjXUBh1JcvRB1Ucj7b8=;VknZQdEeobU1SLlw/bJxhw=="
+secured: "MiJn/pfjIDsRz8w+8ZAd4wvc5+stPAxcz9es748pdG0t2zPWgrT3hVASeLWBneXO11xOTccJpK7FxsnIVPgD3mfsUxGTYalTRMVnjwRFco060k+9dM+c8PJ1j7thv/t/4A65C01qRZY2iOv7BNs3xFlgTx2kNMQ3qsrICWUUAC0niAPkccLMa/npJZFof4Itt0uUUC8rOF2pO3tszSep2Uaj+mak0z6+JIFd+kFaCGDHowmj+WxVIwWBtpttopSYGa07jpVUABl+0JUv+T9rMHPJvJO4mRGd4rbqC1u2qqO6WGOGSX2sVgDAskZgyDiCNH9yEBrYxe0IgvmH0sCC/jv8DP7UF6jpNszg9ZXBC2wwJEzzzxZpDzT3xPDJCgLtxysWrmomBELu+46/m565veTYg1h4hkchNYLm0jD2hEFYoDLNU0B/8vz44W0MlNxIa+H3m70ORH3erxO7syApQF0Zj3mq6OoG+ccc/Rnusp1Nc2hTi499A/TI+J9EjC1cWfszDf1cRdKzYqegXbgFFA==;Z15FJW6UAN3AC9B4OGeghg=="
 ---
 

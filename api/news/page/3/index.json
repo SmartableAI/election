@@ -2,6 +2,171 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-25-charles-barkley-blasts-crowd-stupidity-for-booing-donald-trump-over-vaccines.md",
+      "title": "Charles Barkley Blasts Crowd 'Stupidity' For Booing Donald Trump Over Vaccines",
+      "excerpt": "The NBA legend is headlining an event in Alabama on Saturday to encourage people to take the COVID-19 vaccine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/charles-barkley-blasts-crowd-stupidity-booing-donald-trump-vaccines-alabama-1622803",
+      "originalUrl": "https://www.newsweek.com/charles-barkley-blasts-crowd-stupidity-booing-donald-trump-vaccines-alabama-1622803",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 361,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1879344/charles-barkley-speaks-podium.jpg",
+          "width": 3763,
+          "height": 2509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/charles-barkley-blasts-crowd-stupidity-booing-donald-trump-vaccines-alabama-1622803?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/charles-barkley-blasts-crowd-stupidity-booing-donald-trump-vaccines-alabama-1622803?amp=1",
+      "publishedDateTime": "2021-08-25T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-a-top-pennsylvania-republican-reboots-audit-of-2020-vote-removes-trump-ally-as-chair.md",
+      "title": "A top Pennsylvania Republican reboots 'audit' of 2020 vote, removes Trump ally as chair",
+      "excerpt": "A dispute spilled into public view late last week as some Pennsylvania Republicans seek to further investigate the November election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/elections/pennsylvania-republican-senator-pledges-audit-2020-vote-results-n1277551",
+      "originalUrl": "https://www.nbcnews.com/politics/elections/pennsylvania-republican-senator-pledges-audit-2020-vote-results-n1277551",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_14/3462921/210408-ballots-usa-mb-1010.jpg",
+          "width": 4973,
+          "height": 3315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1277551",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1277551",
+      "publishedDateTime": "2021-08-25T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-with-biden-poll-numbers-plunging-democrats-worry-afghan-exit-may-impact-next-years-elections.md",
+      "title": "With Biden poll numbers plunging, Democrats worry Afghan exit may impact next year's elections",
+      "excerpt": "The rushed U.S. evacuation in Afghanistan appears to be a key contributing factor in the plunge in President Biden's approval rating in new polls. Some Democrats are worried the political fallout could impair their prospects in the 2022 midterms.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PEfZ-75ZWeU/biden-poll-numbers-plunging-democrats-worry-afghanistan-midterms",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PEfZ-75ZWeU/biden-poll-numbers-plunging-democrats-worry-afghanistan-midterms",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 438,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-poll-numbers-plunging-democrats-worry-afghanistan-midterms.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-poll-numbers-plunging-democrats-worry-afghanistan-midterms.amp",
+      "publishedDateTime": "2021-08-25T03:38:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-israeli-leader-naftali-bennett-to-meet-with-joe-biden-as-mideast-tensions-grow.md",
       "title": "Israeli Leader Naftali Bennett to Meet with Joe Biden as Mideast Tensions Grow",
       "excerpt": "The Israeli leader's meeting with President Joe Biden comes amid heightened tensions with regional arch-enemy Iran",
@@ -581,7 +746,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 2641,
+      "heat": 2681,
       "tags": null,
       "images": [
         {
@@ -1135,177 +1300,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-byron-yorks-daily-memo-a-national-eye-opening-on-joe-biden.md",
-      "title": "Byron York's Daily Memo: A national eye-opening on Joe Biden",
-      "excerpt": "Welcome to Byron York's Daily Memo newsletter. Was this email forwarded to you? Sign up here to receive the newsletter. A NATIONAL EYE-OPENING ON JOE BIDEN. Just one month ago, President Biden's job approval rating,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-a-national-eye-opening-on-joe-biden",
-      "originalUrl": "https://www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-a-national-eye-opening-on-joe-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediadc.brightspotcdn.com/dims4/default/24831ae/2147483647/strip/true/crop/1060x600+0+0/resize/1060x600!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F1b%2Fdd%2F5520d8a2407eb68282a5cf5f8e59%2Fdaily-memo-default-1060x600.png",
-          "width": 1060,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-a-national-eye-opening-on-joe-biden?_amp=true",
-      "cdnAmpWebUrl": "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-a-national-eye-opening-on-joe-biden?_amp=true",
-      "publishedDateTime": "2021-08-23T10:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Examiner",
-        "domain": "washingtonexaminer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonexaminer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-thiessen-biden-handed-terrorists-a-safe-haven-to-plan-attacks-worse-than-911.md",
-      "title": "Thiessen: Biden handed terrorists a 'safe haven' to plan attacks worse than 9/11",
-      "excerpt": "Fox News contributor Marc Thiessen told “America's Newsroom” that Biden has given radical Islamic terrorists, including Al-Qaeda, the tools they need to conduct attacks potentially deadlier than 9/11.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/thiessen-biden-radical-islamic-terrorists-attacks",
-      "originalUrl": "https://www.foxnews.com/media/thiessen-biden-radical-islamic-terrorists-attacks",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/72b0dc02-682b-420e-84a4-3161e1992fac/f23f8b11-a3b8-49ec-a004-928df5eb9e2a/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/thiessen-biden-radical-islamic-terrorists-attacks.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/thiessen-biden-radical-islamic-terrorists-attacks.amp",
-      "publishedDateTime": "2021-08-23T10:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-afghanistan-fallout-engulfs-harris-first-day-of-southeast-asia-trip.md",
-      "title": "Afghanistan fallout engulfs Harris' first day of Southeast Asia trip",
-      "excerpt": "Vice President Kamala Harris, undertaking a suddenly high-stakes visit to Southeast Asia this week amid the first major foreign policy crisis of the Biden administration, was on the receiving end of questions Monday about the US' withdrawal from Afghanistan for the first time since the chaotic fall of",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/chh5Piu2id0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/chh5Piu2id0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 345,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210823025658-03-harris-singapore-0822-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/23/politics/kamala-harris-singapore-afghanistan/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/23/politics/kamala-harris-singapore-afghanistan/index.html",
-      "publishedDateTime": "2021-08-23T10:19:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
       ]
     }
   ],

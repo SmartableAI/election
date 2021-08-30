@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Beto-O-Rourke-pu
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Beto-O-Rourke-pushes-Joe-Biden-to-help-pass-16411342.php"
 type: article
 quality: 125
-heat: 585
+heat: 605
 published: true
 
 provider:
@@ -304,6 +304,20 @@ related:
       - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/199258283_199257870-b29018f6db5642afb236295d3817bbdb_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
         width: 600
         height: 434
+        isCached: true
+  - title: "Biden, families receive remains of fallen troops"
+    excerpt: "In hushed reverence, President Joe Biden stood witness with grieving families Sunday under a gray sky as, one by one, the remains of 13 U.S. troops killed in the Kabul suicide bombing were removed with solemnity from a military aircraft that brought them home."
+    publishedDateTime: 2021-08-30T14:16:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/aug/30/biden-families-receive-remains-of-fallen-troops/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/199263476_199262808-2f4229b9175140db886832161d398921_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
         isCached: true
   - title: "President Joe Biden Arrives at Holy Trinity Catholic Church"
     excerpt: "US President Joe Biden walks into Holy Trinity Catholic Church for mass in the Georgetown neighborhood of Washington, D.C., Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover,"

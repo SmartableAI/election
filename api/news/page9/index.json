@@ -2,6 +2,158 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-08-09-melania-trump-blasts-historian-after-misleading-rose-garden-criticism.md",
+      "title": "Melania Trump blasts historian after ‘misleading’ Rose Garden criticism",
+      "excerpt": "Former First Lady Melania Trump is firing back after NBC resident historian Michael Beschloss criticized her renovation of the Rose Garden.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/08/09/melania-trump-blasts-historian-after-rose-garden-criticism/",
+      "originalUrl": "https://nypost.com/2021/08/09/melania-trump-blasts-historian-after-rose-garden-criticism/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/melania-trump-rose-garden-hp.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/08/09/melania-trump-blasts-historian-after-rose-garden-criticism/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/09/melania-trump-blasts-historian-after-rose-garden-criticism/amp/",
+      "publishedDateTime": "2021-08-09T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-trump-called-sen-bill-hagerty-prior-to-request-for-more-debate-on-infrastructure-bill.md",
+      "title": "Trump Called Sen. Bill Hagerty Prior to Request for More Debate on Infrastructure Bill",
+      "excerpt": "\"I think he's doing Trump's bidding. I don't think there's any doubt about it,\" said Senator Jon Tester of Montana.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-called-sen-bill-hagerty-prior-request-more-debate-infrastructure-bill-1617471",
+      "originalUrl": "https://www.newsweek.com/trump-called-sen-bill-hagerty-prior-request-more-debate-infrastructure-bill-1617471",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1865962/bill-hagerty-request-further-debate.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-called-sen-bill-hagerty-prior-request-more-debate-infrastructure-bill-1617471?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-called-sen-bill-hagerty-prior-request-more-debate-infrastructure-bill-1617471?amp=1",
+      "publishedDateTime": "2021-08-09T06:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-dick-durbin-says-trumps-process-to-interfere-in-2020-election-leading-up-to-a-coup.md",
+      "title": "Dick Durbin Says Trump's 'Process' to Interfere in 2020 Election 'Leading Up' to a Coup",
+      "excerpt": "The Senate Majority Whip described the pressure that allegedly Trump placed on ex-acting AG Jeffrey Rosen \"very real\" and \"very specific.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/dick-durbin-says-trumps-process-interfere-2020-election-leading-coup-1617313",
+      "originalUrl": "https://www.newsweek.com/dick-durbin-says-trumps-process-interfere-2020-election-leading-coup-1617313",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1865609/dick-durbin-january-6-insurrection-trump-coup.jpg",
+          "width": 2500,
+          "height": 1658,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/dick-durbin-says-trumps-process-interfere-2020-election-leading-coup-1617313?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/dick-durbin-says-trumps-process-interfere-2020-election-leading-coup-1617313?amp=1",
+      "publishedDateTime": "2021-08-08T12:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-08-former-trump-acting-ag-rosen-testifies-for-nearly-7-hours-before-committee-investigating-election-interference.md",
       "title": "Former Trump acting AG Rosen testifies for nearly 7 hours before committee investigating election interference",
       "excerpt": "Former Trump administration acting Attorney General Jeff Rosen testified before senators behind closed doors for nearly seven hours on Saturday in a session focused on possible election interference, Fox News has learned.",
@@ -1180,170 +1332,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-biden-shields-hong-kong-immigrants-from-removal-citing-chinas-significant-erosion-of-rights.md",
-      "title": "Biden shields Hong Kong immigrants from removal, citing China's 'significant erosion' of rights",
-      "excerpt": "President Biden on Thursday signed a memo shielding residents of Hong Kong living in the U.S. from deportation for at least 18 months, citing the \"significant erosion\" of freedoms in the territory by the Chinese communist regime.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cXEvkWwjteM/biden-hong-kong-immigrants-removal-erosion-rights-china",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cXEvkWwjteM/biden-hong-kong-immigrants-removal-erosion-rights-china",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c33b7e0-001d-4a0e-8e91-cc0189bc3f5b/2fe53756-18f9-4283-ba7b-76d927593c5d/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-hong-kong-immigrants-removal-erosion-rights-china.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hong-kong-immigrants-removal-erosion-rights-china.amp",
-      "publishedDateTime": "2021-08-05T07:38:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-biden-to-announce-new-emissions-standards-target-that-50-of-vehicles-sold-in-us-by-2030-are-electric.md",
-      "title": "Biden to announce new emissions standards, target that 50% of vehicles sold in US by 2030 are electric",
-      "excerpt": "President Joe Biden will sign an executive order Thursday that points the US auto market toward electric vehicles, announcing a new target that half of vehicles sold in the country by 2030 will be battery electric, fuel-cell electric or plug-in hybrid.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L09KXlPPWHU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L09KXlPPWHU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210708143919-01-stellantis-electric-vehicle-strategy-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/05/politics/biden-emissions-standards-electric-vehicles/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/05/politics/biden-emissions-standards-electric-vehicles/index.html",
-      "publishedDateTime": "2021-08-05T03:08:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-will-mcconnell-lift-roadblock-of-biden-for-infrastructure.md",
-      "title": "Will McConnell lift roadblock of Biden for infrastructure?",
-      "excerpt": "Senate Republican leader Mitch McConnell had vowed to be “100% focused” on stopping President Joe Biden’s agenda",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/mcconnell-lift-roadblock-biden-infrastructure-79281497",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/mcconnell-lift-roadblock-biden-infrastructure-79281497",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_d780b5e9d5574b8788053aa12c3bd597_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/mcconnell-lift-roadblock-biden-infrastructure-79281497",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mcconnell-lift-roadblock-biden-infrastructure-79281497",
-      "publishedDateTime": "2021-08-04T21:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

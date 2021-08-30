@@ -2,6 +2,170 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-08-16-fareed-zakaria-this-withdrawal-is-a-stain-on-bidens-foreign-policy.md",
+      "title": "Fareed Zakaria: This withdrawal is a stain on Biden's foreign policy ",
+      "excerpt": "CNN's Anderson Cooper talks with Fareed Zakaria about the crisis unfolding in Afghanistan and what this means for President Joe Biden's foreign policy. Watch \"Full Circle\" Monday, Wednesday and Friday 6p E.T.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mNAv79ZlOjM/fareed-zakaria-afghanistan-biden-acfc-sot-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mNAv79ZlOjM/fareed-zakaria-afghanistan-biden-acfc-sot-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210816192228-fareed-acfc-2-desktop-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/world/2021/08/16/fareed-zakaria-afghanistan-biden-acfc-sot-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2021/08/16/fareed-zakaria-afghanistan-biden-acfc-sot-vpx.cnn",
+      "publishedDateTime": "2021-08-16T16:41:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-5-questions-for-mary-trumpniece-of-donald-who-wants-the-gop-burned-to-the-ground.md",
+      "title": "5 Questions For Mary Trump—Niece Of Donald Who Wants The GOP ‘Burned To The Ground’",
+      "excerpt": "A year after releasing a best-selling, salacious takedown of her uncle, Mary Trump is back with another title, but a much bigger target.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jemimamcevoy/2021/08/16/5-questions-for-mary-trump-niece-of-donald-who-wants-the-gop-burned-to-the-ground/",
+      "originalUrl": "https://www.forbes.com/sites/jemimamcevoy/2021/08/16/5-questions-for-mary-trump-niece-of-donald-who-wants-the-gop-burned-to-the-ground/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611aba1bd4c34bdb198e9f5e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1247%26cropY1%3D1%26cropY2%3D936",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jemimamcevoy/2021/08/16/5-questions-for-mary-trump-niece-of-donald-who-wants-the-gop-burned-to-the-ground/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jemimamcevoy/2021/08/16/5-questions-for-mary-trump-niece-of-donald-who-wants-the-gop-burned-to-the-ground/amp/",
+      "publishedDateTime": "2021-08-16T12:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-16-title-cover-and-details-of-new-trump-book-from-bob-woodward-robert-costa.md",
+      "title": "Title, cover and details of new Trump book from Bob Woodward, Robert Costa",
+      "excerpt": "First it was \"Fear,\" then it was \"Rage,\" now it is \"Peril.\" That is the title of the highly-anticipated third book about President Trump from legendary journalist Bob Woodward, this time written with co-author Robert Costa, a Washington Post national political reporter.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BIewL-ZbLdU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BIewL-ZbLdU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210813145112-peril-book-cover-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/16/politics/bob-woodward-robert-costa-trump-book/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/16/politics/bob-woodward-robert-costa-trump-book/index.html",
+      "publishedDateTime": "2021-08-16T09:00:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-16-rashida-tlaib-stands-by-call-for-trump-impeachment-despite-backlash.md",
       "title": "Rashida Tlaib stands by call for Trump impeachment despite backlash",
       "excerpt": "Rep. Rashida Tlaib on Friday refused to back down from her controversial call to impeach President Trump, despite mounting criticism. Ms. Tlaib told a crowd hours after being sworn in Thursday night that Democrats would go after the president.",
@@ -1083,174 +1247,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-backs-newsom-california-recall-election.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backs-newsom-california-recall-election.amp",
       "publishedDateTime": "2021-08-12T18:49:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-biden-adviser-anita-dunn-leaves-the-white-house.md",
-      "title": "Biden adviser Anita Dunn leaves the White House",
-      "excerpt": "Top Biden adviser Anita Dunn is leaving her position at the White House",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RZdpDdqjgVU/biden-adviser-anita-dunn-leaves-white-house",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RZdpDdqjgVU/biden-adviser-anita-dunn-leaves-white-house",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3bd93983-0d45-4518-a3ae-8fdf28291a81/f1d5bc39-6a20-418b-8eab-9e12b6cdc361/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-adviser-anita-dunn-leaves-white-house.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-adviser-anita-dunn-leaves-white-house.amp",
-      "publishedDateTime": "2021-08-12T18:03:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-pennsylvania-congressman-aided-trump-effort-to-flip-justice-department-on-big-lie.md",
-      "title": "Pennsylvania congressman aided Trump effort to flip Justice Department on Big Lie ",
-      "excerpt": "While other Republicans garnered more attention in attempting to convince the country that the 2020 election was stolen from former President Donald Trump, Rep. Scott Perry made the critical connection linking the then-president to Jeffrey Clark, a little-known Department of Justice official open to",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k3LAdmCdFrU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k3LAdmCdFrU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 229,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210812114115-rep-scott-perry-file-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/12/politics/scott-perry-justice-department-big-lie/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/12/politics/scott-perry-justice-department-big-lie/index.html",
-      "publishedDateTime": "2021-08-12T16:44:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-biden-said-in-july-taliban-overrunning-everything-was-highly-unlikely.md",
-      "title": "Biden said in July Taliban 'overrunning everything' was 'highly unlikely'",
-      "excerpt": "The Washington Post’s resident fact-checker dinged President Joe Biden on Thursday for claiming that it is “highly unlikely” the Taliban regains control of Afghanistan.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2BRsqAUCqhs/wapo-fact-checker-calls-out-biden-on-for-july-comment-saying-taliban-takeover-in-afghanistan-highly-unlikely",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2BRsqAUCqhs/wapo-fact-checker-calls-out-biden-on-for-july-comment-saying-taliban-takeover-in-afghanistan-highly-unlikely",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/554dc1ff-8f47-4c8c-b30c-e8f4e2e73a49/369a7538-7180-415c-848f-7ed1c3aa223b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/wapo-fact-checker-calls-out-biden-on-for-july-comment-saying-taliban-takeover-in-afghanistan-highly-unlikely.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wapo-fact-checker-calls-out-biden-on-for-july-comment-saying-taliban-takeover-in-afghanistan-highly-unlikely.amp",
-      "publishedDateTime": "2021-08-12T16:10:10-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

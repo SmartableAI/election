@@ -1419,6 +1419,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Pentagon on Afghanistan: 'Particularly dangerous time' ahead of Biden withdrawal deadline"
+    excerpt: "The Pentagon on Monday warned that there is still an \"active threat\" in Kabul that \"remains high and remains real,\" while confirming that U.S. troops will leave Afghanistan by President Biden’s Aug. 31 deadline."
+    publishedDateTime: 2021-08-30T15:51:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6E6N-AEet1A/pentagon-afghanistan-active-threat-biden-troop-withdrawal-deadline"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/Kabul-Afghanistan-Taliban.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Lara Trump blasts Kamala Harris on Afghanistan: She thinks we'll all forget about this"
     excerpt: "Fox News contributor Lara Trump slammed Vice President Kamala Harris on Friday for providing vague responses to reporters' questions and traveling to Asia while the crisis in Afghanistan continues."
     publishedDateTime: 2021-08-26T14:04:00Z
@@ -1636,6 +1650,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/nooragha-hashimi-children-kabul-evacuation-50.jpg?quality=90&strip=all&w=1024"
         width: 1024
         height: 683
+        isCached: true
+  - title: "'The Five' on Biden's harsh warning on Afghanistan attack"
+    excerpt: "The White House has been warned that another attack in Kabul is likely. And the State Department says they're in contact with approximately 500 Americans in Afghanistan who want to leave the country."
+    publishedDateTime: 2021-08-30T15:00:00Z
+    webUrl: "https://www.foxnews.com/transcript/the-five-on-bidens-harsh-warning"
+    ampWebUrl: "https://www.foxnews.com/transcript/the-five-on-bidens-harsh-warning.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/the-five-on-bidens-harsh-warning.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1bc35dee-8b70-40e9-968e-b0431c5b163a/d9788c1b-068d-42db-bb4d-50977c5ee802/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Kamala Harris tanking in poll as she goes to ground on Afghan withdrawal"
     excerpt: "Americans have further soured on Vice President Kamala Harris as she continues her radio silence on the withdrawal of US forces from Afghanistan, a new poll indicates."

@@ -2,26 +2,26 @@
 category: news
 title: "7 US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot"
 excerpt: "US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot."
-publishedDateTime: 2021-08-26T15:05:00Z
-originalUrl: "https://wgem.com/2021/08/26/7-us-capitol-police-officers-sue-former-president-donald-trump-his-allies-and-extremists-groups-over-capitol-riot/"
-webUrl: "https://wgem.com/2021/08/26/7-us-capitol-police-officers-sue-former-president-donald-trump-his-allies-and-extremists-groups-over-capitol-riot/"
+publishedDateTime: 2021-08-26T16:05:00Z
+originalUrl: "https://apnews.com/article/donald-trump-ap-news-alert-riots-db275e882b46c926cd46ede8c340a0f7"
+webUrl: "https://apnews.com/article/donald-trump-ap-news-alert-riots-db275e882b46c926cd46ede8c340a0f7"
 type: article
-quality: 33
+quality: 83
 heat: -1
 published: false
 
 provider:
-  name: WGEM
-  domain: wgem.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://quincy-network.s3.ca-central-1.amazonaws.com/wp-content/uploads/sites/13/2020/07/AP.jpg"
-    width: 1024
-    height: 576
+  - url: "https://apnews.com/images/ShareLogo2.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -678,6 +678,6 @@ related:
       domain: sfchronicle.com
     quality: 30
 
-secured: "mVqHtcEY53ACSw8Q2KMbpeIxoO2rN4ygM8AtxNCqIBQeivLgKrAFd5mL/EhVjx7XBl8Afx64Aj3PlXTCQB9b6zkIdrIOB2VDTO1GuzahRAUSGys4jqJie+aqn/m/fcmJAhg+t8WfnpxtqEfu92OLges8qZMKTfsoCkqC04uYlIlSV4Qba+t5AZLjQveLDWQCdU9N6XuGP5I2j/EkXL/UE3e+TJgk20hVGZVrOGHa+qf9EldOcmWUJEscswDeLN6OTN9+XN4I4iaqunkjkJIIKuWGcuP7MzqFbKxhYtXPpJw45ty38tXJqODRCInBmOPGY4KhH2MRTp99HBQKnHGTwIo2yzvsWBcrN6VLlaw4mjk=;r6w+Wk39i/suW6bTWTkd+w=="
+secured: "905hEoAJV3XmZ/kC8okIuJMrIwHmAVs4he6w2gPn+TmBEPrIyVqYfy7rBgCifUG3J1Sk4vB6s2iEWqU7gypsvLSeAecysyanbhl2kx91MgiTxGnaw7pjknXKRtoTMenesuZrWeDvYVAAz3b3I2XGcBeAW75k94W8D9DSOv5KS1JFQ/lPeHtrwZIgivT95/I0xJW45Vzl5/zm3Ng6niDA++qtZptj1tk/Qm6Vkt8IUJx3vCCR7AQx8X/XxTKZAJIkw/3Hx9QTQbhZPJnKow3xMq3wtmxp31JaByfIxagt6eRJ/9wLhVgWLvgfCRY1gw8K4bjwRUfFBAyPz3x2UPehwVIMdfmkAgt5/clxElH9byg=;0nKFcu+Y+jefXNEpFxuuWQ=="
 ---
 
