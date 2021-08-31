@@ -1483,6 +1483,20 @@ related:
       name: Biloxi Sun Herald
       domain: sunherald.com
     quality: 55
+  - title: "Analysis: War is over but not Biden's Afghanistan challenges"
+    excerpt: "With the final stream of U.S. cargo planes soaring over the peaks of the Hindu Kush, President Joe Biden fulfilled a campaign promise to end America’s longest"
+    publishedDateTime: 2021-08-31T04:21:00Z
+    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/analysis-war-is-over-but-not-bidens-afghanistan-challenges/article_43a1670a-b60b-5476-8925-4e8d2dffce6f.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/a/83/a83cbc2f-890e-5a61-8f2c-c26e694fb797/612db47cf1eb4.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Biden will face pressure from G7 to extend Afghanistan withdrawal deadline"
     excerpt: "By Kevin Liptak and Barbara Starr, CNN Leaders from the top foreign allies of the United States are planning to press President Joe Biden to extend the deadline for US troops to withdraw from Afghanistan during a Tuesday morning meeting,"
     publishedDateTime: 2021-08-24T03:38:00Z

@@ -188,6 +188,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Gold Star dads blast Biden for checking watch during ceremony for fallen"
+    excerpt: "The fathers of two US Marines killed in last week’s suicide terror attack at the Kabul airport slammed President Joe Biden Monday, accusing the commander-in-chief of repeatedly looking at"
+    publishedDateTime: 2021-08-31T05:04:00Z
+    webUrl: "https://nypost.com/2021/08/31/biden-blasted-by-gold-star-dads-darin-hoover-mark-schmitz-for-checking-watch-during-ceremony/"
+    ampWebUrl: "https://nypost.com/2021/08/31/biden-blasted-by-gold-star-dads-darin-hoover-mark-schmitz-for-checking-watch-during-ceremony/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/31/biden-blasted-by-gold-star-dads-darin-hoover-mark-schmitz-for-checking-watch-during-ceremony/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/gold-star-dad-blasts-biden-index.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "CBS reporter instructs WH staff to show Biden the poll about his job approval falling"
     excerpt: "CBS reporter Bo Erickson called on the Biden administration to inform President Joe Biden on his now falling job approval numbers."
     publishedDateTime: 2021-08-22T22:35:00Z

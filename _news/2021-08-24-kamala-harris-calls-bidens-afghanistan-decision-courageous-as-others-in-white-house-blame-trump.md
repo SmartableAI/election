@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-biden-afghanistan-dec
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-biden-afghanistan-decision-courageous-trump-blame.amp"
 type: article
 quality: 201
-heat: 2841
+heat: 2861
 published: true
 
 provider:
@@ -1805,6 +1805,22 @@ related:
     quality: 133
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eccfeb60-4360-431d-b6c0-f9d35bf37dc5/249a3fb2-d7d2-4e5b-9dc5-0599cff0df44/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Hannity calls on Biden to resign for abandoning US citizens in Afghanistan"
+    excerpt: "Fox News host Sean Hannity demanded President Biden resign Monday for “lying” to the American people about his pledge to stay in Afghanistan until every citizen is evacuated."
+    publishedDateTime: 2021-08-31T04:05:00Z
+    webUrl: "https://www.foxnews.com/media/hannity-biden-resign-abandoning-us-citizens-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/media/hannity-biden-resign-abandoning-us-citizens-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-biden-resign-abandoning-us-citizens-afghanistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/82a79b96-071d-4581-a2d7-4f04a1972ce5/227f43d4-1ccd-4c14-84c5-d19748ef2fdc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

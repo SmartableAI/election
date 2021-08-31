@@ -88,16 +88,16 @@ related:
         height: 1080
         isCached: true
   - title: "Joe Biden holds virtual meeting on Hurricane Ida in Washington"
-    excerpt: "U.S. President Joe Biden arrives at virtual meeting with FEMA Administrator Deanne Criswell and governors and mayors from States and cities impacted by Hurricane Ida from South Court Auditorium at the White House in Washington,"
+    excerpt: "U.S. President Joe Biden meets virtually with FEMA Administrator Deanne Criswell and governors and mayors from States and cities impacted by Hurricane Ida from South Court Auditorium at the White House in Washington,"
     publishedDateTime: 2021-08-30T18:20:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/7bc60d4b3b428f3368383e499ee493d0/Joe-Biden-holds-virtual-meeting-on-Hurricane-Ida-in-Washington/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/afed49e3dfe0422f575a3cdadde2c7ce/Joe-Biden-holds-virtual-meeting-on-Hurricane-Ida-in-Washington/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/7bc60d4b3b428f3368383e499ee493d0/BIDEN-HURRICANE-IDA.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/afed49e3dfe0422f575a3cdadde2c7ce/BIDEN-HURRICANE-IDA.jpg"
         width: 650
         height: 433
         isCached: true

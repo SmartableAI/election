@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-31-ingraham-team-biden-building-back-weaker-with-officials-on-summer-break.md",
+      "title": "Ingraham: Team Biden 'building back weaker' with officials on 'summer break'",
+      "excerpt": "Laura Ingraham said Biden is \"building back weaker\" Monday on \"The Ingraham Angle,\" noting the \"heart-wrenching\" situation in Afghanistan as the remainder of U.S. troops left the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/ingraham-team-biden-building-back-weaker-officials-summer-break",
+      "originalUrl": "https://www.foxnews.com/media/ingraham-team-biden-building-back-weaker-officials-summer-break",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a458d6f-c4b6-4909-bd2a-c01a34736a37/0d45f21e-d88d-46fc-ab53-9b6bb60bde2b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/ingraham-team-biden-building-back-weaker-officials-summer-break.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ingraham-team-biden-building-back-weaker-officials-summer-break.amp",
+      "publishedDateTime": "2021-08-30T21:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-31-fathers-of-marines-killed-in-kabul-blast-rip-biden-he-talked-more-about-his-son-than-my-son.md",
       "title": "Fathers of Marines killed in Kabul blast rip Biden: 'He talked more about his son than my son'",
       "excerpt": "Two Gold Star fathers of U.S. Marines killed in an ISIS-K-linked blast in Kabul amid President Joe Biden's Afghanistan withdrawal process lambasted the Delaware Democrat for acting selfish in their interactions on \"Hannity.",
@@ -1177,49 +1234,6 @@
       "provider": {
         "name": "TheJournal.ie",
         "domain": "thejournal.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-joe-bidens-future-looks-bleak-hes-shamed-and-endangered-the-west.md",
-      "title": "Joe Biden’s future looks bleak – he’s shamed and endangered the West",
-      "excerpt": "A broken man THE charge sheet against Joe Biden grows by the day. It’s not just that his reckless, casual disregard for Afghanistan and its ­people led directly to the suicide bomb slaughter of 13",
-      "sourceUrl": null,
-      "webUrl": "https://www.the-sun.com/news/3555473/joe-biden-shamed-endangered-west/",
-      "originalUrl": "https://www.the-sun.com/news/3555473/joe-biden-shamed-endangered-west/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/NINTCHDBPICT000675572319-1-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.the-sun.com/news/3555473/joe-biden-shamed-endangered-west/amp/",
-      "cdnAmpWebUrl": "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3555473/joe-biden-shamed-endangered-west/amp/",
-      "publishedDateTime": "2021-08-27T18:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sun",
-        "domain": "the-sun.com",
         "images": null,
         "publishers": null,
         "authors": null

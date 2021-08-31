@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-31-ingraham-team-biden-building-back-weaker-with-officials-on-summer-break.md",
+      "title": "Ingraham: Team Biden 'building back weaker' with officials on 'summer break'",
+      "excerpt": "Laura Ingraham said Biden is \"building back weaker\" Monday on \"The Ingraham Angle,\" noting the \"heart-wrenching\" situation in Afghanistan as the remainder of U.S. troops left the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/ingraham-team-biden-building-back-weaker-officials-summer-break",
+      "originalUrl": "https://www.foxnews.com/media/ingraham-team-biden-building-back-weaker-officials-summer-break",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a458d6f-c4b6-4909-bd2a-c01a34736a37/0d45f21e-d88d-46fc-ab53-9b6bb60bde2b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/ingraham-team-biden-building-back-weaker-officials-summer-break.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ingraham-team-biden-building-back-weaker-officials-summer-break.amp",
+      "publishedDateTime": "2021-08-30T21:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-31-fathers-of-marines-killed-in-kabul-blast-rip-biden-he-talked-more-about-his-son-than-my-son.md",
       "title": "Fathers of Marines killed in Kabul blast rip Biden: 'He talked more about his son than my son'",
       "excerpt": "Two Gold Star fathers of U.S. Marines killed in an ISIS-K-linked blast in Kabul amid President Joe Biden's Afghanistan withdrawal process lambasted the Delaware Democrat for acting selfish in their interactions on \"Hannity.",
@@ -936,7 +993,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 458,
+      "heat": 478,
       "tags": null,
       "images": [
         {
@@ -1096,7 +1153,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 2841,
+      "heat": 2861,
       "tags": null,
       "images": [
         {
@@ -1558,63 +1615,6 @@
       "ampWebUrl": "https://www.foxnews.com/media/gowdy-biden-claimed-to-be-moses-leading-us-out-of-the-wilderness-and-the-media-fell-for-it-we-knew-better.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/gowdy-biden-claimed-to-be-moses-leading-us-out-of-the-wilderness-and-the-media-fell-for-it-we-knew-better.amp",
       "publishedDateTime": "2021-08-22T18:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-john-ratcliffe-adversaries-are-going-to-use-bidens-failure-as-propaganda.md",
-      "title": "John Ratcliffe: Adversaries are going to use Biden's failure as propaganda",
-      "excerpt": "Former Director of National Intelligence John Ratcliffe spoke with Trey Gowdy on international consequences following the Afghanistan crisis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/john-ratcliffe-adversaries-use-bidens-failure-as-propaganda",
-      "originalUrl": "https://www.foxnews.com/media/john-ratcliffe-adversaries-use-bidens-failure-as-propaganda",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0ec8488a-9efa-49a7-bcce-f3e8fb73ec8d/c215abbc-6db4-44b0-82fc-f031fc28a0f5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/john-ratcliffe-adversaries-use-bidens-failure-as-propaganda.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/john-ratcliffe-adversaries-use-bidens-failure-as-propaganda.amp",
-      "publishedDateTime": "2021-08-22T18:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

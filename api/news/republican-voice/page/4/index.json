@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-04-former-atf-agents-slam-biden-nominees-divisive-gun-control-agenda.md",
+      "title": "Former ATF agents slam Biden nominee's 'divisive gun control agenda'",
+      "excerpt": "Several former agents of the Bureau of Alcohol, Tobacco, Firearms and Explosives are publicly urging the Biden administration not to confirm former agent David Chipman to lead the agency.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_5R7wwT0kAM/former-atf-agents-slam-biden-nominees-divisive-gun-control-agenda",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_5R7wwT0kAM/former-atf-agents-slam-biden-nominees-divisive-gun-control-agenda",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32eb7cbf-b336-4d76-b468-20c975733e88/87d46112-8a3c-435b-bc26-cab352d0de6b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/former-atf-agents-slam-biden-nominees-divisive-gun-control-agenda.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-atf-agents-slam-biden-nominees-divisive-gun-control-agenda.amp",
+      "publishedDateTime": "2021-08-03T17:44:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-biden-blasted-for-having-called-ny-gov-andrew-cuomo-the-gold-standard-of-leadership.md",
       "title": "Biden blasted for having called NY Gov. Andrew Cuomo the 'gold standard' of leadership",
       "excerpt": "President Joe Biden is facing criticism for referring to New York Gov. Andrew Cuomo as the “gold standard” of leadership in the past following a report from New York’s Attorney General concluding the governor sexually harassed multiple women.",
@@ -1574,62 +1630,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-07-28T15:10:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-biden-raises-eyebrows-with-claim-he-used-to-drive-18-wheeler-truck.md",
-      "title": "Biden raises eyebrows with claim he 'used to drive' 18-wheeler truck",
-      "excerpt": "Biden was visiting a Mack Truck facility when he made the claim to have driven the massive trucks before, which require a special kind of license to drive.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/__GG7OmFfRY/biden-claims-driven-18-wheeler",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/__GG7OmFfRY/biden-claims-driven-18-wheeler",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4892feea-b073-48a9-ac6c-9f133f490441/7dab1738-1e17-4551-ac6b-7269df7c35d3/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-claims-driven-18-wheeler.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-claims-driven-18-wheeler.amp",
-      "publishedDateTime": "2021-07-28T14:49:36-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

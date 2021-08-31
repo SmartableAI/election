@@ -208,6 +208,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Gold Star dads blast Biden for checking watch during ceremony for fallen"
+    excerpt: "The fathers of two US Marines killed in last week’s suicide terror attack at the Kabul airport slammed President Joe Biden Monday, accusing the commander-in-chief of repeatedly looking at"
+    publishedDateTime: 2021-08-31T05:04:00Z
+    webUrl: "https://nypost.com/2021/08/31/biden-blasted-by-gold-star-dads-darin-hoover-mark-schmitz-for-checking-watch-during-ceremony/"
+    ampWebUrl: "https://nypost.com/2021/08/31/biden-blasted-by-gold-star-dads-darin-hoover-mark-schmitz-for-checking-watch-during-ceremony/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/31/biden-blasted-by-gold-star-dads-darin-hoover-mark-schmitz-for-checking-watch-during-ceremony/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/gold-star-dad-blasts-biden-index.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Jesse Watters slams Biden for Kabul attack: 'By far the worst day of Joe Biden's presidency'"
     excerpt: "Jesse Watters criticized Joe Biden for the attack at the Kabul airport that killed 13 U.S. service members, saying it was an \"avoidable tragedy.\""
     publishedDateTime: 2021-08-29T02:05:00Z

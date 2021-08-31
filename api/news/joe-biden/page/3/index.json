@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-10-biden-covid-origin-investigation-expected-to-end-soon-charlotte-observer.md",
+      "title": "Biden COVID origin investigation expected to end soon | Charlotte Observer",
+      "excerpt": "A 90-day intelligence review into the origins of COVID-19 ordered by President Joe Biden is expected to end largely where it began, without high confidence in how the coronavirus first emerged, government officials told McClatchy. Biden will receive a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.charlotteobserver.com/news/coronavirus/article253365748.html",
+      "originalUrl": "https://www.charlotteobserver.com/news/coronavirus/article253365748.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557046001/12b39f35-3a05-423f-a838-37e72ee371d0/e503dd4e-6739-4b6c-8212-c4272a4fecad/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.charlotteobserver.com/news/coronavirus/article253365748.html",
+      "cdnAmpWebUrl": "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/coronavirus/article253365748.html",
+      "publishedDateTime": "2021-08-09T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Charlotte Observer",
+        "domain": "charlotteobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-07-rose-mcgowan-tears-into-alyssa-milano-joe-biden-times-up-ceo-amid-cuomo-scandal-your-time-is-up.md",
       "title": "Rose McGowan tears into Alyssa Milano, Joe Biden, Time's Up CEO amid Cuomo scandal: 'Your time is up'",
       "excerpt": "Rose McGowan ripped Alyssa Milano, Time's Up President Tina Tchen, and President Biden when referring to Andrew Cuomo's sex harassment scandal.",
@@ -1463,58 +1506,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-biden-authorizes-100-million-in-emergency-funds-for-afghan-refugees.md",
-      "title": "Biden authorizes $100 million in emergency funds for Afghan refugees",
-      "excerpt": "U.S. President Joe Biden on Friday authorized up to $100 million from an emergency fund to meet \"unexpected urgent\" refugee needs stemming from the situation in Afghanistan, including for Afghan special immigration visa applicants,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-afghanistan-conflict-refugees-idUSKBN2ET29T",
-      "originalUrl": "https://www.reuters.com/article/us-afghanistan-conflict-refugees-idUSKBN2ET29T",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 485,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210724&t=2&i=1569833827&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6N07X",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2ET29T",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2ET29T",
-      "publishedDateTime": "2021-07-24T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

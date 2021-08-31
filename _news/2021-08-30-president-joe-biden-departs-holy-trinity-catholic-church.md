@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden Departs Holy Trinity Catholic Church"
-excerpt: "The view of the White House after President Joe Biden arrives back to the White House from Holy Trinity Catholic Church in the Georgetown neighborhood of Washington, DC on Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover,"
+excerpt: "US President Joe Biden walks out of Holy Trinity Catholic Church after mass in the Georgetown neighborhood of Washington, DC on Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover,"
 publishedDateTime: 2021-08-29T22:47:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/5a62ace3eb872bbda6904e721e80e6ba/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/5a62ace3eb872bbda6904e721e80e6ba/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/bad2070604133af510798531d9d3cf3c/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/bad2070604133af510798531d9d3cf3c/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
 type: article
 quality: 55
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/5a62ace3eb872bbda6904e721e80e6ba/BIDEN-CHURCH.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/bad2070604133af510798531d9d3cf3c/BIDEN-CHURCH.jpg"
     width: 650
-    height: 434
+    height: 433
     isCached: true
 
 related:
@@ -203,8 +203,8 @@ related:
         isCached: true
   - title: "Joe Biden in the ‘Loneliest Job,' a Presidency Driven by Crisis"
     excerpt: "Surrounded by everything a superpower can offer and watched by all, President Joe Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan and tried to keep the focus on what,"
-    publishedDateTime: 2021-08-29T01:54:00Z
-    webUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
+    publishedDateTime: 2021-08-28T22:12:00Z
+    webUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/"
     ampWebUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
     cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
     type: article
@@ -509,6 +509,6 @@ related:
       domain: seattletimes.com
     quality: 34
 
-secured: "Dq0/jN/Gdvzpmh3dzBrG3krdmyIoT3teZLxkUNp90UNFkiyjfqIp4vDloQx3E3ZCYpRt/l3dpYhZYikzZ2oA56O3kN31lUTixYvef5VwRxmIebQ1GhkL60YHZ6scC82btEZ6stZyHtVL3aTP+xyX7DkoQcy7NXAqVbYRwKmAy+qYcaooLS5tG6YrLKlAmJiexVFWjstDyqr7efd1bNpcP5p8fPbyBPtufI3GBVg9ouXDXf8L4advCrYjaCN/Ps1XvjG5lcq3X3GErg+j7fXhTFSvcGAtuChL4PCHhxBtMw7/aDZ4zU5oGJeKK8b9xlVC5FfAHGRrD5KZehgooHsRuIDY5fCQvcd21X3Gu2aepLE=;PEbOdclDN6w5L/KaptVo+g=="
+secured: "VKK7D94q0P8+0xQFv9dWZ0jljVjU0iuTqUsUZybntzXAf0u4aGLPIXcAPlysyHcIqhzmW7cwelVHVhoUjqJdwVezGWIz9FwD3xPvIqHgkQE5Cg7BEaBJqvxFh17UsQhe9sH/PVrI9/ov3gMzNb3f4s8UVa2DsVSZ0yOtBGtHH4alxvqVyQnElSA3lzFT1ivQBhW5bzebZLQFutZ4Fc4pcNXyzx9Mcmu/WwU80NWUZc7zL0D6bfeWAKOk65ANtP2OYBYQ1uaLnOoiOu+biVnFepQ3rPs+sfcOu2PD8CFSvy5BTwAC+19UgZ+CaW6LQsnCoPI9iqbYbYEXVEF63wlMRB1sBRu7sLtehRJ7D+bruQ0=;EHo4gCV5YjPC7oSOyRhBVQ=="
 ---
 
