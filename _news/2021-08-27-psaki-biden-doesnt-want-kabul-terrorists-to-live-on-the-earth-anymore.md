@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Psaki doesn't deny Biden looked at watch during ceremony for 13 service members killed in Kabul"
+    excerpt: "White House press secretary Jen Psaki did not deny that President Biden looked at his watch during a dignified transfer ceremony in honor of the 13 U.S. service members killed by ISIS-K in Kabul."
+    publishedDateTime: 2021-08-31T21:20:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AV6Z1_sebFI/psaki-biden-looked-watch-ceremony-13-service-members-killed-kabul"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-looked-watch-ceremony-13-service-members-killed-kabul.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-looked-watch-ceremony-13-service-members-killed-kabul.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/651ccf6d-afa7-4680-8ea4-76587ed748e5/2081972c-851f-47cb-ab78-86bed8a3db83/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Nikki Haley, other Republicans call for Biden's resignation or impeachment after attack at Kabul airport"
     excerpt: "A long list of GOP politicians are calling for President Biden to either be impeached or resign from office after the deadly attack on Harmid Karzai International Airport in Afghanistan."
     publishedDateTime: 2021-08-26T16:57:11Z

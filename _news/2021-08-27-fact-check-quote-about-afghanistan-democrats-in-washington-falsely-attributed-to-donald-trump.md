@@ -3,22 +3,18 @@ category: news
 title: "Fact check: Quote about Afghanistan, Democrats in Washington falsely attributed to Donald Trump"
 excerpt: "Donald Trump did not say the situation in Afghanistan is a distraction from the Democrats in Washington. The quote is being falsely attributed to him."
 publishedDateTime: 2021-08-27T02:32:00Z
-originalUrl: "https://www.usatoday.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
-webUrl: "https://www.usatoday.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
-ampWebUrl: "https://amp.usatoday.com/amp/5586860001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5586860001"
+originalUrl: "https://www.freep.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
+webUrl: "https://www.freep.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
+ampWebUrl: "https://amp.freep.com/amp/5586860001"
+cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5586860001"
 type: article
-quality: 113
+quality: 63
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Election
@@ -46,6 +42,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/21/50/72/21401243/3/400x0.jpg"
         width: 400
         height: 266
+        isCached: true
+  - title: "Joe Biden Defended His Decision To Not Push The Afghanistan Withdrawal Into A “Forever Exit”"
+    excerpt: "But drone strikes against terrorist targets are likely to continue, Biden said in a speech the day after the withdrawal ended."
+    publishedDateTime: 2021-08-31T21:05:00Z
+    webUrl: "https://www.buzzfeednews.com/article/nidhiprakash/biden-afghanistan-withdrawal-drone"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/nidhiprakash/biden-afghanistan-withdrawal-drone"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/nidhiprakash/biden-afghanistan-withdrawal-drone"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 114
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/7/21/campaign_images/2d4e9d8d4a69/the-potential-for-war-with-iran-is-driving-the-fi-2-4406-1578432429-25_dblbig.jpg"
+        width: 625
+        height: 415
         isCached: true
   - title: "Afghanistan live updates: Biden says another Kabul airport attack 'highly likely'; Pentagon says strike killed two in ISIS-K"
     excerpt: "The Pentagon said a Friday airstrike killed two and wounded one ISIS-K planners and facilitators. The mission came a day after a Kabul airport bombing."
@@ -188,6 +200,6 @@ related:
         height: 854
         isCached: true
 
-secured: "R1Jo/JJSWsX60hFWHpNsFfQ2RnBEIc9E8Crb6pes9imKSXCXB6DXOM9yxgdgOZzj2f2xcuSkssVJTA26N+SHu0Ur3Bx5JfGmxi3kHgsgQCmy0U9Yk2aEs7yGVs5RrgAgrfxDTN6MbyzR11AkNA/abtXHxxOTVxvALYgyf7mMISCtQfqeUcvjHYSmmJ86D1yzrUB/EE1dzbQ6i3+Vhs4HbiuClCrFZxyswqrnUpF7I2agE+FOhMcX6cN3cgqFSYbfTaoFbixdCFTeZJ/d/rJ2F+8Q5dv4h3mYaRLmKZPHjft0JoNGfKiRWc77fI5TiG0qeOmCsnnIBkgB80AwNGw0d7BL62AHE+BEVHlAjZHn3eI=;FEean+hcL3NC1g1X5UGjiA=="
+secured: "Tt9RbilZja9891z8lupHQodW/KDBQ3HOY7UlQooy6VB3o3pw+xFvjoa0eduqXlhPdPu5dDE27W7+juD+Gig1YudjFlmXPK/ul6fwcLKeFVEz/Lmt4d1nFFBqnj/PN7cSRNIEdrnJJbXypTpi5DDgTT4n3+PpRHm2u176xam2s59AML83GrTCVMrgO/MUzmj+Y4xy9WhfBFxSA/QXt+6MXuUoGBMqr7p0UO0KKKnqS5YKLZcmHfnuaXBVqxrqdr68yE/J7Yw8o+e4qcMt9/JwT9TC51mHGp+BzF6CmcJmlmibpuL/uMJTIWTUagf5FkZb/ppJIFOkG2Y7FNxKFK1v7Z3qjHCrCyJnwaYTTSBYPG8=;JP1NuFMZ1ieTcXKksMxUjg=="
 ---
 

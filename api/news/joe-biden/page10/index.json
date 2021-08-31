@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-05-10-pastor-greg-locke-attacks-joe-biden-calls-pope-biggest-pedophile-on-the-planet.md",
+      "title": "Pastor Greg Locke Attacks Joe Biden, Calls Pope 'Biggest Pedophile on the Planet'",
+      "excerpt": "People tell me \"Joe Biden is a practicing Catholic,\" Locke said. \"So is the pope but he's the biggest pedophile on the planet.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/pastor-greg-locke-attacks-joe-biden-calls-pope-biggest-pedophile-planet-1589908",
+      "originalUrl": "https://www.newsweek.com/pastor-greg-locke-attacks-joe-biden-calls-pope-biggest-pedophile-planet-1589908",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1791763/pastor-greg-locke-attacks-biden.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/pastor-greg-locke-attacks-joe-biden-calls-pope-biggest-pedophile-planet-1589908?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pastor-greg-locke-attacks-joe-biden-calls-pope-biggest-pedophile-planet-1589908?amp=1",
+      "publishedDateTime": "2021-05-09T11:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-09-hes-like-an-upside-down-iceberg-historian-jon-meacham-on-joe-biden.md",
       "title": "‘He’s like an upside down iceberg’: historian Jon Meacham on Joe Biden",
       "excerpt": "With Biden what you see is what you get, says the Pulitzer prize winner, who has advised the president, but FDR informs his approach to democracy in peril",
@@ -1553,63 +1605,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-tulane-university-invites-hunter-biden-as-guest-speaker-for-course-on-media-polarization.md",
-      "title": "Tulane University invites Hunter Biden as guest speaker for course on 'Media Polarization'",
-      "excerpt": "Hunter Biden is set to appear as a guest speaker at Tulane University as part of a 10-week course that is being offered to students in the fall.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/tulane-university-invites-hunter-biden-as-guest-speaker-for-course-on-media-polarization",
-      "originalUrl": "https://www.foxnews.com/media/tulane-university-invites-hunter-biden-as-guest-speaker-for-course-on-media-polarization",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/071a5059-e8e2-431c-b3d0-e7bcfedd8b53/aa17f3a3-4d75-4c42-8953-477f38f313de/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/tulane-university-invites-hunter-biden-as-guest-speaker-for-course-on-media-polarization.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tulane-university-invites-hunter-biden-as-guest-speaker-for-course-on-media-polarization.amp",
-      "publishedDateTime": "2021-04-27T16:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

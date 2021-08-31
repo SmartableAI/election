@@ -162,6 +162,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Judge tosses Trump rollback of clean water safeguards"
+    excerpt: "A federal judge has thrown out a Trump-era rule that ended federal protections for hundreds of thousands of small streams, wetlands and other waterways and left them vulnerable to pollution from nearby development."
+    publishedDateTime: 2021-08-31T21:36:00Z
+    webUrl: "https://www.nhregister.com/news/article/Judge-tosses-Trump-rollback-of-clean-water-16426305.php"
+    ampWebUrl: "https://www.nhregister.com/news/amp/Judge-tosses-Trump-rollback-of-clean-water-16426305.php"
+    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Judge-tosses-Trump-rollback-of-clean-water-16426305.php"
+    type: article
+    provider:
+      name: New Haven Register
+      domain: nhregister.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "The House panel probing the Capitol riot seeks a host of Trump-era records"
     excerpt: "The requested documents are just the beginning of what is expected to be lengthy partisan and rancorous investigation."
     publishedDateTime: 2021-08-25T18:47:00Z
@@ -238,6 +254,17 @@ related:
         width: 1109
         height: 577
         isCached: true
+  - title: "Pro-Trump lawyers who pushed fraud cases face serious consequences"
+    excerpt: "Lawyers who sought to overturn the 2020 election results in key states, alleging fraud, were sanctioned last week by a federal judge in Michigan."
+    publishedDateTime: 2021-08-31T20:06:00Z
+    webUrl: "https://www.csmonitor.com/USA/Politics/2021/0831/Pro-Trump-lawyers-who-pushed-fraud-cases-face-serious-consequences"
+    ampWebUrl: "https://www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0831/Pro-Trump-lawyers-who-pushed-fraud-cases-face-serious-consequences"
+    cdnAmpWebUrl: "https://www-csmonitor-com.cdn.ampproject.org/c/s/www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0831/Pro-Trump-lawyers-who-pushed-fraud-cases-face-serious-consequences"
+    type: article
+    provider:
+      name: Christian Science Monitor
+      domain: csmonitor.com
+    quality: 55
   - title: "‘Time to Fight!’: Emails From Jan. 5 Show Secret Service Warned Capitol Police About Threat of Pro-Trump Violence"
     excerpt: "The Secret Service warned Capitol police about the threat of pro-Donald Trump violence in Washington on Jan. 5, one day before the insurrection, according to an email published Wednesday by Politico."
     publishedDateTime: 2021-08-25T12:18:00Z

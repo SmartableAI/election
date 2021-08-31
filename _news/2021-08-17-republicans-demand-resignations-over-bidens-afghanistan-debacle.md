@@ -141,6 +141,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden pins partial blame on Trump during first address to nation since Afghanistan withdrawal"
+    excerpt: "President Joe Biden addressed the nation Tuesday afternoon for the first time since American troops fully withdrew from Afghanistan and pinned partial blame on former President Donald Trump for some of the chaos that unfolded during the withdrawal."
+    publishedDateTime: 2021-08-31T20:57:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kPc_iRDjdPM/biden-pins-partial-blame-on-trump-during-first-address-to-nation-since-afghanistan-withdrawal"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-pins-partial-blame-on-trump-during-first-address-to-nation-since-afghanistan-withdrawal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pins-partial-blame-on-trump-during-first-address-to-nation-since-afghanistan-withdrawal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c8fea44-41a7-497b-85ab-7f21a1340956/09ce1f86-8a91-49c1-a568-3c28a733ab48/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden cuts vacation short, returns to the White House"
     excerpt: "President Joe Biden returned to the White House from Camp David Tuesday night a day before originally scheduled as he faces vocal criticism from both sides of the aisle over the chaos unfolding during the American withdrawal from Afghanistan."
     publishedDateTime: 2021-08-18T01:20:32Z
@@ -829,6 +845,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "After stranding Americans in Afghanistan, Biden admin warns 'all areas' of country 'unsafe'"
+    excerpt: "The Biden administration on Tuesday warned that \"all areas\" of Afghanistan are \"unsafe\" after an unknown number of Americans were left stranded in the country after the last U.S. troops left on Monday evening."
+    publishedDateTime: 2021-08-31T20:06:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pLIXkoPDP_U/afghanistan-biden-level-4-travel-advisory"
+    ampWebUrl: "https://www.foxnews.com/politics/afghanistan-biden-level-4-travel-advisory.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/afghanistan-biden-level-4-travel-advisory.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8ac9e349-d9ed-4277-b83c-407e6d49b4ed/f09bdbd6-db7d-4bb3-b709-6ae83a6ac079/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden says American troops should not be dying in Afghanistan; 18 months since last US death"
     excerpt: "President Biden justified the withdrawal of American forces from Afghanistan by stating that U.S. troops should not be losing their lives in a conflict where the Afghans are not fighting themselves, but the last American military casualty was a year and a half ago."
     publishedDateTime: 2021-08-17T19:01:32Z
@@ -1451,6 +1483,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "No update from Biden admin on 24 Sacramento students trapped in Afghanistan"
+    excerpt: "The office of Rep. Ami Bera, D-Calif., confirmed to Fox News that two dozen Sacramento-area students are stranded in Afghanistan and the Biden administration has not provided an update on their status."
+    publishedDateTime: 2021-08-31T20:25:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mEx-1dM8FBM/bera-confirms-sacramento-students-trapped-afghanistan"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 153
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/BIDEN-SPEAKING-083121.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden breaks promise to 'stay' in Afghanistan until every American evacuated"
     excerpt: "President Biden appears to have broken his promise to stay in Afghanistan until every American is evacuated after Marine Corps Gen. Kenneth F. McKenzie Jr. announced Monday evening that the last of the U.S. troops stationed at the Kabul airport had left, completing the military’s drawdown in the country"
     publishedDateTime: 2021-08-30T21:06:50Z
@@ -1462,6 +1508,20 @@ related:
     quality: 152
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/AP21228746281121.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Psaki grilled on Biden's broken promise not to strand Americans in Afghanistan"
+    excerpt: "White House press secretary Jen Psaki was grilled Tuesday on whether President Biden regrets promising to keep U.S. troops in Afghanistan until every American citizen is out after he broke that promise by leaving more than a hundred behind Monday."
+    publishedDateTime: 2021-08-31T21:05:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JJnC-3hA2Mo/psaki-grilled-biden-broken-promise-americans-stranded-afghanistan"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 151
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/JEN-PSAKI-THUMBNAIL.jpg"
         width: 1280
         height: 720
         isCached: true

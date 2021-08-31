@@ -255,6 +255,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Biden looking at climate change risks to financial markets"
+    excerpt: "In a season of daunting wildfires and flooding, the Biden administration is taking an initial step to assess how climate change could harm financial markets — planning to launch on Tuesday a 75-day comment period on how the impacts could reshape the insurance sector."
+    publishedDateTime: 2021-08-31T21:59:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/aug/31/biden-looking-at-climate-change-risks-to-financial/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/aug/31/biden-looking-at-climate-change-risks-to-financial/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/aug/31/biden-looking-at-climate-change-risks-to-financial/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 75
+    images:
+      - url: "https://thumb.spokesman.com/uXRnh5Nmvs4Ofa8_Az4ADuUn69M=/480x0/media.spokesman.com/photos/2021/08/31/612e9bcaec9a3.hires.jpg"
+        width: 480
+        height: 319
+        isCached: true
   - title: "Biden Urges More Employers to Enact Vaccine Mandates Following FDA’s Full Approval"
     excerpt: "Do what I did last month. Require your employees to get vaccinated or face strict requirements,” Biden said Monday."
     publishedDateTime: 2021-08-24T11:40:00Z
@@ -372,16 +388,16 @@ related:
         height: 400
         isCached: true
   - title: "President Joe Biden Arrives at Holy Trinity Catholic Church"
-    excerpt: "US President Joe Biden walks into Holy Trinity Catholic Church for mass in the Georgetown neighborhood of Washington, D.C., Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover,"
+    excerpt: "US President Joe Biden walks into Holy Trinity Catholic Church for mass in the Georgetown neighborhood of Washington, D.C., Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover, Delaware for 13 members of the US military ..."
     publishedDateTime: 2021-08-29T21:51:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/8f8abd0c6d217454099f8dbdc3134149/President-Joe-Biden-Arrives-at-Holy-Trinity-Catholic-Church/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/1a8879067d090ce29eee3c9f8a03d772/President-Joe-Biden-Arrives-at-Holy-Trinity-Catholic-Church/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/8f8abd0c6d217454099f8dbdc3134149/BIDEN-CHURCH.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/1a8879067d090ce29eee3c9f8a03d772/BIDEN-CHURCH.jpg"
         width: 650
         height: 433
         isCached: true

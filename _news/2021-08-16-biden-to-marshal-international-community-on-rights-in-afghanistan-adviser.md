@@ -1751,6 +1751,15 @@ related:
       name: Hiawatha World Online
       domain: hiawathaworldonline.com
     quality: 35
+  - title: "Biden Defiant on the End of the Afghanistan War"
+    excerpt: "The president's remarks a day after the end of the U.S. evacuation from Afghanistan were his most comprehensive yet defending his much-criticized decision to set an Aug. 31 deadline."
+    publishedDateTime: 2021-08-31T21:46:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-08-31/biden-defiant-on-the-end-of-the-afghanistan-war"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
   - title: "U.S. President Biden Calls Evacuation From Afghanistan an Extraordinary Success"
     excerpt: "President Joe Biden on Tuesday called the evacuation from Afghanistan an extraordinary success in his first public remarks since the United States withdrew its military from the country on Monday, ending a 20-year war."
     publishedDateTime: 2021-08-31T19:40:00Z

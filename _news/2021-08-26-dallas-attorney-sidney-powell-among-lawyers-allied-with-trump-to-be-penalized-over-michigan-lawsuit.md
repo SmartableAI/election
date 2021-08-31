@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dallasnews.com/news/politics/2021/08/25/dallas-attorney-
 cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/08/25/dallas-attorney-sidney-powell-among-lawyers-allied-with-trump-penalized-over-michigan-lawsuit/?outputType=amp"
 type: article
 quality: 61
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -25,40 +25,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "U.S. House seeks communications between Trump White House, Michigan Republicans"
-    excerpt: "The request from the U.S. House could shine new light on Trump's efforts to challenge the results in Michigan and ho GOP leaders responded."
-    publishedDateTime: 2021-08-27T14:59:00Z
-    webUrl: "https://www.detroitnews.com/story/news/politics/2021/08/27/u-s-house-probes-trump-officials-exchanges-michigan-republicans/5615642001/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/5615642001"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5615642001"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 71
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/20/PDTN/8140bfd9-923a-4361-ba55-472e22f7b483-RTX8AUU7.JPG?auto=webp&crop=2529,1423,x0,y122&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Capitol Riots Update: Investigative Committee To Request Trump, Republican Leaders' Phone Records"
-    excerpt: "House select committee is drafting a letter requesting access to phone records to those involved in the Capitol riot."
-    publishedDateTime: 2021-08-30T19:19:00Z
-    webUrl: "https://www.ibtimes.com/capitol-riots-update-investigative-committee-request-trump-republican-leaders-phone-3284150"
-    ampWebUrl: "https://www.ibtimes.com/capitol-riots-update-investigative-committee-request-trump-republican-leaders-phone-3284150?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/capitol-riots-update-investigative-committee-request-trump-republican-leaders-phone-3284150?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 62
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/14/rioters-outside-the-capitol-on-january-6.jpg"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "KFFTf2rspWOkq/M//UuTU3KB8F74BtoROeQ2pukAi7WWXN8rHtDNAS5IaI7O0EDT9VGA+/O2UFdLtQUmaphtoehxO7oZIInBb8qdVZYr1HbQ1YjYtVKfVoEcvmUcQ9I/CzjZuAelYZACAzSbHNJA8bbgQMebtyp49AlyvvXUTDtIHZB2dmH9A5qgrCDiYCGETqDUPQbpfuVGCkvWvBIOudWxh2U70M6wYfkht59ELuWNfZbv+oVetNlulU5HhQsx1yTHQCZEeblKzf0YqeJgHSFKzkumINYnLzLa+W5EREu1nusvaIy0Dw9ZXDmwaOk8gkzNvJQI6ObghtcJx28ICHcYA5mCeYaYJodU0tYU8rw=;s7eNEQiTQMl5FLZquyOO5w=="
 ---

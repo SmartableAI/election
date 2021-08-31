@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.detroitnews.com/amp/5615642001"
 cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5615642001"
 type: article
 quality: 71
-heat: 111
-published: true
+heat: -1
+published: false
 
 provider:
   name: Detroit News
@@ -27,37 +27,65 @@ images:
     isCached: true
 
 related:
-  - title: "Capitol Riots Update: Investigative Committee To Request Trump, Republican Leaders' Phone Records"
-    excerpt: "House select committee is drafting a letter requesting access to phone records to those involved in the Capitol riot."
-    publishedDateTime: 2021-08-30T19:19:00Z
-    webUrl: "https://www.ibtimes.com/capitol-riots-update-investigative-committee-request-trump-republican-leaders-phone-3284150"
-    ampWebUrl: "https://www.ibtimes.com/capitol-riots-update-investigative-committee-request-trump-republican-leaders-phone-3284150?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/capitol-riots-update-investigative-committee-request-trump-republican-leaders-phone-3284150?amp=1"
+  - title: "US Sen. Mike Rounds isn't convinced Donald Trump would win GOP nomination in 2024 election"
+    excerpt: "South Dakota U.S. Sen. Mike Rounds, in discussion with Sioux Falls Rotarians, speculated what might lie ahead for the Republican Party for 2024."
+    publishedDateTime: 2021-08-30T19:39:00Z
+    webUrl: "https://www.argusleader.com/story/news/2021/08/30/mike-rounds-2024-election-donald-trump-kristi-noem-republican-nomination-speculation/5653852001/"
+    ampWebUrl: "https://amp.argusleader.com/amp/5653852001"
+    cdnAmpWebUrl: "https://amp-argusleader-com.cdn.ampproject.org/c/s/amp.argusleader.com/amp/5653852001"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 62
+      name: Argus Leader
+      domain: argusleader.com
+    quality: 80
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/14/rioters-outside-the-capitol-on-january-6.jpg"
-        width: 1024
-        height: 682
+      - url: "https://www.gannett-cdn.com/presto/2020/08/20/PSIF/c96ac377-3e03-4c86-a475-a751d7dde2e0-Rounds_ChamberOfCommerce_003.JPG?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Dallas attorney Sidney Powell among lawyers allied with Trump to be penalized over Michigan lawsuit"
-    excerpt: "Nine lawyers allied with former President Donald Trump face financial penalties and other sanctions after a judge Wednesday said they had"
-    publishedDateTime: 2021-08-25T23:54:00Z
-    webUrl: "https://www.dallasnews.com/news/politics/2021/08/25/dallas-attorney-sidney-powell-among-lawyers-allied-with-trump-penalized-over-michigan-lawsuit/"
-    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/08/25/dallas-attorney-sidney-powell-among-lawyers-allied-with-trump-penalized-over-michigan-lawsuit/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/08/25/dallas-attorney-sidney-powell-among-lawyers-allied-with-trump-penalized-over-michigan-lawsuit/?outputType=amp"
+  - title: "LZ Granderson: The election is over. In Arizona, the Trump campaign continues"
+    excerpt: "I would like to share with you a brief conversation about politics that I didn't want to have. But the man in the Arizona bar sitting a couple of stools"
+    publishedDateTime: 2021-08-26T08:00:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/lz-granderson-the-election-is-over-in-arizona-the-trump-campaign-continues/article_cdb3fb76-1ebe-5f91-a594-75a4f2ef043f.html"
     type: article
     provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 61
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 67
     images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/bsGv3kupQn2C0Toxiu_4rh68Ito=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/2DI6CDQCQ7AVQJL7JQDPIE2Q3Q.jpg"
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Former President Donald Trump says he will return to Iowa, adding grist to 2024 speculation"
+    excerpt: "Trump's announcement on the show comes as other potential Republican presidential contenders are already making trips to Iowa."
+    publishedDateTime: 2021-08-31T17:05:00Z
+    webUrl: "https://www.freep.com/story/news/politics/2021/08/31/donald-trump-says-he-will-rally-iowa-stoking-2024-speculation/5666433001/"
+    ampWebUrl: "https://amp.freep.com/amp/5666433001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5666433001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/01/PDEM/63d5811d-248f-4d1b-a046-a644d1ea0203-AP20306724939532.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Bernie Sanders sets out to sell big government in Trump country"
+    excerpt: "He's specifically targeting two congressional districts where Trump's vote totals increased between 2016 and 2020."
+    publishedDateTime: 2021-08-27T10:03:00Z
+    webUrl: "https://bangordailynews.com/2021/08/27/national-politics/bernie-sanders-sets-out-to-sell-big-government-in-trump-country/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/Sanders-in-Trump-Country.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "AkPgcES9UGlLP63QWvVH5eZcSE0r0vBBQSqrPJ/eDFoQk7+cioH4u13HWsXdvQMV/pRTp+0elYlr9UIa6/LG5SYwjnocxzLQq8/nh9aZfCJAFb7I/N597iEPmfFFzbigP5viHU8BhVvVjoUtiFUsBsCoHpH/cFNZNfr/hLFA9BS9rGolqgAneOIqxO8mE5tUUpAi2OK5AZA34+0mDluN6Em2pPVCe2Mwgqp93MnhALI5wqkHILQ2TxNqowDUXhB/jQVNLsPqaBOGs+SRH8XTmJvMc9JFHlRaqY4FsB3l/JCZZwBxReIguuVU+Tq3q2+stPZvasjaAbn92ycY67uR4r3Lq6FWRpBkKIKbKa5apoE=;Tafq+WWXtUGqgr4ZGGmkJA=="

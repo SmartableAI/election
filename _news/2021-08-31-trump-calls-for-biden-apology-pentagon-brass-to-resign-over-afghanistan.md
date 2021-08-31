@@ -123,6 +123,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Afghanistan: Joe Biden defends US pull-out as Taliban claim victory"
+    excerpt: "US President Joe Biden has defended his decision to withdraw US troops from Afghanistan - a move which led to Taliban militants returning to power. Staying longer was not an option, Mr Biden said in an address to the nation,"
+    publishedDateTime: 2021-08-31T21:12:00Z
+    webUrl: "https://www.bbc.com/news/world-asia-58403735"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/10FD0/production/_120348596_hi069712049.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "'When I was President...': Donald Trump on Taliban, Joe Biden, Afghanistan"
     excerpt: "Former US President Donald Trump hit out at his successor over the messy exit from Afghanistan which has led to Taliban taking over most of the country, and an evacuation crisis breaking out. Trump said that Joe Biden had gone on vacation as Afghanistan was going to hell."
     publishedDateTime: 2021-08-23T16:57:00Z

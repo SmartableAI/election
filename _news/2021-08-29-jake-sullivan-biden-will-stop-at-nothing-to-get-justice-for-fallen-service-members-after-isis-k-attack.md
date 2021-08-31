@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/jake-sullivan-biden-stop-at-nothing
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jake-sullivan-biden-stop-at-nothing-isis-k-kabul-afghanistan-airport-attack.amp"
 type: article
 quality: 158
-heat: -1
-published: false
+heat: 178
+published: true
 
 provider:
   name: Fox News
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden condemns 'vicious' ISIS attacks in Kabul: 'We will hunt you down and make you pay'"
-    excerpt: "President Biden pledged to take action against ISIS-K militants and complete evacuation operations on Thursday in his first public remarks since a pair of deadly suicide bombings targeted U.S. forces and evacuees at Kabul’s airport in Afghanistan."
-    publishedDateTime: 2021-08-26T21:44:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6VChDK78VE0/biden-speech-kabul-airport-attack-afghanistan"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-speech-kabul-airport-attack-afghanistan.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-speech-kabul-airport-attack-afghanistan.amp"
+  - title: "Biden ripped for apparently glancing at watch during ceremony for fallen troops"
+    excerpt: "President Joe Biden has come under fire for apparently glancing at his watch during a solemn ceremony at Dover Air Force Base in Delaware for the 13 US troops killed in the terror attack near the"
+    publishedDateTime: 2021-08-30T11:02:00Z
+    webUrl: "https://nypost.com/2021/08/30/biden-ripped-for-apparently-looking-at-watch-at-troops-ceremony/"
+    ampWebUrl: "https://nypost.com/2021/08/30/biden-ripped-for-apparently-looking-at-watch-at-troops-ceremony/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/30/biden-ripped-for-apparently-looking-at-watch-at-troops-ceremony/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
+      name: New York Post
+      domain: nypost.com
+    quality: 131
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c86d9104-8c3d-42b0-aa8c-58d7d652579a/608765f6-b3cd-4b1e-8ab6-543ac87a94cc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/joe-biden-28.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "M4T9UeGbRIZMArgjahkCVpiEvtHCWOksfLa36nuM5MnOoD0lxICHbBgw39wuWgwn8BDSKylrLS7ZBGb2HXIY0tYzuK6Sz3BMosQvZkd8HdnSeF7vnVm7ECzQOeXWkGcmrtHsm65f5bmx349ftSKoIWvs0AQIRnvNgRLe0JFCCJqV0MxnMLOg0R7b3fvhUW+3l1+USt51yhYITTDUUjSOoAuk78Lv9Y4PAXR0joGnAcRffwOdeukZ96+vMN7Zye1ZbqW+LjEknLnSAqngYJJUMb41B9WiJrCxItVfCynTqYubl5tByYOzUHbNRnTS1t7hS94zqov9Pkk+VCZjU8ctrJyz+5CsD90X/gV8ch3Sj0Q=;wLfVenbYLvyD51Hx/rZtMQ=="

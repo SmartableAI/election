@@ -48,22 +48,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Biden ripped for apparently glancing at watch during ceremony for fallen troops"
-    excerpt: "President Joe Biden has come under fire for apparently glancing at his watch during a solemn ceremony at Dover Air Force Base in Delaware for the 13 US troops killed in the terror attack near the"
-    publishedDateTime: 2021-08-30T11:02:00Z
-    webUrl: "https://nypost.com/2021/08/30/biden-ripped-for-apparently-looking-at-watch-at-troops-ceremony/"
-    ampWebUrl: "https://nypost.com/2021/08/30/biden-ripped-for-apparently-looking-at-watch-at-troops-ceremony/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/30/biden-ripped-for-apparently-looking-at-watch-at-troops-ceremony/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 131
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/joe-biden-28.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "BPVFNmZsym+LgbwaB6Ss2Gc9i8Wlr2q3o429mDf9HHU+LifwfJacrYKiLkVS2UyEa0JNapDxhW9FG3XuTr5G9qxsFwpAfyNW7dx7yFHjEjJ+uDwtJ3bbzGCbsX++mq1sChaByv91naTFvB+TWWtwxSnKb05ceDnwYVSLP9bG8X9qgBNFUUwzscJcwuvFGU2Lak9IAa6cc6NzR6tUwUwxG4mAhsGgMOKWHcIz/d5pb0Rs9gcQ2rRyPXf3UaBZlhFvYbrG+IMgSezUaoxi/EYRd4X5QCD4EGvRK1L+gv1q60lv6OzWkfHxmmYurh1+W6mp6jpMI1PWN+AHh7HcKPepyk3KJtdiKOPynthcTbWj41g=;OOXNIhw0LJ24jmPwMJTVSg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C028S"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C028S"
 type: article
 quality: 125
-heat: 2525
+heat: 2545
 published: true
 
 provider:
@@ -1742,6 +1742,15 @@ related:
     provider:
       name: Hiawatha World Online
       domain: hiawathaworldonline.com
+    quality: 35
+  - title: "Biden Defiant on the End of the Afghanistan War"
+    excerpt: "The president's remarks a day after the end of the U.S. evacuation from Afghanistan were his most comprehensive yet defending his much-criticized decision to set an Aug. 31 deadline."
+    publishedDateTime: 2021-08-31T21:46:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-08-31/biden-defiant-on-the-end-of-the-afghanistan-war"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 35
   - title: "Biden to Marshal International Community on Rights in Afghanistan -Adviser"
     excerpt: "U.S. National Security Adviser Jake Sullivan on Monday said that President Joe Biden is prepared to marshal the international community on human rights in Afghanistan, where the Taliban is seizing power."

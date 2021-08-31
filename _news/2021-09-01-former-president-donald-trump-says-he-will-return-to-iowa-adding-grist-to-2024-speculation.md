@@ -3,22 +3,18 @@ category: news
 title: "Former President Donald Trump says he will return to Iowa, adding grist to 2024 speculation"
 excerpt: "Trump's announcement on the show comes as other potential Republican presidential contenders are already making trips to Iowa."
 publishedDateTime: 2021-08-31T17:05:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/08/31/donald-trump-says-he-will-rally-iowa-stoking-2024-speculation/5666433001/"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/08/31/donald-trump-says-he-will-rally-iowa-stoking-2024-speculation/5666433001/"
-ampWebUrl: "https://amp.usatoday.com/amp/5666433001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5666433001"
+originalUrl: "https://www.freep.com/story/news/politics/2021/08/31/donald-trump-says-he-will-rally-iowa-stoking-2024-speculation/5666433001/"
+webUrl: "https://www.freep.com/story/news/politics/2021/08/31/donald-trump-says-he-will-rally-iowa-stoking-2024-speculation/5666433001/"
+ampWebUrl: "https://amp.freep.com/amp/5666433001"
+cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5666433001"
 type: article
-quality: 115
-heat: 155
-published: true
+quality: 65
+heat: -1
+published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Election
@@ -47,21 +43,51 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Editorial: In a sign of the times, extremists appear to be turning against Trump"
-    excerpt: "Former President Donald Trump appears to have created a monster he can no longer control. He inspired violent rebellion, and now the rebels are turning against him. He inspired pandemic"
-    publishedDateTime: 2021-08-30T09:30:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/editorial-in-a-sign-of-the-times-extremists-appear-to-be-turning-against-trump/article_515c0a51-f500-5bb1-ad93-413eee00518e.html"
+  - title: "U.S. House seeks communications between Trump White House, Michigan Republicans"
+    excerpt: "The request from the U.S. House could shine new light on Trump's efforts to challenge the results in Michigan and ho GOP leaders responded."
+    publishedDateTime: 2021-08-27T14:59:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2021/08/27/u-s-house-probes-trump-officials-exchanges-michigan-republicans/5615642001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5615642001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5615642001"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 71
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/20/PDTN/8140bfd9-923a-4361-ba55-472e22f7b483-RTX8AUU7.JPG?auto=webp&crop=2529,1423,x0,y122&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "LZ Granderson: The election is over. In Arizona, the Trump campaign continues"
+    excerpt: "I would like to share with you a brief conversation about politics that I didn't want to have. But the man in the Arizona bar sitting a couple of stools"
+    publishedDateTime: 2021-08-26T08:00:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/lz-granderson-the-election-is-over-in-arizona-the-trump-campaign-continues/article_cdb3fb76-1ebe-5f91-a594-75a4f2ef043f.html"
     type: article
     provider:
       name: Bozeman Daily Chronicle
       domain: bozemandailychronicle.com
-    quality: 50
+    quality: 67
     images:
       - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Bernie Sanders sets out to sell big government in Trump country"
+    excerpt: "He's specifically targeting two congressional districts where Trump's vote totals increased between 2016 and 2020."
+    publishedDateTime: 2021-08-27T10:03:00Z
+    webUrl: "https://bangordailynews.com/2021/08/27/national-politics/bernie-sanders-sets-out-to-sell-big-government-in-trump-country/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/Sanders-in-Trump-Country.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
-secured: "OJh2QYkYU2h/mxXFu/vk3ZqohYmx9XTJgOMBTsjDGuVtp5Q3cBoZE5/ce7ICRkiotbE+U5nr1IMBSy4bcTZELRJrcdP8O6uyqufslIwY3zOCyrbkUS/BI+MJGLsaHVt2sBAeozgEgpeYvRYPdFWCHJYa2hw/zMN1cyhfIDnMSmJum+kcpWQ1+65uoWtvu5XPkQjspAkMS4ptxkuhf9U2zxtcXja5huRzousbq/3Djl0nFRhxlRodwD1nRjor3O0ENiJ9OL4bvcejFdeBV53xQBb8o1G9jzfCywjNBSipN0jnIODutyq+7TiYeHqvksg6hyLDQ7TZILxiKhz3+ADS7SJdZavp8ejQZDY/DSManHE=;UMHJxozcGzeCd2x4Awq4EQ=="
+secured: "q9qnnpJFJJGnwnW68VoXcLIOvRQBmT6/SoeyblOk2dopH2SiEkCT9vwvgscjNNAwKxa9OK2AuHqR8jvPOVKV/TdX1cG/sHq91zpk1flmY0lTgQX5A1Ma7CJ2AM6OzD2xWSOMBdlD+nB1qbzCRL69CeDvJzU8CLeVRiE7jcvpY78Yw3I8QKs0K6Iyah8xrxe8yeD77Boia9mE0fJpWuLiezaZ667JVduDZ47bjNC6sqaYwbpIo1VMjD9/YGyIVQQBXnsWNh5Fe12iPZjel08iMyHiPUYDhEat8qOn6m9cgHTncG6egFEjOLYYlSc+kJi3qRrRCUtTR0IHM82CNaFKP+sJxhEezB5G3l7qi+STkOY=;Xh/nwfi8kYcJGvVCWnLliw=="
 ---
 

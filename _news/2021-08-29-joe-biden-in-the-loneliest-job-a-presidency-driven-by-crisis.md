@@ -123,6 +123,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Afghanistan: Joe Biden defends US pull-out as Taliban claim victory"
+    excerpt: "US President Joe Biden has defended his decision to withdraw US troops from Afghanistan - a move which led to Taliban militants returning to power. Staying longer was not an option, Mr Biden said in an address to the nation,"
+    publishedDateTime: 2021-08-31T21:12:00Z
+    webUrl: "https://www.bbc.com/news/world-asia-58403735"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/10FD0/production/_120348596_hi069712049.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Trump calls for Biden apology, Pentagon brass to resign over Afghanistan"
     excerpt: "Former President Donald Trump on Tuesday demanded his successor apologize for the disastrous U.S. exit from Afghanistan."
     publishedDateTime: 2021-08-31T15:26:00Z
@@ -550,6 +564,6 @@ related:
       domain: seattletimes.com
     quality: 34
 
-secured: "CvOIfgi2snH912Fr7LUhpqZa47Q5u9P1y8rbBRmyWrPvXeKb5MtSig7LfYdNpXnvpzTwsh9RC2nxTaPqPyC5PAWERvuK5IVKcxkh3hCK2J9oJBUJICpyPHPqcuO47aBzVZJlurPnLjvlturgD8wn087djtsTsked7eqkNMKK8LRFOVLvg9aEeEi03VGTY9PV7YmyDlU7YWMsKEGxGlmtTQcywP2OtS6qlAa2ZSPBilkaMhiKIZjN96vfJ8zLuEz9WuhYa0h4BREG7RFzSMqD5l1OurCjf65aQuOcCa4ZZ5oApeD+pL+Brqk4ZKB7JmxGjqgt707MX9fDy300V01ZCszIkYRkwSKPoya3hEhzGtc=;tWDwll4eIV62a0aRLbmGWg=="
+secured: "nWfW8hpCJpC3TeyVNuSV9TPURyEm+gyg2bdiesJ4ifal9/ggHK9DZtkh0nq3aDMHAH/WVDmUj7Xy2BifL2KiGBRIF6rFsHW47y+xRH2xZbExQP+BwGfSjyKfGJPCx+AOG+jPwhfVx4IBdXv9pHAiisuzrBya9oh1/6CsyCEV99/tc/RdzOb6hmMUZPUTxaRUhqSRu7msvBYE19nZuaXhPEy3s8v9qj826861eWcGA4r6kbU6mxDLWbKBVrVFP2zDJnBZxeFX4+OcCX8DrtVR33Z7OUczt7cYPCZJ6EhJ1WiZq/6Y3jA0izvdfmy/YgJ6eiSVoGRn9Sqn1CgUUDqCalSn1jDa7Ln5JIZJUASDIWwSw5eoC9K1PEJ+8XfrZFr+fl+JO8DPf5FTskShE92m0W038v2vSSMyGe3wVMXtGq0ZcFSnBEspNsfUAF9+Y+YfbamILNAV+/ctX6pfHVq0pnvVdvnHeJStRT2oj2SCY4LltZnfvqviAdPDXVflwNQEPnua+ea50agOOx22z4s3BQ==;jZaVDU3imvsVPwIiakafSw=="
 ---
 

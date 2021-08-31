@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Psaki doesn't deny Biden looked at watch during ceremony for 13 service members killed in Kabul"
+    excerpt: "White House press secretary Jen Psaki did not deny that President Biden looked at his watch during a dignified transfer ceremony in honor of the 13 U.S. service members killed by ISIS-K in Kabul."
+    publishedDateTime: 2021-08-31T21:20:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AV6Z1_sebFI/psaki-biden-looked-watch-ceremony-13-service-members-killed-kabul"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-looked-watch-ceremony-13-service-members-killed-kabul.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-looked-watch-ceremony-13-service-members-killed-kabul.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/651ccf6d-afa7-4680-8ea4-76587ed748e5/2081972c-851f-47cb-ab78-86bed8a3db83/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "K7AmRZ8POVxUvru+7S97LeP5flNFMi2ya/3rCBOHzZGCRhtQpkahe6imcKM1iW61jjO/EkhYK1SDpvWJzZdtMNXB8VedWNHqpH/BaKxS47Da+b2KMupWng0c4B2O2Da37G/atW+SPVIqDl6jn5Z6nIiyDIE10moBi50tVfq+jytTsZk4cC4Elg2xrxzRaDD/65spLcFpCbXYhxoz59YSU6deGZqGEQruZOV8EHtxpvI8+dMCkaz6gWWfCLpVB1xussujXISOMGfLtakZ6lccv7+ewwATlkPP1qTCeYBZwBG+8FSKt5MsGacESfq6MLvxZCruiAgkSiQ9kp3fcLqIaFaD8K35mB26SuIc3lufBl8=;sNgh7X2R9/a43dzO7aTR0w=="
 ---

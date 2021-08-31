@@ -43,21 +43,21 @@ related:
         width: 400
         height: 266
         isCached: true
-  - title: "Fact check: Quote about Afghanistan, Democrats in Washington falsely attributed to Donald Trump"
-    excerpt: "Donald Trump did not say the situation in Afghanistan is a distraction from the Democrats in Washington. The quote is being falsely attributed to him."
-    publishedDateTime: 2021-08-27T02:32:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5586860001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5586860001"
+  - title: "Joe Biden Defended His Decision To Not Push The Afghanistan Withdrawal Into A “Forever Exit”"
+    excerpt: "But drone strikes against terrorist targets are likely to continue, Biden said in a speech the day after the withdrawal ended."
+    publishedDateTime: 2021-08-31T21:05:00Z
+    webUrl: "https://www.buzzfeednews.com/article/nidhiprakash/biden-afghanistan-withdrawal-drone"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/nidhiprakash/biden-afghanistan-withdrawal-drone"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/nidhiprakash/biden-afghanistan-withdrawal-drone"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 114
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/08/22/USAT/9aef22b6-661a-487a-9438-89b679f37137-GTY_1335520712.jpg?auto=webp&crop=3688,2075,x0,y187&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/7/21/campaign_images/2d4e9d8d4a69/the-potential-for-war-with-iran-is-driving-the-fi-2-4406-1578432429-25_dblbig.jpg"
+        width: 625
+        height: 415
         isCached: true
   - title: "Afghanistan live updates: Biden says another Kabul airport attack 'highly likely'; Pentagon says strike killed two in ISIS-K"
     excerpt: "The Pentagon said a Friday airstrike killed two and wounded one ISIS-K planners and facilitators. The mission came a day after a Kabul airport bombing."
@@ -154,6 +154,22 @@ related:
       - url: "https://cdn.images.express.co.uk/img/dynamic/78/590x/1483221_1.jpg?r=1630144550341"
         width: 590
         height: 350
+        isCached: true
+  - title: "Fact check: Quote about Afghanistan, Democrats in Washington falsely attributed to Donald Trump"
+    excerpt: "Donald Trump did not say the situation in Afghanistan is a distraction from the Democrats in Washington. The quote is being falsely attributed to him."
+    publishedDateTime: 2021-08-27T02:32:00Z
+    webUrl: "https://www.freep.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
+    ampWebUrl: "https://amp.freep.com/amp/5586860001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5586860001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 63
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/22/USAT/9aef22b6-661a-487a-9438-89b679f37137-GTY_1335520712.jpg?auto=webp&crop=3688,2075,x0,y187&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "‘He’s finished’: Joe Biden ‘cannot survive’ fallout over Afghanistan withdrawal"
     excerpt: "Joe Biden's presidency is finished and it can't survive the fallout over his administration's \"messy\" withdrawal from Afghanistan, according to Curtin University Professor Joe Siracusa. Mr Siracusa said Joe Biden had an opportunity to withdraw from Afghanistan as \"gracefully as he could\" but it turned out to be quite \"messy\"."

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-speech-kabul-airport-attack-a
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-speech-kabul-airport-attack-afghanistan.amp"
 type: article
 quality: 166
-heat: 186
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Jake Sullivan: Biden 'will stop at nothing' to get justice for fallen service members after ISIS-K attack"
-    excerpt: "National Security Advisor Jake Sullivan said that President Biden will ensure that the U.S. exacts retribution against the terror group known as ISIS-K following a deadly suicide bombing at Afghanistan's Hamid Karzai International Airport in Kabul, while noting that there remains a risk of more attacks."
-    publishedDateTime: 2021-08-29T14:25:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VYcdbF1Kf7Y/jake-sullivan-biden-stop-at-nothing-isis-k-kabul-afghanistan-airport-attack"
-    ampWebUrl: "https://www.foxnews.com/politics/jake-sullivan-biden-stop-at-nothing-isis-k-kabul-afghanistan-airport-attack.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jake-sullivan-biden-stop-at-nothing-isis-k-kabul-afghanistan-airport-attack.amp"
+  - title: "Biden warns ISIS-K: ‘We are not done with you yet’"
+    excerpt: "In a defiant speech Tuesday, President Biden stood by his decision to withdraw all troops from Afghanistan but warned the terrorist group ISIS-K, “We are not done with you yet.”"
+    publishedDateTime: 2021-08-31T21:05:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pxwHIYERnQA/biden-tells-isis-k-we-are-not-done-with-you-yet"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-tells-isis-k-we-are-not-done-with-you-yet.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tells-isis-k-we-are-not-done-with-you-yet.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 158
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/669b09aa-cbab-4093-ba18-463f158607fa/7e71a5c2-7513-4b0e-8c51-c38b8fcb7408/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "VamaoUvVpn+hKxnkgF66XxUyVoXkJkwmnhLRen6MYHRB6ZhF3VwwYQfDST/Dg9nYuvHA6tdRSPrA5CKi+8Gvm5wIZpAODqoLn+QA4daOZI7BYjy7udh9Xh6eyHYqD5RqL8uV7+aUX2+mdTAnTe15/xG7d0rvuGylnvXJgar218aiaZoR0CwtuHhk5jVswnXIWdWZeZr8m1sBM8HgveM1sjm/c4Ae1SQVA+lj6HpjThPRpDvXOHs+1wj4xVpclrMGO62RAvmqW/3GzmuDtG7+IKKPe4E21tyVgIph52Natb2KNP/Hte3cEBzXHKvRQ+LZM32rMS0qrUZvAupXEkJxk5SLzXnH5w0JAaW3wOQalCs=;KO14mhfLVg3OXcsgr9jXFQ=="
