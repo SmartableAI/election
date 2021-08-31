@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-04-13-is-he-really-in-charge-cornyn-tweet-about-biden-draws-scorn-white-house-response.md",
+      "title": "'Is he really in charge?': Cornyn tweet about Biden draws scorn, White House response",
+      "excerpt": "AUSTIN – U.S. Sen. John Cornyn, R-Texas, drew attention Monday for a series of tweets on President Joe Biden's media strategy, asking if the president \"is really in charge.\" Cornyn, quoting a Politico article about Biden's media presence, shared the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/04/12/john-cornyn-twitter-biden-2020-election-white-house-response/7197230002/?scrolla=5eb6d68b7fedc32c19ef33b4",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/04/12/john-cornyn-twitter-biden-2020-election-white-house-response/7197230002/?scrolla=5eb6d68b7fedc32c19ef33b4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/02/26/NAAS/a30c32b0-58c3-4c51-a961-fd83f61cdbdc-Biden_Cabinet.jpg?auto=webp&crop=4750,2672,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7197230002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7197230002",
+      "publishedDateTime": "2021-04-12T15:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-daunte-wright-killing-biden-calls-for-peace-and-calm-as-minneapolis-sets-curfew-live.md",
       "title": "Daunte Wright killing: Biden calls for ‘peace and calm’ as Minneapolis sets curfew – live",
       "excerpt": "The federal US government posted a March budget deficit of $660bn, a record high for the month, as direct payments to Americans under Joe Biden’s stimulus package were distributed, the treasury department said on Monday. The deficit for the first six ...",
@@ -1530,58 +1582,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-brian-kemp-accuses-stacey-abrams-joe-biden-of-lying-that-led-to-mlb-all-star-game-pullout.md",
-      "title": "Brian Kemp Accuses Stacey Abrams, Joe Biden of Lying That Led to MLB All-Star Game Pullout",
-      "excerpt": "During a Saturday press conference at the Georgia State Capitol speaking on Major League Baseball's (MLB) decision to pull the All-Star Game out of Atlanta, Governor Brian Kemp accused President Joe Biden and politician and activist Stacey Abrams of lying ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/brian-kemp-accuses-stacey-abrams-joe-biden-lying-that-led-mlb-all-star-game-pullout-1580885",
-      "originalUrl": "https://www.newsweek.com/brian-kemp-accuses-stacey-abrams-joe-biden-lying-that-led-mlb-all-star-game-pullout-1580885",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1771329/georgia-governor-brian-kemp.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/brian-kemp-accuses-stacey-abrams-joe-biden-lying-that-led-mlb-all-star-game-pullout-1580885?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/brian-kemp-accuses-stacey-abrams-joe-biden-lying-that-led-mlb-all-star-game-pullout-1580885?amp=1",
-      "publishedDateTime": "2021-04-03T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

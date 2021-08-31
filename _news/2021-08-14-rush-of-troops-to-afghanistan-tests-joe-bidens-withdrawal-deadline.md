@@ -297,22 +297,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Analysis: War is over but not Biden's Afghanistan challenges"
-    excerpt: "President Joe Biden still faces daunting challenges born of the hasty end of the Afghanistan war NY Rep.: Afghanistan will 'turn into a terrorist safe haven' WASHINGTON -- With the final stream of U.S."
-    publishedDateTime: 2021-08-31T04:32:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/analysis-war-bidens-afghanistan-challenges-79738400"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/analysis-war-bidens-afghanistan-challenges-79738400"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/analysis-war-bidens-afghanistan-challenges-79738400"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_615b53294a2e4218806160caf186fa7e_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden to withdraw U.S. troops from Afghanistan by Sept. 11, officials say"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden has decided to withdraw the remaining U.S. troops from Afghanistan by Sept. 11, 2021, 20 years to the day after al Qaeda’s attacks triggered America’s longest war, U.S. officials said on Tuesday. U.S ..."
     publishedDateTime: 2021-04-13T15:55:00Z
@@ -1498,6 +1482,20 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/33b6a11c0dd29ce286947ef7e5c25211719df6d4.jpg"
         width: 768
         height: 512
+        isCached: true
+  - title: "War is over but not Joe Biden’s Afghanistan challenges"
+    excerpt: "With the final stream of U.S. cargo planes soaring over the peaks of the Hindu Kush, President Joe Biden fulfilled a campaign promise to end America’s longest war, one it could not win. But as the war ended with a chaotic,"
+    publishedDateTime: 2021-08-31T09:50:00Z
+    webUrl: "https://bangordailynews.com/2021/08/31/national-politics/war-is-over-but-not-joe-bidens-afghanistan-challenges/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/Biden-7.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Biden will face pressure from G7 to extend Afghanistan withdrawal deadline"
     excerpt: "By Kevin Liptak and Barbara Starr, CNN Leaders from the top foreign allies of the United States are planning to press President Joe Biden to extend the deadline for US troops to withdraw from Afghanistan during a Tuesday morning meeting,"

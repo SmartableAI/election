@@ -58,6 +58,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Tom Cotton: Biden kept promise to Taliban, not Americans"
+    excerpt: "President Biden appears to have broken his promise to stay in Afghanistan until every American is evacuated. Marine Corps Gen. Kenneth F. McKenzie Jr. announced Monday evening that the last of the U.S."
+    publishedDateTime: 2021-08-31T08:11:00Z
+    webUrl: "https://www.foxnews.com/media/tom-cotton-biden-kept-promise-to-taliban-not-americans"
+    ampWebUrl: "https://www.foxnews.com/media/tom-cotton-biden-kept-promise-to-taliban-not-americans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tom-cotton-biden-kept-promise-to-taliban-not-americans.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0d65ccbd-a41f-4591-b906-397b9ae77004/e22f835a-05e3-479d-a9a9-8be130c445c3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "mOgaCPZFudGP9zgyh2t261+u20aAT8D6C12ZdS7vcZTPQGKpXWtqG4TTFICVc0upMxnNB4W1cy5jy0o2RjNkbYeTKEgsSaWLjk8wipvzUpX+IMJEZoLIhfsRxs6JBVSYWOf0IycYVKSIzN/aVNiSlSKIIPc+UVj4j/2Uc7YzDwpdX5dBxEWFncqCyl+g5iT0gAd0js35apITJcfCVcmZdbGevEvliVFrqA05Nbxfpy+g9ReLemwqtPA50uyku6+U5iqpDQwez0eEp7vBgnpZJMexMXg5LP7kEEJXOi8yYFqZoDX7RFRDdXMQW7dRM8m7NW5zXTzmfRbHMjpiMUmWpetXcYhkyx0mg9aU2nJ7tDiVQ9fj+KvjUkYycnD9h+TpJ48Bd0ga2xf8MxG88WIRNeFaAaFOjUJfdBlKCsT6O+v4YWvL+4jF2xhiP9+big3JDve6N52ZRQc4+1UKTGcWdE+nUMU6zZKKcLOH8jtwo2kcpCQ9h+CH3uNptRWkdEahC5Qmem9cV1dVXWMDR/baZQ==;mLFUtm5InasDql/GspvM8g=="
 ---

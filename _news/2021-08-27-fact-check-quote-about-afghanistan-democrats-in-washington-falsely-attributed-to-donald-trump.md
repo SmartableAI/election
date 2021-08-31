@@ -3,18 +3,18 @@ category: news
 title: "Fact check: Quote about Afghanistan, Democrats in Washington falsely attributed to Donald Trump"
 excerpt: "Donald Trump did not say the situation in Afghanistan is a distraction from the Democrats in Washington. The quote is being falsely attributed to him."
 publishedDateTime: 2021-08-27T02:32:00Z
-originalUrl: "https://www.jsonline.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
-webUrl: "https://www.jsonline.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
-ampWebUrl: "https://amp.jsonline.com/amp/5586860001"
-cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/5586860001"
+originalUrl: "https://www.freep.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
+webUrl: "https://www.freep.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
+ampWebUrl: "https://amp.freep.com/amp/5586860001"
+cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5586860001"
 type: article
 quality: 63
 heat: -1
 published: false
 
 provider:
-  name: Milwaukee Journal Sentinel
-  domain: jsonline.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Election
@@ -184,6 +184,6 @@ related:
         height: 854
         isCached: true
 
-secured: "6BrBkTB7+HHv0xCVDcCwSkerL3il8K7CzIrbq+/AsTGmLa3dlugTbhwQ/Hq/gfl6ifNTwgDnBCDmOhWJ/em8YntP0SQ3ZEMzuIGwRIjOvEt86oKsdl9UzWcwwGe5ywgVuHr57so6X4Th/CfjXbq/St4i5jMcvIC6tFKYbgSgz8mETZNEbALDVvSupEdB6FIvC2qKLW9P9k+U5c0WXr/AehGr7hLS1VkWeC57tBFiWEZkFYnjgOnQn8+kb5S+HY4zH2e8OefklSfaHydwGeaN6HGhR2DdQw66ZphSSZzJ4+Bl0fyRSrD3y+L8pqYcJTLAz2wIcyVnu1CaPg/TSGq4iyLqxcwYSukv8DVeIW3BUfI=;LvhSf7OLZxiNt/7JhLA1+g=="
+secured: "ZDoImKDwbFsVRuuJXzLJGzRv6YC66lhFULRzR7fm8kO2eWH/LRrUuQygPEHcHvd6NDm/QSjhnRmFeDohfJycjEvlUWc7aA2YzWCoeczitul6oZPM07fl3yQUpIXjTEtaMrkX/Cl8hsm9IscJRwYkvLwJA1ApQDugq3KYCHSYYwbX5cuPm2r92CKdSjRlpObP0g+DdIELdALvOGZAuMOmt4O3gysiHmUGEN1xKmhnMFMQmKviQNWb7O3k1w4QUkwNxs6az85b3AglLxad2GEYdzRl2Hs5RQNnXD13FHxSBrIKzs0JXc2tquQeT5fXoOSKVX+GHa1rapIDkGoepLqnTRBkKUy7tbj/iTt7qManfNM=;I7S36wmp3qXaSo2gv2yh1g=="
 ---
 

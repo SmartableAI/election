@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Departs Holy Trinity Catholic Church"
 excerpt: "US President Joe Biden walks out of Holy Trinity Catholic Church after mass in the Georgetown neighborhood of Washington, DC on Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover,"
 publishedDateTime: 2021-08-29T22:47:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/bad2070604133af510798531d9d3cf3c/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/bad2070604133af510798531d9d3cf3c/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/892121aec790ee325107640365b766b7/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/892121aec790ee325107640365b766b7/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/bad2070604133af510798531d9d3cf3c/BIDEN-CHURCH.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/892121aec790ee325107640365b766b7/BIDEN-CHURCH.jpg"
     width: 650
     height: 433
     isCached: true
@@ -216,6 +216,22 @@ related:
       - url: "https://media.nbcnewyork.com/2021/08/GettyImages-1234886272.jpg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Analysis: War is over but not Biden's Afghanistan challenges"
+    excerpt: "But as the war ended with a chaotic, bloody evacuation that left stranded hundreds of U.S. citizens and thousands of Afghans who had aided the American war effort, the president kept notably out of sight."
+    publishedDateTime: 2021-08-31T04:19:00Z
+    webUrl: "https://www.ourmidland.com/news/article/Analysis-War-is-over-but-not-Biden-s-Afghanistan-16424243.php"
+    ampWebUrl: "https://www.ourmidland.com/news/amp/Analysis-War-is-over-but-not-Biden-s-Afghanistan-16424243.php"
+    cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/news/amp/Analysis-War-is-over-but-not-Biden-s-Afghanistan-16424243.php"
+    type: article
+    provider:
+      name: Our Midland MI
+      domain: ourmidland.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Ensure that Taliban do not destabilise Pakistan: US lawmakers to Joe Biden"
     excerpt: "A group of US lawmakers has urged President Joe Biden to ensure that the Taliban, which is now the de facto ruler of Afghanistan, do not destabilise Pakistan and acquire nuclear weapons"
@@ -497,6 +513,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 40
+  - title: "Imagine Trump in this situation"
+    excerpt: "I find it disconcerting that a lot of people have criticized President Joe Biden’s efforts in withdrawing U.S. military involvement in Afghanistan when then Vice President Biden in 2009 was against the invasion of Afghanistan and that in the 2020 presidential campaign he supported"
+    publishedDateTime: 2021-08-31T09:13:00Z
+    webUrl: "https://lasvegassun.com/news/2021/aug/31/imagine-trump-in-this-situation/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 35
   - title: "Biden to withdraw U.S. diplomatic staff from Afghanistan as future relationship with the Taliban remains unclear"
     excerpt: "The Biden administration will also have to decide whether to formally recognize a Taliban government, a decision that also may take some time and may be a factor in any return, officials said."
     publishedDateTime: 2021-08-28T23:45:00Z
@@ -509,6 +534,6 @@ related:
       domain: seattletimes.com
     quality: 34
 
-secured: "ti8NnFYTGH8lEnWUMCkY6dqydgRbqPurRZo6dW480xyCrDJfI3fQWP5KZKTzfC+SuiJXSdByzBztK0olbkIx9k30RFPMrKYixuHtYtay2Nt37v27hiyaTvQLatANqMuUd5J18wSJNd3GLgXWvPfvPGyiQKqOh1CFW8o/J1Sw/xslAgq6Idh+fBQSmayMadgGUWCjs8V/NBNYmKpR/pjqpQDjmWt5F5mAjaEryP2Ik2q13ll8akDU5lXivgorltoeboHKzLVKP55fdo0atkMpWCf05ByN/eFSQJlSV0P8ht82MOHTtSSc2nXYSR9wPinDRxw7UKCqGF1msNWyPi5fz4y/CeYmbAU2uolRawPYtBMReJcaSRhoLLbE/wurnCe88oeBl3Nviwf9Qprho4ygIKQZGs615heNCjQDI3rVfv6HeqL3CxjKRIou228oPd98SMGMZJypMZInRu/uzMXHuxJni37nmgpDiham0xmggL7ktT2liY9XmmhSGzexVkAWjZx48n5V8CVDoiscgoOdzA==;hHP9r1xUJPVaVQF3y9JDbQ=="
+secured: "BUeeMyFx0x5GmBKSHmxlIVopFlJkb2CgDNFXoFaB11fRC/a4OrhghaRzhum7PaJGnC66xqjAGEN7H5XrjexyV0VwptIzclUvVrOVng/8afm+nLb7OnJvFPFRUdLZHx6caJkFI9tLPNzVx32ceMCuJ86nlvKa3ZcjsQ0Bn4OHHmglKo+kvsK8D0Dg9sDxiJq0bjtwwEWZYtrNXPsVyFF2By2ocR/fFkIn05EsFD4hAJ/XuXPXu217LUP/xfP80+bwouM/3m2pB9xskWTvJDrmiu2KeTHmn1EgwpnvfPwSdiCzaVMH/idCeRr98WXsiouZQcoUf8uvfNVM30rjPR/fzVEVSR2ySZLy3+fYw3ryy6M=;1PTtoffyYBkvYz+qLsUqAA=="
 ---
 

@@ -203,6 +203,22 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "Analysis: War is over but not Biden's Afghanistan challenges"
+    excerpt: "But as the war ended with a chaotic, bloody evacuation that left stranded hundreds of U.S. citizens and thousands of Afghans who had aided the American war effort, the president kept notably out of sight."
+    publishedDateTime: 2021-08-31T04:19:00Z
+    webUrl: "https://www.ourmidland.com/news/article/Analysis-War-is-over-but-not-Biden-s-Afghanistan-16424243.php"
+    ampWebUrl: "https://www.ourmidland.com/news/amp/Analysis-War-is-over-but-not-Biden-s-Afghanistan-16424243.php"
+    cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/news/amp/Analysis-War-is-over-but-not-Biden-s-Afghanistan-16424243.php"
+    type: article
+    provider:
+      name: Our Midland MI
+      domain: ourmidland.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Ensure that Taliban do not destabilise Pakistan: US lawmakers to Joe Biden"
     excerpt: "A group of US lawmakers has urged President Joe Biden to ensure that the Taliban, which is now the de facto ruler of Afghanistan, do not destabilise Pakistan and acquire nuclear weapons"
     publishedDateTime: 2021-08-26T23:13:00Z
@@ -422,14 +438,14 @@ related:
   - title: "President Joe Biden Departs Holy Trinity Catholic Church"
     excerpt: "US President Joe Biden walks out of Holy Trinity Catholic Church after mass in the Georgetown neighborhood of Washington, DC on Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover,"
     publishedDateTime: 2021-08-29T22:47:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/bad2070604133af510798531d9d3cf3c/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/892121aec790ee325107640365b766b7/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/bad2070604133af510798531d9d3cf3c/BIDEN-CHURCH.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/892121aec790ee325107640365b766b7/BIDEN-CHURCH.jpg"
         width: 650
         height: 433
         isCached: true
@@ -497,6 +513,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 40
+  - title: "Imagine Trump in this situation"
+    excerpt: "I find it disconcerting that a lot of people have criticized President Joe Biden’s efforts in withdrawing U.S. military involvement in Afghanistan when then Vice President Biden in 2009 was against the invasion of Afghanistan and that in the 2020 presidential campaign he supported"
+    publishedDateTime: 2021-08-31T09:13:00Z
+    webUrl: "https://lasvegassun.com/news/2021/aug/31/imagine-trump-in-this-situation/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 35
   - title: "Biden to withdraw U.S. diplomatic staff from Afghanistan as future relationship with the Taliban remains unclear"
     excerpt: "The Biden administration will also have to decide whether to formally recognize a Taliban government, a decision that also may take some time and may be a factor in any return, officials said."
     publishedDateTime: 2021-08-28T23:45:00Z

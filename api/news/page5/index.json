@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-22-donald-trumps-save-america-rally-packs-farm-near-cullman.md",
+      "title": "Donald Trump’s ‘Save America’ Rally Packs Farm Near Cullman",
+      "excerpt": "The former president of the United States fired up supporters Saturday night, criticizing the Biden administration’s handling of COVID-19, the troop withdrawal in Afghanistan and more.",
+      "sourceUrl": null,
+      "webUrl": "https://wbhm.org/feature/2021/donald-trumps-save-america-rally-packs-farm-near-cullman/",
+      "originalUrl": "https://wbhm.org/feature/2021/donald-trumps-save-america-rally-packs-farm-near-cullman/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wbhm.org/wp-content/uploads/2021/08/Phillips_screen_shot-771x397.png",
+          "width": 771,
+          "height": 397,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wbhm.org/feature/2021/donald-trumps-save-america-rally-packs-farm-near-cullman/amp/",
+      "cdnAmpWebUrl": "https://wbhm-org.cdn.ampproject.org/c/s/wbhm.org/feature/2021/donald-trumps-save-america-rally-packs-farm-near-cullman/amp/",
+      "publishedDateTime": "2021-08-22T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBHM",
+        "domain": "wbhm.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-22-tv-tonight-ruby-wax-revisits-her-time-with-donald-trump.md",
       "title": "TV tonight: Ruby Wax revisits her time with Donald Trump",
       "excerpt": "A nasty encounter with Donald Trump and much more in this entertaining new series. Plus: The Handmaid’s Tale ends. Here’s what to watch this evening",
@@ -1222,54 +1265,6 @@
       "topics": [
         "Election",
         "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-cnns-jeffrey-toobin-ripped-over-column-arguing-against-prosecuting-trump.md",
-      "title": "CNN’s Jeffrey Toobin ripped over column arguing against prosecuting Trump",
-      "excerpt": "CNN legal analyst Jeffrey Toobin is facing backlash on social media over a column urging Attorney General Merrick Garland not to seek criminal prosecution of former",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/08/18/jeffrey-toobin-ripped-over-column-arguing-against-prosecuting-trump/",
-      "originalUrl": "https://nypost.com/2021/08/18/jeffrey-toobin-ripped-over-column-arguing-against-prosecuting-trump/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/Jeffrey-Toobin-03.jpg?quality=90&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/08/18/jeffrey-toobin-ripped-over-column-arguing-against-prosecuting-trump/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/18/jeffrey-toobin-ripped-over-column-arguing-against-prosecuting-trump/amp/",
-      "publishedDateTime": "2021-08-18T07:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }
