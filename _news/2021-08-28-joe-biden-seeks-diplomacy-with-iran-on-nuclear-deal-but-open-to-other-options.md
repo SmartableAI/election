@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/08/27/president-joe-biden-i
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/"
 type: article
 quality: 70
-heat: 110
+heat: 90
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ukraine’s leader to talk with Biden on security, Russian gas"
-    excerpt: "Ukraine's president is traveling to the United States in hopes of bolstering security ties with Washington and persuading the administration to ramp up sanctions against a new Russian gas pipeline byp"
-    publishedDateTime: 2021-08-31T11:34:00Z
-    webUrl: "https://www.seattletimes.com/business/ukraines-leader-to-talk-with-biden-on-security-russian-gas/"
-    ampWebUrl: "https://www.seattletimes.com/business/ukraines-leader-to-talk-with-biden-on-security-russian-gas/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ukraines-leader-to-talk-with-biden-on-security-russian-gas/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 55
   - title: "Biden’s lack of leadership has set the stage for another Tehran ‘79Biden’s lack of leadership has set the stage for another Tehran ‘79"
     excerpt: "Remember when President Joe Biden went on national television and said the Afghanistan troop withdrawal would be nothing like Saigon?"
     publishedDateTime: 2021-08-26T19:49:00Z

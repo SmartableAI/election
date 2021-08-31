@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-56975402.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp"
 type: article
 quality: 150
-heat: 3970
+heat: 3990
 published: true
 
 provider:
@@ -511,6 +511,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/4F7B/production/_119774302_gettyimages-1234112014.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "AOC calls on Joe Biden to replace Trump-appointed Fed chair"
+    excerpt: "Letter seeks greater action on climate crisis and racial justice; Trump appointee’s term at Federal Reserve expires in February"
+    publishedDateTime: 2021-08-31T15:13:00Z
+    webUrl: "https://www.theguardian.com/business/2021/aug/31/jerome-powell-alexandria-ocasio-cortez-federal-reserve"
+    ampWebUrl: "https://amp.theguardian.com/business/2021/aug/31/jerome-powell-alexandria-ocasio-cortez-federal-reserve"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2021/aug/31/jerome-powell-alexandria-ocasio-cortez-federal-reserve"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 140
+    images:
+      - url: "https://i.guim.co.uk/img/media/23d741d558bb07927abb62b41d48d135465f1e69/0_316_5484_3290/master/5484.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=28ae12da48ce6d887527d03d78022852"
+        width: 600
+        height: 360
         isCached: true
   - title: "Poll: More voters say Biden, not Trump, is responsible for border crisis"
     excerpt: "while 28 percent said former President Trump Donald Trump Biden should look to 'Ostpolitik' to negotiate with autocrats The Memo: Biden's bet on taxes Why some Republicans think vaccine passports ..."

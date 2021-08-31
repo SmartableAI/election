@@ -43,17 +43,6 @@ related:
         width: 800
         height: 532
         isCached: true
-  - title: "Ukraine’s leader to talk with Biden on security, Russian gas"
-    excerpt: "Ukraine's president is traveling to the United States in hopes of bolstering security ties with Washington and persuading the administration to ramp up sanctions against a new Russian gas pipeline byp"
-    publishedDateTime: 2021-08-31T11:34:00Z
-    webUrl: "https://www.seattletimes.com/business/ukraines-leader-to-talk-with-biden-on-security-russian-gas/"
-    ampWebUrl: "https://www.seattletimes.com/business/ukraines-leader-to-talk-with-biden-on-security-russian-gas/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ukraines-leader-to-talk-with-biden-on-security-russian-gas/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 55
 
 secured: "4Vy8v9JJNAoFwEJpfPCXnle6Ji1r0Jz3bv1sr/jjot3VDuXa7N18Wc2xFFhuERXdsSl+02nJikhZLCeqcmWruJZxGU++nk9+jirUubYC8mtyYgLLRXPOanXCef5WRQIs7uygYg75ZzN8nOL9Nty9UzQBRq0djGS547nOcc1+TYl+IQV3S8J6v5cUYEyTlzvQU3y3bC5sy7XDzTWgt1Q2dD/r5Gd/4iYTb/yPoWNwYyr+OSL+NYMZvd0X3x4rwGVh1LXDFc5KIgATHa9sLn7RvP+I60oMfxuTCuZ/4WJ89tvLSiOkd+dGHGZMiGVciaHQ0L970rZwXilIFl+gt0IFvFOAw26zVZcynTV6GS5z6o8=;jYEdYePhRdmVCQb/1jQ0Bw=="
 ---

@@ -1376,6 +1376,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden to address nation on Afghanistan, 'make clear' his foreign policy will 'keep the American people safe'"
+    excerpt: "President Biden is set to deliver remarks to the American people Tuesday afternoon on his decision to end the two-decade war in Afghanistan, and is expected to make clear his intention to approach foreign policy in ways that will “keep the American people safe.”"
+    publishedDateTime: 2021-08-31T17:10:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/foDtOOYE3X0/biden-to-address-nation-on-afghanistan-make-clear-his-foreign-policy-will-keep-the-american-people-safe"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-to-address-nation-on-afghanistan-make-clear-his-foreign-policy-will-keep-the-american-people-safe.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-address-nation-on-afghanistan-make-clear-his-foreign-policy-will-keep-the-american-people-safe.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Republicans demand resignations over Biden's Afghanistan debacle"
     excerpt: "A handful of Republican congressmen are calling for heads to roll in the administration for the botched handling of the troop withdrawal from Afghanistan."
     publishedDateTime: 2021-08-17T21:19:44Z
@@ -1855,6 +1871,22 @@ related:
       - url: "https://images.wsj.net/im-388795/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "'Ingraham Angle' on holding Biden officials accountable for crisis in Afghanistan"
+    excerpt: "Guests: Tom Cotton, Elliot Ackerman, Glenn Greenwald, Jonathan Turley, Raymond Arroyo, Jay Bhattacharya, Harvey Risch"
+    publishedDateTime: 2021-08-31T17:48:00Z
+    webUrl: "https://www.foxnews.com/transcript/ingraham-on-holding-biden-officials-accountable-for-the-crisis-in-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/transcript/ingraham-on-holding-biden-officials-accountable-for-the-crisis-in-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/ingraham-on-holding-biden-officials-accountable-for-the-crisis-in-afghanistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a458d6f-c4b6-4909-bd2a-c01a34736a37/0d45f21e-d88d-46fc-ab53-9b6bb60bde2b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Sen. Ernst: 'Joe Biden is a disgrace,' has not 'fully thanked' US troops in Afghanistan"
     excerpt: "Iowa Senator Joni Ernst knocked Joe Biden on Thursday, calling the president a 'disgrace' for not 'fully thanking' U.S. troops in Afghanistan."

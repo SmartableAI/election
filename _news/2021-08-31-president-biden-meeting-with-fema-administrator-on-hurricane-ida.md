@@ -431,6 +431,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "Biden Administration Takes Step to Resume Drilling Auctions in Setback to Climate Agenda"
+    excerpt: "Biden had paused drilling auctions after taking office in January pending an analysis of their impacts on the environment and value to taxpayers. In June, however, a federal judge"
+    publishedDateTime: 2021-08-31T17:33:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-08-31/biden-administration-takes-steps-to-resume-onshore-drilling-auctions"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 26
 
 secured: "tNrzP+sewOSWMWMxU1p2crIW9WgggudZIoXieZwzcWTPW5DLZWMGqmBVzLjg4KNjCtscJDtKx1v/6DypqKEicy9kCZyjMUzfGTAIeBnxoPmQVoHvxhWJHTsOpvUcDPB7FTXUrfj5viHyxk3b8+YjJtc1SFgMYIIyFmzbuV/UzHuMhaMIbITdPokS/iXhLWiF7R6aaev7OarBOUFVJa7LKpfkQbV9qRU5ACWWm8H4FggK2AKwRP7xdSdJGCkuLsf2xWxoGLzvLh7gt6BsCKVyNWWImtcBThbWY3ziKEiUdMhvurds5fJTEag8cqdPR/RlVdS0Zn/Uax2CkXCTxV5EUlQPe0EukV9uzE5I1hXY//4=;JksQUXvvjzT5xjZoCV0tRA=="
 ---

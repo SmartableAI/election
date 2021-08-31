@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden holds virtual meeting on Hurricane Ida in Washington"
-excerpt: "U.S. President Joe Biden meets virtually with FEMA Administrator Deanne Criswell and governors and mayors from States and cities impacted by Hurricane Ida from South Court Auditorium at the White House in Washington,"
+excerpt: "U.S. President Joe Biden arrives at virtual meeting with FEMA Administrator Deanne Criswell and governors and mayors from States and cities impacted by Hurricane Ida from South Court Auditorium at the White House in Washington,"
 publishedDateTime: 2021-08-30T18:20:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/afed49e3dfe0422f575a3cdadde2c7ce/Joe-Biden-holds-virtual-meeting-on-Hurricane-Ida-in-Washington/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/afed49e3dfe0422f575a3cdadde2c7ce/Joe-Biden-holds-virtual-meeting-on-Hurricane-Ida-in-Washington/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/7bc60d4b3b428f3368383e499ee493d0/Joe-Biden-holds-virtual-meeting-on-Hurricane-Ida-in-Washington/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/7bc60d4b3b428f3368383e499ee493d0/Joe-Biden-holds-virtual-meeting-on-Hurricane-Ida-in-Washington/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/afed49e3dfe0422f575a3cdadde2c7ce/BIDEN-HURRICANE-IDA.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/7bc60d4b3b428f3368383e499ee493d0/BIDEN-HURRICANE-IDA.jpg"
     width: 650
     height: 433
     isCached: true
@@ -90,6 +90,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "r+ThzcVs7BA/bheGWgGL308g/5yxxXLzhKFaP8eji5N9B30YILCyAkXI4zfzhlW1U5y16+X5inI4rcZpZ5+PlthtGcbStM+Q35t87eBH3KV3f0ulP0bcFillq7CSkEQn404ox50iKt4owE9e14lyXW2oek/2WfZfBLQ3iNsqAYsJ5rWRVWJLK0KJlIJJYutSmKXqYOs81aqwj2+SGS44ZTlf/YXbUohSG7dssHkNNikobZ0oTwIZ1OieqYgUlAvO4Hc2VgcnqKN85K2nIaFEppdvNECMMJspSs75yTOfBOmfKoqRylFV5KF5QIqv+z2Zicuoqmq5e7onli0GojWfuQt8fN/eYr3bDXRJ9OZtOV4=;FB5W8c9EUV1t+J2+KIejGQ=="
+secured: "90Cxnx7C4vzokJAHmR4wEvqK692N6M/XhF+56GMSuXoLD5K7uQ7X3rLI0zXiDHbZRYVpmSS0GAXKwbChadQjfHWu4CiZdzUa1O0H89QsVz8LRDcseaSufkSEvezdRO0ys9Wm7sj+gmAd50slXMLjqqgkIcZC8ubnJ43cg0GZE9A+LXFHva/oPDe1Zyh4/+Vs6adKyd5cZDdoK3exXHizqdX6SSVZZlVGvlFMbXZX5Mlt7vUlcI4PZYEiP0KzZJhxab/iaXd+ntZRNbpq3c4TKwpQPF3N/YcDurkn9ZZwmdWDAhNnqh/4eImd5qJEYVZE4/SCHl008H0qV1S3PNj0D/+ly8EaKLBm67Doa4IF+50=;hvYDxVTLKaXKldynYqiWpA=="
 ---
 

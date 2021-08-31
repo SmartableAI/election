@@ -79,6 +79,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Sen. Rand Paul says ‘hatred of Trump’ blocks research into ivermectin to treat COVID-19"
+    excerpt: "Sen. Rand Paul is blaming “hatred of Trump” for a lack of research into ivermectin, a deworming medication for livestock that some vaccine skeptics are touting as the miracle cure for humans with COVID-19."
+    publishedDateTime: 2021-08-31T17:13:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/sen-rand-paul-says-hatred-of-trump-blocks-research-into-ivermectin-to-treat-covid-19/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/sen-rand-paul-says-hatred-of-trump-blocks-research-into-ivermectin-to-treat-covid-19/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/sen-rand-paul-says-hatred-of-trump-blocks-research-into-ivermectin-to-treat-covid-19/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 47
 
 secured: "2puK0xgfu33uEr0xYaOt5WpM9YMTv4R/GMb1ReKVLJcSsJ6moVzTEuyC7bGb8snxpbb7tBb24zCD5hinUzYmZKBGUCjMJ3cVBoLqndW/H0SIO75u/gXbPQVE0LbcbulCqSsRnRiRGil0sAuYUx/gm7JDS31IrS3cAbQd/n38O2kV8fYyyuFgEX7xpjmyVJ9uSNiZOeIjSnpayyK67/WXG6G3WGMNDrLRRaKsA0SbWwXoJLUHLG2vJt4Nh86paf/HDKUkCxEslVkvHDIdnvt/smE4EgfvoovJMMSO8GUI7pJbmiLR3kRMOSY3/QRoVUQKieOj12Zg18BuV9mvuoxyDHeyQyOhdgOXtptkP8hZfseZYIZD97DtvHnldCtdjOJpGDr2Izn0XZi/kPqhHEhvylELlAWYqsxbXrKGhVCm7DjkKq9nR2d0hybIliQmfeAP08d4cDQhNg1nRtuBUPkZlnSZ2CnKHmJdbVKaohDzJMmEMT/bIJrvtYT6J3vJ8olg7wY0xIBUMVNjx+7f3E8neQ==;RIqFTxcU544rnMCZ0W0sAA=="
 ---

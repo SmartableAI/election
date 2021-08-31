@@ -21,38 +21,92 @@ topics:
   - Joe Biden
 
 related:
-  - title: "Joe Biden seeks diplomacy with Iran on nuclear deal, but open to 'other options'"
-    excerpt: "President Joe Biden on Friday said the United States will try diplomacy to keep Iran from obtaining nuclear weapons, but will use \"other options\" if necessary."
-    publishedDateTime: 2021-08-27T18:31:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/"
+  - title: "Joe Biden’s Ukraine meeting is a test of America’s pledges"
+    excerpt: "Sign up to myFT Daily Digest to be the first to know about Joe Biden news. In April 2014, two months after Ukraine’s pro-western revolution and a month after Russia annexed Crimea in retaliation, the then US vice-president Joe Biden flew into Kyiv."
+    publishedDateTime: 2021-08-31T17:38:00Z
+    webUrl: "https://www.ft.com/content/893cd8eb-c070-49f9-a049-1ad15532950f"
+    ampWebUrl: "https://amp.ft.com/content/893cd8eb-c070-49f9-a049-1ad15532950f"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/893cd8eb-c070-49f9-a049-1ad15532950f"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
+      name: The Financial Times
+      domain: ft.com
+    quality: 125
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fca569017-d1b0-4fd9-b40d-ff87b3e5fea4.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
+  - title: "Ukraine leader, Biden to talk on security, Russian gas"
+    excerpt: "Washington has strongly opposed the construction of Nord Stream 2, but the Biden administration has opted not to punish the German company overseeing the project while announcing new sanctions"
+    publishedDateTime: 2021-08-31T17:50:00Z
+    webUrl: "https://www.mercurynews.com/2021/08/31/ukraine-leader-biden-to-talk-on-security-russian-gas/"
+    ampWebUrl: "https://www.mercurynews.com/2021/08/31/ukraine-leader-biden-to-talk-on-security-russian-gas/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/08/31/ukraine-leader-biden-to-talk-on-security-russian-gas/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/08/sjm-e-US_87594909.jpg?w=1024&#038;h=743"
+        width: 1024
+        height: 743
+        isCached: true
+  - title: "Joe Biden FORGETS Megan Rapinoe's name, slammed for calling her 'America's best'"
+    excerpt: "Joe Biden's recent praise for Megan Rapinoe accompanied an awkward fumbling as the president forgot her last name"
+    publishedDateTime: 2021-08-25T10:30:00Z
+    webUrl: "https://meaww.com/joe-biden-forget-megan-rapinoe-name-represent-america-best-internet-furious-losers-reactions"
+    ampWebUrl: "https://meaww.com/amp/joe-biden-forget-megan-rapinoe-name-represent-america-best-internet-furious-losers-reactions"
+    cdnAmpWebUrl: "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/joe-biden-forget-megan-rapinoe-name-represent-america-best-internet-furious-losers-reactions"
+    type: article
+    provider:
+      name: Meaww
+      domain: meaww.com
     quality: 70
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/3931630085407/2021/1/5a644c6dc5548efdc6df8cce0f83b200/v1.5/Joe-Biden-seeks-diplomacy-with-Iran-on-nuclear-deal-but-open-to-other-options.jpg"
+      - url: "https://cheesecake.articleassets.meaww.com/546311/uploads/18a4f6a0-058b-11ec-bd95-db89c1205176_800_420.png"
         width: 800
-        height: 532
+        height: 420
         isCached: true
-  - title: "Biden’s lack of leadership has set the stage for another Tehran ‘79Biden’s lack of leadership has set the stage for another Tehran ‘79"
-    excerpt: "Remember when President Joe Biden went on national television and said the Afghanistan troop withdrawal would be nothing like Saigon?"
-    publishedDateTime: 2021-08-26T19:49:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/aug/26/bidens-lack-of-leadership-has-set-the-stage-for-an/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/26/bidens-lack-of-leadership-has-set-the-stage-for-an/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/26/bidens-lack-of-leadership-has-set-the-stage-for-an/"
+  - title: "Joe Biden Pledges More Strikes On ISIS Amid Threats Of Another Attack On Kabul Airport"
+    excerpt: "President Joe Biden, who decided to hit back at ISIS over the Kabul airport bombings said that the US airstrikes against the extremist group will continue."
+    publishedDateTime: 2021-08-29T03:54:00Z
+    webUrl: "https://www.republicworld.com/world-news/us-news/joe-biden-pledges-more-strikes-on-isis-amid-threats-of-another-attack-on-kabul-airport.html"
+    ampWebUrl: "https://www.republicworld.com/amp/world-news/us-news/joe-biden-pledges-more-strikes-on-isis-amid-threats-of-another-attack-on-kabul-airport.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/world-news/us-news/joe-biden-pledges-more-strikes-on-isis-amid-threats-of-another-attack-on-kabul-airport.html"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 43
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 67
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/08/26/B3-WAGN-Biden-Terro_c0-404-1210-1109_s1200x700.jpg?6a44db869a503535e769220c2c37f220f95f195d"
-        width: 1200
-        height: 700
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/2x4aoo80nkmm0zvb_1630205335.jpeg"
+        width: 768
+        height: 439
         isCached: true
+  - title: "Biden: Another attack likely, pledges more strikes on IS"
+    excerpt: "President Joe Biden is warning that it’s “highly likely” an Islamic State affiliate will try another attack in Afghanistan."
+    publishedDateTime: 2021-08-29T03:07:00Z
+    webUrl: "https://www.theolympian.com/news/politics-government/national-politics/article253826773.html"
+    ampWebUrl: "https://amp.theolympian.com/news/politics-government/national-politics/article253826773.html"
+    cdnAmpWebUrl: "https://amp-theolympian-com.cdn.ampproject.org/c/s/amp.theolympian.com/news/politics-government/national-politics/article253826773.html"
+    type: article
+    provider:
+      name: The Olympian
+      domain: theolympian.com
+    quality: 55
+  - title: "Biden: Another attack likely, pledges more strikes on IS"
+    excerpt: "President Joe Biden is warning that it’s “highly likely” an Islamic State affiliate will try another attack in Afghanistan."
+    publishedDateTime: 2021-08-29T23:14:00Z
+    webUrl: "https://www.kentucky.com/news/politics-government/national-politics/article253826773.html"
+    ampWebUrl: "https://amp.kentucky.com/news/politics-government/national-politics/article253826773.html"
+    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/politics-government/national-politics/article253826773.html"
+    type: article
+    provider:
+      name: Lexington Herald Leader
+      domain: kentucky.com
+    quality: 55
 
 secured: "SY23TO5MAG0y+nPB+SE4iUL4wxNXfSW9UHvCqB2GJM5SbfL8QSGOD963xcRIlYZU3hg9YrKWBd8zUMI8c/Bp7HikvZlipraspNHtLSDuyqJzVwZ+NhhSDPZd1Yya4evbWxdSt/mep58p7QxJYIpjgCudN5FAsBlDqGGJoHcN7gvvmHOZlfD/+qh8gMKiwp+8lQ1sJ5mBxvSskIYtIOKOyEeOTcjyXTM4dYg7y0yAFnW+47Dy8YuxkgWdQ3Vpw/0Bz1GRIgQVfo1PHXyf4l1S/c68KiJSrVamZecCuSoiZZ7MBscpNFPbuyblbtm9P+wJkPJUUSGhV9RV5vkyeShsqJ0ByA9BT6O87WlqgRarjvvk+Ch5yNfyxJeUiOjYbp/ie/uAOk8VBdsRMJEGVq4j2fcxUobFqMqXULiEyvK3Dw5/Wnd0GUtFm3y5W0uQf2S/132K5ajUDm8NxfRlpmI99dHYp6B5vClzfV/cpRjvcoZhJ55xKo1mzBEXU7N+HThhZigJDgPvm7STL4H/mRzdzw==;ObDzEzDBLEbhTLSrGaR18Q=="
 ---

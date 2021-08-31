@@ -436,6 +436,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Biden Administration Takes Step to Resume Drilling Auctions in Setback to Climate Agenda"
+    excerpt: "Biden had paused drilling auctions after taking office in January pending an analysis of their impacts on the environment and value to taxpayers. In June, however, a federal judge"
+    publishedDateTime: 2021-08-31T17:33:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-08-31/biden-administration-takes-steps-to-resume-onshore-drilling-auctions"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 26
 
 secured: "oQKce8zKQ6jXdF1gToA57WrTfCEKnpsiQo9Dryn3Mj3z43vxg/DoqFx3PqQYkTFquUBqsuZuEQIlN4IlYxKRaiaf8gp/DpUvt8cjdiH1erBA7JJvs+51M2xBlTpMlNzoiHKZkm/XM5U/GnHVZhf5peftLUHBelCeeXk/sLIKoRyjbhhaOql1a+XDWGbuerOBPgax1YR/OetJmQVxAsSWeafAUh5wUPVgus84Zgldd1BiGGS/IYxHBggUK3sJIA6bUSLL6MB3ABCr7vJ4i8e2ytTNhcTxi3xUHUkk+YUB5+k+awo18NB9XwZ+jJiGhHIxQNk0LQx917dRohcj6ykT0wBVD9keAVO8qnf9L0IQrqC338R6SQ5b/4ED/DgOw7iBu0AHbVnZrYySDiqoYx7zXxMnbcrD24w3pYw+oeu6NTcbvhFLFsvNmmVxeyre58TWwoM3l3M73XRoPR1dEnf7Jy54b3Rzqld0TEuLiw1NBJYZVf0Nmbz2HWYRwh7cUFddwB4kYmed8c97fm/kqGApaQ==;hywWl0D04UQYQpw5W6cbSA=="
 ---

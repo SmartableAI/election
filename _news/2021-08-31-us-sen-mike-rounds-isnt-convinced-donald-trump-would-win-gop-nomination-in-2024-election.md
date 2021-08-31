@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.argusleader.com/amp/5653852001"
 cdnAmpWebUrl: "https://amp-argusleader-com.cdn.ampproject.org/c/s/amp.argusleader.com/amp/5653852001"
 type: article
 quality: 80
-heat: 140
-published: true
+heat: -1
+published: false
 
 provider:
   name: Argus Leader
@@ -27,49 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. House seeks communications between Trump White House, Michigan Republicans"
-    excerpt: "The request from the U.S. House could shine new light on Trump's efforts to challenge the results in Michigan and ho GOP leaders responded."
-    publishedDateTime: 2021-08-27T14:59:00Z
-    webUrl: "https://www.detroitnews.com/story/news/politics/2021/08/27/u-s-house-probes-trump-officials-exchanges-michigan-republicans/5615642001/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/5615642001"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5615642001"
+  - title: "Former President Donald Trump says he will return to Iowa, adding grist to 2024 speculation"
+    excerpt: "Trump's announcement on the show comes as other potential Republican presidential contenders are already making trips to Iowa."
+    publishedDateTime: 2021-08-31T17:05:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/08/31/donald-trump-says-he-will-rally-iowa-stoking-2024-speculation/5666433001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5666433001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5666433001"
     type: article
     provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 71
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/20/PDTN/8140bfd9-923a-4361-ba55-472e22f7b483-RTX8AUU7.JPG?auto=webp&crop=2529,1423,x0,y122&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/01/PDEM/63d5811d-248f-4d1b-a046-a644d1ea0203-AP20306724939532.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "LZ Granderson: The election is over. In Arizona, the Trump campaign continues"
-    excerpt: "I would like to share with you a brief conversation about politics that I didn't want to have. But the man in the Arizona bar sitting a couple of stools"
-    publishedDateTime: 2021-08-26T08:00:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/lz-granderson-the-election-is-over-in-arizona-the-trump-campaign-continues/article_cdb3fb76-1ebe-5f91-a594-75a4f2ef043f.html"
+  - title: "Editorial: In a sign of the times, extremists appear to be turning against Trump"
+    excerpt: "Former President Donald Trump appears to have created a monster he can no longer control. He inspired violent rebellion, and now the rebels are turning against him. He inspired pandemic"
+    publishedDateTime: 2021-08-30T09:30:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/editorial-in-a-sign-of-the-times-extremists-appear-to-be-turning-against-trump/article_515c0a51-f500-5bb1-ad93-413eee00518e.html"
     type: article
     provider:
       name: Bozeman Daily Chronicle
       domain: bozemandailychronicle.com
-    quality: 67
+    quality: 50
     images:
       - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Bernie Sanders sets out to sell big government in Trump country"
-    excerpt: "He's specifically targeting two congressional districts where Trump's vote totals increased between 2016 and 2020."
-    publishedDateTime: 2021-08-27T10:03:00Z
-    webUrl: "https://bangordailynews.com/2021/08/27/national-politics/bernie-sanders-sets-out-to-sell-big-government-in-trump-country/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 55
-    images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/Sanders-in-Trump-Country.jpg"
-        width: 1024
-        height: 682
         isCached: true
 
 secured: "DH0QIRDNDrt4egTcv2yDyzfEtE59LbkOa4xPi9iKDQEHpXz24pi2GME5Tsp9I77QxS5IyWCmWtN3L4KRMiPjtCeY4m0reaFE7o5m5WFbDH6TemCV9mVcxOuha1NWS9Paro+/28ACQQJl2szoJTpDnog58LcoRbbRxrSYFCGeXIqKtffT+16vqNnrMoRJY5wV1tuh/geXMiYq/8KqRRrFO1Hv1k3cu6B6DDIyDY0UT7M5+7TxwbJW6UXdtzvVX2Pw2EiqGj87hvMeu5TDmxH5nKcs0XS3ZO0xmTcUY1dl0lChS6fz52pdrd30n1zCwDuV6vpJ5QWSviYNjn2taJa/vHe8hSnaS6qYcmGV+gVx91Y=;0ntHC1gyV0mqPkTIcrMYlA=="

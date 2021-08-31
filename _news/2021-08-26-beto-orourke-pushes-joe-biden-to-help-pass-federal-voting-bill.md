@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Beto-O-Rourke-pu
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Beto-O-Rourke-pushes-Joe-Biden-to-help-pass-16411342.php"
 type: article
 quality: 125
-heat: 685
+heat: 705
 published: true
 
 provider:
@@ -436,6 +436,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Biden Administration Takes Step to Resume Drilling Auctions in Setback to Climate Agenda"
+    excerpt: "Biden had paused drilling auctions after taking office in January pending an analysis of their impacts on the environment and value to taxpayers. In June, however, a federal judge"
+    publishedDateTime: 2021-08-31T17:33:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-08-31/biden-administration-takes-steps-to-resume-onshore-drilling-auctions"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 26
 
 secured: "N4C7qPQa6BDiFOtuUPTAY5s241mEBEaGX22H2GufwS+OHMVcNOzetTbFvu/RIkmvnkfD4AVy+t2ZuH5HKR8AV5FP3sTcHb1GfHigMeQ0WYZPhaaEY/CIGzLfb54yDFBaZfUfSubyyEahL5t6pvGxlQ5yW/crcsqmzODxJz3v1cyNhA2Xki1YIZUROC4j1N9hjtZJgm4AlOSUdBH6XvM3EEWT+fy5oxQza+IYdwyDX7N8Q2k1vLJ24oiMIiKg5Aw7XawmV0/y9QzyyVxnJhwQ0afrO+R0NoH9N16ZxehpKwhcw+zZqklzpBz5qfWWd5rbi2x6NlRGZDNallgJKGSZM9gjC+MH0NFxymhq7R9pcRyirHN0N/39yId8gxueCiRJao6OIgoSPNDAz6o/Rhfpd78kBEwARJn1powGZb5y+T7p7DnXnHyZzaruRGHLCSqgc71YRLAejhigf8dr7bHtlBKsUDYPbWoU4JzmBjAZOM+B3b6KjcZFq6K2nRjN/HLRcrtRWKjufoZpSpMYuemfjw==;fLemuXfm4tEE1t0/HNx9fQ=="
 ---

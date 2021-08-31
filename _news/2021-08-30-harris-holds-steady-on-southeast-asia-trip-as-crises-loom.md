@@ -249,6 +249,17 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Fact Check-Photo of Kamala Harris with Jeffrey Epstein is digitally altered"
+    excerpt: "Social media users have shared an image alleging it shows U.S. Vice President Kamala Harris with late disgraced financier Jeffrey Epstein. The image is not authentic and has been digitally altered to include Epstein."
+    publishedDateTime: 2021-08-30T19:53:00Z
+    webUrl: "https://www.reuters.com/article/factcheck-photo-harris-and-epstein/fact-check-photo-of-kamala-harris-with-jeffrey-epstein-is-digitally-altered-idUSL1N2Q1292"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2Q1292"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2Q1292"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
   - title: "Kamala Harris says U.S. focus on Afghan evacuations, pledges open South China Sea"
     excerpt: "U.S. Vice President Kamala Harris said on Monday during a visit to Singapore that the United States was focusing on evacuation efforts taking place in Afghanistan and that there would be plenty of time to analyse the context of the troop withdrawal."
     publishedDateTime: 2021-08-23T09:38:00Z

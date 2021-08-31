@@ -43,6 +43,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Most white regular churchgoers voted for Trump in 2020, religious nones backed Biden: study"
+    excerpt: "A majority of white Americans, particularly evangelicals, who attend worship services regularly voted for former President Donald Trump in 2020, while President Joe Biden was the overwhelming favorite among religiously unaffiliated voters,"
+    publishedDateTime: 2021-08-31T16:05:00Z
+    webUrl: "https://www.christianpost.com/news/most-white-regular-churchgoers-voted-for-trump-study.html"
+    ampWebUrl: "https://www.christianpost.com/amp/most-white-regular-churchgoers-voted-for-trump-study.html"
+    cdnAmpWebUrl: "https://www-christianpost-com.cdn.ampproject.org/c/s/www.christianpost.com/amp/most-white-regular-churchgoers-voted-for-trump-study.html"
+    type: article
+    provider:
+      name: The Christian Post
+      domain: christianpost.com
+    quality: 80
+    images:
+      - url: "https://cdn.christianpost.com/files/cache/image/14/16/141698_w_450_239.jpg"
+        width: 450
+        height: 238
+        isCached: true
   - title: "‘The Rundown’: Utahns view Cox, Romney, and Lee more favorably than Biden and Trump"
     excerpt: "A new poll shows Utahns view Gov. Spencer Cox much more favorably than Sens. Mitt Romney and Mike Lee. He also gets higher favorability ratings than President Joe Biden and former President Donald Trump."
     publishedDateTime: 2021-08-27T12:46:00Z

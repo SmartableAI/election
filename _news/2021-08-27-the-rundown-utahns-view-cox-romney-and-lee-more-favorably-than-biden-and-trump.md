@@ -41,6 +41,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Most white regular churchgoers voted for Trump in 2020, religious nones backed Biden: study"
+    excerpt: "A majority of white Americans, particularly evangelicals, who attend worship services regularly voted for former President Donald Trump in 2020, while President Joe Biden was the overwhelming favorite among religiously unaffiliated voters,"
+    publishedDateTime: 2021-08-31T16:05:00Z
+    webUrl: "https://www.christianpost.com/news/most-white-regular-churchgoers-voted-for-trump-study.html"
+    ampWebUrl: "https://www.christianpost.com/amp/most-white-regular-churchgoers-voted-for-trump-study.html"
+    cdnAmpWebUrl: "https://www-christianpost-com.cdn.ampproject.org/c/s/www.christianpost.com/amp/most-white-regular-churchgoers-voted-for-trump-study.html"
+    type: article
+    provider:
+      name: The Christian Post
+      domain: christianpost.com
+    quality: 80
+    images:
+      - url: "https://cdn.christianpost.com/files/cache/image/14/16/141698_w_450_239.jpg"
+        width: 450
+        height: 238
+        isCached: true
   - title: "Barack Obama Mocking Joe Biden After ‘Flaunting’ Pandemic Rules For Party?"
     excerpt: "Is Barack Obama sending a message that he and President Joe Biden are no longer friends? One tabloid cover story insists Biden has declared the former"
     publishedDateTime: 2021-08-25T13:00:00Z

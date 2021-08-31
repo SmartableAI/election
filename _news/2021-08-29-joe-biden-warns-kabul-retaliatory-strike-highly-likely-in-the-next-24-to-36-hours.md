@@ -123,22 +123,6 @@ related:
         width: 5191
         height: 3464
         isCached: true
-  - title: "Joe Biden Pledges More Strikes On ISIS Amid Threats Of Another Attack On Kabul Airport"
-    excerpt: "President Joe Biden, who decided to hit back at ISIS over the Kabul airport bombings said that the US airstrikes against the extremist group will continue."
-    publishedDateTime: 2021-08-29T03:54:00Z
-    webUrl: "https://www.republicworld.com/world-news/us-news/joe-biden-pledges-more-strikes-on-isis-amid-threats-of-another-attack-on-kabul-airport.html"
-    ampWebUrl: "https://www.republicworld.com/amp/world-news/us-news/joe-biden-pledges-more-strikes-on-isis-amid-threats-of-another-attack-on-kabul-airport.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/world-news/us-news/joe-biden-pledges-more-strikes-on-isis-amid-threats-of-another-attack-on-kabul-airport.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 67
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/2x4aoo80nkmm0zvb_1630205335.jpeg"
-        width: 768
-        height: 439
-        isCached: true
   - title: "Joe And Jill Biden Meet With Family Members Of Servicemen Killed In Kabul Terror Attack"
     excerpt: "President Joe Biden on Sunday appeared at Dover Air Force Base in Delaware to participate in the \"dignified transfer\" of the 13 service members killed in the recent Kabul airport terrorist attacks. First lady Jill Biden,"
     publishedDateTime: 2021-08-29T20:22:00Z
@@ -237,28 +221,6 @@ related:
         width: 1707
         height: 960
         isCached: true
-  - title: "Biden: Another attack likely, pledges more strikes on IS"
-    excerpt: "President Joe Biden is warning that it’s “highly likely” an Islamic State affiliate will try another attack in Afghanistan."
-    publishedDateTime: 2021-08-29T03:07:00Z
-    webUrl: "https://www.theolympian.com/news/politics-government/national-politics/article253826773.html"
-    ampWebUrl: "https://amp.theolympian.com/news/politics-government/national-politics/article253826773.html"
-    cdnAmpWebUrl: "https://amp-theolympian-com.cdn.ampproject.org/c/s/amp.theolympian.com/news/politics-government/national-politics/article253826773.html"
-    type: article
-    provider:
-      name: The Olympian
-      domain: theolympian.com
-    quality: 55
-  - title: "Biden: Another attack likely, pledges more strikes on IS"
-    excerpt: "President Joe Biden is warning that it’s “highly likely” an Islamic State affiliate will try another attack in Afghanistan."
-    publishedDateTime: 2021-08-29T23:14:00Z
-    webUrl: "https://www.kentucky.com/news/politics-government/national-politics/article253826773.html"
-    ampWebUrl: "https://amp.kentucky.com/news/politics-government/national-politics/article253826773.html"
-    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/politics-government/national-politics/article253826773.html"
-    type: article
-    provider:
-      name: Lexington Herald Leader
-      domain: kentucky.com
-    quality: 55
   - title: "Greg Steube calls for Joe Biden resignation after reported Marine deaths"
     excerpt: "Greg Steube called for President Joe Biden’s resignation after the reported death of four Marines in Kabul. “Horrific,” Steube tweeted. “Joe Biden needs to take"
     publishedDateTime: 2021-08-26T18:13:00Z

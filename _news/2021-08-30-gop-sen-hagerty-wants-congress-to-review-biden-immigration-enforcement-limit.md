@@ -45,6 +45,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "20 states sue Biden admin over guidance allowing biological males on girls’ sports teams"
+    excerpt: "Twenty states have filed a lawsuit against the Biden administration in an attempt to halt directives that extend federal sex discrimination protections to transgender people."
+    publishedDateTime: 2021-08-31T16:49:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cTAwnprt4WU/20-states-sue-biden-admin-biological-males-girls-sports-teams"
+    ampWebUrl: "https://www.foxnews.com/politics/20-states-sue-biden-admin-biological-males-girls-sports-teams.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/20-states-sue-biden-admin-biological-males-girls-sports-teams.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17d03a4d-b676-45f8-a470-769625091d70/1492c709-10eb-419f-8345-d50968bbe61c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "TsL+24xWeJmqZbdzSTfhrfN1+BSPxP/Nw0xXI/HmLc0x+F+FTE4GewsfSXt2r8LTWkf5Z7R+5bBkjKfnwZLioMwfXFh6xjRwEc7Euqv/IqviFBW9XkTuKXKerUjNxwSbqSzlE1r1cn25USIZR1EW8QUaEMSfxF0VaUoeFfdS9Blvy2rwz8+7XjeFJSuTYkzjbXrssIxevC1xTv9v6TtwvZZYNWi2cyo+61+rJSqHZ3BdS8UA80hiU1J2JgsSFJeXVQ43dAbpebRMv6eTTd9AgXxktcX/DH518soGRmp1opb9sXkTvu9gdyrGAE6Tg2ut9GTzwQf6IeHT6nazYHdD7zbgEBD+ndyJNbhUePVyBN0=;joKN2KH2mC9G6Wz27fnD0Q=="
 ---

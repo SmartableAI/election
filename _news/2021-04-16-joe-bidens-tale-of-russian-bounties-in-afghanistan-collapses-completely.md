@@ -1061,6 +1061,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "President Biden to Address Nation on Ending in Afghanistan"
+    excerpt: "President Joe Biden is planning to address the nation about Afghanistan as he faces tough questions about his decision to withdraw the final U.S. troops there, ending the longest war in America’s hist"
+    publishedDateTime: 2021-08-31T17:40:00Z
+    webUrl: "https://www.nbcnewyork.com/news/politics/president-biden-to-address-nation-on-ending-in-afghanistan/3249470/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/politics/president-biden-to-address-nation-on-ending-in-afghanistan/3249470/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/president-biden-to-address-nation-on-ending-in-afghanistan/3249470/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 75
+    images:
+      - url: "https://media.nbcnewyork.com/2021/08/106928921-1629199692701-gettyimages-1234720069-BIDEN_AFGHANISTAN.jpeg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Joe Biden gifting Afghanistan to the Taliban is a crime against humanity"
     excerpt: "IN 20 days, it will be exactly 20 years since someone phoned you and said, “Turn on your television now.” Twenty years since those planes came out of a clear blue sky and ploughed into the Twin"
     publishedDateTime: 2021-08-22T01:02:00Z
