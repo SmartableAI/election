@@ -287,6 +287,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden repeatedly misled American public about Afghanistan withdrawal"
+    excerpt: "The president has made multiple misleading statements about the U.S.’ deadly withdrawal from Afghanistan that saw 13 service members killed in a suicide bombing last week."
+    publishedDateTime: 2021-08-31T18:19:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/l5dCswTBk1E/biden-repeatedly-misled-americans-afghanistan-withdrawal"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-repeatedly-misled-americans-afghanistan-withdrawal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-repeatedly-misled-americans-afghanistan-withdrawal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c926e9e-f14d-4e43-b16d-ff60f2515e3b/0af369b7-004d-46c8-a58a-3710fb91f10e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "North Carolina billboard skewers Biden for botched Afghanistan withdrawal"
     excerpt: "A billboard in Wilmington, North Carolina, skewered Biden for his botched withdrawal from Afghanistan that saw the Taliban take over the country and stranded thousands of Americans."
     publishedDateTime: 2021-08-18T14:57:33Z
@@ -462,6 +478,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "House Republicans call for Afghanistan accountability and demand Biden resign"
+    excerpt: "House Republicans pledged to hold the Biden administration accountable for the disastrous Afghanistan withdrawal as the Freedom Caucus formally demands President Biden resign."
+    publishedDateTime: 2021-08-31T19:51:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6mUSIRtuIWA/house-republicans-afghanistan-accountability-biden-resignation"
+    ampWebUrl: "https://www.foxnews.com/politics/house-republicans-afghanistan-accountability-biden-resignation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-republicans-afghanistan-accountability-biden-resignation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a609794d-9da0-464a-9901-c2f494587096/d61e2434-782c-42ad-bfa5-9ccdd3401074/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Biden hasn't spoken to any foreign leaders since fall of Afghanistan to Taliban"
     excerpt: "National Security Adviser Jake Sullivan said Tuesday that President Biden has not spoken with any other world leaders this week since Afghanistan fell to the Taliban, as the president remains at Camp David amid frantic efforts to evacuate Americans and U.S. allies from the country."
@@ -1375,6 +1407,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Defiant Biden takes 'responsibility' for decision to withdraw troops from Afghanistan, touts mission success"
+    excerpt: "President Biden, in a defiant address to the nation following the withdrawal of U.S. troops from Afghanistan, said Tuesday that he takes “responsibility” for the decision, while touting the successful evacuation of more than 120,000 individuals from the country after the Taliban takeover."
+    publishedDateTime: 2021-08-31T19:57:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bx28OQxcAp8/biden-takes-responsibility-for-decision-to-withdraw-troops-from-afghanistan-touts-evacuation-of-120k"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-takes-responsibility-for-decision-to-withdraw-troops-from-afghanistan-touts-evacuation-of-120k.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-takes-responsibility-for-decision-to-withdraw-troops-from-afghanistan-touts-evacuation-of-120k.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Republicans demand resignations over Biden's Afghanistan debacle"
     excerpt: "A handful of Republican congressmen are calling for heads to roll in the administration for the botched handling of the troop withdrawal from Afghanistan."
     publishedDateTime: 2021-08-17T21:19:44Z
@@ -1496,6 +1544,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/kamala-cackle.jpg?quality=90&strip=all&w=1024"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Trump slams Biden for leaving US military equipment to Taliban"
+    excerpt: "The president has drawn fierce criticism for the chaotic withdrawal that — contrary to his public commitments — left behind US citizens who were seeking to leave."
+    publishedDateTime: 2021-08-31T18:10:00Z
+    webUrl: "https://nypost.com/2021/08/31/trump-slams-biden-for-leaving-us-military-equipment-to-taliban/"
+    ampWebUrl: "https://nypost.com/2021/08/31/trump-slams-biden-for-leaving-us-military-equipment-to-taliban/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/31/trump-slams-biden-for-leaving-us-military-equipment-to-taliban/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-bagram-afghan-hp.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Trump slams Biden for Afghanistan withdrawal during Alabama rally appearance"
     excerpt: "Former President Donald Trump criticized President Joe Biden’s ‘total surrender’ for the United States withdrawal from the Taliban-controlled Afghanistan."
@@ -1791,6 +1855,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Afghan interpreter who saved Biden in Afghanistan is now stranded there"
+    excerpt: "An Afghan interpreter who helped in the 2008 rescue of Joe Biden and two other senators from a valley in Afghanistan was among the thousands left behind."
+    publishedDateTime: 2021-08-31T19:47:00Z
+    webUrl: "https://nypost.com/2021/08/31/interpreter-who-saved-biden-in-afghanistan-now-stranded-there/"
+    ampWebUrl: "https://nypost.com/2021/08/31/interpreter-who-saved-biden-in-afghanistan-now-stranded-there/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/31/interpreter-who-saved-biden-in-afghanistan-now-stranded-there/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/senators-afghanistan-001.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Kamala Harris tanking in poll as she goes to ground on Afghan withdrawal"
     excerpt: "Americans have further soured on Vice President Kamala Harris as she continues her radio silence on the withdrawal of US forces from Afghanistan, a new poll indicates."
     publishedDateTime: 2021-08-20T01:09:00Z
@@ -1870,6 +1950,22 @@ related:
       - url: "https://images.wsj.net/im-388795/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Biden claims Afghanistan withdrawal ‘extraordinary success’ in address to nation"
+    excerpt: "Biden, who has drawn fierce criticism for the botched withdrawal, is set to address the situation at 1:30 pm today."
+    publishedDateTime: 2021-08-31T19:41:00Z
+    webUrl: "https://nypost.com/2021/08/31/biden-to-address-end-of-afghan-war/"
+    ampWebUrl: "https://nypost.com/2021/08/31/biden-to-address-end-of-afghan-war/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/31/biden-to-address-end-of-afghan-war/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 130
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/biden-evacuation.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
   - title: "'Ingraham Angle' on holding Biden officials accountable for crisis in Afghanistan"
     excerpt: "Guests: Tom Cotton, Elliot Ackerman, Glenn Greenwald, Jonathan Turley, Raymond Arroyo, Jay Bhattacharya, Harvey Risch"

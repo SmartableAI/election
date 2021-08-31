@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 776
         isCached: true
+  - title: "John Rutherford calls for Joe Biden’s resignation"
+    excerpt: "A Republican Congressman from Northeast Florida is calling for President Joe Biden to resign from office. U.S. Rep. John Rutherford, who represents Florida’s 4th Congressional District, blasted Biden in the wake of the Afghanistan withdrawal."
+    publishedDateTime: 2021-08-31T18:12:00Z
+    webUrl: "https://floridapolitics.com/archives/454342-john-rutherford-calls-for-joe-bidens-resignation/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2020/09/John-Rutherford-4.png"
+        width: 1600
+        height: 1000
+        isCached: true
   - title: "Ashley Moody demands border control assurance from Joe Biden administration"
     excerpt: "The letter, per a release from Moody’s office, seeks “to ensure the Biden administration will faithfully defend a long-standing federal immigration statute that prohibits illegal re-entry to the U.S."
     publishedDateTime: 2021-08-27T17:08:00Z

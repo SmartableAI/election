@@ -1575,6 +1575,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "President Biden Speaks on Afghanistan in Washington"
+    excerpt: "U.S. President Joe Biden speaks at the White House in Washington, DC on Tuesday, August 31, 2021. The departure of the last U.S. military plane from Afghanistan left the region facing uncertainty, with the Taliban seeking to cement control of a nation shattered by two decades of war and an economy long dependent on foreign aid and opium sales."
+    publishedDateTime: 2021-08-31T19:52:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/65266a2d3617aa290690e24631d0b22f/President-Biden-Speaks-on-Afghanistan-in-Washington/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/65266a2d3617aa290690e24631d0b22f/BIDEN-AFGHANISTAN.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Biden will face pressure from G7 to extend Afghanistan withdrawal deadline"
     excerpt: "By Kevin Liptak and Barbara Starr, CNN Leaders from the top foreign allies of the United States are planning to press President Joe Biden to extend the deadline for US troops to withdraw from Afghanistan during a Tuesday morning meeting,"
     publishedDateTime: 2021-08-24T03:38:00Z
@@ -1734,6 +1748,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 33
+  - title: "U.S. President Biden Calls Evacuation From Afghanistan an Extraordinary Success"
+    excerpt: "President Joe Biden on Tuesday called the evacuation from Afghanistan an extraordinary success in his first public remarks since the United States withdrew its military from the country on Monday, ending a 20-year war."
+    publishedDateTime: 2021-08-31T19:40:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-08-31/us-president-biden-calls-evacuation-from-afghanistan-an-extraordinary-success"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 31
   - title: "U.S. Adviser Sullivan Says Has Not Heard Biden Discuss Any Firings Over Afghanistan"
     excerpt: "U.S. President Joe Biden's national security adviser on Monday said he had not heard the president discuss any plans to fire, reassign or ask for the resignation of any White House or U.S. officials over the situation in Afghanistan."
     publishedDateTime: 2021-08-23T19:38:00Z

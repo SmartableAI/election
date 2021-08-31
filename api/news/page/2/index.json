@@ -2,6 +2,54 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-30-naomi-biden-seen-in-chic-dress-at-friends-wedding-in-italy.md",
+      "title": "Naomi Biden seen in chic dress at friend’s wedding in Italy",
+      "excerpt": "Naomi Biden was seen partying in style and luxury with her boyfriend at her side during a friend’s wedding in Como, Italy.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/08/29/naomi-biden-seen-in-chic-dress-at-friends-wedding-in-italy/",
+      "originalUrl": "https://nypost.com/2021/08/29/naomi-biden-seen-in-chic-dress-at-friends-wedding-in-italy/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/BIDEN-NAOMI.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/08/29/naomi-biden-seen-in-chic-dress-at-friends-wedding-in-italy/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/29/naomi-biden-seen-in-chic-dress-at-friends-wedding-in-italy/amp/",
+      "publishedDateTime": "2021-08-29T18:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-30-house-panel-tees-up-trump-executive-privilege-fight-in-jan-6-probe.md",
       "title": "House panel tees up Trump executive privilege fight in Jan. 6 probe",
       "excerpt": "The House committee seeking executive branch documents in its investigation of the Jan. 6 attack is likely to force a standoff between Congress and former President Trump Donald Trump Pollsters confront tough survey landscape after 2020 flubs The Memo: Will DeSantis's star fall as Florida COVID numbers rise?",
@@ -1213,62 +1261,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-house-republicans-point-fingers-at-biden-moments-after-kabul-blasts.md",
-      "title": "House Republicans point fingers at Biden moments after Kabul blasts",
-      "excerpt": "Republicans in Congress quickly escalated their criticism of President Joe Biden's withdrawal of US troops from Afghanistan after two explosions outside Kabul's airport on Thursday caused the first American casualties since the mass evacuation began.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Oo6vJCiFD0c/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Oo6vJCiFD0c/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 375,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210826094704-01-kabul-airport-210626-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/26/politics/republicans-kabul-biden/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/26/politics/republicans-kabul-biden/index.html",
-      "publishedDateTime": "2021-08-26T10:04:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/25/politics/judge-sanctions-powell-w
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/25/politics/judge-sanctions-powell-wood-kraken-lawsuits/index.html"
 type: article
 quality: 185
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -53,6 +53,22 @@ related:
     webUrl: "https://www.nytimes.com/2021/08/30/climate/federal-judge-trump-water-pollution.html"
     ampWebUrl: "https://www.nytimes.com/2021/08/30/climate/federal-judge-trump-water-pollution.amp.html"
     cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/30/climate/federal-judge-trump-water-pollution.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/04/nyregion/29nywetlands-print/00nywetlands1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Federal Judge Strikes Down Trump Rule Governing Water Pollution"
+    excerpt: "The rule allowed fertilizers, pesticides and industrial chemicals to flow into small streams, marshes and wetlands. The judge warned of environmental harm."
+    publishedDateTime: 2021-08-31T17:44:00Z
+    webUrl: "https://www.nytimes.com/2021/08/31/climate/federal-judge-trump-water-pollution.html"
+    ampWebUrl: "https://www.nytimes.com/2021/08/31/climate/federal-judge-trump-water-pollution.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/31/climate/federal-judge-trump-water-pollution.amp.html"
     type: article
     provider:
       name: New York Times

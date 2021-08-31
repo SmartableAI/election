@@ -55,6 +55,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "John Rutherford calls for Joe Biden’s resignation"
+    excerpt: "A Republican Congressman from Northeast Florida is calling for President Joe Biden to resign from office. U.S. Rep. John Rutherford, who represents Florida’s 4th Congressional District, blasted Biden in the wake of the Afghanistan withdrawal."
+    publishedDateTime: 2021-08-31T18:12:00Z
+    webUrl: "https://floridapolitics.com/archives/454342-john-rutherford-calls-for-joe-bidens-resignation/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2020/09/John-Rutherford-4.png"
+        width: 1600
+        height: 1000
+        isCached: true
 
 secured: "hD27v5Yq7WE2spNI3f4s3LPMtKTF7K/y+zv5aTU/luDRW7znBaW+zU+WCNiZtpz4DIwlpn2b1dJ9C+/5+H4v0sRZmiRF+7Ggg6GL8ll2J7j6iekwPR12FKsOILLgo8VwULLcXf+TzQMcZgtwLegqkhiDGwFXGxmQJGuLV7uSlvbl/zk5lDI7tMMvpWukNpGztaN5p7LibLLTQai72BlrKh2Nk52xn7OqtcNZwInFAIUlO1WuPFp6tEqhv56S1QAgx/efwNuJYmTDqs8ZQzV8OTnu1v7MLf3AvU6nRyiRWS1Mo41u1NkgEXylBb5zVQAXneCk5jiEU4bucrw9ZaebChS3Ki/Wev1vfVsu77CvL2g=;K5zTrgaAmbIuvoNu+XFA4A=="
 ---

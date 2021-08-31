@@ -64,6 +64,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Federal Judge Strikes Down Trump Rule Governing Water Pollution"
+    excerpt: "The rule allowed fertilizers, pesticides and industrial chemicals to flow into small streams, marshes and wetlands. The judge warned of environmental harm."
+    publishedDateTime: 2021-08-31T17:44:00Z
+    webUrl: "https://www.nytimes.com/2021/08/31/climate/federal-judge-trump-water-pollution.html"
+    ampWebUrl: "https://www.nytimes.com/2021/08/31/climate/federal-judge-trump-water-pollution.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/31/climate/federal-judge-trump-water-pollution.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/04/nyregion/29nywetlands-print/00nywetlands1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "c0sPiAxDtuipiGfm+zK2nXVB2UiKXEjhGgLIVMaChQIAiojq90k6oBwzjwYZbnHrUhzA0cqaWAXjOHGADpTk171DGlE3ZQOOXCB4sm5/jYJgUg6qAoKqElbGMIa0YRswB/AYNyiHDA3LgmJ800ZxhxRsYFXYOpX4y/k00v09EMUg/AtRYAcXmhsyKNchW6Lw14haku/mtw8noEwUnqWQZjRNaBlMpNExDAFuNUNcnt9VZ/pmzWUZlynGV76cKzDIQItRq4CrxrmkJD6ckecKHS3RXTpUGDhmcaHr/9tr3/UoEXZiw/SiE2E6BVuRrxfB4NjWTLbuEbmadpF+7fOlFff9a0ev2k1SsSNX6lsAQIKvVjviWGOZUiM/0xp4lAgFAJcF3cjCZQgu67Mk3ZG4v3oj4hY7XFDjzkRz+USzKypuOCUSEPI5knVmUKObGd6lfGDFsOGOVJ76PqDPtiScxcu+bbRYE6EyjKe4NdwwKyc99CAXel+nFNpu15Z2f04FOtSUSz/Ll81UK/K76XCWtA==;syTodCbA5YduEWkPxFvCqg=="
 ---
