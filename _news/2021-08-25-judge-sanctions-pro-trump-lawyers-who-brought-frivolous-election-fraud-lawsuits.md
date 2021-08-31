@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/25/politics/judge-sanctions-powell-w
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/25/politics/judge-sanctions-powell-wood-kraken-lawsuits/index.html"
 type: article
 quality: 185
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 150
     images:
       - url: "https://static01.nyt.com/images/2021/08/25/lens/25dc-powell-photo/25dc-powell-photo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Federal Judge Strikes Down Trump Rule Governing Water Pollution"
+    excerpt: "The rule allowed fertilizers, pesticides and industrial chemicals to flow into small streams, marshes and wetlands. The judge warned of environmental harm."
+    publishedDateTime: 2021-08-31T01:48:00Z
+    webUrl: "https://www.nytimes.com/2021/08/30/climate/federal-judge-trump-water-pollution.html"
+    ampWebUrl: "https://www.nytimes.com/2021/08/30/climate/federal-judge-trump-water-pollution.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/30/climate/federal-judge-trump-water-pollution.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/04/nyregion/29nywetlands-print/00nywetlands1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

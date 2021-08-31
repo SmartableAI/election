@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Afghan crisis: US President Joe Biden expected to decide evacuation deadline within 24 hours"
+    excerpt: "Biden warned on Sunday that the evacuation was going to be \"hard and painful\" and a lot could still go wrong. US troops might stay beyond Biden's August 31 deadline to oversee the evacuation, he said."
+    publishedDateTime: 2021-08-24T03:47:00Z
+    webUrl: "https://www.cnbctv18.com/world/afghan-crisis-us-president-joe-biden-expected-to-decide-evacuation-deadline-within-24-hours-10471351.htm"
+    ampWebUrl: "https://www.cnbctv18.com/world/afghan-crisis-us-president-joe-biden-expected-to-decide-evacuation-deadline-within-24-hours-10471351.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/world/afghan-crisis-us-president-joe-biden-expected-to-decide-evacuation-deadline-within-24-hours-10471351.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 64
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2021/06/Biden_Uk-1019x573.jpg"
+        width: 1019
+        height: 573
+        isCached: true
   - title: "Rep. Boebert: 'There is Blood on Joe Biden's Hands'"
     excerpt: "In the wake of the bombing at the Kabul airport in Afghanistan that killed at least 12 U.S. Marines and an unconfirmed number of civilians, House Rep. Lauren Boebert (R-Colo.) said President Joe Biden has blood on his hands for failing to competently plan and execute the withdrawal from Afghanistan."
     publishedDateTime: 2021-08-26T17:39:00Z
@@ -72,6 +88,6 @@ related:
         height: 700
         isCached: true
 
-secured: "GIHNotcH4KOCf0td2PmnRsM1YgL1LI46ahW+etyYaNKD7nEud/4evcpkBDOY6ydB1KdWaoAGFqBy7lFTiHIKOrYmSxUolG5WIu+jd28gPWEHoCg2JClzvppmuhzKHoiziOM3CnhMQ2F0hEdrz4tDbrp+n0Hw0SM7LLYpzYQFwL/esJ5p0PYJzENGHPNE0DJj2Wufy9AzpimDBFWMX8DDYPNSln1yp5d/lasXiZus2JT17XzfAyoA/JOlRSwQOreWI4QIVwWqnRHaqWIQP5PdliVu9tCmMyxaiaoeJXd18sDZMvIE0jauhi9GSkDYkZt+QQn0m+QajQJ7JNvrAWKgBdi50UHaQqdPcp7E58RB7N0=;PZZ7P77wWhUo9cCNZdEnfg=="
+secured: "jSIjYobezPKMqNitMp4ViAQ2DqgxKAID95+lUwpauWiFECj300YRx+/BmEcgHP52/N8zeSy8lBc3cmbIta4KvTz6nY96UjLO88QjK+ZmBSB9JEst8EbEsfzS7MGmPItbnW+4+n1Mq89nhmjeN5TPNoy2nENSOPwlrPuBN6bdO/M4HwhMIuQRv3HXO+oaJpr+HQarmftoXFxIAPw62oyt6uY3g5eiIXJdaAv5dVun0EL8BexxpHRcetl3F4hG1mj5t1CjGLYhsJ9X6t5/ry1WFMGlwehOHozJpJAs2J/0mYaEhqQATZNzcKs7UQMxPZ5Pp+KwAn6X/Lnc40ITyhG5bxyz+2ifS8W9atBmDRVbLSowforWvYBfnKJTSj1/yzgzcsBn+V90OBQrPY1PDVB//Wyd9GSlFmTlT7WACeQF3GizEGxAvYjFNTPTpMaqq0ldCahnaKNTIYkY+L0+tDOPII9xwZXU4/qjozPqL2ip1DqI/CiLKA7+JwIwk+O+isHIHSsIadny+ACsx6HA2PoKww==;GvJtu3MtbpblBbOrG0kn5g=="
 ---
 

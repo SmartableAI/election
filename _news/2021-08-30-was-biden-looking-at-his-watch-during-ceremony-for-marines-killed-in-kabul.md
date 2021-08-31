@@ -43,21 +43,21 @@ related:
         width: 1024
         height: 563
         isCached: true
-  - title: "Biden addresses Hurricane Ida as more than 5,000 National Guard troops activated"
-    excerpt: "President Joe Biden met virtually Monday with mayors and governors in areas hit hard by Hurricane Ida to discuss the response and the breadth of the"
-    publishedDateTime: 2021-08-30T21:06:00Z
-    webUrl: "https://www.thecentersquare.com/national/biden-addresses-hurricane-ida-as-more-than-5-000-national-guard-troops-activated/article_0091d86c-09d2-11ec-8096-f31f982b9a0b.html"
-    ampWebUrl: "https://www.thecentersquare.com/national/biden-addresses-hurricane-ida-as-more-than-5-000-national-guard-troops-activated/article_0091d86c-09d2-11ec-8096-f31f982b9a0b.amp.html"
-    cdnAmpWebUrl: "https://www-thecentersquare-com.cdn.ampproject.org/c/s/www.thecentersquare.com/national/biden-addresses-hurricane-ida-as-more-than-5-000-national-guard-troops-activated/article_0091d86c-09d2-11ec-8096-f31f982b9a0b.amp.html"
+  - title: "Ida Updates: Biden says hardest-hit states are resilient"
+    excerpt: "President Joe Biden has spoken with officials in states pounded by Hurricane Ida, detailing the federal effort to survey damage and ensure access to electricity, water and cell phone service. The president said Monday that state officials should contact the White House if they need additional support — even though the effort is being led by FEMA."
+    publishedDateTime: 2021-08-30T23:50:00Z
+    webUrl: "https://www.mysanantonio.com/news/article/The-Latest-New-Orleans-could-be-without-power-16422818.php"
+    ampWebUrl: "https://www.mysanantonio.com/news/amp/The-Latest-New-Orleans-could-be-without-power-16422818.php"
+    cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/The-Latest-New-Orleans-could-be-without-power-16422818.php"
     type: article
     provider:
-      name: The Center Square
-      domain: thecentersquare.com
-    quality: 70
+      name: My San Antonio
+      domain: mysanantonio.com
+    quality: 75
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/b/ed/bedc4aac-09d5-11ec-9a04-0335c5b9ba8a/612d482a2a61a.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Biden to Attend Briefing on Hurricane Ida on Saturday -White House"
     excerpt: "U.S. President Joe Biden will attend a briefing later on Saturday by administration officials on preparations for Hurricane Ida, which is expected to make landfall in the United States this weekend. The briefing is scheduled for 1:30 p."
@@ -85,16 +85,16 @@ related:
         height: 1080
         isCached: true
   - title: "Joe Biden holds virtual meeting on Hurricane Ida in Washington"
-    excerpt: "U.S. President Joe Biden meets virtually with FEMA Administrator Deanne Criswell and governors and mayors from States and cities impacted by Hurricane Ida from South Court Auditorium at the White House in Washington,"
+    excerpt: "U.S. President Joe Biden arrives at virtual meeting with FEMA Administrator Deanne Criswell and governors and mayors from States and cities impacted by Hurricane Ida from South Court Auditorium at the White House in Washington,"
     publishedDateTime: 2021-08-30T18:20:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/afed49e3dfe0422f575a3cdadde2c7ce/Joe-Biden-holds-virtual-meeting-on-Hurricane-Ida-in-Washington/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/7bc60d4b3b428f3368383e499ee493d0/Joe-Biden-holds-virtual-meeting-on-Hurricane-Ida-in-Washington/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/afed49e3dfe0422f575a3cdadde2c7ce/BIDEN-HURRICANE-IDA.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/7bc60d4b3b428f3368383e499ee493d0/BIDEN-HURRICANE-IDA.jpg"
         width: 650
         height: 433
         isCached: true

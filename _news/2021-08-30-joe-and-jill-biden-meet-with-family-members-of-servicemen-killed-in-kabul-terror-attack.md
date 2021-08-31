@@ -63,54 +63,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Afghanistan live updates: Biden says another Kabul airport attack 'highly likely'; Pentagon says strike killed two in ISIS-K"
-    excerpt: "The Pentagon said a Friday airstrike killed two and wounded one ISIS-K planners and facilitators. The mission came a day after a Kabul airport bombing."
-    publishedDateTime: 2021-08-28T23:12:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/08/28/afghanistan-updates-us-drone-strike-isis-k-three-days-deadline/5629189001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5629189001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5629189001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 98
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/08/27/USAT/d5370f8c-b8ef-4884-a26a-5837044ed2c1-AP_Afghanistan_1.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Biden defended using the Taliban for Kabul airport security after the deadly blasts, saying there's no evidence they were involved in the attack"
-    excerpt: "The ISIS-K has claimed responsibility for Thursday's attack at Kabul's airport. The group later criticized the Taliban for working with the US."
-    publishedDateTime: 2021-08-27T09:41:00Z
-    webUrl: "https://www.businessinsider.com/biden-defended-using-taliban-kabul-airport-security-no-link-attack-2021-8"
-    ampWebUrl: "https://www.businessinsider.com/biden-defended-using-taliban-kabul-airport-security-no-link-attack-2021-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-defended-using-taliban-kabul-airport-security-no-link-attack-2021-8?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 88
-    images:
-      - url: "https://i.insider.com/6128a62712b9cc0019631372?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Biden pledges to Americans in Kabul: 'We will get you home'"
-    excerpt: "President Joe Biden is pledging to Americans still trapped in Afghanistan: “We will get you home.” Biden also said Friday the United States is committed to evacuating all Afghans who assisted the war effort — a potentially vast expansion of the administration's commitments on the airlift so far,"
-    publishedDateTime: 2021-08-20T23:57:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/article/US-struggles-to-speed-Kabul-airlift-despite-16399637.php"
-    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/US-struggles-to-speed-Kabul-airlift-despite-16399637.php"
-    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/US-struggles-to-speed-Kabul-airlift-despite-16399637.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 75
-    images:
-      - url: "https://s.hdnux.com/photos/01/21/42/55/21375845/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "The Latest: Biden told another Kabul terror attack 'likely'"
     excerpt: "President Joe Biden’s national security team has told the president that another terror attack is “likely” in Kabul, and that “maximum force protection” measures are being taken at the airport in the Afghan capital."
     publishedDateTime: 2021-08-27T21:47:00Z
@@ -237,47 +189,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Biden pledges to Americans in Kabul: 'We will get you home'"
-    excerpt: "President Joe Biden is pledging to Americans still trapped in Afghanistan: \"We will get you home.\" Biden's comments at a White House news conference Friday come as the U.S. government struggles to ramp up a massive airlift clearing Americans and other foreigners and vulnerable Afghans through the Kabul airport,"
-    publishedDateTime: 2021-08-23T23:32:00Z
-    webUrl: "https://www.nwaonline.com/news/2021/aug/20/biden-address-chaotic-kabul-evacuation-amid-critic/"
-    type: article
-    provider:
-      name: Northwest Arkansas Democrat Gazette
-      domain: nwaonline.com
-    quality: 55
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/img/news/tease/2021/08/20/Screen_Shot_2021-08-20_at_12.01.24_PM_t600.png?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 335
-        isCached: true
-  - title: "Joe Biden FINALLY lets US troops rescue Americans outside Kabul airport after fearing ‘black hawk-style attack’"
-    excerpt: "JOE Biden finally allowed US soldiers to rescue stranded Americans outside Kabul airport as he feared another “Black Hawk Down” tragedy. The president compared the crisis in Afghanistan with the"
-    publishedDateTime: 2021-08-24T09:13:00Z
-    webUrl: "https://www.the-sun.com/news/3529625/joe-biden-troops-rescue-americans-kabul-black-hawk/"
-    ampWebUrl: "https://www.the-sun.com/news/3529625/joe-biden-troops-rescue-americans-kabul-black-hawk/amp/"
-    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3529625/joe-biden-troops-rescue-americans-kabul-black-hawk/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: the-sun.com
-    quality: 55
-    images:
-      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/JG-COMP-AFGHAN-SOMALIA.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Biden holds to Kabul Aug. 31 deadline despite criticism"
-    excerpt: "U.S. President Joe Biden says he will stick with his Aug. 31 deadline for finishing a U.S.-led evacuation of Americans, at-risk Afghans and others."
-    publishedDateTime: 2021-08-24T23:57:00Z
-    webUrl: "https://www.kentucky.com/news/nation-world/national/article253700868.html"
-    ampWebUrl: "https://amp.kentucky.com/news/nation-world/national/article253700868.html"
-    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/nation-world/national/article253700868.html"
-    type: article
-    provider:
-      name: Lexington Herald Leader
-      domain: kentucky.com
-    quality: 55
   - title: "2 US lawmakers’ Kabul trip prompts Biden administration fury"
     excerpt: "Two members of Congress flew unannounced into Kabul airport in the middle of the ongoing chaotic evacuation, and their visit Tuesday stunned State Department and U.S. military personnel who had to divert resources to provide security and information to the lawmakers."
     publishedDateTime: 2021-08-26T15:35:00Z
@@ -336,6 +247,20 @@ related:
       name: Lexington Herald Leader
       domain: kentucky.com
     quality: 55
+  - title: "Greg Steube calls for Joe Biden resignation after reported Marine deaths"
+    excerpt: "Greg Steube called for President Joe Biden’s resignation after the reported death of four Marines in Kabul. “Horrific,” Steube tweeted. “Joe Biden needs to take"
+    publishedDateTime: 2021-08-26T18:13:00Z
+    webUrl: "https://floridapolitics.com/archives/453349-greg-steube-calls-for-joe-biden-resignation-following-reported-marine-deaths/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 54
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/06/Steube.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Joe Biden promises further US strikes against ISIS-K members responsible for suicide attack outside Kabul airport"
     excerpt: "US President Joe Biden promises further airstrikes against the Islamic State group in Afghanistan after an initial drone attack was launched in retaliation to a deadly bombing outside Kabul airport."
     publishedDateTime: 2021-08-28T20:15:00Z
@@ -351,22 +276,6 @@ related:
       - url: "https://live-production.wcms.abc-cdn.net.au/a12e677b9a5310f9e35e029ff2f4ea5a?impolicy=wcms_crop_resize&cropH=576&cropW=1023&xPos=0&yPos=0&width=862&height=485"
         width: 862
         height: 485
-        isCached: true
-  - title: "Joe Biden FINALLY lets US troops to rescue Americans outside Kabul airport after fearing ‘black hawk-style attack’"
-    excerpt: "JOE Biden finally allowed US soldiers to rescue stranded Americans outside Kabul airport as he feared another “Black Hawk Down” tragedy. The president discussed the attack on a conference call"
-    publishedDateTime: 2021-08-24T09:13:00Z
-    webUrl: "https://www.thesun.co.uk/news/15950663/joe-biden-troops-rescue-americans-kabul-black-hawk/"
-    ampWebUrl: "https://www.thesun.co.uk/news/15950663/joe-biden-troops-rescue-americans-kabul-black-hawk/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/15950663/joe-biden-troops-rescue-americans-kabul-black-hawk/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 53
-    images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2021/08/JG-COMP-AFGHAN-SOMALIA-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Joe Biden warns of more attacks in next 24 hours as 13 soldiers killed in Kabul blast named"
     excerpt: "President Joe Biden has warned that another attack was “highly likely” over the next 24 to 36 hours as the names of the killed US troops were released."

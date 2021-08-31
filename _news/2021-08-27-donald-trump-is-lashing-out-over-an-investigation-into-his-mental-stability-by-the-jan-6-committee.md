@@ -224,6 +224,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Be Glad Donald Trump Isn’t Running the Show in Afghanistan"
+    excerpt: "The former president's recent rhetoric over the U.S. withdraw is a potent reminder of his lack of fitness for command."
+    publishedDateTime: 2021-08-30T10:17:00Z
+    webUrl: "https://newrepublic.com/article/163469/afghanistan-withdrawal-trump-taliban-deal"
+    type: article
+    provider:
+      name: New Republic
+      domain: newrepublic.com
+    quality: 55
+    images:
+      - url: "https://images.newrepublic.com/fbf80955ff9ca43cfe7a6f9a4edf87a9c0da8f1e.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg"
+        width: 1109
+        height: 577
+        isCached: true
   - title: "‘Time to Fight!’: Emails From Jan. 5 Show Secret Service Warned Capitol Police About Threat of Pro-Trump Violence"
     excerpt: "The Secret Service warned Capitol police about the threat of pro-Donald Trump violence in Washington on Jan. 5, one day before the insurrection, according to an email published Wednesday by Politico."
     publishedDateTime: 2021-08-25T12:18:00Z

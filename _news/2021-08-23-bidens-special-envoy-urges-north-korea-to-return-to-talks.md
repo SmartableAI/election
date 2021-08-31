@@ -87,22 +87,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Biden vows to finish Kabul evacuation, avenge US deaths"
-    excerpt: "President Joe Biden is vowing to avenge the deaths of 13 American troops and dozens of Afghans at the Kabul airport, an attack that thrust the White House deeper into crisis over a chaotic and deadly end to a 20-year war."
-    publishedDateTime: 2021-08-27T08:48:00Z
-    webUrl: "https://www.greenwichtime.com/news/article/Biden-vows-to-finish-Kabul-evacuation-avenge-US-16415469.php"
-    ampWebUrl: "https://www.greenwichtime.com/news/amp/Biden-vows-to-finish-Kabul-evacuation-avenge-US-16415469.php"
-    cdnAmpWebUrl: "https://www-greenwichtime-com.cdn.ampproject.org/c/s/www.greenwichtime.com/news/amp/Biden-vows-to-finish-Kabul-evacuation-avenge-US-16415469.php"
-    type: article
-    provider:
-      name: Greenwich Time
-      domain: greenwichtime.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "President Joe Biden vows to finish Kabul evacuation, avenge U.S. deaths"
     excerpt: "The White House hurriedly put off President Joe Biden's first in-person meeting with Israel's new prime minister Thursday and canceled a video conference with governors on incoming Afghan refugees after explosions outside the Kabul airport killed more than a dozen people,"
     publishedDateTime: 2021-08-27T09:15:00Z
@@ -167,6 +151,22 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Sleepy Joe Biden made the entire world a hostage to terror"
+    excerpt: "TWENTY years on from 9/11, it ends the way it began – with multiple acts of terror, cries of the dying and a grim-faced US President vowing vengeance on the men of evil. But the tough talk sounds"
+    publishedDateTime: 2021-08-28T21:42:00Z
+    webUrl: "https://www.the-sun.com/news/3559812/tony-parsons-sleepy-joe-afghanistan/"
+    ampWebUrl: "https://www.the-sun.com/news/3559812/tony-parsons-sleepy-joe-afghanistan/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3559812/tony-parsons-sleepy-joe-afghanistan/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 75
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/TM-comp-TonyParsons.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden vows to finish Kabul evacuation, avenge US deaths"
     excerpt: "President Joe Biden vowed Thursday to complete the evacuation of American citizens and others from Afghanistan despite the day's deadly suicide bomb attack at the Kabul airport. He promised to avenge the deaths of 13 U."
     publishedDateTime: 2021-08-30T02:45:00Z
@@ -198,6 +198,22 @@ related:
       - url: "https://mediacloud.theweek.com/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1630312191/GettyImages-3295829.jpg"
         width: 814
         height: 458
+        isCached: true
+  - title: "Images of Joe Biden’s war will never fade"
+    excerpt: "Befuddled by time, disoriented by a riot of terrible decisions, and confused by the demand for answers, President Joe Biden stood in the East Room of the White House, clutched his binder to his chest,"
+    publishedDateTime: 2021-08-30T23:48:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/aug/30/images-of-joe-bidens-war-will-never-fade/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/30/images-of-joe-bidens-war-will-never-fade/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/30/images-of-joe-bidens-war-will-never-fade/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/08/26/Biden_37683.jpg-e9a80_c0-414-4967-3311_s1200x700.jpg?68ec6885488a9f2d33a5b30c517f2601ca6a8e9f"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Joe Biden’s Crisis Moment Has Arrived"
     excerpt: "With Democrats distancing themselves from the president over his bungled Afghanistan withdrawal, COVID still spreading, and a tropical storm wreaking havoc in Louisiana, is Biden’s messaging getting lost in the chaos?"
@@ -344,20 +360,6 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/8f8abd0c6d217454099f8dbdc3134149/BIDEN-CHURCH.jpg"
         width: 650
         height: 433
-        isCached: true
-  - title: "President Joe Biden Departs Holy Trinity Catholic Church"
-    excerpt: "The view of the White House after President Joe Biden arrives back to the White House from Holy Trinity Catholic Church in the Georgetown neighborhood of Washington, DC on Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover,"
-    publishedDateTime: 2021-08-29T22:47:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/5a62ace3eb872bbda6904e721e80e6ba/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/5a62ace3eb872bbda6904e721e80e6ba/BIDEN-CHURCH.jpg"
-        width: 650
-        height: 434
         isCached: true
   - title: "Joe Biden spoke to the G7 a sum total of 7 minutes. Pure propaganda, photo-op."
     excerpt: "Joe Biden acted like his G7 meeting was a success, but in reality it left every other world leader feeling disappointed in America."

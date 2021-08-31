@@ -27,35 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden Furious With Barack Obama Over Pandemic Birthday Bash?"
-    excerpt: "Are President Joe Biden and former President Barack Obama locked in a bitter feud over Obama's 60th birthday bash? One tabloid insists the prideful"
-    publishedDateTime: 2021-08-18T11:00:00Z
-    webUrl: "https://www.gossipcop.com/joe-biden-furious-with-barack-obama-over-pandemic-birthday-bash/2570136/"
-    ampWebUrl: "https://www.gossipcop.com/joe-biden-furious-with-barack-obama-over-pandemic-birthday-bash/2570136/?amp"
-    cdnAmpWebUrl: "https://www-gossipcop-com.cdn.ampproject.org/c/s/www.gossipcop.com/joe-biden-furious-with-barack-obama-over-pandemic-birthday-bash/2570136/?amp"
+  - title: "Float with Trump towing caged Clintons, Obama, Biden, Sanders crashes Amish parade"
+    excerpt: "Organizers of Yoder Heritage Day and Carriage Crossing restaurant disavow float and claim not to know who was behind it"
+    publishedDateTime: 2021-08-30T21:32:00Z
+    webUrl: "https://www.kansas.com/news/politics-government/article253851843.html"
+    ampWebUrl: "https://amp.kansas.com/news/politics-government/article253851843.html"
+    cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/politics-government/article253851843.html"
     type: article
     provider:
-      name: Gossip Cop
-      domain: gossipcop.com
-    quality: 75
+      name: Wichita Eagle
+      domain: kansas.com
+    quality: 84
     images:
-      - url: "https://upload.gossipcop.com/gc/uploads/2021/08/Untitled-design-71.jpg"
-        width: 1200
-        height: 800
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998037001/b4b4d1de-761b-4a6b-9391-e003e5f44b22/7160e791-51b3-4239-8ab8-fa2030ad6e78/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "This day in history, August 23: Democratic presidential candidate Barack Obama introduces his choice of running mate, Sen. Joe Biden of Delaware"
-    excerpt: "Almanacs are full of lists of global and national historic events. But “This Day in History” feature invites you to not just peruse a list, but to take a trip back in time to see how a significant event originally was reported in the Chicago Tribune."
-    publishedDateTime: 2021-08-23T11:49:00Z
-    webUrl: "https://www.chicagotribune.com/history/ct-aud-today-history-almanac-august-23-20210823-ykkodz6axrhtxpyusfnjwhu6uy-story.html"
+  - title: "‘The Rundown’: Utahns view Cox, Romney, and Lee more favorably than Biden and Trump"
+    excerpt: "A new poll shows Utahns view Gov. Spencer Cox much more favorably than Sens. Mitt Romney and Mike Lee. He also gets higher favorability ratings than President Joe Biden and former President Donald Trump."
+    publishedDateTime: 2021-08-27T12:46:00Z
+    webUrl: "https://www.sltrib.com/news/politics/2021/08/27/rundown-utahns-view-cox/"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 68
+      name: The Salt Lake Tribune
+      domain: sltrib.com
+    quality: 64
     images:
-      - url: "https://www.chicagotribune.com/resizer/TCDhMmgO3FXQtxHtmK8273GU52Q=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7TAJCO4FPBA33LQOEAIAFQ5HRU.jpg"
+      - url: "https://www.sltrib.com/resizer/_ucVGIZZB3DXCpD6jduq_Qgh-bE=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/sltrib/D2NAG4FCOBGG3KKMTB5XT3WKVM.jpg"
         width: 1200
-        height: 992
+        height: 630
         isCached: true
 
 secured: "9NddgBCHQeN0jsI00ro1SLFrPI9n1IeBJVJYGIUAanE/J4tdyf6G6mrSdIBGBRC3pailyBpfxDIhm+2gd7r9BrWnd97QK3BPMBAZNSgwHFReqc1qKOKTn+m8r7pwcc5Cl/H4M1qEEnMZzb1TBYUvtb/Hrjtft9OKroCmTiZshgNR/p6Ye0AGxFZMgUT75pbnGC0UZsBCXknaw4bBnTz3uf+ZZM9LjnIrLErPHyyevD9qvTqsMjZ0y0evhMuonXWuQdoFVGXU6O84ug2HeXn2BiH3U/6iMhF9b+lM7+rBxhVp/e9y4KQ2aAus6UBL/lmyjpwqowmv4fcjEi16FakVz0BStu0uBcwK48JyAMVN+y4=;07BTQi9AYqACcbTXQT8c3Q=="

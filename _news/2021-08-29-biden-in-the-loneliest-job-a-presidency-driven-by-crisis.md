@@ -27,73 +27,89 @@ images:
     isCached: true
 
 related:
-  - title: "Israeli Leader Naftali Bennett to Meet with Joe Biden as Mideast Tensions Grow"
-    excerpt: "The Israeli leader's meeting with President Joe Biden comes amid heightened tensions with regional arch-enemy Iran"
-    publishedDateTime: 2021-08-25T06:57:00Z
-    webUrl: "https://time.com/6092540/naftali-bennett-joe-biden/"
+  - title: "Australia’s Recession Is As Much A Problem For Biden As Sydney"
+    excerpt: "Australia’s sizable and open economy is often the closest thing the U.S. has to an early warning system, and experts are now warning that the country down under is sliding back into recession."
+    publishedDateTime: 2021-08-30T08:40:00Z
+    webUrl: "https://www.forbes.com/sites/williampesek/2021/08/30/australias-recession-is-as-much-a-problem-for-biden-as-sydney/"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 101
+      name: Forbes
+      domain: forbes.com
+    quality: 105
     images:
-      - url: "https://api.time.com/wp-content/uploads/2021/08/AP21236666683066.jpg"
-        width: 6325
-        height: 4217
-        isCached: true
-  - title: "Biden, Israeli prime minister focus on Iran"
-    excerpt: "President Joe Biden told Israeli Prime Minister Naftali Bennett on Friday that diplomacy was his first option, but that he would consider other options if his effort to revive the Iran nuclear deal fails."
-    publishedDateTime: 2021-08-28T09:56:00Z
-    webUrl: "https://www.arkansasonline.com/news/2021/aug/28/biden-israeli-prime-minister-focus-on-iran/?news"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 55
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2021/08/27/2A1Biden0828_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Biden tells Israeli PM he’ll try diplomacy first with Iran"
-    excerpt: "Biden made the comments as the two sat down for their first face-to-face meeting since Bennett was sworn-in as prime minister."
-    publishedDateTime: 2021-08-27T21:34:00Z
-    webUrl: "https://www.courthousenews.com/biden-tells-israeli-pm-hell-try-diplomacy-first-with-iran/"
-    ampWebUrl: "https://www.courthousenews.com/biden-tells-israeli-pm-hell-try-diplomacy-first-with-iran/amp/"
-    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/biden-tells-israeli-pm-hell-try-diplomacy-first-with-iran/amp/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 55
-  - title: "Israel holds its tongue over Joe Biden’s deal with Iran"
-    excerpt: "Israel’s new prime minister has told President Biden he will not publicly oppose the US rejoining a deal with Iran over its nuclear ambitions, reversing a long"
-    publishedDateTime: 2021-08-29T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/israel-holds-its-tongue-over-joe-bidens-deal-with-iran-pplsnkjpx"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 55
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F2a584ea0-08ed-11ec-9503-f24d9e0411ae.jpg?crop=4767%2C2682%2C382%2C184&resize=685"
-        width: 685
-        height: 385
-        isCached: true
-  - title: "Does Video Show Joe Biden Falling Asleep in Meeting with Israeli PM?"
-    excerpt: "after videos went viral of U.S. President Joe Biden purportedly falling asleep during a meeting. Biden was meeting with Israeli Prime Minister Naftali Bennett on Aug. 27, 2021, and soon after numerous outlets claimed that he was nodding off as Bennett was ..."
-    publishedDateTime: 2021-08-30T18:08:00Z
-    webUrl: "https://www.snopes.com/fact-check/biden-asleep-meeting-israeli-pm/"
-    type: article
-    provider:
-      name: Snopes.com
-      domain: snopes.com
-    quality: 55
-    images:
-      - url: "https://www.snopes.com/tachyon/2021/08/sleepy-joe-biden-video-misleading.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612c7e3d4264343d3146dd8c%2F0x0.jpg"
         width: 1200
-        height: 628
+        height: 776
         isCached: true
+  - title: "Joe Biden praises WNBA champs for social justice activism"
+    excerpt: "The visit marked the first time that an NBA or WNBA team has visited the White House since the Cleveland Cavaliers were feted by Barack Obama in 2016."
+    publishedDateTime: 2021-08-24T00:19:00Z
+    webUrl: "https://www.tampabay.com/sports/2021/08/23/joe-biden-praises-wnba-champs-for-social-justice-activism/"
+    ampWebUrl: "https://www.tampabay.com/sports/2021/08/23/joe-biden-praises-wnba-champs-for-social-justice-activism/?outputType=amp"
+    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/sports/2021/08/23/joe-biden-praises-wnba-champs-for-social-justice-activism/?outputType=amp"
+    type: article
+    provider:
+      name: Tampa Bay Times
+      domain: tampabay.com
+    quality: 75
+    images:
+      - url: "https://www.tampabay.com/resizer/H3idYXdZk6JBiyKwaxGXggjk8_8=/800x450/filters:focal(2065x1285:2075x1275)/cloudfront-us-east-1.images.arcpublishing.com/tbt/EPAHJMPR7OBARKIDWG2FATIR2Q.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Biden praises WNBA champs for social justice activism"
+    excerpt: "President Joe Biden honored the 2020 WNBA champions Seattle Storm on Monday, celebrating their success on the court and hailing the four-time title holders for changing lives with"
+    publishedDateTime: 2021-08-24T13:26:00Z
+    webUrl: "https://www.phillytrib.com/sports/biden-praises-wnba-champs-for-social-justice-activism/article_a4098845-3c9c-5182-ba4a-4f5a594da7bc.html"
+    type: article
+    provider:
+      name: Philadelphia Tribune
+      domain: phillytrib.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/assets/v3/editorial/5/5f/55fd9673-7d2d-5b10-a2e3-90069a1434d2/6124f3e31a6b5.image.jpg?crop=834%2C439%2C79%2C26&resize=400%2C211&order=crop%2Cresize"
+        width: 400
+        height: 211
+        isCached: true
+  - title: "Ashley Moody demands border control assurance from Joe Biden"
+    excerpt: "Attorney General Ashley Moody was among 20 Republican AGs signing on to a letter demanding federal assurances of tighter immigration policy. The letter to U.S. Attorney General Merrick Garland followed a favorable ruling in the U."
+    publishedDateTime: 2021-08-27T17:04:00Z
+    webUrl: "https://floridapolitics.com/archives/453563-moody-border/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/05/Ashley-Moody-scaled.jpg"
+        width: 2560
+        height: 1920
+        isCached: true
+  - title: "Ashley Moody demands border control assurance from Joe Biden administration"
+    excerpt: "The letter, per a release from Moody’s office, seeks “to ensure the Biden administration will faithfully defend a long-standing federal immigration statute that prohibits illegal re-entry to the U.S."
+    publishedDateTime: 2021-08-27T17:08:00Z
+    webUrl: "https://floridapolitics.com/archives/453563-moody-border/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 53
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/05/Ashley-Moody-scaled.jpg"
+        width: 2560
+        height: 1920
+        isCached: true
+  - title: "For Biden’s presidency has been driven by crisis and is the ‘loneliest job’"
+    excerpt: "President Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan, even as he and the nation continued to battle the COVID-19 pandemic."
+    publishedDateTime: 2021-08-28T13:24:00Z
+    webUrl: "https://www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 53
 
 secured: "tHWOaM6P5MeD7w1BU2/lPamfYNeAFR5DslZAUJ3lO3UDvNam0J8dgSA+WfaHl0HLIsb85VGWe5iX/t0oYZSE3yuKwuHB9GzoEqd+SD+MC+aiRiL4YKvAHZS/ogb25fqzsqs0Z3c31Ym3KYEe2IlN8N38Zga+t5XK1c77ppjiZpuQxReBfDd7YwxcSiz8wN39nIFPBj6ALpXbhxBpExGLf6fCFq0F+2tjDAlA4/Mo89DKxFA1jqFuxEOwLv4waZgPxQr8BDqljmwQOmHstxmMsNvTzzgtPmVHMPpQb9jlK61Z5JnpT85Qv/4l813IOfqH+vwtBsXfLY6Neh194VTvsYDhByNnpvt8euWHEtcl1tE=;4AsWW9t2C5m/hFMEe2Vfcg=="
 ---

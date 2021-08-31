@@ -25,800 +25,489 @@ images:
     isCached: true
 
 related:
-  - title: "Biden nominates Interior deputy as department's top lawyer"
-    excerpt: "President Biden Joe Biden Iran espionage-linked ship attacked at sea Biden exceeds expectations on vaccines — so far Jill Biden to visit Alabama with actress Jennifer Garner MORE has nominated ..."
-    publishedDateTime: 2021-04-07T17:43:00Z
-    webUrl: "https://thehill.com/policy/energy-environment/546949-biden-nominates-interior-deputy-as-departments-top-lawyer"
-    ampWebUrl: "https://thehill.com/policy/energy-environment/546949-biden-nominates-interior-deputy-as-departments-top-lawyer?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/546949-biden-nominates-interior-deputy-as-departments-top-lawyer?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/deptofinterior11172020.jpg"
-        width: 827
-        height: 551
-        isCached: true
-  - title: "Despite Biden claim, most migrant families not being expelled to Mexico"
-    excerpt: "WASHINGTON (Reuters) - U.S. border agents expelled roughly a third of migrant parents and children traveling together and caught crossing the southwestern border in March, according to U.S. government data, undercutting a claim by President Joe Biden that ..."
-    publishedDateTime: 2021-04-08T13:10:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-immigration-border-idUSKBN2BV24H"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BV24H"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BV24H"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210408&t=2&i=1557732445&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH370ZX"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Jill Biden announces next steps for military family program"
-    excerpt: "Jill Biden is bringing a new focus to the cause of supporting America's military families. The first lady on Wednesday announced the next chapter for a decade-old military family support program she and then-first lady Michelle Obama led during the Obama administration."
-    publishedDateTime: 2021-04-07T18:24:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/jill-biden-announcing-steps-military-family-program-76921329"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/jill-biden-announcing-steps-military-family-program-76921329"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/jill-biden-announcing-steps-military-family-program-76921329"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_6f4860f631b04b8e8b97167ef509ef87_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden budget would beef up IRS tax enforcement: Yellen"
-    excerpt: "WASHINGTON (Reuters) - U.S. Treasury Secretary Janet Yellen said on Friday that the Internal Revenue Service budget would increase by $1.2 billion or 10.4% under President Joe Biden’s fiscal 2022 budget request. Yellen, in a statement, said the $13.2 ..."
-    publishedDateTime: 2021-04-09T14:42:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-treasury-budget-idUSKBN2BW25C"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BW25C"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BW25C"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210409&t=2&i=1557886866&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH38128"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Despite Biden claim, most migrant families not being expelled to Mexico"
-    excerpt: "WASHINGTON (Reuters) - U.S. border agents expelled roughly a third of migrant parents and children traveling together and caught crossing the southwestern border in March, according to U.S. government data, undercutting a claim by President Joe Biden that ..."
-    publishedDateTime: 2021-04-08T18:51:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-immigration-border-idUKKBN2BV24H"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BV24H"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BV24H"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210408&t=2&i=1557732445&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH370ZX"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Biden budget would beef up IRS tax enforcement -Yellen"
-    excerpt: "WASHINGTON (Reuters) -U.S. Treasury Secretary Janet Yellen said on Friday that the Internal Revenue Service budget would increase by $1.2 billion or 10.4% under President Joe Biden’s fiscal 2022 budget request. Yellen, in a statement, said the $13.2 ..."
-    publishedDateTime: 2021-04-09T21:47:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-treasury-budget-idUKKBN2BW25C"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BW25C"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BW25C"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210410&t=2&i=1557939079&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH381F8"
-        width: 866
-        height: 545
-        isCached: true
-  - title: "Biden orders commission to study supreme court expansion and reform"
-    excerpt: "Executive order fulfils campaign pledge to examine court reform but Biden has not said if he favors expanding nine-justice court"
-    publishedDateTime: 2021-04-09T18:18:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/apr/09/joe-biden-supreme-court-expansion-commission-reform"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/09/joe-biden-supreme-court-expansion-commission-reform"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/09/joe-biden-supreme-court-expansion-commission-reform"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/be92a34aae66cbf7a1282258c0cdf6dd6672afbc/0_57_5324_3194/master/5324.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ffbea78d9d45f7ccb977eeb5db5074ec"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden's budget meets criticism from right and left on Pentagon spending"
-    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden asked Congress to sharply hike spending on climate change, cancer and underperforming schools, but his first budget wishlist on Friday drew howls of bipartisan concern over military spending. The $1.5 ..."
-    publishedDateTime: 2021-04-10T08:51:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-budget-idUSKBN2BW190"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BW190"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BW190"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210409&t=2&i=1557911942&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH381F5"
-        width: 812
-        height: 545
-        isCached: true
-  - title: "Biden sees `win' for US in electric vehicle battery deal"
-    excerpt: "President Joe Biden calls it “a win for American workers and the American auto industry.\" WASHINGTON -- Two big South Korean electric vehicle battery makers have settled a long-running trade ..."
-    publishedDateTime: 2021-04-11T12:36:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/biden-sees-win-us-electric-vehicle-battery-deal-77003985"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-sees-win-us-electric-vehicle-battery-deal-77003985"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-sees-win-us-electric-vehicle-battery-deal-77003985"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_fad24c3069b54782a4557fd75b0981dc_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Kerry expected to travel to China in first visit by top Biden official"
-    excerpt: "The trip, less than a month after a face-to-face meeting between senior Chinese and U.S. diplomats in Alaska ended in traded diatribes and insults, would be the first official visit to China by a top Biden administration official. A State Department ..."
-    publishedDateTime: 2021-04-10T19:35:00Z
-    webUrl: "https://www.washingtonpost.com/world/china-us-kerry-climate/2021/04/10/1844cf02-99ff-11eb-8f0a-3384cf4fb399_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/china-us-kerry-climate/2021/04/10/1844cf02-99ff-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/china-us-kerry-climate/2021/04/10/1844cf02-99ff-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YWO3FOU2EAI6XMUNX6T3WXFSUU.jpg&w=1440"
-        width: 1440
-        height: 940
-        isCached: true
-  - title: "Biden faces battle for the soul of his infrastructure plan: The Note"
-    excerpt: "The fate of this package will not only test Biden's commitment to bipartisanship, but will also challenge his commitment to the bold transformative change he's promised."
-    publishedDateTime: 2021-04-12T14:00:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-faces-battle-soul-infrastructure-plan-note/story?id=77004289"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-faces-battle-soul-infrastructure-plan-note/story?id=77004289"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-faces-battle-soul-infrastructure-plan-note/story?id=77004289"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/Joe-biden-reut_hpMain_20210411-170350_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden sees `win’ for US in electric vehicle battery deal"
-    excerpt: "Two big South Korean electric vehicle battery makers said they’ve settled a long-running trade dispute that will allow one company to move ahead with plans to manufacture batteries in Georgia"
-    publishedDateTime: 2021-04-12T04:32:00Z
-    webUrl: "https://www.washingtonpost.com/business/technology/ap-source-electric-vehicle-battery-firms-settle-trade-spat/2021/04/10/0d2b3bca-9a71-11eb-8f0a-3384cf4fb399_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/technology/ap-source-electric-vehicle-battery-firms-settle-trade-spat/2021/04/10/0d2b3bca-9a71-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/ap-source-electric-vehicle-battery-firms-settle-trade-spat/2021/04/10/0d2b3bca-9a71-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Biden faces long odds in push for more state 'red flag' laws"
-    excerpt: "Iowa -- President Joe Biden faces an uphill battle as he tries to revive a push for more state laws that would allow authorities to temporarily disarm people who are considered a danger to ..."
-    publishedDateTime: 2021-04-14T14:27:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-faces-long-odds-push-state-red-flag-77066852"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-faces-long-odds-push-state-red-flag-77066852"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-faces-long-odds-push-state-red-flag-77066852"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_caaa6d54f7e7456686b04130b33c438f_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden picks Obama alum for No.2 spot at Interior"
-    excerpt: "President Biden Joe Biden IRS to roll out payments for ,000 child tax credit in July Capitol Police told not to use most aggressive tactics in riot response, report finds Biden to accompany first ..."
-    publishedDateTime: 2021-04-14T16:09:00Z
-    webUrl: "https://thehill.com/policy/energy-environment/548188-biden-picks-obama-alum-for-no2-spot-at-interior"
-    ampWebUrl: "https://thehill.com/policy/energy-environment/548188-biden-picks-obama-alum-for-no2-spot-at-interior?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/548188-biden-picks-obama-alum-for-no2-spot-at-interior?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/1230bidenlede0413.jpg"
-        width: 580
-        height: 326
-        isCached: true
-  - title: "Inside the surprisingly close Biden-Manchin relationship"
-    excerpt: "Joe Manchin Joe Manchin Five hurdles Democrats face to pass an infrastructure bill Nixed Interior nominee appointed to different department role Against mounting odds, Biden seeks GOP support ..."
-    publishedDateTime: 2021-04-14T10:00:00Z
-    webUrl: "https://thehill.com/homenews/administration/548091-inside-the-surprisingly-close-biden-manchin-relationship"
-    ampWebUrl: "https://thehill.com/homenews/administration/548091-inside-the-surprisingly-close-biden-manchin-relationship?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/548091-inside-the-surprisingly-close-biden-manchin-relationship?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/manchinjoe_031121gn5_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Overnight Defense: Biden makes his Afghanistan decision"
-    excerpt: "CLICK HERE to subscribe to the newsletter. THE TOPLINE: President Biden Joe Biden Trump: McConnell 'helpless' to stop Biden from packing court Biden, first lady send 'warmest greetings' to Muslims ..."
-    publishedDateTime: 2021-04-13T23:20:00Z
-    webUrl: "https://thehill.com/policy/defense/548077-overnight-defense-biden-makes-his-afghanistan-decision"
-    ampWebUrl: "https://thehill.com/policy/defense/548077-overnight-defense-biden-makes-his-afghanistan-decision?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/548077-overnight-defense-biden-makes-his-afghanistan-decision?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_040721upi_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Biden taps ex-Obama official as Interior Department deputy"
-    excerpt: "The White House is naming a former Obama administration official to be deputy secretary at the Interior Department after dropping plans for a more liberal nominee who faced key Senate opposition"
-    publishedDateTime: 2021-04-14T20:43:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-taps-former-obama-official-as-deputy-at-interior-dept/2021/04/14/466d4aae-9d4b-11eb-b2f5-7d2f0182750d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-taps-former-obama-official-as-deputy-at-interior-dept/2021/04/14/466d4aae-9d4b-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-taps-former-obama-official-as-deputy-at-interior-dept/2021/04/14/466d4aae-9d4b-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Biden's pick for top civil rights job promises to advance racial equality"
-    excerpt: "WASHINGTON – Kristen Clarke, President Joe Biden's pick to be the Justice Department's civil rights chief, is promising to make racial equality a top priority, drawing on her experiences as a longtime civil rights attorney and the mother of a Black ..."
-    publishedDateTime: 2021-04-14T06:59:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/14/biden-civil-rights-chief-nominee-kristen-clarke-faces-confirmation-hearing/7204361002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7204361002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7204361002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 124
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/14/USAT/38f34795-1047-4e1d-9068-f0f4108ef791-GTY_1295083847.jpg?auto=webp&crop=5228,2941,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Texas, Louisiana sue Biden administration over reduced use of ICE detainers"
-    excerpt: "“President Biden Joe Biden Iran espionage-linked ship attacked at sea Biden exceeds expectations on vaccines — so far Jill Biden to visit Alabama with actress Jennifer Garner MORE’s outright ..."
-    publishedDateTime: 2021-04-07T19:31:00Z
-    webUrl: "https://thehill.com/latino/546987-texas-louisiana-sue-biden-administration-over-reduced-use-of-ice-detainers"
-    ampWebUrl: "https://thehill.com/latino/546987-texas-louisiana-sue-biden-administration-over-reduced-use-of-ice-detainers?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/latino/546987-texas-louisiana-sue-biden-administration-over-reduced-use-of-ice-detainers?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 123
-    images:
-      - url: "https://thehill.com/sites/default/files/ice_05092019_getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Biden praises settlement in dispute between electric vehicle battery makers"
-    excerpt: "President Biden Joe Biden Biden eyes bigger US role in global vaccination efforts Trump says GOP will take White House in 2024 in prepared speech Kemp: Pulling All-Star game out of Atlanta will ..."
-    publishedDateTime: 2021-04-11T13:06:00Z
-    webUrl: "https://thehill.com/policy/technology/547561-biden-praises-settlement-in-dispute-between-electric-vehicle-battery-makers"
-    ampWebUrl: "https://thehill.com/policy/technology/547561-biden-praises-settlement-in-dispute-between-electric-vehicle-battery-makers?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/547561-biden-praises-settlement-in-dispute-between-electric-vehicle-battery-makers?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 123
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_032421getty_biden.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Michigan governor vows to push Biden for more vaccines as Covid cases surge"
-    excerpt: "Gretchen Whitmer, the governor of Michigan, vowed on Sunday to push the Biden administration for more Covid-19 vaccines as her state experiences a worrying spike in cases. Canada ski resort linked to largest outbreak of P1 Covid variant outside Brazil Joe ..."
-    publishedDateTime: 2021-04-11T18:44:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/apr/11/michigan-governor-gretchen-whitmer-more-vaccines-covid-cases-surge"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/11/michigan-governor-gretchen-whitmer-more-vaccines-covid-cases-surge"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/11/michigan-governor-gretchen-whitmer-more-vaccines-covid-cases-surge"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 123
-    images:
-      - url: "https://i.guim.co.uk/img/media/fd6c6bc2252ac2f148634994ab479994867cf65d/0_416_6240_3744/master/6240.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1b4ec91eaf77cc644f8de22a21440c61"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden insists he’s willing to negotiate with Republicans on infrastructure"
-    excerpt: "also took issue with the price tag and the tax increases Biden has put forward to pay for it. Some Democrats, including centrist Sen. Joe Manchin III of West Virginia, have raised their own objections to the tax hikes. Manchin also warned the Biden ..."
-    publishedDateTime: 2021-04-12T23:33:00Z
-    webUrl: "https://www.washingtonpost.com/us-policy/2021/04/12/biden-infrastructure-congress/"
-    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/04/12/biden-infrastructure-congress/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/04/12/biden-infrastructure-congress/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 123
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J6M3RLE3PYI6XMXVPUXQDATVBU.jpg&w=1440"
-        width: 1440
-        height: 941
-        isCached: true
-  - title: "Biden tells migrants to stay put. Central Americans hear a different message"
-    excerpt: "The review revealed pervasive myths about immigration policy changes under U.S. President Joe Biden. “There’s 100 days of free passage across the border,” a Guatemalan smuggler told Reuters. The truth is much more complex. U.S. Customs and Border ..."
-    publishedDateTime: 2021-03-31T09:08:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-immigration-messaging-insight-idUSKBN2BN1BB"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BN1BB"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BN1BB"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210331&t=2&i=1556862709&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2U0N8"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Biden wants money to probe white supremacist beliefs at immigration agencies"
-    excerpt: "WASHINGTON (Reuters) -President Joe Biden is calling for funding to investigate complaints of white supremacist beliefs at U.S. immigration enforcement agencies, according to a summary of his budget request for the coming fiscal year released on Friday."
-    publishedDateTime: 2021-04-09T15:26:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-budget-immigration-idINKBN2BW21J"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2BW21J"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2BW21J"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210409&t=2&i=1557897992&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3810R"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Haaland meets with Utah politicians, tribes as Biden weighs monument changes"
-    excerpt: "tribal leaders and other stakeholders Wednesday and Thursday as President Biden Joe Biden Anne Frank's stepsister: Trump 'obviously admired Hitler' Biden-GOP infrastructure talks off to rocky ..."
-    publishedDateTime: 2021-04-08T22:01:00Z
-    webUrl: "https://thehill.com/policy/energy-environment/547260-haaland-meets-with-utah-politicians-tribes-while-biden-weighs"
-    ampWebUrl: "https://thehill.com/policy/energy-environment/547260-haaland-meets-with-utah-politicians-tribes-while-biden-weighs?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/547260-haaland-meets-with-utah-politicians-tribes-while-biden-weighs?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 122
-    images:
-      - url: "https://thehill.com/sites/default/files/bearsearsmonument.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Biden seeks funding to probe white supremacist beliefs at immigration agencies"
-    excerpt: "WASHINGTON (Reuters) -President Joe Biden called for funding to investigate complaints of white supremacist beliefs at U.S. immigration enforcement agencies in his first budget request to Congress on Friday, but officials offered no explanation for what ..."
-    publishedDateTime: 2021-04-10T02:19:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-budget-immigration/biden-calls-for-funding-to-probe-white-supremacist-beliefs-at-u-s-immigration-agencies-idUSKBN2BW21J"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BW21J"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BW21J"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210410&t=2&i=1557939081&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH381FB"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Biden to meet with bipartisan group to discuss $2tn infrastructure plan – live"
-    excerpt: "Trump specifically criticized McConnell for allowing the Senate to approve the certification of Joe Biden’s victory in the presidential election on January 6, hours after a group of the then-president’s supporters staged a deadly insurrection at the ..."
-    publishedDateTime: 2021-04-12T13:30:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/12/joe-biden-covid-coronavirus-politics-latest-live-updates?page=with:block-6074465a8f08ebe74739e6e9"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/12/joe-biden-covid-coronavirus-politics-latest-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/12/joe-biden-covid-coronavirus-politics-latest-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 121
-    images:
-      - url: "https://i.guim.co.uk/img/media/eeb1b92cbbbba82a113fbd42fbd029ce28f4afa1/0_0_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ad478ba2b23afc922ddf69227f5fe898"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Jill Biden to announce plans to aid military families in next phase of her agenda"
-    excerpt: "He died of brain cancer in 2015. During the 2020 presidential campaign, Biden promised Joining Forces would be high on her to-do list if she became first lady. Even before President Joe Biden was sworn in, she signaled she intended to keep that promise ..."
-    publishedDateTime: 2021-04-07T07:00:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/04/07/jill-biden-announce-joining-forces-plans-aid-military-families/7108590002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7108590002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7108590002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/06/USAT/78fd5881-48d3-48f3-92b5-025c3e6d6190-AFP_9772HX.jpg?auto=webp&crop=4499,2531,x0,y329&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "South Korean battery makers agree last-minute deal in boost to Biden's EV policy"
-    excerpt: "An announcement of the battery makers’ settlement is expected by Sunday, the sources said. The agreement is a win for President Joe Biden who has made boosting electric vehicles and U.S. battery production a top priority. The global auto industry is ..."
-    publishedDateTime: 2021-04-11T02:36:00Z
-    webUrl: "https://www.reuters.com/article/autos-electric-politics-idINKBN2BX0H6"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2BX0H6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2BX0H6"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210411&t=2&i=1558006216&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3A01I"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Biden faces Democratic and Republican hurdles over $2tn infrastructure plan – live"
-    excerpt: "Senator Joe Manchin, whose vote will likely determine whether Joe Biden’s infrastructure plan can pass the Senate, has expressed criticism of the proposal. In a radio interview with a local West Virginia station today, Machin said he had serious concerns ..."
-    publishedDateTime: 2021-04-05T16:39:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/05/joe-biden-us-politics-live-infrastructure-covid-coronavirus-latest-updates?page=with:block-606b35388f083302090e5508"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/05/joe-biden-us-politics-live-infrastructure-covid-coronavirus-latest-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/05/joe-biden-us-politics-live-infrastructure-covid-coronavirus-latest-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 119
-    images:
-      - url: "https://i.guim.co.uk/img/media/d1d5761dd6ec36cea3934b289829ea58ebccb010/0_77_5196_3118/master/5196.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9afaba638a859fce2592ce4d5b7729c2"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden to pay respects to Capitol police officer killed in car attack – live updates"
-    excerpt: "Capitol employees are making final arrangements to prepare for today’s ceremony to honor Officer William “Billy” Evans, which will be attended by Joe Biden and congressional leaders. Two seats have been reserved for Evans’ young children ..."
-    publishedDateTime: 2021-04-13T13:03:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/13/joe-biden-capitol-police-officer-covid-coronavirus-latest-live-updates"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/13/joe-biden-capitol-police-officer-covid-coronavirus-latest-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/13/joe-biden-capitol-police-officer-covid-coronavirus-latest-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 119
-    images:
-      - url: "https://i.guim.co.uk/img/media/54c0ae823c55ace7e5b9ccbcb747b81cc2f69eb6/0_32_4845_2907/master/4845.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6eebce1353e72fcc91b8e666f139d987"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden's Justice Department picks for civil rights, environment to face Senate panel"
-    excerpt: "WASHINGTON (Reuters) - President Joe Biden’s nominees to lead the Justice Department’s civil rights and environmental units are due to face questions from the Senate Judiciary Committee on Wednesday on how they would address racial inequities in ..."
-    publishedDateTime: 2021-04-14T09:16:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-senate-justice/bidens-justice-department-picks-for-civil-rights-environment-to-face-senate-panel-idUSKBN2C118D?edition-redirect=in"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C118D"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C118D"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 119
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210414&t=2&i=1558407501&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3D0KH"
-        width: 825
-        height: 545
-        isCached: true
-  - title: "Brooklyn Center Mayor Says Biden Offered Support After Daunte Wright Shooting Unrest"
-    excerpt: "President Joe Biden has offered his administration's support to the city of Brooklyn Center, Minnesota, in the wake of Daunte Wright's death and Sunday night's subsequent protests, according to Mayor Mike Elliott. \"Just got off the phone with the @WhiteHouse."
-    publishedDateTime: 2021-04-12T17:38:00Z
-    webUrl: "https://www.newsweek.com/brooklyn-center-mayor-says-biden-offered-support-after-daunte-wright-shooting-unrest-1582977"
-    ampWebUrl: "https://www.newsweek.com/brooklyn-center-mayor-says-biden-offered-support-after-daunte-wright-shooting-unrest-1582977?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/brooklyn-center-mayor-says-biden-offered-support-after-daunte-wright-shooting-unrest-1582977?amp=1"
+  - title: "'Death Sentence': Donald Trump Insists Biden Gave Taliban 'Kill List' Despite Blinken Denial"
+    excerpt: "Republican former President Donald Trump has said that the administration of Democratic President Joe Biden has handed down a \"death sentence\" by giving the Taliban a list of all Americans and U.S. allies who remain in Afghanistan."
+    publishedDateTime: 2021-08-31T01:34:00Z
+    webUrl: "https://www.newsweek.com/death-sentence-donald-trump-insists-biden-gave-taliban-kill-list-despite-blinken-denial-1624395"
+    ampWebUrl: "https://www.newsweek.com/death-sentence-donald-trump-insists-biden-gave-taliban-kill-list-despite-blinken-denial-1624395?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/death-sentence-donald-trump-insists-biden-gave-taliban-kill-list-despite-blinken-denial-1624395?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 118
+    quality: 139
     images:
-      - url: "https://d.newsweek.com/en/full/1776399/brooklyn-center.jpg"
-        width: 594
-        height: 398
-        isCached: true
-  - title: "The Hill's Morning Report - Biden bumps up vaccine eligibility amid 'life or death' race"
-    excerpt: "President Biden Joe Biden Iran espionage-linked ship attacked at sea Biden exceeds expectations on vaccines — so far Jill Biden to visit Alabama with actress Jennifer Garner MORE\" width=\"580 ..."
-    publishedDateTime: 2021-04-07T10:25:00Z
-    webUrl: "https://thehill.com/homenews/morning-report/546844-the-hills-morning-report"
-    ampWebUrl: "https://thehill.com/homenews/morning-report/546844-the-hills-morning-report?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/morning-report/546844-the-hills-morning-report?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 116
-    images:
-      - url: "https://thehill.com/sites/default/files/newsletter-open_040721getty.jpg"
-        width: 580
-        height: 387
-        isCached: true
-  - title: "Joe Biden Wants to Heal After Capitol Attack but Americans Can't Even Agree it Was Serious"
-    excerpt: "Republicans and Democrats are starkly divided on the severity of the attack, how harsh sentencing should be for those involved, and where future threats lie."
-    publishedDateTime: 2021-03-31T09:40:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-wants-heal-capitol-attack-americans-cant-even-agree-wrong-1580031"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-wants-heal-capitol-attack-americans-cant-even-agree-wrong-1580031?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-wants-heal-capitol-attack-americans-cant-even-agree-wrong-1580031?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 115
-    images:
-      - url: "https://d.newsweek.com/en/full/1767772/protesters-capitol-january-6.jpg"
+      - url: "https://d.newsweek.com/en/full/1883318/trump-afghanistan-taliban-list-death-sentence.jpg"
         width: 2500
-        height: 1668
+        height: 1667
         isCached: true
-  - title: "'Hunter Biden Has Nothing to Do With This': Fox News Guest Slams 'Constant' Coverage of President's Son"
-    excerpt: "\"The answer about Joe Biden is not, 'Well Hunter Biden did crack,' or 'Well Hunter disposed of a gun illegally,'\" Jessica Tarlov said."
-    publishedDateTime: 2021-04-11T19:49:00Z
-    webUrl: "https://www.newsweek.com/hunter-biden-has-nothing-do-this-fox-news-guest-slams-constant-coverage-presidents-son-1582737"
-    ampWebUrl: "https://www.newsweek.com/hunter-biden-has-nothing-do-this-fox-news-guest-slams-constant-coverage-presidents-son-1582737?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/hunter-biden-has-nothing-do-this-fox-news-guest-slams-constant-coverage-presidents-son-1582737?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 109
-    images:
-      - url: "https://d.newsweek.com/en/full/1775625/fox-news-contributor-jessica-tarlov.png"
-        width: 2804
-        height: 1568
-        isCached: true
-  - title: "Jill Biden announcing next steps for military family program"
-    excerpt: "During the 2020 presidential campaign, she promised to revive Joining Forces. Shortly before President Joe Biden took office, the first lady . Brosius previously served as the program's deputy director. Biden is a military daughter and mother, with ..."
-    publishedDateTime: 2021-04-07T13:05:00Z
-    webUrl: "https://www.businessinsider.com/jill-biden-announcing-next-steps-for-military-family-program-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/jill-biden-announcing-next-steps-for-military-family-program-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jill-biden-announcing-next-steps-for-military-family-program-2021-4?amp"
+  - title: "Trump claims Biden's Afghanistan evacuation could be bringing 'terrorists' to America"
+    excerpt: "In an August 25 statement, Trump asked people to imagine \"how many terrorists\" were \"airlifted out of Afghanistan\" and into neighborhoods worldwide."
+    publishedDateTime: 2021-08-25T05:54:00Z
+    webUrl: "https://www.businessinsider.com/trump-claims-biden-bringing-afghan-terrorists-to-the-us-2021-8"
+    ampWebUrl: "https://www.businessinsider.com/trump-claims-biden-bringing-afghan-terrorists-to-the-us-2021-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-biden-bringing-afghan-terrorists-to-the-us-2021-8?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 105
-  - title: "Biden says gun violence in U.S. is an 'embarrassment’"
-    excerpt: "News Agency Biden says gun violence in U.S. is an 'embarrassment’ Posted . President Joe Biden called gun violence in the U.S. an 'epidemic' as he announced limited measures to"
-    publishedDateTime: 2021-04-08T18:25:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVE7O393Z"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
+    quality: 133
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20210408&i=OVE7O393Z&r=OVE7O393Z&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Biden nominates California workplace safety chief to head OSHA"
-    excerpt: "President Joe Biden has tapped Doug Parker, the director of California’s workplace safety agency, to lead the Occupational Safety and Health Administration (OSHA) as it is expected to pivot to more aggressive enforcement amid the COVID-19 pandemic."
-    publishedDateTime: 2021-04-12T17:46:00Z
-    webUrl: "https://www.reuters.com/article/employment-osha-idUSL1N2M529W"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2M529W"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2M529W"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "Biden ends Afghan 'forever war' for US troops"
-    excerpt: "President Joe Biden says he will withdraw remaining U.S. troops from the \"forever war” in Afghanistan, declaring that the Sept. 11 terror attacks of 20 years ago cannot justify American forces still dying in the nation's longest war."
-    publishedDateTime: 2021-04-14T22:21:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/14/biden-ends-afghan-forever-war-us-troops/7229266002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/5944f4b9-9a4b-4d74-ad97-bf1296a10810_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Biden salutes war dead after Afghanistan decision"
-    excerpt: "President Joe Biden salutes the graves of U.S. troops who died in recent conflicts, buried at Arlington National Cemetery on Wednesday. The visit came, after Biden pledges to withdraw remaining U.S. troops from the “forever war” in Afghanistan."
-    publishedDateTime: 2021-04-14T21:09:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/14/biden-salutes-war-dead-after-afghanistan-decision/7227953002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/93dd08f0-7e68-4947-9f9a-1e641f55ab55_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Amtrak Joe: A brief look at President Biden's long history supporting America's railroad"
-    excerpt: "President Joe Biden at an event announcing funding for Amtrak as part of the American Recovery and Reinvestment Act in 2009. Larry Downing/Reuters Summary List Placement When President Ronald Reagan in 1981 moved to trim $884 million from a budget used by ..."
-    publishedDateTime: 2021-04-10T15:01:00Z
-    webUrl: "https://www.businessinsider.com/amtrak-joe-brief-history-of-bidens-history-americas-railroad-2021-4"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 96
-    images:
-      - url: "https://i.insider.com/60648df3daf0f10018f99339?width=1200&format=jpeg"
+      - url: "https://i.insider.com/6125bffe493203001845c0bf?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Biden nominee Wormuth would be first woman to lead Army"
-    excerpt: "President Joe Biden says he will nominate a former senior Pentagon official to be the first woman to lead the Army"
-    publishedDateTime: 2021-04-12T20:20:00Z
-    webUrl: "https://www.washingtonpost.com/world/national-security/biden-nominee-wormuth-would-be-first-woman-to-lead-army/2021/04/12/81c95942-9bcc-11eb-b2f5-7d2f0182750d_story.html"
+  - title: "As U.S. Leaves Afghanistan, How Biden's 7-Month Approval Rating Stacks Up Against Trump's"
+    excerpt: "President Joe Biden lost his majority approval rating as Americans left Afghanistan, giving rise to the Taliban's takeover of the country."
+    publishedDateTime: 2021-08-30T20:27:00Z
+    webUrl: "https://www.newsweek.com/us-leaves-afghanistan-how-bidens-7-month-approval-rating-stacks-against-trumps-1624347"
+    ampWebUrl: "https://www.newsweek.com/us-leaves-afghanistan-how-bidens-7-month-approval-rating-stacks-against-trumps-1624347?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/us-leaves-afghanistan-how-bidens-7-month-approval-rating-stacks-against-trumps-1624347?amp=1"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 85
-  - title: "Biden's pick for top U.S. civil rights lawyer, Kristen Clarke, faces fraught task"
-    excerpt: "WASHINGTON (Reuters) - President Joe Biden’s nominee to lead the Justice Department’s Civil Rights Division, Kristen Clarke, is poised to take on the role at a fraught time in American history. Clarke will face a Senate hearing this week as hate crimes ..."
-    publishedDateTime: 2021-04-13T09:02:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-justice-clarke/bidens-pick-for-top-u-s-civil-rights-lawyer-kristen-clarke-faces-fraught-task-idUSKBN2C0141?edition-redirect=in"
+      name: Newsweek
+      domain: newsweek.com
+    quality: 131
+    images:
+      - url: "https://d.newsweek.com/en/full/1883234/joe-biden-approval-donald-trump-afghanistan.jpg"
+        width: 2500
+        height: 1875
+        isCached: true
+  - title: "Donald Trump Gave Joe Biden 'Hospital Pass' on Afghanistan, Says Tony Blair's Defense Secretary"
+    excerpt: "As Tony Blair criticizes Joe Biden's withdrawal of U.S. troops from Afghanistan, his former U.K. defense secretary Geoff Hoon defended the American president."
+    publishedDateTime: 2021-08-23T11:36:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-gave-joe-biden-hospital-pass-afghanistan-tony-blair-defense-secretary-1621971"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-gave-joe-biden-hospital-pass-afghanistan-tony-blair-defense-secretary-1621971?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-gave-joe-biden-hospital-pass-afghanistan-tony-blair-defense-secretary-1621971?amp=1"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 80
-  - title: "No, Joe Biden did not have a medical emergency Easter Sunday"
-    excerpt: "This one is bogus, even though it was shared widely on social media. Here are the facts: CLAIM: President Joe Biden needed a special medical team at the White House and was taken to the hospital late Sunday. THE FACTS: Biden was not at the White House on ..."
-    publishedDateTime: 2021-04-11T15:04:00Z
-    webUrl: "https://www.oregonlive.com/politics/2021/04/no-joe-biden-did-not-have-a-medical-emergency-easter-sunday.html"
-    ampWebUrl: "https://www.oregonlive.com/politics/2021/04/no-joe-biden-did-not-have-a-medical-emergency-easter-sunday.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2021/04/no-joe-biden-did-not-have-a-medical-emergency-easter-sunday.html?outputType=amp"
+      name: Newsweek
+      domain: newsweek.com
+    quality: 128
+    images:
+      - url: "https://d.newsweek.com/en/full/1877338/us-troops-kabul-airport-afghanistan-evacuation.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Joe Biden’s potential Jimmy Carter moment"
+    excerpt: "In Joe Biden’s remarks following the Kabul terrorist attack on Thursday, he concluded: “Ladies and gentlemen, after 20 years it was time to end a 20-year war.” The moment was horribly circular. America went into Afghanistan in 2001 to drive out the terrorists."
+    publishedDateTime: 2021-08-27T00:07:00Z
+    webUrl: "https://www.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb"
+    ampWebUrl: "https://amp.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 125
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6087e8e5-ad77-46e6-a635-ea4f4d045dc9.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
+  - title: "Lindsey Graham repeats impeachment call for former friend Joe Biden"
+    excerpt: "Republican accuses president, who reportedly rebuffed his attempt to explain support for Trump, of ignoring advice on Afghanistan"
+    publishedDateTime: 2021-08-29T16:38:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/aug/29/lindsey-graham-impeachment-call-joe-biden-afghanistan"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/29/lindsey-graham-impeachment-call-joe-biden-afghanistan"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/29/lindsey-graham-impeachment-call-joe-biden-afghanistan"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/c179f21a5b99ff34b46423da1d81ad5fdc95e9d5/0_400_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=257ba2b47f7c59f920a4f825abf8d840"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "'When I was President...': Donald Trump on Taliban, Joe Biden, Afghanistan"
+    excerpt: "Former US President Donald Trump hit out at his successor over the messy exit from Afghanistan which has led to Taliban taking over most of the country, and an evacuation crisis breaking out. Trump said that Joe Biden had gone on vacation as Afghanistan was going to hell."
+    publishedDateTime: 2021-08-23T16:57:00Z
+    webUrl: "https://www.hindustantimes.com/videos/world-news/when-i-was-president-donald-trump-on-taliban-joe-biden-afghanistan-101629737383021.html"
+    ampWebUrl: "https://www.hindustantimes.com/videos/world-news/when-i-was-president-donald-trump-on-taliban-joe-biden-afghanistan-101629737383021-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/videos/world-news/when-i-was-president-donald-trump-on-taliban-joe-biden-afghanistan-101629737383021-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 88
+    images:
+      - url: "https://images.hindustantimes.com/img/2021/08/23/1600x900/HT_Normal_Thumbnail_-_AUG__2021_1629737552559_1629737630771.png"
+        width: 1600
+        height: 899
+        isCached: true
+  - title: "Former Trump adviser: Biden needs to fire top Taliban negotiator Khalilzad"
+    excerpt: "Lt. Gen. H.R. McMaster, Donald Trump’s former national security adviser, is laying some of the blame for the current chaos in Afghanistan squarely at the feet of Ambassador Zalmay Khalilzad, the Afghan-American diplomat who has been the point man for talks with the Taliban in both Republican and Democratic administrations."
+    publishedDateTime: 2021-08-24T17:42:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/aug/24/former-trump-adviser-biden-needs-fire-top-taliban-/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/24/former-trump-adviser-biden-needs-fire-top-taliban-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/24/former-trump-adviser-biden-needs-fire-top-taliban-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 88
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2018/07/11/books-mcmaster_42215_c0-176-4205-2628_s1200x700.jpg?fc7050ca65b373159166adfd97568bd9321a7b9d"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Biden defended using the Taliban for Kabul airport security after the deadly blasts, saying there's no evidence they were involved in the attack"
+    excerpt: "The ISIS-K has claimed responsibility for Thursday's attack at Kabul's airport. The group later criticized the Taliban for working with the US."
+    publishedDateTime: 2021-08-27T09:41:00Z
+    webUrl: "https://www.businessinsider.com/biden-defended-using-taliban-kabul-airport-security-no-link-attack-2021-8"
+    ampWebUrl: "https://www.businessinsider.com/biden-defended-using-taliban-kabul-airport-security-no-link-attack-2021-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-defended-using-taliban-kabul-airport-security-no-link-attack-2021-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 88
+    images:
+      - url: "https://i.insider.com/6128a62712b9cc0019631372?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "'100% chance' Trump will run for President in 2024 and wallop Joe Biden, says Republican"
+    excerpt: "THERE is a \"100 percent\" chance that Donald Trump will run for US President in 2024, according to a Republican state representative from Florida."
+    publishedDateTime: 2021-08-29T23:01:00Z
+    webUrl: "https://www.express.co.uk/news/world/1483580/donald-trump-2024-republicans-ex-potus-anthony-sabatini-white-house-desantis-world-ont"
+    ampWebUrl: "https://www.express.co.uk/news/world/1483580/donald-trump-2024-republicans-ex-potus-anthony-sabatini-white-house-desantis-world-ont/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/world/1483580/donald-trump-2024-republicans-ex-potus-anthony-sabatini-white-house-desantis-world-ont/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 81
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/78/590x/Donald-Trump-1483580.jpg?r=1630271885638"
+        width: 590
+        height: 350
+        isCached: true
+  - title: "Joe Biden's terrible August just got worse"
+    excerpt: "It doesn't bode well for Joe Biden's presidency. The case for withdrawing American troops from Afghanistan is strong. The rapid collapse of Afghan military forces and its elected government in the face of a Taliban offensive this summer has demonstrated just how little we've done to create a strong and resilient system in the country over the past 20 years."
+    publishedDateTime: 2021-08-26T16:58:00Z
+    webUrl: "https://theweek.com/joe-biden/1004184/the-political-consequences-of-the-kabul-airport-attack"
+    ampWebUrl: "https://theweek.com/joe-biden/1004184/the-political-consequences-of-the-kabul-airport-attack?amp"
+    cdnAmpWebUrl: "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/joe-biden/1004184/the-political-consequences-of-the-kabul-airport-attack?amp"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 75
+    images:
+      - url: "https://mediacloud.theweek.com/image/upload/f_auto,t_primary-image-mobile@1/v1629996718/biden%20airport%20damon.jpg"
+        width: 375
+        height: 211
+        isCached: true
+  - title: "Joe Biden in the ‘Loneliest Job,' a Presidency Driven by Crisis"
+    excerpt: "Surrounded by everything a superpower can offer and watched by all, President Joe Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan and tried to keep the focus on what,"
+    publishedDateTime: 2021-08-29T01:54:00Z
+    webUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
+    ampWebUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 75
+    images:
+      - url: "https://media.nbcnewyork.com/2021/08/GettyImages-1234886272.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Ensure that Taliban do not destabilise Pakistan: US lawmakers to Joe Biden"
+    excerpt: "A group of US lawmakers has urged President Joe Biden to ensure that the Taliban, which is now the de facto ruler of Afghanistan, do not destabilise Pakistan and acquire nuclear weapons"
+    publishedDateTime: 2021-08-26T23:13:00Z
+    webUrl: "https://www.thehansindia.com/news/international/ensure-that-taliban-do-not-destabilise-pakistan-us-lawmakers-to-joe-biden-703501"
+    ampWebUrl: "https://www.thehansindia.com/amp/news/international/ensure-that-taliban-do-not-destabilise-pakistan-us-lawmakers-to-joe-biden-703501"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/international/ensure-that-taliban-do-not-destabilise-pakistan-us-lawmakers-to-joe-biden-703501"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 73
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2021/08/23/1103644-biden.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Trump’s Taliban deal complicates message for GOP contenders | Charlotte Observer"
+    excerpt: "The chaotic U.S. withdrawal from Afghanistan may haunt President Joe Biden, but it could also hang over some of the Republicans who will seek to replace him in 2024."
+    publishedDateTime: 2021-08-24T09:00:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article253683123.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article253683123.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article253683123.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/346c4d4c-0ebe-4577-bdbf-21c5f8e914af/554385c1-d5d0-4f0c-9b03-7bab5722a707/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Bush, Obama, Trump, Biden: How four presidents created today's Afghanistan mess"
+    excerpt: "How America spent 20 years in Afghanistan, only to have the Taliban resume control again as its troops withdrew, will be a topic for historians to ponder for decades."
+    publishedDateTime: 2021-08-24T12:30:00Z
+    webUrl: "https://www.stltoday.com/news/national/bush-obama-trump-biden-how-four-presidents-created-todays-afghanistan-mess/article_d141af37-f20c-51e4-afd0-2a84091979f3.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 66
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/14/d141af37-f20c-51e4-afd0-2a84091979f3/6124e09886aaa.preview.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Afghanistan fallout to hang over potential 2024 GOP presidential contenders, as well as Biden"
+    excerpt: "The chaotic U.S. withdrawal from Afghanistan may haunt President Joe Biden, but it could also hang over some of the Republicans who will seek to replace him in 2024."
+    publishedDateTime: 2021-08-24T09:00:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/article253683123.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article253683123.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article253683123.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 64
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/346c4d4c-0ebe-4577-bdbf-21c5f8e914af/554385c1-d5d0-4f0c-9b03-7bab5722a707/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "CIA Chief Secretly Met Taliban Leader as Biden Faces Pressure Over Afghan Evacuation Deadline"
+    excerpt: "Facing growing pressure over his looming deadline to leave Afghanistan, President Joe Biden dispatched his spy chief to meet with the Taliban’s de facto leader"
+    publishedDateTime: 2021-08-24T11:29:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/cia-chief-secretly-met-taliban-leader-as-biden-faces-pressure-over-afghan-evacuation-deadline/3237696/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/cia-chief-secretly-met-taliban-leader-as-biden-faces-pressure-over-afghan-evacuation-deadline/3237696/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/cia-chief-secretly-met-taliban-leader-as-biden-faces-pressure-over-afghan-evacuation-deadline/3237696/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 64
+    images:
+      - url: "https://media.nbcnewyork.com/2021/08/106930482-16293874992021-08-19t153626z_1232404442_rc2f8p93ikuh_rtrmadp_0_afghanistan-conflict-usa-arms.jpeg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Afghanistan: CIA director secretly meets Taliban leader as Joe Biden mulls evacuation deadline"
+    excerpt: "President Joe Biden dispatched William Burns to Kabul on Monday as he considers whether to extend his deadline to pull US troops out of Afghanistan."
+    publishedDateTime: 2021-08-24T13:46:00Z
+    webUrl: "https://news.sky.com/story/afghanistan-cia-director-secretly-meets-taliban-leader-as-joe-biden-mulls-evacuation-deadline-12389454"
+    ampWebUrl: "https://news.sky.com/story/amp/afghanistan-cia-director-secretly-meets-taliban-leader-as-joe-biden-mulls-evacuation-deadline-12389454"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/afghanistan-cia-director-secretly-meets-taliban-leader-as-joe-biden-mulls-evacuation-deadline-12389454"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 63
+    images:
+      - url: "https://e3.365dm.com/21/08/1600x900/skynews-william-burns-abdul-ghani-baradar_5488833.jpg?20210824145349"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "President Joe Biden warns of more attacks as military begins final withdrawal from Afghanistan"
+    excerpt: "On alert for more terrorist attacks, the U.S. military has begun its final withdrawal from Afghanistan in the closing stages of a frantic airlift of Americans, Afghans and others desperate to escape Taliban rule before the evacuation shuts down."
+    publishedDateTime: 2021-08-28T19:20:00Z
+    webUrl: "https://www.oregonlive.com/nation/2021/08/president-joe-biden-warns-of-more-attacks-as-military-begins-final-withdrawal-from-afghanistan.html"
+    ampWebUrl: "https://www.oregonlive.com/nation/2021/08/president-joe-biden-warns-of-more-attacks-as-military-begins-final-withdrawal-from-afghanistan.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/nation/2021/08/president-joe-biden-warns-of-more-attacks-as-military-begins-final-withdrawal-from-afghanistan.html?outputType=amp"
     type: article
     provider:
       name: Oregonian
       domain: oregonlive.com
-    quality: 75
+    quality: 63
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/Q4IXS2A5PBHFTGL4Y5RJDMYPYQ.jpg"
-        width: 512
-        height: 341
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5N7ZX2EKBFCIJFWXPESYKLQSXI.jpeg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Biden is expected to name a former top Obama-era federal prosecutor to lead the Justice Department's criminal division, sources say"
-    excerpt: "Sources tell Insider that Kenneth Polite is expected to be Biden's pick to run the Justice Department office responsible for federal criminal probes."
-    publishedDateTime: 2021-04-12T15:42:00Z
-    webUrl: "https://www.businessinsider.com/doj-criminal-division-kenneth-polite-biden-nominee-justice-department-2021-4"
+  - title: "How Much Trouble Is Biden In?"
+    excerpt: "President Joe Biden delivers remarks on the evacuation of American citizens and their families, as well as vulnerable Afghans, in the East Room of the White House, August 20, 2021. Joe Biden’s approval ratings have dropped to new lows in the latest polls."
+    publishedDateTime: 2021-08-24T09:17:00Z
+    webUrl: "https://prospect.org/politics/how-much-trouble-is-biden-in/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 75
+      name: The American Prospect
+      domain: prospect.org
+    quality: 55
     images:
-      - url: "https://i.insider.com/6073ad1aa451820019b3a79c?width=700"
-        width: 700
-        height: 467
+      - url: "https://prospect.org/downloads/16751/download/Kuttner-Biden%20082421.jpg?cb=0af9480ee9aa7b9788fb68d5ccc444d6&w=1200"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "No, Joe Biden did not have a medical emergency Easter Sunday"
-    excerpt: "Some social media users shared a video clip of what appeared to be reporters running on White House grounds to attend a press conference, but the video was filmed during the Trump administration."
-    publishedDateTime: 2021-04-11T18:02:00Z
-    webUrl: "https://www.al.com/news/2021/04/no-joe-biden-did-not-have-a-medical-emergency-easter-sunday.html"
-    ampWebUrl: "https://www.al.com/news/2021/04/no-joe-biden-did-not-have-a-medical-emergency-easter-sunday.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/04/no-joe-biden-did-not-have-a-medical-emergency-easter-sunday.html?outputType=amp"
+  - title: "Taliban Threatens Biden; Joe Says ‘A Lot Could Still Go Wrong’"
+    excerpt: "As Joe Biden was telling Americans that \"a lot could still go wrong\" with the evacuation of civilians from Afghanistan, the Taliban increased its control over the region. Emboldened Taliban leaders are now threatening the Biden administration,"
+    publishedDateTime: 2021-08-24T12:30:00Z
+    webUrl: "https://www.gopusa.com/taliban-threatens-biden-joe-says-a-lot-could-still-go-wrong/"
     type: article
     provider:
-      name: al.com
-      domain: al.com
-    quality: 75
+      name: GOPUSA
+      domain: gopusa.com
+    quality: 55
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/Q4IXS2A5PBHFTGL4Y5RJDMYPYQ.jpg"
-        width: 512
-        height: 341
+      - url: "https://www.gopusa.com/wp-content/uploads/2021/08/ep397.jpg"
+        width: 680
+        height: 408
         isCached: true
-  - title: "President Joe Biden appoints Erika Moritsugu as AAPI senior liaison"
-    excerpt: "President Joe Biden on Wednesday appointed Erika Moritsugu as deputy assistant to the president and Asian American and Pacific Islander senior liaison."
-    publishedDateTime: 2021-04-15T02:10:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/04/14/Biden-appoints-Erika-Moritsugu-AAPI-senior-liaison/3311618446355/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/04/14/Biden-appoints-Erika-Moritsugu-AAPI-senior-liaison/3311618446355/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/04/14/Biden-appoints-Erika-Moritsugu-AAPI-senior-liaison/3311618446355/"
+  - title: "Joe Biden Should Resign"
+    excerpt: "President Joe Biden keeps appearing on the television screen. He vaguely reminds me of former President Donald Trump with his press conferences on COVID-19, Operation Warp Speed and anything else that popped into his mind."
+    publishedDateTime: 2021-08-26T12:05:00Z
+    webUrl: "https://patriotpost.us/opinion/82246-joe-biden-should-resign-2021-08-26"
+    type: article
+    provider:
+      name: The Patriot Post
+      domain: patriotpost.us
+    quality: 55
+    images:
+      - url: "https://img.patriotpost.us/01FDHPJ6NJX3JM53KNHF491QTE.jpeg?w=1200&h=600"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Seth Meyers doesn’t think Donald Trump should praise the Taliban"
+    excerpt: "On Wednesday’s “Late Night,” Seth Meyers criticized the “right-wing ghouls” who are acting like America’s depressing and chaotic pullout from Afghanistan is entirely President Joe Biden’s fault, and not the cumulative,"
+    publishedDateTime: 2021-08-26T14:58:00Z
+    webUrl: "https://www.imdb.com/news/ni63402919/"
+    type: article
+    provider:
+      name: IMDb
+      domain: imdb.com
+    quality: 55
+    images:
+      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
+        width: 1000
+        height: 1000
+        isCached: true
+  - title: "Biden in the ‘loneliest job,’ a presidency driven by crisis"
+    excerpt: "Surrounded by everything a superpower can offer and watched by all, President Joe Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan and tried to keep the focus on what,"
+    publishedDateTime: 2021-08-28T12:52:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/biden-in-the-loneliest-job-a-presidency-driven-by-crisis/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/biden-in-the-loneliest-job-a-presidency-driven-by-crisis/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/biden-in-the-loneliest-job-a-presidency-driven-by-crisis/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
+  - title: "Will Afghanistan crisis define Biden's presidency?"
+    excerpt: "The Taliban's speedy takeover of Afghanistan and the terrorist attack that killed 13 U.S. service members has scarred Biden and his national security team, affected America's standing in the world, handed a propaganda victory to America's adversaries,"
+    publishedDateTime: 2021-08-28T21:03:00Z
+    webUrl: "https://www.stripes.com/theaters/us/2021-08-28/will-afghanistan-crisis-define-biden-presidency-2699508.html"
+    type: article
+    provider:
+      name: Stars and Stripes
+      domain: stripes.com
+    quality: 55
+    images:
+      - url: "https://www.stripes.com/incoming/qkmfmm-biden-analysis-236403ce-0838-11ec-a266-7c7fe02fa374.jpg/alternates/LANDSCAPE_480/biden-analysis-236403ce-0838-11ec-a266-7c7fe02fa374.jpg"
+        width: 480
+        height: 299
+        isCached: true
+  - title: "Biden aide: US has capacity to evacuate remaining Americans"
+    excerpt: "Top Biden administration officials say the United States has the capacity to evacuate the approximately 300 U.S. citizens remaining in Afghanistan who want to leave before President Joe Biden’s Tuesday deadline."
+    publishedDateTime: 2021-08-30T10:07:00Z
+    webUrl: "https://www.sunherald.com/news/politics-government/national-politics/article253826773.html"
+    ampWebUrl: "https://amp.sunherald.com/news/politics-government/national-politics/article253826773.html"
+    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/politics-government/national-politics/article253826773.html"
+    type: article
+    provider:
+      name: Biloxi Sun Herald
+      domain: sunherald.com
+    quality: 55
+  - title: "Biden’s Leadership Is Failing in More Places Than Afghanistan"
+    excerpt: "Most Americans can clearly agree that what they have been seeing time and again, domestically and overseas, is not good government, despite honorable intentions among many dedicated people."
+    publishedDateTime: 2021-08-29T23:06:00Z
+    webUrl: "https://nationalinterest.org/feature/biden’s-leadership-failing-more-places-afghanistan-192727"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 55
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/Biden%20%282%29_1.jpg"
+        width: 1222
+        height: 815
+        isCached: true
+  - title: "President Joe Biden Departs Holy Trinity Catholic Church"
+    excerpt: "The view of the White House after President Joe Biden arrives back to the White House from Holy Trinity Catholic Church in the Georgetown neighborhood of Washington, DC on Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover,"
+    publishedDateTime: 2021-08-29T22:47:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/5a62ace3eb872bbda6904e721e80e6ba/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
-    quality: 75
+    quality: 55
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/3311618446355/2021/1/16184520956952/v1.5/President-Joe-Biden-appoints-Erika-Moritsugu-as-AAPI-senior-liaison.jpg"
-        width: 800
-        height: 533
+      - url: "https://cdnph.upi.com/pv/upi/5a62ace3eb872bbda6904e721e80e6ba/BIDEN-CHURCH.jpg"
+        width: 650
+        height: 434
         isCached: true
-  - title: "Does your state have the worst bridge in America? Joe Biden wants to know"
-    excerpt: "Think of it as a competition for states to show why their bridge deserves rebuilt based on size, condition, traffic volume or economic significance."
-    publishedDateTime: 2021-04-10T12:00:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/04/10/joe-biden-plan-would-unleash-competition-10-biggest-bridge-fixes/7142869002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/7142869002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7142869002"
+  - title: "Boris Johnson will urge Joe Biden to delay withdrawal of US forces from Afghanistan as thousands try to escape Taliban"
+    excerpt: "BORIS Johnson will urge Joe Biden to delay the withdrawal of US forces from Afghanistan as thousands try to escape the Taliban. Mr Johnson will use a G7 meeting on Tuesday to ask the US"
+    publishedDateTime: 2021-08-23T18:03:00Z
+    webUrl: "https://www.the-sun.com/news/3522018/boris-johnson-joe-biden-afghanistan-withdrawal-taliban/"
+    ampWebUrl: "https://www.the-sun.com/news/3522018/boris-johnson-joe-biden-afghanistan-withdrawal-taliban/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3522018/boris-johnson-joe-biden-afghanistan-withdrawal-taliban/amp/"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 74
+      name: The Sun
+      domain: the-sun.com
+    quality: 51
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/08/USAT/74546629-b6e6-4245-9335-f0bcc8799474-Miami_bridge.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/1859035b-54f8-4f10-990a-2867f9869d12.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "President Joe Biden to nominate Christine Wormuth as first woman secretary of the Army"
-    excerpt: "WASHINGTON — A woman may serve as secretary of the Army in the Department of Defense for the first time. President Joe Biden will tap Christine Wormuth, a former adviser for the Defense Department during former President Barack Obama's terms in office ..."
-    publishedDateTime: 2021-04-13T02:24:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/04/12/joe-biden-nominate-christine-wormuth-first-woman-secretary-army/7196062002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/7196062002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7196062002"
+  - title: "Biden faces pressure to extend Afghanistan evacuation mission as Taliban warns against doing so"
+    excerpt: "The United States faced mounting global pressure on Monday to extend its evacuation mission in Afghanistan past President Joe Biden's Aug. 31 deadline, despite a Taliban warning against doing so. The admonition from Taliban spokesman Suhail Shaheen,"
+    publishedDateTime: 2021-08-24T03:42:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/biden-faces-pressure-to-extend-afghanistan-evacuation-mission-as-taliban-warns-against-doing-so/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/biden-faces-pressure-to-extend-afghanistan-evacuation-mission-as-taliban-warns-against-doing-so/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/biden-faces-pressure-to-extend-afghanistan-evacuation-mission-as-taliban-warns-against-doing-so/?amp=1"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 67
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/13/USAT/217f9850-162d-403f-818d-bd378662f75a-GettyImages-465166476.jpg?auto=webp&crop=6015,3383,x0,y238&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Biden administration budget request includes nearly $25 billion for NASA"
-    excerpt: "President Joe Biden submitted on Friday a $1.5 trillion budget request that includes $24.7 billion for NASA for 2022.The ask is part of the"
-    publishedDateTime: 2021-04-12T17:58:00Z
-    webUrl: "https://www.theday.com/article/20210412/NWS21/210419861"
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 43
+  - title: "Is Joe Biden repeating the mistakes of the past in Afghanistan? Catholic commentators weigh in."
+    excerpt: "The withdrawal of U.S. troops is not an end, but instead represents a new chapter in our entanglement with the Taliban in Afghanistan, agree several experts contacted by America magazine."
+    publishedDateTime: 2021-08-30T20:11:00Z
+    webUrl: "https://www.americamagazine.org/politics-society/2021/08/30/catholic-reaction-biden-afghanistan-speech-241309"
     type: article
     provider:
-      name: The Day
-      domain: theday.com
-    quality: 54
+      name: America Magazine
+      domain: americamagazine.org
+    quality: 43
     images:
-      - url: "https://www.theday.com/Assets/images/facebook/TheDay_Facebook_OG-360px.png"
-        width: 360
-        height: 360
+      - url: "https://www.americamagazine.org/sites/default/files/styles/article_image_750_x_503_/public/main_image/2021/08/30/20210830T1245-USA-BIDEN-1507225.JPG.JPG.png?itok=Jbh-tyUu"
+        width: 750
+        height: 499
         isCached: true
-  - title: "Ron DeSantis polls well thru pandemic despite ’60 Minutes’ story, tops Joe Biden"
-    excerpt: "The '60 Minutes' story might have actually helped the Governor. Floridians have a more favorable view of Gov. Ron DeSantis than they do of President Joe Biden. A recent survey from the ..."
-    publishedDateTime: 2021-04-13T23:35:00Z
-    webUrl: "https://floridapolitics.com/archives/419658-ron-desantis-polls-well-thru-pandemic-despite-60-minutes-story-tops-joe-biden/"
+  - title: "U.S. Supreme Court Requires Biden to Revive Trump-Era 'Remain in Mexico' Immigration Policy"
+    excerpt: "The U.S. Supreme Court on Tuesday denied President Joe Biden's bid to rescind an immigration policy implemented by his predecessor, Donald Trump, that forced thousands of asylum seekers to stay in Mexico awaiting U."
+    publishedDateTime: 2021-08-25T01:55:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-08-24/us-supreme-court-requires-biden-to-revive-trump-era-remain-in-mexico-immigration-policy"
     type: article
     provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 50
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2021/04/DeSantis-3.jpg"
-        width: 1200
-        height: 675
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 40
+  - title: "Biden to withdraw U.S. diplomatic staff from Afghanistan as future relationship with the Taliban remains unclear"
+    excerpt: "The Biden administration will also have to decide whether to formally recognize a Taliban government, a decision that also may take some time and may be a factor in any return, officials said."
+    publishedDateTime: 2021-08-28T23:45:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/biden-to-withdraw-u-s-diplomatic-staff-from-afghanistan-as-future-relationship-with-the-taliban-remains-unclear/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/biden-to-withdraw-u-s-diplomatic-staff-from-afghanistan-as-future-relationship-with-the-taliban-remains-unclear/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/biden-to-withdraw-u-s-diplomatic-staff-from-afghanistan-as-future-relationship-with-the-taliban-remains-unclear/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 34
 
 secured: "NF04JtWbCGJqQBjklOs9YiMwnoZmUmI7vJcmef1JMR4iv6YFuyaijzvw2L21ogdjlZwJpEhnIt1sXYx4Zdovd2qk3oWvuWbWLP5Nuk26/pw119BkJf/H00iSKmIdJ2qXhpukfIqocHznlhKCFk6fN7K/8Pnb77HFRfT7xfl3up6q1cSsoTZx/esYCIp67vEntxva7GmAnhAPsD3hNC1VSFwAR1YfQ5u0MIDS9+ZlVIzYe7HBxJWdWCk1HTFYCyKKyZhUPA8tthHJzaTcw3sKyx0W8BE9FUaV4AHGaBQkkpSev13RFJk9j1i8SzDHzpP6w+VrrQk7LVRZyjfuaUMUl+J2uZmvWh73ud3WS1ewHtY=;NVe/a4YbXAj3C9zPXOpRsA=="
 ---

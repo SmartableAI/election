@@ -785,21 +785,21 @@ related:
         width: 356
         height: 352
         isCached: true
-  - title: "Calls for Kamala Harris to be impeached ‘for not visiting Afghanistan’ as it’s said VP and Biden ‘are complicit in this’"
-    excerpt: "CALLS for Kamala Harris’ impeachment “for not visiting Afghanistan” grow as the US continues to remove citizens from the Taliban-controlled capital.  On Monday, Georgia Representative Marjorie"
-    publishedDateTime: 2021-08-24T14:16:00Z
-    webUrl: "https://www.the-sun.com/news/3531832/kamala-harris-impeached-not-visiting-afghanistan/"
-    ampWebUrl: "https://www.the-sun.com/news/3531832/kamala-harris-impeached-not-visiting-afghanistan/amp/"
-    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3531832/kamala-harris-impeached-not-visiting-afghanistan/amp/"
+  - title: "Kamala Harris in 2019: I Will Protect the Women of Afghanistan and Keep Terrorists Out"
+    excerpt: "Kamala Harris, to the Council on Foreign Relations, August 21, 2019: Nobody can predict what President Trump will do between now and 2021, so as soon as I take office, I will bring together our military leaders, national security advisers, and top ..."
+    publishedDateTime: 2021-08-20T19:08:00Z
+    webUrl: "https://www.nationalreview.com/corner/kamala-harris-in-2019-i-will-protect-the-women-of-afghanistan-and-keep-terrorists-out/"
+    ampWebUrl: "https://www.nationalreview.com/corner/kamala-harris-in-2019-i-will-protect-the-women-of-afghanistan-and-keep-terrorists-out/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/kamala-harris-in-2019-i-will-protect-the-women-of-afghanistan-and-keep-terrorists-out/amp/"
     type: article
     provider:
-      name: The Sun
-      domain: the-sun.com
-    quality: 65
+      name: National Review
+      domain: nationalreview.com
+    quality: 67
     images:
-      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/lv-comp-kamala-harris-impeached-Afghanistan.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
+      - url: "https://www.nationalreview.com/wp-content/uploads/2021/08/kamala-harris.jpg?fit=2057%2C1200"
+        width: 2057
+        height: 1200
         isCached: true
   - title: "‘Find your courage’: GOP lawmaker urges Kamala Harris to invoke 25th Amendment, seize power"
     excerpt: "A Republican House member wrote a letter Thursday to Vice President Kamala Harris, asking that she seize power under the 25th Amendment."

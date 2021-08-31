@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Lindsey Graham repeats impeachment call for former friend Joe Biden"
-    excerpt: "Republican accuses president, who reportedly rebuffed his attempt to explain support for Trump, of ignoring advice on Afghanistan"
-    publishedDateTime: 2021-08-29T16:38:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/aug/29/lindsey-graham-impeachment-call-joe-biden-afghanistan"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/29/lindsey-graham-impeachment-call-joe-biden-afghanistan"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/29/lindsey-graham-impeachment-call-joe-biden-afghanistan"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/c179f21a5b99ff34b46423da1d81ad5fdc95e9d5/0_400_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=257ba2b47f7c59f920a4f825abf8d840"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Australia’s Recession Is As Much A Problem For Biden As Sydney"
     excerpt: "Australia’s sizable and open economy is often the closest thing the U.S. has to an early warning system, and experts are now warning that the country down under is sliding back into recession."
     publishedDateTime: 2021-08-30T08:40:00Z
@@ -54,22 +38,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612c7e3d4264343d3146dd8c%2F0x0.jpg"
         width: 1200
         height: 776
-        isCached: true
-  - title: "Former Ohio lawmaker with doubts about Joe Biden's win wants to run Ohio elections"
-    excerpt: "Former state lawmaker John Adams announced he is challenging incumbent Frank LaRose for Ohio Secretary of State in the GOP primary next year."
-    publishedDateTime: 2021-08-23T16:44:00Z
-    webUrl: "https://www.cincinnati.com/story/news/2021/08/23/gop-primary-john-adams-running-against-ohio-secretary-state-larose/8242596002/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/8242596002"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/8242596002"
-    type: article
-    provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 84
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/08/04/NCOD/5d5586f1-aa5b-4b35-8297-a63caa3f4baf-IMG_Mid_Day_Voting_Photo_1_1_CQTQHED8_L1677394643.JPG?auto=webp&crop=1999,1125,x0,y101&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Joe Biden praises WNBA champs for social justice activism"
     excerpt: "The visit marked the first time that an NBA or WNBA team has visited the White House since the Cleveland Cavaliers were feted by Barack Obama in 2016."
@@ -87,53 +55,21 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Joe Biden in the ‘Loneliest Job,' a Presidency Driven by Crisis"
-    excerpt: "Surrounded by everything a superpower can offer and watched by all, President Joe Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan and tried to keep the focus on what,"
-    publishedDateTime: 2021-08-28T22:12:00Z
-    webUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
+  - title: "Biden in the ‘loneliest job,’ a presidency driven by crisis"
+    excerpt: "President Joe Biden listens as he meets with Israeli Prime Minister Naftali Bennett in the Oval Office of the White House in Washington. T"
+    publishedDateTime: 2021-08-28T19:50:00Z
+    webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-28/biden-in-the-loneliest-job-a-presidency-driven-by-crisis"
+    ampWebUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-28/biden-in-the-loneliest-job-a-presidency-driven-by-crisis?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2021-08-28/biden-in-the-loneliest-job-a-presidency-driven-by-crisis?_amp=true"
     type: article
     provider:
-      name: NBC New York
-      domain: nbcnewyork.com
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
     quality: 75
     images:
-      - url: "https://media.nbcnewyork.com/2021/08/GettyImages-1234886272.jpg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Senior Living: Biden’s no-jab-no-job order creates quandary for nursing homes"
-    excerpt: "Although 83% of residents in the average nursing facility are vaccinated, only 61% of a home’s workers are likely to be, according to data submitted by homes and published by the Centers for"
-    publishedDateTime: 2021-08-30T13:00:00Z
-    webUrl: "https://www.dailynews.com/2021/08/30/senior-living-bidens-no-jab-no-job-order-creates-quandary-for-nursing-homes/"
-    ampWebUrl: "https://www.dailynews.com/2021/08/30/senior-living-bidens-no-jab-no-job-order-creates-quandary-for-nursing-homes/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/08/30/senior-living-bidens-no-jab-no-job-order-creates-quandary-for-nursing-homes/amp/"
-    type: article
-    provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 72
-    images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2021/08/SeniorLivingBeach-4.jpg?w=1000&#038;h=586"
-        width: 1000
-        height: 586
-        isCached: true
-  - title: "Joe Biden FORGETS Megan Rapinoe's name, slammed for calling her 'America's best'"
-    excerpt: "Joe Biden's recent praise for Megan Rapinoe accompanied an awkward fumbling as the president forgot her last name"
-    publishedDateTime: 2021-08-25T10:30:00Z
-    webUrl: "https://meaww.com/joe-biden-forget-megan-rapinoe-name-represent-america-best-internet-furious-losers-reactions"
-    ampWebUrl: "https://meaww.com/amp/joe-biden-forget-megan-rapinoe-name-represent-america-best-internet-furious-losers-reactions"
-    cdnAmpWebUrl: "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/joe-biden-forget-megan-rapinoe-name-represent-america-best-internet-furious-losers-reactions"
-    type: article
-    provider:
-      name: Meaww
-      domain: meaww.com
-    quality: 70
-    images:
-      - url: "https://cheesecake.articleassets.meaww.com/546311/uploads/18a4f6a0-058b-11ec-bd95-db89c1205176_800_420.png"
-        width: 800
-        height: 420
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/e2d51e4/2147483647/strip/true/crop/3988x2667+6+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F36%2F6c%2F793147b24a6c25fa1dbc5862839a%2Fdfd574e0c358447194470e99983982e0"
+        width: 320
+        height: 214
         isCached: true
   - title: "Biden praises WNBA champs for social justice activism"
     excerpt: "President Joe Biden honored the 2020 WNBA champions Seattle Storm on Monday, celebrating their success on the court and hailing the four-time title holders for changing lives with"
@@ -149,20 +85,6 @@ related:
         width: 400
         height: 211
         isCached: true
-  - title: "Republicans point fingers at Biden moments after Kabul blasts"
-    excerpt: "By Melanie Zanona, Jeremy Herb and Alex Rogers, CNN Republicans in Congress quickly escalated their criticism of President Joe Biden’s withdrawal of US troops from Afghanistan after two explosions outside Kabul’s airport on Thursday caused the first American casualties since the mass evacuation began."
-    publishedDateTime: 2021-08-26T23:40:00Z
-    webUrl: "https://localnews8.com/politics/cnn-us-politics/2021/08/26/house-republicans-point-fingers-at-biden-moments-after-kabul-blasts/"
-    type: article
-    provider:
-      name: Local News 8
-      domain: localnews8.com
-    quality: 55
-    images:
-      - url: "https://localnews8.b-cdn.net/2021/06/Politics-logo-new_KIFIMIFI.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Ashley Moody demands border control assurance from Joe Biden"
     excerpt: "Attorney General Ashley Moody was among 20 Republican AGs signing on to a letter demanding federal assurances of tighter immigration policy. The letter to U.S. Attorney General Merrick Garland followed a favorable ruling in the U."
     publishedDateTime: 2021-08-27T17:04:00Z
@@ -177,31 +99,6 @@ related:
         width: 2560
         height: 1920
         isCached: true
-  - title: "Biden in the ‘loneliest job,’ a presidency driven by crisis"
-    excerpt: "Surrounded by everything a superpower can offer and watched by all, President Joe Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan and tried to keep the focus on what,"
-    publishedDateTime: 2021-08-28T12:52:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/biden-in-the-loneliest-job-a-presidency-driven-by-crisis/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/biden-in-the-loneliest-job-a-presidency-driven-by-crisis/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/biden-in-the-loneliest-job-a-presidency-driven-by-crisis/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 55
-  - title: "Greg Steube calls for Joe Biden resignation after reported Marine deaths"
-    excerpt: "Greg Steube called for President Joe Biden’s resignation after the reported death of four Marines in Kabul. “Horrific,” Steube tweeted. “Joe Biden needs to take"
-    publishedDateTime: 2021-08-26T18:13:00Z
-    webUrl: "https://floridapolitics.com/archives/453349-greg-steube-calls-for-joe-biden-resignation-following-reported-marine-deaths/"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 54
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2021/06/Steube.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "For Biden’s presidency has been driven by crisis and is the ‘loneliest job’"
     excerpt: "President Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan, even as he and the nation continued to battle the COVID-19 pandemic."
     publishedDateTime: 2021-08-28T13:24:00Z
@@ -213,20 +110,6 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 53
-  - title: "Greg Steube calls for Joe Biden resignation following reported Marine deaths"
-    excerpt: "Greg Steube called for President Joe Biden’s resignation after the reported death of four Marines in Kabul. “Horrific,” Steube tweeted. “Joe Biden needs to take"
-    publishedDateTime: 2021-08-26T18:13:00Z
-    webUrl: "https://floridapolitics.com/archives/453349-greg-steube-calls-for-joe-biden-resignation-following-reported-marine-deaths/"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 52
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2021/06/Steube.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "hD27v5Yq7WE2spNI3f4s3LPMtKTF7K/y+zv5aTU/luDRW7znBaW+zU+WCNiZtpz4DIwlpn2b1dJ9C+/5+H4v0sRZmiRF+7Ggg6GL8ll2J7j6iekwPR12FKsOILLgo8VwULLcXf+TzQMcZgtwLegqkhiDGwFXGxmQJGuLV7uSlvbl/zk5lDI7tMMvpWukNpGztaN5p7LibLLTQai72BlrKh2Nk52xn7OqtcNZwInFAIUlO1WuPFp6tEqhv56S1QAgx/efwNuJYmTDqs8ZQzV8OTnu1v7MLf3AvU6nRyiRWS1Mo41u1NkgEXylBb5zVQAXneCk5jiEU4bucrw9ZaebChS3Ki/Wev1vfVsu77CvL2g=;K5zTrgaAmbIuvoNu+XFA4A=="
 ---

@@ -275,6 +275,20 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "Kamala Harris defends decision to withdraw from Afghanistan"
+    excerpt: "The recent chaos that occurred in Afghanistans capital of Kabul comes in the heels of the insurgent group Talibans advancing and overthrowing of the Afghan government. As US President Joe Biden and his administration"
+    publishedDateTime: 2021-08-18T08:40:00Z
+    webUrl: "https://www.econotimes.com/Kamala-Harris-defends-decision-to-withdraw-from-Afghanistan-1615288"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 55
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/202108184e0297f5d44477942_th_1024x0.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Kamala Harris' visit to Southeast Asia to improve ties in the region"
     excerpt: "This coming week would be US Vice President Kamala Harriss visits to Vietnam and Singapore as her second overseas engagement as vice president. Experts believe that her upcoming visits to the Southeast Asian region"
     publishedDateTime: 2021-08-19T09:03:00Z

@@ -31,366 +31,487 @@ images:
     isCached: true
 
 related:
-  - title: "How to Watch, Live Stream Joe Biden's Speech After Attack at Kabul Airport"
-    excerpt: "The speech will be streamed live on the White House's Youtube page. Press secretary Jen Psaki will also brief reporters following Biden's speech at 5:45 p.m. Eastern Time. Two explosions occurred Thursday near the Hamid Karzai International Airport in Kabul,"
-    publishedDateTime: 2021-08-26T18:41:00Z
-    webUrl: "https://www.newsweek.com/how-watch-live-stream-joe-bidens-speech-after-explosions-kabul-airport-1623378"
-    ampWebUrl: "https://www.newsweek.com/how-watch-live-stream-joe-bidens-speech-after-explosions-kabul-airport-1623378?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-watch-live-stream-joe-bidens-speech-after-explosions-kabul-airport-1623378?amp=1"
+  - title: "'Death Sentence': Donald Trump Insists Biden Gave Taliban 'Kill List' Despite Blinken Denial"
+    excerpt: "Republican former President Donald Trump has said that the administration of Democratic President Joe Biden has handed down a \"death sentence\" by giving the Taliban a list of all Americans and U.S. allies who remain in Afghanistan."
+    publishedDateTime: 2021-08-31T01:34:00Z
+    webUrl: "https://www.newsweek.com/death-sentence-donald-trump-insists-biden-gave-taliban-kill-list-despite-blinken-denial-1624395"
+    ampWebUrl: "https://www.newsweek.com/death-sentence-donald-trump-insists-biden-gave-taliban-kill-list-despite-blinken-denial-1624395?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/death-sentence-donald-trump-insists-biden-gave-taliban-kill-list-despite-blinken-denial-1624395?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 123
+    quality: 139
     images:
-      - url: "https://d.newsweek.com/en/full/1880784/live-stream-joe-bidens-speech-after-explosion.jpg"
+      - url: "https://d.newsweek.com/en/full/1883318/trump-afghanistan-taliban-list-death-sentence.jpg"
         width: 2500
         height: 1667
         isCached: true
-  - title: "Joe Biden says new Kabul terror attack highly likely in next 24 to 36 hours"
-    excerpt: "President vows that drone strike on Islamic State will not be last as Taliban says it will announce Afghan cabinet soon"
-    publishedDateTime: 2021-08-28T19:09:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/aug/28/joe-biden-kabul-terror-attack-warning-drone-strike-afghanistan"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/28/joe-biden-kabul-terror-attack-warning-drone-strike-afghanistan"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/28/joe-biden-kabul-terror-attack-warning-drone-strike-afghanistan"
+  - title: "Trump claims Biden's Afghanistan evacuation could be bringing 'terrorists' to America"
+    excerpt: "In an August 25 statement, Trump asked people to imagine \"how many terrorists\" were \"airlifted out of Afghanistan\" and into neighborhoods worldwide."
+    publishedDateTime: 2021-08-25T05:54:00Z
+    webUrl: "https://www.businessinsider.com/trump-claims-biden-bringing-afghan-terrorists-to-the-us-2021-8"
+    ampWebUrl: "https://www.businessinsider.com/trump-claims-biden-bringing-afghan-terrorists-to-the-us-2021-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-biden-bringing-afghan-terrorists-to-the-us-2021-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 133
+    images:
+      - url: "https://i.insider.com/6125bffe493203001845c0bf?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "As U.S. Leaves Afghanistan, How Biden's 7-Month Approval Rating Stacks Up Against Trump's"
+    excerpt: "President Joe Biden lost his majority approval rating as Americans left Afghanistan, giving rise to the Taliban's takeover of the country."
+    publishedDateTime: 2021-08-30T20:27:00Z
+    webUrl: "https://www.newsweek.com/us-leaves-afghanistan-how-bidens-7-month-approval-rating-stacks-against-trumps-1624347"
+    ampWebUrl: "https://www.newsweek.com/us-leaves-afghanistan-how-bidens-7-month-approval-rating-stacks-against-trumps-1624347?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/us-leaves-afghanistan-how-bidens-7-month-approval-rating-stacks-against-trumps-1624347?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 131
+    images:
+      - url: "https://d.newsweek.com/en/full/1883234/joe-biden-approval-donald-trump-afghanistan.jpg"
+        width: 2500
+        height: 1875
+        isCached: true
+  - title: "Donald Trump Gave Joe Biden 'Hospital Pass' on Afghanistan, Says Tony Blair's Defense Secretary"
+    excerpt: "As Tony Blair criticizes Joe Biden's withdrawal of U.S. troops from Afghanistan, his former U.K. defense secretary Geoff Hoon defended the American president."
+    publishedDateTime: 2021-08-23T11:36:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-gave-joe-biden-hospital-pass-afghanistan-tony-blair-defense-secretary-1621971"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-gave-joe-biden-hospital-pass-afghanistan-tony-blair-defense-secretary-1621971?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-gave-joe-biden-hospital-pass-afghanistan-tony-blair-defense-secretary-1621971?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 128
+    images:
+      - url: "https://d.newsweek.com/en/full/1877338/us-troops-kabul-airport-afghanistan-evacuation.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Joe Biden’s potential Jimmy Carter moment"
+    excerpt: "In Joe Biden’s remarks following the Kabul terrorist attack on Thursday, he concluded: “Ladies and gentlemen, after 20 years it was time to end a 20-year war.” The moment was horribly circular. America went into Afghanistan in 2001 to drive out the terrorists."
+    publishedDateTime: 2021-08-27T00:07:00Z
+    webUrl: "https://www.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb"
+    ampWebUrl: "https://amp.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 125
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6087e8e5-ad77-46e6-a635-ea4f4d045dc9.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
+  - title: "Lindsey Graham repeats impeachment call for former friend Joe Biden"
+    excerpt: "Republican accuses president, who reportedly rebuffed his attempt to explain support for Trump, of ignoring advice on Afghanistan"
+    publishedDateTime: 2021-08-29T16:38:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/aug/29/lindsey-graham-impeachment-call-joe-biden-afghanistan"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/29/lindsey-graham-impeachment-call-joe-biden-afghanistan"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/29/lindsey-graham-impeachment-call-joe-biden-afghanistan"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 123
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/3ccde2c3b813e262b226c9371725324099e79e89/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=77f02a24c43aeb4174705dceab09dc1b"
+      - url: "https://i.guim.co.uk/img/media/c179f21a5b99ff34b46423da1d81ad5fdc95e9d5/0_400_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=257ba2b47f7c59f920a4f825abf8d840"
         width: 600
         height: 360
         isCached: true
-  - title: "Afghanistan live updates: Biden says another Kabul airport attack 'highly likely'; Pentagon says strike killed two in ISIS-K"
-    excerpt: "The Pentagon said a Friday airstrike killed two and wounded one ISIS-K planners and facilitators. The mission came a day after a Kabul airport bombing."
-    publishedDateTime: 2021-08-28T23:12:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/08/28/afghanistan-updates-us-drone-strike-isis-k-three-days-deadline/5629189001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5629189001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5629189001"
+  - title: "'When I was President...': Donald Trump on Taliban, Joe Biden, Afghanistan"
+    excerpt: "Former US President Donald Trump hit out at his successor over the messy exit from Afghanistan which has led to Taliban taking over most of the country, and an evacuation crisis breaking out. Trump said that Joe Biden had gone on vacation as Afghanistan was going to hell."
+    publishedDateTime: 2021-08-23T16:57:00Z
+    webUrl: "https://www.hindustantimes.com/videos/world-news/when-i-was-president-donald-trump-on-taliban-joe-biden-afghanistan-101629737383021.html"
+    ampWebUrl: "https://www.hindustantimes.com/videos/world-news/when-i-was-president-donald-trump-on-taliban-joe-biden-afghanistan-101629737383021-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/videos/world-news/when-i-was-president-donald-trump-on-taliban-joe-biden-afghanistan-101629737383021-amp.html"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 98
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 88
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/08/27/USAT/d5370f8c-b8ef-4884-a26a-5837044ed2c1-AP_Afghanistan_1.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
+      - url: "https://images.hindustantimes.com/img/2021/08/23/1600x900/HT_Normal_Thumbnail_-_AUG__2021_1629737552559_1629737630771.png"
+        width: 1600
+        height: 899
+        isCached: true
+  - title: "Former Trump adviser: Biden needs to fire top Taliban negotiator Khalilzad"
+    excerpt: "Lt. Gen. H.R. McMaster, Donald Trump’s former national security adviser, is laying some of the blame for the current chaos in Afghanistan squarely at the feet of Ambassador Zalmay Khalilzad, the Afghan-American diplomat who has been the point man for talks with the Taliban in both Republican and Democratic administrations."
+    publishedDateTime: 2021-08-24T17:42:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/aug/24/former-trump-adviser-biden-needs-fire-top-taliban-/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/24/former-trump-adviser-biden-needs-fire-top-taliban-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/24/former-trump-adviser-biden-needs-fire-top-taliban-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 88
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2018/07/11/books-mcmaster_42215_c0-176-4205-2628_s1200x700.jpg?fc7050ca65b373159166adfd97568bd9321a7b9d"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "'100% chance' Trump will run for President in 2024 and wallop Joe Biden, says Republican"
+    excerpt: "THERE is a \"100 percent\" chance that Donald Trump will run for US President in 2024, according to a Republican state representative from Florida."
+    publishedDateTime: 2021-08-29T23:01:00Z
+    webUrl: "https://www.express.co.uk/news/world/1483580/donald-trump-2024-republicans-ex-potus-anthony-sabatini-white-house-desantis-world-ont"
+    ampWebUrl: "https://www.express.co.uk/news/world/1483580/donald-trump-2024-republicans-ex-potus-anthony-sabatini-white-house-desantis-world-ont/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/world/1483580/donald-trump-2024-republicans-ex-potus-anthony-sabatini-white-house-desantis-world-ont/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 81
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/78/590x/Donald-Trump-1483580.jpg?r=1630271885638"
+        width: 590
+        height: 350
+        isCached: true
+  - title: "Joe Biden's terrible August just got worse"
+    excerpt: "It doesn't bode well for Joe Biden's presidency. The case for withdrawing American troops from Afghanistan is strong. The rapid collapse of Afghan military forces and its elected government in the face of a Taliban offensive this summer has demonstrated just how little we've done to create a strong and resilient system in the country over the past 20 years."
+    publishedDateTime: 2021-08-26T16:58:00Z
+    webUrl: "https://theweek.com/joe-biden/1004184/the-political-consequences-of-the-kabul-airport-attack"
+    ampWebUrl: "https://theweek.com/joe-biden/1004184/the-political-consequences-of-the-kabul-airport-attack?amp"
+    cdnAmpWebUrl: "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/joe-biden/1004184/the-political-consequences-of-the-kabul-airport-attack?amp"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 75
+    images:
+      - url: "https://mediacloud.theweek.com/image/upload/f_auto,t_primary-image-mobile@1/v1629996718/biden%20airport%20damon.jpg"
+        width: 375
+        height: 211
+        isCached: true
+  - title: "Joe Biden in the ‘Loneliest Job,' a Presidency Driven by Crisis"
+    excerpt: "Surrounded by everything a superpower can offer and watched by all, President Joe Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan and tried to keep the focus on what,"
+    publishedDateTime: 2021-08-29T01:54:00Z
+    webUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
+    ampWebUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 75
+    images:
+      - url: "https://media.nbcnewyork.com/2021/08/GettyImages-1234886272.jpg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden pledges to Americans in Kabul: 'We will get you home'"
-    excerpt: "President Joe Biden is pledging to Americans still trapped in Afghanistan: “We will get you home.” Biden also said Friday the United States is committed to evacuating all Afghans who assisted the war effort — a potentially vast expansion of the administration's commitments on the airlift so far,"
-    publishedDateTime: 2021-08-20T23:57:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/article/US-struggles-to-speed-Kabul-airlift-despite-16399637.php"
-    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/US-struggles-to-speed-Kabul-airlift-despite-16399637.php"
-    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/US-struggles-to-speed-Kabul-airlift-despite-16399637.php"
+  - title: "Ensure that Taliban do not destabilise Pakistan: US lawmakers to Joe Biden"
+    excerpt: "A group of US lawmakers has urged President Joe Biden to ensure that the Taliban, which is now the de facto ruler of Afghanistan, do not destabilise Pakistan and acquire nuclear weapons"
+    publishedDateTime: 2021-08-26T23:13:00Z
+    webUrl: "https://www.thehansindia.com/news/international/ensure-that-taliban-do-not-destabilise-pakistan-us-lawmakers-to-joe-biden-703501"
+    ampWebUrl: "https://www.thehansindia.com/amp/news/international/ensure-that-taliban-do-not-destabilise-pakistan-us-lawmakers-to-joe-biden-703501"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/international/ensure-that-taliban-do-not-destabilise-pakistan-us-lawmakers-to-joe-biden-703501"
     type: article
     provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 75
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 73
     images:
-      - url: "https://s.hdnux.com/photos/01/21/42/55/21375845/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
+      - url: "https://assets.thehansindia.com/h-upload/2021/08/23/1103644-biden.jpg"
+        width: 1000
+        height: 600
         isCached: true
-  - title: "The Latest: Biden told another Kabul terror attack 'likely'"
-    excerpt: "President Joe Biden’s national security team has told the president that another terror attack is “likely” in Kabul, and that “maximum force protection” measures are being taken at the airport in the Afghan capital."
-    publishedDateTime: 2021-08-27T21:47:00Z
-    webUrl: "https://www.nhregister.com/news/article/The-Latest-Pakistan-asks-hotels-to-prepare-for-16415532.php"
-    ampWebUrl: "https://www.nhregister.com/news/amp/The-Latest-Pakistan-asks-hotels-to-prepare-for-16415532.php"
-    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/The-Latest-Pakistan-asks-hotels-to-prepare-for-16415532.php"
+  - title: "Trump’s Taliban deal complicates message for GOP contenders | Charlotte Observer"
+    excerpt: "The chaotic U.S. withdrawal from Afghanistan may haunt President Joe Biden, but it could also hang over some of the Republicans who will seek to replace him in 2024."
+    publishedDateTime: 2021-08-24T09:00:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article253683123.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article253683123.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article253683123.html"
     type: article
     provider:
-      name: New Haven Register
-      domain: nhregister.com
-    quality: 75
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 70
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/346c4d4c-0ebe-4577-bdbf-21c5f8e914af/554385c1-d5d0-4f0c-9b03-7bab5722a707/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Biden attends dignified transfer of 13 service members killed in Kabul"
-    excerpt: "President Joe Biden traveled to Dover Air Force Base in Delaware on Sunday to attend the dignified transfer of the American service members killed in a pair of explosions near Hamid Karzai International Airport in Kabul."
-    publishedDateTime: 2021-08-29T22:51:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/08/29/Biden-attends-diginified-transfer-13-service-members-killed-Kabul/3171630273282/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/08/29/Biden-attends-diginified-transfer-13-service-members-killed-Kabul/3171630273282/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/29/Biden-attends-diginified-transfer-13-service-members-killed-Kabul/3171630273282/"
+  - title: "Bush, Obama, Trump, Biden: How four presidents created today's Afghanistan mess"
+    excerpt: "How America spent 20 years in Afghanistan, only to have the Taliban resume control again as its troops withdrew, will be a topic for historians to ponder for decades."
+    publishedDateTime: 2021-08-24T12:30:00Z
+    webUrl: "https://www.stltoday.com/news/national/bush-obama-trump-biden-how-four-presidents-created-todays-afghanistan-mess/article_d141af37-f20c-51e4-afd0-2a84091979f3.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 66
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/14/d141af37-f20c-51e4-afd0-2a84091979f3/6124e09886aaa.preview.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Afghanistan fallout to hang over potential 2024 GOP presidential contenders, as well as Biden"
+    excerpt: "The chaotic U.S. withdrawal from Afghanistan may haunt President Joe Biden, but it could also hang over some of the Republicans who will seek to replace him in 2024."
+    publishedDateTime: 2021-08-24T09:00:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/article253683123.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article253683123.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article253683123.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 64
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/346c4d4c-0ebe-4577-bdbf-21c5f8e914af/554385c1-d5d0-4f0c-9b03-7bab5722a707/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "CIA Chief Secretly Met Taliban Leader as Biden Faces Pressure Over Afghan Evacuation Deadline"
+    excerpt: "Facing growing pressure over his looming deadline to leave Afghanistan, President Joe Biden dispatched his spy chief to meet with the Taliban’s de facto leader"
+    publishedDateTime: 2021-08-24T11:29:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/cia-chief-secretly-met-taliban-leader-as-biden-faces-pressure-over-afghan-evacuation-deadline/3237696/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/cia-chief-secretly-met-taliban-leader-as-biden-faces-pressure-over-afghan-evacuation-deadline/3237696/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/cia-chief-secretly-met-taliban-leader-as-biden-faces-pressure-over-afghan-evacuation-deadline/3237696/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 64
+    images:
+      - url: "https://media.nbcnewyork.com/2021/08/106930482-16293874992021-08-19t153626z_1232404442_rc2f8p93ikuh_rtrmadp_0_afghanistan-conflict-usa-arms.jpeg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Afghanistan: CIA director secretly meets Taliban leader as Joe Biden mulls evacuation deadline"
+    excerpt: "President Joe Biden dispatched William Burns to Kabul on Monday as he considers whether to extend his deadline to pull US troops out of Afghanistan."
+    publishedDateTime: 2021-08-24T13:46:00Z
+    webUrl: "https://news.sky.com/story/afghanistan-cia-director-secretly-meets-taliban-leader-as-joe-biden-mulls-evacuation-deadline-12389454"
+    ampWebUrl: "https://news.sky.com/story/amp/afghanistan-cia-director-secretly-meets-taliban-leader-as-joe-biden-mulls-evacuation-deadline-12389454"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/afghanistan-cia-director-secretly-meets-taliban-leader-as-joe-biden-mulls-evacuation-deadline-12389454"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 63
+    images:
+      - url: "https://e3.365dm.com/21/08/1600x900/skynews-william-burns-abdul-ghani-baradar_5488833.jpg?20210824145349"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "President Joe Biden warns of more attacks as military begins final withdrawal from Afghanistan"
+    excerpt: "On alert for more terrorist attacks, the U.S. military has begun its final withdrawal from Afghanistan in the closing stages of a frantic airlift of Americans, Afghans and others desperate to escape Taliban rule before the evacuation shuts down."
+    publishedDateTime: 2021-08-28T19:20:00Z
+    webUrl: "https://www.oregonlive.com/nation/2021/08/president-joe-biden-warns-of-more-attacks-as-military-begins-final-withdrawal-from-afghanistan.html"
+    ampWebUrl: "https://www.oregonlive.com/nation/2021/08/president-joe-biden-warns-of-more-attacks-as-military-begins-final-withdrawal-from-afghanistan.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/nation/2021/08/president-joe-biden-warns-of-more-attacks-as-military-begins-final-withdrawal-from-afghanistan.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 63
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5N7ZX2EKBFCIJFWXPESYKLQSXI.jpeg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "How Much Trouble Is Biden In?"
+    excerpt: "President Joe Biden delivers remarks on the evacuation of American citizens and their families, as well as vulnerable Afghans, in the East Room of the White House, August 20, 2021. Joe Biden’s approval ratings have dropped to new lows in the latest polls."
+    publishedDateTime: 2021-08-24T09:17:00Z
+    webUrl: "https://prospect.org/politics/how-much-trouble-is-biden-in/"
+    type: article
+    provider:
+      name: The American Prospect
+      domain: prospect.org
+    quality: 55
+    images:
+      - url: "https://prospect.org/downloads/16751/download/Kuttner-Biden%20082421.jpg?cb=0af9480ee9aa7b9788fb68d5ccc444d6&w=1200"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Taliban Threatens Biden; Joe Says ‘A Lot Could Still Go Wrong’"
+    excerpt: "As Joe Biden was telling Americans that \"a lot could still go wrong\" with the evacuation of civilians from Afghanistan, the Taliban increased its control over the region. Emboldened Taliban leaders are now threatening the Biden administration,"
+    publishedDateTime: 2021-08-24T12:30:00Z
+    webUrl: "https://www.gopusa.com/taliban-threatens-biden-joe-says-a-lot-could-still-go-wrong/"
+    type: article
+    provider:
+      name: GOPUSA
+      domain: gopusa.com
+    quality: 55
+    images:
+      - url: "https://www.gopusa.com/wp-content/uploads/2021/08/ep397.jpg"
+        width: 680
+        height: 408
+        isCached: true
+  - title: "Joe Biden Should Resign"
+    excerpt: "President Joe Biden keeps appearing on the television screen. He vaguely reminds me of former President Donald Trump with his press conferences on COVID-19, Operation Warp Speed and anything else that popped into his mind."
+    publishedDateTime: 2021-08-26T12:05:00Z
+    webUrl: "https://patriotpost.us/opinion/82246-joe-biden-should-resign-2021-08-26"
+    type: article
+    provider:
+      name: The Patriot Post
+      domain: patriotpost.us
+    quality: 55
+    images:
+      - url: "https://img.patriotpost.us/01FDHPJ6NJX3JM53KNHF491QTE.jpeg?w=1200&h=600"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Seth Meyers doesn’t think Donald Trump should praise the Taliban"
+    excerpt: "On Wednesday’s “Late Night,” Seth Meyers criticized the “right-wing ghouls” who are acting like America’s depressing and chaotic pullout from Afghanistan is entirely President Joe Biden’s fault, and not the cumulative,"
+    publishedDateTime: 2021-08-26T14:58:00Z
+    webUrl: "https://www.imdb.com/news/ni63402919/"
+    type: article
+    provider:
+      name: IMDb
+      domain: imdb.com
+    quality: 55
+    images:
+      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
+        width: 1000
+        height: 1000
+        isCached: true
+  - title: "Biden in the ‘loneliest job,’ a presidency driven by crisis"
+    excerpt: "Surrounded by everything a superpower can offer and watched by all, President Joe Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan and tried to keep the focus on what,"
+    publishedDateTime: 2021-08-28T12:52:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/biden-in-the-loneliest-job-a-presidency-driven-by-crisis/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/biden-in-the-loneliest-job-a-presidency-driven-by-crisis/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/biden-in-the-loneliest-job-a-presidency-driven-by-crisis/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
+  - title: "Will Afghanistan crisis define Biden's presidency?"
+    excerpt: "The Taliban's speedy takeover of Afghanistan and the terrorist attack that killed 13 U.S. service members has scarred Biden and his national security team, affected America's standing in the world, handed a propaganda victory to America's adversaries,"
+    publishedDateTime: 2021-08-28T21:03:00Z
+    webUrl: "https://www.stripes.com/theaters/us/2021-08-28/will-afghanistan-crisis-define-biden-presidency-2699508.html"
+    type: article
+    provider:
+      name: Stars and Stripes
+      domain: stripes.com
+    quality: 55
+    images:
+      - url: "https://www.stripes.com/incoming/qkmfmm-biden-analysis-236403ce-0838-11ec-a266-7c7fe02fa374.jpg/alternates/LANDSCAPE_480/biden-analysis-236403ce-0838-11ec-a266-7c7fe02fa374.jpg"
+        width: 480
+        height: 299
+        isCached: true
+  - title: "Biden aide: US has capacity to evacuate remaining Americans"
+    excerpt: "Top Biden administration officials say the United States has the capacity to evacuate the approximately 300 U.S. citizens remaining in Afghanistan who want to leave before President Joe Biden’s Tuesday deadline."
+    publishedDateTime: 2021-08-30T10:07:00Z
+    webUrl: "https://www.sunherald.com/news/politics-government/national-politics/article253826773.html"
+    ampWebUrl: "https://amp.sunherald.com/news/politics-government/national-politics/article253826773.html"
+    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/politics-government/national-politics/article253826773.html"
+    type: article
+    provider:
+      name: Biloxi Sun Herald
+      domain: sunherald.com
+    quality: 55
+  - title: "Biden’s Leadership Is Failing in More Places Than Afghanistan"
+    excerpt: "Most Americans can clearly agree that what they have been seeing time and again, domestically and overseas, is not good government, despite honorable intentions among many dedicated people."
+    publishedDateTime: 2021-08-29T23:06:00Z
+    webUrl: "https://nationalinterest.org/feature/biden’s-leadership-failing-more-places-afghanistan-192727"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 55
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/Biden%20%282%29_1.jpg"
+        width: 1222
+        height: 815
+        isCached: true
+  - title: "President Joe Biden Departs Holy Trinity Catholic Church"
+    excerpt: "The view of the White House after President Joe Biden arrives back to the White House from Holy Trinity Catholic Church in the Georgetown neighborhood of Washington, DC on Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover,"
+    publishedDateTime: 2021-08-29T22:47:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/5a62ace3eb872bbda6904e721e80e6ba/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
-    quality: 75
+    quality: 55
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/3171630273282/2021/1/c3e7a3e83faa803742a8af0509932e1f/v1.5/Biden-attends-dignified-transfer-of-13-service-members-killed-in-Kabul.jpg"
-        width: 800
-        height: 532
-        isCached: true
-  - title: "Seattle Storm Visit President Joe Biden at White House to Celebrate 2020 WNBA Title"
-    excerpt: "The Seattle Storm were honored Monday at the White House by President Joe Biden to commemorate their 2020 WNBA championship. They were the first WNBA"
-    publishedDateTime: 2021-08-24T02:30:00Z
-    webUrl: "https://bleacherreport.com/articles/10010920-seattle-storm-visit-president-joe-biden-at-white-house-to-celebrate-2020-wnba-title"
-    ampWebUrl: "https://syndication.bleacherreport.com/amp/10010920-seattle-storm-visit-president-joe-biden-at-white-house-to-celebrate-2020-wnba-title.amp.html"
-    cdnAmpWebUrl: "https://syndication-bleacherreport-com.cdn.ampproject.org/c/s/syndication.bleacherreport.com/amp/10010920-seattle-storm-visit-president-joe-biden-at-white-house-to-celebrate-2020-wnba-title.amp.html"
-    type: article
-    provider:
-      name: Bleacher Report
-      domain: bleacherreport.com
-    quality: 69
-    images:
-      - url: "https://media.bleacherreport.com/image/upload/x_247,y_200,w_5191,h_3464,c_crop/v1629755609/cmwkxx7rin1xv9hkrttp.jpg"
-        width: 5191
-        height: 3464
-        isCached: true
-  - title: "Joe Biden warns Kabul retaliatory strike 'highly likely' in the next 24 to 36 hours"
-    excerpt: "US President Joe Biden warned a second retaliation strike against the terrorists responsible for Thursday's suicide bombing was \"highly likely in the next 24 to 36 hours\"."
-    publishedDateTime: 2021-08-28T21:19:00Z
-    webUrl: "https://www.skynews.com.au/world-news/united-states/joe-biden-warns-kabul-retaliatory-attacks-highly-likely-in-the-next-24-to-36-hours/news-story/39d57ce2f4be996ca8a6d3b910ae9311"
-    ampWebUrl: "https://www.skynews.com.au/world-news/united-states/joe-biden-warns-kabul-retaliatory-attacks-highly-likely-in-the-next-24-to-36-hours/news-story/39d57ce2f4be996ca8a6d3b910ae9311?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/world-news/united-states/joe-biden-warns-kabul-retaliatory-attacks-highly-likely-in-the-next-24-to-36-hours/news-story/39d57ce2f4be996ca8a6d3b910ae9311?amp"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 69
-    images:
-      - url: "https://content.api.news/v3/images/bin/87b0b73d2975a2b667c2c4447d886416"
+      - url: "https://cdnph.upi.com/pv/upi/5a62ace3eb872bbda6904e721e80e6ba/BIDEN-CHURCH.jpg"
         width: 650
-        height: 366
+        height: 434
         isCached: true
-  - title: "Joe Biden Pledges More Strikes On ISIS Amid Threats Of Another Attack On Kabul Airport"
-    excerpt: "President Joe Biden, who decided to hit back at ISIS over the Kabul airport bombings said that the US airstrikes against the extremist group will continue."
-    publishedDateTime: 2021-08-29T03:54:00Z
-    webUrl: "https://www.republicworld.com/world-news/us-news/joe-biden-pledges-more-strikes-on-isis-amid-threats-of-another-attack-on-kabul-airport.html"
-    ampWebUrl: "https://www.republicworld.com/amp/world-news/us-news/joe-biden-pledges-more-strikes-on-isis-amid-threats-of-another-attack-on-kabul-airport.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/world-news/us-news/joe-biden-pledges-more-strikes-on-isis-amid-threats-of-another-attack-on-kabul-airport.html"
+  - title: "Joe Biden’s Jimmy Carter Moment"
+    excerpt: "Never in my life have I witnessed American soldiers die the way 13 Marines and service members did last Thursday."
+    publishedDateTime: 2021-08-30T17:16:00Z
+    webUrl: "https://jewishjournal.com/commentary/340127/joe-bidens-jimmy-carter-moment/"
     type: article
     provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 67
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/2x4aoo80nkmm0zvb_1630205335.jpeg"
-        width: 768
-        height: 439
-        isCached: true
-  - title: "Joe And Jill Biden Meet With Family Members Of Servicemen Killed In Kabul Terror Attack"
-    excerpt: "President Joe Biden on Sunday appeared at Dover Air Force Base in Delaware to participate in the \"dignified transfer\" of the 13 service members killed in the recent Kabul airport terrorist attacks. First lady Jill Biden,"
-    publishedDateTime: 2021-08-29T20:22:00Z
-    webUrl: "https://www.ibtimes.com/joe-jill-biden-meet-family-members-servicemen-killed-kabul-terror-attack-3283385"
-    ampWebUrl: "https://www.ibtimes.com/joe-jill-biden-meet-family-members-servicemen-killed-kabul-terror-attack-3283385?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-jill-biden-meet-family-members-servicemen-killed-kabul-terror-attack-3283385?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 67
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2015/10/27/us-troops-handover-iraqi-military-during-ceremony-iraq.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Warnings of possible attack at Kabul airport; Biden, Israeli PM to meet; MLS gaining popularity"
-    excerpt: "Britain warns attack on Kabul airport could come within hours; Biden, Israeli PM to meet for first time; MLS seeing boost in popularity. Here are this morning's headlines."
-    publishedDateTime: 2021-08-26T11:30:00Z
-    webUrl: "https://journaltimes.com/news/national/warnings-of-possible-attack-at-kabul-airport-biden-israeli-pm-to-meet-mls-gaining-popularity/article_78828fdb-9660-5ee3-87ec-630e46aa96df.html"
-    ampWebUrl: "https://journaltimes.com/news/national/warnings-of-possible-attack-at-kabul-airport-biden-israeli-pm-to-meet-mls-gaining-popularity/article_78828fdb-9660-5ee3-87ec-630e46aa96df.amp.html"
-    cdnAmpWebUrl: "https://journaltimes-com.cdn.ampproject.org/c/s/journaltimes.com/news/national/warnings-of-possible-attack-at-kabul-airport-biden-israeli-pm-to-meet-mls-gaining-popularity/article_78828fdb-9660-5ee3-87ec-630e46aa96df.amp.html"
-    type: article
-    provider:
-      name: The Journal Times
-      domain: journaltimes.com
-    quality: 63
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/assets/v3/editorial/3/de/3de70453-82d6-5d75-93c2-1709427cb75c/6127784a84c0f.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Biden, Wolf order all flags to fly at half-staff in honor of the victims of terrorist attack in Kabul"
-    excerpt: "Tom Wolf have ordered all flags to fly at half-staff in honor of the victims of the terrorist attack in Kabul, Afghanistan on August 26 at all federal and state buildings. The flags are to fly at half-staff until sunset on Monday."
-    publishedDateTime: 2021-08-27T15:49:00Z
-    webUrl: "https://www.pennlive.com/news/2021/08/biden-wolf-order-all-flags-to-fly-at-half-staff-in-honor-of-the-victims-of-terrorist-attack-in-kabul.html"
-    ampWebUrl: "https://www.pennlive.com/news/2021/08/biden-wolf-order-all-flags-to-fly-at-half-staff-in-honor-of-the-victims-of-terrorist-attack-in-kabul.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/news/2021/08/biden-wolf-order-all-flags-to-fly-at-half-staff-in-honor-of-the-victims-of-terrorist-attack-in-kabul.html?outputType=amp"
-    type: article
-    provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 60
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/M3BZLF4TXVFNTOLNW6UZF76WUQ.jpg"
-        width: 1024
-        height: 684
-        isCached: true
-  - title: "Biden: Flights out of Kabul accelerating"
-    excerpt: "President Joe Biden said Sunday that the U.S.-led evacuation of Americans, at-risk Afghans and others from the Kabul airport accelerated this weekend, although it remains vulnerable to threats posed by the Islamic State extremist group."
-    publishedDateTime: 2021-08-23T09:41:00Z
-    webUrl: "https://www.arkansasonline.com/news/2021/aug/23/biden-flights-out-of-kabul-accelerating/?news"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
+      name: Jewish Journal
+      domain: jewishjournal.com
     quality: 55
     images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/199206302_199205149-b269d714629643bab6069e788fb3337e_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 400
+      - url: "https://jewishjournal.com/wp-content/uploads/2021/08/Bien-Boteach.jpg"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Biden pledges to Americans in Kabul: 'We will get you home'"
-    excerpt: "President Joe Biden is pledging to Americans still trapped in Afghanistan: \"We will get you home.\" Biden's comments at a White House news conference Friday come as the U.S. government struggles to ramp up a massive airlift clearing Americans and other foreigners and vulnerable Afghans through the Kabul airport,"
-    publishedDateTime: 2021-08-23T23:32:00Z
-    webUrl: "https://www.nwaonline.com/news/2021/aug/20/biden-address-chaotic-kabul-evacuation-amid-critic/"
-    type: article
-    provider:
-      name: Northwest Arkansas Democrat Gazette
-      domain: nwaonline.com
-    quality: 55
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/img/news/tease/2021/08/20/Screen_Shot_2021-08-20_at_12.01.24_PM_t600.png?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 335
-        isCached: true
-  - title: "Joe Biden FINALLY lets US troops rescue Americans outside Kabul airport after fearing ‘black hawk-style attack’"
-    excerpt: "JOE Biden finally allowed US soldiers to rescue stranded Americans outside Kabul airport as he feared another “Black Hawk Down” tragedy. The president compared the crisis in Afghanistan with the"
-    publishedDateTime: 2021-08-24T09:13:00Z
-    webUrl: "https://www.the-sun.com/news/3529625/joe-biden-troops-rescue-americans-kabul-black-hawk/"
-    ampWebUrl: "https://www.the-sun.com/news/3529625/joe-biden-troops-rescue-americans-kabul-black-hawk/amp/"
-    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3529625/joe-biden-troops-rescue-americans-kabul-black-hawk/amp/"
+  - title: "Boris Johnson will urge Joe Biden to delay withdrawal of US forces from Afghanistan as thousands try to escape Taliban"
+    excerpt: "BORIS Johnson will urge Joe Biden to delay the withdrawal of US forces from Afghanistan as thousands try to escape the Taliban. Mr Johnson will use a G7 meeting on Tuesday to ask the US"
+    publishedDateTime: 2021-08-23T18:03:00Z
+    webUrl: "https://www.the-sun.com/news/3522018/boris-johnson-joe-biden-afghanistan-withdrawal-taliban/"
+    ampWebUrl: "https://www.the-sun.com/news/3522018/boris-johnson-joe-biden-afghanistan-withdrawal-taliban/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3522018/boris-johnson-joe-biden-afghanistan-withdrawal-taliban/amp/"
     type: article
     provider:
       name: The Sun
       domain: the-sun.com
-    quality: 55
+    quality: 51
     images:
-      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/JG-COMP-AFGHAN-SOMALIA.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/1859035b-54f8-4f10-990a-2867f9869d12.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
         width: 1200
         height: 800
         isCached: true
-  - title: "Biden holds to Kabul Aug. 31 deadline despite criticism"
-    excerpt: "U.S. President Joe Biden says he will stick with his Aug. 31 deadline for finishing a U.S.-led evacuation of Americans, at-risk Afghans and others."
-    publishedDateTime: 2021-08-24T23:57:00Z
-    webUrl: "https://www.kentucky.com/news/nation-world/national/article253700868.html"
-    ampWebUrl: "https://amp.kentucky.com/news/nation-world/national/article253700868.html"
-    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/nation-world/national/article253700868.html"
+  - title: "Biden faces pressure to extend Afghanistan evacuation mission as Taliban warns against doing so"
+    excerpt: "The United States faced mounting global pressure on Monday to extend its evacuation mission in Afghanistan past President Joe Biden's Aug. 31 deadline, despite a Taliban warning against doing so. The admonition from Taliban spokesman Suhail Shaheen,"
+    publishedDateTime: 2021-08-24T03:42:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/biden-faces-pressure-to-extend-afghanistan-evacuation-mission-as-taliban-warns-against-doing-so/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/biden-faces-pressure-to-extend-afghanistan-evacuation-mission-as-taliban-warns-against-doing-so/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/biden-faces-pressure-to-extend-afghanistan-evacuation-mission-as-taliban-warns-against-doing-so/?amp=1"
     type: article
     provider:
-      name: Lexington Herald Leader
-      domain: kentucky.com
-    quality: 55
-  - title: "2 US lawmakers’ Kabul trip prompts Biden administration fury"
-    excerpt: "Two members of Congress flew unannounced into Kabul airport in the middle of the ongoing chaotic evacuation, and their visit Tuesday stunned State Department and U.S. military personnel who had to divert resources to provide security and information to the lawmakers."
-    publishedDateTime: 2021-08-26T15:35:00Z
-    webUrl: "https://www.sanluisobispo.com/news/business/article253727773.html"
-    ampWebUrl: "https://amp.sanluisobispo.com/news/business/article253727773.html"
-    cdnAmpWebUrl: "https://amp-sanluisobispo-com.cdn.ampproject.org/c/s/amp.sanluisobispo.com/news/business/article253727773.html"
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 43
+  - title: "Is Joe Biden repeating the mistakes of the past in Afghanistan? Catholic commentators weigh in."
+    excerpt: "The withdrawal of U.S. troops is not an end, but instead represents a new chapter in our entanglement with the Taliban in Afghanistan, agree several experts contacted by America magazine."
+    publishedDateTime: 2021-08-30T20:11:00Z
+    webUrl: "https://www.americamagazine.org/politics-society/2021/08/30/catholic-reaction-biden-afghanistan-speech-241309"
     type: article
     provider:
-      name: SanLuisObispo
-      domain: sanluisobispo.com
-    quality: 55
-  - title: "2 US lawmakers’ Kabul trip prompts Biden administration fury"
-    excerpt: "Two members of Congress flew unannounced into Kabul airport in the middle of the ongoing chaotic evacuation, and their visit Tuesday stunned State Department and U.S. military personnel who had to divert resources to provide security and information to the lawmakers."
-    publishedDateTime: 2021-08-27T15:54:00Z
-    webUrl: "https://www.heraldonline.com/news/business/article253727773.html"
-    ampWebUrl: "https://amp.heraldonline.com/news/business/article253727773.html"
-    cdnAmpWebUrl: "https://amp-heraldonline-com.cdn.ampproject.org/c/s/amp.heraldonline.com/news/business/article253727773.html"
-    type: article
-    provider:
-      name: The Herald SC
-      domain: heraldonline.com
-    quality: 55
-  - title: "Biden in turmoil as blast in Kabul raises leadership questions"
-    excerpt: "If nothing else, the attacks exemplified the dilemma Biden faced when he was asked by allies to extend the deadline. By leaving, he may be unable to bring every American and thousands of allied Afghans out of the Taliban's clutches."
-    publishedDateTime: 2021-08-28T09:43:00Z
-    webUrl: "https://www.kitv.com/story/44611478/kabul-terrorist-attack-highlights-bidens-afghanistan-dilemma"
-    type: article
-    provider:
-      name: KITV
-      domain: kitv.com
-    quality: 55
+      name: America Magazine
+      domain: americamagazine.org
+    quality: 43
     images:
-      - url: "https://KITV.images.worldnow.com/images/17633324_G.jpg"
-        width: 1707
-        height: 960
+      - url: "https://www.americamagazine.org/sites/default/files/styles/article_image_750_x_503_/public/main_image/2021/08/30/20210830T1245-USA-BIDEN-1507225.JPG.JPG.png?itok=Jbh-tyUu"
+        width: 750
+        height: 499
         isCached: true
-  - title: "Biden: Another attack likely, pledges more strikes on IS"
-    excerpt: "President Joe Biden is warning that it’s “highly likely” an Islamic State affiliate will try another attack in Afghanistan."
-    publishedDateTime: 2021-08-29T03:07:00Z
-    webUrl: "https://www.theolympian.com/news/politics-government/national-politics/article253826773.html"
-    ampWebUrl: "https://amp.theolympian.com/news/politics-government/national-politics/article253826773.html"
-    cdnAmpWebUrl: "https://amp-theolympian-com.cdn.ampproject.org/c/s/amp.theolympian.com/news/politics-government/national-politics/article253826773.html"
+  - title: "U.S. Supreme Court Requires Biden to Revive Trump-Era 'Remain in Mexico' Immigration Policy"
+    excerpt: "The U.S. Supreme Court on Tuesday denied President Joe Biden's bid to rescind an immigration policy implemented by his predecessor, Donald Trump, that forced thousands of asylum seekers to stay in Mexico awaiting U."
+    publishedDateTime: 2021-08-25T01:55:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-08-24/us-supreme-court-requires-biden-to-revive-trump-era-remain-in-mexico-immigration-policy"
     type: article
     provider:
-      name: The Olympian
-      domain: theolympian.com
-    quality: 55
-  - title: "Biden: Another attack likely, pledges more strikes on IS"
-    excerpt: "President Joe Biden is warning that it’s “highly likely” an Islamic State affiliate will try another attack in Afghanistan."
-    publishedDateTime: 2021-08-29T23:14:00Z
-    webUrl: "https://www.kentucky.com/news/politics-government/national-politics/article253826773.html"
-    ampWebUrl: "https://amp.kentucky.com/news/politics-government/national-politics/article253826773.html"
-    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/politics-government/national-politics/article253826773.html"
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 40
+  - title: "Biden to withdraw U.S. diplomatic staff from Afghanistan as future relationship with the Taliban remains unclear"
+    excerpt: "The Biden administration will also have to decide whether to formally recognize a Taliban government, a decision that also may take some time and may be a factor in any return, officials said."
+    publishedDateTime: 2021-08-28T23:45:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/biden-to-withdraw-u-s-diplomatic-staff-from-afghanistan-as-future-relationship-with-the-taliban-remains-unclear/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/biden-to-withdraw-u-s-diplomatic-staff-from-afghanistan-as-future-relationship-with-the-taliban-remains-unclear/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/biden-to-withdraw-u-s-diplomatic-staff-from-afghanistan-as-future-relationship-with-the-taliban-remains-unclear/?amp=1"
     type: article
     provider:
-      name: Lexington Herald Leader
-      domain: kentucky.com
-    quality: 55
-  - title: "Joe Biden promises further US strikes against ISIS-K members responsible for suicide attack outside Kabul airport"
-    excerpt: "US President Joe Biden promises further airstrikes against the Islamic State group in Afghanistan after an initial drone attack was launched in retaliation to a deadly bombing outside Kabul airport."
-    publishedDateTime: 2021-08-28T20:15:00Z
-    webUrl: "https://www.abc.net.au/news/2021-08-29/biden-promises-further-strikes-against-isis-k-afghanistan/100416114"
-    ampWebUrl: "https://amp.abc.net.au/article/100416114"
-    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/100416114"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 54
-    images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/a12e677b9a5310f9e35e029ff2f4ea5a?impolicy=wcms_crop_resize&cropH=576&cropW=1023&xPos=0&yPos=0&width=862&height=485"
-        width: 862
-        height: 485
-        isCached: true
-  - title: "Joe Biden FINALLY lets US troops to rescue Americans outside Kabul airport after fearing ‘black hawk-style attack’"
-    excerpt: "JOE Biden finally allowed US soldiers to rescue stranded Americans outside Kabul airport as he feared another “Black Hawk Down” tragedy. The president discussed the attack on a conference call"
-    publishedDateTime: 2021-08-24T09:13:00Z
-    webUrl: "https://www.thesun.co.uk/news/15950663/joe-biden-troops-rescue-americans-kabul-black-hawk/"
-    ampWebUrl: "https://www.thesun.co.uk/news/15950663/joe-biden-troops-rescue-americans-kabul-black-hawk/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/15950663/joe-biden-troops-rescue-americans-kabul-black-hawk/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 53
-    images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2021/08/JG-COMP-AFGHAN-SOMALIA-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Joe Biden warns of more attacks in next 24 hours as 13 soldiers killed in Kabul blast named"
-    excerpt: "President Joe Biden has warned that another attack was “highly likely” over the next 24 to 36 hours as the names of the killed US troops were released."
-    publishedDateTime: 2021-08-28T21:16:00Z
-    webUrl: "https://www.standard.co.uk/news/world/joe-biden-taliban-isis-k-kabul-terror-afghanistan-b952831.html"
-    type: article
-    provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 45
-    images:
-      - url: "https://static.standard.co.uk/2021/08/28/20/urnpublicidap.org18d82a531f8a4e54a543d06bb4d076ef.jpg?width=1200&width=1200&auto=webp&quality=75"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Allies embraced Biden. Did Kabul lay bare \"great illusion\"?"
-    excerpt: "Well before U.S. President Joe Biden took office early this year, the European Union's foreign policy chief sang his praises and hailed a new era in cooperation. So did almost all of Washington's Western allies."
-    publishedDateTime: 2021-08-22T07:09:00Z
-    webUrl: "https://columbiabasinherald.com/news/2021/aug/22/allies-embraced-biden-did-kabul-lay-bare-2/"
-    type: article
-    provider:
-      name: Columbia Basin Herald
-      domain: columbiabasinherald.com
-    quality: 35
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 34
 
 secured: "4CtcLqB9zgoQb3rcQdF1LIfiIC8NAE8bMDxkaz0NIr92Q4Yjf5659hPIKyKa/2we43AhNxy/ncAs8dF7+zkZhgpA+05ZMdM3F3s9L13s2ThZkn9CRtxt+Ad2EMmkf9xwU9qKHa+jvfAmGFuo5yqvcmfyTiX8LXVAaqMnqar4r8YcmUTEOyPkt3PZnGVb7ULJAJ3eQKcA4seX53DT865hqdilAytFkMDd9ccVzU4jLtgftCJKcHR4pYMbAFRptGY8HcV/QSKf7yR5Yakscb++WQdfm5mZ9hK08OvGs7Ct5tOPBeQUKIAr5AscIgxfRKt5TkOmUPMTOJYl8ABHFB2IpKyAh3J56bfzJmChLQI0+2E=;2IHkGunbdAz5AXbvoBF54w=="
 ---

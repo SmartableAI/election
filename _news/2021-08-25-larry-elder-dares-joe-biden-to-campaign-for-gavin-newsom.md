@@ -7,7 +7,7 @@ originalUrl: "https://www.tigerdroppings.com/rant/politics/larry-elder-dares-joe
 webUrl: "https://www.tigerdroppings.com/rant/politics/larry-elder-dares-joe-biden-to-campaign-for-gavin-newsom/97950237/"
 type: article
 quality: 55
-heat: 55
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Senior Living: Biden’s no-jab-no-job order creates quandary for nursing homes"
+    excerpt: "Although 83% of residents in the average nursing facility are vaccinated, only 61% of a home’s workers are likely to be, according to data submitted by homes and published by the Centers for"
+    publishedDateTime: 2021-08-30T13:00:00Z
+    webUrl: "https://www.dailynews.com/2021/08/30/senior-living-bidens-no-jab-no-job-order-creates-quandary-for-nursing-homes/"
+    ampWebUrl: "https://www.dailynews.com/2021/08/30/senior-living-bidens-no-jab-no-job-order-creates-quandary-for-nursing-homes/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/08/30/senior-living-bidens-no-jab-no-job-order-creates-quandary-for-nursing-homes/amp/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 72
+    images:
+      - url: "https://www.dailynews.com/wp-content/uploads/2021/08/SeniorLivingBeach-4.jpg?w=1000&#038;h=586"
+        width: 1000
+        height: 586
+        isCached: true
 
 secured: "YG/NxE8G0KiMff2WIbJ6G7he78LLFruaK+y62YxdG+hzVWfZ3AHRs93lMQsd3nNZMi65mF3QOH24Q+iqyftarIMkObaEA+RrgYLZdEDrs5TIpNFmHplqF+IFY658Wp7TsUv0sN6RIQoJ6Wi4PyDc8rOcOHBANMpAcY3tCi4XZ25zh2yAC2hh3i6hAHie0nFz1KKvydRUQR8n03qOOslxFDAs6xs/vmEmjaeW3tt5haZVce3noIVj55QR6hb3PmMn5ADJPcNMdr464F6GXDVIHOL8Pc20Kq1KLmbki4yG7jGI6TEHu5qqjJyfEJTg3DOyWavfn50cawyvslQionJ6R2s4EtIw2nPkbDmHlI1CPa8=;kSubTUZc3hM61q9VF+f0HA=="
 ---

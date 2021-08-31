@@ -992,6 +992,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Sasse calls Afghanistan withdrawal ‘national disgrace,’ blames Biden’s ‘cowardice and incompetence’"
+    excerpt: "Sasse took aim at President Biden's handling of the final days in Afghanistan"
+    publishedDateTime: 2021-08-31T01:46:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uA3kJd8Thjc/sasse-calls-afghanistan-withdrawal-national-disgrace-blames-bidens-cowardice-and-incompetence"
+    ampWebUrl: "https://www.foxnews.com/politics/sasse-calls-afghanistan-withdrawal-national-disgrace-blames-bidens-cowardice-and-incompetence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sasse-calls-afghanistan-withdrawal-national-disgrace-blames-bidens-cowardice-and-incompetence.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be1dca45-f3c1-4b52-8159-0bc07a74bba3/43ba226e-0d6c-4c97-b998-e57b9ee173bf/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden pledge to renew America's standing around world in peril as Afghanistan debacle sparks outrage"
     excerpt: "President Joe Biden's pledge to renew America's standing on the world stage is in jeopardy as international leaders express outrage over his rushed withdrawal from Afghanistan."
     publishedDateTime: 2021-08-18T18:25:34Z
@@ -1184,6 +1200,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden emphasizes 'unanimous recommendation' of military leaders to meet Aug. 31 Afghanistan exit deadline"
+    excerpt: "President Joe Biden announced that all U.S. troops had left Afghanistan, a decision which the Joint Chiefs of Staff unanimously supported, he pointed out."
+    publishedDateTime: 2021-08-30T23:14:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uBE5pYrEwgQ/biden-says-keeping-afghanistan-withdrawal-deadline-was-unanimous-recommendation-of-military-leaders"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-keeping-afghanistan-withdrawal-deadline-was-unanimous-recommendation-of-military-leaders.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-keeping-afghanistan-withdrawal-deadline-was-unanimous-recommendation-of-military-leaders.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/340/340/Tyler-ONeil-Headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden White House accepts responsibility for 'chaos' in Afghanistan, says it is 'vigilant' on terror threat"
     excerpt: "President Biden and his national security team are \"taking responsibility\" for \"every decision\" the U.S. government took with respect to Afghanistan, White House national security adviser Jake Sullivan said Tuesday."
     publishedDateTime: 2021-08-17T19:32:36Z
@@ -1339,6 +1371,20 @@ related:
     quality: 155
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/GettyImages-1208918824.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden sees Dem support dwindle over Afghanistan withdrawal"
+    excerpt: "President Biden has faced mounting criticism from lawmakers within his own party in recent days as the last U.S. forces depart Afghanistan following a chaotic evacuation mission."
+    publishedDateTime: 2021-08-31T01:59:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/t0b2GKGVIMY/biden-dem-support-dwindle-afghanistan-withdrawal"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/AP21238773319253.jpg"
         width: 1280
         height: 720
         isCached: true

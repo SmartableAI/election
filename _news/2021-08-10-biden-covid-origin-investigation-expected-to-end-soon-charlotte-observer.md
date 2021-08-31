@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.charlotteobserver.com/news/coronavirus/article253365748.
 cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/coronavirus/article253365748.html"
 type: article
 quality: 73
-heat: 133
+heat: 113
 published: true
 
 provider:
@@ -27,35 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden looks to boost Native American voter turnout | Charlotte Observer"
-    excerpt: "Native American voters could play a major role in deciding the next presidential election in key battleground states."
-    publishedDateTime: 2021-08-13T09:00:00Z
-    webUrl: "https://www.charlotteobserver.com/news/politics-government/article253429449.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article253429449.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article253429449.html"
+  - title: "20 states sue over Biden admin school, work LGBT protections | Charlotte Observer"
+    excerpt: "Attorneys general from 20 states have sued President Joe Biden’s administration seeking to halt directives that extend federal sex discrimination protections to LGBTQ people, ranging from transgender girls participating in school sports to the use of school and workplace bathrooms that align with a person’s gender identity."
+    publishedDateTime: 2021-08-31T00:51:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article253866898.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article253866898.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article253866898.html"
     type: article
     provider:
       name: Charlotte Observer
       domain: charlotteobserver.com
-    quality: 73
+    quality: 70
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557046001/6416380e-f39b-44f4-98b3-0db4d9888c0d/aa0212ec-ae12-4bcf-8926-43cebffe2f5f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Tom Rice, other politicians seek President Joe Biden’s ouster | Charlotte Observer"
-    excerpt: "Another local politician called on Biden to appoint former President Donald Trump to a position where he could oversee the rest of America’s withdrawal from Afghanistan. South Carolina Congressman Tom Rice (R-Myrtle Beach) called on President Joe Biden to resign over his “haphazard withdrawal” from Afghanistan that he blamed for the terrorist attack in Kabul."
-    publishedDateTime: 2021-08-27T04:54:00Z
-    webUrl: "https://www.charlotteobserver.com/news/state/south-carolina/article253769648.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/state/south-carolina/article253769648.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/state/south-carolina/article253769648.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 69
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/7f1caafa-aea1-49ad-bc9f-e3322fb2825c/af216152-128c-45c0-b0b0-8fff6b46b17c/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998037001/b4b4d1de-761b-4a6b-9391-e003e5f44b22/7160e791-51b3-4239-8ab8-fa2030ad6e78/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

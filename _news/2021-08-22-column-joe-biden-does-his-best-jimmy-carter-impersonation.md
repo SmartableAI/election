@@ -51,21 +51,69 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Joe Biden’s potential Jimmy Carter moment"
-    excerpt: "In Joe Biden’s remarks following the Kabul terrorist attack on Thursday, he concluded: “Ladies and gentlemen, after 20 years it was time to end a 20-year war.” The moment was horribly circular. America went into Afghanistan in 2001 to drive out the terrorists."
-    publishedDateTime: 2021-08-27T00:07:00Z
-    webUrl: "https://www.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb"
-    ampWebUrl: "https://amp.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/29e1342b-adba-46d5-abba-8c471dc9a8fb"
+  - title: "Afghanistan: 'The sooner we finish, the better,' says Joe Biden"
+    excerpt: "US President Joe Biden says the US is \"on pace\" to meet a 31 August deadline for evacuations, despite previous calls from allies for an extension. \"The sooner we finish the better,\" he said. Some American troops have already been withdrawn,"
+    publishedDateTime: 2021-08-25T04:46:00Z
+    webUrl: "https://www.bbc.com/news/world-asia-58321849"
+    ampWebUrl: "https://www.bbc.com/news/world-asia-58321849.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-asia-58321849.amp"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
+      name: BBC
+      domain: bbc.com
     quality: 125
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6087e8e5-ad77-46e6-a635-ea4f4d045dc9.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/FFB7/production/_120236456_mediaitem120232630.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "First Thing: Joe Biden’s approval rating dips amid Afghanistan and Covid crises"
+    excerpt: "President called upon to extend 31 August deadline to complete evacuations from Afghanistan"
+    publishedDateTime: 2021-08-24T09:58:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/aug/24/first-thing-joe-biden-approval-rating-dips-amid-afghanistan-and-covid-crises?fr=operanews"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/24/first-thing-joe-biden-approval-rating-dips-amid-afghanistan-and-covid-crises"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/24/first-thing-joe-biden-approval-rating-dips-amid-afghanistan-and-covid-crises"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/97b443b48cec0f3fcf8cb3f30c2acf1413407513/0_117_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2fe5d03a325b43103f72f696a926f960"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Joe Biden Said He Is Committed To Helping Evacuate Afghan Allies Who Worked With The US Government"
+    excerpt: "In a speech at the White House, Biden again stood by his decision to withdraw US forces from the country. By Clarissa-Jan Lim Posted on August 20, 2021, at 3:05 p.m. ET President Joe Biden delivers remarks on the ongoing evacuation efforts in Afghanistan,"
+    publishedDateTime: 2021-08-20T23:13:00Z
+    webUrl: "https://www.buzzfeednews.com/article/clarissajanlim/biden-afghanistan-evacuations?origin=web-hf"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/clarissajanlim/biden-afghanistan-evacuations"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/clarissajanlim/biden-afghanistan-evacuations"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 111
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2017-04/12/11/campaign_images/buzzfeed-prod-fastlane-02/trump-says-the-us-wont-go-into-syria-even-though--2-24885-1492010278-4_dblbig.jpg"
+        width: 625
+        height: 415
+        isCached: true
+  - title: "Joe Biden Said He Is Committed To Helping Evacuate Afghan Allies Who Have Worked With The US Government"
+    excerpt: "In a speech at the White House, Biden again stood by his decision to withdraw US forces from the country. By Clarissa-Jan Lim Posted on August 20, 2021, at 3:05 p.m. ET President Joe Biden delivers remarks on the ongoing evacuation efforts in Afghanistan,"
+    publishedDateTime: 2021-08-20T19:51:00Z
+    webUrl: "https://www.buzzfeednews.com/article/clarissajanlim/biden-afghanistan-evacuations?origin=web-hf"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/clarissajanlim/biden-afghanistan-evacuations"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/clarissajanlim/biden-afghanistan-evacuations"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 109
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2017-04/12/11/campaign_images/buzzfeed-prod-fastlane-02/trump-says-the-us-wont-go-into-syria-even-though--2-24885-1492010278-4_dblbig.jpg"
+        width: 625
+        height: 415
         isCached: true
   - title: "Joe Biden announces Covid booster shots from September – video"
     excerpt: "President says anyone who was fully vaccinated eight months prior will be eligible"
@@ -78,6 +126,20 @@ related:
     quality: 105
     images:
       - url: "https://i.guim.co.uk/img/media/63285a96192526ebc972487aa573ba48717fe966/0_0_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1442da941e74be16c3172d778c5c64ce"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Joe Biden says terrorists will pay for Afghan attack that killed US ‘heroes’ – video"
+    excerpt: "The president said the US would 'hunt down' those responsible for the attack on the international airport in Kabul"
+    publishedDateTime: 2021-08-26T21:42:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/aug/26/joe-biden-white-house-afghanistan-attack"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 98
+    images:
+      - url: "https://i.guim.co.uk/img/media/f4644bb3b32de88ea517922e3aee5ae708f7b195/0_112_4000_2401/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1537eb95f59d35a5607ada431df342a"
         width: 1200
         height: 630
         isCached: true
@@ -273,6 +335,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Joe Biden actions on Afghanistan may trigger World War III (Letters)"
+    excerpt: "What President Joe Biden did was much more than totally mismanage the U.S. withdrawal from Afghanistan and lose respect internationally; his action will set off great danger for our country. First, this sets the stage for the growth and strength of world-wide terrorism."
+    publishedDateTime: 2021-08-24T17:25:00Z
+    webUrl: "https://www.masslive.com/opinion/2021/08/joe-biden-actions-on-afghanistan-may-trigger-world-war-iii-letters.html"
+    ampWebUrl: "https://www.masslive.com/opinion/2021/08/joe-biden-actions-on-afghanistan-may-trigger-world-war-iii-letters.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/opinion/2021/08/joe-biden-actions-on-afghanistan-may-trigger-world-war-iii-letters.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/26TDCLVL75AD5BHOCGDJO4FNCM.jpg"
+        width: 6720
+        height: 4480
+        isCached: true
   - title: "Tennessee flooding prompts Biden disaster declaration"
     excerpt: "President Joe Biden has approved a major disaster declaration sought by Tennessee after record rainfall caused devastating floods that killed at least 22 people, according to a statement sent Tuesday."
     publishedDateTime: 2021-08-24T19:56:00Z
@@ -288,22 +366,6 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
-        isCached: true
-  - title: "Joe Biden's terrible August just got worse"
-    excerpt: "It doesn't bode well for Joe Biden's presidency. The case for withdrawing American troops from Afghanistan is strong. The rapid collapse of Afghan military forces and its elected government in the face of a Taliban offensive this summer has demonstrated just how little we've done to create a strong and resilient system in the country over the past 20 years."
-    publishedDateTime: 2021-08-26T16:58:00Z
-    webUrl: "https://theweek.com/joe-biden/1004184/the-political-consequences-of-the-kabul-airport-attack"
-    ampWebUrl: "https://theweek.com/joe-biden/1004184/the-political-consequences-of-the-kabul-airport-attack?amp"
-    cdnAmpWebUrl: "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/joe-biden/1004184/the-political-consequences-of-the-kabul-airport-attack?amp"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 75
-    images:
-      - url: "https://mediacloud.theweek.com/image/upload/f_auto,t_primary-image-mobile@1/v1629996718/biden%20airport%20damon.jpg"
-        width: 375
-        height: 211
         isCached: true
   - title: "Joe Biden goes on HOLIDAY again! POTUS has worked for only 4 days during Afghan fiasco"
     excerpt: "Biden has worked only four days out of the last 15, ever since the Taliban captured their first regional capital"
@@ -526,20 +588,6 @@ related:
       name: Biloxi Sun Herald
       domain: sunherald.com
     quality: 55
-  - title: "How Much Trouble Is Biden In?"
-    excerpt: "President Joe Biden delivers remarks on the evacuation of American citizens and their families, as well as vulnerable Afghans, in the East Room of the White House, August 20, 2021. Joe Biden’s approval ratings have dropped to new lows in the latest polls."
-    publishedDateTime: 2021-08-24T09:17:00Z
-    webUrl: "https://prospect.org/politics/how-much-trouble-is-biden-in/"
-    type: article
-    provider:
-      name: The American Prospect
-      domain: prospect.org
-    quality: 55
-    images:
-      - url: "https://prospect.org/downloads/16751/download/Kuttner-Biden%20082421.jpg?cb=0af9480ee9aa7b9788fb68d5ccc444d6&w=1200"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Moderates bring House to standstill in Biden budget clash"
     excerpt: "House Democratic leaders are trying to muscle President Joe Biden’s multitrillion-dollar budget blueprint over a key hurdle."
     publishedDateTime: 2021-08-24T11:54:00Z
@@ -564,20 +612,6 @@ related:
       - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/Congress-Infrastructure-3.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Taliban Threatens Biden; Joe Says ‘A Lot Could Still Go Wrong’"
-    excerpt: "As Joe Biden was telling Americans that \"a lot could still go wrong\" with the evacuation of civilians from Afghanistan, the Taliban increased its control over the region. Emboldened Taliban leaders are now threatening the Biden administration,"
-    publishedDateTime: 2021-08-24T12:30:00Z
-    webUrl: "https://www.gopusa.com/taliban-threatens-biden-joe-says-a-lot-could-still-go-wrong/"
-    type: article
-    provider:
-      name: GOPUSA
-      domain: gopusa.com
-    quality: 55
-    images:
-      - url: "https://www.gopusa.com/wp-content/uploads/2021/08/ep397.jpg"
-        width: 680
-        height: 408
         isCached: true
   - title: "The high price of Biden's Kabul blunder"
     excerpt: "Our commander in chief and his woke generals have blown the evacuation of Kabul so badly that even CNN and MSNBC have had to cover it. For the past month, Biden assured us that when our military left Kabul,"
@@ -752,6 +786,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Biden's view of job comes into focus after Afghan collapse"
+    excerpt: "But authority over America's longest war finally fell into Biden's hands this year and he insisted that the U.S. withdraw from Afghanistan, settling on an Aug. 31 deadline. And despite the rapid collapse of the Afghan government,"
+    publishedDateTime: 2021-08-22T07:09:00Z
+    webUrl: "https://columbiabasinherald.com/news/2021/aug/22/bidens-view-of-job-comes-into-focus-after-2/"
+    type: article
+    provider:
+      name: Columbia Basin Herald
+      domain: columbiabasinherald.com
+    quality: 35
   - title: "Joe Biden Is Who We Said He Was. Unfit to run the nation"
     excerpt: "Joe Biden has badly, visibly bungled America’s withdrawal from Afghanistan. He has compounded the problem with his sluggish and dishonest public statements. This has gone so badly that even people and institutions that are normally sympathetic to Biden and his party have noticed."
     publishedDateTime: 2021-08-22T01:13:00Z

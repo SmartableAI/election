@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Barack Obama Mocking Joe Biden After ‘Flaunting’ Pandemic Rules For Party?"
-    excerpt: "Is Barack Obama sending a message that he and President Joe Biden are no longer friends? One tabloid cover story insists Biden has declared the former"
-    publishedDateTime: 2021-08-25T13:00:00Z
-    webUrl: "https://www.gossipcop.com/barack-obama-mocking-joe-biden-after-flaunting-pandemic-rules-for-party/2571259/"
-    ampWebUrl: "https://www.gossipcop.com/barack-obama-mocking-joe-biden-after-flaunting-pandemic-rules-for-party/2571259/?amp"
-    cdnAmpWebUrl: "https://www-gossipcop-com.cdn.ampproject.org/c/s/www.gossipcop.com/barack-obama-mocking-joe-biden-after-flaunting-pandemic-rules-for-party/2571259/?amp"
-    type: article
-    provider:
-      name: Gossip Cop
-      domain: gossipcop.com
-    quality: 73
-    images:
-      - url: "https://upload.gossipcop.com/gc/uploads/2021/08/GettyImages-632229442.jpg"
-        width: 1200
-        height: 704
-        isCached: true
 
 secured: "lKYopY2cHQOsbmn9K3Rs26V9xcd4qOjh7jU0LqgbD/g0gLuwqhgsa4JPYiZZtyRYigV+i30RxFBGFkZzgQjBIJ2S0SCwqaxualsQsDKiSo8LwRnh2YDHSJ237+AzSFVnv22gi9+syUaA3nuhBTnQnNmp9x5Ppbhj/12TnnKWe/AgNTgtwd7el0BcbWUsN6CCGXVPadOPl24+WY7qLVZfKNFGQyQkUeynJV4Ej+c7AuDLcUqP+5KQG6lqRBw9bKYodxxrXtvHpMXwHsdW1DYtd/GFrfT+wyFple4ovVdQBLbPYxXhYEt2tvKVIy64jbN7u/2ETKqlJYbON9qehqN0BFVL0QrslF0nhv6602m34s8FFJwWG0ZKjBAhdRjEz/cZA9CEzbdbJCx2QOP6y3BfYzRRqHtR709+6L0ss//4sxhhirgKJ4L6fngwn61XOVU/X/04MXzHK/19jg+QtRoKAGmrUyyifhooy711460SIhiuZPHyxGB2DA/dqtolqc8nmjYnov0M5AGAj81EZmZeyg==;vxsBhvV2WRqo6WdGhWWv9Q=="
 ---

@@ -25,113 +25,81 @@ images:
     isCached: true
 
 related:
-  - title: "Former Trump adviser: Biden needs to fire top Taliban negotiator Khalilzad"
-    excerpt: "Lt. Gen. H.R. McMaster, Donald Trump’s former national security adviser, is laying some of the blame for the current chaos in Afghanistan squarely at the feet of Ambassador Zalmay Khalilzad, the Afghan-American diplomat who has been the point man for talks with the Taliban in both Republican and Democratic administrations."
-    publishedDateTime: 2021-08-24T17:42:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/aug/24/former-trump-adviser-biden-needs-fire-top-taliban-/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/24/former-trump-adviser-biden-needs-fire-top-taliban-/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/24/former-trump-adviser-biden-needs-fire-top-taliban-/"
+  - title: "Supreme Court rules Biden may not suspend Trump-era 'remain in Mexico' policy for migrants"
+    excerpt: "A lower federal court said Biden officials improperly halted the Trump-era 'remain in Mexico' policy, which was intended to reduce immigration."
+    publishedDateTime: 2021-08-25T02:05:00Z
+    webUrl: "https://www.freep.com/story/news/politics/2021/08/24/supreme-court-biden-may-not-halt-trump-era-remain-mexico-policy/8244772002/"
+    ampWebUrl: "https://amp.freep.com/amp/8244772002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/8244772002"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 88
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 80
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2018/07/11/books-mcmaster_42215_c0-176-4205-2628_s1200x700.jpg?fc7050ca65b373159166adfd97568bd9321a7b9d"
+      - url: "https://www.gannett-cdn.com/presto/2021/08/24/USAT/746d7176-bffa-46c2-99b3-816182b82d0c-GTY_1329925284.jpg?auto=webp&crop=7917,4454,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 700
+        height: 675
         isCached: true
-  - title: "Trump's former national security advisor John Bolton says it's 'impossible' for Mike Pompeo to 'rewrite history' on his negotiations with the Taliban"
-    excerpt: "\"That's a prescription for Democratic attack ads that would be fatal to someone's credibility,\" Bolton told Politico."
-    publishedDateTime: 2021-08-27T02:40:00Z
-    webUrl: "https://www.businessinsider.com/john-bolton-impossible-to-rewrite-history-on-mike-pompeo-taliban-deal-2021-8"
-    ampWebUrl: "https://www.businessinsider.com/john-bolton-impossible-to-rewrite-history-on-mike-pompeo-taliban-deal-2021-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/john-bolton-impossible-to-rewrite-history-on-mike-pompeo-taliban-deal-2021-8?amp"
+  - title: "U.S. Supreme Court Requires Biden Administration To Reinstate Trump’s ‘Remain in Mexico’ Policy"
+    excerpt: "The U.S. Supreme Court refused to block a federal court ruling to reinstate the controversial Trump-era Migrant Protection Protocols (MPP) that required asylum seekers to wait in dangerous conditions in Mexico for their day in court."
+    publishedDateTime: 2021-08-25T13:01:00Z
+    webUrl: "https://www.houstonpublicmedia.org/articles/news/politics/immigration/2021/08/25/406808/u-s-supreme-court-requires-biden-administration-to-reinstate-trumps-remain-in-mexico-policy/"
+    ampWebUrl: "https://www.houstonpublicmedia.org/articles/news/politics/immigration/2021/08/25/406808/u-s-supreme-court-requires-biden-administration-to-reinstate-trumps-remain-in-mexico-policy/amp/"
+    cdnAmpWebUrl: "https://www-houstonpublicmedia-org.cdn.ampproject.org/c/s/www.houstonpublicmedia.org/articles/news/politics/immigration/2021/08/25/406808/u-s-supreme-court-requires-biden-administration-to-reinstate-trumps-remain-in-mexico-policy/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 86
+      name: Houston Public Media
+      domain: houstonpublicmedia.org
+    quality: 78
     images:
-      - url: "https://i.insider.com/61279e06e4235b00180aa5ba?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Ensure that Taliban do not destabilise Pakistan: US lawmakers to Joe Biden"
-    excerpt: "A group of US lawmakers has urged President Joe Biden to ensure that the Taliban, which is now the de facto ruler of Afghanistan, do not destabilise Pakistan and acquire nuclear weapons"
-    publishedDateTime: 2021-08-26T23:13:00Z
-    webUrl: "https://www.thehansindia.com/news/international/ensure-that-taliban-do-not-destabilise-pakistan-us-lawmakers-to-joe-biden-703501"
-    ampWebUrl: "https://www.thehansindia.com/amp/news/international/ensure-that-taliban-do-not-destabilise-pakistan-us-lawmakers-to-joe-biden-703501"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/international/ensure-that-taliban-do-not-destabilise-pakistan-us-lawmakers-to-joe-biden-703501"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 73
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2021/08/23/1103644-biden.jpg"
+      - url: "https://cdn.hpm.io/wp-content/uploads/2021/03/23193744/AP21082826945812-1000x667.jpg"
         width: 1000
-        height: 600
+        height: 667
         isCached: true
-  - title: "Trump’s Taliban deal complicates message for GOP contenders | Charlotte Observer"
-    excerpt: "The chaotic U.S. withdrawal from Afghanistan may haunt President Joe Biden, but it could also hang over some of the Republicans who will seek to replace him in 2024."
-    publishedDateTime: 2021-08-24T09:00:00Z
-    webUrl: "https://www.charlotteobserver.com/news/politics-government/article253683123.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article253683123.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article253683123.html"
+  - title: "Supreme Court rules in favor of Trump’s ‘remain in Mexico’ policy"
+    excerpt: "The court, with three liberal justices dissenting, rejected the Biden administration’s effort to block a Texas-based judge’s ruling requiring the government to revive Trump’s"
+    publishedDateTime: 2021-08-25T07:31:00Z
+    webUrl: "https://www.ocregister.com/2021/08/24/supreme-court-rules-in-favor-of-remain-in-mexico-policy/"
+    ampWebUrl: "https://www.ocregister.com/2021/08/24/supreme-court-rules-in-favor-of-remain-in-mexico-policy/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/08/24/supreme-court-rules-in-favor-of-remain-in-mexico-policy/amp/"
     type: article
     provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 70
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 75
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/346c4d4c-0ebe-4577-bdbf-21c5f8e914af/554385c1-d5d0-4f0c-9b03-7bab5722a707/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.ocregister.com/wp-content/uploads/2021/08/sjm-ourt_15699.jpg-8a244-1_1040745497_73062567.jpg?w=1024&#038;h=683"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Joe Biden ripped after Taliban fighters wearing US army gear mock iconic 1945 photo of marines"
-    excerpt: "The original 1945 photo shows a group of six Marines hoisting the flag on Mount Suribachi. The Taliban's elite Badri 313 battalion recreated the image"
-    publishedDateTime: 2021-08-22T02:58:00Z
-    webUrl: "https://meaww.com/biden-taliban-us-army-1945-ww-2-photo-marines-iwo-jima"
-    ampWebUrl: "https://meaww.com/amp/biden-taliban-us-army-1945-ww-2-photo-marines-iwo-jima"
-    cdnAmpWebUrl: "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/biden-taliban-us-army-1945-ww-2-photo-marines-iwo-jima"
+  - title: "What the end of Joe Biden’s eviction moratorium will look like in Maine"
+    excerpt: "The end of the moratorium comes as the pandemic situation in Maine grows more grim and could test a new state law for renters."
+    publishedDateTime: 2021-08-27T13:22:00Z
+    webUrl: "https://bangordailynews.com/2021/08/27/politics/daily-brief/what-the-end-of-joe-bidens-eviction-moratorium-will-look-like-in-maine/"
     type: article
     provider:
-      name: Meaww
-      domain: meaww.com
-    quality: 63
-    images:
-      - url: "https://cheesecake.articleassets.meaww.com/545990/uploads/0e504170-02f0-11ec-951c-a7d689a4bfd4_800_420.png"
-        width: 800
-        height: 420
-        isCached: true
-  - title: "Seth Meyers doesn’t think Donald Trump should praise the Taliban"
-    excerpt: "On Wednesday’s “Late Night,” Seth Meyers criticized the “right-wing ghouls” who are acting like America’s depressing and chaotic pullout from Afghanistan is entirely President Joe Biden’s fault, and not the cumulative,"
-    publishedDateTime: 2021-08-26T14:58:00Z
-    webUrl: "https://www.imdb.com/news/ni63402919/"
-    type: article
-    provider:
-      name: IMDb
-      domain: imdb.com
+      name: Bangor Daily News
+      domain: bangordailynews.com
     quality: 55
     images:
-      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
-        width: 1000
-        height: 1000
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/LewistonAuburnHousing-090419-2.jpg"
+        width: 1024
+        height: 681
         isCached: true
-  - title: "Donald Trump's recounting of his 2020 conversation with a Taliban leader is something else"
-    excerpt: "It came after Hewitt asked Trump to describe his conversation with Mullah Abdul Ghani Baradar, a Taliban co-founder and deputy leader, during his 2020 negotiations with the group to remove American troops from Afghanistan."
-    publishedDateTime: 2021-08-29T01:13:00Z
-    webUrl: "https://www.kitv.com/story/44620329/donald-trumps-recounting-of-his-2020-conversation-with-a-taliban-leader-is-something-else"
+  - title: "Trump's 'Remain in Mexico' policy reinstated; Herschel Walker running for Senate; Kanye wants to be Ye"
+    excerpt: "Supreme Court orders Trump-era border policy to be reinstated; former football star makes run at Senate; Kanye seeks name change. Here are this morning's headlines."
+    publishedDateTime: 2021-08-25T11:30:00Z
+    webUrl: "https://www.stltoday.com/news/national/trumps-remain-in-mexico-policy-reinstated-herschel-walker-running-for-senate-kanye-wants-to-be/article_aeb97edc-442f-510b-a651-8b38730433e5.html"
     type: article
     provider:
-      name: KITV
-      domain: kitv.com
-    quality: 45
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 39
     images:
-      - url: "https://KITV.images.worldnow.com/images/17633324_G.jpg"
-        width: 1707
-        height: 960
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/a/eb/aeb97edc-442f-510b-a651-8b38730433e5/6126217d8e137.preview.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
         isCached: true
 
 secured: "WSIdqcCLfvYfS95VodkNB+tOhGzJEvbYJc88VvWoTO43UCb9XvgIoDZaRvJCUJVE9z1plbowcDe3jCGbQVVY1SOwfp/BsLThZdcszq5xlv4XHKf7kvvfEJZ6URf1MDOrOEidHtGDaBOnAPze9B3AIJim0W2l7qhB9Gg+iic3VjsqfVHPh8gwOLP3bEcVLE5AeqTjLSO7jum6w+tCte0Ewy7fB3Vd07dxbS5GTZLdPpVJ4TOC428/mDirJMl2vbSJLdvLpH60CXUErVsGhXIhLGhNC5FAD4kSeEfaA91UyiPQ3a+tJ3KyJml6tIPMup8rDSWM89slSwTIdCLpuzJwoX+STvk2az9tfYBlLFOeATs=;kF2Cg19ntr8zINb08Iez2Q=="

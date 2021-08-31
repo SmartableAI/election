@@ -192,6 +192,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Jill Biden delivers back-to-school COVID message"
+    excerpt: "First Lady Jill Biden on Monday issued a message to parents and teachers in support of mask-wearing and COVID-19 vaccinations."
+    publishedDateTime: 2021-08-31T00:52:00Z
+    webUrl: "https://nypost.com/2021/08/30/jill-biden-delivers-back-to-school-covid-message/"
+    ampWebUrl: "https://nypost.com/2021/08/30/jill-biden-delivers-back-to-school-covid-message/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/30/jill-biden-delivers-back-to-school-covid-message/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/jill-biden-2.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Jesse Watters slams Biden for Kabul attack: 'By far the worst day of Joe Biden's presidency'"
     excerpt: "Jesse Watters criticized Joe Biden for the attack at the Kabul airport that killed 13 U.S. service members, saying it was an \"avoidable tragedy.\""
     publishedDateTime: 2021-08-29T02:05:00Z

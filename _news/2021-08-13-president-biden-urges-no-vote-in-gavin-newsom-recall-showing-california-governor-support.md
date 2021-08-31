@@ -297,21 +297,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "CIA Chief Secretly Met Taliban Leader as Biden Faces Pressure Over Afghan Evacuation Deadline"
-    excerpt: "Facing growing pressure over his looming deadline to leave Afghanistan, President Joe Biden dispatched his spy chief to meet with the Taliban’s de facto leader"
-    publishedDateTime: 2021-08-24T11:29:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/cia-chief-secretly-met-taliban-leader-as-biden-faces-pressure-over-afghan-evacuation-deadline/3237696/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/cia-chief-secretly-met-taliban-leader-as-biden-faces-pressure-over-afghan-evacuation-deadline/3237696/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/cia-chief-secretly-met-taliban-leader-as-biden-faces-pressure-over-afghan-evacuation-deadline/3237696/?amp"
+  - title: "Afghan Americans in San Diego pressure Biden and Congress to act as Taliban takes over"
+    excerpt: "Veterans are organizing to help Afghans who worked for the U.S. military while refugee resettlement organizations prepare for potential arrivals"
+    publishedDateTime: 2021-08-22T19:55:00Z
+    webUrl: "https://www.sandiegouniontribune.com/news/immigration/story/2021-08-22/afghan-americans-biden-taliban"
+    ampWebUrl: "https://www.sandiegouniontribune.com/news/immigration/story/2021-08-22/afghan-americans-biden-taliban?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/immigration/story/2021-08-22/afghan-americans-biden-taliban?_amp=true"
     type: article
     provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 64
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 67
     images:
-      - url: "https://media.nbcnewyork.com/2021/08/106930482-16293874992021-08-19t153626z_1232404442_rc2f8p93ikuh_rtrmadp_0_afghanistan-conflict-usa-arms.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/e849013/2147483647/strip/true/crop/5652x3767+0+175/resize/2000x1333!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F45%2F35%2F0153c3f94f8ba8d91ed69a50c6cf%2Fsd-photos-1staff-826422-sd-me-afghan-local-7.JPG"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "EXPLAINER: The impact of Joe Biden’s new fuel economy rules"
     excerpt: "President Joe Biden's new standards are basically a return to those adopted under Obama, requiring new vehicles to average 5% in carbon dioxide emissions cuts every model year through 2025."

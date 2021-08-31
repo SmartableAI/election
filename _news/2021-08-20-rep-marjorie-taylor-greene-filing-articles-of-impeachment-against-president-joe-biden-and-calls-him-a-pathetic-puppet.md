@@ -86,6 +86,20 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 52
+  - title: "Greg Steube calls for Joe Biden resignation following reported Marine deaths"
+    excerpt: "Greg Steube called for President Joe Biden’s resignation after the reported death of four Marines in Kabul. “Horrific,” Steube tweeted. “Joe Biden needs to take"
+    publishedDateTime: 2021-08-26T18:13:00Z
+    webUrl: "https://floridapolitics.com/archives/453349-greg-steube-calls-for-joe-biden-resignation-following-reported-marine-deaths/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 52
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/06/Steube.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Herschel Walker builds a campaign team with deep financial ties to Marjorie Taylor Greene, Donald Trump"
     excerpt: "Former National Football League star Herschel Walker announced Tuesday he’d run for Georgia Senate to unseat freshman Sen. Raphael Warnock (D-Ga.). Walker already has the endorsement of former President Donald Trump,"
     publishedDateTime: 2021-08-26T19:54:00Z

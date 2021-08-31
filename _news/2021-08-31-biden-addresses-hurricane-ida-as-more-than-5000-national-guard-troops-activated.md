@@ -27,100 +27,162 @@ images:
     isCached: true
 
 related:
-  - title: "WATCH: Biden pledges Hurricane Ida support for ‘as long as it takes’"
-    excerpt: "Ida has left scores of coastal Louisiana residents trapped by floodwaters and pleading to be rescued, while making a shambles of the electrical grid across a wide swath of the state in the sweltering,"
-    publishedDateTime: 2021-08-30T19:10:00Z
-    webUrl: "https://www.pbs.org/newshour/nation/watch-biden-pledges-hurricane-ida-support-for-as-long-as-it-takes"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/nation/watch-biden-pledges-hurricane-ida-support-for-as-long-as-it-takes"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/nation/watch-biden-pledges-hurricane-ida-support-for-as-long-as-it-takes"
+  - title: "Fact Check: Joe Biden said that al-Qaida is 'gone' from Afghanistan"
+    excerpt: "What interest do we have in Afghanistan at this point with al-Qaida gone? We went to Afghanistan for the express purpose of getting rid of al-Qaida in Afghanistan, as well as getting Osama bin Laden."
+    publishedDateTime: 2021-08-30T09:13:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/Fact-Check-Joe-Biden-said-that-al-Qaida-is-16416922.php"
+    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Fact-Check-Joe-Biden-said-that-al-Qaida-is-16416922.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Fact-Check-Joe-Biden-said-that-al-Qaida-is-16416922.php"
     type: article
     provider:
-      name: PBS
-      domain: pbs.org
+      name: Houston Chronicle
+      domain: houstonchronicle.com
     quality: 125
     images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2021/08/2021-08-30T182355Z_554461000_RC2TFP9CFQYB_RTRMADP_3_STORM-IDA-BIDEN-1024x563.jpg"
-        width: 1024
-        height: 563
+      - url: "https://s.hdnux.com/photos/01/21/50/72/21401243/3/400x0.jpg"
+        width: 400
+        height: 266
         isCached: true
-  - title: "Was Biden looking at his watch during ceremony for Marines killed in Kabul?"
-    excerpt: "It appeared President Biden glanced at his watch during a solemn ceremony for U.S. Marines killed in the Kabul terror attack."
-    publishedDateTime: 2021-08-30T02:28:00Z
-    webUrl: "https://www.bostonherald.com/2021/08/29/was-biden-looking-at-his-watch-during-ceremony-for-marines-killed-in-kabul/"
-    ampWebUrl: "https://www.bostonherald.com/2021/08/29/was-biden-looking-at-his-watch-during-ceremony-for-marines-killed-in-kabul/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/08/29/was-biden-looking-at-his-watch-during-ceremony-for-marines-killed-in-kabul/amp/"
+  - title: "Afghanistan live updates: Biden says another Kabul airport attack 'highly likely'; Pentagon says strike killed two in ISIS-K"
+    excerpt: "The Pentagon said a Friday airstrike killed two and wounded one ISIS-K planners and facilitators. The mission came a day after a Kabul airport bombing."
+    publishedDateTime: 2021-08-28T23:12:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/08/28/afghanistan-updates-us-drone-strike-isis-k-three-days-deadline/5629189001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5629189001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5629189001"
     type: article
     provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 73
+      name: USA Today
+      domain: usatoday.com
+    quality: 98
     images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2021/08/GettyImages-1234946450.jpg?w=1024&#038;h=642"
-        width: 1024
-        height: 642
+      - url: "https://www.gannett-cdn.com/presto/2021/08/27/USAT/d5370f8c-b8ef-4884-a26a-5837044ed2c1-AP_Afghanistan_1.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Biden to Attend Briefing on Hurricane Ida on Saturday -White House"
-    excerpt: "U.S. President Joe Biden will attend a briefing later on Saturday by administration officials on preparations for Hurricane Ida, which is expected to make landfall in the United States this weekend. The briefing is scheduled for 1:30 p."
-    publishedDateTime: 2021-08-28T16:33:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2021-08-28/biden-to-attend-briefing-on-hurricane-ida-on-saturday-white-house"
-    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-08-28/biden-to-attend-briefing-on-hurricane-ida-on-saturday-white-house?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-08-28/biden-to-attend-briefing-on-hurricane-ida-on-saturday-white-house?context=amp"
+  - title: "Explained: What happens after Joe Biden’s evacuation force leaves Afghanistan?"
+    excerpt: "The chaotic and perilous evacuation from Kabul airport that ensued has unleashed a wave of criticism and presented Biden with his biggest crisis since taking office in January."
+    publishedDateTime: 2021-08-29T04:04:00Z
+    webUrl: "https://indianexpress.com/article/explained/afghanistan-crisis-us-evacuation-joe-biden-deadline-7469600/"
+    ampWebUrl: "https://indianexpress.com/article/explained/afghanistan-crisis-us-evacuation-joe-biden-deadline-7469600/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/afghanistan-crisis-us-evacuation-joe-biden-deadline-7469600/lite/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "Biden pledges Ida support for 'as long as it takes'"
-    excerpt: "President Joe Biden spoke Monday with officials in states pounded by Hurricane Ida and pledged federal suppport \"for as long as it takes\" to help them recover. (Aug. 30)"
-    publishedDateTime: 2021-08-30T21:49:00Z
-    webUrl: "https://www.jsonline.com/videos/news/nation/2021/08/30/biden-pledges-ida-support-long-takes/5656595001/"
-    type: article
-    provider:
-      name: Milwaukee Journal Sentinel
-      domain: jsonline.com
-    quality: 55
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 71
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/6f57dd2e-348a-40ad-916e-d43af51ffef6_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://images.indianexpress.com/2021/08/US-afghanistan-explained.jpg"
+        width: 1200
+        height: 667
         isCached: true
-  - title: "Joe Biden holds virtual meeting on Hurricane Ida in Washington"
-    excerpt: "U.S. President Joe Biden meets virtually with FEMA Administrator Deanne Criswell and governors and mayors from States and cities impacted by Hurricane Ida from South Court Auditorium at the White House in Washington,"
-    publishedDateTime: 2021-08-30T18:20:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/afed49e3dfe0422f575a3cdadde2c7ce/Joe-Biden-holds-virtual-meeting-on-Hurricane-Ida-in-Washington/"
+  - title: "Joe Biden ‘holds grudges’ and will punish Britain for Afghanistan criticism, allies say"
+    excerpt: "British Cabinet insiders were quoted as suggesting the US president 'looked gaga' and described him as 'doolally'"
+    publishedDateTime: 2021-08-29T05:00:00Z
+    webUrl: "https://www.telegraph.co.uk/world-news/2021/08/29/joe-biden-holds-grudges-will-punish-britain-afghanistan-criticism/"
+    ampWebUrl: "https://www.telegraph.co.uk/world-news/2021/08/29/joe-biden-holds-grudges-will-punish-britain-afghanistan-criticism/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/world-news/2021/08/29/joe-biden-holds-grudges-will-punish-britain-afghanistan-criticism/amp/"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 67
     images:
-      - url: "https://cdnph.upi.com/pv/upi/afed49e3dfe0422f575a3cdadde2c7ce/BIDEN-HURRICANE-IDA.jpg"
-        width: 650
-        height: 433
+      - url: "https://www.telegraph.co.uk/content/dam/world-news/2021/08/28/b06aabaf-98ae-4003-9659-137dc21425ef_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwV4qQjafBPh4ijHPKfdh5Ck.jpeg"
+        width: 645
+        height: 403
         isCached: true
-  - title: "Biden declares major disaster in Louisiana due to Hurricane Ida: Here's what the means"
-    excerpt: "President Joe Biden has approved a major disaster declaration for Louisiana due to Hurricane Ida, allowing federal money to be used in recovery efforts."
-    publishedDateTime: 2021-08-30T04:46:00Z
-    webUrl: "https://www.theadvocate.com/baton_rouge/news/weather_traffic/article_4b978c06-094d-11ec-90fa-eb1d23dfc9ca.html"
+  - title: "Joe Biden gave 'confusing' answer on Afghanistan during Democratic presidential debate"
+    excerpt: "JOE BIDEN gave a \"confusing\" answer on Afghanistan during the Democratic presidential debate in 2019, according to a political commentator."
+    publishedDateTime: 2021-08-30T07:40:00Z
+    webUrl: "https://www.express.co.uk/news/world/1483786/joe-biden-afghanistan-withdrawal-us-democratic-presidential-debate-spt"
+    ampWebUrl: "https://www.express.co.uk/news/world/1483786/joe-biden-afghanistan-withdrawal-us-democratic-presidential-debate-spt/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/world/1483786/joe-biden-afghanistan-withdrawal-us-democratic-presidential-debate-spt/amp"
     type: article
     provider:
-      name: The Advocate
-      domain: theadvocate.com
+      name: Daily Express
+      domain: express.co.uk
+    quality: 67
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/78/590x/Joe-Biden-gave-confusing-answer-on-Afghanistan-during-Democratic-presidential-debate-1483786.jpg?r=1630309255609"
+        width: 590
+        height: 350
+        isCached: true
+  - title: "US Marine fired after slamming Joe Biden in furious rant following Afghanistan catastrophe"
+    excerpt: "A Lieutenant Colonel has been fired after he took to social media to unleash a furious attack on Joe Biden and military leaders blaming them for the deadly withdrawal from Afghanistan."
+    publishedDateTime: 2021-08-28T09:31:00Z
+    webUrl: "https://www.express.co.uk/news/world/1483221/US-marine-video-Stuart-Scheller-Afghanistan-withdrawal-Joe-Biden-Kabul-airport-attack-vn"
+    ampWebUrl: "https://www.express.co.uk/news/world/1483221/US-marine-video-Stuart-Scheller-Afghanistan-withdrawal-Joe-Biden-Kabul-airport-attack-vn/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/world/1483221/US-marine-video-Stuart-Scheller-Afghanistan-withdrawal-Joe-Biden-Kabul-airport-attack-vn/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 65
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/78/590x/1483221_1.jpg?r=1630144550341"
+        width: 590
+        height: 350
+        isCached: true
+  - title: "Fact check: Quote about Afghanistan, Democrats in Washington falsely attributed to Donald Trump"
+    excerpt: "Donald Trump did not say the situation in Afghanistan is a distraction from the Democrats in Washington. The quote is being falsely attributed to him."
+    publishedDateTime: 2021-08-27T02:32:00Z
+    webUrl: "https://www.freep.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
+    ampWebUrl: "https://amp.freep.com/amp/5586860001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5586860001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 63
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/22/USAT/9aef22b6-661a-487a-9438-89b679f37137-GTY_1335520712.jpg?auto=webp&crop=3688,2075,x0,y187&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Eamonn Holmes lays into Joe Biden and ‘the Yanks’ in furious This Morning rant over Afghanistan retreat"
+    excerpt: "EAMONN Holmes has let rip at US President Joe Biden while discussing the country’s retreat from Afghanistan. The telly presenter, 61, laid into President Biden and “the Yanks”"
+    publishedDateTime: 2021-08-30T20:51:00Z
+    webUrl: "https://www.the-sun.com/entertainment/tv/3569156/eamonn-holmes-lays-into-joe-biden-the-yanks/"
+    ampWebUrl: "https://www.the-sun.com/entertainment/tv/3569156/eamonn-holmes-lays-into-joe-biden-the-yanks/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/entertainment/tv/3569156/eamonn-holmes-lays-into-joe-biden-the-yanks/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 59
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/ACP-3008-COMP-HOLMES-OFFP.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "‘He’s finished’: Joe Biden ‘cannot survive’ fallout over Afghanistan withdrawal"
+    excerpt: "Joe Biden's presidency is finished and it can't survive the fallout over his administration's \"messy\" withdrawal from Afghanistan, according to Curtin University Professor Joe Siracusa. Mr Siracusa said Joe Biden had an opportunity to withdraw from Afghanistan as \"gracefully as he could\" but it turned out to be quite \"messy\"."
+    publishedDateTime: 2021-08-29T23:00:00Z
+    webUrl: "https://www.news.com.au/world/hes-finished-joe-biden-cannot-survive-fallout-over-afghanistan-withdrawal/video/4b7a4f64654c6632cf29b219b9301b37"
+    type: article
+    provider:
+      name: News.com.au
+      domain: news.com.au
+    quality: 51
+    images:
+      - url: "https://content.api.news/v3/images/bin/8d90f6cb11a091041b159f4f2c14c614"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Rick Scott renews calls for Congressional probe into Joe Biden’s ‘Afghanistan failures’"
+    excerpt: "Rick Scott again expressed frustration with President Joe Biden ’s “Afghanistan failures,” making what seem to be unheeded calls for a Congressional investigation"
+    publishedDateTime: 2021-08-30T21:03:00Z
+    webUrl: "https://floridapolitics.com/archives/454087-afghan-failures/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
     quality: 47
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/1/d1/1d121d3e-d436-11eb-aee3-bf9e50fd7cff/60d350d693206.image.jpg?crop=1012%2C543%2C6%2C3&resize=1012%2C543&order=crop%2Cresize"
-        width: 1012
-        height: 543
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/05/Scott-1-scaled-e1624478902461.jpg"
+        width: 1280
+        height: 854
         isCached: true
-  - title: "Biden Declares Major Disaster After Hurricane Ida Lashes Louisiana"
-    excerpt: "U.S. President Joe Biden declared a major disaster in Louisiana and ordered federal aid to supplement recovery efforts in the areas affected by Hurricane Ida, the White House said on Sunday. \"Assistance can include grants for temporary housing and home repairs,"
-    publishedDateTime: 2021-08-30T03:39:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2021-08-29/biden-declares-major-disaster-after-hurricane-ida-lashes-louisiana"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "QGVH+4Msn7OevI2fvnDuLOo3PD00s7dIijW6AINygKtru4KvygD2GVPwYoOGi8z1hYvwRmSR5DtQ7NddIMFBPqzXEHPG9JMJ9QUi1lc9cjeDLknv3w7y1KhN9tTKceyVc6HMkGX1DAeZJACMnvhhG4T7pluQzNQJZ8bfmyM5ujktAbr9UQBa1jfVWriJzlhIcVhoAc7xEWLdyDT4yTfWMUWc3kQmj7a49j6/T+UTBMwi4Vo9Bh/NP78yWzX3up6cRFayhntYYv286rEUm5VHLKMxrgOp1Yxd8m8s9DudATEOjbBE1HhWZJy6iFQTH7TKe1q7eRK0Ww5EOCEVQFSdcPZkOZbb6acP5Wqd/RQhg3w=;xe4bj7QAxSf8Iaoz9znJKg=="
 ---
