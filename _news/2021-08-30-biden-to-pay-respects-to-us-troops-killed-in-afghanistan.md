@@ -293,6 +293,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "WATCH LIVE: Biden addresses nation about end of Afghanistan war"
+    excerpt: "The United States has completed its withdrawal from Afghanistan, ending America's longest war. President Joe Biden is set to address the nation about Afghanistan on Tuesday."
+    publishedDateTime: 2021-08-31T13:30:00Z
+    webUrl: "https://www.pbs.org/newshour/nation/watch-live-biden-addresses-nation-about-end-of-afghanistan-war"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/nation/watch-live-biden-addresses-nation-about-end-of-afghanistan-war"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/nation/watch-live-biden-addresses-nation-about-end-of-afghanistan-war"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 125
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2021/08/2021-08-30T185508Z_1184490361_RC2TFP9FMB8H_RTRMADP_3_STORM-IDA-BIDEN-1024x745.jpg"
+        width: 1024
+        height: 745
+        isCached: true
   - title: "Biden to withdraw U.S. troops from Afghanistan by Sept. 11, officials say"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden has decided to withdraw the remaining U.S. troops from Afghanistan by Sept. 11, 2021, 20 years to the day after al Qaeda’s attacks triggered America’s longest war, U.S. officials said on Tuesday. U.S ..."
     publishedDateTime: 2021-04-13T15:55:00Z
@@ -1007,6 +1023,22 @@ related:
         width: 5460
         height: 3640
         isCached: true
+  - title: "War is over but not Biden’s Afghanistan challenges"
+    excerpt: "With the final stream of U.S. cargo planes soaring over the peaks of the Hindu Kush, President Joe Biden fulfilled a campaign promise to end America’s longest war, one it could not win."
+    publishedDateTime: 2021-08-31T13:23:00Z
+    webUrl: "https://www.denverpost.com/2021/08/31/afghanistan-us-challenges-joe-biden-analysis/"
+    ampWebUrl: "https://www.denverpost.com/2021/08/31/afghanistan-us-challenges-joe-biden-analysis/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/08/31/afghanistan-us-challenges-joe-biden-analysis/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/08/AP21242661864096.jpg?w=1024&#038;h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Joe Biden’s Tale of Russian Bounties in Afghanistan Collapses Completely"
     excerpt: "Biden and the Democrats knew the Russian bounties story was likely fake news, a hoax, a scam, whatever else you want to call it. But they didn’t care."
     publishedDateTime: 2021-04-15T17:46:00Z
@@ -1481,6 +1513,20 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/33b6a11c0dd29ce286947ef7e5c25211719df6d4.jpg"
         width: 768
         height: 512
+        isCached: true
+  - title: "Under pressure, Biden to defend withdrawal from Afghanistan"
+    excerpt: "President Joe Biden on Tuesday will seek to turn the page on the worst foreign policy crisis of his administration when he addresses the nation about the chaotic"
+    publishedDateTime: 2021-08-31T13:32:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/washington/under-pressure-biden-to-defend-withdrawal-from-afghanistan/article_d0e87cc2-8cc9-54da-a451-096ebe4e8f12.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "War is over but not Joe Biden’s Afghanistan challenges"
     excerpt: "With the final stream of U.S. cargo planes soaring over the peaks of the Hindu Kush, President Joe Biden fulfilled a campaign promise to end America’s longest war, one it could not win. But as the war ended with a chaotic,"

@@ -2,19 +2,23 @@
 category: news
 title: "Goodbye, Afghanistan: From George W. Bush to Joe Biden, no celebration as America's longest war ends"
 excerpt: "Twenty years after U.S. bombers arrived, the last U.S. cargo plane departs a war that has left its mark, and its sorrow, on four presidents."
-publishedDateTime: 2021-08-31T00:38:00Z
-originalUrl: "https://www.indystar.com/story/news/politics/2021/08/30/afghanistan-war-ends-america-legacy/5598968001/"
-webUrl: "https://www.indystar.com/story/news/politics/2021/08/30/afghanistan-war-ends-america-legacy/5598968001/"
-ampWebUrl: "https://amp.indystar.com/amp/5598968001"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5598968001"
+publishedDateTime: 2021-08-30T21:38:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/08/30/afghanistan-war-ends-america-legacy/5598968001/"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/08/30/afghanistan-war-ends-america-legacy/5598968001/"
+ampWebUrl: "https://amp.usatoday.com/amp/5598968001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5598968001"
 type: article
-quality: 60
+quality: 110
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -789,6 +793,6 @@ related:
         height: 380
         isCached: true
 
-secured: "bjJZApcKfb4HF8xC7zvPw1vb3O/QRedTX+HTirzh085bVM+T6dJC0W+Uk///YMYIv8fEqW/VOk6Xjg7b8uTukmOBYPObhCCYjClFZO4mKZOE8Kn3zJQlMdaabFmicZ8rWN7hwrenXG3GuoeXbD7BVtQ3eBxkyhqTJtLcR5OB0Nqi9zNZVa5WUhPciCUk8kpuETSPG/9eYrAqJ64Nh36gpxF5Qyf46P7NtJ8NkS+VRc6PmQzUJtItiGcj09AcZbdcTsUGJD8OcK1K6d0oI3bTpuMM+I58EwnU1jRoJX+jVtYrKAqbrcbHgPX2P+Jet2Lu3B6gTeE5QJV45tAdlGKafx1Kj42ISiHUCVlXpvMxuT8gwVu3T5ePC3Ma1aVZKhblgz1JJAJph6zvbsj6eVOLd7GRHLA83M+ex0syfd6edN85JpjtdrbxfUC6P0UUND+bVD81GFaVNJddcuqKfOegz3ziG6hAtJyFneCNRLxGUm5msIfYbgzlISfaS0unaDZmPLfdEEfoYktL6MGob1rDng==;kAtuxF+mNGBuJ30yn25jzA=="
+secured: "wMGoHquLwv1E/JRV3ZZr1lPOl9LACYPoMqrn/ocVNp+ECYmCcuZM8z7eqp+6hwO2rR1pzhfJROG7iHLfS0rFjjVp6pPQijPveZl7dR2/1u0xw6YWvOc7qCTjpCtVykv95CjSfgQLvkbHe94WpZalASAHoNrqI5Xie05QnpArdP2NStXYUUSh90/IadiWtqQzMknUrrxcrWz7eU0ubckj7iligCHGhB5aGfL1PvxXo7VA8H8XL8GK+pUnuLKD8gplT+9ZJAH4mVb2u+S84nwyHLajZroBWhOyLuzZJfLXftuSQDATt1yJI2+dPw+b4AyoOBPzeZBcVGhKNWOt6KTTtjIGJzyUziSVpUYagZ8J/Jc=;oe7d2BjgqTuF7Czn+e9llA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/08/27/president-joe-biden-i
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/"
 type: article
 quality: 70
-heat: 70
+heat: 90
 published: true
 
 provider:
@@ -25,6 +25,19 @@ images:
     width: 800
     height: 532
     isCached: true
+
+related:
+  - title: "Ukraine’s leader to talk with Biden on security, Russian gas"
+    excerpt: "Ukraine's president is traveling to the United States in hopes of bolstering security ties with Washington and persuading the administration to ramp up sanctions against a new Russian gas pipeline byp"
+    publishedDateTime: 2021-08-31T11:34:00Z
+    webUrl: "https://www.seattletimes.com/business/ukraines-leader-to-talk-with-biden-on-security-russian-gas/"
+    ampWebUrl: "https://www.seattletimes.com/business/ukraines-leader-to-talk-with-biden-on-security-russian-gas/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ukraines-leader-to-talk-with-biden-on-security-russian-gas/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
 
 secured: "FNzR8NOhA3qFxcXYuZuOoZBljZNVUJonQGkt5DT9zghlPawMpOqwUa9ZMVjSper++pVszLYaOw9bTI9dUdvMTRoipG0bGGjqpDQjXWjVSJxj2FCDcXabtN5iFAlO7dLCO7XNpa6ZsmrLG54uTs/3DQZY8lFIhIwI7yvSyJTqkGsWb4dvLI/SQbPiJG0KS7eXDxxFN5Ol+NkIvv5aNi+jPSZDfDmgngYrHNZJyeIbAPpmDhN5PqnJu6pVgzGWQZHogdadijbXUBrcNUPWcS0j3wcm3H8ctCIbld025CqOuDtlOvoXSCo9LxUSEehnW9QV2QopJNqKKKdg/7mwy/V6xJ3fLE9Das/pWHMG656NHI3FDoFmhFM+/hGBPGnqGCa4wqGprtD/oZkvY6AK4ZvsITUTeNHYeXF9JWWBLCQ7KwgcbgOq05/HJ/HOHThJl2g/vJJ+9ItsDJJs1VubBCzlbevb1C5bI0+Y1dxncSnGuct14oOKfbmKbVTsji2ayb4eil7KbzAbarvmFvlnGxbzLg==;5WZJPO94/YYH3Boc/uxhEA=="
 ---
