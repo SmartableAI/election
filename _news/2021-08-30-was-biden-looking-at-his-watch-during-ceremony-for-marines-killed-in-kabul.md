@@ -27,21 +27,69 @@ images:
     isCached: true
 
 related:
-  - title: "WATCH: Biden pledges Hurricane Ida support for ‘as long as it takes’"
-    excerpt: "Ida has left scores of coastal Louisiana residents trapped by floodwaters and pleading to be rescued, while making a shambles of the electrical grid across a wide swath of the state in the sweltering,"
-    publishedDateTime: 2021-08-30T19:10:00Z
-    webUrl: "https://www.pbs.org/newshour/nation/watch-biden-pledges-hurricane-ida-support-for-as-long-as-it-takes"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/nation/watch-biden-pledges-hurricane-ida-support-for-as-long-as-it-takes"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/nation/watch-biden-pledges-hurricane-ida-support-for-as-long-as-it-takes"
+  - title: "Joe Biden and Europe are going different ways"
+    excerpt: "For EU governments, the contrast between the US president’s policies and those of Donald Trump is more apparent than real"
+    publishedDateTime: 2021-08-31T14:02:00Z
+    webUrl: "https://www.ft.com/content/bfe24854-3bf2-4ada-b3a2-778b4707c31f"
+    ampWebUrl: "https://amp.ft.com/content/bfe24854-3bf2-4ada-b3a2-778b4707c31f"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/bfe24854-3bf2-4ada-b3a2-778b4707c31f"
     type: article
     provider:
-      name: PBS
-      domain: pbs.org
+      name: The Financial Times
+      domain: ft.com
     quality: 125
     images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2021/08/2021-08-30T182355Z_554461000_RC2TFP9CFQYB_RTRMADP_3_STORM-IDA-BIDEN-1024x563.jpg"
-        width: 1024
-        height: 563
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9ce12d54-bd65-4ea1-8ba6-78ecb4951f38.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
+  - title: "Joe Biden’s future looks bleak – he’s shamed and endangered the West"
+    excerpt: "A broken man THE charge sheet against Joe Biden grows by the day. It’s not just that his reckless, casual disregard for Afghanistan and its ­people led directly to the suicide bomb slaughter of 13"
+    publishedDateTime: 2021-08-28T01:58:00Z
+    webUrl: "https://www.the-sun.com/news/3555473/joe-biden-shamed-endangered-west/"
+    ampWebUrl: "https://www.the-sun.com/news/3555473/joe-biden-shamed-endangered-west/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3555473/joe-biden-shamed-endangered-west/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 75
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/NINTCHDBPICT000675572319-1-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Biden aide: US has capacity to evacuate remaining Americans"
+    excerpt: "He warned another attack was “highly likely” and the State Department called the threat “specific” and “credible.” The Pentagon said the remaining contingent of U.S. forces at the airport, now numbering fewer than 4,"
+    publishedDateTime: 2021-08-29T12:38:00Z
+    webUrl: "https://www.nhregister.com/news/article/Biden-Another-attack-likely-pledges-more-16419255.php"
+    ampWebUrl: "https://www.nhregister.com/news/amp/Biden-Another-attack-likely-pledges-more-16419255.php"
+    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Biden-Another-attack-likely-pledges-more-16419255.php"
+    type: article
+    provider:
+      name: New Haven Register
+      domain: nhregister.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Biden in the ‘loneliest job,’ a presidency driven by crisis"
+    excerpt: "President Joe Biden listens as he meets with Israeli Prime Minister Naftali Bennett in the Oval Office of the White House in Washington. T"
+    publishedDateTime: 2021-08-28T19:50:00Z
+    webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-28/biden-in-the-loneliest-job-a-presidency-driven-by-crisis"
+    ampWebUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-28/biden-in-the-loneliest-job-a-presidency-driven-by-crisis?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2021-08-28/biden-in-the-loneliest-job-a-presidency-driven-by-crisis?_amp=true"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 75
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/e2d51e4/2147483647/strip/true/crop/3988x2667+6+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F36%2F6c%2F793147b24a6c25fa1dbc5862839a%2Fdfd574e0c358447194470e99983982e0"
+        width: 320
+        height: 214
         isCached: true
   - title: "Ida Updates: Biden says hardest-hit states are resilient"
     excerpt: "President Joe Biden has spoken with officials in states pounded by Hurricane Ida, detailing the federal effort to survey damage and ensure access to electricity, water and cell phone service. The president said Monday that state officials should contact the White House if they need additional support — even though the effort is being led by FEMA."
@@ -59,68 +107,140 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Biden to Attend Briefing on Hurricane Ida on Saturday -White House"
-    excerpt: "U.S. President Joe Biden will attend a briefing later on Saturday by administration officials on preparations for Hurricane Ida, which is expected to make landfall in the United States this weekend. The briefing is scheduled for 1:30 p."
-    publishedDateTime: 2021-08-28T16:33:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2021-08-28/biden-to-attend-briefing-on-hurricane-ida-on-saturday-white-house"
-    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-08-28/biden-to-attend-briefing-on-hurricane-ida-on-saturday-white-house?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-08-28/biden-to-attend-briefing-on-hurricane-ida-on-saturday-white-house?context=amp"
+  - title: "Biden praises WNBA champs for social justice activism"
+    excerpt: "President Joe Biden honored the 2020 WNBA champions Seattle Storm on Monday, celebrating their success on the court and hailing the four-time title holders for changing lives with"
+    publishedDateTime: 2021-08-24T13:26:00Z
+    webUrl: "https://www.phillytrib.com/sports/biden-praises-wnba-champs-for-social-justice-activism/article_a4098845-3c9c-5182-ba4a-4f5a594da7bc.html"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "Biden pledges Ida support for 'as long as it takes'"
-    excerpt: "President Joe Biden spoke Monday with officials in states pounded by Hurricane Ida and pledged federal suppport \"for as long as it takes\" to help them recover. (Aug. 30)"
-    publishedDateTime: 2021-08-30T21:49:00Z
-    webUrl: "https://www.jsonline.com/videos/news/nation/2021/08/30/biden-pledges-ida-support-long-takes/5656595001/"
-    type: article
-    provider:
-      name: Milwaukee Journal Sentinel
-      domain: jsonline.com
+      name: Philadelphia Tribune
+      domain: phillytrib.com
     quality: 55
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/6f57dd2e-348a-40ad-916e-d43af51ffef6_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/assets/v3/editorial/5/5f/55fd9673-7d2d-5b10-a2e3-90069a1434d2/6124f3e31a6b5.image.jpg?crop=834%2C439%2C79%2C26&resize=400%2C211&order=crop%2Cresize"
+        width: 400
+        height: 211
         isCached: true
-  - title: "Joe Biden holds virtual meeting on Hurricane Ida in Washington"
-    excerpt: "U.S. President Joe Biden arrives at virtual meeting with FEMA Administrator Deanne Criswell and governors and mayors from States and cities impacted by Hurricane Ida from South Court Auditorium at the White House in Washington,"
-    publishedDateTime: 2021-08-30T18:20:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/4b1ba91c074fd7dcfd6ffb79ad161d7e/Joe-Biden-holds-virtual-meeting-on-Hurricane-Ida-in-Washington/"
+  - title: "Wisconsin's Democratic Senate primary could be referendum on Biden"
+    excerpt: "Wisconsin’s next Senate election isn’t until Nov. 8, 2022, but already there are 11 candidates vying for the Democratic nomination in a party primary that could prove to be an early referendum on Pres"
+    publishedDateTime: 2021-08-24T13:18:00Z
+    webUrl: "https://www.wsjm.com/2021/08/24/wisconsins-democratic-senate-primary-could-be-referendum-on-biden/"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
+      name: WSJM
+      domain: wsjm.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/4b1ba91c074fd7dcfd6ffb79ad161d7e/BIDEN-HURRICANE-IDA.jpg"
-        width: 650
-        height: 433
+      - url: "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/321/2021/08/24100917/iStock_082421_wiscsenateseat.jpeg"
+        width: 630
+        height: 352
         isCached: true
-  - title: "Biden declares major disaster in Louisiana due to Hurricane Ida: Here's what the means"
-    excerpt: "President Joe Biden has approved a major disaster declaration for Louisiana due to Hurricane Ida, allowing federal money to be used in recovery efforts."
-    publishedDateTime: 2021-08-30T04:46:00Z
-    webUrl: "https://www.theadvocate.com/baton_rouge/news/weather_traffic/article_4b978c06-094d-11ec-90fa-eb1d23dfc9ca.html"
+  - title: "Rep. Boebert: 'There is Blood on Joe Biden's Hands'"
+    excerpt: "In the wake of the bombing at the Kabul airport in Afghanistan that killed at least 12 U.S. Marines and an unconfirmed number of civilians, House Rep. Lauren Boebert (R-Colo.) said President Joe Biden has blood on his hands for failing to competently plan and execute the withdrawal from Afghanistan."
+    publishedDateTime: 2021-08-26T17:39:00Z
+    webUrl: "https://www.cnsnews.com/article/washington/michael-w-chapman/rep-boebert-there-blood-joe-bidens-hands"
     type: article
     provider:
-      name: The Advocate
-      domain: theadvocate.com
-    quality: 47
+      name: CNSNews.com
+      domain: cnsnews.com
+    quality: 55
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/1/d1/1d121d3e-d436-11eb-aee3-bf9e50fd7cff/60d350d693206.image.jpg?crop=1012%2C543%2C6%2C3&resize=1012%2C543&order=crop%2Cresize"
-        width: 1012
-        height: 543
+      - url: "https://cdn.cnsnews.com/styles/article_big/s3/2021-08/green%2C%20mark%20%20%2045.jpg"
+        width: 700
+        height: 466
         isCached: true
-  - title: "Biden Declares Major Disaster After Hurricane Ida Lashes Louisiana"
-    excerpt: "U.S. President Joe Biden declared a major disaster in Louisiana and ordered federal aid to supplement recovery efforts in the areas affected by Hurricane Ida, the White House said on Sunday. \"Assistance can include grants for temporary housing and home repairs,"
-    publishedDateTime: 2021-08-30T03:39:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2021-08-29/biden-declares-major-disaster-after-hurricane-ida-lashes-louisiana"
+  - title: "What the end of Joe Biden’s eviction moratorium will look like in Maine"
+    excerpt: "The end of the moratorium comes as the pandemic situation in Maine grows more grim and could test a new state law for renters."
+    publishedDateTime: 2021-08-27T13:22:00Z
+    webUrl: "https://bangordailynews.com/2021/08/27/politics/daily-brief/what-the-end-of-joe-bidens-eviction-moratorium-will-look-like-in-maine/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/LewistonAuburnHousing-090419-2.jpg"
+        width: 1024
+        height: 681
+        isCached: true
+  - title: "Ashley Moody demands border control assurance from Joe Biden"
+    excerpt: "Attorney General Ashley Moody was among 20 Republican AGs signing on to a letter demanding federal assurances of tighter immigration policy. The letter to U.S. Attorney General Merrick Garland followed a favorable ruling in the U."
+    publishedDateTime: 2021-08-27T17:04:00Z
+    webUrl: "https://floridapolitics.com/archives/453563-moody-border/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/05/Ashley-Moody-scaled.jpg"
+        width: 2560
+        height: 1920
+        isCached: true
+  - title: "Does Video Show Joe Biden Falling Asleep in Meeting with Israeli PM?"
+    excerpt: "after videos went viral of U.S. President Joe Biden purportedly falling asleep during a meeting. Biden was meeting with Israeli Prime Minister Naftali Bennett on Aug. 27, 2021, and soon after numerous outlets claimed that he was nodding off as Bennett was ..."
+    publishedDateTime: 2021-08-30T18:08:00Z
+    webUrl: "https://www.snopes.com/fact-check/biden-asleep-meeting-israeli-pm/"
+    type: article
+    provider:
+      name: Snopes.com
+      domain: snopes.com
+    quality: 55
+    images:
+      - url: "https://www.snopes.com/tachyon/2021/08/sleepy-joe-biden-video-misleading.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "President Joe Biden Proclaims Thursday, 26, 2021 as Women’s Equality Day"
+    excerpt: "On President Joe Biden proclaimed August 26, 2021 as Women’s Equality Day. Today, we celebrate Women’s Equality Day, a reminder not only of the progress women have won through the years, but of the important work that remains to be done."
+    publishedDateTime: 2021-08-26T21:01:00Z
+    webUrl: "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/32707-president-joe-biden-proclaims-thursday-26-2021-as-women-s-equality-day"
+    type: article
+    provider:
+      name: Sierra Sun Times
+      domain: goldrushcam.com
+    quality: 54
+    images:
+      - url: "https://goldrushcam.com/sierrasuntimes/images/2020/white-house-gov.jpg"
+        width: 679
+        height: 357
+        isCached: true
+  - title: "For Biden’s presidency has been driven by crisis and is the ‘loneliest job’"
+    excerpt: "President Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan, even as he and the nation continued to battle the COVID-19 pandemic."
+    publishedDateTime: 2021-08-28T13:24:00Z
+    webUrl: "https://www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 53
+  - title: "Storm commemorates 2020 WNBA championship with President Joe Biden at White House"
+    excerpt: "President Joe Biden and first lady Jill Biden hosted an entourage led by Storm captains Sue Bird and Breanna Stewart, coach Noelle Quinn and the majority owners Ginny Gilder, Lisa Brummel and Dawn Trudeau."
+    publishedDateTime: 2021-08-24T22:46:00Z
+    webUrl: "https://www.seattletimes.com/sports/storm/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/"
+    ampWebUrl: "https://www.seattletimes.com/sports/storm/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/sports/storm/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 50
+  - title: "Ruth Dudley Edwards: President Joe Biden is ignorant, arrogant, stubborn — and too damn old"
+    excerpt: "We’re living through a disaster that should be causing all patriotic Americans to wonder if it isn’t time to revisit their methods of choosing their leaders."
+    publishedDateTime: 2021-08-24T13:37:00Z
+    webUrl: "https://www.newsletter.co.uk/news/opinion/columnists/ruth-dudley-edwards-president-joe-biden-is-ignorant-arrogant-stubborn-and-too-damn-old-3357817"
+    type: article
+    provider:
+      name: The News Letter
+      domain: newsletter.co.uk
+    quality: 45
+    images:
+      - url: "https://www.newsletter.co.uk/webimg/TUFZMTMyOTY3Mzkw.jpg?width=2048&enable=upscale"
+        width: 2048
+        height: 1453
+        isCached: true
 
 secured: "0kO80b/ejwHtGW0Kcgh7uoGyQBlz2Un9X7eZmlpBNRZOnwZTmInNSWi/BP7NKc+5aYptnvlPCUZGIGOY6CpPEMuxvPd3P9WSOFXdXXvps+680JxS6oZRm7Xyr7sWo1KOwFTCh4SBEiR8il3g0fa+6M8df3Qt1djuZbIho9H+zdqgHC41076Ddn0qdpK7+/84C0fUq6WMGUeKvwwbtGTBjNkzsc7NUI+2CfwBB6/tdF4RS2VIHW7Wwhjxz9vKH2hVMfUp6I4a5a66gCcnexInP8eUv1N04kc1j+PlnuBg+Uu0BKS7/ObRzXpepB7quylUzllqm+7VeFKgg31h0Lt2Srah1wM7Qh97pAKLiLthaqG9iZNoHqBsXM9p7/eYrpai+RsD+bZGGqMtTmJ8XQcrEjceFNYvRvmSY6kinHyXNSyGVH2b7WMf3ePbK5EJwL8cwNu1XL0eBsM/H7V2aFqVedPc2TTA9uAzrHy5O3y0e/Lv4OuAum/jzhIyFxA2CIOHJFcyuqdx2KTVLWtUMrfPoQ==;2pTRDWXP0ZdhdrIUnj2UOg=="
 ---

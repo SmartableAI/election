@@ -37,6 +37,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Biden’s lack of leadership has set the stage for another Tehran ‘79Biden’s lack of leadership has set the stage for another Tehran ‘79"
+    excerpt: "Remember when President Joe Biden went on national television and said the Afghanistan troop withdrawal would be nothing like Saigon?"
+    publishedDateTime: 2021-08-26T19:49:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/aug/26/bidens-lack-of-leadership-has-set-the-stage-for-an/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/26/bidens-lack-of-leadership-has-set-the-stage-for-an/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/26/bidens-lack-of-leadership-has-set-the-stage-for-an/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 43
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/08/26/B3-WAGN-Biden-Terro_c0-404-1210-1109_s1200x700.jpg?6a44db869a503535e769220c2c37f220f95f195d"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "SY23TO5MAG0y+nPB+SE4iUL4wxNXfSW9UHvCqB2GJM5SbfL8QSGOD963xcRIlYZU3hg9YrKWBd8zUMI8c/Bp7HikvZlipraspNHtLSDuyqJzVwZ+NhhSDPZd1Yya4evbWxdSt/mep58p7QxJYIpjgCudN5FAsBlDqGGJoHcN7gvvmHOZlfD/+qh8gMKiwp+8lQ1sJ5mBxvSskIYtIOKOyEeOTcjyXTM4dYg7y0yAFnW+47Dy8YuxkgWdQ3Vpw/0Bz1GRIgQVfo1PHXyf4l1S/c68KiJSrVamZecCuSoiZZ7MBscpNFPbuyblbtm9P+wJkPJUUSGhV9RV5vkyeShsqJ0ByA9BT6O87WlqgRarjvvk+Ch5yNfyxJeUiOjYbp/ie/uAOk8VBdsRMJEGVq4j2fcxUobFqMqXULiEyvK3Dw5/Wnd0GUtFm3y5W0uQf2S/132K5ajUDm8NxfRlpmI99dHYp6B5vClzfV/cpRjvcoZhJ55xKo1mzBEXU7N+HThhZigJDgPvm7STL4H/mRzdzw==;ObDzEzDBLEbhTLSrGaR18Q=="
 ---

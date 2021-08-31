@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-08-14-moscow-says-no-plans-to-discuss-edward-snowdens-status-during-trump-putin-summit.md",
+      "title": "Moscow says no plans to discuss Edward Snowden’s status during Trump-Putin summit",
+      "excerpt": "Russia's foreign minister on Friday cast doubt on the possibility of extraditing Edward Snowden, the fugitive former National Security Agency contractor who received political asylum from Moscow after leaking classified documents to the media in 2013.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/europe-summits-moscow-edward-snowden-be8e1b459165d0679b18d86e21d5deb7",
+      "originalUrl": "https://apnews.com/article/europe-summits-moscow-edward-snowden-be8e1b459165d0679b18d86e21d5deb7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/ShareLogo2.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-13T16:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-14-lamborn-dismissed-pandemic-as-hoax-meant-to-derail-trumps-reelection-ex-staffer-says-in-sworn-statement.md",
       "title": "Lamborn dismissed pandemic as hoax meant to derail Trump’s reelection, ex-staffer says in sworn statement",
       "excerpt": "Allegations that U.S. Rep. Doug Lamborn, R-Colorado Springs, fired a staffer in retaliation after the staffer sought to protect himself and others during the pandemic are true, another former",
@@ -1270,58 +1313,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-judge-rules-dominion-defamation-case-against-trump-allies-can-proceed.md",
-      "title": "Judge rules Dominion defamation case against Trump allies can proceed",
-      "excerpt": "A federal judge cleared the way for a defamation case​ by Dominion Voting Systems to proceed against Sidney Powell, Rudy Giuliani and Mike Lindell.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/dominion-defamation-case-rudy-giuliani-sidney-powell-mike-lindell/",
-      "originalUrl": "https://www.cbsnews.com/news/dominion-defamation-case-rudy-giuliani-sidney-powell-mike-lindell/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 805,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/08/12/0be33b12-830d-4c03-9278-d82c0bb76461/thumbnail/1200x630g1/bed7589c1d9e274f1896636b27e28722/gettyimages-1229757105.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/dominion-defamation-case-rudy-giuliani-sidney-powell-mike-lindell/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/dominion-defamation-case-rudy-giuliani-sidney-powell-mike-lindell/",
-      "publishedDateTime": "2021-08-12T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

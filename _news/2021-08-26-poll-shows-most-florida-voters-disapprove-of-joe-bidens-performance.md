@@ -57,20 +57,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "President Joe Biden Proclaims Thursday, 26, 2021 as Women’s Equality Day"
-    excerpt: "On President Joe Biden proclaimed August 26, 2021 as Women’s Equality Day. Today, we celebrate Women’s Equality Day, a reminder not only of the progress women have won through the years, but of the important work that remains to be done."
-    publishedDateTime: 2021-08-26T21:01:00Z
-    webUrl: "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/32707-president-joe-biden-proclaims-thursday-26-2021-as-women-s-equality-day"
-    type: article
-    provider:
-      name: Sierra Sun Times
-      domain: goldrushcam.com
-    quality: 54
-    images:
-      - url: "https://goldrushcam.com/sierrasuntimes/images/2020/white-house-gov.jpg"
-        width: 679
-        height: 357
-        isCached: true
   - title: "Storm commemorates 2020 WNBA championship with President Joe Biden at White House"
     excerpt: "Before leaving the nation's capital, the Storm stopped by the White House on Monday, marking a return to normalcy when sports teams regularly received invitations to celebrate championships and their athletic achievements."
     publishedDateTime: 2021-08-23T21:13:00Z
@@ -85,17 +71,6 @@ related:
         width: 1680
         height: 876
         isCached: true
-  - title: "Storm commemorates 2020 WNBA championship with President Joe Biden at White House"
-    excerpt: "President Joe Biden and first lady Jill Biden hosted an entourage led by Storm captains Sue Bird and Breanna Stewart, coach Noelle Quinn and the majority owners Ginny Gilder, Lisa Brummel and Dawn Trudeau."
-    publishedDateTime: 2021-08-24T22:46:00Z
-    webUrl: "https://www.seattletimes.com/sports/storm/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/"
-    ampWebUrl: "https://www.seattletimes.com/sports/storm/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/sports/storm/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 50
 
 secured: "x/wu+uFxX8WfHRaoT+t/Gf0WkiM8KYIT5hh+6f3ZnJYRtnJVH9bIK2UDCUI9NhASxYU4CjnwGEUloNSrDvzNtgwN8ieMH3+Wuvxt5WozRPp+YduOzEuuhoP5z2YouivFDxhIQNrfKU7Tl5502OZah/wMb7ykf9BPjBKBZ0oKpYmT/B7kmasv/dVASkAFK5AXJQg4VmJGCX8i925S5mj7jpgUKAxFGbwx44NtlKNEhakAxTDbX/yCZlUk1pzJQJtPxl0VStqI7n8/GWPW0W5K4CEeAJvJ8ffD0iEWwXXbB06k7NShQVxA8O1dSxETLcVDE7RUjA9JeLMjyDx4K4PT6uWPlbDajQlDwt/dgK25/lI=;vInnyZr0h8c16A/xp//D8g=="
 ---

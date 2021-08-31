@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Afghan crisis: US President Joe Biden expected to decide evacuation deadline within 24 hours"
+    excerpt: "Biden warned on Sunday that the evacuation was going to be \"hard and painful\" and a lot could still go wrong. US troops might stay beyond Biden's August 31 deadline to oversee the evacuation, he said."
+    publishedDateTime: 2021-08-24T03:47:00Z
+    webUrl: "https://www.cnbctv18.com/world/afghan-crisis-us-president-joe-biden-expected-to-decide-evacuation-deadline-within-24-hours-10471351.htm"
+    ampWebUrl: "https://www.cnbctv18.com/world/afghan-crisis-us-president-joe-biden-expected-to-decide-evacuation-deadline-within-24-hours-10471351.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/world/afghan-crisis-us-president-joe-biden-expected-to-decide-evacuation-deadline-within-24-hours-10471351.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 64
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2021/06/Biden_Uk-1019x573.jpg"
+        width: 1019
+        height: 573
+        isCached: true
   - title: "Biden kneels at White House celebration of WNBA champs Seattle Storm"
     excerpt: "President Joe Biden got down on one knee in the East Room during the celebration of the WNBA champions Seattle Storm."
     publishedDateTime: 2021-08-24T03:29:00Z

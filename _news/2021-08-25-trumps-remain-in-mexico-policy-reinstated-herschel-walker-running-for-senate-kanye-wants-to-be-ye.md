@@ -87,20 +87,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "What the end of Joe Biden’s eviction moratorium will look like in Maine"
-    excerpt: "The end of the moratorium comes as the pandemic situation in Maine grows more grim and could test a new state law for renters."
-    publishedDateTime: 2021-08-27T13:22:00Z
-    webUrl: "https://bangordailynews.com/2021/08/27/politics/daily-brief/what-the-end-of-joe-bidens-eviction-moratorium-will-look-like-in-maine/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 55
-    images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/LewistonAuburnHousing-090419-2.jpg"
-        width: 1024
-        height: 681
-        isCached: true
 
 secured: "yhNMyiRRTTrgWgTa4aOoeo5mdPtakdr4oeBMsa5BeBXO8eb1QIGLw1UpdPu3cYGqsiwrv4BFLGhNFTqsld0Q0hIDnEFCiuEP0PemLa5zP8vt8LNHL3IRWhK6zDE+hRwSO4dyFOef9NhMqbCx7mi+jhzvzRJ3Sg74Qfw7fyQfn3/45bZeW9zXaQLxwkXrZXNJkvNP1IP2OeHyGFGiDFZ9HV+IhywmGzXvWCL+ctyX6leGotbHKO/ATPEssEBF5cXlgHf3nBYkLx2ylxtSxhb/TQA2oCugsKXWeU4xBx2JcG23CSk6Elgkp8ZrEz5zqXrLspJMt3r5SyyqQqC+ntL1IT59SE7gFkQ31R8AfI4cS1tADQC2z/G9EOVJKl9y+Gl+uiDt13UdcXLclMO30RnG+2YFugMFzHvAePc4JfYEjcurT1REY/BekwwbGiomFhlME0X8ziQCqmDcPndZ0p7UWGhsid9fikDtULpUKY1/iSJ33+aQhcBJthoVG31C0+YnK7XwQpNjml9Sxue9uKGOJw==;oPrHJjAb+9km4g46WSHEpg=="
 ---

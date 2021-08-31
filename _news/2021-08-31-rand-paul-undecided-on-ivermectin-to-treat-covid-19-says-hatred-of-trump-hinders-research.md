@@ -43,6 +43,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Rand Paul says 'hatred for Trump' is stopping study of horse and human drug to treat COVID-19"
+    excerpt: "During a meeting with dozens of his constituents Friday, Paul claimed researchers are unwilling to take Ivermectin seriously as a COVID-19 treatment because of their dislike for the former president."
+    publishedDateTime: 2021-08-31T14:21:00Z
+    webUrl: "https://thehill.com/changing-america/well-being/570130-rand-paul-says-hatred-for-trump-is-stopping-study-of-horse-and"
+    ampWebUrl: "https://thehill.com/changing-america/well-being/570130-rand-paul-says-hatred-for-trump-is-stopping-study-of-horse-and?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/570130-rand-paul-says-hatred-for-trump-is-stopping-study-of-horse-and?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 114
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_randpaulmarx_052521getty_1.png"
+        width: 1320
+        height: 880
+        isCached: true
   - title: "Rand Paul Blames ‘Hatred For Trump’ For FDA’s Hesitance To Study Ivermectin, Hydroxychloroquine"
     excerpt: "Sen. Rand Paul of Kentucky believes the FDA is intentionally avoiding studies for ivermectin And hydroxychloroquine."
     publishedDateTime: 2021-08-30T19:33:00Z

@@ -2,6 +2,63 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-06-26-biden-says-afghans-must-decide-their-future-as-us-troops-withdraw.md",
+      "title": "Biden Says Afghans Must ‘Decide Their Future’ as U.S. Troops Withdraw",
+      "excerpt": "Mr. Biden told President Ashraf Ghani that the United States would still offer security assistance, as well as diplomatic and humanitarian aid.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/06/25/us/politics/biden-afghanistan-withdrawal.html",
+      "originalUrl": "https://www.nytimes.com/2021/06/25/us/politics/biden-afghanistan-withdrawal.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/us/politics/25dc-biden-afghan-1-SWAP/25dc-biden-afghan-1-SWAP-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/06/25/us/politics/biden-afghanistan-withdrawal.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/25/us/politics/biden-afghanistan-withdrawal.amp.html",
+      "publishedDateTime": "2021-06-25T17:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-26-kamala-harris-el-paso-visit-signals-departure-from-trump-border-policies.md",
       "title": "Kamala Harris' El Paso Visit Signals Departure From Trump Border Policies",
       "excerpt": "Biden officials told reporters that Harris chose El Paso as a symbolic reminder of the previous administration's controversial immigration policies.",
@@ -1297,58 +1354,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-ivana-trump-photographed-in-new-york-city-with-luxury-real-estate-broker-pal.md",
-      "title": "Ivana Trump Photographed In New York City With Luxury Real Estate Broker Pal",
-      "excerpt": "Ivana Trump was photographed out and about in New York City Wednesday with a friend, who was identified as seasoned realtor A. Laurance Kaiser IV.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/ivana-trump-photographed-new-york-city-luxury-real-estate-broker-pal-3235124",
-      "originalUrl": "https://www.ibtimes.com/ivana-trump-photographed-new-york-city-luxury-real-estate-broker-pal-3235124",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/10/10/ivana-trump.jpg",
-          "width": 594,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/ivana-trump-photographed-new-york-city-luxury-real-estate-broker-pal-3235124?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ivana-trump-photographed-new-york-city-luxury-real-estate-broker-pal-3235124?amp=1",
-      "publishedDateTime": "2021-06-24T20:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

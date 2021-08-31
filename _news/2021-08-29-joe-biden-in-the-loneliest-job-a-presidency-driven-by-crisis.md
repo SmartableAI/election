@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden in the ‘Loneliest Job,' a Presidency Driven by Crisis"
 excerpt: "Surrounded by everything a superpower can offer and watched by all, President Joe Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan and tried to keep the focus on what,"
-publishedDateTime: 2021-08-29T01:54:00Z
-originalUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
-webUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
+publishedDateTime: 2021-08-28T22:12:00Z
+originalUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/"
+webUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/"
 ampWebUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
 type: article
@@ -122,6 +122,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/c179f21a5b99ff34b46423da1d81ad5fdc95e9d5/0_400_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=257ba2b47f7c59f920a4f825abf8d840"
         width: 600
         height: 360
+        isCached: true
+  - title: "Trump calls for Biden apology, Pentagon brass to resign over Afghanistan"
+    excerpt: "Former President Donald Trump on Tuesday demanded his successor apologize for the disastrous U.S. exit from Afghanistan."
+    publishedDateTime: 2021-08-31T15:26:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/aug/31/trump-calls-biden-apology-pentagon-brass-resign-ov/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/31/trump-calls-biden-apology-pentagon-brass-resign-ov/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/31/trump-calls-biden-apology-pentagon-brass-resign-ov/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 89
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/08/11/trump_financial_records_86507_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
+        width: 1200
+        height: 700
         isCached: true
   - title: "'When I was President...': Donald Trump on Taliban, Joe Biden, Afghanistan"
     excerpt: "Former US President Donald Trump hit out at his successor over the messy exit from Afghanistan which has led to Taliban taking over most of the country, and an evacuation crisis breaking out. Trump said that Joe Biden had gone on vacation as Afghanistan was going to hell."
@@ -436,18 +452,18 @@ related:
         height: 815
         isCached: true
   - title: "President Joe Biden Departs Holy Trinity Catholic Church"
-    excerpt: "US President Joe Biden walks out of Holy Trinity Catholic Church after mass in the Georgetown neighborhood of Washington, DC on Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover,"
+    excerpt: "The view of the White House after President Joe Biden arrives back to the White House from Holy Trinity Catholic Church in the Georgetown neighborhood of Washington, DC on Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover,"
     publishedDateTime: 2021-08-29T22:47:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/0aa5f0085d74f7e3ec67bcdb81bd4836/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/5a62ace3eb872bbda6904e721e80e6ba/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/0aa5f0085d74f7e3ec67bcdb81bd4836/BIDEN-CHURCH.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/5a62ace3eb872bbda6904e721e80e6ba/BIDEN-CHURCH.jpg"
         width: 650
-        height: 433
+        height: 434
         isCached: true
   - title: "Joe Biden’s Jimmy Carter Moment"
     excerpt: "Never in my life have I witnessed American soldiers die the way 13 Marines and service members did last Thursday."
@@ -534,6 +550,6 @@ related:
       domain: seattletimes.com
     quality: 34
 
-secured: "LacpfHoyUNXySRt9V0wKarLNedgPIwRrsi8L9vj7PwU1FFRULuNB1k9zEr/+8mJ9RKDyv9BGxAkqNp4zyeeuuV62cBim3kBygMFhfX8I8SuXRYtJWtcBbRHq773OkmQ+qnhjxjXYfdmrbONPXFTM1ZMyj5cw2Fs/Q/4NfVU6jkZwd+fqGsrNSCa/+OBqbL/soghkgchf/w0sPwGQoA3fy3qI7t5B9J1s58y7xJ61ZUAhFg/WN8QO4Spw990/shRCD1AL9ACTeA87jcj+zfCyWdCJ7qxf1uDZccTp2/6nKs9+BlGfbQX3wMR6Rq0owCI/IKjqnCc228ZkJURUQglSmPZl+31ev/poM6feVwjO/gCT4vqyiMblLu1946ToLFJH7naB5pzgn2moSu8WtBzzfM716VwkxSw955BX5fakOSYZlinZMXpRSnWyAQaoh5Kmm+AwdgH3gQqRak1XXafwvZZYAERqVD7mfslNzA1aVmcHPqBS4z6MJmsoL5psw3Laduh5TkwvJqqQuahZqMyFdw==;W8HX9Shnj/kfh4kLINpQ5g=="
+secured: "m0+1AmubCLCQUbD5e+HIIu7TUSED7aPM9IFJWc+QcIFG9+QGw3DRfMyes56kqrFd0L7dkvBh2ihKS1L+qLfvO17POfh+KVvFglyi+UbIDRG3dE0tdWZ5+G8FDee4kIEle+7/KJEhE4elC3V/QEBoaMVw5reD/sqrCAz2085uOLQyuSuyI6af2zOPbV6R/W6ARb4uCUx349Z3Hsg7BHbo+WVJrg5Wycj+xNfT8V0+6Fzihzd5dc9Hy/cMOj45OyyV0pbWd6/YTvADcuAgWrYqJw072HvzulcgIfwTVP7C0gvDzlBvFFjfwu7h24JMLLVE3pZJQ5friqXHkqCcxAXfJzSbGH8dx4Ht/XQBEAnV0Dc=;CNXIYhEg4p6UJChfPhJ0wQ=="
 ---
 

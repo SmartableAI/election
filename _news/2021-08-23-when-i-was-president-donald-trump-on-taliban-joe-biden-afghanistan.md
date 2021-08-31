@@ -123,6 +123,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump calls for Biden apology, Pentagon brass to resign over Afghanistan"
+    excerpt: "Former President Donald Trump on Tuesday demanded his successor apologize for the disastrous U.S. exit from Afghanistan."
+    publishedDateTime: 2021-08-31T15:26:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/aug/31/trump-calls-biden-apology-pentagon-brass-resign-ov/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/31/trump-calls-biden-apology-pentagon-brass-resign-ov/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/31/trump-calls-biden-apology-pentagon-brass-resign-ov/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 89
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/08/11/trump_financial_records_86507_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Former Trump adviser: Biden needs to fire top Taliban negotiator Khalilzad"
     excerpt: "Lt. Gen. H.R. McMaster, Donald Trump’s former national security adviser, is laying some of the blame for the current chaos in Afghanistan squarely at the feet of Ambassador Zalmay Khalilzad, the Afghan-American diplomat who has been the point man for talks with the Taliban in both Republican and Democratic administrations."
     publishedDateTime: 2021-08-24T17:42:00Z
@@ -189,8 +205,8 @@ related:
         isCached: true
   - title: "Joe Biden in the ‘Loneliest Job,' a Presidency Driven by Crisis"
     excerpt: "Surrounded by everything a superpower can offer and watched by all, President Joe Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan and tried to keep the focus on what,"
-    publishedDateTime: 2021-08-29T01:54:00Z
-    webUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
+    publishedDateTime: 2021-08-28T22:12:00Z
+    webUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/"
     ampWebUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
     cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
     type: article
@@ -436,18 +452,18 @@ related:
         height: 815
         isCached: true
   - title: "President Joe Biden Departs Holy Trinity Catholic Church"
-    excerpt: "US President Joe Biden walks out of Holy Trinity Catholic Church after mass in the Georgetown neighborhood of Washington, DC on Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover,"
+    excerpt: "The view of the White House after President Joe Biden arrives back to the White House from Holy Trinity Catholic Church in the Georgetown neighborhood of Washington, DC on Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover,"
     publishedDateTime: 2021-08-29T22:47:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/0aa5f0085d74f7e3ec67bcdb81bd4836/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/5a62ace3eb872bbda6904e721e80e6ba/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/0aa5f0085d74f7e3ec67bcdb81bd4836/BIDEN-CHURCH.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/5a62ace3eb872bbda6904e721e80e6ba/BIDEN-CHURCH.jpg"
         width: 650
-        height: 433
+        height: 434
         isCached: true
   - title: "Joe Biden’s Jimmy Carter Moment"
     excerpt: "Never in my life have I witnessed American soldiers die the way 13 Marines and service members did last Thursday."

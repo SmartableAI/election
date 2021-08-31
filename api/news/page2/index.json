@@ -2,6 +2,118 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-29-who-is-deanne-criswell-bidens-fema-boss.md",
+      "title": "Who is Deanne Criswell, Biden’s FEMA boss?",
+      "excerpt": "As Louisiana and the Gulf Coast braced for Hurricane Ida, set to make landfall on Sunday potentially as a Category 4 storm, the Federal Emergency Management Agency (FEMA) was expected to play a key role in disaster relief. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5li4tKMQcHI/who-is-deanne-criswell-bidens-fema-boss",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5li4tKMQcHI/who-is-deanne-criswell-bidens-fema-boss",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9eae107d-7ab8-4997-b3b5-16388e743752/931d726d-8b7f-4176-ba05-327a3e199447/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/who-is-deanne-criswell-bidens-fema-boss.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-deanne-criswell-bidens-fema-boss.amp",
+      "publishedDateTime": "2021-08-28T23:38:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-28-al-sharpton-to-biden-black-community-is-being-stabbed-in-the-back.md",
+      "title": "Al Sharpton to Biden: Black community is being stabbed ‘in the back’",
+      "excerpt": "Rev. Al Sharpton hit the stage Saturday during a voting rights rally to tell President Biden that supporters of the filibuster are “stabbing” the Black community “in the back.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gon77kj4eIg/sharpton-tells-biden-black-community-is-being-stabbed-in-the-back",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gon77kj4eIg/sharpton-tells-biden-black-community-is-being-stabbed-in-the-back",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5f25869d-3024-4c4f-8742-1e0eef68548d/d6d6e7f0-f4c6-4a59-9ead-0fef08fc9201/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/sharpton-tells-biden-black-community-is-being-stabbed-in-the-back.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sharpton-tells-biden-black-community-is-being-stabbed-in-the-back.amp",
+      "publishedDateTime": "2021-08-28T16:58:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-28-desantis-requests-biden-administration-stop-resettling-illegal-immigrants-in-florida.md",
       "title": "DeSantis requests Biden administration stop resettling illegal immigrants in Florida",
       "excerpt": "Florida Gov. Ron DeSantis this week wrote to the Biden administration, asking it to stop resettling illegal immigrants in the state of Florida -- and to either deport them instead, or send them to a state that supports the \"flouting of our immigration laws.\"",
@@ -130,49 +242,6 @@
       "provider": {
         "name": "TheJournal.ie",
         "domain": "thejournal.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-joe-bidens-future-looks-bleak-hes-shamed-and-endangered-the-west.md",
-      "title": "Joe Biden’s future looks bleak – he’s shamed and endangered the West",
-      "excerpt": "A broken man THE charge sheet against Joe Biden grows by the day. It’s not just that his reckless, casual disregard for Afghanistan and its ­people led directly to the suicide bomb slaughter of 13",
-      "sourceUrl": null,
-      "webUrl": "https://www.the-sun.com/news/3555473/joe-biden-shamed-endangered-west/",
-      "originalUrl": "https://www.the-sun.com/news/3555473/joe-biden-shamed-endangered-west/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/NINTCHDBPICT000675572319-1-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.the-sun.com/news/3555473/joe-biden-shamed-endangered-west/amp/",
-      "cdnAmpWebUrl": "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3555473/joe-biden-shamed-endangered-west/amp/",
-      "publishedDateTime": "2021-08-27T18:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sun",
-        "domain": "the-sun.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -338,7 +407,7 @@
       "originalUrl": "https://www.upi.com/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -909,7 +978,7 @@
       "originalUrl": "https://www.newsweek.com/how-watch-live-stream-joe-bidens-speech-after-explosions-kabul-airport-1623378",
       "featuredContent": null,
       "highlight": null,
-      "heat": 503,
+      "heat": 523,
       "tags": null,
       "images": [
         {
@@ -1191,49 +1260,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-did-erik-prince-save-joe-biden-from-taliban-blackwater-chief-recalls-2008-rescue.md",
-      "title": "Did Erik Prince save Joe Biden from Taliban? Blackwater chief recalls 2008 rescue",
-      "excerpt": "White House Press Secretary Jen Psaki described Erik Prince, 52, as having no 'heart and soul,' profiting off 'people's agony and pain'",
-      "sourceUrl": null,
-      "webUrl": "https://meaww.com/erik-prince-blackwater-military-contractor-saved-stranded-joe-biden-in-taliban-territory-2008-rescue",
-      "originalUrl": "https://meaww.com/erik-prince-blackwater-military-contractor-saved-stranded-joe-biden-in-taliban-territory-2008-rescue",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cheesecake.articleassets.meaww.com/546432/uploads/a1f94680-0663-11ec-8837-bfe51d82f824_800_420.png",
-          "width": 800,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://meaww.com/amp/erik-prince-blackwater-military-contractor-saved-stranded-joe-biden-in-taliban-territory-2008-rescue",
-      "cdnAmpWebUrl": "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/erik-prince-blackwater-military-contractor-saved-stranded-joe-biden-in-taliban-territory-2008-rescue",
-      "publishedDateTime": "2021-08-26T05:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Meaww",
-        "domain": "meaww.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

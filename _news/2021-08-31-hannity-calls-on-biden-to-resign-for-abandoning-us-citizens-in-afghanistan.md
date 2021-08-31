@@ -2025,6 +2025,22 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "Watch Live: President Biden Speaks On \"Ending The War In Afghanistan\""
+    excerpt: "The president is scheduled to deliver remarks on Tuesday afternoon on the subject of \"ending the war in Afghanistan.\" He is expected to take the stage around 2:45 p.m. at the White House."
+    publishedDateTime: 2021-08-31T15:57:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/08/31/watch_live_president_biden_speaks_on_ending_the_war_in_afghanistan.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/08/31/watch_live_president_biden_speaks_on_ending_the_war_in_afghanistan.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/08/31/watch_live_president_biden_speaks_on_ending_the_war_in_afghanistan.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
+        isCached: true
   - title: "Most voters don't want Biden or Trump to run in 2024, poll finds"
     excerpt: "The majority of registered voters do not want the next presidential election to be a rematch of the 2020 contest, according to a new poll conducted by Echelon Insights/Washington Examiner."
     publishedDateTime: 2021-08-23T23:58:00Z
@@ -2080,6 +2096,15 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 61
+  - title: "Trump On Afghanistan: \"We Have Been Humiliated,\" Biden \"Caved\" To The Taliban"
+    excerpt: "Former President Trump on the Biden administration’s handling of Afghanistan with FOX Business Network host Stuart Varney. PRESIDENT DONALD TRUMP: No, all they'll do is say we're out. They don't talk about the people killed,"
+    publishedDateTime: 2021-08-31T15:28:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/08/31/trump_on_afghanistan_we_have_been_humiliated_biden_caved_to_the_taliban.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 57
   - title: "ISIS threat in Afghanistan is ‘real’ and ‘persistent,’ Biden national security adviser says"
     excerpt: "President Joe Biden’s national security adviser warned that the Islamic State is a threat to the United States as the military continues to evacuate Americans and Afghan allies from Taliban-controlled Afghanistan."
     publishedDateTime: 2021-08-22T21:52:00Z

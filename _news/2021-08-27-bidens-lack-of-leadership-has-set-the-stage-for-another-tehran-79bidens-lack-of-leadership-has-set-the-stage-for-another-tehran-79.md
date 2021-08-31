@@ -27,66 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden’s future looks bleak – he’s shamed and endangered the West"
-    excerpt: "A broken man THE charge sheet against Joe Biden grows by the day. It’s not just that his reckless, casual disregard for Afghanistan and its ­people led directly to the suicide bomb slaughter of 13"
-    publishedDateTime: 2021-08-28T01:58:00Z
-    webUrl: "https://www.the-sun.com/news/3555473/joe-biden-shamed-endangered-west/"
-    ampWebUrl: "https://www.the-sun.com/news/3555473/joe-biden-shamed-endangered-west/amp/"
-    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3555473/joe-biden-shamed-endangered-west/amp/"
+  - title: "Joe Biden seeks diplomacy with Iran on nuclear deal, but open to 'other options'"
+    excerpt: "President Joe Biden on Friday said the United States will try diplomacy to keep Iran from obtaining nuclear weapons, but will use \"other options\" if necessary."
+    publishedDateTime: 2021-08-27T18:31:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/"
     type: article
     provider:
-      name: The Sun
-      domain: the-sun.com
-    quality: 75
+      name: UPI.com
+      domain: upi.com
+    quality: 70
     images:
-      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/NINTCHDBPICT000675572319-1-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/3931630085407/2021/1/5a644c6dc5548efdc6df8cce0f83b200/v1.5/Joe-Biden-seeks-diplomacy-with-Iran-on-nuclear-deal-but-open-to-other-options.jpg"
+        width: 800
+        height: 532
         isCached: true
-  - title: "Afghan crisis: US President Joe Biden expected to decide evacuation deadline within 24 hours"
-    excerpt: "Biden warned on Sunday that the evacuation was going to be \"hard and painful\" and a lot could still go wrong. US troops might stay beyond Biden's August 31 deadline to oversee the evacuation, he said."
-    publishedDateTime: 2021-08-24T03:47:00Z
-    webUrl: "https://www.cnbctv18.com/world/afghan-crisis-us-president-joe-biden-expected-to-decide-evacuation-deadline-within-24-hours-10471351.htm"
-    ampWebUrl: "https://www.cnbctv18.com/world/afghan-crisis-us-president-joe-biden-expected-to-decide-evacuation-deadline-within-24-hours-10471351.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/world/afghan-crisis-us-president-joe-biden-expected-to-decide-evacuation-deadline-within-24-hours-10471351.htm/amp"
+  - title: "Ukraine’s leader to talk with Biden on security, Russian gas"
+    excerpt: "Ukraine's president is traveling to the United States in hopes of bolstering security ties with Washington and persuading the administration to ramp up sanctions against a new Russian gas pipeline byp"
+    publishedDateTime: 2021-08-31T11:34:00Z
+    webUrl: "https://www.seattletimes.com/business/ukraines-leader-to-talk-with-biden-on-security-russian-gas/"
+    ampWebUrl: "https://www.seattletimes.com/business/ukraines-leader-to-talk-with-biden-on-security-russian-gas/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ukraines-leader-to-talk-with-biden-on-security-russian-gas/?amp=1"
     type: article
     provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 64
-    images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2021/06/Biden_Uk-1019x573.jpg"
-        width: 1019
-        height: 573
-        isCached: true
-  - title: "Rep. Boebert: 'There is Blood on Joe Biden's Hands'"
-    excerpt: "In the wake of the bombing at the Kabul airport in Afghanistan that killed at least 12 U.S. Marines and an unconfirmed number of civilians, House Rep. Lauren Boebert (R-Colo.) said President Joe Biden has blood on his hands for failing to competently plan and execute the withdrawal from Afghanistan."
-    publishedDateTime: 2021-08-26T17:39:00Z
-    webUrl: "https://www.cnsnews.com/article/washington/michael-w-chapman/rep-boebert-there-blood-joe-bidens-hands"
-    type: article
-    provider:
-      name: CNSNews.com
-      domain: cnsnews.com
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 55
-    images:
-      - url: "https://cdn.cnsnews.com/styles/article_big/s3/2021-08/green%2C%20mark%20%20%2045.jpg"
-        width: 700
-        height: 466
-        isCached: true
-  - title: "Kat Cammack says Joe Biden’s ‘Weekend at Bernie’s’ presidency should end"
-    excerpt: "Kat Cammack on Fox & Friends Monday reiterated her belief President Joe Biden should resign over events in Afghanistan. She compared the President to the 1989 film Weekend at Bernie’s, a less-than-subtle suggestion Biden may be little more than a figurehead anyway."
-    publishedDateTime: 2021-08-30T18:53:00Z
-    webUrl: "https://floridapolitics.com/archives/453974-kat-cammack-says-joe-bidens-weekend-at-bernies-presidency-should-end/"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 54
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2021/06/image007-2.jpg"
-        width: 640
-        height: 320
-        isCached: true
 
 secured: "4Vy8v9JJNAoFwEJpfPCXnle6Ji1r0Jz3bv1sr/jjot3VDuXa7N18Wc2xFFhuERXdsSl+02nJikhZLCeqcmWruJZxGU++nk9+jirUubYC8mtyYgLLRXPOanXCef5WRQIs7uygYg75ZzN8nOL9Nty9UzQBRq0djGS547nOcc1+TYl+IQV3S8J6v5cUYEyTlzvQU3y3bC5sy7XDzTWgt1Q2dD/r5Gd/4iYTb/yPoWNwYyr+OSL+NYMZvd0X3x4rwGVh1LXDFc5KIgATHa9sLn7RvP+I60oMfxuTCuZ/4WJ89tvLSiOkd+dGHGZMiGVciaHQ0L970rZwXilIFl+gt0IFvFOAw26zVZcynTV6GS5z6o8=;jYEdYePhRdmVCQb/1jQ0Bw=="
 ---

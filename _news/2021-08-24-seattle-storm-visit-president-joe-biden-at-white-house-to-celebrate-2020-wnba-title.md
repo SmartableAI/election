@@ -91,6 +91,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Trump rips Biden for appearing to check watch while honoring 13 service members killed in Kabul: 'Disgrace'"
+    excerpt: "Former President Donald Trump said it was a “disgrace” when President Biden was seen looking at his watch while paying respects to the 13 service members who were killed in Afghanistan."
+    publishedDateTime: 2021-08-31T14:42:00Z
+    webUrl: "https://www.foxbusiness.com/politics/trump-biden-disgrace-watch-service-members-killed-kabul"
+    ampWebUrl: "https://www.foxbusiness.com/politics/trump-biden-disgrace-watch-service-members-killed-kabul.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/trump-biden-disgrace-watch-service-members-killed-kabul.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 72
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/f7762b16-2c65-44f0-9749-684748f6c32a/fe75ff19-fb1d-4475-bb25-e2e8cb489623/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Joe Biden warns Kabul retaliatory strike 'highly likely' in the next 24 to 36 hours"
     excerpt: "US President Joe Biden warned a second retaliation strike against the terrorists responsible for Thursday's suicide bombing was \"highly likely in the next 24 to 36 hours\"."
     publishedDateTime: 2021-08-28T21:19:00Z

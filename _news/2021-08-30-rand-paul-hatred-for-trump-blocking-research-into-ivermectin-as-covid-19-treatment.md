@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/569975-rand-paul-hatred-for-trump-block
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/569975-rand-paul-hatred-for-trump-blocking-research-into-ivermectin?amp"
 type: article
 quality: 118
-heat: 158
+heat: 178
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Rand Paul says 'hatred for Trump' is stopping study of horse and human drug to treat COVID-19"
+    excerpt: "During a meeting with dozens of his constituents Friday, Paul claimed researchers are unwilling to take Ivermectin seriously as a COVID-19 treatment because of their dislike for the former president."
+    publishedDateTime: 2021-08-31T14:21:00Z
+    webUrl: "https://thehill.com/changing-america/well-being/570130-rand-paul-says-hatred-for-trump-is-stopping-study-of-horse-and"
+    ampWebUrl: "https://thehill.com/changing-america/well-being/570130-rand-paul-says-hatred-for-trump-is-stopping-study-of-horse-and?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/570130-rand-paul-says-hatred-for-trump-is-stopping-study-of-horse-and?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 114
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_randpaulmarx_052521getty_1.png"
+        width: 1320
+        height: 880
+        isCached: true
   - title: "Rand Paul undecided on ivermectin to treat COVID-19, says hatred of Trump hinders research"
     excerpt: "Hatred of former President Donald Trump has kept researchers from looking into the anti-parasitic drug ivermectin and other drugs to treat COVID-19, Republican Kentucky Sen. Rand Paul told constituents on Friday."
     publishedDateTime: 2021-08-30T17:22:00Z

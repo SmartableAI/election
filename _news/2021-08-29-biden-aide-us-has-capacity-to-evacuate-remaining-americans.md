@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nhregister.com/news/amp/Biden-Another-attack-likely-pled
 cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Biden-Another-attack-likely-pledges-more-16419255.php"
 type: article
 quality: 75
-heat: 115
-published: true
+heat: -1
+published: false
 
 provider:
   name: New Haven Register
@@ -27,37 +27,219 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden FORGETS Megan Rapinoe's name, slammed for calling her 'America's best'"
-    excerpt: "Joe Biden's recent praise for Megan Rapinoe accompanied an awkward fumbling as the president forgot her last name"
-    publishedDateTime: 2021-08-25T10:30:00Z
-    webUrl: "https://meaww.com/joe-biden-forget-megan-rapinoe-name-represent-america-best-internet-furious-losers-reactions"
-    ampWebUrl: "https://meaww.com/amp/joe-biden-forget-megan-rapinoe-name-represent-america-best-internet-furious-losers-reactions"
-    cdnAmpWebUrl: "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/joe-biden-forget-megan-rapinoe-name-represent-america-best-internet-furious-losers-reactions"
+  - title: "Joe Biden and Europe are going different ways"
+    excerpt: "For EU governments, the contrast between the US president’s policies and those of Donald Trump is more apparent than real"
+    publishedDateTime: 2021-08-31T14:02:00Z
+    webUrl: "https://www.ft.com/content/bfe24854-3bf2-4ada-b3a2-778b4707c31f"
+    ampWebUrl: "https://amp.ft.com/content/bfe24854-3bf2-4ada-b3a2-778b4707c31f"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/bfe24854-3bf2-4ada-b3a2-778b4707c31f"
     type: article
     provider:
-      name: Meaww
-      domain: meaww.com
-    quality: 70
+      name: The Financial Times
+      domain: ft.com
+    quality: 125
     images:
-      - url: "https://cheesecake.articleassets.meaww.com/546311/uploads/18a4f6a0-058b-11ec-bd95-db89c1205176_800_420.png"
-        width: 800
-        height: 420
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9ce12d54-bd65-4ea1-8ba6-78ecb4951f38.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
-  - title: "Tom Rice, other politicians seek President Joe Biden’s ouster | Charlotte Observer"
-    excerpt: "Another local politician called on Biden to appoint former President Donald Trump to a position where he could oversee the rest of America’s withdrawal from Afghanistan. South Carolina Congressman Tom Rice (R-Myrtle Beach) called on President Joe Biden to resign over his “haphazard withdrawal” from Afghanistan that he blamed for the terrorist attack in Kabul."
-    publishedDateTime: 2021-08-27T04:54:00Z
-    webUrl: "https://www.charlotteobserver.com/news/state/south-carolina/article253769648.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/state/south-carolina/article253769648.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/state/south-carolina/article253769648.html"
+  - title: "Joe Biden’s future looks bleak – he’s shamed and endangered the West"
+    excerpt: "A broken man THE charge sheet against Joe Biden grows by the day. It’s not just that his reckless, casual disregard for Afghanistan and its ­people led directly to the suicide bomb slaughter of 13"
+    publishedDateTime: 2021-08-28T01:58:00Z
+    webUrl: "https://www.the-sun.com/news/3555473/joe-biden-shamed-endangered-west/"
+    ampWebUrl: "https://www.the-sun.com/news/3555473/joe-biden-shamed-endangered-west/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3555473/joe-biden-shamed-endangered-west/amp/"
     type: article
     provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 69
+      name: The Sun
+      domain: the-sun.com
+    quality: 75
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/7f1caafa-aea1-49ad-bc9f-e3322fb2825c/af216152-128c-45c0-b0b0-8fff6b46b17c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/NINTCHDBPICT000675572319-1-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Biden in the ‘loneliest job,’ a presidency driven by crisis"
+    excerpt: "President Joe Biden listens as he meets with Israeli Prime Minister Naftali Bennett in the Oval Office of the White House in Washington. T"
+    publishedDateTime: 2021-08-28T19:50:00Z
+    webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-28/biden-in-the-loneliest-job-a-presidency-driven-by-crisis"
+    ampWebUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-28/biden-in-the-loneliest-job-a-presidency-driven-by-crisis?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2021-08-28/biden-in-the-loneliest-job-a-presidency-driven-by-crisis?_amp=true"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 75
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/e2d51e4/2147483647/strip/true/crop/3988x2667+6+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F36%2F6c%2F793147b24a6c25fa1dbc5862839a%2Fdfd574e0c358447194470e99983982e0"
+        width: 320
+        height: 214
+        isCached: true
+  - title: "Ida Updates: Biden says hardest-hit states are resilient"
+    excerpt: "President Joe Biden has spoken with officials in states pounded by Hurricane Ida, detailing the federal effort to survey damage and ensure access to electricity, water and cell phone service. The president said Monday that state officials should contact the White House if they need additional support — even though the effort is being led by FEMA."
+    publishedDateTime: 2021-08-30T23:50:00Z
+    webUrl: "https://www.mysanantonio.com/news/article/The-Latest-New-Orleans-could-be-without-power-16422818.php"
+    ampWebUrl: "https://www.mysanantonio.com/news/amp/The-Latest-New-Orleans-could-be-without-power-16422818.php"
+    cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/The-Latest-New-Orleans-could-be-without-power-16422818.php"
+    type: article
+    provider:
+      name: My San Antonio
+      domain: mysanantonio.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Was Biden looking at his watch during ceremony for Marines killed in Kabul?"
+    excerpt: "It appeared President Biden glanced at his watch during a solemn ceremony for U.S. Marines killed in the Kabul terror attack."
+    publishedDateTime: 2021-08-30T02:28:00Z
+    webUrl: "https://www.bostonherald.com/2021/08/29/was-biden-looking-at-his-watch-during-ceremony-for-marines-killed-in-kabul/"
+    ampWebUrl: "https://www.bostonherald.com/2021/08/29/was-biden-looking-at-his-watch-during-ceremony-for-marines-killed-in-kabul/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/08/29/was-biden-looking-at-his-watch-during-ceremony-for-marines-killed-in-kabul/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 73
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2021/08/GettyImages-1234946450.jpg?w=1024&#038;h=642"
+        width: 1024
+        height: 642
+        isCached: true
+  - title: "Biden praises WNBA champs for social justice activism"
+    excerpt: "President Joe Biden honored the 2020 WNBA champions Seattle Storm on Monday, celebrating their success on the court and hailing the four-time title holders for changing lives with"
+    publishedDateTime: 2021-08-24T13:26:00Z
+    webUrl: "https://www.phillytrib.com/sports/biden-praises-wnba-champs-for-social-justice-activism/article_a4098845-3c9c-5182-ba4a-4f5a594da7bc.html"
+    type: article
+    provider:
+      name: Philadelphia Tribune
+      domain: phillytrib.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/assets/v3/editorial/5/5f/55fd9673-7d2d-5b10-a2e3-90069a1434d2/6124f3e31a6b5.image.jpg?crop=834%2C439%2C79%2C26&resize=400%2C211&order=crop%2Cresize"
+        width: 400
+        height: 211
+        isCached: true
+  - title: "Wisconsin's Democratic Senate primary could be referendum on Biden"
+    excerpt: "Wisconsin’s next Senate election isn’t until Nov. 8, 2022, but already there are 11 candidates vying for the Democratic nomination in a party primary that could prove to be an early referendum on Pres"
+    publishedDateTime: 2021-08-24T13:18:00Z
+    webUrl: "https://www.wsjm.com/2021/08/24/wisconsins-democratic-senate-primary-could-be-referendum-on-biden/"
+    type: article
+    provider:
+      name: WSJM
+      domain: wsjm.com
+    quality: 55
+    images:
+      - url: "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/321/2021/08/24100917/iStock_082421_wiscsenateseat.jpeg"
+        width: 630
+        height: 352
+        isCached: true
+  - title: "Rep. Boebert: 'There is Blood on Joe Biden's Hands'"
+    excerpt: "In the wake of the bombing at the Kabul airport in Afghanistan that killed at least 12 U.S. Marines and an unconfirmed number of civilians, House Rep. Lauren Boebert (R-Colo.) said President Joe Biden has blood on his hands for failing to competently plan and execute the withdrawal from Afghanistan."
+    publishedDateTime: 2021-08-26T17:39:00Z
+    webUrl: "https://www.cnsnews.com/article/washington/michael-w-chapman/rep-boebert-there-blood-joe-bidens-hands"
+    type: article
+    provider:
+      name: CNSNews.com
+      domain: cnsnews.com
+    quality: 55
+    images:
+      - url: "https://cdn.cnsnews.com/styles/article_big/s3/2021-08/green%2C%20mark%20%20%2045.jpg"
+        width: 700
+        height: 466
+        isCached: true
+  - title: "What the end of Joe Biden’s eviction moratorium will look like in Maine"
+    excerpt: "The end of the moratorium comes as the pandemic situation in Maine grows more grim and could test a new state law for renters."
+    publishedDateTime: 2021-08-27T13:22:00Z
+    webUrl: "https://bangordailynews.com/2021/08/27/politics/daily-brief/what-the-end-of-joe-bidens-eviction-moratorium-will-look-like-in-maine/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/LewistonAuburnHousing-090419-2.jpg"
+        width: 1024
+        height: 681
+        isCached: true
+  - title: "Ashley Moody demands border control assurance from Joe Biden"
+    excerpt: "Attorney General Ashley Moody was among 20 Republican AGs signing on to a letter demanding federal assurances of tighter immigration policy. The letter to U.S. Attorney General Merrick Garland followed a favorable ruling in the U."
+    publishedDateTime: 2021-08-27T17:04:00Z
+    webUrl: "https://floridapolitics.com/archives/453563-moody-border/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/05/Ashley-Moody-scaled.jpg"
+        width: 2560
+        height: 1920
+        isCached: true
+  - title: "Does Video Show Joe Biden Falling Asleep in Meeting with Israeli PM?"
+    excerpt: "after videos went viral of U.S. President Joe Biden purportedly falling asleep during a meeting. Biden was meeting with Israeli Prime Minister Naftali Bennett on Aug. 27, 2021, and soon after numerous outlets claimed that he was nodding off as Bennett was ..."
+    publishedDateTime: 2021-08-30T18:08:00Z
+    webUrl: "https://www.snopes.com/fact-check/biden-asleep-meeting-israeli-pm/"
+    type: article
+    provider:
+      name: Snopes.com
+      domain: snopes.com
+    quality: 55
+    images:
+      - url: "https://www.snopes.com/tachyon/2021/08/sleepy-joe-biden-video-misleading.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "President Joe Biden Proclaims Thursday, 26, 2021 as Women’s Equality Day"
+    excerpt: "On President Joe Biden proclaimed August 26, 2021 as Women’s Equality Day. Today, we celebrate Women’s Equality Day, a reminder not only of the progress women have won through the years, but of the important work that remains to be done."
+    publishedDateTime: 2021-08-26T21:01:00Z
+    webUrl: "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/32707-president-joe-biden-proclaims-thursday-26-2021-as-women-s-equality-day"
+    type: article
+    provider:
+      name: Sierra Sun Times
+      domain: goldrushcam.com
+    quality: 54
+    images:
+      - url: "https://goldrushcam.com/sierrasuntimes/images/2020/white-house-gov.jpg"
+        width: 679
+        height: 357
+        isCached: true
+  - title: "For Biden’s presidency has been driven by crisis and is the ‘loneliest job’"
+    excerpt: "President Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan, even as he and the nation continued to battle the COVID-19 pandemic."
+    publishedDateTime: 2021-08-28T13:24:00Z
+    webUrl: "https://www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 53
+  - title: "Storm commemorates 2020 WNBA championship with President Joe Biden at White House"
+    excerpt: "President Joe Biden and first lady Jill Biden hosted an entourage led by Storm captains Sue Bird and Breanna Stewart, coach Noelle Quinn and the majority owners Ginny Gilder, Lisa Brummel and Dawn Trudeau."
+    publishedDateTime: 2021-08-24T22:46:00Z
+    webUrl: "https://www.seattletimes.com/sports/storm/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/"
+    ampWebUrl: "https://www.seattletimes.com/sports/storm/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/sports/storm/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 50
+  - title: "Ruth Dudley Edwards: President Joe Biden is ignorant, arrogant, stubborn — and too damn old"
+    excerpt: "We’re living through a disaster that should be causing all patriotic Americans to wonder if it isn’t time to revisit their methods of choosing their leaders."
+    publishedDateTime: 2021-08-24T13:37:00Z
+    webUrl: "https://www.newsletter.co.uk/news/opinion/columnists/ruth-dudley-edwards-president-joe-biden-is-ignorant-arrogant-stubborn-and-too-damn-old-3357817"
+    type: article
+    provider:
+      name: The News Letter
+      domain: newsletter.co.uk
+    quality: 45
+    images:
+      - url: "https://www.newsletter.co.uk/webimg/TUFZMTMyOTY3Mzkw.jpg?width=2048&enable=upscale"
+        width: 2048
+        height: 1453
         isCached: true
 
 secured: "Z8fAyePFc3U0m8zFtbziUtI2WvwEmFFVsl9j4L0mf6leJIHefF3UFfVu7KWR0BwmBbQTWGpd9ayHj1/D+q63RipG2uiI7FXjxgbKRbUH4Udyxw0Us6gtXSbqme2eiRwcp602wI1DcppTCn2PEe4eQyl36pNdD7rM+WVbTxThSHv2Yen/cSGxa2kqAc9Y8fxWCoDExqoS+A9mREsI0fKHPdpbpBh8KVLPD25L0V7cSPw8bIziXZ2ArgY6Jc4wxANHdOkXXbWwz572Vn5SOTRiU1VAheYGhhIJptK8X//avI8Kz5vr8P7pf+JQkabveRO34TfORLXK71OWs6V4ff47keWSIyHXvXaJoFK1rl+Wv4w=;vwJGunR/rhNxEApllb9prQ=="

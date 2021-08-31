@@ -1029,6 +1029,22 @@ related:
         width: 5460
         height: 3640
         isCached: true
+  - title: "For Biden, ending war in Afghanistan leaves tough questions"
+    excerpt: "Faced with tough questions about leaving Afghanistan, including Americans left behind, President Joe Biden planned to address the nation Tuesday about the way forward after 20 years of U.S. war."
+    publishedDateTime: 2021-08-31T15:52:00Z
+    webUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-us-afghanistan-biden-20210831-xs6dz3hcu5g3lac2kp24mnfksu-story.html"
+    ampWebUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-us-afghanistan-biden-20210831-xs6dz3hcu5g3lac2kp24mnfksu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-aud-nw-us-afghanistan-biden-20210831-xs6dz3hcu5g3lac2kp24mnfksu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Daily Press
+      domain: dailypress.com
+    quality: 75
+    images:
+      - url: "https://www.dailypress.com/resizer/O1E1IjfeWObG57Uqvy2lW6wsH4U=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PG7MWN7A25BB5HPV5DLQE5VEU4.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Joe Biden’s Tale of Russian Bounties in Afghanistan Collapses Completely"
     excerpt: "Biden and the Democrats knew the Russian bounties story was likely fake news, a hoax, a scam, whatever else you want to call it. But they didn’t care."
     publishedDateTime: 2021-04-15T17:46:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://floridapolitics.com/archives/453974-kat-cammack-says-joe-b
 webUrl: "https://floridapolitics.com/archives/453974-kat-cammack-says-joe-bidens-weekend-at-bernies-presidency-should-end/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,70 +23,6 @@ images:
     width: 640
     height: 320
     isCached: true
-
-related:
-  - title: "Joe Biden’s future looks bleak – he’s shamed and endangered the West"
-    excerpt: "A broken man THE charge sheet against Joe Biden grows by the day. It’s not just that his reckless, casual disregard for Afghanistan and its ­people led directly to the suicide bomb slaughter of 13"
-    publishedDateTime: 2021-08-28T01:58:00Z
-    webUrl: "https://www.the-sun.com/news/3555473/joe-biden-shamed-endangered-west/"
-    ampWebUrl: "https://www.the-sun.com/news/3555473/joe-biden-shamed-endangered-west/amp/"
-    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3555473/joe-biden-shamed-endangered-west/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: the-sun.com
-    quality: 75
-    images:
-      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/NINTCHDBPICT000675572319-1-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Afghan crisis: US President Joe Biden expected to decide evacuation deadline within 24 hours"
-    excerpt: "Biden warned on Sunday that the evacuation was going to be \"hard and painful\" and a lot could still go wrong. US troops might stay beyond Biden's August 31 deadline to oversee the evacuation, he said."
-    publishedDateTime: 2021-08-24T03:47:00Z
-    webUrl: "https://www.cnbctv18.com/world/afghan-crisis-us-president-joe-biden-expected-to-decide-evacuation-deadline-within-24-hours-10471351.htm"
-    ampWebUrl: "https://www.cnbctv18.com/world/afghan-crisis-us-president-joe-biden-expected-to-decide-evacuation-deadline-within-24-hours-10471351.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/world/afghan-crisis-us-president-joe-biden-expected-to-decide-evacuation-deadline-within-24-hours-10471351.htm/amp"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 64
-    images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2021/06/Biden_Uk-1019x573.jpg"
-        width: 1019
-        height: 573
-        isCached: true
-  - title: "Rep. Boebert: 'There is Blood on Joe Biden's Hands'"
-    excerpt: "In the wake of the bombing at the Kabul airport in Afghanistan that killed at least 12 U.S. Marines and an unconfirmed number of civilians, House Rep. Lauren Boebert (R-Colo.) said President Joe Biden has blood on his hands for failing to competently plan and execute the withdrawal from Afghanistan."
-    publishedDateTime: 2021-08-26T17:39:00Z
-    webUrl: "https://www.cnsnews.com/article/washington/michael-w-chapman/rep-boebert-there-blood-joe-bidens-hands"
-    type: article
-    provider:
-      name: CNSNews.com
-      domain: cnsnews.com
-    quality: 55
-    images:
-      - url: "https://cdn.cnsnews.com/styles/article_big/s3/2021-08/green%2C%20mark%20%20%2045.jpg"
-        width: 700
-        height: 466
-        isCached: true
-  - title: "Biden’s lack of leadership has set the stage for another Tehran ‘79Biden’s lack of leadership has set the stage for another Tehran ‘79"
-    excerpt: "Remember when President Joe Biden went on national television and said the Afghanistan troop withdrawal would be nothing like Saigon?"
-    publishedDateTime: 2021-08-26T19:49:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/aug/26/bidens-lack-of-leadership-has-set-the-stage-for-an/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/26/bidens-lack-of-leadership-has-set-the-stage-for-an/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/26/bidens-lack-of-leadership-has-set-the-stage-for-an/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 43
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/08/26/B3-WAGN-Biden-Terro_c0-404-1210-1109_s1200x700.jpg?6a44db869a503535e769220c2c37f220f95f195d"
-        width: 1200
-        height: 700
-        isCached: true
 
 secured: "jSIjYobezPKMqNitMp4ViAQ2DqgxKAID95+lUwpauWiFECj300YRx+/BmEcgHP52/N8zeSy8lBc3cmbIta4KvTz6nY96UjLO88QjK+ZmBSB9JEst8EbEsfzS7MGmPItbnW+4+n1Mq89nhmjeN5TPNoy2nENSOPwlrPuBN6bdO/M4HwhMIuQRv3HXO+oaJpr+HQarmftoXFxIAPw62oyt6uY3g5eiIXJdaAv5dVun0EL8BexxpHRcetl3F4hG1mj5t1CjGLYhsJ9X6t5/ry1WFMGlwehOHozJpJAs2J/0mYaEhqQATZNzcKs7UQMxPZ5Pp+KwAn6X/Lnc40ITyhG5bxyz+2ifS8W9atBmDRVbLSowforWvYBfnKJTSj1/yzgzcsBn+V90OBQrPY1PDVB//Wyd9GSlFmTlT7WACeQF3GizEGxAvYjFNTPTpMaqq0ldCahnaKNTIYkY+L0+tDOPII9xwZXU4/qjozPqL2ip1DqI/CiLKA7+JwIwk+O+isHIHSsIadny+ACsx6HA2PoKww==;GvJtu3MtbpblBbOrG0kn5g=="
 ---

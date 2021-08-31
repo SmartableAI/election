@@ -27,38 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "Biden aide: US has capacity to evacuate remaining Americans"
-    excerpt: "He warned another attack was “highly likely” and the State Department called the threat “specific” and “credible.” The Pentagon said the remaining contingent of U.S. forces at the airport, now numbering fewer than 4,"
-    publishedDateTime: 2021-08-29T12:38:00Z
-    webUrl: "https://www.nhregister.com/news/article/Biden-Another-attack-likely-pledges-more-16419255.php"
-    ampWebUrl: "https://www.nhregister.com/news/amp/Biden-Another-attack-likely-pledges-more-16419255.php"
-    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Biden-Another-attack-likely-pledges-more-16419255.php"
+  - title: "Biden COVID origin investigation expected to end soon | Charlotte Observer"
+    excerpt: "A 90-day intelligence review into the origins of COVID-19 ordered by President Joe Biden is expected to end largely where it began, without high confidence in how the coronavirus first emerged, government officials told McClatchy. Biden will receive a ..."
+    publishedDateTime: 2021-08-09T17:39:00Z
+    webUrl: "https://www.charlotteobserver.com/news/coronavirus/article253365748.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/coronavirus/article253365748.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/coronavirus/article253365748.html"
     type: article
     provider:
-      name: New Haven Register
-      domain: nhregister.com
-    quality: 75
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 73
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557046001/12b39f35-3a05-423f-a838-37e72ee371d0/e503dd4e-6739-4b6c-8212-c4272a4fecad/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Joe Biden FORGETS Megan Rapinoe's name, slammed for calling her 'America's best'"
-    excerpt: "Joe Biden's recent praise for Megan Rapinoe accompanied an awkward fumbling as the president forgot her last name"
-    publishedDateTime: 2021-08-25T10:30:00Z
-    webUrl: "https://meaww.com/joe-biden-forget-megan-rapinoe-name-represent-america-best-internet-furious-losers-reactions"
-    ampWebUrl: "https://meaww.com/amp/joe-biden-forget-megan-rapinoe-name-represent-america-best-internet-furious-losers-reactions"
-    cdnAmpWebUrl: "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/joe-biden-forget-megan-rapinoe-name-represent-america-best-internet-furious-losers-reactions"
+  - title: "20 states sue over Biden admin school, work LGBT protections | Charlotte Observer"
+    excerpt: "Attorneys general from 20 states have sued President Joe Biden’s administration seeking to halt directives that extend federal sex discrimination protections to LGBTQ people, ranging from transgender girls participating in school sports to the use of school and workplace bathrooms that align with a person’s gender identity."
+    publishedDateTime: 2021-08-31T00:51:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article253866898.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article253866898.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article253866898.html"
     type: article
     provider:
-      name: Meaww
-      domain: meaww.com
+      name: Charlotte Observer
+      domain: charlotteobserver.com
     quality: 70
     images:
-      - url: "https://cheesecake.articleassets.meaww.com/546311/uploads/18a4f6a0-058b-11ec-bd95-db89c1205176_800_420.png"
-        width: 800
-        height: 420
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998037001/b4b4d1de-761b-4a6b-9391-e003e5f44b22/7160e791-51b3-4239-8ab8-fa2030ad6e78/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
+  - title: "Biden says rising prices are temporary, 'no serious' economist predicting spiraling inflation | Charlotte Observer"
+    excerpt: "President Joe Biden sought to alleviate Americans' concerns that price spikes would persist in an economic speech from the White House July 2021."
+    publishedDateTime: 2021-08-13T15:16:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article253468574.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 13
 
 secured: "txTJeB6HSmGE7iahw/sAaxWa8kfQ7axYR8x4VwzY2J4phWw/sOTkVdtM1zJcFZ5pkfkIjRgdb8gmM0jx+mil09HeWulF0SH5gvl8zHr4qbEBkn+10XkFoJQDhRpbxUWS/dDVqaP3fA54YK5O0KxeuwYsoVyDOL7+Mjsmvd6N75DsHWwE99edx5YKOEaSwO99OdTERR7RxmH4rwLmdfVcDkQ4kW9KPOmNbpvNIC0NELSSfxfxgBagESsoNE2Gnuh2e1GBMckdiUvatX+eaZ9cTe37UjODih0E4AGUSmBFtd95XZlg14iE+Vqbcdl9P9CLGGkrYw+vMKzL6RO/+hzh9eQ8Ue5/WilYasKh9pz9KHqRAMC8UawAiiivvgtddQ72s/0OqiEiceU2jb2G2CE7g7pHOWCmA+ZYJOga6J5W5jZDjhF2oViPUJeTAfFbCFYWmC47UIiVXix2gR51+ojGlGdCYdgZut4KHy9f/xwQBDc2iBWxIUT3FRw510639iaofWMG6/Q75U7d0oVWOVHuAw==;QLVeA0BMnAm7US/p32J0Mw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pbs.org/newshour/amp/nation/watch-biden-pledges-hurrican
 cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/nation/watch-biden-pledges-hurricane-ida-support-for-as-long-as-it-takes"
 type: article
 quality: 125
-heat: 265
+heat: 225
 published: true
 
 provider:
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ida Updates: Biden says hardest-hit states are resilient"
-    excerpt: "President Joe Biden has spoken with officials in states pounded by Hurricane Ida, detailing the federal effort to survey damage and ensure access to electricity, water and cell phone service. The president said Monday that state officials should contact the White House if they need additional support — even though the effort is being led by FEMA."
-    publishedDateTime: 2021-08-30T23:50:00Z
-    webUrl: "https://www.mysanantonio.com/news/article/The-Latest-New-Orleans-could-be-without-power-16422818.php"
-    ampWebUrl: "https://www.mysanantonio.com/news/amp/The-Latest-New-Orleans-could-be-without-power-16422818.php"
-    cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/The-Latest-New-Orleans-could-be-without-power-16422818.php"
-    type: article
-    provider:
-      name: My San Antonio
-      domain: mysanantonio.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Was Biden looking at his watch during ceremony for Marines killed in Kabul?"
-    excerpt: "It appeared President Biden glanced at his watch during a solemn ceremony for U.S. Marines killed in the Kabul terror attack."
-    publishedDateTime: 2021-08-30T02:28:00Z
-    webUrl: "https://www.bostonherald.com/2021/08/29/was-biden-looking-at-his-watch-during-ceremony-for-marines-killed-in-kabul/"
-    ampWebUrl: "https://www.bostonherald.com/2021/08/29/was-biden-looking-at-his-watch-during-ceremony-for-marines-killed-in-kabul/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/08/29/was-biden-looking-at-his-watch-during-ceremony-for-marines-killed-in-kabul/amp/"
-    type: article
-    provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 73
-    images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2021/08/GettyImages-1234946450.jpg?w=1024&#038;h=642"
-        width: 1024
-        height: 642
-        isCached: true
   - title: "Biden to Attend Briefing on Hurricane Ida on Saturday -White House"
     excerpt: "U.S. President Joe Biden will attend a briefing later on Saturday by administration officials on preparations for Hurricane Ida, which is expected to make landfall in the United States this weekend. The briefing is scheduled for 1:30 p."
     publishedDateTime: 2021-08-28T16:33:00Z
@@ -89,16 +57,16 @@ related:
         height: 1080
         isCached: true
   - title: "Joe Biden holds virtual meeting on Hurricane Ida in Washington"
-    excerpt: "U.S. President Joe Biden arrives at virtual meeting with FEMA Administrator Deanne Criswell and governors and mayors from States and cities impacted by Hurricane Ida from South Court Auditorium at the White House in Washington,"
+    excerpt: "U.S. President Joe Biden meets virtually with FEMA Administrator Deanne Criswell and governors and mayors from States and cities impacted by Hurricane Ida from South Court Auditorium at the White House in Washington,"
     publishedDateTime: 2021-08-30T18:20:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/4b1ba91c074fd7dcfd6ffb79ad161d7e/Joe-Biden-holds-virtual-meeting-on-Hurricane-Ida-in-Washington/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/afed49e3dfe0422f575a3cdadde2c7ce/Joe-Biden-holds-virtual-meeting-on-Hurricane-Ida-in-Washington/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/4b1ba91c074fd7dcfd6ffb79ad161d7e/BIDEN-HURRICANE-IDA.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/afed49e3dfe0422f575a3cdadde2c7ce/BIDEN-HURRICANE-IDA.jpg"
         width: 650
         height: 433
         isCached: true

@@ -41,50 +41,6 @@ related:
         width: 1200
         height: 776
         isCached: true
-  - title: "Biden in the ‘loneliest job,’ a presidency driven by crisis"
-    excerpt: "President Joe Biden listens as he meets with Israeli Prime Minister Naftali Bennett in the Oval Office of the White House in Washington. T"
-    publishedDateTime: 2021-08-28T19:50:00Z
-    webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-28/biden-in-the-loneliest-job-a-presidency-driven-by-crisis"
-    ampWebUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-28/biden-in-the-loneliest-job-a-presidency-driven-by-crisis?_amp=true"
-    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2021-08-28/biden-in-the-loneliest-job-a-presidency-driven-by-crisis?_amp=true"
-    type: article
-    provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 75
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/e2d51e4/2147483647/strip/true/crop/3988x2667+6+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F36%2F6c%2F793147b24a6c25fa1dbc5862839a%2Fdfd574e0c358447194470e99983982e0"
-        width: 320
-        height: 214
-        isCached: true
-  - title: "Biden praises WNBA champs for social justice activism"
-    excerpt: "President Joe Biden honored the 2020 WNBA champions Seattle Storm on Monday, celebrating their success on the court and hailing the four-time title holders for changing lives with"
-    publishedDateTime: 2021-08-24T13:26:00Z
-    webUrl: "https://www.phillytrib.com/sports/biden-praises-wnba-champs-for-social-justice-activism/article_a4098845-3c9c-5182-ba4a-4f5a594da7bc.html"
-    type: article
-    provider:
-      name: Philadelphia Tribune
-      domain: phillytrib.com
-    quality: 55
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/assets/v3/editorial/5/5f/55fd9673-7d2d-5b10-a2e3-90069a1434d2/6124f3e31a6b5.image.jpg?crop=834%2C439%2C79%2C26&resize=400%2C211&order=crop%2Cresize"
-        width: 400
-        height: 211
-        isCached: true
-  - title: "Ashley Moody demands border control assurance from Joe Biden"
-    excerpt: "Attorney General Ashley Moody was among 20 Republican AGs signing on to a letter demanding federal assurances of tighter immigration policy. The letter to U.S. Attorney General Merrick Garland followed a favorable ruling in the U."
-    publishedDateTime: 2021-08-27T17:04:00Z
-    webUrl: "https://floridapolitics.com/archives/453563-moody-border/"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 55
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2021/05/Ashley-Moody-scaled.jpg"
-        width: 2560
-        height: 1920
-        isCached: true
   - title: "Ashley Moody demands border control assurance from Joe Biden administration"
     excerpt: "The letter, per a release from Moody’s office, seeks “to ensure the Biden administration will faithfully defend a long-standing federal immigration statute that prohibits illegal re-entry to the U.S."
     publishedDateTime: 2021-08-27T17:08:00Z
@@ -99,17 +55,6 @@ related:
         width: 2560
         height: 1920
         isCached: true
-  - title: "For Biden’s presidency has been driven by crisis and is the ‘loneliest job’"
-    excerpt: "President Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan, even as he and the nation continued to battle the COVID-19 pandemic."
-    publishedDateTime: 2021-08-28T13:24:00Z
-    webUrl: "https://www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/"
-    ampWebUrl: "https://www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 53
 
 secured: "Wn9rEFAYxXhTkb29IxYknFvCfv1xwwshJ0txDsTRvXGtNSTCwOXuICA2u1jIyBFObdTiNAvs5wA9QR04PQsIHl5VGdJJufrzB6kOk9a8v/yQ2cYrfm4Rpug43NmgEMEoyxqFTSCRQEalY/HN1ukGZl0bNdUAlG00a+Y9tzBg8s1fLSKB2vLa80I/l4RIm++2n1F5XSVQfUPBUdk6zNb9fJ7rlWjqe3jfVLKyBC66bdngWruGqpzgG1ljpEomsuksV9X8SK98m0kJ9UUYztL2RFHShtlGMmoSzb8rgdbS9OHrjQEj7g3K8/Px7CyHwHGkfSRzeHSl4iyNo+ducruL+vemkyR6qGAtN9sYuU8oeCef92Wyyo+P5ZIv8D9FF3FCjfHLpYGpGl8FsqMSJSm78aX4M8mpEDw099E+U1V+3LfRsc/D4ugwwzxsS15zCnBm1kdYRCMN2iX9MxZczvP96ZpD8d5MhOj8nv5kl+HKWAK+xR0cOFCDg7MlPo1Z4d3XcTBb+oRbE+JYHWG0OJrYFQ==;AgA4/evdtgKTDqGKUG8lUA=="
 ---

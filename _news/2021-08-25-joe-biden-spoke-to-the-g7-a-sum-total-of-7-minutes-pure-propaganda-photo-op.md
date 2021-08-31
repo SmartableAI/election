@@ -389,6 +389,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Biden looking at climate change risks to financial markets"
+    excerpt: "In a season of daunting wildfires and flooding, the Biden administration is taking an initial step to assess how climate change could harm financial markets — planning"
+    publishedDateTime: 2021-08-31T14:59:00Z
+    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/biden-looking-at-climate-change-risks-to-financial-markets/article_96e55625-2904-53fc-a4ea-664b344d61d5.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/7/bf/7bfb7acc-b50e-5f48-ab78-1609a1892f22/612e47db04442.image.jpg?crop=1765%2C993%2C0%2C90&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "President Joe Biden goes off script during White House visit, gives Storm personal tour of Oval Office"
     excerpt: "After a 20-minute ceremony in the East Room to celebrate the team’s 2020 WNBA championship, President Joe Biden asked the Storm if they would like a private tour, led by him, of the Oval Office. Of course,"
     publishedDateTime: 2021-08-24T00:28:00Z

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden holds virtual meeting on Hurricane Ida in Washington"
-excerpt: "U.S. President Joe Biden arrives at virtual meeting with FEMA Administrator Deanne Criswell and governors and mayors from States and cities impacted by Hurricane Ida from South Court Auditorium at the White House in Washington,"
+excerpt: "U.S. President Joe Biden meets virtually with FEMA Administrator Deanne Criswell and governors and mayors from States and cities impacted by Hurricane Ida from South Court Auditorium at the White House in Washington,"
 publishedDateTime: 2021-08-30T18:20:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/4b1ba91c074fd7dcfd6ffb79ad161d7e/Joe-Biden-holds-virtual-meeting-on-Hurricane-Ida-in-Washington/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/4b1ba91c074fd7dcfd6ffb79ad161d7e/Joe-Biden-holds-virtual-meeting-on-Hurricane-Ida-in-Washington/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/afed49e3dfe0422f575a3cdadde2c7ce/Joe-Biden-holds-virtual-meeting-on-Hurricane-Ida-in-Washington/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/afed49e3dfe0422f575a3cdadde2c7ce/Joe-Biden-holds-virtual-meeting-on-Hurricane-Ida-in-Washington/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/4b1ba91c074fd7dcfd6ffb79ad161d7e/BIDEN-HURRICANE-IDA.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/afed49e3dfe0422f575a3cdadde2c7ce/BIDEN-HURRICANE-IDA.jpg"
     width: 650
     height: 433
     isCached: true
@@ -40,38 +40,6 @@ related:
       - url: "https://d3i6fh83elv35t.cloudfront.net/static/2021/08/2021-08-30T182355Z_554461000_RC2TFP9CFQYB_RTRMADP_3_STORM-IDA-BIDEN-1024x563.jpg"
         width: 1024
         height: 563
-        isCached: true
-  - title: "Ida Updates: Biden says hardest-hit states are resilient"
-    excerpt: "President Joe Biden has spoken with officials in states pounded by Hurricane Ida, detailing the federal effort to survey damage and ensure access to electricity, water and cell phone service. The president said Monday that state officials should contact the White House if they need additional support — even though the effort is being led by FEMA."
-    publishedDateTime: 2021-08-30T23:50:00Z
-    webUrl: "https://www.mysanantonio.com/news/article/The-Latest-New-Orleans-could-be-without-power-16422818.php"
-    ampWebUrl: "https://www.mysanantonio.com/news/amp/The-Latest-New-Orleans-could-be-without-power-16422818.php"
-    cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/The-Latest-New-Orleans-could-be-without-power-16422818.php"
-    type: article
-    provider:
-      name: My San Antonio
-      domain: mysanantonio.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Was Biden looking at his watch during ceremony for Marines killed in Kabul?"
-    excerpt: "It appeared President Biden glanced at his watch during a solemn ceremony for U.S. Marines killed in the Kabul terror attack."
-    publishedDateTime: 2021-08-30T02:28:00Z
-    webUrl: "https://www.bostonherald.com/2021/08/29/was-biden-looking-at-his-watch-during-ceremony-for-marines-killed-in-kabul/"
-    ampWebUrl: "https://www.bostonherald.com/2021/08/29/was-biden-looking-at-his-watch-during-ceremony-for-marines-killed-in-kabul/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/08/29/was-biden-looking-at-his-watch-during-ceremony-for-marines-killed-in-kabul/amp/"
-    type: article
-    provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 73
-    images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2021/08/GettyImages-1234946450.jpg?w=1024&#038;h=642"
-        width: 1024
-        height: 642
         isCached: true
   - title: "Biden to Attend Briefing on Hurricane Ida on Saturday -White House"
     excerpt: "U.S. President Joe Biden will attend a briefing later on Saturday by administration officials on preparations for Hurricane Ida, which is expected to make landfall in the United States this weekend. The briefing is scheduled for 1:30 p."
@@ -122,6 +90,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "ML0a3s2xjFRQjTCxnKz10dvoduhtTuSaNLBzRqYtL2hA9pLz2NT/y0fn+XPUdMZYNh5iaggVCKiyRE73IEO96r6Q1/o1QDAItio7Y4TK2wFKpmG5b4zITIdi0FVLQn8RpUKz4q20/y0dbMsjFhPLdI1IFLnv1C3VDJVt1H/RTgsF4VWNnX95fqk5oEf1EP+MkUD1wBr97cNTKzxUZdNXHxdqOG3wZ4dwduj2R3AKqQ+Nz3cSdSOOk0L+SEdbOW9IiC1TDVX+pz2gyFxU6ZfFyAmJrTmj9kv4FLfRGuTEJdf86r8T5snZ2rWTpZVKCPuf9PGiBEan6Q9pHjO0SscFBfgftxFs7OMJi0GU5JVFMRNxFKVMlRSh0Hoi4Xpi+Ttv9AHV2j1+K011l+geMFGUfigfKJ4UjluFyD1uMrsTe01T+cXhSvEDvYDJY1iNFTxSyyfhlRrLQcZqzKEN3BK66WfM2MEAlQXdrKu4/KAeEyg37CYZObBBHjqtPjT/L/ERiWS2tW3l7Nsv3+3+kcL9Fg==;umjHFKphIn3b9V7LjKPVaw=="
+secured: "r+ThzcVs7BA/bheGWgGL308g/5yxxXLzhKFaP8eji5N9B30YILCyAkXI4zfzhlW1U5y16+X5inI4rcZpZ5+PlthtGcbStM+Q35t87eBH3KV3f0ulP0bcFillq7CSkEQn404ox50iKt4owE9e14lyXW2oek/2WfZfBLQ3iNsqAYsJ5rWRVWJLK0KJlIJJYutSmKXqYOs81aqwj2+SGS44ZTlf/YXbUohSG7dssHkNNikobZ0oTwIZ1OieqYgUlAvO4Hc2VgcnqKN85K2nIaFEppdvNECMMJspSs75yTOfBOmfKoqRylFV5KF5QIqv+z2Zicuoqmq5e7onli0GojWfuQt8fN/eYr3bDXRJ9OZtOV4=;FB5W8c9EUV1t+J2+KIejGQ=="
 ---
 

@@ -89,6 +89,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Trump rips Biden for appearing to check watch while honoring 13 service members killed in Kabul: 'Disgrace'"
+    excerpt: "Former President Donald Trump said it was a “disgrace” when President Biden was seen looking at his watch while paying respects to the 13 service members who were killed in Afghanistan."
+    publishedDateTime: 2021-08-31T14:42:00Z
+    webUrl: "https://www.foxbusiness.com/politics/trump-biden-disgrace-watch-service-members-killed-kabul"
+    ampWebUrl: "https://www.foxbusiness.com/politics/trump-biden-disgrace-watch-service-members-killed-kabul.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/trump-biden-disgrace-watch-service-members-killed-kabul.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 72
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/f7762b16-2c65-44f0-9749-684748f6c32a/fe75ff19-fb1d-4475-bb25-e2e8cb489623/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Seattle Storm Visit President Joe Biden at White House to Celebrate 2020 WNBA Title"
     excerpt: "The Seattle Storm were honored Monday at the White House by President Joe Biden to commemorate their 2020 WNBA championship. They were the first WNBA"
     publishedDateTime: 2021-08-24T02:30:00Z

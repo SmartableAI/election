@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Joe Biden and Europe are going different ways"
+    excerpt: "For EU governments, the contrast between the US president’s policies and those of Donald Trump is more apparent than real"
+    publishedDateTime: 2021-08-31T14:02:00Z
+    webUrl: "https://www.ft.com/content/bfe24854-3bf2-4ada-b3a2-778b4707c31f"
+    ampWebUrl: "https://amp.ft.com/content/bfe24854-3bf2-4ada-b3a2-778b4707c31f"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/bfe24854-3bf2-4ada-b3a2-778b4707c31f"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 125
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9ce12d54-bd65-4ea1-8ba6-78ecb4951f38.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Joe Biden’s future looks bleak – he’s shamed and endangered the West"
     excerpt: "A broken man THE charge sheet against Joe Biden grows by the day. It’s not just that his reckless, casual disregard for Afghanistan and its ­people led directly to the suicide bomb slaughter of 13"
     publishedDateTime: 2021-08-28T01:58:00Z
@@ -41,51 +57,189 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Afghan crisis: US President Joe Biden expected to decide evacuation deadline within 24 hours"
-    excerpt: "Biden warned on Sunday that the evacuation was going to be \"hard and painful\" and a lot could still go wrong. US troops might stay beyond Biden's August 31 deadline to oversee the evacuation, he said."
-    publishedDateTime: 2021-08-24T03:47:00Z
-    webUrl: "https://www.cnbctv18.com/world/afghan-crisis-us-president-joe-biden-expected-to-decide-evacuation-deadline-within-24-hours-10471351.htm"
-    ampWebUrl: "https://www.cnbctv18.com/world/afghan-crisis-us-president-joe-biden-expected-to-decide-evacuation-deadline-within-24-hours-10471351.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/world/afghan-crisis-us-president-joe-biden-expected-to-decide-evacuation-deadline-within-24-hours-10471351.htm/amp"
+  - title: "Biden aide: US has capacity to evacuate remaining Americans"
+    excerpt: "He warned another attack was “highly likely” and the State Department called the threat “specific” and “credible.” The Pentagon said the remaining contingent of U.S. forces at the airport, now numbering fewer than 4,"
+    publishedDateTime: 2021-08-29T12:38:00Z
+    webUrl: "https://www.nhregister.com/news/article/Biden-Another-attack-likely-pledges-more-16419255.php"
+    ampWebUrl: "https://www.nhregister.com/news/amp/Biden-Another-attack-likely-pledges-more-16419255.php"
+    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Biden-Another-attack-likely-pledges-more-16419255.php"
     type: article
     provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 64
+      name: New Haven Register
+      domain: nhregister.com
+    quality: 75
     images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2021/06/Biden_Uk-1019x573.jpg"
-        width: 1019
-        height: 573
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
-  - title: "Kat Cammack says Joe Biden’s ‘Weekend at Bernie’s’ presidency should end"
-    excerpt: "Kat Cammack on Fox & Friends Monday reiterated her belief President Joe Biden should resign over events in Afghanistan. She compared the President to the 1989 film Weekend at Bernie’s, a less-than-subtle suggestion Biden may be little more than a figurehead anyway."
-    publishedDateTime: 2021-08-30T18:53:00Z
-    webUrl: "https://floridapolitics.com/archives/453974-kat-cammack-says-joe-bidens-weekend-at-bernies-presidency-should-end/"
+  - title: "Biden in the ‘loneliest job,’ a presidency driven by crisis"
+    excerpt: "President Joe Biden listens as he meets with Israeli Prime Minister Naftali Bennett in the Oval Office of the White House in Washington. T"
+    publishedDateTime: 2021-08-28T19:50:00Z
+    webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-28/biden-in-the-loneliest-job-a-presidency-driven-by-crisis"
+    ampWebUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-28/biden-in-the-loneliest-job-a-presidency-driven-by-crisis?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2021-08-28/biden-in-the-loneliest-job-a-presidency-driven-by-crisis?_amp=true"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 75
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/e2d51e4/2147483647/strip/true/crop/3988x2667+6+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F36%2F6c%2F793147b24a6c25fa1dbc5862839a%2Fdfd574e0c358447194470e99983982e0"
+        width: 320
+        height: 214
+        isCached: true
+  - title: "Ida Updates: Biden says hardest-hit states are resilient"
+    excerpt: "President Joe Biden has spoken with officials in states pounded by Hurricane Ida, detailing the federal effort to survey damage and ensure access to electricity, water and cell phone service. The president said Monday that state officials should contact the White House if they need additional support — even though the effort is being led by FEMA."
+    publishedDateTime: 2021-08-30T23:50:00Z
+    webUrl: "https://www.mysanantonio.com/news/article/The-Latest-New-Orleans-could-be-without-power-16422818.php"
+    ampWebUrl: "https://www.mysanantonio.com/news/amp/The-Latest-New-Orleans-could-be-without-power-16422818.php"
+    cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/The-Latest-New-Orleans-could-be-without-power-16422818.php"
+    type: article
+    provider:
+      name: My San Antonio
+      domain: mysanantonio.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Was Biden looking at his watch during ceremony for Marines killed in Kabul?"
+    excerpt: "It appeared President Biden glanced at his watch during a solemn ceremony for U.S. Marines killed in the Kabul terror attack."
+    publishedDateTime: 2021-08-30T02:28:00Z
+    webUrl: "https://www.bostonherald.com/2021/08/29/was-biden-looking-at-his-watch-during-ceremony-for-marines-killed-in-kabul/"
+    ampWebUrl: "https://www.bostonherald.com/2021/08/29/was-biden-looking-at-his-watch-during-ceremony-for-marines-killed-in-kabul/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/08/29/was-biden-looking-at-his-watch-during-ceremony-for-marines-killed-in-kabul/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 73
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2021/08/GettyImages-1234946450.jpg?w=1024&#038;h=642"
+        width: 1024
+        height: 642
+        isCached: true
+  - title: "Biden praises WNBA champs for social justice activism"
+    excerpt: "President Joe Biden honored the 2020 WNBA champions Seattle Storm on Monday, celebrating their success on the court and hailing the four-time title holders for changing lives with"
+    publishedDateTime: 2021-08-24T13:26:00Z
+    webUrl: "https://www.phillytrib.com/sports/biden-praises-wnba-champs-for-social-justice-activism/article_a4098845-3c9c-5182-ba4a-4f5a594da7bc.html"
+    type: article
+    provider:
+      name: Philadelphia Tribune
+      domain: phillytrib.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/assets/v3/editorial/5/5f/55fd9673-7d2d-5b10-a2e3-90069a1434d2/6124f3e31a6b5.image.jpg?crop=834%2C439%2C79%2C26&resize=400%2C211&order=crop%2Cresize"
+        width: 400
+        height: 211
+        isCached: true
+  - title: "Wisconsin's Democratic Senate primary could be referendum on Biden"
+    excerpt: "Wisconsin’s next Senate election isn’t until Nov. 8, 2022, but already there are 11 candidates vying for the Democratic nomination in a party primary that could prove to be an early referendum on Pres"
+    publishedDateTime: 2021-08-24T13:18:00Z
+    webUrl: "https://www.wsjm.com/2021/08/24/wisconsins-democratic-senate-primary-could-be-referendum-on-biden/"
+    type: article
+    provider:
+      name: WSJM
+      domain: wsjm.com
+    quality: 55
+    images:
+      - url: "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/321/2021/08/24100917/iStock_082421_wiscsenateseat.jpeg"
+        width: 630
+        height: 352
+        isCached: true
+  - title: "What the end of Joe Biden’s eviction moratorium will look like in Maine"
+    excerpt: "The end of the moratorium comes as the pandemic situation in Maine grows more grim and could test a new state law for renters."
+    publishedDateTime: 2021-08-27T13:22:00Z
+    webUrl: "https://bangordailynews.com/2021/08/27/politics/daily-brief/what-the-end-of-joe-bidens-eviction-moratorium-will-look-like-in-maine/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/LewistonAuburnHousing-090419-2.jpg"
+        width: 1024
+        height: 681
+        isCached: true
+  - title: "Ashley Moody demands border control assurance from Joe Biden"
+    excerpt: "Attorney General Ashley Moody was among 20 Republican AGs signing on to a letter demanding federal assurances of tighter immigration policy. The letter to U.S. Attorney General Merrick Garland followed a favorable ruling in the U."
+    publishedDateTime: 2021-08-27T17:04:00Z
+    webUrl: "https://floridapolitics.com/archives/453563-moody-border/"
     type: article
     provider:
       name: Florida Politics
       domain: floridapolitics.com
-    quality: 54
+    quality: 55
     images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2021/06/image007-2.jpg"
-        width: 640
-        height: 320
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/05/Ashley-Moody-scaled.jpg"
+        width: 2560
+        height: 1920
         isCached: true
-  - title: "Biden’s lack of leadership has set the stage for another Tehran ‘79Biden’s lack of leadership has set the stage for another Tehran ‘79"
-    excerpt: "Remember when President Joe Biden went on national television and said the Afghanistan troop withdrawal would be nothing like Saigon?"
-    publishedDateTime: 2021-08-26T19:49:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/aug/26/bidens-lack-of-leadership-has-set-the-stage-for-an/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/26/bidens-lack-of-leadership-has-set-the-stage-for-an/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/26/bidens-lack-of-leadership-has-set-the-stage-for-an/"
+  - title: "Does Video Show Joe Biden Falling Asleep in Meeting with Israeli PM?"
+    excerpt: "after videos went viral of U.S. President Joe Biden purportedly falling asleep during a meeting. Biden was meeting with Israeli Prime Minister Naftali Bennett on Aug. 27, 2021, and soon after numerous outlets claimed that he was nodding off as Bennett was ..."
+    publishedDateTime: 2021-08-30T18:08:00Z
+    webUrl: "https://www.snopes.com/fact-check/biden-asleep-meeting-israeli-pm/"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 43
+      name: Snopes.com
+      domain: snopes.com
+    quality: 55
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/08/26/B3-WAGN-Biden-Terro_c0-404-1210-1109_s1200x700.jpg?6a44db869a503535e769220c2c37f220f95f195d"
+      - url: "https://www.snopes.com/tachyon/2021/08/sleepy-joe-biden-video-misleading.jpg"
         width: 1200
-        height: 700
+        height: 628
+        isCached: true
+  - title: "President Joe Biden Proclaims Thursday, 26, 2021 as Women’s Equality Day"
+    excerpt: "On President Joe Biden proclaimed August 26, 2021 as Women’s Equality Day. Today, we celebrate Women’s Equality Day, a reminder not only of the progress women have won through the years, but of the important work that remains to be done."
+    publishedDateTime: 2021-08-26T21:01:00Z
+    webUrl: "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/32707-president-joe-biden-proclaims-thursday-26-2021-as-women-s-equality-day"
+    type: article
+    provider:
+      name: Sierra Sun Times
+      domain: goldrushcam.com
+    quality: 54
+    images:
+      - url: "https://goldrushcam.com/sierrasuntimes/images/2020/white-house-gov.jpg"
+        width: 679
+        height: 357
+        isCached: true
+  - title: "For Biden’s presidency has been driven by crisis and is the ‘loneliest job’"
+    excerpt: "President Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan, even as he and the nation continued to battle the COVID-19 pandemic."
+    publishedDateTime: 2021-08-28T13:24:00Z
+    webUrl: "https://www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 53
+  - title: "Storm commemorates 2020 WNBA championship with President Joe Biden at White House"
+    excerpt: "President Joe Biden and first lady Jill Biden hosted an entourage led by Storm captains Sue Bird and Breanna Stewart, coach Noelle Quinn and the majority owners Ginny Gilder, Lisa Brummel and Dawn Trudeau."
+    publishedDateTime: 2021-08-24T22:46:00Z
+    webUrl: "https://www.seattletimes.com/sports/storm/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/"
+    ampWebUrl: "https://www.seattletimes.com/sports/storm/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/sports/storm/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 50
+  - title: "Ruth Dudley Edwards: President Joe Biden is ignorant, arrogant, stubborn — and too damn old"
+    excerpt: "We’re living through a disaster that should be causing all patriotic Americans to wonder if it isn’t time to revisit their methods of choosing their leaders."
+    publishedDateTime: 2021-08-24T13:37:00Z
+    webUrl: "https://www.newsletter.co.uk/news/opinion/columnists/ruth-dudley-edwards-president-joe-biden-is-ignorant-arrogant-stubborn-and-too-damn-old-3357817"
+    type: article
+    provider:
+      name: The News Letter
+      domain: newsletter.co.uk
+    quality: 45
+    images:
+      - url: "https://www.newsletter.co.uk/webimg/TUFZMTMyOTY3Mzkw.jpg?width=2048&enable=upscale"
+        width: 2048
+        height: 1453
         isCached: true
 
 secured: "Kc2MlfBrM5RaIZ7FB/Bg98wQ5JqU7jeUV8FdPp4sKRw5RwdmWhRArpR/WeNbrvPdjGXexsVMCEBE1oAuHwPMZZ+QEnPhf6I1BTLMd3kLABDfD7SDxdWtmIgdi+vr3hesMKmG3qaCmHb0v9xSJ4HRkbQPRqzCPzWtnDi6xhemn6pA8j1hnvcEggO4gnZVm1lzcO+C58jTnOks4CnYoibOB4dNURVeH92FEb+XVJdjF3j/r7u+3tZBjarD1CppgPkFaR5AHd6FiCJ/6ygTQ75rPE24ZLFpQjQwp8wiftjUOriouoUK0lUy5h4jolc0Yt3hBtlPdBHgXze7lU+630o77nv7LLur6vg1mBMGBSx0JN0=;qFcdBYtf6GSJc1KaoqD39Q=="

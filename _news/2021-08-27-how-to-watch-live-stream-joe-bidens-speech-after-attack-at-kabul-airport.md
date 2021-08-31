@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/how-watch-live-stream-joe-bidens-speech-aft
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-watch-live-stream-joe-bidens-speech-after-explosions-kabul-airport-1623378?amp=1"
 type: article
 quality: 123
-heat: 503
+heat: 523
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/3171630273282/2021/1/c3e7a3e83faa803742a8af0509932e1f/v1.5/Biden-attends-dignified-transfer-of-13-service-members-killed-in-Kabul.jpg"
         width: 800
         height: 532
+        isCached: true
+  - title: "Trump rips Biden for appearing to check watch while honoring 13 service members killed in Kabul: 'Disgrace'"
+    excerpt: "Former President Donald Trump said it was a “disgrace” when President Biden was seen looking at his watch while paying respects to the 13 service members who were killed in Afghanistan."
+    publishedDateTime: 2021-08-31T14:42:00Z
+    webUrl: "https://www.foxbusiness.com/politics/trump-biden-disgrace-watch-service-members-killed-kabul"
+    ampWebUrl: "https://www.foxbusiness.com/politics/trump-biden-disgrace-watch-service-members-killed-kabul.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/trump-biden-disgrace-watch-service-members-killed-kabul.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 72
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/f7762b16-2c65-44f0-9749-684748f6c32a/fe75ff19-fb1d-4475-bb25-e2e8cb489623/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Seattle Storm Visit President Joe Biden at White House to Celebrate 2020 WNBA Title"
     excerpt: "The Seattle Storm were honored Monday at the White House by President Joe Biden to commemorate their 2020 WNBA championship. They were the first WNBA"

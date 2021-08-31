@@ -64,20 +64,6 @@ related:
       name: Courthouse News Service
       domain: courthousenews.com
     quality: 55
-  - title: "Does Video Show Joe Biden Falling Asleep in Meeting with Israeli PM?"
-    excerpt: "after videos went viral of U.S. President Joe Biden purportedly falling asleep during a meeting. Biden was meeting with Israeli Prime Minister Naftali Bennett on Aug. 27, 2021, and soon after numerous outlets claimed that he was nodding off as Bennett was ..."
-    publishedDateTime: 2021-08-30T18:08:00Z
-    webUrl: "https://www.snopes.com/fact-check/biden-asleep-meeting-israeli-pm/"
-    type: article
-    provider:
-      name: Snopes.com
-      domain: snopes.com
-    quality: 55
-    images:
-      - url: "https://www.snopes.com/tachyon/2021/08/sleepy-joe-biden-video-misleading.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "EI55iIyoFQSSpXEHD2q9uBElBw8QSv8WvefuqbGDouFM0vgJ75FWlQ8PSvbTGakRhZFtzsxGwmndjWQG9/G4a0OeIkl+Kotpxlj6X3IhAOsoN/1sbxNjR3A9kGPfRvsllRRagKrQ8UKl+lgnnrS80HgLZc6sxha2oPwAQmt0KkzH68q+ItKcwa+1tZbosjmWT/err62Xfgv1oMejkpUWK6FoLyxS4kXZqzdEPItVzOdLj2VpZ4YJo14JdlMhXsX3gQ6V4wcp4GbvIU4sszoZTzgPmzeApazZfqNt2npS7KFmQ68kpmmESmPnYsVV4RjW03PITx9JWUXGA6g8b8JGViPQ8SlBBcR4Z86hQ7kyhdo=;VryOzf+JtjH42hZ8jCptrQ=="
 ---

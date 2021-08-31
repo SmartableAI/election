@@ -27,65 +27,81 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden’s future looks bleak – he’s shamed and endangered the West"
-    excerpt: "A broken man THE charge sheet against Joe Biden grows by the day. It’s not just that his reckless, casual disregard for Afghanistan and its ­people led directly to the suicide bomb slaughter of 13"
-    publishedDateTime: 2021-08-28T01:58:00Z
-    webUrl: "https://www.the-sun.com/news/3555473/joe-biden-shamed-endangered-west/"
-    ampWebUrl: "https://www.the-sun.com/news/3555473/joe-biden-shamed-endangered-west/amp/"
-    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3555473/joe-biden-shamed-endangered-west/amp/"
+  - title: "Seattle Storm visit President Biden, White House to celebrate 2020 WNBA title"
+    excerpt: "The Storm became the first women’s team welcomed by President Biden and the first WNBA squad at the White House since the 2015 Minnesota Lynx."
+    publishedDateTime: 2021-08-23T21:44:00Z
+    webUrl: "https://www.freep.com/story/sports/wnba/storm/2021/08/23/seattle-storm-visit-president-biden-white-house-honor-wnba-title/8245818002/"
+    ampWebUrl: "https://amp.freep.com/amp/8245818002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/8245818002"
     type: article
     provider:
-      name: The Sun
-      domain: the-sun.com
-    quality: 75
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 72
     images:
-      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/NINTCHDBPICT000675572319-1-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+      - url: "https://www.gannett-cdn.com/presto/2021/08/23/USAT/eaa65bb6-091f-4e5e-b30d-bdbf44364616-GTY_1234836329.jpg?auto=webp&crop=7544,4244,x1,y787&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Apple CEO Tim Cook to Meet With U.S. President Joe Biden to Discuss Cybersecurity"
+    excerpt: "Apple CEO Tim Cook is set to join other tech executives in a cybersecurity meeting with U.S. President Joe Biden next week, reports Bloomberg."
+    publishedDateTime: 2021-08-23T23:16:00Z
+    webUrl: "https://www.macrumors.com/2021/08/23/tim-cook-joe-biden-cybersecurity-meeting/"
+    ampWebUrl: "https://www.macrumors.com/2021/08/23/tim-cook-joe-biden-cybersecurity-meeting/amp/"
+    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/08/23/tim-cook-joe-biden-cybersecurity-meeting/amp/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 70
+    images:
+      - url: "https://images.macrumors.com/t/IDpC4PrZIv4mNWa0wPO2j5dgr0U=/1600x/http://images.macrumors.com/article-new/2019/02/timcooktulane.jpg"
+        width: 1600
+        height: 1200
+        isCached: true
+  - title: "WNBA News: What Joe Biden Said About Champion Seattle Storm In Their White House Visit"
+    excerpt: "The Seattle Storm visited President Joe Biden at the White House on Monday to celebrate their 2020 WNBA championship. Seattle defeated the Las Vegas Aces in a 3-game sweep, giving the organization their fourth championship title in their history."
+    publishedDateTime: 2021-08-23T22:52:00Z
+    webUrl: "https://www.ibtimes.com/wnba-news-what-joe-biden-said-about-champion-seattle-storm-their-white-house-visit-3279414"
+    ampWebUrl: "https://www.ibtimes.com/wnba-news-what-joe-biden-said-about-champion-seattle-storm-their-white-house-visit-3279414?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/wnba-news-what-joe-biden-said-about-champion-seattle-storm-their-white-house-visit-3279414?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 67
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/22/gettyimages-1025667234.jpg"
         width: 1200
         height: 800
         isCached: true
-  - title: "Rep. Boebert: 'There is Blood on Joe Biden's Hands'"
-    excerpt: "In the wake of the bombing at the Kabul airport in Afghanistan that killed at least 12 U.S. Marines and an unconfirmed number of civilians, House Rep. Lauren Boebert (R-Colo.) said President Joe Biden has blood on his hands for failing to competently plan and execute the withdrawal from Afghanistan."
-    publishedDateTime: 2021-08-26T17:39:00Z
-    webUrl: "https://www.cnsnews.com/article/washington/michael-w-chapman/rep-boebert-there-blood-joe-bidens-hands"
+  - title: "Biden celebrates 2020 WNBA champs Seattle Storm"
+    excerpt: "President Joe Biden honored the 2020 WNBA champions Seattle Storm on Monday, celebrating their success on the court and hailing the four-time title holders for changing lives with their social"
+    publishedDateTime: 2021-08-23T23:46:00Z
+    webUrl: "https://www.oleantimesherald.com/biden-celebrates-2020-wnba-champs-seattle-storm/video_c9bf69fc-22dd-5752-bdda-10acc895c530.html"
     type: article
     provider:
-      name: CNSNews.com
-      domain: cnsnews.com
+      name: Olean Times Herald
+      domain: oleantimesherald.com
     quality: 55
     images:
-      - url: "https://cdn.cnsnews.com/styles/article_big/s3/2021-08/green%2C%20mark%20%20%2045.jpg"
-        width: 700
-        height: 466
+      - url: "https://bloximages.chicago2.vip.townnews.com/oleantimesherald.com/content/tncms/assets/v3/editorial/c/9b/c9bf69fc-22dd-5752-bdda-10acc895c530/61243394cd1bd.preview.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
         isCached: true
-  - title: "Kat Cammack says Joe Biden’s ‘Weekend at Bernie’s’ presidency should end"
-    excerpt: "Kat Cammack on Fox & Friends Monday reiterated her belief President Joe Biden should resign over events in Afghanistan. She compared the President to the 1989 film Weekend at Bernie’s, a less-than-subtle suggestion Biden may be little more than a figurehead anyway."
-    publishedDateTime: 2021-08-30T18:53:00Z
-    webUrl: "https://floridapolitics.com/archives/453974-kat-cammack-says-joe-bidens-weekend-at-bernies-presidency-should-end/"
+  - title: "Biden kneels at White House celebration of WNBA champs Seattle Storm"
+    excerpt: "President Joe Biden got down on one knee in the East Room during the celebration of the WNBA champions Seattle Storm."
+    publishedDateTime: 2021-08-24T03:29:00Z
+    webUrl: "https://thegrio.com/2021/08/23/biden-kneels-white-house-wnba-seattle-storm/"
     type: article
     provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 54
+      name: The Grio
+      domain: thegrio.com
+    quality: 55
     images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2021/06/image007-2.jpg"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden’s lack of leadership has set the stage for another Tehran ‘79Biden’s lack of leadership has set the stage for another Tehran ‘79"
-    excerpt: "Remember when President Joe Biden went on national television and said the Afghanistan troop withdrawal would be nothing like Saigon?"
-    publishedDateTime: 2021-08-26T19:49:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/aug/26/bidens-lack-of-leadership-has-set-the-stage-for-an/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/26/bidens-lack-of-leadership-has-set-the-stage-for-an/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/26/bidens-lack-of-leadership-has-set-the-stage-for-an/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 43
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/08/26/B3-WAGN-Biden-Terro_c0-404-1210-1109_s1200x700.jpg?6a44db869a503535e769220c2c37f220f95f195d"
-        width: 1200
-        height: 700
+      - url: "https://thegrio.com/wp-content/uploads/2021/08/240820211629775420-1-scaled.jpg"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "FGqlLBahJjn9xCLh7YjkLQrDSKl3LorW/uTwXtL8Ih7/BqXUF901/o++vWCyqKJpfDk4zo4Iu1hOjWT7wfU0v/0yIcQqAm8uDctgUGo+8fsfrxrvaXaU3Z1U9FuLvBcg0PWrK+muf3eiPIV+6Tm0GoeXyELPLHCCM9kyD1mQ9vq0hj7EClkZYpocFQtOt2DG3v3O6oG8OUQ6Kt/mlaxgDsjixL/oeXX036wARYn2/DXJhEdrsBxh8qOi/5ZVftCjSnZZe4Y2J16rj/ZCT7U6oloEDTlo4LJXRsW2WCMkG48URWiCJOYum23luTIVAiICn8q1RYIF04rmP5WZlrNQqxP2RLe4e/CXpo0mas+YExk=;h2PqTprpXUrHClJoeb1BMg=="

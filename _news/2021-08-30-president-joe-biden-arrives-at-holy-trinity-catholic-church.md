@@ -375,6 +375,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Biden looking at climate change risks to financial markets"
+    excerpt: "In a season of daunting wildfires and flooding, the Biden administration is taking an initial step to assess how climate change could harm financial markets — planning"
+    publishedDateTime: 2021-08-31T14:59:00Z
+    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/biden-looking-at-climate-change-risks-to-financial-markets/article_96e55625-2904-53fc-a4ea-664b344d61d5.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/7/bf/7bfb7acc-b50e-5f48-ab78-1609a1892f22/612e47db04442.image.jpg?crop=1765%2C993%2C0%2C90&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Joe Biden spoke to the G7 a sum total of 7 minutes. Pure propaganda, photo-op."
     excerpt: "Joe Biden acted like his G7 meeting was a success, but in reality it left every other world leader feeling disappointed in America."
     publishedDateTime: 2021-08-25T12:49:00Z

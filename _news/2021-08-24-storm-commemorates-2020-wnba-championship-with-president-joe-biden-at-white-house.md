@@ -71,31 +71,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "President Joe Biden Proclaims Thursday, 26, 2021 as Women’s Equality Day"
-    excerpt: "On President Joe Biden proclaimed August 26, 2021 as Women’s Equality Day. Today, we celebrate Women’s Equality Day, a reminder not only of the progress women have won through the years, but of the important work that remains to be done."
-    publishedDateTime: 2021-08-26T21:01:00Z
-    webUrl: "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/32707-president-joe-biden-proclaims-thursday-26-2021-as-women-s-equality-day"
-    type: article
-    provider:
-      name: Sierra Sun Times
-      domain: goldrushcam.com
-    quality: 54
-    images:
-      - url: "https://goldrushcam.com/sierrasuntimes/images/2020/white-house-gov.jpg"
-        width: 679
-        height: 357
-        isCached: true
-  - title: "Storm commemorates 2020 WNBA championship with President Joe Biden at White House"
-    excerpt: "President Joe Biden and first lady Jill Biden hosted an entourage led by Storm captains Sue Bird and Breanna Stewart, coach Noelle Quinn and the majority owners Ginny Gilder, Lisa Brummel and Dawn Trudeau."
-    publishedDateTime: 2021-08-24T22:46:00Z
-    webUrl: "https://www.seattletimes.com/sports/storm/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/"
-    ampWebUrl: "https://www.seattletimes.com/sports/storm/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/sports/storm/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 50
 
 secured: "7VfWjGf29iUN4M+uk9Ex8yXIzhlR6NW9Hld7KBDQPE9lrqfUHU6FZE6llUa/ogPQf/aVhqVNda30bUGyXHGIK3jsuU1F524/VqjlHKx2x0zNEjrCIK5P0ybYVhIBWklaWnE/N5Khk/WVjocNRddWcBXqTWg2EENjxB8reskA4yDXInEaEOSfaMR/yPlHZNf2ZXSQAJ9nMcfoeD0katrpnI6Fznc+ujN6ZiuoSuC+gLWmIWCgeBfIowazKxjqNL3bFzb82fiX+xQJfEww9CqDVcctKkqj1hy9PCPYj3VxwW6uE5MyQ284Fima5Ke4e2/1iD/vMzQZSdoy2QWtNqMfwuwd8HjcHSK9lqK+UvFFmug=;1qnzupovyPtCfacIw0yohw=="
 ---

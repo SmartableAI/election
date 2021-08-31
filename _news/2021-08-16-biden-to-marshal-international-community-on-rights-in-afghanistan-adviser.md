@@ -1025,6 +1025,22 @@ related:
         width: 5460
         height: 3640
         isCached: true
+  - title: "For Biden, ending war in Afghanistan leaves tough questions"
+    excerpt: "Faced with tough questions about leaving Afghanistan, including Americans left behind, President Joe Biden planned to address the nation Tuesday about the way forward after 20 years of U.S. war."
+    publishedDateTime: 2021-08-31T15:52:00Z
+    webUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-us-afghanistan-biden-20210831-xs6dz3hcu5g3lac2kp24mnfksu-story.html"
+    ampWebUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-us-afghanistan-biden-20210831-xs6dz3hcu5g3lac2kp24mnfksu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-aud-nw-us-afghanistan-biden-20210831-xs6dz3hcu5g3lac2kp24mnfksu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Daily Press
+      domain: dailypress.com
+    quality: 75
+    images:
+      - url: "https://www.dailypress.com/resizer/O1E1IjfeWObG57Uqvy2lW6wsH4U=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PG7MWN7A25BB5HPV5DLQE5VEU4.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "War is over but not Biden’s Afghanistan challenges"
     excerpt: "With the final stream of U.S. cargo planes soaring over the peaks of the Hindu Kush, President Joe Biden fulfilled a campaign promise to end America’s longest war, one it could not win."
     publishedDateTime: 2021-08-31T13:23:00Z
