@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Kamala Harris rebukes China in major speech on Indo-Pacific"
-excerpt: "U.S. Vice President Kamala Harris delivered a sharp rebuke to China for its incursions in the South China Sea, warning its actions there amount to “coercion” and"
-publishedDateTime: 2021-08-24T04:09:00Z
-originalUrl: "https://www.denverpost.com/2021/08/23/kamala-harris-rebukes-china-speech/"
-webUrl: "https://www.denverpost.com/2021/08/23/kamala-harris-rebukes-china-speech/"
-ampWebUrl: "https://www.denverpost.com/2021/08/23/kamala-harris-rebukes-china-speech/amp/"
-cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/08/23/kamala-harris-rebukes-china-speech/amp/"
+title: "Photo edited to show Kamala Harris with Jeffrey Epstein"
+excerpt: "CLAIM: A photo shows U.S. Vice President Kamala Harris with the late financier Jeffrey Epstein. AP’S ASSESSMENT: False. An image posted online purporting to show Harris with Epstein is altered."
+publishedDateTime: 2021-08-30T19:07:00Z
+originalUrl: "https://apnews.com/article/fact-checking-961965727698"
+webUrl: "https://apnews.com/article/fact-checking-961965727698"
 type: article
-quality: 75
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: The Denver Post
-  domain: denverpost.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.denverpost.com/wp-content/uploads/2021/08/Singapore_US_Harris_92376.jpg?w=1024&#038;h=677"
-    width: 1024
-    height: 677
+  - url: "https://apnews.com/images/ShareLogo2.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -243,20 +241,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Photo edited to show Kamala Harris with Jeffrey Epstein"
-    excerpt: "CLAIM: A photo shows U.S. Vice President Kamala Harris with the late financier Jeffrey Epstein. AP’S ASSESSMENT: False. An image posted online purporting to show Harris with Epstein is altered."
-    publishedDateTime: 2021-08-30T19:07:00Z
-    webUrl: "https://apnews.com/article/fact-checking-961965727698"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 105
-    images:
-      - url: "https://apnews.com/images/ShareLogo2.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Kamala Harris says U.S. focus on Afghan evacuations, pledges open South China Sea"
     excerpt: "U.S. Vice President Kamala Harris said on Monday during a visit to Singapore that the United States was focusing on evacuation efforts taking place in Afghanistan and that there would be plenty of time to analyse the context of the troop withdrawal."
     publishedDateTime: 2021-08-23T09:38:00Z
@@ -414,6 +398,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/3FRH4NDR4ZFA7PCRP4K55JN5FY.jpg"
         width: 6000
         height: 4056
+        isCached: true
+  - title: "Kamala Harris rebukes China in major speech on Indo-Pacific"
+    excerpt: "U.S. Vice President Kamala Harris delivered a sharp rebuke to China for its incursions in the South China Sea, warning its actions there amount to “coercion” and"
+    publishedDateTime: 2021-08-24T04:09:00Z
+    webUrl: "https://www.denverpost.com/2021/08/23/kamala-harris-rebukes-china-speech/"
+    ampWebUrl: "https://www.denverpost.com/2021/08/23/kamala-harris-rebukes-china-speech/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/08/23/kamala-harris-rebukes-china-speech/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/08/Singapore_US_Harris_92376.jpg?w=1024&#038;h=677"
+        width: 1024
+        height: 677
         isCached: true
   - title: "Kamala Harris calls on Vietnam to join US opposing China ''bullying''"
     excerpt: "Vice President Kamala Harris called on Vietnam to join the US to challenge China's \"bullying\" in the South China Sea, a continuation of her sharp rhetoric against Beijing as she tours"
@@ -1316,6 +1316,6 @@ related:
         height: 422
         isCached: true
 
-secured: "BMBmn6krYxA/O1UjKpNFa5UCeiybedCUXF9PKBzb1kcjMDb21YTSlZeWK6PrPE4nyvfpNS106XGywFHSud7GM9VtZ43odxbpLx4b/QYYzUyRR0VkiWRuBl1nphUtHuyrUzkGo71QM9cLi5zNH2+dq1eAQj9tgs0E+Bt6cugUDq5sDPnaEEIj/Vf3gZQQu8IbDG7gcy/JdxETuwsZydaD7b37/RqnbboRC4Lw0WNy/fPiPc43Dh/yRvJ4zFgjLPV9D8N/o7jLENB2GusegwrFkO7ejKNkAJVzmb7R30eU9yZIYD4gSifdZtVUMDCTFCEl0KHx3WiFyP1cuoV90uGosqnmt6q9fWUMOYESDKNQLKPOD1f8Hk2sLUPv6T0HvWp5dnthazfJpueoLUSQHRHjOMIfZbNKwUgijBO5kTMtHqWsWNktW4ssB55x1/Y0ehYSSlEyfzOmhZJN2m6ZqD50D2bkhGEhUDmwAvmcd9hRmawT1ZYxsPZa6XQOhIpHsMON727qy4mDCk43eSvfPdTlcw==;XQNETldHrUeW05ibbzpZYg=="
+secured: "ixCnuwlZCvhtItkPLgR8hHAMntJz13vweo9uV6Ov3VvdzFMUFtcnwDvzQS4n++WrfvQXuNUiu9ILLxIU+Oh1XzF01cId3Nfv5w+03SZS+050Z1DPhETqXWjk/JeNcF1BADXuTzyDFMNWuaAq8CVa3lJt4xHvHmywWDjbyCvPcz0Q+6W+jXj1FD2/QL2n5V0O/3WEDslNsKQSQ8BGxx3IEzPf3SyZLdlWMuLbxI/a8YWYT5O5F2NqlZhq1eVNQDA64KS3t1LCG2T7eUyddJDy5tltAte6qlmBJJWEtoR2ef51VUU+D34NY0dz3yhNowQF4cuG8X3mMeadHzd//vHkwtPbt7rRnKfouobOYeBFUMY=;3C5jMu/ZlGVPEr4YBH9dsg=="
 ---
 

@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Images of Joe Biden’s war will never fade"
-excerpt: "Befuddled by time, disoriented by a riot of terrible decisions, and confused by the demand for answers, President Joe Biden stood in the East Room of the White House, clutched his binder to his chest,"
-publishedDateTime: 2021-08-30T23:48:00Z
-originalUrl: "https://www.washingtontimes.com/news/2021/aug/30/images-of-joe-bidens-war-will-never-fade/"
-webUrl: "https://www.washingtontimes.com/news/2021/aug/30/images-of-joe-bidens-war-will-never-fade/"
-ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/30/images-of-joe-bidens-war-will-never-fade/"
-cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/30/images-of-joe-bidens-war-will-never-fade/"
+title: "Biden’s Alliance with Big Tech Shows a Power Shift"
+excerpt: "Snowden relationship with government appears to have mellowed at a meeting last week. Should we be worried about what they might all do together?"
+publishedDateTime: 2021-08-31T00:00:00Z
+originalUrl: "https://www.washingtonpost.com/business/bidens-alliance-with-big-tech-shows-a-power-shift/2021/08/30/2cfafbb2-09f6-11ec-a7c8-61bb7b3bf628_story.html"
+webUrl: "https://www.washingtonpost.com/business/bidens-alliance-with-big-tech-shows-a-power-shift/2021/08/30/2cfafbb2-09f6-11ec-a7c8-61bb7b3bf628_story.html"
 type: article
-quality: 75
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Washington Times
-  domain: washingtontimes.com
+  name: Washington Post
+  domain: washingtonpost.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://twt-thumbs.washtimes.com/media/image/2021/08/26/Biden_37683.jpg-e9a80_c0-414-4967-3311_s1200x700.jpg?68ec6885488a9f2d33a5b30c517f2601ca6a8e9f"
-    width: 1200
-    height: 700
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FRVFG3QJ6YI6ZJ6IMG5XWO7WFA.jpg&w=1440"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -84,20 +86,6 @@ related:
     quality: 105
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WVLSJGQJMAI6ZJ6IMG5XWO7WFA.jpg&w=1440"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Biden’s Alliance with Big Tech Shows a Power Shift"
-    excerpt: "Snowden relationship with government appears to have mellowed at a meeting last week. Should we be worried about what they might all do together?"
-    publishedDateTime: 2021-08-31T00:00:00Z
-    webUrl: "https://www.washingtonpost.com/business/bidens-alliance-with-big-tech-shows-a-power-shift/2021/08/30/2cfafbb2-09f6-11ec-a7c8-61bb7b3bf628_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FRVFG3QJ6YI6ZJ6IMG5XWO7WFA.jpg&w=1440"
         width: 1024
         height: 683
         isCached: true
@@ -228,6 +216,22 @@ related:
       - url: "https://mediacloud.theweek.com/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1630312191/GettyImages-3295829.jpg"
         width: 814
         height: 458
+        isCached: true
+  - title: "Images of Joe Biden’s war will never fade"
+    excerpt: "Befuddled by time, disoriented by a riot of terrible decisions, and confused by the demand for answers, President Joe Biden stood in the East Room of the White House, clutched his binder to his chest,"
+    publishedDateTime: 2021-08-30T23:48:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/aug/30/images-of-joe-bidens-war-will-never-fade/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/30/images-of-joe-bidens-war-will-never-fade/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/30/images-of-joe-bidens-war-will-never-fade/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/08/26/Biden_37683.jpg-e9a80_c0-414-4967-3311_s1200x700.jpg?68ec6885488a9f2d33a5b30c517f2601ca6a8e9f"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Joe Biden’s Crisis Moment Has Arrived"
     excerpt: "With Democrats distancing themselves from the president over his bungled Afghanistan withdrawal, COVID still spreading, and a tropical storm wreaking havoc in Louisiana, is Biden’s messaging getting lost in the chaos?"
@@ -419,6 +423,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "igJfd+4HlPzpIOj5T2MBY5SnFhUdALYpjbsthMtYYrxfxHZFoYV4eaqpX9Z1AaKSHzijQQTBBlTODYlHb9T5Uw0d/AOvIv+g0a6EaHDnOI9sqQ4FyI+fNS6DxIoWFPG3hlQG475i6QvsF3rVcQYdGaQzEgvwyGCzW990MB5D7SuesNtX1PtmJ97jXTt4TL3bWFV3zVHQUoQHFbGtKzO9G4pooQieiR0GOOxrBqoJ+IisONP/szyyQk2mpXsSUx0Fye6lQgGMhf9tjT7woTX77daDH0hFmc5PnWdJwMMyqFXmY5OWau49/lqmMn6HliP2I6trglfWW+l3RGTtxrfAi3fJp8QPbm4LXVYWUxpJqfA+v9VqWcUqdEVynqdD4CEG0ev0vUAHImVI42XdNRBKb2DKLFNbMDCKvgi2tiInHtqOCoU4GPQAp0U6MaFKy96POXr4e45q4AHUsBYO5BxscRIlea9I36q1VIip+ZpLOw4XLJGKSa2WaX3MFVLSK79NnG7QFu2GLd79aYGYLLq42Q==;9/XjBukd8RethHlgFQ6OFg=="
+secured: "qOaS03ixS+Eh/lmWgB2FxCeTV6+VPlrdWdQl4N9WMm1jtGWz/4lBJMSzu38J1YsaWkLlg2fljrZqIhTQ6cwV31cae/jwaFx4hpBkXM+mgRJLSsdi2sT/kd0BAXZT6TUc7/YAtpk5YK5qxzwBf7PYFYSeUAA02kLXYcSfiP4qay7msHkICRWmK5G/jmlewpqgyQGtoldYxicu//iCIL+4a4qaXmhUzQqITSO4oF3lPv52ipvBUis6lscvQGsu92MftgIsgRCPxKJA7s+9knl2XvTbZvLFDFCHlT7q587a+b5EEdorG3qObCMOoaUWvratKnbQdqjAnLHs7DUQiS6BrcoATB2FmR4z6yXZcBbD99I=;cZ1tmGVdK7tq9Wrcx9/uKA=="
 ---
 

@@ -297,6 +297,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Analysis: War is over but not Biden's Afghanistan challenges"
+    excerpt: "President Joe Biden still faces daunting challenges born of the hasty end of the Afghanistan war NY Rep.: Afghanistan will 'turn into a terrorist safe haven' WASHINGTON -- With the final stream of U.S."
+    publishedDateTime: 2021-08-31T04:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/analysis-war-bidens-afghanistan-challenges-79738400"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/analysis-war-bidens-afghanistan-challenges-79738400"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/analysis-war-bidens-afghanistan-challenges-79738400"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_615b53294a2e4218806160caf186fa7e_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden to withdraw U.S. troops from Afghanistan by Sept. 11, officials say"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden has decided to withdraw the remaining U.S. troops from Afghanistan by Sept. 11, 2021, 20 years to the day after al Qaeda’s attacks triggered America’s longest war, U.S. officials said on Tuesday. U.S ..."
     publishedDateTime: 2021-04-13T15:55:00Z
@@ -1496,20 +1512,6 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/33b6a11c0dd29ce286947ef7e5c25211719df6d4.jpg"
         width: 768
         height: 512
-        isCached: true
-  - title: "Analysis: War is over but not Biden's Afghanistan challenges"
-    excerpt: "With the final stream of U.S. cargo planes soaring over the peaks of the Hindu Kush, President Joe Biden fulfilled a campaign promise to end America’s longest"
-    publishedDateTime: 2021-08-31T04:21:00Z
-    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/analysis-war-is-over-but-not-bidens-afghanistan-challenges/article_43a1670a-b60b-5476-8925-4e8d2dffce6f.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/a/83/a83cbc2f-890e-5a61-8f2c-c26e694fb797/612db47cf1eb4.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
         isCached: true
   - title: "Biden attends grim homecoming for U.S. troops killed in Afghanistan attack"
     excerpt: "President Joe Biden shut his eyes and tilted his head back as the flag-draped cases carrying the remains of 11 American service members killed"

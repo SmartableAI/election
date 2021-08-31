@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Beto-O-Rourke-pu
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Beto-O-Rourke-pushes-Joe-Biden-to-help-pass-16411342.php"
 type: article
 quality: 125
-heat: 645
+heat: 665
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
     quality: 105
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WVLSJGQJMAI6ZJ6IMG5XWO7WFA.jpg&w=1440"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Biden’s Alliance with Big Tech Shows a Power Shift"
+    excerpt: "Snowden relationship with government appears to have mellowed at a meeting last week. Should we be worried about what they might all do together?"
+    publishedDateTime: 2021-08-31T00:00:00Z
+    webUrl: "https://www.washingtonpost.com/business/bidens-alliance-with-big-tech-shows-a-power-shift/2021/08/30/2cfafbb2-09f6-11ec-a7c8-61bb7b3bf628_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FRVFG3QJ6YI6ZJ6IMG5XWO7WFA.jpg&w=1440"
         width: 1024
         height: 683
         isCached: true

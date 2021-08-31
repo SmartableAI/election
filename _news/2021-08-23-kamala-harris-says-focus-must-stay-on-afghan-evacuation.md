@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/world-nation/story/2021-08-23/kamala-harris-
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-08-23/kamala-harris-says-focus-must-stay-on-afghan-evacuation?_amp=true"
 type: article
 quality: 125
-heat: 1845
+heat: 1865
 published: true
 
 provider:
@@ -230,6 +230,20 @@ related:
       - url: "https://www.reuters.com/resizer/R9sA08YsyWMlJT7R2KQMceJAlbg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NPVGKOYL6RO5DCYLNOSJIXEG6M.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Photo edited to show Kamala Harris with Jeffrey Epstein"
+    excerpt: "CLAIM: A photo shows U.S. Vice President Kamala Harris with the late financier Jeffrey Epstein. AP’S ASSESSMENT: False. An image posted online purporting to show Harris with Epstein is altered."
+    publishedDateTime: 2021-08-30T19:07:00Z
+    webUrl: "https://apnews.com/article/fact-checking-961965727698"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Kamala Harris says U.S. focus on Afghan evacuations, pledges open South China Sea"
     excerpt: "U.S. Vice President Kamala Harris said on Monday during a visit to Singapore that the United States was focusing on evacuation efforts taking place in Afghanistan and that there would be plenty of time to analyse the context of the troop withdrawal."

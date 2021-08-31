@@ -1,27 +1,33 @@
 ---
 category: news
 title: "Analysis: War is over but not Biden's Afghanistan challenges"
-excerpt: "With the final stream of U.S. cargo planes soaring over the peaks of the Hindu Kush, President Joe Biden fulfilled a campaign promise to end America’s longest"
-publishedDateTime: 2021-08-31T04:21:00Z
-originalUrl: "https://www.stltoday.com/news/national/govt-and-politics/analysis-war-is-over-but-not-bidens-afghanistan-challenges/article_43a1670a-b60b-5476-8925-4e8d2dffce6f.html"
-webUrl: "https://www.stltoday.com/news/national/govt-and-politics/analysis-war-is-over-but-not-bidens-afghanistan-challenges/article_43a1670a-b60b-5476-8925-4e8d2dffce6f.html"
+excerpt: "President Joe Biden still faces daunting challenges born of the hasty end of the Afghanistan war NY Rep.: Afghanistan will 'turn into a terrorist safe haven' WASHINGTON -- With the final stream of U.S."
+publishedDateTime: 2021-08-31T04:32:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/analysis-war-bidens-afghanistan-challenges-79738400"
+webUrl: "https://abcnews.go.com/Politics/wireStory/analysis-war-bidens-afghanistan-challenges-79738400"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/analysis-war-bidens-afghanistan-challenges-79738400"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/analysis-war-bidens-afghanistan-challenges-79738400"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/a/83/a83cbc2f-890e-5a61-8f2c-c26e694fb797/612db47cf1eb4.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
-    width: 1120
-    height: 630
+  - url: "https://s.abcnews.com/images/Politics/WireAP_615b53294a2e4218806160caf186fa7e_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -1666,6 +1672,6 @@ related:
       domain: usnews.com
     quality: 29
 
-secured: "Dj59U8wNEh8QVmMxmGvzXf/g+MiS+oblTolXsrkHlTFPYwf5XwZZ2A24E+i439IyW6RYMLvHx/qRepGWzxaq1IkJ1NRHmrtYD7Qz8pq4pMGvSZvQZluGBU70VZUnhajPfNps69CkgSQCkRFfvfm4miU1zlX+Gfmpw1/fZ25pL86L5yubmoJJf5rGyPZknFwbVJN1N5YQhh6+c06DDU6tDcwaNKKfd22YYHvVDAT+QVB8jModtHoJs0exKSe4ngv9gqWP+YMW2hJXM5Tb0GRIsQvtBT+mAMldH4Wyggy9BE+d1hYOqzzBTdidl0fhACIfDfDjR8QBIx9rOVntVuj1gF/uDgi6Zp69iwWAP6UBim4=;8NCfAtqtH6SemnhYoUwNpQ=="
+secured: "I1t4dSYcMXO/82ksoU3iC1AdHco9eok0DDPhZQ3tVga0xsMOE7XJ2qagu68niQMJHn7P1qOWQk1ZMOhEZa5haGjrJqV9UuKzJ8vf4UXifFxLtkGWmqvTGK4kcGe7brnhOx1Buro1xmYy2RiWdX0Y0RwgQsk6A00aA5ESoOsxebQYrZQEgOphoJ3gruBPat4gFFz9LSd4Za25YX0btW6BZaJpPdf07EzZWWrnG0HnQ+RaCDNnIaUSQ18mU07I7ztR89CYLUmCTqu28Cy0RlfuKNsx6Fy9yj9rgClIfQF958r4cIgBTs3kEHW2FVDn2H14Rg3L1gYQy8WsBZrICKV8nLlsRAglrGVi/G4McKBW0v8=;ldRIJrQ06BmsNnYejRaiMg=="
 ---
 
