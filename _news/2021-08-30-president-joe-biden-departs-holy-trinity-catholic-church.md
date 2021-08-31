@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Departs Holy Trinity Catholic Church"
 excerpt: "US President Joe Biden walks out of Holy Trinity Catholic Church after mass in the Georgetown neighborhood of Washington, DC on Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover,"
 publishedDateTime: 2021-08-29T22:47:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/892121aec790ee325107640365b766b7/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/892121aec790ee325107640365b766b7/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/0aa5f0085d74f7e3ec67bcdb81bd4836/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/0aa5f0085d74f7e3ec67bcdb81bd4836/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/892121aec790ee325107640365b766b7/BIDEN-CHURCH.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/0aa5f0085d74f7e3ec67bcdb81bd4836/BIDEN-CHURCH.jpg"
     width: 650
     height: 433
     isCached: true
@@ -203,8 +203,8 @@ related:
         isCached: true
   - title: "Joe Biden in the ‘Loneliest Job,' a Presidency Driven by Crisis"
     excerpt: "Surrounded by everything a superpower can offer and watched by all, President Joe Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan and tried to keep the focus on what,"
-    publishedDateTime: 2021-08-28T22:12:00Z
-    webUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/"
+    publishedDateTime: 2021-08-29T01:54:00Z
+    webUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
     ampWebUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
     cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
     type: article
@@ -534,6 +534,6 @@ related:
       domain: seattletimes.com
     quality: 34
 
-secured: "BUeeMyFx0x5GmBKSHmxlIVopFlJkb2CgDNFXoFaB11fRC/a4OrhghaRzhum7PaJGnC66xqjAGEN7H5XrjexyV0VwptIzclUvVrOVng/8afm+nLb7OnJvFPFRUdLZHx6caJkFI9tLPNzVx32ceMCuJ86nlvKa3ZcjsQ0Bn4OHHmglKo+kvsK8D0Dg9sDxiJq0bjtwwEWZYtrNXPsVyFF2By2ocR/fFkIn05EsFD4hAJ/XuXPXu217LUP/xfP80+bwouM/3m2pB9xskWTvJDrmiu2KeTHmn1EgwpnvfPwSdiCzaVMH/idCeRr98WXsiouZQcoUf8uvfNVM30rjPR/fzVEVSR2ySZLy3+fYw3ryy6M=;1PTtoffyYBkvYz+qLsUqAA=="
+secured: "JmB2BBZ0YQ5t6kDc40iCmy8dXeKnkym3uJGA1pYvne7LwWyoelAWL9DvgjXacdkIgVvatLpqdH8wG1HGvL127E9+441pRCjhy0OVjmza+g+udbha6vmoIkARpl7QX50uBPZAWAJPMk6S8NUnqsHU+XGSoukURZP/T1cM2eO7K0ZABa4Z6oaHCwo+ovj5wKUV5yvps9W5LgCKw9P3iezGOsggvIDz58zNn5z4gugaA1adqHLmjgWXAHBwT7eXm2TQSmLCyCeKBqqEv0FTILPAUE468vGml31AjT3r/NcRubAyWr5f+yIsfa0I9NL1ENpFkBa/OVmbuJ/fp5kytqFG8laiYjPnMKMrmov/EyfbBsk=;k1qaq/rGwauEL3gtkZmtGw=="
 ---
 

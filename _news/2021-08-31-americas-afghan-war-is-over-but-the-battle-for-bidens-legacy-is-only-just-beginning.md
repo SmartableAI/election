@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden to hold cybersecurity meeting with tech, education and critical infrastructure leaders"
-excerpt: "President Joe Biden and several of his Cabinet officials and advisers will meet with leaders from Silicon Valley, the water and energy sectors, the banking and insurance industries and academic institutions on Wednesday to discuss shoring up the nation's cybersecurity.\n    \n"
-publishedDateTime: 2021-08-25T12:39:46Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z0LhzhQpUaA/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z0LhzhQpUaA/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/08/25/politics/biden-cyber-meeting/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/25/politics/biden-cyber-meeting/index.html"
+title: "America's Afghan war is over but the battle for Biden's legacy is only just beginning"
+excerpt: "America's chaotic, humiliating -- yet, at times, heroic -- final retreat from its defeat in Afghanistan will resonate for years after the last military jet lifted off from Kabul at 11:59 p.m. local time on Monday, ending the country's longest war.\n    \n"
+publishedDateTime: 2021-08-31T11:24:47Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jHD_asenfd4/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jHD_asenfd4/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/08/31/politics/americas-afghan-war-is-over-joe-biden-legacy/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/31/politics/americas-afghan-war-is-over-joe-biden-legacy/index.html"
 type: article
-quality: 164
+quality: 168
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704190844-white-house-exterior-0703-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210831065728-biden-hurricane-ida-0830-file-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -111,22 +111,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "America's Afghan war is over but the battle for Biden's legacy is only just beginning"
-    excerpt: "America's chaotic, humiliating -- yet, at times, heroic -- final retreat from its defeat in Afghanistan will resonate for years after the last military jet lifted off from Kabul at 11:59 p.m. local time on Monday, ending the country's longest war.\n    \n"
-    publishedDateTime: 2021-08-31T11:24:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jHD_asenfd4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/31/politics/americas-afghan-war-is-over-joe-biden-legacy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/31/politics/americas-afghan-war-is-over-joe-biden-legacy/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210831065728-biden-hurricane-ida-0830-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "President and first lady plan to get their Covid booster shots when eligible, Biden says"
     excerpt: "President Joe Biden and first lady Jill Biden plan to get Covid-19 vaccine booster shots once they are cleared to take them, the President said in an interview aired Thursday.\n    \n"
     publishedDateTime: 2021-08-19T13:46:27Z
@@ -143,7 +127,23 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to hold cybersecurity meeting with tech, education and critical infrastructure leaders"
+    excerpt: "President Joe Biden and several of his Cabinet officials and advisers will meet with leaders from Silicon Valley, the water and energy sectors, the banking and insurance industries and academic institutions on Wednesday to discuss shoring up the nation's cybersecurity.\n    \n"
+    publishedDateTime: 2021-08-25T12:39:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z0LhzhQpUaA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/25/politics/biden-cyber-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/25/politics/biden-cyber-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704190844-white-house-exterior-0703-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
-secured: "vhkyYtpqF41u6i8vVQhbffTt0wklzkm457vnuHg99K57Z4OEnpXUn/c9UsnPh+vSc5XEJBea47wffwSizUCFp2qu5UjWSrXmB5ekXiR3nbarjxl+1HdhF/IZAO4G4kn+OsHyWWhs1E5FziYGRPIRYTG5KoG97/qhmNlZKVEGMh7/zXIdsjswTX5YOeCyP1nWU+PeE6C27zPTE9KrK5Vk6PmXjEOgZeZBUvNdYnVIgskOLvk2j1Vzv5mViFwfZUU0bCVk8B/4+rAgZxJjvjKSuNTiuDweiQ3cWmHyVG5kgWfvOSGR7YtkooakZ3XLn+EAATIkZ252TuQb8y0/Cb3ByxG9pRLVcnVxr08wysyxOGA=;iFDBCfJYRQCzR/iEgLXD7Q=="
+secured: "SxR8e//9J/iGTJmZX/cU645Ls6GaChDzYdwOtRX3xBCTe4mOsFAT4dRC/d1XBg8hyZJ/eh13he1+Jmka/bXperYGOeq7bdYfXvFHkrX9hMpPStduyCUfkMKmw//YWMDQF4008e2Em8TSy+Vc3/0gMi9qdJCD5UFRg/jYUmYp3+rhMWqb/5nPdCS4c3eNFa3rWBIVM99/JD5DqoU8Iv8owxLKPmkXwS2lBj58e1OKX3DUn4bqeOES1szqmng+gpxs8dUfdJkHgox6AS6BVWr8UIe6ViyxM40GwUNSCWJM8MxhYhrhqz75yyH2vD61uYihzhDYsruTMJKVZLg5hAMGlcgmGs2ddqPAk1aFuAOkGE4=;UKjkvmyz56/1LhZ50aoaBQ=="
 ---
 

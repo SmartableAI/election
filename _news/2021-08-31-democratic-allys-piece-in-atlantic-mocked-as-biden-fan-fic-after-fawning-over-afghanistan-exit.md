@@ -1,14 +1,12 @@
 ---
 category: news
-title: "White House doubles down on Harris' Asia trip amid Afghan crisis: 'Many interests around the world'"
-excerpt: "The White House doubled down on Kamala Harris' East Asia trip amid the Afghanistan crisis. An official said the United States \"has many interests around the world.\""
-publishedDateTime: 2021-08-18T20:40:52Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YnD8Ucb7cHk/white-house-harris-asia-trip-amid-afghan-crisis-interests-around-world"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YnD8Ucb7cHk/white-house-harris-asia-trip-amid-afghan-crisis-interests-around-world"
-ampWebUrl: "https://www.foxnews.com/politics/white-house-harris-asia-trip-amid-afghan-crisis-interests-around-world.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-harris-asia-trip-amid-afghan-crisis-interests-around-world.amp"
+title: "Democratic ally's piece in Atlantic mocked as 'Biden fan fic' after fawning over Afghanistan exit"
+excerpt: "The Atlantic gave Democratic insider David Rothkopf space to gush Monday that President Joe Biden deserved credit, not blame, for what's transpired in Afghanistan and Americans should “feel proud.”"
+publishedDateTime: 2021-08-31T11:17:00Z
+originalUrl: "https://www.foxnews.com/media/joe-biden-donor-fawns-afghanistan-atlantic"
+webUrl: "https://www.foxnews.com/media/joe-biden-donor-fawns-afghanistan-atlantic"
 type: article
-quality: 171
+quality: 102
 heat: -1
 published: false
 
@@ -22,13 +20,13 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
-  - Kamala Harris
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43dec90e-50bf-4981-97ed-2fc0ac19fae8/df9afa57-897f-48c4-9c09-2cd422aefcb3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/Klain-Biden-David-Rothkopf.jpg"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -495,6 +493,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "White House doubles down on Harris' Asia trip amid Afghan crisis: 'Many interests around the world'"
+    excerpt: "The White House doubled down on Kamala Harris' East Asia trip amid the Afghanistan crisis. An official said the United States \"has many interests around the world.\""
+    publishedDateTime: 2021-08-18T20:40:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YnD8Ucb7cHk/white-house-harris-asia-trip-amid-afghan-crisis-interests-around-world"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-harris-asia-trip-amid-afghan-crisis-interests-around-world.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-harris-asia-trip-amid-afghan-crisis-interests-around-world.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43dec90e-50bf-4981-97ed-2fc0ac19fae8/df9afa57-897f-48c4-9c09-2cd422aefcb3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Biden to address Afghanistan evacuations amid torrent of criticism over crisis"
     excerpt: "President Biden on Friday will address the bid to evacuate American citizens and Afghan allies from Afghanistan in the face of the Taliban takeover of the country, as Biden faces a torrent of criticism for his handling of the U.S. withdrawal."
@@ -1995,20 +2009,6 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 114
-  - title: "Democratic ally's piece in Atlantic mocked as 'Biden fan fic' after fawning over Afghanistan exit"
-    excerpt: "The Atlantic gave Democratic insider David Rothkopf space to gush Monday that President Joe Biden deserved credit, not blame, for what's transpired in Afghanistan and Americans should “feel proud.”"
-    publishedDateTime: 2021-08-31T11:17:00Z
-    webUrl: "https://www.foxnews.com/media/joe-biden-donor-fawns-afghanistan-atlantic"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 102
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/Klain-Biden-David-Rothkopf.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "The Blood On Joe Biden’s Hands"
     excerpt: "The best-case scenario under Joe Biden’s Afghanistan plan was the United States running away from Fred Flintstone and Barney Rubble fast enough to avoid offending troglodytes who pass the time"
     publishedDateTime: 2021-08-29T04:01:00Z
@@ -2115,6 +2115,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "g7o8re8eP1D1lEDF8DlsByU8MxHape4/S5lWmCcC92Rrgql1hBH0EuoGiqdtk9dhPtPfuBG0gbWmSfFkP9Swb0AVECeUlwLZqI3l+rCr5WG7H6XmU6N13bgEE+Yw8XfZovsyeRYvzc2gZtbYtpFTSS3HujmNQ8IJlsJSXIbafdS5uA5P5puiqUSby5coE/KOycD7OnYIMv5v4EOGzL5jmZqrFOjo50BBNGxB2wJSCAeNWJMpygumh6/jq1BsC4LFODTpfHCs5OkODSS8pEPALFbHFXcrkVdrb5BQ0RERl3PhkGu8M3vjk+RhrpC/qvR7IHdz+vi36jRPFxae344Ic6vpkr1N0qI+irNSf37W2xc=;30IZn+I1b8ZlyJKfXQ4pqw=="
+secured: "BiHYVdU/Cl/GqZOodd6hbi6IsKeGwQdP0rOwTdr1dGA7k3g6IxcL251XD0X4ybO3ChCgkQnIKnL4F7P2FvL3Ny7V6+E83oafRjDxzjDXoNlDi+DnPXt9qaHcj68gzTg4dr4W/l0djzGwXmUV1o595peU1rih2rFwMi2FZr+ggRPS5mKKEG8w2yBpIdEPBWq21GZ7eZ3rLu0nF5UfKEBTsZ9ArEkJ5RM7IwlCA8zqOqE7f4sn15YCp33zTX78FIi/XkIGLzGzIUY3w++HkmKJ5sVDSAcwAcFKVOzxSQtC6bhN4BE49r8TsSB5bBl5BmYIUj1wzZEIfWXXoHOm6Pv7Hp6nf8TtR1iyGMoGMwrSE08=;xOU+qtgdQlMbnKU0/xJkeg=="
 ---
 

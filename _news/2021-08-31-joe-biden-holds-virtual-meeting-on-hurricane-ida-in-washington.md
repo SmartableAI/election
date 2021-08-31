@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden holds virtual meeting on Hurricane Ida in Washington"
-excerpt: "U.S. President Joe Biden meets virtually with FEMA Administrator Deanne Criswell and governors and mayors from States and cities impacted by Hurricane Ida from South Court Auditorium at the White House in Washington,"
+excerpt: "U.S. President Joe Biden arrives at virtual meeting with FEMA Administrator Deanne Criswell and governors and mayors from States and cities impacted by Hurricane Ida from South Court Auditorium at the White House in Washington,"
 publishedDateTime: 2021-08-30T18:20:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/afed49e3dfe0422f575a3cdadde2c7ce/Joe-Biden-holds-virtual-meeting-on-Hurricane-Ida-in-Washington/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/afed49e3dfe0422f575a3cdadde2c7ce/Joe-Biden-holds-virtual-meeting-on-Hurricane-Ida-in-Washington/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/4b1ba91c074fd7dcfd6ffb79ad161d7e/Joe-Biden-holds-virtual-meeting-on-Hurricane-Ida-in-Washington/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/4b1ba91c074fd7dcfd6ffb79ad161d7e/Joe-Biden-holds-virtual-meeting-on-Hurricane-Ida-in-Washington/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/afed49e3dfe0422f575a3cdadde2c7ce/BIDEN-HURRICANE-IDA.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/4b1ba91c074fd7dcfd6ffb79ad161d7e/BIDEN-HURRICANE-IDA.jpg"
     width: 650
     height: 433
     isCached: true
@@ -122,6 +122,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "sQA+TBlyUr+GxTDwCyCdMhS9tfarqI/2msJxJ8ao0dWXWNOYlUyJcjKgJjQJD8mDaU3JTYbE9Zm+ONSidPa4aMz2MZerHuWyZSgOchXI27Gvzx+CO0oCLv1YoNG9igahzVNOHFJFdeey0oFcFt7TcaOqZ3s3ME3a0iK+kN+Sh/Q0vrDqDkYnRI3IAeGmC/inmQmkt3M//BAeoIrfY9PG5f+n+Hu8NnBAqU3lEz3DcRf8a8ih7jsUVrSqTJhO5Qs6j3xoz0ff7nihufqTgP73DsfVOfXqvDLhjFROYXfNse8DGbhck6qhTwOg7yxAuFmJ+BFp8hWYeZYmN1tq8cde3nWs71U5lzYcSNCCyjKaE2s=;XDH22lrrWokUdFgX67DKag=="
+secured: "WYKaJ7Ojw/hXWu8xtJ41mIC+X4bsiotEqF2h4bHky6jNIwhibZPEterIf3kJH5lipZqDdAltUIDY7wH8fOsrtcbeRI9qxkNhOvD2j10KR9G2htwtRw6v9+TrRXxKL7wSSlIEsKPF7VnpFYamm/+/HytgZr5lGNV7omN67DoKkUFgnzqBcp7kGH+zTx5DtNASElG50lmFeFa2RZl9dbNY9sD8l6Kcgwx/MG+t4HD0J+k8kcpdvu68+MVUw9W14HELbJh/2cHj8rCH/BYAqWpfFmGvsyPSd+ATj5CNPRVON6G3gT8Zs8/RequqRmFABEs9TsNGBEE4eSL7NwsJdanYaEzgrIJ3CS2ETqSHjPbs8Ec=;pVRAMqC6G/BuauDwQpkACw=="
 ---
 

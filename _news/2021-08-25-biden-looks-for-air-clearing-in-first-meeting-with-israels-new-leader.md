@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/25/politics/biden-bennett-israel/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/25/politics/biden-bennett-israel/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210827125545-02-biden-0827-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "America's Afghan war is over but the battle for Biden's legacy is only just beginning"
+    excerpt: "America's chaotic, humiliating -- yet, at times, heroic -- final retreat from its defeat in Afghanistan will resonate for years after the last military jet lifted off from Kabul at 11:59 p.m. local time on Monday, ending the country's longest war.\n    \n"
+    publishedDateTime: 2021-08-31T11:24:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jHD_asenfd4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/31/politics/americas-afghan-war-is-over-joe-biden-legacy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/31/politics/americas-afghan-war-is-over-joe-biden-legacy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210831065728-biden-hurricane-ida-0830-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

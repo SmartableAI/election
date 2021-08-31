@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-biden-afghanistan-dec
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-biden-afghanistan-decision-courageous-trump-blame.amp"
 type: article
 quality: 201
-heat: 2861
+heat: 2881
 published: true
 
 provider:
@@ -1995,6 +1995,20 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 114
+  - title: "Democratic ally's piece in Atlantic mocked as 'Biden fan fic' after fawning over Afghanistan exit"
+    excerpt: "The Atlantic gave Democratic insider David Rothkopf space to gush Monday that President Joe Biden deserved credit, not blame, for what's transpired in Afghanistan and Americans should “feel proud.”"
+    publishedDateTime: 2021-08-31T11:17:00Z
+    webUrl: "https://www.foxnews.com/media/joe-biden-donor-fawns-afghanistan-atlantic"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 102
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/Klain-Biden-David-Rothkopf.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "The Blood On Joe Biden’s Hands"
     excerpt: "The best-case scenario under Joe Biden’s Afghanistan plan was the United States running away from Fred Flintstone and Barney Rubble fast enough to avoid offending troglodytes who pass the time"
     publishedDateTime: 2021-08-29T04:01:00Z

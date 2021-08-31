@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden in the ‘Loneliest Job,' a Presidency Driven by Crisis"
 excerpt: "Surrounded by everything a superpower can offer and watched by all, President Joe Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan and tried to keep the focus on what,"
-publishedDateTime: 2021-08-28T22:12:00Z
-originalUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/"
-webUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/"
+publishedDateTime: 2021-08-29T01:54:00Z
+originalUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
+webUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
 ampWebUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/biden-administration/joe-biden-in-the-loneliest-job-a-presidency-driven-by-crisis/3245615/?amp"
 type: article
@@ -438,14 +438,14 @@ related:
   - title: "President Joe Biden Departs Holy Trinity Catholic Church"
     excerpt: "US President Joe Biden walks out of Holy Trinity Catholic Church after mass in the Georgetown neighborhood of Washington, DC on Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover,"
     publishedDateTime: 2021-08-29T22:47:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/892121aec790ee325107640365b766b7/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/0aa5f0085d74f7e3ec67bcdb81bd4836/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/892121aec790ee325107640365b766b7/BIDEN-CHURCH.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/0aa5f0085d74f7e3ec67bcdb81bd4836/BIDEN-CHURCH.jpg"
         width: 650
         height: 433
         isCached: true
@@ -534,6 +534,6 @@ related:
       domain: seattletimes.com
     quality: 34
 
-secured: "INxIKSg0p4qXQDsMDUJkTzrab6RRm3aDSFArPhtuiwW9DidzijvOlEalGvbS8DO8t/BoI2uyQ7GGBZAukVWX7zn00SvLw6sYiAQoWCM/YVrfkyxAxSdsNM1H8Kct/622aqPXcm4bqvniZXslLyLEvQIihoeSO4FZVGemFxRqgmesPSw0fdldMNPLUtnNRP6PhC99srHSmQTahXMaXLNP/t79pqVUzMFGzX2ynzX25yhp0CkAJ/un+xVC7pJKZWIKXqtN/nt7wiDgH3lex/OO49g375BzgqcnpmGUkWAOm71Ks8M4F0gNjujhHBku/LUcJvWRFVQAaohKb2JKwVqrsQjDUOBrxaV8u7pEqz2G6qKE2U/EjZK8UrhaBmpepiu+mDDRdtulCHskvCG7EVUeYIFsonovv3CyX+HrnutUdOWRIWDIe0HwruNRCKZjITNsO0oD1k8DdqRgU/z99GTD7yeeCAZh4ZA9ai0q76MILYUkahKvDdspU5m2fo7icGY1uLfThPk97/qkJ25+Kpuo0w==;i1wqXSgYRkRR6S0ZqCCeiQ=="
+secured: "RLOLHTfVQSygmOAqv8aAyDdi1nUT4nHeoBfew2QoiuFGdHJ9rCK4hN+AlhEj7UZz6xalWp9AMYCucz5IEuKuqj2cnZxMsb9sgmSpQ9exJpby2vkdljOi9x6/J7ruxOB2J4DzU4iKUbEyDVh3iQZyZeUnlj0XybIYMr1RYyx99oSDaHaymjJp00mBP3O72ft2KKo/hIPScqa+7tr3LQFV7fPs9jVO3yoVz5tcSwv4lMQtXdDaOZcZ16MGrF5O2NUZsrsCV6IqN+m8lDc7w+LWGUaMqdcCbFkr3rdmtKcrZGorUjW37oLmN8hNFE0PvEZuTyMbqwPoF14weiwvaFUp49kcIkL3EaKrzSsYJPLN6Jk=;WUpNpzeCRRDUI8TixYQ9pg=="
 ---
 
