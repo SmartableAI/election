@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Watch live: BBC News coverage of Joe Biden's speech"
-excerpt: "Watch the Channel as US President Joe Biden delivers a speech on Afghanistan. Watch live: coverage of Joe Biden's speech Up Next. Taliban asked if women will be in new government. Video, 00:01:10Taliban asked if women will be in new government 'I was not going to extend a forever exit' Video,"
-publishedDateTime: 2021-09-01T12:48:00Z
-originalUrl: "https://www.bbc.com/news/av/world-us-canada-58402624"
-webUrl: "https://www.bbc.com/news/av/world-us-canada-58402624"
+excerpt: "Watch the BBC News Channel as US President Joe Biden delivers a speech on Afghanistan."
+publishedDateTime: 2021-09-01T09:31:00Z
+originalUrl: "https://www.bbc.co.uk/news/av/world-us-canada-58402624"
+webUrl: "https://www.bbc.co.uk/news/av/world-us-canada-58402624"
 type: article
-quality: 105
+quality: 55
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - Election
@@ -235,6 +231,6 @@ related:
         height: 1453
         isCached: true
 
-secured: "UUP+m/xRJL6hTu51nwbsNTKAVAn+vHWgRNoniOXHMggzn96NRjEz29PS6TSnhjWVsD/9MRHRzLBLY681O2waz4SE3xpVJ7B2U3P/sybZTFKvg2Vg0gQM8N101RFOEQdEYw5/TAsP4Bgcj1e8dsUOc8c989pJEhytG017+Ek+OaDygEDKEy4age5U6ouvPefcpnTTb0Nai7JwIyI716XiWqVPwoF9dTDiJpvgzd997zn7Abc21qxVBMzhn62LtZRtCFXBuvxGTtYp3XbH1JzZvGtYGu8wrq5+NEFN+6gp3OpYyt7Aba8pW40dKixnJVIIQWAEqKKJgIv5vgd9alaGdivM1o1eiatk07Ikz1iuPZc=;H6VYhK1+SnUp6g063h5DAQ=="
+secured: "A69X1X7FzDYtW7YsHwsu29Q2SKQ2aYBqtgR+xdqqiYgb8WQ8//0OglwM2AiZwVc8NBjLI7/eqk1GUaHfxYTOOjBuU609FbuSIFT3SLeT6uBYOb+xYHK/Kw8dNlD3jsQllHko6Y29XqcCwOLWxBGDuDEArybrobAmSF51n4KTEndsvTAybrKh7bafjAjPYGBzAeBPrq1SmHNAXieweTjGgBgc7G8N6Wwp3e3scDyb5rrRS9qHTmV4d0ykySkbF6cCu8Hybs2f47bQyTdHlrUuGC2f8CyctwqlnOwCPw/2/pZdlSIDUAxcAdruEXFujUYcB2qIW8U+k1Tb4yRaAMPqA8vVo2AHOqUmU6rltTgmTFY=;7i8b384YcmnPBiry2Ego2A=="
 ---
 

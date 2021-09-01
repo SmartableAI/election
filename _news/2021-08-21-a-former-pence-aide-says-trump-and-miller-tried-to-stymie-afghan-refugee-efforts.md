@@ -96,6 +96,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "On Afghanistan, G.O.P. Assails the Pullout It Had Supported Under Trump"
+    excerpt: "Eager to denounce President Biden, some Republicans have flip-flopped on bringing U.S. troops home — making it difficult to discern what they actually believe."
+    publishedDateTime: 2021-09-01T17:43:00Z
+    webUrl: "https://www.nytimes.com/2021/09/01/us/politics/republicans-afghanistan-withdrawal-support.html"
+    ampWebUrl: "https://www.nytimes.com/2021/09/01/us/politics/republicans-afghanistan-withdrawal-support.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/09/01/us/politics/republicans-afghanistan-withdrawal-support.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/08/31/us/politics/31GOP-Afghanistan-1/merlin_193632333_b6959d88-e372-410f-b324-f7b17d1c4361-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Fmr. Pence Adviser: Stephen Miller peddled “racist hysteria” during Trump years, preventing Afghans from obtaining Special Immigrant Visas"
     excerpt: "Olivia Troye, a former homeland security adviser to then-VP Mike Pence, reveals that racist and xenophobic ideologies inside the Trump Administration prevented Afghan allies from being granted Special Immigration Visas during the former president’s term."
     publishedDateTime: 2021-08-21T15:39:00Z

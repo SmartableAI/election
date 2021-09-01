@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-27-donald-trump-mistakes-isis-k-for-isis-x-then-says-its-going-to-be-worse.md",
+      "title": "Donald Trump Mistakes ISIS-K For ISIS-X, Then Says It's 'Going to be Worse'",
+      "excerpt": "The former president attacked the Biden administration's \"stupidity\" regarding the how the Afghanistan withdrawal was executed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-mistakes-isis-k-isis-x-says-its-going-worse-1623569",
+      "originalUrl": "https://www.newsweek.com/donald-trump-mistakes-isis-k-isis-x-says-its-going-worse-1623569",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1878895/former-president-donald-trump-holds-rally.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-mistakes-isis-k-isis-x-says-its-going-worse-1623569?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-mistakes-isis-k-isis-x-says-its-going-worse-1623569?amp=1",
+      "publishedDateTime": "2021-08-27T01:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-27-trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president.md",
       "title": "Trump says Kabul airport explosion wouldn’t have happened if he was president",
       "excerpt": "Donald Trump hammered Biden over the suicide bombings outside Kabul’s airport, claiming that “it would not have happened if I was your president.”",
@@ -898,7 +950,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 267,
+      "heat": 287,
       "tags": null,
       "images": [
         {
@@ -1211,63 +1263,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-a-top-pennsylvania-republican-reboots-audit-of-2020-vote-removes-trump-ally-as-chair.md",
-      "title": "A top Pennsylvania Republican reboots 'audit' of 2020 vote, removes Trump ally as chair",
-      "excerpt": "A dispute spilled into public view late last week as some Pennsylvania Republicans seek to further investigate the November election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/elections/pennsylvania-republican-senator-pledges-audit-2020-vote-results-n1277551",
-      "originalUrl": "https://www.nbcnews.com/politics/elections/pennsylvania-republican-senator-pledges-audit-2020-vote-results-n1277551",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_14/3462921/210408-ballots-usa-mb-1010.jpg",
-          "width": 4973,
-          "height": 3315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1277551",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1277551",
-      "publishedDateTime": "2021-08-25T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

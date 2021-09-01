@@ -2,6 +2,62 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-07-21-biden-marks-6-months-in-office-on-instagram-gets-shredded-in-comments.md",
+      "title": "Biden marks 6 months in office on Instagram, gets shredded in comments",
+      "excerpt": "Within Biden's first six months, consumer prices rose 5.4% in June from the previous year, and gas prices are now averaging 98 cents higher than this time last year.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dh2CqaJ3UZ4/biden-marks-6-months-in-office-on-instagram-gets-shredded-in-comments",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dh2CqaJ3UZ4/biden-marks-6-months-in-office-on-instagram-gets-shredded-in-comments",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ff65d410-0f23-4584-912e-960c5257a31c/99d3cbaa-c96e-4963-80ee-de2517a9d308/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-marks-6-months-in-office-on-instagram-gets-shredded-in-comments.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-marks-6-months-in-office-on-instagram-gets-shredded-in-comments.amp",
+      "publishedDateTime": "2021-07-21T07:08:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-tom-brady-joe-biden-play-political-football-at-white-house-super-bowl-celebration.md",
       "title": "Tom Brady, Joe Biden play political football at White House Super Bowl celebration",
       "excerpt": "Tom Brady was out to score political points at the White House, dropping jokes like passes. Brady and the Super Bowl LIV champion Tampa Bay Buccaneers attended a Rose Garden ceremony hosted by President Biden on Tuesday,",
@@ -1279,49 +1335,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-former-sf-giants-star-hunter-pence-debuting-as-tv-color-commentator-on-sunday.md",
-      "title": "Former SF Giants star Hunter Pence debuting as TV color commentator on Sunday",
-      "excerpt": "Pence has kept himself busy with various projects and adventures since the day he hung up his spikes last season and on Sunday, the former Giants star announced his latest pursuit. Pence will serve as the color commentator alongside play-by-play broadcaster Dave Flemming for the Giants’ series finale in St.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mercurynews.com/2021/07/18/former-sf-giants-star-hunter-pence-debuting-as-tv-color-commentator-on-sunday",
-      "originalUrl": "https://www.mercurynews.com/2021/07/18/former-sf-giants-star-hunter-pence-debuting-as-tv-color-commentator-on-sunday",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mercurynews.com/wp-content/uploads/2020/02/BNG-L-GIANTSFEST-0209-1.jpg?w=1024&h=669",
-          "width": 1024,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mercurynews.com/2021/07/18/former-sf-giants-star-hunter-pence-debuting-as-tv-color-commentator-on-sunday/amp/",
-      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/07/18/former-sf-giants-star-hunter-pence-debuting-as-tv-color-commentator-on-sunday/amp/",
-      "publishedDateTime": "2021-07-18T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mercury News",
-        "domain": "mercurynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

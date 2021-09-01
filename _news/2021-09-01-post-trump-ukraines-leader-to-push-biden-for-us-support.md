@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Post-Trump, Ukraine’s leader to push Biden for US support"
-excerpt: "The Ukrainian leader who found himself ensnarled in Donald Trump’s first impeachment finally gets his long-sought Oval Office meeting Wednesday with a new U.S."
-publishedDateTime: 2021-09-01T14:37:00Z
-originalUrl: "https://apnews.com/article/europe-business-ukraine-757330510acea075e0ed8bc01183e1b9"
-webUrl: "https://apnews.com/article/europe-business-ukraine-757330510acea075e0ed8bc01183e1b9"
+title: "Post-Trump, Ukraine's leader to push Biden for US support"
+excerpt: "The Ukrainian leader who found himself ensnarled in Donald Trump’s first impeachment is in Washington on Wednesday to see a new U.S. president, seeking increased military aid"
+publishedDateTime: 2021-09-01T16:28:00Z
+originalUrl: "https://www.stltoday.com/news/national/govt-and-politics/post-trump-ukraines-leader-to-push-biden-for-us-support/article_dabaf239-b34b-54d8-9a5d-a74c0b1cd9d5.html"
+webUrl: "https://www.stltoday.com/news/national/govt-and-politics/post-trump-ukraines-leader-to-push-biden-for-us-support/article_dabaf239-b34b-54d8-9a5d-a74c0b1cd9d5.html"
 type: article
-quality: 120
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/50ab7a66ef344f6599b746191a820fa8/2564.jpeg"
-    width: 2564
-    height: 1709
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/5/2a/52a098ae-b40b-51ed-8e78-243404f9834a/612ec70b32675.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
+    width: 1120
+    height: 630
     isCached: true
 
 related:
@@ -2898,6 +2898,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "FcIwUkY/W4U+qZVNSWbabtyjtk0wmsVo8aYAOsQOrTwSwPzDTlP0LYKFPIHh2vsDIk4+heDRY777mar49AwuJuAW39xNEB2S2GM32sCamvcvSfGrEV756O/k0+TeisUcK46oGtPys053RLSh+SejSoifld30btF0eD276zZTFUx/qB/y3jMMa5l42ko9Cz5drQUbiXEcDmErBsAD4UnIDeRrKr4AwuikdNaUEcB0xRi6YgAcvVkSmiTZBn+T6X+rfjfbvojSsagITPmCVRW//Bfxa0SbVa9R/5INtR6Jo1xg2VP61VizUWGLsY8gNyIV2/w1AhLEhDbc+lLnm7o1r2d5nxNQyphB8u83NfF4j7c=;CO1LFWpIr/PqH2RRWxylBQ=="
+secured: "MmBhChjl2MfN07R1UvrCzc55AqTTBGCjASaiMmrhSOSdS7+P1nD32s6lRdBZrSCZSdU8ZP1kyzI5OH4eoIv9yXQvAiLikf5iWFCop9lEJqaAO+oOFZwfFAqRndrj098zOZV+G5svn/cMEKyCjaXUOqKhhaWeoH3KPhwWGNO6BbZA2CBJ2cNgK73p5AcmmeCi+8EehuOnx9Xpze3aRNoaPWhZgVQZUSnq5HQnkMHLa0xGEc9DUMUiHaF6huKHTYzv8y3rMnxPUX0T4flxytbUdA/ugGQvYobOFU+jDM8eeSf4hNlHocOaY/TUNY/xiu+IPZK0Q26Or7JFUH+fWB3M8Ug3V/eUudfoDKjaVbdobhI=;4DbhQv7lqjcVBXjuvUqWZA=="
 ---
 

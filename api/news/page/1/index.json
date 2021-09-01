@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-01-biden-blasts-texas-6-week-abortion-ban-as-extreme-and-violation-of-a-constitutional-right.md",
+      "title": "Biden blasts Texas' 6-week abortion ban as 'extreme' and violation of a constitutional right",
+      "excerpt": "President Joe Biden on Wednesday blasted the Texas state law that bans abortion after as early as six weeks into pregnancy as \"extreme\" and said it \"blatantly violates\" a woman's constitutional right to have an abortion, as affirmed by the landmark Supreme Court decision Roe v. Wade.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mv0zUJGHP-Q/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mv0zUJGHP-Q/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210901090413-05-biden-afghanistan-presser-0831-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/01/politics/biden-texas-abortion-ban/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/01/politics/biden-texas-abortion-ban/index.html",
+      "publishedDateTime": "2021-09-01T10:20:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-01-biden-defends-departure-from-forever-war-praises-airlift.md",
       "title": "Biden defends departure from 'forever war,' praises airlift",
       "excerpt": "A defensive President Joe Biden called the U.S. airlift to extract more than 120,000 Americans, Afghans and other allies from Afghanistan to end a 20-year war an “extraordinary success,\" though more than 100 Americans and thousands of others were left behind.",
@@ -277,7 +333,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 183,
+      "heat": 203,
       "tags": null,
       "images": [
         {
@@ -1167,7 +1223,7 @@
       "originalUrl": "https://www.pbs.org/newshour/nation/watch-biden-pledges-hurricane-ida-support-for-as-long-as-it-takes",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1240,62 +1296,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-education-department-civil-rights-investigations-masks-schools.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-education-department-civil-rights-investigations-masks-schools.amp",
       "publishedDateTime": "2021-08-30T10:39:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-30-trump-big-tech-suit-lawyer-predicts-case-headed-to-supreme-court-says-govt-pressure-made-firms-state-actors.md",
-      "title": "Trump big tech suit lawyer predicts case headed to Supreme Court, says gov't pressure made firms state actors",
-      "excerpt": "John Coale leads former President Donald Trump's lawsuit against big tech companies Facebook, Twitter and YouTube, which is owned by Google.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1b5Ise1fHjY/trump-lawyer-john-coale-google-big-tech-lawsuit-hypocrisy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1b5Ise1fHjY/trump-lawyer-john-coale-google-big-tech-lawsuit-hypocrisy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-lawyer-john-coale-google-big-tech-lawsuit-hypocrisy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-lawyer-john-coale-google-big-tech-lawsuit-hypocrisy.amp",
-      "publishedDateTime": "2021-08-30T07:46:14-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

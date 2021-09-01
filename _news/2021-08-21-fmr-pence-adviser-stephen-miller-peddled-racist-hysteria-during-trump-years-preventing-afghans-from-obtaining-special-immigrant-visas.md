@@ -112,6 +112,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "On Afghanistan, G.O.P. Assails the Pullout It Had Supported Under Trump"
+    excerpt: "Eager to denounce President Biden, some Republicans have flip-flopped on bringing U.S. troops home — making it difficult to discern what they actually believe."
+    publishedDateTime: 2021-09-01T17:43:00Z
+    webUrl: "https://www.nytimes.com/2021/09/01/us/politics/republicans-afghanistan-withdrawal-support.html"
+    ampWebUrl: "https://www.nytimes.com/2021/09/01/us/politics/republicans-afghanistan-withdrawal-support.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/09/01/us/politics/republicans-afghanistan-withdrawal-support.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/08/31/us/politics/31GOP-Afghanistan-1/merlin_193632333_b6959d88-e372-410f-b324-f7b17d1c4361-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "i4WHVF2UO9HYCFVckzyrCYEAPYOoHGGfck8pvCbJBTP4pZZBMpd8oeXMUrYMxrYyhdH604iQj7OuUaWQi8L6nYJl1xGqmlkBklXR0u09PqBg3DlyVHnXDboCnqNoS05K/eOAlwNTEvrjDN9qXbk2xrSUnfwpytRZL0EqOReRP95HluI/KTpjRg8urRX0M7cHrL94LSCkPIsJCfSka8clDWtAsV5jMEhoEnUTUjkDlWptwMwhknFjI/4BeVdKVO7QdXLz6BIVegW7IlKmAUwLE6bycc58rT0c9Zrssk/qQorYzIfv9BZYeuOJUAUYvCwxHan8WmU6mpPFx4EDbpjvrwiFDPvVmeGJXNt8Kb94cVcM/i/+g4ROQ3r7ANZVGAmkMia+ZsmD+Nycc8bit82grtUwQoexqcSNCiBwsFy0IE/r9kZjRzHLicn7ekh/D0frJfsM6UQTw5zERYB/DwHIgJ5AOfpF5h4yaykRlfEUQz2caXz0oGirlJeHzxV2hCL/DyO1LhGeoustSfc0K2Hz2Q==;zIuk6pt0GCV67G0aVTibjg=="
 ---

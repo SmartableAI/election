@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-admin-afghanistan-coronavirus
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-afghanistan-coronavirus-hurricane-ida.amp"
 type: article
 quality: 163
-heat: 183
+heat: 203
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "White House official 'appalled and literally horrified' that Biden stranded Americans in Afghanistan: report"
+    excerpt: "A White House official said they were \"appalled and literally horrified\" that President Biden left Americans stranded in Afghanistan, a new report reveals."
+    publishedDateTime: 2021-09-01T17:23:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5g-os7IOm38/white-house-official-horrified-biden-abandoning-americans"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-official-horrified-biden-abandoning-americans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-official-horrified-biden-abandoning-americans.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/405dfe65-f4a7-443e-994b-01a414599434/526a1cb1-9f42-417f-b39b-eb7ea33527eb/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "FLASHBACK, October 2001: Joe Biden Says Afghanistan War Will Not \"Become A Swamp\" Like Vietnam"
     excerpt: "NBC's Steve Kornacki unearthed footage of then-Senator Joe Biden speaking in favor of the October 2001 invasion of Afghanistan during an interview with Chris Matthews, arguing why it will not become a long-term \"swamp\" commitment like the Vietnam War."
     publishedDateTime: 2021-08-31T21:52:00Z

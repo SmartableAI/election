@@ -143,6 +143,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "President Joe Biden plans to make trip to Louisiana in wake of Hurricane Ida destruction"
+    excerpt: "President Joe Biden plans to visit Louisiana Friday to survey damage from Hurricane Ida. Hurricane Ida slammed into Louisiana with 150 mph winds."
+    publishedDateTime: 2021-09-01T16:43:00Z
+    webUrl: "https://www.thenewsstar.com/story/news/2021/09/01/president-biden-plans-visit-louisiana-hurricane-ida-aftermath/5682801001/"
+    ampWebUrl: "https://amp.thenewsstar.com/amp/5682801001"
+    cdnAmpWebUrl: "https://amp-thenewsstar-com.cdn.ampproject.org/c/s/amp.thenewsstar.com/amp/5682801001"
+    type: article
+    provider:
+      name: The News-Star
+      domain: thenewsstar.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/22/USAT/bc0fddd5-21a2-4977-8052-5961fa541352-AP_Biden.jpg?auto=webp&crop=5574,3136,x0,y283&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "President Joe Biden is visiting Louisiana on Thursday: What we know about his agenda, arrival"
     excerpt: "As part of promotion of the $2.3 trillion infrastructure plan, President Joe Biden is making a couple of stops in Louisiana on Thursday to discuss projects to rebuild the nation’s"
     publishedDateTime: 2021-05-05T22:04:00Z

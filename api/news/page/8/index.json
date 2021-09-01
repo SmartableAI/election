@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-08-13-biden-reacts-to-anti-mask-protest-video-our-healthcare-workers-are-heroes.md",
+      "title": "Biden Reacts to Anti-Mask Protest Video: 'Our Healthcare Workers Are Heroes'",
+      "excerpt": "Currently, Tennessee is the ninth least vaccinated state in the U.S., with 46 percent of the population having received one dose.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/biden-reacts-anti-mask-protest-video-our-healthcare-workers-are-heroes-1618974",
+      "originalUrl": "https://www.newsweek.com/biden-reacts-anti-mask-protest-video-our-healthcare-workers-are-heroes-1618974",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1869761/parents-protest-mask-mandates-florida-school.jpg",
+          "width": 2809,
+          "height": 1964,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/biden-reacts-anti-mask-protest-video-our-healthcare-workers-are-heroes-1618974?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-reacts-anti-mask-protest-video-our-healthcare-workers-are-heroes-1618974?amp=1",
+      "publishedDateTime": "2021-08-12T14:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-van-orden-receives-trump-endorsement-for-wisconsin-race.md",
       "title": "Van Orden receives Trump endorsement for Wisconsin race",
       "excerpt": "MADISON, Wis. (AP) — Former President Donald Trump on Thursday gave his “Complete and Total Endorsement!” to the Republican seeking to flip a southwestern Wisconsin congressional district held by Democratic Rep. Ron Kind since 1997. Derrick Van Orden ...",
@@ -1252,58 +1304,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-trump-was-in-pain-and-afraid-from-covid-19-says-niece-mary-trump.md",
-      "title": "Trump was 'in pain and afraid' from COVID-19, says niece Mary Trump",
-      "excerpt": "The former president’s niece made the claim in a new book. Former President Trump was allegedly “in pain and afraid” after he contracted the coronavirus back in early October. Mary claimed that he was struggling to breathe while playing up theatrical his return.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/changing-america/well-being/mental-health/567303-trump-was-in-pain-and-afraid-from-covid-19-says",
-      "originalUrl": "https://thehill.com/changing-america/well-being/mental-health/567303-trump-was-in-pain-and-afraid-from-covid-19-says",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/ca_trumpwindcomments_061721getty_1.jpg",
-          "width": 1320,
-          "height": 880,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/changing-america/well-being/mental-health/567303-trump-was-in-pain-and-afraid-from-covid-19-says?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/mental-health/567303-trump-was-in-pain-and-afraid-from-covid-19-says?amp",
-      "publishedDateTime": "2021-08-11T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

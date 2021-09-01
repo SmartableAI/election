@@ -80,6 +80,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "After Hurricane Ida, President Joe Biden to visit Louisiana Friday"
+    excerpt: "President Joe Biden is coming to Louisiana on Friday to survey the situation in the wake of Hurricane Ida, the White House stated."
+    publishedDateTime: 2021-09-01T17:30:00Z
+    webUrl: "https://www.theadvocate.com/baton_rouge/news/article_fcc53e7a-0b45-11ec-91d4-5ba7813a55f2.html"
+    type: article
+    provider:
+      name: The Advocate
+      domain: theadvocate.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/1/54/15449b98-99a1-56a2-b7a6-d60be93a6f2a/612d23c294753.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
+        isCached: true
   - title: "Biden Declares Major Disaster After Hurricane Ida Lashes Louisiana"
     excerpt: "U.S. President Joe Biden declared a major disaster in Louisiana and ordered federal aid to supplement recovery efforts in the areas affected by Hurricane Ida, the White House said on Sunday. \"Assistance can include grants for temporary housing and home repairs,"
     publishedDateTime: 2021-08-30T03:39:00Z
