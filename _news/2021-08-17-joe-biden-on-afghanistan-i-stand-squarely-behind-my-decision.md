@@ -125,22 +125,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Goodbye, Afghanistan: From George W. Bush to Joe Biden, no celebration as America's longest war ends"
-    excerpt: "Twenty years after U.S. bombers arrived, the last U.S. cargo plane departs a war that has left its mark, and its sorrow, on four presidents."
-    publishedDateTime: 2021-08-30T21:38:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/08/30/afghanistan-war-ends-america-legacy/5598968001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5598968001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5598968001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 110
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/08/23/USAT/a493e6c0-df75-45c8-9fcb-eaee55fd9e5f-AP_APTOPIX_Afghanistan_2.jpg?auto=webp&crop=6009,3381,x26,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Boris Johnson’s Plea to Joe Biden on Afghanistan: Don’t Quit"
     excerpt: "America’s withdrawal strikes Brits and Europeans as cynical and raises questions about whether the West still has a “strategic will.”"
     publishedDateTime: 2021-08-24T08:50:00Z
@@ -440,6 +424,22 @@ related:
       - url: "https://deadline.com/wp-content/uploads/2021/08/afghanistan-protest-in-london.jpg?w=1024"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Goodbye, Afghanistan: From George W. Bush to Joe Biden, no celebration as America's longest war ends"
+    excerpt: "Twenty years after U.S. bombers arrived, the last U.S. cargo plane departs a war that has left its mark, and its sorrow, on four presidents."
+    publishedDateTime: 2021-08-31T00:38:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/08/30/afghanistan-war-ends-america-legacy/5598968001/"
+    ampWebUrl: "https://amp.indystar.com/amp/5598968001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5598968001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 60
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/23/USAT/a493e6c0-df75-45c8-9fcb-eaee55fd9e5f-AP_APTOPIX_Afghanistan_2.jpg?auto=webp&crop=6009,3381,x26,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Joe Biden AGAIN defends catastrophic Afghanistan situation by calling troop withdrawal ‘the right decision’"
     excerpt: "JOE Biden has once again insisted that pulling US troops out of Afghanistan was “the right decision” as he defended his handling of the crisis. The President has suffered a huge wave"

@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-30-pence-bill-clinton-will-ferrell-politicking-in-n-carolina.md",
+      "title": "Pence, Bill Clinton, Will Ferrell politicking in N Carolina",
+      "excerpt": "The next-to-last weekend before Election Day is attracting plenty of big-time politicians, leaders of interest groups and even a Hollywood star to the presidential battleground of North Carolina. Republican vice presidential candidate Mike Pence plans to speak at a Jacksonville rally Saturday,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/bill-clinton-michael-pence-will-ferrell-c7b517bbb86b0f7c52fb008dc6e22a56",
+      "originalUrl": "https://apnews.com/article/bill-clinton-michael-pence-will-ferrell-c7b517bbb86b0f7c52fb008dc6e22a56",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/ShareLogo2.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-30T03:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-08-30-fact-check-joe-biden-said-that-al-qaida-is-gone-from-afghanistan.md",
+      "title": "Fact Check: Joe Biden said that al-Qaida is 'gone' from Afghanistan",
+      "excerpt": "What interest do we have in Afghanistan at this point with al-Qaida gone? We went to Afghanistan for the express purpose of getting rid of al-Qaida in Afghanistan, as well as getting Osama bin Laden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/politics/texas/article/Fact-Check-Joe-Biden-said-that-al-Qaida-is-16416922.php",
+      "originalUrl": "https://www.houstonchronicle.com/politics/texas/article/Fact-Check-Joe-Biden-said-that-al-Qaida-is-16416922.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 365,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/21/50/72/21401243/3/400x0.jpg",
+          "width": 400,
+          "height": 266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.houstonchronicle.com/politics/texas/amp/Fact-Check-Joe-Biden-said-that-al-Qaida-is-16416922.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Fact-Check-Joe-Biden-said-that-al-Qaida-is-16416922.php",
+      "publishedDateTime": "2021-08-30T02:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-30-australias-recession-is-as-much-a-problem-for-biden-as-sydney.md",
       "title": "Australia’s Recession Is As Much A Problem For Biden As Sydney",
       "excerpt": "Australia’s sizable and open economy is often the closest thing the U.S. has to an early warning system, and experts are now warning that the country down under is sliding back into recession.",
@@ -1149,114 +1244,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-biden-doesnt-deny-report-of-us-handing-over-names-of-americans-to-taliban-there-may-have-been.md",
-      "title": "Biden doesn't deny report of US handing over names of Americans to Taliban: 'There may have been'",
-      "excerpt": "President Biden did not deny a report circulating Thursday that officials in his administration had provided names of Americans in Afghanistan to the Taliban in order to help usher them safely to the airport.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OK6k2tKrGqA/biden-doesnt-deny-report-of-u-s-handing-over-names-of-americans-to-taliban-theyre-may-have-been",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OK6k2tKrGqA/biden-doesnt-deny-report-of-u-s-handing-over-names-of-americans-to-taliban-theyre-may-have-been",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 222,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/36970f94-cdd7-4d94-95be-ecb45dc8e5c4/22c1fa4f-9b06-4657-bd69-c02e796da689/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-doesnt-deny-report-of-u-s-handing-over-names-of-americans-to-taliban-theyre-may-have-been.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doesnt-deny-report-of-u-s-handing-over-names-of-americans-to-taliban-theyre-may-have-been.amp",
-      "publishedDateTime": "2021-08-26T15:10:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-how-to-watch-live-stream-joe-bidens-speech-after-attack-at-kabul-airport.md",
-      "title": "How to Watch, Live Stream Joe Biden's Speech After Attack at Kabul Airport",
-      "excerpt": "The speech will be streamed live on the White House's Youtube page. Press secretary Jen Psaki will also brief reporters following Biden's speech at 5:45 p.m. Eastern Time. Two explosions occurred Thursday near the Hamid Karzai International Airport in Kabul,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/how-watch-live-stream-joe-bidens-speech-after-explosions-kabul-airport-1623378",
-      "originalUrl": "https://www.newsweek.com/how-watch-live-stream-joe-bidens-speech-after-explosions-kabul-airport-1623378",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 463,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1880784/live-stream-joe-bidens-speech-after-explosion.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/how-watch-live-stream-joe-bidens-speech-after-explosions-kabul-airport-1623378?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-watch-live-stream-joe-bidens-speech-after-explosions-kabul-airport-1623378?amp=1",
-      "publishedDateTime": "2021-08-26T11:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

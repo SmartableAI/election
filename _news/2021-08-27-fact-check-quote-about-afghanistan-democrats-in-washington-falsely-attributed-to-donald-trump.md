@@ -3,18 +3,18 @@ category: news
 title: "Fact check: Quote about Afghanistan, Democrats in Washington falsely attributed to Donald Trump"
 excerpt: "Donald Trump did not say the situation in Afghanistan is a distraction from the Democrats in Washington. The quote is being falsely attributed to him."
 publishedDateTime: 2021-08-27T02:32:00Z
-originalUrl: "https://www.indystar.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
-webUrl: "https://www.indystar.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
-ampWebUrl: "https://amp.indystar.com/amp/5586860001"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5586860001"
+originalUrl: "https://www.freep.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
+webUrl: "https://www.freep.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
+ampWebUrl: "https://amp.freep.com/amp/5586860001"
+cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5586860001"
 type: article
 quality: 63
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Election
@@ -216,6 +216,6 @@ related:
         height: 854
         isCached: true
 
-secured: "QJAxC6PPgKZTiB7OExFTzaqfcU1psUAs3rikZtJfjb0bsfkkZWw4vHj8ge6to7I7jqVtMEnQoLWvRfOuVqoX9MAdJoj3pX+1/A4j5zhnAvkHKNJF+PCIQM0EBg5osAv6q1M1IAtJX+2VHQnuigSymMlJoMRA/XIBNpwqWKn7fpt7wQ6H56qYyPUDc3fTnrXQisTEZFiyRAC+luuKHs3odsGe0anvWowdg08jpnllHyxVQZFNj7AK9ON5ZTxHnVSJ7p7jzWydUHaQbLDR8LLnVMT3/hlkgEnHZeuRuvCfKrkZo7zvHxAsbyEnfjQlu+Rze9XBqLfTgJ2YBMLfyRbrbYib6kJbVXcN0lz1WczUkx8=;1huG3luZdcLg5BXDPhuMpA=="
+secured: "K9Knfhd91OqJ81Xyb7mY2HlGZeLz85P6pEg+4u02+IUcI26Mj4JY4mh5JYusqhS3P8/kQ75WoipXMWdVvZYSbXY1Kp0qRDaV3qU9n+vuvsN8h8SWmdnAOqPpvy8Ez2Lx7XhhZrQ/trRyC0EVtViHQrslfamUG9Zgm6IRgrihEg5FWh3kpfRqcoPJn96hTfNiHQYJn8MmMzZ/smo9TVlw2SCUPBoxJ9xU14mqA3dvBhcUQUQyQXYlYWao1hJbnD6UhH3tt04nNML18XkusMUW/SLFJ2yRJKtl2QaCoAbiTLJQFz7JDmdZ2Z6IV+X9HFwmhzEB6vWItG/B/UkKtSCWauK1TFrms0RPomioLnTnQvY=;GknGmcK317ZaxqVmH19kdQ=="
 ---
 

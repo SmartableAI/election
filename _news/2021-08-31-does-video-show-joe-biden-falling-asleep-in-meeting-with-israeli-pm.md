@@ -191,6 +191,20 @@ related:
         width: 2560
         height: 1920
         isCached: true
+  - title: "Watch live: BBC News coverage of Joe Biden's speech"
+    excerpt: "Watch the BBC News Channel as US President Joe Biden delivers a speech on Afghanistan."
+    publishedDateTime: 2021-09-01T09:31:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/world-us-canada-58402624"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/E1AE/production/_120347775_01075bba-06cb-4775-bf06-1defc5bac8ee.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "President Joe Biden Proclaims Thursday, 26, 2021 as Women’s Equality Day"
     excerpt: "On President Joe Biden proclaimed August 26, 2021 as Women’s Equality Day. Today, we celebrate Women’s Equality Day, a reminder not only of the progress women have won through the years, but of the important work that remains to be done."
     publishedDateTime: 2021-08-26T21:01:00Z

@@ -1,0 +1,53 @@
+---
+category: news
+title: "Biden admin tested by Afghanistan, coronavirus, Hurricane Ida – 3 crises with no easy solutions"
+excerpt: "At just over seven months in office, the Biden administration is facing three major crises, any one of which would be enough to deal with."
+publishedDateTime: 2021-09-01T09:01:53Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WyAAFavk0sQ/biden-admin-afghanistan-coronavirus-hurricane-ida"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WyAAFavk0sQ/biden-admin-afghanistan-coronavirus-hurricane-ida"
+ampWebUrl: "https://www.foxnews.com/politics/biden-admin-afghanistan-coronavirus-hurricane-ida.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-afghanistan-coronavirus-hurricane-ida.amp"
+type: article
+quality: 163
+heat: 183
+published: true
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1b0c86a-6fc8-43c7-b8ce-85ec8552cf21/f5772b09-1e8d-46f9-89a1-7ba64a760cca/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
+    isCached: true
+
+related:
+  - title: "FLASHBACK, October 2001: Joe Biden Says Afghanistan War Will Not \"Become A Swamp\" Like Vietnam"
+    excerpt: "NBC's Steve Kornacki unearthed footage of then-Senator Joe Biden speaking in favor of the October 2001 invasion of Afghanistan during an interview with Chris Matthews, arguing why it will not become a long-term \"swamp\" commitment like the Vietnam War."
+    publishedDateTime: 2021-08-31T21:52:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/08/31/flashback_2001_joe_biden_says_afghanistan_war_will_not_become_a_swamp_like_vietnam.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/08/31/flashback_2001_joe_biden_says_afghanistan_war_will_not_become_a_swamp_like_vietnam.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/08/31/flashback_2001_joe_biden_says_afghanistan_war_will_not_become_a_swamp_like_vietnam.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 73
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
+        isCached: true
+
+secured: "lV9BzgMjoGgROeSEy9CeRifXtNEjYDdHTpKqOqCWL0CT7NSJo1ejSRmR6qdDF4WReGAmP25J6oPN/i69Qc5s7hCAe2WSSP+gkqZxVQiij+UdknXTLUdIXGZ7C3khLz/9H2PgoU3jTY+oQDfwYmh4YSBpB8EGlTRE8ojmcBnrS5oKp/kCd9zt9R8j7hhtaWedXW9arE08kov6V4Ge/xZ8p9/npd8bzoZqRScXvstn+kOIUqfAmuajOd0R1DZSoQQGcNPOTdwTo4PSTFHOgi7xgNuKmaWSJvaojJeylbEtX63dfmbnCa6YMwAGN6LA3zA3IYDwzx0LjMh5ES/TIWqwTUaFOrROR66PZTZb4aoizfw=;pghEzqa3pHq63LsvPjkP4w=="
+---
+

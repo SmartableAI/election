@@ -2,25 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-09-01-flashback-october-2001-joe-biden-says-afghanistan-war-will-not-become-a-swamp-like-vietnam.md",
-      "title": "FLASHBACK, October 2001: Joe Biden Says Afghanistan War Will Not \"Become A Swamp\" Like Vietnam",
-      "excerpt": "NBC's Steve Kornacki unearthed footage of then-Senator Joe Biden speaking in favor of the October 2001 invasion of Afghanistan during an interview with Chris Matthews, arguing why it will not become a long-term \"swamp\" commitment like the Vietnam War.",
+      "path": "_news/2021-09-01-biden-defends-departure-from-forever-war-praises-airlift.md",
+      "title": "Biden defends departure from 'forever war,' praises airlift",
+      "excerpt": "A defensive President Joe Biden called the U.S. airlift to extract more than 120,000 Americans, Afghans and other allies from Afghanistan to end a 20-year war an “extraordinary success,\" though more than 100 Americans and thousands of others were left behind.",
       "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/08/31/flashback_2001_joe_biden_says_afghanistan_war_will_not_become_a_swamp_like_vietnam.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/08/31/flashback_2001_joe_biden_says_afghanistan_war_will_not_become_a_swamp_like_vietnam.html",
+      "webUrl": "https://www.stamfordadvocate.com/news/article/Biden-defends-departure-from-forever-war-16427032.php",
+      "originalUrl": "https://www.stamfordadvocate.com/news/article/Biden-defends-departure-from-forever-war-16427032.php",
       "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 73,
+      "highlight": null,
+      "heat": 75,
       "tags": null,
       "images": [
         {
-          "url": "https://amp.spot.im/loader.png",
-          "width": 375,
-          "height": 815,
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/08/31/flashback_2001_joe_biden_says_afghanistan_war_will_not_become_a_swamp_like_vietnam.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/08/31/flashback_2001_joe_biden_says_afghanistan_war_will_not_become_a_swamp_like_vietnam.amp.html",
-      "publishedDateTime": "2021-08-31T14:52:00-07:00",
+      "ampWebUrl": "https://www.stamfordadvocate.com/news/amp/Biden-defends-departure-from-forever-war-16427032.php",
+      "cdnAmpWebUrl": "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Biden-defends-departure-from-forever-war-16427032.php",
+      "publishedDateTime": "2021-09-01T02:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
+        "name": "StamfordAdvocate",
+        "domain": "stamfordadvocate.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -45,7 +41,118 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-09-01-biden-admin-tested-by-afghanistan-coronavirus-hurricane-ida-3-crises-with-no-easy-solutions.md",
+      "title": "Biden admin tested by Afghanistan, coronavirus, Hurricane Ida – 3 crises with no easy solutions",
+      "excerpt": "At just over seven months in office, the Biden administration is facing three major crises, any one of which would be enough to deal with.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WyAAFavk0sQ/biden-admin-afghanistan-coronavirus-hurricane-ida",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WyAAFavk0sQ/biden-admin-afghanistan-coronavirus-hurricane-ida",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1b0c86a-6fc8-43c7-b8ce-85ec8552cf21/f5772b09-1e8d-46f9-89a1-7ba64a760cca/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-admin-afghanistan-coronavirus-hurricane-ida.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-afghanistan-coronavirus-hurricane-ida.amp",
+      "publishedDateTime": "2021-09-01T02:01:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-01-biden-to-meet-with-ukraines-zelensky-at-white-house-underscore-ironclad-commitment-to-its-sovereignty.md",
+      "title": "Biden to meet with Ukraine's Zelensky at White House, underscore 'ironclad commitment' to its sovereignty",
+      "excerpt": "President Biden is set to meet with Ukrainian President Volodymyr Zelensky Wednesday — to amplify the bilateral relationship, and to underscore the U.S. commitment to Ukraine’s security,officials said.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Px0Pe4fY998/biden-ukraine-white-house-meeting-zelensky",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Px0Pe4fY998/biden-ukraine-white-house-meeting-zelensky",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-ukraine-white-house-meeting-zelensky.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ukraine-white-house-meeting-zelensky.amp",
+      "publishedDateTime": "2021-09-01T02:01:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Republican Voice"
       ]
     },
@@ -383,7 +490,7 @@
       "originalUrl": "https://www.ft.com/content/bfe24854-3bf2-4ada-b3a2-778b4707c31f",
       "featuredContent": null,
       "highlight": null,
-      "heat": 425,
+      "heat": 445,
       "tags": null,
       "images": [
         {
@@ -1192,101 +1299,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-30-pence-bill-clinton-will-ferrell-politicking-in-n-carolina.md",
-      "title": "Pence, Bill Clinton, Will Ferrell politicking in N Carolina",
-      "excerpt": "The next-to-last weekend before Election Day is attracting plenty of big-time politicians, leaders of interest groups and even a Hollywood star to the presidential battleground of North Carolina. Republican vice presidential candidate Mike Pence plans to speak at a Jacksonville rally Saturday,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/bill-clinton-michael-pence-will-ferrell-c7b517bbb86b0f7c52fb008dc6e22a56",
-      "originalUrl": "https://apnews.com/article/bill-clinton-michael-pence-will-ferrell-c7b517bbb86b0f7c52fb008dc6e22a56",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/ShareLogo2.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-30T03:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-08-30-fact-check-joe-biden-said-that-al-qaida-is-gone-from-afghanistan.md",
-      "title": "Fact Check: Joe Biden said that al-Qaida is 'gone' from Afghanistan",
-      "excerpt": "What interest do we have in Afghanistan at this point with al-Qaida gone? We went to Afghanistan for the express purpose of getting rid of al-Qaida in Afghanistan, as well as getting Osama bin Laden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/politics/texas/article/Fact-Check-Joe-Biden-said-that-al-Qaida-is-16416922.php",
-      "originalUrl": "https://www.houstonchronicle.com/politics/texas/article/Fact-Check-Joe-Biden-said-that-al-Qaida-is-16416922.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 365,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/21/50/72/21401243/3/400x0.jpg",
-          "width": 400,
-          "height": 266,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.houstonchronicle.com/politics/texas/amp/Fact-Check-Joe-Biden-said-that-al-Qaida-is-16416922.php",
-      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Fact-Check-Joe-Biden-said-that-al-Qaida-is-16416922.php",
-      "publishedDateTime": "2021-08-30T02:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

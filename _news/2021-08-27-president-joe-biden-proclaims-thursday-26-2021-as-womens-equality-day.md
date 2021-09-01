@@ -205,6 +205,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Watch live: BBC News coverage of Joe Biden's speech"
+    excerpt: "Watch the BBC News Channel as US President Joe Biden delivers a speech on Afghanistan."
+    publishedDateTime: 2021-09-01T09:31:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/world-us-canada-58402624"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/E1AE/production/_120347775_01075bba-06cb-4775-bf06-1defc5bac8ee.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "For Biden’s presidency has been driven by crisis and is the ‘loneliest job’"
     excerpt: "President Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan, even as he and the nation continued to battle the COVID-19 pandemic."
     publishedDateTime: 2021-08-28T13:24:00Z

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden Arrives at Holy Trinity Catholic Church"
-excerpt: "US President Joe Biden walks into Holy Trinity Catholic Church for mass in the Georgetown neighborhood of Washington, D.C., Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover, Delaware for 13 members of the US military ..."
+excerpt: "US President Joe Biden walks into Holy Trinity Catholic Church for mass in the Georgetown neighborhood of Washington, D.C., Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover,"
 publishedDateTime: 2021-08-29T21:51:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/1a8879067d090ce29eee3c9f8a03d772/President-Joe-Biden-Arrives-at-Holy-Trinity-Catholic-Church/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/1a8879067d090ce29eee3c9f8a03d772/President-Joe-Biden-Arrives-at-Holy-Trinity-Catholic-Church/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/8f8abd0c6d217454099f8dbdc3134149/President-Joe-Biden-Arrives-at-Holy-Trinity-Catholic-Church/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/8f8abd0c6d217454099f8dbdc3134149/President-Joe-Biden-Arrives-at-Holy-Trinity-Catholic-Church/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/1a8879067d090ce29eee3c9f8a03d772/BIDEN-CHURCH.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/8f8abd0c6d217454099f8dbdc3134149/BIDEN-CHURCH.jpg"
     width: 650
     height: 433
     isCached: true
@@ -472,6 +472,6 @@ related:
       domain: usnews.com
     quality: 26
 
-secured: "TaH10UVnFl8ykSia9ZXtcwYCh4qc5jSUnYaUfxaiOs3rriB91EuYRBirULlfPH+eQMgLxew5dj2PYSJuayjXSpxr/BoEDPXWTNDHY4QMd+cVM6W8px9Ij6LSBWySwWivGfsgM1+91Yu4GuLa9UvUUC2nsYPsAvdHAi1KKPwR+qpw4Gzhh/pubW6Y6bCoHf8Qb5J/i9kSdkOdOSIpB1yGWRe8FWYUeFKDfvY7wEbRTE1FjVBa/9Hq4uqUukRWt/pFEI7vR7wUv2J8cf7c96b2PU+cLB6EXVPAd0NZqvq5AqQsUoupu4HXdpa4VD5CmrUMz5nT2nnetRFwCM5P8JxUPxXiszXCWXgqtzqEOBYfN6k=;bApIQpblSz57Tb9TysjZgA=="
+secured: "KGwlJYprXBB6ruB89Ym3TDrmb9XFvL3GVbpYkG4tsxuIJNSs6tCAp5TjRPVPbRHtqFb2O90D8cXfKKM+ElEIPyYSMi30DvPBUCYc8Tv7RqiTlJxce0DF0oIa49WBp76biNf/LUQup0xzX7Qxju6ck3HKy5/i1nuiXVDjUdLoIWDEk50oOn3JTdJOiAaZxAwElXETvMNt/WPoTMik9+wTeiZfd28cZSha1xv34h0DoSB7CDcS6iZ2wFC1bfGjkkjF3bTdlPA8jEVu9/aGAPSVcKelB0wMQCPTY25mjY4T5bulvswTw8YucZQ0Y9zaPjG1yxCMynOliAaVkmWSEzFfJa+i+d5OqkIxq5pTKINO1F0=;TCP706rwGKYe0XRBqva7QQ=="
 ---
 

@@ -2,6 +2,114 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-08-19-trump-acting-dni-grenell-taliban-should-hear-very-tough-message-slams-biden-for-ignoring-the-conditions.md",
+      "title": "Trump acting DNI Grenell: Taliban should hear 'very tough message,' slams Biden for 'ignoring the conditions'",
+      "excerpt": "Former acting Director of National Intelligence Ric Grenell slammed President Biden for having \"ignored the conditions\" set by former President Donald Trump in his 2020 agreement with the Taliban.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ozgsh4PwXpo/grenell-taliban-biden-ignored-conditions",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ozgsh4PwXpo/grenell-taliban-biden-ignored-conditions",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/grenell-taliban-biden-ignored-conditions.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/grenell-taliban-biden-ignored-conditions.amp",
+      "publishedDateTime": "2021-08-19T09:03:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-marjorie-taylor-greene-launches-foul-mouthed-broadside-at-joe-biden-in-video.md",
+      "title": "Marjorie Taylor Greene Launches Foul-Mouthed Broadside at Joe Biden in Video",
+      "excerpt": "Representative Marjorie Taylor Greene harshly criticized President Joe Biden in a video on Wednesday over the situation in Afghanistan and the COVID-19 pandemic. Greene, a Republican who represents Georgia's 14th congressional district,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/marjorie-taylor-greene-foul-mouthed-broadside-joe-biden-video-1620960",
+      "originalUrl": "https://www.newsweek.com/marjorie-taylor-greene-foul-mouthed-broadside-joe-biden-video-1620960",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 242,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1874692/marjorie-taylor-greene-holds-press-conference.jpg",
+          "width": 2500,
+          "height": 1664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/marjorie-taylor-greene-foul-mouthed-broadside-joe-biden-video-1620960?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/marjorie-taylor-greene-foul-mouthed-broadside-joe-biden-video-1620960?amp=1",
+      "publishedDateTime": "2021-08-19T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-19-full-transcript-of-abc-news-george-stephanopoulos-interview-with-president-joe-biden.md",
       "title": "Full transcript of ABC News' George Stephanopoulos' interview with President Joe Biden",
       "excerpt": "Stephanopoulos spoke to Biden in an exclusive interview Wednesday. Read the full transcript of President Joe Biden's exclusive interview with ABC News' George Stephanopoulos on Wednesday. GEORGE STEPHANOPOULOS: Mr.",
@@ -1184,119 +1292,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-president-biden-vp-harris-avoid-the-cameras-as-kabul-falls-to-taliban.md",
-      "title": "President Biden, VP Harris avoid the cameras as Kabul falls to Taliban",
-      "excerpt": "President Joe Biden and Vice President Kamala Harris have avoided going on camera as Kabul, the capital city of Afghanistan, fell to the Taliban on Sunday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qgIYygS-uqU/president-biden-vp-harris-avoid-the-cameras-as-kabul-falls",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qgIYygS-uqU/president-biden-vp-harris-avoid-the-cameras-as-kabul-falls",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 960,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0c3a394f-685b-453c-ac2b-05b0905892d0/c7f01fde-630e-487d-8fd9-d6ad36cb8df9/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/president-biden-vp-harris-avoid-the-cameras-as-kabul-falls.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-biden-vp-harris-avoid-the-cameras-as-kabul-falls.amp",
-      "publishedDateTime": "2021-08-15T17:04:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-08-15-biden-administration-struggles-to-project-order-as-taliban-enters-kabul.md",
-      "title": "Biden administration struggles to project order as Taliban enters Kabul",
-      "excerpt": "President Joe Biden and his administration struggled Sunday to project order amid a race by American and other foreign personnel to evacuate Afghanistan as Taliban fighters entered Kabul.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oD9xOBuzblk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oD9xOBuzblk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 375,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210815102517-antony-blinken-august-15-2021-screengrab-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/15/politics/biden-administration-taliban-kabul-afghanistan/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/15/politics/biden-administration-taliban-kabul-afghanistan/index.html",
-      "publishedDateTime": "2021-08-15T08:03:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

@@ -539,22 +539,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Post-Trump, Ukraine's leader to push Biden for US support"
-    excerpt: "The Ukrainian leader who found himself ensnarled in Donald Trump’s first impeachment is coming to Washington to see a new president"
-    publishedDateTime: 2021-09-01T04:18:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/post-trump-ukraines-leader-push-biden-us-support-79760535"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/post-trump-ukraines-leader-push-biden-us-support-79760535"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/post-trump-ukraines-leader-push-biden-us-support-79760535"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_50ab7a66ef344f6599b746191a820fa8_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Poll: More voters say Biden, not Trump, is responsible for border crisis"
     excerpt: "while 28 percent said former President Trump Donald Trump Biden should look to 'Ostpolitik' to negotiate with autocrats The Memo: Biden's bet on taxes Why some Republicans think vaccine passports ..."
     publishedDateTime: 2021-04-05T18:20:00Z
@@ -2266,6 +2250,22 @@ related:
     provider:
       name: Journal-Courier
       domain: myjournalcourier.com
+    quality: 90
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Post-Trump, Ukraine's leader to push Biden for US support"
+    excerpt: "The Ukrainian leader who found himself ensnarled in Donald Trump’s first impeachment comes to Washington on Wednesday to see a new U.S. president, seeking increased military aid and backing for his country’s bid for NATO membership."
+    publishedDateTime: 2021-09-01T09:20:00Z
+    webUrl: "https://www.nhregister.com/news/article/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
+    ampWebUrl: "https://www.nhregister.com/news/amp/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
+    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
+    type: article
+    provider:
+      name: New Haven Register
+      domain: nhregister.com
     quality: 90
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"

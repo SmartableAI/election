@@ -2,6 +2,110 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-24-with-cases-in-florida-surging-desantis-and-biden-square-off-over-coronavirus-response.md",
+      "title": "With cases in Florida surging, DeSantis and Biden square off over coronavirus response ",
+      "excerpt": "President Joe Biden and Florida Gov. Ron DeSantis have found their chosen rhetorical rivals in the fight against the coronavirus: each other. And neither seems eager to back down anytime soon.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cwrqW6xZ2R0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cwrqW6xZ2R0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210824173907-01-desantis-biden-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/24/politics/biden-desantis-coronavirus/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/24/politics/biden-desantis-coronavirus/index.html",
+      "publishedDateTime": "2021-08-24T16:01:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-pence-slams-bidens-troop-withdrawal-as-foreign-policy-humiliation.md",
+      "title": "Pence slams Biden’s troop withdrawal as ‘foreign policy humiliation’",
+      "excerpt": "In an interview on The Brian Kilmeade Show, Pence recalled Biden’s decision to fully withdraw by Sept. 11, saying that decision set the “disaster in motion.”",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/08/24/mike-pence-slams-biden-on-chaotic-afghan-troop-withdrawal/",
+      "originalUrl": "https://nypost.com/2021/08/24/mike-pence-slams-biden-on-chaotic-afghan-troop-withdrawal/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/AFP_9LL4DR.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/08/24/mike-pence-slams-biden-on-chaotic-afghan-troop-withdrawal/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/24/mike-pence-slams-biden-on-chaotic-afghan-troop-withdrawal/amp/",
+      "publishedDateTime": "2021-08-24T15:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-column-donald-trump-cant-cram-his-fake-news-genie-back-in-his-bottle.md",
       "title": "Column: Donald Trump can’t cram his ‘fake news’ genie back in his bottle",
       "excerpt": "As Donald Trump may be discovering, once you’ve let that “fake news” genie out of the bottle, it’s impossible to reverse all of the damage it can bring.",
@@ -1199,114 +1303,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-matt-gaetz-says-he-asked-for-trumps-approval-before-proposing-to-ginger-luckey-who-eloped-with-him-amid-a-sex-trafficking-probe.md",
-      "title": "Matt Gaetz says he asked for Trump's approval before proposing to Ginger Luckey, who eloped with him amid a sex trafficking probe",
-      "excerpt": "Matt Gaetz said he asked for former President Donald Trump's approval before proposing to his now-wife Ginger Luckey, with whom he eloped over the weekend amid a federal sex",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/matt-gaetz-asked-for-trumps-approval-before-proposing-to-ginger-luckey-2021-8",
-      "originalUrl": "https://www.businessinsider.com/matt-gaetz-asked-for-trumps-approval-before-proposing-to-ginger-luckey-2021-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6123ae95de5f560019e845d6?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/matt-gaetz-asked-for-trumps-approval-before-proposing-to-ginger-luckey-2021-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/matt-gaetz-asked-for-trumps-approval-before-proposing-to-ginger-luckey-2021-8?amp",
-      "publishedDateTime": "2021-08-23T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-nevada-senate-candidate-adam-laxalt-says-his-trump-ties-will-energize-base-give-gop-majority-in-2022.md",
-      "title": "Nevada Senate candidate Adam Laxalt says his Trump ties will energize base, give GOP majority in 2022",
-      "excerpt": "Republicans see Nevada as their ticket to put the brakes on President Biden's agenda for the final two years of his term. And Senate candidate Adam Laxalt believes that his support for former President Trump will help put him over the top in the state Republicans have had trouble winning for years.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hNlVq6dVcfA/adam-laxalt-senate-trump-coalition-nevada",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hNlVq6dVcfA/adam-laxalt-senate-trump-coalition-nevada",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/adam-laxalt-senate-trump-coalition-nevada.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/adam-laxalt-senate-trump-coalition-nevada.amp",
-      "publishedDateTime": "2021-08-23T03:15:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],
