@@ -2,6 +2,63 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-05-pence-urges-young-conservatives-to-go-get-covid-vaccine-shot.md",
+      "title": "Pence urges young conservatives 'to go get' COVID vaccine shot",
+      "excerpt": "Former Vice President Mike Pence, who was very much the public face of the Trump administration's efforts to help drug makers quickly produce an effective coronavirus vaccine through Operation Warp Speed, is urging young conservatives to get vaccinated.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/p1M_MNzwwTw/pence-young-conservatives-get-covid-vaccine-shot",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/p1M_MNzwwTw/pence-young-conservatives-get-covid-vaccine-shot",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-young-conservatives-get-covid-vaccine-shot.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-young-conservatives-get-covid-vaccine-shot.amp",
+      "publishedDateTime": "2021-08-05T09:16:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-08-05-squad-backed-dem-jessica-cisneros-to-run-against-rep-cuellar-moderate-critical-of-biden-on-immigration.md",
       "title": "'Squad'-backed Dem Jessica Cisneros to run against Rep. Cuellar, moderate critical of Biden on immigration",
       "excerpt": "\"Squad\"-backed Texas Democrat Jessica Cisneros on Thursdsay announced that she will again run against Rep. Henry Cuellar in a primary, teeing up yet another battle between the moderate wing of the Democratic Party and its most progressive members.",
@@ -1590,62 +1647,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-snaps-art-deal-critics.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-snaps-art-deal-critics.amp",
       "publishedDateTime": "2021-07-30T08:45:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-biden-defends-previously-saying-vaccinated-dont-need-masks-that-was-true-at-the-time.md",
-      "title": "Biden defends previously saying vaccinated don't need masks: 'That was true at the time'",
-      "excerpt": "President Biden was involved in a heated exchange with Fox News reporter Peter Doocy after he pressed Biden on whether or not vaccinated Americans still need to wear masks.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rjKnYTWaoyU/biden-vaccinated-need-masks-true-at-time",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rjKnYTWaoyU/biden-vaccinated-need-masks-true-at-time",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 206,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eec26b2c-3cfe-4b36-bb76-dfd0652fbbc6/c35c575c-353d-457f-bcbf-31c72016050c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-vaccinated-need-masks-true-at-time.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vaccinated-need-masks-true-at-time.amp",
-      "publishedDateTime": "2021-07-29T14:52:30-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

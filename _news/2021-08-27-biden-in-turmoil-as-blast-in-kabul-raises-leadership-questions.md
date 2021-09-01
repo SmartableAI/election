@@ -143,6 +143,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's first August as president shreds his momentum, tosses daunting new challenges in his path"
+    excerpt: "President Joe Biden tried twice last month to get to his beach house on the Delaware coast. He never made it.\n    \n"
+    publishedDateTime: 2021-09-01T11:33:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4uo_pIWCodE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/01/politics/joe-biden-august/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/01/politics/joe-biden-august/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210831004828-06-biden-afghanistan-0826-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "White House thanks interpreter in hiding who helped rescue Biden in 2008 and commits to evacuating Afghan partners"
+    excerpt: "White House press secretary Jen Psaki on Tuesday praised the Afghan interpreter in hiding who helped rescue then-Sen. Joe Biden during a 2008 rescue mission as she reaffirmed the US' commitment to helping Afghan allies.\n    \n"
+    publishedDateTime: 2021-09-01T11:31:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c99kV__AgHo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/31/politics/afghan-translator-biden-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/31/politics/afghan-translator-biden-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 153
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210831154223-02-biden-afghanistan-presser-0831-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "wQFW0F8fmFPD4c6f48Hhy2AlcQMNmDjf0tsoO9BD6Je2uDY70eo2Af1jQuFHgoFmGpmH4CYK4Iv2smxipd3Q+uoBNAJyFDDTk2gpEsSVypa4Svv7WIbIqqJDnMZev77V/tpDzIQWlfixBWFiuTS/WwVU9YyhP/LUJWVtNaQN7aqmNAfBliTJY27F5OH77JovG2XjhBsA4Ft8pr4NxPzwCUkFHdmPoMJ1kAJv6fvOfOJ43dBgU6pZRuFGx80fFI/3Friz465WzO9dC8cxauwU256dFjtytPMhnLkEwrIjdv6iBIzgcw0KGqHzTSfzwuXEpbgo5kqyq7QAlhL0NhwOL4+sdcmVC/bV6LfvvHBW/UQ=;ipO3wY2kjobFEegNn24Fpg=="
 ---

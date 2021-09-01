@@ -1301,6 +1301,22 @@ related:
         width: 5472
         height: 3648
         isCached: true
+  - title: "President Joe Biden skirts broken promise to keep troops in Afghanistan until the last Americans are out"
+    excerpt: "President Joe Biden glossed over his broken promise to keep U.S. troops in Afghanistan until the last Americans are out and offered the faint assurance — even with the last U.S. planes gone — that it’s never too late for U."
+    publishedDateTime: 2021-09-01T11:00:00Z
+    webUrl: "https://www.masslive.com/politics/2021/09/president-joe-biden-skirts-broken-promise-to-keep-troops-in-afghanistan-until-the-last-americans-are-out.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/09/president-joe-biden-skirts-broken-promise-to-keep-troops-in-afghanistan-until-the-last-americans-are-out.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/09/president-joe-biden-skirts-broken-promise-to-keep-troops-in-afghanistan-until-the-last-americans-are-out.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 58
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CD2FW3DYPRBV5MWBJPBWBFLYO4.jpg"
+        width: 3065
+        height: 2044
+        isCached: true
   - title: "President Joe Biden Makes Remarks on American Jobs Plan"
     excerpt: "President Joe Biden makes remarks during a meeting with with a bipartisan group of Members of Congress to discuss historic investments in the American Jobs Plan, in the Oval Office at the White House on Monday,"
     publishedDateTime: 2021-04-19T18:17:00Z

@@ -2,6 +2,110 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-08-03-biden-says-voting-system-under-assault-protecting-it-is-single-most-important-thing.md",
+      "title": "Biden says voting system ‘under assault, protecting it is ‘single most important thing’",
+      "excerpt": "President Biden on Monday warned his fellow Democrats that the voting system was under assault and protecting it was the “single most important thing to do.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xTimD-B1Jao/biden-voting-system-under-assault-protecting-single-most-important-thing",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xTimD-B1Jao/biden-voting-system-under-assault-protecting-single-most-important-thing",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b878e947-4a88-43a4-b2b2-3116ef63ccd5/e836207c-1f0f-4cc6-9963-c0a64f5254fe/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-voting-system-under-assault-protecting-single-most-important-thing.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-voting-system-under-assault-protecting-single-most-important-thing.amp",
+      "publishedDateTime": "2021-08-02T19:09:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-reporter-to-psaki-is-biden-concerned-that-burden-of-vaccine-id-will-fall-heaviest-on-minorities.md",
+      "title": "Reporter to Psaki: Is Biden \"Concerned\" That \"Burden\" Of Vaccine ID Will Fall Heaviest On Minorities?",
+      "excerpt": "White House press secretary Jen Psaki is asked about the burden put on African-Americans and other minority communities by mandating proof of vaccination by 'Daily Caller' White House correspondent Shelby Talcott at Tuesday's press briefing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/08/03/reporter_to_psaki_is_biden_concerned_that_burden_of_vaccine_id_will_fall_heaviest_on_minorities.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/08/03/reporter_to_psaki_is_biden_concerned_that_burden_of_vaccine_id_will_fall_heaviest_on_minorities.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/54/549838.jpg",
+          "width": 920,
+          "height": 690,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/08/03/reporter_to_psaki_is_biden_concerned_that_burden_of_vaccine_id_will_fall_heaviest_on_minorities.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/08/03/reporter_to_psaki_is_biden_concerned_that_burden_of_vaccine_id_will_fall_heaviest_on_minorities.amp.html",
+      "publishedDateTime": "2021-08-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-ex-illinois-governor-who-trump-freed-from-jail-files-lawsuit-to-run-for-office-again.md",
       "title": "Ex-Illinois Governor, Who Trump Freed from Jail, Files Lawsuit to Run for Office Again",
       "excerpt": "\"The issues are very clear,\" former Illinois Governor Rod Blagojevich said to reporters Monday. \"It's about right to vote and it's about due process.\"",
@@ -1226,114 +1330,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-iowa-republican-governor-rejects-bidens-100-vaccine-incentives.md",
-      "title": "Iowa Republican governor rejects Biden's $100 vaccine incentives",
-      "excerpt": "Republican Iowa Gov. Kim Reynolds rejected President Biden’s request that state and local governments use federal funds to encourage people to get the coronavirus vaccine.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nJdybRnfGcs/iowa-governor-kim-reynolds-biden-vaccine-incentive",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nJdybRnfGcs/iowa-governor-kim-reynolds-biden-vaccine-incentive",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 315,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c8cf00b1-363b-4e1d-b72f-e05113a4bc22/f680b6fb-5223-413f-842b-bb89a04d720c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/iowa-governor-kim-reynolds-biden-vaccine-incentive.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/iowa-governor-kim-reynolds-biden-vaccine-incentive.amp",
-      "publishedDateTime": "2021-07-31T07:22:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-texas-gov-greg-abbott-accuses-biden-of-creating-constitutional-crisis-after-doj-lawsuit.md",
-      "title": "Texas Gov. Greg Abbott Accuses Biden of Creating 'Constitutional Crisis' After DOJ Lawsuit",
-      "excerpt": "\"This stems from the Biden Administration's refusal to enforce immigration laws and allow illegal immigrants with COVID-19 to enter our country,\" Abbott said Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/texas-gov-greg-abbott-accuses-biden-creating-constitutional-crisis-after-doj-lawsuit-1614875",
-      "originalUrl": "https://www.newsweek.com/texas-gov-greg-abbott-accuses-biden-creating-constitutional-crisis-after-doj-lawsuit-1614875",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1859135/greg-abbott-joe-biden-covid-19-immigration-constitution.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/texas-gov-greg-abbott-accuses-biden-creating-constitutional-crisis-after-doj-lawsuit-1614875?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/texas-gov-greg-abbott-accuses-biden-creating-constitutional-crisis-after-doj-lawsuit-1614875?amp=1",
-      "publishedDateTime": "2021-07-30T18:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

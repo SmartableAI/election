@@ -2,6 +2,114 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-27-trumps-former-national-security-advisor-john-bolton-says-its-impossible-for-mike-pompeo-to-rewrite-history-on-his-negotiations-with-the.md",
+      "title": "Trump's former national security advisor John Bolton says it's 'impossible' for Mike Pompeo to 'rewrite history' on his negotiations with the Taliban",
+      "excerpt": "\"That's a prescription for Democratic attack ads that would be fatal to someone's credibility,\" Bolton told Politico.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/john-bolton-impossible-to-rewrite-history-on-mike-pompeo-taliban-deal-2021-8",
+      "originalUrl": "https://www.businessinsider.com/john-bolton-impossible-to-rewrite-history-on-mike-pompeo-taliban-deal-2021-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/61279e06e4235b00180aa5ba?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/john-bolton-impossible-to-rewrite-history-on-mike-pompeo-taliban-deal-2021-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/john-bolton-impossible-to-rewrite-history-on-mike-pompeo-taliban-deal-2021-8?amp",
+      "publishedDateTime": "2021-08-26T19:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-26-psaki-dismisses-calls-for-biden-to-resign-not-a-day-for-politics.md",
+      "title": "Psaki dismisses calls for Biden to resign: 'Not a day for politics'",
+      "excerpt": "White House Press Secretary Jen Psaki dismissed calls for President Joe Biden to resign in the wake of a terrorist attack in Kabul, Afghanistan that killed 13 U.S. service members, saying that there’s no room for politics in the discussion of the tragedy.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UOSQkpsa_DQ/psaki-dismisses-calls-for-biden-to-resign-not-a-day-for-politics",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UOSQkpsa_DQ/psaki-dismisses-calls-for-biden-to-resign-not-a-day-for-politics",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14c646a6-ad3d-4268-aace-2e063ea85db7/12540c0f-99ca-442a-be78-656b4a413121/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/psaki-dismisses-calls-for-biden-to-resign-not-a-day-for-politics.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-dismisses-calls-for-biden-to-resign-not-a-day-for-politics.amp",
+      "publishedDateTime": "2021-08-26T16:46:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-26-biden-doesnt-deny-report-of-us-handing-over-names-of-americans-to-taliban-there-may-have-been.md",
       "title": "Biden doesn't deny report of US handing over names of Americans to Taliban: 'There may have been'",
       "excerpt": "President Biden did not deny a report circulating Thursday that officials in his administration had provided names of Americans in Afghanistan to the Taliban in order to help usher them safely to the airport.",
@@ -798,7 +906,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 315,
+      "heat": 355,
       "tags": null,
       "images": [
         {
@@ -1168,101 +1276,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-israeli-leader-naftali-bennett-to-meet-with-joe-biden-as-mideast-tensions-grow.md",
-      "title": "Israeli Leader Naftali Bennett to Meet with Joe Biden as Mideast Tensions Grow",
-      "excerpt": "The Israeli leader's meeting with President Joe Biden comes amid heightened tensions with regional arch-enemy Iran",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6092540/naftali-bennett-joe-biden/",
-      "originalUrl": "https://time.com/6092540/naftali-bennett-joe-biden/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2021/08/AP21236666683066.jpg",
-          "width": 6325,
-          "height": 4217,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-24T23:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-supreme-court-rules-biden-may-not-suspend-trump-era-remain-in-mexico-policy-for-migrants.md",
-      "title": "Supreme Court rules Biden may not suspend Trump-era 'remain in Mexico' policy for migrants",
-      "excerpt": "A lower federal court said Biden officials improperly halted the Trump-era 'remain in Mexico' policy, which was intended to reduce immigration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freep.com/story/news/politics/2021/08/24/supreme-court-biden-may-not-halt-trump-era-remain-mexico-policy/8244772002/",
-      "originalUrl": "https://www.freep.com/story/news/politics/2021/08/24/supreme-court-biden-may-not-halt-trump-era-remain-mexico-policy/8244772002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/08/24/USAT/746d7176-bffa-46c2-99b3-816182b82d0c-GTY_1329925284.jpg?auto=webp&crop=7917,4454,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.freep.com/amp/8244772002",
-      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/8244772002",
-      "publishedDateTime": "2021-08-24T19:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit Free Press",
-        "domain": "freep.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

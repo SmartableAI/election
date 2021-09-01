@@ -1315,6 +1315,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "President Joe Biden skirts broken promise to keep troops in Afghanistan until the last Americans are out"
+    excerpt: "President Joe Biden glossed over his broken promise to keep U.S. troops in Afghanistan until the last Americans are out and offered the faint assurance — even with the last U.S. planes gone — that it’s never too late for U."
+    publishedDateTime: 2021-09-01T11:00:00Z
+    webUrl: "https://www.masslive.com/politics/2021/09/president-joe-biden-skirts-broken-promise-to-keep-troops-in-afghanistan-until-the-last-americans-are-out.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/09/president-joe-biden-skirts-broken-promise-to-keep-troops-in-afghanistan-until-the-last-americans-are-out.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/09/president-joe-biden-skirts-broken-promise-to-keep-troops-in-afghanistan-until-the-last-americans-are-out.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 58
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CD2FW3DYPRBV5MWBJPBWBFLYO4.jpg"
+        width: 3065
+        height: 2044
+        isCached: true
   - title: "Joe Biden sets Aug. 31 for US exit from Afghanistan"
     excerpt: "President Joe Biden says the U.S. military operation in Afghanistan will end on Aug. 31, delivering an impassioned argument for exiting the nearly 20-year war without sacrificing more American lives even as he bluntly acknowledged there will be no “mission accomplished” moment to celebrate."
     publishedDateTime: 2021-07-09T09:44:00Z

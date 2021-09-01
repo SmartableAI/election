@@ -2,6 +2,114 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2021-05-15-biden-sets-a-tuesday-deadline-for-the-gop-to-bring-him-an-infrastructure-counterproposal.md",
+      "title": "Biden sets a Tuesday deadline for the GOP to bring him an infrastructure counterproposal",
+      "excerpt": "After a week of bipartisan meetings, Biden wants the GOP to expand on their $568 billion infrastructure counterproposal, and he wants to see it soon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/infrastructure-gop-plan-biden-counter-proposal-tuesday-deadline-2021-5",
+      "originalUrl": "https://www.businessinsider.com/infrastructure-gop-plan-biden-counter-proposal-tuesday-deadline-2021-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6085739e0da8f40018033533?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/infrastructure-gop-plan-biden-counter-proposal-tuesday-deadline-2021-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/infrastructure-gop-plan-biden-counter-proposal-tuesday-deadline-2021-5?amp",
+      "publishedDateTime": "2021-05-14T16:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-biden-lashed-out-at-becerra-during-oval-office-meeting-on-migrant-kids-amid-hhs-white-house-tensions-reports.md",
+      "title": "Biden lashed out at Becerra during Oval Office meeting on migrant kids amid HHS-White House tensions: reports",
+      "excerpt": "President Biden reportedly lashed out at Health and Human Services (HHS) Secretary Xavier Becerra over his department’s handling of migrant children -- amid broader reported tensions between the White House and HHS.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WQClkfXx4lQ/biden-becerra-oval-office-migrant-kids-hhs-white-house-tensions",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WQClkfXx4lQ/biden-becerra-oval-office-migrant-kids-hhs-white-house-tensions",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18d5382e-fb73-4ecb-b630-6e13a9057c7b/31b58cbf-68dc-476f-9478-fea5b8426eff/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-becerra-oval-office-migrant-kids-hhs-white-house-tensions.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-becerra-oval-office-migrant-kids-hhs-white-house-tensions.amp",
+      "publishedDateTime": "2021-05-14T14:31:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-15-we-found-joe-bidens-secret-venmo-heres-why-thats-a-privacy-nightmare-for-everyone.md",
       "title": "We Found Joe Biden’s Secret Venmo. Here’s Why That’s A Privacy Nightmare For Everyone.",
       "excerpt": "The peer-to-peer payments app leaves everyone from ordinary people to the most powerful person in the world exposed.",
@@ -1226,111 +1334,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-liz-cheney-willing-to-do-whatever-it-takes-to-prevent-trump-win-in-2024.md",
-      "title": "Liz Cheney willing to do ‘whatever it takes’ to prevent Trump win in 2024",
-      "excerpt": "Fresh off her ouster from House Republican leadership, Rep. Liz Cheney is maintaining her crusade to do “whatever it takes” to oppose former President Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/05/13/liz-cheney-willing-to-do-whatever-it-takes-to-prevent-2024-trump-win/",
-      "originalUrl": "https://nypost.com/2021/05/13/liz-cheney-willing-to-do-whatever-it-takes-to-prevent-2024-trump-win/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/liz-cheney-1.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/05/13/liz-cheney-willing-to-do-whatever-it-takes-to-prevent-2024-trump-win/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/13/liz-cheney-willing-to-do-whatever-it-takes-to-prevent-2024-trump-win/amp/",
-      "publishedDateTime": "2021-05-13T05:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-politico-playbook-how-palm-beach-is-preparing-for-a-possible-trump-indictment.md",
-      "title": "POLITICO Playbook: How Palm Beach is preparing for a possible Trump indictment",
-      "excerpt": "SCOOP: PALM BEACH MAKES CONTINGENCY PLANS IN CASE TRUMP IS INDICTED — Law enforcement officials in Palm Beach County, Fla., have actively prepared for the possibility that Manhattan District Attorney CY VANCE could indict former President DONALD TRUMP while he’s at Mar-a-Lago,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/playbook/2021/05/13/how-palm-beach-is-preparing-for-a-possible-trump-indictment-492836",
-      "originalUrl": "https://www.politico.com/newsletters/playbook/2021/05/13/how-palm-beach-is-preparing-for-a-possible-trump-indictment-492836",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/36/67/10f1022845e8aa7976787ed47ff8/210513-trump-ap-1160.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

@@ -2,6 +2,114 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-07-31-iowa-republican-governor-rejects-bidens-100-vaccine-incentives.md",
+      "title": "Iowa Republican governor rejects Biden's $100 vaccine incentives",
+      "excerpt": "Republican Iowa Gov. Kim Reynolds rejected President Biden’s request that state and local governments use federal funds to encourage people to get the coronavirus vaccine.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nJdybRnfGcs/iowa-governor-kim-reynolds-biden-vaccine-incentive",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nJdybRnfGcs/iowa-governor-kim-reynolds-biden-vaccine-incentive",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c8cf00b1-363b-4e1d-b72f-e05113a4bc22/f680b6fb-5223-413f-842b-bb89a04d720c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/iowa-governor-kim-reynolds-biden-vaccine-incentive.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/iowa-governor-kim-reynolds-biden-vaccine-incentive.amp",
+      "publishedDateTime": "2021-07-31T07:22:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-31-texas-gov-greg-abbott-accuses-biden-of-creating-constitutional-crisis-after-doj-lawsuit.md",
+      "title": "Texas Gov. Greg Abbott Accuses Biden of Creating 'Constitutional Crisis' After DOJ Lawsuit",
+      "excerpt": "\"This stems from the Biden Administration's refusal to enforce immigration laws and allow illegal immigrants with COVID-19 to enter our country,\" Abbott said Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/texas-gov-greg-abbott-accuses-biden-creating-constitutional-crisis-after-doj-lawsuit-1614875",
+      "originalUrl": "https://www.newsweek.com/texas-gov-greg-abbott-accuses-biden-creating-constitutional-crisis-after-doj-lawsuit-1614875",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1859135/greg-abbott-joe-biden-covid-19-immigration-constitution.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/texas-gov-greg-abbott-accuses-biden-creating-constitutional-crisis-after-doj-lawsuit-1614875?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/texas-gov-greg-abbott-accuses-biden-creating-constitutional-crisis-after-doj-lawsuit-1614875?amp=1",
+      "publishedDateTime": "2021-07-30T18:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-31-biden-says-americans-should-expect-more-covid-restrictions.md",
       "title": "Biden says Americans should expect more COVID restrictions",
       "excerpt": "President Biden warned Friday that increased COVID-related restrictions could again become a possibility as the U.S. sees spiking coronavirus cases nationwide.",
@@ -1223,114 +1331,6 @@
         "Election",
         "Joe Biden",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-charlie-kirks-pro-trump-youth-group-stokes-vaccine-resistance-as-covid-surges-again.md",
-      "title": "Charlie Kirk’s pro-Trump youth group stokes vaccine resistance as covid surges again",
-      "excerpt": "Charlie Kirk’s Turning Point USA and its affiliates are urging students to resist mandates and spreading baseless claims about “medical raids,” part of a bid for donations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/07/29/vaccine-mandates-charlie-kirk-tpusa/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/07/29/vaccine-mandates-charlie-kirk-tpusa/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TIVJHDHUOYI6VN4WFXIJSYTETQ.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-biden-shifts-onus-for-pandemic-onto-the-unvaccinated-as-he-readies-federal-worker-vaccine-requirement.md",
-      "title": "Biden shifts onus for pandemic onto the unvaccinated as he readies federal worker vaccine requirement",
-      "excerpt": "President Joe Biden, who for months used techniques like public service announcements and grassroots campaigns to persuade Americans to get vaccinated, is adopting a tougher approach as caseloads surge: vaccine requirements and blame.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6ZlqZAWWO3A/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6ZlqZAWWO3A/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210727161530-02-biden-odni-0727-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/29/politics/biden-pandemic-unvaccinated/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/29/politics/biden-pandemic-unvaccinated/index.html",
-      "publishedDateTime": "2021-07-29T04:17:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

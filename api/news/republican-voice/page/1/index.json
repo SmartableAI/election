@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-01-stefanik-and-daines-demand-pelosi-schumer-advance-bill-to-reopen-canadian-border-as-biden-keeps-it-closed.md",
+      "title": "Stefanik and Daines demand Pelosi, Schumer advance bill to reopen Canadian border as Biden keeps it closed",
+      "excerpt": "House GOP Conference Chair Elise Stefanik and Sen. Steve Daines, who represent border communities, are asking congressional leaders to call votes on a bill that would force the president to open the Canadian border.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rrah-x-3UWg/stefanik-daines-canadian-border-biden-legislation-pelosi-schumer",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rrah-x-3UWg/stefanik-daines-canadian-border-biden-legislation-pelosi-schumer",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/stefanik-daines-canadian-border-biden-legislation-pelosi-schumer.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stefanik-daines-canadian-border-biden-legislation-pelosi-schumer.amp",
+      "publishedDateTime": "2021-09-01T04:30:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-01-biden-admin-tested-by-afghanistan-coronavirus-hurricane-ida-3-crises-with-no-easy-solutions.md",
       "title": "Biden admin tested by Afghanistan, coronavirus, Hurricane Ida – 3 crises with no easy solutions",
       "excerpt": "At just over seven months in office, the Biden administration is facing three major crises, any one of which would be enough to deal with.",
@@ -1580,63 +1636,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-kamala-harris-calls-bidens-afghanistan-decision-courageous-as-others-in-white-house-blame-trump.md",
-      "title": "Kamala Harris calls Biden's Afghanistan decision 'courageous' as others in White House blame Trump",
-      "excerpt": "Vice President Kamala Harris gave credit to President Biden for deciding to end the war in Afghanistan, even though members of the administration – including Biden himself – have blamed former President Trump for agreeing to withdraw U.S. troops.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/a8gNbJOmOq4/kamala-harris-biden-afghanistan-decision-courageous-trump-blame",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/a8gNbJOmOq4/kamala-harris-biden-afghanistan-decision-courageous-trump-blame",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 3161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-biden-afghanistan-decision-courageous-trump-blame.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-biden-afghanistan-decision-courageous-trump-blame.amp",
-      "publishedDateTime": "2021-08-24T08:15:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

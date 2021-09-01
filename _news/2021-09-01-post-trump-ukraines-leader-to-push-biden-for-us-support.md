@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Post-Trump, Ukraine's leader to push Biden for US support"
-excerpt: "The Ukrainian leader who found himself ensnarled in Donald Trump’s first impeachment comes to Washington on Wednesday to see a new U.S. president, seeking increased military aid and backing for his country’s bid for NATO membership."
-publishedDateTime: 2021-09-01T09:20:00Z
-originalUrl: "https://www.nhregister.com/news/article/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
-webUrl: "https://www.nhregister.com/news/article/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
-ampWebUrl: "https://www.nhregister.com/news/amp/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
-cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
+excerpt: "The White House says the meeting between President Joe Biden and President Volodymyr Zelenskyy is aimed at showing support for Ukraine’s sovereignty."
+publishedDateTime: 2021-09-01T11:45:00Z
+originalUrl: "https://www.detroitnews.com/story/news/world/2021/09/01/united-states-ukraine-biden-zelenskyy-meeting/5678488001/"
+webUrl: "https://www.detroitnews.com/story/news/world/2021/09/01/united-states-ukraine-biden-zelenskyy-meeting/5678488001/"
+ampWebUrl: "https://amp.detroitnews.com/amp/5678488001"
+cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5678488001"
 type: article
 quality: 90
 heat: -1
 published: false
 
 provider:
-  name: New Haven Register
-  domain: nhregister.com
+  name: Detroit News
+  domain: detroitnews.com
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://www.gannett-cdn.com/presto/2021/09/01/PDTN/fdd87f28-b763-42f4-81b7-59b5c2905337-AP21243690312764.jpg?auto=webp&crop=2563,1442,x0,y0&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -2900,6 +2900,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "DDM9hxysGhi/id4CfBLB1p27Z1bwxPfFJk0KJJ9DDOf5pJDvX20PHX1GsYjJObtvn3QFv8+q7DqWrKBR7ypiBgOJaTFSQoOOnGmTM0olJkCIIXRIKRWol9ORd1usoDZAV8tVjJ/cvSfO3cFcYz8AsriImY7HuthSrVawUxiRHK3lTheBMyy18rq0ArwQ/Ldf6Q6u1FBmD3bzOAuTpwhTkprkiF+L8xkhlyWciLZ5CX5oOXHRpeYLhXgHX0Nd+Yu8MEUJ9aDpbZkglL4CZrMGPEce77wnAQwZWyQo3ghO0MCbZB+pBN+/Fk3Lhf4I5qKnETVGv1SmKfJLZEiC4f1e+XHXSY8WyZXnrb30lwotneg=;MBY1eP2o6JdRESN2A4jmqQ=="
+secured: "bcJcem863zhTusVsaj4wtci8kkvJaa11TGJ5BX2qRuDn9o+x/0OwG1JMxMVj5vKD7HEv4/YCU4ngUp4gZ+WjJXz866iUKXd9og3yzvsNw/xSvO26eNQLCmhfvtQjFMDOEU0R2NFh+97s4roRIdvRO97TedzQxEhVmeh7idbpBHIRcuuXGJhCuC9uss2olgAdZi+S2SXACU8IseyjBbPWCn8MgnxFMVvBz8WIf8Vw0F5UEQY/bF5XIswFfjjNBRAZ5KVnrrxnCAcabIAkyKrautcgyYT/TA2rTLM0Ut4bFdOfJ+0NiimH4RegPXKTkWzwUbsVzIfv7MS2uVDOBEbiqd8aX8VqImVGhf/GrKk/6uQ=;f9vAeAMcCdl9BCJ+7QMsYw=="
 ---
 

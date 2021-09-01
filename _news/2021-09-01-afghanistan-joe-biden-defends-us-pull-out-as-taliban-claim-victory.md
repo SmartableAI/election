@@ -2,17 +2,21 @@
 category: news
 title: "Afghanistan: Joe Biden defends US pull-out as Taliban claim victory"
 excerpt: "US President Joe Biden has defended his decision to withdraw US troops from Afghanistan - a move which led to Taliban militants returning to power. Staying longer was not an option, Mr Biden said in an address to the nation,"
-publishedDateTime: 2021-08-31T21:12:00Z
-originalUrl: "https://www.bbc.co.uk/news/world-asia-58403735"
-webUrl: "https://www.bbc.co.uk/news/world-asia-58403735"
+publishedDateTime: 2021-09-01T09:05:00Z
+originalUrl: "https://www.bbc.com/news/world-asia-58403735"
+webUrl: "https://www.bbc.com/news/world-asia-58403735"
 type: article
-quality: 55
+quality: 105
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -580,6 +584,6 @@ related:
       domain: seattletimes.com
     quality: 34
 
-secured: "mPrEdbweZVgAK2WAe6xwjDuExOMVDZVzh/VCyGwwt9B2adhp1BJiRuZIOn5thFdjbFHcFIUS54vEfkCtmRtUUW8owrL15ANIQ976acmJNgDQBBb7SK+1n9xOCJCrvsLKuOLgyysVWfXjsARbSxf1DYomvtWb+to4d9mB90+pDWQ996EqGZ38bmLpcmUH9aVZMAzrdas/+1adUytCq/d/S4oSz9b2O3zsKRWDAOe6+FduG6Sj6DLVEgDEkVW/2YqzNqbbWU1B6/x/v0R4VVdj035VPkpus7TKFyTKIZFAu0Yiiqr2nOAcZHKaeAADq4rzl1PokN4o1FalEBqyd1NpFF/XTVFzxMAcYRZcoxqdlpk=;s4sXfPYwd6EvMVEKJCkdqg=="
+secured: "v+bA0I25EGSCz5sSX6tUhGAsPPSw2hquwg6BTS6LdM8L01EU2O+Dc1P0sZLGZxPZQRJYhpckQrTZSIA9QZGaghw8FCdVZEAjFSx+OXYJyD+XDcDgriVaMOwVzb3PxwTnnfzhc69ZbJNZHyoPGWkYXmTI8gn3O1d+cSDd0W27IaZnAueae6JKE7FYUxXx5oFIoT30nJYFyG02g8MgQ8Sr/3R0SOC/wugYy6rJXcLFCDC1hMy3S6/b/qdgqXryLjQqJWMgkeQpMOVPu8t2DJM20arJurODRqgYGgXQAFIPc6upiYnQi84Vf0bL+IKkD2eywUyfCKlf0JstUR8hZl2ZCS6e2Pz0BQftxb1KAQcUNU0=;ly5NBSoHQKzQmwHU6UfJhg=="
 ---
 

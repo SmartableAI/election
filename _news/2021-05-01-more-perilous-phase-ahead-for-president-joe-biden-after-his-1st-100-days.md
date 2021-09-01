@@ -2273,20 +2273,20 @@ related:
         height: 3531
         isCached: true
   - title: "Post-Trump, Ukraine's leader to push Biden for US support"
-    excerpt: "The Ukrainian leader who found himself ensnarled in Donald Trump’s first impeachment comes to Washington on Wednesday to see a new U.S. president, seeking increased military aid and backing for his country’s bid for NATO membership."
-    publishedDateTime: 2021-09-01T09:20:00Z
-    webUrl: "https://www.nhregister.com/news/article/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
-    ampWebUrl: "https://www.nhregister.com/news/amp/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
-    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
+    excerpt: "The White House says the meeting between President Joe Biden and President Volodymyr Zelenskyy is aimed at showing support for Ukraine’s sovereignty."
+    publishedDateTime: 2021-09-01T11:45:00Z
+    webUrl: "https://www.detroitnews.com/story/news/world/2021/09/01/united-states-ukraine-biden-zelenskyy-meeting/5678488001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5678488001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5678488001"
     type: article
     provider:
-      name: New Haven Register
-      domain: nhregister.com
+      name: Detroit News
+      domain: detroitnews.com
     quality: 90
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://www.gannett-cdn.com/presto/2021/09/01/PDTN/fdd87f28-b763-42f4-81b7-59b5c2905337-AP21243690312764.jpg?auto=webp&crop=2563,1442,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden administration considers reinstating car regulations slashed by Trump"
     excerpt: "The National Highway Administration is considering reinstating regulations slashed in the last days of the Trump administration."
