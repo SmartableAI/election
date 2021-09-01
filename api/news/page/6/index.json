@@ -2,6 +2,171 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-08-21-harris-to-campaign-for-gov-gavin-newsom-in-california-after-vietnam-singapore-trip.md",
+      "title": "Harris to campaign for Gov. Gavin Newsom in California after Vietnam, Singapore trip",
+      "excerpt": "Vice President Kamala Harris will be making a campaign pit-stop in California next week to support Gov. Gavin Newsom in his race to overcome the recall election.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ty3BtETzYUg/harris-to-campaign-for-newsom-in-california-after-vietnam-singapore-trip",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ty3BtETzYUg/harris-to-campaign-for-newsom-in-california-after-vietnam-singapore-trip",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 258,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8495bcff-9b88-4652-a881-c8b9c0e8662d/db7b172a-bb2e-43bc-b3a6-5ac1f6dcf567/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/harris-to-campaign-for-newsom-in-california-after-vietnam-singapore-trip.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-to-campaign-for-newsom-in-california-after-vietnam-singapore-trip.amp",
+      "publishedDateTime": "2021-08-20T18:10:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-08-21-joe-biden-to-americans-in-afghanistan-we-will-get-you-home.md",
+      "title": "Joe Biden to Americans in Afghanistan: 'We will get you home'",
+      "excerpt": "US President Joe Biden has again defended a chaotic evacuation effort out of Kabul as desperation grows for those still stranded in Afghanistan. \"This is one of the largest, most difficult airlifts in history,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-us-canada-58285923",
+      "originalUrl": "https://www.bbc.com/news/world-us-canada-58285923",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/170AB/production/_120097349_bidenindex.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/world-us-canada-58285923.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-58285923.amp",
+      "publishedDateTime": "2021-08-20T11:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-20-republicans-torch-white-house-for-claiming-biden-never-shies-away-from-questions.md",
+      "title": "Republicans torch White House for claiming Biden never 'shies away' from questions",
+      "excerpt": "GOP lawmakers are smashing Biden over White House communications director Kate Bedingfield’s Friday claim that the president does not turn away from questions.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rs35_dacLko/republicans-torch-white-house-claim-biden-never-shies-away-questions",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rs35_dacLko/republicans-torch-white-house-claim-biden-never-shies-away-questions",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/25684f3a-65f3-4e86-999a-f1deb767a447/82c540db-f631-4b89-9efc-17f0257f7e3f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/republicans-torch-white-house-claim-biden-never-shies-away-questions.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-torch-white-house-claim-biden-never-shies-away-questions.amp",
+      "publishedDateTime": "2021-08-20T09:02:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-20-alan-dershowitz-says-donald-trump-ties-have-lost-him-many-friends.md",
       "title": "Alan Dershowitz Says Donald Trump Ties Have Lost Him Many Friends",
       "excerpt": "The lawyer made headlines this week after he was spotting in a war of words with famous comedian and writer Larry David.",
@@ -1146,166 +1311,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-fareed-zakaria-this-withdrawal-is-a-stain-on-bidens-foreign-policy.md",
-      "title": "Fareed Zakaria: This withdrawal is a stain on Biden's foreign policy ",
-      "excerpt": "CNN's Anderson Cooper talks with Fareed Zakaria about the crisis unfolding in Afghanistan and what this means for President Joe Biden's foreign policy. Watch \"Full Circle\" Monday, Wednesday and Friday 6p E.T.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mNAv79ZlOjM/fareed-zakaria-afghanistan-biden-acfc-sot-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mNAv79ZlOjM/fareed-zakaria-afghanistan-biden-acfc-sot-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210816192228-fareed-acfc-2-desktop-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/world/2021/08/16/fareed-zakaria-afghanistan-biden-acfc-sot-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2021/08/16/fareed-zakaria-afghanistan-biden-acfc-sot-vpx.cnn",
-      "publishedDateTime": "2021-08-16T16:41:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-what-donald-trump-said-in-april-about-pulling-out-us-troops-from-afghanistan.md",
-      "title": "What Donald Trump Said In April About Pulling Out US Troops From Afghanistan",
-      "excerpt": "Donald Trump slammed Biden's decision to withdraw from Afghanistan despite applauding the move months earlier.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/what-donald-trump-said-april-about-pulling-out-us-troops-afghanistan-3274760",
-      "originalUrl": "https://www.ibtimes.com/what-donald-trump-said-april-about-pulling-out-us-troops-afghanistan-3274760",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/facebook-and-twitter-banned-donald-trump-over-his.jpg",
-          "width": 1024,
-          "height": 662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/what-donald-trump-said-april-about-pulling-out-us-troops-afghanistan-3274760?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/what-donald-trump-said-april-about-pulling-out-us-troops-afghanistan-3274760?amp=1",
-      "publishedDateTime": "2021-08-16T15:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-5-questions-for-mary-trumpniece-of-donald-who-wants-the-gop-burned-to-the-ground.md",
-      "title": "5 Questions For Mary Trump—Niece Of Donald Who Wants The GOP ‘Burned To The Ground’",
-      "excerpt": "A year after releasing a best-selling, salacious takedown of her uncle, Mary Trump is back with another title, but a much bigger target.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jemimamcevoy/2021/08/16/5-questions-for-mary-trump-niece-of-donald-who-wants-the-gop-burned-to-the-ground/",
-      "originalUrl": "https://www.forbes.com/sites/jemimamcevoy/2021/08/16/5-questions-for-mary-trump-niece-of-donald-who-wants-the-gop-burned-to-the-ground/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611aba1bd4c34bdb198e9f5e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1247%26cropY1%3D1%26cropY2%3D936",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jemimamcevoy/2021/08/16/5-questions-for-mary-trump-niece-of-donald-who-wants-the-gop-burned-to-the-ground/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jemimamcevoy/2021/08/16/5-questions-for-mary-trump-niece-of-donald-who-wants-the-gop-burned-to-the-ground/amp/",
-      "publishedDateTime": "2021-08-16T12:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

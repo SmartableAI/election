@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 563
         isCached: true
+  - title: "President Joe Biden plans to visit New Orleans in wake of Hurricane Ida destruction"
+    excerpt: "President Joe Biden plans to visit Louisiana Friday to survey damage from Hurricane Ida. Hurricane Ida slammed into Louisiana with 150 mph winds."
+    publishedDateTime: 2021-09-01T19:42:00Z
+    webUrl: "https://www.freep.com/story/news/politics/2021/09/01/president-biden-plans-visit-louisiana-hurricane-ida-aftermath/5687035001/"
+    ampWebUrl: "https://amp.freep.com/amp/5687035001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5687035001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 69
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/22/USAT/bc0fddd5-21a2-4977-8052-5961fa541352-AP_Biden.jpg?auto=webp&crop=5574,3136,x0,y283&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden pledges Ida support for 'as long as it takes'"
     excerpt: "President Joe Biden spoke Monday with officials in states pounded by Hurricane Ida and pledged federal suppport \"for as long as it takes\" to help them recover. (Aug. 30)"
     publishedDateTime: 2021-08-30T21:49:00Z

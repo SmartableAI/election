@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-poll-numbers-plunging-democra
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-poll-numbers-plunging-democrats-worry-afghanistan-midterms.amp"
 type: article
 quality: 178
-heat: 498
+heat: 518
 published: true
 
 provider:
@@ -172,6 +172,22 @@ related:
     quality: 158
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1a7681bc-6328-4f29-b286-2c34137c2968/61fa24cf-48b9-4b66-8cc2-8ac469905270/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Psaki dodges questions about Biden pressing Afghan president to change 'perception' of Taliban dominance"
+    excerpt: "White House press secretary Jen Psaki on Wednesday dodged a question about a new report that claims President Biden stressed the need for changing the \"perception\" of the Taliban’s advancement in Afghanistan, \"whether it is true or not,\" during a phone call with former Afghan President Ashraf Ghani less"
+    publishedDateTime: 2021-09-01T19:32:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7_p5GLXwYM8/psaki-dodges-questions-biden-pressing-afghan-president-perception-taliban"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-dodges-questions-biden-pressing-afghan-president-perception-taliban.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-dodges-questions-biden-pressing-afghan-president-perception-taliban.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/98950691-5366-4e99-990d-472254b3000b/a0aef4b6-3e39-4631-b7de-27520e1dc1a0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

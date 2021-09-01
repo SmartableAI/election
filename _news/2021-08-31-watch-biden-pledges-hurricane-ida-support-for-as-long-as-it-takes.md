@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pbs.org/newshour/amp/nation/watch-biden-pledges-hurrican
 cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/nation/watch-biden-pledges-hurricane-ida-support-for-as-long-as-it-takes"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "President Joe Biden plans to visit New Orleans in wake of Hurricane Ida destruction"
+    excerpt: "President Joe Biden plans to visit Louisiana Friday to survey damage from Hurricane Ida. Hurricane Ida slammed into Louisiana with 150 mph winds."
+    publishedDateTime: 2021-09-01T19:42:00Z
+    webUrl: "https://www.freep.com/story/news/politics/2021/09/01/president-biden-plans-visit-louisiana-hurricane-ida-aftermath/5687035001/"
+    ampWebUrl: "https://amp.freep.com/amp/5687035001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5687035001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 69
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/22/USAT/bc0fddd5-21a2-4977-8052-5961fa541352-AP_Biden.jpg?auto=webp&crop=5574,3136,x0,y283&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden to Attend Briefing on Hurricane Ida on Saturday -White House"
     excerpt: "U.S. President Joe Biden will attend a briefing later on Saturday by administration officials on preparations for Hurricane Ida, which is expected to make landfall in the United States this weekend. The briefing is scheduled for 1:30 p."
     publishedDateTime: 2021-08-28T16:33:00Z

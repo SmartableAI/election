@@ -1077,6 +1077,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Afghanistan: Joe Biden speech on withdrawal fact-checked"
+    excerpt: "In a televised address following the final departure of US troops from Afghanistan, President Joe Biden made a series of assertions about US policy in the country. We've fact-checked some of his claims,"
+    publishedDateTime: 2021-09-01T18:07:00Z
+    webUrl: "https://www.bbc.co.uk/news/58412530?at_medium=RSS&at_campaign=KARANGA"
+    ampWebUrl: "https://www.bbc.co.uk/news/58412530.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/58412530.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 75
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/15671/production/_120356678_gettyimages-1337498167.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Joe Biden’s Tale of Russian Bounties in Afghanistan Collapses Completely"
     excerpt: "Biden and the Democrats knew the Russian bounties story was likely fake news, a hoax, a scam, whatever else you want to call it. But they didn’t care."
     publishedDateTime: 2021-04-15T17:46:00Z

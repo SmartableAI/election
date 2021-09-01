@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden administration extends Trump-era ban on US passport use for North Korea travel"
+    excerpt: "The Biden administration has extended a Trump-era ban on using U.S. passports for travel to, from or through North Korea."
+    publishedDateTime: 2021-09-01T19:00:00Z
+    webUrl: "https://www.usatoday.com/story/travel/news/2021/09/01/travel-ban-extended-us-passport-north-korea/5685081001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5685081001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5685081001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 133
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/09/01/USAT/8c3d2948-c217-4406-b7bc-0ee3683b2c90-GettyImages-1097857302.jpeg?auto=webp&crop=7814,4395,x0,y551&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "As U.S. Leaves Afghanistan, How Biden's 7-Month Approval Rating Stacks Up Against Trump's"
     excerpt: "President Joe Biden lost his majority approval rating as Americans left Afghanistan, giving rise to the Taliban's takeover of the country."
     publishedDateTime: 2021-08-30T20:27:00Z

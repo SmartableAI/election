@@ -3,18 +3,18 @@ category: news
 title: "Fact check: Quote about Afghanistan, Democrats in Washington falsely attributed to Donald Trump"
 excerpt: "Donald Trump did not say the situation in Afghanistan is a distraction from the Democrats in Washington. The quote is being falsely attributed to him."
 publishedDateTime: 2021-08-27T02:32:00Z
-originalUrl: "https://www.indystar.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
-webUrl: "https://www.indystar.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
-ampWebUrl: "https://amp.indystar.com/amp/5586860001"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5586860001"
+originalUrl: "https://www.jsonline.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
+webUrl: "https://www.jsonline.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
+ampWebUrl: "https://amp.jsonline.com/amp/5586860001"
+cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/5586860001"
 type: article
 quality: 63
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: Milwaukee Journal Sentinel
+  domain: jsonline.com
 
 topics:
   - Election
@@ -216,6 +216,6 @@ related:
         height: 854
         isCached: true
 
-secured: "61YNqKPm1hpJpldUFD2UDGefgZGEgahySCGSl0axQ5Awghj8lUJdrWQybBGMnubyK/IsOeG9GytsV68G3g4jC2ji8lwb+GWN1enjw5oCFGCGS2gXtk9Xr0LkXUV29knt8n+wbuKSV2GbKIhOt6xQF8dRmHMeOp1uF465EsorH0okGzwtHf/k9bEWZNpJxMYtEOMU49G7YNNAMWoKFLjxCseqrUtvPm/DDVgAvkakIM6US9be9YDBisxdYdP+rWss93MZOrxmMERMTtHumdMudSyFTKJ44lzaI38ShCEOtTztWYUpkNYvGqKQJXYKCRM3N7Rc/zRQUyuGYYXinJZoL1U6gjimL4DIni5OGRrtJCIltp4L7svH7pcRWsgZF53YpxQ7e0L5zAiHa/9/tQ9FEZMiPbG7yPDrD8D/uonf7Ee1yTSc6L8uRpo5nPYJ90J+tZScumPYYfOou5IEuoaW/gj5DHnDO3voqb3lJPUIic+/XVCAhmv2saFRbviyYvSczvFhTOV1ndmOghnvvcdzTw==;N3gUEdAkimIVmBGHeZNzhg=="
+secured: "p4sk2h+pF8tX+uul8MiBzooPAxW80qhybKYuI3uO7+BE0QTBItemlJD2MD4w6qHLDauT3M3pOl0/ZDmBTW3n6JvTfyIhKdm1VlQerP2YqmvAzPdGIMxJLIfXpclA6vXpI8t7ijjrpI6h9NPSqqpTpsPQA21gosccho9eu3ngJzuQo4k6MLLQusWyhAZHCa9g+YkUt0i3eOo3bO2onQpEqgfKlNMk/oNTBZDDOKPHPkjkj6+HLmJBrsJd9yIyQ5XVTusduuvadUbJ/xchb8VdjJ0KWzhqHUwrXJUGLLu0YeQYgjXHsA79VztOyPN4ZEqDfD/ak8xsk3yIxhCmYOh4HlOQ4CkrC3snekZb0h2MbZ0=;/ZWHWT0tqpUqs0t3nfotCA=="
 ---
 

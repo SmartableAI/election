@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/bfe24854-3bf2-4ada-b3a2-778b4707c31f"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/bfe24854-3bf2-4ada-b3a2-778b4707c31f"
 type: article
 quality: 125
-heat: 405
+heat: 425
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Slain Norco Marine’s mother slams President Joe Biden on social media"
+    excerpt: "The mother of a Norco Marine killed in Afghanistan has blasted President Joe Biden on social media, saying the president rolled his eyes when meeting with families of slain service members and that her son’s blood is on his hands."
+    publishedDateTime: 2021-09-01T19:39:00Z
+    webUrl: "https://www.dailynews.com/2021/09/01/slain-norco-marines-mother-slams-president-joe-biden-on-social-media/"
+    ampWebUrl: "https://www.dailynews.com/2021/09/01/slain-norco-marines-mother-slams-president-joe-biden-on-social-media/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/09/01/slain-norco-marines-mother-slams-president-joe-biden-on-social-media/amp/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 75
+    images:
+      - url: "https://www.dailynews.com/wp-content/uploads/2021/09/OCR-L-NIKOURI-0828-01.jpg?w=900&#038;h=487"
+        width: 900
+        height: 487
         isCached: true
   - title: "Was Biden looking at his watch during ceremony for Marines killed in Kabul?"
     excerpt: "It appeared President Biden glanced at his watch during a solemn ceremony for U.S. Marines killed in the Kabul terror attack."

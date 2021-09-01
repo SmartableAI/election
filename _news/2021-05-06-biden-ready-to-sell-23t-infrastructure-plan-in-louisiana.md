@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-ready-sell-23t-i
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-ready-sell-23t-infrastructure-plan-louisiana-77526895"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -141,6 +141,22 @@ related:
     provider:
       name: The News-Star
       domain: thenewsstar.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/22/USAT/bc0fddd5-21a2-4977-8052-5961fa541352-AP_Biden.jpg?auto=webp&crop=5574,3136,x0,y283&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "President Joe Biden plans to make trip to Louisiana in wake of Hurricane Ida destruction"
+    excerpt: "President Joe Biden plans to visit Louisiana Friday to survey damage from Hurricane Ida. Hurricane Ida slammed into Louisiana with 150 mph winds."
+    publishedDateTime: 2021-09-01T17:19:00Z
+    webUrl: "https://www.shreveporttimes.com/story/news/2021/09/01/president-biden-plans-visit-louisiana-hurricane-ida-aftermath/5682801001/"
+    ampWebUrl: "https://amp.shreveporttimes.com/amp/5682801001"
+    cdnAmpWebUrl: "https://amp-shreveporttimes-com.cdn.ampproject.org/c/s/amp.shreveporttimes.com/amp/5682801001"
+    type: article
+    provider:
+      name: Shreveport Times
+      domain: shreveporttimes.com
     quality: 66
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/08/22/USAT/bc0fddd5-21a2-4977-8052-5961fa541352-AP_Biden.jpg?auto=webp&crop=5574,3136,x0,y283&format=pjpg&width=1200"

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/893cd8eb-c070-49f9-a049-1ad15532950f"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/893cd8eb-c070-49f9-a049-1ad15532950f"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/08/sjm-e-US_87594909.jpg?w=1024&#038;h=743"
         width: 1024
         height: 743
+        isCached: true
+  - title: "Biden meets Ukraine leader in long-sought Oval Office visit"
+    excerpt: "Biden played host to Ukrainian President Volodymyr Zelenskyy for a long-sought Oval Office meeting and tried to reassure him that his administration remains squarely behind the Eastern European nation."
+    publishedDateTime: 2021-09-01T19:49:00Z
+    webUrl: "https://www.chron.com/news/article/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Joe Biden FORGETS Megan Rapinoe's name, slammed for calling her 'America's best'"
     excerpt: "Joe Biden's recent praise for Megan Rapinoe accompanied an awkward fumbling as the president forgot her last name"
