@@ -47,6 +47,22 @@ related:
         width: 400
         height: 266
         isCached: true
+  - title: "Fact check: President Joe Biden did not sleep through meeting with new Israeli prime minister"
+    excerpt: "A viral video distorts President Biden's Aug. 27 meeting with Israel's new prime minister to make it appear as if Biden fell asleep. He did not."
+    publishedDateTime: 2021-09-01T01:03:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2021/08/31/fact-check-video-shows-biden-awake-meeting-israeli-pm/5655374001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5655374001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5655374001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/27/USAT/d4bfdba6-fe89-49e1-910d-d7edfafef810-biden_on_friday.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Joe Biden Defended His Decision To Not Push The Afghanistan Withdrawal Into A “Forever Exit”"
     excerpt: "But drone strikes against terrorist targets are likely to continue, Biden said in a speech the day after the withdrawal ended."
     publishedDateTime: 2021-08-31T21:05:00Z
@@ -62,22 +78,6 @@ related:
       - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/7/21/campaign_images/2d4e9d8d4a69/the-potential-for-war-with-iran-is-driving-the-fi-2-4406-1578432429-25_dblbig.jpg"
         width: 625
         height: 415
-        isCached: true
-  - title: "Fact check: Quote about Afghanistan, Democrats in Washington falsely attributed to Donald Trump"
-    excerpt: "Donald Trump did not say the situation in Afghanistan is a distraction from the Democrats in Washington. The quote is being falsely attributed to him."
-    publishedDateTime: 2021-08-27T02:32:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5586860001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5586860001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/08/22/USAT/9aef22b6-661a-487a-9438-89b679f37137-GTY_1335520712.jpg?auto=webp&crop=3688,2075,x0,y187&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Explained: What happens after Joe Biden’s evacuation force leaves Afghanistan?"
     excerpt: "The chaotic and perilous evacuation from Kabul airport that ensued has unleashed a wave of criticism and presented Biden with his biggest crisis since taking office in January."
@@ -158,6 +158,22 @@ related:
       - url: "https://cdn.images.express.co.uk/img/dynamic/78/590x/1483221_1.jpg?r=1630144550341"
         width: 590
         height: 350
+        isCached: true
+  - title: "Fact check: Quote about Afghanistan, Democrats in Washington falsely attributed to Donald Trump"
+    excerpt: "Donald Trump did not say the situation in Afghanistan is a distraction from the Democrats in Washington. The quote is being falsely attributed to him."
+    publishedDateTime: 2021-08-27T02:32:00Z
+    webUrl: "https://www.indystar.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
+    ampWebUrl: "https://amp.indystar.com/amp/5586860001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5586860001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 63
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/22/USAT/9aef22b6-661a-487a-9438-89b679f37137-GTY_1335520712.jpg?auto=webp&crop=3688,2075,x0,y187&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Eamonn Holmes lays into Joe Biden and ‘the Yanks’ in furious This Morning rant over Afghanistan retreat"
     excerpt: "EAMONN Holmes has let rip at US President Joe Biden while discussing the country’s retreat from Afghanistan. The telly presenter, 61, laid into President Biden and “the Yanks”"

@@ -378,16 +378,16 @@ related:
         height: 400
         isCached: true
   - title: "President Joe Biden Arrives at Holy Trinity Catholic Church"
-    excerpt: "US President Joe Biden walks into Holy Trinity Catholic Church for mass in the Georgetown neighborhood of Washington, D.C., Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover,"
+    excerpt: "US President Joe Biden walks into Holy Trinity Catholic Church for mass in the Georgetown neighborhood of Washington, D.C., Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover, Delaware for 13 members of the US military ..."
     publishedDateTime: 2021-08-29T21:51:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/8f8abd0c6d217454099f8dbdc3134149/President-Joe-Biden-Arrives-at-Holy-Trinity-Catholic-Church/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/1a8879067d090ce29eee3c9f8a03d772/President-Joe-Biden-Arrives-at-Holy-Trinity-Catholic-Church/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/8f8abd0c6d217454099f8dbdc3134149/BIDEN-CHURCH.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/1a8879067d090ce29eee3c9f8a03d772/BIDEN-CHURCH.jpg"
         width: 650
         height: 433
         isCached: true

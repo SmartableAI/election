@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden Departs Holy Trinity Catholic Church"
-excerpt: "US President Joe Biden walks out of Holy Trinity Catholic Church after mass in the Georgetown neighborhood of Washington, DC on Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover,"
+excerpt: "The view of the White House after President Joe Biden arrives back to the White House from Holy Trinity Catholic Church in the Georgetown neighborhood of Washington, DC on Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in ..."
 publishedDateTime: 2021-08-29T22:47:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/0aa5f0085d74f7e3ec67bcdb81bd4836/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/0aa5f0085d74f7e3ec67bcdb81bd4836/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/5a62ace3eb872bbda6904e721e80e6ba/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/5a62ace3eb872bbda6904e721e80e6ba/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
 type: article
 quality: 55
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/0aa5f0085d74f7e3ec67bcdb81bd4836/BIDEN-CHURCH.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/5a62ace3eb872bbda6904e721e80e6ba/BIDEN-CHURCH.jpg"
     width: 650
-    height: 433
+    height: 434
     isCached: true
 
 related:
@@ -498,7 +498,7 @@ related:
   - title: "Afghanistan: Joe Biden defends US pull-out as Taliban claim victory"
     excerpt: "US President Joe Biden has defended his decision to withdraw US troops from Afghanistan - a move which led to Taliban militants returning to power. Staying longer was not an option, Mr Biden said in an address to the nation,"
     publishedDateTime: 2021-08-31T21:12:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-asia-58403735?at_medium=RSS&at_campaign=KARANGA"
+    webUrl: "https://www.bbc.co.uk/news/world-asia-58403735"
     type: article
     provider:
       name: BBC
@@ -580,6 +580,6 @@ related:
       domain: seattletimes.com
     quality: 34
 
-secured: "l6KIcsTz9otc71akAARJVcryjyjm4LqczaDQdMG7oxoGaspkZIq6BsmWkB/KNo1vAWp+q8kcZ+PI3ySBQBGiAUlCDWGBHv7yDoG5IP8/q1PFeirSVKTmPhxEC/NClcDyRuoa8LBiG+RJm9BzrhwkaJ/pnT3VpPuSUIVSCt9kc+vmdu3wc7K6vjyplYoN925r0z9gyh9UymeR4sSFzupQHM/YjglZURdSGhI0KZj38nzMmG6s9cQ5gITDPxdBZtLz8fs9JEsYNaDXzZObtSdDxNl1Z6MCgbM3O1KWgOR5nq9TX1b2mEY8YZkCQl9FRu+Z7Q5JbsnVdLJtgz2YzN71Xs6XoSrWYFU6td6rw3XgXT0=;YuEkBxECKdaK2eUpbrx4Dw=="
+secured: "PDXSTrzw+N+inP4RpE468lgdWf+hCmooFmXac4rH1LzPlwBP7Pj//qgxZU4wi8eIa8n/b1RfGoBi1sGYS+s8Q9ie31P4u/oLepe7nfmQ2zPCVNmUyz5E+CddyW/jFDrmhnJL9XFLTVxjN9Mb3ZTz3mVXS/uyv7YWA0GAOARLXoFHfK/mxYU5f5I8Gl9uM8vLLaerWRa250sjst0imEQdCJC2CzdnhbDPFTpCkRoqM7RzThfZxlBseso1iPYPjbv20C2hE+w1kKL3fAEpRToLi8MV+zb6ka7zw+HELcdZ3nYjHKXoOqdAvWpfCMRUFmX7GO13sNpHbbV90T4mPuGxfGvj5e4MEfmxIQmar796JRc=;IPoJjBUSn5jddXMcegaSGw=="
 ---
 

@@ -3,22 +3,18 @@ category: news
 title: "Fact check: Quote about Afghanistan, Democrats in Washington falsely attributed to Donald Trump"
 excerpt: "Donald Trump did not say the situation in Afghanistan is a distraction from the Democrats in Washington. The quote is being falsely attributed to him."
 publishedDateTime: 2021-08-27T02:32:00Z
-originalUrl: "https://www.usatoday.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
-webUrl: "https://www.usatoday.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
-ampWebUrl: "https://amp.usatoday.com/amp/5586860001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5586860001"
+originalUrl: "https://www.indystar.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
+webUrl: "https://www.indystar.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
+ampWebUrl: "https://amp.indystar.com/amp/5586860001"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5586860001"
 type: article
-quality: 113
+quality: 63
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -46,6 +42,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/21/50/72/21401243/3/400x0.jpg"
         width: 400
         height: 266
+        isCached: true
+  - title: "Fact check: President Joe Biden did not sleep through meeting with new Israeli prime minister"
+    excerpt: "A viral video distorts President Biden's Aug. 27 meeting with Israel's new prime minister to make it appear as if Biden fell asleep. He did not."
+    publishedDateTime: 2021-09-01T01:03:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2021/08/31/fact-check-video-shows-biden-awake-meeting-israeli-pm/5655374001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5655374001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5655374001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/27/USAT/d4bfdba6-fe89-49e1-910d-d7edfafef810-biden_on_friday.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Joe Biden Defended His Decision To Not Push The Afghanistan Withdrawal Into A “Forever Exit”"
     excerpt: "But drone strikes against terrorist targets are likely to continue, Biden said in a speech the day after the withdrawal ended."
@@ -204,6 +216,6 @@ related:
         height: 854
         isCached: true
 
-secured: "2Eb8YIOhcL4q+QlbKiMFBkNUwIObDryJrzYjED1MuNmsUcIEIADNUrrdC+Bg6YoDE3+JHMQguWrJj3TEgIh2r+bWfi0RaRQefT07mm5QgqT75YeoUKB+5lQAgZCZ9Wrq3g9X7PQxWPRkk01jQnVlqdKlBqbS23YwSg1YJkZELhjn3cXH6PGrUHNdwzGPAIupGAIJSv4OrFGKfM1vCpvS4uyavfdnhJr7n7DMSxkoK9zWELfGVLUiqIuzwN63YVJRK4xYlzuuWjmJlbrj/5t0udR8BSUC/c+9xGfvI3M5MzqaCao3cs1FLTlBGuAbdbECiFoW4FWV1gkwCwpn3F5ok3Pb9EHTzTwXhesOax1Z+iKPF3sz8FCJ58GcDyQPLCmFzut2diPaLNU9vXhtcx5CWxcVaAfFWdBRAJtDYIIgkigStMLKUV9GG7I3Giue2KpCVheiggY8cnq3K+zokB0y/U6Dp/9VEmTBMHdRMfXUI4COVcxcBqpB93ZWspruniRfIt2nu7bmwXENc3HCD/AL4w==;Chij0rmq5IviNcqzycNOBA=="
+secured: "QJAxC6PPgKZTiB7OExFTzaqfcU1psUAs3rikZtJfjb0bsfkkZWw4vHj8ge6to7I7jqVtMEnQoLWvRfOuVqoX9MAdJoj3pX+1/A4j5zhnAvkHKNJF+PCIQM0EBg5osAv6q1M1IAtJX+2VHQnuigSymMlJoMRA/XIBNpwqWKn7fpt7wQ6H56qYyPUDc3fTnrXQisTEZFiyRAC+luuKHs3odsGe0anvWowdg08jpnllHyxVQZFNj7AK9ON5ZTxHnVSJ7p7jzWydUHaQbLDR8LLnVMT3/hlkgEnHZeuRuvCfKrkZo7zvHxAsbyEnfjQlu+Rze9XBqLfTgJ2YBMLfyRbrbYib6kJbVXcN0lz1WczUkx8=;1huG3luZdcLg5BXDPhuMpA=="
 ---
 

@@ -1,29 +1,33 @@
 ---
 category: news
-title: "US Marine fired after slamming Joe Biden in furious rant following Afghanistan catastrophe"
-excerpt: "A Lieutenant Colonel has been fired after he took to social media to unleash a furious attack on Joe Biden and military leaders blaming them for the deadly withdrawal from Afghanistan."
-publishedDateTime: 2021-08-28T09:31:00Z
-originalUrl: "https://www.express.co.uk/news/world/1483221/US-marine-video-Stuart-Scheller-Afghanistan-withdrawal-Joe-Biden-Kabul-airport-attack-vn"
-webUrl: "https://www.express.co.uk/news/world/1483221/US-marine-video-Stuart-Scheller-Afghanistan-withdrawal-Joe-Biden-Kabul-airport-attack-vn"
-ampWebUrl: "https://www.express.co.uk/news/world/1483221/US-marine-video-Stuart-Scheller-Afghanistan-withdrawal-Joe-Biden-Kabul-airport-attack-vn/amp"
-cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/world/1483221/US-marine-video-Stuart-Scheller-Afghanistan-withdrawal-Joe-Biden-Kabul-airport-attack-vn/amp"
+title: "Fact check: President Joe Biden did not sleep through meeting with new Israeli prime minister"
+excerpt: "A viral video distorts President Biden's Aug. 27 meeting with Israel's new prime minister to make it appear as if Biden fell asleep. He did not."
+publishedDateTime: 2021-09-01T01:03:00Z
+originalUrl: "https://www.usatoday.com/story/news/factcheck/2021/08/31/fact-check-video-shows-biden-awake-meeting-israeli-pm/5655374001/"
+webUrl: "https://www.usatoday.com/story/news/factcheck/2021/08/31/fact-check-video-shows-biden-awake-meeting-israeli-pm/5655374001/"
+ampWebUrl: "https://amp.usatoday.com/amp/5655374001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5655374001"
 type: article
-quality: 65
+quality: 114
 heat: -1
 published: false
 
 provider:
-  name: Daily Express
-  domain: express.co.uk
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cdn.images.express.co.uk/img/dynamic/78/590x/1483221_1.jpg?r=1630144550341"
-    width: 590
-    height: 350
+  - url: "https://www.gannett-cdn.com/presto/2021/08/27/USAT/d4bfdba6-fe89-49e1-910d-d7edfafef810-biden_on_friday.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -42,22 +46,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/21/50/72/21401243/3/400x0.jpg"
         width: 400
         height: 266
-        isCached: true
-  - title: "Fact check: President Joe Biden did not sleep through meeting with new Israeli prime minister"
-    excerpt: "A viral video distorts President Biden's Aug. 27 meeting with Israel's new prime minister to make it appear as if Biden fell asleep. He did not."
-    publishedDateTime: 2021-09-01T01:03:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2021/08/31/fact-check-video-shows-biden-awake-meeting-israeli-pm/5655374001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5655374001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5655374001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 114
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/08/27/USAT/d4bfdba6-fe89-49e1-910d-d7edfafef810-biden_on_friday.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Joe Biden Defended His Decision To Not Push The Afghanistan Withdrawal Into A “Forever Exit”"
     excerpt: "But drone strikes against terrorist targets are likely to continue, Biden said in a speech the day after the withdrawal ended."
@@ -155,6 +143,22 @@ related:
         width: 590
         height: 350
         isCached: true
+  - title: "US Marine fired after slamming Joe Biden in furious rant following Afghanistan catastrophe"
+    excerpt: "A Lieutenant Colonel has been fired after he took to social media to unleash a furious attack on Joe Biden and military leaders blaming them for the deadly withdrawal from Afghanistan."
+    publishedDateTime: 2021-08-28T09:31:00Z
+    webUrl: "https://www.express.co.uk/news/world/1483221/US-marine-video-Stuart-Scheller-Afghanistan-withdrawal-Joe-Biden-Kabul-airport-attack-vn"
+    ampWebUrl: "https://www.express.co.uk/news/world/1483221/US-marine-video-Stuart-Scheller-Afghanistan-withdrawal-Joe-Biden-Kabul-airport-attack-vn/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/world/1483221/US-marine-video-Stuart-Scheller-Afghanistan-withdrawal-Joe-Biden-Kabul-airport-attack-vn/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 65
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/78/590x/1483221_1.jpg?r=1630144550341"
+        width: 590
+        height: 350
+        isCached: true
   - title: "Fact check: Quote about Afghanistan, Democrats in Washington falsely attributed to Donald Trump"
     excerpt: "Donald Trump did not say the situation in Afghanistan is a distraction from the Democrats in Washington. The quote is being falsely attributed to him."
     publishedDateTime: 2021-08-27T02:32:00Z
@@ -216,6 +220,6 @@ related:
         height: 854
         isCached: true
 
-secured: "LWm8/DWQq3xqCQqOZFYKa8A426jrzVfDcD4N9DDGJWb7p/hiR4Xuisb88AoXPlqKKAfsGTWly2HzRTC4CZsnftrTCX9Ef+UNUGrPwjui4ToDcz0RxmsC6TMqLnEtxeiemtXecAQSQgy0R+b9NoK25sV45rjArgS3zfN4mr4r4+OPZxv8GSp2rNYsG3SpHVd+rrmUkEApahsC26mKosAwujsNBWc/c2uLCD6LBiUWQF0GNlfaNmzVW2z2rXY3AHvcqNwYA42AQT1poig5OzSsR/JUcQPwvktew5U9iCUORFBI8AUOlDRZfKUZRpwWVnOIZeut5nzV0Vh8G8NL16F7F8FuKOSOwQIY4TTTHCJn6SaaPEZAVP2oxicIEdVqY57cBmpqkNDPfMPV2zhml9MY1cK8SAekKw2kDOJnKOE2U/k+vMPRPGOODN5njPPbfOUOfeEIqA859NpcoPW7f4eD7gsS5aHA5orKFGUsZI13aHC+Wg1n51Dt+5kqv+ebqfuMGIztRo4X4Lh+oYkwkG+8dg==;aD24I/HQrHbf/+TzgSNaHw=="
+secured: "g+4h1+Pj1appxit1fKOtdXOnPPW+LVZgiX+z/rJnkpZNeMK+Evrz3QkdXL0gSpZ/jL9BaP/0iZpq2l36nsmUQd6KQL2bqM03VcGTYWuo2BSibfvVzVNa63p5X2LTmJuQi2eOLu99KKbdgUw13ZZ8sFLzIxgO1Xy5m9eKoljXYSlxdseCGfk50fWkVBXpwN1iEPXp27MRZHoa2I/ux0EuKrjNksEKi2AHWivpNzWwad5Cy4MqohD7tjW5HHGhXlDqlk9FSeqj6TzJWrz1e7R1bVRlHNAdupWiwwMQy+UsOriJwkcOL+nU1i90gyhty71FKoGiBt0yoK5adHBVqMaPES7vR6I5R+w7GfY7zH2Q9j4=;/oVHXRtR5juqclD1J4roFg=="
 ---
 

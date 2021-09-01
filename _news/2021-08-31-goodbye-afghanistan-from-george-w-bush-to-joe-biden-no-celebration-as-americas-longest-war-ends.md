@@ -2,19 +2,23 @@
 category: news
 title: "Goodbye, Afghanistan: From George W. Bush to Joe Biden, no celebration as America's longest war ends"
 excerpt: "Twenty years after U.S. bombers arrived, the last U.S. cargo plane departs a war that has left its mark, and its sorrow, on four presidents."
-publishedDateTime: 2021-08-30T21:30:00Z
-originalUrl: "https://www.azcentral.com/story/news/politics/2021/08/30/afghanistan-war-ends-america-legacy/5598968001/"
-webUrl: "https://www.azcentral.com/story/news/politics/2021/08/30/afghanistan-war-ends-america-legacy/5598968001/"
-ampWebUrl: "https://amp.azcentral.com/amp/5598968001"
-cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5598968001"
+publishedDateTime: 2021-08-30T21:38:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/08/30/afghanistan-war-ends-america-legacy/5598968001/"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/08/30/afghanistan-war-ends-america-legacy/5598968001/"
+ampWebUrl: "https://amp.usatoday.com/amp/5598968001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5598968001"
 type: article
-quality: 60
+quality: 110
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -789,6 +793,6 @@ related:
         height: 380
         isCached: true
 
-secured: "Z9bayhNXbpB0QhCqT0iLkIIAX9RPaYFM5vIsjquaw8QYzU2ACkmocQtczf111RIvuezfDC4s4zUxBURYTh+8j6rsrM4/+W1cyzUsRnxBkxmSnvJrZbe6e7wTd3mRaaxoJRe4LXi1r0sdjep5A/PejpGumMlV9/nIFENY3nfF9ALDJt4yXe/QFP3D2ea7FuB3mhP6yVu/9hVHT8717Ek0S5a8qTSaCM0uQ+SvQB9z6TM6iG3vZ45NP63+v/HsL1UyQgi8AL2EphBTuPaaH7lm0IxBNOwziq2p5c+el0kzmuaTpe/KdLCrP4dcrBNsr3/yIP6OEk1IX1/GrTWmnh8CEHW/c2mLzkBbs/7E/+iUBlU=;y6C75L2qTe0RJNxXJ5m7Kw=="
+secured: "8SIgTTguNSYVEZIYHR1cYU7xBajxLkcl6JqP+U/lmASIPUYHELDPJiOuH06/z8mu3hdMc5D8u8GjKSegef05hQCPmg3qlEqAedPb3R2zWICywfOi7NsJXU2GG47NMuW6QXOjvVPYZ8580wz6NACK2gFS+N/WJnou3EeIKAGWAyCqLYAVRsP0rvy+qr2g5QwBiF29x7zHL6cjiUWuurnh81UD+W1qr1nbKGYVPEQeONvz8awvStgP1Y04vbmJVnjOfsXpqobryi6J+/7amnWNMTOrjT4v4WMTWzNkb5TzXW2qsH4Z3QdNn6d21qRxwo35x/37wsu1cT5vmCqnAzHDhsBalgglLJvkC5q+DtoIEIA=;VpeXKGw+AU3k4xaJsnw/rw=="
 ---
 
