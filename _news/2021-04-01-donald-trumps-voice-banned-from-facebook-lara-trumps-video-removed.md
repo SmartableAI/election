@@ -349,17 +349,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Alert: 7 US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot"
-    excerpt: "US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot."
-    publishedDateTime: 2021-08-26T21:13:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
-    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 80
   - title: "Trump looms large in race for South Carolina GOP chairman"
     excerpt: "COLUMBIA, S.C. (AP) — In South Carolina — where Donald Trump's 2016 primary victory marked a turning point in solidifying his nomination, and where support for him remained high throughout his term — the contest to lead the state's Republican Party ..."
     publishedDateTime: 2021-04-01T14:58:00Z
@@ -627,6 +616,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/0618335/2147483647/strip/true/crop/5509x3684+9+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9a%2F04%2Fe1d88fb2c207d4912a4829161c80%2F8ea1460fd149406cba9112a09267251e"
         width: 320
         height: 214
+        isCached: true
+  - title: "Alert: 7 US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot"
+    excerpt: "US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot."
+    publishedDateTime: 2021-08-26T20:05:00Z
+    webUrl: "https://www.middletownpress.com/news/article/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
+    ampWebUrl: "https://www.middletownpress.com/news/amp/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
+    cdnAmpWebUrl: "https://www-middletownpress-com.cdn.ampproject.org/c/s/www.middletownpress.com/news/amp/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
+    type: article
+    provider:
+      name: The Middletown Press
+      domain: middletownpress.com
+    quality: 50
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Capitol Police officers sue Donald Trump and his allies over violent insurrection"
     excerpt: "The filing provides vivid accounts of the injuries the officers sustained while trying to fend off the mob of Trump supporters."

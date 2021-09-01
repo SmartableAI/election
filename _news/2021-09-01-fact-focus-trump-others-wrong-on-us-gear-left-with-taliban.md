@@ -2,19 +2,19 @@
 category: news
 title: "FACT FOCUS: Trump, others wrong on US gear left with Taliban"
 excerpt: "The Taliban have seized both political power and significant U.S.-supplied firepower in their whirlwind takeover of Afghanistan, recovering guns, ammunition, helicopters and other modern military equipment from Afghan forces who surrendered it."
-publishedDateTime: 2021-08-31T23:25:00Z
-originalUrl: "https://www.greenwichtime.com/news/article/FACT-FOCUS-Trump-others-wrong-on-US-gear-left-16426444.php"
-webUrl: "https://www.greenwichtime.com/news/article/FACT-FOCUS-Trump-others-wrong-on-US-gear-left-16426444.php"
-ampWebUrl: "https://www.greenwichtime.com/news/amp/FACT-FOCUS-Trump-others-wrong-on-US-gear-left-16426444.php"
-cdnAmpWebUrl: "https://www-greenwichtime-com.cdn.ampproject.org/c/s/www.greenwichtime.com/news/amp/FACT-FOCUS-Trump-others-wrong-on-US-gear-left-16426444.php"
+publishedDateTime: 2021-09-01T02:37:00Z
+originalUrl: "https://www.nhregister.com/news/article/FACT-FOCUS-Trump-others-wrong-on-US-gear-left-16426444.php"
+webUrl: "https://www.nhregister.com/news/article/FACT-FOCUS-Trump-others-wrong-on-US-gear-left-16426444.php"
+ampWebUrl: "https://www.nhregister.com/news/amp/FACT-FOCUS-Trump-others-wrong-on-US-gear-left-16426444.php"
+cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/FACT-FOCUS-Trump-others-wrong-on-US-gear-left-16426444.php"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Greenwich Time
-  domain: greenwichtime.com
+  name: New Haven Register
+  domain: nhregister.com
 
 topics:
   - Election
@@ -58,6 +58,6 @@ related:
         height: 960
         isCached: true
 
-secured: "rE2Z75b655Qv/ZEwrOVlCktDMzmSULXBRBkf2smLlVmZ3ujtjjF4yWIpmDs273LfaYoq++Q6CSmkIQweBI1bCGP5WdJa5yqCEcG1ZvBXNCPlK1Jn4p+EUku7M9ton9t20lfcxw51fixUr4zkdNoxUVupfFP77yY/0+0UOPzBs1ipPo5zcR7EcRs6cj+0htCBXw8VqhqU0KWFZMDKlK/rAgnbZCTAxvjW8UsNU5l1gCx0NDJdlKARxssD61GKH35aGE2KI/li7f5+fTdK55AjdU9acoX3XbDW7ZB5nfB7ILYZiGYi9lwU0UAPIL+yYuTcGam2k279sTAAiqGE9tn1uMuLuoTkGCn3hx0wrnlIEjSEXjqEGcrK2ejtnJAyHIpEcYKq+0+woffY2ToILaZjU1gVgcdzSUZUCJe6a1S+/a74HZ5UxeObCJTXwbSyusy7gowf7XCK1cPXaK5TkgBZBbpt13M8+iK2araFeRo+iXnKt4K+pmZ9WRKWen7MPNOnoFF8GihfaoxMUA4MwcWgng==;JhVgDOtl0w5Xo4VufwdGZQ=="
+secured: "momFJqGTGLPHgGH2CH2ogGB3rCFDKVJL/AZ+jyL9UrBJ4wNEx+1uEOOM81H4BJoF5byMpTqUutq2i95gHdL6tnDRqnmrK32wohTmBzSSQ8M0giKzIX0KGOZKr8yiFTurjiclyFmBrUcRNKimEC1Mtwst69V/qHX/qb9vcG4boUWfZaMIZ+TcjR26qLrSPDjLU4kdZElVOOSa90x+ysAGzUUz03igxsY6uFq8n3j1qFgM76kdwFRwLv1MWZnjc7vacdlekYTJ+5cwd5qoN+HMGiv8eyeCwCQT/5nFAigaAtIlRSHXUORC4htvvVKNR6VMI+zFM9Gx+smMCIqkvOQqSIjXcV3geZOm9Gk2ENGG6rE=;w7JtAtKfoW+EwEeWpChnvg=="
 ---
 

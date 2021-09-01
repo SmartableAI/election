@@ -79,6 +79,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Ukraine’s Zelensky to discuss US security commitments at meeting with Biden, report says"
+    excerpt: "Volodymyr Zelensky, the president of Ukraine, is set to meet with President Biden on Wednesday and will bring up the U.S. withdrawal from Afghanistan in the context of its own security assurances from Washington, a report said."
+    publishedDateTime: 2021-09-01T03:51:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IC4fQ8Si3vo/ukraines-zelensky-to-discuss-us-security-commitments-at-meeting-with-biden-report-says"
+    ampWebUrl: "https://www.foxnews.com/politics/ukraines-zelensky-to-discuss-us-security-commitments-at-meeting-with-biden-report-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ukraines-zelensky-to-discuss-us-security-commitments-at-meeting-with-biden-report-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "WSJ Opinion: Joe Biden Is Sinking"
     excerpt: "With the Democratic Party's relentless leftward lurch, how long will the president’s old pals, the moderate Democrats, continue with its 'progressi"
     publishedDateTime: 2021-07-29T05:07:00Z

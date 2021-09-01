@@ -2,27 +2,29 @@
 category: news
 title: "Alert: 7 US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot"
 excerpt: "US Capitol police officers sue former President Donald Trump, his allies and extremists groups over Capitol riot."
-publishedDateTime: 2021-08-26T21:13:00Z
-originalUrl: "https://www.houstonchronicle.com/news/article/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
-webUrl: "https://www.houstonchronicle.com/news/article/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
-ampWebUrl: "https://www.houstonchronicle.com/news/amp/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
-cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
+publishedDateTime: 2021-08-26T20:05:00Z
+originalUrl: "https://www.middletownpress.com/news/article/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
+webUrl: "https://www.middletownpress.com/news/article/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
+ampWebUrl: "https://www.middletownpress.com/news/amp/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
+cdnAmpWebUrl: "https://www-middletownpress-com.cdn.ampproject.org/c/s/www.middletownpress.com/news/amp/Alert-7-US-Capitol-police-officers-sue-former-16413806.php"
 type: article
-quality: 80
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Middletown Press
+  domain: middletownpress.com
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
 
 related:
   - title: "Two Capitol Police officers sue Trump over Jan. 6 riots"
@@ -676,6 +678,6 @@ related:
       domain: sfchronicle.com
     quality: 30
 
-secured: "N7UVQN57K4MXWR7PfY1c4HoaP4wxtDYPRqZyrnIFBbkCY/n9omyBtfnjxHM7+QabujGVXxawOCpboOH1HFqPuWJ+a1D44QBW0nmwoSX03iV2AbqO1W0bGRjOekeMakILaL8jEKKaJJRepIa/z8niEvWy0qqnab6mF/3kwhf/UwjVH+DZqjlnwRKoh9dIjBO+8I0m95OrLDN5Ypn6e/b6iW6Odg05zdaA+4SH8EUmC/PgoaxyM6qNe98ExaBTzjcz3dQhcH0FURvFDPF/eduJPs61RyticFiTcKhCerqjDAjpomTIixNEtw5krCVTeJGHHikhQWAJGfOOW4MaDQu085AGwB/3pvyDV4UHyK6ZiBk=;p6MzB1yWcRatXqFHnled7A=="
+secured: "BNbvE3L8psx+rSK+3VmRZyV8TEJqgFfJd63Jpy92iYehNam3Q2rDTCukNyRnP27/qwamsAwRGO+k2Lzt/UCop/dTosw7qPiHs98IIydGhFSjLloMekziyoERdj0oqvRvxALm41s38CszoLSLdDI7WuXc/mpcloiGSGqx6mYAO3jhpfN4OhgHFZPyMEabMwcdowj1CXvroWM3nRbk3VJRpsZOh+SgVKnBxiGWKX86Pc/oiOsQpZc3ZoneJi5sIGkccbgU1GD15Cw1PPoR4ttwPqJH4kCnXugTDQ3MRyt2Em8K1shj8t/2VAJGC+hroa9VYUksWw9PNtgx4nmrt0rYm/yGL8ivNJKfywaiYbniP8s=;UMLhY0tTvJJjSnEhx0JzKA=="
 ---
 

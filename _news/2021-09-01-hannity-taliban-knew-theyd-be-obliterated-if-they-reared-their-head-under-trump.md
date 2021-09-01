@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Biden ally claims Trump greater 'threat' to US than al Qaeda"
-excerpt: "A Democratic insider and vocal ally of President Biden claimed last week that former President Trump and his “Trumpist” supporters are a bigger threat to the United States than the Taliban and al Qaeda fighters."
-publishedDateTime: 2021-08-25T16:04:50Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oGIOCzBQ88A/biden-ally-trump-more-dangerous-taliban-al-qaeda"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oGIOCzBQ88A/biden-ally-trump-more-dangerous-taliban-al-qaeda"
-ampWebUrl: "https://www.foxnews.com/politics/biden-ally-trump-more-dangerous-taliban-al-qaeda.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ally-trump-more-dangerous-taliban-al-qaeda.amp"
+title: "Hannity: Taliban knew they'd be 'obliterated' if they reared their head under Trump"
+excerpt: "Fox News host Sean Hannity said Tuesday that the bombshell Reuters report revealing that President Biden expressed a desire to manipulate the \"perception\" of the Taliban’s progress in Afghanistan, \"whether it is true or not,"
+publishedDateTime: 2021-09-01T03:19:00Z
+originalUrl: "https://www.foxnews.com/media/hannity-taliban-obliterated-reared-head-under-trump"
+webUrl: "https://www.foxnews.com/media/hannity-taliban-obliterated-reared-head-under-trump"
+ampWebUrl: "https://www.foxnews.com/media/hannity-taliban-obliterated-reared-head-under-trump.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-taliban-obliterated-reared-head-under-trump.amp"
 type: article
-quality: 190
-heat: 290
-published: true
+quality: 129
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -22,15 +22,32 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c34b2f4d-518c-4bf2-84bd-016180d30cf8/77b6a3b5-56bf-4b2d-9c4e-e0e7cc4b07a2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e9c4b94-fa25-4ce2-8677-4a5545ebc73f/a9b957d1-b271-4ab4-9899-4a2f563bbaf8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
 
 related:
+  - title: "Biden ally claims Trump greater 'threat' to US than al Qaeda"
+    excerpt: "A Democratic insider and vocal ally of President Biden claimed last week that former President Trump and his “Trumpist” supporters are a bigger threat to the United States than the Taliban and al Qaeda fighters."
+    publishedDateTime: 2021-08-25T16:04:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oGIOCzBQ88A/biden-ally-trump-more-dangerous-taliban-al-qaeda"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-ally-trump-more-dangerous-taliban-al-qaeda.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ally-trump-more-dangerous-taliban-al-qaeda.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c34b2f4d-518c-4bf2-84bd-016180d30cf8/77b6a3b5-56bf-4b2d-9c4e-e0e7cc4b07a2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden falsely claims the US does not have troops in Syria"
     excerpt: "President Biden falsely claimed that the U.S. doesn’t have military deployed to Syria during an interview with ABC News’ George Stephanopoulos Wednesday night, his first TV interview since the Taliban’s rapid takeover of Afghanistan."
     publishedDateTime: 2021-08-19T16:15:24Z
@@ -79,22 +96,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Hannity: Taliban knew they'd be 'obliterated' if they reared their head under Trump"
-    excerpt: "Fox News host Sean Hannity said Tuesday that the bombshell Reuters report revealing that President Biden expressed a desire to manipulate the \"perception\" of the Taliban’s progress in Afghanistan, \"whether it is true or not,"
-    publishedDateTime: 2021-09-01T03:19:00Z
-    webUrl: "https://www.foxnews.com/media/hannity-taliban-obliterated-reared-head-under-trump"
-    ampWebUrl: "https://www.foxnews.com/media/hannity-taliban-obliterated-reared-head-under-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-taliban-obliterated-reared-head-under-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 129
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e9c4b94-fa25-4ce2-8677-4a5545ebc73f/a9b957d1-b271-4ab4-9899-4a2f563bbaf8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Joe Biden: Same As He Ever Was"
     excerpt: "Donald Trump told us so.Throughout the 2020 campaign, President Trump warned the American people that Joe Biden was not up for the job of the presidency. In speeches, debates, and"
     publishedDateTime: 2021-08-26T13:51:00Z
@@ -112,6 +113,6 @@ related:
         height: 340
         isCached: true
 
-secured: "fuewYdfW/Kx1wzwpPxqMrMFoBODGDTH/OqStKqqJOM3wO5tqX6Tzpdin+c08ArPZkCDxXRX1wD1ilefPQ2xk2m7SAp97ADCthzlECINJY7O/lghcUYv0q+STfI9CZMI382SdXJLOd5SgYxWBIH6LiW0aN/VDY+ZHyIwJFqM4HiR30W0xHXdzOjQfR8+4IoNvQutkteFHpFXXcch0uv3xLs4WZgK9vGojsjKEn+PtiIJHjIrLprRutVrBGr30dbxxkjM9RZYfW09T4aygcsNfLpcGMDXRbnAoWVa/NIkYkZHCU1gtgAiUQHuHZUq1BVKOt5NHAQwyKcc9TKpgHIP2C4aONQJhUF8i7kKCWb2gPlg=;PhZo7YKvzc+2l28pUQVkuQ=="
+secured: "9B40UpLP5ZnkKTCUC96SM14Kdryfyyowl4mprDP+lx8wcH70aIuLuRQ0Ev0M6hWXZAEKpbSkTXlsPur9PpWlBETp2HTjviDWA5lJZ+NDqy9O39B7521tcdwcrWisCTcwiZhlyN33VfTMtRcnf3WE4Z6Q718iAYsxaWC+E2arxGGy9NmXuEdpEe/qLPm3jRhn9PPiRU7n5TgnJKF6NfcOmKUgbL7puy8fnZGC76asYTs51NjGgc/eObXhd3yscQUjRN3pFlfQRm+nbVls3thVaT9gsZl+rC01T3qSn0E6vx6s5hpNbkiT2NEKciZXDw1JbbekwAl36r9mR4N9WhicCH6XgrCNG8+xaHzDeDSAOkQ=;BhqUh5lv4gI3ua8Ut6chKQ=="
 ---
 

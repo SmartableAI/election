@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Ukrainian president Zelensky to visit Biden in August"
-excerpt: "Ukrainian President Volodymyr Zelensky is set to meet with President Biden next month, the White House announced Wednesday."
-publishedDateTime: 2021-07-21T20:49:40Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hN0eY0h6bdo/ukrainian-president-to-visit-biden-in-august"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hN0eY0h6bdo/ukrainian-president-to-visit-biden-in-august"
-ampWebUrl: "https://www.foxnews.com/politics/ukrainian-president-to-visit-biden-in-august.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ukrainian-president-to-visit-biden-in-august.amp"
+title: "Ukraine’s Zelensky to discuss US security commitments at meeting with Biden, report says"
+excerpt: "Volodymyr Zelensky, the president of Ukraine, is set to meet with President Biden on Wednesday and will bring up the U.S. withdrawal from Afghanistan in the context of its own security assurances from Washington, a report said."
+publishedDateTime: 2021-09-01T03:51:20Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IC4fQ8Si3vo/ukraines-zelensky-to-discuss-us-security-commitments-at-meeting-with-biden-report-says"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IC4fQ8Si3vo/ukraines-zelensky-to-discuss-us-security-commitments-at-meeting-with-biden-report-says"
+ampWebUrl: "https://www.foxnews.com/politics/ukraines-zelensky-to-discuss-us-security-commitments-at-meeting-with-biden-report-says.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ukraines-zelensky-to-discuss-us-security-commitments-at-meeting-with-biden-report-says.amp"
 type: article
-quality: 175
-heat: 335
-published: true
+quality: 166
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -25,12 +25,28 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/216af4a8-262c-428f-8c3c-b0753edaf990/d499b3d7-637d-4397-b5ce-8e666de59a61/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
+  - title: "Ukrainian president Zelensky to visit Biden in August"
+    excerpt: "Ukrainian President Volodymyr Zelensky is set to meet with President Biden next month, the White House announced Wednesday."
+    publishedDateTime: 2021-07-21T20:49:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hN0eY0h6bdo/ukrainian-president-to-visit-biden-in-august"
+    ampWebUrl: "https://www.foxnews.com/politics/ukrainian-president-to-visit-biden-in-august.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ukrainian-president-to-visit-biden-in-august.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/216af4a8-262c-428f-8c3c-b0753edaf990/d499b3d7-637d-4397-b5ce-8e666de59a61/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden alleges worker shortages are due to low wages"
     excerpt: "President Biden alleged some working-class industries are facing hiring shortages because of insufficient wages during a town hall Wednesday night."
     publishedDateTime: 2021-07-22T01:48:04Z
@@ -78,22 +94,6 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ede4e79c-9545-4bed-a538-31fd1f806a23/4729bb20-8368-406d-bda0-577fe1b40608/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
-        isCached: true
-  - title: "Ukraine’s Zelensky to discuss US security commitments at meeting with Biden, report says"
-    excerpt: "Volodymyr Zelensky, the president of Ukraine, is set to meet with President Biden on Wednesday and will bring up the U.S. withdrawal from Afghanistan in the context of its own security assurances from Washington, a report said."
-    publishedDateTime: 2021-09-01T03:51:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IC4fQ8Si3vo/ukraines-zelensky-to-discuss-us-security-commitments-at-meeting-with-biden-report-says"
-    ampWebUrl: "https://www.foxnews.com/politics/ukraines-zelensky-to-discuss-us-security-commitments-at-meeting-with-biden-report-says.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ukraines-zelensky-to-discuss-us-security-commitments-at-meeting-with-biden-report-says.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "WSJ Opinion: Joe Biden Is Sinking"
     excerpt: "With the Democratic Party's relentless leftward lurch, how long will the president’s old pals, the moderate Democrats, continue with its 'progressi"
@@ -154,6 +154,6 @@ related:
         height: 500
         isCached: true
 
-secured: "z8ONXyN46sYB9GDOWtn1yqkbV+IxQGuIsxz5xERf64P1cvmKjA/UQ4G8MDj2QLh1cuIkRJNdTfs9EaQFbNn15R6Znv9JPZ/6ODXGZyXMO55BejVKrFEht40NVieiLUvmhb1PBPE4GMmDKDB7CreHptfzHMDKrlLDnzWAnJ/b3wsQCOiFueJgAsRAeATyBEFb45whXOUQSnyq7sCHNPTtOqhPAfXrVj/Vlg6NlQ3cRl6aVSYYWqkQbmPDA6luqlbTkZFSynolTCNbVA4XcvXkWs0bPYd8Wv66r2fxHJtY+VkcpZIgSCCpzlSbo4wsGqqYUqyDtfd0wnJZO6pyb0UEHVIGOm7fUyvrv1K6lkQHakw=;SOKawj5EAvUGm7w8P7J03A=="
+secured: "HJp6BUKPYeN/i++RZJWIB3xSzrodKs6lqi03ngP1u9EGGIDzqEynAz7FPO2A1EYmw73qCr/cbj5OgBX9tVarExGC+2cPRKifenSy1WmWOQzAaAxuBfoLCw/DPhqmrhA1LuCD6v2vPwdbONG64IKBtUxWyLI9ObIHrYKUw0dq4LC76M9N1BszwhQK4i7kwhri3P2HKMOUdlsZ0FhK9cOeMhVmcoAwTgllZcsUufpsy10uz+dZSNhuwQ4AWWmbu6q53wDPm4sz+Ns/pxE2Faxv3U7I+F4YKCqs4+s1V/kYGz3n9U6vVq5jastpDK8tJwXQt0AQfwzvdo2yZvVa748St08j+LHV+XCIT4L2L/Kf/2Q=;yfg1KpEY/aSxt9mSkCq+ow=="
 ---
 

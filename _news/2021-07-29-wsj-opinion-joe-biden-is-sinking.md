@@ -94,6 +94,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Ukraine’s Zelensky to discuss US security commitments at meeting with Biden, report says"
+    excerpt: "Volodymyr Zelensky, the president of Ukraine, is set to meet with President Biden on Wednesday and will bring up the U.S. withdrawal from Afghanistan in the context of its own security assurances from Washington, a report said."
+    publishedDateTime: 2021-09-01T03:51:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IC4fQ8Si3vo/ukraines-zelensky-to-discuss-us-security-commitments-at-meeting-with-biden-report-says"
+    ampWebUrl: "https://www.foxnews.com/politics/ukraines-zelensky-to-discuss-us-security-commitments-at-meeting-with-biden-report-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ukraines-zelensky-to-discuss-us-security-commitments-at-meeting-with-biden-report-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "President Biden: Communism Is A Universally Failed System"
     excerpt: "President Biden was asked to comment on his position on protests and unrest in Cuba and critics from the right who said he is soft on communism: NEW!Powerful statement from President Donald J. Trump on Biden's refusal to stand up to the Communist regime in Cuba\"Today’s Democrat Party is so far left they can’t even take a stand against violent Communism."
     publishedDateTime: 2021-07-15T22:22:00Z
