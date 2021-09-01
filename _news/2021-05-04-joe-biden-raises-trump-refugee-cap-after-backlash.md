@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-56975402.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp"
 type: article
 quality: 150
-heat: 3990
+heat: 4010
 published: true
 
 provider:
@@ -527,6 +527,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/23d741d558bb07927abb62b41d48d135465f1e69/0_316_5484_3290/master/5484.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=28ae12da48ce6d887527d03d78022852"
         width: 600
         height: 360
+        isCached: true
+  - title: "Post-Trump, Ukraine's leader to push Biden for US support"
+    excerpt: "The Ukrainian leader who found himself ensnarled in Donald Trump’s first impeachment is coming to Washington to see a new president"
+    publishedDateTime: 2021-09-01T04:18:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/post-trump-ukraines-leader-push-biden-us-support-79760535"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/post-trump-ukraines-leader-push-biden-us-support-79760535"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/post-trump-ukraines-leader-push-biden-us-support-79760535"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_50ab7a66ef344f6599b746191a820fa8_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Poll: More voters say Biden, not Trump, is responsible for border crisis"
     excerpt: "while 28 percent said former President Trump Donald Trump Biden should look to 'Ostpolitik' to negotiate with autocrats The Memo: Biden's bet on taxes Why some Republicans think vaccine passports ..."

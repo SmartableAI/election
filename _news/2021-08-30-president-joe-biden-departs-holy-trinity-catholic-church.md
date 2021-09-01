@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden Departs Holy Trinity Catholic Church"
-excerpt: "The view of the White House after President Joe Biden arrives back to the White House from Holy Trinity Catholic Church in the Georgetown neighborhood of Washington, DC on Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in ..."
+excerpt: "US President Joe Biden walks out of Holy Trinity Catholic Church after mass in the Georgetown neighborhood of Washington, DC on Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover,"
 publishedDateTime: 2021-08-29T22:47:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/5a62ace3eb872bbda6904e721e80e6ba/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/5a62ace3eb872bbda6904e721e80e6ba/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/0aa5f0085d74f7e3ec67bcdb81bd4836/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/0aa5f0085d74f7e3ec67bcdb81bd4836/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
 type: article
 quality: 55
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/5a62ace3eb872bbda6904e721e80e6ba/BIDEN-CHURCH.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/0aa5f0085d74f7e3ec67bcdb81bd4836/BIDEN-CHURCH.jpg"
     width: 650
-    height: 434
+    height: 433
     isCached: true
 
 related:
@@ -498,14 +498,14 @@ related:
   - title: "Afghanistan: Joe Biden defends US pull-out as Taliban claim victory"
     excerpt: "US President Joe Biden has defended his decision to withdraw US troops from Afghanistan - a move which led to Taliban militants returning to power. Staying longer was not an option, Mr Biden said in an address to the nation,"
     publishedDateTime: 2021-08-31T21:12:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-asia-58403735"
+    webUrl: "https://www.bbc.co.uk/news/world-asia-58403735?at_medium=RSS&at_campaign=KARANGA"
     type: article
     provider:
       name: BBC
       domain: bbc.co.uk
     quality: 55
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/10FD0/production/_120348596_hi069712049.jpg"
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/C8CD/production/_120350415_976_hi069712049.jpg"
         width: 1024
         height: 576
         isCached: true
@@ -580,6 +580,6 @@ related:
       domain: seattletimes.com
     quality: 34
 
-secured: "ft0ygY4wmEg9fBBodjf9epheBwj/ix0GgAvGasEs77Xz0lCKdoWK4qNLnUHAwLCkXYJ5xl2cN3lVeaF2t93meCnysF+2lVR22+Ho3sJdhui7w1J+XcXZpPdtcTusF34M+JlBi8ylRIp0gVBFyGdJzAGNgbymvfsgCVqLfQmWPQK6il/kYj00Jz6G+rfmaNuv6Gs9O73SOleTYQlzKeo+HKE4xNLLN/uS7U/E2sM5+YrvKIU1q5rxH0F6ROtVgRP5UEIkOA2a6Z8PoT9ReecX2CttOeyI2v3jjigiP/hjdB1srF30KTr/yzEE1ALurjqE5Tenl92XcJ0MOgVIKaPps4wNkBsl/flqzqx4MBQH3+8=;2TU+K4N1wsvtHAMXGlxgsA=="
+secured: "l6KIcsTz9otc71akAARJVcryjyjm4LqczaDQdMG7oxoGaspkZIq6BsmWkB/KNo1vAWp+q8kcZ+PI3ySBQBGiAUlCDWGBHv7yDoG5IP8/q1PFeirSVKTmPhxEC/NClcDyRuoa8LBiG+RJm9BzrhwkaJ/pnT3VpPuSUIVSCt9kc+vmdu3wc7K6vjyplYoN925r0z9gyh9UymeR4sSFzupQHM/YjglZURdSGhI0KZj38nzMmG6s9cQ5gITDPxdBZtLz8fs9JEsYNaDXzZObtSdDxNl1Z6MCgbM3O1KWgOR5nq9TX1b2mEY8YZkCQl9FRu+Z7Q5JbsnVdLJtgz2YzN71Xs6XoSrWYFU6td6rw3XgXT0=;YuEkBxECKdaK2eUpbrx4Dw=="
 ---
 

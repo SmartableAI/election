@@ -3,8 +3,8 @@ category: news
 title: "Afghanistan: Joe Biden defends US pull-out as Taliban claim victory"
 excerpt: "US President Joe Biden has defended his decision to withdraw US troops from Afghanistan - a move which led to Taliban militants returning to power. Staying longer was not an option, Mr Biden said in an address to the nation,"
 publishedDateTime: 2021-08-31T21:12:00Z
-originalUrl: "https://www.bbc.co.uk/news/world-asia-58403735"
-webUrl: "https://www.bbc.co.uk/news/world-asia-58403735"
+originalUrl: "https://www.bbc.co.uk/news/world-asia-58403735?at_medium=RSS&at_campaign=KARANGA"
+webUrl: "https://www.bbc.co.uk/news/world-asia-58403735?at_medium=RSS&at_campaign=KARANGA"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/10FD0/production/_120348596_hi069712049.jpg"
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/C8CD/production/_120350415_976_hi069712049.jpg"
     width: 1024
     height: 576
     isCached: true
@@ -482,18 +482,18 @@ related:
         height: 815
         isCached: true
   - title: "President Joe Biden Departs Holy Trinity Catholic Church"
-    excerpt: "The view of the White House after President Joe Biden arrives back to the White House from Holy Trinity Catholic Church in the Georgetown neighborhood of Washington, DC on Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in ..."
+    excerpt: "US President Joe Biden walks out of Holy Trinity Catholic Church after mass in the Georgetown neighborhood of Washington, DC on Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover,"
     publishedDateTime: 2021-08-29T22:47:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/5a62ace3eb872bbda6904e721e80e6ba/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/0aa5f0085d74f7e3ec67bcdb81bd4836/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/5a62ace3eb872bbda6904e721e80e6ba/BIDEN-CHURCH.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/0aa5f0085d74f7e3ec67bcdb81bd4836/BIDEN-CHURCH.jpg"
         width: 650
-        height: 434
+        height: 433
         isCached: true
   - title: "Joe Biden’s Jimmy Carter Moment"
     excerpt: "Never in my life have I witnessed American soldiers die the way 13 Marines and service members did last Thursday."
@@ -580,6 +580,6 @@ related:
       domain: seattletimes.com
     quality: 34
 
-secured: "pi3K4qogjEuquACygj7uBtKKlWpFojtPDX03T0kF5o4uK0qY65lDEC+Irl36SYddf11IObOWkIBvNm9+tNDpvDks8OS3yyBKnORgP+uj4oyXh6510uKzrHhxqUm3QoPEV1v0wDNIbsqEGUVpyW11JlYVHkNxuzj2SyK+R2TV0ctXUuz3jXTOSBevGWRk52yyezqlH0CwLz9/pxnAVl+Bf0qeA6n8LGdRR38/+nk6pCiH5sjBpH9TcMLSbCzCKndT6gTBq7ey980hMJzK7WOI4yT864urcHpr5ys4MNJ5Yf1lXW2DDqRi9x7lpXAWQ+RDpnbYhFbfZhW4H7R+AcEnXo45QgPDG6uw+RjnxvrOrMEYjR6xV1LZy+JslPKO7uKF9if2hZactiE2ss7lc4/DxZoOEs3UUY928KhNcK/2kLsjy86tTAqpuGIcnJfTiTqVqFMveBjL/AiekeN2lU4qBCE9V1ZcoPCJy8k5yssHpfee4rqrafZRPfiaHfTrcrDzGvQbffs7UyPkH6iZ6KMcKg==;jpsyEyG/8G5kqknKZO5hZA=="
+secured: "xOuKOCfj5i05oLHjGO2W6GfYltB1sEM6r317hYS9XaCJ/JGqAeqAIqvXFujoFkBGsU68ww13pomqRndXFwYR2yC/rSIiaSfUD+XVnAp2r+yiRxrzu1n9OWS7lH6YUXBJwmhw6pO1G58lUDFaB80qGAaxqFn2Hci36k0j9vtMerCnLzOZMw4eHop3wjq5HeAfJq82cEyOfAzZekYhyUjglvBSmZqK4S8+m6kCRV5Rblvnf057RQpFPm1Xbs0gQG4kpuaYYFN2muC+d1RXSFVZV4a/k3w9senspVQgaSOs5nqhjCBDGv0SrSorg8UchYFjJzVWLwr6zR59mr0wNQwXl5udW773F6GG8OGzVrpWG08=;yKFFZLEAhLJxlLN4SRz3vw=="
 ---
 

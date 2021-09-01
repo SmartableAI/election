@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden fires Trump-appointed head of Social Security Administration after the official refused to resign"
-excerpt: "President Joe Biden on Friday fired the commissioner of Social Security after the official refused to resign, and accepted the deputy commissioner’s resignation, the White House said."
-publishedDateTime: 2021-07-10T19:24:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-biden-fires-head-of-social-secuirty-20210709-lb3aad7nl5cb3lyjxdttm2qs6i-story.html"
-webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-biden-fires-head-of-social-secuirty-20210709-lb3aad7nl5cb3lyjxdttm2qs6i-story.html"
-ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-biden-fires-head-of-social-secuirty-20210709-lb3aad7nl5cb3lyjxdttm2qs6i-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-biden-fires-head-of-social-secuirty-20210709-lb3aad7nl5cb3lyjxdttm2qs6i-story.html?outputType=amp"
+title: "Post-Trump, Ukraine's leader to push Biden for US support"
+excerpt: "The Ukrainian leader who found himself ensnarled in Donald Trump’s first impeachment is coming to Washington to see a new president"
+publishedDateTime: 2021-09-01T04:18:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/post-trump-ukraines-leader-push-biden-us-support-79760535"
+webUrl: "https://abcnews.go.com/Politics/wireStory/post-trump-ukraines-leader-push-biden-us-support-79760535"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/post-trump-ukraines-leader-push-biden-us-support-79760535"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/post-trump-ukraines-leader-push-biden-us-support-79760535"
 type: article
-quality: 124
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/88FYzh7PS-itWMBiWSiagFfPoaY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TBZ6UVEMH4NXQLRXMNFIASLZEY.aspx"
-    width: 1200
-    height: 800
+  - url: "https://s.abcnews.com/images/Politics/WireAP_50ab7a66ef344f6599b746191a820fa8_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -542,22 +542,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/23d741d558bb07927abb62b41d48d135465f1e69/0_316_5484_3290/master/5484.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=28ae12da48ce6d887527d03d78022852"
         width: 600
         height: 360
-        isCached: true
-  - title: "Post-Trump, Ukraine's leader to push Biden for US support"
-    excerpt: "The Ukrainian leader who found himself ensnarled in Donald Trump’s first impeachment is coming to Washington to see a new president"
-    publishedDateTime: 2021-09-01T04:18:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/post-trump-ukraines-leader-push-biden-us-support-79760535"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/post-trump-ukraines-leader-push-biden-us-support-79760535"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/post-trump-ukraines-leader-push-biden-us-support-79760535"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_50ab7a66ef344f6599b746191a820fa8_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Poll: More voters say Biden, not Trump, is responsible for border crisis"
     excerpt: "while 28 percent said former President Trump Donald Trump Biden should look to 'Ostpolitik' to negotiate with autocrats The Memo: Biden's bet on taxes Why some Republicans think vaccine passports ..."
@@ -1562,6 +1546,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1786830/robin-bullock-joe-biden-president-sin.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Biden fires Trump-appointed head of Social Security Administration after the official refused to resign"
+    excerpt: "President Joe Biden on Friday fired the commissioner of Social Security after the official refused to resign, and accepted the deputy commissioner’s resignation, the White House said."
+    publishedDateTime: 2021-07-10T19:24:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-biden-fires-head-of-social-secuirty-20210709-lb3aad7nl5cb3lyjxdttm2qs6i-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-biden-fires-head-of-social-secuirty-20210709-lb3aad7nl5cb3lyjxdttm2qs6i-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-biden-fires-head-of-social-secuirty-20210709-lb3aad7nl5cb3lyjxdttm2qs6i-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 124
+    images:
+      - url: "https://www.chicagotribune.com/resizer/88FYzh7PS-itWMBiWSiagFfPoaY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TBZ6UVEMH4NXQLRXMNFIASLZEY.aspx"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Joe Biden Jimmy Carter Photo Leaves People Confused About How Tall They Are"
     excerpt: "The Carter Center shared the photo on Twitter and said: \"We're pleased to share this wonderful photo from the @POTUS and @FLOTUS visit to see the Carters in Plains, Ga.! Thank you President and Mrs. Biden!"
@@ -2904,6 +2904,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "7YCmqbkRk2oYIXO8DjzTKVjuM3MsyvYm7HgUtr6uslQ8sghVD+KOrt9Vm27Xgjvj0WoK3j4b8FNF4Lpp0vcAx1kibZta9KbxtzOMrI3vAP1PNzhOf8u/6Iezfp6+sGkovnrmIXlW85NZ3ZsZEIbZsPVIKuUazER4pO9LYzbxM+fxB1ONzHasSieMgK0r3B2aQr3EDi6Ew/o1NRvKtxV4U0m5KYahjm98DBiI2nTvsGjTIbFSPkVTHD+O8wQ/WX2oP5pwCVWSdDaqnNJYxFgH6jB83PF3HBC59N+9jhIKoArS+9II7ChrRyd+oHMBPAAqKkWolStyFqY1Kfh0YPyXAdKT2mdL+Hpjve8j/WtPCWkstZqLRFi1Hq0bOYqMlOQZMraMTl4c4rdy1NkPwwCxg/T2LewNFhYcH2rrYIUb9n0dLztGIwJe3J4YDD0ChheRUSALmpevz3uwqsIjdKFhcrvhPdENbla7dxrePaGczwWtj0WTAHKZccjwWM9dvmIrWlRTtGPbDcW8PAP/iNZjOA==;wdkyAh7/C+h83u2toOTwQw=="
+secured: "1LgdE5jO9BisRglyPzQtVswDarOhfI/By0klnUClOWQaqFk9rxw3NMEiu+gZHJh2qYyQnK3W0lp2ZmGLKzn59wfqYclWASSSQBfpSTelM7lcgYy4muRtuhzRsWbmZSq9fY+USTtTQqD9iEebus10CdqiCIATiJ7iSZQdLg4pBYtD1EyAxUjuCplkDVCvhI5jrkwhHfTASgHK2eC4mQLKiUXdBCOqGQzauP48dCDxEbeqKcnhaB6wfZEjx7PkytNywZYfxY98nbmFrDZaj5aEjIrpKtD63ZfkSEDhKsEmppucvJ+q+YvcMeMUa7yiL+sgyOl/adqmYu+fzksufkNzEJ+8qDmjqZbyDVajuSqBLSc=;DffMLJAUAkzq/2vm1KVLcA=="
 ---
 
