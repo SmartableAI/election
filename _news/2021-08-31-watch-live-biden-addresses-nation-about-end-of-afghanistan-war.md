@@ -1289,6 +1289,22 @@ related:
         width: 5472
         height: 3648
         isCached: true
+  - title: "'It was time to end this war.' Transcript of President Biden's remarks on ending the war in Afghanistan"
+    excerpt: "President Joe Biden on Tuesday addressed the end of the war in Afghanistan and the evacuation of Americans, Afghans and others."
+    publishedDateTime: 2021-08-31T23:57:00Z
+    webUrl: "https://www.hattiesburgamerican.com/story/news/politics/2021/08/31/transcript-what-biden-said-today-afghanistan/5672669001/"
+    ampWebUrl: "https://amp.hattiesburgamerican.com/amp/5672669001"
+    cdnAmpWebUrl: "https://amp-hattiesburgamerican-com.cdn.ampproject.org/c/s/amp.hattiesburgamerican.com/amp/5672669001"
+    type: article
+    provider:
+      name: Hattiesburg American
+      domain: hattiesburgamerican.com
+    quality: 59
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/31/USAT/57ab7c67-efed-49c9-8f1f-895602c6728e-Biden_lecturn.jpg?auto=webp&crop=5784,3254,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "President Joe Biden Makes Remarks on American Jobs Plan"
     excerpt: "President Joe Biden makes remarks during a meeting with with a bipartisan group of Members of Congress to discuss historic investments in the American Jobs Plan, in the Oval Office at the White House on Monday,"
     publishedDateTime: 2021-04-19T18:17:00Z
@@ -1592,6 +1608,20 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/65266a2d3617aa290690e24631d0b22f/BIDEN-AFGHANISTAN.jpg"
         width: 650
         height: 433
+        isCached: true
+  - title: "Rep. Joe Wilson calls on Biden to resign after Afghanistan withdrawal"
+    excerpt: "U.S. Rep. Joe Wilson on Tuesday called for the resignation of President Joe Biden and Vice President Kamala Harris, as well as the firing of three top administration officials: the"
+    publishedDateTime: 2021-08-31T22:12:00Z
+    webUrl: "https://www.postandcourier.com/aikenstandard/news/rep-joe-wilson-calls-on-biden-to-resign-after-afghanistan-withdrawal/article_8cb0a720-0aa8-11ec-8cea-a34dbadeafe3.html"
+    type: article
+    provider:
+      name: Post and Courier
+      domain: postandcourier.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/3/75/3750b0b6-0aaa-11ec-adf6-37f82eb88e39/612eac210ca24.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
         isCached: true
   - title: "Biden will face pressure from G7 to extend Afghanistan withdrawal deadline"
     excerpt: "By Kevin Liptak and Barbara Starr, CNN Leaders from the top foreign allies of the United States are planning to press President Joe Biden to extend the deadline for US troops to withdraw from Afghanistan during a Tuesday morning meeting,"

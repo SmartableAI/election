@@ -390,16 +390,16 @@ related:
         height: 400
         isCached: true
   - title: "President Joe Biden Arrives at Holy Trinity Catholic Church"
-    excerpt: "US President Joe Biden walks into Holy Trinity Catholic Church for mass in the Georgetown neighborhood of Washington, D.C., Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover, Delaware for 13 members of the US military ..."
+    excerpt: "US President Joe Biden walks into Holy Trinity Catholic Church for mass in the Georgetown neighborhood of Washington, D.C., Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover,"
     publishedDateTime: 2021-08-29T21:51:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/1a8879067d090ce29eee3c9f8a03d772/President-Joe-Biden-Arrives-at-Holy-Trinity-Catholic-Church/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/8f8abd0c6d217454099f8dbdc3134149/President-Joe-Biden-Arrives-at-Holy-Trinity-Catholic-Church/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/1a8879067d090ce29eee3c9f8a03d772/BIDEN-CHURCH.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/8f8abd0c6d217454099f8dbdc3134149/BIDEN-CHURCH.jpg"
         width: 650
         height: 433
         isCached: true
@@ -416,6 +416,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/7/bf/7bfb7acc-b50e-5f48-ab78-1609a1892f22/612e47db04442.image.jpg?crop=1765%2C993%2C0%2C90&resize=1120%2C630&order=crop%2Cresize"
         width: 1120
         height: 630
+        isCached: true
+  - title: "Brian Mast joins calls for Joe Biden to resign"
+    excerpt: "Brian Mast on Tuesday became the latest member of Florida’s Congressional Delegation to demand President Joe Biden resign. “President Biden doesn’t deserve to be commander-in-chief, but it’s not surprising that he,"
+    publishedDateTime: 2021-08-31T22:14:00Z
+    webUrl: "https://floridapolitics.com/archives/454405-brian-mast-joins-calls-for-joe-biden-to-resign/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/08/Brian-Mast-scaled-e1629202188541.jpg"
+        width: 640
+        height: 428
         isCached: true
   - title: "Joe Biden spoke to the G7 a sum total of 7 minutes. Pure propaganda, photo-op."
     excerpt: "Joe Biden acted like his G7 meeting was a success, but in reality it left every other world leader feeling disappointed in America."

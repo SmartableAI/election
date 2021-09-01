@@ -3,18 +3,18 @@ category: news
 title: "Judge tosses Trump rollback of clean water safeguards"
 excerpt: "A federal judge has thrown out a Trump-era rule that ended federal protections for hundreds of thousands of small streams, wetlands and other waterways and left them vulnerable to pollution from nearby development."
 publishedDateTime: 2021-08-31T21:36:00Z
-originalUrl: "https://www.nhregister.com/news/article/Judge-tosses-Trump-rollback-of-clean-water-16426305.php"
-webUrl: "https://www.nhregister.com/news/article/Judge-tosses-Trump-rollback-of-clean-water-16426305.php"
-ampWebUrl: "https://www.nhregister.com/news/amp/Judge-tosses-Trump-rollback-of-clean-water-16426305.php"
-cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Judge-tosses-Trump-rollback-of-clean-water-16426305.php"
+originalUrl: "https://www.thehour.com/news/article/Judge-tosses-Trump-rollback-of-clean-water-16426305.php"
+webUrl: "https://www.thehour.com/news/article/Judge-tosses-Trump-rollback-of-clean-water-16426305.php"
+ampWebUrl: "https://www.thehour.com/news/amp/Judge-tosses-Trump-rollback-of-clean-water-16426305.php"
+cdnAmpWebUrl: "https://www-thehour-com.cdn.ampproject.org/c/s/www.thehour.com/news/amp/Judge-tosses-Trump-rollback-of-clean-water-16426305.php"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: New Haven Register
-  domain: nhregister.com
+  name: The Hour
+  domain: thehour.com
 
 topics:
   - Election
@@ -196,6 +196,22 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "Republican Donors Show Disinterest In Trump 2024 Campaign, Focus On Midterms"
+    excerpt: "Top Republican Party donors have pushed back on fundraising for former President Donald Trump’s potential 2024 campaign and are instead focused on the 2022 midterm elections, CNBC reported Tuesday. Almost immediately after leaving the White House in January,"
+    publishedDateTime: 2021-08-31T21:38:00Z
+    webUrl: "https://www.ibtimes.com/republican-donors-show-disinterest-trump-2024-campaign-focus-midterms-3285139"
+    ampWebUrl: "https://www.ibtimes.com/republican-donors-show-disinterest-trump-2024-campaign-focus-midterms-3285139?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/republican-donors-show-disinterest-trump-2024-campaign-focus-midterms-3285139?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 72
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/former-us-president-donald-trump-reportedly-told-his.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "GOP Senate candidates take page from Trump playbook as they fight for populist title"
     excerpt: "Republicans in Ohio's Senate race are running on the message that propelled former President Donald Trump to office."
     publishedDateTime: 2021-08-23T10:26:00Z
@@ -280,6 +296,6 @@ related:
         height: 490
         isCached: true
 
-secured: "rQirM267L2s4rpBY7WwxtglgQd+wTBlpEJ5SFx9b/24E3ShxFDpb4Y3Yg9P8YHIuY5ojefcl1n48GFZ+A/O8IVUlOlzQik0Nob3+8NL4cbxLkkNuc19ZCQE5/rchq5YMdd4MSKMI9vflssywLUSmH1GOep8D4ij0Giy7rsiecO0iPLYrzhSnkKa7JIjPg2fji8Y1MPE1ZdlrRFUb5LY+gSQFC8oOV+wt1rir63CCcLPxjwzpAiilmSWlPMRFp1ygSrCYYVoOZ3RGb23IpQug8NS5ik7IkEnA65/yq7QLfjifkHlu5UZ3A09B8yxWxdyo7gQKyAG2XBlgEQajbkbHRpOvMtQ/WP24N1ZHzzxud+Q=;U/nBrAZocafiY1Ofyv7Pcg=="
+secured: "+/9Mgu8lo1eZseaDox36P4562Jwy5NFqeJQZ6OGORgBxgwDwtAenvsGgivsHcMEZ0mspzd50t7q+qf5TAFiueW4fvNKzLxZOQyOFav6y+zgHTiGYasM+m/1DxOBQID340Ah7g0asMrrwohr+5mi8wjhz4r8tI9VjCpO6fO4r27CNM3hcwqPr5VhIuaG5gcGd7LABEEuGLBbNwJxqe+JCmn4q1KVTotqV8YreFMdFQq7uwe6VgqzSudH9alaQNamwazq8dL4hoZypCFfUiGBdri8U2OsMDyPJLoQwrM2xqdwxZ3X6ewYJNfNVB+y2P0jqgRo2r+aubv0SU+6jlPT3FsVll4xPJz9JxmmCTrEu4C0=;vn6X7dJLTk+m9Na8ML4F5A=="
 ---
 

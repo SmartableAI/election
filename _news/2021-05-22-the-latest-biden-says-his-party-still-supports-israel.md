@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-eu-hails-gaza-cea
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-eu-hails-gaza-cease-fire-calls-for-peace-talks/2021/05/21/12fb6d5c-ba17-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -162,6 +162,22 @@ related:
     provider:
       name: seattlepi.com
       domain: seattlepi.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "The Latest: Biden defends handling of US's Afghan withdrawal"
+    excerpt: "President Joe Biden is defending his handling of the U.S. withdrawal from Afghanistan, including the frantic final evacuation from Kabul airport. In remarks at the White House on Tuesday, Biden said the U."
+    publishedDateTime: 2021-08-31T23:58:00Z
+    webUrl: "https://www.nhregister.com/news/article/The-Latest-Japan-to-relocate-its-Kabul-embassy-16424432.php"
+    ampWebUrl: "https://www.nhregister.com/news/amp/The-Latest-Japan-to-relocate-its-Kabul-embassy-16424432.php"
+    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/The-Latest-Japan-to-relocate-its-Kabul-embassy-16424432.php"
+    type: article
+    provider:
+      name: New Haven Register
+      domain: nhregister.com
     quality: 75
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"

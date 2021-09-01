@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/26/politics/republicans-kabul-biden/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/26/politics/republicans-kabul-biden/index.html"
 type: article
 quality: 175
-heat: 375
+heat: 415
 published: true
 
 provider:
@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: Why Democrats can't run away from Joe Biden"
+    excerpt: "There's a lot of talk in Democratic circles these days about vulnerable 2022 candidates beginning to distance themselves from President Joe Biden amid his faltering poll numbers on both how he has handled Afghanistan and his overall job performance.\n    \n"
+    publishedDateTime: 2021-08-31T22:32:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yZrYdFQ3jAk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/31/politics/biden-democrats-midterms-afghanistan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/31/politics/biden-democrats-midterms-afghanistan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210826184555-biden-speech-afghanistan-attack-08-26-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden braces for fallout as his dire warnings of a Kabul terror attack come true"
     excerpt: "Terrorist explosions outside Kabul's international airport on Thursday that wounded Americans came after days of public and private warnings from President Joe Biden of a potential attack that could disrupt the massive airlift effort underway there.\n    \n"
     publishedDateTime: 2021-08-26T17:21:12Z
@@ -108,6 +124,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210821080912-01-joe-biden-08-20-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Vulnerable Democrats seek distance from Biden on Afghanistan ahead of contentious House debate  "
+    excerpt: "House and Senate Democrats are watching President Joe Biden's handling of the withdrawal from Afghanistan with unease, distancing themselves with some Americans left behind in the war-torn country and as Republicans plot to make the issue a major focus heading into the 2022 midterms.\n    \n"
+    publishedDateTime: 2021-08-31T22:35:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y7_05t9VkHk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/31/politics/vulnerable-democrats-reaction-biden-afghanistan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/31/politics/vulnerable-democrats-reaction-biden-afghanistan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210302170410-sen-maggie-hassan-10-senate-seats-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

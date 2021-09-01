@@ -3,18 +3,22 @@ category: news
 title: "Fact check: Quote about Afghanistan, Democrats in Washington falsely attributed to Donald Trump"
 excerpt: "Donald Trump did not say the situation in Afghanistan is a distraction from the Democrats in Washington. The quote is being falsely attributed to him."
 publishedDateTime: 2021-08-27T02:32:00Z
-originalUrl: "https://www.freep.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
-webUrl: "https://www.freep.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
-ampWebUrl: "https://amp.freep.com/amp/5586860001"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5586860001"
+originalUrl: "https://www.usatoday.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
+webUrl: "https://www.usatoday.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
+ampWebUrl: "https://amp.usatoday.com/amp/5586860001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5586860001"
 type: article
-quality: 63
+quality: 113
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -200,6 +204,6 @@ related:
         height: 854
         isCached: true
 
-secured: "Tt9RbilZja9891z8lupHQodW/KDBQ3HOY7UlQooy6VB3o3pw+xFvjoa0eduqXlhPdPu5dDE27W7+juD+Gig1YudjFlmXPK/ul6fwcLKeFVEz/Lmt4d1nFFBqnj/PN7cSRNIEdrnJJbXypTpi5DDgTT4n3+PpRHm2u176xam2s59AML83GrTCVMrgO/MUzmj+Y4xy9WhfBFxSA/QXt+6MXuUoGBMqr7p0UO0KKKnqS5YKLZcmHfnuaXBVqxrqdr68yE/J7Yw8o+e4qcMt9/JwT9TC51mHGp+BzF6CmcJmlmibpuL/uMJTIWTUagf5FkZb/ppJIFOkG2Y7FNxKFK1v7Z3qjHCrCyJnwaYTTSBYPG8=;JP1NuFMZ1ieTcXKksMxUjg=="
+secured: "IdCXMjcIZ06i0nQ+vMbSkrVsRy/g3JtO1/rWMiQpeZytqgNjI4aR0trxqFyNTwVXRt+8booOXpzmMy9C2eVqt1cgfiWRRJEGfqixE94b66TnRwi3/ubzOfLNx5VSF1zLQigciXps0Ic+uWfmVJ9aEV1Oab+ZQ1mnDGdchmNpMMK46szFS54R+Er96rTUMc9PMww9IVat/umd4MSW9DCGMklcq4In0wJsa3U1zwoQoDBRzAzjb7mPrR4mlC3YZ0MhOX2cn5KDcT0kQVBAlYyzE9ffMnYqTVswzVgvan0c3posky29zSNtLXmCsIAXGJcSo67FKvXIEisIiYi+6fqOarZ+I3OpDpJdCYe03AWeG/4=;7fAa9Pvb2/jUE25pKnPVuA=="
 ---
 

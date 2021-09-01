@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "FACT FOCUS: Trump, others wrong on US gear left with Taliban"
+    excerpt: "The Taliban have seized both political power and significant U.S.-supplied firepower in their whirlwind takeover of Afghanistan, recovering guns, ammunition, helicopters and other modern military equipment from Afghan forces who surrendered it."
+    publishedDateTime: 2021-08-31T23:25:00Z
+    webUrl: "https://www.greenwichtime.com/news/article/FACT-FOCUS-Trump-others-wrong-on-US-gear-left-16426444.php"
+    ampWebUrl: "https://www.greenwichtime.com/news/amp/FACT-FOCUS-Trump-others-wrong-on-US-gear-left-16426444.php"
+    cdnAmpWebUrl: "https://www-greenwichtime-com.cdn.ampproject.org/c/s/www.greenwichtime.com/news/amp/FACT-FOCUS-Trump-others-wrong-on-US-gear-left-16426444.php"
+    type: article
+    provider:
+      name: Greenwich Time
+      domain: greenwichtime.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "VwPBjjRdZ/7W8sVe66JJoLEP1WtohhHq9/dEGeb7H0VvFRtoS4YEQWmIiAtUM60TL+HgY2g1u2ljKRXSrUKhviaNcJdpOSU/QY8JK5P2tlsgNzTIwrNeNdRrcT1pLAsNJzUafU4JOgh/J33uBoZx3nZIiPqYGJOzp4M4lLorWXDeYX5Pwkm208YhQQwGn/1km5p6oNTCiyZ9qWUUd1KgNA2a2nsRriHbyd2V9YqvQYn4FQTwaKUnQAGApOwHZyWtRTFZpK0Gaf7sybB2SzA88RjuJdQ9Uxc0tLX0anqIoHSa5src6JaoAsrEn57kiqC+M4EYQM1zniITbaptSjpNwnhdBsPuo/MP1BS2RZkEFns=;iu8bXTZMFh76zBsK2431og=="
 ---

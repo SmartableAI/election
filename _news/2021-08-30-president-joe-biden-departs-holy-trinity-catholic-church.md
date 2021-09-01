@@ -73,6 +73,22 @@ related:
         width: 2500
         height: 1875
         isCached: true
+  - title: "Biden and Trump administrations didn't miss ISIS-K threat – they ignored it, experts say"
+    excerpt: "ISIS-K barely came up publicly before last week’s attacks because it was an inconvenient factor that would complicate U.S. withdrawal, experts say."
+    publishedDateTime: 2021-08-31T22:34:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/08/31/biden-and-trump-administrations-ignored-isis-k-threat-afghanistan/5623483001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5623483001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5623483001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/28/USAT/3a4d2cbf-e416-4fe0-94c4-676d13436475-AFP_AFP_9LT6HF.jpg?auto=webp&crop=4497,2530,x0,y229&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Donald Trump Gave Joe Biden 'Hospital Pass' on Afghanistan, Says Tony Blair's Defense Secretary"
     excerpt: "As Tony Blair criticizes Joe Biden's withdrawal of U.S. troops from Afghanistan, his former U.K. defense secretary Geoff Hoon defended the American president."
     publishedDateTime: 2021-08-23T11:36:00Z
@@ -120,20 +136,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/c179f21a5b99ff34b46423da1d81ad5fdc95e9d5/0_400_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=257ba2b47f7c59f920a4f825abf8d840"
         width: 600
         height: 360
-        isCached: true
-  - title: "Afghanistan: Joe Biden defends US pull-out as Taliban claim victory"
-    excerpt: "US President Joe Biden has defended his decision to withdraw US troops from Afghanistan - a move which led to Taliban militants returning to power. Staying longer was not an option, Mr Biden said in an address to the nation,"
-    publishedDateTime: 2021-08-31T21:12:00Z
-    webUrl: "https://www.bbc.com/news/world-asia-58403735"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 105
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/10FD0/production/_120348596_hi069712049.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Trump calls for Biden apology, Pentagon brass to resign over Afghanistan"
     excerpt: "Former President Donald Trump on Tuesday demanded his successor apologize for the disastrous U.S. exit from Afghanistan."
@@ -493,6 +495,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Afghanistan: Joe Biden defends US pull-out as Taliban claim victory"
+    excerpt: "US President Joe Biden has defended his decision to withdraw US troops from Afghanistan - a move which led to Taliban militants returning to power. Staying longer was not an option, Mr Biden said in an address to the nation,"
+    publishedDateTime: 2021-08-31T21:12:00Z
+    webUrl: "https://www.bbc.co.uk/news/world-asia-58403735"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/10FD0/production/_120348596_hi069712049.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Boris Johnson will urge Joe Biden to delay withdrawal of US forces from Afghanistan as thousands try to escape Taliban"
     excerpt: "BORIS Johnson will urge Joe Biden to delay the withdrawal of US forces from Afghanistan as thousands try to escape the Taliban. Mr Johnson will use a G7 meeting on Tuesday to ask the US"
     publishedDateTime: 2021-08-23T18:03:00Z
@@ -564,6 +580,6 @@ related:
       domain: seattletimes.com
     quality: 34
 
-secured: "sUgQ4Kv8BQDj54dsFzvzbo5ipujN8Ei7US223BFYK99eBTy9f6o1P+nccDrJ+Uo4kEIvriMjpbI4GE1W7qUQ7ExMDo/S0jI3UMAU4ZsTDdFs4wnMNkZX+tVqWu0lYuQWHb+aBhsmD195EdJlVOUx9DCKvYBJURgY1Vrbh5JifdHNelLyOKPfwF9utEm44akcOQMGJZF5cAseSFTbTeKaxat/6lmjccrZNyA9szppPMCaCzmSJV7qdsovzapgJGacY7I/QMA2yxoR3FuDO5nsXAAP8UkF1iDcRCMaOQIRskL/uDHZuYtORcRT42DAQBH0hLLPHst6THmBpbJc8/TtmOloFddjDM5peieuknQ4xjk=;S+ot1OARKRbop7f8zcoE5Q=="
+secured: "j/9pYO13149yTzNyyeMtw18G9NZXU0cSUYD7/uYaZo4JeJMlS3BfSES4ZEeScroewDnjJmdGrE1kSKy9KWcbW4+3n8n26Y+Dx1dPNFQRKlcj7JMXvkEVAcYJS28cNIVrGYITaDAKVX7XjChqOfsjiD/ekcm0umBQVV9AgZbRRj7J5f/mknNQ8zcWESJnWoXRGLiIGqhslORtiw3dhPm8RvpU//hA0zrmF9eePME/uT4tpucuuFQMrol+dmNMAs8ATdeYVMARZ2LSZ2cJcKEqka23pLzkixiY/sjx4vZE/C4yTQzdX5w1dktO+sxH22H0poLRKneHPJWucDaY/WJwibq1/6oEG3rqfHTPcq0qHCFdKyNv3yh5gQHoQ8h5H2NUv2RWhUAWrvZUkrAT4zntQ6s/F2AO+sLD3hb0dvTVEekcBKlHeZ/+kQXVOx8keLm3GJeVWSS0NyRuOtzoL6OHMVGhPUf6M1i/n9VAJEBwOFF49hz+IMv12nx+WlbpHcPdmMknjJmjzurBK65X3GpWkw==;Y4RGoq+6JIbfbxDFD3tN0w=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/john-bolton-impossible-to-rewrite-hi
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/john-bolton-impossible-to-rewrite-history-on-mike-pompeo-taliban-deal-2021-8?amp"
 type: article
 quality: 86
-heat: 106
+heat: 126
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "FACT FOCUS: Trump, others wrong on US gear left with Taliban"
+    excerpt: "The Taliban have seized both political power and significant U.S.-supplied firepower in their whirlwind takeover of Afghanistan, recovering guns, ammunition, helicopters and other modern military equipment from Afghan forces who surrendered it."
+    publishedDateTime: 2021-08-31T23:25:00Z
+    webUrl: "https://www.greenwichtime.com/news/article/FACT-FOCUS-Trump-others-wrong-on-US-gear-left-16426444.php"
+    ampWebUrl: "https://www.greenwichtime.com/news/amp/FACT-FOCUS-Trump-others-wrong-on-US-gear-left-16426444.php"
+    cdnAmpWebUrl: "https://www-greenwichtime-com.cdn.ampproject.org/c/s/www.greenwichtime.com/news/amp/FACT-FOCUS-Trump-others-wrong-on-US-gear-left-16426444.php"
+    type: article
+    provider:
+      name: Greenwich Time
+      domain: greenwichtime.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Donald Trump's recounting of his 2020 conversation with a Taliban leader is something else"
     excerpt: "It came after Hewitt asked Trump to describe his conversation with Mullah Abdul Ghani Baradar, a Taliban co-founder and deputy leader, during his 2020 negotiations with the group to remove American troops from Afghanistan."
     publishedDateTime: 2021-08-29T01:13:00Z

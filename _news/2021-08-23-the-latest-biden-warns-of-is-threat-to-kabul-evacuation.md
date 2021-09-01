@@ -164,6 +164,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "The Latest: Biden defends handling of US's Afghan withdrawal"
+    excerpt: "President Joe Biden is defending his handling of the U.S. withdrawal from Afghanistan, including the frantic final evacuation from Kabul airport. In remarks at the White House on Tuesday, Biden said the U."
+    publishedDateTime: 2021-08-31T23:58:00Z
+    webUrl: "https://www.nhregister.com/news/article/The-Latest-Japan-to-relocate-its-Kabul-embassy-16424432.php"
+    ampWebUrl: "https://www.nhregister.com/news/amp/The-Latest-Japan-to-relocate-its-Kabul-embassy-16424432.php"
+    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/The-Latest-Japan-to-relocate-its-Kabul-embassy-16424432.php"
+    type: article
+    provider:
+      name: New Haven Register
+      domain: nhregister.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "The Latest: Biden briefed on the Kabul situation, IS threat"
     excerpt: "A military aircraft carrying 15 Romanian citizens and four Bulgarians who were initially evacuated from Kabul to Islamabad has landed safely in Romania."
     publishedDateTime: 2021-08-21T23:37:00Z

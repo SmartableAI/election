@@ -3,20 +3,16 @@ category: news
 title: "Afghanistan: Joe Biden defends US pull-out as Taliban claim victory"
 excerpt: "US President Joe Biden has defended his decision to withdraw US troops from Afghanistan - a move which led to Taliban militants returning to power. Staying longer was not an option, Mr Biden said in an address to the nation,"
 publishedDateTime: 2021-08-31T21:12:00Z
-originalUrl: "https://www.bbc.com/news/world-asia-58403735"
-webUrl: "https://www.bbc.com/news/world-asia-58403735"
+originalUrl: "https://www.bbc.co.uk/news/world-asia-58403735"
+webUrl: "https://www.bbc.co.uk/news/world-asia-58403735"
 type: article
-quality: 105
+quality: 55
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - Election
@@ -76,6 +72,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1883234/joe-biden-approval-donald-trump-afghanistan.jpg"
         width: 2500
         height: 1875
+        isCached: true
+  - title: "Biden and Trump administrations didn't miss ISIS-K threat – they ignored it, experts say"
+    excerpt: "ISIS-K barely came up publicly before last week’s attacks because it was an inconvenient factor that would complicate U.S. withdrawal, experts say."
+    publishedDateTime: 2021-08-31T22:34:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/08/31/biden-and-trump-administrations-ignored-isis-k-threat-afghanistan/5623483001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5623483001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5623483001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/28/USAT/3a4d2cbf-e416-4fe0-94c4-676d13436475-AFP_AFP_9LT6HF.jpg?auto=webp&crop=4497,2530,x0,y229&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Donald Trump Gave Joe Biden 'Hospital Pass' on Afghanistan, Says Tony Blair's Defense Secretary"
     excerpt: "As Tony Blair criticizes Joe Biden's withdrawal of U.S. troops from Afghanistan, his former U.K. defense secretary Geoff Hoon defended the American president."
@@ -568,6 +580,6 @@ related:
       domain: seattletimes.com
     quality: 34
 
-secured: "40cYBeLmZKbFBfg7tiGAStUd61xDFQz4u7MVqm96EmtaPHW0Tfm20I4tCrykRmjplNu5emD8UhYRtdweZ1v/usI18H09YpDBSDKmL1o7RE0/zeuN/JH4g44tBU2xD1WgR1iPR50DPvkpVQ0uQTbP+IUU8uv7nR8E8q/WnJ5VktkeYf6BZvJUzIQCcqoQoaLS9bU26/K+z/zg0NqWGAmArHG0QBYCjulb+1hP4Q4cE6cOYUFizUVGx4e9qpcrCHSzBK3o+FATg4X2BLV3+Fm4FIr+2dfFx5NurOLfYb3glwxdQRyM2iUEqBDcbZV0+MaGonosp84afnfOa/rgWFufFRSAZuUjFqlzi9QWAcKTrBI=;+OGEVH/B31jYyXPgRpCmiA=="
+secured: "XYodCLUYv9NFId6OqXA2qIEFfr/oXujLckDfFo7KrfWy/4dyHZizfEk9ZZqRi7QiS3ysoY6IkxOCsl5VhQgEezN7G7ACh3M8XNOQf/tUinI3+TS9eWqikuYp4s3vyqIewCh4/WqtN4zL8c9bV8MQIAZxkwlOTk/8h7I5YCXJQ4fGKwKSMOeM760JTJnuqExwtk8Aie1P8doWbQDJb4415y2nWvPSw6mVAuEfVh8hOWaQgHH94OtB60NoQ9oYZv89RlFBKLG1iZz41/5Dj/4EozffSbUGqQ3m6v7e8x7ALCt8HTdgle8thJ9rtQOczrMGi0P8xhYOt9dgKnI2SfVch801517xcv2Q36BnvEpbm/g=;gWAKGUbUxjoAycSSCbFzEw=="
 ---
 
