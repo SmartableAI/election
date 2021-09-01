@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden Departs Holy Trinity Catholic Church"
-excerpt: "The view of the White House after President Joe Biden arrives back to the White House from Holy Trinity Catholic Church in the Georgetown neighborhood of Washington, DC on Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in ..."
+excerpt: "US President Joe Biden walks out of Holy Trinity Catholic Church after mass in the Georgetown neighborhood of Washington, DC on Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover,"
 publishedDateTime: 2021-08-29T22:47:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/5a62ace3eb872bbda6904e721e80e6ba/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/5a62ace3eb872bbda6904e721e80e6ba/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/0aa5f0085d74f7e3ec67bcdb81bd4836/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/0aa5f0085d74f7e3ec67bcdb81bd4836/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
 type: article
 quality: 55
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/5a62ace3eb872bbda6904e721e80e6ba/BIDEN-CHURCH.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/0aa5f0085d74f7e3ec67bcdb81bd4836/BIDEN-CHURCH.jpg"
     width: 650
-    height: 434
+    height: 433
     isCached: true
 
 related:
@@ -56,22 +56,6 @@ related:
       - url: "https://i.insider.com/6125bffe493203001845c0bf?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Biden administration extends Trump-era ban on US passport use for North Korea travel"
-    excerpt: "The Biden administration has extended a Trump-era ban on using U.S. passports for travel to, from or through North Korea."
-    publishedDateTime: 2021-09-01T19:00:00Z
-    webUrl: "https://www.usatoday.com/story/travel/news/2021/09/01/travel-ban-extended-us-passport-north-korea/5685081001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5685081001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5685081001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 133
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/09/01/USAT/8c3d2948-c217-4406-b7bc-0ee3683b2c90-GettyImages-1097857302.jpeg?auto=webp&crop=7814,4395,x0,y551&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "As U.S. Leaves Afghanistan, How Biden's 7-Month Approval Rating Stacks Up Against Trump's"
     excerpt: "President Joe Biden lost his majority approval rating as Americans left Afghanistan, giving rise to the Taliban's takeover of the country."
@@ -230,6 +214,22 @@ related:
       - url: "https://i.insider.com/6128a62712b9cc0019631372?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Biden administration extends Trump-era ban on US passport use for North Korea travel"
+    excerpt: "The Biden administration has extended a Trump-era ban on using U.S. passports for travel to, from or through North Korea."
+    publishedDateTime: 2021-09-01T21:26:00Z
+    webUrl: "https://www.app.com/story/travel/news/2021/09/01/travel-ban-extended-us-passport-north-korea/5685081001/"
+    ampWebUrl: "https://amp.app.com/amp/5685081001"
+    cdnAmpWebUrl: "https://amp-app-com.cdn.ampproject.org/c/s/amp.app.com/amp/5685081001"
+    type: article
+    provider:
+      name: app.com
+      domain: app.com
+    quality: 83
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/09/01/USAT/8c3d2948-c217-4406-b7bc-0ee3683b2c90-GettyImages-1097857302.jpeg?auto=webp&crop=7814,4395,x0,y551&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "'100% chance' Trump will run for President in 2024 and wallop Joe Biden, says Republican"
     excerpt: "THERE is a \"100 percent\" chance that Donald Trump will run for US President in 2024, according to a Republican state representative from Florida."
@@ -568,6 +568,6 @@ related:
       domain: seattletimes.com
     quality: 34
 
-secured: "airKkRdanydvDqiapNvwDYKWJx7uQiRmDa20m0b2OV28UDpfLd6z5axoYhcRZdAUxFpFasJ4+VzsueMpU7ot/E1NXRe/N99LsBLwER6r7WKlA59mK4/2ueat2T5QrFe+ontjw3mTxsPfkauqEonzRooIlVZFt95Q8RJhbUxOJ/M73y0dRbvwxvfq7A1ich7Vk+qJW+Zqv3dGNkBozMf8CFsxiU34uiPjOHh7FMf6hLB0YmIBU+g3BKFhWocB/wCGheY1FW8AaewLLF6r2sftrVfEO20uevMZ15fRgk6rNlAi7wRC/oeds4u/KDs6BOw5fAFO5tFnA66+bNPC+m8lOMZzz+6AInXYm/vVH/hMTEKu8Fx9b8y/f0WFeSxl4IWW5Zg0YTqGnuLDR2Y2HombTs2i6des9mLMgJ5ElGKAAbUGwuZ42dWlMfqlj4eQuevtIWKQyrl0PGS+0PAc/0jdx5zFbUrhWVJ1WNBxtwyqr4x5mLw6FloY1kGmoRajBX2JGhdEHEjpbaBbSKL4Vp6ANA==;e/KKoBolCVzWFV7EElOlgw=="
+secured: "/YKknCodHwJyfKd7MNGqhOnQvzt+fhJpcs8BtcN9aG2g6RA/Co9Uxkw/wKYKglj66hQbqXy5LzY+4Xba2S7zhVNPmzF/OmcItY46OxZ7Gt4gAyUk6FWhjYN0VgPcTMdLrNN5mzwOHvo0HIzmgCBjzaox9eXE0c5HcYH0as/pfDJ7Cd+qu4EqirHUKgYwnbA+/H9U0GBwuZtDJ9L8WDO8BL1kKzMjxrGaMWFudK7xqiCF5tQRWdifLtrcGh8Uy9jsA9P8ZLrUmiZvh1lOkTFAaurK6EyGQTpTSvRr/Iv1QBseUiMy4kV4L0NrmpAQMBmyHvCT9KKQxUaERS0XWQSvoSwLprCrW5Hho1vVH5ldZuY=;I/SX+MU8VcQVW8PazKrXaQ=="
 ---
 

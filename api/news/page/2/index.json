@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-31-death-sentence-donald-trump-insists-biden-gave-taliban-kill-list-despite-blinken-denial.md",
+      "title": "'Death Sentence': Donald Trump Insists Biden Gave Taliban 'Kill List' Despite Blinken Denial",
+      "excerpt": "Republican former President Donald Trump has said that the administration of Democratic President Joe Biden has handed down a \"death sentence\" by giving the Taliban a list of all Americans and U.S. allies who remain in Afghanistan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/death-sentence-donald-trump-insists-biden-gave-taliban-kill-list-despite-blinken-denial-1624395",
+      "originalUrl": "https://www.newsweek.com/death-sentence-donald-trump-insists-biden-gave-taliban-kill-list-despite-blinken-denial-1624395",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 879,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1883318/trump-afghanistan-taliban-list-death-sentence.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/death-sentence-donald-trump-insists-biden-gave-taliban-kill-list-despite-blinken-denial-1624395?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/death-sentence-donald-trump-insists-biden-gave-taliban-kill-list-despite-blinken-denial-1624395?amp=1",
+      "publishedDateTime": "2021-08-30T18:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-31-float-with-trump-towing-caged-clintons-obama-biden-sanders-crashes-amish-parade.md",
+      "title": "Float with Trump towing caged Clintons, Obama, Biden, Sanders crashes Amish parade",
+      "excerpt": "Organizers of Yoder Heritage Day and Carriage Crossing restaurant disavow float and claim not to know who was behind it",
+      "sourceUrl": null,
+      "webUrl": "https://www.kansas.com/news/politics-government/article253851843.html",
+      "originalUrl": "https://www.kansas.com/news/politics-government/article253851843.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998037001/b4b4d1de-761b-4a6b-9391-e003e5f44b22/7160e791-51b3-4239-8ab8-fa2030ad6e78/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.kansas.com/news/politics-government/article253851843.html",
+      "cdnAmpWebUrl": "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/politics-government/article253851843.html",
+      "publishedDateTime": "2021-08-30T14:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wichita Eagle",
+        "domain": "kansas.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-31-us-sen-mike-rounds-isnt-convinced-donald-trump-would-win-gop-nomination-in-2024-election.md",
       "title": "US Sen. Mike Rounds isn't convinced Donald Trump would win GOP nomination in 2024 election",
       "excerpt": "South Dakota U.S. Sen. Mike Rounds, in discussion with Sioux Falls Rotarians, speculated what might lie ahead for the Republican Party for 2024.",
@@ -411,7 +507,7 @@
       "originalUrl": "https://www.houstonchronicle.com/politics/texas/article/Fact-Check-Joe-Biden-said-that-al-Qaida-is-16416922.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 365,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -605,7 +701,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 155,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -690,62 +786,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-29-jake-sullivan-biden-will-stop-at-nothing-to-get-justice-for-fallen-service-members-after-isis-k-attack.md",
-      "title": "Jake Sullivan: Biden 'will stop at nothing' to get justice for fallen service members after ISIS-K attack",
-      "excerpt": "National Security Advisor Jake Sullivan said that President Biden will ensure that the U.S. exacts retribution against the terror group known as ISIS-K following a deadly suicide bombing at Afghanistan's Hamid Karzai International Airport in Kabul, while noting that there remains a risk of more attacks.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VYcdbF1Kf7Y/jake-sullivan-biden-stop-at-nothing-isis-k-kabul-afghanistan-airport-attack",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VYcdbF1Kf7Y/jake-sullivan-biden-stop-at-nothing-isis-k-kabul-afghanistan-airport-attack",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/jake-sullivan-biden-stop-at-nothing-isis-k-kabul-afghanistan-airport-attack.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jake-sullivan-biden-stop-at-nothing-isis-k-kabul-afghanistan-airport-attack.amp",
-      "publishedDateTime": "2021-08-29T07:25:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     },
     {
@@ -1186,62 +1226,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-biden-meets-with-israeli-prime-minister-after-deadly-kabul-bombing.md",
-      "title": "Biden meets with Israeli prime minister after deadly Kabul bombing",
-      "excerpt": "President Biden sat down with the newly installed Israeli Prime Minister Naftali Bennett Friday, roughly 24 hours after the deadly suicide bombing in Kabul.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4W3al9aPvbY/biden-israeli-prime-minister-kabul-bombing",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4W3al9aPvbY/biden-israeli-prime-minister-kabul-bombing",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c013c6db-e7ea-41bb-93f5-be557d7321c8/209d8f8e-15b3-41c1-99db-334ce2c78307/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-israeli-prime-minister-kabul-bombing.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-israeli-prime-minister-kabul-bombing.amp",
-      "publishedDateTime": "2021-08-27T10:32:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden holds virtual meeting on Hurricane Ida in Washington"
 excerpt: "U.S. President Joe Biden arrives at virtual meeting with FEMA Administrator Deanne Criswell and governors and mayors from States and cities impacted by Hurricane Ida from South Court Auditorium at the White House in Washington,"
 publishedDateTime: 2021-08-30T18:20:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/7bc60d4b3b428f3368383e499ee493d0/Joe-Biden-holds-virtual-meeting-on-Hurricane-Ida-in-Washington/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/7bc60d4b3b428f3368383e499ee493d0/Joe-Biden-holds-virtual-meeting-on-Hurricane-Ida-in-Washington/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/4b1ba91c074fd7dcfd6ffb79ad161d7e/Joe-Biden-holds-virtual-meeting-on-Hurricane-Ida-in-Washington/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/4b1ba91c074fd7dcfd6ffb79ad161d7e/Joe-Biden-holds-virtual-meeting-on-Hurricane-Ida-in-Washington/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/7bc60d4b3b428f3368383e499ee493d0/BIDEN-HURRICANE-IDA.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/4b1ba91c074fd7dcfd6ffb79ad161d7e/BIDEN-HURRICANE-IDA.jpg"
     width: 650
     height: 433
     isCached: true
@@ -120,6 +120,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "90Cxnx7C4vzokJAHmR4wEvqK692N6M/XhF+56GMSuXoLD5K7uQ7X3rLI0zXiDHbZRYVpmSS0GAXKwbChadQjfHWu4CiZdzUa1O0H89QsVz8LRDcseaSufkSEvezdRO0ys9Wm7sj+gmAd50slXMLjqqgkIcZC8ubnJ43cg0GZE9A+LXFHva/oPDe1Zyh4/+Vs6adKyd5cZDdoK3exXHizqdX6SSVZZlVGvlFMbXZX5Mlt7vUlcI4PZYEiP0KzZJhxab/iaXd+ntZRNbpq3c4TKwpQPF3N/YcDurkn9ZZwmdWDAhNnqh/4eImd5qJEYVZE4/SCHl008H0qV1S3PNj0D/+ly8EaKLBm67Doa4IF+50=;hvYDxVTLKaXKldynYqiWpA=="
+secured: "WIEy1wTvDL/KB9nRtiuFNGp0Z3Ysm/rCex8FTtZzZSF0sngC+sBaoDZkWsBBmA4JQlyIYvkf6cvjVzCBmh7ft7APRqDmSYCkLudo/XmPbZPL986BG3zWOJoe5AY7NmnX6dv1NRJQhrmP2dPXNb1T1nM98e+e0miEBhgc9zltgjhW9IYuC2UivVggsuie/my6TDUzipkoRoAMM0ce8APpRI8eM9pQ5J7uQI83yAiNZha2fR5H63CJf6IFuVyzYiT7uTE3mI4E6PX/uv5JsllvLQo92I9XBb0QCniqsc0J3ke+gnGZ8GjveFyl0HLD/a7khMmo4bywOLuaaXcV9Dzo16RaTfbw6jf30n9uSUfbpo4=;kj/CYSl+fXmj4j5i81Iajw=="
 ---
 

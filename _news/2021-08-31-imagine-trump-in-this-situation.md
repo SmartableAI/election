@@ -51,22 +51,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Biden administration extends Trump-era ban on US passport use for North Korea travel"
-    excerpt: "The Biden administration has extended a Trump-era ban on using U.S. passports for travel to, from or through North Korea."
-    publishedDateTime: 2021-09-01T19:00:00Z
-    webUrl: "https://www.usatoday.com/story/travel/news/2021/09/01/travel-ban-extended-us-passport-north-korea/5685081001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5685081001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5685081001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 133
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/09/01/USAT/8c3d2948-c217-4406-b7bc-0ee3683b2c90-GettyImages-1097857302.jpeg?auto=webp&crop=7814,4395,x0,y551&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "As U.S. Leaves Afghanistan, How Biden's 7-Month Approval Rating Stacks Up Against Trump's"
     excerpt: "President Joe Biden lost his majority approval rating as Americans left Afghanistan, giving rise to the Taliban's takeover of the country."
     publishedDateTime: 2021-08-30T20:27:00Z
@@ -224,6 +208,22 @@ related:
       - url: "https://i.insider.com/6128a62712b9cc0019631372?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Biden administration extends Trump-era ban on US passport use for North Korea travel"
+    excerpt: "The Biden administration has extended a Trump-era ban on using U.S. passports for travel to, from or through North Korea."
+    publishedDateTime: 2021-09-01T21:26:00Z
+    webUrl: "https://www.app.com/story/travel/news/2021/09/01/travel-ban-extended-us-passport-north-korea/5685081001/"
+    ampWebUrl: "https://amp.app.com/amp/5685081001"
+    cdnAmpWebUrl: "https://amp-app-com.cdn.ampproject.org/c/s/amp.app.com/amp/5685081001"
+    type: article
+    provider:
+      name: app.com
+      domain: app.com
+    quality: 83
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/09/01/USAT/8c3d2948-c217-4406-b7bc-0ee3683b2c90-GettyImages-1097857302.jpeg?auto=webp&crop=7814,4395,x0,y551&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "'100% chance' Trump will run for President in 2024 and wallop Joe Biden, says Republican"
     excerpt: "THERE is a \"100 percent\" chance that Donald Trump will run for US President in 2024, according to a Republican state representative from Florida."
@@ -492,18 +492,18 @@ related:
         height: 815
         isCached: true
   - title: "President Joe Biden Departs Holy Trinity Catholic Church"
-    excerpt: "The view of the White House after President Joe Biden arrives back to the White House from Holy Trinity Catholic Church in the Georgetown neighborhood of Washington, DC on Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in ..."
+    excerpt: "US President Joe Biden walks out of Holy Trinity Catholic Church after mass in the Georgetown neighborhood of Washington, DC on Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover,"
     publishedDateTime: 2021-08-29T22:47:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/5a62ace3eb872bbda6904e721e80e6ba/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/0aa5f0085d74f7e3ec67bcdb81bd4836/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/5a62ace3eb872bbda6904e721e80e6ba/BIDEN-CHURCH.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/0aa5f0085d74f7e3ec67bcdb81bd4836/BIDEN-CHURCH.jpg"
         width: 650
-        height: 434
+        height: 433
         isCached: true
   - title: "Boris Johnson will urge Joe Biden to delay withdrawal of US forces from Afghanistan as thousands try to escape Taliban"
     excerpt: "BORIS Johnson will urge Joe Biden to delay the withdrawal of US forces from Afghanistan as thousands try to escape the Taliban. Mr Johnson will use a G7 meeting on Tuesday to ask the US"

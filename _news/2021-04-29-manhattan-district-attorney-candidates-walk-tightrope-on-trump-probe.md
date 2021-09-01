@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/manhattan-district-attorney-candida
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/manhattan-district-attorney-candidates-walk-tightrope-on-trump-probe-11619704972"
 type: article
 quality: 135
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     quality: 135
     images:
       - url: "https://images.wsj.net/im-343902/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Organization Employees to Testify Before Manhattan Grand Jury"
+    excerpt: "A senior finance official at the organization and its director of security will appear before a Manhattan grand jury this week, as a criminal probe into former President Donald Trump’s business affairs continues."
+    publishedDateTime: 2021-09-01T19:20:00Z
+    webUrl: "https://www.wsj.com/articles/trump-organization-employees-to-testify-before-manhattan-grand-jury-11630527630"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-organization-employees-to-testify-before-manhattan-grand-jury-11630527630"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-organization-employees-to-testify-before-manhattan-grand-jury-11630527630"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-394606/social"
         width: 1280
         height: 640
         isCached: true

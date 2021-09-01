@@ -75,6 +75,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Parnell gets Trump endorsement in Pennsylvania Senate race"
+    excerpt: "Former President Donald Trump on Wednesday gave an endorsement in Pennsylvania's crowded U.S. Senate field, backing Republican Sean Parnell in what is expected to be one of the nation’s most competitive Senate contests in next year’s election."
+    publishedDateTime: 2021-09-01T20:58:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/Parnell-gets-Trump-endorsement-in-Pennsylvania-16429091.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Parnell-gets-Trump-endorsement-in-Pennsylvania-16429091.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Parnell-gets-Trump-endorsement-in-Pennsylvania-16429091.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 105
   - title: "Donald Trump spins tales of rigged election, hints at 2024 comeback"
     excerpt: "Donald Trump swept into Dallas on Sunday spinning tall tales about the 2020 election and the crowd that mobbed the U.S. Capitol on Jan. 6 hoping to keep him in the White House despite his defeat. “No evidence?"
     publishedDateTime: 2021-07-12T13:41:00Z

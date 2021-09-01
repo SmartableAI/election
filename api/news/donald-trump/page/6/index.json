@@ -2,58 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-07-16-inside-donald-trump-jrs-97-million-florida-mansion-with-a-12-acre-backyard.md",
-      "title": "Inside Donald Trump Jr's $9.7 Million Florida Mansion With A 1.2 Acre Backyard",
-      "excerpt": "Donald Trump Jr. and his girlfriend, Kimberly Guilfoyle, bought a new $9.7 million house in Jupiter, Florida that has a massive 1.2-acre backyard with a swimming pool.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/inside-donald-trump-jrs-97-million-florida-mansion-12-acre-backyard-3253012",
-      "originalUrl": "https://www.ibtimes.com/inside-donald-trump-jrs-97-million-florida-mansion-12-acre-backyard-3253012",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/04/donald-trump-jr-kimberly-guilfoyle.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/inside-donald-trump-jrs-97-million-florida-mansion-12-acre-backyard-3253012?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/inside-donald-trump-jrs-97-million-florida-mansion-12-acre-backyard-3253012?amp=1",
-      "publishedDateTime": "2021-07-15T22:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-07-16-megan-fox-rips-burn-a-witch-at-the-stake-cancel-culture-over-her-trump-comments.md",
       "title": "Megan Fox rips ‘burn-a-witch-at-the-stake’ cancel culture over her Trump comments",
       "excerpt": "Uhmmm … I do not align myself with any political party or individual politicians,” the Megan Fox wrote in an all-caps message on her Instagram stories addressing her attackers.",
@@ -476,7 +424,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2021/07/14/attorney-general-bill-barr-trump-pennsylvania-election-fraud/7968006002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 237,
+      "heat": 257,
       "tags": null,
       "images": [
         {
@@ -1531,6 +1479,63 @@
         "Election",
         "Joe Biden",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-the-rebranding-of-trump-country.md",
+      "title": "The Rebranding of ‘Trump Country’",
+      "excerpt": "The population is fleeing, jobs are disappearing and coal really isn’t coming back. West Virginia’s boldest plan to reverse the slide is bribing white-collar workers to move from out of state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/magazine/2021/07/09/west-virginia-economy-paid-remote-work-498238",
+      "originalUrl": "https://www.politico.com/news/magazine/2021/07/09/west-virginia-economy-paid-remote-work-498238",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/1d/94/ae211dc14744bf9dde718ba3af5a/thompson-mylan-52-2000-cms.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/magazine/2021/07/09/west-virginia-economy-paid-remote-work-498238",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2021/07/09/west-virginia-economy-paid-remote-work-498238",
+      "publishedDateTime": "2021-07-09T01:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     }
   ],

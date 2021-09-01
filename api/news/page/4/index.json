@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-26-beto-orourke-pushes-joe-biden-to-help-pass-federal-voting-bill.md",
+      "title": "Beto O'Rourke pushes Joe Biden to help pass federal voting bill",
+      "excerpt": "Former Congressman Beto O’Rourke is using his political platform to turn up the heat on President Joe Biden on voting rights legislation that is unlikely to pass the U.S. Senate, laying the fate of the legislation squarely at Biden’s feet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/politics/texas/article/Beto-O-Rourke-pushes-Joe-Biden-to-help-pass-16411342.php",
+      "originalUrl": "https://www.houstonchronicle.com/politics/texas/article/Beto-O-Rourke-pushes-Joe-Biden-to-help-pass-16411342.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 665,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/21/46/51/21391940/3/400x0.jpg",
+          "width": 400,
+          "height": 266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.houstonchronicle.com/politics/texas/amp/Beto-O-Rourke-pushes-Joe-Biden-to-help-pass-16411342.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Beto-O-Rourke-pushes-Joe-Biden-to-help-pass-16411342.php",
+      "publishedDateTime": "2021-08-25T10:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-biden-ally-claims-trump-greater-threat-to-us-than-al-qaeda.md",
       "title": "Biden ally claims Trump greater 'threat' to US than al Qaeda",
       "excerpt": "A Democratic insider and vocal ally of President Biden claimed last week that former President Trump and his “Trumpist” supporters are a bigger threat to the United States than the Taliban and al Qaeda fighters.",
@@ -166,63 +218,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-25-a-top-pennsylvania-republican-reboots-audit-of-2020-vote-removes-trump-ally-as-chair.md",
-      "title": "A top Pennsylvania Republican reboots 'audit' of 2020 vote, removes Trump ally as chair",
-      "excerpt": "A dispute spilled into public view late last week as some Pennsylvania Republicans seek to further investigate the November election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/elections/pennsylvania-republican-senator-pledges-audit-2020-vote-results-n1277551",
-      "originalUrl": "https://www.nbcnews.com/politics/elections/pennsylvania-republican-senator-pledges-audit-2020-vote-results-n1277551",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_14/3462921/210408-ballots-usa-mb-1010.jpg",
-          "width": 4973,
-          "height": 3315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1277551",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1277551",
-      "publishedDateTime": "2021-08-25T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-08-25-with-biden-poll-numbers-plunging-democrats-worry-afghan-exit-may-impact-next-years-elections.md",
       "title": "With Biden poll numbers plunging, Democrats worry Afghan exit may impact next year's elections",
       "excerpt": "The rushed U.S. evacuation in Afghanistan appears to be a key contributing factor in the plunge in President Biden's approval rating in new polls. Some Democrats are worried the political fallout could impair their prospects in the 2022 midterms.",
@@ -235,7 +230,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 518,
+      "heat": 618,
       "tags": null,
       "images": [
         {

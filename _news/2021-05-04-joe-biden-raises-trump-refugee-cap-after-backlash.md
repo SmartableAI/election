@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-56975402.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp"
 type: article
 quality: 150
-heat: 4010
+heat: 4030
 published: true
 
 provider:
@@ -2260,6 +2260,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GZPDBGYIWNBH3BLQX4LOLG5CJA.jpg"
         width: 5297
         height: 3531
+        isCached: true
+  - title: "Post-Trump, Ukraine's leader to push Biden for US support"
+    excerpt: "The Ukrainian leader who found himself ensnarled in Donald Trump’s first impeachment finally gets his long-sought Oval Office meeting Wednesday with a new U.S. president, seeking increased military aid and backing for his country’s bid for NATO membership."
+    publishedDateTime: 2021-09-01T21:58:00Z
+    webUrl: "https://www.lmtonline.com/news/article/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
+    ampWebUrl: "https://www.lmtonline.com/news/amp/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
+    cdnAmpWebUrl: "https://www-lmtonline-com.cdn.ampproject.org/c/s/www.lmtonline.com/news/amp/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
+    type: article
+    provider:
+      name: Laredo Morning Times
+      domain: lmtonline.com
+    quality: 90
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Biden administration considers reinstating car regulations slashed by Trump"
     excerpt: "The National Highway Administration is considering reinstating regulations slashed in the last days of the Trump administration."

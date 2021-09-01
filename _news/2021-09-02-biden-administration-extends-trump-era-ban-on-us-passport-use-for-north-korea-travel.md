@@ -2,23 +2,19 @@
 category: news
 title: "Biden administration extends Trump-era ban on US passport use for North Korea travel"
 excerpt: "The Biden administration has extended a Trump-era ban on using U.S. passports for travel to, from or through North Korea."
-publishedDateTime: 2021-09-01T19:00:00Z
-originalUrl: "https://www.usatoday.com/story/travel/news/2021/09/01/travel-ban-extended-us-passport-north-korea/5685081001/"
-webUrl: "https://www.usatoday.com/story/travel/news/2021/09/01/travel-ban-extended-us-passport-north-korea/5685081001/"
-ampWebUrl: "https://amp.usatoday.com/amp/5685081001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5685081001"
+publishedDateTime: 2021-09-01T21:26:00Z
+originalUrl: "https://www.app.com/story/travel/news/2021/09/01/travel-ban-extended-us-passport-north-korea/5685081001/"
+webUrl: "https://www.app.com/story/travel/news/2021/09/01/travel-ban-extended-us-passport-north-korea/5685081001/"
+ampWebUrl: "https://amp.app.com/amp/5685081001"
+cdnAmpWebUrl: "https://amp-app-com.cdn.ampproject.org/c/s/amp.app.com/amp/5685081001"
 type: article
-quality: 133
+quality: 83
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: app.com
+  domain: app.com
 
 topics:
   - Election
@@ -488,18 +484,18 @@ related:
         height: 815
         isCached: true
   - title: "President Joe Biden Departs Holy Trinity Catholic Church"
-    excerpt: "The view of the White House after President Joe Biden arrives back to the White House from Holy Trinity Catholic Church in the Georgetown neighborhood of Washington, DC on Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in ..."
+    excerpt: "US President Joe Biden walks out of Holy Trinity Catholic Church after mass in the Georgetown neighborhood of Washington, DC on Sunday, August 29, 2021. President Biden earlier attended a dignified transfer in Dover,"
     publishedDateTime: 2021-08-29T22:47:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/5a62ace3eb872bbda6904e721e80e6ba/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/0aa5f0085d74f7e3ec67bcdb81bd4836/President-Joe-Biden-Departs-Holy-Trinity-Catholic-Church/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/5a62ace3eb872bbda6904e721e80e6ba/BIDEN-CHURCH.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/0aa5f0085d74f7e3ec67bcdb81bd4836/BIDEN-CHURCH.jpg"
         width: 650
-        height: 434
+        height: 433
         isCached: true
   - title: "Boris Johnson will urge Joe Biden to delay withdrawal of US forces from Afghanistan as thousands try to escape Taliban"
     excerpt: "BORIS Johnson will urge Joe Biden to delay the withdrawal of US forces from Afghanistan as thousands try to escape the Taliban. Mr Johnson will use a G7 meeting on Tuesday to ask the US"
@@ -572,6 +568,6 @@ related:
       domain: seattletimes.com
     quality: 34
 
-secured: "4rl96EyaMvKLc9Zg8fg8Xl61sqoothMm9HiFHLtyRYzflEFhISCRefLhPsTGRlFaCXi6UWIEjemZN0vg+lp+GTmL2HtC+4lFNSkV19Bmc7JeFEzDMh/KaO11ftNp7b0rid3kHTyClJ+TMMD0D5BHLVU2whoLGiFZJLcDs23tVCMATFSt39Bfo8rhx20yJ7Y/hqEMCV4dUxwuOkkn9dqI7VRPpUcT6w2LKwzCaWeemWADTXjyISPgkTcuBLaei1Dw1Nx0Uqt4pmKJO63tfADjitQthqdDytexSbZz8JP30gv9JtHQ1qg7IQevjUYyB0qrPerpcfwdxzJtFcMivPgcaJ+3YDFWO63BqdV8b7kI9rc=;mjbU5COJRcooj54783qtqQ=="
+secured: "4H8pybsP190fOfNcRllXB6ZNm8bPfzqduL+KzFd4gaoA1cxHseM8rmXFd42Wo967S21g+lRIsrRby1x66NCvL/ZiazGKBAjqZ+SC3lcs40M+mpAODBGgLbaGzUmJK7wlHgWoYPuS5g8SN0c3kgRRTKrxIhob/FwZ79pouIljsp/kMfB9Py+t3GCHycFAl5TIXM5VmA2e0SA5AwtT7UkmPR8QHP5UTzfUFsOQkv/5yERnQsP27M5APlxNTWtUsOsbSfUwDQwGL0Rg/fexC40DdAlREdwuYA55M6dKFhEebWz6KKt9rASLUzbKcLD7GGedixqDvb9ObD+uq7GPkH/qoqPVo9bBCjKrPPBP3w1ehLY=;VpkP+OUKX5fuSJAnUWw3qA=="
 ---
 

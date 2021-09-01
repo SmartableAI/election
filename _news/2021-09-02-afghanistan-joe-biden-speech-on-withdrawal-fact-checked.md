@@ -3,8 +3,8 @@ category: news
 title: "Afghanistan: Joe Biden speech on withdrawal fact-checked"
 excerpt: "In a televised address following the final departure of US troops from Afghanistan, President Joe Biden made a series of assertions about US policy in the country. We've fact-checked some of his claims,"
 publishedDateTime: 2021-09-01T18:07:00Z
-originalUrl: "https://www.bbc.co.uk/news/58412530?at_medium=RSS&at_campaign=KARANGA"
-webUrl: "https://www.bbc.co.uk/news/58412530?at_medium=RSS&at_campaign=KARANGA"
+originalUrl: "https://www.bbc.co.uk/news/58412530"
+webUrl: "https://www.bbc.co.uk/news/58412530"
 ampWebUrl: "https://www.bbc.co.uk/news/58412530.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/58412530.amp"
 type: article
@@ -1838,6 +1838,6 @@ related:
       domain: usnews.com
     quality: 29
 
-secured: "abgiu1K+2rutjbmuB7No6RMMS1Nz6Wp9h+HDtgDbmJmfHAdF7PKj2e6jiG80jqI3gOHRUQPqkkwsPNLad5TZxMB+pubc2SfZ0f/5vPa/xxKKTze8tZo+5wR+PWu2NutNg47iEqLsjqJovKBGbCkr+iwTkdUcQz/AN0bcaUUDhDlWW1BbsE4qhP9Wcz3atTsVE2z+zyU9bUVlc1cNgOb5qTCbLjiHCK6RFl9ApGKsatK9NraGRPr2ZBLmpm9iTOe8MzfbjOC84HaTjI3sS+jHlMLBGFlUbY/h9Jofqqlef1GEJqU2br65dELE5tMtASHjmp55dkz/gSf+xmW/ld5kmwvz/z75jjkrMUGQVF71BLQ=;Qjo7MtY3mxiWskAUySffqA=="
+secured: "lwBH8jQPfgMTLxX73oYpGMq0JkAF2dfA64Mfni1oaAgqYA7IqGOcuDO3hB+NmNsQm7FeXeVl7cI0Mknb7Egk3zETgj2Y2CFFy26PBU1JXE4CkUc0qaikhx9mykVhTiODvKpwLIWz00WWx9NbOgQ16VPDIIsrUllURU91Qpf1nmgETSQOWU03ayfcRV06WApkJ1+qTecaj59uT0OZuXjBKVrN64srQZxOyT9P/YJeJmfch8YmChJRJJQcbe2buvprwHStW/HbRzjFSjS8a0imVcI7K1YZXnDbULKpVh9mc68q0E1tDOVYm3WWubiq/Bfky2BuyR7N4MAv8SFs1NDCd/03rzcS5ZqKACezkU+ivg8=;gwQLWAn8CMDsiSi+wI7CWw=="
 ---
 

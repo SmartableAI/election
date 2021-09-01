@@ -64,6 +64,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump Organization Employees to Testify Before Manhattan Grand Jury"
+    excerpt: "A senior finance official at the organization and its director of security will appear before a Manhattan grand jury this week, as a criminal probe into former President Donald Trump’s business affairs continues."
+    publishedDateTime: 2021-09-01T19:20:00Z
+    webUrl: "https://www.wsj.com/articles/trump-organization-employees-to-testify-before-manhattan-grand-jury-11630527630"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-organization-employees-to-testify-before-manhattan-grand-jury-11630527630"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-organization-employees-to-testify-before-manhattan-grand-jury-11630527630"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-394606/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "HxdsZvOLcHSJcxipk1nkXbUUMKCn8VHRvClv/4ug8pbDc+MyRHt7Px27ZjgCm7pJSIwIPQntaSheEFW5cMOHgYdHPfLn58iGTQGtK7xk62dVycucYsziy0Dc2QGbwZcMIICaxwsNBjdmXW2v7tp49FlgL8FJMJlB4qn+M9yeU1ZH4fH+SH8SKb2Nt39g9QCgbDmV5BrRj6xm5IeLKNZJUo+6IiVu7ZUMmd/hJPcKUg/UKQ3U1bqQElr8t3Or5Hs4PvIpEjnRr8URRrg7+qIPaiDYcI3MJ7VfUFlMX6f8YU2p/x76+M6shtwkDUgovHPJvqPPK/wxzJ+h8UuvJXlwuSYaTvyl45V+wXumSqlD90vg6wHGaSYkn0Ei+Fpq+Gln59Kw9Gapja5NEAhxcGKIaYZqPCeDJ5zZRakcxtjn2VLouMqhSoIFsjzOWkPtVlr2mV9uU0jnketN3rr+DXkhkFydmLM6/iiKJQI2xcwLu1x7iMSmPFHDCuNF5wSdqWt3ZGSTcVOpDKzyQg7ILZQEXg==;aIfKMkpHKuat7Rm8xfalKQ=="
 ---

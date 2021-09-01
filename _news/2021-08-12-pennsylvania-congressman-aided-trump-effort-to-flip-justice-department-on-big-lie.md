@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/12/politics/scott-perry-justice-depa
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/12/politics/scott-perry-justice-department-big-lie/index.html"
 type: article
 quality: 169
-heat: 229
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Interviews with former Justice Department officials provide new details on Trump efforts to undermine election results "
-    excerpt: "Two top former Justice Department officials provided interviews to the Senate Judiciary Committee and provided detailed accounts of a tumultuous period in late December and early January during which a senior Justice Department lawyer sought to deploy the department's resources in support of false voting"
-    publishedDateTime: 2021-08-07T23:45:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/II2thVfyS1U/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/07/politics/jeffrey-clark-richard-donoghue-jeffrey-rosen-justice-department-trump-election-results/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/07/politics/jeffrey-clark-richard-donoghue-jeffrey-rosen-justice-department-trump-election-results/index.html"
+  - title: "Trump endorses Parnell in Pennsylvania Senate race"
+    excerpt: "Former President Donald Trump waded into Pennsylvania's US Senate race on Wednesday, endorsing Sean Parnell, an Army veteran and former congressional candidate, in the competitive Republican primary.\n    \n"
+    publishedDateTime: 2021-09-01T21:21:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LdhKidPhmKY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/01/politics/trump-endorses-pennsylvania-senate-sean-parnell/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/01/politics/trump-endorses-pennsylvania-senate-sean-parnell/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 166
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210805190917-jeffrey-clark-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210901170126-sean-parnell-file-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -78,6 +78,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2021_13/3461502/210401-pa-senate-race-malcolm-kenyatta-john-fetterman-split-2x1-se-550p_6f448da845633a2d4d658d16296c5987.jpg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "A top Pennsylvania Republican reboots 'audit' of 2020 vote, removes Trump ally as chair"
+    excerpt: "A dispute spilled into public view late last week as some Pennsylvania Republicans seek to further investigate the November election."
+    publishedDateTime: 2021-08-25T11:23:00Z
+    webUrl: "https://www.nbcnews.com/politics/elections/pennsylvania-republican-senator-pledges-audit-2020-vote-results-n1277551"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1277551"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1277551"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_14/3462921/210408-ballots-usa-mb-1010.jpg"
+        width: 4973
+        height: 3315
         isCached: true
 
 secured: "9tvWcbZJ/0b8Q7jKnioKaoCfYvo1aEXuVaR8KVjIZTlFLtoRbGQP/BEorU+lvHNhpRQjgNvPfWtV7WLoboPIpDNlOT6WPxvuVJHEAFIGB7wwcitQELNJTFoV3+JOz4b5xyZc+OVHrfSSF4kFmb+sUltYoQacZe+1el7IJk6HbOIF5mWEn7FpT9p19v4sMNIpqza4FRp3Nq6R107QhNqjZGUgJrPA3iVSzAwZVYDJqKi+DEJCjcPH5Y6HomAIDr+qCEqZ8QhDDqWJTbgxnebkmK4KSJjRbgaeMv33HHl68FndBt0+8BQA5ZaT+agkNdnRaurNE78n1RUrbzomcantwKNDUuQuVx0eCsJ7zNop+tg=;t7CjGzUebzQz2mM/6ztwnw=="

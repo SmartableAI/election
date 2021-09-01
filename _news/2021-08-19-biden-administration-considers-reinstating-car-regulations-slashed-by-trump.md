@@ -2272,6 +2272,22 @@ related:
         width: 5297
         height: 3531
         isCached: true
+  - title: "Post-Trump, Ukraine's leader to push Biden for US support"
+    excerpt: "The Ukrainian leader who found himself ensnarled in Donald Trump’s first impeachment finally gets his long-sought Oval Office meeting Wednesday with a new U.S. president, seeking increased military aid and backing for his country’s bid for NATO membership."
+    publishedDateTime: 2021-09-01T21:58:00Z
+    webUrl: "https://www.lmtonline.com/news/article/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
+    ampWebUrl: "https://www.lmtonline.com/news/amp/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
+    cdnAmpWebUrl: "https://www-lmtonline-com.cdn.ampproject.org/c/s/www.lmtonline.com/news/amp/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
+    type: article
+    provider:
+      name: Laredo Morning Times
+      domain: lmtonline.com
+    quality: 90
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "N.J. hospitals getting extra $150M as Biden administration reverses Trump actions"
     excerpt: "The Biden administration reversed two administrative actions under the Trump administration that penalized New Jersey’s hospitals."
     publishedDateTime: 2021-08-27T00:28:00Z

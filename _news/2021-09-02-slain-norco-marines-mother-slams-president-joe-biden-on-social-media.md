@@ -3,25 +3,25 @@ category: news
 title: "Slain Norco Marine’s mother slams President Joe Biden on social media"
 excerpt: "The mother of a Norco Marine killed in Afghanistan has blasted President Joe Biden on social media, saying the president rolled his eyes when meeting with families of slain service members and that her son’s blood is on his hands."
 publishedDateTime: 2021-09-01T19:39:00Z
-originalUrl: "https://www.dailynews.com/2021/09/01/slain-norco-marines-mother-slams-president-joe-biden-on-social-media/"
-webUrl: "https://www.dailynews.com/2021/09/01/slain-norco-marines-mother-slams-president-joe-biden-on-social-media/"
-ampWebUrl: "https://www.dailynews.com/2021/09/01/slain-norco-marines-mother-slams-president-joe-biden-on-social-media/amp/"
-cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/09/01/slain-norco-marines-mother-slams-president-joe-biden-on-social-media/amp/"
+originalUrl: "https://www.sbsun.com/2021/09/01/slain-norco-marines-mother-slams-president-joe-biden-on-social-media/"
+webUrl: "https://www.sbsun.com/2021/09/01/slain-norco-marines-mother-slams-president-joe-biden-on-social-media/"
+ampWebUrl: "https://www.sbsun.com/2021/09/01/slain-norco-marines-mother-slams-president-joe-biden-on-social-media/amp/"
+cdnAmpWebUrl: "https://www-sbsun-com.cdn.ampproject.org/c/s/www.sbsun.com/2021/09/01/slain-norco-marines-mother-slams-president-joe-biden-on-social-media/amp/"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Los Angeles Daily News
-  domain: dailynews.com
+  name: The San Bernardino Sun
+  domain: sbsun.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.dailynews.com/wp-content/uploads/2021/09/OCR-L-NIKOURI-0828-01.jpg?w=900&#038;h=487"
+  - url: "https://www.sbsun.com/wp-content/uploads/2021/09/OCR-L-NIKOURI-0828-01.jpg?w=900&#038;h=487"
     width: 900
     height: 487
     isCached: true
@@ -247,6 +247,6 @@ related:
         height: 1453
         isCached: true
 
-secured: "BBOsAc5b49oMEhxSMPekAosO935p1z9wskto+hw9ZOgkaHsf0dLgT28G3ntLYcRahvqfw2UiG9qWcwN8oCyK4dpNGax4Cf+gEakKA3i2fG69lzALecucE2gr3S3IuK2a2kfhqlkVTk1HCmEsFalMVeVjaSe97ozfg2hUY5MZpeZsu/S7ay2ZQq0bdW/ljtcX5Cz0/hojnF00xx5xtOLntZoWYoKFIaojBewYrurpsl82ldEKUGlJ8a16ICcMaRMphNHccGpjdDsucN/dZzRfGcnw9xqP6UdgdN4jEX8WH4JI4UXCj0ZU+bcukhDNzBNV+YaNBlIo6+xZHCrUGa1KLuRovD58Sganu8o1FYH1EbE=;8evU1aVcJv1ZoQ/BRL2giw=="
+secured: "rkn8z3gwr4ZtL/1yQuOF4fUwclNy+rRlzx2X5XTT5JAG3pcAgBd/BabsC45HQDCNMvlZVqf2ypYM4hnsepCT7rKcKWdL3Pz7BLrYF21NGqvSfXllO6GsYxk9hUAbEvXTAi7lzZFN2i7hpBLnyEAHmcSm0/kN5RS7DZKoQvCmX5WL05sFga0dyqeYvj65jgNutljDNXPdrdnLbhSwKp/u0ZKGHrmviKViQoxCVw8YBtJcFKyqeGrJWfItZJT3BXHHZzFBfYBEj2+lyq5lcTbJX1uAc8BGp/OIrUj36XzIBwwR+SI8qLW90kLinPWVYUI2fhWqQRn+kkWC/+HpfoDzEzBfiWAl0jArTpjPSdarRRg=;OyMUspq/MYXGL2pz2zRfHQ=="
 ---
 

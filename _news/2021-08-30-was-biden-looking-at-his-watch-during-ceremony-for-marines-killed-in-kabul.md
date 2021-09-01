@@ -110,16 +110,16 @@ related:
   - title: "Slain Norco Marine’s mother slams President Joe Biden on social media"
     excerpt: "The mother of a Norco Marine killed in Afghanistan has blasted President Joe Biden on social media, saying the president rolled his eyes when meeting with families of slain service members and that her son’s blood is on his hands."
     publishedDateTime: 2021-09-01T19:39:00Z
-    webUrl: "https://www.dailynews.com/2021/09/01/slain-norco-marines-mother-slams-president-joe-biden-on-social-media/"
-    ampWebUrl: "https://www.dailynews.com/2021/09/01/slain-norco-marines-mother-slams-president-joe-biden-on-social-media/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/09/01/slain-norco-marines-mother-slams-president-joe-biden-on-social-media/amp/"
+    webUrl: "https://www.sbsun.com/2021/09/01/slain-norco-marines-mother-slams-president-joe-biden-on-social-media/"
+    ampWebUrl: "https://www.sbsun.com/2021/09/01/slain-norco-marines-mother-slams-president-joe-biden-on-social-media/amp/"
+    cdnAmpWebUrl: "https://www-sbsun-com.cdn.ampproject.org/c/s/www.sbsun.com/2021/09/01/slain-norco-marines-mother-slams-president-joe-biden-on-social-media/amp/"
     type: article
     provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
+      name: The San Bernardino Sun
+      domain: sbsun.com
     quality: 75
     images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2021/09/OCR-L-NIKOURI-0828-01.jpg?w=900&#038;h=487"
+      - url: "https://www.sbsun.com/wp-content/uploads/2021/09/OCR-L-NIKOURI-0828-01.jpg?w=900&#038;h=487"
         width: 900
         height: 487
         isCached: true

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/jake-sullivan-biden-stop-at-nothing
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jake-sullivan-biden-stop-at-nothing-isis-k-kabul-afghanistan-airport-attack.amp"
 type: article
 quality: 158
-heat: 178
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden ripped for apparently glancing at watch during ceremony for fallen troops"
-    excerpt: "President Joe Biden has come under fire for apparently glancing at his watch during a solemn ceremony at Dover Air Force Base in Delaware for the 13 US troops killed in the terror attack near the"
-    publishedDateTime: 2021-08-30T11:02:00Z
-    webUrl: "https://nypost.com/2021/08/30/biden-ripped-for-apparently-looking-at-watch-at-troops-ceremony/"
-    ampWebUrl: "https://nypost.com/2021/08/30/biden-ripped-for-apparently-looking-at-watch-at-troops-ceremony/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/30/biden-ripped-for-apparently-looking-at-watch-at-troops-ceremony/amp/"
+  - title: "Retired military leaders demand mass resignation of Biden team: Milley, Austin, Blinken, Sullivan"
+    excerpt: "Three retired military leaders – including two generals – have called for the resignations of President Biden's top military and diplomatic officials, including Chairman of the Joint Chiefs of Staff Mark Milley, Secretary of Defense Lloyd Austin, Secretary of State Anthony Blinken, and national security"
+    publishedDateTime: 2021-09-01T21:33:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wiTWhB3c1lM/retired-military-demand-resignation-biden-team"
+    ampWebUrl: "https://www.foxnews.com/politics/retired-military-demand-resignation-biden-team.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/retired-military-demand-resignation-biden-team.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 131
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/joe-biden-28.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 682
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/340/340/Tyler-ONeil-Headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "M4T9UeGbRIZMArgjahkCVpiEvtHCWOksfLa36nuM5MnOoD0lxICHbBgw39wuWgwn8BDSKylrLS7ZBGb2HXIY0tYzuK6Sz3BMosQvZkd8HdnSeF7vnVm7ECzQOeXWkGcmrtHsm65f5bmx349ftSKoIWvs0AQIRnvNgRLe0JFCCJqV0MxnMLOg0R7b3fvhUW+3l1+USt51yhYITTDUUjSOoAuk78Lv9Y4PAXR0joGnAcRffwOdeukZ96+vMN7Zye1ZbqW+LjEknLnSAqngYJJUMb41B9WiJrCxItVfCynTqYubl5tByYOzUHbNRnTS1t7hS94zqov9Pkk+VCZjU8ctrJyz+5CsD90X/gV8ch3Sj0Q=;wLfVenbYLvyD51Hx/rZtMQ=="

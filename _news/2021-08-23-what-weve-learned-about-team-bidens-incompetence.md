@@ -132,6 +132,38 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden reportedly has a history of disrespecting Gold Star families"
+    excerpt: "President Biden is struggling to live up to his \"empathizer-in-chief\" label given by some media at the start of his presidency after facing a wave of backlash for his treatment of Gold Star families following last week’s terrorist attack in Kabul, Afghanistan, that left 13 U.S. service members dead and"
+    publishedDateTime: 2021-09-01T21:28:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/enektYpBDpc/biden-disrespecting-gold-star-families"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-disrespecting-gold-star-families.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-disrespecting-gold-star-families.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/178e5ebe-f2fa-4a9e-8d28-3e9374c21fe9/cb197114-58b1-46c4-94b3-711776df9cb6/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden's Afghanistan speech written poorly with even worse delivery, experts say"
+    excerpt: "Former government speechwriters and messaging experts are slamming President Biden over his address to the nation Tuesday, criticizing the president for his defensive delivery and contradictory statements, while the nation mourns the deaths of 13 U.S. service members and while Americans remain stranded"
+    publishedDateTime: 2021-09-01T21:15:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VZcXIMGyo78/biden-afghanistan-speech-written-poorly-experts"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-afghanistan-speech-written-poorly-experts.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-afghanistan-speech-written-poorly-experts.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f9b7da6-ddf8-4094-a097-0b9523246549/50460c96-b94b-419b-8db1-f65bfd23f9a5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden slammed for appearing to look at his watch during ceremony for dead Marines"
     excerpt: "Conservatives and veterans slammed President Joe Biden for appearing to look at his watch during the \"dignified transfer\" service for the 13 U.S. service members killed in an ISIS-K suicide bombing in Afghanistan."
     publishedDateTime: 2021-08-29T21:48:06Z
@@ -148,6 +180,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "AOC defends Biden as president takes criticism for stranding Americans in Afghanistan"
+    excerpt: "Ocasio-Cortez spoke out in support of the president as he deals with the fallout of his botched, deadly withdrawal from Afghanistan, sharing a video of her previous remarks blasting a military contractor over the profit margins of a certain type of vehicular disc."
+    publishedDateTime: 2021-09-01T21:47:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ydm1n_dcOok/aoc-defends-biden-criticism-stranding-americans-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-defends-biden-criticism-stranding-americans-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-defends-biden-criticism-stranding-americans-afghanistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2996e066-5adb-4464-aac9-0701e9c10b26/41b02182-1488-4494-a339-5c90db7405d0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden leaves behind US-sponsored journalists he promised to evacuate from Afghanistan"
     excerpt: "The United States was unable to evacuate U.S.-employed journalists from Afghanistan despite the Biden administration promising to get them out of the country."
     publishedDateTime: 2021-09-01T15:25:45Z
@@ -161,6 +209,22 @@ related:
     quality: 168
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d57f6429-dd92-4b4d-86b6-eac60d2222d8/bd1d6a00-a4c0-47f6-b604-5e98d119dab5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden vs Biden: President takes new tone on Afghanistan compared to earlier in career"
+    excerpt: "President Biden's tone on Afghanistan, particularly concerning nation-building, has drastically shifted over the years."
+    publishedDateTime: 2021-09-01T20:52:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZLr36ZMYh5Q/biden-vs-biden-president-takes-new-tone-afghanistan-compared-to-earlier-career"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-vs-biden-president-takes-new-tone-afghanistan-compared-to-earlier-career.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vs-biden-president-takes-new-tone-afghanistan-compared-to-earlier-career.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2996e066-5adb-4464-aac9-0701e9c10b26/41b02182-1488-4494-a339-5c90db7405d0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -275,6 +339,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Why Democrats Can’t Run Away From Joe Biden"
+    excerpt: "There's a lot of talk in Democratic circles these days about vulnerable 2022 candidates beginning to distance themselves from President Joe Biden amid his faltering poll numbers on both how he has handled Afghanistan and his overall job performance."
+    publishedDateTime: 2021-09-01T18:53:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/09/01/why_democrats_canrsquot_run_away_from_joe_biden_550671.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/55/551487_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "Graham: If We Leave Any Afghan Behind, Joe Biden Deserves To Be Impeached For Dereliction Of Duty"
     excerpt: "Senate Judiciary Committee member Sen. Lindsey Graham (R-SC) said on Friday if President Joe Biden leaves behind any American or Afghani ally behind then he should be impeached. \"We're duty-bound to get every American citizen out."

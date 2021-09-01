@@ -2,62 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-08-11-house-democrats-can-get-some-of-trumps-tax-records-from-accounting-firm-mazars-usa-judge-rules.md",
-      "title": "House Democrats can get some of Trump's tax records from accounting firm Mazars USA, judge rules",
-      "excerpt": "The US House should be able to access some of Donald Trump's tax records through a subpoena to his accounting firm Mazars USA, a federal judge in Washington, DC, ruled on Wednesday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vlKMb7vCRLE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vlKMb7vCRLE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210211173410-107-trump-impeachment-centered-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/11/politics/trump-taxes-mazars-house-democrats/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/11/politics/trump-taxes-mazars-house-democrats/index.html",
-      "publishedDateTime": "2021-08-11T10:12:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-08-11-biden-nominates-elizabeth-prelogar-to-be-solicitor-general.md",
       "title": "Biden nominates Elizabeth Prelogar to be solicitor general",
       "excerpt": "President Joe Biden on Wednesday nominated acting US Solicitor General Elizabeth Prelogar to permanently take on the role of representing the US government in cases before the Supreme Court.\n    \n",
@@ -312,6 +256,62 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/08/politics/dick-durbin-jeffrey-rosen-trump-doj-testimony-cnntv/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/08/politics/dick-durbin-jeffrey-rosen-trump-doj-testimony-cnntv/index.html",
       "publishedDateTime": "2021-08-08T09:32:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-07-interviews-with-former-justice-department-officials-provide-new-details-on-trump-efforts-to-undermine-election-results.md",
+      "title": "Interviews with former Justice Department officials provide new details on Trump efforts to undermine election results ",
+      "excerpt": "Two top former Justice Department officials provided interviews to the Senate Judiciary Committee and provided detailed accounts of a tumultuous period in late December and early January during which a senior Justice Department lawyer sought to deploy the department's resources in support of false voting",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/II2thVfyS1U/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/II2thVfyS1U/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210805190917-jeffrey-clark-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/07/politics/jeffrey-clark-richard-donoghue-jeffrey-rosen-justice-department-trump-election-results/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/07/politics/jeffrey-clark-richard-donoghue-jeffrey-rosen-justice-department-trump-election-results/index.html",
+      "publishedDateTime": "2021-08-07T16:45:35-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

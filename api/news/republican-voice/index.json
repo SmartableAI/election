@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-01-retired-military-leaders-demand-mass-resignation-of-biden-team-milley-austin-blinken-sullivan.md",
+      "title": "Retired military leaders demand mass resignation of Biden team: Milley, Austin, Blinken, Sullivan",
+      "excerpt": "Three retired military leaders – including two generals – have called for the resignations of President Biden's top military and diplomatic officials, including Chairman of the Joint Chiefs of Staff Mark Milley, Secretary of Defense Lloyd Austin, Secretary of State Anthony Blinken, and national security",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wiTWhB3c1lM/retired-military-demand-resignation-biden-team",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wiTWhB3c1lM/retired-military-demand-resignation-biden-team",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/340/340/Tyler-ONeil-Headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/retired-military-demand-resignation-biden-team.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/retired-military-demand-resignation-biden-team.amp",
+      "publishedDateTime": "2021-09-01T14:33:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-01-biden-rips-texas-abortion-law-as-extreme-violation-of-roe-v-wade.md",
       "title": "Biden rips Texas abortion law as 'extreme,' violation of Roe v. Wade",
       "excerpt": "President Biden criticized a new Texas law that prohibits abortion except for during the very beginning of pregnancy or in cases of medical emergencies, stating that it goes against established Supreme Court precedent.",
@@ -850,7 +906,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 155,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -882,62 +938,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-29-jake-sullivan-biden-will-stop-at-nothing-to-get-justice-for-fallen-service-members-after-isis-k-attack.md",
-      "title": "Jake Sullivan: Biden 'will stop at nothing' to get justice for fallen service members after ISIS-K attack",
-      "excerpt": "National Security Advisor Jake Sullivan said that President Biden will ensure that the U.S. exacts retribution against the terror group known as ISIS-K following a deadly suicide bombing at Afghanistan's Hamid Karzai International Airport in Kabul, while noting that there remains a risk of more attacks.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VYcdbF1Kf7Y/jake-sullivan-biden-stop-at-nothing-isis-k-kabul-afghanistan-airport-attack",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VYcdbF1Kf7Y/jake-sullivan-biden-stop-at-nothing-isis-k-kabul-afghanistan-airport-attack",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/jake-sullivan-biden-stop-at-nothing-isis-k-kabul-afghanistan-airport-attack.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jake-sullivan-biden-stop-at-nothing-isis-k-kabul-afghanistan-airport-attack.amp",
-      "publishedDateTime": "2021-08-29T07:25:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     },
@@ -1555,7 +1555,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 518,
+      "heat": 618,
       "tags": null,
       "images": [
         {

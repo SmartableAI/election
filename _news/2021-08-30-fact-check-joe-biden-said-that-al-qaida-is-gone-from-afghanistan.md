@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Fact-Check-Joe-B
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Fact-Check-Joe-Biden-said-that-al-Qaida-is-16416922.php"
 type: article
 quality: 125
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/08/27/USAT/d5370f8c-b8ef-4884-a26a-5837044ed2c1-AP_Afghanistan_1.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Mike Pence slams Biden over handling of Afghanistan withdrawal: 'What a disgrace'"
+    excerpt: "President Joe Biden is receiving criticism from politicians, members of the media and religious leaders after the United States ended its military presence in Afghanistan Tuesday, despite the fact that hundreds of Americans have yet to be evacuated."
+    publishedDateTime: 2021-09-01T20:12:00Z
+    webUrl: "https://www.christianpost.com/news/mike-pence-biden-s-handling-of-afghanistan-exit-failed-america.html"
+    ampWebUrl: "https://www.christianpost.com/amp/mike-pence-biden-s-handling-of-afghanistan-exit-failed-america.html"
+    cdnAmpWebUrl: "https://www-christianpost-com.cdn.ampproject.org/c/s/www.christianpost.com/amp/mike-pence-biden-s-handling-of-afghanistan-exit-failed-america.html"
+    type: article
+    provider:
+      name: The Christian Post
+      domain: christianpost.com
+    quality: 85
+    images:
+      - url: "https://cdn.christianpost.com/files/cache/image/14/32/143258_w_450_300.jpg"
+        width: 450
+        height: 300
         isCached: true
   - title: "Explained: What happens after Joe Biden’s evacuation force leaves Afghanistan?"
     excerpt: "The chaotic and perilous evacuation from Kabul airport that ensued has unleashed a wave of criticism and presented Biden with his biggest crisis since taking office in January."

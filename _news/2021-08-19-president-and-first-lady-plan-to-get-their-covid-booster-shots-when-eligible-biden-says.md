@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Top Biden economic aides join Senate Democrat call in push before debt ceiling fight"
+    excerpt: "Two top Biden administration economic officials joined a call with top Senate Democratic aides on Wednesday as the White House pressed to maintain unified strategy for the looming fight over the debt ceiling, according to multiple people familiar with the call.\n    \n"
+    publishedDateTime: 2021-09-01T19:55:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9EDHPzi3m_s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/01/politics/debt-ceiling-fight-joe-biden-aides-senate-democrats/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/01/politics/debt-ceiling-fight-joe-biden-aides-senate-democrats/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210714142031-03-biden-us-capitol-schumer-0714-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to hold cybersecurity meeting with tech, education and critical infrastructure leaders"
     excerpt: "President Joe Biden and several of his Cabinet officials and advisers will meet with leaders from Silicon Valley, the water and energy sectors, the banking and insurance industries and academic institutions on Wednesday to discuss shoring up the nation's cybersecurity.\n    \n"
     publishedDateTime: 2021-08-25T12:39:46Z

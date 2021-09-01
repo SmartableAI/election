@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-27-biden-meets-with-israeli-prime-minister-after-deadly-kabul-bombing.md",
+      "title": "Biden meets with Israeli prime minister after deadly Kabul bombing",
+      "excerpt": "President Biden sat down with the newly installed Israeli Prime Minister Naftali Bennett Friday, roughly 24 hours after the deadly suicide bombing in Kabul.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4W3al9aPvbY/biden-israeli-prime-minister-kabul-bombing",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4W3al9aPvbY/biden-israeli-prime-minister-kabul-bombing",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c013c6db-e7ea-41bb-93f5-be557d7321c8/209d8f8e-15b3-41c1-99db-334ce2c78307/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-israeli-prime-minister-kabul-bombing.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-israeli-prime-minister-kabul-bombing.amp",
+      "publishedDateTime": "2021-08-27T10:32:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-27-michael-caputo-not-comfortable-with-his-smashmouth-style-advising-donald-trump.md",
       "title": "Michael Caputo 'Not Comfortable' With His 'Smashmouth' Style Advising Donald Trump",
       "excerpt": "\"It nearly killed me,\" the former assistant secretary for public affairs said about the style of politics he once engaged in.",
@@ -1158,7 +1214,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 355,
+      "heat": 375,
       "tags": null,
       "images": [
         {
@@ -1199,58 +1255,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-beto-orourke-pushes-joe-biden-to-help-pass-federal-voting-bill.md",
-      "title": "Beto O'Rourke pushes Joe Biden to help pass federal voting bill",
-      "excerpt": "Former Congressman Beto O’Rourke is using his political platform to turn up the heat on President Joe Biden on voting rights legislation that is unlikely to pass the U.S. Senate, laying the fate of the legislation squarely at Biden’s feet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/politics/texas/article/Beto-O-Rourke-pushes-Joe-Biden-to-help-pass-16411342.php",
-      "originalUrl": "https://www.houstonchronicle.com/politics/texas/article/Beto-O-Rourke-pushes-Joe-Biden-to-help-pass-16411342.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 665,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/21/46/51/21391940/3/400x0.jpg",
-          "width": 400,
-          "height": 266,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.houstonchronicle.com/politics/texas/amp/Beto-O-Rourke-pushes-Joe-Biden-to-help-pass-16411342.php",
-      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Beto-O-Rourke-pushes-Joe-Biden-to-help-pass-16411342.php",
-      "publishedDateTime": "2021-08-25T10:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],
