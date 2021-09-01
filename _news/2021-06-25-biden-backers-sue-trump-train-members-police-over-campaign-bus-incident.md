@@ -1761,6 +1761,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Post-Trump, Ukraine’s leader to push Biden for US support"
+    excerpt: "The Ukrainian leader who found himself ensnarled in Donald Trump’s first impeachment finally gets his long-sought Oval Office meeting Wednesday with a new U.S."
+    publishedDateTime: 2021-09-01T14:37:00Z
+    webUrl: "https://apnews.com/article/europe-business-ukraine-757330510acea075e0ed8bc01183e1b9"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 120
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/50ab7a66ef344f6599b746191a820fa8/2564.jpeg"
+        width: 2564
+        height: 1709
+        isCached: true
   - title: "President Biden, first lady to visit former President Jimmy Carter in Georgia this week"
     excerpt: "Biden was a young Delaware senator and Carter ally during the Georgian’s term in the White House, from 1977 to 1981."
     publishedDateTime: 2021-04-27T20:49:00Z
@@ -2667,17 +2681,6 @@ related:
     provider:
       name: Centre Daily Times
       domain: centredaily.com
-    quality: 70
-  - title: "Post-Trump, Ukraine’s leader to push Biden for US support"
-    excerpt: "The Ukrainian leader who found himself ensnarled in Donald Trump’s first impeachment is coming to Washington to see a new president"
-    publishedDateTime: 2021-09-01T12:33:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/post-trump-ukraines-leader-to-push-biden-for-us-support/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/post-trump-ukraines-leader-to-push-biden-for-us-support/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/post-trump-ukraines-leader-to-push-biden-for-us-support/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
     quality: 70
   - title: "Eric Trump’s Pants on Fire claim that Joe Biden’s White House doesn’t travel"
     excerpt: "President Joe Biden steps off Air Force One to board Marine One at Andrews Air Force Base, Md., on May 19, 2021, for a trip back to the White House after speaking at the commencement for the U.S. Coast Guard Academy in New London,"

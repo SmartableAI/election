@@ -221,6 +221,22 @@ related:
         width: 2500
         height: 1666
         isCached: true
+  - title: "Scientists Question Joe Biden's Push for COVID Vaccine Booster Shots"
+    excerpt: "Medical experts have suggested that getting people fully vaccinated is a bigger priority as the evidence is unclear as to whether third shots are needed."
+    publishedDateTime: 2021-09-01T14:59:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-covid-vaccine-boosters-shots-1624994"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-covid-vaccine-boosters-shots-1624994?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-covid-vaccine-boosters-shots-1624994?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1884599/joe-biden-vaccines.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden pushes plan to rebuild US infrastructure as Covid cases rise – live"
     excerpt: "President to launch next phase of Build Back Better program and announces plans to tackle rising anti-Asian violence – follow all the latest politics news"
     publishedDateTime: 2021-03-30T17:44:00Z

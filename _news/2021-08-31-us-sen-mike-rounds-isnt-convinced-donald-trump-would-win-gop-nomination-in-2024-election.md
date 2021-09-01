@@ -60,13 +60,13 @@ related:
   - title: "Former President Donald Trump says he will return to Iowa, adding grist to 2024 speculation"
     excerpt: "Trump's announcement on the show comes as other potential Republican presidential contenders are already making trips to Iowa."
     publishedDateTime: 2021-08-31T17:05:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/2021/08/31/donald-trump-says-he-will-rally-iowa-stoking-2024-speculation/5666433001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/5666433001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5666433001"
+    webUrl: "https://www.freep.com/story/news/politics/2021/08/31/donald-trump-says-he-will-rally-iowa-stoking-2024-speculation/5666433001/"
+    ampWebUrl: "https://amp.freep.com/amp/5666433001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5666433001"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: Detroit Free Press
+      domain: freep.com
     quality: 65
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/11/01/PDEM/63d5811d-248f-4d1b-a046-a644d1ea0203-AP20306724939532.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"

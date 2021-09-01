@@ -223,6 +223,22 @@ related:
         width: 2500
         height: 1666
         isCached: true
+  - title: "Scientists Question Joe Biden's Push for COVID Vaccine Booster Shots"
+    excerpt: "Medical experts have suggested that getting people fully vaccinated is a bigger priority as the evidence is unclear as to whether third shots are needed."
+    publishedDateTime: 2021-09-01T14:59:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-covid-vaccine-boosters-shots-1624994"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-covid-vaccine-boosters-shots-1624994?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-covid-vaccine-boosters-shots-1624994?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1884599/joe-biden-vaccines.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Rand Paul Calls for Joe Biden to Burn Face Mask to Promote COVID Vaccine"
     excerpt: "Rand said that \"virtually zero\" people have died of COVID-19 after being vaccinated. The number is closer to 5,800, according to the U.S. Centers for Disease Control and Prevention."
     publishedDateTime: 2021-04-22T01:13:00Z

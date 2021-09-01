@@ -41,6 +41,20 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Watch live: BBC News coverage of Joe Biden's speech"
+    excerpt: "Watch the Channel as US President Joe Biden delivers a speech on Afghanistan. Watch live: coverage of Joe Biden's speech Up Next. Taliban asked if women will be in new government. Video, 00:01:10Taliban asked if women will be in new government 'I was not going to extend a forever exit' Video,"
+    publishedDateTime: 2021-09-01T12:48:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-58402624"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/E1AE/production/_120347775_01075bba-06cb-4775-bf06-1defc5bac8ee.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Joe Biden’s future looks bleak – he’s shamed and endangered the West"
     excerpt: "A broken man THE charge sheet against Joe Biden grows by the day. It’s not just that his reckless, casual disregard for Afghanistan and its ­people led directly to the suicide bomb slaughter of 13"
     publishedDateTime: 2021-08-28T01:58:00Z
@@ -190,20 +204,6 @@ related:
       - url: "https://www.snopes.com/tachyon/2021/08/sleepy-joe-biden-video-misleading.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Watch live: BBC News coverage of Joe Biden's speech"
-    excerpt: "Watch the BBC News Channel as US President Joe Biden delivers a speech on Afghanistan."
-    publishedDateTime: 2021-09-01T09:31:00Z
-    webUrl: "https://www.bbc.co.uk/news/av/world-us-canada-58402624"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 55
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/E1AE/production/_120347775_01075bba-06cb-4775-bf06-1defc5bac8ee.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Storm commemorates 2020 WNBA championship with President Joe Biden at White House"
     excerpt: "President Joe Biden and first lady Jill Biden hosted an entourage led by Storm captains Sue Bird and Breanna Stewart, coach Noelle Quinn and the majority owners Ginny Gilder, Lisa Brummel and Dawn Trudeau."

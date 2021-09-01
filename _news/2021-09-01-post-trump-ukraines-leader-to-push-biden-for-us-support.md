@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Post-Trump, Ukraine’s leader to push Biden for US support"
-excerpt: "The Ukrainian leader who found himself ensnarled in Donald Trump’s first impeachment is coming to Washington to see a new president"
-publishedDateTime: 2021-09-01T12:33:00Z
-originalUrl: "https://www.seattletimes.com/nation-world/nation-politics/post-trump-ukraines-leader-to-push-biden-for-us-support/"
-webUrl: "https://www.seattletimes.com/nation-world/nation-politics/post-trump-ukraines-leader-to-push-biden-for-us-support/"
-ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/post-trump-ukraines-leader-to-push-biden-for-us-support/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/post-trump-ukraines-leader-to-push-biden-for-us-support/?amp=1"
+excerpt: "The Ukrainian leader who found himself ensnarled in Donald Trump’s first impeachment finally gets his long-sought Oval Office meeting Wednesday with a new U.S."
+publishedDateTime: 2021-09-01T14:37:00Z
+originalUrl: "https://apnews.com/article/europe-business-ukraine-757330510acea075e0ed8bc01183e1b9"
+webUrl: "https://apnews.com/article/europe-business-ukraine-757330510acea075e0ed8bc01183e1b9"
 type: article
-quality: 70
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://storage.googleapis.com/afs-prod/media/50ab7a66ef344f6599b746191a820fa8/2564.jpeg"
+    width: 2564
+    height: 1709
+    isCached: true
 
 related:
   - title: "Joe Biden raises Trump refugee cap after backlash"
@@ -2894,6 +2898,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "F5CdFZz8lDw+SC9Uh3O3kxvHcfH0P7/PIslokQXQ73lOgwMkzcEBxozX/rw725ZFQgOeQnBcxFV/q1yBeycktrmDQOYW/5iUzh505lMAus7frcM1nErkX58IftpCDSIZ+cyLU3skiiyW6mCCQf2oEMDr/wDiTctCpWXsZHBRJZTPt2hN0u2l87E8kQl8mXK1ZOm+4NMOXkF3Qa/i+AzM15HQA8vF1moGexAfijXMMRKG+GFknf7VTYv9pKY+OR7/pNBGFnoebtLP6l29smdCmpp4o1YPKeOtY8LHaUg+m3IPaOfDgp6Wm2DNSwCHJDY7OpeOy7Ri74BQZaJbipBYjqPdKkMOBV1whbY/mDxULdyG3wHWBoF4y1HYZctamo0hmmz3WoIerSvmxiQOXLlfvwZ5za1mpkJ/I55fsmSk42oN1CqoIfCgYQ+FjmOKhW0a5gex+tinNYa9kTCCS6i7kitJMgXqltWQ+eAG3C24BxzapeF8p9CdgoQ5yfAXTOYWO0ioVJYQ4GXMoE5JrCkCyw==;RkVwA4/uookPeUzO3HPIvA=="
+secured: "FcIwUkY/W4U+qZVNSWbabtyjtk0wmsVo8aYAOsQOrTwSwPzDTlP0LYKFPIHh2vsDIk4+heDRY777mar49AwuJuAW39xNEB2S2GM32sCamvcvSfGrEV756O/k0+TeisUcK46oGtPys053RLSh+SejSoifld30btF0eD276zZTFUx/qB/y3jMMa5l42ko9Cz5drQUbiXEcDmErBsAD4UnIDeRrKr4AwuikdNaUEcB0xRi6YgAcvVkSmiTZBn+T6X+rfjfbvojSsagITPmCVRW//Bfxa0SbVa9R/5INtR6Jo1xg2VP61VizUWGLsY8gNyIV2/w1AhLEhDbc+lLnm7o1r2d5nxNQyphB8u83NfF4j7c=;CO1LFWpIr/PqH2RRWxylBQ=="
 ---
 

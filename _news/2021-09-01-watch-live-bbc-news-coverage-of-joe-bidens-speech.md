@@ -1,18 +1,22 @@
 ---
 category: news
 title: "Watch live: BBC News coverage of Joe Biden's speech"
-excerpt: "Watch the BBC News Channel as US President Joe Biden delivers a speech on Afghanistan."
-publishedDateTime: 2021-09-01T09:31:00Z
-originalUrl: "https://www.bbc.co.uk/news/av/world-us-canada-58402624"
-webUrl: "https://www.bbc.co.uk/news/av/world-us-canada-58402624"
+excerpt: "Watch the Channel as US President Joe Biden delivers a speech on Afghanistan. Watch live: coverage of Joe Biden's speech Up Next. Taliban asked if women will be in new government. Video, 00:01:10Taliban asked if women will be in new government 'I was not going to extend a forever exit' Video,"
+publishedDateTime: 2021-09-01T12:48:00Z
+originalUrl: "https://www.bbc.com/news/av/world-us-canada-58402624"
+webUrl: "https://www.bbc.com/news/av/world-us-canada-58402624"
 type: article
-quality: 55
+quality: 105
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -231,6 +235,6 @@ related:
         height: 1453
         isCached: true
 
-secured: "B/u70mBYCaUQOF8SpiLXNxI6NswD/kALsVn/Ul17ZUrLQUzGVL6ROjcaClwuABxtwY3Xi8u4n9jCrX31QGjS2Bea5ZOgWjOqKtQ9O5Jzy0Udsl5HueD6oCT/N8Aj+Ff05qI82E4ImtWoXvW7oO6mX6mhoGlpXSGURn0/Q3m1VErRGcojnKEYlRn7LC5DkiB2vOV5rawZHdsd3c3gYz+n7lZMfLG8Cf5YCaO6hPaDeckbA0Ol9U0e+avRjdqrObu1DP+xdlX3qoz5K3uKreZSQj508quwtBbl52kzyX9r217KSAHamPLJecY1Qnpz6gVxuRLTI8NyJ1/KPeahl8U7Vp6VwYgrUleFze1O4dDJh1jK6At6w6oExglbaI3CFS60Ip5v4+Zj5bfNEPgTXOWefY0s5fgS3CAvunj9tvF4R0UAOsguNNdRvaqVGziSC3nvtz9ZL1yaLy/ltbVhRO6Uen+OTiWlFs1g7qsY4x192VbLFoBNehfBJXYBiQpiB6jAJ5xCUtw5KUBpsaXB96OVBw==;wNAibSaFijo1FzB6/mq2gA=="
+secured: "UUP+m/xRJL6hTu51nwbsNTKAVAn+vHWgRNoniOXHMggzn96NRjEz29PS6TSnhjWVsD/9MRHRzLBLY681O2waz4SE3xpVJ7B2U3P/sybZTFKvg2Vg0gQM8N101RFOEQdEYw5/TAsP4Bgcj1e8dsUOc8c989pJEhytG017+Ek+OaDygEDKEy4age5U6ouvPefcpnTTb0Nai7JwIyI716XiWqVPwoF9dTDiJpvgzd997zn7Abc21qxVBMzhn62LtZRtCFXBuvxGTtYp3XbH1JzZvGtYGu8wrq5+NEFN+6gp3OpYyt7Aba8pW40dKixnJVIIQWAEqKKJgIv5vgd9alaGdivM1o1eiatk07Ikz1iuPZc=;H6VYhK1+SnUp6g063h5DAQ=="
 ---
 

@@ -57,6 +57,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Joe Biden has a chance to reshape America’s relationship with Africa"
+    excerpt: "The writer is the CEO of The Africa Center. Secretary of state Antony Blinken’s current blitz through Kenya, Nigeria and Senegal is a welcome start to President Joe Biden’s re"
+    publishedDateTime: 2021-09-01T15:24:00Z
+    webUrl: "https://www.ft.com/content/7aae0365-9e24-4ce7-8f4f-21a8a8deeb39"
+    ampWebUrl: "https://amp.ft.com/content/7aae0365-9e24-4ce7-8f4f-21a8a8deeb39"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/7aae0365-9e24-4ce7-8f4f-21a8a8deeb39"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 125
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3c0ff276-6a63-4d47-ad5d-c0d40152e2fd.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "US Economy: Joe Biden Unveils New 'Buy American' Proposal"
     excerpt: "President Biden unveiled his new 'Buy American' proposal to ensure goods manufactured in the United States were at least 60% made in America."
     publishedDateTime: 2021-07-28T22:49:00Z

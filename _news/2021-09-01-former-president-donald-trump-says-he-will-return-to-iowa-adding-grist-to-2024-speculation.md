@@ -3,18 +3,18 @@ category: news
 title: "Former President Donald Trump says he will return to Iowa, adding grist to 2024 speculation"
 excerpt: "Trump's announcement on the show comes as other potential Republican presidential contenders are already making trips to Iowa."
 publishedDateTime: 2021-08-31T17:05:00Z
-originalUrl: "https://www.azcentral.com/story/news/politics/2021/08/31/donald-trump-says-he-will-rally-iowa-stoking-2024-speculation/5666433001/"
-webUrl: "https://www.azcentral.com/story/news/politics/2021/08/31/donald-trump-says-he-will-rally-iowa-stoking-2024-speculation/5666433001/"
-ampWebUrl: "https://amp.azcentral.com/amp/5666433001"
-cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5666433001"
+originalUrl: "https://www.freep.com/story/news/politics/2021/08/31/donald-trump-says-he-will-rally-iowa-stoking-2024-speculation/5666433001/"
+webUrl: "https://www.freep.com/story/news/politics/2021/08/31/donald-trump-says-he-will-rally-iowa-stoking-2024-speculation/5666433001/"
+ampWebUrl: "https://amp.freep.com/amp/5666433001"
+cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5666433001"
 type: article
 quality: 65
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Election
@@ -88,6 +88,6 @@ related:
         height: 682
         isCached: true
 
-secured: "wCswQd9qua0L5b6FyAsq1T6ps8T5VD0QfJgXZU7QGYKK2+hbM/D001krOqliYkeXLkZNFatUU2Nd74PmcyYMZ173QF2dw/7HV8/p/tt/dITyy/jgBgbh5U2ht1x4EWNPvbidxUZPFpBPNYF/ew7mj1LFJeRuX2JDcV2BSdrYvyY0j92t5OhVSh+JuaVwLEeoPnoMGU0HdLMlrzxsBwK2FkP+yQ1o9MNUDtVEMssljidSsVPj5/7C+lY/01ZTNXoVBIFfFYV4bFhBhTLXshtd7toTixiizH9o7HzsS6FvjesHbB3ZO5qWzV5eOcTIUzIn33Z1F2coGhV8E6NspHILisUikrrahu1UGi/VxTdAYqo=;eC1P8gwalbI1vMp/JVNmHw=="
+secured: "zfIjiG/7bPL4CqGgxTkNL3KMnFkYT8aOMxY5/ZpkAlsJVjV/agC3RBeVs5xkFJrmDRLtNXGBJXriPd6gRZnwujko+hYarUD6zOqDzD6FHhdcf1HpIGLBlj2aKd5WexcdOfTGXGUznXadrfHccAtJEXjZJyIchmjKAiTpH74ChYI8tu9/kQK8EZxuLWy7ovIdB462fEIhBVoqmWaJYLeLoJqxGhdNpiFSGmzGlY3x7YTjQjHFZDZBsO7FUU5k+XPN01MMPIZYqg5r2UHQoWR2Dvx+7XuUdP/95X1pLx3IiKdoqa7gs+IpJ+JPMur8xq0apPsgCAPF24iDREFzEgAXXEaVD2eOe/kXTcwY0IIB0Go=;7qGBO1n1CCDM1UqVQBrO4w=="
 ---
 

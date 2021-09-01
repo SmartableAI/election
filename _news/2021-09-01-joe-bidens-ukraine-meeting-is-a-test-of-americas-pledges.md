@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/893cd8eb-c070-49f9-a049-1ad15532950f"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/893cd8eb-c070-49f9-a049-1ad15532950f"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden to host Ukraine President Volodymyr Zelensky at White House"
+    excerpt: "Ukrainian President Volodymyr Zelensky, who found himself at the center of U.S. politics during former President Donald Trump's first impeachment trial, will make a long-awaited visit to the White House on Wednesday."
+    publishedDateTime: 2021-09-01T15:42:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/09/01/volodymyr-zelensky-joe-biden-white-house/1541630508285/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/09/01/volodymyr-zelensky-joe-biden-white-house/1541630508285/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/09/01/volodymyr-zelensky-joe-biden-white-house/1541630508285/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/1541630508285/2021/1/9a60c4cfef15127420a9540ba0200678/v1.5/Biden-to-host-Ukraine-President-Volodymyr-Zelensky-at-White-House.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Ukraine leader, Biden to talk on security, Russian gas"
     excerpt: "Washington has strongly opposed the construction of Nord Stream 2, but the Biden administration has opted not to punish the German company overseeing the project while announcing new sanctions"
     publishedDateTime: 2021-08-31T17:50:00Z
