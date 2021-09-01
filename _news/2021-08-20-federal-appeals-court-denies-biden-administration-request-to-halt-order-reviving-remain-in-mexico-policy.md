@@ -255,6 +255,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration closely monitoring supply of medical grade oxygen to treat Covid-19 patients"
+    excerpt: "As coronavirus cases rise across the South, state health officials, hospital consultants and oxygen suppliers continue to sound alarms over a potential shortage of medical grade oxygen to treat Covid-19 patients in the region.\n    \n"
+    publishedDateTime: 2021-08-31T23:49:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PBKmmRyz7Bg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/31/politics/covid-19-medical-grade-oxygen-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/31/politics/covid-19-medical-grade-oxygen-biden-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210831040102-texas-hospital-0818-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump makes executive privilege threat as House committee seeks documents from agencies on January 6 attack"
     excerpt: "The House Select Committee investigating the January 6 Capitol attack requested a massive tranche of documents from several US government agencies -- signaling they intend to undertake a sprawling probe of security failures and attempts to overturn the 2020 election results.\n    \n"
     publishedDateTime: 2021-08-26T02:02:56Z

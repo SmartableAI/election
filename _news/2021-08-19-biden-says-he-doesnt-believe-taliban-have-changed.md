@@ -239,6 +239,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration closely monitoring supply of medical grade oxygen to treat Covid-19 patients"
+    excerpt: "As coronavirus cases rise across the South, state health officials, hospital consultants and oxygen suppliers continue to sound alarms over a potential shortage of medical grade oxygen to treat Covid-19 patients in the region.\n    \n"
+    publishedDateTime: 2021-08-31T23:49:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PBKmmRyz7Bg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/31/politics/covid-19-medical-grade-oxygen-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/31/politics/covid-19-medical-grade-oxygen-biden-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210831040102-texas-hospital-0818-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Federal appeals court denies Biden administration request to halt order reviving 'remain in Mexico' policy"
     excerpt: "A federal appeals court denied the Biden administration's request to pause a lower court order requiring the revival of a controversial Trump-era border policy forcing migrants to stay in Mexico until their US immigration court date.\n    \n"
     publishedDateTime: 2021-08-20T13:03:10Z

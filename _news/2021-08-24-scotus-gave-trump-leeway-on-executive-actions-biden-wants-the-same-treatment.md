@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/24/politics/biden-supreme-court/inde
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/24/politics/biden-supreme-court/index.html"
 type: article
 quality: 187
-heat: 507
+heat: 527
 published: true
 
 provider:
@@ -236,6 +236,22 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210630170105-02-scotus-0621-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration closely monitoring supply of medical grade oxygen to treat Covid-19 patients"
+    excerpt: "As coronavirus cases rise across the South, state health officials, hospital consultants and oxygen suppliers continue to sound alarms over a potential shortage of medical grade oxygen to treat Covid-19 patients in the region.\n    \n"
+    publishedDateTime: 2021-08-31T23:49:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PBKmmRyz7Bg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/31/politics/covid-19-medical-grade-oxygen-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/31/politics/covid-19-medical-grade-oxygen-biden-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210831040102-texas-hospital-0818-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

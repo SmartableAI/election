@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Fact-checking Biden's claim that Afghans didn't want to leave"
-excerpt: "The Biden administration has been working to mitigate the fallout from the situation in Afghanistan after the Taliban's surprisingly swift takeover of the country. As scenes of Afghans desperate to leave went viral, President Joe Biden announced Monday that the US military will provide assistance to"
-publishedDateTime: 2021-08-19T13:27:56Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iHSRoWnR154/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iHSRoWnR154/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/biden-afghan-visa-fact-check/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/biden-afghan-visa-fact-check/index.html"
+title: "Biden administration closely monitoring supply of medical grade oxygen to treat Covid-19 patients"
+excerpt: "As coronavirus cases rise across the South, state health officials, hospital consultants and oxygen suppliers continue to sound alarms over a potential shortage of medical grade oxygen to treat Covid-19 patients in the region.\n    \n"
+publishedDateTime: 2021-08-31T23:49:58Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PBKmmRyz7Bg/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PBKmmRyz7Bg/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/08/31/politics/covid-19-medical-grade-oxygen-biden-administration/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/31/politics/covid-19-medical-grade-oxygen-biden-administration/index.html"
 type: article
-quality: 175
+quality: 162
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210818080453-05-afghanistan-0818-kabul-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210831040102-texas-hospital-0818-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -76,6 +76,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210819003059-joe-biden-remarks-0818-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact-checking Biden's claim that Afghans didn't want to leave"
+    excerpt: "The Biden administration has been working to mitigate the fallout from the situation in Afghanistan after the Taliban's surprisingly swift takeover of the country. As scenes of Afghans desperate to leave went viral, President Joe Biden announced Monday that the US military will provide assistance to"
+    publishedDateTime: 2021-08-19T13:27:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iHSRoWnR154/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/19/politics/biden-afghan-visa-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/19/politics/biden-afghan-visa-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210818080453-05-afghanistan-0818-kabul-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -239,22 +255,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration closely monitoring supply of medical grade oxygen to treat Covid-19 patients"
-    excerpt: "As coronavirus cases rise across the South, state health officials, hospital consultants and oxygen suppliers continue to sound alarms over a potential shortage of medical grade oxygen to treat Covid-19 patients in the region.\n    \n"
-    publishedDateTime: 2021-08-31T23:49:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PBKmmRyz7Bg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/31/politics/covid-19-medical-grade-oxygen-biden-administration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/31/politics/covid-19-medical-grade-oxygen-biden-administration/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210831040102-texas-hospital-0818-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Federal appeals court denies Biden administration request to halt order reviving 'remain in Mexico' policy"
     excerpt: "A federal appeals court denied the Biden administration's request to pause a lower court order requiring the revival of a controversial Trump-era border policy forcing migrants to stay in Mexico until their US immigration court date.\n    \n"
     publishedDateTime: 2021-08-20T13:03:10Z
@@ -304,6 +304,6 @@ related:
         height: 1400
         isCached: true
 
-secured: "+vYeCJamSzh+qrgof6/XPNrmTDvoBD8i8/7j9VBh68HP95O7FtyJblPg71LvrBskSdNZ05cAoPz2+DklJlLOr7N62VTT8wR5g5KFGmPiaKtTHcMB5iAavikwr60ggI4RI9ZSdazJCv6ItW48pvIn7qwTDJrDAkTfCQ0s48uUGBwCfN+pYCZnbnt2y9NOW0jWcfPzpSN35et9OW9/7xBcmHN3xZbw6prSrWiVkbzJ4T3YSbTYy0wS0g1/1TkBtkh9uSXXHxVvarddhXpusjDvJz1a7l3v1Q8dUw/htEs0X7w94BxEDi3T+9xLsrUImTATP1gQNwqKeY0c4gwvrzj/k2JD+Gx+wnRxEseFC9rgFhY=;CJI4JO1Wj4mO0yPvbn7fzQ=="
+secured: "0BpDs4d+xLR1lk2y7hKr24yBn1UeKQlRrPaouUHqXRtB+ZX3THAW/SJRXsN/bZq/dP1hpZGHdO5WtfIX/xr+uc4oIZu8TvsZSAA/zztAe9ZA4p36wPuxvoTEbQq7lExcpGEBuEUjdUiLjF1dQnD8nod9CbAoR+WH4sRGxfqXV6tVTikt+R1sp7foPlC3pFpd1/knB7hqquo5V1+ef8EDEW2Or+dnob6LxibtQ4+Serxr5eDBy+gVB/WHPRt2GBE03uETysNAa3zb2JjqLg0f4G4zQJy/R/qitLLbDfHTYxXS41wInPpnShXHyQNk3Olcwn3HCscF2676vziHgiYZh0wpBep3e/t+++Sha2mIcSQ=;DU8/8NRjYHk0o4NrR3VYSA=="
 ---
 
