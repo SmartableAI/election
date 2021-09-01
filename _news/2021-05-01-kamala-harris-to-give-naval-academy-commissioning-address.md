@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Nava
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
 type: article
 quality: 125
-heat: 1605
+heat: 1585
 published: true
 
 provider:
@@ -562,22 +562,6 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/07/26/Biden_70330.jpg-ea4ca_c0-244-2931-1953_s1200x700.jpg?da986d962aacef537786e2ae76b05c264e001d7e"
         width: 1200
         height: 700
-        isCached: true
-  - title: "Leave Kamala Harris TF Alone"
-    excerpt: "No offense to Kamala Harris and those who’ve come before her, but there is a reason that the VP job is considered the “most insignificant office.” Harris’s job is not to do anything that would disgrace the office,"
-    publishedDateTime: 2021-08-27T17:00:00Z
-    webUrl: "https://www.theroot.com/leave-kamala-harris-tf-alone-1847571046"
-    ampWebUrl: "https://www.theroot.com/leave-kamala-harris-tf-alone-1847571046/amp"
-    cdnAmpWebUrl: "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/leave-kamala-harris-tf-alone-1847571046/amp"
-    type: article
-    provider:
-      name: The Root
-      domain: theroot.com
-    quality: 75
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/8a40097d474a254a3ac70223179db2de.jpg"
-        width: 800
-        height: 534
         isCached: true
   - title: "Photos: Kamala Harris sells San Francisco loft, seeks buyer for DC condo"
     excerpt: "The SoMa loft sells for $860,000; the Washington property, listed at $1.995 million, has two bedrooms and two bathrooms."

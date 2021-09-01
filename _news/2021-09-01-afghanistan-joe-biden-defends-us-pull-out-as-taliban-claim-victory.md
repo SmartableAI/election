@@ -407,20 +407,6 @@ related:
         width: 680
         height: 408
         isCached: true
-  - title: "Joe Biden Should Resign"
-    excerpt: "President Joe Biden keeps appearing on the television screen. He vaguely reminds me of former President Donald Trump with his press conferences on COVID-19, Operation Warp Speed and anything else that popped into his mind."
-    publishedDateTime: 2021-08-26T12:05:00Z
-    webUrl: "https://patriotpost.us/opinion/82246-joe-biden-should-resign-2021-08-26"
-    type: article
-    provider:
-      name: The Patriot Post
-      domain: patriotpost.us
-    quality: 55
-    images:
-      - url: "https://img.patriotpost.us/01FDHPJ6NJX3JM53KNHF491QTE.jpeg?w=1200&h=600"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Seth Meyers doesn’t think Donald Trump should praise the Taliban"
     excerpt: "On Wednesday’s “Late Night,” Seth Meyers criticized the “right-wing ghouls” who are acting like America’s depressing and chaotic pullout from Afghanistan is entirely President Joe Biden’s fault, and not the cumulative,"
     publishedDateTime: 2021-08-26T14:58:00Z
@@ -499,20 +485,6 @@ related:
         width: 650
         height: 434
         isCached: true
-  - title: "Joe Biden’s Jimmy Carter Moment"
-    excerpt: "Never in my life have I witnessed American soldiers die the way 13 Marines and service members did last Thursday."
-    publishedDateTime: 2021-08-30T17:16:00Z
-    webUrl: "https://jewishjournal.com/commentary/340127/joe-bidens-jimmy-carter-moment/"
-    type: article
-    provider:
-      name: Jewish Journal
-      domain: jewishjournal.com
-    quality: 55
-    images:
-      - url: "https://jewishjournal.com/wp-content/uploads/2021/08/Bien-Boteach.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Boris Johnson will urge Joe Biden to delay withdrawal of US forces from Afghanistan as thousands try to escape Taliban"
     excerpt: "BORIS Johnson will urge Joe Biden to delay the withdrawal of US forces from Afghanistan as thousands try to escape the Taliban. Mr Johnson will use a G7 meeting on Tuesday to ask the US"
     publishedDateTime: 2021-08-23T18:03:00Z
@@ -584,6 +556,6 @@ related:
       domain: seattletimes.com
     quality: 34
 
-secured: "v+bA0I25EGSCz5sSX6tUhGAsPPSw2hquwg6BTS6LdM8L01EU2O+Dc1P0sZLGZxPZQRJYhpckQrTZSIA9QZGaghw8FCdVZEAjFSx+OXYJyD+XDcDgriVaMOwVzb3PxwTnnfzhc69ZbJNZHyoPGWkYXmTI8gn3O1d+cSDd0W27IaZnAueae6JKE7FYUxXx5oFIoT30nJYFyG02g8MgQ8Sr/3R0SOC/wugYy6rJXcLFCDC1hMy3S6/b/qdgqXryLjQqJWMgkeQpMOVPu8t2DJM20arJurODRqgYGgXQAFIPc6upiYnQi84Vf0bL+IKkD2eywUyfCKlf0JstUR8hZl2ZCS6e2Pz0BQftxb1KAQcUNU0=;ly5NBSoHQKzQmwHU6UfJhg=="
+secured: "U6Da//lVjUNUq95YTLuI9/rMJpux5Jx8qScbB/pRjI7IO2LG6RHdNHWRNgtPHdRPd/73PdR6rKTmG0Bdn4uGP7BeyXPmQp0B5e6F6r0d+wnnGy9RA69iEITpNAmUF3Q9yZTZOV9SX8UINQUrsDL5cT+o4SRp4XcoGAwHe6zc2Llxpr+z/NKDJKhSwRs+u76eCfccWjsPh5StBEGY3NXJS6o+ole/d2H7J+iqJjqSTDRnoqi/le4ySqpCP8IxT9o5jFnlnweU9YTQ5NMk8AU+mXR9jZzf2OcetPIoP58bdkRL7+C6MFdbvgoPtcL/6/QKUe/5RCKCqvBR4qzBS7BaAPT0DHPjw/+qrN6Rfk7IJt0xvYrhIYgDArYNZTb7zJl7Ng1nvyQNLabXYbed2Pg5zEEZ1SQp7cSjrf0RnK5hLqVLraDSVZG1c0ENOa3X8hyI/j+o49Eid6BOmkO1Lz+c48S1QC1y+LZjemL/Pl3jOJNbVjyjkGQFOX9CIYQqTNGAqRixqX7tK2ARNn3CpK//RA==;JiSPrtcoRKyMAZwpoEmGyQ=="
 ---
 

@@ -702,20 +702,6 @@ related:
       name: Lexington Herald Leader
       domain: kentucky.com
     quality: 55
-  - title: "Joe Biden’s Labor Board Picks Have Been Surprisingly Encouraging"
-    excerpt: "Biden's political history is anything but pro-labor. But his moves thus far to strengthen workers' rights through the National Labor Relations Board have actually been very promising."
-    publishedDateTime: 2021-08-27T02:40:00Z
-    webUrl: "https://jacobinmag.com/2021/08/workers-rights-national-labor-relations-board-biden-administration-union-law/"
-    type: article
-    provider:
-      name: Jacobin
-      domain: jacobinmag.com
-    quality: 55
-    images:
-      - url: "https://images.jacobinmag.com/wp-content/uploads/2021/08/26123837/GettyImages-1234864559.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Why do people want to impeach President Joe Biden now?"
     excerpt: "As the Taliban's reign continues, many question if President Joe Biden can truly evacuate all U.S. citizens from Afghanistan. Does he deserve impeachment?"
     publishedDateTime: 2021-08-26T21:03:00Z

@@ -25,69 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris says focus must stay on Afghan evacuation"
-    excerpt: "The vice president says the priority is on evacuating Americans and vulnerable Afghans and it shouldn’t get distracted by questions over what went wrong in the chaotic U.S. exit from Afghanistan."
-    publishedDateTime: 2021-08-23T08:26:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2021-08-23/kamala-harris-says-focus-must-stay-on-afghan-evacuation"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-08-23/kamala-harris-says-focus-must-stay-on-afghan-evacuation?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-08-23/kamala-harris-says-focus-must-stay-on-afghan-evacuation?_amp=true"
+  - title: "Lauren Boebert Says She Has Plan to Get Rid of Biden, Harris and Pelosi"
+    excerpt: "The Colorado Republican said it was time to \"impeach Biden, impeach Kamala Harris, and throw in the secretary of state.\""
+    publishedDateTime: 2021-09-01T12:02:00Z
+    webUrl: "https://www.newsweek.com/lauren-boebert-remove-impeach-president-biden-harris-pelosi-afghanistan-1624896"
+    ampWebUrl: "https://www.newsweek.com/lauren-boebert-remove-impeach-president-biden-harris-pelosi-afghanistan-1624896?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lauren-boebert-remove-impeach-president-biden-harris-pelosi-afghanistan-1624896?amp=1"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 125
+      name: Newsweek
+      domain: newsweek.com
+    quality: 140
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/9d14458/2147483647/strip/true/crop/4854x3246+8+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F61%2F3f%2Fd4e6d7864c69a65dddf7f2ea5e01%2Fap21234735010272.jpg"
-        width: 320
-        height: 214
-        isCached: true
-  - title: "Kamala Harris’s trip delayed by ‘anomalous health incident’ in Hanoi"
-    excerpt: "Kamala Harris’s departure from Singapore was delayed because of concerns about “an anomalous health incident” in Hanoi, where the US vice-president was scheduled to land, the state department said. “Earlier this evening,"
-    publishedDateTime: 2021-08-24T14:52:00Z
-    webUrl: "https://www.ft.com/content/e2e97a9a-9263-494c-bb9b-7c18ffb6eacd"
-    ampWebUrl: "https://amp.ft.com/content/e2e97a9a-9263-494c-bb9b-7c18ffb6eacd"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e2e97a9a-9263-494c-bb9b-7c18ffb6eacd"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 125
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2bd9b18d-a57f-4bc5-9ae4-ff890e3c13c5.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
-  - title: "US VP Kamala Harris criticises Beijing intimidation in South China Sea"
-    excerpt: "US Vice President Kamala Harris has hit out at China during a speech made in Singapore on the first leg of a South East Asian tour. Ms Harris accused Beijing of coercion and intimidation in the South China Sea,"
-    publishedDateTime: 2021-08-24T15:28:00Z
-    webUrl: "https://www.bbc.com/news/world-asia-58312947.amp"
-    ampWebUrl: "https://www.bbc.com/news/world-asia-58312947.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-asia-58312947.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/105E2/production/_120224076_gettyimages-1234839274.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Kamala Harris trip delayed over possible 'Havana syndrome' case"
-    excerpt: "US Vice-President Kamala Harris's flight to Vietnam was delayed by several hours due to an \"anomalous health incident\" with similarities to so-called Havana syndrome, reports say. The mysterious syndrome first affected people at the US and Canadian embassies in Havana in 2016 and 2017."
-    publishedDateTime: 2021-08-25T04:57:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-58322593.amp"
-    ampWebUrl: "https://www.bbc.com/news/world-us-canada-58322593.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-58322593.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/16F51/production/_120233049_gettyimages-1234846381.jpg"
-        width: 1024
-        height: 576
+      - url: "https://d.newsweek.com/en/full/1884472/boebert-attends-freedom-caucus-press-conference.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Kamala Harris’s south-east Asia trip reveals limits of US strategy"
     excerpt: "Analysis: With little sign of big ideas or ambitious proposals, some analysts say vice-president’s trip reflects how little the administration is investing in the region"
@@ -105,181 +57,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Kamala Harris heads to Vietnam while Afghanistan images rekindle the past"
-    excerpt: "White House officials did not anticipate the comparisons with Afghanistan when they charted Vice President Kamala Harris' trip to Vietnam."
-    publishedDateTime: 2021-08-20T15:05:00Z
-    webUrl: "https://www.latimes.com/politics/story/2021-08-20/kamala-harris-heading-to-vietnam-while-afghanistan-images-rekindle-the-past"
-    ampWebUrl: "https://www.latimes.com/politics/story/2021-08-20/kamala-harris-heading-to-vietnam-while-afghanistan-images-rekindle-the-past?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-08-20/kamala-harris-heading-to-vietnam-while-afghanistan-images-rekindle-the-past?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 124
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/d9b7fa2/2147483647/strip/true/crop/4920x3290+138+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7e%2F38%2F635d86aa2db3dd896c89aaebc540%2F985f1f775bb340a6bdbd3191945db757"
-        width: 320
-        height: 214
-        isCached: true
-  - title: "Kamala Harris Praises 'Heroes' Lost in Kabul, Avoids Questions in Hawaii"
-    excerpt: "Harris also canceled a planned stop in California to appear with Democratic Governor Gavin Newsom, who is facing a recall attempt, instead heading back to Washington, D.C."
-    publishedDateTime: 2021-08-27T08:56:00Z
-    webUrl: "https://www.newsweek.com/kamala-harris-praises-heroes-lost-kabul-questions-hawaii-1623562"
-    ampWebUrl: "https://www.newsweek.com/kamala-harris-praises-heroes-lost-kabul-questions-hawaii-1623562?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-praises-heroes-lost-kabul-questions-hawaii-1623562?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 124
-    images:
-      - url: "https://d.newsweek.com/en/full/1881362/kamala-harris-kabul.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Kamala Harris accuses Beijing of ‘coercion’ and ‘intimidation’ in South China Sea"
-    excerpt: "In major speech delivered in Singapore, US vice president says America stands with its allies in the Indo Pacific in the face of threats from China"
-    publishedDateTime: 2021-08-24T03:40:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/aug/24/kamala-harris-accuses-beijing-of-coercion-and-intimidation-in-south-china-sea"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/24/kamala-harris-accuses-beijing-of-coercion-and-intimidation-in-south-china-sea"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/24/kamala-harris-accuses-beijing-of-coercion-and-intimidation-in-south-china-sea"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 120
-    images:
-      - url: "https://i.guim.co.uk/img/media/4b9d1b46c5ed87f036dda47f84e591e9c1060e02/0_126_4813_2890/master/4813.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5b34df223d15af9feda8d79cf2875c71"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Kamala Harris Vietnam trip delayed after two US officials report Havana syndrome"
-    excerpt: "Press secretary says assessment of safety of vice-president was carried out and she continued her journey"
-    publishedDateTime: 2021-08-24T22:08:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/aug/25/kamala-harris-us-officials-havana-syndrome-vietnam-delay"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/25/kamala-harris-us-officials-havana-syndrome-vietnam-delay"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/25/kamala-harris-us-officials-havana-syndrome-vietnam-delay"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 120
-    images:
-      - url: "https://i.guim.co.uk/img/media/d8dbab5f75034c9e6436bc7c69a345b981bab200/0_198_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=720035ce598a4b31455effc29efd5dee"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Kamala Harris’s Southeast Asia Trip Can’t Fix Biden’s Troubled Indo-Pacific Strategy"
-    excerpt: "Argument: Kamala Harris’s Southeast Asia Trip Can’t Fix Biden’s Troubled Indo-Pacific Strategy Kamala Harris’s Southeast Asia Trip Can’t ... | View Comments () When the White House announced that U.S."
-    publishedDateTime: 2021-08-24T12:35:00Z
-    webUrl: "https://foreignpolicy.com/2021/08/24/kamala-harris-singapore-vietnam-southeast-asia-trip-biden-indo-pacific-strategy/"
-    type: article
-    provider:
-      name: Foreign Policy
-      domain: foreignpolicy.com
-    quality: 113
-    images:
-      - url: "https://foreignpolicy.com/wp-content/uploads/2021/08/kamala-harris-singapore-southeast-asia.jpg?w=1000"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "Kamala Harris Accuses China Of ‘Coercion’ And ‘Intimidation’, Vows U.S. Support For Allies In Indo-Pacific"
-    excerpt: "Harris is currently on a seven-day trip to Singapore and Vietnam as the U.S. attempts to push back against China’s growing influence in the region."
-    publishedDateTime: 2021-08-24T14:08:00Z
-    webUrl: "https://www.forbes.com/sites/siladityaray/2021/08/24/kamala-harris-accuses-china-of-coercion-and-intimidation-vows-us-support-for-allies-in-indo-pacific/"
-    ampWebUrl: "https://www.forbes.com/sites/siladityaray/2021/08/24/kamala-harris-accuses-china-of-coercion-and-intimidation-vows-us-support-for-allies-in-indo-pacific/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2021/08/24/kamala-harris-accuses-china-of-coercion-and-intimidation-vows-us-support-for-allies-in-indo-pacific/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 107
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612494385511c94c2139edcc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5182%26cropY1%3D126%26cropY2%3D3043"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "US VP Harris: Focus must stay on Afghan evacuation"
-    excerpt: "Vice President Kamala Harris says the U.S. must maintain its focus on evacuating Americans and vulnerable Afghans and shouldn’t get distracted by questions over what went wrong in the chaotic U.S. exi"
-    publishedDateTime: 2021-08-23T13:34:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/us-vp-harris-focus-stay-afghan-evacuation-79596115"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 105
-    images:
-      - url: "https://s.abcnews.com/images/US/WireAP_dafa375edbf14da8823579ea199509db_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Vietnam tightens virus lockdown ahead of Harris visit"
-    excerpt: "Vietnam’s largest metropolis, Ho Chi Minh City, went into a tightened lockdown Monday to battle its worst outbreak of the coronavirus pandemic, just a day ahead of the arrival of U.S."
-    publishedDateTime: 2021-08-23T09:35:00Z
-    webUrl: "https://apnews.com/article/health-coronavirus-pandemic-vietnam-5c516232be0531e899297ec233a5d0de"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 105
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/e6c79ca07d6540a7a01e7e158c2083ad/3000.jpeg"
-        width: 3000
-        height: 2002
-        isCached: true
-  - title: "U.S. VP Harris says China intimidates to back South China Sea claims"
-    excerpt: "U.S. Vice President Kamala Harris on Tuesday accused Beijing of continuing to \"coerce\" and \"intimidate\" in the South China Sea and pledged that Washington would pursue a free and open Indo Pacific."
-    publishedDateTime: 2021-08-24T07:53:00Z
-    webUrl: "https://www.reuters.com/world/asia-pacific/kamala-harris-says-beijing-continues-coerce-south-china-sea-2021-08-24/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://www.reuters.com/resizer/R9sA08YsyWMlJT7R2KQMceJAlbg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NPVGKOYL6RO5DCYLNOSJIXEG6M.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Photo edited to show Kamala Harris with Jeffrey Epstein"
-    excerpt: "CLAIM: A photo shows U.S. Vice President Kamala Harris with the late financier Jeffrey Epstein. AP’S ASSESSMENT: False. An image posted online purporting to show Harris with Epstein is altered."
-    publishedDateTime: 2021-08-30T19:07:00Z
-    webUrl: "https://apnews.com/article/fact-checking-961965727698"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 105
-    images:
-      - url: "https://apnews.com/images/ShareLogo2.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Fact Check-Photo of Kamala Harris with Jeffrey Epstein is digitally altered"
-    excerpt: "Social media users have shared an image alleging it shows U.S. Vice President Kamala Harris with late disgraced financier Jeffrey Epstein. The image is not authentic and has been digitally altered to include Epstein."
-    publishedDateTime: 2021-08-30T19:53:00Z
-    webUrl: "https://www.reuters.com/article/factcheck-photo-harris-and-epstein/fact-check-photo-of-kamala-harris-with-jeffrey-epstein-is-digitally-altered-idUSL1N2Q1292"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2Q1292"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2Q1292"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 103
-  - title: "Kamala Harris says U.S. focus on Afghan evacuations, pledges open South China Sea"
-    excerpt: "U.S. Vice President Kamala Harris said on Monday during a visit to Singapore that the United States was focusing on evacuation efforts taking place in Afghanistan and that there would be plenty of time to analyse the context of the troop withdrawal."
-    publishedDateTime: 2021-08-23T09:38:00Z
-    webUrl: "https://www.reuters.com/world/kamala-harris-visits-singapore-deepen-ties-counter-chinas-influence-2021-08-22/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 100
-    images:
-      - url: "https://www.reuters.com/resizer/YgqCGpIjARxZ8pfeCCMDgprBPp0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7LOAE7NZ4ZJ3BBGBPOSUD2OFKA.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "TIME's 'Impeachment' Cover on Joe Biden & Kamala Harris? No, It's Altered Image"
     excerpt: "The viral cover has been altered as the latest edition of the magazine does not feature Joe Biden and Kamala Harris."
     publishedDateTime: 2021-08-28T09:10:00Z
@@ -296,261 +73,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Kamala Harris was en route to Vietnam to donate 1 million COVID-19 vaccines when China swooped in to one-up the US and offered 2 million shots"
-    excerpt: "Harris is traveling in Southeast Asia this week as part of the Biden administration's broader effort to curb China's expanding global influence."
-    publishedDateTime: 2021-08-25T15:17:00Z
-    webUrl: "https://www.businessinsider.com/china-undercuts-kamala-harris-1-million-vaccine-donation-to-vietnam-2021-8"
-    ampWebUrl: "https://www.businessinsider.com/china-undercuts-kamala-harris-1-million-vaccine-donation-to-vietnam-2021-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/china-undercuts-kamala-harris-1-million-vaccine-donation-to-vietnam-2021-8?amp"
+  - title: "Texas Dems’ may have infected Pelosi and Harris aides, dimming prospects for Biden meeting"
+    excerpt: "The Texas Democrats who fled Austin have spent the last eight nights at a hotel a half-mile from the White House, and they’re growing a"
+    publishedDateTime: 2021-07-20T15:40:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/07/20/texas-dems-may-have-infected-pelosi-and-harris-aides-dimming-prospects-for-biden-meeting/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/07/20/texas-dems-may-have-infected-pelosi-and-harris-aides-dimming-prospects-for-biden-meeting/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/07/20/texas-dems-may-have-infected-pelosi-and-harris-aides-dimming-prospects-for-biden-meeting/?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 80
     images:
-      - url: "https://i.insider.com/61265b88ba34430018d9aedf?width=1200&format=jpeg"
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/VuNw3dJQ29DfLLcuiEK23QhNUSE=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/PCSJ5JXUKANH5IEU3MZULTDK2A.jpg"
         width: 1200
-        height: 600
-        isCached: true
-  - title: "Kamala Harris’ Asia trip carries new urgency after Afghan collapse"
-    excerpt: "The Taliban takeover of Afghanistan has given new urgency to Vice President Kamala Harris’ tour of southeast Asia, where she will attempt to reassure allies of American resolve following the"
-    publishedDateTime: 2021-08-20T16:04:00Z
-    webUrl: "https://www.denverpost.com/2021/08/20/kamala-harris-asia-trip/"
-    ampWebUrl: "https://www.denverpost.com/2021/08/20/kamala-harris-asia-trip/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/08/20/kamala-harris-asia-trip/amp/"
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 75
-    images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2021/08/Harris_Asia_44906.jpg?w=1024&#038;h=682"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Harris' Asia trip carries new urgency after Afghan collapse"
-    excerpt: "The Taliban takeover of Afghanistan has given new urgency to Vice President Kamala Harris' tour of S The trip, which began Friday and has stops in Singapore and Vietnam, will provide a forum for Harris to assert herself more directly in foreign affairs."
-    publishedDateTime: 2021-08-21T07:29:00Z
-    webUrl: "https://www.seattlepi.com/news/article/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
-    ampWebUrl: "https://www.seattlepi.com/news/amp/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
-    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Harris-Asia-trip-carries-new-urgency-after-16399646.php"
-    type: article
-    provider:
-      name: seattlepi.com
-      domain: seattlepi.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "US: Kamala Harris visits Asia amid Afghan crisis"
-    excerpt: "Kamala Harris will become the first US vice president to Vietnam. Her visit, however, comes at a time of a humiliating withdrawal of American troops from Afghanistan."
-    publishedDateTime: 2021-08-22T10:00:00Z
-    webUrl: "https://www.dw.com/en/us-kamala-harris-visits-asia-amid-afghan-crisis/a-58949210"
-    ampWebUrl: "https://amp.dw.com/en/us-kamala-harris-visits-asia-amid-afghan-crisis/a-58949210"
-    cdnAmpWebUrl: "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/us-kamala-harris-visits-asia-amid-afghan-crisis/a-58949210"
-    type: article
-    provider:
-      name: Deutsche Welle
-      domain: dw.com
-    quality: 75
-    images:
-      - url: "https://www.dw.com/static/stills/images/je/je20210609_ptc_chinoy05_image_1024x576_3.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Harris to Meet With Singapore Officials to Begin Asia Visit"
-    excerpt: "U.S. Vice President Kamala Harris will meet with Singapore’s president and prime minister as she kicks off a visit to Southeast Asia focused on strengthening ties with key allies in the region."
-    publishedDateTime: 2021-08-23T01:32:00Z
-    webUrl: "https://www.nbcnewyork.com/news/politics/harris-to-meet-with-singapore-officials-to-begin-asia-visit/3235222/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/politics/harris-to-meet-with-singapore-officials-to-begin-asia-visit/3235222/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/harris-to-meet-with-singapore-officials-to-begin-asia-visit/3235222/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 75
-    images:
-      - url: "https://media.nbcnewyork.com/2021/08/AP21234129429589.jpg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "VP Kamala Harris to meet with Singapore officials to begin Asia visit"
-    excerpt: "Vice President Kamala Harris will meet with Singapore’s president and prime minister as she kicks off a visit to Southeast Asia focused on strengthening ties with key allies in the region, a task complicated by the chaotic U."
-    publishedDateTime: 2021-08-23T01:03:00Z
-    webUrl: "https://www.spokesman.com/stories/2021/aug/22/vp-kamala-harris-to-meet-with-singapore-officials-/"
-    ampWebUrl: "https://www.spokesman.com/stories/2021/aug/22/vp-kamala-harris-to-meet-with-singapore-officials-/?amp-content=amp"
-    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/aug/22/vp-kamala-harris-to-meet-with-singapore-officials-/?amp-content=amp"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 75
-    images:
-      - url: "https://thumb.spokesman.com/KJqvIO0xUIcorvEUh-dsJByw8gw=/480x0/media.spokesman.com/photos/2021/08/22/6122e3a936ba4.hires.jpg"
-        width: 480
-        height: 320
-        isCached: true
-  - title: "Harris to offer vision for Indo-Pacific in major speech"
-    excerpt: "U.S. Vice President Kamala Harris is preparing to lay out the Biden administration’s vision for the Indo-Pacific region, an area of growing importance to a government that has made countering China’s influence globally a centerpiece of its foreign policy."
-    publishedDateTime: 2021-08-24T03:52:00Z
-    webUrl: "https://www.spokesman.com/stories/2021/aug/23/harris-to-offer-vision-for-indo-pacific-in-major-s/"
-    ampWebUrl: "https://www.spokesman.com/stories/2021/aug/23/harris-to-offer-vision-for-indo-pacific-in-major-s/?amp-content=amp"
-    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/aug/23/harris-to-offer-vision-for-indo-pacific-in-major-s/?amp-content=amp"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 75
-    images:
-      - url: "https://thumb.spokesman.com/N2HNE3d3V49sMF64E5u-wc5eHOo=/480x0/media.spokesman.com/photos/2021/08/23/61246a6aca3d9.hires.jpg"
-        width: 480
-        height: 317
-        isCached: true
-  - title: "Havana Syndrome in Hanoi delays Kamala Harris’ trip to Vietnam"
-    excerpt: "The Havana Syndrome is the name for a rash of mysterious health incidents first reported by American diplomats and other government employees in the Cuba capital beginning in 2016."
-    publishedDateTime: 2021-08-24T16:09:00Z
-    webUrl: "https://www.al.com/news/2021/08/havana-syndrome-in-hanoi-delays-kamala-harris-trip-to-vietnam.html"
-    ampWebUrl: "https://www.al.com/news/2021/08/havana-syndrome-in-hanoi-delays-kamala-harris-trip-to-vietnam.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/08/havana-syndrome-in-hanoi-delays-kamala-harris-trip-to-vietnam.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/3FRH4NDR4ZFA7PCRP4K55JN5FY.jpg"
-        width: 6000
-        height: 4056
-        isCached: true
-  - title: "Kamala Harris rebukes China in major speech on Indo-Pacific"
-    excerpt: "U.S. Vice President Kamala Harris delivered a sharp rebuke to China for its incursions in the South China Sea, warning its actions there amount to “coercion” and"
-    publishedDateTime: 2021-08-24T04:09:00Z
-    webUrl: "https://www.denverpost.com/2021/08/23/kamala-harris-rebukes-china-speech/"
-    ampWebUrl: "https://www.denverpost.com/2021/08/23/kamala-harris-rebukes-china-speech/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/08/23/kamala-harris-rebukes-china-speech/amp/"
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 75
-    images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2021/08/Singapore_US_Harris_92376.jpg?w=1024&#038;h=677"
-        width: 1024
-        height: 677
-        isCached: true
-  - title: "Kamala Harris calls on Vietnam to join US opposing China ''bullying''"
-    excerpt: "Vice President Kamala Harris called on Vietnam to join the US to challenge China's \"bullying\" in the South China Sea, a continuation of her sharp rhetoric against Beijing as she tours"
-    publishedDateTime: 2021-08-25T05:51:00Z
-    webUrl: "https://www.thehansindia.com/news/international/kamala-harris-calls-on-vietnam-to-join-us-opposing-china-bullying-703286"
-    ampWebUrl: "https://www.thehansindia.com/amp/news/international/kamala-harris-calls-on-vietnam-to-join-us-opposing-china-bullying-703286"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/international/kamala-harris-calls-on-vietnam-to-join-us-opposing-china-bullying-703286"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 75
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2021/08/25/1104032-kamala.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Kamala Harris says US will donate 1M Pfizer vaccine doses to Vietnam"
-    excerpt: "Vice President Kamala Harris said on Wednesday the U.S. plans to donate 1 million Pfizer coronavirus vaccine doses to Vietnam, where only 2% of the population has been vaccinated."
-    publishedDateTime: 2021-08-25T10:37:00Z
-    webUrl: "https://www.foxbusiness.com/politics/kamala-harris-us-donate-pfizer-vaccine-doses-vietnam"
-    ampWebUrl: "https://www.foxbusiness.com/politics/kamala-harris-us-donate-pfizer-vaccine-doses-vietnam.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/kamala-harris-us-donate-pfizer-vaccine-doses-vietnam.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 75
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/8c3971cb-937c-4004-aeb7-220b2857e6da/2d1a7651-f4d2-4402-a55b-4b79a57202d8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Kamala Harris to join husband in Honolulu after official trips in Asia"
-    excerpt: "Vice President Kamala Harris will reunite in Hawaii with second gentleman Doug Emhoff on Thursday following separate trips overseas for official White House functions."
-    publishedDateTime: 2021-08-25T05:17:00Z
-    webUrl: "https://www.staradvertiser.com/2021/08/24/breaking-news/kamala-harris-to-join-husband-in-honolulu-after-official-trips-in-asia/"
-    ampWebUrl: "https://www.staradvertiser.com/2021/08/24/breaking-news/kamala-harris-to-join-husband-in-honolulu-after-official-trips-in-asia/amp/"
-    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2021/08/24/breaking-news/kamala-harris-to-join-husband-in-honolulu-after-official-trips-in-asia/amp/"
-    type: article
-    provider:
-      name: Honolulu Star-Advertiser
-      domain: staradvertiser.com
-    quality: 75
-    images:
-      - url: "https://www.staradvertiser.com/wp-content/uploads/2021/08/web1_AP21237152703837.jpg"
-        width: 760
-        height: 537
-        isCached: true
-  - title: "Kamala Harris urges Vietnam to join U.S. in opposing China “bullying”"
-    excerpt: "Vice President Kamala Harris called on Vietnam to join the U.S. in challenging China’s “bullying” in the South China Sea, continuing her sharp rhetoric against Beijing as she met with Vietnamese"
-    publishedDateTime: 2021-08-25T13:42:00Z
-    webUrl: "https://www.denverpost.com/2021/08/25/kamala-harris-vietnam-china/"
-    ampWebUrl: "https://www.denverpost.com/2021/08/25/kamala-harris-vietnam-china/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/08/25/kamala-harris-vietnam-china/amp/"
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 75
-    images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2021/08/AP21237207190165.jpg?w=1024&#038;h=702"
-        width: 1024
-        height: 702
-        isCached: true
-  - title: "Possible Havana Syndrome cases delay Kamala Harris’s trip to Vietnam"
-    excerpt: "U.S. Vice President Kamala Harris' trip from Singapore to Vietnam was delayed several hours Tuesday by an investigation into two possible cases of the so-called Havana Syndrome in Hanoi, administration officials said."
-    publishedDateTime: 2021-08-24T19:28:00Z
-    webUrl: "https://www.boston.com/news/politics/2021/08/24/possible-havana-syndrome-cases-delay-kamala-harriss-trip-to-vietnam/"
-    ampWebUrl: "https://www.boston.com/news/politics/2021/08/24/possible-havana-syndrome-cases-delay-kamala-harriss-trip-to-vietnam/?amp=1"
-    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/politics/2021/08/24/possible-havana-syndrome-cases-delay-kamala-harriss-trip-to-vietnam/?amp=1"
-    type: article
-    provider:
-      name: Boston.com
-      domain: boston.com
-    quality: 75
-    images:
-      - url: "https://bdc2020.o0bc.com/wp-content/uploads/2021/08/Singapore_US_Harris_76054-612503d375073-scaled.jpg"
-        width: 2560
-        height: 1731
-        isCached: true
-  - title: "VP Kamala Harris trip to Vietnam delayed over Havana Syndrome"
-    excerpt: "Similar, unexplained health ailments have since been reported by Americans serving in other countries, including Germany, Austria, Russia and China. A variety of theories have been floated to"
-    publishedDateTime: 2021-08-24T23:31:00Z
-    webUrl: "https://www.kron4.com/news/world/vp-kamala-harris-trip-to-vietnam-delayed-over-havana-syndrome/"
-    ampWebUrl: "https://www.kron4.com/news/world/vp-kamala-harris-trip-to-vietnam-delayed-over-havana-syndrome/amp/"
-    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/world/vp-kamala-harris-trip-to-vietnam-delayed-over-havana-syndrome/amp/"
-    type: article
-    provider:
-      name: KRON4
-      domain: kron4.com
-    quality: 75
-    images:
-      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2021/08/kamala-harris.jpeg?w=1280"
-        width: 1000
-        height: 650
-        isCached: true
-  - title: "China One-Ups Kamala Harris in Vietnam By Exploiting A Scheduling Delay"
-    excerpt: "China reportedly took advantage of a three-hour travel delay in U.S. Vice President Kamala Harris’ trip to Vietnam as the Chinese government sent its diplomat to pledge two million vaccines, double of what is being offered by the U."
-    publishedDateTime: 2021-08-26T10:40:00Z
-    webUrl: "https://www.ibtimes.com/china-one-ups-kamala-harris-vietnam-exploiting-scheduling-delay-3281492"
-    ampWebUrl: "https://www.ibtimes.com/china-one-ups-kamala-harris-vietnam-exploiting-scheduling-delay-3281492?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/china-one-ups-kamala-harris-vietnam-exploiting-scheduling-delay-3281492?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/08/25/vice-president-kamala-harris-l-with-vietnams-vice.jpg"
-        width: 1024
-        height: 682
+        height: 630
         isCached: true
   - title: "Harris emphasizing human and worker rights in Vietnam"
     excerpt: "Vice President Kamala Harris is turning her focus to worker rights and civil liberties as she closes out her visit to Southeast Asia."
@@ -568,69 +105,69 @@ related:
         width: 6000
         height: 4000
         isCached: true
-  - title: "Kamala Harris Blocks Reporters from Hawaii Event Amid Kabul Firestorm"
-    excerpt: "Vice President Kamala Harris inexplicably blocked reporters for an event in Hawaii on Thursday amid the firestorm over events in Afghanistan."
-    publishedDateTime: 2021-08-27T03:30:00Z
-    webUrl: "https://www.mediaite.com/news/kamala-harris-blocks-reporters-from-hawaii-event-amid-kabul-firestorm/"
-    ampWebUrl: "https://www.mediaite.com/news/kamala-harris-blocks-reporters-from-hawaii-event-amid-kabul-firestorm/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/kamala-harris-blocks-reporters-from-hawaii-event-amid-kabul-firestorm/amp/"
+  - title: "The utter ridiculousness of calls for Joe Biden to resign"
+    excerpt: "None of it is grounds for Biden to resign his office -- as Republican elected officials fell all over themselves to demand even as the casualties f"
+    publishedDateTime: 2021-08-27T14:01:00Z
+    webUrl: "https://www.wthitv.com/content/national/575185862.html"
+    ampWebUrl: "http://www.wthitv.com/templates/AMP?contentID=575185862"
+    cdnAmpWebUrl: "https://www-wthitv-com.cdn.ampproject.org/c/www.wthitv.com/templates/AMP?contentID=575185862"
     type: article
     provider:
-      name: Mediaite
-      domain: mediaite.com
+      name: WTHI-TV
+      domain: wthitv.com
     quality: 75
     images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2021/02/Kamala-Harris-GettyImages-1230988856.jpg"
-        width: 1280
-        height: 720
+      - url: "http://media.heartlandtv.com/designimages/wthi-story-default-image-640x380.png"
+        width: 640
+        height: 380
         isCached: true
-  - title: "VP Kamala Harris to return to California to campaign for Newsom next week"
-    excerpt: "WASHINGTON — Vice President Kamala Harris will campaign for Gov. Gavin Newsom next week as the Democratic Party rallies around the California governor in his recall battle. The vice president and former California senator will visit her home state next ..."
-    publishedDateTime: 2021-08-20T14:09:00Z
-    webUrl: "https://www.sfchronicle.com/politics/article/VP-Kamala-Harris-to-return-to-California-to-16400277.php"
-    ampWebUrl: "https://www.sfchronicle.com/politics/amp/VP-Kamala-Harris-to-return-to-California-to-16400277.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/VP-Kamala-Harris-to-return-to-California-to-16400277.php"
+  - title: "Leave Kamala Harris TF Alone"
+    excerpt: "No offense to Kamala Harris and those who’ve come before her, but there is a reason that the VP job is considered the “most insignificant office.” Harris’s job is not to do anything that would disgrace the office,"
+    publishedDateTime: 2021-08-27T17:00:00Z
+    webUrl: "https://www.theroot.com/leave-kamala-harris-tf-alone-1847571046"
+    ampWebUrl: "https://www.theroot.com/leave-kamala-harris-tf-alone-1847571046/amp"
+    cdnAmpWebUrl: "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/leave-kamala-harris-tf-alone-1847571046/amp"
     type: article
     provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 74
+      name: The Root
+      domain: theroot.com
+    quality: 75
     images:
-      - url: "https://s.hdnux.com/photos/01/21/42/32/21374623/3/400x0.jpg"
-        width: 400
-        height: 266
-        isCached: true
-  - title: "During Singapore visit, VP Kamala Harris says U.S. focus is on Afghanistan"
-    excerpt: "U.S. Vice President Kamala Harris said during a visit to Singapore on Monday that President Joe Biden's administration is focused on getting the remaining American citizens and Afghan aides out of Afghanistan."
-    publishedDateTime: 2021-08-23T12:15:00Z
-    webUrl: "https://www.upi.com/Top_News/World-News/2021/08/23/singapore-kamala-harris-afghanistan/2621629717925/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2021/08/23/singapore-kamala-harris-afghanistan/2621629717925/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/08/23/singapore-kamala-harris-afghanistan/2621629717925/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 73
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/2621629717925/2021/1/a38431fde78228c58e3bea7c8445fb8f/v1.5/During-Singapore-visit-VP-Kamala-Harris-says-US-focus-is-on-Afghanistan.jpg"
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/8a40097d474a254a3ac70223179db2de.jpg"
         width: 800
-        height: 533
+        height: 534
         isCached: true
-  - title: "VP Kamala Harris' Vietnam visit delayed by possible case of Havana syndrome"
-    excerpt: "The vice president's Vietnam visit was delayed for three hours after her office was told of a \"recent possible anomalous health incident in Hanoi.\""
-    publishedDateTime: 2021-08-24T19:46:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2021/08/24/vp-harris-vietnam-visit-delayed-possible-case-havana-syndrome/8254594002/"
-    ampWebUrl: "https://amp.indystar.com/amp/8254594002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/8254594002"
+  - title: "Images of Joe Biden’s war will never fade"
+    excerpt: "Befuddled by time, disoriented by a riot of terrible decisions, and confused by the demand for answers, President Joe Biden stood in the East Room of the White House, clutched his binder to his chest,"
+    publishedDateTime: 2021-08-30T23:48:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/aug/30/images-of-joe-bidens-war-will-never-fade/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/30/images-of-joe-bidens-war-will-never-fade/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/30/images-of-joe-bidens-war-will-never-fade/"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 73
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/08/24/USAT/d511492f-ef8e-4620-888e-f9dbdbe46e98-AFP_9LK3P2.jpg?auto=webp&crop=7817,4398,x0,y281&format=pjpg&width=1200"
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/08/26/Biden_37683.jpg-e9a80_c0-414-4967-3311_s1200x700.jpg?68ec6885488a9f2d33a5b30c517f2601ca6a8e9f"
         width: 1200
-        height: 675
+        height: 700
+        isCached: true
+  - title: "Joe Biden’s Crisis Moment Has Arrived"
+    excerpt: "With Democrats distancing themselves from the president over his bungled Afghanistan withdrawal, COVID still spreading, and a tropical storm wreaking havoc in Louisiana, is Biden’s messaging getting lost in the chaos?"
+    publishedDateTime: 2021-08-30T17:44:00Z
+    webUrl: "https://www.vanityfair.com/news/2021/08/joe-biden-crisis-moment-has-arrived-afghanistan-covid-ida"
+    ampWebUrl: "https://www.vanityfair.com/news/2021/08/joe-biden-crisis-moment-has-arrived-afghanistan-covid-ida/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2021/08/joe-biden-crisis-moment-has-arrived-afghanistan-covid-ida/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 75
+    images:
+      - url: "https://media.vanityfair.com/photos/612cfef15f6fb57f04d927b4/master/pass/Biden8.30.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Vice President Kamala Harris emphasizing human and worker rights in Vietnam"
     excerpt: "HANOI >> Vice President Kamala Harris will turn her attention to issues surrounding worker rights and civil liberties Thursday as she closes out her visit to Southeast Asia, elevating activists in a region of the world known for its challenges and restrictions to human rights."
@@ -648,245 +185,21 @@ related:
         width: 760
         height: 483
         isCached: true
-  - title: "VP Kamala Harris raises human rights concerns in Vietnam to wrap Asia trip"
-    excerpt: "U.S. Vice President Kamala Harris on Thursday completed her visit to Southeast Asia with a news conference in Vietnam, in which she said she raised concerns about human rights issues with leaders in Hanoi."
-    publishedDateTime: 2021-08-26T13:18:00Z
-    webUrl: "https://www.upi.com/Top_News/World-News/2021/08/26/vietnam-kamala-harris-hanoi/4981629979802/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2021/08/26/vietnam-kamala-harris-hanoi/4981629979802/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/08/26/vietnam-kamala-harris-hanoi/4981629979802/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 73
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/4981629979802/2021/1/16299809545976/v1.5/VP-Kamala-Harris-raises-human-rights-concerns-in-Vietnam-to-wrap-Asia-trip.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "VP Kamala Harris vows to back Southeast Asia allies against China 'coercion'"
-    excerpt: "Vice President Kamala Harris in Singapore on Tuesday reaffirmed the United States' commitment to its allies in Southeast Asia in the face of China's aggression in the region."
-    publishedDateTime: 2021-08-24T09:16:00Z
-    webUrl: "https://www.upi.com/Top_News/World-News/2021/08/24/Vice-President-Kamala-Harris-vows-to-support-Southeast-Asian-allies-against-Chinas-coercion-and-intimidation/6891629790105/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2021/08/24/Vice-President-Kamala-Harris-vows-to-support-Southeast-Asian-allies-against-Chinas-coercion-and-intimidation/6891629790105/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/08/24/Vice-President-Kamala-Harris-vows-to-support-Southeast-Asian-allies-against-Chinas-coercion-and-intimidation/6891629790105/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 72
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/6891629790105/2021/1/16297948963740/v1.5/VP-Kamala-Harris-vows-to-back-Southeast-Asia-allies-against-China-coercion.jpg"
-        width: 800
-        height: 531
-        isCached: true
-  - title: "VP Kamala Harris visits Vietnam, pledges U.S. help to repel China 'bullying'"
-    excerpt: "Vice President Harris met with the top leaders of Vietnam Wednesday and told them that \"pressure\" is needed to force China to follow international laws in the South China Sea and prevent Beijing from bullying neighbors."
-    publishedDateTime: 2021-08-25T12:01:00Z
-    webUrl: "https://www.upi.com/Top_News/World-News/2021/08/25/Vietnam-Kamala-Harris-China-South-Sea/4241629888097/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2021/08/25/Vietnam-Kamala-Harris-China-South-Sea/4241629888097/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/08/25/Vietnam-Kamala-Harris-China-South-Sea/4241629888097/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 72
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/4241629888097/2021/1/16298888971359/v1.5/VP-Kamala-Harris-visits-Vietnam-pledges-US-help-to-repel-China-bullying.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Kamala Harris' trip to Asia has new urgency amid collapse of Afghan government"
-    excerpt: "The Taliban takeover of Afghanistan is giving new urgency to Vice President Kamala Harris' tour of southeast Asia, where she will attempt to reassure allies of American resolve following the chaotic end of a two-decade war."
-    publishedDateTime: 2021-08-20T14:12:00Z
-    webUrl: "https://www.turnto23.com/news/world/kamala-harris-trip-to-asia-has-new-urgency-amid-collapse-of-afghan-government"
-    ampWebUrl: "https://www.turnto23.com/news/world/kamala-harris-trip-to-asia-has-new-urgency-amid-collapse-of-afghan-government?_amp=true"
-    cdnAmpWebUrl: "https://www-turnto23-com.cdn.ampproject.org/c/s/www.turnto23.com/news/world/kamala-harris-trip-to-asia-has-new-urgency-amid-collapse-of-afghan-government?_amp=true"
-    type: article
-    provider:
-      name: KERO-TV
-      domain: turnto23.com
-    quality: 71
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/a79730c/2147483647/strip/true/crop/1000x563+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F52%2F9b%2Fe36788114c3ebf95b116d24e4e64%2Fap21222520693850.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Kamala Harris vows to support Southeast Asian allies against China's 'coercion'"
-    excerpt: "Vice President Kamala Harris in Singapore on Tuesday reaffirmed the United States' commitment to its allies in Southeast Asia in the face of China's aggression in the region."
-    publishedDateTime: 2021-08-24T09:16:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/08/24/Vice-President-Kamala-Harris-vows-to-support-Southeast-Asian-allies-against-Chinas-coercion-and-intimidation/6891629790105/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/08/24/Vice-President-Kamala-Harris-vows-to-support-Southeast-Asian-allies-against-Chinas-coercion-and-intimidation/6891629790105/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/24/Vice-President-Kamala-Harris-vows-to-support-Southeast-Asian-allies-against-Chinas-coercion-and-intimidation/6891629790105/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 71
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/6891629790105/2021/1/16297948963740/v1.5/Kamala-Harris-vows-to-support-Southeast-Asian-allies-against-Chinas-coercion.jpg"
-        width: 800
-        height: 531
-        isCached: true
-  - title: "US Vice President Kamala Harris Puts Pressure On China Over Maritime 'Bullying'"
-    excerpt: "Vice President Kamala Harris says the US will find new ways to \"raise the pressure on Beijing\", accusing China of bullying in the hotly disputed Asian waters for the second time in two days. China claims almost all of the resource-rich South China Sea,"
-    publishedDateTime: 2021-08-25T21:11:00Z
-    webUrl: "https://www.barrons.com/news/us-vice-president-kamala-harris-puts-pressure-on-china-over-maritime-bullying-01629911721"
-    ampWebUrl: "https://www.barrons.com/amp/news/us-vice-president-kamala-harris-puts-pressure-on-china-over-maritime-bullying-01629911721"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/us-vice-president-kamala-harris-puts-pressure-on-china-over-maritime-bullying-01629911721"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 71
-    images:
-      - url: "https://m.wsj.net/video/20210825/d1cb4f0e-bdb9-4255-aae9-45cf7617559d/1/cover-image--_512x288.jpg"
-        width: 512
-        height: 288
-        isCached: true
-  - title: "Michael Strahan, Kamala Harris and More on How Their HBCU Experience Shaped Them"
-    excerpt: "There's just something about the HBCU experience that bonds Black Hollywood like nothing else. Remember when Spike Lee's BlacKkKlansman won the Oscar for Best Adapted Screenplay and Samuel L. Jackson couldn't help but exclaim,"
-    publishedDateTime: 2021-08-20T22:18:00Z
-    webUrl: "https://www.etonline.com/michael-strahan-kamala-harris-and-more-on-how-their-hbcu-experience-shaped-them-170682"
-    ampWebUrl: "https://www.etonline.com/michael-strahan-kamala-harris-and-more-on-how-their-hbcu-experience-shaped-them-170682?amp"
-    cdnAmpWebUrl: "https://www-etonline-com.cdn.ampproject.org/c/s/www.etonline.com/michael-strahan-kamala-harris-and-more-on-how-their-hbcu-experience-shaped-them-170682?amp"
-    type: article
-    provider:
-      name: Entertainment Tonight
-      domain: etonline.com
-    quality: 70
-    images:
-      - url: "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2021-08/hbcu.jpg?h=2e6157fd&itok=AA-SHIOi"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Meghan McCain slams Kamala Harris for 'sacrifice in Vietnam' tweet honoring her dad"
-    excerpt: "Meghan McCain wants Kamala Harris to 'spend every second making sure every single American and Afghan ally is out of harms way' to honor her dad"
-    publishedDateTime: 2021-08-26T16:00:00Z
-    webUrl: "https://meaww.com/meghan-mc-cain-slams-kamala-harris-john-mc-cain-death-anniversary-americans-in-harms-way-afghanistan"
-    ampWebUrl: "https://meaww.com/amp/meghan-mc-cain-slams-kamala-harris-john-mc-cain-death-anniversary-americans-in-harms-way-afghanistan"
-    cdnAmpWebUrl: "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/meghan-mc-cain-slams-kamala-harris-john-mc-cain-death-anniversary-americans-in-harms-way-afghanistan"
-    type: article
-    provider:
-      name: Meaww
-      domain: meaww.com
-    quality: 69
-    images:
-      - url: "https://cheesecake.articleassets.meaww.com/546458/uploads/959e2970-067a-11ec-8f52-6bdcca8d7ca9_800_420.png"
-        width: 800
-        height: 420
-        isCached: true
-  - title: "'We are going to speak up' VP Kamala Harris issues stern warning to 'bully' Beijing"
-    excerpt: "This may include adverts from us and 3rd parties based on our understanding. You can unsubscribe at any time. More info Kamala Harris, 56, has concluded her tour of the Far East in Hanoi, Vietnam, where she spoke before a press conference about Sino ..."
-    publishedDateTime: 2021-08-27T01:33:00Z
-    webUrl: "https://www.express.co.uk/news/world/1482636/south-china-sea-latest-vice-president-kamala-harris-joe-biden-vows-speak-up-beijing-ont"
-    ampWebUrl: "https://www.express.co.uk/news/world/1482636/south-china-sea-latest-vice-president-kamala-harris-joe-biden-vows-speak-up-beijing-ont/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/world/1482636/south-china-sea-latest-vice-president-kamala-harris-joe-biden-vows-speak-up-beijing-ont/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 69
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/78/590x/VP-Kamala-Harris-1482636.jpg?r=1630021232427"
-        width: 590
-        height: 350
-        isCached: true
-  - title: "Arizona Opinion: Kamala Harris’ remarks on migration were disappointing — here’s why"
-    excerpt: "The three-word remark from Vice President Kamala Harris during her first official trip to Central America were, suffice to say, disappointing. More than disappointing, they were the perfect ..."
-    publishedDateTime: 2021-08-29T14:03:00Z
-    webUrl: "https://tucson.com/opinion/local/arizona-opinion-kamala-harris-remarks-on-migration-were-disappointing-here-s-why/article_9d2d847a-0764-11ec-adde-3b12031a01e6.html"
-    ampWebUrl: "https://tucson.com/opinion/local/arizona-opinion-kamala-harris-remarks-on-migration-were-disappointing-here-s-why/article_9d2d847a-0764-11ec-adde-3b12031a01e6.amp.html"
-    cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/opinion/local/arizona-opinion-kamala-harris-remarks-on-migration-were-disappointing-here-s-why/article_9d2d847a-0764-11ec-adde-3b12031a01e6.amp.html"
-    type: article
-    provider:
-      name: Arizona Daily Star
-      domain: tucson.com
-    quality: 68
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/6/3e/63e31170-0765-11ec-9e41-6f022ee87915/6129304c57b52.image.jpg"
-        width: 356
-        height: 352
-        isCached: true
-  - title: "Kamala Harris in 2019: I Will Protect the Women of Afghanistan and Keep Terrorists Out"
-    excerpt: "Kamala Harris, to the Council on Foreign Relations, August 21, 2019: Nobody can predict what President Trump will do between now and 2021, so as soon as I take office, I will bring together our military leaders, national security advisers, and top ..."
-    publishedDateTime: 2021-08-20T19:08:00Z
-    webUrl: "https://www.nationalreview.com/corner/kamala-harris-in-2019-i-will-protect-the-women-of-afghanistan-and-keep-terrorists-out/"
-    ampWebUrl: "https://www.nationalreview.com/corner/kamala-harris-in-2019-i-will-protect-the-women-of-afghanistan-and-keep-terrorists-out/amp/"
-    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/kamala-harris-in-2019-i-will-protect-the-women-of-afghanistan-and-keep-terrorists-out/amp/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 67
-    images:
-      - url: "https://www.nationalreview.com/wp-content/uploads/2021/08/kamala-harris.jpg?fit=2057%2C1200"
-        width: 2057
-        height: 1200
-        isCached: true
-  - title: "Kamala Harris begins Asia trip to reassure allies of US dependability amid Afghan drawdown"
-    excerpt: "Vice President Kamala Harris began her Asia trip on Sunday. She seeks to offer reassurances of Washington's commitment to the region after the chaotic US pullout from Afghanistan and Taliban takeover."
-    publishedDateTime: 2021-08-22T12:48:00Z
-    webUrl: "https://www.firstpost.com/world/kamala-harris-begins-asia-trip-to-reassure-allies-of-us-dependability-amid-afghan-drawdown-9904751.html"
-    ampWebUrl: "https://www.firstpost.com/world/kamala-harris-begins-asia-trip-to-reassure-allies-of-us-dependability-amid-afghan-drawdown-9904751.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/world/kamala-harris-begins-asia-trip-to-reassure-allies-of-us-dependability-amid-afghan-drawdown-9904751.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 65
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2020/11/kamala-harris-640-AP.jpg"
-        width: 640
-        height: 362
-        isCached: true
-  - title: "‘Find your courage’: GOP lawmaker urges Kamala Harris to invoke 25th Amendment, seize power"
-    excerpt: "A Republican House member wrote a letter Thursday to Vice President Kamala Harris, asking that she seize power under the 25th Amendment."
-    publishedDateTime: 2021-08-27T02:39:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/aug/26/madison-cawthorn-urges-kamala-harris-invoke-25th-a/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/26/madison-cawthorn-urges-kamala-harris-invoke-25th-a/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/26/madison-cawthorn-urges-kamala-harris-invoke-25th-a/"
+  - title: "Rep. Lauren Boebert: Slain Wyoming Marine’s ‘blood is on Joe Biden’s hands’"
+    excerpt: "Rep. Lauren Boebert, Colorado Republican, lashed out Friday at President Biden after she spoke to a Colorado mother whose son was among the Marines killed in Afghanistan on Thursday, saying that “his blood is on Joe Biden’s hands."
+    publishedDateTime: 2021-08-28T01:50:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/aug/27/rep-boebert-slain-wyoming-marines-blood-joe-bidens/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/27/rep-boebert-slain-wyoming-marines-blood-joe-bidens/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/27/rep-boebert-slain-wyoming-marines-blood-joe-bidens/"
     type: article
     provider:
       name: Washington Times
       domain: washingtontimes.com
-    quality: 65
+    quality: 73
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/03/08/Biden_42426.jpg-0df9a_c0-0-4505-2627_s1200x700.jpg?60cf3437de24de7bd09c076a5d6e0c6e1b5a6328"
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/08/18/Lauren_Boebert_Financial_Disclosure_87587.jpg-a436a_c0-237-5689-3555_s1200x700.jpg?fd67fa685ec1ecfd5e27212a5fbb04f75801d75b"
         width: 1200
         height: 700
-        isCached: true
-  - title: "Kamala Harris under fire for LAUGHING while being grilled on Afghanistan crisis as she tanks in polls"
-    excerpt: "KAMALA Harris has been slammed for laughing while being grilled on the Afghanistan crisis as the VP’s approval numbers tank. Footage from a Friday night chat with reporters has shown the"
-    publishedDateTime: 2021-08-23T12:10:00Z
-    webUrl: "https://www.the-sun.com/news/3524099/kamala-harris-laughing-afghanistan-polls/"
-    ampWebUrl: "https://www.the-sun.com/news/3524099/kamala-harris-laughing-afghanistan-polls/amp/"
-    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3524099/kamala-harris-laughing-afghanistan-polls/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: the-sun.com
-    quality: 60
-    images:
-      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/COMP_RR_KAMALA.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Vice President Kamala Harris stops in Hawaii to meet with troops after weeklong trip to Southeast Asia"
-    excerpt: "Vice President Kamala Harris arrived in Hawaii on Thursday, Aug. 26, capping a weeklong trip to Southeast Asia where she met with top officials in Singapore and Vietnam to encourage expanding U.S."
-    publishedDateTime: 2021-08-27T01:38:00Z
-    webUrl: "https://www.khon2.com/local-news/vice-president-harris-arrives-in-hawaii-after-weeklong-trip-to-southeast-asia/"
-    ampWebUrl: "https://www.khon2.com/local-news/vice-president-harris-arrives-in-hawaii-after-weeklong-trip-to-southeast-asia/amp/"
-    cdnAmpWebUrl: "https://www-khon2-com.cdn.ampproject.org/c/s/www.khon2.com/local-news/vice-president-harris-arrives-in-hawaii-after-weeklong-trip-to-southeast-asia/amp/"
-    type: article
-    provider:
-      name: KHON2
-      domain: khon2.com
-    quality: 59
-    images:
-      - url: "https://www.khon2.com/wp-content/uploads/sites/8/2021/08/20210826-KAMALA-HARRIS-HAWAII.png?w=1280"
-        width: 1280
-        height: 723
         isCached: true
   - title: "Kamala Harris’ Southeast Asia Visit Shows Biden’s Southeast Asia Policy Still Lacks a Clear Roadmap"
     excerpt: "The expansion of U.S. cooperation with Southeast Asia was a welcome step, but the question of long-term strategy remains."
@@ -902,161 +215,47 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Harris’ Asia trip carries new urgency after Afghan collapse"
-    excerpt: "The Taliban takeover of Afghanistan is giving new urgency to Vice President Kamala Harris’ tour of southeast Asia, where she will attempt to reassure allies of American resolve following the chaotic end of a two-decade war."
-    publishedDateTime: 2021-08-20T15:54:00Z
-    webUrl: "https://www.thenewstribune.com/news/business/article253625068.html"
-    ampWebUrl: "https://amp.thenewstribune.com/news/business/article253625068.html"
-    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article253625068.html"
+  - title: "Joe Biden Should Resign"
+    excerpt: "President Joe Biden keeps appearing on the television screen. He vaguely reminds me of former President Donald Trump with his press conferences on COVID-19, Operation Warp Speed and anything else that popped into his mind."
+    publishedDateTime: 2021-08-26T12:05:00Z
+    webUrl: "https://patriotpost.us/opinion/82246-joe-biden-should-resign-2021-08-26"
     type: article
     provider:
-      name: News Tribune
-      domain: thenewstribune.com
-    quality: 55
-  - title: "US Vice President Kamala Harris arrives in Singapore for official visit"
-    excerpt: "SINGAPORE: United States Vice President Kamala Harris landed at Paya Lebar Air Base on Sunday (Aug 22) morning, kicking off a three-day visit to Singapore. Ms Harris disembarked from the blue-and-white Air Force Two and gave a short wave."
-    publishedDateTime: 2021-08-22T10:52:00Z
-    webUrl: "https://www.channelnewsasia.com/singapore/kamala-harris-singapore-asia-visit-us-vice-president-2128571"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
+      name: The Patriot Post
+      domain: patriotpost.us
     quality: 55
     images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--zAqJx0NW--/fl_relative%2Cg_south_east%2Cl_mediacorp:cna:watermark:2021-08:cna%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_338%2Cw_600/v1/mediacorp/cna/image/2021-08/us_vice_president_kamala_harris_arrives_in_singapore_1.jpg?itok=wQ1mVy0h"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Kamala Harris can't rescue U.S.' credibility in Southeast Asia"
-    excerpt: "Kamala Harris's visit to Southeast Asia aims to convey that the U.S. has an enduring commitment to the region and is in Southeast Asia to stay to counter China's influence in the region. It will have little success."
-    publishedDateTime: 2021-08-23T10:17:00Z
-    webUrl: "https://news.cgtn.com/news/2021-08-23/Kamala-Harris-can-t-rescue-U-S-credibility-in-Southeast-Asia-12XG9G4vutW/index.html"
-    type: article
-    provider:
-      name: CGTN
-      domain: cgtn.com
-    quality: 55
-    images:
-      - url: "https://news.cgtn.com/news/2021-08-23/Kamala-Harris-can-t-rescue-U-S-credibility-in-Southeast-Asia-12XG9G4vutW/img/808e21e88cc646e58770e0e74eec8872/808e21e88cc646e58770e0e74eec8872-1920.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Kamala Harris visits Singapore to deepen ties"
-    excerpt: "SINGAPORE: U.S. Vice President Kamala Harris will meet Singapore's leaders on Monday on the first working day of a trip to Southeast Asia aimed at bolstering ties as part of Washington's efforts to counter China's growing influence."
-    publishedDateTime: 2021-08-22T22:33:00Z
-    webUrl: "https://www.thestar.com.my/business/business-news/2021/08/23/kamala-harris-visits-singapore-to-deepen-ties"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 55
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/08/23/1265713.jpg"
-        width: 620
-        height: 413
-        isCached: true
-  - title: "US Veep Kamala Harris vows 'enduring engagement' in Asia"
-    excerpt: "Vice-President Kamala Harris vowed \"enduring engagement\" in Asia on Monday, offering reassurances of Washington's commitment to the region following the United States' withdrawal from Afghanistan and the Taliban takeover."
-    publishedDateTime: 2021-08-23T11:04:00Z
-    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/08/23/us-veep-kamala-harris-vows-039enduring-engagement039-in-asia"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 55
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/08/23/1266478.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Harris to meet with Singapore officials to begin Asia visit"
-    excerpt: "Vice President Kamala Harris met with Singapore’s president and prime minister to kick off a visit to Southeast Asia focused on strengthening ties with key allies in the region, a task complicated by the chaotic U."
-    publishedDateTime: 2021-08-23T19:54:00Z
-    webUrl: "https://www.sunherald.com/news/health/article253678728.html"
-    ampWebUrl: "https://amp.sunherald.com/news/health/article253678728.html"
-    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/health/article253678728.html"
-    type: article
-    provider:
-      name: Biloxi Sun Herald
-      domain: sunherald.com
-    quality: 55
-  - title: "Kamala Harris Says Beijing Continues to 'Coerce' in South China Sea"
-    excerpt: "U.S. Vice President Kamala Harris on Tuesday accused Beijing of continuing to \"coerce\" and \"intimidate\" in the South China Sea and pledged that Washington would pursue a free and open Indo Pacific. Her comments came during a trip to Singapore."
-    publishedDateTime: 2021-08-24T03:09:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2021-08-23/kamala-harris-says-beijing-continues-to-coerce-in-south-china-sea"
-    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-08-23/kamala-harris-says-beijing-continues-to-coerce-in-south-china-sea?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-08-23/kamala-harris-says-beijing-continues-to-coerce-in-south-china-sea?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "US VP Harris: Focus must stay on Afghan evacuation"
-    excerpt: "Vice President Kamala Harris asserted Monday that the U.S. must maintain its focus on evacuating Americans and vulnerable Afghans and shouldn’t get distracted by questions over what went wrong in the chaotic U."
-    publishedDateTime: 2021-08-23T19:56:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/article/US-VP-Harris-Focus-must-stay-on-Afghan-evacuation-16404735.php"
-    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/US-VP-Harris-Focus-must-stay-on-Afghan-evacuation-16404735.php"
-    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/US-VP-Harris-Focus-must-stay-on-Afghan-evacuation-16404735.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 55
-  - title: "Kamala Harris accuses China of 'intimidation' in South China Sea"
-    excerpt: "US Vice President Kamala Harris is currently in Southeast Asia for her Singapore and Vietnam visits. During her first stop in Singapore, Harris also weighed in on the tensions surrounding the South China Sea and"
-    publishedDateTime: 2021-08-25T05:23:00Z
-    webUrl: "https://www.econotimes.com/Kamala-Harris-accuses-China-of-intimidation-in-South-China-Sea-1615754"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 55
-    images:
-      - url: "https://s1.econotimes.com/assets/uploads/20210825bb19af0af827cc4ff_th_1024x0.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Kamala Harris in Southeast Asia: Rationale, rhetoric and reality"
-    excerpt: "As the U.S. diplomats come and go, Southeast Asian countries should not be blind to such stark reality of U.S. foreign policy conditioned by Washington's anarchic view of world politics and the lingering \"America First\" rhetoric."
-    publishedDateTime: 2021-08-24T17:18:00Z
-    webUrl: "https://news.cgtn.com/news/2021-08-24/Kamala-Harris-in-Southeast-Asia-Rationale-rhetoric-and-reality-12ZsGB341kQ/index.html"
-    type: article
-    provider:
-      name: CGTN
-      domain: cgtn.com
-    quality: 55
-    images:
-      - url: "https://news.cgtn.com/news/2021-08-24/Kamala-Harris-in-Southeast-Asia-Rationale-rhetoric-and-reality-12ZsGB341kQ/img/7fdaac814d71432fa4bf568466f4415d/7fdaac814d71432fa4bf568466f4415d-1920.png"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Kamala Harris hits out at China again during Vietnam visit"
-    excerpt: "US Vice President Kamala Harris is wrapping up her visit to Southeast Asia through her first engagements in the region in Singapore and Vietnam. During her visit to Vietnam, Harris reiterated the US commitment to"
-    publishedDateTime: 2021-08-26T09:56:00Z
-    webUrl: "https://www.econotimes.com/Kamala-Harris-hits-out-at-China-again-during-Vietnam-visit-1615859"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 55
-    images:
-      - url: "https://s1.econotimes.com/assets/uploads/20210826af510501215438457_th_1024x0.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Kamala Harris met with LGBTQ activists before leaving Vietnam"
-    excerpt: "Vice President Kamala Harris met with LGBTQ and disability activists before leaving Vietnam. Harris held a roundtable discussion that included Chu Thanh Hà Ngoc, a transgender activist, and Đoàn Thanh Tùng,"
-    publishedDateTime: 2021-08-26T21:13:00Z
-    webUrl: "https://www.lgbtqnation.com/2021/08/kamala-harris-met-lgbtq-activists-leaving-vietnam/"
-    type: article
-    provider:
-      name: LGBTQ Nation
-      domain: lgbtqnation.com
-    quality: 55
-    images:
-      - url: "https://abuwjaawap.cloudimg.io/v7/_lgbtqnation-assets_/assets/2021/07/51101860704_ba910b286c_o-scaled.jpg?&auto=format&auto=compress&crop=faces&fit=crop&gravity=face&w=1200&h=630&wat=1&wat_gravity=southeast&wat_pad=40"
+      - url: "https://img.patriotpost.us/01FDHPJ6NJX3JM53KNHF491QTE.jpeg?w=1200&h=600"
         width: 1200
-        height: 630
+        height: 600
+        isCached: true
+  - title: "Joe Biden’s Labor Board Picks Have Been Surprisingly Encouraging"
+    excerpt: "Biden's political history is anything but pro-labor. But his moves thus far to strengthen workers' rights through the National Labor Relations Board have actually been very promising."
+    publishedDateTime: 2021-08-27T02:40:00Z
+    webUrl: "https://jacobinmag.com/2021/08/workers-rights-national-labor-relations-board-biden-administration-union-law/"
+    type: article
+    provider:
+      name: Jacobin
+      domain: jacobinmag.com
+    quality: 55
+    images:
+      - url: "https://images.jacobinmag.com/wp-content/uploads/2021/08/26123837/GettyImages-1234864559.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Rep. Boebert: 'There is Blood on Joe Biden's Hands'"
+    excerpt: "In the wake of the bombing at the Kabul airport in Afghanistan that killed at least 12 U.S. Marines and an unconfirmed number of civilians, House Rep. Lauren Boebert (R-Colo.) said President Joe Biden has blood on his hands for failing to competently plan and execute the withdrawal from Afghanistan."
+    publishedDateTime: 2021-08-26T17:39:00Z
+    webUrl: "https://www.cnsnews.com/article/washington/michael-w-chapman/rep-boebert-there-blood-joe-bidens-hands"
+    type: article
+    provider:
+      name: CNSNews.com
+      domain: cnsnews.com
+    quality: 55
+    images:
+      - url: "https://cdn.cnsnews.com/styles/article_big/s3/2021-08/green%2C%20mark%20%20%2045.jpg"
+        width: 700
+        height: 466
         isCached: true
   - title: "Watch Vice President Kamala Harris: Chase the Dream"
     excerpt: "Vice President Kamala Harris: Chase the Dream is available to watch free on Tubi TV and Kanopy. It's also available to stream, download on demand at . Some platforms allow you to rent Vice President Kamala Harris: Chase the Dream for a limited time or ..."
@@ -1072,260 +271,59 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris Visits Singapore to Deepen Ties, Counter China's Influence"
-    excerpt: "U.S. Vice President Kamala Harris will meet Singapore's leaders on Monday on the first working day of a trip to Southeast Asia aimed at bolstering ties as part of Washington's efforts to counter China's growing influence."
-    publishedDateTime: 2021-08-22T22:05:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2021-08-22/kamala-harris-visits-singapore-to-deepen-ties-counter-chinas-influence"
-    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-08-22/kamala-harris-visits-singapore-to-deepen-ties-counter-chinas-influence?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-08-22/kamala-harris-visits-singapore-to-deepen-ties-counter-chinas-influence?context=amp"
+  - title: "U.S. to go on hitting ISIS, Biden pledges"
+    excerpt: "President Joe Biden vowed Saturday to keep up airstrikes against the Islamic extremist group whose suicide bombing at the Kabul airport killed scores of Afghans and 13 American service members. Another terror attack,"
+    publishedDateTime: 2021-08-29T08:59:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/aug/29/us-to-go-on-hitting-isis-biden-pledges/?news"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 54
-  - title: "Kamala Harris: VP trip to Vietnam delayed due to possible Havana syndrome"
-    excerpt: "Vice President Kamala Harris wraps up her visit to Southeast Asia this week in her visits to Singapore and Vietnam. Prior to visiting Hanoi, Harriss trip to the country was delayed out of concerns of a possible incident"
-    publishedDateTime: 2021-08-27T10:15:00Z
-    webUrl: "https://www.econotimes.com/Kamala-Harris-VP-trip-to-Vietnam-delayed-due-to-possible-Havana-syndrome-1615924"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 54
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 55
     images:
-      - url: "https://s1.econotimes.com/assets/uploads/2021082698f1102ce981cb6c9_th_1024x0.jpg"
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/199258283_199257870-b29018f6db5642afb236295d3817bbdb_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 434
+        isCached: true
+  - title: "Joe Biden’s Jimmy Carter Moment"
+    excerpt: "Never in my life have I witnessed American soldiers die the way 13 Marines and service members did last Thursday."
+    publishedDateTime: 2021-08-30T17:16:00Z
+    webUrl: "https://jewishjournal.com/commentary/340127/joe-bidens-jimmy-carter-moment/"
+    type: article
+    provider:
+      name: Jewish Journal
+      domain: jewishjournal.com
+    quality: 55
+    images:
+      - url: "https://jewishjournal.com/wp-content/uploads/2021/08/Bien-Boteach.jpg"
         width: 800
         height: 533
         isCached: true
-  - title: "Kamala Harris visits Singapore to deepen ties and counter China's influence"
-    excerpt: "US Vice President Kamala Harris will meet Singapore's leaders on Monday on the first working day of a trip to Southeast Asia aimed at bolstering ties as part of Washington's efforts to counter China's growing influence."
-    publishedDateTime: 2021-08-23T00:52:00Z
-    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/08/23/kamala-harris-visits-singapore-to-deepen-ties-and-counter-china039s-influence"
+  - title: "VP Kamala Harris slams China right on their doorstep – here’s what she said"
+    excerpt: "During her visit to Singapore on Tuesday, Vice President Kamala Harris railed against China for coercing and intimidating countries in the South China Sea. 'We know that Beijing continues to coerce, to intimidate,"
+    publishedDateTime: 2021-08-25T17:42:00Z
+    webUrl: "https://americanmilitarynews.com/2021/08/vp-kamala-harris-slams-china-right-on-their-doorstep-heres-what-she-said/"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
+      name: American Military News
+      domain: americanmilitarynews.com
     quality: 53
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/08/23/1265774.jpg"
-        width: 800
-        height: 533
+      - url: "https://americanmilitarynews.com/wp-content/uploads/Screenshot-2021-08-25-9.46.53-AM.png"
+        width: 1130
+        height: 759
         isCached: true
-  - title: "US Vice President Kamala Harris arrives in Singapore for official visit | Video"
-    excerpt: "United States Vice President Kamala Harris landed at Paya Lebar Air Base on Sunday (Aug 22) morning, kicking off a three-day visit to Singapore. Jeremy Koh reports."
-    publishedDateTime: 2021-08-22T15:27:00Z
-    webUrl: "https://www.channelnewsasia.com/watch/us-vice-president-kamala-harris-arrives-singapore-official-visit-video-2129416"
+  - title: "For Biden’s presidency has been driven by crisis and is the ‘loneliest job’"
+    excerpt: "President Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan, even as he and the nation continued to battle the COVID-19 pandemic."
+    publishedDateTime: 2021-08-28T13:24:00Z
+    webUrl: "https://www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/?outputType=amp"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 51
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--7PcIqGvN--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_338%2Cw_600/v1/mediacorp/cna/image/2021-08/image_401.jpg?itok=4B1kEs8O"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Kamala Harris compared to Joker by Meghan McCain for laughing over Afghanistan & refusing to admit withdrawal mistakes"
-    excerpt: "KAMALA Harris was compared to The Joker by Meghan McCain for laughing over the Afghanistan crisis and refusing to admit the Biden administration’s troop withdrawal mistakes. The Vice"
-    publishedDateTime: 2021-08-23T20:56:00Z
-    webUrl: "https://www.the-sun.com/news/3527458/kamala-harris-joker-laughing-meghan-mccain-afghanistan/"
-    ampWebUrl: "https://www.the-sun.com/news/3527458/kamala-harris-joker-laughing-meghan-mccain-afghanistan/amp/"
-    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3527458/kamala-harris-joker-laughing-meghan-mccain-afghanistan/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: the-sun.com
-    quality: 51
-    images:
-      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/TT_KamalaHarrisOP-3.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "VP Kamala Harris’ trip to Southeast Asia overshadowed by events in Afghanistan"
-    excerpt: "Vice President Kamala Harris is in Singapore on the first leg of her trip to Southeast Asia. The goal is to reassure American allies in the region of the US' commitment there — a task that just got a lot harder after the Taliban takeover and frenzied evacuations from Afghanistan."
-    publishedDateTime: 2021-08-23T20:31:00Z
-    webUrl: "https://www.pri.org/file/2021-08-23/vp-kamala-harris-trip-southeast-asia-overshadowed-events-afghanistan"
-    type: article
-    provider:
-      name: PRI
-      domain: pri.org
-    quality: 51
-    images:
-      - url: "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2020/04/tw-globe-bg-3000.jpg?itok=VPGGnGVh"
-        width: 1200
-        height: 707
-        isCached: true
-  - title: "Kamala Harris dodges ‘Havana Syndrome’ question after being accused of looking ‘incompetent & uncaring’ on Afghanistan"
-    excerpt: "KAMALA Harris has been slammed for dodging questions about “Havana Syndrome” and Afghanistan after she arrived in Vietnam.  The vice president, who landed several hours late on Tuesday, ignored"
-    publishedDateTime: 2021-08-25T16:52:00Z
-    webUrl: "https://www.the-sun.com/news/3539403/kamala-harris-dodges-havana-syndrome-question-vietnam/"
-    ampWebUrl: "https://www.the-sun.com/news/3539403/kamala-harris-dodges-havana-syndrome-question-vietnam/amp/"
-    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3539403/kamala-harris-dodges-havana-syndrome-question-vietnam/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: the-sun.com
-    quality: 51
-    images:
-      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/lv-comp-kamala-harris-dodges-question.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Kamala Harris claims she had ‘key role’ in removing US troops from Afghanistan – but now silent since Taliban took power"
-    excerpt: "KAMALA Harris claimed she had a “key role” in removing US troops from Afghanistan – but is conveniently staying silent since the Taliban took control of the war-torn country. The"
-    publishedDateTime: 2021-08-16T19:49:00Z
-    webUrl: "https://www.the-sun.com/news/3485053/kamala-harris-key-role-removing-us-troops-afghanistan-taliban/"
-    ampWebUrl: "https://www.the-sun.com/news/3485053/kamala-harris-key-role-removing-us-troops-afghanistan-taliban/amp/"
-    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3485053/kamala-harris-key-role-removing-us-troops-afghanistan-taliban/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: the-sun.com
-    quality: 50
-    images:
-      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/TT_KamalaHarrisComp.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "The Focus Must Stay On Evacuations, Not On The Exit From Afghanistan, Harris Says"
-    excerpt: "Vice President Kamala Harris asserted Monday that the U.S. must maintain its focus on evacuating Americans and vulnerable Afghans and shouldn&"
-    publishedDateTime: 2021-08-23T11:54:00Z
-    webUrl: "https://www.knau.org/post/vp-harris-focus-must-stay-evacuations-not-us-exit-afghanistan"
-    type: article
-    provider:
-      name: KNAU Arizona Public Radio
-      domain: knau.org
-    quality: 50
-    images:
-      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202108/1030237302.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Press inexplicably blocked from Kamala Harris’ event with troops at Pearl Harbor"
-    excerpt: "Kamala Harris landed in Hawaii on her return from Singapore and Vietnam to speak to the troops. She blocked the press from asking questions."
-    publishedDateTime: 2021-08-27T16:44:00Z
-    webUrl: "https://www.bizpacreview.com/2021/08/27/press-inexplicably-blocked-from-kamala-harris-event-with-troops-at-pearl-harbor-1125419/"
-    type: article
-    provider:
-      name: BizPac Review
-      domain: bizpacreview.com
-    quality: 50
-    images:
-      - url: "https://www.bizpacreview.com/wp-content/uploads/2021/08/Getty-Kamala-2-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "PM Lee Hsien Loong, US Vice-President Kamala Harris hail robust, enduring S’pore-US partnership"
-    excerpt: "SINGAPORE - Prime Minister Lee Hsien Loong and United States Vice-President Kamala Harris hailed the robust and enduring partnership between their two countries at the Istana on Monday (Aug 23) as they announced new areas of cooperation in cyber security,"
-    publishedDateTime: 2021-08-24T01:43:00Z
-    webUrl: "https://www.nationthailand.com/international/40005168"
-    type: article
-    provider:
-      name: nationthailand
-      domain: nationthailand.com
-    quality: 43
-    images:
-      - url: "https://media.nationthailand.com/uploads/images/md/2021/08/UqdU5SBpCi0zfCJPWTQm.jpg"
-        width: 860
-        height: 573
-        isCached: true
-  - title: "Kamala Harris points to climate change as she warns parents ought to stock up for Christmas now"
-    excerpt: "Vice President Kamala Harris urged parents to start buying Christmas presents for their children due to global supply chain interruptions."
-    publishedDateTime: 2021-08-24T18:25:00Z
-    webUrl: "https://www.bizpacreview.com/2021/08/24/kamala-harris-points-to-climate-change-as-she-warns-parents-ought-to-stock-up-for-christmas-now-1123881/"
-    type: article
-    provider:
-      name: BizPac Review
-      domain: bizpacreview.com
-    quality: 43
-    images:
-      - url: "https://www.bizpacreview.com/wp-content/uploads/2021/08/SG-Kamala-Harris-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Analysis: Kamala Harris backed Afghan exit despite intel warning Taliban would abuse women again"
-    excerpt: "Just 12 days before President Joe Biden ordered the withdrawal of U.S. forces in Afghanistan, the U.S. intelligence community warned the White House that allowing the Taliban to control the"
-    publishedDateTime: 2021-08-25T14:35:00Z
-    webUrl: "https://www.djournal.com/news/national/analysis-kamala-harris-backed-afghan-exit-despite-intel-warning-taliban-would-abuse-women-again/article_cf31fa7e-e1cc-59df-8c6c-4d267483bd58.html"
-    type: article
-    provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 42
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/7/16/716c8fc9-28d2-587f-8fa2-c437abbef47c/60d4c1ae6ec3e.image.jpg?crop=1000%2C563%2C0%2C102&resize=1000%2C563&order=crop%2Cresize"
-        width: 1000
-        height: 563
-        isCached: true
-  - title: "US laser focused on evacuation in Afghanistan, grateful to partners like Singapore: US V-P Kamala Harris"
-    excerpt: "She expressed how grateful the US is to its international partners for working with it to evacuate people from Afghanistan.. Read more at straitstimes.com."
-    publishedDateTime: 2021-08-24T03:28:00Z
-    webUrl: "https://www.straitstimes.com/singapore/us-laser-focused-on-evacuation-in-afghanistan-grateful-to-partners-like-singapore-us-v-p"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 38
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/nf-kamala-240821-4.jpg?itok=zrU1lYuL"
-        width: 763
-        height: 509
-        isCached: true
-  - title: "Kamala Harris to Tour Southeast Asia in Wake of Afghan Withdrawal; New Poll Indicates Lower Approval Rating"
-    excerpt: "WASHINGTON – The Taliban takeover of Afghanistan has given new urgency to Vice President Kamala Harris’ tour of Southeast Asia, where she will attempt to reassure allies of American resolve following the chaotic end of a two-decade war, reported the ..."
-    publishedDateTime: 2021-08-20T23:01:00Z
-    webUrl: "https://www.indiawest.com/news/global_indian/kamala-harris-to-tour-southeast-asia-in-wake-of-afghan-withdrawal-new-poll-indicates-lower/article_b910ea52-0204-11ec-be86-c70dc19a6c1c.html"
-    type: article
-    provider:
-      name: India West
-      domain: indiawest.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/indiawest.com/content/tncms/assets/v3/editorial/d/b3/db321638-0204-11ec-a921-0be975fc7e53/61202ad62cd1b.image.jpg?resize=945%2C630"
-        width: 945
-        height: 630
-        isCached: true
-  - title: "Harris' Asia trip carries new urgency after Afghan collapse"
-    excerpt: "The Taliban takeover of Afghanistan has given new urgency to Vice President Kamala Harris' tour of Southeast Asia, where she will attempt to reassure allies of American resolve following the chaotic end of a two-decade war."
-    publishedDateTime: 2021-08-22T07:09:00Z
-    webUrl: "https://columbiabasinherald.com/news/2021/aug/22/harris-asia-trip-carries-new-urgency-after-2/"
-    type: article
-    provider:
-      name: Columbia Basin Herald
-      domain: columbiabasinherald.com
-    quality: 35
-  - title: "Harris holds steady on Southeast Asia trip as crises loom"
-    excerpt: "In Singapore, in between a foreign policy speech and a roundtable talk about supply chain issues, Vice President Kamala Harris stopped to smell the flowers."
-    publishedDateTime: 2021-08-30T07:09:00Z
-    webUrl: "https://columbiabasinherald.com/news/2021/aug/30/harris-holds-steady-on-southeast-asia-trip-2/"
-    type: article
-    provider:
-      name: Columbia Basin Herald
-      domain: columbiabasinherald.com
-    quality: 35
-  - title: "Vice President Harris Singaporean Prime Minister Hold Joint News Conference"
-    excerpt: "T01:35:14-04:00 President Kamala Harris and Singaporean Prime Minister Lee Hsien Loong hold a joint news conference in Singapore. Vice President Kamala Harris and Singaporean Prime Minister Lee Hsien Loong hold a joint news conference in Singapore."
-    publishedDateTime: 2021-08-23T11:31:00Z
-    webUrl: "https://www.c-span.org/video/?514205-1/vice-president-harris-singaporean-prime-minister-hold-joint-news-conference"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 33
-  - title: "U.S. focus is on Afghan evacuations, says Harris amid criticism U.S. focus is on Afghan evacuations, says Harris amid criticism"
-    excerpt: "U.S. Vice President Kamala Harris said on Monday during a visit to Singapore that the United States was focusing on evacuation efforts taking place in Afghanistan and that there would be plenty of time to analyze the context of the troop withdrawal."
-    publishedDateTime: 2021-08-23T11:49:00Z
-    webUrl: "https://news.cgtn.com/news/2021-08-23/U-S-focus-is-on-Afghan-evacuations-says-Harris-amid-criticism-12XMuuhSCWY/index.html"
-    type: article
-    provider:
-      name: CGTN
-      domain: cgtn.com
-    quality: 27
-    images:
-      - url: "https://news.cgtn.com/news/2021-08-23/U-S-focus-is-on-Afghan-evacuations-says-Harris-amid-criticism-12XMuuhSCWY/img/a4e0c162459b45faa9e0cdacec4b97b1/a4e0c162459b45faa9e0cdacec4b97b1-750.jpeg"
-        width: 750
-        height: 422
-        isCached: true
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 53
 
 secured: "ZszpOJjEZ3EY3ykU6GGawqJ/wwNhxRCirxpe0gcyk8rpWHcVV9DHlOcwXLEBV8s6pj08BuD83XWlPyYtt73mu0R5jE/tT/K0PLmkeqPOyV6CPch2qqkzcLcuFHC/H3Ewc9YzogmTebMBhyLkjZd8QQg3GWTd6Uq+cowV4rOPRwJmXI6SuK6UQS/SK/CjCEmHmhrUQrGmrk0AaCGfHtnnoqPACdraUTmRBEueRn+cPLXlA7FRvEbEDd5v8YLvddYh0d56rhv400SaSG7qPIBApbGicVtckfeuoA0b3KaHTOaoREEWZHFxVPd6Ax2G9qwkXjoHBg0ljmoNX5+X4YugKlOncLvx2izUl5EBS1jN59Y=;R7pu28ktRd1cGYMNTjAHNQ=="
 ---

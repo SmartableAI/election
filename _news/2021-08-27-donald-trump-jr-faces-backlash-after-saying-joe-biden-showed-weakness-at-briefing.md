@@ -2261,22 +2261,6 @@ related:
         width: 5297
         height: 3531
         isCached: true
-  - title: "Post-Trump, Ukraine's leader to push Biden for US support"
-    excerpt: "The White House says the meeting between President Joe Biden and President Volodymyr Zelenskyy is aimed at showing support for Ukraine’s sovereignty."
-    publishedDateTime: 2021-09-01T11:45:00Z
-    webUrl: "https://www.detroitnews.com/story/news/world/2021/09/01/united-states-ukraine-biden-zelenskyy-meeting/5678488001/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/5678488001"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5678488001"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 90
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/09/01/PDTN/fdd87f28-b763-42f4-81b7-59b5c2905337-AP21243690312764.jpg?auto=webp&crop=2563,1442,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Biden administration considers reinstating car regulations slashed by Trump"
     excerpt: "The National Highway Administration is considering reinstating regulations slashed in the last days of the Trump administration."
     publishedDateTime: 2021-08-18T17:52:00Z
@@ -2684,6 +2668,17 @@ related:
     provider:
       name: Centre Daily Times
       domain: centredaily.com
+    quality: 70
+  - title: "Post-Trump, Ukraine’s leader to push Biden for US support"
+    excerpt: "The Ukrainian leader who found himself ensnarled in Donald Trump’s first impeachment is coming to Washington to see a new president"
+    publishedDateTime: 2021-09-01T12:33:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/post-trump-ukraines-leader-to-push-biden-for-us-support/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/post-trump-ukraines-leader-to-push-biden-for-us-support/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/post-trump-ukraines-leader-to-push-biden-for-us-support/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 70
   - title: "Eric Trump’s Pants on Fire claim that Joe Biden’s White House doesn’t travel"
     excerpt: "President Joe Biden steps off Air Force One to board Marine One at Andrews Air Force Base, Md., on May 19, 2021, for a trip back to the White House after speaking at the commencement for the U.S. Coast Guard Academy in New London,"

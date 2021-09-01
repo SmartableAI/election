@@ -27,22 +27,303 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden watches Bollywood movies? New warning to ISIS sheds clues"
-    excerpt: "The new video by Joe Biden has gone viral, and it made many people speculate that the American president is an ardent fan of Bollywood movies"
-    publishedDateTime: 2021-08-30T08:34:00Z
-    webUrl: "https://www.ibtimes.co.in/joe-biden-watches-bollywood-movies-new-warning-isis-sheds-clues-840245"
-    ampWebUrl: "https://amp.ibtimes.co.in/joe-biden-watches-bollywood-movies-new-warning-isis-sheds-clues-840245"
-    cdnAmpWebUrl: "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/joe-biden-watches-bollywood-movies-new-warning-isis-sheds-clues-840245"
+  - title: "Lauren Boebert Says She Has Plan to Get Rid of Biden, Harris and Pelosi"
+    excerpt: "The Colorado Republican said it was time to \"impeach Biden, impeach Kamala Harris, and throw in the secretary of state.\""
+    publishedDateTime: 2021-09-01T12:02:00Z
+    webUrl: "https://www.newsweek.com/lauren-boebert-remove-impeach-president-biden-harris-pelosi-afghanistan-1624896"
+    ampWebUrl: "https://www.newsweek.com/lauren-boebert-remove-impeach-president-biden-harris-pelosi-afghanistan-1624896?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lauren-boebert-remove-impeach-president-biden-harris-pelosi-afghanistan-1624896?amp=1"
     type: article
     provider:
-      name: IBTimes India
-      domain: ibtimes.co.in
+      name: Newsweek
+      domain: newsweek.com
+    quality: 140
+    images:
+      - url: "https://d.newsweek.com/en/full/1884472/boebert-attends-freedom-caucus-press-conference.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Kamala Harris’s south-east Asia trip reveals limits of US strategy"
+    excerpt: "Analysis: With little sign of big ideas or ambitious proposals, some analysts say vice-president’s trip reflects how little the administration is investing in the region"
+    publishedDateTime: 2021-08-27T03:02:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/aug/27/kamala-harriss-south-east-asia-trip-reveals-limits-of-us-strategy"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/27/kamala-harriss-south-east-asia-trip-reveals-limits-of-us-strategy"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/27/kamala-harriss-south-east-asia-trip-reveals-limits-of-us-strategy"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/4c5deb75cf14a2876c7edfc0610d6f8a8a182175/0_496_8054_4832/master/8054.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6ea1028bd2e805f3cbbf4320ce9cc310"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "TIME's 'Impeachment' Cover on Joe Biden & Kamala Harris? No, It's Altered Image"
+    excerpt: "The viral cover has been altered as the latest edition of the magazine does not feature Joe Biden and Kamala Harris."
+    publishedDateTime: 2021-08-28T09:10:00Z
+    webUrl: "https://www.thequint.com/news/webqoof/time-impeachment-cover-joe-biden-kamala-harris-altered-image-fact-check"
+    ampWebUrl: "https://www.thequint.com/amp/story/news/webqoof/time-impeachment-cover-joe-biden-kamala-harris-altered-image-fact-check"
+    cdnAmpWebUrl: "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/news/webqoof/time-impeachment-cover-joe-biden-kamala-harris-altered-image-fact-check"
+    type: article
+    provider:
+      name: The Quint
+      domain: thequint.com
+    quality: 96
+    images:
+      - url: "https://images.thequint.com/thequint%2F2021-08%2F4ee72234-cc39-4ccd-a9ec-2b8f48cc89fc%2FVIRAL_IMAGE_5.jpg?rect=0%2C0%2C1920%2C1080"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Texas Dems’ may have infected Pelosi and Harris aides, dimming prospects for Biden meeting"
+    excerpt: "The Texas Democrats who fled Austin have spent the last eight nights at a hotel a half-mile from the White House, and they’re growing a"
+    publishedDateTime: 2021-07-20T15:40:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/07/20/texas-dems-may-have-infected-pelosi-and-harris-aides-dimming-prospects-for-biden-meeting/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/07/20/texas-dems-may-have-infected-pelosi-and-harris-aides-dimming-prospects-for-biden-meeting/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/07/20/texas-dems-may-have-infected-pelosi-and-harris-aides-dimming-prospects-for-biden-meeting/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 80
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/VuNw3dJQ29DfLLcuiEK23QhNUSE=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/PCSJ5JXUKANH5IEU3MZULTDK2A.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Harris emphasizing human and worker rights in Vietnam"
+    excerpt: "Vice President Kamala Harris is turning her focus to worker rights and civil liberties as she closes out her visit to Southeast Asia."
+    publishedDateTime: 2021-08-26T05:07:00Z
+    webUrl: "https://www.ksat.com/news/politics/2021/08/26/harris-emphasizing-human-and-worker-rights-in-vietnam/"
+    ampWebUrl: "https://www.ksat.com/news/politics/2021/08/26/harris-emphasizing-human-and-worker-rights-in-vietnam/?outputType=amp"
+    cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/politics/2021/08/26/harris-emphasizing-human-and-worker-rights-in-vietnam/?outputType=amp"
+    type: article
+    provider:
+      name: KSAT
+      domain: ksat.com
     quality: 75
     images:
-      - url: "https://data1.ibtimes.co.in/en/full/755862/joe-biden.jpg?w=570&h=350"
-        width: 570
-        height: 350
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/NWVK6Z54LRE2FNV3X6BRJNJDC4.jpg"
+        width: 6000
+        height: 4000
         isCached: true
+  - title: "The utter ridiculousness of calls for Joe Biden to resign"
+    excerpt: "None of it is grounds for Biden to resign his office -- as Republican elected officials fell all over themselves to demand even as the casualties f"
+    publishedDateTime: 2021-08-27T14:01:00Z
+    webUrl: "https://www.wthitv.com/content/national/575185862.html"
+    ampWebUrl: "http://www.wthitv.com/templates/AMP?contentID=575185862"
+    cdnAmpWebUrl: "https://www-wthitv-com.cdn.ampproject.org/c/www.wthitv.com/templates/AMP?contentID=575185862"
+    type: article
+    provider:
+      name: WTHI-TV
+      domain: wthitv.com
+    quality: 75
+    images:
+      - url: "http://media.heartlandtv.com/designimages/wthi-story-default-image-640x380.png"
+        width: 640
+        height: 380
+        isCached: true
+  - title: "Leave Kamala Harris TF Alone"
+    excerpt: "No offense to Kamala Harris and those who’ve come before her, but there is a reason that the VP job is considered the “most insignificant office.” Harris’s job is not to do anything that would disgrace the office,"
+    publishedDateTime: 2021-08-27T17:00:00Z
+    webUrl: "https://www.theroot.com/leave-kamala-harris-tf-alone-1847571046"
+    ampWebUrl: "https://www.theroot.com/leave-kamala-harris-tf-alone-1847571046/amp"
+    cdnAmpWebUrl: "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/leave-kamala-harris-tf-alone-1847571046/amp"
+    type: article
+    provider:
+      name: The Root
+      domain: theroot.com
+    quality: 75
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/8a40097d474a254a3ac70223179db2de.jpg"
+        width: 800
+        height: 534
+        isCached: true
+  - title: "Images of Joe Biden’s war will never fade"
+    excerpt: "Befuddled by time, disoriented by a riot of terrible decisions, and confused by the demand for answers, President Joe Biden stood in the East Room of the White House, clutched his binder to his chest,"
+    publishedDateTime: 2021-08-30T23:48:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/aug/30/images-of-joe-bidens-war-will-never-fade/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/30/images-of-joe-bidens-war-will-never-fade/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/30/images-of-joe-bidens-war-will-never-fade/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/08/26/Biden_37683.jpg-e9a80_c0-414-4967-3311_s1200x700.jpg?68ec6885488a9f2d33a5b30c517f2601ca6a8e9f"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Joe Biden’s Crisis Moment Has Arrived"
+    excerpt: "With Democrats distancing themselves from the president over his bungled Afghanistan withdrawal, COVID still spreading, and a tropical storm wreaking havoc in Louisiana, is Biden’s messaging getting lost in the chaos?"
+    publishedDateTime: 2021-08-30T17:44:00Z
+    webUrl: "https://www.vanityfair.com/news/2021/08/joe-biden-crisis-moment-has-arrived-afghanistan-covid-ida"
+    ampWebUrl: "https://www.vanityfair.com/news/2021/08/joe-biden-crisis-moment-has-arrived-afghanistan-covid-ida/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2021/08/joe-biden-crisis-moment-has-arrived-afghanistan-covid-ida/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 75
+    images:
+      - url: "https://media.vanityfair.com/photos/612cfef15f6fb57f04d927b4/master/pass/Biden8.30.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Vice President Kamala Harris emphasizing human and worker rights in Vietnam"
+    excerpt: "HANOI >> Vice President Kamala Harris will turn her attention to issues surrounding worker rights and civil liberties Thursday as she closes out her visit to Southeast Asia, elevating activists in a region of the world known for its challenges and restrictions to human rights."
+    publishedDateTime: 2021-08-26T01:22:00Z
+    webUrl: "https://www.staradvertiser.com/2021/08/25/news/vice-president-kamala-harris-emphasizing-human-and-worker-rights-in-vietnam/"
+    ampWebUrl: "https://www.staradvertiser.com/2021/08/25/news/vice-president-kamala-harris-emphasizing-human-and-worker-rights-in-vietnam/amp/"
+    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2021/08/25/news/vice-president-kamala-harris-emphasizing-human-and-worker-rights-in-vietnam/amp/"
+    type: article
+    provider:
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 73
+    images:
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2021/08/web1_11646672-19cff69bb6d34cc0ac4e5f99dc05c66d.jpg"
+        width: 760
+        height: 483
+        isCached: true
+  - title: "Kamala Harris’ Southeast Asia Visit Shows Biden’s Southeast Asia Policy Still Lacks a Clear Roadmap"
+    excerpt: "The expansion of U.S. cooperation with Southeast Asia was a welcome step, but the question of long-term strategy remains."
+    publishedDateTime: 2021-08-27T00:22:00Z
+    webUrl: "https://thediplomat.com/2021/08/kamala-harris-southeast-asia-visit-shows-bidens-southeast-asia-policy-still-lacks-a-clear-roadmap/"
+    type: article
+    provider:
+      name: The Diplomat
+      domain: thediplomat.com
+    quality: 56
+    images:
+      - url: "https://thediplomat.com/wp-content/uploads/2021/08/sizes/td-story-s-2/thediplomat_2021-08-26-14.jpg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Joe Biden Should Resign"
+    excerpt: "President Joe Biden keeps appearing on the television screen. He vaguely reminds me of former President Donald Trump with his press conferences on COVID-19, Operation Warp Speed and anything else that popped into his mind."
+    publishedDateTime: 2021-08-26T12:05:00Z
+    webUrl: "https://patriotpost.us/opinion/82246-joe-biden-should-resign-2021-08-26"
+    type: article
+    provider:
+      name: The Patriot Post
+      domain: patriotpost.us
+    quality: 55
+    images:
+      - url: "https://img.patriotpost.us/01FDHPJ6NJX3JM53KNHF491QTE.jpeg?w=1200&h=600"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Kamala Harris says she urged Vietnam to free political dissidents"
+    excerpt: "U.S. Vice President Kamala Harris said Thursday she raised issues of human rights abuses and restrictions on political activism in her conversations with Vietnamese leaders this week, but offered no indication those talks bore fruit."
+    publishedDateTime: 2021-08-26T11:56:00Z
+    webUrl: "https://triblive.com/news/world/kamala-harris-says-she-urged-vietnam-to-free-political-dissidents/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 55
+    images:
+      - url: "https://assets-varnish.triblive.com/2021/08/4176596_web1_4176596-9ee18b1b359c45af885e9f1c03f063d1.jpg"
+        width: 640
+        height: 427
+        isCached: true
+  - title: "Joe Biden’s Labor Board Picks Have Been Surprisingly Encouraging"
+    excerpt: "Biden's political history is anything but pro-labor. But his moves thus far to strengthen workers' rights through the National Labor Relations Board have actually been very promising."
+    publishedDateTime: 2021-08-27T02:40:00Z
+    webUrl: "https://jacobinmag.com/2021/08/workers-rights-national-labor-relations-board-biden-administration-union-law/"
+    type: article
+    provider:
+      name: Jacobin
+      domain: jacobinmag.com
+    quality: 55
+    images:
+      - url: "https://images.jacobinmag.com/wp-content/uploads/2021/08/26123837/GettyImages-1234864559.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Rep. Boebert: 'There is Blood on Joe Biden's Hands'"
+    excerpt: "In the wake of the bombing at the Kabul airport in Afghanistan that killed at least 12 U.S. Marines and an unconfirmed number of civilians, House Rep. Lauren Boebert (R-Colo.) said President Joe Biden has blood on his hands for failing to competently plan and execute the withdrawal from Afghanistan."
+    publishedDateTime: 2021-08-26T17:39:00Z
+    webUrl: "https://www.cnsnews.com/article/washington/michael-w-chapman/rep-boebert-there-blood-joe-bidens-hands"
+    type: article
+    provider:
+      name: CNSNews.com
+      domain: cnsnews.com
+    quality: 55
+    images:
+      - url: "https://cdn.cnsnews.com/styles/article_big/s3/2021-08/green%2C%20mark%20%20%2045.jpg"
+        width: 700
+        height: 466
+        isCached: true
+  - title: "Watch Vice President Kamala Harris: Chase the Dream"
+    excerpt: "Vice President Kamala Harris: Chase the Dream is available to watch free on Tubi TV and Kanopy. It's also available to stream, download on demand at . Some platforms allow you to rent Vice President Kamala Harris: Chase the Dream for a limited time or ..."
+    publishedDateTime: 2021-08-28T13:59:00Z
+    webUrl: "https://www.yidio.com/movie/vice-president-kamala-harris-chase-the-dream/230814"
+    type: article
+    provider:
+      name: Yidio
+      domain: yidio.com
+    quality: 55
+    images:
+      - url: "https://cfm.yidio.com/images/movie/230814/backdrop-1280x720.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "U.S. to go on hitting ISIS, Biden pledges"
+    excerpt: "President Joe Biden vowed Saturday to keep up airstrikes against the Islamic extremist group whose suicide bombing at the Kabul airport killed scores of Afghans and 13 American service members. Another terror attack,"
+    publishedDateTime: 2021-08-29T08:59:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/aug/29/us-to-go-on-hitting-isis-biden-pledges/?news"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/199258283_199257870-b29018f6db5642afb236295d3817bbdb_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 434
+        isCached: true
+  - title: "Joe Biden’s Jimmy Carter Moment"
+    excerpt: "Never in my life have I witnessed American soldiers die the way 13 Marines and service members did last Thursday."
+    publishedDateTime: 2021-08-30T17:16:00Z
+    webUrl: "https://jewishjournal.com/commentary/340127/joe-bidens-jimmy-carter-moment/"
+    type: article
+    provider:
+      name: Jewish Journal
+      domain: jewishjournal.com
+    quality: 55
+    images:
+      - url: "https://jewishjournal.com/wp-content/uploads/2021/08/Bien-Boteach.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "VP Kamala Harris slams China right on their doorstep – here’s what she said"
+    excerpt: "During her visit to Singapore on Tuesday, Vice President Kamala Harris railed against China for coercing and intimidating countries in the South China Sea. 'We know that Beijing continues to coerce, to intimidate,"
+    publishedDateTime: 2021-08-25T17:42:00Z
+    webUrl: "https://americanmilitarynews.com/2021/08/vp-kamala-harris-slams-china-right-on-their-doorstep-heres-what-she-said/"
+    type: article
+    provider:
+      name: American Military News
+      domain: americanmilitarynews.com
+    quality: 53
+    images:
+      - url: "https://americanmilitarynews.com/wp-content/uploads/Screenshot-2021-08-25-9.46.53-AM.png"
+        width: 1130
+        height: 759
+        isCached: true
+  - title: "For Biden’s presidency has been driven by crisis and is the ‘loneliest job’"
+    excerpt: "President Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan, even as he and the nation continued to battle the COVID-19 pandemic."
+    publishedDateTime: 2021-08-28T13:24:00Z
+    webUrl: "https://www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 53
 
 secured: "bFlNmbtXg8o1Pjs2IOGkIhGq+J0HIbnxjGXJhYrwhKV5IFvGxQORwQLXN5RjbKKvzKJpJ36zZksw8vlSwb7vObdtrxK/3zFJRtGfJ6WVYgjAJ46xTosoroc/7DQIXcbgQQd05rdg6qBlVTmzyDWXTvshBVmokqiRfhYgWJFeQHqza3sHnQ8nbcfIO1g4cmw45+02hml3LKHNZfsI6hEg7fNF8CVFi9KO1RrzYhuU4FW9tYISdtVqo1Zdr9K7Qk8UuADiXjldUlPqH8Gw/KigoB/miuENvDNBbu46TeUgzZ0xTPfSe76zHGDR/3pTIrjhYiBBENccmrBQ1Ysj/hiU8FMP54dbB+05uhu+rjfX215WZme1UE+SfpeuP9zL2B7lOeXB9Lk1rZWfC6pW/qBP705WGmvckDMd8A+7jvff88EwFjIiNTIQfwUuM1pGv855/y6WPRr7q51Y6J86mivMT2mKGRsJHU37mga+MnEhu9ToxxhNE69qSd/qtpopU7x4D9gatYEHSM+CLg6Zh4xy/g==;w6DiL3UyL5kjzxh+hi63Ew=="
 ---

@@ -25,815 +25,305 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden says he and first lady plan on getting Covid booster shot"
-    excerpt: "President defends shots as millions worldwide are unvaccinated: US has ‘provided more to the rest of the world than all the rest of the world combined’"
-    publishedDateTime: 2021-08-19T21:46:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot"
+  - title: "Lauren Boebert Says She Has Plan to Get Rid of Biden, Harris and Pelosi"
+    excerpt: "The Colorado Republican said it was time to \"impeach Biden, impeach Kamala Harris, and throw in the secretary of state.\""
+    publishedDateTime: 2021-09-01T12:02:00Z
+    webUrl: "https://www.newsweek.com/lauren-boebert-remove-impeach-president-biden-harris-pelosi-afghanistan-1624896"
+    ampWebUrl: "https://www.newsweek.com/lauren-boebert-remove-impeach-president-biden-harris-pelosi-afghanistan-1624896?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lauren-boebert-remove-impeach-president-biden-harris-pelosi-afghanistan-1624896?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 140
+    images:
+      - url: "https://d.newsweek.com/en/full/1884472/boebert-attends-freedom-caucus-press-conference.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Kamala Harris’s south-east Asia trip reveals limits of US strategy"
+    excerpt: "Analysis: With little sign of big ideas or ambitious proposals, some analysts say vice-president’s trip reflects how little the administration is investing in the region"
+    publishedDateTime: 2021-08-27T03:02:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/aug/27/kamala-harriss-south-east-asia-trip-reveals-limits-of-us-strategy"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/27/kamala-harriss-south-east-asia-trip-reveals-limits-of-us-strategy"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/27/kamala-harriss-south-east-asia-trip-reveals-limits-of-us-strategy"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/588c63ebaadccad8a6667c54fcab67b69ae81af7/212_0_4688_2813/master/4688.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=96e3db49456f8f393dbe8c5408ee3aa9"
+      - url: "https://i.guim.co.uk/img/media/4c5deb75cf14a2876c7edfc0610d6f8a8a182175/0_496_8054_4832/master/8054.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6ea1028bd2e805f3cbbf4320ce9cc310"
         width: 600
         height: 360
         isCached: true
-  - title: "Biden warns lives could be lost in Kabul airlift"
-    excerpt: "US President Joe Biden has again defended a chaotic evacuation effort out of Kabul as desperation grows for those still stranded in Afghanistan. \"This is one of the largest, most difficult airlifts in history,"
-    publishedDateTime: 2021-08-20T18:27:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-58285923"
-    ampWebUrl: "https://www.bbc.com/news/world-us-canada-58285923.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-58285923.amp"
+  - title: "TIME's 'Impeachment' Cover on Joe Biden & Kamala Harris? No, It's Altered Image"
+    excerpt: "The viral cover has been altered as the latest edition of the magazine does not feature Joe Biden and Kamala Harris."
+    publishedDateTime: 2021-08-28T09:10:00Z
+    webUrl: "https://www.thequint.com/news/webqoof/time-impeachment-cover-joe-biden-kamala-harris-altered-image-fact-check"
+    ampWebUrl: "https://www.thequint.com/amp/story/news/webqoof/time-impeachment-cover-joe-biden-kamala-harris-altered-image-fact-check"
+    cdnAmpWebUrl: "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/news/webqoof/time-impeachment-cover-joe-biden-kamala-harris-altered-image-fact-check"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
+      name: The Quint
+      domain: thequint.com
+    quality: 96
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/170AB/production/_120097349_bidenindex.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Afghanistan: 'The sooner we finish, the better,' says Joe Biden"
-    excerpt: "US President Joe Biden says the US is \"on pace\" to meet a 31 August deadline for evacuations, despite previous calls from allies for an extension. \"The sooner we finish the better,\" he said. Some American troops have already been withdrawn,"
-    publishedDateTime: 2021-08-25T04:46:00Z
-    webUrl: "https://www.bbc.com/news/world-asia-58321849"
-    ampWebUrl: "https://www.bbc.com/news/world-asia-58321849.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-asia-58321849.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/FFB7/production/_120236456_mediaitem120232630.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "First Thing: Joe Biden’s approval rating dips amid Afghanistan and Covid crises"
-    excerpt: "President called upon to extend 31 August deadline to complete evacuations from Afghanistan"
-    publishedDateTime: 2021-08-24T09:58:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/aug/24/first-thing-joe-biden-approval-rating-dips-amid-afghanistan-and-covid-crises?fr=operanews"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/24/first-thing-joe-biden-approval-rating-dips-amid-afghanistan-and-covid-crises"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/24/first-thing-joe-biden-approval-rating-dips-amid-afghanistan-and-covid-crises"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 121
-    images:
-      - url: "https://i.guim.co.uk/img/media/97b443b48cec0f3fcf8cb3f30c2acf1413407513/0_117_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2fe5d03a325b43103f72f696a926f960"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Joe Biden Said He Is Committed To Helping Evacuate Afghan Allies Who Worked With The US Government"
-    excerpt: "In a speech at the White House, Biden again stood by his decision to withdraw US forces from the country. By Clarissa-Jan Lim Posted on August 20, 2021, at 3:05 p.m. ET President Joe Biden delivers remarks on the ongoing evacuation efforts in Afghanistan,"
-    publishedDateTime: 2021-08-20T23:13:00Z
-    webUrl: "https://www.buzzfeednews.com/article/clarissajanlim/biden-afghanistan-evacuations?origin=web-hf"
-    ampWebUrl: "https://www.buzzfeednews.com/amphtml/clarissajanlim/biden-afghanistan-evacuations"
-    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/clarissajanlim/biden-afghanistan-evacuations"
-    type: article
-    provider:
-      name: BuzzFeed News
-      domain: buzzfeednews.com
-    quality: 111
-    images:
-      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2017-04/12/11/campaign_images/buzzfeed-prod-fastlane-02/trump-says-the-us-wont-go-into-syria-even-though--2-24885-1492010278-4_dblbig.jpg"
-        width: 625
-        height: 415
-        isCached: true
-  - title: "Joe Biden Said He Is Committed To Helping Evacuate Afghan Allies Who Have Worked With The US Government"
-    excerpt: "In a speech at the White House, Biden again stood by his decision to withdraw US forces from the country. By Clarissa-Jan Lim Posted on August 20, 2021, at 3:05 p.m. ET President Joe Biden delivers remarks on the ongoing evacuation efforts in Afghanistan,"
-    publishedDateTime: 2021-08-20T19:51:00Z
-    webUrl: "https://www.buzzfeednews.com/article/clarissajanlim/biden-afghanistan-evacuations?origin=web-hf"
-    ampWebUrl: "https://www.buzzfeednews.com/amphtml/clarissajanlim/biden-afghanistan-evacuations"
-    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/clarissajanlim/biden-afghanistan-evacuations"
-    type: article
-    provider:
-      name: BuzzFeed News
-      domain: buzzfeednews.com
-    quality: 109
-    images:
-      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2017-04/12/11/campaign_images/buzzfeed-prod-fastlane-02/trump-says-the-us-wont-go-into-syria-even-though--2-24885-1492010278-4_dblbig.jpg"
-        width: 625
-        height: 415
-        isCached: true
-  - title: "Joe Biden announces Covid booster shots from September – video"
-    excerpt: "President says anyone who was fully vaccinated eight months prior will be eligible"
-    publishedDateTime: 2021-08-19T02:23:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2021/aug/19/joe-biden-announces-covid-booster-shots-from-september-video"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 105
-    images:
-      - url: "https://i.guim.co.uk/img/media/63285a96192526ebc972487aa573ba48717fe966/0_0_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1442da941e74be16c3172d778c5c64ce"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Joe Biden says terrorists will pay for Afghan attack that killed US ‘heroes’ – video"
-    excerpt: "The president said the US would 'hunt down' those responsible for the attack on the international airport in Kabul"
-    publishedDateTime: 2021-08-26T21:42:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2021/aug/26/joe-biden-white-house-afghanistan-attack"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 98
-    images:
-      - url: "https://i.guim.co.uk/img/media/f4644bb3b32de88ea517922e3aee5ae708f7b195/0_112_4000_2401/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1537eb95f59d35a5607ada431df342a"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "U.S. Satisfaction Hits Record Low In Biden Presidency Amid Delta Surge, Poll Finds—But Republicans Still Don’t View Covid As Major Threat"
-    excerpt: "Democrats and Independents are increasingly worried about the threat of Covid-19 to the country while Republicans, practically no more concerned about the coronavirus than they were last month, are more concerned about immigration and the government."
-    publishedDateTime: 2021-08-24T13:26:00Z
-    webUrl: "https://www.forbes.com/sites/roberthart/2021/08/24/us-satisfaction-hits-record-low-in-biden-presidency-amid-delta-surge-poll-finds-but-republicans-still-dont-view-covid-as-major-threat/"
-    ampWebUrl: "https://www.forbes.com/sites/roberthart/2021/08/24/us-satisfaction-hits-record-low-in-biden-presidency-amid-delta-surge-poll-finds-but-republicans-still-dont-view-covid-as-major-threat/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2021/08/24/us-satisfaction-hits-record-low-in-biden-presidency-amid-delta-surge-poll-finds-but-republicans-still-dont-view-covid-as-major-threat/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 92
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6124f340d06f777a3656c570%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1480%26cropY1%3D30%26cropY2%3D862"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Joe Biden may not be running for reelection — yet. He's certainly running for history."
-    excerpt: "Joe Biden is not doing what every first-year president starts doing around Day 200 of his presidency: Running for re-election. After the two weeks he has just endured, he is doing the thing presidents don’t do until their last months: Running for history."
-    publishedDateTime: 2021-08-26T18:01:00Z
-    webUrl: "https://www.marshfieldnewsherald.com/story/opinion/2021/08/26/joe-biden-may-not-running-reelection-he-running-history/5591232001/"
-    ampWebUrl: "https://amp.marshfieldnewsherald.com/amp/5591232001"
-    cdnAmpWebUrl: "https://amp-marshfieldnewsherald-com.cdn.ampproject.org/c/s/amp.marshfieldnewsherald.com/amp/5591232001"
-    type: article
-    provider:
-      name: Marshfield News Herald
-      domain: marshfieldnewsherald.com
-    quality: 82
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/08/22/USAT/bc0fddd5-21a2-4977-8052-5961fa541352-AP_Biden.jpg?auto=webp&crop=5574,3136,x0,y283&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Jill Biden wears medical boot after foot injury in Hawaii"
-    excerpt: "Jill Biden is wearing a medical boot following a recent foot injury on a Hawaiian beach. The boot was on the first lady's left foot Friday as she and President Joe Biden boarded a helicopter in Delaware to fly to the Camp David presidential retreat in Maryland."
-    publishedDateTime: 2021-08-13T23:13:00Z
-    webUrl: "https://www.ctpost.com/news/article/Jill-Biden-wears-medical-boot-after-foot-injury-16385810.php"
-    ampWebUrl: "https://www.ctpost.com/news/amp/Jill-Biden-wears-medical-boot-after-foot-injury-16385810.php"
-    cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Jill-Biden-wears-medical-boot-after-foot-injury-16385810.php"
-    type: article
-    provider:
-      name: Connecticut Post
-      domain: ctpost.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Joe Biden Is Who We Said He Was"
-    excerpt: "NRPLUS MEMBER ARTICLE J oe Biden has badly, visibly bungled America’s withdrawal from Afghanistan. He has compounded the problem with his sluggish and dishonest public statements. This has gone so badly that even people and institutions that are normally sympathetic to Biden and his party have noticed."
-    publishedDateTime: 2021-08-21T10:30:00Z
-    webUrl: "https://www.nationalreview.com/2021/08/joe-biden-is-who-we-said-he-was/"
-    ampWebUrl: "https://www.nationalreview.com/2021/08/joe-biden-is-who-we-said-he-was/amp/"
-    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/2021/08/joe-biden-is-who-we-said-he-was/amp/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 75
-    images:
-      - url: "https://www.nationalreview.com/wp-content/uploads/2021/08/joe-biden-white-house-3.jpg?fit=2057%2C1200"
-        width: 2057
-        height: 1200
-        isCached: true
-  - title: "Poll: Biden sees dip in support amid new COVID cases"
-    excerpt: "President Joe Biden is facing a summer slump, with Americans taking a notably less positive view of his handling of the coronavirus pandemic."
-    publishedDateTime: 2021-08-21T15:31:00Z
-    webUrl: "https://www.detroitnews.com/story/news/nation/2021/08/21/ap-norc-poll-biden-sees-dip-support-amid-new-covid-cases/8227975002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/8227975002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/8227975002"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/08/21/PDTN/fb7d1e6f-94da-429a-8b38-ea8819869cbc-AP21232687538135.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Fade to Gray: Defending Joe Biden"
-    excerpt: "Defending Joe Biden Not so many weeks ago, a person who doesn’t like me or this column wrote an email to my boss at the TV station in an attempt to get me into trouble. He said, “You know he’s a"
-    publishedDateTime: 2021-08-22T11:30:00Z
-    webUrl: "https://www.troyrecord.com/2021/08/22/530484/"
-    ampWebUrl: "https://www.troyrecord.com/2021/08/22/530484/amp/"
-    cdnAmpWebUrl: "https://www-troyrecord-com.cdn.ampproject.org/c/s/www.troyrecord.com/2021/08/22/530484/amp/"
-    type: article
-    provider:
-      name: Troy Record
-      domain: troyrecord.com
-    quality: 75
-    images:
-      - url: "https://www.troyrecord.com/wp-content/uploads/2021/08/2c2884717385c1ebd57341b99a9509fb-1.jpg?w=1024&#038;h=1545"
-        width: 1024
-        height: 1545
-        isCached: true
-  - title: "Biden’s approval rating dips"
-    excerpt: "President Joe Biden’s approval ratings dropped below 50% for the first time since he’s taken office, according to a new NBC News poll. The poll showed 49% of U.S. adults approved of the job Biden was doing compared to 48% who did not."
-    publishedDateTime: 2021-08-23T15:03:00Z
-    webUrl: "https://www.al.com/news/2021/08/bidens-approval-rating-dips.html"
-    ampWebUrl: "https://www.al.com/news/2021/08/bidens-approval-rating-dips.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/08/bidens-approval-rating-dips.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GCXMTA66D5G4LM6RBLLOCGVHPM.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "President Joe Biden says US-led evacuation from Kabul is accelerating"
-    excerpt: "President Joe Biden said Sunday the U.S.-led evacuation of Americans, at-risk Afghans and others from the Kabul airport accelerated this weekend, although it remains vulnerable to threats posed by the Islamic State extremist group."
-    publishedDateTime: 2021-08-22T21:53:00Z
-    webUrl: "https://chicago.suntimes.com/2021/8/22/22637052/president-joe-biden-says-us-led-evacuation-from-kabul-is-accelerating"
-    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2021/8/22/22637052/president-joe-biden-says-us-led-evacuation-from-kabul-is-accelerating"
-    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/8/22/22637052/president-joe-biden-says-us-led-evacuation-from-kabul-is-accelerating"
-    type: article
-    provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
-    quality: 75
-    images:
-      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Varney: Is Biden up for the job?"
-    excerpt: "FOX Business’ Stuart Varney discusses Biden’s ability to handle multiple crises following his subpar performances in the media and handling of the Afghanistan exit."
-    publishedDateTime: 2021-08-23T15:32:00Z
-    webUrl: "https://www.foxbusiness.com/varney-co/varney-is-biden-up-for-the-job"
-    ampWebUrl: "https://www.foxbusiness.com/varney-co/varney-is-biden-up-for-the-job.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/varney-co/varney-is-biden-up-for-the-job.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 75
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/79737660-4001-4587-9071-8e197beb4396/05f4de6f-6ed1-4c42-9d6d-1845e57b1177/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Apple CEO Tim Cook planning to attend White House event with Joe Biden"
-    excerpt: "Apple CEO Tim Cook may soon visit the White House along with current Microsoft CEO Satya Nadella and other executives in a meeting with President Joe Biden, who wants to discuss how tech companies can improve cybersecurity and prevent online attacks."
-    publishedDateTime: 2021-08-23T23:44:00Z
-    webUrl: "https://9to5mac.com/2021/08/23/apple-ceo-tim-cook-planning-to-attend-white-house-event-with-joe-biden/"
-    ampWebUrl: "https://9to5mac.com/2021/08/23/apple-ceo-tim-cook-planning-to-attend-white-house-event-with-joe-biden/amp/"
-    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/08/23/apple-ceo-tim-cook-planning-to-attend-white-house-event-with-joe-biden/amp/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 75
-    images:
-      - url: "https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/09/Tim-Cook-stock-award.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Biden backs end to wolf protections, but hunting worries grow"
-    excerpt: "President Joe Biden’s administration is sticking by the decision under former President Donald Trump to lift protections for gray wolves across most of the U.S. But a top federal wildlife official on Friday told The Associated Press there is growing concern over aggressive wolf hunting seasons adopted for the predators in the western Great Lakes and northern Rocky Mountains."
-    publishedDateTime: 2021-08-24T05:36:00Z
-    webUrl: "https://www.spokesman.com/stories/2021/aug/20/biden-backs-end-to-wolf-protections-but-hunting-wo/"
-    ampWebUrl: "https://www.spokesman.com/stories/2021/aug/20/biden-backs-end-to-wolf-protections-but-hunting-wo/?amp-content=amp"
-    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/aug/20/biden-backs-end-to-wolf-protections-but-hunting-wo/?amp-content=amp"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 75
-    images:
-      - url: "https://thumb.spokesman.com/EUa83AxJaUAjjzTFSOqpYmhDpqM=/480x0/media.spokesman.com/photos/2021/08/20/612007ee730b1.hires.jpg"
-        width: 480
-        height: 320
-        isCached: true
-  - title: "Biden to speak after FDA gives full approval to Pfizer COVID-19 vaccine"
-    excerpt: "The FDA has never before had so much evidence to judge a shot’s safety. More than 200 million doses already have been administered in the U.S."
-    publishedDateTime: 2021-08-23T17:32:00Z
-    webUrl: "https://www.firstcoastnews.com/article/news/health/coronavirus/vaccine/us-regulators-full-approval-pfizer-covid-vaccine/507-02559f13-8bb7-4d3e-9097-dd899b295088"
-    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/health/coronavirus/vaccine/us-regulators-full-approval-pfizer-covid-vaccine/507-02559f13-8bb7-4d3e-9097-dd899b295088"
-    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/health/coronavirus/vaccine/us-regulators-full-approval-pfizer-covid-vaccine/507-02559f13-8bb7-4d3e-9097-dd899b295088"
-    type: article
-    provider:
-      name: First Coast News
-      domain: firstcoastnews.com
-    quality: 75
-    images:
-      - url: "https://media.firstcoastnews.com/assets/WOI/images/335069f2-4a45-41ef-93dc-9fff1bb4f1f8/335069f2-4a45-41ef-93dc-9fff1bb4f1f8_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Joe Biden actions on Afghanistan may trigger World War III (Letters)"
-    excerpt: "What President Joe Biden did was much more than totally mismanage the U.S. withdrawal from Afghanistan and lose respect internationally; his action will set off great danger for our country. First, this sets the stage for the growth and strength of world-wide terrorism."
-    publishedDateTime: 2021-08-24T17:25:00Z
-    webUrl: "https://www.masslive.com/opinion/2021/08/joe-biden-actions-on-afghanistan-may-trigger-world-war-iii-letters.html"
-    ampWebUrl: "https://www.masslive.com/opinion/2021/08/joe-biden-actions-on-afghanistan-may-trigger-world-war-iii-letters.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/opinion/2021/08/joe-biden-actions-on-afghanistan-may-trigger-world-war-iii-letters.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/26TDCLVL75AD5BHOCGDJO4FNCM.jpg"
-        width: 6720
-        height: 4480
-        isCached: true
-  - title: "Tennessee flooding prompts Biden disaster declaration"
-    excerpt: "President Joe Biden has approved a major disaster declaration sought by Tennessee after record rainfall caused devastating floods that killed at least 22 people, according to a statement sent Tuesday."
-    publishedDateTime: 2021-08-24T19:56:00Z
-    webUrl: "https://www.nhregister.com/news/article/Tennessee-flooding-prompts-Biden-disaster-16408038.php"
-    ampWebUrl: "https://www.nhregister.com/news/amp/Tennessee-flooding-prompts-Biden-disaster-16408038.php"
-    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Tennessee-flooding-prompts-Biden-disaster-16408038.php"
-    type: article
-    provider:
-      name: New Haven Register
-      domain: nhregister.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Joe Biden goes on HOLIDAY again! POTUS has worked for only 4 days during Afghan fiasco"
-    excerpt: "Biden has worked only four days out of the last 15, ever since the Taliban captured their first regional capital"
-    publishedDateTime: 2021-08-21T10:05:00Z
-    webUrl: "https://meaww.com/joe-biden-goes-on-holiday-again-president-has-worked-four-days-out-of-15-amid-afghan-fiasco"
-    ampWebUrl: "https://meaww.com/amp/joe-biden-goes-on-holiday-again-president-has-worked-four-days-out-of-15-amid-afghan-fiasco"
-    cdnAmpWebUrl: "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/joe-biden-goes-on-holiday-again-president-has-worked-four-days-out-of-15-amid-afghan-fiasco"
-    type: article
-    provider:
-      name: Meaww
-      domain: meaww.com
-    quality: 67
-    images:
-      - url: "https://cheesecake.articleassets.meaww.com/545963/uploads/b255a2d0-0262-11ec-825b-8bf8cf07839e_800_420.jpeg"
-        width: 800
-        height: 420
-        isCached: true
-  - title: "President Joe Biden’s approval rating dips to new lows amid COVID delta surge, polls show"
-    excerpt: "An NBC News poll showed his approval rating at 49%, a four-point drop since April just as the percentage of respondents who disapproved jumped by nine points, from 39% to 48%. The latest polls follow bipartisan critique of the Biden administration’s handling of the U."
-    publishedDateTime: 2021-08-23T14:23:00Z
-    webUrl: "https://www.masslive.com/politics/2021/08/president-joe-bidens-approval-rating-dips-to-new-lows-amid-covid-delta-surge-polls-show.html"
-    ampWebUrl: "https://www.masslive.com/politics/2021/08/president-joe-bidens-approval-rating-dips-to-new-lows-amid-covid-delta-surge-polls-show.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/08/president-joe-bidens-approval-rating-dips-to-new-lows-amid-covid-delta-surge-polls-show.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 66
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/77S5UANDRZCYNJDLVROG43MVSY.jpg"
-        width: 5438
-        height: 3625
-        isCached: true
-  - title: "Joe Biden’s Approval Rating: President Slides To New Lows, #RespectBiden Trends On Twitter"
-    excerpt: "President Joe Biden’s overall job-approval rating dipped below 50% for the first time since he took office, according to a poll released Monday from NBC News. The dip coincides with how Americans view his handling of the coronavirus pandemic,"
-    publishedDateTime: 2021-08-23T20:29:00Z
-    webUrl: "https://www.ibtimes.com/joe-bidens-approval-rating-president-slides-new-lows-respectbiden-trends-twitter-3279361"
-    ampWebUrl: "https://www.ibtimes.com/joe-bidens-approval-rating-president-slides-new-lows-respectbiden-trends-twitter-3279361?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-bidens-approval-rating-president-slides-new-lows-respectbiden-trends-twitter-3279361?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 65
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/08/16/us-president-joe-bidens-political-fortunes-are-reeling-AFP_9L896E.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Biden to reopen public comment on TennCare block grant"
-    excerpt: "President Joe Biden's administration says it will keep a drastic overhaul of Tennessee's Medicaid program in place while it seeks more public comment and considers what to do with the plan approved under former President Donald Trump."
-    publishedDateTime: 2021-08-15T13:00:00Z
-    webUrl: "https://www.timesfreepress.com/news/breakingnews/story/2021/aug/15/biden-reopen-public-comment-tenncare-block-grant/552277/"
-    type: article
-    provider:
-      name: Times Free Press
-      domain: timesfreepress.com
-    quality: 55
-    images:
-      - url: "https://media.timesfreepress.com/img/photos/2021/08/05/1628190952_101973052-7c9660dbd2044bd4b449434e346b681d_gs_t1070_h2637bd2cff9ebeed8954a74ad16668e191686df8.jpg"
-        width: 1070
-        height: 713
-        isCached: true
-  - title: "Rick Scott doubles down on calls to remove Joe Biden from office"
-    excerpt: "Rick Scott reiterated Tuesday that the time had come to consider removing President Joe Biden from office under provisions of the 25th Amendment to the U.S. Constitution. The Senator had made that call on Monday via press release,"
-    publishedDateTime: 2021-08-17T13:00:00Z
-    webUrl: "https://floridapolitics.com/archives/450880-scott-biden-remove/"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 55
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2019/10/rick_scott_132810311.jpg"
-        width: 810
-        height: 457
-        isCached: true
-  - title: "Joe Biden takes aim at Texas blocking mask mandates"
-    excerpt: "By James Barragán, The Texas Tribune Texas Gov. Greg Abbott may soon be fighting a war on two fronts — with local officials and the federal government — to stave off mandatory COVID-19 prevention efforts after the Biden administration announced Wednesday it was going after states like Texas that try to ban universal masking at"
-    publishedDateTime: 2021-08-19T09:12:00Z
-    webUrl: "https://www.crosstimbersgazette.com/2021/08/18/joe-biden-takes-aim-at-texas-blocking-mask-mandates/"
-    type: article
-    provider:
-      name: The Cross Timbers Gazette
-      domain: crosstimbersgazette.com
-    quality: 55
-    images:
-      - url: "https://www.crosstimbersgazette.com/crosstimbersgazette/wp-content/uploads/2021/08/biden.jpg"
-        width: 848
-        height: 570
-        isCached: true
-  - title: "Rick Scott says Joe Biden ‘unfit’ for presidency after Afghan exit"
-    excerpt: "Florida’s junior Senator continued his scathing criticism of President Joe Biden Thursday. “Incompetent. Unhinged. Incoherent. Unfit,” tweeted Scott, in a four-word excoriation of Biden’s performance in an interview with ABC the night before."
-    publishedDateTime: 2021-08-19T15:07:00Z
-    webUrl: "https://floridapolitics.com/archives/451620-scott-biden-unfit/"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 55
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2018/02/rick-scott-senate-2.jpg"
+      - url: "https://images.thequint.com/thequint%2F2021-08%2F4ee72234-cc39-4ccd-a9ec-2b8f48cc89fc%2FVIRAL_IMAGE_5.jpg?rect=0%2C0%2C1920%2C1080"
         width: 1920
         height: 1080
         isCached: true
-  - title: "Biden's Plans Won't Hike Small-Biz Tax Rates, Treasury Says"
-    excerpt: "Most small-business owners won't face higher tax rates and millions of entrepreneurs will actually see their taxes decline under President Joe Biden's economic growth proposals, a senior U.S. Treasury Department official said Thursday."
-    publishedDateTime: 2021-08-20T07:43:00Z
-    webUrl: "https://www.law360.com/articles/1414453/biden-s-plans-won-t-hike-small-biz-tax-rates-treasury-says"
-    ampWebUrl: "https://www.law360.com/amp/articles/1414453"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1414453"
+  - title: "Texas Dems’ may have infected Pelosi and Harris aides, dimming prospects for Biden meeting"
+    excerpt: "The Texas Democrats who fled Austin have spent the last eight nights at a hotel a half-mile from the White House, and they’re growing a"
+    publishedDateTime: 2021-07-20T15:40:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/07/20/texas-dems-may-have-infected-pelosi-and-harris-aides-dimming-prospects-for-biden-meeting/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/07/20/texas-dems-may-have-infected-pelosi-and-harris-aides-dimming-prospects-for-biden-meeting/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/07/20/texas-dems-may-have-infected-pelosi-and-harris-aides-dimming-prospects-for-biden-meeting/?outputType=amp"
     type: article
     provider:
-      name: Law360
-      domain: law360.com
-    quality: 55
-  - title: "Biden sees dip in support amid new COVID cases: AP-NORC poll"
-    excerpt: "President Joe Biden is facing a summer slump, with Americans taking a notably less positive view of his handling of the coronavirus"
-    publishedDateTime: 2021-08-21T15:19:00Z
-    webUrl: "https://www.riverbender.com/sports-news/details.cfm?id=352561"
-    type: article
-    provider:
-      name: RiverBender.com
-      domain: riverbender.com
-    quality: 55
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 80
     images:
-      - url: "https://s3.amazonaws.com/rbweb-ap-photos/6891ef4613ef4129889d8bd3fb3bc435.jpg"
-        width: 640
-        height: 427
-        isCached: true
-  - title: "Joe Biden sees dip in support amid surge in COVID-19 infections"
-    excerpt: "President Joe Biden is facing a summer slump, with Americans taking a notably less positive view of his handling of the coronavirus pandemic and his job approval rating ticking down. A new poll from-NORC Center for Public Affairs Research finds that 54 percent of Americans approve of Biden’s job performance,"
-    publishedDateTime: 2021-08-21T14:32:00Z
-    webUrl: "https://bangordailynews.com/2021/08/21/national-politics/joe-biden-sees-dip-in-support-amid-surge-in-covid-19-infections/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 55
-    images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/AP-Poll-Biden.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Biden sees dip in support amid new COVID cases: AP-NORC poll"
-    excerpt: "President Joe Biden is facing a summer slump, with Americans taking a notably less positive view of his handling of the coronavirus pandemic and his job approval rating ticking down. A new poll from The Associated Press-NORC Center for Public Affairs Research finds that 54% of Americans approve of Biden’s job performance,"
-    publishedDateTime: 2021-08-22T10:57:00Z
-    webUrl: "https://www.nashuatelegraph.com/news/coronavirus/2021/08/22/biden-sees-dip-in-support-amid-new-covid-cases-ap-norc-poll/"
-    type: article
-    provider:
-      name: The Telegraph
-      domain: nashuatelegraph.com
-    quality: 55
-    images:
-      - url: "https://ogden_images.s3.amazonaws.com/www.nashuatelegraph.com/images/2021/08/22052651/AP21232687538135.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "DAVID SHAFER: Joe Biden’s spending spree leaves Georgians with the bill"
-    excerpt: "The White House, with great fanfare, announced its calculation that Americans would save a whopping 16 cents on cost of their Fourth of July cookouts. I hope everyone held on"
-    publishedDateTime: 2021-08-22T10:35:00Z
-    webUrl: "https://www.gwinnettdailypost.com/local/politics/david-shafer-joe-biden-s-spending-spree-leaves-georgians-with-the-bill/article_76c6735c-01e5-11ec-b3d7-4729c9056bca.html"
-    type: article
-    provider:
-      name: Gwinnett Daily Post
-      domain: gwinnettdailypost.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gwinnettdailypost.com/content/tncms/assets/v3/editorial/c/6c/c6c07bd2-01e5-11ec-b2c2-dfa8d0da8298/611ff695812dc.image.jpg?resize=630%2C630"
-        width: 630
-        height: 630
-        isCached: true
-  - title: "Who will believe Biden now?"
-    excerpt: "Joe Biden did to himself what his opponents couldn’t -- shredded his own credibility in a high-profile, hugely consequential matter that won’t be forgotten."
-    publishedDateTime: 2021-08-22T09:00:00Z
-    webUrl: "https://www.thedailyreview.com/opinion/columns_editorials/who-will-believe-biden-now/article_b572874b-7e95-51c7-864d-d361c7a3401c.html"
-    type: article
-    provider:
-      name: The Daily Review
-      domain: thedailyreview.com
-    quality: 55
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/thedailyreview.com/content/tncms/custom/image/8ae8c126-2b81-11e7-8ccf-fba9d1099000.jpg"
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/VuNw3dJQ29DfLLcuiEK23QhNUSE=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/PCSJ5JXUKANH5IEU3MZULTDK2A.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden says US-led evacuation from Kabul is accelerating"
-    excerpt: "President Joe Biden says the U.S.-led evacuation of Americans, at-risk Afghans and others from the Kabul airport has picked up speed this weekend."
-    publishedDateTime: 2021-08-23T15:54:00Z
-    webUrl: "https://www.sunherald.com/news/politics-government/national-politics/article253669753.html"
-    ampWebUrl: "https://amp.sunherald.com/news/politics-government/national-politics/article253669753.html"
-    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/politics-government/national-politics/article253669753.html"
+  - title: "Harris emphasizing human and worker rights in Vietnam"
+    excerpt: "Vice President Kamala Harris is turning her focus to worker rights and civil liberties as she closes out her visit to Southeast Asia."
+    publishedDateTime: 2021-08-26T05:07:00Z
+    webUrl: "https://www.ksat.com/news/politics/2021/08/26/harris-emphasizing-human-and-worker-rights-in-vietnam/"
+    ampWebUrl: "https://www.ksat.com/news/politics/2021/08/26/harris-emphasizing-human-and-worker-rights-in-vietnam/?outputType=amp"
+    cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/politics/2021/08/26/harris-emphasizing-human-and-worker-rights-in-vietnam/?outputType=amp"
     type: article
     provider:
-      name: Biloxi Sun Herald
-      domain: sunherald.com
-    quality: 55
-  - title: "Kabul Evacuation Numbers to Fluctuate, Biden Says"
-    excerpt: "The number of people evacuated from Kabul will change from day to day, President Joe Biden said in a televised address Sunday, depending on specific conditions and safety of the day. Earlier Sunday, the White House said the U."
-    publishedDateTime: 2021-08-22T21:34:00Z
-    webUrl: "https://www.voanews.com/usa/kabul-evacuation-numbers-fluctuate-biden-says"
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 55
+      name: KSAT
+      domain: ksat.com
+    quality: 75
     images:
-      - url: "https://im-media.voltron.voanews.com/Drupal/01live-166/2021-08/ap21234754238478.jpg"
-        width: 5000
-        height: 3333
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/NWVK6Z54LRE2FNV3X6BRJNJDC4.jpg"
+        width: 6000
+        height: 4000
         isCached: true
-  - title: "House moderates offered deal to ease Biden budget standoff"
-    excerpt: "House Democratic leaders are trying to muscle President Joe Biden’s multitrillion-dollar budget blueprint over a key hurdle."
-    publishedDateTime: 2021-08-24T02:31:00Z
-    webUrl: "https://www.sunherald.com/news/business/article253699738.html"
-    ampWebUrl: "https://amp.sunherald.com/news/business/article253699738.html"
-    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/business/article253699738.html"
+  - title: "The utter ridiculousness of calls for Joe Biden to resign"
+    excerpt: "None of it is grounds for Biden to resign his office -- as Republican elected officials fell all over themselves to demand even as the casualties f"
+    publishedDateTime: 2021-08-27T14:01:00Z
+    webUrl: "https://www.wthitv.com/content/national/575185862.html"
+    ampWebUrl: "http://www.wthitv.com/templates/AMP?contentID=575185862"
+    cdnAmpWebUrl: "https://www-wthitv-com.cdn.ampproject.org/c/www.wthitv.com/templates/AMP?contentID=575185862"
     type: article
     provider:
-      name: Biloxi Sun Herald
-      domain: sunherald.com
-    quality: 55
-  - title: "Moderates bring House to standstill in Biden budget clash"
-    excerpt: "House Democratic leaders are trying to muscle President Joe Biden’s multitrillion-dollar budget blueprint over a key hurdle."
-    publishedDateTime: 2021-08-24T11:54:00Z
-    webUrl: "https://www.idahostatesman.com/news/business/article253699738.html"
-    ampWebUrl: "https://amp.idahostatesman.com/news/business/article253699738.html"
-    cdnAmpWebUrl: "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/news/business/article253699738.html"
-    type: article
-    provider:
-      name: Idaho Statesman
-      domain: idahostatesman.com
-    quality: 55
-  - title: "Moderates bring House to standstill in Joe Biden budget clash"
-    excerpt: "Tensions flared and spilled into early Tuesday as a band of moderate lawmakers threatened to withhold their votes for the $3.5 trillion plan."
-    publishedDateTime: 2021-08-24T09:38:00Z
-    webUrl: "https://bangordailynews.com/2021/08/24/national-politics/moderates-bring-house-to-standstill-in-joe-biden-budget-clash/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 55
+      name: WTHI-TV
+      domain: wthitv.com
+    quality: 75
     images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/Congress-Infrastructure-3.jpg"
-        width: 1024
-        height: 683
+      - url: "http://media.heartlandtv.com/designimages/wthi-story-default-image-640x380.png"
+        width: 640
+        height: 380
         isCached: true
-  - title: "The high price of Biden's Kabul blunder"
-    excerpt: "Our commander in chief and his woke generals have blown the evacuation of Kabul so badly that even CNN and MSNBC have had to cover it. For the past month, Biden assured us that when our military left Kabul,"
-    publishedDateTime: 2021-08-24T03:30:00Z
-    webUrl: "https://www.thedailytimes.com/opinion/syndication/the-high-price-of-bidens-kabul-blunder/article_55dd10f5-acaa-57b0-b6f7-2535a6a78911.html"
+  - title: "Leave Kamala Harris TF Alone"
+    excerpt: "No offense to Kamala Harris and those who’ve come before her, but there is a reason that the VP job is considered the “most insignificant office.” Harris’s job is not to do anything that would disgrace the office,"
+    publishedDateTime: 2021-08-27T17:00:00Z
+    webUrl: "https://www.theroot.com/leave-kamala-harris-tf-alone-1847571046"
+    ampWebUrl: "https://www.theroot.com/leave-kamala-harris-tf-alone-1847571046/amp"
+    cdnAmpWebUrl: "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/leave-kamala-harris-tf-alone-1847571046/amp"
     type: article
     provider:
-      name: thedailytimes.com
-      domain: thedailytimes.com
-    quality: 55
+      name: The Root
+      domain: theroot.com
+    quality: 75
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600"
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/8a40097d474a254a3ac70223179db2de.jpg"
+        width: 800
+        height: 534
+        isCached: true
+  - title: "Images of Joe Biden’s war will never fade"
+    excerpt: "Befuddled by time, disoriented by a riot of terrible decisions, and confused by the demand for answers, President Joe Biden stood in the East Room of the White House, clutched his binder to his chest,"
+    publishedDateTime: 2021-08-30T23:48:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/aug/30/images-of-joe-bidens-war-will-never-fade/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/30/images-of-joe-bidens-war-will-never-fade/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/30/images-of-joe-bidens-war-will-never-fade/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/08/26/Biden_37683.jpg-e9a80_c0-414-4967-3311_s1200x700.jpg?68ec6885488a9f2d33a5b30c517f2601ca6a8e9f"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Joe Biden’s Crisis Moment Has Arrived"
+    excerpt: "With Democrats distancing themselves from the president over his bungled Afghanistan withdrawal, COVID still spreading, and a tropical storm wreaking havoc in Louisiana, is Biden’s messaging getting lost in the chaos?"
+    publishedDateTime: 2021-08-30T17:44:00Z
+    webUrl: "https://www.vanityfair.com/news/2021/08/joe-biden-crisis-moment-has-arrived-afghanistan-covid-ida"
+    ampWebUrl: "https://www.vanityfair.com/news/2021/08/joe-biden-crisis-moment-has-arrived-afghanistan-covid-ida/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2021/08/joe-biden-crisis-moment-has-arrived-afghanistan-covid-ida/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 75
+    images:
+      - url: "https://media.vanityfair.com/photos/612cfef15f6fb57f04d927b4/master/pass/Biden8.30.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Vice President Kamala Harris emphasizing human and worker rights in Vietnam"
+    excerpt: "HANOI >> Vice President Kamala Harris will turn her attention to issues surrounding worker rights and civil liberties Thursday as she closes out her visit to Southeast Asia, elevating activists in a region of the world known for its challenges and restrictions to human rights."
+    publishedDateTime: 2021-08-26T01:22:00Z
+    webUrl: "https://www.staradvertiser.com/2021/08/25/news/vice-president-kamala-harris-emphasizing-human-and-worker-rights-in-vietnam/"
+    ampWebUrl: "https://www.staradvertiser.com/2021/08/25/news/vice-president-kamala-harris-emphasizing-human-and-worker-rights-in-vietnam/amp/"
+    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2021/08/25/news/vice-president-kamala-harris-emphasizing-human-and-worker-rights-in-vietnam/amp/"
+    type: article
+    provider:
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 73
+    images:
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2021/08/web1_11646672-19cff69bb6d34cc0ac4e5f99dc05c66d.jpg"
+        width: 760
+        height: 483
+        isCached: true
+  - title: "Rep. Lauren Boebert: Slain Wyoming Marine’s ‘blood is on Joe Biden’s hands’"
+    excerpt: "Rep. Lauren Boebert, Colorado Republican, lashed out Friday at President Biden after she spoke to a Colorado mother whose son was among the Marines killed in Afghanistan on Thursday, saying that “his blood is on Joe Biden’s hands."
+    publishedDateTime: 2021-08-28T01:50:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/aug/27/rep-boebert-slain-wyoming-marines-blood-joe-bidens/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/27/rep-boebert-slain-wyoming-marines-blood-joe-bidens/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/27/rep-boebert-slain-wyoming-marines-blood-joe-bidens/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 73
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/08/18/Lauren_Boebert_Financial_Disclosure_87587.jpg-a436a_c0-237-5689-3555_s1200x700.jpg?fd67fa685ec1ecfd5e27212a5fbb04f75801d75b"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Kamala Harris’ Southeast Asia Visit Shows Biden’s Southeast Asia Policy Still Lacks a Clear Roadmap"
+    excerpt: "The expansion of U.S. cooperation with Southeast Asia was a welcome step, but the question of long-term strategy remains."
+    publishedDateTime: 2021-08-27T00:22:00Z
+    webUrl: "https://thediplomat.com/2021/08/kamala-harris-southeast-asia-visit-shows-bidens-southeast-asia-policy-still-lacks-a-clear-roadmap/"
+    type: article
+    provider:
+      name: The Diplomat
+      domain: thediplomat.com
+    quality: 56
+    images:
+      - url: "https://thediplomat.com/wp-content/uploads/2021/08/sizes/td-story-s-2/thediplomat_2021-08-26-14.jpg"
         width: 600
-        height: 600
+        height: 400
         isCached: true
-  - title: "U.S. President Biden Approves Federal Aid to Tennessee After Flooding"
-    excerpt: "U.S. President Joe Biden has declared a major disaster exists in the state of Tennessee and ordered federal aid, after record downpours and flash flooding left at least 21 dead over the weekend, the White House said in a statement."
-    publishedDateTime: 2021-08-24T05:13:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2021-08-24/us-president-biden-approves-federal-aid-to-tennessee-after-flooding"
-    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-08-24/us-president-biden-approves-federal-aid-to-tennessee-after-flooding?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-08-24/us-president-biden-approves-federal-aid-to-tennessee-after-flooding?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "Rick Scott wants Vice President, Cabinet to look at removing Joe Biden"
-    excerpt: "Rick Scott continued his assault on President Joe Biden‘s standing in office Wednesday. Scott, who has suggested that Biden is too infirm to be President on multiple o"
-    publishedDateTime: 2021-08-25T14:36:00Z
-    webUrl: "https://floridapolitics.com/archives/452876-scott-biden-removal/"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 55
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2021/02/Rick-Scott-2.5.21.jpg"
-        width: 1100
-        height: 818
-        isCached: true
-  - title: "Biden to meet with governors willing to help Afghan refugees"
-    excerpt: "President Joe Biden is meeting Thursday with bipartisan governors from across the U.S. who have expressed interest in helping resettle Afghans fleeing their country."
-    publishedDateTime: 2021-08-26T15:19:00Z
-    webUrl: "https://www.kentucky.com/news/politics-government/national-politics/article253752188.html"
-    ampWebUrl: "https://amp.kentucky.com/news/politics-government/national-politics/article253752188.html"
-    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/politics-government/national-politics/article253752188.html"
-    type: article
-    provider:
-      name: Lexington Herald Leader
-      domain: kentucky.com
-    quality: 55
-  - title: "Joe Biden IS the ‘Red Flag’"
-    excerpt: "On the eve of the 20th observance of the 9/11 Islamist attack on our nation, Joe Biden has re-seeded al-Qa'ida’s terrorist turf — the result of his compressed Afghanistan exit schedule. That schedule was motivated by his desire to take a political victory lap ahead of the 20th observance."
-    publishedDateTime: 2021-08-25T19:08:00Z
-    webUrl: "https://patriotpost.us/alexander/82240-joe-biden-is-the-red-flag-2021-08-25"
+  - title: "Joe Biden Should Resign"
+    excerpt: "President Joe Biden keeps appearing on the television screen. He vaguely reminds me of former President Donald Trump with his press conferences on COVID-19, Operation Warp Speed and anything else that popped into his mind."
+    publishedDateTime: 2021-08-26T12:05:00Z
+    webUrl: "https://patriotpost.us/opinion/82246-joe-biden-should-resign-2021-08-26"
     type: article
     provider:
       name: The Patriot Post
       domain: patriotpost.us
     quality: 55
     images:
-      - url: "https://img.patriotpost.us/01FDZ918ZXXBYWEP8Z47GEA8R4.jpeg?w=1200&h=600"
+      - url: "https://img.patriotpost.us/01FDHPJ6NJX3JM53KNHF491QTE.jpeg?w=1200&h=600"
         width: 1200
         height: 600
         isCached: true
-  - title: "The Media Was in Love With Joe Biden — Until He Tried to End a War"
-    excerpt: "The establishment media loved Joe Biden until he did a good thing and tried to end the war in Afghanistan. Now they’re looking for blood."
-    publishedDateTime: 2021-08-26T16:39:00Z
-    webUrl: "https://jacobinmag.com/2021/08/media-coverage-joe-biden-afghanistan-war-pullout-establishment-press/"
+  - title: "Kamala Harris says she urged Vietnam to free political dissidents"
+    excerpt: "U.S. Vice President Kamala Harris said Thursday she raised issues of human rights abuses and restrictions on political activism in her conversations with Vietnamese leaders this week, but offered no indication those talks bore fruit."
+    publishedDateTime: 2021-08-26T11:56:00Z
+    webUrl: "https://triblive.com/news/world/kamala-harris-says-she-urged-vietnam-to-free-political-dissidents/"
     type: article
     provider:
-      name: Jacobin
-      domain: jacobinmag.com
+      name: TribLIVE.com
+      domain: triblive.com
     quality: 55
     images:
-      - url: "https://images.jacobinmag.com/wp-content/uploads/2021/08/26100026/GettyImages-1148069258.jpg"
-        width: 1024
-        height: 676
+      - url: "https://assets-varnish.triblive.com/2021/08/4176596_web1_4176596-9ee18b1b359c45af885e9f1c03f063d1.jpg"
+        width: 640
+        height: 427
         isCached: true
-  - title: "Biden to meet with governors willing to help Afghan refugees"
-    excerpt: "President Joe Biden is meeting Thursday with bipartisan governors from across the U.S. who have expressed interest in helping resettle Afghans fleeing their country."
-    publishedDateTime: 2021-08-27T03:54:00Z
-    webUrl: "https://www.kentucky.com/news/business/article253752188.html"
-    ampWebUrl: "https://amp.kentucky.com/news/business/article253752188.html"
-    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/article253752188.html"
+  - title: "Rep. Boebert: 'There is Blood on Joe Biden's Hands'"
+    excerpt: "In the wake of the bombing at the Kabul airport in Afghanistan that killed at least 12 U.S. Marines and an unconfirmed number of civilians, House Rep. Lauren Boebert (R-Colo.) said President Joe Biden has blood on his hands for failing to competently plan and execute the withdrawal from Afghanistan."
+    publishedDateTime: 2021-08-26T17:39:00Z
+    webUrl: "https://www.cnsnews.com/article/washington/michael-w-chapman/rep-boebert-there-blood-joe-bidens-hands"
     type: article
     provider:
-      name: Lexington Herald Leader
-      domain: kentucky.com
-    quality: 55
-  - title: "Why do people want to impeach President Joe Biden now?"
-    excerpt: "As the Taliban's reign continues, many question if President Joe Biden can truly evacuate all U.S. citizens from Afghanistan. Does he deserve impeachment?"
-    publishedDateTime: 2021-08-26T21:03:00Z
-    webUrl: "https://filmdaily.co/news/impeach-biden/"
-    type: article
-    provider:
-      name: filmdaily
-      domain: filmdaily.co
+      name: CNSNews.com
+      domain: cnsnews.com
     quality: 55
     images:
-      - url: "https://filmdaily.co/wp-content/uploads/2021/08/BidenImpeach-lede.jpeg"
-        width: 2400
-        height: 1600
+      - url: "https://cdn.cnsnews.com/styles/article_big/s3/2021-08/green%2C%20mark%20%20%2045.jpg"
+        width: 700
+        height: 466
         isCached: true
-  - title: "Video: President Joe Biden To Speak After Deadly Kabul Airport Explosions"
-    excerpt: "President Joe Biden is set to speak following the deadly explosions outside the airport in Kabul that killed 12 U.S. service members and scores of Afghans. Biden's address is scheduled for Thursday, Aug."
-    publishedDateTime: 2021-08-26T22:24:00Z
-    webUrl: "https://www.cpr.org/2021/08/26/watch-president-joe-biden-kabul-airport-explosions/"
+  - title: "Watch Vice President Kamala Harris: Chase the Dream"
+    excerpt: "Vice President Kamala Harris: Chase the Dream is available to watch free on Tubi TV and Kanopy. It's also available to stream, download on demand at . Some platforms allow you to rent Vice President Kamala Harris: Chase the Dream for a limited time or ..."
+    publishedDateTime: 2021-08-28T13:59:00Z
+    webUrl: "https://www.yidio.com/movie/vice-president-kamala-harris-chase-the-dream/230814"
     type: article
     provider:
-      name: Colorado Public Radio
-      domain: cpr.org
-    quality: 54
+      name: Yidio
+      domain: yidio.com
+    quality: 55
     images:
-      - url: "https://i1.wp.com/wp-cpr.s3.amazonaws.com/uploads/2021/08/AP21238591288878-scaled.jpg?resize=1200,600"
-        width: 1200
-        height: 600
+      - url: "https://cfm.yidio.com/images/movie/230814/backdrop-1280x720.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Ron DeSantis slams Joe Biden ‘lack of leadership’ at event highlighting COVID-19 treatment"
-    excerpt: "Ron DeSantis turned his attention from COVID-19 to the White House. DeSantis aired grievances yet again about a perceived “lack of leadership” from President Joe Biden, showing that even at an event focused on the virus,"
-    publishedDateTime: 2021-08-19T18:28:00Z
-    webUrl: "https://floridapolitics.com/archives/451698-lack-leadership/"
+  - title: "U.S. to go on hitting ISIS, Biden pledges"
+    excerpt: "President Joe Biden vowed Saturday to keep up airstrikes against the Islamic extremist group whose suicide bombing at the Kabul airport killed scores of Afghans and 13 American service members. Another terror attack,"
+    publishedDateTime: 2021-08-29T08:59:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/aug/29/us-to-go-on-hitting-isis-biden-pledges/?news"
     type: article
     provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 45
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 55
     images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2021/08/DeSantis-biden.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/199258283_199257870-b29018f6db5642afb236295d3817bbdb_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 434
         isCached: true
-  - title: "Joe Biden COVID-19: POTUS given inconclusive intelligence report regarding pandemic's origins"
-    excerpt: "In the midst of the criticism regarding Afghanistan, US President Joe Biden had previously ordered the intelligence community to look into the possible origins of the COVID-19 pandemic. This week, Biden received a"
-    publishedDateTime: 2021-08-26T10:31:00Z
-    webUrl: "https://www.econotimes.com/Joe-Biden-COVID-19-POTUS-given-inconclusive-intelligence-report-regarding-pandemics-origins-1615877"
+  - title: "Joe Biden’s Jimmy Carter Moment"
+    excerpt: "Never in my life have I witnessed American soldiers die the way 13 Marines and service members did last Thursday."
+    publishedDateTime: 2021-08-30T17:16:00Z
+    webUrl: "https://jewishjournal.com/commentary/340127/joe-bidens-jimmy-carter-moment/"
     type: article
     provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 44
+      name: Jewish Journal
+      domain: jewishjournal.com
+    quality: 55
     images:
-      - url: "https://s1.econotimes.com/assets/uploads/202108260e72020f772609130_th_1024x0.jpg"
+      - url: "https://jewishjournal.com/wp-content/uploads/2021/08/Bien-Boteach.jpg"
         width: 800
         height: 533
         isCached: true
-  - title: "US Maintaining Constant Vigilance to Disrupt Threats, Including ISIS, Says Joe Biden | Key Points"
-    excerpt: "US President Joe Biden will shortly begin his address updating Americans on the development in evacuation operations in Afghanistan. Stay tuned to this page for LIVE updates."
-    publishedDateTime: 2021-08-22T21:48:00Z
-    webUrl: "https://www.headlinestoday.in/news/us-maintaining-constant-vigilance-to-disrupt-threats-including-isis-says-joe-biden-key-points-335134585.html"
+  - title: "VP Kamala Harris slams China right on their doorstep – here’s what she said"
+    excerpt: "During her visit to Singapore on Tuesday, Vice President Kamala Harris railed against China for coercing and intimidating countries in the South China Sea. 'We know that Beijing continues to coerce, to intimidate,"
+    publishedDateTime: 2021-08-25T17:42:00Z
+    webUrl: "https://americanmilitarynews.com/2021/08/vp-kamala-harris-slams-china-right-on-their-doorstep-heres-what-she-said/"
     type: article
     provider:
-      name: headlinestoday.in
-      domain: headlinestoday.in
-    quality: 42
+      name: American Military News
+      domain: americanmilitarynews.com
+    quality: 53
     images:
-      - url: "https://akm-img-a-in.tosshub.com/sites/headlinestoday/resources/images/headlinestoday_fb.jpg"
-        width: 1024
-        height: 576
+      - url: "https://americanmilitarynews.com/wp-content/uploads/Screenshot-2021-08-25-9.46.53-AM.png"
+        width: 1130
+        height: 759
         isCached: true
-  - title: "Biden's view of job comes into focus after Afghan collapse"
-    excerpt: "But authority over America's longest war finally fell into Biden's hands this year and he insisted that the U.S. withdraw from Afghanistan, settling on an Aug. 31 deadline. And despite the rapid collapse of the Afghan government,"
-    publishedDateTime: 2021-08-22T07:09:00Z
-    webUrl: "https://columbiabasinherald.com/news/2021/aug/22/bidens-view-of-job-comes-into-focus-after-2/"
+  - title: "For Biden’s presidency has been driven by crisis and is the ‘loneliest job’"
+    excerpt: "President Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan, even as he and the nation continued to battle the COVID-19 pandemic."
+    publishedDateTime: 2021-08-28T13:24:00Z
+    webUrl: "https://www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/?outputType=amp"
     type: article
     provider:
-      name: Columbia Basin Herald
-      domain: columbiabasinherald.com
-    quality: 35
-  - title: "COLUMN: Joe Biden does his best Jimmy Carter impersonation"
-    excerpt: "Barely seven months into Joe Biden’s tenure as president and it’s already clear that his administration’s potential to create havoc is unparalleled in recent memory. The debacle in Afghanistan serves"
-    publishedDateTime: 2021-08-22T06:30:00Z
-    webUrl: "https://independenttribune.com/opinion/columnists/column-joe-biden-does-his-best-jimmy-carter-impersonation/article_410a5af2-01af-11ec-ad1c-035a59d6e99b.html"
-    type: article
-    provider:
-      name: Independent Tribune
-      domain: independenttribune.com
-    quality: 35
-  - title: "Joe Biden Is Who We Said He Was. Unfit to run the nation"
-    excerpt: "Joe Biden has badly, visibly bungled America’s withdrawal from Afghanistan. He has compounded the problem with his sluggish and dishonest public statements. This has gone so badly that even people and institutions that are normally sympathetic to Biden and his party have noticed."
-    publishedDateTime: 2021-08-22T01:13:00Z
-    webUrl: "https://www.tigerdroppings.com/rant/politics/joe-biden-is-who-we-said-he-was-unfit-to-run-the-nation/97891154/"
-    type: article
-    provider:
-      name: TigerDroppings.com
-      domain: tigerdroppings.com
-    quality: 35
-  - title: "U.S. House Democrats Face Test of Unity on Biden Spending Plans"
-    excerpt: "Democrats face a test of unity in the U.S. House of Representatives on Monday as they begin work on two ambitious spending plans that would devote trillions of dollars to transportation infrastructure and social programs."
-    publishedDateTime: 2021-08-23T11:04:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-08-23/us-house-democrats-face-test-of-unity-on-biden-spending-plans"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
-  - title: "President Joe Biden calls on more companies, communities to mandate vaccines after Pfizer shot’s full FDA approval"
-    excerpt: "President Joe Biden on Monday called on the private sector and communities across the country to implement more COVID-19 vaccination mandates after the federal government’s much-anticipated full approval of the Pfizer/BioNTech shot for Americans 16 and older."
-    publishedDateTime: 2021-08-23T19:01:00Z
-    webUrl: "https://www.masslive.com/coronavirus/2021/08/president-joe-biden-calls-on-more-companies-communities-to-mandate-vaccines-after-pfizer-shots-full-fda-approval.html"
-    ampWebUrl: "https://www.masslive.com/coronavirus/2021/08/president-joe-biden-calls-on-more-companies-communities-to-mandate-vaccines-after-pfizer-shots-full-fda-approval.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/coronavirus/2021/08/president-joe-biden-calls-on-more-companies-communities-to-mandate-vaccines-after-pfizer-shots-full-fda-approval.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 33
-  - title: "We are going to court-martial Pres. Joe Biden for aiding and abetting the enemy of the United States \"the Taliban"
-    excerpt: "We are going to court-martial Pres. Joe Biden for aiding and abetting the enemy of United States of America the terrorist organization called “ The Taliban “ in the country of Afghanistan. I believe we must use a military tribunal role to do this."
-    publishedDateTime: 2021-08-23T17:44:00Z
-    webUrl: "https://www.avvo.com/legal-answers/we-are-going-to-court-martial-pres--joe-biden-for--5329188.html"
-    type: article
-    provider:
-      name: Avvo
-      domain: avvo.com
-    quality: 14
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 53
 
 secured: "qiAC3MzWVs9xjWoYBnv/jouxqy/9AAlEREznl5dVN8i4WCk1+hSwnNgfbNEtZrXsGFMIaElOTnHirhPjebJgeqlsiQdbSCax9bXm+DvbsbuIA5E93BxI71fYtKsJUsjPVR1bzlEbW3fUBtbu3KHmsnuwAviZM4m5Jo+oqdWZtdpSQZX9JAjhRoYw+eC+np5Ybf2cl6FzvJZHkeo3DkQxHBByYX+ELX1cU1Sc8slk/IyiWXCb+HbWTtUx7si8+K11oYLE1YsZ0D0AYZMfYRxFgCilyVZ3yvo4qfqj1BRTLlZohOe/tB9DafzcnKAdcOugONl3NuzPP/u1/wA7RCDkDJqq1i/HSzQd2+s+3XxxS+PqGxCbyotKNFq9RUK/Dx9jL3fxlfUdfzjPimaJF/spq/UWeyVJEdnsmlW46eyEEJP6Iy9gpO1Sv2bHi7abYJpmSwRI1xy3qnqZ4/KkFn+Ujz57iQqZdVhCF4vdxUZKXUTkiovFAGXMksny1CWvyOp4AMfIaF+6y60SFAbKeF3h3Q==;GgV2CeK+YlhqssA6xBTIPA=="
 ---

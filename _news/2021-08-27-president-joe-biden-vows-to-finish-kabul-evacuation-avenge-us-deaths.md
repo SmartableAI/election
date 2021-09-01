@@ -117,22 +117,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "The utter ridiculousness of calls for Joe Biden to resign"
-    excerpt: "None of it is grounds for Biden to resign his office -- as Republican elected officials fell all over themselves to demand even as the casualties f"
-    publishedDateTime: 2021-08-27T14:01:00Z
-    webUrl: "https://www.wthitv.com/content/national/575185862.html"
-    ampWebUrl: "http://www.wthitv.com/templates/AMP?contentID=575185862"
-    cdnAmpWebUrl: "https://www-wthitv-com.cdn.ampproject.org/c/www.wthitv.com/templates/AMP?contentID=575185862"
-    type: article
-    provider:
-      name: WTHI-TV
-      domain: wthitv.com
-    quality: 75
-    images:
-      - url: "http://media.heartlandtv.com/designimages/wthi-story-default-image-640x380.png"
-        width: 640
-        height: 380
-        isCached: true
   - title: "Israeli PM to make case to Biden against Iran nuclear pact"
     excerpt: "President Joe Biden and Israeli Prime Minister Naftali Bennett have postponed their White House meeting as Biden focused his attention on dealing with the aftermath of deadly explosions near the Kabul airport that targeted U."
     publishedDateTime: 2021-08-27T17:42:00Z
@@ -212,38 +196,6 @@ related:
       - url: "https://mediacloud.theweek.com/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1630312191/GettyImages-3295829.jpg"
         width: 814
         height: 458
-        isCached: true
-  - title: "Images of Joe Biden’s war will never fade"
-    excerpt: "Befuddled by time, disoriented by a riot of terrible decisions, and confused by the demand for answers, President Joe Biden stood in the East Room of the White House, clutched his binder to his chest,"
-    publishedDateTime: 2021-08-30T23:48:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/aug/30/images-of-joe-bidens-war-will-never-fade/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/30/images-of-joe-bidens-war-will-never-fade/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/30/images-of-joe-bidens-war-will-never-fade/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/08/26/Biden_37683.jpg-e9a80_c0-414-4967-3311_s1200x700.jpg?68ec6885488a9f2d33a5b30c517f2601ca6a8e9f"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Joe Biden’s Crisis Moment Has Arrived"
-    excerpt: "With Democrats distancing themselves from the president over his bungled Afghanistan withdrawal, COVID still spreading, and a tropical storm wreaking havoc in Louisiana, is Biden’s messaging getting lost in the chaos?"
-    publishedDateTime: 2021-08-30T17:44:00Z
-    webUrl: "https://www.vanityfair.com/news/2021/08/joe-biden-crisis-moment-has-arrived-afghanistan-covid-ida"
-    ampWebUrl: "https://www.vanityfair.com/news/2021/08/joe-biden-crisis-moment-has-arrived-afghanistan-covid-ida/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2021/08/joe-biden-crisis-moment-has-arrived-afghanistan-covid-ida/amp"
-    type: article
-    provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 75
-    images:
-      - url: "https://media.vanityfair.com/photos/612cfef15f6fb57f04d927b4/master/pass/Biden8.30.jpg"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "Biden looking at climate change risks to financial markets"
     excerpt: "In a season of daunting wildfires and flooding, the Biden administration is taking an initial step to assess how climate change could harm financial markets — planning to launch on Tuesday a 75-day comment period on how the impacts could reshape the insurance sector."
@@ -348,20 +300,6 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/ed6f0bf9a834153f35f58328cdc0147f/BIDEN-WEATHER.jpg"
         width: 650
         height: 433
-        isCached: true
-  - title: "U.S. to go on hitting ISIS, Biden pledges"
-    excerpt: "President Joe Biden vowed Saturday to keep up airstrikes against the Islamic extremist group whose suicide bombing at the Kabul airport killed scores of Afghans and 13 American service members. Another terror attack,"
-    publishedDateTime: 2021-08-29T08:59:00Z
-    webUrl: "https://www.arkansasonline.com/news/2021/aug/29/us-to-go-on-hitting-isis-biden-pledges/?news"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 55
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/199258283_199257870-b29018f6db5642afb236295d3817bbdb_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 434
         isCached: true
   - title: "Biden, families receive remains of fallen troops"
     excerpt: "In hushed reverence, President Joe Biden stood witness with grieving families Sunday under a gray sky as, one by one, the remains of 13 U.S. troops killed in the Kabul suicide bombing were removed with solemnity from a military aircraft that brought them home."

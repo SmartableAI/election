@@ -7,7 +7,7 @@ originalUrl: "https://www.c-span.org/video/?513528-1/vice-president-harris-meeti
 webUrl: "https://www.c-span.org/video/?513528-1/vice-president-harris-meeting-jordanian-king-abdullah"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -17,24 +17,6 @@ provider:
 topics:
   - Election
   - Kamala Harris
-
-related:
-  - title: "Texas Dems’ may have infected Pelosi and Harris aides, dimming prospects for Biden meeting"
-    excerpt: "The Texas Democrats who fled Austin have spent the last eight nights at a hotel a half-mile from the White House, and they’re growing a"
-    publishedDateTime: 2021-07-20T15:40:00Z
-    webUrl: "https://www.dallasnews.com/news/politics/2021/07/20/texas-dems-may-have-infected-pelosi-and-harris-aides-dimming-prospects-for-biden-meeting/"
-    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/07/20/texas-dems-may-have-infected-pelosi-and-harris-aides-dimming-prospects-for-biden-meeting/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/07/20/texas-dems-may-have-infected-pelosi-and-harris-aides-dimming-prospects-for-biden-meeting/?outputType=amp"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 80
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/VuNw3dJQ29DfLLcuiEK23QhNUSE=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/PCSJ5JXUKANH5IEU3MZULTDK2A.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "HhqejhtdgcDAZBj5CcrClYznJ7Egkx67ZwA00pOpgoMDIhhcPJvxx6SIS1J7+D+Yun0jNAqW5mK5hlVd2/wjVguK9DgBUjJACpAzr2i5VhhHSkE+Hs4zH3h3mHWcaIGL1G+oSG7lV4uQ+7qALusO+jeyAQP//y+1Yx7m8gNJAvpxAHyiQh329etjCYZPBUGDKQZucW/PCN5tyq5y2q88DKquMokHa3oGsuDVhBgy+TTd62VQ+W/VwS80y3JgJno/SfbWsKGrloYmQhm8xswwLj7sl2UZ9t+l6uMdy6SGuEYdWKGyQ0r9GItd8h/xaqONiCHBkR/D1yLRvALEXyKIV4Wea9F2+KLJZ9GW4QVkKbd3FOy2Y8E6NieDpchLL+5FpKn6i0Nven6hWQuSwl0m8yNJhJxobiX3luxM17bU8yue4I0N2msV0Ja+QtMdKHy0r8sIJ8G5jqgQhfVIoWDGcUhEQnJsOE/PGnb804yeyDyyFl1vakyh6bvUgJ3G9UvaIa4Djs7Dhl5UyJ4+D+NuGQ==;iZyJXSMYJV1GBrJLQSTIew=="
 ---

@@ -2,19 +2,19 @@
 category: news
 title: "Biden defends departure from 'forever war,' praises airlift"
 excerpt: "A defensive President Joe Biden called the U.S. airlift to extract more than 120,000 Americans, Afghans and other allies from Afghanistan to end a 20-year war an “extraordinary success,\" though more than 100 Americans and thousands of others were left behind."
-publishedDateTime: 2021-09-01T09:40:00Z
-originalUrl: "https://www.stamfordadvocate.com/news/article/Biden-defends-departure-from-forever-war-16427032.php"
-webUrl: "https://www.stamfordadvocate.com/news/article/Biden-defends-departure-from-forever-war-16427032.php"
-ampWebUrl: "https://www.stamfordadvocate.com/news/amp/Biden-defends-departure-from-forever-war-16427032.php"
-cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Biden-defends-departure-from-forever-war-16427032.php"
+publishedDateTime: 2021-09-01T13:49:00Z
+originalUrl: "https://www.chron.com/news/article/Biden-defends-departure-from-forever-war-16427032.php"
+webUrl: "https://www.chron.com/news/article/Biden-defends-departure-from-forever-war-16427032.php"
+ampWebUrl: "https://www.chron.com/news/amp/Biden-defends-departure-from-forever-war-16427032.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-defends-departure-from-forever-war-16427032.php"
 type: article
 quality: 75
 heat: 75
 published: true
 
 provider:
-  name: StamfordAdvocate
-  domain: stamfordadvocate.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
@@ -26,6 +26,6 @@ images:
     height: 336
     isCached: true
 
-secured: "kcPDCwZZqo+MKvtJdOJ0+3TO2FAmTTseDsEABTtPscd4MUl+kgS4H2Q0yBiKNZpJYxqKEerwa2S9U9i4cZtiwFgv9AB2LBBz3wB2pShS4M09pgd7wPFMOxffhXKJa6vfl7SLDo1wLiENVtX4Jiv46QhFA+edKJdIDFpv3ek2ulySemJVaKaCcYUnpDTfxSvb6I7QFukkuqgcC5WjyVD0rRq8j/W89rFzJBaM/a0n76VT2h45D1kUcKuIt07pvlzrf5kZ7L6/5Y3aPsNuhYJlDtn/FNhEEyxRfjifa3/60bZJRbKhE55+ZILoqnh+lOyc8kaWBA+QRv2maZwVxXNkfAk/VjPfP4eko9I5mkNbbec=;hU6JU6XJI/X7SWC+3Wn7tQ=="
+secured: "IGcoFw98HbXmjnmL/RfSlLOa6QLMrFOpx3Fu5NbgF4sw455WYJc8uAhnWZRruRJ9SCc0JIRvrMT3cHbJtyOhVmYeARJeNWDdH9As7NJXlwnsQNruxiGBjHj506y29n4y2fhvJGo3LbelAt7AMWD4BZhHsae+b3A+XYbey3CkYsMl0/OvwBbU9OECw/B/qS0ej7v0O4HXDEiJzTRRihI1YH/hD+1GtvXoQxmJF1/Ullgh4zSlrUm3Fqc45iyTbi6fSWZ18sxS+0LmLM+nE2HnNnf9HMBQuMJBi4K2ga2Zp3J/xbuLNyl6jqucAVeRdgcuOB9Tbh7dV8n9LOm5iFxAE487VmlLzzlLwHHxN7bHU14=;qXPZkSYXdZ1gJ55wCLzdlQ=="
 ---
 

@@ -135,20 +135,6 @@ related:
         width: 400
         height: 211
         isCached: true
-  - title: "Rep. Boebert: 'There is Blood on Joe Biden's Hands'"
-    excerpt: "In the wake of the bombing at the Kabul airport in Afghanistan that killed at least 12 U.S. Marines and an unconfirmed number of civilians, House Rep. Lauren Boebert (R-Colo.) said President Joe Biden has blood on his hands for failing to competently plan and execute the withdrawal from Afghanistan."
-    publishedDateTime: 2021-08-26T17:39:00Z
-    webUrl: "https://www.cnsnews.com/article/washington/michael-w-chapman/rep-boebert-there-blood-joe-bidens-hands"
-    type: article
-    provider:
-      name: CNSNews.com
-      domain: cnsnews.com
-    quality: 55
-    images:
-      - url: "https://cdn.cnsnews.com/styles/article_big/s3/2021-08/green%2C%20mark%20%20%2045.jpg"
-        width: 700
-        height: 466
-        isCached: true
   - title: "What the end of Joe Biden’s eviction moratorium will look like in Maine"
     excerpt: "The end of the moratorium comes as the pandemic situation in Maine grows more grim and could test a new state law for renters."
     publishedDateTime: 2021-08-27T13:22:00Z
@@ -219,17 +205,6 @@ related:
         width: 679
         height: 357
         isCached: true
-  - title: "For Biden’s presidency has been driven by crisis and is the ‘loneliest job’"
-    excerpt: "President Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan, even as he and the nation continued to battle the COVID-19 pandemic."
-    publishedDateTime: 2021-08-28T13:24:00Z
-    webUrl: "https://www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/"
-    ampWebUrl: "https://www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 53
   - title: "Storm commemorates 2020 WNBA championship with President Joe Biden at White House"
     excerpt: "President Joe Biden and first lady Jill Biden hosted an entourage led by Storm captains Sue Bird and Breanna Stewart, coach Noelle Quinn and the majority owners Ginny Gilder, Lisa Brummel and Dawn Trudeau."
     publishedDateTime: 2021-08-24T22:46:00Z

@@ -6,8 +6,8 @@
       "title": "Biden defends departure from 'forever war,' praises airlift",
       "excerpt": "A defensive President Joe Biden called the U.S. airlift to extract more than 120,000 Americans, Afghans and other allies from Afghanistan to end a 20-year war an “extraordinary success,\" though more than 100 Americans and thousands of others were left behind.",
       "sourceUrl": null,
-      "webUrl": "https://www.stamfordadvocate.com/news/article/Biden-defends-departure-from-forever-war-16427032.php",
-      "originalUrl": "https://www.stamfordadvocate.com/news/article/Biden-defends-departure-from-forever-war-16427032.php",
+      "webUrl": "https://www.chron.com/news/article/Biden-defends-departure-from-forever-war-16427032.php",
+      "originalUrl": "https://www.chron.com/news/article/Biden-defends-departure-from-forever-war-16427032.php",
       "featuredContent": null,
       "highlight": null,
       "heat": 75,
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.stamfordadvocate.com/news/amp/Biden-defends-departure-from-forever-war-16427032.php",
-      "cdnAmpWebUrl": "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Biden-defends-departure-from-forever-war-16427032.php",
-      "publishedDateTime": "2021-09-01T02:40:00-07:00",
+      "ampWebUrl": "https://www.chron.com/news/amp/Biden-defends-departure-from-forever-war-16427032.php",
+      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-defends-departure-from-forever-war-16427032.php",
+      "publishedDateTime": "2021-09-01T06:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "StamfordAdvocate",
-        "domain": "stamfordadvocate.com",
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -105,7 +105,7 @@
       "originalUrl": "https://www.ft.com/content/bfe24854-3bf2-4ada-b3a2-778b4707c31f",
       "featuredContent": null,
       "highlight": null,
-      "heat": 445,
+      "heat": 405,
       "tags": null,
       "images": [
         {
@@ -415,54 +415,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-31-disgraceful-shameful-republican-outrage-after-biden-ends-pullout.md",
-      "title": "‘Disgraceful’, ‘shameful’: Republican outrage after Biden ends pullout",
-      "excerpt": "Congressional Republicans were livid after the Biden administration announced that the evacuation of Americans from Afghanistan had ended.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/08/30/disgraceful-shameful-republican-outrage-after-biden-ends-pullout/",
-      "originalUrl": "https://nypost.com/2021/08/30/disgraceful-shameful-republican-outrage-after-biden-ends-pullout/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/afghan-gop.jpg?quality=90&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/08/30/disgraceful-shameful-republican-outrage-after-biden-ends-pullout/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/30/disgraceful-shameful-republican-outrage-after-biden-ends-pullout/amp/",
-      "publishedDateTime": "2021-08-30T19:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-08-31-death-sentence-donald-trump-insists-biden-gave-taliban-kill-list-despite-blinken-denial.md",
       "title": "'Death Sentence': Donald Trump Insists Biden Gave Taliban 'Kill List' Despite Blinken Denial",
       "excerpt": "Republican former President Donald Trump has said that the administration of Democratic President Joe Biden has handed down a \"death sentence\" by giving the Taliban a list of all Americans and U.S. allies who remain in Afghanistan.",
@@ -471,7 +423,7 @@
       "originalUrl": "https://www.newsweek.com/death-sentence-donald-trump-insists-biden-gave-taliban-kill-list-despite-blinken-denial-1624395",
       "featuredContent": null,
       "highlight": null,
-      "heat": 899,
+      "heat": 859,
       "tags": null,
       "images": [
         {
@@ -723,7 +675,7 @@
       "originalUrl": "https://www.ibtimes.co.in/joe-biden-watches-bollywood-movies-new-warning-isis-sheds-clues-840245",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -1358,7 +1310,7 @@
       "originalUrl": "https://www.houstonchronicle.com/politics/texas/article/Beto-O-Rourke-pushes-Joe-Biden-to-help-pass-16411342.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 745,
+      "heat": 665,
       "tags": null,
       "images": [
         {
@@ -1441,6 +1393,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-supreme-court-rules-biden-may-not-suspend-trump-era-remain-in-mexico-policy-for-migrants.md",
+      "title": "Supreme Court rules Biden may not suspend Trump-era 'remain in Mexico' policy for migrants",
+      "excerpt": "A lower federal court said Biden officials improperly halted the Trump-era 'remain in Mexico' policy, which was intended to reduce immigration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freep.com/story/news/politics/2021/08/24/supreme-court-biden-may-not-halt-trump-era-remain-mexico-policy/8244772002/",
+      "originalUrl": "https://www.freep.com/story/news/politics/2021/08/24/supreme-court-biden-may-not-halt-trump-era-remain-mexico-policy/8244772002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/08/24/USAT/746d7176-bffa-46c2-99b3-816182b82d0c-GTY_1329925284.jpg?auto=webp&crop=7917,4454,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.freep.com/amp/8244772002",
+      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/8244772002",
+      "publishedDateTime": "2021-08-24T19:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit Free Press",
+        "domain": "freep.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

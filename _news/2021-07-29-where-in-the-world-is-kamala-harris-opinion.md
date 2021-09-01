@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/where-world-kamala-harris-opinion-1613148?a
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/where-world-kamala-harris-opinion-1613148?amp=1"
 type: article
 quality: 125
-heat: 965
+heat: 945
 published: true
 
 provider:
@@ -458,20 +458,6 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/98ae5e9b86b9be03fedbb2000418d677/HARRIS-VOTING.jpg"
         width: 650
         height: 433
-        isCached: true
-  - title: "VP Kamala Harris slams China right on their doorstep – here’s what she said"
-    excerpt: "During her visit to Singapore on Tuesday, Vice President Kamala Harris railed against China for coercing and intimidating countries in the South China Sea. 'We know that Beijing continues to coerce, to intimidate,"
-    publishedDateTime: 2021-08-25T17:42:00Z
-    webUrl: "https://americanmilitarynews.com/2021/08/vp-kamala-harris-slams-china-right-on-their-doorstep-heres-what-she-said/"
-    type: article
-    provider:
-      name: American Military News
-      domain: americanmilitarynews.com
-    quality: 53
-    images:
-      - url: "https://americanmilitarynews.com/wp-content/uploads/Screenshot-2021-08-25-9.46.53-AM.png"
-        width: 1130
-        height: 759
         isCached: true
   - title: "‘Weird making her border czar didn’t work’: Kamala Harris thrashed as polling shows she’s historically ‘unpopular’ VP"
     excerpt: "Kamala Harris has become the most unpopular vice president six months into an administration in years, according to recent unfavorable polling for the former senator."

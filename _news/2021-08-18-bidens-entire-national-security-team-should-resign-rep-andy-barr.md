@@ -127,6 +127,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden faces crisis of confidence over Afghanistan"
+    excerpt: "President Biden is facing a crisis of confidence in his ability to serve as commander in chief due to the overwhelming negative fallout he is receiving over the botched Afghanistan withdrawal, which left 13 U.S. service members dead and Americans and Afghan allies stranded."
+    publishedDateTime: 2021-09-01T12:28:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qu-oFCLSBxU/biden-faces-crisis-confidence-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-faces-crisis-confidence-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-faces-crisis-confidence-afghanistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4e8cae21-790a-40f6-bf00-8bf207630ccc/8a6b10de-c58f-463c-9774-fb03f7e40621/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Sec. Mayorkas blames Trump, rule of law for huge spike in illegal immigration during Biden administration"
     excerpt: "Homeland Security Secretary Alejandro Mayorkas blamed former President Donald Trump’s administration for the record rise of border crossings occurring during the Biden administration."
     publishedDateTime: 2021-08-13T14:23:58Z

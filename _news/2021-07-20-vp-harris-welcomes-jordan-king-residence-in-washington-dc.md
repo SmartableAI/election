@@ -87,6 +87,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Essential Politics: Why Kamala Harris will be hitting the campaign trail"
+    excerpt: "Vice President Kamala Harris is expected to spend a lot of 2022 campaigning for Democrats in Congress. Here's why the Biden administration is depending on it."
+    publishedDateTime: 2021-09-01T13:33:00Z
+    webUrl: "https://www.latimes.com/politics/newsletter/2021-09-01/essential-politics-why-kamala-harris-will-be-hitting-the-campaign-trail-essential-politics"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 104
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/6191843/2147483647/strip/true/crop/3072x1613+0+243/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F22%2F34%2F1ba9f95547e0863540fa6d220a92%2Funtitled.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Essential Politics: Kamala Harris’ past comes back with a Supreme Court ruling"
     excerpt: "Vice President Harris was hit by a blast from her past this month when the Supreme Court ruled against California in a case dating to when she was state attorney general."
     publishedDateTime: 2021-07-21T13:46:00Z

@@ -1,30 +1,24 @@
 ---
 category: news
-title: "Post-Trump, Ukraine's leader to push Biden for US support"
-excerpt: "The White House says the meeting between President Joe Biden and President Volodymyr Zelenskyy is aimed at showing support for Ukraine’s sovereignty."
-publishedDateTime: 2021-09-01T11:45:00Z
-originalUrl: "https://www.detroitnews.com/story/news/world/2021/09/01/united-states-ukraine-biden-zelenskyy-meeting/5678488001/"
-webUrl: "https://www.detroitnews.com/story/news/world/2021/09/01/united-states-ukraine-biden-zelenskyy-meeting/5678488001/"
-ampWebUrl: "https://amp.detroitnews.com/amp/5678488001"
-cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5678488001"
+title: "Post-Trump, Ukraine’s leader to push Biden for US support"
+excerpt: "The Ukrainian leader who found himself ensnarled in Donald Trump’s first impeachment is coming to Washington to see a new president"
+publishedDateTime: 2021-09-01T12:33:00Z
+originalUrl: "https://www.seattletimes.com/nation-world/nation-politics/post-trump-ukraines-leader-to-push-biden-for-us-support/"
+webUrl: "https://www.seattletimes.com/nation-world/nation-politics/post-trump-ukraines-leader-to-push-biden-for-us-support/"
+ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/post-trump-ukraines-leader-to-push-biden-for-us-support/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/post-trump-ukraines-leader-to-push-biden-for-us-support/?amp=1"
 type: article
-quality: 90
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Detroit News
-  domain: detroitnews.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - Election
-  - Joe Biden
-
-images:
-  - url: "https://www.gannett-cdn.com/presto/2021/09/01/PDTN/fdd87f28-b763-42f4-81b7-59b5c2905337-AP21243690312764.jpg?auto=webp&crop=2563,1442,x0,y0&format=pjpg&width=1200"
-    width: 1200
-    height: 675
-    isCached: true
+  - Donald Trump
 
 related:
   - title: "Joe Biden raises Trump refugee cap after backlash"
@@ -2900,6 +2894,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "bcJcem863zhTusVsaj4wtci8kkvJaa11TGJ5BX2qRuDn9o+x/0OwG1JMxMVj5vKD7HEv4/YCU4ngUp4gZ+WjJXz866iUKXd9og3yzvsNw/xSvO26eNQLCmhfvtQjFMDOEU0R2NFh+97s4roRIdvRO97TedzQxEhVmeh7idbpBHIRcuuXGJhCuC9uss2olgAdZi+S2SXACU8IseyjBbPWCn8MgnxFMVvBz8WIf8Vw0F5UEQY/bF5XIswFfjjNBRAZ5KVnrrxnCAcabIAkyKrautcgyYT/TA2rTLM0Ut4bFdOfJ+0NiimH4RegPXKTkWzwUbsVzIfv7MS2uVDOBEbiqd8aX8VqImVGhf/GrKk/6uQ=;f9vAeAMcCdl9BCJ+7QMsYw=="
+secured: "F5CdFZz8lDw+SC9Uh3O3kxvHcfH0P7/PIslokQXQ73lOgwMkzcEBxozX/rw725ZFQgOeQnBcxFV/q1yBeycktrmDQOYW/5iUzh505lMAus7frcM1nErkX58IftpCDSIZ+cyLU3skiiyW6mCCQf2oEMDr/wDiTctCpWXsZHBRJZTPt2hN0u2l87E8kQl8mXK1ZOm+4NMOXkF3Qa/i+AzM15HQA8vF1moGexAfijXMMRKG+GFknf7VTYv9pKY+OR7/pNBGFnoebtLP6l29smdCmpp4o1YPKeOtY8LHaUg+m3IPaOfDgp6Wm2DNSwCHJDY7OpeOy7Ri74BQZaJbipBYjqPdKkMOBV1whbY/mDxULdyG3wHWBoF4y1HYZctamo0hmmz3WoIerSvmxiQOXLlfvwZ5za1mpkJ/I55fsmSk42oN1CqoIfCgYQ+FjmOKhW0a5gex+tinNYa9kTCCS6i7kitJMgXqltWQ+eAG3C24BxzapeF8p9CdgoQ5yfAXTOYWO0ioVJYQ4GXMoE5JrCkCyw==;RkVwA4/uookPeUzO3HPIvA=="
 ---
 

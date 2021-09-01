@@ -708,20 +708,6 @@ related:
       name: Lexington Herald Leader
       domain: kentucky.com
     quality: 55
-  - title: "Joe Biden’s Labor Board Picks Have Been Surprisingly Encouraging"
-    excerpt: "Biden's political history is anything but pro-labor. But his moves thus far to strengthen workers' rights through the National Labor Relations Board have actually been very promising."
-    publishedDateTime: 2021-08-27T02:40:00Z
-    webUrl: "https://jacobinmag.com/2021/08/workers-rights-national-labor-relations-board-biden-administration-union-law/"
-    type: article
-    provider:
-      name: Jacobin
-      domain: jacobinmag.com
-    quality: 55
-    images:
-      - url: "https://images.jacobinmag.com/wp-content/uploads/2021/08/26123837/GettyImages-1234864559.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Video: President Joe Biden To Speak After Deadly Kabul Airport Explosions"
     excerpt: "President Joe Biden is set to speak following the deadly explosions outside the airport in Kabul that killed 12 U.S. service members and scores of Afghans. Biden's address is scheduled for Thursday, Aug."
     publishedDateTime: 2021-08-26T22:24:00Z

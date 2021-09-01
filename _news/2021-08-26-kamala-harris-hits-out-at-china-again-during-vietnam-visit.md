@@ -89,22 +89,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Kamala Harris’s south-east Asia trip reveals limits of US strategy"
-    excerpt: "Analysis: With little sign of big ideas or ambitious proposals, some analysts say vice-president’s trip reflects how little the administration is investing in the region"
-    publishedDateTime: 2021-08-27T03:02:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/aug/27/kamala-harriss-south-east-asia-trip-reveals-limits-of-us-strategy"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/27/kamala-harriss-south-east-asia-trip-reveals-limits-of-us-strategy"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/27/kamala-harriss-south-east-asia-trip-reveals-limits-of-us-strategy"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/4c5deb75cf14a2876c7edfc0610d6f8a8a182175/0_496_8054_4832/master/8054.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6ea1028bd2e805f3cbbf4320ce9cc310"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Kamala Harris heads to Vietnam while Afghanistan images rekindle the past"
     excerpt: "White House officials did not anticipate the comparisons with Afghanistan when they charted Vice President Kamala Harris' trip to Vietnam."
     publishedDateTime: 2021-08-20T15:05:00Z
@@ -279,22 +263,6 @@ related:
       - url: "https://www.reuters.com/resizer/YgqCGpIjARxZ8pfeCCMDgprBPp0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7LOAE7NZ4ZJ3BBGBPOSUD2OFKA.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "TIME's 'Impeachment' Cover on Joe Biden & Kamala Harris? No, It's Altered Image"
-    excerpt: "The viral cover has been altered as the latest edition of the magazine does not feature Joe Biden and Kamala Harris."
-    publishedDateTime: 2021-08-28T09:10:00Z
-    webUrl: "https://www.thequint.com/news/webqoof/time-impeachment-cover-joe-biden-kamala-harris-altered-image-fact-check"
-    ampWebUrl: "https://www.thequint.com/amp/story/news/webqoof/time-impeachment-cover-joe-biden-kamala-harris-altered-image-fact-check"
-    cdnAmpWebUrl: "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/news/webqoof/time-impeachment-cover-joe-biden-kamala-harris-altered-image-fact-check"
-    type: article
-    provider:
-      name: The Quint
-      domain: thequint.com
-    quality: 96
-    images:
-      - url: "https://images.thequint.com/thequint%2F2021-08%2F4ee72234-cc39-4ccd-a9ec-2b8f48cc89fc%2FVIRAL_IMAGE_5.jpg?rect=0%2C0%2C1920%2C1080"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Kamala Harris was en route to Vietnam to donate 1 million COVID-19 vaccines when China swooped in to one-up the US and offered 2 million shots"
     excerpt: "Harris is traveling in Southeast Asia this week as part of the Biden administration's broader effort to curb China's expanding global influence."
@@ -552,22 +520,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Harris emphasizing human and worker rights in Vietnam"
-    excerpt: "Vice President Kamala Harris is turning her focus to worker rights and civil liberties as she closes out her visit to Southeast Asia."
-    publishedDateTime: 2021-08-26T05:07:00Z
-    webUrl: "https://www.ksat.com/news/politics/2021/08/26/harris-emphasizing-human-and-worker-rights-in-vietnam/"
-    ampWebUrl: "https://www.ksat.com/news/politics/2021/08/26/harris-emphasizing-human-and-worker-rights-in-vietnam/?outputType=amp"
-    cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/politics/2021/08/26/harris-emphasizing-human-and-worker-rights-in-vietnam/?outputType=amp"
-    type: article
-    provider:
-      name: KSAT
-      domain: ksat.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/NWVK6Z54LRE2FNV3X6BRJNJDC4.jpg"
-        width: 6000
-        height: 4000
-        isCached: true
   - title: "Kamala Harris Blocks Reporters from Hawaii Event Amid Kabul Firestorm"
     excerpt: "Vice President Kamala Harris inexplicably blocked reporters for an event in Hawaii on Thursday amid the firestorm over events in Afghanistan."
     publishedDateTime: 2021-08-27T03:30:00Z
@@ -631,22 +583,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/08/24/USAT/d511492f-ef8e-4620-888e-f9dbdbe46e98-AFP_9LK3P2.jpg?auto=webp&crop=7817,4398,x0,y281&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Vice President Kamala Harris emphasizing human and worker rights in Vietnam"
-    excerpt: "HANOI >> Vice President Kamala Harris will turn her attention to issues surrounding worker rights and civil liberties Thursday as she closes out her visit to Southeast Asia, elevating activists in a region of the world known for its challenges and restrictions to human rights."
-    publishedDateTime: 2021-08-26T01:22:00Z
-    webUrl: "https://www.staradvertiser.com/2021/08/25/news/vice-president-kamala-harris-emphasizing-human-and-worker-rights-in-vietnam/"
-    ampWebUrl: "https://www.staradvertiser.com/2021/08/25/news/vice-president-kamala-harris-emphasizing-human-and-worker-rights-in-vietnam/amp/"
-    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2021/08/25/news/vice-president-kamala-harris-emphasizing-human-and-worker-rights-in-vietnam/amp/"
-    type: article
-    provider:
-      name: Honolulu Star-Advertiser
-      domain: staradvertiser.com
-    quality: 73
-    images:
-      - url: "https://www.staradvertiser.com/wp-content/uploads/2021/08/web1_11646672-19cff69bb6d34cc0ac4e5f99dc05c66d.jpg"
-        width: 760
-        height: 483
         isCached: true
   - title: "VP Kamala Harris raises human rights concerns in Vietnam to wrap Asia trip"
     excerpt: "U.S. Vice President Kamala Harris on Thursday completed her visit to Southeast Asia with a news conference in Vietnam, in which she said she raised concerns about human rights issues with leaders in Hanoi."
@@ -888,20 +824,6 @@ related:
         width: 1280
         height: 723
         isCached: true
-  - title: "Kamala Harris’ Southeast Asia Visit Shows Biden’s Southeast Asia Policy Still Lacks a Clear Roadmap"
-    excerpt: "The expansion of U.S. cooperation with Southeast Asia was a welcome step, but the question of long-term strategy remains."
-    publishedDateTime: 2021-08-27T00:22:00Z
-    webUrl: "https://thediplomat.com/2021/08/kamala-harris-southeast-asia-visit-shows-bidens-southeast-asia-policy-still-lacks-a-clear-roadmap/"
-    type: article
-    provider:
-      name: The Diplomat
-      domain: thediplomat.com
-    quality: 56
-    images:
-      - url: "https://thediplomat.com/wp-content/uploads/2021/08/sizes/td-story-s-2/thediplomat_2021-08-26-14.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Harris’ Asia trip carries new urgency after Afghan collapse"
     excerpt: "The Taliban takeover of Afghanistan is giving new urgency to Vice President Kamala Harris’ tour of southeast Asia, where she will attempt to reassure allies of American resolve following the chaotic end of a two-decade war."
     publishedDateTime: 2021-08-20T15:54:00Z
@@ -1030,20 +952,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Kamala Harris says she urged Vietnam to free political dissidents"
-    excerpt: "U.S. Vice President Kamala Harris said Thursday she raised issues of human rights abuses and restrictions on political activism in her conversations with Vietnamese leaders this week, but offered no indication those talks bore fruit."
-    publishedDateTime: 2021-08-26T11:56:00Z
-    webUrl: "https://triblive.com/news/world/kamala-harris-says-she-urged-vietnam-to-free-political-dissidents/"
-    type: article
-    provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 55
-    images:
-      - url: "https://assets-varnish.triblive.com/2021/08/4176596_web1_4176596-9ee18b1b359c45af885e9f1c03f063d1.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "Kamala Harris met with LGBTQ activists before leaving Vietnam"
     excerpt: "Vice President Kamala Harris met with LGBTQ and disability activists before leaving Vietnam. Harris held a roundtable discussion that included Chu Thanh Hà Ngoc, a transgender activist, and Đoàn Thanh Tùng,"
     publishedDateTime: 2021-08-26T21:13:00Z
@@ -1057,20 +965,6 @@ related:
       - url: "https://abuwjaawap.cloudimg.io/v7/_lgbtqnation-assets_/assets/2021/07/51101860704_ba910b286c_o-scaled.jpg?&auto=format&auto=compress&crop=faces&fit=crop&gravity=face&w=1200&h=630&wat=1&wat_gravity=southeast&wat_pad=40"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Watch Vice President Kamala Harris: Chase the Dream"
-    excerpt: "Vice President Kamala Harris: Chase the Dream is available to watch free on Tubi TV and Kanopy. It's also available to stream, download on demand at . Some platforms allow you to rent Vice President Kamala Harris: Chase the Dream for a limited time or ..."
-    publishedDateTime: 2021-08-28T13:59:00Z
-    webUrl: "https://www.yidio.com/movie/vice-president-kamala-harris-chase-the-dream/230814"
-    type: article
-    provider:
-      name: Yidio
-      domain: yidio.com
-    quality: 55
-    images:
-      - url: "https://cfm.yidio.com/images/movie/230814/backdrop-1280x720.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Kamala Harris Visits Singapore to Deepen Ties, Counter China's Influence"
     excerpt: "U.S. Vice President Kamala Harris will meet Singapore's leaders on Monday on the first working day of a trip to Southeast Asia aimed at bolstering ties as part of Washington's efforts to counter China's growing influence."
