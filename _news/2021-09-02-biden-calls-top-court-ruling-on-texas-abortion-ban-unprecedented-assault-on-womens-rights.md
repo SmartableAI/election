@@ -53,6 +53,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "President Joe Biden says Texas' new abortion law \"unleashes unconstitutional chaos\""
+    excerpt: "Biden promised to mobilize the federal government to respond to the Texas law “to ensure that women in Texas have access to safe and legal abortions as protected by Roe.\""
+    publishedDateTime: 2021-09-02T16:24:00Z
+    webUrl: "https://www.texastribune.org/2021/09/02/texas-abortion-law-joe-biden/"
+    ampWebUrl: "https://www.texastribune.org/2021/09/02/texas-abortion-law-joe-biden/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/09/02/texas-abortion-law-joe-biden/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 69
+    images:
+      - url: "https://thumbnails.texastribune.org/awXUfugw4V8ATiBjcqo7A4RnVXA=/1200x630/filters:quality(95)/static.texastribune.org/media/files/302214eb567a50813c271e480d6ebd7b/Biden%20Aug%2031%20REUTERS%20TT.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump Organization employees to testify before NY grand jury"
     excerpt: "Matthew Calamari Jr., the Trump Organization’s corporate director of security, will testify this week before a Manhattan grand jury investigating former President Donald Trump’s company and its"
     publishedDateTime: 2021-09-02T00:52:00Z

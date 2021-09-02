@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-07-02-the-latest-biden-concern-about-unvaccinated-during-holiday.md",
+      "title": "The Latest: Biden: Concern about unvaccinated during holiday",
+      "excerpt": "President Joe Biden says he’s concerned lives will be unnecessarily lost to COVID-19 as unvaccinated people contract and transmit the coronavirus over the July 4 holiday",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/the-latest-india-confirms-400k-dead-half-in-past-2-months/2021/07/02/be07bbd4-dafa-11eb-8c87-ad6f27918c78_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/the-latest-india-confirms-400k-dead-half-in-past-2-months/2021/07/02/be07bbd4-dafa-11eb-8c87-ad6f27918c78_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6XQ2AXW3JQI6XDEHVVXSPEMMPA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/business/the-latest-india-confirms-400k-dead-half-in-past-2-months/2021/07/02/be07bbd4-dafa-11eb-8c87-ad6f27918c78_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/the-latest-india-confirms-400k-dead-half-in-past-2-months/2021/07/02/be07bbd4-dafa-11eb-8c87-ad6f27918c78_story.html?outputType=amp",
+      "publishedDateTime": "2021-07-02T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-02-biden-is-rated-poorly-on-handling-crime-alternative-approaches-win-broad-favor-poll.md",
       "title": "Biden is rated poorly on handling crime; alternative approaches win broad favor: POLL",
       "excerpt": "Americans seeing crime as an extremely serious problem in the U.S. is at a more than 20-year high and President Joe Biden is underwater in trust to handle it: POLL",
@@ -1530,63 +1582,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-watters-world-on-political-correctness-biden-and-the-media.md",
-      "title": "‘Watters' World’ on political correctness, Biden and the media",
-      "excerpt": "Last week, we told you how the media committed suicide to drag Biden over the finish line. Now, their credibility is shot, and the truth is coming out. (BEGIN VIDEO CLIP) WATTERS: So, Russian bounties were a lie,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media",
-      "originalUrl": "https://www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8fe57550-1f80-440e-95c2-aad84c478fae/48a3c712-5084-4eed-ad46-9ce1dc0f8496/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media.amp",
-      "publishedDateTime": "2021-06-21T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

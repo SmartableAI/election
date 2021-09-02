@@ -122,6 +122,20 @@ related:
         width: 1012
         height: 543
         isCached: true
+  - title: "For Louisiana's Hurricane Ida recovery, Joe Biden pledges 'all the assistance that’s needed'"
+    excerpt: "President Joe Biden on Thursday said his administration was “ready to provide all the assistance that’s needed\" in response to a massive wildfire in California and to Hurricane Ida, which"
+    publishedDateTime: 2021-09-02T17:22:00Z
+    webUrl: "https://www.nola.com/news/hurricane/article_67a40196-0c12-11ec-b29d-870e33a13c98.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 44
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/9/92/992bcfd7-ee9d-5510-9324-12c99102f0b5/612ec2902bf6e.image.jpg?resize=1030%2C630"
+        width: 1030
+        height: 630
+        isCached: true
 
 secured: "yic2Ym4lwpcupGWaulbJJPFe5kW2S+gPha4FfEfhTF/XYs28G4lgpMDMXarg87eMJy47yDsKQRYhKtc2TRUC6M3MGrboqJC7hZJtQxGuhk1WJ+kjsBz7ohNwnuvwdBWfSrRYMAPbNTRJrGx4abM7Un8PU2fxD4u4CTG4PHhlzNozRlj9/w9FvpRNNEPHW5HoWEQl4kovF2b8YJDOKdYrW3rgQXpTdOkVf/CDTgm4Vy0xmYNJj1zV1CfUJHds1Ka3VCpW3gyzfDko6ZUQXZDUcSwE28d7odooMBEhvSTtxHX7uMKYwNn1tLHqw+HmErCgArVD/K6pOT25w+ZyhWfe7hNRt8tpkLhwycdz04jKWdO/VKhYAdRqPs+3FGU48hDOvzGYv0nwEycO4ymiyRCDma6k61sDM/dD3PN6dDuy0cdVWfhzkwbi56rFyxWBGpOTo88ozv/FbtSUpFRZNIyUqkdF/EQOAyPaQkoTHaOov527v6doGUb/51SL6Hugo4QNcFe0UXeQBvcuM5d32Bo3EA==;BSeZgwXTo5vwlVnkJ3um7A=="
 ---

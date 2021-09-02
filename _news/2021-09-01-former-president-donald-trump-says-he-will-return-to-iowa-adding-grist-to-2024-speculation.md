@@ -42,13 +42,13 @@ related:
         height: 630
         isCached: true
   - title: "Outside group spending big to tell NC voters that Trump endorsed Budd in Senate race"
-    excerpt: "With 2022 primaries ahead, Republican and Democratic candidates campaign across the state. President Donald Trump endorsed Ted Budd three months ago in North Carolina’s 2022 U.S. Senate race. Now one of Budd’s biggest political backers is spending $3 ..."
-    publishedDateTime: 2021-09-02T13:52:00Z
-    webUrl: "https://www.newsobserver.com/news/politics-government/election/article253939118.html"
+    excerpt: "President Donald Trump endorsed Ted Budd three months ago in North Carolina’s 2022 U.S. Senate race. Now one of Budd’s biggest political backers is spending $3 million to make sure Republicans in the state are aware of Trump’s endorsement."
+    publishedDateTime: 2021-09-02T16:25:00Z
+    webUrl: "https://www.heraldsun.com/news/politics-government/election/article253939118.html"
     type: article
     provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
+      name: The Herald-Sun
+      domain: heraldsun.com
     quality: 28
 
 secured: "cUhdS4nrJiIPU5kIRtFUlOCeqtLgeWJNGaMihITLZS7lwCtfilUj4rzZO/7vhK56lXEvl+K/QRIJUaCy5THDALqGCV/EpSyPPVLw0lFb8LQfOsXb84sCWLyOeKZPVSF7bT73JRNByjEpIhDWXPOHikXFKL0qWt6yRoeIOqW161lI6huhmitQf9pUjZCaUmhDEcPLvi0LpsaYMzqCLm0/BX2BTF0YIznCw8Tcch82irwBNItVWqdQ4lbKd1hcn3DbcVosV04yUJV7aJIFL4YvBavp55oxK4Y4e0Sc78q5G40bM0/uOx3/0fTm752i1Jn3c8Qewf07yxi1qBRCCpnLVJGAUXoUt7Q38n3kn+OJ3SiyTjHBAjnLRUJ3X6I77e6V8wU12YLvtbRnq1Axv4HNKHGjleSfQLnkKzQkk6F8FLhfKGbmiLZrl2DNVnX8Wo6qQ3K+dyamGRMADWMN3O89tq6oWetHs/nGOoluO/CkwToSjeyNDOi3iGFmt19lsZUEf9PyMd/V2S3RLlGqZpaQqQ==;YOgJI8/w1WZw4KI0JITpVQ=="

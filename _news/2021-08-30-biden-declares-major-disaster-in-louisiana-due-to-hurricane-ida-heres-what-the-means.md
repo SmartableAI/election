@@ -110,6 +110,20 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "For Louisiana's Hurricane Ida recovery, Joe Biden pledges 'all the assistance that’s needed'"
+    excerpt: "President Joe Biden on Thursday said his administration was “ready to provide all the assistance that’s needed\" in response to a massive wildfire in California and to Hurricane Ida, which"
+    publishedDateTime: 2021-09-02T17:22:00Z
+    webUrl: "https://www.nola.com/news/hurricane/article_67a40196-0c12-11ec-b29d-870e33a13c98.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 44
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/9/92/992bcfd7-ee9d-5510-9324-12c99102f0b5/612ec2902bf6e.image.jpg?resize=1030%2C630"
+        width: 1030
+        height: 630
+        isCached: true
   - title: "Biden Declares Major Disaster After Hurricane Ida Lashes Louisiana"
     excerpt: "U.S. President Joe Biden declared a major disaster in Louisiana and ordered federal aid to supplement recovery efforts in the areas affected by Hurricane Ida, the White House said on Sunday. \"Assistance can include grants for temporary housing and home repairs,"
     publishedDateTime: 2021-08-30T03:39:00Z

@@ -2,19 +2,19 @@
 category: news
 title: "President Joe Biden plans to make trip to Louisiana in wake of Hurricane Ida destruction"
 excerpt: "President Joe Biden plans to visit Louisiana Friday to survey damage from Hurricane Ida. Hurricane Ida slammed into Louisiana with 150 mph winds."
-publishedDateTime: 2021-09-01T17:19:00Z
-originalUrl: "https://www.shreveporttimes.com/story/news/2021/09/01/president-biden-plans-visit-louisiana-hurricane-ida-aftermath/5682801001/"
-webUrl: "https://www.shreveporttimes.com/story/news/2021/09/01/president-biden-plans-visit-louisiana-hurricane-ida-aftermath/5682801001/"
-ampWebUrl: "https://amp.shreveporttimes.com/amp/5682801001"
-cdnAmpWebUrl: "https://amp-shreveporttimes-com.cdn.ampproject.org/c/s/amp.shreveporttimes.com/amp/5682801001"
+publishedDateTime: 2021-09-01T21:13:00Z
+originalUrl: "https://www.statesman.com/story/news/2021/09/01/president-biden-plans-visit-louisiana-hurricane-ida-aftermath/5682801001/"
+webUrl: "https://www.statesman.com/story/news/2021/09/01/president-biden-plans-visit-louisiana-hurricane-ida-aftermath/5682801001/"
+ampWebUrl: "https://amp.statesman.com/amp/5682801001"
+cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/5682801001"
 type: article
 quality: 66
 heat: -1
 published: false
 
 provider:
-  name: Shreveport Times
-  domain: shreveporttimes.com
+  name: Austin American-Statesman
+  domain: statesman.com
 
 topics:
   - Election
@@ -217,6 +217,6 @@ related:
       domain: lasvegassun.com
     quality: 35
 
-secured: "YXljDy9QOxRNMKlVLBlg8lsnU45NE7LZ3nPE3pQwSTskxIVy3hzFCw0O5F8G1imX+0NKV50OX3fnO45g8RMbdMN/REzq1v1//DasNJyCBQXHxfTXzQmBQ3oF5znZsAhFpqNHXyHu96FiC0mOq9QvSFfVUEtWTjBVvrz7HmiJJfRTl+5cGki2Mix0Zid+NnbLulFcEg770i9eQJ0m5MiEX/NubufwAxE5Xi8rNtK6ZGAPL0s+/rV7BsqDYMuziTgqvUT1I6bkGs8eYg7+f10CcJrrNwwWWSWWj1iuE15zycIdwhYKPFZlxqPuRMUqa7gWf8qVHWj6xNWA1A43FPan0lW9CMF81tuProL0SEOHdNdVggVNL8MSCZaj1B5R4JhJWIU0BQpHwffxQmXW58Zp3II8HjVd31jD9zJhWTeUtiR0SlnOq1moUjrveOQucSeZvHLrrF7JoAlOPmw4NNXEn/KA55z0+Ay5jJd0QDuWEG+NEFMWvD9kiY+9Gpj2zA1uM2EmJADfa6jlAJZMgSsi9Q==;G0EdRSQhhxSVkPimbd6+ew=="
+secured: "OJ6Lvk8ChiSe1tzitrpPuAHAOImdRFmW+n2h63V2QjX5ux/CVGHCgM2e4ZXz/mV7LXFcPMFL3fTTfT/f0Pr6BZSKXIc1pPud+Z+K4OI/2wTsRkcmAcLTVdZH0cipsMwTWNP9IAM4w7Gy5LVoyRfF/TkSR39hiAtFKKjTETeyNENCbGbTZ9MCBNcSzdiFmwasFAW32S8SCoOc0ZhC/Hn5AqEcH5jzSWb2xwDqefBZZx2AnKgkG+ITKm/DIMhxpdlzQOptESZ2NY1rDU2135S34x0yRz2fXHRL1GaNHe4HbP39+YqnqlTrsJNRuS+sInMowt/YE2YFw5RZ98iuivpJU0oPcOpzvF3LKjpcCpTlloA=;avPoW2ewh1Y7Y2h1mrOFrw=="
 ---
 

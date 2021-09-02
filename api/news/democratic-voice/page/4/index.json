@@ -2,6 +2,63 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-15-poll-without-trump-in-the-race-desantis-dominates-2024-gop-white-house-hopefuls.md",
+      "title": "Poll: Without Trump in the race, DeSantis dominates 2024 GOP White House hopefuls",
+      "excerpt": "Donald Trump remains the king of the GOP. Florida Gov. Ron DeSantis is looking like the crown prince. For months, DeSantis’ stature has been expanding within the party, marked by growing buzz among grassroots activists and GOP consultants who admire the pugilistic style of politics he wields against progressives and the media.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/states/florida/story/2021/07/15/poll-without-trump-in-the-race-desantis-dominates-2024-gop-white-house-hopefuls-1388365",
+      "originalUrl": "https://www.politico.com/states/florida/story/2021/07/15/poll-without-trump-in-the-race-desantis-dominates-2024-gop-white-house-hopefuls-1388365",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/aa/ab/9503fd984efb9e26be00ba54c31e/ap21148637808493-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T02:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-theyre-not-going-to-fking-succeed-top-generals-feared-trump-would-attempt-a-coup-after-election-according-to-new-book.md",
       "title": "'They're not going to f**king succeed': Top generals feared Trump would attempt a coup after election, according to new book",
       "excerpt": "The top US military officer, Chairman of the Joint Chiefs Gen. Mark Milley, was so shaken that then-President Donald Trump and his allies might attempt a coup or take other dangerous or illegal measures after the November election that Milley and other top officials informally planned for different ways",
@@ -1608,62 +1665,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/07/politics/gina-raimondo-infrastructure-push/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/07/politics/gina-raimondo-infrastructure-push/index.html",
       "publishedDateTime": "2021-07-07T16:35:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-first-on-cnn-biden-administration-ramps-up-investment-in-environmental-justice.md",
-      "title": "First on CNN: Biden administration ramps up investment in environmental justice ",
-      "excerpt": "The Environmental Protection Agency announced Wednesday an additional $50 million in funding to enhance air pollution monitoring and improve air quality in low-income communities and communities of color.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mXgzdLmhLjA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mXgzdLmhLjA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 230,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210421163738-los-angeles-air-pollution-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/07/politics/epa-air-quality-biden-environmental-justice/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/07/politics/epa-air-quality-biden-environmental-justice/index.html",
-      "publishedDateTime": "2021-07-07T10:45:38-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

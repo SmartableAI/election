@@ -2,6 +2,63 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-13-what-will-president-biden-do-about-cuba-20m-pumped-into-sports-betting-push-florida-gop-dominates-again-in-raising-money.md",
+      "title": "What will President Biden do about Cuba? — $20M pumped into sports betting push — Florida GOP dominates again in raising money",
+      "excerpt": "Next steps — What will President Joe Biden do about Cuba? That mystery really wasn’t solved on Monday at the White House. Cautious — As reports of a second day of protests took place on the island nation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/florida-playbook/2021/07/13/what-will-president-biden-do-about-cuba-20m-pumped-into-sports-betting-push-florida-gop-dominates-again-in-raising-money-493547",
+      "originalUrl": "https://www.politico.com/newsletters/florida-playbook/2021/07/13/what-will-president-biden-do-about-cuba-20m-pumped-into-sports-betting-push-florida-gop-dominates-again-in-raising-money-493547",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg",
+          "width": 900,
+          "height": 1165,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-13T03:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-joe-biden-styles-himself-as-a-21st-century-trust-buster.md",
       "title": "Joe Biden styles himself as a 21st century ‘trust buster’",
       "excerpt": "Joe Biden’s biggest supporters insist he is the most progressive US president since his reforming predecessor Franklin Delano. Now Biden is trying to place himself in",
@@ -1471,58 +1528,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-the-latest-biden-concern-about-unvaccinated-during-holiday.md",
-      "title": "The Latest: Biden: Concern about unvaccinated during holiday",
-      "excerpt": "President Joe Biden says he’s concerned lives will be unnecessarily lost to COVID-19 as unvaccinated people contract and transmit the coronavirus over the July 4 holiday",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/the-latest-india-confirms-400k-dead-half-in-past-2-months/2021/07/02/be07bbd4-dafa-11eb-8c87-ad6f27918c78_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/the-latest-india-confirms-400k-dead-half-in-past-2-months/2021/07/02/be07bbd4-dafa-11eb-8c87-ad6f27918c78_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6XQ2AXW3JQI6XDEHVVXSPEMMPA.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/business/the-latest-india-confirms-400k-dead-half-in-past-2-months/2021/07/02/be07bbd4-dafa-11eb-8c87-ad6f27918c78_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/the-latest-india-confirms-400k-dead-half-in-past-2-months/2021/07/02/be07bbd4-dafa-11eb-8c87-ad6f27918c78_story.html?outputType=amp",
-      "publishedDateTime": "2021-07-02T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

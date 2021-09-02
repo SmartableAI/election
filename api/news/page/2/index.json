@@ -2,6 +2,174 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-01-biden-turns-to-nation-building-at-home-but-the-political-threats-he-left-behind-in-afghanistan-could-come-back-to-haunt-him.md",
+      "title": "Biden turns to nation building at home, but the political threats he left behind in Afghanistan could come back to haunt him",
+      "excerpt": "President Joe Biden may have ended the \"forever war\" but the dangerous loose ends he left behind in Afghanistan could still thwart his attempt to throw everything at his top priority domestic goals.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uxC5ygrXpbs/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uxC5ygrXpbs/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210901090413-05-biden-afghanistan-presser-0831-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/01/politics/afghanistan-fall-out-may-haunt-joe-biden/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/01/politics/afghanistan-fall-out-may-haunt-joe-biden/index.html",
+      "publishedDateTime": "2021-09-01T04:32:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-01-stefanik-and-daines-demand-pelosi-schumer-advance-bill-to-reopen-canadian-border-as-biden-keeps-it-closed.md",
+      "title": "Stefanik and Daines demand Pelosi, Schumer advance bill to reopen Canadian border as Biden keeps it closed",
+      "excerpt": "House GOP Conference Chair Elise Stefanik and Sen. Steve Daines, who represent border communities, are asking congressional leaders to call votes on a bill that would force the president to open the Canadian border.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rrah-x-3UWg/stefanik-daines-canadian-border-biden-legislation-pelosi-schumer",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rrah-x-3UWg/stefanik-daines-canadian-border-biden-legislation-pelosi-schumer",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/stefanik-daines-canadian-border-biden-legislation-pelosi-schumer.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stefanik-daines-canadian-border-biden-legislation-pelosi-schumer.amp",
+      "publishedDateTime": "2021-09-01T04:30:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-01-biden-to-meet-with-ukraines-zelensky-at-white-house-underscore-ironclad-commitment-to-its-sovereignty.md",
+      "title": "Biden to meet with Ukraine's Zelensky at White House, underscore 'ironclad commitment' to its sovereignty",
+      "excerpt": "President Biden is set to meet with Ukrainian President Volodymyr Zelensky Wednesday — to amplify the bilateral relationship, and to underscore the U.S. commitment to Ukraine’s security,officials said.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Px0Pe4fY998/biden-ukraine-white-house-meeting-zelensky",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Px0Pe4fY998/biden-ukraine-white-house-meeting-zelensky",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-ukraine-white-house-meeting-zelensky.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ukraine-white-house-meeting-zelensky.amp",
+      "publishedDateTime": "2021-09-01T02:01:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-01-flashback-october-2001-joe-biden-says-afghanistan-war-will-not-become-a-swamp-like-vietnam.md",
       "title": "FLASHBACK, October 2001: Joe Biden Says Afghanistan War Will Not \"Become A Swamp\" Like Vietnam",
       "excerpt": "NBC's Steve Kornacki unearthed footage of then-Senator Joe Biden speaking in favor of the October 2001 invasion of Afghanistan during an interview with Chris Matthews, arguing why it will not become a long-term \"swamp\" commitment like the Vietnam War.",
@@ -784,7 +952,7 @@
       "originalUrl": "https://www.pbs.org/newshour/nation/watch-biden-pledges-hurricane-ida-support-for-as-long-as-it-takes",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1086,7 +1254,7 @@
       "originalUrl": "https://www.houstonchronicle.com/politics/texas/article/Fact-Check-Joe-Biden-said-that-al-Qaida-is-16416922.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 405,
+      "heat": 425,
       "tags": null,
       "images": [
         {
@@ -1127,144 +1295,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-30-australias-recession-is-as-much-a-problem-for-biden-as-sydney.md",
-      "title": "Australia’s Recession Is As Much A Problem For Biden As Sydney",
-      "excerpt": "Australia’s sizable and open economy is often the closest thing the U.S. has to an early warning system, and experts are now warning that the country down under is sliding back into recession.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/williampesek/2021/08/30/australias-recession-is-as-much-a-problem-for-biden-as-sydney/",
-      "originalUrl": "https://www.forbes.com/sites/williampesek/2021/08/30/australias-recession-is-as-much-a-problem-for-biden-as-sydney/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612c7e3d4264343d3146dd8c%2F0x0.jpg",
-          "width": 1200,
-          "height": 776,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-30T01:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-30-joe-biden-watches-bollywood-movies-new-warning-to-isis-sheds-clues.md",
-      "title": "Joe Biden watches Bollywood movies? New warning to ISIS sheds clues",
-      "excerpt": "The new video by Joe Biden has gone viral, and it made many people speculate that the American president is an ardent fan of Bollywood movies",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.co.in/joe-biden-watches-bollywood-movies-new-warning-isis-sheds-clues-840245",
-      "originalUrl": "https://www.ibtimes.co.in/joe-biden-watches-bollywood-movies-new-warning-isis-sheds-clues-840245",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://data1.ibtimes.co.in/en/full/755862/joe-biden.jpg?w=570&h=350",
-          "width": 570,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ibtimes.co.in/joe-biden-watches-bollywood-movies-new-warning-isis-sheds-clues-840245",
-      "cdnAmpWebUrl": "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/joe-biden-watches-bollywood-movies-new-warning-isis-sheds-clues-840245",
-      "publishedDateTime": "2021-08-30T01:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBTimes India",
-        "domain": "ibtimes.co.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-30-whoopi-goldberg-mike-pence-didnt-show-north-korea-enough-respect-at-olympics.md",
-      "title": "Whoopi Goldberg: Mike Pence didn’t show North Korea enough ‘respect’ at Olympics",
-      "excerpt": "Whoopi Goldberg says U.S. Vice President Mike Pence should have shown more \"respect\" to North Koreans at the Pyeongchang 2018 Olympic Winter Games. \"He should have given enoughhad enough respect to say,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/2020-tokyo-olympics-sports-michael-pence-winter-olympics-whoopi-goldberg-fef42ba0a32d72cc55a6f28f99c95859",
-      "originalUrl": "https://apnews.com/article/2020-tokyo-olympics-sports-michael-pence-winter-olympics-whoopi-goldberg-fef42ba0a32d72cc55a6f28f99c95859",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/ShareLogo2.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-30T00:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

@@ -31,19 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Things are 'not working well' for the Trump-picked pandemic relief watchdog"
-    excerpt: "\"Everybody kind of expects you to fail. It's kind of set up to fail,\" Brian Miller told Insider."
-    publishedDateTime: 2021-09-02T08:02:00Z
-    webUrl: "https://www.businessinsider.com/covid-19-pandemic-watchdog-cares-act-inspector-general-congress-2021-9"
+  - title: "Lawyer for Trump ally Tom Barrack pushes prosecutors for evidence in United Arab Emirates lobby case"
+    excerpt: "Tom Barrack, a private equity investor and close friend of ex-President Donald Trump, is accused of advancing the interests of the United Arab Emirates."
+    publishedDateTime: 2021-09-02T17:01:00Z
+    webUrl: "https://www.cnbc.com/2021/09/02/trump-ally-tom-barrack-in-court-on-uae-lobbying-case.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/09/02/trump-ally-tom-barrack-in-court-on-uae-lobbying-case.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/09/02/trump-ally-tom-barrack-in-court-on-uae-lobbying-case.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 103
+      name: CNBC
+      domain: cnbc.com
+    quality: 110
     images:
-      - url: "https://i.insider.com/61300c8c9ef1e50018f952c3?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://image.cnbcfm.com/api/v1/image/106916020-1627047142866-tom.jpg?v=1630591233"
+        width: 2686
+        height: 1790
         isCached: true
 
 secured: "uRgg9BqUG/ry9Ctu5+LnQrnA+f+fJbKb14aZj45XWHjCGhH9H4ILAHIftwsf/AxaOFikk3wgR+WE8vKGzBc5ZGZyE2t+aCh8Y/6KmMTI2j7XCIYi9veGEJBGhSZhfT+EKF03rfept0+TlutryyRUtJloT89kuedIZgXTQ+2KuOAvPY3CP2c7lQX/5UeIbHx15zMb0h7xXdfA7UUcrpr/MhkoWCIJvMHrwscVMG2qKWQWDFu9G8rG/aewK58qNv3blwzGFhlhUw+0yIrNdXURFR9FGxDxh7BL10QSjW8bQkcMnWR1mVG5I6NmH+ubAo8jewD434heXfSOf/20xgd2uS/o/tViID0qHqwfmtmmdxlDP8U8zdSPz6/nAZ5Zaoh0QWT9uJnwVT7gZOmG4fytrYO60JjsH3WMK8AvMMIgy3uZNVRtbTN/c5GC4lkWBTXig1NwxzDsyz61Zmd/+BzoXgKE/k7mXVVVQ7DeYQ/a+NRJOVc44aTd7FbguGpBgLSMhtbUef5nmRptvy+l4HZisg==;IXEyfAzmMpYMrTIBcoDfzA=="

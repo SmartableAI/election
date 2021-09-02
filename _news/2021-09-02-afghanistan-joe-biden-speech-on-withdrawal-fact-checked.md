@@ -3,18 +3,22 @@ category: news
 title: "Afghanistan: Joe Biden speech on withdrawal fact-checked"
 excerpt: "In a televised address following the final departure of US troops from Afghanistan, President Joe Biden made a series of assertions about US policy in the country. We've fact-checked some of his claims,"
 publishedDateTime: 2021-09-01T18:07:00Z
-originalUrl: "https://www.bbc.co.uk/news/58412530?at_medium=RSS&at_campaign=KARANGA"
-webUrl: "https://www.bbc.co.uk/news/58412530?at_medium=RSS&at_campaign=KARANGA"
-ampWebUrl: "https://www.bbc.co.uk/news/58412530.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/58412530.amp"
+originalUrl: "https://www.bbc.com/news/58412530"
+webUrl: "https://www.bbc.com/news/58412530"
+ampWebUrl: "https://www.bbc.com/news/58412530.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/58412530.amp"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -1854,6 +1858,6 @@ related:
       domain: usnews.com
     quality: 29
 
-secured: "os653JOvlTIxEGmAZk1hiZu7NwA7xpYRY5SD2/0p4YPb/dqWlx1WirbujsLjltR6eKxcBgrGwoqFkGETCPduQdU1G8qx2F5+xAzEJ776kFPzpjV5J4Zg881LmlBWL4p40g5w8FddZFXNJOduk0k53MkqP1mlF2qQ9/IPpUjM+hdFPzQUdI6fA4Iip7Mn9hm1O8bsAm2NJoZMz9Y+vOTXALG0AzCGW4oLUw6gHXkv7uo0/qRQR4NixOkHZ+gZ6BXc226lrxlKN2VGxSJ4zBZJN4N5i/3gyhFrLpyd2/U9ZrcMj6plCfjh7vaNUCAGAmfw6NThZPLAQj3SpmlIygiAPAs44QVGdPYYmcXET7/JqWdPl00K40brPTk9jdzRP17sdGeM4C+fprnor7T0UJJDAkYwv8i10JoQh/zCuCu0erb+2a1ZOy877WhMGT47BfwpSckFG9IOW5VpPCzs8sy8symVekSqenT5PjNki0zubX/i8nosVNYxRPrMqQyolT796ndXOMXt6nNGvMa9u6xjmQ==;PmLrFoBZ5YSguxc3sc4rcA=="
+secured: "jsMiuEjukhzD2bgqnyQZSAhLCiYOjjDCcdZ2yD1dWnnRbMQjAJMU3GiLqxuN/xUbJH0eWgAn2HHwmiowT8qTXw2cIVtiKa++O/IBn+2kiBKsbIGSOsVRy1Xhh7b8+io4RJC53Ck8wNcETis8FmR7ynm8gMcMJsPzfms34X/qp6xQhG0B/ZWa8tjTIiXZmRXraiBWngAJSCc7ps0p6jYFLd+9WswkwSCs/YfjhEmj6kcizsv+NLX644Y98zWQ7Gf/CHwu/QawcSD9UdPOmwHoYR+wPuro5JTmgrNnD6rf3enQOuZmuQzfCcmfFMzu+xsQXaMWNHxvAt5Plyahta8TE0f3tVAgyRm5YPrF9/qRZzs=;apFHxSs1cJyGrTy3sH+Kpw=="
 ---
 

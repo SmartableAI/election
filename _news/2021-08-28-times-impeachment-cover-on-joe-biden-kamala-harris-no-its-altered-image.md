@@ -156,6 +156,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Varney: Where is Kamala Harris?"
+    excerpt: "FOX Business host Stuart Varney discusses Vice President Harris’ performance as the Biden administration hits multiple roadblocks."
+    publishedDateTime: 2021-09-02T15:46:00Z
+    webUrl: "https://www.foxbusiness.com/varney-co/varney-where-is-kamala-harris"
+    ampWebUrl: "https://www.foxbusiness.com/varney-co/varney-where-is-kamala-harris.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/varney-co/varney-where-is-kamala-harris.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 75
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/74060d54-c6c3-4586-8453-fc4375081bbf/1556852d-8b7f-461c-91ec-b11b2dc40ddc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Vice President Kamala Harris emphasizing human and worker rights in Vietnam"
     excerpt: "HANOI >> Vice President Kamala Harris will turn her attention to issues surrounding worker rights and civil liberties Thursday as she closes out her visit to Southeast Asia, elevating activists in a region of the world known for its challenges and restrictions to human rights."
     publishedDateTime: 2021-08-26T01:22:00Z

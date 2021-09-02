@@ -171,6 +171,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Varney: Where is Kamala Harris?"
+    excerpt: "FOX Business host Stuart Varney discusses Vice President Harris’ performance as the Biden administration hits multiple roadblocks."
+    publishedDateTime: 2021-09-02T15:46:00Z
+    webUrl: "https://www.foxbusiness.com/varney-co/varney-where-is-kamala-harris"
+    ampWebUrl: "https://www.foxbusiness.com/varney-co/varney-where-is-kamala-harris.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/varney-co/varney-where-is-kamala-harris.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 75
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/74060d54-c6c3-4586-8453-fc4375081bbf/1556852d-8b7f-461c-91ec-b11b2dc40ddc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Rep. Lauren Boebert: Slain Wyoming Marine’s ‘blood is on Joe Biden’s hands’"
     excerpt: "Rep. Lauren Boebert, Colorado Republican, lashed out Friday at President Biden after she spoke to a Colorado mother whose son was among the Marines killed in Afghanistan on Thursday, saying that “his blood is on Joe Biden’s hands."
     publishedDateTime: 2021-08-28T01:50:00Z

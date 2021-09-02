@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Outside group spending big to tell NC voters that Trump endorsed Budd in Senate race"
-excerpt: "With 2022 primaries ahead, Republican and Democratic candidates campaign across the state. President Donald Trump endorsed Ted Budd three months ago in North Carolina’s 2022 U.S. Senate race. Now one of Budd’s biggest political backers is spending $3 ..."
-publishedDateTime: 2021-09-02T13:52:00Z
-originalUrl: "https://www.newsobserver.com/news/politics-government/election/article253939118.html"
-webUrl: "https://www.newsobserver.com/news/politics-government/election/article253939118.html"
+excerpt: "President Donald Trump endorsed Ted Budd three months ago in North Carolina’s 2022 U.S. Senate race. Now one of Budd’s biggest political backers is spending $3 million to make sure Republicans in the state are aware of Trump’s endorsement."
+publishedDateTime: 2021-09-02T16:25:00Z
+originalUrl: "https://www.heraldsun.com/news/politics-government/election/article253939118.html"
+webUrl: "https://www.heraldsun.com/news/politics-government/election/article253939118.html"
 type: article
 quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Raleigh News & Observer
-  domain: newsobserver.com
+  name: The Herald-Sun
+  domain: heraldsun.com
 
 topics:
   - Election
@@ -50,6 +50,6 @@ related:
         height: 630
         isCached: true
 
-secured: "fMwbwfAm9nlOTTUsqtkQF/WsMN4sm+c0yqFcfx13gWs9LHo3RluIzJbDS9ES/vfxDFmLUWKDPaUyba6Q3A5xHffst1SOpoQhiP6eelaNjiPB9EJQ8gUpu8IlkBPTnhP49VD1YAh10fG6Qwc/4ErCBv5pl0fcVFSpATr91TRWHj9ubOOW8EFbvCP8mpu89fvRyE8O/9iwxgwzg25me6X2v1D6fX08LmIiHdx9f5Zzi744p3TZFnTXmoV4aoSkvL8r9eiuelKhMhU57Co7fEjUc9uw0N7BKleXVrV+EggrjFYR5nIb+eXAf0saWpJBQD9McUlKd4qWI/PAPNc+sSWwwqEg68m8ek95DkFnTksFPLHIHsqKHYjO5GJwdNX5LS/Ba7GDsL85OMBN7HqGHJ+WrYzr2Eij6t6Dz7SQYN1hOEafsYOK8DeafBSxuQyisORtXcmnNjjpVOXKISJH+vmnwXiZcxcEjn0NfBatlI1aeaooOwtBrRO+QYrGYlBlk3O9pG6BI1oahPkHg5Y1ypWa1A==;FM/PC6Fieuray69VfHNCuA=="
+secured: "ZHL4dlUAVBlBBmXpobOhAoNqenm4AeA3mm/BGCHuFB8m8WBj8eA+frk2067PKmBirKzHOS3jA7dRo7KN3CcpKzAFCje0mpfFDVMSwC9wS7LryybTwxfqp1MYcywTCiadJb2m4G3oq/Eyl5Ym1FcXAsS2P1ilODQDxLLihAQFk/4Dkk7jL3xJbnk0qRAPe4ie3E8/JxJhGqEALSUoqmTWv9SZKxK9M45NtrcGAU600YlxKA7wdiKWheALYQRrq2Vz2BOEOOZgBMOdvLPngpUcmn1v/S5VOAVC7665c+AFvXzOm5LBFAv1DGY209X1YAKFIdBqhFOShxOMBLQCTzHRBZqZp5UDSB3k0TMz+sDgKUgUqz2iZE0bJCjucFw2IW0H7rgDOdwlBIwXZUwrxnNzpjSb/lg75iHqpbDeQLf0GHiwGGdNURV9XiECMR9lzJvQ8jvRd/7xxjeuakKIJ1skTQj/SBBA7yAdz7vb3T5PkSx0vd4CwdHMmy0ItYELeRAMAy2+wxJZuJXQp1H/tB6TgA==;sesv4zLpLDP7nb+e8cN83g=="
 ---
 

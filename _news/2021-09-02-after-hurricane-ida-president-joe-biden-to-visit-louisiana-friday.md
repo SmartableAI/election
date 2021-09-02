@@ -110,6 +110,20 @@ related:
         width: 1012
         height: 543
         isCached: true
+  - title: "For Louisiana's Hurricane Ida recovery, Joe Biden pledges 'all the assistance that’s needed'"
+    excerpt: "President Joe Biden on Thursday said his administration was “ready to provide all the assistance that’s needed\" in response to a massive wildfire in California and to Hurricane Ida, which"
+    publishedDateTime: 2021-09-02T17:22:00Z
+    webUrl: "https://www.nola.com/news/hurricane/article_67a40196-0c12-11ec-b29d-870e33a13c98.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 44
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/9/92/992bcfd7-ee9d-5510-9324-12c99102f0b5/612ec2902bf6e.image.jpg?resize=1030%2C630"
+        width: 1030
+        height: 630
+        isCached: true
   - title: "Biden Declares Major Disaster After Hurricane Ida Lashes Louisiana"
     excerpt: "U.S. President Joe Biden declared a major disaster in Louisiana and ordered federal aid to supplement recovery efforts in the areas affected by Hurricane Ida, the White House said on Sunday. \"Assistance can include grants for temporary housing and home repairs,"
     publishedDateTime: 2021-08-30T03:39:00Z
@@ -120,6 +134,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "LBB1yFFSQMLVxTu7hO9AUBd7S/fQxIZT40f8fZcppqms5KODDAGpMOgszko5YdgPjyHocqssSt+khu6bKnaICzLqTcEkC/mqS2jeb3toux9bz+IHdXHVrKQJZcF8c2D37YJTHZurYwfysr3pyV7BZyRX1Vz5ukjfK+0oCQ2+DnD9ezZ35JBf+GT+yaTBrPrKCS1YR6xNxhaBisiKQ+KOQOXK4znVlt95qZdLU78VjGMb2AF+D+nm02SuKE0TAPHURfBKUaVt81kb2Elt9K0ptuOhVeZ+VoZFkxYYWyDwsCByy0D2rIjJp+UU6Xbu+15PlyHom6nshQ2ZQPsltitamcI5TJRWTrYcAa8r1h3vvMY=;vFY1CzoL8MlR3HNRFMnJOA=="
+secured: "+TuVXFvDLvT2uE+MChE+os4xumZSm1GBOEMcgUYFbU59ndOuCY50OappoheUwXlmsxPLhh4Dtn1Jo+iu/T8uJCr5mmVLaoulcDMB2Mqly9x2fsRcx4kCMtK1+m3LVohe7KDE6O/nflm67Mw6kyQBJZZJucHkF0DRnqotFlqGpm2ph67sv10YtHlyfp6m2/llszziaRtsmD/yRW8Zmz9jgARCGG/XaJRAjCaUMJq+M4PlMvq5T1JM9zmQMfDgCTBvfMRov2NX4KgV9S32DdHzw1BY9seMn3dhdbJT8InjOhmHoLsJtBONt5pfz8XM9ED8iWq7kHFJ3wf9ywWRHLEqQFLm+79vDodPGBaL0UP0cLpN9isq9TQUSfp6X196e6g9+F9eSgY/zfcGO74YsAz6u/uT69cL32TQsaAAlUM5flLbA8PIzP0tPRh1x3PLFiFECFD92zUKf0oFd3ZMt75kuRmvv7gKinGJgr8xp3+UMARce2wR9dT+A+tF+krDah9xhqFrW1F5LFsWhMelDpRyrQ==;ggVjKKJbm3WGSlY3AxAKOA=="
 ---
 

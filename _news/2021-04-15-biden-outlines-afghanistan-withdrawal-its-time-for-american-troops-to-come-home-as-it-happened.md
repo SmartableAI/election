@@ -313,6 +313,22 @@ related:
         width: 1024
         height: 745
         isCached: true
+  - title: "Afghanistan: Joe Biden speech on withdrawal fact-checked"
+    excerpt: "In a televised address following the final departure of US troops from Afghanistan, President Joe Biden made a series of assertions about US policy in the country. We've fact-checked some of his claims,"
+    publishedDateTime: 2021-09-01T18:07:00Z
+    webUrl: "https://www.bbc.com/news/58412530"
+    ampWebUrl: "https://www.bbc.com/news/58412530.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/58412530.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/15671/production/_120356678_gettyimages-1337498167.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Biden to withdraw U.S. troops from Afghanistan by Sept. 11, officials say"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden has decided to withdraw the remaining U.S. troops from Afghanistan by Sept. 11, 2021, 20 years to the day after al Qaeda’s attacks triggered America’s longest war, U.S. officials said on Tuesday. U.S ..."
     publishedDateTime: 2021-04-13T15:55:00Z
@@ -1063,22 +1079,6 @@ related:
       - url: "https://media.nbcnewyork.com/2021/08/106928921-1629199692701-gettyimages-1234720069-BIDEN_AFGHANISTAN.jpeg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Afghanistan: Joe Biden speech on withdrawal fact-checked"
-    excerpt: "In a televised address following the final departure of US troops from Afghanistan, President Joe Biden made a series of assertions about US policy in the country. We've fact-checked some of his claims,"
-    publishedDateTime: 2021-09-01T18:07:00Z
-    webUrl: "https://www.bbc.co.uk/news/58412530?at_medium=RSS&at_campaign=KARANGA"
-    ampWebUrl: "https://www.bbc.co.uk/news/58412530.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/58412530.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 75
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/15671/production/_120356678_gettyimages-1337498167.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Joe Biden’s Tale of Russian Bounties in Afghanistan Collapses Completely"
     excerpt: "Biden and the Democrats knew the Russian bounties story was likely fake news, a hoax, a scam, whatever else you want to call it. But they didn’t care."

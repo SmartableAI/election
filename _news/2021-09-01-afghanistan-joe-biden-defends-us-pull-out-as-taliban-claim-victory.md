@@ -3,20 +3,16 @@ category: news
 title: "Afghanistan: Joe Biden defends US pull-out as Taliban claim victory"
 excerpt: "US President Joe Biden has defended his decision to withdraw US troops from Afghanistan - a move which led to Taliban militants returning to power. Staying longer was not an option, Mr Biden said in an address to the nation,"
 publishedDateTime: 2021-09-01T09:05:00Z
-originalUrl: "https://www.bbc.com/news/world-asia-58403735?at_custom1=%5Bpost+type%5D&at_custom4=39BC6020-0AA0-11EC-9B05-91E34744363C&at_custom2=twitter&at_campaign=64&at_medium=custom7"
-webUrl: "https://www.bbc.com/news/world-asia-58403735?at_custom1=%5Bpost+type%5D&at_custom4=39BC6020-0AA0-11EC-9B05-91E34744363C&at_custom2=twitter&at_campaign=64&at_medium=custom7"
+originalUrl: "https://www.bbc.co.uk/news/world-asia-58403735?at_medium=RSS&at_campaign=KARANGA"
+webUrl: "https://www.bbc.co.uk/news/world-asia-58403735?at_medium=RSS&at_campaign=KARANGA"
 type: article
-quality: 105
+quality: 55
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - Election
@@ -572,6 +568,6 @@ related:
       domain: seattletimes.com
     quality: 34
 
-secured: "ReaTmAKDO2bjGOGNpngH+cob2yPjdqmRLJ0uBfHufUy5lv16nfRYi+bBxcEM8mWHdtZhFtIP9erOPiIsHga0Q609uWRPmNd3qJ7YcDeIoUHuxVt1DQG7o/2lwn6SX148EAMhHEwBA04fPqkP8c7gj8L3rzCsVhDcUSmJn5Pqrn1KFPFfDnbKBltneAaU7urDgMN29auWkxr9UkptjbqA5gaDymbGxZWsxEMQwzPr3p3OHvnI8G96VEA5WGzwFTJ5aULAf1UNIoVvTmGjDYJMcmx2ySYVBWeD84CzqkFWuYTg/uqg4RObjMBDT8IBqyVSoxcz3o33W3Fq9L+0VysfIO7oSPXE/qgSs3J+tsAmJ7o=;suwu/UbFNkyy2J/y9fy/fg=="
+secured: "nJxz9xgd6t7vRH/N9nAPPxfbtbzmQTBGKvaaqrGcJay8KdJUas/iM7Ry0uFVfCuOlXi3500rdeAAe/PvXPNZ7GfpA2G2TsV4jKjBE9UVIA6BgW6W/pFQGoLlpucaTsH9bjrMq6bB8xpViurWdFrAtdF0P+SkgZ5RWz3VGrnsr47BxZgtNMw63OhGj54tUvj8a5362onyW/stt4Y/iLpxd1tzUJg+bRnENJWPYDHOGLCAoDcLowx7RRS+kSHr7IDzwDUAN042hNKS4Xi5eQladXaa/Qy2Msat05Wgo+QkJZY8yjfD4j5OFWdz3W2YITokuUagZNCtClhIu46ddfiWfSkLyYID8VGsdtpi1suPd/0=;PWxEMkQkjQaldfALff0rnA=="
 ---
 
