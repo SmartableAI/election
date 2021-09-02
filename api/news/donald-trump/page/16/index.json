@@ -2,6 +2,271 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-05-07-fec-drops-inquiry-into-trump-hush-money-payment-to-stormy-daniels.md",
+      "title": "FEC drops inquiry into Trump hush-money payment to Stormy Daniels",
+      "excerpt": "The case stems from allegations that former president Donald Trump ordered his personal lawyer at the time, Michael Cohen, to make a hush-money payment to adult-film actress Stormy Daniels.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/nation/2021/05/06/fec-trump-stormy-daniels-cohen/",
+      "originalUrl": "https://www.washingtonpost.com/nation/2021/05/06/fec-trump-stormy-daniels-cohen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MDRQ2WTVD4I6XFEJR562ZVI6OU.jpg&w=1440",
+          "width": 1440,
+          "height": 1060,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/nation/2021/05/06/fec-trump-stormy-daniels-cohen/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/05/06/fec-trump-stormy-daniels-cohen/?outputType=amp",
+      "publishedDateTime": "2021-05-06T19:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-democrats-eye-a-comeback-in-missouri-where-post-trump-turmoil-on-display.md",
+      "title": "Democrats eye a comeback in Missouri, where post-Trump turmoil on display",
+      "excerpt": "Recruiting is a challenge in a state Trump won by more than 15 percentage points last year and where Democrats have won only one statewide race in eight years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/elections/missouri-democrats-see-winnable-senate-seat-no-obvious-front-runner-n1266403",
+      "originalUrl": "https://www.nbcnews.com/politics/elections/missouri-democrats-see-winnable-senate-seat-no-obvious-front-runner-n1266403",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/j/newscms/2021_18/3470613/210506-jay_nixon-mc-1028_6cbe0f5263959e32a5e5246047e6041c.nbcnews-fp-1200-630.JPG",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-chris-ruddy-and-newsmax-went-all-in-on-trump-now-they-might-pay-a-price-for-it.md",
+      "title": "Chris Ruddy and Newsmax went all-in on Trump. Now they might pay a price for it.",
+      "excerpt": "The conservative media entrepreneur became Trump’s most quotable friend. His cable channel became one of the biggest promoters of Trump’s election-fraud fantasies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/lifestyle/ruddy-newsmax-trump/2021/05/05/32b09714-9d32-11eb-9d05-ae06f4529ece_story.html",
+      "originalUrl": "https://www.washingtonpost.com/lifestyle/ruddy-newsmax-trump/2021/05/05/32b09714-9d32-11eb-9d05-ae06f4529ece_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YCJTFSVNXEI6XLGTES2EUVYJHI.jpg&w=1440",
+          "width": 1440,
+          "height": 1008,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/lifestyle/ruddy-newsmax-trump/2021/05/05/32b09714-9d32-11eb-9d05-ae06f4529ece_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/ruddy-newsmax-trump/2021/05/05/32b09714-9d32-11eb-9d05-ae06f4529ece_story.html?outputType=amp",
+      "publishedDateTime": "2021-05-06T01:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-the-first-day-of-donald-trumps-new-website-recalls-his-earlier-twitterstorms.md",
+      "title": "The First Day of Donald Trump's New Website Recalls His Earlier 'Twitterstorms'",
+      "excerpt": "The official Twitter account linked to Trump's new blog was banned from the social network shortly after it appeared online.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/first-day-donald-trumps-new-website-recalls-his-earlier-twitterstorms-1589077",
+      "originalUrl": "https://www.newsweek.com/first-day-donald-trumps-new-website-recalls-his-earlier-twitterstorms-1589077",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1788439/trump-tweetstorm-twitterstorm-twitter-desk-blog-tweets.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/first-day-donald-trumps-new-website-recalls-his-earlier-twitterstorms-1589077?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/first-day-donald-trumps-new-website-recalls-his-earlier-twitterstorms-1589077?amp=1",
+      "publishedDateTime": "2021-05-05T17:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-judge-rebukes-william-barr-for-mueller-handling-orders-doj-to-release-trump-obstruction-memo.md",
+      "title": "Judge rebukes William Barr for Mueller handling, orders DOJ to release Trump obstruction memo",
+      "excerpt": "U.S. District Judge Amy Berman Jackson said AG William Barr had obscured \"the true purpose of the memorandum\" when it withheld the document.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/05/05/judge-orders-justice-department-release-trump-obstruction-memo/4952659001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/05/05/judge-orders-justice-department-release-trump-obstruction-memo/4952659001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/11/USAT/cd70680c-eb01-4028-811e-d96055489d94-AFP_AFP_8WA7MF.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4952659001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4952659001",
+      "publishedDateTime": "2021-05-05T17:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-will-trump-be-allowed-back-on-facebook-this-board-will-decide.md",
       "title": "Will Trump be allowed back on Facebook? This board will decide",
       "excerpt": "The former president had his Facebook account cut off after the insurrection. But on Wednesday, Facebook's new oversight board will announce if he'll be allowed to use the platform again.",
@@ -1284,272 +1549,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-donald-trump-says-lebron-james-remarks-are-divisive-nasty-insulting.md",
-      "title": "Donald Trump Says LeBron James' Remarks are 'Divisive, Nasty, Insulting'",
-      "excerpt": "\"LeBron James should focus on basketball rather than presiding over the destruction of the NBA,\" the former president said. \"He may be a great basketball player, but he is doing nothing to bring our Country together.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-says-lebron-james-remarks-are-divisive-nasty-insulting-1585865",
-      "originalUrl": "https://www.newsweek.com/donald-trump-says-lebron-james-remarks-are-divisive-nasty-insulting-1585865",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1781934/donald-trump-lebron-james.jpg",
-          "width": 594,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-says-lebron-james-remarks-are-divisive-nasty-insulting-1585865?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-says-lebron-james-remarks-are-divisive-nasty-insulting-1585865?amp=1",
-      "publishedDateTime": "2021-04-22T18:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-trump-gives-thumbs-up-on-posts-push-for-lifesaving-covid-vaccine.md",
-      "title": "Trump gives thumbs up on Post’s push for lifesaving COVID vaccine",
-      "excerpt": "The Post’s push to get New Yorkers to roll up their sleeves and get vaccinated against the coronavirus is drawing a big thumbs-up from Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/04/22/trump-gives-thumbs-up-on-posts-push-for-lifesaving-covid-vaccine/",
-      "originalUrl": "https://nypost.com/2021/04/22/trump-gives-thumbs-up-on-posts-push-for-lifesaving-covid-vaccine/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/thumbs-up-on-posts-push-for-vaccines-index.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/04/22/trump-gives-thumbs-up-on-posts-push-for-lifesaving-covid-vaccine/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/22/trump-gives-thumbs-up-on-posts-push-for-lifesaving-covid-vaccine/amp/",
-      "publishedDateTime": "2021-04-22T17:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-new-probe-confirms-trump-officials-blocked-puerto-rico-from-receiving-hurricane-aid.md",
-      "title": "New probe confirms Trump officials blocked Puerto Rico from receiving hurricane aid",
-      "excerpt": "Findings from a new inspector general report show how Trump officials blocked hurricane aid for Puerto Rico and obstructed a probe looking into the withholdings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/latino/new-probe-confirms-trump-officials-blocked-puerto-rico-receiving-hurri-rcna749",
-      "originalUrl": "https://www.nbcnews.com/news/latino/new-probe-confirms-trump-officials-blocked-puerto-rico-receiving-hurri-rcna749",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/rockcms/2021-04/1132/200724-puerto-rico-ew-323p-053a09_a69b88d4a153c119ebf9b4c21caa3521643fa016.jpg",
-          "width": 2500,
-          "height": 1663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna749",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna749",
-      "publishedDateTime": "2021-04-22T14:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-outrageous-bank-regulator-lobbies-for-trump-era-rule-angering-democrats.md",
-      "title": "'Outrageous': Bank regulator lobbies for Trump-era rule, angering Democrats",
-      "excerpt": "Consumer watchdogs have warned that it could unleash predatory loans by enabling \"payday\" lenders to evade state interest rate caps.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/04/22/outrageous-bank-regulator-lobbies-for-trump-era-rule-angering-democrats-484295",
-      "originalUrl": "https://www.politico.com/news/2021/04/22/outrageous-bank-regulator-lobbies-for-trump-era-rule-angering-democrats-484295",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/9c/60/6fa5d152480e8c5e5c3979f428d6/190716-sherrod-brown-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/04/22/outrageous-bank-regulator-lobbies-for-trump-era-rule-angering-democrats-484295",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/22/outrageous-bank-regulator-lobbies-for-trump-era-rule-angering-democrats-484295",
-      "publishedDateTime": "2021-04-22T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-kerry-blasts-trump-for-pulling-out-of-the-paris-accord-without-any-scientific-evidence.md",
-      "title": "Kerry blasts Trump for pulling out of the Paris accord ‘without any scientific evidence’",
-      "excerpt": "Special presidential envoy for climate John F. Kerry on April 22 said the Biden administration had to restore credibility on climate after former president Donald Trump pulled out of the Paris climate accord \"without any scientific evidence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/video/politics/kerry-blasts-trump-for-pulling-out-of-the-paris-accord-without-any-scientific-evidence/2021/04/22/a8579bcc-bdf9-48f5-a569-039a3ae08043_video.html",
-      "originalUrl": "https://www.washingtonpost.com/video/politics/kerry-blasts-trump-for-pulling-out-of-the-paris-accord-without-any-scientific-evidence/2021/04/22/a8579bcc-bdf9-48f5-a569-039a3ae08043_video.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/04-22-2021/t_39115ea24e174c02b8ae6ab961c27f0a_name_e0ed4a54_a375_11eb_b314_2e993bd83e31.jpg&w=1080",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-22T11:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -71,14 +71,14 @@ related:
         isCached: true
   - title: "Biden meets Ukraine leader in long-sought Oval Office visit"
     excerpt: "Biden played host to Ukrainian President Volodymyr Zelenskyy for a long-sought Oval Office meeting and tried to reassure him that his administration remains squarely behind the Eastern European nation."
-    publishedDateTime: 2021-09-01T19:49:00Z
-    webUrl: "https://www.chron.com/news/article/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
+    publishedDateTime: 2021-09-02T05:34:00Z
+    webUrl: "https://www.thehour.com/news/article/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
+    ampWebUrl: "https://www.thehour.com/news/amp/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
+    cdnAmpWebUrl: "https://www-thehour-com.cdn.ampproject.org/c/s/www.thehour.com/news/amp/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: The Hour
+      domain: thehour.com
     quality: 75
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"

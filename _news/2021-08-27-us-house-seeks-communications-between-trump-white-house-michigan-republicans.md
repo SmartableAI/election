@@ -27,65 +27,53 @@ images:
     isCached: true
 
 related:
-  - title: "US Sen. Mike Rounds isn't convinced Donald Trump would win GOP nomination in 2024 election"
-    excerpt: "South Dakota U.S. Sen. Mike Rounds, in discussion with Sioux Falls Rotarians, speculated what might lie ahead for the Republican Party for 2024."
-    publishedDateTime: 2021-08-30T19:39:00Z
-    webUrl: "https://www.argusleader.com/story/news/2021/08/30/mike-rounds-2024-election-donald-trump-kristi-noem-republican-nomination-speculation/5653852001/"
-    ampWebUrl: "https://amp.argusleader.com/amp/5653852001"
-    cdnAmpWebUrl: "https://amp-argusleader-com.cdn.ampproject.org/c/s/amp.argusleader.com/amp/5653852001"
+  - title: "Michigan man held in bomb hoax at Trump hotel in Las Vegas"
+    excerpt: "An arrest report says a 44-year-old Michigan man accused of creating a bomb hoax at the Trump International Hotel in Las Vegas told investigators he wanted to send a message that former Republican Pre"
+    publishedDateTime: 2021-09-02T00:24:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/michigan-man-held-bomb-hoax-trump-hotel-las-79778041"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/michigan-man-held-bomb-hoax-trump-hotel-las-79778041"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/michigan-man-held-bomb-hoax-trump-hotel-las-79778041"
     type: article
     provider:
-      name: Argus Leader
-      domain: argusleader.com
-    quality: 80
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/20/PSIF/c96ac377-3e03-4c86-a475-a751d7dde2e0-Rounds_ChamberOfCommerce_003.JPG?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s.abcnews.com/images/US/210901_vod_onlocationPM_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "LZ Granderson: The election is over. In Arizona, the Trump campaign continues"
-    excerpt: "I would like to share with you a brief conversation about politics that I didn't want to have. But the man in the Arizona bar sitting a couple of stools"
-    publishedDateTime: 2021-08-26T08:00:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/lz-granderson-the-election-is-over-in-arizona-the-trump-campaign-continues/article_cdb3fb76-1ebe-5f91-a594-75a4f2ef043f.html"
+  - title: "Lawyers allied with Trump penalized over Michigan lawsuit | Charlotte Observer"
+    excerpt: "Nine lawyers allied with former President Donald Trump face financial penalties and other sanctions in Michigan."
+    publishedDateTime: 2021-08-25T23:40:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article253747698.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article253747698.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article253747698.html"
     type: article
     provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
-    quality: 67
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 71
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/c4cef625-20b7-4900-8d0e-b7aea9ac60c8/04971208-0b7e-48a6-9be9-aacd9ccfcccd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Dallas attorney Sidney Powell among lawyers allied with Trump to be penalized over Michigan lawsuit"
+    excerpt: "Nine lawyers allied with former President Donald Trump face financial penalties and other sanctions after a judge Wednesday said they had"
+    publishedDateTime: 2021-08-25T23:54:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/08/25/dallas-attorney-sidney-powell-among-lawyers-allied-with-trump-penalized-over-michigan-lawsuit/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/08/25/dallas-attorney-sidney-powell-among-lawyers-allied-with-trump-penalized-over-michigan-lawsuit/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/08/25/dallas-attorney-sidney-powell-among-lawyers-allied-with-trump-penalized-over-michigan-lawsuit/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 61
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/bsGv3kupQn2C0Toxiu_4rh68Ito=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/2DI6CDQCQ7AVQJL7JQDPIE2Q3Q.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Former President Donald Trump says he will return to Iowa, adding grist to 2024 speculation"
-    excerpt: "Trump's announcement on the show comes as other potential Republican presidential contenders are already making trips to Iowa."
-    publishedDateTime: 2021-08-31T17:05:00Z
-    webUrl: "https://www.freep.com/story/news/politics/2021/08/31/donald-trump-says-he-will-rally-iowa-stoking-2024-speculation/5666433001/"
-    ampWebUrl: "https://amp.freep.com/amp/5666433001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5666433001"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 65
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/01/PDEM/63d5811d-248f-4d1b-a046-a644d1ea0203-AP20306724939532.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Bernie Sanders sets out to sell big government in Trump country"
-    excerpt: "He's specifically targeting two congressional districts where Trump's vote totals increased between 2016 and 2020."
-    publishedDateTime: 2021-08-27T10:03:00Z
-    webUrl: "https://bangordailynews.com/2021/08/27/national-politics/bernie-sanders-sets-out-to-sell-big-government-in-trump-country/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 55
-    images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/Sanders-in-Trump-Country.jpg"
-        width: 1024
-        height: 682
         isCached: true
 
 secured: "AkPgcES9UGlLP63QWvVH5eZcSE0r0vBBQSqrPJ/eDFoQk7+cioH4u13HWsXdvQMV/pRTp+0elYlr9UIa6/LG5SYwjnocxzLQq8/nh9aZfCJAFb7I/N597iEPmfFFzbigP5viHU8BhVvVjoUtiFUsBsCoHpH/cFNZNfr/hLFA9BS9rGolqgAneOIqxO8mE5tUUpAi2OK5AZA34+0mDluN6Em2pPVCe2Mwgqp93MnhALI5wqkHILQ2TxNqowDUXhB/jQVNLsPqaBOGs+SRH8XTmJvMc9JFHlRaqY4FsB3l/JCZZwBxReIguuVU+Tq3q2+stPZvasjaAbn92ycY67uR4r3Lq6FWRpBkKIKbKa5apoE=;Tafq+WWXtUGqgr4ZGGmkJA=="

@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-30-trump-told-doj-officials-in-december-2020-to-call-election-corrupt-notes-show.md",
+      "title": "Trump told DOJ officials in December 2020 to call election 'corrupt,' notes show",
+      "excerpt": "Former President Trump instructed top officials at the Department of Justice to call the 2020 general election “corrupt” in support of his efforts to overturn the election.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rBrred9VNLI/trump-doj-officials-election-corrupt-donoghue-notes",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rBrred9VNLI/trump-doj-officials-election-corrupt-donoghue-notes",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/08eaf3c1-0bc0-4ab7-b748-5b27bb6cb6f8/dc1cea00-c153-4975-837b-757c68b29702/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-doj-officials-election-corrupt-donoghue-notes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-doj-officials-election-corrupt-donoghue-notes.amp",
+      "publishedDateTime": "2021-07-30T14:35:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-30-hunter-biden-snaps-at-critics-of-art-dealings-f-em.md",
       "title": "Hunter Biden snaps at critics of art dealings: 'F--- em'",
       "excerpt": "Biden appeared on art podcast Nota Bene Thursday, where the president’s son was asked about his art dealings where the buyers are anonymous and the First Son is slated to attend his art shows where they may be.",
@@ -1570,54 +1626,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-such-a-disgrace-trump-blasts-cleveland-indians-name-change.md",
-      "title": "‘Such a disgrace’: Trump blasts Cleveland Indians name change",
-      "excerpt": "Former President Donald Trump blasted the Cleveland Indians Friday over their name change announcement. “Can anybody believe that the Cleveland Indians, a storied and cherished baseball franchise since taking the name in 1915,",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/23/trump-blasts-cleveland-indians-name-change/",
-      "originalUrl": "https://nypost.com/2021/07/23/trump-blasts-cleveland-indians-name-change/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/gaurdians-trump-hp.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/23/trump-blasts-cleveland-indians-name-change/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/23/trump-blasts-cleveland-indians-name-change/amp/",
-      "publishedDateTime": "2021-07-23T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

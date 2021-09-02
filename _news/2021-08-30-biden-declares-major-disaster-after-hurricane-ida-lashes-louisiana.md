@@ -40,15 +40,15 @@ related:
         height: 563
         isCached: true
   - title: "President Joe Biden plans to visit New Orleans in wake of Hurricane Ida destruction"
-    excerpt: "President Joe Biden plans to visit Louisiana Friday to survey damage from Hurricane Ida. Hurricane Ida slammed into Louisiana with 150 mph winds."
+    excerpt: "President Joe Biden plans to visit New Orleans on Friday to survey damage from Hurricane Ida, which lashed southeastern Louisiana on Sunday as one of the five strongest storms to ever strike the U.S. packing 150 mph winds. The White House said Biden will ..."
     publishedDateTime: 2021-09-01T19:42:00Z
-    webUrl: "https://www.freep.com/story/news/politics/2021/09/01/president-biden-plans-visit-louisiana-hurricane-ida-aftermath/5687035001/"
-    ampWebUrl: "https://amp.freep.com/amp/5687035001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5687035001"
+    webUrl: "https://www.indystar.com/story/news/politics/2021/09/01/president-biden-plans-visit-louisiana-hurricane-ida-aftermath/5687035001/"
+    ampWebUrl: "https://amp.indystar.com/amp/5687035001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5687035001"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
+      name: Indianapolis Star
+      domain: indystar.com
     quality: 69
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/08/22/USAT/bc0fddd5-21a2-4977-8052-5961fa541352-AP_Biden.jpg?auto=webp&crop=5574,3136,x0,y283&format=pjpg&width=1200"

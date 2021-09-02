@@ -1,24 +1,20 @@
 ---
 category: news
 title: "Parnell gets Trump endorsement in Pennsylvania Senate race"
-excerpt: "Former President Donald Trump on Wednesday gave an endorsement in Pennsylvania's crowded U.S. Senate field, backing Republican Sean Parnell in what is expected to be one of the nation’s most competitive Senate contests in next year’s election."
-publishedDateTime: 2021-09-01T20:58:00Z
-originalUrl: "https://www.houstonchronicle.com/news/article/Parnell-gets-Trump-endorsement-in-Pennsylvania-16429091.php"
-webUrl: "https://www.houstonchronicle.com/news/article/Parnell-gets-Trump-endorsement-in-Pennsylvania-16429091.php"
-ampWebUrl: "https://www.houstonchronicle.com/news/amp/Parnell-gets-Trump-endorsement-in-Pennsylvania-16429091.php"
-cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Parnell-gets-Trump-endorsement-in-Pennsylvania-16429091.php"
+excerpt: "Former President Donald Trump is endorsing in Pennsylvania’s crowded U.S. Senate field, backing Republican Sean Parnell in what is expected to be one of the nation’s most competitive Senate contests in next year’s election."
+publishedDateTime: 2021-09-02T06:04:00Z
+originalUrl: "https://www.kentucky.com/news/politics-government/national-politics/article253926858.html"
+webUrl: "https://www.kentucky.com/news/politics-government/national-politics/article253926858.html"
+ampWebUrl: "https://amp.kentucky.com/news/politics-government/national-politics/article253926858.html"
+cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/politics-government/national-politics/article253926858.html"
 type: article
-quality: 105
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Lexington Herald Leader
+  domain: kentucky.com
 
 topics:
   - Election
@@ -118,6 +114,6 @@ related:
         height: 682
         isCached: true
 
-secured: "d2KTgnP8D89DUBGqYgb7xzfGN3HyEhT2TsVFfmCWUvYeNKaUKVYvvBn7D6m3qiF1q7kT8zqSqLqs4yet7YqYOG0AvbaayaU8piydfL4AAgh7GLPTI7QA2/6M3e3Bl+UowQfs6NlSPJujqG0XYXL/5OSigEO/TDqZWBqU81DLKvP+JBdvo03YSSEITUdt8OMfpmyLQrmjrb8sstBvSfiXOW1ezhSwZBozhRhp/KiYwdJ0oi7H7hPl4Sh8+ObcU9cuh2dVl+qnrULtUTIl7mNMOBtZg8tuMUEa6nlO89q0eL/zmwd06+tIZY8UFHMOUbTkCaA5aJqqAVHRMymX6Mwv0xlKrD/CE3wDthmGgiYiB24=;m0dBBYX5LMkfx9sPA3pagw=="
+secured: "kwcg67q2yf71+M75EJp4htInzqtA5MCOKOoLYmK0VnSNQoEcT0jQkF5MM1rIw3jME93oxryp3B8g6aD8AEt2aQ+DEg35A3sjwHbDXENBWcJ+IwTc8thg5Q/0I+wUZmLplG42MDOy36cAK9YGI3b2ku4jdAzY7U2f3/4em1vjKDX3p0MjZ0POkzW+wiLt4xgyUHiTELUnFXR8yhHKKQaJxE3QnIrNuvdeiILmFPSQwaWaSdik1RSZJVqxGDJLtIOOaIOf9o8IbiFECGnJ/LFxGZhVj4BhJPcX9BGp6/EH+vvbZbAwidyIAqxxtWLjMmJKt1FPjMdzV/PsbWeWzh41430kl2ABZqqD02SV137dSrw=;kY+qgmswCQMt7qW2djg5+A=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "Afghanistan: Joe Biden speech on withdrawal fact-checked"
 excerpt: "In a televised address following the final departure of US troops from Afghanistan, President Joe Biden made a series of assertions about US policy in the country. We've fact-checked some of his claims,"
 publishedDateTime: 2021-09-01T18:07:00Z
-originalUrl: "https://www.bbc.co.uk/news/58412530"
-webUrl: "https://www.bbc.co.uk/news/58412530"
+originalUrl: "https://www.bbc.co.uk/news/58412530?at_medium=RSS&at_campaign=KARANGA"
+webUrl: "https://www.bbc.co.uk/news/58412530?at_medium=RSS&at_campaign=KARANGA"
 ampWebUrl: "https://www.bbc.co.uk/news/58412530.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/58412530.amp"
 type: article
@@ -1237,6 +1237,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Casey backs Biden on Afghanistan, but wants independent commission to hold hearings"
+    excerpt: "U.S. Sen. Bob Casey backs Biden on Afghanistan withdrawal, but says 9/11-sytle commission should probe U.S. role over 20 years."
+    publishedDateTime: 2021-09-02T09:43:00Z
+    webUrl: "https://www.ldnews.com/story/news/2021/09/02/sen-bob-casey-pennsylvania-biden-afghanistan/5688050001/"
+    ampWebUrl: "https://amp.ldnews.com/amp/5688050001"
+    cdnAmpWebUrl: "https://amp-ldnews-com.cdn.ampproject.org/c/s/amp.ldnews.com/amp/5688050001"
+    type: article
+    provider:
+      name: Lebanon Daily News
+      domain: ldnews.com
+    quality: 69
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/fae0d8423f499db9d54ae5b79120cb0b35a4838c/c=0-106-1739-1084/local/-/media/2021/05/23/Hagerstown/ba91907196c51d0e07edad5486f1bda9.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "For Biden, fallout from the Afghanistan withdrawal abroad complicates agenda at home"
     excerpt: "President Biden's approval rating was on the decline as COVID-19 cases surged. That was before the Taliban's rapid takeover of Afghanistan."
     publishedDateTime: 2021-08-23T13:25:00Z
@@ -1838,6 +1854,6 @@ related:
       domain: usnews.com
     quality: 29
 
-secured: "lwBH8jQPfgMTLxX73oYpGMq0JkAF2dfA64Mfni1oaAgqYA7IqGOcuDO3hB+NmNsQm7FeXeVl7cI0Mknb7Egk3zETgj2Y2CFFy26PBU1JXE4CkUc0qaikhx9mykVhTiODvKpwLIWz00WWx9NbOgQ16VPDIIsrUllURU91Qpf1nmgETSQOWU03ayfcRV06WApkJ1+qTecaj59uT0OZuXjBKVrN64srQZxOyT9P/YJeJmfch8YmChJRJJQcbe2buvprwHStW/HbRzjFSjS8a0imVcI7K1YZXnDbULKpVh9mc68q0E1tDOVYm3WWubiq/Bfky2BuyR7N4MAv8SFs1NDCd/03rzcS5ZqKACezkU+ivg8=;gwQLWAn8CMDsiSi+wI7CWw=="
+secured: "os653JOvlTIxEGmAZk1hiZu7NwA7xpYRY5SD2/0p4YPb/dqWlx1WirbujsLjltR6eKxcBgrGwoqFkGETCPduQdU1G8qx2F5+xAzEJ776kFPzpjV5J4Zg881LmlBWL4p40g5w8FddZFXNJOduk0k53MkqP1mlF2qQ9/IPpUjM+hdFPzQUdI6fA4Iip7Mn9hm1O8bsAm2NJoZMz9Y+vOTXALG0AzCGW4oLUw6gHXkv7uo0/qRQR4NixOkHZ+gZ6BXc226lrxlKN2VGxSJ4zBZJN4N5i/3gyhFrLpyd2/U9ZrcMj6plCfjh7vaNUCAGAmfw6NThZPLAQj3SpmlIygiAPAs44QVGdPYYmcXET7/JqWdPl00K40brPTk9jdzRP17sdGeM4C+fprnor7T0UJJDAkYwv8i10JoQh/zCuCu0erb+2a1ZOy877WhMGT47BfwpSckFG9IOW5VpPCzs8sy8symVekSqenT5PjNki0zubX/i8nosVNYxRPrMqQyolT796ndXOMXt6nNGvMa9u6xjmQ==;PmLrFoBZ5YSguxc3sc4rcA=="
 ---
 

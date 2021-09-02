@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden administration guidance limiting ICE arrests sees pushback from 16 states"
+    excerpt: "A coalition of 16 attorneys general is pushing back against \"interim guidance\" issued under President Biden’s administration which limits the number of deportations and immigration-related arrests by U.S. Immigration and Customs Enforcement (ICE)."
+    publishedDateTime: 2021-09-01T21:59:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wb_Ny-a1VNg/16-states-push-back-biden-administration-guidance-ice-arrests"
+    ampWebUrl: "https://www.foxnews.com/politics/16-states-push-back-biden-administration-guidance-ice-arrests.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/16-states-push-back-biden-administration-guidance-ice-arrests.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1d7193e5-ede5-4bf2-aa7b-dbd866fc1d66/a339ff07-8e85-4916-bbeb-616f413934b1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "DeSantis requests Biden administration stop resettling illegal immigrants in Florida"
     excerpt: "Florida Gov. Ron DeSantis this week wrote to the Biden administration, asking it to stop resettling illegal immigrants in the state of Florida -- and to either deport them instead, or send them to a state that supports the \"flouting of our immigration laws.\""
     publishedDateTime: 2021-08-28T23:44:22Z
@@ -44,6 +60,54 @@ related:
     quality: 168
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2aceabfa-c574-4199-9cf5-c9d829f5f934/4c07d242-57e6-46a5-86cc-febae62f6953/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "SCOTUS 'Remain in Mexico' ruling marks latest immigration defeat for Biden administration"
+    excerpt: "The latest Supreme Court ruling marks yet another legal defeat for the Biden administration on the subject of immigration."
+    publishedDateTime: 2021-08-25T23:57:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_SA0uAJzKbA/scotus-remain-mexico-ruling-marks-latest-immigration-defeat-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/scotus-remain-mexico-ruling-marks-latest-immigration-defeat-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scotus-remain-mexico-ruling-marks-latest-immigration-defeat-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/30426bd6-2aa5-4d0e-8ec5-b4c0e9e8d7a9/41eaf33d-87b6-417c-a681-2a8868546e2f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden admin tested by Afghanistan, coronavirus, Hurricane Ida – 3 crises with no easy solutions"
+    excerpt: "At just over seven months in office, the Biden administration is facing three major crises, any one of which would be enough to deal with."
+    publishedDateTime: 2021-09-01T09:01:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WyAAFavk0sQ/biden-admin-afghanistan-coronavirus-hurricane-ida"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-afghanistan-coronavirus-hurricane-ida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-afghanistan-coronavirus-hurricane-ida.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1b0c86a-6fc8-43c7-b8ce-85ec8552cf21/f5772b09-1e8d-46f9-89a1-7ba64a760cca/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden Education Department opens civil rights investigations into 5 states for banning school mask mandates"
+    excerpt: "The U.S. Department of Education is opening an investigation into whether prohibitions on indoor masking mandates constitute discrimination against kids with disabilities."
+    publishedDateTime: 2021-08-30T17:39:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xGnlNRq3GOY/biden-education-department-civil-rights-investigations-masks-schools"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-education-department-civil-rights-investigations-masks-schools.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-education-department-civil-rights-investigations-masks-schools.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f51b3476-234e-4048-a476-76c810bde5ad/9be3c475-e32a-4b19-bdf9-55aba86bdf91/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

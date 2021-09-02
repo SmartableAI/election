@@ -77,17 +77,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Parnell gets Trump endorsement in Pennsylvania Senate race"
-    excerpt: "Former President Donald Trump on Wednesday gave an endorsement in Pennsylvania's crowded U.S. Senate field, backing Republican Sean Parnell in what is expected to be one of the nation’s most competitive Senate contests in next year’s election."
-    publishedDateTime: 2021-09-01T20:58:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/Parnell-gets-Trump-endorsement-in-Pennsylvania-16429091.php"
-    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Parnell-gets-Trump-endorsement-in-Pennsylvania-16429091.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Parnell-gets-Trump-endorsement-in-Pennsylvania-16429091.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 105
   - title: "Trump puts spotlight on Duane Morris partner, ex-prosecutor in Penn. race"
     excerpt: "Former President Donald Trump thrust Duane Morris partner and former U.S. attorney William McSwain into the political spotlight this week, releasing a letter in which McSwain asked for Trump's endorsement in the Pennsylvania governor's race and blasted the state's handling of the 2020 presidential election."
     publishedDateTime: 2021-07-13T17:20:00Z
@@ -118,6 +107,17 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Parnell gets Trump endorsement in Pennsylvania Senate race"
+    excerpt: "Former President Donald Trump is endorsing in Pennsylvania’s crowded U.S. Senate field, backing Republican Sean Parnell in what is expected to be one of the nation’s most competitive Senate contests in next year’s election."
+    publishedDateTime: 2021-09-02T06:04:00Z
+    webUrl: "https://www.kentucky.com/news/politics-government/national-politics/article253926858.html"
+    ampWebUrl: "https://amp.kentucky.com/news/politics-government/national-politics/article253926858.html"
+    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/politics-government/national-politics/article253926858.html"
+    type: article
+    provider:
+      name: Lexington Herald Leader
+      domain: kentucky.com
+    quality: 55
 
 secured: "96hUuFOvOegGA4i32hkgpcVrJgrNdmrwyBZQNo6vtD6MVAh03AlUa6zs+Ne5Qsc3uW7rhvjGs3ZPDBA6CPhT6h1LCW0GWggPzgKjTYQJxm97g7WwPlOiF9B1J7knTPPo3oxLL+0Mwygcn9h+Nv2lRLm13T4u0Ko0mQlu+IeLISn+0OyEqs5zktlVMNGS1wAYkwSvvq/zg/u8DwJ8XLnSKuWC/Wvg7BktDJo4eAIq8XIhEiN5WtdtT51bj+Avn1lF9KOUZ71M4ZgEXKKRLVH4TjxEx4YvQt+8WgnftFSLtjZdfUXK2IVjUAHlZ8bUF037NsUAp7glGxAraytmxeLTqEePvCYKAUO8CjNSpTJ3GC66WXqaO6W+uuAt+qfE9xUuN8v141WQr4UmgDPUZ3c2F1SylUJJOg4uaFT6+mv6G+K0dP0ewjF5Gb6L5oJVDq/VGIWPhxQf+Sq82NQ+6y0METyCtJYUAUEI6Jl2vahD9HsH0kq6U6CXOUlOJicmOuWtoLUYuC//I1gHMOJEpZ7lfA==;Wr7kDa1qyJlwEaXsUr7bHg=="
 ---

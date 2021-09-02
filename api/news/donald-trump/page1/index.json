@@ -2,6 +2,257 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-02-trump-justices-cast-crucial-votes-on-texas-abortion-ban-undermining-roe-v-wade.md",
+      "title": "Trump Justices Cast Crucial Votes on Texas Abortion Ban Undermining Roe v. Wade",
+      "excerpt": "The Supreme Court has declined to prevent a new law in Texas that severely restricts abortion access from coming into effect. The law will effectively ban all abortions in the state after around six weeks of pregnancy in what reproductive rights advocates view as a blow to the precedent set in Roe v.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-justices-cast-crucial-votes-texas-abortion-ban-undermining-roe-v-wade-1625266",
+      "originalUrl": "https://www.newsweek.com/trump-justices-cast-crucial-votes-texas-abortion-ban-undermining-roe-v-wade-1625266",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1885475/trump-appointed-justices-shown-composite-image.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-justices-cast-crucial-votes-texas-abortion-ban-undermining-roe-v-wade-1625266?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-justices-cast-crucial-votes-texas-abortion-ban-undermining-roe-v-wade-1625266?amp=1",
+      "publishedDateTime": "2021-09-02T01:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-09-02-things-are-not-working-well-for-the-trump-picked-pandemic-relief-watchdog.md",
+      "title": "Things are 'not working well' for the Trump-picked pandemic relief watchdog",
+      "excerpt": "\"Everybody kind of expects you to fail. It's kind of set up to fail,\" Brian Miller told Insider.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/covid-19-pandemic-watchdog-cares-act-inspector-general-congress-2021-9",
+      "originalUrl": "https://www.businessinsider.com/covid-19-pandemic-watchdog-cares-act-inspector-general-congress-2021-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/61300c8c9ef1e50018f952c3?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-02T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-09-02-michigan-man-held-in-bomb-hoax-at-trump-hotel-in-las-vegas.md",
+      "title": "Michigan man held in bomb hoax at Trump hotel in Las Vegas",
+      "excerpt": "An arrest report says a 44-year-old Michigan man accused of creating a bomb hoax at the Trump International Hotel in Las Vegas told investigators he wanted to send a message that former Republican Pre",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/wireStory/michigan-man-held-bomb-hoax-trump-hotel-las-79778041",
+      "originalUrl": "https://abcnews.go.com/US/wireStory/michigan-man-held-bomb-hoax-trump-hotel-las-79778041",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/210901_vod_onlocationPM_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/michigan-man-held-bomb-hoax-trump-hotel-las-79778041",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/michigan-man-held-bomb-hoax-trump-hotel-las-79778041",
+      "publishedDateTime": "2021-09-01T17:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-09-02-trump-fans-election-fraud-theme-as-virginia-governor-candidate-youngkin-walks-tightrope.md",
+      "title": "Trump fans election fraud theme as Virginia governor candidate Youngkin walks tightrope",
+      "excerpt": "Former president Donald Trump on Wednesday warned that Democrats might try to steal the Virginia governor's race, pegging his prediction on baseless claims of 2020 election fraud that Republican candidate Glenn Youngkin has flirted with but not fully embraced.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/local/virginia-politics/trump-virginia-governor-youngkin-election/2021/09/01/c8583584-0b3b-11ec-aea1-42a8138f132a_story.html",
+      "originalUrl": "https://www.washingtonpost.com/local/virginia-politics/trump-virginia-governor-youngkin-election/2021/09/01/c8583584-0b3b-11ec-aea1-42a8138f132a_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X2IE7EQLOYI6ZLVBIKUBHDYTFI.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-01T15:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-09-01-former-president-donald-trump-says-he-will-return-to-iowa-adding-grist-to-2024-speculation.md",
+      "title": "Former President Donald Trump says he will return to Iowa, adding grist to 2024 speculation",
+      "excerpt": "Trump's announcement on the show comes as other potential Republican presidential contenders are already making trips to Iowa.",
+      "sourceUrl": null,
+      "webUrl": "https://www.jsonline.com/story/news/politics/2021/08/31/donald-trump-says-he-will-rally-iowa-stoking-2024-speculation/5666433001/",
+      "originalUrl": "https://www.jsonline.com/story/news/politics/2021/08/31/donald-trump-says-he-will-rally-iowa-stoking-2024-speculation/5666433001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/01/PDEM/63d5811d-248f-4d1b-a046-a644d1ea0203-AP20306724939532.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.jsonline.com/amp/5666433001",
+      "cdnAmpWebUrl": "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/5666433001",
+      "publishedDateTime": "2021-08-31T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Milwaukee Journal Sentinel",
+        "domain": "jsonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-31-donald-trump-is-not-a-big-fan-of-crypto.md",
       "title": "Donald Trump is not a ‘big fan’ of crypto",
       "excerpt": "Former President Donald Trump lashed out at cryptocurrencies in an interview with Fox News on Tuesday. “I have not been a big fan of cryptos,” Trump told Fox. While the interview focused primarily on Trump’s reaction to America’s Afghanistan exit,",
@@ -189,49 +440,6 @@
       "provider": {
         "name": "Wichita Eagle",
         "domain": "kansas.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-31-us-sen-mike-rounds-isnt-convinced-donald-trump-would-win-gop-nomination-in-2024-election.md",
-      "title": "US Sen. Mike Rounds isn't convinced Donald Trump would win GOP nomination in 2024 election",
-      "excerpt": "South Dakota U.S. Sen. Mike Rounds, in discussion with Sioux Falls Rotarians, speculated what might lie ahead for the Republican Party for 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.argusleader.com/story/news/2021/08/30/mike-rounds-2024-election-donald-trump-kristi-noem-republican-nomination-speculation/5653852001/",
-      "originalUrl": "https://www.argusleader.com/story/news/2021/08/30/mike-rounds-2024-election-donald-trump-kristi-noem-republican-nomination-speculation/5653852001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/08/20/PSIF/c96ac377-3e03-4c86-a475-a751d7dde2e0-Rounds_ChamberOfCommerce_003.JPG?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.argusleader.com/amp/5653852001",
-      "cdnAmpWebUrl": "https://amp-argusleader-com.cdn.ampproject.org/c/s/amp.argusleader.com/amp/5653852001",
-      "publishedDateTime": "2021-08-30T12:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Argus Leader",
-        "domain": "argusleader.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -700,7 +908,7 @@
       "originalUrl": "https://www.lehighvalleylive.com/opinion/2021/08/mike-lindells-obsession-with-trump-a-symptom-of-human-nature-letter.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -735,6 +943,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-26-lz-granderson-the-election-is-over-in-arizona-the-trump-campaign-continues.md",
+      "title": "LZ Granderson: The election is over. In Arizona, the Trump campaign continues",
+      "excerpt": "I would like to share with you a brief conversation about politics that I didn't want to have. But the man in the Arizona bar sitting a couple of stools",
+      "sourceUrl": null,
+      "webUrl": "https://www.bozemandailychronicle.com/ap_news/lz-granderson-the-election-is-over-in-arizona-the-trump-campaign-continues/article_cdb3fb76-1ebe-5f91-a594-75a4f2ef043f.html",
+      "originalUrl": "https://www.bozemandailychronicle.com/ap_news/lz-granderson-the-election-is-over-in-arizona-the-trump-campaign-continues/article_cdb3fb76-1ebe-5f91-a594-75a4f2ef043f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-26T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bozeman Daily Chronicle",
+        "domain": "bozemandailychronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-26-meet-the-9-local-georgia-investigators-who-have-donald-trump-in-their-sights.md",
       "title": "Meet the 9 local Georgia investigators who have Donald Trump in their sights",
       "excerpt": "An inside look at the top Georgia investigators that are leading an effort that — at the extreme — could land Trump in prison.",
@@ -743,7 +994,7 @@
       "originalUrl": "https://www.businessinsider.com/fani-willis-georgia-investigation-election-trump-phone-call-2021-8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -1218,257 +1469,6 @@
         "Election",
         "Donald Trump",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-matt-gaetz-says-he-asked-for-trumps-approval-before-proposing-to-ginger-luckey-who-eloped-with-him-amid-a-sex-trafficking-probe.md",
-      "title": "Matt Gaetz says he asked for Trump's approval before proposing to Ginger Luckey, who eloped with him amid a sex trafficking probe",
-      "excerpt": "Matt Gaetz said he asked for former President Donald Trump's approval before proposing to his now-wife Ginger Luckey, with whom he eloped over the weekend amid a federal sex",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/matt-gaetz-asked-for-trumps-approval-before-proposing-to-ginger-luckey-2021-8",
-      "originalUrl": "https://www.businessinsider.com/matt-gaetz-asked-for-trumps-approval-before-proposing-to-ginger-luckey-2021-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6123ae95de5f560019e845d6?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/matt-gaetz-asked-for-trumps-approval-before-proposing-to-ginger-luckey-2021-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/matt-gaetz-asked-for-trumps-approval-before-proposing-to-ginger-luckey-2021-8?amp",
-      "publishedDateTime": "2021-08-23T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-carlyle-alums-governor-run-mixes-trump-backing-maga-lite-style.md",
-      "title": "Carlyle Alum’s Governor Run Mixes Trump Backing, MAGA-Lite Style",
-      "excerpt": "The crowd of about 300 Republican stalwarts in Norfolk, Virginia, included those wearing the requisite red baseball caps.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-08-23/carlyle-alum-s-governor-run-mixes-trump-backing-maga-lite-style",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-08-23/carlyle-alum-s-governor-run-mixes-trump-backing-maga-lite-style",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iD7mjU39SxqU/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-22T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-vos-to-keep-trump-updated-on-election-investigation.md",
-      "title": "Vos to keep Trump \"updated\" on election investigation",
-      "excerpt": "Assembly Speaker Robin Vos the said in a statement Saturday he is going to be keeping Trump “updated on our investigation,” the Journal Times reported. In a statement, Vos said: “It was an honor to be invited to travel by private plane with President Trump and top staff to attend his rally in Alabama.",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/news/article/Vos-to-keep-Trump-updated-on-election-16404028.php",
-      "originalUrl": "https://www.houstonchronicle.com/news/article/Vos-to-keep-Trump-updated-on-election-16404028.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 360,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.houstonchronicle.com/news/amp/Vos-to-keep-Trump-updated-on-election-16404028.php",
-      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Vos-to-keep-Trump-updated-on-election-16404028.php",
-      "publishedDateTime": "2021-08-22T16:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-when-ruby-wax-met-review-excruciating-outpourings-from-oj-simpson-donald-trump-and-more.md",
-      "title": "When Ruby Wax Met … review – excruciating outpourings from OJ Simpson, Donald Trump and more",
-      "excerpt": "From a menacing Trump to OJ Simpson trying to stab her with a banana, Wax looks back at her interview hits and misses – and it makes for jaw-dropping, fascinating TV",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/tv-and-radio/2021/aug/22/when-ruby-wax-met-review-donald-trump-oj-simpson",
-      "originalUrl": "https://www.theguardian.com/tv-and-radio/2021/aug/22/when-ruby-wax-met-review-donald-trump-oj-simpson",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/e0adb2adc2e690e3978a53ba6379935b6b24bec0/0_283_4264_2558/master/4264.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=41457bdff99edca6dc9affc11c3661b6",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/tv-and-radio/2021/aug/22/when-ruby-wax-met-review-donald-trump-oj-simpson",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/tv-and-radio/2021/aug/22/when-ruby-wax-met-review-donald-trump-oj-simpson",
-      "publishedDateTime": "2021-08-22T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-22-barron-trump-enrolls-in-35000-a-year-private-school-in-florida.md",
-      "title": "Barron Trump Enrolls In $35,000-A-Year Private School In Florida",
-      "excerpt": "Barron Trump has enrolled in an exclusive private school in Palm Beach, Florida, for the new school year. A spokesperson for Oxbridge Academy announced earlier this week that Melania and Donald Trump's 15-year-old son has enrolled in the elite school as part of the class of 2024,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/barron-trump-enrolls-35000-year-private-school-florida-3278565",
-      "originalUrl": "https://www.ibtimes.com/barron-trump-enrolls-35000-year-private-school-florida-3278565",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/02/donald-and-melania-trump-have-tested-positive-for.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/barron-trump-enrolls-35000-year-private-school-florida-3278565?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/barron-trump-enrolls-35000-year-private-school-florida-3278565?amp=1",
-      "publishedDateTime": "2021-08-22T03:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

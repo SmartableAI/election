@@ -1,20 +1,20 @@
 ---
 category: news
 title: "President Joe Biden plans to visit New Orleans in wake of Hurricane Ida destruction"
-excerpt: "President Joe Biden plans to visit Louisiana Friday to survey damage from Hurricane Ida. Hurricane Ida slammed into Louisiana with 150 mph winds."
+excerpt: "President Joe Biden plans to visit New Orleans on Friday to survey damage from Hurricane Ida, which lashed southeastern Louisiana on Sunday as one of the five strongest storms to ever strike the U.S. packing 150 mph winds. The White House said Biden will ..."
 publishedDateTime: 2021-09-01T19:42:00Z
-originalUrl: "https://www.freep.com/story/news/politics/2021/09/01/president-biden-plans-visit-louisiana-hurricane-ida-aftermath/5687035001/"
-webUrl: "https://www.freep.com/story/news/politics/2021/09/01/president-biden-plans-visit-louisiana-hurricane-ida-aftermath/5687035001/"
-ampWebUrl: "https://amp.freep.com/amp/5687035001"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5687035001"
+originalUrl: "https://www.indystar.com/story/news/politics/2021/09/01/president-biden-plans-visit-louisiana-hurricane-ida-aftermath/5687035001/"
+webUrl: "https://www.indystar.com/story/news/politics/2021/09/01/president-biden-plans-visit-louisiana-hurricane-ida-aftermath/5687035001/"
+ampWebUrl: "https://amp.indystar.com/amp/5687035001"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5687035001"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -120,6 +120,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "8E2ZjIho72usUynlMoez4Sz38ry8vBRVziOUCXaQxmYgVHBzumsTkFnC4vHlcWDDKO21+4JMd1lJ8Mjbf3jtgeR6m1pCxpB5igPRYbwyAgB/vjgv7yErDMvKt0dxGh4kBUyxSryuI8qLM2Y9U7e/iMS7eG32A3nuEu/sW3jqfyuO6uN8NcfL9Wv8hGzLmpZ4gkOgxILbfQAnbErH3KPYHL88RxaU7i5YX+EcdSYMB3roYhev+5eNH4JT5M8TirIvt3MNRCg2ijZK/QsrpoFkRy5ms6ttiDDXq/mNrCSKkyW2Wm04qPDj4SueVRGQGoyksG1XVkvDhXLbGsOgMCqux3mRFeJ1bIDZPhciWrwvw3A=;OUo8XCvZ7q9qbOxMQWN7sg=="
+secured: "gJ4hFORtJXOdg5vHfKjEGu4lsynwnxK3LMFDC7OPwRNqH2olmoTymQRjnDl2+nHMcrxxmRgsBsMd0rOMEJcW2F9sbRJWpx8L+BHRNgzqEUrXVsZxH3kaiLcsg0uktbPLnnjCAy1lgAbJy0YsRqBv5TnD8/58V3qtC0OBe3UNXoBD2NQOSKln6KMUmcPKGAcEeBxTx8EZDwQrrisB3INPhrLtgdM9H6b8oFgbDEo1OQBxaSsfGyWaVpc0d1rTdYJdVdk0dTnTha7Pfkgw7zIMjgdhjkGiyruAKFBPD+iz11tXr1RqNiQRi5O2Okp/1tuWgebFam1pRN1ySFsxVs2mXOhFID6SBdyVBkaOs9KBAITQtS1rzHF6HfBSul8/b1mrA1ZM1FMnsx+bFbcyz7JyjTL3dw7sdrnaKLtOGiz5nbvkvdXF5DeDDjRMJCVqKHl5TS5ml0hPHuQity/ApkRfgKmBIZIHHOC2P/xUpg7XoVX+2G/EIh8q7Q8vmL9UtJof5Pw67WJ9LanDBxnLdDz0vw==;kO4r8120LhH6raRboD+ROg=="
 ---
 

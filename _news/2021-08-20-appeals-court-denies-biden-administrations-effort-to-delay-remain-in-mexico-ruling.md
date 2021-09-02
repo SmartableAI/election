@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "SCOTUS 'Remain in Mexico' ruling marks latest immigration defeat for Biden administration"
-    excerpt: "The latest Supreme Court ruling marks yet another legal defeat for the Biden administration on the subject of immigration."
-    publishedDateTime: 2021-08-25T23:57:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_SA0uAJzKbA/scotus-remain-mexico-ruling-marks-latest-immigration-defeat-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/scotus-remain-mexico-ruling-marks-latest-immigration-defeat-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scotus-remain-mexico-ruling-marks-latest-immigration-defeat-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/30426bd6-2aa5-4d0e-8ec5-b4c0e9e8d7a9/41eaf33d-87b6-417c-a681-2a8868546e2f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Texas, Louisiana sue Biden administration for ‘refusing’ to take criminal illegal immigrants"
     excerpt: "Texas and Louisiana are suing the Department of Homeland Security for its alleged refusal to take criminal illegal immigrants into custody, after rules that narrowed enforcement priorities."
     publishedDateTime: 2021-04-06T21:51:21Z

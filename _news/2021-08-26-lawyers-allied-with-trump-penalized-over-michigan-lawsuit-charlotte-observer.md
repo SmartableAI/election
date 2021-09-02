@@ -27,37 +27,53 @@ images:
     isCached: true
 
 related:
-  - title: "Mike Lindell’s obsession with Trump a symptom of human nature | Letter"
-    excerpt: "Mike Lindell may be in love with “the Donald,” an unrequited love that will never become realized, writer says."
-    publishedDateTime: 2021-08-26T13:31:00Z
-    webUrl: "https://www.lehighvalleylive.com/opinion/2021/08/mike-lindells-obsession-with-trump-a-symptom-of-human-nature-letter.html"
-    ampWebUrl: "https://www.lehighvalleylive.com/opinion/2021/08/mike-lindells-obsession-with-trump-a-symptom-of-human-nature-letter.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-lehighvalleylive-com.cdn.ampproject.org/c/s/www.lehighvalleylive.com/opinion/2021/08/mike-lindells-obsession-with-trump-a-symptom-of-human-nature-letter.html?outputType=amp"
+  - title: "Michigan man held in bomb hoax at Trump hotel in Las Vegas"
+    excerpt: "An arrest report says a 44-year-old Michigan man accused of creating a bomb hoax at the Trump International Hotel in Las Vegas told investigators he wanted to send a message that former Republican Pre"
+    publishedDateTime: 2021-09-02T00:24:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/michigan-man-held-bomb-hoax-trump-hotel-las-79778041"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/michigan-man-held-bomb-hoax-trump-hotel-las-79778041"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/michigan-man-held-bomb-hoax-trump-hotel-las-79778041"
     type: article
     provider:
-      name: Lehigh Valley Live
-      domain: lehighvalleylive.com
-    quality: 75
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/3PTKE2NFOFAC7HM5YIQA26RQB4.jpg"
-        width: 1024
-        height: 683
+      - url: "https://s.abcnews.com/images/US/210901_vod_onlocationPM_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Ivanka Trump Dons Crop Top, Leggings For Walk With Daughter Arabella"
-    excerpt: "Ivanka Trump spent some quality time with her 10-year-old daughter with husband Jared Kushner over the weekend. Trump was photographed out on a walk with her daughter, Arabella, in Miami Saturday, with the mother and child rocking complementary athleisure ensembles."
-    publishedDateTime: 2021-08-31T03:30:00Z
-    webUrl: "https://www.ibtimes.com/ivanka-trump-dons-crop-top-leggings-walk-daughter-arabella-3284508"
-    ampWebUrl: "https://www.ibtimes.com/ivanka-trump-dons-crop-top-leggings-walk-daughter-arabella-3284508?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ivanka-trump-dons-crop-top-leggings-walk-daughter-arabella-3284508?amp=1"
+  - title: "U.S. House seeks communications between Trump White House, Michigan Republicans"
+    excerpt: "The request from the U.S. House could shine new light on Trump's efforts to challenge the results in Michigan and ho GOP leaders responded."
+    publishedDateTime: 2021-08-27T14:59:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2021/08/27/u-s-house-probes-trump-officials-exchanges-michigan-republicans/5615642001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5615642001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5615642001"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 71
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/12/jared-kushner-his-wife-ivanka-trump-and-their.jpg"
-        width: 1024
-        height: 696
+      - url: "https://www.gannett-cdn.com/presto/2020/11/20/PDTN/8140bfd9-923a-4361-ba55-472e22f7b483-RTX8AUU7.JPG?auto=webp&crop=2529,1423,x0,y122&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Dallas attorney Sidney Powell among lawyers allied with Trump to be penalized over Michigan lawsuit"
+    excerpt: "Nine lawyers allied with former President Donald Trump face financial penalties and other sanctions after a judge Wednesday said they had"
+    publishedDateTime: 2021-08-25T23:54:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/08/25/dallas-attorney-sidney-powell-among-lawyers-allied-with-trump-penalized-over-michigan-lawsuit/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/08/25/dallas-attorney-sidney-powell-among-lawyers-allied-with-trump-penalized-over-michigan-lawsuit/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/08/25/dallas-attorney-sidney-powell-among-lawyers-allied-with-trump-penalized-over-michigan-lawsuit/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 61
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/bsGv3kupQn2C0Toxiu_4rh68Ito=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/2DI6CDQCQ7AVQJL7JQDPIE2Q3Q.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "VXjRYsxPcHRCFGQp2WTzdAEuRiNlu8e+KBxSr3hJhxOZ4PSQiTteuXuN7PIhbjrRZm0LWKqPdnAAbFL9C0jo/CZ1CTKzd3IeOgjg6xJut/OufYjM9PBm6h6+VMkNxgoO+P1gnimUKhZjv4hPZ8Hcnh45HbIAVWurUNogp+Qhg4nyIYVwyJETO497QRzoHsNzdiHiA6T5OUfPtGkuVp6n/mcqI7kEnszaY1i7JHVX6BdGw4U8r4TsSipYpTxedrZ1UkMk3K6OjHnNTDpRMNIz3IYfJFWYZPDoLiaXWjk+sP9rHsDTM8byIyn9SMP15NOSSOTQ/TcSdiHeSn3qk+MHr5HvJ5yMui96aDSGNbpHN+M=;o/S5PLVl7zogPBhR70itiw=="

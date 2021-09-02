@@ -31,37 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Mike Lindell’s obsession with Trump a symptom of human nature | Letter"
-    excerpt: "Mike Lindell may be in love with “the Donald,” an unrequited love that will never become realized, writer says."
-    publishedDateTime: 2021-08-26T13:31:00Z
-    webUrl: "https://www.lehighvalleylive.com/opinion/2021/08/mike-lindells-obsession-with-trump-a-symptom-of-human-nature-letter.html"
-    ampWebUrl: "https://www.lehighvalleylive.com/opinion/2021/08/mike-lindells-obsession-with-trump-a-symptom-of-human-nature-letter.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-lehighvalleylive-com.cdn.ampproject.org/c/s/www.lehighvalleylive.com/opinion/2021/08/mike-lindells-obsession-with-trump-a-symptom-of-human-nature-letter.html?outputType=amp"
+  - title: "Things are 'not working well' for the Trump-picked pandemic relief watchdog"
+    excerpt: "\"Everybody kind of expects you to fail. It's kind of set up to fail,\" Brian Miller told Insider."
+    publishedDateTime: 2021-09-02T08:02:00Z
+    webUrl: "https://www.businessinsider.com/covid-19-pandemic-watchdog-cares-act-inspector-general-congress-2021-9"
     type: article
     provider:
-      name: Lehigh Valley Live
-      domain: lehighvalleylive.com
-    quality: 75
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/3PTKE2NFOFAC7HM5YIQA26RQB4.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Lawyers allied with Trump penalized over Michigan lawsuit | Charlotte Observer"
-    excerpt: "Nine lawyers allied with former President Donald Trump face financial penalties and other sanctions in Michigan."
-    publishedDateTime: 2021-08-25T23:40:00Z
-    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article253747698.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article253747698.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article253747698.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 71
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/c4cef625-20b7-4900-8d0e-b7aea9ac60c8/04971208-0b7e-48a6-9be9-aacd9ccfcccd/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://i.insider.com/61300c8c9ef1e50018f952c3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "uRgg9BqUG/ry9Ctu5+LnQrnA+f+fJbKb14aZj45XWHjCGhH9H4ILAHIftwsf/AxaOFikk3wgR+WE8vKGzBc5ZGZyE2t+aCh8Y/6KmMTI2j7XCIYi9veGEJBGhSZhfT+EKF03rfept0+TlutryyRUtJloT89kuedIZgXTQ+2KuOAvPY3CP2c7lQX/5UeIbHx15zMb0h7xXdfA7UUcrpr/MhkoWCIJvMHrwscVMG2qKWQWDFu9G8rG/aewK58qNv3blwzGFhlhUw+0yIrNdXURFR9FGxDxh7BL10QSjW8bQkcMnWR1mVG5I6NmH+ubAo8jewD434heXfSOf/20xgd2uS/o/tViID0qHqwfmtmmdxlDP8U8zdSPz6/nAZ5Zaoh0QWT9uJnwVT7gZOmG4fytrYO60JjsH3WMK8AvMMIgy3uZNVRtbTN/c5GC4lkWBTXig1NwxzDsyz61Zmd/+BzoXgKE/k7mXVVVQ7DeYQ/a+NRJOVc44aTd7FbguGpBgLSMhtbUef5nmRptvy+l4HZisg==;IXEyfAzmMpYMrTIBcoDfzA=="

@@ -2,6 +2,266 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-06-08-donald-trump-calls-bitcoin-a-scam-against-the-dollar.md",
+      "title": "Donald Trump calls Bitcoin 'a scam against the dollar'",
+      "excerpt": "Former US President Donald Trump has told Fox Business that he sees Bitcoin as a \"scam\" affecting the value of the US dollar. \"Bitcoin, it just seems like a scam,\" Mr Trump said. \"I don't like it because it's another currency competing against the dollar.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/business-57392734.amp",
+      "originalUrl": "https://www.bbc.com/news/business-57392734.amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/BA93/production/_118836774_trump1.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/business-57392734.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-57392734.amp",
+      "publishedDateTime": "2021-06-07T18:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-a-refugee-agency-rebuilds-its-pipeline-after-trump-were-starting-from-scratch.md",
+      "title": "A refugee agency rebuilds its pipeline after Trump: 'We're starting from scratch'",
+      "excerpt": "RELATED: Faith-based refugee resettlement groups describe what it will take to rebuild program after Trump cuts Friends and family collected winter coats for the girl and dropped off a stack of Christmas presents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/religion/a-refugee-agency-rebuilds-its-pipeline-after-trump-were-starting-from-scratch/2021/06/07/6f09ad1a-c7c4-11eb-8708-64991f2acf28_story.html",
+      "originalUrl": "https://www.washingtonpost.com/religion/a-refugee-agency-rebuilds-its-pipeline-after-trump-were-starting-from-scratch/2021/06/07/6f09ad1a-c7c4-11eb-8708-64991f2acf28_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/religion/a-refugee-agency-rebuilds-its-pipeline-after-trump-were-starting-from-scratch/2021/06/07/6f09ad1a-c7c4-11eb-8708-64991f2acf28_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/a-refugee-agency-rebuilds-its-pipeline-after-trump-were-starting-from-scratch/2021/06/07/6f09ad1a-c7c4-11eb-8708-64991f2acf28_story.html?outputType=amp",
+      "publishedDateTime": "2021-06-07T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-fact-check-donald-trump-remains-suspended-from-facebook-instagram.md",
+      "title": "Fact check: Donald Trump remains suspended from Facebook, Instagram",
+      "excerpt": "An Instagram post claims Donald Trump's Facebook and Instagram accounts were restored as of June 2. That's false.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/factcheck/2021/06/07/fact-check-trump-facebook-and-instagram-accounts-still-suspended/7546944002/",
+      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2021/06/07/fact-check-trump-facebook-and-instagram-accounts-still-suspended/7546944002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/05/26/USAT/c93bd3c4-8f04-4f46-b7af-39d711e7a971-AP_Trump_Russia_Probe.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7546944002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7546944002",
+      "publishedDateTime": "2021-06-07T11:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-07-coach-v-the-white-house-inside-steve-kerrs-extraordinary-feud-with-donald-trump.md",
+      "title": "Coach v the White House: inside Steve Kerr’s extraordinary feud with Donald Trump",
+      "excerpt": "In a new book about the Golden State Warriors coach, Scott Howard-Cooper explores how the NBA, China and the US president combined for an explosive mix",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/sport/2021/jun/07/steve-kerr-golden-state-warriors-trump-nba-china",
+      "originalUrl": "https://www.theguardian.com/sport/2021/jun/07/steve-kerr-golden-state-warriors-trump-nba-china",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/1735f509f0395827016f8415c722605bb44d6c08/0_213_4976_2985/master/4976.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=acbddd681f2212415f387e57e12a0af3",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/sport/2021/jun/07/steve-kerr-golden-state-warriors-trump-nba-china",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/sport/2021/jun/07/steve-kerr-golden-state-warriors-trump-nba-china",
+      "publishedDateTime": "2021-06-07T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-07-trump-adviser-lewandowski-he-lost-the-election-and-will-not-be-reinstated.md",
+      "title": "Trump adviser Lewandowski: he ‘lost the election’ and will not be reinstated",
+      "excerpt": "Former campaign manager tells Fox News Sunday there is no mechanism by which a loser can return to the White House",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jun/06/trump-lewandowski-election-reinstated-biden-north-carolina-fox-news",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/06/trump-lewandowski-election-reinstated-biden-north-carolina-fox-news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/a4b97b8c413143ea1afe44637af39841f042e591/0_275_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4f52b1748e208e20eb8ed24e73d36fff",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/06/trump-lewandowski-election-reinstated-biden-north-carolina-fox-news",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/06/trump-lewandowski-election-reinstated-biden-north-carolina-fox-news",
+      "publishedDateTime": "2021-06-06T12:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-06-blunt-trump-should-be-focused-on-2022-not-the-past.md",
       "title": "Blunt: Trump should be 'focused' on 2022, not the past",
       "excerpt": "In an exclusive interview with Meet the Press, Sen. Roy Blunt (R-Mo.), Chair, Republican Policy Committee, encourages former President Donald Trump to stop relitigating 2020.",
@@ -1287,276 +1547,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-a-tabloid-publisher-will-pay-a-187500-fec-penalty-for-its-trump-hush-money-payment.md",
-      "title": "A tabloid publisher will pay a $187,500 F.E.C. penalty for its Trump hush-money payment.",
-      "excerpt": "But Donald Trump faces no further investigation or penalties related to the 2016 payment to a former Playboy model by the publisher of The National Enquirer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/06/01/us/politics/trump-karen-mcdougal-playboy-american-media.html",
-      "originalUrl": "https://www.nytimes.com/2021/06/01/us/politics/trump-karen-mcdougal-playboy-american-media.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/06/01/lens/01new-washington-briefing-american-media1/01new-washington-briefing-american-media1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/06/01/us/politics/trump-karen-mcdougal-playboy-american-media.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/01/us/politics/trump-karen-mcdougal-playboy-american-media.amp.html",
-      "publishedDateTime": "2021-06-01T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-trump-supporters-celebrate-memorial-day-with-boat-parade-in-florida.md",
-      "title": "Trump supporters celebrate Memorial Day with boat parade in Florida",
-      "excerpt": "Supporters of former President Donald Trump celebrated Memorial Day with a boat parade in Jupiter, Florida, on May 31. Credit: Juan Fiol via Storyful.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/politics/2021/06/01/trump-supporters-celebrate-memorial-day-boat-parade-florida/5288009001/",
-      "originalUrl": "https://www.usatoday.com/videos/news/politics/2021/06/01/trump-supporters-celebrate-memorial-day-boat-parade-florida/5288009001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/8a18dbe5-929c-4ef4-ba67-6afe7e22db8a_poster.jpg?quality=10",
-          "width": 459,
-          "height": 284,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-fox-news-host-sean-hannity-wrote-trump-2020-campaign-ad-book-claims.md",
-      "title": "Fox News host Sean Hannity wrote Trump 2020 campaign ad, book claims",
-      "excerpt": "Hannity worked on ‘swamp creature’ ad that ran during Hannity’s show, according to Mike Bender’s Frankly, We Did Win This Election",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jun/01/sean-hannity-fox-news-trump-campaign-ad",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/01/sean-hannity-fox-news-trump-campaign-ad",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/61cdbfc86730cd26088655793d60cb3d6e71f25f/0_5_3143_1886/master/3143.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9ea44155a20784624b33d4f00784df0a",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/01/sean-hannity-fox-news-trump-campaign-ad",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/01/sean-hannity-fox-news-trump-campaign-ad",
-      "publishedDateTime": "2021-06-01T03:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-trump-turned-nonvoters-into-voters-in-2020-will-they-turn-out-for-next-years-midterms.md",
-      "title": "Trump Turned Nonvoters Into Voters in 2020. Will They Turn Out for Next Year’s Midterms?",
-      "excerpt": "Former President Donald Trump drew substantial support in 2020 from a new pool of voters whose decisions on whether to participate in elections again will be central to next year’s midterms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/trump-turned-nonvoters-into-voters-in-2020-will-they-turn-out-for-next-years-midterms-11622545202",
-      "originalUrl": "https://www.wsj.com/articles/trump-turned-nonvoters-into-voters-in-2020-will-they-turn-out-for-next-years-midterms-11622545202",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-344446/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-turned-nonvoters-into-voters-in-2020-will-they-turn-out-for-next-years-midterms-11622545202",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-turned-nonvoters-into-voters-in-2020-will-they-turn-out-for-next-years-midterms-11622545202",
-      "publishedDateTime": "2021-06-01T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-a-former-associate-of-trump-ally-roger-stone-appeared-to-gesture-for-hillary-clinton-to-be-hanged-at-a-conference-with-qanon-attendees.md",
-      "title": "A former associate of Trump ally Roger Stone appeared to gesture for Hillary Clinton to be hanged at a conference with QAnon attendees",
-      "excerpt": "Jason Sullivan, a former social media adviser to Roger Stone, made a gesture appearing to resemble a noose, receiving loud cheers from a crowd.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/roger-stone-adviser-appeared-to-gesture-for-hillary-clinton-to-be-hanged-at-qanon-conference-2021-5",
-      "originalUrl": "https://www.businessinsider.com/roger-stone-adviser-appeared-to-gesture-for-hillary-clinton-to-be-hanged-at-qanon-conference-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60b545ff02ac410018f93a82?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/roger-stone-adviser-appeared-to-gesture-for-hillary-clinton-to-be-hanged-at-qanon-conference-2021-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/roger-stone-adviser-appeared-to-gesture-for-hillary-clinton-to-be-hanged-at-qanon-conference-2021-5?amp",
-      "publishedDateTime": "2021-05-31T15:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

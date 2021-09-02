@@ -75,6 +75,22 @@ related:
         width: 625
         height: 415
         isCached: true
+  - title: "Fact check: Quote about Afghanistan, Democrats in Washington falsely attributed to Donald Trump"
+    excerpt: "Donald Trump did not say the situation in Afghanistan is a distraction from the Democrats in Washington. The quote is being falsely attributed to him."
+    publishedDateTime: 2021-08-27T02:32:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5586860001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5586860001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/22/USAT/9aef22b6-661a-487a-9438-89b679f37137-GTY_1335520712.jpg?auto=webp&crop=3688,2075,x0,y187&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Afghanistan live updates: Biden says another Kabul airport attack 'highly likely'; Pentagon says strike killed two in ISIS-K"
     excerpt: "The Pentagon said a Friday airstrike killed two and wounded one ISIS-K planners and facilitators. The mission came a day after a Kabul airport bombing."
     publishedDateTime: 2021-08-28T23:12:00Z
@@ -186,22 +202,6 @@ related:
       - url: "https://cdn.images.express.co.uk/img/dynamic/78/590x/1483221_1.jpg?r=1630144550341"
         width: 590
         height: 350
-        isCached: true
-  - title: "Fact check: Quote about Afghanistan, Democrats in Washington falsely attributed to Donald Trump"
-    excerpt: "Donald Trump did not say the situation in Afghanistan is a distraction from the Democrats in Washington. The quote is being falsely attributed to him."
-    publishedDateTime: 2021-08-27T02:32:00Z
-    webUrl: "https://www.jsonline.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
-    ampWebUrl: "https://amp.jsonline.com/amp/5586860001"
-    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/5586860001"
-    type: article
-    provider:
-      name: Milwaukee Journal Sentinel
-      domain: jsonline.com
-    quality: 63
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/08/22/USAT/9aef22b6-661a-487a-9438-89b679f37137-GTY_1335520712.jpg?auto=webp&crop=3688,2075,x0,y187&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "‘He’s finished’: Joe Biden ‘cannot survive’ fallout over Afghanistan withdrawal"
     excerpt: "Joe Biden's presidency is finished and it can't survive the fallout over his administration's \"messy\" withdrawal from Afghanistan, according to Curtin University Professor Joe Siracusa. Mr Siracusa said Joe Biden had an opportunity to withdraw from Afghanistan as \"gracefully as he could\" but it turned out to be quite \"messy\"."

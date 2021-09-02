@@ -7,7 +7,7 @@ originalUrl: "https://www.bozemandailychronicle.com/ap_news/lz-granderson-backin
 webUrl: "https://www.bozemandailychronicle.com/ap_news/lz-granderson-backing-the-blue-takes-a-back-seat-to-backing-trump/article_b9510a27-f8f8-5c9b-bd91-5646dae4254d.html"
 type: article
 quality: 55
-heat: 55
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,50 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "LZ Granderson: The election is over. In Arizona, the Trump campaign continues"
+    excerpt: "I would like to share with you a brief conversation about politics that I didn't want to have. But the man in the Arizona bar sitting a couple of stools"
+    publishedDateTime: 2021-08-26T08:00:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/lz-granderson-the-election-is-over-in-arizona-the-trump-campaign-continues/article_cdb3fb76-1ebe-5f91-a594-75a4f2ef043f.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 67
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Bernie Sanders sets out to sell big government in Trump country"
+    excerpt: "He's specifically targeting two congressional districts where Trump's vote totals increased between 2016 and 2020."
+    publishedDateTime: 2021-08-27T10:03:00Z
+    webUrl: "https://bangordailynews.com/2021/08/27/national-politics/bernie-sanders-sets-out-to-sell-big-government-in-trump-country/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/Sanders-in-Trump-Country.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Kent lands endorsement from former President Trump in congressional campaign"
+    excerpt: "Joe Kent has added one of the biggest potential Republican endorsements to his campaign to take Jaime Herrera Beutler's seat in the House of Representatives: President Donald Trump."
+    publishedDateTime: 2021-09-02T00:15:00Z
+    webUrl: "https://tdn.com/news/local/govt-and-politics/kent-lands-endorsement-from-former-president-trump-in-congressional-campaign/article_97c2b1ff-101d-565d-b6d7-b79c0a965ebf.html"
+    type: article
+    provider:
+      name: The Daily News
+      domain: tdn.com
+    quality: 52
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/tdn.com/content/tncms/custom/image/3f2525f4-c54d-11ea-acb2-93abb9ea72c7.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "F47B92obTLhi6xlUrWAA2mVvWhJRdgeumdbzwcBBn6NAnCT3yGAzuMQen/pRE8fVUxbgma/3T+4AXes7UU9vUnHe+TkaKak/GLJnbaIcqlbeiTXjuKgfBr+yZsxfNxIK8yy5CA38XIQaeYkdFqgrmP121qJuoQeheh7NB4xX9AAETg1rDw4uBO49KfRQP+NSqXx86kYHl9QHfdmR7UcvGBFotzp69r+75b+NhsgwpXYW+3DlNVWUCNFJSvPIfagFAv1VZPxFK1swPUx2QWRIWUUlAZx4lbR0a7ItCs2Ixl/muQltKovzHJ88xHf9eyKL0ASnYxHxmCBS8bc1gFR8epF2vp11G3XC6jG7Xe+bPxc=;aBYHL9gcYM1Qfi+F9N2PWA=="
 ---

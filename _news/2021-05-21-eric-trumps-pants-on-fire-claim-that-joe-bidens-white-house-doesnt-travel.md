@@ -2270,22 +2270,6 @@ related:
         width: 5297
         height: 3531
         isCached: true
-  - title: "Post-Trump, Ukraine's leader to push Biden for US support"
-    excerpt: "The Ukrainian leader who found himself ensnarled in Donald Trump’s first impeachment finally gets his long-sought Oval Office meeting Wednesday with a new U.S. president, seeking increased military aid and backing for his country’s bid for NATO membership."
-    publishedDateTime: 2021-09-01T21:58:00Z
-    webUrl: "https://www.lmtonline.com/news/article/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
-    ampWebUrl: "https://www.lmtonline.com/news/amp/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
-    cdnAmpWebUrl: "https://www-lmtonline-com.cdn.ampproject.org/c/s/www.lmtonline.com/news/amp/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
-    type: article
-    provider:
-      name: Laredo Morning Times
-      domain: lmtonline.com
-    quality: 90
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Biden administration considers reinstating car regulations slashed by Trump"
     excerpt: "The National Highway Administration is considering reinstating regulations slashed in the last days of the Trump administration."
     publishedDateTime: 2021-08-18T17:52:00Z
@@ -2708,6 +2692,17 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Post-Trump, Ukraine’s leader to push Biden for US support"
+    excerpt: "The Ukrainian leader who found himself ensnarled in Donald Trump’s first impeachment finally gets his long-sought Oval Office meeting with a new U.S. president."
+    publishedDateTime: 2021-09-02T01:43:00Z
+    webUrl: "https://www.kentucky.com/news/business/article253909378.html"
+    ampWebUrl: "https://amp.kentucky.com/news/business/article253909378.html"
+    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/article253909378.html"
+    type: article
+    provider:
+      name: Lexington Herald Leader
+      domain: kentucky.com
+    quality: 70
   - title: "Supreme Court orders Biden administration to restore Trump-era border policy"
     excerpt: "The U.S. Supreme Court ruled the Biden administration must restore a Trump-era immigration policy known as “Remain in Mexico.”"
     publishedDateTime: 2021-08-25T19:47:00Z

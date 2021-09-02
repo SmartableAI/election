@@ -2,19 +2,19 @@
 category: news
 title: "Biden meets Ukraine leader in long-sought Oval Office visit"
 excerpt: "Biden played host to Ukrainian President Volodymyr Zelenskyy for a long-sought Oval Office meeting and tried to reassure him that his administration remains squarely behind the Eastern European nation."
-publishedDateTime: 2021-09-01T19:49:00Z
-originalUrl: "https://www.chron.com/news/article/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
-webUrl: "https://www.chron.com/news/article/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
-ampWebUrl: "https://www.chron.com/news/amp/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
+publishedDateTime: 2021-09-02T05:34:00Z
+originalUrl: "https://www.thehour.com/news/article/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
+webUrl: "https://www.thehour.com/news/article/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
+ampWebUrl: "https://www.thehour.com/news/amp/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
+cdnAmpWebUrl: "https://www-thehour-com.cdn.ampproject.org/c/s/www.thehour.com/news/amp/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: The Hour
+  domain: thehour.com
 
 topics:
   - Election
@@ -141,6 +141,6 @@ related:
       domain: seattletimes.com
     quality: 55
 
-secured: "r+pBhdAzZSvPFEUk43MfKP4lmch4VxI1L/f/pS/EDkxUa0FN7pVCN+zMYjRBqDRdYZaqLkBZNPCvhf5ZUqk2hyULKuUTZ8YlMKOdaAZITV2hisKV4tVmKNrqz84bvCYRRUNBB01jdukSOkGzoxqI1kOanNcygEchYXMxqjrpa/MKlLoYaw9JOupZRbfeurPGt2mCedAzG3FJSY/3FJEbu07yLwZjg6zkhQWUylaoIGEzNxR6Y4EBzrff68Bx8EE5lwERYAyUlGzHsvtCipcc4c+8apSlgc1UcRVVcPanWyEA2SxkO27PTOySVxnt1i+4gJT/YqW4BXb5py/dQ50am8jFRcQ+D85ZXmsIRtCvi3Q=;B5rEyHIHYcVTbFmF8Tt3pw=="
+secured: "zA2Ihv9SaIh8dYDCzo3Ov13M5SA5HCMqn35S+yUXLBcp3jBAyKHZrCEVlnb2Rz4ccsUEnZAPT2grPdYcpjkHA8NPzJtwgG2VRhTCntw6/4gvqVNIzvMk51qLcGPgTe0PySV4p/K+a3Mchip94DJkoO0QgdAD0cOfdRDAeEpbelDah5KGNU/fu9rvgudQqhD/D2jyvi/W+cVmJ61LrSAUSEpOTZzuYqdt04dDEZLXwnkbUMT9gPvlDzeASy6zE4cFjzrtSe/APnyTYfkXEcXM64hZ3wPKlLWdK/ceswroHCDgkR1UMHsyP7C8a83XUV1yEumBitCIntI1PIq776k9Z+hdc1CF6jOBEXJyjmyn8WE=;Ewzhiniiby+7Rz2hJo+P2A=="
 ---
 

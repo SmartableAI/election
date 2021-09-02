@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-poll-numbers-plunging-democra
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-poll-numbers-plunging-democrats-worry-afghanistan-midterms.amp"
 type: article
 quality: 178
-heat: 618
+heat: 638
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/178e5ebe-f2fa-4a9e-8d28-3e9374c21fe9/cb197114-58b1-46c4-94b3-711776df9cb6/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "McConnell says Biden impeachment over Afghanistan will not happen"
+    excerpt: "Senate Minority Leader Mitch McConnell (R-KY) said Wednesday that President Joe Biden would not be impeached because both the House and Senate are Democrat-controlled."
+    publishedDateTime: 2021-09-02T00:53:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H7vMgqrOQr8/mcconnell-says-no-impeachment-of-biden-over-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-says-no-impeachment-of-biden-over-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-says-no-impeachment-of-biden-over-afghanistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6e7400b6-5964-43e2-a18c-b8bbe8ec272f/d3b7c54f-b766-46af-b64b-188e89bfb01e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

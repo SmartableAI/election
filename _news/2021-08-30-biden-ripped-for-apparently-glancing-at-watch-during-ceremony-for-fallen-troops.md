@@ -44,22 +44,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Biden repeatedly implies he’s not in charge of when, where he can take questions from the press"
-    excerpt: "President Joe Biden has repeatedly implied that his handlers set the rules and determine when and where he’s allowed to take questions from the press, leading observers to ponder who is actually calling the shots behind the scenes."
-    publishedDateTime: 2021-08-30T14:17:00Z
-    webUrl: "https://www.foxnews.com/media/biden-implies-handlers-are-in-charge"
-    ampWebUrl: "https://www.foxnews.com/media/biden-implies-handlers-are-in-charge.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-implies-handlers-are-in-charge.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 123
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/340/340/Flood-pic.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "ptzhNjUlDlKqASPUMoUYi1CBEsqf09KOSztUqFZIs9Dw56eJpL7RW4+lb2t1O2s0zPJLVIXI8RMB+cnL3aYJIDIqNg3aKeFmmEEguwyU89OcPJkKXCNmhWSn7UGYuXLgbzY+6m4P8T92yeLeD8JGQrLyEV5CepCc2W47ov9S7PbSXb+hk6F1mfURlqgQ2sNcok3p6XfYzOwfDtCNP1XlVUhN2DbWgM+lzLlBfNFWXpiuB1ApoRS0SE/xudmf1Ns7Y4D3vMmPM4RhXDu/q1LplHzDCOG9U6+Rx2strVEsK6c2FWYze6UmkqMSa+m+hUmLc3Ftdn6x7EXJ1egn4bbTXHeWIzNiGEmNl1UQyW/ER0RCsPmULb72bWaHt9LEcSKPkSDM+9F+avCuUjdQm0K9Juv3gvOwp2mGAg6TDxN8/R/meAZRWoVoWw/72H4sO6Jm5OZ78hu6moAENbEb4uE91gB+ttI5n2S5F8jizguit7FmROwBoZumaUUIaHet9pplqBnELYm/la4oH8bjqCTGIg==;G76zfFhTKFebIDAbxzPnWQ=="
 ---

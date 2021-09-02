@@ -31,38 +31,65 @@ images:
     isCached: true
 
 related:
-  - title: "Biden admin tested by Afghanistan, coronavirus, Hurricane Ida – 3 crises with no easy solutions"
-    excerpt: "At just over seven months in office, the Biden administration is facing three major crises, any one of which would be enough to deal with."
-    publishedDateTime: 2021-09-01T09:01:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WyAAFavk0sQ/biden-admin-afghanistan-coronavirus-hurricane-ida"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-afghanistan-coronavirus-hurricane-ida.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-afghanistan-coronavirus-hurricane-ida.amp"
+  - title: "Biden doesn't deny report of US handing over names of Americans to Taliban: 'There may have been'"
+    excerpt: "President Biden did not deny a report circulating Thursday that officials in his administration had provided names of Americans in Afghanistan to the Taliban in order to help usher them safely to the airport."
+    publishedDateTime: 2021-08-26T22:10:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OK6k2tKrGqA/biden-doesnt-deny-report-of-u-s-handing-over-names-of-americans-to-taliban-theyre-may-have-been"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-doesnt-deny-report-of-u-s-handing-over-names-of-americans-to-taliban-theyre-may-have-been.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doesnt-deny-report-of-u-s-handing-over-names-of-americans-to-taliban-theyre-may-have-been.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 162
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1b0c86a-6fc8-43c7-b8ce-85ec8552cf21/f5772b09-1e8d-46f9-89a1-7ba64a760cca/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/36970f94-cdd7-4d94-95be-ecb45dc8e5c4/22c1fa4f-9b06-4657-bd69-c02e796da689/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "FLASHBACK, October 2001: Joe Biden Says Afghanistan War Will Not \"Become A Swamp\" Like Vietnam"
-    excerpt: "NBC's Steve Kornacki unearthed footage of then-Senator Joe Biden speaking in favor of the October 2001 invasion of Afghanistan during an interview with Chris Matthews, arguing why it will not become a long-term \"swamp\" commitment like the Vietnam War."
-    publishedDateTime: 2021-08-31T21:52:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/08/31/flashback_2001_joe_biden_says_afghanistan_war_will_not_become_a_swamp_like_vietnam.html"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/08/31/flashback_2001_joe_biden_says_afghanistan_war_will_not_become_a_swamp_like_vietnam.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/08/31/flashback_2001_joe_biden_says_afghanistan_war_will_not_become_a_swamp_like_vietnam.amp.html"
+  - title: "McCarthy says Biden is leaving US hostages for the Taliban: 'He turned his back on our own citizens'"
+    excerpt: "House Minority Leader Kevin McCarthy blasted President Biden for sticking to an Aug. 31 withdrawal deadline from Afghanistan and said \"thousands of Americans\" could be left stranded in the Taliban-controlled country as a result."
+    publishedDateTime: 2021-08-25T17:36:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qLIkUSPuEo4/mccarthy-biden-hostages-taliban"
+    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-biden-hostages-taliban.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-biden-hostages-taliban.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 73
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
     images:
-      - url: "https://amp.spot.im/loader.png"
-        width: 375
-        height: 815
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
+  - title: "Tom Cotton: Biden kept promise to Taliban, not Americans"
+    excerpt: "President Biden appears to have broken his promise to stay in Afghanistan until every American is evacuated. Marine Corps Gen. Kenneth F. McKenzie Jr. announced Monday evening that the last of the U.S."
+    publishedDateTime: 2021-08-31T08:11:00Z
+    webUrl: "https://www.foxnews.com/media/tom-cotton-biden-kept-promise-to-taliban-not-americans"
+    ampWebUrl: "https://www.foxnews.com/media/tom-cotton-biden-kept-promise-to-taliban-not-americans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tom-cotton-biden-kept-promise-to-taliban-not-americans.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0d65ccbd-a41f-4591-b906-397b9ae77004/e22f835a-05e3-479d-a9a9-8be130c445c3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Top Senate Democrat swipes at Biden: ‘Can’t trust the Taliban’"
+    excerpt: "A top Senate Democrat signaled that in light of explosion attacks in Kabul that killed at least 11 U.S. Marines and a Navy medic, patience with President Joe Biden’s Afghanistan evacuation strategy is wearing thin."
+    publishedDateTime: 2021-08-26T21:27:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/top-senate-democrat-swipes-biden-cant-trust-taliban"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/top-senate-democrat-swipes-biden-cant-trust-taliban?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/top-senate-democrat-swipes-biden-cant-trust-taliban?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
 
 secured: "r3PooeOcZaMdaLODIQ+T8ynrYnBAqR4lF8M1arnIwcN/yenquLtZ+Ff5mHtl8uqUTWp09kExj0HEpzYrlmDEIj20EG/Ee0h6/N+Cz39e8KNldrvuxCdGVb+4WidFL6aI/tOzuzhMyBCovhAYJlNnPOOVfd3YKb7p2dc0tuNtL+TshY8uKkmlM2axVeRqkCE/nWO4AM9dEDcd7UbExPi81/YYSgJlqlvRjLIlgOmyIhj0fV5paen3DLT5RECbVZ2/t8aqpDI/WYUJAExVl7vh9BlMp9HlooyhrlFhO58qONbG+y5Csx52TFYjJ0GCkRqvJNZJ2HkjBx6MmWZsZohPubW3US8CL9Zn8Ej9Q91elhI=;TDS4/3eue840lmaBCU1daA=="
 ---

@@ -191,7 +191,16 @@ related:
         width: 481
         height: 355
         isCached: true
+  - title: "Biden to survey Ida’s storm damage in Louisiana on Friday"
+    excerpt: "President Joe Biden will visit Louisiana on Friday to survey the aftermath of Hurricane Ida and speak with local and state leaders"
+    publishedDateTime: 2021-09-02T07:48:00Z
+    webUrl: "https://lasvegassun.com/news/2021/sep/02/biden-to-survey-idas-storm-damage-in-louisiana-on/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 35
 
-secured: "6UK6sdcc9UMHpIfaF4GHLI5vtXkabCZzkAf99QxAoH3esNJXHU0USBiU+yNqQnsdKupKO8AVAhLv3ItPnXkdnI8rLLUUfZ0zWi+FXfftNKb5hG+t3DdOOAO8sbfO57pwyElohUSinjJyc05sLmd2lJ0guIEIrSCFYx9xKlbHBRWm/dLx0zfemGu+Aj/G43DiQR8DT1Htuk9UNJ9Df7xZVUAAjO52npqyTIxN/l9SVng1ySk8DXY8LGehtoLL8gLjv5Tq4g38UyDZmBlBjSTap/OUmF4x6OAzCj/ZS/USLqplneJxtXAgM22/hk+jm4zphRD6+pruWfHzvRAlHWCV17EUAowHIO0UCq/Dc6UjyCU=;c7+7aEe+L08TD3UktKOgnQ=="
+secured: "YXljDy9QOxRNMKlVLBlg8lsnU45NE7LZ3nPE3pQwSTskxIVy3hzFCw0O5F8G1imX+0NKV50OX3fnO45g8RMbdMN/REzq1v1//DasNJyCBQXHxfTXzQmBQ3oF5znZsAhFpqNHXyHu96FiC0mOq9QvSFfVUEtWTjBVvrz7HmiJJfRTl+5cGki2Mix0Zid+NnbLulFcEg770i9eQJ0m5MiEX/NubufwAxE5Xi8rNtK6ZGAPL0s+/rV7BsqDYMuziTgqvUT1I6bkGs8eYg7+f10CcJrrNwwWWSWWj1iuE15zycIdwhYKPFZlxqPuRMUqa7gWf8qVHWj6xNWA1A43FPan0lW9CMF81tuProL0SEOHdNdVggVNL8MSCZaj1B5R4JhJWIU0BQpHwffxQmXW58Zp3II8HjVd31jD9zJhWTeUtiR0SlnOq1moUjrveOQucSeZvHLrrF7JoAlOPmw4NNXEn/KA55z0+Ay5jJd0QDuWEG+NEFMWvD9kiY+9Gpj2zA1uM2EmJADfa6jlAJZMgSsi9Q==;G0EdRSQhhxSVkPimbd6+ew=="
 ---
 

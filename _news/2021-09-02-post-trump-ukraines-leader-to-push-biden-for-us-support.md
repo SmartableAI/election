@@ -1,30 +1,24 @@
 ---
 category: news
-title: "Post-Trump, Ukraine's leader to push Biden for US support"
-excerpt: "The Ukrainian leader who found himself ensnarled in Donald Trump’s first impeachment finally gets his long-sought Oval Office meeting Wednesday with a new U.S. president, seeking increased military aid and backing for his country’s bid for NATO membership."
-publishedDateTime: 2021-09-01T21:58:00Z
-originalUrl: "https://www.lmtonline.com/news/article/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
-webUrl: "https://www.lmtonline.com/news/article/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
-ampWebUrl: "https://www.lmtonline.com/news/amp/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
-cdnAmpWebUrl: "https://www-lmtonline-com.cdn.ampproject.org/c/s/www.lmtonline.com/news/amp/Post-Trump-Ukraine-s-leader-to-push-Biden-for-US-16427029.php"
+title: "Post-Trump, Ukraine’s leader to push Biden for US support"
+excerpt: "The Ukrainian leader who found himself ensnarled in Donald Trump’s first impeachment finally gets his long-sought Oval Office meeting with a new U.S. president."
+publishedDateTime: 2021-09-02T01:43:00Z
+originalUrl: "https://www.kentucky.com/news/business/article253909378.html"
+webUrl: "https://www.kentucky.com/news/business/article253909378.html"
+ampWebUrl: "https://amp.kentucky.com/news/business/article253909378.html"
+cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/article253909378.html"
 type: article
-quality: 90
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Laredo Morning Times
-  domain: lmtonline.com
+  name: Lexington Herald Leader
+  domain: kentucky.com
 
 topics:
   - Election
-  - Joe Biden
-
-images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
-    isCached: true
+  - Donald Trump
 
 related:
   - title: "Joe Biden raises Trump refugee cap after backlash"
@@ -2914,6 +2908,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "q/29IO0X7QPJM4SPwR2Y9BBfN7IyZzf9xhH9T7hQBS8bDDZL+I1fmSTVsluJuEQ4+A4KJX69Xh+OBkgkXeajvbHRBbOwOWDjY4bwGKkyFHhhBx+gT9nFikFGkluIQmNK4aNm3tEc1M8koSxBwxWXXRNP+ND1i3B7/PIU2+ovx7OFKKDaMZ6Ygzns5hlNhF2UUQKzMwU3tjv1QgDa7Ch3YtXVkmwlOuH1g0tHhn+MDdA425hq/KroQ2/mtrkroz6st/18VNWuHIMktv+LH3HB1JtJYa5M+1aNd0UyIbSnPtgUFD0XVo2ZZbZ0nAJSg6FpZcKGldWVpD5DWeuYaXRlLifPCcD6Pv72j0rykMPI1FE=;r2g9uVGucAtFHelR1Y0LQQ=="
+secured: "eASCmP7rvIBc9t8WWP7VAJcP9tpWpYBGGWRTxT6knuzbiJVAQCIW/nS+2A4R9mHsezxBwcyToFI6fteiVg5fUjCNBxoK8jqF36g8CpwSfK3V+k4cBJlGAj4Imy/G6Bx5I4DVW9CZIasVPVKv8EG6hTUWQBsleZCtaTcWRmscaoJKa8AaC6ghkXK87yy6T/vQvWLrHqdYq8AYMkoPEVUMdOXuvBq2w4LPw9Ab45oGol4Kepp2qGNGnIw15fMptw3lYN2R414E61mR14BgVnlLG2oJXPY9idVyszuXnqN5cobPLuZKIirOMPma/Vsw6PHfdYuYtUftmI6zrhDoGhu3tKQt+2d1TnPL/50gt8KzgAsO2nwxqJBQVyDOQL1zONi66ocTjSRZ6KGy1skjE+D/RFqt6LHzuGlqsjJCWKMSrvMllUXVs3oQl0r8dSUGARr+hDM0j/xZJB7Co1Lel9bUVxL7jDd69O9esVcVRM9oSAF1ZUO0U80ypmNKJaK3RzqlWaM/QTYdCWDnCypN6CIX2w==;bulC79aM2uJa2K3ixv7PSw=="
 ---
 

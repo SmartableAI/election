@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-13-kamala-harris-greg-abbott-react-to-texas-democrats-leaving-state-to-block-gop-elections-bill.md",
+      "title": "Kamala Harris, Greg Abbott react to Texas Democrats leaving state to block GOP elections bill",
+      "excerpt": "Texas House Democrats were the subject of both praise and scorn for their latest effort to block the passage of a GOP voting bill.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/state/2021/07/12/texas-democrats-walk-out-kamala-harris-greg-abbott-react/7943614002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/state/2021/07/12/texas-democrats-walk-out-kamala-harris-greg-abbott-react/7943614002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 649,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/03/24/NAAS/21957ecf-c002-4467-bee5-fe39bd1df7e0-KamalaHarris.jpg?auto=webp&crop=5627,3166,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7943614002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7943614002",
+      "publishedDateTime": "2021-07-12T16:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-07-12-vp-kamala-harris-to-help-raise-funds-for-gov-whitmer-during-detroit-visit.md",
       "title": "VP Kamala Harris to help raise funds for Gov. Whitmer during Detroit visit",
       "excerpt": "Vice President Harris is scheduled to fly to Detroit late Monday morning and depart shortly after a series of afternoon events at the TCF Center.",
@@ -1590,54 +1642,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-vp-kamala-harris-announces-small-business-program-we-must-re-imagine-our-economy.md",
-      "title": "VP Kamala Harris Announces Small Business Program: \"We Must Re-Imagine Our Economy\"",
-      "excerpt": "AP: Vice President Kamala Harris announced Tuesday that the Biden administration is distributing $1.25 billion to hundreds of community lenders in an effort to help boost the economic recovery from the coronavirus for small businesses and disadvantaged business owners.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/06/15/vp_kamala_harris_announces_small_business_program_we_must_re-imagine_our_economy.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/15/vp_kamala_harris_announces_small_business_program_we_must_re-imagine_our_economy.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/54/545821.jpg",
-          "width": 990,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/06/15/vp_kamala_harris_announces_small_business_program_we_must_re-imagine_our_economy.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/15/vp_kamala_harris_announces_small_business_program_we_must_re-imagine_our_economy.amp.html",
-      "publishedDateTime": "2021-06-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
       ]
     }
   ],

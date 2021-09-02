@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dallasnews.com/news/politics/2021/08/25/dallas-attorney-
 cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/08/25/dallas-attorney-sidney-powell-among-lawyers-allied-with-trump-penalized-over-michigan-lawsuit/?outputType=amp"
 type: article
 quality: 61
-heat: 61
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,56 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Michigan man held in bomb hoax at Trump hotel in Las Vegas"
+    excerpt: "An arrest report says a 44-year-old Michigan man accused of creating a bomb hoax at the Trump International Hotel in Las Vegas told investigators he wanted to send a message that former Republican Pre"
+    publishedDateTime: 2021-09-02T00:24:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/michigan-man-held-bomb-hoax-trump-hotel-las-79778041"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/michigan-man-held-bomb-hoax-trump-hotel-las-79778041"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/michigan-man-held-bomb-hoax-trump-hotel-las-79778041"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/210901_vod_onlocationPM_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Lawyers allied with Trump penalized over Michigan lawsuit | Charlotte Observer"
+    excerpt: "Nine lawyers allied with former President Donald Trump face financial penalties and other sanctions in Michigan."
+    publishedDateTime: 2021-08-25T23:40:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article253747698.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article253747698.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article253747698.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 71
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/c4cef625-20b7-4900-8d0e-b7aea9ac60c8/04971208-0b7e-48a6-9be9-aacd9ccfcccd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "U.S. House seeks communications between Trump White House, Michigan Republicans"
+    excerpt: "The request from the U.S. House could shine new light on Trump's efforts to challenge the results in Michigan and ho GOP leaders responded."
+    publishedDateTime: 2021-08-27T14:59:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2021/08/27/u-s-house-probes-trump-officials-exchanges-michigan-republicans/5615642001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5615642001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5615642001"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 71
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/20/PDTN/8140bfd9-923a-4361-ba55-472e22f7b483-RTX8AUU7.JPG?auto=webp&crop=2529,1423,x0,y122&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "KFFTf2rspWOkq/M//UuTU3KB8F74BtoROeQ2pukAi7WWXN8rHtDNAS5IaI7O0EDT9VGA+/O2UFdLtQUmaphtoehxO7oZIInBb8qdVZYr1HbQ1YjYtVKfVoEcvmUcQ9I/CzjZuAelYZACAzSbHNJA8bbgQMebtyp49AlyvvXUTDtIHZB2dmH9A5qgrCDiYCGETqDUPQbpfuVGCkvWvBIOudWxh2U70M6wYfkht59ELuWNfZbv+oVetNlulU5HhQsx1yTHQCZEeblKzf0YqeJgHSFKzkumINYnLzLa+W5EREu1nusvaIy0Dw9ZXDmwaOk8gkzNvJQI6ObghtcJx28ICHcYA5mCeYaYJodU0tYU8rw=;s7eNEQiTQMl5FLZquyOO5w=="
 ---

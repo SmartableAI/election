@@ -436,13 +436,13 @@ related:
   - title: "Goodbye, Afghanistan: From George W. Bush to Joe Biden, no celebration as America's longest war ends"
     excerpt: "Twenty years after U.S. bombers arrived, the last U.S. cargo plane departs a war that has left its mark, and its sorrow, on four presidents."
     publishedDateTime: 2021-08-31T00:38:00Z
-    webUrl: "https://www.tennessean.com/story/news/politics/2021/08/30/afghanistan-war-ends-america-legacy/5598968001/"
-    ampWebUrl: "https://amp.tennessean.com/amp/5598968001"
-    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/5598968001"
+    webUrl: "https://www.cincinnati.com/story/news/politics/2021/08/30/afghanistan-war-ends-america-legacy/5598968001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/5598968001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5598968001"
     type: article
     provider:
-      name: Tennessean
-      domain: tennessean.com
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
     quality: 60
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/08/23/USAT/a493e6c0-df75-45c8-9fcb-eaee55fd9e5f-AP_APTOPIX_Afghanistan_2.jpg?auto=webp&crop=6009,3381,x26,y0&format=pjpg&width=1200"

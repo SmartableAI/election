@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-ready-sell-23t-i
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-ready-sell-23t-infrastructure-plan-louisiana-77526895"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -195,6 +195,15 @@ related:
         width: 481
         height: 355
         isCached: true
+  - title: "Biden to survey Ida’s storm damage in Louisiana on Friday"
+    excerpt: "President Joe Biden will visit Louisiana on Friday to survey the aftermath of Hurricane Ida and speak with local and state leaders"
+    publishedDateTime: 2021-09-02T07:48:00Z
+    webUrl: "https://lasvegassun.com/news/2021/sep/02/biden-to-survey-idas-storm-damage-in-louisiana-on/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 35
 
 secured: "vadhZZQCr7KICgnUfS8k1Qujc6ElfXP83V9kXEaE5eMtfJV8xHwP3DgvNPn7difAfEIgJ0P+PctVWRdfewj4hQQ3UATvovq5Ywhk5KjjAJ4jkCRAaUD/bj0I4FNgg8QT9eytQFj23n0FPrEsyKzVSVEnZwPi4fZ3iXMefk4oAoNlULqbGdy0vLKi4IDdg4vXcGUzaDq0n5MZepaxOxq0YyQQjVtE8ophPBs2MKLFEq99xJeEufRj7Xea+JQLFGWN1hgHy6/TN8Pr4j0v9TYGZfN0xX4oG7vQ0zF25D1q5h5hU+p9JHTpnp/89FfboqIZ3lNECD3c35YvT1G87dn3W78GLOaM19vuC/Ahz8s4Mhtyqt8nHPnMggZbGRqWs/tq+fPyPPIOI8x1HD5d0i2gBbgx/WT/FfPA7MDoqTB60PZH8yfcmpANhlMPReYJEZlXj3Lf7yazJqG0Us3albKv3dfOWsGmlmexWZemwskquf5g2mYMyacKZ7uBIHcuZa2l4f4bNS9v1AGZesIgsaGv+g==;BaE2cBQE+6IJbRj/GuwyrA=="
 ---

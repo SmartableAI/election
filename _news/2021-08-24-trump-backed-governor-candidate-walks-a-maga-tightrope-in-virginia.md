@@ -25,35 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Carlyle Alum’s Governor Run Mixes Trump Backing, MAGA-Lite Style"
-    excerpt: "The crowd of about 300 Republican stalwarts in Norfolk, Virginia, included those wearing the requisite red baseball caps."
-    publishedDateTime: 2021-08-23T06:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-08-23/carlyle-alum-s-governor-run-mixes-trump-backing-maga-lite-style"
+  - title: "Trump fans election fraud theme as Virginia governor candidate Youngkin walks tightrope"
+    excerpt: "Former president Donald Trump on Wednesday warned that Democrats might try to steal the Virginia governor's race, pegging his prediction on baseless claims of 2020 election fraud that Republican candidate Glenn Youngkin has flirted with but not fully embraced."
+    publishedDateTime: 2021-09-01T22:52:00Z
+    webUrl: "https://www.washingtonpost.com/local/virginia-politics/trump-virginia-governor-youngkin-election/2021/09/01/c8583584-0b3b-11ec-aea1-42a8138f132a_story.html"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 105
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iD7mjU39SxqU/v1/1200x800.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X2IE7EQLOYI6ZLVBIKUBHDYTFI.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "There’s a little Donald Trump in Erin O’Toole"
-    excerpt: "Flags, tweets, opposing vaccination for all, personal political hatred, that’s all part of the American catastrophe. But we do things differently in"
-    publishedDateTime: 2021-08-28T11:26:00Z
-    webUrl: "https://www.thestar.com/politics/political-opinion/2021/08/28/theres-a-little-donald-trump-in-erin-otoole.html"
-    ampWebUrl: "https://www.thestar.com/amp/politics/political-opinion/2021/08/28/theres-a-little-donald-trump-in-erin-otoole.html"
-    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/politics/political-opinion/2021/08/28/theres-a-little-donald-trump-in-erin-otoole.html"
+  - title: "US Sen. Mike Rounds isn't convinced Donald Trump would win GOP nomination in 2024 election"
+    excerpt: "South Dakota U.S. Sen. Mike Rounds, in discussion with Sioux Falls Rotarians, speculated what might lie ahead for the Republican Party for 2024."
+    publishedDateTime: 2021-08-30T19:39:00Z
+    webUrl: "https://www.argusleader.com/story/news/2021/08/30/mike-rounds-2024-election-donald-trump-kristi-noem-republican-nomination-speculation/5653852001/"
+    ampWebUrl: "https://amp.argusleader.com/amp/5653852001"
+    cdnAmpWebUrl: "https://amp-argusleader-com.cdn.ampproject.org/c/s/amp.argusleader.com/amp/5653852001"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com
-    quality: 75
+      name: Argus Leader
+      domain: argusleader.com
+    quality: 80
     images:
-      - url: "https://images.thestar.com/soahNZMLOq0N9TKI2BA5jCHk9f0=/1200x925/smart/filters:cb(1630102320482)/https://www.thestar.com/content/dam/thestar/politics/political-opinion/2021/08/28/theres-a-little-donald-trump-in-erin-otoole/half_mast.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/08/20/PSIF/c96ac377-3e03-4c86-a475-a751d7dde2e0-Rounds_ChamberOfCommerce_003.JPG?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200"
         width: 1200
-        height: 925
+        height: 675
         isCached: true
 
 secured: "TSNGyqhA5PG8Qkn/m4H+th56HzBmzbCIXCVqilW0CP3taov6mVqtrppFOhxWC/o/tV3p8QYx6g3E7g8mh8gvLCr2SMT17K7hP9JYS5Mw69lKySRMWSYTZR97x7c/mRskTwEv7G9TBUJDk8B+bymCwfaNZ9+WXCkCHQyOGn6AD25JVn5cZBm7w+aIj1ANHk9kHkOwY9P2upj8tSIpIGKT1X2MBKoA6r4v6YEZ5rogbIIOLG8VYK4SIdpkAF1b8bHSvQl19kdGUXNqYmJ8dKbr+I6ZakJDYok8jIi1vNacioepJoUXAN/m84Zwg/PgS95GzlwSz0rwCcsPrSSzeFjak0O7GL0aiFSAcF2MYd5g+58=;Yo+4Pi+mY3vaBNGl/Ol23w=="

@@ -2,6 +2,263 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-26-video-shows-man-harassing-michelle-ugenti-rita-backstage-after-trump-supporters-booed-her.md",
+      "title": "Video Shows Man 'Harassing' Michelle Ugenti-Rita Backstage After Trump Supporters Booed Her",
+      "excerpt": "Rita, a Republican running for Arizona secretary of state, why she \"killed Senator Kelly Townsend's election integrity bills in the Senate\" in the video.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/video-shows-man-harassing-michelle-ugenti-rita-backstage-after-trump-supporters-booed-her-1612894",
+      "originalUrl": "https://www.newsweek.com/video-shows-man-harassing-michelle-ugenti-rita-backstage-after-trump-supporters-booed-her-1612894",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1854525/rally-protect-our-elections.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/video-shows-man-harassing-michelle-ugenti-rita-backstage-after-trump-supporters-booed-her-1612894?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/video-shows-man-harassing-michelle-ugenti-rita-backstage-after-trump-supporters-booed-her-1612894?amp=1",
+      "publishedDateTime": "2021-07-25T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-mark-warner-inflation-today-is-result-of-35-trillion-in-covid-spending-in-2020-under-trump.md",
+      "title": "Mark Warner: Inflation Today Is Result Of $3.5 Trillion In COVID Spending In 2020 Under Trump",
+      "excerpt": "Democratic Sen. Mark Warner told \"FOX News Sunday\" that the expanding \"human infrastructure\" bill will not contribute as much to inflation as did $5 Trillion in COVID spending since last year, \"$3.5 trillion of that under President Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/07/25/mark_warner_inflation_today_is_result_of_35_trillion_in_covid_spending_in_2020_under_trump.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/07/25/mark_warner_inflation_today_is_result_of_35_trillion_in_covid_spending_in_2020_under_trump.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/54/548989.jpg",
+          "width": 750,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/07/25/mark_warner_inflation_today_is_result_of_35_trillion_in_covid_spending_in_2020_under_trump.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/25/mark_warner_inflation_today_is_result_of_35_trillion_in_covid_spending_in_2020_under_trump.amp.html",
+      "publishedDateTime": "2021-07-25T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-25-donald-trump-rips-mike-pence-for-not-having-courage-on-16-to-reject-election-results.md",
+      "title": "Donald Trump Rips Mike Pence for Not Having 'Courage' on 1/6 to Reject Election Results",
+      "excerpt": "\"I only wish that my friend, Mike Pence, had that additional courage to send the results back to the legislatures,\" Trump said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-rips-mike-pence-not-having-courage-1-6-reject-election-results-1612836",
+      "originalUrl": "https://www.newsweek.com/donald-trump-rips-mike-pence-not-having-courage-1-6-reject-election-results-1612836",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 377,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1854447/donald-trump-speaks-phoenix.jpg",
+          "width": 2500,
+          "height": 1665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-rips-mike-pence-not-having-courage-1-6-reject-election-results-1612836?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-rips-mike-pence-not-having-courage-1-6-reject-election-results-1612836?amp=1",
+      "publishedDateTime": "2021-07-25T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-25-i-alone-can-fix-it-carol-leonnig-and-philip-rucker-on-their-trump-bestseller.md",
+      "title": "I Alone Can Fix It: Carol Leonnig and Philip Rucker on their Trump bestseller",
+      "excerpt": "The Washington Post reporters have unleashed a second startling story of incompetence and malevolence in the White House",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/books/2021/jul/25/i-alone-can-fix-it-carol-leonnig-philip-rucker-trump-book-bestseller",
+      "originalUrl": "https://www.theguardian.com/books/2021/jul/25/i-alone-can-fix-it-carol-leonnig-philip-rucker-trump-book-bestseller",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/8cc42eb3c56aa9ffb79ab92e2f7e56f65ffdea68/0_0_4000_2399/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e5217cfdf1e9c460dce0e880b25dcd4e",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/books/2021/jul/25/i-alone-can-fix-it-carol-leonnig-philip-rucker-trump-book-bestseller",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2021/jul/25/i-alone-can-fix-it-carol-leonnig-philip-rucker-trump-book-bestseller",
+      "publishedDateTime": "2021-07-24T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-25-ap-fact-check-trump-is-relentless-in-election-fabrications.md",
+      "title": "AP FACT CHECK: Trump is relentless in election fabrications",
+      "excerpt": "Former President Donald Trump is telling some thoroughly debunked stories as he presses his relentless effort to undermine the legitimacy of his election defeat to President Joe Biden",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79041392",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79041392",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 860,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_ed96847b6f054e7392989f75fa9f50f7_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79041392",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79041392",
+      "publishedDateTime": "2021-07-24T21:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-24-arizona-secretary-of-state-tells-trump-before-election-lie-rally-get-over-it.md",
       "title": "Arizona secretary of state tells Trump before election lie rally: get over it",
       "excerpt": "Democrat Katie Hobbs says ‘this is nothing more than being a sore loser’ as ex-president heads to Phoenix for event",
@@ -1269,276 +1526,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-attorney-general-merrick-garland-reverses-trump-era-immigration-policy.md",
-      "title": "Attorney General Merrick Garland reverses Trump-era immigration policy",
-      "excerpt": "Attorney General Merrick Garland reversed a Trump-era immigration policy that barred immigration judges from pausing cases they deem low-priority. The move is expected to help the justice department get through the backlog of 1.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/attorney-general-merrick-garland-reverses-trump-era-immigration-policy-116887621922",
-      "originalUrl": "https://www.nbcnews.com/now/video/attorney-general-merrick-garland-reverses-trump-era-immigration-policy-116887621922",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1626451088810_ott_now_garland_immigratioon_pause_210716_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo116887621922",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116887621922",
-      "publishedDateTime": "2021-07-16T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-disinformation-experts-doubt-authenticity-of-leaked-documents-describing-a-russian-plot-to-help-trump-in-2016.md",
-      "title": "Disinformation experts doubt authenticity of leaked documents describing a Russian plot to help Trump in 2016",
-      "excerpt": "Former US cyber security chief Chris Krebs warned that the papers obtained by the Guardian may themselves be part of a disinformation operation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/experts-doubt-leaked-docs-russia-plot-trump-2016-guardian-2021-7",
-      "originalUrl": "https://www.businessinsider.com/experts-doubt-leaked-docs-russia-plot-trump-2016-guardian-2021-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60f15504016a320018836920?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/experts-doubt-leaked-docs-russia-plot-trump-2016-guardian-2021-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/experts-doubt-leaked-docs-russia-plot-trump-2016-guardian-2021-7?amp",
-      "publishedDateTime": "2021-07-16T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-gen-milley-warned-trump-on-possible-iran-strikes-youre-gonna-have-a-f-king-war.md",
-      "title": "Gen. Milley warned Trump on possible Iran strikes: 'You're gonna have a f--king war'",
-      "excerpt": "Chairman of the Joint Chiefs Gen. Mark Milley Mark Milley Overnight Defense: Milley feared Trump coup, book says \\| Gillibrand expects fall vote on sweeping military justice bill \\|",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/international/563338-gen-milley-warned-trump-on-possible-iran-strikes-youre-gonna-have-a-f",
-      "originalUrl": "https://thehill.com/policy/international/563338-gen-milley-warned-trump-on-possible-iran-strikes-youre-gonna-have-a-f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/milleymark_062321upi_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/international/563338-gen-milley-warned-trump-on-possible-iran-strikes-youre-gonna-have-a-f?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/international/563338-gen-milley-warned-trump-on-possible-iran-strikes-youre-gonna-have-a-f?amp",
-      "publishedDateTime": "2021-07-16T04:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-ticket-sales-are-moving-slowly-for-the-coming-trump-oreilly-stadium-tour.md",
-      "title": "Ticket sales are moving slowly for the coming Trump-O’Reilly stadium tour",
-      "excerpt": "Time remains to sell out the stadiums. But those familiar with the current sales pace say it lags behind other acts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/07/16/trump-oreilly-tickets-499795",
-      "originalUrl": "https://www.politico.com/news/2021/07/16/trump-oreilly-tickets-499795",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/a3/98/4a7696cc4883b5ff031956fc291d/7-15-21-donaldtrump-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/07/16/trump-oreilly-tickets-499795",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/16/trump-oreilly-tickets-499795",
-      "publishedDateTime": "2021-07-16T01:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-inside-donald-trump-jrs-97-million-florida-mansion-with-a-12-acre-backyard.md",
-      "title": "Inside Donald Trump Jr's $9.7 Million Florida Mansion With A 1.2 Acre Backyard",
-      "excerpt": "Donald Trump Jr. and his girlfriend, Kimberly Guilfoyle, bought a new $9.7 million house in Jupiter, Florida that has a massive 1.2-acre backyard with a swimming pool.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/inside-donald-trump-jrs-97-million-florida-mansion-12-acre-backyard-3253012",
-      "originalUrl": "https://www.ibtimes.com/inside-donald-trump-jrs-97-million-florida-mansion-12-acre-backyard-3253012",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/04/donald-trump-jr-kimberly-guilfoyle.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/inside-donald-trump-jrs-97-million-florida-mansion-12-acre-backyard-3253012?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/inside-donald-trump-jrs-97-million-florida-mansion-12-acre-backyard-3253012?amp=1",
-      "publishedDateTime": "2021-07-15T22:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

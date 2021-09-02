@@ -3,18 +3,22 @@ category: news
 title: "Fact check: Quote about Afghanistan, Democrats in Washington falsely attributed to Donald Trump"
 excerpt: "Donald Trump did not say the situation in Afghanistan is a distraction from the Democrats in Washington. The quote is being falsely attributed to him."
 publishedDateTime: 2021-08-27T02:32:00Z
-originalUrl: "https://www.jsonline.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
-webUrl: "https://www.jsonline.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
-ampWebUrl: "https://amp.jsonline.com/amp/5586860001"
-cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/5586860001"
+originalUrl: "https://www.usatoday.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
+webUrl: "https://www.usatoday.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
+ampWebUrl: "https://amp.usatoday.com/amp/5586860001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5586860001"
 type: article
-quality: 63
+quality: 113
 heat: -1
 published: false
 
 provider:
-  name: Milwaukee Journal Sentinel
-  domain: jsonline.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -232,6 +236,6 @@ related:
         height: 854
         isCached: true
 
-secured: "p4sk2h+pF8tX+uul8MiBzooPAxW80qhybKYuI3uO7+BE0QTBItemlJD2MD4w6qHLDauT3M3pOl0/ZDmBTW3n6JvTfyIhKdm1VlQerP2YqmvAzPdGIMxJLIfXpclA6vXpI8t7ijjrpI6h9NPSqqpTpsPQA21gosccho9eu3ngJzuQo4k6MLLQusWyhAZHCa9g+YkUt0i3eOo3bO2onQpEqgfKlNMk/oNTBZDDOKPHPkjkj6+HLmJBrsJd9yIyQ5XVTusduuvadUbJ/xchb8VdjJ0KWzhqHUwrXJUGLLu0YeQYgjXHsA79VztOyPN4ZEqDfD/ak8xsk3yIxhCmYOh4HlOQ4CkrC3snekZb0h2MbZ0=;/ZWHWT0tqpUqs0t3nfotCA=="
+secured: "TUCEKl09V5wkqdguAEBgQjXoHgzA9aa96ziDV8GeMRHMU/T5G8mJhmUeaB1g4AnJWGZrPDk/y0t+m8umJnJyRVV6ElddALRbego30CjSgqh+GEozxGc59Q3uxAcTRZ3yX3hInx343qx2VnFrnrrk/RJ9AxW3tONlxFWhyeoOm2EXooNWtWR4GVKR+Dk1fa/zQMGtgidpM7xC1eFYDU9t3wQC8xGLk+H9a8EnMklVvzRsWf95Kjo2+YoVI7ZWY4pezNU+JPLnWwomDNUHcw3bZifBp8xp6DSplGzMx7xQspt9ICYxLAaxQc1TZ0f/XUYJ/1OzFTlbl3t63sgDbFIQ3dWBr3tjhyGtqrui4Dz2nivO42rPdU/TbAZF6oAh7j3IjyWbZxGCPkP+UVMB2rYbvqO15jElVyqjhhtXbCoI1m8Gnw20lpVnkX8wB8R8FbmJcGYRTjyCSynq6MY2MAaBG7ErdpI1DwbYBXgcq/q6Cu1rSQGkhHEpUsySYKx65/Pc3aW9F5NF2NS51WDTC1YvnQ==;G+01en/GG23Chc/92nGDGw=="
 ---
 

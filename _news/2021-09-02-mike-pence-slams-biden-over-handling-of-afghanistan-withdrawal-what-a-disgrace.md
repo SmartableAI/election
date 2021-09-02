@@ -75,6 +75,22 @@ related:
         width: 625
         height: 415
         isCached: true
+  - title: "Fact check: Quote about Afghanistan, Democrats in Washington falsely attributed to Donald Trump"
+    excerpt: "Donald Trump did not say the situation in Afghanistan is a distraction from the Democrats in Washington. The quote is being falsely attributed to him."
+    publishedDateTime: 2021-08-27T02:32:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5586860001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5586860001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/22/USAT/9aef22b6-661a-487a-9438-89b679f37137-GTY_1335520712.jpg?auto=webp&crop=3688,2075,x0,y187&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Afghanistan live updates: Biden says another Kabul airport attack 'highly likely'; Pentagon says strike killed two in ISIS-K"
     excerpt: "The Pentagon said a Friday airstrike killed two and wounded one ISIS-K planners and facilitators. The mission came a day after a Kabul airport bombing."
     publishedDateTime: 2021-08-28T23:12:00Z
@@ -171,22 +187,6 @@ related:
         width: 590
         height: 350
         isCached: true
-  - title: "Fact check: Quote about Afghanistan, Democrats in Washington falsely attributed to Donald Trump"
-    excerpt: "Donald Trump did not say the situation in Afghanistan is a distraction from the Democrats in Washington. The quote is being falsely attributed to him."
-    publishedDateTime: 2021-08-27T02:32:00Z
-    webUrl: "https://www.jsonline.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
-    ampWebUrl: "https://amp.jsonline.com/amp/5586860001"
-    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/5586860001"
-    type: article
-    provider:
-      name: Milwaukee Journal Sentinel
-      domain: jsonline.com
-    quality: 63
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/08/22/USAT/9aef22b6-661a-487a-9438-89b679f37137-GTY_1335520712.jpg?auto=webp&crop=3688,2075,x0,y187&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Eamonn Holmes lays into Joe Biden and ‘the Yanks’ in furious This Morning rant over Afghanistan retreat"
     excerpt: "EAMONN Holmes has let rip at US President Joe Biden while discussing the country’s retreat from Afghanistan. The telly presenter, 61, laid into President Biden and “the Yanks”"
     publishedDateTime: 2021-08-30T20:51:00Z
@@ -232,6 +232,6 @@ related:
         height: 854
         isCached: true
 
-secured: "lBuhT+UYMhBnCTqjKrEr2FP+Vju1X7XRT/JVuVG99ELsxkm8ZhHbt4nuBRQlsSx2kmpspFkSwDypXIDR94YH42U7Q0vCSL/kmw1fuoBOvg38XNrUWo+dRtEeXCqnqpsR4pSyXUt5ugGVIYsD2sHusOQOZmLtOtWs6ePsVKnqI4h2KcyKNLBbzUjT+CsSZgbSqy1rGkpphiZ+2OSg0qImsKUMvIB+lAfikZ6s06RlcBHcGcR09VgmmxXIu9UDnceBZ0aI9LABTklpcqsA7IF9mWw+8OAaj+0Y4aZ4GVvSJ8N0wdhOQprERFZRvMI57Br1R0rpGxlT4Ley0ujEVrD5QC/sva+lzb7HFCudyytkKHA=;jNM7RCzvFQdA6+We+ncoyw=="
+secured: "u7wY5JRkWYNvrTxwGjujo5SEPnNVjr2aiJs/gO6ZQCLMpTcWL2Pa5zMp4ZcyXSAxpz2C8+x5AmoXS+k4LbcRy+c53ljqP2+NriHya82F39WhGmQYbrPOE22WFm0ojtS5bUk4tbl1g+GZfP/iu0IVmcplOmitYEXdK1IsBgzrUVdU+sV+De6Mfoz8IV3vPs2BpE8f4ggbnu2Hj/kUGX0BfjFN6Sbu6EI7opyDBRi0Jv/ZC0uHA3JxXhKapno6AAPMEEaT1rm5VNrQs6oGdKFGWkbjUFRG1nIBMeQ+CUejEsUIMB1gqCJpo7ulIfTyK7NWvqBExJmuNuu6lCcU1GbUq/0gvzJisaLbDALqeLM/HJKsHhl1QC3uP1JbXcKATN1VAEj+pHBrb80MBpjENnMWg59kqWuLvv7nK2aKc4EK/fDtkQhyjKNH3k73s6QP1eBHS9nx1SJMWEJ9E163VkdIqxHPpD/HCHUTDmyQI66O8UAQMti6PllqJPvT8TxVxCCNqgteFPaV1A0n57OXR5LvHg==;07hFAj+xg3Mj5kV6dYfjxw=="
 ---
 

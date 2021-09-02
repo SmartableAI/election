@@ -31,113 +31,97 @@ images:
     isCached: true
 
 related:
-  - title: "Texas, Missouri sue Biden administration over scrapping of 'Remain-in-Mexico' policy"
-    excerpt: "Texas and Missouri on Tuesday sued the Biden administration for its scrapping of the Migrant Protection Protocols (MPP) – demanding the program, which kept migrants in Mexico while their immigration hearings played out, be restored."
-    publishedDateTime: 2021-04-13T17:08:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ywynGyngX-A/texas-missouri-sue-biden-administration-remain-in-mexico-policy"
-    ampWebUrl: "https://www.foxnews.com/politics/texas-missouri-sue-biden-administration-remain-in-mexico-policy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-missouri-sue-biden-administration-remain-in-mexico-policy.amp"
+  - title: "Biden administration guidance limiting ICE arrests sees pushback from 16 states"
+    excerpt: "A coalition of 16 attorneys general is pushing back against \"interim guidance\" issued under President Biden’s administration which limits the number of deportations and immigration-related arrests by U.S. Immigration and Customs Enforcement (ICE)."
+    publishedDateTime: 2021-09-01T21:59:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wb_Ny-a1VNg/16-states-push-back-biden-administration-guidance-ice-arrests"
+    ampWebUrl: "https://www.foxnews.com/politics/16-states-push-back-biden-administration-guidance-ice-arrests.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/16-states-push-back-biden-administration-guidance-ice-arrests.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1d7193e5-ede5-4bf2-aa7b-dbd866fc1d66/a339ff07-8e85-4916-bbeb-616f413934b1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "DeSantis requests Biden administration stop resettling illegal immigrants in Florida"
+    excerpt: "Florida Gov. Ron DeSantis this week wrote to the Biden administration, asking it to stop resettling illegal immigrants in the state of Florida -- and to either deport them instead, or send them to a state that supports the \"flouting of our immigration laws.\""
+    publishedDateTime: 2021-08-28T23:44:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YUbsxcZSIJU/desantis-biden-administration-resettling-illegal-immigrants-florida"
+    ampWebUrl: "https://www.foxnews.com/politics/desantis-biden-administration-resettling-illegal-immigrants-florida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/desantis-biden-administration-resettling-illegal-immigrants-florida.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 168
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1eb67794-4d8f-4d9f-a776-7df7951f5ad9/12a23b16-a8f4-4a44-840c-9252568a16b4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Appeals court denies Biden administration's effort to delay 'Remain in Mexico' ruling"
-    excerpt: "A federal appeals court on Thursday ruled against the Biden administration’s efforts to delay implementation of an order that requires it to reinstate the Trump-era Migrant Protection Protocols (MPP) — yet another legal defeat for the Biden administration on immigration."
-    publishedDateTime: 2021-08-20T17:41:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CY2YvB26_Is/appeals-court-biden-delay-remain-in-mexico-ruling"
-    ampWebUrl: "https://www.foxnews.com/politics/appeals-court-biden-delay-remain-in-mexico-ruling.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/appeals-court-biden-delay-remain-in-mexico-ruling.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f834fb4-6e58-4b30-8966-90fdac014a42/bbbd9f69-99fc-4fd2-9528-9187d26b867d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2aceabfa-c574-4199-9cf5-c9d829f5f934/4c07d242-57e6-46a5-86cc-febae62f6953/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Texas, Louisiana sue Biden administration for ‘refusing’ to take criminal illegal immigrants"
-    excerpt: "Texas and Louisiana are suing the Department of Homeland Security for its alleged refusal to take criminal illegal immigrants into custody, after rules that narrowed enforcement priorities."
-    publishedDateTime: 2021-04-06T21:51:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/d25Twkn2otc/texas-louisiana-sue-biden-dhs-criminal-illegal-immigrants"
-    ampWebUrl: "https://www.foxnews.com/politics/texas-louisiana-sue-biden-dhs-criminal-illegal-immigrants.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-louisiana-sue-biden-dhs-criminal-illegal-immigrants.amp"
+  - title: "20 states sue Biden admin over guidance allowing biological males on girls’ sports teams"
+    excerpt: "Twenty states have filed a lawsuit against the Biden administration in an attempt to halt directives that extend federal sex discrimination protections to transgender people."
+    publishedDateTime: 2021-08-31T16:49:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cTAwnprt4WU/20-states-sue-biden-admin-biological-males-girls-sports-teams"
+    ampWebUrl: "https://www.foxnews.com/politics/20-states-sue-biden-admin-biological-males-girls-sports-teams.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/20-states-sue-biden-admin-biological-males-girls-sports-teams.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 166
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a48f6aaf-e0b0-49f9-92dd-87f61649de6c/d9464a8a-51b4-4d7c-a6a2-fa5d67add6d0/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Texas Gov. Abbott blames Biden as allegations emerge of sexual assault at child migrant facility"
-    excerpt: "Texas Republican Gov. Greg Abbott demanded that the White House close a San Antonio facility housing migrant children Wednesday following allegations that children there were being sexually assaulted."
-    publishedDateTime: 2021-04-07T23:42:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mAfpuB5dUAs/texas-gov-abbott-calls-to-end-san-antonio-migrant-children-housing-facility-reports-of-sexual-assault"
-    ampWebUrl: "https://www.foxnews.com/politics/texas-gov-abbott-calls-to-end-san-antonio-migrant-children-housing-facility-reports-of-sexual-assault.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-gov-abbott-calls-to-end-san-antonio-migrant-children-housing-facility-reports-of-sexual-assault.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3b978c8d-9f3c-4090-9f98-47b96bf530e4/ad051e58-195b-4dd6-9b8b-6aee53f1fdff/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Missouri AG 'optimistic' ahead of hearing challenging Biden reversal of 'Remain-in-Mexico' policy"
-    excerpt: "Missouri Attorney General Eric Schmitt says he is optimistic ahead of a key hearing in a case challenging the Biden administration’s reversal of the Trump-era \"Remain-in-Mexico\" policy."
-    publishedDateTime: 2021-07-22T13:44:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XsJug70mJXY/missouri-ag-challenging-biden-remain-in-mexico-policy"
-    ampWebUrl: "https://www.foxnews.com/politics/missouri-ag-challenging-biden-remain-in-mexico-policy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/missouri-ag-challenging-biden-remain-in-mexico-policy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab8f13f0-c783-431b-91c6-20face9ec06f/892bfeaf-771f-4286-8e33-bebcdae201c0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17d03a4d-b676-45f8-a470-769625091d70/1492c709-10eb-419f-8345-d50968bbe61c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "'Remain in Mexico' SCOTUS ruling: Texas AG Paxton vows to hold Biden admin accountable after win"
-    excerpt: "Texas Attorney General Ken Paxton on Wednesday said his state would continue to hold the Biden administration accountable, a day after the Supreme Court reinstated the Trump-era \"Remain in Mexico\" policy in response to a lawsuit from Texas and Missouri."
-    publishedDateTime: 2021-08-25T19:00:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bl8IAD3xuHs/texas-paxton-biden-accountable-remain-mexico-scotus-win"
-    ampWebUrl: "https://www.foxnews.com/politics/texas-paxton-biden-accountable-remain-mexico-scotus-win.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-paxton-biden-accountable-remain-mexico-scotus-win.amp"
+  - title: "Biden admin tested by Afghanistan, coronavirus, Hurricane Ida – 3 crises with no easy solutions"
+    excerpt: "At just over seven months in office, the Biden administration is facing three major crises, any one of which would be enough to deal with."
+    publishedDateTime: 2021-09-01T09:01:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WyAAFavk0sQ/biden-admin-afghanistan-coronavirus-hurricane-ida"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-afghanistan-coronavirus-hurricane-ida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-afghanistan-coronavirus-hurricane-ida.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 163
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b4d0a0b1-4c69-4579-9ea7-c954144add9a/63e36fce-6552-4281-a47f-eb31235ccbac/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1b0c86a-6fc8-43c7-b8ce-85ec8552cf21/f5772b09-1e8d-46f9-89a1-7ba64a760cca/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Remain-in-Mexico court ruling a win for Texas, Missouri over Biden admin"
-    excerpt: "A federal judge on Friday ordered the Biden administration to \"enforce and implement\" the Trump-era Remain-in-Mexico policy in response to a lawsuit from Texas and Missouri, which claimed that the administration’s attempt to terminate the policy was illegal and harmful."
-    publishedDateTime: 2021-08-14T02:18:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Is6oB0Ik29A/judge-biden-admin-trump-era-remain-in-mexico-policy-texas-missouri-lawsuit"
+  - title: "Biden Education Department opens civil rights investigations into 5 states for banning school mask mandates"
+    excerpt: "The U.S. Department of Education is opening an investigation into whether prohibitions on indoor masking mandates constitute discrimination against kids with disabilities."
+    publishedDateTime: 2021-08-30T17:39:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xGnlNRq3GOY/biden-education-department-civil-rights-investigations-masks-schools"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-education-department-civil-rights-investigations-masks-schools.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-education-department-civil-rights-investigations-masks-schools.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 154
+    quality: 157
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2db98055-f815-4c77-b234-38b7b893338a/d927afc4-94b3-4edb-aba3-9e8b594af183/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f51b3476-234e-4048-a476-76c810bde5ad/9be3c475-e32a-4b19-bdf9-55aba86bdf91/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "GOP Sen. Hagerty wants Congress to review Biden immigration enforcement limit"
+    excerpt: "FIRST ON FOX: Sen. Bill Hagerty, R-Tenn., is asking the Government Accountability Office if controversial Immigration and Customs Enforcement (ICE) guidance that dramatically reduced the scope of immigration enforcement could be subject to review by Congress -- days after the Biden administration suffered"
+    publishedDateTime: 2021-08-30T19:35:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y_fL1jkliLo/hagerty-gao-if-biden-admin-immigration-policies-review-congress"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 152
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/haggerty.jpg"
         width: 1280
         height: 720
         isCached: true

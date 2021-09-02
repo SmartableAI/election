@@ -154,6 +154,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "McConnell says Biden impeachment over Afghanistan will not happen"
+    excerpt: "Senate Minority Leader Mitch McConnell (R-KY) said Wednesday that President Joe Biden would not be impeached because both the House and Senate are Democrat-controlled."
+    publishedDateTime: 2021-09-02T00:53:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H7vMgqrOQr8/mcconnell-says-no-impeachment-of-biden-over-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-says-no-impeachment-of-biden-over-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-says-no-impeachment-of-biden-over-afghanistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6e7400b6-5964-43e2-a18c-b8bbe8ec272f/d3b7c54f-b766-46af-b64b-188e89bfb01e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden's Afghanistan speech written poorly with even worse delivery, experts say"
     excerpt: "Former government speechwriters and messaging experts are slamming President Biden over his address to the nation Tuesday, criticizing the president for his defensive delivery and contradictory statements, while the nation mourns the deaths of 13 U.S. service members and while Americans remain stranded"
     publishedDateTime: 2021-09-01T21:15:49Z
@@ -370,6 +386,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "2YhON64aWMOUdyMMLX7CuCzJfhe1xB7kvfkwVdKuB5pIqo9sJIaqB0eFHEV0WJW+0+RRpHSwumZmGvecXhuiOl9rF9H3/AEmIJ1HbC/TiugQ26ggmSpFGauvPSUFjLz5bvBeg3dplA/kJd2LUKnLbLLHJk0cHwL3kcZAIXnCnGGSSfPj57gzaP8iWdn6p3yKTNT9ZU6uq5Su4nV4+5SMgXFrcHjV8jrBHq3qeQ03GjNqdML0aFYjpwXJ9vNv6FMhZY9ceA7FhlUbQRZ0dtuU55yJNyYbaeVE2qRaCvnXAbyURmHiHq0AjW13TOsZrtDt2+6yXAhyy0Rbbz/+Pgp2bBOAAVaHDpdXhKPbz74TjeU=;tNDzZA1JIueufUZlSvT3bg=="
+secured: "7tgLUSz5kPxQhGZFi2QNteqYmI+4w0owQSIdrIa0HNO4FaoDB3G17GWj3IQ7lCsG6DTqgWe5BbynIYQfcTo8CCyLVgAhTwy5iHVJnwmuetbjc19vLwmRB5zSBKLeRZhavUq27n8fMhmeGYN6V1jDaYaPJWXT2Z5UWGldm76nm7bP51yy1bQxesiE/jp2f2i79d5tSvI8VFp4PsWbLzrcDQeMIcEDtk8OSl7z+pYNJmVO7ugboE8OvZcR6cv60ryp7zso+teEMIdqE8VYE789Kkre6INxaSs/Qw/Yig6D64mJFy/h8I9LYNP2jmJnU911kpjRJ+yCxuWRIEnCcbuS1OM5QZEqaKzyHMJn1cF3Lc1xA7CZ4EHOMH3tfbpHI1W+bYmC/z8WBc4rBv3nEy2iLJRihmbun9HAHm2DxM5GA8meejFCIdWDeOclXxNXZlOtQpIvD9p/xRhMnNG+gOkUKDsOScc2S6XNqkOxPiK8e5HYhA19QhTEkx7kxwMycfFJ/UhlLc/uPs2n1727s6o99A==;/QoU0+zxnfxZQc0tAXApzQ=="
 ---
 

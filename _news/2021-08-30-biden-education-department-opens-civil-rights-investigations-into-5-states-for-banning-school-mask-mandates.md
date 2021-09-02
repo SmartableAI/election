@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-education-department-civil-ri
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-education-department-civil-rights-investigations-masks-schools.amp"
 type: article
 quality: 157
-heat: 157
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,102 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Biden administration guidance limiting ICE arrests sees pushback from 16 states"
+    excerpt: "A coalition of 16 attorneys general is pushing back against \"interim guidance\" issued under President Biden’s administration which limits the number of deportations and immigration-related arrests by U.S. Immigration and Customs Enforcement (ICE)."
+    publishedDateTime: 2021-09-01T21:59:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wb_Ny-a1VNg/16-states-push-back-biden-administration-guidance-ice-arrests"
+    ampWebUrl: "https://www.foxnews.com/politics/16-states-push-back-biden-administration-guidance-ice-arrests.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/16-states-push-back-biden-administration-guidance-ice-arrests.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1d7193e5-ede5-4bf2-aa7b-dbd866fc1d66/a339ff07-8e85-4916-bbeb-616f413934b1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "DeSantis requests Biden administration stop resettling illegal immigrants in Florida"
+    excerpt: "Florida Gov. Ron DeSantis this week wrote to the Biden administration, asking it to stop resettling illegal immigrants in the state of Florida -- and to either deport them instead, or send them to a state that supports the \"flouting of our immigration laws.\""
+    publishedDateTime: 2021-08-28T23:44:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YUbsxcZSIJU/desantis-biden-administration-resettling-illegal-immigrants-florida"
+    ampWebUrl: "https://www.foxnews.com/politics/desantis-biden-administration-resettling-illegal-immigrants-florida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/desantis-biden-administration-resettling-illegal-immigrants-florida.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2aceabfa-c574-4199-9cf5-c9d829f5f934/4c07d242-57e6-46a5-86cc-febae62f6953/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "SCOTUS 'Remain in Mexico' ruling marks latest immigration defeat for Biden administration"
+    excerpt: "The latest Supreme Court ruling marks yet another legal defeat for the Biden administration on the subject of immigration."
+    publishedDateTime: 2021-08-25T23:57:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_SA0uAJzKbA/scotus-remain-mexico-ruling-marks-latest-immigration-defeat-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/scotus-remain-mexico-ruling-marks-latest-immigration-defeat-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scotus-remain-mexico-ruling-marks-latest-immigration-defeat-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/30426bd6-2aa5-4d0e-8ec5-b4c0e9e8d7a9/41eaf33d-87b6-417c-a681-2a8868546e2f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "20 states sue Biden admin over guidance allowing biological males on girls’ sports teams"
+    excerpt: "Twenty states have filed a lawsuit against the Biden administration in an attempt to halt directives that extend federal sex discrimination protections to transgender people."
+    publishedDateTime: 2021-08-31T16:49:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cTAwnprt4WU/20-states-sue-biden-admin-biological-males-girls-sports-teams"
+    ampWebUrl: "https://www.foxnews.com/politics/20-states-sue-biden-admin-biological-males-girls-sports-teams.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/20-states-sue-biden-admin-biological-males-girls-sports-teams.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17d03a4d-b676-45f8-a470-769625091d70/1492c709-10eb-419f-8345-d50968bbe61c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden admin tested by Afghanistan, coronavirus, Hurricane Ida – 3 crises with no easy solutions"
+    excerpt: "At just over seven months in office, the Biden administration is facing three major crises, any one of which would be enough to deal with."
+    publishedDateTime: 2021-09-01T09:01:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WyAAFavk0sQ/biden-admin-afghanistan-coronavirus-hurricane-ida"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-afghanistan-coronavirus-hurricane-ida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-afghanistan-coronavirus-hurricane-ida.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1b0c86a-6fc8-43c7-b8ce-85ec8552cf21/f5772b09-1e8d-46f9-89a1-7ba64a760cca/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "GOP Sen. Hagerty wants Congress to review Biden immigration enforcement limit"
+    excerpt: "FIRST ON FOX: Sen. Bill Hagerty, R-Tenn., is asking the Government Accountability Office if controversial Immigration and Customs Enforcement (ICE) guidance that dramatically reduced the scope of immigration enforcement could be subject to review by Congress -- days after the Biden administration suffered"
+    publishedDateTime: 2021-08-30T19:35:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y_fL1jkliLo/hagerty-gao-if-biden-admin-immigration-policies-review-congress"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 152
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/haggerty.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "DUWcWofSmqhbWxzEmf/i49A/6I0DyY2QZ2vW8oVE0slPlSHetOPvHOleJCS7bNo0uB9uDgyoKZtdW/KFTJwuS/iJd39fySFJGYgpx7s7zzoJ8O0YwvWI4iHmjSHlZ45AE1SWAj4ibHiSq49by0mJuOLgjfNbByzBrY2EMTNkKKPRC7Bd8JMiEQgx2cUZ0Tny2pSXgd7igtrXoFZdgwNUoHa3GuavoAd95Nfgli3ZP4wQiF7n8t3fI69pZJBC68T3fr3XyCO0JbGlUjC+PnTip/D31zgvC4j15PStRdV7EZohcEGFZRsMBFUwrqY7jmpLoFgcMpfzQPHgSwwS+1EkS5Zuv0O5cGN6gRS2B+47sI4=;OGr7VE/CQgv+27ocm42phg=="
 ---

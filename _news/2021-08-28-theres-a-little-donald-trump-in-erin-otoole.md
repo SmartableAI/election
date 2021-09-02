@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trump-backed governor candidate walks a MAGA tightrope in Virginia"
-    excerpt: "The crowd of about 300 Republican stalwarts in Norfolk, Virginia, included those wearing the requisite red baseball caps."
-    publishedDateTime: 2021-08-24T08:00:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/politics/trump-backed-governor-candidate-walks-a-maga-tightrope-in-virginia/article_a7f1524d-6c1e-5b23-8e93-f556124ab2fd.html"
-    type: article
-    provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
-    quality: 55
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "PQ0Cshl/ZnQQrndecj10hfCIkZRzIZWyYuHuMnEh0qPLFurrN+1pZRWEC5CDA4FhyMnfCFDar0hywWH2fp3meMdh8K1/shYKbFbymXWQ0dzshane+gxiVrEcYY3x8YEYx2V3xiPObdE0MuQ2VitS3y7JbXR8Nvu4ptrMeS77ZKedQmZfM1H85nrJeK5OqtzW8GQNdnTivaRgx8oJBJXSr4xyyOUn4ICy1LD+d/qgSOGapRl2EQs1Eu3iWL/SGfC848K4idG93MGHhpGLq51HEDF1QmiSJaI+NkapyqhlPhWHyFhGTqQ1NiVaNAjzMA3Z2i17vQDGuJ3tynJofuUq1JojcARo7TpjcNioH6Z4La8=;v/YQIxZgpAgTuLxg4772zQ=="
 ---

@@ -154,6 +154,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "McConnell says Biden impeachment over Afghanistan will not happen"
+    excerpt: "Senate Minority Leader Mitch McConnell (R-KY) said Wednesday that President Joe Biden would not be impeached because both the House and Senate are Democrat-controlled."
+    publishedDateTime: 2021-09-02T00:53:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H7vMgqrOQr8/mcconnell-says-no-impeachment-of-biden-over-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-says-no-impeachment-of-biden-over-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-says-no-impeachment-of-biden-over-afghanistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6e7400b6-5964-43e2-a18c-b8bbe8ec272f/d3b7c54f-b766-46af-b64b-188e89bfb01e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden's Afghanistan speech written poorly with even worse delivery, experts say"
     excerpt: "Former government speechwriters and messaging experts are slamming President Biden over his address to the nation Tuesday, criticizing the president for his defensive delivery and contradictory statements, while the nation mourns the deaths of 13 U.S. service members and while Americans remain stranded"
     publishedDateTime: 2021-09-01T21:15:49Z

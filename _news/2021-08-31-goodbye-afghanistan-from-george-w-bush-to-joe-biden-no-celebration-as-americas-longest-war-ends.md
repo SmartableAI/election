@@ -3,18 +3,18 @@ category: news
 title: "Goodbye, Afghanistan: From George W. Bush to Joe Biden, no celebration as America's longest war ends"
 excerpt: "Twenty years after U.S. bombers arrived, the last U.S. cargo plane departs a war that has left its mark, and its sorrow, on four presidents."
 publishedDateTime: 2021-08-31T00:38:00Z
-originalUrl: "https://www.tennessean.com/story/news/politics/2021/08/30/afghanistan-war-ends-america-legacy/5598968001/"
-webUrl: "https://www.tennessean.com/story/news/politics/2021/08/30/afghanistan-war-ends-america-legacy/5598968001/"
-ampWebUrl: "https://amp.tennessean.com/amp/5598968001"
-cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/5598968001"
+originalUrl: "https://www.cincinnati.com/story/news/politics/2021/08/30/afghanistan-war-ends-america-legacy/5598968001/"
+webUrl: "https://www.cincinnati.com/story/news/politics/2021/08/30/afghanistan-war-ends-america-legacy/5598968001/"
+ampWebUrl: "https://amp.cincinnati.com/amp/5598968001"
+cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5598968001"
 type: article
 quality: 60
 heat: -1
 published: false
 
 provider:
-  name: Tennessean
-  domain: tennessean.com
+  name: Cincinnati Enquirer
+  domain: cincinnati.com
 
 topics:
   - Election
@@ -789,6 +789,6 @@ related:
         height: 380
         isCached: true
 
-secured: "YHjNt5gmL4TQ8XTQ6YGM6fYJlwceM/P8wHmWTaKBsWXnd3Qfvbx9IEyZVkssKsTOerPO5TWlKe6oYhXYsz2pbkN+Tl7m3RD3ntfNVJTwDkw9Qez+W8i+uwxkibpKdofy0avhjN3ZtlCBlaNpZFwkHp7+I6afi14x/tE1BnDvB5rnxtsAMpjnTgw6TccZo/NyXHE/OCRG4sZUW/yAW4sOhvWocGw7q4G3c4T1o+w/mkgdRd7pCtSKZ2qrrqNR7p58zSgKXa+kJaIiGpnUD2TMeFVjB4kigBHCvzlkUiZSQp5+xILagKRNhGL+VT3c+9hLYkgrvw3UUAZUwsBqXdL8ZDIyQa5upcn48yrdY6PAa7A=;ML9WIPic9vQhJoiVBi5BdQ=="
+secured: "FglYHw9tOJeXRbK86bfqlRyX0TolPbLDd2e5NUIzys7bmCPWRGj4b3tPr7w4wSTG4VuuiOtivBEX8uRbf6loLKxdjcO5PGsQ9dn7SAwRiZqwGgzhRPeK37CUcsy6m0DWuylJqf+eNmLqwq6037M2QBkgnbxlevGZDi3a6tUgyHnHUYe+DNPeaP5d7VEQm9f0vvCZcAmz2Bmym9ZSJi0mEKOjmbaGB3R0h+73K8IoA61LLHWScTK6xhiI18NJFSww2Zb+pPKYGxHhBVOG4Ac3Njk+ba/rrpNBDf2JI0+UOqF7GZ71C1jolqTJYw3cyluApKwCSeOIeSMCjO7p5rQvTfzIArckfKVAZ5FFMDxbLVU=;1RZ71X02INiI9CqNbOXhJw=="
 ---
 

@@ -2,21 +2,17 @@
 category: news
 title: "Afghanistan: Joe Biden defends US pull-out as Taliban claim victory"
 excerpt: "US President Joe Biden has defended his decision to withdraw US troops from Afghanistan - a move which led to Taliban militants returning to power. Staying longer was not an option, Mr Biden said in an address to the nation,"
-publishedDateTime: 2021-09-01T09:05:00Z
-originalUrl: "https://www.bbc.com/news/world-asia-58403735"
-webUrl: "https://www.bbc.com/news/world-asia-58403735"
+publishedDateTime: 2021-08-31T21:12:00Z
+originalUrl: "https://www.bbc.co.uk/news/world-asia-58403735?at_medium=RSS&amp%3Bat_campaign=KARANGA"
+webUrl: "https://www.bbc.co.uk/news/world-asia-58403735?at_medium=RSS&amp%3Bat_campaign=KARANGA"
 type: article
-quality: 105
+quality: 55
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - Election
@@ -572,6 +568,6 @@ related:
       domain: seattletimes.com
     quality: 34
 
-secured: "U6Da//lVjUNUq95YTLuI9/rMJpux5Jx8qScbB/pRjI7IO2LG6RHdNHWRNgtPHdRPd/73PdR6rKTmG0Bdn4uGP7BeyXPmQp0B5e6F6r0d+wnnGy9RA69iEITpNAmUF3Q9yZTZOV9SX8UINQUrsDL5cT+o4SRp4XcoGAwHe6zc2Llxpr+z/NKDJKhSwRs+u76eCfccWjsPh5StBEGY3NXJS6o+ole/d2H7J+iqJjqSTDRnoqi/le4ySqpCP8IxT9o5jFnlnweU9YTQ5NMk8AU+mXR9jZzf2OcetPIoP58bdkRL7+C6MFdbvgoPtcL/6/QKUe/5RCKCqvBR4qzBS7BaAPT0DHPjw/+qrN6Rfk7IJt0xvYrhIYgDArYNZTb7zJl7Ng1nvyQNLabXYbed2Pg5zEEZ1SQp7cSjrf0RnK5hLqVLraDSVZG1c0ENOa3X8hyI/j+o49Eid6BOmkO1Lz+c48S1QC1y+LZjemL/Pl3jOJNbVjyjkGQFOX9CIYQqTNGAqRixqX7tK2ARNn3CpK//RA==;JiSPrtcoRKyMAZwpoEmGyQ=="
+secured: "yHm2A5nDrxi06hJ6VGkYtr7NsMeo6z4E2fQH9Py+aulItbFS0E60QFdSzbWz6LGcNVMWhwmWdrMVTyn4pOpV5S6KHBPX5OQZR6SCfDsiZce/gigwNp1nGvs05clhFGvvEPPi5F5tBtm8PgwqdiLqoYFxTP1qNpHazFLXO4Fv5qYHmLte0vxAyfhFGbPwcA0YO9HpseMP9NmKO3lx02XulN6zQ8qGCe86Wj5FzFgL+wTZRieqyr9MdfplvJ8JeAZsF86UtFyPFO/+RCnXvvhIUz8dzc05Wvo8EeKzBSVPSrurl+ye4j6qCylQZgTRj1zVpL3+mX0z8/1yE7DQArRJmWyJAU7mkRSlvBFLP2Yn+os=;UoLnZ10pG9NLRaC2dsFHPw=="
 ---
 

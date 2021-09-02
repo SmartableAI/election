@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden administration has lost track of a third of released migrant kids: report"
+    excerpt: "The U.S. government has reportedly lost touch with thousands of illegal immigrant children who they released from custody."
+    publishedDateTime: 2021-09-01T22:05:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dlXvzIuEpYQ/government-has-lost-track-of-a-third-of-released-migrant-kids"
+    ampWebUrl: "https://www.foxnews.com/politics/government-has-lost-track-of-a-third-of-released-migrant-kids.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/government-has-lost-track-of-a-third-of-released-migrant-kids.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ffd9786c-a6ff-4664-bcf8-aa50156e5ca5/baa20d53-a8c4-4810-a228-f2bdd1cd27d0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden reacts to weak jobs report, says US 'still digging out of an economic collapse,' but on 'right track'"
     excerpt: "President Biden on Friday said the country is “still digging out of an economic collapse” amid the coronavirus pandemic, but that the U.S. is on the “right track,” as the administration reported that the economy created 266,000 jobs in April."
     publishedDateTime: 2021-05-07T16:40:38Z

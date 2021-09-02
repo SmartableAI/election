@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C028S"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C028S"
 type: article
 quality: 125
-heat: 2625
+heat: 2645
 published: true
 
 provider:
@@ -1068,7 +1068,7 @@ related:
   - title: "Afghanistan: Joe Biden speech on withdrawal fact-checked"
     excerpt: "In a televised address following the final departure of US troops from Afghanistan, President Joe Biden made a series of assertions about US policy in the country. We've fact-checked some of his claims,"
     publishedDateTime: 2021-09-01T18:07:00Z
-    webUrl: "https://www.bbc.co.uk/news/58412530"
+    webUrl: "https://www.bbc.co.uk/news/58412530?at_medium=RSS&at_campaign=KARANGA"
     ampWebUrl: "https://www.bbc.co.uk/news/58412530.amp"
     cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/58412530.amp"
     type: article
@@ -1240,6 +1240,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/346c4d4c-0ebe-4577-bdbf-21c5f8e914af/554385c1-d5d0-4f0c-9b03-7bab5722a707/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Casey backs Biden on Afghanistan, but wants independent commission to hold hearings"
+    excerpt: "U.S. Sen. Bob Casey backs Biden on Afghanistan withdrawal, but says 9/11-sytle commission should probe U.S. role over 20 years."
+    publishedDateTime: 2021-09-02T09:43:00Z
+    webUrl: "https://www.ldnews.com/story/news/2021/09/02/sen-bob-casey-pennsylvania-biden-afghanistan/5688050001/"
+    ampWebUrl: "https://amp.ldnews.com/amp/5688050001"
+    cdnAmpWebUrl: "https://amp-ldnews-com.cdn.ampproject.org/c/s/amp.ldnews.com/amp/5688050001"
+    type: article
+    provider:
+      name: Lebanon Daily News
+      domain: ldnews.com
+    quality: 69
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/fae0d8423f499db9d54ae5b79120cb0b35a4838c/c=0-106-1739-1084/local/-/media/2021/05/23/Hagerstown/ba91907196c51d0e07edad5486f1bda9.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "For Biden, fallout from the Afghanistan withdrawal abroad complicates agenda at home"
     excerpt: "President Biden's approval rating was on the decline as COVID-19 cases surged. That was before the Taliban's rapid takeover of Afghanistan."

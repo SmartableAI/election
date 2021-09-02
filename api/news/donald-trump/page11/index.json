@@ -2,6 +2,258 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-06-17-donald-trump-to-hold-rally-at-lorain-county-fairgrounds-on-june-26.md",
+      "title": "Donald Trump to hold rally at Lorain County Fairgrounds on June 26",
+      "excerpt": "Former president Donald Trump will hold his first rally since leaving office on June 26 The rally was confirmed Wednesday on Trump’s website. The rally will start at 7 p.m. but doors will open at 2 p.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cleveland.com/politics/2021/06/donald-trump-to-hold-rally-at-lorain-county-fairgrounds-on-june-26.html",
+      "originalUrl": "https://www.cleveland.com/politics/2021/06/donald-trump-to-hold-rally-at-lorain-county-fairgrounds-on-june-26.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KBEEPWYU7FCH7NF2B7WEM4OTK4.jpg",
+          "width": 3796,
+          "height": 2534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cleveland.com/politics/2021/06/donald-trump-to-hold-rally-at-lorain-county-fairgrounds-on-june-26.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/politics/2021/06/donald-trump-to-hold-rally-at-lorain-county-fairgrounds-on-june-26.html?outputType=amp",
+      "publishedDateTime": "2021-06-16T19:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cleveland.com",
+        "domain": "cleveland.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-hillary-clinton-pushes-narrative-that-putin-helped-elect-trump-during-2016-election.md",
+      "title": "Hillary Clinton pushes narrative that Putin ‘helped elect’ Trump during 2016 election",
+      "excerpt": "Former Secretary of State and failed presidential candidate Hillary Clinton continued to push the narrative that Russian President Vladimir Putin \"helped elect\" former President Donald Trump on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/hillary-clinton-narrative-putin-elect-trump",
+      "originalUrl": "https://www.foxnews.com/media/hillary-clinton-narrative-putin-elect-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Hillary-Clinton-Laugh-REUTERS-2.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T11:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-with-election-fraud-claims-perus-keiko-fujimori-takes-a-page-from-the-trump-playbook-shes-not-alone.md",
+      "title": "With election fraud claims, Peru’s Keiko Fujimori takes a page from the Trump playbook. She’s not alone.",
+      "excerpt": "Fujimori’s approach, following Trump’s effort to discredit the outcome of the 2020 U.S. presidential election over false fraud claims, could signal the emergence of a trend.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/world/2021/06/16/trump-playbook-peru-democracy/",
+      "originalUrl": "https://www.washingtonpost.com/world/2021/06/16/trump-playbook-peru-democracy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YMOIGWGNYAI6XIREXVM32IQZPQ.jpg&w=1440",
+          "width": 1440,
+          "height": 1003,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/world/2021/06/16/trump-playbook-peru-democracy/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/2021/06/16/trump-playbook-peru-democracy/?outputType=amp",
+      "publishedDateTime": "2021-06-16T11:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-trump-names-ex-rnc-spokeswoman-to-replace-departing-aide-jason-miller.md",
+      "title": "Trump names ex-RNC spokeswoman to replace departing aide Jason Miller",
+      "excerpt": "Former President Donald Trump has named Liz Harrington, a former Republican National Committee spokeswoman, to replace the departing advisor Jason Miller.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/06/15/trump-replaces-jason-miller-with-ex-rnc-spokeswoman/",
+      "originalUrl": "https://nypost.com/2021/06/15/trump-replaces-jason-miller-with-ex-rnc-spokeswoman/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-miller-harrington-hp.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/06/15/trump-replaces-jason-miller-with-ex-rnc-spokeswoman/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/15/trump-replaces-jason-miller-with-ex-rnc-spokeswoman/amp/",
+      "publishedDateTime": "2021-06-15T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-emails-show-trump-pressured-justice-dept-over-2020-election.md",
+      "title": "Emails show Trump pressured Justice Dept. over 2020 election",
+      "excerpt": "Newly released emails show President Donald Trump and his allies pressured the Justice Department to investigate unsubstantiated claims of voter fraud in the 2020 election in the last weeks of his ter",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1960,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613",
+      "publishedDateTime": "2021-06-15T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-15-chrissy-teigen-apology-all-the-celebs-shes-upset-from-avril-lavigne-to-donald-trump.md",
       "title": "Chrissy Teigen Apology: All the Celebs She's Upset, From Avril Lavigne to Donald Trump",
       "excerpt": "After owning up to the Twitter comments she made about Courtney Stodden, Teigen issued a lengthy apology on her blog",
@@ -1266,266 +1518,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-donald-trump-calls-bitcoin-a-scam-against-the-dollar.md",
-      "title": "Donald Trump calls Bitcoin 'a scam against the dollar'",
-      "excerpt": "Former US President Donald Trump has told Fox Business that he sees Bitcoin as a \"scam\" affecting the value of the US dollar. \"Bitcoin, it just seems like a scam,\" Mr Trump said. \"I don't like it because it's another currency competing against the dollar.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/business-57392734.amp",
-      "originalUrl": "https://www.bbc.com/news/business-57392734.amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/BA93/production/_118836774_trump1.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/business-57392734.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-57392734.amp",
-      "publishedDateTime": "2021-06-07T18:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-a-refugee-agency-rebuilds-its-pipeline-after-trump-were-starting-from-scratch.md",
-      "title": "A refugee agency rebuilds its pipeline after Trump: 'We're starting from scratch'",
-      "excerpt": "RELATED: Faith-based refugee resettlement groups describe what it will take to rebuild program after Trump cuts Friends and family collected winter coats for the girl and dropped off a stack of Christmas presents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/religion/a-refugee-agency-rebuilds-its-pipeline-after-trump-were-starting-from-scratch/2021/06/07/6f09ad1a-c7c4-11eb-8708-64991f2acf28_story.html",
-      "originalUrl": "https://www.washingtonpost.com/religion/a-refugee-agency-rebuilds-its-pipeline-after-trump-were-starting-from-scratch/2021/06/07/6f09ad1a-c7c4-11eb-8708-64991f2acf28_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/religion/a-refugee-agency-rebuilds-its-pipeline-after-trump-were-starting-from-scratch/2021/06/07/6f09ad1a-c7c4-11eb-8708-64991f2acf28_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/a-refugee-agency-rebuilds-its-pipeline-after-trump-were-starting-from-scratch/2021/06/07/6f09ad1a-c7c4-11eb-8708-64991f2acf28_story.html?outputType=amp",
-      "publishedDateTime": "2021-06-07T11:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-fact-check-donald-trump-remains-suspended-from-facebook-instagram.md",
-      "title": "Fact check: Donald Trump remains suspended from Facebook, Instagram",
-      "excerpt": "An Instagram post claims Donald Trump's Facebook and Instagram accounts were restored as of June 2. That's false.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/factcheck/2021/06/07/fact-check-trump-facebook-and-instagram-accounts-still-suspended/7546944002/",
-      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2021/06/07/fact-check-trump-facebook-and-instagram-accounts-still-suspended/7546944002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/05/26/USAT/c93bd3c4-8f04-4f46-b7af-39d711e7a971-AP_Trump_Russia_Probe.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7546944002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7546944002",
-      "publishedDateTime": "2021-06-07T11:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-coach-v-the-white-house-inside-steve-kerrs-extraordinary-feud-with-donald-trump.md",
-      "title": "Coach v the White House: inside Steve Kerr’s extraordinary feud with Donald Trump",
-      "excerpt": "In a new book about the Golden State Warriors coach, Scott Howard-Cooper explores how the NBA, China and the US president combined for an explosive mix",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/sport/2021/jun/07/steve-kerr-golden-state-warriors-trump-nba-china",
-      "originalUrl": "https://www.theguardian.com/sport/2021/jun/07/steve-kerr-golden-state-warriors-trump-nba-china",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/1735f509f0395827016f8415c722605bb44d6c08/0_213_4976_2985/master/4976.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=acbddd681f2212415f387e57e12a0af3",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/sport/2021/jun/07/steve-kerr-golden-state-warriors-trump-nba-china",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/sport/2021/jun/07/steve-kerr-golden-state-warriors-trump-nba-china",
-      "publishedDateTime": "2021-06-07T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-trump-adviser-lewandowski-he-lost-the-election-and-will-not-be-reinstated.md",
-      "title": "Trump adviser Lewandowski: he ‘lost the election’ and will not be reinstated",
-      "excerpt": "Former campaign manager tells Fox News Sunday there is no mechanism by which a loser can return to the White House",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jun/06/trump-lewandowski-election-reinstated-biden-north-carolina-fox-news",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/06/trump-lewandowski-election-reinstated-biden-north-carolina-fox-news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/a4b97b8c413143ea1afe44637af39841f042e591/0_275_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4f52b1748e208e20eb8ed24e73d36fff",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/06/trump-lewandowski-election-reinstated-biden-north-carolina-fox-news",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/06/trump-lewandowski-election-reinstated-biden-north-carolina-fox-news",
-      "publishedDateTime": "2021-06-06T12:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

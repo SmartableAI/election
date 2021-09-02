@@ -2,6 +2,472 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-01-former-president-donald-trump-says-he-will-return-to-iowa-adding-grist-to-2024-speculation.md",
+      "title": "Former President Donald Trump says he will return to Iowa, adding grist to 2024 speculation",
+      "excerpt": "Trump's announcement on the show comes as other potential Republican presidential contenders are already making trips to Iowa.",
+      "sourceUrl": null,
+      "webUrl": "https://www.jsonline.com/story/news/politics/2021/08/31/donald-trump-says-he-will-rally-iowa-stoking-2024-speculation/5666433001/",
+      "originalUrl": "https://www.jsonline.com/story/news/politics/2021/08/31/donald-trump-says-he-will-rally-iowa-stoking-2024-speculation/5666433001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/01/PDEM/63d5811d-248f-4d1b-a046-a644d1ea0203-AP20306724939532.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.jsonline.com/amp/5666433001",
+      "cdnAmpWebUrl": "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/5666433001",
+      "publishedDateTime": "2021-08-31T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Milwaukee Journal Sentinel",
+        "domain": "jsonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-31-donald-trump-is-not-a-big-fan-of-crypto.md",
+      "title": "Donald Trump is not a ‘big fan’ of crypto",
+      "excerpt": "Former President Donald Trump lashed out at cryptocurrencies in an interview with Fox News on Tuesday. “I have not been a big fan of cryptos,” Trump told Fox. While the interview focused primarily on Trump’s reaction to America’s Afghanistan exit,",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/08/31/donald-trump-is-not-a-big-fan-of-crypto/",
+      "originalUrl": "https://nypost.com/2021/08/31/donald-trump-is-not-a-big-fan-of-crypto/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-crypto-hp.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/08/31/donald-trump-is-not-a-big-fan-of-crypto/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/31/donald-trump-is-not-a-big-fan-of-crypto/amp/",
+      "publishedDateTime": "2021-08-31T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-31-cnn-analyst-slammed-for-blaming-trump-for-collapsed-republican-trust-in-national-media-simply-breathtaking.md",
+      "title": "CNN analyst slammed for blaming Trump for collapsed Republican trust in national media: 'Simply breathtaking'",
+      "excerpt": "CNN analyst and New Yorker writer Susan Glasser blamed former President Donald Trump's rhetoric for the plummet in GOP trust in national media over the past five years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/cnn-analyst-slammed-for-blaming-trump-for-collapsed-republican-trust-in-national-media-simply-breathtaking",
+      "originalUrl": "https://www.foxnews.com/media/cnn-analyst-slammed-for-blaming-trump-for-collapsed-republican-trust-in-national-media-simply-breathtaking",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b5aa6c85-14b2-4ad2-9440-675bda7c16be/bf09b414-0396-40a2-ad41-ceb1fd8f2354/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/cnn-analyst-slammed-for-blaming-trump-for-collapsed-republican-trust-in-national-media-simply-breathtaking.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-analyst-slammed-for-blaming-trump-for-collapsed-republican-trust-in-national-media-simply-breathtaking.amp",
+      "publishedDateTime": "2021-08-31T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-31-joe-biden-and-europe-are-going-different-ways.md",
+      "title": "Joe Biden and Europe are going different ways",
+      "excerpt": "For EU governments, the contrast between the US president’s policies and those of Donald Trump is more apparent than real",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/bfe24854-3bf2-4ada-b3a2-778b4707c31f",
+      "originalUrl": "https://www.ft.com/content/bfe24854-3bf2-4ada-b3a2-778b4707c31f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 425,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9ce12d54-bd65-4ea1-8ba6-78ecb4951f38.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/bfe24854-3bf2-4ada-b3a2-778b4707c31f",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/bfe24854-3bf2-4ada-b3a2-778b4707c31f",
+      "publishedDateTime": "2021-08-31T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-31-pete-hegseth-rips-biden-for-checking-watch-calls-out-betrayal-of-us-military-mission.md",
+      "title": "Pete Hegseth rips Biden for checking watch, calls out 'betrayal' of US military mission",
+      "excerpt": "Army veteran and ‘Fox & Friends Weekend’ co-host Pete Hegseth ripped into Joe Biden on Monday after Gold Star families criticized the president for repeatedly checking his watch while meeting with them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/biden-checking-watch-betrayal-military-hegseth",
+      "originalUrl": "https://www.foxnews.com/media/biden-checking-watch-betrayal-military-hegseth",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b475c4af-ac40-44aa-a114-920cccc3d52a/51978ba7-0064-41e2-bd9d-73365cc9f209/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/biden-checking-watch-betrayal-military-hegseth.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-checking-watch-betrayal-military-hegseth.amp",
+      "publishedDateTime": "2021-08-31T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-31-fact-check-is-nancy-pelosi-joe-biden-we-dont-want-him-to-talk-video-real.md",
+      "title": "Fact Check: Is Nancy Pelosi, Joe Biden 'We Don't Want Him to Talk' Video Real?",
+      "excerpt": "A clip spread online, receiving more than 400,000 views, purportedly has the House speaker saying: \"Am I on? No, we don't want him to talk.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/fact-check-nancy-pelosi-joe-biden-no-we-dont-want-him-talk-video-1624486",
+      "originalUrl": "https://www.newsweek.com/fact-check-nancy-pelosi-joe-biden-no-we-dont-want-him-talk-video-1624486",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1883534/nancy-pelosi-getting-pen-biden.jpg",
+          "width": 2500,
+          "height": 1674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/fact-check-nancy-pelosi-joe-biden-no-we-dont-want-him-talk-video-1624486?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-nancy-pelosi-joe-biden-no-we-dont-want-him-talk-video-1624486?amp=1",
+      "publishedDateTime": "2021-08-31T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-31-michael-savage-slams-biden-the-bum-mook-faker.md",
+      "title": "Michael Savage slams Biden the ‘bum,’ ‘mook,’ ‘faker’",
+      "excerpt": "Radio’s boldest voice, Michael Savage, slammed Joe Biden during an interview as a “bum,” a “failure,” a “mook,” a “faker” for his Afghanistan withdrawal, and outright blamed the president for getting people killed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2021/aug/31/michael-savage-slams-joe-biden-bum-mook-faker/",
+      "originalUrl": "https://www.washingtontimes.com/news/2021/aug/31/michael-savage-slams-joe-biden-bum-mook-faker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2021/08/30/Biden_81646.jpg-0b46b_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.washingtontimes.com/news/2021/aug/31/michael-savage-slams-joe-biden-bum-mook-faker/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/31/michael-savage-slams-joe-biden-bum-mook-faker/",
+      "publishedDateTime": "2021-08-31T02:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-31-ingraham-team-biden-building-back-weaker-with-officials-on-summer-break.md",
+      "title": "Ingraham: Team Biden 'building back weaker' with officials on 'summer break'",
+      "excerpt": "Laura Ingraham said Biden is \"building back weaker\" Monday on \"The Ingraham Angle,\" noting the \"heart-wrenching\" situation in Afghanistan as the remainder of U.S. troops left the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/ingraham-team-biden-building-back-weaker-officials-summer-break",
+      "originalUrl": "https://www.foxnews.com/media/ingraham-team-biden-building-back-weaker-officials-summer-break",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a458d6f-c4b6-4909-bd2a-c01a34736a37/0d45f21e-d88d-46fc-ab53-9b6bb60bde2b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/ingraham-team-biden-building-back-weaker-officials-summer-break.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ingraham-team-biden-building-back-weaker-officials-summer-break.amp",
+      "publishedDateTime": "2021-08-30T21:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-31-fathers-of-marines-killed-in-kabul-blast-rip-biden-he-talked-more-about-his-son-than-my-son.md",
+      "title": "Fathers of Marines killed in Kabul blast rip Biden: 'He talked more about his son than my son'",
+      "excerpt": "Two Gold Star fathers of U.S. Marines killed in an ISIS-K-linked blast in Kabul amid President Joe Biden's Afghanistan withdrawal process lambasted the Delaware Democrat for acting selfish in their interactions on \"Hannity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/gold-star-fathers-marines-killed-kabul-biden",
+      "originalUrl": "https://www.foxnews.com/media/gold-star-fathers-marines-killed-kabul-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d991ec1e-5859-46da-8c3c-872c43e61a30/60f7fd46-07b2-438b-8ad7-ef20f925fc19/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/gold-star-fathers-marines-killed-kabul-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/gold-star-fathers-marines-killed-kabul-biden.amp",
+      "publishedDateTime": "2021-08-30T20:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-31-death-sentence-donald-trump-insists-biden-gave-taliban-kill-list-despite-blinken-denial.md",
       "title": "'Death Sentence': Donald Trump Insists Biden Gave Taliban 'Kill List' Despite Blinken Denial",
       "excerpt": "Republican former President Donald Trump has said that the administration of Democratic President Joe Biden has handed down a \"death sentence\" by giving the Taliban a list of all Americans and U.S. allies who remain in Afghanistan.",
@@ -98,49 +564,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-31-us-sen-mike-rounds-isnt-convinced-donald-trump-would-win-gop-nomination-in-2024-election.md",
-      "title": "US Sen. Mike Rounds isn't convinced Donald Trump would win GOP nomination in 2024 election",
-      "excerpt": "South Dakota U.S. Sen. Mike Rounds, in discussion with Sioux Falls Rotarians, speculated what might lie ahead for the Republican Party for 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.argusleader.com/story/news/2021/08/30/mike-rounds-2024-election-donald-trump-kristi-noem-republican-nomination-speculation/5653852001/",
-      "originalUrl": "https://www.argusleader.com/story/news/2021/08/30/mike-rounds-2024-election-donald-trump-kristi-noem-republican-nomination-speculation/5653852001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/08/20/PSIF/c96ac377-3e03-4c86-a475-a751d7dde2e0-Rounds_ChamberOfCommerce_003.JPG?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.argusleader.com/amp/5653852001",
-      "cdnAmpWebUrl": "https://amp-argusleader-com.cdn.ampproject.org/c/s/amp.argusleader.com/amp/5653852001",
-      "publishedDateTime": "2021-08-30T12:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Argus Leader",
-        "domain": "argusleader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-08-31-watch-biden-pledges-hurricane-ida-support-for-as-long-as-it-takes.md",
       "title": "WATCH: Biden pledges Hurricane Ida support for ‘as long as it takes’",
       "excerpt": "Ida has left scores of coastal Louisiana residents trapped by floodwaters and pleading to be rescued, while making a shambles of the electrical grid across a wide swath of the state in the sweltering,",
@@ -190,62 +613,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-30-biden-education-department-opens-civil-rights-investigations-into-5-states-for-banning-school-mask-mandates.md",
-      "title": "Biden Education Department opens civil rights investigations into 5 states for banning school mask mandates",
-      "excerpt": "The U.S. Department of Education is opening an investigation into whether prohibitions on indoor masking mandates constitute discrimination against kids with disabilities.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xGnlNRq3GOY/biden-education-department-civil-rights-investigations-masks-schools",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xGnlNRq3GOY/biden-education-department-civil-rights-investigations-masks-schools",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f51b3476-234e-4048-a476-76c810bde5ad/9be3c475-e32a-4b19-bdf9-55aba86bdf91/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-education-department-civil-rights-investigations-masks-schools.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-education-department-civil-rights-investigations-masks-schools.amp",
-      "publishedDateTime": "2021-08-30T10:39:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     },
     {
@@ -701,7 +1068,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -898,334 +1265,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-desantis-requests-biden-administration-stop-resettling-illegal-immigrants-in-florida.md",
-      "title": "DeSantis requests Biden administration stop resettling illegal immigrants in Florida",
-      "excerpt": "Florida Gov. Ron DeSantis this week wrote to the Biden administration, asking it to stop resettling illegal immigrants in the state of Florida -- and to either deport them instead, or send them to a state that supports the \"flouting of our immigration laws.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YUbsxcZSIJU/desantis-biden-administration-resettling-illegal-immigrants-florida",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YUbsxcZSIJU/desantis-biden-administration-resettling-illegal-immigrants-florida",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 208,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2aceabfa-c574-4199-9cf5-c9d829f5f934/4c07d242-57e6-46a5-86cc-febae62f6953/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/desantis-biden-administration-resettling-illegal-immigrants-florida.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/desantis-biden-administration-resettling-illegal-immigrants-florida.amp",
-      "publishedDateTime": "2021-08-28T16:44:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-29-howie-carr-think-joe-biden-is-bad-check-out-the-current-line-of-succession.md",
-      "title": "Howie Carr: Think Joe Biden is bad? Check out the current line of succession",
-      "excerpt": "Before you heed those calls to remove Dementia Joe Biden via either impeachment or the 25th amendment, remember the old saying: Be careful what you wish for.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonherald.com/2021/08/28/howie-carr-think-joe-biden-is-bad-check-out-the-current-line-of-succession/",
-      "originalUrl": "https://www.bostonherald.com/2021/08/28/howie-carr-think-joe-biden-is-bad-check-out-the-current-line-of-succession/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bostonherald.com/wp-content/uploads/2021/08/AP21236785596020.jpg?w=1024&#038;h=683",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bostonherald.com/2021/08/28/howie-carr-think-joe-biden-is-bad-check-out-the-current-line-of-succession/amp/",
-      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/08/28/howie-carr-think-joe-biden-is-bad-check-out-the-current-line-of-succession/amp/",
-      "publishedDateTime": "2021-08-28T13:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boston Herald",
-        "domain": "bostonherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-joe-biden-says-china-still-withholding-critical-info-on-covid-19-origins.md",
-      "title": "Joe Biden says China still withholding 'critical' info on Covid-19 origins",
-      "excerpt": "PRESIDENT JOE BIDEN said that China was withholding “critical information” on the origins of Covid-19 after the US intelligence community said it did not believe the virus was a bioweapon – but remained split on whether it escaped from a lab.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thejournal.ie/joe-biden-china-covid-origins-5534218-Aug2021/",
-      "originalUrl": "https://www.thejournal.ie/joe-biden-china-covid-origins-5534218-Aug2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img2.thejournal.ie/article/5534218/listing/?width=600&version=5534221",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thejournal.ie/joe-biden-china-covid-origins-5534218-Aug2021/?amp=1",
-      "cdnAmpWebUrl": "https://www-thejournal-ie.cdn.ampproject.org/c/s/www.thejournal.ie/joe-biden-china-covid-origins-5534218-Aug2021/?amp=1",
-      "publishedDateTime": "2021-08-28T02:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheJournal.ie",
-        "domain": "thejournal.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-joe-biden-just-ruined-americas-special-relationship-with-great-britain.md",
-      "title": "Joe Biden just ruined America’s ‘special relationship’ with Great Britain",
-      "excerpt": "Despite such loud promises that he would make America’s alliances great again, Biden’s initially foolish, now fatal, Afghan catastrophe has atomized US international ties.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/08/27/joe-biden-just-ruined-americas-special-relationship-with-great-britain/",
-      "originalUrl": "https://nypost.com/2021/08/27/joe-biden-just-ruined-americas-special-relationship-with-great-britain/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/biden-boris-johnson.jpg?quality=90&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/08/27/joe-biden-just-ruined-americas-special-relationship-with-great-britain/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/27/joe-biden-just-ruined-americas-special-relationship-with-great-britain/amp/",
-      "publishedDateTime": "2021-08-27T16:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-franklin-delano-roosevelt-vs-john-f-kennedy-vs-joe-robinette-biden.md",
-      "title": "Franklin Delano Roosevelt vs. John F. Kennedy vs. Joe Robinette Biden",
-      "excerpt": "After the deaths of 13 U.S. troops and at least 90 Afghans outside the Kabul airport, Joe Biden gave a speech from a position of weakness.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailysignal.com/2021/08/27/franklin-delano-roosevelt-vs-john-f-kennedy-vs-joe-robinette-biden/",
-      "originalUrl": "https://www.dailysignal.com/2021/08/27/franklin-delano-roosevelt-vs-john-f-kennedy-vs-joe-robinette-biden/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailysignal.com/wp-content/uploads/Biden-2.gif",
-          "width": 1250,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailysignal.com/2021/08/27/franklin-delano-roosevelt-vs-john-f-kennedy-vs-joe-robinette-biden/amp/",
-      "cdnAmpWebUrl": "https://www-dailysignal-com.cdn.ampproject.org/c/s/www.dailysignal.com/2021/08/27/franklin-delano-roosevelt-vs-john-f-kennedy-vs-joe-robinette-biden/amp/",
-      "publishedDateTime": "2021-08-27T16:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Signal",
-        "domain": "dailysignal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-jack-nicklaus-on-if-tiger-woods-will-play-again-supporting-donald-trump-and-needing-a-cane.md",
-      "title": "Jack Nicklaus on if Tiger Woods will play again, supporting Donald Trump and needing a cane",
-      "excerpt": "Jack Nicklaus with a cane? Apparently the 81-year-old legend suffered an injury playing pickleball. Allow me to speak for everyone when I say that’s an image we’re not ready to see. It’s bad",
-      "sourceUrl": null,
-      "webUrl": "https://golfweek.usatoday.com/lists/jack-nicklaus-qa-tiger-woods-donald-trump-cane/",
-      "originalUrl": "https://golfweek.usatoday.com/lists/jack-nicklaus-qa-tiger-woods-donald-trump-cane/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://golfweek.usatoday.com/wp-content/uploads/sites/87/2017/03/gettyimages-463960886.jpg",
-          "width": 3656,
-          "height": 2339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://golfweek.usatoday.com/lists/jack-nicklaus-qa-tiger-woods-donald-trump-cane/amp/",
-      "cdnAmpWebUrl": "https://golfweek-usatoday-com.cdn.ampproject.org/c/s/golfweek.usatoday.com/lists/jack-nicklaus-qa-tiger-woods-donald-trump-cane/amp/",
-      "publishedDateTime": "2021-08-27T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-joe-biden-seeks-diplomacy-with-iran-on-nuclear-deal-but-open-to-other-options.md",
-      "title": "Joe Biden seeks diplomacy with Iran on nuclear deal, but open to 'other options'",
-      "excerpt": "President Joe Biden on Friday said the United States will try diplomacy to keep Iran from obtaining nuclear weapons, but will use \"other options\" if necessary.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/",
-      "originalUrl": "https://www.upi.com/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/3931630085407/2021/1/5a644c6dc5548efdc6df8cce0f83b200/v1.5/Joe-Biden-seeks-diplomacy-with-Iran-on-nuclear-deal-but-open-to-other-options.jpg",
-          "width": 800,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/",
-      "publishedDateTime": "2021-08-27T11:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],
