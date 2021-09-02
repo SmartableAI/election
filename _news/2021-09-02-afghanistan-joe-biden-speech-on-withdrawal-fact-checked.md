@@ -3,22 +3,18 @@ category: news
 title: "Afghanistan: Joe Biden speech on withdrawal fact-checked"
 excerpt: "In a televised address following the final departure of US troops from Afghanistan, President Joe Biden made a series of assertions about US policy in the country. We've fact-checked some of his claims,"
 publishedDateTime: 2021-09-01T18:07:00Z
-originalUrl: "https://www.bbc.com/news/58412530"
-webUrl: "https://www.bbc.com/news/58412530"
-ampWebUrl: "https://www.bbc.com/news/58412530.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/58412530.amp"
+originalUrl: "https://www.bbc.co.uk/news/58412530?at_medium=RSS&at_campaign=KARANGA"
+webUrl: "https://www.bbc.co.uk/news/58412530?at_medium=RSS&at_campaign=KARANGA"
+ampWebUrl: "https://www.bbc.co.uk/news/58412530.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/58412530.amp"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - Election
@@ -1858,6 +1854,6 @@ related:
       domain: usnews.com
     quality: 29
 
-secured: "jsMiuEjukhzD2bgqnyQZSAhLCiYOjjDCcdZ2yD1dWnnRbMQjAJMU3GiLqxuN/xUbJH0eWgAn2HHwmiowT8qTXw2cIVtiKa++O/IBn+2kiBKsbIGSOsVRy1Xhh7b8+io4RJC53Ck8wNcETis8FmR7ynm8gMcMJsPzfms34X/qp6xQhG0B/ZWa8tjTIiXZmRXraiBWngAJSCc7ps0p6jYFLd+9WswkwSCs/YfjhEmj6kcizsv+NLX644Y98zWQ7Gf/CHwu/QawcSD9UdPOmwHoYR+wPuro5JTmgrNnD6rf3enQOuZmuQzfCcmfFMzu+xsQXaMWNHxvAt5Plyahta8TE0f3tVAgyRm5YPrF9/qRZzs=;apFHxSs1cJyGrTy3sH+Kpw=="
+secured: "pcOxGl8Hf28fX/uc2jBsDcyh8Of+1g3aj+qKdS3fZve72iqwu2xqG1axVcgOY3GLxJ6+czh/YJbSEJdujCGQjXnlq7xIrc0WEgf0e+p4E1Zwd3ZoGr7KwZkzfH47PX6qcZGSWEXCOM7sQXljNqWveL5n4NWRHvz0/PIniKqg0YFKbH7SpOVxmUXq3xVb90pz92uHPm2xalsRPLlABpteCsmj6x8S2GKhK64ftKd5l0HuxeE9yU+BH17cUcz39ibHfZw58bE8mso9MoJ6UXFNmwBlQZbQULO46iemTLJPd71TRT0q39AtEgILKxbBZGAUFZ32OczDpOsePcbh5ZyFAmXQKscRnUsdpV6HBpeh3Xo=;a21ObgpNlzcP61YLdElfaw=="
 ---
 

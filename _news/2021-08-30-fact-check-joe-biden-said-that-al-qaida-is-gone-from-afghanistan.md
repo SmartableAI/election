@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Fact-Check-Joe-B
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Fact-Check-Joe-Biden-said-that-al-Qaida-is-16416922.php"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -265,6 +265,15 @@ related:
         width: 1280
         height: 854
         isCached: true
+  - title: "Joe Biden said not everyone who wants to can leave after a war. Military experts checked his history"
+    excerpt: "President Joe Biden’s decision to follow through on a U.S. pledge to withdraw from Afghanistan led to a rush of people seeking to leave the country, including Afghan nationals who had worked with the U."
+    publishedDateTime: 2021-09-02T19:28:00Z
+    webUrl: "https://www.politifact.com/article/2021/sep/02/joe-biden-said-historically-not-everyone-can-leave/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 20
 
 secured: "144dVYd/6uXkvtywaIfTiTQCWZ2no05L53b7Qr26qUmZViPzOVXMDrXAKzxuq4hzKC5Iyg1hA3+qZRowtLp1lLheG9otcDCrug7wAEB8rbaZatIiz9BEvKNRzTC8O1pr/UkpjPklUu7oSZzI8zFljL9k9Op54V+cIepaqlhplj0f/lCcYCGaUDrSj2OPfbbF/8irjX8anfpR7Pgixbxyg31o0nFyv8AlX7KPa0Uvd24pj1DEuABVrU25fV0pAfwVmT70KHVwvVNn/2tPggyyES90NRqQ7YaG409UxXfTRuE+GE22KdIhEIKnPsT6BGmPQEmvXeBis7AGFlC3Yod2KEMvJ2kBEXXbhaKtB8mCwBRHkW/en0v/TUwGIIhI71R+lVBwa5TtMZb8ZBHYkFK2w5gI1wf5Oqf1thkwQ+ghN8B/BDgHdPlFYEnjNhD3sbPbwC6gzwf+GCBaf0wGGmXJd9MGWyeMfi6r/FLiDghfoPEbuDwd9Hh8a7p/9EEoOFuBXRfem2+0ktgPLe3yE2cn0w==;uGHEza/LMzavTL3AbVlK0A=="
 ---

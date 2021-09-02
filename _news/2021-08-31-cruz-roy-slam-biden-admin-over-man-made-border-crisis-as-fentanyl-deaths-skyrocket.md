@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden’s numbers plunging in wake of Afghanistan turbulent exit"
+    excerpt: "Amid the tumultuous and chaotic withdrawal of U.S. forces and personnel from Afghanistan over the past couple of weeks, there’s no letup in the slide of President Biden’s approval ratings."
+    publishedDateTime: 2021-09-02T19:19:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hSkT44P1oEQ/biden-plunging-afghanistan-turbulent-exit"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-plunging-afghanistan-turbulent-exit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-plunging-afghanistan-turbulent-exit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden admin tested by Afghanistan, coronavirus, Hurricane Ida – 3 crises with no easy solutions"
     excerpt: "At just over seven months in office, the Biden administration is facing three major crises, any one of which would be enough to deal with."
     publishedDateTime: 2021-09-01T09:01:53Z

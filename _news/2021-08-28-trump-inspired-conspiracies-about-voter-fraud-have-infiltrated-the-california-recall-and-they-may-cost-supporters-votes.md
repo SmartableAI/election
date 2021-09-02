@@ -87,6 +87,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "On the trail: Trump administration secretaries visit N.H."
+    excerpt: "Former Secretary of State Mike Pompeo had politics at the top of his agenda as he visited New Hampshire this week.But the trip to the first-in-the-nation presidential primary state by the man who served as American’s top diplomat for the last two"
+    publishedDateTime: 2021-09-02T18:11:00Z
+    webUrl: "https://www.concordmonitor.com/Trump-s-secretary-pompeo-devos-New-Hampshire-42276621"
+    type: article
+    provider:
+      name: Concord Monitor
+      domain: concordmonitor.com
+    quality: 55
+    images:
+      - url: "http://www.concordmonitor.com/getattachment/816e6156-73be-4c02-9629-513efd0d089e/attachment.aspx"
+        width: 499
+        height: 325
+        isCached: true
   - title: "Biden Calls Top Court Ruling on Texas Abortion Ban 'Unprecedented Assault' on Women's Rights"
     excerpt: "President Joe Biden on Thursday said the U.S. Supreme Court's ruling on Texas' abortion ban \"is an unprecedented assault on a woman's constitutional rights,\" after the top court allowed the law to remain in place."
     publishedDateTime: 2021-09-02T15:42:00Z

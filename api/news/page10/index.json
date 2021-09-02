@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-08-11-china-hawk-mike-gallagher-bridges-gops-establishment-trump-wings.md",
+      "title": "China hawk Mike Gallagher bridges GOP’s establishment, Trump wings",
+      "excerpt": "Mike Gallagher never intended to be in Washington for the long haul. Since being elected in 2016, the Wisconsin Republican has advocated for congressional reforms such as term limits and lobbying restrictions for officeholders.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2021/aug/10/china-hawk-gallagher-bridges-gops-establishment-tr/",
+      "originalUrl": "https://www.washingtontimes.com/news/2021/aug/10/china-hawk-gallagher-bridges-gops-establishment-tr/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2020/07/11/wisconsin_republicans_99295_c0-99-3045-1875_s1200x700.jpg?6dd222043ace9bd30a2cfe94c2947fd8a83f4703",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.washingtontimes.com/news/2021/aug/10/china-hawk-gallagher-bridges-gops-establishment-tr/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/10/china-hawk-gallagher-bridges-gops-establishment-tr/",
+      "publishedDateTime": "2021-08-10T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-biden-1-trillion-infrastructure-bill-will-transform-america.md",
       "title": "Biden: $1 trillion infrastructure bill ‘will transform America’",
       "excerpt": "President Joe Biden called the $1 trillion infrastructure bill “historic” and said that it will “transform America.” The bill will make a huge investment in nation’s roads, public transit, water and broadband.",
@@ -1218,58 +1261,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-07-trumps-recurring-donation-tactics-led-to-128m-in-refunds-but-his-pac-is-still-using-pre-checked-boxes-to-steer-supporters-into-unwitting.md",
-      "title": "Trump's recurring donation tactics led to $12.8m in refunds, but his PAC is still using pre-checked boxes to steer supporters into unwitting payments",
-      "excerpt": "Trump and the GOP refunded millions to donors in the first half of 2021 after using the controversial fundraising tactic, per The New York Times.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-pre-checked-box-donation-tactic-leads-millions-in-refunds-2021-8",
-      "originalUrl": "https://www.businessinsider.com/trump-pre-checked-box-donation-tactic-leads-millions-in-refunds-2021-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/610e7ba12a24d00018624384?width=1200&format=jpeg",
-          "width": 695,
-          "height": 347,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-pre-checked-box-donation-tactic-leads-millions-in-refunds-2021-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pre-checked-box-donation-tactic-leads-millions-in-refunds-2021-8?amp",
-      "publishedDateTime": "2021-08-07T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

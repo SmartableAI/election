@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-texas-abortion-law-extreme-vi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-texas-abortion-law-extreme-violation-of-roe-v-wade.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ffd9786c-a6ff-4664-bcf8-aa50156e5ca5/baa20d53-a8c4-4810-a228-f2bdd1cd27d0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden slams Supreme Court Texas abortion ruling as 'unprecedented assault on a woman’s constitutional rights’"
+    excerpt: "President Biden on Thursday slammed the Supreme Court’s overnight ruling on Texas' abortion law as an “unprecedented assault on a woman’s constitutional rights.”"
+    publishedDateTime: 2021-09-02T18:20:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/s0NHXNhMv88/biden-supreme-court-texas-abortion-ruling-reaction"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-supreme-court-texas-abortion-ruling-reaction.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-supreme-court-texas-abortion-ruling-reaction.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "gDt+pGRbiIxfaIpMYtXL0NLkblem2H5ykpztvCdjRuQiK8KLScMudnVqFP3q4y2wgEAE+rwqUNyUPSO71dqtCd1ME7fSEFTOQGTv128eUoGg595QzSfFw4ADY1zcSTl54AULxm/X8jmkvp+LBpS2ZvifDfj0rm4xA2HG/LtT7fp9AFBH+AKNGbAlv3Cl87FPRfFTFz6ZUq6vAF+djYlNWs2O1GvhTIAVtA89SDJ7ZT707+qEtURDm+8QZgBlWQZTcyV47ajsAYvnF/YtadFxvLqxNrDMvW1t+u6N4/8n0nGSrN556g+6KwZ7gSXO6Y2xLemEro+3RK2niph6/ZiBJ/kflpgg7tDZzxqIMfwPyeU=;HG/qx2sOHGIDF4u6jJ6sZw=="

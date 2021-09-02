@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-02-psaki-snaps-at-male-reporter-over-question-about-abortion-bidens-faith-youve-never-faced-those-choices.md",
+      "title": "Psaki snaps at male reporter over question about abortion, Biden's faith: 'You've never faced those choices'",
+      "excerpt": "White House press secretary Jen Psaki snapped at a reporter Thursday after he asked how President Biden can consider himself a Catholic while also supporting abortion.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PSx_FEa5nFM/psaki-snaps-reporter-abortion-bidens-faith",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PSx_FEa5nFM/psaki-snaps-reporter-abortion-bidens-faith",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d86e31ba-0f1a-47e5-a0c5-b225000f9b50/81a723a4-3289-4a43-b031-b73ea6346122/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/psaki-snaps-reporter-abortion-bidens-faith.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-snaps-reporter-abortion-bidens-faith.amp",
+      "publishedDateTime": "2021-09-02T12:40:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-02-biden-says-hell-press-congress-on-infrastructure-after-wildfires-and-ida-wreak-havoc-on-us-the-climate-crisis-is-here.md",
       "title": "Biden says he'll press Congress on infrastructure after wildfires and Ida wreak havoc on US: 'The climate crisis is here'",
       "excerpt": "President Joe Biden said Thursday he had spoken to the governors of New York and New Jersey after remnants of Hurricane Ida caused dangerous flash floods and tornadoes across the Northeast.\n    \n",
@@ -174,7 +230,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -438,7 +494,7 @@
       "originalUrl": "https://www.newsweek.com/trump-justices-cast-crucial-votes-texas-abortion-ban-undermining-roe-v-wade-1625266",
       "featuredContent": null,
       "highlight": null,
-      "heat": 221,
+      "heat": 241,
       "tags": null,
       "images": [
         {
@@ -1043,7 +1099,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -1295,58 +1351,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-lauren-boebert-says-she-has-plan-to-get-rid-of-biden-harris-and-pelosi.md",
-      "title": "Lauren Boebert Says She Has Plan to Get Rid of Biden, Harris and Pelosi",
-      "excerpt": "The Colorado Republican said it was time to \"impeach Biden, impeach Kamala Harris, and throw in the secretary of state.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/lauren-boebert-remove-impeach-president-biden-harris-pelosi-afghanistan-1624896",
-      "originalUrl": "https://www.newsweek.com/lauren-boebert-remove-impeach-president-biden-harris-pelosi-afghanistan-1624896",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 560,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1884472/boebert-attends-freedom-caucus-press-conference.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/lauren-boebert-remove-impeach-president-biden-harris-pelosi-afghanistan-1624896?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lauren-boebert-remove-impeach-president-biden-harris-pelosi-afghanistan-1624896?amp=1",
-      "publishedDateTime": "2021-09-01T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

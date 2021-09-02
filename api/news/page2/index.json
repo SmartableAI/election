@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-01-lauren-boebert-says-she-has-plan-to-get-rid-of-biden-harris-and-pelosi.md",
+      "title": "Lauren Boebert Says She Has Plan to Get Rid of Biden, Harris and Pelosi",
+      "excerpt": "The Colorado Republican said it was time to \"impeach Biden, impeach Kamala Harris, and throw in the secretary of state.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/lauren-boebert-remove-impeach-president-biden-harris-pelosi-afghanistan-1624896",
+      "originalUrl": "https://www.newsweek.com/lauren-boebert-remove-impeach-president-biden-harris-pelosi-afghanistan-1624896",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 560,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1884472/boebert-attends-freedom-caucus-press-conference.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/lauren-boebert-remove-impeach-president-biden-harris-pelosi-afghanistan-1624896?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lauren-boebert-remove-impeach-president-biden-harris-pelosi-afghanistan-1624896?amp=1",
+      "publishedDateTime": "2021-09-01T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-09-01-biden-turns-to-nation-building-at-home-but-the-political-threats-he-left-behind-in-afghanistan-could-come-back-to-haunt-him.md",
       "title": "Biden turns to nation building at home, but the political threats he left behind in Afghanistan could come back to haunt him",
       "excerpt": "President Joe Biden may have ended the \"forever war\" but the dangerous loose ends he left behind in Afghanistan could still thwart his attempt to throw everything at his top priority domestic goals.\n    \n",
@@ -1243,58 +1295,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-08-30-fact-check-joe-biden-said-that-al-qaida-is-gone-from-afghanistan.md",
-      "title": "Fact Check: Joe Biden said that al-Qaida is 'gone' from Afghanistan",
-      "excerpt": "What interest do we have in Afghanistan at this point with al-Qaida gone? We went to Afghanistan for the express purpose of getting rid of al-Qaida in Afghanistan, as well as getting Osama bin Laden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/politics/texas/article/Fact-Check-Joe-Biden-said-that-al-Qaida-is-16416922.php",
-      "originalUrl": "https://www.houstonchronicle.com/politics/texas/article/Fact-Check-Joe-Biden-said-that-al-Qaida-is-16416922.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 425,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/21/50/72/21401243/3/400x0.jpg",
-          "width": 400,
-          "height": 266,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.houstonchronicle.com/politics/texas/amp/Fact-Check-Joe-Biden-said-that-al-Qaida-is-16416922.php",
-      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Fact-Check-Joe-Biden-said-that-al-Qaida-is-16416922.php",
-      "publishedDateTime": "2021-08-30T02:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

@@ -261,6 +261,15 @@ related:
         width: 1280
         height: 854
         isCached: true
+  - title: "Joe Biden said not everyone who wants to can leave after a war. Military experts checked his history"
+    excerpt: "President Joe Biden’s decision to follow through on a U.S. pledge to withdraw from Afghanistan led to a rush of people seeking to leave the country, including Afghan nationals who had worked with the U."
+    publishedDateTime: 2021-09-02T19:28:00Z
+    webUrl: "https://www.politifact.com/article/2021/sep/02/joe-biden-said-historically-not-everyone-can-leave/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 20
 
 secured: "LWm8/DWQq3xqCQqOZFYKa8A426jrzVfDcD4N9DDGJWb7p/hiR4Xuisb88AoXPlqKKAfsGTWly2HzRTC4CZsnftrTCX9Ef+UNUGrPwjui4ToDcz0RxmsC6TMqLnEtxeiemtXecAQSQgy0R+b9NoK25sV45rjArgS3zfN4mr4r4+OPZxv8GSp2rNYsG3SpHVd+rrmUkEApahsC26mKosAwujsNBWc/c2uLCD6LBiUWQF0GNlfaNmzVW2z2rXY3AHvcqNwYA42AQT1poig5OzSsR/JUcQPwvktew5U9iCUORFBI8AUOlDRZfKUZRpwWVnOIZeut5nzV0Vh8G8NL16F7F8FuKOSOwQIY4TTTHCJn6SaaPEZAVP2oxicIEdVqY57cBmpqkNDPfMPV2zhml9MY1cK8SAekKw2kDOJnKOE2U/k+vMPRPGOODN5njPPbfOUOfeEIqA859NpcoPW7f4eD7gsS5aHA5orKFGUsZI13aHC+Wg1n51Dt+5kqv+ebqfuMGIztRo4X4Lh+oYkwkG+8dg==;aD24I/HQrHbf/+TzgSNaHw=="
 ---

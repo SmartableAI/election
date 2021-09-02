@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/trump-justices-cast-crucial-votes-texas-abo
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-justices-cast-crucial-votes-texas-abortion-ban-undermining-roe-v-wade-1625266?amp=1"
 type: article
 quality: 121
-heat: 221
+heat: 241
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "On the trail: Trump administration secretaries visit N.H."
+    excerpt: "Former Secretary of State Mike Pompeo had politics at the top of his agenda as he visited New Hampshire this week.But the trip to the first-in-the-nation presidential primary state by the man who served as American’s top diplomat for the last two"
+    publishedDateTime: 2021-09-02T18:11:00Z
+    webUrl: "https://www.concordmonitor.com/Trump-s-secretary-pompeo-devos-New-Hampshire-42276621"
+    type: article
+    provider:
+      name: Concord Monitor
+      domain: concordmonitor.com
+    quality: 55
+    images:
+      - url: "http://www.concordmonitor.com/getattachment/816e6156-73be-4c02-9629-513efd0d089e/attachment.aspx"
+        width: 499
+        height: 325
         isCached: true
   - title: "Trump-inspired conspiracies about voter fraud have infiltrated the California recall. And they may cost supporters votes"
     excerpt: "The campaign to recall California Gov. Gavin Newsom has a conspiracy theory problem, and it just might siphon off votes that could aid its cause. In an illustration of the fallout from Donald Trump’s “Stop the Steal” lie that the 2020 presidential election was stolen from him,"
