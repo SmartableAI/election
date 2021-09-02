@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Fact-Check-Joe-B
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Fact-Check-Joe-Biden-said-that-al-Qaida-is-16416922.php"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fact Check: Did Jack Posobiec Sponsor Rasmussen Joe Biden Approval Poll?"
+    excerpt: "Recent Rasmussen Reports polling focused on Joe Biden has drawn attention not only for its results but who sponsored it. The Claim Questions were raised over the poll being sponsored by Jack Posobiec,"
+    publishedDateTime: 2021-09-02T13:45:00Z
+    webUrl: "https://www.newsweek.com/fact-check-rasmussen-poll-jack-posobiec-sponsor-1625311"
+    ampWebUrl: "https://www.newsweek.com/fact-check-rasmussen-poll-jack-posobiec-sponsor-1625311?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-rasmussen-poll-jack-posobiec-sponsor-1625311?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1885466/jack-posobiec-washington-dc.jpg"
+        width: 2500
+        height: 1588
+        isCached: true
   - title: "Fact check: President Joe Biden did not sleep through meeting with new Israeli prime minister"
     excerpt: "A viral video distorts President Biden's Aug. 27 meeting with Israel's new prime minister to make it appear as if Biden fell asleep. He did not."
     publishedDateTime: 2021-09-01T01:03:00Z

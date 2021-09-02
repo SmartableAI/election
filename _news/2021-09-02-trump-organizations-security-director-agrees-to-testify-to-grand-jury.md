@@ -1,24 +1,32 @@
 ---
 category: news
 title: "Trump Organization’s security director agrees to testify to grand jury"
-excerpt: "The Trump Organization's director of security has agreed to testify before a Manhattan grand jury investigating the former president and his company, according to a person familiar with the case."
-publishedDateTime: 2021-09-02T04:28:00Z
-originalUrl: "https://www.seattletimes.com/nation-world/nation/trump-organizations-security-director-agrees-to-testify-to-grand-jury/"
-webUrl: "https://www.seattletimes.com/nation-world/nation/trump-organizations-security-director-agrees-to-testify-to-grand-jury/"
-ampWebUrl: "https://www.seattletimes.com/nation-world/nation/trump-organizations-security-director-agrees-to-testify-to-grand-jury/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation/trump-organizations-security-director-agrees-to-testify-to-grand-jury/?amp=1"
+excerpt: "The Trump Organization’s director of security has agreed to testify before a Manhattan grand jury investigating the former president and his company, according to a person familiar with the case. Matthew Calamari Jr."
+publishedDateTime: 2021-09-02T10:46:00Z
+originalUrl: "https://www.washingtonpost.com/politics/trump-organization-calamari-grand-jury/2021/09/01/ee8cd3c0-0b7e-11ec-9781-07796ffb56fe_story.html"
+webUrl: "https://www.washingtonpost.com/politics/trump-organization-calamari-grand-jury/2021/09/01/ee8cd3c0-0b7e-11ec-9781-07796ffb56fe_story.html"
 type: article
-quality: 55
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Washington Post
+  domain: washingtonpost.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5IFS5RW2U4I6XDEHVVXSPEMMPA.jpg&w=1440"
+    width: 1440
+    height: 960
+    isCached: true
 
 related:
   - title: "Trump Justices Cast Crucial Votes on Texas Abortion Ban Undermining Roe v. Wade"
@@ -67,7 +75,16 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Biden Calls Top Court Ruling on Texas Abortion Ban 'Unprecedented Assault' on Women's Rights"
+    excerpt: "President Joe Biden on Thursday said the U.S. Supreme Court's ruling on Texas' abortion ban \"is an unprecedented assault on a woman's constitutional rights,\" after the top court allowed the law to remain in place."
+    publishedDateTime: 2021-09-02T15:42:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-09-02/biden-calls-top-court-ruling-on-texas-abortion-ban-unprecedented-assault-on-womens-rights"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 24
 
-secured: "wdU0ITJnMHfOKwWqfnkgJ28Cpp2rvEHl+LsHdRLH0Oz7j7RNZXPPPvvyQW/rX51R5o+L07RKNZlz36+mi8hHGttTdHQaULUhP89G9dhAqI3fbhi9EFdiidB/BBsl/vXqoWV27QeWrGmep6aUElwUW+ijrBwprGUH574OITxvfJUfa8w496K1R1g6KoMb2r6XcZQCqFO3stUy+fsXqvy0om7MCVbcPV9MvY8HqUH9dy0vvwtDd101SR/CTu/kujJQ10FCzotOiwmQSoaols8kIeTidMAmh9fZfZuSqJHzOpwGV91BuIALFeDnh59tCc6JZm53V1XDluW7aP63CIUTGaZsbA719eG8Y3UUUJHOFwEfFHBdSrfKoDWWMPsKfyjFil7Stfi4zLTFkUdPkiN2w0rpyROxwxH2byVHJnPqyJbMp0japcGlb+GaItd44w1LYhvDakpTSgNpoek3LHM5ETxkhGWLCo4sDvPNvFEWB5/rdcCiGO9FyZqbujQh4YAotz8NHQUJX4aXoWaFUavFmQ==;LK1F4S5cR9/Obu6U3B4NKg=="
+secured: "aGEPkbGH4YVUkaIH3O8BnsujnukivaSGVpPHpqqZM8pCPgaGHiBIHIAPhOtWHkpj7hvAoJrxleXjW3OZ9TKch0FRdlpL+Mirym9RuuaECMS4PAyIw+xw+RV2NB1A6VagzBqidgjiqZXoCnFlnMZwClrl+HN9erE0JYISN5qbFfvaDbTm5PJyCDKhPu2IUvd1neLnDGAd4RA3UFMBzgmU64Vdb2/hQJZYwlVPJTwHERne8RuU+HN+lWQQHsTdajdhi3lC3cOY9TFUavU4xulUJZqtr9xIw/1eqMlvZ2a2WvKIWEbtTdksydQFYzf073LV3yN89dg36cObLTfVOhoubRf3V32j/8yZ3Dz6T7bhCy4yfmkgAgnVA530sQ4r04vHwXbpo4aSWqVIm0ODob/4Qlgg0xk1bfUFMG7EZUUejNamcDZ8CDNmEx4PS61Gu2oGXmCxgzNKy8t5qKwP2+ZHazb4MeZAHt67Vu58hJlAU3bfTbzy8mnhX3ztJYTBnLvAkos6PHz+CBZP3W/3UV42vA==;XBzqTatXWUkrnYBDhiXYPA=="
 ---
 

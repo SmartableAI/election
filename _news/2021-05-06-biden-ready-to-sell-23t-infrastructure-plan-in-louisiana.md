@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-ready-sell-23t-i
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-ready-sell-23t-infrastructure-plan-louisiana-77526895"
 type: article
 quality: 125
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -131,6 +131,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Biden to detail storm response, survey damage in Louisiana"
+    excerpt: "President Joe Biden on Thursday will detail his administration's response to Hurricane Ida, which knocked out power and wreaked havoc along the Gulf Coast before causing deadly flooding and tornadoes in the Northeast."
+    publishedDateTime: 2021-09-02T13:32:00Z
+    webUrl: "https://www.nhregister.com/news/article/Biden-to-detail-storm-response-survey-damage-in-16430529.php"
+    ampWebUrl: "https://www.nhregister.com/news/amp/Biden-to-detail-storm-response-survey-damage-in-16430529.php"
+    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Biden-to-detail-storm-response-survey-damage-in-16430529.php"
+    type: article
+    provider:
+      name: New Haven Register
+      domain: nhregister.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "President Joe Biden plans to make trip to Louisiana in wake of Hurricane Ida destruction"
     excerpt: "President Joe Biden plans to visit Louisiana Friday to survey damage from Hurricane Ida. Hurricane Ida slammed into Louisiana with 150 mph winds."
     publishedDateTime: 2021-09-01T16:43:00Z

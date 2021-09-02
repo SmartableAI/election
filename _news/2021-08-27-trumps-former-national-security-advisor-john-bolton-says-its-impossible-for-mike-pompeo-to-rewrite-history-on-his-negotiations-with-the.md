@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/john-bolton-impossible-to-rewrite-hi
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/john-bolton-impossible-to-rewrite-history-on-mike-pompeo-taliban-deal-2021-8?amp"
 type: article
 quality: 86
-heat: 126
+heat: 146
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 1707
         height: 960
         isCached: true
+  - title: "FACT FOCUS: Trump, others wrong on US gear left with Taliban"
+    excerpt: "Marsha Blackburn, Rep. Lauren Boebert and former President Donald Trump. While the U.S. spent $83 billion to develop and sustain Afghan security forces since 2001, most of it did not go toward ..."
+    publishedDateTime: 2021-09-02T07:09:00Z
+    webUrl: "https://columbiabasinherald.com/news/2021/sep/02/fact-focus-trump-others-wrong-on-us-gear-2/"
+    type: article
+    provider:
+      name: Columbia Basin Herald
+      domain: columbiabasinherald.com
+    quality: 35
 
 secured: "BoIsUfFG4NlSGBf+1JrKv0WRRJTrKFvoD2bzcXCR7rzBcfByAx3Oz66WRR98pLDA+qSbg6jbM3EbQ55POFOfekKPL3wL5ows8b7RYA4fch4dqueujC/MvnrgvjppFcWEYFgRhxjB4O51CKzEvGqMGFMQzeXmhdOzogZYYsKHh2nLstqzrdcAvR/IdKM8ysLlYfKWyLv4X3Sp7EdBguzqJ3zKvDBe3+9i88pomtXkySf8YFyPmBjDgyoogXCqazS64KyPBqlWL6kx0pYURo/B3+sVCT25XdxfsmeSSqLv42dCQnekkaw9bXIIf4Hd7NYdMV5z7jPhGYaIFIKcJ8cmGlgYLUPWl7zuqTDZDHAEOxk=;6E+MJQ8GN5yqIYkySWdStw=="
 ---

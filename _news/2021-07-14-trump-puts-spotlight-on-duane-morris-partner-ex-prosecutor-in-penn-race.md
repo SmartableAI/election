@@ -109,14 +109,14 @@ related:
         isCached: true
   - title: "Parnell gets Trump endorsement in Pennsylvania Senate race"
     excerpt: "Former President Donald Trump is endorsing in Pennsylvania’s crowded U.S. Senate field, backing Republican Sean Parnell in what is expected to be one of the nation’s most competitive Senate contests in next year’s election."
-    publishedDateTime: 2021-09-02T06:04:00Z
-    webUrl: "https://www.kentucky.com/news/politics-government/national-politics/article253926858.html"
-    ampWebUrl: "https://amp.kentucky.com/news/politics-government/national-politics/article253926858.html"
-    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/politics-government/national-politics/article253926858.html"
+    publishedDateTime: 2021-09-02T10:43:00Z
+    webUrl: "https://www.thestate.com/news/politics-government/national-politics/article253926858.html"
+    ampWebUrl: "https://amp.thestate.com/news/politics-government/national-politics/article253926858.html"
+    cdnAmpWebUrl: "https://amp-thestate-com.cdn.ampproject.org/c/s/amp.thestate.com/news/politics-government/national-politics/article253926858.html"
     type: article
     provider:
-      name: Lexington Herald Leader
-      domain: kentucky.com
+      name: The State
+      domain: thestate.com
     quality: 55
 
 secured: "ijwEaMLyXzXhjc1v9c8Z/k9f+p90f7PijIBPL5F0gWXDjVzTVrPk3f492ucqh2fk22dQNy3EjXitk53JWRpKN9AFQezrPus7DHFN0Ugoz/ODRz7JVBcjoF+M7JmBx326iCEC7AKr9d11dYSXNSoNbYuIZaBb/rlfxGBH+nujtJTBxmtZoTwBO0gdNZ+ToxDbVRaXGq7takUxC8f0mF9nzONyK32rCHXuVv+fTk82GJHISdWDoIEbdevIDPeqAVKTyzCwo3WEfgJYtzzFqshP8WOlzsHbV9yrWNW+xvBSv+s1tleeORZ8YhULKDAcAKm5YULAFFvh9A1P45wivrblMIuuV7HTOdbE5WEJbD7RqCzlk+lqkgCW15vTFLdjwz00J5jaqph9kc4o7Z9NFUQUXZ6Ge+up+zO97BHzdazeMkDYhpI/hnqRitKmvXg4/JcE72frwDvoIIvdDJD4RoxL5KDfyJcnWj/IV2qfXa/ubUj0nyiNNvRt8cl6D5yo3FpxEiR9uMGh7ZLW+SSioN5tkg==;19JApCqLRNRC2CNa5cKBUQ=="

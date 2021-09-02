@@ -57,6 +57,15 @@ related:
         width: 1707
         height: 960
         isCached: true
+  - title: "FACT FOCUS: Trump, others wrong on US gear left with Taliban"
+    excerpt: "Marsha Blackburn, Rep. Lauren Boebert and former President Donald Trump. While the U.S. spent $83 billion to develop and sustain Afghan security forces since 2001, most of it did not go toward ..."
+    publishedDateTime: 2021-09-02T07:09:00Z
+    webUrl: "https://columbiabasinherald.com/news/2021/sep/02/fact-focus-trump-others-wrong-on-us-gear-2/"
+    type: article
+    provider:
+      name: Columbia Basin Herald
+      domain: columbiabasinherald.com
+    quality: 35
 
 secured: "momFJqGTGLPHgGH2CH2ogGB3rCFDKVJL/AZ+jyL9UrBJ4wNEx+1uEOOM81H4BJoF5byMpTqUutq2i95gHdL6tnDRqnmrK32wohTmBzSSQ8M0giKzIX0KGOZKr8yiFTurjiclyFmBrUcRNKimEC1Mtwst69V/qHX/qb9vcG4boUWfZaMIZ+TcjR26qLrSPDjLU4kdZElVOOSa90x+ysAGzUUz03igxsY6uFq8n3j1qFgM76kdwFRwLv1MWZnjc7vacdlekYTJ+5cwd5qoN+HMGiv8eyeCwCQT/5nFAigaAtIlRSHXUORC4htvvVKNR6VMI+zFM9Gx+smMCIqkvOQqSIjXcV3geZOm9Gk2ENGG6rE=;w7JtAtKfoW+EwEeWpChnvg=="
 ---

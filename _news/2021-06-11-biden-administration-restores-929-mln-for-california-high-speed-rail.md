@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DN0DY"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DN0DY"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -56,6 +56,22 @@ related:
       name: ABC
       domain: abcnews.go.com
     quality: 85
+  - title: "Slain California Marine’s mother slams President Joe Biden on social media"
+    excerpt: "The mother of a Norco Marine killed in Afghanistan has blasted President Joe Biden on social media, saying the president rolled his eyes when meeting with families of slain service members and that her son’s blood is on his hands."
+    publishedDateTime: 2021-09-02T10:48:00Z
+    webUrl: "https://www.mercurynews.com/2021/09/02/slain-norco-marines-mother-slams-president-joe-biden-on-social-media/"
+    ampWebUrl: "https://www.mercurynews.com/2021/09/02/slain-norco-marines-mother-slams-president-joe-biden-on-social-media/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/09/02/slain-norco-marines-mother-slams-president-joe-biden-on-social-media/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 73
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/09/APTOPIX-Casualty-Return-Afghanistan.jpg?w=1024&#038;h=682"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "7GRmgdf5W5aBRJNIjf6n7cWjaxsZyWtGAaXuIjUElVwkI6ioLsgbYgXQxGX5iVWzMpqQs8PfHX3LEuUHn/CqK4T7lt6Xt+MLHbMSXlDd3hsFi7bVAIjWSFZf2auueblVD35raDxm6BFFYbCT33f0akd1eEZxQqv8rbwDL9s8c/MWd7zW6/6q49zzmERuUL8eQNqRDRo7UJg4iXuVaNFaevpeUdzY6n9CnoGqXPIw8OuazD/xwkjB68aUOVM0MPsHI5UJXVJ+KnSYiE2je0lCFjOEmRh6VPB3Q/gPOsaK1UeO/kIvfnj4VHHG73/OPyR3BLKgI/LUskOafhc08ug+irqKo2c9wGOwC+fP0wJJiqY=;2DuucPNJYOfnBzyqjVE1Cg=="
 ---

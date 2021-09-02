@@ -2,19 +2,19 @@
 category: news
 title: "Parnell gets Trump endorsement in Pennsylvania Senate race"
 excerpt: "Former President Donald Trump is endorsing in Pennsylvania’s crowded U.S. Senate field, backing Republican Sean Parnell in what is expected to be one of the nation’s most competitive Senate contests in next year’s election."
-publishedDateTime: 2021-09-02T06:04:00Z
-originalUrl: "https://www.kentucky.com/news/politics-government/national-politics/article253926858.html"
-webUrl: "https://www.kentucky.com/news/politics-government/national-politics/article253926858.html"
-ampWebUrl: "https://amp.kentucky.com/news/politics-government/national-politics/article253926858.html"
-cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/politics-government/national-politics/article253926858.html"
+publishedDateTime: 2021-09-02T10:43:00Z
+originalUrl: "https://www.thestate.com/news/politics-government/national-politics/article253926858.html"
+webUrl: "https://www.thestate.com/news/politics-government/national-politics/article253926858.html"
+ampWebUrl: "https://amp.thestate.com/news/politics-government/national-politics/article253926858.html"
+cdnAmpWebUrl: "https://amp-thestate-com.cdn.ampproject.org/c/s/amp.thestate.com/news/politics-government/national-politics/article253926858.html"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Lexington Herald Leader
-  domain: kentucky.com
+  name: The State
+  domain: thestate.com
 
 topics:
   - Election
@@ -114,6 +114,6 @@ related:
         height: 682
         isCached: true
 
-secured: "kwcg67q2yf71+M75EJp4htInzqtA5MCOKOoLYmK0VnSNQoEcT0jQkF5MM1rIw3jME93oxryp3B8g6aD8AEt2aQ+DEg35A3sjwHbDXENBWcJ+IwTc8thg5Q/0I+wUZmLplG42MDOy36cAK9YGI3b2ku4jdAzY7U2f3/4em1vjKDX3p0MjZ0POkzW+wiLt4xgyUHiTELUnFXR8yhHKKQaJxE3QnIrNuvdeiILmFPSQwaWaSdik1RSZJVqxGDJLtIOOaIOf9o8IbiFECGnJ/LFxGZhVj4BhJPcX9BGp6/EH+vvbZbAwidyIAqxxtWLjMmJKt1FPjMdzV/PsbWeWzh41430kl2ABZqqD02SV137dSrw=;kY+qgmswCQMt7qW2djg5+A=="
+secured: "/LDBx/DJH1DgFp0NMTAHBUMXNjczYaehC//qJtc6JfY7HbndJeQ6IQ78G1DkU+WpYUJrLbj3nowJ7Dn9nPLrgY5WFy5nNcWydUIqMLgZgLqK79cvhZzuVJ9cvrZi4ZBs2QbjZTlaPeT8ur1EYra6rfsLWQMHGHX1Yex2W6J0Wd44BylUc3B8BqYapiXohuVIiPX8bihXxIDhzASRcFbKSue8C7gfhRbwVC9lqz/+2mXsEH4QuGUt+hRMrlupmYfWMPw/LOskTzzKXqSFdEqogespNQNThjhp+o+J5R5pOR/8tvBVDbBCksENl+AizNhn6Ei6Z/4Sn+yJizj9iGvv/n7Mbh6rDasz52//hTdXCQo=;8uE1N5JwcjcnQhJPqDaKkg=="
 ---
 

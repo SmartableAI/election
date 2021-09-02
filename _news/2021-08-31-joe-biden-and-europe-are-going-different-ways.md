@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/bfe24854-3bf2-4ada-b3a2-778b4707c31f"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/bfe24854-3bf2-4ada-b3a2-778b4707c31f"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Churchill: From Joe Biden, a promise broken"
+    excerpt: "In July, Joe Biden delivered a speech about the military withdrawal from Afghanistan. It's worth revisiting. The president said many words that day that haven't stood the test of time, including a prediction that \"the likelihood there’s going to be the Taliban overrunning everything and owning the whole country is highly unlikely."
+    publishedDateTime: 2021-09-02T10:00:00Z
+    webUrl: "https://www.timesunion.com/churchill/article/Churchill-From-Joe-Biden-a-promise-broken-16428751.php"
+    ampWebUrl: "https://www.timesunion.com/churchill/amp/Churchill-From-Joe-Biden-a-promise-broken-16428751.php"
+    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/churchill/amp/Churchill-From-Joe-Biden-a-promise-broken-16428751.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/55/10/21418547/5/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
   - title: "Slain Norco Marine’s mother slams President Joe Biden on social media"
     excerpt: "The mother of a Norco Marine killed in Afghanistan has blasted President Joe Biden on social media, saying the president rolled his eyes when meeting with families of slain service members and that her son’s blood is on his hands."

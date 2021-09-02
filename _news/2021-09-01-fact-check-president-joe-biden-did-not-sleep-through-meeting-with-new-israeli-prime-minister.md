@@ -47,6 +47,22 @@ related:
         width: 400
         height: 266
         isCached: true
+  - title: "Fact Check: Did Jack Posobiec Sponsor Rasmussen Joe Biden Approval Poll?"
+    excerpt: "Recent Rasmussen Reports polling focused on Joe Biden has drawn attention not only for its results but who sponsored it. The Claim Questions were raised over the poll being sponsored by Jack Posobiec,"
+    publishedDateTime: 2021-09-02T13:45:00Z
+    webUrl: "https://www.newsweek.com/fact-check-rasmussen-poll-jack-posobiec-sponsor-1625311"
+    ampWebUrl: "https://www.newsweek.com/fact-check-rasmussen-poll-jack-posobiec-sponsor-1625311?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-rasmussen-poll-jack-posobiec-sponsor-1625311?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1885466/jack-posobiec-washington-dc.jpg"
+        width: 2500
+        height: 1588
+        isCached: true
   - title: "Joe Biden Defended His Decision To Not Push The Afghanistan Withdrawal Into A “Forever Exit”"
     excerpt: "But drone strikes against terrorist targets are likely to continue, Biden said in a speech the day after the withdrawal ended."
     publishedDateTime: 2021-08-31T21:05:00Z

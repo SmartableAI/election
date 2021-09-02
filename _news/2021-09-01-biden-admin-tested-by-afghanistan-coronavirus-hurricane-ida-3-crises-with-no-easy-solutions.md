@@ -31,99 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Biden administration guidance limiting ICE arrests sees pushback from 16 states"
-    excerpt: "A coalition of 16 attorneys general is pushing back against \"interim guidance\" issued under President Biden’s administration which limits the number of deportations and immigration-related arrests by U.S. Immigration and Customs Enforcement (ICE)."
-    publishedDateTime: 2021-09-01T21:59:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wb_Ny-a1VNg/16-states-push-back-biden-administration-guidance-ice-arrests"
-    ampWebUrl: "https://www.foxnews.com/politics/16-states-push-back-biden-administration-guidance-ice-arrests.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/16-states-push-back-biden-administration-guidance-ice-arrests.amp"
+  - title: "Biden helps secure Tajikistan’s border amid US border crisis"
+    excerpt: "The United States is helping Tajikistan secure a portion of its border with Afghanistan to help combat security threats in the region, despite the ongoing crisis at the U.S. border."
+    publishedDateTime: 2021-09-02T15:49:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GCeTB-W6StQ/biden-secure-tajikistans-border-us-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-secure-tajikistans-border-us-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-secure-tajikistans-border-us-crisis.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1d7193e5-ede5-4bf2-aa7b-dbd866fc1d66/a339ff07-8e85-4916-bbeb-616f413934b1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2dd2cd3e-37db-4527-a410-18c2cb90ae1e/c5e78bb9-d1d4-4a01-9c74-4ef1265d20f0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "DeSantis requests Biden administration stop resettling illegal immigrants in Florida"
-    excerpt: "Florida Gov. Ron DeSantis this week wrote to the Biden administration, asking it to stop resettling illegal immigrants in the state of Florida -- and to either deport them instead, or send them to a state that supports the \"flouting of our immigration laws.\""
-    publishedDateTime: 2021-08-28T23:44:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YUbsxcZSIJU/desantis-biden-administration-resettling-illegal-immigrants-florida"
-    ampWebUrl: "https://www.foxnews.com/politics/desantis-biden-administration-resettling-illegal-immigrants-florida.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/desantis-biden-administration-resettling-illegal-immigrants-florida.amp"
+  - title: "Cruz, Roy slam Biden admin over 'man-made' border crisis as fentanyl deaths skyrocket"
+    excerpt: "The Republican lawmakers are traveling around Texas to learn more from local officials and stakeholders about how the border crisis is affecting them."
+    publishedDateTime: 2021-08-31T20:59:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6fE_C-3sld0/cruz-roy-slam-biden-man-made-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/cruz-roy-slam-biden-man-made-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-roy-slam-biden-man-made-border-crisis.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 168
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2aceabfa-c574-4199-9cf5-c9d829f5f934/4c07d242-57e6-46a5-86cc-febae62f6953/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d5350c7-1d68-47a9-ac8f-8ed9d7cd42a4/cfc6f5f5-c10b-48b0-8430-f10e3255eecb/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "SCOTUS 'Remain in Mexico' ruling marks latest immigration defeat for Biden administration"
-    excerpt: "The latest Supreme Court ruling marks yet another legal defeat for the Biden administration on the subject of immigration."
-    publishedDateTime: 2021-08-25T23:57:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_SA0uAJzKbA/scotus-remain-mexico-ruling-marks-latest-immigration-defeat-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/scotus-remain-mexico-ruling-marks-latest-immigration-defeat-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scotus-remain-mexico-ruling-marks-latest-immigration-defeat-biden.amp"
+  - title: "26 Republican senators ask Biden for info on vetting of Afghanistan evacuees, Americans left behind"
+    excerpt: "Republican senators issued a letter Thursday demanding President Biden provide the exact number of Americans, green-card holders and special immigrant visa applicants who remain in Afghanistan as well as what type of vetting evacuees are undergoing before being granted entry to the United States."
+    publishedDateTime: 2021-09-02T14:02:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sBylJKSkRRo/gop-senators-ask-biden-vetting-afghanistan-evacuees-americans"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-senators-ask-biden-vetting-afghanistan-evacuees-americans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-ask-biden-vetting-afghanistan-evacuees-americans.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 166
+    quality: 161
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/30426bd6-2aa5-4d0e-8ec5-b4c0e9e8d7a9/41eaf33d-87b6-417c-a681-2a8868546e2f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/91a3f10b-bff5-465f-a844-451711ab4733/62e9238a-e41c-4459-90cc-148130ded048/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "20 states sue Biden admin over guidance allowing biological males on girls’ sports teams"
-    excerpt: "Twenty states have filed a lawsuit against the Biden administration in an attempt to halt directives that extend federal sex discrimination protections to transgender people."
-    publishedDateTime: 2021-08-31T16:49:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cTAwnprt4WU/20-states-sue-biden-admin-biological-males-girls-sports-teams"
-    ampWebUrl: "https://www.foxnews.com/politics/20-states-sue-biden-admin-biological-males-girls-sports-teams.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/20-states-sue-biden-admin-biological-males-girls-sports-teams.amp"
+  - title: "Biden repeatedly implies he’s not in charge of when, where he can take questions from the press"
+    excerpt: "President Joe Biden has repeatedly implied that his handlers set the rules and determine when and where he’s allowed to take questions from the press, leading observers to ponder who is actually calling the shots behind the scenes."
+    publishedDateTime: 2021-08-30T14:17:00Z
+    webUrl: "https://www.foxnews.com/media/biden-implies-handlers-are-in-charge"
+    ampWebUrl: "https://www.foxnews.com/media/biden-implies-handlers-are-in-charge.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-implies-handlers-are-in-charge.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 166
+    quality: 123
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17d03a4d-b676-45f8-a470-769625091d70/1492c709-10eb-419f-8345-d50968bbe61c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden Education Department opens civil rights investigations into 5 states for banning school mask mandates"
-    excerpt: "The U.S. Department of Education is opening an investigation into whether prohibitions on indoor masking mandates constitute discrimination against kids with disabilities."
-    publishedDateTime: 2021-08-30T17:39:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xGnlNRq3GOY/biden-education-department-civil-rights-investigations-masks-schools"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-education-department-civil-rights-investigations-masks-schools.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-education-department-civil-rights-investigations-masks-schools.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f51b3476-234e-4048-a476-76c810bde5ad/9be3c475-e32a-4b19-bdf9-55aba86bdf91/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "GOP Sen. Hagerty wants Congress to review Biden immigration enforcement limit"
-    excerpt: "FIRST ON FOX: Sen. Bill Hagerty, R-Tenn., is asking the Government Accountability Office if controversial Immigration and Customs Enforcement (ICE) guidance that dramatically reduced the scope of immigration enforcement could be subject to review by Congress -- days after the Biden administration suffered"
-    publishedDateTime: 2021-08-30T19:35:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y_fL1jkliLo/hagerty-gao-if-biden-admin-immigration-policies-review-congress"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 152
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/haggerty.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/340/340/Flood-pic.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "KadoQUBkMcSJRp8dPi5hTjMHJGQKbSywOnU1Xf6TWgyqm1rlKJjgQ+zUuI8rUfmzoIgxYZu3xYHXjmoXqovrhzcuIi7CVFbZVFB0zNiBFkcflztpZpy2y0aBupDdILNaFY2upvPTzGpA8Ogw80Wmwpt3gqn0EYUbdkdPOuBz9OHVvvhQlU0xjmlMOODcF5/fHRwcMpKy+A0P5LAZf7PymZi40a/ZSIxM0OmwM1XTj4TSnUBmGGhVxoBqSFS4yjZA6a46dYBvUoIGFrCM4LsEgqjZdryS/KetsrnEZyaEflm/ZclPx8JWfKJRHcgwrzaHcepbVTeb5bqdNhE5DreEC4Zrwf6VUSlqN2a37TLUvA4=;fd7MmsWU1QAAbqClYKXQ/Q=="

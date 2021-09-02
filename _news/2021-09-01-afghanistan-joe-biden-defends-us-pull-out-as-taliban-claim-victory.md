@@ -2,17 +2,21 @@
 category: news
 title: "Afghanistan: Joe Biden defends US pull-out as Taliban claim victory"
 excerpt: "US President Joe Biden has defended his decision to withdraw US troops from Afghanistan - a move which led to Taliban militants returning to power. Staying longer was not an option, Mr Biden said in an address to the nation,"
-publishedDateTime: 2021-08-31T21:12:00Z
-originalUrl: "https://www.bbc.co.uk/news/world-asia-58403735?at_medium=RSS&amp%3Bat_campaign=KARANGA"
-webUrl: "https://www.bbc.co.uk/news/world-asia-58403735?at_medium=RSS&amp%3Bat_campaign=KARANGA"
+publishedDateTime: 2021-09-01T09:05:00Z
+originalUrl: "https://www.bbc.com/news/world-asia-58403735?at_custom1=%5Bpost+type%5D&at_custom4=39BC6020-0AA0-11EC-9B05-91E34744363C&at_custom2=twitter&at_campaign=64&at_medium=custom7"
+webUrl: "https://www.bbc.com/news/world-asia-58403735?at_custom1=%5Bpost+type%5D&at_custom4=39BC6020-0AA0-11EC-9B05-91E34744363C&at_custom2=twitter&at_campaign=64&at_medium=custom7"
 type: article
-quality: 55
+quality: 105
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -568,6 +572,6 @@ related:
       domain: seattletimes.com
     quality: 34
 
-secured: "yHm2A5nDrxi06hJ6VGkYtr7NsMeo6z4E2fQH9Py+aulItbFS0E60QFdSzbWz6LGcNVMWhwmWdrMVTyn4pOpV5S6KHBPX5OQZR6SCfDsiZce/gigwNp1nGvs05clhFGvvEPPi5F5tBtm8PgwqdiLqoYFxTP1qNpHazFLXO4Fv5qYHmLte0vxAyfhFGbPwcA0YO9HpseMP9NmKO3lx02XulN6zQ8qGCe86Wj5FzFgL+wTZRieqyr9MdfplvJ8JeAZsF86UtFyPFO/+RCnXvvhIUz8dzc05Wvo8EeKzBSVPSrurl+ye4j6qCylQZgTRj1zVpL3+mX0z8/1yE7DQArRJmWyJAU7mkRSlvBFLP2Yn+os=;UoLnZ10pG9NLRaC2dsFHPw=="
+secured: "ReaTmAKDO2bjGOGNpngH+cob2yPjdqmRLJ0uBfHufUy5lv16nfRYi+bBxcEM8mWHdtZhFtIP9erOPiIsHga0Q609uWRPmNd3qJ7YcDeIoUHuxVt1DQG7o/2lwn6SX148EAMhHEwBA04fPqkP8c7gj8L3rzCsVhDcUSmJn5Pqrn1KFPFfDnbKBltneAaU7urDgMN29auWkxr9UkptjbqA5gaDymbGxZWsxEMQwzPr3p3OHvnI8G96VEA5WGzwFTJ5aULAf1UNIoVvTmGjDYJMcmx2ySYVBWeD84CzqkFWuYTg/uqg4RObjMBDT8IBqyVSoxcz3o33W3Fq9L+0VysfIO7oSPXE/qgSs3J+tsAmJ7o=;suwu/UbFNkyy2J/y9fy/fg=="
 ---
 

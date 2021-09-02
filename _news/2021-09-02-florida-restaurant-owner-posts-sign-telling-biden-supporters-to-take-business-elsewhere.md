@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/florida-restaurant-owner-posts-sign
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-restaurant-owner-posts-sign-telling-biden-supports-to-take-business-elsewhere.amp"
 type: article
 quality: 166
-heat: 186
+heat: 166
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 720
     height: 405
     isCached: true
-
-related:
-  - title: "Biden repeatedly implies he’s not in charge of when, where he can take questions from the press"
-    excerpt: "President Joe Biden has repeatedly implied that his handlers set the rules and determine when and where he’s allowed to take questions from the press, leading observers to ponder who is actually calling the shots behind the scenes."
-    publishedDateTime: 2021-08-30T14:17:00Z
-    webUrl: "https://www.foxnews.com/media/biden-implies-handlers-are-in-charge"
-    ampWebUrl: "https://www.foxnews.com/media/biden-implies-handlers-are-in-charge.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-implies-handlers-are-in-charge.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 123
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/340/340/Flood-pic.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "P2GRPjcTfr+w6u2YXOEPV1W7OIu21n7mAjSwyKsSJfVSMtINKbCyLG8V08Ikvi+Ty+kzOh4pyn25rLQ7z/CoFJhD97NiHNzG5IoZtoPlshJnOtofu1FMXruBGQbvcega1aERSNJ/U6tvcueQJSsyGm70+hXUnuu8Zforb8eqi+LHR0TOAjs8tk5uibwOqaJPo114oyuSubuYgmCWB3iKvK1N5pkX8o+qJI8HoEOgcRDmAhni1/whITvOMNU8DTVOeR+wpAt6glo6e0Su8a63j2y/QXmAKYcVb70lQgO3zKvRL9G8gC7pkq0gn6ssIz0uoDZ4ZImlK40XdrTzOyvABWoz6ZoaWep+TbOagYty8EA=;aJWW9BtheM3mbKslc1CQsw=="
 ---

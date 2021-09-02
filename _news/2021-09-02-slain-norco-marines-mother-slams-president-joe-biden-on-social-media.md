@@ -107,6 +107,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Churchill: From Joe Biden, a promise broken"
+    excerpt: "In July, Joe Biden delivered a speech about the military withdrawal from Afghanistan. It's worth revisiting. The president said many words that day that haven't stood the test of time, including a prediction that \"the likelihood there’s going to be the Taliban overrunning everything and owning the whole country is highly unlikely."
+    publishedDateTime: 2021-09-02T10:00:00Z
+    webUrl: "https://www.timesunion.com/churchill/article/Churchill-From-Joe-Biden-a-promise-broken-16428751.php"
+    ampWebUrl: "https://www.timesunion.com/churchill/amp/Churchill-From-Joe-Biden-a-promise-broken-16428751.php"
+    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/churchill/amp/Churchill-From-Joe-Biden-a-promise-broken-16428751.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/55/10/21418547/5/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Was Biden looking at his watch during ceremony for Marines killed in Kabul?"
     excerpt: "It appeared President Biden glanced at his watch during a solemn ceremony for U.S. Marines killed in the Kabul terror attack."
     publishedDateTime: 2021-08-30T02:28:00Z

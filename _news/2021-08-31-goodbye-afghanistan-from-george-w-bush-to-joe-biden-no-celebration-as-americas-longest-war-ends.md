@@ -3,18 +3,18 @@ category: news
 title: "Goodbye, Afghanistan: From George W. Bush to Joe Biden, no celebration as America's longest war ends"
 excerpt: "Twenty years after U.S. bombers arrived, the last U.S. cargo plane departs a war that has left its mark, and its sorrow, on four presidents."
 publishedDateTime: 2021-08-31T00:38:00Z
-originalUrl: "https://www.cincinnati.com/story/news/politics/2021/08/30/afghanistan-war-ends-america-legacy/5598968001/"
-webUrl: "https://www.cincinnati.com/story/news/politics/2021/08/30/afghanistan-war-ends-america-legacy/5598968001/"
-ampWebUrl: "https://amp.cincinnati.com/amp/5598968001"
-cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5598968001"
+originalUrl: "https://www.indystar.com/story/news/politics/2021/08/30/afghanistan-war-ends-america-legacy/5598968001/"
+webUrl: "https://www.indystar.com/story/news/politics/2021/08/30/afghanistan-war-ends-america-legacy/5598968001/"
+ampWebUrl: "https://amp.indystar.com/amp/5598968001"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5598968001"
 type: article
 quality: 60
 heat: -1
 published: false
 
 provider:
-  name: Cincinnati Enquirer
-  domain: cincinnati.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -789,6 +789,6 @@ related:
         height: 380
         isCached: true
 
-secured: "FglYHw9tOJeXRbK86bfqlRyX0TolPbLDd2e5NUIzys7bmCPWRGj4b3tPr7w4wSTG4VuuiOtivBEX8uRbf6loLKxdjcO5PGsQ9dn7SAwRiZqwGgzhRPeK37CUcsy6m0DWuylJqf+eNmLqwq6037M2QBkgnbxlevGZDi3a6tUgyHnHUYe+DNPeaP5d7VEQm9f0vvCZcAmz2Bmym9ZSJi0mEKOjmbaGB3R0h+73K8IoA61LLHWScTK6xhiI18NJFSww2Zb+pPKYGxHhBVOG4Ac3Njk+ba/rrpNBDf2JI0+UOqF7GZ71C1jolqTJYw3cyluApKwCSeOIeSMCjO7p5rQvTfzIArckfKVAZ5FFMDxbLVU=;1RZ71X02INiI9CqNbOXhJw=="
+secured: "46yRfcbT7NRUnob4p4YJL0btR1yCr/2MT8702NmZusgxoF4heJc2qn4PbfrANs/dbRpvF3KTiFrUL8HcT/osHRvkxNuqmAkjIAYjwNVh9l38XzMd9azXPPiyTYdRJ0HN7W30intHLX22LckVoMjce8/CVs9SxGtTNyTisP8GJSynIWatAtb06RwNT507FH8CqCKXZh7PyL96iPMDrxeKd+OwwMPSkzuKMoo8Cs4XiYBRjQMEK8DAiiUbBkzHKlCzCY/ZvD3dzUxjLJfXG2xDfZg04N/dCCnbkgJ4J01vyz15+lh7DPLjhm06HLekObTpv3x+yVo24RpVac0PyNLq0c8IJ6LwnmzicN7eOGmAjpL8gH8Ocq7KmBP/CFOLkuWqWbx3zrg937FmOMfFfNpxkh1VKJZjbXwpLfGa4eLhuA9ORTN0wvarNaRP87IQnGtMOnsIQhVIsMPM+wGNuI0WAWvVjVTYRTxtISCB5l9mEySpFbq6XGTwZi+4h6IuQ3tsBZmTKwZWvPcGor/33smuLQ==;9jwgZ5cFwjARU16UwJt8xQ=="
 ---
 

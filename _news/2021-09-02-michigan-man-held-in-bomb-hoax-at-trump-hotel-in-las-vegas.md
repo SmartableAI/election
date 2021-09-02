@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/michigan-man-held-bomb-hoax-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/michigan-man-held-bomb-hoax-trump-hotel-las-79778041"
 type: article
 quality: 125
-heat: 185
+heat: 225
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Michigan man says Trump ruined his life, held in Las Vegas hotel bomb hoax"
+    excerpt: "Dandre Maurice Lundy, 44, of Farmingville told police he put a Bible, a rock, a $1 bill and handwritten \"scriptures\" in a suitcase left at the hotel."
+    publishedDateTime: 2021-09-02T12:46:00Z
+    webUrl: "https://www.freep.com/story/news/local/michigan/2021/09/02/michigan-man-trump-hotel-las-vegas-bomb-hoax/5693139001/"
+    ampWebUrl: "https://amp.freep.com/amp/5693139001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5693139001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 73
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/e7965211f9397f814bee6248a15448630f8b1fa1/c=0-0-4890-2763/local/-/media/2017/04/10/USATODAY/USATODAY/636274355913027021-0425-TrumpHotelLV01.JPG?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
   - title: "Lawyers allied with Trump penalized over Michigan lawsuit | Charlotte Observer"
     excerpt: "Nine lawyers allied with former President Donald Trump face financial penalties and other sanctions in Michigan."
     publishedDateTime: 2021-08-25T23:40:00Z
@@ -62,6 +78,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/20/PDTN/8140bfd9-923a-4361-ba55-472e22f7b483-RTX8AUU7.JPG?auto=webp&crop=2529,1423,x0,y122&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Police: Man says bomb threat at Trump hotel in Vegas was 'message' to ex-president"
+    excerpt: "A man was arrested and charged this week for making a bomb threat at the Trump International Hotel in Las Vegas -- as a \"message\" to say the former president ruined his life over the last few years."
+    publishedDateTime: 2021-09-02T15:56:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/09/02/las-vegas-bomb-threat-donald-trump/8351630587824/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/09/02/las-vegas-bomb-threat-donald-trump/8351630587824/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/09/02/las-vegas-bomb-threat-donald-trump/8351630587824/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 69
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/8351630587824/2021/1/e1d3d27e6a20dd92244b9489011657aa/v1.5/Police-Man-says-bomb-threat-at-Trump-hotel-in-Vegas-was-message-to-ex-president.jpg"
+        width: 800
+        height: 534
         isCached: true
   - title: "Dallas attorney Sidney Powell among lawyers allied with Trump to be penalized over Michigan lawsuit"
     excerpt: "Nine lawyers allied with former President Donald Trump face financial penalties and other sanctions after a judge Wednesday said they had"
