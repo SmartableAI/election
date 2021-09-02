@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Psaki says Biden admin will 'judge the Taliban by their actions'"
+    excerpt: "White House press secretary Jen Psaki said Thursday the U.S. will \"judge the Taliban by their actions” amid reports militants are carrying out violent reprisals in Afghanistan."
+    publishedDateTime: 2021-09-02T20:38:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r_0nh6S45p8/psaki-biden-admin-judge-taliban-actions"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-admin-judge-taliban-actions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-admin-judge-taliban-actions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/caf72791-2662-40dd-b3fb-c64c630dbd1a/6a9af6ba-4697-4250-9133-7d77dc1ed8c1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Psaki: Biden doesn't want Kabul terrorists 'to live on the Earth anymore'"
     excerpt: "President Biden plans to order lethal force against the ISIS-K terrorists responsible for carrying out suicide bombings that killed U.S. service members at Kabul’s airport, White House Press Secretary Jen Psaki indicated on Friday."
     publishedDateTime: 2021-08-27T19:07:12Z

@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Bernie Sanders sets out to sell big government in Trump country"
-    excerpt: "He's specifically targeting two congressional districts where Trump's vote totals increased between 2016 and 2020."
-    publishedDateTime: 2021-08-27T10:03:00Z
-    webUrl: "https://bangordailynews.com/2021/08/27/national-politics/bernie-sanders-sets-out-to-sell-big-government-in-trump-country/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 55
-    images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/Sanders-in-Trump-Country.jpg"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "Y/ToUUz8c1DAuUnVQy3fExMIveJietT7Ifm+ITFUCvm3tTduAl17SVfemggLAcx+/YrQtFL4hqMesSMfuqI9TqZ3DLoIAvbyi+jZ2EvRpsdGdU/2/Px+uEMAWC6ZtRIOUmZI47ytmytVtXxWYqAFU7PPSemCC4ZeFRcjxts6AcOoHMJJ1L6tZKE1oxtedEUz91jd/R01Js1HSQMHYlxG+5sC+arYLci1V0eoVfEbcjg677tp65DRr2wnqaUBdJwz01m+lyvksQYi9DPXM18UExuq0qcMiEPFzBbgkzwxUVcozyPAs1/uLxJol23rdpEAtGc5XgwY5fyB+9qs4jYIIyqrKqBkjO0xaAUp1lo92c4=;xj5q1N1etemx413dQKoOcA=="
 ---

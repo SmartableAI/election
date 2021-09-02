@@ -43,6 +43,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump called Michigan GOP leader on election audit, co-chair says"
+    excerpt: "\"President Trump called and spoke to chairman Weiser, and they had a conversation,\" Meshawn Maddock told a GOP group, according to a recording."
+    publishedDateTime: 2021-09-02T21:23:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2021/09/02/trump-called-michigan-gop-leader-election-audit-co-chair-says/5695555001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5695555001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5695555001"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/12/19/PDTN/f82e95e2-ecbf-4b17-ba85-069563df9ec5-2019-1218-rb-me-trump-rally518.jpg?auto=webp&crop=3399,1912,x0,y173&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Lawyers allied with Trump penalized over Michigan lawsuit | Charlotte Observer"
     excerpt: "Nine lawyers allied with former President Donald Trump face financial penalties and other sanctions in Michigan."
     publishedDateTime: 2021-08-25T23:40:00Z

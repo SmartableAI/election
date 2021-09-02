@@ -234,18 +234,18 @@ related:
         height: 800
         isCached: true
   - title: "President Joe Biden Delivers Remarks on Hurricane Ida"
-    excerpt: "President Joe Biden delivers remarks on his administration's response to Hurricane Ida, in the South Court Auditorium of the Eisenhower Executive Officer Building (EEOB) on the White House complex, in Washington,"
+    excerpt: "Deputy National Security Advisor for Cyber and Emerging Technology Anne Neuberger participates in a news briefing to discuss cybersecurity protective measures ahead of the approaching Labor Day holiday weekend,"
     publishedDateTime: 2021-09-02T17:13:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/6e6245d84cf50c816f6219edaa8967ec/President-Joe-Biden-Delivers-Remarks-on-Hurricane-Ida/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/32b052a684c2615bf00c2e5f484e4899/President-Joe-Biden-Delivers-Remarks-on-Hurricane-Ida/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/6e6245d84cf50c816f6219edaa8967ec/BIDEN-HURRICANE-IDA.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/32b052a684c2615bf00c2e5f484e4899/BIDEN-HURRICANE-IDA.jpg"
         width: 650
-        height: 975
+        height: 433
         isCached: true
   - title: "Rick Scott renews calls for Congressional probe into Joe Biden’s ‘Afghanistan failures’"
     excerpt: "Rick Scott again expressed frustration with President Joe Biden ’s “Afghanistan failures,” making what seem to be unheeded calls for a Congressional investigation"

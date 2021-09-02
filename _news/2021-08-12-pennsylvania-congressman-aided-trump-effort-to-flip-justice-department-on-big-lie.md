@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Donald Trump just keeps making Mitch McConnell's life harder"
+    excerpt: "On Wednesday night, Donald Trump picked a favorite in the 2022 Pennsylvania Senate race, endorsing 2020 House candidate Sean Parnell.\n    \n"
+    publishedDateTime: 2021-09-02T15:37:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NOfaE8o6kvo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/02/politics/donald-trump-mitch-mcconnell-2022/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/02/politics/donald-trump-mitch-mcconnell-2022/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127172614-hponly-20210127-senate-map2022-super-tease.png"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump-allied lawmaker floats Pennsylvania audit plan that Democrats slam as political ploy"
     excerpt: "Audit fever is catching on as a Republican lawmaker in Pennsylvania announced Wednesday that he is pushing for a so-called forensic audit of the 2020 election.\n    \n"
     publishedDateTime: 2021-07-07T21:14:30Z

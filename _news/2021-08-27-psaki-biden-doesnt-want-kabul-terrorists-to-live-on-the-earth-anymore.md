@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Psaki says Biden admin will 'judge the Taliban by their actions'"
+    excerpt: "White House press secretary Jen Psaki said Thursday the U.S. will \"judge the Taliban by their actions” amid reports militants are carrying out violent reprisals in Afghanistan."
+    publishedDateTime: 2021-09-02T20:38:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r_0nh6S45p8/psaki-biden-admin-judge-taliban-actions"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-admin-judge-taliban-actions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-admin-judge-taliban-actions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/caf72791-2662-40dd-b3fb-c64c630dbd1a/6a9af6ba-4697-4250-9133-7d77dc1ed8c1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden to receive bodies of 13 service members killed in Kabul airport attack"
     excerpt: "President Biden traveled to Dover Air Force Base Sunday morning to receive the bodies of 13 American service members who were killed in an attack at the Kabul airport in Afghanistan."
     publishedDateTime: 2021-08-29T13:17:38Z

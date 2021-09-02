@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/09/01/politics/trump-endorses-pennsylva
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/01/politics/trump-endorses-pennsylvania-senate-sean-parnell/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Donald Trump just keeps making Mitch McConnell's life harder"
+    excerpt: "On Wednesday night, Donald Trump picked a favorite in the 2022 Pennsylvania Senate race, endorsing 2020 House candidate Sean Parnell.\n    \n"
+    publishedDateTime: 2021-09-02T15:37:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NOfaE8o6kvo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/02/politics/donald-trump-mitch-mcconnell-2022/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/02/politics/donald-trump-mitch-mcconnell-2022/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127172614-hponly-20210127-senate-map2022-super-tease.png"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pennsylvania congressman aided Trump effort to flip Justice Department on Big Lie "
     excerpt: "While other Republicans garnered more attention in attempting to convince the country that the 2020 election was stolen from former President Donald Trump, Rep. Scott Perry made the critical connection linking the then-president to Jeffrey Clark, a little-known Department of Justice official open to"
     publishedDateTime: 2021-08-12T23:44:50Z
