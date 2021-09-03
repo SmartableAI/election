@@ -63,6 +63,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Louisiana Congress members press Biden, Congress to do more for Hurricane Ida victims"
+    excerpt: "Members of Louisiana's congressional delegation are requesting President Biden and Congress provide additional assistance amid Hurricane Ida's \"catastrophic\" impact on the state."
+    publishedDateTime: 2021-09-03T14:15:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HR-yOgMlfmE/louisiana-congressmen-biden-hurricane-ida-victims"
+    ampWebUrl: "https://www.foxnews.com/politics/louisiana-congressmen-biden-hurricane-ida-victims.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/louisiana-congressmen-biden-hurricane-ida-victims.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/83fc7f92-2bea-40fd-b69d-16e6093d0fa7/3483f11e-f6d4-4d0b-a4d2-e308c79930a8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "3qe/X5ubr5mg1yOy9RaI9uq2BnoL6aMgJs177Jw4Yuef+boPLfMKY35xTPuftZo6poUOs7a6FumgyO6qDCm/lC7HH0NmcrsopZC5Vaxih4qn2Q3Z4sp086o3OcI/PR4twx9Fx2Xlo78AlUOkPpmQmGDlSgh3VenHWJooL+DXHTJsfGkVJAJjlZeJj3TSfGr9yKWH18G9Y5m1MIzQ1xntIXTjOdGK1spY/OCeD1NdduxpbYzb6mhbVeRY+33qrFwzOCp442dAkI9tSOaAAhTJwLR6aERyys5xi5mUUNzUo30Xs7FOiJBZB7MX9JKyUrqRQwmZIG/DqkyR08UCZIe77gyIHxFwCH8N22R8ukMIuW0=;DVL/okw4QxyFjDbjP/7sXw=="
 ---

@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 563
         isCached: true
+  - title: "Ida Live Updates: Joe Biden Visiting Louisiana to Survey Hurricane Damage"
+    excerpt: "\"My message to everyone affected is, we're all in this together, and the nation is here to help,\" Biden said Thursday."
+    publishedDateTime: 2021-09-03T13:05:00Z
+    webUrl: "https://www.newsweek.com/ida-live-updates-joe-biden-visiting-louisiana-survey-hurricane-damage-1625823"
+    ampWebUrl: "https://www.newsweek.com/ida-live-updates-joe-biden-visiting-louisiana-survey-hurricane-damage-1625823?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ida-live-updates-joe-biden-visiting-louisiana-survey-hurricane-damage-1625823?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1886963/hurricane-ida-grand-isle.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden to Attend Briefing on Hurricane Ida on Saturday -White House"
     excerpt: "U.S. President Joe Biden will attend a briefing later on Saturday by administration officials on preparations for Hurricane Ida, which is expected to make landfall in the United States this weekend. The briefing is scheduled for 1:30 p."
     publishedDateTime: 2021-08-28T16:33:00Z

@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Kent lands endorsement from former President Trump in congressional campaign"
-    excerpt: "Joe Kent has added one of the biggest potential Republican endorsements to his campaign to take Jaime Herrera Beutler's seat in the House of Representatives: President Donald Trump."
-    publishedDateTime: 2021-09-02T00:15:00Z
-    webUrl: "https://tdn.com/news/local/govt-and-politics/kent-lands-endorsement-from-former-president-trump-in-congressional-campaign/article_97c2b1ff-101d-565d-b6d7-b79c0a965ebf.html"
-    type: article
-    provider:
-      name: The Daily News
-      domain: tdn.com
-    quality: 52
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/tdn.com/content/tncms/custom/image/3f2525f4-c54d-11ea-acb2-93abb9ea72c7.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "F47B92obTLhi6xlUrWAA2mVvWhJRdgeumdbzwcBBn6NAnCT3yGAzuMQen/pRE8fVUxbgma/3T+4AXes7UU9vUnHe+TkaKak/GLJnbaIcqlbeiTXjuKgfBr+yZsxfNxIK8yy5CA38XIQaeYkdFqgrmP121qJuoQeheh7NB4xX9AAETg1rDw4uBO49KfRQP+NSqXx86kYHl9QHfdmR7UcvGBFotzp69r+75b+NhsgwpXYW+3DlNVWUCNFJSvPIfagFAv1VZPxFK1swPUx2QWRIWUUlAZx4lbR0a7ItCs2Ixl/muQltKovzHJ88xHf9eyKL0ASnYxHxmCBS8bc1gFR8epF2vp11G3XC6jG7Xe+bPxc=;aBYHL9gcYM1Qfi+F9N2PWA=="
 ---

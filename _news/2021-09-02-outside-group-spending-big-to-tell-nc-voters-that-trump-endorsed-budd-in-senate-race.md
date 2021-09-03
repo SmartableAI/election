@@ -19,49 +19,21 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Former President Donald Trump says he will return to Iowa, adding grist to 2024 speculation"
-    excerpt: "Trump's announcement on the show comes as other potential Republican presidential contenders are already making trips to Iowa."
-    publishedDateTime: 2021-08-31T17:05:00Z
-    webUrl: "https://www.freep.com/story/news/politics/2021/08/31/donald-trump-says-he-will-rally-iowa-stoking-2024-speculation/5666433001/"
-    ampWebUrl: "https://amp.freep.com/amp/5666433001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5666433001"
+  - title: "U.S. to Resume High-Level Economic Cooperation with Mexico That Trump Suspended"
+    excerpt: "The high-level talks were launched by Joe Biden in 2013, when he served as vice president under Barack Obama but were suspended under Trump."
+    publishedDateTime: 2021-09-03T14:12:00Z
+    webUrl: "https://timesofsandiego.com/business/2021/09/03/u-s-to-resume-high-level-economic-cooperation-with-mexico-that-trump-suspended/"
+    ampWebUrl: "https://timesofsandiego.com/business/2021/09/03/u-s-to-resume-high-level-economic-cooperation-with-mexico-that-trump-suspended/"
+    cdnAmpWebUrl: "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/business/2021/09/03/u-s-to-resume-high-level-economic-cooperation-with-mexico-that-trump-suspended/"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 65
+      name: Times of San Diego
+      domain: timesofsandiego.com
+    quality: 71
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/01/PDEM/63d5811d-248f-4d1b-a046-a644d1ea0203-AP20306724939532.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Editorial: In a sign of the times, extremists appear to be turning against Trump"
-    excerpt: "Former President Donald Trump appears to have created a monster he can no longer control. He inspired violent rebellion, and now the rebels are turning against him. He inspired pandemic"
-    publishedDateTime: 2021-08-30T09:30:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/editorial-in-a-sign-of-the-times-extremists-appear-to-be-turning-against-trump/article_515c0a51-f500-5bb1-ad93-413eee00518e.html"
-    type: article
-    provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
-    quality: 50
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Donald Trump recalls defending ‘Judeo-Christian values,’ says religion is under attack"
-    excerpt: "Trump called it an honor to defend 'the Judeo-Christian values and principles of our nation's founding.' Former President Donald Trump fielded questions Thursday from religious leaders on a call with a group meant to shore up support from evangelical Christians."
-    publishedDateTime: 2021-09-03T12:59:00Z
-    webUrl: "https://floridapolitics.com/archives/454979-donald-trump-recalls-defending-judeo-christian-values-says-religion-is-under-attack/"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 47
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2021/08/Trump-ap-photo.jpg"
-        width: 1600
-        height: 900
+      - url: "https://i1.wp.com/timesofsandiego.com/wp-content/uploads/2017/04/Otay-Trucks-e1527595766485.jpg?fit=640%2C427&ssl=1"
+        width: 640
+        height: 427
         isCached: true
 
 secured: "ZHL4dlUAVBlBBmXpobOhAoNqenm4AeA3mm/BGCHuFB8m8WBj8eA+frk2067PKmBirKzHOS3jA7dRo7KN3CcpKzAFCje0mpfFDVMSwC9wS7LryybTwxfqp1MYcywTCiadJb2m4G3oq/Eyl5Ym1FcXAsS2P1ilODQDxLLihAQFk/4Dkk7jL3xJbnk0qRAPe4ie3E8/JxJhGqEALSUoqmTWv9SZKxK9M45NtrcGAU600YlxKA7wdiKWheALYQRrq2Vz2BOEOOZgBMOdvLPngpUcmn1v/S5VOAVC7665c+AFvXzOm5LBFAv1DGY209X1YAKFIdBqhFOShxOMBLQCTzHRBZqZp5UDSB3k0TMz+sDgKUgUqz2iZE0bJCjucFw2IW0H7rgDOdwlBIwXZUwrxnNzpjSb/lg75iHqpbDeQLf0GHiwGGdNURV9XiECMR9lzJvQ8jvRd/7xxjeuakKIJ1skTQj/SBBA7yAdz7vb3T5PkSx0vd4CwdHMmy0ItYELeRAMAy2+wxJZuJXQp1H/tB6TgA==;sesv4zLpLDP7nb+e8cN83g=="

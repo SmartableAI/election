@@ -2,6 +2,115 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-06-18-trump-was-wrong-about-the-law-obamacare-politics-and-his-judges.md",
+      "title": "Trump was wrong about the law, Obamacare politics and his judges",
+      "excerpt": "Analysis: The former president promised that his Supreme Court picks would overturn the Affordable Care Act. He met the court's ruling with the deafening silence of defeat.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/politics-news/trump-was-wrong-about-law-obamacare-politics-his-judges-n1271216",
+      "originalUrl": "https://www.nbcnews.com/politics/politics-news/trump-was-wrong-about-law-obamacare-politics-his-judges-n1271216",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_24/3484063/210617-trump-obamacare-mb-1951.jpg",
+          "width": 3840,
+          "height": 2560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1271216",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1271216",
+      "publishedDateTime": "2021-06-18T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-republican-lawmakers-are-staging-trump-style-stunts-at-the-us-mexico-border-to-push-crisis-agenda.md",
+      "title": "Republican lawmakers are staging Trump-style stunts at the US-Mexico border to push 'crisis' agenda",
+      "excerpt": "A cutout of Vice President Kamala Harris, a state's plan to fund its own wall, and a governor sending police to Texas and Arizona.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/gop-reps-stage-stunts-at-border-to-fill-trumps-shoes-2021-6",
+      "originalUrl": "https://www.businessinsider.com/gop-reps-stage-stunts-at-border-to-fill-trumps-shoes-2021-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60cbd31120bd1300181c706c?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/gop-reps-stage-stunts-at-border-to-fill-trumps-shoes-2021-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-reps-stage-stunts-at-border-to-fill-trumps-shoes-2021-6?amp",
+      "publishedDateTime": "2021-06-17T18:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-kushner-snags-book-deal-with-harper-collins-no-deal-yet-for-trump.md",
       "title": "Kushner snags book deal with Harper Collins; no deal yet for Trump",
       "excerpt": "The Broadside Books imprint of Harper Collins said it signed Donald Trump’s son-in-law and former trusted adviser to a book that’s still untitled but apparently well underway and",
@@ -1415,110 +1524,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-for-benjamin-netanyahu-like-donald-trump-only-fraud-can-explain-his-defeat.md",
-      "title": "For Benjamin Netanyahu, like Donald Trump, only ‘fraud’ can explain his defeat",
-      "excerpt": "Israel’s democratic transition is set for Sunday, but nothing is certain amid the prime minister’s scorched-earth campaign to wreck his opponents’ coalition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-benjamin-netanyahu-trump-fraud-20210609-ekjhxhxbzrbmncbirigxxxrc2m-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-benjamin-netanyahu-trump-fraud-20210609-ekjhxhxbzrbmncbirigxxxrc2m-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/9SNOAbQpI_SiJRZdfcRrhbzxgAQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SYSU6WAOK5ND54WSVDRK3ZQX6U.jpg",
-          "width": 1200,
-          "height": 835,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-benjamin-netanyahu-trump-fraud-20210609-ekjhxhxbzrbmncbirigxxxrc2m-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-benjamin-netanyahu-trump-fraud-20210609-ekjhxhxbzrbmncbirigxxxrc2m-story.html?outputType=amp",
-      "publishedDateTime": "2021-06-09T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-trumps-former-white-house-counsel-says-he-felt-frustrated-perturbed-trapped-when-trump-asked-him-to-help-fire-mueller.md",
-      "title": "Trump's former White House counsel says he felt 'frustrated, perturbed, trapped' when Trump asked him to help fire Mueller",
-      "excerpt": "White House counsel said he felt \"frustrated, perturbed, trapped\" when Trump asked for his help firing Mueller. He also said that he tried to \"get off the phone\" when Trump raised the subject. Don McGahn made the comments while testifying to Congress last week about the Mueller probe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/mcgahn-testimony-frustrated-perturbed-trapped-trump-asked-help-fire-mueller-2021-6",
-      "originalUrl": "https://www.businessinsider.com/mcgahn-testimony-frustrated-perturbed-trapped-trump-asked-help-fire-mueller-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/609ceea9070a690018af4fac?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/mcgahn-testimony-frustrated-perturbed-trapped-trump-asked-help-fire-mueller-2021-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mcgahn-testimony-frustrated-perturbed-trapped-trump-asked-help-fire-mueller-2021-6?amp",
-      "publishedDateTime": "2021-06-09T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

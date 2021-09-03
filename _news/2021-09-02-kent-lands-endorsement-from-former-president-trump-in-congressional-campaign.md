@@ -25,33 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "LZ Granderson: The election is over. In Arizona, the Trump campaign continues"
-    excerpt: "I would like to share with you a brief conversation about politics that I didn't want to have. But the man in the Arizona bar sitting a couple of stools"
-    publishedDateTime: 2021-08-26T08:00:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/lz-granderson-the-election-is-over-in-arizona-the-trump-campaign-continues/article_cdb3fb76-1ebe-5f91-a594-75a4f2ef043f.html"
+  - title: "Trump will 'definitely' run for president in 2024, former adviser predicts"
+    excerpt: "A former adviser to former President Donald Trump has confidently declared there's nearly a 100 percent chance he'll seek another term as president. Jason Miller, who served as senior adviser to Trump's 2020 campaign,"
+    publishedDateTime: 2021-09-03T14:40:00Z
+    webUrl: "https://theweek.com/donald-trump/1004509/trump-will-definitely-run-for-president-in-2024-former-adviser-predicts"
+    ampWebUrl: "https://theweek.com/donald-trump/1004509/trump-will-definitely-run-for-president-in-2024-former-adviser-predicts?amp"
+    cdnAmpWebUrl: "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/donald-trump/1004509/trump-will-definitely-run-for-president-in-2024-former-adviser-predicts?amp"
     type: article
     provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
-    quality: 67
+      name: THE WEEK
+      domain: theweek.com
+    quality: 73
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
-        width: 1200
-        height: 630
+      - url: "https://mediacloud.theweek.com/image/upload/f_auto,t_primary-image-mobile@1/v1630678687/GettyImages-1057825656%20%281%29.jpg"
+        width: 375
+        height: 211
         isCached: true
-  - title: "LZ Granderson: Backing the blue takes a back seat to backing Trump"
-    excerpt: "Last week, former President Donald Trump ratcheted up his efforts to turn Ashli Babbitt, the insurrectionist who was slain in the U.S. Capitol on Jan. 6, into a martyr. He"
-    publishedDateTime: 2021-08-16T08:30:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/lz-granderson-backing-the-blue-takes-a-back-seat-to-backing-trump/article_b9510a27-f8f8-5c9b-bd91-5646dae4254d.html"
+  - title: "Former President Donald Trump says he will return to Iowa, adding grist to 2024 speculation"
+    excerpt: "Trump's announcement on the show comes as other potential Republican presidential contenders are already making trips to Iowa."
+    publishedDateTime: 2021-08-31T17:05:00Z
+    webUrl: "https://www.freep.com/story/news/politics/2021/08/31/donald-trump-says-he-will-rally-iowa-stoking-2024-speculation/5666433001/"
+    ampWebUrl: "https://amp.freep.com/amp/5666433001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5666433001"
     type: article
     provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
-    quality: 55
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 65
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/01/PDEM/63d5811d-248f-4d1b-a046-a644d1ea0203-AP20306724939532.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
 
 secured: "Y/ToUUz8c1DAuUnVQy3fExMIveJietT7Ifm+ITFUCvm3tTduAl17SVfemggLAcx+/YrQtFL4hqMesSMfuqI9TqZ3DLoIAvbyi+jZ2EvRpsdGdU/2/Px+uEMAWC6ZtRIOUmZI47ytmytVtXxWYqAFU7PPSemCC4ZeFRcjxts6AcOoHMJJ1L6tZKE1oxtedEUz91jd/R01Js1HSQMHYlxG+5sC+arYLci1V0eoVfEbcjg677tp65DRr2wnqaUBdJwz01m+lyvksQYi9DPXM18UExuq0qcMiEPFzBbgkzwxUVcozyPAs1/uLxJol23rdpEAtGc5XgwY5fyB+9qs4jYIIyqrKqBkjO0xaAUp1lo92c4=;xj5q1N1etemx413dQKoOcA=="

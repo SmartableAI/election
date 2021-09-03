@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pbs.org/newshour/amp/nation/watch-biden-pledges-hurrican
 cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/nation/watch-biden-pledges-hurricane-ida-support-for-as-long-as-it-takes"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ida Live Updates: Joe Biden Visiting Louisiana to Survey Hurricane Damage"
+    excerpt: "\"My message to everyone affected is, we're all in this together, and the nation is here to help,\" Biden said Thursday."
+    publishedDateTime: 2021-09-03T13:05:00Z
+    webUrl: "https://www.newsweek.com/ida-live-updates-joe-biden-visiting-louisiana-survey-hurricane-damage-1625823"
+    ampWebUrl: "https://www.newsweek.com/ida-live-updates-joe-biden-visiting-louisiana-survey-hurricane-damage-1625823?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ida-live-updates-joe-biden-visiting-louisiana-survey-hurricane-damage-1625823?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1886963/hurricane-ida-grand-isle.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "President Joe Biden plans to visit New Orleans in wake of Hurricane Ida destruction"
     excerpt: "President Joe Biden plans to visit New Orleans on Friday to survey damage from Hurricane Ida, which lashed southeastern Louisiana on Sunday as one of the five strongest storms to ever strike the U.S. packing 150 mph winds. The White House said Biden will ..."
     publishedDateTime: 2021-09-01T19:42:00Z
