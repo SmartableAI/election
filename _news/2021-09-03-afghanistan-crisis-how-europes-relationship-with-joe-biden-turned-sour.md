@@ -3,18 +3,22 @@ category: news
 title: "Afghanistan crisis: How Europe's relationship with Joe Biden turned sour"
 excerpt: "But in capitals across Europe, from London to Berlin, Afghanistan has soured the sweetness of Joe Biden's honeymoon. It's not the fact of the withdrawal itself that has rankled bu"
 publishedDateTime: 2021-09-02T23:05:00Z
-originalUrl: "https://www.bbc.co.uk/news/world-europe-58416848"
-webUrl: "https://www.bbc.co.uk/news/world-europe-58416848"
-ampWebUrl: "https://www.bbc.co.uk/news/world-europe-58416848.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-europe-58416848.amp"
+originalUrl: "https://www.bbc.com/news/world-europe-58416848"
+webUrl: "https://www.bbc.com/news/world-europe-58416848"
+ampWebUrl: "https://www.bbc.com/news/world-europe-58416848.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-europe-58416848.amp"
 type: article
-quality: 74
+quality: 124
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -236,16 +240,16 @@ related:
         height: 800
         isCached: true
   - title: "President Joe Biden Delivers Remarks on Hurricane Ida"
-    excerpt: "White House Press Secretary Jen Psaki participates in a news briefing during which a variety of topics were discussed ranging from the Biden administration's response to Hurricane Ida, the withdrawal from Afghanistan and cybersecurity protective measures ..."
+    excerpt: "Deputy National Security Advisor for Cyber and Emerging Technology Anne Neuberger participates in a news briefing to discuss cybersecurity protective measures ahead of the approaching Labor Day holiday weekend,"
     publishedDateTime: 2021-09-02T17:13:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/260ff8d4cd51841682b619e26ddcea21/President-Joe-Biden-Delivers-Remarks-on-Hurricane-Ida/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/32b052a684c2615bf00c2e5f484e4899/President-Joe-Biden-Delivers-Remarks-on-Hurricane-Ida/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/260ff8d4cd51841682b619e26ddcea21/BIDEN-HURRICANE-IDA.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/32b052a684c2615bf00c2e5f484e4899/BIDEN-HURRICANE-IDA.jpg"
         width: 650
         height: 433
         isCached: true
@@ -287,6 +291,6 @@ related:
       domain: politifact.com
     quality: 20
 
-secured: "Ex7+WFr0ilxOX5UTsGiDOtVk4tvCeiemM/QX/F4SUTsoywarpEjxEA24ssrEmkDfYUEg5uSnxiLkFbjfFPYjP21G5kqh5j/cTxgTakm6e3gC17Pw7sL4qv+gmVZufNufPjrkv3i205ucyjuAgM3yMbNjKE5DBRHAkvLhXJsV83pHkHJ037tLP/FePIDaphueFi7tuEJGB2JjebIG27ihwz5AQIgJIh4q7RqU1w6rFx39bmLeyNbDBDOlhMnwQ32EpLsccnc0Opq0SnrFfYIyzZwcGsczQkk4V9+noX/JhsiXm/dKdEy+E2CRaGfiED2LJUqFT3xxVeZ1jcz55vATjeVHUtqkWWr5sHZGIdCywwE=;xmvMXzryGZ3nK97UVtvhjg=="
+secured: "OGOGs7fS27SGqEih2ya2g05Yd3RNqcBPHGmukT9maUeXqVmc6N+K3KWkxhXYi7PXkgA2eSUKmj7kDWCK1TTOrPL6uHVpg7joNEywIl2tUGtu53rs/tHL2+/+V8O5KOpkf4k8drkOAG1xur8l9wZtrPmjJZtnYvkte0fmj3pzCcWyikBIVsbhRtSBZL9GiOIfo5yYoTJARaEbE5+X7JNE6wqpHyrunT8qS+LiLPCYNGJGXapThgO8f+23RIM8RjrAzKEoHJt/t8wOvYMUVkAJ3zxuhO4eaaTTVDrvcYcm9ynfk9YkuOoGjDIMynyq0BYfpma87UW1S6iP/rFXy5mT7mWBIo07XS0puVFvnD9osu0=;RQsn5DXA2wuZucewYonTbA=="
 ---
 

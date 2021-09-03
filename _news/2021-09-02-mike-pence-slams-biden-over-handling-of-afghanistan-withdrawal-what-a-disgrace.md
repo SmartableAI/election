@@ -59,6 +59,22 @@ related:
         width: 2500
         height: 1588
         isCached: true
+  - title: "Afghanistan crisis: How Europe's relationship with Joe Biden turned sour"
+    excerpt: "But in capitals across Europe, from London to Berlin, Afghanistan has soured the sweetness of Joe Biden's honeymoon. It's not the fact of the withdrawal itself that has rankled bu"
+    publishedDateTime: 2021-09-02T23:05:00Z
+    webUrl: "https://www.bbc.com/news/world-europe-58416848"
+    ampWebUrl: "https://www.bbc.com/news/world-europe-58416848.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-europe-58416848.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 124
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/885B/production/_120370943_gettyimages-1233447987.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Fact check: President Joe Biden did not sleep through meeting with new Israeli prime minister"
     excerpt: "A viral video distorts President Biden's Aug. 27 meeting with Israel's new prime minister to make it appear as if Biden fell asleep. He did not."
     publishedDateTime: 2021-09-01T01:03:00Z
@@ -122,22 +138,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/08/27/USAT/d5370f8c-b8ef-4884-a26a-5837044ed2c1-AP_Afghanistan_1.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Afghanistan crisis: How Europe's relationship with Joe Biden turned sour"
-    excerpt: "But in capitals across Europe, from London to Berlin, Afghanistan has soured the sweetness of Joe Biden's honeymoon. It's not the fact of the withdrawal itself that has rankled bu"
-    publishedDateTime: 2021-09-02T23:05:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-europe-58416848"
-    ampWebUrl: "https://www.bbc.co.uk/news/world-europe-58416848.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-europe-58416848.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 74
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/885B/production/_120370943_gettyimages-1233447987.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Explained: What happens after Joe Biden’s evacuation force leaves Afghanistan?"
     excerpt: "The chaotic and perilous evacuation from Kabul airport that ensued has unleashed a wave of criticism and presented Biden with his biggest crisis since taking office in January."
@@ -236,16 +236,16 @@ related:
         height: 800
         isCached: true
   - title: "President Joe Biden Delivers Remarks on Hurricane Ida"
-    excerpt: "White House Press Secretary Jen Psaki participates in a news briefing during which a variety of topics were discussed ranging from the Biden administration's response to Hurricane Ida, the withdrawal from Afghanistan and cybersecurity protective measures ..."
+    excerpt: "Deputy National Security Advisor for Cyber and Emerging Technology Anne Neuberger participates in a news briefing to discuss cybersecurity protective measures ahead of the approaching Labor Day holiday weekend,"
     publishedDateTime: 2021-09-02T17:13:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/260ff8d4cd51841682b619e26ddcea21/President-Joe-Biden-Delivers-Remarks-on-Hurricane-Ida/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/32b052a684c2615bf00c2e5f484e4899/President-Joe-Biden-Delivers-Remarks-on-Hurricane-Ida/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/260ff8d4cd51841682b619e26ddcea21/BIDEN-HURRICANE-IDA.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/32b052a684c2615bf00c2e5f484e4899/BIDEN-HURRICANE-IDA.jpg"
         width: 650
         height: 433
         isCached: true

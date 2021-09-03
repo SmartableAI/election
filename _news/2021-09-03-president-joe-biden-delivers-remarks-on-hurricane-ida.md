@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden Delivers Remarks on Hurricane Ida"
-excerpt: "White House Press Secretary Jen Psaki participates in a news briefing during which a variety of topics were discussed ranging from the Biden administration's response to Hurricane Ida, the withdrawal from Afghanistan and cybersecurity protective measures ..."
+excerpt: "Deputy National Security Advisor for Cyber and Emerging Technology Anne Neuberger participates in a news briefing to discuss cybersecurity protective measures ahead of the approaching Labor Day holiday weekend,"
 publishedDateTime: 2021-09-02T17:13:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/260ff8d4cd51841682b619e26ddcea21/President-Joe-Biden-Delivers-Remarks-on-Hurricane-Ida/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/260ff8d4cd51841682b619e26ddcea21/President-Joe-Biden-Delivers-Remarks-on-Hurricane-Ida/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/32b052a684c2615bf00c2e5f484e4899/President-Joe-Biden-Delivers-Remarks-on-Hurricane-Ida/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/32b052a684c2615bf00c2e5f484e4899/President-Joe-Biden-Delivers-Remarks-on-Hurricane-Ida/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/260ff8d4cd51841682b619e26ddcea21/BIDEN-HURRICANE-IDA.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/32b052a684c2615bf00c2e5f484e4899/BIDEN-HURRICANE-IDA.jpg"
     width: 650
     height: 433
     isCached: true
@@ -56,6 +56,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1885466/jack-posobiec-washington-dc.jpg"
         width: 2500
         height: 1588
+        isCached: true
+  - title: "Afghanistan crisis: How Europe's relationship with Joe Biden turned sour"
+    excerpt: "But in capitals across Europe, from London to Berlin, Afghanistan has soured the sweetness of Joe Biden's honeymoon. It's not the fact of the withdrawal itself that has rankled bu"
+    publishedDateTime: 2021-09-02T23:05:00Z
+    webUrl: "https://www.bbc.com/news/world-europe-58416848"
+    ampWebUrl: "https://www.bbc.com/news/world-europe-58416848.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-europe-58416848.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 124
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/885B/production/_120370943_gettyimages-1233447987.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Fact check: President Joe Biden did not sleep through meeting with new Israeli prime minister"
     excerpt: "A viral video distorts President Biden's Aug. 27 meeting with Israel's new prime minister to make it appear as if Biden fell asleep. He did not."
@@ -136,22 +152,6 @@ related:
       - url: "https://cdn.christianpost.com/files/cache/image/14/32/143258_w_450_300.jpg"
         width: 450
         height: 300
-        isCached: true
-  - title: "Afghanistan crisis: How Europe's relationship with Joe Biden turned sour"
-    excerpt: "But in capitals across Europe, from London to Berlin, Afghanistan has soured the sweetness of Joe Biden's honeymoon. It's not the fact of the withdrawal itself that has rankled bu"
-    publishedDateTime: 2021-09-02T23:05:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-europe-58416848"
-    ampWebUrl: "https://www.bbc.co.uk/news/world-europe-58416848.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-europe-58416848.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 74
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/885B/production/_120370943_gettyimages-1233447987.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Explained: What happens after Joe Biden’s evacuation force leaves Afghanistan?"
     excerpt: "The chaotic and perilous evacuation from Kabul airport that ensued has unleashed a wave of criticism and presented Biden with his biggest crisis since taking office in January."
@@ -287,6 +287,6 @@ related:
       domain: politifact.com
     quality: 20
 
-secured: "Jiq2Qy6DhsYPcwCfcm3uMIWAsFYkeiCoNb4YuEwlmBn8002Dek+xlxqYWcxK1E2FUi6Sq215uQsd93AY+UC6Ep5srC3I7mDSvM6JeW9GYcLhcbAKHdFgLxGpaOD/7nmazEJJFy7j41YQEbDRoZxEcsXFuxNkqKpg1k4gNaKRFS42fnf7+KeCh3DIOYooHglQoO7Wy3Huc1zFZ0agAELZLA8ZsK/VsRh5YgRv2qsBRhRFFD8cZ8rgf+Gqbp9iYbpsSfOuNy6y7ju47/UCnytQE9TEFtWK5R5S9uTE19zg8WLAgUWRYKxrY5GMHb+ROzyOafhX6S7xgfPAPxNRZ9lqjVQ/RbIqckQXNPvTiBDnE58=;fR1MU5S5VSvXC1h4Zcnijg=="
+secured: "qVquP1vJvFAijdrK5Y7Bah9frB0053ukwRFRIrw+BBX3YIxguHl7qdNriP1qPUkY2Bl56f8nALbTDoeX9Yk36AH6ABYzBske6vIvw9kJ4WGVhAMYDtFiMD/ZIaY9W250V7P06PMJqXsVp6o86V0hzezx9GdcgN1Ll9Vc+BP5/t3mYmcrGk5V7ARTtXnY74NK02tYwxSgL1aDgMj8TcMn0drPx3QN1Bwt+YrUOF0tcUtp+3mI18JG3LPLe4OCnXobwI7A3C/db8ikhh6+7/0R2ALllY2foeoL6T2XXOS3fMD03Hf+cwC1W0vN7fSzXBVJkchwkMWx078wE4z/LtmPan1X0SXhn97ORxV9HOOx2NY=;5/vjrua5OahrbHutVUIacQ=="
 ---
 

@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Biden administration extends Trump-era ban on US passport use for North Korea travel"
-excerpt: "The Biden administration has extended a Trump-era ban on using U.S. passports for travel to, from or through North Korea."
-publishedDateTime: 2021-09-01T21:26:00Z
-originalUrl: "https://www.app.com/story/travel/news/2021/09/01/travel-ban-extended-us-passport-north-korea/5685081001/"
-webUrl: "https://www.app.com/story/travel/news/2021/09/01/travel-ban-extended-us-passport-north-korea/5685081001/"
-ampWebUrl: "https://amp.app.com/amp/5685081001"
-cdnAmpWebUrl: "https://amp-app-com.cdn.ampproject.org/c/s/amp.app.com/amp/5685081001"
+title: "Joe Biden Abandoned Us, Say Afghan Politicians as Taliban Forms Government"
+excerpt: "Former Afghan politicians told Newsweek the U.S. is responsible for the country's sudden collapse into chaos and Taliban rule."
+publishedDateTime: 2021-09-03T09:34:00Z
+originalUrl: "https://www.newsweek.com/joe-biden-abandoned-us-afghan-politicians-taliban-forms-government-omar-zakhilwal-azra-jafari-1625729"
+webUrl: "https://www.newsweek.com/joe-biden-abandoned-us-afghan-politicians-taliban-forms-government-omar-zakhilwal-azra-jafari-1625729"
+ampWebUrl: "https://www.newsweek.com/joe-biden-abandoned-us-afghan-politicians-taliban-forms-government-omar-zakhilwal-azra-jafari-1625729?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-abandoned-us-afghan-politicians-taliban-forms-government-omar-zakhilwal-azra-jafari-1625729?amp=1"
 type: article
-quality: 83
+quality: 123
 heat: -1
 published: false
 
 provider:
-  name: app.com
-  domain: app.com
+  name: Newsweek
+  domain: newsweek.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/09/01/USAT/8c3d2948-c217-4406-b7bc-0ee3683b2c90-GettyImages-1097857302.jpeg?auto=webp&crop=7814,4395,x0,y551&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://d.newsweek.com/en/full/1886796/taliban-fighters-kandahar-after-us-withdrawal.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -139,22 +143,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Joe Biden Abandoned Us, Say Afghan Politicians as Taliban Forms Government"
-    excerpt: "Former Afghan politicians told Newsweek the U.S. is responsible for the country's sudden collapse into chaos and Taliban rule."
-    publishedDateTime: 2021-09-03T09:34:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-abandoned-us-afghan-politicians-taliban-forms-government-omar-zakhilwal-azra-jafari-1625729"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-abandoned-us-afghan-politicians-taliban-forms-government-omar-zakhilwal-azra-jafari-1625729?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-abandoned-us-afghan-politicians-taliban-forms-government-omar-zakhilwal-azra-jafari-1625729?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 123
-    images:
-      - url: "https://d.newsweek.com/en/full/1886796/taliban-fighters-kandahar-after-us-withdrawal.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Trump calls for Biden apology, Pentagon brass to resign over Afghanistan"
     excerpt: "Former President Donald Trump on Tuesday demanded his successor apologize for the disastrous U.S. exit from Afghanistan."
     publishedDateTime: 2021-08-31T15:26:00Z
@@ -218,6 +206,22 @@ related:
       - url: "https://i.insider.com/6128a62712b9cc0019631372?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Biden administration extends Trump-era ban on US passport use for North Korea travel"
+    excerpt: "The Biden administration has extended a Trump-era ban on using U.S. passports for travel to, from or through North Korea."
+    publishedDateTime: 2021-09-01T21:26:00Z
+    webUrl: "https://www.app.com/story/travel/news/2021/09/01/travel-ban-extended-us-passport-north-korea/5685081001/"
+    ampWebUrl: "https://amp.app.com/amp/5685081001"
+    cdnAmpWebUrl: "https://amp-app-com.cdn.ampproject.org/c/s/amp.app.com/amp/5685081001"
+    type: article
+    provider:
+      name: app.com
+      domain: app.com
+    quality: 83
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/09/01/USAT/8c3d2948-c217-4406-b7bc-0ee3683b2c90-GettyImages-1097857302.jpeg?auto=webp&crop=7814,4395,x0,y551&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "'100% chance' Trump will run for President in 2024 and wallop Joe Biden, says Republican"
     excerpt: "THERE is a \"100 percent\" chance that Donald Trump will run for US President in 2024, according to a Republican state representative from Florida."
@@ -584,6 +588,6 @@ related:
       domain: seattletimes.com
     quality: 34
 
-secured: "4H8pybsP190fOfNcRllXB6ZNm8bPfzqduL+KzFd4gaoA1cxHseM8rmXFd42Wo967S21g+lRIsrRby1x66NCvL/ZiazGKBAjqZ+SC3lcs40M+mpAODBGgLbaGzUmJK7wlHgWoYPuS5g8SN0c3kgRRTKrxIhob/FwZ79pouIljsp/kMfB9Py+t3GCHycFAl5TIXM5VmA2e0SA5AwtT7UkmPR8QHP5UTzfUFsOQkv/5yERnQsP27M5APlxNTWtUsOsbSfUwDQwGL0Rg/fexC40DdAlREdwuYA55M6dKFhEebWz6KKt9rASLUzbKcLD7GGedixqDvb9ObD+uq7GPkH/qoqPVo9bBCjKrPPBP3w1ehLY=;VpkP+OUKX5fuSJAnUWw3qA=="
+secured: "cRKVhWHPVHvMMDX0awB7CFfhDesCC8Ti29bFtuHj/HlB/Sc5okv7I4OS03WjSrQ+shwlHo7tLotEW3J36NS1zJCS7CCAC+PjEKtmHVo5Oj3ZBm3Lh1doyb7zJFt2JbQ2uId0k72RGsN28jccItGJrqu5htvus0XHCfdh03QHsCHsRda0CwqIs7haCrwNg6tVtsANeUiDP6dgifkrj1ezgWb6MI4hIdtLeS395Ivc8NS8VfN5EG2qgInFBklhHimtoAg+K13nITYOGOekM+Yqr2py6fW5Dp2l7aE7PYX0jaE5KTUFKnmU2jHw+3Csuzbn+4cKb1nyPW7jySSGMCpaMaObMsWD+I+GPDwT6QtDnUM=;yeGshfE5K+QaARulAo5G3w=="
 ---
 

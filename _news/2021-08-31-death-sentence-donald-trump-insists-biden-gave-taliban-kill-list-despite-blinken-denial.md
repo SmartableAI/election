@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/death-sentence-donald-trump-insists-biden-g
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/death-sentence-donald-trump-insists-biden-gave-taliban-kill-list-despite-blinken-denial-1624395?amp=1"
 type: article
 quality: 139
-heat: 879
+heat: 899
 published: true
 
 provider:
@@ -127,6 +127,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/c179f21a5b99ff34b46423da1d81ad5fdc95e9d5/0_400_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=257ba2b47f7c59f920a4f825abf8d840"
         width: 600
         height: 360
+        isCached: true
+  - title: "Joe Biden Abandoned Us, Say Afghan Politicians as Taliban Forms Government"
+    excerpt: "Former Afghan politicians told Newsweek the U.S. is responsible for the country's sudden collapse into chaos and Taliban rule."
+    publishedDateTime: 2021-09-03T09:34:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-abandoned-us-afghan-politicians-taliban-forms-government-omar-zakhilwal-azra-jafari-1625729"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-abandoned-us-afghan-politicians-taliban-forms-government-omar-zakhilwal-azra-jafari-1625729?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-abandoned-us-afghan-politicians-taliban-forms-government-omar-zakhilwal-azra-jafari-1625729?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1886796/taliban-fighters-kandahar-after-us-withdrawal.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Trump calls for Biden apology, Pentagon brass to resign over Afghanistan"
     excerpt: "Former President Donald Trump on Tuesday demanded his successor apologize for the disastrous U.S. exit from Afghanistan."

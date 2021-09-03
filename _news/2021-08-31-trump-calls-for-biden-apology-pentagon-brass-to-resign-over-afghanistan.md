@@ -139,6 +139,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Joe Biden Abandoned Us, Say Afghan Politicians as Taliban Forms Government"
+    excerpt: "Former Afghan politicians told Newsweek the U.S. is responsible for the country's sudden collapse into chaos and Taliban rule."
+    publishedDateTime: 2021-09-03T09:34:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-abandoned-us-afghan-politicians-taliban-forms-government-omar-zakhilwal-azra-jafari-1625729"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-abandoned-us-afghan-politicians-taliban-forms-government-omar-zakhilwal-azra-jafari-1625729?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-abandoned-us-afghan-politicians-taliban-forms-government-omar-zakhilwal-azra-jafari-1625729?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1886796/taliban-fighters-kandahar-after-us-withdrawal.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "'When I was President...': Donald Trump on Taliban, Joe Biden, Afghanistan"
     excerpt: "Former US President Donald Trump hit out at his successor over the messy exit from Afghanistan which has led to Taliban taking over most of the country, and an evacuation crisis breaking out. Trump said that Joe Biden had gone on vacation as Afghanistan was going to hell."
     publishedDateTime: 2021-08-23T16:57:00Z
