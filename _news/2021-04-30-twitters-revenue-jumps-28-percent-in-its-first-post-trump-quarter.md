@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump endorses Herschel Walker in Georgia Senate race"
+    excerpt: "Former President Donald Trump on Thursday gave Republican former football star Herschel Walker his \"Complete and Total Endorsement\" in Georgia's US Senate race, praising him as \"a friend, a Patriot and an outstanding American who is going to be a GREAT United States Senator.\"\n    \n"
+    publishedDateTime: 2021-09-03T01:05:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9lZyfcxviu8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/02/politics/donald-trump-herschel-walker-endorsement-georgia-senate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/02/politics/donald-trump-herschel-walker-endorsement-georgia-senate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210902134811-herschel-walker-trump-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fulton County DA has grown frustrated with Georgia Secretary of State's office cooperation in Trump probe, source says"
     excerpt: "Investigators in Fulton County District Attorney Fani Willis' office have grown frustrated with the level of cooperation they are receiving from staffers in the Georgia Secretary of State's office regarding a probe into former President Donald Trump's efforts to influence the 2020 election, according"
     publishedDateTime: 2021-04-23T21:35:57Z

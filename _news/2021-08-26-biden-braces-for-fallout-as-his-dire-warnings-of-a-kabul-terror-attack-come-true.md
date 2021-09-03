@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden visits wounded service members at Walter Reed "
+    excerpt: "President Joe Biden and first lady Jill Biden traveled to Walter Reed medical center in Maryland on Thursday to visit wounded US service members.\n    \n"
+    publishedDateTime: 2021-09-03T01:24:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HtNn_XIoD40/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/02/politics/biden-walter-reed-wounded-service-members-afghanistan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/02/politics/biden-walter-reed-wounded-service-members-afghanistan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210831154223-02-biden-afghanistan-presser-0831-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Vulnerable Democrats seek distance from Biden on Afghanistan ahead of contentious House debate  "
     excerpt: "House and Senate Democrats are watching President Joe Biden's handling of the withdrawal from Afghanistan with unease, distancing themselves with some Americans left behind in the war-torn country and as Republicans plot to make the issue a major focus heading into the 2022 midterms.\n    \n"
     publishedDateTime: 2021-08-31T22:35:22Z

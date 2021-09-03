@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden gets foggy talking about daughter's wedding: 'My mind is going blank now'"
+    excerpt: "President Biden appeared to get a bit confused Thursday when recalling his daughter's wedding during a virtual event to celebrate the start of the Jewish High Holidays."
+    publishedDateTime: 2021-09-03T03:31:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZhzoXmY75So/biden-gets-foggy-daughters-wedding-mind-going-blank"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-gets-foggy-daughters-wedding-mind-going-blank.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gets-foggy-daughters-wedding-mind-going-blank.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/09/720/405/AP21245616505528.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Naomi Biden seen in chic dress at friend’s wedding in Italy"
     excerpt: "Naomi Biden was seen partying in style and luxury with her boyfriend at her side during a friend’s wedding in Como, Italy."
     publishedDateTime: 2021-08-30T01:33:00Z

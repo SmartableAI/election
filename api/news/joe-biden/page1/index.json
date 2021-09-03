@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-03-senator-joe-manchin-calls-for-pause-on-bidens-3-trillion-plan.md",
+      "title": "Senator Joe Manchin calls for \"pause\" on Biden's $3 trillion plan",
+      "excerpt": "Senator Joe Manchin called for a \"strategic pause\" on President Biden's $3.5 trillion reconciliation bill Thursday. And House Speaker Nancy Pelosi vowed to bring a bill guaranteeing abortion access before the House for a vote later this month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/senator-joe-manchin-calls-for-pause-on-bidens-3-trillion-plan/",
+      "originalUrl": "https://www.cbsnews.com/video/senator-joe-manchin-calls-for-pause-on-bidens-3-trillion-plan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/09/02/a25533b6-1ec8-4986-a909-4eb34d8e182c/thumbnail/1200x630/35d5ef0524a8c4d8c9133d77a69cc26b/dxm-dxn-784813-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/video/senator-joe-manchin-calls-for-pause-on-bidens-3-trillion-plan/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/senator-joe-manchin-calls-for-pause-on-bidens-3-trillion-plan/",
+      "publishedDateTime": "2021-09-02T17:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-09-03-joe-biden-tells-federal-agencies-to-insulate-women-and-providers-from-texas-abortion-law.md",
       "title": "Joe Biden Tells Federal Agencies to 'Insulate Women and Providers' From Texas Abortion Law",
       "excerpt": "The Supreme Court voted 5-4 in the middle of the night to deny an emergency appeal from abortion providers aimed at blocking the Texas law from taking effect.",
@@ -205,7 +257,7 @@
       "originalUrl": "https://www.ft.com/content/bfe24854-3bf2-4ada-b3a2-778b4707c31f",
       "featuredContent": null,
       "highlight": null,
-      "heat": 445,
+      "heat": 465,
       "tags": null,
       "images": [
         {
@@ -671,7 +723,7 @@
       "originalUrl": "https://www.houstonchronicle.com/politics/texas/article/Fact-Check-Joe-Biden-said-that-al-Qaida-is-16416922.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 445,
+      "heat": 465,
       "tags": null,
       "images": [
         {
@@ -723,7 +775,7 @@
       "originalUrl": "https://www.forbes.com/sites/williampesek/2021/08/30/australias-recession-is-as-much-a-problem-for-biden-as-sydney/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -807,54 +859,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-30-naomi-biden-seen-in-chic-dress-at-friends-wedding-in-italy.md",
-      "title": "Naomi Biden seen in chic dress at friend’s wedding in Italy",
-      "excerpt": "Naomi Biden was seen partying in style and luxury with her boyfriend at her side during a friend’s wedding in Como, Italy.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/08/29/naomi-biden-seen-in-chic-dress-at-friends-wedding-in-italy/",
-      "originalUrl": "https://nypost.com/2021/08/29/naomi-biden-seen-in-chic-dress-at-friends-wedding-in-italy/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/BIDEN-NAOMI.jpg?quality=90&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/08/29/naomi-biden-seen-in-chic-dress-at-friends-wedding-in-italy/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/29/naomi-biden-seen-in-chic-dress-at-friends-wedding-in-italy/amp/",
-      "publishedDateTime": "2021-08-29T18:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     },
     {
@@ -1143,7 +1147,7 @@
       "originalUrl": "https://www.newsweek.com/how-watch-live-stream-joe-bidens-speech-after-explosions-kabul-airport-1623378",
       "featuredContent": null,
       "highlight": null,
-      "heat": 463,
+      "heat": 443,
       "tags": null,
       "images": [
         {

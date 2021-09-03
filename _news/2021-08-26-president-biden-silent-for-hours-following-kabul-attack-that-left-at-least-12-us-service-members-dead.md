@@ -95,6 +95,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Mark Meadows blasts Biden's promise to Hurricane Ida survivors after Afghanistan withdrawal"
+    excerpt: "Former White House Chief of Staff Mark Meadows took issue with President Joe Biden’s promise not to leave Hurricane Ida survivors behind and compared it to his promise to evacuate Americans stranded in Afghanistan."
+    publishedDateTime: 2021-09-03T02:07:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4aEwxDCWpgY/mark-meadows-blasts-bidens-promise-to-hurricane-ida-survivors-after-afghanistan-withdrawal"
+    ampWebUrl: "https://www.foxnews.com/politics/mark-meadows-blasts-bidens-promise-to-hurricane-ida-survivors-after-afghanistan-withdrawal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mark-meadows-blasts-bidens-promise-to-hurricane-ida-survivors-after-afghanistan-withdrawal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/973f4789-dbfa-427c-8e1c-482c6e0d6f63/9181298c-eb5a-41d4-ac9b-74cb6942f4ab/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden admits he bears responsibility for Kabul attack, defends withdrawal when pressed by Doocy"
     excerpt: "President Biden told reporters Thursday that he bears responsibility for the “messy” evacuation and consequential suicide bombings in Kabul."
     publishedDateTime: 2021-08-26T23:11:11Z

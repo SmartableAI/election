@@ -221,20 +221,6 @@ related:
       name: The Herald SC
       domain: heraldonline.com
     quality: 55
-  - title: "Greg Steube calls for Joe Biden resignation after reported Marine deaths"
-    excerpt: "Greg Steube called for President Joe Biden’s resignation after the reported death of four Marines in Kabul. “Horrific,” Steube tweeted. “Joe Biden needs to take"
-    publishedDateTime: 2021-08-26T18:13:00Z
-    webUrl: "https://floridapolitics.com/archives/453349-greg-steube-calls-for-joe-biden-resignation-following-reported-marine-deaths/"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 54
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2021/06/Steube.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Joe Biden promises further US strikes against ISIS-K members responsible for suicide attack outside Kabul airport"
     excerpt: "US President Joe Biden promises further airstrikes against the Islamic State group in Afghanistan after an initial drone attack was launched in retaliation to a deadly bombing outside Kabul airport."
     publishedDateTime: 2021-08-28T20:15:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/williampesek/2021/08/30/australias-re
 webUrl: "https://www.forbes.com/sites/williampesek/2021/08/30/australias-recession-is-as-much-a-problem-for-biden-as-sydney/"
 type: article
 quality: 105
-heat: 165
+heat: 145
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.tampabay.com/resizer/H3idYXdZk6JBiyKwaxGXggjk8_8=/800x450/filters:focal(2065x1285:2075x1275)/cloudfront-us-east-1.images.arcpublishing.com/tbt/EPAHJMPR7OBARKIDWG2FATIR2Q.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "John Rutherford calls for Joe Biden’s resignation"
-    excerpt: "A Republican Congressman from Northeast Florida is calling for President Joe Biden to resign from office. U.S. Rep. John Rutherford, who represents Florida’s 4th Congressional District, blasted Biden in the wake of the Afghanistan withdrawal."
-    publishedDateTime: 2021-08-31T18:12:00Z
-    webUrl: "https://floridapolitics.com/archives/454342-john-rutherford-calls-for-joe-bidens-resignation/"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 55
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2020/09/John-Rutherford-4.png"
-        width: 1600
-        height: 1000
         isCached: true
   - title: "Ashley Moody demands border control assurance from Joe Biden administration"
     excerpt: "The letter, per a release from Moody’s office, seeks “to ensure the Biden administration will faithfully defend a long-standing federal immigration statute that prohibits illegal re-entry to the U.S."

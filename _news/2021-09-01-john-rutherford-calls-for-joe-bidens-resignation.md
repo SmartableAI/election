@@ -25,49 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "Australia’s Recession Is As Much A Problem For Biden As Sydney"
-    excerpt: "Australia’s sizable and open economy is often the closest thing the U.S. has to an early warning system, and experts are now warning that the country down under is sliding back into recession."
-    publishedDateTime: 2021-08-30T08:40:00Z
-    webUrl: "https://www.forbes.com/sites/williampesek/2021/08/30/australias-recession-is-as-much-a-problem-for-biden-as-sydney/"
+  - title: "Senator Joe Manchin calls for \"pause\" on Biden's $3 trillion plan"
+    excerpt: "Senator Joe Manchin called for a \"strategic pause\" on President Biden's $3.5 trillion reconciliation bill Thursday. And House Speaker Nancy Pelosi vowed to bring a bill guaranteeing abortion access before the House for a vote later this month."
+    publishedDateTime: 2021-09-03T00:56:00Z
+    webUrl: "https://www.cbsnews.com/video/senator-joe-manchin-calls-for-pause-on-bidens-3-trillion-plan/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/senator-joe-manchin-calls-for-pause-on-bidens-3-trillion-plan/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/senator-joe-manchin-calls-for-pause-on-bidens-3-trillion-plan/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 105
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612c7e3d4264343d3146dd8c%2F0x0.jpg"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/09/02/a25533b6-1ec8-4986-a909-4eb34d8e182c/thumbnail/1200x630/35d5ef0524a8c4d8c9133d77a69cc26b/dxm-dxn-784813-640x360.jpg"
         width: 1200
-        height: 776
+        height: 630
         isCached: true
-  - title: "Joe Biden praises WNBA champs for social justice activism"
-    excerpt: "The visit marked the first time that an NBA or WNBA team has visited the White House since the Cleveland Cavaliers were feted by Barack Obama in 2016."
-    publishedDateTime: 2021-08-24T00:19:00Z
-    webUrl: "https://www.tampabay.com/sports/2021/08/23/joe-biden-praises-wnba-champs-for-social-justice-activism/"
-    ampWebUrl: "https://www.tampabay.com/sports/2021/08/23/joe-biden-praises-wnba-champs-for-social-justice-activism/?outputType=amp"
-    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/sports/2021/08/23/joe-biden-praises-wnba-champs-for-social-justice-activism/?outputType=amp"
-    type: article
-    provider:
-      name: Tampa Bay Times
-      domain: tampabay.com
-    quality: 75
-    images:
-      - url: "https://www.tampabay.com/resizer/H3idYXdZk6JBiyKwaxGXggjk8_8=/800x450/filters:focal(2065x1285:2075x1275)/cloudfront-us-east-1.images.arcpublishing.com/tbt/EPAHJMPR7OBARKIDWG2FATIR2Q.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Ashley Moody demands border control assurance from Joe Biden administration"
-    excerpt: "The letter, per a release from Moody’s office, seeks “to ensure the Biden administration will faithfully defend a long-standing federal immigration statute that prohibits illegal re-entry to the U.S."
-    publishedDateTime: 2021-08-27T17:08:00Z
-    webUrl: "https://floridapolitics.com/archives/453563-moody-border/"
+  - title: "Greg Steube calls for Joe Biden resignation after reported Marine deaths"
+    excerpt: "Greg Steube called for President Joe Biden’s resignation after the reported death of four Marines in Kabul. “Horrific,” Steube tweeted. “Joe Biden needs to take"
+    publishedDateTime: 2021-08-26T18:13:00Z
+    webUrl: "https://floridapolitics.com/archives/453349-greg-steube-calls-for-joe-biden-resignation-following-reported-marine-deaths/"
     type: article
     provider:
       name: Florida Politics
       domain: floridapolitics.com
-    quality: 53
+    quality: 54
     images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2021/05/Ashley-Moody-scaled.jpg"
-        width: 2560
-        height: 1920
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/06/Steube.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Greg Steube calls for Joe Biden resignation following reported Marine deaths"
+    excerpt: "Greg Steube called for President Joe Biden’s resignation after the reported death of four Marines in Kabul. “Horrific,” Steube tweeted. “Joe Biden needs to take"
+    publishedDateTime: 2021-08-26T18:13:00Z
+    webUrl: "https://floridapolitics.com/archives/453349-greg-steube-calls-for-joe-biden-resignation-following-reported-marine-deaths/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 52
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/06/Steube.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "o3az1QYJBdlopx4WGbb1XXsxA3mzTksDKRYecXCiie1isBwQm141O8h32ZZpXiZB0xX/MOuK1v1IUbgNiP4+uDCHQebbDleodWqK9cQPX+gicrD0YQslse7q9Uk8iJNMj6kReMmXKVYbEARTtFZCNm+JXDcVRZ4eQFLBflov85UcQkkP/PH1heY47zciaJX3LLelrY01ViWn1/WMrd1q3sc7RwS7iRZeIS6lnXOUcHNDASDZMSAmxmxBDFZIBqVzSuEPSOwnmf3izpEvS+SEnLyoVjR6r7YPoLS65phQzDCeXM5qbx5J35+JDcRoZsrk6eP8y01B0f1b5Zh3tsDOg0j/N+eaFsMUOOv52G09LTIuRxuiz7UnJn1Km3JLmytSbNgGAKSVKhqQ7AshaOwsLNTs3q9BVHXSkS+3fNuT6j5MGtCEzMXQD2WBK3mu6XGdB1rW5HrNdduVuNRw8FodVXG2yumxXumXMrEqfUdCpVTPv2cNoogkKY/zX63Rle9GQ3Dcq92uatA23Dg39XwV3g==;gsQHOvGmAJhqm2Is03LHEg=="

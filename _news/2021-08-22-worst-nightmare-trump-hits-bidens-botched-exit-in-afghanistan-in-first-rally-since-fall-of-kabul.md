@@ -2272,6 +2272,17 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 65
+  - title: "Why isn't Kamala Harris speaking up for Afghan women?"
+    excerpt: "Americans are celebrating Women’s Equality Day, the anniversary of the certification of the 19th Amendment. While we should celebrate voting rights for women and the gains women have made in America,"
+    publishedDateTime: 2021-08-27T17:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/why-isnt-kamala-harris-speaking-up-for-afghan-women"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/why-isnt-kamala-harris-speaking-up-for-afghan-women?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/why-isnt-kamala-harris-speaking-up-for-afghan-women?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
   - title: "'Blood on his hands': Republicans say Kabul explosion result of Biden decisions"
     excerpt: "Between waves of calls for prayers in response to explosions in Kabul, Afghanistan, that harmed American troops and civilians, some Republicans pointed the finger squarely at President Joe Biden and his administration."
     publishedDateTime: 2021-08-26T20:12:00Z

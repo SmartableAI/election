@@ -69,20 +69,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Greg Steube calls for Joe Biden resignation following reported Marine deaths"
-    excerpt: "Greg Steube called for President Joe Biden’s resignation after the reported death of four Marines in Kabul. “Horrific,” Steube tweeted. “Joe Biden needs to take"
-    publishedDateTime: 2021-08-26T18:13:00Z
-    webUrl: "https://floridapolitics.com/archives/453349-greg-steube-calls-for-joe-biden-resignation-following-reported-marine-deaths/"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 52
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2021/06/Steube.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Rep Marjorie Taylor Greene filing articles of impeachment against President Joe Biden and calls him a ‘pathetic puppet’"
     excerpt: "GOP Rep. Marjorie Taylor Greene announced she will file articles of impeachment against President Biden during an America First rally in Des Moines Thursday night. Greene said at the rally:"
     publishedDateTime: 2021-08-20T04:57:00Z

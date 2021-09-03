@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/local/virginia-politics/trump-virgi
 webUrl: "https://www.washingtonpost.com/local/virginia-politics/trump-virginia-governor-youngkin-election/2021/09/01/c8583584-0b3b-11ec-aea1-42a8138f132a_story.html"
 type: article
 quality: 112
-heat: 152
+heat: 172
 published: true
 
 provider:
@@ -59,6 +59,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump backs Jones in Georgia, renews support for Walker"
+    excerpt: "Former President Donald Trump put his thumb on the scale of Georgia Republican politics again Thursday, endorsing state Sen. Burt Jones in the GOP primary for lieutenant governor and reiterating his support for newly declared U."
+    publishedDateTime: 2021-09-03T04:40:00Z
+    webUrl: "https://www.sunherald.com/news/politics-government/national-politics/article253963198.html"
+    ampWebUrl: "https://amp.sunherald.com/news/politics-government/national-politics/article253963198.html"
+    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/politics-government/national-politics/article253963198.html"
+    type: article
+    provider:
+      name: Biloxi Sun Herald
+      domain: sunherald.com
+    quality: 55
 
 secured: "BQN0B2N46+IZMQPraNwm5O+ziyzbZH7AjCpk4tdmchQB1ph6szVaqHSKSF7S1OMDDPeKdwIWqwO3W1roG+PxSgwQrGqzUScGVMhLJOibi/X28zepHB0xnK7URWj73QhzsCDwTtxIdgWPf6owPZ3nmYXUrqQbutC18hpjt3v6hrlAGbYzMMzsfNrTnrrLyKxSNrJr5SLARD0fQzrf5s3N0LeNZVrGy2tfe/NqZ1+6xHVUE9hvmItPVYBOyYkNzeVriGzmzuP8cbDBHFtP7r0um8UhVcuOHabnI158EBjNtkOqpsaBDRsx4Q4ffGW/uaBh/RYHPV8l+ql8q3EjzGFYNJYFgRSJ+g3pHICP9FF1pX45ec8x5Q8dnVZNga6T8bhCnTw7w8+AsLLWXLe6SGP0M5Q4dO+g92DhNNoSxYx3SHPF0XkuSmGOX88WyZZidquHeEpZs4LLQjyqwcIajb3ixLqdvd7Zrk3epslIrh/+aNayQGxwnjDkuxBGT+Zkv8rMl6QXLimjaWD70ljXhY+IFQ==;TUzihWO9aO6Kp/xRjRKuOQ=="
 ---

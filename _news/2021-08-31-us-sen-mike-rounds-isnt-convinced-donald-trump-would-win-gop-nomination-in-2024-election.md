@@ -55,6 +55,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump backs Jones in Georgia, renews support for Walker"
+    excerpt: "Former President Donald Trump put his thumb on the scale of Georgia Republican politics again Thursday, endorsing state Sen. Burt Jones in the GOP primary for lieutenant governor and reiterating his support for newly declared U."
+    publishedDateTime: 2021-09-03T04:40:00Z
+    webUrl: "https://www.sunherald.com/news/politics-government/national-politics/article253963198.html"
+    ampWebUrl: "https://amp.sunherald.com/news/politics-government/national-politics/article253963198.html"
+    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/politics-government/national-politics/article253963198.html"
+    type: article
+    provider:
+      name: Biloxi Sun Herald
+      domain: sunherald.com
+    quality: 55
 
 secured: "DH0QIRDNDrt4egTcv2yDyzfEtE59LbkOa4xPi9iKDQEHpXz24pi2GME5Tsp9I77QxS5IyWCmWtN3L4KRMiPjtCeY4m0reaFE7o5m5WFbDH6TemCV9mVcxOuha1NWS9Paro+/28ACQQJl2szoJTpDnog58LcoRbbRxrSYFCGeXIqKtffT+16vqNnrMoRJY5wV1tuh/geXMiYq/8KqRRrFO1Hv1k3cu6B6DDIyDY0UT7M5+7TxwbJW6UXdtzvVX2Pw2EiqGj87hvMeu5TDmxH5nKcs0XS3ZO0xmTcUY1dl0lChS6fz52pdrd30n1zCwDuV6vpJ5QWSviYNjn2taJa/vHe8hSnaS6qYcmGV+gVx91Y=;0ntHC1gyV0mqPkTIcrMYlA=="
 ---

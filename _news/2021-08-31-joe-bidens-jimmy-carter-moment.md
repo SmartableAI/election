@@ -169,6 +169,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Lauren Boebert Demands Congress Impeach Kamala Harris"
+    excerpt: "Rep. Lauren Boebert (R-CO) on Tuesday called for the impeachment of Vice President Kamala Harris because she has not invoked the 25th Amendment to remove President Joe Biden from office over his handling of the Afghanistan war."
+    publishedDateTime: 2021-09-01T02:00:00Z
+    webUrl: "https://crooksandliars.com/2021/08/lauren-boebert-demands-congress-impeach"
+    ampWebUrl: "https://crooksandliars.com/2021/08/lauren-boebert-demands-congress-impeach/amp"
+    cdnAmpWebUrl: "https://crooksandliars-com.cdn.ampproject.org/c/s/crooksandliars.com/2021/08/lauren-boebert-demands-congress-impeach/amp"
+    type: article
+    provider:
+      name: Crooks and Liars
+      domain: crooksandliars.com
+    quality: 75
+    images:
+      - url: "https://crooksandliars.com/files/primary_image/21/08/image_8.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Varney: Where is Kamala Harris?"
     excerpt: "FOX Business host Stuart Varney discusses Vice President Harris’ performance as the Biden administration hits multiple roadblocks."
     publishedDateTime: 2021-09-02T15:46:00Z
@@ -314,6 +330,20 @@ related:
       - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/199258283_199257870-b29018f6db5642afb236295d3817bbdb_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
         width: 600
         height: 434
+        isCached: true
+  - title: "Kamala Harris Can’t Find a Lot of Support, Even Among Her Supporters"
+    excerpt: "With Vice President Kamala Harris coming up short in one favorability poll after another—including an NBC survey last week which found she has the lowest ratings since Al Gore in 1993—even the people who want to see her succeed worry that it just might not be doable."
+    publishedDateTime: 2021-09-02T04:56:00Z
+    webUrl: "https://www.lamag.com/citythinkblog/kamala-harris-future/"
+    type: article
+    provider:
+      name: Los Angeles Magazine
+      domain: lamag.com
+    quality: 55
+    images:
+      - url: "https://cdn2.lamag.com/wp-content/uploads/sites/6/2019/06/GettyImages-1145125241-1000x667.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "VP Kamala Harris slams China right on their doorstep – here’s what she said"
     excerpt: "During her visit to Singapore on Tuesday, Vice President Kamala Harris railed against China for coercing and intimidating countries in the South China Sea. 'We know that Beijing continues to coerce, to intimidate,"

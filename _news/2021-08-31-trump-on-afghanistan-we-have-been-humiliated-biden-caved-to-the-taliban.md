@@ -2266,6 +2266,17 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 65
+  - title: "Why isn't Kamala Harris speaking up for Afghan women?"
+    excerpt: "Americans are celebrating Women’s Equality Day, the anniversary of the certification of the 19th Amendment. While we should celebrate voting rights for women and the gains women have made in America,"
+    publishedDateTime: 2021-08-27T17:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/why-isnt-kamala-harris-speaking-up-for-afghan-women"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/why-isnt-kamala-harris-speaking-up-for-afghan-women?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/why-isnt-kamala-harris-speaking-up-for-afghan-women?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
   - title: "'Worst nightmare': Trump hits Biden's 'botched exit in Afghanistan' in first rally since fall of Kabul"
     excerpt: "Former President Donald Trump called President Joe Biden's \"botched exit in Afghanistan\" the \"worst nightmare\" imaginable during his first public rally since the fall of Kabul to the Taliban."
     publishedDateTime: 2021-08-22T06:54:00Z

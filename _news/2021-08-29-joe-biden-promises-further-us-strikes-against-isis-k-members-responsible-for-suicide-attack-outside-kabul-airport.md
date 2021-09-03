@@ -237,20 +237,6 @@ related:
         width: 1707
         height: 960
         isCached: true
-  - title: "Greg Steube calls for Joe Biden resignation after reported Marine deaths"
-    excerpt: "Greg Steube called for President Joe Biden’s resignation after the reported death of four Marines in Kabul. “Horrific,” Steube tweeted. “Joe Biden needs to take"
-    publishedDateTime: 2021-08-26T18:13:00Z
-    webUrl: "https://floridapolitics.com/archives/453349-greg-steube-calls-for-joe-biden-resignation-following-reported-marine-deaths/"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 54
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2021/06/Steube.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Joe Biden warns of more attacks in next 24 hours as 13 soldiers killed in Kabul blast named"
     excerpt: "President Joe Biden has warned that another attack was “highly likely” over the next 24 to 36 hours as the names of the killed US troops were released."
     publishedDateTime: 2021-08-28T21:16:00Z

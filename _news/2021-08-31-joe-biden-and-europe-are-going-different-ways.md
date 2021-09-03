@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/bfe24854-3bf2-4ada-b3a2-778b4707c31f"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/bfe24854-3bf2-4ada-b3a2-778b4707c31f"
 type: article
 quality: 125
-heat: 445
+heat: 465
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://www.dailynews.com/wp-content/uploads/2021/09/APTOPIX-Casualty-Return-Afghanistan-1.jpg?w=1024&#038;h=682"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Joe Manchin Has Put Biden’s Presidency in Mortal Danger"
+    excerpt: "One of the most bullish indicators for Joe Biden’s presidency came just a week after his inauguration, when Joe Manchin said, “We’re going to make Joe Biden successful.” Manchin’s comment seemed to reflect an understanding that there was no way Democrats could survive by detaching themselves from their president."
+    publishedDateTime: 2021-09-03T00:51:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/09/joe-manchin-pause-biden-presidency-failed-danger-congress-democrats.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/09/joe-manchin-pause-biden-presidency-failed-danger-congress-democrats.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/09/joe-manchin-pause-biden-presidency-failed-danger-congress-democrats.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/652/223/c74bbe4f09987d6faf9cfbab1517b6afba-joe-manchin.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Was Biden looking at his watch during ceremony for Marines killed in Kabul?"
     excerpt: "It appeared President Biden glanced at his watch during a solemn ceremony for U.S. Marines killed in the Kabul terror attack."

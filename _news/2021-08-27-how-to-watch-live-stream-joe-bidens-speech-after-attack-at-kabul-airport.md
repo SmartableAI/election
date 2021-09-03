@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/how-watch-live-stream-joe-bidens-speech-aft
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-watch-live-stream-joe-bidens-speech-after-explosions-kabul-airport-1623378?amp=1"
 type: article
 quality: 123
-heat: 463
+heat: 443
 published: true
 
 provider:
@@ -224,20 +224,6 @@ related:
       - url: "https://KITV.images.worldnow.com/images/17633324_G.jpg"
         width: 1707
         height: 960
-        isCached: true
-  - title: "Greg Steube calls for Joe Biden resignation after reported Marine deaths"
-    excerpt: "Greg Steube called for President Joe Biden’s resignation after the reported death of four Marines in Kabul. “Horrific,” Steube tweeted. “Joe Biden needs to take"
-    publishedDateTime: 2021-08-26T18:13:00Z
-    webUrl: "https://floridapolitics.com/archives/453349-greg-steube-calls-for-joe-biden-resignation-following-reported-marine-deaths/"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 54
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2021/06/Steube.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Joe Biden promises further US strikes against ISIS-K members responsible for suicide attack outside Kabul airport"
     excerpt: "US President Joe Biden promises further airstrikes against the Islamic State group in Afghanistan after an initial drone attack was launched in retaliation to a deadly bombing outside Kabul airport."
