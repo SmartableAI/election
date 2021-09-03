@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-03-donald-trump-told-jim-jordan-hell-announce-2024-run-any-day-now-report.md",
+      "title": "Donald Trump Told Jim Jordan He'll Announce 2024 Run 'Any Day Now': Report",
+      "excerpt": "Jim Jordan (R-OH) has reportedly told Undercurrent journalist Lauren Windsor that former President Donald Trump will announce his intention to run for head of state again in 2024 \"any day now.\" Undercurrent News calls itself \"a grassroots political web-show for investigative and field reporting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-told-jim-jordan-announce-2024-run-any-day-now-report-1625778",
+      "originalUrl": "https://www.newsweek.com/donald-trump-told-jim-jordan-announce-2024-run-any-day-now-report-1625778",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1881943/trump-osama-bin-laden.jpg",
+          "width": 2500,
+          "height": 1665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-told-jim-jordan-announce-2024-run-any-day-now-report-1625778?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-told-jim-jordan-announce-2024-run-any-day-now-report-1625778?amp=1",
+      "publishedDateTime": "2021-09-03T04:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-09-03-trump-towers-key-tenants-have-fallen-behind-on-rent-and-moved-out-but-trump-has-one-reliable-customer-his-own-pac.md",
+      "title": "Trump Tower’s key tenants have fallen behind on rent and moved out. But Trump has one reliable customer: His own PAC.",
+      "excerpt": "Trump’s PAC pays more than $37,000 a month for space at the tower — the latest instance of Trump using donors’ money to prop up his businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/trump-tower-pac-rent-campaign-finance/2021/09/02/dfeae19e-0b2f-11ec-9781-07796ffb56fe_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/trump-tower-pac-rent-campaign-finance/2021/09/02/dfeae19e-0b2f-11ec-9781-07796ffb56fe_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JEFP3DGEWII6VKBFQ4RAATSBKA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-03T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-09-03-he-embodies-america-first-trump-endorses-herschel-walkers-us-senate-bid.md",
       "title": "‘He embodies America First.’ Trump endorses Herschel Walker’s U.S. Senate bid",
       "excerpt": "Herschel Walker will never let you down. He was a great football player and will be an even better U.S. Senator — if that is even possible,” Trump said.",
@@ -456,7 +560,7 @@
       "originalUrl": "https://www.freep.com/story/news/politics/2021/08/31/donald-trump-says-he-will-rally-iowa-stoking-2024-speculation/5666433001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -1368,106 +1472,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-column-donald-trump-cant-cram-his-fake-news-genie-back-in-his-bottle.md",
-      "title": "Column: Donald Trump can’t cram his ‘fake news’ genie back in his bottle",
-      "excerpt": "As Donald Trump may be discovering, once you’ve let that “fake news” genie out of the bottle, it’s impossible to reverse all of the damage it can bring.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/columns/clarence-page/ct-column-covid-trump-infodemic-fda-horse-paste-page-20210824-k2lxoefxhfdchb367rojvow45i-story.html",
-      "originalUrl": "https://www.chicagotribune.com/columns/clarence-page/ct-column-covid-trump-infodemic-fda-horse-paste-page-20210824-k2lxoefxhfdchb367rojvow45i-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/D_PVpCIYkDiA1eyzytliOlOmCpg=/1200x0/right/bottom/cloudfront-us-east-1.images.arcpublishing.com/tronc/POWAOZWWKRHONM5KEXQ45AS3GI.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-24T13:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-trump-calls-on-florida-judge-to-help-reinstate-his-youtube-account.md",
-      "title": "Trump calls on Florida judge to help reinstate his Youtube account",
-      "excerpt": "Former President Donald Trump on Monday asked a Florida judge to issue a preliminary injunction in his case against YouTube that would compel the company to reinstate his access to the platform.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/08/24/trump-calls-on-judge-to-help-reinstate-his-youtube-account/",
-      "originalUrl": "https://nypost.com/2021/08/24/trump-calls-on-judge-to-help-reinstate-his-youtube-account/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-youtube.jpg?quality=90&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/08/24/trump-calls-on-judge-to-help-reinstate-his-youtube-account/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/24/trump-calls-on-judge-to-help-reinstate-his-youtube-account/amp/",
-      "publishedDateTime": "2021-08-24T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

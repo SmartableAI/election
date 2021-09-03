@@ -3,16 +3,20 @@ category: news
 title: "Afghanistan: Joe Biden defends US pull-out as Taliban claim victory"
 excerpt: "US President Joe Biden has defended his decision to withdraw US troops from Afghanistan - a move which led to Taliban militants returning to power. Staying longer was not an option, Mr Biden said in an address to the nation,"
 publishedDateTime: 2021-09-01T09:05:00Z
-originalUrl: "https://www.bbc.co.uk/news/world-asia-58403735?at_medium=RSS&at_campaign=KARANGA"
-webUrl: "https://www.bbc.co.uk/news/world-asia-58403735?at_medium=RSS&at_campaign=KARANGA"
+originalUrl: "https://www.bbc.com/news/world-asia-58403735"
+webUrl: "https://www.bbc.com/news/world-asia-58403735"
 type: article
-quality: 55
+quality: 105
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -584,6 +588,6 @@ related:
       domain: seattletimes.com
     quality: 34
 
-secured: "qeYsfF4STAniJivCRwkc8osyjr4UbbE+HLhnRmiB/g5+zZ9IkAOIBLj57rM5qVIiAUC7fISRZel56okShkWe272LbKWipzl/Btqz/ZwmkaK7SvmtuVk9LSz3/3ivjKPZeZR7dlPqBb8o07o+buzF19Kh3XVXLghSRSG8GfNUe9PCuILVqIWMa4eQ220HWW7qLhQkI3nZi9H/sKzh9foKhZ/+q87DPsOiH0vdFLc2+utjg+ND8FCQRz2km/uuIhpyifP0VWf2zbz28BXCfY3S3cN60FQFZ1MkS5c6K80b6Xz24oJHQE6uAR7Q4CE9fz52hJilwh9IXgylnZzSk9tjcTnXVBENPglKwflUJd7sgZRks/LYtXf+HudUdXE3qRc+gTH90DaDTvSRm0O8TXyejmczNTKCaOpEelxDza65/PCaOSpnc4yVPc1keHsr3kFs3JNqlOvkMX2ffL5M9MGe7uMkrCz98DJt118ni3ffGb0IZnkOVgPw2r0H47BWwpq0SAWOc9LHWeonCMJ+8vvEkw==;eaBi0pWgZVRkXyrmBriGhg=="
+secured: "yNlPIfds0or1OF4L6L2QIQjyOhKL1237EDlftTi2GRdgTXrAwf6c92R0xp/YevhS3ylwMrxwdp1KOwhGI3WEk+4IxLhMJjuqs1W8MqipEfW6JU1Bdv9l6ZVwIl5eYEF/9UoUo07/WwFPPrTti4WyYmfyHw4OzfVMz3aLOZ2Ubmxh3auR783aVbn7/dMLt1IF/yyoHZtMTWwTh90+1BIIKEPb9eg3hQy8E1wkmqvKmEe49CesJIzkSWNqOJTeaZShyVzsy5CRG9vs/lnXc8BZfIj8VD6ISL2R+Hpz9SHuEkzzs/Vt/Dgj5ixMTDLkaRoOvAZmy7JKxOjys7dQ5dnrBobYw2P3uzEvGRiKRjxFUM0=;Styhwh9lTHDjIZWxJdrhWg=="
 ---
 

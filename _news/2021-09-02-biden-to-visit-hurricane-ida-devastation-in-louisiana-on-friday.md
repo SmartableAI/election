@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-hurricane-ida-devastation-lou
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hurricane-ida-devastation-louisiana-friday.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden to visit Louisiana to survey damage left by Hurricane Ida"
+    excerpt: "President Biden will head to Louisiana on Friday after the state was battered by Hurricane Ida."
+    publishedDateTime: 2021-09-03T12:38:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rKr2w294l7k/biden-louisiana-damage-hurricane-ida"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-louisiana-damage-hurricane-ida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-louisiana-damage-hurricane-ida.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/83fc7f92-2bea-40fd-b69d-16e6093d0fa7/3483f11e-f6d4-4d0b-a4d2-e308c79930a8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "DeSantis requests Biden administration stop resettling illegal immigrants in Florida"
     excerpt: "Florida Gov. Ron DeSantis this week wrote to the Biden administration, asking it to stop resettling illegal immigrants in the state of Florida -- and to either deport them instead, or send them to a state that supports the \"flouting of our immigration laws.\""
     publishedDateTime: 2021-08-28T23:44:22Z

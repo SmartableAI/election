@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/09/01/politics/biden-louisiana/index.ht
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/01/politics/biden-louisiana/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden set to travel to Louisiana to survey damage from Hurricane Ida"
+    excerpt: "President Joe Biden is headed to Louisiana on Friday to survey damage from Hurricane Ida, after almost a week of the deadly storm ravaging the eastern half of the United States.\n    \n"
+    publishedDateTime: 2021-09-03T10:08:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vbv-IqXj3qo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/03/politics/biden-hurricane-ida-travel-louisiana/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/03/politics/biden-hurricane-ida-travel-louisiana/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210902140750-01-biden-ida-0902-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Amid turmoil and grief, Jill Biden travels to visit face-to-face with military families "
     excerpt: "First lady Jill Biden on Wednesday traveled to the Marine Corps Base at Camp Lejeune in Jacksonville, North Carolina, a trip that, according to the White House, included meetings with military families.\n    \n"
     publishedDateTime: 2021-09-01T19:41:30Z

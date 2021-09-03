@@ -49,6 +49,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Donald Trump recalls defending ‘Judeo-Christian values,’ says religion is under attack"
+    excerpt: "Trump called it an honor to defend 'the Judeo-Christian values and principles of our nation's founding.' Former President Donald Trump fielded questions Thursday from religious leaders on a call with a group meant to shore up support from evangelical Christians."
+    publishedDateTime: 2021-09-03T12:59:00Z
+    webUrl: "https://floridapolitics.com/archives/454979-donald-trump-recalls-defending-judeo-christian-values-says-religion-is-under-attack/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 47
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/08/Trump-ap-photo.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "ZHL4dlUAVBlBBmXpobOhAoNqenm4AeA3mm/BGCHuFB8m8WBj8eA+frk2067PKmBirKzHOS3jA7dRo7KN3CcpKzAFCje0mpfFDVMSwC9wS7LryybTwxfqp1MYcywTCiadJb2m4G3oq/Eyl5Ym1FcXAsS2P1ilODQDxLLihAQFk/4Dkk7jL3xJbnk0qRAPe4ie3E8/JxJhGqEALSUoqmTWv9SZKxK9M45NtrcGAU600YlxKA7wdiKWheALYQRrq2Vz2BOEOOZgBMOdvLPngpUcmn1v/S5VOAVC7665c+AFvXzOm5LBFAv1DGY209X1YAKFIdBqhFOShxOMBLQCTzHRBZqZp5UDSB3k0TMz+sDgKUgUqz2iZE0bJCjucFw2IW0H7rgDOdwlBIwXZUwrxnNzpjSb/lg75iHqpbDeQLf0GHiwGGdNURV9XiECMR9lzJvQ8jvRd/7xxjeuakKIJ1skTQj/SBBA7yAdz7vb3T5PkSx0vd4CwdHMmy0ItYELeRAMAy2+wxJZuJXQp1H/tB6TgA==;sesv4zLpLDP7nb+e8cN83g=="
 ---

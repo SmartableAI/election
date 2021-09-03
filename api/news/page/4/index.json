@@ -2,6 +2,106 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-27-donald-trump-mistakes-isis-k-for-isis-x-then-says-its-going-to-be-worse.md",
+      "title": "Donald Trump Mistakes ISIS-K For ISIS-X, Then Says It's 'Going to be Worse'",
+      "excerpt": "The former president attacked the Biden administration's \"stupidity\" regarding the how the Afghanistan withdrawal was executed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-mistakes-isis-k-isis-x-says-its-going-worse-1623569",
+      "originalUrl": "https://www.newsweek.com/donald-trump-mistakes-isis-k-isis-x-says-its-going-worse-1623569",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1878895/former-president-donald-trump-holds-rally.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-mistakes-isis-k-isis-x-says-its-going-worse-1623569?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-mistakes-isis-k-isis-x-says-its-going-worse-1623569?amp=1",
+      "publishedDateTime": "2021-08-27T01:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president.md",
+      "title": "Trump says Kabul airport explosion wouldn’t have happened if he was president",
+      "excerpt": "Donald Trump hammered Biden over the suicide bombings outside Kabul’s airport, claiming that “it would not have happened if I was your president.”",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/",
+      "originalUrl": "https://nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-afghanistan-bomging-index.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/amp/",
+      "publishedDateTime": "2021-08-26T21:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-27-trumps-former-national-security-advisor-john-bolton-says-its-impossible-for-mike-pompeo-to-rewrite-history-on-his-negotiations-with-the.md",
       "title": "Trump's former national security advisor John Bolton says it's 'impossible' for Mike Pompeo to 'rewrite history' on his negotiations with the Taliban",
       "excerpt": "\"That's a prescription for Democratic attack ads that would be fatal to someone's credibility,\" Bolton told Politico.",
@@ -1154,114 +1254,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-charles-barkley-blasts-crowd-stupidity-for-booing-donald-trump-over-vaccines.md",
-      "title": "Charles Barkley Blasts Crowd 'Stupidity' For Booing Donald Trump Over Vaccines",
-      "excerpt": "The NBA legend is headlining an event in Alabama on Saturday to encourage people to take the COVID-19 vaccine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/charles-barkley-blasts-crowd-stupidity-booing-donald-trump-vaccines-alabama-1622803",
-      "originalUrl": "https://www.newsweek.com/charles-barkley-blasts-crowd-stupidity-booing-donald-trump-vaccines-alabama-1622803",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 361,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1879344/charles-barkley-speaks-podium.jpg",
-          "width": 3763,
-          "height": 2509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/charles-barkley-blasts-crowd-stupidity-booing-donald-trump-vaccines-alabama-1622803?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/charles-barkley-blasts-crowd-stupidity-booing-donald-trump-vaccines-alabama-1622803?amp=1",
-      "publishedDateTime": "2021-08-25T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-with-biden-poll-numbers-plunging-democrats-worry-afghan-exit-may-impact-next-years-elections.md",
-      "title": "With Biden poll numbers plunging, Democrats worry Afghan exit may impact next year's elections",
-      "excerpt": "The rushed U.S. evacuation in Afghanistan appears to be a key contributing factor in the plunge in President Biden's approval rating in new polls. Some Democrats are worried the political fallout could impair their prospects in the 2022 midterms.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PEfZ-75ZWeU/biden-poll-numbers-plunging-democrats-worry-afghanistan-midterms",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PEfZ-75ZWeU/biden-poll-numbers-plunging-democrats-worry-afghanistan-midterms",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 638,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-poll-numbers-plunging-democrats-worry-afghanistan-midterms.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-poll-numbers-plunging-democrats-worry-afghanistan-midterms.amp",
-      "publishedDateTime": "2021-08-25T03:38:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

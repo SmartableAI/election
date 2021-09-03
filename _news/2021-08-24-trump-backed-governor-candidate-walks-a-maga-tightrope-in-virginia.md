@@ -57,14 +57,14 @@ related:
         isCached: true
   - title: "Trump backs Jones in Georgia, renews support for Walker"
     excerpt: "Former President Donald Trump put his thumb on the scale of Georgia Republican politics again Thursday, endorsing state Sen. Burt Jones in the GOP primary for lieutenant governor and reiterating his support for newly declared U."
-    publishedDateTime: 2021-09-03T04:40:00Z
-    webUrl: "https://www.sunherald.com/news/politics-government/national-politics/article253963198.html"
-    ampWebUrl: "https://amp.sunherald.com/news/politics-government/national-politics/article253963198.html"
-    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/politics-government/national-politics/article253963198.html"
+    publishedDateTime: 2021-09-03T09:32:00Z
+    webUrl: "https://www.islandpacket.com/news/politics-government/national-politics/article253963198.html"
+    ampWebUrl: "https://amp.islandpacket.com/news/politics-government/national-politics/article253963198.html"
+    cdnAmpWebUrl: "https://amp-islandpacket-com.cdn.ampproject.org/c/s/amp.islandpacket.com/news/politics-government/national-politics/article253963198.html"
     type: article
     provider:
-      name: Biloxi Sun Herald
-      domain: sunherald.com
+      name: The Island Packet
+      domain: islandpacket.com
     quality: 55
 
 secured: "TSNGyqhA5PG8Qkn/m4H+th56HzBmzbCIXCVqilW0CP3taov6mVqtrppFOhxWC/o/tV3p8QYx6g3E7g8mh8gvLCr2SMT17K7hP9JYS5Mw69lKySRMWSYTZR97x7c/mRskTwEv7G9TBUJDk8B+bymCwfaNZ9+WXCkCHQyOGn6AD25JVn5cZBm7w+aIj1ANHk9kHkOwY9P2upj8tSIpIGKT1X2MBKoA6r4v6YEZ5rogbIIOLG8VYK4SIdpkAF1b8bHSvQl19kdGUXNqYmJ8dKbr+I6ZakJDYok8jIi1vNacioepJoUXAN/m84Zwg/PgS95GzlwSz0rwCcsPrSSzeFjak0O7GL0aiFSAcF2MYd5g+58=;Yo+4Pi+mY3vaBNGl/Ol23w=="

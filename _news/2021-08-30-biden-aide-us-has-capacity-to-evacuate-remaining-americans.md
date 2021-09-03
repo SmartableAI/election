@@ -149,6 +149,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Afghanistan: Joe Biden defends US pull-out as Taliban claim victory"
+    excerpt: "US President Joe Biden has defended his decision to withdraw US troops from Afghanistan - a move which led to Taliban militants returning to power. Staying longer was not an option, Mr Biden said in an address to the nation,"
+    publishedDateTime: 2021-09-01T09:05:00Z
+    webUrl: "https://www.bbc.com/news/world-asia-58403735"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/C8CD/production/_120350415_976_hi069712049.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Trump calls for Biden apology, Pentagon brass to resign over Afghanistan"
     excerpt: "Former President Donald Trump on Tuesday demanded his successor apologize for the disastrous U.S. exit from Afghanistan."
     publishedDateTime: 2021-08-31T15:26:00Z
@@ -497,20 +511,6 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/0aa5f0085d74f7e3ec67bcdb81bd4836/BIDEN-CHURCH.jpg"
         width: 650
         height: 433
-        isCached: true
-  - title: "Afghanistan: Joe Biden defends US pull-out as Taliban claim victory"
-    excerpt: "US President Joe Biden has defended his decision to withdraw US troops from Afghanistan - a move which led to Taliban militants returning to power. Staying longer was not an option, Mr Biden said in an address to the nation,"
-    publishedDateTime: 2021-09-01T09:05:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-asia-58403735?at_medium=RSS&at_campaign=KARANGA"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 55
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/C8CD/production/_120350415_976_hi069712049.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Boris Johnson will urge Joe Biden to delay withdrawal of US forces from Afghanistan as thousands try to escape Taliban"
     excerpt: "BORIS Johnson will urge Joe Biden to delay the withdrawal of US forces from Afghanistan as thousands try to escape the Taliban. Mr Johnson will use a G7 meeting on Tuesday to ask the US"

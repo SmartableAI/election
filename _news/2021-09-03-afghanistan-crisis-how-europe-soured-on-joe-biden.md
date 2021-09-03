@@ -3,22 +3,18 @@ category: news
 title: "Afghanistan crisis: How Europe soured on Joe Biden"
 excerpt: "But in capitals across Europe, from London to Berlin, Afghanistan has soured the sweetness of Joe Biden's honeymoon. It's not the fact of the withdrawal itself that has rankled bu"
 publishedDateTime: 2021-09-02T23:05:00Z
-originalUrl: "https://www.bbc.com/news/world-europe-58416848"
-webUrl: "https://www.bbc.com/news/world-europe-58416848"
-ampWebUrl: "https://www.bbc.com/news/world-europe-58416848.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-europe-58416848.amp"
+originalUrl: "https://www.bbc.co.uk/news/world-europe-58416848?at_medium=RSS&at_campaign=KARANGA"
+webUrl: "https://www.bbc.co.uk/news/world-europe-58416848?at_medium=RSS&at_campaign=KARANGA"
+ampWebUrl: "https://www.bbc.co.uk/news/world-europe-58416848.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-europe-58416848.amp"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - Election
@@ -1874,6 +1870,6 @@ related:
       domain: usnews.com
     quality: 29
 
-secured: "5TNwNfwbxs5PQebAnCsJ7uTiTqaq2PqPOlaNf1wtyoKymKSSGMNOcswRnS93OyJIP0537ab62k2GGIx1FtpgY/lAE4WlBt9Hr2ra93j3kJKVd7nWWPayz9gJkOCIRzzsMsZEbshFGCdBxs8SUXLM+lD1ufzfUexkDZ15EFCLg2acMsMvwwIJQdUEbX6WdqPag6d/VLADDaWrG2tC5SK5iIkUtamZbm7GfelYqwIagBTkPi2QaGnWLbF1u/BDmsAqRI48EaKI21/njdSUkW6j9mcNCq/+WXZSYCeWfOALsdKbUYyQA15kS2QWAg5gImf5aNKE1+nwXhTRkC31AwTvX+ILVGnHEM0urEpCwe2ayLE=;WVUp6gQuGz6xZHZnqd97fA=="
+secured: "KTL8BdRa5XGLRNGVxq9MFQGdAwouvdFgexlNprQikn1YyoxbdlDhjT4JmMqKH1v+OORvbh6JE8VWkf137tMrB5ZH9VJsRxjtxFX/TMRwSsHT91exDL+gTmDRPBnN64rxSIQ3h4RzoybzBNBYVNkwQEBS6NrGUAoTgFtm/QmvelmiIVpLKbiKBrh6IWLB/tk7VNiQ6Yh2KXogax40ccpy5eWk6YpyP9TL3V4JGHsaC5le8ffwNbhqPNrTx2NIWvhFXMGiOLqjy4OSi7QHvdrC+Zx+0sK7N/zvqXXZP5i6dADYnJyqBxevXREirHMeYro+qHvZbIG16sFRXhh3u/3QQHSaDLUcrRKHhWHh+UP4weA=;Q2hZ/Nt4INlaam2NlNDwmw=="
 ---
 

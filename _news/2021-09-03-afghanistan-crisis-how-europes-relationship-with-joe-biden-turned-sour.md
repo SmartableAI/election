@@ -3,22 +3,18 @@ category: news
 title: "Afghanistan crisis: How Europe's relationship with Joe Biden turned sour"
 excerpt: "But in capitals across Europe, from London to Berlin, Afghanistan has soured the sweetness of Joe Biden's honeymoon. It's not the fact of the withdrawal itself that has rankled bu"
 publishedDateTime: 2021-09-02T23:05:00Z
-originalUrl: "https://www.bbc.com/news/world-europe-58416848"
-webUrl: "https://www.bbc.com/news/world-europe-58416848"
-ampWebUrl: "https://www.bbc.com/news/world-europe-58416848.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-europe-58416848.amp"
+originalUrl: "https://www.bbc.co.uk/news/world-europe-58416848"
+webUrl: "https://www.bbc.co.uk/news/world-europe-58416848"
+ampWebUrl: "https://www.bbc.co.uk/news/world-europe-58416848.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-europe-58416848.amp"
 type: article
-quality: 124
+quality: 74
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - Election
@@ -62,6 +58,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1885466/jack-posobiec-washington-dc.jpg"
         width: 2500
         height: 1588
+        isCached: true
+  - title: "Joe Biden's Approval Rating Tanks as 60 Percent Disapprove of Afghanistan Handling: Poll"
+    excerpt: "The president's approval rating now stands at just 44 percent despite most Americans favoring leaving Afghanistan."
+    publishedDateTime: 2021-09-03T12:27:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-approval-rating-tanks-60-percent-disapprove-afghanistan-handling-poll-1625791"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-approval-rating-tanks-60-percent-disapprove-afghanistan-handling-poll-1625791?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-approval-rating-tanks-60-percent-disapprove-afghanistan-handling-poll-1625791?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1886918/biden-listens-president-ukraine.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Fact check: President Joe Biden did not sleep through meeting with new Israeli prime minister"
     excerpt: "A viral video distorts President Biden's Aug. 27 meeting with Israel's new prime minister to make it appear as if Biden fell asleep. He did not."
@@ -291,6 +303,6 @@ related:
       domain: politifact.com
     quality: 20
 
-secured: "OGOGs7fS27SGqEih2ya2g05Yd3RNqcBPHGmukT9maUeXqVmc6N+K3KWkxhXYi7PXkgA2eSUKmj7kDWCK1TTOrPL6uHVpg7joNEywIl2tUGtu53rs/tHL2+/+V8O5KOpkf4k8drkOAG1xur8l9wZtrPmjJZtnYvkte0fmj3pzCcWyikBIVsbhRtSBZL9GiOIfo5yYoTJARaEbE5+X7JNE6wqpHyrunT8qS+LiLPCYNGJGXapThgO8f+23RIM8RjrAzKEoHJt/t8wOvYMUVkAJ3zxuhO4eaaTTVDrvcYcm9ynfk9YkuOoGjDIMynyq0BYfpma87UW1S6iP/rFXy5mT7mWBIo07XS0puVFvnD9osu0=;RQsn5DXA2wuZucewYonTbA=="
+secured: "b+1anW9dQpNMExTjlRn2jCuz2jegwuW/h+65jsAx089mBWzhUsynTTxgXzvdccaFlVAvGD/8ki/e1qSs8mDy5E5CIwzJ3Uf7TpSWvTUmEcAZkKRLsY50+BrnRQ981b2QQNCpJIiDJGijlJolUq0RzEPLqfkfSQN3BhNi4O58GCVCG3y/Ps9mEGuLdOrFjS3NLeRjLWES8aF+Sw1xwevbsg1QSdZXkOu4/f8nfsLqDufheFIRMeelKVFo57nKlYxgVB1uMtDmy+/wp9nojVH1IM7VagyE8Fr2xOTLfbHxjisZ+3pG8UVCrkISJonfa3bbJoi1ZbZ70bGHNj6FIzk4++e07q0johQznVrOUQSS2ywMUsOcgC7ck+rav8ZFhfHq6HZDLZwn0pPUSO5nhXyPXRnfrwvqdEJo+pEjYITI2ghmyo7/4UO+KN5JaQ9PZcUSVy/RLYLMLhJCaJ1/AGfmjaBJ9dLjQt593YKQK8XwIOn4XXiScu0mFF2CF8r9Kqnmjph/8jlYSP9O2rFDpWDVGg==;3BbIGlyRpCmXBXPSEG5YwQ=="
 ---
 

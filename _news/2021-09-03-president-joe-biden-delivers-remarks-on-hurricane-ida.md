@@ -57,21 +57,21 @@ related:
         width: 2500
         height: 1588
         isCached: true
-  - title: "Afghanistan crisis: How Europe's relationship with Joe Biden turned sour"
-    excerpt: "But in capitals across Europe, from London to Berlin, Afghanistan has soured the sweetness of Joe Biden's honeymoon. It's not the fact of the withdrawal itself that has rankled bu"
-    publishedDateTime: 2021-09-02T23:05:00Z
-    webUrl: "https://www.bbc.com/news/world-europe-58416848"
-    ampWebUrl: "https://www.bbc.com/news/world-europe-58416848.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-europe-58416848.amp"
+  - title: "Joe Biden's Approval Rating Tanks as 60 Percent Disapprove of Afghanistan Handling: Poll"
+    excerpt: "The president's approval rating now stands at just 44 percent despite most Americans favoring leaving Afghanistan."
+    publishedDateTime: 2021-09-03T12:27:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-approval-rating-tanks-60-percent-disapprove-afghanistan-handling-poll-1625791"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-approval-rating-tanks-60-percent-disapprove-afghanistan-handling-poll-1625791?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-approval-rating-tanks-60-percent-disapprove-afghanistan-handling-poll-1625791?amp=1"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 124
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/885B/production/_120370943_gettyimages-1233447987.jpg"
-        width: 1024
-        height: 576
+      - url: "https://d.newsweek.com/en/full/1886918/biden-listens-president-ukraine.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Fact check: President Joe Biden did not sleep through meeting with new Israeli prime minister"
     excerpt: "A viral video distorts President Biden's Aug. 27 meeting with Israel's new prime minister to make it appear as if Biden fell asleep. He did not."
@@ -152,6 +152,22 @@ related:
       - url: "https://cdn.christianpost.com/files/cache/image/14/32/143258_w_450_300.jpg"
         width: 450
         height: 300
+        isCached: true
+  - title: "Afghanistan crisis: How Europe's relationship with Joe Biden turned sour"
+    excerpt: "But in capitals across Europe, from London to Berlin, Afghanistan has soured the sweetness of Joe Biden's honeymoon. It's not the fact of the withdrawal itself that has rankled bu"
+    publishedDateTime: 2021-09-02T23:05:00Z
+    webUrl: "https://www.bbc.co.uk/news/world-europe-58416848"
+    ampWebUrl: "https://www.bbc.co.uk/news/world-europe-58416848.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-europe-58416848.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 74
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/885B/production/_120370943_gettyimages-1233447987.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Explained: What happens after Joe Biden’s evacuation force leaves Afghanistan?"
     excerpt: "The chaotic and perilous evacuation from Kabul airport that ensued has unleashed a wave of criticism and presented Biden with his biggest crisis since taking office in January."
@@ -287,6 +303,6 @@ related:
       domain: politifact.com
     quality: 20
 
-secured: "qVquP1vJvFAijdrK5Y7Bah9frB0053ukwRFRIrw+BBX3YIxguHl7qdNriP1qPUkY2Bl56f8nALbTDoeX9Yk36AH6ABYzBske6vIvw9kJ4WGVhAMYDtFiMD/ZIaY9W250V7P06PMJqXsVp6o86V0hzezx9GdcgN1Ll9Vc+BP5/t3mYmcrGk5V7ARTtXnY74NK02tYwxSgL1aDgMj8TcMn0drPx3QN1Bwt+YrUOF0tcUtp+3mI18JG3LPLe4OCnXobwI7A3C/db8ikhh6+7/0R2ALllY2foeoL6T2XXOS3fMD03Hf+cwC1W0vN7fSzXBVJkchwkMWx078wE4z/LtmPan1X0SXhn97ORxV9HOOx2NY=;5/vjrua5OahrbHutVUIacQ=="
+secured: "fiMJRdrGdJsKE3dldMKc9Jkl229bKfbm2tLoKmmclNerAl9fsIXO9UQ+BT1u+h9fOQ5Ufm1TAEipxfB3K9V12GKIH5U6Z4PKy/eJxIEIVl+4cjfw1KJhx+ZLtJpJAcYQbQAvCwTWHl6JKG+xY0H2PI1MZc8oSvoBO9Nsg/7H5vgnX14nZx4VlmTGWcORdr+bPZS8Qsz7TB6eaHflcArVg4huIjdclxBzF4+QtSRqLn/epB6GtJcbzYEOg6/+SL42UoAvYtVkMtL7X4OjZUSlF6jMwibom7zA2YfvW2Jy5k96J5pcKHxIkD1rrU4ctTisGzkL3qe88tKq+31UUzsDGJmh12+Epkb7uSEzFZv3z9AadW6NyqW+ifk1qfa9dt1Gl6W/Zj4/nmBgzswG+tJEW1wnimqjnK9n0WpUvjntpXVHG24i+le1pYBdspzlvMIK1s7gscURnTEE1XTaJjc7s5MeLfLpmXVK3IacolssHPhhWaESN2sRXwidTs3Sp1GHkTIWUPTLB3rbWbddMtw6KA==;yx8mc8e1Vq4uXRmS63KjVg=="
 ---
 

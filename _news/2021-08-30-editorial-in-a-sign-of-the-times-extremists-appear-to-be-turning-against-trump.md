@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Donald Trump recalls defending ‘Judeo-Christian values,’ says religion is under attack"
+    excerpt: "Trump called it an honor to defend 'the Judeo-Christian values and principles of our nation's founding.' Former President Donald Trump fielded questions Thursday from religious leaders on a call with a group meant to shore up support from evangelical Christians."
+    publishedDateTime: 2021-09-03T12:59:00Z
+    webUrl: "https://floridapolitics.com/archives/454979-donald-trump-recalls-defending-judeo-christian-values-says-religion-is-under-attack/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 47
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/08/Trump-ap-photo.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Outside group spending big to tell NC voters that Trump endorsed Budd in Senate race"
     excerpt: "President Donald Trump endorsed Ted Budd three months ago in North Carolina’s 2022 U.S. Senate race. Now one of Budd’s biggest political backers is spending $3 million to make sure Republicans in the state are aware of Trump’s endorsement."
     publishedDateTime: 2021-09-02T16:25:00Z
