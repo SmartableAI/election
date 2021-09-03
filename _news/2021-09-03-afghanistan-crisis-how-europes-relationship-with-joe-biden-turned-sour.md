@@ -3,18 +3,22 @@ category: news
 title: "Afghanistan crisis: How Europe's relationship with Joe Biden turned sour"
 excerpt: "But in capitals across Europe, from London to Berlin, Afghanistan has soured the sweetness of Joe Biden's honeymoon. It's not the fact of the withdrawal itself that has rankled bu"
 publishedDateTime: 2021-09-02T23:05:00Z
-originalUrl: "https://www.bbc.co.uk/news/world-europe-58416848"
-webUrl: "https://www.bbc.co.uk/news/world-europe-58416848"
-ampWebUrl: "https://www.bbc.co.uk/news/world-europe-58416848.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-europe-58416848.amp"
+originalUrl: "https://www.bbc.com/news/world-europe-58416848"
+webUrl: "https://www.bbc.com/news/world-europe-58416848"
+ampWebUrl: "https://www.bbc.com/news/world-europe-58416848.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-europe-58416848.amp"
 type: article
-quality: 74
+quality: 124
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -303,6 +307,6 @@ related:
       domain: politifact.com
     quality: 20
 
-secured: "b+1anW9dQpNMExTjlRn2jCuz2jegwuW/h+65jsAx089mBWzhUsynTTxgXzvdccaFlVAvGD/8ki/e1qSs8mDy5E5CIwzJ3Uf7TpSWvTUmEcAZkKRLsY50+BrnRQ981b2QQNCpJIiDJGijlJolUq0RzEPLqfkfSQN3BhNi4O58GCVCG3y/Ps9mEGuLdOrFjS3NLeRjLWES8aF+Sw1xwevbsg1QSdZXkOu4/f8nfsLqDufheFIRMeelKVFo57nKlYxgVB1uMtDmy+/wp9nojVH1IM7VagyE8Fr2xOTLfbHxjisZ+3pG8UVCrkISJonfa3bbJoi1ZbZ70bGHNj6FIzk4++e07q0johQznVrOUQSS2ywMUsOcgC7ck+rav8ZFhfHq6HZDLZwn0pPUSO5nhXyPXRnfrwvqdEJo+pEjYITI2ghmyo7/4UO+KN5JaQ9PZcUSVy/RLYLMLhJCaJ1/AGfmjaBJ9dLjQt593YKQK8XwIOn4XXiScu0mFF2CF8r9Kqnmjph/8jlYSP9O2rFDpWDVGg==;3BbIGlyRpCmXBXPSEG5YwQ=="
+secured: "8woD40D/JJeQOgeVEmyAwydMuNKsVQO9p1O4X8Lys2vNx8bCyVfpFyX8SivbcTawG5Eyhid0+SSOi7MmJotBFJfo+WOZmZMS4JGZs4NVJxbvwq7LxFVi2iOuZ6TFxTVP83aVtEVp6cpB1kU+fkiAsQPlOJeP0sYDnhfLgh/d5Jn8iMz1DLGi4cvWa5DdI4Y6fqL3opnofEfwcRwh8Y37HPc/FNLl4VN0nkFuCRbju6R5D1EH4GopCprQo5z8KB9+Ogl0kqAwrHrGF2vYB+BARslfTXqB5H4euLZtGsThsP/lk5N9zoqTvJVpMNMVqurZkPEzvya19ngek2C+gQKbpLfOYpJaD6vCBsOcLyRelrnOqxlSMxahTNyByVhK/eyllPeKwwnjLf/S5dXDR4FedfGe1vETtFK2wuMXSUEsTNSmZZkJCMMKtyjwnAHs2smkLniilDuQXDXLtLvmFP79bkx1VAf4DIJlMa/IbUs6/FZxltu/RzKkATmHerwjcZSx65yJQFXNENaJhi6MHt/zhQ==;JE2ck+2J0sUVOmH9UOw8iA=="
 ---
 

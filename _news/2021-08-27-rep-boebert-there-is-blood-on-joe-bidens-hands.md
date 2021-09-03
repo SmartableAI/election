@@ -345,6 +345,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "President Joe Biden Delivers Remarks on the Jobs Report"
+    excerpt: "U.S. President Joe Biden delivers remarks on the August jobs report on Friday, September 3, 2021, in the State Dining Room at the White House in Washington DC. Photo by Ken Cedeno/UPI"
+    publishedDateTime: 2021-09-03T16:36:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/9848ad9ce359a149221caf46e352e9f0/President-Joe-Biden-Delivers-Remarks-on-the-Jobs-Report/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/9848ad9ce359a149221caf46e352e9f0/BIDEN-JOBS.jpg"
+        width: 650
+        height: 434
+        isCached: true
   - title: "VP Kamala Harris slams China right on their doorstep – here’s what she said"
     excerpt: "During her visit to Singapore on Tuesday, Vice President Kamala Harris railed against China for coercing and intimidating countries in the South China Sea. 'We know that Beijing continues to coerce, to intimidate,"
     publishedDateTime: 2021-08-25T17:42:00Z
@@ -370,6 +384,20 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 53
+  - title: "Lauren Boebert demands Kamala Harris be impeached for the most ridiculous reason possible"
+    excerpt: "Lauren Boebert (R-CO) cannot help herself. She opens her mouth and words fall out that are best kept inside. This time, at a Freedom Caucus press conference, the congress member decided to call for the impeachment of Vice President Kamala Harris for a reason so ridiculously stupid even her fellow legislators could barely keep a straight face."
+    publishedDateTime: 2021-08-31T19:00:00Z
+    webUrl: "https://www.lgbtqnation.com/2021/08/lauren-boebert-demands-kamala-harris-impeached-ridiculous-reason-possible/"
+    type: article
+    provider:
+      name: LGBTQ Nation
+      domain: lgbtqnation.com
+    quality: 46
+    images:
+      - url: "https://abuwjaawap.cloudimg.io/v7/_lgbtqnation-assets_/assets/2021/08/Boebert-Lauren.jpg?&auto=format&auto=compress&crop=faces&fit=crop&gravity=face&w=1200&h=630&wat=1&wat_gravity=southeast&wat_pad=40"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Kc2MlfBrM5RaIZ7FB/Bg98wQ5JqU7jeUV8FdPp4sKRw5RwdmWhRArpR/WeNbrvPdjGXexsVMCEBE1oAuHwPMZZ+QEnPhf6I1BTLMd3kLABDfD7SDxdWtmIgdi+vr3hesMKmG3qaCmHb0v9xSJ4HRkbQPRqzCPzWtnDi6xhemn6pA8j1hnvcEggO4gnZVm1lzcO+C58jTnOks4CnYoibOB4dNURVeH92FEb+XVJdjF3j/r7u+3tZBjarD1CppgPkFaR5AHd6FiCJ/6ygTQ75rPE24ZLFpQjQwp8wiftjUOriouoUK0lUy5h4jolc0Yt3hBtlPdBHgXze7lU+630o77nv7LLur6vg1mBMGBSx0JN0=;qFcdBYtf6GSJc1KaoqD39Q=="
 ---

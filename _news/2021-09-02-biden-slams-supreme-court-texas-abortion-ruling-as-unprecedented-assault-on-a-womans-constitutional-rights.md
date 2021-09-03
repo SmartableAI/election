@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden changes position, now says life doesn't begin at conception"
+    excerpt: "President Biden on Friday appeared to change a position he had just six years ago on whether life begins at conception."
+    publishedDateTime: 2021-09-03T17:42:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nSzOUcmF7YA/biden-changes-position-life-begin-conception"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-changes-position-life-begin-conception.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-changes-position-life-begin-conception.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4d458d90-0cf5-4f7e-b4c7-1382e4206fb8/989d37e0-15b2-4b14-b0d0-2686d65b114f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Sen. Cruz says Biden is trying to cover up poor Texas migrant facility conditions"
     excerpt: "Cruz and fellow GOP lawmakers Reps. Chip Roy and Nancy Mace held a press conference after spending time with the men and women of Border Patrol in Laredo, Texas."
     publishedDateTime: 2021-09-01T19:23:47Z

@@ -215,6 +215,20 @@ related:
         width: 481
         height: 355
         isCached: true
+  - title: "President Joe Biden Leaves For Louisiana"
+    excerpt: "U.S. President Joe Biden walks to Marine One on the South Lawn of the White House on September 3, 2021 in Washington DC. Biden is heading to New Orleans, Louisiana to deliver remarks on his Administration?"
+    publishedDateTime: 2021-09-03T16:36:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/f7aacc65c795f01e80de987094f71250/President-Joe-Biden-Leaves-For-Louisiana/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/f7aacc65c795f01e80de987094f71250/BIDEN-JOBS.jpg"
+        width: 650
+        height: 434
+        isCached: true
 
 secured: "nscLTf/k69MieghBCswjPPCsnkExPDz7oF6OrCN7tTDfBMCRHgQZRZtNjysfiFKlV/zBc1PhKky/ArfgV4giZ32Yrz7VDjwf93gy7BBVis6gB5nTxdOg8UNt++e5Ze24j5C6X7E1ncSF1dOwefgL+xEN85l3b8ULeFLXZj1MCKB0huu7Li5Z+KcUOCwTwJDJ6frX3iQBy1hWTAFPxZ3tCHklxk4zv+Z7HNP72R6oBUBGSzmqCFDVr9tvPbhx5yccZtCWJN596LNNmIDSRRj6c6biZ/eIhhsFO2WoqN+j29FmOLn9fuc1G2p65r1x4934xzVXw2q6hjSh9j4ubH8C+V4khdsMc6DBw0IfKJh9AEDWr7G30TDrP/2dfTvRAfM/9/zt+S3Vmu08Ulny6JsNfkQghX14YX3rG9N7tGvtINMGmIFeGok2lokJ8Bu0JPkDKpmmlrSPw7AUrCZQ1nDw9WQKl5F5z2Fbjxgw2B7VBIuYEC6IiByBOIvVO4imtUMVQCryx78VNMMSPfnSSHyV6w==;J49N/6mbOPDDY4tSIaQ71g=="
 ---

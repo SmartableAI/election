@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/local/virginia-politics/trump-virgi
 webUrl: "https://www.washingtonpost.com/local/virginia-politics/trump-virginia-governor-youngkin-election/2021/09/01/c8583584-0b3b-11ec-aea1-42a8138f132a_story.html"
 type: article
 quality: 112
-heat: 172
+heat: 152
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "US Sen. Mike Rounds isn't convinced Donald Trump would win GOP nomination in 2024 election"
-    excerpt: "South Dakota U.S. Sen. Mike Rounds, in discussion with Sioux Falls Rotarians, speculated what might lie ahead for the Republican Party for 2024."
-    publishedDateTime: 2021-08-30T19:39:00Z
-    webUrl: "https://www.argusleader.com/story/news/2021/08/30/mike-rounds-2024-election-donald-trump-kristi-noem-republican-nomination-speculation/5653852001/"
-    ampWebUrl: "https://amp.argusleader.com/amp/5653852001"
-    cdnAmpWebUrl: "https://amp-argusleader-com.cdn.ampproject.org/c/s/amp.argusleader.com/amp/5653852001"
-    type: article
-    provider:
-      name: Argus Leader
-      domain: argusleader.com
-    quality: 80
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/20/PSIF/c96ac377-3e03-4c86-a475-a751d7dde2e0-Rounds_ChamberOfCommerce_003.JPG?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump-backed governor candidate walks a MAGA tightrope in Virginia"
     excerpt: "The crowd of about 300 Republican stalwarts in Norfolk, Virginia, included those wearing the requisite red baseball caps."
     publishedDateTime: 2021-08-24T08:00:00Z

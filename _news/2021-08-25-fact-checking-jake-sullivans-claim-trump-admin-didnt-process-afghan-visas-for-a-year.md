@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/25/politics/afghan-visas-trump-admin
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/25/politics/afghan-visas-trump-admin-fact-check/index.html"
 type: article
 quality: 167
-heat: 287
+heat: 267
 published: true
 
 provider:
@@ -92,22 +92,6 @@ related:
     quality: 145
     images:
       - url: "https://static01.nyt.com/images/2021/08/21/world/21afghanistan-briefing-troye-trump/21afghanistan-briefing-troye-trump-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "On Afghanistan, G.O.P. Assails the Pullout It Had Supported Under Trump"
-    excerpt: "Eager to denounce President Biden, some Republicans have flip-flopped on bringing U.S. troops home — making it difficult to discern what they actually believe."
-    publishedDateTime: 2021-09-01T17:43:00Z
-    webUrl: "https://www.nytimes.com/2021/09/01/us/politics/republicans-afghanistan-withdrawal-support.html"
-    ampWebUrl: "https://www.nytimes.com/2021/09/01/us/politics/republicans-afghanistan-withdrawal-support.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/09/01/us/politics/republicans-afghanistan-withdrawal-support.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/08/31/us/politics/31GOP-Afghanistan-1/merlin_193632333_b6959d88-e372-410f-b324-f7b17d1c4361-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

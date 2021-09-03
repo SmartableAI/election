@@ -2,6 +2,176 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2021-05-27-republican-governors-face-the-trump-litmus-test-as-elections-approach.md",
+      "title": "Republican governors face the Trump litmus test as elections approach",
+      "excerpt": "Donald Trump is causing a headache for the Republican Governors Association.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xsbnjn3Qoas/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xsbnjn3Qoas/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 610,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/181103123215-02-doug-ducey-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/27/politics/trump-rga-governors/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/trump-rga-governors/index.html",
+      "publishedDateTime": "2021-05-27T09:00:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-china-hits-back-at-wuhan-lab-leak-conspiracy-after-biden-calls-for-covid-probe.md",
+      "title": "China hits back at Wuhan lab leak 'conspiracy' after Biden calls for Covid probe",
+      "excerpt": "Some world leaders and scientists have criticized Beijing for not raising the international alarm quickly enough over the coronavirus outbreak.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/world/china-hits-back-wuhan-lab-leak-conspiracy-after-biden-calls-n1268704",
+      "originalUrl": "https://www.nbcnews.com/news/world/china-hits-back-wuhan-lab-leak-conspiracy-after-biden-calls-n1268704",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_21/3478134/210527-covid-origin-mc-9202.jpg",
+          "width": 2500,
+          "height": 1664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1268704",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268704",
+      "publishedDateTime": "2021-05-27T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-lara-trump-slams-biden-harris-if-the-border-is-closed-then-im-a-sparkly-unicorn.md",
+      "title": "Lara Trump slams Biden, Harris: If the border is closed, then ‘I’m a sparkly unicorn’",
+      "excerpt": "Fox News contributor Lara Trump said on Thursday mocked the Department of Homeland Security for claiming the southern border was closed.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NE82bCJ0myY/lara-trump-border-closed-sparkly-unicorn-biden-mayorkas",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NE82bCJ0myY/lara-trump-border-closed-sparkly-unicorn-biden-mayorkas",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 588,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/lara-trump-border-closed-sparkly-unicorn-biden-mayorkas.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lara-trump-border-closed-sparkly-unicorn-biden-mayorkas.amp",
+      "publishedDateTime": "2021-05-27T08:14:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-fired-conservative-radio-host-ive-lost-everything-for-being-anti-trump.md",
       "title": "Fired conservative radio host: I've lost everything for being anti-Trump",
       "excerpt": "Joe Walsh, a former Republican congressman who primaried Donald Trump in the 2020 election, says he was fired from Conservative radio group GAB Radio Network because he is an outspoken critic of the former President. CNN has reached out to GAB Radio Network for comment and has not heard back.\n    \n",
@@ -1172,167 +1342,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-biden-and-harris-meet-george-floyds-family-on-anniversary-of-his-murder-live.md",
-      "title": "Biden and Harris meet George Floyd’s family on anniversary of his murder – live",
-      "excerpt": "President has private White House meeting with members of Floyd’s family – follow all the day’s politics news live",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live?page=with:block-60ad4c358f08d486a7712e13",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live?page=with:block-60ad4c358f08d486a7712e13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1066,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/95fa8f9894af888284457c15293f5fe0131673b6/0_83_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0811f31c824459870e86ad221ddef118",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live",
-      "publishedDateTime": "2021-05-25T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-ethiopias-amhara-ethnic-group-accuses-biden-of-ignoring-atrocities.md",
-      "title": "Ethiopia’s Amhara ethnic group accuses Biden of ignoring atrocities",
-      "excerpt": "Eskedar Getaneh stepped out of his house on April 12 to screams from surrounding neighbors in the village of Arkumbi Kebele in the Oromo region of ethnically divided Ethiopia.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jRyWHElS3Ys/ethiopias-war-the-administration-will-not-mention",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jRyWHElS3Ys/ethiopias-war-the-administration-will-not-mention",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2019/04/05/720/405/694940094001_6022932602001_6022923598001-vs.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ethiopias-war-the-administration-will-not-mention.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ethiopias-war-the-administration-will-not-mention.amp",
-      "publishedDateTime": "2021-05-25T10:58:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-congress-misses-bidens-police-reform-deadline-but-cory-booker-says-a-lot-of-progress-was-made-over-weekend.md",
-      "title": "Congress misses Biden's police reform deadline, but Cory Booker says \"a lot of progress was made\" over weekend",
-      "excerpt": "\"I think he did a good thing by putting a deadline out there, trying to motivate more momentum, but he understands what's important here is to get a landmark bill done,\" Booker said Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/congress-biden-police-reform-deadline-cory-booker/",
-      "originalUrl": "https://www.cbsnews.com/news/congress-biden-police-reform-deadline-cory-booker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/25/8549c709-b1af-4a06-bf64-b3a5ea189108/thumbnail/1200x630/786ddc6d3000e1ec48f946dcc495ce66/0525-ctm-policereform-booker-722458-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/congress-biden-police-reform-deadline-cory-booker/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/congress-biden-police-reform-deadline-cory-booker/",
-      "publishedDateTime": "2021-05-25T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

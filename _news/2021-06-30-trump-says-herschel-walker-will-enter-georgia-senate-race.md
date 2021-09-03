@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/560788-trump-says-herschel-wal
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/560788-trump-says-herschel-walker-will-enter-georgia-senate-race?amp"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/08/sjm-22-Senate-Georgia_87431450.jpg?w=1024&#038;h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Donald Trump endorses former UGA football player Herschel Walker for Senate"
+    excerpt: "Former President Donald Trump has endorsed University of Georgia football great Herschel Walker for the U.S. Senate."
+    publishedDateTime: 2021-09-03T15:57:00Z
+    webUrl: "https://www.onlineathens.com/story/news/politics/elections/2021/09/03/donald-trump-endorses-herschel-walker-2022-senate-race-raphael-warnock-georgia/5713991001/"
+    ampWebUrl: "https://amp.onlineathens.com/amp/5713991001"
+    cdnAmpWebUrl: "https://amp-onlineathens-com.cdn.ampproject.org/c/s/amp.onlineathens.com/amp/5713991001"
+    type: article
+    provider:
+      name: Athens Banner-Herald
+      domain: onlineathens.com
+    quality: 73
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/7d246e52-b87e-4462-8aee-d925b812bc74-TRUMP_POSITIVE_CORONAVIRUS_04.JPG?auto=webp&crop=5248,2952,x210,y1048&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump Ally Herschel Walker Is Running For U.S. Senate In Georgia"
     excerpt: "The former University of Georgia football standout is well known in his native state, but some national Republicans have been wary of Walker's candidacy."

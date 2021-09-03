@@ -39,22 +39,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "US Sen. Mike Rounds isn't convinced Donald Trump would win GOP nomination in 2024 election"
-    excerpt: "South Dakota U.S. Sen. Mike Rounds, in discussion with Sioux Falls Rotarians, speculated what might lie ahead for the Republican Party for 2024."
-    publishedDateTime: 2021-08-30T19:39:00Z
-    webUrl: "https://www.argusleader.com/story/news/2021/08/30/mike-rounds-2024-election-donald-trump-kristi-noem-republican-nomination-speculation/5653852001/"
-    ampWebUrl: "https://amp.argusleader.com/amp/5653852001"
-    cdnAmpWebUrl: "https://amp-argusleader-com.cdn.ampproject.org/c/s/amp.argusleader.com/amp/5653852001"
-    type: article
-    provider:
-      name: Argus Leader
-      domain: argusleader.com
-    quality: 80
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/20/PSIF/c96ac377-3e03-4c86-a475-a751d7dde2e0-Rounds_ChamberOfCommerce_003.JPG?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump backs Jones in Georgia, renews support for Walker"
     excerpt: "Former President Donald Trump put his thumb on the scale of Georgia Republican politics again Thursday, endorsing state Sen. Burt Jones in the GOP primary for lieutenant governor and reiterating his support for newly declared U."
     publishedDateTime: 2021-09-03T09:32:00Z

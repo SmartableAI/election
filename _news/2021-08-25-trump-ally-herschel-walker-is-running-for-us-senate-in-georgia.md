@@ -121,6 +121,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Donald Trump endorses former UGA football player Herschel Walker for Senate"
+    excerpt: "Former President Donald Trump has endorsed University of Georgia football great Herschel Walker for the U.S. Senate."
+    publishedDateTime: 2021-09-03T15:57:00Z
+    webUrl: "https://www.onlineathens.com/story/news/politics/elections/2021/09/03/donald-trump-endorses-herschel-walker-2022-senate-race-raphael-warnock-georgia/5713991001/"
+    ampWebUrl: "https://amp.onlineathens.com/amp/5713991001"
+    cdnAmpWebUrl: "https://amp-onlineathens-com.cdn.ampproject.org/c/s/amp.onlineathens.com/amp/5713991001"
+    type: article
+    provider:
+      name: Athens Banner-Herald
+      domain: onlineathens.com
+    quality: 73
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/7d246e52-b87e-4462-8aee-d925b812bc74-TRUMP_POSITIVE_CORONAVIRUS_04.JPG?auto=webp&crop=5248,2952,x210,y1048&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump-backed Herschel Walker seeks Georgia Senate seat"
     excerpt: "In this May 29, 2018, file photo, President Donald Trump, left, and his daughter Ivanka Trump, right, watch as former football player Herschel Walker,"
     publishedDateTime: 2021-08-25T12:50:00Z

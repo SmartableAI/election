@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-03-kamala-harris-early-years-at-school-through-the-other-girl-on-the-bus.md",
+      "title": "Kamala Harris’ Early Years At School Through ‘The Other Girl on The Bus’",
+      "excerpt": "Carole Porter, a childhood friend of US VP Kamala Harris, talks about her memories of being bussed to school. Carole Porter lived in a little yellow house, a few doors from Kamala Harris who lived in a duplex on Bancroft street,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thequint.com/us-nri-news/kamala-harris-bussed-to-school-memories-childhood-friend-carole-porter-interview",
+      "originalUrl": "https://www.thequint.com/us-nri-news/kamala-harris-bussed-to-school-memories-childhood-friend-carole-porter-interview",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thequint.com/thequint%2F2021-09%2F903e773a-9a8d-4c07-b285-16608faa1cdf%2F16.jpeg",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thequint.com/amp/story/us-nri-news/kamala-harris-bussed-to-school-memories-childhood-friend-carole-porter-interview",
+      "cdnAmpWebUrl": "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/us-nri-news/kamala-harris-bussed-to-school-memories-childhood-friend-carole-porter-interview",
+      "publishedDateTime": "2021-09-03T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Quint",
+        "domain": "thequint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-09-02-will-cain-kamala-harris-used-on-biden-ticket-been-mia-ever-since.md",
       "title": "Will Cain: Kamala Harris ‘used’ on Biden ticket, been MIA ever since",
       "excerpt": "\"The Five\" speculates about Kamala Harris' whereabouts, with co-host Will Cain predicting she will re-emerge from hiding when she's ready to face the fact that she was used for votes.",
@@ -67,7 +110,7 @@
       "originalUrl": "https://www.newsweek.com/lauren-boebert-remove-impeach-president-biden-harris-pelosi-afghanistan-1624896",
       "featuredContent": null,
       "highlight": null,
-      "heat": 600,
+      "heat": 640,
       "tags": null,
       "images": [
         {
@@ -1562,58 +1605,6 @@
         "Election",
         "Kamala Harris",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-10-things-in-politics-kamala-harris-toxic-work-culture.md",
-      "title": "10 Things in Politics: Kamala Harris' toxic work culture",
-      "excerpt": "And Republicans are getting antsy about infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/10-things-in-politics-kamala-harris-office-culture",
-      "originalUrl": "https://www.businessinsider.com/10-things-in-politics-kamala-harris-office-culture",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 565,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/605c34990d155e0019ef69ef?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/10-things-in-politics-kamala-harris-office-culture?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-kamala-harris-office-culture?amp",
-      "publishedDateTime": "2021-07-15T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

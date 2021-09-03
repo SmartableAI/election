@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biden launches federal effort to respond to Texas law as he faces pressure to protect abortion"
-    excerpt: "A new Texas law that effectively bans most abortions prompted President Joe Biden on Wednesday to use a word he'd entirely avoided as president: \"Abortion.\"\n    \n"
-    publishedDateTime: 2021-09-02T15:45:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WgIyzE4aEY8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/02/politics/biden-abortion/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/02/politics/biden-abortion/index.html"
+  - title: "Biden says Texas' anti-abortion law is 'almost un-American' and 'sort of creates a vigilante system'"
+    excerpt: "President Joe Biden said Friday the Texas state law that bans abortion after as early as six weeks into pregnancy is \"almost un-American,\" pointing specifically to a provision allowing individuals to take civil action against people who help a woman get an abortion.\n    \n"
+    publishedDateTime: 2021-09-03T16:01:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Mmetq79NlnI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/03/politics/biden-texas-abortion-law/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/03/politics/biden-texas-abortion-law/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 163
+    quality: 160
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210831155412-04-biden-afghanistan-presser-0831-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210831154223-02-biden-afghanistan-presser-0831-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

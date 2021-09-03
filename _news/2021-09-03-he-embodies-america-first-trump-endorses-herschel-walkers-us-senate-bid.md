@@ -2,19 +2,19 @@
 category: news
 title: "‘He embodies America First.’ Trump endorses Herschel Walker’s U.S. Senate bid"
 excerpt: "Herschel Walker will never let you down. He was a great football player and will be an even better U.S. Senator — if that is even possible,” Trump said."
-publishedDateTime: 2021-09-02T23:35:00Z
-originalUrl: "https://www.ledger-enquirer.com/news/state/georgia/article253962443.html"
-webUrl: "https://www.ledger-enquirer.com/news/state/georgia/article253962443.html"
-ampWebUrl: "https://amp.ledger-enquirer.com/news/state/georgia/article253962443.html"
-cdnAmpWebUrl: "https://amp-ledger--enquirer-com.cdn.ampproject.org/c/s/amp.ledger-enquirer.com/news/state/georgia/article253962443.html"
+publishedDateTime: 2021-09-03T12:53:00Z
+originalUrl: "https://www.newsobserver.com/news/politics-government/national-politics/article253962443.html"
+webUrl: "https://www.newsobserver.com/news/politics-government/national-politics/article253962443.html"
+ampWebUrl: "https://amp.newsobserver.com/news/politics-government/national-politics/article253962443.html"
+cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/national-politics/article253962443.html"
 type: article
 quality: 72
 heat: 72
 published: true
 
 provider:
-  name: Ledger-Enquirer
-  domain: ledger-enquirer.com
+  name: Raleigh News & Observer
+  domain: newsobserver.com
 
 topics:
   - Election
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "FFOb1tyqmmNrGV1HI8036xq8pU6tGP/NYWcYOeJVL7Hud9E2d8lqYTqw4gEC8O4GXmvk6c9Ll31vob6omBfRZqmz2NkyOsG3oMM3w67IDXJ08OI4vIxnPVTNHCsbm/oei8sj1pGWWjTYORq+mIE8n4ScWsz+UCavdXqWs1aaNw0c+ST9g0HSBGT7r2DeuMfMcrJlyGhlUNvtfeiaXvQw26v0jRp77+kOS+9SzQsdsoBc694iBmCx5622R7kPcO4QUT5n9VqTVOqr3UYWgWRLw5AC+QFZGUqF6RAOQvwvOsc3uLMQnn0P/KaILLEuMMkR2EyqvhTSDmR6XuEl+NreLKIpOscHwjzxT0b5kk9HWYbVEVTtztYbrwkO1d1c0OB1O0h4wcjL3AdrVoY60legk38kfS6PPhbp5uQO1LxDJXAnfVmT/x88/eE4sHtAoe8dKTBiJ9mj2U1e62bf7pA5MPQyUld9xnmFifILlBNptoeoiD0q/5w6VHwy4I7MA1OAGjS6iaI463G5rkMVySmmGA==;pDu/g8DPMEPQq7TWbvUWjA=="
+secured: "uHTkPGXX967FDpNSwEM3r9ZSL1arzq9ZEpX8d64dJbbTXnapagBPPdCTPYjCiFhROahPv/m/Y/0mRmM88zTQBNcm2Jmg52EE/qkmyu7heyfq2D5x05N1czf6u0tdLcfS2+GkLoLDRLzY3yAKjnEBBgD5klyVZc/4GT5kzb9Wsz7BjmXp1/3EjjAhPxzuKphehM9LaXrqzuozsIPKzatPyyQEekxNSYGWI7nvdcj5oZOHvqjLHqhH8ykyTiRaM4e4r6H3PNxUe8PTH5OMDN37xgy6x0Ji8BkWiiU88sDDBOPk8L7uAobKx79He+/efhxFIf5CVOFUNH7o+1pSMLfA+kOKPK1T4FZgHFJNdETV3STgsPs390qP23kg+Z7rkYrJgDYMQ0d4HqzFgj50nTA01lPKYYz2omxYUyWWJRyIgbdwxbJJHWRbONgx6mdIv71mA1YHwl/Go41gla0sT3p4Ggz7EUshpKIjBjX/Qamhn2F9n2kHa1TTY/gI+Kpl9wt9+DmfzuHRvYX1uiC4t6iYxA==;LLw+MPNXS8lh5SKhX7kO8w=="
 ---
 

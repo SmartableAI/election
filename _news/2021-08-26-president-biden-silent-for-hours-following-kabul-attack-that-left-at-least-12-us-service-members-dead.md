@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Rep. Banks jabs Biden with hallway poster of president checking watch"
+    excerpt: "Rep. Jim Banks, R-Ind., on Thursday sent \"a message\" to House Speaker Nancy Pelosi and President Biden with a new poster outside his office."
+    publishedDateTime: 2021-09-03T17:48:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MMIt_dkBoD4/jim-banks-biden-poster-watch"
+    ampWebUrl: "https://www.foxnews.com/politics/jim-banks-biden-poster-watch.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jim-banks-biden-poster-watch.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf417f02-5211-4c3e-907d-6e99a4bd71bf/c14ce227-ddd6-449b-9801-008f1886ccc6/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Israel PM Naftali Bennett arrives in Washington, will meet with Biden on Iran"
     excerpt: "Israeli Prime Minister Naftali Bennett arrived in Washington, D.C. on Tuesday night for his first diplomatic visit overseas since taking office."
     publishedDateTime: 2021-08-25T05:29:03Z

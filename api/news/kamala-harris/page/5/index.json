@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-04-02-washington-moves-of-the-week-a-top-trump-white-house-staffer-lands-a-tv-gig-and-a-former-kamala-harris-aide-heads-to-a-lobbying-firm.md",
+      "title": "Washington moves of the week: A top Trump White House staffer lands a TV gig and a former Kamala Harris aide heads to a lobbying firm",
+      "excerpt": "Advocacy groups and lobbying firms are also hiring new talent, including a former policy adviser to then-Sen. Kamala Harris, to help shape policies in Washington. Here's Insider's rundown of the biggest staff moves for the week of March 29. Capitol Hill ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/heres-who-got-hired-in-washington-this-week-kayleigh-mcenany-2021-4",
+      "originalUrl": "https://www.businessinsider.com/heres-who-got-hired-in-washington-this-week-kayleigh-mcenany-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6025a9632edd0f001a8d564e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-02T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-04-02-kamala-harris-and-doug-emhoff-to-move-into-vice-presidents-residence-after-two-month-delay.md",
       "title": "Kamala Harris and Doug Emhoff to move into vice president's residence after two-month delay",
       "excerpt": "Vice President Kamala Harris is finally moving into the Naval Observatory next week according to chief spokesperson Symone Sanders, over two months after Inauguration Day. Harris and her husband, second gentleman Doug Emhoff, couldn't immediately settle in ...",
