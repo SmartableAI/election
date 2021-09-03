@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Biden helps secure Tajikistan’s border amid US border crisis"
-excerpt: "The United States is helping Tajikistan secure a portion of its border with Afghanistan to help combat security threats in the region, despite the ongoing crisis at the U.S. border."
-publishedDateTime: 2021-09-02T15:49:14Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GCeTB-W6StQ/biden-secure-tajikistans-border-us-crisis"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GCeTB-W6StQ/biden-secure-tajikistans-border-us-crisis"
-ampWebUrl: "https://www.foxnews.com/politics/biden-secure-tajikistans-border-us-crisis.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-secure-tajikistans-border-us-crisis.amp"
+title: "Tree of Life synagogue disputes Biden’s claim he visited after massacre"
+excerpt: "President Biden on Thursday told Jewish leaders that he spent time at the Tree of Life synagogue in Pittsburgh after the October 2018 mass murder of 11 people there — but the synagogue told The Post he never visited."
+publishedDateTime: 2021-09-02T22:53:16Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GyQdH_qPfeU/tree-life-synagogue-disputes-biden-claim-visited-massacre"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GyQdH_qPfeU/tree-life-synagogue-disputes-biden-claim-visited-massacre"
+ampWebUrl: "https://www.foxnews.com/politics/tree-life-synagogue-disputes-biden-claim-visited-massacre.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tree-life-synagogue-disputes-biden-claim-visited-massacre.amp"
 type: article
 quality: 175
-heat: 315
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -25,12 +25,28 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2dd2cd3e-37db-4527-a410-18c2cb90ae1e/c5e78bb9-d1d4-4a01-9c74-4ef1265d20f0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/70d520f6-d90f-4c78-bf7e-a986d48d2e66/672e92a1-0051-4da4-b1fb-8341449bb749/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
 
 related:
+  - title: "Biden helps secure Tajikistan’s border amid US border crisis"
+    excerpt: "The United States is helping Tajikistan secure a portion of its border with Afghanistan to help combat security threats in the region, despite the ongoing crisis at the U.S. border."
+    publishedDateTime: 2021-09-02T15:49:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GCeTB-W6StQ/biden-secure-tajikistans-border-us-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-secure-tajikistans-border-us-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-secure-tajikistans-border-us-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2dd2cd3e-37db-4527-a410-18c2cb90ae1e/c5e78bb9-d1d4-4a01-9c74-4ef1265d20f0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden’s numbers plunging in wake of Afghanistan turbulent exit"
     excerpt: "Amid the tumultuous and chaotic withdrawal of U.S. forces and personnel from Afghanistan over the past couple of weeks, there’s no letup in the slide of President Biden’s approval ratings."
     publishedDateTime: 2021-09-02T19:19:17Z
@@ -46,22 +62,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Tree of Life synagogue disputes Biden’s claim he visited after massacre"
-    excerpt: "President Biden on Thursday told Jewish leaders that he spent time at the Tree of Life synagogue in Pittsburgh after the October 2018 mass murder of 11 people there — but the synagogue told The Post he never visited."
-    publishedDateTime: 2021-09-02T22:53:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GyQdH_qPfeU/tree-life-synagogue-disputes-biden-claim-visited-massacre"
-    ampWebUrl: "https://www.foxnews.com/politics/tree-life-synagogue-disputes-biden-claim-visited-massacre.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tree-life-synagogue-disputes-biden-claim-visited-massacre.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/70d520f6-d90f-4c78-bf7e-a986d48d2e66/672e92a1-0051-4da4-b1fb-8341449bb749/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
         isCached: true
   - title: "Cruz, Roy slam Biden admin over 'man-made' border crisis as fentanyl deaths skyrocket"
     excerpt: "The Republican lawmakers are traveling around Texas to learn more from local officials and stakeholders about how the border crisis is affecting them."
@@ -144,6 +144,6 @@ related:
         height: 340
         isCached: true
 
-secured: "+//UudgjB1ioJESrfVuXigIXpnKeZWe/5iM20Ko/H10bnknu8d5GJbjCk2C8Av4SqJGGC0dMv5+CDcnUORFQh0ZPlLbcme/ZlvpSHa5xKDjYUhl4JFAP1tiGCvyre6fjc4IEtCGXFRhqQZOE3mosLR4O5J3r1+U8EZJWxRNXesH4gl7oQqfslg1ozy+RQeO/3HjtCwpuU8VxO7gIyukfW24qqSY46t1gwSiPyX1DMMQ6FruKUSCblOT/ZRHUItN13sZ0OVDHO1Egc/+9Fa9l05eEtC+8+7FecsqbztqbxcXWz+2ryRAi/qCdMfffaEwERyeA6GX9PlZi2o9NmKS7PC7kgXuCOFDPDiV1HD5l3ZA=;o3ncSXLrZs6ezpeCSk542w=="
+secured: "RWIA1Ye7+N21LdHK8RkOttQ+w0EMsAGpVheQdw5myaazzlU7f4fl5dbPIeTleWY631yURFpeLMZ5pV2H1formgMwWKHcSZPoF54NYSLRuU5LpS5CT7L1KrUfmf08v1CPmKdmGdYGAB8vyzHumVuNSKyhQmLjxfTxe4YfNA0Bpv1unvh1QRbeAvUk9uw0CHpvlh4lTe9+gvdvrBER3hGGwf0xKVMDrIspBUEGWWFUXnUQY+CXLfo1Icff2PLohqW1bVgaLnLnFHSkHJzuicDjUYxhjMWCPVoUpW8FI34j4cmrxdKgz0u+7NR+yh0iUdGrsXExMeNktLDxsx2GK6wpEnFJNKkzdyky6/WD6BvKULQ=;qm9J5vnwat7Ayaoku57xeg=="
 ---
 

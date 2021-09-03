@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Tree of Life synagogue disputes Biden’s claim he visited after massacre"
+    excerpt: "President Biden on Thursday told Jewish leaders that he spent time at the Tree of Life synagogue in Pittsburgh after the October 2018 mass murder of 11 people there — but the synagogue told The Post he never visited."
+    publishedDateTime: 2021-09-02T22:53:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GyQdH_qPfeU/tree-life-synagogue-disputes-biden-claim-visited-massacre"
+    ampWebUrl: "https://www.foxnews.com/politics/tree-life-synagogue-disputes-biden-claim-visited-massacre.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tree-life-synagogue-disputes-biden-claim-visited-massacre.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/70d520f6-d90f-4c78-bf7e-a986d48d2e66/672e92a1-0051-4da4-b1fb-8341449bb749/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Cruz, Roy slam Biden admin over 'man-made' border crisis as fentanyl deaths skyrocket"
     excerpt: "The Republican lawmakers are traveling around Texas to learn more from local officials and stakeholders about how the border crisis is affecting them."
     publishedDateTime: 2021-08-31T20:59:01Z
@@ -94,6 +110,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/91a3f10b-bff5-465f-a844-451711ab4733/62e9238a-e41c-4459-90cc-148130ded048/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Border agents slam Biden for securing Tajikistan's border while US border in crisis: 'Slap in the face'"
+    excerpt: "President Biden's decision to help secure Tajikistan's border with Afghanistan has infuriated those on the front lines of the U.S. border crisis, who say that America's own southern border still isn't secure."
+    publishedDateTime: 2021-09-02T23:01:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jDWBWs76F3I/border-agents-slam-biden-tajikistan-border-us-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/border-agents-slam-biden-tajikistan-border-us-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-agents-slam-biden-tajikistan-border-us-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/340/340/Bill-Melugin.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden repeatedly implies he’s not in charge of when, where he can take questions from the press"
     excerpt: "President Joe Biden has repeatedly implied that his handlers set the rules and determine when and where he’s allowed to take questions from the press, leading observers to ponder who is actually calling the shots behind the scenes."

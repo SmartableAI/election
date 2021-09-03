@@ -1,26 +1,30 @@
 ---
 category: news
-title: "U.S. President Biden Calls Evacuation From Afghanistan an Extraordinary Success"
-excerpt: "President Joe Biden on Tuesday called the evacuation from Afghanistan an extraordinary success in his first public remarks since the United States withdrew its military from the country on Monday, ending a 20-year war."
-publishedDateTime: 2021-08-31T19:40:00Z
-originalUrl: "https://www.usnews.com/news/world/articles/2021-08-31/us-president-biden-calls-evacuation-from-afghanistan-an-extraordinary-success"
-webUrl: "https://www.usnews.com/news/world/articles/2021-08-31/us-president-biden-calls-evacuation-from-afghanistan-an-extraordinary-success"
+title: "Afghanistan crisis: How Europe soured on Joe Biden"
+excerpt: "But in capitals across Europe, from London to Berlin, Afghanistan has soured the sweetness of Joe Biden's honeymoon. It's not the fact of the withdrawal itself that has rankled bu"
+publishedDateTime: 2021-09-02T23:05:00Z
+originalUrl: "https://www.bbc.co.uk/news/world-europe-58416848?at_medium=RSS&at_campaign=KARANGA"
+webUrl: "https://www.bbc.co.uk/news/world-europe-58416848?at_medium=RSS&at_campaign=KARANGA"
+ampWebUrl: "https://www.bbc.co.uk/news/world-europe-58416848.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-europe-58416848.amp"
 type: article
-quality: 31
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: BBC
+  domain: bbc.co.uk
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/885B/production/_120370943_gettyimages-1233447987.jpg"
+    width: 1024
+    height: 576
+    isCached: true
 
 related:
   - title: "Biden to pull U.S. troops from Afghanistan by Sept. 11, sources say"
@@ -1089,22 +1093,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Afghanistan crisis: How Europe soured on Joe Biden"
-    excerpt: "But in capitals across Europe, from London to Berlin, Afghanistan has soured the sweetness of Joe Biden's honeymoon. It's not the fact of the withdrawal itself that has rankled bu"
-    publishedDateTime: 2021-09-02T23:05:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-europe-58416848?at_medium=RSS&at_campaign=KARANGA"
-    ampWebUrl: "https://www.bbc.co.uk/news/world-europe-58416848.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-europe-58416848.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 75
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/885B/production/_120370943_gettyimages-1233447987.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Joe Biden’s Tale of Russian Bounties in Afghanistan Collapses Completely"
     excerpt: "Biden and the Democrats knew the Russian bounties story was likely fake news, a hoax, a scam, whatever else you want to call it. But they didn’t care."
     publishedDateTime: 2021-04-15T17:46:00Z
@@ -1863,6 +1851,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 33
+  - title: "U.S. President Biden Calls Evacuation From Afghanistan an Extraordinary Success"
+    excerpt: "President Joe Biden on Tuesday called the evacuation from Afghanistan an extraordinary success in his first public remarks since the United States withdrew its military from the country on Monday, ending a 20-year war."
+    publishedDateTime: 2021-08-31T19:40:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-08-31/us-president-biden-calls-evacuation-from-afghanistan-an-extraordinary-success"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 31
   - title: "U.S. Adviser Sullivan Says Has Not Heard Biden Discuss Any Firings Over Afghanistan"
     excerpt: "U.S. President Joe Biden's national security adviser on Monday said he had not heard the president discuss any plans to fire, reassign or ask for the resignation of any White House or U.S. officials over the situation in Afghanistan."
     publishedDateTime: 2021-08-23T19:38:00Z
@@ -1873,6 +1870,6 @@ related:
       domain: usnews.com
     quality: 29
 
-secured: "C6DRKTtaxnyc3knAMKBeerXGIGV6LBHoY08dl01Qj8ooDRPoW0vtnIliP/4/FL7aJzRFaJOyaD71uGn07pe9lx7JX0akCTh9JLs6K3m/xf/iazbqUhlKK8jsrRWZiqWxvQnFEr7bOc1mvthdh3yIxADapt9jk0o55+GSCfRAUxulVnUs3Xc5htgskOgHTLuhMk5FC9WV3Aj2q21OBvGeoMgclBCqvQccMOdEDkB8MjXrsJ//zDNjpuKBvULXnpT7sj/KPjAhr/DzDRQX312nPJ7frRGxzhoobqnsjixD4UUXSK+/RcH2naoss3yeJYrA264BfT06EEKXZ+vsOEfS20yyIUPKypaUoxlof55ZPM+imHqqrl2eyeqVY9nePuGQM0MMgW7PddlbLYoHUoIocwaAu+Nv0xddoYdsbw9MMpi48TVs4c5Jj7b/jtn9wJzdatVodpdO0gHL4CaFM4OFmUm8SX23ctKdC2r8IabBDOu1u59g6Ah0uI0XgSZsdGz7wbcIyvmCmYf91/F5vNn2NQ==;EsceSxixY1z/FMkCixBt3g=="
+secured: "vgHpa87Bsxnd/PmmQc/Fs1u3FQ+idA4BlYPCwwQP2AaV+XE35SnMqB7r/ajKZ5OldGp5l+C+JkONxls/Tf2lyvgC3kAWOMz/WQRkSUT09uroEBnWjlnXZwhE8rLhDVLDdgcs/5nAzs6vwDFkqGi+ZpEpT9OA4WWdVsMe5xtFkiTAVlEMvROqvf3AMQTohO+eggDS/4ums70F5FZwAcgYi58oRiqSw4Lbwa02ESoy1nUUPhbocbgF0WHjl/SFAm5uyNTXHgGDLY5vG+rDmRGA3oZRvUgCxYJbP83thPkxN2ktmu/lQtbDQ4P3H/VsVRYQ+IOEnVAgIMCBqvlCNinUzAGFIRxBCchEQsl12zLn2lg=;hkGaCXmyQ2ciqdHB/bl7iw=="
 ---
 

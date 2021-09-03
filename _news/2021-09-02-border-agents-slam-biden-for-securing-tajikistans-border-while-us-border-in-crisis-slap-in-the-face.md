@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Biden helps secure Tajikistan’s border amid US border crisis"
-excerpt: "The United States is helping Tajikistan secure a portion of its border with Afghanistan to help combat security threats in the region, despite the ongoing crisis at the U.S. border."
-publishedDateTime: 2021-09-02T15:49:14Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GCeTB-W6StQ/biden-secure-tajikistans-border-us-crisis"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GCeTB-W6StQ/biden-secure-tajikistans-border-us-crisis"
-ampWebUrl: "https://www.foxnews.com/politics/biden-secure-tajikistans-border-us-crisis.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-secure-tajikistans-border-us-crisis.amp"
+title: "Border agents slam Biden for securing Tajikistan's border while US border in crisis: 'Slap in the face'"
+excerpt: "President Biden's decision to help secure Tajikistan's border with Afghanistan has infuriated those on the front lines of the U.S. border crisis, who say that America's own southern border still isn't secure."
+publishedDateTime: 2021-09-02T23:01:22Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jDWBWs76F3I/border-agents-slam-biden-tajikistan-border-us-crisis"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jDWBWs76F3I/border-agents-slam-biden-tajikistan-border-us-crisis"
+ampWebUrl: "https://www.foxnews.com/politics/border-agents-slam-biden-tajikistan-border-us-crisis.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-agents-slam-biden-tajikistan-border-us-crisis.amp"
 type: article
-quality: 175
-heat: 315
-published: true
+quality: 159
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -25,12 +25,28 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2dd2cd3e-37db-4527-a410-18c2cb90ae1e/c5e78bb9-d1d4-4a01-9c74-4ef1265d20f0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/340/340/Bill-Melugin.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
+  - title: "Biden helps secure Tajikistan’s border amid US border crisis"
+    excerpt: "The United States is helping Tajikistan secure a portion of its border with Afghanistan to help combat security threats in the region, despite the ongoing crisis at the U.S. border."
+    publishedDateTime: 2021-09-02T15:49:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GCeTB-W6StQ/biden-secure-tajikistans-border-us-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-secure-tajikistans-border-us-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-secure-tajikistans-border-us-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2dd2cd3e-37db-4527-a410-18c2cb90ae1e/c5e78bb9-d1d4-4a01-9c74-4ef1265d20f0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden’s numbers plunging in wake of Afghanistan turbulent exit"
     excerpt: "Amid the tumultuous and chaotic withdrawal of U.S. forces and personnel from Afghanistan over the past couple of weeks, there’s no letup in the slide of President Biden’s approval ratings."
     publishedDateTime: 2021-09-02T19:19:17Z
@@ -111,22 +127,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Border agents slam Biden for securing Tajikistan's border while US border in crisis: 'Slap in the face'"
-    excerpt: "President Biden's decision to help secure Tajikistan's border with Afghanistan has infuriated those on the front lines of the U.S. border crisis, who say that America's own southern border still isn't secure."
-    publishedDateTime: 2021-09-02T23:01:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jDWBWs76F3I/border-agents-slam-biden-tajikistan-border-us-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/border-agents-slam-biden-tajikistan-border-us-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-agents-slam-biden-tajikistan-border-us-crisis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 159
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/340/340/Bill-Melugin.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden repeatedly implies he’s not in charge of when, where he can take questions from the press"
     excerpt: "President Joe Biden has repeatedly implied that his handlers set the rules and determine when and where he’s allowed to take questions from the press, leading observers to ponder who is actually calling the shots behind the scenes."
     publishedDateTime: 2021-08-30T14:17:00Z
@@ -144,6 +144,6 @@ related:
         height: 340
         isCached: true
 
-secured: "+//UudgjB1ioJESrfVuXigIXpnKeZWe/5iM20Ko/H10bnknu8d5GJbjCk2C8Av4SqJGGC0dMv5+CDcnUORFQh0ZPlLbcme/ZlvpSHa5xKDjYUhl4JFAP1tiGCvyre6fjc4IEtCGXFRhqQZOE3mosLR4O5J3r1+U8EZJWxRNXesH4gl7oQqfslg1ozy+RQeO/3HjtCwpuU8VxO7gIyukfW24qqSY46t1gwSiPyX1DMMQ6FruKUSCblOT/ZRHUItN13sZ0OVDHO1Egc/+9Fa9l05eEtC+8+7FecsqbztqbxcXWz+2ryRAi/qCdMfffaEwERyeA6GX9PlZi2o9NmKS7PC7kgXuCOFDPDiV1HD5l3ZA=;o3ncSXLrZs6ezpeCSk542w=="
+secured: "hoIVUcEdZtXy2s4vRP/dai5EVohVd8iRQhYRR9oBc75SDe3CycSghUgXebnd8RsKXanl5w4174yd6ZXRz66WGOqSB4+SiqPUI2AjMCcvWm4ghWQJ+kM/BBqDMWpdJ0ylgCt4lNffMk+HMnZyp0PtTvIus/oGwhr1nXEQUHXE6d/H9oigI8D/Z0sU29m7p4Y8S8sZ7qGguOqfZ3GOLcCwYWAOIMI6HdtfAimfHsIlfWjt8Xby5LnxZRMEWzfynn630C3ADy7NnN6aUUEvhmCDgZA1pTRWsL5ePP7j72XHlS3CQKx3WoArE5lY8Lx8y6dX/9CmaXTN+GqtVUKd4LpcM/WswN2QRUZQdTWXIVRHx4g=;PbytM1I7ZetUAiiYoyKQAg=="
 ---
 
