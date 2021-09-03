@@ -225,6 +225,20 @@ related:
         width: 650
         height: 434
         isCached: true
+  - title: "President Joe Biden visits Louisiana"
+    excerpt: "President Joe Biden toured storm damaged River parishes and Bayou communities as state officials delivered extensive wish lists of needs."
+    publishedDateTime: 2021-09-03T19:15:00Z
+    webUrl: "https://www.theadvocate.com/baton_rouge/news/politics/article_073b18c6-0cee-11ec-93b6-971f22cafcc9.html"
+    type: article
+    provider:
+      name: The Advocate
+      domain: theadvocate.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/0/74/0745e79b-9030-5e37-bedb-291f97b73eca/61325a864d157.image.jpg?resize=1103%2C630"
+        width: 1103
+        height: 630
+        isCached: true
   - title: "Biden to survey Ida’s storm damage in Louisiana on Friday"
     excerpt: "President Joe Biden will visit Louisiana on Friday to survey the aftermath of Hurricane Ida and speak with local and state leaders"
     publishedDateTime: 2021-09-02T07:48:00Z

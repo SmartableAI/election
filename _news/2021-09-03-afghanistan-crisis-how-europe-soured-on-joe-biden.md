@@ -3,8 +3,8 @@ category: news
 title: "Afghanistan crisis: How Europe soured on Joe Biden"
 excerpt: "But in capitals across Europe, from London to Berlin, Afghanistan has soured the sweetness of Joe Biden's honeymoon. It's not the fact of the withdrawal itself that has rankled bu"
 publishedDateTime: 2021-09-02T23:05:00Z
-originalUrl: "https://www.bbc.co.uk/news/world-europe-58416848?at_medium=RSS&at_campaign=KARANGA"
-webUrl: "https://www.bbc.co.uk/news/world-europe-58416848?at_medium=RSS&at_campaign=KARANGA"
+originalUrl: "https://www.bbc.co.uk/news/world-europe-58416848?at_medium=RSS&amp%3Bat_campaign=KARANGA"
+webUrl: "https://www.bbc.co.uk/news/world-europe-58416848?at_medium=RSS&amp%3Bat_campaign=KARANGA"
 ampWebUrl: "https://www.bbc.co.uk/news/world-europe-58416848.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-europe-58416848.amp"
 type: article
@@ -1870,6 +1870,6 @@ related:
       domain: usnews.com
     quality: 29
 
-secured: "6ACLBxu0+D+MHJzGSmcqoGrzW1mIpszNG/f/8pCEIBI9lN5HOKWarX/MDIdF+1R0krXaDu3Mgpwwc4kii62xfvTRYG1kXfGN1+Zz9DlkEZ8sIE3njVydR5CO/QQRM0PGPcG2uSw/J9bTyg++aHp5XoZrVh2p1SFxWNDFjSy1EoLB4uz/NPJHKBGg8LGcbbbPPCKLVXb5ju+uNSEirmCRuLd5Lx/G+vy1XHqkg2tE08HNK6RoBY+kXjBjIJ2bt5kRNfxudc4RFi/wGMAwdPwu6YQykbpCaAoA/vYVxrmdnHT3JKuzoY4bbJO7tewXNaBX4XSP55s/nhNxy3UNEPE6ux99qxRbHrja8lxdQTVpCkSnuvo9bCuNXShnNKAH4BL3H+QRA4YLqDfYtnHCKOEbeSBLR3WgJF4rjy0qZQmgmiwuI0MHWgtU73ESXvVG0CCADNAFFiYWneUzbCTobgvX2r+rBnL9tBofdXVHvLayTnytrDqe1MfE9YfLU1JM9lywfwCwA2ZmnVt6M3I/mA1VNw==;6nlQZyQ1KWilGgFYeD/fSA=="
+secured: "oM6NsXsQGB61ubUJa9R/DwnGGITsCwrelHzXfyaln3esG0OwAmcM0eL89UtHi3ZClldvnzjPrraw1wH824Gj9UtGRX2EFhmxsxIwwJwFfSnT+cI89rLCk03slI/JXS1Sk9F2JkMowU9jzhw6uuILWfOqhKgwW6+raiyaCFkw6ymubTuGJgV1DobDAjbhnOeCtdGD6W4+jYvP4waQGJbj0y9LC9iZnuEiKsIRduw6wC1Cj4fmVYu2eJFELwZLDtx8gW25Pw+24KKowgCjuPDdUCQ9YVqnOgRbWKvYHcGRL7OeysjIsMQ7GDZZdmNl40GE+dMSrdn229GlodG8ozPa9ATtUe+2Z/Ii3zx0alSKIEI=;wYougHrbuVSO1RRPal4QXw=="
 ---
 

@@ -161,6 +161,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Trump endorses Herschel Walker, Burt Jones"
+    excerpt: "Former President Donald Trump has endorsed University of Georgia football great Herschel Walker for the U.S. Senate and state Sen. Burt Jones for lieutenant governor. Trump’s friendship with"
+    publishedDateTime: 2021-09-03T20:51:00Z
+    webUrl: "https://www.mdjonline.com/state/trump-endorses-herschel-walker-burt-jones/article_eeb7b730-87d8-5154-bd21-179c7cb781e0.html"
+    type: article
+    provider:
+      name: Marietta Daily Journal
+      domain: mdjonline.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/mdjonline.com/content/tncms/assets/v3/editorial/e/a5/ea5a4ac6-f927-11eb-bcb7-0f573e901068/61114c138f410.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
+        isCached: true
   - title: "Former NFL player Walker, supported by Trump, jumps into the Georgia Senate race"
     excerpt: "Former football running back Herschel Walker has filed paperwork to run for a Georgia Senate seat, challenging freshman Sen. Raphael Warnock, a Democrat, with the backing of former president Donald"
     publishedDateTime: 2021-08-25T03:30:00Z

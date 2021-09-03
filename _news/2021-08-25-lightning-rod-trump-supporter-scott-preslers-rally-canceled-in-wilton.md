@@ -57,6 +57,20 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Trump's backing lands early in wide-open US Senate race"
+    excerpt: "The most sought after endorsement in Pennsylvania's wide-open Republican primary for U.S. Senate went early to Sean Parnell, but the backing of former President Donald Trump"
+    publishedDateTime: 2021-09-03T20:44:00Z
+    webUrl: "https://www.bgdailynews.com/news/politics/trumps-backing-lands-early-in-wide-open-us-senate-race/article_b60a9061-2881-5d61-aab0-44be16aa18ad.html"
+    type: article
+    provider:
+      name: Bowling Green Daily News
+      domain: bgdailynews.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bgdailynews.com/content/tncms/custom/image/5f9f4c50-c126-11e4-999e-83ffe8e0c765.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "TsKy1pmZByFxQLkRAea8NA51n/fX35oNtGcA/HssaSyKR/jovvJZ+ofiL5iqADcJtCBrREt5AukZW+Rn+qdLNTL3uSygFi5zFANc8Ms+avJ8aRR2VWGGunY7bsXEsRhL1StNwozAhjhYW/OJmbZlUWm6CPZN9t0i8pps/NhF5urKOtLj/wUTdNRolPtZzIVZ0pdgCV5QvO5zrxOJkftCSTCuhV7UcRCSE9IgwsvSZCeJpsu4uRdCDS6qoJ4Z17FcGEOEyJTjngr2AQ46ADPBopy7ToCV9F10k95DDtekQPWjGKiLfq3tazUQbws/0QbGs5SVRZDTJSin8eFuAYxc6JcxQKC3OWERur6P28opvkIYWPsU8pr6bBWsGsTDMYWycJ60wZybwbUHbgaeonyS9rBiu06AsgKOkaMbK5G/LSSzH2WgyjArEHt61IoO4JDtxMuHa72hgGJXH2qijWdbJ/3PR1d0k3bSHRGEjX7wgCketYDiyRhWGIK46LIEBahvsAk2VWmJQyKlQgyh3H69SA==;B2E4hio+Ther95qGRKx3uw=="
 ---

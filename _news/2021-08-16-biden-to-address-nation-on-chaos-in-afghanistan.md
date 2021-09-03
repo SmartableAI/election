@@ -1090,7 +1090,7 @@ related:
   - title: "Afghanistan crisis: How Europe soured on Joe Biden"
     excerpt: "But in capitals across Europe, from London to Berlin, Afghanistan has soured the sweetness of Joe Biden's honeymoon. It's not the fact of the withdrawal itself that has rankled bu"
     publishedDateTime: 2021-09-02T23:05:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-europe-58416848?at_medium=RSS&at_campaign=KARANGA"
+    webUrl: "https://www.bbc.co.uk/news/world-europe-58416848?at_medium=RSS&amp%3Bat_campaign=KARANGA"
     ampWebUrl: "https://www.bbc.co.uk/news/world-europe-58416848.amp"
     cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-europe-58416848.amp"
     type: article

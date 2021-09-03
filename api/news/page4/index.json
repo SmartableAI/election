@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-28-franklin-delano-roosevelt-vs-john-f-kennedy-vs-joe-robinette-biden.md",
+      "title": "Franklin Delano Roosevelt vs. John F. Kennedy vs. Joe Robinette Biden",
+      "excerpt": "After the deaths of 13 U.S. troops and at least 90 Afghans outside the Kabul airport, Joe Biden gave a speech from a position of weakness.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailysignal.com/2021/08/27/franklin-delano-roosevelt-vs-john-f-kennedy-vs-joe-robinette-biden/",
+      "originalUrl": "https://www.dailysignal.com/2021/08/27/franklin-delano-roosevelt-vs-john-f-kennedy-vs-joe-robinette-biden/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailysignal.com/wp-content/uploads/Biden-2.gif",
+          "width": 1250,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailysignal.com/2021/08/27/franklin-delano-roosevelt-vs-john-f-kennedy-vs-joe-robinette-biden/amp/",
+      "cdnAmpWebUrl": "https://www-dailysignal-com.cdn.ampproject.org/c/s/www.dailysignal.com/2021/08/27/franklin-delano-roosevelt-vs-john-f-kennedy-vs-joe-robinette-biden/amp/",
+      "publishedDateTime": "2021-08-27T16:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Signal",
+        "domain": "dailysignal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-28-jack-nicklaus-on-if-tiger-woods-will-play-again-supporting-donald-trump-and-needing-a-cane.md",
       "title": "Jack Nicklaus on if Tiger Woods will play again, supporting Donald Trump and needing a cane",
       "excerpt": "Jack Nicklaus with a cane? Apparently the 81-year-old legend suffered an injury playing pickleball. Allow me to speak for everyone when I say that’s an image we’re not ready to see. It’s bad",
@@ -10,7 +53,7 @@
       "originalUrl": "https://golfweek.usatoday.com/lists/jack-nicklaus-qa-tiger-woods-donald-trump-cane/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -1171,49 +1214,6 @@
       "provider": {
         "name": "News & Record",
         "domain": "greensboro.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-biden-signs-us-rep-elissa-slotkins-paws-for-veterans-therapy-act-into-law.md",
-      "title": "Biden signs U.S. Rep. Elissa Slotkin's PAWS for Veterans Therapy Act into law",
-      "excerpt": "The program is set to begin on Jan. 1, 2022, at five VA locations. Slotkin is advocating that Michigan be one of them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livingstondaily.com/story/news/local/community/livingston-county/2021/08/25/paws-veterans-therapy-act-slotkin-biden-law/5592741001/",
-      "originalUrl": "https://www.livingstondaily.com/story/news/local/community/livingston-county/2021/08/25/paws-veterans-therapy-act-slotkin-biden-law/5592741001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/12/09/PLID/cdeb9b18-d5ab-46a1-b3f5-f02fba7e0e65-Blue_Star_Service_Dogs_01.jpg?auto=webp&crop=1932,1087,x1,y77&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.livingstondaily.com/amp/5592741001",
-      "cdnAmpWebUrl": "https://amp-livingstondaily-com.cdn.ampproject.org/c/s/amp.livingstondaily.com/amp/5592741001",
-      "publishedDateTime": "2021-08-25T16:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Livingston Daily",
-        "domain": "livingstondaily.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -9,7 +9,7 @@ ampWebUrl: "https://golfweek.usatoday.com/lists/jack-nicklaus-qa-tiger-woods-don
 cdnAmpWebUrl: "https://golfweek-usatoday-com.cdn.ampproject.org/c/s/golfweek.usatoday.com/lists/jack-nicklaus-qa-tiger-woods-donald-trump-cane/amp/"
 type: article
 quality: 115
-heat: 155
+heat: 175
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/21/15/62/21290146/5/ratio3x2_400.jpg"
         width: 400
         height: 267
+        isCached: true
+  - title: "Trump's backing lands early in wide-open US Senate race"
+    excerpt: "The most sought after endorsement in Pennsylvania's wide-open Republican primary for U.S. Senate went early to Sean Parnell, but the backing of former President Donald Trump"
+    publishedDateTime: 2021-09-03T20:44:00Z
+    webUrl: "https://www.bgdailynews.com/news/politics/trumps-backing-lands-early-in-wide-open-us-senate-race/article_b60a9061-2881-5d61-aab0-44be16aa18ad.html"
+    type: article
+    provider:
+      name: Bowling Green Daily News
+      domain: bgdailynews.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bgdailynews.com/content/tncms/custom/image/5f9f4c50-c126-11e4-999e-83ffe8e0c765.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "A08qZwO3D3X9Nws0OXoAgYfuLkd6LwvnXuCJ3pzWlZfiS5PrnV28LnakrCk6s2t7KKwkenGuea/ZSt6nFUa5FulsbVv7ArtD/EP7fOl1zfjr5VhzaB9kfBy3FXTcaXztIIVzWVDQkw2spD7FP46/XEKrO32H+MjkWIilMa2vrYcUGOnaJAclp3XkCiFjld1k7cJC0qED1JmyYekQuy+E8CWAF33aPxVaEksRGYdX0DMGa7Y48/y8uvITPJmz5T4O2NVvTzmy1RV6+ZjhFpx4ExB/h7Jy91nkCa5RYPoe9c/7WOyB/hv1JhnDW21bNYzUpEvDR37g03iuqxghmwn0vNMdHa8dwgAVqGiQVGqOeBj4pZvmQre8hXA5/UgnH3uObsqM6BE/duIMpSRZE37LUSeMpG2WNuh8DP5zSpDWBEn82quuZURNk3hwcNQ+giNABZ/eHLCTGb7pvitbgGh23aIa3BQxc7lDb9qeAJpovbKP95CyxAe1+lBlSK07SsV5hkEV+b6UL6/uWwUmbo69hw==;wS49ZO9ZeOrDJ5+0mBcmGQ=="
