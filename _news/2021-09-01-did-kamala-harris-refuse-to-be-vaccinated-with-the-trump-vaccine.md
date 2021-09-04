@@ -7,7 +7,7 @@ originalUrl: "https://www.snopes.com/fact-check/kamala-harris-refuse-trump-vacci
 webUrl: "https://www.snopes.com/fact-check/kamala-harris-refuse-trump-vaccine/"
 type: article
 quality: 70
-heat: 110
+heat: 130
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://www.snopes.com/tachyon/2021/08/Copy-of-Rating-Overlay-FEATURED-IMG-37.png"
         width: 1200
         height: 675
+        isCached: true
+  - title: "This simple advice from Kamala Harris will make you a better public speaker"
+    excerpt: "The vice president has, several times, offered smart, assuring words to nervous workers and students that this communications coach says are spot-on."
+    publishedDateTime: 2021-09-03T14:00:00Z
+    webUrl: "https://www.fastcompany.com/90670190/this-simple-advice-from-kamala-harris-will-make-you-a-better-public-speaker"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 53
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/09/p-1-this-simple-advice-from-kamala-harris-will-make-you-a-better-public-speaker.png"
+        width: 1280
+        height: 720
         isCached: true
   - title: "'The vaccines do work:' Trump says he's proud of the coronavirus vaccine but rejects any mandates"
     excerpt: "Former president Donald Trump said Wednesday that the coronavirus vaccine is effective and that more Americans should get the shot, but that mandates"

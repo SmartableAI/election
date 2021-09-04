@@ -362,16 +362,16 @@ related:
   - title: "President Joe Biden Delivers Remarks on the Jobs Report"
     excerpt: "U.S. President Joe Biden delivers remarks on the August jobs report on Friday, September 3, 2021, in the State Dining Room at the White House in Washington DC. Photo by Ken Cedeno/UPI"
     publishedDateTime: 2021-09-03T16:36:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/054e4f078ff28ac229f9b6b04c8a0596/President-Joe-Biden-Delivers-Remarks-on-the-Jobs-Report/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/9848ad9ce359a149221caf46e352e9f0/President-Joe-Biden-Delivers-Remarks-on-the-Jobs-Report/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/054e4f078ff28ac229f9b6b04c8a0596/BIDEN-JOBS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/9848ad9ce359a149221caf46e352e9f0/BIDEN-JOBS.jpg"
         width: 650
-        height: 433
+        height: 434
         isCached: true
   - title: "VP Kamala Harris slams China right on their doorstep – here’s what she said"
     excerpt: "During her visit to Singapore on Tuesday, Vice President Kamala Harris railed against China for coercing and intimidating countries in the South China Sea. 'We know that Beijing continues to coerce, to intimidate,"
@@ -399,6 +399,6 @@ related:
       domain: bostonglobe.com
     quality: 53
 
-secured: "LKzX8dw5FaBgxZh2zal3Pv2CKX1uBBDVkQu0ldpnHTV3KqyiQfcWJ08nD3abidrMNL/v+/VkDL3sV+s7OBUOwRnkrKK9daKULvgmGckL/j0XbRVtcnsk+ZjLgsEWSh9m9q+MA7wAseHAqccpoP7u5ELXzphkbBMCOe6RAnOEFc0ZDfQxEcOsjkz4yH0RJAXBqGQlpIS8nEuUTouavpNJpXpU+MmkJjeWNIFPaKB1/k/DoTjG00W5K2lYDh/4wyNtMQYtTc0OW+UPU+BVJGjEcRPBg9WQ2WfM6KPmqN6dD9moH/0hvLUR+ZOVVFneD8oDYR8XgnUiOTPA5sH26pVnV26LORP4Oel5l+9X75IBzh8=;p8vkEFAZqNefdKx4C+QjsA=="
+secured: "2kPtyCi1eKl9rXHrswyde9v7fpv2fnrEbPnTHHLMtzd3pD0A/q3udGuUIY6dFlv2Yg73FA1QI+ktN4OXYvjqW1SXArZqnGQhaN4UqYU0jdnL/MUUV/ng9OFkS3WveRDObo1ufYDMgOOZpDOsjsFmEoNc+mblxj3r3N1buHWF81Smmur/nxzi3xLfTvkqBiYUw/wWJNMwUeCU1vFWJuzQc8FDoPwh7jvlk3s6bbUlB08mOBPIe6g1fAAxtEz2OubVrGUDk7YtSisp6jgvUFeHbgsrzoNc4PIqVmZDKI+2S5xChGW3XVNqY/1EwqfZN554zWkxR8HKEB3t4rXuhpkMvaTStaTujz3/9Mp3ra8mEoy6PPmw9olBOpbekmokvYOOaP3D1wSFVlMyu0r884EK7rtieoELxXsngliKls23lWPokFRMo46/g3+NynBTPDJfVSxgEYpm/pqG3VrEgFYFDA9q4RB8LGOOMZa2XeJaxqmRe3qAr2T/m2/mNjLpn0emi+63VaxK6JrlrO2Z2WiTqA==;XlDzdU24HO/WLDjBZxmSOg=="
 ---
 
