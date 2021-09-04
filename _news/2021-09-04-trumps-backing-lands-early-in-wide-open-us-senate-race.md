@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Trump’s backing lands early in wide-open US Senate race"
-excerpt: "The most sought-after endorsement in Pennsylvania’s wide-open Republican primary for U.S. Senate went early to Sean Parnell"
-publishedDateTime: 2021-09-03T22:19:00Z
-originalUrl: "https://www.mcall.com/news/pennsylvania/mc-pa-election-2022-senate-pennsylvania-20210903-6lwa5jdfnngyfpu4cikqfbfhqa-story.html"
-webUrl: "https://www.mcall.com/news/pennsylvania/mc-pa-election-2022-senate-pennsylvania-20210903-6lwa5jdfnngyfpu4cikqfbfhqa-story.html"
-ampWebUrl: "https://www.mcall.com/news/pennsylvania/mc-pa-election-2022-senate-pennsylvania-20210903-6lwa5jdfnngyfpu4cikqfbfhqa-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/news/pennsylvania/mc-pa-election-2022-senate-pennsylvania-20210903-6lwa5jdfnngyfpu4cikqfbfhqa-story.html?outputType=amp"
+title: "Trump's backing lands early in wide-open US Senate race"
+excerpt: "Trump's endorsement, issued in a statement Wednesday afternoon, came early in the race, nearly nine months before next May's primary in what is expected to be one of the nation’s most competitive Senate contests in next year’s election."
+publishedDateTime: 2021-09-04T01:58:00Z
+originalUrl: "https://www.nhregister.com/news/article/Trump-s-backing-lands-early-in-wide-open-US-16434611.php"
+webUrl: "https://www.nhregister.com/news/article/Trump-s-backing-lands-early-in-wide-open-US-16434611.php"
+ampWebUrl: "https://www.nhregister.com/news/amp/Trump-s-backing-lands-early-in-wide-open-US-16434611.php"
+cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Trump-s-backing-lands-early-in-wide-open-US-16434611.php"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Morning Call PA
-  domain: mcall.com
+  name: New Haven Register
+  domain: nhregister.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://www.mcall.com/resizer/dw9nzbidhNPE4iIRpDCVOJIuwB8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SCER6JSKEYKGMTIQT5VEL33LLQ.jpg"
-    width: 1200
-    height: 800
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -74,6 +74,6 @@ related:
         height: 267
         isCached: true
 
-secured: "Y1kqU+QcloOiJ3g59h9wCTz14RcigSWFGw5eBPwD+TvtX02oxfn6e2UeroGJGJ61b7flRmi5aDpH08YHyso/6v1CxXfQQ4BOaZXYzgF2nNzk6/jn2D3PZ3G5Fh56nBjfZZ0fkplPOrp3vc2t+2Nb9ObW5qTfWa5eqTToTpoFIeH61M+5bFcXd0S3CEX8A+PvinK/CNc1grQWgGlUdueQdeaFIunEfPD1mDZHU5Oyl11Gkm6Y+VirxZl2ZS5Q0kZ59Vx+JOF+wOUVTB1cqUIBdpqP/d3rbPx8CJxNUdKy5sNif+VbOOs8TdZsNlWl4sGW5uz9pcfCu67AUqki1E9lQTPQce/KvzRobwAGouvJNyc=;ZvSjV6lFVQKTSh46dvVzBA=="
+secured: "kBjKUQsH+d/0xYcMpnyeJYDyQENdNf9bwMhwccPDZH6E/84JL/sqXGW1gnFKtzRuUcbmCqryvF6tC2V/pt5sXCy2PZcHZuhD4S1QVFsDkcB5JASk0Pw668XKUcT+Tuuv+5sdGKlajnte0vzXsQCcO/wZ1tcezO7TKvd1glXLRffXWWzosQWLfa8mm47ZCbaEQvFzUyO4qf4wrjRRYT/ck3dcedCwgp71GTmHpSuZMM2pl0TxRQJslh8ArkhTTOY1/4lpZ3t2cwW+bcebCt+DJo5SUHazi2Y7lTMiWNvz5+iJ6wxzN9LmzbXGC9RuHGJOq1z2Ukd/7WUZ3qLXREs7O4YQqPvOaorx4KZapPBt0JY=;tBoBEJ9tUkoY2pLEBMd5gA=="
 ---
 

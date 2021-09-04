@@ -2,6 +2,63 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-06-23-nebraska-gov-ricketts-sending-police-to-texas-because-biden-is-failing-so-miserably-at-southern-border.md",
+      "title": "Nebraska Gov. Ricketts sending police to Texas because Biden is 'failing so miserably' at southern border",
+      "excerpt": "Nebraska Republican Gov. Pete Ricketts told \"Your World\" on Tuesday that he has dispatched state troopers to assist the Texas Department of Public Safety because President Joe Biden “failing so miserably” at the southern border.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/nebraska-ricketts-sending-police-texas-biden-failing-southern-border",
+      "originalUrl": "https://www.foxnews.com/media/nebraska-ricketts-sending-police-texas-biden-failing-southern-border",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/nebraska-ricketts-sending-police-texas-biden-failing-southern-border.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/nebraska-ricketts-sending-police-texas-biden-failing-southern-border.amp",
+      "publishedDateTime": "2021-06-22T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-us-will-likely-miss-bidens-july-4-covid-19-goal-of-having-70-of-adults-vaccinated-white-house-says.md",
       "title": "US will likely miss Biden's July 4 COVID-19 goal of having 70% of adults vaccinated, White House says",
       "excerpt": "COVID-19 Response Team Coordinator Jeff Zients said it's \"more important than ever\" for people to get vaccinated as the Delta variant spreads.",
@@ -1538,58 +1595,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-polls-us-image-abroad-has-rebounded-since-biden-took-office.md",
-      "title": "Polls: US image abroad has rebounded since Biden took office",
-      "excerpt": "The United States’ image around the world has improved sharply since President Joe Biden took office The United States' image around the world has improved sharply since President Joe Biden took office,",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/polls-us-image-abroad-rebounded-biden-office-78195103",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/polls-us-image-abroad-rebounded-biden-office-78195103",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 345,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_3091bf6a667b4bd684841cf02e7e4ce7_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/polls-us-image-abroad-rebounded-biden-office-78195103",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/polls-us-image-abroad-rebounded-biden-office-78195103",
-      "publishedDateTime": "2021-06-10T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden pledges to support communities ravaged by Hurricane Ida: 'I promise to have your backs until this gets done'"
+    excerpt: "President Joe Biden is headed to Louisiana on Friday to survey damage from Hurricane Ida, after almost a week of the deadly storm ravaging the eastern half of the United States.\n    \n"
+    publishedDateTime: 2021-09-04T00:04:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vbv-IqXj3qo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/03/politics/biden-hurricane-ida-travel-louisiana/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/03/politics/biden-hurricane-ida-travel-louisiana/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 153
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210902140750-01-biden-ida-0902-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "9Ha6jha5CfZahFQ/2F577YCI1UnaLmIA+r6Y9eoKm29E1iqL22zW8QHBx7T0T5UDEHNddAAKPTpv8CUpgsITvmG6zFHqGKzKzX1A21ku0Q7LEgMktrurZvhyxlK3HAfNl0+48N/L/x3LkWUOglKDejh/+hqIGDCXIzzzco5aIE9jwsmao0WhH58/ybZ5AcOMz5m5J7al5PY6P2MKbG0ZpSBzFfYP1cAZ35XnI74Qf59DHDQ0B+YT57qJbq9ay93i954It9M9lo/cWRJTR7eGV2+No1eIDJxXvqYE4rVwHo5lIOjWwjRFL5PHr+WXZcR4znrpCcie1/FmGbUIkGENxpmc/0cd2tLesTz4QoDWPXA=;rCVridTnI2EfwGGEDWDeYg=="
 ---

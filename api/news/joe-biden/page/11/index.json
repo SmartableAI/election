@@ -2,6 +2,63 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-04-29-woke-cancel-culture-movement-backfired-on-joe-biden-stacey-abrams-gov-kemp.md",
+      "title": "'Woke cancel culture movement' backfired on Joe Biden, Stacey Abrams: Gov. Kemp",
+      "excerpt": "Georgia Gov. Brian Kemp told “Fox & Friends” Thursday, President Biden and Georgia voting rights activist Stacey Abrams has driven the “far-reaching, woke cancel culture movement” too far and now it has backfired on the Democratic Party for “lying” about the state’s election law.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/kemp-georgia-election-law-biden-abrams",
+      "originalUrl": "https://www.foxnews.com/media/kemp-georgia-election-law-biden-abrams",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/kemp-georgia-election-law-biden-abrams.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kemp-georgia-election-law-biden-abrams.amp",
+      "publishedDateTime": "2021-04-29T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-white-supremacy-is-terrorism-biden-condemns-terrorism-in-address.md",
       "title": "'White supremacy is terrorism': Biden condemns terrorism in address",
       "excerpt": "President Joe Biden addressed gun violence and white supremacy in his speech to Congress. Associated Press Associated Press, USA TODAY",
@@ -1517,58 +1574,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-rand-paul-says-fauci-acts-against-the-science-wants-people-to-stay-in-bidens-basement.md",
-      "title": "Rand Paul Says Fauci Acts 'Against the Science,' Wants People to Stay In 'Biden's Basement'",
-      "excerpt": "Sen. Rand Paul (R-Ky.) continued his pubic dispute with Dr. Anthony Fauci on Tuesday, claiming that Fauci wants Americans to remain in President Joe Biden's \"basement\" even if they have been vaccinated against COVID-19. Fauci, the nation's top infectious ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/rand-paul-says-fauci-acts-against-science-wants-people-stay-bidens-basement-1583431",
-      "originalUrl": "https://www.newsweek.com/rand-paul-says-fauci-acts-against-science-wants-people-stay-bidens-basement-1583431",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1777376/rand-paul-anthony-fauci-covid-19-vaccines-biden.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/rand-paul-says-fauci-acts-against-science-wants-people-stay-bidens-basement-1583431?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/rand-paul-says-fauci-acts-against-science-wants-people-stay-bidens-basement-1583431?amp=1",
-      "publishedDateTime": "2021-04-13T19:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

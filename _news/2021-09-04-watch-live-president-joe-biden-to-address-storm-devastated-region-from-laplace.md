@@ -7,7 +7,7 @@ originalUrl: "https://www.nola.com/news/article_a5abc5bc-0cf0-11ec-9097-a7219093
 webUrl: "https://www.nola.com/news/article_a5abc5bc-0cf0-11ec-9097-a72190939a4f.html"
 type: article
 quality: 51
-heat: 51
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1034
     height: 630
     isCached: true
+
+related:
+  - title: "Joe Biden walks storm-ravaged Louisiana: “I know you’re hurting”"
+    excerpt: "Less than a week after Hurricane Ida battered the Gulf Coast, President Joe Biden walked the streets of a hardhit Louisiana neighborhood on Friday and told local residents, “I know you’re hurting, I know you’re hurting."
+    publishedDateTime: 2021-09-03T23:58:00Z
+    webUrl: "https://www.denverpost.com/2021/09/03/joe-biden-walks-storm-ravaged-louisiana/"
+    ampWebUrl: "https://www.denverpost.com/2021/09/03/joe-biden-walks-storm-ravaged-louisiana/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/09/03/joe-biden-walks-storm-ravaged-louisiana/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/09/AP21246697540433.jpg?w=1024&#038;h=683"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "6MUQnelI8tFVwl+pJesiMZNLInGuH2j9T9mnT2o45BNx4BTLLhzL9Zako2GU5bqYYnkOkSCxhi3WoXpNqq75W1Uk+smWkPs1SH/AFmlTYWKF4dmIVq4we9SHm3FGUrVKqyO4Bg3HHC8CIveamK5SsmE83pawMgM9kjclVnnZJb49JlSk/HVWiP/kmbhQqpyxLo3EMWEdIXW+qCisHXC8VR9U9VyZfWUxyasgtfRqbUacjq40LdCf6XPoRCQ1sLRY+gOAM/2G44rbi8irEBwsKFgtNmvFyHp+vVJJasaU87IDqVpiPeYG8JOovtwgHadOdH3vvzYtNMjkvI0WnCJ9qbzESZjAtasVn1Y/9G6ZoZqa/LX2mHHLwIMSMpiFvWhJO3NjChlo8w85HDmjk9tTr6EC0cFjKZps/eFKGgCmCWewEyF1d8SMTAsxainSfuVhTk2HM4Ga61nscJ307NWhlb69PKEgyx3SfOyg1b2Q7xpuSK4le7l7aSnRrLwBRIIkewRzz0DepFqyJPNxSArh6w==;8wwoAVPxecC6DpvMce7ngQ=="
 ---

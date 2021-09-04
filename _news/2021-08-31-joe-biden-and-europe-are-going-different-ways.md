@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/bfe24854-3bf2-4ada-b3a2-778b4707c31f"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/bfe24854-3bf2-4ada-b3a2-778b4707c31f"
 type: article
 quality: 125
-heat: 465
+heat: 485
 published: true
 
 provider:
@@ -256,6 +256,20 @@ related:
       - url: "https://goldrushcam.com/sierrasuntimes/images/2020/white-house-gov.jpg"
         width: 679
         height: 357
+        isCached: true
+  - title: "President Joe Biden walks storm-devastated LaPlace: 'I know you're hurting'"
+    excerpt: "As widespread suffering continued five days after Hurricane Ida ransacked southeast Louisiana, President Joe Biden walked through storm-ravaged LaPlace on Friday while residents tossed rotting insulat"
+    publishedDateTime: 2021-09-03T19:53:00Z
+    webUrl: "https://www.nola.com/news/article_a5abc5bc-0cf0-11ec-9097-a72190939a4f.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 53
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/2/22/2225261a-f456-502a-800d-9b36291b228c/61329f9128ce6.image.jpg?resize=828%2C630"
+        width: 828
+        height: 630
         isCached: true
   - title: "Storm commemorates 2020 WNBA championship with President Joe Biden at White House"
     excerpt: "President Joe Biden and first lady Jill Biden hosted an entourage led by Storm captains Sue Bird and Breanna Stewart, coach Noelle Quinn and the majority owners Ginny Gilder, Lisa Brummel and Dawn Trudeau."

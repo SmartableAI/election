@@ -2,19 +2,19 @@
 category: news
 title: "Georgia lieutenant governor declares independence from Trump"
 excerpt: "Georgia’s Republican lieutenant governor is declaring independence from Donald Trump in a new book and urging other members of the GOP to follow. Geoff Duncan has been a target of heavy criticism from the former president and many other Republicans for his outspoken criticism of Trump’s efforts to overturn his presidential election loss."
-publishedDateTime: 2021-09-03T23:05:00Z
-originalUrl: "https://www.chron.com/news/article/Georgia-lieutenant-governor-declares-independence-16434184.php"
-webUrl: "https://www.chron.com/news/article/Georgia-lieutenant-governor-declares-independence-16434184.php"
-ampWebUrl: "https://www.chron.com/news/amp/Georgia-lieutenant-governor-declares-independence-16434184.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Georgia-lieutenant-governor-declares-independence-16434184.php"
+publishedDateTime: 2021-09-04T01:05:00Z
+originalUrl: "https://www.seattlepi.com/news/article/Georgia-lieutenant-governor-declares-independence-16434184.php"
+webUrl: "https://www.seattlepi.com/news/article/Georgia-lieutenant-governor-declares-independence-16434184.php"
+ampWebUrl: "https://www.seattlepi.com/news/amp/Georgia-lieutenant-governor-declares-independence-16434184.php"
+cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Georgia-lieutenant-governor-declares-independence-16434184.php"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: seattlepi.com
+  domain: seattlepi.com
 
 topics:
   - Election
@@ -175,6 +175,6 @@ related:
       domain: heraldsun.com
     quality: 28
 
-secured: "elAhigq95QLF76Ezw4CBN77pIAGTb3xdcl6EKA1ixp2DEJshPANbnS5oRI4fMgyhVlgYQunpAEE4i42nPSgX14twry4AsOeAiBuknkDcFphsHAV73uLyn9e4v6RTBUzY8xHQ7Tqc9rNKP7mLicGZW0CnmOBVc80rfmNb5idDkua937BqDkiCLK249TKV8iSVKqrj8rdkcPRRPJZFENSVntgwPFbxDWACsfdCVqL3UEQMWYV4UXcSrMFKwppEfhoaRS6rgX8bRpkgij1MOnRWuTxIPxFyNsD2x1L/+dzN5Ev7hP6wkWAMvtVNA300cnJHpvGOxAWic2g4+HBG2wwP2VPGGZOZz0bCELCwkO069Cw=;qWpxRYNlyQxIZWLKfSJskA=="
+secured: "nhxDuJSe5I7Xb+VSiMOx6f5cn5QMernXb5NmRAeNjQcczGDIpvQX6I8je1svKM72KG0Dow12dZeT6BhoqVgTt7YeH1YjMSAZE8uxvYpWA9LZ9E48Xu114GNv1Ub/U2eTueqimqu1su3q+KznLYQ6K3+euTbLIEaYLijJKthZyI2jYVtm1PfIqLKf23e9eDnCrY8XLpeR/5dr+/VenYxooiVxvbYU909dWHgUtpnN3kVcCj8QxEwWxZw+Ofl/Jsp3WMGKiTOoWXsoW7uyL3sIm5fz2B2AElxagycLYGh3PJnzU9IAWddFBCIpu+vd+YyoKfDhBvo6bdun9CBDv0tmATroI7fjU1bn6TMc5ViGtus=;5ULDQhebJvJC0SeZbHNCAQ=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-04-14-rand-paul-says-fauci-acts-against-the-science-wants-people-to-stay-in-bidens-basement.md",
+      "title": "Rand Paul Says Fauci Acts 'Against the Science,' Wants People to Stay In 'Biden's Basement'",
+      "excerpt": "Sen. Rand Paul (R-Ky.) continued his pubic dispute with Dr. Anthony Fauci on Tuesday, claiming that Fauci wants Americans to remain in President Joe Biden's \"basement\" even if they have been vaccinated against COVID-19. Fauci, the nation's top infectious ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/rand-paul-says-fauci-acts-against-science-wants-people-stay-bidens-basement-1583431",
+      "originalUrl": "https://www.newsweek.com/rand-paul-says-fauci-acts-against-science-wants-people-stay-bidens-basement-1583431",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1777376/rand-paul-anthony-fauci-covid-19-vaccines-biden.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/rand-paul-says-fauci-acts-against-science-wants-people-stay-bidens-basement-1583431?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/rand-paul-says-fauci-acts-against-science-wants-people-stay-bidens-basement-1583431?amp=1",
+      "publishedDateTime": "2021-04-13T19:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-this-has-been-a-tough-week-black-lawmakers-discuss-racial-inequities-covid-with-biden.md",
       "title": "'This has been a tough week': Black lawmakers discuss racial inequities, COVID with Biden",
       "excerpt": "Leaders of the Congressional Black Caucus met with President Joe Biden and Vice President Kamala Harris at the White House for the first time Tuesday and laid out their policy vision. “We had an amazing meeting where we were able to share our thoughts ...",
@@ -1542,63 +1594,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-joe-biden-is-not-planning-to-solve-the-israeli-palestinian-conflict.md",
-      "title": "Joe Biden is not planning to solve the Israeli-Palestinian conflict",
-      "excerpt": "Joe Biden, though, isn’t all that interested. Unlike Barack Obama and Donald Trump, Biden hasn’t named a special envoy to focus on the Israeli-Palestinian portfolio. Unlike Bill Clinton, Biden has no plans for any sort of peace conference, or even a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/04/06/joe-biden-israel-palestine-conflict-479405",
-      "originalUrl": "https://www.politico.com/news/2021/04/06/joe-biden-israel-palestine-conflict-479405",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/52/24/4d5812e541128852ed8c3d89e2db/210406-biden-israel-getty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/04/06/joe-biden-israel-palestine-conflict-479405",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/06/joe-biden-israel-palestine-conflict-479405",
-      "publishedDateTime": "2021-04-06T15:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-hurricane-ida-devastation-lou
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hurricane-ida-devastation-louisiana-friday.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/83fc7f92-2bea-40fd-b69d-16e6093d0fa7/3483f11e-f6d4-4d0b-a4d2-e308c79930a8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Florida diner that told Biden supporters to eat elsewhere becomes so popular it runs out of food"
+    excerpt: "A Florida diner that posted a sign telling Biden supporters to take their business “elsewhere” was forced to temporarily close after not having enough food to meet a surge in demand."
+    publishedDateTime: 2021-09-04T01:46:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3ZGWAIOF56g/florida-diner-forced-to-close-due-to-popularity-after-posting-sign-telling-biden-supporters-to-keep-out"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 142
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/Biden-Speaking.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "sO6PPXActM6bInl2B0ErAj+IayiL7I5kBT+HYpucBK7Jb2b1+Q9dNq/29ZKDa1BIPvFvspGqbU2yWxNZlkcojL/sCtLRaCVfr8V17V42Jhsi8lnHXevImgx7JwdtLH8L+kNT2nGmMMXOnsgvBrGVjKxyKyMAjKQLSxhE8uuhp9BvfPPcC2JHDmHN7C0YFU7mYyv8V7wtIIkCjvnUpe3mEEMnMgOuyeeFbVGh7W8fbWZ1t1FizidVRy89HUhqpwlpAzEexnckKyCV+cdzKbQU2MsLIhuOda72JG1vDi7Qi9weGxcBe/rMfOuu3FoeNq1LxT9B71ROilCkLlOEnPUcweo39znzuVe3Mo/WJOD1uMw=;JlRMV1RH7PwlvsG1V2JZxQ=="

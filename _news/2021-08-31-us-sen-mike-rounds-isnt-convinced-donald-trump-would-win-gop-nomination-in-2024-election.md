@@ -61,14 +61,14 @@ related:
         isCached: true
   - title: "Georgia lieutenant governor declares independence from Trump"
     excerpt: "Georgia’s Republican lieutenant governor is declaring independence from Donald Trump in a new book and urging other members of the GOP to follow. Geoff Duncan has been a target of heavy criticism from the former president and many other Republicans for his outspoken criticism of Trump’s efforts to overturn his presidential election loss."
-    publishedDateTime: 2021-09-03T23:05:00Z
-    webUrl: "https://www.chron.com/news/article/Georgia-lieutenant-governor-declares-independence-16434184.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Georgia-lieutenant-governor-declares-independence-16434184.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Georgia-lieutenant-governor-declares-independence-16434184.php"
+    publishedDateTime: 2021-09-04T01:05:00Z
+    webUrl: "https://www.seattlepi.com/news/article/Georgia-lieutenant-governor-declares-independence-16434184.php"
+    ampWebUrl: "https://www.seattlepi.com/news/amp/Georgia-lieutenant-governor-declares-independence-16434184.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Georgia-lieutenant-governor-declares-independence-16434184.php"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: seattlepi.com
+      domain: seattlepi.com
     quality: 75
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"

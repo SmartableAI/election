@@ -263,6 +263,20 @@ related:
         width: 679
         height: 357
         isCached: true
+  - title: "President Joe Biden walks storm-devastated LaPlace: 'I know you're hurting'"
+    excerpt: "As widespread suffering continued five days after Hurricane Ida ransacked southeast Louisiana, President Joe Biden walked through storm-ravaged LaPlace on Friday while residents tossed rotting insulat"
+    publishedDateTime: 2021-09-03T19:53:00Z
+    webUrl: "https://www.nola.com/news/article_a5abc5bc-0cf0-11ec-9097-a72190939a4f.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 53
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/2/22/2225261a-f456-502a-800d-9b36291b228c/61329f9128ce6.image.jpg?resize=828%2C630"
+        width: 828
+        height: 630
+        isCached: true
   - title: "Ruth Dudley Edwards: President Joe Biden is ignorant, arrogant, stubborn — and too damn old"
     excerpt: "We’re living through a disaster that should be causing all patriotic Americans to wonder if it isn’t time to revisit their methods of choosing their leaders."
     publishedDateTime: 2021-08-24T13:37:00Z

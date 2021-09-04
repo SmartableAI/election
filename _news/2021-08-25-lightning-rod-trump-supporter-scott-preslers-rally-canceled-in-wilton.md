@@ -57,21 +57,21 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Trump’s backing lands early in wide-open US Senate race"
-    excerpt: "The most sought-after endorsement in Pennsylvania’s wide-open Republican primary for U.S. Senate went early to Sean Parnell"
-    publishedDateTime: 2021-09-03T22:19:00Z
-    webUrl: "https://www.mcall.com/news/pennsylvania/mc-pa-election-2022-senate-pennsylvania-20210903-6lwa5jdfnngyfpu4cikqfbfhqa-story.html"
-    ampWebUrl: "https://www.mcall.com/news/pennsylvania/mc-pa-election-2022-senate-pennsylvania-20210903-6lwa5jdfnngyfpu4cikqfbfhqa-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/news/pennsylvania/mc-pa-election-2022-senate-pennsylvania-20210903-6lwa5jdfnngyfpu4cikqfbfhqa-story.html?outputType=amp"
+  - title: "Trump's backing lands early in wide-open US Senate race"
+    excerpt: "Trump's endorsement, issued in a statement Wednesday afternoon, came early in the race, nearly nine months before next May's primary in what is expected to be one of the nation’s most competitive Senate contests in next year’s election."
+    publishedDateTime: 2021-09-04T01:58:00Z
+    webUrl: "https://www.nhregister.com/news/article/Trump-s-backing-lands-early-in-wide-open-US-16434611.php"
+    ampWebUrl: "https://www.nhregister.com/news/amp/Trump-s-backing-lands-early-in-wide-open-US-16434611.php"
+    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Trump-s-backing-lands-early-in-wide-open-US-16434611.php"
     type: article
     provider:
-      name: Morning Call PA
-      domain: mcall.com
+      name: New Haven Register
+      domain: nhregister.com
     quality: 75
     images:
-      - url: "https://www.mcall.com/resizer/dw9nzbidhNPE4iIRpDCVOJIuwB8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SCER6JSKEYKGMTIQT5VEL33LLQ.jpg"
-        width: 1200
-        height: 800
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
 
 secured: "TsKy1pmZByFxQLkRAea8NA51n/fX35oNtGcA/HssaSyKR/jovvJZ+ofiL5iqADcJtCBrREt5AukZW+Rn+qdLNTL3uSygFi5zFANc8Ms+avJ8aRR2VWGGunY7bsXEsRhL1StNwozAhjhYW/OJmbZlUWm6CPZN9t0i8pps/NhF5urKOtLj/wUTdNRolPtZzIVZ0pdgCV5QvO5zrxOJkftCSTCuhV7UcRCSE9IgwsvSZCeJpsu4uRdCDS6qoJ4Z17FcGEOEyJTjngr2AQ46ADPBopy7ToCV9F10k95DDtekQPWjGKiLfq3tazUQbws/0QbGs5SVRZDTJSin8eFuAYxc6JcxQKC3OWERur6P28opvkIYWPsU8pr6bBWsGsTDMYWycJ60wZybwbUHbgaeonyS9rBiu06AsgKOkaMbK5G/LSSzH2WgyjArEHt61IoO4JDtxMuHa72hgGJXH2qijWdbJ/3PR1d0k3bSHRGEjX7wgCketYDiyRhWGIK46LIEBahvsAk2VWmJQyKlQgyh3H69SA==;B2E4hio+Ther95qGRKx3uw=="

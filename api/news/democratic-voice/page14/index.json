@@ -2,6 +2,62 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-04-03-obama-congratulates-mlb-for-taking-a-stand-against-georgia-election-law-as-trump-calls-for-boycott.md",
+      "title": "Obama congratulates MLB for 'taking a stand' against Georgia election law as Trump calls for boycott",
+      "excerpt": "Former Presidents Barack Obama and Donald Trump have weighed in on Major League Baseball's decision to move its All-Star Game out of Atlanta in response to Georgia's new sweeping election law that imposes significant new obstacles to voting.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ie8gzsDKxz4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ie8gzsDKxz4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200218073745-obama-trump-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/03/politics/obama-trump-mlb-all-star-game-georgia-voting-law/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/03/politics/obama-trump-mlb-all-star-game-georgia-voting-law/index.html",
+      "publishedDateTime": "2021-04-03T12:16:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-02-trump-peeled-away-latino-voters-nationwide-in-2020-a-new-analysis-found.md",
       "title": "Trump peeled away Latino voters nationwide in 2020, a new analysis found.",
       "excerpt": "A post-mortem analysis of the 2020 election has found that Latino voters played a meaningful role in tipping the Senate and the presidency to the Democrats, but that former President Donald J. Trump’s concerted effort to peel away Latino support ...",

@@ -79,6 +79,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Florida diner that told Biden supporters to eat elsewhere becomes so popular it runs out of food"
+    excerpt: "A Florida diner that posted a sign telling Biden supporters to take their business “elsewhere” was forced to temporarily close after not having enough food to meet a surge in demand."
+    publishedDateTime: 2021-09-04T01:46:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3ZGWAIOF56g/florida-diner-forced-to-close-due-to-popularity-after-posting-sign-telling-biden-supporters-to-keep-out"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 142
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/Biden-Speaking.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "Uu1bLmjeXsWn43SdtGgDOiYGLJX19c8AxU5FdPWnsM7hXfeM1W4Z2Zm8smPfj47JzhlPVKoEvFkKmgsW8DitOhiHoavczZuGaO9PPyBDM6/92c5fwRp6UuDB3FTQbRE3Abwnjv5BI2qENFXl9ZAL9BFlEUC4BTbhxnmx/gWj12q3HHXWRzxJPq/+5RCMXYpEJGInVT2t14+OglcYniVk3ZInh+0jQK++aGa3xfJxKtQbttCQRTgYKnWAF45DbuybAU/oi3M5uf0GgB2tkU1HHQcvyzp2GkUoF0ftJmntHS6fgOcgsW47RW+sJmoUUwsZaUklBW711JYwUDBIZGgYywEkNqwyOYV+pvTr83r+H4s=;J7ryVWy7ySJ5H30/Uhrpyw=="
 ---

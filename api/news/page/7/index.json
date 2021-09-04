@@ -2,6 +2,101 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-08-22-barron-trump-enrolls-in-35000-a-year-private-school-in-florida.md",
+      "title": "Barron Trump Enrolls In $35,000-A-Year Private School In Florida",
+      "excerpt": "Barron Trump has enrolled in an exclusive private school in Palm Beach, Florida, for the new school year. A spokesperson for Oxbridge Academy announced earlier this week that Melania and Donald Trump's 15-year-old son has enrolled in the elite school as part of the class of 2024,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/barron-trump-enrolls-35000-year-private-school-florida-3278565",
+      "originalUrl": "https://www.ibtimes.com/barron-trump-enrolls-35000-year-private-school-florida-3278565",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/02/donald-and-melania-trump-have-tested-positive-for.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/barron-trump-enrolls-35000-year-private-school-florida-3278565?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/barron-trump-enrolls-35000-year-private-school-florida-3278565?amp=1",
+      "publishedDateTime": "2021-08-22T03:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-22-donald-trumps-save-america-rally-packs-farm-near-cullman.md",
+      "title": "Donald Trump’s ‘Save America’ Rally Packs Farm Near Cullman",
+      "excerpt": "The former president of the United States fired up supporters Saturday night, criticizing the Biden administration’s handling of COVID-19, the troop withdrawal in Afghanistan and more.",
+      "sourceUrl": null,
+      "webUrl": "https://wbhm.org/feature/2021/donald-trumps-save-america-rally-packs-farm-near-cullman/",
+      "originalUrl": "https://wbhm.org/feature/2021/donald-trumps-save-america-rally-packs-farm-near-cullman/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wbhm.org/wp-content/uploads/2021/08/Phillips_screen_shot-771x397.png",
+          "width": 771,
+          "height": 397,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wbhm.org/feature/2021/donald-trumps-save-america-rally-packs-farm-near-cullman/amp/",
+      "cdnAmpWebUrl": "https://wbhm-org.cdn.ampproject.org/c/s/wbhm.org/feature/2021/donald-trumps-save-america-rally-packs-farm-near-cullman/amp/",
+      "publishedDateTime": "2021-08-22T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBHM",
+        "domain": "wbhm.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-22-tv-tonight-ruby-wax-revisits-her-time-with-donald-trump.md",
       "title": "TV tonight: Ruby Wax revisits her time with Donald Trump",
       "excerpt": "A nasty encounter with Donald Trump and much more in this entertaining new series. Plus: The Handmaid’s Tale ends. Here’s what to watch this evening",
@@ -1179,110 +1274,6 @@
       "topics": [
         "Election",
         "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-cnns-jeffrey-toobin-ripped-over-column-arguing-against-prosecuting-trump.md",
-      "title": "CNN’s Jeffrey Toobin ripped over column arguing against prosecuting Trump",
-      "excerpt": "CNN legal analyst Jeffrey Toobin is facing backlash on social media over a column urging Attorney General Merrick Garland not to seek criminal prosecution of former",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/08/18/jeffrey-toobin-ripped-over-column-arguing-against-prosecuting-trump/",
-      "originalUrl": "https://nypost.com/2021/08/18/jeffrey-toobin-ripped-over-column-arguing-against-prosecuting-trump/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/Jeffrey-Toobin-03.jpg?quality=90&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/08/18/jeffrey-toobin-ripped-over-column-arguing-against-prosecuting-trump/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/18/jeffrey-toobin-ripped-over-column-arguing-against-prosecuting-trump/amp/",
-      "publishedDateTime": "2021-08-18T07:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-pelosi-top-house-dems-wont-budge-in-infrastructure-tussle-with-moderates-tout-biden-support-for-her-rule.md",
-      "title": "Pelosi, top House Dems won't budge in infrastructure tussle with moderates, tout Biden support for her 'rule'",
-      "excerpt": "House Speaker Nancy Pelosi and her leadership team are mounting a pressure campaign on centrist Democrats to get them to support their party's budget resolution without a vote on the bipartisan infrastructure bill.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bn7C-UsrZ6g/pelosi-house-moderates-biden-infrastructure-budget-resolution-rule-democrats",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bn7C-UsrZ6g/pelosi-house-moderates-biden-infrastructure-budget-resolution-rule-democrats",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-house-moderates-biden-infrastructure-budget-resolution-rule-democrats.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-house-moderates-biden-infrastructure-budget-resolution-rule-democrats.amp",
-      "publishedDateTime": "2021-08-18T06:29:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

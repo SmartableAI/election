@@ -2,6 +2,118 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-29-who-is-deanne-criswell-bidens-fema-boss.md",
+      "title": "Who is Deanne Criswell, Biden’s FEMA boss?",
+      "excerpt": "As Louisiana and the Gulf Coast braced for Hurricane Ida, set to make landfall on Sunday potentially as a Category 4 storm, the Federal Emergency Management Agency (FEMA) was expected to play a key role in disaster relief. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5li4tKMQcHI/who-is-deanne-criswell-bidens-fema-boss",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5li4tKMQcHI/who-is-deanne-criswell-bidens-fema-boss",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9eae107d-7ab8-4997-b3b5-16388e743752/931d726d-8b7f-4176-ba05-327a3e199447/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/who-is-deanne-criswell-bidens-fema-boss.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-deanne-criswell-bidens-fema-boss.amp",
+      "publishedDateTime": "2021-08-28T23:38:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-28-al-sharpton-to-biden-black-community-is-being-stabbed-in-the-back.md",
+      "title": "Al Sharpton to Biden: Black community is being stabbed ‘in the back’",
+      "excerpt": "Rev. Al Sharpton hit the stage Saturday during a voting rights rally to tell President Biden that supporters of the filibuster are “stabbing” the Black community “in the back.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gon77kj4eIg/sharpton-tells-biden-black-community-is-being-stabbed-in-the-back",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gon77kj4eIg/sharpton-tells-biden-black-community-is-being-stabbed-in-the-back",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5f25869d-3024-4c4f-8742-1e0eef68548d/d6d6e7f0-f4c6-4a59-9ead-0fef08fc9201/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/sharpton-tells-biden-black-community-is-being-stabbed-in-the-back.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sharpton-tells-biden-black-community-is-being-stabbed-in-the-back.amp",
+      "publishedDateTime": "2021-08-28T16:58:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-29-howie-carr-think-joe-biden-is-bad-check-out-the-current-line-of-succession.md",
       "title": "Howie Carr: Think Joe Biden is bad? Check out the current line of succession",
       "excerpt": "Before you heed those calls to remove Dementia Joe Biden via either impeachment or the 25th amendment, remember the old saying: Be careful what you wish for.",
@@ -1135,92 +1247,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-joe-biden-taps-milwaukee-mayor-tom-barrett-as-luxembourg-ambassador.md",
-      "title": "Joe Biden taps Milwaukee Mayor Tom Barrett as Luxembourg ambassador",
-      "excerpt": "President Joe Biden has nominated Milwaukee Mayor Tom Barrett to serve as the next U.S. ambassador to Luxembourg. The White House announced the appointment Wednesday. Barrett still needs Senate confirmation to serve,",
-      "sourceUrl": null,
-      "webUrl": "https://madison.com/wsj/news/local/govt-and-politics/joe-biden-taps-milwaukee-mayor-tom-barrett-as-luxembourg-ambassador/article_b47200d8-fa17-585a-bf19-bedbbba2cfb0.html",
-      "originalUrl": "https://madison.com/wsj/news/local/govt-and-politics/joe-biden-taps-milwaukee-mayor-tom-barrett-as-luxembourg-ambassador/article_b47200d8-fa17-585a-bf19-bedbbba2cfb0.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/a/8e/a8e22aa7-34d2-5cbe-932a-23a5b81e1e76/610857733438e.preview.jpg?resize=1024%2C754",
-          "width": 1024,
-          "height": 754,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://madison.com/news/local/govt-and-politics/joe-biden-taps-milwaukee-mayor-tom-barrett-as-luxembourg-ambassador/article_b47200d8-fa17-585a-bf19-bedbbba2cfb0.amp.html",
-      "cdnAmpWebUrl": "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/govt-and-politics/joe-biden-taps-milwaukee-mayor-tom-barrett-as-luxembourg-ambassador/article_b47200d8-fa17-585a-bf19-bedbbba2cfb0.amp.html",
-      "publishedDateTime": "2021-08-26T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Madison.com",
-        "domain": "madison.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-lz-granderson-the-election-is-over-in-arizona-the-trump-campaign-continues.md",
-      "title": "LZ Granderson: The election is over. In Arizona, the Trump campaign continues",
-      "excerpt": "I would like to share with you a brief conversation about politics that I didn't want to have. But the man in the Arizona bar sitting a couple of stools",
-      "sourceUrl": null,
-      "webUrl": "https://www.bozemandailychronicle.com/ap_news/lz-granderson-the-election-is-over-in-arizona-the-trump-campaign-continues/article_cdb3fb76-1ebe-5f91-a594-75a4f2ef043f.html",
-      "originalUrl": "https://www.bozemandailychronicle.com/ap_news/lz-granderson-the-election-is-over-in-arizona-the-trump-campaign-continues/article_cdb3fb76-1ebe-5f91-a594-75a4f2ef043f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-26T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bozeman Daily Chronicle",
-        "domain": "bozemandailychronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

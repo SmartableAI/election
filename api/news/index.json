@@ -2,6 +2,105 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-04-biden-administrations-sept-20-booster-rollout-may-be-scaled-back-to-just-pfizer-covid-19-vaccine-at-first.md",
+      "title": "Biden administration's Sept. 20 booster rollout may be scaled back to just Pfizer Covid-19 vaccine at first",
+      "excerpt": "There have been internal conversations within the Biden administration about scaling back the ambitious booster plan laid out by top federal health officials last month as the calendar nears September 20, the date when booster shots may start to be offered.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/v_ruVvucPlQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/v_ruVvucPlQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210827142807-booster-shot-michican-0824-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/03/politics/booster-shots-covid-19-vaccines/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/03/politics/booster-shots-covid-19-vaccines/index.html",
+      "publishedDateTime": "2021-09-03T18:48:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-04-joe-biden-walks-storm-ravaged-louisiana-i-know-youre-hurting.md",
+      "title": "Joe Biden walks storm-ravaged Louisiana: “I know you’re hurting”",
+      "excerpt": "Less than a week after Hurricane Ida battered the Gulf Coast, President Joe Biden walked the streets of a hardhit Louisiana neighborhood on Friday and told local residents, “I know you’re hurting, I know you’re hurting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.denverpost.com/2021/09/03/joe-biden-walks-storm-ravaged-louisiana/",
+      "originalUrl": "https://www.denverpost.com/2021/09/03/joe-biden-walks-storm-ravaged-louisiana/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.denverpost.com/wp-content/uploads/2021/09/AP21246697540433.jpg?w=1024&#038;h=683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.denverpost.com/2021/09/03/joe-biden-walks-storm-ravaged-louisiana/amp/",
+      "cdnAmpWebUrl": "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/09/03/joe-biden-walks-storm-ravaged-louisiana/amp/",
+      "publishedDateTime": "2021-09-03T16:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Denver Post",
+        "domain": "denverpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-09-04-former-nyt-reporter-describes-secretive-industry-of-corporate-investigations-that-targeted-pharma-trump.md",
       "title": "Former NYT reporter describes secretive 'industry' of 'corporate investigations' that targeted, pharma, Trump",
       "excerpt": "Retired New York Times reporter Barry Meier joined Fox Nation's \"Tucker Carlson Today\" to discuss the impact corporate investigation firms have had on politics and business.",
@@ -1212,106 +1311,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-readers-react-why-are-pa-politicians-listening-to-trump.md",
-      "title": "Readers React: Why are Pa. politicians listening to Trump?",
-      "excerpt": "Reader: Instead of spending the money on alleged voter fraud, they should have hearings on senior citizens’ school tax relief.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mcall.com/opinion/readers-react/mc-opi-let-strisofsky-election-investigation-20210902-w6cxkb77rfc6td3bf3gja4def4-story.html",
-      "originalUrl": "https://www.mcall.com/opinion/readers-react/mc-opi-let-strisofsky-election-investigation-20210902-w6cxkb77rfc6td3bf3gja4def4-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mcall.com/resizer/CN-Feg5tqnrPPvST2lo5Z57fxrQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2PA43TU4FZERZHCE7GQB5D3JBU.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mcall.com/opinion/readers-react/mc-opi-let-strisofsky-election-investigation-20210902-w6cxkb77rfc6td3bf3gja4def4-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/opinion/readers-react/mc-opi-let-strisofsky-election-investigation-20210902-w6cxkb77rfc6td3bf3gja4def4-story.html?outputType=amp",
-      "publishedDateTime": "2021-09-02T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morning Call PA",
-        "domain": "mcall.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-psakis-tweet-on-trump-phone-call-with-ukraine-president-comes-back-to-haunt-her.md",
-      "title": "Psaki's tweet on Trump phone call with Ukraine president comes back to haunt her",
-      "excerpt": "An old tweet from White House Press Secretary Jen Psaki is coming back to haunt her amid reports of the controversial July phone call between President Biden and then-Afghan President Ashraf Ghani amid the military withdrawal from Afghanistan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/jen-psaki-tweet-trump-phone-call-ukraine",
-      "originalUrl": "https://www.foxnews.com/media/jen-psaki-tweet-trump-phone-call-ukraine",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6ba3eee9-d77a-430e-840a-54c72dfe78bf/914ba46a-c701-48bc-a60d-9d53749226fa/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/jen-psaki-tweet-trump-phone-call-ukraine.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/jen-psaki-tweet-trump-phone-call-ukraine.amp",
-      "publishedDateTime": "2021-09-02T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

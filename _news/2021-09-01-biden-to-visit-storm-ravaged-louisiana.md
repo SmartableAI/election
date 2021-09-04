@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/09/01/politics/biden-louisiana/index.ht
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/01/politics/biden-louisiana/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 166
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210901152946-01-jill-biden-dover-0829-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden pledges to support communities ravaged by Hurricane Ida: 'I promise to have your backs until this gets done'"
+    excerpt: "President Joe Biden is headed to Louisiana on Friday to survey damage from Hurricane Ida, after almost a week of the deadly storm ravaging the eastern half of the United States.\n    \n"
+    publishedDateTime: 2021-09-04T00:04:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vbv-IqXj3qo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/03/politics/biden-hurricane-ida-travel-louisiana/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/03/politics/biden-hurricane-ida-travel-louisiana/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 153
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210902140750-01-biden-ida-0902-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

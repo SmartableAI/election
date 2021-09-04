@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-26-ramesh-ponnuru-why-all-the-bad-press-for-joe-biden.md",
+      "title": "Ramesh Ponnuru: Why all the bad press for Joe Biden?",
+      "excerpt": "President Joe Biden’s handling of Afghanistan has few vocal defenders. What they lack in numbers, though, they make up for in unity of message: The press is being too hard",
+      "sourceUrl": null,
+      "webUrl": "https://greensboro.com/opinion/columnists/ramesh-ponnuru-why-all-the-bad-press-for-joe-biden/article_20501b14-05c7-11ec-b064-ff9806d41487.html",
+      "originalUrl": "https://greensboro.com/opinion/columnists/ramesh-ponnuru-why-all-the-bad-press-for-joe-biden/article_20501b14-05c7-11ec-b064-ff9806d41487.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/d/de/ddeab818-05c8-11ec-92ae-eb234dfa1a11/61267c6c32cbc.image.jpg",
+          "width": 1000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://greensboro.com/opinion/columnists/ramesh-ponnuru-why-all-the-bad-press-for-joe-biden/article_20501b14-05c7-11ec-b064-ff9806d41487.amp.html",
+      "cdnAmpWebUrl": "https://greensboro-com.cdn.ampproject.org/c/s/greensboro.com/opinion/columnists/ramesh-ponnuru-why-all-the-bad-press-for-joe-biden/article_20501b14-05c7-11ec-b064-ff9806d41487.amp.html",
+      "publishedDateTime": "2021-08-25T17:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News & Record",
+        "domain": "greensboro.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-26-biden-signs-us-rep-elissa-slotkins-paws-for-veterans-therapy-act-into-law.md",
       "title": "Biden signs U.S. Rep. Elissa Slotkin's PAWS for Veterans Therapy Act into law",
       "excerpt": "The program is set to begin on Jan. 1, 2022, at five VA locations. Slotkin is advocating that Michigan be one of them.",
@@ -1443,54 +1486,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-wh-reporters-roiled-by-spacing-constraints-excuse-to-limit-access-to-biden-qas.md",
-      "title": "WH reporters roiled by ‘spacing constraints’ excuse to limit access to Biden Q&As",
-      "excerpt": "President Joe Biden’s interactions with reporters in the White House East Room have resembled press conferences but his staff selects which reporters attend, citing “spacing",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/08/11/wh-journos-roiled-by-spacing-constraints-to-biden-pressers/",
-      "originalUrl": "https://nypost.com/2021/08/11/wh-journos-roiled-by-spacing-constraints-to-biden-pressers/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/white-house-reporters-roiled-434.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/08/11/wh-journos-roiled-by-spacing-constraints-to-biden-pressers/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/11/wh-journos-roiled-by-spacing-constraints-to-biden-pressers/amp/",
-      "publishedDateTime": "2021-08-11T16:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
