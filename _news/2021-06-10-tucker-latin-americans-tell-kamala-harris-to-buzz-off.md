@@ -48,6 +48,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Harris to campaign for Newsom in California next week"
+    excerpt: "Vice President Kamala Harris will campaign for California Gov. Gavin Newsom as his recall election looms two weeks away."
+    publishedDateTime: 2021-09-04T21:31:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8xXIRKZE8_o/harris-to-campaign-for-newsom-in-california-next-week"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/KAMALAHARRIS-BORDER-TRUMPVISIT.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "2aViepmxD3KLH0g95yp4PIzIjajMm+3iegDT3kEB+aHkTnyUmwMrMk9rSR2Pi/DK5x/FMO2mDT0ATY0pq1BO87/IUnbb28aryU/s1OGS9C1obdsjt/C3E25zLTh1KgwvQ+Mu4ubor6jkZ4Ly8rLgolHxe6NgLONXYhJBDxEu8aJTHNqWNwceBzLjigq+i7sSI3gDoZyrXtfQqMxMcbMz605oY4NhWAlVtPL6AM/4kDzddisu/UkI7VTerjoLN0tkmjeT3BZIzMT64yABj8pejUtt64UrenL2LswVekONjpjfrmw59QG6V49ayKVRX1bXHXKzHUf+UewQO/zLF5slaPT9S5k8VM+tIvPrWmw7+OaxO2bNTOMZ/IPmPzg8Mp543Y17IWHDuZrSFgiGDu+VKLnHG69qlzu6+FuBOjLZTIafTPNKiCxJyYUd/hHR6uTJqZqBIr4DM5h/ixaK++/fwacXf7O6QrKrcDvLzs84XfkgiZqWQL/mlU9gT3EVxphnXYh/nJixMQ4twIZFrT8l4Q==;Ah3O8m+vV/VltUVNGZi/6Q=="
 ---

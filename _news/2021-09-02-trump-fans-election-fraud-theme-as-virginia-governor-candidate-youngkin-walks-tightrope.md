@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/local/virginia-politics/trump-virgi
 webUrl: "https://www.washingtonpost.com/local/virginia-politics/trump-virginia-governor-youngkin-election/2021/09/01/c8583584-0b3b-11ec-aea1-42a8138f132a_story.html"
 type: article
 quality: 112
-heat: 152
+heat: 212
 published: true
 
 provider:
@@ -29,6 +29,38 @@ images:
     isCached: true
 
 related:
+  - title: "US Sen. Mike Rounds isn't convinced Donald Trump would win GOP nomination in 2024 election"
+    excerpt: "South Dakota U.S. Sen. Mike Rounds, in discussion with Sioux Falls Rotarians, speculated what might lie ahead for the Republican Party for 2024."
+    publishedDateTime: 2021-08-30T19:39:00Z
+    webUrl: "https://www.argusleader.com/story/news/2021/08/30/mike-rounds-2024-election-donald-trump-kristi-noem-republican-nomination-speculation/5653852001/"
+    ampWebUrl: "https://amp.argusleader.com/amp/5653852001"
+    cdnAmpWebUrl: "https://amp-argusleader-com.cdn.ampproject.org/c/s/amp.argusleader.com/amp/5653852001"
+    type: article
+    provider:
+      name: Argus Leader
+      domain: argusleader.com
+    quality: 80
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/20/PSIF/c96ac377-3e03-4c86-a475-a751d7dde2e0-Rounds_ChamberOfCommerce_003.JPG?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Georgia lieutenant governor declares independence from Trump"
+    excerpt: "Georgia’s Republican lieutenant governor is declaring independence from Donald Trump in a new book and urging other members of the GOP to follow. Geoff Duncan has been a target of heavy criticism from the former president and many other Republicans for his outspoken criticism of Trump’s efforts to overturn his presidential election loss."
+    publishedDateTime: 2021-09-04T01:05:00Z
+    webUrl: "https://www.seattlepi.com/news/article/Georgia-lieutenant-governor-declares-independence-16434184.php"
+    ampWebUrl: "https://www.seattlepi.com/news/amp/Georgia-lieutenant-governor-declares-independence-16434184.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Georgia-lieutenant-governor-declares-independence-16434184.php"
+    type: article
+    provider:
+      name: seattlepi.com
+      domain: seattlepi.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Trump-backed governor candidate walks a MAGA tightrope in Virginia"
     excerpt: "The crowd of about 300 Republican stalwarts in Norfolk, Virginia, included those wearing the requisite red baseball caps."
     publishedDateTime: 2021-08-24T08:00:00Z
@@ -54,6 +86,20 @@ related:
       name: The Island Packet
       domain: islandpacket.com
     quality: 55
+  - title: "Georgia lieutenant governor declares independence from Trump"
+    excerpt: "Georgia's Republican lieutenant governor is declaring independence from Donald Trump in a new book and urging other members of the GOP to follow."
+    publishedDateTime: 2021-09-04T21:00:00Z
+    webUrl: "https://www.timesfreepress.com/news/breakingnews/story/2021/sep/04/georgia-lieutenant-governor-declares-independence-trump/553599/"
+    type: article
+    provider:
+      name: Times Free Press
+      domain: timesfreepress.com
+    quality: 55
+    images:
+      - url: "https://media.timesfreepress.com/img/photos/2020/11/21/gettyimages6730117888056173115_t1070_h4f8727c87c1ac6b03ad2bdf68f3acdc7a0b141ab.jpg"
+        width: 1070
+        height: 713
+        isCached: true
 
 secured: "BQN0B2N46+IZMQPraNwm5O+ziyzbZH7AjCpk4tdmchQB1ph6szVaqHSKSF7S1OMDDPeKdwIWqwO3W1roG+PxSgwQrGqzUScGVMhLJOibi/X28zepHB0xnK7URWj73QhzsCDwTtxIdgWPf6owPZ3nmYXUrqQbutC18hpjt3v6hrlAGbYzMMzsfNrTnrrLyKxSNrJr5SLARD0fQzrf5s3N0LeNZVrGy2tfe/NqZ1+6xHVUE9hvmItPVYBOyYkNzeVriGzmzuP8cbDBHFtP7r0um8UhVcuOHabnI158EBjNtkOqpsaBDRsx4Q4ffGW/uaBh/RYHPV8l+ql8q3EjzGFYNJYFgRSJ+g3pHICP9FF1pX45ec8x5Q8dnVZNga6T8bhCnTw7w8+AsLLWXLe6SGP0M5Q4dO+g92DhNNoSxYx3SHPF0XkuSmGOX88WyZZidquHeEpZs4LLQjyqwcIajb3ixLqdvd7Zrk3epslIrh/+aNayQGxwnjDkuxBGT+Zkv8rMl6QXLimjaWD70ljXhY+IFQ==;TUzihWO9aO6Kp/xRjRKuOQ=="
 ---

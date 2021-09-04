@@ -39,6 +39,38 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "US Sen. Mike Rounds isn't convinced Donald Trump would win GOP nomination in 2024 election"
+    excerpt: "South Dakota U.S. Sen. Mike Rounds, in discussion with Sioux Falls Rotarians, speculated what might lie ahead for the Republican Party for 2024."
+    publishedDateTime: 2021-08-30T19:39:00Z
+    webUrl: "https://www.argusleader.com/story/news/2021/08/30/mike-rounds-2024-election-donald-trump-kristi-noem-republican-nomination-speculation/5653852001/"
+    ampWebUrl: "https://amp.argusleader.com/amp/5653852001"
+    cdnAmpWebUrl: "https://amp-argusleader-com.cdn.ampproject.org/c/s/amp.argusleader.com/amp/5653852001"
+    type: article
+    provider:
+      name: Argus Leader
+      domain: argusleader.com
+    quality: 80
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/20/PSIF/c96ac377-3e03-4c86-a475-a751d7dde2e0-Rounds_ChamberOfCommerce_003.JPG?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Georgia lieutenant governor declares independence from Trump"
+    excerpt: "Georgia’s Republican lieutenant governor is declaring independence from Donald Trump in a new book and urging other members of the GOP to follow. Geoff Duncan has been a target of heavy criticism from the former president and many other Republicans for his outspoken criticism of Trump’s efforts to overturn his presidential election loss."
+    publishedDateTime: 2021-09-04T01:05:00Z
+    webUrl: "https://www.seattlepi.com/news/article/Georgia-lieutenant-governor-declares-independence-16434184.php"
+    ampWebUrl: "https://www.seattlepi.com/news/amp/Georgia-lieutenant-governor-declares-independence-16434184.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Georgia-lieutenant-governor-declares-independence-16434184.php"
+    type: article
+    provider:
+      name: seattlepi.com
+      domain: seattlepi.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Trump backs Jones in Georgia, renews support for Walker"
     excerpt: "Former President Donald Trump put his thumb on the scale of Georgia Republican politics again Thursday, endorsing state Sen. Burt Jones in the GOP primary for lieutenant governor and reiterating his support for newly declared U."
     publishedDateTime: 2021-09-03T09:32:00Z
@@ -50,6 +82,20 @@ related:
       name: The Island Packet
       domain: islandpacket.com
     quality: 55
+  - title: "Georgia lieutenant governor declares independence from Trump"
+    excerpt: "Georgia's Republican lieutenant governor is declaring independence from Donald Trump in a new book and urging other members of the GOP to follow."
+    publishedDateTime: 2021-09-04T21:00:00Z
+    webUrl: "https://www.timesfreepress.com/news/breakingnews/story/2021/sep/04/georgia-lieutenant-governor-declares-independence-trump/553599/"
+    type: article
+    provider:
+      name: Times Free Press
+      domain: timesfreepress.com
+    quality: 55
+    images:
+      - url: "https://media.timesfreepress.com/img/photos/2020/11/21/gettyimages6730117888056173115_t1070_h4f8727c87c1ac6b03ad2bdf68f3acdc7a0b141ab.jpg"
+        width: 1070
+        height: 713
+        isCached: true
 
 secured: "TSNGyqhA5PG8Qkn/m4H+th56HzBmzbCIXCVqilW0CP3taov6mVqtrppFOhxWC/o/tV3p8QYx6g3E7g8mh8gvLCr2SMT17K7hP9JYS5Mw69lKySRMWSYTZR97x7c/mRskTwEv7G9TBUJDk8B+bymCwfaNZ9+WXCkCHQyOGn6AD25JVn5cZBm7w+aIj1ANHk9kHkOwY9P2upj8tSIpIGKT1X2MBKoA6r4v6YEZ5rogbIIOLG8VYK4SIdpkAF1b8bHSvQl19kdGUXNqYmJ8dKbr+I6ZakJDYok8jIi1vNacioepJoUXAN/m84Zwg/PgS95GzlwSz0rwCcsPrSSzeFjak0O7GL0aiFSAcF2MYd5g+58=;Yo+4Pi+mY3vaBNGl/Ol23w=="
 ---

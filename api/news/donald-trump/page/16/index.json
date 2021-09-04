@@ -2,6 +2,167 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-05-12-trump-endorses-florida-senate-president-simpson-for-agriculture-commissioner.md",
+      "title": "Trump endorses Florida Senate President Simpson for agriculture commissioner",
+      "excerpt": "Wilton has been a great supporter and worked hard to get many good Conservatives elected in Florida,\" the former president said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/states/florida/story/2021/05/11/trump-endorses-florida-senate-president-simpson-for-agriculture-commissioner-1381379",
+      "originalUrl": "https://www.politico.com/states/florida/story/2021/05/11/trump-endorses-florida-senate-president-simpson-for-agriculture-commissioner-1381379",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/95/ac/7f66be1541e29a09699304d68144/ap21061728747528-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-trump-family-members-got-inappropriately-close-to-secret-service-agents-book-claims.md",
+      "title": "Trump family members got ‘inappropriately close’ to Secret Service agents, book claims",
+      "excerpt": "Concerns over bonds involving Trump’s then daughter in-law Vanessa and daughter Tiffany revealed in Zero Fail by Carol Leonnig",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/may/11/trump-family-members-secret-service",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/may/11/trump-family-members-secret-service",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/11561139299edbc7f8d3970677ad92cbae9c2a7c/0_1_3914_2349/master/3914.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=edbad52088432403c9d2d0b917585123",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/may/11/trump-family-members-secret-service",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/11/trump-family-members-secret-service",
+      "publishedDateTime": "2021-05-11T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-british-elections-send-a-message-to-trump-gop-and-bidens-democrats.md",
+      "title": "British elections send a message to Trump, GOP and Biden’s Democrats",
+      "excerpt": "If Donald Trump were at all self-reflective, he would probably be kicking himself right now as he surveys the results of last week’s British elections. Through his own mistakes and obstinance in his handling of the coronavirus pandemic,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/british-elections-send-a-message-to-trump-gop-and-bidens-democrats/2021/05/10/40b7beec-b1d6-11eb-9059-d8176b9e3798_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/british-elections-send-a-message-to-trump-gop-and-bidens-democrats/2021/05/10/40b7beec-b1d6-11eb-9059-d8176b9e3798_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1495,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WSYQ6HFR7QI6XECZ3ALWXHRXTA.jpg&w=1440",
+          "width": 1440,
+          "height": 934,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/british-elections-send-a-message-to-trump-gop-and-bidens-democrats/2021/05/10/40b7beec-b1d6-11eb-9059-d8176b9e3798_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/british-elections-send-a-message-to-trump-gop-and-bidens-democrats/2021/05/10/40b7beec-b1d6-11eb-9059-d8176b9e3798_story.html?outputType=amp",
+      "publishedDateTime": "2021-05-11T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-donald-trump-endorses-texas-lt-gov-dan-patrick-for-reelection.md",
       "title": "Donald Trump endorses Texas Lt. Gov. Dan Patrick for reelection",
       "excerpt": "Former President Donald Trump endorsed Lt. Gov. Dan Patrick for reelection Monday, giving a top ally in Texas an early boost in his bid for a third term next year. \"Lieutenant Governor Dan Patrick is a great fighter for the people of Texas,",
@@ -1367,167 +1528,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-former-trump-official-zinke-eyes-montanas-new-us-house-seat.md",
-      "title": "Former Trump official Zinke eyes Montana's new US House seat",
-      "excerpt": "Former Montana congressman and Interior Secretary Ryan Zinke has filed election paperwork indicating he is interested in running for the second U.S. House seat awarded to the state",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/former-trump-official-zinke-eyes-montanas-new-us-house-seat/2021/04/29/1b910cc8-a924-11eb-a8a7-5f45ddcdf364_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/former-trump-official-zinke-eyes-montanas-new-us-house-seat/2021/04/29/1b910cc8-a924-11eb-a8a7-5f45ddcdf364_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VXGMRVVJE4I6XKFHL5C53TPTMQ.jpg&w=1440",
-          "width": 1440,
-          "height": 954,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/former-trump-official-zinke-eyes-montanas-new-us-house-seat/2021/04/29/1b910cc8-a924-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/former-trump-official-zinke-eyes-montanas-new-us-house-seat/2021/04/29/1b910cc8-a924-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp",
-      "publishedDateTime": "2021-04-29T14:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-manhattan-district-attorney-candidates-walk-tightrope-on-trump-probe.md",
-      "title": "Manhattan District Attorney Candidates Walk Tightrope on Trump Probe",
-      "excerpt": "For Manhattan district attorney candidates talking about their experience in white-collar crime cases has become a sort of proxy for indirectly addressing the Trump investigation, which is both the office’s biggest case and off limits for debate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/manhattan-district-attorney-candidates-walk-tightrope-on-trump-probe-11619704972",
-      "originalUrl": "https://www.wsj.com/articles/manhattan-district-attorney-candidates-walk-tightrope-on-trump-probe-11619704972",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-330783/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/manhattan-district-attorney-candidates-walk-tightrope-on-trump-probe-11619704972",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/manhattan-district-attorney-candidates-walk-tightrope-on-trump-probe-11619704972",
-      "publishedDateTime": "2021-04-29T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-a-great-patriot-trump-defends-giuliani-after-federal-agents-raid-home-and-office.md",
-      "title": "‘A great patriot’: Trump defends Giuliani after federal agents raid home and office",
-      "excerpt": "Investigators execute search warrants at Rudy Giuliani’s Manhattan residence and office as part of Ukraine investigation",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/apr/29/trump-defends-giuliani-federal-agents-raid-home-office",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/29/trump-defends-giuliani-federal-agents-raid-home-office",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/a7ca6fc53b3d122e1c03ee50ff448fe52a299bd4/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2d2e04564148c3da82d80b9ca8d6f2b9",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/29/trump-defends-giuliani-federal-agents-raid-home-office",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/29/trump-defends-giuliani-federal-agents-raid-home-office",
-      "publishedDateTime": "2021-04-29T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

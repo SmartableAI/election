@@ -2,6 +2,167 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-04-30-former-trump-official-zinke-eyes-montanas-new-us-house-seat.md",
+      "title": "Former Trump official Zinke eyes Montana's new US House seat",
+      "excerpt": "Former Montana congressman and Interior Secretary Ryan Zinke has filed election paperwork indicating he is interested in running for the second U.S. House seat awarded to the state",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/former-trump-official-zinke-eyes-montanas-new-us-house-seat/2021/04/29/1b910cc8-a924-11eb-a8a7-5f45ddcdf364_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/former-trump-official-zinke-eyes-montanas-new-us-house-seat/2021/04/29/1b910cc8-a924-11eb-a8a7-5f45ddcdf364_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VXGMRVVJE4I6XKFHL5C53TPTMQ.jpg&w=1440",
+          "width": 1440,
+          "height": 954,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/former-trump-official-zinke-eyes-montanas-new-us-house-seat/2021/04/29/1b910cc8-a924-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/former-trump-official-zinke-eyes-montanas-new-us-house-seat/2021/04/29/1b910cc8-a924-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp",
+      "publishedDateTime": "2021-04-29T14:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-manhattan-district-attorney-candidates-walk-tightrope-on-trump-probe.md",
+      "title": "Manhattan District Attorney Candidates Walk Tightrope on Trump Probe",
+      "excerpt": "For Manhattan district attorney candidates talking about their experience in white-collar crime cases has become a sort of proxy for indirectly addressing the Trump investigation, which is both the office’s biggest case and off limits for debate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/manhattan-district-attorney-candidates-walk-tightrope-on-trump-probe-11619704972",
+      "originalUrl": "https://www.wsj.com/articles/manhattan-district-attorney-candidates-walk-tightrope-on-trump-probe-11619704972",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-330783/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/manhattan-district-attorney-candidates-walk-tightrope-on-trump-probe-11619704972",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/manhattan-district-attorney-candidates-walk-tightrope-on-trump-probe-11619704972",
+      "publishedDateTime": "2021-04-29T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-a-great-patriot-trump-defends-giuliani-after-federal-agents-raid-home-and-office.md",
+      "title": "‘A great patriot’: Trump defends Giuliani after federal agents raid home and office",
+      "excerpt": "Investigators execute search warrants at Rudy Giuliani’s Manhattan residence and office as part of Ukraine investigation",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/apr/29/trump-defends-giuliani-federal-agents-raid-home-office",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/29/trump-defends-giuliani-federal-agents-raid-home-office",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/a7ca6fc53b3d122e1c03ee50ff448fe52a299bd4/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2d2e04564148c3da82d80b9ca8d6f2b9",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/29/trump-defends-giuliani-federal-agents-raid-home-office",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/29/trump-defends-giuliani-federal-agents-raid-home-office",
+      "publishedDateTime": "2021-04-29T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-cheney-wishful-thinking-by-trump-she-wont-seek-4th-term.md",
       "title": "Cheney: 'Wishful thinking' by Trump she won't seek 4th term",
       "excerpt": "Liz Cheney calls speculation by former President Donald Trump that she won’t seek re-election next year “wishful thinking.”",
@@ -1418,162 +1579,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-trump-campaign-chair-on-falling-poll-numbers-endorsing-paul-ryan.md",
-      "title": "Trump campaign chair on falling poll numbers, endorsing Paul Ryan",
-      "excerpt": "Donald Trump's campaign is on the defensive after a week full of controversies, including his feud with the family of a fallen soldier and comments about sexual harassment in the workplace. Trump campaign chairman Paul Manafort joins \"CBS This Morning\" to discuss Trump's refusal to endorse House Speaker Paul Ryan in the Wisconsin primary race and Trump's falling poll numbers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/donald-trump-campaign-chair-paul-manafort-on-falling-poll-numbers-endorsing-paul-ryan/",
-      "originalUrl": "https://www.cbsnews.com/video/donald-trump-campaign-chair-paul-manafort-on-falling-poll-numbers-endorsing-paul-ryan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/20/af036704-96ef-4a24-930d-8ed5ec0ab3d7/thumbnail/1200x630/130c383c4b86a1516ebc73e67e5b8fc3/0804-ctm-manafort-qanda-1102069-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/video/donald-trump-campaign-chair-paul-manafort-on-falling-poll-numbers-endorsing-paul-ryan/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/donald-trump-campaign-chair-paul-manafort-on-falling-poll-numbers-endorsing-paul-ryan/",
-      "publishedDateTime": "2021-04-20T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-trump-says-being-president-was-very-traumatic-but-he-loved-doing-it-because-he-helped-people.md",
-      "title": "Trump says being president was 'very traumatic' but he 'loved doing it' because he 'helped people'",
-      "excerpt": "\"I had a great life, great company, great business, no problems,\" Trump told Fox News. \"And now all I do is, people go after you. It's vicious.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-being-president-was-traumatic-but-he-enjoyed-helping-people-2021-4",
-      "originalUrl": "https://www.businessinsider.com/trump-being-president-was-traumatic-but-he-enjoyed-helping-people-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/607eca9574da0300181e2a86?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-being-president-was-traumatic-but-he-enjoyed-helping-people-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-being-president-was-traumatic-but-he-enjoyed-helping-people-2021-4?amp",
-      "publishedDateTime": "2021-04-20T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-trump-looking-beyond-seriously-at-2024-run.md",
-      "title": "Trump looking 'beyond seriously' at 2024 run",
-      "excerpt": "Former President Trump in an interview broadcast late Monday teased a run for the White House in 2024 but declined to give a definitive answer on if he has made the decision to pursue the Oval Office for a second time.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/549139-trump-looking-beyond-seriously-at-2024-run",
-      "originalUrl": "https://thehill.com/homenews/campaign/549139-trump-looking-beyond-seriously-at-2024-run",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/ca_trumplgbtqsuit_110420getty_0.jpg",
-          "width": 1440,
-          "height": 880,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/549139-trump-looking-beyond-seriously-at-2024-run?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/549139-trump-looking-beyond-seriously-at-2024-run?amp",
-      "publishedDateTime": "2021-04-20T04:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -35,6 +35,38 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "US Sen. Mike Rounds isn't convinced Donald Trump would win GOP nomination in 2024 election"
+    excerpt: "South Dakota U.S. Sen. Mike Rounds, in discussion with Sioux Falls Rotarians, speculated what might lie ahead for the Republican Party for 2024."
+    publishedDateTime: 2021-08-30T19:39:00Z
+    webUrl: "https://www.argusleader.com/story/news/2021/08/30/mike-rounds-2024-election-donald-trump-kristi-noem-republican-nomination-speculation/5653852001/"
+    ampWebUrl: "https://amp.argusleader.com/amp/5653852001"
+    cdnAmpWebUrl: "https://amp-argusleader-com.cdn.ampproject.org/c/s/amp.argusleader.com/amp/5653852001"
+    type: article
+    provider:
+      name: Argus Leader
+      domain: argusleader.com
+    quality: 80
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/20/PSIF/c96ac377-3e03-4c86-a475-a751d7dde2e0-Rounds_ChamberOfCommerce_003.JPG?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Georgia lieutenant governor declares independence from Trump"
+    excerpt: "Georgia’s Republican lieutenant governor is declaring independence from Donald Trump in a new book and urging other members of the GOP to follow. Geoff Duncan has been a target of heavy criticism from the former president and many other Republicans for his outspoken criticism of Trump’s efforts to overturn his presidential election loss."
+    publishedDateTime: 2021-09-04T01:05:00Z
+    webUrl: "https://www.seattlepi.com/news/article/Georgia-lieutenant-governor-declares-independence-16434184.php"
+    ampWebUrl: "https://www.seattlepi.com/news/amp/Georgia-lieutenant-governor-declares-independence-16434184.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Georgia-lieutenant-governor-declares-independence-16434184.php"
+    type: article
+    provider:
+      name: seattlepi.com
+      domain: seattlepi.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Trump-backed governor candidate walks a MAGA tightrope in Virginia"
     excerpt: "The crowd of about 300 Republican stalwarts in Norfolk, Virginia, included those wearing the requisite red baseball caps."
     publishedDateTime: 2021-08-24T08:00:00Z
@@ -48,6 +80,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Georgia lieutenant governor declares independence from Trump"
+    excerpt: "Georgia's Republican lieutenant governor is declaring independence from Donald Trump in a new book and urging other members of the GOP to follow."
+    publishedDateTime: 2021-09-04T21:00:00Z
+    webUrl: "https://www.timesfreepress.com/news/breakingnews/story/2021/sep/04/georgia-lieutenant-governor-declares-independence-trump/553599/"
+    type: article
+    provider:
+      name: Times Free Press
+      domain: timesfreepress.com
+    quality: 55
+    images:
+      - url: "https://media.timesfreepress.com/img/photos/2020/11/21/gettyimages6730117888056173115_t1070_h4f8727c87c1ac6b03ad2bdf68f3acdc7a0b141ab.jpg"
+        width: 1070
+        height: 713
         isCached: true
 
 secured: "ZBMk4YkBS+2qCHxQAmKu9/cH2zgBNjYuHmRkxkOviBQunttVg37+9WmurODP5WPGZLk1QwDCKiMRCHWq6psZAQ8L+7kUOp5Ul4gDm0ayysX51tVyH1YXk1D9aes0dMvFXQzljupcPbiV5TsxkQWWTmGxJS4dpUHWasEuyBNUTDlTIZ+mEPo3D4VP7eh5mTzmWBGz3/s4yRJZ65F742s6gXKgzWqmA3eK5WSFArVFW2+8YAf9EBu9vRMfQ98QjPv3FURGRF3jOKGiAddElO5GSGIk5pHbH0CgS4dob1/3zjthunEUD+QYTKB7jltt4FP8S7uToHF86tdlkjRXJqKp3Thu80SGrD5RPGs/TdoLpEE=;mPjpVfcynJWDaGr2aEB1ww=="

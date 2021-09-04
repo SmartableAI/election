@@ -267,6 +267,20 @@ related:
       name: Christian Science Monitor
       domain: csmonitor.com
     quality: 55
+  - title: "Trump in talks to sell rights to DC hotel, report says"
+    excerpt: "Former President Donald Trump is in talks with hotel chains and investors to sell the leasing rights to his hotel in Washington, Axios reported."
+    publishedDateTime: 2021-09-04T20:41:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/washington/trump-in-talks-to-sell-rights-to-dc-hotel-report-says/article_fd52bea7-3ba8-5ffd-971f-12128d08aa55.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "‘Time to Fight!’: Emails From Jan. 5 Show Secret Service Warned Capitol Police About Threat of Pro-Trump Violence"
     excerpt: "The Secret Service warned Capitol police about the threat of pro-Donald Trump violence in Washington on Jan. 5, one day before the insurrection, according to an email published Wednesday by Politico."
     publishedDateTime: 2021-08-25T12:18:00Z

@@ -2,6 +2,135 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-15-donald-trump-blasts-former-secretary-of-state-rex-tillerson-dumb-as-a-rock.md",
+      "title": "Donald Trump blasts former secretary of state Rex Tillerson; ‘Dumb as a rock’",
+      "excerpt": "President Trump denounced his former Secretary of State Thursday following reports Rex Tillerson quietly met with the House Foreign Affairs Committee and testified about his time in the Trump administration.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/donald-trump-europe-rex-tillerson-96b455a30118c4b2ac668418b27073f2",
+      "originalUrl": "https://apnews.com/article/donald-trump-europe-rex-tillerson-96b455a30118c4b2ac668418b27073f2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/ShareLogo2.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-14T20:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-14-newsom-paints-larry-elder-as-right-of-donald-trump-as-recall-election-heats-up.md",
+      "title": "Newsom paints Larry Elder as ‘right of Donald Trump’ as recall election heats up",
+      "excerpt": "Gov. Gavin Newsom was joined by prominent San Francisco politicians at Manny’s in San Francisco’s Mission District on Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eastbaytimes.com/2021/08/13/newsom-recall-election-heats-up-as-governor-and-candidates-hit-the-campaign-trail/",
+      "originalUrl": "https://www.eastbaytimes.com/2021/08/13/newsom-recall-election-heats-up-as-governor-and-candidates-hit-the-campaign-trail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2021/08/SJM-L-CAMPAIGN-0814-09-1.jpg?w=1024&#038;h=685",
+          "width": 1024,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eastbaytimes.com/2021/08/13/newsom-recall-election-heats-up-as-governor-and-candidates-hit-the-campaign-trail/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/08/13/newsom-recall-election-heats-up-as-governor-and-candidates-hit-the-campaign-trail/amp/",
+      "publishedDateTime": "2021-08-13T23:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-14-moscow-says-no-plans-to-discuss-edward-snowdens-status-during-trump-putin-summit.md",
+      "title": "Moscow says no plans to discuss Edward Snowden’s status during Trump-Putin summit",
+      "excerpt": "Russia's foreign minister on Friday cast doubt on the possibility of extraditing Edward Snowden, the fugitive former National Security Agency contractor who received political asylum from Moscow after leaking classified documents to the media in 2013.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/europe-summits-moscow-edward-snowden-be8e1b459165d0679b18d86e21d5deb7",
+      "originalUrl": "https://apnews.com/article/europe-summits-moscow-edward-snowden-be8e1b459165d0679b18d86e21d5deb7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/ShareLogo2.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-13T16:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-14-lamborn-dismissed-pandemic-as-hoax-meant-to-derail-trumps-reelection-ex-staffer-says-in-sworn-statement.md",
       "title": "Lamborn dismissed pandemic as hoax meant to derail Trump’s reelection, ex-staffer says in sworn statement",
       "excerpt": "Allegations that U.S. Rep. Doug Lamborn, R-Colorado Springs, fired a staffer in retaliation after the staffer sought to protect himself and others during the pandemic are true, another former",
@@ -1323,153 +1452,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-woke-means-you-lose-donald-trump-rails-at-uswnt-after-olympic-bronze.md",
-      "title": "‘Woke means you lose’: Donald Trump rails at USWNT after Olympic bronze",
-      "excerpt": "Donald Trump has taken aim at one of his favourite targets, the US national women’s soccer team, after they won bronze at Tokyo 2020",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/football/2021/aug/05/donald-trump-uswnt-usa-soccer-olympics-bronze-megan-rapinoe-tokyo-2020",
-      "originalUrl": "https://www.theguardian.com/football/2021/aug/05/donald-trump-uswnt-usa-soccer-olympics-bronze-megan-rapinoe-tokyo-2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/fc024b3640fb35fce3693f00f1ec177e42aa0322/0_77_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f73ba05b1fca33d077b94bd2db247dd8",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/football/2021/aug/05/donald-trump-uswnt-usa-soccer-olympics-bronze-megan-rapinoe-tokyo-2020",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/football/2021/aug/05/donald-trump-uswnt-usa-soccer-olympics-bronze-megan-rapinoe-tokyo-2020",
-      "publishedDateTime": "2021-08-05T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-trump-targeted-by-protesters-at-winged-foot-golf-club-in-mamaroneck.md",
-      "title": "Trump targeted by protesters at Winged Foot Golf Club in Mamaroneck",
-      "excerpt": "Former President Donald Trump was reportedly being honored at a tribute banquet at the Mamaroneck golf course, where people gathered to protest.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lohud.com/story/news/local/westchester/2021/08/05/winged-foot-banquet-trump-draws-protesters-westchester/5481261001/",
-      "originalUrl": "https://www.lohud.com/story/news/local/westchester/2021/08/05/winged-foot-banquet-trump-draws-protesters-westchester/5481261001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/08/04/PWES/dca1503e-9983-4e39-aa0a-2b3ebd94bb7a-sh080421Trump011.JPG?auto=webp&crop=4724,2658,x0,y46&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.lohud.com/amp/5481261001",
-      "cdnAmpWebUrl": "https://amp-lohud-com.cdn.ampproject.org/c/s/amp.lohud.com/amp/5481261001",
-      "publishedDateTime": "2021-08-04T17:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Journal News",
-        "domain": "lohud.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-cuomo-jams-democrats-with-trump-playbook-the-note.md",
-      "title": "Cuomo jams Democrats with Trump playbook: The Note",
-      "excerpt": "Gov. Andrew Cuomo is clinging to office by running plays made familiar by former President Trump, mixing indignant denials with what-aboutism and an instinct to fight.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/cuomo-jams-democrats-trump-playbook-note/story?id=79245633",
-      "originalUrl": "https://abcnews.go.com/Politics/cuomo-jams-democrats-trump-playbook-note/story?id=79245633",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/governor-como-gty-jt-210803_1628032388719_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/cuomo-jams-democrats-trump-playbook-note/story?id=79245633",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/cuomo-jams-democrats-trump-playbook-note/story?id=79245633",
-      "publishedDateTime": "2021-08-04T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

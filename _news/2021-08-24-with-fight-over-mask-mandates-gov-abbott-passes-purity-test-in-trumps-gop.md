@@ -256,6 +256,20 @@ related:
       name: Christian Science Monitor
       domain: csmonitor.com
     quality: 55
+  - title: "Trump in talks to sell rights to DC hotel, report says"
+    excerpt: "Former President Donald Trump is in talks with hotel chains and investors to sell the leasing rights to his hotel in Washington, Axios reported."
+    publishedDateTime: 2021-09-04T20:41:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/washington/trump-in-talks-to-sell-rights-to-dc-hotel-report-says/article_fd52bea7-3ba8-5ffd-971f-12128d08aa55.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Donald Trump Is Lashing Out Over An Investigation Into His ‘Mental Stability’ By The Jan. 6 Committee"
     excerpt: "Donald Trump lashed out at reports that the Jan. 6 commission has requested documents pertaining to his ’mental stability.’"
     publishedDateTime: 2021-08-26T20:58:00Z
