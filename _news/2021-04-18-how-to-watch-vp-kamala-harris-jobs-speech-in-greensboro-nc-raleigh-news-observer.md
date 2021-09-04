@@ -1513,6 +1513,20 @@ related:
       name: Biloxi Sun Herald
       domain: sunherald.com
     quality: 70
+  - title: "Rick Scott bashes Joe Biden, Kamala Harris over missing migrant youth"
+    excerpt: "Rick Scott issued a sharply worded rejoinder to President Joe Biden and Vice President Kamala Harris Friday over issues at the Mexican border. “We must secure our border NOW and account for every missing child handled by this administration."
+    publishedDateTime: 2021-09-03T22:40:00Z
+    webUrl: "https://floridapolitics.com/archives/455270-border-scott/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 70
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/05/Scott-1-scaled-e1624478902461.jpg"
+        width: 1280
+        height: 854
+        isCached: true
   - title: "Kamala Harris takes a seat at NC lunch counter where 4 students made history in 1960"
     excerpt: "The image said it all: the first Black vice president of the United States took a seat at the same Southern lunch counter where four Black college students helped spark the civil rights movement."
     publishedDateTime: 2021-04-20T14:07:00Z

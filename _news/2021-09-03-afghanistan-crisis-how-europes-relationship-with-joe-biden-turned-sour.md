@@ -1,24 +1,20 @@
 ---
 category: news
 title: "Afghanistan crisis: How Europe's relationship with Joe Biden turned sour"
-excerpt: "But in capitals across Europe, from London to Berlin, Afghanistan has soured the sweetness of Joe Biden's honeymoon. It's not the fact of the withdrawal itself that has rankled bu"
+excerpt: "A series of disagreements, most notably over Afghanistan, have some European leaders revising their expectations about President Joe Biden, and thinking more about a future untethered to the US. From a white-knuckle grip with Donald Trump to an arm on the shoulder with President Biden,"
 publishedDateTime: 2021-09-02T23:05:00Z
-originalUrl: "https://www.bbc.com/news/world-europe-58416848"
-webUrl: "https://www.bbc.com/news/world-europe-58416848"
-ampWebUrl: "https://www.bbc.com/news/world-europe-58416848.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-europe-58416848.amp"
+originalUrl: "https://www.bbc.co.uk/news/world-europe-58416848.amp"
+webUrl: "https://www.bbc.co.uk/news/world-europe-58416848.amp"
+ampWebUrl: "https://www.bbc.co.uk/news/world-europe-58416848.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-europe-58416848.amp"
 type: article
-quality: 124
+quality: 74
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - Election
@@ -307,6 +303,6 @@ related:
       domain: politifact.com
     quality: 20
 
-secured: "8woD40D/JJeQOgeVEmyAwydMuNKsVQO9p1O4X8Lys2vNx8bCyVfpFyX8SivbcTawG5Eyhid0+SSOi7MmJotBFJfo+WOZmZMS4JGZs4NVJxbvwq7LxFVi2iOuZ6TFxTVP83aVtEVp6cpB1kU+fkiAsQPlOJeP0sYDnhfLgh/d5Jn8iMz1DLGi4cvWa5DdI4Y6fqL3opnofEfwcRwh8Y37HPc/FNLl4VN0nkFuCRbju6R5D1EH4GopCprQo5z8KB9+Ogl0kqAwrHrGF2vYB+BARslfTXqB5H4euLZtGsThsP/lk5N9zoqTvJVpMNMVqurZkPEzvya19ngek2C+gQKbpLfOYpJaD6vCBsOcLyRelrnOqxlSMxahTNyByVhK/eyllPeKwwnjLf/S5dXDR4FedfGe1vETtFK2wuMXSUEsTNSmZZkJCMMKtyjwnAHs2smkLniilDuQXDXLtLvmFP79bkx1VAf4DIJlMa/IbUs6/FZxltu/RzKkATmHerwjcZSx65yJQFXNENaJhi6MHt/zhQ==;JE2ck+2J0sUVOmH9UOw8iA=="
+secured: "JoAS09W+DCawiGGTgcf3nMqsxdRHxrYbht45OsqeHMNcWJNGEcopdCQ9pKF7XC6VlA3ETk4k/b7xDhC8OWLVEg2e9WzbGE6ft148LYfZDo/CqtoEz6x1tjhLRx+qghukYAZZl9h9l+oLuCML6hUDzvu1gZ7hxiBiUbfMr79N6dFR45IxCojESVZv1Z7C15wd2Qg1U//JfuufoydXvEZiefFNEc6dfdq4hHMixKEljLyLlJTWh5jTdSK+eiNv7nYDNN/eiheskRig8r9BAsOIQ20ODslS1MkAwU23PEZPVfK08nEmIYaaeCApzR+tOT73wXDKzeKX36sgF7GMkToemz9EH7vvSjEFhi4s20ELXoU=;FzLcTKc9S5LraK1Ovm711w=="
 ---
 

@@ -2,6 +2,115 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-04-new-york-magazine-writer-blames-joe-manchin-for-putting-biden-presidency-in-mortal-danger.md",
+      "title": "New York magazine writer blames Joe Manchin for putting Biden presidency in 'mortal danger'",
+      "excerpt": "New York magazine writer Jonathan Chait seems to be laying the prospects of a “failed” Biden presidency completely at the feet of Sen. Joe Manchin, D-W.V.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/new-york-magazine-jonathan-chait-joe-manchin-joe-biden-failed-presidency",
+      "originalUrl": "https://www.foxnews.com/media/new-york-magazine-jonathan-chait-joe-manchin-joe-biden-failed-presidency",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/84cbe2ec-63e7-4008-aa74-acbea0e9018c/ea95b686-c2a1-471b-8002-0618380226ed/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/new-york-magazine-jonathan-chait-joe-manchin-joe-biden-failed-presidency.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-magazine-jonathan-chait-joe-manchin-joe-biden-failed-presidency.amp",
+      "publishedDateTime": "2021-09-03T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-04-joe-biden-tells-fbi-to-release-files-on-911-investigation-and-possible-saudi-links.md",
+      "title": "Joe Biden tells FBI to release files on 9/11 investigation – and possible Saudi links",
+      "excerpt": "Executive order responds to call by victims’ families suing Riyadh and full record to be released in tranches over six months after review",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/sep/03/joe-biden-fbi-release-files-september-11-investigation-saudi",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/sep/03/joe-biden-fbi-release-files-september-11-investigation-saudi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/2afe786b171b06152593796c77021fbd4e4b7fa2/0_273_8192_4918/master/8192.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=842cc989ad87363b86f05a1294087d6b",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/sep/03/joe-biden-fbi-release-files-september-11-investigation-saudi",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/sep/03/joe-biden-fbi-release-files-september-11-investigation-saudi",
+      "publishedDateTime": "2021-09-03T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-09-03-senator-joe-manchin-calls-for-pause-on-bidens-3-trillion-plan.md",
       "title": "Senator Joe Manchin calls for \"pause\" on Biden's $3 trillion plan",
       "excerpt": "Senator Joe Manchin called for a \"strategic pause\" on President Biden's $3.5 trillion reconciliation bill Thursday. And House Speaker Nancy Pelosi vowed to bring a bill guaranteeing abortion access before the House for a vote later this month.",
@@ -1350,101 +1459,6 @@
         "name": "News & Record",
         "domain": "greensboro.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-biden-signs-us-rep-elissa-slotkins-paws-for-veterans-therapy-act-into-law.md",
-      "title": "Biden signs U.S. Rep. Elissa Slotkin's PAWS for Veterans Therapy Act into law",
-      "excerpt": "The program is set to begin on Jan. 1, 2022, at five VA locations. Slotkin is advocating that Michigan be one of them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livingstondaily.com/story/news/local/community/livingston-county/2021/08/25/paws-veterans-therapy-act-slotkin-biden-law/5592741001/",
-      "originalUrl": "https://www.livingstondaily.com/story/news/local/community/livingston-county/2021/08/25/paws-veterans-therapy-act-slotkin-biden-law/5592741001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/12/09/PLID/cdeb9b18-d5ab-46a1-b3f5-f02fba7e0e65-Blue_Star_Service_Dogs_01.jpg?auto=webp&crop=1932,1087,x1,y77&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.livingstondaily.com/amp/5592741001",
-      "cdnAmpWebUrl": "https://amp-livingstondaily-com.cdn.ampproject.org/c/s/amp.livingstondaily.com/amp/5592741001",
-      "publishedDateTime": "2021-08-25T16:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Livingston Daily",
-        "domain": "livingstondaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-beto-orourke-pushes-joe-biden-to-help-pass-federal-voting-bill.md",
-      "title": "Beto O'Rourke pushes Joe Biden to help pass federal voting bill",
-      "excerpt": "Former Congressman Beto O’Rourke is using his political platform to turn up the heat on President Joe Biden on voting rights legislation that is unlikely to pass the U.S. Senate, laying the fate of the legislation squarely at Biden’s feet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/politics/texas/article/Beto-O-Rourke-pushes-Joe-Biden-to-help-pass-16411342.php",
-      "originalUrl": "https://www.houstonchronicle.com/politics/texas/article/Beto-O-Rourke-pushes-Joe-Biden-to-help-pass-16411342.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 665,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/21/46/51/21391940/3/400x0.jpg",
-          "width": 400,
-          "height": 266,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.houstonchronicle.com/politics/texas/amp/Beto-O-Rourke-pushes-Joe-Biden-to-help-pass-16411342.php",
-      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Beto-O-Rourke-pushes-Joe-Biden-to-help-pass-16411342.php",
-      "publishedDateTime": "2021-08-25T10:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

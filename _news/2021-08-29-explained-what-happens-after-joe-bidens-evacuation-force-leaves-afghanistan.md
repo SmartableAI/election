@@ -59,22 +59,6 @@ related:
         width: 2500
         height: 1588
         isCached: true
-  - title: "Afghanistan crisis: How Europe's relationship with Joe Biden turned sour"
-    excerpt: "But in capitals across Europe, from London to Berlin, Afghanistan has soured the sweetness of Joe Biden's honeymoon. It's not the fact of the withdrawal itself that has rankled bu"
-    publishedDateTime: 2021-09-02T23:05:00Z
-    webUrl: "https://www.bbc.com/news/world-europe-58416848"
-    ampWebUrl: "https://www.bbc.com/news/world-europe-58416848.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-europe-58416848.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 124
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/885B/production/_120370943_gettyimages-1233447987.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Joe Biden's Approval Rating Tanks as 60 Percent Disapprove of Afghanistan Handling: Poll"
     excerpt: "The president's approval rating now stands at just 44 percent despite most Americans favoring leaving Afghanistan."
     publishedDateTime: 2021-09-03T12:27:00Z
@@ -170,6 +154,22 @@ related:
       - url: "https://cdn.christianpost.com/files/cache/image/14/32/143258_w_450_300.jpg"
         width: 450
         height: 300
+        isCached: true
+  - title: "Afghanistan crisis: How Europe's relationship with Joe Biden turned sour"
+    excerpt: "A series of disagreements, most notably over Afghanistan, have some European leaders revising their expectations about President Joe Biden, and thinking more about a future untethered to the US. From a white-knuckle grip with Donald Trump to an arm on the shoulder with President Biden,"
+    publishedDateTime: 2021-09-02T23:05:00Z
+    webUrl: "https://www.bbc.co.uk/news/world-europe-58416848.amp"
+    ampWebUrl: "https://www.bbc.co.uk/news/world-europe-58416848.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-europe-58416848.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 74
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/885B/production/_120370943_gettyimages-1233447987.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Biden addresses Hurricane Ida as more than 5,000 National Guard troops activated"
     excerpt: "President Joe Biden met virtually Monday with mayors and governors in areas hit hard by Hurricane Ida to discuss the response and the breadth of the"

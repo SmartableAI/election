@@ -2,6 +2,166 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-08-13-desantis-faced-with-covid-surge-urges-floridians-to-use-regeneron-antibody-treatment-given-to-trump.md",
+      "title": "DeSantis, faced with covid surge, urges Floridians to use Regeneron antibody treatment given to Trump",
+      "excerpt": "Ron DeSantis (R) is vowing to begin dispensing Regeneron monoclonal antibodies — the treatment given to President Donald Trump when he had the coronavirus — through mobile clinics amid a record-breaking stretch of new cases and hospitalizations that have ravaged the state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/08/13/desantis-regeneron-florida-covid-antibodies/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/08/13/desantis-regeneron-florida-covid-antibodies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GPLFBEH3EII6XEI4KJF4RNUPC4.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-13T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-biden-sending-envoy-to-ethiopia-amid-tigray-conflict.md",
+      "title": "Biden sending envoy to Ethiopia amid Tigray conflict",
+      "excerpt": "President Biden is sending his special envoy for the Horn of Africa to Ethiopia amid ongoing fighting in Tigray.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/international/middle-east-north-africa/567714-biden-sending-envoy-to-ethiopia-amid-tigray",
+      "originalUrl": "https://thehill.com/policy/international/middle-east-north-africa/567714-biden-sending-envoy-to-ethiopia-amid-tigray",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/feltmanjeffrey_42321_gettyimages.jpg",
+          "width": 781,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/international/middle-east-north-africa/567714-biden-sending-envoy-to-ethiopia-amid-tigray?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/international/middle-east-north-africa/567714-biden-sending-envoy-to-ethiopia-amid-tigray?amp",
+      "publishedDateTime": "2021-08-13T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-how-the-2020-census-explains-donald-trump.md",
+      "title": "How the 2020 census explains Donald Trump ",
+      "excerpt": "Donald Trump got it.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lvBgHNT3FmE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lvBgHNT3FmE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 435,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210811193752-trump-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/13/politics/how-the-2020-census-explains-donald-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/13/politics/how-the-2020-census-explains-donald-trump/index.html",
+      "publishedDateTime": "2021-08-13T04:42:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-bad-news-for-trump-adjacent-weirdos-delights-seth-meyers.md",
       "title": "Bad News for ‘Trump-Adjacent Weirdos’ Delights Seth Meyers",
       "excerpt": "Meyers enjoyed seeing Mike Lindell get word on camera that a defamation suit against him over his claims of election fraud would proceed.",
@@ -1171,140 +1331,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-wh-reporters-roiled-by-spacing-constraints-excuse-to-limit-access-to-biden-qas.md",
-      "title": "WH reporters roiled by ‘spacing constraints’ excuse to limit access to Biden Q&As",
-      "excerpt": "President Joe Biden’s interactions with reporters in the White House East Room have resembled press conferences but his staff selects which reporters attend, citing “spacing",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/08/11/wh-journos-roiled-by-spacing-constraints-to-biden-pressers/",
-      "originalUrl": "https://nypost.com/2021/08/11/wh-journos-roiled-by-spacing-constraints-to-biden-pressers/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/white-house-reporters-roiled-434.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/08/11/wh-journos-roiled-by-spacing-constraints-to-biden-pressers/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/11/wh-journos-roiled-by-spacing-constraints-to-biden-pressers/amp/",
-      "publishedDateTime": "2021-08-11T16:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-cherokee-chief-chuck-hoskin-touts-rural-broadband-in-teleconference-with-president-joe-biden.md",
-      "title": "Cherokee Chief Chuck Hoskin touts rural broadband in teleconference with President Joe Biden",
-      "excerpt": "Hoskin said the Cherokee Nation is applying for a federal connectivity grant program that would be expanded under the bill that passed the Senate but still must get through a",
-      "sourceUrl": null,
-      "webUrl": "https://tulsaworld.com/news/state-and-regional/govt-and-politics/cherokee-chief-chuck-hoskin-touts-rural-broadband-in-teleconference-with-president-joe-biden/article_7ef85f06-fab8-11eb-8ba6-eb77f3690d9c.html",
-      "originalUrl": "https://tulsaworld.com/news/state-and-regional/govt-and-politics/cherokee-chief-chuck-hoskin-touts-rural-broadband-in-teleconference-with-president-joe-biden/article_7ef85f06-fab8-11eb-8ba6-eb77f3690d9c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/f/ef/fef397b8-faf2-11eb-89a6-a781dabf88c5/605118c90d55c.image.jpg?resize=1024%2C682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tulsaworld.com/news/state-and-regional/govt-and-politics/cherokee-chief-chuck-hoskin-touts-rural-broadband-in-teleconference-with-president-joe-biden/article_7ef85f06-fab8-11eb-8ba6-eb77f3690d9c.amp.html",
-      "cdnAmpWebUrl": "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/state-and-regional/govt-and-politics/cherokee-chief-chuck-hoskin-touts-rural-broadband-in-teleconference-with-president-joe-biden/article_7ef85f06-fab8-11eb-8ba6-eb77f3690d9c.amp.html",
-      "publishedDateTime": "2021-08-11T15:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tulsa World",
-        "domain": "tulsaworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-for-biden-and-senators-a-sense-that-world-was-watching.md",
-      "title": "For Biden and senators, a sense that 'world was watching'",
-      "excerpt": "Biden recalled infrastructure as “probably the least difficult thing to do” when he was a senator — became an exercise in showing how damaged the legislative process has become in partisan Washington and how a president and core group of senators were determined to try to fix it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lmtonline.com/news/article/For-Biden-and-senators-a-sense-that-world-was-16378709.php",
-      "originalUrl": "https://www.lmtonline.com/news/article/For-Biden-and-senators-a-sense-that-world-was-16378709.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.lmtonline.com/news/amp/For-Biden-and-senators-a-sense-that-world-was-16378709.php",
-      "cdnAmpWebUrl": "https://www-lmtonline-com.cdn.ampproject.org/c/s/www.lmtonline.com/news/amp/For-Biden-and-senators-a-sense-that-world-was-16378709.php",
-      "publishedDateTime": "2021-08-11T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Laredo Morning Times",
-        "domain": "lmtonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Trump's backing lands early in wide-open US Senate race"
-excerpt: "The most sought after endorsement in Pennsylvania's wide-open Republican primary for U.S. Senate went early to Sean Parnell, but the backing of former President Donald Trump"
-publishedDateTime: 2021-09-03T20:44:00Z
-originalUrl: "https://www.bgdailynews.com/news/politics/trumps-backing-lands-early-in-wide-open-us-senate-race/article_b60a9061-2881-5d61-aab0-44be16aa18ad.html"
-webUrl: "https://www.bgdailynews.com/news/politics/trumps-backing-lands-early-in-wide-open-us-senate-race/article_b60a9061-2881-5d61-aab0-44be16aa18ad.html"
+title: "Trump’s backing lands early in wide-open US Senate race"
+excerpt: "The most sought-after endorsement in Pennsylvania’s wide-open Republican primary for U.S. Senate went early to Sean Parnell"
+publishedDateTime: 2021-09-03T22:19:00Z
+originalUrl: "https://www.mcall.com/news/pennsylvania/mc-pa-election-2022-senate-pennsylvania-20210903-6lwa5jdfnngyfpu4cikqfbfhqa-story.html"
+webUrl: "https://www.mcall.com/news/pennsylvania/mc-pa-election-2022-senate-pennsylvania-20210903-6lwa5jdfnngyfpu4cikqfbfhqa-story.html"
+ampWebUrl: "https://www.mcall.com/news/pennsylvania/mc-pa-election-2022-senate-pennsylvania-20210903-6lwa5jdfnngyfpu4cikqfbfhqa-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/news/pennsylvania/mc-pa-election-2022-senate-pennsylvania-20210903-6lwa5jdfnngyfpu4cikqfbfhqa-story.html?outputType=amp"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Bowling Green Daily News
-  domain: bgdailynews.com
+  name: Morning Call PA
+  domain: mcall.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/bgdailynews.com/content/tncms/custom/image/5f9f4c50-c126-11e4-999e-83ffe8e0c765.jpg"
+  - url: "https://www.mcall.com/resizer/dw9nzbidhNPE4iIRpDCVOJIuwB8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SCER6JSKEYKGMTIQT5VEL33LLQ.jpg"
     width: 1200
-    height: 630
+    height: 800
     isCached: true
 
 related:
@@ -72,6 +74,6 @@ related:
         height: 267
         isCached: true
 
-secured: "Ajjl8Uguy8ng+BcnUw1Pf97+MX4/voS4AGBWfS31qnlY7n0fQaM2apUYD8ywzabDDpRp8iwqLZfxOr3hRv2fTkxpfogghbzZjEutISmw1ZFM6ioHy1lt634i5ayJrUOOs7o+emWS/PLxF7OiaFs8Bt6Sq0vSdu5eKh7LHAL5DyYgvjV2kTD5gyycfgr93kBfp1ezgXWE630jZc7L8HoUmqwkOfcYDnZI7ov0Xm2R8HmFSA5bnqivfNv1ekLqcmvFfFNfW731EhEhPnzKISXlfhitxMYsItmrJLBYK0/OK8Qlj1SeenqM+6mkLdUo3mBwGYBYg4RdUw3JILBXSD9Gk/X1FIhGihQaOONsFfCyqNg=;3JS99m6CWcaWgEl4/h0RIQ=="
+secured: "Y1kqU+QcloOiJ3g59h9wCTz14RcigSWFGw5eBPwD+TvtX02oxfn6e2UeroGJGJ61b7flRmi5aDpH08YHyso/6v1CxXfQQ4BOaZXYzgF2nNzk6/jn2D3PZ3G5Fh56nBjfZZ0fkplPOrp3vc2t+2Nb9ObW5qTfWa5eqTToTpoFIeH61M+5bFcXd0S3CEX8A+PvinK/CNc1grQWgGlUdueQdeaFIunEfPD1mDZHU5Oyl11Gkm6Y+VirxZl2ZS5Q0kZ59Vx+JOF+wOUVTB1cqUIBdpqP/d3rbPx8CJxNUdKy5sNif+VbOOs8TdZsNlWl4sGW5uz9pcfCu67AUqki1E9lQTPQce/KvzRobwAGouvJNyc=;ZvSjV6lFVQKTSh46dvVzBA=="
 ---
 

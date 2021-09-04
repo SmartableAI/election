@@ -61,19 +61,21 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "Trump's backing lands early in wide-open US Senate race"
-    excerpt: "The most sought after endorsement in Pennsylvania's wide-open Republican primary for U.S. Senate went early to Sean Parnell, but the backing of former President Donald Trump"
-    publishedDateTime: 2021-09-03T20:44:00Z
-    webUrl: "https://www.bgdailynews.com/news/politics/trumps-backing-lands-early-in-wide-open-us-senate-race/article_b60a9061-2881-5d61-aab0-44be16aa18ad.html"
+  - title: "Trump’s backing lands early in wide-open US Senate race"
+    excerpt: "The most sought-after endorsement in Pennsylvania’s wide-open Republican primary for U.S. Senate went early to Sean Parnell"
+    publishedDateTime: 2021-09-03T22:19:00Z
+    webUrl: "https://www.mcall.com/news/pennsylvania/mc-pa-election-2022-senate-pennsylvania-20210903-6lwa5jdfnngyfpu4cikqfbfhqa-story.html"
+    ampWebUrl: "https://www.mcall.com/news/pennsylvania/mc-pa-election-2022-senate-pennsylvania-20210903-6lwa5jdfnngyfpu4cikqfbfhqa-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/news/pennsylvania/mc-pa-election-2022-senate-pennsylvania-20210903-6lwa5jdfnngyfpu4cikqfbfhqa-story.html?outputType=amp"
     type: article
     provider:
-      name: Bowling Green Daily News
-      domain: bgdailynews.com
-    quality: 55
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 75
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bgdailynews.com/content/tncms/custom/image/5f9f4c50-c126-11e4-999e-83ffe8e0c765.jpg"
+      - url: "https://www.mcall.com/resizer/dw9nzbidhNPE4iIRpDCVOJIuwB8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SCER6JSKEYKGMTIQT5VEL33LLQ.jpg"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
 
 secured: "A08qZwO3D3X9Nws0OXoAgYfuLkd6LwvnXuCJ3pzWlZfiS5PrnV28LnakrCk6s2t7KKwkenGuea/ZSt6nFUa5FulsbVv7ArtD/EP7fOl1zfjr5VhzaB9kfBy3FXTcaXztIIVzWVDQkw2spD7FP46/XEKrO32H+MjkWIilMa2vrYcUGOnaJAclp3XkCiFjld1k7cJC0qED1JmyYekQuy+E8CWAF33aPxVaEksRGYdX0DMGa7Y48/y8uvITPJmz5T4O2NVvTzmy1RV6+ZjhFpx4ExB/h7Jy91nkCa5RYPoe9c/7WOyB/hv1JhnDW21bNYzUpEvDR37g03iuqxghmwn0vNMdHa8dwgAVqGiQVGqOeBj4pZvmQre8hXA5/UgnH3uObsqM6BE/duIMpSRZE37LUSeMpG2WNuh8DP5zSpDWBEn82quuZURNk3hwcNQ+giNABZ/eHLCTGb7pvitbgGh23aIa3BQxc7lDb9qeAJpovbKP95CyxAe1+lBlSK07SsV5hkEV+b6UL6/uWwUmbo69hw==;wS49ZO9ZeOrDJ5+0mBcmGQ=="
