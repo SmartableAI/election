@@ -2,6 +2,62 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-08-24-biden-to-be-briefed-on-intelligence-community-covid-origin-review-as-early-as-tuesday.md",
+      "title": "Biden to be briefed on intelligence community COVID origin review as early as Tuesday",
+      "excerpt": "President Biden is expected to receive a briefing on the origin of COVID-19 from the intelligence community as early as Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/w8cHGmkP3wo/biden-intelligence-community-covid-origin-briefing",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/w8cHGmkP3wo/biden-intelligence-community-covid-origin-briefing",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/22536f17-09ba-4d70-ae31-7ee07e4a136e/f73683b7-0a76-4287-b5b0-389dbed633dd/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-intelligence-community-covid-origin-briefing.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-intelligence-community-covid-origin-briefing.amp",
+      "publishedDateTime": "2021-08-24T07:31:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-trump-calls-on-florida-judge-to-help-reinstate-his-youtube-account.md",
       "title": "Trump calls on Florida judge to help reinstate his Youtube account",
       "excerpt": "Former President Donald Trump on Monday asked a Florida judge to issue a preliminary injunction in his case against YouTube that would compel the company to reinstate his access to the platform.",
@@ -1238,58 +1294,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-when-ruby-wax-met-review-excruciating-outpourings-from-oj-simpson-donald-trump-and-more.md",
-      "title": "When Ruby Wax Met … review – excruciating outpourings from OJ Simpson, Donald Trump and more",
-      "excerpt": "From a menacing Trump to OJ Simpson trying to stab her with a banana, Wax looks back at her interview hits and misses – and it makes for jaw-dropping, fascinating TV",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/tv-and-radio/2021/aug/22/when-ruby-wax-met-review-donald-trump-oj-simpson",
-      "originalUrl": "https://www.theguardian.com/tv-and-radio/2021/aug/22/when-ruby-wax-met-review-donald-trump-oj-simpson",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/e0adb2adc2e690e3978a53ba6379935b6b24bec0/0_283_4264_2558/master/4264.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=41457bdff99edca6dc9affc11c3661b6",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/tv-and-radio/2021/aug/22/when-ruby-wax-met-review-donald-trump-oj-simpson",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/tv-and-radio/2021/aug/22/when-ruby-wax-met-review-donald-trump-oj-simpson",
-      "publishedDateTime": "2021-08-22T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

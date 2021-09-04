@@ -2,29 +2,27 @@
 category: news
 title: "Trump's backing lands early in wide-open US Senate race"
 excerpt: "Trump's endorsement, issued in a statement Wednesday afternoon, came early in the race, nearly nine months before next May's primary in what is expected to be one of the nation’s most competitive Senate contests in next year’s election."
-publishedDateTime: 2021-09-04T01:58:00Z
-originalUrl: "https://www.nhregister.com/news/article/Trump-s-backing-lands-early-in-wide-open-US-16434611.php"
-webUrl: "https://www.nhregister.com/news/article/Trump-s-backing-lands-early-in-wide-open-US-16434611.php"
-ampWebUrl: "https://www.nhregister.com/news/amp/Trump-s-backing-lands-early-in-wide-open-US-16434611.php"
-cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Trump-s-backing-lands-early-in-wide-open-US-16434611.php"
+publishedDateTime: 2021-09-04T02:58:00Z
+originalUrl: "https://www.houstonchronicle.com/news/article/Trump-s-backing-lands-early-in-wide-open-US-16434611.php"
+webUrl: "https://www.houstonchronicle.com/news/article/Trump-s-backing-lands-early-in-wide-open-US-16434611.php"
+ampWebUrl: "https://www.houstonchronicle.com/news/amp/Trump-s-backing-lands-early-in-wide-open-US-16434611.php"
+cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Trump-s-backing-lands-early-in-wide-open-US-16434611.php"
 type: article
-quality: 75
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: New Haven Register
-  domain: nhregister.com
+  name: Houston Chronicle
+  domain: houstonchronicle.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
-    isCached: true
 
 related:
   - title: "Jack Nicklaus on if Tiger Woods will play again, supporting Donald Trump and needing a cane"
@@ -74,6 +72,6 @@ related:
         height: 267
         isCached: true
 
-secured: "kBjKUQsH+d/0xYcMpnyeJYDyQENdNf9bwMhwccPDZH6E/84JL/sqXGW1gnFKtzRuUcbmCqryvF6tC2V/pt5sXCy2PZcHZuhD4S1QVFsDkcB5JASk0Pw668XKUcT+Tuuv+5sdGKlajnte0vzXsQCcO/wZ1tcezO7TKvd1glXLRffXWWzosQWLfa8mm47ZCbaEQvFzUyO4qf4wrjRRYT/ck3dcedCwgp71GTmHpSuZMM2pl0TxRQJslh8ArkhTTOY1/4lpZ3t2cwW+bcebCt+DJo5SUHazi2Y7lTMiWNvz5+iJ6wxzN9LmzbXGC9RuHGJOq1z2Ukd/7WUZ3qLXREs7O4YQqPvOaorx4KZapPBt0JY=;tBoBEJ9tUkoY2pLEBMd5gA=="
+secured: "FCx8FiNOqkUzupwnsIP5F6eczNUK0Fqk3x89aci6DvmtyQepxCUtmEmq53slpcvGdgzzvshJ932ztfKJh6ib/pmIDPmjW/v5slX0ZOk6DcrYKfV/xcyK9AUQeYm78Xz3oVAHU3i7yk5NoWppuI3ck9+HPGIGvKljugvt4Gn49ohNdOw7x1t8YnGQp0I/4LELoIKKJ5xihU/P5Cw2iI0F6nqC1Vo58MEjC5BMiPYEjRovh3p8e9wj/HGAc2wUnh+Npc5U5j4i+bFkt/QIzQHIGonmEf0+Tr9YDzR7nARcsKFA5xBnP7GIeTaw8j17p9XWM9QfHFnFJr9oGKwAEf/OMry27hWX0OOgPvUgJ1QoYDs=;w5v28riEaCPaX4i970iQJA=="
 ---
 

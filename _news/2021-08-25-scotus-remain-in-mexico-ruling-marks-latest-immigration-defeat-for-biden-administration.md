@@ -47,22 +47,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "20 states sue Biden admin over guidance allowing biological males on girls’ sports teams"
-    excerpt: "Twenty states have filed a lawsuit against the Biden administration in an attempt to halt directives that extend federal sex discrimination protections to transgender people."
-    publishedDateTime: 2021-08-31T16:49:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cTAwnprt4WU/20-states-sue-biden-admin-biological-males-girls-sports-teams"
-    ampWebUrl: "https://www.foxnews.com/politics/20-states-sue-biden-admin-biological-males-girls-sports-teams.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/20-states-sue-biden-admin-biological-males-girls-sports-teams.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17d03a4d-b676-45f8-a470-769625091d70/1492c709-10eb-419f-8345-d50968bbe61c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Biden Education Department opens civil rights investigations into 5 states for banning school mask mandates"
     excerpt: "The U.S. Department of Education is opening an investigation into whether prohibitions on indoor masking mandates constitute discrimination against kids with disabilities."
     publishedDateTime: 2021-08-30T17:39:15Z

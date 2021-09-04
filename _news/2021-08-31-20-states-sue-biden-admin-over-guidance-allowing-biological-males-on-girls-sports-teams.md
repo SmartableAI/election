@@ -31,67 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Biden administration guidance limiting ICE arrests sees pushback from 16 states"
-    excerpt: "A coalition of 16 attorneys general is pushing back against \"interim guidance\" issued under President Biden’s administration which limits the number of deportations and immigration-related arrests by U.S. Immigration and Customs Enforcement (ICE)."
-    publishedDateTime: 2021-09-01T21:59:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wb_Ny-a1VNg/16-states-push-back-biden-administration-guidance-ice-arrests"
-    ampWebUrl: "https://www.foxnews.com/politics/16-states-push-back-biden-administration-guidance-ice-arrests.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/16-states-push-back-biden-administration-guidance-ice-arrests.amp"
+  - title: "Biden’s Tree of Life synagogue claim not true, White House admits"
+    excerpt: "President Biden did not visit the Tree of Life synagogue in Pittsburgh after the murder of 11 congregants — despite saying so, the White House admitted Friday."
+    publishedDateTime: 2021-09-04T02:12:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EIGsUiTg1tc/bidens-tree-of-life-synagogue-claim-not-true-white-house-admits"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-tree-of-life-synagogue-claim-not-true-white-house-admits.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-tree-of-life-synagogue-claim-not-true-white-house-admits.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7180b1e-c25c-4cc7-bfe5-6d71b1c14191/585fce97-a0df-484d-a52d-153985306af5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden administration has lost track of a third of released migrant kids: report"
+    excerpt: "The U.S. government has reportedly lost touch with thousands of illegal immigrant children who they released from custody."
+    publishedDateTime: 2021-09-01T22:05:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dlXvzIuEpYQ/government-has-lost-track-of-a-third-of-released-migrant-kids"
+    ampWebUrl: "https://www.foxnews.com/politics/government-has-lost-track-of-a-third-of-released-migrant-kids.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/government-has-lost-track-of-a-third-of-released-migrant-kids.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 171
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1d7193e5-ede5-4bf2-aa7b-dbd866fc1d66/a339ff07-8e85-4916-bbeb-616f413934b1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ffd9786c-a6ff-4664-bcf8-aa50156e5ca5/baa20d53-a8c4-4810-a228-f2bdd1cd27d0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "SCOTUS 'Remain in Mexico' ruling marks latest immigration defeat for Biden administration"
-    excerpt: "The latest Supreme Court ruling marks yet another legal defeat for the Biden administration on the subject of immigration."
-    publishedDateTime: 2021-08-25T23:57:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_SA0uAJzKbA/scotus-remain-mexico-ruling-marks-latest-immigration-defeat-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/scotus-remain-mexico-ruling-marks-latest-immigration-defeat-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scotus-remain-mexico-ruling-marks-latest-immigration-defeat-biden.amp"
+  - title: "Biden ripped for apparently glancing at watch during ceremony for fallen troops"
+    excerpt: "President Joe Biden has come under fire for apparently glancing at his watch during a solemn ceremony at Dover Air Force Base in Delaware for the 13 US troops killed in the terror attack near the"
+    publishedDateTime: 2021-08-30T11:02:00Z
+    webUrl: "https://nypost.com/2021/08/30/biden-ripped-for-apparently-looking-at-watch-at-troops-ceremony/"
+    ampWebUrl: "https://nypost.com/2021/08/30/biden-ripped-for-apparently-looking-at-watch-at-troops-ceremony/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/30/biden-ripped-for-apparently-looking-at-watch-at-troops-ceremony/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 131
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/joe-biden-28.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Clay Travis: This is why the media hid Biden, he’s too incompetent to be president"
+    excerpt: "The red flags were in plain sight the second Joe Biden hid from cameras during his presidential campaign; in fear that the public may catch on to his incompetence as a politician, and complete lack of qualification to be the President of the United States."
+    publishedDateTime: 2021-08-27T11:09:00Z
+    webUrl: "https://www.foxnews.com/sports/clay-travis-media-hid-biden-president"
+    ampWebUrl: "https://www.foxnews.com/sports/clay-travis-media-hid-biden-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/clay-travis-media-hid-biden-president.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 166
+    quality: 129
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/30426bd6-2aa5-4d0e-8ec5-b4c0e9e8d7a9/41eaf33d-87b6-417c-a681-2a8868546e2f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1aee9309-2c7d-4e72-bd64-4f2de56eccf1/b63873e4-b91c-4c61-88a1-1d907c7646e3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
-        isCached: true
-  - title: "Biden Education Department opens civil rights investigations into 5 states for banning school mask mandates"
-    excerpt: "The U.S. Department of Education is opening an investigation into whether prohibitions on indoor masking mandates constitute discrimination against kids with disabilities."
-    publishedDateTime: 2021-08-30T17:39:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xGnlNRq3GOY/biden-education-department-civil-rights-investigations-masks-schools"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-education-department-civil-rights-investigations-masks-schools.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-education-department-civil-rights-investigations-masks-schools.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f51b3476-234e-4048-a476-76c810bde5ad/9be3c475-e32a-4b19-bdf9-55aba86bdf91/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "GOP Sen. Hagerty wants Congress to review Biden immigration enforcement limit"
-    excerpt: "FIRST ON FOX: Sen. Bill Hagerty, R-Tenn., is asking the Government Accountability Office if controversial Immigration and Customs Enforcement (ICE) guidance that dramatically reduced the scope of immigration enforcement could be subject to review by Congress -- days after the Biden administration suffered"
-    publishedDateTime: 2021-08-30T19:35:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y_fL1jkliLo/hagerty-gao-if-biden-admin-immigration-policies-review-congress"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 152
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/haggerty.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "qxqv2ghvW2MijPjkxNLoIj9z7LdJ49jTseyzC0147JaglyvTdI0F0Zr4PcRicyEBizqZ6NyEmXxWxb1+mIQ7mtBJruKnH6m31wUzbaG5GfNy/GlnTFTKLhjvRuu6lPU0wguv47Ja/jyp6EjF4T9FFDFHsOUpXXv8sJU72lcqSbxFStdxecc4+ufxVjDiSMvzyCcwOg0oI3pb4FYl8RoR0OvdHYsRzoZxTf4SYBnVwUJmLxzokE9ts/2NUHhcsBGGCBjKXYZ5PkABqeyc7FWI2sehKMPfSIjOR9LL1+cqj8DFtm8Pp9i8VUPN4Gng6XmZDttyWt723J1WkoWSfu4mRxUdQG4I0qhS1EfofZhD32w=;pMmgvTgJWqbd+Om3xAX5tQ=="

@@ -32,21 +32,69 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to be briefed on intelligence community COVID origin review as early as Tuesday"
-    excerpt: "President Biden is expected to receive a briefing on the origin of COVID-19 from the intelligence community as early as Tuesday."
-    publishedDateTime: 2021-08-24T14:31:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/w8cHGmkP3wo/biden-intelligence-community-covid-origin-briefing"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-intelligence-community-covid-origin-briefing.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-intelligence-community-covid-origin-briefing.amp"
+  - title: "Biden’s Tree of Life synagogue claim not true, White House admits"
+    excerpt: "President Biden did not visit the Tree of Life synagogue in Pittsburgh after the murder of 11 congregants — despite saying so, the White House admitted Friday."
+    publishedDateTime: 2021-09-04T02:12:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EIGsUiTg1tc/bidens-tree-of-life-synagogue-claim-not-true-white-house-admits"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-tree-of-life-synagogue-claim-not-true-white-house-admits.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-tree-of-life-synagogue-claim-not-true-white-house-admits.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/22536f17-09ba-4d70-ae31-7ee07e4a136e/f73683b7-0a76-4287-b5b0-389dbed633dd/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7180b1e-c25c-4cc7-bfe5-6d71b1c14191/585fce97-a0df-484d-a52d-153985306af5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden administration has lost track of a third of released migrant kids: report"
+    excerpt: "The U.S. government has reportedly lost touch with thousands of illegal immigrant children who they released from custody."
+    publishedDateTime: 2021-09-01T22:05:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dlXvzIuEpYQ/government-has-lost-track-of-a-third-of-released-migrant-kids"
+    ampWebUrl: "https://www.foxnews.com/politics/government-has-lost-track-of-a-third-of-released-migrant-kids.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/government-has-lost-track-of-a-third-of-released-migrant-kids.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ffd9786c-a6ff-4664-bcf8-aa50156e5ca5/baa20d53-a8c4-4810-a228-f2bdd1cd27d0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "20 states sue Biden admin over guidance allowing biological males on girls’ sports teams"
+    excerpt: "Twenty states have filed a lawsuit against the Biden administration in an attempt to halt directives that extend federal sex discrimination protections to transgender people."
+    publishedDateTime: 2021-08-31T16:49:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cTAwnprt4WU/20-states-sue-biden-admin-biological-males-girls-sports-teams"
+    ampWebUrl: "https://www.foxnews.com/politics/20-states-sue-biden-admin-biological-males-girls-sports-teams.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/20-states-sue-biden-admin-biological-males-girls-sports-teams.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17d03a4d-b676-45f8-a470-769625091d70/1492c709-10eb-419f-8345-d50968bbe61c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden ripped for apparently glancing at watch during ceremony for fallen troops"
+    excerpt: "President Joe Biden has come under fire for apparently glancing at his watch during a solemn ceremony at Dover Air Force Base in Delaware for the 13 US troops killed in the terror attack near the"
+    publishedDateTime: 2021-08-30T11:02:00Z
+    webUrl: "https://nypost.com/2021/08/30/biden-ripped-for-apparently-looking-at-watch-at-troops-ceremony/"
+    ampWebUrl: "https://nypost.com/2021/08/30/biden-ripped-for-apparently-looking-at-watch-at-troops-ceremony/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/30/biden-ripped-for-apparently-looking-at-watch-at-troops-ceremony/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 131
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/joe-biden-28.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "gkhwS7PLxIaMbTUL32GQGKVDn9N0i1BAJfG9mghpJoXJfh3UCwZfC8nZGfLVVr5yv3adXWvKFB9OZKDIGx1p/jwcOHNPd0HQDcT1+ek+IGc1G+7g1XP9OZdTN4lZ/1lFwZ6iUMJV3DwGnhLz/2hRhTeLY8BthvcBciduWjNYXaiQUDJl6HimlU4TBCKiUuPaf51mbLvWxsDY8G/kGOXr49xaqKWFmeZmv6df+ZBqAjTpZlhbmwYc6kSM2ktpO1Wr1f7WmL4zC+PRA+ndCZwffYgvxTyduPhoCrV55a1YmcrJ157/x79xzjvbU7D5x9RGRwjyco0COmXWFxUwWXoPtkKbmtI+BAf7OQzaeoCjlN8=;21aoTVAEyGGHmjO0sjD7Zw=="

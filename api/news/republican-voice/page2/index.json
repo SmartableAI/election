@@ -2,6 +2,54 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-28-joe-biden-just-ruined-americas-special-relationship-with-great-britain.md",
+      "title": "Joe Biden just ruined America’s ‘special relationship’ with Great Britain",
+      "excerpt": "Despite such loud promises that he would make America’s alliances great again, Biden’s initially foolish, now fatal, Afghan catastrophe has atomized US international ties.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/08/27/joe-biden-just-ruined-americas-special-relationship-with-great-britain/",
+      "originalUrl": "https://nypost.com/2021/08/27/joe-biden-just-ruined-americas-special-relationship-with-great-britain/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/biden-boris-johnson.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/08/27/joe-biden-just-ruined-americas-special-relationship-with-great-britain/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/27/joe-biden-just-ruined-americas-special-relationship-with-great-britain/amp/",
+      "publishedDateTime": "2021-08-27T16:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-27-biden-meets-with-israeli-prime-minister-after-deadly-kabul-bombing.md",
       "title": "Biden meets with Israeli prime minister after deadly Kabul bombing",
       "excerpt": "President Biden sat down with the newly installed Israeli Prime Minister Naftali Bennett Friday, roughly 24 hours after the deadly suicide bombing in Kabul.",
@@ -616,7 +664,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 188,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -1592,62 +1640,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-pelosi-top-house-dems-wont-budge-in-infrastructure-tussle-with-moderates-tout-biden-support-for-her-rule.md",
-      "title": "Pelosi, top House Dems won't budge in infrastructure tussle with moderates, tout Biden support for her 'rule'",
-      "excerpt": "House Speaker Nancy Pelosi and her leadership team are mounting a pressure campaign on centrist Democrats to get them to support their party's budget resolution without a vote on the bipartisan infrastructure bill.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bn7C-UsrZ6g/pelosi-house-moderates-biden-infrastructure-budget-resolution-rule-democrats",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bn7C-UsrZ6g/pelosi-house-moderates-biden-infrastructure-budget-resolution-rule-democrats",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-house-moderates-biden-infrastructure-budget-resolution-rule-democrats.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-house-moderates-biden-infrastructure-budget-resolution-rule-democrats.amp",
-      "publishedDateTime": "2021-08-18T06:29:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

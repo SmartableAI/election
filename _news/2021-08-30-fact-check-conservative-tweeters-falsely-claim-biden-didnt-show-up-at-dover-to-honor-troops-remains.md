@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/30/politics/fact-check-biden-dover-a
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/30/politics/fact-check-biden-dover-afghanistan-kabul/index.html"
 type: article
 quality: 159
-heat: 179
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fact check: Biden spoke to Tree of Life rabbi, but his claim about visiting the synagogue is false"
+    excerpt: "In public remarks on Thursday to Jewish leaders in advance of the High Holy Days, President Joe Biden spoke at length about the \"scourge of anti-Semitism.\"\n    \n"
+    publishedDateTime: 2021-09-03T23:11:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wJHChd1bj9Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/03/politics/fact-check-biden-tree-of-life-synagogue-visit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/03/politics/fact-check-biden-tree-of-life-synagogue-visit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210903185334-biden-jewish-holiday-call-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact check: Sen. Joni Ernst falsely claims Biden has 'not once' expressed gratitude to troops who fought in the last 20 years"
     excerpt: "Republican Sen. Joni Ernst of Iowa, a veteran of the war in Iraq and a member of the Senate Armed Services Committee, falsely claimed on CNN on Wednesday that President Joe Biden has never expressed gratitude or empathy toward the American troops who have served overseas during the last two decades.\n"
     publishedDateTime: 2021-09-03T18:20:18Z

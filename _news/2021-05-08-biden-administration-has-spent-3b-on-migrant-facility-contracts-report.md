@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-administration-border-migrant
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-border-migrant-facility-contracts-spending.amp"
 type: article
 quality: 174
-heat: 274
+heat: 254
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden administration has lost track of a third of released migrant kids: report"
-    excerpt: "The U.S. government has reportedly lost touch with thousands of illegal immigrant children who they released from custody."
-    publishedDateTime: 2021-09-01T22:05:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dlXvzIuEpYQ/government-has-lost-track-of-a-third-of-released-migrant-kids"
-    ampWebUrl: "https://www.foxnews.com/politics/government-has-lost-track-of-a-third-of-released-migrant-kids.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/government-has-lost-track-of-a-third-of-released-migrant-kids.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ffd9786c-a6ff-4664-bcf8-aa50156e5ca5/baa20d53-a8c4-4810-a228-f2bdd1cd27d0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Texas sheriff blasts Biden administration for making National Guard pick up garbage at border"
     excerpt: "A Texas sheriff slammed President Biden’s border policies and argued it’s a “complete embarrassment” that his administration is forcing the Texas National Guard to clean up the piles of trash left behind by migrants."
     publishedDateTime: 2021-05-09T18:49:24Z

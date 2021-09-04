@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-gets-foggy-daughters-wedding-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gets-foggy-daughters-wedding-mind-going-blank.amp"
 type: article
 quality: 171
-heat: 211
+heat: 191
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
     quality: 135
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/BIDEN-NAOMI.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Biden ripped for apparently glancing at watch during ceremony for fallen troops"
-    excerpt: "President Joe Biden has come under fire for apparently glancing at his watch during a solemn ceremony at Dover Air Force Base in Delaware for the 13 US troops killed in the terror attack near the"
-    publishedDateTime: 2021-08-30T11:02:00Z
-    webUrl: "https://nypost.com/2021/08/30/biden-ripped-for-apparently-looking-at-watch-at-troops-ceremony/"
-    ampWebUrl: "https://nypost.com/2021/08/30/biden-ripped-for-apparently-looking-at-watch-at-troops-ceremony/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/30/biden-ripped-for-apparently-looking-at-watch-at-troops-ceremony/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 131
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/joe-biden-28.jpg?quality=90&strip=all&w=1024"
         width: 1024
         height: 682
         isCached: true

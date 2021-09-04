@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-04-bidens-tree-of-life-synagogue-claim-not-true-white-house-admits.md",
+      "title": "Biden’s Tree of Life synagogue claim not true, White House admits",
+      "excerpt": "President Biden did not visit the Tree of Life synagogue in Pittsburgh after the murder of 11 congregants — despite saying so, the White House admitted Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EIGsUiTg1tc/bidens-tree-of-life-synagogue-claim-not-true-white-house-admits",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EIGsUiTg1tc/bidens-tree-of-life-synagogue-claim-not-true-white-house-admits",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7180b1e-c25c-4cc7-bfe5-6d71b1c14191/585fce97-a0df-484d-a52d-153985306af5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-tree-of-life-synagogue-claim-not-true-white-house-admits.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-tree-of-life-synagogue-claim-not-true-white-house-admits.amp",
+      "publishedDateTime": "2021-09-03T19:12:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-04-biden-administrations-sept-20-booster-rollout-may-be-scaled-back-to-just-pfizer-covid-19-vaccine-at-first.md",
       "title": "Biden administration's Sept. 20 booster rollout may be scaled back to just Pfizer Covid-19 vaccine at first",
       "excerpt": "There have been internal conversations within the Biden administration about scaling back the ambitious booster plan laid out by top federal health officials last month as the calendar nears September 20, the date when booster shots may start to be offered.\n    \n",
@@ -98,6 +154,62 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-09-03-fact-check-biden-spoke-to-tree-of-life-rabbi-but-his-claim-about-visiting-the-synagogue-is-false.md",
+      "title": "Fact check: Biden spoke to Tree of Life rabbi, but his claim about visiting the synagogue is false",
+      "excerpt": "In public remarks on Thursday to Jewish leaders in advance of the High Holy Days, President Joe Biden spoke at length about the \"scourge of anti-Semitism.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wJHChd1bj9Q/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wJHChd1bj9Q/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 201,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210903185334-biden-jewish-holiday-call-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/03/politics/fact-check-biden-tree-of-life-synagogue-visit/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/03/politics/fact-check-biden-tree-of-life-synagogue-visit/index.html",
+      "publishedDateTime": "2021-09-03T16:11:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     },
     {
@@ -792,7 +904,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 211,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -1200,118 +1312,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-biden-helps-secure-tajikistans-border-amid-us-border-crisis.md",
-      "title": "Biden helps secure Tajikistan’s border amid US border crisis",
-      "excerpt": "The United States is helping Tajikistan secure a portion of its border with Afghanistan to help combat security threats in the region, despite the ongoing crisis at the U.S. border.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GCeTB-W6StQ/biden-secure-tajikistans-border-us-crisis",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GCeTB-W6StQ/biden-secure-tajikistans-border-us-crisis",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 315,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2dd2cd3e-37db-4527-a410-18c2cb90ae1e/c5e78bb9-d1d4-4a01-9c74-4ef1265d20f0/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-secure-tajikistans-border-us-crisis.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-secure-tajikistans-border-us-crisis.amp",
-      "publishedDateTime": "2021-09-02T08:49:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-arizonas-ag-rebuffs-biden-does-mask-probe-wont-tolerate-efforts-to-undermine-state-sovereignty.md",
-      "title": "Arizona's AG rebuffs Biden DOE's mask probe: Won't 'tolerate' efforts to undermine state sovereignty",
-      "excerpt": "Arizona Attorney General Mark Brnovich forcefully responded to the Department of Education (DOE) Tuesday, telling Secretary Miguel Cardona he won't \"tolerate\" any federal overreach through the administration's masking investigation.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4rDsk1S8Fuc/arizona-ag-biden-education-department-mask-probe",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4rDsk1S8Fuc/arizona-ag-biden-education-department-mask-probe",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/815ebb23-2591-43ee-bb90-9859e5077048/22efde18-2edf-4c8b-95a1-a7c817978585/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/arizona-ag-biden-education-department-mask-probe.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-ag-biden-education-department-mask-probe.amp",
-      "publishedDateTime": "2021-09-02T07:40:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

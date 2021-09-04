@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fact check: Biden spoke to Tree of Life rabbi, but his claim about visiting the synagogue is false"
+    excerpt: "In public remarks on Thursday to Jewish leaders in advance of the High Holy Days, President Joe Biden spoke at length about the \"scourge of anti-Semitism.\"\n    \n"
+    publishedDateTime: 2021-09-03T23:11:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wJHChd1bj9Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/03/politics/fact-check-biden-tree-of-life-synagogue-visit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/03/politics/fact-check-biden-tree-of-life-synagogue-visit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210903185334-biden-jewish-holiday-call-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact check: Conservative tweeters falsely claim Biden didn't show up at Dover to honor troops' remains"
     excerpt: "On Saturday night, an entirely false claim about President Joe Biden went viral among conservatives on Twitter.\n    \n"
     publishedDateTime: 2021-08-30T11:01:25Z

@@ -58,6 +58,62 @@
       ]
     },
     {
+      "path": "_news/2021-09-03-fact-check-biden-spoke-to-tree-of-life-rabbi-but-his-claim-about-visiting-the-synagogue-is-false.md",
+      "title": "Fact check: Biden spoke to Tree of Life rabbi, but his claim about visiting the synagogue is false",
+      "excerpt": "In public remarks on Thursday to Jewish leaders in advance of the High Holy Days, President Joe Biden spoke at length about the \"scourge of anti-Semitism.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wJHChd1bj9Q/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wJHChd1bj9Q/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 201,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210903185334-biden-jewish-holiday-call-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/03/politics/fact-check-biden-tree-of-life-synagogue-visit/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/03/politics/fact-check-biden-tree-of-life-synagogue-visit/index.html",
+      "publishedDateTime": "2021-09-03T16:11:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-03-biden-orders-a-declassification-review-of-documents-related-to-september-11-attacks.md",
       "title": "Biden orders a declassification review of documents related to September 11 attacks",
       "excerpt": "President Joe Biden on Friday signed an executive order directing the Department of Justice and other federal agencies to conduct a declassification review related to the FBI's investigation of the September 11, 2001, terrorist attacks.\n    \n",
@@ -647,62 +703,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/01/politics/afghanistan-fall-out-may-haunt-joe-biden/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/01/politics/afghanistan-fall-out-may-haunt-joe-biden/index.html",
       "publishedDateTime": "2021-09-01T04:32:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-30-fact-check-conservative-tweeters-falsely-claim-biden-didnt-show-up-at-dover-to-honor-troops-remains.md",
-      "title": "Fact check: Conservative tweeters falsely claim Biden didn't show up at Dover to honor troops' remains",
-      "excerpt": "On Saturday night, an entirely false claim about President Joe Biden went viral among conservatives on Twitter.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/g6Y4r_dtHE0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/g6Y4r_dtHE0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210829123755-bpt101-biden-afghanistan-082921-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/30/politics/fact-check-biden-dover-afghanistan-kabul/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/30/politics/fact-check-biden-dover-afghanistan-kabul/index.html",
-      "publishedDateTime": "2021-08-30T04:01:25-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

@@ -158,7 +158,7 @@ related:
   - title: "Afghanistan: Joe Biden defends US pull-out as Taliban claim victory"
     excerpt: "US President Joe Biden has defended his decision to withdraw US troops from Afghanistan - a move which led to Taliban militants returning to power. Staying longer was not an option, Mr Biden said in an address to the nation,"
     publishedDateTime: 2021-09-01T09:05:00Z
-    webUrl: "https://www.bbc.com/news/world-asia-58403735?at_custom1=%5Bpost+type%5D&at_custom4=39BC6020-0AA0-11EC-9B05-91E34744363C&at_custom2=twitter&at_campaign=64&at_medium=custom7"
+    webUrl: "https://www.bbc.com/news/world-asia-58403735"
     type: article
     provider:
       name: BBC

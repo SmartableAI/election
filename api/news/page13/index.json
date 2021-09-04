@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-08-04-ohio-special-election-underscores-donald-trumps-grip-on-republicans.md",
+      "title": "Ohio special election underscores Donald Trump’s grip on Republicans",
+      "excerpt": "Donald Trump’s grip on the Republican party was bolstered on Tuesday when a coal lobbyist endorsed by the former president defeated 10 fellow Republicans in a closely watched special election in Ohio.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/476b4ec7-1b6c-4e0e-a993-911f09e92d9b",
+      "originalUrl": "https://www.ft.com/content/476b4ec7-1b6c-4e0e-a993-911f09e92d9b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1740,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F32a40317-b720-4507-994e-dd960558b7ae.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/476b4ec7-1b6c-4e0e-a993-911f09e92d9b",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/476b4ec7-1b6c-4e0e-a993-911f09e92d9b",
+      "publishedDateTime": "2021-08-03T19:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-clinton-trump-cuomo-powerful-men-in-politics-are-often-rewarded.md",
       "title": "Clinton. Trump. Cuomo. Powerful men in politics are often rewarded.",
       "excerpt": "The most powerful men in politics. They're often rewarded for having no shame.\n    \n",
@@ -1303,62 +1355,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-mark-meadows-trump-meeting-with-his-cabinet-despite-not-having-one.md",
-      "title": "Mark Meadows: Trump meeting with his 'cabinet' (despite not having one)",
-      "excerpt": "Former Trump White House Chief of Staff Mark Meadows told Newsmax that the former president has been holding meetings with his \"cabinet\" despite not being president. New York Times reporter and CNN political analyst Maggie Haberman has the details.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-0N70X6ATSE/mark-meadows-trump-cabinet-newsmax-haberman-sot-newday-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-0N70X6ATSE/mark-meadows-trump-cabinet-newsmax-haberman-sot-newday-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210802081536-mark-meadows-newsmax-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/08/02/mark-meadows-trump-cabinet-newsmax-haberman-sot-newday-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/08/02/mark-meadows-trump-cabinet-newsmax-haberman-sot-newday-vpx.cnn",
-      "publishedDateTime": "2021-08-02T05:47:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],
