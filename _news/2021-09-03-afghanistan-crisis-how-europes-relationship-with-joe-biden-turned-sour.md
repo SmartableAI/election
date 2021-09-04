@@ -107,22 +107,6 @@ related:
         width: 625
         height: 415
         isCached: true
-  - title: "Fact check: Quote about Afghanistan, Democrats in Washington falsely attributed to Donald Trump"
-    excerpt: "Donald Trump did not say the situation in Afghanistan is a distraction from the Democrats in Washington. The quote is being falsely attributed to him."
-    publishedDateTime: 2021-08-27T02:32:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5586860001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5586860001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/08/22/USAT/9aef22b6-661a-487a-9438-89b679f37137-GTY_1335520712.jpg?auto=webp&crop=3688,2075,x0,y187&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Afghanistan live updates: Biden says another Kabul airport attack 'highly likely'; Pentagon says strike killed two in ISIS-K"
     excerpt: "The Pentagon said a Friday airstrike killed two and wounded one ISIS-K planners and facilitators. The mission came a day after a Kabul airport bombing."
     publishedDateTime: 2021-08-28T23:12:00Z
@@ -235,6 +219,22 @@ related:
         width: 590
         height: 350
         isCached: true
+  - title: "Goodbye, Afghanistan: From George W. Bush to Joe Biden, no celebration as America's longest war ends"
+    excerpt: "Twenty years after U.S. bombers arrived, the last U.S. cargo plane departs a war that has left its mark, and its sorrow, on four presidents."
+    publishedDateTime: 2021-08-31T00:38:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/08/30/afghanistan-war-ends-america-legacy/5598968001/"
+    ampWebUrl: "https://amp.indystar.com/amp/5598968001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5598968001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 60
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/23/USAT/a493e6c0-df75-45c8-9fcb-eaee55fd9e5f-AP_APTOPIX_Afghanistan_2.jpg?auto=webp&crop=6009,3381,x26,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Eamonn Holmes lays into Joe Biden and ‘the Yanks’ in furious This Morning rant over Afghanistan retreat"
     excerpt: "EAMONN Holmes has let rip at US President Joe Biden while discussing the country’s retreat from Afghanistan. The telly presenter, 61, laid into President Biden and “the Yanks”"
     publishedDateTime: 2021-08-30T20:51:00Z
@@ -265,6 +265,22 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "How slow Joe Biden’s bungled facts about Afghanistan & 5-hr delay to speak about Kabul bomb shows presidency in turmoil"
+    excerpt: "JOE Biden’s presidency has been littered with gaffes from the start – from tripping THREE times as he made his way up the steps of Air Force One to forgetting why he ran for President."
+    publishedDateTime: 2021-08-28T00:56:00Z
+    webUrl: "https://www.the-sun.com/news/3555704/joe-bidens-bungled-facts-afghanistan-turmoil/"
+    ampWebUrl: "https://www.the-sun.com/news/3555704/joe-bidens-bungled-facts-afghanistan-turmoil/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3555704/joe-bidens-bungled-facts-afghanistan-turmoil/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 51
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/NA-Biden-worst-offplatform.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "‘He’s finished’: Joe Biden ‘cannot survive’ fallout over Afghanistan withdrawal"
     excerpt: "Joe Biden's presidency is finished and it can't survive the fallout over his administration's \"messy\" withdrawal from Afghanistan, according to Curtin University Professor Joe Siracusa. Mr Siracusa said Joe Biden had an opportunity to withdraw from Afghanistan as \"gracefully as he could\" but it turned out to be quite \"messy\"."
     publishedDateTime: 2021-08-29T23:00:00Z
@@ -279,6 +295,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Marco Rubio slams ‘out of touch’ Joe Biden as Afghanistan ‘catastrophe’ continues"
+    excerpt: "Marco Rubio continued to characterize the Afghanistan endgame as “one of the worst catastrophes” in American history. Rubio took to Fox News Tuesday night and again Wednesday morning, describing President Joe Biden as “oblivious” and saying the deadline to get people out of the “chaos” of the Hamid Karzai airport was not the end of the month,"
+    publishedDateTime: 2021-08-25T14:30:00Z
+    webUrl: "https://floridapolitics.com/archives/452872-marco-rubio-slams-out-of-touch-joe-biden-as-afghanistan-catastrophe-continues/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 50
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/08/Marco-Rubio-scaled.jpg"
+        width: 2560
+        height: 1920
+        isCached: true
   - title: "Rick Scott renews calls for Congressional probe into Joe Biden’s ‘Afghanistan failures’"
     excerpt: "Rick Scott again expressed frustration with President Joe Biden ’s “Afghanistan failures,” making what seem to be unheeded calls for a Congressional investigation"
     publishedDateTime: 2021-08-30T21:03:00Z
@@ -292,6 +322,48 @@ related:
       - url: "https://floridapolitics.com/wp-content/uploads/2021/05/Scott-1-scaled-e1624478902461.jpg"
         width: 1280
         height: 854
+        isCached: true
+  - title: "Kabul bombings a dark day for Afghanistan and Joe Biden — and a harbinger of worse to come"
+    excerpt: "US President Joe Biden is facing the worst moment of his presidency. Thirteen US troops and at least 60 Afghan civilians have been killed in a suicide bomb attack outside Kabuls main airport, for which Islamic State"
+    publishedDateTime: 2021-08-28T05:30:00Z
+    webUrl: "https://www.econotimes.com/Kabul-bombings-a-dark-day-for-Afghanistan-and-Joe-Biden--and-a-harbinger-of-worse-to-come-1615940"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 45
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/2021082878d354646435ea9c4_th_1024x0.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "President Joe Biden Issues a Proclamation Honoring the Victims of the Attack in Kabul, Afghanistan"
+    excerpt: "On President Joe Biden issued a Proclamation honoring the victims of the attack in Kabul, Afghanistan. As a mark of respect for the U.S. service members and other victims killed in the terrorist attack on August 26,"
+    publishedDateTime: 2021-08-26T22:53:00Z
+    webUrl: "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/32715-president-joe-biden-issues-a-proclamation-honoring-the-victims-of-the-attack-in-kabul-afghanistan?tmpl=component"
+    type: article
+    provider:
+      name: Sierra Sun Times
+      domain: goldrushcam.com
+    quality: 41
+    images:
+      - url: "https://goldrushcam.com/sierrasuntimes/images/2020/white-house-gov.jpg"
+        width: 679
+        height: 357
+        isCached: true
+  - title: "James Carville Is Mad As Hell About The ‘Hysterical And Stupid’ Coverage Of Biden’s Afghanistan Pullout"
+    excerpt: "James Carville is tired of the media attacking Joe Biden for pulling U.S. troops out of Afghanistan, saying \"We lost this war 15 years ago.\""
+    publishedDateTime: 2021-08-26T21:26:00Z
+    webUrl: "https://uproxx.com/tv/james-carville-biden-afghanistan-coverage/"
+    type: article
+    provider:
+      name: Uproxx
+      domain: uproxx.com
+    quality: 39
+    images:
+      - url: "https://uproxx.com/wp-content/uploads/2021/08/GettyImages-1183649335.jpg?w=1024"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Joe Biden said not everyone who wants to can leave after a war. Military experts checked his history"
     excerpt: "President Joe Biden’s decision to follow through on a U.S. pledge to withdraw from Afghanistan led to a rush of people seeking to leave the country, including Afghan nationals who had worked with the U."

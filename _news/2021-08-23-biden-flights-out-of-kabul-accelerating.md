@@ -57,6 +57,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden pledges to Americans in Kabul: 'We will get you home'"
+    excerpt: "President Joe Biden is pledging to Americans still trapped in Afghanistan: “We will get you home.” Biden also said Friday the United States is committed to evacuating all Afghans who assisted the war effort — a potentially vast expansion of the administration's commitments on the airlift so far,"
+    publishedDateTime: 2021-08-20T23:57:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/US-struggles-to-speed-Kabul-airlift-despite-16399637.php"
+    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/US-struggles-to-speed-Kabul-airlift-despite-16399637.php"
+    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/US-struggles-to-speed-Kabul-airlift-despite-16399637.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/42/55/21375845/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "The Latest: Biden told another Kabul terror attack 'likely'"
     excerpt: "President Joe Biden’s national security team has told the president that another terror attack is “likely” in Kabul, and that “maximum force protection” measures are being taken at the airport in the Afghan capital."
     publishedDateTime: 2021-08-27T21:47:00Z
@@ -185,6 +201,31 @@ related:
         width: 1024
         height: 684
         isCached: true
+  - title: "Biden pledges to Americans in Kabul: 'We will get you home'"
+    excerpt: "President Joe Biden is pledging to Americans still trapped in Afghanistan: \"We will get you home.\" Biden's comments at a White House news conference Friday come as the U.S. government struggles to ramp up a massive airlift clearing Americans and other foreigners and vulnerable Afghans through the Kabul airport,"
+    publishedDateTime: 2021-08-23T23:32:00Z
+    webUrl: "https://www.nwaonline.com/news/2021/aug/20/biden-address-chaotic-kabul-evacuation-amid-critic/"
+    type: article
+    provider:
+      name: Northwest Arkansas Democrat Gazette
+      domain: nwaonline.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/img/news/tease/2021/08/20/Screen_Shot_2021-08-20_at_12.01.24_PM_t600.png?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 335
+        isCached: true
+  - title: "Biden holds to Kabul Aug. 31 deadline despite criticism"
+    excerpt: "U.S. President Joe Biden says he will stick with his Aug. 31 deadline for finishing a U.S.-led evacuation of Americans, at-risk Afghans and others."
+    publishedDateTime: 2021-08-24T23:57:00Z
+    webUrl: "https://www.kentucky.com/news/nation-world/national/article253700868.html"
+    ampWebUrl: "https://amp.kentucky.com/news/nation-world/national/article253700868.html"
+    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/nation-world/national/article253700868.html"
+    type: article
+    provider:
+      name: Lexington Herald Leader
+      domain: kentucky.com
+    quality: 55
   - title: "2 US lawmakers’ Kabul trip prompts Biden administration fury"
     excerpt: "Two members of Congress flew unannounced into Kabul airport in the middle of the ongoing chaotic evacuation, and their visit Tuesday stunned State Department and U.S. military personnel who had to divert resources to provide security and information to the lawmakers."
     publishedDateTime: 2021-08-26T15:35:00Z

@@ -31,17 +31,20 @@ images:
     isCached: true
 
 related:
-  - title: "On Afghanistan, GOP condemns the pullout it had supported under Trump"
-    excerpt: "Dozens of prominent Republicans who had given full support to then-President Donald Trump's plan to leave Afghanistan have sharply reversed themselves now that President Joe Biden has done it. “There’s no shame anymore,"
-    publishedDateTime: 2021-09-02T19:22:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/on-afghanistan-gop-condemns-the-pullout-it-had-supported-under-trump/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/on-afghanistan-gop-condemns-the-pullout-it-had-supported-under-trump/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/on-afghanistan-gop-condemns-the-pullout-it-had-supported-under-trump/?amp=1"
+  - title: "‘Everything woke turns to sh*t’: Trump rails on Biden, generals at massive rally for ‘total surrender’ in Afghanistan"
+    excerpt: "\"I warned the entire country of the disastrous consequences of a Biden presidency. I understood; a lot of you understood it,\" Trump said."
+    publishedDateTime: 2021-08-22T12:05:00Z
+    webUrl: "https://www.bizpacreview.com/2021/08/22/everything-woke-turns-to-sht-trump-rails-on-biden-generals-at-massive-rally-for-total-surrender-in-afghanistan-1122636/"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 55
+      name: BizPac Review
+      domain: bizpacreview.com
+    quality: 47
+    images:
+      - url: "https://www.bizpacreview.com/wp-content/uploads/2021/08/SG-trump-alabama-rally-1200x630.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "AVQtWeZT+2NLhiDOYUCx5wqiRBn/1E3P9Yx6cvHHI7BIuBLqYQjDE/0M90p444Z+YQrnj/HZkzrNFUT4PenNfjRxzM6P9NzzKIM/aXUYFveImNkRJNNF0u4kwFoMuGrk0J3PR0xA9LdTEhk3G71sTKqZfFDrIIGmW93VoV1WzdgG6+jcW1tD2wB15PM96u5tMqpYmXb88pB/W1/7ZNJ+NC/YZZcFWjUsy58e2lxJP09HzZldO0C8nkyC7ixLbu2/3fQtM9zc4B80JKrgJWA/WaHgYq5oIsyOS9TIozDAVeRdmnGNBSbqI/xiLtW0Fe5PuHhJiRnJXFRbujaupf2+M1HVE6bbWwK53/qLiyf9/Xg4zLMZodkS/2qWQAnK6xbKBVExPH1PMvmmnD7cHz63s+CV5AySbEu47zUP/PSYUXUD/ISorP4venMdo1MqX/JWP5+/FElO5RYDVBnuI6VNPMwadr2skJHoU4kGarepVDtew9hodgHx1n8ln6UOFH8wkU5GmW4q1Oxn2ue0Jts4CA==;bo+Opliueh7lhLOFf0iM+A=="
 ---

@@ -2,97 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-08-12-wh-reporters-roiled-by-spacing-constraints-excuse-to-limit-access-to-biden-qas.md",
-      "title": "WH reporters roiled by ‘spacing constraints’ excuse to limit access to Biden Q&As",
-      "excerpt": "President Joe Biden’s interactions with reporters in the White House East Room have resembled press conferences but his staff selects which reporters attend, citing “spacing",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/08/11/wh-journos-roiled-by-spacing-constraints-to-biden-pressers/",
-      "originalUrl": "https://nypost.com/2021/08/11/wh-journos-roiled-by-spacing-constraints-to-biden-pressers/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/white-house-reporters-roiled-434.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/08/11/wh-journos-roiled-by-spacing-constraints-to-biden-pressers/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/11/wh-journos-roiled-by-spacing-constraints-to-biden-pressers/amp/",
-      "publishedDateTime": "2021-08-11T16:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-cherokee-chief-chuck-hoskin-touts-rural-broadband-in-teleconference-with-president-joe-biden.md",
-      "title": "Cherokee Chief Chuck Hoskin touts rural broadband in teleconference with President Joe Biden",
-      "excerpt": "Hoskin said the Cherokee Nation is applying for a federal connectivity grant program that would be expanded under the bill that passed the Senate but still must get through a",
-      "sourceUrl": null,
-      "webUrl": "https://tulsaworld.com/news/state-and-regional/govt-and-politics/cherokee-chief-chuck-hoskin-touts-rural-broadband-in-teleconference-with-president-joe-biden/article_7ef85f06-fab8-11eb-8ba6-eb77f3690d9c.html",
-      "originalUrl": "https://tulsaworld.com/news/state-and-regional/govt-and-politics/cherokee-chief-chuck-hoskin-touts-rural-broadband-in-teleconference-with-president-joe-biden/article_7ef85f06-fab8-11eb-8ba6-eb77f3690d9c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/f/ef/fef397b8-faf2-11eb-89a6-a781dabf88c5/605118c90d55c.image.jpg?resize=1024%2C682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tulsaworld.com/news/state-and-regional/govt-and-politics/cherokee-chief-chuck-hoskin-touts-rural-broadband-in-teleconference-with-president-joe-biden/article_7ef85f06-fab8-11eb-8ba6-eb77f3690d9c.amp.html",
-      "cdnAmpWebUrl": "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/state-and-regional/govt-and-politics/cherokee-chief-chuck-hoskin-touts-rural-broadband-in-teleconference-with-president-joe-biden/article_7ef85f06-fab8-11eb-8ba6-eb77f3690d9c.amp.html",
-      "publishedDateTime": "2021-08-11T15:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tulsa World",
-        "domain": "tulsaworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-08-12-for-biden-and-senators-a-sense-that-world-was-watching.md",
       "title": "For Biden and senators, a sense that 'world was watching'",
       "excerpt": "Biden recalled infrastructure as “probably the least difficult thing to do” when he was a senator — became an exercise in showing how damaged the legislative process has become in partisan Washington and how a president and core group of senators were determined to try to fix it.",
@@ -244,7 +153,7 @@
       "originalUrl": "https://thehill.com/policy/defense/567049-grim-afghan-news-raises-risk-for-biden-of-taliban-takeover",
       "featuredContent": null,
       "highlight": null,
-      "heat": 725,
+      "heat": 465,
       "tags": null,
       "images": [
         {
@@ -339,7 +248,7 @@
       "originalUrl": "https://www.charlotteobserver.com/news/coronavirus/article253365748.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 153,
       "tags": null,
       "images": [
         {
@@ -1475,6 +1384,115 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-new-jersey-town-drops-case-against-f-biden-sign-lady-after-aclu-intervenes-report.md",
+      "title": "New Jersey town drops case against ‘F--- Biden’ sign lady after ACLU intervenes: report",
+      "excerpt": "A town in New Jersey has decided to end its effort to have a resident remove various anti-Biden signs from her property, including several that contain profanity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/new-jersey-f-biden-sign-aclu-roselle-park",
+      "originalUrl": "https://www.foxnews.com/politics/new-jersey-f-biden-sign-aclu-roselle-park",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c1f80430-6227-4a83-93d2-dd9f83faf89a/30d5fc90-e00a-4a49-8499-ea92c159a177/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/new-jersey-f-biden-sign-aclu-roselle-park.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-jersey-f-biden-sign-aclu-roselle-park.amp",
+      "publishedDateTime": "2021-07-27T19:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-biden-masking-again-another-step-on-our-journey-to-defeating-this-virus.md",
+      "title": "Biden: Masking Again 'Another Step on Our Journey to Defeating This Virus'",
+      "excerpt": "U.S. President Joe Biden is defending updated CDC guidelines that say even people who have been vaccinated against COVID-19 should wear masks in some places.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/biden-masking-again-another-step-our-journey-defeating-this-virus-1613707",
+      "originalUrl": "https://www.newsweek.com/biden-masking-again-another-step-our-journey-defeating-this-virus-1613707",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1856754/biden-defends-updated-covid-mask-guidelines.jpg",
+          "width": 2500,
+          "height": 1657,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/biden-masking-again-another-step-our-journey-defeating-this-virus-1613707?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-masking-again-another-step-our-journey-defeating-this-virus-1613707?amp=1",
+      "publishedDateTime": "2021-07-27T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

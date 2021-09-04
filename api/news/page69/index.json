@@ -2,6 +2,58 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2021-04-12-rep-liz-cheney-criticized-trump-for-embracing-insurrection-in-a-wild-speech-deepening-a-gop-rift.md",
+      "title": "Rep. Liz Cheney criticized Trump for 'embracing insurrection' in a wild speech, deepening a GOP rift",
+      "excerpt": "An envelope. It indicates the ability to send an email. Rep. Liz Cheney criticized former president Donald Trump for continuing to use the incendiary rhetoric that she claims provoked the January 6 riot at the US Capitol. Cheney was responding to a wild ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/liz-cheney-criticizes-trump-and-gop-for-embracing-insurrection-2021-4",
+      "originalUrl": "https://www.businessinsider.com/liz-cheney-criticizes-trump-and-gop-for-embracing-insurrection-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/607410c33e3fe7001882a0e1?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/liz-cheney-criticizes-trump-and-gop-for-embracing-insurrection-2021-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/liz-cheney-criticizes-trump-and-gop-for-embracing-insurrection-2021-4?amp",
+      "publishedDateTime": "2021-04-12T03:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-old-trump-health-team-rivalries-resurface-in-texas-house-race.md",
       "title": "Old Trump health team rivalries resurface in Texas House race",
       "excerpt": "A senior Trump health official’s bid to become the first administration alumnus elected to Congress is running into resistance from an unlikely source: his own former colleagues. Brian Harrison, a chief of staff to former Health and Human Services ...",
@@ -1306,62 +1358,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack.md",
-      "title": "Karl Rove slams Biden's pick to head Supreme Court commission as 'political hack'",
-      "excerpt": "Fox News contributor Karl Rove warns Democrats against expanding the Supreme Court, saying it may not working their favor in 2022, on 'Your World.'",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RUJMfA5OSYE/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RUJMfA5OSYE/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 230,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack.amp",
-      "publishedDateTime": "2021-04-09T15:32:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

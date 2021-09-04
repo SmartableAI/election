@@ -392,50 +392,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-23-former-pence-aide-rhetoric-under-trump-admin-about-afghans-hurtful-and-offensive.md",
-      "title": "Former Pence Aide: Rhetoric Under Trump Admin About Afghans 'Hurtful' and 'Offensive'",
-      "excerpt": "A former aide for former Vice President Mike Pence, Olivia Troye, is opening up about the rhetoric under the Trump administration about Afghans, calling it “hurtful” and “offensive.” CNN’s Brianna Keilar noted during “New Day” Monday Troye sat in on meetings about getting Afghans who are eligible for relief who helped U.",
-      "sourceUrl": null,
-      "webUrl": "https://ijr.com/former-pence-aide-rhetoric-trump-admin-afghan-refugees/",
-      "originalUrl": "https://ijr.com/former-pence-aide-rhetoric-trump-admin-afghan-refugees/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ijr.com/wp-content/uploads/2021/08/Screenshot-2021-08-23-at-11.41.18-AM.jpg",
-          "width": 1885,
-          "height": 980,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-23T09:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ijr.com",
-        "domain": "ijr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2021-08-23-matt-gaetz-says-he-asked-for-trumps-approval-before-proposing-to-ginger-luckey-who-eloped-with-him-amid-a-sex-trafficking-probe.md",
       "title": "Matt Gaetz says he asked for Trump's approval before proposing to Ginger Luckey, who eloped with him amid a sex trafficking probe",
       "excerpt": "Matt Gaetz said he asked for former President Donald Trump's approval before proposing to his now-wife Ginger Luckey, with whom he eloped over the weekend amid a federal sex",
@@ -1341,7 +1297,7 @@
       "originalUrl": "https://www.the-sun.com/news/3480762/camp-david-donald-trump-taliban/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -1384,7 +1340,7 @@
       "originalUrl": "https://apnews.com/article/donald-trump-europe-rex-tillerson-96b455a30118c4b2ac668418b27073f2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -1448,6 +1404,49 @@
       "provider": {
         "name": "East Bay Times",
         "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-14-moscow-says-no-plans-to-discuss-edward-snowdens-status-during-trump-putin-summit.md",
+      "title": "Moscow says no plans to discuss Edward Snowden’s status during Trump-Putin summit",
+      "excerpt": "Russia's foreign minister on Friday cast doubt on the possibility of extraditing Edward Snowden, the fugitive former National Security Agency contractor who received political asylum from Moscow after leaking classified documents to the media in 2013.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/europe-summits-moscow-edward-snowden-be8e1b459165d0679b18d86e21d5deb7",
+      "originalUrl": "https://apnews.com/article/europe-summits-moscow-edward-snowden-be8e1b459165d0679b18d86e21d5deb7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/ShareLogo2.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-13T16:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

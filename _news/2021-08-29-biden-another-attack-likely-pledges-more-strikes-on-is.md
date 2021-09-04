@@ -117,6 +117,22 @@ related:
         width: 768
         height: 439
         isCached: true
+  - title: "Joe Biden FINALLY lets US troops rescue Americans outside Kabul airport after fearing ‘black hawk-style attack’"
+    excerpt: "JOE Biden finally allowed US soldiers to rescue stranded Americans outside Kabul airport as he feared another “Black Hawk Down” tragedy. The president compared the crisis in Afghanistan with the"
+    publishedDateTime: 2021-08-24T09:13:00Z
+    webUrl: "https://www.the-sun.com/news/3529625/joe-biden-troops-rescue-americans-kabul-black-hawk/"
+    ampWebUrl: "https://www.the-sun.com/news/3529625/joe-biden-troops-rescue-americans-kabul-black-hawk/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3529625/joe-biden-troops-rescue-americans-kabul-black-hawk/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 55
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/JG-COMP-AFGHAN-SOMALIA.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden: Another attack likely, pledges more strikes on IS"
     excerpt: "President Joe Biden is warning that it’s “highly likely” an Islamic State affiliate will try another attack in Afghanistan."
     publishedDateTime: 2021-08-29T23:14:00Z
@@ -139,6 +155,22 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 55
+  - title: "Joe Biden FINALLY lets US troops to rescue Americans outside Kabul airport after fearing ‘black hawk-style attack’"
+    excerpt: "JOE Biden finally allowed US soldiers to rescue stranded Americans outside Kabul airport as he feared another “Black Hawk Down” tragedy. The president discussed the attack on a conference call"
+    publishedDateTime: 2021-08-24T09:13:00Z
+    webUrl: "https://www.thesun.co.uk/news/15950663/joe-biden-troops-rescue-americans-kabul-black-hawk/"
+    ampWebUrl: "https://www.thesun.co.uk/news/15950663/joe-biden-troops-rescue-americans-kabul-black-hawk/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/15950663/joe-biden-troops-rescue-americans-kabul-black-hawk/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 53
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2021/08/JG-COMP-AFGHAN-SOMALIA-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "F1Uw9+YMPwQ13q6D5lmOe6Ggd0BOIW5L3Odcds1W9cc18JdrGMhOhndcfZBeGJrX5fT8L3po5aPZcnUviq9PIywt+lf2TmIaZ8LYQ7zNzkmkW+MGCoUuNTjv11BXP6q935gAJBTNtmMLJMPsTQUen1HT/xZYa5UawaW22Zg2APSzLn9PPb/zoOPa1PNsOYYxMT2OcslLjghm8sYHGTtyotz3T0IoVLDb4715XDFCEuX74YcX/qmIrfxLoh07xsfLp5ukvO1+ReFOliUPof6uUetJaKC4YJJtFDbBSIt9lkSyMKouqqmv6zGCtkJOnF32Y2Yr8i2wzAvJjGCgPEIq2jNOQ7vnietsD0E9kLJzVmb37ly+YNeJuJgMMWAV84s87uJFMdV0qDmyATOqMN9iskQ7UrR4h74gGCRAiEs0m49Jd2VvxNW+I0LwL8q3Ddze1WZszVl7hpQcXezVqjRqxIOQr+Xch+Wf7qZAsk79rfdezTAbDuUe0ix/H37QLsSaZs5dUN2FS9OEvtMX1R9Y3w==;jVhbov+QDri+VIbnQDPhCw=="
 ---

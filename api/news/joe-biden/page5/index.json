@@ -2,120 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-07-14-ingraham-slams-bidens-philadelphia-voter-rights-speech-as-usual-liberals-are-at-war-with-the-facts.md",
-      "title": "Ingraham slams Biden's Philadelphia voter rights speech: 'As usual, liberals are at war with the facts'",
-      "excerpt": "In response to President Joe Biden's Tuesday speech on voting rights protection in Philadelphia, Fox News host Laura Ingraham ripped the president on \"The Ingraham Angle,\" claiming that \"as usual, liberals are at war with the facts\" and that Biden was \"just reading whatever script his writers handed to him.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/ingraham-biden-philadelphia-voter-rights",
-      "originalUrl": "https://www.foxnews.com/media/ingraham-biden-philadelphia-voter-rights",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/46929a4d-78fe-445f-a714-0ea8ceb5e626/8eb45b00-d0a2-4b1b-8670-7c60e17ede15/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/ingraham-biden-philadelphia-voter-rights.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ingraham-biden-philadelphia-voter-rights.amp",
-      "publishedDateTime": "2021-07-13T21:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-gutfeld-rips-biden-as-pathological-liar-injecting-race-into-election-law-speech-amid-texas-standoff.md",
-      "title": "Gutfeld rips Biden as 'pathological liar' injecting race into election law speech amid Texas standoff",
-      "excerpt": "The Five” host Greg Gutfeld blasted President Joe Biden as a “pathological, shameless liar” after the Delaware Democrat injected race into a Philadelphia speech about election laws, as Texas state Democratic lawmakers flew to Washington,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/gutfeld-rips-biden-as-pathological-liar-injecting-race-into-election-law-speech-amid-texas-law-battle",
-      "originalUrl": "https://www.foxnews.com/media/gutfeld-rips-biden-as-pathological-liar-injecting-race-into-election-law-speech-amid-texas-law-battle",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15acd04c-ce05-489f-b4ff-0c3c721a9261/c65b3c24-a176-43f7-9682-1e934821161f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/gutfeld-rips-biden-as-pathological-liar-injecting-race-into-election-law-speech-amid-texas-law-battle.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/gutfeld-rips-biden-as-pathological-liar-injecting-race-into-election-law-speech-amid-texas-law-battle.amp",
-      "publishedDateTime": "2021-07-13T15:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-07-13-biden-picks-ex-west-virginia-health-official-as-drug-czar.md",
       "title": "Biden picks ex-West Virginia health official as drug czar",
       "excerpt": "President Joe Biden is nominating West Virginia’s former health commissioner as the nation’s top anti-drug official, tapping a doctor who served on the front lines of the nation’s opioid epidemic",
@@ -625,6 +511,58 @@
       ]
     },
     {
+      "path": "_news/2021-07-09-biden-says-i-will-not-send-another-generation-of-americans-to-war-in-afghanistan-live.md",
+      "title": "Biden says ‘I will not send another generation of Americans to war in Afghanistan’ – live",
+      "excerpt": "Joe Biden speaks on US troop withdrawal after 20 years at war – follow all the day’s political news",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest?page=with:block-60e771858f088074caec4722",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest?page=with:block-60e771858f088074caec4722",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 216,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/f875a2dbf99456d76ab1ce8df2c7ea938afda71d/0_117_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=65c205b887888d975c7bb3e64723ed7b",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest",
+      "publishedDateTime": "2021-07-08T14:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-hannity-biden-called-georgia-voter-law-jim-crow-but-heres-the-truth-about-his-home-state.md",
       "title": "Hannity: Biden called Georgia voter law 'Jim Crow' but here's the truth about his home state",
       "excerpt": "Sean Hannity, host of \"Hannity,\" slammed President Joe Biden and the left for now supporting a push for voter ID laws. Hannity pointed out Wednesday that if Democrats want to be taken seriously, then Democrat-run states such as Delaware,",
@@ -705,58 +643,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-florida-condo-search-biden-on-afghanistan-tropical-storm-elsa-5-things-to-know-thursday.md",
-      "title": "Florida condo search, Biden on Afghanistan, Tropical Storm Elsa: 5 things to know Thursday",
-      "excerpt": "Crews in the Florida condo building collapse switch to recovery, Biden will discuss drawdown efforts in Afghanistan and more news to start your Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/2021/07/08/florida-condo-search-afghanistan-elsa-5-things-know-thursday/7874971002/",
-      "originalUrl": "https://www.usatoday.com/story/news/2021/07/08/florida-condo-search-afghanistan-elsa-5-things-know-thursday/7874971002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/07/07/USAT/9262c413-f2f6-4e55-9d85-a24a54fcbd05-AFP_AFP_9DC963.jpg?auto=webp&crop=2047,1152,x0,y120&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7874971002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7874971002",
-      "publishedDateTime": "2021-07-08T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1533,6 +1419,115 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-03-ari-fleischer-challenges-bidens-victory-lap-on-economy-hes-a-trojan-horse-with-a-script.md",
+      "title": "Ari Fleischer challenges Biden's victory lap on economy: He's a 'Trojan horse with a script'",
+      "excerpt": "Former White House press secretary Ari Fleischer called out President Biden Friday for taking a victory lap on the better-than-expected June jobs report and crediting his administration's economic agenda for the strongest hiring gain in 10 months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/ari-fleischer-biden-economy-trojan-horse-with-script",
+      "originalUrl": "https://www.foxnews.com/media/ari-fleischer-biden-economy-trojan-horse-with-script",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a64119f-1abd-4346-98e2-1b3ff777a05f/a790245a-7083-4465-b173-0a834fc862fe/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/ari-fleischer-biden-economy-trojan-horse-with-script.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ari-fleischer-biden-economy-trojan-horse-with-script.amp",
+      "publishedDateTime": "2021-07-02T11:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-03-biden-taps-lawyer-mallory-stewart-for-us-arms-control-post.md",
+      "title": "Biden taps lawyer Mallory Stewart for U.S. arms control post",
+      "excerpt": "President Joe Biden said on Friday he planned to nominate Mallory Stewart to be assistant secretary of state for arms control, a key job as Washington and Moscow contemplate a successor to the New START arms control treaty.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/politicsNews/idUSKCN2E828N?edition-redirect=uk",
+      "originalUrl": "https://www.reuters.com/article/politicsNews/idUSKCN2E828N?edition-redirect=uk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/FpiYgCM5N_RbUn_hpep1zy3rRJc=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/34M7YKTA2RDUFGPRTWF7VQF7KI.jpg",
+          "width": 800,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-02T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

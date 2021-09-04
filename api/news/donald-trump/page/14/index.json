@@ -2,58 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_news/2021-05-26-son-ghostwriter-of-late-senator-say-trump-intervened-to-stop-probe-of-patriots-spygate-scandal.md",
-      "title": "Son, ghostwriter of late senator say Trump intervened to stop probe of Patriots' Spygate scandal",
-      "excerpt": "A hard-charging United States senator from Pennsylvania named Arlen Specter had launched an investigation into the Spygate scandal. He tried to determine how many games the New England Patriots' illegal videotaping operation of opposing coaches' signals had helped the team win and learn why the NFL,",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Sports/son-ghostwriter-late-senator-trump-intervened-stop-probe/story?id=77914778",
-      "originalUrl": "https://abcnews.go.com/Sports/son-ghostwriter-late-senator-trump-intervened-stop-probe/story?id=77914778",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
-          "width": 834,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Sports/son-ghostwriter-late-senator-trump-intervened-stop-probe/story?id=77914778",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Sports/son-ghostwriter-late-senator-trump-intervened-stop-probe/story?id=77914778",
-      "publishedDateTime": "2021-05-26T05:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-05-26-donald-trump-says-he-usually-did-the-opposite-of-what-anthony-fauci-advised-on-covid.md",
       "title": "Donald Trump Says He 'Usually Did the Opposite' Of What Anthony Fauci Advised on COVID",
       "excerpt": "Republican former President Donald Trump on Tuesday night said he \"usually did the opposite\" of what infectious diseases expert Dr. Anthony Fauci advised during his presidency. \"Remember I closed our country to China way early much earlier than [Democratic House Speaker Nancy] Pelosi or anybody wanted it to happen,",
@@ -1570,6 +1518,54 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-trump-vance-james-trying-to-cancel-voters-with-criminal-probe-into-organization.md",
+      "title": "Trump: Vance, James trying to ‘cancel’ voters with criminal probe into organization",
+      "excerpt": "Former President Donald Trump blasted New York Attorney General Letitia James and Manhattan District Attorney Cy​rus​ Vance Jr. for their joint criminal investigation into his organization.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/05/19/trump-vance-james-trying-to-cancel-voters-with-probe/",
+      "originalUrl": "https://nypost.com/2021/05/19/trump-vance-james-trying-to-cancel-voters-with-probe/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/james-vs-trump-hp1.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/05/19/trump-vance-james-trying-to-cancel-voters-with-probe/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/19/trump-vance-james-trying-to-cancel-voters-with-probe/amp/",
+      "publishedDateTime": "2021-05-19T11:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
       ]
     }
   ],

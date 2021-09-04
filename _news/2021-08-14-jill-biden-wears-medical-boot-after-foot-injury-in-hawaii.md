@@ -59,38 +59,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Afghanistan: 'The sooner we finish, the better,' says Joe Biden"
-    excerpt: "US President Joe Biden says the US is \"on pace\" to meet a 31 August deadline for evacuations, despite previous calls from allies for an extension. \"The sooner we finish the better,\" he said. Some American troops have already been withdrawn,"
-    publishedDateTime: 2021-08-25T04:46:00Z
-    webUrl: "https://www.bbc.com/news/world-asia-58321849"
-    ampWebUrl: "https://www.bbc.com/news/world-asia-58321849.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-asia-58321849.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/FFB7/production/_120236456_mediaitem120232630.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "First Thing: Joe Biden’s approval rating dips amid Afghanistan and Covid crises"
-    excerpt: "President called upon to extend 31 August deadline to complete evacuations from Afghanistan"
-    publishedDateTime: 2021-08-24T09:58:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/aug/24/first-thing-joe-biden-approval-rating-dips-amid-afghanistan-and-covid-crises?fr=operanews"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/24/first-thing-joe-biden-approval-rating-dips-amid-afghanistan-and-covid-crises"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/24/first-thing-joe-biden-approval-rating-dips-amid-afghanistan-and-covid-crises"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 121
-    images:
-      - url: "https://i.guim.co.uk/img/media/97b443b48cec0f3fcf8cb3f30c2acf1413407513/0_117_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2fe5d03a325b43103f72f696a926f960"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Joe Biden Said He Is Committed To Helping Evacuate Afghan Allies Who Worked With The US Government"
     excerpt: "In a speech at the White House, Biden again stood by his decision to withdraw US forces from the country. By Clarissa-Jan Lim Posted on August 20, 2021, at 3:05 p.m. ET President Joe Biden delivers remarks on the ongoing evacuation efforts in Afghanistan,"
     publishedDateTime: 2021-08-20T23:13:00Z
@@ -326,22 +294,6 @@ related:
       - url: "https://media.firstcoastnews.com/assets/WOI/images/335069f2-4a45-41ef-93dc-9fff1bb4f1f8/335069f2-4a45-41ef-93dc-9fff1bb4f1f8_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "Joe Biden actions on Afghanistan may trigger World War III (Letters)"
-    excerpt: "What President Joe Biden did was much more than totally mismanage the U.S. withdrawal from Afghanistan and lose respect internationally; his action will set off great danger for our country. First, this sets the stage for the growth and strength of world-wide terrorism."
-    publishedDateTime: 2021-08-24T17:25:00Z
-    webUrl: "https://www.masslive.com/opinion/2021/08/joe-biden-actions-on-afghanistan-may-trigger-world-war-iii-letters.html"
-    ampWebUrl: "https://www.masslive.com/opinion/2021/08/joe-biden-actions-on-afghanistan-may-trigger-world-war-iii-letters.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/opinion/2021/08/joe-biden-actions-on-afghanistan-may-trigger-world-war-iii-letters.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/26TDCLVL75AD5BHOCGDJO4FNCM.jpg"
-        width: 6720
-        height: 4480
         isCached: true
   - title: "Tennessee flooding prompts Biden disaster declaration"
     excerpt: "President Joe Biden has approved a major disaster declaration sought by Tennessee after record rainfall caused devastating floods that killed at least 22 people, according to a statement sent Tuesday."

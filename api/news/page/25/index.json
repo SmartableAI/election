@@ -2,6 +2,62 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-07-10-west-says-trumps-backing-of-abbott-doesnt-hurt-his-primary-challenge-against-texas-governor.md",
+      "title": "West says Trump’s backing of Abbott ‘doesn’t hurt’ his primary challenge against Texas governor",
+      "excerpt": "Outgoing Texas GOP chair Allen West insists that former President Trump’s endorsement of Gov. Greg Abbott “doesn’t hurt” his 2022 primary challenge against the two-term Republican governor.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xx5zmypKJe0/west-says-trumps-backing-of-abbott-doesnt-hurt-his-primary-challenge-against-texas-governor",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xx5zmypKJe0/west-says-trumps-backing-of-abbott-doesnt-hurt-his-primary-challenge-against-texas-governor",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/west-says-trumps-backing-of-abbott-doesnt-hurt-his-primary-challenge-against-texas-governor.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/west-says-trumps-backing-of-abbott-doesnt-hurt-his-primary-challenge-against-texas-governor.amp",
+      "publishedDateTime": "2021-07-10T05:37:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-10-justice-department-releases-videos-of-jan-6-cop-dragging-attack-near-pro-trump-rioter-who-died.md",
       "title": "Justice Department releases videos of Jan. 6 cop-dragging attack near pro-Trump rioter who died",
       "excerpt": "The Justice Department released new police body camera footage Friday showing one of the most disturbing assaults during the Capitol insurrection -- where three officers waded into the crowd to save a pro-Trump rioter who was trampled, only to be stripped of their protective gear, dragged down a set",
@@ -1307,58 +1363,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-kamala-harris-joins-dnc-to-announce-expansion-of-i-will-vote-campaign.md",
-      "title": "Kamala Harris joins DNC to announce expansion of \"I Will Vote\" campaign",
-      "excerpt": "Vice President Harris on Thursday helped the Democratic National Committee announce an expansion of its \"I Will Vote\" campaign, which focuses on promoting voter registration and participation among minorities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/kamala-harris-democrats-i-will-vote-campaign/",
-      "originalUrl": "https://www.cbsnews.com/video/kamala-harris-democrats-i-will-vote-campaign/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/08/eb79983b-83fe-4e13-921f-49af9512cd63/thumbnail/1200x630/7c220e32a1fe3d584e4098b17c57013b/cbsn-fusion-kamala-harris-democrats-i-will-vote-campaign-thumbnail-749879-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-08T12:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/world-nation/story/2021-08-23/kamala-harris-
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-08-23/kamala-harris-says-focus-must-stay-on-afghan-evacuation?_amp=true"
 type: article
 quality: 125
-heat: 1745
+heat: 1765
 published: true
 
 provider:
@@ -765,6 +765,22 @@ related:
       - url: "https://images.firstpost.com/wp-content/uploads/2020/11/kamala-harris-640-AP.jpg"
         width: 640
         height: 362
+        isCached: true
+  - title: "Calls for Kamala Harris to be impeached ‘for not visiting Afghanistan’ as it’s said VP and Biden ‘are complicit in this’"
+    excerpt: "CALLS for Kamala Harris’ impeachment “for not visiting Afghanistan” grow as the US continues to remove citizens from the Taliban-controlled capital.  On Monday, Georgia Representative Marjorie"
+    publishedDateTime: 2021-08-24T14:16:00Z
+    webUrl: "https://www.the-sun.com/news/3531832/kamala-harris-impeached-not-visiting-afghanistan/"
+    ampWebUrl: "https://www.the-sun.com/news/3531832/kamala-harris-impeached-not-visiting-afghanistan/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3531832/kamala-harris-impeached-not-visiting-afghanistan/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 65
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/lv-comp-kamala-harris-impeached-Afghanistan.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
         isCached: true
   - title: "‘Find your courage’: GOP lawmaker urges Kamala Harris to invoke 25th Amendment, seize power"
     excerpt: "A Republican House member wrote a letter Thursday to Vice President Kamala Harris, asking that she seize power under the 25th Amendment."

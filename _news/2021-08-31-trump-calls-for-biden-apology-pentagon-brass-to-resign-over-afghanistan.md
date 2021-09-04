@@ -43,22 +43,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Trump claims Biden's Afghanistan evacuation could be bringing 'terrorists' to America"
-    excerpt: "In an August 25 statement, Trump asked people to imagine \"how many terrorists\" were \"airlifted out of Afghanistan\" and into neighborhoods worldwide."
-    publishedDateTime: 2021-08-25T05:54:00Z
-    webUrl: "https://www.businessinsider.com/trump-claims-biden-bringing-afghan-terrorists-to-the-us-2021-8"
-    ampWebUrl: "https://www.businessinsider.com/trump-claims-biden-bringing-afghan-terrorists-to-the-us-2021-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-biden-bringing-afghan-terrorists-to-the-us-2021-8?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 133
-    images:
-      - url: "https://i.insider.com/6125bffe493203001845c0bf?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "As U.S. Leaves Afghanistan, How Biden's 7-Month Approval Rating Stacks Up Against Trump's"
     excerpt: "President Joe Biden lost his majority approval rating as Americans left Afghanistan, giving rise to the Taliban's takeover of the country."
     publishedDateTime: 2021-08-30T20:27:00Z
@@ -90,22 +74,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/08/28/USAT/3a4d2cbf-e416-4fe0-94c4-676d13436475-AFP_AFP_9LT6HF.jpg?auto=webp&crop=4497,2530,x0,y229&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Donald Trump Gave Joe Biden 'Hospital Pass' on Afghanistan, Says Tony Blair's Defense Secretary"
-    excerpt: "As Tony Blair criticizes Joe Biden's withdrawal of U.S. troops from Afghanistan, his former U.K. defense secretary Geoff Hoon defended the American president."
-    publishedDateTime: 2021-08-23T11:36:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-gave-joe-biden-hospital-pass-afghanistan-tony-blair-defense-secretary-1621971"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-gave-joe-biden-hospital-pass-afghanistan-tony-blair-defense-secretary-1621971?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-gave-joe-biden-hospital-pass-afghanistan-tony-blair-defense-secretary-1621971?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 128
-    images:
-      - url: "https://d.newsweek.com/en/full/1877338/us-troops-kabul-airport-afghanistan-evacuation.jpg"
-        width: 2500
-        height: 1667
         isCached: true
   - title: "Joe Biden’s potential Jimmy Carter moment"
     excerpt: "In Joe Biden’s remarks following the Kabul terrorist attack on Thursday, he concluded: “Ladies and gentlemen, after 20 years it was time to end a 20-year war.” The moment was horribly circular. America went into Afghanistan in 2001 to drive out the terrorists."
@@ -168,22 +136,6 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/C8CD/production/_120350415_976_hi069712049.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "'When I was President...': Donald Trump on Taliban, Joe Biden, Afghanistan"
-    excerpt: "Former US President Donald Trump hit out at his successor over the messy exit from Afghanistan which has led to Taliban taking over most of the country, and an evacuation crisis breaking out. Trump said that Joe Biden had gone on vacation as Afghanistan was going to hell."
-    publishedDateTime: 2021-08-23T16:57:00Z
-    webUrl: "https://www.hindustantimes.com/videos/world-news/when-i-was-president-donald-trump-on-taliban-joe-biden-afghanistan-101629737383021.html"
-    ampWebUrl: "https://www.hindustantimes.com/videos/world-news/when-i-was-president-donald-trump-on-taliban-joe-biden-afghanistan-101629737383021-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/videos/world-news/when-i-was-president-donald-trump-on-taliban-joe-biden-afghanistan-101629737383021-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 88
-    images:
-      - url: "https://images.hindustantimes.com/img/2021/08/23/1600x900/HT_Normal_Thumbnail_-_AUG__2021_1629737552559_1629737630771.png"
-        width: 1600
-        height: 899
         isCached: true
   - title: "Former Trump adviser: Biden needs to fire top Taliban negotiator Khalilzad"
     excerpt: "Lt. Gen. H.R. McMaster, Donald Trump’s former national security adviser, is laying some of the blame for the current chaos in Afghanistan squarely at the feet of Ambassador Zalmay Khalilzad, the Afghan-American diplomat who has been the point man for talks with the Taliban in both Republican and Democratic administrations."
@@ -329,36 +281,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Bush, Obama, Trump, Biden: How four presidents created today's Afghanistan mess"
-    excerpt: "How America spent 20 years in Afghanistan, only to have the Taliban resume control again as its troops withdrew, will be a topic for historians to ponder for decades."
-    publishedDateTime: 2021-08-24T12:30:00Z
-    webUrl: "https://www.stltoday.com/news/national/bush-obama-trump-biden-how-four-presidents-created-todays-afghanistan-mess/article_d141af37-f20c-51e4-afd0-2a84091979f3.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 66
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/14/d141af37-f20c-51e4-afd0-2a84091979f3/6124e09886aaa.preview.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Afghanistan fallout to hang over potential 2024 GOP presidential contenders, as well as Biden"
-    excerpt: "The chaotic U.S. withdrawal from Afghanistan may haunt President Joe Biden, but it could also hang over some of the Republicans who will seek to replace him in 2024."
-    publishedDateTime: 2021-08-24T09:00:00Z
-    webUrl: "https://www.miamiherald.com/news/politics-government/article253683123.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article253683123.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article253683123.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 64
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/346c4d4c-0ebe-4577-bdbf-21c5f8e914af/554385c1-d5d0-4f0c-9b03-7bab5722a707/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "CIA Chief Secretly Met Taliban Leader as Biden Faces Pressure Over Afghan Evacuation Deadline"
     excerpt: "Facing growing pressure over his looming deadline to leave Afghanistan, President Joe Biden dispatched his spy chief to meet with the Taliban’s de facto leader"
     publishedDateTime: 2021-08-24T11:29:00Z
@@ -374,22 +296,6 @@ related:
       - url: "https://media.nbcnewyork.com/2021/08/106930482-16293874992021-08-19t153626z_1232404442_rc2f8p93ikuh_rtrmadp_0_afghanistan-conflict-usa-arms.jpeg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Afghanistan: CIA director secretly meets Taliban leader as Joe Biden mulls evacuation deadline"
-    excerpt: "President Joe Biden dispatched William Burns to Kabul on Monday as he considers whether to extend his deadline to pull US troops out of Afghanistan."
-    publishedDateTime: 2021-08-24T13:46:00Z
-    webUrl: "https://news.sky.com/story/afghanistan-cia-director-secretly-meets-taliban-leader-as-joe-biden-mulls-evacuation-deadline-12389454"
-    ampWebUrl: "https://news.sky.com/story/amp/afghanistan-cia-director-secretly-meets-taliban-leader-as-joe-biden-mulls-evacuation-deadline-12389454"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/afghanistan-cia-director-secretly-meets-taliban-leader-as-joe-biden-mulls-evacuation-deadline-12389454"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 63
-    images:
-      - url: "https://e3.365dm.com/21/08/1600x900/skynews-william-burns-abdul-ghani-baradar_5488833.jpg?20210824145349"
-        width: 1600
-        height: 900
         isCached: true
   - title: "President Joe Biden warns of more attacks as military begins final withdrawal from Afghanistan"
     excerpt: "On alert for more terrorist attacks, the U.S. military has begun its final withdrawal from Afghanistan in the closing stages of a frantic airlift of Americans, Afghans and others desperate to escape Taliban rule before the evacuation shuts down."
@@ -513,33 +419,6 @@ related:
         width: 650
         height: 433
         isCached: true
-  - title: "Boris Johnson will urge Joe Biden to delay withdrawal of US forces from Afghanistan as thousands try to escape Taliban"
-    excerpt: "BORIS Johnson will urge Joe Biden to delay the withdrawal of US forces from Afghanistan as thousands try to escape the Taliban. Mr Johnson will use a G7 meeting on Tuesday to ask the US"
-    publishedDateTime: 2021-08-23T18:03:00Z
-    webUrl: "https://www.the-sun.com/news/3522018/boris-johnson-joe-biden-afghanistan-withdrawal-taliban/"
-    ampWebUrl: "https://www.the-sun.com/news/3522018/boris-johnson-joe-biden-afghanistan-withdrawal-taliban/amp/"
-    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3522018/boris-johnson-joe-biden-afghanistan-withdrawal-taliban/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: the-sun.com
-    quality: 51
-    images:
-      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/1859035b-54f8-4f10-990a-2867f9869d12.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Biden faces pressure to extend Afghanistan evacuation mission as Taliban warns against doing so"
-    excerpt: "The United States faced mounting global pressure on Monday to extend its evacuation mission in Afghanistan past President Joe Biden's Aug. 31 deadline, despite a Taliban warning against doing so. The admonition from Taliban spokesman Suhail Shaheen,"
-    publishedDateTime: 2021-08-24T03:42:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/biden-faces-pressure-to-extend-afghanistan-evacuation-mission-as-taliban-warns-against-doing-so/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/biden-faces-pressure-to-extend-afghanistan-evacuation-mission-as-taliban-warns-against-doing-so/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/biden-faces-pressure-to-extend-afghanistan-evacuation-mission-as-taliban-warns-against-doing-so/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 43
   - title: "Is Joe Biden repeating the mistakes of the past in Afghanistan? Catholic commentators weigh in."
     excerpt: "The withdrawal of U.S. troops is not an end, but instead represents a new chapter in our entanglement with the Taliban in Afghanistan, agree several experts contacted by America magazine."
     publishedDateTime: 2021-08-30T20:11:00Z

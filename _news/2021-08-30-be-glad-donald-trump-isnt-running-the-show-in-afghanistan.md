@@ -25,275 +25,163 @@ images:
     isCached: true
 
 related:
-  - title: "House panel tees up Trump executive privilege fight in Jan. 6 probe"
-    excerpt: "The House committee seeking executive branch documents in its investigation of the Jan. 6 attack is likely to force a standoff between Congress and former President Trump Donald Trump Pollsters confront tough survey landscape after 2020 flubs The Memo: Will DeSantis's star fall as Florida COVID numbers rise?"
-    publishedDateTime: 2021-08-29T23:17:00Z
-    webUrl: "https://thehill.com/regulation/court-battles/569743-house-panel-tees-up-trump-executive-privilege-fight-in-jan-6-probe"
-    ampWebUrl: "https://thehill.com/regulation/court-battles/569743-house-panel-tees-up-trump-executive-privilege-fight-in-jan-6-probe?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/regulation/court-battles/569743-house-panel-tees-up-trump-executive-privilege-fight-in-jan-6-probe?amp"
+  - title: "Afghanistan: Former advisor to Mike Pence warned in 2020 that Trump was setting up another 'Benghazi'"
+    excerpt: "The advisor wrote Trump left \"an unsustainable presence in Afghanistan, a crisis for the Afghan people, and a mess for the Biden-Harris administration.\""
+    publishedDateTime: 2021-08-28T00:01:00Z
+    webUrl: "https://www.businessinsider.com/kabul-ex-pence-adviser-warned-trump-setting-up-another-benghazi-2021-8"
+    ampWebUrl: "https://www.businessinsider.com/kabul-ex-pence-adviser-warned-trump-setting-up-another-benghazi-2021-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kabul-ex-pence-adviser-warned-trump-setting-up-another-benghazi-2021-8?amp"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/article_images/trumpdonald_070321getty_executive-standoff.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "With fight over mask mandates, Gov. Abbott passes purity test in Trump's GOP"
-    excerpt: "When Texas had its first big surge of COVID hospitalizations, Gov. Greg Abbott responded by shutting down bars and mandating masks. As the second surge hit, Abbott put in place an automatic trigger to restrict the operating capacities of businesses and halt non-emergency surgeries to free up hospital beds in areas with high hospitalizations."
-    publishedDateTime: 2021-08-22T09:00:00Z
-    webUrl: "https://www.houstonchronicle.com/politics/texas/article/Even-as-COVID-resurges-there-is-no-room-for-Gov-16401385.php"
-    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Even-as-COVID-resurges-there-is-no-room-for-Gov-16401385.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Even-as-COVID-resurges-there-is-no-room-for-Gov-16401385.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 122
-    images:
-      - url: "https://s.hdnux.com/photos/01/21/42/70/21376521/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
-        isCached: true
-  - title: "House panel investigating Capitol riot plans to ask telecom firms to preserve Trump allies' phone records"
-    excerpt: "The Jan. 6 committee's list of names — including Trump loyalists Marjorie Taylor Greene, Matt Gaetz and Mo Brooks — is still evolving."
-    publishedDateTime: 2021-08-30T15:51:00Z
-    webUrl: "https://www.cnbc.com/2021/08/30/capitol-riot-jan-6-committee-wants-trump-allies-phone-records-preserved.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/08/30/capitol-riot-jan-6-committee-wants-trump-allies-phone-records-preserved.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/30/capitol-riot-jan-6-committee-wants-trump-allies-phone-records-preserved.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 108
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106822524-1610396554994-gettyimages-1230465266-Lev_Radin_010721.jpeg?v=1627932893"
-        width: 3000
-        height: 2000
-        isCached: true
-  - title: "With fight over mask mandates, Gov. Abbott passes purity test in Trump's GOP"
-    excerpt: "But now as the state hits a third surge, Abbott — who faces re-election early next year — is doing none of that. Instead, he is suggesting that people wear masks when appropri"
-    publishedDateTime: 2021-08-23T19:26:00Z
-    webUrl: "https://www.houstonchronicle.com/politics/texas/article/covid-abbott-purity-test-trump-gop-republican-mask-16401385.php"
-    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/covid-abbott-purity-test-trump-gop-republican-mask-16401385.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/covid-abbott-purity-test-trump-gop-republican-mask-16401385.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 102
-  - title: "House panel investigating Jan. 6 attack seeks records from agencies on insurrection, Trump in first request for information"
-    excerpt: "The committee demanded materials from the National Archives, four Cabinet departments, the FBI and other agencies."
-    publishedDateTime: 2021-08-25T20:00:00Z
-    webUrl: "https://www.washingtonpost.com/powerpost/january-6-committee-trump/2021/08/25/cd356794-059a-11ec-a654-900a78538242_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 79
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RN7MCKQFXQI6ZJSUSAFHQU4CII.jpg&w=1440"
-        width: 1440
-        height: 975
-        isCached: true
-  - title: "Apple joins lawsuit regarding Trump-era tariffs on Chinese products"
-    excerpt: "Apple, Intel and Pfizer have joined 3,700 other U.S. businesses in their suit against the U.S. regarding Trump-era tariffs on $300 billion worth of Chinese products, reports Jurist. This lawsuit was first brought by HMTX Industries in September 2020 and initially targeted List 3 tariffs."
-    publishedDateTime: 2021-08-25T13:19:00Z
-    webUrl: "https://www.mactech.com/2021/08/25/apple-joins-lawsuit-regarding-trump-era-tariffs-on-chinese-products/"
-    ampWebUrl: "https://www.mactech.com/2021/08/25/apple-joins-lawsuit-regarding-trump-era-tariffs-on-chinese-products/amp/"
-    cdnAmpWebUrl: "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2021/08/25/apple-joins-lawsuit-regarding-trump-era-tariffs-on-chinese-products/amp/"
-    type: article
-    provider:
-      name: MacTech
-      domain: mactech.com
-    quality: 75
-    images:
-      - url: "https://www.mactech.com/wp-content/uploads/2021/08/Lawsuit-image-1024x666.jpg"
-        width: 1024
-        height: 666
-        isCached: true
-  - title: "House panel investigating Capitol riot seeks trove of Trump-era records"
-    excerpt: "The House committee investigating the January insurrection at the U.S. Capitol is demanding a trove of records from federal intelligence and law enforcement agencies, showing the sweep of the"
-    publishedDateTime: 2021-08-25T19:25:00Z
-    webUrl: "https://ktla.com/news/nationworld/house-panel-investigating-capitol-riot-seeks-trove-of-trump-era-records/"
-    ampWebUrl: "https://ktla.com/news/nationworld/house-panel-investigating-capitol-riot-seeks-trove-of-trump-era-records/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/nationworld/house-panel-investigating-capitol-riot-seeks-trove-of-trump-era-records/amp/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 75
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2021/08/AP21237587812201.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "House panel probing 1/6 riot seeks host of Trump-era records"
-    excerpt: "U.S. Capitol Police officers who were attacked and beaten during the Capitol riot are suing former President Donald Trump, his allies and members of far-right extremist groups."
-    publishedDateTime: 2021-08-26T07:20:00Z
-    webUrl: "https://www.bradenton.com/news/politics-government/national-politics/article253752163.html"
-    ampWebUrl: "https://amp.bradenton.com/news/politics-government/national-politics/article253752163.html"
-    cdnAmpWebUrl: "https://amp-bradenton-com.cdn.ampproject.org/c/s/amp.bradenton.com/news/politics-government/national-politics/article253752163.html"
-    type: article
-    provider:
-      name: Bradenton Herald
-      domain: bradenton.com
-    quality: 75
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/7f1caafa-aea1-49ad-bc9f-e3322fb2825c/af216152-128c-45c0-b0b0-8fff6b46b17c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Select Committee seeks Trump records as part of Jan. 6 probe"
-    excerpt: "The head of the House Select Committee on the Jan. 6 attack on the U.S. Capitol issued a sweeping round of demands Wednesday seeking information from the executive branch and other agencies related to the attack and former President Donald Trump’s push to discredit the election results."
-    publishedDateTime: 2021-08-25T18:54:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/aug/25/select-committee-seeks-trump-records-part-jan-6-pr/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/25/select-committee-seeks-trump-records-part-jan-6-pr/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/25/select-committee-seeks-trump-records-part-jan-6-pr/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/07/12/capitol_breach_investigation_22360_c0-229-5500-3437_s1200x700.jpg?cd6ebda61bdcbd7068faa31a6cc9adbce23a3edd"
+      - url: "https://i.insider.com/612805a612b9cc0019630f06?width=1200&format=jpeg"
         width: 1200
-        height: 700
+        height: 600
         isCached: true
-  - title: "Judge tosses Trump rollback of clean water safeguards"
-    excerpt: "A federal judge has thrown out a Trump-era rule that ended federal protections for hundreds of thousands of small streams, wetlands and other waterways and left them vulnerable to pollution from nearby development."
-    publishedDateTime: 2021-08-31T21:36:00Z
-    webUrl: "https://www.thehour.com/news/article/Judge-tosses-Trump-rollback-of-clean-water-16426305.php"
-    ampWebUrl: "https://www.thehour.com/news/amp/Judge-tosses-Trump-rollback-of-clean-water-16426305.php"
-    cdnAmpWebUrl: "https://www-thehour-com.cdn.ampproject.org/c/s/www.thehour.com/news/amp/Judge-tosses-Trump-rollback-of-clean-water-16426305.php"
+  - title: "Donald Trump Mistakes ISIS-K For ISIS-X, Then Says It's 'Going to be Worse'"
+    excerpt: "The former president attacked the Biden administration's \"stupidity\" regarding the how the Afghanistan withdrawal was executed."
+    publishedDateTime: 2021-08-27T08:55:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-mistakes-isis-k-isis-x-says-its-going-worse-1623569"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-mistakes-isis-k-isis-x-says-its-going-worse-1623569?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-mistakes-isis-k-isis-x-says-its-going-worse-1623569?amp=1"
     type: article
     provider:
-      name: The Hour
-      domain: thehour.com
-    quality: 75
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://d.newsweek.com/en/full/1878895/former-president-donald-trump-holds-rally.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "The House panel probing the Capitol riot seeks a host of Trump-era records"
-    excerpt: "The requested documents are just the beginning of what is expected to be lengthy partisan and rancorous investigation."
-    publishedDateTime: 2021-08-25T18:47:00Z
-    webUrl: "https://www.inquirer.com/politics/nation/capitol-riot-house-panel-trump-documents-probe-20210825.html"
-    ampWebUrl: "https://www.inquirer.com/politics/nation/capitol-riot-house-panel-trump-documents-probe-20210825.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/politics/nation/capitol-riot-house-panel-trump-documents-probe-20210825.html?outputType=amp"
+  - title: "Fact check: Quote about Afghanistan, Democrats in Washington falsely attributed to Donald Trump"
+    excerpt: "Donald Trump did not say the situation in Afghanistan is a distraction from the Democrats in Washington. The quote is being falsely attributed to him."
+    publishedDateTime: 2021-08-27T02:32:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2021/08/26/fact-check-trump-didnt-make-viral-comment-afghanistan/5586860001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5586860001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5586860001"
     type: article
     provider:
-      name: Philadelphia Inquirer
-      domain: inquirer.com
-    quality: 73
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
     images:
-      - url: "https://www.inquirer.com/resizer/cNGsEx7ZoN44lRl3Qus2p-nkmg4=/0x0:2398x1600/760x507/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/ROPZU2U5UJGVRGSNLKMY5UHQKY.jpg"
-        width: 760
-        height: 507
-        isCached: true
-  - title: "House panel investigating Jan. 6 attack seeks records from Trump White House"
-    excerpt: "The House select committee investigating the Jan. 6 attack on the U.S. Capitol requested documents Wednesday from Trump administration officials and other federal agencies."
-    publishedDateTime: 2021-08-25T18:31:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/08/25/jan6-committee-documents-trump/6781629912225/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/08/25/jan6-committee-documents-trump/6781629912225/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/25/jan6-committee-documents-trump/6781629912225/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 72
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/6781629912225/2021/1/5984d1ea8cfbaef6c31dd8ba17df417d/v1.5/House-panel-investigating-Jan-6-attack-seeks-records-from-Trump-White-House.jpg"
-        width: 800
-        height: 534
-        isCached: true
-  - title: "Republican Donors Show Disinterest In Trump 2024 Campaign, Focus On Midterms"
-    excerpt: "Top Republican Party donors have pushed back on fundraising for former President Donald Trump’s potential 2024 campaign and are instead focused on the 2022 midterm elections, CNBC reported Tuesday. Almost immediately after leaving the White House in January,"
-    publishedDateTime: 2021-08-31T21:38:00Z
-    webUrl: "https://www.ibtimes.com/republican-donors-show-disinterest-trump-2024-campaign-focus-midterms-3285139"
-    ampWebUrl: "https://www.ibtimes.com/republican-donors-show-disinterest-trump-2024-campaign-focus-midterms-3285139?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/republican-donors-show-disinterest-trump-2024-campaign-focus-midterms-3285139?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 72
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/former-us-president-donald-trump-reportedly-told-his.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "GOP Senate candidates take page from Trump playbook as they fight for populist title"
-    excerpt: "Republicans in Ohio's Senate race are running on the message that propelled former President Donald Trump to office."
-    publishedDateTime: 2021-08-23T10:26:00Z
-    webUrl: "https://www.cincinnati.com/story/news/2021/08/22/ohio-senate-race-gop-candidates-fight-over-populist-lane/5499348001/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/5499348001"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5499348001"
-    type: article
-    provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 68
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/07/02/PCIN/912b9d7f-9050-4679-88f8-1b0a031b1914-070121JDVance_4.jpg?auto=webp&crop=3594,2022,x0,y184&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/08/22/USAT/9aef22b6-661a-487a-9438-89b679f37137-GTY_1335520712.jpg?auto=webp&crop=3688,2075,x0,y187&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Riot probe panel seeks records of Trump-era White House"
-    excerpt: "The House panel investigating the Jan. 6 riot at the U.S. Capitol is demanding a sweeping list of records and other information from eight executive branch agencies, including"
-    publishedDateTime: 2021-08-25T21:00:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/washington/riot-probe-panel-seeks-records-of-trump-era-white-house/article_f551f965-c8d1-5251-90c4-f8cbe04b0447.html"
+  - title: "Ex-Pence aide: Trump and Miller stymied Afghan refugee efforts"
+    excerpt: "Donald Trump and his allies have repeatedly claimed in recent days that his administration would have handled a withdrawal from Afghanistan better than President Joe Biden."
+    publishedDateTime: 2021-08-21T23:53:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/ex-pence-aide-trump-and-miller-stymied-afghan-refugee-efforts/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/ex-pence-aide-trump-and-miller-stymied-afghan-refugee-efforts/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/ex-pence-aide-trump-and-miller-stymied-afghan-refugee-efforts/?amp=1"
     type: article
     provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
-    quality: 55
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 80
+  - title: "Pence aide blames Stephen Miller for 'devastating' visa system for Afghans"
+    excerpt: "Olivia Troye said Stephen Miller, a senior adviser to former President Donald Trump, undermined anyone trying to get the allies out of Afghanistan."
+    publishedDateTime: 2021-08-21T16:43:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/08/21/mike-pence-aide-blames-stephen-miller-wrecking-afghan-visa-system/8228495002/"
+    ampWebUrl: "https://amp.indystar.com/amp/8228495002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/8228495002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 73
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+      - url: "https://www.gannett-cdn.com/presto/2019/11/13/USAT/53207fad-8816-4697-bd9b-a3dd79d8e3f3-VPC_STEPHEN_MILLER_DESK_THUMB.00_00_52_15.Still001.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Pro-Trump lawyers who pushed fraud cases face serious consequences"
-    excerpt: "Lawyers who sought to overturn the 2020 election results in key states, alleging fraud, were sanctioned last week by a federal judge in Michigan."
-    publishedDateTime: 2021-08-31T20:06:00Z
-    webUrl: "https://www.csmonitor.com/USA/Politics/2021/0831/Pro-Trump-lawyers-who-pushed-fraud-cases-face-serious-consequences"
-    ampWebUrl: "https://www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0831/Pro-Trump-lawyers-who-pushed-fraud-cases-face-serious-consequences"
-    cdnAmpWebUrl: "https://www-csmonitor-com.cdn.ampproject.org/c/s/www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0831/Pro-Trump-lawyers-who-pushed-fraud-cases-face-serious-consequences"
+  - title: "Former Pence Aide: Rhetoric Under Trump Admin About Afghans 'Hurtful' and 'Offensive'"
+    excerpt: "A former aide for former Vice President Mike Pence, Olivia Troye, is opening up about the rhetoric under the Trump administration about Afghans, calling it “hurtful” and “offensive.” CNN’s Brianna Keilar noted during “New Day” Monday Troye sat in on meetings about getting Afghans who are eligible for relief who helped U."
+    publishedDateTime: 2021-08-23T16:42:00Z
+    webUrl: "https://ijr.com/former-pence-aide-rhetoric-trump-admin-afghan-refugees/"
     type: article
     provider:
-      name: Christian Science Monitor
-      domain: csmonitor.com
-    quality: 55
-  - title: "Donald Trump Is Lashing Out Over An Investigation Into His ‘Mental Stability’ By The Jan. 6 Committee"
-    excerpt: "Donald Trump lashed out at reports that the Jan. 6 commission has requested documents pertaining to his ’mental stability.’"
-    publishedDateTime: 2021-08-26T20:58:00Z
-    webUrl: "https://uproxx.com/viral/donald-trump-mental-stability-january-6-committee/"
-    type: article
-    provider:
-      name: Uproxx
-      domain: uproxx.com
-    quality: 40
+      name: ijr.com
+      domain: ijr.com
+    quality: 73
     images:
-      - url: "https://uproxx.com/wp-content/uploads/2021/07/Donald-Trump-GettyImages-1233931910.jpg?w=1024"
+      - url: "https://ijr.com/wp-content/uploads/2021/08/Screenshot-2021-08-23-at-11.41.18-AM.jpg"
+        width: 1885
+        height: 980
+        isCached: true
+  - title: "Former Pence aide faults Stephen Miller's 'racist hysteria' for US refusal to accept Afghan refugees under Trump"
+    excerpt: "A former aide to former Vice President Mike Pence said the last administration deliberately obstructed visa processing for U.S. allies in Afghanistan due to the \"racist hysteria\" of Stephen Miller,"
+    publishedDateTime: 2021-08-21T19:27:00Z
+    webUrl: "https://gazette.com/news/former-pence-aide-faults-stephen-millers-racist-hysteria-for-us-refusal-to-accept-afghan-refugees/article_e4a1d710-02b5-11ec-94a1-e7cd8e21773c.html"
+    ampWebUrl: "https://gazette.com/news/former-pence-aide-faults-stephen-millers-racist-hysteria-for-us-refusal-to-accept-afghan-refugees/article_e4a1d710-02b5-11ec-94a1-e7cd8e21773c.amp.html"
+    cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/news/former-pence-aide-faults-stephen-millers-racist-hysteria-for-us-refusal-to-accept-afghan-refugees/article_e4a1d710-02b5-11ec-94a1-e7cd8e21773c.amp.html"
+    type: article
+    provider:
+      name: The Gazette
+      domain: gazette.com
+    quality: 69
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/5/a2/5a29d1b8-02b6-11ec-9b45-1fab93a44c11/5b36f6962376e.image.jpg?resize=1024%2C683"
         width: 1024
         height: 683
         isCached: true
-  - title: "‘Time to Fight!’: Emails From Jan. 5 Show Secret Service Warned Capitol Police About Threat of Pro-Trump Violence"
-    excerpt: "The Secret Service warned Capitol police about the threat of pro-Donald Trump violence in Washington on Jan. 5, one day before the insurrection, according to an email published Wednesday by Politico."
-    publishedDateTime: 2021-08-25T12:18:00Z
-    webUrl: "https://www.thenewcivilrightsmovement.com/2021/08/time-to-fight-emails-from-jan-5-show-secret-service-warned-capitol-police-about-threat-of-pro-trump-violence/"
+  - title: "Darling of MSNBC/CNN & Top Former Pence Aide Blames Trump For Afghan Debacle…"
+    excerpt: "Darling of MSNBC/CNN & Top Former Pence Aide Blames Trump For Afghan Debacle… - It should surprise no one that such prog-filth had infiltrated the Trump White"
+    publishedDateTime: 2021-08-23T00:35:00Z
+    webUrl: "https://www.tigerdroppings.com/rant/politics/darling-of-msnbc-cnn-and-top-former-pence-aide-blames-trump-for-afghan-debacle/97903616/"
     type: article
     provider:
-      name: The New Civil Rights Movement
-      domain: thenewcivilrightsmovement.com
-    quality: 34
+      name: TigerDroppings.com
+      domain: tigerdroppings.com
+    quality: 67
     images:
-      - url: "https://www.thenewcivilrightsmovement.com/wp-content/uploads/2021/01/capitol-police-insurrection-4.jpg"
-        width: 940
-        height: 490
+      - url: "https://i.imgflip.com/5kgz8e.jpg"
+        width: 512
+        height: 500
+        isCached: true
+  - title: "Pence Aide Blames Stephen Miller for Fewer Afghan Visas"
+    excerpt: "Olivia Troye, a former aide to former Vice President Mike Pence, blamed racist views of Stephen Miller for the inability of many translators and other allies to get out of Afghanistan before the U.S."
+    publishedDateTime: 2021-08-21T18:46:00Z
+    webUrl: "https://politicalwire.com/2021/08/21/pence-aide-blames-stephen-miller-for-fewer-afghan-visas/"
+    type: article
+    provider:
+      name: Political Wire
+      domain: politicalwire.com
+    quality: 55
+    images:
+      - url: "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg"
+        width: 1400
+        height: 1400
+        isCached: true
+  - title: "On Afghanistan, GOP condemns the pullout it had supported under Trump"
+    excerpt: "Dozens of prominent Republicans who had given full support to then-President Donald Trump's plan to leave Afghanistan have sharply reversed themselves now that President Joe Biden has done it. “There’s no shame anymore,"
+    publishedDateTime: 2021-09-02T19:22:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/on-afghanistan-gop-condemns-the-pullout-it-had-supported-under-trump/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/on-afghanistan-gop-condemns-the-pullout-it-had-supported-under-trump/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/on-afghanistan-gop-condemns-the-pullout-it-had-supported-under-trump/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
+  - title: "Meme Misattributes Quote on Afghanistan to Trump"
+    excerpt: "A viral meme falsely claims that former President Donald Trump suggested that the chaotic U.S. withdrawal from Afghanistan was an orchestrated distraction by Democrats. A spokesperson for Trump has denied he made that remark."
+    publishedDateTime: 2021-09-03T17:19:00Z
+    webUrl: "https://www.factcheck.org/2021/09/meme-misattributes-quote-on-afghanistan-to-trump/"
+    type: article
+    provider:
+      name: FactCheck.org
+      domain: factcheck.org
+    quality: 55
+    images:
+      - url: "https://cdn.factcheck.org/UploadedFiles/trumpmeme_090321.jpg"
+        width: 600
+        height: 600
         isCached: true
 
 secured: "eiDO98DoA8jlEiMwrhACBjz+2Qmh0L5AEESAy8FIjkhi85wyNx0DHfKRe2Ma/cJHV/4iSio+6SKQAAIO+TTaMMnVLpouk5ojwTn/s8+pbtnrEK6wdOlECXn+LNZfzp9T402b/ewlp7i9KyYDAWmPjLfJ3ObFWNBZmDrEodWH/yBv01WRomYGvvq3N+Jh8MkH92paP7f5k8O/dNGVNtkYPdxR2f42+n+f6S9pU6JMW6zSb1z9RaTIpA18BIEtHjl5mDLtD5ZKuyAD+bWNW5LJtEn74gBsUPWtoqKUm0RJAgREugwDrNdzkdAy3kauFXWwBAleL5h8j9clUSRw/FXrv38GfgeqW12gYgn7dQn97Ec=;4gqksv1G3tY/RB8SethnhQ=="

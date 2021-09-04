@@ -43,6 +43,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Joe Biden looks to boost Native American voter turnout | Charlotte Observer"
+    excerpt: "Native American voters could play a major role in deciding the next presidential election in key battleground states."
+    publishedDateTime: 2021-08-13T09:00:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article253429449.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article253429449.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article253429449.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 73
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557046001/6416380e-f39b-44f4-98b3-0db4d9888c0d/aa0212ec-ae12-4bcf-8926-43cebffe2f5f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "20 states sue over Biden admin school, work LGBT protections | Charlotte Observer"
     excerpt: "Attorneys general from 20 states have sued President Joe Biden’s administration seeking to halt directives that extend federal sex discrimination protections to LGBTQ people, ranging from transgender girls participating in school sports to the use of school and workplace bathrooms that align with a person’s gender identity."
     publishedDateTime: 2021-08-31T00:51:00Z

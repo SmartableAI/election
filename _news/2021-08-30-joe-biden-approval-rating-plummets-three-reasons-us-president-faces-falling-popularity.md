@@ -117,6 +117,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Biden vows to finish Kabul evacuation, avenge US deaths"
+    excerpt: "President Joe Biden is vowing to avenge the deaths of 13 American troops and dozens of Afghans at the Kabul airport, an attack that thrust the White House deeper into crisis over a chaotic and deadly end to a 20-year war."
+    publishedDateTime: 2021-08-27T08:48:00Z
+    webUrl: "https://www.greenwichtime.com/news/article/Biden-vows-to-finish-Kabul-evacuation-avenge-US-16415469.php"
+    ampWebUrl: "https://www.greenwichtime.com/news/amp/Biden-vows-to-finish-Kabul-evacuation-avenge-US-16415469.php"
+    cdnAmpWebUrl: "https://www-greenwichtime-com.cdn.ampproject.org/c/s/www.greenwichtime.com/news/amp/Biden-vows-to-finish-Kabul-evacuation-avenge-US-16415469.php"
+    type: article
+    provider:
+      name: Greenwich Time
+      domain: greenwichtime.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "President Joe Biden vows to finish Kabul evacuation, avenge U.S. deaths"
     excerpt: "The White House hurriedly put off President Joe Biden's first in-person meeting with Israel's new prime minister Thursday and canceled a video conference with governors on incoming Afghan refugees after explosions outside the Kabul airport killed more than a dozen people,"
     publishedDateTime: 2021-08-27T09:15:00Z
@@ -228,6 +244,22 @@ related:
       - url: "https://thumb.spokesman.com/uXRnh5Nmvs4Ofa8_Az4ADuUn69M=/480x0/media.spokesman.com/photos/2021/08/31/612e9bcaec9a3.hires.jpg"
         width: 480
         height: 319
+        isCached: true
+  - title: "President Biden urges Americans to get vaccinated following full FDA approval"
+    excerpt: "President Joe Biden addressed the nation Monday, urging more Americans to roll up their sleeves and get vaccinated now that the Pfizer vaccine received full FDA approval for ages 16 and up. Biden called the approval of Pfizer's vaccine \"the gold standard."
+    publishedDateTime: 2021-08-24T03:18:00Z
+    webUrl: "https://westchester.news12.com/president-biden-urges-americans-to-get-vaccinated-following-full-fda-approval"
+    ampWebUrl: "https://westchester.news12.com/amp/president-biden-urges-americans-to-get-vaccinated-following-full-fda-approval"
+    cdnAmpWebUrl: "https://westchester-news12-com.cdn.ampproject.org/c/s/westchester.news12.com/amp/president-biden-urges-americans-to-get-vaccinated-following-full-fda-approval"
+    type: article
+    provider:
+      name: News 12 New Jersey
+      domain: news12.com
+    quality: 72
+    images:
+      - url: "https://img.chdrstatic.com/media/af08ffdc-9632-4dc2-a041-8cefb8b5a6db.jpg?width=1200&source=backend&auto=webp"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden Urges More Employers to Enact Vaccine Mandates Following FDA’s Full Approval"
     excerpt: "Do what I did last month. Require your employees to get vaccinated or face strict requirements,” Biden said Monday."

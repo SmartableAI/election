@@ -197,6 +197,20 @@ related:
         width: 630
         height: 352
         isCached: true
+  - title: "Republicans point fingers at Biden moments after Kabul blasts"
+    excerpt: "By Melanie Zanona, Jeremy Herb and Alex Rogers, CNN Republicans in Congress quickly escalated their criticism of President Joe Biden’s withdrawal of US troops from Afghanistan after two explosions outside Kabul’s airport on Thursday caused the first American casualties since the mass evacuation began."
+    publishedDateTime: 2021-08-26T23:40:00Z
+    webUrl: "https://localnews8.com/politics/cnn-us-politics/2021/08/26/house-republicans-point-fingers-at-biden-moments-after-kabul-blasts/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 55
+    images:
+      - url: "https://localnews8.b-cdn.net/2021/06/Politics-logo-new_KIFIMIFI.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Ashley Moody demands border control assurance from Joe Biden"
     excerpt: "Attorney General Ashley Moody was among 20 Republican AGs signing on to a letter demanding federal assurances of tighter immigration policy. The letter to U.S. Attorney General Merrick Garland followed a favorable ruling in the U."
     publishedDateTime: 2021-08-27T17:04:00Z

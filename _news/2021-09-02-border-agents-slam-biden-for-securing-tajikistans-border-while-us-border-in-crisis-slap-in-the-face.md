@@ -111,6 +111,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Republicans criticize Biden for spending Labor Day weekend in Delaware amid Afghanistan crisis"
+    excerpt: "Republicans on Friday and Saturday criticized President Biden for spending his Labor Day weekend in Delaware amid the chaos unfolding after the U.S. military's withdrawal from Afghanistan. "
+    publishedDateTime: 2021-09-04T19:27:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rBldwc3Ukus/republicans-biden-labor-day-delaware-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-biden-labor-day-delaware-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-labor-day-delaware-afghanistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15769fbd-0b21-4f5a-8c09-0e3029a328c2/81f25dce-10d1-4c45-b884-0c3ec9a033f2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "26 Republican senators ask Biden for info on vetting of Afghanistan evacuees, Americans left behind"
     excerpt: "Republican senators issued a letter Thursday demanding President Biden provide the exact number of Americans, green-card holders and special immigrant visa applicants who remain in Afghanistan as well as what type of vetting evacuees are undergoing before being granted entry to the United States."
     publishedDateTime: 2021-09-02T14:02:36Z

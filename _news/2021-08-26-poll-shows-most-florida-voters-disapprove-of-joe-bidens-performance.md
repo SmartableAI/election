@@ -57,20 +57,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Storm commemorates 2020 WNBA championship with President Joe Biden at White House"
-    excerpt: "Before leaving the nation's capital, the Storm stopped by the White House on Monday, marking a return to normalcy when sports teams regularly received invitations to celebrate championships and their athletic achievements."
-    publishedDateTime: 2021-08-23T21:13:00Z
-    webUrl: "https://www.startribune.com/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/600090375/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 50
-    images:
-      - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1629919521"
-        width: 1680
-        height: 876
-        isCached: true
 
 secured: "x/wu+uFxX8WfHRaoT+t/Gf0WkiM8KYIT5hh+6f3ZnJYRtnJVH9bIK2UDCUI9NhASxYU4CjnwGEUloNSrDvzNtgwN8ieMH3+Wuvxt5WozRPp+YduOzEuuhoP5z2YouivFDxhIQNrfKU7Tl5502OZah/wMb7ykf9BPjBKBZ0oKpYmT/B7kmasv/dVASkAFK5AXJQg4VmJGCX8i925S5mj7jpgUKAxFGbwx44NtlKNEhakAxTDbX/yCZlUk1pzJQJtPxl0VStqI7n8/GWPW0W5K4CEeAJvJ8ffD0iEWwXXbB06k7NShQVxA8O1dSxETLcVDE7RUjA9JeLMjyDx4K4PT6uWPlbDajQlDwt/dgK25/lI=;vInnyZr0h8c16A/xp//D8g=="
 ---

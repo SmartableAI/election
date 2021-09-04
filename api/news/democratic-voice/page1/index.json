@@ -1630,25 +1630,25 @@
       ]
     },
     {
-      "path": "_news/2021-08-16-fareed-zakaria-this-withdrawal-is-a-stain-on-bidens-foreign-policy.md",
-      "title": "Fareed Zakaria: This withdrawal is a stain on Biden's foreign policy ",
-      "excerpt": "CNN's Anderson Cooper talks with Fareed Zakaria about the crisis unfolding in Afghanistan and what this means for President Joe Biden's foreign policy. Watch \"Full Circle\" Monday, Wednesday and Friday 6p E.T.\n    \n",
+      "path": "_news/2021-08-17-pence-convenes-gop-donors-luminaries-at-jackson-hole-retreat.md",
+      "title": "Pence convenes GOP donors, luminaries at Jackson Hole retreat",
+      "excerpt": "Former Vice President Mike Pence is ramping up his donor outreach as he weighs a 2024 White House bid. Pence held a donor retreat late last week benefiting his newly formed nonprofit group ...",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mNAv79ZlOjM/fareed-zakaria-afghanistan-biden-acfc-sot-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mNAv79ZlOjM/fareed-zakaria-afghanistan-biden-acfc-sot-vpx.cnn",
+      "webUrl": "https://www.politico.com/news/2021/08/17/pence-gop-donors-retreat-505288",
+      "originalUrl": "https://www.politico.com/news/2021/08/17/pence-gop-donors-retreat-505288",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 235,
+      "heat": 135,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210816192228-fareed-acfc-2-desktop-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "https://static.politico.com/d3/55/f292a828497eb689b34cd6b0e38f/gettyimages-1232599479-1.jpg",
+          "width": 1160,
+          "height": 773,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1656,16 +1656,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/world/2021/08/16/fareed-zakaria-afghanistan-biden-acfc-sot-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2021/08/16/fareed-zakaria-afghanistan-biden-acfc-sot-vpx.cnn",
-      "publishedDateTime": "2021-08-16T16:41:43-07:00",
+      "ampWebUrl": "https://www.politico.com/amp/news/2021/08/17/pence-gop-donors-retreat-505288",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/08/17/pence-gop-donors-retreat-505288",
+      "publishedDateTime": "2021-08-17T03:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
+        "name": "Politico",
+        "domain": "politico.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1682,6 +1682,7 @@
       ],
       "topics": [
         "Election",
+        "Mike Pence",
         "Democratic Voice"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/bfe24854-3bf2-4ada-b3a2-778b4707c31f"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/bfe24854-3bf2-4ada-b3a2-778b4707c31f"
 type: article
 quality: 125
-heat: 485
+heat: 505
 published: true
 
 provider:
@@ -186,6 +186,20 @@ related:
       - url: "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/321/2021/08/24100917/iStock_082421_wiscsenateseat.jpeg"
         width: 630
         height: 352
+        isCached: true
+  - title: "Republicans point fingers at Biden moments after Kabul blasts"
+    excerpt: "By Melanie Zanona, Jeremy Herb and Alex Rogers, CNN Republicans in Congress quickly escalated their criticism of President Joe Biden’s withdrawal of US troops from Afghanistan after two explosions outside Kabul’s airport on Thursday caused the first American casualties since the mass evacuation began."
+    publishedDateTime: 2021-08-26T23:40:00Z
+    webUrl: "https://localnews8.com/politics/cnn-us-politics/2021/08/26/house-republicans-point-fingers-at-biden-moments-after-kabul-blasts/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 55
+    images:
+      - url: "https://localnews8.b-cdn.net/2021/06/Politics-logo-new_KIFIMIFI.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "What the end of Joe Biden’s eviction moratorium will look like in Maine"
     excerpt: "The end of the moratorium comes as the pandemic situation in Maine grows more grim and could test a new state law for renters."

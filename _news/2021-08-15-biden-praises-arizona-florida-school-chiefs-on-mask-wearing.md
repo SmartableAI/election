@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nhregister.com/news/amp/Biden-praises-Arizona-Florida-sc
 cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Biden-praises-Arizona-Florida-school-chiefs-on-16387253.php"
 type: article
 quality: 75
-heat: 115
+heat: 95
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden ripped after Taliban fighters wearing US army gear mock iconic 1945 photo of marines"
-    excerpt: "The original 1945 photo shows a group of six Marines hoisting the flag on Mount Suribachi. The Taliban's elite Badri 313 battalion recreated the image"
-    publishedDateTime: 2021-08-22T02:58:00Z
-    webUrl: "https://meaww.com/biden-taliban-us-army-1945-ww-2-photo-marines-iwo-jima"
-    ampWebUrl: "https://meaww.com/amp/biden-taliban-us-army-1945-ww-2-photo-marines-iwo-jima"
-    cdnAmpWebUrl: "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/biden-taliban-us-army-1945-ww-2-photo-marines-iwo-jima"
-    type: article
-    provider:
-      name: Meaww
-      domain: meaww.com
-    quality: 63
-    images:
-      - url: "https://cheesecake.articleassets.meaww.com/545990/uploads/0e504170-02f0-11ec-951c-a7d689a4bfd4_800_420.png"
-        width: 800
-        height: 420
-        isCached: true
   - title: "Could Joe Biden challenge Florida, Texas on mask policies? Probably not"
     excerpt: "The White House has expressed concern about efforts by some Republican-led states to prevent school districts from imposing mask mandates. • Under the 10th Amendment to the Constitution, the federal government’s ability to overrule states and localities on matters such as public health laws are limited,"
     publishedDateTime: 2021-08-12T00:00:00Z

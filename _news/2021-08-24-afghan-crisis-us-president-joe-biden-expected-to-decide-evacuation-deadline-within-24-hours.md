@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Seattle Storm visit President Biden, White House to celebrate 2020 WNBA title"
-    excerpt: "The Storm became the first women’s team welcomed by President Biden and the first WNBA squad at the White House since the 2015 Minnesota Lynx."
-    publishedDateTime: 2021-08-23T21:44:00Z
-    webUrl: "https://www.freep.com/story/sports/wnba/storm/2021/08/23/seattle-storm-visit-president-biden-white-house-honor-wnba-title/8245818002/"
-    ampWebUrl: "https://amp.freep.com/amp/8245818002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/8245818002"
+  - title: "Pence accuses President Biden of breaking deal with Taliban, calls withdrawal a 'disgrace'"
+    excerpt: "Former Vice President Mike Pence criticized President Joe Biden for breaking a deal the Trump administration struck with the Taliban in a Wall Street Journal opinion piece published on Tuesday."
+    publishedDateTime: 2021-08-18T23:42:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/08/18/pence-bidens-withdrawal-of-afghanistan-a-disgrace/8182830002/"
+    ampWebUrl: "https://amp.indystar.com/amp/8182830002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/8182830002"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 72
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 80
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/08/23/USAT/eaa65bb6-091f-4e5e-b30d-bdbf44364616-GTY_1234836329.jpg?auto=webp&crop=7544,4244,x1,y787&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/08/18/NCOD/fb7cc8da-c6d3-4109-b45a-ca37c306cb0f-Afghanistan_50883.jpg-4722d.JPG?auto=webp&crop=4031,2268,x0,y205&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -59,50 +59,107 @@ related:
         width: 1600
         height: 1200
         isCached: true
-  - title: "WNBA News: What Joe Biden Said About Champion Seattle Storm In Their White House Visit"
-    excerpt: "The Seattle Storm visited President Joe Biden at the White House on Monday to celebrate their 2020 WNBA championship. Seattle defeated the Las Vegas Aces in a 3-game sweep, giving the organization their fourth championship title in their history."
-    publishedDateTime: 2021-08-23T22:52:00Z
-    webUrl: "https://www.ibtimes.com/wnba-news-what-joe-biden-said-about-champion-seattle-storm-their-white-house-visit-3279414"
-    ampWebUrl: "https://www.ibtimes.com/wnba-news-what-joe-biden-said-about-champion-seattle-storm-their-white-house-visit-3279414?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/wnba-news-what-joe-biden-said-about-champion-seattle-storm-their-white-house-visit-3279414?amp=1"
+  - title: "Cherokee Chief Chuck Hoskin touts rural broadband in teleconference with President Joe Biden"
+    excerpt: "Hoskin said the Cherokee Nation is applying for a federal connectivity grant program that would be expanded under the bill that passed the Senate but still must get through a"
+    publishedDateTime: 2021-08-11T22:30:00Z
+    webUrl: "https://tulsaworld.com/news/state-and-regional/govt-and-politics/cherokee-chief-chuck-hoskin-touts-rural-broadband-in-teleconference-with-president-joe-biden/article_7ef85f06-fab8-11eb-8ba6-eb77f3690d9c.html"
+    ampWebUrl: "https://tulsaworld.com/news/state-and-regional/govt-and-politics/cherokee-chief-chuck-hoskin-touts-rural-broadband-in-teleconference-with-president-joe-biden/article_7ef85f06-fab8-11eb-8ba6-eb77f3690d9c.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/state-and-regional/govt-and-politics/cherokee-chief-chuck-hoskin-touts-rural-broadband-in-teleconference-with-president-joe-biden/article_7ef85f06-fab8-11eb-8ba6-eb77f3690d9c.amp.html"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 67
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 64
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/22/gettyimages-1025667234.jpg"
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/f/ef/fef397b8-faf2-11eb-89a6-a781dabf88c5/605118c90d55c.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Joe Biden ripped after Taliban fighters wearing US army gear mock iconic 1945 photo of marines"
+    excerpt: "The original 1945 photo shows a group of six Marines hoisting the flag on Mount Suribachi. The Taliban's elite Badri 313 battalion recreated the image"
+    publishedDateTime: 2021-08-22T02:58:00Z
+    webUrl: "https://meaww.com/biden-taliban-us-army-1945-ww-2-photo-marines-iwo-jima"
+    ampWebUrl: "https://meaww.com/amp/biden-taliban-us-army-1945-ww-2-photo-marines-iwo-jima"
+    cdnAmpWebUrl: "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/biden-taliban-us-army-1945-ww-2-photo-marines-iwo-jima"
+    type: article
+    provider:
+      name: Meaww
+      domain: meaww.com
+    quality: 63
+    images:
+      - url: "https://cheesecake.articleassets.meaww.com/545990/uploads/0e504170-02f0-11ec-951c-a7d689a4bfd4_800_420.png"
+        width: 800
+        height: 420
+        isCached: true
+  - title: "Watch Now: Cherokee Chief Chuck Hoskin touts rural broadband in teleconference with President Joe Biden"
+    excerpt: "Hoskin said the Cherokee Nation is applying for a federal connectivity grant through a program that would be expanded under the bill that passed the Senate but still must get"
+    publishedDateTime: 2021-08-11T22:30:00Z
+    webUrl: "https://tulsaworld.com/news/state-and-regional/govt-and-politics/watch-now-cherokee-chief-chuck-hoskin-touts-rural-broadband-in-teleconference-with-president-joe-biden/article_7ef85f06-fab8-11eb-8ba6-eb77f3690d9c.html"
+    ampWebUrl: "https://tulsaworld.com/news/state-and-regional/govt-and-politics/watch-now-cherokee-chief-chuck-hoskin-touts-rural-broadband-in-teleconference-with-president-joe-biden/article_7ef85f06-fab8-11eb-8ba6-eb77f3690d9c.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/state-and-regional/govt-and-politics/watch-now-cherokee-chief-chuck-hoskin-touts-rural-broadband-in-teleconference-with-president-joe-biden/article_7ef85f06-fab8-11eb-8ba6-eb77f3690d9c.amp.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 59
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/f/ef/fef397b8-faf2-11eb-89a6-a781dabf88c5/605118c90d55c.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Biden’s CIA chief ‘secretly met with top Taliban leader in Kabul’ ahead of August 31 deadline to evacuate US citizens"
+    excerpt: "JOE Biden’s Central Intelligence Agency (CIA) chief secretly met with top Taliban leader in Kabul ahead of the group’s August 31 deadline to evacuate all United States citizens,"
+    publishedDateTime: 2021-08-24T13:16:00Z
+    webUrl: "https://www.the-sun.com/news/3531049/biden-chief-secret-meeting-taliban-leader-kabul/"
+    ampWebUrl: "https://www.the-sun.com/news/3531049/biden-chief-secret-meeting-taliban-leader-kabul/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3531049/biden-chief-secret-meeting-taliban-leader-kabul/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 52
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/AD-Afghanistan-William-Burns-pic-of-Talibans-Abdul-Ghani-Baradar-copy.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
         width: 1200
         height: 800
         isCached: true
-  - title: "Biden celebrates 2020 WNBA champs Seattle Storm"
-    excerpt: "President Joe Biden honored the 2020 WNBA champions Seattle Storm on Monday, celebrating their success on the court and hailing the four-time title holders for changing lives with their social"
-    publishedDateTime: 2021-08-23T23:46:00Z
-    webUrl: "https://www.oleantimesherald.com/biden-celebrates-2020-wnba-champs-seattle-storm/video_c9bf69fc-22dd-5752-bdda-10acc895c530.html"
+  - title: "Storm commemorates 2020 WNBA championship with President Joe Biden at White House"
+    excerpt: "Before leaving the nation's capital, the Storm stopped by the White House on Monday, marking a return to normalcy when sports teams regularly received invitations to celebrate championships and their athletic achievements."
+    publishedDateTime: 2021-08-23T21:13:00Z
+    webUrl: "https://www.startribune.com/storm-commemorates-2020-wnba-championship-with-president-joe-biden-at-white-house/600090375/"
     type: article
     provider:
-      name: Olean Times Herald
-      domain: oleantimesherald.com
-    quality: 55
+      name: StarTribune
+      domain: startribune.com
+    quality: 50
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/oleantimesherald.com/content/tncms/assets/v3/editorial/c/9b/c9bf69fc-22dd-5752-bdda-10acc895c530/61243394cd1bd.preview.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
+      - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1629919521"
+        width: 1680
+        height: 876
         isCached: true
-  - title: "Biden kneels at White House celebration of WNBA champs Seattle Storm"
-    excerpt: "President Joe Biden got down on one knee in the East Room during the celebration of the WNBA champions Seattle Storm."
-    publishedDateTime: 2021-08-24T03:29:00Z
-    webUrl: "https://thegrio.com/2021/08/23/biden-kneels-white-house-wnba-seattle-storm/"
+  - title: "Yes, former President Trump made a deal with the Taliban to pull US troops out of Afghanistan by May 2021"
+    excerpt: "Former President Donald Trump made a deal to remove U.S. forces by May 2021, and Biden extended the withdrawal deadline to Sept. 11. 2021"
+    publishedDateTime: 2021-08-17T22:32:00Z
+    webUrl: "https://www.khou.com/video/news/verify/national-verify/yes-former-president-trump-made-a-deal-with-the-taliban-to-pull-us-troops-out-of-afghanistan-by-may-2021/536-a396bac1-5c40-4d0d-ab36-ac0bebf5a158"
     type: article
     provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 55
+      name: KHOU 11
+      domain: khou.com
+    quality: 38
     images:
-      - url: "https://thegrio.com/wp-content/uploads/2021/08/240820211629775420-1-scaled.jpg"
-        width: 1280
-        height: 853
+      - url: "https://media.khou.com/assets/VERIFY/images/b1fd9db6-f067-4227-aff2-ad144357f1ed/b1fd9db6-f067-4227-aff2-ad144357f1ed_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
+  - title: "Biden Agrees With Pentagon Recommendation to Stick to Aug 31 Afghan Pullout Deadline – Source"
+    excerpt: "WASHINGTON (Reuters) - President Joe Biden has agreed with a Pentagon recommendation to stick with the Aug. 31 Afghanistan withdrawal deadline, an administration official told Reuters on Tuesday. The Pentagon recommendation was made on Monday based on ..."
+    publishedDateTime: 2021-08-24T15:36:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-08-24/biden-agrees-with-pentagon-recommendation-to-stick-to-aug-31-afghan-pullout-deadline-source"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 24
 
 secured: "FGqlLBahJjn9xCLh7YjkLQrDSKl3LorW/uTwXtL8Ih7/BqXUF901/o++vWCyqKJpfDk4zo4Iu1hOjWT7wfU0v/0yIcQqAm8uDctgUGo+8fsfrxrvaXaU3Z1U9FuLvBcg0PWrK+muf3eiPIV+6Tm0GoeXyELPLHCCM9kyD1mQ9vq0hj7EClkZYpocFQtOt2DG3v3O6oG8OUQ6Kt/mlaxgDsjixL/oeXX036wARYn2/DXJhEdrsBxh8qOi/5ZVftCjSnZZe4Y2J16rj/ZCT7U6oloEDTlo4LJXRsW2WCMkG48URWiCJOYum23luTIVAiICn8q1RYIF04rmP5WZlrNQqxP2RLe4e/CXpo0mas+YExk=;h2PqTprpXUrHClJoeb1BMg=="
 ---

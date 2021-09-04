@@ -96,7 +96,7 @@
       "originalUrl": "https://www.houstonchronicle.com/politics/texas/article/Beto-O-Rourke-pushes-Joe-Biden-to-help-pass-16411342.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 665,
+      "heat": 705,
       "tags": null,
       "images": [
         {
@@ -300,7 +300,7 @@
       "originalUrl": "https://www.freep.com/story/sports/wnba/storm/2021/08/23/seattle-storm-visit-president-biden-white-house-honor-wnba-title/8245818002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 172,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -457,7 +457,7 @@
       "originalUrl": "https://www.cleveland.com/nation/2021/08/budget-clash-pits-moderate-democrats-against-biden-pelosi.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -654,58 +654,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-21-joe-biden-to-americans-in-afghanistan-we-will-get-you-home.md",
-      "title": "Joe Biden to Americans in Afghanistan: 'We will get you home'",
-      "excerpt": "US President Joe Biden has again defended a chaotic evacuation effort out of Kabul as desperation grows for those still stranded in Afghanistan. \"This is one of the largest, most difficult airlifts in history,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-us-canada-58285923",
-      "originalUrl": "https://www.bbc.com/news/world-us-canada-58285923",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/170AB/production/_120097349_bidenindex.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/world-us-canada-58285923.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-58285923.amp",
-      "publishedDateTime": "2021-08-20T11:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-08-20-tucker-carlson-says-joe-biden-interview-edited-to-make-him-less-incoherent-confused.md",
       "title": "Tucker Carlson Says Joe Biden Interview Edited to Make Him Less 'Incoherent, Confused'",
       "excerpt": "ABC News released a transcript of Biden's interview featuring a section that was left out of the TV broadcast.",
@@ -766,7 +714,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1265,
+      "heat": 1205,
       "tags": null,
       "images": [
         {
@@ -1051,7 +999,7 @@
       "originalUrl": "https://www.the-sun.com/news/3493266/joe-biden-america-doesnt-have-your-back/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -1094,7 +1042,7 @@
       "originalUrl": "https://www.nhregister.com/news/article/Biden-praises-Arizona-Florida-school-chiefs-on-16387253.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -1399,7 +1347,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1486,6 +1434,54 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-wh-reporters-roiled-by-spacing-constraints-excuse-to-limit-access-to-biden-qas.md",
+      "title": "WH reporters roiled by ‘spacing constraints’ excuse to limit access to Biden Q&As",
+      "excerpt": "President Joe Biden’s interactions with reporters in the White House East Room have resembled press conferences but his staff selects which reporters attend, citing “spacing",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/08/11/wh-journos-roiled-by-spacing-constraints-to-biden-pressers/",
+      "originalUrl": "https://nypost.com/2021/08/11/wh-journos-roiled-by-spacing-constraints-to-biden-pressers/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/white-house-reporters-roiled-434.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/08/11/wh-journos-roiled-by-spacing-constraints-to-biden-pressers/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/11/wh-journos-roiled-by-spacing-constraints-to-biden-pressers/amp/",
+      "publishedDateTime": "2021-08-11T16:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,158 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-15-mike-pence-evidence-strongly-suggests-covid-19-came-from-a-chinese-lab.md",
+      "title": "Mike Pence: Evidence 'strongly suggests' COVID-19 came from a Chinese lab",
+      "excerpt": "Ex-VP Mike Pence points to a Chinese lab as COVID's source, but doesn't elaborate on the evidence he's citing. In a new paper, virologists disagree.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freep.com/story/news/politics/2021/07/14/covid-origin-mike-pence-says-evidence-strongly-suggests-chinese-lab/7968126002/",
+      "originalUrl": "https://www.freep.com/story/news/politics/2021/07/14/covid-origin-mike-pence-says-evidence-strongly-suggests-chinese-lab/7968126002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/07/14/USAT/a2df8c41-e316-433a-a049-afa1df9aa141-Pence.jpg?auto=webp&crop=1999,1125,x0,y390&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.freep.com/amp/7968126002",
+      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7968126002",
+      "publishedDateTime": "2021-07-14T15:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit Free Press",
+        "domain": "freep.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-pence-calls-on-biden-to-demand-olympics-move-out-of-beijing-until-china-offers-transparency-on-covid-19.md",
+      "title": "Pence calls on Biden to demand Olympics move out of Beijing until China offers transparency on COVID-19",
+      "excerpt": "Former Vice President Mike Pence called on President Biden to demand the 2022 Olympics be moved out of Beijing unless China offers transparency on the origins of COVID-19 and ends human rights abuses against the county's Muslim minority populations in Xinjiang.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/e6fAb3WCVkE/pence-biden-olympics-beijing-covid",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/e6fAb3WCVkE/pence-biden-olympics-beijing-covid",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 444,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3da8478d-1e2c-4b7a-9da3-315d44adb9c3/a1fc8b66-1770-40f0-8564-e8c23e587ad2/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-biden-olympics-beijing-covid.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-biden-olympics-beijing-covid.amp",
+      "publishedDateTime": "2021-07-14T13:10:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-mike-pence-says-china-seizing-on-biden-admin-weakness-to-become-evil-empire.md",
+      "title": "Mike Pence Says China Seizing on Biden Admin 'Weakness' to Become 'Evil Empire'",
+      "excerpt": "Pence called America's return to the WHO under Biden without \"demanding a single concession\" an example of the U.S. \"rolling over to communist China.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mike-pence-says-china-seizing-biden-admin-weakness-become-evil-empire-1609794",
+      "originalUrl": "https://www.newsweek.com/mike-pence-says-china-seizing-biden-admin-weakness-become-evil-empire-1609794",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 216,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1846054/mike-pence-china-biden-admin.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mike-pence-says-china-seizing-biden-admin-weakness-become-evil-empire-1609794?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-says-china-seizing-biden-admin-weakness-become-evil-empire-1609794?amp=1",
+      "publishedDateTime": "2021-07-14T12:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-07-11-kinzinger-pence-republicans-who-turn-against-trump-are-out-of-the-tribe.md",
       "title": "Kinzinger: Pence & Republicans who turn against Trump are ‘out of the tribe’",
       "excerpt": "Rep. Adam Kinzinger (R-Ill.) talks to Chuck Todd about Republicans who distance themselves from Former President Donald Trump and their standing in the Republican Party.",
@@ -1372,173 +1524,6 @@
       ],
       "topics": [
         "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-pence-eyes-his-political-future-as-he-tries-to-make-peace-with-trump.md",
-      "title": "Pence eyes his political future as he tries to make peace with Trump ",
-      "excerpt": "Six months after their relationship deteriorated in the midst of an insurrection at the US Capitol, Donald Trump and Mike Pence appear to be on the mend.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p7SMu5iPngk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p7SMu5iPngk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 700,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210604131734-02-pence-nh-speech-0603-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/10/politics/pence-trump-political-future/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/pence-trump-political-future/index.html",
-      "publishedDateTime": "2021-06-10T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-06-why-mike-pences-speech-was-really-important-and-what-it-says-about-2024.md",
-      "title": "Why Mike Pence’s speech was really important, and what it says about 2024",
-      "excerpt": "The former vice president well received speech was interrupted by numerous standing ovations by the sold out crowd of conservative activists and leaders, but most importantly, he gave his most extensive comments to date about the deadly Jan. 6 insurrection at the U.S. Capitol.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bCY86DIpu5I/why-mike-pences-speech-was-really-important-and-what-it-says-about-2024",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bCY86DIpu5I/why-mike-pences-speech-was-really-important-and-what-it-says-about-2024",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/why-mike-pences-speech-was-really-important-and-what-it-says-about-2024.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/why-mike-pences-speech-was-really-important-and-what-it-says-about-2024.amp",
-      "publishedDateTime": "2021-06-06T06:50:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-06-trump-too-soon-to-tell-if-pence-would-be-running-mate-if-he-seeks-white-house-in-2024.md",
-      "title": "Trump: 'Too soon to tell' if Pence would be running mate if he seeks White House in 2024",
-      "excerpt": "Former President Trump Donald Trump Trump touts record, blasts Dems in return to stage Trump demands China pay 'reparations' for role in coronavirus pandemic Trump endorses Rep. Ted Budd for ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/557038-trump-too-soon-to-tell-if-pence-would-be-running-mate-if-he-runs-in",
-      "originalUrl": "https://thehill.com/homenews/administration/557038-trump-too-soon-to-tell-if-pence-would-be-running-mate-if-he-runs-in",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 421,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_pencemike_092820getty_press.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/557038-trump-too-soon-to-tell-if-pence-would-be-running-mate-if-he-runs-in?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/557038-trump-too-soon-to-tell-if-pence-would-be-running-mate-if-he-runs-in?amp",
-      "publishedDateTime": "2021-06-06T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Mike Pence"
       ]
     }
