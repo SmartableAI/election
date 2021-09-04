@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/09/01/politics/biden-louisiana/index.ht
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/01/politics/biden-louisiana/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210902140750-01-biden-ida-0902-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to travel to New York and New Jersey to survey Hurricane Ida storm damage"
+    excerpt: "President Joe Biden will travel to New Jersey and New York next week to survey widespread storm damage caused by the remnants of Hurricane Ida, according to the White House.\n    \n"
+    publishedDateTime: 2021-09-04T16:38:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bAeeQuGZK4g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/04/politics/joe-biden-hurricane-ida-new-york-new-jersey-visit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/04/politics/joe-biden-hurricane-ida-new-york-new-jersey-visit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210903172737-04-ny-storm-aftermath-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

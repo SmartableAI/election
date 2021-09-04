@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-hurricane-ida-devastation-lou
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hurricane-ida-devastation-louisiana-friday.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 168
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/83fc7f92-2bea-40fd-b69d-16e6093d0fa7/3483f11e-f6d4-4d0b-a4d2-e308c79930a8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden to travel to New Jersey, New York next week to survey Hurricane Ida storm damage"
+    excerpt: "President Biden will travel to New Jersey and New York next week to survey the aftermath of Hurricane Ida after it caused severe flood damage on the east coast."
+    publishedDateTime: 2021-09-04T17:41:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/THZ0k1vgQzc/biden-new-jersey-new-york-hurricane-ida"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-new-jersey-new-york-hurricane-ida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-new-jersey-new-york-hurricane-ida.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/37013bf5-d6db-4cea-addd-f49fb230aeb4/2c11a8b8-c180-4ead-9cb5-e419ff9ddd57/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

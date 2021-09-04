@@ -93,6 +93,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden to travel to New Jersey, New York next week to survey Hurricane Ida storm damage"
+    excerpt: "President Biden will travel to New Jersey and New York next week to survey the aftermath of Hurricane Ida after it caused severe flood damage on the east coast."
+    publishedDateTime: 2021-09-04T17:41:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/THZ0k1vgQzc/biden-new-jersey-new-york-hurricane-ida"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-new-jersey-new-york-hurricane-ida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-new-jersey-new-york-hurricane-ida.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/37013bf5-d6db-4cea-addd-f49fb230aeb4/2c11a8b8-c180-4ead-9cb5-e419ff9ddd57/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "vDPtVg6yRsDEOS0/xECRxuwrl7bgetmP2PdPWfN2FzFrW732OAJ42Io23NeI5eNfU3VPJpfKuLN+S1dITLBTrE9ClgbMhj029ITmntbSCg+0s9sWO2f1GRMaWPzKeftCjhKt2n/IOUvyJTnRNQZSsouyaFzA7piJhSZxroPlX60V+YWk4zqzjNK91T2faOnm8OqxJvp6kTZPMzbKLUBgllcsBZ4xbPWvXDKmcn9vV1dJUrYYUd91Au0nm4iXXSMRw6IpUbMRgblZcK5/Satqn7DAsBeQUS/Grf4scaYSj5XHMKsvDKjjFQYkjTcBTNn7gLP7kSHFXZ6m/tTjCEoqIA5vwpgMzqrc/oIwz5uGEZA=;s4KRJvn9BFqWpY6VZvWkUg=="
 ---

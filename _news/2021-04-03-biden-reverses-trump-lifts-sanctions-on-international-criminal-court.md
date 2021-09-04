@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-reverses-trump-era-policies-l
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reverses-trump-era-policies-lifts-sanctions-on-international-criminal-court.amp"
 type: article
 quality: 190
-heat: 1670
+heat: 1690
 published: true
 
 provider:
@@ -574,6 +574,22 @@ related:
       - url: "https://images.wsj.net/im-370970/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Donald Trump would beat Biden in presidential rematch: poll"
+    excerpt: "Nearly four out of ten Democrats in the survey are ready to bail on Biden, saying they want someone else to be the party’s standard-bearer in 2024."
+    publishedDateTime: 2021-09-04T17:18:00Z
+    webUrl: "https://nypost.com/2021/09/04/donald-trump-would-beat-biden-in-presidential-rematch-poll/"
+    ampWebUrl: "https://nypost.com/2021/09/04/donald-trump-would-beat-biden-in-presidential-rematch-poll/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/04/donald-trump-would-beat-biden-in-presidential-rematch-poll/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/biden-125.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Biden WH keeps Trump's National Space Council despite mocking Space Force"
     excerpt: "While President Biden has put as much distance as possible between himself and most of his predecessor’s policies, there is one area that Biden appears satisfied not to touch—space."

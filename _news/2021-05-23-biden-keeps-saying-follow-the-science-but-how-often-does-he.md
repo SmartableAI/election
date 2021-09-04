@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-keeps-saying-follow-the-scien
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-keeps-saying-follow-the-science-but-how-often-does-he.amp"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 171
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6679eccc-96b1-4ce3-83f7-fa70660277b5/d0f7098a-504f-4d58-880b-025796475a38/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden promised to 'follow the science,' but some experts feel the science must follow him"
+    excerpt: "President Biden's Sept. 20 deadline for rolling out coronavirus booster shots has been marred by pushback from scientists, citing a lack of reliable scientific data, resulting in the recent resignations of two FDA senior officials."
+    publishedDateTime: 2021-09-04T16:56:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HW2UXvhYD44/fda-resignations-question-biden-follow-the-science"
+    ampWebUrl: "https://www.foxnews.com/politics/fda-resignations-question-biden-follow-the-science.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fda-resignations-question-biden-follow-the-science.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e19206a-6092-486b-946a-7446a889186a/a63f7170-7a60-4910-a397-4f34b377888e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

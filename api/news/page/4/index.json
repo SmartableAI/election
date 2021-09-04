@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-30-whoopi-goldberg-mike-pence-didnt-show-north-korea-enough-respect-at-olympics.md",
+      "title": "Whoopi Goldberg: Mike Pence didn’t show North Korea enough ‘respect’ at Olympics",
+      "excerpt": "Whoopi Goldberg says U.S. Vice President Mike Pence should have shown more \"respect\" to North Koreans at the Pyeongchang 2018 Olympic Winter Games. \"He should have given enoughhad enough respect to say,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/2020-tokyo-olympics-sports-michael-pence-winter-olympics-whoopi-goldberg-fef42ba0a32d72cc55a6f28f99c95859",
+      "originalUrl": "https://apnews.com/article/2020-tokyo-olympics-sports-michael-pence-winter-olympics-whoopi-goldberg-fef42ba0a32d72cc55a6f28f99c95859",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/ShareLogo2.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-30T00:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-08-30-house-panel-tees-up-trump-executive-privilege-fight-in-jan-6-probe.md",
       "title": "House panel tees up Trump executive privilege fight in Jan. 6 probe",
       "excerpt": "The House committee seeking executive branch documents in its investigation of the Jan. 6 attack is likely to force a standoff between Congress and former President Trump Donald Trump Pollsters confront tough survey landscape after 2020 flubs The Memo: Will DeSantis's star fall as Florida COVID numbers rise?",
@@ -1200,49 +1243,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-did-erik-prince-save-joe-biden-from-taliban-blackwater-chief-recalls-2008-rescue.md",
-      "title": "Did Erik Prince save Joe Biden from Taliban? Blackwater chief recalls 2008 rescue",
-      "excerpt": "White House Press Secretary Jen Psaki described Erik Prince, 52, as having no 'heart and soul,' profiting off 'people's agony and pain'",
-      "sourceUrl": null,
-      "webUrl": "https://meaww.com/erik-prince-blackwater-military-contractor-saved-stranded-joe-biden-in-taliban-territory-2008-rescue",
-      "originalUrl": "https://meaww.com/erik-prince-blackwater-military-contractor-saved-stranded-joe-biden-in-taliban-territory-2008-rescue",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cheesecake.articleassets.meaww.com/546432/uploads/a1f94680-0663-11ec-8837-bfe51d82f824_800_420.png",
-          "width": 800,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://meaww.com/amp/erik-prince-blackwater-military-contractor-saved-stranded-joe-biden-in-taliban-territory-2008-rescue",
-      "cdnAmpWebUrl": "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/erik-prince-blackwater-military-contractor-saved-stranded-joe-biden-in-taliban-territory-2008-rescue",
-      "publishedDateTime": "2021-08-26T05:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Meaww",
-        "domain": "meaww.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

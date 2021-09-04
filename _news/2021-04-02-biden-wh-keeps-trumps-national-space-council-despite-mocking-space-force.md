@@ -592,6 +592,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Donald Trump would beat Biden in presidential rematch: poll"
+    excerpt: "Nearly four out of ten Democrats in the survey are ready to bail on Biden, saying they want someone else to be the party’s standard-bearer in 2024."
+    publishedDateTime: 2021-09-04T17:18:00Z
+    webUrl: "https://nypost.com/2021/09/04/donald-trump-would-beat-biden-in-presidential-rematch-poll/"
+    ampWebUrl: "https://nypost.com/2021/09/04/donald-trump-would-beat-biden-in-presidential-rematch-poll/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/04/donald-trump-would-beat-biden-in-presidential-rematch-poll/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/biden-125.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Biden Administration Ordered to Reinstate Trump’s Remain in Mexico Policy"
     excerpt: "The program, which the Department of Homeland Security introduced in 2019 at the height of a surge in Central American families coming to the U.S. border, was wound down by President Biden soon after he took office."
     publishedDateTime: 2021-08-14T18:11:00Z
