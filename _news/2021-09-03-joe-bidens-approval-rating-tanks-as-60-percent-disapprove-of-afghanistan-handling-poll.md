@@ -63,6 +63,22 @@ related:
         width: 2500
         height: 1588
         isCached: true
+  - title: "Afghanistan crisis: How Europe's relationship with Joe Biden turned sour"
+    excerpt: "A series of disagreements, most notably over Afghanistan, have some European leaders revising their expectations about President Joe Biden, and thinking more about a future untethered to the US. From a white-knuckle grip with Donald Trump to an arm on the shoulder with President Biden,"
+    publishedDateTime: 2021-09-02T23:05:00Z
+    webUrl: "https://www.bbc.com/news/world-europe-58416848.amp"
+    ampWebUrl: "https://www.bbc.com/news/world-europe-58416848.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-europe-58416848.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 124
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/885B/production/_120370943_gettyimages-1233447987.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Fact check: President Joe Biden did not sleep through meeting with new Israeli prime minister"
     excerpt: "A viral video distorts President Biden's Aug. 27 meeting with Israel's new prime minister to make it appear as if Biden fell asleep. He did not."
     publishedDateTime: 2021-09-01T01:03:00Z
@@ -126,22 +142,6 @@ related:
       - url: "https://cdn.christianpost.com/files/cache/image/14/32/143258_w_450_300.jpg"
         width: 450
         height: 300
-        isCached: true
-  - title: "Afghanistan crisis: How Europe's relationship with Joe Biden turned sour"
-    excerpt: "A series of disagreements, most notably over Afghanistan, have some European leaders revising their expectations about President Joe Biden, and thinking more about a future untethered to the US. From a white-knuckle grip with Donald Trump to an arm on the shoulder with President Biden,"
-    publishedDateTime: 2021-09-02T23:05:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-europe-58416848.amp"
-    ampWebUrl: "https://www.bbc.co.uk/news/world-europe-58416848.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-europe-58416848.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 74
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/885B/production/_120370943_gettyimages-1233447987.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Explained: What happens after Joe Biden’s evacuation force leaves Afghanistan?"
     excerpt: "The chaotic and perilous evacuation from Kabul airport that ensued has unleashed a wave of criticism and presented Biden with his biggest crisis since taking office in January."

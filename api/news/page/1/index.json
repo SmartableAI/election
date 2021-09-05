@@ -2,6 +2,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-05-lara-trump-blasts-ny-times-for-double-standard-after-editing-headline-about-biden-and-his-son-beau.md",
+      "title": "Lara Trump blasts NY Times for 'double standard' after editing headline about Biden and his son Beau",
+      "excerpt": "Fox News contributor Lara Trump blasted the New York Times for softening a headline initially critical of President Biden for talking about his late son Beau when meeting with the families of troops killed in Afghanistan,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/ny-times-changes-headline-on-beau-biden",
+      "originalUrl": "https://www.foxnews.com/media/ny-times-changes-headline-on-beau-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab16235e-7cf3-40a3-9bf0-2d3f23ea92cd/0630e86d-55f3-4867-8638-47312e235d26/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/ny-times-changes-headline-on-beau-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ny-times-changes-headline-on-beau-biden.amp",
+      "publishedDateTime": "2021-09-05T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-05-elizabeth-warren-stumps-for-newsom-larry-elder-dreams-of-being-californias-own-donald-trump.md",
+      "title": "Elizabeth Warren Stumps For Newsom: \"Larry Elder Dreams Of Being California's Own Donald Trump\"",
+      "excerpt": "Sen. Elizabeth Warren stumped for California Gov. Gavin Newsom at a rally Saturday ahead of next week's recall election. \"Gov. Larry Elder leading California should terrify you,\" she said about Newsom's leading GOP challenger Larry Elder.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/09/05/elizabeth_warren_stumps_for_newsom_larry_elder_dreams_of_being_californias_donald_trump.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/09/05/elizabeth_warren_stumps_for_newsom_larry_elder_dreams_of_being_californias_donald_trump.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://amp.spot.im/loader.png",
+          "width": 375,
+          "height": 815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/09/05/elizabeth_warren_stumps_for_newsom_larry_elder_dreams_of_being_californias_donald_trump.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/09/05/elizabeth_warren_stumps_for_newsom_larry_elder_dreams_of_being_californias_donald_trump.amp.html",
+      "publishedDateTime": "2021-09-05T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-05-lara-trump-slams-hypocritical-kamala-harris-michelle-obama-for-silence-on-afghan-women.md",
       "title": "Lara Trump Slams 'Hypocritical' Kamala Harris, Michelle Obama for Silence on Afghan Women",
       "excerpt": "\"They are happy to be activists when it's politically advantageous,\" Donald Trump's daughter-in-law said on Fox News.",
@@ -1222,114 +1327,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-trump-administration-deliberately-slowed-entry-of-afghan-allies.md",
-      "title": "Trump administration deliberately slowed entry of Afghan allies",
-      "excerpt": "Stephen Miller seemed floored by the idea, raised during a fall Cabinet meeting in 2018, of  keeping open the doors for Afghan allies and other Middle East refugees to enter the US. \n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d_gDGsC3zTw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d_gDGsC3zTw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/191213122539-stephen-miller-white-house-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/03/politics/trump-adviser-stephen-miller-afghan-allies-us-entry/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/03/politics/trump-adviser-stephen-miller-afghan-allies-us-entry/index.html",
-      "publishedDateTime": "2021-09-03T10:54:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-trump-hates-florida-gov-ron-desantis-because-of-his-rising-popularity-in-the-gop-report-says.md",
-      "title": "Trump 'hates' Florida Gov. Ron DeSantis because of his rising popularity in the GOP, report says",
-      "excerpt": "Trump previously said he'd consider DeSantis as a potential running mate if he decides to run for president in 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-hates-ron-desantis-because-of-his-popularity-report-2021-9",
-      "originalUrl": "https://www.businessinsider.com/trump-hates-ron-desantis-because-of-his-popularity-report-2021-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/61323af064313400196cd1e1?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-hates-ron-desantis-because-of-his-popularity-report-2021-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-hates-ron-desantis-because-of-his-popularity-report-2021-9?amp",
-      "publishedDateTime": "2021-09-03T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

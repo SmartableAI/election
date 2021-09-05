@@ -2,6 +2,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-05-lara-trump-blasts-ny-times-for-double-standard-after-editing-headline-about-biden-and-his-son-beau.md",
+      "title": "Lara Trump blasts NY Times for 'double standard' after editing headline about Biden and his son Beau",
+      "excerpt": "Fox News contributor Lara Trump blasted the New York Times for softening a headline initially critical of President Biden for talking about his late son Beau when meeting with the families of troops killed in Afghanistan,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/ny-times-changes-headline-on-beau-biden",
+      "originalUrl": "https://www.foxnews.com/media/ny-times-changes-headline-on-beau-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab16235e-7cf3-40a3-9bf0-2d3f23ea92cd/0630e86d-55f3-4867-8638-47312e235d26/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/ny-times-changes-headline-on-beau-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ny-times-changes-headline-on-beau-biden.amp",
+      "publishedDateTime": "2021-09-05T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-05-elizabeth-warren-stumps-for-newsom-larry-elder-dreams-of-being-californias-own-donald-trump.md",
+      "title": "Elizabeth Warren Stumps For Newsom: \"Larry Elder Dreams Of Being California's Own Donald Trump\"",
+      "excerpt": "Sen. Elizabeth Warren stumped for California Gov. Gavin Newsom at a rally Saturday ahead of next week's recall election. \"Gov. Larry Elder leading California should terrify you,\" she said about Newsom's leading GOP challenger Larry Elder.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/09/05/elizabeth_warren_stumps_for_newsom_larry_elder_dreams_of_being_californias_donald_trump.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/09/05/elizabeth_warren_stumps_for_newsom_larry_elder_dreams_of_being_californias_donald_trump.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://amp.spot.im/loader.png",
+          "width": 375,
+          "height": 815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/09/05/elizabeth_warren_stumps_for_newsom_larry_elder_dreams_of_being_californias_donald_trump.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/09/05/elizabeth_warren_stumps_for_newsom_larry_elder_dreams_of_being_californias_donald_trump.amp.html",
+      "publishedDateTime": "2021-09-05T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-05-did-trump-just-go-up-with-the-first-tv-ad-of-the-2024-presidential-campaign.md",
       "title": "Did Trump just go up with the first TV ad of the 2024 presidential campaign?",
       "excerpt": "A new ad by former President Trump's political action committee that blasts President Biden over the U.S. exit from Afghanistan can be seen as the first TV ad of the 2024 presidential campaign",
@@ -1557,118 +1662,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-30-trump-big-tech-suit-lawyer-predicts-case-headed-to-supreme-court-says-govt-pressure-made-firms-state-actors.md",
-      "title": "Trump big tech suit lawyer predicts case headed to Supreme Court, says gov't pressure made firms state actors",
-      "excerpt": "John Coale leads former President Donald Trump's lawsuit against big tech companies Facebook, Twitter and YouTube, which is owned by Google.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1b5Ise1fHjY/trump-lawyer-john-coale-google-big-tech-lawsuit-hypocrisy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1b5Ise1fHjY/trump-lawyer-john-coale-google-big-tech-lawsuit-hypocrisy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-lawyer-john-coale-google-big-tech-lawsuit-hypocrisy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-lawyer-john-coale-google-big-tech-lawsuit-hypocrisy.amp",
-      "publishedDateTime": "2021-08-30T07:46:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-29-who-is-deanne-criswell-bidens-fema-boss.md",
-      "title": "Who is Deanne Criswell, Biden’s FEMA boss?",
-      "excerpt": "As Louisiana and the Gulf Coast braced for Hurricane Ida, set to make landfall on Sunday potentially as a Category 4 storm, the Federal Emergency Management Agency (FEMA) was expected to play a key role in disaster relief. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5li4tKMQcHI/who-is-deanne-criswell-bidens-fema-boss",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5li4tKMQcHI/who-is-deanne-criswell-bidens-fema-boss",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9eae107d-7ab8-4997-b3b5-16388e743752/931d726d-8b7f-4176-ba05-327a3e199447/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/who-is-deanne-criswell-bidens-fema-boss.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-deanne-criswell-bidens-fema-boss.amp",
-      "publishedDateTime": "2021-08-28T23:38:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

@@ -2,6 +2,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-05-lara-trump-blasts-ny-times-for-double-standard-after-editing-headline-about-biden-and-his-son-beau.md",
+      "title": "Lara Trump blasts NY Times for 'double standard' after editing headline about Biden and his son Beau",
+      "excerpt": "Fox News contributor Lara Trump blasted the New York Times for softening a headline initially critical of President Biden for talking about his late son Beau when meeting with the families of troops killed in Afghanistan,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/ny-times-changes-headline-on-beau-biden",
+      "originalUrl": "https://www.foxnews.com/media/ny-times-changes-headline-on-beau-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab16235e-7cf3-40a3-9bf0-2d3f23ea92cd/0630e86d-55f3-4867-8638-47312e235d26/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/ny-times-changes-headline-on-beau-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ny-times-changes-headline-on-beau-biden.amp",
+      "publishedDateTime": "2021-09-05T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-05-elizabeth-warren-stumps-for-newsom-larry-elder-dreams-of-being-californias-own-donald-trump.md",
+      "title": "Elizabeth Warren Stumps For Newsom: \"Larry Elder Dreams Of Being California's Own Donald Trump\"",
+      "excerpt": "Sen. Elizabeth Warren stumped for California Gov. Gavin Newsom at a rally Saturday ahead of next week's recall election. \"Gov. Larry Elder leading California should terrify you,\" she said about Newsom's leading GOP challenger Larry Elder.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/09/05/elizabeth_warren_stumps_for_newsom_larry_elder_dreams_of_being_californias_donald_trump.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/09/05/elizabeth_warren_stumps_for_newsom_larry_elder_dreams_of_being_californias_donald_trump.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://amp.spot.im/loader.png",
+          "width": 375,
+          "height": 815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/09/05/elizabeth_warren_stumps_for_newsom_larry_elder_dreams_of_being_californias_donald_trump.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/09/05/elizabeth_warren_stumps_for_newsom_larry_elder_dreams_of_being_californias_donald_trump.amp.html",
+      "publishedDateTime": "2021-09-05T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-05-reign-of-terror-brilliantly-traces-the-course-from-911-to-president-trump.md",
       "title": "‘Reign of Terror’ brilliantly traces the course from 9/11 to President Trump",
       "excerpt": "Government euphemisms and constant portrayal of Muslims as potential terrorists contributed to an ugly, winning narrative, author Spencer Ackerman argues.",
@@ -1381,97 +1486,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-opinion-like-donald-trump-in-16-larry-elder-may-benefit-from-all-the-criticism.md",
-      "title": "Opinion: Like Donald Trump in ’16, Larry Elder May Benefit from All the Criticism",
-      "excerpt": "Elder may be, as his critics say, unfit to be governor. However, like Trump, he probably loves the attention because his enemies are making him more friends.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofsandiego.com/opinion/2021/08/26/like-donald-trump-in-16-larry-elder-may-benefit-from-all-the-criticism/",
-      "originalUrl": "https://timesofsandiego.com/opinion/2021/08/26/like-donald-trump-in-16-larry-elder-may-benefit-from-all-the-criticism/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://timesofsandiego.com/wp-content/uploads/2021/07/Larry-Elder-e1626989678782.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofsandiego.com/opinion/2021/08/26/like-donald-trump-in-16-larry-elder-may-benefit-from-all-the-criticism/",
-      "cdnAmpWebUrl": "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/opinion/2021/08/26/like-donald-trump-in-16-larry-elder-may-benefit-from-all-the-criticism/",
-      "publishedDateTime": "2021-08-27T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times of San Diego",
-        "domain": "timesofsandiego.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president.md",
-      "title": "Trump says Kabul airport explosion wouldn’t have happened if he was president",
-      "excerpt": "Donald Trump hammered Biden over the suicide bombings outside Kabul’s airport, claiming that “it would not have happened if I was your president.”",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/",
-      "originalUrl": "https://nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-afghanistan-bomging-index.jpg?quality=90&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/amp/",
-      "publishedDateTime": "2021-08-26T21:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

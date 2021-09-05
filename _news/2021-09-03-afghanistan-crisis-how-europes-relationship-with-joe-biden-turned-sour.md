@@ -3,18 +3,22 @@ category: news
 title: "Afghanistan crisis: How Europe's relationship with Joe Biden turned sour"
 excerpt: "A series of disagreements, most notably over Afghanistan, have some European leaders revising their expectations about President Joe Biden, and thinking more about a future untethered to the US. From a white-knuckle grip with Donald Trump to an arm on the shoulder with President Biden,"
 publishedDateTime: 2021-09-02T23:05:00Z
-originalUrl: "https://www.bbc.co.uk/news/world-europe-58416848.amp"
-webUrl: "https://www.bbc.co.uk/news/world-europe-58416848.amp"
-ampWebUrl: "https://www.bbc.co.uk/news/world-europe-58416848.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-europe-58416848.amp"
+originalUrl: "https://www.bbc.com/news/world-europe-58416848.amp"
+webUrl: "https://www.bbc.com/news/world-europe-58416848.amp"
+ampWebUrl: "https://www.bbc.com/news/world-europe-58416848.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-europe-58416848.amp"
 type: article
-quality: 74
+quality: 124
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -375,6 +379,6 @@ related:
       domain: politifact.com
     quality: 20
 
-secured: "ZmJPcdV/Vy7g9Mht1pu5hnD31V5sQ7GO18ViBxfKfiQebpbK8IZ04LNXskFdIZ7RaWZ0LapTDX/mFLE1tEOyukkLt8dOyhJHtMS7cTUFYPLWheTPzxKxPsXutp6e5qFoG3FxEeBk5teRTfef3avgnWjKrE6DqRV0naxx2HF9VzdWsEsUsNlvuh0biD/X519kUWTou568INMcTPS8av4zxVzj26wF27evFqN56Cef2nWezVGGNWoZojjCmHWTFKdmH3IqRC8ZhCAatCG84lVre8CuTeKr1vooYi2qtDIW/JnnV3hVgkj/KQBRGlbVi/bMcHg+ZpUcAtG4tJmRgx/sq6jGs6JVFU5Vgsk578zSkM0HW3azh7pJuAhqJIRR6ycFf/+DFTj6b1ddE8kP9VuuE04N9oxKjVauvztm/ldg4loK24JKHvGUez8FVnCIx+1lGy5Yy+C7IbGD+jIvWXc/LDZiHs6+o5Vngu44U6y7CXnDjqgQqHcGlAtyPad/7pf+gRuCqQNz+LLbGXcs1LFmew==;H1y+urMxX9XA6x1+9QLzBg=="
+secured: "3gMcZXOLJVUcS+XpZ9KNDOn76wmWffiHnhqUvjqgBNSWpUwm4uI/Hm+a+lRVTOtZZj/WgnAnonbldx+Gp7SVGvFrYirVZ9R2BIoYFxVEjg6XEylGti24rcaAefUMViDeP8HYZYwxyPbE0/0vI1l5zm95JQwPIO8zScubeITd9bjZ09EzArHw4hVi21RaUPCXks75JNGKbgBEViO6bOHguaMJo/0HBnGuGNV9p5C0ldtYPWobYFxul54tdEV8PXn4oG3/rfwC2E9ZDRLzetUXPslrj1g1tAbnYFrxcAKdbF8StmYo6iOWs68StE+znegmf2P/o9H56k+iVFOZRPjfKAYfaqZS0UoUYAYwDeGQ70w=;YQ49Qa/JLt3jUu0FNEaWSA=="
 ---
 
