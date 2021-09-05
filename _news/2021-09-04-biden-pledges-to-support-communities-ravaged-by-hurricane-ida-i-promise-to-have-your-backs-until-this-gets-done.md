@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's chief of staff won't say when booster shots will be available but commits to following the science"
+    excerpt: "White House chief of staff Ron Klain would not give a specific date as to when Covid-19 booster shots would be available to the public but committed to following the science and waiting for full approval from health officials before making a third dose available to those who seek one.\n    \n"
+    publishedDateTime: 2021-09-05T13:21:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uJtqnxNG6eE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/05/politics/ron-klain-covid-vaccine-booster-shots-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/05/politics/ron-klain-covid-vaccine-booster-shots-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210226160610-02-ron-klain-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "XQUiuprhdWFk1VVwvctoDCrWGCfs4wbROuorcz7ZnZYhN/wZx/s4ZORw97qMAZSVQbLYjocVy2sdckrBXsL8q8uxnIJ5KU2jaChyoN+7iFZhKtP34fK+r1qS+RFyoN3I1we0j8+FAF4Of5hRen4IPtzImN9phSdlECMHK9rk0rom8Tc6sylMSKuH6S0nQqDcGKj4hMb5FIxWLsCExvBpjTH7TZgBlwI22gHeDs6DqKB/jYunWuygRrsRFOUc0OsqqIrtivNrN6yYb+v454qp21wvQwZF28nKiSpPyu1jh1TqL96iedrfU6WE6RKJfS+li8Z8rrwzBJFNBKF8guiGaXLYqEq+Ulsxk+dxSOAsSEU=;0CnRnVrM+WiCjohpDY//0A=="
 ---

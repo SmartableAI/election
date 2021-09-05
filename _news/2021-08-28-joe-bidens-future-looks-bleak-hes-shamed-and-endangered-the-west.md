@@ -43,6 +43,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Approval of Biden's Pandemic Handling Drops to 52 Percent: Poll"
+    excerpt: "As COVID-19 cases rise, the number of Americans who support President Biden's response to the pandemic fell by 10 points since June."
+    publishedDateTime: 2021-09-05T13:39:00Z
+    webUrl: "https://www.newsweek.com/approval-bidens-pandemic-handling-drops-52-percent-poll-1626221"
+    ampWebUrl: "https://www.newsweek.com/approval-bidens-pandemic-handling-drops-52-percent-poll-1626221?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/approval-bidens-pandemic-handling-drops-52-percent-poll-1626221?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1887921/approval-bidens-pandemic-handling-falls.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden aide: US has capacity to evacuate remaining Americans"
     excerpt: "He warned another attack was “highly likely” and the State Department called the threat “specific” and “credible.” The Pentagon said the remaining contingent of U.S. forces at the airport, now numbering fewer than 4,"
     publishedDateTime: 2021-08-29T12:38:00Z

@@ -545,6 +545,22 @@ related:
         width: 400
         height: 266
         isCached: true
+  - title: "VP Kamala Harris to visit Bay Area to campaign with Gov. Newsom"
+    excerpt: "Vice President Kamala Harris boards Air Force Two, Tuesday, June 8, 2021, as she leaves Mexico City, on expected return to Washington after her first international trip as Vice President, with stops in Guatemala and Mexico City."
+    publishedDateTime: 2021-09-04T21:03:00Z
+    webUrl: "https://www.kron4.com/news/bay-area/vp-kamala-harris-to-visit-bay-area-to-campaign-with-gov-newsom/"
+    ampWebUrl: "https://www.kron4.com/news/bay-area/vp-kamala-harris-to-visit-bay-area-to-campaign-with-gov-newsom/amp/"
+    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/vp-kamala-harris-to-visit-bay-area-to-campaign-with-gov-newsom/amp/"
+    type: article
+    provider:
+      name: KRON4
+      domain: kron4.com
+    quality: 75
+    images:
+      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2021/06/219fd461b45643059372041a077aa782.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Kamala Harris comes to Oakland to promote $2 trillion infrastructure plan"
     excerpt: "Kamala Harris returned to Oakland for the first time as vice president Monday to tout the Biden administration’s $2 trillion infrastructure plan. She was greeted on the tarmac at Oakland International Airport by California Democratic Sen. Alex Padilla ..."
     publishedDateTime: 2021-04-05T19:41:00Z
