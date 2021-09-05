@@ -1,33 +1,30 @@
 ---
 category: news
-title: "Biden slams Supreme Court Texas abortion ruling as 'unprecedented assault on a woman’s constitutional rights’"
-excerpt: "President Biden on Thursday slammed the Supreme Court’s overnight ruling on Texas' abortion law as an “unprecedented assault on a woman’s constitutional rights.”"
-publishedDateTime: 2021-09-02T18:20:36Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/s0NHXNhMv88/biden-supreme-court-texas-abortion-ruling-reaction"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/s0NHXNhMv88/biden-supreme-court-texas-abortion-ruling-reaction"
-ampWebUrl: "https://www.foxnews.com/politics/biden-supreme-court-texas-abortion-ruling-reaction.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-supreme-court-texas-abortion-ruling-reaction.amp"
+title: "Trump takes credit for Supreme Court not blocking Texas abortion law"
+excerpt: "In his first TV interview since leaving office, Trump was asked if his three nominees to the court made a difference when it came to the controversial law."
+publishedDateTime: 2021-09-05T18:11:00Z
+originalUrl: "https://nypost.com/2021/09/05/trump-takes-credit-for-texas-abortion-ban-moving-through-scotus/"
+webUrl: "https://nypost.com/2021/09/05/trump-takes-credit-for-texas-abortion-ban-moving-through-scotus/"
+ampWebUrl: "https://nypost.com/2021/09/05/trump-takes-credit-for-texas-abortion-ban-moving-through-scotus/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/05/trump-takes-credit-for-texas-abortion-ban-moving-through-scotus/amp/"
 type: article
-quality: 156
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/anti-abortion-protests-084.jpg?quality=90&strip=all&w=1024"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -95,6 +92,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden slams Supreme Court Texas abortion ruling as 'unprecedented assault on a woman’s constitutional rights’"
+    excerpt: "President Biden on Thursday slammed the Supreme Court’s overnight ruling on Texas' abortion law as an “unprecedented assault on a woman’s constitutional rights.”"
+    publishedDateTime: 2021-09-02T18:20:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/s0NHXNhMv88/biden-supreme-court-texas-abortion-ruling-reaction"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-supreme-court-texas-abortion-ruling-reaction.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-supreme-court-texas-abortion-ruling-reaction.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Joe Biden orders declassification review of 9/11 probe documents"
     excerpt: "President Biden signed an executive order directing the DOJ and other agencies to oversee the review of 9/11 documents and ordered Merrick Garland to release any declassified documents publicly."
     publishedDateTime: 2021-09-04T03:23:00Z
@@ -108,22 +121,6 @@ related:
     quality: 135
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/sept-11-documents-06.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Trump takes credit for Supreme Court not blocking Texas abortion law"
-    excerpt: "In his first TV interview since leaving office, Trump was asked if his three nominees to the court made a difference when it came to the controversial law."
-    publishedDateTime: 2021-09-05T18:11:00Z
-    webUrl: "https://nypost.com/2021/09/05/trump-takes-credit-for-texas-abortion-ban-moving-through-scotus/"
-    ampWebUrl: "https://nypost.com/2021/09/05/trump-takes-credit-for-texas-abortion-ban-moving-through-scotus/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/05/trump-takes-credit-for-texas-abortion-ban-moving-through-scotus/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/anti-abortion-protests-084.jpg?quality=90&strip=all&w=1024"
         width: 1024
         height: 682
         isCached: true
@@ -144,6 +141,6 @@ related:
         height: 405
         isCached: true
 
-secured: "1jOz1La5ONHma4vJ+41Ec5VKINAiE4OUUsLhDqTg7psGoirKRN8l9cAK7pdnbiIcGct4BED5TELn7bjjKG4U2RM3DyKwKXZqKqS8CAOBDJZRhJ6gu0utyfdwblLPIX3D8exLGZxzNNUB5SC/mN4dXvBOA47T1qz8kZLxcSWSDZtoxd+4iO+jD5RD1zDcPqLcFlNSD75Co6p2sRyuiZOFH7x/6Hm4+9xXrxZveRtSFkLVoQMWUm5hFL5oHI2pa4dRqHYg6CJ6cYts9khsvZhmotGP7HdurymXedP8T68SA7qLmL+rDGQmKxFcFyAL/o2JP424RetyTkYlzPtw1tMTzjzPKarYU45MAmwiPAFcyrM=;gR41N4CZJZ4eH56IrbiWXg=="
+secured: "vIAKrcfNnGlFxW16Qg4LwZGJhEUpaa9TdJPpS95S/BU2IPrvVuZfXcXik0AXzaz7OoR+Y5bsZfJq70tUrU0L5YbuhPYSyo8+RO2pK8M3Pmz+a5bDdjKCrk80VVnM7OXZD1WkbPZ4aapTSPy18rMDr5eJ9JmG49XBqYwgYC5ExJfxyzX6Bt+cseUGanUl3gYD9hrecg98vCKupE9328Z23OzqQTS/3dWyOn6xUf/ax5hzCr60hr8bCvHZKU4p9TRb4eTKvncB6Xev1XO0senCbUvMY74V8yUTPiYcP3AkD7p7o6JX/y8w/pvLsNMJmB0o6z16PTkNpgup2SPmuJBe4KY8brHvc2uE9NA/Rr+lIfc=;enOFaB65dGhZ0duSJaujdw=="
 ---
 

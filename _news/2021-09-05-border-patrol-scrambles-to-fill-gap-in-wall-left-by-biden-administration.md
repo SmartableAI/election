@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden slams Supreme Court Texas abortion ruling as 'unprecedented assault on a woman’s constitutional rights’"
-excerpt: "President Biden on Thursday slammed the Supreme Court’s overnight ruling on Texas' abortion law as an “unprecedented assault on a woman’s constitutional rights.”"
-publishedDateTime: 2021-09-02T18:20:36Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/s0NHXNhMv88/biden-supreme-court-texas-abortion-ruling-reaction"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/s0NHXNhMv88/biden-supreme-court-texas-abortion-ruling-reaction"
-ampWebUrl: "https://www.foxnews.com/politics/biden-supreme-court-texas-abortion-ruling-reaction.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-supreme-court-texas-abortion-ruling-reaction.amp"
+title: "Border Patrol scrambles to fill gap in wall left by Biden administration"
+excerpt: "When President Biden took office in January, his administration ordered an immediate halt on the construction of a 30-foot high border fence, leaving a gaping hole at one of the most vulnerable stretches of the US-Mexican border."
+publishedDateTime: 2021-09-05T19:46:29Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hp0dPIIzsXk/border-patrol-scrambles-gap-wall-biden-administration"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hp0dPIIzsXk/border-patrol-scrambles-gap-wall-biden-administration"
+ampWebUrl: "https://www.foxnews.com/politics/border-patrol-scrambles-gap-wall-biden-administration.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-patrol-scrambles-gap-wall-biden-administration.amp"
 type: article
-quality: 156
+quality: 174
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/879b88e5-5c73-4acf-9570-451c852ff872/cb52dd93-9e06-4f1c-b4d8-cd9f015bac23/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
@@ -63,22 +63,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Border Patrol scrambles to fill gap in wall left by Biden administration"
-    excerpt: "When President Biden took office in January, his administration ordered an immediate halt on the construction of a 30-foot high border fence, leaving a gaping hole at one of the most vulnerable stretches of the US-Mexican border."
-    publishedDateTime: 2021-09-05T19:46:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hp0dPIIzsXk/border-patrol-scrambles-gap-wall-biden-administration"
-    ampWebUrl: "https://www.foxnews.com/politics/border-patrol-scrambles-gap-wall-biden-administration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-patrol-scrambles-gap-wall-biden-administration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/879b88e5-5c73-4acf-9570-451c852ff872/cb52dd93-9e06-4f1c-b4d8-cd9f015bac23/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Sen. Cruz says Biden is trying to cover up poor Texas migrant facility conditions"
     excerpt: "Cruz and fellow GOP lawmakers Reps. Chip Roy and Nancy Mace held a press conference after spending time with the men and women of Border Patrol in Laredo, Texas."
     publishedDateTime: 2021-09-01T19:23:47Z
@@ -94,6 +78,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ffd9786c-a6ff-4664-bcf8-aa50156e5ca5/baa20d53-a8c4-4810-a228-f2bdd1cd27d0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden slams Supreme Court Texas abortion ruling as 'unprecedented assault on a woman’s constitutional rights’"
+    excerpt: "President Biden on Thursday slammed the Supreme Court’s overnight ruling on Texas' abortion law as an “unprecedented assault on a woman’s constitutional rights.”"
+    publishedDateTime: 2021-09-02T18:20:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/s0NHXNhMv88/biden-supreme-court-texas-abortion-ruling-reaction"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-supreme-court-texas-abortion-ruling-reaction.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-supreme-court-texas-abortion-ruling-reaction.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Joe Biden orders declassification review of 9/11 probe documents"
     excerpt: "President Biden signed an executive order directing the DOJ and other agencies to oversee the review of 9/11 documents and ordered Merrick Garland to release any declassified documents publicly."
@@ -144,6 +144,6 @@ related:
         height: 405
         isCached: true
 
-secured: "1jOz1La5ONHma4vJ+41Ec5VKINAiE4OUUsLhDqTg7psGoirKRN8l9cAK7pdnbiIcGct4BED5TELn7bjjKG4U2RM3DyKwKXZqKqS8CAOBDJZRhJ6gu0utyfdwblLPIX3D8exLGZxzNNUB5SC/mN4dXvBOA47T1qz8kZLxcSWSDZtoxd+4iO+jD5RD1zDcPqLcFlNSD75Co6p2sRyuiZOFH7x/6Hm4+9xXrxZveRtSFkLVoQMWUm5hFL5oHI2pa4dRqHYg6CJ6cYts9khsvZhmotGP7HdurymXedP8T68SA7qLmL+rDGQmKxFcFyAL/o2JP424RetyTkYlzPtw1tMTzjzPKarYU45MAmwiPAFcyrM=;gR41N4CZJZ4eH56IrbiWXg=="
+secured: "RCoIeRt/tRxjZAXLV9yaBXQnQi94nxjozEFA6sMxAnQpccq1sYhUBKEfg2tsNvgh5hQ5M1nNAvgLPsFb9mq4cFtc0tdaK30QmpoTPuGGUr20/0aKIGTRsqny8zF49nS+cdUbdHiJfSDDJNAL/3v66dAV1jQBgQXLkqvUTgLsqUQOMTwX2blQ1riW/IrYn0xUsuNA3UMPX59lVYyvja9LGfTb0scuE7bI53Jq3xhMqdXOP4+Fp7kP3WcHTdLe9O99J7y8tPmG5teWJH43E20N/4BgnrIJ9GrgRA2klnpY3JTBicBsKtRK7Zdhx5LC2eQeBhwMN688D3J2EZEIwnqdjeHfSdfwVOirzB8xCkDG7NA=;VaI2VGXWGpcT9rqrCLMJHw=="
 ---
 

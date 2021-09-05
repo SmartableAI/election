@@ -63,6 +63,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Border Patrol scrambles to fill gap in wall left by Biden administration"
+    excerpt: "When President Biden took office in January, his administration ordered an immediate halt on the construction of a 30-foot high border fence, leaving a gaping hole at one of the most vulnerable stretches of the US-Mexican border."
+    publishedDateTime: 2021-09-05T19:46:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hp0dPIIzsXk/border-patrol-scrambles-gap-wall-biden-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/border-patrol-scrambles-gap-wall-biden-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-patrol-scrambles-gap-wall-biden-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/879b88e5-5c73-4acf-9570-451c852ff872/cb52dd93-9e06-4f1c-b4d8-cd9f015bac23/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden slams Supreme Court Texas abortion ruling as 'unprecedented assault on a woman’s constitutional rights’"
     excerpt: "President Biden on Thursday slammed the Supreme Court’s overnight ruling on Texas' abortion law as an “unprecedented assault on a woman’s constitutional rights.”"
     publishedDateTime: 2021-09-02T18:20:36Z
@@ -92,6 +108,22 @@ related:
     quality: 135
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/sept-11-documents-06.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Trump takes credit for Supreme Court not blocking Texas abortion law"
+    excerpt: "In his first TV interview since leaving office, Trump was asked if his three nominees to the court made a difference when it came to the controversial law."
+    publishedDateTime: 2021-09-05T18:11:00Z
+    webUrl: "https://nypost.com/2021/09/05/trump-takes-credit-for-texas-abortion-ban-moving-through-scotus/"
+    ampWebUrl: "https://nypost.com/2021/09/05/trump-takes-credit-for-texas-abortion-ban-moving-through-scotus/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/05/trump-takes-credit-for-texas-abortion-ban-moving-through-scotus/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/anti-abortion-protests-084.jpg?quality=90&strip=all&w=1024"
         width: 1024
         height: 682
         isCached: true
