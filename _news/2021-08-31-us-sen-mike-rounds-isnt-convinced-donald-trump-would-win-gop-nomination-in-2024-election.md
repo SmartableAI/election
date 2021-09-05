@@ -99,19 +99,16 @@ related:
       domain: islandpacket.com
     quality: 55
   - title: "Georgia lieutenant governor declares independence from Trump"
-    excerpt: "Georgia's Republican lieutenant governor is declaring independence from Donald Trump in a new book and urging other members of the GOP to follow."
-    publishedDateTime: 2021-09-04T21:00:00Z
-    webUrl: "https://www.timesfreepress.com/news/breakingnews/story/2021/sep/04/georgia-lieutenant-governor-declares-independence-trump/553599/"
+    excerpt: "Georgia’s Republican lieutenant governor is declaring independence from Donald Trump in a new book, and urging other Republicans to follow."
+    publishedDateTime: 2021-09-05T02:35:00Z
+    webUrl: "https://www.bellinghamherald.com/news/politics-government/national-politics/article253983268.html"
+    ampWebUrl: "https://amp.bellinghamherald.com/news/politics-government/national-politics/article253983268.html"
+    cdnAmpWebUrl: "https://amp-bellinghamherald-com.cdn.ampproject.org/c/s/amp.bellinghamherald.com/news/politics-government/national-politics/article253983268.html"
     type: article
     provider:
-      name: Times Free Press
-      domain: timesfreepress.com
+      name: The Bellingham Herald
+      domain: bellinghamherald.com
     quality: 55
-    images:
-      - url: "https://media.timesfreepress.com/img/photos/2020/11/21/gettyimages6730117888056173115_t1070_h4f8727c87c1ac6b03ad2bdf68f3acdc7a0b141ab.jpg"
-        width: 1070
-        height: 713
-        isCached: true
 
 secured: "DH0QIRDNDrt4egTcv2yDyzfEtE59LbkOa4xPi9iKDQEHpXz24pi2GME5Tsp9I77QxS5IyWCmWtN3L4KRMiPjtCeY4m0reaFE7o5m5WFbDH6TemCV9mVcxOuha1NWS9Paro+/28ACQQJl2szoJTpDnog58LcoRbbRxrSYFCGeXIqKtffT+16vqNnrMoRJY5wV1tuh/geXMiYq/8KqRRrFO1Hv1k3cu6B6DDIyDY0UT7M5+7TxwbJW6UXdtzvVX2Pw2EiqGj87hvMeu5TDmxH5nKcs0XS3ZO0xmTcUY1dl0lChS6fz52pdrd30n1zCwDuV6vpJ5QWSviYNjn2taJa/vHe8hSnaS6qYcmGV+gVx91Y=;0ntHC1gyV0mqPkTIcrMYlA=="
 ---

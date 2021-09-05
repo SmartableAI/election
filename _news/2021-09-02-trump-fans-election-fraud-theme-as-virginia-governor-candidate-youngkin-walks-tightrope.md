@@ -103,19 +103,16 @@ related:
       domain: islandpacket.com
     quality: 55
   - title: "Georgia lieutenant governor declares independence from Trump"
-    excerpt: "Georgia's Republican lieutenant governor is declaring independence from Donald Trump in a new book and urging other members of the GOP to follow."
-    publishedDateTime: 2021-09-04T21:00:00Z
-    webUrl: "https://www.timesfreepress.com/news/breakingnews/story/2021/sep/04/georgia-lieutenant-governor-declares-independence-trump/553599/"
+    excerpt: "Georgia’s Republican lieutenant governor is declaring independence from Donald Trump in a new book, and urging other Republicans to follow."
+    publishedDateTime: 2021-09-05T02:35:00Z
+    webUrl: "https://www.bellinghamherald.com/news/politics-government/national-politics/article253983268.html"
+    ampWebUrl: "https://amp.bellinghamherald.com/news/politics-government/national-politics/article253983268.html"
+    cdnAmpWebUrl: "https://amp-bellinghamherald-com.cdn.ampproject.org/c/s/amp.bellinghamherald.com/news/politics-government/national-politics/article253983268.html"
     type: article
     provider:
-      name: Times Free Press
-      domain: timesfreepress.com
+      name: The Bellingham Herald
+      domain: bellinghamherald.com
     quality: 55
-    images:
-      - url: "https://media.timesfreepress.com/img/photos/2020/11/21/gettyimages6730117888056173115_t1070_h4f8727c87c1ac6b03ad2bdf68f3acdc7a0b141ab.jpg"
-        width: 1070
-        height: 713
-        isCached: true
 
 secured: "BQN0B2N46+IZMQPraNwm5O+ziyzbZH7AjCpk4tdmchQB1ph6szVaqHSKSF7S1OMDDPeKdwIWqwO3W1roG+PxSgwQrGqzUScGVMhLJOibi/X28zepHB0xnK7URWj73QhzsCDwTtxIdgWPf6owPZ3nmYXUrqQbutC18hpjt3v6hrlAGbYzMMzsfNrTnrrLyKxSNrJr5SLARD0fQzrf5s3N0LeNZVrGy2tfe/NqZ1+6xHVUE9hvmItPVYBOyYkNzeVriGzmzuP8cbDBHFtP7r0um8UhVcuOHabnI158EBjNtkOqpsaBDRsx4Q4ffGW/uaBh/RYHPV8l+ql8q3EjzGFYNJYFgRSJ+g3pHICP9FF1pX45ec8x5Q8dnVZNga6T8bhCnTw7w8+AsLLWXLe6SGP0M5Q4dO+g92DhNNoSxYx3SHPF0XkuSmGOX88WyZZidquHeEpZs4LLQjyqwcIajb3ixLqdvd7Zrk3epslIrh/+aNayQGxwnjDkuxBGT+Zkv8rMl6QXLimjaWD70ljXhY+IFQ==;TUzihWO9aO6Kp/xRjRKuOQ=="
 ---

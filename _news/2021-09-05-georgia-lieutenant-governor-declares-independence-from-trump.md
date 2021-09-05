@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Georgia lieutenant governor declares independence from Trump"
-excerpt: "Georgia's Republican lieutenant governor is declaring independence from Donald Trump in a new book and urging other members of the GOP to follow."
-publishedDateTime: 2021-09-04T21:00:00Z
-originalUrl: "https://www.timesfreepress.com/news/breakingnews/story/2021/sep/04/georgia-lieutenant-governor-declares-independence-trump/553599/"
-webUrl: "https://www.timesfreepress.com/news/breakingnews/story/2021/sep/04/georgia-lieutenant-governor-declares-independence-trump/553599/"
+excerpt: "Georgia’s Republican lieutenant governor is declaring independence from Donald Trump in a new book, and urging other Republicans to follow."
+publishedDateTime: 2021-09-05T02:35:00Z
+originalUrl: "https://www.bellinghamherald.com/news/politics-government/national-politics/article253983268.html"
+webUrl: "https://www.bellinghamherald.com/news/politics-government/national-politics/article253983268.html"
+ampWebUrl: "https://amp.bellinghamherald.com/news/politics-government/national-politics/article253983268.html"
+cdnAmpWebUrl: "https://amp-bellinghamherald-com.cdn.ampproject.org/c/s/amp.bellinghamherald.com/news/politics-government/national-politics/article253983268.html"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Times Free Press
-  domain: timesfreepress.com
+  name: The Bellingham Herald
+  domain: bellinghamherald.com
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://media.timesfreepress.com/img/photos/2020/11/21/gettyimages6730117888056173115_t1070_h4f8727c87c1ac6b03ad2bdf68f3acdc7a0b141ab.jpg"
-    width: 1070
-    height: 713
-    isCached: true
 
 related:
   - title: "Trump fans election fraud theme as Virginia governor candidate Youngkin walks tightrope"
@@ -113,6 +109,6 @@ related:
       domain: islandpacket.com
     quality: 55
 
-secured: "5yahiLpuVcg81WNOwFG4QCHiHV0LH3aEPIh9ZjNhWJi4q4rslDJGN32HAIZ3IXBGiFrOfQ2DchiB6Bs/Onk1QlEguD5fJO7mztDrZp1sTfwAks6wx6jAWkbvqocQ8UhNuaw1gIYRelvOh9sdNvZL1lkTbKwslfYf+k5X0TlhdHsaR4AXoiAPqKiXnMfoaAaH0jyYnvwxtlNZ2Gbr4VmWwEjq4H7ri4MXeISihiG4Rjq26ipkQnYeIPXJuqvVC99SPEGTuYarjfnWy4U4piDyJTh1pHep9GAWrq/0/NJy7zoLWnaGIoPbk+pGqc0ROMLpiSq0hxiTIPnd6cMNOJ91VIpBY1gQ/Dq/uJ5G6HKD7Og=;/pL6AmYivZ+Xw8V2EqqGOQ=="
+secured: "v0AD39v9XVy2s3RtUy5gH/FG/bU7QfQsiuPtryvnKsrsVJWd91C6oZphWZn9SzI8FYuOrSrg0J9rMp4PQLYIEA5GNxQFkdMstWoBvKf51aB1wFaSaW22j596OsXPEz7vEnto0mKlUXnBUJ7mfxKLePRBUi82r3DqEaoBWinrD9ma2OY+uv6upJREbTu54HzhWk5wEjFgkf3UoFVMiu85zuEAvS+waMeUdyxl1JEA/htHIeJUwFfsP451R4UfF8XEMKy85ExddZJb6kpOqgYRx5LkwMhMbC8rr2L48LoVDgTIP9tf5P/L8eS7JhlJsqJeYJGzp6ZtLTOlPu37aveBDkgKe4CnUYRha1LsOBwMyeE=;KhPM3ylsi7xbnULG3ssG4w=="
 ---
 

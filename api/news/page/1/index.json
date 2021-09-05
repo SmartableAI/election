@@ -58,6 +58,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-05-harris-to-california-on-wednesday-to-campaign-for-newsom.md",
+      "title": "Harris to California on Wednesday to campaign for Newsom",
+      "excerpt": "Vice President Kamala Harris will visit California's Bay Area next week to campaign for Gov. Gavin Newsom, who faces possible removal from office in a Sept. 14 recall election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.stltoday.com/news/national/govt-and-politics/harris-to-california-on-wednesday-to-campaign-for-newsom/article_82c4f72d-691c-569a-960f-4311159c33dd.html",
+      "originalUrl": "https://www.stltoday.com/news/national/govt-and-politics/harris-to-california-on-wednesday-to-campaign-for-newsom/article_82c4f72d-691c-569a-960f-4311159c33dd.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/4/10/410c1a7b-2e50-59bc-a78a-e550eec6ddce/6133ed249672c.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-04T14:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-09-05-republican-adam-kinzinger-says-gop-audits-about-being-too-scared-to-admit-trump-lost.md",
       "title": "Republican Adam Kinzinger Says GOP Audits 'About Being Too Scared' to Admit Trump Lost",
       "excerpt": "The GOP congressman's criticism comes as Republicans continue to push for probes of last year's presidential election—10 months after it was held.",
@@ -1194,21 +1237,21 @@
       ]
     },
     {
-      "path": "_news/2021-09-03-trump-towers-key-tenants-have-fallen-behind-on-rent-and-moved-out-but-trump-has-one-reliable-customer-his-own-pac.md",
-      "title": "Trump Tower’s key tenants have fallen behind on rent and moved out. But Trump has one reliable customer: His own PAC.",
-      "excerpt": "Trump’s PAC pays more than $37,000 a month for space at the tower — the latest instance of Trump using donors’ money to prop up his businesses.",
+      "path": "_news/2021-09-03-this-is-an-everybody-problem-study-by-wsu-researchers-links-trump-votes-with-lgbtq-bullying-in-schools.md",
+      "title": "‘This is an everybody problem’: Study by WSU researchers links Trump votes with LGBTQ+ bullying in schools",
+      "excerpt": "Hobaica co-authored a study published this summer examining the correlation between the political leanings of a school district and levels of bullying against LGBTQ+ students. To do so, authors used the 2018 Washington State Healthy Youth Survey,",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/trump-tower-pac-rent-campaign-finance/2021/09/02/dfeae19e-0b2f-11ec-9781-07796ffb56fe_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/trump-tower-pac-rent-campaign-finance/2021/09/02/dfeae19e-0b2f-11ec-9781-07796ffb56fe_story.html",
+      "webUrl": "https://www.spokesman.com/stories/2021/sep/03/this-is-an-everybody-problem-study-by-wsu-research/",
+      "originalUrl": "https://www.spokesman.com/stories/2021/sep/03/this-is-an-everybody-problem-study-by-wsu-research/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JEFP3DGEWII6VKBFQ4RAATSBKA.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
+          "url": "https://thumb.spokesman.com/KG-kgiXMHyqWGTDBbw19vnXTBWM=/480x0/media.spokesman.com/photos/2021/09/02/6131463fd3fde.hires.jpg",
+          "width": 480,
+          "height": 320,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1216,23 +1259,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-03T03:04:00-07:00",
+      "ampWebUrl": "https://www.spokesman.com/stories/2021/sep/03/this-is-an-everybody-problem-study-by-wsu-research/?amp-content=amp",
+      "cdnAmpWebUrl": "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/sep/03/this-is-an-everybody-problem-study-by-wsu-research/?amp-content=amp",
+      "publishedDateTime": "2021-09-03T04:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "The Spokesman-Review",
+        "domain": "spokesman.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1243,62 +1277,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-biden-gets-foggy-talking-about-daughters-wedding-my-mind-is-going-blank-now.md",
-      "title": "Biden gets foggy talking about daughter's wedding: 'My mind is going blank now'",
-      "excerpt": "President Biden appeared to get a bit confused Thursday when recalling his daughter's wedding during a virtual event to celebrate the start of the Jewish High Holidays.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZhzoXmY75So/biden-gets-foggy-daughters-wedding-mind-going-blank",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZhzoXmY75So/biden-gets-foggy-daughters-wedding-mind-going-blank",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/09/720/405/AP21245616505528.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-gets-foggy-daughters-wedding-mind-going-blank.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gets-foggy-daughters-wedding-mind-going-blank.amp",
-      "publishedDateTime": "2021-09-02T20:31:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],
