@@ -79,6 +79,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Judge Jeanine: Joe Biden has given a terrorist organization their own nation"
+    excerpt: "Judge Jeanine ripped into President Biden's decision to withdraw from Afghanistan and give a terrorist organization a country of their own on Saturday night's episode of \"Justice with Judge Jeanine.\""
+    publishedDateTime: 2021-09-05T01:50:00Z
+    webUrl: "https://www.foxnews.com/media/judge-jeanine-joe-biden-given-terrorist-organization-their-own-nation"
+    ampWebUrl: "https://www.foxnews.com/media/judge-jeanine-joe-biden-given-terrorist-organization-their-own-nation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/judge-jeanine-joe-biden-given-terrorist-organization-their-own-nation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2705a599-f390-4716-b725-dd082be42873/c519de00-5cb9-4bb3-b15b-460f17c6723f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "1jOz1La5ONHma4vJ+41Ec5VKINAiE4OUUsLhDqTg7psGoirKRN8l9cAK7pdnbiIcGct4BED5TELn7bjjKG4U2RM3DyKwKXZqKqS8CAOBDJZRhJ6gu0utyfdwblLPIX3D8exLGZxzNNUB5SC/mN4dXvBOA47T1qz8kZLxcSWSDZtoxd+4iO+jD5RD1zDcPqLcFlNSD75Co6p2sRyuiZOFH7x/6Hm4+9xXrxZveRtSFkLVoQMWUm5hFL5oHI2pa4dRqHYg6CJ6cYts9khsvZhmotGP7HdurymXedP8T68SA7qLmL+rDGQmKxFcFyAL/o2JP424RetyTkYlzPtw1tMTzjzPKarYU45MAmwiPAFcyrM=;gR41N4CZJZ4eH56IrbiWXg=="
 ---

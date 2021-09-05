@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-to-campaign-for-newsom-in-ca
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-to-campaign-for-newsom-in-california-after-vietnam-singapore-trip.amp"
 type: article
 quality: 178
-heat: 258
+heat: 278
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
     quality: 133
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/harris-singapore-034.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "VP Harris heading to California to boost Gavin Newsom ahead of recall vote"
+    excerpt: "Vice President Kamala Harris will hit the campaign trail next week alongside embattled California Gov. Gavin Newsom."
+    publishedDateTime: 2021-09-05T01:16:00Z
+    webUrl: "https://nypost.com/2021/09/04/vp-harris-heading-to-california-to-boost-gavin-newsom-ahead-of-recall-vote/"
+    ampWebUrl: "https://nypost.com/2021/09/04/vp-harris-heading-to-california-to-boost-gavin-newsom-ahead-of-recall-vote/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/04/vp-harris-heading-to-california-to-boost-gavin-newsom-ahead-of-recall-vote/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/Gavin-Newsom-136.jpg?quality=90&strip=all&w=1024"
         width: 1024
         height: 682
         isCached: true

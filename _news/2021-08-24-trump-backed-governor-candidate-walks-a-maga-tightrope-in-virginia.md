@@ -71,6 +71,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Trump’s backing lands early in wide-open US Senate race"
+    excerpt: "HARRISBURG, Pa. (AP) — The most sought-after endorsement in Pennsylvania’s wide-open Republican primary for U.S. Senate went early to Sean Parnell, but the backing of former President Donald Trump isn’t clearing the field for Parnell and it’s yet ..."
+    publishedDateTime: 2021-09-05T01:00:00Z
+    webUrl: "https://www.timesleader.com/wire/state-wire/1510510/trumps-backing-lands-early-in-wide-open-us-senate-race"
+    ampWebUrl: "https://www.timesleader.com/wire/state-wire/1510510/trumps-backing-lands-early-in-wide-open-us-senate-race/amp"
+    cdnAmpWebUrl: "https://www-timesleader-com.cdn.ampproject.org/c/s/www.timesleader.com/wire/state-wire/1510510/trumps-backing-lands-early-in-wide-open-us-senate-race/amp"
+    type: article
+    provider:
+      name: The Times Leader
+      domain: timesleader.com
+    quality: 75
+    images:
+      - url: "https://cdnmedia.sendtonews.com/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
   - title: "Trump backs Jones in Georgia, renews support for Walker"
     excerpt: "Former President Donald Trump put his thumb on the scale of Georgia Republican politics again Thursday, endorsing state Sen. Burt Jones in the GOP primary for lieutenant governor and reiterating his support for newly declared U."
     publishedDateTime: 2021-09-03T09:32:00Z

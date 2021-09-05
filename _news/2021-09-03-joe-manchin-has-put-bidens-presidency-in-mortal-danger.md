@@ -139,6 +139,38 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Joe Biden moves to declassify documents about Sept. 11 attacks"
+    excerpt: "President Joe Biden on Friday directed the declassification of certain documents related to the Sept. 11, 2001, terrorist attacks, a supportive gesture to victims’ families who have long"
+    publishedDateTime: 2021-09-05T01:46:00Z
+    webUrl: "https://www.denverpost.com/2021/09/04/joe-biden-declassify-documents-sept-11-attacks/"
+    ampWebUrl: "https://www.denverpost.com/2021/09/04/joe-biden-declassify-documents-sept-11-attacks/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/09/04/joe-biden-declassify-documents-sept-11-attacks/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/09/AP21246541227903.jpg?w=1024&#038;h=683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "President Joe Biden to mark 20th anniversary of 9/11 at 3 memorial sites"
+    excerpt: "President Joe Biden will visit ground zero in New York City, the Pentagon and the memorial outside Shanksville, Pennsylvania, where United Flight 93 was forced down, the White House said Saturday."
+    publishedDateTime: 2021-09-04T19:29:00Z
+    webUrl: "https://www.oregonlive.com/nation/2021/09/president-joe-biden-to-mark-20th-anniversary-of-911-at-3-memorial-sites.html"
+    ampWebUrl: "https://www.oregonlive.com/nation/2021/09/president-joe-biden-to-mark-20th-anniversary-of-911-at-3-memorial-sites.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/nation/2021/09/president-joe-biden-to-mark-20th-anniversary-of-911-at-3-memorial-sites.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 74
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/Y7EOGRWRRBAOZG5W5KDJVOT2YA.jpeg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Was Biden looking at his watch during ceremony for Marines killed in Kabul?"
     excerpt: "It appeared President Biden glanced at his watch during a solemn ceremony for U.S. Marines killed in the Kabul terror attack."
     publishedDateTime: 2021-08-30T02:28:00Z

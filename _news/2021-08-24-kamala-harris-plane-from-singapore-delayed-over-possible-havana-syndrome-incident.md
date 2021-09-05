@@ -80,6 +80,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "VP Harris heading to California to boost Gavin Newsom ahead of recall vote"
+    excerpt: "Vice President Kamala Harris will hit the campaign trail next week alongside embattled California Gov. Gavin Newsom."
+    publishedDateTime: 2021-09-05T01:16:00Z
+    webUrl: "https://nypost.com/2021/09/04/vp-harris-heading-to-california-to-boost-gavin-newsom-ahead-of-recall-vote/"
+    ampWebUrl: "https://nypost.com/2021/09/04/vp-harris-heading-to-california-to-boost-gavin-newsom-ahead-of-recall-vote/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/04/vp-harris-heading-to-california-to-boost-gavin-newsom-ahead-of-recall-vote/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/Gavin-Newsom-136.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Kamala Harris’ flight to Vietnam delayed by possible ‘Havana Syndrome’ cases"
     excerpt: "Vice President Kamala Harris’ flight from Singapore to Vietnam had to be pushed back several hours Tuesday over a possible “Havana syndrome” case."
     publishedDateTime: 2021-08-24T17:18:00Z

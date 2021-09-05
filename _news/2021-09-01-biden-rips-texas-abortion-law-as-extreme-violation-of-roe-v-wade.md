@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-texas-abortion-law-extreme-vi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-texas-abortion-law-extreme-violation-of-roe-v-wade.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Judge Jeanine: Joe Biden has given a terrorist organization their own nation"
+    excerpt: "Judge Jeanine ripped into President Biden's decision to withdraw from Afghanistan and give a terrorist organization a country of their own on Saturday night's episode of \"Justice with Judge Jeanine.\""
+    publishedDateTime: 2021-09-05T01:50:00Z
+    webUrl: "https://www.foxnews.com/media/judge-jeanine-joe-biden-given-terrorist-organization-their-own-nation"
+    ampWebUrl: "https://www.foxnews.com/media/judge-jeanine-joe-biden-given-terrorist-organization-their-own-nation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/judge-jeanine-joe-biden-given-terrorist-organization-their-own-nation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2705a599-f390-4716-b725-dd082be42873/c519de00-5cb9-4bb3-b15b-460f17c6723f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "gDt+pGRbiIxfaIpMYtXL0NLkblem2H5ykpztvCdjRuQiK8KLScMudnVqFP3q4y2wgEAE+rwqUNyUPSO71dqtCd1ME7fSEFTOQGTv128eUoGg595QzSfFw4ADY1zcSTl54AULxm/X8jmkvp+LBpS2ZvifDfj0rm4xA2HG/LtT7fp9AFBH+AKNGbAlv3Cl87FPRfFTFz6ZUq6vAF+djYlNWs2O1GvhTIAVtA89SDJ7ZT707+qEtURDm+8QZgBlWQZTcyV47ajsAYvnF/YtadFxvLqxNrDMvW1t+u6N4/8n0nGSrN556g+6KwZ7gSXO6Y2xLemEro+3RK2niph6/ZiBJ/kflpgg7tDZzxqIMfwPyeU=;HG/qx2sOHGIDF4u6jJ6sZw=="

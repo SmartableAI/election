@@ -92,6 +92,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "VP Harris heading to California to boost Gavin Newsom ahead of recall vote"
+    excerpt: "Vice President Kamala Harris will hit the campaign trail next week alongside embattled California Gov. Gavin Newsom."
+    publishedDateTime: 2021-09-05T01:16:00Z
+    webUrl: "https://nypost.com/2021/09/04/vp-harris-heading-to-california-to-boost-gavin-newsom-ahead-of-recall-vote/"
+    ampWebUrl: "https://nypost.com/2021/09/04/vp-harris-heading-to-california-to-boost-gavin-newsom-ahead-of-recall-vote/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/04/vp-harris-heading-to-california-to-boost-gavin-newsom-ahead-of-recall-vote/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/Gavin-Newsom-136.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "X6lPUk4/gykdMJ7wFl/QBkmXE/DgoLcrJIGuX1V4ccmxTnXG1UmMxN+mvOez8WBo1/4cc+FkgLt4hMV9gr+hO3eK/6KIKgAOEJY0kQ6un7mqsHYfO8V6mwtwUutAATCCK+ACsv3TXR+TRRjFJH8qFOUvFtFYtDhVCZ+TDtFjDbQO2mGX8IduQZ7IGI2R6PabkR4choG5hc98Y8RGMrcOWGCOhNvoq+hmiUNqg1wDtddAvvhSJzDG1m1YXs1GaVhHTHpQT5NZd7tz71Aj2LnJVgVvR5wyh+nOz6K1y3AjTGyQTDXEq5pwraeZFe8yEW7K+fLY+wgNWp81GkhRcrV/WuwX1BEi5YMQPlg74YSy/3WDLIRbSivpfThS9Jcvs1w260yAFmDzExZ0Ur90Oa1g10j5NvyKHtZ6zd2pi3uoX87ltuBKcoz35GoBMm6gvdCdGiIEUfKmhj5jFgeAd/DsuzGxi3pR99Te41aLjkNmNy4h9lQbXrNW0vQYmlBTiaEUkUKPNC1LZxmt9S6TMULjEA==;BLlYTlAFNyKDdcvHLHwzpw=="
 ---
