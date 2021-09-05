@@ -109,6 +109,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden blasted for 'cheat sheet' he used in Louisiana while surveying storm damage: 'Weak and incompetent'"
+    excerpt: "President Joe Biden traveled on Friday to Louisiana where he appeared to bring along a “cheat sheet” which featured names of photographs of local officials with certain talking points, according to a report on his visit."
+    publishedDateTime: 2021-09-04T23:04:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k8QB_yL1PKM/biden-panned-for-cheat-sheet-he-used-in-louisiana-while-surveying-storm-damage"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-panned-for-cheat-sheet-he-used-in-louisiana-while-surveying-storm-damage.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-panned-for-cheat-sheet-he-used-in-louisiana-while-surveying-storm-damage.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bd7d1c37-3e7b-45ea-9ce5-a39cdad10177/14c7b160-a5ca-460c-85d6-9b68497a9e43/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "vDPtVg6yRsDEOS0/xECRxuwrl7bgetmP2PdPWfN2FzFrW732OAJ42Io23NeI5eNfU3VPJpfKuLN+S1dITLBTrE9ClgbMhj029ITmntbSCg+0s9sWO2f1GRMaWPzKeftCjhKt2n/IOUvyJTnRNQZSsouyaFzA7piJhSZxroPlX60V+YWk4zqzjNK91T2faOnm8OqxJvp6kTZPMzbKLUBgllcsBZ4xbPWvXDKmcn9vV1dJUrYYUd91Au0nm4iXXSMRw6IpUbMRgblZcK5/Satqn7DAsBeQUS/Grf4scaYSj5XHMKsvDKjjFQYkjTcBTNn7gLP7kSHFXZ6m/tTjCEoqIA5vwpgMzqrc/oIwz5uGEZA=;s4KRJvn9BFqWpY6VZvWkUg=="
 ---

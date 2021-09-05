@@ -95,6 +95,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden blasted for 'cheat sheet' he used in Louisiana while surveying storm damage: 'Weak and incompetent'"
+    excerpt: "President Joe Biden traveled on Friday to Louisiana where he appeared to bring along a “cheat sheet” which featured names of photographs of local officials with certain talking points, according to a report on his visit."
+    publishedDateTime: 2021-09-04T23:04:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k8QB_yL1PKM/biden-panned-for-cheat-sheet-he-used-in-louisiana-while-surveying-storm-damage"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-panned-for-cheat-sheet-he-used-in-louisiana-while-surveying-storm-damage.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-panned-for-cheat-sheet-he-used-in-louisiana-while-surveying-storm-damage.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bd7d1c37-3e7b-45ea-9ce5-a39cdad10177/14c7b160-a5ca-460c-85d6-9b68497a9e43/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Florida diner that told Biden supporters to eat elsewhere becomes so popular it runs out of food"
     excerpt: "A Florida diner that posted a sign telling Biden supporters to take their business “elsewhere” was forced to temporarily close after not having enough food to meet a surge in demand."
     publishedDateTime: 2021-09-04T01:46:00Z

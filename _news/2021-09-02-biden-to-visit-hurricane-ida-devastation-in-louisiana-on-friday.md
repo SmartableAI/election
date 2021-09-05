@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-hurricane-ida-devastation-lou
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hurricane-ida-devastation-louisiana-friday.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 167
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/37013bf5-d6db-4cea-addd-f49fb230aeb4/2c11a8b8-c180-4ead-9cb5-e419ff9ddd57/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden blasted for 'cheat sheet' he used in Louisiana while surveying storm damage: 'Weak and incompetent'"
+    excerpt: "President Joe Biden traveled on Friday to Louisiana where he appeared to bring along a “cheat sheet” which featured names of photographs of local officials with certain talking points, according to a report on his visit."
+    publishedDateTime: 2021-09-04T23:04:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k8QB_yL1PKM/biden-panned-for-cheat-sheet-he-used-in-louisiana-while-surveying-storm-damage"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-panned-for-cheat-sheet-he-used-in-louisiana-while-surveying-storm-damage.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-panned-for-cheat-sheet-he-used-in-louisiana-while-surveying-storm-damage.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bd7d1c37-3e7b-45ea-9ce5-a39cdad10177/14c7b160-a5ca-460c-85d6-9b68497a9e43/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

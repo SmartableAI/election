@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Louisiana Congress members press Biden, Congress to do more for Hurricane Ida victims"
-excerpt: "Members of Louisiana's congressional delegation are requesting President Biden and Congress provide additional assistance amid Hurricane Ida's \"catastrophic\" impact on the state."
-publishedDateTime: 2021-09-03T14:15:58Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HR-yOgMlfmE/louisiana-congressmen-biden-hurricane-ida-victims"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HR-yOgMlfmE/louisiana-congressmen-biden-hurricane-ida-victims"
-ampWebUrl: "https://www.foxnews.com/politics/louisiana-congressmen-biden-hurricane-ida-victims.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/louisiana-congressmen-biden-hurricane-ida-victims.amp"
+title: "Biden blasted for 'cheat sheet' he used in Louisiana while surveying storm damage: 'Weak and incompetent'"
+excerpt: "President Joe Biden traveled on Friday to Louisiana where he appeared to bring along a “cheat sheet” which featured names of photographs of local officials with certain talking points, according to a report on his visit."
+publishedDateTime: 2021-09-04T23:04:45Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k8QB_yL1PKM/biden-panned-for-cheat-sheet-he-used-in-louisiana-while-surveying-storm-damage"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k8QB_yL1PKM/biden-panned-for-cheat-sheet-he-used-in-louisiana-while-surveying-storm-damage"
+ampWebUrl: "https://www.foxnews.com/politics/biden-panned-for-cheat-sheet-he-used-in-louisiana-while-surveying-storm-damage.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-panned-for-cheat-sheet-he-used-in-louisiana-while-surveying-storm-damage.amp"
 type: article
-quality: 168
+quality: 158
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/83fc7f92-2bea-40fd-b69d-16e6093d0fa7/3483f11e-f6d4-4d0b-a4d2-e308c79930a8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bd7d1c37-3e7b-45ea-9ce5-a39cdad10177/14c7b160-a5ca-460c-85d6-9b68497a9e43/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -79,6 +79,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Louisiana Congress members press Biden, Congress to do more for Hurricane Ida victims"
+    excerpt: "Members of Louisiana's congressional delegation are requesting President Biden and Congress provide additional assistance amid Hurricane Ida's \"catastrophic\" impact on the state."
+    publishedDateTime: 2021-09-03T14:15:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HR-yOgMlfmE/louisiana-congressmen-biden-hurricane-ida-victims"
+    ampWebUrl: "https://www.foxnews.com/politics/louisiana-congressmen-biden-hurricane-ida-victims.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/louisiana-congressmen-biden-hurricane-ida-victims.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/83fc7f92-2bea-40fd-b69d-16e6093d0fa7/3483f11e-f6d4-4d0b-a4d2-e308c79930a8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden to travel to New Jersey, New York next week to survey Hurricane Ida storm damage"
     excerpt: "President Biden will travel to New Jersey and New York next week to survey the aftermath of Hurricane Ida after it caused severe flood damage on the east coast."
     publishedDateTime: 2021-09-04T17:41:08Z
@@ -92,22 +108,6 @@ related:
     quality: 167
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/37013bf5-d6db-4cea-addd-f49fb230aeb4/2c11a8b8-c180-4ead-9cb5-e419ff9ddd57/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden blasted for 'cheat sheet' he used in Louisiana while surveying storm damage: 'Weak and incompetent'"
-    excerpt: "President Joe Biden traveled on Friday to Louisiana where he appeared to bring along a “cheat sheet” which featured names of photographs of local officials with certain talking points, according to a report on his visit."
-    publishedDateTime: 2021-09-04T23:04:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k8QB_yL1PKM/biden-panned-for-cheat-sheet-he-used-in-louisiana-while-surveying-storm-damage"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-panned-for-cheat-sheet-he-used-in-louisiana-while-surveying-storm-damage.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-panned-for-cheat-sheet-he-used-in-louisiana-while-surveying-storm-damage.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bd7d1c37-3e7b-45ea-9ce5-a39cdad10177/14c7b160-a5ca-460c-85d6-9b68497a9e43/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -126,6 +126,6 @@ related:
         height: 720
         isCached: true
 
-secured: "Uu1bLmjeXsWn43SdtGgDOiYGLJX19c8AxU5FdPWnsM7hXfeM1W4Z2Zm8smPfj47JzhlPVKoEvFkKmgsW8DitOhiHoavczZuGaO9PPyBDM6/92c5fwRp6UuDB3FTQbRE3Abwnjv5BI2qENFXl9ZAL9BFlEUC4BTbhxnmx/gWj12q3HHXWRzxJPq/+5RCMXYpEJGInVT2t14+OglcYniVk3ZInh+0jQK++aGa3xfJxKtQbttCQRTgYKnWAF45DbuybAU/oi3M5uf0GgB2tkU1HHQcvyzp2GkUoF0ftJmntHS6fgOcgsW47RW+sJmoUUwsZaUklBW711JYwUDBIZGgYywEkNqwyOYV+pvTr83r+H4s=;J7ryVWy7ySJ5H30/Uhrpyw=="
+secured: "NdqcBkLhQ6RdoyYK3cuu6Vt22tdxfaQEThqyofpQQWi74E/KTUlnVhC1XaqYMhZq31nYLQ4ZKgxhdETj3IIMID4222q6dFXyMYeLpKaGCQrgw5GMyaX28hQ4RLKkPg0qLhd74Q+dJIevhDnmVP5+eGd2o8xm/nPH3YNQBqjfA9OwCmwrjk9syu1fr1zibxlYXWhIPeuECtiNr+4AkQgv2ZhBPYR8rmVmfhd6opJcwrLNi2JwOGUFJ6OoVVh+h1BSHrCacqdN0CGbr1BBXIePPWz0x53zz/HhI16D2Jg245muFRqdfc4rQhvIRtPzGjEVTwM7G640PEHwGw167o7Cib+lvyb3K6zghwiIAkorLQI=;6tg2NyqDYPOxDnz911fJ6A=="
 ---
 
