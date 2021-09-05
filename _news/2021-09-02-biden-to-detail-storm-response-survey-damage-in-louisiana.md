@@ -143,6 +143,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Joe Biden tours devastation from Hurricane Ida in Louisiana"
+    excerpt: "President Joe Biden traveled to New Orleans and other Louisiana locations Friday to tour areas impacted by Hurricane Ida, promising to help local leaders and residents in their recovery."
+    publishedDateTime: 2021-09-03T12:13:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/09/03/louisiana-joe-biden-hurricane-ida/5701630667743/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/09/03/louisiana-joe-biden-hurricane-ida/5701630667743/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/09/03/louisiana-joe-biden-hurricane-ida/5701630667743/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/5701630667743/2021/1/48ea405b136ecf20e21904481d6af458/v1.5/Joe-Biden-tours-devastation-from-Hurricane-Ida-in-Louisiana.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "President Joe Biden plans to make trip to Louisiana in wake of Hurricane Ida destruction"
     excerpt: "President Joe Biden plans to visit Louisiana Friday to survey damage from Hurricane Ida. Hurricane Ida slammed into Louisiana with 150 mph winds."
     publishedDateTime: 2021-09-01T16:43:00Z

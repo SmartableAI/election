@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-18-harris-county-to-lower-covid-threat-level-khou-11-confirms.md",
+      "title": "Harris County to lower COVID threat level, KHOU 11 confirms",
+      "excerpt": "Harris County has spent a majority of this pandemic in the red threat level, but that is expected to change on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.khou.com/video/news/local/video/harris-county-to-lower-covid-threat-level-khou-11-confirms/285-28843615-0a37-42f6-a400-817d4f0b5032",
+      "originalUrl": "https://www.khou.com/video/news/local/video/harris-county-to-lower-covid-threat-level-khou-11-confirms/285-28843615-0a37-42f6-a400-817d4f0b5032",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.khou.com/assets/KHOU/images/226da1c8-2490-44c6-8bf8-b5d355bf9a99/226da1c8-2490-44c6-8bf8-b5d355bf9a99_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-17T20:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KHOU 11",
+        "domain": "khou.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-05-17-harris-headlines-unity-summit-for-aapi-community.md",
       "title": "Harris headlines unity summit for AAPI community",
       "excerpt": "Vice President Kamala Harris will serve as the keynote speaker for a virtual unity summit for Asian Americans and Pacific Islanders this week, her latest outreach to a community that has faced a wave of racially motivated crimes during the pandemic and is growing as a voting bloc.\n    \n",
@@ -1605,49 +1648,6 @@
       "topics": [
         "Election",
         "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-harris-vaccinated-can-be-role-models-for-friends-family.md",
-      "title": "Harris: Vaccinated can be 'role models' for friends, family",
-      "excerpt": "Vice President Kamala Harris on Tuesday urged Chicago union members to share their experience receiving a COVID-19 vaccine and act as “role models\" for family and friends who may be reluctant even as Illinois prepares to open access to all adults.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/business/article/Harris-Vaccinated-can-be-role-models-for-16081248.php",
-      "originalUrl": "https://www.chron.com/business/article/Harris-Vaccinated-can-be-role-models-for-16081248.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chron.com/news/amp/Harris-Vaccinated-can-be-role-models-for-16081248.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Harris-Vaccinated-can-be-role-models-for-16081248.php",
-      "publishedDateTime": "2021-04-06T18:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Kamala Harris"
       ]
     }

@@ -79,6 +79,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Joe Biden orders declassification review of 9/11 probe documents"
+    excerpt: "President Biden signed an executive order directing the DOJ and other agencies to oversee the review of 9/11 documents and ordered Merrick Garland to release any declassified documents publicly."
+    publishedDateTime: 2021-09-04T03:23:00Z
+    webUrl: "https://nypost.com/2021/09/03/joe-biden-orders-declassification-review-of-s11-documents/"
+    ampWebUrl: "https://nypost.com/2021/09/03/joe-biden-orders-declassification-review-of-s11-documents/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/03/joe-biden-orders-declassification-review-of-s11-documents/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/sept-11-documents-06.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Judge Jeanine: Joe Biden has given a terrorist organization their own nation"
     excerpt: "Judge Jeanine ripped into President Biden's decision to withdraw from Afghanistan and give a terrorist organization a country of their own on Saturday night's episode of \"Justice with Judge Jeanine.\""
     publishedDateTime: 2021-09-05T01:50:00Z

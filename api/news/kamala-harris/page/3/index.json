@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-23-cornyn-calls-on-biden-and-harris-to-visit-southern-border-yall-come-visit.md",
+      "title": "Cornyn calls on Biden and Harris to visit southern border: 'Y'all come visit'",
+      "excerpt": "Sen. John Cornyn (R-Texas) has called on President Biden and Vice President Harris to visit the U.S.- Mexico border amid an ongoing surge of immigrants.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/senate/559777-cornyn-calls-on-biden-and-harris-to-visit-southern-border-yall-come-visit",
+      "originalUrl": "https://thehill.com/homenews/senate/559777-cornyn-calls-on-biden-and-harris-to-visit-southern-border-yall-come-visit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/cornynjohn_052621gn_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/senate/559777-cornyn-calls-on-biden-and-harris-to-visit-southern-border-yall-come-visit?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/559777-cornyn-calls-on-biden-and-harris-to-visit-southern-border-yall-come-visit?amp",
+      "publishedDateTime": "2021-06-23T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-republicans-block-rotten-election-reform-bill-in-senate-as-vp-harris-presides-over-debate.md",
       "title": "Republicans block 'rotten' election reform bill in Senate as VP Harris presides over debate",
       "excerpt": "Senate Republicans Tuesday blocked sweeping legislation on election and campaign finance reforms that Democrats said is crucial is ensuring voting rights and saving democracy but Republican blasted as a partisan federal takeover of elections.",
@@ -1579,49 +1632,6 @@
         "Election",
         "Kamala Harris",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-harris-county-to-lower-covid-threat-level-khou-11-confirms.md",
-      "title": "Harris County to lower COVID threat level, KHOU 11 confirms",
-      "excerpt": "Harris County has spent a majority of this pandemic in the red threat level, but that is expected to change on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.khou.com/video/news/local/video/harris-county-to-lower-covid-threat-level-khou-11-confirms/285-28843615-0a37-42f6-a400-817d4f0b5032",
-      "originalUrl": "https://www.khou.com/video/news/local/video/harris-county-to-lower-covid-threat-level-khou-11-confirms/285-28843615-0a37-42f6-a400-817d4f0b5032",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.khou.com/assets/KHOU/images/226da1c8-2490-44c6-8bf8-b5d355bf9a99/226da1c8-2490-44c6-8bf8-b5d355bf9a99_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-17T20:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KHOU 11",
-        "domain": "khou.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

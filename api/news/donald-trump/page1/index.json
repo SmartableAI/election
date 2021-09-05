@@ -715,63 +715,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-02-psakis-tweet-on-trump-phone-call-with-ukraine-president-comes-back-to-haunt-her.md",
-      "title": "Psaki's tweet on Trump phone call with Ukraine president comes back to haunt her",
-      "excerpt": "An old tweet from White House Press Secretary Jen Psaki is coming back to haunt her amid reports of the controversial July phone call between President Biden and then-Afghan President Ashraf Ghani amid the military withdrawal from Afghanistan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/jen-psaki-tweet-trump-phone-call-ukraine",
-      "originalUrl": "https://www.foxnews.com/media/jen-psaki-tweet-trump-phone-call-ukraine",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6ba3eee9-d77a-430e-840a-54c72dfe78bf/914ba46a-c701-48bc-a60d-9d53749226fa/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/jen-psaki-tweet-trump-phone-call-ukraine.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/jen-psaki-tweet-trump-phone-call-ukraine.amp",
-      "publishedDateTime": "2021-09-02T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-09-02-trump-justices-cast-crucial-votes-on-texas-abortion-ban-undermining-roe-v-wade.md",
       "title": "Trump Justices Cast Crucial Votes on Texas Abortion Ban Undermining Roe v. Wade",
       "excerpt": "The Supreme Court has declined to prevent a new law in Texas that severely restricts abortion access from coming into effect. The law will effectively ban all abortions in the state after around six weeks of pregnancy in what reproductive rights advocates view as a blow to the precedent set in Roe v.",
@@ -1481,6 +1424,54 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president.md",
+      "title": "Trump says Kabul airport explosion wouldn’t have happened if he was president",
+      "excerpt": "Donald Trump hammered Biden over the suicide bombings outside Kabul’s airport, claiming that “it would not have happened if I was your president.”",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/",
+      "originalUrl": "https://nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-afghanistan-bomging-index.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/amp/",
+      "publishedDateTime": "2021-08-26T21:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
       ]
     }
   ],

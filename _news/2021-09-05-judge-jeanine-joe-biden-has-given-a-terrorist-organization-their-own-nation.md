@@ -96,6 +96,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Joe Biden orders declassification review of 9/11 probe documents"
+    excerpt: "President Biden signed an executive order directing the DOJ and other agencies to oversee the review of 9/11 documents and ordered Merrick Garland to release any declassified documents publicly."
+    publishedDateTime: 2021-09-04T03:23:00Z
+    webUrl: "https://nypost.com/2021/09/03/joe-biden-orders-declassification-review-of-s11-documents/"
+    ampWebUrl: "https://nypost.com/2021/09/03/joe-biden-orders-declassification-review-of-s11-documents/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/03/joe-biden-orders-declassification-review-of-s11-documents/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/sept-11-documents-06.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "0lCOAs45LcFCw/cMGgiOSGMx+jAb4vRRrGVeNgMoPnBSHv+0CblT+umXII0O4LSToiKS4e+X09W5JtZK+ca8SILDRmmpdBiOtzrx7CTfKMJ/XAo7BoqdaVA5C1YKy84gzLHdLyoyJROjNu86OJZbmTvy5ybbG1T0DkROxleh7olUrXZONU8ys1W8H2X1V2GlU9LMJ9F9cUTCmYayDcjAeueKQynJoOxGRWA2H+A8o7xeY6QPN2DGfOVHnvq09Zp2Vfkt3ryssZ/+bIXlN3CJmuKwvqeQ9PfCMhkmJuJZRGZK2KXzTutC9+zOxEf6jTpdT1beWLCMHdUmNnMA9T/Tkk4hLauEgefZOFS7VqjEZLpm/lQMB+25y4zjLVCH8w7JW07LxxLcDLZVbTKSY1P99h//1WI6JmlEuYlv4p7o8Ko9P4ffMorqmLD4RzmIntABGhfKviwnMA7MK2fLrCyvF8ppo5ANv01VLe2JnMT155tVmKh88C8JBIqw1xB4/hb5yHT1aSzE/F9o8lkVFNCThw==;GTTPjStaUun41A3s8Qu9bA=="
 ---

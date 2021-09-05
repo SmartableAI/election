@@ -2,6 +2,105 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-03-kamala-harris-early-years-at-school-through-the-other-girl-on-the-bus.md",
+      "title": "Kamala Harris’ Early Years At School Through ‘The Other Girl on The Bus’",
+      "excerpt": "Carole Porter, a childhood friend of US VP Kamala Harris, talks about her memories of being bussed to school. Carole Porter lived in a little yellow house, a few doors from Kamala Harris who lived in a duplex on Bancroft street,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thequint.com/us-nri-news/kamala-harris-bussed-to-school-memories-childhood-friend-carole-porter-interview",
+      "originalUrl": "https://www.thequint.com/us-nri-news/kamala-harris-bussed-to-school-memories-childhood-friend-carole-porter-interview",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thequint.com/thequint%2F2021-09%2F903e773a-9a8d-4c07-b285-16608faa1cdf%2F16.jpeg",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thequint.com/amp/story/us-nri-news/kamala-harris-bussed-to-school-memories-childhood-friend-carole-porter-interview",
+      "cdnAmpWebUrl": "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/us-nri-news/kamala-harris-bussed-to-school-memories-childhood-friend-carole-porter-interview",
+      "publishedDateTime": "2021-09-03T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Quint",
+        "domain": "thequint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-09-03-biden-doubles-down-on-35-trillion-plan-that-manchin-moderate-dems-oppose-not-about-short-term-stimulus.md",
+      "title": "Biden doubles down on $3.5 trillion plan that Manchin, moderate Dems oppose: 'Not about short term stimulus'",
+      "excerpt": "President Biden argued for his economic agenda in comments following the release of the latest jobs report.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7TIUH30GAsE/biden-manchin-moderates-reconciliation-stimulus-jobs-september",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7TIUH30GAsE/biden-manchin-moderates-reconciliation-stimulus-jobs-september",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-manchin-moderates-reconciliation-stimulus-jobs-september.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-manchin-moderates-reconciliation-stimulus-jobs-september.amp",
+      "publishedDateTime": "2021-09-03T08:49:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-03-donald-trump-backers-bet-big-on-dennis-kucinich-in-mayoral-race.md",
       "title": "Donald Trump backers bet big on Dennis Kucinich in mayoral race",
       "excerpt": "Two Republicans – a convicted and pardoned fraudster and a figure tied to the House Bill 6 bribery scandal – are betting big on Democratic former Mayor Dennis Kucinich in the race to succeed Mayor Frank Jackson.",
@@ -899,63 +998,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-02-psakis-tweet-on-trump-phone-call-with-ukraine-president-comes-back-to-haunt-her.md",
-      "title": "Psaki's tweet on Trump phone call with Ukraine president comes back to haunt her",
-      "excerpt": "An old tweet from White House Press Secretary Jen Psaki is coming back to haunt her amid reports of the controversial July phone call between President Biden and then-Afghan President Ashraf Ghani amid the military withdrawal from Afghanistan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/jen-psaki-tweet-trump-phone-call-ukraine",
-      "originalUrl": "https://www.foxnews.com/media/jen-psaki-tweet-trump-phone-call-ukraine",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6ba3eee9-d77a-430e-840a-54c72dfe78bf/914ba46a-c701-48bc-a60d-9d53749226fa/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/jen-psaki-tweet-trump-phone-call-ukraine.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/jen-psaki-tweet-trump-phone-call-ukraine.amp",
-      "publishedDateTime": "2021-09-02T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-09-02-biden-to-visit-hurricane-ida-devastation-in-louisiana-on-friday.md",
       "title": "Biden to visit Hurricane Ida devastation in Louisiana on Friday",
       "excerpt": "President Biden on Friday will tour the devastation left by Hurricane Ida when it slammed into Louisiana last weekend as a Category 4 storm. He also plans to deliver a speech Thursday outlining the administration’s response plan. ",
@@ -1226,58 +1268,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-michigan-man-held-in-bomb-hoax-at-trump-hotel-in-las-vegas.md",
-      "title": "Michigan man held in bomb hoax at Trump hotel in Las Vegas",
-      "excerpt": "An arrest report says a 44-year-old Michigan man accused of creating a bomb hoax at the Trump International Hotel in Las Vegas told investigators he wanted to send a message that former Republican Pre",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/wireStory/michigan-man-held-bomb-hoax-trump-hotel-las-79778041",
-      "originalUrl": "https://abcnews.go.com/US/wireStory/michigan-man-held-bomb-hoax-trump-hotel-las-79778041",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/210901_vod_onlocationPM_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/michigan-man-held-bomb-hoax-trump-hotel-las-79778041",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/michigan-man-held-bomb-hoax-trump-hotel-las-79778041",
-      "publishedDateTime": "2021-09-01T17:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

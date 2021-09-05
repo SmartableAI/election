@@ -2,6 +2,157 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-05-lara-trump-slams-hypocritical-kamala-harris-michelle-obama-for-silence-on-afghan-women.md",
+      "title": "Lara Trump Slams 'Hypocritical' Kamala Harris, Michelle Obama for Silence on Afghan Women",
+      "excerpt": "\"They are happy to be activists when it's politically advantageous,\" Donald Trump's daughter-in-law said on Fox News.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/lara-trump-slams-hypocritical-kamala-harris-michelle-obama-silence-afghan-women-1626238",
+      "originalUrl": "https://www.newsweek.com/lara-trump-slams-hypocritical-kamala-harris-michelle-obama-silence-afghan-women-1626238",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1887939/lara-trump-slams-kamala-harris-michelle-obama.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/lara-trump-slams-hypocritical-kamala-harris-michelle-obama-silence-afghan-women-1626238?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lara-trump-slams-hypocritical-kamala-harris-michelle-obama-silence-afghan-women-1626238?amp=1",
+      "publishedDateTime": "2021-09-05T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-09-05-harris-to-california-on-wednesday-to-campaign-with-newsom.md",
+      "title": "Harris to California on Wednesday to campaign with Newsom",
+      "excerpt": "Vice President Kamala Harris will visit California’s Bay Area Wednesday ahead of Gov. Gavin Newsom's Sept. 14 recall election.",
+      "sourceUrl": null,
+      "webUrl": "https://thegrio.com/2021/09/05/harris-campaign-for-newsom/",
+      "originalUrl": "https://thegrio.com/2021/09/05/harris-campaign-for-newsom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thegrio.com/wp-content/uploads/2021/09/1000-14.jpeg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thegrio.com/2021/09/05/harris-campaign-for-newsom/amp/",
+      "cdnAmpWebUrl": "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/09/05/harris-campaign-for-newsom/amp/",
+      "publishedDateTime": "2021-09-05T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Grio",
+        "domain": "thegrio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-09-05-did-trump-just-go-up-with-the-first-tv-ad-of-the-2024-presidential-campaign.md",
+      "title": "Did Trump just go up with the first TV ad of the 2024 presidential campaign?",
+      "excerpt": "A new ad by former President Trump's political action committee that blasts President Biden over the U.S. exit from Afghanistan can be seen as the first TV ad of the 2024 presidential campaign",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5iY7Yflm_LQ/did-trump-just-go-up-with-the-first-tv-ad-of-the-2024-presidential-campaign",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5iY7Yflm_LQ/did-trump-just-go-up-with-the-first-tv-ad-of-the-2024-presidential-campaign",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 232,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/did-trump-just-go-up-with-the-first-tv-ad-of-the-2024-presidential-campaign.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/did-trump-just-go-up-with-the-first-tv-ad-of-the-2024-presidential-campaign.amp",
+      "publishedDateTime": "2021-09-05T07:23:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-05-as-donald-trump-makes-noise-about-2024-melania-trump-tries-to-stay-out-of-the-public-eye.md",
       "title": "As Donald Trump makes noise about 2024, Melania Trump tries to stay out of the public eye",
       "excerpt": "As Donald Trump publicly mulls his political future, playing a game of \"will he-won't he\" in a potential bid for the White House in 2024, all the while flexing influence in primaries for next year's midterms, there is one key person noticeably quiet. Again.\n    \n",
@@ -197,49 +348,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-05-kamala-harris-to-bay-area-on-wednesday-to-campaign-with-newsom.md",
-      "title": "Kamala Harris to Bay Area on Wednesday to campaign with Newsom",
-      "excerpt": "Vice President Kamala Harris will visit California’s Bay Area next week to campaign with Gov. Gavin Newsom, who faces possible removal from office in a Sept. 14 recall election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eastbaytimes.com/2021/09/04/harris-to-california-on-wednesday-to-campaign-with-newsom/",
-      "originalUrl": "https://www.eastbaytimes.com/2021/09/04/harris-to-california-on-wednesday-to-campaign-with-newsom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eastbaytimes.com/wp-content/uploads/2021/09/California_Recall_Harris_57413-e1630807640556.jpg?w=1024&#038;h=580",
-          "width": 1024,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eastbaytimes.com/2021/09/04/harris-to-california-on-wednesday-to-campaign-with-newsom/amp/",
-      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/09/04/harris-to-california-on-wednesday-to-campaign-with-newsom/amp/",
-      "publishedDateTime": "2021-09-04T19:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "East Bay Times",
-        "domain": "eastbaytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     },
     {
@@ -1222,105 +1330,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-kamala-harris-early-years-at-school-through-the-other-girl-on-the-bus.md",
-      "title": "Kamala Harris’ Early Years At School Through ‘The Other Girl on The Bus’",
-      "excerpt": "Carole Porter, a childhood friend of US VP Kamala Harris, talks about her memories of being bussed to school. Carole Porter lived in a little yellow house, a few doors from Kamala Harris who lived in a duplex on Bancroft street,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thequint.com/us-nri-news/kamala-harris-bussed-to-school-memories-childhood-friend-carole-porter-interview",
-      "originalUrl": "https://www.thequint.com/us-nri-news/kamala-harris-bussed-to-school-memories-childhood-friend-carole-porter-interview",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.thequint.com/thequint%2F2021-09%2F903e773a-9a8d-4c07-b285-16608faa1cdf%2F16.jpeg",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thequint.com/amp/story/us-nri-news/kamala-harris-bussed-to-school-memories-childhood-friend-carole-porter-interview",
-      "cdnAmpWebUrl": "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/us-nri-news/kamala-harris-bussed-to-school-memories-childhood-friend-carole-porter-interview",
-      "publishedDateTime": "2021-09-03T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Quint",
-        "domain": "thequint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-biden-doubles-down-on-35-trillion-plan-that-manchin-moderate-dems-oppose-not-about-short-term-stimulus.md",
-      "title": "Biden doubles down on $3.5 trillion plan that Manchin, moderate Dems oppose: 'Not about short term stimulus'",
-      "excerpt": "President Biden argued for his economic agenda in comments following the release of the latest jobs report.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7TIUH30GAsE/biden-manchin-moderates-reconciliation-stimulus-jobs-september",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7TIUH30GAsE/biden-manchin-moderates-reconciliation-stimulus-jobs-september",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-manchin-moderates-reconciliation-stimulus-jobs-september.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-manchin-moderates-reconciliation-stimulus-jobs-september.amp",
-      "publishedDateTime": "2021-09-03T08:49:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

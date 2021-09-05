@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/media/jen-psaki-tweet-trump-phone-call-ukrai
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/jen-psaki-tweet-trump-phone-call-ukraine.amp"
 type: article
 quality: 130
-heat: 150
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -32,6 +32,38 @@ images:
     isCached: true
 
 related:
+  - title: "Did Trump just go up with the first TV ad of the 2024 presidential campaign?"
+    excerpt: "A new ad by former President Trump's political action committee that blasts President Biden over the U.S. exit from Afghanistan can be seen as the first TV ad of the 2024 presidential campaign"
+    publishedDateTime: 2021-09-05T14:23:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5iY7Yflm_LQ/did-trump-just-go-up-with-the-first-tv-ad-of-the-2024-presidential-campaign"
+    ampWebUrl: "https://www.foxnews.com/politics/did-trump-just-go-up-with-the-first-tv-ad-of-the-2024-presidential-campaign.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/did-trump-just-go-up-with-the-first-tv-ad-of-the-2024-presidential-campaign.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Top Trump lawyer predicts Big Tech case will go to the Supreme Court"
+    excerpt: "Former President Donald Trump’s top lawyer in his lawsuit against Google, Facebook and Twitter believes the case will be decided by the Supreme Court."
+    publishedDateTime: 2021-08-30T19:02:00Z
+    webUrl: "https://nypost.com/2021/08/30/top-trump-lawyer-predicts-big-tech-case-will-go-to-the-supreme-court/"
+    ampWebUrl: "https://nypost.com/2021/08/30/top-trump-lawyer-predicts-big-tech-case-will-go-to-the-supreme-court/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/30/top-trump-lawyer-predicts-big-tech-case-will-go-to-the-supreme-court/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/coale-comp-04.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Trump Hits Biden On Afghanistan: \"We Must Have Hostages Released And Our Military Equipment Returned Now\""
     excerpt: "Former President Trump's \"Save America\" Joint Fundraising Committee is not technically a political action committee and not technically an election campaign, but they released this ad slamming President Biden's performance on Afghanistan."
     publishedDateTime: 2021-09-02T14:19:00Z

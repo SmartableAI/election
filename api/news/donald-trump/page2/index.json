@@ -2,54 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-08-27-trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president.md",
-      "title": "Trump says Kabul airport explosion wouldn’t have happened if he was president",
-      "excerpt": "Donald Trump hammered Biden over the suicide bombings outside Kabul’s airport, claiming that “it would not have happened if I was your president.”",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/",
-      "originalUrl": "https://nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-afghanistan-bomging-index.jpg?quality=90&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/amp/",
-      "publishedDateTime": "2021-08-26T21:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-08-27-trumps-former-national-security-advisor-john-bolton-says-its-impossible-for-mike-pompeo-to-rewrite-history-on-his-negotiations-with-the.md",
       "title": "Trump's former national security advisor John Bolton says it's 'impossible' for Mike Pompeo to 'rewrite history' on his negotiations with the Taliban",
       "excerpt": "\"That's a prescription for Democratic attack ads that would be fatal to someone's credibility,\" Bolton told Politico.",
@@ -1455,6 +1407,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-5-questions-for-mary-trumpniece-of-donald-who-wants-the-gop-burned-to-the-ground.md",
+      "title": "5 Questions For Mary Trump—Niece Of Donald Who Wants The GOP ‘Burned To The Ground’",
+      "excerpt": "A year after releasing a best-selling, salacious takedown of her uncle, Mary Trump is back with another title, but a much bigger target.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jemimamcevoy/2021/08/16/5-questions-for-mary-trump-niece-of-donald-who-wants-the-gop-burned-to-the-ground/",
+      "originalUrl": "https://www.forbes.com/sites/jemimamcevoy/2021/08/16/5-questions-for-mary-trump-niece-of-donald-who-wants-the-gop-burned-to-the-ground/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611aba1bd4c34bdb198e9f5e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1247%26cropY1%3D1%26cropY2%3D936",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jemimamcevoy/2021/08/16/5-questions-for-mary-trump-niece-of-donald-who-wants-the-gop-burned-to-the-ground/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jemimamcevoy/2021/08/16/5-questions-for-mary-trump-niece-of-donald-who-wants-the-gop-burned-to-the-ground/amp/",
+      "publishedDateTime": "2021-08-16T12:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

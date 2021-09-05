@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-05-lara-trump-slams-hypocritical-kamala-harris-michelle-obama-for-silence-on-afghan-women.md",
+      "title": "Lara Trump Slams 'Hypocritical' Kamala Harris, Michelle Obama for Silence on Afghan Women",
+      "excerpt": "\"They are happy to be activists when it's politically advantageous,\" Donald Trump's daughter-in-law said on Fox News.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/lara-trump-slams-hypocritical-kamala-harris-michelle-obama-silence-afghan-women-1626238",
+      "originalUrl": "https://www.newsweek.com/lara-trump-slams-hypocritical-kamala-harris-michelle-obama-silence-afghan-women-1626238",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1887939/lara-trump-slams-kamala-harris-michelle-obama.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/lara-trump-slams-hypocritical-kamala-harris-michelle-obama-silence-afghan-women-1626238?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lara-trump-slams-hypocritical-kamala-harris-michelle-obama-silence-afghan-women-1626238?amp=1",
+      "publishedDateTime": "2021-09-05T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-09-05-harris-to-california-on-wednesday-to-campaign-with-newsom.md",
+      "title": "Harris to California on Wednesday to campaign with Newsom",
+      "excerpt": "Vice President Kamala Harris will visit California’s Bay Area Wednesday ahead of Gov. Gavin Newsom's Sept. 14 recall election.",
+      "sourceUrl": null,
+      "webUrl": "https://thegrio.com/2021/09/05/harris-campaign-for-newsom/",
+      "originalUrl": "https://thegrio.com/2021/09/05/harris-campaign-for-newsom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thegrio.com/wp-content/uploads/2021/09/1000-14.jpeg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thegrio.com/2021/09/05/harris-campaign-for-newsom/amp/",
+      "cdnAmpWebUrl": "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/09/05/harris-campaign-for-newsom/amp/",
+      "publishedDateTime": "2021-09-05T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Grio",
+        "domain": "thegrio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-09-05-white-house-keeping-kamala-harris-from-afghanistan-crisis-to-stop-contamination.md",
       "title": "White House keeping Kamala Harris from Afghanistan crisis 'to stop contamination'",
       "excerpt": "The White House is deliberately keeping Kamala Harris insulated from the Afghanistan withdrawal debacle to clear her way for a future presidential run, sources have told the Teleg",
@@ -31,49 +126,6 @@
       "provider": {
         "name": "The Daily Telegraph",
         "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-09-05-kamala-harris-to-bay-area-on-wednesday-to-campaign-with-newsom.md",
-      "title": "Kamala Harris to Bay Area on Wednesday to campaign with Newsom",
-      "excerpt": "Vice President Kamala Harris will visit California’s Bay Area next week to campaign with Gov. Gavin Newsom, who faces possible removal from office in a Sept. 14 recall election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eastbaytimes.com/2021/09/04/harris-to-california-on-wednesday-to-campaign-with-newsom/",
-      "originalUrl": "https://www.eastbaytimes.com/2021/09/04/harris-to-california-on-wednesday-to-campaign-with-newsom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eastbaytimes.com/wp-content/uploads/2021/09/California_Recall_Harris_57413-e1630807640556.jpg?w=1024&#038;h=580",
-          "width": 1024,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eastbaytimes.com/2021/09/04/harris-to-california-on-wednesday-to-campaign-with-newsom/amp/",
-      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/09/04/harris-to-california-on-wednesday-to-campaign-with-newsom/amp/",
-      "publishedDateTime": "2021-09-04T19:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "East Bay Times",
-        "domain": "eastbaytimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -297,21 +349,21 @@
       ]
     },
     {
-      "path": "_news/2021-09-01-did-kamala-harris-refuse-to-be-vaccinated-with-the-trump-vaccine.md",
-      "title": "Did Kamala Harris Refuse To Be Vaccinated with the ‘Trump Vaccine’?",
-      "excerpt": "Harris also allegedly discouraged others from being vaccinated against COVID-19 during the 2020 election campaign.",
+      "path": "_news/2021-09-01-no-that-picture-of-kamala-harris-with-jeffrey-epstein-is-not-real.md",
+      "title": "No, That Picture of Kamala Harris with Jeffrey Epstein Is Not Real",
+      "excerpt": "The fake photo was shared widely online in August 2021, and was even posted by a Republican congressional candidate in Texas.",
       "sourceUrl": null,
-      "webUrl": "https://www.snopes.com/fact-check/kamala-harris-refuse-trump-vaccine/",
-      "originalUrl": "https://www.snopes.com/fact-check/kamala-harris-refuse-trump-vaccine/",
+      "webUrl": "https://www.snopes.com/fact-check/kamala-harris-jeffrey-epstein-pic/",
+      "originalUrl": "https://www.snopes.com/fact-check/kamala-harris-jeffrey-epstein-pic/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 75,
       "tags": null,
       "images": [
         {
-          "url": "https://www.snopes.com/tachyon/2021/08/Kamala_hero-1560x936-1-e1630430333267.jpeg",
+          "url": "https://www.snopes.com/tachyon/2021/08/Copy-of-Rating-Overlay-FEATURED-IMG-37.png",
           "width": 1200,
-          "height": 600,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -321,7 +373,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-31T11:42:00-07:00",
+      "publishedDateTime": "2021-08-31T10:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Snopes.com",
@@ -1519,63 +1571,6 @@
       ],
       "topics": [
         "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-biden-harris-unveil-strategies-to-address-root-causes-of-immigration.md",
-      "title": "Biden, Harris unveil strategies to address 'root causes' of immigration",
-      "excerpt": "The Biden administration on Thursday rolled out its strategies to address the root causes of immigration, a step officials call a “core component” of efforts to establish a “fair, orderly, and humane immigration system.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9QPgD9fEKYQ/biden-harris-immigration-root-causes-strategy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9QPgD9fEKYQ/biden-harris-immigration-root-causes-strategy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 660,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-harris-immigration-root-causes-strategy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-immigration-root-causes-strategy.amp",
-      "publishedDateTime": "2021-07-29T03:00:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
         "Kamala Harris"
       ]
     }

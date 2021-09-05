@@ -2,6 +2,63 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-08-24-byron-yorks-daily-memo-a-national-eye-opening-on-joe-biden.md",
+      "title": "Byron York's Daily Memo: A national eye-opening on Joe Biden",
+      "excerpt": "Welcome to Byron York's Daily Memo newsletter. Was this email forwarded to you? Sign up here to receive the newsletter. A NATIONAL EYE-OPENING ON JOE BIDEN. Just one month ago, President Biden's job approval rating,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-a-national-eye-opening-on-joe-biden",
+      "originalUrl": "https://www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-a-national-eye-opening-on-joe-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediadc.brightspotcdn.com/dims4/default/24831ae/2147483647/strip/true/crop/1060x600+0+0/resize/1060x600!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F1b%2Fdd%2F5520d8a2407eb68282a5cf5f8e59%2Fdaily-memo-default-1060x600.png",
+          "width": 1060,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-a-national-eye-opening-on-joe-biden?_amp=true",
+      "cdnAmpWebUrl": "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-a-national-eye-opening-on-joe-biden?_amp=true",
+      "publishedDateTime": "2021-08-23T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Examiner",
+        "domain": "washingtonexaminer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonexaminer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-thiessen-biden-handed-terrorists-a-safe-haven-to-plan-attacks-worse-than-911.md",
       "title": "Thiessen: Biden handed terrorists a 'safe haven' to plan attacks worse than 9/11",
       "excerpt": "Fox News contributor Marc Thiessen told “America's Newsroom” that Biden has given radical Islamic terrorists, including Al-Qaeda, the tools they need to conduct attacks potentially deadlier than 9/11.",
@@ -323,7 +380,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 180,
+      "heat": 160,
       "tags": null,
       "images": [
         {
@@ -1239,58 +1296,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-alan-dershowitz-says-donald-trump-ties-have-lost-him-many-friends.md",
-      "title": "Alan Dershowitz Says Donald Trump Ties Have Lost Him Many Friends",
-      "excerpt": "The lawyer made headlines this week after he was spotting in a war of words with famous comedian and writer Larry David.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/alan-dershowitz-says-donald-trump-ties-have-lost-him-many-friends-larry-david-1621399",
-      "originalUrl": "https://www.newsweek.com/alan-dershowitz-says-donald-trump-ties-have-lost-him-many-friends-larry-david-1621399",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 445,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1875530/alan-dershowitz.jpg",
-          "width": 3000,
-          "height": 1985,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/alan-dershowitz-says-donald-trump-ties-have-lost-him-many-friends-larry-david-1621399?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/alan-dershowitz-says-donald-trump-ties-have-lost-him-many-friends-larry-david-1621399?amp=1",
-      "publishedDateTime": "2021-08-20T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden Delivers Remarks on Hurricane Ida"
-excerpt: "Deputy National Security Advisor for Cyber and Emerging Technology Anne Neuberger participates in a news briefing to discuss cybersecurity protective measures ahead of the approaching Labor Day holiday weekend,"
+excerpt: "President Joe Biden delivers remarks on his administration's response to Hurricane Ida, in the South Court Auditorium of the Eisenhower Executive Officer Building (EEOB) on the White House complex, in Washington,"
 publishedDateTime: 2021-09-02T17:13:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/32b052a684c2615bf00c2e5f484e4899/President-Joe-Biden-Delivers-Remarks-on-Hurricane-Ida/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/32b052a684c2615bf00c2e5f484e4899/President-Joe-Biden-Delivers-Remarks-on-Hurricane-Ida/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/8bf59b0241b9d084c296ba62cb139c1f/President-Joe-Biden-Delivers-Remarks-on-Hurricane-Ida/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/8bf59b0241b9d084c296ba62cb139c1f/President-Joe-Biden-Delivers-Remarks-on-Hurricane-Ida/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/32b052a684c2615bf00c2e5f484e4899/BIDEN-HURRICANE-IDA.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/8bf59b0241b9d084c296ba62cb139c1f/BIDEN-HURRICANE-IDA.jpg"
     width: 650
     height: 433
     isCached: true
@@ -375,6 +375,6 @@ related:
       domain: politifact.com
     quality: 20
 
-secured: "XCldow8u1w1+syr66haIWc08ofLT2rZXhPBwhnTqGVMoT+k6/QRGUZ+pyrtuvaKkhAc8SSaITp4wTMLsAq8p6VP9wuxXHgU9rxopuvDKPDL8a6Qh8aJmdeDEUBo4My+RByWXiworxH/fVL1i46vfpLXP66oFJtlAHNTMZUT23TquO/cvM+yUfPtRHDegohuY7qwBlj/XGQo7vjYnO+odV0jHIFLwHQ4q1uvXjITZy5RLEk11HbIaEm9RSj3n2op4fMhKWz9mF7FpWipLRQDCB07LIWDPr0LdKFX8//Y/oRjwgTQInCowXmSsiKCOJWFiV9Taib3wscoyiLWht9mP/2Oekp7zzXWTNUdkqAYs5pU=;qQQdoTPdeqDYdsP5/9Fmtg=="
+secured: "6Sel/5eQ0/mIywQu3WKRK18SZ5qkRXErKSUlODkdpmFclftt1BDVd7hNZdz8bs8vcI7q5yCy1gZ9ALKksW6Pwd1pVOjHyf9CRMzi3JD8HN0vXOLw4vIszMm5bTaa9sc2Y6HkSMbwP1wWgGaGWqVL3El1QogruOCZOu/va1HbqN1asVu5DBYutXSu5EbnIzAGxy/YygeE/yLToMFrvSFnbdCm1lR5IvInRAeuIeoW7/vZPJIU48G61pjy5gli3C+B5wrAqm68hV6Ja4m96Zq44HOu3x348x9zDNXK3vzHphuvxopgt4ze0215Og0vG+vj/93h8AIFJCQO19icjdAvwb+eVei1mwBYuD3urPxaBGQ=;Ovpl+bqaxkTb264VK/Jpiw=="
 ---
 
