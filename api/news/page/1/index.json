@@ -2,6 +2,83 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-05-reign-of-terror-brilliantly-traces-the-course-from-911-to-president-trump.md",
+      "title": "‘Reign of Terror’ brilliantly traces the course from 9/11 to President Trump",
+      "excerpt": "Government euphemisms and constant portrayal of Muslims as potential terrorists contributed to an ugly, winning narrative, author Spencer Ackerman argues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailypress.com/entertainment/books/vp-db-book-nyt-reign-terror-ackerman-090521-20210905-wezrbfxjozapxhreornstjgonq-story.html",
+      "originalUrl": "https://www.dailypress.com/entertainment/books/vp-db-book-nyt-reign-terror-ackerman-090521-20210905-wezrbfxjozapxhreornstjgonq-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailypress.com/resizer/rzRqmwl_SFH_ZWmHsoGrjUUsI3g=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/G7GHEQYAJVAXPBXDGX2R2AHHZM.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailypress.com/entertainment/books/vp-db-book-nyt-reign-terror-ackerman-090521-20210905-wezrbfxjozapxhreornstjgonq-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/entertainment/books/vp-db-book-nyt-reign-terror-ackerman-090521-20210905-wezrbfxjozapxhreornstjgonq-story.html?outputType=amp",
+      "publishedDateTime": "2021-09-05T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Press",
+        "domain": "dailypress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-09-05-harris-to-california-on-wednesday-to-campaign-for-newsom.md",
+      "title": "Harris to California on Wednesday to campaign for Newsom",
+      "excerpt": "The White House says Vice President Kamala Harris will visit California’s Bay Area on Wednesday to campaign for Gov. Gavin Newsom, who faces removal from office in a Sept. 14 recall election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sunherald.com/news/politics-government/national-politics/article254010883.html",
+      "originalUrl": "https://www.sunherald.com/news/politics-government/national-politics/article254010883.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.sunherald.com/news/politics-government/national-politics/article254010883.html",
+      "cdnAmpWebUrl": "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/politics-government/national-politics/article254010883.html",
+      "publishedDateTime": "2021-09-04T23:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biloxi Sun Herald",
+        "domain": "sunherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-09-05-squad-members-go-after-biden-for-being-silent-on-minnesota-oil-pipeline.md",
       "title": "Squad members go after Biden for being 'silent' on Minnesota oil pipeline",
       "excerpt": "Four members of the Democratic “Squad” went after President Biden Saturday for being “silent” on a controversial Minnesota oil pipeline.",
@@ -55,49 +132,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-05-harris-to-california-on-wednesday-to-campaign-for-newsom.md",
-      "title": "Harris to California on Wednesday to campaign for Newsom",
-      "excerpt": "Vice President Kamala Harris will visit California's Bay Area next week to campaign for Gov. Gavin Newsom, who faces possible removal from office in a Sept. 14 recall election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.stltoday.com/news/national/govt-and-politics/harris-to-california-on-wednesday-to-campaign-for-newsom/article_82c4f72d-691c-569a-960f-4311159c33dd.html",
-      "originalUrl": "https://www.stltoday.com/news/national/govt-and-politics/harris-to-california-on-wednesday-to-campaign-for-newsom/article_82c4f72d-691c-569a-960f-4311159c33dd.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/4/10/410c1a7b-2e50-59bc-a78a-e550eec6ddce/6133ed249672c.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-04T14:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "St. Louis Post-Dispatch",
-        "domain": "stltoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     },
     {
@@ -1224,49 +1258,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-this-is-an-everybody-problem-study-by-wsu-researchers-links-trump-votes-with-lgbtq-bullying-in-schools.md",
-      "title": "‘This is an everybody problem’: Study by WSU researchers links Trump votes with LGBTQ+ bullying in schools",
-      "excerpt": "Hobaica co-authored a study published this summer examining the correlation between the political leanings of a school district and levels of bullying against LGBTQ+ students. To do so, authors used the 2018 Washington State Healthy Youth Survey,",
-      "sourceUrl": null,
-      "webUrl": "https://www.spokesman.com/stories/2021/sep/03/this-is-an-everybody-problem-study-by-wsu-research/",
-      "originalUrl": "https://www.spokesman.com/stories/2021/sep/03/this-is-an-everybody-problem-study-by-wsu-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumb.spokesman.com/KG-kgiXMHyqWGTDBbw19vnXTBWM=/480x0/media.spokesman.com/photos/2021/09/02/6131463fd3fde.hires.jpg",
-          "width": 480,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.spokesman.com/stories/2021/sep/03/this-is-an-everybody-problem-study-by-wsu-research/?amp-content=amp",
-      "cdnAmpWebUrl": "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/sep/03/this-is-an-everybody-problem-study-by-wsu-research/?amp-content=amp",
-      "publishedDateTime": "2021-09-03T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Spokesman-Review",
-        "domain": "spokesman.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

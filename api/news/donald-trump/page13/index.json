@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-06-04-trumps-grip-on-gop-sparks-fears-about-democratic-process.md",
+      "title": "Trump's grip on GOP sparks fears about democratic process",
+      "excerpt": "Many Republicans, led by Donald Trump, are continuing to question the validity of the 2020 election, and critics say that denial shows how the party is increasingly open to bucking democratic norms",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/trumps-grip-gop-sparks-fears-democratic-process-78078235",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/trumps-grip-gop-sparks-fears-democratic-process-78078235",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/trumps-grip-gop-sparks-fears-democratic-process-78078235",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-grip-gop-sparks-fears-democratic-process-78078235",
+      "publishedDateTime": "2021-06-03T21:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-pence-says-he-and-trump-dont-see-eye-to-eye-on-jan-6-but-gop-must-move-forward.md",
       "title": "Pence says he and Trump don’t ‘see eye to eye’ on Jan. 6 — but GOP ‘must move forward’",
       "excerpt": "In a speech in New Hampshire, former Vice President Mike Pence urged Republicans to move forward following the Capitol riot.",
@@ -1501,58 +1553,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-matt-gaetz-plans-to-run-for-president-in-2024-but-only-if-donald-trump-doesnt.md",
-      "title": "Matt Gaetz Plans to Run For President in 2024— But Only If Donald Trump Doesn't",
-      "excerpt": "In a text sent to the New York Post, Gaetz said, \"I support Donald Trump for president. I've directly encouraged him to run and he gives me every indication he will.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/matt-gaetz-plans-run-president-2024-only-if-donald-trump-doesnt-1595562",
-      "originalUrl": "https://www.newsweek.com/matt-gaetz-plans-run-president-2024-only-if-donald-trump-doesnt-1595562",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1809008/matt-gaetz.jpg",
-          "width": 2500,
-          "height": 1665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/matt-gaetz-plans-run-president-2024-only-if-donald-trump-doesnt-1595562?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/matt-gaetz-plans-run-president-2024-only-if-donald-trump-doesnt-1595562?amp=1",
-      "publishedDateTime": "2021-05-27T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

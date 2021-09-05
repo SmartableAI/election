@@ -2,6 +2,54 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-08-08-donald-trump-100m-people-might-have-died-without-operation-warp-speed.md",
+      "title": "Donald Trump: 100M people might have died without Operation Warp Speed",
+      "excerpt": "I think if we didn’t come up during the Trump administration with the vaccine, you could have 100 million people dead, just like you had in 1917,” Trump said in an interview on",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/08/08/donald-trump-says-operation-warp-speed-saved-lives/",
+      "originalUrl": "https://nypost.com/2021/08/08/donald-trump-says-operation-warp-speed-saved-lives/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-002.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/08/08/donald-trump-says-operation-warp-speed-saved-lives/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/08/donald-trump-says-operation-warp-speed-saved-lives/amp/",
+      "publishedDateTime": "2021-08-08T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-07-interviews-with-former-justice-department-officials-provide-new-details-on-trump-efforts-to-undermine-election-results.md",
       "title": "Interviews with former Justice Department officials provide new details on Trump efforts to undermine election results ",
       "excerpt": "Two top former Justice Department officials provided interviews to the Senate Judiciary Committee and provided detailed accounts of a tumultuous period in late December and early January during which a senior Justice Department lawyer sought to deploy the department's resources in support of false voting",
@@ -1284,62 +1332,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-biden-nominates-mark-brzezinski-to-be-ambassador-to-poland.md",
-      "title": "Biden nominates Mark Brzezinski to be ambassador to Poland",
-      "excerpt": "President Joe Biden has tapped former Obama administration diplomat Mark Brzezinski to serve ambassador to Poland.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iU-Aem-yZ2U/biden-nominates-mark-brzezinski-to-be-ambassador-to-poland",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iU-Aem-yZ2U/biden-nominates-mark-brzezinski-to-be-ambassador-to-poland",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef36b715-903f-482b-9224-159a93080ef8/c8c9318c-73c7-47f0-8f01-d8ccf8f03424/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-nominates-mark-brzezinski-to-be-ambassador-to-poland.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominates-mark-brzezinski-to-be-ambassador-to-poland.amp",
-      "publishedDateTime": "2021-08-04T17:31:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

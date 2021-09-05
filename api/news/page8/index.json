@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-08-19-marjorie-taylor-greene-launches-foul-mouthed-broadside-at-joe-biden-in-video.md",
+      "title": "Marjorie Taylor Greene Launches Foul-Mouthed Broadside at Joe Biden in Video",
+      "excerpt": "Representative Marjorie Taylor Greene harshly criticized President Joe Biden in a video on Wednesday over the situation in Afghanistan and the COVID-19 pandemic. Greene, a Republican who represents Georgia's 14th congressional district,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/marjorie-taylor-greene-foul-mouthed-broadside-joe-biden-video-1620960",
+      "originalUrl": "https://www.newsweek.com/marjorie-taylor-greene-foul-mouthed-broadside-joe-biden-video-1620960",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 222,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1874692/marjorie-taylor-greene-holds-press-conference.jpg",
+          "width": 2500,
+          "height": 1664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/marjorie-taylor-greene-foul-mouthed-broadside-joe-biden-video-1620960?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/marjorie-taylor-greene-foul-mouthed-broadside-joe-biden-video-1620960?amp=1",
+      "publishedDateTime": "2021-08-19T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-19-full-transcript-of-abc-news-george-stephanopoulos-interview-with-president-joe-biden.md",
       "title": "Full transcript of ABC News' George Stephanopoulos' interview with President Joe Biden",
       "excerpt": "Stephanopoulos spoke to Biden in an exclusive interview Wednesday. Read the full transcript of President Joe Biden's exclusive interview with ABC News' George Stephanopoulos on Wednesday. GEORGE STEPHANOPOULOS: Mr.",
@@ -1237,49 +1289,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-rashida-tlaib-stands-by-call-for-trump-impeachment-despite-backlash.md",
-      "title": "Rashida Tlaib stands by call for Trump impeachment despite backlash",
-      "excerpt": "Rep. Rashida Tlaib on Friday refused to back down from her controversial call to impeach President Trump, despite mounting criticism. Ms. Tlaib told a crowd hours after being sworn in Thursday night that Democrats would go after the president.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/rashida-tlaib-impeachments-1f5cf09310702363ba2de9f74712b1ba",
-      "originalUrl": "https://apnews.com/article/rashida-tlaib-impeachments-1f5cf09310702363ba2de9f74712b1ba",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/ShareLogo2.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T07:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

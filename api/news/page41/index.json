@@ -2,6 +2,58 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-06-11-pence-to-visit-iowa-to-headline-event-for-congressman.md",
+      "title": "Pence to visit Iowa to headline event for congressman",
+      "excerpt": "Former Vice President Mike Pence will headline a fundraiser next month for Rep. Randy Feenstra (R-Iowa), marking his third trip in recent weeks to an early primary state and fueling speculation about his 2024 plans.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/557995-pence-to-visit-iowa-to-headline-event-for-iowa-congressman",
+      "originalUrl": "https://thehill.com/homenews/campaign/557995-pence-to-visit-iowa-to-headline-event-for-iowa-congressman",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/pencemike_070820getty_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/557995-pence-to-visit-iowa-to-headline-event-for-iowa-congressman?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/557995-pence-to-visit-iowa-to-headline-event-for-iowa-congressman?amp",
+      "publishedDateTime": "2021-06-11T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-swalwell-says-trump-weaponized-justice-department-against-enemies.md",
       "title": "Swalwell says Trump 'weaponized' Justice Department against enemies",
       "excerpt": "California Democratic Rep. Eric Swalwell, whose data was seized by the Trump administration as part of a leak probe, on Friday said former President Donald Trump \"weaponized\" the Justice Department to dig into the private communications of his political opponents.\n    \n",
@@ -1264,58 +1316,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-george-p-bush-defends-his-support-for-donald-trump-im-my-own-man.md",
-      "title": "George P. Bush Defends His Support for Donald Trump: 'I'm My Own Man'",
-      "excerpt": "Texas Attorney General Candidate George P. Bush defended his support of Donald Trump on Wednesday, noting that members of his family have \"differences of opinion\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/george-p-bush-defends-donald-trump-support-fox-news-texas-1599245",
-      "originalUrl": "https://www.newsweek.com/george-p-bush-defends-donald-trump-support-fox-news-texas-1599245",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1817426/george-p-bush-houston-texas.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/george-p-bush-defends-donald-trump-support-fox-news-texas-1599245?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/george-p-bush-defends-donald-trump-support-fox-news-texas-1599245?amp=1",
-      "publishedDateTime": "2021-06-10T00:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

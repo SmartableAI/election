@@ -171,6 +171,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Will Liz Warren give the presidency another go? 'Joe Biden is running'"
+    excerpt: "Elizabeth Warren in 2024? Massachusetts' senior senator has been busy traveling throughout the state, stopping in various communities to help promote a"
+    publishedDateTime: 2021-09-05T09:27:00Z
+    webUrl: "https://www.metrowestdailynews.com/story/news/2021/09/05/liz-warren-holds-firm-2024-saying-she-only-eyeing-senate/5673317001/"
+    ampWebUrl: "https://amp.metrowestdailynews.com/amp/5673317001"
+    cdnAmpWebUrl: "https://amp-metrowestdailynews-com.cdn.ampproject.org/c/s/amp.metrowestdailynews.com/amp/5673317001"
+    type: article
+    provider:
+      name: The MetroWest Daily News
+      domain: metrowestdailynews.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/09/03/NMWD/9bf9067c-ec72-4dbe-8acb-809f254093c3-08-03_MA_Coalition_Independent_Work_1.jpg?auto=webp&crop=999,562,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Was Biden looking at his watch during ceremony for Marines killed in Kabul?"
     excerpt: "It appeared President Biden glanced at his watch during a solemn ceremony for U.S. Marines killed in the Kabul terror attack."
     publishedDateTime: 2021-08-30T02:28:00Z

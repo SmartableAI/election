@@ -1128,6 +1128,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Rick Scott bashes Joe Biden, Kamala Harris over missing migrant children"
+    excerpt: "Rick Scott issued a sharply worded rejoinder to President Joe Biden and Vice President Kamala Harris Friday over issues at the Mexican border. “We must secure our border NOW and account for every missing child handled by this administration."
+    publishedDateTime: 2021-09-03T22:40:00Z
+    webUrl: "https://floridapolitics.com/archives/455270-border-scott/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 79
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/05/Scott-1-scaled-e1624478902461.jpg"
+        width: 1280
+        height: 854
+        isCached: true
   - title: "Fact check: Kamala Harris didn't say Joe Biden would 'do whatever the Chinese tell you' at debate"
     excerpt: "A meme claims Kamala Harris said during the 2020 Democratic presidential primary that Joe Biden would do what China told him to. That is false."
     publishedDateTime: 2021-04-29T22:11:00Z

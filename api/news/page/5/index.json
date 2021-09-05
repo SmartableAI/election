@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-27-trumps-former-national-security-advisor-john-bolton-says-its-impossible-for-mike-pompeo-to-rewrite-history-on-his-negotiations-with-the.md",
+      "title": "Trump's former national security advisor John Bolton says it's 'impossible' for Mike Pompeo to 'rewrite history' on his negotiations with the Taliban",
+      "excerpt": "\"That's a prescription for Democratic attack ads that would be fatal to someone's credibility,\" Bolton told Politico.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/john-bolton-impossible-to-rewrite-history-on-mike-pompeo-taliban-deal-2021-8",
+      "originalUrl": "https://www.businessinsider.com/john-bolton-impossible-to-rewrite-history-on-mike-pompeo-taliban-deal-2021-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/61279e06e4235b00180aa5ba?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/john-bolton-impossible-to-rewrite-history-on-mike-pompeo-taliban-deal-2021-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/john-bolton-impossible-to-rewrite-history-on-mike-pompeo-taliban-deal-2021-8?amp",
+      "publishedDateTime": "2021-08-26T19:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-26-psaki-dismisses-calls-for-biden-to-resign-not-a-day-for-politics.md",
       "title": "Psaki dismisses calls for Biden to resign: 'Not a day for politics'",
       "excerpt": "White House Press Secretary Jen Psaki dismissed calls for President Joe Biden to resign in the wake of a terrorist attack in Kabul, Afghanistan that killed 13 U.S. service members, saying that there’s no room for politics in the discussion of the tragedy.",
@@ -1210,58 +1262,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-israeli-leader-naftali-bennett-to-meet-with-joe-biden-as-mideast-tensions-grow.md",
-      "title": "Israeli Leader Naftali Bennett to Meet with Joe Biden as Mideast Tensions Grow",
-      "excerpt": "The Israeli leader's meeting with President Joe Biden comes amid heightened tensions with regional arch-enemy Iran",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6092540/naftali-bennett-joe-biden/",
-      "originalUrl": "https://time.com/6092540/naftali-bennett-joe-biden/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2021/08/AP21236666683066.jpg",
-          "width": 6325,
-          "height": 4217,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-24T23:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

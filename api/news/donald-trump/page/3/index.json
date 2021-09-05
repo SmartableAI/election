@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-17-5-questions-for-mary-trumpniece-of-donald-who-wants-the-gop-burned-to-the-ground.md",
+      "title": "5 Questions For Mary Trump—Niece Of Donald Who Wants The GOP ‘Burned To The Ground’",
+      "excerpt": "A year after releasing a best-selling, salacious takedown of her uncle, Mary Trump is back with another title, but a much bigger target.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jemimamcevoy/2021/08/16/5-questions-for-mary-trump-niece-of-donald-who-wants-the-gop-burned-to-the-ground/",
+      "originalUrl": "https://www.forbes.com/sites/jemimamcevoy/2021/08/16/5-questions-for-mary-trump-niece-of-donald-who-wants-the-gop-burned-to-the-ground/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611aba1bd4c34bdb198e9f5e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1247%26cropY1%3D1%26cropY2%3D936",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jemimamcevoy/2021/08/16/5-questions-for-mary-trump-niece-of-donald-who-wants-the-gop-burned-to-the-ground/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jemimamcevoy/2021/08/16/5-questions-for-mary-trump-niece-of-donald-who-wants-the-gop-burned-to-the-ground/amp/",
+      "publishedDateTime": "2021-08-16T12:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-16-rashida-tlaib-stands-by-call-for-trump-impeachment-despite-backlash.md",
       "title": "Rashida Tlaib stands by call for Trump impeachment despite backlash",
       "excerpt": "Rep. Rashida Tlaib on Friday refused to back down from her controversial call to impeach President Trump, despite mounting criticism. Ms. Tlaib told a crowd hours after being sworn in Thursday night that Democrats would go after the president.",
@@ -1390,54 +1442,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-08-donald-trump-100m-people-might-have-died-without-operation-warp-speed.md",
-      "title": "Donald Trump: 100M people might have died without Operation Warp Speed",
-      "excerpt": "I think if we didn’t come up during the Trump administration with the vaccine, you could have 100 million people dead, just like you had in 1917,” Trump said in an interview on",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/08/08/donald-trump-says-operation-warp-speed-saved-lives/",
-      "originalUrl": "https://nypost.com/2021/08/08/donald-trump-says-operation-warp-speed-saved-lives/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-002.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/08/08/donald-trump-says-operation-warp-speed-saved-lives/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/08/donald-trump-says-operation-warp-speed-saved-lives/amp/",
-      "publishedDateTime": "2021-08-08T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

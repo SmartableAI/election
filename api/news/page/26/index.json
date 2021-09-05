@@ -2,6 +2,62 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-07-09-biden-to-deliver-major-voting-rights-speech-tuesday-in-philadelphia.md",
+      "title": "Biden to deliver major voting rights speech Tuesday in Philadelphia",
+      "excerpt": "President Joe Biden is set to give an anticipated major speech on voting rights Tuesday in Philadelphia, the White House announced Friday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pWQ9zSyqZIk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pWQ9zSyqZIk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210708143551-02-biden-afghanistan-remarks-0708-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/09/politics/joe-biden-upcoming-voting-rights-speech/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/joe-biden-upcoming-voting-rights-speech/index.html",
+      "publishedDateTime": "2021-07-09T11:26:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-09-your-world-on-biden-withdrawing-troops-florida-recovery-efforts.md",
       "title": "'Your World' on Biden withdrawing troops, Florida recovery efforts",
       "excerpt": "That seems to be a pretty poor messaging optic to get out of there, but, overall, to leave and withdraw the troops, it's the old cliche of just ripping off the Band-Aid. It has to be done. There's a lot of forces behind this that are slow-rolling it and that benefit monetarily and economically and geopolitically from us being there.",
@@ -1258,58 +1314,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-former-trump-officials-god-and-country-nonprofit-calls-crt-a-threat-to-colorblind-society.md",
-      "title": "Former Trump official’s God-and-country nonprofit calls CRT a threat to ‘colorblind society’",
-      "excerpt": "A former Trump administration official and Wheaton College graduate, Vought defines racism as “personal prejudice that flows from ignorance and treating people differently as a result of that prejudice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/religion/former-trump-officials-god-and-country-nonprofit-calls-crt-a-threat-to-colorblind-society/2021/07/07/26995bf6-df76-11eb-a27f-8b294930e95b_story.html",
-      "originalUrl": "https://www.washingtonpost.com/religion/former-trump-officials-god-and-country-nonprofit-calls-crt-a-threat-to-colorblind-society/2021/07/07/26995bf6-df76-11eb-a27f-8b294930e95b_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/religion/former-trump-officials-god-and-country-nonprofit-calls-crt-a-threat-to-colorblind-society/2021/07/07/26995bf6-df76-11eb-a27f-8b294930e95b_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/former-trump-officials-god-and-country-nonprofit-calls-crt-a-threat-to-colorblind-society/2021/07/07/26995bf6-df76-11eb-a27f-8b294930e95b_story.html?outputType=amp",
-      "publishedDateTime": "2021-07-07T11:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -169,6 +169,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Will Liz Warren give the presidency another go? 'Joe Biden is running'"
+    excerpt: "Elizabeth Warren in 2024? Massachusetts' senior senator has been busy traveling throughout the state, stopping in various communities to help promote a"
+    publishedDateTime: 2021-09-05T09:27:00Z
+    webUrl: "https://www.metrowestdailynews.com/story/news/2021/09/05/liz-warren-holds-firm-2024-saying-she-only-eyeing-senate/5673317001/"
+    ampWebUrl: "https://amp.metrowestdailynews.com/amp/5673317001"
+    cdnAmpWebUrl: "https://amp-metrowestdailynews-com.cdn.ampproject.org/c/s/amp.metrowestdailynews.com/amp/5673317001"
+    type: article
+    provider:
+      name: The MetroWest Daily News
+      domain: metrowestdailynews.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/09/03/NMWD/9bf9067c-ec72-4dbe-8acb-809f254093c3-08-03_MA_Coalition_Independent_Work_1.jpg?auto=webp&crop=999,562,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "President Joe Biden to mark 20th anniversary of 9/11 at 3 memorial sites"
     excerpt: "President Joe Biden will visit ground zero in New York City, the Pentagon and the memorial outside Shanksville, Pennsylvania, where United Flight 93 was forced down, the White House said Saturday."
     publishedDateTime: 2021-09-04T19:29:00Z

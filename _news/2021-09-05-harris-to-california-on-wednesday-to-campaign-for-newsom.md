@@ -1,45 +1,38 @@
 ---
 category: news
 title: "Harris to California on Wednesday to campaign for Newsom"
-excerpt: "Vice President Kamala Harris will visit California's Bay Area next week to campaign for Gov. Gavin Newsom, who faces possible removal from office in a Sept. 14 recall election."
-publishedDateTime: 2021-09-04T21:39:00Z
-originalUrl: "https://www.stltoday.com/news/national/govt-and-politics/harris-to-california-on-wednesday-to-campaign-for-newsom/article_82c4f72d-691c-569a-960f-4311159c33dd.html"
-webUrl: "https://www.stltoday.com/news/national/govt-and-politics/harris-to-california-on-wednesday-to-campaign-for-newsom/article_82c4f72d-691c-569a-960f-4311159c33dd.html"
+excerpt: "The White House says Vice President Kamala Harris will visit California’s Bay Area on Wednesday to campaign for Gov. Gavin Newsom, who faces removal from office in a Sept. 14 recall election."
+publishedDateTime: 2021-09-05T06:17:00Z
+originalUrl: "https://www.sunherald.com/news/politics-government/national-politics/article254010883.html"
+webUrl: "https://www.sunherald.com/news/politics-government/national-politics/article254010883.html"
+ampWebUrl: "https://amp.sunherald.com/news/politics-government/national-politics/article254010883.html"
+cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/politics-government/national-politics/article254010883.html"
 type: article
 quality: 55
 heat: 75
 published: true
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: Biloxi Sun Herald
+  domain: sunherald.com
 
 topics:
   - Election
   - Kamala Harris
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/4/10/410c1a7b-2e50-59bc-a78a-e550eec6ddce/6133ed249672c.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
-    width: 1120
-    height: 630
-    isCached: true
-
 related:
   - title: "Harris to California on Wednesday to campaign with Newsom"
-    excerpt: "Vice President Kamala Harris will visit California's Bay Area next week to campaign with Gov. Gavin Newsom, who faces possible removal from office in a Sept. 14 recall election."
-    publishedDateTime: 2021-09-05T02:00:00Z
-    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/harris-to-california-on-wednesday-to-campaign-with-newsom/article_82c4f72d-691c-569a-960f-4311159c33dd.html"
+    excerpt: "Vice President Kamala Harris is set to visit California’s Bay Area on Wednesday to campaign with Gov. Gavin Newsom, who faces removal from office in a Sept. 14 recall election."
+    publishedDateTime: 2021-09-05T09:14:00Z
+    webUrl: "https://www.kentucky.com/news/politics-government/national-politics/article254010883.html"
+    ampWebUrl: "https://amp.kentucky.com/news/politics-government/national-politics/article254010883.html"
+    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/politics-government/national-politics/article254010883.html"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
+      name: Lexington Herald Leader
+      domain: kentucky.com
     quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/4/10/410c1a7b-2e50-59bc-a78a-e550eec6ddce/6133ed249672c.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
-        isCached: true
 
-secured: "J8nSsYNnW6g8fuSgJbeOS83OthNKQDzfVpxCWgi3B1J1Ugyd/WHRjb663bzZXbB6aPM4H99yGzlRVEk44tUKlCKRdMZlWEBQm+TCxVqyYnZ0BCi55R3lxI6TZPYioFPeqZZcuWLMQW2jsBUGTnFXCesdPVmwbuhtY/2Ticw9pqvL/XAwmtoRaKy88jm/kefHJ4QQRLn9fMV3XrX3RVi2d8MgldRL63u+Qfobz91wlbl1nDZPlUui0Ufz0ppsJd5JGvuHPw3BrH+SFTyO5V00kI6bfHhVtWwBYhCCUCnmnw5/lk1m2u4oKfzQH+8p+TlDakNEUoDKIz3ylycIW0JV2r6IzDOBkkz/BZZ1+SJ8vfk=;ik7q/k+Pev76j8D0CUMGBQ=="
+secured: "zjvD6tpVRQ1QVQJ2P760cuAdZWkMjt5mK+aVbfK8idVYkw2aaIzIPSkMAYrzo9s36CYU9VHHeeaubxt98Cf/YPPhlXbjp3IJhZVVT8SObVr2N5V6ekLM10qlpNBJBKdk6ZUJoYgR+5/HTk+dbVqX5DRPOw5cn8AY4N9D4tKdO7ThaQCnha+uFvn/cxBp/zTp3qvAqsvg6sqQugpmoUE7K5jFRgcDvW+ox72YboyeyXj0+ck6+avhn1WUa20Dwb5kjJ3Y4TiRFPDIdMONstb/SBoFYNX3LrVs6ZSl7TlDYi8v8hVSQGH6nCjkg8TFnG4LrEh+c+azrPAmgEG91LreyUOQUvYhHMdkjkEiqrf06wrH13n5UdWXq9x8r0X8he+WbzGgSMgcVPDM4fTPTDt7RhBinndXETgEUz3bR2Gm6FF6bwKB5NkjLJ+XaGWbcfH7YRoULByRadQ50UjlYDmNItfxzYs/Xpyj0XuHjccO80kY6ztzWYhGGZrmbakcz2pBjLHhTk0uPb4/CyGcyhCAxg==;8PnIpwOvRF99y2ezOzjbfA=="
 ---
 

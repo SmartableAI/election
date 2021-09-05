@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-03-this-is-an-everybody-problem-study-by-wsu-researchers-links-trump-votes-with-lgbtq-bullying-in-schools.md",
+      "title": "‘This is an everybody problem’: Study by WSU researchers links Trump votes with LGBTQ+ bullying in schools",
+      "excerpt": "Hobaica co-authored a study published this summer examining the correlation between the political leanings of a school district and levels of bullying against LGBTQ+ students. To do so, authors used the 2018 Washington State Healthy Youth Survey,",
+      "sourceUrl": null,
+      "webUrl": "https://www.spokesman.com/stories/2021/sep/03/this-is-an-everybody-problem-study-by-wsu-research/",
+      "originalUrl": "https://www.spokesman.com/stories/2021/sep/03/this-is-an-everybody-problem-study-by-wsu-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumb.spokesman.com/KG-kgiXMHyqWGTDBbw19vnXTBWM=/480x0/media.spokesman.com/photos/2021/09/02/6131463fd3fde.hires.jpg",
+          "width": 480,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.spokesman.com/stories/2021/sep/03/this-is-an-everybody-problem-study-by-wsu-research/?amp-content=amp",
+      "cdnAmpWebUrl": "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/sep/03/this-is-an-everybody-problem-study-by-wsu-research/?amp-content=amp",
+      "publishedDateTime": "2021-09-03T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Spokesman-Review",
+        "domain": "spokesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-09-03-trump-towers-key-tenants-have-fallen-behind-on-rent-and-moved-out-but-trump-has-one-reliable-customer-his-own-pac.md",
       "title": "Trump Tower’s key tenants have fallen behind on rent and moved out. But Trump has one reliable customer: His own PAC.",
       "excerpt": "Trump’s PAC pays more than $37,000 a month for space at the tower — the latest instance of Trump using donors’ money to prop up his businesses.",
@@ -1263,62 +1306,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/01/politics/trump-endorses-pennsylvania-senate-sean-parnell/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/01/politics/trump-endorses-pennsylvania-senate-sean-parnell/index.html",
       "publishedDateTime": "2021-09-01T14:21:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-biden-to-visit-storm-ravaged-louisiana.md",
-      "title": "Biden to visit storm-ravaged Louisiana",
-      "excerpt": "President Joe Biden will visit storm-ravaged Louisiana on Friday as the state attempts to recover from the category 4 Hurricane Ida that plowed into the Gulf Coast over the weekend.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ty88n4O_akA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ty88n4O_akA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210830141349-02-biden-fema-0830-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/01/politics/biden-louisiana/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/01/politics/biden-louisiana/index.html",
-      "publishedDateTime": "2021-09-01T12:10:53-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

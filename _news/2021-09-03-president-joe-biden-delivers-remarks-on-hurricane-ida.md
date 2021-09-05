@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden Delivers Remarks on Hurricane Ida"
-excerpt: "Deputy National Security Advisor for Cyber and Emerging Technology Anne Neuberger participates in a news briefing to discuss cybersecurity protective measures ahead of the approaching Labor Day holiday weekend,"
+excerpt: "President Joe Biden delivers remarks on his administration's response to Hurricane Ida, in the South Court Auditorium of the Eisenhower Executive Officer Building (EEOB) on the White House complex, in Washington,"
 publishedDateTime: 2021-09-02T17:13:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/32b052a684c2615bf00c2e5f484e4899/President-Joe-Biden-Delivers-Remarks-on-Hurricane-Ida/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/32b052a684c2615bf00c2e5f484e4899/President-Joe-Biden-Delivers-Remarks-on-Hurricane-Ida/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/8bf59b0241b9d084c296ba62cb139c1f/President-Joe-Biden-Delivers-Remarks-on-Hurricane-Ida/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/8bf59b0241b9d084c296ba62cb139c1f/President-Joe-Biden-Delivers-Remarks-on-Hurricane-Ida/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/32b052a684c2615bf00c2e5f484e4899/BIDEN-HURRICANE-IDA.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/8bf59b0241b9d084c296ba62cb139c1f/BIDEN-HURRICANE-IDA.jpg"
     width: 650
     height: 433
     isCached: true
@@ -375,6 +375,6 @@ related:
       domain: politifact.com
     quality: 20
 
-secured: "fiMJRdrGdJsKE3dldMKc9Jkl229bKfbm2tLoKmmclNerAl9fsIXO9UQ+BT1u+h9fOQ5Ufm1TAEipxfB3K9V12GKIH5U6Z4PKy/eJxIEIVl+4cjfw1KJhx+ZLtJpJAcYQbQAvCwTWHl6JKG+xY0H2PI1MZc8oSvoBO9Nsg/7H5vgnX14nZx4VlmTGWcORdr+bPZS8Qsz7TB6eaHflcArVg4huIjdclxBzF4+QtSRqLn/epB6GtJcbzYEOg6/+SL42UoAvYtVkMtL7X4OjZUSlF6jMwibom7zA2YfvW2Jy5k96J5pcKHxIkD1rrU4ctTisGzkL3qe88tKq+31UUzsDGJmh12+Epkb7uSEzFZv3z9AadW6NyqW+ifk1qfa9dt1Gl6W/Zj4/nmBgzswG+tJEW1wnimqjnK9n0WpUvjntpXVHG24i+le1pYBdspzlvMIK1s7gscURnTEE1XTaJjc7s5MeLfLpmXVK3IacolssHPhhWaESN2sRXwidTs3Sp1GHkTIWUPTLB3rbWbddMtw6KA==;yx8mc8e1Vq4uXRmS63KjVg=="
+secured: "EOtUkoZlZdUk6FbLqSx6PgrQHgydltGvyIdXxiusbbIAkohzZh6FW4dDu5Yz0yDizOwT0iwdgkvGADv//2q+kuBSy8AfN71MSL/dLLB4RAXLezN5U0VMj4W+tp3KScW5PlKPKoQE+uRj3LZQ7awx1iq105IqkMbqY6L6CwQx12Oxl2KelxOQXTN7njBOn2eRFD+HgWrQsLdNuj81WJAHaG3QvdMatThx9voNXLugJDJMo9HP3Z6Uwz/gjuDEfIPfFGhmEGEz5QKEYPWckn184SvTdAIcnLEfzv0uwiR+jXNUZAJ2OWEpM34/fP2L4YwiryGLBo++z/vuWHtLtWoV0PTjuQx8i/8AUFXOnFxlLFc=;ehRdHR2e1TDq2SLQ6x14Gw=="
 ---
 
