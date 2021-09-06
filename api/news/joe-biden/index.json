@@ -2,63 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-09-07-ny-times-mocked-for-piece-on-biden-doctrine-following-afghanistan-exit-is-this-a-wh-press-release.md",
-      "title": "NY Times mocked for piece on 'Biden doctrine' following Afghanistan exit: 'Is this a WH press release?'",
-      "excerpt": "The New York Times' became the focus of intense mockery over what was seen as a puff piece seemingly praising President Joe Biden's foreign policy, despite the debacle that took place amid the U.S. withdrawal from Afghanistan last month.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/new-york-times-puff-piece-biden-doctrine-afghanistan-debacle",
-      "originalUrl": "https://www.foxnews.com/media/new-york-times-puff-piece-biden-doctrine-afghanistan-debacle",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/28ce96d4-01e7-4d38-b251-616b2c5e33bf/a5ef951d-4ca3-4be5-88db-5f10eaf8b0a0/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/new-york-times-puff-piece-biden-doctrine-afghanistan-debacle.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-puff-piece-biden-doctrine-afghanistan-debacle.amp",
-      "publishedDateTime": "2021-09-06T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-09-06-fk-joe-biden-chants-break-out-at-college-football-games-across-the-country.md",
       "title": "'F**K Joe Biden' Chants Break Out at College Football Games Across the Country",
       "excerpt": "Explicit chants against President Joe Biden broke out in the crowds at college football games over the past few days. On Sunday, video of a \"f**k Joe Biden\" chant was posted online during the Texas A&M Aggies game against the Kent State Golden Flashes.",
@@ -1487,6 +1430,63 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-elliott-abrams-im-afraid-people-will-pay-for-bidens-stubbornness-with-their-lives.md",
+      "title": "Elliott Abrams: I'm afraid people will pay for Biden's 'stubbornness' with their lives",
+      "excerpt": "Former deputy national security adviser Elliott Abrams blasted President Biden for his \"stubbornness\" that could cost human lives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/elliott-abrams-biden-stubborn-afghanistan-withdrawal-deadline",
+      "originalUrl": "https://www.foxnews.com/media/elliott-abrams-biden-stubborn-afghanistan-withdrawal-deadline",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/elliott-abrams-biden-stubborn-afghanistan-withdrawal-deadline.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/elliott-abrams-biden-stubborn-afghanistan-withdrawal-deadline.amp",
+      "publishedDateTime": "2021-08-27T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
       ]
     }
   ],

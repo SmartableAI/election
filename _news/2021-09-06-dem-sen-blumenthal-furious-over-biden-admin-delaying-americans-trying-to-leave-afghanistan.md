@@ -1,16 +1,16 @@
 ---
 category: news
-title: "White House official 'appalled and literally horrified' that Biden stranded Americans in Afghanistan: report"
-excerpt: "A White House official said they were \"appalled and literally horrified\" that President Biden left Americans stranded in Afghanistan, a new report reveals."
-publishedDateTime: 2021-09-01T17:23:45Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5g-os7IOm38/white-house-official-horrified-biden-abandoning-americans"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5g-os7IOm38/white-house-official-horrified-biden-abandoning-americans"
-ampWebUrl: "https://www.foxnews.com/politics/white-house-official-horrified-biden-abandoning-americans.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-official-horrified-biden-abandoning-americans.amp"
+title: "Dem Sen. Blumenthal 'furious' over Biden admin delaying Americans trying to leave Afghanistan"
+excerpt: "Blumenthal issued a press release on Monday eviscerating the Biden administration for delaying flights out of the Mazar-e Sharif airport in Afghanistan following reports of the administration not giving the evacuation flights the green light."
+publishedDateTime: 2021-09-06T20:19:42Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kENpkTmIBPE/blumenthal-furious-biden-admin-delaying-americans-leaving-afghanistan"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kENpkTmIBPE/blumenthal-furious-biden-admin-delaying-americans-leaving-afghanistan"
+ampWebUrl: "https://www.foxnews.com/politics/blumenthal-furious-biden-admin-delaying-americans-leaving-afghanistan.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blumenthal-furious-biden-admin-delaying-americans-leaving-afghanistan.amp"
 type: article
-quality: 156
-heat: -1
-published: false
+quality: 164
+heat: 224
+published: true
 
 provider:
   name: Fox News
@@ -25,25 +25,25 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/405dfe65-f4a7-443e-994b-01a414599434/526a1cb1-9f42-417f-b39b-eb7ea33527eb/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/04b85745-97df-4872-a1d3-4da58d592640/014fa703-791a-4450-8b15-207c99af5c23/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
 
 related:
-  - title: "Dem Sen. Blumenthal 'furious' over Biden admin delaying Americans trying to leave Afghanistan"
-    excerpt: "Blumenthal issued a press release on Monday eviscerating the Biden administration for delaying flights out of the Mazar-e Sharif airport in Afghanistan following reports of the administration not giving the evacuation flights the green light."
-    publishedDateTime: 2021-09-06T20:19:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kENpkTmIBPE/blumenthal-furious-biden-admin-delaying-americans-leaving-afghanistan"
-    ampWebUrl: "https://www.foxnews.com/politics/blumenthal-furious-biden-admin-delaying-americans-leaving-afghanistan.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blumenthal-furious-biden-admin-delaying-americans-leaving-afghanistan.amp"
+  - title: "White House official 'appalled and literally horrified' that Biden stranded Americans in Afghanistan: report"
+    excerpt: "A White House official said they were \"appalled and literally horrified\" that President Biden left Americans stranded in Afghanistan, a new report reveals."
+    publishedDateTime: 2021-09-01T17:23:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5g-os7IOm38/white-house-official-horrified-biden-abandoning-americans"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-official-horrified-biden-abandoning-americans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-official-horrified-biden-abandoning-americans.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 156
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/04b85745-97df-4872-a1d3-4da58d592640/014fa703-791a-4450-8b15-207c99af5c23/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/405dfe65-f4a7-443e-994b-01a414599434/526a1cb1-9f42-417f-b39b-eb7ea33527eb/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -80,6 +80,6 @@ related:
         height: 405
         isCached: true
 
-secured: "r3PooeOcZaMdaLODIQ+T8ynrYnBAqR4lF8M1arnIwcN/yenquLtZ+Ff5mHtl8uqUTWp09kExj0HEpzYrlmDEIj20EG/Ee0h6/N+Cz39e8KNldrvuxCdGVb+4WidFL6aI/tOzuzhMyBCovhAYJlNnPOOVfd3YKb7p2dc0tuNtL+TshY8uKkmlM2axVeRqkCE/nWO4AM9dEDcd7UbExPi81/YYSgJlqlvRjLIlgOmyIhj0fV5paen3DLT5RECbVZ2/t8aqpDI/WYUJAExVl7vh9BlMp9HlooyhrlFhO58qONbG+y5Csx52TFYjJ0GCkRqvJNZJ2HkjBx6MmWZsZohPubW3US8CL9Zn8Ej9Q91elhI=;TDS4/3eue840lmaBCU1daA=="
+secured: "ZOAk0uxbwP6yDG5uEuSZyg2vDQGTLoP4KPMCnOC7IzQjbgjiB4IYcZjDSW/bS+bV+xVC8zQuiI9gsKYfjhOrtvjuOqSWdYIRvIX7HPPYy9hHyJKIxiT53uMXoI+EXmF8Fi/eG6vkSNz3I6LytDMuxJIZwq0qcc43tNEkTXoabIdpq3FdxLOb+CiEHjzrMsYcropdQckXJr7QBmxaulEUPRfWqD+PkagsGreUvANsUEBg44QPEC+Tiiu5K/niko1PswGoZ9KqMQGk5RjQ0gLFjbyOIautZThmUU2IyPqWj+GEdFm20ZVvv0zoa6XODupVEwAz7Ew5oSFEh7Q07tpz25i/27957cyWuoPM9+g+YPg=;3OS9yMvbbZgvSWejca6vPg=="
 ---
 

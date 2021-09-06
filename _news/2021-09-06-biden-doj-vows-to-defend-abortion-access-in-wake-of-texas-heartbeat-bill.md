@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Biden rips Texas abortion law as 'extreme,' violation of Roe v. Wade"
-excerpt: "President Biden criticized a new Texas law that prohibits abortion except for during the very beginning of pregnancy or in cases of medical emergencies, stating that it goes against established Supreme Court precedent."
-publishedDateTime: 2021-09-01T18:56:31Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BhqafWb1_Z4/biden-texas-abortion-law-extreme-violation-of-roe-v-wade"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BhqafWb1_Z4/biden-texas-abortion-law-extreme-violation-of-roe-v-wade"
-ampWebUrl: "https://www.foxnews.com/politics/biden-texas-abortion-law-extreme-violation-of-roe-v-wade.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-texas-abortion-law-extreme-violation-of-roe-v-wade.amp"
+title: "Biden DOJ vows to defend abortion access in wake of Texas heartbeat bill"
+excerpt: "Attorney General Merrick Garland pledged to protect abortion clinics, women seeking abortions, and abortion providers after the Supreme Court allowed Texas' S.B.8 to go into effect."
+publishedDateTime: 2021-09-06T20:16:57Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uiWAo2FY1hY/biden-doj-vows-to-defend-abortion-in-wake-of-texas-heartbeat-bill"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uiWAo2FY1hY/biden-doj-vows-to-defend-abortion-in-wake-of-texas-heartbeat-bill"
+ampWebUrl: "https://www.foxnews.com/politics/biden-doj-vows-to-defend-abortion-in-wake-of-texas-heartbeat-bill.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-vows-to-defend-abortion-in-wake-of-texas-heartbeat-bill.amp"
 type: article
-quality: 175
-heat: 335
-published: true
+quality: 174
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -25,12 +25,28 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/340/340/Tyler-ONeil-Headshot.jpg?ve=1&tl=1"
     width: 340
     height: 340
     isCached: true
 
 related:
+  - title: "Biden rips Texas abortion law as 'extreme,' violation of Roe v. Wade"
+    excerpt: "President Biden criticized a new Texas law that prohibits abortion except for during the very beginning of pregnancy or in cases of medical emergencies, stating that it goes against established Supreme Court precedent."
+    publishedDateTime: 2021-09-01T18:56:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BhqafWb1_Z4/biden-texas-abortion-law-extreme-violation-of-roe-v-wade"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-texas-abortion-law-extreme-violation-of-roe-v-wade.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-texas-abortion-law-extreme-violation-of-roe-v-wade.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden changes position, now says life doesn't begin at conception"
     excerpt: "President Biden on Friday appeared to change a position he had just six years ago on whether life begins at conception."
     publishedDateTime: 2021-09-03T17:42:16Z
@@ -62,22 +78,6 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/879b88e5-5c73-4acf-9570-451c852ff872/cb52dd93-9e06-4f1c-b4d8-cd9f015bac23/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
-        isCached: true
-  - title: "Biden DOJ vows to defend abortion access in wake of Texas heartbeat bill"
-    excerpt: "Attorney General Merrick Garland pledged to protect abortion clinics, women seeking abortions, and abortion providers after the Supreme Court allowed Texas' S.B.8 to go into effect."
-    publishedDateTime: 2021-09-06T20:16:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uiWAo2FY1hY/biden-doj-vows-to-defend-abortion-in-wake-of-texas-heartbeat-bill"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-doj-vows-to-defend-abortion-in-wake-of-texas-heartbeat-bill.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-vows-to-defend-abortion-in-wake-of-texas-heartbeat-bill.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/340/340/Tyler-ONeil-Headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Sen. Cruz says Biden is trying to cover up poor Texas migrant facility conditions"
     excerpt: "Cruz and fellow GOP lawmakers Reps. Chip Roy and Nancy Mace held a press conference after spending time with the men and women of Border Patrol in Laredo, Texas."
@@ -160,6 +160,6 @@ related:
         height: 405
         isCached: true
 
-secured: "gDt+pGRbiIxfaIpMYtXL0NLkblem2H5ykpztvCdjRuQiK8KLScMudnVqFP3q4y2wgEAE+rwqUNyUPSO71dqtCd1ME7fSEFTOQGTv128eUoGg595QzSfFw4ADY1zcSTl54AULxm/X8jmkvp+LBpS2ZvifDfj0rm4xA2HG/LtT7fp9AFBH+AKNGbAlv3Cl87FPRfFTFz6ZUq6vAF+djYlNWs2O1GvhTIAVtA89SDJ7ZT707+qEtURDm+8QZgBlWQZTcyV47ajsAYvnF/YtadFxvLqxNrDMvW1t+u6N4/8n0nGSrN556g+6KwZ7gSXO6Y2xLemEro+3RK2niph6/ZiBJ/kflpgg7tDZzxqIMfwPyeU=;HG/qx2sOHGIDF4u6jJ6sZw=="
+secured: "XX3vJVZJ666PXm9Rro/Sv7LUcniQldQk5EegwClGsJlxcSRvR3a+JthTGUAWihBGUNa+AhTvHC9SnC+alwbNczK1ZyPrpTkB0WvKUJJXh+7yTez36yTWrxCSf4vGvQVjWWOguAp1/A1Rp/mj/Q9EZQodtw3Du7cpNUVRLOcXgPC6IRaivJC+j8cUPwOV2qAHgwlsjpxnpk6nj/SIAuENi6Gt6cON/oXH6vvpKJdtgeX05NB3rlgVmZdr1xa8u6mFc5r2HWa1YJlGSwyzTK4JiQnMwTOto5wC4gLGlEMbSHCpE+WyBKNaH6Ylk7Xda+nP5ov9TcuAKvYELBQv31IaDdiMcoIyIeqrJWRkX7b8jtU=;spEFmG/QRJpavpQQvVDBvw=="
 ---
 

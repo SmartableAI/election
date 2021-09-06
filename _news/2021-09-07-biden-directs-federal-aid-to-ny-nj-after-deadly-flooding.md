@@ -2,28 +2,28 @@
 category: news
 title: "Biden directs federal aid to NY, NJ after deadly flooding"
 excerpt: "President Joe Biden approved major disaster declarations Monday greenlighting federal aid for people in six New Jersey counties and five New York counties affected by devastating flooding last week from the remnants of Hurricane Ida."
-publishedDateTime: 2021-09-06T17:26:00Z
-originalUrl: "https://www.expressnews.com/news/article/Biden-directs-federal-aid-to-NY-NJ-after-deadly-16438508.php"
-webUrl: "https://www.expressnews.com/news/article/Biden-directs-federal-aid-to-NY-NJ-after-deadly-16438508.php"
-ampWebUrl: "https://www.expressnews.com/news/amp/Biden-directs-federal-aid-to-NY-NJ-after-deadly-16438508.php"
-cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/amp/Biden-directs-federal-aid-to-NY-NJ-after-deadly-16438508.php"
+publishedDateTime: 2021-09-06T21:21:00Z
+originalUrl: "https://www.spokesman.com/stories/2021/sep/06/biden-directs-federal-aid-to-ny-nj-after-deadly-fl/"
+webUrl: "https://www.spokesman.com/stories/2021/sep/06/biden-directs-federal-aid-to-ny-nj-after-deadly-fl/"
+ampWebUrl: "https://www.spokesman.com/stories/2021/sep/06/biden-directs-federal-aid-to-ny-nj-after-deadly-fl/?amp-content=amp"
+cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/sep/06/biden-directs-federal-aid-to-ny-nj-after-deadly-fl/?amp-content=amp"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: San Antonio Express-News
-  domain: expressnews.com
+  name: The Spokesman-Review
+  domain: spokesman.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://s.hdnux.com/photos/01/21/60/71/21433925/3/ratio3x2_400.jpg"
-    width: 400
-    height: 267
+  - url: "https://thumb.spokesman.com/GVxXMlp8vhzORtqsmFf25eTIT1A=/480x0/media.spokesman.com/photos/2021/09/06/613682e00b78b.hires.jpg"
+    width: 480
+    height: 270
     isCached: true
 
 related:
@@ -234,6 +234,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/09/03/NMWD/9bf9067c-ec72-4dbe-8acb-809f254093c3-08-03_MA_Coalition_Independent_Work_1.jpg?auto=webp&crop=999,562,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Biden marks Labor Day delivering sandwiches to union members"
+    excerpt: "President Joe Biden has marked Labor Day by delivering deli sandwiches to union members in his home state of Delaware."
+    publishedDateTime: 2021-09-06T21:41:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/sep/06/biden-marks-labor-day-delivering-sandwiches-to-uni/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/sep/06/biden-marks-labor-day-delivering-sandwiches-to-uni/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/sep/06/biden-marks-labor-day-delivering-sandwiches-to-uni/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 75
+    images:
+      - url: "https://thumb.spokesman.com/NQC9H-cFYVp4cY_1o2LtpAJMBKo=/480x0/media.spokesman.com/photos/2021/09/06/613686e6ed093.hires.jpg"
+        width: 480
+        height: 320
         isCached: true
   - title: "President Joe Biden to mark 20th anniversary of 9/11 at 3 memorial sites"
     excerpt: "President Joe Biden will visit ground zero in New York City, the Pentagon and the memorial outside Shanksville, Pennsylvania, where United Flight 93 was forced down, the White House said Saturday."
@@ -462,16 +478,7 @@ related:
         width: 2048
         height: 1453
         isCached: true
-  - title: "Biden Marks Labor Day Delivering Sandwiches to Union Members"
-    excerpt: "President Joe Biden has marked Labor Day by delivering deli sandwiches to union members in his home state of Delaware."
-    publishedDateTime: 2021-09-06T19:17:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-09-06/biden-marks-labor-day-delivering-sandwiches-to-union-members"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
-secured: "hDVKoHQ0RGNLrzsN8dNwvWvPK+ykn9E9oVSr2ReLGRIyRXgcQ+ENKzJK3MpAe/Il5CkfpSBo9e4DehHNsmISNjdExniu7NCjwaPf7pRudCCy6tjmwep3QJ+0nejy6tkRnvglDoFDKi5GKEDReZ2uMXGaUXkwlCIqcnS4NmrOUTkjePQRZ2Nt5JaNFNaLN1LYAm0FcSlDpYl2kiW7eLZkGsJ+KDgcqDlN/sty7qNoCKWCce+IlnWI8W+7H17j9x9n9H7MAyXzxe33vUmSMct8GiTvrzg/t2NxBjRUy/+tgUvTh9T9HEosnRPM8KNStBs/MF+1VyR9hgC6xEFTOBuUqz4XrM6a3G6Di+CcfWhpc+w=;Uu2JXWFVCJsgEOEkD3/NyQ=="
+secured: "XFnsWzIBHC0BAbUyfnvG1AleXj1tBKOVCUpieQOCrWTKlsqbkr1sXse8RVdxWGWeRycAKW/vPSRC0+iPjGHSbVEVDAmdCs0eI+muW1z6RWDyHwMASsY3E+oJ3U2WBPNRDX59HU8bt1HezMjvuAi9SAaMZjgvZch2fcoXrLYfktsmtovgRidErrOgMlIr0BNRlS/KanLm70OKDhIbMqv4MwiKw2/8Uz/SdDR1vmGMVa/EKdjGjL6rg7hO0ycovgdl5Xw5jLcX5OhLgFiaWO5bpGFZiezl5ZcIUA4TC+HYS6h2ypRiJ//GaBhTKh6mpYwsLtBqGyD1fM4Sf7+ThE/buor6gzviwrhkAkkzCK8bC/g=;2PMDmxJulstFFpKFEZ+9Ag=="
 ---
 

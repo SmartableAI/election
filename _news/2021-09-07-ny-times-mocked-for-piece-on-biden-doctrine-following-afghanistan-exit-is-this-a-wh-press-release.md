@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/media/new-york-times-puff-piece-biden-doctri
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-puff-piece-biden-doctrine-afghanistan-debacle.amp"
 type: article
 quality: 119
-heat: 119
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -30,6 +30,56 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Dem Sen. Blumenthal 'furious' over Biden admin delaying Americans trying to leave Afghanistan"
+    excerpt: "Blumenthal issued a press release on Monday eviscerating the Biden administration for delaying flights out of the Mazar-e Sharif airport in Afghanistan following reports of the administration not giving the evacuation flights the green light."
+    publishedDateTime: 2021-09-06T20:19:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kENpkTmIBPE/blumenthal-furious-biden-admin-delaying-americans-leaving-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/blumenthal-furious-biden-admin-delaying-americans-leaving-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blumenthal-furious-biden-admin-delaying-americans-leaving-afghanistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/04b85745-97df-4872-a1d3-4da58d592640/014fa703-791a-4450-8b15-207c99af5c23/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "White House official 'appalled and literally horrified' that Biden stranded Americans in Afghanistan: report"
+    excerpt: "A White House official said they were \"appalled and literally horrified\" that President Biden left Americans stranded in Afghanistan, a new report reveals."
+    publishedDateTime: 2021-09-01T17:23:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5g-os7IOm38/white-house-official-horrified-biden-abandoning-americans"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-official-horrified-biden-abandoning-americans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-official-horrified-biden-abandoning-americans.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/405dfe65-f4a7-443e-994b-01a414599434/526a1cb1-9f42-417f-b39b-eb7ea33527eb/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Tom Cotton: Biden kept promise to Taliban, not Americans"
+    excerpt: "President Biden appears to have broken his promise to stay in Afghanistan until every American is evacuated. Marine Corps Gen. Kenneth F. McKenzie Jr. announced Monday evening that the last of the U.S."
+    publishedDateTime: 2021-08-31T08:11:00Z
+    webUrl: "https://www.foxnews.com/media/tom-cotton-biden-kept-promise-to-taliban-not-americans"
+    ampWebUrl: "https://www.foxnews.com/media/tom-cotton-biden-kept-promise-to-taliban-not-americans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tom-cotton-biden-kept-promise-to-taliban-not-americans.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0d65ccbd-a41f-4591-b906-397b9ae77004/e22f835a-05e3-479d-a9a9-8be130c445c3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "IxLYZJoh+WJxtaaPxb65LgnJuvi4vdOP0FKAw9+JIVv4HBfJswrJ3Z0HnpaaXDCH47WgWokH7w/scuCafBpnnJPM9W3DjEIOOr6C/7FF/6e0SSRvJ6UuMVlzAO0uxOh2HjQdhXigTp0Bb0NVfzNRAvf0eQwlYm+cAhriznbPrQnDJWgdyyCVqSGMCxngk7JjTFYtQW4hjS73SZGb2r89Xp8z1lmaa+kTET/E+CG26bkNY3g2/jyme+AiU2GD9zhcmgWX8chDTZ/KPQ1w4N6Wxt+vCd9rOEcrqcEbgC+p2TlWcOIw25aT6ZbsdNkI9qPQtIGajh0wUa6vJRivBBFxzCZKcD1aUt5J+mRqYv1/eKI=;H8gv+2ibJ5KWBlPaL2nAgA=="
 ---

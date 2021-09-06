@@ -237,19 +237,35 @@ related:
         isCached: true
   - title: "Biden directs federal aid to NY, NJ after deadly flooding"
     excerpt: "President Joe Biden approved major disaster declarations Monday greenlighting federal aid for people in six New Jersey counties and five New York counties affected by devastating flooding last week from the remnants of Hurricane Ida."
-    publishedDateTime: 2021-09-06T17:26:00Z
-    webUrl: "https://www.expressnews.com/news/article/Biden-directs-federal-aid-to-NY-NJ-after-deadly-16438508.php"
-    ampWebUrl: "https://www.expressnews.com/news/amp/Biden-directs-federal-aid-to-NY-NJ-after-deadly-16438508.php"
-    cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/amp/Biden-directs-federal-aid-to-NY-NJ-after-deadly-16438508.php"
+    publishedDateTime: 2021-09-06T21:21:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/sep/06/biden-directs-federal-aid-to-ny-nj-after-deadly-fl/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/sep/06/biden-directs-federal-aid-to-ny-nj-after-deadly-fl/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/sep/06/biden-directs-federal-aid-to-ny-nj-after-deadly-fl/?amp-content=amp"
     type: article
     provider:
-      name: San Antonio Express-News
-      domain: expressnews.com
+      name: The Spokesman-Review
+      domain: spokesman.com
     quality: 75
     images:
-      - url: "https://s.hdnux.com/photos/01/21/60/71/21433925/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
+      - url: "https://thumb.spokesman.com/GVxXMlp8vhzORtqsmFf25eTIT1A=/480x0/media.spokesman.com/photos/2021/09/06/613682e00b78b.hires.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "Biden marks Labor Day delivering sandwiches to union members"
+    excerpt: "President Joe Biden has marked Labor Day by delivering deli sandwiches to union members in his home state of Delaware."
+    publishedDateTime: 2021-09-06T21:41:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/sep/06/biden-marks-labor-day-delivering-sandwiches-to-uni/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/sep/06/biden-marks-labor-day-delivering-sandwiches-to-uni/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/sep/06/biden-marks-labor-day-delivering-sandwiches-to-uni/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 75
+    images:
+      - url: "https://thumb.spokesman.com/NQC9H-cFYVp4cY_1o2LtpAJMBKo=/480x0/media.spokesman.com/photos/2021/09/06/613686e6ed093.hires.jpg"
+        width: 480
+        height: 320
         isCached: true
   - title: "President Joe Biden's granddaughter, Naomi, engaged to longtime boyfriend"
     excerpt: "President Joe Biden's granddaughter, Naomi Biden, announced Sunday that she is engaged to Peter Neal, her longtime boyfriend."
@@ -462,15 +478,6 @@ related:
         width: 2048
         height: 1453
         isCached: true
-  - title: "Biden Marks Labor Day Delivering Sandwiches to Union Members"
-    excerpt: "President Joe Biden has marked Labor Day by delivering deli sandwiches to union members in his home state of Delaware."
-    publishedDateTime: 2021-09-06T19:17:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-09-06/biden-marks-labor-day-delivering-sandwiches-to-union-members"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "xK7qs+gLeHC27XIrGjJzxxoiabaOKxe1x2VWyJzwAQ0QuIgX8HE9KQnlQP24ppi/q6ALmRHHj1zVMfzU0h77RPOvWdLm/lyuqOW+Vrk1tKw04o2cOu95byvzVgXgZ/SXfRdiRO4jnsBhz+LfSqqPNuYKwBKbjzk3sXfXzyD03VebGuF7FQUNWAg1s5K5Nz+bvMXDYqjLj6hXtkV9n89L6HhqZ+bk6ts7JdGgo+z/R88NcEkwRz8TcgHFOIKLd5WvNcX9wC1xq5bp8Y5a7iM6pUeNunTwgw/dONh3kDVop/yJ1frAzlaHLof3V4B64zht/MWnEO5hAMEAHKA2I0tgaRv3SenaRyV8ldP9gera0TeXG0YXzfv7nboMJ7RRVMYPwbz7CE0FcXqdPrLqQeUNqMlIVBZyxnI5WlG5NQCQHFWEWcp6dMzGOPxo4uT3GDb8o8+eAe9I3LMzlgl7ZRJTuYE9u10dNWsVyI07JvhWXoPzsBeJL7vI8hXY03Wtb90iF8c3XPZu1WlhaNqjrBpMGA==;QYBofQ4gx36S6EPmI12W1g=="
 ---

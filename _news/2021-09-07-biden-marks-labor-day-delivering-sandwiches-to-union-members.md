@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Biden Marks Labor Day Delivering Sandwiches to Union Members"
+title: "Biden marks Labor Day delivering sandwiches to union members"
 excerpt: "President Joe Biden has marked Labor Day by delivering deli sandwiches to union members in his home state of Delaware."
-publishedDateTime: 2021-09-06T19:17:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-09-06/biden-marks-labor-day-delivering-sandwiches-to-union-members"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-09-06/biden-marks-labor-day-delivering-sandwiches-to-union-members"
+publishedDateTime: 2021-09-06T21:41:00Z
+originalUrl: "https://www.spokesman.com/stories/2021/sep/06/biden-marks-labor-day-delivering-sandwiches-to-uni/"
+webUrl: "https://www.spokesman.com/stories/2021/sep/06/biden-marks-labor-day-delivering-sandwiches-to-uni/"
+ampWebUrl: "https://www.spokesman.com/stories/2021/sep/06/biden-marks-labor-day-delivering-sandwiches-to-uni/?amp-content=amp"
+cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/sep/06/biden-marks-labor-day-delivering-sandwiches-to-uni/?amp-content=amp"
 type: article
-quality: 35
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Spokesman-Review
+  domain: spokesman.com
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://thumb.spokesman.com/NQC9H-cFYVp4cY_1o2LtpAJMBKo=/480x0/media.spokesman.com/photos/2021/09/06/613686e6ed093.hires.jpg"
+    width: 480
+    height: 320
+    isCached: true
 
 related:
   - title: "Joe Biden and Europe are going different ways"
@@ -233,19 +237,19 @@ related:
         isCached: true
   - title: "Biden directs federal aid to NY, NJ after deadly flooding"
     excerpt: "President Joe Biden approved major disaster declarations Monday greenlighting federal aid for people in six New Jersey counties and five New York counties affected by devastating flooding last week from the remnants of Hurricane Ida."
-    publishedDateTime: 2021-09-06T17:26:00Z
-    webUrl: "https://www.expressnews.com/news/article/Biden-directs-federal-aid-to-NY-NJ-after-deadly-16438508.php"
-    ampWebUrl: "https://www.expressnews.com/news/amp/Biden-directs-federal-aid-to-NY-NJ-after-deadly-16438508.php"
-    cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/amp/Biden-directs-federal-aid-to-NY-NJ-after-deadly-16438508.php"
+    publishedDateTime: 2021-09-06T21:21:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/sep/06/biden-directs-federal-aid-to-ny-nj-after-deadly-fl/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/sep/06/biden-directs-federal-aid-to-ny-nj-after-deadly-fl/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/sep/06/biden-directs-federal-aid-to-ny-nj-after-deadly-fl/?amp-content=amp"
     type: article
     provider:
-      name: San Antonio Express-News
-      domain: expressnews.com
+      name: The Spokesman-Review
+      domain: spokesman.com
     quality: 75
     images:
-      - url: "https://s.hdnux.com/photos/01/21/60/71/21433925/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
+      - url: "https://thumb.spokesman.com/GVxXMlp8vhzORtqsmFf25eTIT1A=/480x0/media.spokesman.com/photos/2021/09/06/613682e00b78b.hires.jpg"
+        width: 480
+        height: 270
         isCached: true
   - title: "President Joe Biden to mark 20th anniversary of 9/11 at 3 memorial sites"
     excerpt: "President Joe Biden will visit ground zero in New York City, the Pentagon and the memorial outside Shanksville, Pennsylvania, where United Flight 93 was forced down, the White House said Saturday."
@@ -475,6 +479,6 @@ related:
         height: 1453
         isCached: true
 
-secured: "9X3+bV5HpS2efMS92nCjYUBHmpqXlwUPMvQ+8U1W1x3+JL79uag6uKswwvTpLZpYi6r7B5BA94jyNNQUHWJQ2WU6i2EBFh5RMkWAMma4dC+UQ/7/nxZ4AEP4rAWtzmA7g53euVHn5Cz6vPE4xqxczA6Sok6fKAcWYxRGdwo8tbbq4GoJkBn3rrW4fIrV6pqZqYJI9UVHa0I6RNCjx3+tFuJeEwRCg3u/J1KpSSGUKVhJNzaaFbmYcV9JQJeUWrF9g8kgYYTzQf/O1asutSVwBbr0WlP23qKU1S/s+BhQ+p8gwyW6b0TrQ1Q4G/WUgEZdF+qVbXgIfrtGAc+2tmvmEdgrFMHLliNHElnchO+rItHRrvMcvnB2VWVv0114VcYdOZUMxtAByhbVkmzGjAGO7EcQpvc66XI3T0D300jKmyUOPaNOj61JBULkmBr9yMLvyoA6WyeFNi/nWoiQwX4iP3bDou0n/2xMSSl8V5txQ9Iz6fGVsn/rw5iDk8Bf08Gdj2JC7d1aheRnZVvZNtTDEA==;3FA10pgg58s+R7VRiXj3GQ=="
+secured: "60oGAQXDp8C5jeBLfqOH5pIL8Wkdy8KX/wDi20H/nhl9wFekqnHGex0MVSXcL4vE1WlTArrh3v0W92MFx4iwLDXgD9/QyWPQ4Q4nVr/sl8QFFGJS9oWpT6kwhxFwXEN7GKp41hGoJ43P3UfzHLOtvYvirSI1Luqbr/F6w5DQPaRliuzGkHb/SLzw7td49GM7AB+U9U/t5EfzdC7NSqq55FGnzyyIsIdqWmgvQslmyrYLelqG/Y/smBCVKizcdwUxrPXLQ6tfca1EzIZVwMd1Q2TvJZcy+Ka+lnLF4Tg4Q1+YkTssJVGdUkcIS7VKj0jVrVW+ta64gt3H26vKMnuTijSu5TqWMZAdmWSvBgzwu6k=;xBbta1AHts3ryUc45k4YsQ=="
 ---
 

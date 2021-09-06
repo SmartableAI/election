@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-secure-tajikistans-border-us-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-secure-tajikistans-border-us-crisis.amp"
 type: article
 quality: 175
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/70d520f6-d90f-4c78-bf7e-a986d48d2e66/672e92a1-0051-4da4-b1fb-8341449bb749/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Sen. Hagerty picks up 'shock' from US allies over Biden's Afghanistan exit"
+    excerpt: "Sen. Bill Hagerty says that NATO allies are concerned about terror threats that could emerge from Afghanistan after the botched U.S. withdrawal."
+    publishedDateTime: 2021-09-06T20:39:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9wA1GvlxTBs/hagerty-nato-allies-concerned-afghanistan-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/hagerty-nato-allies-concerned-afghanistan-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hagerty-nato-allies-concerned-afghanistan-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Cruz, Roy slam Biden admin over 'man-made' border crisis as fentanyl deaths skyrocket"
     excerpt: "The Republican lawmakers are traveling around Texas to learn more from local officials and stakeholders about how the border crisis is affecting them."

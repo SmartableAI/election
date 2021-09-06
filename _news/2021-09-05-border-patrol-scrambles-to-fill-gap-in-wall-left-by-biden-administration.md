@@ -63,6 +63,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden DOJ vows to defend abortion access in wake of Texas heartbeat bill"
+    excerpt: "Attorney General Merrick Garland pledged to protect abortion clinics, women seeking abortions, and abortion providers after the Supreme Court allowed Texas' S.B.8 to go into effect."
+    publishedDateTime: 2021-09-06T20:16:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uiWAo2FY1hY/biden-doj-vows-to-defend-abortion-in-wake-of-texas-heartbeat-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-doj-vows-to-defend-abortion-in-wake-of-texas-heartbeat-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-vows-to-defend-abortion-in-wake-of-texas-heartbeat-bill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/340/340/Tyler-ONeil-Headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Sen. Cruz says Biden is trying to cover up poor Texas migrant facility conditions"
     excerpt: "Cruz and fellow GOP lawmakers Reps. Chip Roy and Nancy Mace held a press conference after spending time with the men and women of Border Patrol in Laredo, Texas."
     publishedDateTime: 2021-09-01T19:23:47Z
