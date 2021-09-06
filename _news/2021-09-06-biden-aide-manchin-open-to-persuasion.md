@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Slain Norco Marine’s mother slams President Joe Biden on social media"
-excerpt: "The mother of a Norco Marine killed in Afghanistan has blasted President Joe Biden on social media, saying the president rolled his eyes when meeting with families of slain service members and that her son’s blood is on his hands."
-publishedDateTime: 2021-09-01T19:39:00Z
-originalUrl: "https://www.dailynews.com/2021/09/01/slain-norco-marines-mother-slams-president-joe-biden-on-social-media/"
-webUrl: "https://www.dailynews.com/2021/09/01/slain-norco-marines-mother-slams-president-joe-biden-on-social-media/"
-ampWebUrl: "https://www.dailynews.com/2021/09/01/slain-norco-marines-mother-slams-president-joe-biden-on-social-media/amp/"
-cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/09/01/slain-norco-marines-mother-slams-president-joe-biden-on-social-media/amp/"
+title: "Biden aide: Manchin open to persuasion"
+excerpt: "A senior White House adviser expressed confidence that a key Democratic senator who raised objections to President Joe Biden's $3.5 trillion tax and spending package can eventually be persuaded to give his backing."
+publishedDateTime: 2021-09-06T09:34:00Z
+originalUrl: "https://www.arkansasonline.com/news/2021/sep/06/biden-aide-manchin-open-to-persuasion/"
+webUrl: "https://www.arkansasonline.com/news/2021/sep/06/biden-aide-manchin-open-to-persuasion/"
 type: article
-quality: 75
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Los Angeles Daily News
-  domain: dailynews.com
+  name: Arkansas Democrat-Gazette
+  domain: arkansasonline.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.dailynews.com/wp-content/uploads/2021/09/APTOPIX-Casualty-Return-Afghanistan-1.jpg?w=1024&#038;h=682"
-    width: 1024
-    height: 682
+  - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
+    width: 800
+    height: 400
     isCached: true
 
 related:
@@ -138,6 +136,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/21/55/10/21418547/5/ratio3x2_400.jpg"
         width: 400
         height: 267
+        isCached: true
+  - title: "Slain Norco Marine’s mother slams President Joe Biden on social media"
+    excerpt: "The mother of a Norco Marine killed in Afghanistan has blasted President Joe Biden on social media, saying the president rolled his eyes when meeting with families of slain service members and that her son’s blood is on his hands."
+    publishedDateTime: 2021-09-01T19:39:00Z
+    webUrl: "https://www.dailynews.com/2021/09/01/slain-norco-marines-mother-slams-president-joe-biden-on-social-media/"
+    ampWebUrl: "https://www.dailynews.com/2021/09/01/slain-norco-marines-mother-slams-president-joe-biden-on-social-media/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/09/01/slain-norco-marines-mother-slams-president-joe-biden-on-social-media/amp/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 75
+    images:
+      - url: "https://www.dailynews.com/wp-content/uploads/2021/09/APTOPIX-Casualty-Return-Afghanistan-1.jpg?w=1024&#038;h=682"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Joe Manchin Has Put Biden’s Presidency in Mortal Danger"
     excerpt: "One of the most bullish indicators for Joe Biden’s presidency came just a week after his inauguration, when Joe Manchin said, “We’re going to make Joe Biden successful.” Manchin’s comment seemed to reflect an understanding that there was no way Democrats could survive by detaching themselves from their president."
@@ -333,20 +347,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Biden aide: Manchin open to persuasion"
-    excerpt: "A senior White House adviser expressed confidence that a key Democratic senator who raised objections to President Joe Biden's $3.5 trillion tax and spending package can eventually be persuaded to give his backing."
-    publishedDateTime: 2021-09-06T09:34:00Z
-    webUrl: "https://www.arkansasonline.com/news/2021/sep/06/biden-aide-manchin-open-to-persuasion/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 55
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
-        width: 800
-        height: 400
-        isCached: true
   - title: "President Joe Biden Proclaims Thursday, 26, 2021 as Women’s Equality Day"
     excerpt: "On President Joe Biden proclaimed August 26, 2021 as Women’s Equality Day. Today, we celebrate Women’s Equality Day, a reminder not only of the progress women have won through the years, but of the important work that remains to be done."
     publishedDateTime: 2021-08-26T21:01:00Z
@@ -401,6 +401,6 @@ related:
         height: 1453
         isCached: true
 
-secured: "w8f9sYR8SYLGN9nBqGFxiZZXMzId31XHJS9B/vMs5t5q43nPeintVdT7cl4JKhvJ7INucKYBc3zf5BeSaqEKxbmzm4hMnmdSO9/m7PsrX9XqoB3Zsu3me8NCVYN7D7QT/eHbftisDwH8SA/Y+2pG/bVXHojJn50xEBSlGjRkAT/qtiXoCP/9GQDQcyPo2uqgi0R+fvmlXTmhH3kV9A/cpBXwxHX0VWMwlox0ENbyTRU6tn56E4uSbb0bFTXOMqRZk4ygnDplB9lxNbyJbQp5mAFx+hjK6DIY8mFLBTqlQf7GU4nOlfjptEEAKE5Cn33QYhK+6Y23C2Ws8Tq/sql/r5ZzBMH/jhDSxG56cT94sOvHMnlekNSpaFKGADe9gU7JKQA7UI3g4fSuUqXV+VQ3rQV31DSnJt4Whh+4TnrkfQmkErBOR/3tpTr4jz8x8t5lrEXp8z2MChHAwQHnozXo0kFr4vLVs9IcdRaK164p14yyw4tpDiozFJsymoM7yaJMTTMuTO1XakqFQUHBu+GSHQ==;LV6CYbGKYQqy60YNKBD7eA=="
+secured: "mXgsWqjmpnELvp+kUDX9lQkXorQLinSehr+J3Dc4v/7eL1L3cKF5IZDe9esfh4BR+abB9h/jrmkVickw8TCbQFgUkAIZYyO8vskMAYr/pWxueWJlp5M2NV0c7Le4QxPLxbenxikh+OEN4z968tWKn++EW7B2dLF5Y9rxPpbAln420v16LnST7G2IW8154kjHwHvytZbPv8DwGCk4My9qAAqjblNC94v1BUp11DSI+sQ9Y6okQ1qCVLV0eSSCmjx6mPbMYzY/+nUEDbWulpgcmypOjyk4uM9syah3nz+gTK4bywokBCGTLf/aGs3OHW196RAxbfF55fyqUDyIwwkD61dFTBnXAvMpWi+f0nyclE0=;mWh63t6aDTFBW+ZnLAI56g=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/bfe24854-3bf2-4ada-b3a2-778b4707c31f"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/bfe24854-3bf2-4ada-b3a2-778b4707c31f"
 type: article
 quality: 125
-heat: 605
+heat: 625
 published: true
 
 provider:
@@ -336,6 +336,20 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/E1AE/production/_120347775_01075bba-06cb-4775-bf06-1defc5bac8ee.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Biden aide: Manchin open to persuasion"
+    excerpt: "A senior White House adviser expressed confidence that a key Democratic senator who raised objections to President Joe Biden's $3.5 trillion tax and spending package can eventually be persuaded to give his backing."
+    publishedDateTime: 2021-09-06T09:34:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/sep/06/biden-aide-manchin-open-to-persuasion/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
+        width: 800
+        height: 400
         isCached: true
   - title: "President Joe Biden Proclaims Thursday, 26, 2021 as Women’s Equality Day"
     excerpt: "On President Joe Biden proclaimed August 26, 2021 as Women’s Equality Day. Today, we celebrate Women’s Equality Day, a reminder not only of the progress women have won through the years, but of the important work that remains to be done."

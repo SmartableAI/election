@@ -347,6 +347,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Biden aide: Manchin open to persuasion"
+    excerpt: "A senior White House adviser expressed confidence that a key Democratic senator who raised objections to President Joe Biden's $3.5 trillion tax and spending package can eventually be persuaded to give his backing."
+    publishedDateTime: 2021-09-06T09:34:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/sep/06/biden-aide-manchin-open-to-persuasion/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "President Joe Biden walks storm-devastated LaPlace: 'I know you're hurting'"
     excerpt: "As widespread suffering continued five days after Hurricane Ida ransacked southeast Louisiana, President Joe Biden walked through storm-ravaged LaPlace on Friday while residents tossed rotting insulat"
     publishedDateTime: 2021-09-03T19:53:00Z
