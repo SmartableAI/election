@@ -2,6 +2,62 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-06-14-trump-era-sentencing-reform-law-doesnt-apply-to-low-level-crack-cocaine-offenders-supreme-court-says.md",
+      "title": "Trump-era sentencing reform law doesn't apply to low-level crack cocaine offenders, Supreme Court says",
+      "excerpt": "The Supreme Court held Monday that a low-level crack-cocaine offender is ineligible to seek a reduced sentence under the Trump-era First Step Act sentencing reform law.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d3luDHVLMWI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d3luDHVLMWI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201224043021-01-us-supreme-court-1211-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/14/politics/supreme-court-first-step-act-crack-cocaine-conviction-case/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/14/politics/supreme-court-first-step-act-crack-cocaine-conviction-case/index.html",
+      "publishedDateTime": "2021-06-14T08:43:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-14-comer-jordan-send-letter-demanding-more-sunlight-on-kerrys-role-in-biden-admin.md",
       "title": "Comer, Jordan send letter demanding more sunlight on Kerry's role in Biden admin",
       "excerpt": "House Republicans Jim Jordan and James Comer are demanding answers from U.S. special envoy for climate John Kerry about his role.",
@@ -1266,58 +1322,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-joe-biden-unearthing-the-presidents-unsung-english-roots.md",
-      "title": "Joe Biden: Unearthing the president's unsung English roots",
-      "excerpt": "Joe Biden's presence in the UK this week brings him closer to a part of his family heritage that had been obscure - until recently. Last year an English link was added to Mr Biden's well-known Irish ancestry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-us-canada-57394351.amp",
-      "originalUrl": "https://www.bbc.com/news/world-us-canada-57394351.amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/B551/production/_118871464_gettyimages-1233359683-594x594.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/world-us-canada-57394351.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57394351.amp",
-      "publishedDateTime": "2021-06-11T16:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

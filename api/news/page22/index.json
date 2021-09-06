@@ -2,6 +2,58 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-07-17-john-bolton-says-trump-isnt-capable-of-staging-a-coup-because-that-requires-advance-thinking-planning-strategizing.md",
+      "title": "John Bolton says Trump isn't 'capable' of staging a coup because 'that requires advance thinking, planning, strategizing'",
+      "excerpt": "\"The idea of Trump staging a coup does give him too much credit,\" Trump's former national security adviser said on CNN's \"New Day.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/john-bolton-trump-is-incapable-of-staging-a-coup-video-2021-7",
+      "originalUrl": "https://www.businessinsider.com/john-bolton-trump-is-incapable-of-staging-a-coup-video-2021-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60f1c8c571757b0018c6a161?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/john-bolton-trump-is-incapable-of-staging-a-coup-video-2021-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/john-bolton-trump-is-incapable-of-staging-a-coup-video-2021-7?amp",
+      "publishedDateTime": "2021-07-16T12:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-17-addison-rae-slammed-for-greeting-ex-president-trump-at-event.md",
       "title": "Addison Rae slammed for greeting ex-President Trump at event",
       "excerpt": "Once the TikToker got his attention, the two shook hands and she mentioned that she just “had to say hi” and that it was “so nice to meet you.” Social media users were not",
@@ -1258,62 +1310,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-donald-trump-and-kevin-mccarthy-to-meet-on-thursday-as-16-committee-hearing-looms.md",
-      "title": "Donald Trump and Kevin McCarthy to meet on Thursday as 1/6 committee hearing looms",
-      "excerpt": "House GOP Leader Kevin McCarthy is expected to meet with former President Donald Trump on Thursday, Trump announced in a statement, coming as the California Republican is considering which members of his conference to appoint to a special committee tasked with investigating the deadly January 6 riot",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GWPqFobn8SU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GWPqFobn8SU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210512104940-kevin-mccarthy-2020-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/15/politics/donald-trump-kevin-mccarthy-meeting/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/donald-trump-kevin-mccarthy-meeting/index.html",
-      "publishedDateTime": "2021-07-15T06:36:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

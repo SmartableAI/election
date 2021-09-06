@@ -2,6 +2,62 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2021-06-02-well-paid-aoc-dinged-after-posting-photo-of-grandmas-dilapidated-puerto-rico-home-and-blaming-trump.md",
+      "title": "Well-paid AOC dinged after posting photo of grandma's dilapidated Puerto Rico home and blaming Trump",
+      "excerpt": "Rep. Alexandria Ocasio-Cortez posted a photo of her grandmother’s Puerto Rico home in a state of disrepair in the aftermath of Hurricane Maria to demonstrate how the U.S. had blocked relief to the territory, but some questioned why she hadn’t offered to help repair the home herself.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HZ4EpfCUyEo/aoc-photo-grandmothers-home-puerto-rico-trump-blocked-relief",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HZ4EpfCUyEo/aoc-photo-grandmothers-home-puerto-rico-trump-blocked-relief",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/aoc.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/aoc-photo-grandmothers-home-puerto-rico-trump-blocked-relief.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-photo-grandmothers-home-puerto-rico-trump-blocked-relief.amp",
+      "publishedDateTime": "2021-06-02T15:40:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-biden-to-talk-again-with-capito-on-friday-to-try-to-forge-infrastructure-deal.md",
       "title": "Biden to talk again with Capito on Friday to try to forge 'infrastructure' deal",
       "excerpt": "President Biden and Sen. Shelley Moore Capito, R-W.Va., had a \"constructive\" meeting Wednesday at the White House in their effort to forge a bipartisan deal on infrastructure spending and intend to talk again Friday, according to the Biden Administration.",
@@ -1286,58 +1342,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-trump-supporters-celebrate-memorial-day-with-boat-parade-in-florida.md",
-      "title": "Trump supporters celebrate Memorial Day with boat parade in Florida",
-      "excerpt": "Supporters of former President Donald Trump celebrated Memorial Day with a boat parade in Jupiter, Florida, on May 31. Credit: Juan Fiol via Storyful.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/politics/2021/06/01/trump-supporters-celebrate-memorial-day-boat-parade-florida/5288009001/",
-      "originalUrl": "https://www.usatoday.com/videos/news/politics/2021/06/01/trump-supporters-celebrate-memorial-day-boat-parade-florida/5288009001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/8a18dbe5-929c-4ef4-ba67-6afe7e22db8a_poster.jpg?quality=10",
-          "width": 459,
-          "height": 284,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

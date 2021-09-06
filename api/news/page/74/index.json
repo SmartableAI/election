@@ -2,6 +2,58 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2021-04-07-momentous-error-italian-businessman-mistakenly-blacklisted-by-trump-to-sue.md",
+      "title": "‘Momentous error’: Italian businessman mistakenly blacklisted by Trump to sue",
+      "excerpt": "Alessandro Bazzoni, who owns a graphic design company in Sardinia, has been unable to trade since 19 January, when his business was slapped with sanctions as part of the Trump administration’s crackdown on blacklisted Venezuelan crude oil. In a case of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/apr/06/italian-business-owner-to-sue-us-treasury-over-blacklist-error?share=twitter",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/06/italian-business-owner-to-sue-us-treasury-over-blacklist-error?share=twitter",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/77075f50416d6dfd7c52865ed208c33f15ee696b/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a4cb2879f6959f413724f182ed9e8d11",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/06/italian-business-owner-to-sue-us-treasury-over-blacklist-error",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/06/italian-business-owner-to-sue-us-treasury-over-blacklist-error",
+      "publishedDateTime": "2021-04-06T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-former-trump-hud-official-fined-and-barred-from-federal-work-over-hatch-act-violation.md",
       "title": "Former Trump HUD official fined and barred from federal work over Hatch Act violation",
       "excerpt": "A former Housing and Urban Development official and Trump family associate has been fined and barred from federal work for violating the Hatch Act's prohibition of use of official authority after she blurred the lines between official business and politics by producing a video for the 2020 Republican",
@@ -1289,58 +1341,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-04-trump-blasted-by-former-staffer-miles-taylor-for-deceptive-fundraising-payment-scheme.md",
-      "title": "Trump Blasted by Former Staffer Miles Taylor for Deceptive Fundraising Payment Scheme",
-      "excerpt": "Above, Donald Trump speaks during the Conservative Political Action Conference (CPAC) on February 28, 2021 in Orlando, Florida. Joe Raedle/Getty Images \"And to raid someone of their money at the end of their life has got to add onto that hardship for the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-blasted-former-staffer-miles-taylor-deceptive-fundraising-payment-scheme-1580952",
-      "originalUrl": "https://www.newsweek.com/trump-blasted-former-staffer-miles-taylor-deceptive-fundraising-payment-scheme-1580952",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1771467/donald-trump-miles-taylor-election.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-blasted-former-staffer-miles-taylor-deceptive-fundraising-payment-scheme-1580952?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-blasted-former-staffer-miles-taylor-deceptive-fundraising-payment-scheme-1580952?amp=1",
-      "publishedDateTime": "2021-04-04T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,62 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2021-04-15-sen-graham-slams-biden-dems-for-court-packing-attempt-they-are-really-drunk-with-power.md",
+      "title": "Sen. Graham slams Biden, Dems for court-packing attempt: They are 'really drunk with power'",
+      "excerpt": "Senator Lindsey Graham responds to Democrats' legislation to pack the Supreme Court, and U.S. troops leaving Afghanistan on 'The Story'",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dsVq0EZNuMs/graham-slams-biden-dems-drunk-with-power",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dsVq0EZNuMs/graham-slams-biden-dems-drunk-with-power",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/graham-slams-biden-dems-drunk-with-power.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-slams-biden-dems-drunk-with-power.amp",
+      "publishedDateTime": "2021-04-15T14:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-15-nikki-haley-calls-biden-un-ambassadors-us-criticism-a-win-for-our-enemies.md",
       "title": "Nikki Haley calls Biden UN ambassador's US criticism 'a win for our enemies'",
       "excerpt": "Nikki Haley on Thursday tore into the claim by U.S. Ambassador to the U.N. Linda Thomas-Greenfield that White supremacy was \"weaved\" into U.S. founding documents and principles – with Haley saying the criticism was a \"win for our enemies.\"",
@@ -1306,58 +1362,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-rand-paul-says-fauci-acts-against-the-science-wants-people-to-stay-in-bidens-basement.md",
-      "title": "Rand Paul Says Fauci Acts 'Against the Science,' Wants People to Stay In 'Biden's Basement'",
-      "excerpt": "Sen. Rand Paul (R-Ky.) continued his pubic dispute with Dr. Anthony Fauci on Tuesday, claiming that Fauci wants Americans to remain in President Joe Biden's \"basement\" even if they have been vaccinated against COVID-19. Fauci, the nation's top infectious ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/rand-paul-says-fauci-acts-against-science-wants-people-stay-bidens-basement-1583431",
-      "originalUrl": "https://www.newsweek.com/rand-paul-says-fauci-acts-against-science-wants-people-stay-bidens-basement-1583431",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1777376/rand-paul-anthony-fauci-covid-19-vaccines-biden.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/rand-paul-says-fauci-acts-against-science-wants-people-stay-bidens-basement-1583431?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/rand-paul-says-fauci-acts-against-science-wants-people-stay-bidens-basement-1583431?amp=1",
-      "publishedDateTime": "2021-04-13T19:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

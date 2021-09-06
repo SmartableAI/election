@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-03-trump-administration-deliberately-slowed-entry-of-afghan-allies.md",
+      "title": "Trump administration deliberately slowed entry of Afghan allies",
+      "excerpt": "Stephen Miller seemed floored by the idea, raised during a fall Cabinet meeting in 2018, of  keeping open the doors for Afghan allies and other Middle East refugees to enter the US. \n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d_gDGsC3zTw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d_gDGsC3zTw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/191213122539-stephen-miller-white-house-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/03/politics/trump-adviser-stephen-miller-afghan-allies-us-entry/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/03/politics/trump-adviser-stephen-miller-afghan-allies-us-entry/index.html",
+      "publishedDateTime": "2021-09-03T10:54:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-03-kamala-harris-early-years-at-school-through-the-other-girl-on-the-bus.md",
       "title": "Kamala Harris’ Early Years At School Through ‘The Other Girl on The Bus’",
       "excerpt": "Carole Porter, a childhood friend of US VP Kamala Harris, talks about her memories of being bussed to school. Carole Porter lived in a little yellow house, a few doors from Kamala Harris who lived in a duplex on Bancroft street,",
@@ -195,7 +251,7 @@
       "originalUrl": "https://www.cnbc.com/2021/09/03/trump-should-not-lead-gop-ticket-in-2024-retiring-sen-pat-toomey-says.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 345,
+      "heat": 365,
       "tags": null,
       "images": [
         {
@@ -1220,62 +1276,6 @@
       "topics": [
         "Election",
         "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-florida-restaurant-owner-posts-sign-telling-biden-supporters-to-take-business-elsewhere.md",
-      "title": "Florida restaurant owner posts sign telling Biden supporters to 'take business elsewhere'",
-      "excerpt": "A Florida restaurant raised eyebrows after posting a sign outsider the front door telling Biden supporters to dine elsewhere citing his recent handling of the American military withdrawal from Afghanistan.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wrTdQn23Icw/florida-restaurant-owner-posts-sign-telling-biden-supports-to-take-business-elsewhere",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wrTdQn23Icw/florida-restaurant-owner-posts-sign-telling-biden-supports-to-take-business-elsewhere",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dc72ea68-4167-41c2-8ad5-9f3aea6239a7/914977d0-3a4a-4385-8d30-416fec15aa84/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/florida-restaurant-owner-posts-sign-telling-biden-supports-to-take-business-elsewhere.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-restaurant-owner-posts-sign-telling-biden-supports-to-take-business-elsewhere.amp",
-      "publishedDateTime": "2021-09-01T18:03:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

@@ -2,6 +2,62 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-07-22-former-education-sec-devos-blasts-biden-admins-many-ties-to-twisted-and-warped-critical-race-theory.md",
+      "title": "Former Education Sec. DeVos blasts Biden admin's 'many ties' to 'twisted and warped' critical race theory",
+      "excerpt": "EXCLUSIVE: Former Department of Education Secretary Betsy DeVos said it is \"appalling\" to see close ties between radical groups pushing critical race theory and the Biden administration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q0_YXjySjSk/betsy-devos-biden-admin-critical-race-thory-ties",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q0_YXjySjSk/betsy-devos-biden-admin-critical-race-thory-ties",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c860925-7840-4d17-a210-b9bc26114022/a06fe2da-965b-416f-aab6-e55e1b160199/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/betsy-devos-biden-admin-critical-race-thory-ties.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/betsy-devos-biden-admin-critical-race-thory-ties.amp",
+      "publishedDateTime": "2021-07-22T11:56:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-democrats-rally-for-biden-public-lands-pick-despite-scrutiny-from-republicans.md",
       "title": "Democrats rally for Biden public lands pick despite scrutiny from Republicans",
       "excerpt": "A bitterly divided U.S. Senate panel deadlocked Thursday on President Joe Biden’s pick to oversee vast government-owned lands in the West.",
@@ -1304,62 +1360,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-ukrainian-president-zelensky-to-visit-biden-in-august.md",
-      "title": "Ukrainian president Zelensky to visit Biden in August",
-      "excerpt": "Ukrainian President Volodymyr Zelensky is set to meet with President Biden next month, the White House announced Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hN0eY0h6bdo/ukrainian-president-to-visit-biden-in-august",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hN0eY0h6bdo/ukrainian-president-to-visit-biden-in-august",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 335,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/216af4a8-262c-428f-8c3c-b0753edaf990/d499b3d7-637d-4397-b5ce-8e666de59a61/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ukrainian-president-to-visit-biden-in-august.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ukrainian-president-to-visit-biden-in-august.amp",
-      "publishedDateTime": "2021-07-21T13:49:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2021-04-11-clyburn-offers-manchin-history-lesson-to-clear-senate-path-for-biden-reforms.md",
+      "title": "Clyburn offers Manchin history lesson to clear Senate path for Biden reforms",
+      "excerpt": "said on Sunday he intends to give Joe Manchin a lesson in US history as he attempts to clear a path for Joe Biden on voting rights and infrastructure. Pelosi and Cheney critical of Gaetz but stop short of calling for resignation Manchin, a moderate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/apr/11/jim-clyburn-joe-manchin-voting-rights-georgia-jim-crow",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/11/jim-clyburn-joe-manchin-voting-rights-georgia-jim-crow",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/b9f072380b00e5cd707546e93628bd39d3af75d4/208_481_3048_1828/master/3048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fe43afa6d72afd4bc9d30670810e50a4",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/11/jim-clyburn-joe-manchin-voting-rights-georgia-jim-crow",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/11/jim-clyburn-joe-manchin-voting-rights-georgia-jim-crow",
+      "publishedDateTime": "2021-04-11T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-11-moment-of-trial-balloons-democrats-debate-what-to-cut-from-biden-bill.md",
       "title": "'Moment of trial balloons': Democrats debate what to cut from Biden bill",
       "excerpt": "President Joe Biden says he views his $2 trillion-plus infrastructure plan as simply a starting point for negotiations with Congress, a draft document of ideals where “compromise is inevitable.” But even as the White House maintains it is looking for ...",
@@ -1299,58 +1351,6 @@
       "topics": [
         "Election",
         "Mike Pence",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-marjorie-taylor-greene-slams-anti-trump-republican-consultants-calls-them-poison-to-party.md",
-      "title": "Marjorie Taylor Greene Slams Anti-Trump 'Republican' Consultants, Calls Them Poison to Party",
-      "excerpt": "Representative Marjorie Taylor Greene (R-Ga.), a staunch supporter of former President Donald Trump, criticized those who think it's best to distance themselves from him as being a \"poison\" to the GOP. After Trump's exit from the White House, the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/marjorie-taylor-greene-slams-anti-trump-republican-consultants-calls-them-poison-party-1582381",
-      "originalUrl": "https://www.newsweek.com/marjorie-taylor-greene-slams-anti-trump-republican-consultants-calls-them-poison-party-1582381",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1774623/marjorie-taylor-greene-trump.jpg",
-          "width": 2500,
-          "height": 1653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/marjorie-taylor-greene-slams-anti-trump-republican-consultants-calls-them-poison-party-1582381?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/marjorie-taylor-greene-slams-anti-trump-republican-consultants-calls-them-poison-party-1582381?amp=1",
-      "publishedDateTime": "2021-04-09T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Donald Trump"
       ]
     }

@@ -2,6 +2,54 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-07-07-nj-devils-owners-replacing-trump-organization-as-wollman-rink-operator.md",
+      "title": "NJ Devils owners replacing Trump Organization as Wollman Rink operator",
+      "excerpt": "The owners of the New Jersey Devils and two partners have been selected to run Wollman Rink in Central Park after the city booted its long-term operator, the Trump Organization.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/07/06/owners-of-nj-devils-to-run-wollman-rink-in-central-park/",
+      "originalUrl": "https://nypost.com/2021/07/06/owners-of-nj-devils-to-run-wollman-rink-in-central-park/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/HarrisBlitzer.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/07/06/owners-of-nj-devils-to-run-wollman-rink-in-central-park/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/06/owners-of-nj-devils-to-run-wollman-rink-in-central-park/amp/",
+      "publishedDateTime": "2021-07-06T11:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-06-senate-hopeful-jd-vance-apologizes-for-criticizing-trump-as-reprehensible-in-deleted-tweets.md",
       "title": "Senate hopeful J.D. Vance apologizes for criticizing Trump as 'reprehensible' in deleted tweets ",
       "excerpt": "J.D. Vance, a venture capitalist and best-selling author who last week entered the Republican primary for Ohio's open Senate seat in 2022, apologized for criticizing former President Donald Trump in now-deleted tweets.\n    \n",
@@ -1260,58 +1308,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-04-walmart-att-and-pfizer-back-lawmakers-who-supported-trump-election-fraud-lies-6-months-after-capitol-attack.md",
-      "title": "Walmart, AT&T and Pfizer back lawmakers who supported Trump election fraud lies 6 months after Capitol attack",
-      "excerpt": "Dozens of companies said they'd stop donating to lawmakers who objected to Biden's election victory. Six months later, they are funneling cash to PACs",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/money/2021/07/04/trump-fraud-election-capitol-attack-biden-walmart-pfizer/7858271002/",
-      "originalUrl": "https://www.usatoday.com/story/money/2021/07/04/trump-fraud-election-capitol-attack-biden-walmart-pfizer/7858271002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/04/02/USAT/e829446f-398e-49ca-8ab4-afc2b09756bd-AP_Capitol_Breach_Extremist_Plots.jpg?auto=webp&crop=4948,2783,x236,y414&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7858271002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7858271002",
-      "publishedDateTime": "2021-07-04T07:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

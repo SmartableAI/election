@@ -47,6 +47,22 @@ related:
         width: 3744
         height: 5616
         isCached: true
+  - title: "Donald Trump Says Not Yet Sure Whether He Supports Texas Abortion Law"
+    excerpt: "Trump dodged when asked whether he agrees with the Supreme Court ruling, saying it's \"complex and also probably temporary.\""
+    publishedDateTime: 2021-09-05T22:27:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-says-not-yet-sure-whether-he-supports-texas-abortion-law-1626284"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-says-not-yet-sure-whether-he-supports-texas-abortion-law-1626284?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-says-not-yet-sure-whether-he-supports-texas-abortion-law-1626284?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1887991/trump-texas-abortion-supreme-court-ruling.jpg"
+        width: 3428
+        height: 2486
+        isCached: true
   - title: "Former President Donald Trump says he will return to Iowa, adding grist to 2024 speculation"
     excerpt: "Trump's announcement on the show comes as other potential Republican presidential contenders are already making trips to Iowa."
     publishedDateTime: 2021-08-31T17:05:00Z

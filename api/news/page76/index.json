@@ -2,6 +2,58 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2021-04-02-biden-affirms-us-unwavering-support-for-ukraine-in-call-statement.md",
+      "title": "Biden affirms U.S. 'unwavering support' for Ukraine in call: statement",
+      "excerpt": "WASHINGTON (Reuters) - U.S. President Joe Biden on Friday expressed the United States’ strong support for Ukraine in a call with the country’s president, Volodymyr Zelenskiy, the White House said. “President Biden affirmed the United States ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-ukraine-biden-idUSKBN2BP14C",
+      "originalUrl": "https://www.reuters.com/article/us-usa-ukraine-biden-idUSKBN2BP14C",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210402&t=2&i=1557158938&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH310OJ",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BP14C",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BP14C",
+      "publishedDateTime": "2021-04-02T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-02-us-iran-agree-to-begin-indirect-talks-on-limiting-irans-nuclear-program-nearly-3-years-after-trump-pulled-out-of-deal.md",
       "title": "US, Iran agree to begin indirect talks on limiting Iran's nuclear program, nearly 3 years after Trump pulled out of deal",
       "excerpt": "US, Iran agree to begin indirect talks on limiting Iran's nuclear program, nearly 3 years after Trump pulled out of deal WASHINGTON -- US, Iran agree to begin indirect talks on limiting Iran's ...",
@@ -1293,58 +1345,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-jill-biden-urges-farmworkers-to-get-vaccinated-in-california.md",
-      "title": "Jill Biden urges farmworkers to get vaccinated in California",
-      "excerpt": "First lady Jill Biden is praising California farmworkers for their persistence during the pandemic and urging them to get vaccinated",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Health/wireStory/jill-biden-urges-farmworkers-vaccinated-california-76800132",
-      "originalUrl": "https://abcnews.go.com/Health/wireStory/jill-biden-urges-farmworkers-vaccinated-california-76800132",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Health/WireAP_582476d4c83f4a849953260173f0be01_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T21:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

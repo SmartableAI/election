@@ -2,6 +2,58 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2021-05-13-biden-says-that-fuel-is-beginning-to-flow-as-administration-struggles-to-limit-political-damage-from-gas-shortage.md",
+      "title": "Biden says that fuel is ‘beginning to flow,’ as administration struggles to limit political damage from gas shortage",
+      "excerpt": "Republicans have seized on the crisis to attack Biden’s energy policies and portray him as an agent of chaos amid other challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/biden-gas-shortage-hack/2021/05/12/75869444-b33a-11eb-9059-d8176b9e3798_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/biden-gas-shortage-hack/2021/05/12/75869444-b33a-11eb-9059-d8176b9e3798_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LJC2E7VTKMI6XPEW7X2V3ZB354.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-gas-shortage-hack/2021/05/12/75869444-b33a-11eb-9059-d8176b9e3798_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-gas-shortage-hack/2021/05/12/75869444-b33a-11eb-9059-d8176b9e3798_story.html?outputType=amp",
+      "publishedDateTime": "2021-05-13T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-back-to-square-one-trump-decision-still-weighs-on-facebook.md",
       "title": "Back to square one? Trump decision still weighs on Facebook",
       "excerpt": "Suppose you were Mark Zuckerberg, recently ordered by an advisory board to decide how long former President Donald Trump should stay banned from Facebook. How do you make that decision without alienating key constituencies — advertisers,",
@@ -1269,58 +1321,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-analysis-violence-upends-bidens-israel-palestinian-outlook.md",
-      "title": "Analysis: Violence upends Biden's Israel-Palestinian outlook",
-      "excerpt": "The surge in Israeli-Palestinian violence has flummoxed the Biden administration in its first four months as it attempts to craft a Middle East policy it believes will be more durable and fairer than",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/analysis-violence-upends-bidens-israel-palestinian-outlook/2021/05/12/88a0876e-b2d7-11eb-bc96-fdf55de43bef_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/analysis-violence-upends-bidens-israel-palestinian-outlook/2021/05/12/88a0876e-b2d7-11eb-bc96-fdf55de43bef_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 385,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AN6GYPFSUEI6XPEW7X2V3ZB354.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/analysis-violence-upends-bidens-israel-palestinian-outlook/2021/05/12/88a0876e-b2d7-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/analysis-violence-upends-bidens-israel-palestinian-outlook/2021/05/12/88a0876e-b2d7-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
-      "publishedDateTime": "2021-05-12T01:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

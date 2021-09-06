@@ -2,6 +2,62 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-08-17-trump-calls-on-biden-to-resign-in-disgrace-over-crisis-in-afghanistan.md",
+      "title": "Trump calls on Biden to 'resign in disgrace' over crisis in Afghanistan",
+      "excerpt": "Former President Donald Trump Sunday called on President Biden to “resign in disgrace” over his handling of the Afghanistan withdrawal and other issues.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cyT6YUTIljA/trump-biden-resign-crisis-afghanistan",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cyT6YUTIljA/trump-biden-resign-crisis-afghanistan",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 810,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ecd8df71-ba81-431f-8bdf-f6e8d97bea4c/f44d298e-4ca6-4f7c-b579-34b93f98f4cd/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-biden-resign-crisis-afghanistan.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-resign-crisis-afghanistan.amp",
+      "publishedDateTime": "2021-08-16T19:08:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-todd-wondered-if-the-messy-afghan-withdrawal-will-weaken-trumps-hold-of-the-gop-over-time.md",
       "title": "Todd wondered if the messy Afghan withdrawal will 'weaken Trump's hold' of the GOP over time",
       "excerpt": "NBC anchor Chuck Todd spoke with certainty that the turmoil that has erupted during President Biden's military withdrawal in Afghanistan would have also occurred under President Trump.",
@@ -1229,49 +1285,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-billy-long-touts-trump-ties-during-senate-seat-campaign-rally-in-joplin.md",
-      "title": "Billy Long touts Trump ties during Senate seat campaign rally in Joplin",
-      "excerpt": "Mo., touted his strong friendship with former President Donald Trump during a Thursday morning campaign rally stop at Cunningham Park.",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/news/billy-long-touts-trump-ties-during-senate-seat-campaign-rally-in-joplin/article_87dc1e7a-fba1-11eb-9adf-0b3478643ab3.html",
-      "originalUrl": "https://www.joplinglobe.com/news/billy-long-touts-trump-ties-during-senate-seat-campaign-rally-in-joplin/article_87dc1e7a-fba1-11eb-9adf-0b3478643ab3.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/1/34/134c0f34-fba6-11eb-b9e6-bf4cfe2dcb45/61157abb2e912.image.jpg?resize=957%2C630",
-          "width": 957,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

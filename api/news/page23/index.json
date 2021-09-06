@@ -2,6 +2,62 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-07-15-donald-trump-and-kevin-mccarthy-to-meet-on-thursday-as-16-committee-hearing-looms.md",
+      "title": "Donald Trump and Kevin McCarthy to meet on Thursday as 1/6 committee hearing looms",
+      "excerpt": "House GOP Leader Kevin McCarthy is expected to meet with former President Donald Trump on Thursday, Trump announced in a statement, coming as the California Republican is considering which members of his conference to appoint to a special committee tasked with investigating the deadly January 6 riot",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GWPqFobn8SU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GWPqFobn8SU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210512104940-kevin-mccarthy-2020-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/15/politics/donald-trump-kevin-mccarthy-meeting/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/donald-trump-kevin-mccarthy-meeting/index.html",
+      "publishedDateTime": "2021-07-15T06:36:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-ingraham-angle-on-biden-calling-un-probe-on-us-south-african-riots.md",
       "title": "'Ingraham Angle' on Biden calling UN probe on US, South African riots",
       "excerpt": "They even invited the UN to come in and grade their anti-racism efforts. This is completely insane. But again, they're a bunch of self loathing idiots. They're happiest when America is down on our knees,",
@@ -1296,63 +1352,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-gutfeld-rips-biden-as-pathological-liar-injecting-race-into-election-law-speech-amid-texas-standoff.md",
-      "title": "Gutfeld rips Biden as 'pathological liar' injecting race into election law speech amid Texas standoff",
-      "excerpt": "The Five” host Greg Gutfeld blasted President Joe Biden as a “pathological, shameless liar” after the Delaware Democrat injected race into a Philadelphia speech about election laws, as Texas state Democratic lawmakers flew to Washington,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/gutfeld-rips-biden-as-pathological-liar-injecting-race-into-election-law-speech-amid-texas-law-battle",
-      "originalUrl": "https://www.foxnews.com/media/gutfeld-rips-biden-as-pathological-liar-injecting-race-into-election-law-speech-amid-texas-law-battle",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15acd04c-ce05-489f-b4ff-0c3c721a9261/c65b3c24-a176-43f7-9682-1e934821161f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/gutfeld-rips-biden-as-pathological-liar-injecting-race-into-election-law-speech-amid-texas-law-battle.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/gutfeld-rips-biden-as-pathological-liar-injecting-race-into-election-law-speech-amid-texas-law-battle.amp",
-      "publishedDateTime": "2021-07-13T15:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

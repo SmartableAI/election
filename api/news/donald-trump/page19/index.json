@@ -2,6 +2,63 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-04-13-subpoenaing-the-brookings-institution-durham-focuses-on-trump-russia-dossier.md",
+      "title": "Subpoenaing the Brookings Institution, Durham Focuses on Trump-Russia Dossier",
+      "excerpt": "Greg Kahn for The New York Times By Charlie Savage and Adam Goldman WASHINGTON — Exiled from Twitter, former President Donald J. Trump issued a sarcastic statement recently inquiring about the ongoing public silence from John H. Durham, the special ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/04/12/us/politics/durham-investigation-brookings-institution.html",
+      "originalUrl": "https://www.nytimes.com/2021/04/12/us/politics/durham-investigation-brookings-institution.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/04/12/us/politics/12dc-durham1/12dc-durham1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/04/12/us/politics/durham-investigation-brookings-institution.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/12/us/politics/durham-investigation-brookings-institution.amp.html",
+      "publishedDateTime": "2021-04-12T13:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-rep-liz-cheney-criticized-trump-for-embracing-insurrection-in-a-wild-speech-deepening-a-gop-rift.md",
       "title": "Rep. Liz Cheney criticized Trump for 'embracing insurrection' in a wild speech, deepening a GOP rift",
       "excerpt": "An envelope. It indicates the ability to send an email. Rep. Liz Cheney criticized former president Donald Trump for continuing to use the incendiary rhetoric that she claims provoked the January 6 riot at the US Capitol. Cheney was responding to a wild ...",
@@ -1535,63 +1592,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-trump-slams-woke-mlb-in-tv-interview-claims-fans-giving-up-on-baseball.md",
-      "title": "Trump slams 'woke' MLB in TV interview, claims fans 'giving up on baseball'",
-      "excerpt": "In a TV interview on Tuesday, former President Trump expounded on his recent statements objecting to Major League Baseball's recent decision to move the All-Star Game out of Atlanta. The league's move was a reaction to Georgia's recently passed voting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/trump-slams-woke-mlb-in-tv-interview-claims-fans-giving-up-on-baseball",
-      "originalUrl": "https://www.foxnews.com/media/trump-slams-woke-mlb-in-tv-interview-claims-fans-giving-up-on-baseball",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20334644546013-e1606925054815.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/trump-slams-woke-mlb-in-tv-interview-claims-fans-giving-up-on-baseball.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-slams-woke-mlb-in-tv-interview-claims-fans-giving-up-on-baseball.amp",
-      "publishedDateTime": "2021-04-07T01:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

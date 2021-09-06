@@ -2,6 +2,62 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-06-07-liz-cheney-what-trump-did-is-the-most-egregious-violation.md",
+      "title": "Liz Cheney: What Trump did is 'the most egregious violation'",
+      "excerpt": "Rep. Liz Cheney (R-WY) shares her thoughts on the aftermath of the January 6th insurrection with CNN's David Axelrod on his podcast, \"The Axe Files\".\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fYg3Qy-quOs/liz-cheney-trump-january-6th-kevin-mccarthy-newday-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fYg3Qy-quOs/liz-cheney-trump-january-6th-kevin-mccarthy-newday-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210503055421-liz-cheney-donald-trump-split-for-video-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/06/07/liz-cheney-trump-january-6th-kevin-mccarthy-newday-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/06/07/liz-cheney-trump-january-6th-kevin-mccarthy-newday-vpx.cnn",
+      "publishedDateTime": "2021-06-07T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-07-the-never-ending-ever-frustrating-hunt-for-the-biden-doctrine.md",
       "title": "The never-ending, ever-frustrating hunt for the ‘Biden doctrine’",
       "excerpt": "For decades, Washington has been searching for Joe Biden's foreign policy vision. But why?",
@@ -1313,62 +1369,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-facebook-says-trump-now-suspended-until-at-least-january-2023.md",
-      "title": "Facebook says Trump now suspended until at least January 2023",
-      "excerpt": "Facebook announced Friday that former President Donald Trump would be suspended from its platform until at least January 7th, 2023 -- two years from when he was initially suspended.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-Q51gWweaho/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-Q51gWweaho/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210604130847-01-trump-phone-june2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/04/tech/facebook-politicians/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/04/tech/facebook-politicians/index.html",
-      "publishedDateTime": "2021-06-04T10:45:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

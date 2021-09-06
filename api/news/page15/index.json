@@ -2,6 +2,62 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-08-01-trumps-fundraising-prowess-82-million-haul-during-first-half-of-2021.md",
+      "title": "Trump’s fundraising prowess: $82 million haul during first half of 2021",
+      "excerpt": "Former President Trump’s various political committees brought in a combined $82 million in fundraising during the first six months of 2021.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dhQUibOGiSQ/trumps-fundraising-prowess-82-million-haul-during-first-half-of-2021",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dhQUibOGiSQ/trumps-fundraising-prowess-82-million-haul-during-first-half-of-2021",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trumps-fundraising-prowess-82-million-haul-during-first-half-of-2021.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-fundraising-prowess-82-million-haul-during-first-half-of-2021.amp",
+      "publishedDateTime": "2021-08-01T07:29:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-01-kinzinger-mccarthy-and-jordan-should-face-6-january-subpoenas-but-maybe-not-trump.md",
       "title": "Kinzinger: McCarthy and Jordan should face 6 January subpoenas – but maybe not Trump",
       "excerpt": "Republican on select committee seeks Capitol attack answers but Collins toes GOP line in saying panel not sufficiently bipartisan",
@@ -1270,54 +1326,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-dems-worried-about-kamala-harris-approval-more-harm-than-good.md",
-      "title": "Dems worried about Kamala Harris approval: ‘More harm than good’",
-      "excerpt": "As Vice President Kamala Harris’ poll numbers remain underwater, some Democrats are worried that she could become a drag on their efforts to maintain control of congress in the 2022 midterm",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/29/democrats-worried-about-kamala-harris-approval-numbers/",
-      "originalUrl": "https://nypost.com/2021/07/29/democrats-worried-about-kamala-harris-approval-numbers/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/kamala-harris-ratings-04.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/29/democrats-worried-about-kamala-harris-approval-numbers/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/29/democrats-worried-about-kamala-harris-approval-numbers/amp/",
-      "publishedDateTime": "2021-07-29T12:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
       ]
     }
   ],

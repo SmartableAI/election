@@ -2,6 +2,58 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2021-05-10-roger-stone-said-michael-flynn-should-be-drafted-by-trump-supporters-for-2024-run-if-trump-decides-not-to.md",
+      "title": "Roger Stone said Michael Flynn should be 'drafted' by Trump supporters for 2024 run if Trump decides not to",
+      "excerpt": "Roger Stone appeared on Newsmax to tout Michael Flynn, a fellow longtime Trump ally and conspiracy theorist who was pardoned by the former president.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/roger-stone-michael-flynn-trump-2024-election-supporters-2021-5",
+      "originalUrl": "https://www.businessinsider.com/roger-stone-michael-flynn-trump-2024-election-supporters-2021-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5c956a69ffcb27247e073fb8?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/roger-stone-michael-flynn-trump-2024-election-supporters-2021-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/roger-stone-michael-flynn-trump-2024-election-supporters-2021-5?amp",
+      "publishedDateTime": "2021-05-09T14:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-10-pastor-greg-locke-attacks-joe-biden-calls-pope-biggest-pedophile-on-the-planet.md",
       "title": "Pastor Greg Locke Attacks Joe Biden, Calls Pope 'Biggest Pedophile on the Planet'",
       "excerpt": "People tell me \"Joe Biden is a practicing Catholic,\" Locke said. \"So is the pope but he's the biggest pedophile on the planet.\"",
@@ -1302,62 +1354,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-stefanik-says-gop-needs-to-be-one-team-in-2022-is-committed-to-working-with-trump.md",
-      "title": "Stefanik says GOP needs to be 'one team' in 2022, is committed to working with Trump",
-      "excerpt": "Rep. Elise Stefanik said Thursday that Republicans need to work as \"one team\" in 2022 to win back the House of Representatives, comments made as she emerges as the favorite to replace Rep. Liz Cheney as the House Republican Conference chair.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/z7nmdw7v-ww/stefanik-republicans-one-team-working-with-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/z7nmdw7v-ww/stefanik-republicans-one-team-working-with-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/stefanik-republicans-one-team-working-with-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stefanik-republicans-one-team-working-with-trump.amp",
-      "publishedDateTime": "2021-05-06T09:44:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

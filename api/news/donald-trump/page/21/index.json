@@ -2,6 +2,54 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-04-01-donald-trump-moving-forward-with-plans-for-own-social-media-platform.md",
+      "title": "Donald Trump ‘moving forward’ with plans for own social media platform",
+      "excerpt": "Former President Donald Trump and his team are “moving forward” with plans to create their own social media platform, a report published Wednesday said. “We’re moving forward,”",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/31/trump-moving-forward-with-plan-for-social-media-platform/",
+      "originalUrl": "https://nypost.com/2021/03/31/trump-moving-forward-with-plan-for-social-media-platform/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-social-media.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/31/trump-moving-forward-with-plan-for-social-media-platform/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/31/trump-moving-forward-with-plan-for-social-media-platform/amp/",
+      "publishedDateTime": "2021-03-31T11:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-donald-trump-video-clip-removed-from-facebook-in-line-with-block.md",
       "title": "Donald Trump video clip removed from Facebook ‘in line with block’",
       "excerpt": "Former US president has been banned from the platform since early January after the violent insurrection of the Capitol Last modified on Wed 31 Mar 2021 15.23 EDT Facebook on Wednesday removed a clip of an interview with Donald Trump from its platform ...",

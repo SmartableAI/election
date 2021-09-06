@@ -358,14 +358,14 @@ related:
   - title: "President Joe Biden Delivers Remarks on the Jobs Report"
     excerpt: "U.S. President Joe Biden delivers remarks on the August jobs report on Friday, September 3, 2021, in the State Dining Room at the White House in Washington DC. Photo by Ken Cedeno/UPI"
     publishedDateTime: 2021-09-03T16:36:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/054e4f078ff28ac229f9b6b04c8a0596/President-Joe-Biden-Delivers-Remarks-on-the-Jobs-Report/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/6249215a66613293fe51e8897de2378b/President-Joe-Biden-Delivers-Remarks-on-the-Jobs-Report/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/054e4f078ff28ac229f9b6b04c8a0596/BIDEN-JOBS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/6249215a66613293fe51e8897de2378b/BIDEN-JOBS.jpg"
         width: 650
         height: 433
         isCached: true

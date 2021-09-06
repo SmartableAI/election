@@ -2,6 +2,63 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2021-04-08-damn-it-im-sick-and-tired-of-ordinary-people-being-fleeced-biden-defends-corporate-tax-hike.md",
+      "title": "‘Damn it … I’m sick and tired of ordinary people being fleeced’: Biden defends corporate tax hike",
+      "excerpt": "President Joe Biden on Wednesday defended raising the corporate tax rate to help pay for his infrastructure plan, saying he’s “sick and tired of ordinary people being fleeced.” Biden slammed former President Donald Trump’s corporate tax rate cuts ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/04/07/biden-infrastructure-speech-479721",
+      "originalUrl": "https://www.politico.com/news/2021/04/07/biden-infrastructure-speech-479721",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/c3/24/49791ee84b6a94e296633797d05f/210407-biden-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2021/04/07/biden-infrastructure-speech-479721",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/07/biden-infrastructure-speech-479721",
+      "publishedDateTime": "2021-04-07T12:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-nasty-notes-left-for-trump-staffers-came-from-celebs-not-obama-aides-dave-chappelle-says.md",
       "title": "Nasty notes left for Trump staffers came from celebs, not Obama aides, Dave Chappelle says",
       "excerpt": "When former President Donald Trump first moved into the White House in January 2017, his staffers said they found nasty notes stuffed into the drawers and cabinets — a claim President Barack",
@@ -1277,58 +1334,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-momentous-error-italian-businessman-mistakenly-blacklisted-by-trump-to-sue.md",
-      "title": "‘Momentous error’: Italian businessman mistakenly blacklisted by Trump to sue",
-      "excerpt": "Alessandro Bazzoni, who owns a graphic design company in Sardinia, has been unable to trade since 19 January, when his business was slapped with sanctions as part of the Trump administration’s crackdown on blacklisted Venezuelan crude oil. In a case of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/apr/06/italian-business-owner-to-sue-us-treasury-over-blacklist-error?share=twitter",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/06/italian-business-owner-to-sue-us-treasury-over-blacklist-error?share=twitter",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/77075f50416d6dfd7c52865ed208c33f15ee696b/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a4cb2879f6959f413724f182ed9e8d11",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/06/italian-business-owner-to-sue-us-treasury-over-blacklist-error",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/06/italian-business-owner-to-sue-us-treasury-over-blacklist-error",
-      "publishedDateTime": "2021-04-06T11:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,58 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-06-12-joe-biden-unearthing-the-presidents-unsung-english-roots.md",
+      "title": "Joe Biden: Unearthing the president's unsung English roots",
+      "excerpt": "Joe Biden's presence in the UK this week brings him closer to a part of his family heritage that had been obscure - until recently. Last year an English link was added to Mr Biden's well-known Irish ancestry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-us-canada-57394351.amp",
+      "originalUrl": "https://www.bbc.com/news/world-us-canada-57394351.amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/B551/production/_118871464_gettyimages-1233359683-594x594.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/world-us-canada-57394351.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57394351.amp",
+      "publishedDateTime": "2021-06-11T16:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-06-12-feds-will-repeal-or-replace-trump-era-decision-to-lift-logging-road-building-restrictions-in-alaskas-tongass-national-forest.md",
       "title": "Feds will 'repeal or replace' Trump-era decision to lift logging, road building restrictions in Alaska's Tongass National Forest",
       "excerpt": "Republican Alaska Gov. Mike Dunleavy criticized the Biden's administration's plan and vowed to use \"every tool available to push back\" against it.",
@@ -1256,58 +1308,6 @@
         "Election",
         "Democratic Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-trump-appointed-ambassador-to-brazil-resigns-after-14-months.md",
-      "title": "Trump-appointed ambassador to Brazil resigns after 14 months",
-      "excerpt": "The U.S. ambassador to Brazil, Todd Chapman, has resigned after just over a year in the position and is leaving the diplomatic service",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/International/wireStory/trump-appointed-ambassador-brazil-resigns-14-months-78199990",
-      "originalUrl": "https://abcnews.go.com/International/wireStory/trump-appointed-ambassador-brazil-resigns-14-months-78199990",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/International/WireAP_0b2b40dc82b94649b8e89b979f141b51_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

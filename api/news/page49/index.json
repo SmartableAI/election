@@ -2,6 +2,63 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2021-05-27-lara-trump-slams-biden-harris-if-the-border-is-closed-then-im-a-sparkly-unicorn.md",
+      "title": "Lara Trump slams Biden, Harris: If the border is closed, then ‘I’m a sparkly unicorn’",
+      "excerpt": "Fox News contributor Lara Trump said on Thursday mocked the Department of Homeland Security for claiming the southern border was closed.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NE82bCJ0myY/lara-trump-border-closed-sparkly-unicorn-biden-mayorkas",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NE82bCJ0myY/lara-trump-border-closed-sparkly-unicorn-biden-mayorkas",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 588,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/lara-trump-border-closed-sparkly-unicorn-biden-mayorkas.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lara-trump-border-closed-sparkly-unicorn-biden-mayorkas.amp",
+      "publishedDateTime": "2021-05-27T08:14:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-fired-conservative-radio-host-ive-lost-everything-for-being-anti-trump.md",
       "title": "Fired conservative radio host: I've lost everything for being anti-Trump",
       "excerpt": "Joe Walsh, a former Republican congressman who primaried Donald Trump in the 2020 election, says he was fired from Conservative radio group GAB Radio Network because he is an outspoken critic of the former President. CNN has reached out to GAB Radio Network for comment and has not heard back.\n    \n",
@@ -1298,58 +1355,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-congress-misses-bidens-police-reform-deadline-but-cory-booker-says-a-lot-of-progress-was-made-over-weekend.md",
-      "title": "Congress misses Biden's police reform deadline, but Cory Booker says \"a lot of progress was made\" over weekend",
-      "excerpt": "\"I think he did a good thing by putting a deadline out there, trying to motivate more momentum, but he understands what's important here is to get a landmark bill done,\" Booker said Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/congress-biden-police-reform-deadline-cory-booker/",
-      "originalUrl": "https://www.cbsnews.com/news/congress-biden-police-reform-deadline-cory-booker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/25/8549c709-b1af-4a06-bf64-b3a5ea189108/thumbnail/1200x630/786ddc6d3000e1ec48f946dcc495ce66/0525-ctm-policereform-booker-722458-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/congress-biden-police-reform-deadline-cory-booker/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/congress-biden-police-reform-deadline-cory-booker/",
-      "publishedDateTime": "2021-05-25T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

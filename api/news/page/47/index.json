@@ -2,6 +2,58 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2021-06-01-trump-supporters-celebrate-memorial-day-with-boat-parade-in-florida.md",
+      "title": "Trump supporters celebrate Memorial Day with boat parade in Florida",
+      "excerpt": "Supporters of former President Donald Trump celebrated Memorial Day with a boat parade in Jupiter, Florida, on May 31. Credit: Juan Fiol via Storyful.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/politics/2021/06/01/trump-supporters-celebrate-memorial-day-boat-parade-florida/5288009001/",
+      "originalUrl": "https://www.usatoday.com/videos/news/politics/2021/06/01/trump-supporters-celebrate-memorial-day-boat-parade-florida/5288009001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/8a18dbe5-929c-4ef4-ba67-6afe7e22db8a_poster.jpg?quality=10",
+          "width": 459,
+          "height": 284,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-01T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-fox-news-host-sean-hannity-wrote-trump-2020-campaign-ad-book-claims.md",
       "title": "Fox News host Sean Hannity wrote Trump 2020 campaign ad, book claims",
       "excerpt": "Hannity worked on ‘swamp creature’ ad that ran during Hannity’s show, according to Mike Bender’s Frankly, We Did Win This Election",
@@ -1284,62 +1336,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-biden-china-thinks-it-will-own-america-by-2035.md",
-      "title": "Biden: China thinks it will 'own America' by 2035",
-      "excerpt": "President Biden, addressing the evolving landscape of foreign threats to the country, told troops Friday that China thinks it will “own America” in the next 15 years.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/V9zs0YfxvCQ/biden-china-own-america-2035",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/V9zs0YfxvCQ/biden-china-own-america-2035",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6ada39e0-4be0-43b2-8ef3-26f3ebfa1e93/141116e1-8abd-474f-a22d-429f1971b439/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-china-own-america-2035.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-china-own-america-2035.amp",
-      "publishedDateTime": "2021-05-28T12:54:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

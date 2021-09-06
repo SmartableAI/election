@@ -2,6 +2,62 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2021-03-31-dr-scott-atlas-blasts-despicable-birx-and-fauci-trying-to-overtly-rewrite-history-on-coronavirus-trump.md",
+      "title": "Dr. Scott Atlas blasts 'despicable' Birx and Fauci 'trying to overtly rewrite history' on coronavirus, Trump",
+      "excerpt": "Dr. Scott Atlas, a member of former President Trump's coronavirus task force, blasted his ex-colleagues Drs. Anthony Fauci and Deborah Birx, after they went on CNN and tried to 'rewrite history'",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/t4jiTKbgihc/dr-scott-atlas-blasts-despicable-birx-and-fauci-trying-to-overtly-rewrite-history-on-coronavirus-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/t4jiTKbgihc/dr-scott-atlas-blasts-despicable-birx-and-fauci-trying-to-overtly-rewrite-history-on-coronavirus-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f9425dea-559a-4dae-a3d4-0827e74f47de/9da07aed-eee1-4d47-bd13-f536575751fb/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/dr-scott-atlas-blasts-despicable-birx-and-fauci-trying-to-overtly-rewrite-history-on-coronavirus-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dr-scott-atlas-blasts-despicable-birx-and-fauci-trying-to-overtly-rewrite-history-on-coronavirus-trump.amp",
+      "publishedDateTime": "2021-03-30T21:41:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-sen-ron-johnson-biden-border-policies-facilitating-business-of-the-most-evil-people-on-the-planet.md",
       "title": "Sen. Ron Johnson: Biden border policies facilitating business of the 'most evil people on the planet'",
       "excerpt": "Sen. Ron Johnson, R-Wis., slammed the Biden administration’s immigration plan as \"misguided\" telling \"Fox News Primetime\" it is going to lead to \"greater inhumanity.\"",

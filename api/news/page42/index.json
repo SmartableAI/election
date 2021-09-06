@@ -2,6 +2,58 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-06-10-trump-appointed-ambassador-to-brazil-resigns-after-14-months.md",
+      "title": "Trump-appointed ambassador to Brazil resigns after 14 months",
+      "excerpt": "The U.S. ambassador to Brazil, Todd Chapman, has resigned after just over a year in the position and is leaving the diplomatic service",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/International/wireStory/trump-appointed-ambassador-brazil-resigns-14-months-78199990",
+      "originalUrl": "https://abcnews.go.com/International/wireStory/trump-appointed-ambassador-brazil-resigns-14-months-78199990",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/International/WireAP_0b2b40dc82b94649b8e89b979f141b51_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-piers-morgan-writes-10-point-memo-to-joe-biden-ahead-of-g7.md",
       "title": "Piers Morgan Writes '10-Point Memo' to Joe Biden Ahead of G7",
       "excerpt": "The British journalist has advised the president to \"grovel\" to Queen Elizabeth II and not mention Meghan and Harry.",
@@ -1294,58 +1346,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-hud-to-reinstate-obama-era-fair-housing-rule-gutted-under-trump-minus-the-burdensome-reporting-requirement.md",
-      "title": "HUD to reinstate Obama-era fair housing rule gutted under Trump — minus the ‘burdensome’ reporting requirement",
-      "excerpt": "Biden's housing department is restoring the requirement that communities take steps to reduce racial segregation or risk losing federal funds. But missing from the requirement is the 2015 mandate that communities undergo an extensive analysis of local barriers to integration and submit plans to dismantle them to the Department of Housing and Urban Development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/us-policy/2021/06/09/hud-biden-fair-housing-rule/",
-      "originalUrl": "https://www.washingtonpost.com/us-policy/2021/06/09/hud-biden-fair-housing-rule/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G7ZU6FWDNYI6XCNEW6XCFKQZHY.jpg&w=1440",
-          "width": 1440,
-          "height": 956,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/us-policy/2021/06/09/hud-biden-fair-housing-rule/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/06/09/hud-biden-fair-housing-rule/?outputType=amp",
-      "publishedDateTime": "2021-06-09T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

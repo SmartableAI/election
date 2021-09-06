@@ -2,6 +2,63 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2021-04-24-washington-post-runs-fact-check-on-tim-scotts-ancestry-but-not-on-kamala-harris-fweedom-plagiarism-claim.md",
+      "title": "Washington Post runs 'fact-check' on Tim Scott's ancestry but not on Kamala Harris' 'Fweedom' plagiarism claim",
+      "excerpt": "The Washington Post appears quite selective when it comes to the urgency of its 'fact-checks' of certain prominent politicians.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/washington-post-fact-check-tim-scott-kamala-harris-fweedom",
+      "originalUrl": "https://www.foxnews.com/media/washington-post-fact-check-tim-scott-kamala-harris-fweedom",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Tim-Scott-Kamala-Harris-AP.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-23T17:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-24-biden-calls-turkeys-erdogan-ahead-of-possible-armenian-genocide-recognition.md",
       "title": "Biden calls Turkey’s Erdogan ahead of possible Armenian genocide recognition",
       "excerpt": "Biden expressed “his interest in a constructive bilateral relationship with expanded areas of cooperation and effective management of disagreements,” the White House said in a statement.",
@@ -1294,54 +1351,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-white-house-rebrands-kamala-harris-husband-douglas-instead-of-doug.md",
-      "title": "White House rebrands Kamala Harris’ husband ‘Douglas’ instead of ‘Doug’",
-      "excerpt": "The White House changed the name of Kamala Harris’ husband from “Doug” to “Douglas” Emhoff in an apparent attempt to rebrand him as a more serious guy.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/04/21/kamala-harris-husband-rebranded-as-douglas-instead-of-doug/",
-      "originalUrl": "https://nypost.com/2021/04/21/kamala-harris-husband-rebranded-as-douglas-instead-of-doug/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/doug-emhoff.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/04/21/kamala-harris-husband-rebranded-as-douglas-instead-of-doug/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/21/kamala-harris-husband-rebranded-as-douglas-instead-of-doug/amp/",
-      "publishedDateTime": "2021-04-21T19:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-06-melania-trump-doesnt-want-to-be-first-lady-again-its-over.md",
+      "title": "Melania Trump Doesn’t Want To Be First Lady Again: ‘It’s Over’",
+      "excerpt": "Melania Trump, the wife of former President Donald Trump, has no interest in returning to the White House as the first lady again, according to a report. The former first lady has",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/melania-trump-doesnt-want-be-first-lady-again-its-over-3288729",
+      "originalUrl": "https://www.ibtimes.com/melania-trump-doesnt-want-be-first-lady-again-its-over-3288729",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/03/melania-trump-seen-here-on-january-20-which.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/melania-trump-doesnt-want-be-first-lady-again-its-over-3288729?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-doesnt-want-be-first-lady-again-its-over-3288729?amp=1",
+      "publishedDateTime": "2021-09-05T18:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-09-06-trumps-long-campaign-to-steal-the-presidency-a-timeline.md",
       "title": "Trump’s Long Campaign to Steal the Presidency: A Timeline",
       "excerpt": "The insurrection wasn’t a one-day event. It was the culmination of a multifaceted, yearslong plot — and it isn’t over.",
@@ -301,7 +353,7 @@
       "originalUrl": "https://www.cnbc.com/2021/09/03/trump-should-not-lead-gop-ticket-in-2024-retiring-sen-pat-toomey-says.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 345,
+      "heat": 365,
       "tags": null,
       "images": [
         {
@@ -1430,58 +1482,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-trumps-former-national-security-advisor-john-bolton-says-its-impossible-for-mike-pompeo-to-rewrite-history-on-his-negotiations-with-the.md",
-      "title": "Trump's former national security advisor John Bolton says it's 'impossible' for Mike Pompeo to 'rewrite history' on his negotiations with the Taliban",
-      "excerpt": "\"That's a prescription for Democratic attack ads that would be fatal to someone's credibility,\" Bolton told Politico.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/john-bolton-impossible-to-rewrite-history-on-mike-pompeo-taliban-deal-2021-8",
-      "originalUrl": "https://www.businessinsider.com/john-bolton-impossible-to-rewrite-history-on-mike-pompeo-taliban-deal-2021-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/61279e06e4235b00180aa5ba?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/john-bolton-impossible-to-rewrite-history-on-mike-pompeo-taliban-deal-2021-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/john-bolton-impossible-to-rewrite-history-on-mike-pompeo-taliban-deal-2021-8?amp",
-      "publishedDateTime": "2021-08-26T19:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

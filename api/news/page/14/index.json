@@ -2,6 +2,63 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-08-04-border-patrol-union-official-says-situation-still-horrific-no-progress-since-kamala-harris-visit.md",
+      "title": "Border Patrol union official says situation still 'horrific': ‘No progress’ since Kamala Harris visit",
+      "excerpt": "National Border Patrol Council VP Art Del Cueto told “America’s Newsroom” Tuesday that the migrant surge is “horrific” and there’s been zero progress since Vice President Kamala Harris last visited the southern border.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/border-patrol-del-cueto-migrant-surge-kamala-harris",
+      "originalUrl": "https://www.foxnews.com/media/border-patrol-del-cueto-migrant-surge-kamala-harris",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/098c09e1-5b32-40b2-aca6-8fa85de4aa8e/d16ba95d-5167-4d6c-8cee-5c758971c911/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/border-patrol-del-cueto-migrant-surge-kamala-harris.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/border-patrol-del-cueto-migrant-surge-kamala-harris.amp",
+      "publishedDateTime": "2021-08-03T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-harris-to-promote-america-is-back-message-in-singapore-and-vietnam.md",
       "title": "Harris to promote 'America is back' message in Singapore and Vietnam",
       "excerpt": "Vice President Kamala Harris is set to travel to Singapore and Vietnam later this month, becoming the highest-ranking Biden administration official to visit Asia so far.\n    \n",
@@ -1297,62 +1354,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-01-trumps-fundraising-prowess-82-million-haul-during-first-half-of-2021.md",
-      "title": "Trump’s fundraising prowess: $82 million haul during first half of 2021",
-      "excerpt": "Former President Trump’s various political committees brought in a combined $82 million in fundraising during the first six months of 2021.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dhQUibOGiSQ/trumps-fundraising-prowess-82-million-haul-during-first-half-of-2021",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dhQUibOGiSQ/trumps-fundraising-prowess-82-million-haul-during-first-half-of-2021",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trumps-fundraising-prowess-82-million-haul-during-first-half-of-2021.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-fundraising-prowess-82-million-haul-during-first-half-of-2021.amp",
-      "publishedDateTime": "2021-08-01T07:29:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

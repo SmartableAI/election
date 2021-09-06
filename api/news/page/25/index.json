@@ -2,6 +2,62 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-07-12-a-weekend-of-demagoguery-shows-why-trump-cant-be-ignored.md",
+      "title": "A weekend of demagoguery shows why Trump can't be ignored",
+      "excerpt": "Nothing can destroy former President Donald Trump in the eyes of those who love him, one reason why his hold on American politics remains formidable.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nzJp37AxPsQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nzJp37AxPsQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 495,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210711201210-trump-cpac-dallas-0711-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/12/politics/donald-trump-republicans-cpac/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/donald-trump-republicans-cpac/index.html",
+      "publishedDateTime": "2021-07-12T03:14:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-12-john-dean-a-key-figure-in-the-watergate-scandal-said-hed-pay-to-handle-trumps-deposition-which-he-thinks-could-sell-tickets.md",
       "title": "John Dean, a key figure in the Watergate scandal, said he'd 'pay to handle' Trump's deposition which he thinks could 'sell tickets'",
       "excerpt": "\"He's always said 'I'm willing to give a deposition,' just like he's always said 'I'm going to turn over my tax returns,'\" Dean said.",
@@ -1292,58 +1348,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-joe-biden-urges-vladimir-putin-to-take-action-against-ransomware-hackers.md",
-      "title": "Joe Biden urges Vladimir Putin to ‘take action’ against ransomware hackers",
-      "excerpt": "Joe Biden warned Vladimir Putin that Russia would face consequences if it failed to act against hackers behind a spate of ransomware attacks, saying the US would take “any necessary action” to protect its people and infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/6ba72aa0-53b7-40ff-89f0-0f4a64bf7cc2",
-      "originalUrl": "https://www.ft.com/content/6ba72aa0-53b7-40ff-89f0-0f4a64bf7cc2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcffef3b2-c492-4f1a-9be1-d0f51eca2b41.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/6ba72aa0-53b7-40ff-89f0-0f4a64bf7cc2",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/6ba72aa0-53b7-40ff-89f0-0f4a64bf7cc2",
-      "publishedDateTime": "2021-07-09T13:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

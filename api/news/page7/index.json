@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-08-24-donald-trump-booed-at-alabama-rally-after-telling-supporters-to-take-the-vaccines.md",
+      "title": "Donald Trump booed at Alabama rally after telling supporters to 'take the vaccines'",
+      "excerpt": "Amid the state's low vaccination rate, former President Donald Trump told a rally to go get vaccinated against COVID-19, which some booed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/08/23/donald-trump-tells-alabama-rally-covid-19-vaccine-gets-booed/8237487002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/08/23/donald-trump-tells-alabama-rally-covid-19-vaccine-gets-booed/8237487002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 439,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/08/22/USAT/9aef22b6-661a-487a-9438-89b679f37137-GTY_1335520712.jpg?auto=webp&crop=3688,2075,x0,y187&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/8237487002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8237487002",
+      "publishedDateTime": "2021-08-23T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Arizona Republic",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-byron-yorks-daily-memo-a-national-eye-opening-on-joe-biden.md",
       "title": "Byron York's Daily Memo: A national eye-opening on Joe Biden",
       "excerpt": "Welcome to Byron York's Daily Memo newsletter. Was this email forwarded to you? Sign up here to receive the newsletter. A NATIONAL EYE-OPENING ON JOE BIDEN. Just one month ago, President Biden's job approval rating,",
@@ -1240,62 +1292,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-republicans-torch-white-house-for-claiming-biden-never-shies-away-from-questions.md",
-      "title": "Republicans torch White House for claiming Biden never 'shies away' from questions",
-      "excerpt": "GOP lawmakers are smashing Biden over White House communications director Kate Bedingfield’s Friday claim that the president does not turn away from questions.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rs35_dacLko/republicans-torch-white-house-claim-biden-never-shies-away-questions",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rs35_dacLko/republicans-torch-white-house-claim-biden-never-shies-away-questions",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/25684f3a-65f3-4e86-999a-f1deb767a447/82c540db-f631-4b89-9efc-17f0257f7e3f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/republicans-torch-white-house-claim-biden-never-shies-away-questions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-torch-white-house-claim-biden-never-shies-away-questions.amp",
-      "publishedDateTime": "2021-08-20T09:02:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

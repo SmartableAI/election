@@ -126,6 +126,20 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "Hochul asks Biden for major disaster declaration after Ida"
+    excerpt: "On Sunday, Governor Kathy Hochul signed an expedited request for a major disaster declaration, applying for federal money to help with the recovery effort from Hurricane Ida that decimated parts of New York this past week."
+    publishedDateTime: 2021-09-06T01:05:00Z
+    webUrl: "https://www.chron.com/news/article/Hochul-declares-path-forward-after-Ida-16437372.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/60/37/21432294/3/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "For Louisiana's Hurricane Ida recovery, Joe Biden pledges 'all the assistance that’s needed'"
     excerpt: "President Joe Biden on Thursday said his administration was “ready to provide all the assistance that’s needed\" in response to a massive wildfire in California and to Hurricane Ida, which"
     publishedDateTime: 2021-09-02T17:22:00Z

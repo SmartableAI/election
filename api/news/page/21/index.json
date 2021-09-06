@@ -2,6 +2,58 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-07-19-michael-wolff-murdoch-hates-trump-but-loves-fox-news-money-more.md",
+      "title": "Michael Wolff: Murdoch hates Trump but loves Fox News money more",
+      "excerpt": "In book, Wolff says that Murdoch personally approved network’s early call of Arizona, which signalled Trump’s defeat",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/media/2021/jul/19/landslide-michael-wolff-rupert-murdoch-donald-trump-fox-news",
+      "originalUrl": "https://www.theguardian.com/media/2021/jul/19/landslide-michael-wolff-rupert-murdoch-donald-trump-fox-news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/a73f231d740d05f5ae6f1fcb8fc8ab138e9c8083/0_73_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c634a9013950e6eb0b24de4c9b40f10f",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/media/2021/jul/19/landslide-michael-wolff-rupert-murdoch-donald-trump-fox-news",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2021/jul/19/landslide-michael-wolff-rupert-murdoch-donald-trump-fox-news",
+      "publishedDateTime": "2021-07-19T03:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-19-jeb-bush-appeals-to-biden-to-tear-down-cuba-cyberwall.md",
       "title": "Jeb Bush appeals to Biden to ‘tear down’ Cuba Cyberwall",
       "excerpt": "Jeb Bush, the former GOP presidential candidate, took to Twitter on Sunday to appeal to the Bide administration to employ the needed technology to restore internet service in Cuba amid the unrest that was sparked a week ago during anti-government protests.",
@@ -1252,58 +1304,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-john-bolton-says-trump-isnt-capable-of-staging-a-coup-because-that-requires-advance-thinking-planning-strategizing.md",
-      "title": "John Bolton says Trump isn't 'capable' of staging a coup because 'that requires advance thinking, planning, strategizing'",
-      "excerpt": "\"The idea of Trump staging a coup does give him too much credit,\" Trump's former national security adviser said on CNN's \"New Day.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/john-bolton-trump-is-incapable-of-staging-a-coup-video-2021-7",
-      "originalUrl": "https://www.businessinsider.com/john-bolton-trump-is-incapable-of-staging-a-coup-video-2021-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60f1c8c571757b0018c6a161?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/john-bolton-trump-is-incapable-of-staging-a-coup-video-2021-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/john-bolton-trump-is-incapable-of-staging-a-coup-video-2021-7?amp",
-      "publishedDateTime": "2021-07-16T12:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

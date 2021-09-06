@@ -2,6 +2,59 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2021-05-04-joe-biden-raises-trump-refugee-cap-after-backlash.md",
+      "title": "Joe Biden raises Trump refugee cap after backlash",
+      "excerpt": "President Joe Biden has lifted the US annual refugee cap, bowing to backlash from his party after he initially opted to stick by the Trump-era figure. The Democratic president is raising the cap from 15,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-us-canada-56975402?at_custom2=twitter&at_custom4=477B3168-AC50-11EB-951B-FFBD4744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_medium=custom7",
+      "originalUrl": "https://www.bbc.com/news/world-us-canada-56975402?at_custom2=twitter&at_custom4=477B3168-AC50-11EB-951B-FFBD4744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_medium=custom7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 4030,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/123E1/production/_118312747_mediaitem118312746.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/world-us-canada-56975402.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp",
+      "publishedDateTime": "2021-05-03T19:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-the-memo-trumps-critics-face-wrath-of-gop-base.md",
       "title": "The Memo: Trump's critics face wrath of GOP base",
       "excerpt": "Cheney voted for Trump’s impeachment and has become perhaps his most persistent foe among GOP officeholders. But the bigger picture is one in which Cheney is in danger of losing her House leadership position and another Trump critic,",
@@ -1273,49 +1326,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-mike-pence-coming-to-texas-for-gop-fundraising-blitz-donor-appreciation-event.md",
-      "title": "Mike Pence coming to Texas for GOP fundraising blitz, donor appreciation event",
-      "excerpt": "Former Vice President Mike Pence and several other potential 2024 presidential candidates are descending upon Texas next week to thank donors to the 2020 campaign here and to help raise money to flip the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/news/houston-texas/article/mike-pence-2024-texas-16142373.php",
-      "originalUrl": "https://www.chron.com/news/houston-texas/article/mike-pence-2024-texas-16142373.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chron.com/news/houston-texas/amp/mike-pence-2024-texas-16142373.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/houston-texas/amp/mike-pence-2024-texas-16142373.php",
-      "publishedDateTime": "2021-04-30T15:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-28-joe-biden-seeks-diplomacy-with-iran-on-nuclear-deal-but-open-to-other-options.md",
+      "title": "Joe Biden seeks diplomacy with Iran on nuclear deal, but open to 'other options'",
+      "excerpt": "President Joe Biden on Friday said the United States will try diplomacy to keep Iran from obtaining nuclear weapons, but will use \"other options\" if necessary.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/",
+      "originalUrl": "https://www.upi.com/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/3931630085407/2021/1/5a644c6dc5548efdc6df8cce0f83b200/v1.5/Joe-Biden-seeks-diplomacy-with-Iran-on-nuclear-deal-but-open-to-other-options.jpg",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/",
+      "publishedDateTime": "2021-08-27T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-27-biden-meets-with-israeli-prime-minister-after-deadly-kabul-bombing.md",
       "title": "Biden meets with Israeli prime minister after deadly Kabul bombing",
       "excerpt": "President Biden sat down with the newly installed Israeli Prime Minister Naftali Bennett Friday, roughly 24 hours after the deadly suicide bombing in Kabul.",
@@ -1166,62 +1209,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/25/politics/afghan-visas-trump-admin-fact-check/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/25/politics/afghan-visas-trump-admin-fact-check/index.html",
       "publishedDateTime": "2021-08-25T15:09:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-biden-looks-for-air-clearing-in-first-meeting-with-israels-new-leader.md",
-      "title": "Biden looks for air-clearing in first meeting with Israel's new leader",
-      "excerpt": "When Israel's prime minister visits the White House on Thursday, for the first time in 12 years, it will be someone other than Benjamin Netanyahu.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/whe0kR4nQ58/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/whe0kR4nQ58/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 375,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210825144206-restricted-split-joe-biden-naftali-bennett-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/25/politics/biden-bennett-israel/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/25/politics/biden-bennett-israel/index.html",
-      "publishedDateTime": "2021-08-25T14:16:15-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

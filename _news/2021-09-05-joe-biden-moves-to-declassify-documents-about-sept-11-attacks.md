@@ -171,6 +171,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "PAT BUCHANAN: Bad moon rising for Joe Biden -- and us"
+    excerpt: "\"April is the cruelest month,\" wrote T. S. Eliot in the opening line of what is regarded as his greatest poem, \"The Waste Land.\""
+    publishedDateTime: 2021-09-04T02:30:00Z
+    webUrl: "https://siouxcityjournal.com/pat-buchanan-bad-moon-rising-for-joe-biden----and-us/article_ec076699-9473-5b9d-ba31-e11918640e76.html"
+    ampWebUrl: "https://siouxcityjournal.com/pat-buchanan-bad-moon-rising-for-joe-biden----and-us/article_ec076699-9473-5b9d-ba31-e11918640e76.amp.html"
+    cdnAmpWebUrl: "https://siouxcityjournal-com.cdn.ampproject.org/c/s/siouxcityjournal.com/pat-buchanan-bad-moon-rising-for-joe-biden----and-us/article_ec076699-9473-5b9d-ba31-e11918640e76.amp.html"
+    type: article
+    provider:
+      name: Sioux City Journal
+      domain: siouxcityjournal.com
+    quality: 75
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/2/0a/20ae9f95-b357-53de-916c-8f481f7cf16c/5f6157da8cf78.image.jpg"
+        width: 600
+        height: 600
+        isCached: true
   - title: "Will Liz Warren give the presidency another go? 'Joe Biden is running'"
     excerpt: "Elizabeth Warren in 2024? Massachusetts' senior senator has been busy traveling throughout the state, stopping in various communities to help promote a"
     publishedDateTime: 2021-09-05T09:27:00Z

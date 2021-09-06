@@ -2,6 +2,58 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-06-09-hud-to-reinstate-obama-era-fair-housing-rule-gutted-under-trump-minus-the-burdensome-reporting-requirement.md",
+      "title": "HUD to reinstate Obama-era fair housing rule gutted under Trump — minus the ‘burdensome’ reporting requirement",
+      "excerpt": "Biden's housing department is restoring the requirement that communities take steps to reduce racial segregation or risk losing federal funds. But missing from the requirement is the 2015 mandate that communities undergo an extensive analysis of local barriers to integration and submit plans to dismantle them to the Department of Housing and Urban Development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/us-policy/2021/06/09/hud-biden-fair-housing-rule/",
+      "originalUrl": "https://www.washingtonpost.com/us-policy/2021/06/09/hud-biden-fair-housing-rule/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G7ZU6FWDNYI6XCNEW6XCFKQZHY.jpg&w=1440",
+          "width": 1440,
+          "height": 956,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/us-policy/2021/06/09/hud-biden-fair-housing-rule/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/06/09/hud-biden-fair-housing-rule/?outputType=amp",
+      "publishedDateTime": "2021-06-09T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-2-years-ago-a-saudi-princess-was-kidnapped-and-jailed-without-charge-her-family-say-theyre-being-stonewalled-and-are-urging-biden-to-step.md",
       "title": "2 years ago, a Saudi princess was kidnapped and jailed without charge. Her family say they're being stonewalled, and are urging Biden to step in.",
       "excerpt": "Princess Basmah was kidnapped and imprisoned in February 2019. She tried begging her cousin, Crown Prince Mohammed, for mercy, but was ignored.",
@@ -1280,62 +1332,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/07/politics/public-option-nevada-biden/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/public-option-nevada-biden/index.html",
       "publishedDateTime": "2021-06-07T04:18:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-liz-cheney-what-trump-did-is-the-most-egregious-violation.md",
-      "title": "Liz Cheney: What Trump did is 'the most egregious violation'",
-      "excerpt": "Rep. Liz Cheney (R-WY) shares her thoughts on the aftermath of the January 6th insurrection with CNN's David Axelrod on his podcast, \"The Axe Files\".\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fYg3Qy-quOs/liz-cheney-trump-january-6th-kevin-mccarthy-newday-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fYg3Qy-quOs/liz-cheney-trump-january-6th-kevin-mccarthy-newday-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210503055421-liz-cheney-donald-trump-split-for-video-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/06/07/liz-cheney-trump-january-6th-kevin-mccarthy-newday-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/06/07/liz-cheney-trump-january-6th-kevin-mccarthy-newday-vpx.cnn",
-      "publishedDateTime": "2021-06-07T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

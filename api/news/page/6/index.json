@@ -2,6 +2,62 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-08-25-biden-looks-for-air-clearing-in-first-meeting-with-israels-new-leader.md",
+      "title": "Biden looks for air-clearing in first meeting with Israel's new leader",
+      "excerpt": "When Israel's prime minister visits the White House on Thursday, for the first time in 12 years, it will be someone other than Benjamin Netanyahu.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/whe0kR4nQ58/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/whe0kR4nQ58/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 375,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210825144206-restricted-split-joe-biden-naftali-bennett-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/25/politics/biden-bennett-israel/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/25/politics/biden-bennett-israel/index.html",
+      "publishedDateTime": "2021-08-25T14:16:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-26-beto-orourke-pushes-joe-biden-to-help-pass-federal-voting-bill.md",
       "title": "Beto O'Rourke pushes Joe Biden to help pass federal voting bill",
       "excerpt": "Former Congressman Beto O’Rourke is using his political platform to turn up the heat on President Joe Biden on voting rights legislation that is unlikely to pass the U.S. Senate, laying the fate of the legislation squarely at Biden’s feet.",
@@ -1250,58 +1306,6 @@
         "name": "Detroit News",
         "domain": "detroitnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-donald-trump-booed-at-alabama-rally-after-telling-supporters-to-take-the-vaccines.md",
-      "title": "Donald Trump booed at Alabama rally after telling supporters to 'take the vaccines'",
-      "excerpt": "Amid the state's low vaccination rate, former President Donald Trump told a rally to go get vaccinated against COVID-19, which some booed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/08/23/donald-trump-tells-alabama-rally-covid-19-vaccine-gets-booed/8237487002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/08/23/donald-trump-tells-alabama-rally-covid-19-vaccine-gets-booed/8237487002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 439,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/08/22/USAT/9aef22b6-661a-487a-9438-89b679f37137-GTY_1335520712.jpg?auto=webp&crop=3688,2075,x0,y187&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/8237487002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8237487002",
-      "publishedDateTime": "2021-08-23T12:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Arizona Republic",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

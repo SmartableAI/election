@@ -2,6 +2,58 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-07-03-a-top-senate-republican-credits-the-trump-tax-cuts-for-junes-huge-jobs-gains-and-the-economy-roaring-back-after-a-virus-interlude.md",
+      "title": "A top Senate Republican credits the Trump tax cuts for June's huge jobs gains and the economy 'roaring back after a virus interlude'",
+      "excerpt": "A nonpartisan government scorekeeper partly attributed the fast economic rebound to Biden's stimulus. Chuck Grassley says it's four-year-old tax cuts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/top-senate-republican-grassley-trump-tax-cuts-junes-jobs-report-2021-7",
+      "originalUrl": "https://www.businessinsider.com/top-senate-republican-grassley-trump-tax-cuts-junes-jobs-report-2021-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5a7b87bdec1ade15c67d7b4f?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/top-senate-republican-grassley-trump-tax-cuts-junes-jobs-report-2021-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/top-senate-republican-grassley-trump-tax-cuts-junes-jobs-report-2021-7?amp",
+      "publishedDateTime": "2021-07-02T12:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-03-clay-travis-dismisses-nothingburger-charges-against-trump-org-cfo-this-is-the-best-they-can-do.md",
       "title": "Clay Travis dismisses 'nothingburger' charges against Trump Org CFO: 'This is the best they can do'",
       "excerpt": "Radio host Clay Travis called the charges against Trump Organization Chief Financial Officer Allen Weisselberg a “nothingburger” on Thursday and the overall investigation another “swing and a miss” against former President Donald Trump.",
@@ -1285,62 +1337,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-aclu-sues-biden-administration-to-block-transfers-of-ice-detainees.md",
-      "title": "ACLU sues Biden administration to block transfers of ICE detainees",
-      "excerpt": "The American Civil Liberties Union (ACLU) on Wednesday filed a lawsuit against the Biden administration seeking to block the long-distance transfer of illegal immigrants detained by Immigration and Customs Enforcement (ICE) in New Jersey.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JnlEsEXIhIQ/aclu-sues-biden-block-transfers-ice-detainees",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JnlEsEXIhIQ/aclu-sues-biden-block-transfers-ice-detainees",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 595,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6375586-3e83-4636-8ad5-44e5a66303f1/f9483464-7aa5-44ec-91d5-1ce72f513f88/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/aclu-sues-biden-block-transfers-ice-detainees.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aclu-sues-biden-block-transfers-ice-detainees.amp",
-      "publishedDateTime": "2021-07-01T08:07:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

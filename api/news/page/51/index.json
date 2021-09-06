@@ -2,6 +2,63 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2021-05-22-flashback-harris-protested-at-southern-border-in-2018-but-hasnt-visited-since-taking-migrant-role.md",
+      "title": "Flashback: Harris protested at southern border in 2018, but hasn't visited since taking migrant role",
+      "excerpt": "Vice President Kamala Harris has come under criticism from Republicans and former Trump officials for not having visited the border in her leading role in dealing with the migrant crisis -- although she visited in 2018 to protest Trump-era policies.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gearmT8w5Mk/flashback-harris-southern-border-2018-migrant-role",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gearmT8w5Mk/flashback-harris-southern-border-2018-migrant-role",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1aeb332b-ba8a-4e23-947b-7c1d35cd3c23/21a81c5c-8dda-4755-89e9-e4d6014ccb5b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/flashback-harris-southern-border-2018-migrant-role.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-harris-southern-border-2018-migrant-role.amp",
+      "publishedDateTime": "2021-05-22T09:52:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-05-22-trump-hotel-raised-prices-to-deter-qanon-conspiracists-police-files-show.md",
       "title": "Trump Hotel raised prices to deter QAnon conspiracists, police files show",
       "excerpt": "Price increase was ‘security tactic to prevent protesters booking rooms’ in case people travelled to Washington in early March",
@@ -1269,62 +1326,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/20/politics/joe-biden-benjamin-netanyahu/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/joe-biden-benjamin-netanyahu/index.html",
       "publishedDateTime": "2021-05-20T07:29:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-house-gop-revolt-against-trump-sets-up-tough-senate-battle-on-january-6-probe.md",
-      "title": "House GOP revolt against Trump sets up tough Senate battle on January 6 probe",
-      "excerpt": "Thirty-five House Republicans chose the truth and American democracy over Donald Trump's personality cult. Now their Senate colleagues face the same battle of conscience over the effort to investigate the Capitol insurrection.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L-vLpdc8J3Y/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L-vLpdc8J3Y/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210519123436-mcconnell-gop-0518-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/20/politics/house-january-6-probe-senate/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/house-january-6-probe-senate/index.html",
-      "publishedDateTime": "2021-05-19T23:58:16-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

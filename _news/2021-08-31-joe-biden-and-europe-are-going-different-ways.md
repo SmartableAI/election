@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/bfe24854-3bf2-4ada-b3a2-778b4707c31f"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/bfe24854-3bf2-4ada-b3a2-778b4707c31f"
 type: article
 quality: 125
-heat: 585
+heat: 605
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/652/223/c74bbe4f09987d6faf9cfbab1517b6afba-joe-manchin.1x.rsocial.w1200.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "PAT BUCHANAN: Bad moon rising for Joe Biden -- and us"
+    excerpt: "\"April is the cruelest month,\" wrote T. S. Eliot in the opening line of what is regarded as his greatest poem, \"The Waste Land.\""
+    publishedDateTime: 2021-09-04T02:30:00Z
+    webUrl: "https://siouxcityjournal.com/pat-buchanan-bad-moon-rising-for-joe-biden----and-us/article_ec076699-9473-5b9d-ba31-e11918640e76.html"
+    ampWebUrl: "https://siouxcityjournal.com/pat-buchanan-bad-moon-rising-for-joe-biden----and-us/article_ec076699-9473-5b9d-ba31-e11918640e76.amp.html"
+    cdnAmpWebUrl: "https://siouxcityjournal-com.cdn.ampproject.org/c/s/siouxcityjournal.com/pat-buchanan-bad-moon-rising-for-joe-biden----and-us/article_ec076699-9473-5b9d-ba31-e11918640e76.amp.html"
+    type: article
+    provider:
+      name: Sioux City Journal
+      domain: siouxcityjournal.com
+    quality: 75
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/2/0a/20ae9f95-b357-53de-916c-8f481f7cf16c/5f6157da8cf78.image.jpg"
+        width: 600
+        height: 600
         isCached: true
   - title: "Joe Biden moves to declassify documents about Sept. 11 attacks"
     excerpt: "President Joe Biden on Friday directed the declassification of certain documents related to the Sept. 11, 2001, terrorist attacks, a supportive gesture to victims’ families who have long"

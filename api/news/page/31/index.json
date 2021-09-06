@@ -2,6 +2,62 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-07-01-aclu-sues-biden-administration-to-block-transfers-of-ice-detainees.md",
+      "title": "ACLU sues Biden administration to block transfers of ICE detainees",
+      "excerpt": "The American Civil Liberties Union (ACLU) on Wednesday filed a lawsuit against the Biden administration seeking to block the long-distance transfer of illegal immigrants detained by Immigration and Customs Enforcement (ICE) in New Jersey.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JnlEsEXIhIQ/aclu-sues-biden-block-transfers-ice-detainees",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JnlEsEXIhIQ/aclu-sues-biden-block-transfers-ice-detainees",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 595,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6375586-3e83-4636-8ad5-44e5a66303f1/f9483464-7aa5-44ec-91d5-1ce72f513f88/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/aclu-sues-biden-block-transfers-ice-detainees.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aclu-sues-biden-block-transfers-ice-detainees.amp",
+      "publishedDateTime": "2021-07-01T08:07:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-trump-calls-indictment-against-his-company-and-long-serving-cfo-shameful-and-a-disgrace.md",
       "title": "Trump calls indictment against his company and long-serving CFO 'shameful' and a 'disgrace'",
       "excerpt": "Former President Trump called the criminal charges unsealed Thursday against his company's CFO \"shameful\" -- but the CFO's former daughter-in-law called them \"justice.\"",
@@ -1315,58 +1371,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-trump-says-herschel-walker-will-enter-georgia-senate-race.md",
-      "title": "Trump says Herschel Walker will enter Georgia Senate race",
-      "excerpt": "Former President Donald Trump said on Tuesday that former NFL player Herschel Walker told him he plans to make a run for the Senate next year.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/560788-trump-says-herschel-walker-will-enter-georgia-senate-race",
-      "originalUrl": "https://thehill.com/homenews/campaign/560788-trump-says-herschel-walker-will-enter-georgia-senate-race",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 345,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/article_images/walkerherschel_trumpdonald_092520getty.png",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/560788-trump-says-herschel-walker-will-enter-georgia-senate-race?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/560788-trump-says-herschel-walker-will-enter-georgia-senate-race?amp",
-      "publishedDateTime": "2021-06-29T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

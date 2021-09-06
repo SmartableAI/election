@@ -2,6 +2,49 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2021-05-01-mike-pence-coming-to-texas-for-gop-fundraising-blitz-donor-appreciation-event.md",
+      "title": "Mike Pence coming to Texas for GOP fundraising blitz, donor appreciation event",
+      "excerpt": "Former Vice President Mike Pence and several other potential 2024 presidential candidates are descending upon Texas next week to thank donors to the 2020 campaign here and to help raise money to flip the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/news/houston-texas/article/mike-pence-2024-texas-16142373.php",
+      "originalUrl": "https://www.chron.com/news/houston-texas/article/mike-pence-2024-texas-16142373.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chron.com/news/houston-texas/amp/mike-pence-2024-texas-16142373.php",
+      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/houston-texas/amp/mike-pence-2024-texas-16142373.php",
+      "publishedDateTime": "2021-04-30T15:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-05-01-kamala-harris-to-give-naval-academy-commissioning-address.md",
       "title": "Kamala Harris to give Naval Academy commissioning address",
       "excerpt": "Vice President Kamala Harris will deliver the keynote address at the Naval Academy's commissioning ceremony, a White House official told a Maryland news outlet Friday. Harris is expected to give the speech May 28 during the in-person,",
@@ -1311,58 +1354,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-gov-kristi-noem-says-south-dakota-is-taking-biden-to-court-over-fireworks-display-at-mt-rushmore.md",
-      "title": "Gov. Kristi Noem says South Dakota is taking Biden to court over fireworks display at Mt. Rushmore",
-      "excerpt": "Noem has directed her office to file a lawsuit against the National Parks Service after the agency rejected permits to hold the fireworks display.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/2021/04/29/sd-south-dakota-gov-kristi-noem-taking-president-biden-court-over-mt-rushmore-fireworks-july/7403815002/",
-      "originalUrl": "https://www.usatoday.com/story/news/2021/04/29/sd-south-dakota-gov-kristi-noem-taking-president-biden-court-over-mt-rushmore-fireworks-july/7403815002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/07/04/PSIF/8ab1b16d-5225-4daa-ac23-9c248d3cfd79-GettyImages-1254148514.jpg?auto=webp&crop=4218,2373,x0,y447&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7403815002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7403815002",
-      "publishedDateTime": "2021-04-29T16:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

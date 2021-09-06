@@ -2,6 +2,58 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2021-04-13-trump-mcconnell-helpless-to-stop-biden-from-packing-court.md",
+      "title": "Trump: McConnell 'helpless' to stop Biden from packing court",
+      "excerpt": "Former President Trump Donald Trump Gaetz was denied meeting with Trump: CNN Federal Reserve chair: Economy would have been 'so much worse' without COVID-19 relief bills Police in California city ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/senate/547840-trump-mcconnell-helpless-to-stop-biden-from-packing-court",
+      "originalUrl": "https://thehill.com/homenews/senate/547840-trump-mcconnell-helpless-to-stop-biden-from-packing-court",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 940,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_mcconnellmitch_021821getty-gn_split_gop-funding.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/senate/547840-trump-mcconnell-helpless-to-stop-biden-from-packing-court?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/547840-trump-mcconnell-helpless-to-stop-biden-from-packing-court?amp",
+      "publishedDateTime": "2021-04-12T19:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-ohio-republican-senate-candidate-running-as-a-trump-ally-once-called-him-a-maniac.md",
       "title": "Ohio Republican Senate candidate running as a Trump ally once called him a 'maniac'",
       "excerpt": "CLEVELAND — As a Republican Senate candidate in Ohio, businessman Bernie Moreno hews close to former President Donald Trump’s brand. The car dealer and blockchain technology entrepreneur from the Cleveland area presents himself in much the same ...",
@@ -1309,58 +1361,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-11-clyburn-offers-manchin-history-lesson-to-clear-senate-path-for-biden-reforms.md",
-      "title": "Clyburn offers Manchin history lesson to clear Senate path for Biden reforms",
-      "excerpt": "said on Sunday he intends to give Joe Manchin a lesson in US history as he attempts to clear a path for Joe Biden on voting rights and infrastructure. Pelosi and Cheney critical of Gaetz but stop short of calling for resignation Manchin, a moderate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/apr/11/jim-clyburn-joe-manchin-voting-rights-georgia-jim-crow",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/11/jim-clyburn-joe-manchin-voting-rights-georgia-jim-crow",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/b9f072380b00e5cd707546e93628bd39d3af75d4/208_481_3048_1828/master/3048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fe43afa6d72afd4bc9d30670810e50a4",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/11/jim-clyburn-joe-manchin-voting-rights-georgia-jim-crow",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/11/jim-clyburn-joe-manchin-voting-rights-georgia-jim-crow",
-      "publishedDateTime": "2021-04-11T05:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

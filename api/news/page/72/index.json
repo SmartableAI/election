@@ -2,6 +2,62 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2021-04-08-biden-on-the-second-amendment-no-amendment-is-absolute.md",
+      "title": "Biden on the Second Amendment: 'No amendment is absolute'",
+      "excerpt": "President Biden on Thursday, in rolling out a set of executive orders on gun control, said \"no amendment is absolute,\" while maintaining that \"nothing\" he is recommending \"impinges\" on the Second Amendment.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l1JOdmqIrdk/biden-second-amendment-no-amendment-is-absolute",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l1JOdmqIrdk/biden-second-amendment-no-amendment-is-absolute",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-second-amendment-no-amendment-is-absolute.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-second-amendment-no-amendment-is-absolute.amp",
+      "publishedDateTime": "2021-04-08T09:46:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-bidens-100b-internet-overhaul-will-hurt-consumers-stifle-innovation-former-fcc-chairman.md",
       "title": "Biden's $100B internet overhaul will hurt consumers, stifle innovation: Former FCC chairman",
       "excerpt": "Former FCC Chairman Ajit Pai said Thursday that the allocation of $100 billion to expand broadband networks in the U.S. under the Biden administration will only serve to hurt consumers and stifle innovation. ",
@@ -1307,63 +1363,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-damn-it-im-sick-and-tired-of-ordinary-people-being-fleeced-biden-defends-corporate-tax-hike.md",
-      "title": "‘Damn it … I’m sick and tired of ordinary people being fleeced’: Biden defends corporate tax hike",
-      "excerpt": "President Joe Biden on Wednesday defended raising the corporate tax rate to help pay for his infrastructure plan, saying he’s “sick and tired of ordinary people being fleeced.” Biden slammed former President Donald Trump’s corporate tax rate cuts ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/04/07/biden-infrastructure-speech-479721",
-      "originalUrl": "https://www.politico.com/news/2021/04/07/biden-infrastructure-speech-479721",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/c3/24/49791ee84b6a94e296633797d05f/210407-biden-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/04/07/biden-infrastructure-speech-479721",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/07/biden-infrastructure-speech-479721",
-      "publishedDateTime": "2021-04-07T12:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

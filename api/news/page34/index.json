@@ -2,6 +2,62 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-06-25-biden-criticized-for-using-woke-term-latinx-in-comments-about-equity-in-covid-19-vaccinations.md",
+      "title": "Biden criticized for using woke term 'Latinx' in comments about 'equity' in COVID-19 vaccinations",
+      "excerpt": "President Biden came under criticism this week for using the woke term \"Latinx\" in his comments about COVID-19 vaccination \"equity.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vudZOtt3IJ4/biden-criticized-woke-term-latinx-covid-vaccinations",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vudZOtt3IJ4/biden-criticized-woke-term-latinx-covid-vaccinations",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 202,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00ededda-70ac-4cae-9e26-4cb196bcba51/77ff58f1-c1bf-4389-8e67-cb813936589e/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-criticized-woke-term-latinx-covid-vaccinations.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-criticized-woke-term-latinx-covid-vaccinations.amp",
+      "publishedDateTime": "2021-06-25T11:21:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-26-kamala-harris-isnt-living-up-to-liberal-medias-wish-fantasy-tammy-bruce.md",
       "title": "Kamala Harris isn't living up to liberal media's 'wish fantasy': Tammy Bruce",
       "excerpt": "Vice President Kamala Harris entered the White House with glowing coverage from mainstream media outlets celebrating her historic accomplishment as the first woman of color to hold the office. That coverage seems to have shifted,",
@@ -1305,58 +1361,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-trump-calls-mcbrooms-michigan-election-report-a-cover-up-asks-supporters-to-call-his-office.md",
-      "title": "Trump Calls McBroom's Michigan Election Report a 'Cover Up,' Asks Supporters to Call His Office",
-      "excerpt": "In the statement, the former president also referred to the city of Detroit as the \"most corrupt election city in the U.S.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-calls-mcbrooms-michigan-election-report-cover-asks-supporters-call-his-office-1603909",
-      "originalUrl": "https://www.newsweek.com/trump-calls-mcbrooms-michigan-election-report-cover-asks-supporters-call-his-office-1603909",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 208,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1829403/president-donald-trump.jpg",
-          "width": 2500,
-          "height": 1767,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-calls-mcbrooms-michigan-election-report-cover-asks-supporters-call-his-office-1603909?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-calls-mcbrooms-michigan-election-report-cover-asks-supporters-call-his-office-1603909?amp=1",
-      "publishedDateTime": "2021-06-24T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

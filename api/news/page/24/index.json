@@ -2,6 +2,63 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-07-14-gutfeld-rips-biden-as-pathological-liar-injecting-race-into-election-law-speech-amid-texas-standoff.md",
+      "title": "Gutfeld rips Biden as 'pathological liar' injecting race into election law speech amid Texas standoff",
+      "excerpt": "The Five” host Greg Gutfeld blasted President Joe Biden as a “pathological, shameless liar” after the Delaware Democrat injected race into a Philadelphia speech about election laws, as Texas state Democratic lawmakers flew to Washington,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/gutfeld-rips-biden-as-pathological-liar-injecting-race-into-election-law-speech-amid-texas-law-battle",
+      "originalUrl": "https://www.foxnews.com/media/gutfeld-rips-biden-as-pathological-liar-injecting-race-into-election-law-speech-amid-texas-law-battle",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15acd04c-ce05-489f-b4ff-0c3c721a9261/c65b3c24-a176-43f7-9682-1e934821161f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/gutfeld-rips-biden-as-pathological-liar-injecting-race-into-election-law-speech-amid-texas-law-battle.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/gutfeld-rips-biden-as-pathological-liar-injecting-race-into-election-law-speech-amid-texas-law-battle.amp",
+      "publishedDateTime": "2021-07-13T15:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-biden-in-standoff-with-democratic-senators-over-who-should-lead-fda.md",
       "title": "Biden in standoff with Democratic senators over who should lead FDA",
       "excerpt": "Nearly six months into a presidency fully engulfed in a battle against a global pandemic, President Joe Biden is in a standoff with senators in his own party over who should lead the US Food and Drug Administration, a key post in the fight against Covid-19 -- with no indication the White House will name",
@@ -1267,62 +1324,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-a-weekend-of-demagoguery-shows-why-trump-cant-be-ignored.md",
-      "title": "A weekend of demagoguery shows why Trump can't be ignored",
-      "excerpt": "Nothing can destroy former President Donald Trump in the eyes of those who love him, one reason why his hold on American politics remains formidable.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nzJp37AxPsQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nzJp37AxPsQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 495,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210711201210-trump-cpac-dallas-0711-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/12/politics/donald-trump-republicans-cpac/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/donald-trump-republicans-cpac/index.html",
-      "publishedDateTime": "2021-07-12T03:14:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }

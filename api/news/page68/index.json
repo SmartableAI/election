@@ -2,6 +2,58 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2021-04-14-rand-paul-says-fauci-acts-against-the-science-wants-people-to-stay-in-bidens-basement.md",
+      "title": "Rand Paul Says Fauci Acts 'Against the Science,' Wants People to Stay In 'Biden's Basement'",
+      "excerpt": "Sen. Rand Paul (R-Ky.) continued his pubic dispute with Dr. Anthony Fauci on Tuesday, claiming that Fauci wants Americans to remain in President Joe Biden's \"basement\" even if they have been vaccinated against COVID-19. Fauci, the nation's top infectious ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/rand-paul-says-fauci-acts-against-science-wants-people-stay-bidens-basement-1583431",
+      "originalUrl": "https://www.newsweek.com/rand-paul-says-fauci-acts-against-science-wants-people-stay-bidens-basement-1583431",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1777376/rand-paul-anthony-fauci-covid-19-vaccines-biden.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/rand-paul-says-fauci-acts-against-science-wants-people-stay-bidens-basement-1583431?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/rand-paul-says-fauci-acts-against-science-wants-people-stay-bidens-basement-1583431?amp=1",
+      "publishedDateTime": "2021-04-13T19:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-bidens-risky-decision-to-end-americas-longest-war-gives-him-a-chance-to-refocus-us-foreign-policy.md",
       "title": "Biden's risky decision to end America's longest war gives him a chance to refocus US foreign policy",
       "excerpt": "President Joe Biden's decision to pull US troops out of Afghanistan by September marks a pivotal moment after almost 20 years of war in the country and thousands of lives lost -- it also signals a coming shift in US focus and resources overseas.\n    \n",
@@ -1309,58 +1361,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-trump-mcconnell-helpless-to-stop-biden-from-packing-court.md",
-      "title": "Trump: McConnell 'helpless' to stop Biden from packing court",
-      "excerpt": "Former President Trump Donald Trump Gaetz was denied meeting with Trump: CNN Federal Reserve chair: Economy would have been 'so much worse' without COVID-19 relief bills Police in California city ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/senate/547840-trump-mcconnell-helpless-to-stop-biden-from-packing-court",
-      "originalUrl": "https://thehill.com/homenews/senate/547840-trump-mcconnell-helpless-to-stop-biden-from-packing-court",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 940,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_mcconnellmitch_021821getty-gn_split_gop-funding.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/senate/547840-trump-mcconnell-helpless-to-stop-biden-from-packing-court?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/547840-trump-mcconnell-helpless-to-stop-biden-from-packing-court?amp",
-      "publishedDateTime": "2021-04-12T19:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

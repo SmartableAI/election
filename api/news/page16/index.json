@@ -2,6 +2,54 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-07-30-dems-worried-about-kamala-harris-approval-more-harm-than-good.md",
+      "title": "Dems worried about Kamala Harris approval: ‘More harm than good’",
+      "excerpt": "As Vice President Kamala Harris’ poll numbers remain underwater, some Democrats are worried that she could become a drag on their efforts to maintain control of congress in the 2022 midterm",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/07/29/democrats-worried-about-kamala-harris-approval-numbers/",
+      "originalUrl": "https://nypost.com/2021/07/29/democrats-worried-about-kamala-harris-approval-numbers/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/kamala-harris-ratings-04.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/07/29/democrats-worried-about-kamala-harris-approval-numbers/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/29/democrats-worried-about-kamala-harris-approval-numbers/amp/",
+      "publishedDateTime": "2021-07-29T12:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-mccarthy-says-country-would-be-better-off-if-biden-had-done-nothing-since-taking-office.md",
       "title": "McCarthy says country would be better off if Biden had 'done nothing' since taking office",
       "excerpt": "House Minority Leader Kevin McCarthy said President Biden's policies have put the \"country in crisis\" and Americans would be better off if Biden had done absolutely \"nothing\" since taking office. ",
@@ -1271,54 +1319,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-trump-vows-we-wont-mask-our-children-in-wake-of-new-cdc-recommendation.md",
-      "title": "Trump vows ‘we won’t mask our children’ in wake of new CDC recommendation",
-      "excerpt": "Donald Trump blasted the Biden administration after the CDC recommended indoor mask mandates in most areas of the US as well as in all K-12 schools, regardless of vaccination status.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/27/trump-vows-we-wont-mask-our-children-after-new-cdc-mandates/",
-      "originalUrl": "https://nypost.com/2021/07/27/trump-vows-we-wont-mask-our-children-after-new-cdc-mandates/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/donald-trump-anti-mask-indexb.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/27/trump-vows-we-wont-mask-our-children-after-new-cdc-mandates/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/27/trump-vows-we-wont-mask-our-children-after-new-cdc-mandates/amp/",
-      "publishedDateTime": "2021-07-27T19:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

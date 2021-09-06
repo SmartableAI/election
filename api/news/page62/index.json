@@ -2,6 +2,58 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2021-04-29-donald-trump-suggests-he-may-sue-cnn-over-project-veritas-video-allegedly-proving-bias.md",
+      "title": "Donald Trump Suggests He May Sue CNN Over Project Veritas Video Allegedly Proving Bias",
+      "excerpt": "\"This is like a campaign contribution of magnitudes like nobody's ever seen before,\" former President Donald Trump said of a Project Veritas video that secretly recorded a CNN employee describing the network's reporting as anti-Trump \"propaganda.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-suggests-he-may-sue-cnn-over-project-veritas-video-allegedly-proving-bias-1587306",
+      "originalUrl": "https://www.newsweek.com/donald-trump-suggests-he-may-sue-cnn-over-project-veritas-video-allegedly-proving-bias-1587306",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1784619/donald-trump-project-veritas-cnn-lawsuit.jpg",
+          "width": 2500,
+          "height": 1871,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-suggests-he-may-sue-cnn-over-project-veritas-video-allegedly-proving-bias-1587306?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-suggests-he-may-sue-cnn-over-project-veritas-video-allegedly-proving-bias-1587306?amp=1",
+      "publishedDateTime": "2021-04-28T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-trump-adviser-roger-stone-says-he-was-in-a-suspicious-hit-and-run-car-accident.md",
       "title": "Trump adviser Roger Stone says he was in a \"suspicious\" hit and run car accident",
       "excerpt": "Roger Stone, long-time adviser and confidant of President Trump, claims he was the victim of a \"suspicious\" hit-and-run car accident Wednesday. The crash comes days after Stone admitted to CBS News that he had made contact with a suspected Russian hacker.",
@@ -1295,63 +1347,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-24-washington-post-runs-fact-check-on-tim-scotts-ancestry-but-not-on-kamala-harris-fweedom-plagiarism-claim.md",
-      "title": "Washington Post runs 'fact-check' on Tim Scott's ancestry but not on Kamala Harris' 'Fweedom' plagiarism claim",
-      "excerpt": "The Washington Post appears quite selective when it comes to the urgency of its 'fact-checks' of certain prominent politicians.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/washington-post-fact-check-tim-scott-kamala-harris-fweedom",
-      "originalUrl": "https://www.foxnews.com/media/washington-post-fact-check-tim-scott-kamala-harris-fweedom",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Tim-Scott-Kamala-Harris-AP.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-23T17:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
         "Republican Voice"
       ]
     }

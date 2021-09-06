@@ -2,6 +2,58 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-07-10-joe-biden-urges-vladimir-putin-to-take-action-against-ransomware-hackers.md",
+      "title": "Joe Biden urges Vladimir Putin to ‘take action’ against ransomware hackers",
+      "excerpt": "Joe Biden warned Vladimir Putin that Russia would face consequences if it failed to act against hackers behind a spate of ransomware attacks, saying the US would take “any necessary action” to protect its people and infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/6ba72aa0-53b7-40ff-89f0-0f4a64bf7cc2",
+      "originalUrl": "https://www.ft.com/content/6ba72aa0-53b7-40ff-89f0-0f4a64bf7cc2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcffef3b2-c492-4f1a-9be1-d0f51eca2b41.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/6ba72aa0-53b7-40ff-89f0-0f4a64bf7cc2",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/6ba72aa0-53b7-40ff-89f0-0f4a64bf7cc2",
+      "publishedDateTime": "2021-07-09T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-09-white-house-defends-hunter-bidens-art-selling-scheme-he-has-the-right-to-pursue-an-artistic-career.md",
       "title": "White House defends Hunter Biden's art selling scheme: 'He has the right to pursue an artistic career'",
       "excerpt": "The White House Friday defended a deal it brokered to allow Hunter Biden's artwork, which could be listed as high as $500,000 each, to sell to anonymous buyers and with no disclosure to the public. ",
@@ -1297,58 +1349,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-melania-trump-spotted-in-nyc-despite-efforts-to-avoid-being-photographed.md",
-      "title": "Melania Trump Spotted In NYC Despite Efforts To Avoid Being Photographed",
-      "excerpt": "Melania Trump was spotted in New York City for the first time since the Trumps left the White House in January.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/melania-trump-spotted-nyc-despite-efforts-avoid-being-photographed-3246712",
-      "originalUrl": "https://www.ibtimes.com/melania-trump-spotted-nyc-despite-efforts-avoid-being-photographed-3246712",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/03/melania-trump-seen-here-on-january-20-which.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/melania-trump-spotted-nyc-despite-efforts-avoid-being-photographed-3246712?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-spotted-nyc-despite-efforts-avoid-being-photographed-3246712?amp=1",
-      "publishedDateTime": "2021-07-07T19:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

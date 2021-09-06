@@ -2,6 +2,58 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2021-04-30-gov-kristi-noem-says-south-dakota-is-taking-biden-to-court-over-fireworks-display-at-mt-rushmore.md",
+      "title": "Gov. Kristi Noem says South Dakota is taking Biden to court over fireworks display at Mt. Rushmore",
+      "excerpt": "Noem has directed her office to file a lawsuit against the National Parks Service after the agency rejected permits to hold the fireworks display.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/2021/04/29/sd-south-dakota-gov-kristi-noem-taking-president-biden-court-over-mt-rushmore-fireworks-july/7403815002/",
+      "originalUrl": "https://www.usatoday.com/story/news/2021/04/29/sd-south-dakota-gov-kristi-noem-taking-president-biden-court-over-mt-rushmore-fireworks-july/7403815002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/07/04/PSIF/8ab1b16d-5225-4daa-ac23-9c248d3cfd79-GettyImages-1254148514.jpg?auto=webp&crop=4218,2373,x0,y447&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7403815002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7403815002",
+      "publishedDateTime": "2021-04-29T16:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-former-trump-official-zinke-eyes-montanas-new-us-house-seat.md",
       "title": "Former Trump official Zinke eyes Montana's new US House seat",
       "excerpt": "Former Montana congressman and Interior Secretary Ryan Zinke has filed election paperwork indicating he is interested in running for the second U.S. House seat awarded to the state",
@@ -1310,58 +1362,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-donald-trump-suggests-he-may-sue-cnn-over-project-veritas-video-allegedly-proving-bias.md",
-      "title": "Donald Trump Suggests He May Sue CNN Over Project Veritas Video Allegedly Proving Bias",
-      "excerpt": "\"This is like a campaign contribution of magnitudes like nobody's ever seen before,\" former President Donald Trump said of a Project Veritas video that secretly recorded a CNN employee describing the network's reporting as anti-Trump \"propaganda.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-suggests-he-may-sue-cnn-over-project-veritas-video-allegedly-proving-bias-1587306",
-      "originalUrl": "https://www.newsweek.com/donald-trump-suggests-he-may-sue-cnn-over-project-veritas-video-allegedly-proving-bias-1587306",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1784619/donald-trump-project-veritas-cnn-lawsuit.jpg",
-          "width": 2500,
-          "height": 1871,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-suggests-he-may-sue-cnn-over-project-veritas-video-allegedly-proving-bias-1587306?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-suggests-he-may-sue-cnn-over-project-veritas-video-allegedly-proving-bias-1587306?amp=1",
-      "publishedDateTime": "2021-04-28T16:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-31-fact-check-is-nancy-pelosi-joe-biden-we-dont-want-him-to-talk-video-real.md",
+      "title": "Fact Check: Is Nancy Pelosi, Joe Biden 'We Don't Want Him to Talk' Video Real?",
+      "excerpt": "A clip spread online, receiving more than 400,000 views, purportedly has the House speaker saying: \"Am I on? No, we don't want him to talk.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/fact-check-nancy-pelosi-joe-biden-no-we-dont-want-him-talk-video-1624486",
+      "originalUrl": "https://www.newsweek.com/fact-check-nancy-pelosi-joe-biden-no-we-dont-want-him-talk-video-1624486",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1883534/nancy-pelosi-getting-pen-biden.jpg",
+          "width": 2500,
+          "height": 1674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/fact-check-nancy-pelosi-joe-biden-no-we-dont-want-him-talk-video-1624486?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-nancy-pelosi-joe-biden-no-we-dont-want-him-talk-video-1624486?amp=1",
+      "publishedDateTime": "2021-08-31T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-31-michael-savage-slams-biden-the-bum-mook-faker.md",
       "title": "Michael Savage slams Biden the ‘bum,’ ‘mook,’ ‘faker’",
       "excerpt": "Radio’s boldest voice, Michael Savage, slammed Joe Biden during an interview as a “bum,” a “failure,” a “mook,” a “faker” for his Afghanistan withdrawal, and outright blamed the president for getting people killed.",
@@ -263,7 +315,7 @@
       "originalUrl": "https://www.pbs.org/newshour/nation/watch-biden-pledges-hurricane-ida-support-for-as-long-as-it-takes",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -1185,49 +1237,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-joe-biden-seeks-diplomacy-with-iran-on-nuclear-deal-but-open-to-other-options.md",
-      "title": "Joe Biden seeks diplomacy with Iran on nuclear deal, but open to 'other options'",
-      "excerpt": "President Joe Biden on Friday said the United States will try diplomacy to keep Iran from obtaining nuclear weapons, but will use \"other options\" if necessary.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/",
-      "originalUrl": "https://www.upi.com/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/3931630085407/2021/1/5a644c6dc5548efdc6df8cce0f83b200/v1.5/Joe-Biden-seeks-diplomacy-with-Iran-on-nuclear-deal-but-open-to-other-options.jpg",
-          "width": 800,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/",
-      "publishedDateTime": "2021-08-27T11:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],
