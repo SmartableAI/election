@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-06-curley-bad-news-is-nothing-a-little-spin-cant-fix-at-biden-white-house.md",
+      "title": "Curley: Bad news is nothing a little spin can’t fix at Biden White House",
+      "excerpt": "Where is the White House cat? I only ask because we were specifically cautioned by White House press secretary Jen Psaki that the feline might appear when the going got tough. “I’ve",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonherald.com/2021/09/05/curley-bad-news-is-nothing-a-little-spin-cant-fix-at-biden-white-house/",
+      "originalUrl": "https://www.bostonherald.com/2021/09/05/curley-bad-news-is-nothing-a-little-spin-cant-fix-at-biden-white-house/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bostonherald.com/wp-content/uploads/2021/03/AP21085637016977.jpg?w=1024&#038;h=683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bostonherald.com/2021/09/05/curley-bad-news-is-nothing-a-little-spin-cant-fix-at-biden-white-house/amp/",
+      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/09/05/curley-bad-news-is-nothing-a-little-spin-cant-fix-at-biden-white-house/amp/",
+      "publishedDateTime": "2021-09-05T20:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Boston Herald",
+        "domain": "bostonherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-09-06-crisis-isnt-over-progressives-push-biden-to-revive-unemployment-benefits-amid-pandemic.md",
       "title": "'Crisis Isn't Over': Progressives Push Biden to Revive Unemployment Benefits Amid Pandemic",
       "excerpt": "\"We're still in a pandemic, and the latest jobs numbers prove that. Doing our part to support Americans right now includes extending expanded\" unemployment insurance benefits, Representative Jamaal Bowman told Newsweek.",
@@ -1424,49 +1467,6 @@
       "provider": {
         "name": "National Review",
         "domain": "nationalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-did-erik-prince-save-joe-biden-from-taliban-blackwater-chief-recalls-2008-rescue.md",
-      "title": "Did Erik Prince save Joe Biden from Taliban? Blackwater chief recalls 2008 rescue",
-      "excerpt": "White House Press Secretary Jen Psaki described Erik Prince, 52, as having no 'heart and soul,' profiting off 'people's agony and pain'",
-      "sourceUrl": null,
-      "webUrl": "https://meaww.com/erik-prince-blackwater-military-contractor-saved-stranded-joe-biden-in-taliban-territory-2008-rescue",
-      "originalUrl": "https://meaww.com/erik-prince-blackwater-military-contractor-saved-stranded-joe-biden-in-taliban-territory-2008-rescue",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cheesecake.articleassets.meaww.com/546432/uploads/a1f94680-0663-11ec-8837-bfe51d82f824_800_420.png",
-          "width": 800,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://meaww.com/amp/erik-prince-blackwater-military-contractor-saved-stranded-joe-biden-in-taliban-territory-2008-rescue",
-      "cdnAmpWebUrl": "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/erik-prince-blackwater-military-contractor-saved-stranded-joe-biden-in-taliban-territory-2008-rescue",
-      "publishedDateTime": "2021-08-26T05:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Meaww",
-        "domain": "meaww.com",
         "images": null,
         "publishers": null,
         "authors": null

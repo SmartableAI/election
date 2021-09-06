@@ -2,6 +2,62 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-07-09-biden-tells-putin-to-disrupt-ransomware-groups-operating-out-of-russia.md",
+      "title": "Biden tells Putin to 'disrupt' ransomware groups operating out of Russia",
+      "excerpt": "President Biden told Russian President Vladimir Putin on Friday to “disrupt” ransomware groups operating out of Russia amid another series of attacks this week.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s1nv30Fa4AM/biden-tells-putin-to-disrupt-ransomware-groups-operating-out-of-russia",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s1nv30Fa4AM/biden-tells-putin-to-disrupt-ransomware-groups-operating-out-of-russia",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1faec23e-7f7d-40d8-994d-78cb65174268/9d242ef5-c1ea-423d-872d-10d8308323e4/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-tells-putin-to-disrupt-ransomware-groups-operating-out-of-russia.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tells-putin-to-disrupt-ransomware-groups-operating-out-of-russia.amp",
+      "publishedDateTime": "2021-07-09T13:59:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-10-joe-biden-urges-vladimir-putin-to-take-action-against-ransomware-hackers.md",
       "title": "Joe Biden urges Vladimir Putin to ‘take action’ against ransomware hackers",
       "excerpt": "Joe Biden warned Vladimir Putin that Russia would face consequences if it failed to act against hackers behind a spate of ransomware attacks, saying the US would take “any necessary action” to protect its people and infrastructure.",
@@ -1291,63 +1347,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-mark-zuckerberg-and-sheryl-sandbergs-partnership-did-not-survive-trump.md",
-      "title": "Mark Zuckerberg and Sheryl Sandberg’s Partnership Did Not Survive Trump",
-      "excerpt": "The company they built is wildly successful. But her Washington wisdom didn’t hold up, and neither did their close working relationship.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/07/08/business/mark-zuckerberg-sheryl-sandberg-facebook.html",
-      "originalUrl": "https://www.nytimes.com/2021/07/08/business/mark-zuckerberg-sheryl-sandberg-facebook.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/07/08/business/08facebook-web-illo/08facebook-web-illo-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/07/08/business/mark-zuckerberg-sheryl-sandberg-facebook.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/08/business/mark-zuckerberg-sheryl-sandberg-facebook.amp.html",
-      "publishedDateTime": "2021-07-08T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

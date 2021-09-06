@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-06-curley-bad-news-is-nothing-a-little-spin-cant-fix-at-biden-white-house.md",
+      "title": "Curley: Bad news is nothing a little spin can’t fix at Biden White House",
+      "excerpt": "Where is the White House cat? I only ask because we were specifically cautioned by White House press secretary Jen Psaki that the feline might appear when the going got tough. “I’ve",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonherald.com/2021/09/05/curley-bad-news-is-nothing-a-little-spin-cant-fix-at-biden-white-house/",
+      "originalUrl": "https://www.bostonherald.com/2021/09/05/curley-bad-news-is-nothing-a-little-spin-cant-fix-at-biden-white-house/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bostonherald.com/wp-content/uploads/2021/03/AP21085637016977.jpg?w=1024&#038;h=683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bostonherald.com/2021/09/05/curley-bad-news-is-nothing-a-little-spin-cant-fix-at-biden-white-house/amp/",
+      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/09/05/curley-bad-news-is-nothing-a-little-spin-cant-fix-at-biden-white-house/amp/",
+      "publishedDateTime": "2021-09-05T20:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Boston Herald",
+        "domain": "bostonherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-09-06-melania-trump-doesnt-want-to-be-first-lady-again-its-over.md",
       "title": "Melania Trump Doesn’t Want To Be First Lady Again: ‘It’s Over’",
       "excerpt": "Melania Trump, the wife of former President Donald Trump, has no interest in returning to the White House as the first lady again, according to a report. The former first lady has",
@@ -1247,62 +1290,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/03/politics/september-11-documents-classified-review-executive-order/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/03/politics/september-11-documents-classified-review-executive-order/index.html",
       "publishedDateTime": "2021-09-03T12:57:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-biden-taps-former-delaware-governor-to-lead-afghan-resettlement-efforts-in-us.md",
-      "title": "Biden taps former Delaware governor to lead Afghan resettlement efforts in US",
-      "excerpt": "President Joe Biden has tapped former Delaware Gov. Jack Markell as the temporary point person who will oversee the administration's Afghan evacuee resettlement effort in the United States, the White House announced Friday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kbRofWuQcvY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kbRofWuQcvY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 192,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/151110132758-jack-markell-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/03/politics/jack-markell-afghan-resettlement/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/03/politics/jack-markell-afghan-resettlement/index.html",
-      "publishedDateTime": "2021-09-03T12:41:46-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

@@ -2,6 +2,58 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2021-05-01-joe-biden-issues-11-proclamations-his-highest-daily-tally-so-far.md",
+      "title": "Joe Biden Issues 11 Proclamations, His Highest Daily Tally So Far",
+      "excerpt": "President Joe Biden set a personal daily record for The president issued 11 proclamations on April 30. Proclamations are statements that serve a variety of functions, such as issuing a directive, acknowledging an event or person,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/joe-biden-issues-11-proclamations-his-highest-daily-tally-so-far-1588054",
+      "originalUrl": "https://www.newsweek.com/joe-biden-issues-11-proclamations-his-highest-daily-tally-so-far-1588054",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1786140/biden-addresses-joint-session-congress.jpg",
+          "width": 2836,
+          "height": 1900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/joe-biden-issues-11-proclamations-his-highest-daily-tally-so-far-1588054?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-issues-11-proclamations-his-highest-daily-tally-so-far-1588054?amp=1",
+      "publishedDateTime": "2021-05-01T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-01-mike-pence-coming-to-texas-for-gop-fundraising-blitz-donor-appreciation-event.md",
       "title": "Mike Pence coming to Texas for GOP fundraising blitz, donor appreciation event",
       "excerpt": "Former Vice President Mike Pence and several other potential 2024 presidential candidates are descending upon Texas next week to thank donors to the 2020 campaign here and to help raise money to flip the U.",
@@ -1296,63 +1348,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-leon-panetta-on-bidens-lack-bipartisanship-it-takes-two-to-tango.md",
-      "title": "Leon Panetta on Biden's lack bipartisanship: It takes two to tango",
-      "excerpt": "We're going to get into the details of all of that, fair and balanced, with John Barrasso, the Republican senator from Wyoming, and Leon Panetta, Bill Clinton's chief of staff, and whether we are building up a lot of debt very,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/leon-panetta-on-bidens-lack-bipartisanship-it-takes-two-to-tango",
-      "originalUrl": "https://www.foxnews.com/transcript/leon-panetta-on-bidens-lack-bipartisanship-it-takes-two-to-tango",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81623771-3b4f-45ee-8b65-03c338f4a578/58b06d7d-6c90-487b-aebe-6f2abac016ad/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/leon-panetta-on-bidens-lack-bipartisanship-it-takes-two-to-tango.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/leon-panetta-on-bidens-lack-bipartisanship-it-takes-two-to-tango.amp",
-      "publishedDateTime": "2021-04-29T17:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     }

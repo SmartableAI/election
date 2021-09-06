@@ -2,6 +2,62 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2021-05-10-white-house-chief-of-staff-says-he-wouldnt-want-to-estimate-or-underestimate-trump-if-he-decides-to-run-in-2024.md",
+      "title": "White House chief of staff says he 'wouldn't want to estimate or underestimate' Trump if he decides to run in 2024 ",
+      "excerpt": "White House chief of staff Ron Klain says that while President Joe Biden will likely seek re-election in 2024, the Biden administration is anticipating a bruising general election matchup if former President Donald Trump decides to run again.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5VF_kr1WEGA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5VF_kr1WEGA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210226160610-02-ron-klain-2020-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/09/politics/ron-klain-donald-trump-2024-presidential-run/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/09/politics/ron-klain-donald-trump-2024-presidential-run/index.html",
+      "publishedDateTime": "2021-05-09T19:52:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-10-roger-stone-said-michael-flynn-should-be-drafted-by-trump-supporters-for-2024-run-if-trump-decides-not-to.md",
       "title": "Roger Stone said Michael Flynn should be 'drafted' by Trump supporters for 2024 run if Trump decides not to",
       "excerpt": "Roger Stone appeared on Newsmax to tout Michael Flynn, a fellow longtime Trump ally and conspiracy theorist who was pardoned by the former president.",
@@ -1298,62 +1354,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-almost-a-million-people-signed-up-for-obamacare-coverage-through-april-after-biden-reopened-exchanges.md",
-      "title": "Almost a million people signed up for Obamacare coverage through April after Biden reopened exchanges",
-      "excerpt": "Almost a million people signed up for 2021 health insurance coverage on the federal Affordable Care Act exchange during the first 10 weeks of President Joe Biden's special enrollment period, according to data released Thursday from the Centers for Medicare and Medicaid Services.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/baIrB4iFW1U/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/baIrB4iFW1U/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180705105817-obamacare-crowd-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/06/politics/affordable-care-act-enrollment-premiums/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/06/politics/affordable-care-act-enrollment-premiums/index.html",
-      "publishedDateTime": "2021-05-06T14:34:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

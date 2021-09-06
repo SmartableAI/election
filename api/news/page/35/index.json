@@ -2,6 +2,62 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-06-24-biden-says-he-wont-sign-bipartisan-spending-deal-without-democrats-infrastructure-wish-list.md",
+      "title": "Biden says he won't sign bipartisan spending deal without Democrats' infrastructure wish list",
+      "excerpt": "President Biden on Thursday touted a new major bipartisan spending deal but warned he wouldn't sign the roughly $1 trillion in roads, bridges and broadband investments unless Congress passes a separate bill on human infrastructure filled with Democratic priorities on expanding the social safety net. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LkBkwjoPDhM/biden-bipartisan-spending-deal-democrats-infrastructure-wish-list",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LkBkwjoPDhM/biden-bipartisan-spending-deal-democrats-infrastructure-wish-list",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-bipartisan-spending-deal-democrats-infrastructure-wish-list.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-bipartisan-spending-deal-democrats-infrastructure-wish-list.amp",
+      "publishedDateTime": "2021-06-24T12:48:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-trump-calls-mcbrooms-michigan-election-report-a-cover-up-asks-supporters-to-call-his-office.md",
       "title": "Trump Calls McBroom's Michigan Election Report a 'Cover Up,' Asks Supporters to Call His Office",
       "excerpt": "In the statement, the former president also referred to the city of Detroit as the \"most corrupt election city in the U.S.\"",
@@ -1288,62 +1344,6 @@
         "Election",
         "Joe Biden",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-ivanka-trump-and-jared-kushner-distance-themselves-from-the-former-president-and-his-constant-complaints.md",
-      "title": "Ivanka Trump and Jared Kushner distance themselves from the former President and his constant complaints",
-      "excerpt": "With each passing day away from Washington, former President Donald Trump's grievances continue unabated. And those complaints appear to be driving away two of the people who were closest to him during his White House tenure: his daughter Ivanka Trump and son-in-law, Jared Kushner.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LZI63cf9jwY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LZI63cf9jwY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210115071514-file-01-jared-kushner-ivanka-trump-2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/23/politics/donald-trump-ivanka-trump-jared-kushner/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/donald-trump-ivanka-trump-jared-kushner/index.html",
-      "publishedDateTime": "2021-06-23T05:50:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

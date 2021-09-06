@@ -1,35 +1,23 @@
 ---
 category: news
-title: "What Are Joe Biden’s Fixed Principles?"
-excerpt: "A crisis reveals a president with little introspection and even less penetration into the world’s problems."
-publishedDateTime: 2021-08-25T21:15:00Z
-originalUrl: "https://www.wsj.com/articles/borax-door-to-door-salesman-statesmanship-joe-biden-presidency-administration-11629921697"
-webUrl: "https://www.wsj.com/articles/borax-door-to-door-salesman-statesmanship-joe-biden-presidency-administration-11629921697"
-ampWebUrl: "https://www.wsj.com/amp/articles/borax-door-to-door-salesman-statesmanship-joe-biden-presidency-administration-11629921697"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/borax-door-to-door-salesman-statesmanship-joe-biden-presidency-administration-11629921697"
+title: "This Isn’t Your Grandpa’s Joe Biden"
+excerpt: "President Biden’s economic policy isn’t what you would have expected from his long career. On everything from antitrust to inflation to employment to power, Biden is reflecting a new strain of progressive economics thoughts."
+publishedDateTime: 2021-09-05T00:00:00Z
+originalUrl: "https://www.realclearpolitics.com/video/2021/09/05/this_isnt_your_grandpas_joe_biden.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/09/05/this_isnt_your_grandpas_joe_biden.html"
 type: article
-quality: 135
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: Wall Street Journal
-  domain: wsj.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
   - Joe Biden
   - Republican Voice
-
-images:
-  - url: "https://images.wsj.net/im-389935/social"
-    width: 1280
-    height: 640
-    isCached: true
 
 related:
   - title: "Who is Deanne Criswell, Biden’s FEMA boss?"
@@ -64,16 +52,23 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "This Isn’t Your Grandpa’s Joe Biden"
-    excerpt: "President Biden’s economic policy isn’t what you would have expected from his long career. On everything from antitrust to inflation to employment to power, Biden is reflecting a new strain of progressive economics thoughts."
-    publishedDateTime: 2021-09-05T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/09/05/this_isnt_your_grandpas_joe_biden.html"
+  - title: "What Are Joe Biden’s Fixed Principles?"
+    excerpt: "A crisis reveals a president with little introspection and even less penetration into the world’s problems."
+    publishedDateTime: 2021-08-25T21:15:00Z
+    webUrl: "https://www.wsj.com/articles/borax-door-to-door-salesman-statesmanship-joe-biden-presidency-administration-11629921697"
+    ampWebUrl: "https://www.wsj.com/amp/articles/borax-door-to-door-salesman-statesmanship-joe-biden-presidency-administration-11629921697"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/borax-door-to-door-salesman-statesmanship-joe-biden-presidency-administration-11629921697"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-389935/social"
+        width: 1280
+        height: 640
+        isCached: true
 
-secured: "Adu37UK3mgc4px9/pA9Q+Bnq4CbkP8qcE1Y1G0XahomCGwIUn+Y4jfldJWR6LyjyEEQbkZsWFNNErsJRhFbot4z2Qeq9EDDqFpBO3pvTDeeUHtFERXTqwnxVmrYOgS5YV91aPrJnv9KsH6MJrdRoDNCrBOqhNM7VBi/EQbDs8QCod0kZG1YUWMlmjbfayqV6+h1E7rflsQCCsGkgRu8/8+XsX5uCEd5v0XdyCGsTDCRtUq2KmjToNo2swD1hIV/ugCSmWLv5eXJZCZhVTB9pJ5pnhgvKdGFxoVI3eKQR7hbYmdpsGxZROqqP2mOfc8eX5mYemPgpwJBenqJWt8rj7hdwN++cyitH8sBVXFxaXUs=;Pyc7gGHyQaJ4dj8amqXZKA=="
+secured: "aJ1dFDyfQ9kpKXL3ZHzUJU/hl8U//gRBUFYqlVzhz7vX/hvq+zn+MrN8f6vAKBYR7G9vb8XNHs60bWpgHpNF3AGuwuQMdwtRDRIC+aEQs3ceGeD56mfIHZtR66imbM5jqkBldK5oCjtQnOz71GfokLOZZwQeqi0+LSFM6Rq17eEvHyefSHIyRxgs0wSF8HDdXAKJG+yuYmzbMXoIM3vhWQICZxObU1A427qKNirRmtQJJ1FQ4RXLz3voPyhZsUb1Ng2hk8/wSXcsYsAIFqh5+qgkSX9IeXv09gDTrfJgefX9jnbKeCHHPS0NuXmUAjpm8eHPupX7v0NarsPBT/j8Z2IroTeNUq+7m7prLncDcLqv6rznNa18jyvJlkE9U/PE5ffoBDaJnZlQgaGUMKB+6kULqMvHEbNoj0Efo+ZI8804njLa3tdNE5hYkzD0aNpxiSzvUHDf+U/y/ztp9v9xV6kXnrYL4kC/VdHDLibzHgAlC6cqf3Q1s0RKXOitxhVsnBW6bchdOdmhULybiqU+Ww==;hcsGtBqLyWOhGdKGbvTjiA=="
 ---
 

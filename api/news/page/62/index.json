@@ -2,6 +2,58 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2021-04-29-cheney-wishful-thinking-by-trump-she-wont-seek-4th-term.md",
+      "title": "Cheney: 'Wishful thinking' by Trump she won't seek 4th term",
+      "excerpt": "Liz Cheney calls speculation by former President Donald Trump that she won’t seek re-election next year “wishful thinking.”",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/cheney-wishful-thinking-trump-seek-4th-term-77379316",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/cheney-wishful-thinking-trump-seek-4th-term-77379316",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_e1b55afc1f3c47869a997474e6fdc028_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/cheney-wishful-thinking-trump-seek-4th-term-77379316",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/cheney-wishful-thinking-trump-seek-4th-term-77379316",
+      "publishedDateTime": "2021-04-28T16:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-donald-trump-suggests-he-may-sue-cnn-over-project-veritas-video-allegedly-proving-bias.md",
       "title": "Donald Trump Suggests He May Sue CNN Over Project Veritas Video Allegedly Proving Bias",
       "excerpt": "\"This is like a campaign contribution of magnitudes like nobody's ever seen before,\" former President Donald Trump said of a Project Veritas video that secretly recorded a CNN employee describing the network's reporting as anti-Trump \"propaganda.",
@@ -1291,63 +1343,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-24-ingraham-bidens-insurrectionists-want-us-to-lose-sight-of-freedom-that-made-america-great.md",
-      "title": "Ingraham: 'Biden's Insurrectionists' want us to 'lose sight' of freedom that made America great",
-      "excerpt": "Fox News host Laura Ingraham opened her show \"The Ingraham Angle\" on Friday highlighting the leftist tactics of what she calls \"Biden's Insurrectionists\" who \"want us to lose sight\" of the freedom tha",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/ingraham-bidens-insurrectionists-want-us-to-lose-sight-of-freedom-that-made-america-great",
-      "originalUrl": "https://www.foxnews.com/media/ingraham-bidens-insurrectionists-want-us-to-lose-sight-of-freedom-that-made-america-great",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2296e2b8-0707-42bb-8660-36fbeef42776/faa336be-7070-4599-ae58-68a1f043d8d3/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/ingraham-bidens-insurrectionists-want-us-to-lose-sight-of-freedom-that-made-america-great.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ingraham-bidens-insurrectionists-want-us-to-lose-sight-of-freedom-that-made-america-great.amp",
-      "publishedDateTime": "2021-04-23T20:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

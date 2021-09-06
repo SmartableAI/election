@@ -2,6 +2,62 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-07-16-biden-says-platforms-like-facebook-are-killing-people-with-covid-misinformation.md",
+      "title": "Biden says platforms like Facebook are 'killing people' with Covid misinformation",
+      "excerpt": "President Joe Biden said Friday social media platforms like Facebook are \"killing people\" with misinformation surrounding the Covid-19 pandemic as the White House ramps up its rhetoric around false information on social media regarding the pandemic.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1CpB3Rl8LE0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1CpB3Rl8LE0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 270,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210716101316-02-biden-0713-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/16/politics/biden-facebook-covid-19/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/biden-facebook-covid-19/index.html",
+      "publishedDateTime": "2021-07-16T13:50:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-17-john-bolton-says-trump-isnt-capable-of-staging-a-coup-because-that-requires-advance-thinking-planning-strategizing.md",
       "title": "John Bolton says Trump isn't 'capable' of staging a coup because 'that requires advance thinking, planning, strategizing'",
       "excerpt": "\"The idea of Trump staging a coup does give him too much credit,\" Trump's former national security adviser said on CNN's \"New Day.\"",
@@ -1250,54 +1306,6 @@
       "provider": {
         "name": "RealClearPolitics",
         "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-kevin-mccarthy-set-to-meet-with-trump-at-bedminster-club.md",
-      "title": "Kevin McCarthy set to meet with Trump at Bedminster club",
-      "excerpt": "House Minority Leader Kevin McCarthy is slated to meet with former President Donald Trump in Bedminster, N.J. on Thursday, Trump said in a statement ahead of the gathering.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/15/mccarthy-set-to-meet-with-trump-at-bedminster-clubmccarthy-set-to-meet-with-trump-at-bedminster-club/",
-      "originalUrl": "https://nypost.com/2021/07/15/mccarthy-set-to-meet-with-trump-at-bedminster-clubmccarthy-set-to-meet-with-trump-at-bedminster-club/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/mccarthy-trump-46.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/15/mccarthy-set-to-meet-with-trump-at-bedminster-clubmccarthy-set-to-meet-with-trump-at-bedminster-club/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/15/mccarthy-set-to-meet-with-trump-at-bedminster-clubmccarthy-set-to-meet-with-trump-at-bedminster-club/amp/",
-      "publishedDateTime": "2021-07-15T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
         "images": null,
         "publishers": null,
         "authors": null

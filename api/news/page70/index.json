@@ -2,6 +2,63 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2021-04-11-sen-thune-not-afraid-of-a-fight-if-trump-backs-a-challenger-in-2022.md",
+      "title": "Sen Thune not 'afraid of a fight' if Trump backs a challenger in 2022",
+      "excerpt": "Sen. John Thune, R-S.D., said that he is not \"afraid of a fight\" if former President Donald Trump campaigns against him in 2022 after being labeled a \"weak and inneffective RINO\" by him earlier in the year. \"I've been through wars in South Dakota ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/john-thune-donald-trump-2022-senate",
+      "originalUrl": "https://www.foxnews.com/politics/john-thune-donald-trump-2022-senate",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Thune-Trump.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/john-thune-donald-trump-2022-senate.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-thune-donald-trump-2022-senate.amp",
+      "publishedDateTime": "2021-04-11T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-11-clyburn-offers-manchin-history-lesson-to-clear-senate-path-for-biden-reforms.md",
       "title": "Clyburn offers Manchin history lesson to clear Senate path for Biden reforms",
       "excerpt": "said on Sunday he intends to give Joe Manchin a lesson in US history as he attempts to clear a path for Joe Biden on voting rights and infrastructure. Pelosi and Cheney critical of Gaetz but stop short of calling for resignation Manchin, a moderate ...",
@@ -1299,59 +1356,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-mike-pence-memoir-could-define-him-for-2024-but-donald-trump-looms-large.md",
-      "title": "Mike Pence Memoir Could Define Him for 2024, but Donald Trump Looms Large",
-      "excerpt": "Mike Pence has an opportunity to guide the narrative of his political career thus far with his upcoming memoir. And with the first of two parts due for release in 2023, the book is perfectly timed for a potential presidential run the next year. However ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227",
-      "originalUrl": "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 2409,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1774301/mike-pence-georgia.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227?amp=1",
-      "publishedDateTime": "2021-04-09T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Donald Trump"
       ]
     }
   ],

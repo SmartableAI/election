@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-08-05-woke-means-you-lose-donald-trump-rails-at-uswnt-after-olympic-bronze.md",
+      "title": "‘Woke means you lose’: Donald Trump rails at USWNT after Olympic bronze",
+      "excerpt": "Donald Trump has taken aim at one of his favourite targets, the US national women’s soccer team, after they won bronze at Tokyo 2020",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/football/2021/aug/05/donald-trump-uswnt-usa-soccer-olympics-bronze-megan-rapinoe-tokyo-2020",
+      "originalUrl": "https://www.theguardian.com/football/2021/aug/05/donald-trump-uswnt-usa-soccer-olympics-bronze-megan-rapinoe-tokyo-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/fc024b3640fb35fce3693f00f1ec177e42aa0322/0_77_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f73ba05b1fca33d077b94bd2db247dd8",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/football/2021/aug/05/donald-trump-uswnt-usa-soccer-olympics-bronze-megan-rapinoe-tokyo-2020",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/football/2021/aug/05/donald-trump-uswnt-usa-soccer-olympics-bronze-megan-rapinoe-tokyo-2020",
+      "publishedDateTime": "2021-08-05T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-05-the-point-you-shouldnt-miss-this-massive-bombshell-in-trumps-ongoing-election-fraud-lie.md",
       "title": "The Point: You shouldn't miss this massive bombshell in Trump's ongoing election fraud lie",
       "excerpt": "Unless you have been living on another planet for the past six months, you know by now that Donald Trump leaned on state and national officials in the final days of his presidency to force investigations into made-up claims of widespread election fraud in the 2020 race.\n    \n",
@@ -1276,58 +1328,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-biden-set-to-comment-on-cuomo-as-white-house-calls-report-findings-abhorrent.md",
-      "title": "Biden set to comment on Cuomo as White House calls report findings ‘abhorrent’",
-      "excerpt": "President to address issue later on Tuesday, spokesperson says, as New York senators and members of Congress urge Cuomo to quit",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 281,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/d50c4bf5178356705905e065c63f90202161f50f/0_0_6930_4158/master/6930.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fe9d94f9a41a7a9ee93197fd08cd8132",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation",
-      "publishedDateTime": "2021-08-03T11:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

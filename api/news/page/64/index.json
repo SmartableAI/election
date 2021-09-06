@@ -2,6 +2,62 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2021-04-22-biden-preparing-to-declare-massacre-of-armenians-a-genocide-risking-break-with-turkey.md",
+      "title": "Biden preparing to declare massacre of Armenians a 'genocide,' risking break with Turkey ",
+      "excerpt": "President Joe Biden is preparing to declare the massacre of an estimated million or more Armenians under the Ottoman Empire a \"genocide\" this week, risking a potential fracture with Turkey but fulfilling a campaign pledge to finally use the word as President to describe the mass killings after a series",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xuIbT8fBnKc/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xuIbT8fBnKc/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210417093925-01-joe-biden-0415-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/21/politics/biden-armenia-genocide-turkey/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/21/politics/biden-armenia-genocide-turkey/index.html",
+      "publishedDateTime": "2021-04-21T20:03:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-white-house-rebrands-kamala-harris-husband-douglas-instead-of-doug.md",
       "title": "White House rebrands Kamala Harris’ husband ‘Douglas’ instead of ‘Doug’",
       "excerpt": "The White House changed the name of Kamala Harris’ husband from “Doug” to “Douglas” Emhoff in an apparent attempt to rebrand him as a more serious guy.",
@@ -1313,63 +1369,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-durbin-wants-more-info-on-trump-appointees-burrowed-into-career-justice-dept-jobs.md",
-      "title": "Durbin wants more info on Trump appointees 'burrowed' into career Justice Dept. jobs",
-      "excerpt": "The Illinois senator, citing NBC News' reporting, requested info on Trump appointees who landed career civil service jobs at the Executive Office of Immigration Review.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/politics-news/durbin-wants-more-info-trump-appointees-burrowed-career-justice-dept-n1264671",
-      "originalUrl": "https://www.nbcnews.com/politics/politics-news/durbin-wants-more-info-trump-appointees-burrowed-career-justice-dept-n1264671",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2021_16/3466278/210420-dick-durbin-jm-1306_d00a3138f4489653a7a5e7fcf1f1050f.jpg",
-          "width": 2500,
-          "height": 1666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1264671",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264671",
-      "publishedDateTime": "2021-04-20T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

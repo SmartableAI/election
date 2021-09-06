@@ -2,6 +2,62 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-07-13-mitch-mcconnell-responds-to-trumps-old-crow-insult-its-quite-an-honor.md",
+      "title": "Mitch McConnell responds to Trump's 'Old Crow' insult: 'It's quite an honor'",
+      "excerpt": "Former President Donald Trump took a whack at Senate GOP leader Mitch McConnell last weekend, calling him an \"Old Crow\" as he railed against the Kentucky Republican.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1daCraT4Ons/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1daCraT4Ons/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201216121358-01-mcconnell-trump-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/13/politics/mitch-mcconnell-old-crow/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/mitch-mcconnell-old-crow/index.html",
+      "publishedDateTime": "2021-07-13T16:02:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-gutfeld-rips-biden-as-pathological-liar-injecting-race-into-election-law-speech-amid-texas-standoff.md",
       "title": "Gutfeld rips Biden as 'pathological liar' injecting race into election law speech amid Texas standoff",
       "excerpt": "The Five” host Greg Gutfeld blasted President Joe Biden as a “pathological, shameless liar” after the Delaware Democrat injected race into a Philadelphia speech about election laws, as Texas state Democratic lawmakers flew to Washington,",
@@ -1268,63 +1324,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-garcetti-to-india-jenner-doesnt-want-trump-nod-gaines-gets-in-heat-wave-threatens-power-grid.md",
-      "title": "GARCETTI to INDIA — JENNER doesn’t want TRUMP nod — GAINES gets in — HEAT WAVE threatens power grid",
-      "excerpt": "Eric Garcetti’s going on to his next big challenge. But is he leaving the City of Angels in the lurch? The mayor of America’s second-largest city was chosen by President Joe Biden for the high profile ambassadorship of India Friday,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/california-playbook/2021/07/12/garcetti-tapped-for-india-ambassadorship-jenner-doesnt-want-trump-endorsement-gaines-gets-in-california-to-require-school-face-masks-in-fall-heat-wave-threatens-power-grid-decision-today-on-gavins-recall-ballot-designation-493530",
-      "originalUrl": "https://www.politico.com/newsletters/california-playbook/2021/07/12/garcetti-tapped-for-india-ambassadorship-jenner-doesnt-want-trump-endorsement-gaines-gets-in-california-to-require-school-face-masks-in-fall-heat-wave-threatens-power-grid-decision-today-on-gavins-recall-ballot-designation-493530",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
-          "width": 1120,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

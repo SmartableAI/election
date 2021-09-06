@@ -2,6 +2,63 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-31-pete-hegseth-rips-biden-for-checking-watch-calls-out-betrayal-of-us-military-mission.md",
+      "title": "Pete Hegseth rips Biden for checking watch, calls out 'betrayal' of US military mission",
+      "excerpt": "Army veteran and ‘Fox & Friends Weekend’ co-host Pete Hegseth ripped into Joe Biden on Monday after Gold Star families criticized the president for repeatedly checking his watch while meeting with them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/biden-checking-watch-betrayal-military-hegseth",
+      "originalUrl": "https://www.foxnews.com/media/biden-checking-watch-betrayal-military-hegseth",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b475c4af-ac40-44aa-a114-920cccc3d52a/51978ba7-0064-41e2-bd9d-73365cc9f209/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/biden-checking-watch-betrayal-military-hegseth.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-checking-watch-betrayal-military-hegseth.amp",
+      "publishedDateTime": "2021-08-31T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-31-fact-check-is-nancy-pelosi-joe-biden-we-dont-want-him-to-talk-video-real.md",
       "title": "Fact Check: Is Nancy Pelosi, Joe Biden 'We Don't Want Him to Talk' Video Real?",
       "excerpt": "A clip spread online, receiving more than 400,000 views, purportedly has the House speaker saying: \"Am I on? No, we don't want him to talk.\"",
@@ -807,7 +864,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 215,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -1185,58 +1242,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-jack-nicklaus-on-if-tiger-woods-will-play-again-supporting-donald-trump-and-needing-a-cane.md",
-      "title": "Jack Nicklaus on if Tiger Woods will play again, supporting Donald Trump and needing a cane",
-      "excerpt": "Jack Nicklaus with a cane? Apparently the 81-year-old legend suffered an injury playing pickleball. Allow me to speak for everyone when I say that’s an image we’re not ready to see. It’s bad",
-      "sourceUrl": null,
-      "webUrl": "https://golfweek.usatoday.com/lists/jack-nicklaus-qa-tiger-woods-donald-trump-cane/",
-      "originalUrl": "https://golfweek.usatoday.com/lists/jack-nicklaus-qa-tiger-woods-donald-trump-cane/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://golfweek.usatoday.com/wp-content/uploads/sites/87/2017/03/gettyimages-463960886.jpg",
-          "width": 3656,
-          "height": 2339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://golfweek.usatoday.com/lists/jack-nicklaus-qa-tiger-woods-donald-trump-cane/amp/",
-      "cdnAmpWebUrl": "https://golfweek-usatoday-com.cdn.ampproject.org/c/s/golfweek.usatoday.com/lists/jack-nicklaus-qa-tiger-woods-donald-trump-cane/amp/",
-      "publishedDateTime": "2021-08-27T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

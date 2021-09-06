@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-08-04-biden-set-to-comment-on-cuomo-as-white-house-calls-report-findings-abhorrent.md",
+      "title": "Biden set to comment on Cuomo as White House calls report findings ‘abhorrent’",
+      "excerpt": "President to address issue later on Tuesday, spokesperson says, as New York senators and members of Congress urge Cuomo to quit",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 281,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/d50c4bf5178356705905e065c63f90202161f50f/0_0_6930_4158/master/6930.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fe9d94f9a41a7a9ee93197fd08cd8132",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation",
+      "publishedDateTime": "2021-08-03T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-border-patrol-union-official-says-situation-still-horrific-no-progress-since-kamala-harris-visit.md",
       "title": "Border Patrol union official says situation still 'horrific': ‘No progress’ since Kamala Harris visit",
       "excerpt": "National Border Patrol Council VP Art Del Cueto told “America’s Newsroom” Tuesday that the migrant surge is “horrific” and there’s been zero progress since Vice President Kamala Harris last visited the southern border.",
@@ -1302,58 +1354,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-01-alexander-vindman-nsc-staffer-who-sparked-trumps-first-impeachment-tells-his-story.md",
-      "title": "Alexander Vindman, NSC staffer who sparked Trump's first impeachment, tells his story",
-      "excerpt": "In \"Here, right matters,\" retired Lt. Col. Alexander Vindman talks about reporting Trump's infamous Ukraine call, and the cost to him and his family.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/politics/2021/08/01/alexander-vindman-here-right-matters-trump-impeachment/5439749001/",
-      "originalUrl": "https://www.usatoday.com/videos/news/politics/2021/08/01/alexander-vindman-here-right-matters-trump-impeachment/5439749001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/07/30/USAT/775b9555-9383-43a6-918a-bd4eac7d28d0-XXX_VINDMAN_HGS_001.JPG?quality=10",
-          "width": 6000,
-          "height": 3376,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-01T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -2,6 +2,63 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2021-06-03-washington-post-op-ed-claims-media-no-longer-needs-trump-despite-nonstop-coverage-of-former-potus.md",
+      "title": "Washington Post op-ed claims media 'no longer needs Trump' despite nonstop coverage of former POTUS",
+      "excerpt": "Washington Post columnist Paul Waldman made a questionable claim that the media \"no longer needs\" Donald Trump despite the continued coverage the former president still receives more than four months after leaving office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/washington-post-media-no-longer-needs-trump",
+      "originalUrl": "https://www.foxnews.com/media/washington-post-media-no-longer-needs-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13047418-caba-44ab-b1ef-54005bdff3dc/dacbaf78-7f4d-4ad2-9cae-657e1f1b9c1b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/washington-post-media-no-longer-needs-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/washington-post-media-no-longer-needs-trump.amp",
+      "publishedDateTime": "2021-06-02T16:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-well-paid-aoc-dinged-after-posting-photo-of-grandmas-dilapidated-puerto-rico-home-and-blaming-trump.md",
       "title": "Well-paid AOC dinged after posting photo of grandma's dilapidated Puerto Rico home and blaming Trump",
       "excerpt": "Rep. Alexandria Ocasio-Cortez posted a photo of her grandmother’s Puerto Rico home in a state of disrepair in the aftermath of Hurricane Maria to demonstrate how the U.S. had blocked relief to the territory, but some questioned why she hadn’t offered to help repair the home herself.",
@@ -1290,58 +1347,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-biden-visits-tulsa-to-honor-victims-of-1921-race-massacre-us-politics-live.md",
-      "title": "Biden visits Tulsa to honor victims of 1921 race massacre – US politics live",
-      "excerpt": "President to commemorate hundreds who died in attack by white mob – follow all the day’s politics news",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live?page=with:block-60b645058f08b9889b365a08",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live?page=with:block-60b645058f08b9889b365a08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 242,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/0d3ad303e825c14e8de5210b5c83e95d929b332d/0_107_3980_2389/master/3980.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1beca5805e55e7773443ec4f37679480",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live",
-      "publishedDateTime": "2021-06-01T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

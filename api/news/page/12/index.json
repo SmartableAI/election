@@ -2,6 +2,62 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-08-09-biden-pushes-sanctions-against-belarus-lukashenko-regime.md",
+      "title": "Biden pushes sanctions against Belarus' Lukashenko regime",
+      "excerpt": "President Joe Biden on Monday said the United States is levying new sanctions against Belarus.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/olLR5J0jnK0/biden-sanctions-belarus-lukashenko",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/olLR5J0jnK0/biden-sanctions-belarus-lukashenko",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9bdbfbc4-87fa-49a6-8f09-2a6156f8a0e2/e1261bb5-02f5-493d-a6dd-9b1e23cc0e40/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-sanctions-belarus-lukashenko.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sanctions-belarus-lukashenko.amp",
+      "publishedDateTime": "2021-08-09T09:45:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-09-melania-trump-blasts-historian-after-misleading-rose-garden-criticism.md",
       "title": "Melania Trump blasts historian after ‘misleading’ Rose Garden criticism",
       "excerpt": "Former First Lady Melania Trump is firing back after NBC resident historian Michael Beschloss criticized her renovation of the Rose Garden.",
@@ -1280,58 +1336,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-woke-means-you-lose-donald-trump-rails-at-uswnt-after-olympic-bronze.md",
-      "title": "‘Woke means you lose’: Donald Trump rails at USWNT after Olympic bronze",
-      "excerpt": "Donald Trump has taken aim at one of his favourite targets, the US national women’s soccer team, after they won bronze at Tokyo 2020",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/football/2021/aug/05/donald-trump-uswnt-usa-soccer-olympics-bronze-megan-rapinoe-tokyo-2020",
-      "originalUrl": "https://www.theguardian.com/football/2021/aug/05/donald-trump-uswnt-usa-soccer-olympics-bronze-megan-rapinoe-tokyo-2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/fc024b3640fb35fce3693f00f1ec177e42aa0322/0_77_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f73ba05b1fca33d077b94bd2db247dd8",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/football/2021/aug/05/donald-trump-uswnt-usa-soccer-olympics-bronze-megan-rapinoe-tokyo-2020",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/football/2021/aug/05/donald-trump-uswnt-usa-soccer-olympics-bronze-megan-rapinoe-tokyo-2020",
-      "publishedDateTime": "2021-08-05T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

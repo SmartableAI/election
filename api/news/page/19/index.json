@@ -2,6 +2,62 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-07-22-tiktok-white-house-agree-to-drop-trump-era-lawsuit.md",
+      "title": "TikTok, White House agree to drop Trump-era lawsuit",
+      "excerpt": "The Chinese owned social media platform TikTok has reached an agreement with the White House to drop a lawsuit challenging former President Donald Trump’s attempt to ban the video app from app stores in the United States.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m7xeWJIq5Vc/tiktok-white-house-agree-to-drop-trump-era-lawsuit",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m7xeWJIq5Vc/tiktok-white-house-agree-to-drop-trump-era-lawsuit",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1117589-3186-4490-925d-1d089e42a626/11be2235-525a-4bf7-9a63-f81e6034e16d/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/tiktok-white-house-agree-to-drop-trump-era-lawsuit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tiktok-white-house-agree-to-drop-trump-era-lawsuit.amp",
+      "publishedDateTime": "2021-07-22T12:00:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-former-education-sec-devos-blasts-biden-admins-many-ties-to-twisted-and-warped-critical-race-theory.md",
       "title": "Former Education Sec. DeVos blasts Biden admin's 'many ties' to 'twisted and warped' critical race theory",
       "excerpt": "EXCLUSIVE: Former Department of Education Secretary Betsy DeVos said it is \"appalling\" to see close ties between radical groups pushing critical race theory and the Biden administration.",
@@ -1308,58 +1364,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-biden-nominates-victoria-kennedy-for-austria-ambassadorship.md",
-      "title": "Biden nominates Victoria Kennedy for Austria ambassadorship",
-      "excerpt": "President Joe Biden is nominating Victoria Kennedy, an attorney and the widow of Sen. Ted Kennedy, to serve as his ambassador to Austria WASHINGTON -- President Joe Biden is nominating Victoria ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-nominates-victoria-kennedy-austria-ambassadorship-78975901",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-nominates-victoria-kennedy-austria-ambassadorship-78975901",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_8ef2cb0f67a04ce08696bd3210b35719_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-nominates-victoria-kennedy-austria-ambassadorship-78975901",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-nominates-victoria-kennedy-austria-ambassadorship-78975901",
-      "publishedDateTime": "2021-07-21T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

@@ -2,6 +2,62 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-06-23-ivanka-trump-and-jared-kushner-distance-themselves-from-the-former-president-and-his-constant-complaints.md",
+      "title": "Ivanka Trump and Jared Kushner distance themselves from the former President and his constant complaints",
+      "excerpt": "With each passing day away from Washington, former President Donald Trump's grievances continue unabated. And those complaints appear to be driving away two of the people who were closest to him during his White House tenure: his daughter Ivanka Trump and son-in-law, Jared Kushner.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LZI63cf9jwY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LZI63cf9jwY/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 178,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210115071514-file-01-jared-kushner-ivanka-trump-2020-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/23/politics/donald-trump-ivanka-trump-jared-kushner/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/donald-trump-ivanka-trump-jared-kushner/index.html",
+      "publishedDateTime": "2021-06-23T05:50:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-biden-made-it-easier-to-get-a-work-visa-heres-why-foreign-workers-still-cant-get-to-the-us.md",
       "title": "Biden made it easier to get a work visa. Here's why foreign workers still can't get to the US.",
       "excerpt": "When President Joe Biden revoked a Trump-era executive order in February that had temporarily banned some immigrant visas during the coronavirus pandemic, he touted the way US industries could again \"utilize talent from around the world.\"\n    \n",
@@ -1284,58 +1340,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-first-thing-biden-faces-senate-showdown-on-key-domestic-agenda-issues.md",
-      "title": "First Thing: Biden faces Senate showdown on key domestic agenda issues",
-      "excerpt": "The president faces opposition from Republicans and some conservative Democrats before a key vote. Plus, why we need to talk about menopause",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jun/21/first-thing-biden-faces-senate-showdown-on-key-domestic-agenda-issues",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/21/first-thing-biden-faces-senate-showdown-on-key-domestic-agenda-issues",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 445,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/409228eced9bddf6ff1adcaa19b4f38038bee0e1/0_233_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=00d39a2efd887b22d6d46ed0d2c256cf",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/21/first-thing-biden-faces-senate-showdown-on-key-domestic-agenda-issues",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/21/first-thing-biden-faces-senate-showdown-on-key-domestic-agenda-issues",
-      "publishedDateTime": "2021-06-21T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

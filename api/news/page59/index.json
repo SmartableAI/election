@@ -2,6 +2,58 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2021-05-04-facebook-and-trump-are-at-a-turning-point-in-their-long-tortured-relationship.md",
+      "title": "Facebook and Trump are at a turning point in their long, tortured relationship",
+      "excerpt": "Facebook’s decision to outsource the future of Trump’s account to an independent Oversight Board stems from a tortured relationship with the former president. It could also set a precedent on how social media companies handle politicians and on how they will balance free speech and harm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2021/05/04/trump-facebook-relationship-history/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2021/05/04/trump-facebook-relationship-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 321,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SUC6YBUU2II6XKW4V54HAGRQZI.jpg&w=1440",
+          "width": 1440,
+          "height": 901,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/technology/2021/05/04/trump-facebook-relationship-history/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/05/04/trump-facebook-relationship-history/?outputType=amp",
+      "publishedDateTime": "2021-05-04T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-joe-biden-raises-trump-refugee-cap-after-backlash.md",
       "title": "Joe Biden raises Trump refugee cap after backlash",
       "excerpt": "President Joe Biden has lifted the US annual refugee cap, bowing to backlash from his party after he initially opted to stick by the Trump-era figure. The Democratic president is raising the cap from 15,",
@@ -1274,58 +1326,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-joe-biden-issues-11-proclamations-his-highest-daily-tally-so-far.md",
-      "title": "Joe Biden Issues 11 Proclamations, His Highest Daily Tally So Far",
-      "excerpt": "President Joe Biden set a personal daily record for The president issued 11 proclamations on April 30. Proclamations are statements that serve a variety of functions, such as issuing a directive, acknowledging an event or person,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-issues-11-proclamations-his-highest-daily-tally-so-far-1588054",
-      "originalUrl": "https://www.newsweek.com/joe-biden-issues-11-proclamations-his-highest-daily-tally-so-far-1588054",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1786140/biden-addresses-joint-session-congress.jpg",
-          "width": 2836,
-          "height": 1900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-issues-11-proclamations-his-highest-daily-tally-so-far-1588054?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-issues-11-proclamations-his-highest-daily-tally-so-far-1588054?amp=1",
-      "publishedDateTime": "2021-05-01T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

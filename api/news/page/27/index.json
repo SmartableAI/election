@@ -2,6 +2,63 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-07-08-mark-zuckerberg-and-sheryl-sandbergs-partnership-did-not-survive-trump.md",
+      "title": "Mark Zuckerberg and Sheryl Sandberg’s Partnership Did Not Survive Trump",
+      "excerpt": "The company they built is wildly successful. But her Washington wisdom didn’t hold up, and neither did their close working relationship.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/07/08/business/mark-zuckerberg-sheryl-sandberg-facebook.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/08/business/mark-zuckerberg-sheryl-sandberg-facebook.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/08/business/08facebook-web-illo/08facebook-web-illo-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/08/business/mark-zuckerberg-sheryl-sandberg-facebook.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/08/business/mark-zuckerberg-sheryl-sandberg-facebook.amp.html",
+      "publishedDateTime": "2021-07-08T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-melania-trump-spotted-in-nyc-despite-efforts-to-avoid-being-photographed.md",
       "title": "Melania Trump Spotted In NYC Despite Efforts To Avoid Being Photographed",
       "excerpt": "Melania Trump was spotted in New York City for the first time since the Trumps left the White House in January.",
@@ -1249,58 +1306,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-bidens-education-dept-just-hired-elizabeth-warrens-student-loans-expert-who-studied-predatory-lending-at-harvard.md",
-      "title": "Biden's Education Dept. just hired Elizabeth Warren's student-loans expert, who studied predatory lending at Harvard",
-      "excerpt": "Warren cited Toby Merrill's research, from Harvard's Project of Predatory Student Lending, that Biden has the legal authority to cancel student debt.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-education-department-toby-merrill-predatory-student-loans-elizabeth-warren-2021-7",
-      "originalUrl": "https://www.businessinsider.com/biden-education-department-toby-merrill-predatory-student-loans-elizabeth-warren-2021-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60e4a94022d19400191c93fc?width=750&format=jpeg&auto=webp",
-          "width": 750,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-education-department-toby-merrill-predatory-student-loans-elizabeth-warren-2021-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-education-department-toby-merrill-predatory-student-loans-elizabeth-warren-2021-7?amp",
-      "publishedDateTime": "2021-07-06T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

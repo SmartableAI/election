@@ -2,6 +2,63 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-14-ingraham-slams-bidens-philadelphia-voter-rights-speech-as-usual-liberals-are-at-war-with-the-facts.md",
+      "title": "Ingraham slams Biden's Philadelphia voter rights speech: 'As usual, liberals are at war with the facts'",
+      "excerpt": "In response to President Joe Biden's Tuesday speech on voting rights protection in Philadelphia, Fox News host Laura Ingraham ripped the president on \"The Ingraham Angle,\" claiming that \"as usual, liberals are at war with the facts\" and that Biden was \"just reading whatever script his writers handed to him.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/ingraham-biden-philadelphia-voter-rights",
+      "originalUrl": "https://www.foxnews.com/media/ingraham-biden-philadelphia-voter-rights",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/46929a4d-78fe-445f-a714-0ea8ceb5e626/8eb45b00-d0a2-4b1b-8670-7c60e17ede15/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/ingraham-biden-philadelphia-voter-rights.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ingraham-biden-philadelphia-voter-rights.amp",
+      "publishedDateTime": "2021-07-13T21:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-gutfeld-rips-biden-as-pathological-liar-injecting-race-into-election-law-speech-amid-texas-standoff.md",
       "title": "Gutfeld rips Biden as 'pathological liar' injecting race into election law speech amid Texas standoff",
       "excerpt": "The Five” host Greg Gutfeld blasted President Joe Biden as a “pathological, shameless liar” after the Delaware Democrat injected race into a Philadelphia speech about election laws, as Texas state Democratic lawmakers flew to Washington,",
@@ -1493,63 +1550,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-ari-fleischer-challenges-bidens-victory-lap-on-economy-hes-a-trojan-horse-with-a-script.md",
-      "title": "Ari Fleischer challenges Biden's victory lap on economy: He's a 'Trojan horse with a script'",
-      "excerpt": "Former White House press secretary Ari Fleischer called out President Biden Friday for taking a victory lap on the better-than-expected June jobs report and crediting his administration's economic agenda for the strongest hiring gain in 10 months.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/ari-fleischer-biden-economy-trojan-horse-with-script",
-      "originalUrl": "https://www.foxnews.com/media/ari-fleischer-biden-economy-trojan-horse-with-script",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a64119f-1abd-4346-98e2-1b3ff777a05f/a790245a-7083-4465-b173-0a834fc862fe/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/ari-fleischer-biden-economy-trojan-horse-with-script.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ari-fleischer-biden-economy-trojan-horse-with-script.amp",
-      "publishedDateTime": "2021-07-02T11:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

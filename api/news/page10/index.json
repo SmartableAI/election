@@ -2,6 +2,63 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-08-13-hannity-bidens-america-last-agenda-putting-more-than-just-the-us-at-risk.md",
+      "title": "Hannity: Biden's 'America Last' agenda putting more than just the US at risk",
+      "excerpt": "In his Opening Monologue, “Hannity” host Sean Hannity challenged his audience to name a single positive accomplishment of President Joe Biden or his administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/hannity-bidens-america-last-agenda-putting-more-than-just-the-us-at-risk",
+      "originalUrl": "https://www.foxnews.com/media/hannity-bidens-america-last-agenda-putting-more-than-just-the-us-at-risk",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/185932aa-9c11-4fb6-9e1d-3e23afdaf5ab/44a86cbf-ce71-404f-9aff-dc720d727596/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/hannity-bidens-america-last-agenda-putting-more-than-just-the-us-at-risk.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-bidens-america-last-agenda-putting-more-than-just-the-us-at-risk.amp",
+      "publishedDateTime": "2021-08-12T21:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-billy-long-touts-trump-ties-during-senate-seat-campaign-rally-in-joplin.md",
       "title": "Billy Long touts Trump ties during Senate seat campaign rally in Joplin",
       "excerpt": "Mo., touted his strong friendship with former President Donald Trump during a Thursday morning campaign rally stop at Cunningham Park.",
@@ -1252,62 +1309,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-house-democrats-can-get-some-of-trumps-tax-records-from-accounting-firm-mazars-usa-judge-rules.md",
-      "title": "House Democrats can get some of Trump's tax records from accounting firm Mazars USA, judge rules",
-      "excerpt": "The US House should be able to access some of Donald Trump's tax records through a subpoena to his accounting firm Mazars USA, a federal judge in Washington, DC, ruled on Wednesday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vlKMb7vCRLE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vlKMb7vCRLE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210211173410-107-trump-impeachment-centered-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/11/politics/trump-taxes-mazars-house-democrats/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/11/politics/trump-taxes-mazars-house-democrats/index.html",
-      "publishedDateTime": "2021-08-11T10:12:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

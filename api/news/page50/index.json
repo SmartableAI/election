@@ -2,6 +2,62 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2021-05-25-ethiopias-amhara-ethnic-group-accuses-biden-of-ignoring-atrocities.md",
+      "title": "Ethiopia’s Amhara ethnic group accuses Biden of ignoring atrocities",
+      "excerpt": "Eskedar Getaneh stepped out of his house on April 12 to screams from surrounding neighbors in the village of Arkumbi Kebele in the Oromo region of ethnically divided Ethiopia.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jRyWHElS3Ys/ethiopias-war-the-administration-will-not-mention",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jRyWHElS3Ys/ethiopias-war-the-administration-will-not-mention",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2019/04/05/720/405/694940094001_6022932602001_6022923598001-vs.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ethiopias-war-the-administration-will-not-mention.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ethiopias-war-the-administration-will-not-mention.amp",
+      "publishedDateTime": "2021-05-25T10:58:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-congress-misses-bidens-police-reform-deadline-but-cory-booker-says-a-lot-of-progress-was-made-over-weekend.md",
       "title": "Congress misses Biden's police reform deadline, but Cory Booker says \"a lot of progress was made\" over weekend",
       "excerpt": "\"I think he did a good thing by putting a deadline out there, trying to motivate more momentum, but he understands what's important here is to get a landmark bill done,\" Booker said Tuesday.",
@@ -1300,54 +1356,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-23-how-anti-trump-steele-dossier-exposed-shoddy-world-of-private-spies.md",
-      "title": "How anti-Trump ‘Steele dossier’ exposed shoddy world of ‘private spies’",
-      "excerpt": "Now, politicians were hiring them to dig up dirt on opponents, companies were employing them to torpedo investigations into their activities by authorities or journalists, and dictators were using them as freelance intelligence agents.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/article/how-anti-trump-steele-dossier-exposed-world-of-private-spies/",
-      "originalUrl": "https://nypost.com/article/how-anti-trump-steele-dossier-exposed-world-of-private-spies/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/Steele-Trap-Tump-Putin.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/article/how-anti-trump-steele-dossier-exposed-world-of-private-spies/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/article/how-anti-trump-steele-dossier-exposed-world-of-private-spies/amp/",
-      "publishedDateTime": "2021-05-22T12:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

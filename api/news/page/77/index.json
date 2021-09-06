@@ -2,6 +2,63 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2021-04-01-loyalty-or-loyal-opposition-democrats-test-fealty-to-biden-in-special-elections.md",
+      "title": "Loyalty or loyal opposition? Democrats test fealty to Biden in special elections",
+      "excerpt": "CLEVELAND — Nina Turner, the perpetual public face of Sen. Bernie Sanders' unsuccessful presidential campaigns, once compared voting for Joe Biden to eating a bowl of fecal matter. Now Turner is a top contender for Congress. And her Democratic opponents ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/joe-biden/loyalty-or-loyal-opposition-democrats-test-fealty-biden-special-elections-n1262618",
+      "originalUrl": "https://www.nbcnews.com/politics/joe-biden/loyalty-or-loyal-opposition-democrats-test-fealty-biden-special-elections-n1262618",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2021_13/3460821/210330-joe-biden-ew-244p_e7721de5d900180188761ee588df2bac.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1262618",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262618",
+      "publishedDateTime": "2021-04-01T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-jill-biden-urges-farmworkers-to-get-vaccinated-in-california.md",
       "title": "Jill Biden urges farmworkers to get vaccinated in California",
       "excerpt": "First lady Jill Biden is praising California farmworkers for their persistence during the pandemic and urging them to get vaccinated",
@@ -1286,58 +1343,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-trump-advisor-peter-navarro-went-on-a-wild-rant-on-fox-news-calling-fauci-the-father-of-the-coronavirus.md",
-      "title": "Trump advisor Peter Navarro went on a wild rant on Fox News, calling Fauci the 'father' of the coronavirus",
-      "excerpt": "Navarro, who served as a trade advisor in President Donald Trump's White House, was asked by Fox News host Rachel Campos-Duffy for his thoughts on Fauci's saying that the decision to start trying to make a coronavirus vaccine in January 2020 \"may have been ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/peter-navarro-trump-advisor-calls-fauci-father-of-coronavirus-fox-news-rant-2021-3",
-      "originalUrl": "https://www.businessinsider.com/peter-navarro-trump-advisor-calls-fauci-father-of-coronavirus-fox-news-rant-2021-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6064514b6183e1001981972d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/peter-navarro-trump-advisor-calls-fauci-father-of-coronavirus-fox-news-rant-2021-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/peter-navarro-trump-advisor-calls-fauci-father-of-coronavirus-fox-news-rant-2021-3?amp",
-      "publishedDateTime": "2021-03-31T03:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

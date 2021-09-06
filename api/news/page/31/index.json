@@ -2,6 +2,58 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-07-01-kamala-harris-gender-equality-strengthens-democracy.md",
+      "title": "Kamala Harris: 'Gender equality strengthens democracy'",
+      "excerpt": "Gender equality strengthens democracy' Posted . Women deprived of freedom of speech or the freedom to vote should fight for their rights and know that t",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/idOVEK0M7NL",
+      "originalUrl": "https://www.reuters.com/video/watch/idOVEK0M7NL",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20210701&i=OVEK0M7NL&r=OVEK0M7NL&t=2",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-01T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-aclu-sues-biden-administration-to-block-transfers-of-ice-detainees.md",
       "title": "ACLU sues Biden administration to block transfers of ICE detainees",
       "excerpt": "The American Civil Liberties Union (ACLU) on Wednesday filed a lawsuit against the Biden administration seeking to block the long-distance transfer of illegal immigrants detained by Immigration and Customs Enforcement (ICE) in New Jersey.",
@@ -1315,62 +1367,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-ahead-of-trump-border-visit-republicans-mobilize-effort-to-send-law-enforcement-relief-to-texas-arizona.md",
-      "title": "Ahead of Trump border visit, Republicans mobilize effort to send law enforcement relief to Texas, Arizona",
-      "excerpt": "EXCLUSIVE: The largest conservative caucus in the House is calling on their state governors to send National Guard troops or law enforcement personnel to the southern border ahead of former President Donald Trump's trip to Texas on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/laUiHb-rWbk/republicans-law-enforcement-texas-arizona-border-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/laUiHb-rWbk/republicans-law-enforcement-texas-arizona-border-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/BorderArrest.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T13:14:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

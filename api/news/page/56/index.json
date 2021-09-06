@@ -2,6 +2,58 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2021-05-12-exclusive-biden-names-new-federal-judges-including-a-bush-nominee-with-an-emphasis-on-diversity.md",
+      "title": "Exclusive: Biden names new federal judges, including a Bush nominee, with an emphasis on diversity",
+      "excerpt": "Biden is filling federal judgeships with an eye toward racial and professional diversity. The White House is now unveiling its next round of nominees.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/05/12/biden-names-new-federal-judges-including-puerto-ricos-gustavo-gelpi/5035176001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/05/12/biden-names-new-federal-judges-including-puerto-ricos-gustavo-gelpi/5035176001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/05/11/USAT/6c42eaee-2600-428b-89af-560edd76d80f-Biden_Judges.jpg?auto=webp&crop=3626,2040,x0,y524&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5035176001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5035176001",
+      "publishedDateTime": "2021-05-12T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-analysis-violence-upends-bidens-israel-palestinian-outlook.md",
       "title": "Analysis: Violence upends Biden's Israel-Palestinian outlook",
       "excerpt": "The surge in Israeli-Palestinian violence has flummoxed the Biden administration in its first four months as it attempts to craft a Middle East policy it believes will be more durable and fairer than",
@@ -1264,62 +1316,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/09/politics/what-matters-may-9/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/09/politics/what-matters-may-9/index.html",
       "publishedDateTime": "2021-05-10T03:42:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-white-house-chief-of-staff-says-he-wouldnt-want-to-estimate-or-underestimate-trump-if-he-decides-to-run-in-2024.md",
-      "title": "White House chief of staff says he 'wouldn't want to estimate or underestimate' Trump if he decides to run in 2024 ",
-      "excerpt": "White House chief of staff Ron Klain says that while President Joe Biden will likely seek re-election in 2024, the Biden administration is anticipating a bruising general election matchup if former President Donald Trump decides to run again.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5VF_kr1WEGA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5VF_kr1WEGA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210226160610-02-ron-klain-2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/09/politics/ron-klain-donald-trump-2024-presidential-run/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/09/politics/ron-klain-donald-trump-2024-presidential-run/index.html",
-      "publishedDateTime": "2021-05-09T19:52:40-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

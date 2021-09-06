@@ -2,6 +2,62 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-06-12-putin-calls-trump-an-extraordinary-individual-biden-a-career-man.md",
+      "title": "Putin calls Trump an ‘extraordinary individual,’ Biden, a ‘career man’",
+      "excerpt": "Russian President Vladimir Putin compared his relationship with former President Trump, who he praised as an “extraordinary individual,” and President Biden, who he called a “career man.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UZbmxPirZSc/putin-trump-extraordinary-individual-biden-career-man",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UZbmxPirZSc/putin-trump-extraordinary-individual-biden-career-man",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 570,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/Russia-Vladimir-Putin-AP.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/putin-trump-extraordinary-individual-biden-career-man.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/putin-trump-extraordinary-individual-biden-career-man.amp",
+      "publishedDateTime": "2021-06-11T17:38:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-12-joe-biden-unearthing-the-presidents-unsung-english-roots.md",
       "title": "Joe Biden: Unearthing the president's unsung English roots",
       "excerpt": "Joe Biden's presence in the UK this week brings him closer to a part of his family heritage that had been obscure - until recently. Last year an English link was added to Mr Biden's well-known Irish ancestry.",
@@ -1251,63 +1307,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-pence-eyes-his-political-future-as-he-tries-to-make-peace-with-trump.md",
-      "title": "Pence eyes his political future as he tries to make peace with Trump ",
-      "excerpt": "Six months after their relationship deteriorated in the midst of an insurrection at the US Capitol, Donald Trump and Mike Pence appear to be on the mend.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p7SMu5iPngk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p7SMu5iPngk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 700,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210604131734-02-pence-nh-speech-0603-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/10/politics/pence-trump-political-future/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/pence-trump-political-future/index.html",
-      "publishedDateTime": "2021-06-10T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-07-19-who-is-abdul-latif-nasser-joe-biden-releases-first-guantanamo-bay-prisoner.md",
+      "title": "Who Is Abdul Latif Nasser? Joe Biden Releases First Guantánamo Bay Prisoner",
+      "excerpt": "On Monday, the Biden administration transferred its first detainee out of Guantánamo Bay, repatriating a Moroccan man who has been held in the notorious prison for nearly two decades on no charge. The release of Abdul Latif Nasser,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/who-abdul-latif-nasser-joe-biden-releases-first-guantanamo-bay-prisoner-1610971",
+      "originalUrl": "https://www.newsweek.com/who-abdul-latif-nasser-joe-biden-releases-first-guantanamo-bay-prisoner-1610971",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1703346/gitmo2002.jpg",
+          "width": 3000,
+          "height": 1968,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/who-abdul-latif-nasser-joe-biden-releases-first-guantanamo-bay-prisoner-1610971?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/who-abdul-latif-nasser-joe-biden-releases-first-guantanamo-bay-prisoner-1610971?amp=1",
+      "publishedDateTime": "2021-07-19T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-19-michael-wolff-murdoch-hates-trump-but-loves-fox-news-money-more.md",
       "title": "Michael Wolff: Murdoch hates Trump but loves Fox News money more",
       "excerpt": "In book, Wolff says that Murdoch personally approved network’s early call of Arizona, which signalled Trump’s defeat",
@@ -1248,62 +1300,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-biden-says-platforms-like-facebook-are-killing-people-with-covid-misinformation.md",
-      "title": "Biden says platforms like Facebook are 'killing people' with Covid misinformation",
-      "excerpt": "President Joe Biden said Friday social media platforms like Facebook are \"killing people\" with misinformation surrounding the Covid-19 pandemic as the White House ramps up its rhetoric around false information on social media regarding the pandemic.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1CpB3Rl8LE0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1CpB3Rl8LE0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 270,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210716101316-02-biden-0713-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/16/politics/biden-facebook-covid-19/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/biden-facebook-covid-19/index.html",
-      "publishedDateTime": "2021-07-16T13:50:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

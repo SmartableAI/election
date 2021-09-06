@@ -2,6 +2,63 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2021-04-24-ingraham-bidens-insurrectionists-want-us-to-lose-sight-of-freedom-that-made-america-great.md",
+      "title": "Ingraham: 'Biden's Insurrectionists' want us to 'lose sight' of freedom that made America great",
+      "excerpt": "Fox News host Laura Ingraham opened her show \"The Ingraham Angle\" on Friday highlighting the leftist tactics of what she calls \"Biden's Insurrectionists\" who \"want us to lose sight\" of the freedom tha",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/ingraham-bidens-insurrectionists-want-us-to-lose-sight-of-freedom-that-made-america-great",
+      "originalUrl": "https://www.foxnews.com/media/ingraham-bidens-insurrectionists-want-us-to-lose-sight-of-freedom-that-made-america-great",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2296e2b8-0707-42bb-8660-36fbeef42776/faa336be-7070-4599-ae58-68a1f043d8d3/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/ingraham-bidens-insurrectionists-want-us-to-lose-sight-of-freedom-that-made-america-great.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ingraham-bidens-insurrectionists-want-us-to-lose-sight-of-freedom-that-made-america-great.amp",
+      "publishedDateTime": "2021-04-23T20:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-24-washington-post-runs-fact-check-on-tim-scotts-ancestry-but-not-on-kamala-harris-fweedom-plagiarism-claim.md",
       "title": "Washington Post runs 'fact-check' on Tim Scott's ancestry but not on Kamala Harris' 'Fweedom' plagiarism claim",
       "excerpt": "The Washington Post appears quite selective when it comes to the urgency of its 'fact-checks' of certain prominent politicians.",
@@ -1294,62 +1351,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-biden-preparing-to-declare-massacre-of-armenians-a-genocide-risking-break-with-turkey.md",
-      "title": "Biden preparing to declare massacre of Armenians a 'genocide,' risking break with Turkey ",
-      "excerpt": "President Joe Biden is preparing to declare the massacre of an estimated million or more Armenians under the Ottoman Empire a \"genocide\" this week, risking a potential fracture with Turkey but fulfilling a campaign pledge to finally use the word as President to describe the mass killings after a series",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xuIbT8fBnKc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xuIbT8fBnKc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210417093925-01-joe-biden-0415-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/21/politics/biden-armenia-genocide-turkey/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/21/politics/biden-armenia-genocide-turkey/index.html",
-      "publishedDateTime": "2021-04-21T20:03:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }

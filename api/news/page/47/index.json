@@ -2,6 +2,58 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2021-06-01-biden-visits-tulsa-to-honor-victims-of-1921-race-massacre-us-politics-live.md",
+      "title": "Biden visits Tulsa to honor victims of 1921 race massacre – US politics live",
+      "excerpt": "President to commemorate hundreds who died in attack by white mob – follow all the day’s politics news",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live?page=with:block-60b645058f08b9889b365a08",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live?page=with:block-60b645058f08b9889b365a08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 242,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/0d3ad303e825c14e8de5210b5c83e95d929b332d/0_107_3980_2389/master/3980.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1beca5805e55e7773443ec4f37679480",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live",
+      "publishedDateTime": "2021-06-01T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-trump-supporters-celebrate-memorial-day-with-boat-parade-in-florida.md",
       "title": "Trump supporters celebrate Memorial Day with boat parade in Florida",
       "excerpt": "Supporters of former President Donald Trump celebrated Memorial Day with a boat parade in Jupiter, Florida, on May 31. Credit: Juan Fiol via Storyful.",
@@ -1283,49 +1335,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-29-mcconnell-to-trump-whats-a-little-insurrection-between-friends.md",
-      "title": "McConnell to Trump: What’s a Little Insurrection Between Friends?",
-      "excerpt": "Mitch McConnell gave his members permission to vote to impeach Trump, and even briefly entertained the possibility of joining them. By now, whatever defiant impulse the party’s establishment harbored has died down to the point where a former officeholder merely hinting that Trump is politically optimal rates as a news story.",
-      "sourceUrl": null,
-      "webUrl": "https://nymag.com/intelligencer/2021/05/mcconnell-blocks-january-6-commission-senate-filibuster-trump-riot.html",
-      "originalUrl": "https://nymag.com/intelligencer/2021/05/mcconnell-blocks-january-6-commission-senate-filibuster-trump-riot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pyxis.nymag.com/v1/imgs/a14/14e/8711801fbf6ea18d66d6e885b9b0164d4a-ni-trump-mcconnell.1x.rsocial.w1200.jpg",
-          "width": 1200,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nymag.com/intelligencer/amp/2021/05/mcconnell-blocks-january-6-commission-senate-filibuster-trump-riot.html",
-      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/05/mcconnell-blocks-january-6-commission-senate-filibuster-trump-riot.html",
-      "publishedDateTime": "2021-05-28T13:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Magazine",
-        "domain": "nymag.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

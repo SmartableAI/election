@@ -2,6 +2,58 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-06-21-first-thing-biden-faces-senate-showdown-on-key-domestic-agenda-issues.md",
+      "title": "First Thing: Biden faces Senate showdown on key domestic agenda issues",
+      "excerpt": "The president faces opposition from Republicans and some conservative Democrats before a key vote. Plus, why we need to talk about menopause",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jun/21/first-thing-biden-faces-senate-showdown-on-key-domestic-agenda-issues",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/21/first-thing-biden-faces-senate-showdown-on-key-domestic-agenda-issues",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 445,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/409228eced9bddf6ff1adcaa19b4f38038bee0e1/0_233_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=00d39a2efd887b22d6d46ed0d2c256cf",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/21/first-thing-biden-faces-senate-showdown-on-key-domestic-agenda-issues",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/21/first-thing-biden-faces-senate-showdown-on-key-domestic-agenda-issues",
+      "publishedDateTime": "2021-06-21T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-06-21-trump-wishes-a-happy-fathers-day-to-losers-and-rinos.md",
       "title": "Trump wishes a happy Father’s Day to ‘losers’ and ‘RINOs’",
       "excerpt": "Former President Donald Trump on Sunday sent a Father’s Day message to his political adversaries — who he blasted as “losers.”",
@@ -1290,62 +1342,6 @@
         "Democratic Voice",
         "Mike Pence",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-trump-endorses-murkowski-primary-opponent-kelly-tshibaka.md",
-      "title": "Trump endorses Murkowski primary opponent Kelly Tshibaka",
-      "excerpt": "Former President Donald Trump endorsed the primary opponent to Sen. Lisa Murkowski on Friday, declaring his support for Kelly Tshibaka Alaska's former commissioner of administration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v47bFDv9SJQ/trump-endorses-murkowski-primary-opponent-kelly-tshibaka",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v47bFDv9SJQ/trump-endorses-murkowski-primary-opponent-kelly-tshibaka",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-endorses-murkowski-primary-opponent-kelly-tshibaka.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-murkowski-primary-opponent-kelly-tshibaka.amp",
-      "publishedDateTime": "2021-06-18T11:06:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2021-03-31-trump-advisor-peter-navarro-went-on-a-wild-rant-on-fox-news-calling-fauci-the-father-of-the-coronavirus.md",
+      "title": "Trump advisor Peter Navarro went on a wild rant on Fox News, calling Fauci the 'father' of the coronavirus",
+      "excerpt": "Navarro, who served as a trade advisor in President Donald Trump's White House, was asked by Fox News host Rachel Campos-Duffy for his thoughts on Fauci's saying that the decision to start trying to make a coronavirus vaccine in January 2020 \"may have been ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/peter-navarro-trump-advisor-calls-fauci-father-of-coronavirus-fox-news-rant-2021-3",
+      "originalUrl": "https://www.businessinsider.com/peter-navarro-trump-advisor-calls-fauci-father-of-coronavirus-fox-news-rant-2021-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6064514b6183e1001981972d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/peter-navarro-trump-advisor-calls-fauci-father-of-coronavirus-fox-news-rant-2021-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/peter-navarro-trump-advisor-calls-fauci-father-of-coronavirus-fox-news-rant-2021-3?amp",
+      "publishedDateTime": "2021-03-31T03:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-dr-scott-atlas-blasts-despicable-birx-and-fauci-trying-to-overtly-rewrite-history-on-coronavirus-trump.md",
       "title": "Dr. Scott Atlas blasts 'despicable' Birx and Fauci 'trying to overtly rewrite history' on coronavirus, Trump",
       "excerpt": "Dr. Scott Atlas, a member of former President Trump's coronavirus task force, blasted his ex-colleagues Drs. Anthony Fauci and Deborah Birx, after they went on CNN and tried to 'rewrite history'",

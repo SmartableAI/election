@@ -2,6 +2,63 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2021-04-02-trump-peeled-away-latino-voters-nationwide-in-2020-a-new-analysis-found.md",
+      "title": "Trump peeled away Latino voters nationwide in 2020, a new analysis found.",
+      "excerpt": "A post-mortem analysis of the 2020 election has found that Latino voters played a meaningful role in tipping the Senate and the presidency to the Democrats, but that former President Donald J. Trump’s concerted effort to peel away Latino support ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/04/02/us/trump-peeled-away-latino-voters-nationwide-in-2020-a-new-analysis-found.html",
+      "originalUrl": "https://www.nytimes.com/2021/04/02/us/trump-peeled-away-latino-voters-nationwide-in-2020-a-new-analysis-found.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/04/02/us/politics/02new-washington-briefing-latino-voters/02new-washington-briefing-latino-voters-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/04/02/us/trump-peeled-away-latino-voters-nationwide-in-2020-a-new-analysis-found.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/02/us/trump-peeled-away-latino-voters-nationwide-in-2020-a-new-analysis-found.amp.html",
+      "publishedDateTime": "2021-04-02T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-02-biden-affirms-us-unwavering-support-for-ukraine-in-call-statement.md",
       "title": "Biden affirms U.S. 'unwavering support' for Ukraine in call: statement",
       "excerpt": "WASHINGTON (Reuters) - U.S. President Joe Biden on Friday expressed the United States’ strong support for Ukraine in a call with the country’s president, Volodymyr Zelenskiy, the White House said. “President Biden affirmed the United States ...",
@@ -1288,63 +1345,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-loyalty-or-loyal-opposition-democrats-test-fealty-to-biden-in-special-elections.md",
-      "title": "Loyalty or loyal opposition? Democrats test fealty to Biden in special elections",
-      "excerpt": "CLEVELAND — Nina Turner, the perpetual public face of Sen. Bernie Sanders' unsuccessful presidential campaigns, once compared voting for Joe Biden to eating a bowl of fecal matter. Now Turner is a top contender for Congress. And her Democratic opponents ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/joe-biden/loyalty-or-loyal-opposition-democrats-test-fealty-biden-special-elections-n1262618",
-      "originalUrl": "https://www.nbcnews.com/politics/joe-biden/loyalty-or-loyal-opposition-democrats-test-fealty-biden-special-elections-n1262618",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2021_13/3460821/210330-joe-biden-ew-244p_e7721de5d900180188761ee588df2bac.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1262618",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262618",
-      "publishedDateTime": "2021-04-01T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

@@ -2,6 +2,62 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2021-05-18-ex-trump-dhs-officials-call-for-mayorkas-dismissal-over-border-crisis-enough-is-enough.md",
+      "title": "Ex-Trump DHS officials call for Mayorkas' dismissal over border crisis: 'Enough is enough'",
+      "excerpt": "Three top Trump-era Department of Homeland Security officials are calling on President Biden to dismiss Secretary Alejandro Mayorkas over his handling of the crisis at the southern border, accusing him of \"reckless abandonment\" of securing the border.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1qva-stK91w/ex-trump-dhs-officials-mayorkas-fire-border-crisis",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1qva-stK91w/ex-trump-dhs-officials-mayorkas-fire-border-crisis",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8a570c73-98d6-4f91-b742-2b7220d15df9/2dcdb4f5-ef07-458a-9628-0d6274662406/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ex-trump-dhs-officials-mayorkas-fire-border-crisis.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-trump-dhs-officials-mayorkas-fire-border-crisis.amp",
+      "publishedDateTime": "2021-05-18T10:55:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-pennsylvania-town-saved-by-fracking-fears-biden-will-kill-its-prosperity.md",
       "title": "Pennsylvania Town Saved By Fracking Fears Biden Will Kill Its Prosperity",
       "excerpt": "Thirty years ago, Jason Capps was a young man with ambition, but when he looked around this town near Pittsburgh, where he grew up, all",
@@ -1274,62 +1330,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-senior-trump-air-force-official-suggested-dramatically-slashing-f-35-jet-numbers.md",
-      "title": "Senior Trump Air Force official suggested dramatically slashing F-35 jet numbers ",
-      "excerpt": "The official in charge of purchasing military hardware for the US Air Force suggested slashing the total number of Lockheed Martin F-35 jets for the service by more than half late last year, according to two former defense officials involved in the discussions who spoke with CNN. The news comes as Congressional",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RfwDY6IUY0c/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RfwDY6IUY0c/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 250,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/181120183114-f-35-elephant-walk-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/15/politics/f-35-jet-air-force/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/15/politics/f-35-jet-air-force/index.html",
-      "publishedDateTime": "2021-05-15T07:03:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

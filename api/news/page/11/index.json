@@ -2,6 +2,62 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-08-11-house-democrats-can-get-some-of-trumps-tax-records-from-accounting-firm-mazars-usa-judge-rules.md",
+      "title": "House Democrats can get some of Trump's tax records from accounting firm Mazars USA, judge rules",
+      "excerpt": "The US House should be able to access some of Donald Trump's tax records through a subpoena to his accounting firm Mazars USA, a federal judge in Washington, DC, ruled on Wednesday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vlKMb7vCRLE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vlKMb7vCRLE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210211173410-107-trump-impeachment-centered-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/11/politics/trump-taxes-mazars-house-democrats/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/11/politics/trump-taxes-mazars-house-democrats/index.html",
+      "publishedDateTime": "2021-08-11T10:12:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-donald-trump-calls-35t-budget-plan-assault-on-our-nation-after-measure-clears-senate.md",
       "title": "Donald Trump Calls $3.5T Budget Plan 'Assault on Our Nation' After Measure Clears Senate",
       "excerpt": "Former President Donald Trump said Americans are being \"robbed\" after the Democrats' $3.5 trillion budget plan \"Good morning, America!",
@@ -1204,62 +1260,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-biden-pushes-sanctions-against-belarus-lukashenko-regime.md",
-      "title": "Biden pushes sanctions against Belarus' Lukashenko regime",
-      "excerpt": "President Joe Biden on Monday said the United States is levying new sanctions against Belarus.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/olLR5J0jnK0/biden-sanctions-belarus-lukashenko",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/olLR5J0jnK0/biden-sanctions-belarus-lukashenko",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9bdbfbc4-87fa-49a6-8f09-2a6156f8a0e2/e1261bb5-02f5-493d-a6dd-9b1e23cc0e40/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-sanctions-belarus-lukashenko.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sanctions-belarus-lukashenko.amp",
-      "publishedDateTime": "2021-08-09T09:45:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

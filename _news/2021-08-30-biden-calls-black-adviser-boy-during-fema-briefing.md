@@ -63,6 +63,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "This Isn’t Your Grandpa’s Joe Biden"
+    excerpt: "President Biden’s economic policy isn’t what you would have expected from his long career. On everything from antitrust to inflation to employment to power, Biden is reflecting a new strain of progressive economics thoughts."
+    publishedDateTime: 2021-09-05T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/09/05/this_isnt_your_grandpas_joe_biden.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "m86NE9o+779kW2EJuBHYZZvq5lUophn3kjuQ++59WRmTHIyEcuPjclVSVRqmlSwVmUn9ulz4msdeS19RKoJghem6P8Lo0lj/O+4Qu6/R2kOY2gPop7GE5xk3nk0Q+3XRGo7PR6s6BMX9kKGgQ4DqoXXfP6arM9cpja3zN8IIkND9CFMTC93LwB36og4zkuernGNRcPKVc5GE/hWQmLwygZ8sOAHlKDJGzHOmD6D80MbJeUduubryhf2/g/mvtNqTvPOvK4GvJzdxkEuJCRRbfe6lK1ACQ4Xl4ynjYOmODs2r85UBur+UZJR59gwQwVpezN8AC551mBpemdhM6eeUn8BxgHTQmVKio84I3SpaVWU=;fon2uHQ1Rj29+94yjGQvIQ=="
 ---

@@ -2,6 +2,63 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-04-07-joe-biden-is-not-planning-to-solve-the-israeli-palestinian-conflict.md",
+      "title": "Joe Biden is not planning to solve the Israeli-Palestinian conflict",
+      "excerpt": "Joe Biden, though, isn’t all that interested. Unlike Barack Obama and Donald Trump, Biden hasn’t named a special envoy to focus on the Israeli-Palestinian portfolio. Unlike Bill Clinton, Biden has no plans for any sort of peace conference, or even a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/04/06/joe-biden-israel-palestine-conflict-479405",
+      "originalUrl": "https://www.politico.com/news/2021/04/06/joe-biden-israel-palestine-conflict-479405",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/52/24/4d5812e541128852ed8c3d89e2db/210406-biden-israel-getty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2021/04/06/joe-biden-israel-palestine-conflict-479405",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/06/joe-biden-israel-palestine-conflict-479405",
+      "publishedDateTime": "2021-04-06T15:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-biden-reassuring-to-see-companies-speak-out-against-voting-laws.md",
       "title": "Biden: 'Reassuring' to see companies speak out against voting laws",
       "excerpt": "President Biden Joe Biden Joe Biden's surprising presidency The Hill's Morning Report - Biden, McConnell agree on vaccines, clash over infrastructure Republican battle with MLB intensifies MORE on Tuesday credited private companies with speaking up in opposition to new voting laws being passed in Georgia and elsewhere while warning about the impact on workers when businesses leave,",

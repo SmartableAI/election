@@ -2,6 +2,63 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2021-05-27-china-hits-back-at-wuhan-lab-leak-conspiracy-after-biden-calls-for-covid-probe.md",
+      "title": "China hits back at Wuhan lab leak 'conspiracy' after Biden calls for Covid probe",
+      "excerpt": "Some world leaders and scientists have criticized Beijing for not raising the international alarm quickly enough over the coronavirus outbreak.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/world/china-hits-back-wuhan-lab-leak-conspiracy-after-biden-calls-n1268704",
+      "originalUrl": "https://www.nbcnews.com/news/world/china-hits-back-wuhan-lab-leak-conspiracy-after-biden-calls-n1268704",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_21/3478134/210527-covid-origin-mc-9202.jpg",
+          "width": 2500,
+          "height": 1664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1268704",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268704",
+      "publishedDateTime": "2021-05-27T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-lara-trump-slams-biden-harris-if-the-border-is-closed-then-im-a-sparkly-unicorn.md",
       "title": "Lara Trump slams Biden, Harris: If the border is closed, then ‘I’m a sparkly unicorn’",
       "excerpt": "Fox News contributor Lara Trump said on Thursday mocked the Department of Homeland Security for claiming the southern border was closed.",
@@ -1299,62 +1356,6 @@
         "Election",
         "Joe Biden",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-ethiopias-amhara-ethnic-group-accuses-biden-of-ignoring-atrocities.md",
-      "title": "Ethiopia’s Amhara ethnic group accuses Biden of ignoring atrocities",
-      "excerpt": "Eskedar Getaneh stepped out of his house on April 12 to screams from surrounding neighbors in the village of Arkumbi Kebele in the Oromo region of ethnically divided Ethiopia.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jRyWHElS3Ys/ethiopias-war-the-administration-will-not-mention",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jRyWHElS3Ys/ethiopias-war-the-administration-will-not-mention",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2019/04/05/720/405/694940094001_6022932602001_6022923598001-vs.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ethiopias-war-the-administration-will-not-mention.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ethiopias-war-the-administration-will-not-mention.amp",
-      "publishedDateTime": "2021-05-25T10:58:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

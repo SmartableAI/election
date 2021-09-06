@@ -2,6 +2,62 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2021-04-13-analysis-michigan-vaccine-rebuff-puts-biden-and-a-top-ally-in-a-dicey-political-spot.md",
+      "title": "Analysis: Michigan vaccine rebuff puts Biden and a top ally in a dicey political spot",
+      "excerpt": "President Joe Biden is confronting his most controversial and politically unpalatable moment yet since assuming responsibility for the US' response to the pandemic.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3ds1fV9WCoU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3ds1fV9WCoU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210412151138-01-biden-jobs-plan-0412-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/13/politics/michigan-joe-biden-gretchen-whitmer-covid-19/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/michigan-joe-biden-gretchen-whitmer-covid-19/index.html",
+      "publishedDateTime": "2021-04-13T05:00:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-trump-mcconnell-helpless-to-stop-biden-from-packing-court.md",
       "title": "Trump: McConnell 'helpless' to stop Biden from packing court",
       "excerpt": "Former President Trump Donald Trump Gaetz was denied meeting with Trump: CNN Federal Reserve chair: Economy would have been 'so much worse' without COVID-19 relief bills Police in California city ...",
@@ -1304,63 +1360,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-11-sen-thune-not-afraid-of-a-fight-if-trump-backs-a-challenger-in-2022.md",
-      "title": "Sen Thune not 'afraid of a fight' if Trump backs a challenger in 2022",
-      "excerpt": "Sen. John Thune, R-S.D., said that he is not \"afraid of a fight\" if former President Donald Trump campaigns against him in 2022 after being labeled a \"weak and inneffective RINO\" by him earlier in the year. \"I've been through wars in South Dakota ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/john-thune-donald-trump-2022-senate",
-      "originalUrl": "https://www.foxnews.com/politics/john-thune-donald-trump-2022-senate",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Thune-Trump.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/john-thune-donald-trump-2022-senate.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-thune-donald-trump-2022-senate.amp",
-      "publishedDateTime": "2021-04-11T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

@@ -2,6 +2,62 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2021-05-13-rep-gallagher-bill-would-force-biden-to-declassify-wuhan-coronavirus-lab-leak-theory-intel.md",
+      "title": "Rep. Gallagher bill would force Biden to declassify Wuhan coronavirus lab leak theory intel",
+      "excerpt": "A group of House Republicans is introducing a bill on Thursday that would force the Biden administration to declassify intelligence related to the possibility that the coronavirus could have leaked from a Chinese lab.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B4J6Zqahgzs/gallagher-bill-covid-lab-leak-china-wuhan-institute-virology",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B4J6Zqahgzs/gallagher-bill-covid-lab-leak-china-wuhan-institute-virology",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Wuhan-Lab.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T10:02:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-biden-says-that-fuel-is-beginning-to-flow-as-administration-struggles-to-limit-political-damage-from-gas-shortage.md",
       "title": "Biden says that fuel is ‘beginning to flow,’ as administration struggles to limit political damage from gas shortage",
       "excerpt": "Republicans have seized on the crisis to attack Biden’s energy policies and portray him as an agent of chaos amid other challenges.",
@@ -1286,58 +1342,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-exclusive-biden-names-new-federal-judges-including-a-bush-nominee-with-an-emphasis-on-diversity.md",
-      "title": "Exclusive: Biden names new federal judges, including a Bush nominee, with an emphasis on diversity",
-      "excerpt": "Biden is filling federal judgeships with an eye toward racial and professional diversity. The White House is now unveiling its next round of nominees.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/05/12/biden-names-new-federal-judges-including-puerto-ricos-gustavo-gelpi/5035176001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/05/12/biden-names-new-federal-judges-including-puerto-ricos-gustavo-gelpi/5035176001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/05/11/USAT/6c42eaee-2600-428b-89af-560edd76d80f-Biden_Judges.jpg?auto=webp&crop=3626,2040,x0,y524&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5035176001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5035176001",
-      "publishedDateTime": "2021-05-12T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

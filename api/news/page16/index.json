@@ -2,6 +2,58 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-07-30-a-capitol-rioter-says-hes-working-on-a-video-game-featuring-donald-trump-shooting-dem-zombies-and-antifa.md",
+      "title": "A Capitol Rioter Says He's Working On A Video Game Featuring Donald Trump Shooting “Dem Zombies” And “Antifa”",
+      "excerpt": "In the weeks leading up to Capitol rioter Jack Griffith’s Thursday guilty plea, he repeatedly posted on Facebook promoting a video game he says he's building where an animated Donald Trump shoots and threatens monsters,",
+      "sourceUrl": null,
+      "webUrl": "https://www.buzzfeednews.com/article/zoetillman/jan-6-capitol-rioter-donald-trump-shooter-video-game",
+      "originalUrl": "https://www.buzzfeednews.com/article/zoetillman/jan-6-capitol-rioter-donald-trump-shooter-video-game",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-08/31/23/tmp/4b74ed238220/tmp-name-2-7432-1598918055-10_dblbig.jpg",
+          "width": 625,
+          "height": 415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/zoetillman/jan-6-capitol-rioter-donald-trump-shooter-video-game",
+      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/zoetillman/jan-6-capitol-rioter-donald-trump-shooter-video-game",
+      "publishedDateTime": "2021-07-29T12:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BuzzFeed News",
+        "domain": "buzzfeednews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/buzzfeednews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-30-dems-worried-about-kamala-harris-approval-more-harm-than-good.md",
       "title": "Dems worried about Kamala Harris approval: ‘More harm than good’",
       "excerpt": "As Vice President Kamala Harris’ poll numbers remain underwater, some Democrats are worried that she could become a drag on their efforts to maintain control of congress in the 2022 midterm",
@@ -1263,63 +1315,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-new-jersey-town-drops-case-against-f-biden-sign-lady-after-aclu-intervenes-report.md",
-      "title": "New Jersey town drops case against ‘F--- Biden’ sign lady after ACLU intervenes: report",
-      "excerpt": "A town in New Jersey has decided to end its effort to have a resident remove various anti-Biden signs from her property, including several that contain profanity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/new-jersey-f-biden-sign-aclu-roselle-park",
-      "originalUrl": "https://www.foxnews.com/politics/new-jersey-f-biden-sign-aclu-roselle-park",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c1f80430-6227-4a83-93d2-dd9f83faf89a/30d5fc90-e00a-4a49-8499-ea92c159a177/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/new-jersey-f-biden-sign-aclu-roselle-park.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-jersey-f-biden-sign-aclu-roselle-park.amp",
-      "publishedDateTime": "2021-07-27T19:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

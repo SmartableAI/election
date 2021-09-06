@@ -2,6 +2,58 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-08-01-alexander-vindman-nsc-staffer-who-sparked-trumps-first-impeachment-tells-his-story.md",
+      "title": "Alexander Vindman, NSC staffer who sparked Trump's first impeachment, tells his story",
+      "excerpt": "In \"Here, right matters,\" retired Lt. Col. Alexander Vindman talks about reporting Trump's infamous Ukraine call, and the cost to him and his family.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/politics/2021/08/01/alexander-vindman-here-right-matters-trump-impeachment/5439749001/",
+      "originalUrl": "https://www.usatoday.com/videos/news/politics/2021/08/01/alexander-vindman-here-right-matters-trump-impeachment/5439749001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/07/30/USAT/775b9555-9383-43a6-918a-bd4eac7d28d0-XXX_VINDMAN_HGS_001.JPG?quality=10",
+          "width": 6000,
+          "height": 3376,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-01T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-01-trumps-fundraising-prowess-82-million-haul-during-first-half-of-2021.md",
       "title": "Trump’s fundraising prowess: $82 million haul during first half of 2021",
       "excerpt": "Former President Trump’s various political committees brought in a combined $82 million in fundraising during the first six months of 2021.",
@@ -1274,58 +1326,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-a-capitol-rioter-says-hes-working-on-a-video-game-featuring-donald-trump-shooting-dem-zombies-and-antifa.md",
-      "title": "A Capitol Rioter Says He's Working On A Video Game Featuring Donald Trump Shooting “Dem Zombies” And “Antifa”",
-      "excerpt": "In the weeks leading up to Capitol rioter Jack Griffith’s Thursday guilty plea, he repeatedly posted on Facebook promoting a video game he says he's building where an animated Donald Trump shoots and threatens monsters,",
-      "sourceUrl": null,
-      "webUrl": "https://www.buzzfeednews.com/article/zoetillman/jan-6-capitol-rioter-donald-trump-shooter-video-game",
-      "originalUrl": "https://www.buzzfeednews.com/article/zoetillman/jan-6-capitol-rioter-donald-trump-shooter-video-game",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-08/31/23/tmp/4b74ed238220/tmp-name-2-7432-1598918055-10_dblbig.jpg",
-          "width": 625,
-          "height": 415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/zoetillman/jan-6-capitol-rioter-donald-trump-shooter-video-game",
-      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/zoetillman/jan-6-capitol-rioter-donald-trump-shooter-video-game",
-      "publishedDateTime": "2021-07-29T12:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BuzzFeed News",
-        "domain": "buzzfeednews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/buzzfeednews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

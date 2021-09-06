@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/who-is-deanne-criswell-bidens-fema-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-deanne-criswell-bidens-fema-boss.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "This Isn’t Your Grandpa’s Joe Biden"
+    excerpt: "President Biden’s economic policy isn’t what you would have expected from his long career. On everything from antitrust to inflation to employment to power, Biden is reflecting a new strain of progressive economics thoughts."
+    publishedDateTime: 2021-09-05T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/09/05/this_isnt_your_grandpas_joe_biden.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "NbZ0zsWEQDjx8wkBqbT95+YTKfgDzyNGa2gAsQV0unmzwPrhJpwlYWOdJ44HhgfxF6GawgKUVYdcbRlOlGlcSCPGgDrCroSCzYKdLcKckZ+VL22PKWiKvFdO6ZftW5u9G+fi9mSnN++9dFPmNBkhpzDBmklC9ZiUROPLB15C9OywJVWCEpF91EfeunJMRovKFziUpb2SaEcao4VxZn9hUe2qMcL26fzEcFIlAtZq5XZZs/+Gtbs0kgilUWZUeIY7/B5CMKhBFS+CcTjd1vbM88h7ihfEZ0zoFSJxE0QS+iK+tr3Hbl0dib2Vl9vzfdAdnp7+vmvbeug/+q6Ilgtf0tlJ+MeNb5XwiBEpX8BnjX0=;JIJ9qEmJYFwg21PUOTd/3A=="
 ---

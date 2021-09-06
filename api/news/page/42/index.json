@@ -2,6 +2,63 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-06-10-pence-eyes-his-political-future-as-he-tries-to-make-peace-with-trump.md",
+      "title": "Pence eyes his political future as he tries to make peace with Trump ",
+      "excerpt": "Six months after their relationship deteriorated in the midst of an insurrection at the US Capitol, Donald Trump and Mike Pence appear to be on the mend.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p7SMu5iPngk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p7SMu5iPngk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 700,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210604131734-02-pence-nh-speech-0603-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/10/politics/pence-trump-political-future/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/pence-trump-political-future/index.html",
+      "publishedDateTime": "2021-06-10T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-trump-appointed-ambassador-to-brazil-resigns-after-14-months.md",
       "title": "Trump-appointed ambassador to Brazil resigns after 14 months",
       "excerpt": "The U.S. ambassador to Brazil, Todd Chapman, has resigned after just over a year in the position and is leaving the diplomatic service",
@@ -1311,58 +1368,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat.md",
-      "title": "Biden revokes Trump executive orders targeting TikTok and WeChat",
-      "excerpt": "President Biden has revoked former President Trump’s executive orders that sought to ban downloads of the Chinese-owned apps TikTok and WeChat in the U.S., according to a fact sheet released by the White House Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat",
-      "originalUrl": "https://thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 760,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/tiktok_082619istock.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat?amp",
-      "publishedDateTime": "2021-06-09T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

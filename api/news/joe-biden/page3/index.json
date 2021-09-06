@@ -2,6 +2,63 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-12-joe-biden-put-his-foot-on-the-neck-of-the-energy-industry-now-he-wants-more-oil-salena-zito.md",
+      "title": "Joe Biden 'put his foot on the neck' of the energy industry, now he wants more oil: Salena Zito",
+      "excerpt": "Washington Examiner National Political Reporter Salena Zito criticized Joe Biden Wednesday for calling on OPEC to produce more oil as gas prices soar in the United States, saying what the president is doing is \"befuddling.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/joe-biden-energy-industry-more-oil-salena-zito",
+      "originalUrl": "https://www.foxnews.com/media/joe-biden-energy-industry-more-oil-salena-zito",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b4f279e4-4ad7-4633-9030-97536c831a98/684a0321-1bb5-4bfc-b45e-59a7255a2db1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/joe-biden-energy-industry-more-oil-salena-zito.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/joe-biden-energy-industry-more-oil-salena-zito.amp",
+      "publishedDateTime": "2021-08-11T22:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-12-wh-reporters-roiled-by-spacing-constraints-excuse-to-limit-access-to-biden-qas.md",
       "title": "WH reporters roiled by ‘spacing constraints’ excuse to limit access to Biden Q&As",
       "excerpt": "President Joe Biden’s interactions with reporters in the White House East Room have resembled press conferences but his staff selects which reporters attend, citing “spacing",
@@ -1449,63 +1506,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-new-jersey-town-drops-case-against-f-biden-sign-lady-after-aclu-intervenes-report.md",
-      "title": "New Jersey town drops case against ‘F--- Biden’ sign lady after ACLU intervenes: report",
-      "excerpt": "A town in New Jersey has decided to end its effort to have a resident remove various anti-Biden signs from her property, including several that contain profanity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/new-jersey-f-biden-sign-aclu-roselle-park",
-      "originalUrl": "https://www.foxnews.com/politics/new-jersey-f-biden-sign-aclu-roselle-park",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c1f80430-6227-4a83-93d2-dd9f83faf89a/30d5fc90-e00a-4a49-8499-ea92c159a177/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/new-jersey-f-biden-sign-aclu-roselle-park.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-jersey-f-biden-sign-aclu-roselle-park.amp",
-      "publishedDateTime": "2021-07-27T19:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

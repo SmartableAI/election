@@ -2,6 +2,62 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2021-05-15-senior-trump-air-force-official-suggested-dramatically-slashing-f-35-jet-numbers.md",
+      "title": "Senior Trump Air Force official suggested dramatically slashing F-35 jet numbers ",
+      "excerpt": "The official in charge of purchasing military hardware for the US Air Force suggested slashing the total number of Lockheed Martin F-35 jets for the service by more than half late last year, according to two former defense officials involved in the discussions who spoke with CNN. The news comes as Congressional",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RfwDY6IUY0c/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RfwDY6IUY0c/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 250,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/181120183114-f-35-elephant-walk-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/15/politics/f-35-jet-air-force/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/15/politics/f-35-jet-air-force/index.html",
+      "publishedDateTime": "2021-05-15T07:03:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-15-hardliner-ebrahim-raisi-to-run-in-iran-election-could-hurt-bidens-nuclear-deal-hopes.md",
       "title": "Hardliner Ebrahim Raisi to Run in Iran Election, Could Hurt Biden's Nuclear Deal Hopes",
       "excerpt": "The head of the judiciary is considered to be most likely to become Iran's next president in elections next month.",
@@ -1272,62 +1328,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/virginia-governor-race-mcauliffe-youngkin-trump-ties.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/virginia-governor-race-mcauliffe-youngkin-trump-ties.amp",
       "publishedDateTime": "2021-05-13T10:17:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-rep-gallagher-bill-would-force-biden-to-declassify-wuhan-coronavirus-lab-leak-theory-intel.md",
-      "title": "Rep. Gallagher bill would force Biden to declassify Wuhan coronavirus lab leak theory intel",
-      "excerpt": "A group of House Republicans is introducing a bill on Thursday that would force the Biden administration to declassify intelligence related to the possibility that the coronavirus could have leaked from a Chinese lab.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B4J6Zqahgzs/gallagher-bill-covid-lab-leak-china-wuhan-institute-virology",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B4J6Zqahgzs/gallagher-bill-covid-lab-leak-china-wuhan-institute-virology",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Wuhan-Lab.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T10:02:31-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
