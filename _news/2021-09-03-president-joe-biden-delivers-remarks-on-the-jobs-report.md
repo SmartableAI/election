@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Delivers Remarks on the Jobs Report"
 excerpt: "U.S. President Joe Biden delivers remarks on the August jobs report on Friday, September 3, 2021, in the State Dining Room at the White House in Washington DC. Photo by Ken Cedeno/UPI"
 publishedDateTime: 2021-09-03T16:36:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/9848ad9ce359a149221caf46e352e9f0/President-Joe-Biden-Delivers-Remarks-on-the-Jobs-Report/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/9848ad9ce359a149221caf46e352e9f0/President-Joe-Biden-Delivers-Remarks-on-the-Jobs-Report/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/a03f76a159009539507fef2dd9bc7c70/President-Joe-Biden-Delivers-Remarks-on-the-Jobs-Report/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/a03f76a159009539507fef2dd9bc7c70/President-Joe-Biden-Delivers-Remarks-on-the-Jobs-Report/"
 type: article
 quality: 55
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/9848ad9ce359a149221caf46e352e9f0/BIDEN-JOBS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/a03f76a159009539507fef2dd9bc7c70/BIDEN-JOBS.jpg"
     width: 650
-    height: 434
+    height: 433
     isCached: true
 
 related:
@@ -399,6 +399,6 @@ related:
         height: 630
         isCached: true
 
-secured: "clrY4pfDkckanK1ydjOQxPVjfZXD3C3XkrQH+PeGrGnRQ1Rowi+B/m6Urn0/D+wZFq5r6YFLp3sRNf6KHSsoOQkErVwLyLhAFPYP2yNiYHO8mQR1iMxvWYvj2PO328Do/BQKN+nP1F+GmcM2DRrE5zvBtY7y5zL9KUjrcBvUg8tQdbWVxXmW9uhLOiCMwHKH4ZUlU6IsMPlchbX7tX5eljvm7MB7DCnN1Qy/j7TpIDg5gE4aMOdfNdaSC7gGlWczBvoIbOhh+ziGb7YNgjXneXMjgu15z6+rJH2EmBeY1qBim3r9sbEgu5EFgrVOBVcOtnHMhW/DIDvped/OG3kc1yWqeIU5hWOuDg33YTOwyrw=;gbgMVBFhnXe/m8rPuUJc4g=="
+secured: "vkv5MZyKOLWFNGG6zubFBoyaWJK42uq+lMff6ccBNJ7R4UjIB03J2N5EJEC576O9q2ZsuNikLg7DqfbxyM4OziDNfmqdXhF9mvzYLh2ceoXP4u0uTrinr7JP3QGRV6LyCVcJtVWJ6jMnoyuk2Q6IiAUAlBEF5Ii4B36TGWD9UQMIWFacpEEeK4iFXYd/mcwWTrZuRu3nCegW/6ux0aIHd/Sep8+wVY8q3r/v+MfmHhjb+qqs7DWBK/GDuQpAjEnomegXknVYZ7ER2ujObgUeGbjRG0Ggos4FEoGuez8fCZsoyjhqxBRLVCNA/KVliGSiW4jKEew8JyPlHheJT/AbcuCihc0/D2CHSPdU/dHqte4=;0AfhYspSQMl36PVAH+42dw=="
 ---
 

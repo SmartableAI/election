@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-06-americans-emailed-pence-officials-asking-to-remove-trump-from-office-after-capitol-riot.md",
+      "title": "Americans Emailed Pence, Officials Asking to Remove Trump From Office After Capitol Riot",
+      "excerpt": "Emails accused Trump of inciting the violence and called for members of the administration to take drastic action.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/americans-emailed-pence-officials-asking-remove-trump-office-after-capitol-riot-1626418",
+      "originalUrl": "https://www.newsweek.com/americans-emailed-pence-officials-asking-remove-trump-office-after-capitol-riot-1626418",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1888243/mike-pence-25th-amendment-trump-removal-january6.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/americans-emailed-pence-officials-asking-remove-trump-office-after-capitol-riot-1626418?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/americans-emailed-pence-officials-asking-remove-trump-office-after-capitol-riot-1626418?amp=1",
+      "publishedDateTime": "2021-09-06T06:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-09-06-joe-bidens-granddaughter-naomi-announces-engagement-to-longtime-beau-peter-neal.md",
       "title": "Joe Biden's Granddaughter Naomi Announces Engagement To Longtime Beau Peter Neal",
       "excerpt": "Naomi Biden, President Joe Biden's granddaughter, is now engaged. The 27-year-old daughter of Hunter Biden with ex-wife Kathleen Buhle took to Instagram Wednesday to confirm she's tying the knot with her longtime beau,",
@@ -1258,58 +1310,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-04-joe-biden-tells-fbi-to-release-files-on-911-investigation-and-possible-saudi-links.md",
-      "title": "Joe Biden tells FBI to release files on 9/11 investigation – and possible Saudi links",
-      "excerpt": "Executive order responds to call by victims’ families suing Riyadh and full record to be released in tranches over six months after review",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/sep/03/joe-biden-fbi-release-files-september-11-investigation-saudi",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/sep/03/joe-biden-fbi-release-files-september-11-investigation-saudi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/2afe786b171b06152593796c77021fbd4e4b7fa2/0_273_8192_4918/master/8192.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=842cc989ad87363b86f05a1294087d6b",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/sep/03/joe-biden-fbi-release-files-september-11-investigation-saudi",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/sep/03/joe-biden-fbi-release-files-september-11-investigation-saudi",
-      "publishedDateTime": "2021-09-03T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

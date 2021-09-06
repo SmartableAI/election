@@ -79,6 +79,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Fact Check: Did Joe Biden's Approval Rating Among Independents Suffer Double-Figure Drop?"
+    excerpt: "The president's ratings have diminished of late amid criticism he has faced over the handling of the U.S. withdrawal from Afghanistan."
+    publishedDateTime: 2021-09-06T13:50:00Z
+    webUrl: "https://www.newsweek.com/fact-check-joe-biden-approval-independents-1626358"
+    ampWebUrl: "https://www.newsweek.com/fact-check-joe-biden-approval-independents-1626358?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-joe-biden-approval-independents-1626358?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1888132/joe-biden-state-dining-room.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Fact check: President Joe Biden did not sleep through meeting with new Israeli prime minister"
     excerpt: "A viral video distorts President Biden's Aug. 27 meeting with Israel's new prime minister to make it appear as if Biden fell asleep. He did not."
     publishedDateTime: 2021-09-01T01:03:00Z

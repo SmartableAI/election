@@ -63,6 +63,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Fact Check: Did Joe Biden's Approval Rating Among Independents Suffer Double-Figure Drop?"
+    excerpt: "The president's ratings have diminished of late amid criticism he has faced over the handling of the U.S. withdrawal from Afghanistan."
+    publishedDateTime: 2021-09-06T13:50:00Z
+    webUrl: "https://www.newsweek.com/fact-check-joe-biden-approval-independents-1626358"
+    ampWebUrl: "https://www.newsweek.com/fact-check-joe-biden-approval-independents-1626358?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-joe-biden-approval-independents-1626358?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1888132/joe-biden-state-dining-room.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Ted Cruz Says Biden Abandoned Americans in Afghanistan, Notes 'Reports of a Hostage Crisis'"
     excerpt: "The Republican senator said he and other members of Congress \"have been working around the clock\" to help Americans still in Afghanistan."
     publishedDateTime: 2021-09-05T21:09:00Z

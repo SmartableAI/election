@@ -362,16 +362,16 @@ related:
   - title: "President Joe Biden Delivers Remarks on the Jobs Report"
     excerpt: "U.S. President Joe Biden delivers remarks on the August jobs report on Friday, September 3, 2021, in the State Dining Room at the White House in Washington DC. Photo by Ken Cedeno/UPI"
     publishedDateTime: 2021-09-03T16:36:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/9848ad9ce359a149221caf46e352e9f0/President-Joe-Biden-Delivers-Remarks-on-the-Jobs-Report/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/a03f76a159009539507fef2dd9bc7c70/President-Joe-Biden-Delivers-Remarks-on-the-Jobs-Report/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/9848ad9ce359a149221caf46e352e9f0/BIDEN-JOBS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/a03f76a159009539507fef2dd9bc7c70/BIDEN-JOBS.jpg"
         width: 650
-        height: 434
+        height: 433
         isCached: true
   - title: "For Biden’s presidency has been driven by crisis and is the ‘loneliest job’"
     excerpt: "President Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan, even as he and the nation continued to battle the COVID-19 pandemic."

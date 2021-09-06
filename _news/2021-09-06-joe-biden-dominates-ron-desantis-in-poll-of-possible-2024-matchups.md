@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Ron DeSantis hammers Joe Biden with COVID-19 comparison to H1N1 flu"
-excerpt: "Ron DeSantis continued to blast President Joe Biden and his administration for pro-mask mandate policies, using historical reference to make his point. “Joe Biden was Vice President during the H1N1 flu,"
-publishedDateTime: 2021-08-21T21:14:00Z
-originalUrl: "https://floridapolitics.com/archives/451902-ron-desantis-h1n1/"
-webUrl: "https://floridapolitics.com/archives/451902-ron-desantis-h1n1/"
+title: "Joe Biden dominates Ron DeSantis in poll of possible 2024 matchups"
+excerpt: "A nationwide poll conducted this week suggests Gov. Ron DeSantis would have an uphill climb if challenging President Joe Biden in 2024. The Emerson College survey of 1,200 registered voters showed that 48% of those called would back Biden’s reelection while just 36% would pick DeSantis."
+publishedDateTime: 2021-09-06T12:20:00Z
+originalUrl: "https://floridapolitics.com/archives/455214-joe-biden-dominates-ron-desantis-in-early-2024-poll/"
+webUrl: "https://floridapolitics.com/archives/455214-joe-biden-dominates-ron-desantis-in-early-2024-poll/"
 type: article
 quality: 55
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://floridapolitics.com/wp-content/uploads/2019/08/desantis.jpg"
-    width: 900
-    height: 505
+  - url: "https://floridapolitics.com/wp-content/uploads/2021/07/biden.jpeg"
+    width: 1000
+    height: 667
     isCached: true
 
 related:
@@ -117,6 +117,20 @@ related:
         width: 992
         height: 744
         isCached: true
+  - title: "Ron DeSantis hammers Joe Biden with COVID-19 comparison to H1N1 flu"
+    excerpt: "Ron DeSantis continued to blast President Joe Biden and his administration for pro-mask mandate policies, using historical reference to make his point. “Joe Biden was Vice President during the H1N1 flu,"
+    publishedDateTime: 2021-08-21T21:14:00Z
+    webUrl: "https://floridapolitics.com/archives/451902-ron-desantis-h1n1/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2019/08/desantis.jpg"
+        width: 900
+        height: 505
+        isCached: true
   - title: "Ron DeSantis slams Joe Biden’s failed ‘9/11 moment’ in Afghan exit"
     excerpt: "Ron DeSantis pilloried the President on Fox News Monday night, saying that Joe Biden‘s Afghanistan exit was a misbegotten quest for a “9/11 moment.” The Governor made t"
     publishedDateTime: 2021-08-24T02:29:00Z
@@ -130,20 +144,6 @@ related:
       - url: "https://floridapolitics.com/wp-content/uploads/2021/03/ron-deSantis-1-scaled.jpg"
         width: 2560
         height: 1707
-        isCached: true
-  - title: "Joe Biden dominates Ron DeSantis in poll of possible 2024 matchups"
-    excerpt: "A nationwide poll conducted this week suggests Gov. Ron DeSantis would have an uphill climb if challenging President Joe Biden in 2024. The Emerson College survey of 1,200 registered voters showed that 48% of those called would back Biden’s reelection while just 36% would pick DeSantis."
-    publishedDateTime: 2021-09-06T12:20:00Z
-    webUrl: "https://floridapolitics.com/archives/455214-joe-biden-dominates-ron-desantis-in-early-2024-poll/"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 55
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2021/07/biden.jpeg"
-        width: 1000
-        height: 667
         isCached: true
   - title: "Ron DeSantis fundraising email accuses Joe Biden of ‘authoritarian bullying’"
     excerpt: "In a seven-paragraph fundraising pitch, DeSantis’ political committee, Friends of Ron DeSantis, accused the Democratic President of “authoritarian bullying.” “Joe Biden might want Governor DeSantis to get out of the way so he can impose his radical agenda,"
@@ -202,6 +202,6 @@ related:
         height: 667
         isCached: true
 
-secured: "XEMJCJkjPTgOGeTgYzwXgiDkKj4pZ6IALxb2ECWhaMkhM6mcLohDQuvjyp7DeW9/AoYsms1UnAi/qD/VCTtSdiIaodSL1Ody9thKS1rjT3g4ZblnXFhE1I7RZoeWqW9Qane11EUw7osC17DV7tAK9qKMiAffNXDZq8XG74BiT8nTUL3qwFK7XeTya2R66HrXAnKX/NJUIZClI2/gG40h1QjfrsWhzf0nGCV4cx2Mqo8xwnnFY2bJmfRm49J+GpyDys9xMG1SINR/nYjvImIO36YSR0Uleoj/0dowmzWGkA48Lwd2CSWCklI5eQBo6wZDiZYhqp0wnXoJUAfXO8XHsmLz8U6QwefmEDIzTnqAEPVcoYnlh1aCgfI6XyqE3+bVTrnhvFoY6eauotTj0nbXdbnn/ua2RyDV7EW2OvUzkK0/ffcXyL1Rsiaybpx0nNpgAOTO6MsqFf1oR9ie0r4k2g7UnRqEJxmUPr/iGWldd0R2xhaJf/7BuAwjUwNIgigyjcZIGhl8vJTldXTA2Aq20A==;r0mmsRXEGPfCGrFfQI2ZCw=="
+secured: "/BZ//gm/xT3uicGyThTpJ3yOh2eGHPk3rcEB8SascbAMgqqGuiXyiRMzA+i0a+4Ev+Lz8sZoLnzL1Ye/CWuHxvFLHVL3ol7HkTv7MN1q4IQkPEHX50tDlAEeUDIjwwTrDGAGmXyY1sjsyyp/2nCYckY1rwKcNd27pckNQ+++Mu1gcl/zrd8fpHCOskO6qjeGsOHv9vpl3STsKJXNv+X9OSSlqm8zGOjqEK3zXs4G0uKJ559xK9DvxnC7gEapLMowG3B4LZK5S2TdulUJfY80swcxTYL0+OIn/jF0ISPE1OXLyBIMU5lENrSRdilNZUwId0bbAqI8hU6qWqgiDU3zP0fV1Y3FHoDafTPmfi4o014=;nkWtoTxjQKmHaREFZsdSLg=="
 ---
 

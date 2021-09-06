@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-04-joe-biden-tells-fbi-to-release-files-on-911-investigation-and-possible-saudi-links.md",
+      "title": "Joe Biden tells FBI to release files on 9/11 investigation – and possible Saudi links",
+      "excerpt": "Executive order responds to call by victims’ families suing Riyadh and full record to be released in tranches over six months after review",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/sep/03/joe-biden-fbi-release-files-september-11-investigation-saudi",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/sep/03/joe-biden-fbi-release-files-september-11-investigation-saudi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/2afe786b171b06152593796c77021fbd4e4b7fa2/0_273_8192_4918/master/8192.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=842cc989ad87363b86f05a1294087d6b",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/sep/03/joe-biden-fbi-release-files-september-11-investigation-saudi",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/sep/03/joe-biden-fbi-release-files-september-11-investigation-saudi",
+      "publishedDateTime": "2021-09-03T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-09-03-biden-orders-a-declassification-review-of-documents-related-to-september-11-attacks.md",
       "title": "Biden orders a declassification review of documents related to September 11 attacks",
       "excerpt": "President Joe Biden on Friday signed an executive order directing the Department of Justice and other federal agencies to conduct a declassification review related to the FBI's investigation of the September 11, 2001, terrorist attacks.\n    \n",
@@ -394,49 +446,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-he-embodies-america-first-trump-endorses-herschel-walkers-us-senate-bid.md",
-      "title": "‘He embodies America First.’ Trump endorses Herschel Walker’s U.S. Senate bid",
-      "excerpt": "Herschel Walker will never let you down. He was a great football player and will be an even better U.S. Senator — if that is even possible,” Trump said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsobserver.com/news/politics-government/national-politics/article253962443.html",
-      "originalUrl": "https://www.newsobserver.com/news/politics-government/national-politics/article253962443.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/bcbbc580-ec0a-437f-8870-f9ca0770e2fc/cdd15e50-6fe2-4f37-882e-6eded1dd316b/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.newsobserver.com/news/politics-government/national-politics/article253962443.html",
-      "cdnAmpWebUrl": "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/national-politics/article253962443.html",
-      "publishedDateTime": "2021-09-03T05:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Raleigh News & Observer",
-        "domain": "newsobserver.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

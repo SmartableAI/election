@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Fact Check: Joe Biden said that al-Qaida is 'gone' from Afghanistan"
-excerpt: "What interest do we have in Afghanistan at this point with al-Qaida gone? We went to Afghanistan for the express purpose of getting rid of al-Qaida in Afghanistan, as well as getting Osama bin Laden."
-publishedDateTime: 2021-08-30T09:13:00Z
-originalUrl: "https://www.houstonchronicle.com/politics/texas/article/Fact-Check-Joe-Biden-said-that-al-Qaida-is-16416922.php"
-webUrl: "https://www.houstonchronicle.com/politics/texas/article/Fact-Check-Joe-Biden-said-that-al-Qaida-is-16416922.php"
-ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Fact-Check-Joe-Biden-said-that-al-Qaida-is-16416922.php"
-cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Fact-Check-Joe-Biden-said-that-al-Qaida-is-16416922.php"
+title: "Fact Check: Did Joe Biden's Approval Rating Among Independents Suffer Double-Figure Drop?"
+excerpt: "The president's ratings have diminished of late amid criticism he has faced over the handling of the U.S. withdrawal from Afghanistan."
+publishedDateTime: 2021-09-06T13:50:00Z
+originalUrl: "https://www.newsweek.com/fact-check-joe-biden-approval-independents-1626358"
+webUrl: "https://www.newsweek.com/fact-check-joe-biden-approval-independents-1626358"
+ampWebUrl: "https://www.newsweek.com/fact-check-joe-biden-approval-independents-1626358?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-joe-biden-approval-independents-1626358?amp=1"
 type: article
-quality: 125
-heat: 625
-published: true
+quality: 116
+heat: -1
+published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,12 +25,28 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.hdnux.com/photos/01/21/50/72/21401243/3/400x0.jpg"
-    width: 400
-    height: 266
+  - url: "https://d.newsweek.com/en/full/1888132/joe-biden-state-dining-room.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
+  - title: "Fact Check: Joe Biden said that al-Qaida is 'gone' from Afghanistan"
+    excerpt: "What interest do we have in Afghanistan at this point with al-Qaida gone? We went to Afghanistan for the express purpose of getting rid of al-Qaida in Afghanistan, as well as getting Osama bin Laden."
+    publishedDateTime: 2021-08-30T09:13:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/Fact-Check-Joe-Biden-said-that-al-Qaida-is-16416922.php"
+    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Fact-Check-Joe-Biden-said-that-al-Qaida-is-16416922.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Fact-Check-Joe-Biden-said-that-al-Qaida-is-16416922.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 125
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/50/72/21401243/3/400x0.jpg"
+        width: 400
+        height: 266
+        isCached: true
   - title: "Fact Check: Did Jack Posobiec Sponsor Rasmussen Joe Biden Approval Poll?"
     excerpt: "Recent Rasmussen Reports polling focused on Joe Biden has drawn attention not only for its results but who sponsored it. The Claim Questions were raised over the poll being sponsored by Jack Posobiec,"
     publishedDateTime: 2021-09-02T13:45:00Z
@@ -60,22 +76,6 @@ related:
     quality: 116
     images:
       - url: "https://d.newsweek.com/en/full/1886918/biden-listens-president-ukraine.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Fact Check: Did Joe Biden's Approval Rating Among Independents Suffer Double-Figure Drop?"
-    excerpt: "The president's ratings have diminished of late amid criticism he has faced over the handling of the U.S. withdrawal from Afghanistan."
-    publishedDateTime: 2021-09-06T13:50:00Z
-    webUrl: "https://www.newsweek.com/fact-check-joe-biden-approval-independents-1626358"
-    ampWebUrl: "https://www.newsweek.com/fact-check-joe-biden-approval-independents-1626358?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-joe-biden-approval-independents-1626358?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 116
-    images:
-      - url: "https://d.newsweek.com/en/full/1888132/joe-biden-state-dining-room.jpg"
         width: 2500
         height: 1667
         isCached: true
@@ -411,6 +411,6 @@ related:
       domain: politifact.com
     quality: 20
 
-secured: "144dVYd/6uXkvtywaIfTiTQCWZ2no05L53b7Qr26qUmZViPzOVXMDrXAKzxuq4hzKC5Iyg1hA3+qZRowtLp1lLheG9otcDCrug7wAEB8rbaZatIiz9BEvKNRzTC8O1pr/UkpjPklUu7oSZzI8zFljL9k9Op54V+cIepaqlhplj0f/lCcYCGaUDrSj2OPfbbF/8irjX8anfpR7Pgixbxyg31o0nFyv8AlX7KPa0Uvd24pj1DEuABVrU25fV0pAfwVmT70KHVwvVNn/2tPggyyES90NRqQ7YaG409UxXfTRuE+GE22KdIhEIKnPsT6BGmPQEmvXeBis7AGFlC3Yod2KEMvJ2kBEXXbhaKtB8mCwBRHkW/en0v/TUwGIIhI71R+lVBwa5TtMZb8ZBHYkFK2w5gI1wf5Oqf1thkwQ+ghN8B/BDgHdPlFYEnjNhD3sbPbwC6gzwf+GCBaf0wGGmXJd9MGWyeMfi6r/FLiDghfoPEbuDwd9Hh8a7p/9EEoOFuBXRfem2+0ktgPLe3yE2cn0w==;uGHEza/LMzavTL3AbVlK0A=="
+secured: "dAXsR0qn0W6mGnmdHzjwN4LBSUjjqojsdj6F2laoXxCY7Ubpim3obyF3icw13VoKbhVmQADTcIzTVFPMXFuR2Tyd56O4t5ge18klm4K8ifX4YrUr+CQf/3BwtUanzrKRXYJmH3GKk6LyHorLBzogRwUpscfSA08TSiiAHSIbDolH8Jg3Bd3cwdBOabgOoi+RN+rwlONIacnaVnWmNKRm3cZUS+vDSh72otp1vUD1PvLkOkpOk7Y84d8OYFKjKZi9w8p2XLlXPsI1EQATrajOjwgNthYpsn3akhbqkvjA11kw5may1QMH7wal4YgKS5HYwSDF9AnrrXo2UlePCzrAyFUUsEvl1E/HU3nA7rOqp7o=;7YDTZ1LEF00x/w/n0q3ssQ=="
 ---
 

@@ -145,6 +145,20 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Joe Biden dominates Ron DeSantis in poll of possible 2024 matchups"
+    excerpt: "A nationwide poll conducted this week suggests Gov. Ron DeSantis would have an uphill climb if challenging President Joe Biden in 2024. The Emerson College survey of 1,200 registered voters showed that 48% of those called would back Biden’s reelection while just 36% would pick DeSantis."
+    publishedDateTime: 2021-09-06T12:20:00Z
+    webUrl: "https://floridapolitics.com/archives/455214-joe-biden-dominates-ron-desantis-in-early-2024-poll/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/07/biden.jpeg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Half of Maine counties could soon be covered by Joe Biden’s new eviction moratorium"
     excerpt: "Once a county is designated as seeing “substantial” or “high” transmission, residents are protected from evictions for at least two weeks."
     publishedDateTime: 2021-08-04T15:52:00Z

@@ -53,22 +53,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "House panel investigating Capitol riot plans to ask telecom firms to preserve Trump allies' phone records"
-    excerpt: "The Jan. 6 committee's list of names — including Trump loyalists Marjorie Taylor Greene, Matt Gaetz and Mo Brooks — is still evolving."
-    publishedDateTime: 2021-08-30T15:51:00Z
-    webUrl: "https://www.cnbc.com/2021/08/30/capitol-riot-jan-6-committee-wants-trump-allies-phone-records-preserved.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/08/30/capitol-riot-jan-6-committee-wants-trump-allies-phone-records-preserved.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/30/capitol-riot-jan-6-committee-wants-trump-allies-phone-records-preserved.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 108
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106822524-1610396554994-gettyimages-1230465266-Lev_Radin_010721.jpeg?v=1627932893"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "With fight over mask mandates, Gov. Abbott passes purity test in Trump's GOP"
     excerpt: "But now as the state hits a third surge, Abbott — who faces re-election early next year — is doing none of that. Instead, he is suggesting that people wear masks when appropri"
     publishedDateTime: 2021-08-23T19:26:00Z

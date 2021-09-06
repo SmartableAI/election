@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/regulation/court-battles/569743-house-panel-tees
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/regulation/court-battles/569743-house-panel-tees-up-trump-executive-privilege-fight-in-jan-6-probe?amp"
 type: article
 quality: 125
-heat: 485
+heat: 465
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/21/42/70/21376521/3/ratio3x2_400.jpg"
         width: 400
         height: 267
-        isCached: true
-  - title: "House panel investigating Capitol riot plans to ask telecom firms to preserve Trump allies' phone records"
-    excerpt: "The Jan. 6 committee's list of names — including Trump loyalists Marjorie Taylor Greene, Matt Gaetz and Mo Brooks — is still evolving."
-    publishedDateTime: 2021-08-30T15:51:00Z
-    webUrl: "https://www.cnbc.com/2021/08/30/capitol-riot-jan-6-committee-wants-trump-allies-phone-records-preserved.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/08/30/capitol-riot-jan-6-committee-wants-trump-allies-phone-records-preserved.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/30/capitol-riot-jan-6-committee-wants-trump-allies-phone-records-preserved.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 108
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106822524-1610396554994-gettyimages-1230465266-Lev_Radin_010721.jpeg?v=1627932893"
-        width: 3000
-        height: 2000
         isCached: true
   - title: "With fight over mask mandates, Gov. Abbott passes purity test in Trump's GOP"
     excerpt: "But now as the state hits a third surge, Abbott — who faces re-election early next year — is doing none of that. Instead, he is suggesting that people wear masks when appropri"
