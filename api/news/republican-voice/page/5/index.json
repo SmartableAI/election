@@ -2,62 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-08-03-biden-marks-el-paso-mass-shooting-by-reiterating-gun-control-push-denouncing-hate-fueled-violence.md",
-      "title": "Biden marks El Paso mass shooting by reiterating gun control push, denouncing 'hate-fueled violence'",
-      "excerpt": "President Biden on Tuesday, in marking two years since the El Paso shooting which took the lives of 23 individuals, called for Americans to “stand united against hate and violence,” outlining his administration’s efforts to combat domestic terrorism and end “the plague of gun violence” in the country.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kUyUvdS5jBA/biden-marks-el-paso-mass-shooting-gun-control-push-hate-fueled-violence",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kUyUvdS5jBA/biden-marks-el-paso-mass-shooting-gun-control-push-hate-fueled-violence",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-marks-el-paso-mass-shooting-gun-control-push-hate-fueled-violence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-marks-el-paso-mass-shooting-gun-control-push-hate-fueled-violence.amp",
-      "publishedDateTime": "2021-08-03T09:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-08-03-harris-border-role-faces-new-scrutiny-after-report-of-likely-historic-surge-in-unaccompanied-children.md",
       "title": "Harris’ border role faces new scrutiny after report of likely historic surge in unaccompanied children",
       "excerpt": "A report from the Associated Press released Monday night seemed to paint a grim picture of the conditions at the border just over four months since Harris’ appointment to the role.",
@@ -1654,6 +1598,54 @@
       "topics": [
         "Election",
         "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-trump-vows-we-wont-mask-our-children-in-wake-of-new-cdc-recommendation.md",
+      "title": "Trump vows ‘we won’t mask our children’ in wake of new CDC recommendation",
+      "excerpt": "Donald Trump blasted the Biden administration after the CDC recommended indoor mask mandates in most areas of the US as well as in all K-12 schools, regardless of vaccination status.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/07/27/trump-vows-we-wont-mask-our-children-after-new-cdc-mandates/",
+      "originalUrl": "https://nypost.com/2021/07/27/trump-vows-we-wont-mask-our-children-after-new-cdc-mandates/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/donald-trump-anti-mask-indexb.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/07/27/trump-vows-we-wont-mask-our-children-after-new-cdc-mandates/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/27/trump-vows-we-wont-mask-our-children-after-new-cdc-mandates/amp/",
+      "publishedDateTime": "2021-07-27T19:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
         "Republican Voice"
       ]
     }

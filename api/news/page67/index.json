@@ -2,58 +2,6 @@
   "page": 67,
   "value": [
     {
-      "path": "_news/2021-04-16-mike-pence-undergoes-surgery-to-have-pacemaker-implanted.md",
-      "title": "Mike Pence undergoes surgery to have pacemaker implanted",
-      "excerpt": "\"The routine surgery was successful, and he is expected to fully recover and return to normal activity in the coming days,\" Pence's office said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/mike-pence-pacemaker-implant-surgery/",
-      "originalUrl": "https://www.cbsnews.com/news/mike-pence-pacemaker-implant-surgery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 365,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/13/3d46e6fa-c74e-41cc-be16-96e683b81c3e/thumbnail/1200x630/6416c4237a17d28bc745050913d7d613/gettyimages-1230408840.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/mike-pence-pacemaker-implant-surgery/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mike-pence-pacemaker-implant-surgery/",
-      "publishedDateTime": "2021-04-16T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2021-04-16-franklin-grahams-prayer-call-for-mike-pence-receives-traitor-responses-from-followers.md",
       "title": "Franklin Graham's Prayer Call for Mike Pence Receives 'Traitor' Responses From Followers",
       "excerpt": "Gab users refused to wish the former VP a speedy recovery and continued to criticize him for not helping Donald Trump overturn the 2020 presidential election results.",
@@ -1355,6 +1303,62 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-biden-parts-of-us-backsliding-into-jim-crow-days.md",
+      "title": "Biden: Parts of US 'backsliding' into Jim Crow days",
+      "excerpt": "President Biden said parts of the United States are \"backsliding\" into \"the days of Jim Crow,\" during remarks Wednesday at the National Action Network's national convention – one of the largest civil rights conferences in the country.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cLvFDgleK4E/biden-backsliding-into-jim-crow",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cLvFDgleK4E/biden-backsliding-into-jim-crow",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-backsliding-into-jim-crow.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backsliding-into-jim-crow.amp",
+      "publishedDateTime": "2021-04-14T09:48:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

@@ -59,54 +59,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-07-biden-spends-labor-day-in-delaware-as-mounting-crises-sink-approval-rating.md",
-      "title": "Biden spends Labor Day in Delaware as mounting crises sink approval rating",
-      "excerpt": "It’s Biden’s 19th trip to his private residences in Delaware since taking office. He is scheduled to return to the White House around 6 p.m. Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/09/06/biden-spends-labor-day-in-delaware-amid-sinking-approval-ratings/",
-      "originalUrl": "https://nypost.com/2021/09/06/biden-spends-labor-day-in-delaware-amid-sinking-approval-ratings/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/09/biden-delaware-02.jpg?quality=90&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/09/06/biden-spends-labor-day-in-delaware-amid-sinking-approval-ratings/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/06/biden-spends-labor-day-in-delaware-amid-sinking-approval-ratings/amp/",
-      "publishedDateTime": "2021-09-06T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-09-06-fk-joe-biden-chants-break-out-at-college-football-games-across-the-country.md",
       "title": "'F**K Joe Biden' Chants Break Out at College Football Games Across the Country",
       "excerpt": "Explicit chants against President Joe Biden broke out in the crowds at college football games over the past few days. On Sunday, video of a \"f**k Joe Biden\" chant was posted online during the Texas A&M Aggies game against the Kent State Golden Flashes.",
@@ -403,63 +355,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-09-04-new-york-magazine-writer-blames-joe-manchin-for-putting-biden-presidency-in-mortal-danger.md",
-      "title": "New York magazine writer blames Joe Manchin for putting Biden presidency in 'mortal danger'",
-      "excerpt": "New York magazine writer Jonathan Chait seems to be laying the prospects of a “failed” Biden presidency completely at the feet of Sen. Joe Manchin, D-W.V.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/new-york-magazine-jonathan-chait-joe-manchin-joe-biden-failed-presidency",
-      "originalUrl": "https://www.foxnews.com/media/new-york-magazine-jonathan-chait-joe-manchin-joe-biden-failed-presidency",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/84cbe2ec-63e7-4008-aa74-acbea0e9018c/ea95b686-c2a1-471b-8002-0618380226ed/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/new-york-magazine-jonathan-chait-joe-manchin-joe-biden-failed-presidency.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-magazine-jonathan-chait-joe-manchin-joe-biden-failed-presidency.amp",
-      "publishedDateTime": "2021-09-03T14:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     },
     {
@@ -770,7 +665,7 @@
       "originalUrl": "https://www.ft.com/content/bfe24854-3bf2-4ada-b3a2-778b4707c31f",
       "featuredContent": null,
       "highlight": null,
-      "heat": 685,
+      "heat": 725,
       "tags": null,
       "images": [
         {
@@ -1506,6 +1401,92 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-28-franklin-delano-roosevelt-vs-john-f-kennedy-vs-joe-robinette-biden.md",
+      "title": "Franklin Delano Roosevelt vs. John F. Kennedy vs. Joe Robinette Biden",
+      "excerpt": "After the deaths of 13 U.S. troops and at least 90 Afghans outside the Kabul airport, Joe Biden gave a speech from a position of weakness.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailysignal.com/2021/08/27/franklin-delano-roosevelt-vs-john-f-kennedy-vs-joe-robinette-biden/",
+      "originalUrl": "https://www.dailysignal.com/2021/08/27/franklin-delano-roosevelt-vs-john-f-kennedy-vs-joe-robinette-biden/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailysignal.com/wp-content/uploads/Biden-2.gif",
+          "width": 1250,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailysignal.com/2021/08/27/franklin-delano-roosevelt-vs-john-f-kennedy-vs-joe-robinette-biden/amp/",
+      "cdnAmpWebUrl": "https://www-dailysignal-com.cdn.ampproject.org/c/s/www.dailysignal.com/2021/08/27/franklin-delano-roosevelt-vs-john-f-kennedy-vs-joe-robinette-biden/amp/",
+      "publishedDateTime": "2021-08-27T16:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Signal",
+        "domain": "dailysignal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-28-joe-biden-seeks-diplomacy-with-iran-on-nuclear-deal-but-open-to-other-options.md",
+      "title": "Joe Biden seeks diplomacy with Iran on nuclear deal, but open to 'other options'",
+      "excerpt": "President Joe Biden on Friday said the United States will try diplomacy to keep Iran from obtaining nuclear weapons, but will use \"other options\" if necessary.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/",
+      "originalUrl": "https://www.upi.com/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/3931630085407/2021/1/5a644c6dc5548efdc6df8cce0f83b200/v1.5/Joe-Biden-seeks-diplomacy-with-Iran-on-nuclear-deal-but-open-to-other-options.jpg",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/",
+      "publishedDateTime": "2021-08-27T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     }
   ],

@@ -2,49 +2,6 @@
   "page": 39,
   "value": [
     {
-      "path": "_news/2021-06-17-donald-trump-to-hold-rally-at-lorain-county-fairgrounds-on-june-26.md",
-      "title": "Donald Trump to hold rally at Lorain County Fairgrounds on June 26",
-      "excerpt": "Former president Donald Trump will hold his first rally since leaving office on June 26 The rally was confirmed Wednesday on Trump’s website. The rally will start at 7 p.m. but doors will open at 2 p.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cleveland.com/politics/2021/06/donald-trump-to-hold-rally-at-lorain-county-fairgrounds-on-june-26.html",
-      "originalUrl": "https://www.cleveland.com/politics/2021/06/donald-trump-to-hold-rally-at-lorain-county-fairgrounds-on-june-26.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KBEEPWYU7FCH7NF2B7WEM4OTK4.jpg",
-          "width": 3796,
-          "height": 2534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cleveland.com/politics/2021/06/donald-trump-to-hold-rally-at-lorain-county-fairgrounds-on-june-26.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/politics/2021/06/donald-trump-to-hold-rally-at-lorain-county-fairgrounds-on-june-26.html?outputType=amp",
-      "publishedDateTime": "2021-06-16T19:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cleveland.com",
-        "domain": "cleveland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-06-17-house-approves-bill-marking-juneteenth-a-federal-holiday-sending-it-to-bidens-desk.md",
       "title": "House approves bill marking Juneteenth a federal holiday, sending it to Biden's desk",
       "excerpt": "The U.S. House of Representatives on Wednesday approved a bill that aims to establish June 19th, or Juneteenth, a federal holiday.",
@@ -1342,6 +1299,62 @@
       "topics": [
         "Election",
         "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-biden-gives-awkward-fist-bump-to-turkeys-erdogan-at-nato-summit.md",
+      "title": "Biden gives awkward fist-bump to Turkey’s Erdogan at NATO summit",
+      "excerpt": "President Biden on Monday offered an awkward fist-bump to Turkish President Recep Tayyip Erdogan in Belgium at the annual NATO summit Monday — as the Islamist strongman prepared to blast the U.S. leader for his recent recognition of the Armenian genocide.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QqVib7QZRDA/biden-gives-awkward-fist-bump-to-turkeys-erdogan-at-nato-summit",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QqVib7QZRDA/biden-gives-awkward-fist-bump-to-turkeys-erdogan-at-nato-summit",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bd6a145e-66e9-499f-af6f-6e679e86637f/ce50cd7b-ad82-41a8-827b-0a4d21342769/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-gives-awkward-fist-bump-to-turkeys-erdogan-at-nato-summit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gives-awkward-fist-bump-to-turkeys-erdogan-at-nato-summit.amp",
+      "publishedDateTime": "2021-06-14T16:38:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Republican Voice"
       ]
     }

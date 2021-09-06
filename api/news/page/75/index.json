@@ -2,62 +2,6 @@
   "page": 75,
   "value": [
     {
-      "path": "_news/2021-04-04-biden-economic-adviser-says-she-supports-corporate-tax-increases-because-its-the-right-thing-to-do.md",
-      "title": "Biden economic adviser says she supports corporate tax increases because it's the 'right thing to do'",
-      "excerpt": "President Biden's economic adviser Cecilia Rouse on Sunday said the president proposes corporate tax increases because it's the \"right thing to do.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NBrGmXFWXx0/bidens-economic-adviser-says-he-supports-corporate-tax-increases-because-its-right-thing-to-do",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NBrGmXFWXx0/bidens-economic-adviser-says-he-supports-corporate-tax-increases-because-its-right-thing-to-do",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Cecilia-Rouse-thumb.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bidens-economic-adviser-says-he-supports-corporate-tax-increases-because-its-right-thing-to-do.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-economic-adviser-says-he-supports-corporate-tax-increases-because-its-right-thing-to-do.amp",
-      "publishedDateTime": "2021-04-04T10:42:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-04-hunter-biden-says-hes-absolutely-certain-hell-be-cleared-of-wrongdoing-in-doj-probe-into-business-dealings.md",
       "title": "Hunter Biden says he's 'absolutely certain' he'll be cleared of wrongdoing in DOJ probe into business dealings",
       "excerpt": "Hunter Biden says he is fully cooperating with the Justice Department's investigation into his business dealings in China and predicted that he will be cleared of any wrong doing in the probe.\n    \n",
@@ -1341,6 +1285,62 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-biden-reverses-trump-lifts-sanctions-on-international-criminal-court.md",
+      "title": "Biden reverses Trump, lifts sanctions on International Criminal Court",
+      "excerpt": "President Biden on Friday reversed Trump-era foreign policies by lifting sanctions and removing visa restrictions on officials of the International Criminal Court (ICC).",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vXGPm2re3qU/biden-reverses-trump-era-policies-lifts-sanctions-on-international-criminal-court",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vXGPm2re3qU/biden-reverses-trump-era-policies-lifts-sanctions-on-international-criminal-court",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 1690,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/91d04a2f-0fcc-4e80-a4db-39df11088247/3c84e3f6-2c0a-488c-93d2-6bbf39b4ec59/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-reverses-trump-era-policies-lifts-sanctions-on-international-criminal-court.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reverses-trump-era-policies-lifts-sanctions-on-international-criminal-court.amp",
+      "publishedDateTime": "2021-04-02T17:21:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

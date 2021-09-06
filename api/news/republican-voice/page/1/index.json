@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-06-biden-says-labor-unions-brung-me-to-the-dance-in-politics.md",
+      "title": "Biden says labor unions 'brung me to the dance' in politics",
+      "excerpt": "President Biden lauded his close relationship with union workers Monday during an unscheduled Labor Day trip to a local branch of International Brotherhood of Electrical Workers in Delaware.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FQpLbAN5svE/biden-union-labor-day-trip-delaware-electrical-workers",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FQpLbAN5svE/biden-union-labor-day-trip-delaware-electrical-workers",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c391175a-9e29-4bc2-b4cd-da7913f72d05/0e834aff-eeed-4aac-8ca4-24a511e779fa/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-union-labor-day-trip-delaware-electrical-workers.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-union-labor-day-trip-delaware-electrical-workers.amp",
+      "publishedDateTime": "2021-09-06T12:34:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-07-ny-times-mocked-for-piece-on-biden-doctrine-following-afghanistan-exit-is-this-a-wh-press-release.md",
       "title": "NY Times mocked for piece on 'Biden doctrine' following Afghanistan exit: 'Is this a WH press release?'",
       "excerpt": "The New York Times' became the focus of intense mockery over what was seen as a puff piece seemingly praising President Joe Biden's foreign policy, despite the debacle that took place amid the U.S. withdrawal from Afghanistan last month.",
@@ -45,54 +101,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-biden-spends-labor-day-in-delaware-as-mounting-crises-sink-approval-rating.md",
-      "title": "Biden spends Labor Day in Delaware as mounting crises sink approval rating",
-      "excerpt": "It’s Biden’s 19th trip to his private residences in Delaware since taking office. He is scheduled to return to the White House around 6 p.m. Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/09/06/biden-spends-labor-day-in-delaware-amid-sinking-approval-ratings/",
-      "originalUrl": "https://nypost.com/2021/09/06/biden-spends-labor-day-in-delaware-amid-sinking-approval-ratings/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/09/biden-delaware-02.jpg?quality=90&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/09/06/biden-spends-labor-day-in-delaware-amid-sinking-approval-ratings/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/06/biden-spends-labor-day-in-delaware-amid-sinking-approval-ratings/amp/",
-      "publishedDateTime": "2021-09-06T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -498,63 +506,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-04-new-york-magazine-writer-blames-joe-manchin-for-putting-biden-presidency-in-mortal-danger.md",
-      "title": "New York magazine writer blames Joe Manchin for putting Biden presidency in 'mortal danger'",
-      "excerpt": "New York magazine writer Jonathan Chait seems to be laying the prospects of a “failed” Biden presidency completely at the feet of Sen. Joe Manchin, D-W.V.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/new-york-magazine-jonathan-chait-joe-manchin-joe-biden-failed-presidency",
-      "originalUrl": "https://www.foxnews.com/media/new-york-magazine-jonathan-chait-joe-manchin-joe-biden-failed-presidency",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/84cbe2ec-63e7-4008-aa74-acbea0e9018c/ea95b686-c2a1-471b-8002-0618380226ed/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/new-york-magazine-jonathan-chait-joe-manchin-joe-biden-failed-presidency.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-magazine-jonathan-chait-joe-manchin-joe-biden-failed-presidency.amp",
-      "publishedDateTime": "2021-09-03T14:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     },
@@ -1661,6 +1612,63 @@
       "topics": [
         "Election",
         "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-31-pete-hegseth-rips-biden-for-checking-watch-calls-out-betrayal-of-us-military-mission.md",
+      "title": "Pete Hegseth rips Biden for checking watch, calls out 'betrayal' of US military mission",
+      "excerpt": "Army veteran and ‘Fox & Friends Weekend’ co-host Pete Hegseth ripped into Joe Biden on Monday after Gold Star families criticized the president for repeatedly checking his watch while meeting with them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/biden-checking-watch-betrayal-military-hegseth",
+      "originalUrl": "https://www.foxnews.com/media/biden-checking-watch-betrayal-military-hegseth",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b475c4af-ac40-44aa-a114-920cccc3d52a/51978ba7-0064-41e2-bd9d-73365cc9f209/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/biden-checking-watch-betrayal-military-hegseth.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-checking-watch-betrayal-military-hegseth.amp",
+      "publishedDateTime": "2021-08-31T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
         "Republican Voice"
       ]
     }

@@ -2,62 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-09-02-arizonas-ag-rebuffs-biden-does-mask-probe-wont-tolerate-efforts-to-undermine-state-sovereignty.md",
-      "title": "Arizona's AG rebuffs Biden DOE's mask probe: Won't 'tolerate' efforts to undermine state sovereignty",
-      "excerpt": "Arizona Attorney General Mark Brnovich forcefully responded to the Department of Education (DOE) Tuesday, telling Secretary Miguel Cardona he won't \"tolerate\" any federal overreach through the administration's masking investigation.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4rDsk1S8Fuc/arizona-ag-biden-education-department-mask-probe",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4rDsk1S8Fuc/arizona-ag-biden-education-department-mask-probe",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/815ebb23-2591-43ee-bb90-9859e5077048/22efde18-2edf-4c8b-95a1-a7c817978585/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/arizona-ag-biden-education-department-mask-probe.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-ag-biden-education-department-mask-probe.amp",
-      "publishedDateTime": "2021-09-02T07:40:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-09-02-readers-react-why-are-pa-politicians-listening-to-trump.md",
       "title": "Readers React: Why are Pa. politicians listening to Trump?",
       "excerpt": "Reader: Instead of spending the money on alleged voter fraud, they should have hearings on senior citizens’ school tax relief.",
@@ -1346,6 +1290,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-01-joe-bidens-ukraine-meeting-is-a-test-of-americas-pledges.md",
+      "title": "Joe Biden’s Ukraine meeting is a test of America’s pledges",
+      "excerpt": "Sign up to myFT Daily Digest to be the first to know about Joe Biden news. In April 2014, two months after Ukraine’s pro-western revolution and a month after Russia annexed Crimea in retaliation, the then US vice-president Joe Biden flew into Kyiv.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/893cd8eb-c070-49f9-a049-1ad15532950f",
+      "originalUrl": "https://www.ft.com/content/893cd8eb-c070-49f9-a049-1ad15532950f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 325,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fca569017-d1b0-4fd9-b40d-ff87b3e5fea4.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/893cd8eb-c070-49f9-a049-1ad15532950f",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/893cd8eb-c070-49f9-a049-1ad15532950f",
+      "publishedDateTime": "2021-08-31T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     }
   ],

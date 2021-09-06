@@ -2,58 +2,6 @@
   "page": 29,
   "value": [
     {
-      "path": "_news/2021-07-05-mike-lindell-promises-cyber-symposium-on-election-fraud-will-change-history-reinstate-trump.md",
-      "title": "Mike Lindell Promises 'Cyber Symposium' on Election Fraud Will 'Change History,' Reinstate Trump",
-      "excerpt": "\"These three days in August are gonna change history…you can't change these packet captures, they're forever captured in time.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mike-lindell-promises-cyber-symposium-election-fraud-will-change-history-reinstate-trump-1606755",
-      "originalUrl": "https://www.newsweek.com/mike-lindell-promises-cyber-symposium-election-fraud-will-change-history-reinstate-trump-1606755",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1837447/mike-lindell.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mike-lindell-promises-cyber-symposium-election-fraud-will-change-history-reinstate-trump-1606755?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-lindell-promises-cyber-symposium-election-fraud-will-change-history-reinstate-trump-1606755?amp=1",
-      "publishedDateTime": "2021-07-04T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-07-05-pro-trump-social-media-app-hacked-on-launch-day-as-half-million-sign-up.md",
       "title": "Pro-Trump social media app hacked on launch day as half million sign up",
       "excerpt": "A social media site launched on Sunday by Jason Miller, a senior adviser to former U.S. President Donald Trump, was briefly hacked, and more than 500,000 people have registered to use the site, Miller said.",
@@ -1320,6 +1268,62 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-03-arizona-republic-trump-allies-pressured-maricopa-county-election-supervisors.md",
+      "title": "Arizona Republic: Trump allies pressured Maricopa County election supervisors",
+      "excerpt": "In the weeks following the 2020 election, former President Donald Trump's White House attempted to call the chair of the Maricopa County Board of Supervisors — a key county in the state Trump lost by a small margin to then-candidate Joe Biden — according to a new report from the Arizona Republic published",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Py2Lfc7i2e8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Py2Lfc7i2e8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 327,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210223163126-01-mail-in-ballot-arizona-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/02/politics/donald-trump-rudy-giuliani-calls-maricopa-county-election-supervisors/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/donald-trump-rudy-giuliani-calls-maricopa-county-election-supervisors/index.html",
+      "publishedDateTime": "2021-07-02T21:12:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     }
   ],

@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Churchill: From Joe Biden, a promise broken"
-excerpt: "In July, Joe Biden delivered a speech about the military withdrawal from Afghanistan. It's worth revisiting. The president said many words that day that haven't stood the test of time, including a prediction that \"the likelihood there’s going to be the Taliban overrunning everything and owning the whole country is highly unlikely."
-publishedDateTime: 2021-09-02T10:00:00Z
-originalUrl: "https://www.timesunion.com/churchill/article/Churchill-From-Joe-Biden-a-promise-broken-16428751.php"
-webUrl: "https://www.timesunion.com/churchill/article/Churchill-From-Joe-Biden-a-promise-broken-16428751.php"
-ampWebUrl: "https://www.timesunion.com/churchill/amp/Churchill-From-Joe-Biden-a-promise-broken-16428751.php"
-cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/churchill/amp/Churchill-From-Joe-Biden-a-promise-broken-16428751.php"
+title: "President Joe Biden's granddaughter, Naomi, engaged to longtime boyfriend"
+excerpt: "President Joe Biden's granddaughter, Naomi Biden, announced Sunday that she is engaged to Peter Neal, her longtime boyfriend."
+publishedDateTime: 2021-09-06T19:08:00Z
+originalUrl: "https://www.upi.com/Entertainment_News/2021/09/06/biden-granddaughter-engaged/5591630953256/"
+webUrl: "https://www.upi.com/Entertainment_News/2021/09/06/biden-granddaughter-engaged/5591630953256/"
+ampWebUrl: "https://www.upi.com/amp/Entertainment_News/2021/09/06/biden-granddaughter-engaged/5591630953256/"
+cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/2021/09/06/biden-granddaughter-engaged/5591630953256/"
 type: article
-quality: 75
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Times Union
-  domain: timesunion.com
+  name: UPI.com
+  domain: upi.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://s.hdnux.com/photos/01/21/55/10/21418547/5/ratio3x2_400.jpg"
-    width: 400
-    height: 267
+  - url: "https://cdnph.upi.com/sv/ph/og/upi/5591630953256/2021/1/4118230cf7d77ef3082739a7f7498c45/v1.5/President-Joe-Bidens-granddaughter-Naomi-engaged-to-longtime-boyfriend.jpg"
+    width: 800
+    height: 533
     isCached: true
 
 related:
@@ -139,6 +139,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Churchill: From Joe Biden, a promise broken"
+    excerpt: "In July, Joe Biden delivered a speech about the military withdrawal from Afghanistan. It's worth revisiting. The president said many words that day that haven't stood the test of time, including a prediction that \"the likelihood there’s going to be the Taliban overrunning everything and owning the whole country is highly unlikely."
+    publishedDateTime: 2021-09-02T10:00:00Z
+    webUrl: "https://www.timesunion.com/churchill/article/Churchill-From-Joe-Biden-a-promise-broken-16428751.php"
+    ampWebUrl: "https://www.timesunion.com/churchill/amp/Churchill-From-Joe-Biden-a-promise-broken-16428751.php"
+    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/churchill/amp/Churchill-From-Joe-Biden-a-promise-broken-16428751.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/55/10/21418547/5/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Slain Norco Marine’s mother slams President Joe Biden on social media"
     excerpt: "The mother of a Norco Marine killed in Afghanistan has blasted President Joe Biden on social media, saying the president rolled his eyes when meeting with families of slain service members and that her son’s blood is on his hands."
     publishedDateTime: 2021-09-01T19:39:00Z
@@ -250,22 +266,6 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/Y7EOGRWRRBAOZG5W5KDJVOT2YA.jpeg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "President Joe Biden's granddaughter, Naomi, engaged to longtime boyfriend"
-    excerpt: "President Joe Biden's granddaughter, Naomi Biden, announced Sunday that she is engaged to Peter Neal, her longtime boyfriend."
-    publishedDateTime: 2021-09-06T19:08:00Z
-    webUrl: "https://www.upi.com/Entertainment_News/2021/09/06/biden-granddaughter-engaged/5591630953256/"
-    ampWebUrl: "https://www.upi.com/amp/Entertainment_News/2021/09/06/biden-granddaughter-engaged/5591630953256/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/2021/09/06/biden-granddaughter-engaged/5591630953256/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 74
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/5591630953256/2021/1/4118230cf7d77ef3082739a7f7498c45/v1.5/President-Joe-Bidens-granddaughter-Naomi-engaged-to-longtime-boyfriend.jpg"
-        width: 800
-        height: 533
         isCached: true
   - title: "Was Biden looking at his watch during ceremony for Marines killed in Kabul?"
     excerpt: "It appeared President Biden glanced at his watch during a solemn ceremony for U.S. Marines killed in the Kabul terror attack."
@@ -472,6 +472,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "0B5WlA+rlWkiWx46jVNtzj9N8oc0SH22tZNXynYNhtR1Szhbz9nhKK9z1Ppzk8lWHj4dyDriNa+DAiVk8zZGhKwPVfX/6HldefvL8JeMH+nReKkr+SSSD6+a0vvFOe3QtobDR2Hfu/XZVksR+jx2eoPSskWijZJ5u/ShZwXEBcjtV8djnFlT+M7Y5zGnfLp06MdW2ql23oBUIypgxZoZl/PSFflQq+GQHCDNYDVMTWH9/SWK/buUOxRSVBzHTbWKN7aGjld/LVdLHmh2zMhCwyRaHi0GPH07kdjlJGsb73cB0DY+zQkv2LjhFbX4z1j2YednaV/A1uTJK1nVYFdBZA7dg+xJ3nSL0FMLMEguRh5LeYNs/YVUequfo8P+XHxnqHYa1xB/dWBMZ+b3hNadGZ6W9eCBpG4gSTr3YMtH1Dp3VCza3LIOFmIhcMqfKkSCT7+taNmEhr0eS9mhTvD05wu7mH+3kfXqGoKY4WTfLGS3eRLg8CTI94Ejex9dJJx84P80HDUbKUy079NPROQP8Q==;D9A6O6OM/8xkNS3nk0niUw=="
+secured: "NxGXSN0MVUZgNCgRz2rJSa4FtmJz+0yg+7SMWbCMS+wuZlxaP6jVHcstco2TOW/qm3R1PRxihq9WGln32LjyUKmsjY8SaFBQITbywKQqeKGjiFsnW4gupFnlpP58RwdtKMldbWFZY1X0+VcBFRk85rOOALZWHHzVcBReQ0+LmK8VV44VshS76c2G1/+2In7d34PnZMe0vbpWtt+XaStiWgBDm/QAMYGerKZK9HCGKBNaTH3+V6DMc2K1wju1UUE+riylLT2vvrXNytK2fyQI8M3mOAcTho67e4i/hr71xUmCnF/iGmIWrrTlZM5NejW4eMZEk9w+ohNMgeokp8jg1Lntabi8Zr7Z6aeqgtKoxg4=;WMQ/vuT+xMYJsTJQsy11Bg=="
 ---
 

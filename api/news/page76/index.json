@@ -2,62 +2,6 @@
   "page": 76,
   "value": [
     {
-      "path": "_news/2021-04-03-biden-reverses-trump-lifts-sanctions-on-international-criminal-court.md",
-      "title": "Biden reverses Trump, lifts sanctions on International Criminal Court",
-      "excerpt": "President Biden on Friday reversed Trump-era foreign policies by lifting sanctions and removing visa restrictions on officials of the International Criminal Court (ICC).",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vXGPm2re3qU/biden-reverses-trump-era-policies-lifts-sanctions-on-international-criminal-court",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vXGPm2re3qU/biden-reverses-trump-era-policies-lifts-sanctions-on-international-criminal-court",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 1690,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/91d04a2f-0fcc-4e80-a4db-39df11088247/3c84e3f6-2c0a-488c-93d2-6bbf39b4ec59/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-reverses-trump-era-policies-lifts-sanctions-on-international-criminal-court.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reverses-trump-era-policies-lifts-sanctions-on-international-criminal-court.amp",
-      "publishedDateTime": "2021-04-02T17:21:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-02-hunter-biden-says-in-memoir-he-wouldnt-take-burisma-job-again-but-insists-it-wasnt-unethical.md",
       "title": "Hunter Biden says in memoir he wouldn’t take Burisma job again but insists it wasn’t ‘unethical’",
       "excerpt": "Hunter Biden wrote in his new tell-all memoir “Beautiful Things” that he does not regret taking a seat on the board of Burisma Holdings, but he would not do it again. ",
@@ -1356,6 +1300,62 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-gop-rep-kinzinger-hauls-in-big-bucks-after-facing-trumps-wrath.md",
+      "title": "GOP Rep. Kinzinger hauls in big bucks after facing Trump's wrath",
+      "excerpt": "Rep. Adam Kinzinger, one of the 10 House Republicans who voted in January to impeach President Trump, said he has brought in $2.2 million in fundraising during the first three months of this year.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tvxaqG07-58/adam-kinzinger-fundraiser-trump-wrath",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tvxaqG07-58/adam-kinzinger-fundraiser-trump-wrath",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/adam-kinzinger-fundraiser-trump-wrath.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/adam-kinzinger-fundraiser-trump-wrath.amp",
+      "publishedDateTime": "2021-04-01T08:13:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

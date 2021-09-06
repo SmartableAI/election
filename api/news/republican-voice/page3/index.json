@@ -2,62 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-08-20-republicans-torch-white-house-for-claiming-biden-never-shies-away-from-questions.md",
-      "title": "Republicans torch White House for claiming Biden never 'shies away' from questions",
-      "excerpt": "GOP lawmakers are smashing Biden over White House communications director Kate Bedingfield’s Friday claim that the president does not turn away from questions.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rs35_dacLko/republicans-torch-white-house-claim-biden-never-shies-away-questions",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rs35_dacLko/republicans-torch-white-house-claim-biden-never-shies-away-questions",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/25684f3a-65f3-4e86-999a-f1deb767a447/82c540db-f631-4b89-9efc-17f0257f7e3f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/republicans-torch-white-house-claim-biden-never-shies-away-questions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-torch-white-house-claim-biden-never-shies-away-questions.amp",
-      "publishedDateTime": "2021-08-20T09:02:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-08-19-federal-judge-blocks-biden-admins-ice-rules-that-narrowed-illegal-immigrant-arrest-priorities.md",
       "title": "Federal judge blocks Biden admin's ICE rules that narrowed illegal immigrant arrest priorities",
       "excerpt": "A federal judge on Thursday imposed a preliminary injunction on the Biden administration’s rules for ICE officers that narrowed the categories of illegal immigrants targeted for arrest and deportation.",
@@ -1624,6 +1568,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-accountants-must-turn-over-some-tax-records-to-house-panel-federal-judge-rules.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-accountants-must-turn-over-some-tax-records-to-house-panel-federal-judge-rules.amp",
       "publishedDateTime": "2021-08-11T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-manchin-has-serious-concerns-about-dems-35t-spending-plan-signaling-trouble-for-biden-agenda.md",
+      "title": "Manchin has 'serious concerns' about Dems' $3.5T spending plan, signaling trouble for Biden agenda",
+      "excerpt": "Sen. Joe Manchin on Wednesday morning said he has \"serious concerns\" about his party's massive $3.5 trillion spending plan, signaling that he may intend to block much of the package supported by President Biden over inflation and debt concerns.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dPyLn-RVA5E/manchin-budget-reconciliation-democrats-spending-plan-serious-concerns",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dPyLn-RVA5E/manchin-budget-reconciliation-democrats-spending-plan-serious-concerns",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/manchin-budget-reconciliation-democrats-spending-plan-serious-concerns.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manchin-budget-reconciliation-democrats-spending-plan-serious-concerns.amp",
+      "publishedDateTime": "2021-08-11T05:51:29-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

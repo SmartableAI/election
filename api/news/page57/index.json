@@ -2,62 +2,6 @@
   "page": 57,
   "value": [
     {
-      "path": "_news/2021-05-10-biden-approval-rating-thumbs-up-overall-but-thumbs-down-on-immigration-poll.md",
-      "title": "Biden approval rating: Thumbs up overall, but thumbs down on immigration: poll",
-      "excerpt": "A new national poll indicates that most Americans approve of the overall job President Biden is doing in the White House. But, according to AP-NORC survey released Monday, the president’s numbers are mixed on gun violence and underwater on immigration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H0vu5eKHRt8/biden-approval-rating-immigration-poll",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H0vu5eKHRt8/biden-approval-rating-immigration-poll",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 231,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-approval-rating-immigration-poll.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approval-rating-immigration-poll.amp",
-      "publishedDateTime": "2021-05-10T12:15:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-05-10-hogan-criticizes-gop-as-a-circular-firing-squad-that-had-worst-four-years-under-trump.md",
       "title": "Hogan criticizes GOP as a 'circular firing squad' that had 'worst four years' under Trump",
       "excerpt": "Republican Maryland Gov. Larry Hogan on Sunday lambasted the GOP as a \"circular firing squad\" attacking each other and said the party experienced \"the worst four years\" under former President Donald Trump.\n    \n",
@@ -1358,6 +1302,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-07-republicans-look-to-oust-liz-cheney-as-trump-allies-push-election-lie-live.md",
+      "title": "Republicans look to oust Liz Cheney as Trump allies push election lie – live",
+      "excerpt": "Congresswoman all but certain to lose conference chair role because of criticism of Donald Trump – follow all the day’s politics news",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 937,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/13bce181f26a92e2b9fa3dc8dd26a9780f2ce6aa/0_81_5000_3000/master/5000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0c4665f52765643b5228bf31bb73b8d3",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live",
+      "publishedDateTime": "2021-05-07T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

@@ -2,63 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2021-04-17-oath-keeper-becomes-first-to-plead-guilty-in-pro-trump-capitol-riot.md",
-      "title": "Oath Keeper Becomes First to Plead Guilty in Pro-Trump Capitol Riot",
-      "excerpt": "Jon Schaffer of Indiana admits to carrying bear spray and obstructing official proceedings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/oath-keeper-becomes-first-to-plead-guilty-in-capitol-riot-11618596401",
-      "originalUrl": "https://www.wsj.com/articles/oath-keeper-becomes-first-to-plead-guilty-in-capitol-riot-11618596401",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-326217/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/oath-keeper-becomes-first-to-plead-guilty-in-capitol-riot-11618596401",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/oath-keeper-becomes-first-to-plead-guilty-in-capitol-riot-11618596401",
-      "publishedDateTime": "2021-04-16T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-16-senate-dems-call-on-biden-to-close-guantanamo-to-advance-universal-rights.md",
       "title": "Senate Dems call on Biden to close Guantanamo to advance 'universal rights'",
       "excerpt": "Sen. Majority Whip Dick Durbin, D-Ill., and Sen. Patrick Leahy, D-Vt., wrote a letter along with 22 other Democrats to President Biden asking him to shut down the military prison in Guantanamo Bay. ",
@@ -1655,6 +1598,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-urges-calm-daunte-wright-shooting-says-no-justification-for-looting-violence.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-urges-calm-daunte-wright-shooting-says-no-justification-for-looting-violence.amp",
       "publishedDateTime": "2021-04-12T13:31:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-chris-christie-biden-lying-about-spending-package-going-toward-infrastructure.md",
+      "title": "Chris Christie: Biden 'lying' about spending package going toward 'infrastructure'",
+      "excerpt": "Chris Christie on Sunday accused President Biden of \"lying\" about his nearly $2 trillion infrastructure package — saying he’s calling a \"dog a cat\" because it goes far beyond rebuilding roads and bridges to include Democratic priorities like healthcare.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5hHd_PHUK-E/chris-christie-biden-lying-about-spending-package-going-toward-infrastructure",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5hHd_PHUK-E/chris-christie-biden-lying-about-spending-package-going-toward-infrastructure",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/458e1351-a334-436c-a243-c5de219cc253/ba8d7be5-8ec3-40ae-85ca-a697844886d5/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/chris-christie-biden-lying-about-spending-package-going-toward-infrastructure.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-christie-biden-lying-about-spending-package-going-toward-infrastructure.amp",
+      "publishedDateTime": "2021-04-12T08:44:56-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -2,58 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-08-26-meet-the-9-local-georgia-investigators-who-have-donald-trump-in-their-sights.md",
-      "title": "Meet the 9 local Georgia investigators who have Donald Trump in their sights",
-      "excerpt": "An inside look at the top Georgia investigators that are leading an effort that — at the extreme — could land Trump in prison.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/fani-willis-georgia-investigation-election-trump-phone-call-2021-8",
-      "originalUrl": "https://www.businessinsider.com/fani-willis-georgia-investigation-election-trump-phone-call-2021-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6126d12512b9cc001962e5c2?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-26T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-08-26-trump-slams-biden-over-catastrophic-border-disaster.md",
       "title": "Trump slams Biden over ‘catastrophic border disaster’",
       "excerpt": "President Biden is being ripped by his predecessor for creating a “catastrophic border disaster” as the Supreme Court says his administration may have violated federal law by dropping",
@@ -1310,6 +1258,63 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-hostile-trump-mob-sends-gop-rep-brooks-into-panicked-backpedal-on-moving-on-from-2020.md",
+      "title": "Hostile Trump mob sends GOP Rep. Brooks into panicked backpedal on moving on from 2020",
+      "excerpt": "Rachel Maddow shares video of Republican Congressman Mo Brooks being roundly booed by the audience at a Donald Trump rally in Alabama after Brooks suggested they move on from Trump's 2020 loss and focus on future elections.",
+      "sourceUrl": null,
+      "webUrl": "https://www.msnbc.com/rachel-maddow/watch/hostile-trump-mob-sends-gop-rep-brooks-into-panicked-backpedal-on-moving-on-from-2020-119318597524",
+      "originalUrl": "https://www.msnbc.com/rachel-maddow/watch/hostile-trump-mob-sends-gop-rep-brooks-into-panicked-backpedal-on-moving-on-from-2020-119318597524",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_08/1629780121191_n_maddow_brooks_210823_1920x1080-6wbvgr.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.msnbc.com/msnbc/amp-video/mmvo119318597524",
+      "cdnAmpWebUrl": "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo119318597524",
+      "publishedDateTime": "2021-08-23T21:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSNBC",
+        "domain": "msnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/msnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     }
   ],

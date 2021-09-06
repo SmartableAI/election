@@ -2,62 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2021-07-20-save-our-paychecks-tour-to-target-white-house-economic-policies-bidenflation.md",
-      "title": "'Save Our Paychecks' tour to target White House economic policies, 'Bidenflation'",
-      "excerpt": "Conservative group Heritage Action is partnering with the Coalition to Protect American Workers to launch a nationwide tour targeting what they describe as the “disastrous” effect that the Biden administration’s policies have had on American workers and businesses.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DXegnDT1srQ/paychecks-tour-biden-inflation",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DXegnDT1srQ/paychecks-tour-biden-inflation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/41072930-5cf3-4e2d-84b0-b6baddaaf93d/535d40b6-dfc5-4e52-bf91-1b4494e3a5bb/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/paychecks-tour-biden-inflation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/paychecks-tour-biden-inflation.amp",
-      "publishedDateTime": "2021-07-20T02:52:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-07-20-biden-will-certainly-welcome-help-from-trump-to-get-more-americans-vaccinated.md",
       "title": "Biden Will 'Certainly Welcome' Help From Trump To Get More Americans Vaccinated",
       "excerpt": "White House press secretary Jen Psaki has said that President Joe Biden will “certainly welcome” help from his predecessor Donald Trump to combat vaccine hesitancy amid a surge of COVID-19 cases. During a press briefing Monday,",
@@ -1280,6 +1224,63 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-pence-says-hes-had-enough-of-biden-as-he-looks-to-escape-trumps-shadow-in-iowa.md",
+      "title": "Pence says he's 'had enough' of Biden as he looks to escape Trump's shadow in Iowa",
+      "excerpt": "Former Vice President Mike Pence crisscrossed Iowa on Friday, assailing President Joe Biden's administration for unleashing \"a tidal wave of left-wing policies that threaten to wipe out all the progress that we made\" in speeches that could preview his potential 2024 message.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sOtQEwxHoaA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sOtQEwxHoaA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 569,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210716185507-mike-pence-0716-iowa-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/16/politics/pence-noem-pompeo-iowa/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/pence-noem-pompeo-iowa/index.html",
+      "publishedDateTime": "2021-07-16T17:19:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
       ]
     }
   ],

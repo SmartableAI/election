@@ -2,63 +2,6 @@
   "page": 31,
   "value": [
     {
-      "path": "_news/2021-07-01-kamala-harris-silent-on-scotus-ruling-on-lawsuit-that-started-while-she-was-state-ag.md",
-      "title": "Kamala Harris silent on SCOTUS ruling on lawsuit that started while she was state AG",
-      "excerpt": "SCOTUS ruled 6-3 against the rule started under Harris",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OAQ2G5LFufU/kamala-harris-scotus-ruling-donor-rule",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OAQ2G5LFufU/kamala-harris-scotus-ruling-donor-rule",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 238,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/72d03751-eeaa-4f93-88a8-2f91e2a84421/1c01f40a-7be0-4fa3-a103-f41cd5e73663/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-scotus-ruling-donor-rule.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-scotus-ruling-donor-rule.amp",
-      "publishedDateTime": "2021-07-01T13:56:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-07-02-waiting-is-unbearable-biden-consoles-surfside-families.md",
       "title": "'Waiting is unbearable': Biden consoles Surfside families",
       "excerpt": "President Joe Biden has drawn on his own experiences with grief and loss to comfort families affected by the Florida condo collapse",
@@ -1366,6 +1309,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-pence-was-more-worried-about-covid-19-privately-than-in-his-public-appearances-and-was-rattled-by-his-press-secretary-contracting-the-virus.md",
+      "title": "Pence was more worried about COVID-19 privately than in his public appearances and was 'rattled' by his press secretary contracting the virus: book",
+      "excerpt": "According to the book \"Nightmare Scenario,\" a close advisor's infection gave Pence \"a firsthand glimpse at how quickly the disease could spread.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/mike-pence-more-worried-coronavirus-private-task-force-book-2021-6",
+      "originalUrl": "https://www.businessinsider.com/mike-pence-more-worried-coronavirus-private-task-force-book-2021-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f76e9290ab50d00184adba4?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/mike-pence-more-worried-coronavirus-private-task-force-book-2021-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mike-pence-more-worried-coronavirus-private-task-force-book-2021-6?amp",
+      "publishedDateTime": "2021-06-30T08:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
       ]
     }
   ],

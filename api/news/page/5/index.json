@@ -2,58 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-08-28-trump-insists-he-would-have-stopped-the-isis-k-bombing-at-kabul-airport-but-kept-calling-the-terror-group-isis-x.md",
-      "title": "Trump insists he would have stopped the ISIS-K bombing at Kabul airport but kept calling the terror group 'ISIS-X'",
-      "excerpt": "Speaking to Sean Hannity on Fox News, Trump said that the attack wouldn't \"would not have happened if I were your president.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/watch-trump-says-he-would-have-stopped-isis-k-but-calls-them-isis-x-2021-8",
-      "originalUrl": "https://www.businessinsider.com/watch-trump-says-he-would-have-stopped-isis-k-but-calls-them-isis-x-2021-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6129fe7212b9cc0019633e61?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/watch-trump-says-he-would-have-stopped-isis-k-but-calls-them-isis-x-2021-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/watch-trump-says-he-would-have-stopped-isis-k-but-calls-them-isis-x-2021-8?amp",
-      "publishedDateTime": "2021-08-28T04:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-08-28-joe-biden-says-china-still-withholding-critical-info-on-covid-19-origins.md",
       "title": "Joe Biden says China still withholding 'critical' info on Covid-19 origins",
       "excerpt": "PRESIDENT JOE BIDEN said that China was withholding “critical information” on the origins of Covid-19 after the US intelligence community said it did not believe the virus was a bioweapon – but remained split on whether it escaped from a lab.",
@@ -1220,6 +1168,58 @@
         "name": "Bozeman Daily Chronicle",
         "domain": "bozemandailychronicle.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-26-meet-the-9-local-georgia-investigators-who-have-donald-trump-in-their-sights.md",
+      "title": "Meet the 9 local Georgia investigators who have Donald Trump in their sights",
+      "excerpt": "An inside look at the top Georgia investigators that are leading an effort that — at the extreme — could land Trump in prison.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/fani-willis-georgia-investigation-election-trump-phone-call-2021-8",
+      "originalUrl": "https://www.businessinsider.com/fani-willis-georgia-investigation-election-trump-phone-call-2021-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6126d12512b9cc001962e5c2?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-26T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

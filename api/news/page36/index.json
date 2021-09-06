@@ -2,63 +2,6 @@
   "page": 36,
   "value": [
     {
-      "path": "_news/2021-06-23-trump-rule-tightening-eb-5-visa-program-struck-down-by-federal-judge.md",
-      "title": "Trump Rule Tightening EB-5 Visa Program Struck Down by Federal Judge",
-      "excerpt": "The Biden administration had endorsed the rule which raised the investment threshold in the immigrant investor program but a judge said the rules were improperly issued.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/federal-judge-strikes-downtrump-rule-tightening-eb-5-visa-program-11624466099",
-      "originalUrl": "https://www.wsj.com/articles/federal-judge-strikes-downtrump-rule-tightening-eb-5-visa-program-11624466099",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-358603/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/federal-judge-strikes-downtrump-rule-tightening-eb-5-visa-program-11624466099",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/federal-judge-strikes-downtrump-rule-tightening-eb-5-visa-program-11624466099",
-      "publishedDateTime": "2021-06-23T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-23-biden-aims-for-high-stakes-meeting-with-xi-jinping-with-putin-summit-in-the-rearview.md",
       "title": "Biden aims for high-stakes meeting with Xi Jinping with Putin summit in the rearview",
       "excerpt": "President Joe Biden's closely watched summit last week with his Russian counterpart affirmed his belief that nothing can replicate a face-to-face with a tough adversary. Now, he and his aides are looking ahead to a higher-stakes encounter: a meeting with China's Xi Jinping.\n    \n",
@@ -1327,6 +1270,62 @@
       "topics": [
         "Election",
         "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-21-republicans-slam-bidens-vague-threats-to-china-over-covid-stonewall.md",
+      "title": "Republicans slam Biden's 'vague threats' to China over COVID stonewall",
+      "excerpt": "House Republicans are not satisfied with the Biden administration’s stance against the Chinese government when it comes to making sure there is a thorough investigation of the coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/V-kTPRgJtR4/republicans-biden-china-isolation-covid-origin",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/V-kTPRgJtR4/republicans-biden-china-isolation-covid-origin",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/republicans-biden-china-isolation-covid-origin.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-china-isolation-covid-origin.amp",
+      "publishedDateTime": "2021-06-21T09:04:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Republican Voice"
       ]
     }

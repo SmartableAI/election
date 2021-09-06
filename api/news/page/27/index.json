@@ -2,63 +2,6 @@
   "page": 27,
   "value": [
     {
-      "path": "_news/2021-07-08-hannity-biden-called-georgia-voter-law-jim-crow-but-heres-the-truth-about-his-home-state.md",
-      "title": "Hannity: Biden called Georgia voter law 'Jim Crow' but here's the truth about his home state",
-      "excerpt": "Sean Hannity, host of \"Hannity,\" slammed President Joe Biden and the left for now supporting a push for voter ID laws. Hannity pointed out Wednesday that if Democrats want to be taken seriously, then Democrat-run states such as Delaware,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/hannity-biden-delaware-democrats-voter-restrictions",
-      "originalUrl": "https://www.foxnews.com/media/hannity-biden-delaware-democrats-voter-restrictions",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/hannity-biden-delaware-democrats-voter-restrictions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-biden-delaware-democrats-voter-restrictions.amp",
-      "publishedDateTime": "2021-07-08T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-07-08-lara-trump-crt-teaches-us-to-judge-people-on-the-color-of-their-skin.md",
       "title": "Lara Trump: CRT teaches us to 'judge people on the color of their skin'",
       "excerpt": "Fox News contributor Lara Trump joined “Fox & Friends” Thursday, suggesting that critical race theory is teaching children to “judge people on the color of their skin” and stating it’s “dead wrong.”",
@@ -1323,6 +1266,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-biden-says-democracy-did-prevail-on-six-month-anniversary-of-capitol-riots.md",
+      "title": "Biden Says 'Democracy Did Prevail' On Six-Month Anniversary of Capitol Riots",
+      "excerpt": "Democratic President Joe Biden issued a statement on the six-month anniversary of the January 6 Capitol riots. In the statement he said that \"democracy did prevail.\" \"While it shocked and saddened the nation and the world,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/biden-says-democracy-did-prevail-six-month-anniversary-capitol-riots-1607364",
+      "originalUrl": "https://www.newsweek.com/biden-says-democracy-did-prevail-six-month-anniversary-capitol-riots-1607364",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1838952/joe-biden-capitol-riots-statement-democracy-prevailed.jpg",
+          "width": 3337,
+          "height": 2500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/biden-says-democracy-did-prevail-six-month-anniversary-capitol-riots-1607364?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-says-democracy-did-prevail-six-month-anniversary-capitol-riots-1607364?amp=1",
+      "publishedDateTime": "2021-07-06T16:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     }
   ],

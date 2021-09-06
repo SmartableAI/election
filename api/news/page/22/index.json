@@ -2,63 +2,6 @@
   "page": 22,
   "value": [
     {
-      "path": "_news/2021-07-17-pence-says-hes-had-enough-of-biden-as-he-looks-to-escape-trumps-shadow-in-iowa.md",
-      "title": "Pence says he's 'had enough' of Biden as he looks to escape Trump's shadow in Iowa",
-      "excerpt": "Former Vice President Mike Pence crisscrossed Iowa on Friday, assailing President Joe Biden's administration for unleashing \"a tidal wave of left-wing policies that threaten to wipe out all the progress that we made\" in speeches that could preview his potential 2024 message.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sOtQEwxHoaA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sOtQEwxHoaA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 569,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210716185507-mike-pence-0716-iowa-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/16/politics/pence-noem-pompeo-iowa/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/pence-noem-pompeo-iowa/index.html",
-      "publishedDateTime": "2021-07-16T17:19:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2021-07-16-pence-in-iowa-charges-biden-trying-to-turn-america-into-a-secular-welfare-state.md",
       "title": "Pence, in Iowa, charges Biden trying to turn America into a ‘secular welfare state’",
       "excerpt": "Former Vice President Mike Pence, making his first visit to Iowa since the end of the Trump administration, took aim at President Biden and spotlighted his social conservative credentials as he addressed a major gathering of Christian conservatives in the state whose caucuses for half a century have",
@@ -1341,6 +1284,58 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-trump-says-hes-not-into-coups-after-book-claims-general-feared-dangerous-takeover.md",
+      "title": "Trump Says He's 'Not Into Coups' After Book Claims General Feared Dangerous Takeover",
+      "excerpt": "Even if he were interested in a coup, Trump said General Mark Milley is the \"last person\" he'd want to participate in one with.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-says-hes-not-coups-after-book-claims-general-feared-dangerous-takeover-1610158",
+      "originalUrl": "https://www.newsweek.com/trump-says-hes-not-coups-after-book-claims-general-feared-dangerous-takeover-1610158",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1846983/donald-trump-coup-mark-milley.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-says-hes-not-coups-after-book-claims-general-feared-dangerous-takeover-1610158?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-hes-not-coups-after-book-claims-general-feared-dangerous-takeover-1610158?amp=1",
+      "publishedDateTime": "2021-07-15T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

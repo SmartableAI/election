@@ -2,62 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-08-11-manchin-has-serious-concerns-about-dems-35t-spending-plan-signaling-trouble-for-biden-agenda.md",
-      "title": "Manchin has 'serious concerns' about Dems' $3.5T spending plan, signaling trouble for Biden agenda",
-      "excerpt": "Sen. Joe Manchin on Wednesday morning said he has \"serious concerns\" about his party's massive $3.5 trillion spending plan, signaling that he may intend to block much of the package supported by President Biden over inflation and debt concerns.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dPyLn-RVA5E/manchin-budget-reconciliation-democrats-spending-plan-serious-concerns",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dPyLn-RVA5E/manchin-budget-reconciliation-democrats-spending-plan-serious-concerns",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/manchin-budget-reconciliation-democrats-spending-plan-serious-concerns.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manchin-budget-reconciliation-democrats-spending-plan-serious-concerns.amp",
-      "publishedDateTime": "2021-08-11T05:51:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-08-11-biden-nominates-mueller-deputy-elizabeth-prelogar-for-us-solicitor-general.md",
       "title": "Biden nominates Mueller deputy Elizabeth Prelogar for US solicitor general",
       "excerpt": "President Biden nominated Elizabeth Prelogar to be the next U.S. solicitor general at the Department of Justice, the White House announced Wednesday morning.",
@@ -1651,6 +1595,62 @@
       "topics": [
         "Election",
         "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-biden-marks-el-paso-mass-shooting-by-reiterating-gun-control-push-denouncing-hate-fueled-violence.md",
+      "title": "Biden marks El Paso mass shooting by reiterating gun control push, denouncing 'hate-fueled violence'",
+      "excerpt": "President Biden on Tuesday, in marking two years since the El Paso shooting which took the lives of 23 individuals, called for Americans to “stand united against hate and violence,” outlining his administration’s efforts to combat domestic terrorism and end “the plague of gun violence” in the country.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kUyUvdS5jBA/biden-marks-el-paso-mass-shooting-gun-control-push-hate-fueled-violence",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kUyUvdS5jBA/biden-marks-el-paso-mass-shooting-gun-control-push-hate-fueled-violence",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-marks-el-paso-mass-shooting-gun-control-push-hate-fueled-violence.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-marks-el-paso-mass-shooting-gun-control-push-hate-fueled-violence.amp",
+      "publishedDateTime": "2021-08-03T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Republican Voice"
       ]
     }

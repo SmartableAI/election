@@ -2,58 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2021-08-02-trumps-similarities-to-cult-leader-jim-jones-explained-by-rep-speier.md",
-      "title": "Trump's Similarities To Cult Leader Jim Jones Explained By Rep. Speier",
-      "excerpt": "Both Trump and notorious cult leader Jim Jones used their charisma to connect with disillusioned Americans, says Speier The Jonestown Massacre occurred on Nov. 18, 1978 Speier was shot five times and left for dead that year She said Trump still influences members of the US Congress Rep.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/trumps-similarities-cult-leader-jim-jones-explained-rep-speier-3264236",
-      "originalUrl": "https://www.ibtimes.com/trumps-similarities-cult-leader-jim-jones-explained-rep-speier-3264236",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/04/former-us-president-donald-trump-blasted-his-two.jpg",
-          "width": 1024,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/trumps-similarities-cult-leader-jim-jones-explained-rep-speier-3264236?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trumps-similarities-cult-leader-jim-jones-explained-rep-speier-3264236?amp=1",
-      "publishedDateTime": "2021-08-01T20:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-08-02-will-trump-be-spoiler-as-california-gop-seeks-newsom-recall.md",
       "title": "Will Trump be spoiler as California GOP seeks Newsom recall?",
       "excerpt": "California Republicans see a chance of ousting embattled Democratic Gov. Gavin Newsom in a September recall election",
@@ -1319,6 +1267,62 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-30-hunter-biden-snaps-at-critics-of-art-dealings-f-em.md",
+      "title": "Hunter Biden snaps at critics of art dealings: 'F--- em'",
+      "excerpt": "Biden appeared on art podcast Nota Bene Thursday, where the president’s son was asked about his art dealings where the buyers are anonymous and the First Son is slated to attend his art shows where they may be.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3odzdcsxpCQ/hunter-biden-snaps-art-deal-critics",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3odzdcsxpCQ/hunter-biden-snaps-art-deal-critics",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a5caf11-1d33-4ad9-8839-db1bd23329a8/06238ea1-d906-4d1f-8726-d9a8c455a054/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-snaps-art-deal-critics.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-snaps-art-deal-critics.amp",
+      "publishedDateTime": "2021-07-30T08:45:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

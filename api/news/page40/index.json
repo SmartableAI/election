@@ -2,62 +2,6 @@
   "page": 40,
   "value": [
     {
-      "path": "_news/2021-06-14-biden-gives-awkward-fist-bump-to-turkeys-erdogan-at-nato-summit.md",
-      "title": "Biden gives awkward fist-bump to Turkey’s Erdogan at NATO summit",
-      "excerpt": "President Biden on Monday offered an awkward fist-bump to Turkish President Recep Tayyip Erdogan in Belgium at the annual NATO summit Monday — as the Islamist strongman prepared to blast the U.S. leader for his recent recognition of the Armenian genocide.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QqVib7QZRDA/biden-gives-awkward-fist-bump-to-turkeys-erdogan-at-nato-summit",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QqVib7QZRDA/biden-gives-awkward-fist-bump-to-turkeys-erdogan-at-nato-summit",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bd6a145e-66e9-499f-af6f-6e679e86637f/ce50cd7b-ad82-41a8-827b-0a4d21342769/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-gives-awkward-fist-bump-to-turkeys-erdogan-at-nato-summit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gives-awkward-fist-bump-to-turkeys-erdogan-at-nato-summit.amp",
-      "publishedDateTime": "2021-06-14T16:38:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-14-biden-says-nato-must-protect-against-phony-populism.md",
       "title": "Biden says NATO must protect against 'phony populism'",
       "excerpt": "President Joe Biden on Monday called on foreign leaders to protect against those who prey on division and push \"phony populism,\" asserting that it's up to democratic nations to prove to the world that democracy can prevail and autocracies cannot \"deliver for the needs of our people.\"\n    \n",
@@ -1331,6 +1275,49 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-12-mike-pence-has-sold-out-pennlive-letters.md",
+      "title": "Mike Pence has sold out | PennLive letters",
+      "excerpt": "Pence is willing to forgive and forget despite Trump’s stunning disloyalty because he has designs on being elected president in 2024 or 2028.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pennlive.com/opinion/2021/06/mike-pence-has-sold-out-pennlive-letters.html",
+      "originalUrl": "https://www.pennlive.com/opinion/2021/06/mike-pence-has-sold-out-pennlive-letters.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SSHVGALTSVC4BHXHMXUPFZ37RM.jpg",
+          "width": 2751,
+          "height": 1786,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pennlive.com/opinion/2021/06/mike-pence-has-sold-out-pennlive-letters.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/opinion/2021/06/mike-pence-has-sold-out-pennlive-letters.html?outputType=amp",
+      "publishedDateTime": "2021-06-12T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Penn Live",
+        "domain": "pennlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
       ]
     }
   ],

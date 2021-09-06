@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Churchill: From Joe Biden, a promise broken"
-excerpt: "In July, Joe Biden delivered a speech about the military withdrawal from Afghanistan. It's worth revisiting. The president said many words that day that haven't stood the test of time, including a prediction that \"the likelihood there’s going to be the Taliban overrunning everything and owning the whole country is highly unlikely."
-publishedDateTime: 2021-09-02T10:00:00Z
-originalUrl: "https://www.timesunion.com/churchill/article/Churchill-From-Joe-Biden-a-promise-broken-16428751.php"
-webUrl: "https://www.timesunion.com/churchill/article/Churchill-From-Joe-Biden-a-promise-broken-16428751.php"
-ampWebUrl: "https://www.timesunion.com/churchill/amp/Churchill-From-Joe-Biden-a-promise-broken-16428751.php"
-cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/churchill/amp/Churchill-From-Joe-Biden-a-promise-broken-16428751.php"
+title: "Biden Marks Labor Day Delivering Sandwiches to Union Members"
+excerpt: "President Joe Biden has marked Labor Day by delivering deli sandwiches to union members in his home state of Delaware."
+publishedDateTime: 2021-09-06T19:17:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2021-09-06/biden-marks-labor-day-delivering-sandwiches-to-union-members"
+webUrl: "https://www.usnews.com/news/politics/articles/2021-09-06/biden-marks-labor-day-delivering-sandwiches-to-union-members"
 type: article
-quality: 75
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Times Union
-  domain: timesunion.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s.hdnux.com/photos/01/21/55/10/21418547/5/ratio3x2_400.jpg"
-    width: 400
-    height: 267
-    isCached: true
 
 related:
   - title: "Joe Biden and Europe are going different ways"
@@ -138,6 +134,22 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Churchill: From Joe Biden, a promise broken"
+    excerpt: "In July, Joe Biden delivered a speech about the military withdrawal from Afghanistan. It's worth revisiting. The president said many words that day that haven't stood the test of time, including a prediction that \"the likelihood there’s going to be the Taliban overrunning everything and owning the whole country is highly unlikely."
+    publishedDateTime: 2021-09-02T10:00:00Z
+    webUrl: "https://www.timesunion.com/churchill/article/Churchill-From-Joe-Biden-a-promise-broken-16428751.php"
+    ampWebUrl: "https://www.timesunion.com/churchill/amp/Churchill-From-Joe-Biden-a-promise-broken-16428751.php"
+    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/churchill/amp/Churchill-From-Joe-Biden-a-promise-broken-16428751.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/55/10/21418547/5/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
   - title: "Slain Norco Marine’s mother slams President Joe Biden on social media"
     excerpt: "The mother of a Norco Marine killed in Afghanistan has blasted President Joe Biden on social media, saying the president rolled his eyes when meeting with families of slain service members and that her son’s blood is on his hands."
@@ -462,16 +474,7 @@ related:
         width: 2048
         height: 1453
         isCached: true
-  - title: "Biden Marks Labor Day Delivering Sandwiches to Union Members"
-    excerpt: "President Joe Biden has marked Labor Day by delivering deli sandwiches to union members in his home state of Delaware."
-    publishedDateTime: 2021-09-06T19:17:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-09-06/biden-marks-labor-day-delivering-sandwiches-to-union-members"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
-secured: "0B5WlA+rlWkiWx46jVNtzj9N8oc0SH22tZNXynYNhtR1Szhbz9nhKK9z1Ppzk8lWHj4dyDriNa+DAiVk8zZGhKwPVfX/6HldefvL8JeMH+nReKkr+SSSD6+a0vvFOe3QtobDR2Hfu/XZVksR+jx2eoPSskWijZJ5u/ShZwXEBcjtV8djnFlT+M7Y5zGnfLp06MdW2ql23oBUIypgxZoZl/PSFflQq+GQHCDNYDVMTWH9/SWK/buUOxRSVBzHTbWKN7aGjld/LVdLHmh2zMhCwyRaHi0GPH07kdjlJGsb73cB0DY+zQkv2LjhFbX4z1j2YednaV/A1uTJK1nVYFdBZA7dg+xJ3nSL0FMLMEguRh5LeYNs/YVUequfo8P+XHxnqHYa1xB/dWBMZ+b3hNadGZ6W9eCBpG4gSTr3YMtH1Dp3VCza3LIOFmIhcMqfKkSCT7+taNmEhr0eS9mhTvD05wu7mH+3kfXqGoKY4WTfLGS3eRLg8CTI94Ejex9dJJx84P80HDUbKUy079NPROQP8Q==;D9A6O6OM/8xkNS3nk0niUw=="
+secured: "9X3+bV5HpS2efMS92nCjYUBHmpqXlwUPMvQ+8U1W1x3+JL79uag6uKswwvTpLZpYi6r7B5BA94jyNNQUHWJQ2WU6i2EBFh5RMkWAMma4dC+UQ/7/nxZ4AEP4rAWtzmA7g53euVHn5Cz6vPE4xqxczA6Sok6fKAcWYxRGdwo8tbbq4GoJkBn3rrW4fIrV6pqZqYJI9UVHa0I6RNCjx3+tFuJeEwRCg3u/J1KpSSGUKVhJNzaaFbmYcV9JQJeUWrF9g8kgYYTzQf/O1asutSVwBbr0WlP23qKU1S/s+BhQ+p8gwyW6b0TrQ1Q4G/WUgEZdF+qVbXgIfrtGAc+2tmvmEdgrFMHLliNHElnchO+rItHRrvMcvnB2VWVv0114VcYdOZUMxtAByhbVkmzGjAGO7EcQpvc66XI3T0D300jKmyUOPaNOj61JBULkmBr9yMLvyoA6WyeFNi/nWoiQwX4iP3bDou0n/2xMSSl8V5txQ9Iz6fGVsn/rw5iDk8Bf08Gdj2JC7d1aheRnZVvZNtTDEA==;3FA10pgg58s+R7VRiXj3GQ=="
 ---
 

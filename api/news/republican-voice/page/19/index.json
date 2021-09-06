@@ -2,62 +2,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_news/2021-05-02-biden-abandoned-the-rule-of-law-at-border-sending-texas-costs-soaring-gov-abbott-says.md",
-      "title": "Biden 'abandoned the rule of law' at border, sending Texas costs soaring, Gov. Abbott says",
-      "excerpt": "President Biden has abandoned the rule of law at the U.S.-Mexico border amid the migrant crisis, sending costs for border security soaring in Texas, Gov. Greg Abbott said Sunday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/frpdoh4lwwg/biden-border-crisis-texas-costs-greg-abbott",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/frpdoh4lwwg/biden-border-crisis-texas-costs-greg-abbott",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/713587da-5828-4066-8cb4-999e43da8e19/49429ba3-a486-43e2-8995-c2db8564fb63/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-border-crisis-texas-costs-greg-abbott.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-texas-costs-greg-abbott.amp",
-      "publishedDateTime": "2021-05-02T11:03:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-05-02-biden-is-a-moderate-no-more-judge-jeanine.md",
       "title": "Biden is a 'moderate no more': Judge Jeanine",
       "excerpt": "Guests: Byron Donalds, Richard Grenell, Steve Moore, Lara Trump, Ashley Strohmier, Joe Concha, Leo Terrell, Tomi Lahren",
@@ -1659,6 +1603,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-calls-erdogan-armenian-genocide.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-erdogan-armenian-genocide.amp",
       "publishedDateTime": "2021-04-23T17:08:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-california-gov-newsom-raising-money-by-tying-caitlyn-jenner-to-trump.md",
+      "title": "California Gov. Newsom raising money by tying Caitlyn Jenner to Trump",
+      "excerpt": "Gov. Gavin Newsom’s campaign team wasted no time coming after Caitlyn Jenner as she entered the recall race to take his seat. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5oimLrPheDI/newsom-raise-money-tying-caitlyn-jenner-to-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5oimLrPheDI/newsom-raise-money-tying-caitlyn-jenner-to-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Caitlyn-Jenner-CC.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/newsom-raise-money-tying-caitlyn-jenner-to-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/newsom-raise-money-tying-caitlyn-jenner-to-trump.amp",
+      "publishedDateTime": "2021-04-23T13:02:31-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

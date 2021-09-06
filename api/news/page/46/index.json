@@ -2,62 +2,6 @@
   "page": 46,
   "value": [
     {
-      "path": "_news/2021-06-03-biden-floats-bringing-down-infrastructure-price-tag-but-wants-gop-concessions.md",
-      "title": "Biden floats bringing down infrastructure price tag but wants GOP concessions",
-      "excerpt": "President Joe Biden met with Republican Sen. Shelley Moore Capito of West Virginia at the White House on Wednesday as part of ongoing discussions between his administration and the Senate GOP on infrastructure.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hj7E-NIlVfU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hj7E-NIlVfU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 332,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210531145551-01-biden-0527-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/02/politics/shelley-moore-capito-biden-meeting/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/02/politics/shelley-moore-capito-biden-meeting/index.html",
-      "publishedDateTime": "2021-06-03T05:52:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-03-biden-to-meet-with-queen-elizabeth-ii-at-windsor-castle-on-june-13.md",
       "title": "Biden to meet with Queen Elizabeth II at Windsor Castle on June 13",
       "excerpt": "President Biden and first lady Jill Biden are set to meet with Queen Elizabeth II at Windsor Castle during his trip to Europe next month for the G-7 summit, the palace said Thursday. ",
@@ -1342,6 +1286,62 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-01-fact-checking-sidney-powells-claim-trump-could-be-reinstated.md",
+      "title": "Fact-checking Sidney Powell's claim Trump could be reinstated",
+      "excerpt": "Months into President Joe Biden's first term, supporters of former President Donald Trump are still touting the \"big lie\" that Trump actually won the 2020 election. One of the prominent supporters of these theories is Trump's former lawyer Sidney Powell, who is facing a $1.3 billion defamation lawsuit",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/J5FpAVwaiHA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/J5FpAVwaiHA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 415,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201123162610-sidney-powell-1119-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/01/politics/powell-trump-inauguration-fact-check/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/powell-trump-inauguration-fact-check/index.html",
+      "publishedDateTime": "2021-06-01T13:49:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     }
   ],

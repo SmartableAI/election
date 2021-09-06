@@ -2,62 +2,6 @@
   "page": 77,
   "value": [
     {
-      "path": "_news/2021-04-01-gop-rep-kinzinger-hauls-in-big-bucks-after-facing-trumps-wrath.md",
-      "title": "GOP Rep. Kinzinger hauls in big bucks after facing Trump's wrath",
-      "excerpt": "Rep. Adam Kinzinger, one of the 10 House Republicans who voted in January to impeach President Trump, said he has brought in $2.2 million in fundraising during the first three months of this year.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tvxaqG07-58/adam-kinzinger-fundraiser-trump-wrath",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tvxaqG07-58/adam-kinzinger-fundraiser-trump-wrath",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/adam-kinzinger-fundraiser-trump-wrath.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/adam-kinzinger-fundraiser-trump-wrath.amp",
-      "publishedDateTime": "2021-04-01T08:13:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-01-biden-unveils-once-in-a-generation-2tn-infrastructure-investment-plan.md",
       "title": "Biden unveils 'once-in-a generation' $2tn infrastructure investment plan",
       "excerpt": "American Jobs Plan would rebuild roads, highways and bridges; confront the climate crisis and curb wealth inequality First published on Wed 31 Mar 2021 05.13 EDT Joe Biden on Wednesday unveiled what he called a “once-in-a-generation” investment in ...",
@@ -1353,6 +1297,58 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission.md",
+      "title": "Hunter Biden blasts Trump in new book: 'A vile man with a vile mission'",
+      "excerpt": "President Biden Joe Biden The Hill's Morning Report - Biden seeks expanded government, tax hikes Five things to watch on Biden infrastructure plan GOP seeks new line of attack on Biden economic ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/545713-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission",
+      "originalUrl": "https://thehill.com/homenews/administration/545713-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenhunter_101219getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/545713-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/545713-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission?amp",
+      "publishedDateTime": "2021-03-31T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     }
   ],

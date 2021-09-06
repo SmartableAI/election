@@ -2,54 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2021-08-22-stubborn-joe-biden-just-wouldnt-listen-goodwin.md",
-      "title": "Stubborn Joe Biden just wouldn’t listen: Goodwin",
-      "excerpt": "President Biden’s leftist ideology is costing American and Afghan lives in Kabul after ignoring crucial warnings from the US embassy — and now the terrorists are more powerful than",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/08/21/stubborn-joe-biden-just-wouldnt-listen-goodwin/",
-      "originalUrl": "https://nypost.com/2021/08/21/stubborn-joe-biden-just-wouldnt-listen-goodwin/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/BIdenAfghan.jpg?quality=90&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/08/21/stubborn-joe-biden-just-wouldnt-listen-goodwin/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/21/stubborn-joe-biden-just-wouldnt-listen-goodwin/amp/",
-      "publishedDateTime": "2021-08-21T19:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-08-22-more-than-half-of-kinzingers-gop-primary-challengers-believe-trump-won-the-2020-election.md",
       "title": "More than half of Kinzinger's GOP primary challengers believe Trump won the 2020 election",
       "excerpt": "Even though allegations of widespread fraud in the 2020 presidential election haven't been substantiated, four conservatives challenging Republican U.S. Rep. Adam Kinzinger for his congressional seat insist Donald Trump actually won reelection.",
@@ -1266,6 +1218,58 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-18-mike-pence-joe-biden-weakness-in-afghanistan-has-embarrassed-america.md",
+      "title": "Mike Pence: Joe Biden 'Weakness' in Afghanistan Has 'Embarrassed America'",
+      "excerpt": "Former Vice President Mike Pence has said the U.S. withdrawal from Afghanistan shows President Joe Biden's \"weakness\" and has \"embarrassed America on the world stage.\" Pence, who served as vice ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mike-pence-joe-biden-weakness-afghanistan-embarrassed-america-taliban-1620432",
+      "originalUrl": "https://www.newsweek.com/mike-pence-joe-biden-weakness-afghanistan-embarrassed-america-taliban-1620432",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 2399,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1873554/mike-pence-speaks-columbia-south-carolina.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mike-pence-joe-biden-weakness-afghanistan-embarrassed-america-taliban-1620432?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-joe-biden-weakness-afghanistan-embarrassed-america-taliban-1620432?amp=1",
+      "publishedDateTime": "2021-08-18T02:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
       ]
     }
   ],

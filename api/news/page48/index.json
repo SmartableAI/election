@@ -2,63 +2,6 @@
   "page": 48,
   "value": [
     {
-      "path": "_news/2021-05-28-check-out-kamala-harris-naval-academy-graduation-punchline-just-ask-any-marine-today.md",
-      "title": "Check out Kamala Harris' Naval Academy graduation punchline: 'Just ask any Marine today...'",
-      "excerpt": "Vice President Kamala Harris made a joke about green electricity during her commencement speech at the U.S. Naval Academy in Annapolis Friday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lNyyYiNClTs/kamala-harris-naval-academy-graduation-joke",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lNyyYiNClTs/kamala-harris-naval-academy-graduation-joke",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/AP21148533253450.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-naval-academy-graduation-joke.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-naval-academy-graduation-joke.amp",
-      "publishedDateTime": "2021-05-28T15:52:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-05-29-mike-pence-tweets-that-he-and-his-wife-will-attend-the-indy-500.md",
       "title": "Mike Pence tweets that he and his wife will attend the Indy 500",
       "excerpt": "The former vice president tweeted Friday afternoon that he'll be among the race's 135,000 attendees this year.",
@@ -1334,6 +1277,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-the-daily-202-biden-resurrects-the-politically-potent-wuhan-lab-leak-pandemic-theory.md",
+      "title": "The Daily 202: Biden resurrects the politically potent Wuhan lab-leak pandemic theory",
+      "excerpt": "President Biden breathed new life yesterday into the theory that the pandemic began when the virus escaped from a Chinese lab — an unproven but politically potent scenario Republicans have used to attack Beijing and defend former president Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/05/27/daily-202-biden-resurrects-politically-potent-wuhan-lab-leak-pandemic-theory/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/05/27/daily-202-biden-resurrects-politically-potent-wuhan-lab-leak-pandemic-theory/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OKDBHQV6KMI6XERKYQGJO5F4JA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/05/27/daily-202-biden-resurrects-politically-potent-wuhan-lab-leak-pandemic-theory/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/27/daily-202-biden-resurrects-politically-potent-wuhan-lab-leak-pandemic-theory/?outputType=amp",
+      "publishedDateTime": "2021-05-27T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
