@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump’s Long Campaign to Steal the Presidency: A Timeline"
+    excerpt: "The insurrection wasn’t a one-day event. It was the culmination of a multifaceted, yearslong plot — and it isn’t over."
+    publishedDateTime: 2021-09-05T20:00:00Z
+    webUrl: "https://nymag.com/intelligencer/article/trump-campaign-steal-presidency-timeline.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/article/trump-campaign-steal-presidency-timeline.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/trump-campaign-steal-presidency-timeline.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/0c7/d7c/20a3acd661e5113bfd8825a177d26a0649-trump-steal-01.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump will 'definitely' run for president in 2024, former adviser predicts"
     excerpt: "A former adviser to former President Donald Trump has confidently declared there's nearly a 100 percent chance he'll seek another term as president. Jason Miller, who served as senior adviser to Trump's 2020 campaign,"
     publishedDateTime: 2021-09-03T14:40:00Z
@@ -40,6 +56,22 @@ related:
       - url: "https://mediacloud.theweek.com/image/upload/f_auto,t_primary-image-mobile@1/v1630678687/GettyImages-1057825656%20%281%29.jpg"
         width: 375
         height: 211
+        isCached: true
+  - title: "‘Reign of Terror’ brilliantly traces the course from 9/11 to President Trump"
+    excerpt: "Government euphemisms and constant portrayal of Muslims as potential terrorists contributed to an ugly, winning narrative, author Spencer Ackerman argues."
+    publishedDateTime: 2021-09-05T09:45:00Z
+    webUrl: "https://www.dailypress.com/entertainment/books/vp-db-book-nyt-reign-terror-ackerman-090521-20210905-wezrbfxjozapxhreornstjgonq-story.html"
+    ampWebUrl: "https://www.dailypress.com/entertainment/books/vp-db-book-nyt-reign-terror-ackerman-090521-20210905-wezrbfxjozapxhreornstjgonq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/entertainment/books/vp-db-book-nyt-reign-terror-ackerman-090521-20210905-wezrbfxjozapxhreornstjgonq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Daily Press
+      domain: dailypress.com
+    quality: 72
+    images:
+      - url: "https://www.dailypress.com/resizer/rzRqmwl_SFH_ZWmHsoGrjUUsI3g=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/G7GHEQYAJVAXPBXDGX2R2AHHZM.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "Y/ToUUz8c1DAuUnVQy3fExMIveJietT7Ifm+ITFUCvm3tTduAl17SVfemggLAcx+/YrQtFL4hqMesSMfuqI9TqZ3DLoIAvbyi+jZ2EvRpsdGdU/2/Px+uEMAWC6ZtRIOUmZI47ytmytVtXxWYqAFU7PPSemCC4ZeFRcjxts6AcOoHMJJ1L6tZKE1oxtedEUz91jd/R01Js1HSQMHYlxG+5sC+arYLci1V0eoVfEbcjg677tp65DRr2wnqaUBdJwz01m+lyvksQYi9DPXM18UExuq0qcMiEPFzBbgkzwxUVcozyPAs1/uLxJol23rdpEAtGc5XgwY5fyB+9qs4jYIIyqrKqBkjO0xaAUp1lo92c4=;xj5q1N1etemx413dQKoOcA=="

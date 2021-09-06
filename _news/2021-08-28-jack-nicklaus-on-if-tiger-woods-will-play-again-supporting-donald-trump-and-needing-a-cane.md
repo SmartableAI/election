@@ -9,7 +9,7 @@ ampWebUrl: "https://golfweek.usatoday.com/lists/jack-nicklaus-qa-tiger-woods-don
 cdnAmpWebUrl: "https://golfweek-usatoday-com.cdn.ampproject.org/c/s/golfweek.usatoday.com/lists/jack-nicklaus-qa-tiger-woods-donald-trump-cane/amp/"
 type: article
 quality: 115
-heat: 175
+heat: 155
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's backing lands early in wide-open US Senate race"
-    excerpt: "Trump's endorsement, issued in a statement Wednesday afternoon, came early in the race, nearly nine months before next May's primary in what is expected to be one of the nation’s most competitive Senate contests in next year’s election."
-    publishedDateTime: 2021-09-04T02:58:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/Trump-s-backing-lands-early-in-wide-open-US-16434611.php"
-    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Trump-s-backing-lands-early-in-wide-open-US-16434611.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Trump-s-backing-lands-early-in-wide-open-US-16434611.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 105
   - title: "Jack Nicklaus on his Donald Trump endorsement, Tiger’s future — and a pickleball injury"
     excerpt: "Legendary golfer, whose travels have been limited by the pandemic, expounds on recent topics at a charity stop in Virginia."
     publishedDateTime: 2021-08-24T21:20:00Z

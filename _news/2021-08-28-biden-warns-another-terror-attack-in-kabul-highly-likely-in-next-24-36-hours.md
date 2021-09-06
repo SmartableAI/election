@@ -143,6 +143,15 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Jen Psaki Keeps Lying for Joe Biden"
+    excerpt: "White House press secretary Jen Psaki offered a fine example of that by refusing to discuss President Biden's damning July 23 phone call about the"
+    publishedDateTime: 2021-09-03T11:38:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/09/03/jen_psaki_keeps_lying_for_joe_biden_550842.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "17Qr0Oi/27G47esAZkQrJwIsGAWZqAtTq5e4pJdldAaFAgzYMjcPVf2SXdBHm/zaVgOnC8j5zWk5xTlJVWKsEH0p0bb67bOmDALSeszQ0VCx5CC9WfTbt6mcMrUrF6pts3psYb8C9DgWqbuL6Nr2vopRzbwU00t2HUyWJVM2Zk01G9FTNDMrKmbrgAc/y8wqPt6cKtZ2WZo4bKfAAhrRiOI3RM5YzXr/S7DwEry5HmxzCXfKntRulJEK4RS1hhR5+PMepLTeOWybxRE9qR0RZqHFQqVvP2Mh3yxc5ndC/BjSukI2L4f4DB2C+PPcxWv7VDfGvQ/JPHmyMQaIzXsNkv7wPMP0dbY2mzOLTy47bgk=;Mn03hSwElj7ariMe6Q7WkA=="
 ---

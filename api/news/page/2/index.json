@@ -2,114 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-09-03-trump-administration-deliberately-slowed-entry-of-afghan-allies.md",
-      "title": "Trump administration deliberately slowed entry of Afghan allies",
-      "excerpt": "Stephen Miller seemed floored by the idea, raised during a fall Cabinet meeting in 2018, of  keeping open the doors for Afghan allies and other Middle East refugees to enter the US. \n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d_gDGsC3zTw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d_gDGsC3zTw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/191213122539-stephen-miller-white-house-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/03/politics/trump-adviser-stephen-miller-afghan-allies-us-entry/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/03/politics/trump-adviser-stephen-miller-afghan-allies-us-entry/index.html",
-      "publishedDateTime": "2021-09-03T10:54:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-trump-hates-florida-gov-ron-desantis-because-of-his-rising-popularity-in-the-gop-report-says.md",
-      "title": "Trump 'hates' Florida Gov. Ron DeSantis because of his rising popularity in the GOP, report says",
-      "excerpt": "Trump previously said he'd consider DeSantis as a potential running mate if he decides to run for president in 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-hates-ron-desantis-because-of-his-popularity-report-2021-9",
-      "originalUrl": "https://www.businessinsider.com/trump-hates-ron-desantis-because-of-his-popularity-report-2021-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/61323af064313400196cd1e1?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-hates-ron-desantis-because-of-his-popularity-report-2021-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-hates-ron-desantis-because-of-his-popularity-report-2021-9?amp",
-      "publishedDateTime": "2021-09-03T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-09-03-kamala-harris-early-years-at-school-through-the-other-girl-on-the-bus.md",
       "title": "Kamala Harris’ Early Years At School Through ‘The Other Girl on The Bus’",
       "excerpt": "Carole Porter, a childhood friend of US VP Kamala Harris, talks about her memories of being bussed to school. Carole Porter lived in a little yellow house, a few doors from Kamala Harris who lived in a duplex on Bancroft street,",
@@ -252,49 +144,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-03-trump-will-definitely-run-for-president-in-2024-former-adviser-predicts.md",
-      "title": "Trump will 'definitely' run for president in 2024, former adviser predicts",
-      "excerpt": "A former adviser to former President Donald Trump has confidently declared there's nearly a 100 percent chance he'll seek another term as president. Jason Miller, who served as senior adviser to Trump's 2020 campaign,",
-      "sourceUrl": null,
-      "webUrl": "https://theweek.com/donald-trump/1004509/trump-will-definitely-run-for-president-in-2024-former-adviser-predicts",
-      "originalUrl": "https://theweek.com/donald-trump/1004509/trump-will-definitely-run-for-president-in-2024-former-adviser-predicts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediacloud.theweek.com/image/upload/f_auto,t_primary-image-mobile@1/v1630678687/GettyImages-1057825656%20%281%29.jpg",
-          "width": 375,
-          "height": 211,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theweek.com/donald-trump/1004509/trump-will-definitely-run-for-president-in-2024-former-adviser-predicts?amp",
-      "cdnAmpWebUrl": "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/donald-trump/1004509/trump-will-definitely-run-for-president-in-2024-former-adviser-predicts?amp",
-      "publishedDateTime": "2021-09-03T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "THE WEEK",
-        "domain": "theweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-09-03-us-to-resume-high-level-economic-cooperation-with-mexico-that-trump-suspended.md",
       "title": "U.S. to Resume High-Level Economic Cooperation with Mexico That Trump Suspended",
       "excerpt": "The high-level talks were launched by Joe Biden in 2013, when he served as vice president under Barack Obama but were suspended under Trump.",
@@ -325,6 +174,58 @@
         "name": "Times of San Diego",
         "domain": "timesofsandiego.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-09-03-retiring-gop-sen-toomey-says-trump-should-not-lead-ticket-in-2024.md",
+      "title": "Retiring GOP Sen. Toomey says Trump should not lead ticket in 2024",
+      "excerpt": "Sen. Pat Toomey has urged his party not to nominate former President Donald Trump as its presidential nominee in 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/09/03/trump-should-not-lead-gop-ticket-in-2024-retiring-sen-pat-toomey-says.html",
+      "originalUrl": "https://www.cnbc.com/2021/09/03/trump-should-not-lead-gop-ticket-in-2024-retiring-sen-pat-toomey-says.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 345,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106937287-1630677698608-IMG_6416.JPG?v=1630677935",
+          "width": 3744,
+          "height": 5616,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/09/03/trump-should-not-lead-gop-ticket-in-2024-retiring-sen-pat-toomey-says.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/09/03/trump-should-not-lead-gop-ticket-in-2024-retiring-sen-pat-toomey-says.html",
+      "publishedDateTime": "2021-09-03T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -644,7 +545,7 @@
       "originalUrl": "https://www.washingtontimes.com/news/2021/sep/2/twitter-wants-donald-trumps-lawsuit-moved-san-fran/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -1263,6 +1164,119 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-09-02-will-cain-kamala-harris-used-on-biden-ticket-been-mia-ever-since.md",
+      "title": "Will Cain: Kamala Harris ‘used’ on Biden ticket, been MIA ever since",
+      "excerpt": "\"The Five\" speculates about Kamala Harris' whereabouts, with co-host Will Cain predicting she will re-emerge from hiding when she's ready to face the fact that she was used for votes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/will-cain-kamala-harris-biden-ticket-mia-since",
+      "originalUrl": "https://www.foxnews.com/media/will-cain-kamala-harris-biden-ticket-mia-since",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6972f609-5acf-4822-97fb-0148775f443c/f75c6322-2b94-4ce0-90a6-cd48f6631868/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/will-cain-kamala-harris-biden-ticket-mia-since.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/will-cain-kamala-harris-biden-ticket-mia-since.amp",
+      "publishedDateTime": "2021-09-01T19:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-02-florida-restaurant-owner-posts-sign-telling-biden-supporters-to-take-business-elsewhere.md",
+      "title": "Florida restaurant owner posts sign telling Biden supporters to 'take business elsewhere'",
+      "excerpt": "A Florida restaurant raised eyebrows after posting a sign outsider the front door telling Biden supporters to dine elsewhere citing his recent handling of the American military withdrawal from Afghanistan.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wrTdQn23Icw/florida-restaurant-owner-posts-sign-telling-biden-supports-to-take-business-elsewhere",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wrTdQn23Icw/florida-restaurant-owner-posts-sign-telling-biden-supports-to-take-business-elsewhere",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dc72ea68-4167-41c2-8ad5-9f3aea6239a7/914977d0-3a4a-4385-8d30-416fec15aa84/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/florida-restaurant-owner-posts-sign-telling-biden-supports-to-take-business-elsewhere.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-restaurant-owner-posts-sign-telling-biden-supports-to-take-business-elsewhere.amp",
+      "publishedDateTime": "2021-09-01T18:03:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

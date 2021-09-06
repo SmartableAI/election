@@ -59,22 +59,6 @@ related:
         width: 2500
         height: 1588
         isCached: true
-  - title: "Afghanistan crisis: How Europe's relationship with Joe Biden turned sour"
-    excerpt: "A series of disagreements, most notably over Afghanistan, have some European leaders revising their expectations about President Joe Biden, and thinking more about a future untethered to the US. From a white-knuckle grip with Donald Trump to an arm on the shoulder with President Biden,"
-    publishedDateTime: 2021-09-02T23:05:00Z
-    webUrl: "https://www.bbc.com/news/world-europe-58416848.amp"
-    ampWebUrl: "https://www.bbc.com/news/world-europe-58416848.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-europe-58416848.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 124
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/885B/production/_120370943_gettyimages-1233447987.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Joe Biden's Approval Rating Tanks as 60 Percent Disapprove of Afghanistan Handling: Poll"
     excerpt: "The president's approval rating now stands at just 44 percent despite most Americans favoring leaving Afghanistan."
     publishedDateTime: 2021-09-03T12:27:00Z
@@ -90,6 +74,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1886918/biden-listens-president-ukraine.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Ted Cruz Says Biden Abandoned Americans in Afghanistan, Notes 'Reports of a Hostage Crisis'"
+    excerpt: "The Republican senator said he and other members of Congress \"have been working around the clock\" to help Americans still in Afghanistan."
+    publishedDateTime: 2021-09-05T21:09:00Z
+    webUrl: "https://www.newsweek.com/ted-cruz-says-biden-abandoned-americans-afghanistan-notes-reports-hostage-crisis-1626280"
+    ampWebUrl: "https://www.newsweek.com/ted-cruz-says-biden-abandoned-americans-afghanistan-notes-reports-hostage-crisis-1626280?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ted-cruz-says-biden-abandoned-americans-afghanistan-notes-reports-hostage-crisis-1626280?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 115
+    images:
+      - url: "https://d.newsweek.com/en/full/1887982/ted-cruz.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Fact check: President Joe Biden did not sleep through meeting with new Israeli prime minister"
     excerpt: "A viral video distorts President Biden's Aug. 27 meeting with Israel's new prime minister to make it appear as if Biden fell asleep. He did not."
@@ -154,6 +154,22 @@ related:
       - url: "https://cdn.christianpost.com/files/cache/image/14/32/143258_w_450_300.jpg"
         width: 450
         height: 300
+        isCached: true
+  - title: "Afghanistan crisis: How Europe's relationship with Joe Biden turned sour"
+    excerpt: "A series of disagreements, most notably over Afghanistan, have some European leaders revising their expectations about President Joe Biden, and thinking more about a future untethered to the US. From a white-knuckle grip with Donald Trump to an arm on the shoulder with President Biden,"
+    publishedDateTime: 2021-09-02T23:05:00Z
+    webUrl: "https://www.bbc.co.uk/news/world-europe-58416848.amp"
+    ampWebUrl: "https://www.bbc.co.uk/news/world-europe-58416848.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-europe-58416848.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 74
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/885B/production/_120370943_gettyimages-1233447987.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Biden addresses Hurricane Ida as more than 5,000 National Guard troops activated"
     excerpt: "President Joe Biden met virtually Monday with mayors and governors in areas hit hard by Hurricane Ida to discuss the response and the breadth of the"

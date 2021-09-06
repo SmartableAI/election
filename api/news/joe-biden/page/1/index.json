@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-06-crisis-isnt-over-progressives-push-biden-to-revive-unemployment-benefits-amid-pandemic.md",
+      "title": "'Crisis Isn't Over': Progressives Push Biden to Revive Unemployment Benefits Amid Pandemic",
+      "excerpt": "\"We're still in a pandemic, and the latest jobs numbers prove that. Doing our part to support Americans right now includes extending expanded\" unemployment insurance benefits, Representative Jamaal Bowman told Newsweek.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/crisis-isnt-over-progressives-push-biden-revive-unemployment-benefits-amid-pandemic-1626267",
+      "originalUrl": "https://www.newsweek.com/crisis-isnt-over-progressives-push-biden-revive-unemployment-benefits-amid-pandemic-1626267",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1887979/ocasio-cortez-jamaal-bowman-progressive-unemployment-benefits-revive.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/crisis-isnt-over-progressives-push-biden-revive-unemployment-benefits-amid-pandemic-1626267?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/crisis-isnt-over-progressives-push-biden-revive-unemployment-benefits-amid-pandemic-1626267?amp=1",
+      "publishedDateTime": "2021-09-05T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-09-04-joe-biden-walks-storm-ravaged-louisiana-i-know-youre-hurting.md",
       "title": "Joe Biden walks storm-ravaged Louisiana: “I know you’re hurting”",
       "excerpt": "Less than a week after Hurricane Ida battered the Gulf Coast, President Joe Biden walked the streets of a hardhit Louisiana neighborhood on Friday and told local residents, “I know you’re hurting, I know you’re hurting.",
@@ -875,7 +927,7 @@
       "originalUrl": "https://www.houstonchronicle.com/politics/texas/article/Fact-Check-Joe-Biden-said-that-al-Qaida-is-16416922.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 585,
+      "heat": 605,
       "tags": null,
       "images": [
         {
@@ -1415,49 +1467,6 @@
       "provider": {
         "name": "Meaww",
         "domain": "meaww.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-joe-biden-taps-milwaukee-mayor-tom-barrett-as-luxembourg-ambassador.md",
-      "title": "Joe Biden taps Milwaukee Mayor Tom Barrett as Luxembourg ambassador",
-      "excerpt": "President Joe Biden has nominated Milwaukee Mayor Tom Barrett to serve as the next U.S. ambassador to Luxembourg. The White House announced the appointment Wednesday. Barrett still needs Senate confirmation to serve,",
-      "sourceUrl": null,
-      "webUrl": "https://madison.com/wsj/news/local/govt-and-politics/joe-biden-taps-milwaukee-mayor-tom-barrett-as-luxembourg-ambassador/article_b47200d8-fa17-585a-bf19-bedbbba2cfb0.html",
-      "originalUrl": "https://madison.com/wsj/news/local/govt-and-politics/joe-biden-taps-milwaukee-mayor-tom-barrett-as-luxembourg-ambassador/article_b47200d8-fa17-585a-bf19-bedbbba2cfb0.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/a/8e/a8e22aa7-34d2-5cbe-932a-23a5b81e1e76/610857733438e.preview.jpg?resize=1024%2C754",
-          "width": 1024,
-          "height": 754,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://madison.com/news/local/govt-and-politics/joe-biden-taps-milwaukee-mayor-tom-barrett-as-luxembourg-ambassador/article_b47200d8-fa17-585a-bf19-bedbbba2cfb0.amp.html",
-      "cdnAmpWebUrl": "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/govt-and-politics/joe-biden-taps-milwaukee-mayor-tom-barrett-as-luxembourg-ambassador/article_b47200d8-fa17-585a-bf19-bedbbba2cfb0.amp.html",
-      "publishedDateTime": "2021-08-26T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Madison.com",
-        "domain": "madison.com",
         "images": null,
         "publishers": null,
         "authors": null

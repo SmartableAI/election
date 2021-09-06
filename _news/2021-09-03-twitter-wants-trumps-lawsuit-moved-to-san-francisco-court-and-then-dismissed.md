@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.washingtontimes.com/news/2021/sep/2/twitter-wants-donald
 cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/sep/2/twitter-wants-donald-trumps-lawsuit-moved-san-fran/"
 type: article
 quality: 72
-heat: 92
+heat: 72
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 700
     isCached: true
-
-related:
-  - title: "Bernie Sanders sets out to sell big government in Trump country"
-    excerpt: "He's specifically targeting two congressional districts where Trump's vote totals increased between 2016 and 2020."
-    publishedDateTime: 2021-08-27T10:03:00Z
-    webUrl: "https://bangordailynews.com/2021/08/27/national-politics/bernie-sanders-sets-out-to-sell-big-government-in-trump-country/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 55
-    images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/Sanders-in-Trump-Country.jpg"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "3YBxgBUPUlI/9b3sn84guxtzmPj0ypnR2Mo0RhbhUfg6MiAd7uzawokBM7jyd6wRFn2FaZGmh7Nc5UpRuUKmyOx2x02dEaChoPPLaz4zkf0R78H4VOKzrNSzm6SarMUHj84SVrllrrQaMHiz4g48QTl0cO457BWaCp6PYR3ahBvYDzDCTkdgnMorn3je8G6asJpg9JcDMt8/U8vV6UaTngwoX3lOJ3Vx05/LTpwnqt6bWVScDelKj3nozGlXVAKSeLLNOc1kqXvuN2gshk3Oia0ZG6W7lwGtE3M6S/yYSS/sHpWnVBLu/nIXSjBbfX/UgiCtbbHttkNSNJdtfRRp8mjZycRDTPMgaJBt9qEfLksd6ZeQPDL2raRMnXYXwrZNdI9ETnBKNRR1hPtbK3JqhQmuBp8J/svaDg6iTOJgrGZNP8Z4/2hC+332I0Rs2m7voEdkoqSq5h80SrZ+dyZjNn3Wzv5kMODllYAwTlzAvhWkDMrawh9RJRQXiBa00onF65IXRImBVIO5HDpOYHcRvQ==;CGD8h+8CfWWzezTN7R7tPA=="
 ---

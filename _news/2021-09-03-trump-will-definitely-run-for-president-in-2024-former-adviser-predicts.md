@@ -9,8 +9,8 @@ ampWebUrl: "https://theweek.com/donald-trump/1004509/trump-will-definitely-run-f
 cdnAmpWebUrl: "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/donald-trump/1004509/trump-will-definitely-run-for-president-in-2024-former-adviser-predicts?amp"
 type: article
 quality: 73
-heat: 93
-published: true
+heat: -1
+published: false
 
 provider:
   name: THE WEEK
@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Trump’s Long Campaign to Steal the Presidency: A Timeline"
+    excerpt: "The insurrection wasn’t a one-day event. It was the culmination of a multifaceted, yearslong plot — and it isn’t over."
+    publishedDateTime: 2021-09-05T20:00:00Z
+    webUrl: "https://nymag.com/intelligencer/article/trump-campaign-steal-presidency-timeline.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/article/trump-campaign-steal-presidency-timeline.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/trump-campaign-steal-presidency-timeline.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/0c7/d7c/20a3acd661e5113bfd8825a177d26a0649-trump-steal-01.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "‘Reign of Terror’ brilliantly traces the course from 9/11 to President Trump"
+    excerpt: "Government euphemisms and constant portrayal of Muslims as potential terrorists contributed to an ugly, winning narrative, author Spencer Ackerman argues."
+    publishedDateTime: 2021-09-05T09:45:00Z
+    webUrl: "https://www.dailypress.com/entertainment/books/vp-db-book-nyt-reign-terror-ackerman-090521-20210905-wezrbfxjozapxhreornstjgonq-story.html"
+    ampWebUrl: "https://www.dailypress.com/entertainment/books/vp-db-book-nyt-reign-terror-ackerman-090521-20210905-wezrbfxjozapxhreornstjgonq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/entertainment/books/vp-db-book-nyt-reign-terror-ackerman-090521-20210905-wezrbfxjozapxhreornstjgonq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Daily Press
+      domain: dailypress.com
+    quality: 72
+    images:
+      - url: "https://www.dailypress.com/resizer/rzRqmwl_SFH_ZWmHsoGrjUUsI3g=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/G7GHEQYAJVAXPBXDGX2R2AHHZM.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kent lands endorsement from former President Trump in congressional campaign"
     excerpt: "Joe Kent has added one of the biggest potential Republican endorsements to his campaign to take Jaime Herrera Beutler's seat in the House of Representatives: President Donald Trump."
     publishedDateTime: 2021-09-02T00:15:00Z

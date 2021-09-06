@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-06-trumps-long-campaign-to-steal-the-presidency-a-timeline.md",
+      "title": "Trump’s Long Campaign to Steal the Presidency: A Timeline",
+      "excerpt": "The insurrection wasn’t a one-day event. It was the culmination of a multifaceted, yearslong plot — and it isn’t over.",
+      "sourceUrl": null,
+      "webUrl": "https://nymag.com/intelligencer/article/trump-campaign-steal-presidency-timeline.html",
+      "originalUrl": "https://nymag.com/intelligencer/article/trump-campaign-steal-presidency-timeline.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pyxis.nymag.com/v1/imgs/0c7/d7c/20a3acd661e5113bfd8825a177d26a0649-trump-steal-01.1x.rsocial.w1200.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nymag.com/intelligencer/amp/article/trump-campaign-steal-presidency-timeline.html",
+      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/trump-campaign-steal-presidency-timeline.html",
+      "publishedDateTime": "2021-09-05T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Magazine",
+        "domain": "nymag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-09-05-lara-trump-blasts-ny-times-for-double-standard-after-editing-headline-about-biden-and-his-son-beau.md",
       "title": "Lara Trump blasts NY Times for 'double standard' after editing headline about Biden and his son Beau",
       "excerpt": "Fox News contributor Lara Trump blasted the New York Times for softening a headline initially critical of President Biden for talking about his late son Beau when meeting with the families of troops killed in Afghanistan,",
@@ -107,153 +150,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-05-reign-of-terror-brilliantly-traces-the-course-from-911-to-president-trump.md",
-      "title": "‘Reign of Terror’ brilliantly traces the course from 9/11 to President Trump",
-      "excerpt": "Government euphemisms and constant portrayal of Muslims as potential terrorists contributed to an ugly, winning narrative, author Spencer Ackerman argues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailypress.com/entertainment/books/vp-db-book-nyt-reign-terror-ackerman-090521-20210905-wezrbfxjozapxhreornstjgonq-story.html",
-      "originalUrl": "https://www.dailypress.com/entertainment/books/vp-db-book-nyt-reign-terror-ackerman-090521-20210905-wezrbfxjozapxhreornstjgonq-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailypress.com/resizer/rzRqmwl_SFH_ZWmHsoGrjUUsI3g=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/G7GHEQYAJVAXPBXDGX2R2AHHZM.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailypress.com/entertainment/books/vp-db-book-nyt-reign-terror-ackerman-090521-20210905-wezrbfxjozapxhreornstjgonq-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/entertainment/books/vp-db-book-nyt-reign-terror-ackerman-090521-20210905-wezrbfxjozapxhreornstjgonq-story.html?outputType=amp",
-      "publishedDateTime": "2021-09-05T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Press",
-        "domain": "dailypress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-09-05-republican-adam-kinzinger-says-gop-audits-about-being-too-scared-to-admit-trump-lost.md",
-      "title": "Republican Adam Kinzinger Says GOP Audits 'About Being Too Scared' to Admit Trump Lost",
-      "excerpt": "The GOP congressman's criticism comes as Republicans continue to push for probes of last year's presidential election—10 months after it was held.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/republican-adam-kinzinger-says-gop-audits-about-being-too-scared-admit-trump-lost-1626180",
-      "originalUrl": "https://www.newsweek.com/republican-adam-kinzinger-says-gop-audits-about-being-too-scared-admit-trump-lost-1626180",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1887862/adam-kinzinger.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/republican-adam-kinzinger-says-gop-audits-about-being-too-scared-admit-trump-lost-1626180?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/republican-adam-kinzinger-says-gop-audits-about-being-too-scared-admit-trump-lost-1626180?amp=1",
-      "publishedDateTime": "2021-09-04T13:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-09-04-gop-sen-pat-toomey-says-that-trump-should-not-be-the-partys-2024-presidential-nominee-slams-his-unacceptable-behavior.md",
-      "title": "GOP Sen. Pat Toomey says that Trump should not be the party's 2024 presidential nominee, slams his 'unacceptable' behavior",
-      "excerpt": "\"I think that the future of our party is to be a party of ideas, and not to be a party about any one individual,\" Toomey said in a CNBC interview.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/pat-toomey-disapproves-trump-2024-election-republican-party-presidential-nominee-2021-9",
-      "originalUrl": "https://www.businessinsider.com/pat-toomey-disapproves-trump-2024-election-republican-party-presidential-nominee-2021-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6133869361f7d80018f2555d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/pat-toomey-disapproves-trump-2024-election-republican-party-presidential-nominee-2021-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pat-toomey-disapproves-trump-2024-election-republican-party-presidential-nominee-2021-9?amp",
-      "publishedDateTime": "2021-09-04T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-09-04-former-nyt-reporter-describes-secretive-industry-of-corporate-investigations-that-targeted-pharma-trump.md",
       "title": "Former NYT reporter describes secretive 'industry' of 'corporate investigations' that targeted, pharma, Trump",
       "excerpt": "Retired New York Times reporter Barry Meier joined Fox Nation's \"Tucker Carlson Today\" to discuss the impact corporate investigation firms have had on politics and business.",
@@ -311,58 +207,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-03-trump-hates-florida-gov-ron-desantis-because-of-his-rising-popularity-in-the-gop-report-says.md",
-      "title": "Trump 'hates' Florida Gov. Ron DeSantis because of his rising popularity in the GOP, report says",
-      "excerpt": "Trump previously said he'd consider DeSantis as a potential running mate if he decides to run for president in 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-hates-ron-desantis-because-of-his-popularity-report-2021-9",
-      "originalUrl": "https://www.businessinsider.com/trump-hates-ron-desantis-because-of-his-popularity-report-2021-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/61323af064313400196cd1e1?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-hates-ron-desantis-because-of-his-popularity-report-2021-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-hates-ron-desantis-because-of-his-popularity-report-2021-9?amp",
-      "publishedDateTime": "2021-09-03T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-09-03-donald-trump-backers-bet-big-on-dennis-kucinich-in-mayoral-race.md",
       "title": "Donald Trump backers bet big on Dennis Kucinich in mayoral race",
       "excerpt": "Two Republicans – a convicted and pardoned fraudster and a figure tied to the House Bill 6 bribery scandal – are betting big on Democratic former Mayor Dennis Kucinich in the race to succeed Mayor Frank Jackson.",
@@ -392,49 +236,6 @@
       "provider": {
         "name": "Cleveland.com",
         "domain": "cleveland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-trump-will-definitely-run-for-president-in-2024-former-adviser-predicts.md",
-      "title": "Trump will 'definitely' run for president in 2024, former adviser predicts",
-      "excerpt": "A former adviser to former President Donald Trump has confidently declared there's nearly a 100 percent chance he'll seek another term as president. Jason Miller, who served as senior adviser to Trump's 2020 campaign,",
-      "sourceUrl": null,
-      "webUrl": "https://theweek.com/donald-trump/1004509/trump-will-definitely-run-for-president-in-2024-former-adviser-predicts",
-      "originalUrl": "https://theweek.com/donald-trump/1004509/trump-will-definitely-run-for-president-in-2024-former-adviser-predicts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediacloud.theweek.com/image/upload/f_auto,t_primary-image-mobile@1/v1630678687/GettyImages-1057825656%20%281%29.jpg",
-          "width": 375,
-          "height": 211,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theweek.com/donald-trump/1004509/trump-will-definitely-run-for-president-in-2024-former-adviser-predicts?amp",
-      "cdnAmpWebUrl": "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/donald-trump/1004509/trump-will-definitely-run-for-president-in-2024-former-adviser-predicts?amp",
-      "publishedDateTime": "2021-09-03T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "THE WEEK",
-        "domain": "theweek.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -479,6 +280,58 @@
         "name": "Times of San Diego",
         "domain": "timesofsandiego.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-09-03-retiring-gop-sen-toomey-says-trump-should-not-lead-ticket-in-2024.md",
+      "title": "Retiring GOP Sen. Toomey says Trump should not lead ticket in 2024",
+      "excerpt": "Sen. Pat Toomey has urged his party not to nominate former President Donald Trump as its presidential nominee in 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/09/03/trump-should-not-lead-gop-ticket-in-2024-retiring-sen-pat-toomey-says.html",
+      "originalUrl": "https://www.cnbc.com/2021/09/03/trump-should-not-lead-gop-ticket-in-2024-retiring-sen-pat-toomey-says.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 345,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106937287-1630677698608-IMG_6416.JPG?v=1630677935",
+          "width": 3744,
+          "height": 5616,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/09/03/trump-should-not-lead-gop-ticket-in-2024-retiring-sen-pat-toomey-says.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/09/03/trump-should-not-lead-gop-ticket-in-2024-retiring-sen-pat-toomey-says.html",
+      "publishedDateTime": "2021-09-03T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -690,7 +543,7 @@
       "originalUrl": "https://www.washingtontimes.com/news/2021/sep/2/twitter-wants-donald-trumps-lawsuit-moved-san-fran/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -984,7 +837,7 @@
       "originalUrl": "https://www.washingtonpost.com/local/virginia-politics/trump-virginia-governor-youngkin-election/2021/09/01/c8583584-0b3b-11ec-aea1-42a8138f132a_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 232,
+      "heat": 192,
       "tags": null,
       "images": [
         {
@@ -1393,7 +1246,7 @@
       "originalUrl": "https://golfweek.usatoday.com/lists/jack-nicklaus-qa-tiger-woods-donald-trump-cane/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 175,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -1469,6 +1322,149 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-opinion-like-donald-trump-in-16-larry-elder-may-benefit-from-all-the-criticism.md",
+      "title": "Opinion: Like Donald Trump in ’16, Larry Elder May Benefit from All the Criticism",
+      "excerpt": "Elder may be, as his critics say, unfit to be governor. However, like Trump, he probably loves the attention because his enemies are making him more friends.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofsandiego.com/opinion/2021/08/26/like-donald-trump-in-16-larry-elder-may-benefit-from-all-the-criticism/",
+      "originalUrl": "https://timesofsandiego.com/opinion/2021/08/26/like-donald-trump-in-16-larry-elder-may-benefit-from-all-the-criticism/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://timesofsandiego.com/wp-content/uploads/2021/07/Larry-Elder-e1626989678782.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofsandiego.com/opinion/2021/08/26/like-donald-trump-in-16-larry-elder-may-benefit-from-all-the-criticism/",
+      "cdnAmpWebUrl": "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/opinion/2021/08/26/like-donald-trump-in-16-larry-elder-may-benefit-from-all-the-criticism/",
+      "publishedDateTime": "2021-08-27T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Times of San Diego",
+        "domain": "timesofsandiego.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president.md",
+      "title": "Trump says Kabul airport explosion wouldn’t have happened if he was president",
+      "excerpt": "Donald Trump hammered Biden over the suicide bombings outside Kabul’s airport, claiming that “it would not have happened if I was your president.”",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/",
+      "originalUrl": "https://nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-afghanistan-bomging-index.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/amp/",
+      "publishedDateTime": "2021-08-26T21:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-trumps-former-national-security-advisor-john-bolton-says-its-impossible-for-mike-pompeo-to-rewrite-history-on-his-negotiations-with-the.md",
+      "title": "Trump's former national security advisor John Bolton says it's 'impossible' for Mike Pompeo to 'rewrite history' on his negotiations with the Taliban",
+      "excerpt": "\"That's a prescription for Democratic attack ads that would be fatal to someone's credibility,\" Bolton told Politico.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/john-bolton-impossible-to-rewrite-history-on-mike-pompeo-taliban-deal-2021-8",
+      "originalUrl": "https://www.businessinsider.com/john-bolton-impossible-to-rewrite-history-on-mike-pompeo-taliban-deal-2021-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/61279e06e4235b00180aa5ba?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/john-bolton-impossible-to-rewrite-history-on-mike-pompeo-taliban-deal-2021-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/john-bolton-impossible-to-rewrite-history-on-mike-pompeo-taliban-deal-2021-8?amp",
+      "publishedDateTime": "2021-08-26T19:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

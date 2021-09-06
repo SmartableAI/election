@@ -54,6 +54,17 @@ related:
       name: Biloxi Sun Herald
       domain: sunherald.com
     quality: 55
+  - title: "Harris to California on Wednesday to campaign with Newsom"
+    excerpt: "Vice President Kamala Harris is set to visit California’s Bay Area on Wednesday to campaign with Gov. Gavin Newsom, who faces removal from office in a Sept. 14 recall election."
+    publishedDateTime: 2021-09-05T21:38:00Z
+    webUrl: "https://www.kentucky.com/news/politics-government/national-politics/article254010883.html"
+    ampWebUrl: "https://amp.kentucky.com/news/politics-government/national-politics/article254010883.html"
+    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/politics-government/national-politics/article254010883.html"
+    type: article
+    provider:
+      name: Lexington Herald Leader
+      domain: kentucky.com
+    quality: 55
   - title: "This simple advice from Kamala Harris will make you a better public speaker"
     excerpt: "The vice president has, several times, offered smart, assuring words to nervous workers and students that this communications coach says are spot-on."
     publishedDateTime: 2021-09-03T14:00:00Z

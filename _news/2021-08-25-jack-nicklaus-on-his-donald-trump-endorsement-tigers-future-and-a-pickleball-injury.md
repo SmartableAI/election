@@ -45,17 +45,6 @@ related:
         width: 3656
         height: 2339
         isCached: true
-  - title: "Trump's backing lands early in wide-open US Senate race"
-    excerpt: "Trump's endorsement, issued in a statement Wednesday afternoon, came early in the race, nearly nine months before next May's primary in what is expected to be one of the nation’s most competitive Senate contests in next year’s election."
-    publishedDateTime: 2021-09-04T02:58:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/Trump-s-backing-lands-early-in-wide-open-US-16434611.php"
-    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Trump-s-backing-lands-early-in-wide-open-US-16434611.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Trump-s-backing-lands-early-in-wide-open-US-16434611.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 105
   - title: "Lightning-rod Trump supporter Scott Presler's rally canceled in Wilton"
     excerpt: "Scott Presler, a political operative identified as a former top strategist for an anti-Muslim group, canceled an appearance Wednesday at Gavin Park that was touted by U.S. Rep. Elise Stefanik and the local Republican Party."
     publishedDateTime: 2021-08-24T17:42:00Z

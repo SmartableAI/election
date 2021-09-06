@@ -41,38 +41,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "US Sen. Mike Rounds isn't convinced Donald Trump would win GOP nomination in 2024 election"
-    excerpt: "South Dakota U.S. Sen. Mike Rounds, in discussion with Sioux Falls Rotarians, speculated what might lie ahead for the Republican Party for 2024."
-    publishedDateTime: 2021-08-30T19:39:00Z
-    webUrl: "https://www.argusleader.com/story/news/2021/08/30/mike-rounds-2024-election-donald-trump-kristi-noem-republican-nomination-speculation/5653852001/"
-    ampWebUrl: "https://amp.argusleader.com/amp/5653852001"
-    cdnAmpWebUrl: "https://amp-argusleader-com.cdn.ampproject.org/c/s/amp.argusleader.com/amp/5653852001"
-    type: article
-    provider:
-      name: Argus Leader
-      domain: argusleader.com
-    quality: 80
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/20/PSIF/c96ac377-3e03-4c86-a475-a751d7dde2e0-Rounds_ChamberOfCommerce_003.JPG?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump’s backing lands early in wide-open US Senate race"
-    excerpt: "HARRISBURG, Pa. (AP) — The most sought-after endorsement in Pennsylvania’s wide-open Republican primary for U.S. Senate went early to Sean Parnell, but the backing of former President Donald Trump isn’t clearing the field for Parnell and it’s yet ..."
-    publishedDateTime: 2021-09-05T01:00:00Z
-    webUrl: "https://www.timesleader.com/wire/state-wire/1510510/trumps-backing-lands-early-in-wide-open-us-senate-race"
-    ampWebUrl: "https://www.timesleader.com/wire/state-wire/1510510/trumps-backing-lands-early-in-wide-open-us-senate-race/amp"
-    cdnAmpWebUrl: "https://www-timesleader-com.cdn.ampproject.org/c/s/www.timesleader.com/wire/state-wire/1510510/trumps-backing-lands-early-in-wide-open-us-senate-race/amp"
-    type: article
-    provider:
-      name: The Times Leader
-      domain: timesleader.com
-    quality: 75
-    images:
-      - url: "https://cdnmedia.sendtonews.com/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
   - title: "Trump-backed governor candidate walks a MAGA tightrope in Virginia"
     excerpt: "The crowd of about 300 Republican stalwarts in Norfolk, Virginia, included those wearing the requisite red baseball caps."
     publishedDateTime: 2021-08-24T08:00:00Z

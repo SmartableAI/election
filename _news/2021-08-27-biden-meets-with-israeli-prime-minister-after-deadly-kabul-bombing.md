@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-israeli-prime-minister-kabul-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-israeli-prime-minister-kabul-bombing.amp"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -143,6 +143,15 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Jen Psaki Keeps Lying for Joe Biden"
+    excerpt: "White House press secretary Jen Psaki offered a fine example of that by refusing to discuss President Biden's damning July 23 phone call about the"
+    publishedDateTime: 2021-09-03T11:38:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/09/03/jen_psaki_keeps_lying_for_joe_biden_550842.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "CTMhBkWQoIBqzMHC7o/vjenoSfdwtVWUDZ9dKL0ysiEeB028vcbQSoC9i6aYs7Lm+4LOy10Rku1B4K9bOFcu90l8GLyFhbrJ0g5QSDAhxVYy0vjT02uZVRRggWGm2ru6E0i8LUarZ0j/v62gvlIGykRMuQLxVxqa84KIKbP+ihWfCtlCcVojkcaxe3NL+UtVKP2HMGLu8geYVX1y8h++AUZdb4t96hCyf35/NQj2K2Coc1cF85/4pDwux6vpskbpNWQi/IJ2VNn/7QP5FwJaWXgEtW3jSHECA76c9Lmx9bTFvI4boVj1XBlD0FCMRD2rBKy5DmrTHLQU+p3LigtrrLJFU+RJCqZCI3OfPL1En4k=;fImAQRdd/sEdtvjjtkXobw=="
 ---

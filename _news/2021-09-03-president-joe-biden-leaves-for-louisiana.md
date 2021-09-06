@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Leaves For Louisiana"
 excerpt: "U.S. President Joe Biden walks to Marine One on the South Lawn of the White House on September 3, 2021 in Washington DC. Biden is heading to New Orleans, Louisiana to deliver remarks on his Administration?"
 publishedDateTime: 2021-09-03T16:36:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/f7aacc65c795f01e80de987094f71250/President-Joe-Biden-Leaves-For-Louisiana/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/f7aacc65c795f01e80de987094f71250/President-Joe-Biden-Leaves-For-Louisiana/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/7f0a311c71d5d40465f9bdb29f9bcd6c/President-Joe-Biden-Leaves-For-Louisiana/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/7f0a311c71d5d40465f9bdb29f9bcd6c/President-Joe-Biden-Leaves-For-Louisiana/"
 type: article
 quality: 55
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/f7aacc65c795f01e80de987094f71250/BIDEN-JOBS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/7f0a311c71d5d40465f9bdb29f9bcd6c/BIDEN-JOBS.jpg"
     width: 650
-    height: 434
+    height: 433
     isCached: true
 
 related:
@@ -261,6 +261,6 @@ related:
       domain: lasvegassun.com
     quality: 35
 
-secured: "9feleaqriO/3EdDdczMg/yYMkpTbV7yvylVEV8XMVt60/1dT33Soc+OR0RSoVM9L0UfG1bNe6yJ5+rhE6WBFtxbc/XLpSLNcveQerOzp1WtZRf3TEKEMJXsOwxBuyPNyHcRNgv4S/mft+HtQSibODGSk4jueQ2jpkkqCauxAM6bn7TmmwM9/eiPETssNTAFW3w0jDtXJVYl11OR9ul2mYbJH/7SHW8EK5UGFPX0/o4QoXVT1deavwOTQIFQjF3y7R0vdT3vFNTpe/k3PnCvyIj6OmMjIKzaKg+uuROR7W9hGCzsN0dmcx3XAg+My+boL+fL6UiUxRrxyQ49IAVfTzlyefHAKP9RDQWQedtrnoUNTcB2vUJx0Zsmp83APEh5AtlNfOehQ3ful8FR/WWFavgqtIx2JF0+Xo792kUxzMeA9QZI8xvb4IYPsPUSxOrIsXB3/lU8Rzb+8k0iD8NkCXyqJ4LD8GvJ86LiSV/2O6bb7GlKGDJRPQ+EXhc96JNFuZEUyLaw/Bn7IaQM9bQubpw==;ndo0z2ouk9pmrMb+/PPm7Q=="
+secured: "Oz/ynxgrbZaJwR4Daf+oDlCbN/QvuRIE+hfoP4xvGPg/tnEZ6fyXZRai1uB/k6tnGkK3ucZtishumc98HtJALsa+7+OPbVoWnVxRFdsgk20SqlszWYBhvqGwdEOXE/qvOcR4qZwvTOdIGwpAutbFjAAUU02zpaCLOnXu93hwlEDDvxC0oiZSecKDL+F6jx1iKCSSX3+nKkyLJ0bElC+b+AFw+/yfZGngTflasAWUOfRuYOs4E0cRVMIluAqW5tg1/RzeNd4HWb4iSNiFVRnbVLMRSDPsKhTjdOd3W6vrR+6fLdzYvem8iOykXpY1JbQOey4tNv9Lu//ZhuEvqP6n2Abs+ROi9KlIb+jMersm1cA=;FGWGfS5/E6ap83HItNY+tw=="
 ---
 

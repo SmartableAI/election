@@ -3,22 +3,18 @@ category: news
 title: "Afghanistan crisis: How Europe's relationship with Joe Biden turned sour"
 excerpt: "A series of disagreements, most notably over Afghanistan, have some European leaders revising their expectations about President Joe Biden, and thinking more about a future untethered to the US. From a white-knuckle grip with Donald Trump to an arm on the shoulder with President Biden,"
 publishedDateTime: 2021-09-02T23:05:00Z
-originalUrl: "https://www.bbc.com/news/world-europe-58416848.amp"
-webUrl: "https://www.bbc.com/news/world-europe-58416848.amp"
-ampWebUrl: "https://www.bbc.com/news/world-europe-58416848.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-europe-58416848.amp"
+originalUrl: "https://www.bbc.co.uk/news/world-europe-58416848.amp"
+webUrl: "https://www.bbc.co.uk/news/world-europe-58416848.amp"
+ampWebUrl: "https://www.bbc.co.uk/news/world-europe-58416848.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-europe-58416848.amp"
 type: article
-quality: 124
+quality: 74
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - Election
@@ -78,6 +74,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1886918/biden-listens-president-ukraine.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Ted Cruz Says Biden Abandoned Americans in Afghanistan, Notes 'Reports of a Hostage Crisis'"
+    excerpt: "The Republican senator said he and other members of Congress \"have been working around the clock\" to help Americans still in Afghanistan."
+    publishedDateTime: 2021-09-05T21:09:00Z
+    webUrl: "https://www.newsweek.com/ted-cruz-says-biden-abandoned-americans-afghanistan-notes-reports-hostage-crisis-1626280"
+    ampWebUrl: "https://www.newsweek.com/ted-cruz-says-biden-abandoned-americans-afghanistan-notes-reports-hostage-crisis-1626280?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ted-cruz-says-biden-abandoned-americans-afghanistan-notes-reports-hostage-crisis-1626280?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 115
+    images:
+      - url: "https://d.newsweek.com/en/full/1887982/ted-cruz.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Fact check: President Joe Biden did not sleep through meeting with new Israeli prime minister"
     excerpt: "A viral video distorts President Biden's Aug. 27 meeting with Israel's new prime minister to make it appear as if Biden fell asleep. He did not."
@@ -379,6 +391,6 @@ related:
       domain: politifact.com
     quality: 20
 
-secured: "f8Adv9Nn1ozTIOEQTaF77QDpUTFwpVcSB8EF4kXymOzX1j2WfmGiQGMcq8KC/D707qfBCIRZYMSdh9dn/RcuHojph9SBEuPkU5NVM8qyNCh3dm5RZtEmXNyws0zAAHuvSHT2Rq4/Uou7GQGaW5rvXVVrAECCOCNrSgPlkieMr3w2BBCKBlLF4dmneLSBRpw3fXlkM+SyBOHwffLJf3OppViEpptPv5A4UPGyRNuYZQgRWYMhSB2p237bm8tcZxMU0DBXrRRRVxpYwNK1jtrsgYR9GkmNcEhkjN79/q/nf2ncv2gz00LK6PRSoCMQaOa689uAEd6X2YREVwaSpapMUMigAHqQ6I2NsBASmzKWCl3spXOCIRLmY1mmAEEYDsCylTBtyLZcuN/f9m/APPO7XpKg5Wsu+ZCfmOFkjK+qcKos043BkPoGAUWG1bmIKM7LZkdBJarXumsffdtDpeShwptojbmfElFG1p+TdcXj0xT3/Mn9c/C+sKYms3Vhhc0NwNAHNIpc8UwvEnujWeSGrg==;2ZVnUpSpOfbqzlpnnqV7ZA=="
+secured: "0c2qAjk6yT1unfIqbAtltAdhIw82v5cQqjI6uof9OjJyRu2dM9P06rMJU9wv35dzzpogMxe5QV+jamxlTYpX3JhIYUR5dU+J3CErHDRZW0sOR9w3jpDREpLbLZnTaRJbKUw5s9ZiwEsb/rxgHGOOKOeDNGD5HJAcdFdtZsP4O3g0msUpanQ4x9YWcrf4EVct/pBOmGTRqQS0o6GO7KCH3gDzjU0NR7ybaxhkcCwJLBsbfGbW+hpqPLXgwWfWq2xbs6IEnAjQiVcRtPt5AIrBx2Coy69I9hKIDwMwaXOcVBpo3U5hG+Z2bNw1clH63vfjzkGssundrjNgzt7Sc0+MeikSJ8/DJgbeY5tJDsYUiqc=;fFSXczOdztdLzLEl1bu+qA=="
 ---
 
