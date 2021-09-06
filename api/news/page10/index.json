@@ -2,6 +2,63 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-08-13-bad-news-for-trump-adjacent-weirdos-delights-seth-meyers.md",
+      "title": "Bad News for ‘Trump-Adjacent Weirdos’ Delights Seth Meyers",
+      "excerpt": "Meyers enjoyed seeing Mike Lindell get word on camera that a defamation suit against him over his claims of election fraud would proceed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/08/13/arts/television/seth-myers-mike-lindell.html",
+      "originalUrl": "https://www.nytimes.com/2021/08/13/arts/television/seth-myers-mike-lindell.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/08/13/arts/13latenight/13latenight-facebookJumbo.png",
+          "width": 906,
+          "height": 474,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/08/13/arts/television/seth-myers-mike-lindell.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/13/arts/television/seth-myers-mike-lindell.amp.html",
+      "publishedDateTime": "2021-08-12T22:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-hannity-bidens-america-last-agenda-putting-more-than-just-the-us-at-risk.md",
       "title": "Hannity: Biden's 'America Last' agenda putting more than just the US at risk",
       "excerpt": "In his Opening Monologue, “Hannity” host Sean Hannity challenged his audience to name a single positive accomplishment of President Joe Biden or his administration.",
@@ -1252,62 +1309,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-trump-accountants-must-turn-over-some-tax-records-to-house-panel-federal-judge-rules.md",
-      "title": "Trump accountants must turn over some tax records to House panel, federal judge rules",
-      "excerpt": "A federal judge has ruled that multiple tax records belonging to former President Donald Trump must be turned over to Congress.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5RzIk2_w87Y/trump-accountants-must-turn-over-some-tax-records-to-house-panel-federal-judge-rules",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5RzIk2_w87Y/trump-accountants-must-turn-over-some-tax-records-to-house-panel-federal-judge-rules",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/40a63b4a-2e83-40cb-b3dc-bc01851d10f2/18d62644-0518-41b0-afc0-9ff5e6483fb7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-accountants-must-turn-over-some-tax-records-to-house-panel-federal-judge-rules.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-accountants-must-turn-over-some-tax-records-to-house-panel-federal-judge-rules.amp",
-      "publishedDateTime": "2021-08-11T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

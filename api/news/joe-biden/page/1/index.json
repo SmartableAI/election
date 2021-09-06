@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-06-joe-bidens-granddaughter-naomi-announces-engagement-to-longtime-beau-peter-neal.md",
+      "title": "Joe Biden's Granddaughter Naomi Announces Engagement To Longtime Beau Peter Neal",
+      "excerpt": "Naomi Biden, President Joe Biden's granddaughter, is now engaged. The 27-year-old daughter of Hunter Biden with ex-wife Kathleen Buhle took to Instagram Wednesday to confirm she's tying the knot with her longtime beau,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/joe-bidens-granddaughter-naomi-announces-engagement-longtime-beau-peter-neal-3289026",
+      "originalUrl": "https://www.ibtimes.com/joe-bidens-granddaughter-naomi-announces-engagement-longtime-beau-peter-neal-3289026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/04/us-president-joe-biden-2nd-l-first-lady.jpg",
+          "width": 1024,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/joe-bidens-granddaughter-naomi-announces-engagement-longtime-beau-peter-neal-3289026?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-bidens-granddaughter-naomi-announces-engagement-longtime-beau-peter-neal-3289026?amp=1",
+      "publishedDateTime": "2021-09-06T03:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-09-06-curley-bad-news-is-nothing-a-little-spin-cant-fix-at-biden-white-house.md",
       "title": "Curley: Bad news is nothing a little spin can’t fix at Biden White House",
       "excerpt": "Where is the White House cat? I only ask because we were specifically cautioned by White House press secretary Jen Psaki that the feline might appear when the going got tough. “I’ve",
@@ -504,7 +556,7 @@
       "originalUrl": "https://www.ft.com/content/bfe24854-3bf2-4ada-b3a2-778b4707c31f",
       "featuredContent": null,
       "highlight": null,
-      "heat": 625,
+      "heat": 645,
       "tags": null,
       "images": [
         {
@@ -665,7 +717,7 @@
       "originalUrl": "https://www.washingtontimes.com/news/2021/aug/31/michael-savage-slams-joe-biden-bum-mook-faker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -1425,49 +1477,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-ezra-kleins-best-defense-of-joe-biden-it-could-be-worse.md",
-      "title": "Ezra Klein’s Best Defense of Joe Biden: ‘It Could Be Worse!’",
-      "excerpt": "Looking at a bad situation that could, and should, have been avoided and defending it solely on the basis that it could have been worse is not analysis. It’s spin.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nationalreview.com/corner/ezra-kleins-best-defense-of-joe-biden-it-could-be-worse/",
-      "originalUrl": "https://www.nationalreview.com/corner/ezra-kleins-best-defense-of-joe-biden-it-could-be-worse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nationalreview.com/wp-content/uploads/2021/08/joe-biden-August24-2021.jpg?fit=1600%2C900",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nationalreview.com/corner/ezra-kleins-best-defense-of-joe-biden-it-could-be-worse/amp/",
-      "cdnAmpWebUrl": "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/ezra-kleins-best-defense-of-joe-biden-it-could-be-worse/amp/",
-      "publishedDateTime": "2021-08-26T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Review",
-        "domain": "nationalreview.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

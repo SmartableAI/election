@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/bfe24854-3bf2-4ada-b3a2-778b4707c31f"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/bfe24854-3bf2-4ada-b3a2-778b4707c31f"
 type: article
 quality: 125
-heat: 625
+heat: 645
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1887921/approval-bidens-pandemic-handling-falls.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "After unrelenting summer, Biden looks to get agenda on track"
+    excerpt: "After a torrent of crises, President Joe Biden is hoping to turn the page on an unrelenting summer and refocus his presidency this fall around his core economic agenda. But the recent cascade of troubles is a sobering reminder of the unpredictable weight of the office and fresh evidence that presidents rarely have the luxury of focusing on just one crisis at a time."
+    publishedDateTime: 2021-09-06T11:36:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/After-unrelenting-summer-Biden-looks-to-get-16438183.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/amp/After-unrelenting-summer-Biden-looks-to-get-16438183.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/After-unrelenting-summer-Biden-looks-to-get-16438183.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 125
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/60/60/21433350/3/400x0.jpg"
+        width: 400
+        height: 266
         isCached: true
   - title: "Joe Biden’s future looks bleak – he’s shamed and endangered the West"
     excerpt: "A broken man THE charge sheet against Joe Biden grows by the day. It’s not just that his reckless, casual disregard for Afghanistan and its ­people led directly to the suicide bomb slaughter of 13"

@@ -2,6 +2,58 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2021-04-01-rep-adam-kinzinger-raises-11-million-for-his-anti-trump-pac-in-first-quarter-and-an-equal-amount-for-his-reelection-fund.md",
+      "title": "Rep. Adam Kinzinger raises $1.1 million for his anti-Trump PAC in first quarter, and an equal amount for his reelection fund",
+      "excerpt": "U.S. Rep. Adam Kinzinger, one of 10 House Republicans who voted to impeach Trump, raises $1.1 million in the first quarter for his anti-Trump political action committee.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/politics/ct-adam-kinzinger-pac-finances-20210401-jhglluotk5hj3ezkydmxx2yzx4-story.html",
+      "originalUrl": "https://www.chicagotribune.com/politics/ct-adam-kinzinger-pac-finances-20210401-jhglluotk5hj3ezkydmxx2yzx4-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/OC4YOxgHLTPntlyCk-6Obhq8MW4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RUQJ3J5JPYQCBSSFXMQTABTKDM.aspx",
+          "width": 1200,
+          "height": 807,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/politics/ct-adam-kinzinger-pac-finances-20210401-jhglluotk5hj3ezkydmxx2yzx4-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/politics/ct-adam-kinzinger-pac-finances-20210401-jhglluotk5hj3ezkydmxx2yzx4-story.html?outputType=amp",
+      "publishedDateTime": "2021-04-01T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-loyalty-or-loyal-opposition-democrats-test-fealty-to-biden-in-special-elections.md",
       "title": "Loyalty or loyal opposition? Democrats test fealty to Biden in special elections",
       "excerpt": "CLEVELAND — Nina Turner, the perpetual public face of Sen. Bernie Sanders' unsuccessful presidential campaigns, once compared voting for Joe Biden to eating a bowl of fecal matter. Now Turner is a top contender for Congress. And her Democratic opponents ...",
@@ -1287,62 +1339,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-two-us-capitol-police-officers-sue-trump-and-say-he-should-be-held-responsible-for-january-6-attack.md",
-      "title": "Two US Capitol Police officers sue Trump and say he should be held responsible for January 6 attack",
-      "excerpt": "Two US Capitol Police officers who say they were injured during the January 6 insurrection are suing former President Donald Trump for inciting the crowd.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fG4p2ZDgw1Q/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fG4p2ZDgw1Q/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 241,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210326163722-01-us-capitol-riots-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/30/politics/us-capitol-police-sue-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/us-capitol-police-sue-trump/index.html",
-      "publishedDateTime": "2021-03-31T04:02:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

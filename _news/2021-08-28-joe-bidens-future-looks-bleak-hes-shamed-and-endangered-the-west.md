@@ -59,6 +59,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "After unrelenting summer, Biden looks to get agenda on track"
+    excerpt: "After a torrent of crises, President Joe Biden is hoping to turn the page on an unrelenting summer and refocus his presidency this fall around his core economic agenda. But the recent cascade of troubles is a sobering reminder of the unpredictable weight of the office and fresh evidence that presidents rarely have the luxury of focusing on just one crisis at a time."
+    publishedDateTime: 2021-09-06T11:36:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/After-unrelenting-summer-Biden-looks-to-get-16438183.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/amp/After-unrelenting-summer-Biden-looks-to-get-16438183.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/After-unrelenting-summer-Biden-looks-to-get-16438183.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 125
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/60/60/21433350/3/400x0.jpg"
+        width: 400
+        height: 266
+        isCached: true
   - title: "Biden aide: US has capacity to evacuate remaining Americans"
     excerpt: "He warned another attack was “highly likely” and the State Department called the threat “specific” and “credible.” The Pentagon said the remaining contingent of U.S. forces at the airport, now numbering fewer than 4,"
     publishedDateTime: 2021-08-29T12:38:00Z

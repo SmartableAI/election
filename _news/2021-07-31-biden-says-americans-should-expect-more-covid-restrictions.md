@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-expect-more-coronavirus-restr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-expect-more-coronavirus-restrictions.amp"
 type: article
 quality: 175
-heat: 535
+heat: 555
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a609792-e0aa-4756-97db-ba0e3880e19a/b30deb6c-d2d1-4a00-b7dc-d68cf274f80d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden's standing among Americans nosedives in wake of rocky Afghanistan exit, COVID surge"
+    excerpt: "President Biden's approval ratings are slipping as he faces a barrage of bipartisan criticism over his handling of the U.S. withdrawal from Afghanistan and with a surge in COVID cases due to the delta variant."
+    publishedDateTime: 2021-09-06T10:52:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/woi5feiPgzU/biden-poll-numbers-nosedive-afghanistan-exit-covid-surge"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-poll-numbers-nosedive-afghanistan-exit-covid-surge.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-poll-numbers-nosedive-afghanistan-exit-covid-surge.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden administration begins flying migrants expelled via Title 42 into Mexico amid COVID fears"
     excerpt: "The Biden administration has started flying migrants removed under Title 42 health protections deep into the Mexican interior amid fears over not just rising border numbers, but also an increase in COVID-19 cases related to the delta variant."

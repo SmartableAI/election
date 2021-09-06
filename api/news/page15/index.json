@@ -2,6 +2,54 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-08-02-abc-political-director-calls-out-biden-admins-confusing-covid-messaging-were-seeing-this-backslide.md",
+      "title": "ABC political director calls out Biden admin's 'confusing' COVID messaging: 'We're seeing this backslide'",
+      "excerpt": "ABC political director and analyst Rick Klein called out the Biden administration for what he called \"mixed messaging\" following the president's new COVID-19 guidance, which Klein argued was a \"backslide\" from comments the president made a few weeks earlier.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/abc-political-director-biden-confusing-covid-messaging",
+      "originalUrl": "https://www.foxnews.com/media/abc-political-director-biden-confusing-covid-messaging",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 78,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-01T12:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-01-alexander-vindman-nsc-staffer-who-sparked-trumps-first-impeachment-tells-his-story.md",
       "title": "Alexander Vindman, NSC staffer who sparked Trump's first impeachment, tells his story",
       "excerpt": "In \"Here, right matters,\" retired Lt. Col. Alexander Vindman talks about reporting Trump's infamous Ukraine call, and the cost to him and his family.",
@@ -481,7 +529,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 535,
+      "heat": 555,
       "tags": null,
       "images": [
         {
@@ -1277,54 +1325,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-inside-lil-waynes-new-154m-la-mansion-he-bought-after-trump-pardon.md",
-      "title": "Inside Lil Wayne’s new $15.4M LA mansion he bought after Trump pardon",
-      "excerpt": "Located next door to Kylie Jenner, the luxury abode was constructed in 2019 and is made up of seven bedrooms and eight bathrooms.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/29/inside-lil-waynes-new-mansion-he-bought-post-trump-pardon/",
-      "originalUrl": "https://nypost.com/2021/07/29/inside-lil-waynes-new-mansion-he-bought-post-trump-pardon/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/lil-wayne-house-hp.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/29/inside-lil-waynes-new-mansion-he-bought-post-trump-pardon/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/29/inside-lil-waynes-new-mansion-he-bought-post-trump-pardon/amp/",
-      "publishedDateTime": "2021-07-29T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

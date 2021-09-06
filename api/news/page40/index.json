@@ -2,6 +2,58 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-06-15-volodymyr-zelenskyy-hopes-joe-biden-will-give-specific-answer-on-supporting-ukraines-nato-bid.md",
+      "title": "Volodymyr Zelenskyy Hopes Joe Biden Will Give 'Specific' Answer on Supporting Ukraine's NATO Bid",
+      "excerpt": "\"I understand that this should be the agreed position of the alliance countries. Nevertheless, we must get clear dates and the likelihood of this for Ukraine,\" said Volodymyr Zelenskyy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/volodymyr-zelenskyy-hopes-joe-biden-will-give-specific-answer-supporting-ukraines-nato-bid-1600492",
+      "originalUrl": "https://www.newsweek.com/volodymyr-zelenskyy-hopes-joe-biden-will-give-specific-answer-supporting-ukraines-nato-bid-1600492",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1820669/ukrainian-president-volodymyr-zelenskyy.jpg",
+          "width": 2500,
+          "height": 1708,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/volodymyr-zelenskyy-hopes-joe-biden-will-give-specific-answer-supporting-ukraines-nato-bid-1600492?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/volodymyr-zelenskyy-hopes-joe-biden-will-give-specific-answer-supporting-ukraines-nato-bid-1600492?amp=1",
+      "publishedDateTime": "2021-06-14T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-06-14-biden-calls-natos-common-defense-pact-a-sacred-obligation-amid-cyberattacks.md",
       "title": "Biden calls NATO's common defense pact 'a sacred obligation' amid cyberattacks",
       "excerpt": "President Joe Biden on Monday called NATO's Article 5 common defense pact \"a sacred obligation\" amid the growing global threat of cyberattacks.",
@@ -1238,62 +1290,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-nominates-carlos-del-toro-as-navy-secretary.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominates-carlos-del-toro-as-navy-secretary.amp",
       "publishedDateTime": "2021-06-12T01:14:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-aocs-aunt-says-blame-puerto-rico-pols-not-trump-for-abuela-misery-report.md",
-      "title": "AOC’s aunt says blame Puerto Rico pols, not Trump, for ‘abuela’ misery: report",
-      "excerpt": "If the grandmother of U.S. Rep. Alexandria Ocasio-Cortez has suffered in Puerto Rico since Hurricane Maria in 2017, then Puerto Rican politicians are to blame, not former President Trump.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UOaDnhAfI88/aocs-aunt-says-blame-puerto-rico-pols-not-trump-for-abuela-misery-report",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UOaDnhAfI88/aocs-aunt-says-blame-puerto-rico-pols-not-trump-for-abuela-misery-report",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e4fd5fb5-83f2-4861-b108-1ba47e4ff053/c6a6343e-88a5-4bfe-a221-9c75c0fadebf/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/aocs-aunt-says-blame-puerto-rico-pols-not-trump-for-abuela-misery-report.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aocs-aunt-says-blame-puerto-rico-pols-not-trump-for-abuela-misery-report.amp",
-      "publishedDateTime": "2021-06-11T21:26:26-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
