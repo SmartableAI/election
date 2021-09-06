@@ -2,6 +2,62 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-06-24-fauci-resisted-trump-directive-to-cancel-virus-research-grant-linked-to-wuhan-lab-book.md",
+      "title": "Fauci resisted Trump directive to cancel virus research grant linked to Wuhan lab: Book",
+      "excerpt": "Anthony Fauci resisted a White House directive in April of last year to cancel a research grant for a nonprofit linked to the Wuhan Institute of Virology, only complying after he learned that former President Donald Trump had explicitly ordered its cancellation, according to an exclusive excerpt from",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/STf92Ecf4-E/fauci-resisted-trump-cancel-virus-research-grant-wuhan-lab",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/STf92Ecf4-E/fauci-resisted-trump-cancel-virus-research-grant-wuhan-lab",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a6b6882a-3fe3-451f-afaf-d997c6272a0f/3c86c9b9-8f29-40ed-b50c-c73b6de58ca8/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/fauci-resisted-trump-cancel-virus-research-grant-wuhan-lab.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fauci-resisted-trump-cancel-virus-research-grant-wuhan-lab.amp",
+      "publishedDateTime": "2021-06-24T03:18:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-24-kennedy-blasts-biden-chicago-became-the-worlds-largest-outdoor-shooting-range-because-of-liberal-policies.md",
       "title": "Kennedy blasts Biden: 'Chicago became the world's largest outdoor shooting range' because of liberal policies",
       "excerpt": "La., sounded off Wednesday on “Hannity” following President Biden's address laying out his plan to tamp down the nationwide crime surge.",
@@ -1571,62 +1627,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-putin-russian-cyberattacks-list-16-off-limits-criticism.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-putin-russian-cyberattacks-list-16-off-limits-criticism.amp",
       "publishedDateTime": "2021-06-18T02:39:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-dr-ronny-jackson-calls-on-biden-to-immediately-undergo-cognitive-test-to-assess-mental-impairment.md",
-      "title": "Dr. Ronny Jackson calls on Biden to immediately undergo cognitive test to assess 'mental impairment'",
-      "excerpt": "Dr. Ronny Jackson, the former White House physician, called on President Biden to immediately undergo a cognitive test so the commander-in-chief can prove to the American public sound mental capabilities. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/puSuFoizBUs/dr-ronny-jackson-calls-on-biden-to-immediately-undergo-cognitive-test-to-assess-mental-impairment",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/puSuFoizBUs/dr-ronny-jackson-calls-on-biden-to-immediately-undergo-cognitive-test-to-assess-mental-impairment",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/ronny-jackson.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-17T20:01:23-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

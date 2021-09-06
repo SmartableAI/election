@@ -348,16 +348,16 @@ related:
   - title: "President Joe Biden Delivers Remarks on the Jobs Report"
     excerpt: "U.S. President Joe Biden delivers remarks on the August jobs report on Friday, September 3, 2021, in the State Dining Room at the White House in Washington DC. Photo by Ken Cedeno/UPI"
     publishedDateTime: 2021-09-03T16:36:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/a03f76a159009539507fef2dd9bc7c70/President-Joe-Biden-Delivers-Remarks-on-the-Jobs-Report/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/9848ad9ce359a149221caf46e352e9f0/President-Joe-Biden-Delivers-Remarks-on-the-Jobs-Report/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/a03f76a159009539507fef2dd9bc7c70/BIDEN-JOBS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/9848ad9ce359a149221caf46e352e9f0/BIDEN-JOBS.jpg"
         width: 650
-        height: 433
+        height: 434
         isCached: true
   - title: "VP Kamala Harris slams China right on their doorstep – here’s what she said"
     excerpt: "During her visit to Singapore on Tuesday, Vice President Kamala Harris railed against China for coercing and intimidating countries in the South China Sea. 'We know that Beijing continues to coerce, to intimidate,"

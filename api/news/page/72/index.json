@@ -2,6 +2,62 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2021-04-08-gop-group-tells-online-donors-give-every-month-or-we-will-have-to-tell-trump-youre-a-defector.md",
+      "title": "GOP group tells online donors: Give every month or 'we will have to tell Trump you're a DEFECTOR' ",
+      "excerpt": "The campaign arm of House Republicans is using an aggressive tactic to push online donors toward committing to monthly contributions, telling them that opting out of having the same amount automatically charged to their credit card or withdrawn from their bank each month is an act of disloyalty toward",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rmj4mQ13sSg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rmj4mQ13sSg/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210319215641-donald-trump-022821-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/08/politics/nrcc-prechecked-boxes-trump-defector/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/nrcc-prechecked-boxes-trump-defector/index.html",
+      "publishedDateTime": "2021-04-08T10:42:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-biden-atf-pick-david-chipman-alarms-gun-rights-groups.md",
       "title": "Biden ATF pick David Chipman alarms gun rights groups",
       "excerpt": "Gun rights groups are expressing concern over President Biden's decision to name gun-control advocate David Chipman to lead the ATF.",
@@ -1315,58 +1371,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-mike-pences-advocacy-group-to-hone-in-unaccompanied-minor-surge-at-border.md",
-      "title": "Mike Pence's Advocacy Group to Hone in Unaccompanied Minor Surge at Border",
-      "excerpt": "Former Vice President Mike Pence launched an advocacy organization on Wednesday that said its goal is to \"promote the pro-freedom policies\" in place during former President Donald Trump's administration and protect those policies from individuals on the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mike-pences-advocacy-group-hone-unaccompanied-minor-surge-border-1581835",
-      "originalUrl": "https://www.newsweek.com/mike-pences-advocacy-group-hone-unaccompanied-minor-surge-border-1581835",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1772843/mike-pence.jpg",
-          "width": 1233,
-          "height": 822,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mike-pences-advocacy-group-hone-unaccompanied-minor-surge-border-1581835?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pences-advocacy-group-hone-unaccompanied-minor-surge-border-1581835?amp=1",
-      "publishedDateTime": "2021-04-07T14:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

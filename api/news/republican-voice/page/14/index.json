@@ -2,6 +2,62 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-06-07-trump-says-sen-manchin-doing-right-thing-by-saying-no-to-ending-the-filibuster.md",
+      "title": "Trump says Sen. Manchin 'doing right thing' by saying 'no' to ending the filibuster",
+      "excerpt": "Former President Donald Trump said he believes that U.S. Sen. Joe Manchin, D-W.Va., is “doing right thing” by saying “no” to ending the filibuster.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YSj5PuUS6rE/trump-says-sen-manchin-doing-right-thing-by-saying-no-to-ending-the-filibuster",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YSj5PuUS6rE/trump-says-sen-manchin-doing-right-thing-by-saying-no-to-ending-the-filibuster",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-says-sen-manchin-doing-right-thing-by-saying-no-to-ending-the-filibuster.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-sen-manchin-doing-right-thing-by-saying-no-to-ending-the-filibuster.amp",
+      "publishedDateTime": "2021-06-07T07:49:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-06-kamala-harris-plane-forced-to-turn-back-because-of-technical-issue.md",
       "title": "Kamala Harris’ plane forced to turn back because of ‘technical issue’",
       "excerpt": "A plane carrying Vice President Kamala Harris was forced to return to Joint Base Andrews in Maryland Sunday about 25 minutes after it had taken off for a trip to Guatemala and Mexico.",
@@ -1586,62 +1642,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-biden-on-memorial-day-asks-americans-to-remember-sacrifice-valor-and-humanity-of-fallen-service-members.md",
-      "title": "Biden on Memorial Day asks Americans to remember 'sacrifice,' 'valor' and 'humanity' of fallen service members",
-      "excerpt": "President Biden in Memorial Day remarks Monday asked Americans not only to remember the \"sacrifice\" and \"valor\" of American military members who died in service but also their \"humanity\" and \"precious life.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o7jHYOUVUhU/biden-remarks-memorial-day-arlington-national-cemetery",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o7jHYOUVUhU/biden-remarks-memorial-day-arlington-national-cemetery",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-remarks-memorial-day-arlington-national-cemetery.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-remarks-memorial-day-arlington-national-cemetery.amp",
-      "publishedDateTime": "2021-05-31T08:07:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

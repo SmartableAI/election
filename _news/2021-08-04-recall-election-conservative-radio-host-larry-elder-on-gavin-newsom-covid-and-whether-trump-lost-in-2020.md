@@ -43,6 +43,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "In red California, Trump’s lies about a rigged election echo among recall supporters"
+    excerpt: "The most fervent support for recalling Gov. Gavin Newsom has come from rural Northern California, where Republicans are still angry about urban liberals, mail-in ballots and the 2020 election"
+    publishedDateTime: 2021-09-06T14:28:00Z
+    webUrl: "https://www.sandiegouniontribune.com/news/california/story/2021-09-06/california-recall-newsom-rural-republicans-trump"
+    ampWebUrl: "https://www.sandiegouniontribune.com/news/california/story/2021-09-06/california-recall-newsom-rural-republicans-trump?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/california/story/2021-09-06/california-recall-newsom-rural-republicans-trump?_amp=true"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 83
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/f68003e/2147483647/strip/true/crop/3979x2661+10+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F25%2Fab%2Fead72e9f455784f53426e5c0376c%2Fap21229293140371.jpg"
+        width: 320
+        height: 214
+        isCached: true
   - title: "Will Donald Trump be spoiler as California GOP seeks Gov. Newsom recall?"
     excerpt: "California could witness a stunning turnabout in a nation of deeply polarized politics if the liberal state dumps Democratic Gov. Gavin Newsom and elects a Republican to fill his job in a"
     publishedDateTime: 2021-08-02T12:35:00Z

@@ -2,49 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2021-07-14-donald-trump-lawyer-jenna-ellis-leaves-gop-official-called-her-election-claims-a-joke.md",
-      "title": "Donald Trump lawyer Jenna Ellis leaves GOP; official called her election claims 'a joke'",
-      "excerpt": "In a November email, a GOP attorney said Ellis and fellow Trump attorney Rudy Giuliani were pushing conspiracy theories about the 2020 election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indystar.com/story/news/politics/2021/07/13/trump-lawyer-jenna-ellis-leaves-gop-official-calls-work-joke/7948904002/",
-      "originalUrl": "https://www.indystar.com/story/news/politics/2021/07/13/trump-lawyer-jenna-ellis-leaves-gop-official-calls-work-joke/7948904002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/09/USAT/fd3632b9-16e8-4d9a-aa74-eb98e1801514-AFP_AFP_8WQ7WV.jpg?auto=webp&crop=5328,2997,x0,y303&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.indystar.com/amp/7948904002",
-      "cdnAmpWebUrl": "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7948904002",
-      "publishedDateTime": "2021-07-13T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indianapolis Star",
-        "domain": "indystar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-07-13-chicago-banker-convicted-in-loans-for-trump-job-scheme.md",
       "title": "Chicago banker convicted in loans-for-Trump job scheme",
       "excerpt": "A Manhattan jury has convicted a Chicago banker of criminal charges for enabling Paul Manafort to get $16 million in loans as the former campaign manager for ex-President Donald Trump helped him get a",
@@ -1530,6 +1487,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-pentagon-undoes-trumps-10b-deal-with-microsoft.md",
+      "title": "Pentagon undoes Trump's $10B deal with Microsoft",
+      "excerpt": "The U.S. Defense Department canceled its $10 billion JEDI cloud-computing project on Tuesday, pulling the Trump-era award to Microsoft Corp and announcing a new contract that pits the big software firm against rival Amazon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/idP6uN?now=true",
+      "originalUrl": "https://www.reuters.com/video/watch/idP6uN?now=true",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ajo.prod.reuters.tv/api/v2/img/60e4b707e4b0653eea188b5e-1625601799258?location=LANDSCAPE",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-06T13:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,49 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2021-03-31-russia-keeps-bribing-foreign-politicians-is-trump-different.md",
+      "title": "Russia Keeps Bribing Foreign Politicians. Is Trump Different?",
+      "excerpt": "In the United States, Donald Trump became a subject of suspicion in 2016 because his relationship to Russia bore many of the obvious hallmarks of these other illicit ties. Here was a right-wing ...",
+      "sourceUrl": null,
+      "webUrl": "https://nymag.com/intelligencer/article/russia-bribe-foreign-leaders-ukraine-trump-putin-mueller.html",
+      "originalUrl": "https://nymag.com/intelligencer/article/russia-bribe-foreign-leaders-ukraine-trump-putin-mueller.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pyxis.nymag.com/v1/imgs/d50/1a5/1a71bafd2392354ec0f03bc027ece4b6e2-trump-putin.1x.rsocial.w1200.jpg",
+          "width": 1200,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nymag.com/intelligencer/amp/article/russia-bribe-foreign-leaders-ukraine-trump-putin-mueller.html",
+      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/russia-bribe-foreign-leaders-ukraine-trump-putin-mueller.html",
+      "publishedDateTime": "2021-03-31T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Magazine",
+        "domain": "nymag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-two-us-capitol-police-officers-sue-trump-and-say-he-should-be-held-responsible-for-january-6-attack.md",
       "title": "Two US Capitol Police officers sue Trump and say he should be held responsible for January 6 attack",
       "excerpt": "Two US Capitol Police officers who say they were injured during the January 6 insurrection are suing former President Donald Trump for inciting the crowd.\n    \n",

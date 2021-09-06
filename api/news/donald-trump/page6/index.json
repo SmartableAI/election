@@ -2,58 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-07-21-why-trump-is-getting-the-hard-sell-from-his-former-spokesman-to-join-a-new-conservative-social-media-site.md",
-      "title": "Why Trump is getting the hard sell from his former spokesman to join a new conservative social media site",
-      "excerpt": "Jason Miller has been urging Trump to use the social network GETTR. \"He was holding it in his hand, and he's like, 'Wow, I haven't done this in a while.'\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/gettr-trump-jason-miller-pitch-price-conservative-social-media-2021-7",
-      "originalUrl": "https://www.businessinsider.com/gettr-trump-jason-miller-pitch-price-conservative-social-media-2021-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fe9fce6edf8920018093d62?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-20T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-07-21-mccarthy-appoints-0-republicans-who-voted-to-impeach-trump-to-capitol-riot-committee.md",
       "title": "McCarthy Appoints 0 Republicans Who Voted to Impeach Trump to Capitol Riot Committee",
       "excerpt": "McCarthy leaving Republicans who voted to impeach Trump off the committee indicates they plan to push back on the idea that Trump is responsible for the riot.",
@@ -1543,6 +1491,49 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-donald-trump-lawyer-jenna-ellis-leaves-gop-official-called-her-election-claims-a-joke.md",
+      "title": "Donald Trump lawyer Jenna Ellis leaves GOP; official called her election claims 'a joke'",
+      "excerpt": "In a November email, a GOP attorney said Ellis and fellow Trump attorney Rudy Giuliani were pushing conspiracy theories about the 2020 election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indystar.com/story/news/politics/2021/07/13/trump-lawyer-jenna-ellis-leaves-gop-official-calls-work-joke/7948904002/",
+      "originalUrl": "https://www.indystar.com/story/news/politics/2021/07/13/trump-lawyer-jenna-ellis-leaves-gop-official-calls-work-joke/7948904002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/09/USAT/fd3632b9-16e8-4d9a-aa74-eb98e1801514-AFP_AFP_8WQ7WV.jpg?auto=webp&crop=5328,2997,x0,y303&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.indystar.com/amp/7948904002",
+      "cdnAmpWebUrl": "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7948904002",
+      "publishedDateTime": "2021-07-13T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indianapolis Star",
+        "domain": "indystar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

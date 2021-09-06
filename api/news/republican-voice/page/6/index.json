@@ -2,6 +2,62 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-07-27-cops-blame-trump-republicans-for-allegedly-inspiring-and-then-downplaying-jan-6-capitol-attack.md",
+      "title": "Cops blame Trump, Republicans for allegedly inspiring and then downplaying Jan. 6 Capitol attack",
+      "excerpt": "Four police officers who defended the Capitol from the pro-Trump mob that invaded it on Jan. 6 criticized the former president and Republicans who are loyal to him for allegedly inspiring then downplaying the attack, asking members of the select committee investigating Jan. 6 to get to the bottom of",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZnroQIm17JE/jan-6-commission-hearing-cops-trump-republicans-capitol-attack",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZnroQIm17JE/jan-6-commission-hearing-cops-trump-republicans-capitol-attack",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 222,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/jan-6-commission-hearing-cops-trump-republicans-capitol-attack.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jan-6-commission-hearing-cops-trump-republicans-capitol-attack.amp",
+      "publishedDateTime": "2021-07-27T13:17:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-trump-lawmakers-honor-sen-mike-enzi-after-sudden-death-from-bike-accident.md",
       "title": "Trump, lawmakers honor Sen. Mike Enzi after sudden death from bike accident",
       "excerpt": "From former President Donald Trump to Rep. Liz Cheney to Sen. Tim Kaine, many on both sides of the aisle remembered the life and accomplishments of Senator Mike Enzi.",
@@ -1544,62 +1600,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/former-trump-adviser-tom-barrack-pleading-not-guilty-united-arab-emirates-agent.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-trump-adviser-tom-barrack-pleading-not-guilty-united-arab-emirates-agent.amp",
       "publishedDateTime": "2021-07-20T16:08:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-larry-elder-says-california-law-disqualifying-him-from-recall-ballot-was-designed-to-get-trumps-tax-returns.md",
-      "title": "Larry Elder says California law disqualifying him from recall ballot was designed to get Trump's tax returns",
-      "excerpt": "Conservative talk radio host Larry Elder says the California law used to disqualify him from being on the ballot for the recall election against Gov. Gavin Newsom was originally passed by state lawmakers to force President Donald Trump to turn over his tax returns if he wanted to qualify for the 2020",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hhUffR9mR8w/larry-elder-california-law-disqualifying-recall-ballot-trump-tax-returns",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hhUffR9mR8w/larry-elder-california-law-disqualifying-recall-ballot-trump-tax-returns",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9294d03c-d956-497a-9843-9db364346e9c/2fc26e77-ec70-4ee5-a589-f538e0a60416/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/larry-elder-california-law-disqualifying-recall-ballot-trump-tax-returns.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/larry-elder-california-law-disqualifying-recall-ballot-trump-tax-returns.amp",
-      "publishedDateTime": "2021-07-20T15:16:54-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

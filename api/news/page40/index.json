@@ -2,6 +2,62 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-06-14-mcconnell-says-highly-unlikely-he-would-let-biden-fill-a-supreme-court-vacancy-in-2024-if-gop-wins-back-senate.md",
+      "title": "McConnell says 'highly unlikely' he would let Biden fill a Supreme Court vacancy in 2024 if GOP wins back Senate",
+      "excerpt": "Senate Minority Leader Mitch McConnell said on Monday that if his party regains the majority in 2022 it's \"highly unlikely\" he would let President Joe Biden confirm a Supreme Court vacancy if one opened up in 2024, and was non-committal when asked about an opening at the end of 2023.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-8by_Xs0Zx8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-8by_Xs0Zx8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210527142427-01-mcconnell-0525-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/14/politics/mcconnell-scotus-nominee-biden-2024/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/14/politics/mcconnell-scotus-nominee-biden-2024/index.html",
+      "publishedDateTime": "2021-06-14T10:53:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-15-volodymyr-zelenskyy-hopes-joe-biden-will-give-specific-answer-on-supporting-ukraines-nato-bid.md",
       "title": "Volodymyr Zelenskyy Hopes Joe Biden Will Give 'Specific' Answer on Supporting Ukraine's NATO Bid",
       "excerpt": "\"I understand that this should be the agreed position of the alliance countries. Nevertheless, we must get clear dates and the likelihood of this for Ukraine,\" said Volodymyr Zelenskyy.",
@@ -1258,62 +1314,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-biden-pick-for-navy-secretary-is-cuban-born-carlos-del-toro-a-22-year-navy-veteran.md",
-      "title": "Biden pick for Navy secretary is Cuban-born Carlos Del Toro, a 22-year Navy veteran",
-      "excerpt": "President Biden said Friday he plans to nominate Carlos Del Toro for secretary of the Navy. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g7Vt4u_iRGA/biden-nominates-carlos-del-toro-as-navy-secretary",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g7Vt4u_iRGA/biden-nominates-carlos-del-toro-as-navy-secretary",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/535d031e-e499-41ed-984b-bf132bd69c5b/7a7138b9-bda4-45c9-94ec-9d533682eec7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-nominates-carlos-del-toro-as-navy-secretary.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominates-carlos-del-toro-as-navy-secretary.amp",
-      "publishedDateTime": "2021-06-12T01:14:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

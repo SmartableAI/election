@@ -2,6 +2,63 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-06-30-murkowski-has-the-moxie-to-take-on-trump-will-she.md",
+      "title": "Murkowski has the moxie to take on Trump. Will she?",
+      "excerpt": "The Alaska Republican swatted her GOP challenger, boosted by the ex-president, as \"somebody with a pulse.\" But she's also mum about reelection.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/06/30/murkowski-trump-alaska-senate-race-497043",
+      "originalUrl": "https://www.politico.com/news/2021/06/30/murkowski-trump-alaska-senate-race-497043",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/e6/5d/1655a65e476691500c2e656a3dd3/gettyimages-1233506060-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-cnn-msnbc-ratings-drop-because-trump-no-longer-is-president-expert-says.md",
       "title": "CNN, MSNBC Ratings Drop Because 'Trump No Longer Is President,' Expert Says",
       "excerpt": "CNN and MSNBC’s viewership fell in the second quarter of 2021 because Donald Trump no longer sits in the White House, an expert said Tuesday. William A. Jacobson, a professor at Cornell Law School and a media critic,",
@@ -1294,62 +1351,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-bidens-frantic-weekend-saves-infrastructure-deal-but-leaves-him-on-thinner-political-ice.md",
-      "title": "Biden's frantic weekend saves infrastructure deal but leaves him on thinner political ice",
-      "excerpt": "That Joe Biden's cherished bipartisan infrastructure plan was nearly destroyed by a few of his own ill-chosen words highlights both the fragility of the deal and his own hopes for a productive domestic presidency.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nr8W8lRWC7w/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nr8W8lRWC7w/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 226,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210627200716-joe-biden-0625-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/28/politics/joe-biden-republicans-infrastructure-iraq-congress-aoc/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/28/politics/joe-biden-republicans-infrastructure-iraq-congress-aoc/index.html",
-      "publishedDateTime": "2021-06-28T04:08:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }

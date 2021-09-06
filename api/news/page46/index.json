@@ -2,6 +2,63 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2021-06-03-leo-terrell-somebody-needs-to-tell-joe-biden-hes-a-racist.md",
+      "title": "Leo Terrell: 'Somebody needs to tell Joe Biden he's a racist'",
+      "excerpt": "Civil rights attorney Leo Terrell said Wednesday that President Joe Biden offended African Americans when he told a crowd observing the 100th anniversary of the Tulsa massacre that Black businessmen and women don’t have lawyers to represent them or their businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/leo-terrell-somebody-tell-joe-biden-hes-racist",
+      "originalUrl": "https://www.foxnews.com/media/leo-terrell-somebody-tell-joe-biden-hes-racist",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b9cba83e-eb9a-49f7-a8e5-fa4a98e092cc/a43fb3a0-b569-487b-b358-1d4ae1101c69/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/leo-terrell-somebody-tell-joe-biden-hes-racist.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/leo-terrell-somebody-tell-joe-biden-hes-racist.amp",
+      "publishedDateTime": "2021-06-02T20:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-trump-doj-seized-phone-records-of-new-york-times-reporters.md",
       "title": "Trump DOJ seized phone records of New York Times reporters",
       "excerpt": "The New York Times reported on Wednesday that the Justice Department under former President Trump Donald Trump RNC warns it will advise presidential candidates against future debates if panel doesn't make changes Washington Post issues correction on 2020 report on Tom Cotton,",
@@ -1286,63 +1343,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-bongino-torches-embarrassing-mainstream-media-for-covering-up-hunter-biden-wuhan-lab-stories.md",
-      "title": "Bongino torches 'embarrassing' mainstream media for covering up Hunter Biden, Wuhan lab stories",
-      "excerpt": "Fox News contributor Dan Bongino on Tuesday ripped the media for its lack of coverage of the Hunter Biden scandal among other issues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/bongino-hunter-biden-wuhan-lab-ignored",
-      "originalUrl": "https://www.foxnews.com/media/bongino-hunter-biden-wuhan-lab-ignored",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/bongino-hunter-biden-wuhan-lab-ignored.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/bongino-hunter-biden-wuhan-lab-ignored.amp",
-      "publishedDateTime": "2021-06-01T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

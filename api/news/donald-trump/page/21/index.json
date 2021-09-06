@@ -2,58 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2021-04-01-donald-trump-video-clip-removed-from-facebook-in-line-with-block.md",
-      "title": "Donald Trump video clip removed from Facebook ‘in line with block’",
-      "excerpt": "Former US president has been banned from the platform since early January after the violent insurrection of the Capitol Last modified on Wed 31 Mar 2021 15.23 EDT Facebook on Wednesday removed a clip of an interview with Donald Trump from its platform ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2021/mar/31/facebook-donald-trump-video-clip-removed",
-      "originalUrl": "https://www.theguardian.com/technology/2021/mar/31/facebook-donald-trump-video-clip-removed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/28e00ff094d36e2024a4290eb9a4e5e7fd8e45a4/0_370_5888_3532/master/5888.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6bed93b397f46da6bf0ae5f0dade490e",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2021/mar/31/facebook-donald-trump-video-clip-removed",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/mar/31/facebook-donald-trump-video-clip-removed",
-      "publishedDateTime": "2021-03-31T11:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-04-01-ivanka-trumps-flagship-policy-program-slammed-by-government-auditors.md",
       "title": "Ivanka Trump's flagship policy program slammed by government auditors",
       "excerpt": "The Government Accountability Office has issued a damning report about Ivanka Trump’s pet project during her time as an adviser to her father, President Donald Trump. As Ivanka Trump traveled the world talking up the Women’s Global Development and ...",

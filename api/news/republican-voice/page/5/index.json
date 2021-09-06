@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-03-biden-says-voting-system-under-assault-protecting-it-is-single-most-important-thing.md",
+      "title": "Biden says voting system ‘under assault, protecting it is ‘single most important thing’",
+      "excerpt": "President Biden on Monday warned his fellow Democrats that the voting system was under assault and protecting it was the “single most important thing to do.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xTimD-B1Jao/biden-voting-system-under-assault-protecting-single-most-important-thing",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xTimD-B1Jao/biden-voting-system-under-assault-protecting-single-most-important-thing",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b878e947-4a88-43a4-b2b2-3116ef63ccd5/e836207c-1f0f-4cc6-9963-c0a64f5254fe/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-voting-system-under-assault-protecting-single-most-important-thing.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-voting-system-under-assault-protecting-single-most-important-thing.amp",
+      "publishedDateTime": "2021-08-02T19:09:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-reporter-to-psaki-is-biden-concerned-that-burden-of-vaccine-id-will-fall-heaviest-on-minorities.md",
       "title": "Reporter to Psaki: Is Biden \"Concerned\" That \"Burden\" Of Vaccine ID Will Fall Heaviest On Minorities?",
       "excerpt": "White House press secretary Jen Psaki is asked about the burden put on African-Americans and other minority communities by mandating proof of vaccination by 'Daily Caller' White House correspondent Shelby Talcott at Tuesday's press briefing.",
@@ -1566,62 +1622,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/america-first-legal-biden-open-border-policies.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/america-first-legal-biden-open-border-policies.amp",
       "publishedDateTime": "2021-07-27T14:48:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-cops-blame-trump-republicans-for-allegedly-inspiring-and-then-downplaying-jan-6-capitol-attack.md",
-      "title": "Cops blame Trump, Republicans for allegedly inspiring and then downplaying Jan. 6 Capitol attack",
-      "excerpt": "Four police officers who defended the Capitol from the pro-Trump mob that invaded it on Jan. 6 criticized the former president and Republicans who are loyal to him for allegedly inspiring then downplaying the attack, asking members of the select committee investigating Jan. 6 to get to the bottom of",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZnroQIm17JE/jan-6-commission-hearing-cops-trump-republicans-capitol-attack",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZnroQIm17JE/jan-6-commission-hearing-cops-trump-republicans-capitol-attack",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 222,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/jan-6-commission-hearing-cops-trump-republicans-capitol-attack.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jan-6-commission-hearing-cops-trump-republicans-capitol-attack.amp",
-      "publishedDateTime": "2021-07-27T13:17:20-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

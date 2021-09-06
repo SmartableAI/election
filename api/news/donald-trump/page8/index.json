@@ -2,58 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2021-07-07-pentagon-undoes-trumps-10b-deal-with-microsoft.md",
-      "title": "Pentagon undoes Trump's $10B deal with Microsoft",
-      "excerpt": "The U.S. Defense Department canceled its $10 billion JEDI cloud-computing project on Tuesday, pulling the Trump-era award to Microsoft Corp and announcing a new contract that pits the big software firm against rival Amazon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/idP6uN?now=true",
-      "originalUrl": "https://www.reuters.com/video/watch/idP6uN?now=true",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ajo.prod.reuters.tv/api/v2/img/60e4b707e4b0653eea188b5e-1625601799258?location=LANDSCAPE",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-06T13:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-07-07-nj-devils-owners-replacing-trump-organization-as-wollman-rink-operator.md",
       "title": "NJ Devils owners replacing Trump Organization as Wollman Rink operator",
       "excerpt": "The owners of the New Jersey Devils and two partners have been selected to run Wollman Rink in Central Park after the city booted its long-term operator, the Trump Organization.",
@@ -1550,6 +1498,58 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-02-in-florida-biden-woos-trump-ally-desantis-in-unity-pitch.md",
+      "title": "In Florida, Biden woos Trump ally DeSantis in unity pitch",
+      "excerpt": "Sitting next to one of his fiercest critics on Thursday, President Joe Biden managed to find a silver lining in the grave tragedy that brought them together.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/topNews/idUSKCN2E75KA?edition-redirect=in",
+      "originalUrl": "https://www.reuters.com/article/topNews/idUSKCN2E75KA?edition-redirect=in",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210701&t=2&i=1567628746&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH602ZN",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2E75KA",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E75KA",
+      "publishedDateTime": "2021-07-01T17:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

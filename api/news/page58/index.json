@@ -2,6 +2,62 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2021-05-07-sara-carter-exclusive-biden-border-policies-fueling-sprawling-cartel-linked-pot-growing-operations-far-inland.md",
+      "title": "Sara Carter exclusive: Biden border policies fueling sprawling cartel-linked pot-growing operations far inland",
+      "excerpt": "In a special “Hannity” investigation, investigative journalist Sara Carter traveled to the Antelope Valley around Lancaster, Calif., where – hundreds of miles away from the Mexican border – the Biden border crisis is starkly affecting everyday Americans as cartel-linked marijuana growing operations have",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rhn84YRy62Q/sara-carter-exclusive-biden-border-crisis-fueling-sprawling-cartel-linked-pot-growing-operations-far-inland",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rhn84YRy62Q/sara-carter-exclusive-biden-border-crisis-fueling-sprawling-cartel-linked-pot-growing-operations-far-inland",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5c5fb830-de6d-4edd-bcd9-b6febbed1e9b/136d7057-b82d-4475-818a-f92ba76c95f2/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/sara-carter-exclusive-biden-border-crisis-fueling-sprawling-cartel-linked-pot-growing-operations-far-inland.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sara-carter-exclusive-biden-border-crisis-fueling-sprawling-cartel-linked-pot-growing-operations-far-inland.amp",
+      "publishedDateTime": "2021-05-06T20:31:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-07-fec-drops-inquiry-into-trump-hush-money-payment-to-stormy-daniels.md",
       "title": "FEC drops inquiry into Trump hush-money payment to Stormy Daniels",
       "excerpt": "The case stems from allegations that former president Donald Trump ordered his personal lawyer at the time, Michael Cohen, to make a hush-money payment to adult-film actress Stormy Daniels.",
@@ -1305,58 +1361,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-biden-expected-to-speak-on-shift-in-us-vaccine-distribution-strategy-live.md",
-      "title": "Biden expected to speak on shift in US vaccine distribution strategy – live",
-      "excerpt": "White House reportedly to deliver unused doses to other states as part of ‘use it or lose it’ strategy – follow all the day’s politics news",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest?page=with:block-60916c278f08235e51f1e2ec",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest?page=with:block-60916c278f08235e51f1e2ec",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/cca8fd69fd929c563cf5d0423303d1d11a51c924/0_206_3900_2340/master/3900.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1055a8a67a46d0831699cf04c784163a",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest",
-      "publishedDateTime": "2021-05-04T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

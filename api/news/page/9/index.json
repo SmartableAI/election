@@ -2,6 +2,62 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-08-17-bidens-speech-was-disingenuous-al-qaeda-will-return-former-reagan-official-says.md",
+      "title": "Biden's speech was 'disingenuous,' al Qaeda will return, former Reagan official says",
+      "excerpt": "A former assistant defense secretary warned that al Qaeda “will again show its viper head” and said President Biden was “disingenuous” and during his address Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vm1w8DksK20/afghanistan-joe-biden-speech-al-qaeda-bing-west",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vm1w8DksK20/afghanistan-joe-biden-speech-al-qaeda-bing-west",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8e82f43d-89f2-4db2-9e4b-d4644345ea63/742e9e0f-63e5-4f77-8d90-c8d33b7f5c93/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/afghanistan-joe-biden-speech-al-qaeda-bing-west.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/afghanistan-joe-biden-speech-al-qaeda-bing-west.amp",
+      "publishedDateTime": "2021-08-17T04:02:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-pence-convenes-gop-donors-luminaries-at-jackson-hole-retreat.md",
       "title": "Pence convenes GOP donors, luminaries at Jackson Hole retreat",
       "excerpt": "Former Vice President Mike Pence is ramping up his donor outreach as he weighs a 2024 White House bid. Pence held a donor retreat late last week benefiting his newly formed nonprofit group ...",
@@ -1228,62 +1284,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-how-the-2020-census-explains-donald-trump.md",
-      "title": "How the 2020 census explains Donald Trump ",
-      "excerpt": "Donald Trump got it.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lvBgHNT3FmE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lvBgHNT3FmE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 435,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210811193752-trump-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/13/politics/how-the-2020-census-explains-donald-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/13/politics/how-the-2020-census-explains-donald-trump/index.html",
-      "publishedDateTime": "2021-08-13T04:42:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

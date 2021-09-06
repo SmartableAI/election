@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-02-trump-justices-cast-crucial-votes-on-texas-abortion-ban-undermining-roe-v-wade.md",
+      "title": "Trump Justices Cast Crucial Votes on Texas Abortion Ban Undermining Roe v. Wade",
+      "excerpt": "The Supreme Court has declined to prevent a new law in Texas that severely restricts abortion access from coming into effect. The law will effectively ban all abortions in the state after around six weeks of pregnancy in what reproductive rights advocates view as a blow to the precedent set in Roe v.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-justices-cast-crucial-votes-texas-abortion-ban-undermining-roe-v-wade-1625266",
+      "originalUrl": "https://www.newsweek.com/trump-justices-cast-crucial-votes-texas-abortion-ban-undermining-roe-v-wade-1625266",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 241,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1885475/trump-appointed-justices-shown-composite-image.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-justices-cast-crucial-votes-texas-abortion-ban-undermining-roe-v-wade-1625266?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-justices-cast-crucial-votes-texas-abortion-ban-undermining-roe-v-wade-1625266?amp=1",
+      "publishedDateTime": "2021-09-02T01:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-09-02-things-are-not-working-well-for-the-trump-picked-pandemic-relief-watchdog.md",
       "title": "Things are 'not working well' for the Trump-picked pandemic relief watchdog",
       "excerpt": "\"Everybody kind of expects you to fail. It's kind of set up to fail,\" Brian Miller told Insider.",
@@ -1271,63 +1323,6 @@
         "name": "New York Post",
         "domain": "nypost.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-31-cnn-analyst-slammed-for-blaming-trump-for-collapsed-republican-trust-in-national-media-simply-breathtaking.md",
-      "title": "CNN analyst slammed for blaming Trump for collapsed Republican trust in national media: 'Simply breathtaking'",
-      "excerpt": "CNN analyst and New Yorker writer Susan Glasser blamed former President Donald Trump's rhetoric for the plummet in GOP trust in national media over the past five years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/cnn-analyst-slammed-for-blaming-trump-for-collapsed-republican-trust-in-national-media-simply-breathtaking",
-      "originalUrl": "https://www.foxnews.com/media/cnn-analyst-slammed-for-blaming-trump-for-collapsed-republican-trust-in-national-media-simply-breathtaking",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b5aa6c85-14b2-4ad2-9440-675bda7c16be/bf09b414-0396-40a2-ad41-ceb1fd8f2354/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/cnn-analyst-slammed-for-blaming-trump-for-collapsed-republican-trust-in-national-media-simply-breathtaking.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-analyst-slammed-for-blaming-trump-for-collapsed-republican-trust-in-national-media-simply-breathtaking.amp",
-      "publishedDateTime": "2021-08-31T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

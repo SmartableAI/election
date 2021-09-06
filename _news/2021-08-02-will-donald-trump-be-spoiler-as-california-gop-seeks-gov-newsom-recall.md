@@ -43,6 +43,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "In red California, Trump’s lies about a rigged election echo among recall supporters"
+    excerpt: "The most fervent support for recalling Gov. Gavin Newsom has come from rural Northern California, where Republicans are still angry about urban liberals, mail-in ballots and the 2020 election"
+    publishedDateTime: 2021-09-06T14:28:00Z
+    webUrl: "https://www.sandiegouniontribune.com/news/california/story/2021-09-06/california-recall-newsom-rural-republicans-trump"
+    ampWebUrl: "https://www.sandiegouniontribune.com/news/california/story/2021-09-06/california-recall-newsom-rural-republicans-trump?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/california/story/2021-09-06/california-recall-newsom-rural-republicans-trump?_amp=true"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 83
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/f68003e/2147483647/strip/true/crop/3979x2661+10+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F25%2Fab%2Fead72e9f455784f53426e5c0376c%2Fap21229293140371.jpg"
+        width: 320
+        height: 214
+        isCached: true
   - title: "Recall election: Conservative radio host Larry Elder on Gavin Newsom, COVID and whether Trump lost in 2020"
     excerpt: "Conservative radio host Larry Elder says even if he wins in his bid to replace Gov. Gavin Newsom he is under no illusion that California will become a “libertarian utopia.”"
     publishedDateTime: 2021-08-03T19:49:00Z

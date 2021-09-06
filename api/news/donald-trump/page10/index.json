@@ -2,58 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2021-06-25-trump-told-top-us-general-to-crack-skulls-of-racism-protesters-book-claims.md",
-      "title": "Trump told top US general to ‘crack skulls’ of racism protesters, book claims",
-      "excerpt": "Then president also said of demonstrators ‘Just shoot them’ but Gen Mark Milley resisted Trump’s calls for violent response",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jun/25/donald-trump-general-mark-milley-crack-skulls",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/25/donald-trump-general-mark-milley-crack-skulls",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/7f928df6f8d9c994c35e40b4af0a26139a2d1bd7/0_16_4558_2735/master/4558.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=240a818886c499d6e784e070ee8e4c1a",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/25/donald-trump-general-mark-milley-crack-skulls",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/25/donald-trump-general-mark-milley-crack-skulls",
-      "publishedDateTime": "2021-06-25T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-06-25-devastation-in-south-florida-the-complicated-dance-between-desantis-and-trump-democrats-aging-problem-rip-famus-frederick-humphries.md",
       "title": "Devastation in South Florida — The complicated dance between DeSantis and Trump — Democrats' aging problem — R.I.P. FAMU's Frederick Humphries",
       "excerpt": "The search for dozens of missing people — including the grim task of recovering bodies — goes on amid the rubble. President Joe Biden shortly after midnight declared a state of emergency exists and ordered the federal government to offer assistance to local and state officials.",
@@ -1541,6 +1489,58 @@
       "ampWebUrl": "https://www.newsweek.com/trumps-visits-new-jersey-golf-course-cost-taxpayers-over-24m-four-years-1602281?amp=1",
       "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trumps-visits-new-jersey-golf-course-cost-taxpayers-over-24m-four-years-1602281?amp=1",
       "publishedDateTime": "2021-06-19T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-19-mike-lindell-cites-divine-appointments-prophets-words-to-explain-affinity-for-trump.md",
+      "title": "Mike Lindell Cites 'Divine Appointments,' Prophet's Words to Explain Affinity for Trump",
+      "excerpt": "The MyPillow CEO claimed Trump \"will be in office by this fall\" after a July \"cyber symposium\" he plans to hold.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mike-lindell-cites-divine-appointments-prophets-words-explain-affinity-trump-1602266",
+      "originalUrl": "https://www.newsweek.com/mike-lindell-cites-divine-appointments-prophets-words-explain-affinity-trump-1602266",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1825816/mike-lindell.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mike-lindell-cites-divine-appointments-prophets-words-explain-affinity-trump-1602266?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-lindell-cites-divine-appointments-prophets-words-explain-affinity-trump-1602266?amp=1",
+      "publishedDateTime": "2021-06-19T08:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Newsweek",

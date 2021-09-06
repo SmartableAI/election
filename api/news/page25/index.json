@@ -2,6 +2,58 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-07-12-biden-releases-statement-on-cuba-protests-we-stand-with-the-cuban-people.md",
+      "title": "Biden releases statement on Cuba protests: 'We stand with the Cuban people'",
+      "excerpt": "President Joe Biden on Monday released a statement in solidarity with the people of Cuba who marched on the island Sunday to protest leadership amid the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/biden-releases-statement-cuba-protests-stand-cuban-people/story?id=78798057",
+      "originalUrl": "https://abcnews.go.com/Politics/biden-releases-statement-cuba-protests-stand-cuban-people/story?id=78798057",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 203,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/biden-bowser-gty-ps-210712_1626112643191_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/biden-releases-statement-cuba-protests-stand-cuban-people/story?id=78798057",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-releases-statement-cuba-protests-stand-cuban-people/story?id=78798057",
+      "publishedDateTime": "2021-07-12T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-12-vp-kamala-harris-to-help-raise-funds-for-gov-whitmer-during-detroit-visit.md",
       "title": "VP Kamala Harris to help raise funds for Gov. Whitmer during Detroit visit",
       "excerpt": "Vice President Harris is scheduled to fly to Detroit late Monday morning and depart shortly after a series of afternoon events at the TCF Center.",
@@ -1293,58 +1345,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-more-competition-biden-signs-order-targeting-big-business.md",
-      "title": "More competition: Biden signs order targeting big business",
-      "excerpt": "President Joe Biden has signed an executive order that targets what he says are anticompetitive practices in tech, health care and other parts of the economy",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/biden-set-sign-competition-order-targeting-big-business-78753294",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/biden-set-sign-competition-order-targeting-big-business-78753294",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_a7e2d33918c74bc9a985b5ab24747cce_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/biden-set-sign-competition-order-targeting-big-business-78753294",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-set-sign-competition-order-targeting-big-business-78753294",
-      "publishedDateTime": "2021-07-09T14:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],
