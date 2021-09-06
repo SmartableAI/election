@@ -2,6 +2,144 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-07-29-unfairly-penalized-residents-senators-in-northern-border-states-question-bidens-border-closure.md",
+      "title": "'Unfairly penalized': Residents, senators in northern border states question Biden's border closure",
+      "excerpt": "With Canada's vaccination rates higher now than in US, some are wondering if continued closure is more about the southern border than northern one.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/07/28/biden-canadian-border-closing-southern-border/5401156001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/07/28/biden-canadian-border-closing-southern-border/5401156001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-28T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-brandi-love-wants-ron-desantis-to-run-in-2024-if-donald-trump-doesnt.md",
+      "title": "Brandi Love Wants Ron DeSantis To Run in 2024 if Donald Trump Doesn't",
+      "excerpt": "\"Even I can admit that Donald Trump has an obnoxious arrogance about him that rubs some people the wrong way,\" the adult film actress told Newsweek.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/brandi-love-ron-desantis-2024-president-donald-trump-1613973",
+      "originalUrl": "https://www.newsweek.com/brandi-love-ron-desantis-2024-president-donald-trump-1613973",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1857361/ron-desantis-brandi-love.jpg",
+          "width": 1800,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/brandi-love-ron-desantis-2024-president-donald-trump-1613973?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/brandi-love-ron-desantis-2024-president-donald-trump-1613973?amp=1",
+      "publishedDateTime": "2021-07-28T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-joe-biden-in-the-lehigh-valley-spectators-waiting-for-a-glimpse-of-air-force-one.md",
+      "title": "Joe Biden in the Lehigh Valley: Spectators waiting for a glimpse of Air Force One",
+      "excerpt": "It’s a beautiful sunny day in the Lehigh Valley to try and catch a glimpse of Air Force One. Millie Wescoe traveled from her Bethlehem home to a clear vantage point along Race Street, happy she happened to be off of work on the day President Joe Biden decided to visit the Valley.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lehighvalleylive.com/lehigh-county/2021/07/joe-biden-in-the-lehigh-valley-watchers-waiting-for-a-glimpse-of-air-force-one.html",
+      "originalUrl": "https://www.lehighvalleylive.com/lehigh-county/2021/07/joe-biden-in-the-lehigh-valley-watchers-waiting-for-a-glimpse-of-air-force-one.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5FHQAUNXUVA7FCN4MK54GJMQ2E.JPG",
+          "width": 3300,
+          "height": 1804,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.lehighvalleylive.com/lehigh-county/2021/07/joe-biden-in-the-lehigh-valley-watchers-waiting-for-a-glimpse-of-air-force-one.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-lehighvalleylive-com.cdn.ampproject.org/c/s/www.lehighvalleylive.com/lehigh-county/2021/07/joe-biden-in-the-lehigh-valley-watchers-waiting-for-a-glimpse-of-air-force-one.html?outputType=amp",
+      "publishedDateTime": "2021-07-28T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lehigh Valley Live",
+        "domain": "lehighvalleylive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-audio-shows-a-profanity-laced-voicemail-that-dc-officer-michael-fanone-got-from-a-trump-supporter-while-he-was-testifying-to-congress.md",
       "title": "Audio shows a profanity-laced voicemail that DC officer Michael Fanone got from a Trump supporter while he was testifying to Congress",
       "excerpt": "The DC police officer had told Congress on Tuesday that he was beaten unconscious and almost killed by Capitol rioters.",
@@ -1160,158 +1298,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-sarah-huckabee-sanders-urges-people-to-get-the-trump-vaccine.md",
-      "title": "Sarah Huckabee Sanders urges people to get the ‘Trump vaccine’",
-      "excerpt": "Former White House press secretary Sarah Huckabee Sanders acknowledged Sunday that she was inoculated against COVID-19 “months ago” — with the “Trump vaccine.”",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/25/sarah-huckabee-sanders-urges-people-to-get-the-trump-vaccine/",
-      "originalUrl": "https://nypost.com/2021/07/25/sarah-huckabee-sanders-urges-people-to-get-the-trump-vaccine/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/sarah-huckabee-sanders.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/25/sarah-huckabee-sanders-urges-people-to-get-the-trump-vaccine/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/25/sarah-huckabee-sanders-urges-people-to-get-the-trump-vaccine/amp/",
-      "publishedDateTime": "2021-07-25T17:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-biden-pathway-to-citizenship-in-reconciliation-package-remains-to-be-seen.md",
-      "title": "Biden: Pathway to citizenship in reconciliation package 'remains to be seen'",
-      "excerpt": "President Biden on Sunday said it “remains to be seen” if a pathway to citizenship will be included in the Democrats’ forthcoming reconciliation package.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/564754-biden-pathway-to-citizenship-in-reconciliation-package-remains-to-be",
-      "originalUrl": "https://thehill.com/homenews/administration/564754-biden-pathway-to-citizenship-in-reconciliation-package-remains-to-be",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/article_images/bidenjoe_072121getty_fox.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/564754-biden-pathway-to-citizenship-in-reconciliation-package-remains-to-be?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/564754-biden-pathway-to-citizenship-in-reconciliation-package-remains-to-be?amp",
-      "publishedDateTime": "2021-07-25T14:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-watergate-reporter-carl-bernstein-calls-donald-trump-a-war-criminal.md",
-      "title": "Watergate Reporter Carl Bernstein Calls Donald Trump a 'War Criminal'",
-      "excerpt": "Political analyst and Watergate reporter Carl Bernstein called former President Donald Trump a \"war criminal\" on CNN's Reliable Sources Sunday. He said people need to view Trump in \"a different context,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/watergate-reporter-carl-bernstein-calls-donald-trump-war-criminal-1612914",
-      "originalUrl": "https://www.newsweek.com/watergate-reporter-carl-bernstein-calls-donald-trump-war-criminal-1612914",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1854570/carl-bernstein.jpg",
-          "width": 3000,
-          "height": 2023,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/watergate-reporter-carl-bernstein-calls-donald-trump-war-criminal-1612914?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/watergate-reporter-carl-bernstein-calls-donald-trump-war-criminal-1612914?amp=1",
-      "publishedDateTime": "2021-07-25T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

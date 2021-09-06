@@ -2,6 +2,149 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-28-franklin-delano-roosevelt-vs-john-f-kennedy-vs-joe-robinette-biden.md",
+      "title": "Franklin Delano Roosevelt vs. John F. Kennedy vs. Joe Robinette Biden",
+      "excerpt": "After the deaths of 13 U.S. troops and at least 90 Afghans outside the Kabul airport, Joe Biden gave a speech from a position of weakness.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailysignal.com/2021/08/27/franklin-delano-roosevelt-vs-john-f-kennedy-vs-joe-robinette-biden/",
+      "originalUrl": "https://www.dailysignal.com/2021/08/27/franklin-delano-roosevelt-vs-john-f-kennedy-vs-joe-robinette-biden/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailysignal.com/wp-content/uploads/Biden-2.gif",
+          "width": 1250,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailysignal.com/2021/08/27/franklin-delano-roosevelt-vs-john-f-kennedy-vs-joe-robinette-biden/amp/",
+      "cdnAmpWebUrl": "https://www-dailysignal-com.cdn.ampproject.org/c/s/www.dailysignal.com/2021/08/27/franklin-delano-roosevelt-vs-john-f-kennedy-vs-joe-robinette-biden/amp/",
+      "publishedDateTime": "2021-08-27T16:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Signal",
+        "domain": "dailysignal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-28-joe-biden-seeks-diplomacy-with-iran-on-nuclear-deal-but-open-to-other-options.md",
+      "title": "Joe Biden seeks diplomacy with Iran on nuclear deal, but open to 'other options'",
+      "excerpt": "President Joe Biden on Friday said the United States will try diplomacy to keep Iran from obtaining nuclear weapons, but will use \"other options\" if necessary.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/",
+      "originalUrl": "https://www.upi.com/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/3931630085407/2021/1/5a644c6dc5548efdc6df8cce0f83b200/v1.5/Joe-Biden-seeks-diplomacy-with-Iran-on-nuclear-deal-but-open-to-other-options.jpg",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/",
+      "publishedDateTime": "2021-08-27T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-elliott-abrams-im-afraid-people-will-pay-for-bidens-stubbornness-with-their-lives.md",
+      "title": "Elliott Abrams: I'm afraid people will pay for Biden's 'stubbornness' with their lives",
+      "excerpt": "Former deputy national security adviser Elliott Abrams blasted President Biden for his \"stubbornness\" that could cost human lives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/elliott-abrams-biden-stubborn-afghanistan-withdrawal-deadline",
+      "originalUrl": "https://www.foxnews.com/media/elliott-abrams-biden-stubborn-afghanistan-withdrawal-deadline",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/elliott-abrams-biden-stubborn-afghanistan-withdrawal-deadline.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/elliott-abrams-biden-stubborn-afghanistan-withdrawal-deadline.amp",
+      "publishedDateTime": "2021-08-27T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-27-how-to-watch-live-stream-joe-bidens-speech-after-attack-at-kabul-airport.md",
       "title": "How to Watch, Live Stream Joe Biden's Speech After Attack at Kabul Airport",
       "excerpt": "The speech will be streamed live on the White House's Youtube page. Press secretary Jen Psaki will also brief reporters following Biden's speech at 5:45 p.m. Eastern Time. Two explosions occurred Thursday near the Hamid Karzai International Airport in Kabul,",
@@ -191,7 +334,7 @@
       "originalUrl": "https://greensboro.com/opinion/columnists/ramesh-ponnuru-why-all-the-bad-press-for-joe-biden/article_20501b14-05c7-11ec-b064-ff9806d41487.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -1307,167 +1450,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-biden-sending-envoy-to-ethiopia-amid-tigray-conflict.md",
-      "title": "Biden sending envoy to Ethiopia amid Tigray conflict",
-      "excerpt": "President Biden is sending his special envoy for the Horn of Africa to Ethiopia amid ongoing fighting in Tigray.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/international/middle-east-north-africa/567714-biden-sending-envoy-to-ethiopia-amid-tigray",
-      "originalUrl": "https://thehill.com/policy/international/middle-east-north-africa/567714-biden-sending-envoy-to-ethiopia-amid-tigray",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/feltmanjeffrey_42321_gettyimages.jpg",
-          "width": 781,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/international/middle-east-north-africa/567714-biden-sending-envoy-to-ethiopia-amid-tigray?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/international/middle-east-north-africa/567714-biden-sending-envoy-to-ethiopia-amid-tigray?amp",
-      "publishedDateTime": "2021-08-13T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-hannity-bidens-america-last-agenda-putting-more-than-just-the-us-at-risk.md",
-      "title": "Hannity: Biden's 'America Last' agenda putting more than just the US at risk",
-      "excerpt": "In his Opening Monologue, “Hannity” host Sean Hannity challenged his audience to name a single positive accomplishment of President Joe Biden or his administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/hannity-bidens-america-last-agenda-putting-more-than-just-the-us-at-risk",
-      "originalUrl": "https://www.foxnews.com/media/hannity-bidens-america-last-agenda-putting-more-than-just-the-us-at-risk",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/185932aa-9c11-4fb6-9e1d-3e23afdaf5ab/44a86cbf-ce71-404f-9aff-dc720d727596/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/hannity-bidens-america-last-agenda-putting-more-than-just-the-us-at-risk.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-bidens-america-last-agenda-putting-more-than-just-the-us-at-risk.amp",
-      "publishedDateTime": "2021-08-12T21:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-biden-reacts-to-anti-mask-protest-video-our-healthcare-workers-are-heroes.md",
-      "title": "Biden Reacts to Anti-Mask Protest Video: 'Our Healthcare Workers Are Heroes'",
-      "excerpt": "Currently, Tennessee is the ninth least vaccinated state in the U.S., with 46 percent of the population having received one dose.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/biden-reacts-anti-mask-protest-video-our-healthcare-workers-are-heroes-1618974",
-      "originalUrl": "https://www.newsweek.com/biden-reacts-anti-mask-protest-video-our-healthcare-workers-are-heroes-1618974",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1869761/parents-protest-mask-mandates-florida-school.jpg",
-          "width": 2809,
-          "height": 1964,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/biden-reacts-anti-mask-protest-video-our-healthcare-workers-are-heroes-1618974?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-reacts-anti-mask-protest-video-our-healthcare-workers-are-heroes-1618974?amp=1",
-      "publishedDateTime": "2021-08-12T14:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Joe Biden"
       ]
     }

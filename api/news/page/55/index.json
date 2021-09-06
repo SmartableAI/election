@@ -2,6 +2,163 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2021-05-13-pelosi-says-she-has-confidence-in-harris-addressing-root-cause-of-border-crisis.md",
+      "title": "Pelosi says she has confidence in Harris addressing root cause of border crisis",
+      "excerpt": "House Speaker Nancy Pelosi said Thursday she has confidence in Vice President Kamala Harris' ability to address the root causes of the border crisis and touted progress the Biden Administration has already made to \"reconstruct\" the immigration system. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gkMu7NMsm70/pelosi-harris-root-cause-border-crisis",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gkMu7NMsm70/pelosi-harris-root-cause-border-crisis",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 541,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-harris-root-cause-border-crisis.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-harris-root-cause-border-crisis.amp",
+      "publishedDateTime": "2021-05-13T10:51:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-biden-pledges-aggressive-response-to-pipeline-cyberattackers.md",
+      "title": "Biden pledges aggressive response to pipeline cyberattackers",
+      "excerpt": "President Joe Biden has warned gasoline stations not to engage in price gouging as motorists wait for fuel to start flowing reliably through the Colonial Pipeline",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QHX4FJFUBUI6XPEW7X2V3ZB354.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
+      "publishedDateTime": "2021-05-13T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-maddow-potential-trump-indictment-moves-closer-with-mcgahns-testimony.md",
+      "title": "Maddow: Potential Trump Indictment Moves Closer With McGahn's Testimony",
+      "excerpt": "Rachel Maddow explains how Robert Mueller laid out the ways in which Donald Trump potentially committed obstruction of justice (even though Mueller would not prosecute Trump as president) and notes that Don McGahn's testimony was key to putting that together.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/05/13/maddow_potential_trump_indictment_moves_closer_with_mcgahns_testimony.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/05/13/maddow_potential_trump_indictment_moves_closer_with_mcgahns_testimony.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/45/459895.jpg",
+          "width": 800,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/05/13/maddow_potential_trump_indictment_moves_closer_with_mcgahns_testimony.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/13/maddow_potential_trump_indictment_moves_closer_with_mcgahns_testimony.amp.html",
+      "publishedDateTime": "2021-05-13T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-biden-warns-gas-station-owners-do-not-try-to-take-advantage-of-consumers-during-fuel-crunch.md",
       "title": "Biden warns gas station owners: 'Do not try to take advantage of consumers' during fuel crunch",
       "excerpt": "President Joe Biden warned gas station owners on Thursday against price gouging and taking advantage of consumers as many areas along the East Coast face shortages in the wake of panic-buying sparked by a ransomware attack on the Colonial Pipeline.\n    \n",
@@ -1195,157 +1352,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-the-latest-rosen-wont-answer-question-on-trump-fraud-claim.md",
-      "title": "The Latest: Rosen won't answer question on Trump fraud claim",
-      "excerpt": "Former acting Attorney General Jeffrey Rosen won't answer questions from Congress about whether then-President Donald Trump instructed him to take any action to try to advance Trump’s unfounded claims of election fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.stltoday.com/news/national/govt-and-politics/the-latest-rosen-wont-answer-question-on-trump-fraud-claim/article_c63f9a1d-48b9-5a57-859f-6f2f883332df.html",
-      "originalUrl": "https://www.stltoday.com/news/national/govt-and-politics/the-latest-rosen-wont-answer-question-on-trump-fraud-claim/article_c63f9a1d-48b9-5a57-859f-6f2f883332df.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/8/e4/8e468fe4-4107-5a69-a0b7-ca50a1f0c3c9/609bf15831d3e.image.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.stltoday.com/news/national/govt-and-politics/the-latest-rosen-wont-answer-question-on-trump-fraud-claim/article_c63f9a1d-48b9-5a57-859f-6f2f883332df.amp.html",
-      "cdnAmpWebUrl": "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/the-latest-rosen-wont-answer-question-on-trump-fraud-claim/article_c63f9a1d-48b9-5a57-859f-6f2f883332df.amp.html",
-      "publishedDateTime": "2021-05-12T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "St. Louis Post-Dispatch",
-        "domain": "stltoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-democrat-del-rio-texas-mayor-biden-admin-telling-me-border-is-under-control.md",
-      "title": "Democrat Del Rio, Texas mayor: Biden admin telling me border is 'under control'",
-      "excerpt": "The Democratic mayor of Del Rio, Texas said Wednesday that he believes that the U.S. southern border is “wide open” for illegal immigrants, despite insistence from the Biden administration claiming the opposite.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5nqUvkOJEZU/democrat-del-rio-texas-mayor-border-wide-open-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5nqUvkOJEZU/democrat-del-rio-texas-mayor-border-wide-open-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c3abd5ef-48ad-4a6b-af5c-820341e1b197/0f166762-c33a-4d7b-b7d7-2775f7a82db6/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/democrat-del-rio-texas-mayor-border-wide-open-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrat-del-rio-texas-mayor-border-wide-open-biden.amp",
-      "publishedDateTime": "2021-05-12T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-more-than-120-retired-generals-and-admirals-wrote-to-biden-suggesting-he-wasnt-legitimately-elected-and-questioning-his-mental-health.md",
-      "title": "More than 120 retired generals and admirals wrote to Biden suggesting he wasn't legitimately elected and questioning his mental health",
-      "excerpt": "The letter published by \"Flag Officers 4 America\" appeared to advance a false conspiracy theory that the 2020 election was illegitimate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/former-generals-admirals-letter-question-election-biden-health-2021-5",
-      "originalUrl": "https://www.businessinsider.com/former-generals-admirals-letter-question-election-biden-health-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6077445474da0300181e1b3a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/former-generals-admirals-letter-question-election-biden-health-2021-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-generals-admirals-letter-question-election-biden-health-2021-5?amp",
-      "publishedDateTime": "2021-05-12T07:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

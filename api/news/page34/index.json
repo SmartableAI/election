@@ -2,6 +2,167 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-06-26-pence-rebukes-trump-and-says-he-was-proud-to-certify-election-result.md",
+      "title": "Pence rebukes Trump and says he was ‘proud’ to certify election result",
+      "excerpt": "Former vice-president says he did his duty and takes aim at effort to overturn Biden victory, without mentioning Trump by name",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/0ee4d84b4f601054dd1c4aff8d6cd328eac46d0c/0_104_2769_1662/master/2769.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=37852aa968c67d086cec272cbbf2c055",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result",
+      "publishedDateTime": "2021-06-25T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-whistleblowers-urge-biden-administration-to-do-more-to-vaccinate-detained-immigrant-population.md",
+      "title": "Whistleblowers urge Biden administration to do more to vaccinate detained immigrant population",
+      "excerpt": "Three whistleblowers are urging the Biden administration to do more to vaccinate immigrants in Immigration and Customs Enforcement detention amid mounting criticism over the agency's response to the pandemic within its facilities, according to a letter obtained by CNN.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wGUO4qFKE8Q/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wGUO4qFKE8Q/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210614185715-ice-hq-file-2018-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/25/politics/ice-coronavirus-vaccine/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/ice-coronavirus-vaccine/index.html",
+      "publishedDateTime": "2021-06-25T13:14:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-26-trump-frequently-mocked-rudy-giuliani-called-him-pathetic-and-said-he-sucked-new-book-says.md",
+      "title": "Trump frequently mocked Rudy Giuliani, called him 'pathetic,' and said he 'sucked,' new book says",
+      "excerpt": "Trump berated and belittled Giuliani, while Giuliani craved Trump's attention and competed with other aides to sit next to him.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-mocked-rudy-giuliani-called-him-pathetic-new-book-2021-6",
+      "originalUrl": "https://www.businessinsider.com/trump-mocked-rudy-giuliani-called-him-pathetic-new-book-2021-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60d62256df1db80018f3a519?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-mocked-rudy-giuliani-called-him-pathetic-new-book-2021-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-mocked-rudy-giuliani-called-him-pathetic-new-book-2021-6?amp",
+      "publishedDateTime": "2021-06-25T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-trump-organization-could-face-new-york-state-criminal-charges-next-week.md",
       "title": "Trump Organization could face New York state criminal charges next week",
       "excerpt": "Donald Trump’s lawyers have been notified by the Manhattan district attorney’s office that it is considering charges against the Trump Organization, according to reports Friday.",
@@ -1192,166 +1353,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-top-us-general-rejected-trump-suggestions-military-should-crack-skulls-during-protests-last-year-new-book-claims.md",
-      "title": "Top US general rejected Trump suggestions military should 'crack skulls' during protests last year, new book claims",
-      "excerpt": "The top US general repeatedly pushed back on then-President Donald Trump's argument that the military should intervene violently in order to quell the civil unrest that erupted around the country last year. Joint Chiefs Chairman Gen. Mark Milley often found he was the lone voice of opposition to those",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FpBIx96rDes/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FpBIx96rDes/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210303070141-file-mark-milley-2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/24/politics/bender-book-trump-milley-protests/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/politics/bender-book-trump-milley-protests/index.html",
-      "publishedDateTime": "2021-06-24T14:55:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-pelosi-announces-a-select-committee-will-investigate-jan-6-attack-on-the-capitol-by-a-pro-trump-mob.md",
-      "title": "Pelosi announces a select committee will investigate Jan. 6 attack on the Capitol by a pro-Trump mob",
-      "excerpt": "The House speaker’s decision comes after Senate Republicans blocked the creation of an independent, bipartisan commission to investigate the assault, which left five dead and injured about 140 members of law enforcement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6BTEMJGU7EI6XLSUKFPC6Y6TPU.jpg&w=1440",
-          "width": 1440,
-          "height": 916,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html?outputType=amp",
-      "publishedDateTime": "2021-06-24T14:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-brian-stelter-hoax-donald-trump-fox-news-and-the-dangerous-distortion-of-truth.md",
-      "title": "Brian Stelter, “Hoax: Donald Trump, Fox News, and the Dangerous Distortion of Truth”",
-      "excerpt": "Brian Stelter, CNN chief media correspondent and anchor of “Reliable Sources,” crafted his book \"Hoax: Donald Trump, Fox News, and the Dangerous Distortion of Truth” from three years of interviews with more than 300 current and former Fox News staffers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/video/washington-post-live/brian-stelter-hoax-donald-trump-fox-news-and-the-dangerous-distortion-of-truth/2021/06/24/faf99a85-6353-470a-af0c-248bd8904bbc_live.html",
-      "originalUrl": "https://www.washingtonpost.com/video/washington-post-live/brian-stelter-hoax-donald-trump-fox-news-and-the-dangerous-distortion-of-truth/2021/06/24/faf99a85-6353-470a-af0c-248bd8904bbc_live.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-18-2021/t_1610981357bb4aef815449ea6155220a_name_StelterBranding.jpg&w=1080",
-          "width": 1080,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-24T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

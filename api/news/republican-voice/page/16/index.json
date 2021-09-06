@@ -2,6 +2,119 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-05-25-desantis-shuts-down-reporters-suggestion-that-big-tech-bill-is-for-trump.md",
+      "title": "DeSantis shuts down reporter's suggestion that Big Tech bill is 'for' Trump",
+      "excerpt": "Florida Gov. Ron DeSantis, R., shot down a Miami Herald reporter on Monday who accused him of introducing his new Big Tech censorship bill that allows residents to sue Big Tech companies solely for the benefit of former President Donald Trump,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/gov-desantis-reporter-suggesting-big-tech-bill-trump",
+      "originalUrl": "https://www.foxnews.com/media/gov-desantis-reporter-suggesting-big-tech-bill-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dea61b83-1533-43df-9888-9c98a0f4fe96/57b7fe76-0438-4557-9512-c821a89dfda8/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/gov-desantis-reporter-suggesting-big-tech-bill-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/gov-desantis-reporter-suggesting-big-tech-bill-trump.amp",
+      "publishedDateTime": "2021-05-25T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-biden-putin-to-meet-in-person-june-16-in-geneva-white-house-confirms.md",
+      "title": "Biden, Putin to meet in person June 16 in Geneva, White House confirms",
+      "excerpt": "President Biden and Russian President Vladimir Putin are expected to meet in Geneva next month, the White House announced Tuesday, maintaining that the meeting will serve as a tool to manage what will continue to be a deeply challenging relationship between the U.S. and Russia.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RM9m6nq2FBA/biden-putin-meeting-june-geneva",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RM9m6nq2FBA/biden-putin-meeting-june-geneva",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-putin-meeting-june-geneva.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-putin-meeting-june-geneva.amp",
+      "publishedDateTime": "2021-05-25T07:00:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-chris-christie-slams-biden-for-allowing-canada-covid-double-standard.md",
       "title": "Chris Christie slams Biden for allowing Canada COVID 'double standard'",
       "excerpt": "Christie blasted the president in a tweet posted Monday, saying more “weakness” was coming from the Biden administration’s foreign policy and vaccine messaging with Canada.",
@@ -1523,111 +1636,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-pennsylvania-town-saved-by-fracking-fears-biden-will-kill-its-prosperity.md",
-      "title": "Pennsylvania Town Saved By Fracking Fears Biden Will Kill Its Prosperity",
-      "excerpt": "Thirty years ago, Jason Capps was a young man with ambition, but when he looked around this town near Pittsburgh, where he grew up, all",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/articles/2021/05/18/_pennsylvania_town_saved_by_fracking_fears_biden_will_kill_its_prosperity_145779.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/articles/2021/05/18/_pennsylvania_town_saved_by_fracking_fears_biden_will_kill_its_prosperity_145779.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/47/478783_5_.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.realclearpolitics.com/articles/2021/05/18/_pennsylvania_town_saved_by_fracking_fears_biden_will_kill_its_prosperity_145779.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/18/_pennsylvania_town_saved_by_fracking_fears_biden_will_kill_its_prosperity_145779.amp.html",
-      "publishedDateTime": "2021-05-18T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-trump-allies-promote-portfolios-targeting-unwoke-investors.md",
-      "title": "Trump Allies Promote Portfolios Targeting ‘Unwoke Investors’",
-      "excerpt": "A group of conservative money managers is seeking to woo investors disgruntled by increased involvement by some companies in political and social issues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/trump-allies-promote-portfolios-targeting-unwoke-investors-11621342803",
-      "originalUrl": "https://www.wsj.com/articles/trump-allies-promote-portfolios-targeting-unwoke-investors-11621342803",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-339796/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-allies-promote-portfolios-targeting-unwoke-investors-11621342803",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-allies-promote-portfolios-targeting-unwoke-investors-11621342803",
-      "publishedDateTime": "2021-05-18T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

@@ -2,6 +2,174 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-07-22-biden-says-abolishing-filibuster-would-throw-entire-congress-into-chaos.md",
+      "title": "Biden says abolishing filibuster would 'throw entire Congress into chaos'",
+      "excerpt": "President Biden shot down calls to abolish the filibuster to clear the way for passage of the sweeping Democrat-backed elections overhaul, arguing that any effort to end use of the tactic despite a GOP outcry would jeopardize his entire legislative agenda.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xo1DjHCpQkk/biden-abolishing-fillibuster-throw-entire-congress-chaos",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xo1DjHCpQkk/biden-abolishing-fillibuster-throw-entire-congress-chaos",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/80949319-7d85-4343-8813-be2da542c83b/127f1c2b-36c9-4e4c-8318-6ee4ccfaa5d8/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-abolishing-fillibuster-throw-entire-congress-chaos.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-abolishing-fillibuster-throw-entire-congress-chaos.amp",
+      "publishedDateTime": "2021-07-21T18:41:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-biden-questions-parent-honesty-about-student-vaccinations-says-its-a-matter-of-community-responsibility.md",
+      "title": "Biden questions parent 'honesty' about student vaccinations, says it's a matter of 'community responsibility'",
+      "excerpt": "President Biden said Wednesday that it was a matter of “community responsibility” for parents to be honest about whether their children aged 12 and older are vaccinated when schools reopen later this year.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WuT-bgOa-40/biden-vaccination-honesty-schools-reopen-community-responsibility",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WuT-bgOa-40/biden-vaccination-honesty-schools-reopen-community-responsibility",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c1180707-11ea-4958-9a04-2e046e48bafe/790a3046-6985-4f53-9580-957cdfc1cbd5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-vaccination-honesty-schools-reopen-community-responsibility.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vaccination-honesty-schools-reopen-community-responsibility.amp",
+      "publishedDateTime": "2021-07-21T17:46:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-biden-to-nominate-widow-of-late-sen-ted-kennedy-as-ambassador-to-austria.md",
+      "title": "Biden to nominate widow of late Sen. Ted Kennedy as ambassador to Austria",
+      "excerpt": "President Joe Biden is nominating the widow of late Democratic Sen. Edward M. Kennedy to serve as the United States Ambassador to Austria.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FCtFiR69Pv0/biden-to-nominates-widow-of-late-sen-ted-kennedy-as-ambassador-to-austria",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FCtFiR69Pv0/biden-to-nominates-widow-of-late-sen-ted-kennedy-as-ambassador-to-austria",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7862f13-9e5a-4ea8-8989-4f240981571b/c3d1dd96-73fe-4544-abee-62b37357c069/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-to-nominates-widow-of-late-sen-ted-kennedy-as-ambassador-to-austria.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-nominates-widow-of-late-sen-ted-kennedy-as-ambassador-to-austria.amp",
+      "publishedDateTime": "2021-07-21T17:14:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-analysis-what-are-the-odds-biden-can-un-stall-the-rest-of-his-agenda.md",
       "title": "Analysis: What are the odds Biden can un-stall the rest of his agenda?",
       "excerpt": "We're sIx months into the Joe Biden presidency. The President is set to take part in a CNN Town Hall to be broadcast live at 8 p.m. ET Wednesday night in Cincinnati, Ohio.\n    \n",
@@ -1154,170 +1322,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/social-conservatives-disappointment-trump-supreme-court-justices-rulings.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/social-conservatives-disappointment-trump-supreme-court-justices-rulings.amp",
       "publishedDateTime": "2021-07-20T03:19:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-save-our-paychecks-tour-to-target-white-house-economic-policies-bidenflation.md",
-      "title": "'Save Our Paychecks' tour to target White House economic policies, 'Bidenflation'",
-      "excerpt": "Conservative group Heritage Action is partnering with the Coalition to Protect American Workers to launch a nationwide tour targeting what they describe as the “disastrous” effect that the Biden administration’s policies have had on American workers and businesses.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DXegnDT1srQ/paychecks-tour-biden-inflation",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DXegnDT1srQ/paychecks-tour-biden-inflation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/41072930-5cf3-4e2d-84b0-b6baddaaf93d/535d40b6-dfc5-4e52-bf91-1b4494e3a5bb/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/paychecks-tour-biden-inflation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/paychecks-tour-biden-inflation.amp",
-      "publishedDateTime": "2021-07-20T02:52:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-biden-will-certainly-welcome-help-from-trump-to-get-more-americans-vaccinated.md",
-      "title": "Biden Will 'Certainly Welcome' Help From Trump To Get More Americans Vaccinated",
-      "excerpt": "White House press secretary Jen Psaki has said that President Joe Biden will “certainly welcome” help from his predecessor Donald Trump to combat vaccine hesitancy amid a surge of COVID-19 cases. During a press briefing Monday,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/biden-will-certainly-welcome-help-trump-get-more-americans-vaccinated-3255383",
-      "originalUrl": "https://www.ibtimes.com/biden-will-certainly-welcome-help-trump-get-more-americans-vaccinated-3255383",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/30/former-us-president-donald-trumps-visit-to-the.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/biden-will-certainly-welcome-help-trump-get-more-americans-vaccinated-3255383?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/biden-will-certainly-welcome-help-trump-get-more-americans-vaccinated-3255383?amp=1",
-      "publishedDateTime": "2021-07-19T19:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-trump-ally-jim-jordan-among-republicans-tapped-for-jan-6-select-committee.md",
-      "title": "Trump ally Jim Jordan among Republicans tapped for Jan. 6 select committee",
-      "excerpt": "Rep. Jim Jordan, R-Ohio, a prominent ally of former President Donald Trump, is one of a handful of GOP lawmakers set to be appointed to House Speaker Nancy Pelosi’s select committee to investigate the Jan. 6 Capitol riot.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ow7Mg7dj-rQ/jim-jordan-republicans-jan-6-select-committee",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ow7Mg7dj-rQ/jim-jordan-republicans-jan-6-select-committee",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/650ffed3-b78a-4a9e-a434-ddb20b5cb605/612d639b-0184-4120-bd4d-609c5af00b5b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/jim-jordan-republicans-jan-6-select-committee.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jim-jordan-republicans-jan-6-select-committee.amp",
-      "publishedDateTime": "2021-07-19T16:51:38-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

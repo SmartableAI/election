@@ -2,6 +2,171 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2021-05-28-check-out-kamala-harris-naval-academy-graduation-punchline-just-ask-any-marine-today.md",
+      "title": "Check out Kamala Harris' Naval Academy graduation punchline: 'Just ask any Marine today...'",
+      "excerpt": "Vice President Kamala Harris made a joke about green electricity during her commencement speech at the U.S. Naval Academy in Annapolis Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lNyyYiNClTs/kamala-harris-naval-academy-graduation-joke",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lNyyYiNClTs/kamala-harris-naval-academy-graduation-joke",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/AP21148533253450.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-naval-academy-graduation-joke.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-naval-academy-graduation-joke.amp",
+      "publishedDateTime": "2021-05-28T15:52:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-05-29-mike-pence-tweets-that-he-and-his-wife-will-attend-the-indy-500.md",
+      "title": "Mike Pence tweets that he and his wife will attend the Indy 500",
+      "excerpt": "The former vice president tweeted Friday afternoon that he'll be among the race's 135,000 attendees this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/indy-500/2021/05/28/indy-500-celebrities-former-vice-president-mike-pence-attend/5254543001/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/indy-500/2021/05/28/indy-500-celebrities-former-vice-president-mike-pence-attend/5254543001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/20/PIND/c81436e0-3d7b-4731-aaa3-94b9139346e5-01202021_Pence_GH_003.jpg?auto=webp&crop=3730,2099,x0,y565&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5254543001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5254543001",
+      "publishedDateTime": "2021-05-28T15:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-these-attacks-are-despicable-biden-condemns-rise-in-anti-semitic-incidents.md",
+      "title": "'These attacks are despicable': Biden condemns rise in anti-Semitic incidents",
+      "excerpt": "President Joe Biden on Friday condemned the rise in anti-Semitic attacks across the country in recent weeks, saying the incidents are \"despicable, unconscionable, un-American, and they must stop.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/S_X6hvEBw1Y/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/S_X6hvEBw1Y/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210528074948-01-joe-biden-0520-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/28/politics/biden-condemns-anti-semitic-attacks/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/28/politics/biden-condemns-anti-semitic-attacks/index.html",
+      "publishedDateTime": "2021-05-28T15:35:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-biden-calls-recent-spike-in-anti-semitic-attacks-despicable-unconscionable-un-american.md",
       "title": "Biden calls recent spike in anti-Semitic attacks ‘despicable, unconscionable, un-American’",
       "excerpt": "President Biden called a recent wave of anti-Semitic attacks after the violence in Israel and Gaza “unconscionable.”",
@@ -1186,162 +1351,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-the-daily-202-biden-resurrects-the-politically-potent-wuhan-lab-leak-pandemic-theory.md",
-      "title": "The Daily 202: Biden resurrects the politically potent Wuhan lab-leak pandemic theory",
-      "excerpt": "President Biden breathed new life yesterday into the theory that the pandemic began when the virus escaped from a Chinese lab — an unproven but politically potent scenario Republicans have used to attack Beijing and defend former president Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/05/27/daily-202-biden-resurrects-politically-potent-wuhan-lab-leak-pandemic-theory/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/05/27/daily-202-biden-resurrects-politically-potent-wuhan-lab-leak-pandemic-theory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OKDBHQV6KMI6XERKYQGJO5F4JA.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/05/27/daily-202-biden-resurrects-politically-potent-wuhan-lab-leak-pandemic-theory/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/27/daily-202-biden-resurrects-politically-potent-wuhan-lab-leak-pandemic-theory/?outputType=amp",
-      "publishedDateTime": "2021-05-27T12:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-matt-gaetz-plans-to-run-for-president-in-2024-but-only-if-donald-trump-doesnt.md",
-      "title": "Matt Gaetz Plans to Run For President in 2024— But Only If Donald Trump Doesn't",
-      "excerpt": "In a text sent to the New York Post, Gaetz said, \"I support Donald Trump for president. I've directly encouraged him to run and he gives me every indication he will.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/matt-gaetz-plans-run-president-2024-only-if-donald-trump-doesnt-1595562",
-      "originalUrl": "https://www.newsweek.com/matt-gaetz-plans-run-president-2024-only-if-donald-trump-doesnt-1595562",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1809008/matt-gaetz.jpg",
-          "width": 2500,
-          "height": 1665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/matt-gaetz-plans-run-president-2024-only-if-donald-trump-doesnt-1595562?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/matt-gaetz-plans-run-president-2024-only-if-donald-trump-doesnt-1595562?amp=1",
-      "publishedDateTime": "2021-05-27T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-us-judge-says-trumps-election-falsehoods-still-pose-security-risk.md",
-      "title": "U.S. judge says Trump's election falsehoods still pose security risk",
-      "excerpt": "A U.S. judge said there is a risk that Donald Trump's supporters could still carry out attacks similar to the deadly Jan. 6 assault on the U.S. Capitol, noting the former president's \"near-daily fulminations\" about his election loss have not subsided.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-capitol-arrests-idUSKCN2D81NZ",
-      "originalUrl": "https://www.reuters.com/article/us-usa-capitol-arrests-idUSKCN2D81NZ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 860,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210527&t=2&i=1563618128&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4Q0UP",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2D81NZ",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D81NZ",
-      "publishedDateTime": "2021-05-27T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

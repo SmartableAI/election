@@ -128,6 +128,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Biden looking to reboot Trump’s ‘Remain in Mexico’ policy: report"
+    excerpt: "The ​plan would allow a smaller number of immigrants seeking asylum to wait in Mexico as their cases are being processed in the courts."
+    publishedDateTime: 2021-09-06T17:25:00Z
+    webUrl: "https://nypost.com/2021/09/06/biden-to-reinstate-trump-remain-in-mexico-policy-report/"
+    ampWebUrl: "https://nypost.com/2021/09/06/biden-to-reinstate-trump-remain-in-mexico-policy-report/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/06/biden-to-reinstate-trump-remain-in-mexico-policy-report/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/remain-in-mexico-lite-02.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 691
+        isCached: true
 
 secured: "hwEEJM6niFSV+5LoNkKNE9SiPWvDe3DGr9FoWLCyTP2RgUf22CbafmSBSwu75pXVRjoVnd31iy51GTm5Xww4DE246HiOqgcT8XRwbbz4pnfNKDzhleRpLnQe2eJIDk/scFAyRKab+GyjxiITs37objGgWVUbCe29gOvQpG8aUsw4KWE0aK9Oh+WRcBWyW7XyvFWvLWJcp/yUeBOTzD9qanTF19VsFMz4Xk0/x9i3D+DyShkk7BaLqAv/yLM7tnJSGaRcCIFg6VG3sqsi8ag33ACadmsQCY0s8BioMdjWTYY0Bs7puUXG3CKvRG3fVhLPFWyfJHvY+6YvrHwvnkdK5QURsoSf+jQX2y4DHSxcEwZSDpIeN07vh9NQfuW+EBfP/b7JnUswIJxPYrnpilvz85h0USLMFXg8Eb/YV/FVjd3sblco324ZGBeDpsBVxe6+/u4zmp8YzxDguMYursmoE0TJb5yf6H1bDOZ6F2TJXGfNh2k+OMDVS6pklU7GaSEOdu16ApiEdRuJGxwhaaOt6w==;h5gnCMIPbku7iQZxclhyfQ=="
 ---

@@ -2,6 +2,175 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2021-04-07-parents-of-445-migrant-children-separated-at-border-under-trump-still-have-not-been-found-court-filing-says.md",
+      "title": "Parents of 445 migrant children separated at border under Trump still have not been found, court filing says",
+      "excerpt": "The parents of 445 migrant children separated from their families due to Trump administration policies at the US-Mexico border between 2017 and 2018 have still not been located, down from 506, according to a Wednesday court filing.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uNtJ2oFnMmI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uNtJ2oFnMmI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 216,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180625234239-deportaciones-sin-proceso-juridico-eunice-rendon-omar-silva-intvw-aristegui-00030023-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/07/politics/family-separation-court-filing/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/family-separation-court-filing/index.html",
+      "publishedDateTime": "2021-04-07T15:23:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-rep-mccaul-says-bidens-immigration-policies-a-victory-for-traffickers-and-very-bad-defeat-for-children.md",
+      "title": "Rep. McCaul says Biden's immigration policies a 'victory' for traffickers and 'very bad defeat' for children",
+      "excerpt": "Rep. Michael McCaul, R-Texas, slammed President Biden's border policies Wednesday on \"The Story,\" calling them a \"victory\" for traffickers, who separate children from their parents and bring them on a \"very dangerous journey\" to the United States.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6dQQ7S3jDOI/rep-mccaul-says-bidens-immigration-policies-a-victory-for-traffickers-and-very-bad-defeat-for-children",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6dQQ7S3jDOI/rep-mccaul-says-bidens-immigration-policies-a-victory-for-traffickers-and-very-bad-defeat-for-children",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rep-mccaul-says-bidens-immigration-policies-a-victory-for-traffickers-and-very-bad-defeat-for-children.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-mccaul-says-bidens-immigration-policies-a-victory-for-traffickers-and-very-bad-defeat-for-children.amp",
+      "publishedDateTime": "2021-04-07T14:43:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-nikki-haley-blasts-harris-as-missing-in-action-on-border-god-help-us-if-she-ever-becomes-president.md",
+      "title": "Nikki Haley blasts Harris as 'missing in action' on border: 'God help us if she ever becomes president'",
+      "excerpt": "President Biden's \"obsession\" with reversing former President Donald Trump's policies is \"unacceptable,\" former U.S. Ambassador to the United Nations Nikki Haley told \"America Reports\" Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sVf16l22kMU/nikki-haley-kamala-harris-missing-in-action-border-crisis",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sVf16l22kMU/nikki-haley-kamala-harris-missing-in-action-border-crisis",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/nikki-haley-kamala-harris-missing-in-action-border-crisis.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-kamala-harris-missing-in-action-border-crisis.amp",
+      "publishedDateTime": "2021-04-07T14:33:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-mike-pences-advocacy-group-to-hone-in-unaccompanied-minor-surge-at-border.md",
       "title": "Mike Pence's Advocacy Group to Hone in Unaccompanied Minor Surge at Border",
       "excerpt": "Former Vice President Mike Pence launched an advocacy organization on Wednesday that said its goal is to \"promote the pro-freedom policies\" in place during former President Donald Trump's administration and protect those policies from individuals on the ...",
@@ -1186,170 +1355,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-biden-leans-close-to-tell-someone-to-socially-distance-which-im-not-doing.md",
-      "title": "Biden leans close to tell someone to socially distance, 'which I'm not doing'",
-      "excerpt": "President Biden leaned inches away from someone’s face to urge them to practice social distancing as he promoted the nation’s vaccine progress Tuesday afternoon, video shows.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DyOSK8DjGRk/biden-leans-close-social-distancing",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DyOSK8DjGRk/biden-leans-close-social-distancing",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 192,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21096696393947-e1617743978498.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-leans-close-social-distancing.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-leans-close-social-distancing.amp",
-      "publishedDateTime": "2021-04-06T14:34:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-jennifer-weisselberg-has-several-boxes-of-documents-left-to-give-prosecutors-investigating-trump-her-lawyer-says.md",
-      "title": "Jennifer Weisselberg has 'several boxes of documents' left to give prosecutors investigating Trump, her lawyer says",
-      "excerpt": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. Jennifer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-investigations-jennifer-weisselberg-has-more-documents-for-prosecutors-2021-4",
-      "originalUrl": "https://www.businessinsider.com/trump-investigations-jennifer-weisselberg-has-more-documents-for-prosecutors-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/606cb46e30004b0019b2640e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-investigations-jennifer-weisselberg-has-more-documents-for-prosecutors-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-investigations-jennifer-weisselberg-has-more-documents-for-prosecutors-2021-4?amp",
-      "publishedDateTime": "2021-04-06T14:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-biden-hasnt-talked-to-chinese-president-about-coronavirus-origins.md",
-      "title": "Biden hasn't talked to Chinese president about coronavirus origins",
-      "excerpt": "President Biden on Tuesday said he has not spoken to Chinese President Xi Jinping about the origins of COVID-19.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UhnRJtgchao/biden-chinese-president-xi-jinping-coronavirus-origins",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UhnRJtgchao/biden-chinese-president-xi-jinping-coronavirus-origins",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 395,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-chinese-president-xi-jinping-coronavirus-origins.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-chinese-president-xi-jinping-coronavirus-origins.amp",
-      "publishedDateTime": "2021-04-06T13:58:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

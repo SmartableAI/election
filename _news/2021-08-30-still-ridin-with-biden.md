@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Ramesh Ponnuru: Why all the bad press for Joe Biden?"
-    excerpt: "President Joe Biden’s handling of Afghanistan has few vocal defenders. What they lack in numbers, though, they make up for in unity of message: The press is being too hard"
-    publishedDateTime: 2021-08-26T00:15:00Z
-    webUrl: "https://greensboro.com/opinion/columnists/ramesh-ponnuru-why-all-the-bad-press-for-joe-biden/article_20501b14-05c7-11ec-b064-ff9806d41487.html"
-    ampWebUrl: "https://greensboro.com/opinion/columnists/ramesh-ponnuru-why-all-the-bad-press-for-joe-biden/article_20501b14-05c7-11ec-b064-ff9806d41487.amp.html"
-    cdnAmpWebUrl: "https://greensboro-com.cdn.ampproject.org/c/s/greensboro.com/opinion/columnists/ramesh-ponnuru-why-all-the-bad-press-for-joe-biden/article_20501b14-05c7-11ec-b064-ff9806d41487.amp.html"
+  - title: "'F**K Joe Biden' Chants Break Out at College Football Games Across the Country"
+    excerpt: "Explicit chants against President Joe Biden broke out in the crowds at college football games over the past few days. On Sunday, video of a \"f**k Joe Biden\" chant was posted online during the Texas A&M Aggies game against the Kent State Golden Flashes."
+    publishedDateTime: 2021-09-06T15:49:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-chants-break-college-football-games-country-1626438"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-chants-break-college-football-games-country-1626438?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-chants-break-college-football-games-country-1626438?amp=1"
     type: article
     provider:
-      name: News & Record
-      domain: greensboro.com
-    quality: 75
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/d/de/ddeab818-05c8-11ec-92ae-eb234dfa1a11/61267c6c32cbc.image.jpg"
-        width: 1000
-        height: 1000
+      - url: "https://d.newsweek.com/en/full/1888261/fuck-joe-biden.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "G22k2Ztm4OqT0ywp2xZpjgtSWplvY7TcoxR9gq0WpqGQ36urV/X7X0mNVUQ1akNZPuhHQDdj2Ujhk1eMsHrhEde0MrsL6azfBY4QntJdri66WejrZRcQ9xJJwwDa+XGhnq8rsE4JbZwhvUzG2M/yQt7Jzd+cn2u3A4NJEJOUhJI/bfwtKYOqNx9mSF/jgsLNPZN6y2K8pR0N7aFzJH3eEhKn80QzdJUpzLRfCFi3kVWeAB2z2ZpC0SKr5vLl4/W54dC5QUdUGeb1rEcGGjHtwIQEEGEKm4z7VFbWaVDJWQwq+Ex0PpWyPLifSbTzQV68ycgy7F+deHJpvjvz69tu3jyzRrI+UN6/r4/IYsUoPJE=;jXBjr8yMOXrxoP3e5aCwyw=="

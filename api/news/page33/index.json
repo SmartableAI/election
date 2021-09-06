@@ -2,6 +2,171 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-06-29-biden-calls-for-federal-investigation-into-miami-condo-collapse-live.md",
+      "title": "Biden calls for federal investigation into Miami condo collapse – live",
+      "excerpt": "White House spokeswoman says Biden keen for inquiry to take place, with 10 people confirmed to have died – follow all the day’s politics news live",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60da1dd98f08a0630603cdb3",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60da1dd98f08a0630603cdb3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 545,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/636c8e0d3df07afb8f27096332f486ae80835303/0_81_1402_841/master/1402.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=550dec7f6a3f0da6099387db3501f346",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news",
+      "publishedDateTime": "2021-06-28T11:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-speaker-trump-he-will-need-to-secure-an-absolute-majority-in-the-house.md",
+      "title": "Speaker Trump? He will need to secure an absolute majority in the House",
+      "excerpt": "It’s unclear if former President Trump will again run for the Oval Office in 2024.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/R0ZESDn5eyE/donald-trump-speaker-of-the-house-chances",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/R0ZESDn5eyE/donald-trump-speaker-of-the-house-chances",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/donald-trump-speaker-of-the-house-chances.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-speaker-of-the-house-chances.amp",
+      "publishedDateTime": "2021-06-28T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-eric-bolling-a-trump-ally-is-set-to-host-a-new-cable-show-on-newsmax.md",
+      "title": "Eric Bolling, a Trump ally, is set to host a new cable show on Newsmax.",
+      "excerpt": "Like myself, Newsmax is concerned with the direction that Big Tech and Big Corporate Media have taken journalism and our nation,” Mr. Bolling said in a statement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/06/28/business/media/eric-bolling-newsmax.html",
+      "originalUrl": "https://www.nytimes.com/2021/06/28/business/media/eric-bolling-newsmax.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/28/business/28economy-briefing-bolling/28economy-briefing-bolling-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/06/28/business/media/eric-bolling-newsmax.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/28/business/media/eric-bolling-newsmax.amp.html",
+      "publishedDateTime": "2021-06-28T10:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-28-bidens-frantic-weekend-saves-infrastructure-deal-but-leaves-him-on-thinner-political-ice.md",
       "title": "Biden's frantic weekend saves infrastructure deal but leaves him on thinner political ice",
       "excerpt": "That Joe Biden's cherished bipartisan infrastructure plan was nearly destroyed by a few of his own ill-chosen words highlights both the fragility of the deal and his own hopes for a productive domestic presidency.\n    \n",
@@ -1202,167 +1367,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-pence-rebukes-trump-and-says-he-was-proud-to-certify-election-result.md",
-      "title": "Pence rebukes Trump and says he was ‘proud’ to certify election result",
-      "excerpt": "Former vice-president says he did his duty and takes aim at effort to overturn Biden victory, without mentioning Trump by name",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/0ee4d84b4f601054dd1c4aff8d6cd328eac46d0c/0_104_2769_1662/master/2769.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=37852aa968c67d086cec272cbbf2c055",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result",
-      "publishedDateTime": "2021-06-25T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-whistleblowers-urge-biden-administration-to-do-more-to-vaccinate-detained-immigrant-population.md",
-      "title": "Whistleblowers urge Biden administration to do more to vaccinate detained immigrant population",
-      "excerpt": "Three whistleblowers are urging the Biden administration to do more to vaccinate immigrants in Immigration and Customs Enforcement detention amid mounting criticism over the agency's response to the pandemic within its facilities, according to a letter obtained by CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wGUO4qFKE8Q/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wGUO4qFKE8Q/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210614185715-ice-hq-file-2018-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/25/politics/ice-coronavirus-vaccine/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/ice-coronavirus-vaccine/index.html",
-      "publishedDateTime": "2021-06-25T13:14:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-trump-frequently-mocked-rudy-giuliani-called-him-pathetic-and-said-he-sucked-new-book-says.md",
-      "title": "Trump frequently mocked Rudy Giuliani, called him 'pathetic,' and said he 'sucked,' new book says",
-      "excerpt": "Trump berated and belittled Giuliani, while Giuliani craved Trump's attention and competed with other aides to sit next to him.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-mocked-rudy-giuliani-called-him-pathetic-new-book-2021-6",
-      "originalUrl": "https://www.businessinsider.com/trump-mocked-rudy-giuliani-called-him-pathetic-new-book-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60d62256df1db80018f3a519?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-mocked-rudy-giuliani-called-him-pathetic-new-book-2021-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-mocked-rudy-giuliani-called-him-pathetic-new-book-2021-6?amp",
-      "publishedDateTime": "2021-06-25T12:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

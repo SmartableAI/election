@@ -2,6 +2,166 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-06-24-top-us-general-rejected-trump-suggestions-military-should-crack-skulls-during-protests-last-year-new-book-claims.md",
+      "title": "Top US general rejected Trump suggestions military should 'crack skulls' during protests last year, new book claims",
+      "excerpt": "The top US general repeatedly pushed back on then-President Donald Trump's argument that the military should intervene violently in order to quell the civil unrest that erupted around the country last year. Joint Chiefs Chairman Gen. Mark Milley often found he was the lone voice of opposition to those",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FpBIx96rDes/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FpBIx96rDes/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210303070141-file-mark-milley-2020-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/24/politics/bender-book-trump-milley-protests/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/politics/bender-book-trump-milley-protests/index.html",
+      "publishedDateTime": "2021-06-24T14:55:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-pelosi-announces-a-select-committee-will-investigate-jan-6-attack-on-the-capitol-by-a-pro-trump-mob.md",
+      "title": "Pelosi announces a select committee will investigate Jan. 6 attack on the Capitol by a pro-Trump mob",
+      "excerpt": "The House speaker’s decision comes after Senate Republicans blocked the creation of an independent, bipartisan commission to investigate the assault, which left five dead and injured about 140 members of law enforcement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6BTEMJGU7EI6XLSUKFPC6Y6TPU.jpg&w=1440",
+          "width": 1440,
+          "height": 916,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html?outputType=amp",
+      "publishedDateTime": "2021-06-24T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-brian-stelter-hoax-donald-trump-fox-news-and-the-dangerous-distortion-of-truth.md",
+      "title": "Brian Stelter, “Hoax: Donald Trump, Fox News, and the Dangerous Distortion of Truth”",
+      "excerpt": "Brian Stelter, CNN chief media correspondent and anchor of “Reliable Sources,” crafted his book \"Hoax: Donald Trump, Fox News, and the Dangerous Distortion of Truth” from three years of interviews with more than 300 current and former Fox News staffers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/video/washington-post-live/brian-stelter-hoax-donald-trump-fox-news-and-the-dangerous-distortion-of-truth/2021/06/24/faf99a85-6353-470a-af0c-248bd8904bbc_live.html",
+      "originalUrl": "https://www.washingtonpost.com/video/washington-post-live/brian-stelter-hoax-donald-trump-fox-news-and-the-dangerous-distortion-of-truth/2021/06/24/faf99a85-6353-470a-af0c-248bd8904bbc_live.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-18-2021/t_1610981357bb4aef815449ea6155220a_name_StelterBranding.jpg&w=1080",
+          "width": 1080,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-24T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-nbc-reporter-to-kamala-harris-husband-are-attacks-on-her-motivated-by-her-race-or-sex.md",
       "title": "NBC reporter to Kamala Harris' husband: Are attacks on her motivated by her race or sex?",
       "excerpt": "NBC White House correspondent Peter Alexander caught flak Thursday for asking Second Gentleman Douglas Emhoff if Republican criticisms of his wife, Vice President Kamala Harris, were motivated by racism or sexism.",
@@ -1191,167 +1351,6 @@
         "Election",
         "Donald Trump",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-trump-rule-tightening-eb-5-visa-program-struck-down-by-federal-judge.md",
-      "title": "Trump Rule Tightening EB-5 Visa Program Struck Down by Federal Judge",
-      "excerpt": "The Biden administration had endorsed the rule which raised the investment threshold in the immigrant investor program but a judge said the rules were improperly issued.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/federal-judge-strikes-downtrump-rule-tightening-eb-5-visa-program-11624466099",
-      "originalUrl": "https://www.wsj.com/articles/federal-judge-strikes-downtrump-rule-tightening-eb-5-visa-program-11624466099",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-358603/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/federal-judge-strikes-downtrump-rule-tightening-eb-5-visa-program-11624466099",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/federal-judge-strikes-downtrump-rule-tightening-eb-5-visa-program-11624466099",
-      "publishedDateTime": "2021-06-23T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-biden-aims-for-high-stakes-meeting-with-xi-jinping-with-putin-summit-in-the-rearview.md",
-      "title": "Biden aims for high-stakes meeting with Xi Jinping with Putin summit in the rearview",
-      "excerpt": "President Joe Biden's closely watched summit last week with his Russian counterpart affirmed his belief that nothing can replicate a face-to-face with a tough adversary. Now, he and his aides are looking ahead to a higher-stakes encounter: a meeting with China's Xi Jinping.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/luQFnDnD5YQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/luQFnDnD5YQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210610232615-biden-jinping-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/23/politics/joe-biden-xi-jinping-meeting-planning/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/joe-biden-xi-jinping-meeting-planning/index.html",
-      "publishedDateTime": "2021-06-23T07:54:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-chris-hayes-red-states-suffering-from-the-toxic-legacy-of-donald-trump.md",
-      "title": "Chris Hayes: Red States Suffering From The Toxic Legacy Of Donald Trump",
-      "excerpt": "We are seeing the effects of the toxic, devastating legacy of Donald Trump right now in the places that supported him the most,” MSNBC's Chris Hayes said Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/48/482369.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.amp.html",
-      "publishedDateTime": "2021-06-23T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

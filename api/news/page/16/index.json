@@ -2,6 +2,170 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-07-30-hunter-biden-snaps-at-critics-of-art-dealings-f-em.md",
+      "title": "Hunter Biden snaps at critics of art dealings: 'F--- em'",
+      "excerpt": "Biden appeared on art podcast Nota Bene Thursday, where the president’s son was asked about his art dealings where the buyers are anonymous and the First Son is slated to attend his art shows where they may be.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3odzdcsxpCQ/hunter-biden-snaps-art-deal-critics",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3odzdcsxpCQ/hunter-biden-snaps-art-deal-critics",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a5caf11-1d33-4ad9-8839-db1bd23329a8/06238ea1-d906-4d1f-8726-d9a8c455a054/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-snaps-art-deal-critics.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-snaps-art-deal-critics.amp",
+      "publishedDateTime": "2021-07-30T08:45:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-30-how-matt-damons-stillwater-explores-ugly-americans-in-the-post-trump-era.md",
+      "title": "How Matt Damon’s ‘Stillwater’ explores ‘ugly Americans’ in the post-Trump era",
+      "excerpt": "With an empathetic eye and cross-cultural cast led by Matt Damon and Camille Cottin, 'Stillwater' director Tom McCarthy tried to upend expectations for his dramatic thriller.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/entertainment-arts/movies/story/2021-07-30/stillwater-matt-damon-america-trump",
+      "originalUrl": "https://www.latimes.com/entertainment-arts/movies/story/2021-07-30/stillwater-matt-damon-america-trump",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/ca52305/2147483647/strip/true/crop/3819x2554+5+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe1%2F4f%2F7a46098741c599d87260f84528ef%2Flm-20200908-unit-01040-r2.jpg",
+          "width": 320,
+          "height": 214,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/entertainment-arts/movies/story/2021-07-30/stillwater-matt-damon-america-trump?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/movies/story/2021-07-30/stillwater-matt-damon-america-trump?_amp=true",
+      "publishedDateTime": "2021-07-30T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-biden-defends-previously-saying-vaccinated-dont-need-masks-that-was-true-at-the-time.md",
+      "title": "Biden defends previously saying vaccinated don't need masks: 'That was true at the time'",
+      "excerpt": "President Biden was involved in a heated exchange with Fox News reporter Peter Doocy after he pressed Biden on whether or not vaccinated Americans still need to wear masks.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rjKnYTWaoyU/biden-vaccinated-need-masks-true-at-time",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rjKnYTWaoyU/biden-vaccinated-need-masks-true-at-time",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 206,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eec26b2c-3cfe-4b36-bb76-dfd0652fbbc6/c35c575c-353d-457f-bcbf-31c72016050c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-vaccinated-need-masks-true-at-time.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vaccinated-need-masks-true-at-time.amp",
+      "publishedDateTime": "2021-07-29T14:52:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-first-lady-jill-biden-undergoing-foot-procedure-at-walter-reed.md",
       "title": "First lady Jill Biden undergoing foot procedure at Walter Reed",
       "excerpt": "First lady Jill Biden injured herself in Hawaii last weekend while walking on a beach when an indeterminate \"object\" lodged itself in her foot, according to the White House.",
@@ -1177,144 +1341,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-unfairly-penalized-residents-senators-in-northern-border-states-question-bidens-border-closure.md",
-      "title": "'Unfairly penalized': Residents, senators in northern border states question Biden's border closure",
-      "excerpt": "With Canada's vaccination rates higher now than in US, some are wondering if continued closure is more about the southern border than northern one.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/07/28/biden-canadian-border-closing-southern-border/5401156001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/07/28/biden-canadian-border-closing-southern-border/5401156001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-28T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-brandi-love-wants-ron-desantis-to-run-in-2024-if-donald-trump-doesnt.md",
-      "title": "Brandi Love Wants Ron DeSantis To Run in 2024 if Donald Trump Doesn't",
-      "excerpt": "\"Even I can admit that Donald Trump has an obnoxious arrogance about him that rubs some people the wrong way,\" the adult film actress told Newsweek.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/brandi-love-ron-desantis-2024-president-donald-trump-1613973",
-      "originalUrl": "https://www.newsweek.com/brandi-love-ron-desantis-2024-president-donald-trump-1613973",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1857361/ron-desantis-brandi-love.jpg",
-          "width": 1800,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/brandi-love-ron-desantis-2024-president-donald-trump-1613973?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/brandi-love-ron-desantis-2024-president-donald-trump-1613973?amp=1",
-      "publishedDateTime": "2021-07-28T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-joe-biden-in-the-lehigh-valley-spectators-waiting-for-a-glimpse-of-air-force-one.md",
-      "title": "Joe Biden in the Lehigh Valley: Spectators waiting for a glimpse of Air Force One",
-      "excerpt": "It’s a beautiful sunny day in the Lehigh Valley to try and catch a glimpse of Air Force One. Millie Wescoe traveled from her Bethlehem home to a clear vantage point along Race Street, happy she happened to be off of work on the day President Joe Biden decided to visit the Valley.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lehighvalleylive.com/lehigh-county/2021/07/joe-biden-in-the-lehigh-valley-watchers-waiting-for-a-glimpse-of-air-force-one.html",
-      "originalUrl": "https://www.lehighvalleylive.com/lehigh-county/2021/07/joe-biden-in-the-lehigh-valley-watchers-waiting-for-a-glimpse-of-air-force-one.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5FHQAUNXUVA7FCN4MK54GJMQ2E.JPG",
-          "width": 3300,
-          "height": 1804,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.lehighvalleylive.com/lehigh-county/2021/07/joe-biden-in-the-lehigh-valley-watchers-waiting-for-a-glimpse-of-air-force-one.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-lehighvalleylive-com.cdn.ampproject.org/c/s/www.lehighvalleylive.com/lehigh-county/2021/07/joe-biden-in-the-lehigh-valley-watchers-waiting-for-a-glimpse-of-air-force-one.html?outputType=amp",
-      "publishedDateTime": "2021-07-28T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lehigh Valley Live",
-        "domain": "lehighvalleylive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

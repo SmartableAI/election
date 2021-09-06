@@ -2,6 +2,176 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-07-17-pence-says-hes-had-enough-of-biden-as-he-looks-to-escape-trumps-shadow-in-iowa.md",
+      "title": "Pence says he's 'had enough' of Biden as he looks to escape Trump's shadow in Iowa",
+      "excerpt": "Former Vice President Mike Pence crisscrossed Iowa on Friday, assailing President Joe Biden's administration for unleashing \"a tidal wave of left-wing policies that threaten to wipe out all the progress that we made\" in speeches that could preview his potential 2024 message.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sOtQEwxHoaA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sOtQEwxHoaA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 569,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210716185507-mike-pence-0716-iowa-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/16/politics/pence-noem-pompeo-iowa/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/pence-noem-pompeo-iowa/index.html",
+      "publishedDateTime": "2021-07-16T17:19:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-pence-in-iowa-charges-biden-trying-to-turn-america-into-a-secular-welfare-state.md",
+      "title": "Pence, in Iowa, charges Biden trying to turn America into a ‘secular welfare state’",
+      "excerpt": "Former Vice President Mike Pence, making his first visit to Iowa since the end of the Trump administration, took aim at President Biden and spotlighted his social conservative credentials as he addressed a major gathering of Christian conservatives in the state whose caucuses for half a century have",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Yv-YWtnetg4/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Yv-YWtnetg4/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 334,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state.amp",
+      "publishedDateTime": "2021-07-16T16:50:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-noem-says-shes-counting-on-trump-running-again-in-2024.md",
+      "title": "Noem says she’s ‘counting’ on Trump running again in 2024",
+      "excerpt": "Republican Gov. Kristi Noem of South Dakota - speaking with Fox News during a trip to Iowa - says she’s “counting” on former President Trump to run again for the White House in 2024.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/snQEGjGRXaY/noem-says-shes-counting-on-trump-running-again-in-2024",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/snQEGjGRXaY/noem-says-shes-counting-on-trump-running-again-in-2024",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/noem-says-shes-counting-on-trump-running-again-in-2024.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/noem-says-shes-counting-on-trump-running-again-in-2024.amp",
+      "publishedDateTime": "2021-07-16T16:25:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-17-william-h-pauley-iii-judge-in-trump-hush-money-case-dies-at-68.md",
       "title": "William H. Pauley III, Judge in Trump Hush Money Case, Dies at 68",
       "excerpt": "He sentenced Michael D. Cohen to three years in prison for breaking campaign finance laws by helping to buy the silence of two women who said they had affairs with Donald J. Trump.",
@@ -1171,166 +1341,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-trump-says-hes-not-into-coups-after-book-claims-general-feared-dangerous-takeover.md",
-      "title": "Trump Says He's 'Not Into Coups' After Book Claims General Feared Dangerous Takeover",
-      "excerpt": "Even if he were interested in a coup, Trump said General Mark Milley is the \"last person\" he'd want to participate in one with.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-says-hes-not-coups-after-book-claims-general-feared-dangerous-takeover-1610158",
-      "originalUrl": "https://www.newsweek.com/trump-says-hes-not-coups-after-book-claims-general-feared-dangerous-takeover-1610158",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1846983/donald-trump-coup-mark-milley.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-says-hes-not-coups-after-book-claims-general-feared-dangerous-takeover-1610158?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-hes-not-coups-after-book-claims-general-feared-dangerous-takeover-1610158?amp=1",
-      "publishedDateTime": "2021-07-15T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-porsches-gucci-rings-and-billions-of-robocalls-inside-the-pac-operation-that-raised-millions-by-impersonating-donald-trump.md",
-      "title": "Porsches, Gucci rings, and billions of robocalls: Inside the PAC operation that raised millions by impersonating Donald Trump",
-      "excerpt": "At first glance, \"Matte Nox\" looks like your typical thirty-something wannabe Internet influencer, flaunting a lavish lifestyle on his public Instagram and TikTok accounts.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/T-pJ_mIOlQs/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/T-pJ_mIOlQs/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210604123529-20210607-mattenox-media-collage-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/15/politics/kfile-pac-trump-robocall-operation/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/kfile-pac-trump-robocall-operation/index.html",
-      "publishedDateTime": "2021-07-15T09:05:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-new-book-goes-behind-the-scenes-of-the-trump-presidency-and-re-election-campaign.md",
-      "title": "New book goes behind the scenes of the Trump presidency and re-election campaign",
-      "excerpt": "A new book offers a collection of one-on-one interviews with friends and staffers of former President Donald Trump, and even Mr. Trump himself. Michael C. Bender, author of \"Frankly, We Did Win This Election: The Inside Story of How Trump Lost,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/new-book-goes-behind-the-scenes-of-trump-presidency/",
-      "originalUrl": "https://www.cbsnews.com/video/new-book-goes-behind-the-scenes-of-trump-presidency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1435,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/15/f8645179-88a4-45f6-9391-952130800b23/thumbnail/1200x630/856f7c8b5c6fadcd019330fe36e97ec7/cbsn-fusion-new-book-goes-behind-the-scenes-of-trump-presidency-thumbnail-754512-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/video/new-book-goes-behind-the-scenes-of-trump-presidency/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/new-book-goes-behind-the-scenes-of-trump-presidency/",
-      "publishedDateTime": "2021-07-15T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -2,6 +2,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-07-ny-times-mocked-for-piece-on-biden-doctrine-following-afghanistan-exit-is-this-a-wh-press-release.md",
+      "title": "NY Times mocked for piece on 'Biden doctrine' following Afghanistan exit: 'Is this a WH press release?'",
+      "excerpt": "The New York Times' became the focus of intense mockery over what was seen as a puff piece seemingly praising President Joe Biden's foreign policy, despite the debacle that took place amid the U.S. withdrawal from Afghanistan last month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/new-york-times-puff-piece-biden-doctrine-afghanistan-debacle",
+      "originalUrl": "https://www.foxnews.com/media/new-york-times-puff-piece-biden-doctrine-afghanistan-debacle",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/28ce96d4-01e7-4d38-b251-616b2c5e33bf/a5ef951d-4ca3-4be5-88db-5f10eaf8b0a0/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/new-york-times-puff-piece-biden-doctrine-afghanistan-debacle.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-puff-piece-biden-doctrine-afghanistan-debacle.amp",
+      "publishedDateTime": "2021-09-06T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-07-biden-spends-labor-day-in-delaware-as-mounting-crises-sink-approval-rating.md",
+      "title": "Biden spends Labor Day in Delaware as mounting crises sink approval rating",
+      "excerpt": "It’s Biden’s 19th trip to his private residences in Delaware since taking office. He is scheduled to return to the White House around 6 p.m. Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/09/06/biden-spends-labor-day-in-delaware-amid-sinking-approval-ratings/",
+      "originalUrl": "https://nypost.com/2021/09/06/biden-spends-labor-day-in-delaware-amid-sinking-approval-ratings/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/09/biden-delaware-02.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/09/06/biden-spends-labor-day-in-delaware-amid-sinking-approval-ratings/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/06/biden-spends-labor-day-in-delaware-amid-sinking-approval-ratings/amp/",
+      "publishedDateTime": "2021-09-06T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-06-son-of-911-victim-to-biden-do-not-come-to-ground-zero-memorials.md",
       "title": "Son of 9/11 victim to Biden: Do not come to Ground Zero memorials",
       "excerpt": "Nic Haros Jr., the son of a 9/11 victim, urged President Biden to avoid attending 20-year memorials during an interview on \"Fox & Friends\" on Monday.",
@@ -1556,120 +1661,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-31-pete-hegseth-rips-biden-for-checking-watch-calls-out-betrayal-of-us-military-mission.md",
-      "title": "Pete Hegseth rips Biden for checking watch, calls out 'betrayal' of US military mission",
-      "excerpt": "Army veteran and ‘Fox & Friends Weekend’ co-host Pete Hegseth ripped into Joe Biden on Monday after Gold Star families criticized the president for repeatedly checking his watch while meeting with them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/biden-checking-watch-betrayal-military-hegseth",
-      "originalUrl": "https://www.foxnews.com/media/biden-checking-watch-betrayal-military-hegseth",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b475c4af-ac40-44aa-a114-920cccc3d52a/51978ba7-0064-41e2-bd9d-73365cc9f209/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/biden-checking-watch-betrayal-military-hegseth.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-checking-watch-betrayal-military-hegseth.amp",
-      "publishedDateTime": "2021-08-31T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-31-ingraham-team-biden-building-back-weaker-with-officials-on-summer-break.md",
-      "title": "Ingraham: Team Biden 'building back weaker' with officials on 'summer break'",
-      "excerpt": "Laura Ingraham said Biden is \"building back weaker\" Monday on \"The Ingraham Angle,\" noting the \"heart-wrenching\" situation in Afghanistan as the remainder of U.S. troops left the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/ingraham-team-biden-building-back-weaker-officials-summer-break",
-      "originalUrl": "https://www.foxnews.com/media/ingraham-team-biden-building-back-weaker-officials-summer-break",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a458d6f-c4b6-4909-bd2a-c01a34736a37/0d45f21e-d88d-46fc-ab53-9b6bb60bde2b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/ingraham-team-biden-building-back-weaker-officials-summer-break.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ingraham-team-biden-building-back-weaker-officials-summer-break.amp",
-      "publishedDateTime": "2021-08-30T21:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     }

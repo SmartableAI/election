@@ -2,6 +2,163 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2021-04-22-analysis-us-financial-regulators-in-hot-seat-as-biden-ramps-up-climate-agenda.md",
+      "title": "Analysis: U.S. financial regulators in hot seat as Biden ramps up climate agenda",
+      "excerpt": "As U.S. President Joe Biden escalates his climate change agenda, pressure is growing on the country's regulators to catch up with Europe and incorporate various risks posed by climate change into their oversight of the financial system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-global-climate-summit-regulators-anal-idUSKBN2C91E2",
+      "originalUrl": "https://www.reuters.com/article/us-global-climate-summit-regulators-anal-idUSKBN2C91E2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210422&t=2&i=1559548915&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3L0LC",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2C91E2",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C91E2",
+      "publishedDateTime": "2021-04-22T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-george-w-bush-says-he-probably-wouldnt-golf-at-a-trump-property.md",
+      "title": "George W. Bush Says He Probably Wouldn't Golf at a Trump Property",
+      "excerpt": "\"I like my properties here in Dallas,\" the former Republican president said during a recent appearance on late-night TV.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/george-w-bush-says-he-probably-wouldnt-golf-trump-property-1585680",
+      "originalUrl": "https://www.newsweek.com/george-w-bush-says-he-probably-wouldnt-golf-trump-property-1585680",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1781665/george-w-bush.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/george-w-bush-says-he-probably-wouldnt-golf-trump-property-1585680?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/george-w-bush-says-he-probably-wouldnt-golf-trump-property-1585680?amp=1",
+      "publishedDateTime": "2021-04-22T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-watch-live-biden-harris-speak-at-virtual-climate-summit.md",
+      "title": "Watch live: Biden, Harris speak at virtual climate summit",
+      "excerpt": "President Biden and Vice President Harris are scheduled to speak at the opening of a virtual White House climate summit on Thursday morning. Their remarks are expected to begin at 8 a.m.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/energy-environment/549658-watch-live-biden-harris-speak-at-virtual-climate-summit",
+      "originalUrl": "https://thehill.com/policy/energy-environment/549658-watch-live-biden-harris-speak-at-virtual-climate-summit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 2530,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenharris_1_0.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/energy-environment/549658-watch-live-biden-harris-speak-at-virtual-climate-summit?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/549658-watch-live-biden-harris-speak-at-virtual-climate-summit?amp",
+      "publishedDateTime": "2021-04-22T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-lara-trump-is-wild-card-in-north-carolina-senate-race.md",
       "title": "Lara Trump is wild card in North Carolina Senate race",
       "excerpt": "Former President Trump’s daughter-in-law Lara Trump is looming over the Republican Senate primary in North Carolina as the field grows with some of the state’s biggest GOP names.",
@@ -1199,172 +1356,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-foxconn-mostly-abandons-10-billion-wisconsin-project-touted-by-trump.md",
-      "title": "Foxconn mostly abandons $10 billion Wisconsin project touted by Trump",
-      "excerpt": "Taiwan electronics manufacturer Foxconn is drastically scaling back a planned $10 billion factory in Wisconsin, confirming its retreat from a project that former U.S. President Donald Trump once called \"the eighth wonder of the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-foxconn-wisconsin-idUKKBN2C72T9",
-      "originalUrl": "https://www.reuters.com/article/us-foxconn-wisconsin-idUKKBN2C72T9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210420&t=2&i=1559266979&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3J1HK",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN2C72T9",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2C72T9",
-      "publishedDateTime": "2021-04-20T19:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-biden-harris-slam-systemic-racism-in-us-say-chauvin-guilty-verdict-is-giant-step-toward-racial-justice.md",
-      "title": "Biden, Harris slam 'systemic racism' in US, say Chauvin guilty verdict is 'giant step' toward racial justice",
-      "excerpt": "The guilty verdict in the murder trial of former Minneapolis police Officer Derek Chauvin \"can be a giant step forward in the march toward justice in America,\" President Biden and Vice President Harris said Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vk8o4NRU-QQ/biden-harris-say-chauvin-guilty-verdict-is-giant-step-toward-racial-justice-call-for-congress-to-act",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vk8o4NRU-QQ/biden-harris-say-chauvin-guilty-verdict-is-giant-step-toward-racial-justice-call-for-congress-to-act",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 301,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-harris-say-chauvin-guilty-verdict-is-giant-step-toward-racial-justice-call-for-congress-to-act.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-say-chauvin-guilty-verdict-is-giant-step-toward-racial-justice-call-for-congress-to-act.amp",
-      "publishedDateTime": "2021-04-20T17:15:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-brian-sicknick-death-ruling-debunks-media-narrative-that-fueled-second-trump-impeachment-hurt.md",
-      "title": "Brian Sicknick death ruling debunks media narrative that fueled second Trump impeachment: Hurt",
-      "excerpt": "The official ruling on the cause of U.S. Capitol Police officer Brian Sicknick's death debunks the media narrative upon which former President Donald Trump's second impeachment was largely predicated,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/brian-sicknick-death-medical-examiner-charlie-hurt-reaction",
-      "originalUrl": "https://www.foxnews.com/media/brian-sicknick-death-medical-examiner-charlie-hurt-reaction",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Brian-Sicknick-sharp.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/brian-sicknick-death-medical-examiner-charlie-hurt-reaction.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/brian-sicknick-death-medical-examiner-charlie-hurt-reaction.amp",
-      "publishedDateTime": "2021-04-20T13:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

@@ -233,6 +233,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden directs federal aid to NY, NJ after deadly flooding"
+    excerpt: "President Joe Biden approved major disaster declarations Monday greenlighting federal aid for people in six New Jersey counties and five New York counties affected by devastating flooding last week from the remnants of Hurricane Ida."
+    publishedDateTime: 2021-09-06T17:26:00Z
+    webUrl: "https://www.expressnews.com/news/article/Biden-directs-federal-aid-to-NY-NJ-after-deadly-16438508.php"
+    ampWebUrl: "https://www.expressnews.com/news/amp/Biden-directs-federal-aid-to-NY-NJ-after-deadly-16438508.php"
+    cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/amp/Biden-directs-federal-aid-to-NY-NJ-after-deadly-16438508.php"
+    type: article
+    provider:
+      name: San Antonio Express-News
+      domain: expressnews.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/60/71/21433925/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "President Joe Biden to mark 20th anniversary of 9/11 at 3 memorial sites"
     excerpt: "President Joe Biden will visit ground zero in New York City, the Pentagon and the memorial outside Shanksville, Pennsylvania, where United Flight 93 was forced down, the White House said Saturday."
     publishedDateTime: 2021-09-04T19:29:00Z
@@ -362,6 +378,20 @@ related:
       - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
         width: 800
         height: 400
+        isCached: true
+  - title: "Biden to mark 20th anniversary of 9/11 at 3 memorial sites"
+    excerpt: "Biden will visit ground zero in New York City, the Pentagon and the memorial outside Shanksville, Pennsylvania, where United Flight 93 was forced down, the White House said Saturday."
+    publishedDateTime: 2021-09-06T17:35:00Z
+    webUrl: "https://bangordailynews.com/2021/09/06/national-politics/biden-to-mark-20th-anniversary-of-9-11-at-3-memorial-sites/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/09/Biden-3-1-e1630949690235.jpg"
+        width: 1024
+        height: 640
         isCached: true
   - title: "President Joe Biden Proclaims Thursday, 26, 2021 as Women’s Equality Day"
     excerpt: "On President Joe Biden proclaimed August 26, 2021 as Women’s Equality Day. Today, we celebrate Women’s Equality Day, a reminder not only of the progress women have won through the years, but of the important work that remains to be done."

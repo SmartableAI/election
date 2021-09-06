@@ -2,6 +2,172 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2021-04-21-foxconn-mostly-abandons-10-billion-wisconsin-project-touted-by-trump.md",
+      "title": "Foxconn mostly abandons $10 billion Wisconsin project touted by Trump",
+      "excerpt": "Taiwan electronics manufacturer Foxconn is drastically scaling back a planned $10 billion factory in Wisconsin, confirming its retreat from a project that former U.S. President Donald Trump once called \"the eighth wonder of the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-foxconn-wisconsin-idUKKBN2C72T9",
+      "originalUrl": "https://www.reuters.com/article/us-foxconn-wisconsin-idUKKBN2C72T9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210420&t=2&i=1559266979&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3J1HK",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN2C72T9",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2C72T9",
+      "publishedDateTime": "2021-04-20T19:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-biden-harris-slam-systemic-racism-in-us-say-chauvin-guilty-verdict-is-giant-step-toward-racial-justice.md",
+      "title": "Biden, Harris slam 'systemic racism' in US, say Chauvin guilty verdict is 'giant step' toward racial justice",
+      "excerpt": "The guilty verdict in the murder trial of former Minneapolis police Officer Derek Chauvin \"can be a giant step forward in the march toward justice in America,\" President Biden and Vice President Harris said Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vk8o4NRU-QQ/biden-harris-say-chauvin-guilty-verdict-is-giant-step-toward-racial-justice-call-for-congress-to-act",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vk8o4NRU-QQ/biden-harris-say-chauvin-guilty-verdict-is-giant-step-toward-racial-justice-call-for-congress-to-act",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 301,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-harris-say-chauvin-guilty-verdict-is-giant-step-toward-racial-justice-call-for-congress-to-act.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-say-chauvin-guilty-verdict-is-giant-step-toward-racial-justice-call-for-congress-to-act.amp",
+      "publishedDateTime": "2021-04-20T17:15:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-brian-sicknick-death-ruling-debunks-media-narrative-that-fueled-second-trump-impeachment-hurt.md",
+      "title": "Brian Sicknick death ruling debunks media narrative that fueled second Trump impeachment: Hurt",
+      "excerpt": "The official ruling on the cause of U.S. Capitol Police officer Brian Sicknick's death debunks the media narrative upon which former President Donald Trump's second impeachment was largely predicated,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/brian-sicknick-death-medical-examiner-charlie-hurt-reaction",
+      "originalUrl": "https://www.foxnews.com/media/brian-sicknick-death-medical-examiner-charlie-hurt-reaction",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Brian-Sicknick-sharp.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/brian-sicknick-death-medical-examiner-charlie-hurt-reaction.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/brian-sicknick-death-medical-examiner-charlie-hurt-reaction.amp",
+      "publishedDateTime": "2021-04-20T13:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-biden-doj-dispatches-peacemakers-to-minneapolis-ahead-of-chauvin-verdict-report.md",
       "title": "Biden DOJ dispatches 'peacemakers' to Minneapolis ahead of Chauvin verdict: report",
       "excerpt": "The Justice Department has reportedly dispatched officials from its Community Relations Service to act as peacemakers and facilitate listening sessions in Minneapolis.",
@@ -1166,167 +1332,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-trump-shifts-focus-from-clintons-emails-by-praising-saddam-hussein.md",
-      "title": "Trump shifts focus from Clinton's emails by praising Saddam Hussein",
-      "excerpt": "CBS News' Major Garrett reports on Donald Trump's response to the FBI's decision over the Clinton email case - and his decision to change the subject.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/donald-trump-shifts-focus-from-hillary-clintons-emails-by-praising-saddam-hussein/",
-      "originalUrl": "https://www.cbsnews.com/video/donald-trump-shifts-focus-from-hillary-clintons-emails-by-praising-saddam-hussein/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/19/ab2775b1-3360-4798-84f8-ed746dc34232/thumbnail/1200x630/b39d84bc0b1596ec9484322906eaef9f/cbsn-trump-saddam-0706-1089252-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T02:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-graham-i-could-not-disagree-more-with-trump-support-of-afghanistan-troop-withdrawal.md",
-      "title": "Graham: 'I could not disagree more' with Trump support of Afghanistan troop withdrawal",
-      "excerpt": "Lindsey Graham (R-S.C.) on Sunday pushed back on former President Trump 's support for removing all troops from Afghanistan, writing on Twitter that he “could not disagree more with former President Trump regarding his support for President Biden ’s withdrawal of all forces from Afghanistan against sound military advice.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/senate/548931-graham-slams-trump-support-for-afghanistan-troop-withdrawal-i-could-not",
-      "originalUrl": "https://thehill.com/homenews/senate/548931-graham-slams-trump-support-for-afghanistan-troop-withdrawal-i-could-not",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_grahamlindsey_11062019getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/senate/548931-graham-slams-trump-support-for-afghanistan-troop-withdrawal-i-could-not?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/548931-graham-slams-trump-support-for-afghanistan-troop-withdrawal-i-could-not?amp",
-      "publishedDateTime": "2021-04-18T20:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-babylon-bee-editor-in-chief-scolds-samantha-bee-for-pulling-punches-on-biden-blinded-by-your-own-worldview.md",
-      "title": "Babylon Bee editor in chief scolds Samantha Bee for pulling punches on Biden: 'Blinded by your own worldview'",
-      "excerpt": "The editor-in-chief of the popular satirical website The Babylon Bee sounded off at TBS’ far-left \"Full Frontal\" host Samantha Bee over the weekend after she admitted to going easy on President Biden despite years of hard-hitting jokes at the expense of his predecessor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/babylon-bee-editor-in-chief-scolds-samantha-bee-for-pulling-punches-on-biden-blinded-by-your-own-worldview",
-      "originalUrl": "https://www.foxnews.com/media/babylon-bee-editor-in-chief-scolds-samantha-bee-for-pulling-punches-on-biden-blinded-by-your-own-worldview",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/Samantha-Bee-628x354.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/babylon-bee-editor-in-chief-scolds-samantha-bee-for-pulling-punches-on-biden-blinded-by-your-own-worldview.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/babylon-bee-editor-in-chief-scolds-samantha-bee-for-pulling-punches-on-biden-blinded-by-your-own-worldview.amp",
-      "publishedDateTime": "2021-04-18T14:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     }

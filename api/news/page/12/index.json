@@ -2,6 +2,144 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-08-10-grim-afghan-news-raises-risk-for-biden-of-taliban-takeover.md",
+      "title": "Grim Afghan news raises risk for Biden of Taliban takeover",
+      "excerpt": "A rapidly deteriorating security situation in Afghanistan weeks before the official end of the U.S. military mission is putting pressure on President Biden as he sticks to his plan to pull America out of its longest war.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/defense/567049-grim-afghan-news-raises-risk-for-biden-of-taliban-takeover",
+      "originalUrl": "https://thehill.com/policy/defense/567049-grim-afghan-news-raises-risk-for-biden-of-taliban-takeover",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 465,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/article_images/security-patrol_herat_afghanistan_080621getty_afghanistan.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/defense/567049-grim-afghan-news-raises-risk-for-biden-of-taliban-takeover?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/567049-grim-afghan-news-raises-risk-for-biden-of-taliban-takeover?amp",
+      "publishedDateTime": "2021-08-09T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-trump-says-he-will-do-something-about-homelessness.md",
+      "title": "Trump says he will do ‘something’ about homelessness",
+      "excerpt": "President Donald Trump began a California visit on Tuesday, saying he will do \"something\" about homelessness but offering no specifics beyond the mention of creating a task force.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/donald-trump-geoffrey-palmer-california-los-angeles-san-francisco-df5a1a2a105d42eaa3946b586fc29536",
+      "originalUrl": "https://apnews.com/article/donald-trump-geoffrey-palmer-california-los-angeles-san-francisco-df5a1a2a105d42eaa3946b586fc29536",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/afs-prod/media/334c3ffb31f34c3aa8a178bb26ae6f1f/3000.jpeg",
+          "width": 3000,
+          "height": 1999,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T14:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-pence-cruz-desantis-to-headline-ricketts-steak-fry-event.md",
+      "title": "Pence, Cruz, DeSantis to headline Ricketts steak fry event",
+      "excerpt": "Former Vice President Mike Pence, Texas Sen. Ted Cruz and Florida Gov. Ron DeSantis are coming to Nebraska for Gov. Pete Ricketts' annual steak fry next month. The high-profile Republicans will appear at the gathering to celebrate agriculture on Sept.",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/news/article/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php",
+      "originalUrl": "https://www.houstonchronicle.com/news/article/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.houstonchronicle.com/news/amp/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php",
+      "publishedDateTime": "2021-08-09T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-biden-administration-issues-final-extension-of-student-loan-payment-pause-is-cancellation-next.md",
       "title": "Biden administration issues 'final extension' of student loan payment pause: Is cancellation next?",
       "excerpt": "Federal student loan borrowers will not have to make payments on their federal loans until February 2022, thanks to the “final extension” from Education Department.",
@@ -1158,171 +1296,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-biden-touts-clean-car-drive-as-part-of-a-blue-collar-blueprint-for-economy.md",
-      "title": "Biden touts clean car drive as part of a ‘blue-collar blueprint’ for economy",
-      "excerpt": "President Biden touted his latest executive order in a Thursday press event, saying the push for a clean car overhaul follows the “blue-collar blueprint” of his infrastructure plan.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n1F-QDK_pMY/biden-touts-clean-car-launch-as-part-of-a-blue-collar-blueprint-in-infrastructure-plan",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n1F-QDK_pMY/biden-touts-clean-car-launch-as-part-of-a-blue-collar-blueprint-in-infrastructure-plan",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cf423bad-60a1-4772-8c27-372de6cf790f/ebc7a96f-8818-4f28-8b9a-9cde907d81ba/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-touts-clean-car-launch-as-part-of-a-blue-collar-blueprint-in-infrastructure-plan.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-touts-clean-car-launch-as-part-of-a-blue-collar-blueprint-in-infrastructure-plan.amp",
-      "publishedDateTime": "2021-08-05T13:59:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-biden-grants-safe-haven-to-hongkongers-in-us-amid-china-crackdown.md",
-      "title": "Biden grants ‘safe haven’ to Hongkongers in US amid China crackdown",
-      "excerpt": "President signs memo allowing people from Hong Kong currently residing in US to live and work in country for 18 months",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/2021/aug/05/biden-hong-kong-china-crackdown",
-      "originalUrl": "https://www.theguardian.com/world/2021/aug/05/biden-hong-kong-china-crackdown",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/87778799e7d25e3feec766105a7e4d6e927f19da/0_200_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6621bc54c9b12fba8565edebe23bcc9f",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/2021/aug/05/biden-hong-kong-china-crackdown",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/aug/05/biden-hong-kong-china-crackdown",
-      "publishedDateTime": "2021-08-05T13:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-pence-urges-young-conservatives-to-go-get-covid-vaccine-shot.md",
-      "title": "Pence urges young conservatives 'to go get' COVID vaccine shot",
-      "excerpt": "Former Vice President Mike Pence, who was very much the public face of the Trump administration's efforts to help drug makers quickly produce an effective coronavirus vaccine through Operation Warp Speed, is urging young conservatives to get vaccinated.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/p1M_MNzwwTw/pence-young-conservatives-get-covid-vaccine-shot",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/p1M_MNzwwTw/pence-young-conservatives-get-covid-vaccine-shot",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-young-conservatives-get-covid-vaccine-shot.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-young-conservatives-get-covid-vaccine-shot.amp",
-      "publishedDateTime": "2021-08-05T09:16:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
       ]
     }
   ],

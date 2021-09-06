@@ -2,6 +2,118 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-04-12-chris-christie-biden-lying-about-spending-package-going-toward-infrastructure.md",
+      "title": "Chris Christie: Biden 'lying' about spending package going toward 'infrastructure'",
+      "excerpt": "Chris Christie on Sunday accused President Biden of \"lying\" about his nearly $2 trillion infrastructure package — saying he’s calling a \"dog a cat\" because it goes far beyond rebuilding roads and bridges to include Democratic priorities like healthcare.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5hHd_PHUK-E/chris-christie-biden-lying-about-spending-package-going-toward-infrastructure",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5hHd_PHUK-E/chris-christie-biden-lying-about-spending-package-going-toward-infrastructure",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/458e1351-a334-436c-a243-c5de219cc253/ba8d7be5-8ec3-40ae-85ca-a697844886d5/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/chris-christie-biden-lying-about-spending-package-going-toward-infrastructure.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-christie-biden-lying-about-spending-package-going-toward-infrastructure.amp",
+      "publishedDateTime": "2021-04-12T08:44:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-biden-aims-to-redefine-word-bipartisan-as-dems-work-to-push-spending-bill-without-any-gop-votes.md",
+      "title": "Biden aims to redefine word ‘bipartisan’ as Dems work to push spending bill without any GOP votes",
+      "excerpt": "President Biden vowed to bridge the partisan political divide but, struggling to garner Republican support for major bills, his administration appears to be changing the narrative by redefinining what \"bipartisan\" means.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wiJ0cferris/biden-redefine-bipartisan-dems-push-spending-bill-without-gop-votes",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wiJ0cferris/biden-redefine-bipartisan-dems-push-spending-bill-without-gop-votes",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-redefine-bipartisan-dems-push-spending-bill-without-gop-votes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-redefine-bipartisan-dems-push-spending-bill-without-gop-votes.amp",
+      "publishedDateTime": "2021-04-12T06:10:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-gingrich-kamala-harris-put-in-charge-of-border-because-they-knew-she-wouldnt-do-anything.md",
       "title": "Gingrich: Kamala Harris put in charge of border 'because they knew she wouldn’t do anything'",
       "excerpt": "Newt Gingrich claimed Monday on \"Fox & Friends\" that the border crisis was not a mistake and that Vice President Kamala Harris was put in charge because they knew she wouldn't do anything to fix the situation. NEWT GINGRICH: If you look at a piece of ...",
@@ -1565,120 +1677,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-gops-mccarthy-says-vp-harris-should-attend-fbi-cia-terror-briefing-i-know-she-hasnt-been-to-the-border.md",
-      "title": "GOP's McCarthy says VP Harris should attend FBI-CIA terror briefing: 'I know she hasn't been to the border'",
-      "excerpt": "House Minority Leader Kevin McCarthy confirmed Wednesday he has requested a classified briefing from the FBI and CIA over two Yemeni men on the FBI’s terror watch list who were allegedly caught crossing the U.S.-Mexico border two months apart this year.   ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l2NdPX8M5DY/gops-mccarthy-says-vp-harris-should-attend-fbi-cia-terror-briefing-i-know-she-hasnt-been-to-the-border",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l2NdPX8M5DY/gops-mccarthy-says-vp-harris-should-attend-fbi-cia-terror-briefing-i-know-she-hasnt-been-to-the-border",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/25765ca5-95d1-44bd-828f-9e689aac6cea/b5b7fab8-d56e-482d-97e5-1316f522bb1c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/gops-mccarthy-says-vp-harris-should-attend-fbi-cia-terror-briefing-i-know-she-hasnt-been-to-the-border.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gops-mccarthy-says-vp-harris-should-attend-fbi-cia-terror-briefing-i-know-she-hasnt-been-to-the-border.amp",
-      "publishedDateTime": "2021-04-08T00:59:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-mayorkas-not-biden-or-harris-heading-to-texas-border-towns-thursday.md",
-      "title": "Mayorkas -- not Biden or Harris -- heading to Texas border towns Thursday",
-      "excerpt": "U.S. Homeland Security Secretary Alejandro Mayorkas will travel to two Texas border towns Thursday, according to reports.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RvCUqkIT1Uw/mayorkas-biden-harris-texas-border",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RvCUqkIT1Uw/mayorkas-biden-harris-texas-border",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 859,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21091647660858.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mayorkas-biden-harris-texas-border.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mayorkas-biden-harris-texas-border.amp",
-      "publishedDateTime": "2021-04-07T20:51:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

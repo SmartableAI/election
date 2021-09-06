@@ -2,6 +2,163 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-08-24-hostile-trump-mob-sends-gop-rep-brooks-into-panicked-backpedal-on-moving-on-from-2020.md",
+      "title": "Hostile Trump mob sends GOP Rep. Brooks into panicked backpedal on moving on from 2020",
+      "excerpt": "Rachel Maddow shares video of Republican Congressman Mo Brooks being roundly booed by the audience at a Donald Trump rally in Alabama after Brooks suggested they move on from Trump's 2020 loss and focus on future elections.",
+      "sourceUrl": null,
+      "webUrl": "https://www.msnbc.com/rachel-maddow/watch/hostile-trump-mob-sends-gop-rep-brooks-into-panicked-backpedal-on-moving-on-from-2020-119318597524",
+      "originalUrl": "https://www.msnbc.com/rachel-maddow/watch/hostile-trump-mob-sends-gop-rep-brooks-into-panicked-backpedal-on-moving-on-from-2020-119318597524",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_08/1629780121191_n_maddow_brooks_210823_1920x1080-6wbvgr.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.msnbc.com/msnbc/amp-video/mmvo119318597524",
+      "cdnAmpWebUrl": "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo119318597524",
+      "publishedDateTime": "2021-08-23T21:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSNBC",
+        "domain": "msnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/msnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-beijing-continues-to-coerce-and-intimidate-in-south-china-sea-kamala-harris.md",
+      "title": "Beijing Continues To \"Coerce\" And \"Intimidate\" In South China Sea: Kamala Harris",
+      "excerpt": "U.S. Vice President Kamala Harris on Tuesday accused Beijing of continuing to \"coerce\" and \"intimidate\" in the South China Sea and pledged that Washington would pursue a free and open Indo Pacific.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/world-news/kamala-harris-says-beijing-continues-to-coerce-and-intimidate-in-south-china-sea-2517148",
+      "originalUrl": "https://www.ndtv.com/world-news/kamala-harris-says-beijing-continues-to-coerce-and-intimidate-in-south-china-sea-2517148",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2021-08/kvgn5vh_kamala-harris_625x300_24_August_21.jpeg?im=FaceCrop,algorithm=dnn,width=650,height=400",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/world-news/kamala-harris-says-beijing-continues-to-coerce-and-intimidate-in-south-china-sea-2517148?amp=1&akamai-rum=off",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/kamala-harris-says-beijing-continues-to-coerce-and-intimidate-in-south-china-sea-2517148?amp=1&akamai-rum=off",
+      "publishedDateTime": "2021-08-23T20:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-why-is-joe-biden-suing-facebook-and-instagram-over-vaccine-posts.md",
+      "title": "Why is Joe Biden suing Facebook and Instagram over vaccine posts?",
+      "excerpt": "Facebook is back in hot water after an explosive New York Times investigative report found the company hid the truth about its most popular viral content after the company discovered the most-viewed link on the platform raised doubt about the coronavirus vaccine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.msnbc.com/the-beat-with-ari/watch/why-is-joe-biden-suing-facebook-and-instagram-over-vaccine-posts-119303237830",
+      "originalUrl": "https://www.msnbc.com/the-beat-with-ari/watch/why-is-joe-biden-suing-facebook-and-instagram-over-vaccine-posts-119303237830",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_08/1629760614362_n_ari_fb_210823_1920x1080-6uycn1.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.msnbc.com/msnbc/amp-video/mmvo119303237830",
+      "cdnAmpWebUrl": "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo119303237830",
+      "publishedDateTime": "2021-08-23T16:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSNBC",
+        "domain": "msnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/msnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-seattle-storm-visit-president-biden-white-house-to-celebrate-2020-wnba-title.md",
       "title": "Seattle Storm visit President Biden, White House to celebrate 2020 WNBA title",
       "excerpt": "The Storm became the first women’s team welcomed by President Biden and the first WNBA squad at the White House since the 2015 Minnesota Lynx.",
@@ -1131,153 +1288,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-22-stubborn-joe-biden-just-wouldnt-listen-goodwin.md",
-      "title": "Stubborn Joe Biden just wouldn’t listen: Goodwin",
-      "excerpt": "President Biden’s leftist ideology is costing American and Afghan lives in Kabul after ignoring crucial warnings from the US embassy — and now the terrorists are more powerful than",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/08/21/stubborn-joe-biden-just-wouldnt-listen-goodwin/",
-      "originalUrl": "https://nypost.com/2021/08/21/stubborn-joe-biden-just-wouldnt-listen-goodwin/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/BIdenAfghan.jpg?quality=90&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/08/21/stubborn-joe-biden-just-wouldnt-listen-goodwin/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/21/stubborn-joe-biden-just-wouldnt-listen-goodwin/amp/",
-      "publishedDateTime": "2021-08-21T19:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-22-more-than-half-of-kinzingers-gop-primary-challengers-believe-trump-won-the-2020-election.md",
-      "title": "More than half of Kinzinger's GOP primary challengers believe Trump won the 2020 election",
-      "excerpt": "Even though allegations of widespread fraud in the 2020 presidential election haven't been substantiated, four conservatives challenging Republican U.S. Rep. Adam Kinzinger for his congressional seat insist Donald Trump actually won reelection.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailyherald.com/news/20210821/more-than-half-of-kinzingers-gop-primary-challengers-believe-trump-won-the-2020-election",
-      "originalUrl": "https://www.dailyherald.com/news/20210821/more-than-half-of-kinzingers-gop-primary-challengers-believe-trump-won-the-2020-election",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailyherald.com/storyimage/DA/20210821/news/210829838/AR/0/AR-210829838.jpg&updated=202108211740&MaxW=800&MaxH=800&noborder",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailyherald.com/amp-article/20210821/news/210829838/",
-      "cdnAmpWebUrl": "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20210821/news/210829838/",
-      "publishedDateTime": "2021-08-21T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-west-virginia-ag-sues-biden-admin-over-border-policy-reversal-tied-to-devastating-fentanyl-flow.md",
-      "title": "West Virginia AG sues Biden admin over border policy reversal tied to ‘devastating’ fentanyl flow",
-      "excerpt": "West Virginia Attorney General Patrick Morrisey is suing the Biden administration over a key immigration policy reversal he says has fueled a \"devastating\" flow in the deadly drug fentanyl.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/npPxVxOGCok/west-virginia-ag-sues-biden-admin-border-policy-reversal-fentanyl-flow",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/npPxVxOGCok/west-virginia-ag-sues-biden-admin-border-policy-reversal-fentanyl-flow",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e49d999-9f92-4efd-9c58-05c385460bbe/0a6e795f-feac-429f-bb80-82dff9edf5b3/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/west-virginia-ag-sues-biden-admin-border-policy-reversal-fentanyl-flow.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/west-virginia-ag-sues-biden-admin-border-policy-reversal-fentanyl-flow.amp",
-      "publishedDateTime": "2021-08-21T14:09:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

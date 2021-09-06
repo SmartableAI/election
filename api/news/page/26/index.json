@@ -2,6 +2,166 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-07-09-biden-fires-social-security-commissioner-andrew-saul-who-says-he-isnt-leaving.md",
+      "title": "Biden fires Social Security Commissioner Andrew Saul, who says he isn't leaving",
+      "excerpt": "President Biden fired Social Security Commissioner Andrew Saul on Friday amid an ongoing dispute over his leadership of the independent agency responsible for administering retirement and disability benefits.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/opT7wAUS-YM/biden-fires-social-security-commissioner-andrew-saul",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/opT7wAUS-YM/biden-fires-social-security-commissioner-andrew-saul",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1faec23e-7f7d-40d8-994d-78cb65174268/9d242ef5-c1ea-423d-872d-10d8308323e4/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-fires-social-security-commissioner-andrew-saul.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-fires-social-security-commissioner-andrew-saul.amp",
+      "publishedDateTime": "2021-07-09T15:27:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-los-angeles-mayor-garcetti-tapped-by-biden-to-be-ambassador-to-india.md",
+      "title": "Los Angeles Mayor Garcetti tapped by Biden to be ambassador to India",
+      "excerpt": "President Biden is looking to Los Angeles Mayor Eric Garcetti to be the next U.S. ambassador to India.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1Yj2mocpjK0/los-angeles-mayor-garcetti-biden-ambassador-india",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1Yj2mocpjK0/los-angeles-mayor-garcetti-biden-ambassador-india",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/07/720/405/AP21183567372792-e1625868017453.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/los-angeles-mayor-garcetti-biden-ambassador-india.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/los-angeles-mayor-garcetti-biden-ambassador-india.amp",
+      "publishedDateTime": "2021-07-09T15:17:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-10-trump-headlines-fundraiser-for-nys-republican-party.md",
+      "title": "Trump headlines fundraiser for NYS Republican Party",
+      "excerpt": "Former President Donald Trump is headlining an Aug. 5 fundraiser for the New York State Republican Party. The ticket asking price is $1,000 to attend the reception, $5,000 for the reception and a Trump photo op and $25,",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/07/09/trump-headlines-fundraiser-for-nys-republican-party/",
+      "originalUrl": "https://nypost.com/2021/07/09/trump-headlines-fundraiser-for-nys-republican-party/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-headling-republican-fundraiser-03.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/07/09/trump-headlines-fundraiser-for-nys-republican-party/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/09/trump-headlines-fundraiser-for-nys-republican-party/amp/",
+      "publishedDateTime": "2021-07-09T14:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-10-more-competition-biden-signs-order-targeting-big-business.md",
       "title": "More competition: Biden signs order targeting big business",
       "excerpt": "President Joe Biden has signed an executive order that targets what he says are anticompetitive practices in tech, health care and other parts of the economy",
@@ -1191,163 +1351,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-hannity-biden-called-georgia-voter-law-jim-crow-but-heres-the-truth-about-his-home-state.md",
-      "title": "Hannity: Biden called Georgia voter law 'Jim Crow' but here's the truth about his home state",
-      "excerpt": "Sean Hannity, host of \"Hannity,\" slammed President Joe Biden and the left for now supporting a push for voter ID laws. Hannity pointed out Wednesday that if Democrats want to be taken seriously, then Democrat-run states such as Delaware,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/hannity-biden-delaware-democrats-voter-restrictions",
-      "originalUrl": "https://www.foxnews.com/media/hannity-biden-delaware-democrats-voter-restrictions",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/hannity-biden-delaware-democrats-voter-restrictions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-biden-delaware-democrats-voter-restrictions.amp",
-      "publishedDateTime": "2021-07-08T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-lara-trump-crt-teaches-us-to-judge-people-on-the-color-of-their-skin.md",
-      "title": "Lara Trump: CRT teaches us to 'judge people on the color of their skin'",
-      "excerpt": "Fox News contributor Lara Trump joined “Fox & Friends” Thursday, suggesting that critical race theory is teaching children to “judge people on the color of their skin” and stating it’s “dead wrong.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge-people-on-skin-color",
-      "originalUrl": "https://www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge-people-on-skin-color",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2858645-f93e-4a1b-896c-77c9788113ae/8fdd5859-d6bc-4c75-8698-a5c38e1fe80f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge-people-on-skin-color.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge-people-on-skin-color.amp",
-      "publishedDateTime": "2021-07-08T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-fact-check-photo-does-not-show-biden-kneeling-before-israeli-president-pledging-support.md",
-      "title": "Fact Check-Photo does not show Biden kneeling before Israeli President ‘pledging support’",
-      "excerpt": "A picture of U.S. President Joe Biden kneeling in front of outgoing Israeli President Reuven Rivlin and his chief of staff Rivka Ravitz has been mislabeled online. Some posts and articles have wrongly said he adopted the pose to “pledge unconditional support to",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/factcheck-biden-rivlin-idUSL2N2OK1CG",
-      "originalUrl": "https://www.reuters.com/article/factcheck-biden-rivlin-idUSL2N2OK1CG",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL2N2OK1CG",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2OK1CG",
-      "publishedDateTime": "2021-07-08T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

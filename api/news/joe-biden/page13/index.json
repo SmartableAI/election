@@ -2,6 +2,167 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-04-08-biden-nominates-interior-deputy-as-departments-top-lawyer.md",
+      "title": "Biden nominates Interior deputy as department's top lawyer",
+      "excerpt": "President Biden Joe Biden Iran espionage-linked ship attacked at sea Biden exceeds expectations on vaccines — so far Jill Biden to visit Alabama with actress Jennifer Garner MORE has nominated ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/energy-environment/546949-biden-nominates-interior-deputy-as-departments-top-lawyer",
+      "originalUrl": "https://thehill.com/policy/energy-environment/546949-biden-nominates-interior-deputy-as-departments-top-lawyer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/deptofinterior11172020.jpg",
+          "width": 827,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/energy-environment/546949-biden-nominates-interior-deputy-as-departments-top-lawyer?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/546949-biden-nominates-interior-deputy-as-departments-top-lawyer?amp",
+      "publishedDateTime": "2021-04-07T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-msnbc-host-concedes-biden-stance-on-georgia-voting-law-not-consistent-impossible-to-square-his-argument.md",
+      "title": "MSNBC host concedes Biden stance on Georgia voting law not consistent: 'Impossible to square his argument'",
+      "excerpt": "\"To listen to the president speaking right there, it's impossible to square his argument,\" MSNBC's Willie Geist said \"Morning Joe\" on Wednesday. MLB eventually did move the All-Star Game out of Georgia after Biden compared the state's new voting law to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/msnbc-host-concedes-biden-stance-voting-law-not-consistent",
+      "originalUrl": "https://www.foxnews.com/media/msnbc-host-concedes-biden-stance-voting-law-not-consistent",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20f3bb9f-5836-4db5-a5df-e9a3441d9a8a/22b290f0-49ff-488d-bd4f-d5e835940878/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/msnbc-host-concedes-biden-stance-voting-law-not-consistent.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/msnbc-host-concedes-biden-stance-voting-law-not-consistent.amp",
+      "publishedDateTime": "2021-04-07T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-white-house-says-biden-will-have-more-to-say-on-guns-on-thursday.md",
+      "title": "White House says Biden will have 'more to say' on guns on Thursday",
+      "excerpt": "WASHINGTON (Reuters) - President Joe Biden will have “more to say” on the actions he plans on gun regulation on Thursday, White House press secretary Jen Psaki told reporters at a briefing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-guns-idUSKBN2BU2QP",
+      "originalUrl": "https://www.reuters.com/article/us-usa-guns-idUSKBN2BU2QP",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 665,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210407&t=2&i=1557617247&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH361CD",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BU2QP",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BU2QP",
+      "publishedDateTime": "2021-04-07T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-the-mauritanian-star-benedict-cumberbatch-calls-on-joe-biden-to-close-down-guantanamo-bay.md",
       "title": "'The Mauritanian' star Benedict Cumberbatch calls on Joe Biden to close down Guantanamo Bay",
       "excerpt": "Benedict Cumberbatch says he plans to call on Joe Biden to close Guantanamo Bay following his latest movie \"The Mauritanian.\"",
@@ -1445,59 +1606,7 @@
         "Joe Biden",
         "Republican Voice"
       ]
-    },
-    {
-      "path": "_news/2021-03-30-women-dominate-bidens-first-slate-of-judicial-nominees.md",
-      "title": "Women dominate Biden's first slate of judicial nominees",
-      "excerpt": "WASHINGTON (Reuters) - President Joe Biden released his first slate of 11 federal judicial nominations on Tuesday, nine of them women of diverse backgrounds including several Black candidates and an Asian American. “This trailblazing slate of nominees ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-judicial-idUSKBN2BM1GJ",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-judicial-idUSKBN2BM1GJ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1685,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210330&t=2&i=1556741242&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2T0O9",
-          "width": 701,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BM1GJ",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BM1GJ",
-      "publishedDateTime": "2021-03-30T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 14
 }

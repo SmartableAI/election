@@ -2,6 +2,167 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2021-04-01-gop-rep-kinzinger-hauls-in-big-bucks-after-facing-trumps-wrath.md",
+      "title": "GOP Rep. Kinzinger hauls in big bucks after facing Trump's wrath",
+      "excerpt": "Rep. Adam Kinzinger, one of the 10 House Republicans who voted in January to impeach President Trump, said he has brought in $2.2 million in fundraising during the first three months of this year.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tvxaqG07-58/adam-kinzinger-fundraiser-trump-wrath",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tvxaqG07-58/adam-kinzinger-fundraiser-trump-wrath",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/adam-kinzinger-fundraiser-trump-wrath.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/adam-kinzinger-fundraiser-trump-wrath.amp",
+      "publishedDateTime": "2021-04-01T08:13:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-biden-unveils-once-in-a-generation-2tn-infrastructure-investment-plan.md",
+      "title": "Biden unveils 'once-in-a generation' $2tn infrastructure investment plan",
+      "excerpt": "American Jobs Plan would rebuild roads, highways and bridges; confront the climate crisis and curb wealth inequality First published on Wed 31 Mar 2021 05.13 EDT Joe Biden on Wednesday unveiled what he called a “once-in-a-generation” investment in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/mar/31/biden-promises-historic-2tn-spending-in-infrastructure-but-capitol-hill-fight-awaits",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/mar/31/biden-promises-historic-2tn-spending-in-infrastructure-but-capitol-hill-fight-awaits",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/bde4502fafa0ea923009147e68eea8005587272e/0_0_3500_2289/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3d41c19f69897c3e5615b8f01fc78ebf",
+          "width": 600,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/mar/31/biden-promises-historic-2tn-spending-in-infrastructure-but-capitol-hill-fight-awaits",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/31/biden-promises-historic-2tn-spending-in-infrastructure-but-capitol-hill-fight-awaits",
+      "publishedDateTime": "2021-04-01T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-donald-trump-fans-say-mike-pence-betraying-him-with-potential-2024-run.md",
+      "title": "Donald Trump Fans Say Mike Pence 'Betraying' Him With Potential 2024 Run",
+      "excerpt": "Some prominent pro-Trump social media users have offered harsh criticism of former Vice President Mike Pence amid suggestions that the Republican may be looking at a presidential run in 2024. Though former President Donald Trump remains the favorite to win ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-mike-pence-betrayal-2024-election-1580393",
+      "originalUrl": "https://www.newsweek.com/donald-trump-mike-pence-betrayal-2024-election-1580393",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 509,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1768451/former-vice-president-pence-karen-pence.jpg",
+          "width": 2037,
+          "height": 1358,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-mike-pence-betrayal-2024-election-1580393?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-mike-pence-betrayal-2024-election-1580393?amp=1",
+      "publishedDateTime": "2021-04-01T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-chinese-sculptor-makes-trump-buddha-statues-orders-pour-in.md",
       "title": "Chinese Sculptor Makes Trump Buddha Statues; Orders Pour In",
       "excerpt": "The statue by furniture maker Hong Jinshi has Trump with his legs crossed, hands folded in his laps, thumbs pointing outwards.",
@@ -1192,162 +1353,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission.md",
-      "title": "Hunter Biden blasts Trump in new book: 'A vile man with a vile mission'",
-      "excerpt": "President Biden Joe Biden The Hill's Morning Report - Biden seeks expanded government, tax hikes Five things to watch on Biden infrastructure plan GOP seeks new line of attack on Biden economic ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/545713-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission",
-      "originalUrl": "https://thehill.com/homenews/administration/545713-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenhunter_101219getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/545713-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/545713-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission?amp",
-      "publishedDateTime": "2021-03-31T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-mike-pences-fame-is-both-his-2024-gift-and-curse.md",
-      "title": "Mike Pence's Fame Is Both His 2024 Gift and Curse",
-      "excerpt": "Former Vice President Mike Pence's fame has its benefits should he choose to pursue any presidential ambitions. But it also comes with downsides. Pence has long been touted as a potential 2024 candidate and after a period of quiet, he looks to be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mike-pence-2024-fame-gift-curse-1580019",
-      "originalUrl": "https://www.newsweek.com/mike-pence-2024-fame-gift-curse-1580019",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1767764/mike-pence-inauguration.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mike-pence-2024-fame-gift-curse-1580019?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-2024-fame-gift-curse-1580019?amp=1",
-      "publishedDateTime": "2021-03-31T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-two-capitol-police-officers-sue-trump-over-jan-6-riots.md",
-      "title": "Two Capitol Police officers sue Trump over Jan. 6 riots",
-      "excerpt": "WASHINGTON (Reuters) - Two U.S. Capitol Police officers have filed a lawsuit against former President Donald Trump, saying he incited the deadly Jan. 6 insurrection and was responsible for physical and emotional injuries they suffered as a result.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-capitol-riots-lawsuit/two-capitol-police-officers-sue-trump-over-jan-6-riots-idUSKBN2BN1RC",
-      "originalUrl": "https://www.reuters.com/article/us-usa-capitol-riots-lawsuit/two-capitol-police-officers-sue-trump-over-jan-6-riots-idUSKBN2BN1RC",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 985,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210331&t=2&i=1556880478&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2U0VN",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BN1RC",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BN1RC",
-      "publishedDateTime": "2021-03-31T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

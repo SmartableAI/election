@@ -2,6 +2,174 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2021-05-10-biden-approval-rating-thumbs-up-overall-but-thumbs-down-on-immigration-poll.md",
+      "title": "Biden approval rating: Thumbs up overall, but thumbs down on immigration: poll",
+      "excerpt": "A new national poll indicates that most Americans approve of the overall job President Biden is doing in the White House. But, according to AP-NORC survey released Monday, the president’s numbers are mixed on gun violence and underwater on immigration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H0vu5eKHRt8/biden-approval-rating-immigration-poll",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H0vu5eKHRt8/biden-approval-rating-immigration-poll",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-approval-rating-immigration-poll.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approval-rating-immigration-poll.amp",
+      "publishedDateTime": "2021-05-10T12:15:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-hogan-criticizes-gop-as-a-circular-firing-squad-that-had-worst-four-years-under-trump.md",
+      "title": "Hogan criticizes GOP as a 'circular firing squad' that had 'worst four years' under Trump",
+      "excerpt": "Republican Maryland Gov. Larry Hogan on Sunday lambasted the GOP as a \"circular firing squad\" attacking each other and said the party experienced \"the worst four years\" under former President Donald Trump.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yIA2o3ZOBdA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yIA2o3ZOBdA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210510151838-01-larry-hogan-0412-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/10/politics/larry-hogan-gop-firing-squad/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/larry-hogan-gop-firing-squad/index.html",
+      "publishedDateTime": "2021-05-10T08:12:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-i-saw-it-on-tv-why-trump-supporter-says-she-believes-election-lie.md",
+      "title": "'I saw it on TV!': Why Trump supporter says she believes election lie",
+      "excerpt": "A couple attending an event hosted by Rep. Matt Gaetz (R-FL) and Rep. Marjorie Taylor Greene (R-GA) tell CNN's Donie O'Sullivan why they still believe debunked conspiracy theories cited as evidence that the 2020 presidential election was \"stolen\" from former President Donald Trump.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iyRhQrB_ZpY/trump-voter-gaetz-rally-election-conspiracy-big-lie-o-sullivan-lkl-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iyRhQrB_ZpY/trump-voter-gaetz-rally-election-conspiracy-big-lie-o-sullivan-lkl-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 510,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210510110049-donie-osullivan-gaetz-event-trump-voter-01-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/media/2021/05/10/trump-voter-gaetz-rally-election-conspiracy-big-lie-o-sullivan-lkl-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/media/2021/05/10/trump-voter-gaetz-rally-election-conspiracy-big-lie-o-sullivan-lkl-vpx.cnn",
+      "publishedDateTime": "2021-05-10T08:11:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-10-ap-norc-poll-biden-approval-buoyed-by-his-pandemic-response.md",
       "title": "AP-NORC poll: Biden approval buoyed by his pandemic response",
       "excerpt": "President Joe Biden is entering the next phase of his administration with the steady approval of a majority of Americans",
@@ -1190,170 +1358,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-republicans-look-to-oust-liz-cheney-as-trump-allies-push-election-lie-live.md",
-      "title": "Republicans look to oust Liz Cheney as Trump allies push election lie – live",
-      "excerpt": "Congresswoman all but certain to lose conference chair role because of criticism of Donald Trump – follow all the day’s politics news",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 937,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/13bce181f26a92e2b9fa3dc8dd26a9780f2ce6aa/0_81_5000_3000/master/5000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0c4665f52765643b5228bf31bb73b8d3",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live",
-      "publishedDateTime": "2021-05-07T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-the-headache-trump-left-behind-for-biden-on-the-white-house-lawn.md",
-      "title": "The 'headache' Trump left behind for Biden on the White House lawn",
-      "excerpt": "The project that's currently tearing up the White House's South Lawn initially landed on Donald Trump's desk.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OydGJx_ZEE8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OydGJx_ZEE8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 810,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210506174518-01-white-house-south-lawn-construction-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/07/politics/white-house-construction-trump-biden/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/07/politics/white-house-construction-trump-biden/index.html",
-      "publishedDateTime": "2021-05-07T05:12:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-not-who-we-are-as-a-country-elise-stefanik-once-harshly-blasted-trumps-rhetoric-and-policies.md",
-      "title": "'Not who we are as a country': Elise Stefanik once harshly blasted Trump's rhetoric and policies",
-      "excerpt": "New York Rep. Elise Stefanik, one of former President Donald Trump's loudest defenders in Congress, once harshly attacked Trump over both his rhetoric and policies, claiming that she'd be an \"independent voice.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3ywu_Dp7PWA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3ywu_Dp7PWA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 202,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210505140659-05-rep-elise-stefanik-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/07/politics/kfile-elise-stefanik-trump-comments/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/07/politics/kfile-elise-stefanik-trump-comments/index.html",
-      "publishedDateTime": "2021-05-07T04:47:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

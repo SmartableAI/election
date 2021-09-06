@@ -2,6 +2,163 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2021-04-11-arizona-ag-its-important-kamala-harris-health-sec-becerra-visit-border-amid-immigration-crisis.md",
+      "title": "Arizona AG: 'It's important' Kamala Harris, Health Sec. Becerra visit border amid immigration crisis",
+      "excerpt": "Arizona Attorney General Mark Brnovich discusses the developing immigration crisis at the border and further probes the Biden administration to act on it.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vnVRS3eLb8M/arizona-ag-urges-harris-health-sec-becerra-to-visit-border-amid-immigration-crisis-its-important",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vnVRS3eLb8M/arizona-ag-urges-harris-health-sec-becerra-to-visit-border-amid-immigration-crisis-its-important",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 210,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7acdbc98-6073-48cf-8025-8ec4a188febe/7cf9bca4-791b-4be6-93cc-2fedff7d2742/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/arizona-ag-urges-harris-health-sec-becerra-to-visit-border-amid-immigration-crisis-its-important.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-ag-urges-harris-health-sec-becerra-to-visit-border-amid-immigration-crisis-its-important.amp",
+      "publishedDateTime": "2021-04-11T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-as-riot-raged-pence-pleaded-with-the-military-to-clear-the-capitol.md",
+      "title": "As riot raged, Pence pleaded with the military to ‘clear the Capitol’",
+      "excerpt": "About two hours after a pro-Trump mob shattered windows and smashed doors to enter the Capitol on Jan. 6, then-Vice President Mike Pence called the acting defense secretary urgently seeki ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/04/11/pence-pleaded-with-the-military-to-clear-the-capitol/",
+      "originalUrl": "https://nypost.com/2021/04/11/pence-pleaded-with-the-military-to-clear-the-capitol/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/protest-pence-inset.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/04/11/pence-pleaded-with-the-military-to-clear-the-capitol/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/11/pence-pleaded-with-the-military-to-clear-the-capitol/amp/",
+      "publishedDateTime": "2021-04-11T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-11-texas-governor-biden-actions-on-guns-just-show.md",
+      "title": "Texas governor: Biden actions on guns just 'show'",
+      "excerpt": "Texas Gov. Greg Abbott (R) rejected the idea that firearm restrictions could be passed via executive order on Sunday while dismissing President Biden Joe Biden Biden eyes bigger US role in global ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/sunday-talk-shows/547574-texas-governor-biden-actions-on-guns-just-show",
+      "originalUrl": "https://thehill.com/homenews/sunday-talk-shows/547574-texas-governor-biden-actions-on-guns-just-show",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/abbottgreg_06182020getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/sunday-talk-shows/547574-texas-governor-biden-actions-on-guns-just-show?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/547574-texas-governor-biden-actions-on-guns-just-show?amp",
+      "publishedDateTime": "2021-04-11T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-11-arkansas-gop-governor-says-trumps-attacks-on-party-leaders-are-divisive-and-not-helpful.md",
       "title": "Arkansas' GOP governor says Trump's attacks on party leaders are 'divisive' and 'not helpful'",
       "excerpt": "Arkansas' Republican governor on Sunday knocked former President Donald Trump's recent attacks on top party leaders as \"divisive\" and unhelpful for elected GOP officials around the country.\n    \n",
@@ -1204,162 +1361,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-bidens-budget-wish-list-850m-for-central-america-aid-36b-for-poor-schools.md",
-      "title": "Biden's Budget Wish List: $850M for Central America Aid, $36B for Poor Schools",
-      "excerpt": "President Joe Biden is set to release his first budget wish list before members of Congress return next week, giving insight into his policy agenda and marking his stark departure from former President Donald Trump's priorities. Included in the proposal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/bidens-budget-wish-list-850m-central-america-aid-36b-poor-schools-1582466",
-      "originalUrl": "https://www.newsweek.com/bidens-budget-wish-list-850m-central-america-aid-36b-poor-schools-1582466",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1775021/joe-biden.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/bidens-budget-wish-list-850m-central-america-aid-36b-poor-schools-1582466?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/bidens-budget-wish-list-850m-central-america-aid-36b-poor-schools-1582466?amp=1",
-      "publishedDateTime": "2021-04-09T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-trump-officials-celebrated-efforts-to-change-cdc-reports-on-coronavirus-emails-show.md",
-      "title": "Trump officials celebrated efforts to change CDC reports on coronavirus, emails show",
-      "excerpt": "Political appointees also tried to blunt scientific findings they deemed unfavorable to Trump, according to new documents from House probe",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/health/2021/04/09/cdc-covid-political-interference/",
-      "originalUrl": "https://www.washingtonpost.com/health/2021/04/09/cdc-covid-political-interference/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AD36FQXW2QI6VBPXLFARRCUYZU.jpg&w=1440",
-          "width": 1440,
-          "height": 990,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/health/2021/04/09/cdc-covid-political-interference/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2021/04/09/cdc-covid-political-interference/?outputType=amp",
-      "publishedDateTime": "2021-04-09T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-biden-sets-up-commission-to-study-expansion-of-supreme-court-live.md",
-      "title": "Biden sets up commission to study expansion of supreme court – live",
-      "excerpt": "Updated at 1.18pm EDT Buttigieg said he hadn’t met with Senator Joe Manchin, a conservative Democrat who is opposed to Biden’s plan to raise the corporate tax rate from 21% to 28%. He prefers a rate of 25%. Buttigieg wouldn’t say how the lower rate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates?page=with:block-60707c538f088c820d861f0d",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates?page=with:block-60707c538f088c820d861f0d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 585,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/1e6c9b9c790347030e8c43b8c08c58dfda96e8d1/0_0_4500_3000/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cb9cf14684e5c64e087f4e257a823f6f",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates",
-      "publishedDateTime": "2021-04-09T09:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

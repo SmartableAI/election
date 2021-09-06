@@ -2,6 +2,119 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-04-04-barrasso-slams-biden-over-kids-in-captivity-says-he-was-told-to-delete-photos-of-border-facilities.md",
+      "title": "Barrasso slams Biden over kids in 'captivity,' says he was told to delete photos of border facilities",
+      "excerpt": "\"The irony here is that we're hearing a lot about Joe Biden wanting vaccine passports to prove that people have vaccines,\" Barrasso said. \"Meanwhile, the border crossers, they don't even require I.D. We don't know who they are, where they're coming from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/barrasso-biden-border-kids-in-captivity-delete-photos",
+      "originalUrl": "https://www.foxnews.com/politics/barrasso-biden-border-kids-in-captivity-delete-photos",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/barrasso-biden-border-kids-in-captivity-delete-photos.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barrasso-biden-border-kids-in-captivity-delete-photos.amp",
+      "publishedDateTime": "2021-04-04T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-04-hunter-biden-100-certain-hell-be-cleared-of-wrongdoing-in-doj-investigation.md",
+      "title": "Hunter Biden ‘100% certain’ he’ll be cleared of wrongdoing in DOJ investigation",
+      "excerpt": "Hunter Biden said he is \"100% certain\" he will be cleared of any wrongdoing in a Department of Justice investigation into his finances.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9s6V8uKcGnE/hunter-biden-doj-investigation-finances-interview",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9s6V8uKcGnE/hunter-biden-doj-investigation-finances-interview",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/HunterBiden.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-doj-investigation-finances-interview.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-doj-investigation-finances-interview.amp",
+      "publishedDateTime": "2021-04-04T07:55:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-04-donald-trump-sends-out-easter-wishes-and-swipes-radical-left-crazies.md",
       "title": "Donald Trump sends out Easter wishes – and swipes ‘Radical Left CRAZIES’",
       "excerpt": "Former President Donald Trump said “Happy Easter” in his own way on Sunday — linking his holiday wishes to his claims of election fraud. “ Happy Easter to ALL, including the Radical Left ...",
@@ -1555,120 +1668,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-trump-endorses-drew-mckissick-over-lin-wood-for-south-carolina-gop-chair.md",
-      "title": "Trump endorses Drew McKissick over Lin Wood for South Carolina GOP chair",
-      "excerpt": "Former President Donald Trump affirmed his endorsement of longtime ally Drew McKissick in his bid for re-election as South Carolina GOP chairman on Tuesday, shortly after attorney Lin Wood announced his intent to challenge him for the position. \"Drew ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/trump-endorses-drew-mckissick-over-lin-wood-sc-gop-chair",
-      "originalUrl": "https://www.foxnews.com/politics/trump-endorses-drew-mckissick-over-lin-wood-sc-gop-chair",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Lin-Wood-1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-endorses-drew-mckissick-over-lin-wood-sc-gop-chair.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-drew-mckissick-over-lin-wood-sc-gop-chair.amp",
-      "publishedDateTime": "2021-03-30T16:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-dems-call-for-firings-of-trump-era-holdovers-in-ssa-over-stimulus-check-delays.md",
-      "title": "Dems call for firings of Trump-era holdovers in SSA over stimulus check delays",
-      "excerpt": "The lawmakers blamed Saul -- who was nominated by former President Donald Trump -- for the delays, which they said defied congressional intent and imposed needless anxiety on taxpayers. Saul, in a statement Thursday night, attributed the delay to a lack of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays",
-      "originalUrl": "https://www.foxnews.com/politics/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/jaypal-cropped-153a.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays.amp",
-      "publishedDateTime": "2021-03-30T13:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

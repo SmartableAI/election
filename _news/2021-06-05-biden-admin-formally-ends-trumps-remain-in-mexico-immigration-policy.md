@@ -111,6 +111,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Biden looking to reboot Trump’s ‘Remain in Mexico’ policy: report"
+    excerpt: "The ​plan would allow a smaller number of immigrants seeking asylum to wait in Mexico as their cases are being processed in the courts."
+    publishedDateTime: 2021-09-06T17:25:00Z
+    webUrl: "https://nypost.com/2021/09/06/biden-to-reinstate-trump-remain-in-mexico-policy-report/"
+    ampWebUrl: "https://nypost.com/2021/09/06/biden-to-reinstate-trump-remain-in-mexico-policy-report/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/06/biden-to-reinstate-trump-remain-in-mexico-policy-report/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/remain-in-mexico-lite-02.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 691
+        isCached: true
   - title: "States, led by Arizona, ask Supreme Court to intervene in fight over Trump-era rule on immigrants and welfare"
     excerpt: "A coalition of Republican states led by Arizona is urging the Supreme Court to intervene in the legal battle over a Trump-era policy that restricted immigrants who are deemed reliant on welfare from receiving green cards -- a policy the Biden administration has since dropped."
     publishedDateTime: 2021-04-30T21:06:00Z

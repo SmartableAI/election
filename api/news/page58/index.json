@@ -2,6 +2,170 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2021-05-07-republicans-look-to-oust-liz-cheney-as-trump-allies-push-election-lie-live.md",
+      "title": "Republicans look to oust Liz Cheney as Trump allies push election lie – live",
+      "excerpt": "Congresswoman all but certain to lose conference chair role because of criticism of Donald Trump – follow all the day’s politics news",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 937,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/13bce181f26a92e2b9fa3dc8dd26a9780f2ce6aa/0_81_5000_3000/master/5000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0c4665f52765643b5228bf31bb73b8d3",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live",
+      "publishedDateTime": "2021-05-07T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-07-the-headache-trump-left-behind-for-biden-on-the-white-house-lawn.md",
+      "title": "The 'headache' Trump left behind for Biden on the White House lawn",
+      "excerpt": "The project that's currently tearing up the White House's South Lawn initially landed on Donald Trump's desk.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OydGJx_ZEE8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OydGJx_ZEE8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 810,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210506174518-01-white-house-south-lawn-construction-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/07/politics/white-house-construction-trump-biden/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/07/politics/white-house-construction-trump-biden/index.html",
+      "publishedDateTime": "2021-05-07T05:12:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-07-not-who-we-are-as-a-country-elise-stefanik-once-harshly-blasted-trumps-rhetoric-and-policies.md",
+      "title": "'Not who we are as a country': Elise Stefanik once harshly blasted Trump's rhetoric and policies",
+      "excerpt": "New York Rep. Elise Stefanik, one of former President Donald Trump's loudest defenders in Congress, once harshly attacked Trump over both his rhetoric and policies, claiming that she'd be an \"independent voice.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3ywu_Dp7PWA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3ywu_Dp7PWA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 202,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210505140659-05-rep-elise-stefanik-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/07/politics/kfile-elise-stefanik-trump-comments/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/07/politics/kfile-elise-stefanik-trump-comments/index.html",
+      "publishedDateTime": "2021-05-07T04:47:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-07-sara-carter-exclusive-biden-border-policies-fueling-sprawling-cartel-linked-pot-growing-operations-far-inland.md",
       "title": "Sara Carter exclusive: Biden border policies fueling sprawling cartel-linked pot-growing operations far inland",
       "excerpt": "In a special “Hannity” investigation, investigative journalist Sara Carter traveled to the Antelope Valley around Lancaster, Calif., where – hundreds of miles away from the Mexican border – the Biden border crisis is starkly affecting everyday Americans as cartel-linked marijuana growing operations have",
@@ -1182,161 +1346,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-thanks-conservatives-mcconnell-pushing-vaccines.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-thanks-conservatives-mcconnell-pushing-vaccines.amp",
       "publishedDateTime": "2021-05-04T14:12:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-biden-says-his-hope-and-expectation-is-to-meet-putin-on-upcoming-europe-trip.md",
-      "title": "Biden says his 'hope and expectation' is to meet Putin on upcoming Europe trip",
-      "excerpt": "President Joe Biden said Tuesday it is his \"hope and expectation\" to meet with his Russian counterpart during a planned visit to Europe in June, a high-stakes diplomatic encounter he hopes can restore a degree of predictability to an increasingly fraught relationship.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZSr-NF7oZUI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZSr-NF7oZUI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201215031414-putin-biden-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/04/politics/putin-biden-summit/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/04/politics/putin-biden-summit/index.html",
-      "publishedDateTime": "2021-05-04T13:50:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-morning-mail-gps-grapple-with-vaccine-shortfalls-pfizers-34bn-revenue-giant-joe-biden.md",
-      "title": "Morning mail: GPs grapple with vaccine shortfalls, Pfizer’s $34bn revenue, giant Joe Biden",
-      "excerpt": "Australian doctors are still struggling to get Covid vaccines. Plus: the photography trick that made the US leader larger than life",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/australia-news/2021/may/05/morning-mail-gps-grapple-with-vaccine-shortfalls-pfizers-34bn-revenue-giant-joe-biden",
-      "originalUrl": "https://www.theguardian.com/australia-news/2021/may/05/morning-mail-gps-grapple-with-vaccine-shortfalls-pfizers-34bn-revenue-giant-joe-biden",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/532dcbbd3ba10618ecd7d39f466855e16f782623/0_111_4225_2535/master/4225.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e282f587de85e8d9b15597df917cf9e9",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T12:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-texas-house-candidate-susan-wright-spotlights-late-husbands-legacy-trumps-support-in-runoff.md",
-      "title": "Texas House candidate Susan Wright spotlights late husband's legacy, Trump's support, in runoff",
-      "excerpt": "Susan Wright says her late husband always took his constituents' concerns to Washington and “that’s the legacy I want to continue.” Rep. Ron Wright died from COVID-19 in February and his widow, a longtime GOP activist, came in first in a field of 23 candidates this past weekend in a special election",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VigjYkm43L4/texas-house-runoff-susan-wright-husband-legacy-trump-support",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VigjYkm43L4/texas-house-runoff-susan-wright-husband-legacy-trump-support",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 143,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T12:19:40-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

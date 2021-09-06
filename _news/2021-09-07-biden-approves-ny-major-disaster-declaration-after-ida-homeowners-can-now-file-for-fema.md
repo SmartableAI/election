@@ -1,0 +1,49 @@
+---
+category: news
+title: "Biden approves N.Y. major disaster declaration after Ida; homeowners can now file for FEMA"
+excerpt: "President Joe Biden on Monday approved a major disaster declaration for New York in the wake of Hurricane Ida, making federal funding available to those who had property damaged by the storm. Biden first granted an emergency declaration for New York last week;"
+publishedDateTime: 2021-09-06T17:37:00Z
+originalUrl: "https://www.silive.com/weather/2021/09/biden-approves-ny-major-disaster-declaration-enabling-homeowners-to-file-for-fema.html"
+webUrl: "https://www.silive.com/weather/2021/09/biden-approves-ny-major-disaster-declaration-enabling-homeowners-to-file-for-fema.html"
+ampWebUrl: "https://www.silive.com/weather/2021/09/biden-approves-ny-major-disaster-declaration-enabling-homeowners-to-file-for-fema.html?outputType=amp"
+cdnAmpWebUrl: "https://www-silive-com.cdn.ampproject.org/c/s/www.silive.com/weather/2021/09/biden-approves-ny-major-disaster-declaration-enabling-homeowners-to-file-for-fema.html?outputType=amp"
+type: article
+quality: 65
+heat: -1
+published: false
+
+provider:
+  name: SILive
+  domain: silive.com
+
+topics:
+  - Election
+  - Joe Biden
+
+images:
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4NC2WRJY7ZAQLP52YS4WF4JDZM.jpg"
+    width: 1024
+    height: 643
+    isCached: true
+
+related:
+  - title: "Joe Biden Tells Federal Agencies to 'Insulate Women and Providers' From Texas Abortion Law"
+    excerpt: "The Supreme Court voted 5-4 in the middle of the night to deny an emergency appeal from abortion providers aimed at blocking the Texas law from taking effect."
+    publishedDateTime: 2021-09-02T17:17:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-tells-federal-agencies-insulate-women-providers-texas-abortion-law-1625552"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-tells-federal-agencies-insulate-women-providers-texas-abortion-law-1625552?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-tells-federal-agencies-insulate-women-providers-texas-abortion-law-1625552?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 115
+    images:
+      - url: "https://d.newsweek.com/en/full/1886367/supreme-court-denies-emergency-appeal.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+
+secured: "26LRU3e1Ht2280y4L9kRYCQllbcn2rAdvEt3oZQNnMjab6zXRbMcLbm75PdNMH70K5d3STh1QlDiLeWi1MvihuEYOVMrzH3reyBbNMzRP+BlrPoi7/jkO+VFZMAimGoA8uNBncCmBCuk6DHIOuXUoJznASE02AQKPCMOHub1vMIbZsvskkm+M7iGNzjrx0eJPR4qJtJSMo06FS1Jhv32xuCtRAE9Dv0lE7Hp5dISCw0/2ihNrbQkWJGx+u84LLBQhDD1+cFYLjzfp/p6OyyfngP5+WuagZ7y2srmj/BHyoXyqTszckl88eTS8KO5JBmHUIJzuZ33DfyijGoxONjHxC+jHQa7sG8rAnRAHpkkIUo=;i87ZQN2MuAJXUKxJ1Gksdg=="
+---
+

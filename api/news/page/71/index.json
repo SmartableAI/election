@@ -2,6 +2,162 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2021-04-09-bidens-budget-wish-list-850m-for-central-america-aid-36b-for-poor-schools.md",
+      "title": "Biden's Budget Wish List: $850M for Central America Aid, $36B for Poor Schools",
+      "excerpt": "President Joe Biden is set to release his first budget wish list before members of Congress return next week, giving insight into his policy agenda and marking his stark departure from former President Donald Trump's priorities. Included in the proposal ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/bidens-budget-wish-list-850m-central-america-aid-36b-poor-schools-1582466",
+      "originalUrl": "https://www.newsweek.com/bidens-budget-wish-list-850m-central-america-aid-36b-poor-schools-1582466",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1775021/joe-biden.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/bidens-budget-wish-list-850m-central-america-aid-36b-poor-schools-1582466?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/bidens-budget-wish-list-850m-central-america-aid-36b-poor-schools-1582466?amp=1",
+      "publishedDateTime": "2021-04-09T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-trump-officials-celebrated-efforts-to-change-cdc-reports-on-coronavirus-emails-show.md",
+      "title": "Trump officials celebrated efforts to change CDC reports on coronavirus, emails show",
+      "excerpt": "Political appointees also tried to blunt scientific findings they deemed unfavorable to Trump, according to new documents from House probe",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/health/2021/04/09/cdc-covid-political-interference/",
+      "originalUrl": "https://www.washingtonpost.com/health/2021/04/09/cdc-covid-political-interference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AD36FQXW2QI6VBPXLFARRCUYZU.jpg&w=1440",
+          "width": 1440,
+          "height": 990,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/health/2021/04/09/cdc-covid-political-interference/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2021/04/09/cdc-covid-political-interference/?outputType=amp",
+      "publishedDateTime": "2021-04-09T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-biden-sets-up-commission-to-study-expansion-of-supreme-court-live.md",
+      "title": "Biden sets up commission to study expansion of supreme court – live",
+      "excerpt": "Updated at 1.18pm EDT Buttigieg said he hadn’t met with Senator Joe Manchin, a conservative Democrat who is opposed to Biden’s plan to raise the corporate tax rate from 21% to 28%. He prefers a rate of 25%. Buttigieg wouldn’t say how the lower rate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates?page=with:block-60707c538f088c820d861f0d",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates?page=with:block-60707c538f088c820d861f0d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 585,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/1e6c9b9c790347030e8c43b8c08c58dfda96e8d1/0_0_4500_3000/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cb9cf14684e5c64e087f4e257a823f6f",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates",
+      "publishedDateTime": "2021-04-09T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-white-house-blames-error-after-biden-campaign-fundraising-page-linked-on-gov-website.md",
       "title": "White House blames 'error' after Biden campaign fundraising page linked on .gov website",
       "excerpt": "The White House said Thursday that a link to a page on the Biden campaign website in the WhiteHouse.gov fact sheet for the president's $2 trillion-plus spending plan was put there in error. ",
@@ -1190,170 +1346,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-biden-obama-talk-regularly-in-close-touch-on-a-range-of-issues-white-house-says.md",
-      "title": "Biden, Obama talk 'regularly,' in 'close touch' on a 'range' of issues, White House says",
-      "excerpt": "The White House on Thursday said President Biden and former President Barack Obama \"talk regularly\" about a \"range of issues,\" as well as personal matters, but did not disclose the frequency of those conversations.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lRR-zo_udrQ/biden-obama-talk-regularly",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lRR-zo_udrQ/biden-obama-talk-regularly",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-obama-talk-regularly.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-obama-talk-regularly.amp",
-      "publishedDateTime": "2021-04-08T11:38:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-trumps-judicial-appointments-worsened-racial-diversity-in-the-federal-courts.md",
-      "title": "Trump's judicial appointments worsened racial diversity in the federal courts",
-      "excerpt": "President Donald Trump's appointments made it worse. In just four years, Trump placed 234 judges with lifetime tenure to the federal courts, making up 28% of the current federal judiciary. An overwhelming number — 192 — of Trump's active appointments ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-federal-judge-appointments-racial-diversity-2021-4",
-      "originalUrl": "https://www.businessinsider.com/trump-federal-judge-appointments-racial-diversity-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6059f07b106eb50019d050fb?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-federal-judge-appointments-racial-diversity-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-federal-judge-appointments-racial-diversity-2021-4?amp",
-      "publishedDateTime": "2021-04-08T11:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-trump-endorses-ron-johnson-early-run-ron-run.md",
-      "title": "Trump endorses Ron Johnson early: 'Run, Ron, Run!",
-      "excerpt": "Republican Sen. Ron Johnson of Wisconsin hasn't announced yet whether he'll run for reelection next year. But that's not stopping former President Donald Trump from encouraging Johnson to seek a third six-year term in the Senate.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/07JUGTzWN9M/trump-endorses-ron-johnson-wisconsin",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/07JUGTzWN9M/trump-endorses-ron-johnson-wisconsin",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-endorses-ron-johnson-wisconsin.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-ron-johnson-wisconsin.amp",
-      "publishedDateTime": "2021-04-08T11:03:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

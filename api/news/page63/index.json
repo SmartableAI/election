@@ -2,6 +2,171 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2021-04-27-analysis-the-trump-republican-circus-gears-up-for-another-tour.md",
+      "title": "Analysis: The Trump Republican circus gears up for another tour",
+      "excerpt": "Donald Trump schooled his protégés well in his politics of down-in-the-muck misinformation.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V5wyQnnrMx4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V5wyQnnrMx4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210420081143-01-kevin-mccarthy-0415-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/27/politics/republican-circus-donald-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/republican-circus-donald-trump/index.html",
+      "publishedDateTime": "2021-04-27T03:28:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-26-bidens-climate-plan-doesnt-ban-meat-but-baseless-claims-left-republicans-fuming-stay-out-of-my-kitchen.md",
+      "title": "Biden’s climate plan doesn’t ban meat. But baseless claims left Republicans fuming: ‘Stay out of my kitchen.’",
+      "excerpt": "Several prominent Republican politicians attacked Biden’s climate plan with the false claim that it would strictly limit access to meat.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/nation/2021/04/26/republicans-meat-biden-climate-plan/",
+      "originalUrl": "https://www.washingtonpost.com/nation/2021/04/26/republicans-meat-biden-climate-plan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DBP5AMVFMYI6XMYUF2MTXWB6GE.jpg&w=1440",
+          "width": 1440,
+          "height": 958,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/nation/2021/04/26/republicans-meat-biden-climate-plan/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/04/26/republicans-meat-biden-climate-plan/?outputType=amp",
+      "publishedDateTime": "2021-04-26T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-25-kamala-harris-cements-her-place-in-bidens-inner-circle-during-a-consequential-week.md",
+      "title": "Kamala Harris cements her place in Biden's inner circle during a consequential week",
+      "excerpt": "Vice President Kamala Harris was huddled with other White House officials in President Joe Biden's private dining room last week when the room let out a \"collective exhale.\" A Minnesota jury had found Derek Chauvin guilty of murdering George Floyd.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t-94g7Epw80/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t-94g7Epw80/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 1014,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210420191943-03-biden-harris-chauvin-verdict-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/25/politics/kamala-harris-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/25/politics/kamala-harris-cnntv/index.html",
+      "publishedDateTime": "2021-04-25T06:41:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-04-24-pop-is-calling-kids-and-grandkids-on-the-line-with-president-joe-biden.md",
       "title": "Pop is calling: Kids and grandkids on the line with President Joe Biden",
       "excerpt": "Joe Biden says he has a strict rule about his phone: No matter what's happening, he always answers a call from one of his grandchildren.\n    \n",
@@ -1194,163 +1359,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-analysis-us-financial-regulators-in-hot-seat-as-biden-ramps-up-climate-agenda.md",
-      "title": "Analysis: U.S. financial regulators in hot seat as Biden ramps up climate agenda",
-      "excerpt": "As U.S. President Joe Biden escalates his climate change agenda, pressure is growing on the country's regulators to catch up with Europe and incorporate various risks posed by climate change into their oversight of the financial system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-global-climate-summit-regulators-anal-idUSKBN2C91E2",
-      "originalUrl": "https://www.reuters.com/article/us-global-climate-summit-regulators-anal-idUSKBN2C91E2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210422&t=2&i=1559548915&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3L0LC",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2C91E2",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C91E2",
-      "publishedDateTime": "2021-04-22T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-george-w-bush-says-he-probably-wouldnt-golf-at-a-trump-property.md",
-      "title": "George W. Bush Says He Probably Wouldn't Golf at a Trump Property",
-      "excerpt": "\"I like my properties here in Dallas,\" the former Republican president said during a recent appearance on late-night TV.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/george-w-bush-says-he-probably-wouldnt-golf-trump-property-1585680",
-      "originalUrl": "https://www.newsweek.com/george-w-bush-says-he-probably-wouldnt-golf-trump-property-1585680",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1781665/george-w-bush.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/george-w-bush-says-he-probably-wouldnt-golf-trump-property-1585680?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/george-w-bush-says-he-probably-wouldnt-golf-trump-property-1585680?amp=1",
-      "publishedDateTime": "2021-04-22T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-watch-live-biden-harris-speak-at-virtual-climate-summit.md",
-      "title": "Watch live: Biden, Harris speak at virtual climate summit",
-      "excerpt": "President Biden and Vice President Harris are scheduled to speak at the opening of a virtual White House climate summit on Thursday morning. Their remarks are expected to begin at 8 a.m.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/energy-environment/549658-watch-live-biden-harris-speak-at-virtual-climate-summit",
-      "originalUrl": "https://thehill.com/policy/energy-environment/549658-watch-live-biden-harris-speak-at-virtual-climate-summit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 2530,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenharris_1_0.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/energy-environment/549658-watch-live-biden-harris-speak-at-virtual-climate-summit?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/549658-watch-live-biden-harris-speak-at-virtual-climate-summit?amp",
-      "publishedDateTime": "2021-04-22T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Kamala Harris"
       ]
     }
   ],

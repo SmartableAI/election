@@ -2,6 +2,170 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2021-04-06-biden-leans-close-to-tell-someone-to-socially-distance-which-im-not-doing.md",
+      "title": "Biden leans close to tell someone to socially distance, 'which I'm not doing'",
+      "excerpt": "President Biden leaned inches away from someone’s face to urge them to practice social distancing as he promoted the nation’s vaccine progress Tuesday afternoon, video shows.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DyOSK8DjGRk/biden-leans-close-social-distancing",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DyOSK8DjGRk/biden-leans-close-social-distancing",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 192,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21096696393947-e1617743978498.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-leans-close-social-distancing.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-leans-close-social-distancing.amp",
+      "publishedDateTime": "2021-04-06T14:34:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-jennifer-weisselberg-has-several-boxes-of-documents-left-to-give-prosecutors-investigating-trump-her-lawyer-says.md",
+      "title": "Jennifer Weisselberg has 'several boxes of documents' left to give prosecutors investigating Trump, her lawyer says",
+      "excerpt": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. Jennifer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-investigations-jennifer-weisselberg-has-more-documents-for-prosecutors-2021-4",
+      "originalUrl": "https://www.businessinsider.com/trump-investigations-jennifer-weisselberg-has-more-documents-for-prosecutors-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/606cb46e30004b0019b2640e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-investigations-jennifer-weisselberg-has-more-documents-for-prosecutors-2021-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-investigations-jennifer-weisselberg-has-more-documents-for-prosecutors-2021-4?amp",
+      "publishedDateTime": "2021-04-06T14:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-biden-hasnt-talked-to-chinese-president-about-coronavirus-origins.md",
+      "title": "Biden hasn't talked to Chinese president about coronavirus origins",
+      "excerpt": "President Biden on Tuesday said he has not spoken to Chinese President Xi Jinping about the origins of COVID-19.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UhnRJtgchao/biden-chinese-president-xi-jinping-coronavirus-origins",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UhnRJtgchao/biden-chinese-president-xi-jinping-coronavirus-origins",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 395,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-chinese-president-xi-jinping-coronavirus-origins.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-chinese-president-xi-jinping-coronavirus-origins.amp",
+      "publishedDateTime": "2021-04-06T13:58:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-biden-reassuring-to-see-companies-speak-out-against-voting-laws.md",
       "title": "Biden: 'Reassuring' to see companies speak out against voting laws",
       "excerpt": "President Biden Joe Biden Joe Biden's surprising presidency The Hill's Morning Report - Biden, McConnell agree on vaccines, clash over infrastructure Republican battle with MLB intensifies MORE on Tuesday credited private companies with speaking up in opposition to new voting laws being passed in Georgia and elsewhere while warning about the impact on workers when businesses leave,",
@@ -1190,174 +1354,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-04-biden-economic-adviser-says-she-supports-corporate-tax-increases-because-its-the-right-thing-to-do.md",
-      "title": "Biden economic adviser says she supports corporate tax increases because it's the 'right thing to do'",
-      "excerpt": "President Biden's economic adviser Cecilia Rouse on Sunday said the president proposes corporate tax increases because it's the \"right thing to do.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NBrGmXFWXx0/bidens-economic-adviser-says-he-supports-corporate-tax-increases-because-its-right-thing-to-do",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NBrGmXFWXx0/bidens-economic-adviser-says-he-supports-corporate-tax-increases-because-its-right-thing-to-do",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Cecilia-Rouse-thumb.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bidens-economic-adviser-says-he-supports-corporate-tax-increases-because-its-right-thing-to-do.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-economic-adviser-says-he-supports-corporate-tax-increases-because-its-right-thing-to-do.amp",
-      "publishedDateTime": "2021-04-04T10:42:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-04-hunter-biden-says-hes-absolutely-certain-hell-be-cleared-of-wrongdoing-in-doj-probe-into-business-dealings.md",
-      "title": "Hunter Biden says he's 'absolutely certain' he'll be cleared of wrongdoing in DOJ probe into business dealings",
-      "excerpt": "Hunter Biden says he is fully cooperating with the Justice Department's investigation into his business dealings in China and predicted that he will be cleared of any wrong doing in the probe.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0WPRcC74Q4Q/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0WPRcC74Q4Q/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210402131357-hunter-biden-cbs-interview-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/04/politics/hunter-biden-doj-investigation/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/04/politics/hunter-biden-doj-investigation/index.html",
-      "publishedDateTime": "2021-04-04T10:25:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-04-blunt-biden-infrastructure-bill-should-be-30-of-current-level-slams-partisan-add-ons-as-big-mistake.md",
-      "title": "Blunt: Biden 'infrastructure' bill should be 30% of current level, slams partisan add-ons as 'big mistake'",
-      "excerpt": "President Biden's massive spending plan needs to be cut by around 70% for Republicans to get on board, Sen. Roy Blunt, R-Mo., suggested on \"Fox News Sunday.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GUlzpMSov2M/sen-blunt-cut-biden-infrastructure-spending",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GUlzpMSov2M/sen-blunt-cut-biden-infrastructure-spending",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5cff0088-3ae8-45c5-9d0d-54c3a61230a9/61dedd14-c4dc-4e2d-87d1-b2d706b6d011/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/sen-blunt-cut-biden-infrastructure-spending.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-blunt-cut-biden-infrastructure-spending.amp",
-      "publishedDateTime": "2021-04-04T10:21:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -2,6 +2,170 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2021-05-16-jimmy-carter-20-bidens-bundle-of-crises-look-increasingly-like-1970s.md",
+      "title": "Jimmy Carter 2.0: Biden's bundle of crises look increasingly like 1970s",
+      "excerpt": "Republican lawmakers and conservative commentators have made multiple comparisons between the Joe Biden and Jimmy Carter administrations.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WTa_eMcdl78/jimmy-carter-biden-crises-1970s",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WTa_eMcdl78/jimmy-carter-biden-crises-1970s",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/198530bb-d185-486d-8857-92461ae5a01f/0013eadb-6808-4e68-a958-67e1f426972c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/jimmy-carter-biden-crises-1970s.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jimmy-carter-biden-crises-1970s.amp",
+      "publishedDateTime": "2021-05-16T03:26:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-16-biden-kills-trump-plan-for-american-heroes-sculpture-garden-report.md",
+      "title": "Biden kills Trump plan for ‘American heroes’ sculpture garden: report",
+      "excerpt": "President Biden on Friday put an end to a plan by former President Trump to create a \"National Garden of American Heroes.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fa38Y6zXu3I/biden-kills-trump-plan-for-american-heroes-sculpture-garden-report",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fa38Y6zXu3I/biden-kills-trump-plan-for-american-heroes-sculpture-garden-report",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 490,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fd258f5a-f722-49e3-8ed1-daf8fa8092f7/d584fb04-c012-4b5a-8229-3f06f67ed1ac/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-kills-trump-plan-for-american-heroes-sculpture-garden-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-kills-trump-plan-for-american-heroes-sculpture-garden-report.amp",
+      "publishedDateTime": "2021-05-15T21:24:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-16-republican-arizona-election-official-says-trump-unhinged.md",
+      "title": "Republican Arizona election official says Trump 'unhinged'",
+      "excerpt": "The Republican now leading the Arizona county elections department targeted by a GOP audit of the 2020 election results is slamming former President Donald Trump and others in his party for their cont",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/republican-arizona-election-official-trump-unhinged-77717013",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/republican-arizona-election-official-trump-unhinged-77717013",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1200,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_7f64d2cf7da84119bc6cba3606d2325c_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/republican-arizona-election-official-trump-unhinged-77717013",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/republican-arizona-election-official-trump-unhinged-77717013",
+      "publishedDateTime": "2021-05-15T18:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-16-biden-speaks-with-netanyahu-abbas-as-mideast-conflict-escalates.md",
       "title": "Biden speaks with Netanyahu, Abbas as Mideast conflict escalates",
       "excerpt": "Biden shared with Netanyahu 'strong support' for self-defense but 'grave concerns' about the situation in the West Bank",
@@ -1191,163 +1355,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-pelosi-says-she-has-confidence-in-harris-addressing-root-cause-of-border-crisis.md",
-      "title": "Pelosi says she has confidence in Harris addressing root cause of border crisis",
-      "excerpt": "House Speaker Nancy Pelosi said Thursday she has confidence in Vice President Kamala Harris' ability to address the root causes of the border crisis and touted progress the Biden Administration has already made to \"reconstruct\" the immigration system. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gkMu7NMsm70/pelosi-harris-root-cause-border-crisis",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gkMu7NMsm70/pelosi-harris-root-cause-border-crisis",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 541,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-harris-root-cause-border-crisis.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-harris-root-cause-border-crisis.amp",
-      "publishedDateTime": "2021-05-13T10:51:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-biden-pledges-aggressive-response-to-pipeline-cyberattackers.md",
-      "title": "Biden pledges aggressive response to pipeline cyberattackers",
-      "excerpt": "President Joe Biden has warned gasoline stations not to engage in price gouging as motorists wait for fuel to start flowing reliably through the Colonial Pipeline",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QHX4FJFUBUI6XPEW7X2V3ZB354.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
-      "publishedDateTime": "2021-05-13T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-maddow-potential-trump-indictment-moves-closer-with-mcgahns-testimony.md",
-      "title": "Maddow: Potential Trump Indictment Moves Closer With McGahn's Testimony",
-      "excerpt": "Rachel Maddow explains how Robert Mueller laid out the ways in which Donald Trump potentially committed obstruction of justice (even though Mueller would not prosecute Trump as president) and notes that Don McGahn's testimony was key to putting that together.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/05/13/maddow_potential_trump_indictment_moves_closer_with_mcgahns_testimony.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/05/13/maddow_potential_trump_indictment_moves_closer_with_mcgahns_testimony.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/45/459895.jpg",
-          "width": 800,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/05/13/maddow_potential_trump_indictment_moves_closer_with_mcgahns_testimony.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/13/maddow_potential_trump_indictment_moves_closer_with_mcgahns_testimony.amp.html",
-      "publishedDateTime": "2021-05-13T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

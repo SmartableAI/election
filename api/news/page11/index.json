@@ -2,6 +2,154 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-08-12-joe-biden-put-his-foot-on-the-neck-of-the-energy-industry-now-he-wants-more-oil-salena-zito.md",
+      "title": "Joe Biden 'put his foot on the neck' of the energy industry, now he wants more oil: Salena Zito",
+      "excerpt": "Washington Examiner National Political Reporter Salena Zito criticized Joe Biden Wednesday for calling on OPEC to produce more oil as gas prices soar in the United States, saying what the president is doing is \"befuddling.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/joe-biden-energy-industry-more-oil-salena-zito",
+      "originalUrl": "https://www.foxnews.com/media/joe-biden-energy-industry-more-oil-salena-zito",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b4f279e4-4ad7-4633-9030-97536c831a98/684a0321-1bb5-4bfc-b45e-59a7255a2db1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/joe-biden-energy-industry-more-oil-salena-zito.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/joe-biden-energy-industry-more-oil-salena-zito.amp",
+      "publishedDateTime": "2021-08-11T22:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-wh-reporters-roiled-by-spacing-constraints-excuse-to-limit-access-to-biden-qas.md",
+      "title": "WH reporters roiled by ‘spacing constraints’ excuse to limit access to Biden Q&As",
+      "excerpt": "President Joe Biden’s interactions with reporters in the White House East Room have resembled press conferences but his staff selects which reporters attend, citing “spacing",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/08/11/wh-journos-roiled-by-spacing-constraints-to-biden-pressers/",
+      "originalUrl": "https://nypost.com/2021/08/11/wh-journos-roiled-by-spacing-constraints-to-biden-pressers/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/white-house-reporters-roiled-434.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/08/11/wh-journos-roiled-by-spacing-constraints-to-biden-pressers/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/11/wh-journos-roiled-by-spacing-constraints-to-biden-pressers/amp/",
+      "publishedDateTime": "2021-08-11T16:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-for-biden-and-senators-a-sense-that-world-was-watching.md",
+      "title": "For Biden and senators, a sense that 'world was watching'",
+      "excerpt": "Biden recalled infrastructure as “probably the least difficult thing to do” when he was a senator — became an exercise in showing how damaged the legislative process has become in partisan Washington and how a president and core group of senators were determined to try to fix it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lmtonline.com/news/article/For-Biden-and-senators-a-sense-that-world-was-16378709.php",
+      "originalUrl": "https://www.lmtonline.com/news/article/For-Biden-and-senators-a-sense-that-world-was-16378709.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.lmtonline.com/news/amp/For-Biden-and-senators-a-sense-that-world-was-16378709.php",
+      "cdnAmpWebUrl": "https://www-lmtonline-com.cdn.ampproject.org/c/s/www.lmtonline.com/news/amp/For-Biden-and-senators-a-sense-that-world-was-16378709.php",
+      "publishedDateTime": "2021-08-11T14:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Laredo Morning Times",
+        "domain": "lmtonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-12-trump-gop-slam-dems-35t-budget-as-communist-plan-to-destroy-us.md",
       "title": "Trump, GOP slam Dems’ $3.5T budget as ‘Communist plan to destroy’ US",
       "excerpt": "Former President Donald Trump led the Republican criticism after a 15-hour “vote-a-rama” overnight that saw senators pass the $3.5 trillion budget reconciliation package.",
@@ -1140,144 +1288,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-grim-afghan-news-raises-risk-for-biden-of-taliban-takeover.md",
-      "title": "Grim Afghan news raises risk for Biden of Taliban takeover",
-      "excerpt": "A rapidly deteriorating security situation in Afghanistan weeks before the official end of the U.S. military mission is putting pressure on President Biden as he sticks to his plan to pull America out of its longest war.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/defense/567049-grim-afghan-news-raises-risk-for-biden-of-taliban-takeover",
-      "originalUrl": "https://thehill.com/policy/defense/567049-grim-afghan-news-raises-risk-for-biden-of-taliban-takeover",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 465,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/article_images/security-patrol_herat_afghanistan_080621getty_afghanistan.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/defense/567049-grim-afghan-news-raises-risk-for-biden-of-taliban-takeover?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/567049-grim-afghan-news-raises-risk-for-biden-of-taliban-takeover?amp",
-      "publishedDateTime": "2021-08-09T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-trump-says-he-will-do-something-about-homelessness.md",
-      "title": "Trump says he will do ‘something’ about homelessness",
-      "excerpt": "President Donald Trump began a California visit on Tuesday, saying he will do \"something\" about homelessness but offering no specifics beyond the mention of creating a task force.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/donald-trump-geoffrey-palmer-california-los-angeles-san-francisco-df5a1a2a105d42eaa3946b586fc29536",
-      "originalUrl": "https://apnews.com/article/donald-trump-geoffrey-palmer-california-los-angeles-san-francisco-df5a1a2a105d42eaa3946b586fc29536",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/afs-prod/media/334c3ffb31f34c3aa8a178bb26ae6f1f/3000.jpeg",
-          "width": 3000,
-          "height": 1999,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-09T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-pence-cruz-desantis-to-headline-ricketts-steak-fry-event.md",
-      "title": "Pence, Cruz, DeSantis to headline Ricketts steak fry event",
-      "excerpt": "Former Vice President Mike Pence, Texas Sen. Ted Cruz and Florida Gov. Ron DeSantis are coming to Nebraska for Gov. Pete Ricketts' annual steak fry next month. The high-profile Republicans will appear at the gathering to celebrate agriculture on Sept.",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/news/article/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php",
-      "originalUrl": "https://www.houstonchronicle.com/news/article/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.houstonchronicle.com/news/amp/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php",
-      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php",
-      "publishedDateTime": "2021-08-09T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

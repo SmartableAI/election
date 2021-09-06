@@ -2,6 +2,161 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-08-04-former-atf-agents-slam-biden-nominees-divisive-gun-control-agenda.md",
+      "title": "Former ATF agents slam Biden nominee's 'divisive gun control agenda'",
+      "excerpt": "Several former agents of the Bureau of Alcohol, Tobacco, Firearms and Explosives are publicly urging the Biden administration not to confirm former agent David Chipman to lead the agency.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_5R7wwT0kAM/former-atf-agents-slam-biden-nominees-divisive-gun-control-agenda",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_5R7wwT0kAM/former-atf-agents-slam-biden-nominees-divisive-gun-control-agenda",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32eb7cbf-b336-4d76-b468-20c975733e88/87d46112-8a3c-435b-bc26-cab352d0de6b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/former-atf-agents-slam-biden-nominees-divisive-gun-control-agenda.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-atf-agents-slam-biden-nominees-divisive-gun-control-agenda.amp",
+      "publishedDateTime": "2021-08-03T17:44:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-janey-invokes-slavery-trump-birtherism-over-question-on-vaccine-passports.md",
+      "title": "Janey invokes slavery, Trump birtherism over question on vaccine passports",
+      "excerpt": "Acting Mayor Kim Janey wouldn’t say whether she’s considering following New York City’s lead and mandating proof of vaccines for various indoor activities — but she did reference slavery, the Jim",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonherald.com/2021/08/03/janey-invokes-slavery-trump-birtherism-over-question-on-vaccine-passports/",
+      "originalUrl": "https://www.bostonherald.com/2021/08/03/janey-invokes-slavery-trump-birtherism-over-question-on-vaccine-passports/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bostonherald.com/wp-content/uploads/2021/08/MAYORsc003.jpg?w=1024&#038;h=727",
+          "width": 1024,
+          "height": 727,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bostonherald.com/2021/08/03/janey-invokes-slavery-trump-birtherism-over-question-on-vaccine-passports/amp/",
+      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/08/03/janey-invokes-slavery-trump-birtherism-over-question-on-vaccine-passports/amp/",
+      "publishedDateTime": "2021-08-03T15:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Boston Herald",
+        "domain": "bostonherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-biden-blasted-for-having-called-ny-gov-andrew-cuomo-the-gold-standard-of-leadership.md",
+      "title": "Biden blasted for having called NY Gov. Andrew Cuomo the 'gold standard' of leadership",
+      "excerpt": "President Joe Biden is facing criticism for referring to New York Gov. Andrew Cuomo as the “gold standard” of leadership in the past following a report from New York’s Attorney General concluding the governor sexually harassed multiple women.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rjf5yKhU0Aw/biden-blasted-for-calling-cuomo-gold-standard-of-leadership-amid-damning-sexual-harassment-report",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rjf5yKhU0Aw/biden-blasted-for-calling-cuomo-gold-standard-of-leadership-amid-damning-sexual-harassment-report",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4fc9c59f-f638-41c9-967a-fbeb72bb4377/c98ea31a-14fe-45e8-8171-39c5518bb33a/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-blasted-for-calling-cuomo-gold-standard-of-leadership-amid-damning-sexual-harassment-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blasted-for-calling-cuomo-gold-standard-of-leadership-amid-damning-sexual-harassment-report.amp",
+      "publishedDateTime": "2021-08-03T15:15:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-inside-the-rise-of-new-york-ag-letitia-james-as-she-takes-on-cuomo-trump.md",
       "title": "Inside the rise of New York AG Letitia James as she takes on Cuomo, Trump",
       "excerpt": "New York Attorney General Letitia James’s office released the results of an extensive investigation into allegations of sexual harassment against Gov. Andrew Cuomo on Tuesday potentially derailing his political career and continuing to launch her own as some speculate she has eyes on a higher office.",
@@ -1201,162 +1356,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-trumps-similarities-to-cult-leader-jim-jones-explained-by-rep-speier.md",
-      "title": "Trump's Similarities To Cult Leader Jim Jones Explained By Rep. Speier",
-      "excerpt": "Both Trump and notorious cult leader Jim Jones used their charisma to connect with disillusioned Americans, says Speier The Jonestown Massacre occurred on Nov. 18, 1978 Speier was shot five times and left for dead that year She said Trump still influences members of the US Congress Rep.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/trumps-similarities-cult-leader-jim-jones-explained-rep-speier-3264236",
-      "originalUrl": "https://www.ibtimes.com/trumps-similarities-cult-leader-jim-jones-explained-rep-speier-3264236",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/04/former-us-president-donald-trump-blasted-his-two.jpg",
-          "width": 1024,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/trumps-similarities-cult-leader-jim-jones-explained-rep-speier-3264236?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trumps-similarities-cult-leader-jim-jones-explained-rep-speier-3264236?amp=1",
-      "publishedDateTime": "2021-08-01T20:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-will-trump-be-spoiler-as-california-gop-seeks-newsom-recall.md",
-      "title": "Will Trump be spoiler as California GOP seeks Newsom recall?",
-      "excerpt": "California Republicans see a chance of ousting embattled Democratic Gov. Gavin Newsom in a September recall election",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/eastern-governors-model-california-gop-comeback-79204135",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/eastern-governors-model-california-gop-comeback-79204135",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_fc4f5c1526744e9286fcdbc5f06b694d_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/eastern-governors-model-california-gop-comeback-79204135",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/eastern-governors-model-california-gop-comeback-79204135",
-      "publishedDateTime": "2021-08-01T16:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-factbox-bidens-new-covid-push-vaccine-rules-testing-plans-hard-cash.md",
-      "title": "Factbox: Biden's new COVID push: vaccine rules, testing plans, hard cash",
-      "excerpt": "President Joe Biden on Thursday announced new measures to stop the spread of COVID-19 and the new Delta variant in the United States that will impact millions of federal workers, contractors and private citizens.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/health-coronavirus-biden-measures/factbox-bidens-new-covid-push-vaccine-rules-testing-plans-hard-cash-idUSL1N2P533F",
-      "originalUrl": "https://www.reuters.com/article/health-coronavirus-biden-measures/factbox-bidens-new-covid-push-vaccine-rules-testing-plans-hard-cash-idUSL1N2P533F",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 224,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210729&t=2&i=1570403906&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6S1J9",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2EZ2WZ",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2EZ2WZ",
-      "publishedDateTime": "2021-08-01T15:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

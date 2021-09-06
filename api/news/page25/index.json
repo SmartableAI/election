@@ -2,6 +2,162 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-07-12-trump-rips-through-the-roof-crime-in-nyc-other-democrat-led-cities.md",
+      "title": "Trump rips ‘through the roof’ crime in NYC, other Democrat-led cities",
+      "excerpt": "The former president said “New York is totally out of control” ​because there is “no more cash bail” and “all they do is go after Republicans.”",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/07/12/trump-rips-through-the-roof-crime-in-nyc-other-cities/",
+      "originalUrl": "https://nypost.com/2021/07/12/trump-rips-through-the-roof-crime-in-nyc-other-cities/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/donald-trump-003.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/07/12/trump-rips-through-the-roof-crime-in-nyc-other-cities/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/12/trump-rips-through-the-roof-crime-in-nyc-other-cities/amp/",
+      "publishedDateTime": "2021-07-12T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-12-lin-wood-blames-trump-lawyer-sidney-powell-for-dragging-him-into-election-fraud-case.md",
+      "title": "Lin Wood Blames Trump Lawyer Sidney Powell for Dragging Him Into Election Fraud Case",
+      "excerpt": "Wood told a judge on Monday that he never reviewed documents in the case, attempting to absolve himself of responsibility.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/lin-wood-blames-trump-lawyer-sidney-powell-dragging-him-election-fraud-case-1608913",
+      "originalUrl": "https://www.newsweek.com/lin-wood-blames-trump-lawyer-sidney-powell-dragging-him-election-fraud-case-1608913",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 213,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1843811/lin-wood-sidney-powell-donald-trump.jpg",
+          "width": 3615,
+          "height": 2410,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/lin-wood-blames-trump-lawyer-sidney-powell-dragging-him-election-fraud-case-1608913?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lin-wood-blames-trump-lawyer-sidney-powell-dragging-him-election-fraud-case-1608913?amp=1",
+      "publishedDateTime": "2021-07-12T09:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-12-biden-calls-on-cuban-regime-to-hear-their-people-and-serve-their-needs-amid-rare-protests.md",
+      "title": "Biden calls on Cuban regime to 'hear their people and serve their needs' amid rare protests",
+      "excerpt": "President Joe Biden on Monday expressed support for the Cuban people amid rare protests in the country over a lack of freedoms and a worsening economy, calling on Cuban President Miguel Diàz-Canel regime to \"hear their people and serve their needs.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/808zi1FI1NU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/808zi1FI1NU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210708143551-02-biden-afghanistan-remarks-0708-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/12/politics/biden-cuba-protests/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/biden-cuba-protests/index.html",
+      "publishedDateTime": "2021-07-12T07:54:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-12-biden-releases-statement-on-cuba-protests-we-stand-with-the-cuban-people.md",
       "title": "Biden releases statement on Cuba protests: 'We stand with the Cuban people'",
       "excerpt": "President Joe Biden on Monday released a statement in solidarity with the people of Cuba who marched on the island Sunday to protest leadership amid the pandemic.",
@@ -1184,166 +1340,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-biden-fires-social-security-commissioner-andrew-saul-who-says-he-isnt-leaving.md",
-      "title": "Biden fires Social Security Commissioner Andrew Saul, who says he isn't leaving",
-      "excerpt": "President Biden fired Social Security Commissioner Andrew Saul on Friday amid an ongoing dispute over his leadership of the independent agency responsible for administering retirement and disability benefits.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/opT7wAUS-YM/biden-fires-social-security-commissioner-andrew-saul",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/opT7wAUS-YM/biden-fires-social-security-commissioner-andrew-saul",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1faec23e-7f7d-40d8-994d-78cb65174268/9d242ef5-c1ea-423d-872d-10d8308323e4/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-fires-social-security-commissioner-andrew-saul.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-fires-social-security-commissioner-andrew-saul.amp",
-      "publishedDateTime": "2021-07-09T15:27:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-los-angeles-mayor-garcetti-tapped-by-biden-to-be-ambassador-to-india.md",
-      "title": "Los Angeles Mayor Garcetti tapped by Biden to be ambassador to India",
-      "excerpt": "President Biden is looking to Los Angeles Mayor Eric Garcetti to be the next U.S. ambassador to India.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1Yj2mocpjK0/los-angeles-mayor-garcetti-biden-ambassador-india",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1Yj2mocpjK0/los-angeles-mayor-garcetti-biden-ambassador-india",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/07/720/405/AP21183567372792-e1625868017453.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/los-angeles-mayor-garcetti-biden-ambassador-india.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/los-angeles-mayor-garcetti-biden-ambassador-india.amp",
-      "publishedDateTime": "2021-07-09T15:17:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-trump-headlines-fundraiser-for-nys-republican-party.md",
-      "title": "Trump headlines fundraiser for NYS Republican Party",
-      "excerpt": "Former President Donald Trump is headlining an Aug. 5 fundraiser for the New York State Republican Party. The ticket asking price is $1,000 to attend the reception, $5,000 for the reception and a Trump photo op and $25,",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/09/trump-headlines-fundraiser-for-nys-republican-party/",
-      "originalUrl": "https://nypost.com/2021/07/09/trump-headlines-fundraiser-for-nys-republican-party/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-headling-republican-fundraiser-03.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/09/trump-headlines-fundraiser-for-nys-republican-party/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/09/trump-headlines-fundraiser-for-nys-republican-party/amp/",
-      "publishedDateTime": "2021-07-09T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

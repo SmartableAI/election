@@ -2,6 +2,119 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-07-08-lara-trump-crt-teaches-us-to-judge-people-on-the-color-of-their-skin.md",
+      "title": "Lara Trump: CRT teaches us to 'judge people on the color of their skin'",
+      "excerpt": "Fox News contributor Lara Trump joined “Fox & Friends” Thursday, suggesting that critical race theory is teaching children to “judge people on the color of their skin” and stating it’s “dead wrong.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge-people-on-skin-color",
+      "originalUrl": "https://www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge-people-on-skin-color",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2858645-f93e-4a1b-896c-77c9788113ae/8fdd5859-d6bc-4c75-8698-a5c38e1fe80f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge-people-on-skin-color.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge-people-on-skin-color.amp",
+      "publishedDateTime": "2021-07-08T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-biden-misquotes-reagans-morning-in-america-ad-while-plugging-infrastructure-package.md",
+      "title": "Biden misquotes Reagan's 'Morning in America' ad while plugging infrastructure package",
+      "excerpt": "President Biden misquoted one of former President Ronald Reagan’s most famous campaign ads during a Wednesday speech while promoting the potential economic benefits of his two-pronged spending plan on infrastructure and related projects.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eQZbjitww3w/biden-reagan-morning-america-ad-infrastructure-packages",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eQZbjitww3w/biden-reagan-morning-america-ad-infrastructure-packages",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/580d5c00-caa8-48f6-a74e-3da2386af417/9a974894-a28b-4f08-8593-9e3c20741d95/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-reagan-morning-america-ad-infrastructure-packages.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reagan-morning-america-ad-infrastructure-packages.amp",
+      "publishedDateTime": "2021-07-07T15:24:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-biden-meets-with-chicago-mayor-lightfoot-at-airport-amid-surge-in-gun-violence.md",
       "title": "Biden meets with Chicago Mayor Lightfoot at airport amid surge in gun violence",
       "excerpt": "President Biden will meet with Chicago’s mayor on Wednesday, in the wake of an extremely violent holiday weekend in the nation’s third most populous city.",
@@ -1510,110 +1623,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-roman-catholic-church-frequented-by-biden-will-let-anyone-receive-communion-amid-abortion-controversy.md",
-      "title": "Roman Catholic church frequented by Biden will let anyone receive Communion amid abortion controversy",
-      "excerpt": "A Washington, D.C., church frequented by President Biden says it won't get involved in what it describes as “a political issue” over Communion.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1HFNyKRgciY/roman-catholic-church-biden-communion-abortion-controversy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1HFNyKRgciY/roman-catholic-church-biden-communion-abortion-controversy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/AP21169598321502.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T21:11:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-oreilly-biden-is-out-to-get-vp-kamala-harris-biden-doesnt-like-her.md",
-      "title": "O'Reilly: Biden Is Out To Get VP Kamala Harris, \"Biden Doesn't Like Her\"",
-      "excerpt": "\"The First\" host Bill O'Reilly said President Joe Biden is \"out to get\" Vice President Kamala Harris due to her primary debate performance where she basically accused him of being a racist with the \"that little girl was me\" line.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/07/01/oreilly_biden_is_out_to_get_vp_kamala_harris_biden_doesnt_like_her.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/07/01/oreilly_biden_is_out_to_get_vp_kamala_harris_biden_doesnt_like_her.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/54/547161.jpg",
-          "width": 1006,
-          "height": 754,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/07/01/oreilly_biden_is_out_to_get_vp_kamala_harris_biden_doesnt_like_her.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/01/oreilly_biden_is_out_to_get_vp_kamala_harris_biden_doesnt_like_her.amp.html",
-      "publishedDateTime": "2021-06-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
       ]
     }
   ],

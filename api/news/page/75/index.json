@@ -2,6 +2,174 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2021-04-04-biden-economic-adviser-says-she-supports-corporate-tax-increases-because-its-the-right-thing-to-do.md",
+      "title": "Biden economic adviser says she supports corporate tax increases because it's the 'right thing to do'",
+      "excerpt": "President Biden's economic adviser Cecilia Rouse on Sunday said the president proposes corporate tax increases because it's the \"right thing to do.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NBrGmXFWXx0/bidens-economic-adviser-says-he-supports-corporate-tax-increases-because-its-right-thing-to-do",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NBrGmXFWXx0/bidens-economic-adviser-says-he-supports-corporate-tax-increases-because-its-right-thing-to-do",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Cecilia-Rouse-thumb.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-economic-adviser-says-he-supports-corporate-tax-increases-because-its-right-thing-to-do.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-economic-adviser-says-he-supports-corporate-tax-increases-because-its-right-thing-to-do.amp",
+      "publishedDateTime": "2021-04-04T10:42:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-04-hunter-biden-says-hes-absolutely-certain-hell-be-cleared-of-wrongdoing-in-doj-probe-into-business-dealings.md",
+      "title": "Hunter Biden says he's 'absolutely certain' he'll be cleared of wrongdoing in DOJ probe into business dealings",
+      "excerpt": "Hunter Biden says he is fully cooperating with the Justice Department's investigation into his business dealings in China and predicted that he will be cleared of any wrong doing in the probe.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0WPRcC74Q4Q/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0WPRcC74Q4Q/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210402131357-hunter-biden-cbs-interview-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/04/politics/hunter-biden-doj-investigation/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/04/politics/hunter-biden-doj-investigation/index.html",
+      "publishedDateTime": "2021-04-04T10:25:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-04-blunt-biden-infrastructure-bill-should-be-30-of-current-level-slams-partisan-add-ons-as-big-mistake.md",
+      "title": "Blunt: Biden 'infrastructure' bill should be 30% of current level, slams partisan add-ons as 'big mistake'",
+      "excerpt": "President Biden's massive spending plan needs to be cut by around 70% for Republicans to get on board, Sen. Roy Blunt, R-Mo., suggested on \"Fox News Sunday.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GUlzpMSov2M/sen-blunt-cut-biden-infrastructure-spending",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GUlzpMSov2M/sen-blunt-cut-biden-infrastructure-spending",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5cff0088-3ae8-45c5-9d0d-54c3a61230a9/61dedd14-c4dc-4e2d-87d1-b2d706b6d011/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/sen-blunt-cut-biden-infrastructure-spending.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-blunt-cut-biden-infrastructure-spending.amp",
+      "publishedDateTime": "2021-04-04T10:21:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-04-barrasso-slams-biden-over-kids-in-captivity-says-he-was-told-to-delete-photos-of-border-facilities.md",
       "title": "Barrasso slams Biden over kids in 'captivity,' says he was told to delete photos of border facilities",
       "excerpt": "\"The irony here is that we're hearing a lot about Joe Biden wanting vaccine passports to prove that people have vaccines,\" Barrasso said. \"Meanwhile, the border crossers, they don't even require I.D. We don't know who they are, where they're coming from ...",
@@ -1156,170 +1324,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-biden-reverses-trump-lifts-sanctions-on-international-criminal-court.md",
-      "title": "Biden reverses Trump, lifts sanctions on International Criminal Court",
-      "excerpt": "President Biden on Friday reversed Trump-era foreign policies by lifting sanctions and removing visa restrictions on officials of the International Criminal Court (ICC).",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vXGPm2re3qU/biden-reverses-trump-era-policies-lifts-sanctions-on-international-criminal-court",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vXGPm2re3qU/biden-reverses-trump-era-policies-lifts-sanctions-on-international-criminal-court",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 1690,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/91d04a2f-0fcc-4e80-a4db-39df11088247/3c84e3f6-2c0a-488c-93d2-6bbf39b4ec59/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-reverses-trump-era-policies-lifts-sanctions-on-international-criminal-court.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reverses-trump-era-policies-lifts-sanctions-on-international-criminal-court.amp",
-      "publishedDateTime": "2021-04-02T17:21:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-hunter-biden-says-in-memoir-he-wouldnt-take-burisma-job-again-but-insists-it-wasnt-unethical.md",
-      "title": "Hunter Biden says in memoir he wouldn’t take Burisma job again but insists it wasn’t ‘unethical’",
-      "excerpt": "Hunter Biden wrote in his new tell-all memoir “Beautiful Things” that he does not regret taking a seat on the board of Burisma Holdings, but he would not do it again. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cmlFy4KIdSA/biden-wouldnt-take-burisma-job-again-insists-it-wasnt-unethical",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cmlFy4KIdSA/biden-wouldnt-take-burisma-job-again-insists-it-wasnt-unethical",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/HunterBidenNEW.jpg",
-          "width": 722,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-wouldnt-take-burisma-job-again-insists-it-wasnt-unethical.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-wouldnt-take-burisma-job-again-insists-it-wasnt-unethical.amp",
-      "publishedDateTime": "2021-04-02T16:25:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-more-raleigh-to-richmond-amtrak-runs-proposed-in-biden-plan.md",
-      "title": "More Raleigh-to-Richmond Amtrak runs proposed in Biden plan",
-      "excerpt": "CHARLOTTE, N.C. — More direct train service between Raleigh and Richmond and passenger service to Asheville and Wilmington are included in Amtrak’s plan for $80 billion in federal funds, proposed as part of President Joe Biden’s $2 trillion ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/national/more-raleigh-to-richmond-amtrak-runs-proposed-in-biden-plan/2021/04/02/cdd7856e-93fe-11eb-aadc-af78701a30ca_story.html",
-      "originalUrl": "https://www.washingtonpost.com/national/more-raleigh-to-richmond-amtrak-runs-proposed-in-biden-plan/2021/04/02/cdd7856e-93fe-11eb-aadc-af78701a30ca_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 365,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/national/more-raleigh-to-richmond-amtrak-runs-proposed-in-biden-plan/2021/04/02/cdd7856e-93fe-11eb-aadc-af78701a30ca_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/more-raleigh-to-richmond-amtrak-runs-proposed-in-biden-plan/2021/04/02/cdd7856e-93fe-11eb-aadc-af78701a30ca_story.html?outputType=amp",
-      "publishedDateTime": "2021-04-02T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

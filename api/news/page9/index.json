@@ -2,6 +2,158 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-08-18-mike-pence-joe-biden-weakness-in-afghanistan-has-embarrassed-america.md",
+      "title": "Mike Pence: Joe Biden 'Weakness' in Afghanistan Has 'Embarrassed America'",
+      "excerpt": "Former Vice President Mike Pence has said the U.S. withdrawal from Afghanistan shows President Joe Biden's \"weakness\" and has \"embarrassed America on the world stage.\" Pence, who served as vice ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mike-pence-joe-biden-weakness-afghanistan-embarrassed-america-taliban-1620432",
+      "originalUrl": "https://www.newsweek.com/mike-pence-joe-biden-weakness-afghanistan-embarrassed-america-taliban-1620432",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 2399,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1873554/mike-pence-speaks-columbia-south-carolina.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mike-pence-joe-biden-weakness-afghanistan-embarrassed-america-taliban-1620432?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-joe-biden-weakness-afghanistan-embarrassed-america-taliban-1620432?amp=1",
+      "publishedDateTime": "2021-08-18T02:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-08-18-joe-biden-said-america-is-back-pity-it-doesnt-have-your-back.md",
+      "title": "Joe Biden said: ‘America is back.’ Pity it doesn’t have your back…",
+      "excerpt": "REMEMBER when Joe Biden was installed as President of the United States? Remember all the thrills and ”hosannas” from the liberal Left? At last America had done the right thing, they said. They",
+      "sourceUrl": null,
+      "webUrl": "https://www.the-sun.com/news/3493266/joe-biden-america-doesnt-have-your-back/",
+      "originalUrl": "https://www.the-sun.com/news/3493266/joe-biden-america-doesnt-have-your-back/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/tp-composite-douglas-murray-new-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.the-sun.com/news/3493266/joe-biden-america-doesnt-have-your-back/amp/",
+      "cdnAmpWebUrl": "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3493266/joe-biden-america-doesnt-have-your-back/amp/",
+      "publishedDateTime": "2021-08-17T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun",
+        "domain": "the-sun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-vivek-ramaswamy-blasts-twitters-staggering-hypocrisy-on-taliban-and-trump.md",
+      "title": "Vivek Ramaswamy blasts Twitter's 'staggering' hypocrisy on Taliban and Trump",
+      "excerpt": "Biotech CEO and ‘Woke Inc.’ author Vivek Ramaswamy criticized Twitter on Tuesday for allowing the Taliban to utilize their social media platform while censoring others, including former President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/vivek-ramaswamy-twitter-taliban-afghanistan-big-tech",
+      "originalUrl": "https://www.foxnews.com/media/vivek-ramaswamy-twitter-taliban-afghanistan-big-tech",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/vivek-ramaswamy-twitter-taliban-afghanistan-big-tech.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/vivek-ramaswamy-twitter-taliban-afghanistan-big-tech.amp",
+      "publishedDateTime": "2021-08-17T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-bidens-speech-was-disingenuous-al-qaeda-will-return-former-reagan-official-says.md",
       "title": "Biden's speech was 'disingenuous,' al Qaeda will return, former Reagan official says",
       "excerpt": "A former assistant defense secretary warned that al Qaeda “will again show its viper head” and said President Biden was “disingenuous” and during his address Monday.",
@@ -1127,163 +1279,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-trump-reinstatement-day-latest-failure-in-predictions-hell-resume-presidency-oust-biden.md",
-      "title": "Trump 'Reinstatement Day' Latest Failure in Predictions He'll Resume Presidency, Oust Biden",
-      "excerpt": "Despite the months-long failed predictions that Trump would be reinstated as president, some supporters of the theory continue to peddle it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152",
-      "originalUrl": "https://www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1280,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1870140/donald-trump-reinstatement-day-president-mike-lindell.jpg",
-          "width": 2500,
-          "height": 1665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152?amp=1",
-      "publishedDateTime": "2021-08-13T07:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-desantis-faced-with-covid-surge-urges-floridians-to-use-regeneron-antibody-treatment-given-to-trump.md",
-      "title": "DeSantis, faced with covid surge, urges Floridians to use Regeneron antibody treatment given to Trump",
-      "excerpt": "Ron DeSantis (R) is vowing to begin dispensing Regeneron monoclonal antibodies — the treatment given to President Donald Trump when he had the coronavirus — through mobile clinics amid a record-breaking stretch of new cases and hospitalizations that have ravaged the state.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/08/13/desantis-regeneron-florida-covid-antibodies/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/08/13/desantis-regeneron-florida-covid-antibodies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GPLFBEH3EII6XEI4KJF4RNUPC4.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-13T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-biden-sending-envoy-to-ethiopia-amid-tigray-conflict.md",
-      "title": "Biden sending envoy to Ethiopia amid Tigray conflict",
-      "excerpt": "President Biden is sending his special envoy for the Horn of Africa to Ethiopia amid ongoing fighting in Tigray.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/international/middle-east-north-africa/567714-biden-sending-envoy-to-ethiopia-amid-tigray",
-      "originalUrl": "https://thehill.com/policy/international/middle-east-north-africa/567714-biden-sending-envoy-to-ethiopia-amid-tigray",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/feltmanjeffrey_42321_gettyimages.jpg",
-          "width": 781,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/international/middle-east-north-africa/567714-biden-sending-envoy-to-ethiopia-amid-tigray?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/international/middle-east-north-africa/567714-biden-sending-envoy-to-ethiopia-amid-tigray?amp",
-      "publishedDateTime": "2021-08-13T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

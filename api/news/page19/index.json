@@ -2,6 +2,162 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-07-23-mike-pence-was-a-january-6-hero-and-thats-why-hes-doomed.md",
+      "title": "Mike Pence Was a January 6 Hero and That's Why He's Doomed",
+      "excerpt": "As more reports reveal the actions of former Vice President Mike Pence amid the violence of January 6, his purported heroism stands in contrast to many other high-profile Republicans, whose reputations are tarnished for how they acted about the Capitol riot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mike-pence-january-6-hero-doomed-1612108",
+      "originalUrl": "https://www.newsweek.com/mike-pence-january-6-hero-doomed-1612108",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1852387/mike-pence-addresses-crowd-new-hampshire.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mike-pence-january-6-hero-doomed-1612108?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-january-6-hero-doomed-1612108?amp=1",
+      "publishedDateTime": "2021-07-23T03:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-donald-trump-jr-responds-to-kimberly-guilfoyle-the-view-rumor.md",
+      "title": "Donald Trump Jr. Responds to Kimberly Guilfoyle 'The View' Rumor",
+      "excerpt": "Speculation is growing over the conservative figure who will be chosen to replace Meghan McCain on the ABC show.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/kimberly-guilfoyle-donald-trump-jr-view-abc-rumor-meghan-mccain-replacement-1612422",
+      "originalUrl": "https://www.newsweek.com/kimberly-guilfoyle-donald-trump-jr-view-abc-rumor-meghan-mccain-replacement-1612422",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1853059/don-trump-jr-kimberly-guilfoyle.jpg",
+          "width": 3000,
+          "height": 2237,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/kimberly-guilfoyle-donald-trump-jr-view-abc-rumor-meghan-mccain-replacement-1612422?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kimberly-guilfoyle-donald-trump-jr-view-abc-rumor-meghan-mccain-replacement-1612422?amp=1",
+      "publishedDateTime": "2021-07-23T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-democrats-outraged-after-the-fbi-said-it-got-more-than-4500-tips-about-brett-kavanaugh-and-referred-the-relevant-ones-to-the-trump-white.md",
+      "title": "Democrats outraged after the FBI said it got more than 4,500 tips about Brett Kavanaugh — and referred the 'relevant' ones to the Trump White House",
+      "excerpt": "When Kavanaugh was a Supreme Court nominee, the FBI conducted just 10 interviews after receiving thousands of tips, the agency said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/democrats-accuse-fbi-of-ignoring-4500-tips-about-brett-kavanaugh-2021-7",
+      "originalUrl": "https://www.businessinsider.com/democrats-accuse-fbi-of-ignoring-4500-tips-about-brett-kavanaugh-2021-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60fa223cfc253600181ffb47?width=1200&format=jpeg",
+          "width": 1034,
+          "height": 517,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/democrats-accuse-fbi-of-ignoring-4500-tips-about-brett-kavanaugh-2021-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/democrats-accuse-fbi-of-ignoring-4500-tips-about-brett-kavanaugh-2021-7?amp",
+      "publishedDateTime": "2021-07-22T19:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-fbi-says-it-got-more-than-4500-tips-on-kavanaugh-providing-relevant-ones-to-trump-white-house.md",
       "title": "FBI says it got more than 4,500 tips on Kavanaugh, providing 'relevant' ones to Trump White House",
       "excerpt": "The FBI disclosed that it received more than 4,500 tips on a phone line in 2018 as part of a background investigation into then-Supreme Court nominee Brett Kavanaugh and provided \"relevant\" ones to former President Donald Trump's White House counsel.\n    \n",
@@ -1204,174 +1360,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-biden-says-abolishing-filibuster-would-throw-entire-congress-into-chaos.md",
-      "title": "Biden says abolishing filibuster would 'throw entire Congress into chaos'",
-      "excerpt": "President Biden shot down calls to abolish the filibuster to clear the way for passage of the sweeping Democrat-backed elections overhaul, arguing that any effort to end use of the tactic despite a GOP outcry would jeopardize his entire legislative agenda.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xo1DjHCpQkk/biden-abolishing-fillibuster-throw-entire-congress-chaos",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xo1DjHCpQkk/biden-abolishing-fillibuster-throw-entire-congress-chaos",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/80949319-7d85-4343-8813-be2da542c83b/127f1c2b-36c9-4e4c-8318-6ee4ccfaa5d8/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-abolishing-fillibuster-throw-entire-congress-chaos.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-abolishing-fillibuster-throw-entire-congress-chaos.amp",
-      "publishedDateTime": "2021-07-21T18:41:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-biden-questions-parent-honesty-about-student-vaccinations-says-its-a-matter-of-community-responsibility.md",
-      "title": "Biden questions parent 'honesty' about student vaccinations, says it's a matter of 'community responsibility'",
-      "excerpt": "President Biden said Wednesday that it was a matter of “community responsibility” for parents to be honest about whether their children aged 12 and older are vaccinated when schools reopen later this year.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WuT-bgOa-40/biden-vaccination-honesty-schools-reopen-community-responsibility",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WuT-bgOa-40/biden-vaccination-honesty-schools-reopen-community-responsibility",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c1180707-11ea-4958-9a04-2e046e48bafe/790a3046-6985-4f53-9580-957cdfc1cbd5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-vaccination-honesty-schools-reopen-community-responsibility.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vaccination-honesty-schools-reopen-community-responsibility.amp",
-      "publishedDateTime": "2021-07-21T17:46:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-biden-to-nominate-widow-of-late-sen-ted-kennedy-as-ambassador-to-austria.md",
-      "title": "Biden to nominate widow of late Sen. Ted Kennedy as ambassador to Austria",
-      "excerpt": "President Joe Biden is nominating the widow of late Democratic Sen. Edward M. Kennedy to serve as the United States Ambassador to Austria.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FCtFiR69Pv0/biden-to-nominates-widow-of-late-sen-ted-kennedy-as-ambassador-to-austria",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FCtFiR69Pv0/biden-to-nominates-widow-of-late-sen-ted-kennedy-as-ambassador-to-austria",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7862f13-9e5a-4ea8-8989-4f240981571b/c3d1dd96-73fe-4544-abee-62b37357c069/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-to-nominates-widow-of-late-sen-ted-kennedy-as-ambassador-to-austria.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-nominates-widow-of-late-sen-ted-kennedy-as-ambassador-to-austria.amp",
-      "publishedDateTime": "2021-07-21T17:14:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

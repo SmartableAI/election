@@ -9,7 +9,7 @@ ampWebUrl: "https://greensboro.com/opinion/columnists/ramesh-ponnuru-why-all-the
 cdnAmpWebUrl: "https://greensboro-com.cdn.ampproject.org/c/s/greensboro.com/opinion/columnists/ramesh-ponnuru-why-all-the-bad-press-for-joe-biden/article_20501b14-05c7-11ec-b064-ff9806d41487.amp.html"
 type: article
 quality: 75
-heat: 95
+heat: 75
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1000
     height: 1000
     isCached: true
-
-related:
-  - title: "Still ridin' with Biden?"
-    excerpt: "That Donald Trump was unfit for the presidency was obvious well before he assumed it, more obvious as he occupied it, and most obvious by his behavior after losing it."
-    publishedDateTime: 2021-08-30T11:11:00Z
-    webUrl: "https://www.arkansasonline.com/news/2021/aug/30/still-ridin-with-biden/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 55
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "XLqIGhsUuAN11y7GByp8YkhJMOwo+nAnAydcclA8wsuZKfYDXgDIsmPaFWbB0LRY8d4EWrAtIJfmv/JTQ2sAlYZ5X/juAJ/o4bTBulQX+BtRRbdleXKOUhiNVkB54Vq2to+HtEZy3txqhHWTJFnExmgnS78yX/IaEXoWVbWlHAe8QbzlpZ9N/yx2BDMnqy/yx5exQwPqSRzox5IgMhbx3EGD7kAtg+csRkbP1ayyTaGbSv9yP8jtZlny2Ys3dKvFBC05QxtZVuPQ1PVNOo6MlgXzBPfmGM1GlVnVyrSYQsAYZ+iCnVgRwFejOBSRxhTHwCG6k6hkaYw0GeXWGw1Mp6mWOA+A0vRsrI6+5LEkqJQ=;vfZXbBlu7v10+XVG0FVyww=="
 ---

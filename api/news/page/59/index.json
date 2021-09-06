@@ -2,6 +2,161 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2021-05-04-biden-says-his-hope-and-expectation-is-to-meet-putin-on-upcoming-europe-trip.md",
+      "title": "Biden says his 'hope and expectation' is to meet Putin on upcoming Europe trip",
+      "excerpt": "President Joe Biden said Tuesday it is his \"hope and expectation\" to meet with his Russian counterpart during a planned visit to Europe in June, a high-stakes diplomatic encounter he hopes can restore a degree of predictability to an increasingly fraught relationship.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZSr-NF7oZUI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZSr-NF7oZUI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201215031414-putin-biden-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/04/politics/putin-biden-summit/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/04/politics/putin-biden-summit/index.html",
+      "publishedDateTime": "2021-05-04T13:50:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-morning-mail-gps-grapple-with-vaccine-shortfalls-pfizers-34bn-revenue-giant-joe-biden.md",
+      "title": "Morning mail: GPs grapple with vaccine shortfalls, Pfizer’s $34bn revenue, giant Joe Biden",
+      "excerpt": "Australian doctors are still struggling to get Covid vaccines. Plus: the photography trick that made the US leader larger than life",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/australia-news/2021/may/05/morning-mail-gps-grapple-with-vaccine-shortfalls-pfizers-34bn-revenue-giant-joe-biden",
+      "originalUrl": "https://www.theguardian.com/australia-news/2021/may/05/morning-mail-gps-grapple-with-vaccine-shortfalls-pfizers-34bn-revenue-giant-joe-biden",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/532dcbbd3ba10618ecd7d39f466855e16f782623/0_111_4225_2535/master/4225.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e282f587de85e8d9b15597df917cf9e9",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T12:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-texas-house-candidate-susan-wright-spotlights-late-husbands-legacy-trumps-support-in-runoff.md",
+      "title": "Texas House candidate Susan Wright spotlights late husband's legacy, Trump's support, in runoff",
+      "excerpt": "Susan Wright says her late husband always took his constituents' concerns to Washington and “that’s the legacy I want to continue.” Rep. Ron Wright died from COVID-19 in February and his widow, a longtime GOP activist, came in first in a field of 23 candidates this past weekend in a special election",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VigjYkm43L4/texas-house-runoff-susan-wright-husband-legacy-trump-support",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VigjYkm43L4/texas-house-runoff-susan-wright-husband-legacy-trump-support",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 143,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T12:19:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-biden-expected-to-speak-on-shift-in-us-vaccine-distribution-strategy-live.md",
       "title": "Biden expected to speak on shift in US vaccine distribution strategy – live",
       "excerpt": "White House reportedly to deliver unused doses to other states as part of ‘use it or lose it’ strategy – follow all the day’s politics news",
@@ -1166,171 +1321,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-02-janet-yellen-says-critics-of-bidens-tax-hikes-are-asking-the-wrong-question.md",
-      "title": "Janet Yellen says critics of Biden's tax hikes are asking the wrong question  ",
-      "excerpt": "Doctors follow the Hippocratic oath: do no harm. The architects of President Joe Biden's tax increases took a somewhat different approach.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ULQQIWvOXv8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ULQQIWvOXv8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200113043352-janet-yellen-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/02/politics/janet-yellen-biden-tax-hikes/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/02/politics/janet-yellen-biden-tax-hikes/index.html",
-      "publishedDateTime": "2021-05-02T04:06:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-02-nkorea-warns-us-of-very-grave-situation-over-biden-speech.md",
-      "title": "NKorea warns US of 'very grave situation' over Biden speech",
-      "excerpt": "North Korea has warned the United States will face “a very grave situation” because President Joe Biden “made a big blunder” in his recent speech by calling the North a security threat and revealing h",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/wireStory/nkorea-warns-us-grave-situation-biden-speech-77443536",
-      "originalUrl": "https://abcnews.go.com/US/wireStory/nkorea-warns-us-grave-situation-biden-speech-77443536",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/WireAP_f7cf6236d848471fae09a5f9905f9b83_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/nkorea-warns-us-grave-situation-biden-speech-77443536",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/nkorea-warns-us-grave-situation-biden-speech-77443536",
-      "publishedDateTime": "2021-05-01T18:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-harris-to-lead-national-space-council-amid-criticism-over-lack-of-border-visit.md",
-      "title": "Harris to lead National Space Council amid criticism over lack of border visit",
-      "excerpt": "Vice President Kamala Harris announced Saturday that she will lead the National Space Council -- even as she continues to face criticism for not visiting the southern border as part of her role in addressing the migrant crisis.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/59VzsGklxQw/harris-to-lead-the-national-space-council-border-visit",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/59VzsGklxQw/harris-to-lead-the-national-space-council-border-visit",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 421,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fbf844e7-da00-4269-b859-827c56602764/5d922b54-0023-4170-ae81-95b2cc76f88b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-to-lead-the-national-space-council-border-visit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-to-lead-the-national-space-council-border-visit.amp",
-      "publishedDateTime": "2021-05-01T12:30:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

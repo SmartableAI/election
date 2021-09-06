@@ -2,6 +2,167 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-13-biden-sending-envoy-to-ethiopia-amid-tigray-conflict.md",
+      "title": "Biden sending envoy to Ethiopia amid Tigray conflict",
+      "excerpt": "President Biden is sending his special envoy for the Horn of Africa to Ethiopia amid ongoing fighting in Tigray.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/international/middle-east-north-africa/567714-biden-sending-envoy-to-ethiopia-amid-tigray",
+      "originalUrl": "https://thehill.com/policy/international/middle-east-north-africa/567714-biden-sending-envoy-to-ethiopia-amid-tigray",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/feltmanjeffrey_42321_gettyimages.jpg",
+          "width": 781,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/international/middle-east-north-africa/567714-biden-sending-envoy-to-ethiopia-amid-tigray?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/international/middle-east-north-africa/567714-biden-sending-envoy-to-ethiopia-amid-tigray?amp",
+      "publishedDateTime": "2021-08-13T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-hannity-bidens-america-last-agenda-putting-more-than-just-the-us-at-risk.md",
+      "title": "Hannity: Biden's 'America Last' agenda putting more than just the US at risk",
+      "excerpt": "In his Opening Monologue, “Hannity” host Sean Hannity challenged his audience to name a single positive accomplishment of President Joe Biden or his administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/hannity-bidens-america-last-agenda-putting-more-than-just-the-us-at-risk",
+      "originalUrl": "https://www.foxnews.com/media/hannity-bidens-america-last-agenda-putting-more-than-just-the-us-at-risk",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/185932aa-9c11-4fb6-9e1d-3e23afdaf5ab/44a86cbf-ce71-404f-9aff-dc720d727596/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/hannity-bidens-america-last-agenda-putting-more-than-just-the-us-at-risk.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-bidens-america-last-agenda-putting-more-than-just-the-us-at-risk.amp",
+      "publishedDateTime": "2021-08-12T21:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-biden-reacts-to-anti-mask-protest-video-our-healthcare-workers-are-heroes.md",
+      "title": "Biden Reacts to Anti-Mask Protest Video: 'Our Healthcare Workers Are Heroes'",
+      "excerpt": "Currently, Tennessee is the ninth least vaccinated state in the U.S., with 46 percent of the population having received one dose.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/biden-reacts-anti-mask-protest-video-our-healthcare-workers-are-heroes-1618974",
+      "originalUrl": "https://www.newsweek.com/biden-reacts-anti-mask-protest-video-our-healthcare-workers-are-heroes-1618974",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1869761/parents-protest-mask-mandates-florida-school.jpg",
+          "width": 2809,
+          "height": 1964,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/biden-reacts-anti-mask-protest-video-our-healthcare-workers-are-heroes-1618974?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-reacts-anti-mask-protest-video-our-healthcare-workers-are-heroes-1618974?amp=1",
+      "publishedDateTime": "2021-08-12T14:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-12-bidens-approval-rating-sinks-to-new-low-of-50-amid-economic-fears-polls-show.md",
       "title": "Biden’s approval rating sinks to new low of 50% amid economic fears, polls show",
       "excerpt": "Support for President Joe Biden is taking a hit with his average approval rating sinking to a record low of 50 percent, new polls show.",
@@ -1355,145 +1516,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-biden-to-allow-eviction-moratorium-to-expire-saturday.md",
-      "title": "Biden to allow eviction moratorium to expire Saturday",
-      "excerpt": "The Biden administration announced Thursday it will allow a nationwide ban on evictions to expire Saturday, arguing that its hands are tied after the Supreme Court signaled the moratorium would only be extended until the end of the month.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/news/article/Biden-to-allow-eviction-moratorium-to-expire-16348971.php",
-      "originalUrl": "https://www.chron.com/news/article/Biden-to-allow-eviction-moratorium-to-expire-16348971.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chron.com/news/amp/Biden-to-allow-eviction-moratorium-to-expire-16348971.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-to-allow-eviction-moratorium-to-expire-16348971.php",
-      "publishedDateTime": "2021-07-29T10:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-joe-bidens-motorcade-jeered-by-trump-supporters-during-pennsylvania-visit.md",
-      "title": "Joe Biden's Motorcade Jeered by Trump Supporters During Pennsylvania Visit",
-      "excerpt": "Supporters of former President Donald Trump yelled and jeered at President Joe Biden 's motorcade on Wednesday as it traveled through Pennsylvania's Lehigh Valley. A short video clip shared on social sites including Twitter and Gab shows a large group of people lining the route Biden's motorcade took and shouting at the cars as they pass.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters-pennsylvania-1614258",
-      "originalUrl": "https://www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters-pennsylvania-1614258",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 648,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1858183/president-joe-biden-speaks-macungie-pennsylvania.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters-pennsylvania-1614258?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters-pennsylvania-1614258?amp=1",
-      "publishedDateTime": "2021-07-29T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-unfairly-penalized-residents-senators-in-northern-border-states-question-bidens-border-closure.md",
-      "title": "'Unfairly penalized': Residents, senators in northern border states question Biden's border closure",
-      "excerpt": "With Canada's vaccination rates higher now than in US, some are wondering if continued closure is more about the southern border than northern one.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/07/28/biden-canadian-border-closing-southern-border/5401156001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/07/28/biden-canadian-border-closing-southern-border/5401156001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-28T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
