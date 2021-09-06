@@ -556,17 +556,17 @@ related:
         isCached: true
   - title: "Capitol Police officers sue Trump, allies over insurrection"
     excerpt: "U.S. Capitol Police officers who were attacked and beaten during the Capitol riot filed a lawsuit Thursday against former President Donald Trump, his allies and members of far-right extremist groups,"
-    publishedDateTime: 2021-08-27T06:50:00Z
-    webUrl: "https://www.timesleaderonline.com/news/national-news/2021/08/capitol-police-officers-sue-trump-allies-over-insurrection/"
+    publishedDateTime: 2021-08-27T11:04:00Z
+    webUrl: "https://tulsaworld.com/news/national/govt-and-politics/capitol-police-officers-sue-trump-allies-over-insurrection/article_f758d3f0-642c-5a72-a697-af5ec2d1b28d.html?mode=nowapp"
     type: article
     provider:
-      name: The Times Leader
-      domain: timesleaderonline.com
+      name: Tulsa World
+      domain: tulsaworld.com
     quality: 55
     images:
-      - url: "https://d14e0irai0gcaa.cloudfront.net/www.timesleaderonline.com/images/2016/08/19083536/fbLIKE.jpg"
-        width: 800
-        height: 640
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/4/75/47511398-a5a0-505a-bbd9-6b360f10a87a/6127bfe8e7bab.image.jpg?resize=1200%2C817"
+        width: 1200
+        height: 817
         isCached: true
   - title: "Capitol Police officers sue Trump"
     excerpt: "U.S. Capitol Police officers who were attacked and beaten during the Capitol riot filed a lawsuit Thursday against former President Donald Trump, his allies and members of far-right extremist groups,"

@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Delivers Remarks on the Jobs Report"
 excerpt: "U.S. President Joe Biden delivers remarks on the August jobs report on Friday, September 3, 2021, in the State Dining Room at the White House in Washington DC. Photo by Ken Cedeno/UPI"
 publishedDateTime: 2021-09-03T16:36:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/9848ad9ce359a149221caf46e352e9f0/President-Joe-Biden-Delivers-Remarks-on-the-Jobs-Report/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/9848ad9ce359a149221caf46e352e9f0/President-Joe-Biden-Delivers-Remarks-on-the-Jobs-Report/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/6249215a66613293fe51e8897de2378b/President-Joe-Biden-Delivers-Remarks-on-the-Jobs-Report/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/6249215a66613293fe51e8897de2378b/President-Joe-Biden-Delivers-Remarks-on-the-Jobs-Report/"
 type: article
 quality: 55
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/9848ad9ce359a149221caf46e352e9f0/BIDEN-JOBS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/6249215a66613293fe51e8897de2378b/BIDEN-JOBS.jpg"
     width: 650
-    height: 434
+    height: 433
     isCached: true
 
 related:
@@ -399,6 +399,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Cj472z9XFFr0bfx9fgi6VXIBg5fZf70ajqBnzTJdsLQIh6TPppIci2R6apKh86VGee4T/iMBgBZClxaWtC7DHvZ5pW8WnQRmlnt8J5AxpPvZ2ZKIzLV0KIQeuK5eS3CaVi+fmvV0Osi3Y/TQyKW27jHlJevfbgnVLLdnYGgo45M2f3lQ/47NC86T2NNYh9fdRMtvTJ9KaE7wP6/bXA+/tcU4aaAXA+z+OjwBVhMj10KTDhWf06I+P85+j2K/C0awJZsMPFn+7bUNjs4OjyjzQ0qn+Teu5V/f4nwd47ufQKTzqgUZoJqPHdxCPbN9y51I1AJcRLKjuU8k61pMFb7qfKIXmE39xk3047rCpIpruvD15+KkKxB/VKUqOurzgQ0cGSDiU7Pir/bAolXI+e1TCf8dyswgYjYAFF1YRxMzkS49POdTkAWcdL91PX1xYV+DpeN+stk8K4XaFN/2U4vsPXPc07lbEGgHmI0f0NvgILUuohO2GKWEpZU8RxymSCcfgdZ9NLS/5tfigsVdOn9O+A==;FoOLz4NLarMV2zJu4ks+vA=="
+secured: "QCpUr+Zk5BOwQrFolMYgLDAgCjBdZPVJTYUrjLwXMGgizKb9x4ityjhVJsLoM3Uk2SwPbIHdfC8r08Hc8ZKqwBJANrPIzF8jcB01upzxRBxFyKVRQ3eVgvKT7I8s8vs9ZMT7glqwFD9mViXq5CwcVGOqPHjhwgZ3h076z13DFyWHGgOzsrOj2QaepqMYgppYYRLbwyOv+jzD//z4VJn9lbd6bJHRMoXHmfSicmlD6v/8eUlMbQMNP6bO6g8J0IAlFNCF3t0CrmKOhazUMy8gxjg3tSkPYNEVMpJBY+vfEwrmwlhzBrOaoNBSx2Pt0OPlEa9XpiqOow/ZVvf/yxeuGs4bFLoPjx3oFaokelzUIfU=;01ImYsmSLJXXk2kge/qRIg=="
 ---
 

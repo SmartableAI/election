@@ -2,26 +2,26 @@
 category: news
 title: "Capitol Police officers sue Trump, allies over insurrection"
 excerpt: "U.S. Capitol Police officers who were attacked and beaten during the Capitol riot filed a lawsuit Thursday against former President Donald Trump, his allies and members of far-right extremist groups,"
-publishedDateTime: 2021-08-27T06:50:00Z
-originalUrl: "https://www.timesleaderonline.com/news/national-news/2021/08/capitol-police-officers-sue-trump-allies-over-insurrection/"
-webUrl: "https://www.timesleaderonline.com/news/national-news/2021/08/capitol-police-officers-sue-trump-allies-over-insurrection/"
+publishedDateTime: 2021-08-27T11:04:00Z
+originalUrl: "https://tulsaworld.com/news/national/govt-and-politics/capitol-police-officers-sue-trump-allies-over-insurrection/article_f758d3f0-642c-5a72-a697-af5ec2d1b28d.html?mode=nowapp"
+webUrl: "https://tulsaworld.com/news/national/govt-and-politics/capitol-police-officers-sue-trump-allies-over-insurrection/article_f758d3f0-642c-5a72-a697-af5ec2d1b28d.html?mode=nowapp"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: The Times Leader
-  domain: timesleaderonline.com
+  name: Tulsa World
+  domain: tulsaworld.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://d14e0irai0gcaa.cloudfront.net/www.timesleaderonline.com/images/2016/08/19083536/fbLIKE.jpg"
-    width: 800
-    height: 640
+  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/4/75/47511398-a5a0-505a-bbd9-6b360f10a87a/6127bfe8e7bab.image.jpg?resize=1200%2C817"
+    width: 1200
+    height: 817
     isCached: true
 
 related:
@@ -678,6 +678,6 @@ related:
       domain: sfchronicle.com
     quality: 30
 
-secured: "R9ZVjwzMJ7zMhghMLttZWvIv1Z4/f3seBjnCCgHGd63tAWX42jqmMr+j/33cMcKqVo3LrQSH8UgAEV1yeLPt2YTthx368ZhT+daNNDdIgQX4IvB0prrqhta+eOXphJ7Wm8O1ry/Kjh5R2w2AXOVOfgr3U0BTgs1NPA3h0mjNaE6ycLNTascf0Ls0wg+SN2i8zcFkq3Uvzgz69LnWsap2Y8/GLrp4AaKFaTpHPpZpSNX3BS3WmY3Cj5NtpjFlFfscWZe3/tn5MiqPP3F80e2BKuREdEtUBeyYcV9Nl2MFFuIfkL2UQS6BgOuDojWG8f0J73s5LV4UGO5ouRAi2xGuO6BIm038XyUn24UkHFQ5UlU=;NxpKIglMaBqiQO2UtfSSkA=="
+secured: "huvOJle8E+bYfoVsO+LoC0wMpS1mCcMDo3NtZTu1WwzZDGfJOc2YPC1Ez6bSOoFPdI/675vqwFpd+qMMh81pqfn6eICwNgwfHgRulm1S8ka/jvoyQyTvphMOJ+cVPje3IlUGpzFYzHJY1vgPikP7sCsho/mADKm7CLAawJRpNtgxPYZr+wAspMqntD8Fik1Ve+p8NuC5Yi2Fhg3s05/s8rAGJNudSeXMFkwAvbVFCzwSIkm7L4+NeTqaE4RX0FVMjNAWfWkFALeL6hVy5B7MUbjfIkwLLwF9L40hb1bnQitk8P+vyoR6opDaUW7AJTUJp3AQlAeVryqN2TowhzFpyUXHFEUbHqmf3MsWlF3gka4=;vgGjHll3QJIFZWG0zYRvLw=="
 ---
 

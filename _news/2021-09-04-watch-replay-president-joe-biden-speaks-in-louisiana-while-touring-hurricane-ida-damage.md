@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Biden pledges Ida support for 'as long as it takes'"
-excerpt: "President Joe Biden spoke Monday with officials in states pounded by Hurricane Ida and pledged federal suppport \"for as long as it takes\" to help them recover. (Aug. 30)"
-publishedDateTime: 2021-08-30T21:49:00Z
-originalUrl: "https://www.jsonline.com/videos/news/nation/2021/08/30/biden-pledges-ida-support-long-takes/5656595001/"
-webUrl: "https://www.jsonline.com/videos/news/nation/2021/08/30/biden-pledges-ida-support-long-takes/5656595001/"
+title: "Watch replay: President Joe Biden speaks in Louisiana while touring Hurricane Ida damage"
+excerpt: "President Joe Biden spoke in LaPlace, Louisiana while touring Hurricane Ida damage on Friday. More: Stay updated on Hurricane Ida updates in Louisiana: Send us a text message The White House said Biden will survey storm damage and meet with state and ..."
+publishedDateTime: 2021-09-03T23:20:00Z
+originalUrl: "https://www.freep.com/story/weather/hurricanes/2021/09/03/watch-live-president-biden-tours-louisiana-hurricane-ida-damage/5712683001/"
+webUrl: "https://www.freep.com/story/weather/hurricanes/2021/09/03/watch-live-president-biden-tours-louisiana-hurricane-ida-damage/5712683001/"
+ampWebUrl: "https://amp.freep.com/amp/5712683001"
+cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5712683001"
 type: article
-quality: 55
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: Milwaukee Journal Sentinel
-  domain: jsonline.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/6f57dd2e-348a-40ad-916e-d43af51ffef6_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
+  - url: "https://www.gannett-cdn.com/presto/2021/09/03/PLAL/9bf75d65-6cb5-442f-828a-b32e6d282b89-AP21246652823025.jpg?auto=webp&crop=2434,1370,x0,y0&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -89,22 +91,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Watch replay: President Joe Biden speaks in Louisiana while touring Hurricane Ida damage"
-    excerpt: "President Joe Biden spoke in LaPlace, Louisiana while touring Hurricane Ida damage on Friday. More: Stay updated on Hurricane Ida updates in Louisiana: Send us a text message The White House said Biden will survey storm damage and meet with state and ..."
-    publishedDateTime: 2021-09-03T23:20:00Z
-    webUrl: "https://www.freep.com/story/weather/hurricanes/2021/09/03/watch-live-president-biden-tours-louisiana-hurricane-ida-damage/5712683001/"
-    ampWebUrl: "https://amp.freep.com/amp/5712683001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5712683001"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 66
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/09/03/PLAL/9bf75d65-6cb5-442f-828a-b32e6d282b89-AP21246652823025.jpg?auto=webp&crop=2434,1370,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Biden to Attend Briefing on Hurricane Ida on Saturday -White House"
     excerpt: "U.S. President Joe Biden will attend a briefing later on Saturday by administration officials on preparations for Hurricane Ida, which is expected to make landfall in the United States this weekend. The briefing is scheduled for 1:30 p."
     publishedDateTime: 2021-08-28T16:33:00Z
@@ -116,6 +102,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Biden pledges Ida support for 'as long as it takes'"
+    excerpt: "President Joe Biden spoke Monday with officials in states pounded by Hurricane Ida and pledged federal suppport \"for as long as it takes\" to help them recover. (Aug. 30)"
+    publishedDateTime: 2021-08-30T21:49:00Z
+    webUrl: "https://www.jsonline.com/videos/news/nation/2021/08/30/biden-pledges-ida-support-long-takes/5656595001/"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/6f57dd2e-348a-40ad-916e-d43af51ffef6_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Joe Biden holds virtual meeting on Hurricane Ida in Washington"
     excerpt: "U.S. President Joe Biden meets virtually with FEMA Administrator Deanne Criswell and governors and mayors from States and cities impacted by Hurricane Ida from South Court Auditorium at the White House in Washington, DC on Monday, August 30, 2021."
     publishedDateTime: 2021-08-30T18:20:00Z
@@ -196,6 +196,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "RvrVINTPSupXHd+E8My/pUgX+cyBe2M98uPTzfGe/71WciBfd4nrP5wJIhy0ju+FL82xCyQ+KEaHoYFAdGd+lkte4nBhkvbblZ1HYBwJvGYCBc+x9f77nj54PbJl5tzFPNxWAWEYLadZw0yk22tOWDI1pS/F1UIvjGKVFPvsyvZuQz7g/4jQYsxhndZLgWDddga8WvJ9udeIqdW39MdXvTu11hP2o1bM7X03dWQO65+hFaWKowWkhW0bzGXOpNpFb+DBOICWEX7QaBf0B2iRkSwu1OXfrqg2dLirliwxXt7S1NuG1GK/K7VPup1lxe4g4CBEEg31PlJpj/o25xr2wPsshuhU/FHc4Ac0K+tdbz4=;nUH6WdgcJ6U8GCmWHoeO2Q=="
+secured: "6krG3mvN5Ss2caXYvwMW2e0734XYh4IkoDupiA6SVbv1ZIq995U7uhVbqQQUxYZeJ1AUZLQh74eFhsujykiC6nzKKf1+xLU00qQvvlwmv567JwA1Konv2GidL4mI9Z0nAp9M6BvsJFPlQjGo66aAtsXC9sjhrJVKx0g0OmxjeKj3fEHA2iSJ/uAy449Pk1gGEBteq5iG/X7AX3KNREGWVTmYRF86OjyFgPvBHqXxWZPRnecAoJuxWX+CAUO/0zEzIa8JwVPZi64IPVHB+mCnzU0vcw7eFSHIatuSdkEu0cbWbto4a4jejWsYqf51w02u59PlpOsaIN9nNyggDJLx8BJgGK688ATyNSQxP99gvUs=;EPtlUMXUoI17t4s4w6FTjw=="
 ---
 

@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Biden pledges Ida support for 'as long as it takes'"
-excerpt: "President Joe Biden spoke Monday with officials in states pounded by Hurricane Ida and pledged federal suppport \"for as long as it takes\" to help them recover. (Aug. 30)"
-publishedDateTime: 2021-08-30T21:49:00Z
-originalUrl: "https://www.jsonline.com/videos/news/nation/2021/08/30/biden-pledges-ida-support-long-takes/5656595001/"
-webUrl: "https://www.jsonline.com/videos/news/nation/2021/08/30/biden-pledges-ida-support-long-takes/5656595001/"
+title: "Joe Biden to visit NY, NJ to survey damage from Hurricane Ida remnants"
+excerpt: "President Joe Biden will travel to New York and New Jersey next week to review some of the widespread damage caused by the remnants from Hurricane Ida as the region continued to recover from the flash flooding,"
+publishedDateTime: 2021-09-04T19:12:00Z
+originalUrl: "https://www.upi.com/Top_News/US/2021/09/04/Biden-visit-New-York-Jersey-storm-damage/1261630780183/"
+webUrl: "https://www.upi.com/Top_News/US/2021/09/04/Biden-visit-New-York-Jersey-storm-damage/1261630780183/"
+ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/09/04/Biden-visit-New-York-Jersey-storm-damage/1261630780183/"
+cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/09/04/Biden-visit-New-York-Jersey-storm-damage/1261630780183/"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Milwaukee Journal Sentinel
-  domain: jsonline.com
+  name: UPI.com
+  domain: upi.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/6f57dd2e-348a-40ad-916e-d43af51ffef6_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
+  - url: "https://cdnph.upi.com/sv/ph/og/upi/1261630780183/2021/1/b08730d422d56318d5dc5f451819b8bf/v1.5/Joe-Biden-to-visit-NY-NJ-to-survey-damage-from-Hurricane-Ida-remnants.jpg"
+    width: 800
+    height: 534
     isCached: true
 
 related:
@@ -56,22 +58,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1886963/hurricane-ida-grand-isle.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Joe Biden to visit NY, NJ to survey damage from Hurricane Ida remnants"
-    excerpt: "President Joe Biden will travel to New York and New Jersey next week to review some of the widespread damage caused by the remnants from Hurricane Ida as the region continued to recover from the flash flooding,"
-    publishedDateTime: 2021-09-04T19:12:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/09/04/Biden-visit-New-York-Jersey-storm-damage/1261630780183/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/09/04/Biden-visit-New-York-Jersey-storm-damage/1261630780183/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/09/04/Biden-visit-New-York-Jersey-storm-damage/1261630780183/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 75
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/1261630780183/2021/1/b08730d422d56318d5dc5f451819b8bf/v1.5/Joe-Biden-to-visit-NY-NJ-to-survey-damage-from-Hurricane-Ida-remnants.jpg"
-        width: 800
-        height: 534
         isCached: true
   - title: "President Joe Biden plans to visit New Orleans in wake of Hurricane Ida destruction"
     excerpt: "President Joe Biden plans to visit New Orleans on Friday to survey damage from Hurricane Ida, which lashed southeastern Louisiana on Sunday as one of the five strongest storms to ever strike the U.S. packing 150 mph winds. The White House said Biden will ..."
@@ -116,6 +102,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Biden pledges Ida support for 'as long as it takes'"
+    excerpt: "President Joe Biden spoke Monday with officials in states pounded by Hurricane Ida and pledged federal suppport \"for as long as it takes\" to help them recover. (Aug. 30)"
+    publishedDateTime: 2021-08-30T21:49:00Z
+    webUrl: "https://www.jsonline.com/videos/news/nation/2021/08/30/biden-pledges-ida-support-long-takes/5656595001/"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/6f57dd2e-348a-40ad-916e-d43af51ffef6_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Joe Biden holds virtual meeting on Hurricane Ida in Washington"
     excerpt: "U.S. President Joe Biden meets virtually with FEMA Administrator Deanne Criswell and governors and mayors from States and cities impacted by Hurricane Ida from South Court Auditorium at the White House in Washington, DC on Monday, August 30, 2021."
     publishedDateTime: 2021-08-30T18:20:00Z
@@ -196,6 +196,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "RvrVINTPSupXHd+E8My/pUgX+cyBe2M98uPTzfGe/71WciBfd4nrP5wJIhy0ju+FL82xCyQ+KEaHoYFAdGd+lkte4nBhkvbblZ1HYBwJvGYCBc+x9f77nj54PbJl5tzFPNxWAWEYLadZw0yk22tOWDI1pS/F1UIvjGKVFPvsyvZuQz7g/4jQYsxhndZLgWDddga8WvJ9udeIqdW39MdXvTu11hP2o1bM7X03dWQO65+hFaWKowWkhW0bzGXOpNpFb+DBOICWEX7QaBf0B2iRkSwu1OXfrqg2dLirliwxXt7S1NuG1GK/K7VPup1lxe4g4CBEEg31PlJpj/o25xr2wPsshuhU/FHc4Ac0K+tdbz4=;nUH6WdgcJ6U8GCmWHoeO2Q=="
+secured: "6GhSwuc7pym/tHK8CZNKYLnJNML7283I/wYe9zzw5VXLlD6fuf3qtsX5StHhliMuXBvANMJgX/hRfcTHAvnYyvZ/lNf9OAm7IrxnYo0j2Wpq8ShZSUwqtEZRAZH8Czr6CHVoLL/hlQ1zHO8lMLVRs8o9D+sPxfBDltt0vGLERaF7CBqMGo7WoqoXKAuWdogN27mvKr/ZilvdcZbZWgm9Zwc4X0LwNaiLoCTnxCgtqv4o+RAEmYkCP499OIocNHecuxAUR1/KLstrewkj/buaCswtM3/f7a0wG8qmRb6cZaf6D6kUx2b490AZY6s1ZeiaUMn4DCFlFteN1MlaZg1eA+VDy8XbroccUrKvLhAq0pY=;AOLgs8zkzgIewEwrsRJYXw=="
 ---
 

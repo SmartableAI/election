@@ -1,33 +1,28 @@
 ---
 category: news
-title: "Republicans torch Biden over report that migrants released without court dates are disappearing into the US"
-excerpt: "The Biden administration released 50,000 undocumented migrants into the U.S., with only 13% of them appearing to the ICE officials they’re supposed to meet, according to a new report."
-publishedDateTime: 2021-07-27T22:47:39Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PwjKVSa1Y34/republicans-torch-biden-migrants-released-no-court-date"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PwjKVSa1Y34/republicans-torch-biden-migrants-released-no-court-date"
-ampWebUrl: "https://www.foxnews.com/politics/republicans-torch-biden-migrants-released-no-court-date.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-torch-biden-migrants-released-no-court-date.amp"
+title: "Joe Biden Is Lying To Americans About Afghanistan"
+excerpt: "Whether it is true or not,' this president and his enablers 'need to project a different picture': that the Afghanistan retreat was a great success. Read Full Article »"
+publishedDateTime: 2021-09-03T11:38:00Z
+originalUrl: "https://www.realclearpolitics.com/2021/09/03/joe_biden_is_lying_to_americans_about_afghanistan_550879.html"
+webUrl: "https://www.realclearpolitics.com/2021/09/03/joe_biden_is_lying_to_americans_about_afghanistan_550879.html"
 type: article
-quality: 157
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/116c2c14-b0c6-4e9c-ac6c-9f85a136399b/cef12722-ea7d-473a-ab61-ebc81c17b120/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://assets.realclear.com/images/55/552466_5_.jpg"
+    width: 750
+    height: 500
     isCached: true
 
 related:
@@ -156,6 +151,22 @@ related:
     quality: 162
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5ea40f38-5c87-45e1-9db4-d10e1571ec67/f9a1b54b-3116-4eb8-9e4b-4204e771e7b3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Republicans torch Biden over report that migrants released without court dates are disappearing into the US"
+    excerpt: "The Biden administration released 50,000 undocumented migrants into the U.S., with only 13% of them appearing to the ICE officials they’re supposed to meet, according to a new report."
+    publishedDateTime: 2021-07-27T22:47:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PwjKVSa1Y34/republicans-torch-biden-migrants-released-no-court-date"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-torch-biden-migrants-released-no-court-date.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-torch-biden-migrants-released-no-court-date.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/116c2c14-b0c6-4e9c-ac6c-9f85a136399b/cef12722-ea7d-473a-ab61-ebc81c17b120/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -301,21 +312,7 @@ related:
         width: 808
         height: 606
         isCached: true
-  - title: "Joe Biden Is Lying To Americans About Afghanistan"
-    excerpt: "Whether it is true or not,' this president and his enablers 'need to project a different picture': that the Afghanistan retreat was a great success. Read Full Article »"
-    publishedDateTime: 2021-09-03T11:38:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/09/03/joe_biden_is_lying_to_americans_about_afghanistan_550879.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/55/552466_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
-secured: "KmAQ24MOYxANQJFvhmBkTFVsPhMQbBHpmUN0Hm0LEcFd0GdlYUh11EsPwBqEt2dG6rL4A6YOC/rn2PIglKJ7dlSPFMcs71zFscv23FXlE+2TK9GM+D5jU4e2jcXy3xpkFePXN250K+QM2h1nbKI4RD/ATpunmt5QJHyd7gDYJ0K4GF12hFebC4bkPtNekF4yQcbQD8r2fr37korCkcw8vZc8tTSEVLyh95hInV9bQammfvinEcYp/8lVJJAPjsNrCNAMz2Qzt7IO4+J3Zlgbw3UyYABSq75fXxqsfUlM5z78KF/wEv92OQvh82Jq95DEsFq2DoM4UEZW6WnWoqE7cc7LdNW50JOr4EbGGJXm+8U=;3MuqzOtI+ZAbf/eSHBGUyw=="
+secured: "bdIrZbloG3lbvBxkNeryVLt70wjQFoYkPU9V57Q2TQzHSXB9iyLUtmtRlpMKaX23md7qVkbwswIgBVzcmHM5Ds8BBLxaYSRJauax5A9sXFkud2A0nmkXkbsYJvswCQzpRgf7ZxuhqAjiOy+BddIJLjQIhzfinrmW06qKafqOmBlO+q5n12UvwExfrTAsaxrSaWAlvGyV+aRdw35inqhkL7EMUVX+51VejTXDnWmAABuCzAUQJe6JnlX9E2VJ7LiafpkaAY8vVfYTIO5MRH7R4zyHgzlo693iwbr0TxxlVw4tAYRPf/8z1MyNUI5gonfoLxdNelSygOGvgxvEUBTrBVwvG2ksRMUockfCJQYmJkI=;32lVGtcI3iY1XrBzlm61uw=="
 ---
 

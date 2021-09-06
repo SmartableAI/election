@@ -59,6 +59,38 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Joe Biden to visit NY, NJ to survey damage from Hurricane Ida remnants"
+    excerpt: "President Joe Biden will travel to New York and New Jersey next week to review some of the widespread damage caused by the remnants from Hurricane Ida as the region continued to recover from the flash flooding,"
+    publishedDateTime: 2021-09-04T19:12:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/09/04/Biden-visit-New-York-Jersey-storm-damage/1261630780183/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/09/04/Biden-visit-New-York-Jersey-storm-damage/1261630780183/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/09/04/Biden-visit-New-York-Jersey-storm-damage/1261630780183/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/1261630780183/2021/1/b08730d422d56318d5dc5f451819b8bf/v1.5/Joe-Biden-to-visit-NY-NJ-to-survey-damage-from-Hurricane-Ida-remnants.jpg"
+        width: 800
+        height: 534
+        isCached: true
+  - title: "Watch replay: President Joe Biden speaks in Louisiana while touring Hurricane Ida damage"
+    excerpt: "President Joe Biden spoke in LaPlace, Louisiana while touring Hurricane Ida damage on Friday. More: Stay updated on Hurricane Ida updates in Louisiana: Send us a text message The White House said Biden will survey storm damage and meet with state and ..."
+    publishedDateTime: 2021-09-03T23:20:00Z
+    webUrl: "https://www.freep.com/story/weather/hurricanes/2021/09/03/watch-live-president-biden-tours-louisiana-hurricane-ida-damage/5712683001/"
+    ampWebUrl: "https://amp.freep.com/amp/5712683001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5712683001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/09/03/PLAL/9bf75d65-6cb5-442f-828a-b32e6d282b89-AP21246652823025.jpg?auto=webp&crop=2434,1370,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden to Attend Briefing on Hurricane Ida on Saturday -White House"
     excerpt: "U.S. President Joe Biden will attend a briefing later on Saturday by administration officials on preparations for Hurricane Ida, which is expected to make landfall in the United States this weekend. The briefing is scheduled for 1:30 p."
     publishedDateTime: 2021-08-28T16:33:00Z

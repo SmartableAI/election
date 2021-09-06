@@ -301,6 +301,20 @@ related:
         width: 808
         height: 606
         isCached: true
+  - title: "Joe Biden Is Lying To Americans About Afghanistan"
+    excerpt: "Whether it is true or not,' this president and his enablers 'need to project a different picture': that the Afghanistan retreat was a great success. Read Full Article »"
+    publishedDateTime: 2021-09-03T11:38:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/09/03/joe_biden_is_lying_to_americans_about_afghanistan_550879.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/55/552466_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "Ux7UrGWOxEGJOLXDVuee0RPwH3tarTY5VM7FrC5BEv1rKzhh1/H9AXlbsGqodfyjBdtpZ7cr4OslYdzni5Zu8s0vSm+sx01zKrgx/Qwmj+k+jmoxkiSwCnLXbAqWi0Sj0pc3zDetcWoP7hb/NT+SppbXmOQwoEoqX09L9VlWw5meO/TjpPn94lwtpXrX0q+wSHT2fq9TLHD9ZF3950Nh9QutKlUnl0mgjSVpbqD2J5ueFhqtT4ZIZy0kXNgMW344rAN9TPlA/FcBUVcNhdrSVluVf2ABm0G0WOa9D82lKXjVd/bNBAaqT4NWrxn91+cVqqG8wLkKbj2iWRY7tT6XCpTc4T3gp9jrAz0VTH/lu1g=;s9pgvgVoSZl+arJ8fOXXIw=="
 ---

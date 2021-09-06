@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-expect-more-coronavirus-restr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-expect-more-coronavirus-restrictions.amp"
 type: article
 quality: 175
-heat: 515
+heat: 535
 published: true
 
 provider:
@@ -300,6 +300,20 @@ related:
       - url: "https://assets.realclear.com/images/52/525625.jpg"
         width: 808
         height: 606
+        isCached: true
+  - title: "Joe Biden Is Lying To Americans About Afghanistan"
+    excerpt: "Whether it is true or not,' this president and his enablers 'need to project a different picture': that the Afghanistan retreat was a great success. Read Full Article »"
+    publishedDateTime: 2021-09-03T11:38:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/09/03/joe_biden_is_lying_to_americans_about_afghanistan_550879.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/55/552466_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "LC5sEMavX7QV+t3pSw6U1/ktKqbpGhLU2Hq/spqRUdZEO+qPLwEQ00VS7xub1c8EF6ES+2ZDsD+atqVUasE1sOC/d8HdVfEWFtP8TqCgxndCmMqjJoMyAnXeI2Ldyifx5dJG/yqeCypYLKONzyWqc1rQ3hrycMIdnSPUxSrwgeUnpU6leEiXBnupzuKGuT3SuN3NBj0X/hqzsvhTGYZ8VSCKAlfM1mQ0lKKzaZu1apyw15ESNRSwNsLSbhh1oPasSgJ5+NOQT8mRlajyvx3S0cEHp9jPTOHhNGUDb9iUO5WJj+MFvj8M+Gkn+6ZOHhnq82R/TrayTfvPV+JINX2UpvZzD8oC2GQk6sUGxbL3NXE=;VgiUKWkqPIrS0RbqGL3okQ=="
