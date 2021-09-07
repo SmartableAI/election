@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Biden marks Labor Day delivering sandwiches to union members"
-excerpt: "President Joe Biden has marked Labor Day by delivering deli sandwiches to union members in his home state of Delaware."
-publishedDateTime: 2021-09-06T21:41:00Z
-originalUrl: "https://www.spokesman.com/stories/2021/sep/06/biden-marks-labor-day-delivering-sandwiches-to-uni/"
-webUrl: "https://www.spokesman.com/stories/2021/sep/06/biden-marks-labor-day-delivering-sandwiches-to-uni/"
-ampWebUrl: "https://www.spokesman.com/stories/2021/sep/06/biden-marks-labor-day-delivering-sandwiches-to-uni/?amp-content=amp"
-cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/sep/06/biden-marks-labor-day-delivering-sandwiches-to-uni/?amp-content=amp"
+excerpt: "President Joe Biden marked the Labor Day holiday on Monday by delivering deli sandwiches to union members, the people he says built the middle class. A casually dressed Biden stepped from his dark SUV holding boxes of sandwiches from Capriotti's,"
+publishedDateTime: 2021-09-06T23:09:00Z
+originalUrl: "https://www.stamfordadvocate.com/news/article/Biden-marks-Labor-Day-delivering-sandwiches-to-16438764.php"
+webUrl: "https://www.stamfordadvocate.com/news/article/Biden-marks-Labor-Day-delivering-sandwiches-to-16438764.php"
+ampWebUrl: "https://www.stamfordadvocate.com/news/amp/Biden-marks-Labor-Day-delivering-sandwiches-to-16438764.php"
+cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Biden-marks-Labor-Day-delivering-sandwiches-to-16438764.php"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: The Spokesman-Review
-  domain: spokesman.com
+  name: StamfordAdvocate
+  domain: stamfordadvocate.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://thumb.spokesman.com/NQC9H-cFYVp4cY_1o2LtpAJMBKo=/480x0/media.spokesman.com/photos/2021/09/06/613686e6ed093.hires.jpg"
-    width: 480
-    height: 320
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -479,6 +479,6 @@ related:
         height: 1453
         isCached: true
 
-secured: "60oGAQXDp8C5jeBLfqOH5pIL8Wkdy8KX/wDi20H/nhl9wFekqnHGex0MVSXcL4vE1WlTArrh3v0W92MFx4iwLDXgD9/QyWPQ4Q4nVr/sl8QFFGJS9oWpT6kwhxFwXEN7GKp41hGoJ43P3UfzHLOtvYvirSI1Luqbr/F6w5DQPaRliuzGkHb/SLzw7td49GM7AB+U9U/t5EfzdC7NSqq55FGnzyyIsIdqWmgvQslmyrYLelqG/Y/smBCVKizcdwUxrPXLQ6tfca1EzIZVwMd1Q2TvJZcy+Ka+lnLF4Tg4Q1+YkTssJVGdUkcIS7VKj0jVrVW+ta64gt3H26vKMnuTijSu5TqWMZAdmWSvBgzwu6k=;xBbta1AHts3ryUc45k4YsQ=="
+secured: "mPmwtOf1qGVbF2vwrPlM9z2QQcgWfpwSsmK3qT6ipMiZzuVQW64jyltvQyiI5zM6V1Zk/KeI8+j1RIEPKMwbCxvn3UiPO88y7sXzWH1fHpHWY97GbAWMxvkwbmNqv1/tEcdl+Z0N/wzoKsfn9+cRJK7jjZLHiUidhcUoIF6udWIeCwInNnqltwouUh1A0wCiBoBodsuWDWgwg8IQJMkc0DHI3HxW2o+LYq+lSBIfmYzQZy3035FomMkeIfKhuX9Vx3G4nx6dfzrU7OTe5A33UxeygXhFlU51njlvr7ZatI7pTPiIziTXOpZmWOf5KlwI6M7A5J3XvE2LDtlo8RFVhbratSj7tPJXxUX6KnRczUE=;dYF0Ky4VZH4KtInDWQhiQQ=="
 ---
 

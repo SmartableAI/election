@@ -236,20 +236,20 @@ related:
         height: 270
         isCached: true
   - title: "Biden marks Labor Day delivering sandwiches to union members"
-    excerpt: "President Joe Biden has marked Labor Day by delivering deli sandwiches to union members in his home state of Delaware."
-    publishedDateTime: 2021-09-06T21:41:00Z
-    webUrl: "https://www.spokesman.com/stories/2021/sep/06/biden-marks-labor-day-delivering-sandwiches-to-uni/"
-    ampWebUrl: "https://www.spokesman.com/stories/2021/sep/06/biden-marks-labor-day-delivering-sandwiches-to-uni/?amp-content=amp"
-    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/sep/06/biden-marks-labor-day-delivering-sandwiches-to-uni/?amp-content=amp"
+    excerpt: "President Joe Biden marked the Labor Day holiday on Monday by delivering deli sandwiches to union members, the people he says built the middle class. A casually dressed Biden stepped from his dark SUV holding boxes of sandwiches from Capriotti's,"
+    publishedDateTime: 2021-09-06T23:09:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/Biden-marks-Labor-Day-delivering-sandwiches-to-16438764.php"
+    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/Biden-marks-Labor-Day-delivering-sandwiches-to-16438764.php"
+    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Biden-marks-Labor-Day-delivering-sandwiches-to-16438764.php"
     type: article
     provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
     quality: 75
     images:
-      - url: "https://thumb.spokesman.com/NQC9H-cFYVp4cY_1o2LtpAJMBKo=/480x0/media.spokesman.com/photos/2021/09/06/613686e6ed093.hires.jpg"
-        width: 480
-        height: 320
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "President Joe Biden to mark 20th anniversary of 9/11 at 3 memorial sites"
     excerpt: "President Joe Biden will visit ground zero in New York City, the Pentagon and the memorial outside Shanksville, Pennsylvania, where United Flight 93 was forced down, the White House said Saturday."
