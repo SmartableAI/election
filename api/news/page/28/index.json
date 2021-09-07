@@ -2,6 +2,62 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-07-07-lindsey-graham-amazed-at-how-badly-bidens-first-six-months-have-been.md",
+      "title": "Lindsey Graham 'amazed at how badly' Biden's first six months have been",
+      "excerpt": "South Carolina Sen. Lindsey Graham told reporters Tuesday he was “amazed at how badly” the first six months of the Biden administration has been for the U.S.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qRu39j-uavk/lindsey-graham-amazed-at-how-badly-bidens-first-six-months-have-been",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qRu39j-uavk/lindsey-graham-amazed-at-how-badly-bidens-first-six-months-have-been",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d0d8d343-77f3-4ad6-bd1a-c04ecad07862/2046e61b-479e-43b3-bf29-896fac829fb1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/lindsey-graham-amazed-at-how-badly-bidens-first-six-months-have-been.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-amazed-at-how-badly-bidens-first-six-months-have-been.amp",
+      "publishedDateTime": "2021-07-06T18:15:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-biden-says-democracy-did-prevail-on-six-month-anniversary-of-capitol-riots.md",
       "title": "Biden Says 'Democracy Did Prevail' On Six-Month Anniversary of Capitol Riots",
       "excerpt": "Democratic President Joe Biden issued a statement on the six-month anniversary of the January 6 Capitol riots. In the statement he said that \"democracy did prevail.\" \"While it shocked and saddened the nation and the world,",
@@ -1244,58 +1300,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-clyburn-trump-could-be-called-to-testify-before-jan-6-panel.md",
-      "title": "Clyburn: Trump could be called to testify before Jan. 6 panel",
-      "excerpt": "House Majority Whip James Clyburn (D-S.C.) said Sunday that former President Trump could be called to testify before the new House select committee investigating the Jan.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/house/561534-clyburn-trump-could-be-called-to-testify-before-capitol-riot-panel",
-      "originalUrl": "https://thehill.com/homenews/house/561534-clyburn-trump-could-be-called-to-testify-before-capitol-riot-panel",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/clyburnjames_061721gn_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/house/561534-clyburn-trump-could-be-called-to-testify-before-capitol-riot-panel?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/561534-clyburn-trump-could-be-called-to-testify-before-capitol-riot-panel?amp",
-      "publishedDateTime": "2021-07-04T12:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

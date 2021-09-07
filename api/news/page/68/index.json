@@ -2,6 +2,58 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2021-04-14-youtube-bans-channel-of-former-trump-aide-sebastian-gorka-over-election-claims.md",
+      "title": "YouTube bans channel of former Trump aide Sebastian Gorka over election claims",
+      "excerpt": "YouTube has banned the channel of Sebastian Gorka, a former aide to President Donald Trump, saying it violated the video platform's presidential election integrity policy. In a statement obtained by USA TODAY, YouTube spokesperson Ivy Choi said Gorka's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/tech/2021/04/14/sebastian-gorka-youtube-bans-former-trump-aide-over-election-claims/7220169002/",
+      "originalUrl": "https://www.usatoday.com/story/tech/2021/04/14/sebastian-gorka-youtube-bans-former-trump-aide-over-election-claims/7220169002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/c6bc48b495fab2380a07dd86d526eb4ed339ce87/c=0-0-3000-1695/local/-/media/2018/03/28/USATODAY/USATODAY/636578654959683524-GORKA001.JPG?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7220169002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7220169002",
+      "publishedDateTime": "2021-04-14T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-biden-parts-of-us-backsliding-into-jim-crow-days.md",
       "title": "Biden: Parts of US 'backsliding' into Jim Crow days",
       "excerpt": "President Biden said parts of the United States are \"backsliding\" into \"the days of Jim Crow,\" during remarks Wednesday at the National Action Network's national convention – one of the largest civil rights conferences in the country.",
@@ -1281,62 +1333,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/texas-missouri-sue-biden-administration-remain-in-mexico-policy.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-missouri-sue-biden-administration-remain-in-mexico-policy.amp",
       "publishedDateTime": "2021-04-13T10:08:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-biden-proposes-summit-with-putin-in-coming-months.md",
-      "title": "Biden proposes summit with Putin in coming months ",
-      "excerpt": "President Biden on Tuesday proposed a summit with Russian President Vladimir Putin in the coming months, but suggested it take place in a third country – outside of the United States and Russia.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BoJitY6T5ik/biden-proposes-putin-summit-russia",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BoJitY6T5ik/biden-proposes-putin-summit-russia",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 595,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-proposes-putin-summit-russia.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-proposes-putin-summit-russia.amp",
-      "publishedDateTime": "2021-04-13T09:15:19-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

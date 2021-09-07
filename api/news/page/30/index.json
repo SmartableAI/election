@@ -2,6 +2,58 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-07-03-nightmare-scenario-review-trump-covid-and-a-lasting-national-trauma.md",
+      "title": "Nightmare Scenario review: Trump, Covid and a lasting national trauma",
+      "excerpt": "Yasmeen Abutaleb and Damian Paletta of the Washington Post show how bad things got – and how they could have been worse",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/books/2021/jul/03/nightmare-scenario-review-trump-covid-yasmeen-abutaleb-damian-paletta-washington-post-book",
+      "originalUrl": "https://www.theguardian.com/books/2021/jul/03/nightmare-scenario-review-trump-covid-yasmeen-abutaleb-damian-paletta-washington-post-book",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/b1d77632cd9dc874af22dc7154303ea88e5dd768/0_204_3715_2229/master/3715.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=70f259d6c4d213cee0b638144f96acff",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/books/2021/jul/03/nightmare-scenario-review-trump-covid-yasmeen-abutaleb-damian-paletta-washington-post-book",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2021/jul/03/nightmare-scenario-review-trump-covid-yasmeen-abutaleb-damian-paletta-washington-post-book",
+      "publishedDateTime": "2021-07-02T22:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-03-arizona-republic-trump-allies-pressured-maricopa-county-election-supervisors.md",
       "title": "Arizona Republic: Trump allies pressured Maricopa County election supervisors",
       "excerpt": "In the weeks following the 2020 election, former President Donald Trump's White House attempted to call the chair of the Maricopa County Board of Supervisors — a key county in the state Trump lost by a small margin to then-candidate Joe Biden — according to a new report from the Arizona Republic published",
@@ -1293,58 +1345,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-iowa-federal-judge-apologizes-for-comments-about-trump-pardons.md",
-      "title": "Iowa federal judge apologizes for comments about Trump pardons",
-      "excerpt": "An Iowa federal judge is apologizing for comments criticizing then-President Trump for multiple pardons that he issued in his last days in office.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/state-watch/561215-iowa-federal-judge-apologizes-for-comments-about-trump-pardons",
-      "originalUrl": "https://thehill.com/homenews/state-watch/561215-iowa-federal-judge-apologizes-for-comments-about-trump-pardons",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 525,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_063021getty_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/state-watch/561215-iowa-federal-judge-apologizes-for-comments-about-trump-pardons?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/561215-iowa-federal-judge-apologizes-for-comments-about-trump-pardons?amp",
-      "publishedDateTime": "2021-07-01T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-08-22-tv-tonight-ruby-wax-revisits-her-time-with-donald-trump.md",
+      "title": "TV tonight: Ruby Wax revisits her time with Donald Trump",
+      "excerpt": "A nasty encounter with Donald Trump and much more in this entertaining new series. Plus: The Handmaid’s Tale ends. Here’s what to watch this evening",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/tv-and-radio/2021/aug/22/tv-tonight-ruby-wax-revisits-her-time-with-donald-trump",
+      "originalUrl": "https://www.theguardian.com/tv-and-radio/2021/aug/22/tv-tonight-ruby-wax-revisits-her-time-with-donald-trump",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 325,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/c78a9408605f7845ddde71a741616a328447b218/0_86_576_346/master/576.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2cb092b89b4594a163269520a996506c",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/tv-and-radio/2021/aug/22/tv-tonight-ruby-wax-revisits-her-time-with-donald-trump",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/tv-and-radio/2021/aug/22/tv-tonight-ruby-wax-revisits-her-time-with-donald-trump",
+      "publishedDateTime": "2021-08-21T21:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-22-stubborn-joe-biden-just-wouldnt-listen-goodwin.md",
       "title": "Stubborn Joe Biden just wouldn’t listen: Goodwin",
       "excerpt": "President Biden’s leftist ideology is costing American and Afghan lives in Kabul after ignoring crucial warnings from the US embassy — and now the terrorists are more powerful than",
@@ -1223,49 +1275,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-joe-biden-furious-with-barack-obama-over-pandemic-birthday-bash.md",
-      "title": "Joe Biden Furious With Barack Obama Over Pandemic Birthday Bash?",
-      "excerpt": "Are President Joe Biden and former President Barack Obama locked in a bitter feud over Obama's 60th birthday bash? One tabloid insists the prideful",
-      "sourceUrl": null,
-      "webUrl": "https://www.gossipcop.com/joe-biden-furious-with-barack-obama-over-pandemic-birthday-bash/2570136/",
-      "originalUrl": "https://www.gossipcop.com/joe-biden-furious-with-barack-obama-over-pandemic-birthday-bash/2570136/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://upload.gossipcop.com/gc/uploads/2021/08/Untitled-design-71.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gossipcop.com/joe-biden-furious-with-barack-obama-over-pandemic-birthday-bash/2570136/?amp",
-      "cdnAmpWebUrl": "https://www-gossipcop-com.cdn.ampproject.org/c/s/www.gossipcop.com/joe-biden-furious-with-barack-obama-over-pandemic-birthday-bash/2570136/?amp",
-      "publishedDateTime": "2021-08-18T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gossip Cop",
-        "domain": "gossipcop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

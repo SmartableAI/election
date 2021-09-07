@@ -2,6 +2,62 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2021-05-07-critics-sound-alarm-on-bidens-land-and-water-conservation-plan-call-it-a-land-grab.md",
+      "title": "Critics sound alarm on Biden’s land and water conservation plan, call it a ‘land grab’",
+      "excerpt": "The Biden administration proposed a plan, titled \"America the Beautiful,\" in hopes of boosting the conservation of U.S. land and water by the year 2030. The report is a decade-long effort, called \"30x30,\" which mandates protecting 30% of America’s waterways and land. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uyKAu7afuXE/critics-bidens-conservation-plan-land-grab",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uyKAu7afuXE/critics-bidens-conservation-plan-land-grab",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ff96bf74-73a3-4cd8-9659-acab23b7fc3c/37ebb5c1-e6eb-42e9-86f6-49aed6331c5d/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/critics-bidens-conservation-plan-land-grab.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/critics-bidens-conservation-plan-land-grab.amp",
+      "publishedDateTime": "2021-05-07T11:17:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-07-republicans-look-to-oust-liz-cheney-as-trump-allies-push-election-lie-live.md",
       "title": "Republicans look to oust Liz Cheney as Trump allies push election lie – live",
       "excerpt": "Congresswoman all but certain to lose conference chair role because of criticism of Donald Trump – follow all the day’s politics news",
@@ -1314,62 +1370,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-biden-thanks-conservatives-like-mcconnell-for-pushing-vaccines.md",
-      "title": "Biden thanks 'conservatives' like McConnell for pushing vaccines",
-      "excerpt": "President Biden thanked Republicans pushing vaccination in a Covid-19 briefing Tuesday, specifically citing Sen. Minority Leader Mitch McConnell, R-Ky.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vBGLv4Xgx4w/biden-thanks-conservatives-mcconnell-pushing-vaccines",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vBGLv4Xgx4w/biden-thanks-conservatives-mcconnell-pushing-vaccines",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/Biden-1.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-thanks-conservatives-mcconnell-pushing-vaccines.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-thanks-conservatives-mcconnell-pushing-vaccines.amp",
-      "publishedDateTime": "2021-05-04T14:12:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

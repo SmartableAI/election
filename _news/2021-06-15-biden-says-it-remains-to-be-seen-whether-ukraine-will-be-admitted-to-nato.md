@@ -80,22 +80,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Ukrainian President to accomplish years-long quest for a White House visit with Biden meeting"
-    excerpt: "Ukrainian President Volodymyr Zelensky is set to meet with President Joe Biden in Washington on Wednesday, the culmination of a years-long struggle to get a White House visit locked up that -- at one point -- saw him at the center of US politics.\n    \n"
-    publishedDateTime: 2021-09-01T09:24:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JNTXgcM1yY0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/01/politics/ukraine-volodymyr-zelensky-biden-white-house/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/01/politics/ukraine-volodymyr-zelensky-biden-white-house/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 164
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210831203124-ukraine-volodymyr-zelensky-biden-white-house-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "White House rejects GOP infrastructure counteroffer, saying it does not meet Biden's objectives"
     excerpt: "President Joe Biden on Friday rejected a new counteroffer made by Republicans on infrastructure despite a $50 billion increase in spending, telling the GOP's key negotiator that the new offer did not meet his policy goals.\n    \n"
     publishedDateTime: 2021-06-04T23:42:02Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/07/politics/biden-zelensky-white-hou
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/biden-zelensky-white-house-meeting/index.html"
 type: article
 quality: 175
-heat: 335
+heat: 315
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524094049-biden-putin-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Ukrainian President to accomplish years-long quest for a White House visit with Biden meeting"
-    excerpt: "Ukrainian President Volodymyr Zelensky is set to meet with President Joe Biden in Washington on Wednesday, the culmination of a years-long struggle to get a White House visit locked up that -- at one point -- saw him at the center of US politics.\n    \n"
-    publishedDateTime: 2021-09-01T09:24:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JNTXgcM1yY0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/01/politics/ukraine-volodymyr-zelensky-biden-white-house/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/01/politics/ukraine-volodymyr-zelensky-biden-white-house/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 164
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210831203124-ukraine-volodymyr-zelensky-biden-white-house-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

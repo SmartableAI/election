@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/17/politics/biden-administration-ant
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/17/politics/biden-administration-antiviral-medicine/index.html"
 type: article
 quality: 173
-heat: 453
+heat: 433
 published: true
 
 provider:
@@ -140,22 +140,6 @@ related:
     quality: 166
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610131048-chris-inglis-file-2013-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden administration discussing whether it must scale back ambitious Covid-19 vaccine booster plan "
-    excerpt: "There have been internal conversations within the Biden administration about scaling back the ambitious booster plan laid out by top federal health officials last month as the calendar nears September 20, the date when booster shots may start to be offered.\n    \n"
-    publishedDateTime: 2021-09-03T15:53:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/v_ruVvucPlQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/03/politics/booster-shots-covid-19-vaccines/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/03/politics/booster-shots-covid-19-vaccines/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210827142807-booster-shot-michican-0824-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

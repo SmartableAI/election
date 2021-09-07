@@ -2,6 +2,62 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2021-06-01-doj-seeks-dismissal-of-case-by-aclu-blm-against-trump-barr-for-clearing-lafayette-park.md",
+      "title": "DOJ seeks dismissal of case by ACLU, BLM against Trump, Barr for clearing Lafayette Park",
+      "excerpt": "Tuesday marks one year since the controversial clearing of Lafayette Square protesters before President Trump visited St. John’s Church, and Department of Justice (DOJ) lawyers have requested a federal judge toss out cases against former President Trump, former Attorney General Bill Barr and other Trump-era",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-4QeX3236BY/doj-dismissal-aclu-blm-trump-barr-clearing-lafayette-park",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-4QeX3236BY/doj-dismissal-aclu-blm-trump-barr-clearing-lafayette-park",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 226,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/720/405/Lafayette-Park.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/doj-dismissal-aclu-blm-trump-barr-clearing-lafayette-park.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-dismissal-aclu-blm-trump-barr-clearing-lafayette-park.amp",
+      "publishedDateTime": "2021-06-01T14:20:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-fact-checking-sidney-powells-claim-trump-could-be-reinstated.md",
       "title": "Fact-checking Sidney Powell's claim Trump could be reinstated",
       "excerpt": "Months into President Joe Biden's first term, supporters of former President Donald Trump are still touting the \"big lie\" that Trump actually won the 2020 election. One of the prominent supporters of these theories is Trump's former lawyer Sidney Powell, who is facing a $1.3 billion defamation lawsuit",
@@ -1285,58 +1341,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-29-bidens-6-trillion-budget-dropped-key-campaign-promises-on-student-debt-cancellation-and-healthcare-reform.md",
-      "title": "Biden's $6 trillion budget dropped key campaign promises on student debt cancellation and healthcare reform",
-      "excerpt": "The White House budget blueprint is focused on infrastructure plans already on the table, which include cash payments for parents and universal pre-K.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/bidens-budget-campaign-promises-student-debt-and-healthcare-reform-2021-5",
-      "originalUrl": "https://www.businessinsider.com/bidens-budget-campaign-promises-student-debt-and-healthcare-reform-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/609c3d3a6a3ce80019e04192?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/bidens-budget-campaign-promises-student-debt-and-healthcare-reform-2021-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bidens-budget-campaign-promises-student-debt-and-healthcare-reform-2021-5?amp",
-      "publishedDateTime": "2021-05-28T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,58 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-06-17-trump-also-writing-a-book-like-jared-kushner-its-a-fact-checking-nightmare.md",
+      "title": "Trump Also Writing A Book Like Jared Kushner: It's 'A Fact-Checking Nightmare'",
+      "excerpt": "Trump said he was \"writing like crazy\" to complete the \"book of all books\" Publishers from the Big Five said they were not aware of any book deal with Trump Jared Kushner has also secured a publishing deal for a Trump-era memoir Jared Kushner,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/trump-also-writing-book-jared-kushner-its-fact-checking-nightmare-3228062",
+      "originalUrl": "https://www.ibtimes.com/trump-also-writing-book-jared-kushner-its-fact-checking-nightmare-3228062",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/as-president-donald-trump-repeatedly-attacked-democrats-including.jpg",
+          "width": 1024,
+          "height": 657,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/trump-also-writing-book-jared-kushner-its-fact-checking-nightmare-3228062?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-also-writing-book-jared-kushner-its-fact-checking-nightmare-3228062?amp=1",
+      "publishedDateTime": "2021-06-16T20:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-donald-trump-to-hold-rally-at-lorain-county-fairgrounds-on-june-26.md",
       "title": "Donald Trump to hold rally at Lorain County Fairgrounds on June 26",
       "excerpt": "Former president Donald Trump will hold his first rally since leaving office on June 26 The rally was confirmed Wednesday on Trump’s website. The rally will start at 7 p.m. but doors will open at 2 p.",
@@ -1295,54 +1347,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-vp-kamala-harris-announces-small-business-program-we-must-re-imagine-our-economy.md",
-      "title": "VP Kamala Harris Announces Small Business Program: \"We Must Re-Imagine Our Economy\"",
-      "excerpt": "AP: Vice President Kamala Harris announced Tuesday that the Biden administration is distributing $1.25 billion to hundreds of community lenders in an effort to help boost the economic recovery from the coronavirus for small businesses and disadvantaged business owners.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/06/15/vp_kamala_harris_announces_small_business_program_we_must_re-imagine_our_economy.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/15/vp_kamala_harris_announces_small_business_program_we_must_re-imagine_our_economy.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/54/545821.jpg",
-          "width": 990,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/06/15/vp_kamala_harris_announces_small_business_program_we_must_re-imagine_our_economy.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/15/vp_kamala_harris_announces_small_business_program_we_must_re-imagine_our_economy.amp.html",
-      "publishedDateTime": "2021-06-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
       ]
     }
   ],

@@ -2,6 +2,62 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-07-22-biden-warns-about-conspiracies-flourishing-in-the-us-the-rest-of-the-worlds-wondering-about-us.md",
+      "title": "Biden warns about conspiracies flourishing in the US: 'The rest of the world's wondering about us'",
+      "excerpt": "President Joe Biden on Wednesday raised the alarm about conspiracy theories flourishing in the US and dividing the nation, warning that \"the rest of the world's wondering about us.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ye0g1f9ppkA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ye0g1f9ppkA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210705205725-biden-fourth-of-july-2021-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/21/politics/conspiracy-theories-us-biden-town-hall/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/conspiracy-theories-us-biden-town-hall/index.html",
+      "publishedDateTime": "2021-07-21T18:47:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-biden-says-abolishing-filibuster-would-throw-entire-congress-into-chaos.md",
       "title": "Biden says abolishing filibuster would 'throw entire Congress into chaos'",
       "excerpt": "President Biden shot down calls to abolish the filibuster to clear the way for passage of the sweeping Democrat-backed elections overhaul, arguing that any effort to end use of the tactic despite a GOP outcry would jeopardize his entire legislative agenda.",
@@ -1266,62 +1322,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/karoline-leavitt-former-stefanik-trump-spokeswoman-running-congress-new-hampshire.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karoline-leavitt-former-stefanik-trump-spokeswoman-running-congress-new-hampshire.amp",
       "publishedDateTime": "2021-07-20T04:58:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-social-conservatives-frustrated-over-trump-supreme-court-justices-rulings.md",
-      "title": "Social conservatives 'frustrated' over Trump Supreme Court justices' rulings",
-      "excerpt": "The confirmation of three justices nominated by then-President Trump has shifted the balance of power on the Supreme Court to a 6-3 majority for conservatives. But a high court feared by liberals and celebrated by conservatives hasn't delivered as expected, leaving some on the right feeling let down.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3eHLcBJXMpA/social-conservatives-disappointment-trump-supreme-court-justices-rulings",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3eHLcBJXMpA/social-conservatives-disappointment-trump-supreme-court-justices-rulings",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 192,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/social-conservatives-disappointment-trump-supreme-court-justices-rulings.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/social-conservatives-disappointment-trump-supreme-court-justices-rulings.amp",
-      "publishedDateTime": "2021-07-20T03:19:53-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

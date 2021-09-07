@@ -2,6 +2,62 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-06-07-white-house-says-biden-keeps-d-day-memory-close-to-his-heart-despite-anniversary-snub.md",
+      "title": "White House says Biden keeps D-Day memory 'close to his heart' despite anniversary snub",
+      "excerpt": "The White House on Monday defended President Biden after he failed to acknowledge the 77th anniversary of D-Day on Sunday, saying he values the role of the men and women who serve, and that his memory of them is \"close to his heart.\" ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XlRfcUeL2uE/white-house-reaction-biden-d-day-anniversary-snub",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XlRfcUeL2uE/white-house-reaction-biden-d-day-anniversary-snub",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/white-house-reaction-biden-d-day-anniversary-snub.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-reaction-biden-d-day-anniversary-snub.amp",
+      "publishedDateTime": "2021-06-07T11:55:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-07-biden-invites-ukrainian-president-to-white-house-in-july.md",
       "title": "Biden invites Ukrainian President to White House in July",
       "excerpt": "President Joe Biden has invited Ukrainian President Volodymyr Zelensky to visit the White House later this summer, national security adviser Jake Sullivan said on Monday.\n    \n",
@@ -14,7 +70,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 335,
+      "heat": 315,
       "tags": null,
       "images": [
         {
@@ -1287,62 +1343,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/05/politics/justice-department-leak-investigations-reporters-new-york-times/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/05/politics/justice-department-leak-investigations-reporters-new-york-times/index.html",
       "publishedDateTime": "2021-06-05T10:20:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-05-analysis-you-can-believe-in-ufos-without-believing-trumps-election-lies.md",
-      "title": "Analysis: You can believe in UFOs without believing Trump's election lies",
-      "excerpt": "2021 is shaping up to be the year of believing the unbelievable might be possible.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rd-NRl5EvEM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rd-NRl5EvEM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 229,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210519133725-ufo-us-navy-corbell-1-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/05/politics/conspiracies-ufo-election-fraud/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/05/politics/conspiracies-ufo-election-fraud/index.html",
-      "publishedDateTime": "2021-06-05T05:05:32-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

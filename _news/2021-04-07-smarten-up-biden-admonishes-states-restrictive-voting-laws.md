@@ -128,22 +128,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Supreme Court and Joe Manchin tighten Biden's political straitjacket "
-    excerpt: "Both the premise and promise of Joe Biden's presidency and a possibly brief Democratic grip on Washington are suddenly on the line, as the legacy of past electoral disappointments and harsh realities of power suddenly converge.\n    \n"
-    publishedDateTime: 2021-09-03T04:17:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V_3LQ3rW6cg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/03/politics/biden-supreme-court-abortion-joe-manchin/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/03/politics/biden-supreme-court-abortion-joe-manchin/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210827175245-05-afghanistan-wh-tick-tock-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "The Point: Joe Biden doesn't tweet enough wild stuff for this Republican"
     excerpt: "Texas Sen. John Cornyn (R) offered a very curious critique of Joe Biden's presidency in a series of tweets on Monday.\n    \n"
     publishedDateTime: 2021-04-12T22:32:14Z

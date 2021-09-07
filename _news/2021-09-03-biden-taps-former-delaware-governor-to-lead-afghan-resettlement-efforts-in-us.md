@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/09/03/politics/jack-markell-afghan-rese
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/03/politics/jack-markell-afghan-resettlement/index.html"
 type: article
 quality: 172
-heat: 192
+heat: 172
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1100
     height: 619
     isCached: true
-
-related:
-  - title: "Biden launches federal effort to respond to Texas law as he faces pressure to protect abortion"
-    excerpt: "A new Texas law that effectively bans most abortions prompted President Joe Biden on Wednesday to use a word he'd entirely avoided as president: \"Abortion.\"\n    \n"
-    publishedDateTime: 2021-09-02T15:45:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WgIyzE4aEY8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/02/politics/biden-abortion/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/02/politics/biden-abortion/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210831155412-04-biden-afghanistan-presser-0831-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "4xSDFFbVzX5Ul6PR3akdmr7Wk/F3ZbPirz3PHyQY1FajsDNsmRuMLmU6ZbyGuN6G/A56Nt4JNQnDXLIPQq0ZpwBc/J15FCWwNnTl1paHkFR1AcLwU22QOYdmywM38CYtokJ0KiNYjm1TfS2gNon6aMVolLSaIGNePC7YVUT/W7ztePvkz/0Mjgm7t6brf+rXEquQdDf8BctEPm+zhZPd56wMHmsaIUtPLaXAAj3hoon3SBGm9EphIIbnhbDIkCIOW870sZru2oFEKBIZFfr/ANNrreXE6x/tanThGKS0Sz+Je8z44eAH+jLNcVu7XqBxwSgp4AeC79Rgs+MuMM0BVpOuXfM0Tgc0KXeXNCfzKzU=;h524D4r2WBPsv2FSVBO7hQ=="
 ---

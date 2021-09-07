@@ -2,6 +2,63 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-15-ingraham-angle-on-biden-calling-un-probe-on-us-south-african-riots.md",
+      "title": "'Ingraham Angle' on Biden calling UN probe on US, South African riots",
+      "excerpt": "They even invited the UN to come in and grade their anti-racism efforts. This is completely insane. But again, they're a bunch of self loathing idiots. They're happiest when America is down on our knees,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/transcript/ingraham-angle-on-biden-calling-un-probe-on-us-south-african-riots",
+      "originalUrl": "https://www.foxnews.com/transcript/ingraham-angle-on-biden-calling-un-probe-on-us-south-african-riots",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8021675e-3986-406b-af91-de3a1cf6840a/4a0e5c30-8d16-4858-87f3-93d3c87f3eff/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/transcript/ingraham-angle-on-biden-calling-un-probe-on-us-south-african-riots.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/ingraham-angle-on-biden-calling-un-probe-on-us-south-african-riots.amp",
+      "publishedDateTime": "2021-07-15T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-chaffetz-claims-direct-evidence-joe-biden-was-privy-to-hunters-business-deals-as-house-gop-seeks-documents.md",
       "title": "Chaffetz claims 'direct evidence' Joe Biden was privy to Hunter's business deals, as House GOP seeks documents",
       "excerpt": "Government Accountability Institute fellow Jason Chaffetz claimed Wednesday on “Hannity” that there is direct evidence being laid out by one of his GAI colleagues that shows President Joe Biden was privy to Hunter Biden's foreign business dealings.",
@@ -1486,58 +1543,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/ft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-04-try-and-try-again-gop-tests-out-myriad-attacks-on-biden.md",
-      "title": "Try and try again: GOP tests out myriad attacks on Biden",
-      "excerpt": "Republicans are testing out a myriad of attacks against President Biden, trying to turn public opinion against a popular president among key sectors of the electorate in hopes of boosting their chances in the 2022 midterm elections and beyond.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/561442-try-and-try-again-gop-tests-out-myriad-attacks-on-biden",
-      "originalUrl": "https://thehill.com/homenews/administration/561442-try-and-try-again-gop-tests-out-myriad-attacks-on-biden",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 365,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/article_images/bidenjoe_063021getty_biden-gop.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/561442-try-and-try-again-gop-tests-out-myriad-attacks-on-biden?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561442-try-and-try-again-gop-tests-out-myriad-attacks-on-biden?amp",
-      "publishedDateTime": "2021-07-04T02:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

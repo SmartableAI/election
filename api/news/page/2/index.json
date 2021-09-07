@@ -2,6 +2,118 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-04-bidens-tree-of-life-synagogue-claim-not-true-white-house-admits.md",
+      "title": "Biden’s Tree of Life synagogue claim not true, White House admits",
+      "excerpt": "President Biden did not visit the Tree of Life synagogue in Pittsburgh after the murder of 11 congregants — despite saying so, the White House admitted Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EIGsUiTg1tc/bidens-tree-of-life-synagogue-claim-not-true-white-house-admits",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EIGsUiTg1tc/bidens-tree-of-life-synagogue-claim-not-true-white-house-admits",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7180b1e-c25c-4cc7-bfe5-6d71b1c14191/585fce97-a0df-484d-a52d-153985306af5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-tree-of-life-synagogue-claim-not-true-white-house-admits.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-tree-of-life-synagogue-claim-not-true-white-house-admits.amp",
+      "publishedDateTime": "2021-09-03T19:12:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-04-biden-administrations-sept-20-booster-rollout-may-be-scaled-back-to-just-pfizer-covid-19-vaccine-at-first.md",
+      "title": "Biden administration's Sept. 20 booster rollout may be scaled back to just Pfizer Covid-19 vaccine at first",
+      "excerpt": "There have been internal conversations within the Biden administration about scaling back the ambitious booster plan laid out by top federal health officials last month as the calendar nears September 20, the date when booster shots may start to be offered.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/v_ruVvucPlQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/v_ruVvucPlQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210827142807-booster-shot-michican-0824-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/03/politics/booster-shots-covid-19-vaccines/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/03/politics/booster-shots-covid-19-vaccines/index.html",
+      "publishedDateTime": "2021-09-03T18:48:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-04-joe-biden-walks-storm-ravaged-louisiana-i-know-youre-hurting.md",
       "title": "Joe Biden walks storm-ravaged Louisiana: “I know you’re hurting”",
       "excerpt": "Less than a week after Hurricane Ida battered the Gulf Coast, President Joe Biden walked the streets of a hardhit Louisiana neighborhood on Friday and told local residents, “I know you’re hurting, I know you’re hurting.",
@@ -334,7 +446,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 192,
+      "heat": 172,
       "tags": null,
       "images": [
         {
@@ -474,6 +586,62 @@
       "topics": [
         "Election",
         "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-09-03-biden-says-texas-anti-abortion-law-is-almost-un-american-and-sort-of-creates-a-vigilante-system.md",
+      "title": "Biden says Texas' anti-abortion law is 'almost un-American' and 'sort of creates a vigilante system'",
+      "excerpt": "President Joe Biden said Friday the Texas state law that bans abortion after as early as six weeks into pregnancy is \"almost un-American,\" pointing specifically to a provision allowing individuals to take civil action against people who help a woman get an abortion.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Mmetq79NlnI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Mmetq79NlnI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210831154223-02-biden-afghanistan-presser-0831-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/03/politics/biden-texas-abortion-law/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/03/politics/biden-texas-abortion-law/index.html",
+      "publishedDateTime": "2021-09-03T09:01:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     },
     {
@@ -766,6 +934,62 @@
       ]
     },
     {
+      "path": "_news/2021-09-03-biden-set-to-travel-to-louisiana-to-survey-damage-from-hurricane-ida.md",
+      "title": "Biden set to travel to Louisiana to survey damage from Hurricane Ida",
+      "excerpt": "President Joe Biden is headed to Louisiana on Friday to survey damage from Hurricane Ida, after almost a week of the deadly storm ravaging the eastern half of the United States.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vbv-IqXj3qo/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vbv-IqXj3qo/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210902140750-01-biden-ida-0902-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/03/politics/biden-hurricane-ida-travel-louisiana/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/03/politics/biden-hurricane-ida-travel-louisiana/index.html",
+      "publishedDateTime": "2021-09-03T03:08:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-03-trump-towers-key-tenants-have-fallen-behind-on-rent-and-moved-out-but-trump-has-one-reliable-customer-his-own-pac.md",
       "title": "Trump Tower’s key tenants have fallen behind on rent and moved out. But Trump has one reliable customer: His own PAC.",
       "excerpt": "Trump’s PAC pays more than $37,000 a month for space at the tower — the latest instance of Trump using donors’ money to prop up his businesses.",
@@ -1054,222 +1278,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/psaki-snaps-reporter-abortion-bidens-faith.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-snaps-reporter-abortion-bidens-faith.amp",
       "publishedDateTime": "2021-09-02T12:40:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-biden-says-hell-press-congress-on-infrastructure-after-wildfires-and-ida-wreak-havoc-on-us-the-climate-crisis-is-here.md",
-      "title": "Biden says he'll press Congress on infrastructure after wildfires and Ida wreak havoc on US: 'The climate crisis is here'",
-      "excerpt": "President Joe Biden said Thursday he had spoken to the governors of New York and New Jersey after remnants of Hurricane Ida caused dangerous flash floods and tornadoes across the Northeast.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VY4f_rfj4Mc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VY4f_rfj4Mc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210902104410-19-ida-storm-0902-new-york-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/02/politics/biden-hurricane-ida/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/02/politics/biden-hurricane-ida/index.html",
-      "publishedDateTime": "2021-09-02T10:39:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-joe-biden-tells-federal-agencies-to-insulate-women-and-providers-from-texas-abortion-law.md",
-      "title": "Joe Biden Tells Federal Agencies to 'Insulate Women and Providers' From Texas Abortion Law",
-      "excerpt": "The Supreme Court voted 5-4 in the middle of the night to deny an emergency appeal from abortion providers aimed at blocking the Texas law from taking effect.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-tells-federal-agencies-insulate-women-providers-texas-abortion-law-1625552",
-      "originalUrl": "https://www.newsweek.com/joe-biden-tells-federal-agencies-insulate-women-providers-texas-abortion-law-1625552",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1886367/supreme-court-denies-emergency-appeal.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-tells-federal-agencies-insulate-women-providers-texas-abortion-law-1625552?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-tells-federal-agencies-insulate-women-providers-texas-abortion-law-1625552?amp=1",
-      "publishedDateTime": "2021-09-02T10:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-lawyer-for-trump-ally-tom-barrack-pushes-prosecutors-for-evidence-in-united-arab-emirates-lobby-case.md",
-      "title": "Lawyer for Trump ally Tom Barrack pushes prosecutors for evidence in United Arab Emirates lobby case",
-      "excerpt": "Tom Barrack, a private equity investor and close friend of ex-President Donald Trump, is accused of advancing the interests of the United Arab Emirates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/09/02/trump-ally-tom-barrack-in-court-on-uae-lobbying-case.html",
-      "originalUrl": "https://www.cnbc.com/2021/09/02/trump-ally-tom-barrack-in-court-on-uae-lobbying-case.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106916020-1627047142866-tom.jpg?v=1630591233",
-          "width": 2686,
-          "height": 1790,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/09/02/trump-ally-tom-barrack-in-court-on-uae-lobbying-case.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/09/02/trump-ally-tom-barrack-in-court-on-uae-lobbying-case.html",
-      "publishedDateTime": "2021-09-02T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-biden-helps-secure-tajikistans-border-amid-us-border-crisis.md",
-      "title": "Biden helps secure Tajikistan’s border amid US border crisis",
-      "excerpt": "The United States is helping Tajikistan secure a portion of its border with Afghanistan to help combat security threats in the region, despite the ongoing crisis at the U.S. border.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GCeTB-W6StQ/biden-secure-tajikistans-border-us-crisis",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GCeTB-W6StQ/biden-secure-tajikistans-border-us-crisis",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 355,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2dd2cd3e-37db-4527-a410-18c2cb90ae1e/c5e78bb9-d1d4-4a01-9c74-4ef1265d20f0/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-secure-tajikistans-border-us-crisis.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-secure-tajikistans-border-us-crisis.amp",
-      "publishedDateTime": "2021-09-02T08:49:14-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

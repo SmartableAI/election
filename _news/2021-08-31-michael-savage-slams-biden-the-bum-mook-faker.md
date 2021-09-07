@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/31/michael-savage-slam
 cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/31/michael-savage-slams-joe-biden-bum-mook-faker/"
 type: article
 quality: 75
-heat: 95
+heat: 115
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden aims to get agenda back on track; remembering Michael K. Williams; US Open update"
+    excerpt: "After a torrent of crises, President Biden is hoping to turn the page; \"The Wire\" star Michael K. Williams dies at 54; US Open enters second week."
+    publishedDateTime: 2021-09-07T11:30:00Z
+    webUrl: "https://tulsaworld.com/news/national/biden-aims-to-get-agenda-back-on-track-remembering-michael-k-williams-us-open-update/article_c45407ba-c97b-528c-baf0-d7a4f4fb0720.html"
+    ampWebUrl: "https://tulsaworld.com/news/national/biden-aims-to-get-agenda-back-on-track-remembering-michael-k-williams-us-open-update/article_c45407ba-c97b-528c-baf0-d7a4f4fb0720.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/national/biden-aims-to-get-agenda-back-on-track-remembering-michael-k-williams-us-open-update/article_c45407ba-c97b-528c-baf0-d7a4f4fb0720.amp.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 67
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/9/86/9861d139-037c-5484-982d-ff79d404b293/613745a1d3474.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "MICHAEL BARONE: Joe Biden is no Jimmy Carter"
     excerpt: "\"T he worst president since Jimmy Carter.\" You see a lot of that sort of thing if you regularly read conservative commentary. But as a conservative writer, I think it's unfair to the 39th president. I think it's time to say some good words for Carter."
     publishedDateTime: 2021-09-06T11:19:00Z

@@ -2,6 +2,49 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-06-11-david-m-shribman-pence-hasnt-gone-away.md",
+      "title": "David M. Shribman: Pence hasn't gone away",
+      "excerpt": "Mike Pence is determined not to be the modern version of William R. King, William A. Wheeler or Charles W. Fairbanks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hastingstribune.com/david-m-shribman-pence-hasnt-gone-away/article_b0b8e996-ca36-11eb-a591-27270006269c.html",
+      "originalUrl": "https://www.hastingstribune.com/david-m-shribman-pence-hasnt-gone-away/article_b0b8e996-ca36-11eb-a591-27270006269c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/hastingstribune.com/content/tncms/assets/v3/editorial/b/08/b083e46c-fa4e-11e9-b175-9bbfa0456bc7/5db83c86c6ab0.image.jpg?resize=431%2C630",
+          "width": 431,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T14:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hastings Tribune",
+        "domain": "hastingstribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-white-house-downplays-biden-putin-summit-not-expecting-huge-outcome.md",
       "title": "White House downplays Biden-Putin summit, not expecting 'huge outcome'",
       "excerpt": "White House press secretary Jen Psaki on Thursday doubled down on Biden using the summit as an opportunity to confront Putin. \"He's going to be straightforward, he's going to be candid, he's not going to hold back,",
@@ -1303,58 +1346,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-biden-declares-the-us-is-back-and-urges-democracies-to-stand-together.md",
-      "title": "Biden declares the ‘US is back’ and urges democracies to stand together",
-      "excerpt": "US president rings changes since Trump but has a serious message on Northern Ireland peace process",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jun/09/biden-declares-the-us-is-back-and-urges-democracies-to-stand-together",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/09/biden-declares-the-us-is-back-and-urges-democracies-to-stand-together",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/658deb3cdc010ed92f9507f4779d98587c280270/0_245_3080_1849/master/3080.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=acb307853f0aea9c68dcf33baf5e7382",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/09/biden-declares-the-us-is-back-and-urges-democracies-to-stand-together",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/09/biden-declares-the-us-is-back-and-urges-democracies-to-stand-together",
-      "publishedDateTime": "2021-06-09T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

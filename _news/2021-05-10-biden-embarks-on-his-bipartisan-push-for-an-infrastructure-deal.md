@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/09/politics/what-matters-may-9/index
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/09/politics/what-matters-may-9/index.html"
 type: article
 quality: 175
-heat: 1135
+heat: 1115
 published: true
 
 provider:
@@ -778,20 +778,6 @@ related:
       - url: "https://static.politico.com/dd/df/f31e0fc942d5a36fcacaf2c4f570/gettyimages-1318203757.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "Biden's coming court conundrum"
-    excerpt: "President JOE BIDEN’s Supreme Court commission is set to meet for the first time on Wednesday, starting a clock that will require it to produce a report on reforming the court by Nov. 15. Some of the most ardent advocates of expanding the nation’s highest court couldn’t be less excited."
-    publishedDateTime: 2021-05-17T23:03:00Z
-    webUrl: "https://www.politico.com/newsletters/west-wing-playbook/2021/05/17/bidens-coming-court-conundrum-492880"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
         isCached: true
 
 secured: "U+estDAh8Qr+9gqqwtlCigKfOEChc74ztQUskq7xQ8kF9zTukR7EHW3Qy9XSx9CvTrojBMhAEBi6OMuySkqAndvQrFFyYzLcmGueJNbkb1A8TYdDdoLM1I55zkzW+0A2DemjOF7IhnIU9Pm9VOgImH2EdtDI067oouoY9Px0zTelqwqcW0oBypbjKuqjmIu1jGeeZtl/ulZR9hmktCrGlRWZnNzkfht8bZat1tS/fymhoZe8YdvgxqH1ffHVyGCLCACJ326soRYvw6mkBGETvYVSoT7CiKIvJMWJTcc8eqGFID0QjRiuAvTNoWQsQHGWt+ynonU+xlWyJcfDdXKO3bDXW1nvBH20J/jIdKsA4Dg=;J1eeHGweHOAXoZLDvi8dOg=="

@@ -2,6 +2,58 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2021-04-27-joe-biden-to-issue-executive-order-implementing-15-an-hour-minimum-wage-for-federal-contractors.md",
+      "title": "Joe Biden to issue executive order implementing $15-an-hour minimum wage for federal contractors",
+      "excerpt": "The move is set to increase pay for hundreds of thousands of workers on government contracts by the end of March 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-executive-order-enacting-minimum-wage-federal-contractors-2021-4",
+      "originalUrl": "https://www.businessinsider.com/biden-executive-order-enacting-minimum-wage-federal-contractors-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/608760113f0560001881c2cb?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-executive-order-enacting-minimum-wage-federal-contractors-2021-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-executive-order-enacting-minimum-wage-federal-contractors-2021-4?amp",
+      "publishedDateTime": "2021-04-27T03:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-27-analysis-the-trump-republican-circus-gears-up-for-another-tour.md",
       "title": "Analysis: The Trump Republican circus gears up for another tour",
       "excerpt": "Donald Trump schooled his protégés well in his politics of down-in-the-muck misinformation.\n    \n",
@@ -1307,58 +1359,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-inside-chuck-schumers-mission-to-turn-bidens-agenda-into-law-while-preserving-his-own-40-year-legacy.md",
-      "title": "Inside Chuck Schumer's mission to turn Biden's agenda into law while preserving his own 40-year legacy",
-      "excerpt": "With his slim majority, Senate Democratic Leader Chuck Schumer is depending on an arcane legislative maneuver to get things done. But only if the Senate parliamentarian gives him the thumbs-up.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/senate-schumer-reconciliation-biden-agenda-2022-midterms-policy-new-york-2021-4",
-      "originalUrl": "https://www.businessinsider.com/senate-schumer-reconciliation-biden-agenda-2022-midterms-policy-new-york-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6080486474da0300181e2f85?width=700",
-          "width": 700,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-22T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

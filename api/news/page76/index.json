@@ -2,6 +2,58 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2021-04-03-actress-cirsten-weldon-says-china-paid-joe-biden-to-test-weather-warfare-on-texas.md",
+      "title": "Actress Cirsten Weldon Says China Paid Joe Biden to Test 'Weather Warfare' on Texas",
+      "excerpt": "Former actress Cirsten Weldon has claimed that China paid President Joe Biden \"billions of dollars\" to test their \"weather warfare\" weapons in the United States. The weapon allegedly caused extreme winter storms to hit Texas. Right Wing Watch posted a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/actress-cirsten-weldon-says-china-paid-joe-biden-test-weather-warfare-texas-1580823",
+      "originalUrl": "https://www.newsweek.com/actress-cirsten-weldon-says-china-paid-joe-biden-test-weather-warfare-texas-1580823",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1771279/cirsten-weldon-china-weather-weapons-texas-biden.jpg",
+          "width": 2500,
+          "height": 1787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/actress-cirsten-weldon-says-china-paid-joe-biden-test-weather-warfare-texas-1580823?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/actress-cirsten-weldon-says-china-paid-joe-biden-test-weather-warfare-texas-1580823?amp=1",
+      "publishedDateTime": "2021-04-02T18:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-03-biden-reverses-trump-lifts-sanctions-on-international-criminal-court.md",
       "title": "Biden reverses Trump, lifts sanctions on International Criminal Court",
       "excerpt": "President Biden on Friday reversed Trump-era foreign policies by lifting sanctions and removing visa restrictions on officials of the International Criminal Court (ICC).",
@@ -1304,58 +1356,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-christian-pastor-claims-biden-surrounded-by-demonic-hedge-of-protection.md",
-      "title": "Christian Pastor Claims Biden Surrounded By 'Demonic Hedge of Protection'",
-      "excerpt": "Pastor Mario Murillo claimed this week that President Joe Biden is surrounded by a \"demonic hedge of protection,\" urging fellow Christians to pray for a \"powerful move of God\" to bring it down. \"War has been declared on your faith,\" Murillo said during the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/christian-pastor-claims-biden-surrounded-demonic-hedge-protection-1580476",
-      "originalUrl": "https://www.newsweek.com/christian-pastor-claims-biden-surrounded-demonic-hedge-protection-1580476",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1768836/mario-murillo.png",
-          "width": 1439,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/christian-pastor-claims-biden-surrounded-demonic-hedge-protection-1580476?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/christian-pastor-claims-biden-surrounded-demonic-hedge-protection-1580476?amp=1",
-      "publishedDateTime": "2021-04-01T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

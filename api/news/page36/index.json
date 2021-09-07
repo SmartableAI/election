@@ -2,6 +2,59 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-06-24-unholy-post-trump-trinity-bannon-pompeo-and-pence.md",
+      "title": "Unholy post-Trump trinity: Bannon, Pompeo and Pence",
+      "excerpt": "Catering to the white evangelicals and other conservative Christians may be good politics, but the approach Pence, Pompeo and other prominent Trumpites such as Steve Bannon take t",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/religion/unholy-post-trump-trinity-bannon-pompeo-and-pence/2021/06/23/aadf464c-d44e-11eb-b39f-05a2d776b1f4_story.html",
+      "originalUrl": "https://www.washingtonpost.com/religion/unholy-post-trump-trinity-bannon-pompeo-and-pence/2021/06/23/aadf464c-d44e-11eb-b39f-05a2d776b1f4_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/religion/unholy-post-trump-trinity-bannon-pompeo-and-pence/2021/06/23/aadf464c-d44e-11eb-b39f-05a2d776b1f4_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/unholy-post-trump-trinity-bannon-pompeo-and-pence/2021/06/23/aadf464c-d44e-11eb-b39f-05a2d776b1f4_story.html?outputType=amp",
+      "publishedDateTime": "2021-06-23T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-trump-rule-tightening-eb-5-visa-program-struck-down-by-federal-judge.md",
       "title": "Trump Rule Tightening EB-5 Visa Program Struck Down by Federal Judge",
       "excerpt": "The Biden administration had endorsed the rule which raised the investment threshold in the immigrant investor program but a judge said the rules were improperly issued.",
@@ -1279,54 +1332,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-desantis-edges-out-trump-in-2024-straw-poll-tucker-carlson-rules-out-bid.md",
-      "title": "DeSantis edges out Trump in 2024 straw poll, Tucker Carlson rules out bid",
-      "excerpt": "Ron DeSantis, who has endeared himself to conservatives for bucking coronavirus restrictions and lockdowns, and combating critical race theory, hasn’t said he would mount a campaign in 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/21/desantis-edges-out-trump-in-2024-straw-poll-tucker-carlson-rules-out-bid/",
-      "originalUrl": "https://nypost.com/2021/06/21/desantis-edges-out-trump-in-2024-straw-poll-tucker-carlson-rules-out-bid/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/Trump-5.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/21/desantis-edges-out-trump-in-2024-straw-poll-tucker-carlson-rules-out-bid/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/21/desantis-edges-out-trump-in-2024-straw-poll-tucker-carlson-rules-out-bid/amp/",
-      "publishedDateTime": "2021-06-21T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

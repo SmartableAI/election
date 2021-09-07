@@ -2,6 +2,62 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-07-20-social-conservatives-frustrated-over-trump-supreme-court-justices-rulings.md",
+      "title": "Social conservatives 'frustrated' over Trump Supreme Court justices' rulings",
+      "excerpt": "The confirmation of three justices nominated by then-President Trump has shifted the balance of power on the Supreme Court to a 6-3 majority for conservatives. But a high court feared by liberals and celebrated by conservatives hasn't delivered as expected, leaving some on the right feeling let down.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3eHLcBJXMpA/social-conservatives-disappointment-trump-supreme-court-justices-rulings",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3eHLcBJXMpA/social-conservatives-disappointment-trump-supreme-court-justices-rulings",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 192,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/social-conservatives-disappointment-trump-supreme-court-justices-rulings.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/social-conservatives-disappointment-trump-supreme-court-justices-rulings.amp",
+      "publishedDateTime": "2021-07-20T03:19:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-save-our-paychecks-tour-to-target-white-house-economic-policies-bidenflation.md",
       "title": "'Save Our Paychecks' tour to target White House economic policies, 'Bidenflation'",
       "excerpt": "Conservative group Heritage Action is partnering with the Coalition to Protect American Workers to launch a nationwide tour targeting what they describe as the “disastrous” effect that the Biden administration’s policies have had on American workers and businesses.",
@@ -1228,58 +1284,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-biden-grappling-with-pandemic-of-the-unvaccinated.md",
-      "title": "Biden grappling with 'pandemic of the unvaccinated'",
-      "excerpt": "Two weeks after celebrating America’s near “independence” from the coronavirus, President Joe Biden is confronting the worrying reality of rising cases and deaths",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Health/wireStory/biden-grappling-pandemic-unvaccinated-78897684",
-      "originalUrl": "https://abcnews.go.com/Health/wireStory/biden-grappling-pandemic-unvaccinated-78897684",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/WireAP_6f049db552754deb97da2642b7a377d7_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/biden-grappling-pandemic-unvaccinated-78897684",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-grappling-pandemic-unvaccinated-78897684",
-      "publishedDateTime": "2021-07-16T21:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

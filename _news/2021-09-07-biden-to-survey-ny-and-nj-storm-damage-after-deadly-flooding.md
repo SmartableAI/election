@@ -1,24 +1,30 @@
 ---
 category: news
 title: "Biden to survey NY and NJ storm damage after deadly flooding"
-excerpt: "WASHINGTON (AP) — President Joe Biden will survey damage in parts of the northeast that suffered catastrophic flash flooding from the remnants of Hurricane Ida, and use the muddy backdrop to call for federal spending to fortify infrastructure so it can ..."
-publishedDateTime: 2021-09-07T05:22:00Z
-originalUrl: "https://www.bostonglobe.com/2021/09/07/nation/biden-survey-ny-nj-storm-damage-after-deadly-flooding/"
-webUrl: "https://www.bostonglobe.com/2021/09/07/nation/biden-survey-ny-nj-storm-damage-after-deadly-flooding/"
-ampWebUrl: "https://www.bostonglobe.com/2021/09/07/nation/biden-survey-ny-nj-storm-damage-after-deadly-flooding/?outputType=amp"
-cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/09/07/nation/biden-survey-ny-nj-storm-damage-after-deadly-flooding/?outputType=amp"
+excerpt: "Biden is set to tour Manville, New Jersey, and the New York City borough of Queens on Tuesday. At least 50 people were killed in six Eastern states as record rainfall last week overwhelmed rivers and sewer systems."
+publishedDateTime: 2021-09-07T04:09:00Z
+originalUrl: "https://www.stamfordadvocate.com/news/article/Biden-to-survey-NY-and-NJ-storm-damage-after-16439311.php"
+webUrl: "https://www.stamfordadvocate.com/news/article/Biden-to-survey-NY-and-NJ-storm-damage-after-16439311.php"
+ampWebUrl: "https://www.stamfordadvocate.com/news/amp/Biden-to-survey-NY-and-NJ-storm-damage-after-16439311.php"
+cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Biden-to-survey-NY-and-NJ-storm-damage-after-16439311.php"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: The Boston Globe
-  domain: bostonglobe.com
+  name: StamfordAdvocate
+  domain: stamfordadvocate.com
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
 
 related:
   - title: "Joe Biden and Europe are going different ways"
@@ -277,6 +283,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "President Biden to tour storm damage from Ida in New York, New Jersey"
+    excerpt: "President Joe Biden will survey damage in parts of the northeast that suffered catastrophic flash flooding from the remnants of Hurricane Ida, and use the muddy backdrop to call for federal spending to fortify infrastructure so it can better withstand such powerful storms."
+    publishedDateTime: 2021-09-07T11:28:00Z
+    webUrl: "https://www.pennlive.com/nation-world/2021/09/president-biden-to-tour-storm-damage-from-ida-in-new-york-new-jersey.html"
+    ampWebUrl: "https://www.pennlive.com/nation-world/2021/09/president-biden-to-tour-storm-damage-from-ida-in-new-york-new-jersey.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/nation-world/2021/09/president-biden-to-tour-storm-damage-from-ida-in-new-york-new-jersey.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HLTHI4LUZFDXTE2HAQT3CE4RKI.jpg"
+        width: 6000
+        height: 4000
+        isCached: true
   - title: "‘Thanks, Joe’: Biden delivers sandwiches to union workers"
     excerpt: "President Joe Biden marked the Labor Day holiday on Monday by delivering deli sandwiches to union members, the people he says built the middle class."
     publishedDateTime: 2021-09-07T02:27:00Z
@@ -467,6 +489,20 @@ related:
         width: 1024
         height: 640
         isCached: true
+  - title: "President Biden To Survey NY, NJ Storm Damage After Deadly Flooding"
+    excerpt: "President Joe Biden will survey damage in parts of the northeast that suffered catastrophic flash flooding from the remnants of Hurricane Ida, and use the muddy backdrop to call for federal spending to fortify infrastructure so it can better withstand such powerful storms."
+    publishedDateTime: 2021-09-07T11:34:00Z
+    webUrl: "https://www.newson6.com/story/61374e3fd8f9c40bffcbe886/president-biden-to-survey-ny-nj-storm-damage-after-deadly-flooding"
+    type: article
+    provider:
+      name: News on 6
+      domain: newson6.com
+    quality: 55
+    images:
+      - url: "https://cdn.field59.com/KOTV/f58dabc5824654575d05dbb188862042667ecc0b_Screenshot_2021_09_07_063328_custom.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "President Joe Biden Proclaims Thursday, 26, 2021 as Women’s Equality Day"
     excerpt: "On President Joe Biden proclaimed August 26, 2021 as Women’s Equality Day. Today, we celebrate Women’s Equality Day, a reminder not only of the progress women have won through the years, but of the important work that remains to be done."
     publishedDateTime: 2021-08-26T21:01:00Z
@@ -521,6 +557,6 @@ related:
         height: 1453
         isCached: true
 
-secured: "rq1X+Z/i4PFXCd/O8hQKNT59hb/M2dhDdOEy8fsc1KqXbHnMG8iIpiPacQvHZa3kwxt7owO9SQQfoUAjWcptSenTDPc7JaAONk/uKy1FvczHdr2gBtsCO4tUjePodpJgo9ywRGwmvzotPdpeT2hJ2Cst40HowtOhaB5bOVYnXLq+I+unV81GMGEqSxc2KpnfGGmLvqE0GzkNubPGntC9iyHouG7g7z/eJsai4Kh+huPzFzw8yLt1O4hXW5ov8li5Ia9Dhjfyj1VDRKI8widpXlM1ZOjyTmyAOfWEDJ6NnAl/D5N3ASvNIugUrMkQK2b0xpry+MTkCVXh6lWU86x1EXrBvBMQiZXtY2RsgvY4zIUulJM+7kXrWPFqbD7SuLxwebhf/DkQ5t0KbmNsijZhfW5Ilu+EiqChKN8y1Jf2JO8g3+651wuyv9inBFncGpsEzkyNs1R9irqrIyi5b032cz/sVe4GXrsOi7yX0Ch25AJibk6OhCpwL2aelURfoiIfrEQtadDQP8/KWh3Ibr9N1Q==;n4q4xg5jn/fnXwMvhW65ag=="
+secured: "X+AwvPpqVl0lPgaIExU/A6f5yPtp62EnKQ5FqIjb4c04rJYB92lAuVeFKbPIJ9Do0sz8BipWe2v/7Keza9nvy/+er7TMEFJrvqgHjJaayoMhEvxjdylSXJ5Fj1+HTOgpxwnjIbqJe4CZ9uw0K4B5OG0pgtXJHtFRvqExEVcQ1PR8BfiijxCwH6QJevqC3u78IqNiRp3XAB3okNgNfGNhQFxdRcv5IfnfTSFgg/0drp87iGv2VyWb0BEHsPE4vQiVwLM9g1/j85hR0eHkr/Rqc2MbyG+dc8QvUM4E0pLzfWZ5mO0/iuHU/Xtk9WNYHo339edwqUMlJUoXKuyBEUi2Yfb+JOUp9lVv+AVbravXuo0=;oBQq6fjiK2WGXhRKj8xt0Q=="
 ---
 

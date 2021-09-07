@@ -31,229 +31,419 @@ images:
     isCached: true
 
 related:
-  - title: "Biden administration to invest $3 billion for Covid-19 antiviral medicines"
-    excerpt: "The Biden administration on Thursday announced it would invest more than $3 billion from the American Rescue Plan to accelerate the discovery, development and manufacturing of Covid-19 antiviral medicines -- ideally like a pill someone could easily take at home early in an illness.\n    \n"
-    publishedDateTime: 2021-06-17T20:39:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f3HvcYiFHLI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/17/politics/biden-administration-antiviral-medicine/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/17/politics/biden-administration-antiviral-medicine/index.html"
+  - title: "The coming weeks will define Biden's presidency and shape the midterm elections"
+    excerpt: "President Joe Biden must define the politics of this fall before they define him, as he seeks to re-establish the authority of an administration that often appeared overtaken by a relentless summer of challenges.\n    \n"
+    publishedDateTime: 2021-09-07T06:33:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/F0jPAJKUGMY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/07/politics/joe-biden-september-battles-ahead/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/07/politics/joe-biden-september-battles-ahead/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 186
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180515120442-white-house-exterior-05-13-2018-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210903150257-01-biden-louisiana-0903-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration says more 'remain in Mexico' migrants can enter the US"
-    excerpt: "The Biden administration is expanding the pool of migrants eligible to be processed into the United States that had been subject to a Trump-era policy forcing them to stay in Mexico, according to a source familiar with the plans.\n    \n"
-    publishedDateTime: 2021-06-22T21:48:31Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qiqVEgyqKfM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/22/politics/immigration-remain-in-mexico/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/22/politics/immigration-remain-in-mexico/index.html"
+  - title: "Biden faces crunch moment in his presidency "
+    excerpt: "The Biden presidency and top Democrats suddenly face a moment of truth with an audacious nation-changing agenda imperiled by the treacherous political math of divided Washington and stiff resistance by pro-Trump Republicans.\n    \n"
+    publishedDateTime: 2021-05-24T09:15:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qlFN2tGDHd4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/24/politics/joe-biden-politics-economy-infrastructure-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/24/politics/joe-biden-politics-economy-infrastructure-congress/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210601182005-01-asylum-seekers-crossing-border-0317-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520151830-biden-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden nominates Cindy McCain as ambassador to the United Nations food agency"
-    excerpt: "President Joe Biden announced Wednesday that he will nominate Cindy McCain as US ambassador to the United Nations Agencies for Food and Agriculture, elevating a longtime friend and Republican ally to an administration post.\n    \n"
-    publishedDateTime: 2021-06-23T22:26:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y9K-jRNkrd8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/23/politics/cindy-mccain-biden-nominee/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/cindy-mccain-biden-nominee/index.html"
+  - title: "Biden set to speak on Hurricane Ida relief efforts"
+    excerpt: "President Joe Biden is set to speak Monday afternoon on Hurricane Ida relief efforts as he meets virtually with a host of leaders involved in the response to the massive storm that has rocked the Gulf Coast.\n    \n"
+    publishedDateTime: 2021-08-30T17:00:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/C5KDCR6ALVw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/30/politics/biden-hurricane-ida/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/30/politics/biden-hurricane-ida/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210828140539-01-biden-fema-briefing-0828-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's presidency of crises pushes White House to its limits"
+    excerpt: "President Joe Biden is confronting an extraordinary confluence of intensifying crises that are pushing a White House already mired in extreme challenges to the limit.\n    \n"
+    publishedDateTime: 2021-08-30T11:20:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N59k_OffQEo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/30/politics/president-joe-biden-hurricane-ida-afghanistan-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/30/politics/president-joe-biden-hurricane-ida-afghanistan-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210827214714-04-biden-afghanistan-bombing-0826-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Point: Why Democrats can't run away from Joe Biden"
+    excerpt: "There's a lot of talk in Democratic circles these days about vulnerable 2022 candidates beginning to distance themselves from President Joe Biden amid his faltering poll numbers on both how he has handled Afghanistan and his overall job performance.\n    \n"
+    publishedDateTime: 2021-08-31T22:32:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yZrYdFQ3jAk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/31/politics/biden-democrats-midterms-afghanistan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/31/politics/biden-democrats-midterms-afghanistan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210826184555-biden-speech-afghanistan-attack-08-26-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to visit storm-ravaged Louisiana"
+    excerpt: "President Joe Biden will visit storm-ravaged Louisiana on Friday as the state attempts to recover from the category 4 Hurricane Ida that plowed into the Gulf Coast over the weekend.\n    \n"
+    publishedDateTime: 2021-09-01T19:10:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ty88n4O_akA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/01/politics/biden-louisiana/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/01/politics/biden-louisiana/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210830141349-02-biden-fema-0830-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: A truly awful week for Joe Biden"
+    excerpt: "This is a week President Joe Biden would like to forget. But Republicans won't let that happen anytime soon.\n    \n"
+    publishedDateTime: 2021-09-03T22:29:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zm-mJUPOLGI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/03/politics/biden-afghanistan-manchin-economy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/03/politics/biden-afghanistan-manchin-economy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210901090413-05-biden-afghanistan-presser-0831-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden visits wounded service members at Walter Reed "
+    excerpt: "President Joe Biden and first lady Jill Biden traveled to Walter Reed medical center in Maryland on Thursday to visit wounded US service members.\n    \n"
+    publishedDateTime: 2021-09-03T01:24:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HtNn_XIoD40/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/02/politics/biden-walter-reed-wounded-service-members-afghanistan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/02/politics/biden-walter-reed-wounded-service-members-afghanistan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210831154223-02-biden-afghanistan-presser-0831-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Supreme Court and Joe Manchin tighten Biden's political straitjacket "
+    excerpt: "Both the premise and promise of Joe Biden's presidency and a possibly brief Democratic grip on Washington are suddenly on the line, as the legacy of past electoral disappointments and harsh realities of power suddenly converge.\n    \n"
+    publishedDateTime: 2021-09-03T04:17:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V_3LQ3rW6cg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/03/politics/biden-supreme-court-abortion-joe-manchin/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/03/politics/biden-supreme-court-abortion-joe-manchin/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210827175245-05-afghanistan-wh-tick-tock-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden set to address the nation following the US withdrawal from Afghanistan"
+    excerpt: "President Joe Biden is slated to address the nation Tuesday on the end of the war in Afghanistan, a day after the last American military planes left the country, concluding the nation's longest war nearly 20 years after it began.\n    \n"
+    publishedDateTime: 2021-08-31T14:05:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ds1Nc-w5znc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/31/politics/biden-afghanistan-withdrawal-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/31/politics/biden-afghanistan-withdrawal-speech/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190925120923-cindy-mccain-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210829171242-03-biden-afghanistan-0829-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden bans certain solar panel materials from Chinese company over forced labor "
-    excerpt: "The Biden administration on Thursday announced it was blocking the import of certain materials that are used in solar panels from a company in Xinjiang, China, over allegations of forced labor.\n    \n"
-    publishedDateTime: 2021-06-24T14:28:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QYGdYyUErd8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/24/politics/solar-materials-china-forced-labor/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/politics/solar-materials-china-forced-labor/index.html"
+  - title: "Biden to travel to New York and New Jersey to survey Hurricane Ida storm damage"
+    excerpt: "President Joe Biden will travel to New Jersey and New York next week to survey widespread storm damage caused by the remnants of Hurricane Ida, according to the White House.\n    \n"
+    publishedDateTime: 2021-09-04T16:38:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bAeeQuGZK4g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/04/politics/joe-biden-hurricane-ida-new-york-new-jersey-visit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/04/politics/joe-biden-hurricane-ida-new-york-new-jersey-visit/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 170
+    quality: 171
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180515120442-white-house-exterior-05-13-2018-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210903172737-04-ny-storm-aftermath-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden set to push more Americans to get Covid-19 vaccine in North Carolina speech"
-    excerpt: "President Joe Biden is set to highlight the importance of getting vaccinated against Covid-19 and kick off a community canvassing event during a speech in Raleigh, North Carolina, on Thursday afternoon, as his administration continues its push to get American vaccinated against the virus.\n    \n"
-    publishedDateTime: 2021-06-24T17:28:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PgGWUFPvMC4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/24/politics/president-biden-raleigh-coronavirus-vaccinations/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/politics/president-biden-raleigh-coronavirus-vaccinations/index.html"
+  - title: "America's Afghan war is over but the battle for Biden's legacy is only just beginning"
+    excerpt: "America's chaotic, humiliating -- yet, at times, heroic -- final retreat from its defeat in Afghanistan will resonate for years after the last military jet lifted off from Kabul at 11:59 p.m. local time on Monday, ending the country's longest war.\n    \n"
+    publishedDateTime: 2021-08-31T11:24:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jHD_asenfd4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/31/politics/americas-afghan-war-is-over-joe-biden-legacy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/31/politics/americas-afghan-war-is-over-joe-biden-legacy/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 170
+    quality: 168
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616203048-joe-biden-infrastructure-congress-deal-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210831065728-biden-hurricane-ida-0830-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration will send 3 million vaccines to Indonesia amid Covid-19 surge"
-    excerpt: "The White House will send three million doses of Moderna's coronavirus vaccine to Indonesia Friday, in what will amount to one of the largest single shipments yet, a White House official told CNN.\n    \n"
-    publishedDateTime: 2021-07-09T11:43:46Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rM0CAc4jGiA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/biden-vaccine-indonesia/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/biden-vaccine-indonesia/index.html"
+  - title: "Top Biden economic aides join Senate Democrat call in push before debt ceiling fight"
+    excerpt: "Two top Biden administration economic officials joined a call with top Senate Democratic aides on Wednesday as the White House pressed to maintain unified strategy for the looming fight over the debt ceiling, according to multiple people familiar with the call.\n    \n"
+    publishedDateTime: 2021-09-01T19:55:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9EDHPzi3m_s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/01/politics/debt-ceiling-fight-joe-biden-aides-senate-democrats/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/01/politics/debt-ceiling-fight-joe-biden-aides-senate-democrats/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 169
+    quality: 168
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201020163629-white-house-file-1004-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210714142031-03-biden-us-capitol-schumer-0714-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden joins the world leaders club at G7 with call for wartime effort against Covid-19"
-    excerpt: "The leaders of the world's advanced economies will gather Friday on the Cornish coast for the first time since the global coronavirus pandemic began, welcoming President Joe Biden as a new member who arrived here intent on restoring traditional American alliances.\n    \n"
-    publishedDateTime: 2021-06-11T04:01:08Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MaV_1xhaL9E/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/11/politics/president-biden-g7-summit-day-1/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/11/politics/president-biden-g7-summit-day-1/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610141823-08-biden-overseas-0610-uk-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden moves closer to filling critical cyber roles as administration is tested by attacks"
-    excerpt: "Two of the senior officials expected to round out President Joe Biden's cyber team will face lawmakers on Thursday for their confirmation hearing as the administration grapples with how to deal with the growing number of foreign ransomware attacks against American companies and organizations.\n    \n"
-    publishedDateTime: 2021-06-10T13:06:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7g96jKD9zVw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/politics/biden-administration-cyber-attacks/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/biden-administration-cyber-attacks/index.html"
+  - title: "Amid turmoil and grief, Jill Biden travels to visit face-to-face with military families "
+    excerpt: "First lady Jill Biden on Wednesday traveled to the Marine Corps Base at Camp Lejeune in Jacksonville, North Carolina, a trip that, according to the White House, included meetings with military families.\n    \n"
+    publishedDateTime: 2021-09-01T19:41:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aN3G_v6T1bo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/01/politics/jill-biden-military-families-visit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/01/politics/jill-biden-military-families-visit/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 166
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610131048-chris-inglis-file-2013-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210901152946-01-jill-biden-dover-0829-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration intends to relocate thousands of Afghans who helped US while they apply for visas"
-    excerpt: "The Biden administration intends to relocate thousands of Afghan nationals who have worked alongside US diplomats and troops in order to protect their safety while they wait for their visa applications to be approved, senior administration officials say.\n    \n"
-    publishedDateTime: 2021-06-24T14:13:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WLHTHxVVV0U/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/24/politics/afghanistan-translators-relocate/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/politics/afghanistan-translators-relocate/index.html"
+  - title: "Biden blasts Texas' 6-week abortion ban as 'extreme' and violation of a constitutional right"
+    excerpt: "President Joe Biden on Wednesday blasted the Texas state law that bans abortion after as early as six weeks into pregnancy as \"extreme\" and said it \"blatantly violates\" a woman's constitutional right to have an abortion, as affirmed by the landmark Supreme Court decision Roe v. Wade.\n    \n"
+    publishedDateTime: 2021-09-01T17:20:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mv0zUJGHP-Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/01/politics/biden-texas-abortion-ban/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/01/politics/biden-texas-abortion-ban/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 159
+    quality: 164
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210419123853-us-marine-afghan-interpreter-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210901090413-05-biden-afghanistan-presser-0831-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Democratic leaders seek to placate liberals by kicking off effort to pass Biden agenda along party lines"
-    excerpt: "Senate Democratic leaders, facing skepticism from liberals about the direction of bipartisan infrastructure talks, plan to formally begin a process that would allow them to pass President Joe Biden's signature policy agenda along straight party lines.\n    \n"
-    publishedDateTime: 2021-06-15T21:00:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5Po7-EmHWxI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/schumer-biden-agenda-infrastructure/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/schumer-biden-agenda-infrastructure/index.html"
+  - title: "Ukrainian President to accomplish years-long quest for a White House visit with Biden meeting"
+    excerpt: "Ukrainian President Volodymyr Zelensky is set to meet with President Joe Biden in Washington on Wednesday, the culmination of a years-long struggle to get a White House visit locked up that -- at one point -- saw him at the center of US politics.\n    \n"
+    publishedDateTime: 2021-09-01T09:24:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JNTXgcM1yY0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/01/politics/ukraine-volodymyr-zelensky-biden-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/01/politics/ukraine-volodymyr-zelensky-biden-white-house/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 158
+    quality: 164
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212164710-01-schumer-trump-impeachment-trial-0212-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210831203124-ukraine-volodymyr-zelensky-biden-white-house-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "First on CNN: Biden administration moves to make gender confirmation surgery available through Veteran Affairs health care system"
-    excerpt: "Veterans Affairs Secretary Denis McDonough is moving to make gender confirmation surgery available to transgender veterans through Veterans Affairs health care coverage, according to a VA department spokesperson.\n    \n"
-    publishedDateTime: 2021-06-19T14:10:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cb3yWwYVzZ0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/19/politics/veterans-affairs-gender-confirmation-surgery/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/19/politics/veterans-affairs-gender-confirmation-surgery/index.html"
+  - title: "Biden launches federal effort to respond to Texas law as he faces pressure to protect abortion"
+    excerpt: "A new Texas law that effectively bans most abortions prompted President Joe Biden on Wednesday to use a word he'd entirely avoided as president: \"Abortion.\"\n    \n"
+    publishedDateTime: 2021-09-02T15:45:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WgIyzE4aEY8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/02/politics/biden-abortion/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/02/politics/biden-abortion/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 146
+    quality: 163
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210619093848-denis-mcdonough-03-04-2021-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210831155412-04-biden-afghanistan-presser-0831-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "U.S. Supreme Court seeks Biden views on Harvard admissions dispute"
-    excerpt: "The lawsuit accused Harvard of discriminating against Asian American applicants in violation of a landmark 1964 federal civil rights law."
-    publishedDateTime: 2021-06-15T16:19:00Z
-    webUrl: "https://www.nbcnews.com/news/asian-america/u-s-supreme-court-seeks-biden-views-harvard-admissions-dispute-n1270882"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1270882"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1270882"
+  - title: "Biden's first August as president shreds his momentum, tosses daunting new challenges in his path"
+    excerpt: "President Joe Biden tried twice last month to get to his beach house on the Delaware coast. He never made it.\n    \n"
+    publishedDateTime: 2021-09-01T11:33:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4uo_pIWCodE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/01/politics/joe-biden-august/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/01/politics/joe-biden-august/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210831004828-06-biden-afghanistan-0826-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to highlight effects of climate change during visit to flood-ravaged New York and New Jersey"
+    excerpt: "President Joe Biden is scheduled to visit New York and New Jersey on Tuesday to survey the damage brought by the remnants of Hurricane Ida, his second trip in the storm's wake since it plowed through the eastern half of the United States last week.\n    \n"
+    publishedDateTime: 2021-09-07T11:28:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q0xYX3YCHgw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/07/politics/joe-biden-hurricane-ida-new-york-new-jersey/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/07/politics/joe-biden-hurricane-ida-new-york-new-jersey/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210903170033-02-biden-louisiana-0903-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's chief of staff won't say when booster shots will be available but commits to following the science"
+    excerpt: "White House chief of staff Ron Klain would not give a specific date as to when Covid-19 booster shots would be available to the public but committed to following the science and waiting for full approval from health officials before making a third dose available to those who seek one.\n    \n"
+    publishedDateTime: 2021-09-05T13:21:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uJtqnxNG6eE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/05/politics/ron-klain-covid-vaccine-booster-shots-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/05/politics/ron-klain-covid-vaccine-booster-shots-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210226160610-02-ron-klain-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "White House thanks interpreter in hiding who helped rescue Biden in 2008 and commits to evacuating Afghan partners"
+    excerpt: "White House press secretary Jen Psaki on Tuesday praised the Afghan interpreter in hiding who helped rescue then-Sen. Joe Biden during a 2008 rescue mission as she reaffirmed the US' commitment to helping Afghan allies.\n    \n"
+    publishedDateTime: 2021-09-01T11:31:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c99kV__AgHo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/31/politics/afghan-translator-biden-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/31/politics/afghan-translator-biden-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 153
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210831154223-02-biden-afghanistan-presser-0831-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden says he'll press Congress on infrastructure after wildfires and Ida wreak havoc on US: 'The climate crisis is here'"
+    excerpt: "President Joe Biden said Thursday he had spoken to the governors of New York and New Jersey after remnants of Hurricane Ida caused dangerous flash floods and tornadoes across the Northeast.\n    \n"
+    publishedDateTime: 2021-09-02T17:39:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VY4f_rfj4Mc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/02/politics/biden-hurricane-ida/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/02/politics/biden-hurricane-ida/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210902104410-19-ida-storm-0902-new-york-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden turns to nation building at home, but the political threats he left behind in Afghanistan could come back to haunt him"
+    excerpt: "President Joe Biden may have ended the \"forever war\" but the dangerous loose ends he left behind in Afghanistan could still thwart his attempt to throw everything at his top priority domestic goals.\n    \n"
+    publishedDateTime: 2021-09-01T11:32:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uxC5ygrXpbs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/01/politics/afghanistan-fall-out-may-haunt-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/01/politics/afghanistan-fall-out-may-haunt-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 148
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210901090413-05-biden-afghanistan-presser-0831-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "As Covid goes, so goes Joe Biden’s presidency"
+    excerpt: "In a new CNBC poll, approval of President Biden's handling of the coronavirus is 53 percent, down from 62 percent in April, when cases were falling."
+    publishedDateTime: 2021-08-08T13:07:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/as-covid-goes-so-goes-joe-biden-s-presidency-118138949659"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo118138949659"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo118138949659"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_23/3480787/210607-joe-biden-al-0813.jpg"
-        width: 2500
-        height: 1708
-        isCached: true
-  - title: "Biden pushes for more Covid vaccination and equity in North Carolina speech"
-    excerpt: "President Joe Biden continues to push for more people to be fully vaccinated against Covid-19 and called for celebrating “independence from the virus” on July 4th."
-    publishedDateTime: 2021-06-24T23:11:00Z
-    webUrl: "https://www.nbcnews.com/video/biden-pushes-for-more-covid-vaccination-and-equity-in-north-carolina-speech-115424325609"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo115424325609"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo115424325609"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 133
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/f_mo_la_biden_vaccines_210624.jpg"
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_08/1628427876601_mtp_clip_a2_210808_1920x1080.jpg"
         width: 1920
         height: 1080
         isCached: true
-  - title: "Covid-19 Live Updates: Biden Administration Expected to Extend Federal Eviction Moratorium by a Month"
-    excerpt: "A panel of experts advising the C.D.C. is meeting to address reports of relatively minor cardiac issues in a small number of vaccinated youth. And the Delta variant is expected to make up 90% of E.U."
-    publishedDateTime: 2021-06-23T15:14:00Z
-    webUrl: "https://www.nytimes.com/live/2021/06/23/world/covid-vaccine-coronavirus-mask"
-    ampWebUrl: "https://www.nytimes.com/live/2021/06/23/world/covid-vaccine-coronavirus-mask.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/06/23/world/covid-vaccine-coronavirus-mask.amp.html"
+  - title: "How Does Biden Recover From His Week From Hell?"
+    excerpt: "If we had a parliamentary system, Biden would probably lose power in a no-confidence vote. As it is, I think he may have wrecked his own presidency when it’s barely begun. How does he recover? Gail: Well,"
+    publishedDateTime: 2021-08-30T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/08/30/opinion/biden-afghanistan-covid.html"
+    ampWebUrl: "https://www.nytimes.com/2021/08/30/opinion/biden-afghanistan-covid.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/30/opinion/biden-afghanistan-covid.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 120
+    quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/06/23/us/live-blog-20210623-covid-vaccine-coronavirus-mask-header/live-blog-20210623-covid-vaccine-coronavirus-mask-header-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/08/30/opinion/30conversation-use/merlin_193879332_3c494cf9-787e-4f63-a0e0-3572e5d09d6a-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden's coming court conundrum"
+    excerpt: "President JOE BIDEN’s Supreme Court commission is set to meet for the first time on Wednesday, starting a clock that will require it to produce a report on reforming the court by Nov. 15. Some of the most ardent advocates of expanding the nation’s highest court couldn’t be less excited."
+    publishedDateTime: 2021-05-17T23:03:00Z
+    webUrl: "https://www.politico.com/newsletters/west-wing-playbook/2021/05/17/bidens-coming-court-conundrum-492880"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "jpUVuXIJUCR9R/VLzlmb2tAzHfHCt92xcx4ujpExg81CSbwmVSwBkvyD9Xq3rRHEkbm5I2BhHiJqhWsQBiZHjTrKVxaplsQWNlXQngNj1nth+s9IhS41oU4trsWYQLdZCyQigZpxHAIETxW/Xu3IctNyVtP3XcpA0cVwv4q+roWVoG+gphd6vxohvyjpUl0ivJ5Y5OYngCQrnazHR6L1OuEJ3cw8gG38bQzh9u5jmegyXyVLFMyEUz82ciIBEsEQQhLOlu++vC2S0h/pNWJ6JAwsxWFY5ybt1IWEvQLfQ1QuymxXRuN7rAlUz4l11KRRXSs+ECB6T9YlbqTEXYBUXqI89j7Nn68BVnV5ZluvTBk=;aKOc/SwSf43QpEfTKeE+Nw=="

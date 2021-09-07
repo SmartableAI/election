@@ -2,6 +2,58 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2021-05-26-donald-trump-faces-new-grand-jury-as-manhattan-da-ramps-up-criminal-probe.md",
+      "title": "Donald Trump Faces New Grand Jury as Manhattan DA Ramps Up Criminal Probe",
+      "excerpt": "The grand jury will consider different matters including Trump's alleged hush-money payments, improper property valuations and employee compensation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-faces-new-grand-jury-manhattan-da-ramps-criminal-probe-1594844",
+      "originalUrl": "https://www.newsweek.com/donald-trump-faces-new-grand-jury-manhattan-da-ramps-criminal-probe-1594844",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 304,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1806845/donald-trump-grand-jury.jpg",
+          "width": 2500,
+          "height": 1737,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-faces-new-grand-jury-manhattan-da-ramps-criminal-probe-1594844?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-faces-new-grand-jury-manhattan-da-ramps-criminal-probe-1594844?amp=1",
+      "publishedDateTime": "2021-05-25T16:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-biden-defends-decision-not-to-sanction-company-building-controversial-russian-gas-pipeline.md",
       "title": "Biden defends decision not to sanction company building controversial Russian gas pipeline",
       "excerpt": "President Joe Biden on Tuesday stood by his decision not to sanction the company in charge of building Russia's Nord Stream 2 gas pipeline, characterizing the move as protecting relationships with European allies.\n    \n",
@@ -1289,62 +1341,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-23-biden-keeps-saying-follow-the-science-but-how-often-does-he.md",
-      "title": "Biden keeps saying ‘follow the science,’ but how often does he?",
-      "excerpt": "It’s a line President Biden used on the 2020 presidential campaign trail and has returned to many times, including in nationally televised remarks after taking office and in March to staffers at the Centers for Disease Control and Prevention, particularly when addressing the coronavirus pandemic or climate",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zV1OTKEsr_w/biden-keeps-saying-follow-the-science-but-how-often-does-he",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zV1OTKEsr_w/biden-keeps-saying-follow-the-science-but-how-often-does-he",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 375,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13a2b366-5701-45a7-abcd-a9e8ad9b4c50/ee531cb7-ad01-45f9-a3ad-b5e69ea6dbcf/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-keeps-saying-follow-the-science-but-how-often-does-he.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-keeps-saying-follow-the-science-but-how-often-does-he.amp",
-      "publishedDateTime": "2021-05-23T11:24:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

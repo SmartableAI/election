@@ -2,6 +2,62 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2021-05-04-biden-thanks-conservatives-like-mcconnell-for-pushing-vaccines.md",
+      "title": "Biden thanks 'conservatives' like McConnell for pushing vaccines",
+      "excerpt": "President Biden thanked Republicans pushing vaccination in a Covid-19 briefing Tuesday, specifically citing Sen. Minority Leader Mitch McConnell, R-Ky.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vBGLv4Xgx4w/biden-thanks-conservatives-mcconnell-pushing-vaccines",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vBGLv4Xgx4w/biden-thanks-conservatives-mcconnell-pushing-vaccines",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/Biden-1.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-thanks-conservatives-mcconnell-pushing-vaccines.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-thanks-conservatives-mcconnell-pushing-vaccines.amp",
+      "publishedDateTime": "2021-05-04T14:12:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-biden-says-his-hope-and-expectation-is-to-meet-putin-on-upcoming-europe-trip.md",
       "title": "Biden says his 'hope and expectation' is to meet Putin on upcoming Europe trip",
       "excerpt": "President Joe Biden said Tuesday it is his \"hope and expectation\" to meet with his Russian counterpart during a planned visit to Europe in June, a high-stakes diplomatic encounter he hopes can restore a degree of predictability to an increasingly fraught relationship.\n    \n",
@@ -1269,58 +1325,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-02-us-bus-companies-are-poised-to-reap-the-rewards-of-joe-bidens-174-billion-ev-plan-if-they-can-crack-3-key-challenges.md",
-      "title": "US bus companies are poised to reap the rewards of Joe Biden's $174 billion EV plan — if they can crack 3 key challenges",
-      "excerpt": "Few industries were hit harder by the COVID-19 pandemic than bus companies, but White House plans for electrification could cause it to boom.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/6-bus-companies-benefit-from-bidens-174-billion-ev-plan-2021-5",
-      "originalUrl": "https://www.businessinsider.com/6-bus-companies-benefit-from-bidens-174-billion-ev-plan-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/608c541335c46f0018c0bb06?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-02T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

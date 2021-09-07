@@ -2,6 +2,62 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-06-18-wv-ag-morrisey-sounds-alarm-on-fentanyl-overdose-surge-points-to-biden-border-policies.md",
+      "title": "WV AG Morrisey sounds alarm on fentanyl overdose surge, points to Biden border policies",
+      "excerpt": "West Virginia Attorney General Patrick Morrisey believes President Biden's decision to reverse the Trump administration's \"remain in Mexico\" policy has led to a spike in fentanyl trafficking and overdoses within the U.S.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RlRlk9k_ytk/west-virginia-ag-morrisey-fentanyl-border-crisis",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RlRlk9k_ytk/west-virginia-ag-morrisey-fentanyl-border-crisis",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f4825fdb-4550-4464-8fce-f63ed9e63f15/b300c443-2381-4d0a-9e0c-18260b6b831e/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/west-virginia-ag-morrisey-fentanyl-border-crisis.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/west-virginia-ag-morrisey-fentanyl-border-crisis.amp",
+      "publishedDateTime": "2021-06-18T12:17:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-dem-blasts-bidens-decision-to-extend-canadian-border-restrictions-another-month-bulls-.md",
       "title": "Dem blasts Biden's decision to extend Canadian border restrictions another month: 'bulls---'",
       "excerpt": "New York lawmakers are irate over the White House’s decision to renew the Canada border shutdown for yet another month.",
@@ -935,7 +991,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 453,
+      "heat": 433,
       "tags": null,
       "images": [
         {
@@ -1306,58 +1362,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-trump-also-writing-a-book-like-jared-kushner-its-a-fact-checking-nightmare.md",
-      "title": "Trump Also Writing A Book Like Jared Kushner: It's 'A Fact-Checking Nightmare'",
-      "excerpt": "Trump said he was \"writing like crazy\" to complete the \"book of all books\" Publishers from the Big Five said they were not aware of any book deal with Trump Jared Kushner has also secured a publishing deal for a Trump-era memoir Jared Kushner,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/trump-also-writing-book-jared-kushner-its-fact-checking-nightmare-3228062",
-      "originalUrl": "https://www.ibtimes.com/trump-also-writing-book-jared-kushner-its-fact-checking-nightmare-3228062",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/as-president-donald-trump-repeatedly-attacked-democrats-including.jpg",
-          "width": 1024,
-          "height": 657,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/trump-also-writing-book-jared-kushner-its-fact-checking-nightmare-3228062?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-also-writing-book-jared-kushner-its-fact-checking-nightmare-3228062?amp=1",
-      "publishedDateTime": "2021-06-16T20:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

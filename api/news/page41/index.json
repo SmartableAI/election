@@ -2,6 +2,62 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-06-12-judge-halts-bidens-race-based-aid-for-farmers-says-challenge-is-likely-to-succeed.md",
+      "title": "Judge halts Biden's race-based aid for farmers, says challenge is 'likely to succeed'",
+      "excerpt": "A Wisconsin federal judge ordered a temporary halt to a $4 billion race-based federal relief program for farmers on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s0vqCpgrS0s/biden-race-based-aid-farmers-halted",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s0vqCpgrS0s/biden-race-based-aid-farmers-halted",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/720/405/Food-and-Farm-Robots-_Garc.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-race-based-aid-farmers-halted.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-race-based-aid-farmers-halted.amp",
+      "publishedDateTime": "2021-06-12T12:44:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-12-mike-pence-has-sold-out-pennlive-letters.md",
       "title": "Mike Pence has sold out | PennLive letters",
       "excerpt": "Pence is willing to forgive and forget despite Trump’s stunning disloyalty because he has designs on being elected president in 2024 or 2028.",
@@ -1267,49 +1323,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-david-m-shribman-pence-hasnt-gone-away.md",
-      "title": "David M. Shribman: Pence hasn't gone away",
-      "excerpt": "Mike Pence is determined not to be the modern version of William R. King, William A. Wheeler or Charles W. Fairbanks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hastingstribune.com/david-m-shribman-pence-hasnt-gone-away/article_b0b8e996-ca36-11eb-a591-27270006269c.html",
-      "originalUrl": "https://www.hastingstribune.com/david-m-shribman-pence-hasnt-gone-away/article_b0b8e996-ca36-11eb-a591-27270006269c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/hastingstribune.com/content/tncms/assets/v3/editorial/b/08/b083e46c-fa4e-11e9-b175-9bbfa0456bc7/5db83c86c6ab0.image.jpg?resize=431%2C630",
-          "width": 431,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T14:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hastings Tribune",
-        "domain": "hastingstribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

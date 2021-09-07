@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/28/politics/what-matters-biden-budge
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/28/politics/what-matters-biden-budget/index.html"
 type: article
 quality: 175
-heat: 475
+heat: 455
 published: true
 
 provider:
@@ -124,22 +124,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716101316-02-biden-0713-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: A truly awful week for Joe Biden"
-    excerpt: "This is a week President Joe Biden would like to forget. But Republicans won't let that happen anytime soon.\n    \n"
-    publishedDateTime: 2021-09-03T22:29:38Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zm-mJUPOLGI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/03/politics/biden-afghanistan-manchin-economy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/03/politics/biden-afghanistan-manchin-economy/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210901090413-05-biden-afghanistan-presser-0831-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

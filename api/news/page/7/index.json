@@ -2,6 +2,63 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-08-24-harris-rebukes-china-in-major-speech-on-indo-pacific.md",
+      "title": "Harris rebukes China in major speech on Indo-Pacific",
+      "excerpt": "U.S. Vice President Kamala Harris delivered a sharp rebuke to China for its incursions in the South China Sea, warning its actions there amount to “coercion” and “intimidation” and affirming that the U.S. will support its allies in the region against Beijing’s advances.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8KsckFBINlk/harris-rebukes-china-major-speech-indo-pacific",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8KsckFBINlk/harris-rebukes-china-major-speech-indo-pacific",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 505,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/720/405/AP21235405692376.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/harris-rebukes-china-major-speech-indo-pacific.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-rebukes-china-major-speech-indo-pacific.amp",
+      "publishedDateTime": "2021-08-24T01:04:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-hostile-trump-mob-sends-gop-rep-brooks-into-panicked-backpedal-on-moving-on-from-2020.md",
       "title": "Hostile Trump mob sends GOP Rep. Brooks into panicked backpedal on moving on from 2020",
       "excerpt": "Rachel Maddow shares video of Republican Congressman Mo Brooks being roundly booed by the audience at a Donald Trump rally in Alabama after Brooks suggested they move on from Trump's 2020 loss and focus on future elections.",
@@ -1048,7 +1105,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 615,
+      "heat": 595,
       "tags": null,
       "images": [
         {
@@ -1226,58 +1283,6 @@
         "name": "WBHM",
         "domain": "wbhm.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-22-tv-tonight-ruby-wax-revisits-her-time-with-donald-trump.md",
-      "title": "TV tonight: Ruby Wax revisits her time with Donald Trump",
-      "excerpt": "A nasty encounter with Donald Trump and much more in this entertaining new series. Plus: The Handmaid’s Tale ends. Here’s what to watch this evening",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/tv-and-radio/2021/aug/22/tv-tonight-ruby-wax-revisits-her-time-with-donald-trump",
-      "originalUrl": "https://www.theguardian.com/tv-and-radio/2021/aug/22/tv-tonight-ruby-wax-revisits-her-time-with-donald-trump",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/c78a9408605f7845ddde71a741616a328447b218/0_86_576_346/master/576.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2cb092b89b4594a163269520a996506c",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/tv-and-radio/2021/aug/22/tv-tonight-ruby-wax-revisits-her-time-with-donald-trump",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/tv-and-radio/2021/aug/22/tv-tonight-ruby-wax-revisits-her-time-with-donald-trump",
-      "publishedDateTime": "2021-08-21T21:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -779,20 +779,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Biden's coming court conundrum"
-    excerpt: "President JOE BIDEN’s Supreme Court commission is set to meet for the first time on Wednesday, starting a clock that will require it to produce a report on reforming the court by Nov. 15. Some of the most ardent advocates of expanding the nation’s highest court couldn’t be less excited."
-    publishedDateTime: 2021-05-17T23:03:00Z
-    webUrl: "https://www.politico.com/newsletters/west-wing-playbook/2021/05/17/bidens-coming-court-conundrum-492880"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
 
 secured: "JaPj3Cww/96b+8t68lU9aneUUorYKH2we+pFd5gtcHH+3ML+uePXPCrmeDIvYV17UwRulrAtW5XltF+Wg6BKibdmyRFWtsVtWzmWKE0AX8ZlMLRfJKBLUWmMFOo7VAAF5vdmoLLNyC/kRozojda9G7ajh5GtNLuDB1wExf3KSafPaZn6jWV+Auo8ZJsSoTnwLbIUimY6lLztKcV6E9xZp/wlpG2RltjTmkdlu0KjQpjiKfGZYMAhliE6+4iNoVoF/PvLcFz/xlQ5msWb4ddQroDWDGy/PbNZFXsLctoWz+Fc64WgJwAnUeMmMPOZSDnz5DuOXJM85p16nJMYDAirAMydj4O+8/H+QcCASqQMhTE=;mUTMZJmEbN/BO+3CTKBhKQ=="
 ---

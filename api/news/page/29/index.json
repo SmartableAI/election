@@ -2,6 +2,58 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-07-05-clyburn-trump-could-be-called-to-testify-before-jan-6-panel.md",
+      "title": "Clyburn: Trump could be called to testify before Jan. 6 panel",
+      "excerpt": "House Majority Whip James Clyburn (D-S.C.) said Sunday that former President Trump could be called to testify before the new House select committee investigating the Jan.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/house/561534-clyburn-trump-could-be-called-to-testify-before-capitol-riot-panel",
+      "originalUrl": "https://thehill.com/homenews/house/561534-clyburn-trump-could-be-called-to-testify-before-capitol-riot-panel",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/clyburnjames_061721gn_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/house/561534-clyburn-trump-could-be-called-to-testify-before-capitol-riot-panel?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/561534-clyburn-trump-could-be-called-to-testify-before-capitol-riot-panel?amp",
+      "publishedDateTime": "2021-07-04T12:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-05-mike-lindell-promises-cyber-symposium-on-election-fraud-will-change-history-reinstate-trump.md",
       "title": "Mike Lindell Promises 'Cyber Symposium' on Election Fraud Will 'Change History,' Reinstate Trump",
       "excerpt": "\"These three days in August are gonna change history…you can't change these packet captures, they're forever captured in time.\"",
@@ -1268,58 +1320,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-nightmare-scenario-review-trump-covid-and-a-lasting-national-trauma.md",
-      "title": "Nightmare Scenario review: Trump, Covid and a lasting national trauma",
-      "excerpt": "Yasmeen Abutaleb and Damian Paletta of the Washington Post show how bad things got – and how they could have been worse",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/books/2021/jul/03/nightmare-scenario-review-trump-covid-yasmeen-abutaleb-damian-paletta-washington-post-book",
-      "originalUrl": "https://www.theguardian.com/books/2021/jul/03/nightmare-scenario-review-trump-covid-yasmeen-abutaleb-damian-paletta-washington-post-book",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/b1d77632cd9dc874af22dc7154303ea88e5dd768/0_204_3715_2229/master/3715.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=70f259d6c4d213cee0b638144f96acff",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/books/2021/jul/03/nightmare-scenario-review-trump-covid-yasmeen-abutaleb-damian-paletta-washington-post-book",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2021/jul/03/nightmare-scenario-review-trump-covid-yasmeen-abutaleb-damian-paletta-washington-post-book",
-      "publishedDateTime": "2021-07-02T22:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

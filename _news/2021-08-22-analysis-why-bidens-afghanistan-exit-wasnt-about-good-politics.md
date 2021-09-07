@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/22/politics/biden-afghanistan-politi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/22/politics/biden-afghanistan-politics-and-polling/index.html"
 type: article
 quality: 175
-heat: 615
+heat: 595
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200206104912-02-adam-schiff-lead-image-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden set to address the nation following the US withdrawal from Afghanistan"
-    excerpt: "President Joe Biden is slated to address the nation Tuesday on the end of the war in Afghanistan, a day after the last American military planes left the country, concluding the nation's longest war nearly 20 years after it began.\n    \n"
-    publishedDateTime: 2021-08-31T14:05:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ds1Nc-w5znc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/31/politics/biden-afghanistan-withdrawal-speech/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/31/politics/biden-afghanistan-withdrawal-speech/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210829171242-03-biden-afghanistan-0829-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

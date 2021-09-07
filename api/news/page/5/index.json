@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-29-howie-carr-think-joe-biden-is-bad-check-out-the-current-line-of-succession.md",
+      "title": "Howie Carr: Think Joe Biden is bad? Check out the current line of succession",
+      "excerpt": "Before you heed those calls to remove Dementia Joe Biden via either impeachment or the 25th amendment, remember the old saying: Be careful what you wish for.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonherald.com/2021/08/28/howie-carr-think-joe-biden-is-bad-check-out-the-current-line-of-succession/",
+      "originalUrl": "https://www.bostonherald.com/2021/08/28/howie-carr-think-joe-biden-is-bad-check-out-the-current-line-of-succession/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bostonherald.com/wp-content/uploads/2021/08/AP21236785596020.jpg?w=1024&#038;h=683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bostonherald.com/2021/08/28/howie-carr-think-joe-biden-is-bad-check-out-the-current-line-of-succession/amp/",
+      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/08/28/howie-carr-think-joe-biden-is-bad-check-out-the-current-line-of-succession/amp/",
+      "publishedDateTime": "2021-08-28T13:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Boston Herald",
+        "domain": "bostonherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-28-trump-insists-he-would-have-stopped-the-isis-k-bombing-at-kabul-airport-but-kept-calling-the-terror-group-isis-x.md",
       "title": "Trump insists he would have stopped the ISIS-K bombing at Kabul airport but kept calling the terror group 'ISIS-X'",
       "excerpt": "Speaking to Sean Hannity on Fox News, Trump said that the attack wouldn't \"would not have happened if I were your president.\"",
@@ -918,7 +961,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 435,
+      "heat": 335,
       "tags": null,
       "images": [
         {
@@ -1187,49 +1230,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-lz-granderson-the-election-is-over-in-arizona-the-trump-campaign-continues.md",
-      "title": "LZ Granderson: The election is over. In Arizona, the Trump campaign continues",
-      "excerpt": "I would like to share with you a brief conversation about politics that I didn't want to have. But the man in the Arizona bar sitting a couple of stools",
-      "sourceUrl": null,
-      "webUrl": "https://www.bozemandailychronicle.com/ap_news/lz-granderson-the-election-is-over-in-arizona-the-trump-campaign-continues/article_cdb3fb76-1ebe-5f91-a594-75a4f2ef043f.html",
-      "originalUrl": "https://www.bozemandailychronicle.com/ap_news/lz-granderson-the-election-is-over-in-arizona-the-trump-campaign-continues/article_cdb3fb76-1ebe-5f91-a594-75a4f2ef043f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-26T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bozeman Daily Chronicle",
-        "domain": "bozemandailychronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

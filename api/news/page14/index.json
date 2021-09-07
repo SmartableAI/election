@@ -2,6 +2,62 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-08-04-mike-carey-endorsed-by-trump-will-win-ohio-gop-special-primary-cnn-projects.md",
+      "title": "Mike Carey, endorsed by Trump, will win Ohio GOP special primary, CNN projects",
+      "excerpt": "Mike Carey, a coal lobbyist who was endorsed by former President Donald Trump, will win the Republican special primary in Ohio's 15th Congressional District, CNN projects.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1M4mFdm3Wyg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1M4mFdm3Wyg/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210803152112-02-mike-carey-0626-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/03/politics/ohio-15-special-election-results/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/03/politics/ohio-15-special-election-results/index.html",
+      "publishedDateTime": "2021-08-03T18:45:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-former-atf-agents-slam-biden-nominees-divisive-gun-control-agenda.md",
       "title": "Former ATF agents slam Biden nominee's 'divisive gun control agenda'",
       "excerpt": "Several former agents of the Bureau of Alcohol, Tobacco, Firearms and Explosives are publicly urging the Biden administration not to confirm former agent David Chipman to lead the agency.",
@@ -985,7 +1041,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 395,
+      "heat": 375,
       "tags": null,
       "images": [
         {
@@ -1299,63 +1355,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-drone-footage-of-migrants-at-texas-bridge-an-absolute-catastrophe-from-biden-republican-says.md",
-      "title": "Drone footage of migrants at Texas bridge an 'absolute catastrophe' from Biden, Republican says",
-      "excerpt": "Troubling drone footage emerged online Sunday that reportedly showed up to 1,000 migrants being held by border patrol in Mission, Texas, prompted criticism from Republicans who said the footage underscores the crisis at the border.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/drone-footage-of-migrants-from-texas-bridge-an-absolute-catastrophe",
-      "originalUrl": "https://www.foxnews.com/politics/drone-footage-of-migrants-from-texas-bridge-an-absolute-catastrophe",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/drone-footage-of-migrants-from-texas-bridge-an-absolute-catastrophe.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/drone-footage-of-migrants-from-texas-bridge-an-absolute-catastrophe.amp",
-      "publishedDateTime": "2021-08-02T02:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/26/politics/republicans-kabul-biden/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/26/politics/republicans-kabul-biden/index.html"
 type: article
 quality: 175
-heat: 435
+heat: 335
 published: true
 
 provider:
@@ -60,70 +60,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210826172926-02-biden-afghanistan-bombings-0826-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden set to speak on Hurricane Ida relief efforts"
-    excerpt: "President Joe Biden is set to speak Monday afternoon on Hurricane Ida relief efforts as he meets virtually with a host of leaders involved in the response to the massive storm that has rocked the Gulf Coast.\n    \n"
-    publishedDateTime: 2021-08-30T17:00:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/C5KDCR6ALVw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/30/politics/biden-hurricane-ida/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/30/politics/biden-hurricane-ida/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210828140539-01-biden-fema-briefing-0828-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden's presidency of crises pushes White House to its limits"
-    excerpt: "President Joe Biden is confronting an extraordinary confluence of intensifying crises that are pushing a White House already mired in extreme challenges to the limit.\n    \n"
-    publishedDateTime: 2021-08-30T11:20:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N59k_OffQEo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/30/politics/president-joe-biden-hurricane-ida-afghanistan-coronavirus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/30/politics/president-joe-biden-hurricane-ida-afghanistan-coronavirus/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210827214714-04-biden-afghanistan-bombing-0826-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "The Point: Why Democrats can't run away from Joe Biden"
-    excerpt: "There's a lot of talk in Democratic circles these days about vulnerable 2022 candidates beginning to distance themselves from President Joe Biden amid his faltering poll numbers on both how he has handled Afghanistan and his overall job performance.\n    \n"
-    publishedDateTime: 2021-08-31T22:32:10Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yZrYdFQ3jAk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/31/politics/biden-democrats-midterms-afghanistan/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/31/politics/biden-democrats-midterms-afghanistan/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210826184555-biden-speech-afghanistan-attack-08-26-2021-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden visits wounded service members at Walter Reed "
-    excerpt: "President Joe Biden and first lady Jill Biden traveled to Walter Reed medical center in Maryland on Thursday to visit wounded US service members.\n    \n"
-    publishedDateTime: 2021-09-03T01:24:10Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HtNn_XIoD40/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/02/politics/biden-walter-reed-wounded-service-members-afghanistan/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/02/politics/biden-walter-reed-wounded-service-members-afghanistan/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210831154223-02-biden-afghanistan-presser-0831-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -222,22 +158,6 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_34/3502268/210829-joe-biden-air-force-one-jm-0915.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "How Does Biden Recover From His Week From Hell?"
-    excerpt: "If we had a parliamentary system, Biden would probably lose power in a no-confidence vote. As it is, I think he may have wrecked his own presidency when it’s barely begun. How does he recover? Gail: Well,"
-    publishedDateTime: 2021-08-30T09:00:00Z
-    webUrl: "https://www.nytimes.com/2021/08/30/opinion/biden-afghanistan-covid.html"
-    ampWebUrl: "https://www.nytimes.com/2021/08/30/opinion/biden-afghanistan-covid.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/30/opinion/biden-afghanistan-covid.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/08/30/opinion/30conversation-use/merlin_193879332_3c494cf9-787e-4f63-a0e0-3572e5d09d6a-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
 
 secured: "BUyTOFf0RaxROhiVwE1bzsOt53LV06GU0DKQEyzThGckX37Wdx0DU/77LHrwf9fxAZ6PtpwIR4/8UfAn+qC8SYrd4/NgVPtXa+dAHHl2qv0WO4J1w4HMajeGe7wn3fmofNpm25vNxNBeDMXQ/6mMyKvnLe9xcO0+dvvwWj9OQHKwucnjLRVYMeupNndHdWX40gDbWkzTx7NPfrqVJRyl2o42vFUvgSEOAGQf9oy4o/QdGn0mz5e+yCsj//V4898BwT0jdgjOlgtZPrzAbNdWZUnrG5b53q7EVJHvduy5oxlG8NNKEyadbBsxPwWsQMLO5qPOpfGmMkoZ7YMS2qvIpCXxlAIIgHmnLQ6dCPmf3mI=;rdGieRX9RVBEuSsFiwwiMw=="

@@ -2,6 +2,62 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-08-09-az-attorney-general-scolds-biden-administration-for-releasing-covid-positive-migrants.md",
+      "title": "AZ Attorney General scolds Biden administration for releasing COVID-positive migrants",
+      "excerpt": "Arizona's attorney general penned a letter demanding the Biden administration halt releasing COVID-positive migrants",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5681Baq7HIQ/az-attorney-general-scolds-biden-administration-for-releasing-covid-positive-migrants",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5681Baq7HIQ/az-attorney-general-scolds-biden-administration-for-releasing-covid-positive-migrants",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 228,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/50517ce6-cb22-4701-85a7-061adf640228/d384ee59-b9ed-4310-a6a3-6cd19ec7dcf0/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/az-attorney-general-scolds-biden-administration-for-releasing-covid-positive-migrants.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/az-attorney-general-scolds-biden-administration-for-releasing-covid-positive-migrants.amp",
+      "publishedDateTime": "2021-08-09T15:03:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-grim-afghan-news-raises-risk-for-biden-of-taliban-takeover.md",
       "title": "Grim Afghan news raises risk for Biden of Taliban takeover",
       "excerpt": "A rapidly deteriorating security situation in Afghanistan weeks before the official end of the U.S. military mission is putting pressure on President Biden as he sticks to his plan to pull America out of its longest war.",
@@ -1239,62 +1295,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-biden-honors-best-in-our-nation-awarding-congressional-gold-medals-to-jan-6-capitol-police-officers.md",
-      "title": "Biden honors 'best in our nation,' awarding Congressional Gold Medals to Jan. 6 Capitol police officers",
-      "excerpt": "President Biden hailed the heroism of the Capitol Police during the January 6 Capitol Hill riot Thursday and signed a bill awarding four congressional gold medals to the police",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UgU6UR977Ho/biden-honors-best-in-our-nation-awarding-congressional-gold-medals-to-jan-6-capitol-police-officers",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UgU6UR977Ho/biden-honors-best-in-our-nation-awarding-congressional-gold-medals-to-jan-6-capitol-police-officers",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f0d9ffe7-faec-4354-ae0a-7520d535b814/c20c4c23-ae1d-4281-a370-0e457fd8ee1b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-honors-best-in-our-nation-awarding-congressional-gold-medals-to-jan-6-capitol-police-officers.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-honors-best-in-our-nation-awarding-congressional-gold-medals-to-jan-6-capitol-police-officers.amp",
-      "publishedDateTime": "2021-08-05T15:09:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

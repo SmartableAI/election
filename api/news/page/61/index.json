@@ -2,6 +2,62 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2021-04-30-two-border-state-dems-break-with-biden-on-the-crisis-want-to-see-more-action.md",
+      "title": "Two border state Dems break with Biden on the crisis: 'Want to see more action'",
+      "excerpt": "Two border state Democratic senators say President Biden is not doing enough to address the ongoing border crisis. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JNnmXg8jt2I/senate-dems-biden-border-security",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JNnmXg8jt2I/senate-dems-biden-border-security",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9d3999f0-05d5-42d3-85ce-11b71b6f0ca5/290ed328-1fa5-4854-9aa8-ac73dd07ceb0/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/senate-dems-biden-border-security.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-dems-biden-border-security.amp",
+      "publishedDateTime": "2021-04-30T03:04:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-10-things-in-politics-how-bidens-100-days-compare.md",
       "title": "10 Things in Politics: How Biden's 100 days compare",
       "excerpt": "I hope you'll take your turn when it comes. Here's what we're talking about: With Jordan Erb. 1. ONE HUNDRED PROOF: President Joe Biden has now passed the FDR-inspired first lap of his presidency. Insider decided to compare him with his more-modern ...",
@@ -1326,58 +1382,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-white-supremacy-is-terrorism-biden-condemns-terrorism-in-address.md",
-      "title": "'White supremacy is terrorism': Biden condemns terrorism in address",
-      "excerpt": "President Joe Biden addressed gun violence and white supremacy in his speech to Congress. Associated Press Associated Press, USA TODAY",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/politics/2021/04/29/president-biden-told-congress-white-supremacy-terrorism-during-speech/4886343001/",
-      "originalUrl": "https://www.usatoday.com/videos/news/politics/2021/04/29/president-biden-told-congress-white-supremacy-terrorism-during-speech/4886343001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/04/29/USAT/0bbcefca-2b66-4bb1-b574-9a1034977d49-VPC_BIDEN_ON_WHITE_SUPREMACY_DESK.00_01_06_07.Still003.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

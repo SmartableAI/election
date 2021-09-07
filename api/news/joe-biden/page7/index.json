@@ -2,6 +2,59 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-06-23-cornyn-calls-on-biden-and-harris-to-visit-southern-border-yall-come-visit.md",
+      "title": "Cornyn calls on Biden and Harris to visit southern border: 'Y'all come visit'",
+      "excerpt": "Sen. John Cornyn (R-Texas) has called on President Biden and Vice President Harris to visit the U.S.- Mexico border amid an ongoing surge of immigrants.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/senate/559777-cornyn-calls-on-biden-and-harris-to-visit-southern-border-yall-come-visit",
+      "originalUrl": "https://thehill.com/homenews/senate/559777-cornyn-calls-on-biden-and-harris-to-visit-southern-border-yall-come-visit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/cornynjohn_052621gn_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/senate/559777-cornyn-calls-on-biden-and-harris-to-visit-southern-border-yall-come-visit?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/559777-cornyn-calls-on-biden-and-harris-to-visit-southern-border-yall-come-visit?amp",
+      "publishedDateTime": "2021-06-23T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-biden-13-wage-for-federal-firefighters-ridiculously-low.md",
       "title": "Biden: $13 wage for federal firefighters 'ridiculously low'",
       "excerpt": "Before a meeting with homeland security and federal emergency management officials, the president told reporters he promised to end the $13 an hour salary paid to federal firefighters. \"I just realized - I didn't realize this,",
@@ -1524,63 +1577,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-democrat-henry-cuellar-slams-bidens-handling-of-border-crisis-doing-a-staged-visit-is-not-enough.md",
-      "title": "Democrat Henry Cuellar slams Biden's handling of border crisis: 'Doing a staged visit is not enough'",
-      "excerpt": "Texas, slammed the Biden administration's handling of the border crisis Thursday, stressing the need to address its policies encouraging migrants to make the dangerous journey to the U.S.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/democrat-henry-cuellar-biden-border-crisis-staged-visit",
-      "originalUrl": "https://www.foxnews.com/media/democrat-henry-cuellar-biden-border-crisis-staged-visit",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4bf61830-4f75-4877-864b-4116fb9b8d17/5d131eef-3cf1-4b0d-b039-63f0f9bfb200/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/democrat-henry-cuellar-biden-border-crisis-staged-visit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/democrat-henry-cuellar-biden-border-crisis-staged-visit.amp",
-      "publishedDateTime": "2021-06-10T11:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

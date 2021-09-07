@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Biden aims to get agenda back on track; remembering Michael K. Williams; US Open update"
+    excerpt: "After a torrent of crises, President Biden is hoping to turn the page; \"The Wire\" star Michael K. Williams dies at 54; US Open enters second week."
+    publishedDateTime: 2021-09-07T11:30:00Z
+    webUrl: "https://tulsaworld.com/news/national/biden-aims-to-get-agenda-back-on-track-remembering-michael-k-williams-us-open-update/article_c45407ba-c97b-528c-baf0-d7a4f4fb0720.html"
+    ampWebUrl: "https://tulsaworld.com/news/national/biden-aims-to-get-agenda-back-on-track-remembering-michael-k-williams-us-open-update/article_c45407ba-c97b-528c-baf0-d7a4f4fb0720.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/national/biden-aims-to-get-agenda-back-on-track-remembering-michael-k-williams-us-open-update/article_c45407ba-c97b-528c-baf0-d7a4f4fb0720.amp.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 67
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/9/86/9861d139-037c-5484-982d-ff79d404b293/613745a1d3474.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "EFkmbF5uRCsoJnI/NMOt2+t6jvG5BwOgl4omid8yiAlG/lTgjcb+ftFA7DcXdSUQokibggpTVb961KQ06sKYQ5W4VFltqUd8644ZaNvgKcuCGpVv2fiSYZa6+7dvdDhekpq+aJKBRhCcK+vg07IJSfgTt61ethaQHP0vy6If92cm55887RRvdT2B60J8zxi1CRJLnyCUuEII4TJw7XOkSuo/F0/22vf5+2S6jsck+4SR0Y/jNZNfM5kd2ZYbnVicWdd0PVcSla/BABT5xisINGIwNIrjZgH8IUtzvZGIBwdTuXR26GDIDtxhwnuuSZ4W1/RlsMTzhRAUVUWyJWO+rCRoKrABbeL/Uq3dEKU2LUA=;4+EjD14/MyPT6cAZ1yPSjg=="
 ---

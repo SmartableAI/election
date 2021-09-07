@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden faces crunch moment in his presidency "
-    excerpt: "The Biden presidency and top Democrats suddenly face a moment of truth with an audacious nation-changing agenda imperiled by the treacherous political math of divided Washington and stiff resistance by pro-Trump Republicans.\n    \n"
-    publishedDateTime: 2021-05-24T09:15:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qlFN2tGDHd4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/24/politics/joe-biden-politics-economy-infrastructure-congress/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/24/politics/joe-biden-politics-economy-infrastructure-congress/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520151830-biden-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden weathers his first foreign crisis after months focusing on domestic troubles"
     excerpt: "It was before 8 a.m. ET on Wednesday and President Joe Biden was on the phone with Israeli Prime Minister Benjamin Netanyahu for the fourth time in a week.\n    \n"
     publishedDateTime: 2021-05-22T13:54:29Z
