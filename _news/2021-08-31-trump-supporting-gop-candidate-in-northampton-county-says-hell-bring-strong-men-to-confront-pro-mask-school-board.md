@@ -59,6 +59,22 @@ related:
         width: 3428
         height: 2486
         isCached: true
+  - title: "Melania Trump isn’t keen on Donald running in 2024 – but that won’t stop him"
+    excerpt: "The former president is thinking about standing again. While I’d love to laugh at the idea of him winning a second time, the polls offer a heavy note of caution, says Guardian columnist Arwa Mahdawi"
+    publishedDateTime: 2021-09-07T11:06:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2021/sep/07/melania-trump-isnt-keen-on-donald-running-in-2024-but-that-wont-stop-him?fr=operanews"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2021/sep/07/melania-trump-isnt-keen-on-donald-running-in-2024-but-that-wont-stop-him"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2021/sep/07/melania-trump-isnt-keen-on-donald-running-in-2024-but-that-wont-stop-him"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/ac4789c4c8027f2e16e7a21c8d5a529999f7dcc1/0_200_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4dd9e8999cf147c26e915be43206dfa8"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Republican Adam Kinzinger Says GOP Audits 'About Being Too Scared' to Admit Trump Lost"
     excerpt: "The GOP congressman's criticism comes as Republicans continue to push for probes of last year's presidential election—10 months after it was held."
     publishedDateTime: 2021-09-04T20:51:00Z

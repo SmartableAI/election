@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/09/07/politics/joe-biden-september-batt
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/07/politics/joe-biden-september-battles-ahead/index.html"
 type: article
 quality: 186
-heat: 706
+heat: 726
 published: true
 
 provider:
@@ -188,6 +188,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210903172737-04-ny-storm-aftermath-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden set to deliver major speech on next phase of pandemic response, sources say"
+    excerpt: "President Joe Biden is set to deliver a major address on the next phase of his pandemic response this week, two sources familiar with the speech tell CNN.\n    \n"
+    publishedDateTime: 2021-09-07T13:25:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/klHn2saLAQk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/07/politics/president-joe-biden-speech-pandemic/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/07/politics/president-joe-biden-speech-pandemic/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210823141949-02-biden-covid-0923-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -1,29 +1,33 @@
 ---
 category: news
-title: "US Sen. Mike Rounds isn't convinced Donald Trump would win GOP nomination in 2024 election"
-excerpt: "South Dakota U.S. Sen. Mike Rounds, in discussion with Sioux Falls Rotarians, speculated what might lie ahead for the Republican Party for 2024."
-publishedDateTime: 2021-08-30T19:39:00Z
-originalUrl: "https://www.argusleader.com/story/news/2021/08/30/mike-rounds-2024-election-donald-trump-kristi-noem-republican-nomination-speculation/5653852001/"
-webUrl: "https://www.argusleader.com/story/news/2021/08/30/mike-rounds-2024-election-donald-trump-kristi-noem-republican-nomination-speculation/5653852001/"
-ampWebUrl: "https://amp.argusleader.com/amp/5653852001"
-cdnAmpWebUrl: "https://amp-argusleader-com.cdn.ampproject.org/c/s/amp.argusleader.com/amp/5653852001"
+title: "Melania Trump isn’t keen on Donald running in 2024 – but that won’t stop him"
+excerpt: "The former president is thinking about standing again. While I’d love to laugh at the idea of him winning a second time, the polls offer a heavy note of caution, says Guardian columnist Arwa Mahdawi"
+publishedDateTime: 2021-09-07T11:06:00Z
+originalUrl: "https://www.theguardian.com/commentisfree/2021/sep/07/melania-trump-isnt-keen-on-donald-running-in-2024-but-that-wont-stop-him?fr=operanews"
+webUrl: "https://www.theguardian.com/commentisfree/2021/sep/07/melania-trump-isnt-keen-on-donald-running-in-2024-but-that-wont-stop-him?fr=operanews"
+ampWebUrl: "https://amp.theguardian.com/commentisfree/2021/sep/07/melania-trump-isnt-keen-on-donald-running-in-2024-but-that-wont-stop-him"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2021/sep/07/melania-trump-isnt-keen-on-donald-running-in-2024-but-that-wont-stop-him"
 type: article
-quality: 80
+quality: 122
 heat: -1
 published: false
 
 provider:
-  name: Argus Leader
-  domain: argusleader.com
+  name: The Guardian
+  domain: theguardian.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2020/08/20/PSIF/c96ac377-3e03-4c86-a475-a751d7dde2e0-Rounds_ChamberOfCommerce_003.JPG?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://i.guim.co.uk/img/media/ac4789c4c8027f2e16e7a21c8d5a529999f7dcc1/0_200_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4dd9e8999cf147c26e915be43206dfa8"
+    width: 600
+    height: 360
     isCached: true
 
 related:
@@ -58,22 +62,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1887991/trump-texas-abortion-supreme-court-ruling.jpg"
         width: 3428
         height: 2486
-        isCached: true
-  - title: "Melania Trump isn’t keen on Donald running in 2024 – but that won’t stop him"
-    excerpt: "The former president is thinking about standing again. While I’d love to laugh at the idea of him winning a second time, the polls offer a heavy note of caution, says Guardian columnist Arwa Mahdawi"
-    publishedDateTime: 2021-09-07T11:06:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2021/sep/07/melania-trump-isnt-keen-on-donald-running-in-2024-but-that-wont-stop-him?fr=operanews"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2021/sep/07/melania-trump-isnt-keen-on-donald-running-in-2024-but-that-wont-stop-him"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2021/sep/07/melania-trump-isnt-keen-on-donald-running-in-2024-but-that-wont-stop-him"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 122
-    images:
-      - url: "https://i.guim.co.uk/img/media/ac4789c4c8027f2e16e7a21c8d5a529999f7dcc1/0_200_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4dd9e8999cf147c26e915be43206dfa8"
-        width: 600
-        height: 360
         isCached: true
   - title: "Republican Adam Kinzinger Says GOP Audits 'About Being Too Scared' to Admit Trump Lost"
     excerpt: "The GOP congressman's criticism comes as Republicans continue to push for probes of last year's presidential election—10 months after it was held."
@@ -149,6 +137,22 @@ related:
       - url: "https://i.insider.com/6133869361f7d80018f2555d?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "US Sen. Mike Rounds isn't convinced Donald Trump would win GOP nomination in 2024 election"
+    excerpt: "South Dakota U.S. Sen. Mike Rounds, in discussion with Sioux Falls Rotarians, speculated what might lie ahead for the Republican Party for 2024."
+    publishedDateTime: 2021-08-30T19:39:00Z
+    webUrl: "https://www.argusleader.com/story/news/2021/08/30/mike-rounds-2024-election-donald-trump-kristi-noem-republican-nomination-speculation/5653852001/"
+    ampWebUrl: "https://amp.argusleader.com/amp/5653852001"
+    cdnAmpWebUrl: "https://amp-argusleader-com.cdn.ampproject.org/c/s/amp.argusleader.com/amp/5653852001"
+    type: article
+    provider:
+      name: Argus Leader
+      domain: argusleader.com
+    quality: 80
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/20/PSIF/c96ac377-3e03-4c86-a475-a751d7dde2e0-Rounds_ChamberOfCommerce_003.JPG?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "There’s a little Donald Trump in Erin O’Toole"
     excerpt: "Flags, tweets, opposing vaccination for all, personal political hatred, that’s all part of the American catastrophe. But we do things differently in"
@@ -229,6 +233,6 @@ related:
         height: 946
         isCached: true
 
-secured: "DH0QIRDNDrt4egTcv2yDyzfEtE59LbkOa4xPi9iKDQEHpXz24pi2GME5Tsp9I77QxS5IyWCmWtN3L4KRMiPjtCeY4m0reaFE7o5m5WFbDH6TemCV9mVcxOuha1NWS9Paro+/28ACQQJl2szoJTpDnog58LcoRbbRxrSYFCGeXIqKtffT+16vqNnrMoRJY5wV1tuh/geXMiYq/8KqRRrFO1Hv1k3cu6B6DDIyDY0UT7M5+7TxwbJW6UXdtzvVX2Pw2EiqGj87hvMeu5TDmxH5nKcs0XS3ZO0xmTcUY1dl0lChS6fz52pdrd30n1zCwDuV6vpJ5QWSviYNjn2taJa/vHe8hSnaS6qYcmGV+gVx91Y=;0ntHC1gyV0mqPkTIcrMYlA=="
+secured: "80K9FkQS218FpNjrplVHcrrOl8hEUqYhsKDaQw6lSd1Fk9S1p3QXcUtw8cpdCM5oj6tDv7g2+Eaulyg2zpGUQ7cjfwyTeOzRWuJIKbKwZcKZ8QZcFGmwDNsJ8MGoICbHpBOwxVQ65M7Nr4J1WEIQtksH/uXUsUG994GtbdTuHxQJusnHCga0ZDP27Qa/0tXE8n1vrNBXlmTmPrD/maJDTG3vmXSvO0+piYYHgdlGdPl0xTbF3Iz1SJxAROgDL/yg8mWbx2agW7nxaH2o6PvEatS+NciIlnMlUDNs1VOtN/b+st7G2PE0IWComTgovruJq7DtiFQyRzVvupkFjB5o7Er/UjDCROCCV+DeKh5gNRs=;MdUxY88I/fkh6T3WeV/X5Q=="
 ---
 

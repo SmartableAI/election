@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden faces crunch moment in his presidency "
-excerpt: "The Biden presidency and top Democrats suddenly face a moment of truth with an audacious nation-changing agenda imperiled by the treacherous political math of divided Washington and stiff resistance by pro-Trump Republicans.\n    \n"
-publishedDateTime: 2021-05-24T09:15:07Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qlFN2tGDHd4/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qlFN2tGDHd4/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/24/politics/joe-biden-politics-economy-infrastructure-congress/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/24/politics/joe-biden-politics-economy-infrastructure-congress/index.html"
+title: "Biden set to deliver major speech on next phase of pandemic response, sources say"
+excerpt: "President Joe Biden is set to deliver a major address on the next phase of his pandemic response this week, two sources familiar with the speech tell CNN.\n    \n"
+publishedDateTime: 2021-09-07T13:25:02Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/klHn2saLAQk/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/klHn2saLAQk/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/09/07/politics/president-joe-biden-speech-pandemic/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/07/politics/president-joe-biden-speech-pandemic/index.html"
 type: article
-quality: 175
+quality: 170
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520151830-biden-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210823141949-02-biden-covid-0923-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -44,6 +44,22 @@ related:
     quality: 186
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210903150257-01-biden-louisiana-0903-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden faces crunch moment in his presidency "
+    excerpt: "The Biden presidency and top Democrats suddenly face a moment of truth with an audacious nation-changing agenda imperiled by the treacherous political math of divided Washington and stiff resistance by pro-Trump Republicans.\n    \n"
+    publishedDateTime: 2021-05-24T09:15:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qlFN2tGDHd4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/24/politics/joe-biden-politics-economy-infrastructure-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/24/politics/joe-biden-politics-economy-infrastructure-congress/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520151830-biden-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -188,22 +204,6 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210903172737-04-ny-storm-aftermath-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden set to deliver major speech on next phase of pandemic response, sources say"
-    excerpt: "President Joe Biden is set to deliver a major address on the next phase of his pandemic response this week, two sources familiar with the speech tell CNN.\n    \n"
-    publishedDateTime: 2021-09-07T13:25:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/klHn2saLAQk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/07/politics/president-joe-biden-speech-pandemic/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/07/politics/president-joe-biden-speech-pandemic/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210823141949-02-biden-covid-0923-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -462,6 +462,6 @@ related:
         height: 629
         isCached: true
 
-secured: "zuFwEQtuJSc1WoqGbgNhWG5DkPB8Z4aHaCmzTGWXAOwzOY/uvu2xloP3ZLrx8LkNBtgXKrCQVLtWqHizB1grKvsVgu647maUlXdFGGonuoBZwqSxREVbtOfFOy8dbtsk1fo/eZ+P2vm6PzGF9LFEtnt1yALXoIcdMr7Yp5r60eA2DqUoLgEZn1spcrgXlZxgSTtImONxP6FfbS7ul6U6O0OGXHbhg5EBRcz2EDnl4TqLqljcazlpO3iCqc00KnXu34YGHeAqG0YQtQoVZ7uxl9D3e50qAOXvEBoPx2uMiPz49vCgReoppYtoTpDSZjnOaTWTB/g6fCXP2EKNhDezSWsN17v5A6vsI9wYa6QyNws=;kwJ3R/GOEAILXT9KlGrm9Q=="
+secured: "t1wDMpKAZb9ktQecbY3DHCCavw6xsmPiii2G0noaKDmjHX79EqB4aPCoVHOAPMrhNo0BsLNSF8mCrQBGiNSNXXUAHaB2ZCP/rjX4yDzD6FDGLAIwskcccNV9bMwFf8uvh1Yk0xUKN1VhFT7mnDyx3URfNDCRPh/WJ9VP9x4HNtOTe+XY4l0k0E4CpkyKHLbeoNd2Vk36cYrhANyn4cgQNyURjzea9o8oStgXujKxOBpWtwyIpoEuXMtGgZeIIgiYcUaybxGKZYgXVOW8nUxG2hQbX9iZQ6tIEDygDOF1sQs8H9bBdWy9Jvz03fPz1+8QlCwhAxnnFgnHQF1mVCw+j+OVDSA37yAB++RXHrjTUVU=;IGDftu9j/KUPMpx8v+17vw=="
 ---
 

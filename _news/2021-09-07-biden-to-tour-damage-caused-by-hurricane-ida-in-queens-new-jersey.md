@@ -1,31 +1,30 @@
 ---
 category: news
-title: "Florida diner that told Biden supporters to eat elsewhere becomes so popular it runs out of food"
-excerpt: "A Florida diner that posted a sign telling Biden supporters to take their business “elsewhere” was forced to temporarily close after not having enough food to meet a surge in demand."
-publishedDateTime: 2021-09-04T01:46:00Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3ZGWAIOF56g/florida-diner-forced-to-close-due-to-popularity-after-posting-sign-telling-biden-supporters-to-keep-out"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3ZGWAIOF56g/florida-diner-forced-to-close-due-to-popularity-after-posting-sign-telling-biden-supporters-to-keep-out"
+title: "Biden to tour damage caused by Hurricane Ida in Queens, New Jersey"
+excerpt: "The president, who approved disaster declarations for both states, will arrive at John F. Kennedy International Airport at 11:05 a.m. and then travel to Manville, N.J."
+publishedDateTime: 2021-09-07T13:47:00Z
+originalUrl: "https://nypost.com/2021/09/07/biden-to-tour-damage-caused-by-hurricane-ida-in-queens-new-jersey/"
+webUrl: "https://nypost.com/2021/09/07/biden-to-tour-damage-caused-by-hurricane-ida-in-queens-new-jersey/"
+ampWebUrl: "https://nypost.com/2021/09/07/biden-to-tour-damage-caused-by-hurricane-ida-in-queens-new-jersey/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/07/biden-to-tour-damage-caused-by-hurricane-ida-in-queens-new-jersey/amp/"
 type: article
-quality: 142
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/Biden-Speaking.jpg"
-    width: 1280
-    height: 720
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/biden-storm-20.jpg?quality=90&strip=all&w=1024"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -125,23 +124,21 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Biden to tour damage caused by Hurricane Ida in Queens, New Jersey"
-    excerpt: "The president, who approved disaster declarations for both states, will arrive at John F. Kennedy International Airport at 11:05 a.m. and then travel to Manville, N.J."
-    publishedDateTime: 2021-09-07T13:47:00Z
-    webUrl: "https://nypost.com/2021/09/07/biden-to-tour-damage-caused-by-hurricane-ida-in-queens-new-jersey/"
-    ampWebUrl: "https://nypost.com/2021/09/07/biden-to-tour-damage-caused-by-hurricane-ida-in-queens-new-jersey/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/07/biden-to-tour-damage-caused-by-hurricane-ida-in-queens-new-jersey/amp/"
+  - title: "Florida diner that told Biden supporters to eat elsewhere becomes so popular it runs out of food"
+    excerpt: "A Florida diner that posted a sign telling Biden supporters to take their business “elsewhere” was forced to temporarily close after not having enough food to meet a surge in demand."
+    publishedDateTime: 2021-09-04T01:46:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3ZGWAIOF56g/florida-diner-forced-to-close-due-to-popularity-after-posting-sign-telling-biden-supporters-to-keep-out"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 142
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/biden-storm-20.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 682
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/Biden-Speaking.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
-secured: "vDPtVg6yRsDEOS0/xECRxuwrl7bgetmP2PdPWfN2FzFrW732OAJ42Io23NeI5eNfU3VPJpfKuLN+S1dITLBTrE9ClgbMhj029ITmntbSCg+0s9sWO2f1GRMaWPzKeftCjhKt2n/IOUvyJTnRNQZSsouyaFzA7piJhSZxroPlX60V+YWk4zqzjNK91T2faOnm8OqxJvp6kTZPMzbKLUBgllcsBZ4xbPWvXDKmcn9vV1dJUrYYUd91Au0nm4iXXSMRw6IpUbMRgblZcK5/Satqn7DAsBeQUS/Grf4scaYSj5XHMKsvDKjjFQYkjTcBTNn7gLP7kSHFXZ6m/tTjCEoqIA5vwpgMzqrc/oIwz5uGEZA=;s4KRJvn9BFqWpY6VZvWkUg=="
+secured: "42ueSkFXYT/hEzOmzdcd8rQExK1SpJIredhXSJy+YUfOwP5bGIjpQZvrBDiXsf47YLJDQGfKt+1MlVWM6uQuGkymEbKrKWHMrJjaiUvrbRHlU8aoZXQ95j+D/sdzeosPsqTqdjC0mAIkC2BqujWdDzCd4H6MA7ndet5ZjOtcvjCA+xbNhY6kP8J2BXSFmITDsReGRLagaSjglB6nV8eNi9FP8OdHUmwRYGqD5ow7tCD4n0ZYqoUYryiXhDk0ClI0c5sXiZnC3c1a8PzKI1mjjjofxRZy9o9pcmPuZDmncFbNQyMnFSqUnd/WUrTbnbanae9UAmdVic/ldnJ6nsAL32PVZewPFKJxw4MoOkjY1wM=;BD1iNOiKCe/9kHLl4nUp6A=="
 ---
 

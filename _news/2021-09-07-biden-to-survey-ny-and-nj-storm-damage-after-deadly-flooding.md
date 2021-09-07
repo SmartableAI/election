@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Biden to survey NY and NJ storm damage after deadly flooding"
-excerpt: "Biden is set to tour Manville, New Jersey, and the New York City borough of Queens on Tuesday. At least 50 people were killed in six Eastern states as record rainfall last week overwhelmed rivers and sewer systems."
-publishedDateTime: 2021-09-07T04:09:00Z
-originalUrl: "https://www.stamfordadvocate.com/news/article/Biden-to-survey-NY-and-NJ-storm-damage-after-16439311.php"
-webUrl: "https://www.stamfordadvocate.com/news/article/Biden-to-survey-NY-and-NJ-storm-damage-after-16439311.php"
-ampWebUrl: "https://www.stamfordadvocate.com/news/amp/Biden-to-survey-NY-and-NJ-storm-damage-after-16439311.php"
-cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Biden-to-survey-NY-and-NJ-storm-damage-after-16439311.php"
+excerpt: "President Joe Biden will survey damage in parts of the northeast that suffered catastrophic flash flooding from the remnants of Hurricane Ida, and use the muddy backdrop to call for federal spending to fortify infrastructure so it can better withstand such powerful storms At least 50 people were killed in six Eastern states as record rainfall last week overwhelmed rivers and sewer systems."
+publishedDateTime: 2021-09-07T13:21:00Z
+originalUrl: "https://www.silive.com/news/2021/09/biden-to-survey-ny-and-nj-storm-damage-after-deadly-flooding.html"
+webUrl: "https://www.silive.com/news/2021/09/biden-to-survey-ny-and-nj-storm-damage-after-deadly-flooding.html"
+ampWebUrl: "https://www.silive.com/news/2021/09/biden-to-survey-ny-and-nj-storm-damage-after-deadly-flooding.html?outputType=amp"
+cdnAmpWebUrl: "https://www-silive-com.cdn.ampproject.org/c/s/www.silive.com/news/2021/09/biden-to-survey-ny-and-nj-storm-damage-after-deadly-flooding.html?outputType=amp"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: StamfordAdvocate
-  domain: stamfordadvocate.com
+  name: SILive
+  domain: silive.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BNEVFFUN4ZBABGPNNMITKWHIZU.jpeg"
+    width: 1446
+    height: 964
     isCached: true
 
 related:
@@ -74,22 +74,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/21/60/60/21433350/3/400x0.jpg"
         width: 400
         height: 266
-        isCached: true
-  - title: "Jill Biden heads back to classroom as a working first lady"
-    excerpt: "Jill Biden is going back to her whiteboard. After months of teaching writing and English to community college students in boxes on a computer screen, the first lady resumes teaching in person Tuesday from a classroom at Northern Virginia Community College,"
-    publishedDateTime: 2021-09-07T09:13:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/Jill-Biden-heads-back-to-classroom-as-a-working-16439318.php"
-    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Jill-Biden-heads-back-to-classroom-as-a-working-16439318.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Jill-Biden-heads-back-to-classroom-as-a-working-16439318.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 125
-    images:
-      - url: "https://s.hdnux.com/photos/01/21/61/10/21434892/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
         isCached: true
   - title: "Joe Biden’s future looks bleak – he’s shamed and endangered the West"
     excerpt: "A broken man THE charge sheet against Joe Biden grows by the day. It’s not just that his reckless, casual disregard for Afghanistan and its ­people led directly to the suicide bomb slaughter of 13"
@@ -282,6 +266,22 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Jill Biden heads back to classroom as a working first lady"
+    excerpt: "Jill Biden is the first first lady to leave the White House and log hours at a full-time job. WASHINGTON — Jill Biden is going back to her whiteboard. After months of teaching writing and English to community college students in boxes on a computer screen,"
+    publishedDateTime: 2021-09-07T08:42:00Z
+    webUrl: "https://www.firstcoastnews.com/article/news/nation-world/jill-biden-working-first-lady/507-e99b1de1-cb82-417d-b633-19d045031e1a"
+    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/nation-world/jill-biden-working-first-lady/507-e99b1de1-cb82-417d-b633-19d045031e1a"
+    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/nation-world/jill-biden-working-first-lady/507-e99b1de1-cb82-417d-b633-19d045031e1a"
+    type: article
+    provider:
+      name: First Coast News
+      domain: firstcoastnews.com
+    quality: 75
+    images:
+      - url: "https://media.firstcoastnews.com/assets/CCT/images/a2671509-82e6-4346-a11a-a58102cbe00a/a2671509-82e6-4346-a11a-a58102cbe00a_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "President Biden to tour storm damage from Ida in New York, New Jersey"
     excerpt: "President Joe Biden will survey damage in parts of the northeast that suffered catastrophic flash flooding from the remnants of Hurricane Ida, and use the muddy backdrop to call for federal spending to fortify infrastructure so it can better withstand such powerful storms."
@@ -557,6 +557,6 @@ related:
         height: 1453
         isCached: true
 
-secured: "X+AwvPpqVl0lPgaIExU/A6f5yPtp62EnKQ5FqIjb4c04rJYB92lAuVeFKbPIJ9Do0sz8BipWe2v/7Keza9nvy/+er7TMEFJrvqgHjJaayoMhEvxjdylSXJ5Fj1+HTOgpxwnjIbqJe4CZ9uw0K4B5OG0pgtXJHtFRvqExEVcQ1PR8BfiijxCwH6QJevqC3u78IqNiRp3XAB3okNgNfGNhQFxdRcv5IfnfTSFgg/0drp87iGv2VyWb0BEHsPE4vQiVwLM9g1/j85hR0eHkr/Rqc2MbyG+dc8QvUM4E0pLzfWZ5mO0/iuHU/Xtk9WNYHo339edwqUMlJUoXKuyBEUi2Yfb+JOUp9lVv+AVbravXuo0=;oBQq6fjiK2WGXhRKj8xt0Q=="
+secured: "04oZgKD3yszNeCAIA3f8o4WRxW6j8ssBCEvggcOB2aocsh8OS5cf448j6fYDEDaf9WFgmMfUaRoVw9WhUuen3+7vC07n1ztIhMxH/47GxgSM6S4dWrh+X7o4Cm8GSUH0xRQEfySp2oJFiWaZUW8VD63ADInwWL4UWUUpn7Ku8FWhOCxU60NYcvd99Ekyt1DjLS6ygY5ED9KnBAQB3+DZXm2CypjTYb1/S5qM5LKFx9DC0oOTMwzXropjZChH6dSrNpP2npg9YJB5fFfpJ67diDPVQGa9nFXbVSAMz4TEACmqOlRXia68YakqPCDLq418DIS0zjjLGQwqrhZ52R513z+tcnUn08/8DOPzMmjOfGg=;LD076xIvlFLpgq6t209ijA=="
 ---
 

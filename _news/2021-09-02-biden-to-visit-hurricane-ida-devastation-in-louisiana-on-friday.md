@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-hurricane-ida-devastation-lou
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hurricane-ida-devastation-louisiana-friday.amp"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/Biden-Speaking.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden to tour damage caused by Hurricane Ida in Queens, New Jersey"
+    excerpt: "The president, who approved disaster declarations for both states, will arrive at John F. Kennedy International Airport at 11:05 a.m. and then travel to Manville, N.J."
+    publishedDateTime: 2021-09-07T13:47:00Z
+    webUrl: "https://nypost.com/2021/09/07/biden-to-tour-damage-caused-by-hurricane-ida-in-queens-new-jersey/"
+    ampWebUrl: "https://nypost.com/2021/09/07/biden-to-tour-damage-caused-by-hurricane-ida-in-queens-new-jersey/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/07/biden-to-tour-damage-caused-by-hurricane-ida-in-queens-new-jersey/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/biden-storm-20.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "sO6PPXActM6bInl2B0ErAj+IayiL7I5kBT+HYpucBK7Jb2b1+Q9dNq/29ZKDa1BIPvFvspGqbU2yWxNZlkcojL/sCtLRaCVfr8V17V42Jhsi8lnHXevImgx7JwdtLH8L+kNT2nGmMMXOnsgvBrGVjKxyKyMAjKQLSxhE8uuhp9BvfPPcC2JHDmHN7C0YFU7mYyv8V7wtIIkCjvnUpe3mEEMnMgOuyeeFbVGh7W8fbWZ1t1FizidVRy89HUhqpwlpAzEexnckKyCV+cdzKbQU2MsLIhuOda72JG1vDi7Qi9weGxcBe/rMfOuu3FoeNq1LxT9B71ROilCkLlOEnPUcweo39znzuVe3Mo/WJOD1uMw=;JlRMV1RH7PwlvsG1V2JZxQ=="

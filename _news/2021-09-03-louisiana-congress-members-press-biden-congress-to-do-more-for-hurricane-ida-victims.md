@@ -125,6 +125,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden to tour damage caused by Hurricane Ida in Queens, New Jersey"
+    excerpt: "The president, who approved disaster declarations for both states, will arrive at John F. Kennedy International Airport at 11:05 a.m. and then travel to Manville, N.J."
+    publishedDateTime: 2021-09-07T13:47:00Z
+    webUrl: "https://nypost.com/2021/09/07/biden-to-tour-damage-caused-by-hurricane-ida-in-queens-new-jersey/"
+    ampWebUrl: "https://nypost.com/2021/09/07/biden-to-tour-damage-caused-by-hurricane-ida-in-queens-new-jersey/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/07/biden-to-tour-damage-caused-by-hurricane-ida-in-queens-new-jersey/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/biden-storm-20.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "Uu1bLmjeXsWn43SdtGgDOiYGLJX19c8AxU5FdPWnsM7hXfeM1W4Z2Zm8smPfj47JzhlPVKoEvFkKmgsW8DitOhiHoavczZuGaO9PPyBDM6/92c5fwRp6UuDB3FTQbRE3Abwnjv5BI2qENFXl9ZAL9BFlEUC4BTbhxnmx/gWj12q3HHXWRzxJPq/+5RCMXYpEJGInVT2t14+OglcYniVk3ZInh+0jQK++aGa3xfJxKtQbttCQRTgYKnWAF45DbuybAU/oi3M5uf0GgB2tkU1HHQcvyzp2GkUoF0ftJmntHS6fgOcgsW47RW+sJmoUUwsZaUklBW711JYwUDBIZGgYywEkNqwyOYV+pvTr83r+H4s=;J7ryVWy7ySJ5H30/Uhrpyw=="
 ---

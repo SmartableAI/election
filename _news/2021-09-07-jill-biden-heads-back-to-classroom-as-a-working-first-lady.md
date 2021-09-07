@@ -1,33 +1,29 @@
 ---
 category: news
 title: "Jill Biden heads back to classroom as a working first lady"
-excerpt: "Jill Biden is going back to her whiteboard. After months of teaching writing and English to community college students in boxes on a computer screen, the first lady resumes teaching in person Tuesday from a classroom at Northern Virginia Community College,"
-publishedDateTime: 2021-09-07T09:13:00Z
-originalUrl: "https://www.houstonchronicle.com/news/article/Jill-Biden-heads-back-to-classroom-as-a-working-16439318.php"
-webUrl: "https://www.houstonchronicle.com/news/article/Jill-Biden-heads-back-to-classroom-as-a-working-16439318.php"
-ampWebUrl: "https://www.houstonchronicle.com/news/amp/Jill-Biden-heads-back-to-classroom-as-a-working-16439318.php"
-cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Jill-Biden-heads-back-to-classroom-as-a-working-16439318.php"
+excerpt: "Jill Biden is the first first lady to leave the White House and log hours at a full-time job. WASHINGTON — Jill Biden is going back to her whiteboard. After months of teaching writing and English to community college students in boxes on a computer screen,"
+publishedDateTime: 2021-09-07T08:42:00Z
+originalUrl: "https://www.firstcoastnews.com/article/news/nation-world/jill-biden-working-first-lady/507-e99b1de1-cb82-417d-b633-19d045031e1a"
+webUrl: "https://www.firstcoastnews.com/article/news/nation-world/jill-biden-working-first-lady/507-e99b1de1-cb82-417d-b633-19d045031e1a"
+ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/nation-world/jill-biden-working-first-lady/507-e99b1de1-cb82-417d-b633-19d045031e1a"
+cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/nation-world/jill-biden-working-first-lady/507-e99b1de1-cb82-417d-b633-19d045031e1a"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: First Coast News
+  domain: firstcoastnews.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://s.hdnux.com/photos/01/21/61/10/21434892/3/ratio3x2_400.jpg"
-    width: 400
-    height: 267
+  - url: "https://media.firstcoastnews.com/assets/CCT/images/a2671509-82e6-4346-a11a-a58102cbe00a/a2671509-82e6-4346-a11a-a58102cbe00a_1140x641.jpg"
+    width: 1140
+    height: 641
     isCached: true
 
 related:
@@ -272,20 +268,20 @@ related:
         height: 336
         isCached: true
   - title: "Biden to survey NY and NJ storm damage after deadly flooding"
-    excerpt: "Biden is set to tour Manville, New Jersey, and the New York City borough of Queens on Tuesday. At least 50 people were killed in six Eastern states as record rainfall last week overwhelmed rivers and sewer systems."
-    publishedDateTime: 2021-09-07T04:09:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/article/Biden-to-survey-NY-and-NJ-storm-damage-after-16439311.php"
-    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/Biden-to-survey-NY-and-NJ-storm-damage-after-16439311.php"
-    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Biden-to-survey-NY-and-NJ-storm-damage-after-16439311.php"
+    excerpt: "President Joe Biden will survey damage in parts of the northeast that suffered catastrophic flash flooding from the remnants of Hurricane Ida, and use the muddy backdrop to call for federal spending to fortify infrastructure so it can better withstand such powerful storms At least 50 people were killed in six Eastern states as record rainfall last week overwhelmed rivers and sewer systems."
+    publishedDateTime: 2021-09-07T13:21:00Z
+    webUrl: "https://www.silive.com/news/2021/09/biden-to-survey-ny-and-nj-storm-damage-after-deadly-flooding.html"
+    ampWebUrl: "https://www.silive.com/news/2021/09/biden-to-survey-ny-and-nj-storm-damage-after-deadly-flooding.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-silive-com.cdn.ampproject.org/c/s/www.silive.com/news/2021/09/biden-to-survey-ny-and-nj-storm-damage-after-deadly-flooding.html?outputType=amp"
     type: article
     provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
+      name: SILive
+      domain: silive.com
     quality: 75
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BNEVFFUN4ZBABGPNNMITKWHIZU.jpeg"
+        width: 1446
+        height: 964
         isCached: true
   - title: "President Biden to tour storm damage from Ida in New York, New Jersey"
     excerpt: "President Joe Biden will survey damage in parts of the northeast that suffered catastrophic flash flooding from the remnants of Hurricane Ida, and use the muddy backdrop to call for federal spending to fortify infrastructure so it can better withstand such powerful storms."
@@ -561,6 +557,6 @@ related:
         height: 1453
         isCached: true
 
-secured: "ereQiAFp5qpDTxfZWlZ64uzOWPRy0yOaWGugKilwTYsaFcOxxKsqApTgSEDslLGAPbouT5K+K66glmmITwllh6Z66NUShEJw0WsN82AMrqJhyuvOagxWSmVcb82ZXK7OzSOjwzwvQmNjHIIMqkYuf7Ju4IoLNtaecM77rcy5cCccI3umoOePawX/y3dXpuXFro//vIf/0kLsvHX/oAc+By/9KkD9RiaifWJQAZ3YoTdmB4S+WID2IUj4UhghoiGcX6QLkJ2cECEO8IDRE8+Ca/6PfimmkOP6w+LtgtGhRfkGtfm37ENkzZxgqqdo0htpz1fwgKT0n5GzFCrxTzrY9+z1tcGoyHNXtZcb+oG/mso=;vv+7nIJYQHhglASYZXcX9w=="
+secured: "YfONoRDoGPgatDRIbfe9lbrjQoaCVKn6oqF3HDYVSR2Jdfek/vumSGj+LwYyWS3rhOoU4Nb1KP16EoHOKPLE/B91SW/MhKFp8FiUY08YNyo/1RwOtV72G3Ws4SR97nZ3bSBFHodUA+qcjsHsDoB6or1jHpDk8CHCkXxA8eKmC8sI3hzx1VvNZIfELCx8ouVBQ3DjrLQ5PpGg53Ie/PA/JAxcuJTayjc0PdaiD5PdQrvTNNRlFcP8xl8s68Hk8BrWyEDYqxmBHJWYehaYw1YoUYtva9YoqlajKrsMTroZ2mzmQ+CCvU2oBqFKK/3vZTztjy1tUAIXj6PQlU4pKRspDe1nU+yu83WUsVjPjqaO434=;iiUAzl9zsO3lq4vIH9x6iA=="
 ---
 
