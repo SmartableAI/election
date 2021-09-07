@@ -2,19 +2,19 @@
 category: news
 title: "Biden marks Labor Day delivering sandwiches to union members"
 excerpt: "President Joe Biden marked the Labor Day holiday on Monday by delivering deli sandwiches to union members, the people he says built the middle class. A casually dressed Biden stepped from his dark SUV holding boxes of sandwiches from Capriotti's,"
-publishedDateTime: 2021-09-06T23:09:00Z
-originalUrl: "https://www.stamfordadvocate.com/news/article/Biden-marks-Labor-Day-delivering-sandwiches-to-16438764.php"
-webUrl: "https://www.stamfordadvocate.com/news/article/Biden-marks-Labor-Day-delivering-sandwiches-to-16438764.php"
-ampWebUrl: "https://www.stamfordadvocate.com/news/amp/Biden-marks-Labor-Day-delivering-sandwiches-to-16438764.php"
-cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Biden-marks-Labor-Day-delivering-sandwiches-to-16438764.php"
+publishedDateTime: 2021-09-07T01:09:00Z
+originalUrl: "https://www.seattlepi.com/news/article/Biden-marks-Labor-Day-delivering-sandwiches-to-16438764.php"
+webUrl: "https://www.seattlepi.com/news/article/Biden-marks-Labor-Day-delivering-sandwiches-to-16438764.php"
+ampWebUrl: "https://www.seattlepi.com/news/amp/Biden-marks-Labor-Day-delivering-sandwiches-to-16438764.php"
+cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Biden-marks-Labor-Day-delivering-sandwiches-to-16438764.php"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: StamfordAdvocate
-  domain: stamfordadvocate.com
+  name: seattlepi.com
+  domain: seattlepi.com
 
 topics:
   - Election
@@ -479,6 +479,6 @@ related:
         height: 1453
         isCached: true
 
-secured: "mPmwtOf1qGVbF2vwrPlM9z2QQcgWfpwSsmK3qT6ipMiZzuVQW64jyltvQyiI5zM6V1Zk/KeI8+j1RIEPKMwbCxvn3UiPO88y7sXzWH1fHpHWY97GbAWMxvkwbmNqv1/tEcdl+Z0N/wzoKsfn9+cRJK7jjZLHiUidhcUoIF6udWIeCwInNnqltwouUh1A0wCiBoBodsuWDWgwg8IQJMkc0DHI3HxW2o+LYq+lSBIfmYzQZy3035FomMkeIfKhuX9Vx3G4nx6dfzrU7OTe5A33UxeygXhFlU51njlvr7ZatI7pTPiIziTXOpZmWOf5KlwI6M7A5J3XvE2LDtlo8RFVhbratSj7tPJXxUX6KnRczUE=;dYF0Ky4VZH4KtInDWQhiQQ=="
+secured: "ErYSyLiOXw10CpsCKsU4CUwPKqHQCV0Bjrv4YIHOibODc4OlpWDwJFC4HVWJHxbKpYOaPwwHNIhW2b2Hcw2fmjYV1Tzu8Dr5b5B2yJqG5uySsmnXL98ZZyWt+N4p/RMRA6TrIKOxg4FYYbM/jVjNjNxzDDKdbcACqwWgsO9RDzgGrKKM8NiXonWnNSJIWxeoEKFyKANkqJtNy15/YjhT/hWln+PIAV963k08wYi8nyGqd0QOxO/1nPKiPWQK45Ca9Av+RGHKdKGdtYqgDwmEXnnx4svKnu8GH/ZGAO+4H3vZIGuWx6BETohI6nT7/c7qrYiQHdgIPjLFXGUo/b2Z0Asbe4wujSvzMvBuD1pYcEw=;wgJttxhG843oYEvOMHm1mA=="
 ---
 

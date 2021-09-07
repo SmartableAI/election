@@ -247,14 +247,14 @@ related:
         isCached: true
   - title: "Biden marks Labor Day delivering sandwiches to union members"
     excerpt: "President Joe Biden marked the Labor Day holiday on Monday by delivering deli sandwiches to union members, the people he says built the middle class. A casually dressed Biden stepped from his dark SUV holding boxes of sandwiches from Capriotti's,"
-    publishedDateTime: 2021-09-06T23:09:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/article/Biden-marks-Labor-Day-delivering-sandwiches-to-16438764.php"
-    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/Biden-marks-Labor-Day-delivering-sandwiches-to-16438764.php"
-    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Biden-marks-Labor-Day-delivering-sandwiches-to-16438764.php"
+    publishedDateTime: 2021-09-07T01:09:00Z
+    webUrl: "https://www.seattlepi.com/news/article/Biden-marks-Labor-Day-delivering-sandwiches-to-16438764.php"
+    ampWebUrl: "https://www.seattlepi.com/news/amp/Biden-marks-Labor-Day-delivering-sandwiches-to-16438764.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Biden-marks-Labor-Day-delivering-sandwiches-to-16438764.php"
     type: article
     provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
+      name: seattlepi.com
+      domain: seattlepi.com
     quality: 75
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
