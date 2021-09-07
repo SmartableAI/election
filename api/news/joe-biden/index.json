@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-07-biden-expected-to-campaign-for-newsom-in-california-next-week.md",
+      "title": "Biden expected to campaign for Newsom in California next week",
+      "excerpt": "President Biden is expected to travel to California next week to campaign on behalf of California Gov. Gavin. Newsom (D) ahead of the Sept. 14 recall election.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/571071-biden-expected-to-campaign-for-newsom-in-california-next-week",
+      "originalUrl": "https://thehill.com/homenews/administration/571071-biden-expected-to-campaign-for-newsom-in-california-next-week",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/article_images/bidenjoe_080521getty_jobs.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/571071-biden-expected-to-campaign-for-newsom-in-california-next-week?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/571071-biden-expected-to-campaign-for-newsom-in-california-next-week?amp",
+      "publishedDateTime": "2021-09-07T08:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-09-07-biden-to-visit-areas-of-nyc-nj-damaged-by-floods-from-hurricane-ida.md",
       "title": "Biden to visit areas of NYC, N.J. damaged by floods from Hurricane Ida",
       "excerpt": "President Joe Biden on Tuesday will visit New York City and multiple locations in New Jersey that were heavily damaged by major flooding and rains that killed dozens of people last week.",
@@ -1074,7 +1126,7 @@
       "originalUrl": "https://www.dailynews.com/2021/08/30/senior-living-bidens-no-jab-no-job-order-creates-quandary-for-nursing-homes/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -1419,49 +1471,6 @@
       "provider": {
         "name": "The Daily Signal",
         "domain": "dailysignal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-joe-biden-seeks-diplomacy-with-iran-on-nuclear-deal-but-open-to-other-options.md",
-      "title": "Joe Biden seeks diplomacy with Iran on nuclear deal, but open to 'other options'",
-      "excerpt": "President Joe Biden on Friday said the United States will try diplomacy to keep Iran from obtaining nuclear weapons, but will use \"other options\" if necessary.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/",
-      "originalUrl": "https://www.upi.com/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/3931630085407/2021/1/5a644c6dc5548efdc6df8cce0f83b200/v1.5/Joe-Biden-seeks-diplomacy-with-Iran-on-nuclear-deal-but-open-to-other-options.jpg",
-          "width": 800,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/",
-      "publishedDateTime": "2021-08-27T11:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
         "images": null,
         "publishers": null,
         "authors": null

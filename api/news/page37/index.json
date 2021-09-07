@@ -2,6 +2,114 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-06-22-irans-hardline-president-elect-rules-out-meeting-with-biden-as-nuclear-talks-paused-for-decision-making.md",
+      "title": "Iran's hardline president-elect rules out meeting with Biden as nuclear talks paused for \"decision making\"",
+      "excerpt": "Tehran's nuclear negotiator reported \"good progress\" in talks over the nuclear deal, but incoming leader Ebrahim Raisin may hit the brakes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/iran-ebrahim-raisi-biden-nuclear-deal-united-states/",
+      "originalUrl": "https://www.cbsnews.com/news/iran-ebrahim-raisi-biden-nuclear-deal-united-states/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/21/8578621d-1f9d-4b0d-8837-9eba4da85bd9/thumbnail/1200x630g8/b53d1f47c5fd34045a8ef2ee032f1524/iran-raisi-1233575278.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/iran-ebrahim-raisi-biden-nuclear-deal-united-states/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/iran-ebrahim-raisi-biden-nuclear-deal-united-states/",
+      "publishedDateTime": "2021-06-21T12:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-21-obama-ethics-chief-hunter-biden-selling-art-at-obviously-inflated-prices-to-mystery-buyers-feels-grifty.md",
+      "title": "Obama ethics chief: Hunter Biden selling art at 'obviously inflated prices' to mystery buyers feels 'grifty'",
+      "excerpt": "Walter Shaub, the former Office of Government Ethics director under Obama, ripped into Biden for selling his art for up to $500,000, saying that, while the issue would not involve his governmental alma mater, “common sense should have steered him away from this sale.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nEOqG1fmWRU/walter-shaub-hunter-biden-art",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nEOqG1fmWRU/walter-shaub-hunter-biden-art",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1faffc59-fb5d-4fa0-aea5-711fd83b7338/2446c972-e3cf-45b1-b17d-55aacd1d3ff7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/walter-shaub-hunter-biden-art.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/walter-shaub-hunter-biden-art.amp",
+      "publishedDateTime": "2021-06-21T11:16:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-desantis-edges-out-trump-in-2024-straw-poll-tucker-carlson-rules-out-bid.md",
       "title": "DeSantis edges out Trump in 2024 straw poll, Tucker Carlson rules out bid",
       "excerpt": "Ron DeSantis, who has endeared himself to conservatives for bucking coronavirus restrictions and lockdowns, and combating critical race theory, hasn’t said he would mount a campaign in 2024.",
@@ -1229,110 +1337,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-19-us-bishops-approve-teaching-document-that-may-rebuke-biden-and-other-catholic-politicians-who-support-abortion-rights.md",
-      "title": "U.S. bishops approve \"teaching document\" that may rebuke Biden and other Catholic politicians who support abortion rights",
-      "excerpt": "The decision came despite appeals from the Vatican for a more cautious and collegial approach to the divisive issue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/bishops-possible-rebuke-joe-biden-communion-abortion-rights/",
-      "originalUrl": "https://www.cbsnews.com/news/bishops-possible-rebuke-joe-biden-communion-abortion-rights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/18/0dab9461-64ac-439e-bba3-006f56d191ab/thumbnail/1200x630/8969446ae0a837cb8619805808b88017/ap21169598321502.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/bishops-possible-rebuke-joe-biden-communion-abortion-rights/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/bishops-possible-rebuke-joe-biden-communion-abortion-rights/",
-      "publishedDateTime": "2021-06-18T14:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-19-at-risk-of-falling-short-on-vaccine-goal-biden-marks-new-milestone-300m-shots-under-his-watch.md",
-      "title": "At risk of falling short on vaccine goal, Biden marks new milestone: 300M shots under his watch",
-      "excerpt": "The White House is pointing to a new milestone on vaccinations – 300 million shots administered since President Joe Biden took office.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/risk-falling-short-vaccine-goal-biden-marks-milestone/story?id=78361761",
-      "originalUrl": "https://abcnews.go.com/Politics/risk-falling-short-vaccine-goal-biden-marks-milestone/story?id=78361761",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/american-covid-milestone-joe-biden-kamala-harris-07-rt-llr-210618_1624043312324_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-18T14:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

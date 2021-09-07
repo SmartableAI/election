@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-07-biden-expected-to-campaign-for-newsom-in-california-next-week.md",
+      "title": "Biden expected to campaign for Newsom in California next week",
+      "excerpt": "President Biden is expected to travel to California next week to campaign on behalf of California Gov. Gavin. Newsom (D) ahead of the Sept. 14 recall election.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/571071-biden-expected-to-campaign-for-newsom-in-california-next-week",
+      "originalUrl": "https://thehill.com/homenews/administration/571071-biden-expected-to-campaign-for-newsom-in-california-next-week",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/article_images/bidenjoe_080521getty_jobs.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/571071-biden-expected-to-campaign-for-newsom-in-california-next-week?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/571071-biden-expected-to-campaign-for-newsom-in-california-next-week?amp",
+      "publishedDateTime": "2021-09-07T08:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-09-07-donald-trump-jr-says-his-dad-is-getting-younger-because-stress-fuels-him.md",
+      "title": "Donald Trump Jr. Says His Dad is Getting Younger Because Stress 'Fuels Him'",
+      "excerpt": "Trump Jr. has regularly sung his father's praises and was a key figure for Trump's 2020 presidential campaign.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-jr-says-his-dad-getting-younger-because-stress-fuels-him-1626615",
+      "originalUrl": "https://www.newsweek.com/donald-trump-jr-says-his-dad-getting-younger-because-stress-fuels-him-1626615",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1888558/donald-trump-jr-trump.jpg",
+          "width": 2268,
+          "height": 1548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-jr-says-his-dad-getting-younger-because-stress-fuels-him-1626615?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-jr-says-his-dad-getting-younger-because-stress-fuels-him-1626615?amp=1",
+      "publishedDateTime": "2021-09-07T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-09-07-biden-to-visit-areas-of-nyc-nj-damaged-by-floods-from-hurricane-ida.md",
       "title": "Biden to visit areas of NYC, N.J. damaged by floods from Hurricane Ida",
       "excerpt": "President Joe Biden on Tuesday will visit New York City and multiple locations in New Jersey that were heavily damaged by major flooding and rains that killed dozens of people last week.",
@@ -100,7 +204,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 726,
+      "heat": 746,
       "tags": null,
       "images": [
         {
@@ -780,7 +884,7 @@
       "originalUrl": "https://www.newsweek.com/lara-trump-slams-hypocritical-kamala-harris-michelle-obama-silence-afghan-women-1626238",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -811,49 +915,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-09-05-harris-to-california-on-wednesday-to-campaign-with-newsom.md",
-      "title": "Harris to California on Wednesday to campaign with Newsom",
-      "excerpt": "Vice President Kamala Harris will visit California’s Bay Area Wednesday ahead of Gov. Gavin Newsom's Sept. 14 recall election.",
-      "sourceUrl": null,
-      "webUrl": "https://thegrio.com/2021/09/05/harris-campaign-for-newsom/",
-      "originalUrl": "https://thegrio.com/2021/09/05/harris-campaign-for-newsom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thegrio.com/wp-content/uploads/2021/09/1000-14.jpeg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thegrio.com/2021/09/05/harris-campaign-for-newsom/amp/",
-      "cdnAmpWebUrl": "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/09/05/harris-campaign-for-newsom/amp/",
-      "publishedDateTime": "2021-09-05T07:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Grio",
-        "domain": "thegrio.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -987,7 +1048,7 @@
       "originalUrl": "https://www.telegraph.co.uk/world-news/2021/09/05/white-house-keeping-kamala-harris-afghanistan-crisis-stop-contamination/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -1244,62 +1305,6 @@
         "Election",
         "Democratic Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-09-04-january-6-select-committee-refutes-claim-by-mccarthy-that-the-justice-department-cleared-trump-of-any-role-in-insurrection.md",
-      "title": "January 6 select committee refutes claim by McCarthy that the Justice Department cleared Trump of any role in insurrection",
-      "excerpt": "The top members of the select committee investigating the January 6 riot on Capitol Hill refuted recent claims by House Minority Leader Kevin McCarthy that former President Donald Trump has been cleared by the Justice Department of any role in the insurrection.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1cr0zKRtiiU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1cr0zKRtiiU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210726221744-06-capitol-riot-file-0106-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/04/politics/mccarthy-trump-select-committee-justice-department/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/04/politics/mccarthy-trump-select-committee-justice-department/index.html",
-      "publishedDateTime": "2021-09-04T10:00:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

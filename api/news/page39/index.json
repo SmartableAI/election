@@ -2,6 +2,115 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-06-17-fire-and-fury-author-writes-new-trump-book-landslide.md",
+      "title": "'Fire and Fury' author writes new Trump book 'Landslide'",
+      "excerpt": "The author of “Fire and Fury,” the million-seller from 2018 that helped launched the wave of inside accounts of the Trump White House, will have a last look coming out next month",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Entertainment/wireStory/fire-fury-author-writes-trump-book-landslide-78331930",
+      "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/fire-fury-author-writes-trump-book-landslide-78331930",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Entertainment/WireAP_d798f2abc2e04a698da13553b95b0f68_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Entertainment/wireStory/fire-fury-author-writes-trump-book-landslide-78331930",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/fire-fury-author-writes-trump-book-landslide-78331930",
+      "publishedDateTime": "2021-06-17T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-trump-on-covid-origins-i-believe-it-was-a-terrible-accident-but-i-believe-it-came-from-the-lab.md",
+      "title": "Trump on COVID origins: 'I believe it was a terrible accident, but I believe it came from the lab'",
+      "excerpt": "Former President Donald Trump said Wednesday that he believes the coronavirus pandemic is the result of a \"terrible accident\" during an exclusive interview on \"Hannity.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/trump-covid-wuhan-lab-terrible-accident",
+      "originalUrl": "https://www.foxnews.com/media/trump-covid-wuhan-lab-terrible-accident",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/304f1f6c-a9f9-4654-9320-4de5e9f88ab1/bc19c429-e77d-4c81-97cf-e885b590a2a1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/trump-covid-wuhan-lab-terrible-accident.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-covid-wuhan-lab-terrible-accident.amp",
+      "publishedDateTime": "2021-06-16T20:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-trump-also-writing-a-book-like-jared-kushner-its-a-fact-checking-nightmare.md",
       "title": "Trump Also Writing A Book Like Jared Kushner: It's 'A Fact-Checking Nightmare'",
       "excerpt": "Trump said he was \"writing like crazy\" to complete the \"book of all books\" Publishers from the Big Five said they were not aware of any book deal with Trump Jared Kushner has also secured a publishing deal for a Trump-era memoir Jared Kushner,",
@@ -1239,114 +1348,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-biden-wh-strategy-for-battling-domestic-terror-labels-white-supremacy-militia-extremists-as-biggest-threats.md",
-      "title": "Biden WH strategy for battling domestic terror labels White supremacy, militia 'extremists' as biggest threats",
-      "excerpt": "The Biden administration on Tuesday unveiled its national strategy for countering domestic terrorism, with officials telling Fox News it is designed to cut across the political spectrum and is “laser focused” on combating violence in the U.S., while warning that White supremacy and “militia violent extremists”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eBnlwRf0n_8/biden-strategy-domestic-terrorism-white-supremacy-militia-extremists-threats",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eBnlwRf0n_8/biden-strategy-domestic-terrorism-white-supremacy-militia-extremists-threats",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-strategy-domestic-terrorism-white-supremacy-militia-extremists-threats.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-strategy-domestic-terrorism-white-supremacy-militia-extremists-threats.amp",
-      "publishedDateTime": "2021-06-15T03:12:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-dana-carveys-joe-biden-impression-on-colbert-praised-as-perfect.md",
-      "title": "Dana Carvey's Joe Biden Impression on Colbert Praised As 'Perfect'",
-      "excerpt": "Dana Carvey appeared as Joe Biden for a full-interview with Stephen Colbert on The Late Show. His impression of the President went down well with fans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/dana-carvey-joe-biden-impression-late-show-stephen-colbert-1600688",
-      "originalUrl": "https://www.newsweek.com/dana-carvey-joe-biden-impression-late-show-stephen-colbert-1600688",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1821136/joe-biden-nato-summit.jpg",
-          "width": 2500,
-          "height": 1496,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/dana-carvey-joe-biden-impression-late-show-stephen-colbert-1600688?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/dana-carvey-joe-biden-impression-late-show-stephen-colbert-1600688?amp=1",
-      "publishedDateTime": "2021-06-15T02:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

@@ -9,8 +9,8 @@ ampWebUrl: "https://thegrio.com/2021/09/05/harris-campaign-for-newsom/amp/"
 cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/09/05/harris-campaign-for-newsom/amp/"
 type: article
 quality: 75
-heat: 155
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Grio
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden expected to campaign for Newsom in California next week"
+    excerpt: "President Biden is expected to travel to California next week to campaign on behalf of California Gov. Gavin. Newsom (D) ahead of the Sept. 14 recall election."
+    publishedDateTime: 2021-09-07T15:18:00Z
+    webUrl: "https://thehill.com/homenews/administration/571071-biden-expected-to-campaign-for-newsom-in-california-next-week"
+    ampWebUrl: "https://thehill.com/homenews/administration/571071-biden-expected-to-campaign-for-newsom-in-california-next-week?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/571071-biden-expected-to-campaign-for-newsom-in-california-next-week?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/bidenjoe_080521getty_jobs.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Kamala Harris to Bay Area on Wednesday to campaign with Newsom"
     excerpt: "Vice President Kamala Harris will visit California’s Bay Area next week to campaign with Gov. Gavin Newsom, who faces possible removal from office in a Sept. 14 recall election."
     publishedDateTime: 2021-09-05T02:03:00Z
@@ -42,6 +58,20 @@ related:
       - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/09/California_Recall_Harris_57413-e1630807640556.jpg?w=1024&#038;h=580"
         width: 1024
         height: 580
+        isCached: true
+  - title: "Larry Elder Dares Joe Biden to Campaign for Gavin Newsom"
+    excerpt: "Larry Elder Dares Joe Biden to Campaign for Gavin Newsom - [quote]Elder spoke exclusively to Breitbart News after an event addressing hundreds of supporters in Woo"
+    publishedDateTime: 2021-08-25T16:20:00Z
+    webUrl: "https://www.tigerdroppings.com/rant/politics/larry-elder-dares-joe-biden-to-campaign-for-gavin-newsom/97950237/"
+    type: article
+    provider:
+      name: TigerDroppings.com
+      domain: tigerdroppings.com
+    quality: 55
+    images:
+      - url: "https://content.api.news/v3/images/bin/58111913a5c0d762c7a58689a4d734f0"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Harris to California on Wednesday to campaign for Newsom"
     excerpt: "The White House says Vice President Kamala Harris will visit California’s Bay Area on Wednesday to campaign for Gov. Gavin Newsom, who faces removal from office in a Sept. 14 recall election."
@@ -65,19 +95,19 @@ related:
       name: Lexington Herald Leader
       domain: kentucky.com
     quality: 55
-  - title: "This simple advice from Kamala Harris will make you a better public speaker"
-    excerpt: "The vice president has, several times, offered smart, assuring words to nervous workers and students that this communications coach says are spot-on."
-    publishedDateTime: 2021-09-03T14:00:00Z
-    webUrl: "https://www.fastcompany.com/90670190/this-simple-advice-from-kamala-harris-will-make-you-a-better-public-speaker"
+  - title: "Kamala Harris to California on Wednesday to campaign with Gov. Newsom"
+    excerpt: "Vice President Kamala Harris will visit the Bay Area this week to campaign with Gov. Newsom, who faces possible removal from office in a Sept. 14 recall election."
+    publishedDateTime: 2021-09-07T15:14:00Z
+    webUrl: "https://www.pressdemocrat.com/article/news/kamala-harris-to-california-on-wednesday-to-campaign-with-gov-newsom/"
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 53
+      name: Santa Rosa Press Democrat
+      domain: pressdemocrat.com
+    quality: 55
     images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/09/p-1-this-simple-advice-from-kamala-harris-will-make-you-a-better-public-speaker.png"
-        width: 1280
-        height: 720
+      - url: "https://imengine.prod.srp.navigacloud.com?uuid=80dbd87a-1e9d-5115-a787-1fe2a71a2db9&type=primary&q=72&width=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "WpC24/3uHwHApQNLPOV8xYKcMsPpp+qf9x4CXU62rfawtSQjNRb4XRk9rw9OA1ms1WywJanZgw9R3NayNUODvN7uAdBiBicEmwRYyjP1C1AE2aW9kIYv6jQkCaNB2BIpDahQaGICt1nI90zYS0YLAi4+xuMU2e5vJV8XJ0xyhPiMS8c0aJq+nT2dIvOPZiGichrXznNI/j+gJAEGq5gpy8bbPlJWKNEUHxiwhrgU2YvYDG7/lwBwYddTAVYtRa3w4orvG8aMTcEKpNo92iFw2DV+7lhJ3wIow1yiZ5aJ6rft5zghNh9HK6lnVghZf/pAkN42s1bA8VhvkfC6YtaDJL3hHQMBFtCYQoIC0mYeZt6zGgN5Ku9Xm6PYLxzC/U9zoaLm5rIvU43gv1J98fN+RlknRIoTI3b+CMkQhYSw/xjlmuWo2+d5dYdJxWScD35a+nlUBWJ8WihQHFc65I/aMSRZgX4dALfHoR/blsiZpVFVYpkverIRHkFIa72mic9Us6Z9f3E3c1JVX1WeK0IvlQ==;MvAZYxUneXQJ9Wvbv6U10Q=="

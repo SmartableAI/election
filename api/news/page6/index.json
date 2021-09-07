@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-08-26-joe-biden-taps-milwaukee-mayor-tom-barrett-as-luxembourg-ambassador.md",
+      "title": "Joe Biden taps Milwaukee Mayor Tom Barrett as Luxembourg ambassador",
+      "excerpt": "President Joe Biden has nominated Milwaukee Mayor Tom Barrett to serve as the next U.S. ambassador to Luxembourg. The White House announced the appointment Wednesday. Barrett still needs Senate confirmation to serve,",
+      "sourceUrl": null,
+      "webUrl": "https://madison.com/wsj/news/local/govt-and-politics/joe-biden-taps-milwaukee-mayor-tom-barrett-as-luxembourg-ambassador/article_b47200d8-fa17-585a-bf19-bedbbba2cfb0.html",
+      "originalUrl": "https://madison.com/wsj/news/local/govt-and-politics/joe-biden-taps-milwaukee-mayor-tom-barrett-as-luxembourg-ambassador/article_b47200d8-fa17-585a-bf19-bedbbba2cfb0.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/a/8e/a8e22aa7-34d2-5cbe-932a-23a5b81e1e76/610857733438e.preview.jpg?resize=1024%2C754",
+          "width": 1024,
+          "height": 754,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://madison.com/news/local/govt-and-politics/joe-biden-taps-milwaukee-mayor-tom-barrett-as-luxembourg-ambassador/article_b47200d8-fa17-585a-bf19-bedbbba2cfb0.amp.html",
+      "cdnAmpWebUrl": "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/govt-and-politics/joe-biden-taps-milwaukee-mayor-tom-barrett-as-luxembourg-ambassador/article_b47200d8-fa17-585a-bf19-bedbbba2cfb0.amp.html",
+      "publishedDateTime": "2021-08-26T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Madison.com",
+        "domain": "madison.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-26-lz-granderson-the-election-is-over-in-arizona-the-trump-campaign-continues.md",
       "title": "LZ Granderson: The election is over. In Arizona, the Trump campaign continues",
       "excerpt": "I would like to share with you a brief conversation about politics that I didn't want to have. But the man in the Arizona bar sitting a couple of stools",
@@ -1247,54 +1290,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-trump-calls-on-florida-judge-to-help-reinstate-his-youtube-account.md",
-      "title": "Trump calls on Florida judge to help reinstate his Youtube account",
-      "excerpt": "Former President Donald Trump on Monday asked a Florida judge to issue a preliminary injunction in his case against YouTube that would compel the company to reinstate his access to the platform.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/08/24/trump-calls-on-judge-to-help-reinstate-his-youtube-account/",
-      "originalUrl": "https://nypost.com/2021/08/24/trump-calls-on-judge-to-help-reinstate-his-youtube-account/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-youtube.jpg?quality=90&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/08/24/trump-calls-on-judge-to-help-reinstate-his-youtube-account/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/24/trump-calls-on-judge-to-help-reinstate-his-youtube-account/amp/",
-      "publishedDateTime": "2021-08-24T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

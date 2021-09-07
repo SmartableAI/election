@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/09/07/politics/joe-biden-september-batt
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/07/politics/joe-biden-september-battles-ahead/index.html"
 type: article
 quality: 186
-heat: 726
+heat: 746
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210827175245-05-afghanistan-wh-tick-tock-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Jill Biden goes back to school"
+    excerpt: "Of all the educators returning to classrooms in person this fall, only one will be ferried there by a motorcade of Secret Service vehicles that depart from 1600 Pennsylvania Avenue.\n    \n"
+    publishedDateTime: 2021-09-07T14:10:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XJ2WB99zAaY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/07/politics/jill-biden-goes-back-to-school/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/07/politics/jill-biden-goes-back-to-school/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210423102100-01-jill-biden-0423-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

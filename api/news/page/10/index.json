@@ -2,6 +2,54 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-08-14-trump-fundraises-off-total-loser-andrew-cuomo-resigning.md",
+      "title": "Trump fundraises off ‘total loser’ Andrew Cuomo resigning",
+      "excerpt": "Former President Donald Trump is fundraising off the resignation of “total loser” and soon-to-be-former New York Gov. Andrew Cuomo.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/08/13/trump-fundraises-off-total-loser-andrew-cuomo-resigning/",
+      "originalUrl": "https://nypost.com/2021/08/13/trump-fundraises-off-total-loser-andrew-cuomo-resigning/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-cuomo.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/08/13/trump-fundraises-off-total-loser-andrew-cuomo-resigning/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/13/trump-fundraises-off-total-loser-andrew-cuomo-resigning/amp/",
+      "publishedDateTime": "2021-08-13T12:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-gop-demands-biden-administration-act-after-mayorkas-calls-border-crisis-unsustainable.md",
       "title": "GOP demands Biden administration act after Mayorkas calls border crisis 'unsustainable'",
       "excerpt": "Top Republicans on Friday called on the Biden administration to act on the crisis at the southern border after leaked audio emerged of Homeland Security Secretary Alejandro Mayorkas calling the situation there \"unsustainable.\"",
@@ -1282,63 +1330,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-kamala-harris-invites-business-leaders-to-the-white-house-to-discuss-child-care.md",
-      "title": "Kamala Harris invites business leaders to the White House to discuss child care.",
-      "excerpt": "Executives from companies like Airbnb, Chobani, Etsy and Microsoft were invited in an effort to drum up support for a key pillar of President Biden's $3.5 trillion budget.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/08/12/business/kamala-harris-child-care-business.html",
-      "originalUrl": "https://www.nytimes.com/2021/08/12/business/kamala-harris-child-care-business.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/08/12/business/12econ-brf-whitehouse/12econ-brf-whitehouse-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/08/12/business/kamala-harris-child-care-business.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/12/business/kamala-harris-child-care-business.amp.html",
-      "publishedDateTime": "2021-08-12T01:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
         "Democratic Voice"
       ]
     }

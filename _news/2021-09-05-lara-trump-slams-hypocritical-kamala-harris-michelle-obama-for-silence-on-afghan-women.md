@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/lara-trump-slams-hypocritical-kamala-harris
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lara-trump-slams-hypocritical-kamala-harris-michelle-obama-silence-afghan-women-1626238?amp=1"
 type: article
 quality: 131
-heat: 151
+heat: 171
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "CNN mocked for focusing on Melania Trump while Kamala Harris remains AWOL"
+    excerpt: "With Kamala Harris cancelling scheduled public appearances, CNN choosing to focus on Melania Trump angered viewers"
+    publishedDateTime: 2021-09-07T14:48:00Z
+    webUrl: "https://meaww.com/cnn-criticized-for-focus-on-melania-trump-when-kamala-harris-is-awol-reactions"
+    ampWebUrl: "https://meaww.com/amp/cnn-criticized-for-focus-on-melania-trump-when-kamala-harris-is-awol-reactions"
+    cdnAmpWebUrl: "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/cnn-criticized-for-focus-on-melania-trump-when-kamala-harris-is-awol-reactions"
+    type: article
+    provider:
+      name: Meaww
+      domain: meaww.com
+    quality: 89
+    images:
+      - url: "https://cheesecake.articleassets.meaww.com/547434/uploads/a03606c0-0fe7-11ec-8688-b9e084cb4afb_800_420.png"
+        width: 800
+        height: 420
+        isCached: true
   - title: "Did Kamala Harris Refuse To Be Vaccinated with the ‘Trump Vaccine’?"
     excerpt: "Harris also allegedly discouraged others from being vaccinated against COVID-19 during the 2020 election campaign."
     publishedDateTime: 2021-08-31T18:42:00Z

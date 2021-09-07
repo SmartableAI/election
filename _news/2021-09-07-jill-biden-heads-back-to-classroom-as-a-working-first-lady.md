@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Jill Biden heads back to classroom as a working first lady"
-excerpt: "Jill Biden is the first first lady to leave the White House and log hours at a full-time job. WASHINGTON — Jill Biden is going back to her whiteboard. After months of teaching writing and English to community college students in boxes on a computer screen,"
-publishedDateTime: 2021-09-07T08:42:00Z
-originalUrl: "https://www.firstcoastnews.com/article/news/nation-world/jill-biden-working-first-lady/507-e99b1de1-cb82-417d-b633-19d045031e1a"
-webUrl: "https://www.firstcoastnews.com/article/news/nation-world/jill-biden-working-first-lady/507-e99b1de1-cb82-417d-b633-19d045031e1a"
-ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/nation-world/jill-biden-working-first-lady/507-e99b1de1-cb82-417d-b633-19d045031e1a"
-cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/nation-world/jill-biden-working-first-lady/507-e99b1de1-cb82-417d-b633-19d045031e1a"
+excerpt: "Jill Biden is going back to her whiteboard. After months of teaching writing and English to community college students in boxes on a computer screen, the first lady resumes teaching in person Tuesday from"
+publishedDateTime: 2021-09-07T15:57:00Z
+originalUrl: "https://lasvegassun.com/news/2021/sep/07/jill-biden-heads-back-to-classroom-as-a-working-fi/"
+webUrl: "https://lasvegassun.com/news/2021/sep/07/jill-biden-heads-back-to-classroom-as-a-working-fi/"
 type: article
-quality: 75
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: First Coast News
-  domain: firstcoastnews.com
+  name: Las Vegas Sun
+  domain: lasvegassun.com
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://media.firstcoastnews.com/assets/CCT/images/a2671509-82e6-4346-a11a-a58102cbe00a/a2671509-82e6-4346-a11a-a58102cbe00a_1140x641.jpg"
-    width: 1140
-    height: 641
-    isCached: true
 
 related:
   - title: "Joe Biden and Europe are going different ways"
@@ -266,22 +258,6 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
-        isCached: true
-  - title: "Biden to survey NY and NJ storm damage after deadly flooding"
-    excerpt: "President Joe Biden will survey damage in parts of the northeast that suffered catastrophic flash flooding from the remnants of Hurricane Ida, and use the muddy backdrop to call for federal spending to fortify infrastructure so it can better withstand such powerful storms At least 50 people were killed in six Eastern states as record rainfall last week overwhelmed rivers and sewer systems."
-    publishedDateTime: 2021-09-07T13:21:00Z
-    webUrl: "https://www.silive.com/news/2021/09/biden-to-survey-ny-and-nj-storm-damage-after-deadly-flooding.html"
-    ampWebUrl: "https://www.silive.com/news/2021/09/biden-to-survey-ny-and-nj-storm-damage-after-deadly-flooding.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-silive-com.cdn.ampproject.org/c/s/www.silive.com/news/2021/09/biden-to-survey-ny-and-nj-storm-damage-after-deadly-flooding.html?outputType=amp"
-    type: article
-    provider:
-      name: SILive
-      domain: silive.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BNEVFFUN4ZBABGPNNMITKWHIZU.jpeg"
-        width: 1446
-        height: 964
         isCached: true
   - title: "President Biden to tour storm damage from Ida in New York, New Jersey"
     excerpt: "President Joe Biden will survey damage in parts of the northeast that suffered catastrophic flash flooding from the remnants of Hurricane Ida, and use the muddy backdrop to call for federal spending to fortify infrastructure so it can better withstand such powerful storms."
@@ -556,7 +532,16 @@ related:
         width: 2048
         height: 1453
         isCached: true
+  - title: "Biden to survey NY and NJ storm damage after deadly flooding"
+    excerpt: "President Joe Biden focused on long-term fixes as well as short-term relief Tuesday as he headed for tours of parts of the Northeast that suffered deadly flash"
+    publishedDateTime: 2021-09-07T15:38:00Z
+    webUrl: "https://lasvegassun.com/news/2021/sep/07/biden-to-survey-ny-and-nj-storm-damage-after-deadl/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 35
 
-secured: "YfONoRDoGPgatDRIbfe9lbrjQoaCVKn6oqF3HDYVSR2Jdfek/vumSGj+LwYyWS3rhOoU4Nb1KP16EoHOKPLE/B91SW/MhKFp8FiUY08YNyo/1RwOtV72G3Ws4SR97nZ3bSBFHodUA+qcjsHsDoB6or1jHpDk8CHCkXxA8eKmC8sI3hzx1VvNZIfELCx8ouVBQ3DjrLQ5PpGg53Ie/PA/JAxcuJTayjc0PdaiD5PdQrvTNNRlFcP8xl8s68Hk8BrWyEDYqxmBHJWYehaYw1YoUYtva9YoqlajKrsMTroZ2mzmQ+CCvU2oBqFKK/3vZTztjy1tUAIXj6PQlU4pKRspDe1nU+yu83WUsVjPjqaO434=;iiUAzl9zsO3lq4vIH9x6iA=="
+secured: "Ggrv6/CmmNWJ0bKS1j9Y8j5q1bZCOd8eNTzbRIh5ZGegZ8JA6l2EudQRs4otZQNX7QbFYf+X2i9bdpkCgrmoHL+ZFPGJcc0zFY23FNhvy3OI9mgc6GRDmAaDJ8qv1uDipN2r33WPPfSXheOQhzNoEvziWRAbqGO28zlIlurOHmsq7B8dYbW9Zt0tN5+AHQGZmtfVsMSjGNazXsLErnck/41Xyw7uz0q6qiWYFOSGIcpAzMTLf6OonVTq3X2PE0Va7U7difn+BoBuGYStJBu+i/WtFvmsBprNS0SM5c8QIbHbzzuorYzvH88UalwU7XxTRvA9kHa5/ibLx/Iml39zZD7yrk5OE8BEHoU4LqyoNwQ=;Wh8rKiBn2qVcL3mTf682gw=="
 ---
 

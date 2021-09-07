@@ -2,6 +2,58 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-08-02-pastor-greg-locke-says-only-crack-smoking-leftists-believe-joe-biden-won-election.md",
+      "title": "Pastor Greg Locke Says Only 'Crack-Smoking' Leftists Believe Joe Biden Won Election",
+      "excerpt": "Controversial Tennessee pastor Greg Locke again insisted President Joe Biden was not legitimately elected, and claimed only \"crack-smoking\" leftists would think he beat Donald Trump to the White House.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/pastor-greg-locke-says-only-crack-smoking-leftists-believe-joe-biden-won-election-1615146",
+      "originalUrl": "https://www.newsweek.com/pastor-greg-locke-says-only-crack-smoking-leftists-believe-joe-biden-won-election-1615146",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 394,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1859523/greg-locke-railed-against-president.jpg",
+          "width": 1213,
+          "height": 739,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/pastor-greg-locke-says-only-crack-smoking-leftists-believe-joe-biden-won-election-1615146?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pastor-greg-locke-says-only-crack-smoking-leftists-believe-joe-biden-won-election-1615146?amp=1",
+      "publishedDateTime": "2021-08-02T03:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-02-drone-footage-of-migrants-at-texas-bridge-an-absolute-catastrophe-from-biden-republican-says.md",
       "title": "Drone footage of migrants at Texas bridge an 'absolute catastrophe' from Biden, Republican says",
       "excerpt": "Troubling drone footage emerged online Sunday that reportedly showed up to 1,000 migrants being held by border patrol in Mission, Texas, prompted criticism from Republicans who said the footage underscores the crisis at the border.",
@@ -1240,62 +1292,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/30/politics/trump-election-justice/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/trump-election-justice/index.html",
       "publishedDateTime": "2021-07-30T10:27:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-biden-says-western-wildfires-demand-urgent-action-in-meeting-with-governors.md",
-      "title": "Biden says Western wildfires demand 'urgent action' in meeting with governors ",
-      "excerpt": "President Joe Biden said Friday the wildfires intensifying in the West demand \"urgent action\" as he met with seven governors to discuss how states are responding to the wildfires and how the federal government can best assist.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/m_fkjRS_29g/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/m_fkjRS_29g/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210729155622-01-biden-0723-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/30/politics/biden-wildfires-governors/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-wildfires-governors/index.html",
-      "publishedDateTime": "2021-07-30T10:20:21-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

@@ -21,6 +21,22 @@ topics:
   - Kamala Harris
 
 related:
+  - title: "Biden expected to campaign for Newsom in California next week"
+    excerpt: "President Biden is expected to travel to California next week to campaign on behalf of California Gov. Gavin. Newsom (D) ahead of the Sept. 14 recall election."
+    publishedDateTime: 2021-09-07T15:18:00Z
+    webUrl: "https://thehill.com/homenews/administration/571071-biden-expected-to-campaign-for-newsom-in-california-next-week"
+    ampWebUrl: "https://thehill.com/homenews/administration/571071-biden-expected-to-campaign-for-newsom-in-california-next-week?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/571071-biden-expected-to-campaign-for-newsom-in-california-next-week?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/bidenjoe_080521getty_jobs.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Harris to California on Wednesday to campaign with Newsom"
     excerpt: "Vice President Kamala Harris will visit California’s Bay Area Wednesday ahead of Gov. Gavin Newsom's Sept. 14 recall election."
     publishedDateTime: 2021-09-05T14:49:00Z
@@ -53,6 +69,20 @@ related:
         width: 1024
         height: 580
         isCached: true
+  - title: "Larry Elder Dares Joe Biden to Campaign for Gavin Newsom"
+    excerpt: "Larry Elder Dares Joe Biden to Campaign for Gavin Newsom - [quote]Elder spoke exclusively to Breitbart News after an event addressing hundreds of supporters in Woo"
+    publishedDateTime: 2021-08-25T16:20:00Z
+    webUrl: "https://www.tigerdroppings.com/rant/politics/larry-elder-dares-joe-biden-to-campaign-for-gavin-newsom/97950237/"
+    type: article
+    provider:
+      name: TigerDroppings.com
+      domain: tigerdroppings.com
+    quality: 55
+    images:
+      - url: "https://content.api.news/v3/images/bin/58111913a5c0d762c7a58689a4d734f0"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Harris to California on Wednesday to campaign for Newsom"
     excerpt: "The White House says Vice President Kamala Harris will visit California’s Bay Area on Wednesday to campaign for Gov. Gavin Newsom, who faces removal from office in a Sept. 14 recall election."
     publishedDateTime: 2021-09-05T06:17:00Z
@@ -64,19 +94,19 @@ related:
       name: Biloxi Sun Herald
       domain: sunherald.com
     quality: 55
-  - title: "This simple advice from Kamala Harris will make you a better public speaker"
-    excerpt: "The vice president has, several times, offered smart, assuring words to nervous workers and students that this communications coach says are spot-on."
-    publishedDateTime: 2021-09-03T14:00:00Z
-    webUrl: "https://www.fastcompany.com/90670190/this-simple-advice-from-kamala-harris-will-make-you-a-better-public-speaker"
+  - title: "Kamala Harris to California on Wednesday to campaign with Gov. Newsom"
+    excerpt: "Vice President Kamala Harris will visit the Bay Area this week to campaign with Gov. Newsom, who faces possible removal from office in a Sept. 14 recall election."
+    publishedDateTime: 2021-09-07T15:14:00Z
+    webUrl: "https://www.pressdemocrat.com/article/news/kamala-harris-to-california-on-wednesday-to-campaign-with-gov-newsom/"
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 53
+      name: Santa Rosa Press Democrat
+      domain: pressdemocrat.com
+    quality: 55
     images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/09/p-1-this-simple-advice-from-kamala-harris-will-make-you-a-better-public-speaker.png"
-        width: 1280
-        height: 720
+      - url: "https://imengine.prod.srp.navigacloud.com?uuid=80dbd87a-1e9d-5115-a787-1fe2a71a2db9&type=primary&q=72&width=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "PJBAY0PwMmbUsYfv05t3hkRU6opHMPVB8+qOP3//GDUT3J99wRUFvnia3bSPaVcRRoGElEWgwtrSD5ikH3CAPhqw9G3hY+mmCb3LsIvf3xgHOVyXhwJJF25GA4d2Dejv9DRBq9d2qbhkOG78+Cso6jMZGg0G17+F7v3ybqrXwatWzAyXgp4EgBTU64SIYnqqHNWvwrWqA923GQz9PnTq/qvYIIN9UrPhqoBJVkaSv2OMj4Y4e27uwAqYLd+sgIbqbvx2MupWMGuvrNTz8eUZIIPl3RLp5PMVSO5QZr6s5kEALYiVPAexASEOCVC6wYZs40iExGHaAII/rv5OdD1zYI6T3palhtYHwVs49QaZUj1gd9PvOpBsUiMXgBQ9QLdlnzhKUTWOiwG+M/X/hoP6nP13vbIbux8I7mzr63nRcxgxDa+xrdJZxZtI/9o26QoOqo6AnohoYsjAS/ZSnyptVNEFn+S5YUeW66AvI0NmQJe643Zgt9uAve8t2/tR+beQzgPNFeC16SA55NRH5ox7pQ==;jeEKeUbogNaknaNIkkUhWA=="

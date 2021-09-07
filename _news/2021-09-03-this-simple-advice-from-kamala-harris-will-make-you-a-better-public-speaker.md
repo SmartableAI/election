@@ -25,60 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "Harris to California on Wednesday to campaign with Newsom"
-    excerpt: "Vice President Kamala Harris will visit California’s Bay Area Wednesday ahead of Gov. Gavin Newsom's Sept. 14 recall election."
-    publishedDateTime: 2021-09-05T14:49:00Z
-    webUrl: "https://thegrio.com/2021/09/05/harris-campaign-for-newsom/"
-    ampWebUrl: "https://thegrio.com/2021/09/05/harris-campaign-for-newsom/amp/"
-    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/09/05/harris-campaign-for-newsom/amp/"
+  - title: "White House keeping Kamala Harris from Afghanistan crisis 'to stop contamination'"
+    excerpt: "The White House is deliberately keeping Kamala Harris insulated from the Afghanistan withdrawal debacle to clear her way for a future presidential run, sources have told the Teleg"
+    publishedDateTime: 2021-09-05T13:31:00Z
+    webUrl: "https://www.telegraph.co.uk/world-news/2021/09/05/white-house-keeping-kamala-harris-afghanistan-crisis-stop-contamination/"
+    ampWebUrl: "https://www.telegraph.co.uk/world-news/2021/09/05/white-house-keeping-kamala-harris-afghanistan-crisis-stop-contamination/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/world-news/2021/09/05/white-house-keeping-kamala-harris-afghanistan-crisis-stop-contamination/amp/"
     type: article
     provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 75
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 70
     images:
-      - url: "https://thegrio.com/wp-content/uploads/2021/09/1000-14.jpeg"
-        width: 1000
-        height: 667
+      - url: "https://www.telegraph.co.uk/content/dam/world-news/2021/09/05/TELEMMGLPICT000269145920_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg"
+        width: 2500
+        height: 1563
         isCached: true
-  - title: "Kamala Harris to Bay Area on Wednesday to campaign with Newsom"
-    excerpt: "Vice President Kamala Harris will visit California’s Bay Area next week to campaign with Gov. Gavin Newsom, who faces possible removal from office in a Sept. 14 recall election."
-    publishedDateTime: 2021-09-05T02:03:00Z
-    webUrl: "https://www.eastbaytimes.com/2021/09/04/harris-to-california-on-wednesday-to-campaign-with-newsom/"
-    ampWebUrl: "https://www.eastbaytimes.com/2021/09/04/harris-to-california-on-wednesday-to-campaign-with-newsom/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/09/04/harris-to-california-on-wednesday-to-campaign-with-newsom/amp/"
+  - title: "With Kamala Harris laying low, CNN responds with hard-hitting piece asking where’s Melania?"
+    excerpt: "With Vice President Kamala Harris conspicuously laying low as the ceiling falls in on boss President Joe Biden for his disastrous management of the Afghanistan exit, CNN found a great way to divert attention. Almost as if the network suddenly called out ..."
+    publishedDateTime: 2021-09-07T10:53:00Z
+    webUrl: "https://www.bizpacreview.com/2021/09/07/with-kamala-harris-laying-low-cnn-responds-with-hard-hitting-piece-asking-wheres-melania-1130601/"
     type: article
     provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 75
+      name: BizPac Review
+      domain: bizpacreview.com
+    quality: 45
     images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/09/California_Recall_Harris_57413-e1630807640556.jpg?w=1024&#038;h=580"
-        width: 1024
-        height: 580
+      - url: "https://www.bizpacreview.com/wp-content/uploads/2021/09/getty-Melania2-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Harris to California on Wednesday to campaign for Newsom"
-    excerpt: "The White House says Vice President Kamala Harris will visit California’s Bay Area on Wednesday to campaign for Gov. Gavin Newsom, who faces removal from office in a Sept. 14 recall election."
-    publishedDateTime: 2021-09-05T06:17:00Z
-    webUrl: "https://www.sunherald.com/news/politics-government/national-politics/article254010883.html"
-    ampWebUrl: "https://amp.sunherald.com/news/politics-government/national-politics/article254010883.html"
-    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/politics-government/national-politics/article254010883.html"
-    type: article
-    provider:
-      name: Biloxi Sun Herald
-      domain: sunherald.com
-    quality: 55
-  - title: "Harris to California on Wednesday to campaign with Newsom"
-    excerpt: "Vice President Kamala Harris is set to visit California’s Bay Area on Wednesday to campaign with Gov. Gavin Newsom, who faces removal from office in a Sept. 14 recall election."
-    publishedDateTime: 2021-09-05T21:38:00Z
-    webUrl: "https://www.kentucky.com/news/politics-government/national-politics/article254010883.html"
-    ampWebUrl: "https://amp.kentucky.com/news/politics-government/national-politics/article254010883.html"
-    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/politics-government/national-politics/article254010883.html"
-    type: article
-    provider:
-      name: Lexington Herald Leader
-      domain: kentucky.com
-    quality: 55
 
 secured: "AWD6jQgZMR6IvjGUD3v8jxeM9XzkpG2VjVL5fuAWABDIkgWL5rKKGD3AF5cachLbt0uHJAsf89gmE9oO56ldcduaxWx6GglFgbma+IS4ESqp1QGRQAv8zrnizUQ8bp3y1NZTsXSRk7035a7bla0fxkUSoNi/x96Pyez9jpeUAvcUJu1rJa5+iHx71mWvYi3Zj9mYqfHxgPpLRD9QPqgepXW9HHAKF4/0kyZ8g4Uj6wZYHcEpTlkARYunaqfobEPCpFM6GwP1L34cBmEWczXhfaJzbdegJpf+f/GzkhFcTEB6swIibAOGPJ4qLvaIcPlCxCgjGxOATq96h+0ou0DA8hE+H785bu4XlCC6P6QtOdT0qNJz3SJtWarab4cnHlq1rLolTwPEgM7PRPxFCzXpkDkFc7CmyzVgCbnlYikIY2VDRdkB3eKZNqiYP0XoGoAPE0AEQKJimv0CR2Y+bfF7+SoQeXKzwHD6sxwL7IhgzLmP9c4LNGlNCEDHYcGZOSc2+VhJJYaAtn+s1QRxqsWGhw==;66IFy7TLKiSflDzeYXJtLg=="
 ---

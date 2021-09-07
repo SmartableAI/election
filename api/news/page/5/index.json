@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-28-al-sharpton-to-biden-black-community-is-being-stabbed-in-the-back.md",
+      "title": "Al Sharpton to Biden: Black community is being stabbed ‘in the back’",
+      "excerpt": "Rev. Al Sharpton hit the stage Saturday during a voting rights rally to tell President Biden that supporters of the filibuster are “stabbing” the Black community “in the back.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gon77kj4eIg/sharpton-tells-biden-black-community-is-being-stabbed-in-the-back",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gon77kj4eIg/sharpton-tells-biden-black-community-is-being-stabbed-in-the-back",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5f25869d-3024-4c4f-8742-1e0eef68548d/d6d6e7f0-f4c6-4a59-9ead-0fef08fc9201/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/sharpton-tells-biden-black-community-is-being-stabbed-in-the-back.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sharpton-tells-biden-black-community-is-being-stabbed-in-the-back.amp",
+      "publishedDateTime": "2021-08-28T16:58:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-29-howie-carr-think-joe-biden-is-bad-check-out-the-current-line-of-succession.md",
       "title": "Howie Carr: Think Joe Biden is bad? Check out the current line of succession",
       "excerpt": "Before you heed those calls to remove Dementia Joe Biden via either impeachment or the 25th amendment, remember the old saying: Be careful what you wish for.",
@@ -1187,49 +1243,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-joe-biden-taps-milwaukee-mayor-tom-barrett-as-luxembourg-ambassador.md",
-      "title": "Joe Biden taps Milwaukee Mayor Tom Barrett as Luxembourg ambassador",
-      "excerpt": "President Joe Biden has nominated Milwaukee Mayor Tom Barrett to serve as the next U.S. ambassador to Luxembourg. The White House announced the appointment Wednesday. Barrett still needs Senate confirmation to serve,",
-      "sourceUrl": null,
-      "webUrl": "https://madison.com/wsj/news/local/govt-and-politics/joe-biden-taps-milwaukee-mayor-tom-barrett-as-luxembourg-ambassador/article_b47200d8-fa17-585a-bf19-bedbbba2cfb0.html",
-      "originalUrl": "https://madison.com/wsj/news/local/govt-and-politics/joe-biden-taps-milwaukee-mayor-tom-barrett-as-luxembourg-ambassador/article_b47200d8-fa17-585a-bf19-bedbbba2cfb0.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/a/8e/a8e22aa7-34d2-5cbe-932a-23a5b81e1e76/610857733438e.preview.jpg?resize=1024%2C754",
-          "width": 1024,
-          "height": 754,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://madison.com/news/local/govt-and-politics/joe-biden-taps-milwaukee-mayor-tom-barrett-as-luxembourg-ambassador/article_b47200d8-fa17-585a-bf19-bedbbba2cfb0.amp.html",
-      "cdnAmpWebUrl": "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/govt-and-politics/joe-biden-taps-milwaukee-mayor-tom-barrett-as-luxembourg-ambassador/article_b47200d8-fa17-585a-bf19-bedbbba2cfb0.amp.html",
-      "publishedDateTime": "2021-08-26T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Madison.com",
-        "domain": "madison.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

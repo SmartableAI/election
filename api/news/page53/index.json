@@ -2,6 +2,110 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2021-05-19-mark-mccloskey-st-louis-man-who-defended-home-from-blm-announces-senate-run-to-stop-bidens-socialism.md",
+      "title": "Mark McCloskey, St. Louis man who defended home from BLM, announces Senate run to stop Biden's 'socialism'",
+      "excerpt": "A St. Louis attorney who famously defended his home from Black Lives Matter protesters who broke into his neighborhood announced his bid for U.S. Senate on Tuesday, telling \"Tucker Carlson Tonight\" he will defend Missourians the same way he defended his wife and family.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/krpMf8CaaSY/mark-mccloskey-st-louis-man-who-defended-home-from-blm-announces-senate-run-ill-defend-the-people-of-mo",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/krpMf8CaaSY/mark-mccloskey-st-louis-man-who-defended-home-from-blm-announces-senate-run-ill-defend-the-people-of-mo",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14fca3c4-f0a8-4078-8686-1d1eae5b5d72/fbb34b74-7307-43e6-b444-106706c1aa0c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mark-mccloskey-st-louis-man-who-defended-home-from-blm-announces-senate-run-ill-defend-the-people-of-mo.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mark-mccloskey-st-louis-man-who-defended-home-from-blm-announces-senate-run-ill-defend-the-people-of-mo.amp",
+      "publishedDateTime": "2021-05-18T19:26:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-vp-kamala-harris-covid-an-opportunity-to-transform-how-we-live-how-we-work-and-how-we-vote.md",
+      "title": "VP Kamala Harris: COVID An \"Opportunity\" to \"Transform\" How We Live, How We Work, And How We Vote",
+      "excerpt": "Vice President Kamala Harris called COVID-19 an \"opportunity\" to transform society in a speech to the Asian American Pacific Islander Heritage Month unity summit on Wednesday. \"As we emerge from the pandemic,",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/05/19/vp_kamala_harris_covid_an_opportunity_to_transform_how_we_live_how_we_work_and_how_we_vote.html#!",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/05/19/vp_kamala_harris_covid_an_opportunity_to_transform_how_we_live_how_we_work_and_how_we_vote.html#!",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/54/543713.jpg",
+          "width": 844,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/05/19/vp_kamala_harris_covid_an_opportunity_to_transform_how_we_live_how_we_work_and_how_we_vote.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/19/vp_kamala_harris_covid_an_opportunity_to_transform_how_we_live_how_we_work_and_how_we_vote.amp.html",
+      "publishedDateTime": "2021-05-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-chris-christie-swipes-nikki-haley-for-deferring-to-trump-on-potential-2024-run-shows-weakness-indecision.md",
       "title": "Chris Christie swipes Nikki Haley for 'deferring' to Trump on potential 2024 run: Shows 'weakness, indecision'",
       "excerpt": "Former New Jersey Gov. Chris Christie threw some shade at former South Carolina Gov. Nikki Haley over remarks she made about whether or not she would run for president in 2024.",
@@ -1226,115 +1330,6 @@
         "Election",
         "Democratic Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-1m-ad-campaign-accuses-biden-of-working-with-dark-money-teachers-unions-to-keep-schools-closed.md",
-      "title": "$1M ad campaign accuses Biden of working with dark money, teachers unions, to keep schools closed",
-      "excerpt": "Americans for Public Trust launched a million-dollar ad campaign going after Biden and the CDC after it was revealed recently the agency was lobbied by the American Federation of Teachers on school reopenings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/biden-cdc-coronavirus-teachers-unions-school-reopening-guidelines",
-      "originalUrl": "https://www.foxnews.com/politics/biden-cdc-coronavirus-teachers-unions-school-reopening-guidelines",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/add16d20-9f6c-4889-b1f3-9beabe54d1da/be7b1d13-226b-42ba-9109-873a6ca93bfe/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-cdc-coronavirus-teachers-unions-school-reopening-guidelines.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cdc-coronavirus-teachers-unions-school-reopening-guidelines.amp",
-      "publishedDateTime": "2021-05-17T04:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-trump-jr-praises-anti-cancel-culture-rant-unaware-same-comedian-roasted-his-father-even-better.md",
-      "title": "Trump Jr. Praises Anti-Cancel-Culture Rant, Unaware Same Comedian Roasted His Father Even Better",
-      "excerpt": "Trump Jr. shared a comedy clip of Jonathan Pie, a fictional news reporter portrayed by British comedian Tom Walker.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-jr-praises-anti-cancel-culture-rant-unaware-same-comedian-roasted-his-father-even-better-1591948",
-      "originalUrl": "https://www.newsweek.com/trump-jr-praises-anti-cancel-culture-rant-unaware-same-comedian-roasted-his-father-even-better-1591948",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1798365/donald-trump-jr-praises-jonathan-pie.jpg",
-          "width": 2500,
-          "height": 1668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-jr-praises-anti-cancel-culture-rant-unaware-same-comedian-roasted-his-father-even-better-1591948?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-jr-praises-anti-cancel-culture-rant-unaware-same-comedian-roasted-his-father-even-better-1591948?amp=1",
-      "publishedDateTime": "2021-05-16T16:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

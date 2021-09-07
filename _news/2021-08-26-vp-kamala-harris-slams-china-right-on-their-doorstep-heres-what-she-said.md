@@ -201,6 +201,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "VP Harris, former President Bush to attend Flight 93 observance"
+    excerpt: "Vice President Kamala Harris and former President George W. Bush will attend the 20th annual observance at the Flight 93 Memorial in Shanksville. Governor Tom Wolf andâ€¦"
+    publishedDateTime: 2021-09-07T15:06:00Z
+    webUrl: "https://www.wearecentralpa.com/remembering911/vp-harris-former-president-bush-to-attend-flight-93-observance/"
+    ampWebUrl: "https://www.wearecentralpa.com/remembering911/vp-harris-former-president-bush-to-attend-flight-93-observance/amp/"
+    cdnAmpWebUrl: "https://www-wearecentralpa-com.cdn.ampproject.org/c/s/www.wearecentralpa.com/remembering911/vp-harris-former-president-bush-to-attend-flight-93-observance/amp/"
+    type: article
+    provider:
+      name: WEARECENTRALPA
+      domain: wearecentralpa.com
+    quality: 75
+    images:
+      - url: "https://www.wearecentralpa.com/wp-content/uploads/sites/69/2021/09/HARRIS_BUSH.jpg?w=1280"
+        width: 1020
+        height: 716
+        isCached: true
   - title: "Vice President Kamala Harris emphasizing human and worker rights in Vietnam"
     excerpt: "HANOI >> Vice President Kamala Harris will turn her attention to issues surrounding worker rights and civil liberties Thursday as she closes out her visit to Southeast Asia, elevating activists in a region of the world known for its challenges and restrictions to human rights."
     publishedDateTime: 2021-08-26T01:22:00Z
@@ -372,6 +388,20 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/9848ad9ce359a149221caf46e352e9f0/BIDEN-JOBS.jpg"
         width: 650
         height: 434
+        isCached: true
+  - title: "President Biden brings sandwiches to union building on Labor Day"
+    excerpt: "President Joe Biden marked Labor Day by bringing sandwiches to the International Brotherhood of Electrical Workers union building in New Castle, DE on Monday (9/6)"
+    publishedDateTime: 2021-09-07T15:19:00Z
+    webUrl: "https://www.khou.com/video/news/politics/president-biden-brings-sandwiches-to-union-building-on-labor-day/285-10a29e0f-b55f-4bb9-a907-607e1d312e37"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 55
+    images:
+      - url: "https://media.khou.com/assets/KHOU/images/187344c7-06c1-42d5-85c7-adfa7305becf/187344c7-06c1-42d5-85c7-adfa7305becf_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "For Biden’s presidency has been driven by crisis and is the ‘loneliest job’"
     excerpt: "President Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan, even as he and the nation continued to battle the COVID-19 pandemic."

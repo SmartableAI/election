@@ -2,6 +2,62 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-07-08-biden-changes-end-of-us-combat-mission-in-afghanistan-from-sept-11-to-aug-31.md",
+      "title": "Biden changes end of US combat mission in Afghanistan from Sept. 11 to Aug. 31",
+      "excerpt": "President Biden said U.S. troops will be out of Afghanistan sooner than his original Sept. 11 deadline, telling reporters Thursday U.S. forces will be home by Aug. 31. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EbsmBJ_ceLE/biden-says-us-troops-will-be-out-of-afghanistan-by-august-31",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EbsmBJ_ceLE/biden-says-us-troops-will-be-out-of-afghanistan-by-august-31",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 311,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/acfb444c-f839-4c69-9029-ea908694714b/298a5022-2e4c-40df-961e-d32a669c44c5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-us-troops-will-be-out-of-afghanistan-by-august-31.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-us-troops-will-be-out-of-afghanistan-by-august-31.amp",
+      "publishedDateTime": "2021-07-08T11:41:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-09-trump-cia-chief-joins-king-spaldings-bench-of-us-agency-alums.md",
       "title": "Trump CIA chief joins King & Spalding's bench of U.S. agency alums",
       "excerpt": "King & Spalding continues to build up its ranks of former federal government officials, announcing Thursday that it has added former U.S. Central Intelligence Agency director Gina Haspel to its national security team in Washington,",
@@ -51,6 +107,49 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-kamala-harris-stepdaughter-ella-emhoff-makes-paris-fashion-week-debut-for-balenciaga.md",
+      "title": "Kamala Harris’ stepdaughter Ella Emhoff makes Paris fashion week debut for Balenciaga",
+      "excerpt": "Ella Emhoff made her inaugural appearance at Paris fashion week Wednesday, walking the runway for Balenciaga. The designer who mesmerized the fashion masses the day her stepmom Kamala Harris was sworn in as vice president modeled a flowing black cape over a chic double-breasted suit for a star-studded audience that included Joe Jonas,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nydailynews.com/snyde/ny-kamala-harris-stepdaughter-ella-emhoff-balenciaga-paris-fashion-show-20210708-u2k5f32b2nf2lemmetiyx3dzga-story.html",
+      "originalUrl": "https://www.nydailynews.com/snyde/ny-kamala-harris-stepdaughter-ella-emhoff-balenciaga-paris-fashion-show-20210708-u2k5f32b2nf2lemmetiyx3dzga-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nydailynews.com/resizer/f39q3E6FBVS_VBbcfmSxVFRO-bo=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SS7P5UKURRAIDKXGXUFXGCBQTU.jpg",
+          "width": 1200,
+          "height": 940,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nydailynews.com/snyde/ny-kamala-harris-stepdaughter-ella-emhoff-balenciaga-paris-fashion-show-20210708-u2k5f32b2nf2lemmetiyx3dzga-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/snyde/ny-kamala-harris-stepdaughter-ella-emhoff-balenciaga-paris-fashion-show-20210708-u2k5f32b2nf2lemmetiyx3dzga-story.html?outputType=amp",
+      "publishedDateTime": "2021-07-08T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Daily News",
+        "domain": "nydailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
       ]
     },
     {
@@ -1215,110 +1314,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-mary-trump-calls-all-gop-lawmakers-traitorsexcludes-cheney-kinzinger.md",
-      "title": "Mary Trump Calls All GOP Lawmakers 'Traitors'—Excludes Cheney, Kinzinger",
-      "excerpt": "The ex-president's niece—a fierce critic of her uncle and much of her extended family—slammed Republican reluctance to hold a probe into the U.S. Capitol riots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mary-trump-republicans-capitol-riots-traitors-1607406",
-      "originalUrl": "https://www.newsweek.com/mary-trump-republicans-capitol-riots-traitors-1607406",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1839039/trump-supporters-clash-january-6.jpg",
-          "width": 2500,
-          "height": 1668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mary-trump-republicans-capitol-riots-traitors-1607406?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mary-trump-republicans-capitol-riots-traitors-1607406?amp=1",
-      "publishedDateTime": "2021-07-07T01:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-in-illinois-biden-to-push-money-for-families-and-child-care.md",
-      "title": "In Illinois, Biden to push money for families and child care",
-      "excerpt": "President Joe Biden is turning his focus to pitching his proposed investments in families and education, using a visit to a community college in a key Illinois swing district to highlight how his spending on so-called human infrastructure would boost the economy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/in-illinois-biden-to-push-money-for-families-and-child-care/2021/07/07/751e9afc-df03-11eb-a27f-8b294930e95b_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/in-illinois-biden-to-push-money-for-families-and-child-care/2021/07/07/751e9afc-df03-11eb-a27f-8b294930e95b_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 365,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ODUJAZG7AMI6XIT7RMUUSMHJLM.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/in-illinois-biden-to-push-money-for-families-and-child-care/2021/07/07/751e9afc-df03-11eb-a27f-8b294930e95b_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-illinois-biden-to-push-money-for-families-and-child-care/2021/07/07/751e9afc-df03-11eb-a27f-8b294930e95b_story.html?outputType=amp",
-      "publishedDateTime": "2021-07-07T01:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

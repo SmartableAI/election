@@ -2,6 +2,110 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-07-03-we-need-you-to-stop-the-counting-records-detail-intense-efforts-by-trump-allies-to-pressure-maricopa-county-supervisors.md",
+      "title": "'We need you to stop the counting': Records detail intense efforts by Trump allies to pressure Maricopa County supervisors",
+      "excerpt": "New records reveal the behind-the scenes efforts by Trump, Rudy Giuliani, and state GOP Chair Kelli Ward to pressure Maricopa County supervisors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/07/03/records-show-trump-allies-kelli-ward-rudy-giuliani-pressured-county-officials-over-election-results/7846142002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/07/03/records-show-trump-allies-kelli-ward-rudy-giuliani-pressured-county-officials-over-election-results/7846142002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/07/02/PPHX/b5ce0a59-1524-4572-81df-369ffbbee0f9-Donald_Trump_Kelli_Ward_Rudy_Giuliani.jpg?auto=webp&crop=1849,1040,x0,y102&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7846142002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7846142002",
+      "publishedDateTime": "2021-07-03T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-03-tucker-carlson-calls-kamala-harris-a-power-hungry-buffoon-says-she-acts-like-president.md",
+      "title": "Tucker Carlson Calls Kamala Harris a 'Power Hungry Buffoon,' Says She Acts Like President",
+      "excerpt": "Tucker Carlson has branded Vice President Kamala Harris a \"power hungry buffoon\" who may have a lot of power as a result of what he called President Joe Biden's \"senility.\" The Fox News personality told his prime-time audience on Friday that the vice president \"has no idea what she's doing\" and he pointed to a Politico report about the culture in her office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/tucker-carlson-kamala-harris-power-hungry-buffoon-she-acts-like-president-1606623",
+      "originalUrl": "https://www.newsweek.com/tucker-carlson-kamala-harris-power-hungry-buffoon-she-acts-like-president-1606623",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1837281/biden-delivers-remarks-kamala-harris.jpg",
+          "width": 2500,
+          "height": 1621,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/tucker-carlson-kamala-harris-power-hungry-buffoon-she-acts-like-president-1606623?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/tucker-carlson-kamala-harris-power-hungry-buffoon-she-acts-like-president-1606623?amp=1",
+      "publishedDateTime": "2021-07-03T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-07-03-nightmare-scenario-review-trump-covid-and-a-lasting-national-trauma.md",
       "title": "Nightmare Scenario review: Trump, Covid and a lasting national trauma",
       "excerpt": "Yasmeen Abutaleb and Damian Paletta of the Washington Post show how bad things got – and how they could have been worse",
@@ -1232,119 +1336,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-trump-organization-voting-rights-cloud-gaming-your-thursday-evening-briefing.md",
-      "title": "Trump Organization, Voting Rights, Cloud Gaming: Your Thursday Evening Briefing",
-      "excerpt": "The Trump Organization and its C.F.O. were charged with fraud and tax crimes. The real estate business that catapulted Donald Trump to tabloid fame, television riches and ultimately the White House was charged with criminal tax fraud,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/07/01/briefing/trump-organization-voting-rights-cloud-gaming.html",
-      "originalUrl": "https://www.nytimes.com/2021/07/01/briefing/trump-organization-voting-rights-cloud-gaming.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/07/01/multimedia/01PMBriefing-Trump-promo/01PMBriefing-Trump-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/07/01/briefing/trump-organization-voting-rights-cloud-gaming.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/01/briefing/trump-organization-voting-rights-cloud-gaming.amp.html",
-      "publishedDateTime": "2021-07-01T15:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-see-michael-cohens-reaction-to-trump-organization-charges.md",
-      "title": "See Michael Cohen's reaction to Trump Organization charges",
-      "excerpt": "New York prosecutors charged the Trump Organization, the Trump Payroll Corporation and Chief Financial Officer Allen Weisselberg in connection with an alleged tax scheme stretching back to 2005, in an extraordinary legal development against the former President's namesake company. Weisselberg, the Trump",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xLK3daoIRaU/allen-weisselberg-indictment-trump-organization-michael-cohen-intv-nr-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xLK3daoIRaU/allen-weisselberg-indictment-trump-organization-michael-cohen-intv-nr-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 575,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210701155610-michael-cohen-allen-weisselberg-indictment-screengrab-vpx-07012021-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/07/01/allen-weisselberg-indictment-trump-organization-michael-cohen-intv-nr-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/07/01/allen-weisselberg-indictment-trump-organization-michael-cohen-intv-nr-vpx.cnn",
-      "publishedDateTime": "2021-07-01T14:44:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

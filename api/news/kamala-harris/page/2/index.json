@@ -2,63 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-07-29-biden-harris-unveil-strategies-to-address-root-causes-of-immigration.md",
-      "title": "Biden, Harris unveil strategies to address 'root causes' of immigration",
-      "excerpt": "The Biden administration on Thursday rolled out its strategies to address the root causes of immigration, a step officials call a “core component” of efforts to establish a “fair, orderly, and humane immigration system.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9QPgD9fEKYQ/biden-harris-immigration-root-causes-strategy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9QPgD9fEKYQ/biden-harris-immigration-root-causes-strategy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 660,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-harris-immigration-root-causes-strategy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-immigration-root-causes-strategy.amp",
-      "publishedDateTime": "2021-07-29T03:00:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-07-23-kamala-harris-looks-to-turn-the-page-as-she-zeroes-in-on-voting-rights.md",
       "title": "Kamala Harris looks to turn the page as she zeroes-in on voting rights",
       "excerpt": "Vice President Kamala Harris is making voting rights her top public focus, elevating a long-shot battle as she seeks to more clearly define her role and stake out high-value territory within the Biden administration.\n    \n",
@@ -596,6 +539,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-kamala-harris-stepdaughter-ella-emhoff-makes-paris-fashion-week-debut-for-balenciaga.md",
+      "title": "Kamala Harris’ stepdaughter Ella Emhoff makes Paris fashion week debut for Balenciaga",
+      "excerpt": "Ella Emhoff made her inaugural appearance at Paris fashion week Wednesday, walking the runway for Balenciaga. The designer who mesmerized the fashion masses the day her stepmom Kamala Harris was sworn in as vice president modeled a flowing black cape over a chic double-breasted suit for a star-studded audience that included Joe Jonas,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nydailynews.com/snyde/ny-kamala-harris-stepdaughter-ella-emhoff-balenciaga-paris-fashion-show-20210708-u2k5f32b2nf2lemmetiyx3dzga-story.html",
+      "originalUrl": "https://www.nydailynews.com/snyde/ny-kamala-harris-stepdaughter-ella-emhoff-balenciaga-paris-fashion-show-20210708-u2k5f32b2nf2lemmetiyx3dzga-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nydailynews.com/resizer/f39q3E6FBVS_VBbcfmSxVFRO-bo=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SS7P5UKURRAIDKXGXUFXGCBQTU.jpg",
+          "width": 1200,
+          "height": 940,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nydailynews.com/snyde/ny-kamala-harris-stepdaughter-ella-emhoff-balenciaga-paris-fashion-show-20210708-u2k5f32b2nf2lemmetiyx3dzga-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/snyde/ny-kamala-harris-stepdaughter-ella-emhoff-balenciaga-paris-fashion-show-20210708-u2k5f32b2nf2lemmetiyx3dzga-story.html?outputType=amp",
+      "publishedDateTime": "2021-07-08T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Daily News",
+        "domain": "nydailynews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

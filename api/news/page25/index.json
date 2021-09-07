@@ -2,6 +2,62 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-07-12-rubio-slams-biden-admins-major-failure-of-initially-tying-of-cuban-protests-to-rising-covid-cases.md",
+      "title": "Rubio slams Biden admin’s 'major failure' of initially tying of Cuban protests to rising COVID cases",
+      "excerpt": "Sen. Marco Rubio, R-Fla., is criticizing President Biden’s administration for its initial diagnosis on the causes of mass protests that broke out in Cuba on Sunday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fG817xC7KTA/rubio-slams-bidens-initial-comments-blaming-cuba-protests-on-covid-cases-as-a-major-failure",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fG817xC7KTA/rubio-slams-bidens-initial-comments-blaming-cuba-protests-on-covid-cases-as-a-major-failure",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e672453-260e-4c64-8f74-5bc0d75728a5/f9d731d8-9075-49ec-afa5-898ba6ed7492/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rubio-slams-bidens-initial-comments-blaming-cuba-protests-on-covid-cases-as-a-major-failure.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rubio-slams-bidens-initial-comments-blaming-cuba-protests-on-covid-cases-as-a-major-failure.amp",
+      "publishedDateTime": "2021-07-12T14:30:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-12-biden-briefed-by-us-delegation-that-traveled-to-haiti.md",
       "title": "Biden briefed by US delegation that traveled to Haiti ",
       "excerpt": "The interagency US delegation to Haiti briefed President Joe Biden on Monday morning after they returned from Port-au-Prince, White House press secretary Jen Psaki confirmed Monday.\n    \n",
@@ -1298,49 +1354,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-cpac-trump-jr-calls-biden-dolt-gloats-that-stripper-stormy-daniels-lawyer-is-going-to-prison.md",
-      "title": "CPAC: Trump Jr. calls Biden ‘dolt,’ gloats that stripper Stormy Daniels’ lawyer is going to prison",
-      "excerpt": "Calling the president who ousted his dad a “dolt” whose aides reward him with ice cream when he doesn’t fumble his lines, Donald Trump Jr.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dallasnews.com/news/politics/2021/07/09/cpac-trump-jr-calls-biden-dolt-gloats-that-stripper-stormy-daniels-lawyer-is-going-to-prison/",
-      "originalUrl": "https://www.dallasnews.com/news/politics/2021/07/09/cpac-trump-jr-calls-biden-dolt-gloats-that-stripper-stormy-daniels-lawyer-is-going-to-prison/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/zCa1Ca2zlW4bmCcsYI3SU8riwQQ=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/HLGM5BHIYRGMROO3EYOIRXRYUU.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dallasnews.com/news/politics/2021/07/09/cpac-trump-jr-calls-biden-dolt-gloats-that-stripper-stormy-daniels-lawyer-is-going-to-prison/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/07/09/cpac-trump-jr-calls-biden-dolt-gloats-that-stripper-stormy-daniels-lawyer-is-going-to-prison/?outputType=amp",
-      "publishedDateTime": "2021-07-09T16:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dallas Morning News",
-        "domain": "dallasnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

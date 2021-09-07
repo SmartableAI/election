@@ -2,6 +2,114 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-07-05-even-with-our-darkest-days-gone-biden-cant-declare-full-independence-from-virus.md",
+      "title": "Even with our 'darkest days' gone, Biden can't declare full independence from virus",
+      "excerpt": "President Joe Biden conjured a vision of Americans coming back together and reclaiming their freedom from the worst ravages of the pandemic as a nation long silenced by sickness and death exploded back to life on the Fourth of July.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SCi1qecHYkk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SCi1qecHYkk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210704213450-washington-dc-fireworks-july-4-pink-washington-monument-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/05/politics/biden-coronavirus-delta-variant-independence-day/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/05/politics/biden-coronavirus-delta-variant-independence-day/index.html",
+      "publishedDateTime": "2021-07-04T21:05:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-trump-endorsed-greg-abbott-gets-gop-challenger-for-texas-governor-who-is-allen-west.md",
+      "title": "Trump-Endorsed Greg Abbott Gets GOP Challenger for Texas Governor. Who Is Allen West?",
+      "excerpt": "West said \"the sovereignty of Texas\" is at risk from illegal immigration, and he's interested in going after banks laundering money for drug cartels.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-endorsed-greg-abbott-gets-gop-challenger-texas-governor-who-allen-west-1606758",
+      "originalUrl": "https://www.newsweek.com/trump-endorsed-greg-abbott-gets-gop-challenger-texas-governor-who-allen-west-1606758",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1790063/republican-texas-allen-west-pushups-press-conference.jpg",
+          "width": 3000,
+          "height": 2184,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-endorsed-greg-abbott-gets-gop-challenger-texas-governor-who-allen-west-1606758?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-endorsed-greg-abbott-gets-gop-challenger-texas-governor-who-allen-west-1606758?amp=1",
+      "publishedDateTime": "2021-07-04T13:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-05-clyburn-trump-could-be-called-to-testify-before-jan-6-panel.md",
       "title": "Clyburn: Trump could be called to testify before Jan. 6 panel",
       "excerpt": "House Majority Whip James Clyburn (D-S.C.) said Sunday that former President Trump could be called to testify before the new House select committee investigating the Jan.",
@@ -1216,110 +1324,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-we-need-you-to-stop-the-counting-records-detail-intense-efforts-by-trump-allies-to-pressure-maricopa-county-supervisors.md",
-      "title": "'We need you to stop the counting': Records detail intense efforts by Trump allies to pressure Maricopa County supervisors",
-      "excerpt": "New records reveal the behind-the scenes efforts by Trump, Rudy Giuliani, and state GOP Chair Kelli Ward to pressure Maricopa County supervisors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/07/03/records-show-trump-allies-kelli-ward-rudy-giuliani-pressured-county-officials-over-election-results/7846142002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/07/03/records-show-trump-allies-kelli-ward-rudy-giuliani-pressured-county-officials-over-election-results/7846142002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/07/02/PPHX/b5ce0a59-1524-4572-81df-369ffbbee0f9-Donald_Trump_Kelli_Ward_Rudy_Giuliani.jpg?auto=webp&crop=1849,1040,x0,y102&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7846142002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7846142002",
-      "publishedDateTime": "2021-07-03T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-tucker-carlson-calls-kamala-harris-a-power-hungry-buffoon-says-she-acts-like-president.md",
-      "title": "Tucker Carlson Calls Kamala Harris a 'Power Hungry Buffoon,' Says She Acts Like President",
-      "excerpt": "Tucker Carlson has branded Vice President Kamala Harris a \"power hungry buffoon\" who may have a lot of power as a result of what he called President Joe Biden's \"senility.\" The Fox News personality told his prime-time audience on Friday that the vice president \"has no idea what she's doing\" and he pointed to a Politico report about the culture in her office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/tucker-carlson-kamala-harris-power-hungry-buffoon-she-acts-like-president-1606623",
-      "originalUrl": "https://www.newsweek.com/tucker-carlson-kamala-harris-power-hungry-buffoon-she-acts-like-president-1606623",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1837281/biden-delivers-remarks-kamala-harris.jpg",
-          "width": 2500,
-          "height": 1621,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/tucker-carlson-kamala-harris-power-hungry-buffoon-she-acts-like-president-1606623?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/tucker-carlson-kamala-harris-power-hungry-buffoon-she-acts-like-president-1606623?amp=1",
-      "publishedDateTime": "2021-07-03T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

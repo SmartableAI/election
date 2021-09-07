@@ -2,6 +2,114 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2021-05-11-with-pope-francis-blessing-catholics-pressed-biden-white-house-to-waive-vaccine-patents.md",
+      "title": "With Pope Francis' blessing, Catholics pressed Biden White House to waive vaccine patents",
+      "excerpt": "When U.S. Trade Representative Katherine Tai announced Wednesday (May 5) that the White House would back efforts to suspend intellectual property rights for COVID-19 vaccines, it was a victory for Vatican officials and U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/religion/with-pope-francis-blessing-catholics-pressed-biden-white-house-to-waive-vaccine-patents/2021/05/10/9b42159a-b1dd-11eb-bc96-fdf55de43bef_story.html",
+      "originalUrl": "https://www.washingtonpost.com/religion/with-pope-francis-blessing-catholics-pressed-biden-white-house-to-waive-vaccine-patents/2021/05/10/9b42159a-b1dd-11eb-bc96-fdf55de43bef_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/religion/with-pope-francis-blessing-catholics-pressed-biden-white-house-to-waive-vaccine-patents/2021/05/10/9b42159a-b1dd-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/with-pope-francis-blessing-catholics-pressed-biden-white-house-to-waive-vaccine-patents/2021/05/10/9b42159a-b1dd-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
+      "publishedDateTime": "2021-05-10T14:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-caitlyn-jenner-on-biden-he-is-our-president-i-respect-that.md",
+      "title": "Caitlyn Jenner on Biden: 'He is our President. I respect that'",
+      "excerpt": "While former President Donald Trump continues to spread falsehoods about the 2020 election, California recall candidate Caitlyn Jenner told CNN's Dana Bash in a new interview that she does not believe the election was \"stolen,\" but argued there needs to be \"integrity\" in the US election system.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9OLmNDTnnZ4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9OLmNDTnnZ4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210509093841-caitlyn-jenner-immigration-path-to-citizenship-bash-intv-sot-vpx-00000000-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/10/politics/caitlyn-jenner-dana-bash-interview/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/caitlyn-jenner-dana-bash-interview/index.html",
+      "publishedDateTime": "2021-05-10T14:13:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-stephen-miller-sounds-alarm-over-bidens-unprecedented-border-policies.md",
       "title": "Stephen Miller sounds alarm over Biden's 'unprecedented' border policies",
       "excerpt": "Stephen Miller, former senior adviser to President Trump, now America First Legal founder. Stephen Miller, how are you my friend? STEPHEN MILLER, FOUNDER, AMERICA FIRST LEGAL: I am doing great. Thank you for having me.",
@@ -1250,115 +1358,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-08-ohio-gop-censures-representative-anthony-gonzalez-for-not-supporting-trump.md",
-      "title": "Ohio G.O.P. censures Representative Anthony Gonzalez for not supporting Trump.",
-      "excerpt": "They are also calling for Mr. Gonzalez to resign for being one of 10 Republican House members who voted to impeach Donald J. Trump after the Jan. 6 riot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/05/07/us/trump-anthony-gonzalez-gop-censure.html",
-      "originalUrl": "https://www.nytimes.com/2021/05/07/us/trump-anthony-gonzalez-gop-censure.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/05/07/us/07new-wash-gonzalez/07new-wash-gonzalez-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/05/07/us/trump-anthony-gonzalez-gop-censure.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/07/us/trump-anthony-gonzalez-gop-censure.amp.html",
-      "publishedDateTime": "2021-05-07T14:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-08-joe-biden-laughs-at-notion-that-april-jobs-numbers-are-disappointing-despite-61-unemployment-rate.md",
-      "title": "Joe Biden Laughs at Notion That April Jobs Numbers Are Disappointing, Despite 6.1% Unemployment Rate",
-      "excerpt": "The president tried to appear optimistic about the jobs report. When he mentioned the commentators' reaction he laughed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/biden-laughs-jobs-1589693",
-      "originalUrl": "https://www.newsweek.com/biden-laughs-jobs-1589693",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1791377/biden-jobs-speech.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/biden-laughs-jobs-1589693?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-laughs-jobs-1589693?amp=1",
-      "publishedDateTime": "2021-05-07T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

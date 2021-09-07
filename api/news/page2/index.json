@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-04-january-6-select-committee-refutes-claim-by-mccarthy-that-the-justice-department-cleared-trump-of-any-role-in-insurrection.md",
+      "title": "January 6 select committee refutes claim by McCarthy that the Justice Department cleared Trump of any role in insurrection",
+      "excerpt": "The top members of the select committee investigating the January 6 riot on Capitol Hill refuted recent claims by House Minority Leader Kevin McCarthy that former President Donald Trump has been cleared by the Justice Department of any role in the insurrection.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1cr0zKRtiiU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1cr0zKRtiiU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210726221744-06-capitol-riot-file-0106-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/04/politics/mccarthy-trump-select-committee-justice-department/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/04/politics/mccarthy-trump-select-committee-justice-department/index.html",
+      "publishedDateTime": "2021-09-04T10:00:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-04-bidens-tree-of-life-synagogue-claim-not-true-white-house-admits.md",
       "title": "Biden’s Tree of Life synagogue claim not true, White House admits",
       "excerpt": "President Biden did not visit the Tree of Life synagogue in Pittsburgh after the murder of 11 congregants — despite saying so, the White House admitted Friday.",
@@ -1246,62 +1302,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-psaki-snaps-at-male-reporter-over-question-about-abortion-bidens-faith-youve-never-faced-those-choices.md",
-      "title": "Psaki snaps at male reporter over question about abortion, Biden's faith: 'You've never faced those choices'",
-      "excerpt": "White House press secretary Jen Psaki snapped at a reporter Thursday after he asked how President Biden can consider himself a Catholic while also supporting abortion.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PSx_FEa5nFM/psaki-snaps-reporter-abortion-bidens-faith",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PSx_FEa5nFM/psaki-snaps-reporter-abortion-bidens-faith",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d86e31ba-0f1a-47e5-a0c5-b225000f9b50/81a723a4-3289-4a43-b031-b73ea6346122/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/psaki-snaps-reporter-abortion-bidens-faith.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-snaps-reporter-abortion-bidens-faith.amp",
-      "publishedDateTime": "2021-09-02T12:40:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

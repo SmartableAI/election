@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-04-30-gov-kristi-noem-says-south-dakota-is-taking-biden-to-court-over-fireworks-display-at-mt-rushmore.md",
+      "title": "Gov. Kristi Noem says South Dakota is taking Biden to court over fireworks display at Mt. Rushmore",
+      "excerpt": "Noem has directed her office to file a lawsuit against the National Parks Service after the agency rejected permits to hold the fireworks display.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/2021/04/29/sd-south-dakota-gov-kristi-noem-taking-president-biden-court-over-mt-rushmore-fireworks-july/7403815002/",
+      "originalUrl": "https://www.usatoday.com/story/news/2021/04/29/sd-south-dakota-gov-kristi-noem-taking-president-biden-court-over-mt-rushmore-fireworks-july/7403815002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/07/04/PSIF/8ab1b16d-5225-4daa-ac23-9c248d3cfd79-GettyImages-1254148514.jpg?auto=webp&crop=4218,2373,x0,y447&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7403815002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7403815002",
+      "publishedDateTime": "2021-04-29T16:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-biden-is-giving-child-care-prime-time-attention-can-he-actually-tranform-it.md",
       "title": "Biden Is Giving Child Care ‘Prime-Time Attention.’ Can He Actually Tranform It?",
       "excerpt": "A turbulent pandemic, more women in Congress and decades of advocacy have set the stage for a complete overhaul of the child care system, experts said.",
@@ -1539,58 +1591,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-17-swipes-at-china-as-joe-biden-and-japanese-pm-seek-united-front-in-asia-pacific.md",
-      "title": "Swipes at China as Joe Biden and Japanese PM seek united front in Asia Pacific",
-      "excerpt": "In his first in-person summit since taking office, the US president hosts Yoshihide Suga as part of efforts to face down Beijing",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/apr/17/swipes-at-china-as-joe-biden-and-japanese-pm-seek-united-front-in-asia-pacific",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/17/swipes-at-china-as-joe-biden-and-japanese-pm-seek-united-front-in-asia-pacific",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/62970e780e4e3dfcbbb8c7a43b722b32cf143d13/0_0_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f367ab421312de3408bd60c2ba0a1032",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/17/swipes-at-china-as-joe-biden-and-japanese-pm-seek-united-front-in-asia-pacific",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/17/swipes-at-china-as-joe-biden-and-japanese-pm-seek-united-front-in-asia-pacific",
-      "publishedDateTime": "2021-04-16T17:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

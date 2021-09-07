@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Biden to survey NY and NJ storm damage after deadly flooding"
-excerpt: "President Joe Biden will survey damage in parts of the northeast that suffered catastrophic flash flooding from the remnants of Hurricane Ida, and use the muddy backdrop to call for federal spending to fortify infrastructure so it can better withstand such powerful storms At least 50 people were killed in six Eastern states as record rainfall last week overwhelmed rivers and sewer systems."
-publishedDateTime: 2021-09-07T13:21:00Z
-originalUrl: "https://www.silive.com/news/2021/09/biden-to-survey-ny-and-nj-storm-damage-after-deadly-flooding.html"
-webUrl: "https://www.silive.com/news/2021/09/biden-to-survey-ny-and-nj-storm-damage-after-deadly-flooding.html"
-ampWebUrl: "https://www.silive.com/news/2021/09/biden-to-survey-ny-and-nj-storm-damage-after-deadly-flooding.html?outputType=amp"
-cdnAmpWebUrl: "https://www-silive-com.cdn.ampproject.org/c/s/www.silive.com/news/2021/09/biden-to-survey-ny-and-nj-storm-damage-after-deadly-flooding.html?outputType=amp"
+excerpt: "President Joe Biden focused on long-term fixes as well as short-term relief Tuesday as he headed for tours of parts of the Northeast that suffered deadly flash"
+publishedDateTime: 2021-09-07T15:38:00Z
+originalUrl: "https://lasvegassun.com/news/2021/sep/07/biden-to-survey-ny-and-nj-storm-damage-after-deadl/"
+webUrl: "https://lasvegassun.com/news/2021/sep/07/biden-to-survey-ny-and-nj-storm-damage-after-deadl/"
 type: article
-quality: 75
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: SILive
-  domain: silive.com
+  name: Las Vegas Sun
+  domain: lasvegassun.com
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BNEVFFUN4ZBABGPNNMITKWHIZU.jpeg"
-    width: 1446
-    height: 964
-    isCached: true
 
 related:
   - title: "Joe Biden and Europe are going different ways"
@@ -266,22 +258,6 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
-        isCached: true
-  - title: "Jill Biden heads back to classroom as a working first lady"
-    excerpt: "Jill Biden is the first first lady to leave the White House and log hours at a full-time job. WASHINGTON — Jill Biden is going back to her whiteboard. After months of teaching writing and English to community college students in boxes on a computer screen,"
-    publishedDateTime: 2021-09-07T08:42:00Z
-    webUrl: "https://www.firstcoastnews.com/article/news/nation-world/jill-biden-working-first-lady/507-e99b1de1-cb82-417d-b633-19d045031e1a"
-    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/nation-world/jill-biden-working-first-lady/507-e99b1de1-cb82-417d-b633-19d045031e1a"
-    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/nation-world/jill-biden-working-first-lady/507-e99b1de1-cb82-417d-b633-19d045031e1a"
-    type: article
-    provider:
-      name: First Coast News
-      domain: firstcoastnews.com
-    quality: 75
-    images:
-      - url: "https://media.firstcoastnews.com/assets/CCT/images/a2671509-82e6-4346-a11a-a58102cbe00a/a2671509-82e6-4346-a11a-a58102cbe00a_1140x641.jpg"
-        width: 1140
-        height: 641
         isCached: true
   - title: "President Biden to tour storm damage from Ida in New York, New Jersey"
     excerpt: "President Joe Biden will survey damage in parts of the northeast that suffered catastrophic flash flooding from the remnants of Hurricane Ida, and use the muddy backdrop to call for federal spending to fortify infrastructure so it can better withstand such powerful storms."
@@ -556,7 +532,16 @@ related:
         width: 2048
         height: 1453
         isCached: true
+  - title: "Jill Biden heads back to classroom as a working first lady"
+    excerpt: "Jill Biden is going back to her whiteboard. After months of teaching writing and English to community college students in boxes on a computer screen, the first lady resumes teaching in person Tuesday from"
+    publishedDateTime: 2021-09-07T15:57:00Z
+    webUrl: "https://lasvegassun.com/news/2021/sep/07/jill-biden-heads-back-to-classroom-as-a-working-fi/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 35
 
-secured: "04oZgKD3yszNeCAIA3f8o4WRxW6j8ssBCEvggcOB2aocsh8OS5cf448j6fYDEDaf9WFgmMfUaRoVw9WhUuen3+7vC07n1ztIhMxH/47GxgSM6S4dWrh+X7o4Cm8GSUH0xRQEfySp2oJFiWaZUW8VD63ADInwWL4UWUUpn7Ku8FWhOCxU60NYcvd99Ekyt1DjLS6ygY5ED9KnBAQB3+DZXm2CypjTYb1/S5qM5LKFx9DC0oOTMwzXropjZChH6dSrNpP2npg9YJB5fFfpJ67diDPVQGa9nFXbVSAMz4TEACmqOlRXia68YakqPCDLq418DIS0zjjLGQwqrhZ52R513z+tcnUn08/8DOPzMmjOfGg=;LD076xIvlFLpgq6t209ijA=="
+secured: "ugIkx4/SwoUElQCkl+/eeYsQkk8p5QP6mkJSDmzwXm74xSGAncwMa2xs/U4075i0oUPbJNnCJ2n4QWyOzqUs9lc7AhGYjI2bPnUurTe8tziiwpwbga7mRc1uq1MORjS+9kJQWUYkycYQNJNsXBlS3fTDUxPeSVuL566c5+x6aRP0ZL/5CLSRmpwXLLWKsuR9gn+bFRHZ4dm6LGqJuUudubZLF82R4EsjFsugkc1xf23ttD9nz/wp8kfcOIFfDl2Kwyc/wQzDZNhQA6KQLnPM3VBC8Z+T0/lGCtY1GYAqCBlgjUb8N6UhhVs3O2Qq/5yVQzXdy10AR0LPT8bVY+MVg3o8GOEDnxm5Glq2+zVVDwNKlKLXNsYr0JaOunuTUQ4aLmcilDsf4rTSIclH7Fx6crd66WyqGhwgmOx7t1Dv7JtZUhsWakwycUsRBFTObra3H1KLId5HvSY/ikUsZh6FtFKJofc52n/UZyqDN4Nhl95PaBJbdWsKXMOkKTSCzF0izEALQq2mp0vZGk+zcq7oZw==;IgGOdVyKBoj2DFvo971Vzg=="
 ---
 

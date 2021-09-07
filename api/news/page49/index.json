@@ -2,6 +2,118 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2021-05-27-biden-pick-for-top-intelligence-lawyer-refuses-to-rule-out-working-for-ccp-linked-huawei-in-future.md",
+      "title": "Biden pick for top intelligence lawyer refuses to rule out working for CCP-linked Huawei in future",
+      "excerpt": "President Biden’s pick as chief legal counsel for the U.S. intelligence community refused to renounce the possibility of future work with the Chinese government or the tech giant Huawei.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LB17jW4Jee8/bidens-pick-for-top-spy-lawyer-refuses-to-rule-out-working-for-china-in-future",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LB17jW4Jee8/bidens-pick-for-top-spy-lawyer-refuses-to-rule-out-working-for-china-in-future",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a956baa-0cb5-479e-9a25-40885a488c9a/458ceed5-b020-4a2c-b47d-30ec012bedf5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-pick-for-top-spy-lawyer-refuses-to-rule-out-working-for-china-in-future.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-pick-for-top-spy-lawyer-refuses-to-rule-out-working-for-china-in-future.amp",
+      "publishedDateTime": "2021-05-27T14:30:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-biden-blasts-republicans-for-touting-covid-relief-funds-they-voted-against-some-people-have-no-shame.md",
+      "title": "Biden blasts Republicans for touting Covid relief funds they voted against: 'Some people have no shame' ",
+      "excerpt": "President Joe Biden on Thursday criticized Republican lawmakers who have touted parts of the Covid-19 economic relief law that benefit their constituents despite having voted against the law, saying: \"Some people have no shame.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pJFwa-IDoZU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pJFwa-IDoZU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210527155040-biden-gop-list-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/27/politics/biden-republicans-covid-funds/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/biden-republicans-covid-funds/index.html",
+      "publishedDateTime": "2021-05-27T14:22:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-las-cruces-man-accused-of-plotting-biden-assassination-mass-shooting.md",
       "title": "Las Cruces man accused of plotting Biden assassination, mass shooting",
       "excerpt": ":Lawyer: Las Cruces resident denies threatening to kill Biden. LAS CRUCES – The FBI is alleging a Las Cruces man sent text messages with plans to kill U.S. President Joe B",
@@ -1248,118 +1360,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-pentagon-official-leading-military-extremism-crackdown-said-trump-supporters-are-extremists.md",
-      "title": "Pentagon official leading military extremism crackdown said Trump supporters are extremists",
-      "excerpt": "The Pentagon official tasked with leading efforts to crack down on extremist views among military servicemembers once asserted that supporters of former President Donald Trump were also supporters of racism, misogyny and extremism.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/L6QAfOhMmtk/pentagon-official-bishop-garrison-trump-supporters-extremists",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/L6QAfOhMmtk/pentagon-official-bishop-garrison-trump-supporters-extremists",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/22a9630b-047d-47d1-9952-04d0bea71b85/eeb72bf6-9f91-441b-afd6-816eea0f5863/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pentagon-official-bishop-garrison-trump-supporters-extremists.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pentagon-official-bishop-garrison-trump-supporters-extremists.amp",
-      "publishedDateTime": "2021-05-25T17:30:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-washington-post-manhattan-da-convenes-grand-jury-to-consider-potential-charges-in-trump-organization-probe.md",
-      "title": "Washington Post: Manhattan DA convenes grand jury to consider potential charges in Trump Organization probe",
-      "excerpt": "Manhattan's top prosecutor has convened a grand jury that is expected to decide whether to indict former President Donald Trump should prosecutors present criminal charges in their probe of the Trump Organization, two people familiar with the matter told The Washington Post.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fjfcdaL6DdA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fjfcdaL6DdA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210303224724-donald-trump-file-201126-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/25/politics/manhattan-district-attorney-trump-organization-grand-jury/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/manhattan-district-attorney-trump-organization-grand-jury/index.html",
-      "publishedDateTime": "2021-05-25T16:49:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

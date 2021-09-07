@@ -2,6 +2,115 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2021-05-08-ohio-gop-censures-representative-anthony-gonzalez-for-not-supporting-trump.md",
+      "title": "Ohio G.O.P. censures Representative Anthony Gonzalez for not supporting Trump.",
+      "excerpt": "They are also calling for Mr. Gonzalez to resign for being one of 10 Republican House members who voted to impeach Donald J. Trump after the Jan. 6 riot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/05/07/us/trump-anthony-gonzalez-gop-censure.html",
+      "originalUrl": "https://www.nytimes.com/2021/05/07/us/trump-anthony-gonzalez-gop-censure.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/05/07/us/07new-wash-gonzalez/07new-wash-gonzalez-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/05/07/us/trump-anthony-gonzalez-gop-censure.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/07/us/trump-anthony-gonzalez-gop-censure.amp.html",
+      "publishedDateTime": "2021-05-07T14:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-08-joe-biden-laughs-at-notion-that-april-jobs-numbers-are-disappointing-despite-61-unemployment-rate.md",
+      "title": "Joe Biden Laughs at Notion That April Jobs Numbers Are Disappointing, Despite 6.1% Unemployment Rate",
+      "excerpt": "The president tried to appear optimistic about the jobs report. When he mentioned the commentators' reaction he laughed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/biden-laughs-jobs-1589693",
+      "originalUrl": "https://www.newsweek.com/biden-laughs-jobs-1589693",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1791377/biden-jobs-speech.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/biden-laughs-jobs-1589693?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-laughs-jobs-1589693?amp=1",
+      "publishedDateTime": "2021-05-07T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-07-critics-sound-alarm-on-bidens-land-and-water-conservation-plan-call-it-a-land-grab.md",
       "title": "Critics sound alarm on Biden’s land and water conservation plan, call it a ‘land grab’",
       "excerpt": "The Biden administration proposed a plan, titled \"America the Beautiful,\" in hopes of boosting the conservation of U.S. land and water by the year 2030. The report is a decade-long effort, called \"30x30,\" which mandates protecting 30% of America’s waterways and land. ",
@@ -1262,114 +1371,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-secret-william-barr-memo-saying-not-to-charge-trump-must-be-released-judge-says.md",
-      "title": "Secret William Barr memo saying not to charge Trump must be released, judge says",
-      "excerpt": "A federal judge this week rejected the Justice Department's attempts to keep secret a departmental opinion to not charge former President Donald Trump with obstruction at the end of the Mueller investigation, calling the administration's lawyers \"disingenuous.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IvPvRos6aUw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IvPvRos6aUw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 210,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190411180959-0411-01-barr-trump-mueller-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/04/politics/william-barr-memo-trump-memo/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/04/politics/william-barr-memo-trump-memo/index.html",
-      "publishedDateTime": "2021-05-04T16:05:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-biden-getting-vaccinated-a-matter-of-life-and-death.md",
-      "title": "Biden: Getting vaccinated a matter of 'life and death'",
-      "excerpt": "Getting vaccinated a matter of 'life and death' Posted . U.S. President Joe Biden on Tuesday urged all adult Americans to get vaccinated as soon as possible, annou",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/idOVEBJXVJ3",
-      "originalUrl": "https://www.reuters.com/video/watch/idOVEBJXVJ3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20210504&i=OVEBJXVJ3&r=OVEBJXVJ3&t=2",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T15:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

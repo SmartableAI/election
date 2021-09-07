@@ -261,38 +261,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Biden to survey NY and NJ storm damage after deadly flooding"
-    excerpt: "President Joe Biden will survey damage in parts of the northeast that suffered catastrophic flash flooding from the remnants of Hurricane Ida, and use the muddy backdrop to call for federal spending to fortify infrastructure so it can better withstand such powerful storms At least 50 people were killed in six Eastern states as record rainfall last week overwhelmed rivers and sewer systems."
-    publishedDateTime: 2021-09-07T13:21:00Z
-    webUrl: "https://www.silive.com/news/2021/09/biden-to-survey-ny-and-nj-storm-damage-after-deadly-flooding.html"
-    ampWebUrl: "https://www.silive.com/news/2021/09/biden-to-survey-ny-and-nj-storm-damage-after-deadly-flooding.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-silive-com.cdn.ampproject.org/c/s/www.silive.com/news/2021/09/biden-to-survey-ny-and-nj-storm-damage-after-deadly-flooding.html?outputType=amp"
-    type: article
-    provider:
-      name: SILive
-      domain: silive.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BNEVFFUN4ZBABGPNNMITKWHIZU.jpeg"
-        width: 1446
-        height: 964
-        isCached: true
-  - title: "Jill Biden heads back to classroom as a working first lady"
-    excerpt: "Jill Biden is the first first lady to leave the White House and log hours at a full-time job. WASHINGTON — Jill Biden is going back to her whiteboard. After months of teaching writing and English to community college students in boxes on a computer screen,"
-    publishedDateTime: 2021-09-07T08:42:00Z
-    webUrl: "https://www.firstcoastnews.com/article/news/nation-world/jill-biden-working-first-lady/507-e99b1de1-cb82-417d-b633-19d045031e1a"
-    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/nation-world/jill-biden-working-first-lady/507-e99b1de1-cb82-417d-b633-19d045031e1a"
-    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/nation-world/jill-biden-working-first-lady/507-e99b1de1-cb82-417d-b633-19d045031e1a"
-    type: article
-    provider:
-      name: First Coast News
-      domain: firstcoastnews.com
-    quality: 75
-    images:
-      - url: "https://media.firstcoastnews.com/assets/CCT/images/a2671509-82e6-4346-a11a-a58102cbe00a/a2671509-82e6-4346-a11a-a58102cbe00a_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "President Biden to tour storm damage from Ida in New York, New Jersey"
     excerpt: "President Joe Biden will survey damage in parts of the northeast that suffered catastrophic flash flooding from the remnants of Hurricane Ida, and use the muddy backdrop to call for federal spending to fortify infrastructure so it can better withstand such powerful storms."
     publishedDateTime: 2021-09-07T11:28:00Z
@@ -555,6 +523,24 @@ related:
         width: 2048
         height: 1453
         isCached: true
+  - title: "Biden to survey NY and NJ storm damage after deadly flooding"
+    excerpt: "President Joe Biden focused on long-term fixes as well as short-term relief Tuesday as he headed for tours of parts of the Northeast that suffered deadly flash"
+    publishedDateTime: 2021-09-07T15:38:00Z
+    webUrl: "https://lasvegassun.com/news/2021/sep/07/biden-to-survey-ny-and-nj-storm-damage-after-deadl/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 35
+  - title: "Jill Biden heads back to classroom as a working first lady"
+    excerpt: "Jill Biden is going back to her whiteboard. After months of teaching writing and English to community college students in boxes on a computer screen, the first lady resumes teaching in person Tuesday from"
+    publishedDateTime: 2021-09-07T15:57:00Z
+    webUrl: "https://lasvegassun.com/news/2021/sep/07/jill-biden-heads-back-to-classroom-as-a-working-fi/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 35
 
 secured: "JiuZer9KkZw/FTeVOSowq6z9WzFHoVi6s11KG0VRmJa9qxfD2HJzs5OR4iB8ZkRMJ9O72RkguuNzRiXn1c1VXsWOf17Sbm533nzVzrINHfHsKh4hs642R2nxwfR3waG5U/zIs/78Dmd0GxoJ6UaaAjzD+ynpq/0sjPg895OU4exc2wrCsuvPYQcWxbNMB/gWyt9U1q9zn17xugcCGuv/qNeYDbv8zGJT9he6uSkZybkpA2S65u+bspxzo1mRQw6FCNGpWQchd0QsmE7TV4NWkTbaCNZuXppuxHlBRSP4eqTmCxxDmbfqKxagrnaCsjtAqv0FYeKHevVlrNto1j0dTEnO4EuYef13EOKmkkrhXozlteM8scqiAhBYr1LsniV5t7plV8KSM4GWc0toPxGrVeLrgEK5j1Q2TtLi+iSe2xXBZqbrLIIRS+jcfXptBJp2JOuHOFjGMJq/D4INzIyY1nmaSabLnDnK9R9XyAhQtEWj4EgEOl1QrDooFAyf15/3j3QVQZaBJOujDJd7Ir4/2Q==;I7clbfcgdGHtWh8BezSDtg=="
 ---

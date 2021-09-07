@@ -2,6 +2,62 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-08-04-clinton-trump-cuomo-powerful-men-in-politics-are-often-rewarded.md",
+      "title": "Clinton. Trump. Cuomo. Powerful men in politics are often rewarded.",
+      "excerpt": "The most powerful men in politics. They're often rewarded for having no shame.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/77_mzDuGm-s/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/77_mzDuGm-s/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210802222237-andrew-cuomo-file-0412-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/03/politics/will-cuomo-resign-what-matters/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/03/politics/will-cuomo-resign-what-matters/index.html",
+      "publishedDateTime": "2021-08-03T18:52:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-mike-carey-endorsed-by-trump-will-win-ohio-gop-special-primary-cnn-projects.md",
       "title": "Mike Carey, endorsed by Trump, will win Ohio GOP special primary, CNN projects",
       "excerpt": "Mike Carey, a coal lobbyist who was endorsed by former President Donald Trump, will win the Republican special primary in Ohio's 15th Congressional District, CNN projects.\n    \n",
@@ -1303,58 +1359,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-pastor-greg-locke-says-only-crack-smoking-leftists-believe-joe-biden-won-election.md",
-      "title": "Pastor Greg Locke Says Only 'Crack-Smoking' Leftists Believe Joe Biden Won Election",
-      "excerpt": "Controversial Tennessee pastor Greg Locke again insisted President Joe Biden was not legitimately elected, and claimed only \"crack-smoking\" leftists would think he beat Donald Trump to the White House.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/pastor-greg-locke-says-only-crack-smoking-leftists-believe-joe-biden-won-election-1615146",
-      "originalUrl": "https://www.newsweek.com/pastor-greg-locke-says-only-crack-smoking-leftists-believe-joe-biden-won-election-1615146",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 394,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1859523/greg-locke-railed-against-president.jpg",
-          "width": 1213,
-          "height": 739,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/pastor-greg-locke-says-only-crack-smoking-leftists-believe-joe-biden-won-election-1615146?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pastor-greg-locke-says-only-crack-smoking-leftists-believe-joe-biden-won-election-1615146?amp=1",
-      "publishedDateTime": "2021-08-02T03:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

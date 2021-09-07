@@ -2,6 +2,110 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-06-13-lara-trump-urges-americans-living-at-southern-border-to-arm-up-get-guns.md",
+      "title": "Lara Trump Urges Americans Living at Southern Border to 'Arm Up, Get Guns'",
+      "excerpt": "Lara Trump, former President Donald Trump's daughter-in-law, on Saturday night urged Americans living at the southern border to \"arm up\" and \"get guns\" as she railed against President Joe Biden's immigration policies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/lara-trump-urges-americans-living-southern-border-arm-get-guns-1600116",
+      "originalUrl": "https://www.newsweek.com/lara-trump-urges-americans-living-southern-border-arm-get-guns-1600116",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1819949/lara-trump-bidens-border-crisis.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/lara-trump-urges-americans-living-southern-border-arm-get-guns-1600116?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lara-trump-urges-americans-living-southern-border-arm-get-guns-1600116?amp=1",
+      "publishedDateTime": "2021-06-12T20:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-13-trump-says-senate-would-be-60-dems-vs-40-republicans-if-not-for-him-rips-mcconnell.md",
+      "title": "Trump Says Senate Would Be 60 Dems vs. 40 Republicans if Not for Him, Rips McConnell",
+      "excerpt": "\"Unfortunately Mitch McConnell, with what he was doing, hurt us very, very badly in Georgia,\" the former president said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-says-senate-would-60-dems-vs-40-republicans-if-not-him-rips-mcconnell-1600102",
+      "originalUrl": "https://www.newsweek.com/trump-says-senate-would-60-dems-vs-40-republicans-if-not-him-rips-mcconnell-1600102",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1819934/donald-trump.jpg",
+          "width": 1024,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-says-senate-would-60-dems-vs-40-republicans-if-not-him-rips-mcconnell-1600102?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-senate-would-60-dems-vs-40-republicans-if-not-him-rips-mcconnell-1600102?amp=1",
+      "publishedDateTime": "2021-06-12T14:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-12-judge-halts-bidens-race-based-aid-for-farmers-says-challenge-is-likely-to-succeed.md",
       "title": "Judge halts Biden's race-based aid for farmers, says challenge is 'likely to succeed'",
       "excerpt": "A Wisconsin federal judge ordered a temporary halt to a $4 billion race-based federal relief program for farmers on Thursday.",
@@ -1215,114 +1319,6 @@
         "Election",
         "Mike Pence",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-how-bidenland-is-courting-joe-manchin-with-house-boat-dinners-millions-of-dollars-in-grants-and-west-virginia-visits.md",
-      "title": "How BidenLand is courting Joe Manchin with house boat dinners, millions of dollars in grants, and West Virginia visits",
-      "excerpt": "The conservative Democrat continues to play hard-to-get as the White House seeks his crucial vote to move Biden's priorities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-is-courting-manchin-with-political-favors-west-virginia-democrat-2021-6",
-      "originalUrl": "https://www.businessinsider.com/biden-is-courting-manchin-with-political-favors-west-virginia-democrat-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60c2397d6d855e00181575b0?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T16:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-jill-biden-will-meet-with-kate-middleton-in-england-this-week.md",
-      "title": "Jill Biden will meet with Kate Middleton in England this week",
-      "excerpt": "First lady Jill Biden will meet with Kate Middleton, the Duchess of Cambridge, this week while she is in England, Kensington Palace told CNN on Thursday, as the first family makes their first international trip.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ewnKAMDeV7w/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ewnKAMDeV7w/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210608093714-jill-biden-kate-middleton-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/10/politics/jill-biden-kate-middleton/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/jill-biden-kate-middleton/index.html",
-      "publishedDateTime": "2021-06-10T15:53:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

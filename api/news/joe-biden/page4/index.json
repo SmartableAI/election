@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-29-joe-bidens-motorcade-jeered-by-trump-supporters-during-pennsylvania-visit.md",
+      "title": "Joe Biden's Motorcade Jeered by Trump Supporters During Pennsylvania Visit",
+      "excerpt": "Supporters of former President Donald Trump yelled and jeered at President Joe Biden 's motorcade on Wednesday as it traveled through Pennsylvania's Lehigh Valley. A short video clip shared on social sites including Twitter and Gab shows a large group of people lining the route Biden's motorcade took and shouting at the cars as they pass.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters-pennsylvania-1614258",
+      "originalUrl": "https://www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters-pennsylvania-1614258",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 648,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1858183/president-joe-biden-speaks-macungie-pennsylvania.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters-pennsylvania-1614258?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters-pennsylvania-1614258?amp=1",
+      "publishedDateTime": "2021-07-29T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-unfairly-penalized-residents-senators-in-northern-border-states-question-bidens-border-closure.md",
       "title": "'Unfairly penalized': Residents, senators in northern border states question Biden's border closure",
       "excerpt": "With Canada's vaccination rates higher now than in US, some are wondering if continued closure is more about the southern border than northern one.",
@@ -1440,58 +1493,6 @@
       "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2EM0Y1",
       "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2EM0Y1",
       "publishedDateTime": "2021-07-16T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-biden-sees-us-child-tax-credit-as-giant-step-to-counter-poverty.md",
-      "title": "Biden sees U.S. child tax credit as 'giant step' to counter poverty",
-      "excerpt": "Some 35 million American families have received their first monthly payout from the U.S. government in an expanded income-support program that President Joe Biden said on Thursday could help end child poverty.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-economy-child-tax/biden-to-tout-program-likened-to-universal-basic-income-for-kids-idUSKBN2EL1ZV",
-      "originalUrl": "https://www.reuters.com/article/us-usa-economy-child-tax/biden-to-tout-program-likened-to-universal-basic-income-for-kids-idUSKBN2EL1ZV",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210715&t=2&i=1568977952&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6E0XV",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2EL1ZV",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2EL1ZV",
-      "publishedDateTime": "2021-07-15T18:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",

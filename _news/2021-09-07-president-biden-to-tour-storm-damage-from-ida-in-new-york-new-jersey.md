@@ -267,38 +267,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Biden to survey NY and NJ storm damage after deadly flooding"
-    excerpt: "President Joe Biden will survey damage in parts of the northeast that suffered catastrophic flash flooding from the remnants of Hurricane Ida, and use the muddy backdrop to call for federal spending to fortify infrastructure so it can better withstand such powerful storms At least 50 people were killed in six Eastern states as record rainfall last week overwhelmed rivers and sewer systems."
-    publishedDateTime: 2021-09-07T13:21:00Z
-    webUrl: "https://www.silive.com/news/2021/09/biden-to-survey-ny-and-nj-storm-damage-after-deadly-flooding.html"
-    ampWebUrl: "https://www.silive.com/news/2021/09/biden-to-survey-ny-and-nj-storm-damage-after-deadly-flooding.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-silive-com.cdn.ampproject.org/c/s/www.silive.com/news/2021/09/biden-to-survey-ny-and-nj-storm-damage-after-deadly-flooding.html?outputType=amp"
-    type: article
-    provider:
-      name: SILive
-      domain: silive.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BNEVFFUN4ZBABGPNNMITKWHIZU.jpeg"
-        width: 1446
-        height: 964
-        isCached: true
-  - title: "Jill Biden heads back to classroom as a working first lady"
-    excerpt: "Jill Biden is the first first lady to leave the White House and log hours at a full-time job. WASHINGTON — Jill Biden is going back to her whiteboard. After months of teaching writing and English to community college students in boxes on a computer screen,"
-    publishedDateTime: 2021-09-07T08:42:00Z
-    webUrl: "https://www.firstcoastnews.com/article/news/nation-world/jill-biden-working-first-lady/507-e99b1de1-cb82-417d-b633-19d045031e1a"
-    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/nation-world/jill-biden-working-first-lady/507-e99b1de1-cb82-417d-b633-19d045031e1a"
-    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/nation-world/jill-biden-working-first-lady/507-e99b1de1-cb82-417d-b633-19d045031e1a"
-    type: article
-    provider:
-      name: First Coast News
-      domain: firstcoastnews.com
-    quality: 75
-    images:
-      - url: "https://media.firstcoastnews.com/assets/CCT/images/a2671509-82e6-4346-a11a-a58102cbe00a/a2671509-82e6-4346-a11a-a58102cbe00a_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "‘Thanks, Joe’: Biden delivers sandwiches to union workers"
     excerpt: "President Joe Biden marked the Labor Day holiday on Monday by delivering deli sandwiches to union members, the people he says built the middle class."
     publishedDateTime: 2021-09-07T02:27:00Z
@@ -556,6 +524,24 @@ related:
         width: 2048
         height: 1453
         isCached: true
+  - title: "Biden to survey NY and NJ storm damage after deadly flooding"
+    excerpt: "President Joe Biden focused on long-term fixes as well as short-term relief Tuesday as he headed for tours of parts of the Northeast that suffered deadly flash"
+    publishedDateTime: 2021-09-07T15:38:00Z
+    webUrl: "https://lasvegassun.com/news/2021/sep/07/biden-to-survey-ny-and-nj-storm-damage-after-deadl/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 35
+  - title: "Jill Biden heads back to classroom as a working first lady"
+    excerpt: "Jill Biden is going back to her whiteboard. After months of teaching writing and English to community college students in boxes on a computer screen, the first lady resumes teaching in person Tuesday from"
+    publishedDateTime: 2021-09-07T15:57:00Z
+    webUrl: "https://lasvegassun.com/news/2021/sep/07/jill-biden-heads-back-to-classroom-as-a-working-fi/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 35
 
 secured: "Bfh6YcCvUaJp8mU7vthhqqmWlLuNmThh/rhZ2ucIDLBQfiNB9lZ17e9HEMHRz8BrNhuzlTcCja5u/dNBBdRxzMw8rti6cZbNqOheBTw3L+Q/rRE9LOGgSajQMvQj5IyJxoZzREtWE/bcMpDfsya/odu5n8ECD5ZybH5rX7xJDffDub7DO2+YXj/FmJbXc4Jf/ufktDuqSTXOduJaCErSqzfr8xWVvMSbsvtoYbBPMUOx2EorRpkIUAfo0dhDGe5F0kTDvmc4Q4xAE/CsiaAfLj+XCc/BZQGpt1UQgIzx2TkCQHCvHGA5+5sEWkKmDdCHDcqkwTG+JpHZjg+qHqW6t5QzaE6aUD3R5wQVijDFcFQ=;2G/9GM9Ft6toDH3gPxpybg=="
 ---

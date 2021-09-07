@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-16-rashida-tlaib-stands-by-call-for-trump-impeachment-despite-backlash.md",
+      "title": "Rashida Tlaib stands by call for Trump impeachment despite backlash",
+      "excerpt": "Rep. Rashida Tlaib on Friday refused to back down from her controversial call to impeach President Trump, despite mounting criticism. Ms. Tlaib told a crowd hours after being sworn in Thursday night that Democrats would go after the president.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/rashida-tlaib-impeachments-1f5cf09310702363ba2de9f74712b1ba",
+      "originalUrl": "https://apnews.com/article/rashida-tlaib-impeachments-1f5cf09310702363ba2de9f74712b1ba",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/ShareLogo2.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-16-where-is-camp-david-and-did-donald-trump-invite-the-taliban-there.md",
       "title": "Where is Camp David and did Donald Trump invite the Taliban there?",
       "excerpt": "JOE Biden is facing fury for “hiding out on vacation” at Camp David while the Taliban seize control of Afghanistan. The president left for the retreat on Friday, August 13, and appears",
@@ -1395,58 +1438,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-07-trumps-recurring-donation-tactics-led-to-128m-in-refunds-but-his-pac-is-still-using-pre-checked-boxes-to-steer-supporters-into-unwitting.md",
-      "title": "Trump's recurring donation tactics led to $12.8m in refunds, but his PAC is still using pre-checked boxes to steer supporters into unwitting payments",
-      "excerpt": "Trump and the GOP refunded millions to donors in the first half of 2021 after using the controversial fundraising tactic, per The New York Times.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-pre-checked-box-donation-tactic-leads-millions-in-refunds-2021-8",
-      "originalUrl": "https://www.businessinsider.com/trump-pre-checked-box-donation-tactic-leads-millions-in-refunds-2021-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/610e7ba12a24d00018624384?width=1200&format=jpeg",
-          "width": 695,
-          "height": 347,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-pre-checked-box-donation-tactic-leads-millions-in-refunds-2021-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pre-checked-box-donation-tactic-leads-millions-in-refunds-2021-8?amp",
-      "publishedDateTime": "2021-08-07T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -2,6 +2,63 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-07-14-angela-merkels-white-house-visit-ends-trump-era-hostilities-but-trans-atlantic-drift-continues.md",
+      "title": "Angela Merkel’s White House Visit Ends Trump-Era Hostilities, but Trans-Atlantic Drift Continues",
+      "excerpt": "German Chancellor Angela Merkel’s farewell visit to Washington this week will broadcast a new, friendlier tone between the U.S. and Europe after the acrimony of the Trump era but will likely do little to reverse the long-term divergence of interests in the countries’ relationship.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/angela-merkels-white-house-visit-ends-trump-era-hostilities-but-trans-atlantic-drift-continues-11626271040",
+      "originalUrl": "https://www.wsj.com/articles/angela-merkels-white-house-visit-ends-trump-era-hostilities-but-trans-atlantic-drift-continues-11626271040",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-368648/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/angela-merkels-white-house-visit-ends-trump-era-hostilities-but-trans-atlantic-drift-continues-11626271040",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/angela-merkels-white-house-visit-ends-trump-era-hostilities-but-trans-atlantic-drift-continues-11626271040",
+      "publishedDateTime": "2021-07-14T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-donald-trump-lawyer-jenna-ellis-leaves-gop-official-called-her-election-claims-a-joke.md",
       "title": "Donald Trump lawyer Jenna Ellis leaves GOP; official called her election claims 'a joke'",
       "excerpt": "In a November email, a GOP attorney said Ellis and fellow Trump attorney Rudy Giuliani were pushing conspiracy theories about the 2020 election.",
@@ -1478,58 +1535,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-mary-trump-calls-all-gop-lawmakers-traitorsexcludes-cheney-kinzinger.md",
-      "title": "Mary Trump Calls All GOP Lawmakers 'Traitors'—Excludes Cheney, Kinzinger",
-      "excerpt": "The ex-president's niece—a fierce critic of her uncle and much of her extended family—slammed Republican reluctance to hold a probe into the U.S. Capitol riots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mary-trump-republicans-capitol-riots-traitors-1607406",
-      "originalUrl": "https://www.newsweek.com/mary-trump-republicans-capitol-riots-traitors-1607406",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1839039/trump-supporters-clash-january-6.jpg",
-          "width": 2500,
-          "height": 1668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mary-trump-republicans-capitol-riots-traitors-1607406?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mary-trump-republicans-capitol-riots-traitors-1607406?amp=1",
-      "publishedDateTime": "2021-07-07T01:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
